@@ -417,7 +417,7 @@ Damage Dealt/Received | Damage Recoiled/Reduced
 
 These are Moves capable of hitting a single target multiple times at once, such as Fury Swipes. Multi-Hit Moves are treated a bit differently as opposed to how they are in the mainline Pokemon games. Unlike most Moves, Multi-Hit Moves use *damage dice* in place of BP, meaning a Player will roll the Move's respective damage die a certain number of times, with the sum of said rolls being the resulting damage.
 
-Multi-Hit Moves, similar to Room-Hitters, do **not** accept Offensive Stats directly. Instead, **for every 4 Stat Points** in either Offensive Stat (Attack or Special Attack, whichever applies to the Move), **an extra damage die is added** to the Move's respective **damage dice**. The most common damage dice are D8, and D10, with niche cases excepted. 
+Multi-Hit Moves, similar to Room-Hitters, do **not** accept Offensive Stats directly. Instead, **for every 5 Stat Points** in either Offensive Stat (Attack or Special Attack, whichever applies to the Move), **an extra damage die is added** to the Move's respective **damage dice**. The most common damage dice are D8, and D10, with niche cases excepted. 
 
 Depending on external factors, the damage of these Moves, like all Moves, may be increased or decreased. Here is how such cases are handled.
  - **Type Effectiveness** affects the final damage number as normal.

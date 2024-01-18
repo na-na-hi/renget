@@ -9,7 +9,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
 **Level:** 11 | **Experience to Next Level:** 10/110
-**Worn Item:** *N/A* | **Clothing:** *N/A*
+**Worn Item:** *N/A* | **Clothing:** *Green Scarf*
 **Pokécoin:** 803₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 15 points to spend.
+    You have 27 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -78,9 +78,9 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Eye-Drop Seed | Never miss and gain +5 Perception Skill for 4 turns.
-2. Grass Gummi | Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
-3. Oran Leaf | Heals the user for 3HP. Can stack to 3.
-4. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
+2. Blast Seed | Explodes on contact for 10 true damage.
+3. Oran Berry | Heals the user for 10HP.
+4. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

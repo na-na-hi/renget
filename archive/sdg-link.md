@@ -203,6 +203,7 @@ https://rentry.org/lora-training-science
 ###ComfyUI Workflows
 https://comfyworkflows.com
 https://comfy.icu
+https://openart.ai/workflows/all
 ###AI Porn Guide
 https://web.archive.org/web/20230925170223/https://gitgud.io/gayshit/makesomefuckingporn
 ###Block Merging
@@ -301,8 +302,9 @@ https://boards.4chan.org/e/#s=sdg
 https://boards.4chan.org/d/#s=ddg
 https://boards.4chan.org/b/#s=degen
 https://boards.4channel.org/vt/#s=vtai
-https://boards.4chan.org/aco/#s=asdg
+https://boards.4chan.org/aco/#s=sdg
 https://boards.4chan.org/trash/#s=sdg
+https://boards.4chan.org/soc/#s=ai+nude
 !!! info
 	---------------------------
 ##Official Discord

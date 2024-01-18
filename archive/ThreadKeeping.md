@@ -112,7 +112,7 @@ Dollmaker's Paradise (Hinako Shimeki)
 rentry.org/8y8ra
 The Girl Inside My Head (Makoto Nagai, Yuki Kazama)
 https://rentry.org/ervx3
->The Newest Library Patron (Amaryllis, Joji, Akari, and minor appearances of Aki, Komaru, and Yoru).
+The Newest Library Patron (Amaryllis, Joji, Akari, and minor appearances of Aki, Komaru, and Yoru).
 https://rentry.org/DENewestPatron
 These High Times Are Killing Him (Aki Hitoyoshi, Amaryllis, Akari Ichioka, Lemon Amano, Makoto Nagai, Komaru Nishitani, Mithran Kuro, Mari Aozaki)
 https://rentry.org/snxixus7
@@ -136,8 +136,10 @@ Makoto and Kazama Selfie
 >>91507831
 Makoto and Yoru
 >>91510355
->Mess
+Mess
 >>91552302
+reqs
+>>91587636
 
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737

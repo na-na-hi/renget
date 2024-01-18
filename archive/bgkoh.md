@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The Clover Force
 **Level:** 12 | **Experience to Next Level:** 15/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 559₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 359₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -47,12 +47,13 @@ Eᴍᴘᴛʏ | Description
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
     You have 17 points to spend.
-    4/12 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
+    5/12 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
 2. Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 4 IP
-3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+3. Lightweight | The User is lighter than their species is normally supposed to be.| 1 IP
+4. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 
@@ -79,7 +80,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Blast Seed | Explodes on contact for 10 true damage.
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
-3. Tiny Reviver Seed | Revives fainted Pokémon to half HP
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

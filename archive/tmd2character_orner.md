@@ -9,7 +9,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 **Species:** Seviper | **Affiliation:** Team Gildscales
 **Level:** 11 | **Experience to Next Level:** 85/110
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 305₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
+**Pokécoin:** 165₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -46,7 +46,7 @@ Glare | Orner looks straight into your soul, freezing you in place.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 14 IQ points to spend.
+    You have 31 IQ points to spend.
     6/10 IP | ▮▮▮▮▮▮▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -73,8 +73,8 @@ Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Pierce Band | 25% chance of thrown items hitting multiple targets when worn.
-*Equipped Item: Pecha Berry | Heals Poison status.
-1. Pecha Berry | Heals Poison status.
+*Equipped Item: Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Warp Seed | Random teleport seed.
 2. Power Seed | Increases Attack and Special Attack by 2 stages.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

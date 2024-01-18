@@ -11,7 +11,7 @@
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
 **Level:** 11 | **Experience to Next Level:** 0/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 2220₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1995₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -48,7 +48,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 51 points to spend.
+    You have 60 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -81,7 +81,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Big Apple | Gives +4 to any outside-combat-action.
 2. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
@@ -89,8 +89,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Dew Gummi | Gives +10 IQ points to Bug-Types. Gives +5 to other types. Tastes like honeydew.
-2. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

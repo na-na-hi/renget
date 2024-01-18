@@ -9,7 +9,7 @@
 **Species:** Larvitar | **Affiliation:** Team Ruckus
 **Level:** 11 | **Experience to Next Level:**20/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1954₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 4₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -46,12 +46,12 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 25 points to spend.
-    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+    You have 7 points to spend.
+    3/10 IP | ▮▮▮▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Amneplasticity | The User receives an Egg Move or TM of their choice with ≤7BP. May pull from future evolution paths if needed. Granted from Amnesia. | 0
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+2. Preferred Weather | User receives +2 to their Species Bonus when under the affects of their selected weather condition. | 3IP
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -75,7 +75,7 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | Vacant Worn/Held slot.
+*Worn/Held Item: Noxious Scarf* | Badly Poisons the user.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.

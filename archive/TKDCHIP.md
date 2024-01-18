@@ -1289,3 +1289,5 @@ https://files.catbox.moe/72365y.mp4 New  1/17/24
 https://files.catbox.moe/c634hu.mp4 New  1/17/24
 >Heavy U.S. - U.K. airstrikes in Yemen taking place tonight, after the Houthis hit a US commercial ship a few hours ago.
 https://files.catbox.moe/uza8tn.mp4 New  1/17/24
+>Scenes of the recent American-British strikes on several cities across Yemen.
+https://files.catbox.moe/vy0w07.mp4 New  1/17/24

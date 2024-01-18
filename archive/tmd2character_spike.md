@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 12 | **Experience to Next Level:** 25/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 70₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -19,14 +19,14 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 ->*280/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+1) | Modifiers | Combat Effect
+Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 12 (22HP) | 22HP
-Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage 
+Attack | 3 | ɴᴏ ʙᴏɴᴜs | +3 Physical Damage 
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 2 |  ɴᴏ ʙᴏɴᴜs | 5 AP
+Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4 AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -85,7 +85,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
+1. Eᴍᴘᴛʏ | Vacant storage slot.
 2. Eᴍᴘᴛʏ | Vacant storage slot.
 
 **RP/QUEST STORAGE (∞ slots)**
