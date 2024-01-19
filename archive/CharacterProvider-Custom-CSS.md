@@ -8,6 +8,7 @@
 
 #### V2 compared to standard CSS:
 ![](https://files.catbox.moe/39bc63.gif)
+*(Sorry, this gif is a bit heavy. Wait for a while...)*
 
 ##### **Changes (V2)**
 > Changes were made on SillyTavern 1.10.10

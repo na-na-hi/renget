@@ -13,6 +13,7 @@ Comment:
 The Edition
 
 >News
+OpenAI march models enter deprecation phase https://platform.openai.com/docs/deprecations/2023-06-13-updated-chat-models
 Huggingface and render are cracking down on proxies
 Mistral released Mistral 8x7b, a Mixture of Experts model that outperforms Turbo despite being much smaller and more efficient
 https://mistral.ai/news/mixtral-of-experts/

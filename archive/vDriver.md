@@ -1,4 +1,4 @@
-# vDriver v0.2.1
+# vDriver v0.2.3
 
 Apologies in advance for the rough/barebones nature of this document. If you're more used to deep, lore-focused tabletop RPG documents, this isn't what you're shopping for. There is lore, but it is largely undefined and what is defined is in service of the game's function.
 
@@ -32,6 +32,19 @@ In this game, you create and take control of a Driver, a person capable of calli
 2. Pick a starting Advantage. You'll get 1 additional Advantage every odd-numbered Rank, but you can't pick the same one multiple times.
 3. You're done.
 
+## Resources & Upgrades
+When elements of the digital sea clash and intersect, Crystallized Power is created. These are rough gems forged from various elements of the digital sea. These can be procured from mines, veins on the surface, or even found at the site of Driver battles in limited quantities. Crystallized Power can be used as a power source, used for restoration of various objects/resources from the Digital Sea, used as a currency by most merchants, or reforged by a Driver to increase their capabilities.
+
+At the end of an encounter involving a Driver, any Driver with more Drive than their Base Drive resets to their Base Drive, then gains CP equal to 10% of the overage. Between encounters, in addition to changing any of their currently-equipped Installs, a Driver can use their stockpiled CP to make trades/purchases, or synthesize a Rank-Up Mark. You can only synthesize 1 Rank-Up Mark per encounter, even if you have enough CP to synthesize multiple. Each Rank-Up Mark provides +1 Rank. The cost to synthesize a Rank-Up Mark is based on your current Rank:
+Rank | CP Cost
+:----: | :----:
+1~4   | 100 CP
+5~9   | 250 CP
+10~14   | 500 CP
+15~19   | 1000 CP
+20   | 2000 CP
+Once your Rank is 20, further Rank-Up Marks can still be Synthesized, but they no longer have any effect. Only the first 19 Rank-Up Marks in your inventory will have any effect.
+
 ## Game Flow
 Gameplay takes place on a hexgrid. Units each take up one space.
 At the start of the first round, each unit rolls 1d12 as Initiative. Ties are broken based on the unit's base Drive.
@@ -41,11 +54,14 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 * ***Dedicated*** - If you only have 1 Install equipped, increase your Base Drive by 50%.
 * ***Drive Boost*** - At the start of your first turn in an encounter, increase your Drive by 20%.
 * ***Durable Drive*** - Increase your Base Drive by a value equal to your DUR.
+* ***Fast Learner*** - Increase the amount of your Drive overage converted to CP at the end of combat by 10% (to 20%).
 * ***Finisher Plus*** - Once per turn, after using a FN ability, gain 1 AS, but this AS can only be used for FN abilities.
 * ***Force Drive*** - Increase your Base Drive by a value equal to your FOR.
+* ***Item Boost*** - Increase the Uses of all Items in your inventory by 1 each.
 * ***Power Drive*** - Increase your Base Drive by a value equal to your POW.
 * ***Presence Drive*** - Increase your Base Drive by a value equal to your PRE.
 * ***Slot Up*** - Increase your AS on each turn by 1.
+* ***Team Training*** - If, at the end of an encounter, your Drive is less than your Base Drive, gain 1 CP for each ally that ended the encounter with Drive higher than their Base Drive.
 * ***Variety Program*** - If you have at least 5 Installs equipped, and none of them have any Sync Bonus, grant each Install +1 Bonus Lvs.
 
 ## Installs
@@ -152,3 +168,6 @@ Turns are taken in order, with each unit using their Action Slots as desired, un
 * Changed one of Ninomae Ina'nis' Natures from "Artist" to "Illustrator".
 * Added Roca Rourin as an Install
 * Added Evasion as a Condition.
+* Added Resource/EXP system in Crystallized Power
+* Added the ability to increase your Rank.
+* Added Fast Learner, Item Boost, and Team Training as Advantages.

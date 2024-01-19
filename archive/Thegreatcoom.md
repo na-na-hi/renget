@@ -913,3 +913,8 @@ Musclegirl Relief Facility | Summary
 ------ | ------
 ![Muscle](https://files.catbox.moe/62hs4r.png) | Help a wide range of amazons relieve stress after a hard day at work! In a world where unregulated use of growth-hormones has led to a small group of women growing massive, special work-camps have been set up to help give these girls a place to use their new strength for good. You work at one of these camps as a "Relief Officer'', and it's your job to make sure they can unwind after a long day, be sure to cater to each girl's tastes, they're all unique, even if all could crush your head like a melon.
 Links   | Catbox: https://files.catbox.moe/62hs4r.png
+
+CUM of Tomorrow | Summary
+------ | ------
+![CUM](https://files.catbox.moe/fi6d2p.png) | A sexy parody of "Edge of Tomorrow", you have been given the extraordinary power to "respawn" each time you die, at the same time each day with nobody but you registering what has happened, all of this happening during an invasion of earth by a race of powerful yet strangely alluring aliens. And instead of trying to fight them, you're doing to try to FUCK them.
+Links   | Catbox: https://files.catbox.moe/fi6d2p.png

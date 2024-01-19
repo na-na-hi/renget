@@ -14,7 +14,8 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=SPWsptIhKkM
 
 \>Streams
-Next stream: Advent karaoke relay (Fri 01/19 9:30PM CT)
+Next stream (Advent karaoke relay, Fri 01/19 9:30PM CT)
+https://www.youtube.com/watch?v=ZMkpmt40vRY
 Last stream (Palworld Advent collab)
 https://www.youtube.com/watch?v=WAkp75HkDfA
 Previous appearance (Sims 4 offcollab with Kiara on Kiara's channel)

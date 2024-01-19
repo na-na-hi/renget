@@ -321,9 +321,6 @@ aarp.org/health/conditions-treatments/info-2020/safe-earwax-removal
 *Digital Audio Player (DAP) / Portable Music Player (PMP) Guide*
 twitter.com/align_centre/status/1677649129353404416
 
-*Rockbox DAP / PMP Firmware*
-rockbox.org
-
 *Reading on Various Audio Topics*
 diyaudioheaven.wordpress.com/tutorials
 

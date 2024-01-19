@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-17==
+# /aicg/ chronicles, up to ==2024-01-18==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -48,6 +48,7 @@ When | Where | What
 When | Where | What
 -|-|-
 2023-01-18|[90953224](https://desuarchive.org/g/thread/90952456/#90953224)| Malfoy-sama's disappearance was a psyop
+2023-01-18|[90974770](https://desuarchive.org/g/thread/90973657/#90974770)| desu 0
 2023-01-19|[90979079](https://desuarchive.org/g/thread/90976500/#90979079)| ~2 hours of bad code on c\.ai
 2023-01-26|[91133457](https://desuarchive.org/g/thread/91131642/#91133457)| long "awaited" c\.ai official statement, completely denying anons' desire
 2023-01-29|[91205871](https://desuarchive.org/g/thread/91205570/#91205871)| c\.ai """""""""""""""""""""""""""""""""""""""""""temporarily""""""""""""""""""""""""""""""""""""""""""" freezes popular characters
@@ -1011,6 +1012,12 @@ When | Where | What
 2024-01-17|[$JHf3OD](https://matrix.to/#/!tcPGnHinyITxdkqIZA:halogen.city/$JHf3ODd27CxBwfC-uwq-NBxpGNUDJ0Wf9mzZPK34fmc?via=matrix.org&via=midov.pl&via=cutefunny.art)| Pyg subreddit drama resolved, originally fanmade becomes official, originally official hidden
 2024-01-17|[98507259](https://desuarchive.org/g/thread/98506522#98507259)| the page with DALL-E 3 images pulled from proxies is overhauled
 2024-01-17|[98509840](https://desuarchive.org/g/thread/98509623#98509840)| OAI boasts about GPT5 capabilities, and as long as it won't help kill gays, other cultures can customize it
+2024-01-18|[98512949](https://desuarchive.org/g/thread/98511987#98512949)| some data appearing to be leaked from CharacterHub
+2024-01-18|[98513715](https://desuarchive.org/g/thread/98511987#98513715)| voice changing software and a voice models database shared again
+2024-01-18|[98518242](https://desuarchive.org/g/thread/98516955#98518242)| the winner of Japan's top literary prize admits she used unedited OAI output
+2024-01-18|[98524890](https://desuarchive.org/g/thread/98522188#98524890)| a possible explanation for the latest leak provided
+2024-01-18|[7:55 PM](https://twitter.com/ylecun/status/1748071754117886087)| Llama-3 is coming!
+2024-01-18|[98530463](https://desuarchive.org/g/thread/98530396/#98530463)| desu 1
 -|-|-
 
 [](you have found my secret stash of nothing!)
