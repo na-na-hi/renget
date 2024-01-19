@@ -5,9 +5,11 @@
 !!! danger Parameter settings
 	->I've got it set at 1.7, but bumping it up is an option too. Just make sure Top-P is set low, around 0.5-0.7.<-
 
-[![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/5vy42d.zip)
+[![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/y5clyz.zip)
 
 #####->Logs genned using this new approach<-
+![Log3](https://files.catbox.moe/9kkqf6.png)
+***
 ![Log1](https://files.catbox.moe/mlz89i.png)
 ***
 ![Log2](https://files.catbox.moe/v05wd8.jpg)

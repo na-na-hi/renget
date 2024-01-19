@@ -43,6 +43,9 @@ https://kotturdtales.neocities.org/kotturd-tales/
 **Songs and wallpapers**
 https://priconne-hill.com/album
 
+**Character Sorter**
+https://priconnesort.github.io/charasort/
+
 **/pcrg/ Icon collab**
 https://mega.nz/folder/ttJzwSjK#0GD1BRnvpoezoJsPLBkhkw
 

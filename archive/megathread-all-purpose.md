@@ -118,9 +118,9 @@
 - Invites are frequently given to users of this coveted private tracker site, offering torrents in all categories at unmatched speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentleech.org/)
 
-### 🧲 [SolidTorrents](https://solidtorrents.eu/)
+### 🧲 [SolidTorrents](https://solidtorrents.to/)
 - DHT-based torrent search engine that strives to make discovering and downloading torrents simple for anybody.
-- [URL Safety Results](https://www.urlvoid.com/scan/solidtorrents.eu/)
+- [URL Safety Results](https://www.urlvoid.com/scan/solidtorrents.to/)
 
 &nbsp;
 

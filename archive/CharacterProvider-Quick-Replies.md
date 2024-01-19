@@ -1,8 +1,6 @@
 ![](https://files.catbox.moe/dlphjz.png)
 ## Quick replies
 *Current version: 2.0| (28.12.2023)*
-
-==These prompts are experimental!==
 - - -
 ####
 ##### **Info:**

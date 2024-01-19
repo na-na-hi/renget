@@ -15,6 +15,10 @@ https://www.youtube.com/watch?v=EOn_MGgOWYs
 https://www.youtube.com/watch?v=-UZ0n2Tqiyw
 https://www.youtube.com/watch?v=Ms5u_lXJIAA
 
+\>Myriad Celestia Trailer — "A Night of Ever-Flame: Scene 33"
+https://www.youtube.com/watch?v=8eWVW8ml9G4
+https://www.youtube.com/watch?v=ieUxZHy6ICo
+
 \>Current Character Banners: (Dr. Ratio, Kafka + Sushang, Natasha, Hook) - https://www.hoyolab.com/article/24375691
 
 \>Current Light Cone Banners: Baptism of Pure Thought (The Hunt), Patience Is All You Need (Nihility) - https://www.hoyolab.com/article/24375760

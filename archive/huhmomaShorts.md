@@ -873,3 +873,84 @@ I want to see video recordings of the arguments from canine scientists in the ea
 >No canine is to be sent to space without a human companion now
 
 ---
+Human Cafe by anonymous
+
+A /hmoma/ doujin just dropped, here's the tldr for those, who don't have a translation plugin.
+>A masochistic wolf, who's the minister of security, goes to a sex shop to learn what it's like to become a completely subservient dog for a human.
+
+The doujin hand me thinking
+>Canines have a very weird, inverse equivalent to human maid cafes
+>Where they can go to get spoiled and praised by their (usually human) 'master' for a set time every day
+>For a low low membership fee and session charge each time
+>("Try for our 'Golden Goodboy' loyalty level!")
+>Feels... weird...
+>But the pay is almost unreal given the low skilled work required
+>You just have to have a passable face, a soothing voice and a nice pair of hands
+>Of course, for YOU, this is just a job, a fantasy you help these weird dogs play out
+>But for some of them, the line between fantasy and reality is becoming dangerously thin
+>And some of them are starting to really think that what they have with you is special, not just a financial transaction...
+
+>some of them are starting to really think that what they have with you is special, not just a financial transaction
+Imagine working at a cafe and everyday A massive wolf anthro that could twist you into a pretzel with zero effort comes in and pays you to praise him, pet him, cuddle(fuck) him, and then just one day he shows up outside your apartment door so he can be (your) good boy FOREVER
+
+Many such cases I imagine
+
+>*KNOCKNOCKNOCKNOCKNOCKNOCK*
+>"ANOOOON! IT'S MEEEEE! LET ME IN ANOOOON!"
+>You awoke to your house being under siege from a roughly 600 pound wolf, and unfortunately you recognize his voice
+>He's one of very few of your 'Golden Goodboy' tier patrons at the cafe
+>What that actually means is that he's visited you at the cafe literally every day for the past year for at least 30 minutes a day
+>For reference, that's at least 3,691,062.50 yen, or 25 thousand usd, he's spent just to spend time with (you)
+>In one year
+>On a bouncer's salary
+>Obsessed would be a gross understatement
+>Over the past month he had been trying to spend more and more time with you at the cafe, sometimes trying to stay after closing and loitering around the building when he would finally get kicked out
+>You had told your manager that you were starting to get a little scared of his behavior, but he had brushed you off, telling you in a sing-song voice that "it just means you're doing a great job, Anon! He's an excellent patron and he knows our rules, he wouldn't dare put a claw on you!"
+>The sound of your front door starting to crack from your stalker's onslaught brings you back into present
+>"I KNOW YOU'RE IN THERE, ANON! I COULD RECOGNIZE YOUR SCENT FROM A HUNDRED MILES AWAY! PLEASE LET ME IN, IT'S ME!"
+>What do you do? Your first instinct is to call the police, but this guy brings in so much money to your workplace you might get in trouble or even fired if he gets locked up, even though he's clearly violating the 'no stalking our humans' rule...
+>But he clearly wants to take his imaginary relationship to you to the next level, with or without your consent, and that's not going to be good for business, either
+>You're explicitly forbidden from having a public relationship all so that you can maintain the illusion of a special relationship with your clients
+>Maybe if you're lucky, one of your neighbors will hear the racket and call the cops for you...
+
+This has the all the hallmarks of being a classic case of “inadvertent domestication”… Unfortunately for anon however, under Japanese law he is now legally obligated to take care of this poor wolf now… So in other words, let him in.
+
+Anon needs to take RESPONSIBILITY and give that good-boy what he needs, which are some pets, a walk (with leash of course) and a “treat” (human cum) for being such a good boy!
+
+He'd been improperly domesticated before... which means it's time to do it right. Force that dude to understand his place. Be firm.
+
+That’s when your quiet, reclusive feline neighbor comes out with a Mossberg
+
+Kek
+>Fortunately (?), your wish that one of your neighbors would intervene for you miraculously comes true
+>Unfortunately, it just so happens to be your... weird... neighbor
+>The only interaction you've ever had with him is introducing yourself on your move in 2 years ago, to which he responded with a suspicious glare in total silence before slamming his door on you
+>Real charmer, but his timing couldn't have been better
+>Right as the lovesick lug managed to snap off one of your door hinges, you hear your neighbor's door fly open and a warning shot from his massive shotgun (which you don't know enough about shotguns to identify), followed by a "WHAT THE HELL ARE YOU DOING, YOU IMBECILIC HORNDOG?!"
+>Instantly the assault on your front door stops, the intense din replaced by an ominous, inhuman growling directed towards your insane neighbor
+>H-haha...
+>You should probably do something, or else somebody is actually going to die here
+>The growling turns into a bloodcurdling roar and you can hear your neighbor yell out "G-GOD DAMN...!" before another shot rings out
+>It almost deafens you, but you're pretty sure you heard buckshot ricocheting off of the wall rather than through flesh
+>After struggling with the almost destroyed door, hanging on only 2 of its hinges and covered in clawmarks, you emerge to see your neighbor and your, uh, suitor, engaged in their best impression of the Doom cover art, the cat holding his now ruined shotgun with its barrel bent in an almost 90 degree angle off to side and using his free claw to try and hold the hulking canine behemoth at bay
+>You yell out 'STOP!' to try to get his attention, and both of them turn towards you
+>The canine himself has bloodshot eyes and is literally foaming at the mouth, but on seeing your face it seems like some great weight has been lifted from him
+>Your neighbor, on the other hand, looks like he wants to turn his shotgun on you next
+>"Anon! Oh thank god, it's you! Please get back inside, i'll keep you safe from this criminal, I promise!"
+>"W-what the hell kind of company are you keeping, Anon?! Who the hell is he?!"
+>"Who am I?! Who are YOU and why do you think you have the right to bring a weapon anywhere within 100 yards of MY HUMAN?!"
+>Quick, you need to think of something to say to defuse the situation!
+>"Please, stop it, both of you! You see the truth is... that he's... my boyfriend!"
+>Silence as both of them stare at you
+>The canine breaks the silence first as his ears fold back and tears start to well up
+>"Wh... he's... you have a...? Am I not...?"
+>Wait, he thought you meant cat?!
+>"Good god, is this the kind of company you keep at your weird human whorehouse job?! It's a damn miracle you haven't been ripped to shreds yet if THIS is your clientele!"
+>The cat's unhelpful snark awakens a primal rage inside of the canine, as hackles raise and all of his anger is redirected towards him
+>"You... YOU STOLE HIM FROM ME...! I'LL KILL YOU!", followed by a panicked hiss as the wolf's grip starts to tighten around the cat's upper torso
+>You know, maybe you really do need to rethink your job after all...
+
+>"You... YOU STOLE HIM FROM ME...! I'LL KILL YOU!", followed by a panicked hiss as the wolf's grip starts to tighten around the cat's upper torso
+Initiate emergency canine pacification (domestication) protocols (pets) STAT!
+
+---
