@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 220th time, what is Ope?!
+For the 221st time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -14,12 +14,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=SPWsptIhKkM
 
 \>Streams
-Next stream (Palworld Advent collab, Thu 01/18 8PM CT)
+Next stream: Advent karaoke relay (Fri 01/19 9:30PM CT)
+Last stream (Palworld Advent collab)
 https://www.youtube.com/watch?v=WAkp75HkDfA
 Previous appearance (Sims 4 offcollab with Kiara on Kiara's channel)
 https://www.youtube.com/watch?v=RhAMbkt35ps
-Last stream: Unarchived offcolab karaoke with Kiara
-https://mega.nz/folder/nG4iHSID#TaecwQ8wQc-u7hQANIXTpg
 
 \>New merch
 Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
@@ -30,8 +29,8 @@ Cover of SOS (Fuyuko Mayuzumi's Image Song)
 https://www.youtube.com/watch?v=uwwK82MIxIY
 Cover of MOKA★ - Lilium
 https://www.youtube.com/watch?v=-GUdYPelG8c
-Christmas karaoke battle (Nerissa vs Aradia, Dec 2023)
-https://mega.nz/folder/2OQVwTaB#ICK_03ual8oHkBNpN1PvVw
+Unarchived offcolab karaoke with Kiara (Jan 2024)
+https://mega.nz/folder/nG4iHSID#TaecwQ8wQc-u7hQANIXTpg
 Songs & Karaokes rentry
 https://rentry.org/karaokes_songs_v01
 Cover playlist
@@ -42,7 +41,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67012623
+Previous thread: >>67047080
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

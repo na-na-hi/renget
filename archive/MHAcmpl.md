@@ -649,6 +649,7 @@ Swordrush(Hifumi): https://desuarchive.org/tg/post/91495404/
 Hoge's First Sleepover: https://desuarchive.org/tg/post/91511133/
 Class1D-005: https://desuarchive.org/tg/thread/91586719/#91591198
 1D Dance Team (Colorized): https://desuarchive.org/tg/thread/91595699/#91600316
+Shiketsu ED V0.2: https://desuarchive.org/tg/post/91610993/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

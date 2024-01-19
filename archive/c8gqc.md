@@ -13,8 +13,8 @@
 • 7Hz x Crinacle Zero: 2 (bassy neutral) - $25
 • EPZ G10 (Harman) - $35
 • TRN Conch (bright V) - $35
-• Simgot EA500 (bright neutral) - $80
 • Truthear Hexa (neutral) - $80
+• Simgot EA500LM (bright V) - $90
 
 *Honorable Mentions*
 • KBEAR Rosefinch (very bassy) - $20
@@ -23,6 +23,7 @@
 • Kinera Celest Wyvern Pro (Harman) - $30
 • Tinhifi C2 (bright V) - $30
 • BLON x HBB Z300 (bassy) - $35
+• EPZ Q1 Pro (Harman) - $35
 • Kiwi Ears Cadenza (bassy neutral) - $35
 • Moondrop Lan (neutral) - $40
 • Simgot EW200 (Harman) - $40
@@ -63,17 +64,19 @@
 • Tinhifi P1 Max (warm neutral) - $180
 • Moondrop Kato (warm neutral) - $190
 • Binary Acoustics x Gizaudio Chopin (Harman) - $200
+• Geek Wold GK100 (bright V) - $200
 • Hisenior T4 (neutral) - $200
 • iKKO OH10S (V-shape) - $200
+• QoA Aviation (dark neutral) - $200
 • Thieaudio Elixir (bassy neutral) - $210
 
-##Hi-Fi IEMs ($220 - $380)
+##Hi-Fi IEMs ($220 - $400)
 ***
 *Hall of Fame*
 • Aful Performer5 (bassy neutral) - $220
 • Kiwi Ears Quintet (Harman) - $220
 • Xenns Mangird Tea2 (bassy neutral) - $350
-• Yanyin Canon II (V-shape) - $380
+• Thieaudio Hype 4 (bassy neutral) - $400
 
 *Honorable Mentions*
 • Simgot EA1000 Fermat (bright neutral) - $220
@@ -86,10 +89,10 @@
 • Penon Fan 2 (warm dark) - $280
 • ISN Neo5 (bassy neutral) - $290
 • Hisenior Okavango (warm W) - $300
-• Thieaudio Hype 2 (bassy neutral) - $300
 • Moondrop Blessing3 (bright neutral) - $320
 • SeeAudio Bravery RB (mild V) - $320
 • Aful Performer8 (neutral) - $370
+• Yanyin Canon II (V-shape) - $380
 
 ##Audiophile IEMs ($450 - $1000)
 ***
@@ -239,14 +242,16 @@
 • iBasso DC04 Pro - $120
 
 *Honorable Mentions*
-• EPZ TP20 - $50
 • Moondrop Dawn Pro - $50
 • Akliam PD4 Plus - $60
+• EPZ TP20 Pro - $60
 • Colorfly CDA-M1P - $80
-• EPZ TP30 - $80
 • FiiO KA13 - $80
+• Simgot DEW4X - $80
 • Shanling UA4 - $100
+• EPZ TP50 - $120
 • FiiO KA5 - $130
+• FiiO KA17 - $150
 
 ##DAPs / PMPs
 ***

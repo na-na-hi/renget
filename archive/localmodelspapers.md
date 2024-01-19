@@ -123,6 +123,7 @@
 11/2023|[Emu Edit: Precise Image Editing via Recognition and Generation Tasks](https://arxiv.org/abs/2311.10089)
 12/2023|[Audiobox: Unified Audio Generation with Natural Language Prompts](https://arxiv.org/abs/2312.15821)
 12/2023|[Universal Pyramid Adversarial Training for Improved ViT Performance](https://arxiv.org/abs/2312.16339)
+01/2024|[Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 12/2015|[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)

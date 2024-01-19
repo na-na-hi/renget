@@ -116,6 +116,8 @@ The Newest Library Patron (Amaryllis, Joji, Akari, and minor appearances of Aki,
 https://rentry.org/DENewestPatron
 These High Times Are Killing Him (Aki Hitoyoshi, Amaryllis, Akari Ichioka, Lemon Amano, Makoto Nagai, Komaru Nishitani, Mithran Kuro, Mari Aozaki)
 https://rentry.org/snxixus7
+3-0 BTW (Yoji, Ikari, featuring Akari in a cameo)
+https://rentry.org/DE_BEJITABROBTW
 
 >Relationship Charts
 Emilia Shadowsong
@@ -519,11 +521,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Art:
->Dance Team
->>91600316
->date
->>91603225
+>Shiketsu ED V0.2
+>>91610993
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/

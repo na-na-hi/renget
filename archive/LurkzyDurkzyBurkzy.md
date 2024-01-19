@@ -1,3 +1,22 @@
 #%darkred%L%%%darkblue%U%%%yellow%R%%%purple%K%%%violet%z%%'s Furbo  Preset
 
-->*{{char}} hoped, hoping against hope amidst the cacophony symphony of NPC 1's footsteps, which barely muffled the carnal pleasures that was the living embodiment of forbidden indulgence occurring right under their nose in the opposite room. That room, was a cruel reminder of {{char}}'s failures, a direct appeal to her senses that both repulsed and excited her, a cocktail of emotions that evoked tangible discoloration of her reality. It was now or never, and {{char}} was not about to give up, not now, not ever, not when the stakes were so high, no, she couldn't, she wouldn't, she shan't! This was her time, and {{char}} knew, that this was in fact, her time, not later, not in the future, but now, in this exact moment, was her time to act, before it was all too late, before it all comes crumbling down in a fireball of VHTEIUBGIPEBGIUETBG9EBGV9UEBIPERWH F9G3G807W35G80F3GFH3-9FHQ3UFJWD9-EI -9i0=92u90=820=98e098303280=948249i32-4i 234u 0234j230*<-
+!!! note
+	->Not back, but I was interested in a different approach. This preset gives responses in first-person through {{char}}'s inner-monologue, attempting to do the same in third-person leads to the usual GPTisms. The base is pretty much the same, but I've removed ==GUIDELINES== and a few other changes to reflect this new style of writing. I won't be making updates, this was just a one-off sparked by a few people on Discord that were experimenting with a similar style.<-
+!!! danger Parameter settings
+	->I've got it set at 1.7, but bumping it up is an option too. Just make sure Top-P is set low, around 0.5-0.7.<-
+
+[![Furbo](https://files.catbox.moe/xpdcbr.png)](https://files.catbox.moe/5vy42d.zip)
+
+#####->Logs genned using this new approach<-
+![Log1](https://files.catbox.moe/mlz89i.png)
+***
+![Log2](https://files.catbox.moe/v05wd8.jpg)
+***
+
+#####->Hiding the codeblock (For Furbo)<-
+->This will remove the codeblock from the final response, saving tokens and potentially not poisoning future responses. <-
+Config | Code
+:----: | :----:
+![RegEx](https://files.catbox.moe/xv7f21.png)   | /\```[\s\S]*?```/g
+
+***
