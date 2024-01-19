@@ -3,7 +3,8 @@
 !!! note haha numbers go up
 ***
 Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry. No, my real name is not Pasha.
-Don't be afraid to email me — I will be polite and formal even if I despise your guts :^)
+Don't be afraid to email me — chances are, I don't hate your guts and will formally reply to you.
+I only hate two botmakers from 4chan :^)
 
 Relevant resources:
 https://www.chub.ai/users/pashatehink

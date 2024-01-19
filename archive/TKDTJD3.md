@@ -469,3 +469,223 @@ https://files.catbox.moe/vy0w07.mp4  1/17/24
 
 >⚡️#Yemen: An official source to Al-Mayadeen: There is nothing new in the bombing of the American-British aggression tonight in terms of targets that were previously bombed.
 https://nitter.net/ME_Observer_/status/1747786203028505082#m  1/17/24
+
+>⚡️Reuters: An Indian Navy ship in the Gulf of Aden responds to a distress call from a ship flying the Marshall Islands flag that was attacked by a drone.
+https://nitter.net/ME_Observer_/status/1747896222147379697#m  1/18/24
+
+>The Commission of Detainees Affairs and the Palestinian Society Prisoner’s Club say that Israel's military kidnapped at least 60 citizens from the West Bank last night, bringing the total number of detained persons since the 7th of October to (6090).
+
+(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1747919308800311728#m  1/18/24
+
+>The strikes by Pakistan however, have been reckless & immature.
+
+— 🛑| 🇮🇷 Deputy governor of Iran’s Sistan and Baluchestan province said:
+
+Pakistan targeted a village close to the border with missiles [while targeting terrorist positions] around 4:30 am collateral damage caused the death of 4 children, 3 women and 2 men whom were not Iranian citizens. 
+
+— 🛑| 🇮🇷 Iran’s FM spokesman condemned Pakistan’s strikes on border areas with Iran, saying the charge d’affaires of Pakistan in Tehran was summoned to communicate the official protest and to seek clarification from Islamabad.
+
+Pakistan’s error in striking terrorists caused the death of 9 civilians (albeit not Iranian) VS 2 deaths when Iran attacked Jaish al Adl.
+https://nitter.net/AryJeay/status/1747937153756094928#m  1/18/24
+
+>🇮🇷 ⚡ 🇵🇰 Pakistani fighter jets crossed into Iranian airspace last night and struck Balochi targets, killing 9 wanted Pakistanis.
+
+Iran has not activated its air-defense systems. A good sign that this show was a deal.
+https://t.me/megatron_ron/1192  1/18/24
+
+>Pictures of the damage caused by Yemen, to the American ship south of Aden yesterday.
+https://nitter.net/AryJeay/status/1747948148276744565#m  1/18/24
+
+>During a press conference in Amman today, Turkey's Minister of Foreign Affairs, Hakan Fidan, stressed that the Palestinians, not Israel, are the ones who are facing a security threat.
+https://nitter.1d4.us/QudsNen/status/1747953421896835530#m  1/18/24
+
+>⚡️Occupation leader Herzog:
+The weapons available to the Houthis are more than those available to Norway
+https://nitter.net/ME_Observer_/status/1747955474299822288#m  1/18/24
+
+>🛑| Al-Qassam (Hamas) has since this morning targeted:
+
+🔻2 Merkava tanks
+🔻1 Military D9-bulldozer 
+🔻Killing 5 IOF soldiers with TBG
+🔻Luring 30 soldiers into a booby-trapped building, exploding the entire building leaving them dead & wounded
+https://nitter.net/AryJeay/status/1747957043598594199#m  1/18/24
+
+>BREAKING:
+
+⚡ 🇩🇰 🇾🇪 Denmark set to join anti-Houthi coalition
+
+The Danish shipping and logistics corporation AP Moller-Maersk also warned customers of possible disruptions in the global transportation network due to the worsening situation in the Red Sea.
+
+So they are ready to harm their economies in the name of Israel, as in the case of Ukraine.
+https://t.me/megatron_ron/1193  1/18/24
+
+>BREAKING| The EU Parliament has passed a resolution for a ceasefire and expedited humanitarian aid in Gaza.
+
+The resolution comes following over 100 days of Israeli genocide, which has killed over 24,000 Palestinians so far, most of whom are children and women.
+https://nitter.1d4.us/QudsNen/status/1747967099304100137#m  1/18/24
+
+>NEW:
+
+⚡ 🇮🇱🇸🇦 A report in the "Financial Times":
+
+"An initiative in Arab countries for a ceasefire and the release of hostages in exchange for normalization with Saudi Arabia.
+
+The initiative depends on Israel agreeing to irreversible benefits for the Palestinians"
+https://t.me/megatron_ron/1195  1/18/24
+
+>Ministry of Health in Gaza latest toll:
+"Israeli occupation committed 15 massacres against families in Gaza, resulting in 172 martyrs and 326 injuries in the past 24 hours."
+
+"The death toll from the Israeli aggression has risen to 24,620 martyrs and 61,830 injuries."
+https://nitter.1d4.us/QudsNen/status/1747977319866605840#m  1/18/24
+
+>⚡️| 🇾🇪 Abdulmalek al-Houthi, AnsarAllah leader:
+
+The direct involvement of the United States and Britain in the battle does not frighten us; on the contrary, it reassures us. It is a blessing and an honor for us to be in direct confrontation with them, whereas in the past, they fought against us using their tools without facing direct consequences.
+https://nitter.net/AryJeay/status/1747984581242830961#m  1/18/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing its forces clashing with IOF soldiers & vehicles in the Al-Tuffah and Al-Daraj neighborhoods in Gaza City. 
+
+The first scene is such a clean captured shot.
+https://nitter.net/AryJeay/status/1748000570013626497#m  1/18/24
+https://files.catbox.moe/zqx3v9.mp4  1/18/24
+
+>🛑 Al-Qassam (Hamas) in the last hour, targeted:
+
+🔻3 troop carriers (APC), and clashed with soldiers who were around it, leaving them dead and wounded.
+🔻Completely blew up another APC.
+https://nitter.net/AryJeay/status/1747997177677221947#m  1/18/24
+
+>🛑 | 🇮🇷 IMPORTANT: Explanations of the Iranian Ministry of Foreign Affairs about the operations of the IRGC on Tuesday night:
+
+On Wednesday, the border base of the IRGC in Sistan and Baluchestan province (Iran) observed the readiness of a terrorist group planning to cross the borders of the Islamic Republic of Iran for carrying out another terrorist operation, similar to the terrorist attack in Rask, last month. 
+
+In a preemptive operation against this terrorist group, the IRGC targeted their base and headquarters in the mountain heights of the region, kilometers away from populated areas. This approach is part of the inherent duties of the border forces of the Islamic Republic of Iran to counter any terrorist threat poised to occur against the people of Iran.
+https://nitter.net/AryJeay/status/1748011527129493811#m  1/18/24
+
+>🛑| 🇮🇶 Islamic Resistance in Iraq announces:
+
+Attacking [for the first time since the war] the US Hemo base, which is located to the west of Qamishli Airport, in Syria. The Islamic Resistance confirms that it will continue to destroy enemy strongholds, and promises more.
+https://nitter.net/AryJeay/status/1748013611769848095#m  1/18/24
+
+>🛑 Al-Qassam (Hamas)
+
+Detonated a booby-trapped tunnel’s entrance upon the entry of an IOF infantry force, east of the Al-Tuffah neighborhood in Gaza City.
+https://nitter.net/AryJeay/status/1748023328118391123#m  1/18/24
+
+>🛑Al-Qassam (Hamas)
+
+Targeted a Merkava tank with 3 soldiers on top with an Al-Yassin 105 rocket, east of the Al-Tuffah neighborhood in Gaza City.
+https://nitter.net/AryJeay/status/1748024586065572285#m  1/18/24
+
+>BREAKING:
+
+⚡ 🇺🇸🇮🇶 The U.S. base in Erbil is hit once again
+
+Reports of explosions in Erbil, Iraqi Kurdistan.
+
+Video shows C-RAM air defenses having been activated
+
+Suicide drone attack against the U.S. base in Erbil International Airport – Al Arabiya
+(Photo illustrative)
+https://t.me/megatron_ron/1198  1/18/24
+
+>⚡️An explosion was heard on the outskirts of the city of Erbil in northern #Iraq
+https://nitter.net/ME_Observer_/status/1748027564382200262#m  1/18/24
+
+>⚡️Security source in Erbil airport: A drone was heading towards the airport, and the air defenses shot it down before arriving at the targets.
+https://nitter.net/ME_Observer_/status/1748028235131080941#m  1/18/24
+
+>🛑 | 🇮🇷 Iran’s Foreign Ministry in a statement condemned Pakistan’s strike on a civilian village in the border area, but said won’t let “enemies” to weaken Tehran-Islamabad ties.
+https://nitter.net/AryJeay/status/1748028558436356560#m  1/18/24
+
+>🛑| According to Al-Hadath, they reported that the drone was launched from within Mosul (toward Erbil). 
+
+It was probably carried out by an Iraqi resistance faction.
+https://nitter.net/AryJeay/status/1748037437320798675#m  1/18/24
+
+>🚨| 🇮🇶 BREAKING: According to Sabreen (a source close to PMU:
+
+An American MQ-9 drone crashed (or was downed) in Muqdadiyah (near Baghdad).
+
+A high-ranking security delegation arrives at the outskirts of the area to find out where the drone fell and there are intensive communications with Baghdad in order to reach it, especially since it is deep in a mountainous area, 3 km east of the Imam Wais Hills.
+https://nitter.net/AryJeay/status/1748043047558914374#m  1/18/24
+https://files.catbox.moe/eo70jl.mp4  1/18/24
+
+>Additional footage of the moment when the American MQ-9 drone was crashing near Baghdad.
+https://nitter.net/AryJeay/status/1748043534773436433#m  1/18/24
+https://files.catbox.moe/r9y7j6.mp4  1/18/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing the targeting of a Zionist force inside a building in Jabalia al-Balad, north of the Gaza Strip.
+https://nitter.net/AryJeay/status/1748041366762893445#m  1/18/24
+https://files.catbox.moe/xgg0y0.mp4  1/18/24
+
+>Media Coverage | According to Israeli media reports, Israel's Minister of National Security, Itamar Ben-Gvir, has ordered soldiers to loosen their shooting orders, violating army code. He declared, "You have complete backing from me."
+
+The extremist minister comforted Border Police members, stating, "A hair on your head is worth a thousand 'terrorists' " during his visit to the police base in the occupied West Bank.
+https://nitter.net/QudsNen/status/1748039409935483146#m  1/18/24
+
+>BREAKING:
+
+⚡ 🇺🇸🇮🇶 American MQ-9 Reaper drone, was downed near Baghdad after taking off from Kuwait
+
+Resistance forces have reached the area and are working to recover the remains of the drone into a safe location.
+https://t.me/megatron_ron/1200  1/18/24
+https://files.catbox.moe/h8hqhd.mp4  1/18/24
+
+>BREAKING:
+🇮🇱 Israeli Defense Minister Yoav Galant:
+
+"There is no complete solution to the pockets of resistance in Gaza, and we must be prepared for the possibility of deteriorating conditions on the northern front."
+https://t.me/megatron_ron/1197  1/18/24
+
+>⚡️| 🇮🇷 Iran published drone footage of the Jaish ul-Adl terrorist headquarters in Pakistan, which it targeted.
+https://nitter.net/AryJeay/status/1748057662695079964#m  1/18/24
+https://files.catbox.moe/jc64p8.mp4  1/18/24
+
+>BREAKING:
+ 🇮🇱 Netanyahu told the U.S. that he opposes a Palestinian state in any postwar scenario.
+
+He also said that they are attacking Iran, the head of the snake, which is behind the Hezbollah and Houthi attacks.
+
+He has just rejected Blinken's offer of "Saudi Arabia-controlled Palestine". In a few weeks there will be a major war with Hezbollah.
+https://t.me/megatron_ron/1199  1/18/24
+
+>🚨🇾🇪 Preliminary reports of an attack against a ship, southeast of Ash Shihr (Yemen)
+https://nitter.net/AryJeay/status/1748064773353128236#m  1/18/24
+
+>⚡️| 🇾🇪 Yemeni Armed Forces’ Spox Yahya Sarae:
+
+The Yemenk naval forces carried out an operation against an American ship (Chem Ranger) in the Gulf of Aden with several anti-ship missiles, resulting in direct hits.
+https://nitter.net/AryJeay/status/1748103628399714598#m  1/18/24
+
+>⚡️ The occupation forces completely withdraw from Tulkarm camp after an incursion that lasted for more than 45 hours.
+
+In the video from 30 mins ago :
+
+IED explodes in an Israeli military vehicle in the camp
+https://nitter.net/ME_Observer_/status/1748118347563090026#m  1/18/24
+https://files.catbox.moe/tej9oa.mp4  1/18/24
+
+>⚡️⭕️ #Lebanon, Hezbollah, summary of military operations on Thursday, January 18, 2024, as follows:
+
+- Eastern sector:
+
+1. At 15:30, Al-Samaqa site in the hills of Kafr Shuba and the occupied Lebanese Shebaa Farms was targeted with missile weapons, resulting in direct hits.
+
+- Western sector:
+
+1. At 11:00, a gathering of "Israeli" enemy soldiers in the vicinity of Admit barracks was targeted with missile weapons, causing direct hits.
+
+2. At 13:00, Birket Risha site was targeted with appropriate weapons, resulting in a direct hit.
+
+3. At 14:30, Al-Malkiya site was targeted with appropriate weapons, resulting in a direct hit.
+
+4. At 17:00, Al-Raheb site was targeted with appropriate weapons, resulting in a direct hit.
+
+On_The_Path_to_Liberate_AlQuds 
+Hezbollah
+Military_Media
+https://nitter.net/ME_Observer_/status/1748134519427739648#m  1/18/24

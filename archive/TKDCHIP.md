@@ -1053,6 +1053,10 @@ https://files.catbox.moe/r79zrp.mp4 New  1/16/24
 https://files.catbox.moe/42mcr4.mp4 New  1/17/24
 >Al-Qassam targeting of a Merkava tank, east of the Bureij camp, with an Al-Yassin 105.
 https://files.catbox.moe/73666j.mp4 New  1/17/24
+>Hamas clashing with IOF soldiers & vehicles in the Al-Tuffah and Al-Daraj neighborhoods in Gaza City.
+https://files.catbox.moe/zqx3v9.mp4 New 1/18/24
+>Hamas video showing the targeting of a Zionist force inside a building in Jabalia al-Balad, north of the Gaza Strip.
+https://files.catbox.moe/xgg0y0.mp4 New 1/18/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1291,3 +1295,16 @@ https://files.catbox.moe/c634hu.mp4 New  1/17/24
 https://files.catbox.moe/uza8tn.mp4 New  1/17/24
 >Scenes of the recent American-British strikes on several cities across Yemen.
 https://files.catbox.moe/vy0w07.mp4 New  1/17/24
+>Netanyahu goes full retard
+https://files.catbox.moe/f5u5e9.mp4 New 1/18/24
+>Joe Biden statement
+https://files.catbox.moe/3v8cjb.mp4 New 1/18/24
+>Additional footage of the moment when the American MQ-9 drone was crashing near Baghdad.
+https://files.catbox.moe/eo70jl.mp4 New 1/18/24 Part 1
+https://files.catbox.moe/r9y7j6.mp4 New 1/18/24 Part 2
+>American MQ-9 Reaper drone, was downed near Baghdad after taking off from Kuwait
+https://files.catbox.moe/h8hqhd.mp4 New 1/18/24
+>Iran published drone footage of the Jaish ul-Adl terrorist headquarters in Pakistan, which it targeted.
+https://files.catbox.moe/jc64p8.mp4 New 1/18/24
+>IED explodes in an Israeli military vehicle in the Tulkarm camp  
+https://files.catbox.moe/tej9oa.mp4 New  1/18/24
