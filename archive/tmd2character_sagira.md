@@ -15,14 +15,14 @@
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
 **Level:** 12 | **Experience to Next Level:** 65/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1,292₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 692₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Magician | When using Attacking Moves, the User steals an Item from their Opponent.
 
 ->Rookie Rank<-
-->*260/400 points to Normal Rank*<-
+->*365/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
@@ -82,7 +82,7 @@ Item Name | Description
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
 2. 1x Wooden Stick | Does 3 true damage to a target, is thrown directly.
 3. 3x Oran Leaf | Heals the user for 3HP. Can stack to 3.
-4. Grass Gummi | Gives +10 IQ points to Grass-Types. Gives +5 to other types. Tastes like grass clippings and flowers.
+4. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

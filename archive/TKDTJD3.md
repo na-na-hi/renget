@@ -689,3 +689,380 @@ On_The_Path_to_Liberate_AlQuds
 Hezbollah
 Military_Media
 https://nitter.net/ME_Observer_/status/1748134519427739648#m  1/18/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 18 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻 The Yemeni naval forces carried out an operation against an American ship (Chem Ranger) in the Gulf of Aden with several anti-ship missiles, resulting in direct hits.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Zionist force inside a building with a TBG anti-fortification rocket, resulting in 5 casualties, east of Khan Yunis in southern Gaza.
+
+🔻Detonated a pre-rigged building with explosive devices, followed by targeting the Zionist infantry unit, consisting of 30 soldiers, who were lured into the building in Bani Suheila, east of Khan Yunis.
+
+🔻(Partially) destroyed 4 Merkava tanks, 2 APCs & 5 military D9-bulldozer in various battle zones in the Strip.
+
+🔻Blew up an armored personnel carrier (APC) with a Yassin 105 rocket, near the Eastern Cemetery east of Jabalia, in northern Gaza.
+
+🔻Clashed with a Zionist infantry unit of 12 soldiers & eliminated 4 soldiers at point-blank range, near the Eastern Cemetery, east of Jabalia in northern Gaza.
+
+🔻Shelled a military gathering of invading forces, east of Jabalia in northern Gaza, with mortars.
+
+🔻Targeted a special Zionist force inside a building with a TBG anti-fortification rocket, east of Jabalia in northern Gaza.
+
+🔻Targeted a special Zionist force inside a building in the Sheikh Ajleen area, southwest of Gaza City, with a TBG anti-fortification rocket, followed by engaging them.
+
+🔻Detonated a booby-trapped tunnel entrance upon the entry of a Zionist infantry force, east of Tuffah neighborhood in Gaza City.
+
+🔻Targeted a Merkava tank with 3 soldiers on board with a Yassin 105 rockets, east of Tuffah neighborhood in Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Engaged in fierce gun battles with Zionist soldiers and vehicles in the fronts east of Jabalia.
+
+🔻Engaged in intense clashes with Zionist forces using machine guns and anti-tank shells in the advancing fronts in the central, eastern, and southern parts of Khan Yunis.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted a concentration of IOF soldiers, east of Souk Al-Hob, with a barrage of 60mm mortars.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Clashed with the zionist enemy forces in the eastern Jabalia area with appropriate weapons, confirming that there were direct casualties among the zionist forces.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+Our fighters engaged in intense clashes in the Batn Al-Sameen area in Khan Younis, firing a tandem shell on the invading vehicles in the area, hitting them directly. 
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Barkat Risha IOF site with appropriate weapons.
+
+🔻Targeted israeli soldiers around the Admeet barracks with rockets.
+
+🔻Targeted the Al-Malikiyah site with appropriate weapons.
+
+🔻Targeted the Samaqa site in the hills of Kafr Shuba and the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Al-Rahib IOF site with appropriate weapons.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the Hemo US base using drones, located west of Qamishli Airport in Syria.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1748169736855175436#m  1/18/24
+
+>Here are more leaked footages of the MOSSAD commander, nicknamed Ilan (aka Fox) of the special force task of the israeli intelligence agency in Erbil, together with other Kurdish authorities and pictures of him showing the training of terrorist groups in a place, allegedly in the same base the IRGC demolished (can’t confirm if it’s the same base). 
+
+But it shows the true nature of these compounds and the Peshraw Dizayee villa, that acted as a Mossad compound, was being used as one of the main spy bases.
+https://nitter.net/AryJeay/status/1748296937151819965#m  1/19/24
+
+>⚡️Pakistani media reports that 24 hours after tension with Iran, the price of gas has increased 10 rupees across the country, with massive increases expected 
+https://nitter.net/sepidrud/status/1748286563555873121#m  1/19/24
+
+>🚨 A drone from Lebanon entered Haifa via the sea & was intercepted by the Iron Dome over Acre. No sirens were activated.
+https://nitter.net/AryJeay/status/1748310712768696637#m  1/19/24
+
+>Aftermath of the house in "Kfar Yuval" that was hit by two guided missiles fired by Hizbullah, in which an IOF reservist settler was killed
+https://nitter.net/IbnRiad/status/1748309052826779895#m  1/19/24
+
+>🛑 PressTV published an exclusive image showing the Iraqi Kurdish tycoon, Peshraw Dizayee, who was killed by IRGC missiles inside a MOSSAD compound a few days ago, together with Elan Nissim (aka Fox) a MOSSAD agent & Hussein Yazdan, leader of the Kurdistan Freedom Party (PAK)
+https://nitter.net/AryJeay/status/1748303385621618966#m  1/19/24
+
+>🛑 Al-Qassam (Hamas)
+
+Confirmed completely destroying a Merkava tank, along with killing 2 soldiers next to it, using a Yassin 105s. 
+
+A helicopter was seen rushing to transport the dead and wounded, east of Khan Yunis in southern Gaza.
+https://nitter.net/AryJeay/status/1748328458818613722#m  1/19/24
+
+>🛑| John Bolton, the notorious former US Assistant to the president for national security, admits that Iran attacked an israeli facility (MOSSAD base) inside northern Iraq.
+https://nitter.net/AryJeay/status/1748335111378968963#m  1/19/24
+
+>France's newly appointed foreign minister, Stéphane Séjourné, says his country wouldn't support the ICJ's decision if it ruled against Israel because accusing them of genocide is "crossing a moral threshold" and is "exploiting the notion of genocide for political purposes".
+https://nitter.1d4.us/QudsNen/status/1748232577570292006#m  1/19/24
+
+>EX-US State Department official, Stuart Seldowitz, who was filmed calling a halal food vendor in New York City a “terrorist” and saying the death of 4,000 Palestinian children in Gaza “wasn’t enough”, has reached a deal to have hate crime charges dismissed.
+
+Seldowitz was ordered to attend 26 weeks of anti-bias training in return for having the case dismissed.
+https://nitter.1d4.us/QudsNen/status/1748230706965135668#m  1/19/24
+
+>Israel's war cabinet minister Gadi Eisenkot says he rules out the possibility of the army succeeding in liberating the Israeli prisoners in Gaza. 
+
+"I believe we must boldly state that it is impossible to bring back the hostages alive in the near future without a deal."
+https://nitter.1d4.us/QudsNen/status/1748227307968307432#m  1/19/24
+
+>UN rights expert says Israel’s war on Gaza breaches international law
+https://nitter.1d4.us/QudsNen/status/1748333098641633475#m  1/19/24
+
+>BREAKING| Reuters cites Swiss prosecutors as confirming that they filed a criminal complaint against Israel's President during his participation in the Davos Economic Forum.
+https://nitter.1d4.us/QudsNen/status/1748334733228912862#m  1/19/24
+
+>The Mexican and Chilean governments have filed a joint request to the Prosecutor of the ICC to investigate Israeli war crimes against the Palestinian people.
+https://nitter.1d4.us/QudsNen/status/1748335240819429578#m  1/19/24
+
+>⚡️Israeli Minister of the Interior to the heads of authorities in the Haifa area
+“We are preparing for a long battle”:
+
+Against the backdrop of the rise in tensions and escalation in the northern sector, the Minister of Interior in the occupation government, Moshe Arbel, met in the city of Haifa with the heads of the Haifa region in the Home Front Command, and the mayors of Haifa, Kiryat Ata, Kiryat Yam, Kiryat Bialik, and Nesher.
+
+Erbil said during the meeting: “We are preparing for a long battle in the north, and to win the war you need a strong background and strong local leadership.”
+
+Translated by Suhaib Al-Masalama
+https://nitter.net/ME_Observer_/status/1748322651951518131#m  1/19/24
+
+>BREAKING:
+
+⚡ 🇷🇺🇵🇸 Russian Foreign Ministry:
+
+"The Russian Deputy Foreign Minister holds consultations with a delegation from the Hamas movement in the Russian capital, Moscow"
+
+Something big is going on...
+https://t.me/megatron_ron/1217  1/19/24
+
+>Meanwhile in American media :
+
+"We haven't seen Putin for 2 weeks, we have insider information from his body guards that he is in terminal phase cancer and his replacement is being prepared, the Kremlin will be forced to end the war in Ukraine soon after Putin the Tyrant dies".
+https://nitter.net/ME_Observer_/status/1748351245645951105#m  1/19/24
+https://files.catbox.moe/hd6eyo.mp4  1/19/24
+
+>⚡️ Reuters: Pakistan's Foreign Minister spoke to his #Iranian counterpart and expressed his country's readiness to work with #Tehran on all issues
+
+Reuters: The Pakistani Foreign Minister stressed in a phone call with his #Iranian counterpart the need for closer cooperation on security issues
+https://nitter.net/ME_Observer_/status/1748355731340812751#m  1/19/24
+
+>⚡️#YEMEN : Under the rain : "Stand with Palestine... and America is the mother of terrorism"
+
+The revolution and mobilization continues. Another week, another mass demonstration to renew the pledge :
+
+Aerial photos of the million-strong crowd in the Seventeenth Square in the capital Sana'a in the march "Stand with Palestine... and America is the mother of terrorism"
+https://nitter.net/ME_Observer_/status/1748356892806513044#m  1/19/24
+
+>French Foreign Minister Stéphane Séjourné hesitates to address the Israeli actions in Gaza as a genocide, stating, "To accuse the 'Jewish State' of genocide is to cross a moral red line."
+https://nitter.1d4.us/QudsNen/status/1748357289202049119#m  1/19/24
+
+>Breaking | Maersk Shipping Company temporarily suspends shipping bookings between East and West via the Red Sea due to the unstable situation.
+https://nitter.1d4.us/QudsNen/status/1748359188114260176#m  1/19/24
+
+>NEW:
+
+⚡ 🇺🇸🇾🇪 British journalist to CNN:
+
+"The Houthis completely destroyed the Chem Ranger ship, and it can not be maintained or returned to work. They have completely destroyed it."
+
+US officials said yesterday that the missile landed next to the ship and did not damage it. They were obviously lying.
+https://t.me/megatron_ron/1220  1/19/24
+
+>The European Union's foreign policy chief Josep Borrel claims: "Hamas was financed by the government of Israel in an attempt to weaken the Palestinian Authority led by Fatah."
+https://nitter.1d4.us/QudsNen/status/1748379896458424358#m  1/19/24
+
+>Breaking | Delta Airlines announces the continued cancellation of flights between Tel Aviv and New York until April 30th.
+https://nitter.1d4.us/QudsNen/status/1748384812660854832#m  1/19/24
+
+>BREAKING:
+ 🇹🇷 Erdogan:
+
+“Today's 'Führer' is Netanyahu, and he is blinded by blood and hatred.”
+https://t.me/megatron_ron/1224  1/19/24
+
+>🚨🇮🇶 An important statement by the Islamic resistance in Iraq will be issued shortly.
+https://nitter.net/AryJeay/status/1748386044951560552#m  1/19/24
+
+>🛑 Al-Qassam (Hamas) issued the following updates in the last 3h:
+
+🔻Destroyed 3 Merkava tanks
+🔻Targeted 1 military vehicle
+🔻Targeted 2 Merkava tanks
+🔻Sniped an IOF soldier with a Ghoul rifle
+🔻Targeted an IOF force inside a building with a TBG & targeted its rescue tank
+🔻Targeted an IOF force inside a building with TBGs & clashed with the soldiers
+🔻Targeted an IOF forces inside a building with RPGs
+https://nitter.net/AryJeay/status/1748387577453748339#m  1/19/24
+
+>Demonstration in solidarity with Gaza and condemnation of Israeli war in Ludwigsburg, Germany.
+https://nitter.1d4.us/QudsNen/status/1748385814864625856#m  1/19/24
+https://files.catbox.moe/go0iff.mp4  1/19/24
+
+>Breaking | Civil Defense in Gaza: Bodies and casualties on the ground in the Abu Mazen area west of Gaza, and we are unable to reach them due to Israeli targeting.
+https://nitter.1d4.us/QudsNen/status/1748391888145502575#m  1/19/24
+
+>⚡️Al-Nasser Salah al-Din Brigades publishes details of the death of one of its prisoners, an officer in the IDF, killed by #Israel airstrikes
+
+They treated his wounds, but he died after
+https://nitter.net/ME_Observer_/status/1748393719659704812#m  1/19/24
+https://files.catbox.moe/f5a8q1.mp4  1/19/24
+
+>⚡️#Yemen: Local sources for Al-Mayadeen: American-British aggression with a number of raids targeting the cemetery north of Hodeidah on the Red Sea, west of #Yemen.
+https://nitter.net/ME_Observer_/status/1748402108242567352#m  1/19/24
+
+>⚡️Al-Qassam published a video showing launches of mortars & 107mm rockets targeting military concentrations penetrating the outskirts of Gaza City.
+https://nitter.net/AryJeay/status/1748402683260678325#m  1/19/24
+https://files.catbox.moe/42qtm3.mp4  1/19/24
+
+>🛑| 🇮🇶BREAKING: Islamic Resistance in Iraq announces:
+
+In defense of the sovereignty of Iraq and its airspace violated by the aircraft of the US forces, yesterday, they targeted an American MQ-9 drone in Diyala Governorate, with the appropriate weapons. 
+
+The drone was coming from Ali Al-Salem base in Kuwait.
+https://nitter.net/AryJeay/status/1748410178653819319#m  1/19/24
+
+>⚡️✅ A summary of the most prominent aspects of the speech of the head of the #Hamas movement abroad, the Mujahid Khaled Meshal, during the “global retreat” event in response to the call of the spokesman for the Al-Qassam Brigades, Abu Ubaida, in the Jordanian capital, Amman:
+
+▪️ O our nation, remember how harsh the 100 days are for our popular incubator in #Gaza, those who were displaced from their homes in this open country in light of the harsh winter and hunger, in addition to the aggression, massacres, demolition, and this brutal war.
+
+▪️Our enemy is shocked that the Mujahideen fighters have been patient in these underground tunnels all these months.
+
+▪️ The difference between us and our enemy is our enemy. Every day he is involved in funerals for dozens of his dead and hundreds and thousands of wounded and disabled, in addition to the psychological defeat and the dispute between them was orchestrated, thanks to God Almighty, between the #Israeli leadership and the mini-cabinet and within the government and between the Zionist politicians and military personnel.
+
+▪️The criminal Zionist occupation is trying to head towards the north because it has run out of time and not because the Americans are asking it to reduce its performance in #Gaza, but it has nothing left to accomplish in #Gaza.
+
+▪️This occupation is also trying to open a new front and implicate the American administration in it in the north, and it is like one who is looking for a moment, but the more it goes, the deeper its crisis becomes.
+
+▪️ I lived through past wars and this is an exceptional war.. I did not find anything in my brothers’ messages indicating that they were tired or looking for a way out. The summary of their repeated messages full of faith, certainty and confidence in victory is: We are fine in the field. Check on us. Do not worry. Take care of the incubator of our great people who have given us everything from Patience and steadfastness.
+
+▪️What you see on television screens and videos of the Qassam heroes from the field...this is the tip of the iceberg. They told us that not all of the mujahideen’s heroics can be filmed under these harsh conditions.
+
+▪️ Yesterday we saw half a reserve battalion in the enemy army who refused to fight on #Gaza land, so we are fine and we are close to the end of this blessed battle.
+
+▪️ We need jihad on the ground, jihad with money, with our lives, and with everything we possess, political, media, and popular jihad, and engaging in the battle in all its dimensions.
+
+▪️ You, people of Jordan, my beloved ones, may God bless you, may God bless you; We are filled with what you are doing and how good your brothers are, hoping for more and more from you and from their nation.
+https://nitter.net/ME_Observer_/status/1748411286109442372#m  1/19/24
+
+>BREAKING: 
+
+ 🇮🇱 🇺🇸 Israeli Walla News:
+
+"President Biden spoke today with Prime Minister Netanyahu about the situation in Gaza, according to the White House.
+
+This is the first conversation between the two since December 23, when Biden hung up on Netanyahu to his face after the prime minister refused to release the Palestinian tax money."
+
+Megatron: This has a lot to do with Netanyahu's public rejection of the US proposal for a Palestinian state yesterday.
+https://t.me/megatron_ron/1226  1/19/24
+
+>BREAKING: 
+🇮🇱 Israeli Haaretz:
+
+"According to a source in the security ministerial team: There is no future for the war, and Netanyahu is stalling to buy time and escape responsibility."
+https://t.me/megatron_ron/1227  1/19/24
+
+>⚡️Occupation Broadcasting Corporation:
+
+The occupation warns in a message to Washington that it will engage in military action if it does not remove #Hezbollah from the northern borders
+https://nitter.net/ME_Observer_/status/1748430731183841651#m  1/19/24
+
+>BREAKING:
+
+⚡ 🇮🇱 Israeli minister, Ben-Gvir:
+
+"We must go to war with Hezbollah"
+
+"If we do not quickly start a war against Hezbollah, it will be difficult for the residents of the north to return."
+
+The lady was amazed and horrified by the stupidity emanating from him...
+https://t.me/megatron_ron/1229  1/19/24
+
+>BREAKING:
+🇮🇱 The Washington Post, according to sources: "The view of Washington and many Israeli occupation army leaders is that Israel is far from defeating Hamas"
+https://t.me/megatron_ron/1231  1/19/24
+
+>🛑| Update on Haifa attack:
+
+According to Yedioth Ahronoth’s correspondent, Yossi, a suspicious target was identified in the Haifa area (slow-moving target: UAV).
+
+An interceptor was launched, triggering the sirens in Haifa. However, the interceptor lost contact with the target, and it's unclear precisely whether or not it hit the target.
+https://nitter.net/AryJeay/status/1748438773644284081#m  1/19/24
+
+>BREAKING:
+ 
+🇮🇱🇺🇸🇱🇧 Senior Israeli Officials have notified the Biden administration and U.S. Defense Officials that a military campaign in Southern Lebanon is imminent, if an agreement with Hezbollah regarding UNSC Resolution 1701 is not reached soon
+https://t.me/megatron_ron/1232  1/19/24
+
+>🚨| Preliminary reports of explosions in Haifa Bay — 2 explosions were heard.
+https://nitter.net/AryJeay/status/1748457558010937521#m  1/19/24
+
+>🚨According to a local observer in Haifa:
+
+“There are a lot of police near Raphael [Weapons facility] and there’s a smell of fire.”
+
+I can’t confirm the authenticity of this, it was told to me by an observer.
+https://nitter.net/AryJeay/status/1748461074792247297#m  1/19/24
+
+>Footage of the attack by Yemen’s Armed Forces (“Houthis”) on one of the ships
+https://nitter.net/revolutionaryem/status/1748462226707472712#m  1/19/24
+https://files.catbox.moe/1ckfpr.mp4  1/19/24
+
+>🛑 | ⚰️ According to a local source in Syria:
+
+This afternoon, American helicopters transported more than 22 coffins from their bases in Syria to their main US base Ain al-Asad in Iraq. The coffins arrived in 4 batches on Friday, coming from Syria.
+https://nitter.net/AryJeay/status/1748464563480047723#m  1/19/24
+
+>BREAKING| US President Joe Biden: There are a number of types of two-state solutions. Some UN member states do not have armies ... And so, I think there are ways in which this could work.
+https://nitter.net/QudsNen/status/1748472587212997091#m  1/19/24
+
+>NEW:
+
+ 🇮🇱 🇺🇸 Yedioth Ahronoth:
+
+In President Biden's conversation with Netanyahu tonight, the president presented Netanyahu with two options:
+
+"Either history will remember you as the one who refused any cooperation with the Palestinians to end the conflict and as the leader who led to October 7, or you will be the Israeli leader who gave a state to the Palestinians, guaranteed Israel's security and brought peace with Saudi Arabia and the rest of the Islamic world."
+https://t.me/megatron_ron/1235  1/19/24
+
+>Another series of leaked images showing Elan Nissim, the MOSSAD agent in northern Iraq, during his reception of Mossad recruits in the region, inside the office of the private Israeli security company TASA, which is linked to the Mossad.
+https://nitter.net/AryJeay/status/1748479902725067012#m  1/19/24
+
+>On the wall, the pictures can be seen of IRGCQF Qaani, Qassem Soleimani, Imad Mughniyeh, Ayatollah Khamenei (new and old)
+
+But what caught my eyes are 2 things
+• Picture of Mohsen Rezaee during his IRGC period with “traitor” next to his pic
+• Picture of the 4 abducted Iranians in Beirut
+https://nitter.net/AryJeay/status/1748481461676626401#m  1/19/24
+
+>Also visible on the MOSSAD wall that caught my eyes are:
+
+• Bob Levinson, CIA agent that the US believes Iran has captured. 
+• Hamid Nouri, an Iranian citizen who’s illegally imprisoned in Sweden on charges based on evidence counterfeited by the US-funded MEK-terrorist group
+https://nitter.net/AryJeay/status/1748483401303093653#m  1/19/24
+
+>According to a British government document, UK Foreign Secretary David Cameron recommended British arms sales to Israel despite "serious concerns" in the Foreign Office that it had breached international law in Gaza. 
+
+The government also hid the document from the parliament, according to MPs.
+https://nitter.net/QudsNen/status/1748488842019999797#m  1/19/24
+
+>⚡️Al Bukheiti's message to Europe (he wishes the people of the free world to spread it) :
+
+" European societies must realize that moral and human values ​​are fixed and do not change according to the nationality and religion of a person, and their treatment of them with extreme selectivity that amounts to schizophrenia will expand the scope of wars in the world, which will expand to Europe.
+
+We are prepared to fight until the Day of Resurrection even if the whole world comes together against us."
+https://nitter.net/ME_Observer_/status/1748482832496804263#m  1/19/24
+
+>🇬🇧🇾🇪🇧🇭🚨‼️ OPERATION PROSPERITY GUARDIAN!
+
+🤣 British ships collide 🤣
+
+UK’s HMS Chiddingfold and HMS Bangor collided while berthing in Bahrain.
+
+That’s not how you defeat the Houthis!
+https://twitter.com/MyLordBebo/status/1748460625490002227  1/19/24
+
+Operation Shekel Guardian: UK’s HMS Chiddingfold and HMS Bangor collided while berthing in Bahrain.  01/19/24
+https://files.catbox.moe/efnqyq.mp4  1/19/24
+
+>BREAKING: 
+
+ 🇮🇱The Washington Post:
+
+"Israel has targeted the end of January for escalation of military action against Hezbollah".
+
+Megatron: As I said, the war with Hezbollah will escalate in less than two weeks, unless Biden convinces Netanyahu not to in the meantime.
+https://t.me/megatron_ron/1236  1/19/24
+
+>French soldiers in the Israeli military posted a video in which they say “We’re going to Gaza, we’re going to massacre them!”
+https://nitter.net/QudsNen/status/1748480872414642674#m  1/19/24
+
+— French soldiers in the Israeli military posted this video 
+https://files.catbox.moe/owm0ym.mp4  1/19/24

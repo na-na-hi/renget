@@ -2,7 +2,7 @@
 >God Rank: C
 >Synchronization Rate: 100%
 >Level: 8
->Influence: 1247/12800
+>Influence: 4682/12800
 >Divinity: 325/325
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
@@ -19,7 +19,7 @@ All of your authorities are more effective against individuals who either like y
 >Pantheon: Spawn of Discord
 Assemble your pantheon to gain a bonus to the effective level of all authorities, as well as a bonus authority that is only available upon full pantheon assembly
 
-##Authorities (14/15):
+##Authorities (15/15):
 
 >Divine Folly (EX):
 You may copy one Authority from any incarnation that falls victim to your directive. The authority you copy is random, and you may do so only once per incarnation, and all authorities are copied at level one
@@ -56,26 +56,29 @@ You may infuse your body with divinity, strengthening the power and durability o
 >To Mortals, A Scourge (3): 
 You may expend divinity to gain a resistance to attacks from mortals or from non-divine natural phenomena. Additionally, you are able to survive any single attack from a mortal while this skill is active, regardless of the power and scope. This includes explosives. However, resisting more damage than would normally be possible will reduce your divinity to zero. (10 divinity per hour)
 
->Bane of Calydon (3):
-Consumes divinity to temporarily transform you into the <Calydonian Boar>. While the skill is in use, you will have access to every natural authority of the <Calydonian Boar>, but you will be unable to use any of your other authorities while <Bane of Calydon> is active. Additionally, it is possible to utilize the authorities of Divine Relics while transformed.
+>Bane of Calydon (4):
+Consumes divinity to temporarily transform you into the <Calydonian Boar>. While the skill is in use, you will have access to every natural authority of the <Calydonian Boar>, but you will be unable to use any of your other authorities while <Bane of Calydon> is active. Additionally, it is possible to utilize the authorities of Divine Relics while transformed. You may adjust the size of the transformation, with a maximum of the beast’s full size and a minimum of your untransformed mass.
 
 >Assess Hamartia (2):
 You are able to identify the trait, desire, or flaw of an individual that is most likely to result in their ruin. Additionally, a target of <Assess Hamartia> gains penalties to resisting psychological effects targeting their Hamartia
 
->Omen (2): 
-Gives you a premonition whenever you are at risk of immediate death or severe bodily harm. Also indicates the general direction of the danger. Consumes divinity whenever it activates
+>Omen (4): 
+Gives you a premonition whenever you are at risk of immediate death or severe bodily harm. Also indicates the general direction of the danger. You also gain an instinctual understanding of not just the direction and severity, but the general nature of the oncoming threat. Also alerts you to the presence of poisons. Consumes divinity whenever it activates
 
->Preservation Instinct (3): 
-You will automatically dodge out of the way of attacks directed at you, even if you had no way of knowing that they were coming. Consumes divinity upon activating proportional to both how dramatic or complex the dodging maneuver and how difficult the attack would be to see coming. It is possible to perform movements using this authority that would not be otherwise possible, however doing so will put proportionate strain on your body.
+>Preservation Instinct (4): 
+You will automatically dodge out of the way of attacks directed at you, even if you had no way of knowing that they were coming. Consumes divinity upon activating proportional to both how dramatic or complex the dodging maneuver and how difficult the attack would be to see coming. It is possible to perform movements using this authority that would not be otherwise possible, however doing so will put proportionate strain on your body. Limited use of this authority is possible even when physically unable to move, such as the cases of torn ligaments, crushed bones, severe nerve damage, or paralytics and anesthetics.
 
->Supernatural Speed (3):
-You can infuse divinity into your body, causing you to move faster. This does not slow down your perception of time, but does heighten your reflexes and instincts. Using the skill for prolonged periods of high capacity can lead to muscle soreness. Max Usage: 10 divinity per minute. It is possible to activate this skill on reflex.
+>Supernatural Speed (4):
+You can infuse divinity into your body, causing you to move faster. This does not slow down your perception of time, but does heighten your reflexes and instincts. Using the skill for prolonged periods of high capacity can lead to muscle soreness. Max Usage: 10 divinity per minute. It is possible to activate this skill on reflex. Slows your perception of time by one third of the factor that speed is increased.
 
 >Guerilla Tactics (1):
 Hides the presence of yourself and designated allies. Consumes influence proportional to the number of targets. Can fail against higher level authorities. Does not negate the effects of items.
 
 >Scribe of Dysnomia (1):
 Any recordings or images taken of you while this authority is active, as well as anything written or spoken by you while this authority is active, including verbatim copies or transcriptions, slowly erode faith in public order when perceived. Consumes 1 divinity per second.
+
+>Specter's Wail (1):
+Releases an ear splitting scream. Causes inner ear damage at close ranges and inspires despair at long ones.
 
 ##Titles:
 

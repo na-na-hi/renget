@@ -47,14 +47,14 @@ Consumable. Has the same effect as a standard Drop of Chaos, but the deleterious
 >Authority Crystal (Low Grade): 300
 Can store an authority from level 1-3. Any incarnation, not just the original owner, can subsume that Authority by touching the crystal for 1 hour. Can be used as an ingredient for divine artifacts
 
+>Pantheon Compass: 300
+Points towards the nearest member of your pantheon who also possesses a Pantheon Compass
+
 >Trapper: 500
 Cancels the usage of a <Lizard’s Tail>. Disappears upon use.
 
 >Hydra’s Head: 500
 As <Lizard’s Tail>, but cannot be canceled out by use of a <Trapper>.
-
->Pantheon Compass: 300
-Points towards the nearest member of your pantheon who also possesses a Pantheon Compass
 
 >Cyclops' Drop of Chaos 500:
 Provides a random Divine Weapon. There is a 20% that the item has a <dud> effect, regardless of rank

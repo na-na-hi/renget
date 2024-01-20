@@ -2,7 +2,7 @@
 # Super Mario Galaxy DS Prototype Credits
 ##Project Members
 **[NumberCruncher](https://numbercruncher.newgrounds.com/)** - Director, Writer
-**[Dumbie](https://dumbiedumbie.newgrounds.com/)** - [Screenshot Artist](https://www.newgrounds.com/art/view/dumbiedumbie/super-mario-galaxy-ds)
+**[Dumbie](https://dumbiedumbie.newgrounds.com/)** - [Screenshot Artist](https://www.newgrounds.com/art/view/dumbiedumbie/super-mario-galaxy-ds), Character Design
 **[Punch](https://ohhowboringofme56.newgrounds.com/)** - Writer, Narration, Photographer
 **[Mario2900](https://www.youtube.com/@Mario2900) / [Luigi3800](https://www.youtube.com/@Luigi2900)** - [Narr](https://www.newgrounds.com/audio/listen/1275283)[ation](https://www.youtube.com/watch?v=3-RJh5lTHMQ), Video & Audio Editor, Caretaker of nn
 **[rng660](https://rng660.newgrounds.com/)** - Co-director, UI Assistance, [Imageboard and Main Menu screenshots](https://www.newgrounds.com/art/view/rng660/mario-if-he-was-more-evil-than-that-time-when-he-stepped-on-luigi-s-shoe)

@@ -1057,6 +1057,8 @@ https://files.catbox.moe/73666j.mp4 New  1/17/24
 https://files.catbox.moe/zqx3v9.mp4 New 1/18/24
 >Hamas video showing the targeting of a Zionist force inside a building in Jabalia al-Balad, north of the Gaza Strip.
 https://files.catbox.moe/xgg0y0.mp4 New 1/18/24
+>Al-Qassam published a video showing launches of mortars & 107mm rockets targeting military concentrations penetrating the outskirts of Gaza City.
+https://files.catbox.moe/42qtm3.mp4 New  1/19/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1308,3 +1310,15 @@ https://files.catbox.moe/h8hqhd.mp4 New 1/18/24
 https://files.catbox.moe/jc64p8.mp4 New 1/18/24
 >IED explodes in an Israeli military vehicle in the Tulkarm camp  
 https://files.catbox.moe/tej9oa.mp4 New  1/18/24
+>Vladimir Putin being a man unlike pussy Biden and Netanyahu 
+https://files.catbox.moe/hd6eyo.mp4 New  1/19/24
+>Demonstration in solidarity with Gaza and condemnation of Israeli war in Ludwigsburg, Germany
+https://files.catbox.moe/go0iff.mp4 New  1/19/24
+>Al-Nasser Salah al-Din Brigades publishes details of the death of one of its prisoners, an officer in the IDF, killed by #Israel airstrikes
+https://files.catbox.moe/f5a8q1.mp4 New  1/19/24
+>Footage of the attack by Yemen’s Armed Forces (“Houthis”) on one of the ships
+https://files.catbox.moe/1ckfpr.mp4 New  1/19/24
+>French soldiers in the Israeli military posted a video in which they say “We’re going to Gaza, we’re going to massacre them!”
+https://files.catbox.moe/owm0ym.mp4  1/19/24
+>Operation Shekel Guardian: UK’s HMS Chiddingfold and HMS Bangor collided while berthing in Bahrain.
+https://files.catbox.moe/efnqyq.mp4  1/19/24

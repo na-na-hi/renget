@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 18th January. All dates dd/mm.
+!!! Note Last updated: 20th January. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -107,6 +107,7 @@ Club ID | Club Name | Club Status
 Club ID | Club Name | Club Status
 --: | -- | ----
 6 | Arona#1 | Open as of 14/01
+11830 | TummyArchive | Open as of 20/01
 14257 | Astrea | Open as of 16/01
 
 ##### Full
@@ -133,7 +134,6 @@ Club ID | Club Name | Club Status
 10625 | Vrillionaires | Full as of 15/01
 11162 | VaniVitamins | Full as of 28/11
 10625 | Vrillionaires | Full as of 15/01
-11830 | TummyArchive | Full as of 15/01
 12395 | 中出しの幸せ (cumshot happiness) | Full as of 10/11
 
 ***

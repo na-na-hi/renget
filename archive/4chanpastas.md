@@ -67,7 +67,8 @@ Unnamed Item Monitor pasta (abandoned, see *Disk Djinn*)|*Sonic the Hedgehog 2*,
 *Warden*|Original|[(link)](https://pastebin.com/4wHuEa2G)
 *New Record*|*Mario Kart 64*|[(link)](https://rentry.org/qg9ky)
 *Disk Djinn* (WIP)|Various|[(link)](https://rentry.org/9rfk6)
-*Ananke* (WIP)|Original|[(original)](https://rentry.org/yqwwz), [(edited)](https://rentry.org/3x9akw)
+*Ananke*|Original|[(link)](https://rentry.org/3x9akw)
+*Super Mario Galaxy DS Prototype*|Mario Galaxy DS|[(story link)](https://rentry.org/smgds),[(narration)](https://www.youtube.com/watch?v=3-RJh5lTHMQ&pp=ygUJbHVpZ2kzODAw), [(MEGA)](https://mega.nz/folder/1LMDCAJa#3Tb_QrUUjRAhlNJ_BRIlZQ)
 
 ##.exe pastas
 Title|Link

@@ -13,6 +13,15 @@ Consumable. Clears you of mind-altering effects induced by <Authorities>. Howeve
 >Idol: 300
 Provides influence when worshiped by a mortal
 
+>Trapper: 500
+Cancels the usage of a <Lizard’s Tail>. Disappears upon use.
+
+>Hydra’s Head: 500
+As <Lizard’s Tail>, but cannot be canceled out by use of a <Trapper>.
+
+>Detective's Compass 650: 
+Points to another incarnation, provided you know both their divine and pre-deification identity
+
 ##Divine Relics
 
 >Pithos of Pandora (Divinity Stored: 8,076):
@@ -61,5 +70,5 @@ Allows you to summon saltwater from the sea, at a rate of 1 divinity per pound. 
 >Berserk (1):
 Increases all of your physical attributes, including durability, proportional to your rage. Additionally, deepens your anger when in use. Consumes divinity proportional to the strength of the authority’s manifestation.
 
->Specter's Wail (1):
-Releases an ear splitting scream. Causes inner ear damage at close ranges and inspires despair at long ones.
+>Bloodlust (1):
+When active, increases your strength, speed, and stamina in proportion to the degree to which you want to kill your target. Also fosters your desire to do so while active. Consumes divinity proportional to the strength of its manifestation.

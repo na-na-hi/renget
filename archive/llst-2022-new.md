@@ -33,6 +33,7 @@ https://discord.gg/TZwԁqbStej
 
 Previous: *>>694201488 (# of previous thread)*
 
+*** 
 ##Ideal Links
 **Events tracker:**
 [Ramen Events tracker](https://ramen.events/)
@@ -313,6 +314,7 @@ https://nyaa.si/view/886306
 Aqours 1st Love Live! ~Step! ZERO to ONE~
 1080p subs - https://nyaa.si/view/993344
 720p subs - https://nyaa.si/view/993576
+1080p HEVC - https://nyaa.si/view/1246977
  
 Aqours 2nd Love Live! HAPPY PARTY TRAIN TOUR
 1080p subs - https://nyaa.si/view/1079381
@@ -454,6 +456,7 @@ Saint Snow 1st GIG ~Welcome to Dazzling White Town~
 ####CONCERTS/LIVES/VODs
 6th Live! I love You ⇆ You love Me ![](https://files.catbox.moe/c95yx7.gif)
 Aichi D1&D2 [1080p PIA WEBRip](https://nyaa.si/view/1760323)
+Kanagawa D1&D2 [1080p PIA WEBRip](https://nyaa.si/view/1766658)
 
 5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ <Day 1&2>
 webrip: https://nyaa.si/view/1577721

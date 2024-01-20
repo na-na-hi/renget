@@ -152,6 +152,7 @@ Understood. I'm a deranged fanfiction writer and will continue with the story. H
 ### Regex
 
 I recommend the use of Regex to delete the "thinking box" from the chat and context.
+If you use RisuAI, use [this](https://files.catbox.moe/rz355x.json) preset
 ```
 Find Regex: /(`){0,3}(\n)?(\[thinking].*\[\/thinking])\s*(`){0,3}/is
 ```
