@@ -1,4 +1,4 @@
-->**Love Live! Seiyuu Thread**<-
+## ->%#E4007F%Love Live! Seiyuu Thread%%<-
 
 -> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
 
@@ -122,6 +122,9 @@ https://rentry.org/llst-2021-02-bkup
 ```
 
 ##Changelog:
+==2024.01.21==
+- went around and changed a lot of things. That's it 
+
 ==2024.01.03==
 - changed some seiyuu information
 
@@ -135,9 +138,6 @@ https://rentry.org/llst-2021-02-bkup
 ==2023.10.14==
 - overhauled seiyuu list to the new format
 - added BluRay links for the 2nd Liella concert
-
-==2023.8.1==
-- Added nijitabi Osaka Leg link
 
 ***
 ##Seiyuu Information, Links & SNS
@@ -158,17 +158,19 @@ FB | Facebook
 TK | TikTok
 
 ###🌸🌸 µ's Seiyuu 🌸🌸
-Name | Nickname(s) | Birthday | Links/SNS | Image
------- | ------ | ------ | ------ | ------
-**Emi Niita 新田恵海** |Emitsun|December 10, 1985|[Official WEB](https://emi-nitta.net/ ) / [Agency WEB](https://difference.jpn.com/nitta_emi) / [TW](https://twitter.com/nittaemi85) / [YT](https://www.youtube.com/c/EmiNittaOFFICIALCHANNEL) / [IG](https://www.instagram.com/tnstagram1210/)|[📷](https://difference.jpn.com/s3/skiyaki/uploads/artist_photo/image/3341/%E6%96%B0%E7%94%B0%E6%81%B5%E6%B5%B7_NittaEmi_HP.jpg)
-**Yoshino Nanjo 南條愛乃** |Nanjolno|July 12, 1984|[Agency WEB](https://voicekit.jp/talent/nanjoyoshino/) / [Official WEB](https://nbcuni-music.com/yoshino_nanjo/) / [TW](https://twitter.com/nanjolno) / [YT](https://www.youtube.com/channel/officialyoutubechannel452) / [IG](https://www.instagram.com/nanjolno/) / [Blog](http://nanjolno.jugem.jp/)|[📷](https://voicekit.jp/wp-content/uploads/2021/12/edfcaae09ae7445375c768cfcedba64f-scaled.jpg)
-**Aya Uchida 内田彩** |Ucchi|July 23, 1986|[Official WEB](https://aya-uchida.net//) / [Agency WEB](https://across-ent.com/talent/women/aya_uchida.html) / [TW](https://twitter.com/aya_uchida) / [YT](https://www.youtube.com/@AyaUchidaOfficial) / [IG](https://www.instagram.com/aya_uchi_da/) / [LINEBlog](https://archive.is/V2IEb)|[📷](https://across-ent.com/common/img/talent/202008/1596599197.jpg)
-**Mimori Suzuko 三森すずこ** |Mimorin|June 28, 1986|[Official WEB](http://mimorin.com/) / [Agency WEB](https://hibiki-cast.jp/hibiki_f/mimori_suzuko/) / [TW](https://twitter.com/mimori_suzuko) / [YT](https://www.youtube.com/@MimoriSuzuko_artistOfficial) / [LINEBlog](https://archive.is/kWB32)|[📷](https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/Suzuko-Mimori.jpg)
-**Riho Iida 飯田里穂** |Rippi|October 26, 1991|[Official WEB](https://iida-riho.com/) / [Agency WEB](https://www.houeishinsha.co.jp/h_detail_sptalent.cgi?OFFICE=T&KIND=1&ID=51efb7ec_6622) / [TW](https://twitter.com/rippialoha) / [YT](https://www.youtube.com/@iidarihotime) / [IG](https://www.instagram.com/rippi_ii/) / [FB](https://www.facebook.com/RihoIida.Official) / [TK](https://www.tiktok.com/@rrri_ho) / [LINEBlog](https://archive.is/kWB32)|[📷](https://www.houeishinsha.co.jp/img_talent/62d10001_1495e_3.jpg)
-**Pile/Eriko Hori 堀絵梨子** |Pilesama, Paichan|May 2, 1988|[Official WEB](http://pile.asia/) / [TW](https://twitter.com/pile_eric) / [YT](https://www.youtube.com/@iidarihotime) / [IG](https://www.instagram.com/pi_channnn52/)|[📷](https://upload.wikimedia.org/wikipedia/commons/0/03/Pile_20190430_kobe_bust_shot.jpg)
-**Aina Kusuda 楠田亜衣奈**|Kussun|February 1, 1989|[Official WEB](https://aina-kusuda.net/) / [Agency WEB](https://www.just-pro.jp/talent/voice-actor/kusuda_aina/) / [TW](https://twitter.com/kusudaaina) / [YT](https://www.youtube.com/@iidarihotime) / [IG](https://www.instagram.com/kusudaaina/) / [Ameblo](https://ameblo.jp/aina-heart0201/)|[📷](https://www.just-pro.jp/wp-content/uploads/2022/01/kusuda-up1--scaled-e1641895171112.jpg)
-**Yurika Kubo 久保ユリカ**|Shikaco|May 19, 1989|[Official WEB](http://www.shikaco.jp/) / [Agency WEB](https://stay-luck.com/talent/kubo-yurika/) / [TW](https://twitter.com/INFO_shikaco) / [YT](https://www.youtube.com/@kuboyurikaofficial) / [IG](https://www.instagram.com/shi_ka_co/) / [FB](https://www.facebook.com/Shikaco.Official)|[📷](https://stay-luck.com/files/HP_%E4%B9%85%E4%BF%9D%E3%83%A6%E3%83%AA%E3%82%AB%E5%AE%A3%E6%9D%90.jpg)
- **Sora Tokui 徳井青空**|Soramaru|December 26, 1989|[Official WEB](https://avex.jp/tokuisora/) / [TW](https://twitter.com/tokui_sorangley) / [YT](https://www.youtube.com/@user-zx6xw6qu1j) / [LINEBlog](https://archive.is/T9pmC)|[📷](https://files.catbox.moe/dwiqwv.webp)
+Name | Nickname(s) | DoB | Links/SNS | 📷 | 
+------ | ------ | ------ | ------ | ------ |
+%#BC801A%**Emi Niita 新田恵海**%% |Emitsun|December 10, 1985|[Official WEB](https://emi-nitta.net/ ) / [Agency WEB](https://difference.jpn.com/nitta_emi) / [TW](https://twitter.com/nittaemi85) / [YT](https://www.youtube.com/c/EmiNittaOFFICIALCHANNEL) / [IG](https://www.instagram.com/tnstagram1210/)|[📷](https://difference.jpn.com/s3/skiyaki/uploads/artist_photo/image/3341/%E6%96%B0%E7%94%B0%E6%81%B5%E6%B5%B7_NittaEmi_HP.jpg)
+%#268FB2%**Yoshino Nanjo 南條愛乃**%% |Nanjolno|July 12, 1984|[Agency WEB](https://voicekit.jp/talent/nanjoyoshino/) / [Official WEB](https://nbcuni-music.com/yoshino_nanjo/) / [TW](https://twitter.com/nanjolno) / [YT](https://www.youtube.com/channel/officialyoutubechannel452) / [IG](https://www.instagram.com/nanjolno/) / [Blog](http://nanjolno.jugem.jp/)|[📷](https://voicekit.jp/wp-content/uploads/2021/12/edfcaae09ae7445375c768cfcedba64f-scaled.jpg)|
+%#555A5D%**Aya Uchida 内田彩**%% |Ucchi|July 23, 1986|[Official WEB](https://aya-uchida.net//) / [Agency WEB](https://across-ent.com/talent/women/aya_uchida.html) / [TW](https://twitter.com/aya_uchida) / [YT](https://www.youtube.com/@AyaUchidaOfficial) / [IG](https://www.instagram.com/aya_uchi_da/) / [LINEBlog](https://archive.is/V2IEb)|[📷](https://across-ent.com/common/img/talent/202008/1596599197.jpg)
+%#376694%**Mimori Suzuko 三森すずこ**%% |Mimorin|June 28, 1986|[Official WEB](http://mimorin.com/) / [Agency WEB](https://hibiki-cast.jp/hibiki_f/mimori_suzuko/) / [TW](https://twitter.com/mimori_suzuko) / [YT](https://www.youtube.com/@MimoriSuzuko_artistOfficial) / [LINEBlog](https://archive.is/kWB32)|[📷](https://s3-ap-northeast-1.amazonaws.com/hibiki-cast.jp/wp-content/uploads/2018/01/Suzuko-Mimori.jpg)
+%#399895%**Riho Iida**%% %#99921A%**飯田里穂**%% |Rippi|October 26, 1991|[Official WEB](https://iida-riho.com/) / [Agency WEB](https://www.houeishinsha.co.jp/h_detail_sptalent.cgi?OFFICE=T&KIND=1&ID=51efb7ec_6622) / [TW](https://twitter.com/rippialoha) / [YT](https://www.youtube.com/@iidarihotime) / [IG](https://www.instagram.com/rippi_ii/) / [FB](https://www.facebook.com/RihoIida.Official) / [TK](https://www.tiktok.com/@rrri_ho) / [LINEBlog](https://archive.is/kWB32)|[📷](https://www.houeishinsha.co.jp/img_talent/62d10001_1495e_3.jpg)
+%#B13529%**Pile**%%  ==[1]== |Pilesama, Paichan|May 2, 1988|[Official WEB](http://pile.asia/) / [TW](https://twitter.com/pile_eric) / [YT](https://www.youtube.com/@iidarihotime) / [IG](https://www.instagram.com/pi_channnn52/)|[📷](https://upload.wikimedia.org/wikipedia/commons/0/03/Pile_20190430_kobe_bust_shot.jpg)
+%#7B5887%**Aina Kusuda 楠田亜衣奈**%%|Kussun|February 1, 1989|[Official WEB](https://aina-kusuda.net/) / [Agency WEB](https://www.just-pro.jp/talent/voice-actor/kusuda_aina/) / [TW](https://twitter.com/kusudaaina) / [YT](https://www.youtube.com/@iidarihotime) / [IG](https://www.instagram.com/kusudaaina/) / [Ameblo](https://ameblo.jp/aina-heart0201/)|[📷](https://www.just-pro.jp/wp-content/uploads/2022/01/kusuda-up1--scaled-e1641895171112.jpg)
+%#318D40%**Yurika Kubo 久保ユリカ**%%|Shikaco|May 19, 1989|[Official WEB](http://www.shikaco.jp/) / [Agency WEB](https://stay-luck.com/talent/kubo-yurika/) / [TW](https://twitter.com/INFO_shikaco) / [YT](https://www.youtube.com/@kuboyurikaofficial) / [IG](https://www.instagram.com/shi_ka_co/) / [FB](https://www.facebook.com/Shikaco.Official)|[📷](https://stay-luck.com/files/HP_%E4%B9%85%E4%BF%9D%E3%83%A6%E3%83%AA%E3%82%AB%E5%AE%A3%E6%9D%90.jpg)
+%#88284A%**Sora Tokui 徳井青空**%%|Soramaru|December 26, 1989|[Official WEB](https://avex.jp/tokuisora/) / [TW](https://twitter.com/tokui_sorangley) / [YT](https://www.youtube.com/@user-zx6xw6qu1j) / [LINEBlog](https://archive.is/T9pmC)|[📷](https://files.catbox.moe/dwiqwv.webp)
+
+==[1]== - stage name, also known by her real name Eriko Hori (堀絵梨子)
 
 ###🌊🌊 Aqours Seiyuu 🌊🌊
 Name | Nickname(s) | Birthday | Links/SNS | Image
@@ -267,21 +269,22 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Yuki Yuuna 結木ゆな** |Yunana|March 28, 1999|[Agency WEB](https://apollobay.jp/talent/%E5%90%89%E6%AD%A6%E5%8D%83%E9%A2%AF/) / [TW](https://twitter.com/y0u6n0a9) / [IG](https://www.instagram.com/y0u6n0a9y/)|[📷](https://files.catbox.moe/1w87uf.jpg)
 
 ***
-##CONCERTS, SHOWS & VODS LINKS f
+##CONCERTS, SHOWS & VODS LINKS 
 !!! warning Warning
     This section is under heavy WIP
-	Some links might be dead / unseeded
+	Watch out for dead / unseeded links!
 
 **Love Live! Official YouTube Channel**
 https://www.youtube.com/c/lovelive_series/ 
 
-Ijigen Fes IDOLM@STER★♥Love Live! Uta Gassen 2023  
+**Ijigen Fes IDOLM@STER★♥Love Live! Uta Gassen 2023**
 D1 - [1080p WEBDL](https://nyaa.si/view/1754242) | [Bilibili 480p](https://nyaa.si/view/1753668) | [x265 1080p](https://nyaa.si/view/1754242)
 D2 - [1080p WEBDL](https://nyaa.si/view/1754686) | [Bilibili 480p](https://nyaa.si/view/1754239) | [x265 1080p](https://nyaa.si/view/1754686)
 Stagecrowd WEBRip [1080p](https://nyaa.si/view/1756820)
 
-Aqours COUNTDOWN LoveLive! ~WHITE ISLAND~
-[1080p](https://nyaa.si/view/1534180)
+COUNTDOWN LoveLive! 2021→2022 ~LIVE with a smile!~
+BRRip Complete - [BDMV RAW 1080p](https://nyaa.si/view/1606588) / [1080p x265](https://nyaa.si/view/1607971)
+WEBRip - [1080p PIA WEBRip](https://nyaa.si/view/1495015) / [LQ 1080p](https://nyaa.si/view/1472852)
 
 ###µ's
 ####CONCERTS/LIVES/VODs
@@ -309,7 +312,7 @@ Love Live! µ's Final Love Live! ~µ'sic Forever~
 ###Aqours
 ####CONCERTS/LIVES/VODs
 Aqours 1st Love Live! ~Step! ZERO to ONE~ ==(ENGSUB)==
-BRRip - [1080p](https://nyaa.si/view/993344)  / [720p](https://nyaa.si/view/993576) / [1080p HEVC](https://nyaa.si/view/1246977) 
+BRRip - [1080p](https://nyaa.si/view/993344)  / [720p](https://nyaa.si/view/993576) / [1080p x265](https://nyaa.si/view/1246977) 
  
 Aqours 2nd Love Live! HAPPY PARTY TRAIN TOUR
 BRRip Complete - [1080p](https://nyaa.si/view/1079381) / [720p](https://nyaa.si/view/1079560)
@@ -345,10 +348,11 @@ BRRip Complete - [1080p](https://nyaa.si/view/1756136) ![](https://files.catbox.
 White Day  - [1080p WEBRip](https://nyaa.si/view/1648283)
 Valentine's Day  - [1080p WEBRip](https://nyaa.si/view/1637091)
 
-Aqours ONLINE LoveLive! ~LOST WORLD~
-BRRip Complete - [1080p](https://nyaa.si/view/1525051) 
-BRRip x265/HEVC: -[1080p](https://nyaa.si/view/1527917) / [720p](https://nyaa.si/view/1527922) ==(ENGSUB)==
+Sunshine!! Aqours ONLINE LoveLive!
+BRRip Complete - [~LOST WORLD~ 1080p](https://nyaa.si/view/1525051) / [~WHITE ISLAND~ 1080p](https://nyaa.si/view/1534180)
+BRRip x265: -[1080p](https://nyaa.si/view/1527917) / [720p](https://nyaa.si/view/1527922) ==(ENGSUB)==
 WEBRip - [D1 1080p](https://nyaa.si/view/1289436) / [D2 1080p](https://nyaa.si/view/1289241) / [D1&D2 1080p](https://nyaa.si/view/1289367)
+
 
 **Saint Snow Performances**
  
@@ -436,51 +440,44 @@ Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
   
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
-6th Live! I love You ⇆ You love Me *D1&D2* ![](https://files.catbox.moe/c95yx7.gif)
-Aichi  [1080p PIA WEBRip](https://nyaa.si/view/1760323) / Kanagawa [1080p PIA WEBRip](https://nyaa.si/view/1766658)
+Nijgasaki 1st Live! ~With You~  
+BRRip D1D2 -  [1080p](https://nyaa.si/view/1575338)  / [720p](https://nyaa.si/view/1272946)
+[1080p x265](https://nyaa.si/view/1578058) / [720p x265](https://nyaa.si/view/1578058) ==(ENGSUB)==
+ 
+Nijgasaki 2nd Live! Brand New Story & Back to the TOKIMEKI 
+BRRip D1D2 Tokyo w/ Specials - [1080p](https://nyaa.si/view/1374189) / [1080p x265](https://nyaa.si/view/1375171) / [1080p AV1](https://nyaa.si/view/1376884) / [720p](https://nyaa.si/view/1417141) / [480p](https://nyaa.si/view/1417139)
+WEBRip D1 - [1080p](https://nyaa.si/view/1280912)
 
-5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ *Day 1&2*
-WEBRip: https://nyaa.si/view/1577721
-BDRip HEVC: https://nyaa.si/view/1652899
-BDRip: https://nyaa.si/view/1652249
+Nijgasaki 3rd Live! ～The beginning of the dream～ 
+Saitama D1D2 - [1080p PIA WEBDL](https://nyaa.si/view/1385683) /  [1080p ePlus WEBRip](https://nyaa.si/view/1383705)
+BRRip Complete - [1080p BDMV RAW](https://nyaa.si/view/1512318) ([1080p reencode](https://nyaa.si/view/1517570)) / [1080p x265](https://nyaa.si/view/1518127)
 
 Nijgasaki 4th Live! ~Love the Life We Live~ 
-PIA WEB (1080p D1&D2): https://nyaa.si/view/1497255
+D1D2 Osaka - [1080p x265 PIA WEBRip](https://nyaa.si/view/1497255) / [1080p ePlus WEBRip](https://nyaa.si/view/1496635)
 
-==(ENGSUB)==Nijgasaki 3rd Live! ～The beginning of the dream～ 
-WEB D1&D2: https://nyaa.si/view/1385683 
-BD: https://nyaa.si/view/1518127
-BD raw: https://nyaa.si/view/1512318
+Nijgasaki 5th Live! Nijigasaku Basho 
+Colorful Dreams! Colorful Smiles! (Tokyo A) - [1080p PIA WEBRip](https://nyaa.si/view/1577721)
+Next TOKIMEKI (Tokyo B) - [1080p PIA WEBRip](https://nyaa.si/view/1580527) 
+BRRip Complete - [1080p BDMV RAW](https://nyaa.si/view/1652249) / [1080p x265](https://nyaa.si/view/1652899)
 
-==(ENGSUB)==Nijgasaki 2nd Live! Brand New Story & Back to the TOKIMEKI 
-https://nyaa.si/view/1376884
-https://nyaa.si/view/1375171
-https://nyaa.si/view/1374189
+Nijgasaki 6th Live! I love You ⇆ You love Me *D1&D2* ![](https://files.catbox.moe/c95yx7.gif)
+Aichi  [1080p PIA WEBRip](https://nyaa.si/view/1760323) / Kanagawa [1080p PIA WEBRip](https://nyaa.si/view/1766658)
 
-==(ENGSUB)==Nijgasaki 1st Live! ~With You~  
-RAW: https://nyaa.si/view/1272946 
-BD ENGSUB: https://nyaa.si/view/1575338  
+Nijigasaki Shuffle Festival in School 
+WEBRip - [1080p PIA WEBRip D1](https://nyaa.si/view/1360766) / [1080p PIA WEBRip D2](https://nyaa.si/view/1360317) / [1080p ePlus WEBRip (Complete)](https://nyaa.si/view/1361102)
 
-==(ENGSUB)==Nijigasaki Shuffle Festival in School 
-D1: https://nyaa.si/view/1360766
-D2: https://nyaa.si/view/1360317
-HQ RAW: https://nyaa.si/view/1361102
-
-==(ENGSUB)==Nijigasaki School Idol Club ~Blooming Rainbow~  
-BD 1080p - https://nyaa.si/view/1245129
-BD 720p - https://nyaa.si/view/1245130
-RAW - https://nyaa.si/view/1170341
+Nijigasaki School Idol Club ~Blooming Rainbow~  
+BRRip Complete - [1080p](https://nyaa.si/view/1245129) / [720p](https://nyaa.si/view/1245130) ==(ENGSUB)== 
+[1080p RAW](https://nyaa.si/view/1170341)
 
 ####EVENTS/PERFORMANCES/MISC
 **Fanmeets / PPV Streaming**
-**Nijigasaki Tokimeki Fan Meeting Tour**
-Hiroshima - https://nyaa.si/view/1672987
-Tokyo - https://nyaa.si/view/1672987 
-Aichi - https://nyaa.si/view/1672987 
-Osaka - https://nyaa.si/view/1698235  ==(/llst/ exclusive)==
-Compilation - https://nyaa.si/view/1699629
 
-TOKIMEKI Talk Room Pts 1&2 [1080p WEBRip](https://nyaa.si/view/1551497)
+**Nijigasaki Tokimeki Fan Meeting Tour**
+Compilation (Hiroshima/Tokyo/Aichi/Osaka) - [1080p PIA WEBRip](https://nyaa.si/view/1699629)
+Osaka Bilibili Reup - [1080p WEBRip](https://nyaa.si/view/1698235)  ==(/llst/ exclusive)==
+
+Anigasaki! TOKIMEKI Talk Room Pts 1&2 2022 [1080p ePlus WEBRip](https://nyaa.si/view/1551497)
 
 **Subunit Performances**
 Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657
@@ -528,15 +525,12 @@ Saitama - [1080p PIA WEBRip](https://nyaa.si/view/1645740)
 BluRay (Miyagi/Saitama + Making Of) - [1080p](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html) 
 
 Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
-KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) /  [720p](https://nyaa.si/view/1707506)
-Catchu! ver : [1080p](https://nyaa.si/view/1709468) / [720p](https://nyaa.si/view/1709926)
-5yncri5e! ver: [1080](https://nyaa.si/view/1716100) / [720](https://nyaa.si/view/1716321)
+KALEIDOSCORE ver - [1080p](https://nyaa.si/view/1707116) /  [720p](https://nyaa.si/view/1707506)
+Catchu! ver - [1080p](https://nyaa.si/view/1709468) / [720p](https://nyaa.si/view/1709926)
+5yncri5e! ver -  [1080](https://nyaa.si/view/1716100) / [720](https://nyaa.si/view/1716321)
 
 Liella! 5th LoveLive!～Twinkle Triangle～
-Fukuoka - TBA
-
-Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)
-https://nyaa.si/view/1612969
+Fukuoka - *Soon(TM)*
 
 ####EVENTS/PERFORMANCES/MISC
 Liella! Season 1 Opening and Ending Online Release Event : [WEBRip ==ENGSUB==](https://nyaa.si/view/1611104)
@@ -546,7 +540,7 @@ Liella! Debut Single Release Event  - https://nyaa.si/view/1495241
 Anime Expo Lite 2021 - Love Live! Superstar!! Hello, We are Liella!!  - https://nyaa.si/view/1406120
 SHIBUYA NOTE NHKG Interview+Performance : [WEBRip](https://nyaa.si/view/1383632)
 2021 FNS Music Festival : [WEBrip](https://nyaa.si/view/1465133)
-2022 Liella MTV Unplugged : [Bluray engsub](https://nyaa.si/view/1736285) | [Webrip](https://nyaa.si/view/1565479) 
+2022 Liella MTV Unplugged : [Bluray ==ENGSUB==](https://nyaa.si/view/1736285) | [Webrip](https://nyaa.si/view/1565479) 
 Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~ : [Webrip](https://nyaa.si/view/1547572)
 
 Liella no Doko Iku? (Season 1)
@@ -554,7 +548,7 @@ Part 1 : [576p](https://nyaa.si/view/1465161) | [720p](https://nyaa.si/view/1465
 Part 2 : [576p](https://nyaa.si/view/1529414) | [720p](https://nyaa.si/view/1529415) | [1080p](https://nyaa.si/view/1529416)
 Part 3 : [576p](https://nyaa.si/view/1529418) | [720p](https://nyaa.si/view/1529419) | [1080p](https://nyaa.si/view/1529420)
 
-Note: sadly there is no standalone rip for the Season 2 Doko Ikus however they are on the 2nd Season blurays which sadly hadn't been ripped yet
+*Note: sadly there is still no standalone rip for the Season 2 versions but snippets and clips of it are uploaded on Bilibili and YouTube*
  
 ラブライブ！スーパースター!!Liella!突撃ロケ
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
@@ -570,10 +564,11 @@ High Quality (ALL D1 only) [1080p](https://nyaa.si/view/1756970)  ![](https://fi
 ####EVENTS/PERFORMANCES/MISC 
 OPENING LIVE EVENT～Bloom the Dream～ : [1080p](https://nyaa.si/view/1702233)
 SUMMER STATION 音楽LIVE : [1080p](https://nyaa.si/view/1702234)
-Official YT Channel: https://www.youtube.com/@lovelive_hasu
+[Official YT Channel (lovelive_hasu)](https://www.youtube.com/@lovelive_hasu)
 
 [Love Live! Archive - Live Streams (January 2016 - September 2022) (249.1 GiB)](https://nyaa.si/view/1612720)
 [Aqours/Nijigasaki Concert Collection (935.0 GiB)](https://nyaa.si/view/1613034)
+[Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)](https://nyaa.si/view/1612969)
 
 ***
 

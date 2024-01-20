@@ -56,11 +56,11 @@ You may infuse your body with divinity, strengthening the power and durability o
 >To Mortals, A Scourge (3): 
 You may expend divinity to gain a resistance to attacks from mortals or from non-divine natural phenomena. Additionally, you are able to survive any single attack from a mortal while this skill is active, regardless of the power and scope. This includes explosives. However, resisting more damage than would normally be possible will reduce your divinity to zero. (10 divinity per hour)
 
->Bane of Calydon (4):
-Consumes divinity to temporarily transform you into the <Calydonian Boar>. While the skill is in use, you will have access to every natural authority of the <Calydonian Boar>, but you will be unable to use any of your other authorities while <Bane of Calydon> is active. Additionally, it is possible to utilize the authorities of Divine Relics while transformed. You may adjust the size of the transformation, with a maximum of the beast’s full size and a minimum of your untransformed mass.
+>Bane of Calydon (5):
+Consumes divinity to temporarily transform you into the <Calydonian Boar>. While the skill is in use, you will have access to every natural authority of the <Calydonian Boar>, but you will be unable to use any of your other authorities while <Bane of Calydon> is active. Additionally, it is possible to utilize the authorities of Divine Relics while transformed. You may adjust the size of the transformation, with a maximum of the beast’s full size and a minimum of your untransformed mass. Immediately clears all mental effects incurred by the use of the beast’s authorities upon ending the transformation.
 
->Assess Hamartia (2):
-You are able to identify the trait, desire, or flaw of an individual that is most likely to result in their ruin. Additionally, a target of <Assess Hamartia> gains penalties to resisting psychological effects targeting their Hamartia
+>Assess Hamartia (4):
+You are able to identify the trait, desire, or flaw of an individual that is most likely to result in their ruin. Additionally, a target of <Assess Hamartia> gains penalties to resisting psychological effects targeting their Hamartia. In addition to the individual’s personal failings, this authority now gives information about a target incarnation’s domain, proportional to the difference in level between this authority and the target incarnation.
 
 >Omen (4): 
 Gives you a premonition whenever you are at risk of immediate death or severe bodily harm. Also indicates the general direction of the danger. You also gain an instinctual understanding of not just the direction and severity, but the general nature of the oncoming threat. Also alerts you to the presence of poisons. Consumes divinity whenever it activates

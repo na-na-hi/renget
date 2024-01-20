@@ -6,7 +6,8 @@ https://twitter.com/Ruffian5000/status/1708479258354434288 (tweet contains a lin
 https://files.catbox.moe/ozlx6q.mp4 (intro+outro voices)
 
 ###  porn collection
-[enjoy](https://mega.nz/folder/Zkxg1aDQ#gTxGggJF4LtmELlQ1t-mrQ)
+[enjoy](https://mega.nz/folder/51gWhKJJ#gTxGggJF4LtmELlQ1t-mrQ)
+
 https://pastebin.com/dYcJJd8w - translation of kotaros fuwamoco SEX doujinshi, credits to Anon
 
 ### FUWAMOCO VN & Anime list

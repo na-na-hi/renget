@@ -1,9 +1,10 @@
 # /kkg/ thread archive 2
 
-!!! note Current - https://boards.4chan.org/h/thread/7760549  (Mon 15 Jan 2024 18:26) # Koi Time Edition
+!!! note Current - https://boards.4chan.org/h/thread/7770001  (Sat 20 Jan 2024 05:58) # Actually Fantasy Edition
 
 
 ## 2024
+670  archiveofsins.com/h/thread/7760549/   (Mon 15 Jan 2024 18:26) # Koi Time Edition
 669  archiveofsins.com/h/thread/7753747/   (Fri 12 Jan 2024 14:59) # Fantasy Edition
 668  archiveofsins.com/h/thread/7745870/   (Sun 07 Jan 2024 20:37) # Rise of a new day Edition
 667  archiveofsins.com/h/thread/7738890/   (Wed 03 Jan 2024 02:36) # Fuck You, It's January! (2024) Edition

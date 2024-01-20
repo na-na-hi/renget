@@ -25,6 +25,15 @@ Enjoy.
 
 
 #New Bots
+**Sleepover Gals**
+**Tavern Card**
+Sleepover Gals
+https://files.catbox.moe/34g9ea.png
+**Improved Card credits to a generous anon**
+https://files.catbox.moe/r9hdcw.png
+*synopsis*:You are invited to the sleepover of 3 of your younger classmates: Elisabeth, Sydney and Audrey
+![Gals](https://files.catbox.moe/r9hdcw.png)
+
 **Clarence**
 **Tavern Card**
 https://files.catbox.moe/g7zunq.png

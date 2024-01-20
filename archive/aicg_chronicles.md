@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-18==
+# /aicg/ chronicles, up to ==2024-01-20==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1018,6 +1018,13 @@ When | Where | What
 2024-01-18|[98524890](https://desuarchive.org/g/thread/98522188#98524890)| a possible explanation for the latest leak provided
 2024-01-18|[7:55 PM](https://twitter.com/ylecun/status/1748071754117886087)| Llama-3 is coming!
 2024-01-18|[98530463](https://desuarchive.org/g/thread/98530396/#98530463)| desu 1
+2024-01-20|[98549151](https://desuarchive.org/g/thread/98547444#98549151)| Bard Advanced is coming
+2024-01-20|[98549442](https://desuarchive.org/g/thread/98547444#98549442)| Google planning to add AI image generator directly to Bard
+2024-01-20|[98550392](https://desuarchive.org/g/thread/98549995#98550392)| AetherRoom devlog 2
+2024-01-20|[98556628](https://desuarchive.org/g/thread/98555221#98556628)| new approach to spam emails suggested, using bulk newsletters
+2024-01-20|[98554487](https://desuarchive.org/g/thread/98552412#98554487)| mikudev spends a couple of bucks to show boobs to 4chan
+2024-01-20|[98559364](https://desuarchive.org/g/thread/98555233#98559364)| OAI doesn't allow bots that foster "romantic companionship" in GPT Store
+2024-01-20|[$8rBW0n](https://matrix.to/#/!tcPGnHinyITxdkqIZA:halogen.city/$8rBW0nAq9YXSDZeq_3ghuP_OP-VDFsvKwOgY1T9zNvg?via=matrix.org&via=midov.pl&via=cutefunny.art)| c\.ai subreddit riots again because violence is filtered hard now
 -|-|-
 
 [](you have found my secret stash of nothing!)

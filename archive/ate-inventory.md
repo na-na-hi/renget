@@ -7,13 +7,13 @@ Consumable. Has the same effect as a standard Drop of Chaos, but the deleterious
 >Lizard's Tail: 100
 Consumable. Teleports the user to a place they consider safe and heals all of their physical injuries. Activates automatically when the user is near death
 
->Breath of Serenity 200: 
+>Breath of Serenity 200: (x6)
 Consumable. Clears you of mind-altering effects induced by <Authorities>. However, if the level of the <Authority> is higher than that of your incarnation level, it is possible for this item to take either partial or no effect
 
 >Idol: 300
 Provides influence when worshiped by a mortal
 
->Trapper: 500
+>Trapper: 500 (x2)
 Cancels the usage of a <Lizard’s Tail>. Disappears upon use.
 
 >Hydra’s Head: 500
@@ -21,6 +21,10 @@ As <Lizard’s Tail>, but cannot be canceled out by use of a <Trapper>.
 
 >Detective's Compass 650: 
 Points to another incarnation, provided you know both their divine and pre-deification identity
+
+>Nectar: 200 (x4)
+
+Consumable: Restores your divinity to max
 
 ##Divine Relics
 
@@ -51,7 +55,14 @@ Consumes divinity. Reveals the true form and primary myth of incarnations using 
 
 ##Weapons
 
-n/a
+>Achaean’s Sidearm (Common Dagger):
+
+A standard-issue dagger infused with the <Myth> of a nameless soldier in the Trojan War. Slightly more effective against incarnations related to the <Trojan War>. Can be used as an <Enchant> target or ingredient.
+
+>Huntress’s Bow (Common Bow):
+
+A bow infused with the <Myth> of a nameless huntress of Artemis. Slightly more effective against <Beasts> and <Monsters>. Can be used as an <Enchant> target or ingredient.
+
 
 ##Authority Crystals
 

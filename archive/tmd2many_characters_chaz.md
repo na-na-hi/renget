@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** Team Ruckus
 **Level:** 11 | **Experience to Next Level:** 45/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 910₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 860₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -50,7 +50,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 15 IQ points to spend.
+    You have 26 IQ points to spend.
     5/12 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
 
 IQ Skills Active/Inactive | Description of Skill | IP Cost
@@ -84,7 +84,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Marble Stone | Does 4 true damage to a target, is lobbed.
-3.  Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange.
+3.  None | N/A
 4.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
 
 **STORAGE (2 slots)**
