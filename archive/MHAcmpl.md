@@ -69,33 +69,33 @@ Hiroki Asai HN "Champion of Negativity, Zetsuboy": https://archive.4plebs.org/tg
 William "Billy" Dustice HN "King Billy": https://archive.4plebs.org/tg/post/88192360
 Johanna Hilt HN "The Gauntlet Hero, Weiss Schwarz": https://archive.4plebs.org/tg/post/88195437
 Mio Katsuragi HN "Forget-Me-Not": https://archive.4plebs.org/tg/post/89250569
-Kagami Reina "Enforcer Senpai" https://desuarchive.org/tg/thread/89599363/#89605669
-Norman Smith HN Whatabout: https://desuarchive.org/tg/post/91046080/
-Rumi Aratsuki HN Hysteria: https://desuarchive.org/tg/post/91363307/
+Kagami Reina "Enforcer Senpai" https://archive.4plebs.org/tg/thread/89599363/#89605669
+Norman Smith HN Whatabout: https://archive.4plebs.org/tg/post/91046080/
+Rumi Aratsuki HN Hysteria: https://archive.4plebs.org/tg/post/91363307/
 The Rest: https://rentry.org/vx255
 
 >>U-A, Class 3-B
-Yunikon, the Brilliant Hero (U.A. Teacher): https://desuarchive.org/tg/post/90998494/
-Meadow Harðardóttir: https://desuarchive.org/tg/post/90992377/
-Madoka Mikan "Heartbeat": https://desuarchive.org/tg/post/90976388/
-Kyutaro Tanabe "Ichimaki": https://desuarchive.org/tg/post/90994440/
-Itō Sukemochi "Warpden": https://desuarchive.org/tg/post/90973632/
-Li Yinzhen "Jiangshi": https://desuarchive.org/tg/thread/90977623/#90978093
-Cormelia Busujima "Remedios": https://desuarchive.org/tg/thread/91345785/#91353847
+Yunikon, the Brilliant Hero (U.A. Teacher): https://archive.4plebs.org/tg/post/90998494/
+Meadow Harðardóttir: https://archive.4plebs.org/tg/post/90992377/
+Madoka Mikan "Heartbeat": https://archive.4plebs.org/tg/post/90976388/
+Kyutaro Tanabe "Ichimaki": https://archive.4plebs.org/tg/post/90994440/
+Itō Sukemochi "Warpden": https://archive.4plebs.org/tg/post/90973632/
+Li Yinzhen "Jiangshi": https://archive.4plebs.org/tg/thread/90977623/#90978093
+Cormelia Busujima "Remedios": https://archive.4plebs.org/tg/thread/91345785/#91353847
 Nekiro Nishi "Jupiter": https://rentry.org/i2nzb
-Jocko Homo "Top Smile, The Smiling Hero": https://desuarchive.org/tg/post/90992508/
-Chiba Chiyo "Animata": https://desuarchive.org/tg/post/90990850/
-Nobiko Midorima "Synthesis": https://desuarchive.org/tg/post/90992108/
-Nekiro Nishi: https://desuarchive.org/tg/post/90997317/
+Jocko Homo "Top Smile, The Smiling Hero": https://archive.4plebs.org/tg/post/90992508/
+Chiba Chiyo "Animata": https://archive.4plebs.org/tg/post/90990850/
+Nobiko Midorima "Synthesis": https://archive.4plebs.org/tg/post/90992108/
+Nekiro Nishi: https://archive.4plebs.org/tg/post/90997317/
 Katsumi Hachizaki: https://rentry.org/HeartMHA
 
 >>Class 1-C
-Isabella Nesis: https://desuarchive.org/tg/post/91129775/
-Okimoto Chisaka: https://desuarchive.org/tg/post/91130422/
-Isabela Nakahata: https://desuarchive.org/tg/post/91351414/
-Lilinah ‘Riri’ Inoue: https://desuarchive.org/tg/post/91347120/
-Ysmir Dragonborn: https://desuarchive.org/tg/post/91349452/
-Daniel W. Rain: https://desuarchive.org/tg/post/91352447/
+Isabella Nesis: https://archive.4plebs.org/tg/post/91129775/
+Okimoto Chisaka: https://archive.4plebs.org/tg/post/91130422/
+Isabela Nakahata: https://archive.4plebs.org/tg/post/91351414/
+Lilinah ‘Riri’ Inoue: https://archive.4plebs.org/tg/post/91347120/
+Ysmir Dragonborn: https://archive.4plebs.org/tg/post/91349452/
+Daniel W. Rain: https://archive.4plebs.org/tg/post/91352447/
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -585,71 +585,72 @@ Hoge Helps You: https://archive.4plebs.org/tg/post/89285337
 Hoge Helps You (Empty): https://archive.4plebs.org/tg/post/89285360
 InigoxHoge - 1st Semester: https://archive.4plebs.org/tg/post/89344819
 Recoil and Challenger in the Glass Maze https://archive.4plebs.org/tg/post/89432242
-Adorable Sandy x Mio artfags by Sandy-anon(Sandy, Mio): https://desuarchive.org/tg/thread/89511268/#89518566
-https://desuarchive.org/tg/thread/89511268/#89523160
-Chad Drekus(Dreku): https://desuarchive.org/tg/thread/89537858/#89540922
-Breakdancing Kampai(Kampai): https://desuarchive.org/tg/thread/89537858/#89540936
+Adorable Sandy x Mio artfags by Sandy-anon(Sandy, Mio): https://archive.4plebs.org/tg/thread/89511268/#89518566
+https://archive.4plebs.org/tg/thread/89511268/#89523160
+Chad Drekus(Dreku): https://archive.4plebs.org/tg/thread/89537858/#89540922
+Breakdancing Kampai(Kampai): https://archive.4plebs.org/tg/thread/89537858/#89540936
 Smug Gun Nun(Sandatsu): https://desu-usergeneratedcontent.xyz/tg/image/1689/11/1689115069881.png
-Alzheimers Girl(Ashleigh): https://desuarchive.org/tg/thread/89545448/#89549935
-Hidden Dragon Photo #8 (Ryu-Kishi, Marumaru): https://desuarchive.org/tg/thread/89553776/#89556641
-BEAT THE ROT (Kampai): https://desuarchive.org/tg/thread/89553776/#89565271
-Magical Girls of Shiketsu!: https://desuarchive.org/tg/thread/89565846/#89567731
+Alzheimers Girl(Ashleigh): https://archive.4plebs.org/tg/thread/89545448/#89549935
+Hidden Dragon Photo #8 (Ryu-Kishi, Marumaru): https://archive.4plebs.org/tg/thread/89553776/#89556641
+BEAT THE ROT (Kampai): https://archive.4plebs.org/tg/thread/89553776/#89565271
+Magical Girls of Shiketsu!: https://archive.4plebs.org/tg/thread/89565846/#89567731
 It's Reaping time!: https://desu-usergeneratedcontent.xyz/tg/image/1689/36/1689364134053.png
-Nene-chan!: https://desuarchive.org/tg/thread/89565846/#89573486
-Nene Feline Good: https://desuarchive.org/tg/thread/89586376/#89586712
-mmmmm milk: https://desuarchive.org/tg/thread/89586376/#89589591
-Mystery & Detective Stories for Kids: https://desuarchive.org/tg/thread/89615875/#89621560
-Noah the Saint: https://desuarchive.org/tg/thread/89615875/#89625515
-Sally Getting Drilled from Behind (In Color): https://desuarchive.org/tg/thread/89625880/#89628318
-Kaylee in the hospital bed: https://desuarchive.org/tg/thread/89637421/#89644891
-Katsuragi Enjoyers: https://desuarchive.org/tg/thread/89679599/#89683133
-Smug Nene: https://desuarchive.org/tg/thread/89708552/#89717661
-Sandatsu intimidating Chris: https://desuarchive.org/tg/post/89717678/
-Seiryu, Honoken, and Karma edit: https://desuarchive.org/tg/thread/89750940/#89763266
-Seiryu/Karma edit 3: https://desuarchive.org/tg/thread/89750940/#89763299
-Sandy and Mio casualwear: https://desuarchive.org/tg/thread/89851223/#89859158
-Marumaru character sheet: https://desuarchive.org/tg/thread/90030958/#90032228
-Chibi Sandatsu Stamp: https://desuarchive.org/tg/post/90104227/
-Inigo's Phone: https://desuarchive.org/tg/post/90102567/
-Maru 101: https://desuarchive.org/tg/post/90160675/
-Kids on my hero: https://desuarchive.org/tg/thread/90171418/#90175866
-The Princess Diaries starring Inigo myoga and Drekus: https://desuarchive.org/tg/thread/90231458/#90234741
-Hoge & Inigo Aquarium Date: https://desuarchive.org/tg/thread/90272998/#90281700
-Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://desuarchive.org/tg/thread/90356118/#90366691
-Ryu-kishi and Mirror Devil art: https://desuarchive.org/tg/post/90413221/
-A random Saber blocks your path: https://desuarchive.org/tg/thread/90413662/#90423696
-Exams: https://desuarchive.org/tg/thread/90521522/#90529732
-Team 1-D: https://desuarchive.org/tg/thread/90521522/#90529764
-Kaylee vs. Rockhorn: https://desuarchive.org/tg/thread/90541648/#90542401
-Yui, Snady, Orochi and Chihiro, hoge: https://desuarchive.org/tg/thread/90744924/#90754470
-Top 10 Hero Chart: https://desuarchive.org/tg/thread/90930751/#90932056
-Feral: https://desuarchive.org/tg/thread/90930751/#90932810
-Team Vigilante (Colorized) (Ryu-kishi, Maru(maru), Marrow): https://desuarchive.org/tg/post/90972837/
-mirror devil no comment stamp: https://desuarchive.org/tg/thread/90977623/#90984861
-doodle of the boys: https://desuarchive.org/tg/thread/90987083/#90988176
-Hifumi 'Fired Up' Stamp: https://desuarchive.org/tg/post/91008290/
-Sandatsu Artfag (Freedom and Awakening): https://desuarchive.org/tg/post/91035194/
-Student Vigilante Artfag: https://desuarchive.org/tg/post/91040871/
-Maru walking: https://desuarchive.org/tg/thread/91064631/#91065971
-Junichi: https://desuarchive.org/tg/post/91082748/
-Sandatsu's Hidden Form: https://desuarchive.org/tg/post/91082759/
-Sandatsu: https://desuarchive.org/tg/post/91082769/
-sandatsu origin: https://desuarchive.org/tg/post/91092900/
-Stage team: https://desuarchive.org/tg/thread/91101836/#91107742
-Updated Clique Relationship Chart + Moodboard: https://desuarchive.org/tg/post/91118077/
-Sandatsu Owari shirtless: https://desuarchive.org/tg/thread/91145180/#91147297
+Nene-chan!: https://archive.4plebs.org/tg/thread/89565846/#89573486
+Nene Feline Good: https://archive.4plebs.org/tg/thread/89586376/#89586712
+mmmmm milk: https://archive.4plebs.org/tg/thread/89586376/#89589591
+Mystery & Detective Stories for Kids: https://archive.4plebs.org/tg/thread/89615875/#89621560
+Noah the Saint: https://archive.4plebs.org/tg/thread/89615875/#89625515
+Sally Getting Drilled from Behind (In Color): https://archive.4plebs.org/tg/thread/89625880/#89628318
+Kaylee in the hospital bed: https://archive.4plebs.org/tg/thread/89637421/#89644891
+Katsuragi Enjoyers: https://archive.4plebs.org/tg/thread/89679599/#89683133
+Smug Nene: https://archive.4plebs.org/tg/thread/89708552/#89717661
+Sandatsu intimidating Chris: https://archive.4plebs.org/tg/post/89717678/
+Seiryu, Honoken, and Karma edit: https://archive.4plebs.org/tg/thread/89750940/#89763266
+Seiryu/Karma edit 3: https://archive.4plebs.org/tg/thread/89750940/#89763299
+Sandy and Mio casualwear: https://archive.4plebs.org/tg/thread/89851223/#89859158
+Marumaru character sheet: https://archive.4plebs.org/tg/thread/90030958/#90032228
+Chibi Sandatsu Stamp: https://archive.4plebs.org/tg/post/90104227/
+Inigo's Phone: https://archive.4plebs.org/tg/post/90102567/
+Maru 101: https://archive.4plebs.org/tg/post/90160675/
+Kids on my hero: https://archive.4plebs.org/tg/thread/90171418/#90175866
+The Princess Diaries starring Inigo myoga and Drekus: https://archive.4plebs.org/tg/thread/90231458/#90234741
+Hoge & Inigo Aquarium Date: https://archive.4plebs.org/tg/thread/90272998/#90281700
+Boys in a Comic Store - (The Boys, Bakeneneko, Capture Cloth, Blackout): https://archive.4plebs.org/tg/thread/90356118/#90366691
+Ryu-kishi and Mirror Devil art: https://archive.4plebs.org/tg/post/90413221/
+A random Saber blocks your path: https://archive.4plebs.org/tg/thread/90413662/#90423696
+Exams: https://archive.4plebs.org/tg/thread/90521522/#90529732
+Team 1-D: https://archive.4plebs.org/tg/thread/90521522/#90529764
+Kaylee vs. Rockhorn: https://archive.4plebs.org/tg/thread/90541648/#90542401
+Yui, Snady, Orochi and Chihiro, hoge: https://archive.4plebs.org/tg/thread/90744924/#90754470
+Top 10 Hero Chart: https://archive.4plebs.org/tg/thread/90930751/#90932056
+Feral: https://archive.4plebs.org/tg/thread/90930751/#90932810
+Team Vigilante (Colorized) (Ryu-kishi, Maru(maru), Marrow): https://archive.4plebs.org/tg/post/90972837/
+mirror devil no comment stamp: https://archive.4plebs.org/tg/thread/90977623/#90984861
+doodle of the boys: https://archive.4plebs.org/tg/thread/90987083/#90988176
+Hifumi 'Fired Up' Stamp: https://archive.4plebs.org/tg/post/91008290/
+Sandatsu Artfag (Freedom and Awakening): https://archive.4plebs.org/tg/post/91035194/
+Student Vigilante Artfag: https://archive.4plebs.org/tg/post/91040871/
+Maru walking: https://archive.4plebs.org/tg/thread/91064631/#91065971
+Junichi: https://archive.4plebs.org/tg/post/91082748/
+Sandatsu's Hidden Form: https://archive.4plebs.org/tg/post/91082759/
+Sandatsu: https://archive.4plebs.org/tg/post/91082769/
+sandatsu origin: https://archive.4plebs.org/tg/post/91092900/
+Stage team: https://archive.4plebs.org/tg/thread/91101836/#91107742
+Updated Clique Relationship Chart + Moodboard: https://archive.4plebs.org/tg/post/91118077/
+Sandatsu Owari shirtless: https://archive.4plebs.org/tg/thread/91145180/#91147297
 Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
-Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://desuarchive.org/tg/thread/91159887/#91163283
-cringekino clickbait: https://desuarchive.org/tg/post/91169301/
-Young Impakt Art: https://desuarchive.org/tg/post/91192484/
-Team PRD Moodboard: https://desuarchive.org/tg/thread/91286519/#91288679
-A Quiet Christmas Night(Inigo, Maru(maru)): https://desuarchive.org/tg/thread/91323415/#91331650
-jugorush2: https://desuarchive.org/tg/post/91491455/
-Swordrush(Hifumi): https://desuarchive.org/tg/post/91495404/
-Hoge's First Sleepover: https://desuarchive.org/tg/post/91511133/
-Class1D-005: https://desuarchive.org/tg/thread/91586719/#91591198
-1D Dance Team (Colorized): https://desuarchive.org/tg/thread/91595699/#91600316
-Shiketsu ED V0.2: https://desuarchive.org/tg/post/91610993/
+Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://archive.4plebs.org/tg/thread/91159887/#91163283
+cringekino clickbait: https://archive.4plebs.org/tg/post/91169301/
+Young Impakt Art: https://archive.4plebs.org/tg/post/91192484/
+Team PRD Moodboard: https://archive.4plebs.org/tg/thread/91286519/#91288679
+A Quiet Christmas Night(Inigo, Maru(maru)): https://archive.4plebs.org/tg/thread/91323415/#91331650
+jugorush2: https://archive.4plebs.org/tg/post/91491455/
+Swordrush(Hifumi): https://archive.4plebs.org/tg/post/91495404/
+Hoge's First Sleepover: https://archive.4plebs.org/tg/post/91511133/
+Class1D-005: https://archive.4plebs.org/tg/thread/91586719/#91591198
+1D Dance Team (Colorized): https://archive.4plebs.org/tg/thread/91595699/#91600316
+Shiketsu ED V0.2: https://archive.4plebs.org/tg/post/91610993/
+Kaylee embarrassed as she wins the beauty pageant / distant angry korean sounds: https://desuarchive.org/tg/post/91627063/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -1042,7 +1043,8 @@ The Other Side - C Part 2 (Arena, Orbit, Yamata): https://rentry.org/5oanb
 Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel): https://rentry.org/qgzqgfy8
 Brightly is Maidnapped: https://desuarchive.org/tg/post/91588066/
 Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko): https://rentry.org/PopsyB
-
+"Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique): https://rentry.org/avuzhy6i
+Takashi's Dungeon (Brightly): https://desuarchive.org/tg/post/91626497/
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

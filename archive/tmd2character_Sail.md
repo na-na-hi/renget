@@ -1,3 +1,4 @@
+-> **[BACK TO CHARACTERS](https://rentry.co/tmd2many_characters#player-character-list)** <-
 ![Yarr](https://files.catbox.moe/0trjiv.png)
 
 ### Sail ♂
@@ -9,7 +10,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 **Species:** Goomy | **Affiliation:** Team Gildscales
 **Level:** 13 | **Experience to Next Level:** 130/0
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 2,055₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2,475₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -76,18 +77,18 @@ Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 3/9 | ▮▮▮�
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
-*Equipped Item: N/A* | N/A
-1. N/A | 
-2. N/A | 
+*Equipped Item: Oran Berry* | Heals the user for 10HP.
+1. Blast Seed | Explodes on contact for 10 true damage.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 3. Heal Seed | 	Cures all status conditions.
-4. N/A | 
+4. N/A | N/A
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Pink Gummi  |  Gives +10 IQ points to Poison-Types. Gives +5 to other types. Tastes like sweet vinegar.
+1. Blast Seed  |  Explodes on contact for 10 true damage
 2. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**

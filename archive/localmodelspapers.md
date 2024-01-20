@@ -508,6 +508,7 @@
 01/2024|[Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks](https://arxiv.org/abs/2401.02731)
 01/2024|[Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 01/2024|[Extending LLMs' Context Window with 100 Samples](https://arxiv.org/abs/2401.07004)
+01/2024|[ChatQA: Building GPT-4 Level Conversational QA Models](https://arxiv.org/abs/2401.10225)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

@@ -90,8 +90,8 @@
 [Fabric ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 |
+[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|Few-shot voice cloning and Text-to-Speech WebUI (ENG/JPN/CHN)
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can finetune with custom dataset)
-[OpenVoice](https://github.com/myshell-ai/OpenVoice)|Instant voice cloning with tone color and voice style manipulation
 [WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
 [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
 [whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support

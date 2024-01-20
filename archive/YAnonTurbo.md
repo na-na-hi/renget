@@ -1,4 +1,5 @@
 ---
+-> [?](https://files.catbox.moe/3qg5ea.png) ->
 !!! Note OpenAI Model
 >gpt-3.5-turbo-16k
 !!! Note Context Size (Tokens)

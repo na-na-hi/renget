@@ -9,14 +9,14 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 **Species:** Seviper | **Affiliation:** Team Gildscales
 **Level:** 11 | **Experience to Next Level:** 85/110
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 165₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1445₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Shed Skin | The User has a ⅓ chance of curing their Status Conditions each turn.
 
 ->Normal Rank<-
-->*1200/10 points to Bronze Rank*<-
+->*10/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -46,13 +46,13 @@ Glare | Orner looks straight into your soul, freezing you in place.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 31 IQ points to spend.
-    6/10 IP | ▮▮▮▮▮▮▯▯▯▯
+    You have 1 IQ points to spend.
+    10/10 IP | ▮▮▮▮▮▮▮▮▮▮
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Sales Pitch | The User can sell Items for 10% more in shops.	| 3 IP
 2. Coin Haggler | The User can buy Items for 10% less in shops.	|  3 IP
-3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+3. Type Specialist | SE damage increased by 2. NVE damage decreased by 3. | 4 IP
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 
@@ -72,10 +72,10 @@ Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Pierce Band | 25% chance of thrown items hitting multiple targets when worn.
-*Equipped Item: Eᴍᴘᴛʏ | Vacant inventory slot.
-1. Warp Seed | Random teleport seed.
-2. Power Seed | Increases Attack and Special Attack by 2 stages.
+*Worn/Held Item: Eᴍᴘᴛʏ | Vacant inventory slot..
+*Equipped Item: Oran Berry | Heals 10 HP under 50% health.
+1. Blast Seed | 10 true damage.
+2. Tiny Reviver Seed | Revives fainted allies at half health.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 

@@ -330,6 +330,11 @@ Note: A bewitching enchantress with an eternally fashionable wardrobe and a tast
 Data: https://textbin.net/bhn1xq1ikw
 Music: 
 
+Name:  Lindt von Teschen (aka Lisa Minci)
+Note:   A librarian of the Royal Archive of Greyweul, who certainly has no secrets or a false name or interests in magic and alchemy.
+Data: https://rentry.org/Lisa_Minci_of_Aria
+Music: 
+
 Name: Liritchia Ecludea
 Note: A summoner that is always in search of means to get new ingredients for summoning magic with her shadow familiar.
 Data: https://textbin.net/iu2ha9gpky

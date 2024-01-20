@@ -46,6 +46,7 @@ Previous: *>>694201488 (# of previous thread)*
 [Nijigasaki](https://www.lovelive-anime.jp/nijigasaki/worldwide/)
 [Liella](https://www.lovelive-anime.jp/yuigaoka/worldwide/)
 [Hasunosora](https://www-lovelive--anime-jp.translate.goog/hasunosora/?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+[LoveLive! Staff X (LoveLive_staff)](https://twitter.com/LoveLive_staff)
 
 **Love Live! Fansites and Communities**
 [LLFans (JP)](https://ll-fans.jp/)
@@ -58,7 +59,7 @@ Previous: *>>694201488 (# of previous thread)*
 **Ideal Websites**
 [Picuki | Insta Viewer](https://picuki.com)
 [Urlebird | TikTok Viewer](https://urlebird.com/)
-[Nitter.net | X/Twitter Viewer ](https://nitter.net)
+[Nitter.net | X/Twitter Viewer](https://nitter.net)
 
 ##Previous versions:
 https://rentry.org/llst-2021-02-bkup
@@ -145,12 +146,12 @@ https://rentry.org/llst-2021-02-bkup
 !!! note Note:
 	- All seiyuu are sorted by the "official order" with their CV (character voice) / the roles they're portraying in the franchise.
 	- LineBLOG has been retired since 2023 so only archive links are up for posterity.
-	- Info might be 100% not accurate, if that's the case feel free to bother me on the thread
+	- Info might be 100% not accurate, if that's the case feel free to bother me on the thread 
  
 **Legend / Key**
 Key | Term
 --- | ---
-TW | Twitter
+TW | Twitter / X
 IG  | Instagram
 YT | YouTube
 FB | Facebook
@@ -266,7 +267,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Yuki Yuuna 結木ゆな** |Yunana|March 28, 1999|[Agency WEB](https://apollobay.jp/talent/%E5%90%89%E6%AD%A6%E5%8D%83%E9%A2%AF/) / [TW](https://twitter.com/y0u6n0a9) / [IG](https://www.instagram.com/y0u6n0a9y/)|[📷](https://files.catbox.moe/1w87uf.jpg)
 
 ***
-##CONCERTS, SHOWS & VODS LINKS 
+##CONCERTS, SHOWS & VODS LINKS f
 !!! warning Warning
     This section is under heavy WIP
 	Some links might be dead / unseeded
@@ -274,11 +275,13 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 **Love Live! Official YouTube Channel**
 https://www.youtube.com/c/lovelive_series/ 
 
-Ijigen Fes IDOLM@STER★♥Love Live! Uta Gassen 2023  ![](https://files.catbox.moe/c95yx7.gif)
+Ijigen Fes IDOLM@STER★♥Love Live! Uta Gassen 2023  
 D1 - [1080p WEBDL](https://nyaa.si/view/1754242) | [Bilibili 480p](https://nyaa.si/view/1753668) | [x265 1080p](https://nyaa.si/view/1754242)
 D2 - [1080p WEBDL](https://nyaa.si/view/1754686) | [Bilibili 480p](https://nyaa.si/view/1754239) | [x265 1080p](https://nyaa.si/view/1754686)
-Stagecrowd Webrip [1080p](https://nyaa.si/view/1756820)
+Stagecrowd WEBRip [1080p](https://nyaa.si/view/1756820)
 
+Aqours COUNTDOWN LoveLive! ~WHITE ISLAND~
+[1080p](https://nyaa.si/view/1534180)
 
 ###µ's
 ####CONCERTS/LIVES/VODs
@@ -301,86 +304,69 @@ Love Live! 5th Live! µ's Go Go! Love Live 2015 ~Dream Sensation~
 https://nyaa.si/view/765486
 
 Love Live! µ's Final Love Live! ~µ'sic Forever~ 
-1080p - https://nyaa.si/view/912563  ==EngSub==
+1080p - https://nyaa.si/view/912563  ==(ENGSUB)==
 
 ###Aqours
 ####CONCERTS/LIVES/VODs
-Love Live! Sunshine!! Aqours - Is Everyone Ready ~One, Two, Sunshine!!~
-https://nyaa.si/view/995435
- 
-Aqours Christmas 2016 Mini-Live
-https://nyaa.si/view/886306
- 
-Aqours 1st Love Live! ~Step! ZERO to ONE~
-1080p subs - https://nyaa.si/view/993344
-720p subs - https://nyaa.si/view/993576
-1080p HEVC - https://nyaa.si/view/1246977
+Aqours 1st Love Live! ~Step! ZERO to ONE~ ==(ENGSUB)==
+BRRip - [1080p](https://nyaa.si/view/993344)  / [720p](https://nyaa.si/view/993576) / [1080p HEVC](https://nyaa.si/view/1246977) 
  
 Aqours 2nd Love Live! HAPPY PARTY TRAIN TOUR
-1080p subs - https://nyaa.si/view/1079381
-720p subs - https://nyaa.si/view/1079560
-Satrip Day 1 - https://nyaa.si/view/999116
-Satrip Day 2 - https://nyaa.si/view/999896
+BRRip Complete - [1080p](https://nyaa.si/view/1079381) / [720p](https://nyaa.si/view/1079560)
  
 Aqours 3rd Love Live! WONDERFUL STORIES
-1080p subs - https://nyaa.si/view/1148699
-720p Disc 1 - https://nyaa.si/view/1124328
-720p Disc 2 - https://nyaa.si/view/1124329
-720p Disc 3 - https://nyaa.si/view/1124370
-720p Disc 4 - https://nyaa.si/view/1124414
-Making of - https://nyaa.si/view/1124204
+BRRip Complete - [1080p](https://nyaa.si/view/1148699) ==(ENGSUB)== / [720p Saitama A](https://nyaa.si/view/1124328) / [720p Saitama B](https://nyaa.si/view/1124329) / [720p Osaka A](https://nyaa.si/view/1124370) / [720p Osaka B](https://nyaa.si/view/1124370) /  [720p Fukuoka](https://nyaa.si/view/1124414) /  [Making Of](https://nyaa.si/view/1124204)
  
-Aqours 3rd Love Live! WONDERFUL STORIES (satrip)
-Saitama Day 1 - https://nyaa.si/view/1046140
-Saitama Day 2 - https://nyaa.si/view/1046493
-Osaka Day 1 & 2 - https://nyaa.si/view/1048568
-Fukuoka Day 1 1080p - https://nyaa.si/view/1061955
-Fukuoka Day 1 & 2 720p - https://nyaa.si/view/1056300
- 
-Aqours 4th Love Live! ~Sailing to the Sunshine~
-1080p Day 1 Disc 1 - https://nyaa.si/view/1147442
-1080p Day 1 Disc 2 - https://nyaa.si/view/1147451
-1080p Day 2 Disc 1 - https://nyaa.si/view/1147656
-1080p Day 2 Disc 2 - https://nyaa.si/view/1147657
-1080p Making of - https://nyaa.si/view/1147658
-720p - https://nyaa.si/view/1148562
- 
-==(ENGSUB)== Aqours 4th Love Live! ~Sailing to the Sunshine~ 
-Day 1 1080p - https://nyaa.si/view/1095510
-Day 1 720p - https://nyaa.si/view/1095838
-Day 2 720p - https://nyaa.si/view/1095954
+Aqours 3rd Love Live! WONDERFUL STORIES 
+BRRip Complete - [1080p](https://nyaa.si/view/1148699) ==(ENGSUB)==
+BRRip Raw  - [Disc1 1080p](https://nyaa.si/view/1124356) / [Disc2 1080p](https://nyaa.si/view/1124363) / [Disc3 1080p](https://nyaa.si/view/1124382) / [Disc4 1080p](https://nyaa.si/view/1124393) / [Making Of 1080p](https://nyaa.si/view/1124204)
 
-Love Live! Sunshine!! Aqours EXTRA LoveLive! 
-[D1&D2 BDRip w/ Making Of Scenes](https://nyaa.si/view/1751250)  ![](https://files.catbox.moe/c95yx7.gif)
+Aqours 4th Love Live! ~Sailing to the Sunshine~
+Day1 1080p - [Disc1](https://nyaa.si/view/1147442) / [Disc2](https://nyaa.si/view/1147451) 
+Day2 1080p - [Disc1](https://nyaa.si/view/1147656) / [Disc2](https://nyaa.si/view/1147657)
+Making Movie - [1080p](https://nyaa.si/view/1147658)
+Day1+Day2 [720p](https://nyaa.si/view/1148562)
+
+Webrips [1080p](https://nyaa.si/view/1095510) / [D1 720p](https://nyaa.si/view/1095838) / [D2 720p](https://nyaa.si/view/1095954)
 
 ==(ENGSUB)== Aqours 5th LoveLive! ~Next SPARKLING!!~ 
-720p x265 - https://nyaa.si/view/1381542
-1080p x265 - https://nyaa.si/view/1257300
+BRRip - [720p x265](https://nyaa.si/view/1381542) / [1080p x265](https://nyaa.si/view/1257300)
 
-Aqours 6th LoveLive! ~KU-RU-KU-RU Rock 'n' Roll TOUR~~ 
-Windy Stage (D1&D2) - https://nyaa.si/view/1546669
-Sunny Stage - https://nyaa.si/view/1500330
-Ocean Stage - https://nyaa.si/view/1496114
+Aqours 6th LoveLive! ~KU-RU-KU-RU Rock 'n' Roll TOUR~
+Windy Stage D1&D2 - [1080p PIA WEBRip](https://nyaa.si/view/1546669) / [1080p BRRip](https://nyaa.si/view/1710884) ==(ENGSUB)==
+Sunny Stage D1&D2 - [1080p PIA WEBRip](https://nyaa.si/view/1500330) / [1080p ePlus WEBRip](https://nyaa.si/view/1499374)
+Ocean Stage D1&D2 - [1080p PIA WEBRip](https://nyaa.si/view/1496114)
 
-Aqours/Nijigasaki Concert Collection (935.0 GiB)
-https://nyaa.si/view/1613034
+Love Live! Sunshine!! Aqours EXTRA LoveLive! DREAMY CONCERT 2021 *D1&D2* 
+BDRip Complete w/ Making Of Scenes - [1080p](https://nyaa.si/view/1751250)  ![](https://files.catbox.moe/c95yx7.gif)
 
+Love Live! Sunshine!! Aqours EXTRA LoveLive! 2023 ~It's a Mugendai☆WORLD~ 
+BRRip Complete - [1080p](https://nyaa.si/view/1756136) ![](https://files.catbox.moe/c95yx7.gif)
+White Day  - [1080p WEBRip](https://nyaa.si/view/1648283)
+Valentine's Day  - [1080p WEBRip](https://nyaa.si/view/1637091)
+
+Aqours ONLINE LoveLive! ~LOST WORLD~
+BRRip Complete - [1080p](https://nyaa.si/view/1525051) 
+BRRip x265/HEVC: -[1080p](https://nyaa.si/view/1527917) / [720p](https://nyaa.si/view/1527922) ==(ENGSUB)==
+WEBRip - [D1 1080p](https://nyaa.si/view/1289436) / [D2 1080p](https://nyaa.si/view/1289241) / [D1&D2 1080p](https://nyaa.si/view/1289367)
+
+**Saint Snow Performances**
+ 
 Saint Snow presents HAKODATE UNIT CARNIVAL
-720p BD raw - https://nyaa.si/view/1090561
-Day 1 Satrip - https://nyaa.si/view/1056346
-Day 2 Satrip - https://nyaa.si/view/1056357
+BRRip Complete - [1080p x265](https://nyaa.si/view/1100107) / [720p](https://nyaa.si/view/1090561) / 
 
-==(ENGSUB)== Aqours ONLINE LoveLive! ~LOST WORLD~
-BD 1080p - https://nyaa.si/view/1525051
-1080p - https://nyaa.si/view/1527917
-720p - https://nyaa.si/view/1527922
-
-==(ENGSUB)== Aqours COUNTDOWN LoveLive! ~WHITE ISLAND~
-https://nyaa.si/view/1534180
+Saint Snow 1st GIG ~Welcome to Dazzling White Town~ *D1&D2*
+[WEBRip 1080p](https://nyaa.si/view/1293611) / [1080p BRRip](https://nyaa.si/view/1727091) / [1080p BRRip RAW](https://nyaa.si/view/1400257)
  
 ####EVENTS/PERFORMANCES/MISC
+Love Live! Sunshine!! Aqours - Is Everyone Ready ~One, Two, Sunshine!!~ ==(ENGSUB)==
+[1080p](https://nyaa.si/view/995435) 
+ 
+Aqours Christmas 2016 Mini-Live ==(ENGSUB)==
+[1080p](https://nyaa.si/view/886306) 
+
 Anisong World Matsuri 2017
-https://nyaa.si/view/1017115
+[TVRip 720p](https://nyaa.si/view/1017115)
  
 Animelo Summer Live 2017
 Main - https://nyaa.si/view/1022032
@@ -403,7 +389,8 @@ Hakodate - https://nyaa.si/view/1046487
 2019 - https://nyaa.si/view/1179494
 2017 - https://nyaa.si/view/1058771
  
-**Aqours Fanmeetings**
+**Aqours Fanmeetings** ==⚠deadlink==
+Compliation - [#1 x265 1080p](https://nyaa.si/view/1708403) / [#2  (mixed formats)](https://nyaa.si/view/1612786)
 2017-12-10 Sapporo - https://nyaa.si/view/1058803
 2017-12-16 Numazu - https://nyaa.si/view/1051971
 2018-01-06 Fukuoka - https://nyaa.si/view/1032407
@@ -426,8 +413,6 @@ Hakodate - https://nyaa.si/view/1046487
 2019-02-17 CYaRon @ Osaka - https://nyaa.si/view/1119993
 2019-03-01 Unit Battle Finals @ Tokyo - https://nyaa.si/view/1123881
 2019-03-03 Unit Battle Finals @ Tokyo - https://nyaa.si/view/1123882
-Compliation - [x265 1080p](https://nyaa.si/view/1708403)
-Compilation #2 - [link (mixed formats)](https://nyaa.si/view/1612786)
 
 **Aqours ONLINE LoveLive! Blu-ray Memorial BOX**
 https://nyaa.si/view/1425656
@@ -448,18 +433,14 @@ Animelo Summer Live 2018 - https://nyaa.si/view/1100229
 Kohaku Uta Gassen 2018 - https://nyaa.si/view/1106764
 CDTV Special New Year 2019 - https://nyaa.si/view/1106731
 Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
-
-Saint Snow 1st GIG ~Welcome to Dazzling White Town~ 
-[1080p BRRip](https://nyaa.si/view/1727091)
   
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
-6th Live! I love You ⇆ You love Me ![](https://files.catbox.moe/c95yx7.gif)
-Aichi D1&D2 [1080p PIA WEBRip](https://nyaa.si/view/1760323)
-Kanagawa D1&D2 [1080p PIA WEBRip](https://nyaa.si/view/1766658)
+6th Live! I love You ⇆ You love Me *D1&D2* ![](https://files.catbox.moe/c95yx7.gif)
+Aichi  [1080p PIA WEBRip](https://nyaa.si/view/1760323) / Kanagawa [1080p PIA WEBRip](https://nyaa.si/view/1766658)
 
-5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ <Day 1&2>
-webrip: https://nyaa.si/view/1577721
+5th Live! Nijigasaku Basho ~Colorful Dreams! Colorful Smiles!~ *Day 1&2*
+WEBRip: https://nyaa.si/view/1577721
 BDRip HEVC: https://nyaa.si/view/1652899
 BDRip: https://nyaa.si/view/1652249
 
@@ -548,9 +529,9 @@ Saitama - https://nyaa.si/view/1645740
 [BluRay (Miyagi/Saitama + Making Of)](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html) 
 
 Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
-KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) [720p](https://nyaa.si/view/1707506)
-Catchu! ver : [1080p](https://nyaa.si/view/1709468) [720p](https://nyaa.si/view/1709926)
-5yncri5e! ver: [1080](https://nyaa.si/view/1716100) [720](https://nyaa.si/view/1716321)
+KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) /  [720p](https://nyaa.si/view/1707506)
+Catchu! ver : [1080p](https://nyaa.si/view/1709468) / [720p](https://nyaa.si/view/1709926)
+5yncri5e! ver: [1080](https://nyaa.si/view/1716100) / [720](https://nyaa.si/view/1716321)
 
 Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)
 https://nyaa.si/view/1612969
@@ -570,6 +551,8 @@ Liella no Doko Iku? (Season 1)
 Part 1 : [576p](https://nyaa.si/view/1465161) | [720p](https://nyaa.si/view/1465162) | [1080p](https://nyaa.si/view/1467287)
 Part 2 : [576p](https://nyaa.si/view/1529414) | [720p](https://nyaa.si/view/1529415) | [1080p](https://nyaa.si/view/1529416)
 Part 3 : [576p](https://nyaa.si/view/1529418) | [720p](https://nyaa.si/view/1529419) | [1080p](https://nyaa.si/view/1529420)
+
+Note: sadly there is no standalone rip for the Season 2 Doko Ikus however they are on the 2nd Season blurays which sadly hadn't been ripped yet
  
 ラブライブ！スーパースター!!Liella!突撃ロケ
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
@@ -629,8 +612,8 @@ Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 [Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) 
 [Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip) 
 [(YJ) 岬なこ写真集「とろけてあまい」| Nako Misaki PB “Melting Sweet”](https://files.catbox.moe/yx58mw.zip) ![](https://files.catbox.moe/c95yx7.gif)
-[Misaki Nako 1st PB (torrent)](https://nyaa.si/view/1762141) ![](https://files.catbox.moe/c95yx7.gif)
-[Chiemi Tanaka 1st PB (w/ exclusive DVD) (torrent)](https://nyaa.si/view/1762140) ![](https://files.catbox.moe/c95yx7.gif)
+[Misaki Nako 1st PB (🧲)](https://nyaa.si/view/1762141) ![](https://files.catbox.moe/c95yx7.gif)
+[Chiemi Tanaka 1st PB (w/ exclusive DVD) (🧲)](https://nyaa.si/view/1762140) ![](https://files.catbox.moe/c95yx7.gif)
 [VOICE VISTA magazine vol.1 大熊和奏 (4.73mb)](https://files.catbox.moe/0nn40u.zip) ![](https://files.catbox.moe/c95yx7.gif)
 
  

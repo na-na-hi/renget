@@ -3030,11 +3030,19 @@ Base SD Artists: https://www.mediafire.com/file/mnqv47mgji4baa4/Working_artists_
 	Anyways, hope it helps someone.
 
 ### Wildcards
+Use either the Wildcard or Dynamic prompts extensions!
+List of wildcards: https://rentry.org/NAIwildcards
+Dynamic prompts wildcards: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections
+(Work even without the dynamic prompts extension if you prefer the older one, just grab the .txt files.)
+Most modern models were trained on the majority if not all of E621.
+You can grab a .csv containing all e621 tags from https://e621.net/db_export/ and filter for Category 1.
+Here is an artist listing of the entirety of e621, sorted by number of posts (dated mid Oct. 2023): https://files.catbox.moe/mjs8jh.txt
 
-	Use either the Wildcard or Dynamic prompts extensions!
-	List of wildcards: https://rentry.org/NAIwildcards
-	Dynamic prompts wildcards: https://github.com/adieyal/sd-dynamic-prompts/tree/main/collections
-	(Work even without the dynamic prompts extension if you prefer the older one, just grab the .txt files.
+All artists from fluffyrock.csv sorted by number of posts: https://files.catbox.moe/vtch6n.txt
+
+Pose tags: https://rentry.org/9y5vwuak
+
+Wildcards collection: https://files.catbox.moe/lwh0fx.7z
 
 ### OpenPose Model
 	For use in Blender; allows for posing for use in the ControlNet extension.
@@ -3068,13 +3076,6 @@ Reminder that the prior GitHub repo has been discontinued; delete the extension'
 	If you encounter problems while using the convnext model, try unchecking "Sort alphabetically" in the extension
 	Older Deepdanbooru Model: https://pixeldrain.com/u/XTcj5GHz
 ![Older Deepdanbooru model](https://files.catbox.moe/wenphe.png)
-
-### e621 artist wildcard
-Most modern models were trained on the majority if not all of E621.
-You can grab a .csv containing all e621 tags from https://e621.net/db_export/ and filter for Category 1.
-Here is an artist listing of the entirety of e621, sorted by number of posts (dated mid Oct. 2023): https://files.catbox.moe/mjs8jh.txt
-
-All artists from fluffyrock.csv sorted by number of posts: https://files.catbox.moe/vtch6n.txt
 
 ### Upscaler Model Database
 Recommendations are Lollypop and Remacri. Put in models/ESRGAN

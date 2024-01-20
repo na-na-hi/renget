@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: - at 3UTC ()** 
 **FRI: Zelda 2 at 3UTC (Telemelt)** 
-**SAT: Z4Boost at 3UTC (Telemelt)**
+**SAT: ~~Z4Boost~~ Zelda 2 at 3UTC (Telemelt)**
 **SUN: Minemelt around 19UTC* (Minecraft)**
 
 ##Cytubes

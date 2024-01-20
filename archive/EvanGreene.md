@@ -47,12 +47,12 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 27 points to spend.
-    0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
+	You have 0 points to spend.
+	2/12 IP | ▮▮▯▯▯▯▯▯▯▯▯▯ 
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+2. Pokéglot | The User is great at learning the written and spoken language quickly. | 2
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A

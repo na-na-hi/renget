@@ -48,6 +48,8 @@ Kenji Yamada, Chuunimaxxer Supreme
 >Greed
 Naoki Arai, Impossibility Tinker
 >>91483248
+>Hayao Yamamoto
+>>91623423
 
 >Gluttony
 Akari Ichioka, Crimson Vermilion of the Night
@@ -142,6 +144,8 @@ Mess
 >>91552302
 reqs
 >>91587636
+Young love is so beautiful.
+>>91626998
 
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
@@ -521,8 +525,14 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Shiketsu ED V0.2
->>91610993
+New Artfag
+>distant angry korean sounds
+>>91627063
+New Writefag
+>"Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique)
+https://rentry.org/avuzhy6i
+>Takashi's Dungeon (Brightly)
+>>91626497
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -1099,6 +1109,10 @@ https://rentry.org/qgzqgfy8
 >>91588066
 >Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko)
 https://rentry.org/PopsyB
+>"Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique)
+https://rentry.org/avuzhy6i
+>Takashi's Dungeon (Brightly)
+>>91626497
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

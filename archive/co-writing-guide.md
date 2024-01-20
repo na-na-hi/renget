@@ -29,6 +29,8 @@ The more you think like a storyteller, the better you are at managing this flowâ
 
 This also applies to any fact or info. If you want to have it in your story, just... act as if that's always the case. By ***implying***.
 
+Do **selective editing**, you can do a lot by just remove parts of the generation and regenerating.
+
 And also: **Be bold**. You have an editorial power, use it. You know what to do when the AI isn't exactly helpful? By taking over and write what you need to write. The AI won't be able to read your mind, it may not be fluent in some area, or it may not know all the context. Every time the output becomes irrelevant, simply goes ahead and edit it.
 
 #####Token Probabilities and Keyboard Shortcuts
