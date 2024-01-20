@@ -142,7 +142,6 @@ _No countries missing!_ Contact us [here](https://t.me/firehawk52_chat) if you h
 ->![Belgium/België/Belgique/Belgien](https://files.catbox.moe/9htph3.png)<- | 2024-03-23 | `2875212` | `z7bDNt6PnMj1_s6ePSpFlukmUpQZvYcP-ws80CDh1hLJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
 ->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | 2024-02-16 | `2863605` | `IMcRHdMFhgBLwn_v8HxzrsNxt_D7yAyJlw6h1MMjCO3Jly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
 ->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | 2024-03-01 | `2831083` | `SiJX6lnU7MYJ01EnO2D70bv2QvjIWrgG9juTMVz7LU1J7-kMzwzMSuQa19WG3JKULP7eBRlZgYybUYB56Aa83w`|
-->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | 2024-12-15 | `2804123` | `raanLIEb83npnXpCuhAcABkRZnQ7MQeH4ytJ_EPeV-vJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
 ->![Canada](https://files.catbox.moe/1u7jjt.png)<- | 2024-12-18 | `2759740` | `nIZdVRJBsPsaKMPCl1Mmy_X-A6fE82BHBJRw2omHJjjD8MvVjdotB3uPBxfHn6J9yXY6pjb9s5yNUEe-0h92ww`|
 ->![Canada](https://files.catbox.moe/1u7jjt.png)<- | 2024-12-04 :repeat: | `2738067` | `LnW5pfpKbK5DwHwDXRUav36sd2warFexZ4BcIttG7H_QTiNmAUwglbyKm9irZv579OsTJV056bOXsu9dlfSvvA`| ->![DjDoubleD](https://files.catbox.moe/oxlb1w.png)<-
 ->![Chile](https://files.catbox.moe/b5eqkx.png)<- | 2024-02-23 | `2874376` | `WTkCTTCQWU3KgmyzZelIyFuOOaFLXKpzCiiExeptZPnJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|

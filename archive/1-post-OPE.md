@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 221st time, what is Ope?!
+For the 222nd time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=SPWsptIhKkM
 \>Streams
 Next stream: members-only (Sat 01/20 7PM CT)
 Last stream (Advent karaoke relay)
-\>>67114126 https://mega.nz/file/woBXTDSY#NJ95N2jQtG4IngHbY4oOtD2m8IdJs_9HYbxaoERwL3U
+\>>67114126 https://mega.nz/folder/Oew3ETzJ#wNFjvn1M-0SlRRCBO4AZKQ
 Previous appearance (Sims 4 offcollab with Kiara on Kiara's channel)
 https://www.youtube.com/watch?v=RhAMbkt35ps
 
@@ -41,7 +41,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67047080
+Previous thread: >>67116681
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

@@ -513,25 +513,27 @@ Liella! First Love Live Tour ~ Starlines! ~ *D1&D2*
 [Aichi WEBRip 1080p](https://nyaa.si/view/1468305)
 [Chiba WEBRip 1080p](https://nyaa.si/view/1471453)
 [Miyagi WEBRip 1080p](https://nyaa.si/view/1478642)
-[BluRay 1080p Gunma/Miyagi/Tokyo + w/ Making of Scenes](https://nyaa.si/view/1657599)
+Gunma/Miyagi/Tokyo + Making of - [BluRay 1080p](https://nyaa.si/view/1657599)
 
 Liella! 2nd LoveLive! ~What a Wonderful Dream!!~ *D1&D2*
-Yokohama -  https://nyaa.si/view/1502627
-Nagoya -  https://nyaa.si/view/1511014
-Osaka - https://nyaa.si/view/1538442
-
-BluRay Yokohama D1D2 + Making Of - [1080p](https://nyaa.si/view/1725336) [720p](https://nyaa.si/view/1725658) ==EngSub==
+Yokohama -  [1080p PIA WEBRip](https://nyaa.si/view/1502627)
+Nagoya -  [1080p PIA WEBRip](https://nyaa.si/view/1511014)
+Osaka - [1080p PIA WEBRip](https://nyaa.si/view/1538442)
+BluRay Yokohama  + Making Of - [1080p](https://nyaa.si/view/1725336) [720p](https://nyaa.si/view/1725658) ==EngSub==
 
 Liella 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
-Miyagi - https://nyaa.si/view/1610539
-Tokyo - https://nyaa.si/view/1632065
-Saitama - https://nyaa.si/view/1645740
-[BluRay (Miyagi/Saitama + Making Of)](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html) 
+Miyagi - [1080p PIA WEBRip](https://nyaa.si/view/1610539)
+Tokyo - [1080p PIA WEBRip](https://nyaa.si/view/1632065)
+Saitama - [1080p PIA WEBRip](https://nyaa.si/view/1645740)
+BluRay (Miyagi/Saitama + Making Of) - [1080p](https://lovelive-es.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html) 
 
 Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
 KALEIDOSCORE ver : [1080p](https://nyaa.si/view/1707116) /  [720p](https://nyaa.si/view/1707506)
 Catchu! ver : [1080p](https://nyaa.si/view/1709468) / [720p](https://nyaa.si/view/1709926)
 5yncri5e! ver: [1080](https://nyaa.si/view/1716100) / [720](https://nyaa.si/view/1716321)
+
+Liella! 5th LoveLive!～Twinkle Triangle～
+Fukuoka - TBA
 
 Liella! Live Concerts Megalink (1st-3rd Lives) (219.7 GiB)
 https://nyaa.si/view/1612969

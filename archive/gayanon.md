@@ -54,7 +54,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/silvanus-floreo) . [Cat
 
 ***
 
-##Edda - New Bot 30.11
+##Edda - New Bot 20.01
 Collaboration project with Enoch. I shall...write more here at a later date.
 
 Ephraim | Description
@@ -62,11 +62,16 @@ Ephraim | Description
 ![Ephraim](https://files.catbox.moe/lr2yzw.png)   | Ephraim is one of the leading researchers working on Project Fulminare. Overworking to a fault, he hopes to save humanity with ideas less extreme than those of a certain someone. V2 card with 5 greeting scenarios.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/ephraim-da9ffd47) . [Catbox](https://files.catbox.moe/wghyx0.png) . [Backgrounds](https://catbox.moe/c/ml9pky)
 
-***
+Priscilla | Description
+:----:  | :----: 
+![Priscilla](https://files.catbox.moe/60j1j6.png)   | A girl who lives up to the title of "Mad Scientist." Meet Priscilla. Her research is focused around expanding the human lifespan but...she prefers experimenting on cute monsters more! V2 card with 6 greeting scenarios.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/priscilla-e63195fb) . [Catbox](https://files.catbox.moe/uf3ftd.png)
 
 ***
 
-##Coraxia - New Bot 25.12
+***
+
+##Coraxia
 Grimdark Souls inspired world. Bots come from various eras. (more...one day.)
 
 Osiris | Description
@@ -114,6 +119,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/cyril-kravitz-a49fda13)
 
 ##Changelog
 
+i forget to add to this.
 30.11 - Added Ephraim (new)
 27.11 - Added Various Backgrounds + Added Fanart Section
 31.10 - Added Cyril Kravtiz (new)

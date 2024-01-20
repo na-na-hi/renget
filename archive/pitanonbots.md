@@ -80,7 +80,7 @@ Echidna | (25/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://w
 | Lorebook | Updated | CHUB Link | json
 |---|---|---|---|
 Lugnica Lorebook | (19/5/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/lorebooks/pitanon/kingdom-of-lugnica) | https://files.catbox.moe/5xjpub.json
-Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/lorebooks/pitanon/osaka-phoenix-cards-b6f2fcf6) | https://files.catbox.moe/s3i29j.json
+Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/lorebooks/pitanon/osaka-phoenix-cards-b6f2fcf6) | https://files.catbox.moe/53cbkz.json
 
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
