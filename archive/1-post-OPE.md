@@ -6,19 +6,25 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 222nd time, what is Ope?!
+For the 223rd time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Cover of Nakashima Mika - Yuki no Hana
-https://www.youtube.com/watch?v=SPWsptIhKkM
+\>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
+https://s.goodsmile.link/gmC
 
 \>Streams
-Next stream: unspecified, Sun 01/21
+Next stream (Viscera Cleanup Detail, Sun 01/21 7PM CT)
+https://www.youtube.com/watch?v=biTtjkmDJ6g
 Last stream (members-only zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 Previous karaoke (Advent karaoke relay)
 \>>67114126 https://mega.nz/folder/Oew3ETzJ#wNFjvn1M-0SlRRCBO4AZKQ
+
+\>New covers
+Cover of Nakashima Mika - Yuki no Hana: https://www.youtube.com/watch?v=SPWsptIhKkM
+Advent group cover of BABYMETAL - MEGITSUNE: https://www.youtube.com/watch?v=OffTXFgbn7A
+HololiveEN Myth/Promise/Advent group cover of Gero - Mind Craft: https://www.youtube.com/watch?v=OQuGEpICY2o
 
 \>New merch
 Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
@@ -41,11 +47,11 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67116681
+Previous thread: >>67180374
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule: TBA, ETA 01/21
+!!!warning Second OP Post - Tag schedule: GEYreAqW0AA-98q
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -67,6 +73,7 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
+https://twitter.com/nerissa_en/status/1749133373132382605
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE

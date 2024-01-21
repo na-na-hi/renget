@@ -93,3 +93,7 @@ https://files.catbox.moe/46febq.png or https://www.chub.ai/characters/koikoikoih
 *Belessunu, the Last Hero, whose travels are truly endless.*
 (Contains embedded lorebook and seven intros.)
 https://files.catbox.moe/361qqq.png or https://www.chub.ai/characters/koikoikoihat/belessunu-a032b445/main
+
+![The kind one.](https://files.catbox.moe/wcssv1.png)
+*Alyona, a Karamazov unsullied by her the wretchedness of her blood. The kindest of spirits.*
+https://files.catbox.moe/wcssv1.png or https://www.chub.ai/characters/koikoikoihat/alyona-ecbe9f00/main

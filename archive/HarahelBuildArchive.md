@@ -110,6 +110,11 @@ Note: One of the hottest new idols on the Nocturne scene accompanied by her ceme
 Data: https://rentry.org/CelineBuild
 Music: 
 
+Name: Charlie Ryne
+Note: An androgynous, puzzle-loving dragonkin who attracts stares (and more) wherever he goes.
+Data: https://desuarchive.org/trash/thread/62595972/#62716184
+Music: 
+
 Name: Christina
 Note: CRUSADER AGAINST THE UNNATURAL AND DEVIANT PRACTICES OF THE WORLD, A BEACON OF MORAL PURITY AND RIGHTEOUSNESS IN THE DESTITUTE WASTELAND THAT IS HARAHEL.
 Data: https://rentry.co/Christina_Build

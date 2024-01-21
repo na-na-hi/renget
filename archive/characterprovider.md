@@ -416,6 +416,7 @@ Date | Update | Description | -> Preset <- | -> Prompts <-
 - - -
 # 
 #####![](https://files.catbox.moe/ptz2xu.png) Choose Your Claude Prompt:
+==Adventure presets for Claude==
 Recommended ones are marked with a %yellow%★ star%%, experimental ones with a %orange%⚑ flag%%, scrapped ones with a ♼ recycle symbol. Click on a link to see the chosen prompt.
 > **Recommendation:** I understand that the 12+ versions of the Claude prompt can be confusing, so my suggestion is to use either version 10.1 (which focuses on inventiveness and interesting events), version 12 (which has more inventiveness and fewer events) or version 6.7 (no events).
 Date | Update | Description | -> Preset <- | -> Prompts <-

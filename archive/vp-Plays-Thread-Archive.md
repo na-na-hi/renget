@@ -368,7 +368,9 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[2]** *Sex with the Busty Bird*](https://arch.b4k.co/vp/thread/55211277/)
 [**[3]** *"""Bad""" ending is the Based ending*](https://arch.b4k.co/vp/thread/55217655/)
 
-###->Soulstones<-
+###->The Soulstones Saga<-
+
+####Soulstones
 !!! note
 	**Status: Complete**
 [**[1]** *Being an amnesiac time janny is certainly something*](https://arch.b4k.co/vp/thread/55231975/)
@@ -376,9 +378,10 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[3]** *It's finally fucking over, thank god*](https://arch.b4k.co/vp/thread/55239569/)
 [**[End]** *Postgame discussion/Break thread for Wagie and I*](https://arch.b4k.co/vp/thread/55244556/)
 
-###->Soulstones 2<-
+####Soulstones 2
 !!! info
 	**Status: In Progress**
 [**[1]** *There's no way this is worse*](https://arch.b4k.co/vp/thread/55257552/)
 [**[2]** *Fuck, it's worse*](https://arch.b4k.co/vp/thread/55266735/)
-[**[3]**](https://arch.b4k.co/vp/thread/55273733/)
+[**[3]** *%green%>An unironic Twilight reference%%*](https://arch.b4k.co/vp/thread/55273733/)
+[**[4]**](https://arch.b4k.co/vp/thread/55282832/)

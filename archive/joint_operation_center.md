@@ -1,10 +1,6 @@
-#  -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Joint /ope/rations Center**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
+#  -> ![](https://files.catbox.moe/f9inkg.png)  **Joint /ope/rations Center**  ![](https://files.catbox.moe/f9inkg.png) <-
 
 !!! info This is the library of /ope/, the Nerissa Ravencroft General. In here, the users of the general or any other people will find any useful information about things related to The Demon of Sound and Lover of Idols. Be it her musical productions or informations about her streams (general ones and mengens alike) at the current state. Will expend eventually according to the needs of the general.
-
-!!!danger Temporary merge announcement
-    If a dedicated /ope/ thread isn't up consider using the merge thread that is being produced for the duration of Nerissa's and Kiara's joint Maldives trip. The thread can be accessed by the filter [/KiaRissa/](https://boards.4channel.org/vt/catalog#s=/KiaRissa/).
-
 
 
 ->![](https://files.catbox.moe/vvosuf.jpg) <-
@@ -31,20 +27,20 @@ Lewds : #depravencrafts on Twitter
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Practical informations (streams, music library, membership)**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
-##### ![Image description](https://files.catbox.moe/f9inkg.png) [Demonry of Sound](https://rentry.org/karaokes_songs_v01)
+##### ![](https://files.catbox.moe/f9inkg.png) [Demonry of Sound](https://rentry.org/karaokes_songs_v01)
 The music corner where you can find all the links for the music releases and the karaokes (magnets for unarchived ones, links in case of archived ones and setlists are also included).
-##### ![Image description](https://files.catbox.moe/f9inkg.png) [New Jailbird Guide](https://rentry.org/ope_curated_streams_list01)
+##### ![](https://files.catbox.moe/f9inkg.png) [New Jailbird Guide](https://rentry.org/ope_curated_streams_list01)
 A curated list of streams based on the polls done with the /ope/ Jailbirds. Will be evolutive in function of how the general will feel like about some of the recommendations.
-##### ![Image description](https://files.catbox.moe/f9inkg.png) [Jailbirds House](https://rentry.org/ope_list_of_members_streams01)
+##### ![](https://files.catbox.moe/f9inkg.png) [Jailbirds House](https://rentry.org/ope_list_of_members_streams01)
 A page dedicated to the membership content - contains general information and a list of the mengens with a short description.
 
 !!! info
      -> ![Image description](https://files.catbox.moe/f9inkg.png)  **The Lover of Idols (collab pages)**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
 
-##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols I - Collabs on Nerissa's channel](https://rentry.org/Collabs_on_Nerissa_s_channels01)
+##### ![](https://files.catbox.moe/f9inkg.png) [The Lover of Idols I - Collabs on Nerissa's channel](https://rentry.org/Collabs_on_Nerissa_s_channels01)
 A list of all the collab Nerissa took part of on her own channel. Was made for clarification and presentation sake and to unclogged the original Lover of Idols page.
 
-##### ![Image description](https://files.catbox.moe/f9inkg.png) [The Lover of Idols II - Collabs on other channels & Mentions](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)
+##### ![](https://files.catbox.moe/f9inkg.png) [The Lover of Idols II - Collabs on other channels & Mentions](https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01)
 What should be the most labyrinthine collection of pages of all the library in the long-term: this is where you can find all the collabs Nerissia took part of, be it on in the other holomems channels. Mentions, interactions or downright 'easter eggs' are also stored in this page. The final sorting will be special as it will be yearly after the debut anniversary.
 
 !!! info
@@ -58,8 +54,12 @@ A list of soundposts procured from Nerissa's streams.
 
 
 !!! info
-     -> ![Image description](https://files.catbox.moe/f9inkg.png)  **Technical**  ![Image description](https://files.catbox.moe/f9inkg.png) <-
-###### ![Image description](https://files.catbox.moe/f9inkg.png) [Old changelog](https://rentry.org/List_of_updates)
+     -> ![](https://files.catbox.moe/f9inkg.png)  **Technical**  ![](https://files.catbox.moe/f9inkg.png) <-
+
+##### ![](https://files.catbox.moe/f9inkg.png) [OP template](https://rentry.org/1-post-OPE)
+If there's no /ope/ thread up and you wish to create one you can access the usually up-to-date ready for next the thread template here.
+
+##### ![](https://files.catbox.moe/f9inkg.png) [Old changelog](https://rentry.org/List_of_updates)
 
 
 !!! warning About recorders (ytarchive, twitterspaces...), a bunch of neet tools and how to use them, please refer to /who/'s tools guide: https://rentry.org/xu6td. You're going to need it and you're likely to use some of that stuff at some point, especially for unarchived karaokes.

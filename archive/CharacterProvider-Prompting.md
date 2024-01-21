@@ -1,10 +1,33 @@
-==This page is a WIP!==
+==This page is a WIP! Some parts are unfinished!==
 ## Prompting Tips and Tricks
 For role-play instructions (GPT)
 - - - 
 
 #### Contents
 [TOC4]
+
+##
+- - - 
+##
+!!! info Info notes, the blue blocks like this one, will represent the prompts.
+##
+- - - 
+#### Overall Tips
+
+##### 1. Ideal Instuction Size
+Ideally, your JB (The last message in context) must be less than 700 tokens. If you have additional preferences that exceed this limit, I'd recommend you create and additional instruction set named the 'Guidelines' and provide additional context there. Note, that the Guidelines must provide additional context or conditional directions like 'If - Then' and will work as intended only if they are not too deep in the context, somewhat about `depth@4`.
+
+You will need to add a special directive inside your JB to tell the AI consider the 'Guidelines', like this:
+
+!!! info
+	[IMPORTANT: The AI must heed carefully to conditional directives given in the 'Guidelines' section and apply and reference the provided examples per section in the following reply.]
+
+##### 2. What to Include
+
+##### 3. Using templates
+
+!!! info 
+	The AI must start the next reply by posting and updating this template with relevant information verbatim, where {} is a variable: ```\n{current time in HH:MM format}, {day of the week XXX acronym} [...]
 
 ##
 - - - 
@@ -82,7 +105,7 @@ The AI tends to ignore them too for some reason.
 ##### 6. 'The AI' or 'AI'?
 Use 'The AI', 'The Assistant, 'The User', 'The Human'. But not 'The {{user}}' or 'The {{char}}'; remember, these are macroses and will be replaced with characters' names. (The John???)
 
-##### 7. Using macroses in your instructions.
+##### 7. Using macroses in your instructions
 I strongly recommend you avoid using {{char}} macros inside your instructions, or the whole narrative will be centered around a single character; they will appear out of nowhere and your character will not be able to leave {{char}} behind. Furthermore, some cards are settings, not characters.
 
 I think you've stumbled upon these kind of card descriptions:
@@ -110,7 +133,7 @@ It seems that GPT clearly separates the `System` and `User` roles, so any kind o
 	{My instruction here}
 	"""
 ##### 2. Paragraphs
-To make your instruction clear, I recommend you to break your instructions in short clear paragraphs. Each paragraph (or new line) must provide a single idea. The rule of thumb is: "New Idea - New paragraph."
+To make your instruction clear, I recommend you to break your instructions in short clear paragraphs. Each paragraph (or new line) must provide a single idea. The rule of thumb is: "New Idea—New paragraph."
 
 Bad example (in-line instruction):
 
@@ -145,4 +168,34 @@ Bad example (Unstructured paragraphs):
 
 ##
 - - - 
-#### [In progress...]
+#### Specifying when to apply directives
+##### 1. 'Any'
+##### 2. 'Each time'
+
+!!! info
+	❌
+	When a character speaks, the AI must start their direck speech with this: "{character name}:"
+
+!!! info
+	✅
+	Each time a character speaks, the AI must start their direck speech with this: "{character name}:"
+
+##### 3. 'Regardless of the context'
+
+##
+- - - 
+#### Powerful Verbs
+
+##### 1.  'Build with' and 'Include' instead of 'Use' and 'Add'
+
+!!! info
+	❌
+	Use modern English. Add vocal expressions.
+
+!!! info
+	✅
+	The next reply must be built with modern English. Vocal expressions must be included in characters' speech.
+
+##
+- - - 
+#### [In Progress...]

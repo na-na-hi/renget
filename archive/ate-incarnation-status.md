@@ -2,7 +2,7 @@
 >God Rank: C
 >Synchronization Rate: 100%
 >Level: 8
->Influence: 4682/12800
+>Influence: 11293/12800
 >Divinity: 325/325
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels

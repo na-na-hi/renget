@@ -84,3 +84,64 @@ A. In order to be considered as complete, a <Pantheon> just needs all of the <My
 >Q) Is it possible to join multiple pantheons?
 
 A. If you possess one or more epithets, it is possible to join a number of pantheons, but you can only ever inhabit one at a time.
+
+##Enchanting System
+
+When you wish to enchant an item, you roll a number of dice (1d10), specified by the materials and the target. The number you roll will be compared to the following scale:
+
+0-10: Failure
+11-30: Common
+31-50: Uncommon
+51-70: Rare
+71-85: Super Rare
+86-95: Legendary
+96-100: Mythic
+101+: ???
+
+The first source of dice is the thing you’re trying to enchant. Enchant targets provide dice according to the following scale:
+
+Mundane: 1
+Common: 2
+Uncommon: 4
+Rare: 6
+Super Rare: 8
+Legendary: 9
+Mythic: 10
+
+Bonus dice may also be provided if you personally crafted the object, with the number of bonus dice being at least one, with additional bonus dice provided based on the quality of the item produced.
+
+The second source of dice are Enchant Materials. Enchant Materials provide dice according to the following scale:
+
+Mundane: 0
+Common: 1
+Uncommon: 2
+Rare: 3
+Super Rare: 4
+Legendary: 6
+Mythic: 7
+
+Authority crystals provide a number of dice equal to the stored authority’s level. Generally, the properties of the enchanted item will most resemble the source of the most <Dice>, although the properties of other materials, as well as the enchant target, will affect it to a lesser extent.
+
+>About the authority <Enchant Item>.
+
+When an item is enchanted, a number of attempts equal to the level of the authority <Enchant Item> may be made, the highest of which will be taken.
+
+Additionally, the maximum number of <Enchant Materials> that can be used at a time is equal to the level of the <Enchant Item> authority.
+
+It is possible to use the result of <Enchant Item> as a target for successive enchantments.
+
+>Example Enchant
+
+An incarnation wishes to enchant a sword that they made themselves. The sword has already been enchanted once and is now a <Common Relic>. The incarnation has an <Enchant Item> level of three, but only wishes to use two ingredients: a Rare Relic and a lvl 2 authority crystal.
+
+The number of dice rolled is equal to 8d10: 1 for crafting the item, 2 for the target being a common grade weapon or relic, 3 for using a <Rare> relic as a material, and 2 for the use of a lvl 2 <Authority Crystal>. The rare relic and the sword itself provide equal numbers of dice, so the resultant effect will either be a mix of the two, or decided randomly.
+
+The incarnation gets 3 <Attempts>, one for each level. The results are as follows:
+
+>First roll: 56
+
+>Second roll: 36
+
+>Third roll: 62
+
+Thus, the highest roll of 62 is taken, creating a <Rare> relic

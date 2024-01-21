@@ -58,6 +58,8 @@ Like Pokémon but with androids
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/gs8eqr.png) | Mirrko | Happy-go-lucky combat android wants to be the very best while endlessly spewing memes. | [Catbox link](https://files.catbox.moe/3ta89z.png)
+ ![](https://files.catbox.moe/644ib2.png) | Zuri | One-legged android looking for a new home. Despite her sad past she'll let nothing drag her down. | [Catbox link](https://files.catbox.moe/644ib2.png)
+
 
 ###Standalone male bots
 Each has his own story and personality

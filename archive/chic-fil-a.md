@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #49 (Tuesday, 16 January 2024, 20:00 UTC)<-
+->Last updated on thread #50 (Sunday, 21 January 2024, 22:00 UTC)<-
 ->She's cute.<-
 
 == **LINKS**
@@ -65,6 +65,11 @@ https://archiveofourown.org/works/49281094
 `Dejah's Trap`
 https://archiveofourown.org/works/39383535
 [![Dejah: Dejah.png / 1683735893220.png](https://desu-usergeneratedcontent.xyz/trash/image/1683/73/1683735893220.png)](https://desu-usergeneratedcontent.xyz/trash/image/1683/73/1683735893220.png)
+---
+---
+#####Nightblade53
+`Humies`
+https://archiveofourown.org/works/52637095
 ---
 ---
 #####Trashbinlid
@@ -936,6 +941,10 @@ Rules:
 Please post green texts and stories as well. /hmofa/ stories that feature vixens are welcome.
 
 ---STORIES---
+By Nightblade53
+\>Humies (Ch. 2)
+https://archiveofourown.org/works/52637095
+
 By Trashbinlid
 \>Trixi The Clown
 https://archiveofourown.org/works/31977724
