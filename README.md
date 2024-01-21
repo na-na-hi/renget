@@ -6,4 +6,4 @@ See `renget.sh` for details.
 ## archive
 Contains all rentries included in the OP texts on all boards, and all rentries recursively linked within. 
 
-2024-01-13: 5591 rentries in total
+2024-01-21: 5623 rentries in total
