@@ -526,13 +526,15 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Artfag
->distant angry korean sounds
->>91627063
-New Writefag
->"Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique)
-https://rentry.org/avuzhy6i
->Takashi's Dungeon (Brightly)
->>91626497
+>confession
+>>91630760
+New Writefags
+>Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver)
+https://rentry.org/z7w7e
+>Orochi Wins (Orochi, Sandy, Mio)
+https://rentry.org/abuzhy7i
+The Leningrad Variation
+https://rentry.org/mvtmnzy2
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -1113,6 +1115,12 @@ https://rentry.org/PopsyB
 https://rentry.org/avuzhy6i
 >Takashi's Dungeon (Brightly)
 >>91626497
+>Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver)
+https://rentry.org/z7w7e
+>Orochi Wins (Orochi, Sandy, Mio)
+https://rentry.org/abuzhy7i
+The Leningrad Variation
+https://rentry.org/mvtmnzy2
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

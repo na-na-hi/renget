@@ -1059,6 +1059,8 @@ https://files.catbox.moe/zqx3v9.mp4 New 1/18/24
 https://files.catbox.moe/xgg0y0.mp4 New 1/18/24
 >Al-Qassam published a video showing launches of mortars & 107mm rockets targeting military concentrations penetrating the outskirts of Gaza City.
 https://files.catbox.moe/42qtm3.mp4 New  1/19/24
+>Al-Qassam target military vehicles penetrating into the Al-Jabari site, east of Jabalia, in the northern Gaza Strip, with Yassin-105s.
+https://files.catbox.moe/aih83k.mp4 New  1/20/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1322,3 +1324,11 @@ https://files.catbox.moe/1ckfpr.mp4 New  1/19/24
 https://files.catbox.moe/owm0ym.mp4  1/19/24
 >Operation Shekel Guardian: UK’s HMS Chiddingfold and HMS Bangor collided while berthing in Bahrain.
 https://files.catbox.moe/efnqyq.mp4  1/19/24
+>Combines new footage apparently of smoke plume from base with video of intercept attempt
+https://files.catbox.moe/fnyi75.mp4 New  1/20/24
+>Kike dystopian city life in Hebron 
+https://youtu.be/XdNOHycsdRk New  1/20/24
+>City exploration of Hebron uncensored New  1/20/24
+https://youtu.be/Z42HhaywhGQ New  1/20/24
+>Palestinian freedom fighter interview 
+https://youtu.be/mSS51ZVhcA0 New  1/20/24

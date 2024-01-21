@@ -1066,3 +1066,273 @@ https://nitter.net/QudsNen/status/1748480872414642674#m  1/19/24
 
 — French soldiers in the Israeli military posted this video 
 https://files.catbox.moe/owm0ym.mp4  1/19/24
+
+>🌹 The martyred IRGC members are General Haj Sadegh Omidzadeh, deputy intelligence officer of IRGC's Quds Force, along with his deputy Haj Gholam (Muharram)
+https://nitter.net/AryJeay/status/1748642839242609005#m  1/20/24
+
+It’s clear the IRGC ballistic missile attack on the MOSSAD compound near Erbil really hurt the israelis for them to assassinate 2 IRGC advisors in Damascus.
+
+Iran has to retaliate back in order to achieve deterrence, I’m interested to see how this develops. I trust the resistance
+https://nitter.net/AryJeay/status/1748641364005245321#m  1/20/24
+
+>This picture that is being circulated by the israelis is not the one who’s martyred. 
+
+This is General Mohammad Kazemi, the head of the IRGC Intelligence and he’s in good health and shape, Alhamdoullilah.
+https://nitter.net/AryJeay/status/1748649087652524425#m  1/20/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing its forces target military vehicles penetrating into the Al-Jabari site, east of Jabalia, in the northern Gaza Strip, with Yassin-105s.
+https://nitter.net/AryJeay/status/1748662006104588730#m  1/20/24
+https://files.catbox.moe/aih83k.mp4  1/20/24
+
+>🇮🇷 The names of the 4 IRGC martyrs:
+
+🌹Hojjatollah Omidvar
+🌹Ali Aghazadeh
+🌹Hossein Mohammadi
+🌹Saeed Karimi
+https://nitter.net/AryJeay/status/1748666387264864699#m  1/20/24
+
+>☠️ The israeli army admits to the elimination of an officer & the injury of 3 others in the Gaza Strip:
+
+🔻 Staff Sgt. Ori Gerby, 20, from the Givati Brigade Reconnaissance Unit
+https://nitter.net/AryJeay/status/1748672275421831274#m  1/20/24
+
+Interestingly, the names are different than what was initially reported.
+https://nitter.net/AryJeay/status/1748674332350464486#m  1/20/24
+
+>🌹 The first released picture of martyr Yusuf Omidzadeh aka Haj Sadegh (listed as Hojjatollah Omidvar). 
+
+He was killed in a Zionist airstrike in Damascus today.
+https://nitter.net/AryJeay/status/1748682665329377564#m  1/20/24
+
+>Martyr Haj Sadiq, was the deputy intelligence officer of IRGC'S Quds Force in Syria, in an advisory mission at the invitation of the Syrian government.
+https://nitter.net/AryJeay/status/1748683161146359858#m  1/20/24
+
+>Palestine’s UN Ambassador urges international action against Israel’s deliberate targeting of children
+https://nitter.1d4.us/QudsNen/status/1748682605715771456#m  1/20/24
+
+>BREAKING| Hundreds take part in a rally, which started from La Place de la République in Paris and is expected to reach the EU headquarters in Brussels in 10 days.
+https://nitter.1d4.us/QudsNen/status/1748691143829622864#m  1/20/24
+
+>⚡️Euro-Mediterranean Monitor:
+
+ The occupation “army” carried out deliberate and specific attacks against academic, scientific and intellectual figures in #Gaza.
+https://nitter.net/ME_Observer_/status/1748694758237569050#m  1/20/24
+
+>NEW:
+
+⚡ 🇮🇷🇱🇧🇾🇪 Commanders from Iran and Hezbollah are in Yemen at the moment. - Reuters
+
+Commanders from Iran's IRGC and Lebanon's Hezbollah are reportedly on the ground in Yemen, orchestrating Houthi assaults on Red Sea maritime routes.
+
+Comment: Naturally there will be, as there are entire command units from the US in Israel.
+https://t.me/megatron_ron/1238  1/20/24
+
+>Ministry of Health in Gaza latest toll:
+"Israeli occupation commits 14 massacres against families in Gaza, killing 165 and 280 injuries in the past 24 hours."
+
+>"The death toll from the Israeli aggression has risen to 24,927 martyrs and 62,388 injuries since October 7th of last year."
+https://nitter.1d4.us/QudsNen/status/1748707054825419218#m  1/20/24
+
+>⚡️ Islamic resistance in #Iraq:
+
+We targeted, with a large missile salvo, the Ain al-Assad base, which houses American forces in western Iraq
+
+Reports say that there were 17 impacts inside the base
+https://nitter.net/ME_Observer_/status/1748722343600406813#m  1/20/24
+
+>BREAKING:
+🇮🇱Reports from Yemen that the Houthis plan to close all three waterways in the Middle East.
+
+According to an exclusive Yemeni source, Ansarullah is considering implementing a plan they call the 'Al-Aqsa Triangle', by closing all three of the Middle East's major waterways: Bab Al-Mandab, Strait of Hormuz, and the Suez Canal.
+
+This will stop the oil and gas feeding Israel from Qatar, the UAE and Saudi Arabia.
+https://t.me/megatron_ron/1244  1/20/24
+
+>⚡️#Iraq: Al-Mayadeen sources from the “Ain al-Assad” base: At least 10 missiles hit the perimeter and flank of the American forces
+https://nitter.net/ME_Observer_/status/1748728720888606839#m  1/20/24
+
+>Media Coverage | Recent information from Israeli media reveals that on October 7, the Israeli army received an order to prevent any vehicle from reaching Gaza "at any cost."
+
+The report attributes the killing of Israeli captives to this military directive, noting that "about 70 vehicles that remained in the area between the communities near the Gaza Strip did not reach Gaza because they were hit along the way by a combat helicopter, UAV, or tank."
+https://nitter.1d4.us/QudsNen/status/1748731475715871010#m  1/20/24
+
+>⚡️Hebrew newspaper "Israel Today": 
+
+An #Israeli soldier returned from fighting in #Gaza and, apparently as a result of his shock, opened fire on another #Israeli and killed him in Tel Aviv.
+https://nitter.net/ME_Observer_/status/1748738311047291334#m  1/20/24
+
+>⚡️CNN about ship insurance in the Red Sea
+https://nitter.net/ME_Observer_/status/1748740175687987482#m  1/20/24
+
+>⚡️US Central Command: Today we carried out air strikes against a Houthi anti-ship missile that was going to target the Gulf of #Aden
+
+US Central Command: The targeted missile represented a threat to commercial ships and US Navy ships in the region
+https://nitter.net/ME_Observer_/status/1748741228860997733#m  1/20/24
+
+>⚡️Former mayor of Kiryat Shmona: #Hezbollah knows everything about us.
+https://nitter.net/ME_Observer_/status/1748741523619848411#m  1/20/24
+
+>⚡️Israeli media: Former head of the National Security Council: 
+
+If we do not succeed after 106 days in defeating #Hamas, I fear that we will not succeed after hundreds of days in eliminating #Hezbollah, and war is not a magic solution to the situation in #Lebanon.
+https://nitter.net/ME_Observer_/status/1748743293523923192#m  1/20/24
+
+>According to The Intercept, the American Israel Public Affairs Committee (AIPAC) generously contributed the funds to Rep. Mike Johnson, a Republican from Louisiana, following his leadership in securing substantial financial support for Israel.
+https://nitter.cz/QudsNen/status/1748745102518825468#m  1/20/24
+
+>The Intercept's analysis of FEC records illuminates AIPAC's calculated political strategy. In response to Rep. Mike Johnson's crucial role in leading the House to approve the additional $14 billion aid package for Israel, AIPAC promptly funneled substantial funds into his campaign coffers.
+https://nitter.cz/QudsNen/status/1748745104997646696#m  1/20/24
+
+>Fighting across Gaza as Israel drops leaflets seeking its hostages
+https://archive.is/HRVWH  1/20/24
+
+>The Middle East has already entered a regional war.
+
+If you remember a few months ago, the war and the massacre of civilians and children took place only in Gaza.
+
+At the time, officials from all sides declared that they did not want the conflict to escalate into a regional war.
+
+Today, Hezbollah and Israel are constantly bombarding each other. Israel Bombs Syria, Targets Senior Iranian Officers.
+
+US and UK target Yemen. The Houthis are targeting ships bound for Israel.
+
+Islamic militant organizations in Iraq and Syria target US bases on a daily basis.
+
+Iran is targeting the Mossad and their creation ISIS.
+
+The regional war is already in full swing and that is a fact.
+https://t.me/megatron_ron/1246  1/20/24
+
+>5 IRGC martyrs in Damascus:
+
+🌹Hojjatollah Omidvar
+🌹Ali Aghazadeh
+🌹Hossein Mohammadi
+🌹Saeed Karimi
+🌹Rashid Islam Mohammad Amin Samadi
+https://nitter.net/AryJeay/status/1748756396886151584#m  1/20/24
+
+>🚨| 🇮🇶 BREAKING: According to Iraqi security sources, the attack by the Islamic resistance of Iraq on the Ain al-Assad US base, killed 4 US soldiers. 
+
+This is not yet officially confirmed. But an official outlet quoted this security source. (Image illustrative)
+https://nitter.net/AryJeay/status/1748751137962897422#m  1/20/24
+
+>🛑 | 🇮🇶 The Islamic Resistance officially took credit for the attack on Ein Al-Assad US base
+https://nitter.net/AryJeay/status/1748752778392899799#m  1/20/24
+
+>⚡️#Israeli Channel 14 on Galant:
+
+The military campaign in the north is likely to expand if a political settlement is not reached
+https://nitter.net/ME_Observer_/status/1748759863612580021#m  1/20/24
+
+>BREAKING:
+
+🇮🇶 ⚡ 🇺🇸 Iraq demands that the US leave the country immediately
+
+Another Niger-France situation.
+
+After a massive missile strike this morning on ain Al-Asad base, Iraq's PM wants U.S. troops out of his country fast, and is reportedly blocking any new troops from entering.
+
+>Al-Sudani: "Let's agree on a time frame that is, honestly, quick, so that they don't remain long and the attacks keep happening."
+
+Iraq is full of illegal US bases that the US refuses to withdraw despite official Iraqi demands.
+https://t.me/megatron_ron/1247  1/20/24
+
+>Iran’s president said Israeli assassination of IRGC military advisers in #Syria “will not go unanswered”.
+https://nitter.net/AbasAslani/status/1748762632834752666#m  1/20/24
+
+>📝 The resistance’s succes aside, the inner war within israel’s political hierarchy is astonishing. 
+
+According to israel’s Walla, Gallant tried to break into Netanyahu's office, and the situation almost deteriorated into a FIST fight with Netanyahu’s gang & Gallant’s gang, incl their security guards & advisers.
+
+Gallant informed that next time, he’ll bring Golani’s force with him.
+
+With this explosion of tensions within the political system of israel, they will crumble by their own hands. I’m certain the resistance uses this political handicap of the israeli regime in their own advantage.
+https://nitter.net/AryJeay/status/1748769009246319065#m  1/20/24
+
+>Israel's Prime Minister, Netanyahu: "We will not compromise on full Israeli security control over the entire area west of Jordan - and this is contrary to a Palestinian state."
+https://nitter.cz/QudsNen/status/1748769138103787951#m  1/20/24
+
+>According to unofficial US’ sources, the attack was carried out with tactical ballistic missiles.
+
+Note, Iraqi resistance claimed they used “rockets/missile weapons”. Source close to PMU mentioned the use of Grad rockets. It’s possible a mix of the two were used, to divert interceptors.  
+https://nitter.net/AryJeay/status/1748783901462462717#m  1/20/24
+
+>⚡️Turkish container ship TURKON ISTANBUL heading to occupied Haifa port from Nemrut, #Turkey
+https://nitter.net/ME_Observer_/status/1748779922489827437#m  1/20/24
+
+>⚡️ Mayor of the Nesher district in Haifa: 
+
+The government is preparing us for war and to remain without electricity for a whole week. The northern region reaches the peak of preparations for war; According to him.
+https://nitter.net/ME_Observer_/status/1748797923008151598#m  1/20/24
+
+>⚡️| 🇾🇪 Infographic showing Yemen’s AnsarAllah known anti-ship missile ranges coupled with the locations of attacks against ships by Yemen since the beginning of the war.
+https://nitter.net/AryJeay/status/1748795011422986684#m  1/20/24
+
+>🛑| Member of the Hamas Political Bureau, Ghazi Hamad, told Al-Mayadeen:
+
+Since October 7, the situation has changed and the equation has changed. We have very strong cards, but first the Palestinian national position must be unified.
+https://nitter.net/AryJeay/status/1748803017204183502#m  1/20/24
+
+>A Yemeni military analyst said that there’s a big escalation incoming and a huge battle will take place in the Red Sea
+https://nitter.net/revolutionaryem/status/1748808021805805903#m  1/20/24
+
+>Al Jazeera cites South Africa’s team as expecting an ICJ decision against Israel within a week.
+https://nitter.cz/QudsNen/status/1748816287378120887#m  1/20/24
+
+>⚡️#Iraq: Member of Al-Nujaba Movement, Mahdi Al-Kaabi, to Al-Mayadeen: 
+
+High-speed and powerful missiles were used in the attack on the “Ain Al-Assad” base today.
+https://nitter.net/ME_Observer_/status/1748820214152650995#m  1/20/24
+
+>BREAKING: 🇾🇪🇮🇱🇺🇸 The Houthis are planning a major escalation...
+
+NEW:
+
+⚡️🇷🇺🇸🇾 Russia will no longer allow Israel to target in Syria?
+
+The Russian Ministry of Defense announced the start of military air patrols along the disengagement line (blue) between Syria and the Occupied-Golan Heights.
+
+From here, Israel carried out airstrikes on Syria
+https://t.me/megatron_ron/1252  1/20/24
+
+>Meanwhile, commercial cargo ships continue to safely pass the Bab el Mandab strait in the Red Sea, by signaling that they have no connection with israel 
+
+>“NO ISRAEL CONNECTION” as they pass by the Yemeni coast in the Red Sea.
+https://nitter.net/AryJeay/status/1748836977657495564#m  1/20/24
+
+>What they mean by "traumatic brain injuries"
+https://nitter.net/Soureh_design2/status/1748834983480004656#m  1/20/24
+
+>BREAKING:
+ 🇹🇷 Turkish container ship TURKON ISTANBUL is sailing to the Israeli port Haifa.
+
+Turkey and Erdogan continue to supply Israel, despite the fact that Erdogan talks a lot.
+https://t.me/megatron_ron/1253  1/20/24
+
+>NEW:
+
+ 🇮🇱🇺🇸 Pro-Israel lawmakers in both U.S. parties are losing confidence in Netanyahu - NBC News
+
+"The actions in the Gaza Strip that has leveled buildings and killed thousands of Palestinian civilians, it's significant that pro-Israel lawmakers who serve on key national security panels are now voicing frustration about Netanyahu's leadership.
+
+Three of the lawmakers who spoke to NBC News said they are even questioning whether the 74-year-old prime minister has a strategy to end the bloody war in Gaza and have suggested that the unpopular Netanyahu may be deliberately trying to prolong it in order to remain in power."
+https://t.me/megatron_ron/1254  1/20/24
+
+>Red Sea AIS proclamations since this became a thing:
+
+- 64 vessels refuting ties with Israel
+- 19 vessels claiming Chinese crew onboard
+- 2 vessels claiming Turkish crew onboard
+
+RedSeaCrisis
+https://nitter.net/TankerTrackers/status/1748841906514047363#m  1/20/24
+
+>🛑Al-Mayadeen quoting Haaretz editorial:
+
+Israel is in a complex and low diplomatic situation. 100 days of fighting against Hamas did not lead to its collapse or the release of prisoners.
+
+Americans should know that there is no value to any words or commitment from Netanyahu; he is a man without a word. Even his natural allies call him a liar and the son of a liar.
+
+https://nitter.net/AryJeay/status/1748863308281553326#m  1/20/24

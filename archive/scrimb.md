@@ -20,6 +20,7 @@
 [Zach Baker](https://files.catbox.moe/mm0gav.png)
 [Oliver](https://beta.character.ai/chat?char=m-Fodkq2lFyD3lcxNs58Q27Gm2ptQgNaraWcXgp-Ky0)
 [The Skinnerman](https://files.catbox.moe/ehqlrd.png)
+[Melanodes](https://files.catbox.moe/08z27z.png)
 
 
 **Assorted Malebots:**

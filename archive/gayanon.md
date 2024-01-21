@@ -65,7 +65,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ephraim-da9ffd47) . [Ca
 Priscilla | Description
 :----:  | :----: 
 ![Priscilla](https://files.catbox.moe/60j1j6.png)   | A girl who lives up to the title of "Mad Scientist." Meet Priscilla. Her research is focused around expanding the human lifespan but...she prefers experimenting on cute monsters more! V2 card with 6 greeting scenarios.
-Links   |  [Chub](https://www.chub.ai/characters/argalia/priscilla-e63195fb) . [Catbox](https://files.catbox.moe/uf3ftd.png)
+Links   |  [Chub](https://www.chub.ai/characters/argalia/priscilla-e63195fb) . [Catbox](https://files.catbox.moe/uf3ftd.png) . [Backgrounds](https://catbox.moe/c/xcg6bu)
 
 ***
 

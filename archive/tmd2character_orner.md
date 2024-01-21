@@ -76,8 +76,8 @@ Item Name | Description
 *Equipped Item: Oran Berry | Heals 10 HP under 50% health.
 1. Blast Seed | 10 true damage.
 2. Tiny Reviver Seed | Revives fainted allies at half health.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Tiny Reviver Seed | Revives fainted allies at half health.
+4. Oran Berry | Heals 10 HP under 50% health.
 
 **STORAGE (2 slots)**
 Item Name | Description

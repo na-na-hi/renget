@@ -111,7 +111,7 @@ Masanori Kitamura HN "Hijack": https://archive.4plebs.org/tg/post/88219956
 Yasashi Koibito HN "The Laser Hero - Majestic": https://archive.4plebs.org/tg/post/88231509
 Junko Hongo HN "The Overly-Enthusiastic Tokusatsu Hero, LocaLoca": https://archive.4plebs.org/tg/post/88745486
 Omura Tadao HN "Deceptive Hero, Conman": https://archive.4plebs.org/tg/post/88754723
-Atsushi Akane "Blast Burn": https://desuarchive.org/tg/thread/90977623/#90984028
+Atsushi Akane "Blast Burn": https://archive.4plebs.org/tg/thread/90977623/#90984028
 >Villains
 Karuga Ito: https://archive.4plebs.org/tg/post/88192478
 Rebecca Weber: https://archive.4plebs.org/tg/post/88722750
@@ -140,13 +140,13 @@ Jack Dunn HN "Three-Sixty": https://archive.4plebs.org/tg/post/88931192
 Ludolf Raphael Victorius HN "Fair Marshal": https://archive.4plebs.org/tg/post/89006731 (further information at https://rentry.org/9wc67)
 --SIDEKICK Fransk Brunhilde: https://archive.4plebs.org/tg/post/89014208
 Rodion Popo HN "Overman": https://archive.4plebs.org/tg/post/89015229
-Taichi Kyoryu HN Cretaceous King, Saurus: https://desuarchive.org/tg/thread/89500858/#89508780
-Kurogane Keisho HN Yoshizumi: https://desuarchive.org/tg/thread/89500858/#89507063
-Atsushi Yamamoto: https://desuarchive.org/tg/thread/90944069/#90954666
-Atsushi Nabiki/HN: Shelong: https://desuarchive.org/tg/post/91008430/
-Tosuke Jinai HN Compound: https://desuarchive.org/tg/post/91016593/
-Yosuke Shirai HN The Lustrous Hero, Wavelength: https://desuarchive.org/tg/post/91032513/
-Astra Smalls Aka Size King: https://desuarchive.org/tg/post/91360064/
+Taichi Kyoryu HN Cretaceous King, Saurus: https://archive.4plebs.org/tg/thread/89500858/#89508780
+Kurogane Keisho HN Yoshizumi: https://archive.4plebs.org/tg/thread/89500858/#89507063
+Atsushi Yamamoto: https://archive.4plebs.org/tg/thread/90944069/#90954666
+Atsushi Nabiki/HN: Shelong: https://archive.4plebs.org/tg/post/91008430/
+Tosuke Jinai HN Compound: https://archive.4plebs.org/tg/post/91016593/
+Yosuke Shirai HN The Lustrous Hero, Wavelength: https://archive.4plebs.org/tg/post/91032513/
+Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
 
 ### Villains
 >Night Parade
@@ -194,14 +194,14 @@ Dr Isaac Ivanov VN "Drekus"/Project D-44: https://archive.4plebs.org/tg/post/886
 Miriam Slowburn Hakase VN "Prolonging Evil: Big Hat" (NPC): https://archive.4plebs.org/tg/post/88736960
 Ume Hattori VN "Broad Daylight": https://archive.4plebs.org/tg/post/88926931
 John Doe VN "Green Door": https://archive.4plebs.org/tg/post/89018740
-Sandatsu Build Update: https://desuarchive.org/tg/post/91030425/
-"Blank": https://desuarchive.org/tg/post/91050726/
-Kōkishin Yuuki VN Shoggoth: https://desuarchive.org/tg/post/91050987/
-"Mammogar": https://desuarchive.org/tg/post/91051410/
-Sasha Azanami: https://desuarchive.org/tg/post/91080404/
-Reika Umi: https://desuarchive.org/tg/post/91119597/
-Rui: https://desuarchive.org/tg/post/91197187/
-Kaori Kaoru: https://desuarchive.org/tg/post/91229075/
+Sandatsu Build Update: https://archive.4plebs.org/tg/post/91030425/
+"Blank": https://archive.4plebs.org/tg/post/91050726/
+Kōkishin Yuuki VN Shoggoth: https://archive.4plebs.org/tg/post/91050987/
+"Mammogar": https://archive.4plebs.org/tg/post/91051410/
+Sasha Azanami: https://archive.4plebs.org/tg/post/91080404/
+Reika Umi: https://archive.4plebs.org/tg/post/91119597/
+Rui: https://archive.4plebs.org/tg/post/91197187/
+Kaori Kaoru: https://archive.4plebs.org/tg/post/91229075/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -209,12 +209,12 @@ Rika Eichi: https://archive.4plebs.org/tg/post/88209395
 Yaju: https://archive.4plebs.org/tg/post/88223795
 Oyster Guy etc. (NPCs): https://archive.4plebs.org/tg/post/88703353
 Endless Horizons Ltd.: https://rentry.org/iptpr
-Emilia Busujima: https://desuarchive.org/tg/thread/89347009/#89349231
-Detective Risa Date https://desuarchive.org/tg/thread/90646041/#90657164
+Emilia Busujima: https://archive.4plebs.org/tg/thread/89347009/#89349231
+Detective Risa Date https://archive.4plebs.org/tg/thread/90646041/#90657164
 Holden Deckard https://archive.4plebs.org/tg/thread/90912459/#q90913931
-Brightly: https://desuarchive.org/tg/post/91006966/
-Dr. Seto Kawata: https://desuarchive.org/tg/post/91051432/
-Satoru Tani: https://desuarchive.org/tg/post/91149772/
+Brightly: https://archive.4plebs.org/tg/post/91006966/
+Dr. Seto Kawata: https://archive.4plebs.org/tg/post/91051432/
+Satoru Tani: https://archive.4plebs.org/tg/post/91149772/
 
 ### Holding Area for Non-Canon Builds/Shitpost Builds/Illustrative Builds
 Shinji Kanashimi: https://archive.4plebs.org/tg/post/88219042 (further information at https://controlc.com/5525da8b)
@@ -326,12 +326,12 @@ Builds to Boot from 1-D: https://archive.4plebs.org/tg/post/89173048
 Ship Tierlist but it's in text 2: https://archive.4plebs.org/tg/post/89192745
 Ship Tierlist but it's in text 3: https://archive.4plebs.org/tg/post/89192811
 Ship Tierlist but it's in text 4: https://archive.4plebs.org/tg/post/89193140
-Decision Making: https://desuarchive.org/tg/thread/89750940/#89761757
-DDR tierlist: https://desuarchive.org/tg/thread/89909909/#89915649
-Hug tierlist: https://desuarchive.org/tg/thread/90157143/#90168689
-Killer tier: https://desuarchive.org/tg/thread/91316254/#91318320
-Delinquent tierlist: https://desuarchive.org/tg/thread/91316254/#91317870
-Has killed tierlist: https://desuarchive.org/tg/thread/91316254/#91317922
+Decision Making: https://archive.4plebs.org/tg/thread/89750940/#89761757
+DDR tierlist: https://archive.4plebs.org/tg/thread/89909909/#89915649
+Hug tierlist: https://archive.4plebs.org/tg/thread/90157143/#90168689
+Killer tier: https://archive.4plebs.org/tg/thread/91316254/#91318320
+Delinquent tierlist: https://archive.4plebs.org/tg/thread/91316254/#91317870
+Has killed tierlist: https://archive.4plebs.org/tg/thread/91316254/#91317922
 
 ***
 
@@ -381,8 +381,8 @@ Karma: https://img.4plebs.org/boards/tg/image/1680/20/1680203731093076.png
 Android: https://img.4plebs.org/boards/tg/image/1686/45/1686456023719910.png
 Recoil: https://desu-usergeneratedcontent.xyz/tg/image/1689/48/1689482245393.png
 Mirror Devil: https://desu-usergeneratedcontent.xyz/tg/image/1689/47/1689477510416.png
-Yako: https://desuarchive.org/tg/thread/89625880/#89626950
-Capture Cloth: https://desuarchive.org/tg/thread/89625880/#89628968
+Yako: https://archive.4plebs.org/tg/thread/89625880/#89626950
+Capture Cloth: https://archive.4plebs.org/tg/thread/89625880/#89628968
 ***
 
 ## CARD GAME
@@ -404,13 +404,13 @@ Floor: https://archive.4plebs.org/tg/post/88840311
 Seiryu: https://archive.4plebs.org/tg/post/88840761
 Class is in Session: https://archive.4plebs.org/tg/post/88841668
 Hailey x Hifumi: https://archive.4plebs.org/tg/post/88842621
-Emilia Busujima: https://desuarchive.org/tg/thread/89576032/#89579050
+Emilia Busujima: https://archive.4plebs.org/tg/thread/89576032/#89579050
 
 ## Pokemon Card Game
-Emilia Busujima: https://desuarchive.org/tg/thread/89946265/#89946788
-Inigo Myoga: https://desuarchive.org/tg/thread/89946265/#89947497
-Sally Mccathy: https://desuarchive.org/tg/thread/89946265/#89950934
-Mirror Devil: https://desuarchive.org/tg/thread/89946265/#89951097
+Emilia Busujima: https://archive.4plebs.org/tg/thread/89946265/#89946788
+Inigo Myoga: https://archive.4plebs.org/tg/thread/89946265/#89947497
+Sally Mccathy: https://archive.4plebs.org/tg/thread/89946265/#89950934
+Mirror Devil: https://archive.4plebs.org/tg/thread/89946265/#89951097
 ***
 
 ## DATAFAGS
@@ -650,7 +650,7 @@ Hoge's First Sleepover: https://archive.4plebs.org/tg/post/91511133/
 Class1D-005: https://archive.4plebs.org/tg/thread/91586719/#91591198
 1D Dance Team (Colorized): https://archive.4plebs.org/tg/thread/91595699/#91600316
 Shiketsu ED V0.2: https://archive.4plebs.org/tg/post/91610993/
-Kaylee embarrassed as she wins the beauty pageant / distant angry korean sounds: https://desuarchive.org/tg/post/91627063/
+Kaylee embarrassed as she wins the beauty pageant / distant angry korean sounds: https://archive.4plebs.org/tg/post/91627063/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -686,7 +686,7 @@ Mio shielding from Ashleigh: https://archive.4plebs.org/tg/post/89202204
 Mio scolding Sandy: https://archive.4plebs.org/tg/post/89271894
 Explode: https://archive.4plebs.org/tg/post/89278521
 I Will Not Be The Bigger Person: https://archive.4plebs.org/tg/post/89278612
-MHA Sandatsu Artfag Chart: https://desuarchive.org/tg/thread/90944069/#90953673
+MHA Sandatsu Artfag Chart: https://archive.4plebs.org/tg/thread/90944069/#90953673
 Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
 Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
 Sandatsu & Mio Date: https://desuarchive.org/tg/thread/91595699/#91603225
@@ -709,7 +709,7 @@ Aspara: https://archive.4plebs.org/tg/post/89401642
 Capture Cloth: https://archive.4plebs.org/tg/post/89402279 
 Spark: https://archive.4plebs.org/tg/post/90018257
 Drone: https://archive.4plebs.org/tg/post/90953377
-Sandatsu Art: https://desuarchive.org/tg/post/91405875/
+Sandatsu Art: https://archive.4plebs.org/tg/post/91405875/
 ***
 
 ## WRITEFAGS
@@ -941,7 +941,7 @@ The Gold Dragon (Luccione, Night Parade (Midas, Karma, Greenfinger, Tatarimokke,
 The Investigation Continues (Mirror Devil, Last Rite, Noctiluca): https://rentry.org/fuisbz
 Dragon's Song (Ryu-kishi, Hijack, Capture Cloth, Mahoudeva, Maru(Maru), Blackout, Cameos of Yamata, Last Rite, Archangel, Sunlight Man) - https://rentry.org/5cxcb3
 Alone On A Friday Night? God, you're pathetic. (Maru(Maru)): https://rentry.org/y4cam
-Will of the late Inigo Myoga/Daiichi: https://desuarchive.org/tg/thread/90189222/#90198760
+Will of the late Inigo Myoga/Daiichi: https://archive.4plebs.org/tg/thread/90189222/#90198760
 Cat Conditioning (Capture Cloth, Bakeneneko, Mentions of Recoil/Yamata/Blackout): https://rentry.org/k2f3c
 The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva) - https://rentry.org/t97vwn
 Whom Shall I Fear?(Last Rite, Maru, Mirror Devil, Ryukishi, Archangel, Anzu): https://rentry.org/rkhpv

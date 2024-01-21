@@ -14,11 +14,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=SPWsptIhKkM
 
 \>Streams
-Next stream: members-only (Sat 01/20 7PM CT)
-Last stream (Advent karaoke relay)
+Next stream: unspecified, Sun 01/21
+Last stream (members-only zatsudan & ASMR)
+https://www.youtube.com/watch?v=UWv41u5tXOw
+Previous karaoke (Advent karaoke relay)
 \>>67114126 https://mega.nz/folder/Oew3ETzJ#wNFjvn1M-0SlRRCBO4AZKQ
-Previous appearance (Sims 4 offcollab with Kiara on Kiara's channel)
-https://www.youtube.com/watch?v=RhAMbkt35ps
 
 \>New merch
 Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
