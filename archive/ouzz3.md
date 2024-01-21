@@ -1422,3 +1422,342 @@ The old wood *drank* in the magic hungrily and Smith bit her lip as she watched 
 Ehhh…There were gonna be some funny and very horny dreams tonight…
 
 Fortunately she had Coco waiting in her room!
+
+Venomheart breathed out as she curled the massive dumbell, her powerful bicep bunching, straining the sleeves of the black workout tee-shirt she was wearing. The black fabric appeared painted onto her massive form, her soccerball sized tits bulging from the neckline, her thick pierced nipples outlined and obvious. Every breath in caused the shirt to ride up, the bottom sliding past each glistening ab.
+
+Her shorts were not much better, deep green with gold patterns, the hiked up her massive ass cheeks, each one a boulder of unyielding power while her cameltoe boiled with need.
+
+
+Venomheart curled again, once more breathing out but this time it was more a frustrated sigh.
+
+She felt so…*confined!*
+
+Not just by her clothes but this human form. 
+
+As big and as strong and beautiful as it was, it paled in comparison to her beautiful, divine changeling form.
+
+The fact she had to *hide* her trueform for the benefit of…of the human insects was *galling.*
+
+She never used to think like this. A changeling who didn't feel as at home imitating and hiding was one that did not last long and yet…
+
+Venomheart was no *mere* changeling. None of Gossamer's new hive were…
+
+They were *superior.*
+
+The Praetorian knew that Gossamer had implanted these thoughts in her mind, corrupted and twisted the old Honourheart until she was unrecognisable but she didn't care because the Queen was right.
+
+Strength was power.
+
+Strength and Cunning was power.
+
+And power was so, so *sweet.*
+
+Venomheart desired to unveil herself, to show everyone else in the gym her true form and to drink in their fear and adoration and lust but…
+
+But she had a job to do, so she followed the rules.
+
+Her own rules that she had commanded when the Queen had given her The Camp to run.
+
+She ran her hand through her vibrant green mohawk, her beautiful face set in a look of contempt as she looked around her domain.
+
+The Camp, along with The Farm and the Club is one of the central pillars of the new Canterlot.
+
+The divey hotel where Venomheart had been remade had itself, been remade.
+
+The place hadn't taken much doing to get a hold of, the previous owner had sold it for a song, and was now swimming in tits and ass at The Sister's club.
+
+Venomheart had just wanted to *break* him but she was smart enough to know that a softer touch was better at times.
+
+The entire bottom floor had been cleared, the walls knocked in to make room for a state of the art gym. The equipment and weights were massive and hardy, while still looking sleek and modern, even futuristic where Treehugger had weighed in on them.
+
+Her magic sight wasn't as good as Gossamer's but even without it, the effects of the enchanted machines was clear to see if you were looking at it.
+
+A blue haired older woman who, a week or so ago had an out of shape mom bod was now strutting on the crossfit machine, a perfect hourglass shape, long defined legs moving in controlled elegant motions as her toned thighs and firm ass swayed under a tiny sports dress.
+
+She moved with the confident prowess of a lifetime athlete, despite not entering a gym until perhaps a month ago and her previously introverted demeanour was now anything but as she spoke loudly on the phone,
+
+'Yeah Lollipop, I'm almost done here but I'll probably need another twenty minutes or so 'cos I gotta frig myself. Oh my god, You've got no idea how horny working out makes me-fuuuck-Maybe make that forty minutes! There's some fucking beef here today!'
+
+The fit MILF practically slobbered as Deli Meat, one of Venomheart's first converts walked past. He was big, although he hadn't always been. A few months ago he had been a weedy little thing with a protruding Adam's Apple.
+
+Venomheart had *worked* on him. Breaking him down then *pumping* him back up. Experimenting with brutal training regimes and various magic infused supplements and concoctions.
+
+She'd felt a bit like Treehugger and Gossamer although she reckoned they had been much more gentle and subtle in their methods.
+
+Now, he was a giant wall of a man, well over six feet tall and even bigger in his changeling form. His huge torso always at risk of bursting from the uniform poloshirt all gym employees had to wear while his shorts *bulged* tremendously around his package.
+
+Venomheart had been surprised yet delighted at how much vaster he had grown when she had poured The Queen's Royal milk into his mouth then thrown him into the proving ring with the other candidates.
+
+Not as much as his sister, Tender Meat, who he had come second to but Deli was actually a functioning member of the Hive whereas Tender was now a punishment Venom threatened on underperforming changelings.
+
+Or as a challenge for her and Gilda when her rival come to visit and gloat.
+
+Hive, it *pissed* Venomheart off how she was regularly beaten by a human, even an buffed one like Gilda.
+
+But it was fun…working with her.
+
+'Deli' Venomheart said telepathically, slipping into her changeling's mind with ease and she felt a rush of arousal and saw Deli's cock twitch at her mental touch.
+
+'Yes Commander?' was his response, a wash of devotion and subservience carried along behind it.
+
+'The curvy slut drooling over your ass behind you. Take her upstairs for a massage then fuck her brains out. Make sure you stretch her out and cum inside.'
+
+'Yes Commander. Is she a candidate for adding to the hive?'
+
+'Fuck no, dumb bitch spends most of her time taking selfies but I want to see how potent your spunk is and I'm considering adding a yoga studio to the place-'
+
+As well as the gym, there were several rooms upstairs that functioned more like a health and beauty parlour. 
+
+Tanning beds, massage rooms, even the beginnings of a sauna.  All of them magically infused of course.
+
+There was also the "Staff Only" area in the basement where the *real* magic happened.
+
+She wasn't sure how Yoga would fit into the arrangement but secretly, she had discovered it while researching and found that she quite enjoyed it on its own merit.
+
+A great way to *focus.*
+
+'-Also, you've impressed me and I want you rewarded.'
+
+Deli shuddered, eyes fluttering as he almost came on the spot but retained control for his Commander's sake.
+
+'Yes Commander. Also, you asked me to let you know when The Cakes and Twist girl arrived for their induction?'
+
+'Good. Thank you Deli. Go do as I commanded.'
+
+[What are we looking to happen to the two Cakes and Twist? Are we thinking bigger, smaller, meaner, sweeter. I've laid some groundwork with Tanning beds and Massage tables that could be fun, although a vigorous Gym Workout in the VIP.]
+
+Venomheart nodded to herself as she studied the three new test subjects. Sunset Shimmer had pointed them out and with a little help from Pinkie Punk, Carrot Cake, Cup Cake and their brand new hire Twist had received vouchers for an all-expenses paid Health and Beauty Program, courtesy of Venomheart.
+
+They were perfect candidates for the new tools and processes Venomheart had been working on upstairs. Mrs Cake was an attractive, if pudgy woman into her middle years, age and stress had drawn the first sign of wrinkles across her kind face and her pink, town tone hair had one or two grey hairs.
+
+Mr Cake was lanky, all arms and legs and much like his wife, showed the signs of the worry and stress running a business as professional and as dedicated as Sugar Cube Corner. His orange hair hang lank and unlike his wife, had an underfed quality to him.
+
+Twist was in the middleground, gawky and thick but in a decidedly unflattering manner. Although cute in a dorky, nerdy kind of way, her body was decidedly pear-shaped, with a flat chest but wide hips and a large ass. 
+
+They all looked varying degrees of awkward, surrounded by goddess and adonises and shrank back, awkward, as the stunningly attractive Surprise appeared in front of them, beaming a perky white smile, her bright yellow hair framing her full lips, button nose and purple eyes that matched her lip gloss.
+
+'Hi! Welcome to Hardening Hearts Gym and Spa. You're the winners of our contest draw right?'
+
+'Well we don't actually remember entering-' Mr Cake began before-
+
+'Great!' Surprise bounced and bubbled, her huge mass of ivory tit flesh threatening to shoot clean out of her overstuffed polo, the bottom exposing clear underboob. The Cake's eyes followed her hypnotic tits, more out of awe than lust but Twist was staring through fogged up glasses at the tall woman's muscled navel and below where her thong rose high above her white shorts, the hunt of bright yellow pubes, trimmed but on full display!
+
+Surprise tapped a clipboard, her nails painted a bright sunshine yellow just like her thick yellow hair which burst free from her hairband in a chaos of spikey yellow tufts.
+
+'Welp! It seems you're down for a full workup! Please follow me!' She bent low, thrusting her ass out, her thick pussy squashed between her muscled thighs as she picked up a set of fluffy black gowns before *bouncing* up the stairs, herding the Cakes and Twist up into the spa section with an upbeat, energetic series of motions and a nonstop, rapid fire encouragements and banal smalltalk.
+
+It was all an act. Surprise's ascension to Changeling, as well as Venomheart's vigorous, unrelenting training had stripped any kind of sunshine or cheerfulness from the athlete, leaving only cold, pragmatic efficiency.
+
+For some reason the former Wondercolt insisted on the hyperactive affectation of her old self. The bright, bubbly and friendly chatterbox façade that the reborn changeling warrior used did set people at ease…or maybe it just didn't give people enough time to feel uncomfortable.
+
+Still, it was odd that she leaned into the persona so hard when she seemed to view her old personality with such contempt, like most new changelings.
+
+The everpresent subliminal signal that Venomheart broadcasted constantly from her powerful crest dulled the emotions and memories from the previous life, replacing it with dedication to the Hive and the reenforced the message that their previous lives as humans was merely a transitionary period, a caterpillar in a cocoon before they realised their destiny, and emerged a beautiful, better changeling.
+
+'Commander.' Surprise's clipped, brusque report was at total odds to the simultaneous barrage of words she was throwing at their guests.
+
+'We have the females down for the tanning booths. The Male down for a massage. Is that correct? Do you have any preferences for the procedure. The Farm and the Lab have both delivered a new variety of potions and technology respectively.'
+
+[PLAN SO FAR.]
+
+1.Mrs Cup Cake - Tanning bed.
+2.Mr Carrot Cake - Massage
+3. Twist - Tanning Bed
+
+A) Big and Mean - Becomes a big, muscled bully bimbo/himbo
+B) Big and Sweet - Becomes a giant, jacked, sweetie.
+C) Small and mean - Becomes a short and curvy/dainty and delicate dom
+D) Short and Sweet - Becomes a short, meek sexpot/doll.
+E) Other 
+
+[This was as simple as I could make the choices without having loads of choice trees for each one of the three. I'm thinking the votes are laid like 1A,2C,1C indicating CupCake big and mean and Carrot and Twist being small and mean.]
+
+[These are rough suggestions and if you have any others please suggest them!]
+
+[Also feel free to describe to what level these changes, physical and mental are if you want. Cup and Twist are going to end up tanned as people seemed to like the Gyaro angle!]
+
+[I think I may have used surprise for an earlier transformation actually other than the one with Zephyr way at the start. If I did please flag it up and oops, just pretend it was a doombot or something.
+
+Venomheart finished her workout, her skin glistening with a faint sheen before she followed the group up the stairs. By this point, the three were naked apart from the comfortable black robes and Carrot was being lead away to the small massage parlour by a disguised changeling.
+
+Surprise was gently coaxing the two women out of there robes, helped slightly by a little suggestive magic and magical incense that made them more docile and agreeable.
+
+'There we go! It's okay ladies, we're all girls here-There we go, now we just have to apply the pre-tanning oil and our new base layer that'll really make your skin *glow* and help it look as natural as possible!'
+
+
+It would essentially do the opposite, the tan looking anything but that wasn't the point of the lotion, just like the tanning beds, the actual *tan* was a side effect of the bimboing process itself but the beds were a good way of disguising Treehugger's modified infusion chamber.
+
+The actual point of the lotion was to act as a hyper conductor for all the bimbo magic they were about to receive. They were always experimenting with alternate ways to get more bang for the magic they put in and this was the latest way they had of maximizing the fairly limited output of Treehugger's recreation of the MirrorTwilight's bimbo booth.
+
+'I will help' Venomheart said bluntly, entering the room and standing between Twist and Mrs Cake, motioning for Twist to remove her gown.
+
+'Oh!' Surprise said…surprised…Both in and out of character. It was rare that Venomheart took an active hand in these operations, preferring to command and dictate but this was something of a special case and Deli Meat was mostly likely draining his balls in a gym Milf at the moment so they were a little shortstaffed this shift.
+
+'I will apply the spray for you Twist.' Venomheart stated, just as bluntly. She had no time for social niceties, she'd throw the two of them in the booth if she had too.
+
+Although, that might skew the results of the test…
+
+'Um, Okay-You're very big…' The curly haired redhead said, gulping as Venomheart shoots a spray of the glossy solution then encircled her entire calf in a massive hand as she rubbed it in.
+
+'I know.' The large changeling said.
+
+Surprise lets out a large, encouraging grin as she raises the silver and pink spray gun, a large glass container of glowing amber liquid affixed to the top of it.
+
+'Ooh!' Cupcake jumped as Surprise slowly sprayed her calf, working up her leg, 'Sorry-It tickles a bit' 
+
+'Oh it'll do more than that Mrs Cake, It's made from all natural ingredients and is designed to soften and revitalise as well!
+
+That part was true. It would revitalise. Even now, the cellulite in Cupcake's thighs began to vanish under the golden bronze coating, her large sagging ass began to firm up and tighten as Surprise moved around to the front, working industrially although she sprayed an industrial amount on her stomach, the paunch Mrs Cake had glazed totally, with rivulets of the  solution running down and collecting between her legs.
+
+'Haaah-' The older woman sighed, the warm, tingling bliss seeping into her pores and now her pussy. 'It *really* tingles…
+
+'Don't worry, That's normal. Just enjoy the sensation!' Surprise said as her tongue flicked out involuntarily, the like forked changeling tongue lapping up the air, tasting the arousal on the air. 
+
+She would have to punish her subordinate for that lapse.
+
+Venomheart sent a warning to be more discrete across the mental link and Surprise quickly hid the lapse. They needn't of worried though Mrs Cake was leaned back against the booth, legs spread and eyes dreamy.
+
+Twist was experiencing the same sensations, squeezing her thighs together which of course only rubbed the sticky, golden lotion deeper into her sensitive areas, her clit throbbing and buzzing while Venomheart worked the spray deeper into her skin with a firm yet gentle hand.
+
+Soon, their entire bodies were coated and Surprise handed the two woman a pair of small, tanning goggles, designed to fit only over their eyes. 
+
+'Here, You'll need these!'
+
+Not that the tanning rays of THESE booths would damage anything but they were a good way to beam hypnotic images right into a subject's mind.
+
+'Now we just gotta make sure you got an even coating of your head and neck, just relax then we'll have you in the booth!'
+
+'Okkkaayy-Oooh' Mrs Cake gasped, looking at least a decade younger, her body twitching and shuddering as it tightened and tweaked hair and blemishes vanisihing.
+
+'Thattsshth sounds good~' Twist sighed, a hint of a lipse returning to her speech as her clit twitches and *swells*.
+
+The two were so blissed out and prepped that almost as soon as the goggles went on and the carefully calibrated series of images, symbols and patterns began playing they went into a nice, suggestable trance almost immediately.
+
+'Huuhhh-'
+
+'Gufuuugh…'
+
+Both their mouths and pussies drooled as two Changeling's immediately and silently undisguised. Both of them sighed in relief as their confining, human form burned away.
+
+Their changeling forms were bigger than their human ones, although Venomheart was massive, Twist barely coming up to the changeling Praetorian's glossy black twelve pack abdomen.
+
+She looked down at Surprise, who came up to her beachball sized tits. The younger changeling warrior was already cringing internally at her mistake but as was expected, she stood resolute and stoic, awaiting her reprimand and punishment.
+
+Anything else would have disgraced her.
+
+'Your failure to maintain your disguise does not reflect well on you or me as your commander. We are not infiltrators but such a lapse is disgraceful for a changeling.'
+
+'Yes My Commander.' The warrior agreed, her poofy yellow mane was, in her changeling form a shock of electric yellow hair that went down to her ass. Shaved on one side, it was jagged and windswept and matched her wicked yellow eyes.
+
+Apart from the yellow and green rank and hive markings across her black glossy body, it was the only colour on her powerful form.
+
+'Your leisure time is cut for the next week. It will be replaced by sparring.' Venomheart considered for a moment, 'Your orgasm allocation is also cut, once a day. That should teach you self-control.'
+
+Although there was no outward change, apart from perhaps the tiniest tensing of the shoulders. Venomheart was so deep in her warriors minds and psyches that the tiniest spark of dismay and outrage at the orgasm limitation washed over Venomheart like a tsunami.
+
+Venomheart's warriors ran hot.
+
+The sparring would only make that worse, exertion and physical closeness, the thrill of domination (and the secret, taboo thrill of submission) mean that nearly all changeling sparring lead to a fuck session afterwards.
+
+Chances are, if Surprise lost they still would but she would not be allowed to cum!
+
+Surprise smothered the emotions immediately but it was too late and Venomheart sneered, her eyes hidden behind the giant, helmet like crest. Despite that her mocking and vindictive gaze still bored into Surprise.
+
+'Oh? If that's how you feel. No orgasms at all and you must spar with *human* partners. I'm sure The Sister's at The Club will have some good stock for you to…"wrestle"…with.
+
+This time, there was no emotion at all. Only subservience and loyalty. Either Surprise actually felt that way or she had hid her real emotions so well that Venomheart could not sense them.
+
+Either were acceptable for a Changeling.
+
+'Now get them in the booths. Give them a big dose. I will deal with the male.' Venomheart ordered, not even bothering to disguise herself. The top floor was locked down, being only available to normal people by appointment only, and then only after serious indoctrination on the gym floor below.
+
+Even if someone did manage to get up, they wouldn't escape. Venomheart almost wished someone would try if only for the excitement but unlike The Club and The Farm, her reputation was spotless, almost pristine. 
+
+The worse she'd had was a mousy journalist come sniffing around after their opening. Surprise had given her a tour and she'd left with a Gold Gym Membership. Said journalist now spends her days instructing yoga and her nights bending her mouth-wateringly curvy and flexible body around a pole in The Club.
+
+Speaking of Surprise, she had easily moved the tranced and tanned women into the booths, several flexible pads pressing into their bodies in key areas to keep them upright as well as stimulate the correct areas.
+
+They were clear and malleable, not obstructing the dancing lights that would begin the transformation and bending around their soon to be growing bodies.
+
+The Twist moaned as they pressed into each of her ass cheeks, another for her drooling pussy as well as both of her tits and her back. Cupcake mimics her as the same thing happens to her.
+
+Surprise tapped the small touchpad that was linked to both booth, and sneered as their moans redoubled as each pad began to vibrate in a carefully programmed series of pulses to extract maximum pleasure.
+
+She was horny, and frustrated and forbidden for cumming so her black fingers, each one capped with a electric yellow nail that matched her hair, eyes and pussy, stabbed vindictively as she **ratcheted up the power.**
+
+Venomheart wanted them to get a big dose? Surprise would give them a *big* dose!
+
+'Surprise Sluts.' Surprise spat, her long yellow tongue leering out as she commenced the program.
+
+Immediately the booths *buzzed* loudly as the dark pink lights *blazed* to life. *That* noise however was totally eclipsed by the loud, guttural moans that escaped from Twist and Cupcake's lips as every inch of their skin was bathed in light and bliss.
+
+Said lips *immediately* began to swell, thickening and tingling as they grew more sensitive, the actual pigmentation changing into a garish orange for Twist and a deep purple with a single cerulean stripe down the centre for CupCake. 
+
+Their tongues darted out madly, cunts squirting from the sheer sensation on their sensitive pillows but the glossy faux makeup didn't smear. Of course, it wasn't makeup any more, the two would never need makeup again as the light warped their very DNA.
+
+The same thing was happening across their face and their entire bodies. The skin on their face altered giving them a complexion that would always look like a thick yet artfully applied coating of makeup. Deep blue and purple and orange coated their eyelids as their lashes extended, Twist gaining gold tipped extensions while Cupcake got a thick amount of shadow.
+
+Their tongue's grew longer as they were hit by the light, squashing against their still plumping lips the light filling their throats as they gasped and panted, altering their throat to perfectly hilt any dick. Their breath would smell incredibly pleasant, almost overpoweringly so, for Cupcake, her breath, drool and lips would taste of thickly spiced and sweetened cakes and pastries while Twist's would smell of aniseed and mint and candy.
+
+Their lips continued to swell, squashing together and forming a constant, beestung pouts as their voices became huskier as they began to *grow.*
+
+And then the programming bult into the goggles kicked in, blasting into their wide open minds with no resistance whatsoever!
+
+"POWER"
+"DOMINANCE"
+"CONFIDENCE"
+"VANITY"
+"BEAUTY"
+"SLUT"
+"HORNY"
+"BULLY"
+"THE STRONG SHOULD RULE THE WEAK"
+"SLUT"
+"OBEY VENOMHEART"
+"HATE WEAKNESS"
+"AROUSED BY WEAKNESS"
+"AROUSED BY STRENGTH"
+
+The goggles cycled through these words along with dozens of other images and arcane symbols faster than the human eye could recognise but the woman's minds definitely did!
+
+The programming began to systematically turn the formerly bashful and polite women into a pair of *loud, obnoxious sluts who just loved to throw their weight, power and beauty around!*
+
+'Ohhggghh yeahhhh~Sooo goooood!' Twist mewled as the short woman shot up a whole foot, and then another and then another *half foot* as her spindly limbs began to *thicken* with powerful, glistening muscles. Her arms popped and stretched, flexing and pulling against her restraints as her the nails on her hands lengthened, becoming bright orange fakes. 
+
+Her legs wobbled as her thighs pulsed outwards, competing with her ass for biggest and most unyielding and they strained against the gel restraints, as did her pussy which was now a massive, sucking monster.
+
+Her tits inflated, jutting and perky they squashed into the wall of the pod, her massive nipples and wide areolae soaking in the light and Twist *groaned*, her washboard abs flexing, popping into existence as she grew fitter, stronger.
+
+Despite that, Cupcake was faring far worse.
+
+Or better, depending on your point of view.
+
+The older woman's was *massive.* Taller than Twist or Sunset, almost as big as Gilda and most certainly wider! As well as her impossibly large muscles, her outrageous curves easily balanced them out, her street shaking ass and beachball sized tits still gave her an hourglass shape. 
+
+But that wasn't all, unlike Twist whose body was devoid of fat apart from her tits and ass, Cupcake's had been *exaggerated.*
+
+She was thicker than a Sugercube corner milkshake. 
+
+Despite being an absolute juggernaught of feminine power, all of it was coated in a thick layer of jiggling, golden fluff. Her ass clapped and thundered, hit tits, nowhere near as perky as Twist's would reduce men to tears with their tear shaped tits.
+
+She growled and groaned, the flexible pads falling away as she outgrew them and Surprise stepped back, surprised as the big woman began to outgrow the pod! Her pussy was exposed to the full light of the pod and if Twist's had been "greedy monster" then Cupcake's was a covetous dragon, full of avarice and totally without mercy.
+
+Two tanned, massive, drooling lips framing a soaking twat, a clit the size of a thumb throbbed insensately. 
+
+The booth rocked as Cupcake spread her legs, gripping the small extendable arm the flexible pad was on and shoving it up her pussy, furiously fucking herself with the carbon fibre arm, long purple nails extending from her large yet delicate hand.
+
+Her already gargantuan tits trembled once more then surged outwards once more, growing tighter and fuller as something hot, boiling hot and sooooo good began to fill her jugs as the lights danced around her huge nipples.
+
+Her  powerful arm flexed as she heaved her tit, mauling it with her spare hand, her fingers sinking deep into the full, sloshing tit before she *shoves* the nipple to her lips and-
+
+'Gmmmhhhhhhhh~' She groaned, eyes rolling as sweet, thick milk gushed into her mouth. It tasted amazing and she *guzzled* it with gusto, she drank and drank, her stomach *bulging* outwards the more she sucked down. 
+
+Her abs warred with her thick stomach, forming a wide, muscle gut and both she and Twist moaned loudly, their faces shifting, any semblance of warmth or kindness being blasted away. Their cheekbones sat higher, their noses straightened and their eyebrows were professionally shaped. Cupcake had the counternace of a very hungry and skilful cougar, while Twist was a energetic and entirely tireless partygirl who always went home with a fuck.
+
+The fake tan was baked into their bodies, once again changing the very pigmentation of their skins as every single hair follicle beneath their necks was zapped away, apart from a pair of trimmed, yet prominent tufts on their snatches. 
+
+Meanwhile, the hair on their heads exploded out, their natural colours deepening as it flowed down their powerful bodies like curtains. Blond streaks shoot through their natural hair colours, vibrant highlights that clash with their garishly bright hair.
+
+The booths *steamed* with pinkish smoke as they began to cycle down, Cupcakes booth bulged dangerously whereas Twists's just vibrated.
+
+'Huh.' Surprise said as the doors clicked then swung open, the scent of arousal mixing with the cloying sweet smells of candy and baked goods that emanated off the two tanned amazons as they sauntered confidently out of the  booths, eyes glittering wickedly as they removed the goggles.

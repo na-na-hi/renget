@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 11 | **Experience to Next Level:** 83/110
+**Level:** 12 | **Experience to Next Level:** 23/120
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
 **Pokécoin:** 470₽ | **Glorious Gold:** 0 Bars
 
@@ -20,12 +20,12 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 ->*70/1200 points to Normal Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+1) | Modifiers | Combat Effect
+Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 21HP
+Health Points | 1 | Level 9 (22HP) | 24HP
 Attack | 2 | ɴᴏ ʙᴏɴᴜs | +2 Physical Damage
 Special Attack | 1 | Species Bonus | +1 Special Damage
-Defense | 0 | Defense Tier ɪ | +1 Physical Mitigation
+Defense | 1 | Defense Tier ɪ | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
@@ -35,7 +35,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Scratch | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect
 Sucker Punch | 7BP | 6 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
 Hone Claws | 0BP | 4AP | - | Dark | Status | The users Attack and Accuracy are increased by 1
-==REPLACE== | 0BP | 0AP | ≥2 | ==REPLACE== | ==REPLACE== | ==REPLACE==
+Fury Swipes | 1D10 | 6AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
@@ -98,7 +98,7 @@ Item Name | Description
 
 Type | Item Name | Description
 	------ | ------ | :----:
-	Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+	Key Item | Strange Sphere | A wooden toy? Evan called it a Poe-Key-Ball
 	Scroll | Dark Type Chart | A chart made by Ishmael to help with understanding Dark type advantages and weaknesses
 	
 **OLD MOVES (∞ slots)**

@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 12 | **Experience to Next Level:** 55/120
+**Level:** 12 | **Experience to Next Level:** 95/120
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 645₽ | **Glorious Gold:** 0 Bars
 
@@ -90,8 +90,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Noxious Scarf | Badly Poisons the user.
-2. Empty | Empty inventory slot.
+1. Tiny Reviver Seed |	Revives fainted Pokémon to half HP.
+2. Blast Seed | Explodes on contact for 10 true damage.
 3. Empty | Empty inventory slot.
 4. Empty | Empty inventory slot.
 

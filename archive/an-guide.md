@@ -2,13 +2,13 @@
 
 Be careful! Using Author's Note can be harmful if you're not handling it properly. The fact is, Author's Note is an inserted text that 'pretend' to be part of the Storytext; disruptive, if you put something bad or too much in there.  
 
-You can/should leave this one blank, if you are not trying to do anything specific—You will have optimal context that way.
-
+You can/should leave this one blank, if you are not trying to do anything specific—You will have optimal context that way.  
 Use cases:
 
 [TOC2]
 
 ***Other guide: [co-writing guide](https://rentry.org/co-writing-guide), [memory guide](https://rentry.org/memory-guide), [lorebook guide](https://rentry.org/lorebook-guide)***
+*[My personal preset—Truthfully v9 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ###Scratchpad
 
@@ -20,8 +20,8 @@ Use cases:
 
 `[ Style: senses, visceral, descriptive ]`  
 A way of getting the AI to be descriptive. Using `[ Style: ]`.  
-You can sort of guide the prose style with this one. Its effect is based on what you put in it. But... it really depends. _Most_ of the time, you can't abruptly change how the AI write, as Storytext matter far more—So, think this as an 'automatic' way of doing it. You don't have as much control as writing/shaping the prose yourself. But it's convenient enough.  
-It can also help the AI 'get' what style you're going for.
+You can sort of guide the prose style with this one. Its effect is based on what you put in it. But... it really depends. _Most_ of the time, you can't abruptly change how the AI write, as Storytext matter far more—So, think this as an 'blunt' way of doing it. You don't have as much control as writing/shaping the prose yourself. But it's convenient enough.  
+It can also help the AI 'get' what style you're going for.  
 
 `[ Knowledge: being mind-controlled; Style: scene, simple ]`
 `[ Knowledge: ]` [induce](https://docs.novelai.net/text/specialsymbols.html#-spaced-bracketing-) the model into thinking about the indicated subject. It had various uses such as [creating story summary](https://rentry.org/memory-guide#attg), [lorebook](https://rentry.org/lorebook-guide#frequently-asked-questions), or scene guidance; and the only item that can be used alongside `[ Style: ]`  
@@ -68,5 +68,5 @@ But if you keep the AN short enough, it shouldn't be too much of a problem. Just
 Just remember to remove it if you don't need it or if the state of your story had changed. Don't write instruction here, or low-effort text that looked nothing like your prose. (Which is quite common mistake if I have to say.)
 Other examples: `Something was wrong.`, lastly: `He screamed. In horror, in shock, in pain, in sheer bewilderment.`
 
--> Credit: Basileus, Magenta.Darkstar ->
+-> Credit: Zaltys, Basileus, Magenta.Darkstar ->
 [comment]: <> (SUPPORT-RENTRY-PATREON)

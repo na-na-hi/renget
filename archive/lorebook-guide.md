@@ -206,6 +206,6 @@ Few more things:
    But, `/\bjoe\b/` will only be triggered on ==joe==.
 - `//i` is case insensitive. Removing `i` is fine if you only want the entry to be triggered on correct capitalization.
 
--> Credit: SGreen, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
+-> Credit: Zaltys, SGreen, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
 
 [comment]: <> (SUPPORT-RENTRY-PATREON)

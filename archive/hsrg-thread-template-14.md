@@ -15,6 +15,10 @@ https://www.youtube.com/watch?v=EOn_MGgOWYs
 https://www.youtube.com/watch?v=-UZ0n2Tqiyw
 https://www.youtube.com/watch?v=Ms5u_lXJIAA
 
+\>Penacony Travel Promotion Cartoon: Tick-Tock! Come Dream With Us!
+https://www.youtube.com/watch?v=bozDsNXq1Og
+https://www.youtube.com/watch?v=wGGAQ6rr784
+
 \>Myriad Celestia Trailer — "A Night of Ever-Flame: Scene 33"
 https://www.youtube.com/watch?v=8eWVW8ml9G4
 https://www.youtube.com/watch?v=ieUxZHy6ICo

@@ -690,6 +690,7 @@ MHA Sandatsu Artfag Chart: https://archive.4plebs.org/tg/thread/90944069/#909536
 Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
 Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
 Sandatsu & Mio Date: https://desuarchive.org/tg/thread/91595699/#91603225
+Confession: https://desuarchive.org/tg/post/91630760/
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -1045,6 +1046,9 @@ Brightly is Maidnapped: https://desuarchive.org/tg/post/91588066/
 Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko): https://rentry.org/PopsyB
 "Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique): https://rentry.org/avuzhy6i
 Takashi's Dungeon (Brightly): https://desuarchive.org/tg/post/91626497/
+Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver): https://rentry.org/z7w7e
+Orochi Wins (Orochi, Sandy, Mio): https://rentry.org/abuzhy7i
+The Leningrad Variation: https://rentry.org/mvtmnzy2
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

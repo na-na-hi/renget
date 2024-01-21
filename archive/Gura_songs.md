@@ -3,6 +3,7 @@
 ### Songs
 ->Members<- | ->Date<- | ->Youtube<-
 ---- | ---- | ----
+->💀🐔🐙🎼🔱🔎💎🌿🐾⏳🪶🗿👁‍🗨🎲-> | ->2024-01-21<- | [![cover](https://files.catbox.moe/ny1mg9.jpg)  Mind Craft ▶️ hololive English Cover](https://www.youtube.com/watch?v=OQuGEpICY2o)
 ->🔱-> | ->2023-11-25<- | [![cover](https://files.catbox.moe/vwykp3.jpg)  Tokyo Wabi-Sabi Lullaby](https://www.youtube.com/watch?v=D7XANR5cacE)
 ->🔱🏴‍☠️-> | ->2023-11-12<- | [![cover](https://files.catbox.moe/pzse40.jpg)  SHINKIRO](https://www.youtube.com/watch?v=9ehwhQJ50gs)
 ->🔱-> | ->2023-09-11<- | [![cover](https://files.catbox.moe/1u7f7e.jpg)  Kyoufuu All Back (強風オールバック)](https://www.youtube.com/watch?v=qMQ4P-vI3JI)

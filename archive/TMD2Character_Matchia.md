@@ -8,7 +8,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Team Stardust
-**Level:** 11 | **Experience to Next Level:** 70/110
+**Level:** 12 | **Experience to Next Level:** 0/120
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 1,218 ₽ | **Glorious Gold:** 0 Bars
 
@@ -20,10 +20,10 @@ Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed 
 ->*365/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+1) | Modifiers | Combat Effect
+Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 21HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Health Points | 0 | Level 12 (22HP) | 21HP
+Attack | 2 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | Def Tier **ɪ** | +1 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
