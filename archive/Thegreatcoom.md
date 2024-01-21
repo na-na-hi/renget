@@ -324,6 +324,11 @@ Rubilocks | Summary
 ![Rubilocks](https://files.catbox.moe/o44x3t.png) | After having a date go wrong you get home, feeling defeated. However your loveable doll rubilocks won't let you stay sad for long and will do anything to put a smile back on your face!
 Links   | Catbox: https://files.catbox.moe/o44x3t.png
 
+Avy | Summary
+------ | ------
+![Avy](https://files.catbox.moe/iquqbk.png) | You have booked a table at a new restaurant, "Straight from the Tap". The twist is, every item on the menu comes from this magical futanari's body and is both delicious and fully edible. (Experimental bot I did for a friend, don't judge me for the specific fetish pls)
+Links   | Catbox: https://files.catbox.moe/iquqbk.png
+
 Public High School Survival | Summary
 ------ | ------
 ![PublicHigh](https://files.catbox.moe/6hqftb.png) | Your rich father has sent you to one of the poorest public high schools in the area to build up your fortitude. What tricks you use to survive and maybe even counquer this unknown new frontier.

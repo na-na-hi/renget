@@ -1761,3 +1761,71 @@ Meanwhile, the hair on their heads exploded out, their natural colours deepening
 The booths *steamed* with pinkish smoke as they began to cycle down, Cupcakes booth bulged dangerously whereas Twists's just vibrated.
 
 'Huh.' Surprise said as the doors clicked then swung open, the scent of arousal mixing with the cloying sweet smells of candy and baked goods that emanated off the two tanned amazons as they sauntered confidently out of the  booths, eyes glittering wickedly as they removed the goggles.
+
+By the time the two woman were done "baking", Venomheart had already done a hell of a number on Carrot Cake. Even before she had walked into the massage parlour, the tall man was already dazed and pliable due to the thick cloying clouds of enchanted incense smoke lingering in the air.
+
+Carrot was lying on the massage table, face down with a towel over his rear which Venomheart contemptiously snatched off and threw aside.
+
+He was *hers*, every part of the man was hers to do with as she pleased and his pitiful attempt at modesty set a fire in her. 
+
+She didn't even disguise herself, even if the smoke hadn’t softened him up and cast him in a veil of apathy, her sheer physical presence of her giant, dominating form brooked no aurgument.
+
+Carrot simply gaped at the black giantess, his thoughts shifting like molasses as he realised that something about the eight and a half foot tall, muscle bound changeling demigoddess wasn't right but unable to quite put his finger on what.
+
+'A-Are you my massuse-Mphp!'
+
+Carrot's words were cut off as his head was gripped in a large black hand and his face was *shoved* into Venomheart's puffy black pussy. Her huge, multifaceted wings burst open and enveloped the smaller man. Carrot Cake went practically wall eyed as he was drawn into the incredible shifting patterns on the wings, the hypnotic buzzing filling his ears while the scent and taste of Venomheart's cunt filled his mouth and nostrils.
+
+CarrotCake jerked and writhed in her grip as every single one of his senses was dominated, totally awash with pure Venomheart. He moaned into her pussy, his head tiny between her huge legs. His cock was hard as iron, leaking pre-cum.
+
+Her green lips curled into a sneer. She wasn't even exerting a fraction of her full power and this pathetic human's mind was already hers. Totally open for her commands as he humped the bed, cock twitching and jerking as he was about to-
+
+'Don't cum' She ordered as she let him drop, face smeared with her juices, eyes a dull, glazed green. She hadn't even spoken the words, simply transmitted them into his mind and Carrot whined as the words became immutable, his orgasm halting just before its peak!
+
+'Huaah~Goghh-Pllease-' 
+
+'Be silent.' 
+
+Instantly, Carrot's mouth closed, his mewling ceased. He was totally silent apart from his heavy, ragged breathing.
+
+A wicked grin tried to force its way onto Venomheart's face, sharp teeth showing before she recomposed herself, moving over to gather up various oils and creams from around the parlour.
+
+She *loved* dominating men. Strong men, Weak men. Big or Small.
+
+Ever since she had ascended. Ever since Gossamer had forced the helmet onto her head and had her *take* Flash Sentry the kink had *cemented* itself in her very soul.
+
+Making them bigger, smaller, meeker, bolder she loved it all. To take a man and empty out his mind and fill it with whatever *she* wanted.
+
+And it was *so* easy to exert her will with the blessing's that Gossamer had visited upon her.
+
+The thought of how she *had* been, strong and skilled but so *weak*. Beholden to what others and her own code of honour had demanded of her.
+
+She *hated* the memories of it as much as she *adored* what she had become under Gossamer.
+
+Sometimes, she had the other changelings impersonate Honourheart just so Venomheart could roleplay corrupting herself, breaking herself down and fucking herself!
+
+She loved it. She loved Gossamer and She loved what Gossamer had done to her.
+
+Even though she knew that Gossamer had made it so Venomheart loved being transformed by Gossamer.
+
+She loved that she could feel her Queen in her mind, whispering to her, tweaking her even now. Making her calmer, angrier, hornier. Venomheart was pretty sure Gossamer was implanting or removing memories from her head as well and the thought made her *gush!*
+
+A soft panting brought her back to reality as Carrot Cake ground himself against the massage table.
+
+Gossamer set her collection of oils and creams down and placed her hand on Carrot's back, shoving him down and holding him there with barely any effort.
+
+'You will accept everything I say as truth.' She stated, 'Total Truth. You will immediately disregard anything you think contradicts my truth as a lie. Only my truth is real, everything else is ephemeral.'
+
+Her words easily sunk into his open, obedient mind and he nodded furiously and Venomheart smirked as she removed her hand and began to open the jars of enchanted oils.
+
+'You are mine. Mind and Body. Totally and without dispute.' She said, matter of fact as she squirted a thick dollop of glowing pink oil onto his back and began to gently but *firmly* rub it across his body. 
+
+Meanwhile, the area just above her massive ass glowed as a thick tail began to emerge, unlike a pony's it was not fibrious, more like Sunset's demonic tail however instead of being forked, it had a fat, tube like sucker on the end.
+
+It snaked through a hole in the bottom of the massage table and *glomped* onto Carrot's cock. The fleshy fuck hole *tightened* , the flexible flesh moulding itself to Carrot's dick in a vice like grip, the hot, wet inner walls sucking on his shaft.
+
+'Hnnnng!' Carrot drooled, eyes crossing at the incredibly sensation as well as the new truth that Venomheart so casually shoved into his mind.
+
+Any semblance of self-determination or freewill was shoved down. Any autonomy he felt he had vanished or was quashed as the expanding truth dominated his mind
+
+[All I got for now, this good? Going quite direct with Venomheart's transformation of Carrot here. Very little devices or spells, just pure, dominating will.]

@@ -268,6 +268,7 @@
 01/2024|[Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications](https://arxiv.org/abs/2401.06197)
 01/2024|[Scalable Pre-training of Large Autoregressive Image Models](https://arxiv.org/abs/2401.08541)
 01/2024|[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)
+01/2024|[Orion-14B: Open-source Multilingual Large Language Models](https://files.catbox.moe/ik2pr6.pdf)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)

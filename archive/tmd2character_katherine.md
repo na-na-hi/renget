@@ -8,7 +8,7 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Constructor/Engineer
 **Species:** Bounsweet | **Affiliation:** Team Stylish (Leader)
-**Level:** 10 | **Experience to Next Level:** 70/100
+**Level:** 11 | **Experience to Next Level:** 10/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 515₽ | **Glorious Gold:** 0 Bars
 

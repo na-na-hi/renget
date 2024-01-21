@@ -74,6 +74,7 @@
 **Bubble #2** | [1940454](https://assets.clip-studio.com/en-us/detail?id=1940454) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/04/1940454/thumbnail?1665862796)
 **Bubble #3** | [1940713](https://assets.clip-studio.com/en-us/detail?id=1940713) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/07/1940713/thumbnail?1665862812)
 **Or did you brush (やたかブラシ)** | [1952649](https://assets.clip-studio.com/en-us/detail?id=1952649) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/26/1952649/thumbnail?1682591668)
+**Zaku Brushes (ザクザクブラシ)** | [1930959](https://assets.clip-studio.com/en-us/detail?id=1930959) | **==30 GOLD==**, **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/09/1930959/thumbnail?1656895099)
 
 -> [**[TOP]**]() ->
 
@@ -120,6 +121,7 @@
 **Sora no Painting Brush Set (そらのくに Painting Brush Set)** | [1695748](https://assets.clip-studio.com/en-us/detail?id=1695748) | **==70 GOLD==**, **350 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/48/57/1695748/thumbnail?1496532022)
 **3D Beach Set (3Dビーチセット)** | [1935755](https://assets.clip-studio.com/en-us/detail?id=1935755) | **80 GOLD** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/55/57/1935755/thumbnail?1658416538)
 **Custom Paper Chain 3D Rev2 (カスタム紙鎖 3D rev2)** | [1960403](https://assets.clip-studio.com/en-us/detail?id=1960403) | **==20 GOLD==** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/03/04/1960403/thumbnail?1670027927)
+**Zaku Brushes (ザクザクブラシ)** | [1930959](https://assets.clip-studio.com/en-us/detail?id=1930959) | **==30 GOLD==**, **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/09/1930959/thumbnail?1656895099)
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()
 ** **|[]()|  |![]()

@@ -8,7 +8,8 @@ https://files.catbox.moe/ozlx6q.mp4 (intro+outro voices)
 ###  porn collection
 [enjoy](https://mega.nz/folder/51gWhKJJ)
 decryption key: Z1R4R2dnSkY0THRtRUxsUTF0LW1yUQ==
-iykyk.
+
+use mario64 to unlock the real decryption key for the porn. soft security measures
 
 https://pastebin.com/dYcJJd8w - translation of kotaros fuwamoco SEX doujinshi, credits to Anon
 
