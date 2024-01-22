@@ -124,6 +124,9 @@ https://rentry.org/llst-2021-02-bkup
 ```
 
 ##Changelog:
+==2024.01.22==
+- added liella 5th live link
+
 ==2024.01.21==
 - went around and changed a lot of things. That's it 
 	- video link section should be more organized now
@@ -263,7 +266,7 @@ Name | Nickname(s) | Birthday | Links/SNS | Image
 ####⛄⛄ Saint Snow Seiyuu ⛄⛄
 Name | Nickname(s) | Birthday | Links/SNS | Image
 ------ | ------ | ------ | ------ | ------
-**Ayuru Ohashi 田野アサミ** |Asamin|February 12, 1987|[Agency WEB](https://www.amuse.co.jp/artist/A0126/) / [TW](https://twitter.com/asami_manager) / [IG](https://www.instagram.com/tano_asami/)|[📷](https://upload.wikimedia.org/wikipedia/commons/9/94/Asami_Tanochan.jpg)
+**Asami Tano 田野 アサミ** |Asamin|February 12, 1987|[Agency WEB](https://www.amuse.co.jp/artist/A0126/) / [TW](https://twitter.com/asami_manager) / [IG](https://www.instagram.com/tano_asami/)|[📷](https://upload.wikimedia.org/wikipedia/commons/9/94/Asami_Tanochan.jpg)
 **Hinata Sato 佐藤 日向** |Hinahina|December 23, 1998|[Agency WEB](https://www.amuse.co.jp/artist/A8258/) / [TW](https://twitter.com/satohina1223) / [IG](https://www.instagram.com/sato._.hinata/)|[📷](https://files.catbox.moe/vr54sf.jpg)
 
 ####☀☀ Sunny Passion Seiyuu ☀☀
@@ -535,8 +538,8 @@ Catchu! ver - [1080p](https://nyaa.si/view/1709468) / [720p](https://nyaa.si/vie
 5yncri5e! ver -  [1080](https://nyaa.si/view/1716100) / [720](https://nyaa.si/view/1716321)
 
 Liella! 5th LoveLive!～Twinkle Triangle～
-Fukuoka - *Soon(TM)*
-
+Fukuoka D1D2 - [1080P PIA WEBRip](https://nyaa.si/view/1769448)
+  ![](https://files.catbox.moe/c95yx7.gif)
 ####EVENTS/PERFORMANCES/MISC
 Liella! Season 1 Opening and Ending Online Release Event : [WEBRip ==ENGSUB==](https://nyaa.si/view/1611104)
 Liella! Venue101 2022-10-01 - https://nyaa.si/view/1585462

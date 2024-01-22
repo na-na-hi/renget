@@ -72,8 +72,9 @@ If you have no interest in the current banner student(s) use the Regular Recruit
 
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). See below for more.
 >What are good units to roll for?
-Made by /bag/ (also works on JP):
+Made by me (also works on JP):
 ![Reroll targets](https://i.imgur.com/tmi8QuB.png)
+(I like to think my reroll guide is the best one) 
 
 Being farmable means you can unlock the student by farming her node(s) for a long period of time. See [this section](https://rentry.org/how2playba#farmable-units) for more. 
 
@@ -760,6 +761,8 @@ Yes. It's 10 AP daily, an extra source of credits, and it lets you borrow hyper 
 See https://rentry.org/holdingthebag for /bag/ clubs.
 
 No one cares if you don't use the chat or can't lend out "good" students. You're there as a piggybank for the whales to earn some extra credits. 
+**You passively get money from putting up borrows**, so make sure you fill out *all* the slots available.
+![how to add borrows](https://i.imgur.com/hi27dwR.png)
 
 >Do 2x/3x events apply on the first time clear rewards? 
 No. 
@@ -808,6 +811,10 @@ At max cafe you get ~930 AP a day, but with pvp drinks and refreshes I'd guess i
 
 >How do I get a coloured name in my ID? I see accounts that have this. 
 It got patched out. You used to be able to add a hexcode in ur name for it, but the method got patched. The colour stayed. 
+
+>What is Blufes/Bluefes?
+Blue Archive festival, it's the anniversary banner where the 3\* rateup is doubled (3% -> 6%).
+The base chance to roll the gacha unit is still the same (0,7%).
 
 # Resources 
 In case you didn't see it already, [most stuff is inside the bagguides rentry. Use it.](https://rentry.org/bagguides)

@@ -3,6 +3,11 @@
 ***
 Previous: >>
 
+\>Version 2.0 "If One Dreams At Midnight" Special Program live on January 26, 19:30 (CST+8), 11:30 (GMT+0), 7:30 (EDT-4)
+https://www.twitch.tv/honkaistarrail
+https://www.youtube.com/watch?v=WHwBqhMlo3I
+https://www.youtube.com/watch?v=2iRam7fnPrg (JP)
+
 \>Download - https://hsr.hoyoverse.com/en-us/home
 
 \>1.6 Preview Page - https://act.hoyoverse.com/sr/event/e20231215version-92kbcf/index.html

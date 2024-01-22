@@ -67,6 +67,7 @@ https://litter.catbox.moe/37msv2.safetensors tianliang_duohe_fangdongye
 https://files.catbox.moe/ejcbc0.safetensors gud0c the signature is tagged, try putting signature in the negatives to try and keep it at bay
 https://files.catbox.moe/ccz6sl.safetensors mo_(kireinamo)
 https://files.catbox.moe/1dsnon.safetensors konpeto
+https://files.catbox.moe/gnu3ky.safetensors melon22 It's pretty versatile, but to get the true melon look you have to add some helper tags. Try huge breasts, (muscular female:0.5), and neg muscular arms.
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime

@@ -202,6 +202,7 @@ Sasha Azanami: https://archive.4plebs.org/tg/post/91080404/
 Reika Umi: https://archive.4plebs.org/tg/post/91119597/
 Rui: https://archive.4plebs.org/tg/post/91197187/
 Kaori Kaoru: https://archive.4plebs.org/tg/post/91229075/
+Tomie: https://rentry.org/ddom6m82
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -636,7 +637,7 @@ Sandatsu's Hidden Form: https://archive.4plebs.org/tg/post/91082759/
 Sandatsu: https://archive.4plebs.org/tg/post/91082769/
 sandatsu origin: https://archive.4plebs.org/tg/post/91092900/
 Stage team: https://archive.4plebs.org/tg/thread/91101836/#91107742
-Updated Clique Relationship Chart + Moodboard: https://archive.4plebs.org/tg/post/91118077/
+Inigo Moodboard: https://archive.4plebs.org/tg/post/91118077/
 Sandatsu Owari shirtless: https://archive.4plebs.org/tg/thread/91145180/#91147297
 Meme Video of Popsy and Kampai: https://files.catbox.moe/n6fh5b.mp4
 Devil Magic (Inigo, Yui, Orochi, Hifumi, Sandatsu, Kaylee, Sally, Hoge, Chihiro, Chris) ): https://archive.4plebs.org/tg/thread/91159887/#91163283
@@ -991,7 +992,6 @@ A poem for Orochi: https://desuarchive.org/tg/post/91100938/
 Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan): https://rentry.org/oyfco
 Steam: https://rentry.org/rya79
 Mirror's Mentor (Mirror Devil, Smokin' Sexy): https://rentry.org/qycta
-Updated Clique Relationship Chart + Moodboard: https://rentry.org/b6chp
 Sticky Situation 2 (Umi, Yamata): https://rentry.org/2qnet
 The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose): https://rentry.org/the-world-is-yours
 Isekai 3.0?: https://rentry.org/zuq78

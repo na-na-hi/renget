@@ -83,6 +83,8 @@
 #####Shiina
 ######[Full body](https://files.catbox.moe/ltpubc.png)
 ![](https://files.catbox.moe/ltpubc.png)
+######[Pose](https://files.catbox.moe/4vhub6.png)
+![](https://files.catbox.moe/4vhub6.png)
 #####Rie
 ######[Ref sheet](https://files.catbox.moe/a0s1ai.jpg)
 ![](https://files.catbox.moe/a0s1ai.jpg)
