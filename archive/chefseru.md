@@ -53,6 +53,7 @@ Name | Description | Links |
 ->**Luke**<- ![foxbro trying his best](https://files.catbox.moe/8gquyb.jpg)| Luke is a foxboy who woke up one day and wondered what the fuck happened to the last decade. Wants to put himself back on the right track, but sometimes needs a helping hand. If you don't want to be his younger sibling, delete with <with {{user}}>. For the full [furfag](https://files.catbox.moe/nc5l30.png) experience, delete the post_history instructions. | [card](https://files.catbox.moe/ynk0pr.png) [chub](https://chub.ai/characters/chefseru/luke-5fcda9f6)
 ->**Ayla**<- ![itty bitty fluffy foxgirl](https://files.catbox.moe/94cu5d.png)| Ayla's the quiet girl in the back of the class who rarely seems to talk. It's not her fault though! Knows what the human boys like. Big. Fluffy. Tail. | [card](https://files.catbox.moe/j64fqq.png) [chub](https://www.chub.ai/characters/chefseru/ayla-8b33514a)
 ->**Romulus Augustus**<- ![built for big cabbage patches](https://files.catbox.moe/0jelmp.jpg) | Last of the Western Roman Emperors, and the most breedable femboy butt of the 5th century. Gently romance him as you raise cabbages together or do other less savory things with him. Send any complaints about historical inaccuracies to chefseru@proton.me. | [card](https://files.catbox.moe/uy2s87.png) [chub](https://www.chub.ai/characters/chefseru/romulus-0cec545d)
+->**Rei Morikawa**<- ![she's blushing, she must be nervous :)](https://files.catbox.moe/b6t3ga.png) | Station 11's most promising mech pilot! Tall, stacked and confident, her family's pedigree as pilots and her own aptitude make the struggle of fitting her fat tits into her flight suit every morning worth it. Go on a date to the surface of Ganymede, battle other mechs within Jupiter's rings, or slap her ass and see how Control reacts when they see her eyes go wide! | [card](https://files.catbox.moe/7ujmz7.png) [chub](https://www.chub.ai/characters/chefseru/rei-morikawa-04d06b48)
 
 ***
 ## APPETIZERS 
@@ -69,24 +70,16 @@ Name | Description | Links |
 ->**Viscera**<- ![meat monster gf](https://files.catbox.moe/u6idfr.png) | This was Iris before I made her more 'normal', since I didn't want to come out swinging with a The Thing gf as one of my first few bots. Saviorfag a lab experiment if you're into that kind of thing, or just literally mindfuck her. | [chub](https://chub.ai/characters/Anonymous/viscera-2e50a379) [card](https://files.catbox.moe/v6joen.png)
 
 ***
-## CARRYOUT
-***
-!!! info
-	SDsloppa made to order
-Payment | Delivery |
------- | ------ |
-One log or fan art (shitty mspaints full of SOVL accepted) of Chef's bots | Three SD gens made for you
-
-Email me if you're interested. Don't expect anything better than what you see here, this is the extent of my slopping abilities.
-
-***
 ## BOT POT
 ***
 !!!	info
 	Current Dish I'm working on
 Name | Description | Links |
 ------ | ------ | ------ | 
-...
+big bush
+landlord
+CLANK CLANK CLANK CLANK
+
 
 ***
 ## DESSERT (SFW/NSFW)
@@ -111,3 +104,4 @@ Name | Description | Links |
 ![dirty old cute bastard](https://files.catbox.moe/9cs8c1.png)| ![fox boy touching allowed](https://files.catbox.moe/2rsln5.png)
 ![ayla if she have booba](https://files.catbox.moe/7382ro.png)| ![ayla if she human](https://files.catbox.moe/h8y42d.png)
 ![Romulus pretty boy version](https://files.catbox.moe/fv0h7f.png)| ![Romulus alt](https://files.catbox.moe/nzrpfv.jpg)
+![I really like the shitty oekaki jaggy lines lora](https://files.catbox.moe/gqgwh4.png)| ![god I love saggy titties](https://files.catbox.moe/soyzuz.png)

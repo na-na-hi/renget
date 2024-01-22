@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 223rd time, what is Ope?!
+For the 224th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -14,12 +14,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://s.goodsmile.link/gmC
 
 \>Streams
-Next stream (Viscera Cleanup Detail, Sun 01/21 7PM CT)
+Next stream: unspecified (Mon 01/22 7PM CT)
+Last stream (Viscera Cleanup Detail)
 https://www.youtube.com/watch?v=biTtjkmDJ6g
-Last stream (members-only zatsudan & ASMR)
+Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
-Previous karaoke (Advent karaoke relay)
-\>>67114126 https://mega.nz/folder/Oew3ETzJ#wNFjvn1M-0SlRRCBO4AZKQ
 
 \>New covers
 Cover of Nakashima Mika - Yuki no Hana: https://www.youtube.com/watch?v=SPWsptIhKkM
@@ -35,8 +34,8 @@ Cover of SOS (Fuyuko Mayuzumi's Image Song)
 https://www.youtube.com/watch?v=uwwK82MIxIY
 Cover of MOKA★ - Lilium
 https://www.youtube.com/watch?v=-GUdYPelG8c
-Unarchived offcolab karaoke with Kiara (Jan 2024)
-https://mega.nz/folder/nG4iHSID#TaecwQ8wQc-u7hQANIXTpg
+Unarchived Advent karaoke relay (Jan 2024)
+https://mega.nz/folder/Oew3ETzJ#wNFjvn1M-0SlRRCBO4AZKQ
 Songs & Karaokes rentry
 https://rentry.org/karaokes_songs_v01
 Cover playlist
@@ -47,7 +46,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67180374
+Previous thread: >>67249432
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

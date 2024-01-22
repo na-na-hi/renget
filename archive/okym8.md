@@ -2,6 +2,8 @@
 
 
 [TOC2]
+### Jan.
+A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C): https://rentry.org/iyfm2
 
 ### Feb.
 [PRE] Prospective Students, Enter! (Sunlight Man, most Shiketsu builds): https://pastebin.com/CitPaGbq
@@ -168,6 +170,27 @@
 ### Oct.
 [SOL] The Aquarium Date Episode (Ryu-kishi, Maru(maru), Challenger, Sunlight Man, Spark, Recoil, Archangel, Last Rite, The Doctor, Becky, Emilia - mentions of Rosethorn, Mirror Devil, Marrow, Mahoudeva): https://rentry.org/t97vwn
 [SOL] A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca): https://rentry.org/6t4giv
+The Other Side - A (108 Gang, Cameo of Orochi): https://rentry.org/6uvv5
+The Other Side - B (Arena, Orbit, cameo of Yamata, 108): https://rentry.org/w8hvp
+The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang): https://rentry.org/pe93w
+The Other Side - C Part 2 (Arena, Orbit, Yamata): https://rentry.org/5oanb
+"Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique): https://rentry.org/avuzhy6i
+
+### Nov.
+Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people): https://rentry.org/oeyupk
+Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy): https://rentry.org/acnw3
+Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko): https://rentry.org/PopsyB
+Trust Fall (Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver): https://rentry.org/z7w7e
+
+### Dec.
+Merry Christmas! (Drone, Mirror Devil, Ryu-kishi): https://rentry.org/7vr2zf
+A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut): https://rentry.org/hwiz8
+
+### Jan.
+The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose): https://rentry.org/the-world-is-yours
+Reaper Rising (Reaper, Drekus, Overdose): https://rentry.org/reaper-rising
+The Fushimi Ward Incident (Reaper, Forget-Me-Not, Bakeneneko, Aspara, Hijack, Saurus): https://rentry.org/z3vti4m7
+
 ***
 ### Story Arc Search Codes
 Search Code | Arc description

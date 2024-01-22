@@ -40,7 +40,7 @@ Character | C.AI
 ![Rebecca](https://characterai.io/i/80/static/avatars/uploaded/2023/1/22/jUFovOI4lB9h3qOfI8BNjhQVDhkFdii74skNW2sy7jk.webp) | [Rebecca](https://c.ai/c/6Rh51uRdgPNHw6hzYrBKSG52SaP1EuNui07cvEe9Epw) - The Blazing Blade
 ![Athena](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/z38F82riTDC0J2qVzd4_8j9ClSjjBLMWO9KOST4Oaio.webp) | [Athena](https://c.ai/c/pN6a5_sCGQB6Cro0ZSKKddXKClmwd0GawGBCRqSXH5U) - Shadow Dragon
 ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) | [Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI) - Fates
- ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) | [Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) - Fates: Birthright
+ ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) | [Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) - Fates: Birthright ->(*[Yodayo](https://yodayo.com/tavern/characters/d7ca76b0-5795-4915-bf24-027a91a36b55/)*)<-
 ![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) - Fates: Conquest
 ![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) | [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) - Heroes
 

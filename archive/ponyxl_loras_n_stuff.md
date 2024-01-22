@@ -3,7 +3,7 @@
 https://civitai.com/models/257749?modelVersionId=290640
 
 ##List of Ponyxl LoRAs from /h/
-I made a powershell script to try and pull down the LoRAs on this rentry, it will store the last downloaded url for a lora in a history file in case a new or improved one replaces it so you can reuse the script without downloading everything again. You call the script and pass in a destination folder to store the LoRAs. Obviously run at your own risk, I can't prove to you I'm not an asshole or terrible programmer. You'll probably get throttled if you download everything in one go so run it overnight or something. Some of these LoRAs are huge, the whole folder with them all downloaded is 5.8 gb. 
+I made a powershell script to try and pull down the LoRAs on this rentry, it will store the last downloaded url for a lora in a history file in case a new or improved one replaces it so you can reuse the script without downloading everything again. You call the script and pass in a destination folder to store the LoRAs. Obviously run at your own risk, I can't prove to you I'm not an asshole or terrible programmer. You'll probably get throttled if you download everything in one go so run it overnight or something. Some of these LoRAs are huge, the whole folder with them all downloaded is ~6 gb. 
 
 UPDATE 1/21/2024 I added a basic management interface so it doesn't just pull down everything. You can pick and choose which loras you want.
 
@@ -65,9 +65,17 @@ https://litter.catbox.moe/2pzrzq.safetensors Tsubasa_tsubasa
 https://files.catbox.moe/g42ahp.safetensors tenk
 https://litter.catbox.moe/37msv2.safetensors tianliang_duohe_fangdongye
 https://files.catbox.moe/ejcbc0.safetensors gud0c the signature is tagged, try putting signature in the negatives to try and keep it at bay
+https://files.catbox.moe/ccz6sl.safetensors mo_(kireinamo)
+https://files.catbox.moe/1dsnon.safetensors konpeto
+
+These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
+https://files.catbox.moe/jtgi98.safetensors kezime
+https://files.catbox.moe/pr6abi.safetensors menma
+https://files.catbox.moe/3exvuz.safetensors nullmeta
+https://files.catbox.moe/mlziu8.safetensors Megami_Magazine
 
 These will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload
-https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM menma
+https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime 
 https://files.catbox.moe/b4wk0u.zip Megami_Magazine flat anime style

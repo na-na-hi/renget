@@ -7,11 +7,11 @@
 https://store.steampowered.com/app/1716740/Starfield/
 
 \>>>News<<<
+\>18/01: Beta patch out now!
+\>20/11: Patch 4 - https://steamdb.info/patchnotes/12752943/
 \>09/10: Patch 3 - https://steamdb.info/patchnotes/12356809/
 \>25/09: Patch 2 - https://steamdb.info/patchnotes/12212450/
 \>13/09: First hotfix released, more features teased and mod support in early 2024 - https://steamdb.info/patchnotes/12128396/
-\>06/09: Full release!
-\>03/09: Starfield Script Extender is out - https://www.nexusmods.com/starfield/mods/106
 **[Update when appropriate - insert new items at the top and use DD/MM]**
 
 \>>>Resources<<<
@@ -26,6 +26,8 @@ https://store.steampowered.com/app/1716740/Starfield/
 \>A: Restarts the game with minor changes to the story and world, while preserving your powers and skills. The extent of the game past the first NG+ is currently unknown.
 
 \>>>Misc<<<
+\>/stag/ modlist: https://rentry.org/stag_mods
+\>Artbook rips: https://mega.nz/file/TlJSBTwB#GhmrZRoHDAhhei__Bz2zc6GisgB67_vONrAfYQR8lK0
 \>Potential upcoming mods leaked by scraping Nexus: https://rentry.org/stag_leakedmods
 \>Character builder: https://nukesdragons.com/starfield/character
 \>Threadly space music: **[Link to some space-related music]**

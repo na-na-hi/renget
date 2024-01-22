@@ -1336,3 +1336,314 @@ Israel is in a complex and low diplomatic situation. 100 days of fighting agains
 Americans should know that there is no value to any words or commitment from Netanyahu; he is a man without a word. Even his natural allies call him a liar and the son of a liar.
 
 https://nitter.net/AryJeay/status/1748863308281553326#m  1/20/24
+
+>⚡️Al-Qassam (Hamas) published a video showing the recovery of a Skylark drone that was seized during its intelligence mission, east of the Jabalia Al-Balad area, north of the Gaza Strip.
+https://nitter.net/AryJeay/status/1749024600220897669#m  1/21/24
+https://files.catbox.moe/8asfn1.mp4  1/21/24
+
+>⚡️MUST WATCH: Al-Quds (PIJ) published a video showing their forces blow up IOF army vehicle(s) in an elaborate ambush east of Gaza City.
+
+Footage shows the total evaporation of a military D9-bulldozer. 
+
+Arabic texts into english:
+
+“One of the Mujahideen carried out an engineering reconnaissance mission in conjunction with the movement of enemy vehicles”
+
+“Preparing an engineering ambush in conjunction with the positioning of enemy vehicles, east of the Gaza District”
+
+“Explosion after an engineering ambush in the position of enemy vehicles”
+
+“An attack helicopter enters to provide a fire umbrella for enemy forces after detonating the ambush”
+https://nitter.net/AryJeay/status/1749011249784856779#m  1/21/24
+https://files.catbox.moe/njxux4.mp4  1/21/24
+
+>According to preliminary reports, 2 were injured in this attack against a vehicle in Kafr, South Lebanon, near a army checkpoint.
+https://nitter.net/AryJeay/status/1749037814715428944#m  1/21/24
+
+>BREAKING| The Ministry of Health: Israel committed 17 massacres in the last 24 hours, killing 178 civilians and wounding 293 others. 
+
+This brings the death toll since October 7 to 25,105 and the injuries to 62681.  
+
+(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1748991487289790661#m  1/21/24
+
+>⚡️The Washington Post :
+
+The U.S. is now crafting plans for a sustained military campaign targeting the Houthis in Yemen.
+
+U.S. officials believe the operation won’t bog down the military for years like in Afghanistan, but that a sustained bombing campaign will be needed
+https://nitter.net/ME_Observer_/status/1749023770868654587#m  1/21/24
+
+>Displaced Gaza women resort to unsafe measures amidst severe shortage of period products
+https://nitter.1d4.us/QudsNen/status/1749012882736452054#m  1/21/24
+
+>🚨Israel drone striked & targeted a car in a village (Kafra) near Bint Jbeil in southern Lebanon.
+https://nitter.net/AryJeay/status/1749035152531996787#m  1/21/24
+
+The initial toll so far increased to 5 injuries, including one seriously wounded in Kafar, South Lebanon.
+https://nitter.net/AryJeay/status/1749041277880910156#m  1/21/24
+
+>🛑| 🇮🇶BREAKING: Islamic Resistance in Iraq announces:
+
+Attacking a military target in the occupied Golan Heights, yesterday (Saturday), with suicide drones.
+https://nitter.net/AryJeay/status/1749055718009848019#m  1/21/24
+
+>Journalist Hisham Zaqqout reports that most medical aid, sent into Gaza, consists of COVID-19 kits, which the healthcare system in Gaza does not need. 
+
+The Ministry of Health said today that 70% of the medical aid that entered the Gaza Strip "is beyond the scope of our basic needs."
+
+(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1749042145678197215#m  1/21/24
+
+>BREAKING| Israeli forces withdraw from southern Khan Yunis in Gaza after exhuming several cemeteries in the area.
+https://nitter.1d4.us/QudsNen/status/1748994738076700675#m  1/21/24
+
+As Israel continues to ban humanitarian aid from entry into northern Gaza, citizens started to make bread out of animal feed.
+
+>The Biden administration has recently said they "don't believe a ceasefire is gonna benefit anybody but Hamas."
+https://nitter.1d4.us/QudsNen/status/1748998665706861040#m  1/21/24
+
+>According to the Commission of Detainees’ Affairs and the Palestinian Society Prisoner’s Club, Israel's military kidnapped 15 citizens in the West Bank last night, bringing the number of those kidnapped since October 7 to 6170. 
+
+>(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1749021616175038812#m  1/21/24
+
+>NEW:
+
+🇮🇱Israeli Yedioth Ahronoth newspaper:
+
+"🇸🇦Saudi Arabia and 🇯🇴Jordan are helping Israel by breaking the Houthi siege"
+
+"Saudi Arabia and Jordan are helping Israel by breaking the Houthi siege on Israeli ships in the Red Sea.
+
+Instead of circling Africa and reaching Israel via a long and expensive route, Israeli shipping companies unload their cargo at the ports of Bahrain and Dubai, then transport Saudi and Jordanian trucks. Goods to Israel."
+https://t.me/megatron_ron/1259  1/21/24
+
+>BREAKING:
+
+⚡ 🇾🇪 Parliament of Yemen officially declares US and UK governments as "global terrorist" networks under law
+https://t.me/megatron_ron/1260  1/21/24
+
+>☠️ The israeli army admits to the elimination of an officer in the southern Gaza Strip:
+
+🔻Sgt. First Class (res.) Uriel Aviad Silberman, 23, of the Kiryati Brigade's 7421st Battalion.
+
+Another officer & soldier of the same battalion were seriously injured in the same battle.
+https://nitter.net/AryJeay/status/1749029648619467083#m  1/21/24
+
+>Eli Escusido, the director of the Israeli Antiquities Authority shares a video documenting the theft of archaeological artifacts from Gaza.
+https://nitter.1d4.us/QudsNen/status/1749062878236188933#m  1/21/24
+https://files.catbox.moe/nvc5aw.mp4  1/21/24
+
+>⚡️ Reuters, according to security sources: Two dead and a number of injured in an #Israeli drone attack on a car in southern #Lebanon
+
+⚡️Hebrew Channel 13:
+
+Netanyahu left the government session to conduct security consultations with the Chief of Staff and the army leadership, apparently due to an assassination in southern #Lebanon.
+https://nitter.net/ME_Observer_/status/1749064134421893589#m  1/21/24
+
+>NEW:
+
+⚡ 🇺🇸 67% of Americans aged 18-24 think Jews are oppressors.
+https://t.me/megatron_ron/1262  1/21/24
+
+>Everyone knows damn well the IOF blew up the university campus in Gaza on purpose to damage the literacy & education of Gazans in the long run. They don’t need approvals, that’s just a hollywood act.
+https://nitter.net/AryJeay/status/1749068175252021328#m  1/21/24
+
+⚡️The Ministry of Endowments in #Gaza revealed that the occupation destroyed 1,000 mosques out of 1,200 throughout the Strip.
+https://nitter.net/ME_Observer_/status/1749068847900926453#m  1/21/24
+
+>⚡️#Iraq: Official of the security office in the #Hezbollah Brigades Iraq: 
+
+The brotherhood in the Islamic resistance will continue to destroy enemy strongholds until the goals are achieved
+https://nitter.net/ME_Observer_/status/1749075492169281743#m  1/21/24
+
+>🛑| Al-Qassam (Hamas)
+
+Targeted a Merkava tank with an Al-Yassin 105 rocket, east of the Jabalia Al-Balad area, north of the Gaza Strip.
+https://nitter.net/AryJeay/status/1749078690313490720#m  1/21/24
+
+ >🇸🇦🇯🇴🇮🇱🇦🇪🇧🇭
+
+This is how Saudi Arabia, Jordan, UAE and Bahrain help break the blockade imposed on ships bound for Israel through the Red Sea.
+
+Ships unload their cargo in Dubai and Bahrain, and then Arab trucks take the cargo to the Israeli crossing.
+
+This is the reason why the Houthis are preparing to close all three waterways.
+https://t.me/megatron_ron/1265  1/21/24
+
+>Hamas publishes a memorandum entitled: "This is our Narrative.. why the Al-Aqsa Flood."
+can you add this to the general next time fren?
+https://files.catbox.moe/zlt9ld.pdf  1/21/24
+
+>⚡️WATCH: Al-Quds (PIJ) published a video showing the recovery of the EVO Max 4T quadcopter drone, which was seized in the center of the Gaza Strip.
+https://nitter.net/AryJeay/status/1749085300880503196#m  1/21/24
+https://files.catbox.moe/e5k5nw.mp4  1/21/24
+
+>🚨 New resistance member on the rise: The birth of Kurdistan’s Hezbollah.
+
+If it happends, the effectiveness of this will be shown within a few years, and it will greatly strengthen the resistance’s position in Kurdish regions and suppress israeli-funded seperatist groups.
+https://nitter.net/AryJeay/status/1749087577284530659#m  1/21/24
+
+>While we are on the subject, let’s end this controversial topic that all Kurds are the same, they are not. 
+
+We have many good Kurdish people as well, you just don’t hear about them because they don’t scream it like the separatist groups do. As a matter of fact, Iran’s navy chief is an Iranian Kurd (and a Sunni).
+
+Meet: Admiral Shahram Irani
+https://nitter.net/AryJeay/status/1749099598692376790#m  1/21/24
+
+>The IOF announced that this terrorist, initially believed to have been captured in the October 7th ambush, is now declared dead by the IOF, with his body reportedly held by the Gaza resistance.
+
+Of course, given israel's track record of deceit, it's possible they killed him through airstrikes.
+https://nitter.net/AryJeay/status/1749107542884511971#m  1/21/24
+
+>🛑| Al-Quds Brigades (PIJ)
+
+Snipe 2 Zionist soldiers in the Al-Ajla area northeast of Al-Bureij Camp, killing them instantly.
+https://nitter.net/AryJeay/status/1749111875898368226#m  1/21/24
+
+>Media coverage | Reuters: "Passenger movement to and from Israel through Ben Gurion Airport dropped by 78% in November and 71% in December."
+https://nitter.net/QudsNen/status/1749092879786512857#m  1/21/24
+
+>CARE International raises concerns about severe effects on pregnant women in Gaza due to the deteriorating health system.
+https://nitter.net/QudsNen/status/1749114194505478225#m  1/21/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing its forces target IOF soldiers, military vehicles, and buildings in which IOF forces are holed up, on the outskirts of Gaza City.
+
+Many Yassin-105 hits 🔻
+https://nitter.net/AryJeay/status/1749118507390812488#m  1/21/24
+https://files.catbox.moe/kqx0vs.mp4  1/21/24
+
+>⚡️Al Mayadeen:
+
+The #Yemeni SABA news agency reported that #SaudiArabia launched artillery strikes on northern Yemen, namely the district of Baqim despite all the parties to the war committing to UN-led peace efforts back in December.
+https://nitter.net/ME_Observer_/status/1749120861104157106#m  1/21/24
+
+>⚡️#Syria: Al-Mayadeen correspondent: Targeting the Green Village, which contains the housing of American forces, at the base of the Al-Omar oil field in the countryside of Deir ez-Zor.
+
+>⚡️#Syria: Al-Mayadeen correspondent: Sounds of explosions were heard inside the American base in the city of Al-Shaddadi, south of Al-Hasakah Governorate
+https://nitter.net/ME_Observer_/status/1749124145311285448#m  1/21/24
+
+>⚡️#YEMEN - It's the first time in history that a naval blockade is imposed without the use of a navy :
+https://nitter.net/ME_Observer_/status/1749127196319375640#m  1/21/24
+
+>⚡️ #Yemen - Since the beginning of developments in the #Red_Sea, up to 64 ships that declared they had no relationship with #Israel have crossed the #Yemeni coast safely.
+
+>Battle_of_the_promised_conquest_and_holy_jihad
+https://nitter.net/ME_Observer_/status/1749130006616285262#m  1/21/24
+
+>After Israeli Prime Minister Benjamin Netanyahu reiterated his rejection of the idea of establishing a Palestinian state, the European Union urges its members to impose consequences on Israel.
+https://nitter.net/QudsNen/status/1749139663896404356#m  1/21/24
+
+>BREAKING:
+ 🇮🇱 Netanyahu rejected all offers for a ceasefire and a Palestinian state
+https://t.me/megatron_ron/1266  1/21/24
+
+>Gaza must be demilitarized, under full security control of the State of Israel. I will not compromise on full Israeli security control over all the territory west of Jordan.
+https://t.me/megatron_ron/1267  1/21/24
+
+>⚡️| 🇮🇶 Islamic Resistance in Iraq published a video showing the launch of a suicide drone towards the occupied Golan Heights.
+https://nitter.net/AryJeay/status/1749147386725703871#m  1/21/24
+https://files.catbox.moe/qsccty.mp4  1/21/24
+
+>🛑 An Iran army soldier (Artesh) in Kerman started shooting at his comrades & 5 soldiers were killed. He ran away after the shooting. The motivation is not yet clear…
+https://nitter.net/AryJeay/status/1749150408319066360#m  1/21/24
+
+>The Israeli forces have destroyed a thousand mosques and dozens of cemeteries in the Gaza Strip during their ongoing war since October 7th of last year.
+https://nitter.net/QudsNen/status/1749149502953418974#m  1/21/24
+
+>🛑 UNCONFIRMED: According to a private source, the assassination of IRGC members in Syria was planned by French intelligence services inside the israeli war room.
+
+Unconfirmed because it’s a private source and not officially acknowledged.
+https://nitter.net/AryJeay/status/1749154128935219353#m  1/21/24
+
+>⚡️#Lebanon: Al-Manar correspondent:
+
+Hostile artillery shelling targets the outskirts of the towns of Tair Harfa, Al-Jebeen, Al-Dhahira, Alma Al-Shaab, and Naqoura, in conjunction with the firing of machine-gun shells towards the marine area at Ras #Naqoura.
+https://nitter.net/ME_Observer_/status/1749175476554170704#m  1/21/24
+
+>large number of ships arriving from other countries are parked at the entrance to the Red Sea.
+They establish contact with the port of Hodeidah. Waiting for permission to cross the Red Sea!
+https://nitter.net/Sprinter99800/status/1749191667884704199#m  1/21/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 21 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Merkava tank with a Yassin 105 rocket, east of Jabalia Al-Balad area, northern Gaza.
+
+🔻Shelled military concentrations, east of Tuffah and Daraj neighborhoods with mortars, causing direct injuries among IOF soldiers.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Seized an IOF reconnaissance quadcopter drone "EVO Max 4T" while it was performing its intelligence tasks in the skies over central Gaza.
+
+🔻Shelled IOF soldiers and vehicles with 107mm rockets and mortars, in the axes north and east of Al-Bureij refugee camp in central Gaza.
+
+🔻Shelled the military site and headquarters of "Sufa" with several mortars.
+
+🔻Jointly shelled the military Sufa site with Al-Qassam Brigades using a barrage of mortars.
+ 
+🔻Sniped 2 israeli soldiers in the Al-Ajla area, northeast of Al-Bureij camp, resulting in their immediate death.
+
+🔻Targeted a Merkava tank with a Tandem rockets, east of Khan Yunis.
+
+🔻Shelled military concentrations, east and central Khan Yunis with regular 60mm mortars.
+
+— 🇵🇸 Al-Mujahideen Brigades:
+
+🔻Shelled military vehicles and soldiers' gatherings, east of Gaza City, with heavy-caliber mortars.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻In a joint-operation with the Mujahideen Brigades, they targeted the Nahal Oz military site with a concentrated rocket barrage.
+
+🔻Destroyed a military vehicle with a Tandem rocket, on the axis of central Khan Yunis.
+
+🟡 Hezbollah:
+
+🔻Targeted the Branit barracks with rockets, causing a direct hit.
+
+🔻Targeted the Ruwaysat Al-Qarn IOF site in the occupied Shabaa Farms with rockets, achieving a direct hit.
+
+🔻Targeted the Haddab Al-Bustan site with an IRAM Burkan rocket, resulting in a direct hit.
+
+🔻Targeted the Avivim settlement with rockets, causing damage to a house and casualties.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Launched a drone attack against a military target in the occupied Golan Heights.
+
+🔻Attacked 2 US bases, at the same time, in the Al-Omar and Al-Shaddadi fields in Syria, using suicide drones. 
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1749193622203912696#m  1/21/24
+
+>⚡️CENTCOM Status Update on Missing U.S. Navy Seals :
+
+We regret to announce that after a 10-day exhaustive search, our two missing U.S. Navy SEALs have not been located and their status has been changed to deceased.
+https://nitter.net/ME_Observer_/status/1749206278931386589#m  1/21/24
+
+>⚡️#Lebanon: Islamic Resistance:
+
+ Targeting an #Israeli force near the Zarait barracks, which was preparing to carry out an aggression inside Lebanese territory.
+https://nitter.net/ME_Observer_/status/1749208026009993516#m  1/21/24
+
+>BREAKING| Israeli vehicles are advancing into Khan Yunis under intensive airstrikes and surround Al Aqsa University, where thousands of civilians take refuge.
+https://nitter.net/QudsNen/status/1749208604278718489#m  1/21/24
+
+>🛑 A few minutes ago, the conscript soldier from Artesh (army) who killed 5 of his comrades this evening in Kerman, has been arrested.
+
+The motive of his actions will be revealed once his interrogations are finalised.
+https://nitter.net/AryJeay/status/1749224240740512184#m  1/21/24
+
+>NEW:
+🇮🇱 The Israeli Ministry of Economy has released interesting figures:
+
+Tourism in Israel has plummeted by 70-75% since the 7th of October, 7% of the Israeli population is internally displaced, and 14% of dual-citizens have left the country.
+https://t.me/megatron_ron/1274  1/21/24
+
+>🟡| Hezbollah foiled a ground assault:
+
+Hezbollah announced that its fighters targeted an israeli force preparing for an aggression within Lebanese territory at midnight, Hezbollah shelled the vicinity of Zara’it barracks with rockets. This resulted in confirmed injuries.
+https://nitter.net/AryJeay/status/1749226398898606385#m  1/21/24

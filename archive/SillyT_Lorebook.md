@@ -19,6 +19,7 @@ Think of them as long term memory for the AI; things that it could recall, but i
 
 Lorebook entries can be used for any new thing that you want to closely define, rather than have the AI generate on its own. But keep in mind AI can generate a lot... for example, do you really need to closely define a "Restaurant?" Or a "Club?" If the setting is really important, then perhaps. If not, it might be better to let the AI fill in the blanks... it's really good at doing that. Random stranger? AI can generate that on the fly. Need the new NPC to be defined? Use a card. 
 
+
 ###Entries
 **TLDR: *Entries are called by a word, and have a short definition attached.* **
 

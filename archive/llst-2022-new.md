@@ -50,11 +50,13 @@ Previous: *>>694201488 (# of previous thread)*
 
 **Love Live! Fansites and Communities**
 [LLFans (JP)](https://ll-fans.jp/)
-[r/LoveLive](https://www.reddit.com/r/LoveLive/?f=flair_name%3A%22Seiyuu%22) (⚠**Warning: cancer**)
-[LL community Blog (ES)](https://lovelive-es.blogspot.com/p/home.html)
 [Nijigasaki Community Twitter](https://twitter.com/niji_fans_para)
 [idol.st](https://idol.st/) (⚠**Warning: cancer**)
-↳ [idol.st seiyuu list](https://idol.st/voiceactresses/) (⚠**Warning: includes supporting seiyuu**) 
+[r/LoveLive](https://www.reddit.com/r/LoveLive/?f=flair_name%3A%22Seiyuu%22) (⚠**Warning: cancer**)
+
+Fansub / VOD / Video sites: 
+[LL community Blog (ES)](https://lovelive-es.blogspot.com/p/home.html)
+[onibe.moe](https://onibe.moe/)
 
 **Ideal Websites**
 [Picuki | Insta Viewer](https://picuki.com)
@@ -124,6 +126,8 @@ https://rentry.org/llst-2021-02-bkup
 ##Changelog:
 ==2024.01.21==
 - went around and changed a lot of things. That's it 
+	- video link section should be more organized now
+	- added links for the new Nijigasaki lives
 
 ==2024.01.03==
 - changed some seiyuu information
@@ -296,6 +300,7 @@ https://nyaa.si/view/648058
 
 µ's New Year Love Live! 2013 
 https://nyaa.si/view/477428
+==EngSub== - [link](http://www.mediafire.com/download/ek3l18kmxu7dhv1/Love+Live+New+Year+Live+2013.zip) | [mirror](https://files.catbox.moe/rwp5y4.zip)
 
 µ's 3rd Anniversary 
 https://nyaa.si/view/508017

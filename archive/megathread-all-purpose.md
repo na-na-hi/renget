@@ -57,7 +57,7 @@
 
 # 📑 ➜ Torrents
 
-### 🧲 [1337x](https://1337x.to/) / [2](https://1337x.to/about)
+### 🧲 [1337x](https://1337x.to/) / [2](https://1337x-status.org/)
 - Home to some of the most well-known repackers and crackers as well as a vast collection of torrent files.
 - [URL Safety Results](https://www.urlvoid.com/scan/1337x.to/)
 

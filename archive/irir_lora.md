@@ -309,6 +309,8 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 この画像から、次のタグを削除する。するとそれらのタグが`kayoko (blue archive)`に集約される。
 `white_hair,horns,black_hair,halo,red_eyes,ponytail,two-tone_hair,bangs,long_hair,hair_between_eyes,wings,sidelocks,blush,multicolored_hair,halo`
 
+Animagine XL 3.0が推奨する並びにするかは任意。従来通りの`トリガーワード, その他`でもなんの問題もない。
+
 ### 構図・シチュエーション
 Additional Tagsで先頭に構図・シチュエーション名を追加する。Keep tokenは1。
 #### 消すべきタグ
@@ -324,7 +326,7 @@ Additional Tagsで先頭に構図・シチュエーション名を追加する�
 キャラなどを覚えるわけではないのでkeep tokenは0。なおShuffle captionは有効。
 Optimizerは余計な物まで学習することが少ないAdamW系でいいと思う。
 #### 消すべきタグ
-無し。すべてそのままでいい。
+無し。すべてそのままでいい。キャラ名は消してもいいかも
 
 
 ### オブジェクト(持ち物)
@@ -434,8 +436,7 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 ***
 
 ## SDXL
-学習はすべてunet_only,cache_latent,cache_textencoderオンで実行。~~TEが二つあるせいでTE込みの学習が激ムズらしい。~~ 実際はそうでもない
-マルゼン式(タグの集約)もSD1.5と同様に機能する。
+学習はすべてunet_only,cache_latent,cache_textencoderオンで実行。
 
 ### 学習に使うウェイト
 四つのcheckpointで比較する。
@@ -499,7 +500,6 @@ unet only | masterpiece, 1girl, solo, mika \(blue archive\), pink hair, yellow e
 
 TE込みは難しいらしいが実際はそうでもなかった。
 Unet onlyはプロンプトの応答性と品質がやや低下するように感じる。
-VRAM12GB以上のGPUがあるならTE込みで回したほうがよさそう。
 
 ちなみに、ヘイローの精度が高くないのはLoRAの限界かも。下の画像を見ればわかるけどLoRA未使用の素のAnimagine-XL 3.0のほうが明らかに良い。
  Image  | Dummy
@@ -509,8 +509,7 @@ VRAM12GB以上のGPUがあるならTE込みで回したほうがよさそう。
 
 
 ### SDXLのPCスペック
-余裕はないが推論・学習(unet_only有効)ともにVRAM8GBでできる。TE込みのSDXL LoRA回すなら最低でも3060(12GB)、できれば4060Ti(16GB)、4070 Ti SUPER、4090がよさそう。
-TE込みだとVRAM8GBでは絶対にあふれて1step44秒、5000stepsで二日半かかる。待てないことはないけど・・・まあ厳しいっすねw
+余裕はないが推論・学習(fp8_base有効)ともにVRAM8GBでできるが、CUDAコアのパワーが欲しくなるので4070以上がいい。
 メインメモリはとんでもない消費量。16GBでは不足する。32GB以上必要。
 生成はComfyUIかFooocusがAUTOMATIC1111より省メモリで良い。Fooocusは最低4GBのVARMと8GBのRAMでできるらしい。
 
@@ -618,6 +617,6 @@ SDXLは高性能なため16以下で良い。
 - networks.lora
 - 4000-6000steps,Dim8/Alphaはdimの4分の1
 - OptimizerはDAdaptation系(LR=1)
-- キャプションはそのままでもいいし、身体的特徴を消して1タグにまとめてもいい
+- キャプションはそのままでもいいし、身体的特徴を消して1タグにまとめてもいい。Animagine推奨の並びにしなくてもいい
 - full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!(--mixed_precisionではない)
-- gradient_checkpointingオンでもVRAMあふれる状況ならオフにしたほうが速い
+- fp8_baseを使えば8GBでTEとConv込みで学習可

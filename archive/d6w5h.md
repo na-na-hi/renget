@@ -9,7 +9,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 **Species:** Skitty | **Affiliation:** Team Stardust
 **Level:** 10 | **Experience to Next Level:** 60/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1346₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1280₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -89,7 +89,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Sky Gummi | Sky Gummi.
+1. Empty | Empty.
 2. Empty | Empty.
 
 **RP/QUEST STORAGE (∞ slots)**

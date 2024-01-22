@@ -1061,6 +1061,8 @@ https://files.catbox.moe/xgg0y0.mp4 New 1/18/24
 https://files.catbox.moe/42qtm3.mp4 New  1/19/24
 >Al-Qassam target military vehicles penetrating into the Al-Jabari site, east of Jabalia, in the northern Gaza Strip, with Yassin-105s.
 https://files.catbox.moe/aih83k.mp4 New  1/20/24
+>Hamas forces target IOF soldiers, military vehicles, and buildings in which IOF forces are holed up, on the outskirts of Gaza City.
+https://files.catbox.moe/kqx0vs.mp4 New  1/21/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1107,6 +1109,8 @@ https://files.catbox.moe/pyg13d.mp4 New  1/12/24
 https://files.catbox.moe/9w28wq.mp4 New  1/13/24
 >Al-Quds Brigades (PIJ) published a new video showing its forces target military vehicles on the front lines in the northern Gaza Strip.
 https://files.catbox.moe/d4o0mp.mp4 New  1/17/24
+>Al-Quds (PIJ) published a video showing their forces blow up IOF army vehicle(s) in an elaborate ambush east of Gaza City.
+https://files.catbox.moe/njxux4.mp4  1/21/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1332,3 +1336,9 @@ https://youtu.be/XdNOHycsdRk New  1/20/24
 https://youtu.be/Z42HhaywhGQ New  1/20/24
 >Palestinian freedom fighter interview 
 https://youtu.be/mSS51ZVhcA0 New  1/20/24
+>Al-Qassam (Hamas) published a video showing the recovery of a Skylark drone that was seized during its intelligence mission, east of the Jabalia Al-Balad area, north of the Gaza Strip.
+https://files.catbox.moe/8asfn1.mp4 New  1/21/24
+>WATCH: Al-Quds (PIJ) published a video showing the recovery of the EVO Max 4T quadcopter drone, which was seized in the center of the Gaza Strip.
+https://files.catbox.moe/e5k5nw.mp4 New  1/21/24
+>|Islamic Resistance in Iraq published a video showing the launch of a suicide drone towards the occupied Golan Heights.
+https://files.catbox.moe/qsccty.mp4 New  1/21/24

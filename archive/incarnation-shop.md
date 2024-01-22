@@ -35,6 +35,10 @@ Consumable. Clears you of mind-altering effects induced by <Authorities>. Howeve
 >Nectar: 200
 Consumable: Restores your divinity to max
 
+>Authority Grinder: 200
+
+Allows you to trade an authority you currently possess for an appropriate amount of influence. However, this item is consumed upon use, and its costs are not included in the total you receive.
+
 >Ambrosia: 300
 Consumable. Increases your maximum divinity by ten. Can only be used a number of times equal to your current level (a level two incarnation could eat ambrosia twice, and then eat it one more time after leveling up.)
 
@@ -50,6 +54,14 @@ Can store an authority from level 1-3. Any incarnation, not just the original ow
 >Pantheon Compass: 300
 Points towards the nearest member of your pantheon who also possesses a Pantheon Compass
 
+>Asclepius’s Gift: 400
+
+Revives the holder upon death, provided that at least 70% of the body is intact. If this item is used, your killer will not gain subjugation rewards. Once this item is consumed, 24 hours must pass before another is.
+
+>Divine Weapon ticket (medium): 500
+
+Grants an uncommon relic of a type of your choosing. 10% chance of providing a rare weapon instead.
+
 >Trapper: 500
 Cancels the usage of a <Lizard’s Tail>. Disappears upon use.
 
@@ -62,6 +74,14 @@ Provides a random Divine Weapon. There is a 20% that the item has a <dud> effect
 >Stygian Pact 600: 
 Can create a promise between two people that cannot be dissolved on penalty of death
 
+>Authority Crystal (medium): 600
+
+Can store authorities up to a maximum level of 6.
+
+>Reliquary’s Drop of Chaos: 600
+
+Provides a random Divine Relic. There is a 20% that the item has a <dud> effect, regardless of rank
+
 >Detective's Compass 650: 
 Points to another incarnation, provided you know both their divine and pre-deification identity
 
@@ -70,6 +90,10 @@ Allows you to see incarnations with <Hunt Tickets> without them being able to se
 
 >Epithet Holder: 2,000
 Holds up to one of the <Myths> stored as an epithet. Can be sold for both the price of the holder and an amount of influence proportional to the god rank of the epithet. Epithets at a synchronization rate of 100% cannot be placed in an epithet holder. Alternatively, can be used to transfer the epithet to another incarnation or <Deify> a willing mortal. Mortals deified in this way will not grant any influence or authorities upon being eliminated.
+
+>Temple’s Altar: 5,000
+
+Can be placed in any building with the informed consent of the owner, sanctifying it as your <Temple>. Once placed, any individual who dwells or sets foot in the building must recognize that they are doing so. Each <Visitor> provides 1 influence, while each <Dweller> provides 5. Any given building can only be one incarnation’s <Temple> at any given time.
 
 ##Authorities:
 
@@ -97,6 +121,10 @@ Consumes divinity while active. Strikes mortals with the impression that you are
 >Omen (1): 400
 Gives you a premonition whenever you are at risk of immediate death or severe bodily harm. Consumes divinity whenever it activates
 
+>Resplendence (3): 500
+
+While active, reveals the glow of your <Divinity> to mortals
+
 >Flight (1): 500
 Allows you to fly freely through the air at a speed of 20mph multiplied by the skill level
 
@@ -112,8 +140,16 @@ Allows you to create objects out of divinity. The amount depends on the size and
 >Miracle of Healing (1) 800:
 Allows you to expend divinity to heal wounds, both of yourself and others
 
+>Divine Will (1): 800
+
+Helps you resist mind altering effects. Can be overwhelmed by an authority of a higher level
+
 >Induct (EX): 1,000
 Allows you to grant an authority to a mortal, either directly or via an authority crystal. The target will gain the Pseudo-Myth: <Cultist of <Your Incarnation Name>>. They share your directives, and any influence, authorities, epithets, or titles garnered by the target are granted to you instead. It is possible for an <Inductee> to betray their god, at which point they will lose their power and pseudo-myth. Authority vanishes upon a single use.
+
+>Divine Realm (1): 10,000
+
+Creates a private subspace of size proportional to the authority’s level, which can only be entered with your permission.
 
 >Immortality (EX): 1,000,000
 You cannot be killed. You lose this skill if you are unable to move for 10 years

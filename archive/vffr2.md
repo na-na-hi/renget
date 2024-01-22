@@ -181,7 +181,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;or Boobnya's cannon (Pardo's PRI delinks her ult cooldown from the motif cooldown,
 &nbsp;&nbsp;&nbsp;&nbsp;so either wait a few seconds before dropping the qte+ult or just switch to Falcon Flare.)
 &nbsp;&nbsp;&nbsp;&nbsp;Seems like new A-ranks being mainly supports for new S-ranks is going to be a
-&nbsp;&nbsp;&nbsp;&nbsp;trend.  Replaced by SS Sushang in all but SeX teams.
+&nbsp;&nbsp;&nbsp;&nbsp;trend.  Replaced in all but SeX teams.
 &nbsp;
 **S-valks**
 *Dimension Breaker* (DB)	/ Dorm / Farmable (AW) / Egg 1
@@ -238,14 +238,14 @@ seems to be long gone.
 *Blood Rose* (BR)						/ Dorm / Farmable (AW) / Egg 2
 &nbsp;&nbsp;&nbsp;&nbsp;Strong single target fire DPS masochist.  Needs SS-rank, but has fallen off alot 
 &nbsp;&nbsp;&nbsp;&nbsp;lately.  Learn to turn off her ult after two/three windmill sequences.  Got a strong
-&nbsp;&nbsp;&nbsp;&nbsp;buff with the release of Surtr PRI, but is now heavily powercreeped by HoF.  Can
+&nbsp;&nbsp;&nbsp;&nbsp;buff with the release of Surtr PRI, but is heavily powercreeped by HoF.  Can
 &nbsp;&nbsp;&nbsp;&nbsp;use Aslaug + BD as support.
 
 *Vermilion Knight* (VK)				/ Dorm / Farmable (AW)
 &nbsp;&nbsp;&nbsp;&nbsp;Fire AOE with lots of I-frames.  Had an abyss weather all her own - haven't seen Rita
 &nbsp;&nbsp;&nbsp;&nbsp;lately in abyss, though (apparently, DA stomps on her toes in this niche.)  Good for 
 &nbsp;&nbsp;&nbsp;&nbsp;dealing with memorial HoV - needs An Utu for starting SP.  Mostly used as a BD/Turganev
-&nbsp;&nbsp;&nbsp;&nbsp;bot these days.  With the "free" Fire Rita, all Himeko suits are now dead as DPS.
+&nbsp;&nbsp;&nbsp;&nbsp;bot these days.  With Fire Rita/Sirin, all Himeko suits are now dead as DPS.
 &nbsp;
 #####Yae
 **A-valks**
@@ -306,13 +306,13 @@ seems to be long gone.
 *Celestial Hymn* (CH)					/ Dorm / Farmable (AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Critical physical supporter, especially with her endgame PRI weapon.  Impair and succ 
 &nbsp;&nbsp;&nbsp;&nbsp;on ultimate, impair on switch, and a number of damage passives.  Made farmable in 4.6,
-&nbsp;&nbsp;&nbsp;&nbsp;and displaced by HoS as mandatory.
+&nbsp;&nbsp;&nbsp;&nbsp;and displaced by HoS/HoRb as mandatory.
 
-*Lunar Vow: Crimson Love* (LV)	/ Luna (Terihag) / Limited
+*Lunar Vow: Crimson Love* (LV)	/ Luna (Terihag/Hagriri) / Limited
 &nbsp;&nbsp;&nbsp;&nbsp;Damn, what a monkey's paw - we finally get another Teri suit after all these years, and
 &nbsp;&nbsp;&nbsp;&nbsp;fanchuan decides to indulge in his age-progression fetish (Hagseo next patch, too.)  Strong
 &nbsp;&nbsp;&nbsp;&nbsp;dps/support, PSY lightning bleed? (wtf?)  For all the grousing, she's snappy to play (outside of
-&nbsp;&nbsp;&nbsp;&nbsp;missing QTE and having to self charge her eviscerators,) and has a long breach buit into her ult.
+&nbsp;&nbsp;&nbsp;&nbsp;missing QTE and having to self charge her eviscerators,) and has a long breach buit into her kit.
 &nbsp;&nbsp;&nbsp;&nbsp;Hits fast, so Judah is a not-terrible single-target option for her, but a lot of her support value
 &nbsp;&nbsp;&nbsp;&nbsp;is tied up in her T+B stigs.  First unit where the elemental damage affixes on stig aren't a DPS loss.
 &nbsp;&nbsp;&nbsp;&nbsp;All Teris are both best girls and cannon wives (AU versions of the same girl aren't cheating - fite me)
@@ -320,9 +320,9 @@ seems to be long gone.
 #####Fu Hua
 **A-valks**
 *Valkyrie Accipiter* (VA/HotF)
-&nbsp;&nbsp;&nbsp;&nbsp;Shield debuff support base, when augmented becomes the third best lightning
+&nbsp;&nbsp;&nbsp;&nbsp;Shield debuff support base, when augmented becomes the fourth best lightning
 &nbsp;&nbsp;&nbsp;&nbsp;damager in the game as Hawk of the Fog (HotF).  Only elec choice if you're missing
-&nbsp;&nbsp;&nbsp;&nbsp;HoT/Mobius.  Base VA has some use against abyss Kasumi and her fat shield.
+&nbsp;&nbsp;&nbsp;&nbsp;HoT/Mobius/Luna.  Base VA has some use against abyss Kasumi and her fat shield.
 
 *Night Squire* (NS)
 &nbsp;&nbsp;&nbsp;&nbsp;~~West Taiwan~~ China numba-wan.  Was the best ST-bio physical 
@@ -355,8 +355,18 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;windows.)  ~~Put in 6.4 battle pass, so either she's getting creeped soon,  or we're getting~~
 &nbsp;&nbsp;&nbsp;&nbsp;~~a 7TR-style DK to replace her motif gloves.~~  Powercrept as phys support by HoRb Seele,
 &nbsp;&nbsp;&nbsp;&nbsp;but they decided to release a new DK for her, so currently, brick HoS is still the only workable
-&nbsp;&nbsp;&nbsp;&nbsp;bio phys dps unit.  (We'll see if brick becomes a literal brick, given that they might just
-&nbsp;&nbsp;&nbsp;&nbsp;pretend she doesn't exist in boss rotation)
+&nbsp;&nbsp;&nbsp;&nbsp;bio phys dps unit.
+
+*Fenghuang of Vicissitude* (FoV)			/ Limited
+&nbsp;&nbsp;&nbsp;&nbsp;New fried chicky, and dear god, she sucks without her gear.  No alternate gloves worth a
+&nbsp;&nbsp;&nbsp;&nbsp;damn, so either get her weapon or use her as a bridge ornament (they tied her weapon
+&nbsp;&nbsp;&nbsp;&nbsp;inextricably to her skills - no other weapon actives function, only her motif works.)  Sadly,
+&nbsp;&nbsp;&nbsp;&nbsp;they also made her a dps only, unlike Hagriri who can moonlight as a support - all she
+&nbsp;&nbsp;&nbsp;&nbsp;needed was to be able to apply her ele breach and she would have been a good support option.
+&nbsp;&nbsp;&nbsp;&nbsp;Comparatively, everyone who got a free Gold Saint Dudu a few patches ago has SS DA, and
+&nbsp;&nbsp;&nbsp;&nbsp;S0 FoV with G4 stigs and cope PRI gloves is noticably worse.  Last valk before part 2, so she
+&nbsp;&nbsp;&nbsp;&nbsp;might turn into a complete turkey with the moon ring system coming next patch.
+
 &nbsp;
 #####Kallen
 **A-valks**
@@ -457,7 +467,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;<insert Saint Seiya reference here> Memorial/abyss stomper for rimestar.  Fire Bio, but
 &nbsp;&nbsp;&nbsp;&nbsp;gets squeezed by HoF on psy due to the latter's high dps.  Whalebait, like BKE - demands 
 &nbsp;&nbsp;&nbsp;&nbsp;a 4/4 full set, everything else is a 25-40% drop off.  Got a new SSS Memorial boss recently
-&nbsp;&nbsp;&nbsp;&nbsp;(ice pig)
+&nbsp;&nbsp;&nbsp;&nbsp;(ice pig).  Utterly dumpstered by 4/4 geared FoV.
 
 *Palatinus Equinox* (PE)			/ Limited
 &nbsp;&nbsp;&nbsp;&nbsp;First DPS IMG, dual mode, with a bs way to chip IMG seeds without removing
@@ -481,6 +491,24 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;niche (psy ice - no, 6s doesn't count.)  Needs her bow, but can use Welt or next patch's
 &nbsp;&nbsp;&nbsp;&nbsp;G4 ice.  Given the number of 4/4 in abyss, abandon your cycle points if you can't get her.
 &nbsp;&nbsp;&nbsp;&nbsp;Orbited hard by all the other flamechasers.
+
+#####Griseo
+**A-valks**
+*Starry Impression*                         / Loliseo
+&nbsp;&nbsp;&nbsp;&nbsp;New physical bleed supporter with battery skills, replaces SA in all comps that can
+&nbsp;&nbsp;&nbsp;&nbsp;rotate.  ~~Splits physical with Carole, so use Carole vs fat shields and Griseo vs shieldless.~~
+&nbsp;&nbsp;&nbsp;&nbsp;Replaced by Prommy in physical outside of Bleed comps, incrementally crept by herself in phys bleed.
+&nbsp;&nbsp;&nbsp;&nbsp;Stigwise, if you don't get Cezanne B, don't bother (it's a fancy-pants extendable Newton,)
+&nbsp;&nbsp;&nbsp;&nbsp;just use Margrave from the foundry.  You'll want her weapon, but you can replace with
+&nbsp;&nbsp;&nbsp;&nbsp;Hekate as a cope weapon (can also sub in on ignite weather with SoS.)  ToT
+
+
+*Cosmic Expression*						/ Hagseo
+&nbsp;&nbsp;&nbsp;&nbsp;Flameshitters sent their loli out into the wide universe unchaperoned without shoes and she
+&nbsp;&nbsp;&nbsp;&nbsp;came back with space AIDS.  The first S(t)D type (kek), Hagseo is a bleed focused support compared
+&nbsp;&nbsp;&nbsp;&nbsp;to Loliseo who splits bleed/physical.  As far as support, right now, she's an incremental upgrade
+&nbsp;&nbsp;&nbsp;&nbsp;to Eden/Loliseo, and a filler dps vs SD types until Senadina in part 2 (somehow I doubt we'll see
+&nbsp;&nbsp;&nbsp;&nbsp;phys weak SD boss stages after Senadina gets released.)
 
 &nbsp;
 #####Others (Single Suits)
@@ -535,14 +563,6 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;rub is the 2.5 sec delay on first cast, so you have to have Eden first on your rotation, and split
 &nbsp;&nbsp;&nbsp;&nbsp;the second activation for after her ult (hint: it's painful, and it sucks in comparison.)
 
-*Starry Impression*							/ Griseo
-&nbsp;&nbsp;&nbsp;&nbsp;New physical bleed supporter with battery skills, replaces SA in all comps that can
-&nbsp;&nbsp;&nbsp;&nbsp;rotate.  ~~Splits physical with Carole, so use Carole vs fat shields and Griseo vs shieldless.~~
-&nbsp;&nbsp;&nbsp;&nbsp;Replaced by Prommy in physical outside of Bleed comps, there's probably an S-bleed dps coming.
-&nbsp;&nbsp;&nbsp;&nbsp;Stigwise, if you don't get Cezanne B, don't bother (it's a fancy-pants extendable Newton,)
-&nbsp;&nbsp;&nbsp;&nbsp;just use Margrave from the foundry.  You'll want her weapon, but you can replace with
-&nbsp;&nbsp;&nbsp;&nbsp;Hekate as a cope weapon (can also sub in on ignite weather with SoS.)  ToT
-
 *Chrono Navi*									/ Ai-chan (Ai-Hag)
 &nbsp;&nbsp;&nbsp;&nbsp;The long awaited fire SP support, which is...slightly disappointing.  Mecha fire/ignite support
 &nbsp;&nbsp;&nbsp;&nbsp;with gather and light team sp regen (this alone makes her better than Raven,) but definitely 
@@ -550,7 +570,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;ignore her banner - her stigs are 3pc or go home.  Really wants to QTE in, charging her bar
 &nbsp;&nbsp;&nbsp;&nbsp;manually is physically painful.
 
-*Valkyrie Quicksand*					/ Susannah
+*Valkyrie Quicksand*					/ Susannah (Sus2)
 &nbsp;&nbsp;&nbsp;&nbsp;QUA phys, with the first rhythm game mechanic since SF, she's good, but unlike other A-rank
 &nbsp;&nbsp;&nbsp;&nbsp;DPS fill-ins, she's expensive to build supports for - the main problem is her damage type: unlike
 &nbsp;&nbsp;&nbsp;&nbsp;other physical dealers, she deals a "totally not new damage type" where her damage is
@@ -605,7 +625,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;Herrscher of Elf (fuck back-to-back S-ranks.)  Replaced as a generic QUA DPS by
 &nbsp;&nbsp;&nbsp;&nbsp;Susannah.
 
-*Jade Knight* 	/ Li Sushang / Farmable (AW+AL)
+*Jade Knight* 	/ Li Sushang (Sus) / Farmable (AW+AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Replacement for HB in most ice teams, brings back elemental breach, but has some
 &nbsp;&nbsp;&nbsp;&nbsp;asshole design choices (ranged-only ice team buff on combo) that harm her performance 
 &nbsp;&nbsp;&nbsp;&nbsp;with DPS Pardo and AKA.  Essentially ice HoS, usable as a DPS on mech ice weather
@@ -645,6 +665,8 @@ costs are 100 for 3 star and 150 for 4 star (so 2 dupes and 40 extra frags for a
 Ignore the P2W ELFs - the buffs are minimal (~5-10%) compared to even a single motif stigmata or weapon.
 This is endgame minmax autistic whale shit.  The newer ELFs with the switch cooldown reduction (Klein/Blade
 Durandal/Elf Elysia) are a little more important if you mald in Memorial.
+
+Getting completely replaced in part 2 with the supporter/moon ring system - DO NOT ROLL.
 
 &nbsp;
 #####F2P ELFs
@@ -819,6 +841,12 @@ the grace period.
 &nbsp;
 ####Spending
 
+!!!note Part 2
+	Part 2 is coming soon, so if you're just starting, it might be in your best interest to sit on
+	all your gems 'til Senadina and start fair.  With all the mechanical changes coming down
+	the pipe, pre-part 2 suits will probably be p. bad in comparison to the new moon ring
+	combinations.
+
 Save your fucking gems starting out.  It costs 28,000 to guarantee a new S-rank,
 and while the guarantee carries over to the next banner (read the fucking small print
 on the supply rules - e.g. EXPA/expansion only carry over the pity to S-rank, the internal
@@ -869,17 +897,21 @@ LoW 2 Egg
 &nbsp;
 &nbsp;
 With the current state of powercreep, *IMO* you should focus on getting a good *NEW* main DPS fully geared, then
-some general support stigmatas (Turganev T+B are currently the most useful generics) and farming fragments for 
-whichever A-rank support works with your shiny new DPS.  With how fast JewHoYo is ramping the powercreep/char
-replacement rate, multi-use stigs/valks are a must.
+some general support stigmatas (Turganev T+B are currently the most useful generics, grind them out, starting with
+B) and farming fragments for whichever A-rank support works with your shiny new DPS.  With how fast JewHoYo is 
+ramping the powercreep/char replacement rate, multi-use stigs/valks are a must.
 
 Try to restrain your dumber whale urges, unless you just want a reason to shit up the thread at eos.
 
-!!!note Equipment Gacha Odds
+!!!note Gacha Odds
     Probably best to note here that the odds JewHoYo gives for the stig gacha are almost certainly lies.
     While they *say* that the odds are ~14%, that's per 10 pulls (incl. guarantee,) not per pull, so the real
 	per pull odds are much, much lower outside of the 10 pull guarantee - i.e. don't expect to regularly 
 	get more than one rare stig/weapon drop per ten pulls.
+
+	Conversely, I'm almost certain that the valkyrie gacha is more generous than they let on.  After years
+	of getting early S-ranks, I'm near certain that it's a 10% chance at the 10 pull guarantee to get the
+	S-rank on offer, unlike their other games, where you get dick-all until soft pity.
 &nbsp;
 &nbsp;
 ####Endgame
@@ -890,13 +922,14 @@ to mimic with what you have.  Search for "崩坏3" to find chinese tryhards - yo
 watching their memorial/abyss runs - just remember that depending on the damage windows, it
 might not translate 1:1 to worse gear.  
 
-As far as Youtube talking heads, Wyverin is probably the most consistently informative as far as
+As far as Youtube talking heads, Wyverein is probably the most consistently informative as far as
 what alternative stig sets work on upcoming suits.
 
 When you get enough red stigmata resonators (from salvaging duplicate gacha/foundry stigmatas)
 try to get at least one each of Pool Party Mei [M] and Newton [B] from the stigmata exchange.  While
 Mihoyo's been trying to phase them out for a while, they are still two of the better general use
-support pieces, and can be used almost anywhere.
+support pieces, and can be used almost anywhere.  Turganev was also added to the grindable pool,
+so work towards a T+B 2pc (start with B, T is worthless without it.)
 
 Don't get sucked in to the idea that you need just one more piece of equipment to be good.  This 
 game needs a deep roster of gear for the endgame, blowing out for one piece of gear is moronic.  

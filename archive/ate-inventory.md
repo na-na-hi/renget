@@ -83,3 +83,6 @@ Increases all of your physical attributes, including durability, proportional to
 
 >Bloodlust (1):
 When active, increases your strength, speed, and stamina in proportion to the degree to which you want to kill your target. Also fosters your desire to do so while active. Consumes divinity proportional to the strength of its manifestation.
+
+>Scribe of Dysnomia (3):
+Any recordings or images taken of you while this authority is active, as well as anything written or spoken by you while this authority is active, including verbatim copies or transcriptions, slowly erode faith in public order when perceived. Additionally, targets of this authority also exhibit reduced guilt for immoral and illegal acts. Consumes 1 divinity per 3 seconds.

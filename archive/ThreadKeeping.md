@@ -525,16 +525,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Artfag
->confession
->>91630760
-New Writefags
->Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver)
-https://rentry.org/z7w7e
->Orochi Wins (Orochi, Sandy, Mio)
-https://rentry.org/abuzhy7i
-The Leningrad Variation
-https://rentry.org/mvtmnzy2
+New Character
+>Tomie
+https://rentry.org/ddom6m82
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -799,13 +792,8 @@ https://rentry.org/iptpr
 >>88984432
 >Nightmare
 >>88984422
-```
-***
-Page 5
-***
-```
->VILLAINS (Villain Name):
 
+>Unaffiliated Villains:
 >Bruno Garcia VN Mauler
 >>88206714
 >Karuga Ito (Teacher - Shiketsu)
@@ -814,6 +802,14 @@ Page 5
 >>88192913
 >Recino R. Percutio
 >>88191385
+```
+***
+Page 5
+***
+```
+>VILLAINS (cont.):
+
+>Unafilliated VIllains:
 >Nakata Yumiko VN Walpurgis
 >>88191796 + https://pastebin.com/nMZq81Jt
 >Hiromi Hitomi VN Feral
@@ -842,6 +838,8 @@ Page 5
 >>91050987
 >"Mammogar"
 >>91051410
+>Tomie
+https://rentry.org/ddom6m82
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
