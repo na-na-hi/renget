@@ -66,6 +66,7 @@
 [AQLM](https://github.com/vahe1994/AQLM)|2/3/4bit weight additive quantization with lower perplexity compared to QuIP#/GPTQ/SpQR
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
 [ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for llama2 with better results than WANDA or SparseGPT
+[Medusa](https://github.com/FasterDecoding/Medusa)|Speculative decode via attention heads by finetuning with backbone LLM
 |
 **Local LLM Research**|
 [Entropy-ABF](https://github.com/GAIR-NLP/Entropy-ABF)|Context window extension of RoPE-based LLMs outperforming YaRN 
@@ -105,8 +106,9 @@
 [EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
 [SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 |
-[Vision Mamba](https://github.com/hustvl/Vim)|SSM architecture to enable efficient memory usage for high resolution vision tasks
+[VMamba](https://github.com/MzeroMiko/VMamba)|SSM architecture to enable efficient memory usage for high resolution vision tasks
 [Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
+[Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
 [CogVLM/Agent](https://github.com/THUDM/CogVLM)|Visual language model with GUI understanding for agent capabilities
 [AutoACT](https://github.com/zjunlp/AutoAct)|Automatic agent learning framework using a division-of-labor strategy

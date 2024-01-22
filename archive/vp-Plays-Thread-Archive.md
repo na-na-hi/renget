@@ -384,4 +384,5 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[1]** *There's no way this is worse*](https://arch.b4k.co/vp/thread/55257552/)
 [**[2]** *Fuck, it's worse*](https://arch.b4k.co/vp/thread/55266735/)
 [**[3]** *%green%>An unironic Twilight reference%%*](https://arch.b4k.co/vp/thread/55273733/)
-[**[4]**](https://arch.b4k.co/vp/thread/55282832/)
+[**[4]** *Myth gets banned and cancelled, and Writefag returns*](https://arch.b4k.co/vp/thread/55282832/)
+[**[End]** *Never again (until postgame releases, haha...)*](https://arch.b4k.co/vp/thread/55287461/)

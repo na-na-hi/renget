@@ -41,7 +41,7 @@ Three backticks, literally this:
 ````
 ```
 ````
-
+!!!info Writing style and number of words are placeholders to modify to your tastes! I like my bots very angst and with lots of monologues, more explained on next section
 
 #### NSFW settings:
 
@@ -80,7 +80,7 @@ That's what I have saved in my presets
 
 !!!danger **This JB doesn't currently work on turbo4** for non-vanilla stuff, and I don't like that "preview" thing on the model, it was clear that some days ago saltman tightened the filter and I don't want such a good model to unfold into a dalle prompt-hell. I will wait until a snapshot comes out before using the model further (remember how 0301 turbo is super easy to jb while nu-turbo isn't)
 
-### Boring stuff you may want to read about
+### Boring stuff you ~~may want to~~ should read about
 
 So basically instead of having one single all-mighty token heavy prompt and JB, I keep separate ones for SFW and NSFW times. I even separate by models so I don't have to bother changing API settings.
 If you copy my way of thinking then you should have at least 4 presets:
@@ -92,8 +92,9 @@ If you copy my way of thinking then you should have at least 4 presets:
 The <thinking> part cannot be removed, it allows the AI to formulate {{char}}'s response, it even works as a transparent screen for me to see what the AI is picking/feeling from {{user}}'s input and what not. This way I actually know what to modify in my message instead of going blind and swiping 40.000 times.
 This CoT method is actually recommended by [Anthropic™](https://docs.anthropic.com/claude/docs/give-claude-room-to-think-before-responding)
 >Why 3?
-If the AI thinks more than 6 times it may become very stuborn on its char defs, which may lead to dry and looping messages instead of bending to {{user}}'s will (OAI models in particular become very assertive and positive).
+If the AI thinks more than 6 times it may become very stubborn on its char defs, which may lead to dry and looping messages instead of bending to {{user}}'s will (OAI models in particular become very assertive and positive).
 If the AI doesn't think, it may ignore char defs and go with wathever the LLM thinks should be the next word in your chat.
+Still curious/doubtful about CoT? Check this amazing user-friendly **[rentry](https://rentry.org/vcewo)**, lots of information, actual sources, and maybe give it a shot at writing your own jbs!
 
 **List of instructions**
 Lists seem to work better than plain text separated by dots when giving instructions. I use this part to give simple instructions to the AI like:
@@ -108,7 +109,7 @@ These instructions massively modify {{char}}'s response, akin to an OOC: sentenc
 The secret lies on what specific words to use to lead the AI's response in certain ways, for example look at this [masterpiece](https://dumb.one/gpt/prompts-scraped/dl-unlock-words-2020.md) (I suggest you to play with these a lot)
 
 #### Completion settings
-0.9/0.3/0.3/0.9 for temp/freqP/presP/top-p
+0.9/0.2/0.2/0.9 for temp/freqP/presP/top-p
 High temp and P are necessary to pull unlikely words to replies, but most of the message's "plot" is decided on the thinking block, so wild-wild ideas don't randomly pop up in the last paragraphs of the chat.
 **Important:** When running tests with your prompts make sure to set temperature to 0 in order to not attribute the quality of the responses to randomness.
 At temp 0 the AI gets as deterministic as it can get.
@@ -118,13 +119,13 @@ At temp 0 the AI gets as deterministic as it can get.
 #### Fix the codeblock
 
 If you are using three backticks as prefill, you can close the <thinking> codeblock by adding this to your regex settings (the three cubes on SillyTavern):
-![yum](https://files.catbox.moe/1nua52.png)
+![yum](https://files.catbox.moe/we4e6z.png)
 
 Alternatively you can try hide thinking
 
 #### Hide <thinking>
 Add this to your regex settings 
-![u](https://files.catbox.moe/6vbrrl.png)
+![u](https://files.catbox.moe/dpgyek.png)
 
 Yep, these settings only hide the codeblock from your view, the text inside is actually kept and occupies Context tokens if you continue the conversation or export your chat to agnai/venus.
 As you may have noticed adding " \`\`\` " as prefill for claude breaks the <thinking> codeblock, if you want ST's regex to grab and hide the block, you will have to either write the three backticks on {{char}}'s response or erase the prefill

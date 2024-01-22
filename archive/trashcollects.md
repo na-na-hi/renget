@@ -2741,6 +2741,12 @@ https://easyupload.io/wlr3ed
 > Trigger with drockdraw
 https://files.catbox.moe/tlnpgu.safetensors
 
+# Fffffolder (Artist)
+>The loras are numbered by amount of times they've repeated the training, so higher the number, the stornger the lora, but also the higher the chance of over training. I've been using the 9th one but i have no idea if it's the best or not.
+>i made sure to tag all of fffffolder's pictures with larger, rounder eyes with "wide-eyed" so prompting that might make it look a bit less like his later style, but i dont know if it's just placebo
+>trigger is "kudai"
+https://www.mediafire.com/folder/bihzyvtgmwue1/Fffffolder_style_lora_(kemoshota)
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

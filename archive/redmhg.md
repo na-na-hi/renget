@@ -7,7 +7,7 @@ ___
 
 - [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so)* was updated
 
-- [Story] *[Ode to the Flame Emperor](https://pastebin.com/m5khsFDE)* was added
+- [Story] *[Ode to the Flame Emperor](https://rentry.org/fxe9i)* was added
 
 - [Story] *[Into the Wilds](https://rentry.org/32ia4)* was added
 
@@ -374,7 +374,7 @@ A 100% totally innocent encounter with your Nargacuga buddy.
 
 ---
 
-#### *[Ode to the Flame Emperor [M Human x Teostra]](https://pastebin.com/m5khsFDE)*
+#### *[Ode to the Flame Emperor [M Human x Teostra]](https://rentry.org/fxe9i)*
 
 A researcher pays tribute to their lover and favorite monster.
 

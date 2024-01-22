@@ -269,6 +269,8 @@
 01/2024|[Scalable Pre-training of Large Autoregressive Image Models](https://arxiv.org/abs/2401.08541)
 01/2024|[Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)
 01/2024|[Orion-14B: Open-source Multilingual Large Language Models](https://files.catbox.moe/ik2pr6.pdf)
+01/2024|[Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)
+01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -510,6 +512,8 @@
 01/2024|[Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
 01/2024|[Extending LLMs' Context Window with 100 Samples](https://arxiv.org/abs/2401.07004)
 01/2024|[ChatQA: Building GPT-4 Level Conversational QA Models](https://arxiv.org/abs/2401.10225)
+01/2024|[AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference](https://arxiv.org/abs/2401.10652)
+01/2024|[Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -525,7 +529,6 @@
 07/2023|[oobabooga - A direct comparison between llama.cpp, AutoGPTQ, ExLlama, and transformers perplexities](https://archive.is/HgzRV)
 07/2023|[Jianlin Su - Carrying the beta position to the end (better NTK RoPe method)](https://archive.is/hfbHH)
 08/2023|[Charles Goddard - On Frankenllama](https://archive.is/GYoVX)
-09/2023|[FasterDecoding - Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads](https://archive.is/keLl0)
 10/2023|[Tri Dao - Flash-Decoding for Long-Context Inference](https://archive.is/KCu83)
 10/2023|[Evan Armstrong - Human-Sourced, AI-Augmented: a promising solution for open source conversational data](https://archive.is/zPPFU)
 11/2023|[LMSYS - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://archive.is/Tch3H)
