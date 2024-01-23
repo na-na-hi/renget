@@ -30,14 +30,13 @@
 [Previous Threads](https://desuarchive.org/g/search/subject/%2Flmg%2F)|Always good to search for previous questions before asking
 |
 **Learn**|
+[LLM Course](https://github.com/mlabonne/llm-course)|Collection of articles, videos, courses, and colabs for learning applied ML 
 [Andre Karpathy YT](https://piped.kavin.rocks/@AndrejKarpathy)|In-depth videos of LLM construction from one of OpenAI's founding members
 [Transformers From Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html)|Blogpost with Juypter notebook that goes step by step for coding and training a small GPT
 [LLM Visualization](https://bbycroft.net/llm)|Drag and pull 3D model of various LLMs with explanation for components 
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [Principles of DL](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
 [Math Intro to DL](https://arxiv.org/abs/2310.20360)|Textbook with focus on neural networks and algorithms 
-[NLP Course](https://huggingface.co/course/chapter1/1)|From Huggingface which also has other related courses to HF ecosystem
-[ML Course](https://developers.google.com/machine-learning/foundational-courses)|From Google which also has a useful ML glossary
 |
 **Prompting**|
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting (user focus) 

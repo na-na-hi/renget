@@ -1,4 +1,26 @@
 ▶NEW CLIPS
+>16 yo boys should be conscripted
+https://files.catbox.moe/edyjsl.mp4
+>Army of the crippled
+https://files.catbox.moe/r4ewjo.mp4
+https://files.catbox.moe/owywnp.mp4
+>Highlights of Sergey Lavrov's remarks in the CBS interview
+https://files.catbox.moe/33gaoh.MP4
+>AFU retreats from Avdeevka
+https://files.catbox.moe/fweyy2.mp4
+>Zaporozhye: 2x MaxxPro and 2x M2A2 Bradley REKT
+https://files.catbox.moe/xnus5l.mp4
+>RBU-6000 "Smerch-2" on the chassis of the Russian T-80B tank
+https://files.catbox.moe/2aijwu.mp4
+>One of the arrivals in Kharkov
+https://files.catbox.moe/h3qzw8.mp4
+>Report on strikes by Russian Aerospace Forces
+https://files.catbox.moe/9x6d9u.mp4
+>BOBR latest
+https://files.catbox.moe/vqzjko.mp4
+https://files.catbox.moe/w93p72.mp4
+>Destroying a Ukrainian "Baba Yaga" attack drone and operators.
+https://files.catbox.moe/9v4h7m.MP4
 >CNN: AFU arty down to using smoke shells
 https://files.catbox.moe/78uaw1.mp4
 >Russian Sniper Montage (Artemovsk)

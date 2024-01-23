@@ -432,7 +432,7 @@ v50:
 For added realism, try using Furtastic's negative embeddings (found [here](https://rentry.org/trashcollects#furtastic-v20)).
 
 ### Queasyfluff V2
->Copy/rename any existing yaml file (like the one above for Queasy V1)
+>Copy/rename any existing yaml file (like the one above for Queasy V1) so it has the exact same filename as the .safetensors file.
 What's different about this version?
 >Fixed colors and CFG rescale issue
 >Follows directions a bit better

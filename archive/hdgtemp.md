@@ -26,6 +26,7 @@ Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
 Booru: https://aibooru.online
 4chanX Catbox / NAI prompt userscript: https://rentry.org/hdgcb
+Thread-made loras: https://rentry.org/ponyxl_loras_n_stuff
 
 OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif
 
