@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 17/01/24: Union Raid Again? Edition**
+**Last updated: 23/01/24: Morangatang Edition**
 
 ***
 
@@ -20,7 +20,7 @@
 | N1KKAS   | ==**1888**==  | 6     | 32/32   | SAUCY    | PERMISSION     |                                 |
 | 404TH    | ==**4033**==  | 6     | 32/32   | YUKIKAZE | PERMISSION |                                 |
 | P愛ZURI   | ==**4983**==  | 6     | 30/32   | TAMA     | PERMISSION |                                 |
-| NIKKEKU  | ==**334**==   | 6     | 31/32   | GAINAX   | OPEN       |                                 |
+| NIKKEKU  | ==**334**==   | 6     | 32/32   | GAINAX   | OPEN       |                                 |
 | CSERYL   | ==**3903**==  | 6     | 32/32   | EFEK     | OPEN       |                                 |
 | POLIPETS | ==**18170**== | 5     | 32/32   | ZEPHYR   | PERMISSION | Casual/newcuties welcome        |
 | ROBUTTZ  | ==**20186**== | 4    | 28/32   | NORMAN   | PERMISSION | Casual/newcuties welcome        |
@@ -32,15 +32,15 @@
 
 | Name     | ID            | Level | Members | Leader  | Join       | Reqs/Notes                 |
 | -------- | ------------- | ----- | ------- | ------- | ---------- | -------------------------- |
-| NIKKUNNY | ==**13395**== | 6     | 31/32   | YOON    | PERMISSION |                            |
+| NIKKUNNY | ==**13395**== | 6     | 32/32   | YOON    | PERMISSION |                            |
 | NIKG     | ==**4893**==  | 6     | 32/32   | DEXTRA  | PERMISSION |                            |
 | PREFECT  | ==**6554**==  | 6     | 32/32   | THIL    | PERMISSION |                            |
 | PANTSUUU | ==**21859**== | 6     | 31/32   | ORLEEN  | PERMISSION |                            |
 | VGNIKKE3 | ==**9547**==  | 6     | 32/32   | ANON    | PERMISSION |                            |
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 5     | 32/32   | NEPBOI  | PERMISSION |                            |
-| KUNNYHUB  | ==**29940**== | 5     | 31/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
-| WANGERS  | ==**33386**== | 3     | 22/32   | SID | PERMISSION | Casual/newcuties welcome   |
+| KUNNYHUB  | ==**29940**== | 5     | 32/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
+| WANGERS  | ==**33386**== | 3     | 24/32   | SID | PERMISSION | Casual/newcuties welcome   |
 | NOPAN    | ==**6698**==  | 6     | 8/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

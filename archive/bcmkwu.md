@@ -1,4 +1,56 @@
 ▶NEW CLIPS
+>CNN: AFU arty down to using smoke shells
+https://files.catbox.moe/78uaw1.mp4
+>Russian Sniper Montage (Artemovsk)
+https://files.catbox.moe/uzs64f.mp4
+>Good morning Kiev!
+https://files.catbox.moe/pagbcg.mp4
+https://files.catbox.moe/ew2m7v.mp4
+https://files.catbox.moe/6bd5jc.mp4
+>Mobilization officers pulling men from busses (Odessa)
+https://files.catbox.moe/lugtmn.mp4
+https://files.catbox.moe/goial9.mp4
+>Another batch of drone deliveries
+https://files.catbox.moe/ubfi3z.mp4
+https://files.catbox.moe/pvhcvj.mp4
+https://files.catbox.moe/be83ag.mp4
+https://files.catbox.moe/2crof3.mp4
+>Hohol blogger got arrested for truth about Kharkov hotel
+https://files.catbox.moe/0ch5na.mp4
+>Chief Clown of Kiev Zelensky accused Russia of self-shelling Donetsk again
+https://files.catbox.moe/2mcjuq.mp4
+>Russian tank shoots down Ukrainian drone
+https://files.catbox.moe/d1cu0u.mp4
+>OBTF Kaskad - The Battle of Mariupol documentary (subbed)
+https://files.catbox.moe/ojc1ci.mp4 (part 1)
+https://files.catbox.moe/3k2kwy.mp4 (part 2)
+https://files.catbox.moe/4qdjuq.mp4 (part 3)
+>Drones dropping nades on hohols near Avdeevka
+https://files.catbox.moe/1il79b.mp4
+https://files.catbox.moe/mkz5fq.mp4
+>German TV report about Leopard 2
+https://files.catbox.moe/yls1ci.mp4
+>Russian soldier shoots down Ukrainian drone
+https://files.catbox.moe/b60jwd.mp4
+>Who's negro is better?
+https://files.catbox.moe/o8wnu2.mp4
+>German journalist talks about NATO mercenaries dying in Ukraine but media staying silence
+https://files.catbox.moe/4zyhl3.mp4
+>'Torn off' (Оторвали) - Song about the counteroffensyif
+https://files.catbox.moe/a3ucxu.mp4
+https://files.catbox.moe/epo4lc.mp4 (Original MV)
+>Lancet hits
+https://files.catbox.moe/grsafw.mp4 (Buk-AA)
+https://files.catbox.moe/opwzte.mp4 (Bradley M2A2)
+https://files.catbox.moe/l08na2.mp4 (Strela 10 -AA)
+>Interview with RU soldier that dodge suicide drone
+https://files.catbox.moe/wwofi3.mp4
+>Ukrainian conscientious objector 4
+https://files.catbox.moe/cuj7cj.mp4
+>SURRENDER HOHOL
+https://files.catbox.moe/1jl15i.mp4
+>Peremogatron
+https://files.catbox.moe/5i15vj.mp4
 >Hohol hid in the pit of a toilet from mobilization
 https://files.catbox.moe/s4omnw.mp4
 >EVAC drone 'Brother'

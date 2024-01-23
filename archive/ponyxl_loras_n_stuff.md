@@ -70,6 +70,7 @@ https://files.catbox.moe/ccz6sl.safetensors mo_(kireinamo)
 https://files.catbox.moe/1dsnon.safetensors konpeto
 https://files.catbox.moe/gnu3ky.safetensors melon22 It's pretty versatile, but to get the true melon look you have to add some helper tags. Try huge breasts, (muscular female:0.5), and neg muscular arms.
 https://files.catbox.moe/qj7xl0.safetensors pepper0
+https://files.catbox.moe/zi3lzf.safetensors mikozin
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -84,6 +85,13 @@ https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullme
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime 
 https://files.catbox.moe/b4wk0u.zip Megami_Magazine flat anime style
 https://files.catbox.moe/zxvyki.7z nyantcha
+
+###Characters
+
+https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
+https://files.catbox.moe/f5ssgz.safetensors character_tachibana_arisu helps to prompt features like hair, clothes
+https://files.catbox.moe/9zcayd.safetensors character_matoba_risa helps to prompt features like hair, clothes
+
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯
 
@@ -187,6 +195,7 @@ blade_(galaxist)
 bittenhard
 stealth-brock, (also maybe shenanimation, alt)
 incase
+sunna \(nilsunna\)
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk 

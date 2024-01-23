@@ -513,6 +513,7 @@
 01/2024|[ChatQA: Building GPT-4 Level Conversational QA Models](https://arxiv.org/abs/2401.10225)
 01/2024|[AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference](https://arxiv.org/abs/2401.10652)
 01/2024|[Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)
+01/2024|[Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation](https://arxiv.org/abs/2401.08417)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

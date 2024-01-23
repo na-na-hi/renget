@@ -33,9 +33,7 @@ https://www.youtube.com/watch?v=ieUxZHy6ICo
 \>Current Light Cone Banners: Baptism of Pure Thought (The Hunt), Patience Is All You Need (Nihility) - https://www.hoyolab.com/article/24375760
 
 \>New Drip Marketing:
-\>Black Swan (5\* Wind Nihility) - https://www.hoyolab.com/article/23554661
-\>Sparkle (5\* Quantum Harmony) - https://www.hoyolab.com/article/23589650
-\>Misha (4\* Ice Destruction) - https://www.hoyolab.com/article/23590332
+\>Acheron (5\* Lightning Nihility) - https://www.hoyolab.com/article/24541891
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 2AQA294J5R37 
