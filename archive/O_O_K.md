@@ -22,6 +22,9 @@ https://www.hentai-foundry.com/stories/user/luffy316/55299/Carbon-Pink-Cyber-Slu
 
 >The Life of the Contractor
 https://archiveofourown.org/works/51825376
+
+>Merry Monkey
+https://www.fanfiction.net/s/11689999
 ------------------------------------------------------------------
 >Planet of Man
 https://desuarchive.org/trash/thread/58777670/#q58976746

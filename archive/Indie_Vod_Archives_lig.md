@@ -28,6 +28,7 @@ Froot Vod Channel| [Link](https://www.youtube.com/c/ApricottheLichTwitchArchive)
 Hannah Hyrule| [Link](https://www.youtube.com/@CaptainVODS/videos)| Twitch: https://www.twitch.tv/hannahhyrule
 Lucypyre| [Link](https://www.youtube.com/@lucypyrevods)| Twitch: https://www.twitch.tv/lucypyre
 Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
+Grimmi| [Link](https://www.youtube.com/@GrimmiVault)| Twitch: https://www.twitch.tv/grimmivt
 
 ---
 #Unofficial Vod Archives 
@@ -103,7 +104,7 @@ Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atb
 
 ---
 
-#Other Vtuber Vod Archives that are not maintained by me
+#Other Vtuber Vod Archives
 
 ##[Lord Aethelstan](https://www.twitch.tv/lordaethelstan)
 Content|Link|Description 
@@ -152,6 +153,11 @@ Content|Link|Description
 -------|-------|------- 
 (Unofficial) Onigiri Vods on archive.org (1): | [Link](https://archive.org/search?query=creator%3A%22OniGiriEN%22&sort=-date)|
 (Unofficial) Onigiri Vods on archive.org (2): | [Link](https://archive.org/search?query=creator%3A%22OniGiri%22)|
+
+##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
+Content|Link|Description 
+-------|-------|------- 
+Vod Archive |[Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
 
 
 ---

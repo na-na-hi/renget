@@ -12,12 +12,13 @@ https://animatearchive.neocities.org/?home
 
 >Composing:
 
-FL Studio 21.0:
-https://files.catbox.moe/egb37z.torrent
-FL Studio 20.9:
-https://files.catbox.moe/634f2m.torrent
-Ableton Live 11:
-https://4download.net/77-ableton-live-suite-full-version.html
+FL Studio 21.2.2:
+https://files.catbox.moe/dmfhsf.torrent
+1. Install FL Studio.
+2. Replace the original files in the FL Studio folders with cracked ones from "Crack" folder.
+3. Apply registration keys with FLRegkey.reg.
+4. Enjoy All Plugins Edition.
+
 Matt$'s Music Advices:
 https://rentry.co/bhzqt
 Chromatic Scale Guide:

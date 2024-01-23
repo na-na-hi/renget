@@ -98,25 +98,25 @@ If you have a different option, discuss in the thread and it can be discussed.
 Character | CB | Arena | Dungeon | PvE | UE? | 6 Star? 
 :----: | :----: | :----: | :----: | :----: | :----: | :----: 
 Christina | SS | C  | A | SS | Yes | Yes
-Muimi | SS | C | SS | SS | Yes | Yes
+Muimi | S | C | SS | SS | Yes | Yes
 Neneka | SS | D | SS | SS | Yes | No
 P.Peco | C | A | C | B | Yes | No
-P.Kokkoro | S | C | S | S | Yes | No
+P.Kokkoro | SS | C | S | S | Yes | No
 P.Yui | D | C | C | C | Yes | No
 Laby | SS | F | SS | SS | Yes | No
 P.Hiyori | A | F | A | B | Yes | No
-P.Kyaru | A | A | S | S | Yes | No
+P.Kyaru | S | A | S | S | Yes | No
 P.Rei | A | A | SS | A | Yes | No
-Hatsu/Shio | C | D | B | A | No | No
+Hatsu/Shio | B | D | B | A | Yes | No
 Homare | A | F | S | S | No | No
 LL Trio | C | F | B | C | No | No
 Ranpha | B | F | B | B | No | No
 Aki/Saren | S | F | S | S | No | No
 Ames | SS | SS | SS | SS | No | No
-GreAnne | SS | F | SS | SS | No | No
+GreAnne | S | F | SS | SS | No | No
 Misora | A | F | SS | S | No | No
 Croce | A | D | S | A | No | No
-ライラエル | A | C | S | A | No | No
+ライラエル | S | C | S | A | No | No
 
 ##->Limited targets<-
 These units are only available during their specific banners, which are typically once a year. A newly released unit will re-run around 6-7 months after their initial release. Re-runs for any other units will take place in their seasonal window, generally.
@@ -149,15 +149,16 @@ While not re-roll targets, these units are always available to roll on any banne
 **Oedo Yuki** - Excellent buffer and debuffer for magic comps. Not farmable.
 **Swimsuit Chika** - Very strong only with UE, but can shut down magic damage heavily with shields.
 **Christmas Jun** - Excellent tank that provides a ton of utility and can sustain herself.
+**Noire Kuuka**
 
 
 ##->Permanent Sub Player level 200 Campaign<-
-Starting December 16th JST on reset, various permanent Campaigns will be apply to all players below 200. See the full list below:
+Starting December 16th JST on reset, various permanent Campaigns will be apply to different level of players. See the full list below:
 
-1. Level 50 to 100 - Players will receive x3 EXP for stamina spent on Normal, Hard & Very Hard Main Quest nodes.
-2. Level 101 to 200 - Players will receive x5 EXP for stamina spent on Normal, Hard & Very Hard Main Quest nodes.
-3. Any player below level 200 will receive x3 Drop rate on mana and equips for Normal, Hard and Very Hard Main Quest nodes.
-4. Any player below level 199 will receive x2 EXP for all daily missions.
+1. Level 50 to 100 - Players will receive x4 EXP for stamina spent on Normal, Hard & Very Hard Main Quest nodes.
+2. Level 101 to 291 - Players will receive x6 EXP for stamina spent on Normal, Hard & Very Hard Main Quest nodes.
+3. Any player below level 250 will receive x3 Drop rate on mana and equips for Normal, Hard and Very Hard Main Quest nodes.
+4. Any player below level 291 will receive x2 EXP for all daily missions.
 
 Notes :
 !!! note If another Campaign is applied at the same as the beginner Campaign, the beginner campaign will be applied instead.
@@ -174,13 +175,14 @@ https://priconne-redive.jp/news/update/20375/
 - Once reaching level 50, you can skip the story for around 12k gems and a ton of rewards including a UE growsphere. Use this on Neneka once she hits rank 7. This will allow you to level her UE at no cost, until it reaches level 240.
 - Complete the easy versions of the training dummy gargoyles for easy 100 gems and 1 large heart per. There are 5 in total, but do the first 3.
 - Spark at least 1 unit from the 72 hour banner, unless there's another prifes banner going on.
-- After hitting level 200, the best way to power level is through side stories. This is because the hard nodes cost 10 stamina each, but give 16, 16, 18,18, 20 EXP each. Only use this method if you absolutely have to power level as hard as possible.
+- After hitting level 291, the best way to power level is through side stories. This is because the hard nodes cost 10 stamina each, but give 16, 16, 18,18, 20 EXP each. Only use this method if you absolutely have to power level as hard as possible.
 - Be patient when it comes to progression. CB is generally designed for late game/end game players, so don't kick yourself for not being able to contribute immediately. You'll get there.
 - You can borrow a max level Princess Kyaru or Christina to 1p bosses in T1/T2 to still contribute as a new player. There's no level restrictions on CB borrows, so having a max level player in your clan to provide these for you can make a huge difference.
 - Request equips as often as possible.
-- If you want to remain low level to cash in on sub 200 x3 Hard/normal nodes: Don't claim mission rewards from Dailies aside from the ones that give gems, after you hit level 50. The trade-off here is staying lower-level and not getting to clear content due to that. This is just preference.
+- If you want to remain low level to cash in on sub 200 x3 Hard/normal nodes: Don't claim mission rewards from Dailies aside from the ones that give gems, after you hit level 50. The trade-off here is staying lower-level and not getting to clear content due to that. This is just preference and can lead to losing out on clearing current content, or growing fast enough to clear near future content.
 - To fund the early Dungeon 6 Stars, you'll want to clear the worlds up to 57-14 in order to get EX6 unlocked. The nodes scale to your level, but the rewards are based on the dungeon. This means you'll have access to a large amount of dungeon coins
-- For some easy growspheres, you can clear the Endless Summer, SOS Inori & Nakayoshi-Bu side stories.
+- Unlock Lvl 16 Mana/EXP exploration quests as soon as possible.
+- Clearing side stories earlier will grant players general growspheres, allowing characters to be leveled for free.
 - If you're running low on guild house furniture coins, consider only upgrading the stamina furniture and liking as many guild houses until you hit the cap for daily coins. You can collect up to 50 per day (10 likes).
 
 
@@ -202,6 +204,9 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Tomo (1 Node, 5 Nodes in Side Story)
 - Cinderella Maho (1 Node)
 - Oedo Yuki (1 Node)
+- Noire Kuuka (1 Node)
+- Noire Io (1 Node)
+- Shiori (9 Nodes)
 
 ###->Arena Specialists<-
 - Misaki (8 Nodes, 2 Nodes in Side Story)
@@ -220,6 +225,7 @@ Here are some good targets to take advantage of your x3 Hard bonuses as a new pl
 - Kyouka (1 Node, 2 in Side Story)
 - Kasumi (1 Node, 5 in side stories)
 - Oedo Mitsuki (1 Node)
+- Mahiru (9 Nodes, 2 in Side Story)
 
 ##->Recommended Side Story Nodes <-
 These are some good units that are available in Side Stories. Node that all Weflares in Side Stories have 3 nodes, 5 attempts per day. Each attempt is 10 stamina and players are unable to reset Side Story nodes.  Anyone not on this list, is just a bond story stat stick.
@@ -235,6 +241,11 @@ These are some good units that are available in Side Stories. Node that all Wefl
 
 ###->Arena Specialists<-
 - New Years Muimi
+
+##-> Coin Shops <-
+
+There are various coin shops that have currency gathered
+
 
 ##->Frequently Asked Questions<-
 

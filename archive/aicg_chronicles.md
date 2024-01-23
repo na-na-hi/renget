@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-20==
+# /aicg/ chronicles, up to ==2024-01-22==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1025,6 +1025,15 @@ When | Where | What
 2024-01-20|[98554487](https://desuarchive.org/g/thread/98552412#98554487)| mikudev spends a couple of bucks to show boobs to 4chan
 2024-01-20|[98559364](https://desuarchive.org/g/thread/98555233#98559364)| OAI doesn't allow bots that foster "romantic companionship" in GPT Store
 2024-01-20|[$8rBW0n](https://matrix.to/#/!tcPGnHinyITxdkqIZA:halogen.city/$8rBW0nAq9YXSDZeq_3ghuP_OP-VDFsvKwOgY1T9zNvg?via=matrix.org&via=midov.pl&via=cutefunny.art)| c\.ai subreddit riots again because violence is filtered hard now
+2024-01-20|[98565981](https://desuarchive.org/g/thread/98563723#98565981)| c\.ai subreddit has 915k readers
+2024-01-21|[98567428](https://desuarchive.org/g/thread/98566397#98567428)| mysentient\.ai with $500 weekly subscription tier laughed at
+2024-01-21|[98570203](https://desuarchive.org/g/thread/98569166#98570203)| Prisma Anon is back from the dead?
+2024-01-21|[98575924](https://desuarchive.org/g/thread/98574391#98575924)| anon finally publishes CharacterHub statistics
+2024-01-21|[98580483](https://desuarchive.org/g/thread/98580197#98580483)| anon showcases his use of edited server-personification project, giving it sudo access to his machine
+2024-01-21|[98581433](https://desuarchive.org/g/thread/98580197#98581433)| anon explains function calling capabilities of GPT
+2024-01-22|[98584108](https://desuarchive.org/g/thread/98583011#98584108)| universal key scraping template provided
+2024-01-22|[98584835](https://desuarchive.org/g/thread/98583011#98584835)| implications of widespread AWS credentials scraping discussed, concerns dismissed
+2024-01-22|[98586157](https://desuarchive.org/g/thread/98586035#98586157)| anon shares an alternative bot roulette page for CharacterHub
 -|-|-
 
 [](you have found my secret stash of nothing!)

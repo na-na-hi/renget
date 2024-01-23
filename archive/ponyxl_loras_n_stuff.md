@@ -241,7 +241,7 @@ I'm currently running sdxl_train_network.py with the following settings to train
  --learning_rate = 1
  --lr_scheduler = cosine
  --lr_warmup_steps = 0
- --network_dim = 32
+ --network_dim = 64
  --seed = 1055217506
  --keep_tokens = 0
  --gradient_checkpointing

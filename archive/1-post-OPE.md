@@ -14,7 +14,8 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://s.goodsmile.link/gmC
 
 \>Streams
-Next stream: unspecified (Mon 01/22 7PM CT)
+Next stream (HoloParade, Mon 01/22 7PM CT)
+https://www.youtube.com/watch?v=9T97lx0Ss_o
 Last stream (Viscera Cleanup Detail)
 https://www.youtube.com/watch?v=biTtjkmDJ6g
 Last member stream (zatsudan & ASMR)

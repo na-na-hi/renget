@@ -1342,3 +1342,5 @@ https://files.catbox.moe/8asfn1.mp4 New  1/21/24
 https://files.catbox.moe/e5k5nw.mp4 New  1/21/24
 >|Islamic Resistance in Iraq published a video showing the launch of a suicide drone towards the occupied Golan Heights.
 https://files.catbox.moe/qsccty.mp4 New  1/21/24
+>Despite the destruction and starvation, children in Gaza find relief by playing on swings in the streets of Gaza.
+https://files.catbox.moe/bb80lm.mp4 New  1/22/24
