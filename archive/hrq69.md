@@ -1,4 +1,4 @@
-So you want to play Assetto Corsa in VR?
+#/vrg/ Assetto Corsa
 
 #####Which version do I buy?
 Your best bet is to grab the Ultimate Edition with all of the DLC.
@@ -20,7 +20,7 @@ Under Settings>Assetto Corsa>Windscreen FX, check the box for "Remove dirt compl
 Under Settings>Assetto Corsa>View & UI, lets you set Units to Imperial if you prefer that
 The Sol mod allows for improved weather and night driving
 https://www.racedepartment.com/downloads/sol.24914/
-Sol 2.2.3 Mirror: https://mega.nz/file/wM5AnLJI#z1V-SCvglZ1I8W6Fw1PKxsRMgB-qltC5vs1FZQEFiSQ
+Sol 2.2.9 Mirror: https://mega.nz/file/8EYWlbKT#vP5YYaM3_DG3FAOw35zRZqmuXL6KIM5xiCPRdW1gRmY
 
 #####/vrg/ multiplayer server details:
 NA Details:

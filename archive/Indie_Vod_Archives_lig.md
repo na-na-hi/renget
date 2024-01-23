@@ -49,11 +49,18 @@ Unlisted Playlist with these Vods|[Youtube](https://www.youtube.com/playlist?lis
 Ms Onedrive Mirror|[MS Onedrive](https://onedrive.live.com/?id=B2DA420D7AA7F6A8%21202&cid=B2DA420D7AA7F6A8)|
 
 ---
+
+##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
+Content|Link|Description 
+-------|-------|------- 
+Vod Archive |[Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
+
+---
  
 ##[Anny](https://www.twitch.tv/anny) 
 Content|Link|Description 
 -------|-------|------- 
-Unofficial Anny (Mostly VR Chat vods) Vod Archive | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| 
+Vod Archive (of mostly VR chat Vods) | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| 
 
 ---
 
@@ -104,19 +111,17 @@ Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atb
 
 ---
 
-#Other Vtuber Vod Archives
-
 ##[Lord Aethelstan](https://www.twitch.tv/lordaethelstan)
 Content|Link|Description 
 -------|-------|------- 
-Unofficial? Vod Archive |[Link](https://www.youtube.com/c/LordAethelstanVODs)| 
+Vod Archive |[Link](https://www.youtube.com/c/LordAethelstanVODs)| 
 
 ---
 
 ##[Nina Saotome](https://www.twitch.tv/ninaninin)
 Content|Link|Description 
 -------|-------|------- 
-(Unofficial) Ninaninin Vod Channel| [Link](https://www.youtube.com/channel/UCjS8uiGm2-L5st3VlRAzoFg)| 
+Vod Archive | [Link](https://www.youtube.com/channel/UCjS8uiGm2-L5st3VlRAzoFg)| 
 
 ---
 
@@ -130,34 +135,29 @@ Project Melody CB Vod Archive| [Link](https://futureporn.net/)| Project Melody C
 ##[Amemiya Nazuna](https://www.twitch.tv/amemiyanazuna)
 Content|Link|Description 
 -------|-------|------- 
-(Unofficial)Amemiya Nazuna Vod Archive: | [Link](https://www.youtube.com/channel/UCZOtPXY8aOVory-zwXqJDeg)
+Vod Archive: | [Link](https://www.youtube.com/channel/UCZOtPXY8aOVory-zwXqJDeg)
 
 ---
 
 ##[Fillian](https://www.twitch.tv/filian)
 Content|Link|Description 
 -------|-------|------- 
-(Unofficial) Filian Vod Archive: | [Link](https://www.youtube.com/@filianvods)
+Vod Archive: | [Link](https://www.youtube.com/@filianvods)
 
 ---
 
 ##[Rainhoe](https://www.twitch.tv/rainhoe)
 Content|Link|Description 
 -------|-------|------- 
-(Unofficial) rainhoe Vod Archive (1): | [Link](https://www.youtube.com/@rainhoevods5864)|
-(Unofficial) rainhoe Vod Archive (2): | [Link](https://www.youtube.com/@rainhoeVODs)|
-(Unofficial) rainhoe Vod Archive (3): | [Link](https://www.youtube.com/@rainvod)|
+Rainhoe Vod Archive (1): | [Link](https://www.youtube.com/@rainhoevods5864)|
+Rainhoe Vod Archive (2): | [Link](https://www.youtube.com/@rainhoeVODs)|
+Rainhoe Vod Archive (3): | [Link](https://www.youtube.com/@rainvod)|
 
 ##[Onigiri](https://www.twitch.tv/onigiri)
 Content|Link|Description 
 -------|-------|------- 
-(Unofficial) Onigiri Vods on archive.org (1): | [Link](https://archive.org/search?query=creator%3A%22OniGiriEN%22&sort=-date)|
-(Unofficial) Onigiri Vods on archive.org (2): | [Link](https://archive.org/search?query=creator%3A%22OniGiri%22)|
-
-##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
-Content|Link|Description 
--------|-------|------- 
-Vod Archive |[Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
+Onigiri Vods on archive.org (1): | [Link](https://archive.org/search?query=creator%3A%22OniGiriEN%22&sort=-date)|
+Onigiri Vods on archive.org (2): | [Link](https://archive.org/search?query=creator%3A%22OniGiri%22)|
 
 
 ---

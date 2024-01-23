@@ -494,3 +494,54 @@ https://rentry.org/b2mhn
 https://rentry.org/xxk2h
 >Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper)
 https://rentry.org/e7cszt
+----------------------------------------------------------------------------------------------------------------------------
+Page 10
+----------------------------------------------------------------------------------------------------------------------------
+>Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
+https://rentry.org/2bovid
+>Desolator's Last Stand (Desolator):
+https://rentry.org/b9ge4v
+>Hold my Cap, it's License Time! Part 2 (Ryu-kishi, Luccione, Mirror Devil, Flying Force, Yako, Impakt, Fight Man, Hyotetsu, Maru(maru))
+https://rentry.org/h5izt6
+>Renaissance (Desolator, Luccione, Mauler):
+https://rentry.org/rfyv4
+>A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca, Marrow)
+https://rentry.org/6t4giv
+>Faith Kang in: The VIP Box (ft. Anthony Chang)
+https://rentry.org/4ezcv
+>Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu)
+https://rentry.org/NoctiBecomesA20thCenturyWarlord
+>Tournament Part 3
+https://rentry.org/hpe3v
+>A serpent amongst heroes and dragons (Yamata):
+https://rentry.org/mah6d
+>Blooming of Tears (Rosethorn, Yamata)
+https://rentry.org/qggn4
+>Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force)
+https://rentry.org/3c7tf
+>A Carp (Sunlight Man, Yamata):
+https://rentry.org/gz4k5
+>Spherethirst's Two-in-One (Clique, Challenger, Sunlight Man, Mirror Devil)
+https://rentry.org/doysdm
+>MHA 1.9 part 2 (Ryu-kishi; Maru(maru); Archangel; Last Rite)
+https://rentry.org/82ucsq
+>Dragon to Dragon Communication (Yamamoto, Yamata):
+https://rentry.org/ug2kk
+>A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Rebecca Weber, Seiryu(?))
+https://rentry.org/v7yae
+>Penumbra (Challenger, Marrow, Tomi)
+https://rentry.org/MHApenumbra
+>The Boys™ streaming
+https://rentry.org/2fguw
+>The Clique™ channel (update)
+https://rentry.org/7s2qg
+>Bullying with kindness (Capture Cloth, Yamata)
+https://rentry.org/oebs9
+>Trip to school (Meadow)
+https://pastebin.com/geBb3M22
+>Musical Exploration (Nekiro)
+https://pastebin.com/9TGVy46L
+>Dare Prompt Fill (The Clique)
+https://rentry.org/c84dp
+>Rosethorn Date (Ryu-Kishi, Rosethorn)
+https://rentry.org/bwr7m5

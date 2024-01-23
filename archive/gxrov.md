@@ -1,3 +1,5 @@
+#VR Game Recommendations
+
 This is a list of recommended games and applications for VR. These are grouped by genre and very roughly ordered by popularity.
 Game recommendations are primarily focused on PC VR headsets, but some games in this list have also been ported to Quest and PSVR. Quest section only contains details about exclusives.
  
@@ -100,17 +102,7 @@ RoboRevive adds native SteamVR support to the game: https://github.com/LibreVR/R
  
 **Lone Echo**:  A singleplayer story adventure game in space with a focus is on storytelling, level design, lore, immersiveness (no HUD, not even subtitles). Visuals still look impressive despite being made back in 2017. Gameplay is pretty basic, but well done zero gravity puzzle "platforming" in 3D space.
  
-**Doom VFR**: A short VR spin-off of Doom 2016 that's around 3 hours long. A little buggy and suffers a bit from being designed around teleport movement, but it's still fun with some tweaks. They actually added smooth locomotion sometime a few years ago. You need to go to settings turn on smooth locomotion (fast), disable dashes. I also recommend mapping teleport (you still have to use it), shield and weapon select wheel to right stick left/up/right in SteamVR bindings editor. If they made good controller bindings by default and fixed crashes it would be a pretty good game. Still very fun and worth picking up on sale if you can deal with some bullshit.
-
-Just finished DoomVFR (it's on sale for 2 bucks right now). Doom VFR is 3 hours long on maximum difficulty...
-
-After you configure it a bit and play on maximum difficulty level it's actually pretty fun.
-
-They actually added smooth locomotion somewhen a few years ago. You need to go to settings turn on smooth locomotion (fast), disable dashes. I also recommend mapping teleport (you still have to use it), shield and weapon select wheel to right stick left/up/right in SteamVR bindings editor.
-
-Another issue the game can randomly crash, sometimes quite a lot. I found out you can esoterically avoid crashes by playing classic level first thing you do when you start the game. Oh and sometimes level geometry doesn't load and you need to restart the game.
-
-Overall,if they made good controller bindings by default, fixed crashes it would be pretty good game, but right now, it's very fun, but only if you can dead with some bullshit.
+**Doom VFR**: A short VR spin-off of Doom 2016 that's around 3 hours long. A little buggy and suffers a bit from being designed around teleport movement, but it's still fun with some tweaks. They actually added smooth locomotion sometime a few years ago. You need to go to settings turn on smooth locomotion (fast), disable dashes. Recommended to map teleport (you still have to use it), shield and weapon select wheel to right stick left/up/right in SteamVR bindings editor. If they made good controller bindings by default and fixed crashes it would be a pretty good game. Still very fun and worth picking up on sale if you can deal with some bullshit and occasional crashes.
  
 **Dead Effect 2 VR**: don't let the fact that this was originally a mobile shooter deter you from one of the most amazing VR hits of 2017. Coming from left field, the port of DE2 to VR was a welcome surprise in an otherwise starved VR catalogue. the game translates well to VR as a single player action shooter akin to the original Half Life. Collect loot, interact with the environment in VR such as flicking on your helmet flashlight, handling mechanical equipment, hacking into terminals with a swipe of your fingers, and frantically reaching for that crucial shell or magazine in a firefight. varied enemies, dark corridors, multiplayer, full VR reloading and hammy voice acting make this game a must-have.
  
@@ -184,7 +176,7 @@ Overall,if they made good controller bindings by default, fixed crashes it would
  
 **Skyrim VR**: Buy his game. It's Skyrim SE in VR. Almost all SE mods are compatible with it, and there are VR specific version of SkyUI and SKSE. It's a lazy port where weapon swings just emulate button presses, don't expect GORN combat but archery and magic are improved by motion controls. All the lewd mods are a thing of beauty in VR.
  
-**Fallout 4 VR**: Say what you will, this is the first port of the immense (and watered down) RPGs Bethesda is known for. The port is worse than the Skyrim one, but some mods are still supported, and it at least supports smooth movement.
+**Fallout 4 VR**: Say what you will, this is the first port of the immense (and watered down) RPGs Bethesda is known for. The port is worse than the Skyrim one, but some mods are still supported, and it at least supports smooth movement. Modding guide [here](https://rentry.org/pofw5) if you're interested.
  
 **No Man's Sky**: Space exploration survival game that gradually got patched into something that's actually worth playing. VR support was added in 2019 as one of the many changes in the BEYOND update. Fully supports motion controls, including virtual controls to fly your ship.
  

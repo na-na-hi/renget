@@ -142,11 +142,10 @@ Read the top right on the first sheet for instruction.
 *Don't* claim your spark until after you roll 1 of them or hit 400 rolls. 
 
 ## Banner Guide
-Global follows the JP schedule reasonably tight, see [the banner list](https://bluearchive.wiki/wiki/Banner_List) for all the upcoming banners. 
+Global follows the JP schedule reasonably tight, see [the banner list](https://bluearchive.wiki/wiki/Banner_List) for all the upcoming banners. Add 6 months to a banner from JP and that's when it happens in global. 
 
 For the actual guides, use any of the following:
 - [/bag/ guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) [(image version)](https://files.catbox.moe/z7om92.jpg) 
-- [Arona's projected banners spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vST0JkbV44jOb6kzmSNDav-PZ6ZSUZS-Um6FpAm6bGsLWXF6lJEoU84VXzSbg4SeQ/pubhtml#)  
 - [stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
 
 ## Team formation
@@ -160,9 +159,9 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what students to prioritise, just go to the 'Teambuilding' sheet (or click on the imgur). 
 
 Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the best unit in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
-For healers, buffers, and tanks you can ignore the environment mood and attack type. 
+For healers, buffers, and tanks you can ignore their environment mood and attack type. 
 Always run full teams (6 students). 
-Supports =/= DPS. They SUPPORT you by bringing CC. They do not deal damage. 
+Supports (role) =/= DPS. They SUPPORT you by bringing CC. They do not deal good damage. 
 
 For PvE (normal and hard missions, bounties, commissions) you want AOE units. If you're having trouble with a boss, bring in a strong single target (ST) DPS instead.
 At the start you run an evasion tank like Yuuka or Tsubaki, who are the best at tanking damage early on. Eimi is also a solid option thanks to her self-heal EX and very solid damage early on. The damage type of ur tank doesn't matter too much however, since their job is to tank damage. PvE mobs deal neutral damage, so armour types don't matter either. 
@@ -252,19 +251,19 @@ More comfort = more AP/energy.
 
 Recommended levels are a meme for missions, ignore them. You can beat missions 10-20 levels underneath the recommended levels. 
 
-You can cancel the special ability of the boss and elite mod with a well-timed CC. This is especially handy against the elite tankers, who get damage reduction during their ability (which can cost you precious seconds). 
+You can cancel the special ability of the boss and elite mob with a well-timed CC. This is especially handy against the elite tankers, who get damage reduction during their ability (which can cost you precious seconds). 
 ![CC in BA](https://i.imgur.com/dRYPRoE.png)
 
-If you have trouble with the boss you can charge ur EX bar to 10 the battle before.
+If you have trouble with the boss you can charge ur EX bar to 10 the battle before. They carry over between battles. 
 
-I'd recommendat using Tactical Supports. They can carry a lot of the missions by themselves. 
+I'd recommend using Tactical Supports. They can carry a lot of the missions by themselves. 
 
 If you hit a limit with your progression, switch over from normal to hard mode. Do the same until you hit a wall there. Alternatively, drain ur AP and get a few extra levels (1 AP = 1 XP) before trying the same stage again.
 You can refresh a hard node once a day for 3 extra sweeps. This is handy during rateup events, but generally not advised as it costs pyros. 
 Farming a hard node for equipments is better than its normal counterpart.
 Don't ever farm for BDs, the drop chance (2-5%) is abysmal. 
 
-Every stage drops stuff for 2 and 3 tiers down of the respective equipment (e.g. t5 boots drop t3 and t2 boots). The lower tier stuff have a lower drop rate however. In addition, the left item also has a higher drop chance than the other 2 items. Example:
+Every stage drops stuff for 2 and 3 tiers down of the respective equipment (e.g. farming t5 boots also drop t3 and t2 boots). The lower tier stuff have a lower drop rate however. In addition, the left item also has a higher drop chance than the other 2 items. Example:
 ![19-1 drop rate](https://i.imgur.com/Z8Ws5DJ.png) 
 (drop chance for 19-1) 
 
@@ -288,7 +287,7 @@ For a 3* you need 120 shards to unlock the student. A hard node drops on average
 
 >What hard nodes should I farm?
 ![hard nodes to farm](https://files.catbox.moe/xaahdt.png)
-If you have to choose between farming a student that's on the tier that you own vs someone you don't own thats higher on the tier, choose the higher one. 
+If you have to choose between farming a student that you own vs someone you don't own thats higher on the list: choose the higher one. 
 Example: you prioritise farming Iori (unowned) > Chise (owned) 
 
 Someone's made a [student insight doc](https://docs.google.com/spreadsheets/u/0/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/htmlview#), check it out for a more detailed explanation on farmable units.
@@ -434,7 +433,7 @@ Buying the activity reports with credits is kind of bad (as in really bad), so d
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
 Otherwise bring Serina to 2\*. After that? You post your roster in the /bag/ general and ask for help. It's faster that way. 
-Don't use ur elephs for [farmable characters](https://rentry.co/how2playba#farmable-units) if you can, they're quite literally farmable.
+Don't use ur elephs for [farmable characters](https://rentry.org/how2playba#farmable-units) if you can, they're quite literally farmable.
 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
@@ -466,7 +465,7 @@ In case you didn't realise, you can refresh the pvp shop with pvp coins, NOT wit
 I'll go over every item, just know that this shop is a lot more nuanced. You can pick anything and it'd be decent. 
 
 - Artifacts
-I don't recommend buying out the artifacts, except when you absolutely need to. Even though you can't get these artifacts through bounty, there are a lot of events where you can farm them. You also get an okayish chunk through raids.
+Buy them when you absolutely need to. Even though you can't get these artifacts through bounty, there are a lot of events where you get a dece to haul. There's the occasional morsel from raids too.
 
 - Reports
 The safest option if you don't know what to pick. They're purple, they're FREE\*, and you'll always need them. They're REALLY expensive though, so you usually skip them in favour of the other options. 

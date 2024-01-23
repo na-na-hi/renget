@@ -6,8 +6,9 @@ https://civitai.com/models/257749?modelVersionId=290640
 I made a powershell script to try and pull down the LoRAs on this rentry, it will store the last downloaded url for a lora in a history file in case a new or improved one replaces it so you can reuse the script without downloading everything again. You call the script and pass in a destination folder to store the LoRAs. Obviously run at your own risk, I can't prove to you I'm not an asshole or terrible programmer. You'll probably get throttled if you download everything in one go so run it overnight or something. Some of these LoRAs are huge, the whole folder with them all downloaded is ~6 gb. 
 
 UPDATE 1/21/2024 I added a basic management interface so it doesn't just pull down everything. You can pick and choose which loras you want.
+UPDATE 1/22/2024 Added some logic to keep old versions of LoRAs around in case one is updated but you still want to keep the old version around as well.
 
-https://files.catbox.moe/0wf29n.ps1
+https://files.catbox.moe/2kiajb.ps1
 
 ###Random
 https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003, you would have to look at the lora metadata to know what to prompt, there's flesh on the walls and stuff, fun to mess with
@@ -25,7 +26,7 @@ https://files.catbox.moe/eqcg4d.safetensors kaos_art
 https://files.catbox.moe/9qwl57.safetensors g3mma
 https://files.catbox.moe/nvc1m8.safetensors ndc
 https://files.catbox.moe/kbaz4k.safetensors trogfor
-https://files.catbox.moe/4vcz5y.safetensors nephlite
+https://files.catbox.moe/4b97sc.safetensors nephlite
 https://files.catbox.moe/qtpqif.safetensors yd
 https://files.catbox.moe/ecebk5.safetensors rustle
 https://files.catbox.moe/ojbvr4.safetensors afrobull
@@ -68,19 +69,21 @@ https://files.catbox.moe/ejcbc0.safetensors gud0c the signature is tagged, try p
 https://files.catbox.moe/ccz6sl.safetensors mo_(kireinamo)
 https://files.catbox.moe/1dsnon.safetensors konpeto
 https://files.catbox.moe/gnu3ky.safetensors melon22 It's pretty versatile, but to get the true melon look you have to add some helper tags. Try huge breasts, (muscular female:0.5), and neg muscular arms.
+https://files.catbox.moe/qj7xl0.safetensors pepper0
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
 https://files.catbox.moe/pr6abi.safetensors menma
 https://files.catbox.moe/3exvuz.safetensors nullmeta
 https://files.catbox.moe/mlziu8.safetensors Megami_Magazine
+https://files.catbox.moe/oqhdry.safetensors nyantcha
 
-These will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload
+These will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime 
 https://files.catbox.moe/b4wk0u.zip Megami_Magazine flat anime style
-
+https://files.catbox.moe/zxvyki.7z nyantcha
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯
 

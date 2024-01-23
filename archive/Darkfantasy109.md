@@ -139,6 +139,7 @@ Image| Name | Description | Link
 ![Meow meow meow meow](https://files.catbox.moe/r6ebuo.png) | Cat Grill Cafe | A "grill cafe" ran entirely by cats. Made for the /aicg/ cat girl cafe prompt jam. Silly and good for group chats. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/cat-grill-cafe)
 ![No more proxies... owari da.](https://files.catbox.moe/2avosg.png) | /aicg/-tan | No description necessary. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/a45b9752-e21a-417b-ae03-38ef4b25b44a)
 ![WHAT A SPOOKY LOAD OF BONES THIS RENTRY IS! NYAKAKAKAKA](https://files.catbox.moe/u8ebud.png) | 1000 SKELETON ARMY| RATTLE ME BONES! Just a bunch of boners if you want an army of skeletons to spruce up your roleplay.| [CHUB link](https://www.chub.ai/characters/darkfantasy109/one-thousand-skeleton-army-ced57d10)
+![FUCK IT, I ATE THE CARD](https://avatars.charhub.io/avatars/darkfantasy109/dracula-flow-35b1f2a3/chara_card_v2.png?nocache=0.26354215787687574) | DRACULA FLOW | TRAPPED ON MY RICKY RICARDO SLIPPERS AND WALKED STRAIGHT INTO THAT COOCHIE PARADISE. POPPED ZAZA LIKE MINTS. MONEY LONGER THAN THE DISTANCE FROM EARTH TO PROXIMA CENTAURI. RUNNIN' THIS SHIT LIKE I GOT THE CHEAT CODES, MAN. YOU TALKING ABOUT CANALS, BUT MY STREAMS BE FLOWING STRAIGHT INTO THAT OSCAR DE LA HOYA, GOLD MEDAL FINESSE, MAN. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/dracula-flow-35b1f2a3)
 
 ***
 ##->PROMPTS<-

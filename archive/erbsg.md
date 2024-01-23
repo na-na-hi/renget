@@ -7,14 +7,14 @@ Korean anime-styled battle royale with moba controls/skills. Currently 8 squads 
 https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
-https://playeternalreturn.com/posts/news/1654 (1.12 Patch Notes)
+https://playeternalreturn.com/posts/news/1673 (1.13 Patch Notes)
 https://playeternalreturn.com/posts/news/1599 (Season 2 Cadet Skin - Isol)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
 https://www.youtube.com/watch?v=KqDLrvrl_p0
 
-\>[New Character] Kenneth
-https://www.youtube.com/watch?v=DW56fqBQbeA
+\>Lumiapedia -  Kenneth
+https://www.youtube.com/watch?v=tM3Np3GKJq0
 
 \>Lumiapedia - Tsubame
 https://www.youtube.com/watch?v=MGkKkqv0B30
@@ -49,7 +49,7 @@ https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJ
 https://playeternalreturn.com/fankit
 
 \>Events
-https://playeternalreturn.com/posts/news/1636 (Holiday, ~1/18)
+https://playeternalreturn.com/posts/news/1679 (1/18 - 2/14)
 
 \>Codes
 https://gall.dcinside.com/mgallery/board/view/?id=bser&no=5044564&page=1
@@ -61,4 +61,4 @@ https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn
 https://rentry.org/erbsg
 
 \>Previous
-\>\>460447231
+\>\>462018775

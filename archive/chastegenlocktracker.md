@@ -5,7 +5,7 @@
 1. Chaster has finally added a feature to "limit lock time" when you create a lock. This is a hard-deadline for a lock where time cannot be added that brings you over it. __Make use of it__.
 
 ##### Currently Tracked locks
-_(Updated 19-Jan-2024)_
+_(Updated 22-Jan-2024)_
 
 !!! note 
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -27,7 +27,6 @@ _(Updated 19-Jan-2024)_
 | robintheincubus | https://chaster.app/sessions/VsoyOSyjnkqrkvHH | === |
 | Kinky_Twikii | https://chaster.app/sessions/EPphQ2J4vsNX3Ghi | === |
 | LockedUpOwO | https://chaster.app/sessions/bc1grVJYZOYGEjqn | === |
-| Volup | https://chaster.app/sessions/PI4fmOdVt4Pkmatg | === |
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
@@ -39,5 +38,5 @@ _(Updated 19-Jan-2024)_
 | Joyous | https://chaster.app/sessions/xOU5DeyOMrELdfO4 | === |
 | throwawaytl | https://chaster.app/sessions/3wWPaGvt2q4yyaFo | === |
 | obversedeviance | https://chaster.app/sessions/cKK0SO2wo3oE1xBj | === |
-| CephyMK | https://chaster.app/sessions/qJ4Es2uaLPzGOV6M | === |
+|  |  |  |
 |  |  |  |

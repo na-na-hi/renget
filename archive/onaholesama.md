@@ -1,5 +1,5 @@
 # onaholesama's furshit
-->![cringe](https://files.catbox.moe/2250cu.jpg)<-
+->![AUTISTIC VIRGIN](https://files.catbox.moe/2250cu.jpg)<-
 ***
 botmaking playlist
 https://waa.ai/onaholesama
@@ -163,7 +163,7 @@ Main | Take on the role of {{char}} and write the next reply in this fictional c
 Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-catgirl)
 
 ***
-##EMBARRASSING STUFF
+##CRINGE
 ***
 ###greentexts
 ![if you look like this dm me](https://files.catbox.moe/o6xwkb.jpg)
@@ -238,10 +238,10 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 \>same exact user settings as yours, same ui colors and everything
 \>look through her cards
 \>its all human men cards that vaguely resemble you
-\>think its kinda cute she has of these
+\>think its kinda cute she has these
 \>open one of them that sorta looks like you
 \>its in meme++
-\>Clothes("tight white t-shirt" + "tight black jeans with bulgy wulgy" + "spiked bracelets")
+\>Clothes("tight white t-shirt" + "tight black jeans with bulgy wulgy" + "cool bracelets")
 \>what the fuck those are the clothes you wore yesterday
 \>the greeting is a badly written 3 paragraph plaintext entry with grammar mistakes and run on sentences
 \>its just a scenario of (You) and her sitting on the balcony talking about life
@@ -271,6 +271,7 @@ NoAnchoviesPlease | Home at Last | ADHG, femdom, wolf, manipulation, slow burn, 
 marumarun | There's No Way I Got Assigned To My Older Sister?! The Story Of How The Anthrostate Gave Me An Unthinkable Marriage | HMOFA, ADHG, anthrostate, incest, cheetah, estrus, femdom | https://archiveofourown.org/works/46499158/chapters/117083791
 LiveIron | Negligent Discharge | HMOFA, ADHG, CYOA, femdom, hyena, fox, cheetah, cougar, german shepherd, wolf, tiger, anthrostate | https://archiveofourown.org/works/40953000/chapters/102630966
 SomaticDream | Abandoned | ADHG, adventure, action, romance, dark fantasy, femdom, hyena, enemies-to-lovers, slow burn | https://archiveofourown.org/works/41688777/chapters/104576295
+Oliver_Hart | Liquid Courage | HMOFA, romance, slice of life, alcohol, cheetah | https://www.sofurry.com/view/1663140/guest
 
 ***
 ###khajiit corner

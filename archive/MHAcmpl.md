@@ -203,6 +203,7 @@ Reika Umi: https://archive.4plebs.org/tg/post/91119597/
 Rui: https://archive.4plebs.org/tg/post/91197187/
 Kaori Kaoru: https://archive.4plebs.org/tg/post/91229075/
 Tomie: https://rentry.org/ddom6m82
+TechVision Elite 2023 - 43Vista UltraSmart 4K TV: https://desuarchive.org/tg/post/91654960/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -652,6 +653,7 @@ Class1D-005: https://archive.4plebs.org/tg/thread/91586719/#91591198
 1D Dance Team (Colorized): https://archive.4plebs.org/tg/thread/91595699/#91600316
 Shiketsu ED V0.2: https://archive.4plebs.org/tg/post/91610993/
 Kaylee embarrassed as she wins the beauty pageant / distant angry korean sounds: https://archive.4plebs.org/tg/post/91627063/
+least oppressed christian: https://desuarchive.org/tg/post/91654550/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -1049,6 +1051,9 @@ Takashi's Dungeon (Brightly): https://desuarchive.org/tg/post/91626497/
 Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver): https://rentry.org/z7w7e
 Orochi Wins (Orochi, Sandy, Mio): https://rentry.org/abuzhy7i
 The Leningrad Variation: https://rentry.org/mvtmnzy2
+The Fushimi Ward Incident: https://rentry.org/z3vti4m7
+Everything Wrong With the Two of Them (Reaper, Forget-Me-Not): https://rentry.org/fs8yafua
+Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper): https://rentry.org/5apxm5ao
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

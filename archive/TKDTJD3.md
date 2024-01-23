@@ -1647,3 +1647,397 @@ https://t.me/megatron_ron/1274  1/21/24
 
 Hezbollah announced that its fighters targeted an israeli force preparing for an aggression within Lebanese territory at midnight, Hezbollah shelled the vicinity of Zara’it barracks with rockets. This resulted in confirmed injuries.
 https://nitter.net/AryJeay/status/1749226398898606385#m  1/21/24
+
+>⚡️Al-Manar correspondent:
+Occupation aircraft target the towns of Marwahin and Taybeh, south of #Lebanon
+https://nitter.net/ME_Observer_/status/1749382273609154758#m  1/22/24
+
+>⚡️ Al-Manar correspondent:
+
+Occupation aircraft bombed Shihin and Tayr Harfa in southern #Lebanon.
+https://nitter.net/ME_Observer_/status/1749382122085781806#m  1/22/24
+
+>Photos showing the massive destruction in Al-Maghazi refugee camp in central Gaza as a result of the ongoing Israeli aggression.
+https://nitter.1d4.us/QudsNen/status/1749358848861696510#m  1/22/24
+
+>⚡️Lebanon: Member of the Loyalty to the Resistance Bloc in the Lebanese Parliament, MP Hassan Fadlallah: 
+
+The resistance will respond to targeting civilians by targeting settlements.
+
+ The enemy has not learned that assassinations will not undermine the will of the resistance, its creativity, and its ability to respond
+
+Stopping the aggression against #Gaza is the only way that opens the door to talking about any other solutions
+
+  We in the resistance have full preparations for any eventualities
+https://nitter.net/ME_Observer_/status/1749383632538468811#m  1/22/24
+
+>BREAKING:
+
+⚡ 🇲🇾 Malaysia's foreign minister will advocate for Palestine to become a full member of the United Nations.
+https://t.me/megatron_ron/1278  1/22/24
+
+>BREAKING:
+ 🇧🇪 🇮🇱Belgium Foreign Minister, contrary to Netanyahu and the group of war criminals:
+
+"The conflict in Gaza will not be resolved by weapons, and the violence must end.
+
+We will soon arrange a peace conference to put the two-state solution on the right path"
+https://t.me/megatron_ron/1279  1/22/24
+
+>⚡️Hebrew media: 
+
+Knesset security is trying to extract the families of prisoners detained in #Gaza after they entered a meeting of the Finance Committee to demand an exchange deal.
+https://nitter.net/ME_Observer_/status/1749383737924616554#m  1/22/24
+
+>Sounds of gunfire and explosions dominated last night as the invading Israeli troops tried to storm the Al-Maawasi region, located west of Khan Yunis.
+
+Over the past three months, the Israeli military has been demanding the people of Gaza to evacuate to the very same area, claiming it was a safe zone for Palestinian civilians.
+https://nitter.1d4.us/QudsNen/status/1749387702993043518#m  1/22/24
+
+>Sounds of gunfire and explosions are heard as Israeli tanks advance closer to Nasser Medical Complex in Khan Yunis.
+https://nitter.1d4.us/QudsNen/status/1749347086892777666#m  1/22/24
+
+>Irish Deputy Prime Minister Micheál Martin: "Israel has to be held to account in terms of what it’s doing in Gaza."
+https://nitter.1d4.us/QudsNen/status/1749349423443062822#m  1/22/24
+
+>People in northern Gaza are now forced to grind corn and fodder in lieu of wheat for bread after they began to face famine due to the continued Israeli military siege.
+https://nitter.1d4.us/QudsNen/status/1749372122122928473#m  1/22/24
+
+>⚡️CRAZY SNIPING: Al-Quds (PIJ) published a video showing a CRAZY sniper operation on 2 IOF soldiers, east of Al-Bureij Camp, leading to their immediate death.
+
+They made a hole in a wall to carry out the sniper operation… this is crazy. 🔻
+https://nitter.net/AryJeay/status/1749426457862902024#m  1/22/24
+https://files.catbox.moe/s4y1hq.mp4  1/22/24
+
+>🛑Al-Mayadeen quoting israeli sources:
+
+An Israeli drone was intercepted in the Quneitra region in Syria.
+https://nitter.net/AryJeay/status/1749431962928918911#m  1/22/24
+
+>Breaking | Israeli Foreign Minister Eli Cohen, in a meeting with his European counterparts: "We proposed the idea of an artificial island as an alternative homeland for the Palestinians."
+https://nitter.1d4.us/QudsNen/status/1749424404709175446#m  1/22/24
+
+>"Therefore, if the children of Gaza are forced to starve, to live in sewage pipes, and to eat moldy bread, I don't care, let this happen."
+
+An Israeli journalist says it is okay for Israel to starve Gaza's children to death so long as there are Israeli prisoners in the enclave.
+https://nitter.1d4.us/QudsNen/status/1749404988949074077#m  1/22/24
+
+>⚡️The moment journalist Imad Ghabboun and a number of residents were injured as a result of being targeted by the occupation army in northern #Gaza
+https://nitter.net/ME_Observer_/status/1749430302236094727#m  1/22/24
+
+>🛑 Government Information Office in the Gaza Strip:
+
+More than 400.000 people are facing real hunger.
+
+Additionally, more than 20 types of diseases have spread among the displaced.
+https://nitter.net/AryJeay/status/1749438537554972814#m  1/22/24
+
+>🛑| 🇮🇶Islamic Resistance in Iraq announces 2 operations:
+
+Attacking, with 2 missile salvos at different times, the Conoco US base in Syria.
+https://nitter.net/AryJeay/status/1749441413492715963#m  1/22/24
+
+>🛑 Al-Qassam Brigades (Hamas)
+
+Targeted a Merkava tank with an Al-Yassin 105 rocket, west of Khan Yunis, south of the Gaza Strip.
+https://nitter.net/AryJeay/status/1749443124965880254#m  1/22/24
+
+>Hezbollah inflicts definitive casualties on Israeli troops after targeting Samaqa site in occupied Shebaa Farms.
+https://nitter.net/PTVBreaking1/status/1749441049368379408#m  1/22/24
+
+>🛑| 🇮🇶Islamic Resistance in Iraq announce another operation:
+
+The attacking of Ain al-Asad US base in western Iraq with suicide drones. 
+
+This is the same base that was hit a few days ago with a salvo of 40 rockets & missiles by the same Iraqi Resistance.
+https://nitter.net/AryJeay/status/1749448281770299807#m  1/22/24
+
+>The prices of essential commodities like rice, sugar, milk, and cooking oil have risen unprecedentedly, amid the absence of any income for Gazan citizens. Even the UN Relief Agency no longer distributes aid.
+https://nitter.1d4.us/QudsNen/status/1749459657104507082#m  1/22/24
+
+>☠️ The israeli army admits to the elimination of 3 officers from the Paratroopers Brigade's 202nd Battalion, in the southern Gaza Strip today:
+
+🔻Maj. David Nati Alfasi, 27, a deputy battalion commander.
+
+🔻Maj. Ilay Levy, 24, a company commander.
+
+🔻Captain Eyal Mevorach Twito, 22, a platoon commander.
+
+Another soldier of the 202nd Battalion was seriously wounded in the same battle.
+https://nitter.net/AryJeay/status/1749473508382351873#m  1/22/24
+
+>🛑 Al-Mayadeen quoted israeli sources:
+
+“Today’s a very difficult day of battles inside the Gaza Strip.”
+https://nitter.net/AryJeay/status/1749474822969499954#m  1/22/24
+
+>Breaking | The Palestine Telecommunications Company announces that the internet in Gaza has experienced its tenth outage due to Israeli aggression.
+https://nitter.1d4.us/QudsNen/status/1749472330672120009#m  1/22/24
+
+>BREAKING:
+ 🇮🇱 Netanyahu's impeachment is on the agenda
+
+For the first time after the Al-Aqsa storm, the Zionist Knesset has decided to consider the impeachment of Netanyahu's cabinet for failing to return the prisoners from the Gaza Strip.
+https://t.me/megatron_ron/1284  1/22/24
+
+>⚡️| 🇾🇪 Yemeni Armed Forces’ Spox, Yahya Sarae:
+
+The Yemeni naval forces carried out a military operation targeting an American military cargo ship (OCEAN JAZZ) in the Gulf of Aden, using appropriate anti-ship missiles.
+https://nitter.net/AryJeay/status/1749477652845519217#m  1/22/24
+
+>⚡️Statement by the Yemeni armed forces : 
+
+The naval forces of the Yemeni Armed Forces carried out a military operation targeting an American military cargo ship (OCEAN JAZZ) in the Gulf of Aden, using an appropriate naval missiles.  
+
+The Yemeni Armed Forces affirm that retaliation against American and British attacks is inevitable, and any new aggression will not go unpunished."  
+
+Yemeni Armed Forces persist with their military operations: enforcing a blockade on Israeli navigation in the Red and Arabian seas until a ceasefire in Gaza is achieved, and the siege is lifted. 
+
+ The Yemeni armed forces continue to take all defensive and offensive procedures within the right to defend dear Yemen and in confirmation of the continued Yemeni position in support of Palestine.  
+
+The Yemeni armed forces continue to retaliate to any American or British aggression against our country by targeting all sources of threat in the Red and Arab Sea
+https://nitter.net/ME_Observer_/status/1749490449750843499#m  1/22/24
+
+>⚡️#Yemen: A military source to Al-Mayadeen: 
+
+The targeting of the American military cargo ship in the Gulf of Aden came after Sana’a forces warned American commercial ships not to pass through Bab al-Mandab.  
+
+ The armed forces have actually moved to target American and enemy military ships and will continue to target them at a high rate during the coming days.
+https://nitter.net/ME_Observer_/status/1749494142822965705#m  1/22/24
+
+>🛑| Al-Mayadeen quoting israeli sources: 
+
+“We are facing the most difficult attacks and events, since the beginning of the fighting in the Gaza Strip.”
+https://nitter.net/AryJeay/status/1749501500521410768#m  1/22/24
+
+>The US base in Conoco field inside Syria has been under fire for the 3rd time today by the Iraqi Resistance 🇮🇶
+https://nitter.net/AryJeay/status/1749499544386027527#m  1/22/24
+
+>In response to the statement of the Israeli Foreign Minister about expelling the people of Gaza to an artificial island, Hamas Senior leader, Osama Hamdan remarks:
+"Let him and the settlers go to that island. These are not words of someone who understands the significance of holding onto their homeland. As for us, we will remain in our land and liberate it, just as our ancestors freed it from many invaders."
+https://nitter.1d4.us/QudsNen/status/1749499741849731104#m  1/22/24
+
+>Designed in Europe, made in Gaza.
+
+(N.B. those are IOF soldiers with amputated limbs due to fighting in the Gaza Strip)
+https://nitter.net/AryJeay/status/1749502290577313828#m  1/22/24
+https://files.catbox.moe/5qetf0.mp4  1/22/24
+
+>⚡️United States of America:
+
+ Reuters correspondent at the Pentagon: The total number of attacks against American forces in Iraq and #Syria since the start of the war in #Gaza has reached 151 attacks.
+https://nitter.net/ME_Observer_/status/1749501258824654904#m  1/22/24
+
+>BREAKING:
+
+🇪🇺 EU member states agree on military campaign to secure merchant shipping in the Red Sea
+https://t.me/megatron_ron/1286  1/22/24
+
+>⚡️Syria: Al-Mayadeen sources: 
+
+4 military commanders from the SDF(American proxy militia that occupy one third of #Syria) forces were killed in Raqqa Governorate and others were injured in an unknown explosion inside a military headquarters  
+
+ The explosion occurred inside a military headquarters affiliated with the SDF, which includes a warehouse of explosives and ammunition, and the death toll is expected to rise.
+https://nitter.net/ME_Observer_/status/1749501566057386023#m  1/22/24
+
+>⚡️Israeli media: #Israeli media: 
+
+We are facing the most difficult incident since the beginning of the fighting in the #Gaza Strip
+https://nitter.net/ME_Observer_/status/1749501811478679805#m  1/22/24
+
+>⚡️Haaretz newspaper: 
+
+In violation of procedures, MGB officers shot an intelligence coordinator during an operation in the Galilee, seriously wounding him; According to the newspaper.
+https://nitter.net/ME_Observer_/status/1749511051367080256#m  1/22/24
+
+>⚡️Government Media Office: 
+
+A real famine in northern #Gaza after the quantities of flour, rice, and canned food ran out. We hold the #Israeli occupation and its allies responsible for the death of 400,000 #Palestinians from hunger.
+https://nitter.net/ME_Observer_/status/1749511185496514776#m  1/22/24
+
+>🛑 Al-Qassam (Hamas) issued the following in the last 20 mins:
+
+🔻Targeted a special Zionist force inside a building with TBGs, killing and wounding, them southwest of Gaza City.
+
+🔻Sniped an IOF soldier and directly wounded him, southwest of Gaza City.
+https://nitter.net/AryJeay/status/1749511857269039583#m  1/22/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing its forces clash with military vehicles and IOF forces, in the eastern regions of Jabalia Al-Balad, north of the Gaza Strip. 
+
+The last scene is what everyone wants to see. 🔻
+https://nitter.net/AryJeay/status/1749518941062320343#m  1/22/24
+https://files.catbox.moe/tkf13d.mp4  1/22/24
+
+US, Egypt, Qatar propose 90-day plan for Israel-Hamas ceasefire, signaling hope for regional normalization
+https://archive.is/xXL1f  1/22/24
+
+>⚡️CNN, according to two US officials :
+
+The United States has named the ongoing operation to target Houthi assets in Yemen “Operation Poseidon Archer,” and it is suggested that it will be a long term operation.
+https://nitter.net/ME_Observer_/status/1749525804587868616#m  1/22/24
+
+>BREAKING: 
+ 🇮🇱The Ministry of Transport in Israel confirmed that Saudi Arabia, Jordan and the UAE are helping Israel bypass the Houthi blockade.
+
+"Houthi bypass axis, goods from India through Abu Dhabi to Israel.
+
+I have established professional teams that will work to enable the overland transportation of goods from Abu Dhabi to Israel.
+
+The overland transportation of the goods will shorten the time by 12 days and greatly reduce the existing waiting time due to the wire problem.
+
+We will do it and we will succeed."
+
+She announced it now, but according to Israeli media, the operation has been going on for some time.
+https://t.me/megatron_ron/1288  1/22/24
+
+>Despite the destruction and starvation, children in Gaza find relief by playing on swings in the streets of Gaza.
+https://nitter.1d4.us/QudsNen/status/1749526767826620482#m  1/22/24
+https://files.catbox.moe/bb80lm.mp4  1/22/24
+
+>🚨 Several helicopters are seen transporting dead/wounded IOF soldiers after a severe attack by Hamas which killed/wounded more than a dozen israeli soldiers. The event is being censored and the IOF spokesman is silent about it. 
+
+A number of IOF soldiers are also missing.
+https://nitter.net/AryJeay/status/1749536301227876380#m  1/22/24
+
+>BREAKING| Israeli media report that approximately 20 Israeli officers and soldiers have been killed and wounded when two buildings were detonated and a third collapsed in Khan Yunis, Gaza.
+https://nitter.1d4.us/QudsNen/status/1749538668614652408#m  1/22/24
+
+>BREAKING| Media Coverage: "Al Qassam Brigades says that it targeted an Israeli tank and destroyed it, then an Israeli rescue force attempted to withdraw the tank from the location. However, resistance fighters foiled the rescue mission, which pushed an Israeli aircraft to bomb the tank with several missiles, completely crushing it and killing all Israeli soldiers inside it."
+https://nitter.1d4.us/QudsNen/status/1749537730751586792#m 1/22/24
+
+>⚡️A series of violent explosions rock the #Yemeni capital, #Sanaa, and US aircraft fly over several #Yemeni governorates.
+https://nitter.net/ME_Observer_/status/1749538636750561765#m  1/22/24
+
+>BREAKING| New American-British strikes have targeted locations in Sana'a.
+https://nitter.1d4.us/QudsNen/status/1749543807715074324#m  1/22/24
+https://files.catbox.moe/x0vroo.mp4  1/22/24
+
+>⚡️From the American-British aggression on the campus of #Sanaa International Airport
+https://nitter.net/ME_Observer_/status/1749545344956858480#m  1/22/24
+https://files.catbox.moe/ave7ym.mp4  1/22/24
+
+>🚨 Preliminary reports suggest more than 21 IOF soldiers were instantly killed after Hamas made 2 buildings collapse on their heads, with many more injured & missing.
+
+This caused for panick, the IOF sent more than 100 rescue units to Khan Younis, where the incident happened.
+
+Additionally, (un)related, the Zionist regime caved in and made a significant proposal to the mediators, a ceasefire of 2 months in exchange for the prisoners. Although this does not meet Hamas’ demands so it is very unlikely that this proposal gets accepted.
+https://nitter.net/AryJeay/status/1749552123149164660#m  1/22/24
+
+>🚨| 🇮🇶 BREAKING: Islamic Resistance in Iraq announces ANOTHER attack in israel:
+
+Attacking the port of Ashdod today, with suicide drones. 
+
+This is the first time Iraqi resistance target Isdud.
+https://nitter.net/AryJeay/status/1749563382582153562#m  1/22/24
+
+>⚡️Video by the Islamic Resistance in Iraq showing the launch of the suicide drone towards the port of “Ashdod”
+https://nitter.net/AryJeay/status/1749566157328171178#m  1/22/24
+https://files.catbox.moe/g6jh1i.mp4  1/22/24
+
+>⚡️Iraq: The Islamic Resistance announces in a statement that the port of Ashdod in the occupied territories was targeted by drones
+https://nitter.net/ME_Observer_/status/1749566756920734118#m  1/22/24
+
+Painful scenes from northern Gaza 5 days ago, when the local food charity cooked and distributed meals for the last time due to Israel's tight ban on humanitarian aid. 
+
+Video credit: Hussam Shabat
+https://nitter.1d4.us/QudsNen/status/1749554710963482639#m  1/22/24
+https://files.catbox.moe/cwtgsm.mp4  1/22/24
+
+>🛑 According to US official sources, the US-UK aggression dropped 25-30 precision-munitions on Yemen tonight, and they claim they targeted 8 different locations.
+https://nitter.net/AryJeay/status/1749572300456772038#m  1/22/24
+
+As 9% of Gaza's journalists were killed in 108 days, reports surfaced revealing that Israel uses AI to detect and assassinate Palestinian journalists.
+https://nitter.1d4.us/QudsNen/status/1749569307028173103#m  1/22/24
+https://files.catbox.moe/baahde.mp4  1/22/24
+
+>⚡️Yemen: Al-Mayadeen correspondent: 
+
+The B52 strategic aircraft participated in the aggression against #Yemen
+
+⚡️Yemen: Member of the Political Bureau of the Ansar Allah Movement, Muhammad Al-Bukhaiti: 
+
+Whatever the size of the bombing, our military operations against “Israel” will continue
+
+ Our military operations against “Israel” will continue until the genocide crimes in the #Gaza Strip stop
+https://nitter.net/ME_Observer_/status/1749581601669865682#m  1/22/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 22 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted a US military cargo ship (OCEAN JAZZ) in the Gulf of Aden with anti-ship missiles.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻(Partially) destroyed 4 Merkava tanks & 1 military D9-bulldozer in various battle zones throughout the Strip. 
+
+🔻Targeted an IOF infantry force with an anti-personnel explosive, causing casualties west of Khan Yunis.
+
+🔻Targeted a fortified building of a Zionist special force with a TBG anti-fortification rocket, resulting in casualties south-west of Gaza City.
+
+🔻Sniped an israeli soldier, inflicting direct injury upon him, southwest of Gaza City.
+
+🔻After an IOF tank was targeted by Al-Qassam, a Zionist rescue force tried to rescue the tank from the site of the attack, Al-Qassam forces confronted them and prevented them from advancing towards the vehicle, so IOF jets targeted the tank with several missiles, completely destroying it, including those inside of it (=friendly fire). 
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Targeted a military vehicle with RPG in the center of Khan Yunis city.
+
+🔻Shelled the military troop concentrations with mortars in the east of Zaytoun neighborhood in Gaza City.
+
+🔻Targeted a gathering of israeli soldiers with a Badr-1 IRAM rocket, east of Al-Maghazi camp, central Gaza Strip.
+
+🔻Clashed with israeli soldiers & military vehicles using various suitable weapons in axes of Khan Yunis.
+
+🔻Shelled a supply route and movements of military vehicles, east of Jabalia, with mortars in a joint-operation with the Al-Qassam Brigades.
+
+🔻Shelled military concentrations of IOF soldiers and vehicles in axes of Khan Yunis with mortars.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled military gatherings, east of Gaza City, with heavy caliber mortars.
+
+🔻Engaged in fierce clashes with IOF forces and military vehicles in axes of Khan Yunis, using diverse and suitable weapons.
+
+— 🇵🇸 Al-Asifah Forces:
+
+🔻Clashed with israeli soldiers using machine guns and RPGs in the city of Khan Younis.
+
+🔻Shelled the military gatherings in the Al-Mahatta area in Khan Younis with heavy-caliber mortars.
+
+— 🇵🇸 Abu Ali Mustafa Brigades:
+
+🔻Shelled military positions, east of Gaza City, with heavy caliber mortars.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted an armored carrier (APC) with RPGs, west of Khan Yunis, southern Gaza Strip.
+
+🔻Engaged in intense clashes with israeli soldiers using machine guns and suitable weapons in the axis west of Khan Yunis.
+
+🔻Shelled a military gathering of israeli forces & soldiers in the axis west of Khan Yunis with a barrage of heavy caliber mortars.
+
+— 🟡 Hezbollah:
+
+🔻Thwarted an attempted ground assault by Israeli forces in the vicinity of Zarit barracks.
+
+🔻Targeted a group of israeli soldiers around Al-Rahib site with appropriate weapons.
+
+🔻Targeted an IOF force on the Abu Dujaj heights with appropriate weapons.
+
+🔻Targeted the al-Samaqa site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted a group of israeli soldiers, around the "Even Menachem" settlement with rocket strikes.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Launched 2 missile attacks on the Conoco US base in Syria at different times.
+
+🔻Attacked the US Ain al-Assad base in western Iraq with suicide drones.
+
+🔻Attacked the Conoco US base with missiles for the 3rd time today.
+
+🔻Launched a suicide drone toward the port of Ashdod in Occupied Palestine.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1749583787522933032#m  1/22/24

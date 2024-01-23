@@ -19,6 +19,175 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 
 !!! Note In the top right corner of each page should be a little page icon, click it to copy the page for easy access! It only appears if you hover over the page itself.
 
+#Fighting Autism Tournament
+***
+Page 1
+***
+```
+Tournament Rules: 
+>>91630535 
+>>91630543 
+
+COMPETITORS
+
+>Name
+Yukiri Hora
+>Fighting Style
+School of The Flowing River Serpent
+>Link to Build
+>>91615062
+
+>Name
+Kuzi Kuro
+>Fighting Style
+Boxing
+>Link to Build
+>>91599860
+
+>Name
+Shirokami Yuu
+>Fighting Style
+One-Two Style
+>Link to Build
+>>91629940
+
+>Name
+Dirty Dan
+>Link to Build
+>>91600817
+>Fighting Style
+Bull Butchering
+
+>Name
+Shiori Nori
+>Fighting Style
+Lightning Striking Crane Arts
+>Link to Build
+>>91630707
+
+>Name
+Van
+>Fighting Style
+Assassination Arts
+>Link to Build
+>>91613119
+
+>Name
+Shira Miyoshi
+>Fighting Style
+Pure Power Style
+>Link to Build
+>>91614957
+
+>Name
+Viktor Jacarandá
+>Fighting Style
+Yamazouchi Karate
+>Link to Build
+>>91614252
+
+>Name
+Wildom
+>Fighting Style
+Style of the Jungle
+>Link to Build
+>>91625524 
+
+>Name
+Neil "Stout" Kilduff
+>Fighting Style
+Western Drunken Boxing
+>Link to Build
+>>91606605
+
+>Name
+Harold "The Grandfather" Jenkins
+>Fighting Style
+Slapstick Style
+>Link to Build
+>>91632173
+
+>Name
+Miyu Ogumama
+>Fighting Style
+Natural Killer Style
+>Link to Build
+>>91627615 
+
+>Name
+George Wilson
+>Fighting Style
+Folkstyle Greco-Roman Wrestling
+>Link to Build
+>>91612163 
+
+```
+***
+Page 2
+***
+```
+>Name
+Mortimer "Morty" Flagg
+>Fighting Style
+Freestyle Fighting
+>Link to Build
+>>91633644
+
+>Name
+Kazuki Adachi
+>Fighting Style
+Freedom Style
+>Link to Build
+>>91628121 
+
+>Name
+Kevin Knight
+>Fighting Style
+Ultimate Muscle Style
+>Link to Build
+>>91630223
+
+>Name
+Rafael "Coveiro" da Silva
+>Fighting Style
+Muay Thai
+>Link to Build
+>>91653917
+
+>Name
+Dick Abernathy
+>Fighting Style
+Strong Rape Style
+>Link to Build
+>>91624818
+
+>Name
+Zhong Yongrui
+>Fighting Style
+Esoteric Magic
+>Link to Build
+>>91613289 
+
+>Name
+Stanley
+>Fighting Style
+Consecutive Normal Punching
+>Link to Build
+>>91653421
+
+>Name
+The Bugman
+>Fighting Style
+Streetfighting
+>Link to Build
+>>91661498
+
+>Writefags
+https://rentry.org/Elephant_Sama_I_Kneel
+
+>The Tournament Main Segments:
+Phase 0: >>91664916
+```
 #Demon Eyes (3rd Run)
 ***
 Page 1
@@ -135,17 +304,19 @@ https://rentry.org/t7quhk
 
 >Artfags
 Sloth and Gluttony Meetup
->>91495387
+https://archive.4plebs.org/tg/post/91495387/
 Makoto and Kazama Selfie
->>91507831
+https://archive.4plebs.org/tg/post/91507831/
 Makoto and Yoru
->>91510355
+https://archive.4plebs.org/tg/post/91510355/
 Mess
->>91552302
+https://archive.4plebs.org/tg/post/91552302/
 reqs
->>91587636
+https://archive.4plebs.org/tg/post/91587636/
 Young love is so beautiful.
->>91626998
+https://archive.4plebs.org/tg/post/91626998/
+girlbosses (and haruhi)
+https://archive.4plebs.org/tg/post/91654539/
 
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
@@ -216,296 +387,6 @@ Turn 3: >>91520988
 
 ```
 
-#Star Wars (Reboot)
-***
-Page 1
-***
-```
-Rentry: https://rentry.org/i7k8r (Edit Code: f3pScfj8)
-
-5 years after the Battle of Mizra. https://starwars.fandom.com/wiki/Battle_of_Mizra
-
-The Republic has retreated to the Core. The Sith Lord that masterminded Mizra has been killed (probably by PCs). It's a free for all outside the Core filled with squabbling Sith, Mercenaries of all stripes, and Jedi have just started taking up the mantle of feudal lords to bring order to star systems.
-
-Band together with other Anons to conquer the galaxy or whatever. Ideally we'll all be part of a couple of factions whatever they end up being, probably Clones/Jedi/Etc vs Sith/Droids/Etc but whatever works depending who makes commanders and stuff.
-
-Further Explanation: >>91282906 
-
->New Perk for non-force sensitive characters.
->"Minor Force Talent"
->[-20 Points]
->You have some Force sensitivity after all! It's not on the level of a trained Jedi, but there are some tricks you know.
->You get access to the Basic Force Powers section, but unlike Jedi, you can't use those you do not purchase. You can purchase each power twice; the first purchase gives you a basic proficiency with it equal to the default for Jedi; the second purchase brings it up to a level of a Jedi character that purchased it. Your first two purchases in this section are free.
-```
-
-***
-Page 2
-***
-```
->Jedi
-Netra
->>91367540
-Dhor Tallav
->>91381724
-Farem Jarrik
->>91350879 
-Kēru Ya'moshi
->>91456423
-Kir Kadi
->>91371849
-Kaillos
->>91306925 
-IG-SX
->>91316549 
-Vaas Surgaav
->>91321284 
-Sabrassk
->>91360321
-Saewara Kol
->>91398869
-Kon Talkyl
->>91449191
-Quo'in Iyad
->>91392261
-Gobar Ceel
->>91431244
-Siemis Varr
->>91421566
-Alma Eohl
->>91411032
-Chad
->>91422409
-
->Sith
-Lord Devan Fernal
->>91287676 
-Ah'Navi
->>91292627 
-Darth Skyr (Deceased)
->>91378361
-Nemna-Sul
->>91456156
-Darth Bussy
->>91430963
-Grok Ko'Garr
->>91370410
-Darth Smolg
->>91370938
-Syko
->>91464890
-Darth Dahi
->>91378353
-Darth Nexios
->>91472662
-
->Indpendent
-Twen Ty
->>91283025 
-Alexander 'Xander' Drax.
->>91470350
-Tha'aia'ike
->>91376584
-Jei Jenstro
->>91305165 
-Orn Vizsla
->>91309386 
-Savin Targrave
->>91310398
-Jahoonda the Hutt
->>91360451
-Larbo Grudd
->>91360428
-Cree'v'aak
->>91399465
-Yegan Venn
->>91443813
-Tyr "Wildcat" Flame
->>91443874
-UrrGrum
->>91467150
-L'zov
->>91445344
-Kincaid
->>91459957
-Calligos Vanlar
->>91463251
-Cyrene
->>91465865
-Shotta Bait
->>91478374
-Faibuheddo
->>91449709
-```
-
-***
-Page 3
-***
-```
->Writefags
-IG-SX Saber Chart
-https://rentry.org/abf4o
-Tremors in the Force
-https://rentry.org/akat8
-Current Nemna-Sul Dossiers (Wip)
-https://rentry.org/4syqq
-Legacies (Saewara Kol)
-https://rentry.org/qgkm4 
-Skyr Missions:
->>91451399
-Keru's Relationship Chart:
->>91456444
-Oggdo Bogdo Bash (Kon, Smolg)
->https://rentry.org/OggdoCHADdo
-Kon VS Nexios+Syko matchup analysis
-https://rentry.org/mezmz
-The Battle of Mizra (Darth Skyr)
-https://rentry.org/ivrznu
-
-```
-
-#Fate/Arena
-***
-Page 1
-***
-```
->SETTING:
->>91166208
-
->"GAMEPLAY" CONT:
->Each day will be broken up into 3 "updates" each over a period of 8 hours, where anons can change the builds decision. I will elaborate more on what affects rolls and such if needed.
->It will begin on next Thursday.
-
->RULES (First Draft):
-https://rentry.org/FateArenaRule1
-
->BUILDS:
->Servants
->Diomedes (Saber)
-https://archive.4plebs.org/tg/thread/91152881/#91160188
->Red Riding Hood (Saber)
-https://archive.4plebs.org/tg/thread/89890471/#89891785
->Arsene Lupin (Assassin)
->>91177599
->Less (Assassin)
->>91168037
->Miura Anjin
->>91169176
->Fredricka II of Prussia.
->>91170045
->Leonardo Torres Quevedo
->>91174891
->Apollo 12 - Alter (Shielder)
->>91180964
->Frederick Townsend Ward
->>91172690
->Mochizuki Chiyome (Archer) (Stray Servant?)
-https://archive.4plebs.org/tg/thread/87135712/#87143309
->Sir Adrian Carton de Wiart
->>91176060
->Khutulun (Rider)
->>91178304
->Nursery Rhyme (Caster)
->>91180407
->The King of All Cats
->>91186085
->Elsewise
->>91195260
->Guy McAfee
->>91204341
->Lupa, The Capitoline Wolf
->>91205065
->Rosencrantz and Guildenstern
->>91209369
->Jan Zizka
->>91220473
->Joey Jabroni
->>91225701
-```
-***
-Page 2
-***
-```
->Masters:
->Sabile Sabanto
->>91166738
->Peter Little (Mind of Steel)
->>91167151
->Shiori Medoruma
->>91178581
->Lizrich von Einzbern
->>91168111
->Mundi Pishdar & His wife Naela
->>91168251
->Ronem Nadab
->>91171877
->Victory "Vex" Anne Gunn
->>91176654
->Shoat Silver
->>91177965
->Emilia Shadowsong
->>91179162
->Slasher
->>91179743
->Livya Caern
->>91181163
->Kinjiro Kajiba
->>91185546
->Silas M. Schrodfer
->>91195899
->Booker Caelus
->>91225713
->Agni
->>91202659
->Marissa Von Heinsworth
->>91209389
->Altair Salazar
->>91214199
->Arima Masao
->>91214356
->Damian Casper
->>91223665
->Aarando Specia
->>91217522
->Damian Casper
->>91223665
->John Doe
->>91224368
->Eulalia Sadowski
->>91227238
->Robert Butz
->>91229069
-
->Writefags:
->As the River Flows (Shiori)
-https://rentry.org/qvay7
->First Round Failure (Vex, Ward, mystery mages)
-https://rentry.org/cohks
->Jan's Wish (Jan, Marissa)
-https://rentry.org/k5tzu7
-
-Tierlist Maker: https://tiermaker.com/create/-mcyoag--fate-arena-16507969
-```
-***
-Page 3
-***
-```
->DAWN OF THE FIRST DAY
->>91231156
->Day 1 Part 1
->>91234693
->Day 1 Part 2
->>91245467
->When Peasants Attack
->>91262912
-```
-These Builds were removed from the list at the request of the respective anons. On the off chance it was an imposter or they change their mind, I'm leaving the links down here.
->Zarathustra
->>91170483
->Narisawa Enko
->>91175882
->Victor Van Bokhoven
->>91171086
-
 #MHA
 
 ***
@@ -525,9 +406,19 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Character
->Tomie
-https://rentry.org/ddom6m82
+>The Fushimi Ward Incident
+https://rentry.org/z3vti4m7
+>Everything Wrong With the Two of Them (Reaper, Forget-Me-Not)
+https://rentry.org/fs8yafua
+>Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper) https://rentry.org/5apxm5ao
+
+New Villain Build?
+>TechVision Elite 2023 - 43Vista UltraSmart 4K TV
+>>91654960
+
+New Art:
+>least oppressed christian
+>>91654550
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -840,6 +731,8 @@ Page 5
 >>91051410
 >Tomie
 https://rentry.org/ddom6m82
+>TechVision Elite 2023 - 43Vista UltraSmart 4K TV
+>>91654960
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
@@ -909,7 +802,7 @@ Page 6
 ***
 ```
 Writefags:
->Early writefags here (edit code: MHA Writefags)
+>Early writefags here (edit code: MHA Writefags) (10 Pages)
 https://rentry.org/MHAWritingList
 >”First Test” Comp
 https://pastebin.com/66ByP2sD
@@ -917,60 +810,6 @@ https://pastebin.com/66ByP2sD
 https://pastebin.com/Ksn0zJ31
 Else check the rentry
 
->Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
-https://rentry.org/2bovid
->Desolator's Last Stand (Desolator):
-https://rentry.org/b9ge4v
->Hold my Cap, it's License Time! Part 2 (Ryu-kishi, Luccione, Mirror Devil, Flying Force, Yako, Impakt, Fight Man, Hyotetsu, Maru(maru))
-https://rentry.org/h5izt6
->Renaissance (Desolator, Luccione, Mauler):
-https://rentry.org/rfyv4
->A Shiketsu Halloween (1-D, Popsy, Seiryu, Smokin' Sexy, Noctiluca, Marrow)
-https://rentry.org/6t4giv
->Faith Kang in: The VIP Box (ft. Anthony Chang)
-https://rentry.org/4ezcv
->Nocti becomes a 20th century warlord (Noctiluca, King Billy, less present are Popsy, Seiryu)
-https://rentry.org/NoctiBecomesA20thCenturyWarlord
->Tournament Part 3
-https://rentry.org/hpe3v
->A serpent amongst heroes and dragons (Yamata):
-https://rentry.org/mah6d
->Blooming of Tears (Rosethorn, Yamata)
-https://rentry.org/qggn4
->Internship Prelude (Smokin' Sexy, Rosethorn, Mirror Devil, Ryu-kishi, Maru (Maru), Drone, Flying Force)
-https://rentry.org/3c7tf
->A Carp (Sunlight Man, Yamata):
-https://rentry.org/gz4k5
->Spherethirst's Two-in-One (Clique, Challenger, Sunlight Man, Mirror Devil)
-https://rentry.org/doysdm
->MHA 1.9 part 2 (Ryu-kishi; Maru(maru); Archangel; Last Rite)
-https://rentry.org/82ucsq
->Dragon to Dragon Communication (Yamamoto, Yamata):
-https://rentry.org/ug2kk
->A Birthday on the 19th (Ryu-kishi, Maru(maru), Mirror Devil, 1-D, Rosethorn, Rebecca Weber, Seiryu(?))
-https://rentry.org/v7yae
->Penumbra (Challenger, Marrow, Tomi)
-https://rentry.org/MHApenumbra
->The Boys™ streaming
-https://rentry.org/2fguw
->The Clique™ channel (update)
-https://rentry.org/7s2qg
->Bullying with kindness (Capture Cloth, Yamata)
-https://rentry.org/oebs9
->Trip to school (Meadow)
-https://pastebin.com/geBb3M22
-```
-***
-Page 7
-***
-```
-Writefags (cont.)
->Musical Exploration (Nekiro)
-https://pastebin.com/9TGVy46L
->Dare Prompt Fill (The Clique)
-https://rentry.org/c84dp
->Rosethorn Date (Ryu-Kishi, Rosethorn)
-https://rentry.org/bwr7m5
 >Friends 3 (Capture Cloth, Android)
 https://rentry.org/mcagp
 >In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
@@ -1021,7 +860,7 @@ https://rentry.org/s8558
 https://rentry.org/4eama
 ```
 ***
-Page 8
+Page 7
 ***
 ```
 Writefags (cont.)
@@ -1073,10 +912,10 @@ https://rentry.org/oeyupk
 https://rentry.org/69nav
 ```
 ***
-Page 9
+Page 8
 ***
 ```
-Writefags (final)
+Writefags (cont)
 >Merry Christmas! (Drone, Mirror Devil, Ryu-kishi)
 https://rentry.org/7vr2zf
 >A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut)
@@ -1117,14 +956,318 @@ https://rentry.org/avuzhy6i
 https://rentry.org/z7w7e
 >Orochi Wins (Orochi, Sandy, Mio)
 https://rentry.org/abuzhy7i
-The Leningrad Variation
+>The Leningrad Variation
 https://rentry.org/mvtmnzy2
+>The Fushimi Ward Incident
+https://rentry.org/z3vti4m7
+>Everything Wrong With the Two of Them (Reaper, Forget-Me-Not)
+https://rentry.org/fs8yafua
+>Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper) 
+https://rentry.org/5apxm5ao
+
+```
+***
+Page 9
+***
+```
+Writefags (final)
+Soon.
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
 
 For Art, Memes, Tierlists, etc. check the rentry
 ```
+
+#Star Wars (Reboot)
+***
+Page 1
+***
+```
+Rentry: https://rentry.org/i7k8r (Edit Code: f3pScfj8)
+
+5 years after the Battle of Mizra. https://starwars.fandom.com/wiki/Battle_of_Mizra
+
+The Republic has retreated to the Core. The Sith Lord that masterminded Mizra has been killed (probably by PCs). It's a free for all outside the Core filled with squabbling Sith, Mercenaries of all stripes, and Jedi have just started taking up the mantle of feudal lords to bring order to star systems.
+
+Band together with other Anons to conquer the galaxy or whatever. Ideally we'll all be part of a couple of factions whatever they end up being, probably Clones/Jedi/Etc vs Sith/Droids/Etc but whatever works depending who makes commanders and stuff.
+
+Further Explanation: >>91282906 
+
+>New Perk for non-force sensitive characters.
+>"Minor Force Talent"
+>[-20 Points]
+>You have some Force sensitivity after all! It's not on the level of a trained Jedi, but there are some tricks you know.
+>You get access to the Basic Force Powers section, but unlike Jedi, you can't use those you do not purchase. You can purchase each power twice; the first purchase gives you a basic proficiency with it equal to the default for Jedi; the second purchase brings it up to a level of a Jedi character that purchased it. Your first two purchases in this section are free.
+```
+
+***
+Page 2
+***
+```
+>Jedi
+Netra
+>>91367540
+Dhor Tallav
+>>91381724
+Farem Jarrik
+>>91350879 
+Kēru Ya'moshi
+>>91456423
+Kir Kadi
+>>91371849
+Kaillos
+>>91306925 
+IG-SX
+>>91316549 
+Vaas Surgaav
+>>91321284 
+Sabrassk
+>>91360321
+Saewara Kol
+>>91398869
+Kon Talkyl
+>>91449191
+Quo'in Iyad
+>>91392261
+Gobar Ceel
+>>91431244
+Siemis Varr
+>>91421566
+Alma Eohl
+>>91411032
+Chad
+>>91422409
+
+>Sith
+Lord Devan Fernal
+>>91287676 
+Ah'Navi
+>>91292627 
+Darth Skyr (Deceased)
+>>91378361
+Nemna-Sul
+>>91456156
+Darth Bussy
+>>91430963
+Grok Ko'Garr
+>>91370410
+Darth Smolg
+>>91370938
+Syko
+>>91464890
+Darth Dahi
+>>91378353
+Darth Nexios
+>>91472662
+
+>Indpendent
+Twen Ty
+>>91283025 
+Alexander 'Xander' Drax.
+>>91470350
+Tha'aia'ike
+>>91376584
+Jei Jenstro
+>>91305165 
+Orn Vizsla
+>>91309386 
+Savin Targrave
+>>91310398
+Jahoonda the Hutt
+>>91360451
+Larbo Grudd
+>>91360428
+Cree'v'aak
+>>91399465
+Yegan Venn
+>>91443813
+Tyr "Wildcat" Flame
+>>91443874
+UrrGrum
+>>91467150
+L'zov
+>>91445344
+Kincaid
+>>91459957
+Calligos Vanlar
+>>91463251
+Cyrene
+>>91465865
+Shotta Bait
+>>91478374
+Faibuheddo
+>>91449709
+```
+
+***
+Page 3
+***
+```
+>Writefags
+IG-SX Saber Chart
+https://rentry.org/abf4o
+Tremors in the Force
+https://rentry.org/akat8
+Current Nemna-Sul Dossiers (Wip)
+https://rentry.org/4syqq
+Legacies (Saewara Kol)
+https://rentry.org/qgkm4 
+Skyr Missions:
+>>91451399
+Keru's Relationship Chart:
+>>91456444
+Oggdo Bogdo Bash (Kon, Smolg)
+>https://rentry.org/OggdoCHADdo
+Kon VS Nexios+Syko matchup analysis
+https://rentry.org/mezmz
+The Battle of Mizra (Darth Skyr)
+https://rentry.org/ivrznu
+
+```
+
+#Fate/Arena
+***
+Page 1
+***
+```
+>SETTING:
+>>91166208
+
+>"GAMEPLAY" CONT:
+>Each day will be broken up into 3 "updates" each over a period of 8 hours, where anons can change the builds decision. I will elaborate more on what affects rolls and such if needed.
+>It will begin on next Thursday.
+
+>RULES (First Draft):
+https://rentry.org/FateArenaRule1
+
+>BUILDS:
+>Servants
+>Diomedes (Saber)
+https://archive.4plebs.org/tg/thread/91152881/#91160188
+>Red Riding Hood (Saber)
+https://archive.4plebs.org/tg/thread/89890471/#89891785
+>Arsene Lupin (Assassin)
+>>91177599
+>Less (Assassin)
+>>91168037
+>Miura Anjin
+>>91169176
+>Fredricka II of Prussia.
+>>91170045
+>Leonardo Torres Quevedo
+>>91174891
+>Apollo 12 - Alter (Shielder)
+>>91180964
+>Frederick Townsend Ward
+>>91172690
+>Mochizuki Chiyome (Archer) (Stray Servant?)
+https://archive.4plebs.org/tg/thread/87135712/#87143309
+>Sir Adrian Carton de Wiart
+>>91176060
+>Khutulun (Rider)
+>>91178304
+>Nursery Rhyme (Caster)
+>>91180407
+>The King of All Cats
+>>91186085
+>Elsewise
+>>91195260
+>Guy McAfee
+>>91204341
+>Lupa, The Capitoline Wolf
+>>91205065
+>Rosencrantz and Guildenstern
+>>91209369
+>Jan Zizka
+>>91220473
+>Joey Jabroni
+>>91225701
+```
+***
+Page 2
+***
+```
+>Masters:
+>Sabile Sabanto
+>>91166738
+>Peter Little (Mind of Steel)
+>>91167151
+>Shiori Medoruma
+>>91178581
+>Lizrich von Einzbern
+>>91168111
+>Mundi Pishdar & His wife Naela
+>>91168251
+>Ronem Nadab
+>>91171877
+>Victory "Vex" Anne Gunn
+>>91176654
+>Shoat Silver
+>>91177965
+>Emilia Shadowsong
+>>91179162
+>Slasher
+>>91179743
+>Livya Caern
+>>91181163
+>Kinjiro Kajiba
+>>91185546
+>Silas M. Schrodfer
+>>91195899
+>Booker Caelus
+>>91225713
+>Agni
+>>91202659
+>Marissa Von Heinsworth
+>>91209389
+>Altair Salazar
+>>91214199
+>Arima Masao
+>>91214356
+>Damian Casper
+>>91223665
+>Aarando Specia
+>>91217522
+>Damian Casper
+>>91223665
+>John Doe
+>>91224368
+>Eulalia Sadowski
+>>91227238
+>Robert Butz
+>>91229069
+
+>Writefags:
+>As the River Flows (Shiori)
+https://rentry.org/qvay7
+>First Round Failure (Vex, Ward, mystery mages)
+https://rentry.org/cohks
+>Jan's Wish (Jan, Marissa)
+https://rentry.org/k5tzu7
+
+Tierlist Maker: https://tiermaker.com/create/-mcyoag--fate-arena-16507969
+```
+***
+Page 3
+***
+```
+>DAWN OF THE FIRST DAY
+>>91231156
+>Day 1 Part 1
+>>91234693
+>Day 1 Part 2
+>>91245467
+>When Peasants Attack
+>>91262912
+```
+These Builds were removed from the list at the request of the respective anons. On the off chance it was an imposter or they change their mind, I'm leaving the links down here.
+>Zarathustra
+>>91170483
+>Narisawa Enko
+>>91175882
+>Victor Van Bokhoven
+>>91171086
 
 #Kill the Heavens
 

@@ -1063,6 +1063,8 @@ https://files.catbox.moe/42qtm3.mp4 New  1/19/24
 https://files.catbox.moe/aih83k.mp4 New  1/20/24
 >Hamas forces target IOF soldiers, military vehicles, and buildings in which IOF forces are holed up, on the outskirts of Gaza City.
 https://files.catbox.moe/kqx0vs.mp4 New  1/21/24
+>Al-Qassam (Hamas) published a video showing its forces clash with military vehicles and IOF forces, in the eastern regions of Jabalia Al-Balad, north of the Gaza Strip.
+https://files.catbox.moe/tkf13d.mp4 New  1/22/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1111,6 +1113,8 @@ https://files.catbox.moe/9w28wq.mp4 New  1/13/24
 https://files.catbox.moe/d4o0mp.mp4 New  1/17/24
 >Al-Quds (PIJ) published a video showing their forces blow up IOF army vehicle(s) in an elaborate ambush east of Gaza City.
 https://files.catbox.moe/njxux4.mp4  1/21/24
+>Al-Quds (PIJ) published a video showing a CRAZY sniper operation on 2 IOF soldiers, east of Al-Bureij Camp
+https://files.catbox.moe/s4y1hq.mp4 New  1/22/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1344,3 +1348,13 @@ https://files.catbox.moe/e5k5nw.mp4 New  1/21/24
 https://files.catbox.moe/qsccty.mp4 New  1/21/24
 >Despite the destruction and starvation, children in Gaza find relief by playing on swings in the streets of Gaza.
 https://files.catbox.moe/bb80lm.mp4 New  1/22/24
+>New American-British strikes have targeted locations in Sana'a.
+https://files.catbox.moe/x0vroo.mp4 New  1/22/24
+>From the American-British aggression on the campus of #Sanaa International Airport
+https://files.catbox.moe/ave7ym.mp4 New  1/22/24
+>Kike kvetching for israeli captives 
+https://youtu.be/mRADqjGs0cc New  1/22/24
+>Painful scenes from northern Gaza 5 days ago, when the local food charity cooked and distributed meals for the last time due to Israel's tight ban on humanitarian aid. 
+https://files.catbox.moe/cwtgsm.mp4 New  1/22/24
+>Video by the Islamic Resistance in Iraq showing the launch of the suicide drone towards the port of “Ashdod”
+https://files.catbox.moe/g6jh1i.mp4 New  1/22/24
