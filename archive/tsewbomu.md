@@ -7,16 +7,24 @@
 	If you're unfamiliar with the Pico 4 Pro or want some more context to these extended thoughts I highly recommend reading my first impressions review [here](https://rentry.org/yw5mm).
 
 ###->The Problems With Pico<-
-While most Pico users it seems will tell you they have no issues whatsoever, I just get the feeling they are either gaslighting others, gaslighting themselves, or simply not as critical as I am in my evaluation of the headset, because this has not been my experience at all. The Pico has had several issues in my experience. Many of these are mild and certainly not deal-breakers, but some are really, really annoying and certainly could be deal-breaking depending on your use or simply when considered altogether. The following are the issues I've identified in my use, ordered by what I consider the most deal-breaking to least:
+While most Pico users it seems will tell you they have no issues whatsoever, I just get the feeling they are either gaslighting others, gaslighting themselves, or simply not as critical as I am in my evaluation of the headset, because this has not been my experience at all. The Pico has had several issues in my experience. Many of these are mild and certainly not deal-breakers, but some are really, really annoying and certainly could be deal-breaking depending on your use or simply when considered altogether. The following are the issues I've identified in my use, ordered by what I consider the most deal-breaking to least (I've additionally included a short description of the issues):
 
 - Degraded encoding performance (in some circumstances)
+	%dimgray% While not Pico specific, in challenging conditions streaming VR can become downright unusable %%
 - Excessive battery drain
+	%dimgray% Pico's built-in battery gets at best 120 minutes while streaming %%
 - Microphone audio latency
+	%dimgray% The Pico's microphone has about a 100-200ms delay between talking and the audio reaching the program you're using %%
 - Color banding
+	%dimgray% Again not Pico specific, but video encoding in 8 bit introduces noticeable color banding %%
 - Headset comfort and weight
+	%dimgray% The base Pico is fairly light, but with the additional things needed to bring it to Index quality the headset is quite heavy. Additionally the default face interface isn't great %%
 - Audio performance
+	%dimgray% Pico has noticeably worse audio than the Quest 2, and audio performance even differs between different standalone apps %%
 - Poor software support
+	%dimgray% Pico has fewer options for streaming, the standalone app store is extremely lacking, and apps often support fewer features or are downright abandoned on Pico %%
 - Mismatched lens clarity
+	%dimgray% Edge-to-edge clarity is not the same between left and right eyes, and a slight surface distortion is present %%
 
 ###->The Solutions I Tried<-
 The following is a list of solutions I tried, some to fix various issues. I'll outline my thought process, what I was trying to fix, and how it went.

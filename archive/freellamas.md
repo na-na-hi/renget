@@ -26,7 +26,7 @@ API URL: ~~```https://parking-coupled-regarded-pi.trycloudflare.com``` ~~
 
 **Chat start:**
 ```bash
-</s>[INST]The chat begins.
+[INST]The chat begins.
 ```
 
 **Example separator: Empty**
@@ -62,11 +62,11 @@ Separator: `</s>`
 Context: [10k]
 New Tokens: [400] - use "Continue" button if the reply gets cut off
 Temperature: [0.7 - 0.9] - slide this up as your chat gets longer for more creativity, low context + high temp = gibberish
-Rep. pen: [1.08 - 1.12] - reduce likelihood of previously appeared tokens showing up
-Rep. pen range: [1000] - how many previous tokens to scan for repetition
+Rep. pen: [1.05 - 1.12] - reduce likelihood of previously appeared tokens showing up
+Rep. pen range: [888] - how many previous tokens to scan for repetition
 Top_k: [100] - number of best tokens to select from
 Min_p: [0.03] - minimum chance for a token to be selected compared to the best token
-Dyna temp: [min 0.2, max 1.5] - Set low for low-bit quantized models
+Dyna temp: [min 0.2, max 1.4] - Set low for low-bit quantized models
 Do_sample: [On]
 ```
 https://rentry.org/llm-settings

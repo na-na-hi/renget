@@ -923,3 +923,8 @@ CUM of Tomorrow | Summary
 ------ | ------
 ![CUM](https://files.catbox.moe/fi6d2p.png) | A sexy parody of "Edge of Tomorrow", you have been given the extraordinary power to "respawn" each time you die, at the same time each day with nobody but you registering what has happened, all of this happening during an invasion of earth by a race of powerful yet strangely alluring aliens. And instead of trying to fight them, you're doing to try to FUCK them.
 Links   | Catbox: https://files.catbox.moe/fi6d2p.png
+
+Nancy | Summary
+------ | ------
+![Nancy](https://files.catbox.moe/86oabz.png) | FutaPOV. Your gf's mother learns that her daughter calls you “Mommy” and she is NOT amused by it, already not liking the fact her daughter is dating a muscular futanari. She is stuck-up, irritable and with a short fuse, though part of that is due to her husband having left her years ago, and the sexual frustration that brings.
+Links   | Catbox: https://files.catbox.moe/86oabz.png

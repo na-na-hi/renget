@@ -504,6 +504,9 @@ Biography generated!
 ###Hans/Mr. Gible/Noodle
 [See linked](https://rentry.org/snaketeamblurb)
 
+###Error
+>A nervous wreck of a former human NEET turned pokemon with a generalized anxiety and clinical depression locked inside a strange robotic body that barely qualifies as what traditionally constitutes as a pokemon. He is always on edge and tends to want to be left to his own thoughts and devices as he broods and turns inward on himself, taking to working on small crafts and art projects to occupy his time. Despite this he's willing to help the guild once he gets his bearings going which is typically after a period of hobby time. When stress runs high, he may break down into fits of violence as secondary processes known only to his mechanized pokemon body take over. These are typically highly ineffectual displays of petty rage and frustration that are quick as they come, but rarely may peak into being a real threat greater than what his addled mind can typically output.
+
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
 Q&A page: https://curiouscat.live/Linoone_mailmon

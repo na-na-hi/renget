@@ -6,6 +6,9 @@ __Disclaimer__
 I'm pretty new to scripted cards, though I do have about two decades worth of programmer experience. Take this information as you wish.
 Kudos to https://rentry.org/creamsan, it was his cards that inspired me to look into this.
 
+On the git, you can find the script linter/parser under the /public/scripts folder: https://github.com/SillyTavern/SillyTavern/tree/release/public/scripts
+Commands are registered and executed via callbacks, if you ever need to look them up.
+
 __Introduction__
 What is STscript? It's probably easier to show through an example.
 
@@ -48,7 +51,7 @@ So now we see that we can assign values, at least numbers. But is that true only
 And we see that undefined is a thing, but is null?
 How can we even tell what value our variables hold at a given time?
 
-These, and many more questions can often come up while scripting. We will need what I'll call developer tools to be able to reason about the way our script works. For example, let's talk about `| /echo`. What `|` does is to "pipe" or forward the result of the operation on its lefthand side to the operation on the righthand side. We'll discuss this further in the section commands vs macros, but for now this means that if we want to know the value of a variable called `foo`, then we can use the command `/getvar foo | /echo` to get a snackbar message with the value. You can use `/listvar` to get the current state of all of your variables, but when looking for a certain one among many, this is your best option - this or `/sys` if the temporary message is not enough.
+These, and many more questions can often come up while scripting. We will need what I'll call developer tools to be able to reason about the way our script works. For example, let's talk about `| /echo`. What `|` does is to "pipe" or forward the result of the operation on its lefthand side to the operation on the righthand side. We'll discuss this further in the section commands vs macros, but for now this means that if we want to know the value of a variable called `foo`, then we can use the command `/getvar foo | /echo` to get a snackbar message with the value. You can use `/listvar` to get the current state of all of your variables, but when looking for a certain one among many, this is your best option - this or `/sys` or `/comment` if the temporary message is not enough.
 
 We can leverage this functionality to get some more answers about how things work. Oh, and by the way, SillyTavern does come with its own dev tools also. If you start typing in any command, you will see a tooltip pop up with the description of the possible autocompletions. It's neat. You may also use `/?` to get started on specific topics.
 
@@ -160,7 +163,7 @@ First, QuickReply is an extension. In this guide I try to go around it as much a
 
 And second, we won't actually be able to pass arguments to these "functions" directly, and will have to go a kinda roundabout way. It won't be that awful, I promise. But it could be better.
 
-To enable the extension, open the extensions tab, open the QuickReply section, and tick the `Enable Quick Replies` checkbox. If you want to use it the way I do, also tick `Disable Send / Insert In User Input `. This will prevent the user input content to be passed to the "function" by default. Whether you want this or not is up to you, I prevef not to have it because we shouldn't ever need it.
+To enable the extension, open the extensions tab, open the QuickReply section, and tick the `Enable Quick Replies` checkbox.
 
 QuickReplies are sorted into presets. You will need to create a preset to add your "functions" to. You can do this in the same GUI window, or by using the `/qr-presetadd slots=1 TestPreset` command. The number of slots should be howevermany "functions" you want to have, and the name of the preset should be something you will remember. STscript likes to complain about how you case it, so I found PascalCase to be useful here. The guide uses it anyway. You might still get a warning when you run the command, but if you check the QuickReply extension window, you will see the preset added.
 
@@ -169,6 +172,10 @@ From this point on, we can create our "functions". Either in the same window, or
 /qr-create set=TestPreset hidden=true label=MyFunction /getvar myvar \| /echo \{\{pipe\}\}
 ```
 The `set` should be the name of the preset we want to use. This QuickReply will use up one of the slots. The `label` will be the name of the QuickReply, you will use this with the `/run` command, and you will also see this on the button if you do create one. `hidden` decides whether the button will be added or not, with `hidden=true` meaning that it won't. Everything afterwards, so `/getvar myvar \| /echo \{\{pipe\}\}` is the code inside the "function". This code would run if the button is clicked or if we run the QuickReply manually. Here it passes the `myvar` variable's value to `/echo` through a pipe. Unfortunately, you cannot use `{{pipe}}` to pass data to the QuickReply, and you need to escape stuff here as well. Unless you're editing in the window, in which case you don't need any `\`.
+
+!~red; Important update here! ~!
+While passing data to the functions via setting variables, as described below IS possible and probably a better idea than the way STscript intends we do it, you can indeed pass arguments to a QuickReply. The `/help slash` command details how it's done. But I recommend against it, it can be awkward when passing literals and not only values stored in variables.
+!~red; update end ~!
 
 So how will we pass data to our "functions"? With variables, in a kind of assembly way. In the previous example, no matter how many times you run the QuickReply, it will get the data from the variable named `myvar`. So... If we have a "function" that's called `multiply` inside the `TestPreset` preset, and we make it that it uses the variables `multiplyA` and `multiplyB`, then we can do this:
 ```
@@ -195,7 +202,134 @@ What `/return` does is essentially end the running of the given command and pass
 To stop the running of a command chain or "function" without returning anything, we can use `/abort`.
 
 __Error handling__
+The last thing I want to mention before we get to doing some practical examples is error handling. It's entirely optional, you don't need to do this, but I couldn't in good conscience omit it. The idea of error handling is twofold. Mainly we want to ensure that if something in our script goes wrong then we detect and either fix it, or we do a graceful shutdown; and maybe alert the user too. Besides that, we can also do pre-emptive validation to make it even less likely that any error occurs.
+
+Unfortunately, there is no try-catching here. We can't automatically throw and detect errors, and we'll have to periodically - or after important operations - check if our operations were indeed correct. For simple things, for example for a function that we want to return a positive, we can simply check afterwards if the variable and its absolute value are the same. This isn't much different from validation. For more complex logic, a decent approach is to have your functions return an object. It can go a few ways, but you will want to have the object contain two pieces of information: whether the operation was successful, and the value it gave us. You could, for example, have an object with a result and a success variable. Or result and error, where if the error is undefined then it's treated as a successful resolution. Or you could forgo the object and return the result on success by itself, and only on errors return an error object with maybe an error code and a message about what went wrong. Yet another approach, since we will have to write our output as a variable anyway, you can use a result and an error variable instead of a singular object.
+
+The guide will follow this approach:
+```
+{
+  "result": <value we want to return>,
+  "error": {
+    code: <numeric error code>,
+    message: <custom message about the particular erroneous operation>
+  }
+}
+```
+If there was an error then `result` will be undefined, and if the operation was a success then `error` will be undefined.
+Note that it can be possible for both `result` and `error` to be undefined at the same time, for example if a search function didn't find a match. This is considered a successful oepration, as there was no error. It's up to the developer's discretion to write his or her functions with possible return values that are meaningful to them.
+
+__Manipulating the conversation__
+We've already seen `/sys` that sends a system message to the conversation. To send a message that will be shown in the chat but NOT added to the chat history, use `/comment`. You can see a little "ghost" icon in a message's header to tell if it's part of the prompt or not.
+
+There are also the commands `/send` and `/sendas` that you can use to send a message as the user or aas a given character. Note that this will not trigger a generation, so in other words, the AI will not reply to this message on its own right away. You can use the `/trigger` command for that.
+
+But we can also extract messages from the conversation itself. Depending on your UI configuration, you may see a number attached to every message sent to a conversation, counting upwards and prefixed with a hashmark. This is the message's ID. Not two messages can have the same ID, making it a UUID - inside the conversation. However, system messages and hidden messages are not exempt from this. What does this mean?
+
+We can use the `/messages` command to get any message from the conversation, using its ID. We can even get a chain of messages between a start and end ID. But the system messages and notes will be included also.
+```
+/messages names=off 25-27 |
+/sys
+```
+This command will send a system message with the messages with IDs 25, 26, and 27. If your conversation has them, of course. Using the `names` param, you can either add or omit the message sender names.
+
+To access the very last message ID dynamically, we can use the `{{lastMessageId}}` macro. As a sidenote, the macro `{{lastMessage}}` also exists, giving us the text of the last message.
+```
+/messages names=off {{lastMessageId}} |
+/sys
+```
+
+Now unfortunately, despite what would be intuituve, `/messages` does not give us an array of messages but one continuous string, making it quite hard to filter out system messages and notes.
+
+Let's write a utility QuickReply function to access only messages characters or the user sent. So first off, let's think about what we would want such a function to do and how we want it to behave.
+
+Ideally, I want to have a function that I pass two parameters to, a start and end ID, and it would return an array of strings with the messages.
+It could be upgraded to also take the same `names` parameter, or to automatically substitute the `{{lastMessageId}}` if I omit the end ID. Let's write the basic function first, and then we'll deal with all these. We will write error handling for in the end too. For this example, I recommend using the QuickReply GUI window to edit the function, since we'll have a few iterations.
+
+Let's assume that we already have the QuickReply preset called `TestPreset` from before. Create a QuickReply called `getMessages`. Whether you want to use arguments or variables is up to you, I'll be using two variables called `gm_start` and `gm_end` as inputs, and return into a variable called `result`. I recommend typing in something like `/echo 123` and running the function just to make sure it works, before we go any further.
+```
+/run TestPreset.getMessages
+```
+Or you can press the execute button from the editor window.
+
+Replace the `/echo 123` with the following:
+```
+/messages names=off {{getvar::gm_start}}-{{getvar::gm_end}} |
+/sys
+```
+If the `gm_start` and `gm_end` variables are set before the function is ran, this will print the desired messages into the conversation as before.
+```
+/setvar key=gm_start 25 |
+/setvar key=gm_end 27 |
+/run TestPreset.getMessages
+```
+
+Now, we will have to apply two modifications. First, we want the function to return the messages in an array, and not print them. Second, we want to filter system messages and notes. Filtering is easy to do with arrays, so let's start with the former. There are a couple of ways we could go about it, like trying to split the string or apply a regex, but what I'll do is to get the messages one at a time and add them one by one to an array.
+
+First, let's do a simple loop. Note the `/incvar i` part. If you forget to step your loop variable, you'll get an infinite loop. SillyTavern will shut it off for you, but keep it in mind nonetheless.
+```
+/setvar key=i {{getvar::gm_start }} |
+/while left=i rule=lte right={{getvar::gm_end}}
+	"
+	/echo \{\{getvar::i\}\} \|
+	/incvar i
+	"
+```
+All this does is echo the numbers from `gm_start` to `gm_end` (inclusively). The same could be written as:
+```
+/setvar key=i {{getvar::gm_start }} |
+/while left=i rule=lte right={{getvar::gm_end}}
+	"
+    /return \{\{getvar::i\}\} \|
+	/echo \{\{pipe\}\} \|
+	/incvar i
+	"
+```
+But if instead of the `/return` we get the message with the ID `i` hold in that iteration...
+```
+/setvar key=i {{getvar::gm_start }} |
+/while left=i rule=lte right={{getvar::gm_end}}
+	"
+    /messages \{\{getvar::i\}\} \|
+	/echo \{\{pipe\}\} \|
+	/incvar i
+	"
+```
+Then we just iterated over all the messages with IDs from `gm_start` to `gm_end`. But we also want to store these messages in an array. Unfortunately STscript has no array push or append method, so we'll have to start a counter at zero and increment it each time. In the following snippet it'll be called `result_index`.
+```
+/setvar key=result [] |
+/setvar key=result_index 0 |
+/setvar key=i {{getvar::gm_start }} |
+/while left=i rule=lte right={{getvar::gm_end}}
+	"
+	/messages \{\{getvar::i\}\} \| 
+	/setvar key=result index=\{\{getvar::result_index\}\} \{\{pipe\}\} \| 
+	/incvar result_index \|
+	/incvar i
+	"
+```
+
+Now, we should be able to do this:
+```
+/setvar key=gm_start 25 |
+/setvar key=gm_end 27 |
+/run TestPreset.getMessages |
+/sys {{getvar::result}}
+```
+Pretty cool, huh?
+
+
+__Injections and author's note__
 TODO
 
-__...all the rest...__
+__Stat trackers and RPGs__
+TODO
+
+__Automation and using the LLM__
+TODO
+
+__HTML5 minigames__
+TODO
+
+__Conclusion__
 TODO

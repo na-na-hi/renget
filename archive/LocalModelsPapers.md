@@ -267,7 +267,7 @@
 01/2024|[EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497)
 01/2024|[Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications](https://arxiv.org/abs/2401.06197)
 01/2024|[Scalable Pre-training of Large Autoregressive Image Models](https://arxiv.org/abs/2401.08541)
-01/2024|[Orion-14B: Open-source Multilingual Large Language Models](https://files.catbox.moe/ik2pr6.pdf)
+01/2024|[Orion-14B: Open-source Multilingual Large Language Models](https://arxiv.org/abs/2401.12246)
 01/2024|[Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)
 01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
 |
@@ -514,6 +514,9 @@
 01/2024|[AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference](https://arxiv.org/abs/2401.10652)
 01/2024|[Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)
 01/2024|[Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation](https://arxiv.org/abs/2401.08417)
+01/2024|[BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models](https://arxiv.org/abs/2401.12522)
+01/2024|[Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment](https://arxiv.org/abs/2401.12474)
+01/2024|[Dynamic Layer Tying for Parameter-Efficient Transformers](https://arxiv.org/abs/2401.12819)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

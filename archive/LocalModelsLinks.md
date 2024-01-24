@@ -3,7 +3,7 @@
 ------ | ------
 **Guides**|
 [Quick Start Guide](https://rentry.org/lmg-spoonfeed-guide)|Anon's tutorial for getting models running locally 
-[SillyTavern RP Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp 
+[SillyTavern RP Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp. Additional [GNBF grammar](https://rentry.org/custom_GBNF) usage
 [LM Tuning Guide](https://rentry.org/llm-training)|Training, finetuning, and LoRa/QLoRa information 
 [LM Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
 [LM GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a $1k 3xP40 [setup](https://rentry.org/Mikubox-Triple-P40)

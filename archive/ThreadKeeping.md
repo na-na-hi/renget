@@ -406,15 +406,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Roll Tournament
-https://rentry.org/MHARollTournamentRound1
-
-New Hero Build
->Suki HN Sukeban
->>91670899
+>The Roll Tournament 2
+https://rentry.org/MHARollTournamentRound2
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
-https://archive.4plebs.org/tg/thread/91394871/
+https://archive.4plebs.org/tg/thread/91673568/#91673768
 
 >CHARACTER PROMPTS (feel free to answer these whenever)
 Class 1-D Prompts 1-50: https://rentry.org/mhamp
