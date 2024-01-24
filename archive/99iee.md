@@ -120,20 +120,20 @@ aaa H: Additional members were later added: the advanced golem Roboco and the sh
 617H: The first brigade of many of The Order is named. The brigade was simply dubbed The First Brigade.
 aaa H: Rumors surface that there was a supposed 6th member of the first Order brigade, who suffered a very grim fate. This persists as a grim tale.
 aaa H: The Order expansion continues, launching Second Brigade. Savan Royal Council member Mio Ookami also inducted.
-618-622 H: The Fantasia Brigade debuts with five people, the Quad Force Brigade debuts with five new ladies too, the new Red Division debuts with the Honse and Hwanse brigade, with three women each. Islander division is launched with the Astral Brigade, as well as opening the new Star Knights division, launching the First Squad to far less fanfare and even scorn from some sectors, mainly from Blancopolis.
+618-622 H: The Fantasia Brigade debuts with five people, the Quad Force Brigade debuts with five new ladies too, the new Red Division debuts with the Honse and Hwanse brigade, with three women each. Islander division is launched with the Astral Brigade, as well as opening the new Einher branch, launching the First Squad to far less fanfare and even scorn from some sectors, mainly from Blancopolis. Prior female Guardians are then designated in the Valkr brigade, named after the Polarian Valkyries of old.
 619 H:The Red Coup erupts, then-Bishop Damaso leads the coup with a brash, bold doctrine about genders mingling and who in The Celestium is "worthy" of worship.
-620 H: The Red Coup swiftly and violently emds with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Obisco stepped down in light of Damaso's men occupying Corte Blanca by force.
+620 H: The Red Coup swiftly and violently ends with then-Bishop Damaso ascending to Grand Pontifex after the previous Grand Pontifex Obisco stepped down in light of Damaso's men occupying Corte Blanca by force.
 621 H: Grand Pontifex Damaso orders all treaties with Polaria null, demanding that the Knights division of The Order be removed. Polaria, under King Covigo's order, refuses the demand.
-aaa H: Grand Pontifex Damaso declares all male members of The Order persona non grata and declared that harm to them by Blanc citizens will be rewarded. The Curia then begins harrasment brigades against all Valkrs actively interacting with the Star Knights.
+aaa H: Grand Pontifex Damaso declares all Einher Guardians of The Order persona non grata and declared that harm to them by Blanc citizens, as well as other nations' citizens will be rewarded. The Curia then begins harrasment brigades against all Valkrs actively interacting with the Einhers.
 623 H: Vermel Darkstar challenges the reigning Tyrannus Noxus Blacknova to a fight to the death for the throne of Negazion after Rojoris visits him privately in his chambers in humanoid form.
 aaa H: Vermel Darkstar wins the duel, ascends the Negazian throne, styling himself Tyrannus Rojo, claiming to be chosen by Rojoris himself
-624 H: A whole division directly under The Order goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Quad Force Brigade.
+624 H: Honse and Hwanse brigade goes missing in action. Was revealed later that some defected to Negazion to attack a member each of the First Brigade and the Quad Force Brigade.
 625-628 H: The Order gains widespread fame and adoration. Suntempo Squad and TriNero Squad established under the Star Knights, Penta Brigade, widely acclaimed Mythos Brigade, and PriCo Brigade added.
 626H: Grand Hydra Karonda ascends the Anakondian throne.
 627 H: A Guardian from the Penta Brigade was reported KIA a mere week into her duty running afoul of Blancopolis soldiers not recognizing her place as a Guardian. The attack was allegedly for past infractions of the Red Doctrine.
 628 H: The Celestium bickers over the state of Aurorai's mortals. Rojoris deems Aurorai too soft after centuries' worth of peace, to which Covernius and Auroia protest.
 629 H: Regis Altare inherits the top position of the Tempus Guild from his mentor, Polaris Tempest.
-aaa H: Grand Pontifex Damaso declares both the Tempus Guild and the Knights division of The Order heretics, along with those who actively mingle with them.
+aaa H: Grand Pontifex Damaso declares both the Tempus Guild and the Einher division of The Order heretics, along with those who actively mingle with them.
 630 H: Rojoris takes on the rest of the Celestium, fatally wounding Nijongis and Auroia, heavily wounding Covernius. Absorbing the slain Celestians' power, the Dark Aurora is let loose and is sighted all over Aurorai
 aaa H: Negazion under Vermel Darkstar invades Aurorai, Covernius beckons two of his surviving children with Auroia to aid the mortals, Irys and Omega, and give them the promised weapons to bring down Rojoris
 
@@ -215,7 +215,7 @@ Current Ruler: Grand Hydra Karonda (12th)
 Exec. Building: Cobra Hall
 Established: 17 H
 
->Home to a group of united snake-like amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the women Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
+>Home to a group of united snake-like amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the female Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
 
 #### Negazion
 
@@ -236,7 +236,7 @@ Established: 7 H
 
 ->Characters are ordered and grouped according to order of appearance.<-
 ***
-->   T H E   G U A R D I A N S   <-
+ ->   T H E      G U A R D I A N S   <-
 ***
 
 #### Prologue
@@ -245,7 +245,7 @@ Established: 7 H
 
 >The first Guardian and the main Lord of this game. Revered for her grace and beauty even in combat, all the other Guardians highly regard her and new Guardians are expected to be acquainted with her. Because of this, she rather feels cut off from the rest of her colleagues save her closest ones like Azki due to the sheer respect she commands. Sora can be rather clumsy and precocious as a child, as her longtime friend A'chan can attest. She earnestly works hard to change in her opinion, a mistaken notion. She, together with her friend A'chan and the King Covigo himself, are regarded as the Founding Triad of The Order.
 
-==Home: Polaria
+==Home: Polaria==
 
 ->**A'chan**<-
 
@@ -540,4 +540,7 @@ Home: Polaria
 Home: Polaria
 
 ->**Axel**<-
+
+>The brash gladiator of Guild Tempus, who believes fighting cures all problems, and as such, deems himself a doctor. Beneath the brash exterior lies quite a competent singing voice, easily among the best within the guild. He would not hesitate to run to someone in need when he sees one, never tolerating injustice when he can see and act on it. If he sees fit, he could take matters into his own hands and his chain-whip, his trusted weapon ever since his gladiator days.
+
 ->**Vesper**<-

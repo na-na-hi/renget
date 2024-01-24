@@ -5,6 +5,7 @@
 * [/gedg/ Progress Day 2](https://itch.io/jam/gedg-progress-day-2) -- June 24th 2023 at 1:00 AM GMT to June 27th 2023 at 1:00 AM GMT
 * [/gedg/ Progress Day 3](https://itch.io/jam/gedg-progress-day-3) -- July 29th 2023 at 1:00 AM GMT to August 1st 2023 at 1:00 AM GMT
 * [/gedg/ Progress Day 4](https://itch.io/jam/gedg-progress-day-4) -- October 7th 2023 at 1:00 AM GMT to October 9th 2023 at 1:00 AM GMT
+* [/gedg/ Progress Day 5](https://itch.io/jam/gedg-progress-day-5) -- March 27th 2024 at 1:00 AM GMT to April 2nd 2024 at 1:00 AM GMT
 
 ***
 

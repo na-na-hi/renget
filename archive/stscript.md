@@ -219,14 +219,14 @@ The guide will follow this approach:
 If there was an error then `result` will be undefined, and if the operation was a success then `error` will be undefined.
 Note that it can be possible for both `result` and `error` to be undefined at the same time, for example if a search function didn't find a match. This is considered a successful oepration, as there was no error. It's up to the developer's discretion to write his or her functions with possible return values that are meaningful to them.
 
-__Manipulating the conversation__
+__Manipulating the conversation (and creating a function rigorously)__
 We've already seen `/sys` that sends a system message to the conversation. To send a message that will be shown in the chat but NOT added to the chat history, use `/comment`. You can see a little "ghost" icon in a message's header to tell if it's part of the prompt or not.
 
 There are also the commands `/send` and `/sendas` that you can use to send a message as the user or aas a given character. Note that this will not trigger a generation, so in other words, the AI will not reply to this message on its own right away. You can use the `/trigger` command for that.
 
-But we can also extract messages from the conversation itself. Depending on your UI configuration, you may see a number attached to every message sent to a conversation, counting upwards and prefixed with a hashmark. This is the message's ID. Not two messages can have the same ID, making it a UUID - inside the conversation. However, system messages and hidden messages are not exempt from this. What does this mean?
+But we can also extract messages from the conversation itself. Depending on your UI configuration, you may see a number attached to every message sent to a conversation, counting upwards and prefixed with a hashmark. This is the message's ID. Not two messages can have the same ID, making it a UUID - inside the conversation. However, system messages are not exempt from this. What does this mean?
 
-We can use the `/messages` command to get any message from the conversation, using its ID. We can even get a chain of messages between a start and end ID. But the system messages and notes will be included also.
+We can use the `/messages` command to get any message from the conversation, using its ID. We can even get a chain of messages between a start and end ID. But the system messages will be included also. Notes (messages hidden from the prompt) are read as empty strings.
 ```
 /messages names=off 25-27 |
 /sys
@@ -264,11 +264,11 @@ If the `gm_start` and `gm_end` variables are set before the function is ran, thi
 /run TestPreset.getMessages
 ```
 
-Now, we will have to apply two modifications. First, we want the function to return the messages in an array, and not print them. Second, we want to filter system messages and notes. Filtering is easy to do with arrays, so let's start with the former. There are a couple of ways we could go about it, like trying to split the string or apply a regex, but what I'll do is to get the messages one at a time and add them one by one to an array.
+Now, we will have to apply two modifications. First, we want the function to return the messages in an array, and not print them. Second, we want to filter system messages. Filtering is easy to do with arrays, so let's start with the former. There are a couple of ways we could go about it, like trying to split the string or apply a regex, but what I'll do is to get the messages one at a time and add them one by one to an array.
 
 First, let's do a simple loop. Note the `/incvar i` part. If you forget to step your loop variable, you'll get an infinite loop. SillyTavern will shut it off for you, but keep it in mind nonetheless.
 ```
-/setvar key=i {{getvar::gm_start }} |
+/setvar key=i {{getvar::gm_start}} |
 /while left=i rule=lte right={{getvar::gm_end}}
 	"
 	/echo \{\{getvar::i\}\} \|
@@ -277,17 +277,17 @@ First, let's do a simple loop. Note the `/incvar i` part. If you forget to step 
 ```
 All this does is echo the numbers from `gm_start` to `gm_end` (inclusively). The same could be written as:
 ```
-/setvar key=i {{getvar::gm_start }} |
+/setvar key=i {{getvar::gm_start}} |
 /while left=i rule=lte right={{getvar::gm_end}}
 	"
-    /return \{\{getvar::i\}\} \|
+    /pass \{\{getvar::i\}\} \|
 	/echo \{\{pipe\}\} \|
 	/incvar i
 	"
 ```
-But if instead of the `/return` we get the message with the ID `i` hold in that iteration...
+But if instead of the `/pass` we get the message with the ID `i` holds in that iteration...
 ```
-/setvar key=i {{getvar::gm_start }} |
+/setvar key=i {{getvar::gm_start}} |
 /while left=i rule=lte right={{getvar::gm_end}}
 	"
     /messages \{\{getvar::i\}\} \|
@@ -295,11 +295,11 @@ But if instead of the `/return` we get the message with the ID `i` hold in that 
 	/incvar i
 	"
 ```
-Then we just iterated over all the messages with IDs from `gm_start` to `gm_end`. But we also want to store these messages in an array. Unfortunately STscript has no array push or append method, so we'll have to start a counter at zero and increment it each time. In the following snippet it'll be called `result_index`.
+...Then we just iterated over all the messages with IDs from `gm_start` to `gm_end`. But we also want to store these messages in an array. Unfortunately STscript has no array push or append method, so we'll have to start a counter at zero and increment it each time. In the following snippet it'll be called `result_index`. Alternatively you can try to pass the current array length to the `/setvar` and use that.
 ```
 /setvar key=result [] |
 /setvar key=result_index 0 |
-/setvar key=i {{getvar::gm_start }} |
+/setvar key=i {{getvar::gm_start}} |
 /while left=i rule=lte right={{getvar::gm_end}}
 	"
 	/messages \{\{getvar::i\}\} \| 
@@ -316,10 +316,210 @@ Now, we should be able to do this:
 /run TestPreset.getMessages |
 /sys {{getvar::result}}
 ```
-Pretty cool, huh?
+Pretty cool, huh? A problem with this you may notice is that besides system messages, notes are also picked up as empty messages.
 
+So now on to filtering. Originally, I wanted to add an `/if` to the loop, and only save the messages that aren't system messages. At the time of writing, though, ifs insides `/while` loops are buggy and randomly work or not or cause infinite loops. So we'll have to find another way. Which is using the `/times` command.
+
+I expect the next code block to be hard to read for most people, so I'll add some comments but if you want to copypaste this then you will need to remove the comments by hand. STscript does not support them.
+```
+/setvar key=result [] |		//set up our starter variables
+/setvar key=result_index 0 |
+/setvar key=i {{getvar::gm_start}} |
+
+/sub {{getvar::gm_end}} {{getvar::gm_start}} |		//with sub and add we calculate how many messages there are = the number of iterations
+/add {{pipe}} 1 |
+/times {{pipe}} "				//the " must be on the same line or else STscript throws an error and it won't work
+	/messages \{\{getvar::i\}\} \| 		//read the message as before
+	/setvar key=tmp \|						//store it in a temp variable
+
+	/len \{\{getvar::tmp\}\} \|		//get the length of the message
+	/setvar key=tmp_len \|			//and store it in another temp variable
+
+	/if left=tmp rule=nin right=system		//if the word system does not appear in tmp then we pass the length forward, or else we pass -1
+		else="/pass -1"											
+		"/pass \{\{getvar::tmp_len\}\}" \|
+	/if left=\{\{pipe\}\} rule=gt right=0		//if the passed value is greater than 0 then we save the message to results like before
+		"
+		/setvar key=result index=\{\{getvar::result_index\}\} \{\{getvar::tmp\}\} \\|		//another STscript oddity, we need to escape the pipe twice for it to work properly
+		/incvar result_index
+		" \|
+		
+
+	/incvar i		//step i to the next message ID
+	" |
+
+/flushvar result_index |		//flush the variables used by the function
+/flushvar i |
+/flushvar tmp |
+/flushvar tmp_len
+```
+!~red; Important update here! ~!
+Actually, you can add comments i nthe code using the `{{// (note)}}` macro. I didn't know at the time, and I won't go back to redo it.
+!~red; update end ~!
+
+Now that we know it works, let's add some extra features to make our lives easier. That's why we write functions, after all. The two upgrades we want to add are: first, use `{{lastMessageId}}` as the end ID if `gm_end` is undefined; and second, let's add the same `names` param that `/messages` uses.
+
+The first one is relatively easy. Add this to the start of the function, before setting up the `result` and other variables:
+```
+/getvar gm_end |
+/len |
+/setvar key=tmp |
+/if left=tmp rule=lte right=0
+	"/setvar key=gm_end \{\{lastMessageId\}\}" |
+```
+I should also mention here Creamsan's utility functions, he's got one called `isvardefined` that's essentially the same solution.
+
+Removing the names, that's not so straightforward, however. Remember, we can't very well manipulate strings. Instead what we can do is have another `/messages` call without the names, and saving that into the `results`.
+
+In the end, our script looks like this:
+```
+/getvar gm_end |
+/len |
+/setvar key=tmp |
+/if left=tmp rule=lte right=0
+	"/setvar key=gm_end \{\{lastMessageId\}\}" |
+
+/getvar gm_names |
+/len |
+/setvar key=tmp |
+/if left=tmp rule=lte right=0
+	"/setvar key=gm_names on" |
+
+/setvar key=result [] |
+/setvar key=result_index 0 |
+/setvar key=i {{getvar::gm_start}} |
+
+/sub {{getvar::gm_end}} {{getvar::gm_start}} |
+/add {{pipe}} 1 |
+/times {{pipe}} "
+	/messages names=on \{\{getvar::i\}\} \| 
+	/setvar key=tmp \|
+
+	/messages names=off \{\{getvar::i\}\} \|
+	/setvar key=tmp2 \|
+
+	/len \{\{getvar::tmp\}\} \|
+	/setvar key=tmp_len \|
+
+	/setvar key=msg \{\{getvar::tmp2\}\} \|
+	/if left=gm_names rule=in right=on
+		"/setvar key=msg \{\{getvar::tmp\}\}" \|
+
+	/if left=tmp rule=nin right=system
+		else="/pass -1"
+		"/pass \{\{getvar::tmp_len\}\}" \|
+	/if left=\{\{pipe\}\} rule=gt right=0
+		"
+		/setvar key=result index=\{\{getvar::result_index\}\} \{\{getvar::msg\}\} \\|
+		/incvar result_index
+		" \|
+		
+
+	/incvar i
+	" |
+
+/flushvar result_index |
+/flushvar i |
+/flushvar tmp |
+/flushvar tmp2 |
+/flushvar tmp_len |
+/flushvar msg 
+```
+
+And we can run it like so:
+```
+/flushvar gm_end |
+/setvar key=gm_start 25 |
+/setvar key=gm_names on |
+/run TestPreset.getMessages |
+/sys {{getvar::result}}
+```
+Or:
+```
+/flushvar gm_end |
+/setvar key=gm_start 25 |
+/setvar key=gm_names off |
+/run TestPreset.getMessages |
+/sys {{getvar::result}}
+```
+Or we could flush `gm_names` and define `gm_end`, it should all work.
+
+And finally, let's just do some very basic error handling. We'll validate the `gm_start` and `gm_end` values, and we'll also show a warning snackbar message if the `result` array would stay empty in the end.
+
+By adding these two ifs after fallbacking `gm_end`, we can do validation on `gm_start` and `gm_end`:
+```
+/getvar gm_start |
+/len |
+/setvar key=tmp |
+/if left=tmp rule=lte right=0
+	"/setvar key=result [] \| /echo severity=error Invalid gm_start! \| /abort" |
+
+
+/if left=gm_start rule=gt right=gm_end
+	"/setvar key=result [] \| /echo severity=error gm_start > gm_end! \| /abort" |
+```
+Trying to run the function with invalid values will now result in an error, and an empty `result` array.
+
+As for the warning if no messages were found, add this before flushing the variables:
+```
+/getvar result |
+/len |
+/setvar key=tmp |
+/if left=tmp rule=lte right=0
+  "/echo severity=warning Could not find any non-system messages!" |
+```
+
+And that's it. A lot of work to do something relatively simple, isn't it? This function ended up being ~70 lines of code. Not necessarily a lot and we had a lot of empty lines too, but there is also a lot of copypaste stuff. Especially with the validation and error handling. These things could - and should - be moved to their own reusable functions.
+
+We'll get back to this function and the idea of reusability in another chapter, but before that, let's quickly talk about something else first.
+
+__User interaction__
+We can get input in ways other than extracting messages from the conversation. We can show popups to the user, and of course, QuickReplies can be shown as buttons also. Popups come in three flavors.
+
+There's the `/popup` command, that you can use to show a simple alert modal to the user. It'll block interaction with the app until the user clicks the ok button. The message shown on the modal can be basically any valid HTML.
+There's the `/buttons` command, which is more or less does the same as the `/popup` command, except you can have multiple buttons. For example the classic yes/no/cancel confirm modal. When used in the code, it can be used to pass through the pipe the label of the pressed button. Unfortunately, some browsers seem to have compatibility support with this one.
+And finally, there's the `/input` command, to show a modal with ok/cancel buttons, and a text input field. You can add the input field a default value, but whatever is in it when the modal is confirmed, the value will be passed through a pipe and can be reused.
+
+The modals all have some styling/layout options, which is shown in the SillyTavern docs.
 
 __Injections and author's note__
+The author's note, for those who never used it, is a way to jot down details about the conversation for the AI to "remember". Or to add more instructions about the style or quality of the writing you'd expect to see, like in koboldAI - though I'd say that's the job of the many prompts you can already have in SillyTavern. Either way, the content of the author's note will, based on your configuration, be added to the prompts and the AI will take it into consideration when generating a message.
+
+Injections are kind of the same, except you can only manipulate them through STscript. The SillyTavern docs describe injections as "having an unlimited number of author's notes". While the author's note is one continuous string, you can have different injections identified by their own unique IDs, and config them to be added to the prompt with their own respective depths and frequencies, same as the author's note.
+
+Putting all of our knowledge into practice, at this point we can finally do something worthwhile. How you personally want to use injections and the author's note is naturally up to you, but in this guide I will show a way to update the author's note in a mostly automated way, so that the AI may "remember" things longer and do less random asspulls even with a more constrained context size. I prefer using the author's note over injections because the user can still edit the author's note by hand, if need be.
+
+The idea is this: we will create a QuickReply function to have the AI summarize the last couple of messages, have the user review this summary, and then save it to the author's note. In the next sections we'll also explore a few ways to customize and optimize this process.
+
+First, we'll use the `getMessages` function we wrote in the last chapter to get the last couple of messages in the conversation. Then we'll use the `/genraw` command to generate a summary of these messages. We'll show the user the summary using an `/input` modal; and finally, we'll update he author's note with this new entry upon confirmation by the user.
+
+For starters, we can do something like this:
+```
+/setvar key=ce_n 5 |
+
+/sub {{lastMessageId}} ce_n |
+/setvar gm_start |
+/setvar gm_names on |
+/flushvar gm_end |
+
+/run TestPreset.getMessages |
+/setvar key=tmp {{getvar::result}} |
+/echo {{getvar::tmp}} |
+
+/genraw lock=on {{charJailbreak}}{{charPrompt}} Summarize the following exchange in a short sentence. Use neutral, objective language. Use past tense. Use the names prefixing the messages to describe what happened. {{getvar::tmp}} |
+/input default={{pipe}} Add to author's note? |
+/setvar key=tmp |
+
+/echo {{getvar::tmp}}
+```
+This is relatively straightforward. We get the last 5 messages between the AI and the user, ask for a summary to be generated (how you word the prompt is up to you), and then show the user a confirmation modal. There's an extra `/echo` in there that shows us the messages, to let us know if something went wrong. There's no real error handling or anything fancy here. We'll get there eventually.
+
+Let's get something straight before we go any further, though. For all the effort we put into this so far, we could have just sent a message to the AI asking for a summary with no scripting involved. We could update the author's note by hand too, it's not like we need to do that so often that it becomes a chore or anything. But. Asking the AI to do something "meta" to the RP - not to mention how immersion breaking it can be - is affected by all the prompts you have. It may reply in character or simply refuse to do the summarization. It also may have trouble properly counting the last five or so messages, and it'll also be affected by system messages. What we've done so far eliminates all these possibilities for error. Automating this process will also enable us to create more intricate systems that we'll talk about in the next sections.
+
+Granted, since we're dealing with the AI here, it's still possible that it'll refuse to do the summary because of its "ethical guidelines". This is why human oversight is required. We'll deal with this later, in the section about automation. As much as we can.
+
+Updating the author's note is not an easy task, however. You can programmatically override it using the `/note` command, but there is no way to append to it. You can't even get the content of the current author's note, it won't show up even if you used `/listinjects`. Unfortunately, this seems to be a hard limitation of the STscript interpreter for now. The closest we can get is saving the entry into a variable, and keeping it up to date with new additions to the author's note when running the function subsequently. This will not take into account user edits to the author's note however, which will be overridden. It's fair to point out that we could still utilize the injection system by making each entry its new injected item, but then we limit the user's ability to edit it.
+
 TODO
 
 __Stat trackers and RPGs__

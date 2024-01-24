@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+24/01/24   | Aventurine moved to "Upcoming Characters" : 2.1.
 23/01/24   | Acheron moved to "Upcoming Characters" : 2.1.
 09/01/24   | Added new files to Acheron Kit folder and Sam Assets folder.
 30/12/23   | Added new files to Misha, Sparkle, Black Swan Gameplay and Story + Voicelines folders. / Added new files to Robin, Gallagher, Jade, Jiaoqiu, Boothill Kit folders. / Added new character "Feixiao" in the Possibly Scrapped, Placeholder or Characters with no Info section.

@@ -1,4 +1,4 @@
-# JP character impressions (Defunct since Shizurunotes died, as of Jan 14th, 2024.)
+# JP character impressions (We're back)
 
 Just some thoughts on newly released units since P.Inori (all thoughts were written either right after their 1st CB or on release.)
 [TOC2]
@@ -1298,3 +1298,28 @@ Cons:
 - No healing
 - No TP Restoration/Regeneration
 - No damage reduction
+
+### ->New Year's Kasumi ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<-
+**Multi-target mage/support character that buffs M.Atk for the most part, offering little else.**
+NY.Kasumi is mostly about dealing damage, healing teammates near her and buffing M.Atk. While she does have TP restoration, it's only 25 and is only for the highest M.Atk unit. These values are buffed based on how many friendly targets there are, meaning this value can go up to 100 TP to a single target. A bit disappointing is that all 3 of her M.Atk buffs have capped values, but the fact still remains that she has 3 skills that do something + M.Atk buff. 
+Without much else to differentiate herself from the multitude of multi-target mage units that work well together, she seems like a somewhat ineffective character. Unless there is a multi-target boss that requires constant M.Atk buffs to be applied. But TP restoration is never a stat to ignore, perhaps she'll supercharge a really strong multi-target mage in the future. Or some crazy unit like Grea 6 Star comes out of nowhere and requires a heal on UB that can reach her and has a buff that requires quick stacking, like her duo counterpart.
+She could see some usage in Arena with H.Misaki comps where you aren't facing Inori, and have Kasumi 6 Star as your lead. That is a bit of a stretch, but crazier things have happened in P.Arena. The value of buffing your M.Atk against units while having a massive M.def shred can certainly win elongated fights.
+-> ![NY.Kasumi](https://redive.estertion.win/card/full/128531.webp)<-
+
+Pros:
+- UB heals, deals damage and increases M.Atk for friendlies, dmg & buff increased based on # of targets
+	Range for heal and M.Atk buff is 250 (Reaches Grea)
+- Up to 100 TP restoration to highest M.Atk unit from S1 + M.Atk
+- Good skill loop (AA > S1 > AA > S2 > AA > S1 > AA > S2)
+- UB, S1 & S2 all buff M.Atk
+- M.Atk buff reaches all units
+- Deals good damage
+- Target calculation is based on friendly targets in total, not within range
+	Even if a unit isn't in range for her buffs, they still count towards increase the potency of the skill.
+
+Cons:
+- M.Atk buffs on UB + Skills are capped individually
+- Offers no shields
+- No M.Crit buffs (M.Crit chance or M.Crit Dmg)
+- TP restoration is only to 1 character
+- No debuffs to enemies (M.Def shred, M/P Def reduction, M.Crit dmg taken increase )

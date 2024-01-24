@@ -54,3 +54,10 @@ I try to write more serious/dramatic stories with a bit of comedy here and there
 - **Wordcount**: ~7,300
 - **Featured Characters**: Adrian, Bellossom, Enny, Vileplume
 - Chapters were published all on December 24th, 2023
+
+##Team Moonshine: The Evolution Situation (WIP)
+- https://rentry.org/moonshinevile
+- **About**: After a mission goes horribly wrong, Adrian gets turned into an eevee and he has to find a way to evolve.
+- **Wordcount**: WIP
+- **Featured Characters**: Adrian, Bellossom, Chespin, Enny, Lliam, Vileplume, Wooper
+- First chapter was punlished on January 24th, 2024

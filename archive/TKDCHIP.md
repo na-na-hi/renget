@@ -1376,3 +1376,16 @@ https://files.catbox.moe/14apdz.mp4 New  1/23/24
 https://files.catbox.moe/249d6a.mp4 New  1/23/24
 >Video of Amerisatan attack in Iraq
 https://files.catbox.moe/1tq405.mp4 1/23/24
+>Footage shows explosion that reportedly killed 21 Israeli soldiers in Gaza
+https://youtu.be/Fq73zTKnPWA New  1/23/24
+>An Instagram activist commenting on the composition of newly recruited Israeli army soldiers, "So you are from everywhere but there."
+https://files.catbox.moe/fviand.mp4 New  1/24/24
+>Al Jazeera artificially reconstructs the epic Al-Qassam operation that led to the death of 24-28 IOF soldiers near Al-Maghazi, 2 days ago.
+https://files.catbox.moe/pneqkf.mp4 New  1/24/24 Arabic Version 
+https://files.catbox.moe/7kf6ah.mp4 New  1/24/24 English Version
+>Al-Quds Brigades published a video showing the recovery of a seized quadcopter reconnaissance drone in the sky of Gaza City.
+https://files.catbox.moe/2eoxol.mp4 New  1/24/24
+>"Conquering, settling, winning" Israelis prepare to occupy Gaza after ethnically cleansing its indigenous people.
+https://files.catbox.moe/ai215h.mp4 New  1/24/24
+>A Freudian slip took place during a special city council meeting
+https://files.catbox.moe/ocmukh.mp4 New  1/24/24

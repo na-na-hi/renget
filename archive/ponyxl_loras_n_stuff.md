@@ -53,6 +53,7 @@ https://files.catbox.moe/xbeu1x.safetensors Deepvalley will likely display issue
 https://files.catbox.moe/9h5vos.safetensors shinonome_kazuhiko
 https://files.catbox.moe/tevomb.safetensors chocochip
 https://files.catbox.moe/fbwz5k.safetensors piromizu
+https://files.catbox.moe/odlshx.safetensors piromizu_2
 https://files.catbox.moe/4xmzn0.safetensors porkstudio
 https://files.catbox.moe/0ebohp.safetensors starworks
 https://files.catbox.moe/q1vapd.safetensors suimitsutou_koubou
@@ -95,6 +96,7 @@ https://files.catbox.moe/v8qsfh.safetensors mojihe
 https://files.catbox.moe/m7sa64.safetensors owner
 https://files.catbox.moe/rhlwp5.safetensors woohyoot
 https://files.catbox.moe/rhlwp5.safetensors yeehawt0wn
+https://litter.catbox.moe/smniao.safetensors nawakena example gen: https://files.catbox.moe/26uxu5.png
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -103,7 +105,7 @@ https://files.catbox.moe/3exvuz.safetensors nullmeta
 https://files.catbox.moe/mlziu8.safetensors Megami_Magazine
 https://files.catbox.moe/oqhdry.safetensors nyantcha
 
-These will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
+The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime 
@@ -115,7 +117,7 @@ https://files.catbox.moe/zxvyki.7z nyantcha
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
 https://files.catbox.moe/f5ssgz.safetensors character_tachibana_arisu helps to prompt features like hair, clothes
 https://files.catbox.moe/9zcayd.safetensors character_matoba_risa helps to prompt features like hair, clothes
-
+https://files.catbox.moe/djnlks.safetensors character_amy_sorel example prompt image here: https://files.catbox.moe/qymyf8.png, trigger is amy sorel, outfits are tagged as sc4 and sc6
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯
 

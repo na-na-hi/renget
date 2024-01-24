@@ -102,10 +102,10 @@ Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/c
 Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv2.json) | Jan-20-24 | 
 Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Jan-20-24 | 
 Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Jan-20-24 | 
-Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Jan-23-24 | ***Updated***
-Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Jan-23-24 | ***Updated***
-Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Jan-23-24 | ***Updated***
-Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-20-24 | 
+Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Jan-23-24 | 
+Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Jan-23-24 | 
+Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Jan-23-24 | 
+Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-24-24 | ***Updated***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPT
