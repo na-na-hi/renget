@@ -87,6 +87,12 @@ https://files.catbox.moe/i013hk.safetensors Warabimochi
 https://files.catbox.moe/aqm2v0.safetensors Xration
 https://files.catbox.moe/q6f33q.safetensors Yageshi_Nan
 https://files.catbox.moe/caabk4.safetensors Zankuro
+https://files.catbox.moe/qybjzv.safetensors cyberboi
+https://files.catbox.moe/vw47lk.safetensors gorani
+https://files.catbox.moe/v8qsfh.safetensors mojihe
+https://files.catbox.moe/m7sa64.safetensors owner
+https://files.catbox.moe/rhlwp5.safetensors woohyoot
+https://files.catbox.moe/rhlwp5.safetensors yeehawt0wn
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime

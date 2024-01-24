@@ -84,7 +84,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Rawst Berry | Soothes the user. Heals Burn.
 2. Marble Stone | Does 4 true damage to a target, is lobbed.
-3.  None | N/A
+3.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
 4.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
 
 **STORAGE (2 slots)**
@@ -92,7 +92,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Bread | Food item.
+1. Berry Bread | Heals (?) and removes status effects
 2. Shattered TM (TM Fling) | Taught the move Fling
 
 **RP/QUEST STORAGE (∞ slots)**

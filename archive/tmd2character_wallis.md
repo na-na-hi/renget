@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 12 | **Experience to Next Level:** 95/120
+**Level:** 12 | **Experience to Next Level:** 100/120
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 495₽ | **Glorious Gold:** 0 Bars
 

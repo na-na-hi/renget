@@ -4,7 +4,7 @@
 ## ***Threads: [[1-151]](https://rentry.co/iftod/) | [[151 - 258]](https://rentry.org/sfbf5/) | [258 - current] ***
 
 ---
-##***Most recent thread scraped: #267***
+##***Most recent thread scraped: #270***
 An ongoing collection of the multitude of bite-sized shorts that creative anons have posted throughout the years. Some of these works have made the rounds in the form of screencaps, but are still included for the sake of consistency. **Not exhaustive in the slightest.**
 >Quoted text = context
 
@@ -830,6 +830,31 @@ Dislikes: gold diggers, lords, kings, businessmen, stuffy old fools, men who tur
 [There are dozens and dozens of photos of Kulve, showing her standing in places as exotic as the Caverns of El Dorado and as far flung as the beach of the Volcano. She's got her head tilted to show off her earrings in most of them, winking while blowing kisses towards the camera. Ten of them show her holding her gold mantle away in suggestive manners. One photo is buried in the middle of the enormous list showing her on a humongous bed that must be her own in Loc Lac with what can only be described, inexplicably, as golden lingerie made specially for her enormous, monster form.]
 
 ---
+###*Kushala Daora*
+
+=============================================
+
+SNAP! CRASH! THUNK!
+[\>"well well well, look what i caught here.."](https://desu-usergeneratedcontent.xyz/trash/image/1704/61/1704613749291.jpg)
+"DAMN IT ALL! NO!"
+%darkgreen%\>"A Monster! and well its just not any Monster but a rare and unruly Kushala Daora at that."%%
+"i u-uh.."
+%darkgreen%\>"a Kushala Daora...thats grounded for sure for sneaking out after curfew!"%%
+"Dad wait, cut me loose and i can explain!"
+%darkgreen%\>"oh go ahead, i'm listening! i'm going to love what you've come up with this time"%%
+". . ."
+%darkgreen%\>"thats what i thought, now tell the truth and i mean the real truth, why are you sneaking off?"
+\>"my friends Lunastra and Velkhana are throwing a party.."%%
+"you went through all this trouble to break out of the village wall and deny curfew just for a party?"
+%darkgreen%\>"You don't understand! its not any party, its going to be the biggest party of the new year in the new world! Namielle is going to DJ and Kulve Taroth is even going to show up!, do you know how rare that is?!"%%
+"oh, i know. but you still snuck out against my wishes, and that still warrants punishment of some sort."
+"but i am a benevolent father, one who is capable of granting forgiveness and also understands how important these things are to you."
+"so you may go to this party, on one condition."
+%darkgreen%\>"Dad, i dont like where this is going.."%%
+"i shall be your CHAPERONE!"
+%darkgreen%\>"NOOOOOOO!"%%
+
+---
 ###*Lunastra*
 
 =============================================
@@ -1055,6 +1080,241 @@ Uh-oh
 \>fast forward a couple of days
 \>the malzeno has been making great strides in his lance maneuvers alongside his hunter pupils under the teachings of the veteran knight, even becoming a sort of mascot for the group
 \>the teacher however keeps wondering what the malzeno will do once it "graduates" and training is complete...%%
+
+=============================================
+
+>\>he [Malzeno] likes to wear costumes when he’s being plowed 
+>W-what kind of costumes?
+
+%darkgreen%\>"Mel, sweetheart, now is not the time to contract iceblight."
+\>It was easy for Kiki to say that! The Tzitzi-Ya-Ku assured him that her fashion choices were on the very cutting edge of what was coming out of Loc Lac and if anyone knew how to advise him, it was the hottest young monster that knew all the hottest trends.
+\>Mel, tall, regal Malzeno that he was, still stroked the quivering qurio on his chest.
+\>Coming back into the human settlements? Difficult but doable.
+\>Smiling and greeting the humans? Awkward, though he had to admit it felt good.
+\>Being complimented upon his appearance? Reminded him why he was doing this.
+\>Yet still, looking up at the painted sign of a winking Rathian that hung outside Threads of Gold, the thought of returning to the Citadel and squirrelling himself away seemed a far more enticing prospect.
+\>"C'mon, Mel, didn't you say you had another date with that hunter you got talking to a little while ago?"
+\>Oh, now that made the qurio bristle so much he thought they were about to fly off.%%
+"Kiki, please!"
+%darkgreen%\>He ducked down close to her, turning his voice to a whisper.%%
+"Not so loud."
+%darkgreen%\>He did not appreciate the grin that split her lips.
+\>"What? You don't want people knowing /you have a human boyfriend you want to dress up for/!"
+\>She didn't exactly shout that half of the sentence but Mel still found his frills quivering as he glanced about.
+\>A few people were giving Kiki odd looks but otherwise paid no mind.
+\>"See? No one cares, Mel, they all have their own lives."
+\>Easy for her to say when she paraded about in skimpy outfits like the one she wears right now, with 'Ask me to flash you <3" written on her low-cut shirt. She even makes sure to walk about more upright just to show it off!%%
+"Yes, yes, good! Can we please just leave the streets?"
+%darkgreen%\>He looked about nervously until his eye caught a trio of hunters making their way down past a restaurant.%%
+"I'm not entirely sure he won't be here!"
+%darkgreen%\>Clucking her tongue, Kiki took one of Mel's large claws in both of her own.
+\>"Fine, you big Kelbi! But we are not leaving until you pick out at least one nice outfit!"
+\>For a moment she tugs and grunts as she attempts to pull him along.
+\>"Mel!"
+\>Recalling himself, he steps forward.
+\>Compared to most of these modern shops he'd seen, this one lacks a clear view into it. What clothing is displayed in the windows, looks more conservative than what Kiki stated this place sold.
+\>Indeed, stepping through the large doorway, the interior of the store is dark but not so much that he couldn't make anything out.
+\>Candles line the shop, waxes in all sorts of colours but mostly soft pastels, adding a soft, intimate feel.
+\>He'd visited a clothier at one point, not too long ago, to get some feel for what fashion in this time is like and was left shocked to see just how ostentatious the common people could now dress. Made his own wings feel poor in comparison, in some respects.
+\>But they were still a far cry from the stuff that donned the monsterquins of this store.
+\>Here, a Jaggia model stood decked out in frilly black and white lace. Zinny had joked to him about getting some serving staff back in the Citadel but considering how ruinous the whole thing was and the modest home Mel now occupied, it seemed a foolish notion. He'd also brought along some documentation surrounding them.
+\>This outfit was not dissimilar. A thick, black blouse rested against the monsterquin's chest, over which sat a more delicate white lace apron. Of course, the polished wooden model beneath both was still visible. Whatever sort of fabric it was made from, it did little to truly obscure who wore it. And the gloves over the forelimbs!
+\>Such intricate, floral patterning! Not even a countess would hold herself so lucky to wear such finery and yet here it was being used for titillation!
+\>Though he did have to admit to himself the long stockings that clung to the Jaggia's legs did look quite enticing
+\>And over there?
+\>An Ivory Lagiacrus - clearly so, from the much lighter colour of the wood used for the monsterquin.
+\>Mel paused mid-stride and just... stared.
+\>It was not the sort of outfit one could wear out and about, not unless they wished for all eyes to be upon them. And probably every guard hurrying to conceal the wearer.
+\>Around the monsterquin's throat was what could only be described as a fabric choker with a small, heart-shaped pendant hanging from its front. Like the rest of the outfit, it was a beautiful deep blue and it sported a floral pattern in the fabric.
+\>Wrapped around the monsterquin's forelimbs were gloves like on the other model but these were... much more scandalous! They covered the entirety of the limbs, right down to the claws that tented the fabric at the tips.
+\>Swirling, wave-like patterns were embroidered in seafoam white and the way they were designed drew the viewer's eye up and up towards the one who was wearing them.
+\>And across the chest! It wasn't an apron, or a blouse, or one of those modern shirts, it was a form-fitting slice of silk that was designed with the sole purpose of accentuating the wearer's bodylines. A slash down the centre afforded an utterly maddening hint at the scales (or woodgrain, in this case) that lay beneath and one of the monsterquin's forelimbs were raised towards it as if beckoning the viewer to pay further attention.
+\>The slash drew Mel's eyes down along it and that took him to a 'garter belt' that was cinched around the monsterquin's waist.
+\>And there? Oh, right there, it was as if the lace had been designed in such a way as to both draw the viewer's eyes across the design which was made to look almost like scales that shimmered even under the soft light of the candles.
+\>Just underneath them, Mel could see the side of what had to be the-
+\>"Quite the sight, isn't he?"%%
+"AH!"
+%darkgreen%\>Leaping back, he whipped his head around towards the source of the voice - a Rathian, dressed in quite ordinary clothing for a monster, amounting to what passed for a shirt and something akin to a skirt. Although she did have a number of earrings in each ear.
+\>"Oh heavens, my apologies!"
+\>A monsterquin rattled about after she'd knocked against it following Mel's outburst.
+\>Kiki, also looking to have been startled, turned to him with her crests unfolded and stiff.
+\>It was a wonder she hadn't flashed them.
+\>"Are you alright?"
+\>The Rathian looked between the two and Mel rapidly found himself caught between thinking this was a mistake and a worthy price to pay if it meant he could take home an outfit like that.
+\>Taking a moment to use her wing talons to right a couple of other monsterquins she'd pushed about after jumping back, the Rathian gave her wings a little shake and approached Mel.%%
+"Yes... Yes, I... believe I am."
+%darkgreen%\>The Rathian visibly relaxes and her wings tuck back near her sides.
+\>"Oh, good. Good. Ah... Well, I'd like to think that's a good endorsement of the quality of my stock, if nothing else!"
+\>She let out a nervous chuckle but Mel found his eyes drifting back to the Ivory Lagiacrus monsterquin.%%
+"Quality, indeed is something you should... be proud..."
+%darkgreen%\>His mind clouded over with thoughts of how that might look against his own scales.
+\>Perhaps with a human under him, one who he knew would certainly appreciate such finery.
+\>"Still having second thoughts, Mel?" Kiki whispered to him, having recovered herself.
+\>He only shot her a momentary look of exasperation but it did little to wither her cheer.
+\>"Well, allow me to welcome you to my little shop of fantasies! If you do like that," the Rathian said, tilting one wing out towards the monsterquin Mel's eyes were practically glued to, "then perhaps I may find a few more outfits that might also catch your eye."%%
+"Others?"
+%darkgreen%\>That thought, that there might be fabric fancies that could match this one, was the only thing that drew Mel's mind away from thoughts of wearing the outfit.%%
+"You have others like this?"
+%darkgreen%\>The Rathian bobbed her head.
+\>"Not to boast too highly but I don't consider that my finest piece."
+\>Her wing extended out again, the talon indicating the tip of the gloves of the monsterquin's forelimbs.
+\>"We use a mixture of silks produced by both Nerscyllae and Rakna-Kadakii, to ensure even the sharpest monster claws don't spoil those intimate moments."
+\>As if to demonstrate her point, her talon traced along the glove.
+\>"But it's still soft enough to the touch that you'll find it pleasing for both you and," she went on, glancing to Kiki, "your lover."
+\>Didn't take her but two seconds to erupt into uproarious laughter.
+\>"M-Me and... Mel?! Bwahahaha!"
+\>A little rumble came from Mel; the idea of he and Kiki was... Well, not to mention she had someone herself but Mel found little enticing in female wyverns.
+\>The Rathian, more respectful however, turned a quizzical eye to Mel.
+\>And the words died in his throat, suddenly.
+\>Speaking to a stranger about this, even if the idea of monsters and humans being together was far more common in this age, still wasn't something he wished to announce to all and sundry.
+\>"N-Nah, he's looking for something for his boyfriend!"
+\>Not so Kiki, who had few real compunctions that he at least had encountered.
+\>"His /human/ boyfriend."
+\>Oh, mother of Gog...%%
+"Kiki, I swear upon my estate, this is the last time I take you anywhere..."
+%darkgreen%\>Either he'd muttered it too quietly or the Rathian didn't care, perhaps more taken up with whatever recommendations were running through her head.
+\>And indeed, even Mel knew what that look in a monster's eyes meant - Kiki had the same look when he revealed the nature of his nightly excursions and the mysterious human she'd caught glimpses of.
+\>"Really?"
+\>He also knew what that tone of voice meant.
+\>"Then I think I have just the outfit for you!"
+\>'Just the outfit' turned out to be, in fact, three different outfits in differing colours.
+\>The first was white, second was the blue number on the monsterquin he'd been admiring, but the third was folded up before the Rathian gave it to Mel and he could only see the edge of one item which was a deep, rich carmine in colour.
+\>After that she had pushed him towards the dressing rooms and Kiki had been quick to follow, appearing just a little too eager for him to model the outfits so they could give their opinions.
+\>Didn't he trust the Rathian was a professional?
+\>She did, of course, not say anything about herself.
+\>So now Mel stood inside a massive dressing room with lighting slightly more intense than out in the rest of the store. Certainly, it was enough to illuminate his form in the full-length mirror on one of the walls.
+\>There was a short bench against another and he set the bundle of what could barely be called 'clothing' on one end before seating himself on it.
+\>The custom of intelligent monsters sitting on cushions had fallen out of favour some time ago, so he was told, and most now happily grew accustomed to sitting like this.
+\>Mel was just looking forward to getting back home and sitting on his comfortable cushion opposite his human, over a pleasant supper.
+\>But then, just thinking about his human made his wings beat lightly against his back in a reflexive attempt to cool his body.
+\>Back when he was still what could be called a baron, the idea of a monster and a human sharing anything more than friendship was nothing short of scandalous!
+\>Oh, it did happen; stories drifted in from always far-flung places of a Mizutsune who had used their devilish wiles to seduce a valiant hunter or a human who had stolen some young Pink Rathian princess away for a night of pleasure that ruined her for her own kind forevermore.
+\>But... He wasn't living in that time any more. And he was no longer a noble, even in spite of what his own hunter told him.
+\>"You may not be a baron, Mel, but you're more a prince anyway. And tonight, I'll be your most loyal and attentive servant."
+\>One of his claws traced against his chin as he caught himself smiling at that memory, one which sent a shiver down along his back and made the qurio on his forelimbs shudder.
+\>Yes, he was very lucky to have someone who was so /happy/ to wait upon not only his needs but his desires.
+\>It was the feeling of cool air hitting something hot and hard that reminded him of the dangers of thinking such thoughts outside his home.
+\>Besides, Kiki would no doubt eventually grow tired of just passing the time by talking to the Rathian, Syneé, before it'd turn to gossip. And about Mel's companion.
+\>Well, the red garments were on the top so perhaps he might try out those that could be more appealing even than that blue number.
+\>Folding back the delicate paper that protected the garments, Mel inhaled sharply at the sight.
+\>The qurio on his body and the undersides of his wings were more pink but against his dark scales, the colour of this outfit would look nothing short of sumptuous.
+\>Garment after garment were piled high and picking through them, Mel couldn't begin to guess at what some were.
+\>Experimentation could come later, right now there had to be at least some pieces he could readily identify.
+\>Those two... they were almost like gloves but as if they'd been sliced open down along their length, with a series of straps like garter belts at each end.
+\>And were those hooks? No, silver rings. They glimmered brightly in the light, having clearly been kept polished. But they only raised more questions.
+\>Beautiful, yes, with their cherry blossom patterning covering them which lent an elegant, almost demure air to their appearance.
+\>Hmm, no... no... All of those would have to be put on later... 
+\>Oh, goodness!
+\>Now this item, he did recognize: covering for a wyvern's private place!
+\>Because of the wide variance in body types but relative universality of tails, this was designed to be wrapped around, rather than slipped on and Mel found himself glad of that.
+\>The crests on his tail wouldn't permit him, even fully folded in, to slide this up his tail.
+\>Standing back up, he reared back on his hind legs while holding the garment, and examined himself to find the best way to don it.
+\>The two straps could slip around his waist easily enough but he'd need to leave some of the ties at the rear undone, to account for his tail crests. Perhaps he could see about having a custom item made?%%
+"Foolishness..."
+%darkgreen%\>What he and his companion had discussed was still some ways off, he couldn't go lashing even more zenny to such flights of fancy. Not just yet. Perhaps if everything worked out, it might make a suitable celebratory indulgence.
+\>For now, Mel contented himself by slipping the fine silk garment against his lower body.
+\>He inhaled sharply as he felt it brush up against the sensitive scales that lined his slit. This may prove to be more difficult than he'd thought...
+\>The sight in the mirror showed a Malzeno holding that fabric against himself, eyes narrowed, hind legs shivering slightly.
+\>The barest hint that something might be pressing against the silk.
+\>Growling, Mel did his best to force that part of himself down but it was little good when he had to draw the straps over his hips and around his back.
+\>His claws made short work of tying them, in part thanks to his back lacking the sharp, raised ridges of other wyverns, but now, with every little movement he made to tilt and turn to examine himself, the fabric bumped against his scales and made him shiver.
+\>Resolving himself to do this as quickly as possible, though with shaking forelimbs, he took the long, tube-like end of the garment and brought it down along his tail. Tying the furthest end was perhaps a mistake.
+\>Now, from between his thighs to just below the base of his tail, every movement made that silk hugging him rub harder and more insistent upon his scales that felt instead like they might as well be human skin.
+\>The human skin covering human fingers that would stroke against his body as whispered words of amorousness made him squirm upon their bed and beg for-
+\>A throaty, shuddering gasp left Mel as he realised he'd already started to stroke one of his claws against the garment.
+\>Or rather, against what was creating a particularly dramatic bulge in it.
+\>With most of the straps still untied, he was free to slide out into it and to rub himself down.
+\>The sight in the mirror, of him panting, his chest heaving, and even just this simple garment on him, did absolutely nothing to lessen his excitement.
+\>What would Anon think?
+\>With a snort, Mel whisked his head away from the mirror and turned back to the bench.
+\>What would Kiki think if she saw him?
+\>Or the proprietrix, Syneé?
+\>"Everything alright in there?"
+\>Only his claws clapping over his snout kept Mel from crying out in shock.
+\>"I heard a bit of a racket, are you alright?"
+\>Did she know? How could she know? Did wyverns typically please themselves in here and she knew the sound of claws rubbing against fabric?
+\>He glanced down to the pile of clothing again, recalling how much more he had to go.%%
+"Y-Yes, of course. I'm alright, just..."
+%darkgreen%\>'Couldn't stop thinking of how much my boyfriend will love this.'%%
+"Had a little trouble getting something on!"
+%darkgreen%\>Silence.
+\>Silence that felt decidedly awkward on Mel's end.
+\>"Do you need help?"%%
+"No!"
+%darkgreen%\>By Gog, he was still hard!%%
+"T-Thank you but I believe... I should be able to manage."
+%darkgreen%\>He could hear wings rustling from just outside the dressing room.
+\>"Let me know if you need help."
+\>Getting the rest of this on, of course.
+\>Which is what he should be doing instead of indulging in his own lurid fantasies!
+\>Suppressing a snort of annoyance, Mel snatched up a pair of stockings that looked to be just the right size for his hind legs.
+\>Then placed them back.
+\>He still had to lace up the cover between his hind legs.
+\>Shutting his eyes, he reached behind himself and began to feel about for the straps.
+\>There were quite a few of them but tying them wasn't the problem, nor was it getting a feel for the ones he should leave undone.
+\>No, it was the feel of how much tighter the garment became and how much more insistent it rubbed against his scales and against something that refused to heed his angry admonitions.
+\>Huffing at his own recalcitrant arousal, he refocused his attention on just the straps until all those he felt should be done, were done.
+\>Chancing another look in the mirror, he had to admit, he was right about the colour - roses thread their way up the length of the garment to bloom around its centre. Their swirling petals suggested to the viewer that beauty and desire lay tucked beneath them.
+\>With a whoosh, Mel swiped one wing across the sight and turned back to the bench. Now he could properly focus his thoughts elsewhere!
+\>To that pair of stockings.
+\>Even holding them made him think of what was still rubbing him in all the right ways between his thighs.
+\>Seating himself a little awkwardly with his tail coiled around and under himself, he extended one of his hind legs and held a stocking out along it.
+\>Perfectly sized.
+\>He draw his leg back up and opened the silk stocking, sliding his claws into it.
+\>Didn't really feel much of anything for a moment and Mel found his body and mind relaxing as he thought that his ordeal might be over.
+\>But it was a short-lived hope.
+\>The moment it slid over the scales of his foot, a shiver coursed up along his hind leg, rippled along his thigh, mingled with the undeniably pleasant feelings still emanating from between his hind legs, and rocketed up through his body.
+\>But he wouldn't allow himself to gasp! Not this time. He screwed his mouth shut even as the qurio on his chest started to flutter and shake.
+\>And the silk, sliding over his scales... It was like a thousand fingers caressing him! His hind leg extended up further and a single claw on each forelimb drew it back along his hind leg.
+\>The electric shivering sensation intensified with each inch he slipped up along his scales and he had to fight not to think of a hand sliding it back down, or even just running the length of his leg in an admiring touch. The fabric of the stocking wasn't entirely opaque and the way the red mixed with the colour of his scales and how it hinted at what lay underneath, it was like the stocking was designed specifically to make his legs look far more enticing than they were through every trick they could.
+\>Only when he pulled it up over his thigh could Mel no longer hold his mouth shut so firmly and instead had to content himself with pursing his scaly lips to blow out a shuddering breath in some small attempt to control himself.
+\>True to her word, the fabric was strong enough to resist being torn by his claws. Worse, it was strong enough not to be torn by how aroused this little experience had left him.
+\>He glanced to the remaining sock and had to suppress a groan. The hem had a lace pattern of scales that looked slightly like petals, delicate but powerful and incredibly pleasing to the touch. Oh yes, Anon would have something to say about that.
+\>Mel tried to get the other stocking on faster but the fact that he already had one on and every movement of that leg made him tingle, almost felt like it made the next one worse. It heightened the difference in sensations between the two and without even thinking about it, he was on his hind legs again, standing before the mirror, heedless of his arousal and instead admiring how the stockings looked on him.
+\>He turned from side to side - his body was lean and rather muscular but the stockings went some way to softening that. He looked almost... feminine, down there, now.
+\>Especially with the silk that reached its was down his tail a little.
+\>There was still the garter belt. And the straps for the stockings, but at this rate Mel was sure if he took any more time than absolutely necessary and donned any more than he strictly needed to, to get a feel for this outfit, he would quite possibly wind up with a significant cleaning bill for the dressing room.
+\>And explanations for Syneé he'd rather not explain.%%
+"Miss... ahem, Miss Syneé?"
+%darkgreen%\>Perhaps he could help calm himself down with a distraction. And a reminder of why he needed to control himself.
+\>The clicking of claws on the floor rung closer for a moment before he heard a voice.
+\>"Everything okay?"
+\>Mel glanced at the bench and the strange, long garment he'd set aside.%%
+"I, ah, have something that I'm not sure what it is."
+%darkgreen%\>Hopefully nothing as lascivious as those stockings...
+\>There was silence again for a moment before the Rathian replied from outside the dressing room.
+\>"The wingsocks?"
+\>The... what‽
+\>He looked from the item to the door of the dressing room and back again.%%
+"I... I-I beg your pardon?"
+%darkgreen%\>"Oh, they're all the rage recently! A Gore Magala seamstress from Jenem had the wonderful idea of creating a garment like stockings for wyvern wings, isn't it just darling?"
+\>That would not be the word he would use for the notion!
+\>"You see, you place them over the forearm, tie the straps across your back, and place the rings over your wing talons! And they add the most delicious accompaniment to such a majestic part of your body~"
+\>Mel's mouth hung open as he stared down at the treacherous garments.
+\>If he so much as attempted to put those on here, he may as well just turn himself in for gross indecency!
+\>"Try them on and let me know what you think!" Syneé called out, her voice retreating. "Your friend is still picking out some items for herself."
+\>As long as they weren't for him... Mel was sure he could just about get through another piece or two from this outfit before he'd have to abandon the rest entirely.
+\>Stepping gingerly back to the bench, Mel halted and turned his eyes to the 'wingsocks'. He brought up his tail and used the claspers on the end to take up the gloves while keeping his eyes firmly fixed on those scandalous things, lest they decide to leap onto his wings and undo him right here and now.
+\>At least the gloves were just... Oh. Like stockings for his forelimbs...
+\>A momentary thought and some small coaxing saw the qurio there resettle on his chest, though they wiggled in irritation.
+\>First glove.
+\>He could do this.
+\>Countless other wyverns of this age could bedeck themselves in this sumptuous finery, and he was a fine enough wyvern to warrant it!
+\>Just... the one that gazed back at him from the mirror did, perhaps, possess a persistent reminder that he was still unaccustomed to the utter art wyverns had made of seduction now.
+\>The glove was a fine, delicate lacy affair. All along it, were patterned gouts of flame and swirls of smoke, as if a mere touch from the one who wore it was enough to set the one touched ablaze with passionate desire. It did not help that the two mingled together to almost look like flowers having petals blown free of them all along the length of it.
+\>The sensation was similar to slipping the stockings onto his hind legs, only a little less intense.
+\>Instead, a thought came unbidden to him of Anon sliding the glove up his forelimb and muttering something about how pleasing it'd feel on his skin. Especially if Mel was lying on his back, holding him and telling him of all the terribly lurid things the two would partake in this night.
+\>And with every inch more that the glove slipped up Mel's forelimb, he felt Anon inch closer to his face. That hot breath, those whispered words, the way the human's legs would straddle his body and brush up against the scales of his chest, oh!
+\>Before he knew what he was doing, he was rubbing against the scales of his abdomen with his now gloves forelimb.
+\>The digits at the end were the correct number, though clearly made for a different wyvern.
+\>But that didn't matter.
+\>He looked...
+\>Even without the full outfit on. Even without both gloves on. Even without his hunter here to admire him, Mel could already clearly envision the look on his lover's face and it made his heart race and thighs quiver.
+\>If he could just make it back out to buy this- NO! To buy all of these! He would surely have all he needed to ensure his beloved would never so much as look at another wyvern, for his eyes and his thoughts and his body would always be turned to Mel's.
+\>This was it.
+\>This was the new and deserved look for Mel.
+\>Sensual. Elegant.
+\>And incomparably sexy.%%
 
 ---
 ###*Mizutsune*
@@ -1322,6 +1582,113 @@ Dislikes: female wyverns, male wyverns, hunters with small weapons, humans bring
 [There are twelve photos, all showing off either Shag's broad chest or muscular tail or both. More than one features him with his forelegs and wing-arms extended as he stands on his hind legs. There's a black bar along his abdomen but one photo shows an edge of pink just under halfway down the bar.] 
 
 ---
+###*Tzitzi-Ya-Ku*
+
+=============================================
+
+>What human-specific fetishes would monsters have? Like, they would consider claw fetishes weird but find foot fetishes hot
+
+%darkgreen%\>"Your penis!"
+\>First it was, 'no way, dude, I'm not that kind of monster!'
+\>Then it was, 'c'mon, Anon, it's embarrassing!'
+\>Then, 'I-I don't ask about YOUR crazy monster fetishes...'
+\>'Wait... you like that?'
+\>'You LIKE that?!'
+\>'... Wow... I-I could do... Uh, never mind!'
+\>'No, you're just gonna laugh at me...'
+\>And finally, back to Kiki fidgeting with her claws and quirking her iridescent crests up and down nervously after blurting out two words that left you reeling, both physically and mentally.
+\>A Barroth in a booth opposite you two gives her a dirty look but that may just be the mud around his eyes.
+\>The rest of the mixed monster-human bar either didn't hear or doesn't care.
+\>Or maybe they're just as used to Kiki as you are, now.
+\>As for you? You look down into your mug of half-drank beer and consider what your friend's just said.
+\>She's got the hots for human cocks.
+\>They're fine, sure, but fetish-worthy?
+\>Either you've taken too long to reply or she's having second thoughts but whatever it is, Kiki lets out a loud groan and flops her head down onto the table, making the mugs and plates shudder.
+\>For a tzitzi-ya-ku who likes to wear such scandalous monster clothing, she's being kind of reserved about this.%%
+"My penis?"
+%darkgreen%\>Saying that, you don't look back up at her. You're sure you wouldn't be able to say those words if you met her eyes.
+\>The nervous scratching of claws against wood already makes you feel bad enough.
+\>"No, not yours..." Kiki moans miserably. "I-I mean- n-not that there's anything wrong with yours! Not that I'd know! I'm just- I- It's..."
+\>There's another thump from what you assume is Kiki pounding her head into the table again.
+\>"Can I start over?"
+\>Now there's a tone of voice you haven't heard from her in a long time - an awful mix of anxiety and... fear.
+\>Looking back up, she has her crests extended but folded down over her eyes.%%
+"If you don't wanna talk about it, we can just drop it."
+%darkgreen%\>"No," she moans, "you're always gonna know now and you're gonna think I'm weird if I don't explain."
+\>You wouldn't think she's weird!
+\>She is kinda weird as far as monsters go, what with the way she acts like a young city woman, flaunting her stylish outfits, but it's a weird that's seen you spend a lot of time around her because of.
+\>"Have you ever..." Kiki mumbles, barely lifting her crests from her eyes to turn them towards you, "seen a wyvern's... y'know..."
+\>Oh, now she's getting shy about saying it?%%
+"Big, fat, throbbing banana?"
+%darkgreen%\>Like a flash (just not that kind), Kiki whips her head up and glares at you.
+\>"Oh, my gog, Anon! You can't just say that! What if someone heard?"
+\>Nope, no use.
+\>Can't keep your shit-eating grin contained.
+\>The term was something of a joke among humans which, once monsters got word of, was publicly seen as an incredibly indecent thing to say.
+\>Privately, you'd heard some ask you to say it to them.
+\>And while her crests retract a bit but not all the way, Kiki does give you a smile.
+\>"Okay, okay, you made your point."%%
+"Seriously, though," you say, picking up your mug, "human penises?"
+%darkgreen%\>You make sure to lower your voice a little on that last bit and Kiki leans closer to you, licking her lips.
+\>"Seriously, human penises."
+\>She is serious, sitting there looking intently at you.
+\>Before scoffing and grabbing a clawful of those breaded kelbi bites.
+\>Kiki tosses them into her mouth and chews for a moment, looking like she's considering something before she swallows.
+\>"It's like... okay, have you ever actually, really seen a wyvern's?"
+\>Yes.
+\>Back when you were a novice hunter, fresh from the Academy, an admittedly handsome older wyvern took you under his wing (literally and metaphorically) and helped you get settled into your Guild duties.
+\>That was your first taste of things.
+\>And far from the last.
+\>So you give Kiki a nod and decide to save the stories regarding the depth of your experience for another time she's sure to better enjoy them.
+\>"Okay, so, you know they're almost all internal. Like, the scales around the slit are kinda soft and sensitive but the cock's all tucked away in there most of the time."
+\>You nod again.%%
+"Yeah, I know about it. Makes sense when you're flying, or walking over lava, or whatever."
+%darkgreen%\>"Exactly," she says, grabbing another clawful of food. "So you don't actually see them unless a monster's aroused, y'know? I mean, if he takes you home or you take him home and you fool around or he keeps it in long enough for you to be able to have a little fun coaxing it out of him."
+\>Kiki stops herself by jamming the pieces of spicy breadcrumbed cheese into her mouth, only for her eyes to fall shut and a small groan to rise in her throat.
+\>She'd been a big fan of that southern spicy food ever since she first tried it.
+\>But considering the subject matter she'd just been discussing, the noises she's making are... not exactly filling your mind with thoughts of monster cocks.
+\>She gazes down to the bowl but continues talking for the moment.
+\>"Anyway! My point is that there's this really clear line between when a monster's aroused and when he's not aroused, y'know? Cock in? He's thinking about literally anything else other than you. Cock out? It's showtime, baby!"
+\>She bares her teeth in a monstrous grin and you do the same, glad to see her spirits returning.
+\>"But human penises..."
+\>And just like that, she's turning quiet again.
+\>"They're outside you. All the time."
+\>You take up a grilled piece of gargwa to take some of your attention off her, while you turn it over in your hands, letting it cool a bit more.%%
+"Yeah but it's not like we're hard all the time."
+%darkgreen%\>Come to think of it, you've never seen a monster cock flaccid. Can they even do that?%%
+"And we wear clothes, too, so you don't see them."
+%darkgreen%\>"I know, I know! But sometimes the clothes you wear? They just show off that you're out there."
+\>She starts tapping two of her claws together, looking down as you look up at her.
+\>"And, um, some of those magazines about humans... T-That Tama told me about! I don't own any! He just loaned them to me!"
+\>You take a great big bite out of your gargwa leg to stop yourself from grinning at her. Also the mouthful of food means you can't run your mouth off.
+\>"Well, uh, some of them have these pictures of humans in like... pants with no, um, crotch on them so it shows things off and the humans are just doing ordinary things, y'know? Like cooking or reading or whatever and /some/ monsters think it's really hot that humans just have their cocks flopping around between their legs /all/ the time..."
+\>Nope. Can't do it.
+\>Best you can do is choke on your food in an attempt to stop yourself from laughing.
+\>The mental image of some dude lounging on a couch in crotchless pants while a monster leers over the picture like it's the hottest thing in the world is priceless!
+\>"Gah! Anon, here!"
+\>Kiki pushes over her own, much larger, mug of beer seeing as you've drained your own and you have to awkwardly lift it and try not to empty it over your face to take a sip.
+\>Poor thing looks over at you so fretfully.
+\>"This was a stupid idea, I should never have said anything..."
+\>You cough a few more times to clear your throat but your friend just continues looking at you.%%
+"Hey, c'mon," you say a bit hoarsely, patting your chest. "I'm learning more about monster culture."
+%darkgreen%\>"Anon..."%%
+"What? You should see the mags humans have about monsters!"
+%darkgreen%\>Surprisingly, Kiki perks up a little and shows genuine interest.%%
+"But we're talking about monster mags."
+%darkgreen%\>She narrows her eyes.
+\>"Only if we talk about human mags after."
+\>In turn, you roll your eyes (good-naturedly) but still nod.
+\>Kiki takes a long, slow breath and nods back to you.
+\>"Okay, well... It's not just about the clothes you wear." Her eyes slowly fall away from yours and if you didn't know any better, you'd think the scales around her eyes darken. "It's just... /knowing/ your anatomy. But knowing that when a cock's out it means arousal. So, like, is my human friend turned on by me? Or is he just really good at controlling it? Or does he want me to rub him to check?"
+\>She takes the bowl of kelbi bites in her claws and taps at it.
+\>"And yeah, you know how human anatomy is but it's the fetish. It's letting yourself think that he's out and proud because he wants you to guess. Even in public, like it's just a little secret for the two of you. Only it's bigger than that, it's every male human. It's like the entire city is turned on by you! O-Or humans are so horny and ready to go all the time that you could find yourself hunted down a dark alley or you could bump into one and feel his cock against your scales, even through his clothes, or maybe he'd cut the fabric on your scales by accident and it'd flop out just waiting for a soft, warm, wet monster to rub herself up against it and show him that you can be just as ready to go as he is!"
+\>By now she's practically panting. Looking directly at you. Although her eyes flick down to the table, at what you can imagine is just the right angle for them to bore holes through the wood to where you're sitting.
+\>"At any moment, a human could brush up against you and you'd feel it. Or... Or you go down to the beach. Where they're all wearing those really tight little things that don't even try to hide it any more."
+\>And starting to lean over the table towards you, her hot breath that smells of spices wafting across your face as she speaks.
+\>"Or he's sitting across from you, eating. W-With his cock right there under the table, not even tucked away inside a slit, just sitting there like he doesn't care you're in public together and anyone could see that he's like that when he looks at you. And even if they don't see it, they know it. They know it's there. Ready for action."
+\>... Maybe the food's a little too spicy for her.%%
+
+---
 ###*Vaal Hazak*
 
 =============================================
@@ -1561,3 +1928,30 @@ Here's what you do: first off, you go to Loc Lac. I know, I know, people will sa
 Now, next thing you need to do is book an airship to Pokke. A good one. The kind of one that has a bedroom with silk sheets and good wine/sake. Spend the trip up there pampering your beloved monster. And when you get there? Load up and head straight out to the Snowy Mountains. Go to the peak, because the atmosphere up there is so rare you can see the sky perfectly.
 When it gets close to midnight, you present your monsterfu with the piece of jewellery you got for them and you tell them: as the Sapphire Star leads the way for the guild, so too have the stars led your way to them. You give this gift in remembrance of your fortune but more than that, because from the last year with them, you know you don't want another without them. As you warm them on this snowy peak, so too do they warm your heart in this cold world.
 And when they ask? Why, you had it all planned.
+
+\##################################################
+
+>Low rank hunters belong to low rank monsters! How else would they get their first time?
+
+%darkgreen%\>ywn sneak into the campsite and give a low rank hunter his first time before he even steps out onto his first quest
+\>ywn pay off the Guild authorities not to tell the hunter that there's a fearsome elder dragon lurking in the area
+\>ywn wait until he's got his back turned, poking at the fire while he fixes himself a hot drink
+\>ywn be the only hot drink he needs to stave off the cold on his quest and forevermore
+\>ywn squeak when your swishing tail catches his attention and he turns around
+\>ywn jump when he screams
+\>ywn scream too
+\>ywn scrabble to calm him down before he passes out from fright
+\>ywn wince as he does so anyway and only narrowly misses falling right into the fire
+\>ywn pick up his unconscious body and bring him over to the tent
+\>ywn watch him lying there just breathing peacefully
+\>ywn giggle with just your head poking through into the tent and laugh harder when your hot breath makes him moan and start stirring
+\>ywn give him your biggest, friendliest smile when he comes to
+\>ywn feel it disappear when he visibly tries not to scream
+\>ywn stretch your neck further in and just talk to him
+\>ywn explain that out here, at the edge of the world where there's only the ice and the snow and monsters, the Guild doesn't tell hunters but they get sent out here to see if they're good enough for certain special assignments
+\>ywn bat your eyelids at him and tell him that you think he's one of those particular hunters who has what it takes and the Guild told you to test him out
+\>ywn damn the consequences for what may come of this
+\>ywn watch him debate what you said, weighing up a talking monster against the possibility of the Guild punishing him for failing a quest so spectacularly
+\>ywn whisper, in your sultriest voice, that you won't be long and he won't risk failing his quest but that doesn't mean it won't be memorable
+\>ywn walk away bow-legged and with a newfound taste for young, inexperienced hunters
+\>ywn start posting your own low rank quests%%

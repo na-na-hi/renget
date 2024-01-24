@@ -18,11 +18,12 @@ Added guide: How to set up a basic AR-15 or How to pimp your M&P Sport. Added li
 Added guide: SBRs, SPRs, and Carbines
  - 12/3/2023 v1.2.4
 Added M300 light to recommended lights per anon feedback. Added more information and recommendation for A5 buffers and ambi lowers. Added gas port size spreadsheet to external resources.
- - 12/3/2023 v1.2.5: you are here
+ - 12/3/2023 v1.2.5: 
 Added guide: How and Where to Add Accessories. Special thanks to everyone whose pictures are used. Used some of Gookfoots pictures as examples of how to do things right. Since they're available on reddit I'm considering them public. Bitch at me in the thread if you want them removed. Special thanks to reddit for contributing images on how to do things wrong, I guess they're good for something afterall. Added intro to long range shooting infographic. Added guide: What to include in your range bag.
- - 12/5/2023 v1.2.6: you are here
+ - 12/5/2023 v1.2.6: 
 Added SOTAR to the BCG section of the guide and external resources. Cleaned up other youtube video recommendations. Changed over A2 task of the month links to catbox images now that it's behaving again.
-
+ - 1/23/2024 v1.2.7: you are here
+Corrected misinformation on streamlight protac 2.0 railmount light. Thanks to anon for pointing it out
 
 
 >Why the AR-15?
@@ -941,11 +942,14 @@ This is an ergonomic concern only you can answer. If you are using a switch, get
 
 
 
+
 ###Recommended lights
 >Surefire M640DF
 Has the best flood illumination on the market. 
 >Streamlight HLX protac railmount 
-Ok quality budget light. Use of the tailcap is recommended, as the switch it comes with is prone to failure. Good flood illumination, second best to the Surefire DF lights. The 2.0 2000 lumen version is not recommended due to use of non-removable internal battery only.
+Ok quality budget light. Use of the tailcap is recommended, as the switch it comes with is prone to failure. Good flood illumination, second best to the Surefire DF lights. Newer Pro variant has a dual port tailcap that allows the use of a switch while retaining an activation button on the tailcap.
+>Streamlight Protac 2.0 railmount 2000 lumen
+Newer offering from Streamlight, no long term data yet but initial reviews are positive. Has the new tailcap design with a port for a remote switch and on/off button integrated as a standard option. It is significantly cheaper than the Surefire equivalent, the DS00 tailcap alone costs nearly as much as this light complete. Uses a new, proprietary rechargeable battery, as a result it is unable to accept CR123 batteries. Backup batteries are going to be expensive and specific to your light, potentially a downside if you feel the need to have them. 2000 lumens is a lot of lumens.
 >Surefire M300
 Suitable for rifles with limited rail space, if you can't manage a full size light consider this
 

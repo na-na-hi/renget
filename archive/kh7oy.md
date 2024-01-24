@@ -12,13 +12,12 @@ Future Release Dates:
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
-「!」Princess Peach: Showtime! 3rd Trailer (Ninja and Cowgirl Peach)
+「!」Princess Peach: Showtime! 3rd Trailer (Ninja Peach and Cowgirl Peach)
 https://www.youtube.com/watch?v=kGJIpCAkc-0
 「!」Mario vs. Donkey Kong REMAKE Opening
 https://www.youtube.com/watch?v=UAZV3HTLQLA
 「!」Mario vs. Donkey Kong ~ Pieces of the Puzzle - 2nd Trailer (over 130 levels, new worlds, casual mode)
 https://www.youtube.com/watch?v=xyIOYFvsdZo
-「!」Super Mario Bros. Wonder wins "Best Family Game" at The Game Awards 2023
 「!」"Donkey Kong Country" Park - Super Nintendo World Expansion Trailer
 https://www.youtube.com/watch?v=OY_v1w9ALC8
 https://dtimes.jp/post-512278/

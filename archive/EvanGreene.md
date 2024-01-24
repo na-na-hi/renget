@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 11 | **Experience to Next Level:** 50/110
+**Level:** 11 | **Experience to Next Level:** 55/110
 **Worn Item:** *N/A* | **Clothing:** *Green Scarf*
 **Pokécoin:** 793₽ | **Glorious Gold:** 0 Bars
 

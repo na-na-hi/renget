@@ -52,6 +52,7 @@ Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Belloss
 Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#jungsara)
 Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
 ??? | M | Wimpod | N/A | Clover Guild Member | [???]
+Error | - | Iron Valiant | N/A | Clover Guild Member | [???]
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
@@ -146,6 +147,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Sentimental Value (ft. Booker)](https://rentry.org/RibombeeSentimental)
 	* [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem)
 	* [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
+	* [Learning to Fly ch. 4 (ft. Booker)](https://rentry.org/RibombeeFly4)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4) **Non-Canon (Draft) Story**
@@ -207,6 +209,8 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [Intro to the Clover Guild (ft. Elm)](https://rentry.org/cloverintro)
 	* [An Overelming Week (ft. Elm)](https://rentry.org/overelming)
 	* [A Nightmare on Elm Street](https://rentry.org/elmnightmare)
+* Error the Iron Valiant
+	* [I am Error](https://rentry.org/ironvaliant1)
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
@@ -560,6 +564,8 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
 * [Team Moonshine: The Evolution Situation](https://rentry.org/moonshinevile)
 * [The Platinum Syndicate Part 1: Business is Blooming (ft. Makky)](https://rentry.org/Platinum1)
+* [Learning to Fly ch. 4 (ft. Booker)](https://rentry.org/RibombeeFly4)
+* [I am Error](https://rentry.org/ironvaliant1)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

@@ -2747,6 +2747,12 @@ https://files.catbox.moe/tlnpgu.safetensors
 >trigger is "kudai"
 https://www.mediafire.com/folder/bihzyvtgmwue1/Fffffolder_style_lora_(kemoshota)
 
+# Dazzi (Palworld)
+https://files.catbox.moe/w544rm.rar
+
+# Hyperscat (Concept)
+https://files.catbox.moe/9cshwy.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -3001,6 +3007,10 @@ https://files.catbox.moe/5ylrek.pdf
 Males: https://www.mediafire.com/file/g7y2i8u239k9zut/Working_artists_redemption_arc_edition.pdf/file
 Females: https://www.mediafire.com/file/mbg5rk9c34h243y/Working_artists_cooties_edition.pdf/file
 Base SD Artists: https://www.mediafire.com/file/mnqv47mgji4baa4/Working_artists_real_artists_edition.pdf/file
+
+Ponydiffusionv6 XL Artist Comparison
+>Nabbed an anons artist list from /h/ and put together some grids for PDXL, gonna do one for anime girls later and maybe run the EF artist list I got just to see what does and doesn't work
+https://mega.nz/folder/kvwQHLiA#fmI-1cgoCagt3vBEhHudag
 
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)

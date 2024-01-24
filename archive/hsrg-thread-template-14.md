@@ -12,9 +12,9 @@ https://www.youtube.com/watch?v=2iRam7fnPrg (JP)
 
 \>1.6 Preview Page - https://act.hoyoverse.com/sr/event/e20231215version-92kbcf/index.html
 
-\>Version 1.6 Trailer - "Crown of the Mundane and Divine"
-https://www.youtube.com/watch?v=Y02F-UtpiVw
-https://www.youtube.com/watch?v=EOn_MGgOWYs
+\>Sweet Dreams Preview - "The Great Tatalov" 
+https://www.youtube.com/watch?v=nu9msYUXIeU
+https://www.youtube.com/watch?v=BnLoQrCFURI
 
 \>Dr. Ratio Trailer — "Supreme Idiocy"
 https://www.youtube.com/watch?v=-UZ0n2Tqiyw
@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=ieUxZHy6ICo
 
 \>New Drip Marketing:
 \>Acheron (5\* Lightning Nihility) - https://www.hoyolab.com/article/24541891
+\>Aventurine (5\* Imaginary Preservation) - https://www.hoyolab.com/article/24561470
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 2AQA294J5R37 

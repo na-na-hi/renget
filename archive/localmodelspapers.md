@@ -267,7 +267,7 @@
 01/2024|[EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497)
 01/2024|[Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications](https://arxiv.org/abs/2401.06197)
 01/2024|[Scalable Pre-training of Large Autoregressive Image Models](https://arxiv.org/abs/2401.08541)
-01/2024|[Orion-14B: Open-source Multilingual Large Language Models](https://files.catbox.moe/ik2pr6.pdf)
+01/2024|[Orion-14B: Open-source Multilingual Large Language Models](https://arxiv.org/abs/2401.12246)
 01/2024|[Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)
 01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
 |

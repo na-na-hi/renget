@@ -3,15 +3,17 @@
 ---
 ___
 ___
-#### !~*Last updated on:* 01/05/2024 (MM/DD/YYYY)~!
+#### !~*Last updated on:* 01/24/2024 (MM/DD/YYYY)~!
+
+- [Story] *[The Gifting Comet](https://rentry.org/fh7v6vcz)* was added
 
 - [Story] *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so)* was updated
 
 - [Story] *[Ode to the Flame Emperor](https://rentry.org/fxe9i)* was added
 
-- [Story] *[Into the Wilds](https://rentry.org/32ia4)* was added
-
 #### !~*Previously:*~!
+
+- [Story] *[Into the Wilds](https://rentry.org/32ia4)* was added
 
 - [Doujin] *[Foam](https://mega.nz/file/n4hCgA7J#St2MgatII2Ze_ZGiUDI2A875RCEgs_wqs7OIZ4AHXAM)* and *[Valse](https://www.dropbox.com/sh/u5vbjl7eere7tm4/AACgrFk8vPve9jhE7F-e9KIza?dl=0)* were added
 
@@ -603,7 +605,7 @@ Wholesome.
 
 ---
 
-#### *[Bookborne Wyvern [F Velkhana x Human]](https://rentry.org/uef8d)*
+#### *[Bookborne Wyvern [Human x F Velkhana]](https://rentry.org/uef8d)*
 
 Frosty literature.
 
@@ -622,9 +624,15 @@ A crash course on how to cozy up with your favorite electrified flying wyvern.
 
 ---
 
-#### *[El Dorado Protector [Kulve Taroth x Human]](https://rentry.org/58h97)*
+#### *[El Dorado Protector [Human x Kulve Taroth]](https://rentry.org/58h97)*
 
 A researcher stumbles upon the Queen of El Dorado.
+
+---
+
+#### *[The Gifting Comet [Human x Valstrax]](https://rentry.org/fh7v6vcz)*
+
+It's the Season of Giving for one optimistic human and their less-optimistic friend.
 
 ---
 

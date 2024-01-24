@@ -100,7 +100,7 @@ Daniel W. Rain: https://archive.4plebs.org/tg/post/91352447/
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
-
+Suki HN Sukeban: https://desuarchive.org/tg/post/91670899/
 
 ### Shiketsu Staff
 >Pro Heroes
@@ -1054,6 +1054,7 @@ The Leningrad Variation: https://rentry.org/mvtmnzy2
 The Fushimi Ward Incident: https://rentry.org/z3vti4m7
 Everything Wrong With the Two of Them (Reaper, Forget-Me-Not): https://rentry.org/fs8yafua
 Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper): https://rentry.org/5apxm5ao
+The Roll Tournament: https://rentry.org/MHARollTournamentRound1
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

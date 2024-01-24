@@ -40,7 +40,7 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 11/20/550 | 1 day | #07 Holy Grounds, Holy Airs | Listen to the Dragon's Hymn yourself.
 11/20/550 | >>> | #08 Midday Dusk | The Chateau burns, subsumed by a malevolent twilight.
 11/23/550 | 3 days | #09 Old Stories | You gaze into the past, finding a glimpse of an old tale.
-12/2/550 | 1 day | #EV05 To Rebuild a Bar | While it may be destroyed, the spirit still persists! Let's fix up the Chateau!
+12/2/550 | 2 weeks | #EV05 To Bar None | While it may be destroyed, the spirit still persists! Let's fix up the Chateau!
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster - Date ▮▮▮
@@ -98,6 +98,7 @@ After meeting the dubiously-titled Professor Salandit and his assistant, he hire
 The group visits the Marrow Tribe after an invitation from Cubone. There, they shop and interact with the locals, while Mohka, Dustin, Wallis, Kaz, Darius, and Matchia decide to take an early trial meant for the tribe's newcomers to prove themselves. However, when they enter, Darius, Kaz, Wallis, and Matchia are lead astray by the lingering spirit of Chien-Pao, known to the locals as the Blade, and Kaz strikes a deal with the beast for their safety...
 
 !!! (12/05/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #06 Echoing Forest - Date: Sol 13, 2nd Moon of Tornadus, 550 Full Seasons
+Lost in a strange realm eerily familiar, your group wanders the dark corridors of this eternally shadowed forest. Malevolent spirits, none of which resemble any creature you've seen prior, roam with your demise in mind. Aimlessly lost, a lone voice calls out to aid you, the Voice of Life! She urges for you to regroup and make a break for it as the darkness closes in, rushing toward a great big tree. As the dream's reality falls apart and threatens to sweep you away for good, everyone ascends the towering plant in the nick of time, escaping yet another close call. 
 
 !!! note (12/11/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV04 Fleeting Twilight - Date: Sol 19, 2nd Moon of Tornadus, 550 Full Seasons
 The gaggle of ghosts and the 'mons you rescued from the ashen forest have decided upon trying to break into the quarantine house that keeps Skipper the Froakie's mother. Against better judgement, most of you head in to ascertain what exactly is causing the affliction. Trying all you might, it only seems Skipper, his friends, and the bar's ghostly regulars are rewarded for their bravery with... the sight of Skipper's mother attempting to end the little Froakie. This... is more than just a normal disease.
@@ -108,7 +109,13 @@ Hired by the elders of the clans, you're all tasked with ferrying a large offeri
 Taking the chance, you ride the winds up with the plated offering, landing safely above. Quickly, you learn that it must be deposited into the wind tunnel, and you watch your hard work literally swept away by the winds. It seems that had always been the intention. Shortly afterwards, a mesmerizing sight streaks across the sky... a falling meteor... followed by an explosion in Baram!
 
 !!! (1/06/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #08 Midday Dusk - Date: Sol 20, 2nd Moon of Tornadus, 550 Full Seasons
+Your group rushes back to the town, greeted by the sound of battles and rumbling flames. As you all stumble and sprint toward the burning Subsumed Château, your group splits up to take on the challenge. Brook, Evan, Kaz, Darius, Sail, Spike, Espurr, Cubone, Skitty, and Angus make the valiant decision to remain outside, ensuring the situation doesn't worsen any further. Ghosts of Twilight take to the battle with little hesitation as the ravaged inn burns behind you, joined by your allies, all under the pretense to stop the madness. Holding the line while a massive Oceanic Operetta forms, everyone outside watches as a titanic ball of water engulfs your temporary home...
+
+Pushing aside the crumbling debris and minding the smoke, Katherine, Dustin, Cress, Ishmael, Mohka, Orner, Wallis, and Sagira, rush inside the burning building to rescue any 'mons trapped beneath the crushing weight of the flames and ash. Taking different routes to search the crumbling remains, it doesn't take long to secure the survivors, a sneaky Sprigatito and a comatose Primarina. While almost everyone leaves just as the flooding crashes in, three stay behind, for reasons only they know.
+
+As the red sun settles into the late noon, the fires simmer and the skeleton of the Subsumed Château is left standing, charred, but triumphant. Everyone gets to live.
 
 !!! (1/20/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #09 Old Stories - Date: Sol 23, 2nd Moon of Tornadus, 550 Full Seasons
+Recovering from the ordeal of the Twilight Syndrome attack, the Guild League shows up to take a first-hand account of the situation.
 
-!!! note (1/23/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV05 Fleeting Twilight - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons
+!!! note (1/23/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV05 To Bar None - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons
