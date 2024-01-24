@@ -2041,3 +2041,301 @@ https://nitter.net/ME_Observer_/status/1749581601669865682#m  1/22/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.net/AryJeay/status/1749583787522933032#m  1/22/24
+
+>🛑 Al-Quds Brigades (PIJ): 
+
+Confirmed they killed/wounded a number of Zionist soldiers during a series of missions, incl:
+
+🔻Targeting a Merkava tank & a military bulldozer with RPGs, east of Al-Maghazi.
+
+🔻Shelling concentrations soldiers and vehicles, southeast of Bureij camp, with a barrage of mortars and Badr-1 IRAM rockets.
+
+🔻Targeting a group of IOF snipers inside a building in Al-Maghazi camp with two 107mm guided missiles.
+https://nitter.net/AryJeay/status/1749760306497077309#m  1/23/24
+
+>🛑 According to other hebrew sources, the death toll among the IOF army rose to 28 yesterday alone. So it’s definitely much higher than what’s being reported.
+https://nitter.net/AryJeay/status/1749754548741186020#m  1/23/24
+
+>UNRWA: 570,000 people in Gaza face catastrophic hunger. We call for a critical increase in humanitarian access.
+https://nitter.1d4.us/QudsNen/status/1749768343886721517#m  1/23/24
+
+>☠️ The IOF admitted to the death of 21 soldiers/officers from last night’s big attack by Al-Qassam in Khan Younis
+
+So far only 4 of them are named:
+
+🔻Sgt. Maj. (res.) Itamar Tal, 32, of the 261st Brigade's 6261st Battalion.
+ 🔻Sgt. Maj. (res.) Adam Bismut, 35, a squad commander in the 261st Brigade's 6261st Battalion.
+ 🔻Sgt. Maj. (res.) Shay Biton Hayun, 40, of the 261st Brigade's 8208th Battalion.
+🔻Sgt. Maj. (res.) Daniel Kasau Zegeye, 38, of the 261st Brigade's 8208th Battalion.
+https://nitter.net/AryJeay/status/1749750666426265604#m  1/23/24
+
+>🟡| BREAKING: Hezbollah attacked Meron Air base again:
+
+Hezbollah announced targeting the Meron Air Surveillance Base for the 2nd time. This action is a response to recent assassinations in Lebanon and Syria, as well as the repeated attacks on civilians and homes of Qarana. Hezbollah used a significant number of appropriate missiles/rockets, achieving direct hits and causing injuries.
+https://nitter.net/AryJeay/status/1749737714713281017#m  1/23/24
+
+>"We no longer understand anything. We roam day and night searching for enough flour for just one day, and we don’t find any. We don’t know what to eat."
+https://nitter.1d4.us/QudsNen/status/1749764982558925025#m  1/23/24
+
+>BREAKING:
+ 🇮🇱 21 IOF soldiers were killed in a single attack, according to Jerusalem Post
+
+"The IOF was using the building as an explosives dump and Hamas got them with RPGs through the windows. It collapsed the entire building and killed everyone inside.
+
+Hamas shows us yet again how they are clever and adaptable. When you have rocket teams hiding everywhere, you can quickly seize opportunities like this."
+https://t.me/megatron_ron/1298  1/23/24
+
+>Scenes of the explosion that killed over 20 IOF soldiers in Gaza after the buildings they had rigged were detonated by Al-Qassam while the occupation soldiers were still inside 🔥🔥🔥
+https://nitter.net/IbnRiad/status/1749713935182201294#m  1/23/24
+https://files.catbox.moe/108lb2.mp4  1/23/24
+
+>⚡️WATCH: Al-Quds Brigades (PIJ) published scenes from their mortar launches crushing military concentrations and positions on the front lines in the city of Khan Yunis.
+https://nitter.net/AryJeay/status/1749765127031734447#m  1/23/24
+https://files.catbox.moe/bcyo2p.mp4  1/23/24
+
+>🛑 The IOF admits damage was inflicted to the Meron Air Control center due to Hezbollah’s rocket attack. The IOF added that the base has a backup system.
+
+This likely indicates that the base, in contrary to their claims, underwent some critical damages which prompted them to active backup systems.
+https://nitter.net/AryJeay/status/1749776347520544797#m  1/23/24
+
+>It seems that Meron will be strategically struck in response to enemy aggressions, up until the point it no longer becomes functional (and it doesn’t seem like we’re very far off from that already)
+https://nitter.net/IbnRiad/status/1749782017481302217#m  1/23/24
+
+>Egypt warns Israel against occupation of Philadelphi Corridor, cites serious threat to bilateral relations
+https://nitter.1d4.us/QudsNen/status/1749731340310938045#m  1/23/24
+
+>MSF: Our staff at Nasser Hospital report that they feel the ground shaking and that there is a sense of panic among staff, patients and displaced people seeking shelter in the building.
+
+(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1749728968557637638#m  1/23/24
+
+>According to the reports, while Israeli soldiers were preparing two buildings to be detonated, resistance fighters fired two RPG missiles, which led to a series of explosions that ultimately exploded two buildings and caused a third to collapse, killing 21 soldiers, according to the number that Israel's military recognized.   
+
+(Illustrative Photo)
+https://nitter.1d4.us/QudsNen/status/1749695370878226818#m  1/23/24
+
+>The spokesperson for the Qatari Ministry of Foreign Affairs, Majed Al-Ansari: The Israeli officials' tolerance in discussing the forced displacement of the people of Gaza is an issue that should not be overlooked.
+https://nitter.1d4.us/QudsNen/status/1749754920364822792#m  1/23/24
+
+>🛑| JUST IN: According to JPost: 
+
+Hamas rejected the israeli offer to release the prisoners in exchange for a 2-month ceasefire.
+
+This was quite obvious as it did not meet Hamas demands at all.
+https://nitter.net/AryJeay/status/1749793004184010904#m  1/23/24
+
+>⚡️Al-Qassam (Hamas) published a video showing the seizure of the "Matrix 600" IOF drone that was downed during its reconnaissance mission, east of Jabalia in the northern Gaza Strip.
+https://nitter.net/AryJeay/status/1749795464072024407#m 1/23/24
+https://files.catbox.moe/9uejiv.mp4  1/23/24
+
+>Media Coverage | A recent Israeli media investigation reveals that Israeli soldiers are reporting the complete destruction of all buildings within 1 kilometer from the borders with Gaza to create a "Security zone."
+The investigation uncovers that the destruction included all standing buildings, including mosques, schools, and medical clinics.
+https://nitter.1d4.us/QudsNen/status/1749796083407172076#m  1/23/24
+
+>Groups of Israeli settlers, accompanied by Israeli police, stormed into Al-Aqsa Mosque today.
+https://nitter.1d4.us/QudsNen/status/1749787810507165977#m  1/23/24
+
+>⚡️Lebanon: Islamic Resistance: Our mujahideen targeted the Khirbet Maar base with appropriate weapons and achieved direct hits.
+https://nitter.net/ME_Observer_/status/1749799291512901934#m  1/23/24
+
+>BREAKING:
+ 🇬🇧 Rishi Sunak:
+
+"Britain would stage new military action if the Yemeni rebels keep attacking shipping in the Red Sea.
+
+Also, The UK will impose sanctions on the Houthis in the coming days to make it harder to finance the rebels."
+
+🇾🇪 The Houthis: We don't care, we will continue to block ships going to Israel."
+https://t.me/megatron_ron/1301  1/23/24
+
+>🛑 UPDATE: Al-Qassam (Hamas) issued an update on yesterday’s BIG event:
+
+At exactly 4PM yesterday, the Qassam Brigades executed a complex operation east of Al-Maghazi camp. They targeted a building housing a Zionist engineering force, with an anti-personnel shell, causing the ammunition and engineering equipment it possessed to explode. 
+
+Simultaneously, the fighters destroyed a Merkava tank, that was providing cover for the force, with a Yassin-105 rocket. 
+
+They also detonated a minefield blowing up another Zionist force in the same location, resulting in casualties, including deaths and injuries. The fighters withdrew safely to their bases.
+
+This operation resulted in 24 confirmed IOF kills with many more injured & missing.
+https://nitter.net/AryJeay/status/1749806855193546849#m  1/23/24
+
+>Ministry of Health in Gaza: "Israeli forces have isolated the Nasser Medical Complex, posing a serious threat to the lives of medical staff, patients, and displaced individuals seeking refuge in the hospital."
+https://nitter.1d4.us/QudsNen/status/1749803503336440161#m  1/23/24
+
+>Breaking | Ministry of Health in Gaza: "Israeli tanks are intensively firing at the upper floors of the specialized surgery building at Nasser Hospital."
+https://nitter.1d4.us/QudsNen/status/1749809473714319633#m  1/23/24
+
+>⚡️The #Israeli Army Chief of Staff arrives at the site of the killing of 21 #Israeli soldiers and officers as a result of the bombing of a house and the destruction of a tank east of the Maghazi camp in the central #Gaza Strip, where he said: “We will draw lessons, expand the military operation in Khan Yunis, and achieve achievements.”
+https://nitter.net/ME_Observer_/status/1749821741629677642#m  1/23/24
+
+>BREAKING:
+ 🇳🇿 New Zealand joins the Red Sea coalition
+
+New Zealand announces it will send a team to join the international maritime coalition in the Red Sea.
+https://t.me/megatron_ron/1304  1/23/24
+
+>The Euro-Mediterranean Human Rights Monitor's statement highlights that the starvation of civilians in Gaza has reached unprecedented levels, posing a significant threat to the spread of diseases due to a lack of food security.
+https://nitter.1d4.us/QudsNen/status/1749828682418438284#m  1/23/24
+
+>FOOTAGE: Leaked video from the body cam of an IDF soldier. Rough …
+https://files.catbox.moe/14apdz.mp4  1/23/24
+
+this occupier is so terrified that he pulled a blanket over his head. This must have been from yesterday's bloodbath.
+https://nitter.net/bonzerbarry/status/1749831679978409992#m  1/23/24
+
+If you ever feel useless, remember that there was a Zionist soldier hugging a blanket while getting ambushed by the resistance in Khan Younis.
+https://nitter.net/AryJeay/status/1749834770777846122#m  1/23/24
+
+>🛑 Al-Qassam (Hamas)
+
+Confirmed the bombing of 2 Hummer military vehicles, after they drove into a minefield that had been prepared for them in the Juhr al-Dik area, east of the central Gaza Strip.
+https://nitter.net/AryJeay/status/1749835655121686873#m  1/23/24
+
+>The guy with the blanket is Major David Nati Alfasi, 27, a deputy battalion commander from the Paratroopers Brigade's 202nd Battalion.
+https://nitter.net/AryJeay/status/1749839053157986618#m  1/23/24
+
+>⚡️🔻 They got minced
+
+Scenes from the Mujahideen Brigades targeting concentrations of Zionist enemy vehicles and soldiers in eastern Jabalia with a Sa’ir missile, killing a number of soldiers.
+https://nitter.net/ME_Observer_/status/1749834119771467795#m  1/23/24
+https://files.catbox.moe/8x53is.mp4  1/23/24
+
+>⚡️MUST WATCH: Al-Quds Brigades (PIJ) published a video showing the targeting of a military gathering in Jabal Al-Rayes, east of Jabalia, with guided missiles (probably ATGMs). 
+
+English translations of the arabic texts in the video:
+
+“Monitoring the movements of the enemy stationed on Jabal al-Rayes”
+
+“Based on field information about soldiers getting out of the detected vehicles, the gathering was targeted with a guided missile.”
+
+“Scenes from targeting the gathering with a guided missile”
+
+“Pictures from where the soldiers were targeted by the guided missile.”
+
+“Military belongings of the soldiers targeted in the operation”
+
+“Traces of blood on the belongings of soldiers targeted in the operation”
+https://nitter.net/AryJeay/status/1749841324377850289#m  1/23/24
+https://files.catbox.moe/yh7phg.mp4  1/23/24
+
+>Protesters gathered outside the Egyptian Embassy in Amman, calling for an end to the Gaza blockade and the reopening of the Rafah Crossing.
+https://nitter.1d4.us/QudsNen/status/1749849411440525603#m  1/23/24
+
+>BREAKING:
+ 🇮🇱 Israeli Chief of Staff:
+
+"We are still fighting, the battle will be long, and we will need reserve forces again.
+
+We will continue to fight Hamas with great determination for our right to live in safety.
+
+Our soldiers fell in battle during a defensive operation in the area separating Israeli towns and Gaza.
+
+The operation was aimed at creating security conditions for the residents of the Gaza envelope area to return to their homes safely.
+
+We will conduct an in-depth investigation and draw lessons so that such an incident will not be repeated."
+https://t.me/megatron_ron/1308  1/23/24
+
+>⚡️#Iraq: Al-Mayadeen correspondent in Baghdad: 
+
+A drone bombardment targets American forces at Ain al-Asad base, west of Anbar.
+https://nitter.net/ME_Observer_/status/1749856333950492759#m  1/23/24
+
+>⚡️| Hezbollah published a video showing the process of launching rockets/missiles towards the Meron air control base today. 
+
+The IOF had admitted damage earlier today.
+https://nitter.net/AryJeay/status/1749858462203326960#m  1/23/24
+
+>“15 funerals in one day”
+https://nitter.net/AryJeay/status/1749872563537236199#m  1/23/24
+
+>🛑| 🇮🇶 Islamic Resistance in Iraq announces 2 attacks:
+
+They carried out 2 separate attacks on the Ain al-Asad US base in western Iraq, using suicide drone.
+https://nitter.net/AryJeay/status/1749861363600540081#m  1/23/24
+
+>🛑| 14 wounded, including 3 seriously injured, were transferred from Gaza to Soroka Hospital during the past 24 hours.
+https://nitter.net/AryJeay/status/1749873793000939662#m  1/23/24
+
+>Calls for international action and a solidarity day are set to take place in Madrid, Spain, calling for a halt to arms sales to Israel due to its war and occupation in Palestine.
+https://nitter.1d4.us/QudsNen/status/1749860351884116180#m  1/23/24
+
+>UK Labour MP Apsana Begum raised concerns with the Prime Minister about the absence of support for calls for a ceasefire in Gaza. In response, the Prime Minister contended, "I would not draw a link between the actions in the Red Sea and the situation in Gaza; they are completely different things."
+https://nitter.1d4.us/QudsNen/status/1749867343981809858#m  1/23/24
+https://files.catbox.moe/249d6a.mp4  1/23/24
+
+>BREAKING: 
+ 🇪🇺 🇮🇱 EU foreign policy chief Josep Borrell says Israel cannot have the veto right to the self-determination of the Palestinian people
+https://t.me/megatron_ron/1309  1/23/24
+
+>🚨BREAKING: An explosion was heard in Tel Aviv without activation of sirens.
+https://nitter.net/AryJeay/status/1749883422766477772#m  1/23/24
+
+According to preliminary reports, it’s related to a criminal event. Probably thugs or gangsters. However, the explosion sound seemed to be too “big” compared to the usual criminal events.
+https://nitter.net/AryJeay/status/1749889921387573675#m  1/23/24
+
+>US National Security Spokesperson, John Kirby, says the US does not "wanna see Hamas in charge of Gaza anymore."
+
+Biden administration had stated on several occasions that the US does not interfere in other countrys' internal affairs.
+https://nitter.1d4.us/QudsNen/status/1749894560371687439#m 1/23/24
+
+>⚡️Syria: Al-Mayadeen correspondent: 
+
+Violent missile bombardment targets the American base in the Conico gas field in Deir ez-Zor, eastern #Syria.
+https://nitter.net/ME_Observer_/status/1749901834594951289#m  1/23/24
+
+>🚨 US air raid aggression on Jurf Al-Nasr, Iraq
+https://nitter.net/AryJeay/status/1749905575180218470#m  1/23/24
+
+>🛑 CENTCOM: US Forces bombed Kataib Hezbollah facilities in Iraq, in response to the attack on Ein al-Asad US Airbase in western Iraq, a few days ago.
+https://nitter.net/AryJeay/status/1749916577200255178#m  1/23/24
+
+>UN aid chief Martin Griffiths says Israeli strikes hit a warehouse in Khan Yunis, killing two individuals and cutting off humanitarian aid. 
+
+He added that 20 people were killed in an Israeli strike on a training centre and in Al Mawasi, while Nasser Hospital is unreachable.
+https://nitter.1d4.us/QudsNen/status/1749916152296354238#m  1/23/24
+
+>⚡️#Russia: Lavrov: 
+
+“Israel” prevented the World Health Organization from delivering medicines to the northern #Gaza Strip, and killed more than 150 UN employees.
+
+“Israel” attacks the #Palestinians in the West Bank and desecrates the holy sites in #Jerusalem
+
+The aggression against #Yemen by Western countries constitutes a threat to international peace and security, and we condemn the aggression against #Syria.
+
+The escalation in southern #Lebanon is dangerous
+
+The #Palestinians decide their fate and who rules them, as democracy requires, and any attempt to impose their will on them in the name of social engineering is unacceptable.
+https://nitter.net/ME_Observer_/status/1749908706639180285#m  1/23/24
+
+>🚨| 🇮🇶 Iraqi resistance announces expansion of escalation after the US bombed facilities in Iraq.
+
+The expansion includes imposing naval blockades on Zionist shipping routes in the Mediterranean Sea, and disrupting/targeting of Zionist ports.
+https://nitter.net/AryJeay/status/1749920637395578984#m  1/23/24
+
+>⚡️IRAQI RESISTANCE DECLARES A BLOCKADE ON THE MEDITERRANEAN FOR #ISRAEL : 
+
+⚡️Iraq: The Secretary-General of the “Master of Martyrs” Brigades: As the Americans resume their targeting of our forces, our mujahideen have begun the second phase of their operations.
+
+⚡️Iraq: Secretary-General of the “Master of Martyrs” Brigades: The second phase of the blessed operations includes enforcing the blockade on Zionist maritime navigation in the Mediterranean Sea, and removing the ports of the usurping entity from service.
+
+⚡️Iraq: Secretary-General of the “Master of Martyrs” Brigades: Our operations will continue until the unjust siege on #Gaza is lifted, and the horrific Zionist massacres against its people are stopped.
+https://nitter.net/ME_Observer_/status/1749921001507295418#m  1/23/24
+
+>⚡️#Iraq: Al-Mayadeen correspondent: 
+
+Two martyrs in the American attack in a preliminary outcome of the raids on Al-Qaim on the Iraqi-Syrian border
+
+ 5 raids were launched by American occupation aircraft on Jurf al-Nasr, south of Baghdad.
+https://nitter.net/ME_Observer_/status/1749932247426240840#m  1/23/24
+
+>⚡️🔴Reports of the sounds of explosions at the occupied Koniko base in #Syria
+https://nitter.net/ME_Observer_/status/1749939997099077655#m  1/23/24
+
+>🇮🇷 Iran’s FM Amir Abdollahian in an interview with ABC News:
+
+The key to solving problems is not in Tel Aviv but in Washington.
+
+He said that whether Trump wins or loses the election, this issue will not affect the relations between the US - Iran. The person itself is not important, the behavior of governments is important.
+
+He also also mentioned that the scope of the war has become larger, and thus the risk of a broader war in West-Asia (“middle east”) has increased.
+https://nitter.net/AryJeay/status/1749950676069761037#m  1/23/24

@@ -14,7 +14,7 @@ Frame the story as an MLP episode for good characterisations and equine maneuris
 
 https://mlpchag.neocities.org/Jailbreaks/EpisodeJB.json
 
-## Episode JB
+## Episode JB RP
 
 Same as above but with steps to avoid talking for (you)
 

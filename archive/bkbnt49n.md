@@ -2,16 +2,12 @@
 Op is a fucking retard that forgot to change the Edition
 >QoTT: Why can't OP pay attention?
 
->(Furfag) Avatar Resources:
-https://rentry.org/vrfgar20230415
->Guides
-https://rentry.org/vrfgguides20230415
->Stuff You (don't) need If You're New
-https://rentry.org/vrfgNEED20230309
+>What is this thread for?
+Discussing and/or facilitating strictly sfw meets in Vrchat
+>Resource reentry:
+https://rentry.org/upyvqfnf
 
-OP template: https://rentry.org/bkbnt49n
-
-Meets every Friday and Saturday (8PM CST)
+>Meets every Friday and Saturday (8PM CST)
 - Free space Friday
 - Social/Debate Night Saturday
 

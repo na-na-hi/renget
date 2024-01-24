@@ -57,4 +57,7 @@ Basic Skincare and Makeup: https://rentry.org/mtfgskinmakeup
 ▶Voice Training:
 Voice Resource Repository: https://wiki.sumianvoice.com/
  The Art of Voice Feminization Series: https://www.youtube.com/playlist?app=desktop&list=PLYJkVI7LLpknvBww07jnsxbz-_Lkynsry
+
+▶Timelines:
+Coming Soon™
 !!!>By posting in this thread you deny that repression is a valid treatment for gender dysphoria, denounce and fully condemn boymoding out of your own volition; and you are prohibited from posting here if you have a reddit account.

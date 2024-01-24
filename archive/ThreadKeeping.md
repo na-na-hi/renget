@@ -406,19 +406,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Fushimi Ward Incident
-https://rentry.org/z3vti4m7
->Everything Wrong With the Two of Them (Reaper, Forget-Me-Not)
-https://rentry.org/fs8yafua
->Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper) https://rentry.org/5apxm5ao
+>The Roll Tournament
+https://rentry.org/MHARollTournamentRound1
 
-New Villain Build?
->TechVision Elite 2023 - 43Vista UltraSmart 4K TV
->>91654960
-
-New Art:
->least oppressed christian
->>91654550
+New Hero Build
+>Suki HN Sukeban
+>>91670899
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91394871/
@@ -495,6 +488,8 @@ Page 2
 >>88810810
 >Takara Tame HN Android
 >>89199766
+>Suki HN Sukeban
+>>91670899
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -514,6 +509,8 @@ Page 2
 >Johanna Hilt HN Gauntlet Hero: Weiss Schwarz
 >>88195437
 >Mio Katsuragi HN Forget-Me-Not
+>>89250569
+
 >>89250569
 >Ganto Kanzaki HN The Clone Hero, Commander (NPC)
 >>89284218

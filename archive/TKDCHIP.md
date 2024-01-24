@@ -1065,6 +1065,8 @@ https://files.catbox.moe/aih83k.mp4 New  1/20/24
 https://files.catbox.moe/kqx0vs.mp4 New  1/21/24
 >Al-Qassam (Hamas) published a video showing its forces clash with military vehicles and IOF forces, in the eastern regions of Jabalia Al-Balad, north of the Gaza Strip.
 https://files.catbox.moe/tkf13d.mp4 New  1/22/24
+>Scenes from the Mujahideen Brigades targeting concentrations of Zionist enemy vehicles and soldiers in eastern Jabalia with a Sa’ir missile
+https://files.catbox.moe/8x53is.mp4 New  1/23/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1084,6 +1086,9 @@ https://files.catbox.moe/d5p19l.mp4 New  1/8/24
 https://files.catbox.moe/wxuq9q.mp4 New  1/14/24
 >Lebanon, Hezbollah: Scenes from the operation of the Islamic Resistance targeting a force belonging to the #Israeli enemy army in the settlement of Kafr Yuval 
 https://files.catbox.moe/4itwei.mp4 New  1/15/24
+>Hezbollah published a video showing the process of launching rockets/missiles towards the Meron air control base today. 
+https://nitter.net/AryJeay/status/1749858462203326960#m New  1/23/24
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1115,6 +1120,11 @@ https://files.catbox.moe/d4o0mp.mp4 New  1/17/24
 https://files.catbox.moe/njxux4.mp4  1/21/24
 >Al-Quds (PIJ) published a video showing a CRAZY sniper operation on 2 IOF soldiers, east of Al-Bureij Camp
 https://files.catbox.moe/s4y1hq.mp4 New  1/22/24
+>Al-Quds Brigades mortar launches crushing military concentrations and positions on the front lines in the city of Khan Yunis.
+https://files.catbox.moe/bcyo2p.mp4 New  1/23/24
+>Al-Quds Brigades targeting of a military gathering in Jabal Al-Rayes, east of Jabalia, with guided missiles (probably ATGMs). 
+https://files.catbox.moe/yh7phg.mp4 New  1/23/24
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1358,3 +1368,11 @@ https://youtu.be/mRADqjGs0cc New  1/22/24
 https://files.catbox.moe/cwtgsm.mp4 New  1/22/24
 >Video by the Islamic Resistance in Iraq showing the launch of the suicide drone towards the port of “Ashdod”
 https://files.catbox.moe/g6jh1i.mp4 New  1/22/24
+>Scenes of the explosion that killed over 20 IOF soldiers in Gaza after the buildings they had rigged were detonated by Al-Qassam while the occupation soldiers were still inside
+https://files.catbox.moe/108lb2.mp4 New  1/23/24
+>FOOTAGE: Leaked video from the body cam of an IDF soldier. Rough …
+https://files.catbox.moe/14apdz.mp4 New  1/23/24
+>UK Labour MP Apsana Begum raised concerns with the Prime Minister about the absence of support for calls for a ceasefire in Gaza
+https://files.catbox.moe/249d6a.mp4 New  1/23/24
+>Video of Amerisatan attack in Iraq
+https://files.catbox.moe/1tq405.mp4 1/23/24

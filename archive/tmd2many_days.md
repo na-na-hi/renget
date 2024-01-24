@@ -39,13 +39,15 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 11/19/550 | 1 day | #EV04 Fleeting Twilight | You all head out to try and ascertain and cure the afflicted Greninja...
 11/20/550 | 1 day | #07 Holy Grounds, Holy Airs | Listen to the Dragon's Hymn yourself.
 11/20/550 | >>> | #08 Midday Dusk | The Chateau burns, subsumed by a malevolent twilight.
+11/23/550 | 3 days | #09 Old Stories | You gaze into the past, finding a glimpse of an old tale.
+12/2/550 | 1 day | #EV05 To Rebuild a Bar | While it may be destroyed, the spirit still persists! Let's fix up the Chateau!
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster - Date ▮▮▮
 This world is full of peril and danger greater than what the natives can handle on their own. In these times of need, looking beyond becomes a necessity to ensure the survival of all that we know. So... something reaches out and pulls in the willing heroes. You've answered the call, whether consciously or by accident. You're here now, in a world full of only Pokémon, as a Pokémon.
 
 !!! note (9/05/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV01 Abrupt Awakening - Date: Sol 30, 3rd Moon of Landorus, 550 Full Seasons
-You wake up in a strange place, with even stranger company. Whatever and wherever you are, this definitely isn't Kansas or Kalos anymore. Structures older than you've ever seen before tower over you, exploring the ruins with others who are all supposedly share the same predicament as your own. Eventually encountering mysterious gates leading to far-flung places, you're encouraged by an eccentric Orbeetle, Turning Trails, to escape through them. The supposed stranded 'mon is a seeker of glory, a treasure hunter! But that's just his word...
+You wake up in a strange place, with even stranger company. Whatever and wherever you are, this definitely isn't Kansas or Kalos anymore. Structures older than you've ever seen before tower over you, exploring the ruins with others who all supposedly share the same predicament as your own. Eventually encountering mysterious gates leading to far-flung places, you're encouraged by an eccentric Orbeetle, Turning Trails, to escape through them. The supposed stranded 'mon is a seeker of glory, a treasure hunter! But that's just his word...
 
 Arriving on the plains of the Air Continent, almost immediately do you find yourself beset by a challenge from nature. A stormful of ash clouds the sky, threatening to choke you out or leave you as a burnt crisp. Scrambling together under the pretense of survival, the group manages to assemble a shelter in time to survive the disaster and ride it through the night. Raining embers... what an odd sight.
 
@@ -105,4 +107,8 @@ Hired by the elders of the clans, you're all tasked with ferrying a large offeri
 
 Taking the chance, you ride the winds up with the plated offering, landing safely above. Quickly, you learn that it must be deposited into the wind tunnel, and you watch your hard work literally swept away by the winds. It seems that had always been the intention. Shortly afterwards, a mesmerizing sight streaks across the sky... a falling meteor... followed by an explosion in Baram!
 
-!!! (1/06/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #08 Midday Dusk - Date: Sol 20, 2nd Moon of Tornadus, 550 Full Seasons
+!!! (1/06/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #08 Midday Dusk - Date: Sol 20, 2nd Moon of Tornadus, 550 Full Seasons
+
+!!! (1/20/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #09 Old Stories - Date: Sol 23, 2nd Moon of Tornadus, 550 Full Seasons
+
+!!! note (1/23/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV05 Fleeting Twilight - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons

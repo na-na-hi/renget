@@ -17,7 +17,7 @@ https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003,
 These don't require activation triggers unless otherwise stated
 
 https://files.catbox.moe/icbrs7.safetensors hungry_clicker
-https://files.catbox.moe/0qmpn0.safetensors shexyo
+https://files.catbox.moe/dqfgjc.safetensors shexyo
 https://files.catbox.moe/kn021a.safetensors superbusty
 https://files.catbox.moe/ps6xp2.safetensors asanagi requires activation trigger of asanagi in the prompt
 https://files.catbox.moe/0s2xb6.safetensors ushiyama_ame
@@ -73,6 +73,20 @@ https://files.catbox.moe/qj7xl0.safetensors pepper0
 https://files.catbox.moe/zi3lzf.safetensors mikozin
 https://files.catbox.moe/f0y8ew.safetensors sake_kemosalmon
 https://files.catbox.moe/wcez69.safetensors yuta_agc_kids_gamera
+https://files.catbox.moe/2wanow.safetensors BlueTheBone
+https://files.catbox.moe/4dhrck.safetensors George_Kamitani
+https://files.catbox.moe/4pr3h4.safetensors Gerupin
+https://files.catbox.moe/krtbno.safetensors Harada
+https://files.catbox.moe/1ndvd4.safetensors Himukai_Yuuji
+https://files.catbox.moe/pagud0.safetensors Takeda_Hiromitsu
+https://files.catbox.moe/n9pe8s.safetensors Kuuchuu_Yousai
+https://files.catbox.moe/58qele.safetensors Mekabu_Aji_MAX
+https://files.catbox.moe/g29yo2.safetensors Nyamota
+https://files.catbox.moe/8p34wl.safetensors Urushima
+https://files.catbox.moe/i013hk.safetensors Warabimochi
+https://files.catbox.moe/aqm2v0.safetensors Xration
+https://files.catbox.moe/q6f33q.safetensors Yageshi_Nan
+https://files.catbox.moe/caabk4.safetensors Zankuro
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime

@@ -27,7 +27,7 @@ Extras: Human Limit, Mentality Limit 0/2
 %red% People who are attracted to her. This can include women. %%
 Quirk Refinement 0/-5
 %red% If a part of her body is severed, it will regenerate into a copy of her. This includes organs and large pieces of tissue. Any cells implanted will slowly convert the surrounding tissue into Tomie-cells, transforming the host into a copy of her and overriding their previous quirk.
-Tomie's natural healing factor has frozen her in the shape of a teenager for decades. She has also not developed any serious illnesses.
+Tomie's natural healing factor has frozen her in the shape of a teenager for some time. She has also not developed any serious illnesses.
 Despite the permanent duration of her brainwashing quirk, her targets will randomly decide to dismember her. She cannot predict when they will snap. After dismembering her, they will return to normal and her brainwashing will no longer have an effect on them. %%
 Quirk Compulsion 0/1
 %red% Incredibly arrogant, breathtakingly demanding, will not stop insulting everyone around her even if they're on the verge of killing her. %%

@@ -258,6 +258,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [The Great Bulk Interlude 5 (ft. Makky)](https://rentry.org/GreatBulkInter5)
 	* [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
 	* [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
+	* [The Platinum Syndicate Part 1: Business is Blooming (ft. Makky)](https://rentry.org/Platinum1)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -558,6 +559,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Scuttlin' Around Town (ft. Wimpod)](https://rentry.org/roombaArrival)
 * [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
 * [Team Moonshine: The Evolution Situation](https://rentry.org/moonshinevile)
+* [The Platinum Syndicate Part 1: Business is Blooming (ft. Makky)](https://rentry.org/Platinum1)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

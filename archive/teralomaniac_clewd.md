@@ -73,7 +73,7 @@
 > 全局世界书激活：[xmlPlot.json 1.0.6](https://files.catbox.moe/hw4rem.json)（自带DLC，随机事件需要手动开关，其余为自适应，使用参考笔记）
 
 ##测试预设 V4.3：
-> 最新测试预设：[4.3betaX](https://discord.com/channels/1134557553011998840/1185059580552675378)
+> 最新测试预设：[4.3betaX](https://discord.com/channels/1134557553011998840/1185059580552675378) （[类脑Discord频道](https://discord.com/invite/B7Wr25Z7BZ)）
 > 
 > [Risu预设4.0beta1](https://files.catbox.moe/mb1dro.json) Risu可以不用最新的clewd，但由于NSFW和越狱只有一个开关，所以NSFW没有写入，如需要推荐自行写在你的personal里面
 >

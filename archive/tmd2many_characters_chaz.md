@@ -102,7 +102,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 Cosmetic Item | White Scarf | A fabric to be shaped and died to the user's liking
-RP item | Eᴍᴘᴛʏ | Vacant inventory slot.
+Quest Item | Wooden Carving | ... Revavroom?
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**
