@@ -60,4 +60,4 @@ Voice Resource Repository: https://wiki.sumianvoice.com/
 
 ▶Timelines:
 Coming Soon™
-!!!>By posting in this thread you deny that repression is a valid treatment for gender dysphoria, denounce and fully condemn boymoding out of your own volition; and you are prohibited from posting here if you have a reddit account.
+!!!>By posting in this thread you deny that repression is a valid treatment for gender dysphoria, denounce and fully condemn MANMODING out of your own volition; and you are prohibited from posting here if you have a reddit account.

@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=ieUxZHy6ICo
 \>New Drip Marketing:
 \>Acheron (5\* Lightning Nihility) - https://www.hoyolab.com/article/24541891
 \>Aventurine (5\* Imaginary Preservation) - https://www.hoyolab.com/article/24561470
+\>Gallagher (5\* Fire Abundance) - https://www.hoyolab.com/article/24578989
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 2AQA294J5R37 

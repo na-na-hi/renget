@@ -101,6 +101,7 @@ Daniel W. Rain: https://archive.4plebs.org/tg/post/91352447/
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
 Suki HN Sukeban: https://desuarchive.org/tg/post/91670899/
+Nijimura Mahoko HN Cool Boost: https://desuarchive.org/tg/post/91685518/
 
 ### Shiketsu Staff
 >Pro Heroes
@@ -654,6 +655,9 @@ Class1D-005: https://archive.4plebs.org/tg/thread/91586719/#91591198
 Shiketsu ED V0.2: https://archive.4plebs.org/tg/post/91610993/
 Kaylee embarrassed as she wins the beauty pageant / distant angry korean sounds: https://archive.4plebs.org/tg/post/91627063/
 least oppressed christian: https://desuarchive.org/tg/post/91654550/
+drekus: https://desuarchive.org/tg/post/91681250/
+hitomi hiromi(Feral): https://desuarchive.org/tg/post/91681260/
+sandatsu new costume: https://desuarchive.org/tg/post/91681266/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -694,6 +698,7 @@ Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
 Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
 Sandatsu & Mio Date: https://desuarchive.org/tg/thread/91595699/#91603225
 Confession: https://desuarchive.org/tg/post/91630760/
+do your best: https://desuarchive.org/tg/thread/91673568/#91676099
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -1055,6 +1060,8 @@ The Fushimi Ward Incident: https://rentry.org/z3vti4m7
 Everything Wrong With the Two of Them (Reaper, Forget-Me-Not): https://rentry.org/fs8yafua
 Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper): https://rentry.org/5apxm5ao
 The Roll Tournament: https://rentry.org/MHARollTournamentRound1
+The Roll Tournament 2: https://rentry.org/MHARollTournamentRound2
+The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether): https://rentry.org/zbtaxdfz
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

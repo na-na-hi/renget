@@ -517,6 +517,7 @@
 01/2024|[BiTA: Bi-Directional Tuning for Lossless Acceleration in Large Language Models](https://arxiv.org/abs/2401.12522)
 01/2024|[Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment](https://arxiv.org/abs/2401.12474)
 01/2024|[Dynamic Layer Tying for Parameter-Efficient Transformers](https://arxiv.org/abs/2401.12819)
+01/2024|[MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

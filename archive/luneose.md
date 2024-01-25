@@ -1,7 +1,7 @@
 # HOME OF YURI
 ->![Add a cool image here!](https://i.pinimg.com/564x/88/97/57/8897570ffba150fab45d70c0a9483630.jpg)<-
 ***
-i draw my own bots and write my own greetings. sovl guaranteed 
+i draw my own bots and write my own greetings. sovl guaranteed. i will draw fanart of your bot if you want me to :) just send me a mail through my proton.
 
 ***
 **Table of Contents**

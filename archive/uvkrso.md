@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+25/01/24   | Gallagher moved to "Upcoming Characters" : 2.1.
 24/01/24   | Aventurine moved to "Upcoming Characters" : 2.1.
 23/01/24   | Acheron moved to "Upcoming Characters" : 2.1.
 09/01/24   | Added new files to Acheron Kit folder and Sam Assets folder.

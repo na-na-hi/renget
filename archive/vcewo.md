@@ -55,11 +55,11 @@ about four months later, [Japanese scientists alongside with Google employees co
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1186426620752441434/20231218_203958_SumatraPDF_17172.png)
  
  
-the current [CoT meta by Google themselves](https://arxiv.org/abs/2309.03409) is (unironically) `Take a deep breath and work on this problem step-by-step`. yes, Google telling us to ask our LLM *to take a deep breath before describing plap-plap for us*
+the current [CoT meta by Google themselves](https://arxiv.org/abs/2309.03409) is (unironically) `Take a deep breath and work on this problem step-by-step`. yes, Google is recommending to tell our LLMs *to take a deep breath* before describing plap-plap in vivid details
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199805020019884042/20240124_225441_SumatraPDF_01774.png)
  
  
-ever heard of ==give model time to think==? well, that's CoT too, just explain in Layman's terms. CoT is universal prompt paradigm, applied and actively encouraged by all major LLM developers: Anthropic's [Claude](https://docs.anthropic.com/claude/docs/ask-claude-to-think-step-by-step), OpenAI's [GPT](https://platform.openai.com/docs/guides/prompt-engineering/give-the-model-time-to-think), Meta's [Llama](https://ai.meta.com/llama/get-started/#prompting), Google's [Gemini](https://ai.google.dev/palm_docs/text_quickstart), you name it
+ever heard of ==give model time to think==? well, that's CoT, just in Layman's terms. CoT is universal prompt paradigm, applied and actively encouraged by all major LLM developers: Anthropic's [Claude](https://docs.anthropic.com/claude/docs/ask-claude-to-think-step-by-step), OpenAI's [GPT](https://platform.openai.com/docs/guides/prompt-engineering/give-the-model-time-to-think), Meta's [Llama](https://ai.meta.com/llama/get-started/#prompting), Google's [Gemini](https://ai.google.dev/palm_docs/text_quickstart), you name it
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199803879739641947/time_to_think.png)
  
  
@@ -88,26 +88,26 @@ now LLM has three words to work with. what LLM can do next? it does look like a 
 ```
 Rarity loves fashion and
 ```
-now it has four words and it certainly cannot be a complete sentence, because statistically sentences don't end with 'and', LLM must continue. it checks the corpus again for tokens probability to pick next best option
+now it has four words and it certainly cannot be a complete sentence, because statistically sentences don't end with 'and', LLM must continue. it checks the corpus for tokens probability again and picks next best option
 
-after few more steps LLM finally finishes the sentence: `Rarity loves fashion `~~`and bend over`~~`be a drama queen`. at every step LLM reads ALL tokens including the newly generated ones. all together they influence the next picked token.
+after a few more steps LLM finally finishes the sentence: `Rarity loves fashion and`~~` bend over`~~`be a drama queen`. at every step LLM reads ALL tokens including the newly generated ones. all together they influence the next picked token.
 
-#### CoT prompt design
+#### COT-BASED PROMPT DESIGNS
 now think about it. if we are tasking LLM to do *the same thing* across multiple calls, then shouldn't we start observing and dissecting common question-answers patterns and reasoning steps in LLM? if LLM is tasked to continue current RP then most likely it will reason about *characters' motivations and their relationships*, agree? in that case can we just tell LLM via CoT to answer "*what is characters' motivation?*" and "*what is characters' relationships*"?
-yes, indeed we can!  [that's called](https://arxiv.org/abs/2210.03350) ==Self-Ask CoT== (*or self-circuit CoT*). with such CoT we firsthand **craft a specific set of questions** for LLM to ask before continuing with response itself. CoT will emulate thinking and reasoning with itself by following those questions or repeating that pattern to other tasks
+yes, indeed we can!  [that's called](https://arxiv.org/abs/2210.03350) ==Self-Ask CoT== (*or self-circuit CoT*). with such CoT we firsthand **craft a specific set of questions** for LLM to ask before continuing with response itself. CoT will emulate thinking and reasoning by following those questions and repeating the pattern to other tasks
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199833791565414431/20240125_002154_SumatraPDF_20524.png)
  
  
-now another option. what if instead of giving LLM questions, we instead assign LLM to collaborate with itself? take a problem and and solve it step by step, **debating and reasoning with itself**, take situation from different angles and improve the answer via *self-critizing*?
+now another option. what if instead of giving LLM questions, we assign LLM to collaborate with itself? take a problem and solve it step by step, take situation **from different angles** and improve the answer via *self-critizing*?
 that's [an option too](https://arxiv.org/abs/2307.05300)! it is called ==Multiagent Self-Collaboration== (*or Multiagent CoT, or Train of Thought*)
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199852851506196480/20240125_020450_SumatraPDF_10028.png)
  
  
-a very based hands-on demonstration of that idea is [Big Niggas](https://www.chub.ai/characters/petrus4/de345010-dd38-4d69-916b-5e3101e568f8) - LLM takes role of *three street-wise homies* and reason with itself on given theme
+a very based hands-on demonstration of that idea is [Big Niggas](https://www.chub.ai/characters/petrus4/de345010-dd38-4d69-916b-5e3101e568f8) card - LLM takes role of *three street-wise homies* and reason with itself on given theme
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199871702251868260/big_niggas.png)
  
  
-another possible option. what if instead of self-reasoning with itself, LLM **re-reads its thoughts via separate call** and decides whether its reasoning was correct and effective; then depending on results will either move one step further, or move step back and try another approach? yes, [that's possible too](https://arxiv.org/abs/2305.10601) and is called ==Tree of Thoughts== (*or ToT*)
+another possible option. what if instead of self-reasoning with itself, LLM **re-reads its thoughts via separate call** and decides whether its reasoning was correct and effective; then will either move one step further, or if it was wrong will move back and try another approach? yes, [that's possible too](https://arxiv.org/abs/2305.10601) and is called ==Tree of Thoughts== (*or ToT*)
 the core idea behind ToT that **each step is a separate prompt**, which gives LLM ability to *reflect on the task and current steps* and see whether the problem is solved correctly
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199851737696178227/20240125_020027_SumatraPDF_12056.png)
  
@@ -140,9 +140,10 @@ the general steps are:
 4) **place <thinking> anywhere in prompt**, usually anons put it at the end of JB, but you can also place it at stay of Main 
 !!! danger don't put CoT into Prefill! 
 	remember, Prefill is the words that Claude says verbatim - and you need for LLM to process CoT and fill the placeholders, not to cite them!
-5) add an instruction to **start the response with callback to <thinking>** (preferably before CoT)
-6) and an instruction to **continue the response further with CoT in mind** (preferably after CoT or inside CoT)
-7) after you have received the response, **you should [delete CoT](#regex-to-deletehide-cot)** (unless you know what you are doing)
+5) add an instruction to **start the response with callback to <thinking>** (preferably before CoT or in prefill)
+6) add an instruction to **follow CoT template and fill placeholders** (preferably before CoT or inside CoT)
+7) and an instruction to **continue the response further with CoT in mind** (preferably after CoT or inside CoT)
+8) after you have received the response, **you should [delete CoT](#regex-to-deletehide-cot)** (unless you know what you are doing)
 
 
 ***
@@ -156,26 +157,13 @@ Start response with <thinking> box, strictly following this template. Fill place
 * My body is XYZ
 * {{user}} did X so I will do Y then Z
 //...add your own items here
-</thinking>
-```
-
-Here is the next roleplay response, following the format. Start with <thinking> box:
-//...for Claude - you can put that into Prefill
-````
- 
-or
-```` typoscript
-Start response with <thinking> box, strictly following this template. Fill placeholders:
-```
-<thinking>
-* I am {{char}}
-* My body is XYZ
-* {{user}} did X so I will do Y then Z
-//...add your own items here
 
 I will use that plan to continue the story further.
 </thinking>
 ```
+
+Here is the next roleplay response, following the format. Start with <thinking> box:
+//...for Claude - you can put that line ^ into Prefill
 ````
 experiment with exact wording and see what works the best in your case
 
@@ -306,8 +294,7 @@ accent on the word "*literally*". consider an example below.
 2) ...but we want LLM to *follow our initial format precisely 1:1*. so our first initial idea is asking LLM `to follow format`, which is somewhat fine but still with derivatives
 3) ...but if we put an initial template `into a codeblock` then LLM will follow it precisely, because for LLM anything between three backticks shall be taken literally and followed as close as possible (*that's also the reason why we put various stats-trackers into a codeblock*)
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1187250995479183381/pet_cat.png)
- 
- 
+
 the combination of two factors: a) codeblocks leading to more precise following, and b) placeholder XYZ can be filled by LLM freely - allow us to **create CoT with placeholder**
 
 ***

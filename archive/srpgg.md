@@ -229,6 +229,7 @@ Penciltown
 Pencilvillage
 Pencilquest
 RUNE by Gila RPGs
+Star Trek Adventures: Captain's Log Solo Roleplaying Game
 
 ###Games under development
 Fires Far Away: A Solitaire Journey

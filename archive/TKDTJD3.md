@@ -2339,3 +2339,351 @@ He said that whether Trump wins or loses the election, this issue will not affec
 
 He also also mentioned that the scope of the war has become larger, and thus the risk of a broader war in West-Asia (“middle east”) has increased.
 https://nitter.net/AryJeay/status/1749950676069761037#m  1/23/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 23 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Destroyed a military vehicle with a Yassin-105s, in Khan Yunis, southern Gaza.
+
+🔻Targeted 3 military D9-bulldozers with "Tandem" and Yassin-105s, west of Khan Yunis, southern Gaza.
+
+🔻Successfully detonated a pre-rigged building targeting an IOF infantry force, resulting in the killing of 3 israeli soldiers and injuring others, west of Khan Yunis.
+
+🔻Targeted a Merkava tank with a Yassin-105, west of Khan Yunis.
+
+🔻Shelled military gatherings, southwest of Gaza City with heavy-caliber mortars.
+
+🔻Seized 3 IOF drones, including 2 Spike Firefly (“Maoz”) quadcopter drones, south of the Zaytoun neighborhood in Gaza City.
+
+🔻Executed a complex operation, east of Al-Maghazi Camp, at exactly 4PM yesterday. They targeted a building housing a Zionist engineering force, with an anti-personnel shell, causing the ammunition and engineering equipment it possessed to explode. 
+Simultaneously, the fighters destroyed a Merkava tank, that was providing cover for the force, with a Yassin-105 rocket. 
+They also detonated a minefield blowing up another Zionist force in the same location, resulting in casualties, including deaths and injuries. The fighters withdrew safely to their bases. This operation resulted in 24 confirmed IOF kills with many more injured & missing.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Successfully blew up a Merkava tank with a "Thaqqib-barrel" high-explosive, in the western axis around Khan Yunis.
+
+🔻Launched a barrage of mortar shells at the positions of Zionist soldiers and vehicles in the western axis of Khan Yunis.
+
+🔻Inflicted casualties among IOF soldiers, both killed and wounded, in Al-Bureij and Al-Maghazi camps in central Gaza.
+
+🔻Targeted a Merkava tank and a military D9-bulldozer with RPGs, east of Al-Maghazi.
+
+🔻Shelled IOF forces, southeast of Al-Bureij Camp, with mortars and Badr-1 IRAM rockets.
+
+🔻Targeted IOF snipers in a building in Al-Maghazi Camp with 2 guided missiles of type "107."
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Downed a SKY RACING - type 528 IOF drone in Beit Lahia, using appropriate weapons.
+
+🔻Targeted a group of IOF soldiers and vehicles in the eastern Jabalia area with a Sa'ir missile, causing the death of at least 4 IOF soldiers. The fighters safely withdrew to their bases.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted a group of IOF soldiers with shells, located behind vehicles near a house in the western axis of Khan Yunis, inflicting direct injuries and causing casualties.
+
+🔻Bombarded a tank depot with a barrage of regular 60mm mortars, in the Khan Yunis axis.
+
+— 🟡 Hezbollah:
+
+🔻Targeted a group of israeli soldiers in Tal al-Kubra with rocket-propelled munition, causing direct injuries.
+
+🔻Targeted, for the 2nd time, the Meron Air Surveillance base in Mount Jarmaq with a large number of suitable rockets, achieving direct hits.
+
+🔻Targeted the Khirbet Ma’ar IOF base with suitable weapons, causing direct injuries.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the US Conoco base in Syria with rockets.
+
+🔻Attacked, in 2 separate operations, the Ain al-Assad US base in western Iraq with suicide drones.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1749993287958561148#m  1/23/24
+
+>⚡️Al Jazeera artificially reconstructs the epic Al-Qassam operation that led to the death of 24-28 IOF soldiers near Al-Maghazi, 2 days ago.
+https://nitter.net/AryJeay/status/1750107849026367767#m  1/24/24
+https://files.catbox.moe/pneqkf.mp4  1/24/24
+
+>⚡️Al-Quds Brigades published a video showing the recovery of a seized quadcopter reconnaissance drone in the sky of Gaza City.
+https://nitter.net/AryJeay/status/1750106876857999594#m  1/24/24
+https://files.catbox.moe/2eoxol.mp4  1/24/24
+
+>Palestinian families are forced to flee from Khan Yunis as a result of the intense Israeli shelling targeting homes, schools, and shelter centers.
+https://nitter.1d4.us/QudsNen/status/1750123560712995246#m  1/24/24
+
+>An Instagram activist commenting on the composition of newly recruited Israeli army soldiers, "So you are from everywhere but there."
+https://nitter.1d4.us/QudsNen/status/1750115794082521102#m  1/24/24
+https://files.catbox.moe/fviand.mp4  1/24/24
+
+>Rafael Moshov is one of more than 24 Israeli soldiers killed in the major explosion in Al-Maghazi refugee camp in central Gaza on Monday, January 22, 2024.
+
+Before he was killed, he had written a letter: "I will not return from Gaza until I send them to hell."
+https://nitter.1d4.us/QudsNen/status/1750098836603760873#m  1/24/24
+
+>A disturbing image reveals the Israeli army's use of residential buildings as a civilian shield during the ongoing invasion of Gaza.
+https://nitter.1d4.us/QudsNen/status/1750082450166780289#m  1/24/24
+
+>Israeli armored tanks are now tightening the siege on Nasser Medical Complex in Khan Yunis.
+https://nitter.1d4.us/QudsNen/status/1750118761040957491#m  1/24/24
+
+>⚡️Reuters report: Intensive mediation efforts by Qatar, the United States, and #Egypt for a ceasefire for a period of “one month.” According to the report, “Israel” and #Hamas agree on the general principles of the deal, but there is difficulty moving forward due to differences of opinion regarding the continuation of fighting after the end of the deal.
+https://nitter.net/ME_Observer_/status/1750043456137830909#m  1/24/24
+
+>🚨| 🇾🇪 Preliminary reports of an attack against a ship, south of Yemen’s Aden.
+https://nitter.net/AryJeay/status/1750124934683152425#m  1/24/24
+
+>🚨UPDATE:
+
+Explosion on ship due to attack
+https://nitter.net/AryJeay/status/1750140919544676690#m  1/24/24
+
+>"Conquering, settling, winning"
+
+Israelis prepare to occupy Gaza after ethnically cleansing its indigenous people.
+https://nitter.1d4.us/QudsNen/status/1750164250851426738#m  1/24/24
+https://files.catbox.moe/ai215h.mp4  1/24/24
+
+>⚡️Turkey: Al-Mayadeen correspondent in Ankara: 
+
+Iranian President Ebrahim Raisi arrived in #Turkey on an official visit
+
+ Gaza will be the most prominent topic of discussion in the #Iranian President’s visit to #Turkey
+https://nitter.net/ME_Observer_/status/1750149840036663465#m  1/24/24
+
+>Reuters reports that South Africa's government expects the ICJ to issue its judgement on the Israel genocide case this Friday.
+https://nitter.1d4.us/QudsNen/status/1750146196033749042#m  1/24/24
+
+>"I would like to use the rest of my time to say how appalled I am that people are bringing up the Holocaust. Do not use other genocide to describe this one!"
+
+A Freudian slip took place during a special city council meeting in Burlington on Monday, which voted not to pass a formal pledge to call for a ceasefire in Gaza.
+https://nitter.1d4.us/QudsNen/status/1750151042396803183#m  1/24/24
+https://files.catbox.moe/ocmukh.mp4  1/24/24
+
+>BREAKING| Israel's military carries out more strikes targeting an UNRWA training centre in Khan Yunis in Gaza sheltering over 10,000 displaced Palestinians, which is already burning.
+https://nitter.1d4.us/QudsNen/status/1750156809849970804#m  1/24/24
+
+>Fire engulfed an UNRWA shelter as well as tents of displaced citizens in Khan Yunis, Gaza after Israel's military targeted the shelter. 
+
+Dozens of casualties have been reported while Israeli tanks continue to surround the area, preventing thousands of civilians from evacuation.
+https://nitter.1d4.us/QudsNen/status/1750169769506996423#m  1/24/24
+
+>UPDATE| 11 displaced civilians have been killed while dozens were wounded in the Israeli targeting of an UNRWA shelter in western Khan Yunis in Gaza.
+https://nitter.1d4.us/QudsNen/status/1750170356659175552#m  1/24/24
+
+Israel's Haaretz reports that the IOF is considering arming security forces of illegal settlements in the West Bank with antitank weapons. 
+
+(Illustrative photo)
+https://nitter.1d4.us/QudsNen/status/1750180258903478634#m  1/24/24
+
+>⚡️Maersk Shipping Company: 
+
+Two ships flying the US flag moved away from the Bab al-Mandab Strait today after nearby explosions.
+
+ The two ships reported seeing explosions nearby, and a US Navy ship accompanying them intercepted several projectiles.
+https://nitter.net/ME_Observer_/status/1750182312199803041#m  1/24/24
+
+>⚡️Israeli media: 
+
+Sirens sound in the settlements of “Doviv”, “Baram” and “Yaroun” in the Upper Galilee in northern occupied Palestine.
+https://nitter.net/ME_Observer_/status/1750182627032571988#m  1/24/24
+
+>BREAKING:
+
+⚡ 🇾🇪🇺🇸🇬🇧 The Houthis ordered American and British staff of the United Nations and humanitarian organizations to leave the country immediately.
+https://t.me/megatron_ron/1327  1/24/24
+
+>BREAKING| UNRWA says two Israeli tank rounds struck one of its buildings in Khan Yunis, Gaza that shelters 800 people, leaving 9 victims and 75 injuries.
+https://nitter.1d4.us/QudsNen/status/1750185190465339766#m  1/24/24
+
+>🛑Al-Qassam (Hamash in the last hour:
+
+🔻Targeted a force of more than 15 soldiers inside a building, west of Khan Yunis, with a TBG, resulting dead & wounded.
+
+🔻Targeted 5 Merkava tank
+🔻Targeted 3 bulldozers
+🔻Targeted 1 APC
+https://nitter.net/AryJeay/status/1750193297123877359#m  1/24/24
+
+>Israel’s Heritage Minister Amichai Eliyahu today renewed his call for striking the Gaza Strip with a nuclear bomb, stating that "Even in The Hague they know my position... dropping a “nuclear bomb” on the Gaza Strip is “an option.”
+https://nitter.1d4.us/QudsNen/status/1750192175961235742#m  1/24/24
+
+>⚡️⚡️DEAR TWITTER, @Support @X. ⚡️⚡️
+
+MY ACCOUNT @WarMonitors HAS BEEN HACKED AND HE JUST CHANGED THE NAME TO THIS. IF YOU ACTUALLY ARE ABOUT YOUR USERS, HELP ME
+https://nitter.net/WarfareBackup/status/1750199104607490285#m  1/24/24
+
+>Translated by Dee:
+https://nitter.net/AryJeay/status/1750200034665070657#m  1/24/24
+https://files.catbox.moe/7kf6ah.mp4  1/24/24
+
+>The US is planning to withdraw its forces from Syria, writes Foreign Policy 
+
+The US has been under constant attack in Syria for months and American troops are very vulnerable there because, unlike Iraq, the US has no ties with the central government in Syria.
+
+According to reports, the US-backed Kurdish militias are also in negotiations to align themselves with Bashar al Assad
+https://nitter.net/IranObserver0/status/1750198226987180110?t=-xuVAAUh_uQngztHacD2_w&s=19  1/24/24
+
+>🛑 CENTCOM: AnsarAllah Yemen fired 3 anti-ship ballistic missiles toward the US-flagged, owned, and operated container ship ‘M/V Maersk Detroit’
+
+Centcom claims to have intercepted 2 of them, third impacted the water near the ship. 
+
+Awaiting Yahya Sarae.
+https://nitter.net/AryJeay/status/1750206112224116975#m  1/24/24
+
+>🛑| 🇮🇶 Islamic Resistance in Iraq announces 3 operations:
+
+They attacked, using missiles & drones, 3 US bases in Iraq and Syria, Conoco Base, Erbil Airport Base, and Ain Al-Assad Base.
+https://nitter.net/AryJeay/status/1750209206605520960#m  1/24/24
+
+>BREAKING| After coordination between the UN and the Red Cross, casualties have arrived from an UNRWA shelter at Al Najjar Hospital in Rafah. 
+
+Israel's military had carried out a massacre in the shelter and set it on fire then besieged thousands of people inside and prevented them from leaving.
+https://nitter.1d4.us/QudsNen/status/1750223853123453225#m  1/24/24
+
+>BREAKING:
+
+⚡ 🇺🇸🇸🇾 The US is planning to withdraw its forces from Syria - Foreign Policy
+
+The US has been under constant attack in Syria for months and American troops are very vulnerable there because, unlike Iraq, the US has no ties with the central government in Syria.
+
+“Since brutal attack against Israel on Oct. 7 and the resulting Israeli military campaign in the Gaza Strip, tensions and hostilities across the Middle East have reached fever pitch. And with such a complex regional crisis playing out, it should not come as a surprise that the Biden administration is reconsidering its military priorities in the region.
+
+It should be cause for significant concern, however, that this could involve a full withdrawal of U.S. troops from Syria. While no definitive decision has been made to leave, four sources within the Defense and State departments said the White House is no longer invested in sustaining a mission that it perceives as unnecessary.
+
+Active internal discussions are now underway to determine how and when a withdrawal may take place.” - the media wrote.
+https://t.me/megatron_ron/1337  1/24/24
+
+>🇬🇧🇮🇱 British Prime Minister Rishi Sunak refuses to acknowledge that Israel shooting an unarmed Palestinian man walking under a white flag constitutes a war crime.
+https://twitter.com/CensoredMen/status/1750182317128118757  1/24/24
+https://files.catbox.moe/n4pnt3.mp4  1/24/24
+
+>⚡️Al-Quds (PIJ) published scenes from their rocket barrages towards the occupied settlements surrounding the Gaza Strip.
+https://nitter.net/AryJeay/status/1750233692767686978#m  1/24/24
+https://files.catbox.moe/5k3a7f.mp4  1/24/24
+
+>BREAKING| Al Jazeera citing a senior source in Al Qassam Brigades, reveals more details about Al Maghazi refugee camp's operation in which 21 Israeli soldiers were neutralized 2 days ago: 
+
+⭕️Our fighters have been stationed for weeks in the operation area east of Al Maghazi refugee camp despite intense and continuous shelling.
+
+⭕️ The instructions were not to engage with the infiltrating forces in Al Maghazi, awaiting a valuable target.
+
+⭕️ The enemy intensified its strikes in the area and thoroughly searched it until they thought it had become secure, then they introduced engineering forces.
+
+⭕️ The fighters observed the advancing force and identified it as an engineering unit through its equipment.
+
+⭕️The fighters waited for the enemy force to complete its work and plant the explosives, then they targeted it with an anti-personnel shell, which served as a trigger. A tank was also targeted and completely destroyed. 
+
+⭕️After the arrival of rescue forces at the location and their passage over the minefield, it was detonated, and then the fighters withdrew safely.
+https://nitter.1d4.us/QudsNen/status/1750237867807281535#m  1/24/24
+
+>🚨| 🇮🇶 BREAKING: According to CNN, the US & Iraq will begin talks regarding the presence of all American military personnel (roughly 2,500) inside Iraq.
+https://nitter.net/AryJeay/status/1750247033028407642#m  1/24/24
+
+>During the UN Security Council meeting yesterday, several diplomats left as soon as the Israeli ambassador started speaking.
+https://nitter.1d4.us/QudsNen/status/1750244932126667094#m  1/24/24
+
+>⚡️Yemeni Armed Forces’ Spox, Yahya Sarae:
+
+A clash occurred today between a number of American destroyers and warships in the Gulf of Aden & Bab al-Mandab, while they were protecting 2 American commercial ships. The result of the clash was as follows:
+
+🔻A direct hit on an American vessel.
+🔻Forcing the 2 American commercial vessels to withdraw and return.
+
+ 🔻Several of our ballistic missiles struck their targets despite warships' attempts to intercept them.
+
+The Yemeni military forces used a number of ballistic missiles for more than 2-hour clashes.
+https://nitter.net/AryJeay/status/1750257043317952729#m  1/24/24
+
+>BREAKING:
+ 🇺🇸🇹🇷 Reuters:
+
+"Turkey will receive F-16 fighter jets from the US"
+
+The Biden administration has called on Congress to approve a $50 billion deal to supply F-16 fighter jets to Turkey.
+
+This is part of the agreement that Turkey today approved the entry of Sweden into NATO.
+https://t.me/megatron_ron/1340  1/24/24
+
+>US State Department Spokesperson evades answering questions about recent footage showing an Israeli sniper murdering a civilian man in Gaza right after he finishes an interview.
+https://nitter.1d4.us/QudsNen/status/1750280969301459181#m  1/24/24
+
+>The UN Humanitarian Coordinator for Palestine, Jamie McGoldrick, says Israel added insulin pens for children to the list of prohibited items that are not allowed into Gaza. 
+
+"In terms of the reasons and rationale for it, I really can't explain what that is because I don't know", he added.
+https://nitter.1d4.us/QudsNen/status/1750288346209792460#m  1/24/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 24 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Engaged American destroyers and warships in the Gulf of Aden and Bab al-Mandab strait, while they were protecting 2 American commercial ships, for 2 hours. 
+
+🔻Directly hit an American vessel.
+
+🔻Forced the 2 American commercial vessels to retreat.
+
+🔻Several of our ballistic missiles struck their targets despite warships' attempts to intercept them.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Shelled a gathering of invading forces, east of Al-Fakhari area in Khan Yunis, with heavy-caliber mortars, causing direct injuries.
+
+🔻(Partially) destroyed 5 Merkava tanks, 1 APC & 3 military D9-bulldozers in various battelzones throughout the Strip.
+
+🔻Successfully targeted a force of over 15 soldiers inside a building, west of Khan Yunis, with a TBG anti-fortification shell, causing casualties.
+
+🔻Successfully detonated a pre-rigged building where a Zionist force had taken cover, with explosive devices, causing casualties (incl dead). Subsequently, clashed with a rescue force, eliminating over 10 Zionist soldiers west of Khan Yunis.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Engaged in fierce clashes with Zionist soldiers and vehicles using machine guns and anti-tank shells in the axes west, south, and east of Khan Yunis.
+
+🔻In a joint-operation with Al-Qassam, they targeted a tank with a Yassin-105 rocket, in the western axis of Khan Yunis.
+
+🔻Shelled a gathering of IOF soldiers and vehicles with 60mm regular mortars, in the western axis of Khan Yunis.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted an israeli drone with a SAM, in the eastern skies of Gaza.
+
+🔻Shelled formations and concentrations of IOF forces in the axes of Khan Yunis with short-range rockets and mortars.
+
+🔻Targeted the IOF military site "Yiftah" of the first battalion of the Northern Brigade in Gaza with a rocket barrage.
+
+🔻Shelled the Ra'im IOF military base with a rocket barrage.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Destroyed a Merkava tank and an armored personnel carrier (APC) with explosives, in the central and western axis of Khan Yunis.
+
+🔻Shelled a gathering of IOF vehicles and soldiers near the western cemetery of Khan Yunis, with a barrage of 60mm regular mortars.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Biyad Bilda IOF site with appropriate weapons, causing a direct hit.
+
+🔻Targeted the Al-Samaqa IOF site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Birkat Risha site with rockets, achieving direct hits.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+ 
+🔻Attacked the US Conoco base in Syria with drones/rockets
+
+🔻Attacked the US base near Erbil Airport with drones/rockets
+
+🔻Attacked the Ain al-Assad US base in western Iraq with drones/rockets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.net/AryJeay/status/1750311806784901276#m  1/24/24
+
+>🚨| 🇮🇶 BREAKING: Preliminary reports of an attack on Ashdod port by the Islamic Resistance in Iraq. 
+
+This is in line after the announcement of expanding the escalations after the US bombed their facilities in Iraq.
+https://nitter.net/AryJeay/status/1750323726174884072#m  1/24/24
+
+>⚡️#Iraq: Al-Mayadeen sources in Iraq: A drone bombardment was carried out on a target in the port of Ashdod in the occupied #Palestinian territories.
+https://nitter.net/ME_Observer_/status/1750327665830011224#m  1/24/24

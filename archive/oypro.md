@@ -9,7 +9,7 @@
 **Species:** Zorua | **Affiliation:** Team Clover Force
 **Level:** 12 | **Experience to Next Level:** 23/120
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
-**Pokécoin:** 470₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 420₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description

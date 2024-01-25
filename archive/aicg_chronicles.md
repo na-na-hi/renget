@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-22==
+# /aicg/ chronicles, up to ==2024-01-25==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -367,6 +367,7 @@ When | Where | What
 2023-07-29|[95029301](https://desuarchive.org/g/thread/95028162#95029301)| Openrouter forces moderation
 2023-07-29|[95029390](https://desuarchive.org/g/thread/95028162#95029390)| telegai\.com is stealing cards from CharacterHub
 2023-07-30|[95042388](https://desuarchive.org/g/thread/95042312#95042388)| frontend for Discord shilled
+2023-07-30|[95042820](https://desuarchive.org/g/thread/95042312/#95042820)| anon plays Oregon Trail
 2023-07-30|[95044266](https://desuarchive.org/g/thread/95042312#95044266)| anon showcases GPT4-generated web pages
 2023-07-30|[95049468](https://desuarchive.org/g/thread/95048753#95049468)| venus\.chub\.ai updated with full tree branching of chats
 2023-07-31|[95063734](https://desuarchive.org/g/thread/95061515#95063734)| anon reads API docs and finds out about operations with files
@@ -974,6 +975,7 @@ When | Where | What
 2024-01-10|[98370401](https://desuarchive.org/g/thread/98368645#98370401)| moemate\.io's Claude endpoint errors reported
 2024-01-10|[98372472](https://desuarchive.org/g/thread/98370908#98372472)| moemate\.io's GPT4 Turbo reported to be GPT3.5 Turbo with 4k context
 2024-01-10|[98373007](https://desuarchive.org/g/thread/98372763#98373007)| OAI's GPT Store is live, Sam Altman makes a lame joke, shilling a bot
+2024-01-10|[20230613](https://platform.openai.com/docs/deprecations)| as of today only existing OAI users of 0301 and 0314 will be able to continue using these snapshots
 2024-01-11|[98375515](https://desuarchive.org/g/thread/98375233#98375515)| nameless Python + PyQT5 based frontend teased again, release "tomorrow maybe"
 2024-01-11|[98390243](https://desuarchive.org/g/thread/98390195#98390243)| anon releases the new frontend named 4rp */fourp/*
 2024-01-12|[98400329](https://desuarchive.org/g/thread/98399727#98400329)| after multiple attempts moemate\.io devs patch the exploit
@@ -1034,6 +1036,19 @@ When | Where | What
 2024-01-22|[98584108](https://desuarchive.org/g/thread/98583011#98584108)| universal key scraping template provided
 2024-01-22|[98584835](https://desuarchive.org/g/thread/98583011#98584835)| implications of widespread AWS credentials scraping discussed, concerns dismissed
 2024-01-22|[98586157](https://desuarchive.org/g/thread/98586035#98586157)| anon shares an alternative bot roulette page for CharacterHub
+2024-01-23|[98606383](https://desuarchive.org/g/thread/98605623#98606383)| advanced use of STscript demoed
+2024-01-23|[98609525](https://desuarchive.org/g/thread/98608363#98609525)| actually uploaded chinese card spotted
+2024-01-23|[98613688](https://desuarchive.org/g/thread/98613252#98613688)| anon might host Mixtral-Instruct indefinitely for /aicg/
+2024-01-24|[98616759](https://desuarchive.org/g/thread/98615916#98616759)| CharacterHub rat infestation begins and continues for many hours...
+2024-01-24|[98617786](https://desuarchive.org/g/thread/98615916#98617786)| ... together with rapid followers botting...
+2024-01-24|[98619065](https://desuarchive.org/g/thread/98618993#98619065)| suddenly gab\.ai, enters invite sending waitlist stage or already kind of accessible
+2024-01-24|[98621759](https://desuarchive.org/g/thread/98621487#98621759)| ... leading to cards uploading via API being shut down...
+2024-01-24|[98622326](https://desuarchive.org/g/thread/98621487#98622326)| ... stricter email verification requirements for following, reviewing...
+2024-01-24|[98625906](https://desuarchive.org/g/thread/98623712#98625906)| ... and regular cards uploading
+2024-01-24|[98630480](https://desuarchive.org/g/thread/98628333/#98630480)| any non-root AWS keys can be killed by posting them on Github now
+2024-01-24|[98630668](https://desuarchive.org/g/thread/98628333#98630668)| an explanation of the way to use FOFA for AWS key scraping shared
+2024-01-25|[98635049](https://desuarchive.org/g/thread/98633103#98635049)| The proxy gets logprobs, function calls support
+2024-01-25|[98640868](https://desuarchive.org/g/thread/98638383#98640868)| anon tests logprobs, AI makes him an underage zoomer, somehow doesn't get banned for underage posting
 -|-|-
 
 [](you have found my secret stash of nothing!)

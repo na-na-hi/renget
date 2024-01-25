@@ -41,7 +41,7 @@ Inigo's grin turned wicked. Crouching behind the couch, he popped his head over 
 
 "Whatcha smiling at McCathy?"
 
-He heard a clicking gun noise. "Jesus, Inigo!!" she hissed, fumbling to hide her phone screen. "Don't sneak up on me... Ugh, it's too early to have to deal with you."
+He heard a clicking gun noise. "Jesus, Inigo!!" she hissed, fumbling to hide her phone screen. "Don't sneak up on me!"
 
 Cackling, Inigo vaulted over the couch and made an exaggerated kissy face. "You were texting our sweet angel boy, weren't ya? I know he wakes up at the same time as me. So any progress there? C'moooon, tell me all the juicy deets!"
 
