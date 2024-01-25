@@ -97,6 +97,8 @@ https://files.catbox.moe/m7sa64.safetensors owner
 https://files.catbox.moe/rhlwp5.safetensors woohyoot
 https://files.catbox.moe/rhlwp5.safetensors yeehawt0wn
 https://litter.catbox.moe/smniao.safetensors nawakena example gen: https://files.catbox.moe/26uxu5.png
+https://files.catbox.moe/opwfd2.safetensors slush
+https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -111,7 +113,7 @@ https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullme
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime 
 https://files.catbox.moe/b4wk0u.zip Megami_Magazine flat anime style
 https://files.catbox.moe/zxvyki.7z nyantcha
-
+https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -222,6 +224,8 @@ bittenhard
 stealth-brock, (also maybe shenanimation, alt)
 incase
 sunna \(nilsunna\)
+wagashi /(dagashiya/)
+sagiri
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk 

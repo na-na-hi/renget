@@ -23,6 +23,8 @@ stage 3 routes with no seasonals
 ## Stage 4 auto / full SET
 videos:
 [はやと](https://www.youtube.com/watch?v=pquxGmchsXE)
+[VashTV](https://www.youtube.com/watch?v=upmJlU9jNcg)
+![vashauto01](https://pomf2.lain.la/f/pwpvnrbr.png)
 
 ## Stage 4 semi auto
 videos:

@@ -954,3 +954,28 @@ Kek
 Initiate emergency canine pacification (domestication) protocols (pets) STAT!
 
 ---
+Ronanon by anonymous
+
+>Edo era, ancient Japanthro
+>(You) are a wandering ronin, unremarkable but for the sole exception of your species, humanity being far and few between outside of Musashi province, and rarer still plying your trade as a human-at-arms
+>Many anthros have challenged you, for pride or for hatred of your species
+>None have defeated you
+>You cut down or disarmed so many challengers that they've all started to blend together
+>But one particular anthro, facing defeat on the ground one fateful night in a field of reeds, the glint of your weapon reflecting the moonlight onto your face, would have your image burned into his memory forever
+>He has trained ruthlessly, ceaselessly, since that day
+>Determined to defeat the human who humiliated him
+>To make YOU the one on the ground, begging for his life!
+>To finally get your human face out of his head, whenever he closes his eyes or tries to sleep...!
+>After many months of brutal preparation and many more searching for you, the wolf has finally found you!
+>Just as you're about to leave town to find your next job, he emerges from the shadows of the town's gate, blocking your way and drawing gasps from the onlookers as he draws his weapon
+>"You should have finished me the day you defeated me, human! I have trained long for this day, and I will regain my honor by avenging my defeat with your blood!"
+>You paus, calmly placing your sword hand on your hilt, as you examine him closer, thinking in silence on whether or not you know this man
+>Only for the silence to be interrupted by yet another warrior, a tiger dressed in full Ō-yoroi, emerging from the shadows, drawing his weapon too!
+>"While I can sympathize with you, I am afraid that the head of that human belongs to me! Anon of Ymoushima, I have never forgiven you for defeating me with your human trickery and treachery! I shall slake my sword's thirst with your blood, here and now!"
+>You move to draw your sword, a cold sweat running down your brow as you start calculating how you can win a 2 on 1
+>Only to be interrupted yet again by another anthro samurai, this time a rabbit, stepping out from a nearby building, stomping his paw and loudly declaring "You're both wrong! The only one who will defeat Anon will be ME! You perfidious human, how DARE you cut apart not just my armor but my heart?! How i've waited for this day!"
+>"Wait... wait...!", a stealthily clad rat squeaks out as he, too, emerges from his hiding place on the rooftops, "Just how many people are here to get the drop on Anonymous?!"
+>And one by one, more and more warriors emerge, until almost the entire town square is filled with angry, confused, and perhaps a little jealous men, who even if you don't remember it, you've either bested, bedded, or both
+>Amidst the confusion, angry yelling and declarations of revenge, you decide to quietly slip away
+
+---

@@ -124,6 +124,7 @@ _______
 | 【UNARCHIVED 歌枠】Turkey Day Karaoke !! 『2023-11-23』| [![](https://files.catbox.moe/7tin77.jpg)](magnet:?xt=urn:btih:a28e55fdcba92b86c74b75a6aa63766063c29516&dn=%5B20231124%5D%20Unarchived%20Turkey%20Day%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/0z8uhw.txt|
 | 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !!  『2023-12-24』|[![](https://files.catbox.moe/i9jj44.jpg)](magnet:?xt=urn:btih:2b55658b95ee89b6551c7134d852e1b2aa1e960d&dn=%5B20231225%5D%20Unarchived%20Christmas%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/d15g68.txt|
 |  【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?!  『2024-01-09』|[![](https://files.catbox.moe/l9asie.jpg)](https://www.youtube.com/watch?v=4774gd3zEqE)|-|
+| 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!!  『2024-01-25』|[![](https://files.catbox.moe/nv8q14.jpg)]()|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -131,7 +132,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#9 |#46 | #7 |62 |
+|#9 |#47 | #7 |63 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)

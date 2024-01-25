@@ -527,6 +527,7 @@ TODO
 
 __Automation and using the LLM__
 TODO
+TODO: mention that /genraw doesn't use streaming?
 
 __HTML5 minigames__
 TODO

@@ -1,4 +1,1 @@
-https://looked-offer-meal-container.trycloudflare.com
-desu
-
-`i dont plan to add a geoblock`
+Christ. You guys really live up to the "locust" moniker.

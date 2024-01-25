@@ -9,9 +9,9 @@
 
 
 #### RELEVANCY AND REASONING PROBLEM
-imagine a dumb LLM (*Large Language Model - AIs like Claude, GPT, Gemini, Llama, Mistral...*) with no understanding of what "the sky" means, what is considered "the good," and what is "creativity." the only thing it can do is obey simple [natural language](https://www.deeplearning.ai/resources/natural-language-processing/) commands like *text-classification, summarization, translation or text-completion* based on the dataset it has been trained on
+imagine a dumb ==LLM== (*LLM = Large Language Model, like Claude, GPT, Gemini, Llama, Mistral...*) with no understanding of what "the sky" means, what is considered "the good," and what is "creativity". the only thing LLM can do is obey simple [natural language commands](https://www.deeplearning.ai/resources/natural-language-processing/) like *text-classification, summarization, translation...* based on the datasets (corpus) it has been trained on
 
-imagine you give huge 20,000+ token story to LLM and tell it to complete story under certain arbitrary rules like "*develop the story slowly*", "*apply complex and varied sentence structures*", "*include exaggerated ~~ahh ahh mistress~~, onomatopoeia, moans, grunts*"
+now imagine you give that LLM a huge story worth of 20,000 tokens and order LLM to complete a story under arbitrary rules like "develop the story slowly", "apply complex and varied sentence structures", "include exaggerated ~~ahh ahh mistress~~, onomatopoeia"...
 
 >**relevancy issue**
 now the questions:
@@ -19,22 +19,34 @@ now the questions:
 - should it take data from 2,000 tokens ago?
 - or from 5,000 tokens ago?
 - that story seems to be having 200 messages and like 10 story arcs: which are relevant?
-- what **IS** relevant anyway? is state of whether relevant? current clothes? season? thoughts? tragic backstory?
+- what **IS** relevant anyway? is the state of weather relevant? what about clothes on characters? maybe some detail from loredump?
 
-LLMs are trained on the idea that usually the most relevant information **comes at the end**: for examples, books are designed this way: each next sentence continues the previous one. in addition LLMs know that usually important important **goes at the start**: like the current task, stats, examples (shots). [whatever happens in the middle](https://arxiv.org/abs/2307.03172) is a harsh mystery
+what LLMs will do? they most likely will read *the start of prompt* for instructions, and read *the last few paragraphs* and continue from them. that's their default state
 
-that what LLMs will usually do: read the start of prompt for instructions, and read the last few paragraphs and continue from them
+why?
 
-remember, LLMs *have no memory and cannot plan ahead*, they generate the text one token at the time: right here, right now; totally unaware of what they will create at the end. **they have no idea of relevancy because cannot plan relevancy up ahead**. unless they are provided with specific instructions what to response (*like OOC command*), LLMs will have no idea what to output - and will produce very statistically average responses, coupled with [inhered biases](https://arxiv.org/abs/2105.13947) (*like all dicks are "huge", vaginas are "tight as vice", and the best random event is "knock at the door")
+LLMs are trained on the idea that usually the most relevant information comes **at the end**; for examples, books are designed this way: each next sentence continues the previous one. in addition LLMs know that usually the most important information goes **at the start**: like the current task, stats, examples (*shots*). [whatever happens in the middle](https://arxiv.org/abs/2307.03172) is a harsh mystery
+
+**remember**, LLMs *have no memory and cannot plan ahead* - `they generate one token at the time: right here, right now`; totally unaware of what they will create at the end. they have *no* notion of relevancy because cannot plan relevancy. unless they are provided with specific instructions what to output (*like OOC command*), LLMs will have no idea what to give you back - and will produce **statistically average responses**, coupled with [inhered biases](https://arxiv.org/abs/2105.13947)
 
 ***
 >**reasoning issue**
 another issue is that LLMs have insufficient reasoning because they *cannot comprehend and remember* which facts to carry on:
 - do characters stand in front of each other?
 - what clothes do they wear?
-- how affectionate are they towards each other?
+- how affectionate are they?
+- what tragic story each of them be having?
 
-LLMs are dumb auto-complete machines that predict the next token based on what they have learned. they know that statistically after the verb "*take off*" goes "*clothes*" and thus will write that characters take off their clothes... but it will not consider they are *already naked* from 2000 tokens ago. users may say that LLMs are **hallucinating** but LLMs don't know any better
+for you, all characters may be the distinct individuals, but for LLMs they are just tokens. the pony "Rainbow Dash" and her relationship with pony "Applejack" makes sense to you, but in artificial eyes of LLM they are just noise that need to be averaged based on probabilities:
+- Applejack wears Stetson hat not because LLM remembers it from 20,000 tokens ago - but because statistically in text Applejack wears it
+- Pinkie Pie doesn't fly not because LLM understands intrinsic differences between pegasi, earthponies and unicorns - but because in text Pinkie Pie doesn't fly (unless on balloons on something...)
+- Twilight Sparkle is portrayed with wings not because LLM favors season 4 onwards - but because the majority of texts describe her as alicorn with wings, with only a small fraction of text show her as a pure unicorn
+- Rarity says "darling" not because LLM understands her verbal tick - but because story writers write her that way, and LLM figured a statistical correlation between "Rarity" and "darling"
+- Rainbow Dash acts as abrasive flamboyant not because LLM *gets her*  - but because Rainbow Dash is listed as a [classic tomboy archetype](https://en.wikipedia.org/wiki/List_of_tomboys_in_fiction) all over Internet, and LLM applies various tomboy-related quirks and tropes to her
+- Fluttershy quickly falls down to submissive role in any NSFW not because LLM prefers to dominate over nervous shy horse - but because people in fanfics show her as deeply submissive in any relationships
+- tired of pony examples? LLM writes that all dicks are huge not because it checked them all, - but because erotic fiction authors ALWAYS write that male characters sport the huge dicks and LLM learned that. for the same reason vaginas are "tight as vice", and the common random event is "knock at the door"
+
+LLMs are dumb auto-complete machines that `predict the next token based on what they have learned`. they know that statistically after the verb "take off" goes the noun "clothes" and hence writes that characters took off their clothes... but LLM does not consider the fact that both characters are *already naked* from 2,000 tokens ago. users say that LLM is **hallucinating** but it does not know any better: it operates on stats not on reason 
 
 #### WHAT IS COT AND AUTO-REGRESSION?
 ==CoT (Chain-of-Thought)== attempts to solve those issues
@@ -42,12 +54,12 @@ LLMs are dumb auto-complete machines that predict the next token based on what t
 !!! info 
 	**CoT provides an outline/map** of how the LLM should respond, allowing:
 	* better reuse of existing tokens during generation (**boosting in-context relevance**)
-	* retrieve information stored in LLMs' intrinsic datasets (**boosting parametric memory**)
+	* retrieve information stored in LLMs' intrinsic corpus  (**boosting parametric memory**)
  	* articulate how it should complete the generation in the best possible way (**boosting reasoning**)
 
-the core in CoT is to **force LLM to write a detailed plan on completing the task** and then execute that plan (or explain its own reasoning during completion). with LLM having space to explain its thinking it may provide better responses. it's important to note that *you are not providing the plan* for LLM; LLM *itself* writes its own ideas 
+CoT's core idea is to **force LLM to write a detailed plan/reasoning on how to complete the task and then execute it**. by giving LLM a space to explain its thinking we can achieve better responses. it's important to note that *you are not providing the plan* for LLM; LLM *itself* writes its own ideas 
 
-==CoT== was originally [coined by Google in January 2022](https://arxiv.org/abs/2201.11903). the scientists provided significant evidence that LLMs would accomplish tasks better if initially **fed with exemplar plan** on how to solve similar tasks. LLMs can learn how explanation for problems works, and then re-use it for other queries. note how on the image LLM is given a pattern: `Question 1 -> Answer with explanation -> Question 2 -> ?` and then LLM provides *its own reasoning how to solve second question*:
+==CoT== was originally [coined by Google in January 2022](https://arxiv.org/abs/2201.11903). the scientists provided significant evidence that LLMs would accomplish tasks better if initially **fed with exemplar plan** on how to solve similar tasks. LLMs learn how explanation works, and then re-use it for other queries and tasks. notice how on the image below LLM is given a pattern: `Question 1 -> Answer with explanation -> Question 2 -> ?` and then LLM provides *its own reasoning how to solve second question*
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1186425305699733635/20231218_203843_SumatraPDF_42830.png)
  
  
@@ -69,7 +81,7 @@ we may call CoT **a buffer zone** that first grabs all relevant tokens from the 
 ***
 >**why the buck it works?**
 **one word - ==auto-regression==**
-all current LLMs are based on the [Transformers architecture, developed by Google](https://arxiv.org/abs/1706.03762), which was built with auto-regression in mind. auto-regression allows (or forces) LLM to take into consideration *ALL tokens* when generating the next token, **including the tokens generated by LLM itself**. which means the plan outline and reasoning steps created during CoT will influence the following token generation
+all current LLMs are based on the [Transformers architecture, developed by Google](https://arxiv.org/abs/1706.03762), which was built with auto-regression in mind. auto-regression allows (or forces) LLM to take into consideration *ALL tokens* when generating the next token, **including the tokens generated by LLM itself**. which means that the outline and steps created during CoT will influence the following token generation
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1186446069400358912/20231219_011423_SumatraPDF_14886.png)
 
 ***
@@ -83,40 +95,51 @@ it has two words: "Rarity" and "loves". LLM checks its corpus (parametric memory
 ```
 Rarity loves fashion
 ```
-now LLM has three words to work with. what LLM can do next? it does look like a complete sentence, and LLM can put a dot and stop there. but it re-checks those three words - nothing stops it from prompting more words, right? there were no instructions to be concise, and it prompt wasn't stated as a question. so LLM decides to continue further with ` and`
+now LLM has three words to work with. what LLM can do next? it does look like a complete sentence, and LLM can put a dot and stop, but it re-checks and concludes that nothing stops it from generating more words, right? there were no instructions to be concise, and it doesn't look like LLM was queried a question, so it decides to continue further with ` and`
 3) LLM reads again:
 ```
 Rarity loves fashion and
 ```
 now it has four words and it certainly cannot be a complete sentence, because statistically sentences don't end with 'and', LLM must continue. it checks the corpus for tokens probability again and picks next best option
 
-after a few more steps LLM finally finishes the sentence: `Rarity loves fashion and`~~` bend over`~~`be a drama queen`. at every step LLM reads ALL tokens including the newly generated ones. all together they influence the next picked token.
+...after a few more steps LLM finally finishes the sentence: `Rarity loves fashion and`~~` bend over`~~`be a drama queen.` at every step LLM reads ALL tokens including the newly generated ones. all together they influence the next picked token.
 
-#### COT-BASED PROMPT DESIGNS
-now think about it. if we are tasking LLM to do *the same thing* across multiple calls, then shouldn't we start observing and dissecting common question-answers patterns and reasoning steps in LLM? if LLM is tasked to continue current RP then most likely it will reason about *characters' motivations and their relationships*, agree? in that case can we just tell LLM via CoT to answer "*what is characters' motivation?*" and "*what is characters' relationships*"?
-yes, indeed we can!  [that's called](https://arxiv.org/abs/2210.03350) ==Self-Ask CoT== (*or self-circuit CoT*). with such CoT we firsthand **craft a specific set of questions** for LLM to ask before continuing with response itself. CoT will emulate thinking and reasoning by following those questions and repeating the pattern to other tasks
+#### COT-BASED PROMPT DESIGNS (SELF-ASK, MULTI AGENTS, TOT, SC)
+now stop and think about it. if we are tasking LLM to do *the same thing* across multiple calls, then shouldn't we start observing common questions-answers patterns in LLM's reasoning?
+for example, we give LLM a huge RP and tell to continue it with CoT. we quickly notice that LLM in about 70% asks itself: 
+>"what is characters' motivations and relationships?"
+knowing that, can we cut off the chase and deliberately query LLM:
+>"when continuing RP please ask yourself what is characters' motivations and relationships"
+and furthermore, can we dissect more of such common questions? and maybe form in a list?
+
+yes, indeed we can!  [it is called](https://arxiv.org/abs/2210.03350) ==Self-Ask== (*or Self-Ask CoT, or Self-Circuit*). with such CoT we firsthand **craft a specific set of questions** for LLM to answer before continuing with response itself. CoT will emulate thinking and reasoning under our guidance
+
+even better - by providing LLM logical steps in form of questions, it can simulate that query on different set of task, notice the example on image below:
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199833791565414431/20240125_002154_SumatraPDF_20524.png)
  
  
-now another option. what if instead of giving LLM questions, we assign LLM to collaborate with itself? take a problem and solve it step by step, take situation **from different angles** and improve the answer via *self-critizing*?
-that's [an option too](https://arxiv.org/abs/2307.05300)! it is called ==Multiagent Self-Collaboration== (*or Multiagent CoT, or Train of Thought*)
+now another thing
+what if instead of giving LLM the questions, we task LLM to collaborate with itself? like take a problem and solve it step by step **from different angles**, then improve the answer via *self-critizing*?
+[that's an option too](https://arxiv.org/abs/2307.05300) and is called ==Multi Agent Self-Collaboration== (*or MA CoT, or Train of Thought*)
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199852851506196480/20240125_020450_SumatraPDF_10028.png)
  
  
-a very based hands-on demonstration of that idea is [Big Niggas](https://www.chub.ai/characters/petrus4/de345010-dd38-4d69-916b-5e3101e568f8) card - LLM takes role of *three street-wise homies* and reason with itself on given theme
+a very based hands-on demonstration of that design is [Big Niggas](https://www.chub.ai/characters/petrus4/de345010-dd38-4d69-916b-5e3101e568f8) card - LLM takes role of *three street-wise homies* and reason with itself on given theme
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199871702251868260/big_niggas.png)
  
  
-another possible option. what if instead of self-reasoning with itself, LLM **re-reads its thoughts via separate call** and decides whether its reasoning was correct and effective; then will either move one step further, or if it was wrong will move back and try another approach? yes, [that's possible too](https://arxiv.org/abs/2305.10601) and is called ==Tree of Thoughts== (*or ToT*)
+another idea!
+what if instead of self-reasoning with itself like above, LLM *re-reads its thoughts via separate prompts* and decides whether its previous reasoning was correct; then will either move one step further into solving problem, or move one step back and try another approach if it was wrong?
+yes, [that's possible too](https://arxiv.org/abs/2305.10601) and is called ==Tree of Thoughts== (*or ToT*)
 the core idea behind ToT that **each step is a separate prompt**, which gives LLM ability to *reflect on the task and current steps* and see whether the problem is solved correctly
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199851737696178227/20240125_020027_SumatraPDF_12056.png)
  
  
-==Multiagent Rounds== (*or Multiagent Debates*) is [similar to ToT concept](https://arxiv.org/abs/2305.14325): we provide LLM a task, which LLM solves a few times (samples). then those **samples are analyzed by LLM itself via fabricated experts** in a few rounds until all experts *agree on one correct sample*
+==Multi Agent Rounds== (*or MA Debates*) is [similar to ToT concept](https://arxiv.org/abs/2305.14325): we provide LLM a task, which LLM solves a few times (samples). then those samples are **analyzed by LLM itself via fabricated experts** in a few rounds until all experts *agree on one correct sample*
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199854849861353553/20240125_021007_SumatraPDF_52344.png)
  
  
-Multiagent approach is [very close to](https://arxiv.org/abs/2203.11171) ==Self-Consistency== (*or SA*) design where we tell LLM to solve a task multiple times (samples) and then **we pick the sample that appears the most times** (meaning that it is *most likely right* since LLM delivers it the most)
+Multi Agent approach is [very close to](https://arxiv.org/abs/2203.11171) ==Self-Consistency== (*or SA*) design where we tell LLM to solve a task multiple times (samples) and then we pick the sample **that appears the most often** (assuming if certain answer appeared the most, then it is *most likely right*)
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1199850705058529291/20240125_015620_SumatraPDF_27235.png)
  
  
@@ -128,27 +151,26 @@ but that's just a tip of the iceberg - the quest for the best CoT never ends. [o
 for our needs we will be using **Self-Ask CoT** but with a *twist*: instead of providing questions for LLM to answer, **we will provide PLACEHOLDERS  for LLM to fill**
 
 an example of a working CoT is below 
-(look closely at JB on the left, then at CoT in the middle, then at response on right):
+(check JB on the left, then CoT in the middle, then response on right):
 ![](https://cdn.discordapp.com/attachments/1175955538882859038/1186759790031015956/CoT_example.png)
  
  
 >**structure**
 the general steps are:
-1) think of **items to include into CoT**. it can be anything, see some examples below
-2) put those items into **XML tag** (historically /aicg/ uses `<thinking>` tag and thus calls that technique `thinking prompt`)
+1) think of **items to include into CoT**. it can be anything, see examples below for inspiration
+2) put those items into **XML tag**. historically /aicg/ uses `<thinking>` tag and thus calls that technique `thinking prompt`
 3) surround XML tag with \`\`\` **codeblock** \`\`\` (read below why)
 4) **place <thinking> anywhere in prompt**, usually anons put it at the end of JB, but you can also place it at stay of Main 
 !!! danger don't put CoT into Prefill! 
 	remember, Prefill is the words that Claude says verbatim - and you need for LLM to process CoT and fill the placeholders, not to cite them!
-5) add an instruction to **start the response with callback to <thinking>** (preferably before CoT or in prefill)
-6) add an instruction to **follow CoT template and fill placeholders** (preferably before CoT or inside CoT)
-7) and an instruction to **continue the response further with CoT in mind** (preferably after CoT or inside CoT)
+5) add an instruction to **start the response with <thinking>** (preferably before CoT or in prefill)
+6) add an instruction to **follow <thinking> template and fill placeholders** (preferably before CoT or inside CoT)
+7) and an instruction to **continue the response further with <thinking> in mind** (preferably after CoT or inside CoT)
 8) after you have received the response, **you should [delete CoT](#regex-to-deletehide-cot)** (unless you know what you are doing)
-
 
 ***
 >**prompt example**
-use the following *boilerplate* to create your own CoT:
+utilize the following *boilerplate* to create your own Self-Ask CoT:
 ```` typoscript
 Start response with <thinking> box, strictly following this template. Fill placeholders:
 ```
@@ -165,17 +187,17 @@ I will use that plan to continue the story further.
 Here is the next roleplay response, following the format. Start with <thinking> box:
 //...for Claude - you can put that line ^ into Prefill
 ````
-experiment with exact wording and see what works the best in your case
+experiment with wording to see what works the best for you
 
 ***
->**can it be used with another JB?**
-it *depends* how specific JB is structured but overall, **yes**!
-CoT typically goes *at the end of JB*, so nothing is stopping you from using CoT with any JB, but note that things *may* break
-but there are plenty of JB that already use CoT so you check them first!
+>**usage with other JB?**
+it *depends* how specific JB is structured but overall, **yes** CoT can be used with any JB
+CoT typically goes *at the end of JB*, so nothing is stopping you from using CoT with any JB, but things *may* break
+mind there are plenty of JBs with already pre-built CoT so check them first
 
 ***
->**CoT content?**
-what to include into CoT? anything you want! experiment and see what works for you. here is an *approximate list* what you may include into CoT (to inspire you)
+>**CoT content**
+what to include into CoT? anything you want! experiment and see what works for you. here is an *approximate list* what to include into CoT (to inspire you)
 
 !!! note credits
     - [Hmage](https://dumb.one/gpt/prompts/my-tavern-prompts.md)
@@ -284,6 +306,11 @@ I will do XYZ
 ```
 
 ***
+>**why XML tags?**
+you may wonder why we use <thinking> XML tags at all, can't we just write "read that CoT and complete it"?
+indeed *we cannot*, for the reason that we have not 100% certainty LLMs themselves know what "CoT" and "Chain of Thought" and "Self-Ask" stand for. instead of relying on random chance of LLM picking up on our lingo, we **shoehorn everything into XML tags** (which are universally understood by any LLM)
+
+***
 > **why codeblock and why placeholders?**
 filling placeholders is *the most basic NLR operation*, also known as [fill-mask](https://huggingface.co/tasks/fill-mask). all LLMs can naturally understand that `XYZ` are *the blank gap to be filled*. smart models can understand it without additional instruction, while models with fewer parameters may need a simple nudge like `Fill placeholders` or `Complete the gaps`
 
@@ -318,9 +345,9 @@ d) triggers and obstacles: XYZ
 e) restrained, handicapped or affected? how and what does it change: XYZ
 
 4) “story reflect”
-a) the last event happened: XYZ
-b) the last thing {{user}} did or said: XYZ
-c) last { @todo } command: XYZ
+a) latest event happened: XYZ
+b) latest thing {{user}} did or said: XYZ
+c) latest { @OOC } command: XYZ
 
 5) “idea generator”
 a) logical idea: XYZ
