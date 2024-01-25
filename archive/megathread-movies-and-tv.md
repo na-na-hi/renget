@@ -169,14 +169,6 @@
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.
 - [URL Safety Results](https://www.urlvoid.com/scan/lookmovie2.to/)
 
-### ▶️ [LosMovies](https://losmovies.ru/)
-- Free streaming of movies and television shows. Its vast library of content has all the recent blockbusters, and well-known classics.
-- [URL Safety Results](https://www.urlvoid.com/scan/losmovies.ru/)
-
-### ▶️ [Movie Room](https://movieroom.is/)
-- All of the most current movies and well-known oldies are included in its enormous content catalog.
-- [URL Safety Results](https://www.urlvoid.com/scan/movieroom.is/)
-
 ### ▶️ [Movie World](https://movieworld.pl/)
 - Unlimited access to a large library of movies and TV shows with a seamlessly immersive experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieworld.pl/)
@@ -233,9 +225,9 @@
 - You can view all videos for free, quickly, and awesomely without checking in or registering.
 - [URL Safety Results](https://www.urlvoid.com/scan/soapter.tv/)
 
-### ▶️ [Streamflix](https://www.streamflix.one/) / [2](https://watch.streamflix.one/)
+### ▶️ [Streamflix](https://watch.streamflix.one/)
 - Experience with the finest curated selection of movies that will you entertained for hours.
-- [URL Safety Results](https://www.urlvoid.com/scan/streamflix.one/)
+- [URL Safety Results](https://www.urlvoid.com/scan/watch.streamflix.one/)
 
 ### ▶️ [Sudostream](https://sudostream.com/)
 - Among the top free sites for streaming movies in HD without registering or forking over anything.

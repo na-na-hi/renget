@@ -81,10 +81,6 @@
 - Offering direct download anime with dual English audio tracks. Torrents also available.
 - [URL Safety Results](https://www.urlvoid.com/scan/noobsubs.com/)
 
-### 🔗 [Ripcrabbyanime](https://ripcrabbyanime.com/)
-- Popular titles freely available, from classic favorites to the newest releases, which serves as a community for anime aficionados.
-- [URL Safety Results](https://www.urlvoid.com/scan/ripcrabbyanime.com/)
-
 ### 🔗 [Tokyo Insider](https://www.tokyoinsider.com/)
 - Easy-to-navigate site and a large collection of anime series, including downloads from some of the most popular subbers.
 - [URL Safety Results](https://www.urlvoid.com/scan/tokyoinsider.com/)
@@ -216,14 +212,6 @@
 ### 🧲 [Anime Time](https://animetime.cc/)
 - Great place that provides torrents and magnet links and has an easy-to-use search feature
 - [URL Safety Results](https://www.urlvoid.com/scan/animetime.cc/)
-
-### 🧲 [AniDex](https://anidex.info/)
-- Tracker and indexer that caters to multiple languages and media, but is mostly used and known by English anime fansub groups.
-- [URL Safety Results](https://www.urlvoid.com/scan/anidex.info/)
-
-### 🧲 [AniRena](https://www.anirena.com/)
-- Easy, clutter-free torrent tracker where you may find the newest Japanese anime-related torrents as well as some drama, manga, and music.
-- [URL Safety Results](https://www.urlvoid.com/scan/anirena.com/)
 
 ### 🧲 [Beatrice-Raws](https://beatrice-raws.org/)
 - Very high-quality torrents that are frequently updated and encoded for speed.

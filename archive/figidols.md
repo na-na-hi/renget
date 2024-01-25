@@ -46,6 +46,11 @@ https://www.youtube.com/@VictoriaBrightshield
 Rosemie "The Woe" Roselock: Likes Tekken (but cant stream it due to permits?)  
 https://www.youtube.com/watch?v=jjFaYQHQG0M
 
+Niji JP
+
+Naraka "Peruvian Oni on a Wifi" 
+https://www.youtube.com/@Naraka_nijisanji/streams
+
 >Small Corpos (and Corpo related) 
 
 ![Squib](https://files.catbox.moe/mlueqq.gif)

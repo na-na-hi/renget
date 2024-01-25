@@ -220,6 +220,48 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 \>she pulls back, strumming an open E again, the sound more full this time
 \>"There we go. Try to aim for my mouth next time, retard."
 ***
+![please take advantage of me](https://files.catbox.moe/2n2on8.png)
+\>be you
+\>sitting at bar, minding your business
+\>wolfgirls yip at you from their booths
+\>foxgirls gekker
+\>owlgals hoot
+\>"Get a muzzle, furfags."
+\>god you need to loosen up a bit
+\>tap on the bar counter
+\>short vixen pours a rum and coke from behind the bar, obstructing your view
+\>clearly wearing a pushup bra, giving you a perfect view down her chest
+\>heavy eyeliner
+\>denim booty shorts
+\>oh god, get those thoughts out of your head
+\>she smiles daintily, holding eye contact with you
+\>"This one's on the house, humie."
+\>odd 
+\>take drink, gulp it down
+\>tastes kinda funny
+\>warmth hits your stomach quickly
+\>warming you up nicely
+\>"Thanks. That... that tasted kinda weird."
+\>body suddenly feels light, eyelids heavy
+\>the fox behind the bar comes around and puts a fuzzy arm behind your shoulder
+\>she leans in, just an inch away from your ear
+\>"Just relax, honey~"
+\>something cold pokes your lower back
+\>sharp, metallic and pointed
+\>ohshitnigger.mp3
+\>you have a fucking gun pointed to your back
+\>"Why don't we go for a little walk?"
+\>she pushes it down a little harder
+\>"OKAY okay! I-I'm going!"
+\>get off the stool, swaying slightly
+\>why the fuck is no one doing anything about this?
+\>she walks you out of the bar, letting you balance against her slightly
+\>your drugged gait isn't really helping at this point
+\>"That's right. Keep walking. My car is just over here."
+\>she huffs out slowly, is she excited?
+\>"Yes ma'am."
+(wip)
+***
 ![oh she BIG](https://files.catbox.moe/5xibfr.jpg)
 \>be (You)
 \>live with your 9 foot wolf girl roomie in a bustling anthropolis
@@ -258,6 +300,7 @@ Jailbreak | [go2 CHUB settings](https://www.chub.ai/characters/onaholesama/cafe-
 \>realize you cant proompt your way out of this one
 \>its so fucking over
 \>"P-please don't shatter my pelvis into dust..."
+(wip)
 ***
 ###fav stories
 Author | Name | Tags | Link
@@ -382,3 +425,86 @@ Image| Name
 ![](https://files.catbox.moe/d814il.jpeg)
 ![](https://files.catbox.moe/cex78b.jpeg)
 ![](https://files.catbox.moe/ujew0m.jpeg)
+###Coom Cave
+from an era long past
+
+![](https://files.catbox.moe/oilz8a.png)
+![](https://files.catbox.moe/a81imw.png)
+![](https://files.catbox.moe/0rvmh1.png)
+![](https://files.catbox.moe/nspzs7.png)
+![](https://files.catbox.moe/2vii4n.png)
+![](https://files.catbox.moe/ggznx1.png)
+![](https://files.catbox.moe/pt38jt.png)
+![](https://files.catbox.moe/cofu6k.png)
+![](https://files.catbox.moe/8ce630.png)
+![](https://files.catbox.moe/iiaymi.png)
+![](https://files.catbox.moe/era0i0.png)
+![](https://files.catbox.moe/6n43p1.png)
+![](https://files.catbox.moe/y8ktui.png)
+![](https://files.catbox.moe/wzdymn.png)
+![](https://files.catbox.moe/uwcmz1.png)
+![](https://files.catbox.moe/s8c3gv.png)
+![](https://files.catbox.moe/andnyu.png)
+![](https://files.catbox.moe/9wff2q.png)
+![](https://files.catbox.moe/7v9ro0.png)
+![](https://files.catbox.moe/3c3r48.png)
+![](https://files.catbox.moe/p8i7fu.jpeg)
+![](https://files.catbox.moe/qjd993.png)
+![](https://files.catbox.moe/3gxpwx.jpg)
+![](https://files.catbox.moe/3vwf1o.jpg)
+![](https://files.catbox.moe/29lp6u.jpg)
+![](https://files.catbox.moe/9kptzs.jpg)
+![](https://files.catbox.moe/do8vuz.jpg)
+![](https://files.catbox.moe/7v9p1m.jpg)
+![](https://files.catbox.moe/ee7100.jpg)
+![](https://files.catbox.moe/xq4hil.jpg)
+![](https://files.catbox.moe/mfy54q.jpg)
+![](https://files.catbox.moe/k3dw23.jpg)
+![](https://files.catbox.moe/ld47k3.jpg)
+![](https://files.catbox.moe/r44bpr.jpg)
+![](https://files.catbox.moe/k8c0hr.jpg)
+![](https://files.catbox.moe/r6fmrt.jpg)
+![](https://files.catbox.moe/kkzx90.jpg)
+![](https://files.catbox.moe/f2voeg.jpg)
+![](https://files.catbox.moe/d2bzsg.jpg)
+![](https://files.catbox.moe/4f2nd9.jpg)
+![](https://files.catbox.moe/aftrse.jpg)
+![](https://files.catbox.moe/b89rqf.jpg)
+![](https://files.catbox.moe/ka46zv.jpg)
+![](https://files.catbox.moe/jcgxbt.jpg)
+![](https://files.catbox.moe/cmlovi.jpg)
+![](https://files.catbox.moe/tt9xis.jpg)
+![](https://files.catbox.moe/ore9rz.jpg)
+![](https://files.catbox.moe/6h6q9x.jpg)
+![](https://files.catbox.moe/4iwzud.jpg)
+![](https://files.catbox.moe/zo5imk.jpg)
+![](https://files.catbox.moe/7ksqt0.jpg)
+![](https://files.catbox.moe/uhxg3z.jpg)
+![](https://files.catbox.moe/tf80zi.jpg)
+![](https://files.catbox.moe/zz0qui.png)
+![](https://files.catbox.moe/g7wgri.png)
+![](https://files.catbox.moe/20lirq.png)
+![](https://files.catbox.moe/my4goe.png)
+![](https://files.catbox.moe/il92pg.png)
+![](https://files.catbox.moe/7x7tke.png)
+![](https://files.catbox.moe/1sdmej.png)
+![](https://files.catbox.moe/qjd993.png)
+![](https://files.catbox.moe/vctg02.png)
+![](https://files.catbox.moe/61np9r.png)
+![](https://files.catbox.moe/1qhf99.png)
+![](https://files.catbox.moe/i27biv.png)
+![](https://files.catbox.moe/r35cbj.png)
+![](https://files.catbox.moe/2qjnj4.png)
+![](https://files.catbox.moe/29gjto.png)
+![](https://files.catbox.moe/8dhc30.png)
+![](https://files.catbox.moe/qbkeg8.png)
+![](https://files.catbox.moe/dyzugp.png)
+![](https://files.catbox.moe/s156a7.png)
+![](https://files.catbox.moe/kvmx9u.png)
+![](https://files.catbox.moe/djwqgm.png)
+![](https://files.catbox.moe/csa91u.png)
+![](https://files.catbox.moe/u6a1on.png)
+![](https://files.catbox.moe/rq7pzu.png)
+![](https://files.catbox.moe/al5jet.png)
+![](https://files.catbox.moe/mioqv9.png)
+![](https://files.catbox.moe/z7627e.png)

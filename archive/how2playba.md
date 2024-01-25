@@ -100,7 +100,11 @@ You get 1 ten roll, which guarantees a 3\* unit of a set pool.
 For your waifu? Of course. But besides that? 
 
 Rerolling makes the game easier, but the game is pretty easy as is. It's like going from normal difficulty to easy. 
-I personally didn't reroll and don't recommend it, but I have the advantage of being a day 1 player (and a dolphin that buys the monthlies). The reward for having a fully meta roster is also pretty negligible. You might get 1,5 extra rolls from raids and 6 extra rolls from pvp per month from tryharding, which isn't a lot when you get 100 rolls a month. 
+I personally didn't reroll and don't recommend it, but I have the advantage of being a day 1 player (and a dolphin that buys the monthlies). The reward for having a fully meta roster is also pretty negligible. You might get 1,5 extra rolls from raids and 6 extra rolls from pvp per month from tryharding, which isn't a lot when you get 100 rolls per month. 
+
+That being said, there is a definite advantage to rerolling. Having a noob-stomper like Hibiki or Iroha makes the early phase of the game a lot more manageable, and having a buffer like Ako or Himari makes endgame content (raids) a lot more doable.
+
+Choose for yourself. 
 
 >Is there pity? What's a spark
 There are 2 ways in gacha games to get a banner unit: spark and pity. With a spark you roll X amount of times (200 in BA) before you can redeem a guaranteed copy of the unit. With pity for every roll past Y rolls without getting a highest star unit you get an increased chance to roll one, up to a 100%.

@@ -16,7 +16,7 @@ Dinner Circle: Usually last Saturday of the month 7PM ET
 EU Movies: Tuesdays at 20:00 UTC
 EU Anime: Thursdays at 7PM UTC
 EU Chess + Mahjong: Mondays 21:30CET/20:30UTC
-[EU PyPy Dance](https://rentry.org/vrgpypy): Mondays 18:00UTC
+EU PyPy Dance: Mondays 18:00UTC
 EU Redirected Walking: Sundays 21:30 UTC
 EU Board Games: First Thursday of every month 22:30CET/21:30UTC
 

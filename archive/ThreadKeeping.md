@@ -289,6 +289,10 @@ These High Times Are Killing Him (Aki Hitoyoshi, Amaryllis, Akari Ichioka, Lemon
 https://rentry.org/snxixus7
 3-0 BTW (Yoji, Ikari, featuring Akari in a cameo)
 https://rentry.org/DE_BEJITABROBTW
+Making Friends (Akari Ichioka, Hinako Shimeki)
+https://rentry.org/e9uk4mnu
+ENTER (Lucifer, Haruhi, Aki, briefly Makoto)
+https://rentry.org/LucyHasANormalOne
 
 >Relationship Charts
 Emilia Shadowsong
@@ -301,6 +305,8 @@ Haruhi's
 https://rentry.org/HaruhiChart
 Makoto's Super Special Sugar Selection (Updated!)
 https://rentry.org/t7quhk
+Mari's relationship chart.
+https://rentry.org/uvq7iaar
 
 >Artfags
 Sloth and Gluttony Meetup
@@ -384,7 +390,7 @@ Turn 0: >>91418090
 Turn 1: >>91430801
 Turn 2: >>91454499
 Turn 3: >>91520988
-
+Turn 4: >>91687231
 ```
 
 #MHA
@@ -406,8 +412,17 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Roll Tournament 2
-https://rentry.org/MHARollTournamentRound2
+New Art:
+>drekus
+>>91681250
+>hitomi hiromi
+>>91681260
+>sandatsu new costume
+>>91681266
+
+New Student Build:
+>Nijimura Mahoko HN Cool Boost
+>>91685518 + >>91685973
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -535,6 +550,10 @@ Page 3
 >>91349452
 >Daniel W. Rain
 >>91352447
+
+>Shiketsu (Unknown Year and Class)
+>Nijimura Mahoko HN Cool Boost
+>>91685518 + >>91685973
 
 >Class 3-B (U.A.)
 >Animata

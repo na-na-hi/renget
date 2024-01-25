@@ -83,7 +83,6 @@
 
 ### 🐐 [Library Genesis](https://libgen.is/) / [2](https://libgen.rs/) / [3](https://libgen.st/)
 - Books on engineering and natural science are being collected by the scientific community.
-- Here is a [fun version of the main Library Genesis](https://libgen.fun/) with an emphasis on comics and manga.
 - [URL Safety Results](https://www.urlvoid.com/scan/libgen.is/)
 
 ### 🔗 [Magazinelib](https://magazinelib.com/)

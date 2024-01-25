@@ -85,6 +85,10 @@
 - Enables you to obtain audio files from YouTube videos without charge in 320kbps quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/bestmp3converter.com/)
 
+### 🌐 [cobalt](https://cobalt.tools/)
+- Preserve music and videos you hold dear, free from intrusive advertisements, or any other nonsense.
+- [URL Safety Results](https://www.urlvoid.com/scan/cobalt.tools/)
+
 ### 🌐 [downloadsound.cloud](https://downloadsound.cloud/)
 - This web app project was built for downloading SoundCloud tracks and playlists. Paste your link and enjoy your music!
 - [URL Safety Results](https://www.urlvoid.com/scan/downloadsound.cloud/)

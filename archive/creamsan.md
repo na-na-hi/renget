@@ -103,9 +103,9 @@ Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv
 Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Jan-20-24 | 
 Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Jan-20-24 | 
 Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Jan-23-24 | 
-Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Jan-23-24 | 
+Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Jan-25-24 | ***Updated***
 Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Jan-23-24 | 
-Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-24-24 | ***Updated***
+Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-25-24 | ***Updated***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPT
@@ -160,9 +160,6 @@ Negative prompt:
 
 **Some things to note (Gacha Lolis):**
 - I have added some anti NSFW in my prompts, like "sfw" in the prefix or "revealing clothes" in the negative prompt. This is to prevent from being censored for "CSAM". Not that I know if it works.
-
-- When entering render command you'll get two responses, one is the generated image and the other is the html output. Just delete the first one.
-![1](https://files.catbox.moe/kg7lyh.jpg)
 
 ***
 

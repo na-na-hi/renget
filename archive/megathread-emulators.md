@@ -177,10 +177,6 @@
 - It has several features, such as a GUI, netplay, and a automated updater.
 - [URL Safety Results](https://www.urlvoid.com/scan/simple64.github.io/)
 
-### 🔗 [VisualBoyAdvance-M](https://vba-m.com/) • Game Boy + Advance
-- Renowned emulator that is fast, light, and simple to get started right away.
-- [URL Safety Results](https://www.urlvoid.com/scan/vba-m.com/)
-
 ### 🔗 [yuzu](https://yuzu-emu.org/) • Switch
 - From the developers of [Citra](https://citra-emu.org/) comes an experimental open-source emulator.
 - [URL Safety Results](https://www.urlvoid.com/scan/vba-m.com/)

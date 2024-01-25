@@ -408,7 +408,7 @@ The successor states of Holoslavia continue to have a population growth that is 
 
 No supra-national organization on the level of the SFRH had formed between the successor states since the Holoslav Wars. The closest, however, is the Union of Southern Holoslavia (Kronegrin: Savez južne Holoslavije / Савез јужне Холославије), an economic cooperation and development treaty signed between the republics of Rratovo-Kroniigovina and the Moomjerina in 2001. Currently, the organization focuses on bringing back pre-dissolution economic integration between the three republics, though it is also rumored to be a defense pact against the Democratic People's Republic of Ichikara to the south.[ᶜⁱᵗᵃᵗⁱᵒⁿ ⁿᵉᵉᵈᵉᵈ] 
 
-Remembrance of the time of the SFRH and its perceived positive attributes such as social stability, the possibility to travel freely, the level of education, and the welfare system is typically referred to as Holo-nostalgia. People who identify with the former Holoslav state may self-identify as Holoslavs. The social, linguistic, economic, and cultural ties between the former Holoslav countries are sometimes referred to as the "Holosphere."
+Remembrance of the time of the SFRH and its perceived positive attributes such as social stability, the possibility to travel freely, the level of education, and the welfare system is typically referred to as Holo-nostalgia. People who identify with the former Holoslav state may self-identify as Holoslavs. The social, linguistic, economic, and cultural ties between the former Holoslav countries are sometimes referred to as the "Holobox."
 
 ## References
 

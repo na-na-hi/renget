@@ -16,3 +16,4 @@ No you fucking coomer, a good old fashioned debate. Anyone is welcome to announc
 
 >Previous thread: 
 >Thread Theme: https://youtu.be/Ag1o3koTLWM?si=u9D-fsEBMalFGt2o
+>Current Saturday topic: Why is Op is so dumb that he forgor to change this?
