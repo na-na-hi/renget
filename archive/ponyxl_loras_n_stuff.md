@@ -120,6 +120,8 @@ https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt fea
 https://files.catbox.moe/f5ssgz.safetensors character_tachibana_arisu helps to prompt features like hair, clothes
 https://files.catbox.moe/9zcayd.safetensors character_matoba_risa helps to prompt features like hair, clothes
 https://files.catbox.moe/djnlks.safetensors character_amy_sorel example prompt image here: https://files.catbox.moe/qymyf8.png, trigger is amy sorel, outfits are tagged as sc4 and sc6
+https://files.catbox.moe/xow8kx.safetensors character_maryjane Prompt is maryjane, though it works better if you prompt for other stuff as well. gradient hair, tentacle hair, head fins, fangs, long tongue, etc
+
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯
 

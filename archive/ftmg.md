@@ -43,6 +43,7 @@ What is Gender Dysphoria? https://www.psychiatry.org/dsm5mtf
 ▶Hormones:
 Basic HRT: https://apps.carleton.edu/campus/gsc/assets/hormones_FTM.pdf
 Hormones and the Body: A Brief Overview: https://www.ftmguide.org/hormonebasics.html
+More HRT Information: https://rentry.org/ftmguide
 
 ▶Passing:
 How to Deepen Your Voice: https://youtu.be/oegzhs410f8

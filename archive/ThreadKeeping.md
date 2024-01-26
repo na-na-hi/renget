@@ -412,17 +412,18 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Art:
->drekus
->>91681250
->hitomi hiromi
->>91681260
->sandatsu new costume
->>91681266
+>The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether)
+https://rentry.org/zbtaxdfz
+>The Tournament, Part Four!
+https://rentry.org/b2v9nv4u
+>The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp)
+https://rentry.org/pi72vzqf
 
-New Student Build:
->Nijimura Mahoko HN Cool Boost
->>91685518 + >>91685973
+>New Builds
+>Runt  HN Dust Devil
+>>91691942
+>Suslik
+>>91699413
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -501,6 +502,8 @@ Page 2
 >>89199766
 >Suki HN Sukeban
 >>91670899
+>Runt HN Dust Devil
+>>91691942
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -745,6 +748,8 @@ Page 5
 https://rentry.org/ddom6m82
 >TechVision Elite 2023 - 43Vista UltraSmart 4K TV
 >>91654960
+>Suslik
+>>91699413
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
@@ -983,7 +988,12 @@ Page 9
 ***
 ```
 Writefags (final)
-Soon.
+>The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether)
+https://rentry.org/zbtaxdfz
+>The Tournament, Part Four!
+https://rentry.org/b2v9nv4u
+>The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp)
+https://rentry.org/pi72vzqf
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

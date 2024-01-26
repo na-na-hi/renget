@@ -2687,3 +2687,149 @@ https://nitter.net/AryJeay/status/1750323726174884072#m  1/24/24
 
 >⚡️#Iraq: Al-Mayadeen sources in Iraq: A drone bombardment was carried out on a target in the port of Ashdod in the occupied #Palestinian territories.
 https://nitter.net/ME_Observer_/status/1750327665830011224#m  1/24/24
+
+>⚡️WATCH: Al-Quds (PIJ) published a video showing its forces target IOF military vehicles on the front lines west of Khan Yunis.
+https://nitter.net/AryJeay/status/1750453264137523247#m  1/25/25
+https://files.catbox.moe/iiilaa.mp4  1/25/25
+https://files.catbox.moe/h10hkr.mp4  1/25/25
+
+>BREAKING| The Ministry of Health: The situation in Nasser Hospital in Khan Yunis is catastrophic; it operates at 10% of its human capacity due to the Israeli siege and bombardment. 
+
+>The hospital has run out of anesthesia drugs, painkillers, and food.
+https://nitter.1d4.us/QudsNen/status/1750465987361567057#m  1/25/25
+
+>BREAKING| Al Jazeera reports that at least 20 people have been killed and 150 have been wounded when Israel's artillery shelled thousands of people, who were gathering to get humanitarian aid near the Kuweiti square in northern Gaza.
+https://nitter.1d4.us/QudsNen/status/1750472922588758105#m  1/25/25
+
+>🇮🇶 Islamic Resistance in Iraq announced claiming this attack using drones
+https://nitter.net/AryJeay/status/1750446535500874142#m  1/25/25
+
+>China's Ministry of Foreign Affairs says it is shocked by the recent Israeli attack on an UNRWA facility in Gaza.  
+
+It added that the top priority is to achieve a ceasefire and ensure the security of United Nations facilities to prevent a widespread humanitarian catastrophe.
+https://nitter.1d4.us/QudsNen/status/1750425723444080711#m  1/25/25
+
+>BREAKING| Israel's military shells a school in western Khan Yunis in Gaza.
+https://nitter.1d4.us/QudsNen/status/1750471477533544942#m  1/25/25
+
+>🛑| 🇮🇶 Islamic Resistance in Iraq announces:
+
+The attacking of the Ain al-Asad US base in western Iraq, with suicide drones.
+https://nitter.cz/AryJeay/status/1750634969758617764#m  1/25/25
+
+>The furious reaction of an israeli channel to the recent video published by Hezbollah 😂
+
+“Liar (israeli regime) you sent israel to the stone age!”
+https://nitter.cz/AryJeay/status/1750643125549453462#m  1/25/25
+
+>🇫🇮 Al-Mayadeen quoting Finland’s Foreign Minister Elina Valtonen: 
+
+“The time for self-defense for “Israel” is over”
+https://nitter.cz/AryJeay/status/1750651336507453759#m  1/25/25
+
+>BREAKING| Hamas said Thursday that it closely follows the proceedings of the ICJ, announcing that its position on the court's ruling is based on the fundamental principles of reciprocity and international law as follows: 
+
+⭕️ If the ICJ issues a decision to cease fire, the movement will commit to a ceasefire as long as Israel complies with it.
+
+⭕️Hamas will release all Israeli detainees if Israel releases all Palestinian detainees in its custody.
+
+⭕️Israel must end its continuous blockade on Gaza, which has been ongoing for 18 years and allow the entry of humanitarian aid.
+https://nitter.salastil.com/QudsNen/status/1750641192516108319#m  1/25/25
+
+>UK's Rishi Sunak says those, who chant "from the river to the sea are useful idiots."
+https://nitter.salastil.com/QudsNen/status/1750650436904739223#m  1/25/25
+
+>A spokesperson for the US State Department tries to avoid answering a question on whether all parties should abide by an ICJ ruling on Israel's genocide in Gaza. 
+
+Netanyahu had said that the ICJ would not prevent him from continuing his war. Meanwhile, Hamas stated that it will abide by the court's ruling and that its position on the ruling is based on the fundamental principles of reciprocity and international law.
+https://nitter.salastil.com/QudsNen/status/1750654108183269597#m  1/25/25
+
+>⚡️The situation between #Qatar and #Israel became tense after leaks of Netanyahu’s words as he spoke about Qatar and America during a meeting with the families of the hostages, and tonight a group of Zionists affiliated with the Mossad calling themselves the “Home Front” threatened Qatar with publishing scandals about Prince Tamim within 24 hours.
+
+The Mossad is threatening Tamim Ben Hamed, the ruler of Qatar, to expose the material with which they blackmail him.
+
+They gave 24 hours to release details about Israel's "Qatari Project"
+https://nitter.salastil.com/ME_Observer_/status/1750641393490395480#m  1/25/25
+
+>BREAKING:
+ 🇺🇸🇮🇱🇵🇸The Washington Post, citing officials:
+
+"Biden plans to send the Director of CIA to help reach an agreement between Hamas and Israel.
+
+Burns will broker an ambitious agreement to release all hostages and a long cessation of hostilities."
+
+Megatron: Hamas is now pulling the strings and has refused a ceasefire on Israel's terms.
+
+It is already clear that Israel has failed, is losing the war (the war with Hamas, not the genocide against children, which is very different), is suffering huge losses, military and economic, and is on the verge of war with Hezbollah, which is militarily very powerful.
+
+The US recognized this a long time ago and that Israel was moving towards an undesirable situation.
+
+Now Biden is forced to find any solution to the ceasefire. The withdrawal of the US army from Iraq and Syria is likely to be part of this agreement.
+https://t.me/megatron_ron/1352  1/25/25
+
+>NEW:
+ 🇮🇱 Financial Times:
+
+"The Israeli Foreign Ministry’s questions to diplomatic missions come amid fears that its war with Hamas may turn into a broader conflict.
+
+The Israeli Foreign Ministry also contacted diplomatic missions in Israel to ask whether they have backup generators."
+https://t.me/megatron_ron/1356  1/25/25
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 25 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻In a joint-operation with the Mujahideen Brigades, they targeted a gathering of IOF forces, northwest of Gaza City, with short-range 107mm rockets.
+
+🔻Targeted 2 Merkava tanks with Yassin-105s, west of Khan Yunis, southern Gaza Strip.
+
+🔻Published a massive military report regarding achievements during the past week. See tweet below for more info. 
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Engaged in intense clashes with IOF soldiers & their vehicles in the axes west and south of Khan Yunis, using heavy machine guns and firearms.
+
+🔻Shelled a gathering of forces with 60mm regular mortar shells in the axis west of Khan Yunis.
+
+🔻Blew up a Merkava tank with a "Thaqqib - Barrel" high-explosive device in the vicinity west of Khan Yunis.
+
+🔻Bombed the positioning of israeli soldiers and their vehicles in the Sudanese area northwest of Gaza City, using heavy-caliber mortar shells, Badr-1 IRAM rockets, and 107mm rockets.
+
+🔻Targeted an IOF infantry force, northwest of Beit Hanoun, with a guided 107mm rocket.
+
+🔻Shelled IOF military vehicles & soldiers in the axes west and southwest of Khan Yunis.
+
+🔻In a joint-operation with the Abu Ali Mustafa Brigades, they targeted military supply lines along the eastern line of central Gaza with a variety of rocket barrages.
+
+🔻Shelled a gathering of soldiers and their vehicles near the military site  of “Abu Safiya" east of Al-Maghazi in central Gaza.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted an IOF helicopter with an air-to-surface missile (SAM) in the skies of Khan Yunis.
+
+🔻Shelled IOF forces' concentrations in the axis east of Al-Bureij with a number of rockets.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Engaged in intense clashes with IOF forces near Haifa Street and the Al-Ahmadiyyin roundabout, using heavy gunfire and explosive devices.
+
+🔻Fought fierce battles using firearms and suitable weapons against IOF forces in the axis west of Khan Yunis.
+
+— 🟡 Hezbollah:
+
+🔻Launched an aerial attack using 2 assault (Kamikaze) dronesx, targeting an air defense system site & Iron Dome platforms, near the settlement of Kfar Blum, achieving direct hits.
+
+🔻Targeted the Al-Radar IOF site in the occupied Shabaa farms with rockets, achieving direct hits.
+
+🔻Targeted the Jal Al-Alam IOF site with missiles, achieving direct hits.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the Isdud (Ashdod) port in the occupied territories with (a) suicide drone(s).
+
+🔻Attacked the US base near Erbil Airport, north of Iraq, with drones.
+
+🔻Attacked the Ein Al Assad US base, with suicide drones.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.cz/AryJeay/status/1750670891027923378#m  1/25/25

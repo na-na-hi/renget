@@ -1088,8 +1088,8 @@ https://files.catbox.moe/wxuq9q.mp4 New  1/14/24
 https://files.catbox.moe/4itwei.mp4 New  1/15/24
 >Hezbollah published a video showing the process of launching rockets/missiles towards the Meron air control base today. 
 https://nitter.net/AryJeay/status/1749858462203326960#m New  1/23/24
-
-
+>Hezbollah published a video showing the operation that targeted a spy dome at the Jal al-Alam IOF site with “special missile weapons”.  
+https://files.catbox.moe/w3a9u5.mp4  New  1/25/25
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1124,7 +1124,8 @@ https://files.catbox.moe/s4y1hq.mp4 New  1/22/24
 https://files.catbox.moe/bcyo2p.mp4 New  1/23/24
 >Al-Quds Brigades targeting of a military gathering in Jabal Al-Rayes, east of Jabalia, with guided missiles (probably ATGMs). 
 https://files.catbox.moe/yh7phg.mp4 New  1/23/24
-
+Al-Quds (PIJ) published a video showing its forces target IOF military vehicles on the front lines west of Khan Yunis.
+https://files.catbox.moe/iiilaa.mp4 New  1/25/25
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 

@@ -25,7 +25,7 @@ Stat | Points: 2 (+2) | Modifiers | Combat Effect
 Health Points | 0 |  Level 9 (21HP) | 21HP
 Attack | 0 | Attack Training Tier **ɪ** | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 1 | Attack Training Tier **ɪ** | +2 Physical Mitigation
+Defense | 1 | Defense Training Tier **ɪ** | +2 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
 Speed | 0 (+1) |  Species Bonus | 5AP
 

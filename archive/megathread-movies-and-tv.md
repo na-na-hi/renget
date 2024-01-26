@@ -37,10 +37,6 @@
 - Extensive collection of arthouse. International cult, classic, experimental, and rare film releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/worldscinema.org/)
 
-### 🔗 [DDLbase](https://ddlbase.net/)
-- A fantastic forum resource with movie links in BDRip, Web-DL, and Webrip quality. A simple UI that doesn't require registration for users.
-- [URL Safety Results](https://www.urlvoid.com/scan/ddlbase.net/)
-
 ### 🔗 [Dramaday](https://dramaday.me/)
 - Concentrate on downloading the newest Korean dramas as is original soundtracks.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramaday.me/)
@@ -48,6 +44,10 @@
 ### 🔗 [edytjedhgmdhm](https://edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
 - Seamless downloading experience with a range of Korean dramas, movies, and TV shows.
 - [URL Safety Results](https://www.urlvoid.com/scan/edytjedhgmdhm.abfhaqrhbnf.workers.dev/)
+
+### 🔗 [LIGHT DOWNLOADS](https://lightdl.xyz/)
+- Focuses primarily on movies, with additional content encompassing Korean dramas and games.
+- [URL Safety Results](https://www.urlvoid.com/scan/lightdl.xyz/)
 
 ### 🔗 [MkvDrama](https://mkvdrama.org/)
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.
@@ -65,6 +65,10 @@
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - [URL Safety Results](https://www.urlvoid.com/scan/rarefilmm.com/)
 
+### 🔗 [StagaTV](https://ww1.stagatv.com/)
+- Indulge in the latest movies and TV series without annoying ads, just come and enjoy.
+- [URL Safety Results](https://www.urlvoid.com/scan/stagatv.com/)
+
 ### 🔗 [UHDMovies](https://uhdmovies.vip/)
 - Using some of the greatest file servers, you can download a tonne of excellent movies and TV series at dizzying speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/uhdmovies.vip/)
@@ -73,9 +77,9 @@
 - No pop-ups, or captchas; just stream and download movies, TV episodes, and some anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/vadapav.mov/)
 
-### 🔗 [YourSerie](https://www.yourserie.com/)
-- Excellent resource in an effort to give movies and TV shows, particularly in regions where access to streaming services do not exist.
-- [URL Safety Results](https://www.urlvoid.com/scan/yourserie.com/)
+### 🔗 [Vegamovies](https://vegamovies.ngo/)
+- Hassle-free direct download of Bollywood and Hollywood movies, with a user-friendly interface.
+- [URL Safety Results](https://www.urlvoid.com/scan/vegamovies.ngo/)
 
 &nbsp;
 

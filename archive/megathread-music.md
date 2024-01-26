@@ -161,7 +161,7 @@
 - You may modify the stunning, contemporary GUI to utilize any fork of YT-DLP, which is immediately installed upon launch.
 - [URL Safety Results](https://www.urlvoid.com/scan/stacher.io/)
 
-### 🖥️ [steamrip](https://github.com/nathom/streamrip)
+### 🖥️ [streamrip](https://github.com/nathom/streamrip)
 - A script for a music downloader that works with several platforms, including all the most well-liked ones.
 - [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 

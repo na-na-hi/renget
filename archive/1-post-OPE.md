@@ -6,16 +6,17 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 228th time, what is Ope?!
+For the 229th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Stardew Valley, Thu 01/25 1PM CT)
+▼ Upcoming streams
+Fri 01/26 6PM CT: Inside the Backrooms Advent collab
+Fri 01/26 9PM CT: Dota 2 collab with Fauna, Bijou, Calliope and Kobo
+▼ Last stream (Stardew Valley)
 https://www.youtube.com/watch?v=qGEyKRT9Oj0
-Last stream (midday zatsudan)
-https://www.youtube.com/watch?v=mMyKH_3SI-0
-Last member stream (zatsudan & ASMR)
+▼ Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 
 \>Cover of Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover)
@@ -41,7 +42,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67485486
+Previous thread: >>67519878
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

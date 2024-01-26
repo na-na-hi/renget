@@ -25,7 +25,7 @@ Inner Focus | The Pokémon's intense focus prevents it from flinching or being a
 
 Stat | Points: 1 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 21HP
+Health Points | 0 | Level 11 (21HP) | 21HP
 Attack | 1 | Species Bonus | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation

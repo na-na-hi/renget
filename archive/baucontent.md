@@ -9,9 +9,9 @@ https://files.catbox.moe/ozlx6q.mp4 (intro+outro voices)
 [enjoy](https://mega.nz/folder/51gWhKJJ)
 decryption key: Z1R4R2dnSkY0THRtRUxsUTF0LW1yUQ==
 
-use mario64 to unlock the real decryption key for the porn. soft security measures
+use mario64 to unlock the real decryption key for the porn. soft security measures because it was taken down before. ask in thread for help if you're really getting filtered. if you post any lewds in the thread, i'd appreciate the keywords "megaanon" alongsisde your post so i can archive search and add them, since i'm not in every thread all the time.
 
-https://pastebin.com/dYcJJd8w - translation of kotaros fuwamoco SEX doujinshi, credits to Anon
+https://pastebin.com/dYcJJd8w - translation of kotaros fuwamoco SEX doujinshi, credits to Anon note: there is an actual EN translation of the panels on the usual sites, im just lazy to upload them when i already have the JP ones uploaded
 
 ### FUWAMOCO VN & Anime list
 https://pastebin.com/BGvNtvJ4

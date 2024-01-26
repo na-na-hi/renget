@@ -1,5 +1,5 @@
-->![12](https://i.ibb.co/NWs8Kzs/124642-CE-8661-489-A-83-BF-7-E87-FEA4-ECFF.gif)⠀%#C70039% you⠀have⠀two⠀choices, %%⠀[yes]()⠀or....⠀[yes]()!⠀![12](https://i.ibb.co/NWs8Kzs/124642-CE-8661-489-A-83-BF-7-E87-FEA4-ECFF.gif)<-
-->![sparkle](https://media.discordapp.net/attachments/1084308198577668107/1193120579830689842/Untitled20_20240106041458.png?ex=65ab8f21&is=65991a21&hm=ffff972241e530de2eaaf94bbcdf085960a804e2c84a0fa1b8c1b28b34a475af&)<-
-->｡ᴖ ᴖ) ⠀%#C70039% arella %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/1XVWYR2/31-A39068-29-BC-43-AE-BC4-B-35-DB61-D887-C5.gif) she **her**<-
--> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/LJZSy8D/6-A14-F9-C8-1865-4833-BDB3-B02-D5-AE0-B441.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃  fem (%#C70039% cis %%)<-
--> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://i.ibb.co/qYNPdrP/IMG-3816.gif)⠀anxiety⠀⠀(ᴗ ᴗ <-
+->![12](https://i.ibb.co/HDGMGJm/473931-D2-BD1-C-4-A09-BCCE-BFA18662-A99-B.gif)⠀%#2295C6% you⠀have⠀two⠀choices, %%⠀[yes]()⠀or....⠀[yes]()!⠀![12](https://i.ibb.co/HDGMGJm/473931-D2-BD1-C-4-A09-BCCE-BFA18662-A99-B.gif)<-
+->![sparkle](https://media.discordapp.net/attachments/1084308198577668107/1200299297221132328/Untitled20_20240125233649.png?ex=65c5acd4&is=65b337d4&hm=686519778915e91d8c662c8ea0a12c9791340989f484fd1fb6ad0995a4b4dc3b&)<-
+->｡ᴖ ᴖ) ⠀%#2295C6% maeve / via %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/K66DrmW/7337-C81-E-FFBD-48-F1-8877-FB98-BFA6-FA63.gif) she **her**<-
+-> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/tHjwN0j/3700-DF53-40-D0-4-DC2-A3-A2-8-D439-D99146-F.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃  fem (%#2295C6% cis %%)<-
+-> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://i.ibb.co/C7bKKh7/IMG-3862.gif)⠀anxiety⠀⠀(ᴗ ᴗ <-

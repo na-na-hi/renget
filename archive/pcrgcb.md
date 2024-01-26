@@ -29,6 +29,8 @@ videos:
 ## Stage 4 semi auto
 videos:
 [VashTV](https://www.youtube.com/watch?v=QtPNUJYr6as)
+[Eruru](https://www.youtube.com/watch?v=dVexbRS629Q)
+[Reonmaru](https://www.youtube.com/watch?v=Ox-hNWShV9U)
 
 ### Boss 1
 
@@ -82,8 +84,8 @@ Labyrista 4★ Lv295 R31 FULL, EX 5/5/5
 
 ### Boss 3
 
-[B3 Physical 59m - 2 manual inputs](https://www.youtube.com/watch?v=bVLyX5uECrQ)  
-![](https://pomf2.lain.la/f/7s5jpi.png)
+[B3 Physical 62m - 1 manual input](https://youtu.be/dVexbRS629Q?t=923)  
+![](https://pomf2.lain.la/f/vnrq4jk6.png)
 Tested with: 
 Summer Kokkoro 6★ Lv295 R31 FULL, EX 5/5/5
 Princess Kokkoro 5★ Lv295 R31 FULL, EX 5/5/5
@@ -91,7 +93,18 @@ Labyrista 5★ Lv295 R31 FULL, EX 5/5/5
 Hatsune and Shiori 5★ Lv295 R31 FULL, EX 5/5/5
 Creditta 5★ Lv295 R31 FULL, EX 5/5/5
 
-![](https://pomf2.lain.la/f/eawn3n.png)
+![](https://pomf2.lain.la/f/ufjgzyl.png)
+
+[B3 Magic 41-42m - 0 manual inputs](https://youtu.be/dVexbRS629Q?t=1140)  
+![](https://pomf2.lain.la/f/kzbi0v7o.png)
+Tested with: 
+Princess Kokkoro 5★ Lv295 R31 FULL, EX 5/5/5
+Summer Ranpha 5★ Lv295 R31 FULL, EX 5/5/5
+New Years Homare 5★ Lv295 R31 FULL, EX 5/5/5
+New Years Kasumi 5★ Lv295 R31 FULL, EX 5/5/5
+Karin 5★ Lv295 R31 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/ambqyly.png)
 
 ### Boss 4
 [B4 Physical 67m - 0 manual inputs](https://www.youtube.com/watch?v=_wyHXZNtZGc)  
@@ -114,7 +127,16 @@ Labyrista 5★ Lv295 R31 FULL, EX 5/5/5
 New Years Misato 5★ Lv295 R31 FULL, EX 5/5/5
 Shiori 5★ Lv295 R31 FULL, EX 5/5/5
 
-![](https://pomf2.lain.la/f/uo2l4dlc.png)
+[B4 Magic 59m - 0 manual inputs](https://www.youtube.com/watch?v=aNghW1qaczk)  
+![](https://pomf2.lain.la/f/1u6btzhc.png)
+Tested with: 
+Noir Kuuka 5★ Lv295 R31 FULL, EX 5/5/5
+Ceremonial Illya 5★ Lv295 R31 FULL, EX 5/5/5
+Anne and Grea 5★ Lv295 R31 FULL, EX 5/5/5
+Lyrael 5★ Lv295 R31 FULL, EX 5/5/5
+New Years Hatsune 5★ Lv295 R31 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/bcjeav79.png)
 
 [B4 Magic 52-55m - 0 manual inputs](https://www.youtube.com/watch?v=Eu1BE1wp760)  
 ![](https://pomf2.lain.la/f/lw10soxi.png)

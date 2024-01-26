@@ -1,9 +1,11 @@
 # **/lcg/ Guide**
 -> ![/lcg/](https://files.catbox.moe/mlthto.png) <-
+-> This Rentry displays images using Catbox. <-
 
 !!! danger Disclaimer
 	Do not repost this guide on social media. ![Kill niggers. Behead niggers. Roundhouse kick a nigger into the concrete. Slam dunk a nigger baby into the trashcan. Crucify filthy blacks. Defecate in a niggers food. Launch niggers into the sun. Stir fry niggers in a wok. Toss niggers into active volcanoes. Urinate into a niggers gas tank. Judo throw niggers into a wood chipper. Twist niggers heads off. Report niggers to the Head. Karate chop niggers in half. Curb stomp pregnant black niggers. Trap niggers in quicksand. Crush niggers in the trash compactor. Liquefy niggers in a vat of acid. Eat niggers. Dissect niggers. Exterminate niggers in the gas chamber. Stomp nigger skulls with steel toed boots. Cremate niggers in the oven. Lobotomize niggers. Mandatory abortions for niggers. Grind nigger fetuses in the garbage disposal. Drown niggers in fried chicken grease. Vaporize niggers with a ray gun. Kick old niggers down the stairs. Feed niggers to alligators. Impale niggers on a lance](https://files.catbox.moe/gyofcn.webp)
 [TOC]
+
 ## FAQ
 **1. What is Limbus Company?**
 Ligma Company is a game developed by Project Type-Moon, the developers of Colonoscopy Corporation and Legend of Ruinia. It's about reimagined literary characters living in a dystopian hellhole called ~~South Korea~~ The City, hired by the titular Sugma Company to scour the ruins in search of Golden Boughs for an as-yet unspecified goal, while driving a bus that runs on human lives.
@@ -20,13 +22,13 @@ Also note that, unlike other gachas, we have a set of 12 static characters, for 
 Go through the story at your own pace. Once you complete chapter 2 you will have Luxcavations and Mirror Dungeons unlocked. Mirror Dungeons have Weekly Bonuses that grant you Lunacy and Battle Pass XP. Luxcavation is how you farm XP tickets and Thread to upgrade your Identities and E.G.Os. Collect all your Weekly Bonuses and farm resources in Luxcavation to upgrade your units. Don't do Lunacy refills during early game, because your maximum Enkephalin (energy) isn't going to be high enough to justify it. Either wait for your Enkephalin to replenish or use Enkephalin boxes in the meantime. If you want to know what to do after early game, or when you're ready to farm, please view the Farming and Activities sections of this guide.
 
 **5. This game has a required reading list?**
-Yes. They're not necessary to understand the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger, and Hell Screen, are very short. There is also Distortion Detective and Leviathan, which are canon comics and novels set in the Project Moon Universe.
+Yes. They're not necessary to understand the setting, but they're still great reads. Some of them, like Metamorphosis, Stranger, and Hell Screen, are very short. There is also Distortion Detective and Leviathan, which are canon comics and novels set in the Project Moon Universe. Note: If you're going to read Leviathan, only read the PDFs that are inside the separate folders and not the combined PDFs, the combined ones are MTL and not human translated.
 [MEGA with the required reading and comics/webnovels](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw)
 [Recommended Translations](https://rentry.org/limbisbooks)
 [Full list](https://files.catbox.moe/tgo7m4.png)
 
 **6. Is this game F2P friendly/generous?**
-Yes. There are only 3 rarity tiers for units. You also do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The only pity is 200 rolls to obtain any 000 Identity or E.G.O on the banner, but this game's saving grace is that it allows you to farm directly for "Egoshards", which allows you to obtain (spark) any Identity or E.G.O currently available in the Dispensary. You can also clear all of chapter 1-4 with the default units the game gives you without touching the gacha past the tutorial, but after that it gets harder.
+Yes. There are only 3 rarity tiers for units. You do not need to roll dupes of the same unit to upgrade them, and you cannot roll dupes of E.G.Os. The only pity is 200 rolls to obtain any 000 Identity or E.G.O on the banner, but this game's saving grace is that it allows you to farm directly for "Egoshards", which allows you to obtain (spark) any Identity or E.G.O currently available in the Dispensary. You can also clear all of chapter 1-4 with the default units the game gives you without touching the gacha past the tutorial, but after that it gets a bit harder.
 
 **7. Why can't I clear this stage?**
 First, actually **READ**. If you are having difficulties despite this, you are likely using underleveled/unptied Identities, or Identities that are very weak against the enemy. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide, or use a support.
@@ -62,7 +64,7 @@ Press on the Sinner icon, then select the artwork you want on your window. The l
 Sort of. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
 **15. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 4 a.m. EST. Maintenance begins every Wednesday at 8 p.m. EST and ends at 10 p.m. EST. New banners and Events are announced/have trailers posted on on Fridays at roughly 4 a.m EST. Skills for announced IDs/E.G.Os are posted alongside the patch notes on Monday. You can see a live countdown for everything [here.](https://lcbcountdown.carrd.co/)
+We get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 4 a.m. EST. Maintenance begins every Wednesday at 8 p.m. EST and ends at 10 p.m. EST. New banners and Events are announced/have trailers posted on on Fridays at roughly 4 a.m EST. Skills for announced IDs/E.G.Os are posted alongside the patch notes on Monday. You can see a live countdown for everything [here](https://lcbcountdown.carrd.co/). Some anon manages the Countdown and it is updated fairly regularly. It usually takes a few hours for the announcements and patch notes countdowns to get updated because that anon is asleep when the countdown for them hits 0.
 
 **16. What are Drawpiles and when do they happen?**
 A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
@@ -391,4 +393,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 12/21/23: Updated for hard mode also the FAQ was ordered wrong all this fucking time.
 12/24/23: Updated Limbus book Rentry link merry Christmas faggot
 1/8/24: Added MD3 E.G.O gift fusion and farming guide link.
-1/16/24: Updated tier list with some of the newer IDs. ![lol&](https://files.catbox.moe/7dmu76.png)
+1/16/24: Updated tier list with some of the newer IDs.
+1/25/23: ABABABABABABA ![lol&](https://files.catbox.moe/7dmu76.png)
