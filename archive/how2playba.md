@@ -454,7 +454,8 @@ Gehenna/Millennium/Trinity. They're the 3 biggest schools, and they have a lot o
 >PvP shop
 **Save ur shit for AP drinks, maybe buy Utaha. Maybe.**
 
-In general you want to save up your coins so you get to buy out the pvp drinks during events. If there's a girl that appeals to you feel free to buy her. Utaha is the most 'meta' character in this shop, as her UG makes her a top pvp support. She requires a lot of investment however. 
+In general you want to save up your coins so you get to buy out the pvp drinks during events. 2000 coins is my recommendation.
+If there's a girl that appeals to you feel free to buy her. Utaha is the most 'meta' character in this shop, as her UG makes her a top pvp support. She requires a lot of investment however. 
 Don't buy the reports or credits, they really really suck. You can buy the drinks and farm commissions for a better efficiency 
 Consider bringing Shizuko to 3\* when a Shirokuro raid is approaching. 
 

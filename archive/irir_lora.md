@@ -260,7 +260,7 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 
 #### 消すべきタグ
 - 身体的特徴のタグ
-	キャラを1プロンプトで召喚したいのでその類のタグは消す。消すことでそれらの特徴を先頭の１タグで覚える。
+	キャラを1プロンプトで召喚したいのでその類のタグは消す。消すことでそれらの特徴を先頭の１タグで覚える。どの程度集約するかはお好みで。
 - 抽象的なタグ(例:virtual youtuber,highres)
 	どの画像につくかわからないタグはどうせ覚えないから不要。
 - 誤検出タグ
@@ -280,7 +280,7 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 `kayoko (blue archive), 1girl, solo, multicolored hair, black hair, horns, hood, white hair, halo, sitting, skirt, bag, hoodie, two-tone hair, red eyes, blush, long sleeves, black hoodie, red skirt, ponytail, bangs, looking at viewer, closed mouth, miniskirt, collarbone, hair between eyes, feet out of frame, plaid skirt, pleated skirt, sidelocks, hood down, hand up, mole on neck, medium hair, backpack, clothes writing, plaid`
 
 この画像から、次のタグを削除する。するとそれらのタグが`kayoko (blue archive)`に集約される。
-`white_hair,horns,black_hair,halo,red_eyes,ponytail,two-tone_hair,bangs,long_hair,hair_between_eyes,wings,sidelocks,blush,multicolored_hair,halo`
+`white_hair,horns,black_hair,halo,red_eyes,two-tone_hair,wings,multicolored_hair,halo`
 
 Animagine XL 3.0が推奨する並びにするかは任意。従来通りの`トリガーワード, その他`でもなんの問題もない。
 

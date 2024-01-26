@@ -299,7 +299,7 @@ You can create website-like interfaces, like in [**The last /aicg/ thread**](htt
 
 ───── ⋆⋅☆⋅⋆ ─────
 
-There’s lots of cool stuff you can do with inline styles. Go wild. Try `<marquee>`.
+There’s lots of cool stuff you can do with inline styles. Go wild. Try `<marquee>`. [**LOVESICK**](https://pikamansu.neocities.org/charactercards) uses `<marquee>`.
 
 ───── ⋆⋅☆⋅⋆ ─────
 

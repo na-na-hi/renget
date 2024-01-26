@@ -1,7 +1,6 @@
 #->/d/ Omorashi Kemono Artist List<-
 ***
 **READ THIS:**
-**Kemono's Fanbox importer is currently broken. As a result, most the pages here are outdated**
 Name written in **bold** means that this artist's kemono page(s) is/are **not regularly updated** and  may have **missing content**
 If an artist has multiple pages, only bold their names when **ALL** of their pages are not regularly updated. Else, just indicate which pages are up to date.
 If a page has not been updated for **2 months or more**, consider it **outdated**

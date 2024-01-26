@@ -3,9 +3,9 @@
 https://civitai.com/models/257749?modelVersionId=290640
 
 ##List of Ponyxl LoRAs from /h/
-NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
+NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
 
-I made a powershell script to try and pull down the LoRAs on this rentry, it will store the last downloaded url for a lora in a history file in case a new or improved one replaces it so you can reuse the script without downloading everything again. You call the script and pass in a destination folder to store the LoRAs. Obviously run at your own risk, I can't prove to you I'm not an asshole or terrible programmer. You'll probably get throttled if you download everything in one go so run it overnight or something. Some of these LoRAs are huge, the whole folder with them all downloaded is ~10 gb. 
+I made a powershell script to try and pull down the LoRAs on this rentry, it will store the last downloaded url for a lora in a history file in case a new or improved one replaces it so you can reuse the script without downloading everything again. You call the script and pass in a destination folder to store the LoRAs. Obviously run at your own risk, I can't prove to you I'm not an asshole or terrible programmer. You'll probably get throttled if you download everything in one go so run it overnight or something. Some of these LoRAs are huge, the whole folder with them all downloaded is ~11.3 gb. 
 
 UPDATE 1/21/2024 I added a basic management interface so it doesn't just pull down everything. You can pick and choose which loras you want.
 UPDATE 1/22/2024 Added some logic to keep old versions of LoRAs around in case one is updated but you still want to keep the old version around as well.
@@ -282,7 +282,9 @@ Female Pokemon: https://files.catbox.moe/sljtm8.txt
 Male Pokemon: https://files.catbox.moe/ka331j.txt
 
 ##LoRA training
-I'm currently running sdxl_train_network.py with the following settings to train on a 4090 using about 13.8 GB VRAM. This obviously isn't the only way to run it and maybe my settings could be improved, feel free to express your opinion in /hdg/.
+I'm currently running sdxl_train_network.py with the following settings to train on a 4090 using about 13.8 GB VRAM. This obviously isn't the only way to run it and maybe my settings could be improved, feel free to express your opinion in /hdg/. 
+
+UPDATE 1/26/2024 The below settings are generally for training styles. When training characters I've been having better success with --network_alpha set to up to half of the --network_dim, so in the case of the below settings I'm also using --network alpha set to 32 when making character LoRAs. I haven't really done any comprehensive testing with it I just was having more difficulty with characters (mostly looking flanderized or exaggerated caricatures of themselves) and that seemed to help. Maybe someone can do a more thorough investigation on the topic. It might be that other optimizers would be better for characters.
 
  --network_module = networks.lora
  --train_data_dir = "$IMAGES_PATH$"

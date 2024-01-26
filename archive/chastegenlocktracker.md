@@ -37,6 +37,6 @@ _(Updated 25-Jan-2024)_
 | Vulparion | https://chaster.app/sessions/kSl5VH5v7ajrhSaN | === |
 | programmingsocklover | https://chaster.app/sessions/Zkw6utoQb858qcG0 | === |
 | xoronite | https://chaster.app/sessions/oyY87eMVrRD6cyXe | === |
-| Bambi_snowshed917 | https://chaster.app/sessions/czpiy85DtnL6uwZo | === |
+| Bambi_snowshed917 | https://chaster.app/sessions/fSSLXOySmOwtYjU1 | === |
 |  |  |  |
 |  |  |  |

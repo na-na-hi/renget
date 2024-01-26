@@ -5,7 +5,7 @@
 ## General Resources for all Stages
 [gamewith](https://gamewith.jp/pricone-re/article/show/433787)
 [しばいぬ spreadsheet](https://docs.google.com/spreadsheets/d/1pd3YGOadHrWNxb2n6qi-KCVkYsJTyWEvZhS0i9AYLIA/edit#gid=790984515)
-
+[chink sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRNfRynUTk6agPb8P-K9nnoihuGI2LoFLJ3qtSA8_lyppYx0MRIJNKLYRSxBP-YYfZ2qGmCTsuVafz/pubhtml#)
 
 ## Stage 1&2 90 seconds carryover
 [Sugi video](https://www.youtube.com/watch?v=4_BsROzPgis)
@@ -183,7 +183,7 @@ Christina 6★ Lv295 R31 No ML, UE1 MAX EX 5/5/5 (FULL works too)
 Christmas Miyako 3★ Lv295 R31 No Armor, UE1 MAX, EX 5/5/5 (FULL works too)
 Valentine's Shizuru 3★ Lv295 R31 No Armor, UE1 110, UE2 4 Star, EX 5/5/5 (FULL works too)
 Prescia 5★ Lv295 R31 FULL, EX 5/5/5 
-Labyrista 5★ Lv295 R31 No ML, UE MAX EX 5/5/5 (FULL works too)
+Labyrista 4★ Lv295 R31 No ML, UE MAX EX 5/5/5 (FULL works too)
 
 ![B2 58m](https://pomf2.lain.la/f/5aboffl6.png)
 

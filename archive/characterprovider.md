@@ -143,7 +143,8 @@ Instructions that I commonly include into my prompts:
 ######
 - - -
 ##### Which Model Should You Choose for RP?
-GPT4-Turbo / GPT4 (Any version) / Claude (Any version) > ~~Claude 1.2~~ (Context is too low) > Claude instant / GPT3.5-Turbo
+!!! info
+	GPT4 32K (Any version) / Claude (Any version) / GPT4 8K > GPT4-Turbo > ~~Claude 1.2~~ (Context is too low) > Claude instant / GPT3.5-Turbo
 
 **Gregory Kamradt, ‘Pressure testing Claude-2.1 200K via Needle-in-a-Haystack’, November 2023:**\*
 

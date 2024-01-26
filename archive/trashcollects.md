@@ -2753,6 +2753,15 @@ https://files.catbox.moe/w544rm.rar
 # Hyperscat (Concept)
 https://files.catbox.moe/9cshwy.safetensors
 
+# Mira (Animal Crossing)
+>activation tag is her e621 tag: "mira \(animal crossing\)"
+>I trained off of a fluffyrock model so that it would be compatible with multiple fluffyrock-based furry models (including EasyFluff and QueasyFluff)
+>Her default outfit is tagged "red dress, belt, red mask, red boots, red gloves"
+https://files.catbox.moe/9xx31q.safetensors
+
+# Rumble (League of Legends)
+ https://files.catbox.moe/7ry0c3.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

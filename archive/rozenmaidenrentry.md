@@ -38,3 +38,5 @@
 It's a WIP, you retard.
 Feel free to suggest your stuff in a current /a/ RM/desu thread, talk to the techdesus of /g/ during desu hours, or just go post on /rozen/.
 There are **NO** any "official" discords/matrixes/telegrams/ircs/whatever, avoid them like fire, anon, it's for your own good desu.
+
+!>I really need to write some kind of FAQ desu...

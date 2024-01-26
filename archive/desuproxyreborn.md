@@ -36,4 +36,4 @@ Click 4chan X Settings:
 
 ![](desu)
 
-[![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/rozenmaidenrentry)
+[![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desdesdesuu)[![boku](https://files.catbox.moe/6zeewo.png)](https://rentry.org/rozenmaidenrentry)
