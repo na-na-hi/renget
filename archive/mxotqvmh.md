@@ -10,6 +10,7 @@ NA Chess: Wednesdays at 9PM ET
 NA PyPy Dance: Mondays, Tuesdays, and Thursdays at 10PM ET
 NA Mahjong: Sundays and Fridays at 9PM ET
 NA World Exploration: Every other Monday 9PM ET
+NA Workouts: Monday‚ Wednesday‚ and Friday around 10PM ET
 Dinner Circle: Usually last Saturday of the month 7PM ET
 
 ####EU

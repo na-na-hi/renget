@@ -1,4 +1,4 @@
--> ![](https://media.discordapp.net/attachments/1104679351489933376/1198776223258648649/a.png?ex=65c0225b&is=65adad5b&hm=babd4f1fc4b9e82af176fb3a2b34f9f94da3db17cbdf128f241a9da39a6157d2&=&format=webp&quality=lossless) <-
+-> ![](https://media.discordapp.net/attachments/1166499529953128508/1199827124920528906/image_1.png?ex=65c3f516&is=65b18016&hm=4d54c11be727d10384f9a1c4e5b51dfcd8c4da956f537b13b69c4fdf0397e4a5&=&format=webp&quality=lossless) <-
 
 -> ![](https://files.catbox.moe/962ics.gif) **Do Not Interact . . .** <-
 
@@ -9,4 +9,4 @@
 **5.** Like or justify toxic relationships such as Joker and Harley, believe everyone with a personality disorder (or a disorder in general) are abusers, you avoid interacting with people who have NPD
 **6.** You fakeclaim people's experiences if you genuinely don't even know them/don't have reasonable proof.
 
--> [Back. . .](https://rentry.co/imvengeance) <-
+-> [Back. . .](https://rentry.co/bludhavenpd) <-

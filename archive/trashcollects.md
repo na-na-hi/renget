@@ -3167,3 +3167,7 @@ Elora
 https://files.catbox.moe/kalun9.rar
 
 >Character sprites were made using Easyfluff v10 with character lora while using Control Net ((Reference only)) and changing the expressions for each sprites.
+
+### Easyfluff V11.1 HLL LoRA (Weebify your gens)
+A set of LoRAs trained on Dan- and Gelbooru images and Easyfluff, allowing for better non-furry gens and use of anime artists.
+A guide can be found [here](https://rentry.org/5exa3)

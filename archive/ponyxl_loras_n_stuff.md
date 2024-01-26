@@ -226,6 +226,7 @@ incase
 sunna \(nilsunna\)
 wagashi /(dagashiya/)
 sagiri
+melkor_mancin
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk 

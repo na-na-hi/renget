@@ -28,7 +28,7 @@ videos:
 
 ## Stage 4 semi auto
 videos:
-
+[VashTV](https://www.youtube.com/watch?v=QtPNUJYr6as)
 
 ### Boss 1
 

@@ -13,8 +13,8 @@ Comment:
 The Edition
 
 >News
+OpenAI released a new GPT4 Turbo preview  https://openai.com/blog/new-embedding-models-and-api-updates
 OpenAI march models enter deprecation phase https://platform.openai.com/docs/deprecations/2023-06-13-updated-chat-models
-Huggingface and render are cracking down on proxies
 Mistral released Mistral 8x7b, a Mixture of Experts model that outperforms Turbo despite being much smaller and more efficient
 https://mistral.ai/news/mixtral-of-experts/
 Google released Google Gemini Pro - Out on Bard now / Gemini Ultra to release in January 2024

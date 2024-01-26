@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 12 | **Experience to Next Level:** 15/120
+**Level:** 12 | **Experience to Next Level:** 20/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 359₽ | **Glorious Gold:** 0 Bars
 

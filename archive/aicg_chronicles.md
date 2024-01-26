@@ -1049,6 +1049,9 @@ When | Where | What
 2024-01-24|[98630668](https://desuarchive.org/g/thread/98628333#98630668)| an explanation of the way to use FOFA for AWS key scraping shared
 2024-01-25|[98635049](https://desuarchive.org/g/thread/98633103#98635049)| The proxy gets logprobs, function calls support
 2024-01-25|[98640868](https://desuarchive.org/g/thread/98638383#98640868)| anon tests logprobs, AI makes him an underage zoomer, somehow doesn't get banned for underage posting
+2024-01-25|[98645448](https://desuarchive.org/g/thread/98644059#98645448)| Silly adds per-lorebook-entry activation settings
+2024-01-25|[98649001](https://desuarchive.org/g/thread/98647089#98649001)| HF and Google partner for open AI collaboration
+2024-01-25|[98650990](https://desuarchive.org/g/thread/98649488#98650990)| new GPT4 Turbo snapshot (filtered), GPT3.5 Turbo becomes even cheaper, API keys managing and moderation update
 -|-|-
 
 [](you have found my secret stash of nothing!)

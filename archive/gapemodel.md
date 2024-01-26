@@ -14,10 +14,7 @@ https://mega.nz/file/38RxVBiK#ocmQb_ahp078Imfcvc5SrAvJePOqvhNVBKfZIIeP74Q
 
 **gape60.ckpt**
 `magnet:?xt=urn:btih:b892f6e7e6e287ca2ea59d2c575fdf5ae1f82d92&xt=urn:btmh:1220796da1e2ccfbde92cdfec9b111e0c9b47773f7d125dcaeb376a8e012acd7a877&dn=gape60.ckpt&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce`
-https://sdexchange.net/download/gape60.ckpt
 
-**gape60 tag list/counts**
-https://sdexchange.net/download/gape60_tags.txt
 
 ![girl](https://cdn.discordapp.com/attachments/1026512726564028447/1033819554478035096/unknown.png)
 
@@ -28,14 +25,12 @@ Construction is: AnythingGape = Anything + (Gape - NAI)
 **AnythingGape-fp16.ckpt**
 https://mega.nz/file/D5JyRIwL#QWjU5fHb02cRAMWySjeJTSnTs35Qlh7thaD9tc2kPHI
 `magnet:?xt=urn:btih:054709be6596955ebee65bd8b5166384ef9cb25f&xt=urn:btmh:1220ec7efbe8bdf1ce5560d51cc1203d562d3214b36497daf520ed2da47fd7e2f7c5&dn=AnythingGape-fp16.ckpt&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce`
-https://sdexchange.net/download/AnythingGape-fp16.ckpt
 
 **AnythingGape-fp16.safetensors**
 `magnet:?xt=urn:btih:cc2dddff78456eace087264479ffb9dbbac0a80c&xt=urn:btmh:1220a1c2d825b5b7671cfffbe586004d24241a7664be29184f0029802277786c7926&dn=AnythingGape-fp16.safetensors&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce`
 
 **AnythingGape-fp16 VAE**
 This is just the NAI VAE. Use this with AnythingV3 and its merges
-https://sdexchange.net/download/AnythingGape-fp16.vae.pt
 https://mega.nz/file/P9g2HRpb#X2u8Oqq6-5-MzmcSBJ37ozm3LW9rQPLpK-ChFTCN8XE
 
 the specifc parameters are:
@@ -102,8 +97,6 @@ Steps: 25, Sampler: Euler a, CFG scale: 11, Seed: 1945215298, Size: 512x512, Mod
 `masterpiece, best quality, (large insertion), (multiple penetration), tentacles, ((anal)), ((anal penetration)), ((all the way through)), oral, gaping pussy, spread pussy, (intestine bulge), (nsfw), 1girl, cute girl, small breasts, black hair, long hair, red eyes, blush, fucked silly, sweating, pussy juice
 Negative prompt: letterbox, censored, simple background
 Steps: 30, Sampler: Euler a, CFG scale: 11, Seed: 3110638353, Size: 512x512, Model hash: edcecb19, Clip skip: 2`
-
-
 
 ## Old models
 

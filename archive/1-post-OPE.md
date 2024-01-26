@@ -6,34 +6,29 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 227th time, what is Ope?!
+For the 228th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
-https://s.goodsmile.link/gmC
-
 \>Streams
-Next stream: Stardew Valley (Thu 01/25 7PM CT)
+Next stream (Stardew Valley, Thu 01/25 1PM CT)
+https://www.youtube.com/watch?v=qGEyKRT9Oj0
 Last stream (midday zatsudan)
 https://www.youtube.com/watch?v=mMyKH_3SI-0
 Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 
-\>New covers
-Cover of Nakashima Mika - Yuki no Hana: https://www.youtube.com/watch?v=SPWsptIhKkM
-Advent group cover of BABYMETAL - MEGITSUNE: https://www.youtube.com/watch?v=OffTXFgbn7A
-HololiveEN Myth/Promise/Advent group cover of Gero - Mind Craft: https://www.youtube.com/watch?v=OQuGEpICY2o
+\>Cover of Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover)
+https://www.youtube.com/watch?v=OQuGEpICY2o
 
-\>New merch
-Advent New Year's Voice Drama 2024 "A Very Fugitive New Year": https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024
-hololive closet New Year Outfit: https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit
+\>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
+https://s.goodsmile.link/gmC
 
 \>Songs
+Cover of Nakashima Mika - Yuki no Hana
+https://www.youtube.com/watch?v=SPWsptIhKkM
 Cover of SOS (Fuyuko Mayuzumi's Image Song)
 https://www.youtube.com/watch?v=uwwK82MIxIY
-Cover of MOKA★ - Lilium
-https://www.youtube.com/watch?v=-GUdYPelG8c
 Unarchived Advent karaoke relay (Jan 2024)
 https://mega.nz/folder/Oew3ETzJ#wNFjvn1M-0SlRRCBO4AZKQ
 Songs & Karaokes rentry
@@ -46,7 +41,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67402761
+Previous thread: >>67485486
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

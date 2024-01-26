@@ -1,4 +1,4 @@
--> ![](https://media.discordapp.net/attachments/1104679351489933376/1198776223606779904/image.png?ex=65c0225b&is=65adad5b&hm=80015b0910890dcad3f9a30a3bd252f18f44178a5f2d23c36115ca3c4ab1018d&=&format=webp&quality=lossless) <-
+-> ![](https://media.discordapp.net/attachments/1166499529953128508/1199834545147625553/image_2.png?ex=65c3fbff&is=65b186ff&hm=e8d0fe94487d6878027a5f77f2d044d7041619ebd24dd9093f26093730096092&=&format=webp&quality=lossless) <-
 
 -> ![](https://files.catbox.moe/85e6ex.gif) **Before you interact . . .** <-
 
@@ -16,4 +16,4 @@
 **4.** Avoid questioning me about my religion and what I believe in. Don't try to convert me either I don't know why you would even do that???
 **5.** Do not flirt with me with romantic or sexual intent. Platonic affection is fine. Public Displays of Affection depends but is generally a no unless I say otherwise.
 
--> [Back . . .](https://rentry.co/imvengeance) <-
+-> [Back . . .](https://rentry.co/bludhavenpd) <-

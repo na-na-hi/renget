@@ -15,5 +15,5 @@ https://rentry.org/upyvqfnf
 No you fucking coomer, a good old fashioned debate. Anyone is welcome to announce a future debate or simply give themselves a podium to rant about their chosen autism topic. Just try to do it before the meet so an appropriate world can be chosen.
 
 >Previous thread: 
->Thread Theme: https://youtu.be/Ag1o3koTLWM?si=u9D-fsEBMalFGt2o
+>Current Thread Theme: https://youtu.be/Ag1o3koTLWM?si=u9D-fsEBMalFGt2o
 >Current Saturday topic: Why is Op is so dumb that he forgor to change this?
