@@ -131,7 +131,7 @@ JP Indies:
 
 Karubi "Red Dragon" Akami: Gura sister according to the wiki. Mains Plat Marisa.
 https://www.twitch.tv/akamikarubi
-Yuri "Unbreakable diamond" Yuni: Cutest JP, cutest diamond. Mains Luke.
+Yuri "Unbreakable diamond" Yuni: Cutest JP, cutest Master. Mains Luke.
 https://www.twitch.tv/yuniruyuni
 Amaki "The devil" Pururu: Japanese ironmouse. Mains Marisa(?)
 https://www.twitch.tv/amakipururu

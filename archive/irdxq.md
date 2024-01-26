@@ -27,8 +27,8 @@ Dates are based on EST
 	>==Audio== 
 	
 	>==Chapters== 
-	> - **01/15 - Added**
-	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE] [4774gd3zEqE]](https://rentry.org/irdxq/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe)   
+	> - **01/26 - Added**
+	>- [#60. 『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]](https://rentry.org/irdxq/#2024-01-25-1-million-subscriber-endurance-karaoke-%E6%AD%8C%E6%9E%A0oh-lets-do-this-7l_qvd9xdrk)  
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -3634,7 +3634,37 @@ CHAPTER24=01:47:20.000
 CHAPTER24NAME=Dear you -Trust- (Acapella)
 
 ```
+***
+***
+######『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:05:57.815
+CHAPTER01NAME=Start
+CHAPTER02=00:27:57.661
+CHAPTER02NAME=Mamma Mia (Acapella)
+CHAPTER03=00:29:40.216
+CHAPTER03NAME=01. Mamma Mia - ABBA
+CHAPTER04=00:34:53.628
+CHAPTER04NAME=02. Through the Fire and Flames - DragonForce
+CHAPTER05=00:44:54.628
+CHAPTER05NAME=Baby Beluga (Acapella)
+CHAPTER06=00:47:07.628
+CHAPTER06NAME=03. I Miss You - Blink-182
+CHAPTER07=00:52:48.649
+CHAPTER07NAME=04. Mountain Dew - In the Style of Grandpa Jones
+CHAPTER08=00:59:43.649
+CHAPTER08NAME=05. Take Me Home, Country Roads - John Denver
+CHAPTER09=01:10:08.649
+CHAPTER09NAME=06. A New Start - Nanashi Mumei
+CHAPTER10=01:32:06.649
+CHAPTER10NAME=07. So Sick - Ne-Yo
+CHAPTER11=01:39:04.153
+CHAPTER11NAME=08. TiK ToK - Kesha
 
+```
 ***
 ***
 !!! danger 

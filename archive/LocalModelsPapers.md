@@ -270,6 +270,7 @@
 01/2024|[Orion-14B: Open-source Multilingual Large Language Models](https://arxiv.org/abs/2401.12246)
 01/2024|[Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)
 01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
+01/2024|[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -518,6 +519,9 @@
 01/2024|[Large Language Models are Superpositions of All Characters: Attaining Arbitrary Role-play via Self-Alignment](https://arxiv.org/abs/2401.12474)
 01/2024|[Dynamic Layer Tying for Parameter-Efficient Transformers](https://arxiv.org/abs/2401.12819)
 01/2024|[MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660)
+01/2024|[FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design](https://arxiv.org/abs/2401.14112)
+01/2024|[Accelerating Retrieval-Augmented Language Model Serving with Speculation](https://arxiv.org/abs/2401.14021)
+01/2024|[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities](https://arxiv.org/abs/2401.14405)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

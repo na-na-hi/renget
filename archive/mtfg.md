@@ -50,13 +50,17 @@ Powers Method: https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-
 HRT Info Sheets: https://1drv.ms/f/s!AudRJceTA5C9gQnyM7wxZcBGWRzW
 For additional HRT information, please visit >>>/lgbt/hrtgen
 
-▶Passing:
+▶Style:
  The Definitive Feminine Clothing Guide: https://youtu.be/_bBWVdCcfKo
+ I'm tall! Where can I find clothes that fit?: https://americantall.com/collections/tall-womens-clothing-collection
 Basic Skincare and Makeup: https://rentry.org/mtfgskinmakeup
 
 ▶Voice Training:
 Voice Resource Repository: https://wiki.sumianvoice.com/
  The Art of Voice Feminization Series: https://www.youtube.com/playlist?app=desktop&list=PLYJkVI7LLpknvBww07jnsxbz-_Lkynsry
+
+▶Misc:
+Trans women have woman brains: https://www.youtube.com/watch?v=8QScpDGqwsQ
 
 ▶Timelines:
 Coming Soon™

@@ -88,7 +88,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Blast Seed  |  Explodes on contact for 10 true damage
+1. N/A |  
 2. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**

@@ -8,3 +8,12 @@ The goal of this guide was to help people who wanted to archive VoDs but didn't 
 Content|Link|Description 
 -------|-------|------- 
 Vod Archival Guide | [Google Docs](https://docs.google.com/document/d/1MR48duo8FmpUIVGPvDRzBd3y5HnalrF1wmiS9fO99N4) |
+MS onedrive Mirror | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kgaNay0EcywHlxU_?e=DsVkYN) |
+Mega Mirror | [Mega](https://mega.nz/folder/3DJg2DTZ#ON3mctUOZorlXtdwrR8rAQ) |
+
+
+
+---
+#Ways to contact me, if needed:
+
+You can find me in the /vt/ IRC: https://rentry.org/IRC_Stuff under the nick "Nyarchivist" or per mail at “hansderhas6473(at)gmail.com” This is alt  email account that i check regularly regarding this stuff.  While i do use discord, i dont want to put my main channel ID in here and using an alt is too much effort to remember checking it.

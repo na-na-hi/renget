@@ -172,3 +172,8 @@ Ragtag Archive| [Link](https://archive.ragtag.moe/)|
 Archive Org| [Link](https://archive.org)| Other people use this website to archive random Vtuber vods sometimes, so if youre looking for specific vods this might be of use
 Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)| [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
+
+---
+#Ways to contact me, if needed:
+
+You can find me in the /vt/ IRC: https://rentry.org/IRC_Stuff under the nick "Nyarchivist" or per mail at “hansderhas6473(at)gmail.com” This is alt  email account that i check regularly regarding this stuff.  While i do use discord, i dont want to put my main channel ID in here and using an alt is too much effort to remember checking it.

@@ -1,6 +1,6 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
--> **Send logs to: pitlogs@proton.me** <-
+-> **Send logs to: pitlogs01@proton.me** <-
 [TOC3]
 ###OC
 | Bot's name | Updated | CHUB Link | Card |
@@ -85,7 +85,7 @@ Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.pn
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 15/01/2024 | https://files.catbox.moe/5unk0w.json
+Claude | 26/01/2024 | https://files.catbox.moe/6dtqf1.json
 GPT-4 | ??/11/2023 | https://files.catbox.moe/s3gdrd.json
 
 -> **Based on https://rentry.org/characterprovider** <-

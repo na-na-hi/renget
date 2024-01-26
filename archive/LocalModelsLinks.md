@@ -13,6 +13,7 @@
 [HF Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Multithreaded downloading capabilities 
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
+[Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker)|Various open Text-To-Speech models with relevant use case information 
 | 
 [Chatbot Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
 [WolframRW LLM Tests](https://teddit.projectsegfau.lt/u/WolframRavenwolf/submitted?sort=new&)|For translation capabilities, cross-language understanding, and instruction following/understanding

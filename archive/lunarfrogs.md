@@ -110,6 +110,7 @@ The secret lies on what specific words to use to lead the AI's response in certa
 
 #### Completion settings
 0.9/0.2/0.2/0.9 for temp/freqP/presP/top-p
+> 2.0/0.0/0.0/0.82 <-- lately using this, better quality responses so far, credits to /aicg/
 High temp and P are necessary to pull unlikely words to replies, but most of the message's "plot" is decided on the thinking block, so wild-wild ideas don't randomly pop up in the last paragraphs of the chat.
 **Important:** When running tests with your prompts make sure to set temperature to 0 in order to not attribute the quality of the responses to randomness.
 At temp 0 the AI gets as deterministic as it can get.
@@ -121,11 +122,15 @@ At temp 0 the AI gets as deterministic as it can get.
 If you are using three backticks as prefill, you can close the <thinking> codeblock by adding this to your regex settings (the three cubes on SillyTavern):
 ![yum](https://files.catbox.moe/we4e6z.png)
 
-Alternatively you can try hide thinking
+You can also try hiding <thinking> (fix the block beforehand)
 
 #### Hide <thinking>
 Add this to your regex settings 
-![u](https://files.catbox.moe/dpgyek.png)
+![u](https://files.catbox.moe/mx6gik.png)
+
+````
+/```\n<t[\s\S]*?g>\n```/g
+````
 
 Yep, these settings only hide the codeblock from your view, the text inside is actually kept and occupies Context tokens if you continue the conversation or export your chat to agnai/venus.
 As you may have noticed adding " \`\`\` " as prefill for claude breaks the <thinking> codeblock, if you want ST's regex to grab and hide the block, you will have to either write the three backticks on {{char}}'s response or erase the prefill

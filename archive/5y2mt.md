@@ -16,8 +16,8 @@
 	>==Audio== 
 	
 	>==Karaoke Clips==
-	> - **01/15 - Added**
-	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE] [4774gd3zEqE]](https://rentry.org/5y2mt/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe)
+	> - **01/26 - Added**
+	>- [#60. 『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]](https://rentry.org/5y2mt/#2024-01-25-1-million-subscriber-endurance-karaoke-%E6%AD%8C%E6%9E%A0oh-lets-do-this-7l_qvd9xdrk)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -1475,6 +1475,20 @@ Drummer Boy - Justin Bieber & Busta Rhymes | https://files.catbox.moe/wfuf79.mp4
 11. [Naraku no Hana - Eiko Shimamiya](https://youtu.be/4774gd3zEqE?t=6092)
 [Dear you (Acapella)](https://youtu.be/4774gd3zEqE?t=6393)
 [Dear you -Trust- (Acapella)](https://youtu.be/4774gd3zEqE?t=6440)
+
+***
+######『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]
+[Go back to the top](https://rentry.org/5y2mt)
+Song | Catbox | Cloudup
+------ | ------ | ----
+Mamma Mia - ABBA |  https://files.catbox.moe/eqswxg.mp4 |  https://cldup.com/ohexGfnlZS.mp4
+Through the Fire and Flames - DragonForce | https://files.catbox.moe/ummdpz.mp4  |  https://cldup.com/W4QmiM6HGP.mp4
+I Miss You - Blink-182 |  https://files.catbox.moe/n5hv41.mp4 |  https://cldup.com/T2p8arScs1.mp4
+Mountain Dew - In the Style of Grandpa Jones | https://files.catbox.moe/meudhe.mp4  |  https://cldup.com/KvuReBisOg.mp4
+Take Me Home, Country Roads - John Denver | https://files.catbox.moe/kegr99.mp4  |  https://cldup.com/7I_tuIvw0l.mp4
+A New Start - Nanashi Mumei | https://files.catbox.moe/jcx79z.mp4  |  https://cldup.com/_qlNesNkDo.mp4
+So Sick - Ne-Yo | https://files.catbox.moe/edwo2i.mp4  |  https://cldup.com/FLm0L3wL3k.mp4
+TiK ToK - Kesha |  https://files.catbox.moe/ftlcoa.mp4 |  https://cldup.com/O8jQZAYpM9.mp4
 
 ***
 ***

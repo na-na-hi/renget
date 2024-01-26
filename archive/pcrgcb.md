@@ -193,6 +193,16 @@ Labyrista 5★ Lv295 R31 No ML, UE MAX EX 5/5/5 (FULL works too)
 
 
 ### Boss 5
+[B5 Phys 75m - 2 manual inputs](https://www.youtube.com/watch?v=VYPF8-1b2xs)
+![](https://pomf2.lain.la/f/k1n8o3ju.png)
+Tested with: 
+Summer Mimi 5★ Lv295 R31 FULL, UE1 MAX, EX 5/5/5
+Croce 5★ Lv295 R31 FULL, EX 5/5/5 
+Princess Kokkoro 5★ Lv295 R31 Naked, UE1 MAX, EX 5/5/5 (FULL works too)
+Labyrista 5★ Lv295 R31 FULL, UE1 MAX EX 5/5/5 (FULL works too)
+NY.Misato 5★ Lv295 R31 no ML, UE1 MAX, EX 5/5/5 (FULL works too) 
+
+![B5 75m](https://pomf2.lain.la/f/6xk2mjzg.png)
 
 ## Carryover / Overflow
 [Playlist from ネブソク](https://www.youtube.com/playlist?list=PLZmWQnJpjP3V4cXZxpG1IX8Vq9FdU_F0h)

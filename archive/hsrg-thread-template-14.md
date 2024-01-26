@@ -3,22 +3,26 @@
 ***
 Previous: >>
 
-\>Version 2.0 "If One Dreams At Midnight" Special Program live on January 26, 19:30 (CST+8), 11:30 (GMT+0), 7:30 (EDT-4)
-https://www.twitch.tv/honkaistarrail
-https://www.youtube.com/watch?v=WHwBqhMlo3I
-https://www.youtube.com/watch?v=2iRam7fnPrg (JP)
+\>LIVESTREAM CODES
+TT9S28LK4QHP
+EA8BKR4JL93T
+LTQA2Q5249KF
 
 \>Download - https://hsr.hoyoverse.com/en-us/home
 
-\>1.6 Preview Page - https://act.hoyoverse.com/sr/event/e20231215version-92kbcf/index.html
+\>2.0 Preview Page - https://act.hoyoverse.com/sr/event/e20240126version-pp3ay8/index.html
+
+\>Version 2.0 "If One Dreams At Midnight" Special Program
+https://www.youtube.com/watch?v=WHwBqhMlo3I
+https://www.youtube.com/watch?v=2iRam7fnPrg (JP)
+
+\>Version 2.0 Music Video — "WHITE NIGHT"
+https://www.youtube.com/watch?v=U7W8QR9fsFw
+https://www.youtube.com/watch?v=KdbnaBhJs6Y
 
 \>Sweet Dreams Preview - "The Great Tatalov" 
 https://www.youtube.com/watch?v=nu9msYUXIeU
 https://www.youtube.com/watch?v=BnLoQrCFURI
-
-\>Dr. Ratio Trailer — "Supreme Idiocy"
-https://www.youtube.com/watch?v=-UZ0n2Tqiyw
-https://www.youtube.com/watch?v=Ms5u_lXJIAA
 
 \>Penacony Travel Promotion Cartoon: Tick-Tock! Come Dream With Us!
 https://www.youtube.com/watch?v=bozDsNXq1Og
@@ -36,6 +40,8 @@ https://www.youtube.com/watch?v=ieUxZHy6ICo
 \>Acheron (5\* Lightning Nihility) - https://www.hoyolab.com/article/24541891
 \>Aventurine (5\* Imaginary Preservation) - https://www.hoyolab.com/article/24561470
 \>Gallagher (4\* Fire Abundance) - https://www.hoyolab.com/article/24578989
+
+\>Web Event: "Welcome to The Reverie Hotel" - https://act.hoyoverse.com/sr/event/e20240126bookings-yom41k/index.html
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 2AQA294J5R37 

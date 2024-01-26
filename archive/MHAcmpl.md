@@ -102,6 +102,7 @@ Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (fur
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
 Suki HN Sukeban: https://desuarchive.org/tg/post/91670899/
 Nijimura Mahoko HN Cool Boost: https://desuarchive.org/tg/post/91685518/
+Runt HN Dust Devil: https://desuarchive.org/tg/post/91691942/
 
 ### Shiketsu Staff
 >Pro Heroes
@@ -205,6 +206,7 @@ Rui: https://archive.4plebs.org/tg/post/91197187/
 Kaori Kaoru: https://archive.4plebs.org/tg/post/91229075/
 Tomie: https://rentry.org/ddom6m82
 TechVision Elite 2023 - 43Vista UltraSmart 4K TV: https://desuarchive.org/tg/post/91654960/
+Suslik: https://desuarchive.org/tg/post/91699413/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -1062,6 +1064,18 @@ Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper): https://rentry.org
 The Roll Tournament: https://rentry.org/MHARollTournamentRound1
 The Roll Tournament 2: https://rentry.org/MHARollTournamentRound2
 The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether): https://rentry.org/zbtaxdfz
+The Tournament, Part Four!: https://rentry.org/b2v9nv4u
+The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp): https://rentry.org/pi72vzqf
+
+### The Tournament
+The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm
+Training for the Tournament (Flying Force, Archangel, Mirror Devil): https://rentry.org/d2d4o
+The Tournament Begins (Yamata, Archangel, Recoil, Maru(maru), Ryu-Kishi, Yako, Drone, Sunlight Man, Capture Cloth, Orbit, Crazy Train, Hydra, and various other minor appearances): https://rentry.org/d5urh +Extended Edition https://rentry.org/mcymhatournament
+Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others): https://rentry.org/4i5gm
+The Tournament Continues!: https://rentry.org/yngpn
+tournament fallout (The Clique): https://rentry.org/cb5b29
+Tournament Part 3: https://rentry.org/hpe3v
+The Tournament, Part Four!: https://rentry.org/b2v9nv4u
 
 ### First Test
 Compilation: https://pastebin.com/66ByP2sD

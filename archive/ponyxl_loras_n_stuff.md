@@ -106,6 +106,8 @@ https://files.catbox.moe/pr6abi.safetensors menma
 https://files.catbox.moe/3exvuz.safetensors nullmeta
 https://files.catbox.moe/mlziu8.safetensors Megami_Magazine
 https://files.catbox.moe/oqhdry.safetensors nyantcha
+https://files.catbox.moe/8i49kc.safetensors shirow
+https://files.catbox.moe/rp7cbf.safetensors onono_imoko
 
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
@@ -114,6 +116,7 @@ https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime
 https://files.catbox.moe/b4wk0u.zip Megami_Magazine flat anime style
 https://files.catbox.moe/zxvyki.7z nyantcha
 https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
+https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -269,6 +272,14 @@ mugi_\(banban53\)
 mana_kakkowarai 
 
 last tried was yanyan_\(shinken_gomi\)
+
+##Innate Characters
+An anon went through the trouble of compiling a  list of characters known to the model, these are not comprehensive it seems to know hundreds if not thousands of characters. Pretty much any popular female character from a popular franchise has a good chance of being known to the model, movies, video games, and tv shows are a good source.
+
+Females: https://files.catbox.moe/oklpz8.txt
+Males: https://files.catbox.moe/1lptzn.txt
+Female Pokemon: https://files.catbox.moe/sljtm8.txt
+Male Pokemon: https://files.catbox.moe/ka331j.txt
 
 ##LoRA training
 I'm currently running sdxl_train_network.py with the following settings to train on a 4090 using about 13.8 GB VRAM. This obviously isn't the only way to run it and maybe my settings could be improved, feel free to express your opinion in /hdg/.

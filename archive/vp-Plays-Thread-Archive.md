@@ -388,5 +388,7 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[End]** *Never again (until postgame releases, haha...)*](https://arch.b4k.co/vp/thread/55287461/)
 
 ###->Unbound<-
-!!! warning
-	**Status: Not started yet**
+!!! info
+	**Status: In Progress**
+[**[1]** *A much needed not dogshit game after Soulstones*](https://arch.b4k.co/vp/thread/55304175/)
+[**[2]**](https://arch.b4k.co/vp/thread/55313660/)

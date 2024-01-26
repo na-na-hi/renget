@@ -1,4 +1,5 @@
 ## Get your %red%de%%%green%su%% here!
+### And /a/ic/g/ watchalong ~desu!
 #### Order:
 ***
 1. **Rozen Maiden (Anime, 2004)**
@@ -31,7 +32,7 @@
 ##### -> [Official news](https://twitter.com/rozen_official) <-
 ##### ->  [Third-party shitty wiki](https://rozenmaiden.fandom.com/wiki/Rozen_Maiden_Wiki) <-
 ##### ->  [Rozen Maiden Booru](https://rmbooru.org/) [(Backup)](https://rm.booru.org) <-
-##### ->  [Discuss it on the current main imageboard - /rozen/ (Come post some desu!)](https://zzzchan.xyz/rozen/index.html) <-
+#### ->  [Discuss it on the current main imageboard - /rozen/ (Come post some desu!)](https://zzzchan.xyz/rozen/index.html) <-
 
 %#b5bd68%>where is...%%
 It's a WIP, you retard.

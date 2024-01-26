@@ -84,7 +84,7 @@ steps数ごとの変化
 ![Image](https://files.catbox.moe/kc53e5.jpg)
 prodigyは学習が速いっていう人いるけどむしろ遅いような・・・設定の問題なのかな？
 
-ProdigyはDyLoRAを使わないならあまり意味はなさそう。
+ProdigyはDyLoRAを使わないかデータセットが大きいならあまり意味はなさそう。
 
 ### キャラは層別でOUT03-06だけでいいかも
 ![Image](https://files.catbox.moe/s7y1mf.jpg)
