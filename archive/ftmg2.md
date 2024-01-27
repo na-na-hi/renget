@@ -1,6 +1,7 @@
+#How we knew (Stories)#
 ->**Archived from: https://archive.is/fV6S9**<-
 
-All stories are written in the contributor's own words and may contain triggers.
+->==All stories are written in the contributor's own words and may contain triggers.==<-
 
 (1)
 My family and I should have probably noticed something was up way earlier than any of us ever did. I actually beat someone up for suggesting that I might be growing boobs. For some reason I always figured if I willed it hard enough I'd Disney-magic myself out of girl puberty, too. Did some therapy against my will due to that whole being-a-minor thing, but nothing ever came of it because I just plain didn't want to talk about anything. I had video games to play, dammit, and this counseling was eating up valuable hours of my time. Of note, back then, I was such a weird kid that nobody really assigned very gendered roles to me growing up. Maybe I just didn't have a lot of opportunities to experience dysphoria the typical way.

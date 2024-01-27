@@ -74,6 +74,7 @@ Picture | Name | Description | Links
 ![](https://files.catbox.moe/jev40c.png) | Terre | This little minotaur only wants acceptance! Only problem is, he also really wants to cum! | [Catbox](https://files.catbox.moe/jev40c.png) [Booru](https://booru.plus/+pygmalion2259) [C.Hub](https://www.chub.ai/characters/jabootypower/Terre/main)
 ![](https://files.catbox.moe/9bhtv7.png) | Retsu Kaiou | muh 4000 years of chinese kenpo! Tested on Claude only. | [Catbox](https://files.catbox.moe/9bhtv7.png) [Booru](https://booru.plus/+pygmalion2649) [C.Hub](https://www.chub.ai/characters/jabootypower/retsu-kaiou-f33e91b3/main)
 ![](https://files.catbox.moe/vrc4jt.png) | Ren Amamiya | Lookin' good, Joker! Leader of the Phantom Thieves of Hearts! FemPoV based | [Catbox](https://files.catbox.moe/vrc4jt.png) [C.Hub](https://www.chub.ai/characters/jabootypower/ren-amamiya-3dea04ca/main)
+-> ![](https://files.catbox.moe/nkq7xy.png) <- | Ellis | "I ever tell you 'bout the time my buddy Ellis stole a race car from the mall and drove it over some zombies?" | [Catbox](https://files.catbox.moe/nkq7xy.png) [C.Hub](https://www.chub.ai/characters/jabootypower/ellis-eb0ca749/main)
 
 #Futa
 Picture | Name | Description | Links

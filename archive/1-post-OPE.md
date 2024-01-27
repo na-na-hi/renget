@@ -6,15 +6,14 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 229th time, what is Ope?!
+For the 230th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Dota 2 collab with Fauna, Bijou, Calliope and Kobo, Fri 01/26 9PM CT)
+Next stream: "KUUKIYOMI: Consider It" (Sat 01/27 7PM CT)
+Last stream (Dota 2 collab with Fauna, Bijou, Calliope and Kobo)
 https://www.youtube.com/watch?v=WE-rTxTaunE
-Last stream (Inside the Backrooms Advent collab)
-https://www.youtube.com/watch?v=TxNKFkFNX9Y
 Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 
@@ -41,7 +40,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67519878
+Previous thread: >>67600313
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

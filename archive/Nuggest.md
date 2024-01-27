@@ -19,11 +19,11 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Recent Updates:
+	27.01.24: Added new card 'Luna' under Unreleased Cards
 	26.01.24: Added new card 'Yumiko'
 	17.12.23: Added new card 'Merry'
 	06.11.23: Added new card 'Yumi' under Unreleased Cards
 	17.09.23: Made significant update to 'Elia' - v0.2 available under Unreleased Cards
-	13.09.23: Added new card 'Amelia 'Quickstep' Brooks' under Unreleased Cards
 
 
 ***
@@ -105,6 +105,8 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
     Stuff not found on Chub. Pre-releases, prototypes, scraped cards, etc.
 |  |  | 
 | ------ | ------ |
+| **Luna** | https://files.catbox.moe/whnt2n.png |
+| ![Luna](https://files.catbox.moe/whnt2n.png) | **[Nuggest's Eldritch Adventures Vol.1] In this incarnation, you saved a kingdom from the invading demon horde. As reward for your assistance, the king offered his daughter's hand to you. She expected a grotesque monster, but you do not quite fit the image...** [v0.2, Claude 2 23.12.23] |
 | **Yumi** | https://files.catbox.moe/w16jzt.png |
 | ![Yumi](https://files.catbox.moe/w16jzt.png) | **Simple and lightweight saviorfagging card. An abused schoolgirl who ran from home. She's soaked and shivering in the rainy night when you pull up to her.** [v0.1, Claude 2 06.11.23] |
 | **Elia** | https://files.catbox.moe/rfc2mg.png |

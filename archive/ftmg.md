@@ -1,7 +1,3 @@
-***
-Updates by: 
->![AnonM](https://files.catbox.moe/mjz2mm.png)
-
 ##OP Template#
 Copy and paste the following:
 #Thread Subject:#
@@ -18,6 +14,9 @@ Previous Thread:
 Thread Theme: 
 Question of the Thread:
 
+▶ /ftmg/ tapmap:
+https://tagmap.io/tag/ftmg
+
 ▶Info:
 Am I Trans? https://rentry.org/ftmg1
 How we knew (Stories): https://rentry.org/ftmg2
@@ -29,11 +28,7 @@ https://rentry.org/ftmghrt
 https://rentry.org/ftmgpassing
 
 ▶Workout Plan:
-Workout Plan Spreadsheet: https://rentry.org/ftmgworkout
-How to Start Working Out - FTM Fitness: https://youtu.be/ODvoOmpKW3w
-FTM Fitness Day 1 (Chest, Shoulders, & Triceps): https://youtu.be/bU9zbDzGPlo
-FTM Fitness Day 2 (Back, Traps, & Biceps): https://youtu.be/LJxfaZZBWdQ
-FTM Fitness Day 3 (LEGGGGG DAY): https://youtu.be/BVSrBHit4dQ
+Workout Plan Spreadsheet + Videos: https://rentry.org/ftmgworkout
 
 ▶Surgery Information:
 The Ultimate FTM Top Surgery FAQ: https://www.topsurgery.net/faq/

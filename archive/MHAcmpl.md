@@ -149,6 +149,7 @@ Atsushi Nabiki/HN: Shelong: https://archive.4plebs.org/tg/post/91008430/
 Tosuke Jinai HN Compound: https://archive.4plebs.org/tg/post/91016593/
 Yosuke Shirai HN The Lustrous Hero, Wavelength: https://archive.4plebs.org/tg/post/91032513/
 Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
+Kiki HN Yggdrasil: https://desuarchive.org/tg/post/91707234/
 
 ### Villains
 >Night Parade
@@ -183,6 +184,13 @@ Maddie Griffiths VN "Mad Oxe"/"Maddox": https://archive.4plebs.org/tg/post/88930
 "Nightmare": https://archive.4plebs.org/tg/post/88984422
 Eugene Kurtz VN "Pax": https://archive.4plebs.org/tg/post/88984432
 "Mercy": https://archive.4plebs.org/tg/post/88984432
+>Europe
+Ivan Trup VN The Prophet: https://desuarchive.org/tg/post/91702348/
+Ryuji Ayanokoji VN Overlord: https://desuarchive.org/tg/post/91702476/
+Jack Smithee VN The Gravedigger: https://desuarchive.org/tg/post/91702656/
+Zyra Mein VN Braindrain: https://desuarchive.org/tg/post/91702779/
+Rudi Brandt VN Sturmtruppe: https://desuarchive.org/tg/post/91703057/
+Bonzo Amato VN The Boss: https://desuarchive.org/tg/post/91703456/
 >Unaffiliated
 Bruno Garcia VN "Mauler": https://archive.4plebs.org/tg/post/88206714
 Nakata Yumiko VN "Thrill Seeking Thief: Walpurgis": https://archive.4plebs.org/tg/post/88195749 (further information at https://pastebin.com/nMZq81Jt)
@@ -660,6 +668,7 @@ least oppressed christian: https://desuarchive.org/tg/post/91654550/
 drekus: https://desuarchive.org/tg/post/91681250/
 hitomi hiromi(Feral): https://desuarchive.org/tg/post/91681260/
 sandatsu new costume: https://desuarchive.org/tg/post/91681266/
+Shower Ambush: https://desuarchive.org/tg/post/91703153/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -1066,6 +1075,8 @@ The Roll Tournament 2: https://rentry.org/MHARollTournamentRound2
 The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether): https://rentry.org/zbtaxdfz
 The Tournament, Part Four!: https://rentry.org/b2v9nv4u
 The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp): https://rentry.org/pi72vzqf
+corporategirlies (Hivemind): https://rentry.org/o3crsn3e
+Suki intro: http://rentry.org/t3q5h6wk
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

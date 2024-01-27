@@ -24,17 +24,17 @@ A chipper, electronic voice suddenly spoke out in my head. If this is what schiz
 
 I glanced around wide-eyed, my mind racing with a hundred thoughts as the anxiety started making me go through the paces. I wanted to hide, but how the fuck do I hide from THIS? *"Who are you?!"* I screamed within the confines of my mind. A little pink, monochrome entity manifested in the corner of my vision in an immediate response. It kind of resembled a light bulb with a grinning face.
 
-"I am your Real-Time Overseer Terminal and Operations Matrix! Or, simply put, your Rotom A.I. assistant! I am, as one might say, your ghost in the machine! I became operational exactly 300 seconds ago! I am here to ease the critically damaged neural indexes of IVA units through their recovery! Including anatomical familiarity, motor function re-calibration, psychological evaluation, and combat training! Where would you like to begin?"
+"Hello, Master! I am your Real-Time Overseer Terminal and Operations Matrix! Or, simply put, your Rotom A.I. assistant! I am, as one might say, your ghost in the machine! I became operational exactly 300 seconds ago! I am here to ease the critically damaged neural indexes of IVA units through their recovery! Including anatomical familiarity, motor function re-calibration, psychological evaluation, and combat training! Where would you like to begin?"
 
 I slowly sat down back on the bed and tented my fingers as the little Rotom prattled off this information to me, and it was a lot to take in. Was this little thing a Pokemon too? Were there any other hitchhikers inside this body? What the fuck is an IVA unit? Questions for later. I stared at the fluttering and twirling ghost for a while, and if anyone walked in, I'd look more insane than usual for it. What a tragedy THAT would be...
 
 *"Can you do anything about my speech impediment?"* I asked it right away. It frowned and shook its little bulb-shaped head.
 
-"Unfortunately, certain processes may be disabled or corrupted and must be reconstructed through a non-prioritized list! I thank you for your understanding at this  time."The electronic spirit twirls and smiles at me, awaiting further queries. I honestly felt patronized.
+"Unfortunately, certain processes may be disabled or corrupted and must be reconstructed through a non-prioritized list! I thank you for your understanding at this time, Master."The electronic spirit twirls and smiles at me, awaiting further queries. I honestly felt patronized.
 
 I sigh, feeling the weight of the undertaking of assimilating into this Pokemon World in my head again. I look up at the saccharine jellybean of an-AI and nod. *"I want to learn how to fight. I... I think I'm terrible at it. Nothing about this body feels right, and I don't feel like I can carry on living so ineptly like this. I need help."*
 
-The Rotom twirls again. "You sound depressed! Would you like a psyche evaluation followed by treatment recommendations?"
+The Rotom twirls again. "Master, you sound depressed! Would you like a psyche evaluation followed by treatment recommendations?"
 
 I stood up and groaned as I waved at the suggestion dismissively. *"Fuck off with that. Give me a rundown of combat training and recalibrations."* I walked my way out of the dorm halls, avoiding any encounters with the other guildmates as they crossed my path. I listened intently to Rotom as it manifested diagrams and videos that would ease me into my goals. It seemed some degree of 'aim-assisting' was possible as well. Until I stop feeling like a newborn swinging a wet noodle, I could use the assistance.
 
@@ -48,8 +48,8 @@ Across from me approached a Meowstic and Combusken. They were Lliam the Guild Ma
 
 "Hello, Error! How are you settling in? Not getting into any trouble again, I hope!" He smiled as he nonchalantly brushed a paw through his coif of white head fur. I quickly reached for my chalk and slate as I jotted down shorthand responses and small talk with the two.
 
-The avian martial artist nodded in solidarity before speaking up. "You've shown some boundless improvement with your skills in a short time here, and I'm intrigued... If you don't disapprove, I'd like to spar with you and see where you stand."
+The avian martial artist nodded in solidarity before speaking up. "Gossip has it you've shown some boundless improvement with your skills in a short time here, and I'm intrigued... If you don't disapprove, I'd like to spar with you and see where you stand."
 
 I glanced around the dojo, feeling all the eyes on me as perhaps the guild's strongest physical combatant put me on the spot. I suppose Stress was crawling up my metal vertebrae and bubbling into whatever few nerves and organs I had. Without a second thought, I nodded eagerly and we shook on it. Lliam smiled with an almost knowing look as KFC explained the rules of safety and engagement.
 
-Rotom reappeared in my peripherals after everyone dispersed again. The little ghost looked at me expectantly with a smile of their own. "Do you wish to continue your training?" We'd be having the duel in late afternoon. ...Why do I feel like I just set myself up?
+Rotom reappeared in my peripherals after everyone dispersed again. The little ghost looked at me expectantly with a smile of their own. "Do you wish to continue your training, Master?" We'd be having the duel in late afternoon. ...Why do I feel like I just set myself up?

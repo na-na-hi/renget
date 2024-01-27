@@ -212,6 +212,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * Error the Iron Valiant
 	* [I am Error](https://rentry.org/ironvaliant1)
 	* [I am Error pt. 2](https://rentry.org/ironvaliant2)
+	* [I am Error pt. 3](https://rentry.org/ironvaliant3)
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
@@ -568,6 +569,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Learning to Fly ch. 4 (ft. Booker)](https://rentry.org/RibombeeFly4)
 * [I am Error](https://rentry.org/ironvaliant1)
 * [I am Error pt. 2](https://rentry.org/ironvaliant2)
+* [I am Error pt. 3](https://rentry.org/ironvaliant3)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

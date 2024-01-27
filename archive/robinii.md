@@ -9,4 +9,4 @@
 **5.** Like or justify toxic relationships such as Joker and Harley, believe everyone with a personality disorder (or a disorder in general) are abusers, you avoid interacting with people who have NPD
 **6.** You fakeclaim people's experiences if you genuinely don't even know them/don't have reasonable proof.
 
--> [Back. . .](https://rentry.co/bludhavenpd) <-
+-> [Back. . .](https://rentry.co/sonofgothamcity) <-

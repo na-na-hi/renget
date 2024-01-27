@@ -10,6 +10,9 @@ translated from 月光中心
 
 click image to jump to valk
 
+!!! info 7.2 Phase 1
+[![fovbas](https://i.imgur.com/LbhPwsL.png)](https://rentry.org/ElysianRealm#fenghuang-of-vicissitude-basic)
+
 !!! info 7.1 Phase 1
 
 [![ceparry](https://i.imgur.com/ZsdFs1u.png)](https://rentry.org/ElysianRealm#cosmic-expression-parry)[![cebasic](https://i.imgur.com/Sn77ssq.png)](https://rentry.org/ElysianRealm#cosmic-expression-basic)[![sivalk](https://i.imgur.com/zTNiAN3.png)](https://rentry.org/ElysianRealm/#starry-impression)[![hofiulti](https://i.imgur.com/1kkFjck.png)](https://rentry.org/ElysianRealm#herrscher-of-finality-ulti)[![jkvalk](https://i.imgur.com/GVoIbpv.png)](https://rentry.org/ElysianRealm/#jade-knight)[![hohulti](https://i.imgur.com/caM1tzT.png)](https://rentry.org/ElysianRealm/#herrscher-of-human-ego-fast-ulti)[![lvbas](https://i.imgur.com/ieByziF.png)](https://rentry.org/ElysianRealm#lunar-vow-crimson-love-basic)[![rcvalk](https://i.imgur.com/IVAPcWN.png)](https://rentry.org/ElysianRealm/#reverist-calico)[![horbde](https://i.imgur.com/6OthtEm.png)](https://rentry.org/ElysianRealm#herrscher-of-rebirth-decay)[![vqvalk](https://i.imgur.com/JCF8xBf.png)](https://rentry.org/ElysianRealm#valkyrie-quicksand-weapon)[![dwflag](https://i.imgur.com/cuSpaSa.png)](https://rentry.org/ElysianRealm#dreamweaver-flag)[![frvalk](https://i.imgur.com/EhvFLKH.png)](https://rentry.org/ElysianRealm/#fallen-rosemary-ss2)[![hotrwep](https://i.imgur.com/JQflhZv.png)](https://rentry.org/ElysianRealm#herrscher-of-truth-weapon)[![cnvalk](https://i.imgur.com/XdO7pHu.png)](https://rentry.org/ElysianRealm/#chrono-navi)
@@ -55,6 +58,49 @@ click image to jump to valk
 
 
 Some battlesuits will no longer be recommended as they have been tested and their performance are not as good, so they have been excluded. If their performance improves in the future they will be added again. All builds are recommended 2.5 unless stated.
+
+#->Fenghuang of Vicissitude basic<-
+->![fovbas](https://i.imgur.com/3ciVWrX.png)<-
+-><-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Torch of Eons: Skyfire | Ordinary Days set
+
+Cost | Effect
+------ | ------
+0 | Parvati
+15 | Max HP breach
+15 | Weapon type DMG bonus    
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+VC | VKE | Utility
+BR | AE / MA | Damage
+
+Time | Sigil 
+------ | ------ 
+Start | Mad King's Mask / An Old Pal's Legacy 
+1st Shop | Light as a Bodhi Leaf / An Old Pal's Legacy 
+16F | Heavy as a Million Lives / An Old Pal's Legacy 
+
+##->Ego Signets<-
+ Attainment 极诣 | Arcane Traces 玄迹 | Observation 观化 | Vermillion Fire 朱炎 | Unbroken Rampart 亘绝
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **Start** | 2nd | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices; recommended to pick all enhanced
+2nd | Su1 | Vulnerability, both combo boosts, TDM are the key choices, unlock nexus ; can pick vulnerability from enhanced
+2nd | Hua2 |  Breach, both damage boosts, are the key choices, unlock nexus 
+2nd | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus 
+Optional | Griseo1 | Red Yellow Grey are the key choices, don't need nexus; can also pick Kosmos2 nexus (basic atk, ultimate) as reinforcement
+
+!!! info Recommended to swap sigil on 6F, get Kalpas on 7F; Rotation:  tap weapon around every 12s, use ultimate when available, use basic atk rest of the time; lower level runs can use Su + Griseo breach to replace Hua
 
 #->Cosmic Expression parry<-
 ->![ceparry](https://i.imgur.com/CD8UsFP.png)<-

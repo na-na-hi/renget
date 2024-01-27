@@ -1,14 +1,16 @@
-This rentry guide is still a WIP so if you have any ideas and would like to provide resources or advice please post in the main thread: https://boards.4chan.org/lgbt/mtfg
+#/mtfg/ - Male To Female General#
 
-Updates by: 
->![Hibari-kun](https://files.catbox.moe/qru7o6.png)
-##OP Template#
-Copy and paste the following:
-#Thread Subject:#
+->This rentry guide is still a WIP so if you have any ideas and would like to provide resources or advice please post in the main thread: 
+https://boards.4chan.org/lgbt/mtfg<-
 
-/mtfg/ - male to female general
+->>![Hibari-kun](https://files.catbox.moe/qru7o6.png)<-
+#OP Template#
 
-#Thread Body, Main Opening Post:#
+->%red%Copy and paste the following:%%<-
+
+***Thread Subject:*** /mtfg/ - male to female general
+
+***Thread Body:***
 
 /mtfg/ OP: https://rentry.org/mtfg
 
@@ -27,14 +29,12 @@ HRT Information: https://rentry.org/mtfghrt
 For additional HRT information, please visit >>>/lgbt/hrtgen
 
 ▶Style/Passing:
-Video Guides: https://rentry.org/mtfgfashion
+Fashion Guides (Videos): https://rentry.org/mtfgfashion
 Basic Skincare and Makeup: https://rentry.org/mtfgskinmakeup
  I'm tall! Where can I find clothes that fit?: https://rentry.org/mtfgclothes
 Voice Videos/Training: https://rentry.org/mtfgvoice
 
 ▶Misc:
-Trans women have woman brains: https://youtu.be/8QScpDGqwsQ
+Trans women have woman brains (Video): https://rentry.org/mtfgbrain
 
-▶Timelines:
-Coming Soon™
 !!!>By posting in this thread you deny that repression is a valid treatment for gender dysphoria, denounce and fully condemn eternal boymoding/MANMODING out of your own volition.

@@ -6,4 +6,4 @@
 
 -> Artists I like include [Simone Di Meo](https://twitter.com/SimoneDiMeo_)!!, [Kohaikarma](https://www.instagram.com/krispykouhai/?hl=en), [Grace Doodles](https://www.youtube.com/@gracedoodless/videos), [Forest Whisker](https://www.youtube.com/@forestwhisker) and many more but I can only remember them off the top of my head. <-
 
--> [Back. . .](https://rentry.co/bludhavenpd) <-
+-> [Back. . .](https://rentry.co/sonofgothamcity) <-

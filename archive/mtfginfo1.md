@@ -1,4 +1,5 @@
-#Originally taken from: https://archive.ph/cGXtY#
+#What to do if I am questioning my gender?#
+->Originally taken from: https://archive.ph/cGXtY <-
 
 I very frequently see people who are questioning their gender asking the same thing (not that it is bad that they ask these questions), and who get caught up in certain aspects of this.
 

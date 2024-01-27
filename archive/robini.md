@@ -16,4 +16,4 @@
 **4.** Avoid questioning me about my religion and what I believe in. Don't try to convert me either I don't know why you would even do that???
 **5.** Do not flirt with me with romantic or sexual intent. Platonic affection is fine. Public Displays of Affection depends but is generally a no unless I say otherwise.
 
--> [Back . . .](https://rentry.co/bludhavenpd) <-
+-> [Back . . .](https://rentry.co/sonofgothamcity) <-

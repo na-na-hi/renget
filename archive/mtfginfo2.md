@@ -1,4 +1,5 @@
-#Originally Taken from: http://archive.li/PG34m#
+#What is Gender Dysphoria?#
+->Originally Taken from: http://archive.li/PG34m <-
 
 I see so much misinformation here and elsewhere online regarding what dysphoria is or isn't, or whether or not it is necessary for transition. Here is a link to the APA website which contains the DSM-5 criteria.
 

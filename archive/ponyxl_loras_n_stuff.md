@@ -103,11 +103,14 @@ https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
 https://files.catbox.moe/pr6abi.safetensors menma
-https://files.catbox.moe/3exvuz.safetensors nullmeta
+https://files.catbox.moe/pzrhxx.safetensors nullmeta
 https://files.catbox.moe/mlziu8.safetensors Megami_Magazine
 https://files.catbox.moe/oqhdry.safetensors nyantcha
 https://files.catbox.moe/8i49kc.safetensors shirow
 https://files.catbox.moe/rp7cbf.safetensors onono_imoko
+https://files.catbox.moe/5pw11p.safetensors error1980
+https://files.catbox.moe/xdmcjd.safetensors non_(z-art)
+https://files.catbox.moe/2cl9sq.safetensors tsukumizu_yuu
 
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
@@ -117,6 +120,8 @@ https://files.catbox.moe/b4wk0u.zip Megami_Magazine flat anime style
 https://files.catbox.moe/zxvyki.7z nyantcha
 https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
+https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980
+
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
