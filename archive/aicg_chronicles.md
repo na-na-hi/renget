@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-25==
+# /aicg/ chronicles, up to ==2024-01-27==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1052,6 +1052,14 @@ When | Where | What
 2024-01-25|[98645448](https://desuarchive.org/g/thread/98644059#98645448)| Silly adds per-lorebook-entry activation settings
 2024-01-25|[98649001](https://desuarchive.org/g/thread/98647089#98649001)| HF and Google partner for open AI collaboration
 2024-01-25|[98650990](https://desuarchive.org/g/thread/98649488#98650990)| new GPT4 Turbo snapshot (filtered), GPT3.5 Turbo becomes even cheaper, API keys managing and moderation update
+2024-01-26|[98662722](https://desuarchive.org/g/thread/98662533#98662722)| the change in so called "laziness" of GPT4 Turbo explained
+2024-01-26|[98664931](https://desuarchive.org/g/thread/98662533#98664931)| a script automating the process of character creation shared
+2024-01-26|[98666532](https://desuarchive.org/g/thread/98665612#98666532)| anons reminisce about simWaifu
+2024-01-26|[98662510](https://desuarchive.org/g/thread/98660209/#98662510)| OAI's way to ensure deterministic outputs is brought to attention
+2024-01-26|[98668123](https://desuarchive.org/g/thread/98665612#98668123)| server-personification project updated to allow Google search via SerpApi
+2024-01-26|[98670935](https://desuarchive.org/g/thread/98670917#98670935)| Gemini Pro beats GPT 4 according to human preference votes
+2024-01-27|[98676519](https://desuarchive.org/g/thread/98675926#98676519)| pygmalion\.chat, public character repository moderated and SFW only, but anything goes as long as it's private
+2024-01-27|[98676707](https://desuarchive.org/g/thread/98675926#98676707)| ChatGPT has group chats now
 -|-|-
 
 [](you have found my secret stash of nothing!)

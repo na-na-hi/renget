@@ -2,10 +2,8 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Quick Update (01/17/24)
-	**Updated info, Kawa Entertainment added to defunct list**
-	**Moved defunct agencies into their own section**
-	**Added new upcoming members**
+!!! warning Quick Update (01/27/24)
+	**Sweep through Updated info, if I missed something, ill fix it later, my brain is fried from looking at the rentry background at this moment.**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -44,11 +42,11 @@ Amanogawa Shiina | X | X | -
 Himemiya Rie | X | X | -
 Komachi Panko | X | X | -
 Rinkou Ashelia | X | X | -
-Saya Sairroxs | - | - | - | -
-Runie Ruse | - | - | - | -
+Saya Sairroxs | X | - | X | -
+Runie Ruse | X | - | X | -
 Hikanari Hina | X | - | X | Too early bake according to anon, will test anyways
 Eimi Isami | - | - | - | -
-Muu Muyu | X | - | X | -
+Muu Muyu | X | X | - | Obviously its a little early so ill mark it as update needed.
 Kannagi Loki | - | - | - | Debut January 27th
 Kokoromo Memory | - | - | - | Debut January 27th
 Gram Pico | - | - | - | Debut January 27th
@@ -57,15 +55,14 @@ Kaminari Clara | - | - | - | Debut January 27th
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
-	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original), Nyatasha Nyanners, Projekt Melody, Veibae, Ironmouse, Silvervale, Zentreya, Kson
+	Amemiya Nazuna, Haruka Karibu, Henya the Genius, Geega (original), Nyatasha Nyanners, Projekt Melody, Veibae, Ironmouse, Silvervale, Zentreya, Kson, Apricot/Froot
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
-Apricot/Froot | X | X | X | Testing new one (12/11)
 Hime Hajime | - | - | -
 GeegaVS | X | X | - | Her VShojo outfit LoRA is a little scuffed, will need to be updated later.
 Kuro Kurenai  | - | - | -
-Matara Kan  | X | X | - | Early bakes weren't perfect (ex. Her antennae turn into wings), so once theres much more art and content, a V2 would be nice.
+Matara Kan  | X | X | X | Early bakes weren't perfect (ex. Her antennae turn into wings), so once theres much more art and content, a V2 would be nice.
 
 ## -> Prism Project <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -99,7 +96,7 @@ Michimata Batoya | - | - | -
 
 ## -> 774inc <-
 !!! info Available Loras without the need of updates and have been tested.
-	Sougetsu Eli, Ryugasaki Rene, Shishio Chris, Kojo Anna, Oinomori May, Hebiyoi Tier, Shisui Kiki, Saionji Mary, Suzumi Nemo, Suou Patra, Tsukinoki Tirol, Kazami Kuku,
+	Sougetsu Eli, Ryugasaki Rene, Shishio Chris, Kojo Anna, Oinomori May, Hebiyoi Tier, Shisui Kiki, Saionji Mary, Suzumi Nemo, Suou Patra, Tsukinoki Tirol, Kazami Kuku, And Uge
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
@@ -119,7 +116,6 @@ Hashiba Natsumi | - | - | -
 Shiromiya Mimi | - | - | -
 Shimamura Charlotte | - | - | -
 Sekishiro Mico | - | - | -
-And Uge | X | X | X
 Kanade Kanon | - | - | -
 Kisaki Anko | - | - | -
 Camomi Camomi | - | - | -
@@ -140,18 +136,15 @@ Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Zumi Dokumi | - | - | -
 Mirri Saffire | - | - | -
-Blaise Shinryu | X | - | X
+Blaise Shinryu | X | X | -
 Amora Lumina | - | - | -
 Nanimo Navi | - | - | -
 
-## -> VSPO <-
+## -> VSPO (x) <-
 !!! info Available Loras without the need of updates and have been tested.
-	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met, Kaga Nazuna, Kogara Toto, Shiranami Ramune
+	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met, Kaga Nazuna, Kogara Toto, Shiranami Ramune, Yumeno Akari, Yano Kuromu
+!!! note 100%! PERFECT (for now)
 
-Chuuba | Has Lora | Update Needed | Testing | Comment
------- | ------ | ------ | ------ | ------
-Yumeno Akari | X | - | X
-Yano Kuromu | X | - | X | 
 
 ## -> Wactor <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -212,12 +205,11 @@ Nagase Yuka | - | - | -
 
 ## -> Brave Group <-
 !!! info Available Loras without the need of updates and have been tested.
-	Otodama Tamako
+	Otodama Tamako, Yumesaki Kaede
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Sakuragi Miria | - | - | -
-Yumesaki Kaede | X | - | X
 Domyoji Haruto | - | - | -
 Kazami Ryo | - | - | -
 Hiragi Ayaka | - | - | -
@@ -344,7 +336,7 @@ Marumochi Tsukimi | - | - | -
 Nekono Yukino | - | - | -
 Kulaku Lie | - | - | -
 Yumekawa Kanau | - | - | -
-Amakawa Hano | X | - | X
+Amakawa Hano | X | X | -
 Tsukushi Aria | - | - | -
 Bisui Syuka | - | - | -
 Coucourua Creil | - | - | -
@@ -468,12 +460,11 @@ Nika Linh Lan | - | - | -
 
 ## -> Vee + VeeMusic <-
 !!! info Available Loras without the need of updates and have been tested.
-	Anshinin Misa, Chikuwa, Syusetu Kohaku
+	Anshinin Misa, Chikuwa, Syusetu Kohaku, Anew Uparu, Geppaku Lui, Kujo Ringo
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Otokado Ruki | - | - | -
-Kujo Ringo | - | - | -
 Tulsi-Nightmare Madness IV | X | X | -
 Hinahoshi Airu | - | - | -
 Audrey Mina | - | - | -
@@ -483,7 +474,6 @@ Mew Garcia | - | - | -
 Shindouji Ako | - | - | -
 Sazanami Toa | - | - | -
 Aomiya Yozuri | - | - | -
-Anew Uparu | - | - | -
 Uriyone | - | - | -
 Cotonoha | - | - | -
 Luminous Sweet | - | - | -
@@ -491,7 +481,6 @@ Erai Amae | - | - | -
 Kitashirakawa Kakapo | - | - | -
 Yurikawa Yun | - | - | -
 Ameniwa Yae | - | - | -
-Geppaku Lui | - | - | -
 Kokuyou Lira | - | - | -
 Amakomo Linon | - | - | -
 Kanra Deity | - | - | -
@@ -539,16 +528,11 @@ Misma Ryzing | - | - | -
 
 ## -> OWOzu <-
 !!! info Available Loras without the need of updates and have been tested.
-	RakkunVT (Raakkun), KarmaVT (KarmaVT_), Chessi (Chessivt), Emi Kukis (Emikukis), SiriVT (sirivtuber), Hetto (Hettozu)
+	RakkunVT (Raakkun), KarmaVT (KarmaVT_), Chessi (Chessivt), Emi Kukis (Emikukis), SiriVT (sirivtuber), Hetto (Hettozu), Nott (Nott_VT), Shuby (Shubyuwu), Peiko Uki (PeikoVT), Funaby (FunabyVT), Vanya Kuroko (vanyakuroko)
 
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
-Nott (Nott_VT) | X | - | X
-Shuby (Shubyuwu) | X | - | X
 Kendo Murft (kendomurft) | - | - | -
-Peiko Uki (PeikoVT) | - | - | -
-Funaby (FunabyVT) | X | - | X
-Vanya Kuroko (vanyakuroko) | X | - | X
 
 ## -> Project: Memoire <-
 !!! info Available Loras without the need of updates and have been tested.

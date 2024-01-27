@@ -29,9 +29,17 @@
 - The biggest forum in the world devoted to video game piracy, it is a valuable source of games with a vast amount of knowledge.
 - [URL Safety Results](https://www.urlvoid.com/scan/cs.rin.ru/)
 
+### 🔗 [Abandonware Games](https://abandonwaregames.net/)
+- Archive that preserves and provides downloads of old games from various platforms.
+- [URL Safety Results](https://www.urlvoid.com/scan/abandonwaregames.net/)
+
 ### 🔗 [ElAmigos](https://elamigos.site/)
 - Every release is lossless, with no reencoding of the audio, video, or textures. A well-liked option for getting new PC games.
 - [URL Safety Results](https://www.urlvoid.com/scan/elamigos.site/)
+
+### 🔗 [FS-Repacks](https://www.fluxyrepacks.site/)
+- Download your favorite games with just one click, and bid farewell to tedious setups.
+- [URL Safety Results](https://www.urlvoid.com/scan/fluxyrepacks.site/)
 
 ### 🔗 [Game-2u](https://game-2u.com/)
 - Fantastic resource for video game downloads, it is a vital source for PC and other platforms, including ROMs for consoles as well.
@@ -67,9 +75,17 @@
 - Scene release site provides a plethora of free user-friendly hosters that are easily accessible. Eat, sleep, game, and repeat.
 - [URL Safety Results](https://www.urlvoid.com/scan/gload.to/)
 
+### 🔗 [Gnarly Repacks](https://rentry.org/gnarly_repacks)
+- Highly trusted name in the gaming community when it comes to game repacks.
+- [URL Safety Results](https://www.urlvoid.com/scan/rentry.org/)
+
 ### 🐐 [GOG Games](https://gog-games.to/)
 - Every game in the GOG library is free to download from a vast compendium of releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/gog-games.to/)
+
+### 🔗 [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/)
+- Nice hub to grab game repacks from! Although, it's worth noting that the selection is limited.
+- [URL Safety Results](https://www.urlvoid.com/scan/m4ckd0ge-repacks.site/)
 
 ### 🔗 [MagiPack Games](https://www.magipack.games/)
 - Retro, old-school, and vintage game repacks that are compatible with current Windows builds, keeping memories of what is now difficult to obtain.

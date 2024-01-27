@@ -187,6 +187,8 @@ https://rentry.org/Elephant_Sama_I_Kneel
 
 >The Tournament Main Segments:
 Phase 0: >>91664916
+Phase 1: >>91711005
+
 ```
 #Demon Eyes (3rd Run)
 ***

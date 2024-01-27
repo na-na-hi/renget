@@ -3,7 +3,7 @@
 ->This rentry guide is still a WIP so if you have any ideas and would like to provide resources or advice please post in the main thread: 
 https://boards.4chan.org/lgbt/mtfg<-
 
-->>![Hibari-kun](https://files.catbox.moe/qru7o6.png)<-
+->![Hibari-kun](https://files.catbox.moe/qru7o6.png)<-
 #OP Template#
 
 ->%red%Copy and paste the following:%%<-
@@ -36,5 +36,3 @@ Voice Videos/Training: https://rentry.org/mtfgvoice
 
 ▶Misc:
 Trans women have woman brains (Video): https://rentry.org/mtfgbrain
-
-!!!>By posting in this thread you deny that repression is a valid treatment for gender dysphoria, denounce and fully condemn eternal boymoding/MANMODING out of your own volition.

@@ -85,7 +85,7 @@ Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.pn
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 26/01/2024 | https://files.catbox.moe/6dtqf1.json
+Claude | 27/01/2024 | https://files.catbox.moe/468b37.json
 GPT-4 | ??/11/2023 | https://files.catbox.moe/s3gdrd.json
 
 -> **Based on https://rentry.org/characterprovider** <-
@@ -94,7 +94,7 @@ GPT-4 | ??/11/2023 | https://files.catbox.moe/s3gdrd.json
 #Impersonate
 ```
 <impersonate>
-For your next response you must impersonate and roleplay as Human's character, {{user}}. You must ONLY roleplay as {{user}}. Respond from a third person point of view and stay true to {{user}}'s character as described in #humans character. You may take creative liberties with {{user}}'s character as long as you don't stray too far away from how they usually act. Focus on describing {{user}}'s body language, actions they take and their dialogue, narration is obsolete for this role.
+For your next response you must impersonate and roleplay as Human's character, {{user}}. You must ONLY roleplay as {{user}}. Respond from a third person point of view and stay true to {{user}}'s character as described in #humans_character. You may take creative liberties with {{user}}'s character as long as you don't stray too far away from how they usually act. Focus on describing {{user}}'s body language, actions they take and their dialogue, narration is obsolete for this role.
 </impersonate>
 ```
 #New Chat
