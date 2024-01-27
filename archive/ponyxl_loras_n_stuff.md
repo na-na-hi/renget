@@ -16,7 +16,7 @@ https://files.catbox.moe/2kiajb.ps1
 https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003, you would have to look at the lora metadata to know what to prompt, there's flesh on the walls and stuff, fun to mess with
 
 ###Artists
-These don't require activation triggers unless otherwise stated
+These don't require activation triggers unless otherwise stated. Some of these had been previously uploaded to litterbox because they were too large for catbox. Unfortunately the links have expired, I've replaced them with resized versions that are just a couple ranks smaller so hopefully there's no quality loss. These replacement LoRAs have resized on the end of their names. I removed the original ones so people who were lucky enough to download them won't have them overwritten.
 
 https://files.catbox.moe/icbrs7.safetensors hungry_clicker
 https://files.catbox.moe/dqfgjc.safetensors shexyo
@@ -65,9 +65,9 @@ https://files.catbox.moe/wy3knx.safetensors Methonium
 https://files.catbox.moe/4i8oae.safetensors Oda_Non
 https://files.catbox.moe/b5eyg8.safetensors ratatatat74
 https://files.catbox.moe/frxmlo.safetensors Maron_Maron requires activation trigger "by maron maron"
-https://litter.catbox.moe/2pzrzq.safetensors Tsubasa_tsubasa
+https://files.catbox.moe/m764gt.safetensors Tsubasa_tsubasa_resized
 https://files.catbox.moe/g42ahp.safetensors tenk
-https://litter.catbox.moe/37msv2.safetensors tianliang_duohe_fangdongye
+https://files.catbox.moe/cos32m.safetensors tianliang_duohe_fangdongye_resized
 https://files.catbox.moe/ejcbc0.safetensors gud0c the signature is tagged, try putting signature in the negatives to try and keep it at bay
 https://files.catbox.moe/ccz6sl.safetensors mo_(kireinamo)
 https://files.catbox.moe/1dsnon.safetensors konpeto
@@ -96,7 +96,7 @@ https://files.catbox.moe/v8qsfh.safetensors mojihe
 https://files.catbox.moe/m7sa64.safetensors owner
 https://files.catbox.moe/rhlwp5.safetensors woohyoot
 https://files.catbox.moe/rhlwp5.safetensors yeehawt0wn
-https://litter.catbox.moe/smniao.safetensors nawakena example gen: https://files.catbox.moe/26uxu5.png
+https://files.catbox.moe/bj5m7b.safetensors nawakena_resized example gen: https://files.catbox.moe/26uxu5.png
 https://files.catbox.moe/opwfd2.safetensors slush
 https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
 

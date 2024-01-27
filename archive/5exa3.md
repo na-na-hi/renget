@@ -26,10 +26,10 @@
 	- Adjust rescale depending on the prompt, you can often get away with below 0.7
     - DDIM and UniPC do not function with rescale on auto1111 currently 
 
-### Comfyui
-- Connect your checkpoint to `Model sampling Discrete` then [`RescaleCFG`](https://github.com/comfyanonymous/ComfyUI_experiments)
+**If you are on Comfyui**
+- Connect your checkpoint/model to `Model sampling Discrete` then [`RescaleCFG`](https://github.com/comfyanonymous/ComfyUI_experiments)
 	- sampling: V_prediction
-You can also take the image I have [below](https://rentry.org/5exa3/#drag-and-drop-starter-workflows) and install missing nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager) but fair warning, I also use [efficiency nodes](https://github.com/jags111/efficiency-nodes-comfyui)
+You can also take the image I have [below](https://rentry.org/5exa3/#drag-and-drop-starter-workflows) and install missing nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 
 ##Oh, so you want anime?
 - Download [this Lyco](https://huggingface.co/CluelessC/hll-test/blob/main/lyco/hll6.3-fluff-a9.safetensors) and just add it the way you add LoRA
@@ -57,7 +57,6 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 	- `578 ~ 1088`
 	- It's pretty generous about handling lower and higher resolutions.
 	- 512x768 still viable but I mainly only do that for batch tests
-	- My drag and drops have about as high as I have tested without issue
 - Tagging system:
 	- HLL lets you use `Danbooru/e621`
 - VAE
@@ -80,10 +79,11 @@ Model | Artist Wildcards | Artist Examples | Tags | Changes
 	- Anthro, furry, fluff, tuft, paws, slit pupils
 
 ### Drag and drop starter workflows
-> ※ Will likely have to change the vae and lora
+> ※ Make sure to check model/VAE/LoRA/Upscaler
+> Featured is the A9 version with a 640x960 Resolution into a 2x upscale
 Auto1111 | ComfyUI&nbsp;&nbsp;
 :----: | :----:
- ![](https://files.catbox.moe/tihaoh.png) | ![](https://files.catbox.moe/mojsq3.png) 
+ ![](https://files.catbox.moe/yefcto.png) | ![](https://files.catbox.moe/0znfse.png) 
 
 ### You don't want to use the method above?
 

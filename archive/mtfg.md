@@ -1,21 +1,7 @@
-***
-!!! info **Index:**
-	[TOC2]
-Updates by: 
->![Anonette](https://catbox.moe/pictures/qts/1471262460053.png)
-##Emergency Baking Guide##
-!!! warning Emergency Baking Guide:
-	1. Threads are to be baked & announced as soon as the bump limit of 300 has been reached
-	2. If no new thread has been posted after bump limit but the current baker has NOT indicated they are done, please wait until around ~330 before announcing a new bake but create a bake when the thread is at least on page 8 and prior to 500 posts.
-	3. CTRL+F "bake" & "baking" in the thread to see if anyone else has already announced their intention to take over
-	4. If there is time, check the catalogue to see if no other bread is already prepared 
-	5. When announcing your intention to bake, make it obvious - e.g. "BAKING", "I WILL BAKE", etc. 
-	- To avoid thread splitting: She who announces first, shall bake... UNLESS either of the following apply:
-	*(1) The first to announce was an obvious troll 
-	(2) The first to announce was a tripfag*
-	6. Post links to your new thread in the previous one, & again, make it obvious - e.g., "NEW THREAD HERE >>[Thread Number]" 
-***
+This rentry guide is still a WIP so if you have any ideas and would like to provide resources or advice please post in the main thread: https://boards.4chan.org/lgbt/mtfg
 
+Updates by: 
+>![Hibari-kun](https://files.catbox.moe/qru7o6.png)
 ##OP Template#
 Copy and paste the following:
 #Thread Subject:#
@@ -24,45 +10,31 @@ Copy and paste the following:
 
 #Thread Body, Main Opening Post:#
 
-/mtfg/ - male to female general - X edition
+/mtfg/ OP: https://rentry.org/mtfg
 
 Previous Episode: 
 
-▶WARNING
-MANMODING is a cope and a trap! DO NOT FALL FOR IT!
-
-▶Question of the Thread:
-
-▶Thread Theme: 
-
-▶/mtfg/ OPs: 
-This OP: https://rentry.org/mtfg
-Alternate /mtfg/ pastebin: https://pastebin.com/eTh4cwQ0
+X edition
+Question of the Thread:
+Thread Theme: 
 
 ▶Info:
 What to do if I am questioning my gender? https://rentry.org/mtfginfo1
 What is Gender Dysphoria? https://rentry.org/mtfginfo2
 
 ▶Hormones:
-Basic HRT: https://apps.carleton.edu/campus/gsc/assets/hormones_MTF.pdf
-HRT ranges: http://www.hemingways.org/GIDinfo/hrt_ref.htm
-Powers Method: https://powersfamilymedicine.com/s/Healthcare-of-the-Transgender-Patient-V60.pptx
-HRT Info Sheets: https://1drv.ms/f/s!AudRJceTA5C9gQnyM7wxZcBGWRzW
+HRT Information: https://rentry.org/mtfghrt
 For additional HRT information, please visit >>>/lgbt/hrtgen
 
-▶Style:
- The Definitive Feminine Clothing Guide: https://youtu.be/_bBWVdCcfKo
-RE: The Definitive Feminine Clothing Guide: https://youtu.be/mPAhoTRcJ4o
- I'm tall! Where can I find clothes that fit?: https://americantall.com/collections/tall-womens-clothing-collection or https://www.asos.com/us/women/
+▶Style/Passing:
+Video Guides: https://rentry.org/mtfgfashion
 Basic Skincare and Makeup: https://rentry.org/mtfgskinmakeup
-
-▶Voice Training:
-Voice Resource Repository: https://wiki.sumianvoice.com/
- The Art of Voice Feminization Series: https://www.youtube.com/playlist?app=desktop&list=PLYJkVI7LLpknvBww07jnsxbz-_Lkynsry
+ I'm tall! Where can I find clothes that fit?: https://rentry.org/mtfgclothes
+Voice Videos/Training: https://rentry.org/mtfgvoice
 
 ▶Misc:
 Trans women have woman brains: https://youtu.be/8QScpDGqwsQ
 
 ▶Timelines:
 Coming Soon™
-!!!>By posting in this thread you deny that repression is a valid treatment for gender dysphoria, denounce and fully condemn MANMODING out of your own volition; and you are prohibited from posting here if you have a reddit account.
+!!!>By posting in this thread you deny that repression is a valid treatment for gender dysphoria, denounce and fully condemn eternal boymoding/MANMODING out of your own volition.

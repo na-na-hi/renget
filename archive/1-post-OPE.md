@@ -11,12 +11,11 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-▼ Upcoming streams
-Fri 01/26 6PM CT: Inside the Backrooms Advent collab
-Fri 01/26 9PM CT: Dota 2 collab with Fauna, Bijou, Calliope and Kobo
-▼ Last stream (Stardew Valley)
-https://www.youtube.com/watch?v=qGEyKRT9Oj0
-▼ Last member stream (zatsudan & ASMR)
+Next stream (Dota 2 collab with Fauna, Bijou, Calliope and Kobo, Fri 01/26 9PM CT)
+https://www.youtube.com/watch?v=WE-rTxTaunE
+Last stream (Inside the Backrooms Advent collab)
+https://www.youtube.com/watch?v=TxNKFkFNX9Y
+Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 
 \>Cover of Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover)

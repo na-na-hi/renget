@@ -2833,3 +2833,203 @@ https://t.me/megatron_ron/1356  1/25/25
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.cz/AryJeay/status/1750670891027923378#m  1/25/25
+
+>🚨🇾🇪 Attack against a ship, with at least 2 missiles, southwest of Aden (Yemen)
+https://nitter.net/AryJeay/status/1750846772325331444#m  1/26/24
+
+>🟡| BREAKING: Hezbollah announces targeting the “Ma’aleh Golan” IOF base at 1 PM today, with a “Falaq-1” rocket, achieving direct hits.
+https://nitter.net/AryJeay/status/1750856657691615250#m  1/26/24
+
+>🛑 | 🇮🇶 An important statement by the Islamic resistance in Iraq will be issued shortly.
+https://nitter.net/AryJeay/status/1750862405725294990#m  1/26/24
+
+>🛑| ICJ in the Hague:
+
+Israel must immediately cease:
+
+1. Killing members of the ethnic group (Palestinians).
+2. Causing serious bodily and mental harm to members of the group.
+3. Deliberately inflicting measures upon the group that could result in  harm.
+4. Preventing births from happening within the group.
+
+The court obliges Israel to report to the ICC within one month, submitting proof that it has taken the necessary action as ordered by the court.
+
+1. The court has ruled 15 to 2, that Israel must immediately abide by all the provisional measures as established.
+
+2. The court has ruled 16 to 1 that anyone who incites genocide against the Palestinian people must face immediate punishment.
+
+3. The court has ruled 15 to 2 that Israel must prevent the destruction, and commit to the preservation, of any evidence of its crimes against the Palestinians.
+https://nitter.net/AryJeay/status/1750863636023628282#m  1/26/24
+
+>⚡️| 🇮🇶 Statement by the Islamic Resistance in Iraq:
+
+The calls of the Islamic Resistance, the decision of the Parliament, and the popular support to expel foreign forces have faced obstacles due to American manipulation to fulfill its malicious agenda in Iraq and the region. The American compliance with the Iraqi government's request to form a committee for the rearrangement of their forces would not have happened without the strikes of the resistance and the blessings of the martyrs' blood. This proves that the language the Americans understand is that of strength.
+
+We have only witnessed treachery and tyranny from the criminal American enemy throughout the years of our struggle. This attempt is merely to confuse matters, turn the tables on the resistance, and gain time to execute more devilish crimes and plans to harm our people and nation.
+
+The response of the Islamic Resistance to this claim is to continue Resistance operations against the foreign presence. Dialogue about this alleged withdrawal will only happen when the true intentions and seriousness of their commitment to withdraw their occupying forces from Iraq become clear. This includes the complete withdrawal of their drones, warplanes, and other military assets from the country, handing over control of the Joint Operations Command to the Iraqi side, and removing their officers from it. 
+
+"Say, 'Produce your proof if you should be truthful.'" (Quran 2:111)
+
+While we appreciate the stance of those rejecting foreign dominance, we warn against granting immunity to any foreign force under any pretext. Any commitment from the government or its security apparatus to protect these invading killers would be a historical betrayal of Iraq and the blood of its martyrs. 
+
+"And upon Allah let the believers rely." (Quran 3:122)
+https://nitter.net/AryJeay/status/1750867570494669249#m  1/26/24
+
+>BREAKING| ICJ rules by overwhelming majority:
+⭕️ Israel must do everything in its power to prevent a list of genocidal acts by armed groups over which it has influence, and punish those responsible.
+⭕️Ensure Humanitarian aid.
+⭕️ Israel must prevent the destruction of evidence relating to these genocide charges.
+⭕️ Israel must deliver a report on compliance with these measures within one month
+⭕️ All parties bound by international humanitarian law
+⭕️Calls for release hostages.
+https://nitter.1d4.us/QudsNen/status/1750868389516513304#m  1/26/24
+
+>BREAKING:
+ 🇾🇪🇺🇸🇮🇱 The Houthis continue to target Israeli-bound ships in the Red Sea. US bombing has no effect.
+
+Reuters announced today that a British authority receives a report about an accident 60 nautical miles off the coast southwest of the Yemeni city of Aden.
+(Photo illustrative)
+https://t.me/megatron_ron/1369  1/26/24
+
+>BREAKING:
+ 🇿🇦🇮🇱 International Court of Justice:
+
+"Israel's actions in Gaza may constitute GENOCIDE"
+
+"The International Criminal Court in The Hague states that South Africa has shown enough evidence that the case against Israel is valid, that genocide is possibly being comitted, and that provisional measures will be taken
+
+'Israel's actions in Gaza may constitute genocide, with intent to destroy, in whole or in part, a particular ethnic group, the Palestinians'"
+https://t.me/megatron_ron/1370  1/26/24
+
+>⚡️Al-Quds Brigades (PIJ) published a video showing the shelling of military concentrations and sites with mortar launches, on the front lines of Khan Younis.
+https://nitter.net/AryJeay/status/1750854191545737312#m  1/26/24
+https://files.catbox.moe/wc5lfn.mp4  1/26/24
+
+>🛑| CENTCOM: 
+
+AnsarAllah Yemen fired one anti-ship ballistic missile from Yemen toward USS Carney (DDG 64) destroyer (warship) in the Gulf of Aden.
+
+Centcom claims to have intercepted the missile.
+https://nitter.net/AryJeay/status/1750873544479654201#m  1/26/24
+
+Breaking | Israeli National Security Minister Itamar Ben Gvir denounces the International Court of Justice for issuing a series of provisional measures against Israel, labeling the international body as "antisemitic."
+
+The minister urges disregarding the court's decisions, stating, "Decisions that endanger the continued existence of the State of Israel must not be listened to.”
+https://nitter.1d4.us/QudsNen/status/1750872314047021314#m  1/26/24
+
+>BREAKING:
+ 🇮🇱 Security Minister Ben Gvir:
+
+"The International Court of Justice is antisemetic"
+
+Security Minister Itamar Ben Gvir denounces the International Court of Justice for issuing a series of provisional measures against Israel for the genocide they have committed in Gaza, labeling the international body as "antisemitic."
+
+The minister urges disregarding the court's decisions, stating:
+
+"Decisions that endanger the continued existence of the State of Israel must not be listened to."
+https://t.me/megatron_ron/1373  1/26/24
+
+>Israeli Prime Minister Netanyahu, in a challenge to the International Court of Justice, declares, "The war in Gaza will continue."
+https://nitter.salastil.com/QudsNen/status/1750878117172789473#m  1/26/24
+
+>⚡️Hamas published a video showing a message from by female IOF soldiers in the Gaza Strip.
+
+They say they are ashamed of Netanyahu. One of the girls said:
+
+“I became more afraid of my <country> than I feared Hamas”
+https://nitter.salastil.com/AryJeay/status/1750882755125117239#m  1/26/24
+https://files.catbox.moe/8o4w58.mp4  1/26/24
+https://files.catbox.moe/kao45e.mp4  1/26/24 With Subtitles 
+
+>🟡| BREAKING: Hezbollah announces attacking the Ma’aleh Golan base again for the 2nd time.
+
+At 4:10 PM today, Hezbollah shelled gatherings and deployment of israeli soldiers at & the surroundings of Ma’aleh Golan IOF base with a significant barrage of Katyusha rockets.
+https://nitter.rawbit.ninja/AryJeay/status/1750897544870158700#m  1/26/24
+
+>South African Minister of Justice and Correctional Services, Ronald Lamola, celebrates the ICJ ruling against Israel regarding its crimes in Gaza.
+https://nitter.salastil.com/QudsNen/status/1750915696836395484#m  1/26/24
+https://files.catbox.moe/tbduxy.mp4  1/26/24
+
+>⚡️Hamas Movement - Press statement about the decision of the International Court of Justice:
+
+The Islamic Resistance Movement - #Hamas welcomes the decision of the International Court of Justice in The Hague, which indicted the occupying state on charges of genocide, and demands that the occupying army protect civilians, lift the siege imposed on our people in the #Gaza Strip, and respect its duties as an occupying force within the framework of international law and international humanitarian law. This decision means Stop all forms of aggression against our #Palestinian people in #Gaza.
+
+We call on the international community to oblige the enemy to implement the court’s decisions and stop the ongoing “crime of genocide” against our people. We look forward to the court’s final decisions convicting the occupying state of committing the crime of “genocide,” war crimes, and crimes against humanity. The decision opens the way for enemy leaders to be held accountable for these crimes before a court. International crimes, and emphasizing the rights of our #Palestinian people to self-determination, establishing their independent state, and returning to their lands and homes from which they were forcefully displaced, in line with international resolutions in particular.
+
+We in the #Hamas movement appreciate the genuine position of the Republic of South Africa, its support for our #Palestinian people and the justice of their cause, its sincere endeavor to repel the aggression against the #Gaza Strip, and its rejection of the brutal crimes of the occupation. We also extend our thanks to all countries that have expressed their support for this noble humanitarian movement.
+https://nitter.woodland.cafe/ME_Observer_/status/1750914452529033633#m  1/26/24
+
+>⚡️Al-Manar published an infographic on the Iranian “Falaq-1” rocket that has been used for the first time by Hezbollah today. 
+
+• It has a range of 10km
+• Carries a 50kg warhead
+https://nitter.rawbit.ninja/AryJeay/status/1750918560245743703#m  1/26/24
+
+>Breaking | US State Department has temporarily halted funding for UNRWA as it conducts a review of allegations suggesting the involvement of 12 employees of the organization in the October 7 attack.
+https://nitter.woodland.cafe/QudsNen/status/1750927834221088981#m  1/26/24
+
+>⚡️World Health Organization: We reject #Israel’s claim that the organization is “complicit” with #Hamas and that it “turns a blind eye” to the suffering of prisoners in #Gaza.
+
+⚡️United States of America: State Department spokesman: We still believe that the allegations of genocide against “Israel” are baseless
+https://nitter.woodland.cafe/ME_Observer_/status/1750926575569096736#m  1/26/24
+
+>⚡️Urgent || Al-Qassam: After our mujahideen returned from the battle lines northwest of the Maghazi camp... they confirmed that a number of occupation soldiers were caught in a tight ambush after closing the gate of one of the tunnels on 7 Zionist soldiers, and after they descended inside it, the eye of the tunnel was blown up with an anti-personnel “thunder” device, leaving them dead and wounded. Then they targeted two "Merkvah" tanks with a "Shawaz" device and an "Al-Yassin 105" shell.
+https://nitter.woodland.cafe/ME_Observer_/status/1750927168379441656#m  1/26/24
+
+>🚨BREAKING: British maritime security company Ambrey reported a fire on a ship due to being hit by a missile southeast of Aden, Yemen. With no casualties.
+https://nitter.rawbit.ninja/AryJeay/status/1750950327094833499#m  1/26/24
+
+>🛑 Al-Quds Brigades: 
+
+This evening, we shot down an IOF drone during its intelligence mission, east of Shujaiya.
+https://nitter.rawbit.ninja/AryJeay/status/1750951455312237051#m  1/26/24
+
+>Complete power outage at Nasser Hospital in Khan Yunis.
+https://nitter.woodland.cafe/QudsNen/status/1750949229105762567#m  1/26/24
+
+>BREAKING:
+
+ 🇬🇧 The Houthis hit a British ship with a missile
+
+British Ambrey Shipping Company:
+
+"A fire broke out as a result of a commercial ship being hit by a missile southeast of Aden, Yemen."
+https://t.me/megatron_ron/1382  1/26/24
+
+>Breaking | UN Spokesperson Stéphane Dujarric: "Secretary-General of the United Nations, António Guterres, will immediately refer the notification of provisional measures by the International Court of Justice to the United Nations Security Council."
+https://nitter.woodland.cafe/QudsNen/status/1750952402746757389#m  1/26/24
+
+>⚡️| 🇾🇪 Yemeni Armed Forces’ Spox, Yahya Sarae:
+
+Yemeni Naval forces targeted the British oil ship “MARLIN LUANDA” In the Gulf of Aden, using a number of anti-ship missiles, the strike was succesful, and resulted in the burning of the vessel.
+https://nitter.rawbit.ninja/AryJeay/status/1750957631097704523#m  1/26/24
+
+>🟡| Hezbollah confirms:
+
+🔻Hitting Zarit barracks with a Burkan IRAM rocket, confirming a direct hit. 
+
+🔻Targeting israeli soldiers on the Cobra Hill with 2 Burkan IRAM rockets, confirming a direct hit.
+
+🔻Targeted the new security spy devices mounted on the Zarit barracks.
+https://nitter.rawbit.ninja/AryJeay/status/1750978444735696993#m  1/26/24
+
+Non-stop attacks against israeli assets, on the border areas by Hezbollah, for the last 2 hours 🌋🚀
+https://nitter.rawbit.ninja/AryJeay/status/1750987330557538578#m  1/26/24
+
+>🛑| 🇾🇪 Unconfirmed picture showing the outburst of fire due to Yemen’s missile impact on the “MARLIN LUANDA” oil tanker ship.
+
+The missile might’ve hit an oil tank of some sorts due to the size of the fire.
+https://nitter.rawbit.ninja/AryJeay/status/1750992380625654163#m  1/26/24
+
+>BREAKING:
+
+⚡ 🇬🇧🇾🇪 The British oil ship, Marlin Luanda, hit by Yemenis is on the verge of sinking
+
+Reports say the cargo tank has exploded, the fire is huge and the crew called for urgent help.
+https://t.me/megatron_ron/1383  1/26/24
+
+>BREAKING| Canada's Minister of Foreign Affairs, Mélanie Joly, issues a statement stressing that her country does not accept the premise of the genocide case brought by South Africa against Israel. 
+
+"Canada will continue to support Israel’s right to exist and defend itself", she added.
+https://nitter.woodland.cafe/QudsNen/status/1750995838002692567#m  1/26/24

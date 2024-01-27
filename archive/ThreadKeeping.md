@@ -412,18 +412,31 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether)
-https://rentry.org/zbtaxdfz
->The Tournament, Part Four!
-https://rentry.org/b2v9nv4u
->The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp)
-https://rentry.org/pi72vzqf
+>Writefags
+>#corporategirlies (Hivemind)
+https://rentry.org/o3crsn3e
+>Suki intro
+http://rentry.org/t3q5h6wk
 
->New Builds
->Runt  HN Dust Devil
->>91691942
->Suslik
->>91699413
+>Art
+Shower Ambush
+>>91703153
+
+>Builds
+>Ivan Trup VN The Prophet
+>>91702348
+>Ryuji Ayanokoji VN Overlord
+>>91702476
+>Jack Smithee VN The Gravedigger
+>>91702656
+>Zyra Mein VN Braindrain
+>>91702779
+>Rudi Brandt VN Sturmtruppe
+>>91703057
+>Bonzo Amato VN The Boss
+>>91703456
+>Kiki HN Yggdrasil
+>>91707234
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -504,6 +517,8 @@ Page 2
 >>91670899
 >Runt HN Dust Devil
 >>91691942
+>Kiki HN Yggdrasil
+>>91707234
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -604,13 +619,8 @@ https://rentry.org/HeartMHA
 >>88745486
 >Omura Tadao HN Deceptive Hero, Conman
 >>88754723
-```
 
-***
-Page 4
-***
-```
->PRO HEROES (Cont):
+>Unaffiliated Heroes
 >Kenji Shako HN Strongest Shrimp Hero: Magnum Shrimp (and Water Fowl Hero: Flamingal)
 >>88425908
 >Yuusei Atsushi HN Spring Dragon Hero: Seiryu
@@ -629,6 +639,13 @@ Page 4
 >>88301887
 >Kevin Thompson HN The Purple Man
 >>88357698
+```
+
+***
+Page 4
+***
+```
+>PRO HEROES (Cont):
 >Yuichi Ishida HN Slipstream
 >>88389419
 >Roland Walker HN PsyKing (Sandatsu'd)
@@ -708,14 +725,6 @@ https://rentry.org/iptpr
 >>88192913
 >Recino R. Percutio
 >>88191385
-```
-***
-Page 5
-***
-```
->VILLAINS (cont.):
-
->Unafilliated VIllains:
 >Nakata Yumiko VN Walpurgis
 >>88191796 + https://pastebin.com/nMZq81Jt
 >Hiromi Hitomi VN Feral
@@ -728,6 +737,14 @@ Page 5
 >>88209242
 >Ginji Gō VN Desperaido
 >>88278735
+```
+***
+Page 5
+***
+```
+>VILLAINS (cont.):
+
+>Unafilliated VIllains:
 >Jack Mitchell VN Marshall
 >>88456239
 >Dr. Isaac Ivanov VN Drekus
@@ -750,6 +767,18 @@ https://rentry.org/ddom6m82
 >>91654960
 >Suslik
 >>91699413
+>Ivan Trup VN The Prophet
+>>91702348
+>Ryuji Ayanokoji VN Overlord
+>>91702476
+>Jack Smithee VN The Gravedigger
+>>91702656
+>Zyra Mein VN Braindrain
+>>91702779
+>Rudi Brandt VN Sturmtruppe
+>>91703057
+>Bonzo Amato VN The Boss
+>>91703456
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
@@ -994,6 +1023,10 @@ https://rentry.org/zbtaxdfz
 https://rentry.org/b2v9nv4u
 >The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp)
 https://rentry.org/pi72vzqf
+>#corporategirlies (Hivemind)
+https://rentry.org/o3crsn3e
+>Suki intro
+http://rentry.org/t3q5h6wk
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

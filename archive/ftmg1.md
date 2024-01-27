@@ -43,3 +43,5 @@ Consider presenting yourself as male online if you aren’t able to confide in s
 Try binding under your clothing and see how it feels. See [Binding](https://www.ftmguide.org/binding.html).
 
 Try getting a more masculine haircut. Be sure to specifically ask the hairdresser for a masculine style cut, and not a pixie cut.
+
+->[Return to /ftmg/ resources](https://rentry.org/ftmg)<-

@@ -4,7 +4,6 @@
 ***
 Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry. No, my real name is not Pasha.
 Don't be afraid to email me — chances are, I don't hate your guts and will formally reply to you.
-I only hate two botmakers from 4chan :^)
 
 Relevant resources:
 https://www.chub.ai/users/pashatehink
@@ -13,12 +12,11 @@ https://pashatehink.neocities.org (website with deep lore about my OCs)
 Discord: none
 Email: gasvas27@gmail.com
 Waifu: А-545 (both a rifle and a T-Doll)
-КАЛфа: не состою и не собираюсь
 
 Current bans:
 Reddit: This account has been suspended .
 4chan: —
-2ch: —
+~~2ch~~
 TO-DO LIST: Create more simple bots for simple people.
 
 [TOC]

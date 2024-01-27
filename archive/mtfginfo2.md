@@ -14,3 +14,5 @@ In adolescents and adults gender dysphoria diagnosis involves a difference betwe
 So you're AMAB and "want to be" a girl and treated like one? Does it perhaps cause you depression? That is textbook gender dysphoria. You don't have to hate your genitals. You don't have to want to kill yourself.
 
 Can you transition without gender dysphoria? Why would you? If you are AMAB and want neither to be a girl or be treated as such why on earth would you transition?
+
+->[Return to /mtfg/ resources](https://rentry.org/mtfg)<-

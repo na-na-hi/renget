@@ -1126,6 +1126,8 @@ https://files.catbox.moe/bcyo2p.mp4 New  1/23/24
 https://files.catbox.moe/yh7phg.mp4 New  1/23/24
 Al-Quds (PIJ) published a video showing its forces target IOF military vehicles on the front lines west of Khan Yunis.
 https://files.catbox.moe/iiilaa.mp4 New  1/25/25
+>Al-Quds Brigades shelling of military concentrations and sites with mortar launches, on the front lines of Khan Younis.
+https://files.catbox.moe/wc5lfn.mp4 New  1/26/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1398,3 +1400,10 @@ https://files.catbox.moe/ocmukh.mp4 New  1/24/24
 https://files.catbox.moe/n4pnt3.mp4 New 1/24/24
 >Al-Quds (PIJ) published scenes from their rocket barrages towards the occupied settlements surrounding the Gaza Strip.
 https://files.catbox.moe/5k3a7f.mp4 New 1/24/24
+>Hamas published a video showing a message from by female IOF soldiers in the Gaza Strip.
+https://files.catbox.moe/8o4w58.mp4 New  1/26/24
+https://files.catbox.moe/kao45e.mp4 New  1/26/24 With Subtitles 
+>Israeli Airline To Stop Flights To South Africa As ICJ Admits Gaza Genocide Case | Details 
+https://youtu.be/dBsQJkB8Kx8 New  1/26/24
+>South African Minister of Justice and Correctional Services, Ronald Lamola, celebrates the ICJ ruling against Israel regarding its crimes in Gaza.
+https://files.catbox.moe/tbduxy.mp4 New  1/26/24

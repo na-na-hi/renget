@@ -19,11 +19,11 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Recent Updates:
+	26.01.24: Added new card 'Yumiko'
 	17.12.23: Added new card 'Merry'
 	06.11.23: Added new card 'Yumi' under Unreleased Cards
 	17.09.23: Made significant update to 'Elia' - v0.2 available under Unreleased Cards
 	13.09.23: Added new card 'Amelia 'Quickstep' Brooks' under Unreleased Cards
-	09.09.23: Added new card 'Chae-won'
 
 
 ***
@@ -31,6 +31,8 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ####Bots
 |  |  | 
 | ------ | ------ |
+| **Yumiko** | https://files.catbox.moe/zj6cfj.png |
+| ![Yumiko](https://files.catbox.moe/zj6cfj.png) | **A Japanese schoolgirl who is fed up with weak beta males. She bumps into you, a foreigner, an alpha…** [v1.0, Claude 2, 26.01.24] |
 | **Merry** | https://www.chub.ai/characters/Nuggest/merry-f9eca582/main |
 | ![Merry](https://files.catbox.moe/9ohcpx.png) | **A frightened Christmas Elf Girl in a box winds up in your lonely home on Christmas Eve. In this story, Christmas elves are not willing helpers but slaves. After years of slaving away, Merry managed to escape by hiding in one of Santa's presents.** [v1.0, Claude 2, 17.12.23] *Alternate greeting available without the poetry.* |
 | **Chae-won** | https://www.chub.ai/characters/Nuggest/chae-won-b11d3ceb |

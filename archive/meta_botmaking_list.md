@@ -32,6 +32,7 @@
 | https://rentry.org/MakingA4chanSimCard -> -> *"Make your own 4chan sim"* | [28 Dec 2023 No.98137431](https://desuarchive.org/g/thread/98136612/#98137431) |
 | https://rentry.org/vcewo -> -> CoT guide, apparently stolen from /chag/ | [08 Jan 2024 No.98319263](https://desuarchive.org/g/thread/98317745/#98319263) |
 | https://rentry.org/MistralMedium -> -> *"Random, unsorted notes about Mistral-Medium"* | [12 Jan 2024 No.98414454](https://desuarchive.org/g/thread/98413416/#98414454)|
+| https://rentry.org/stscript -> -> *"dummy friendly guide on everything STscript"* | [23 Jan 2024 No.98612868](https://desuarchive.org/g/thread/98610737#98612868) |
 
 [](3. HochiTurboTips https://rentry.org/HochiTurboTips [31 May 2023 No.93783480](https://desuarchive.org/g/thread/93781919/#93783480) *"Tips on OAI settings, plus a few prompt sets for old and new Turbo models"*)
 

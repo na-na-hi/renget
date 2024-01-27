@@ -27,7 +27,7 @@ Dates are based on EST
 	>==Audio== 
 	
 	>==Chapters== 
-	> - **01/26 - Added**
+	> - **01/26 - Added** + **Updated**
 	>- [#60. 『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]](https://rentry.org/irdxq/#2024-01-25-1-million-subscriber-endurance-karaoke-%E6%AD%8C%E6%9E%A0oh-lets-do-this-7l_qvd9xdrk)  
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
@@ -3643,25 +3643,25 @@ CHAPTER00=00:00:00.000
 CHAPTER00NAME=Opening
 CHAPTER01=00:05:57.815
 CHAPTER01NAME=Start
-CHAPTER02=00:27:57.661
+CHAPTER02=00:27:58.642
 CHAPTER02NAME=Mamma Mia (Acapella)
-CHAPTER03=00:29:40.216
+CHAPTER03=00:29:40.609
 CHAPTER03NAME=01. Mamma Mia - ABBA
-CHAPTER04=00:34:53.628
+CHAPTER04=00:34:54.609
 CHAPTER04NAME=02. Through the Fire and Flames - DragonForce
-CHAPTER05=00:44:54.628
+CHAPTER05=00:44:55.609
 CHAPTER05NAME=Baby Beluga (Acapella)
-CHAPTER06=00:47:07.628
+CHAPTER06=00:47:08.609
 CHAPTER06NAME=03. I Miss You - Blink-182
-CHAPTER07=00:52:48.649
+CHAPTER07=00:52:49.630
 CHAPTER07NAME=04. Mountain Dew - In the Style of Grandpa Jones
-CHAPTER08=00:59:43.649
+CHAPTER08=00:59:44.630
 CHAPTER08NAME=05. Take Me Home, Country Roads - John Denver
-CHAPTER09=01:10:08.649
+CHAPTER09=01:10:09.630
 CHAPTER09NAME=06. A New Start - Nanashi Mumei
-CHAPTER10=01:32:06.649
+CHAPTER10=01:32:07.630
 CHAPTER10NAME=07. So Sick - Ne-Yo
-CHAPTER11=01:39:04.153
+CHAPTER11=01:39:04.972
 CHAPTER11NAME=08. TiK ToK - Kesha
 
 ```

@@ -24,3 +24,5 @@ Mostly sure about your gender identity is close enough. It's very hard to be com
 Don't confuse sexual orientation with gender identity. And gender identity with gender presentation.
 
 I hope this helped somebody who is currently questioning their gender. I probably missed a few things, but I didn't want it to be too long. I only mean this as a guide, I apologize if anything was inaccurate, I'm simply trying to help.
+
+->[Return to /mtfg/ resources](https://rentry.org/mtfg)<-

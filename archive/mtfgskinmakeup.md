@@ -2,8 +2,6 @@
 ***
 !!! info **Index:**
 	[TOC2]
-Updates by: 
->![Anonette](https://catbox.moe/pictures/qts/1471262460053.png)
 Makeup is one of the most efficient forms of passing and learning to apply it well can boost your appearance by 1-2 ‘points’. Please keep in mind that everything comes down to personal preferences and that anything I mention here is what has worked for me and if you find that something else works for you, please mention it in /mtfg/
 
 ##**Moisturiser**##
@@ -94,3 +92,5 @@ I like to use the TooFaced Better Than Sex mascara or the Maybelline Lash Sensat
 ==Eyebrows frame your face and can make your facial features look more defined==<-
 
 If you have any other makeup tips/methods, feel free to comment on /mtfg/
+
+->[Return to /mtfg/ resources](https://rentry.org/mtfg)<-

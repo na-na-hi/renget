@@ -433,3 +433,5 @@ Tags: Realizing in teens, Puberty, Body dysphoria (or lack of), Social dysphoria
 I vividly remember having an argument with my grandmother that I was male after learning the difference when I was about 4. I was very sensitive as a child so I tried to conform. It wasn't too difficult as it is much more socially acceptable to be a tomboy in the small rural town I'm from. During college I began regularly cross dressing and joining my male friends for beer and cigars. After graduating I moved to a large city and realized there was a word for what I was doing. At that time, I had been going by an assumed male name for about 3 years and started seeing a gender therapist.
 
 Tags: Realizing in childhood, Realizing as adult, Childhood fantasies, Trans characters in media, Meeting trans people, Social dysphoria (or lack of), Genderqueer
+
+->[Return to /ftmg/ resources](https://rentry.org/ftmg)<-
