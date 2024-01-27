@@ -1,3 +1,1 @@
->/g/
->can't even setup a 5 USD VPS from a shithole
-Grim.
+For now there is no point because public sources exist, this was just a small test.

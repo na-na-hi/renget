@@ -325,6 +325,8 @@ Young love is so beautiful.
 https://archive.4plebs.org/tg/post/91626998/
 girlbosses (and haruhi)
 https://archive.4plebs.org/tg/post/91654539/
+Forbidden Fruit?
+https://archive.4plebs.org/tg/post/91714148
 
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
@@ -414,31 +416,13 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Writefags
->#corporategirlies (Hivemind)
-https://rentry.org/o3crsn3e
->Suki intro
-http://rentry.org/t3q5h6wk
+>New Teacher
+>Riku Washizawa HN The Steel Talon Hero: Skycarver
+>>91716771
 
 >Art
-Shower Ambush
->>91703153
-
->Builds
->Ivan Trup VN The Prophet
->>91702348
->Ryuji Ayanokoji VN Overlord
->>91702476
->Jack Smithee VN The Gravedigger
->>91702656
->Zyra Mein VN Braindrain
->>91702779
->Rudi Brandt VN Sturmtruppe
->>91703057
->Bonzo Amato VN The Boss
->>91703456
->Kiki HN Yggdrasil
->>91707234
+Free Amnesty
+>>91712723
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -509,8 +493,6 @@ Page 2
 >>88383012
 >Kyoda Hiro HN Overdose (Held Back)
 >>88193619
->Sandatsu Owari
->>91030425
 >Sally McCathy HN Last Rite
 >>88810810
 >Takara Tame HN Android
@@ -539,8 +521,6 @@ Page 2
 >>88192360
 >Johanna Hilt HN Gauntlet Hero: Weiss Schwarz
 >>88195437
->Mio Katsuragi HN Forget-Me-Not
->>89250569
 
 >>89250569
 >Ganto Kanzaki HN The Clone Hero, Commander (NPC)
@@ -573,7 +553,7 @@ Page 3
 
 >Shiketsu (Unknown Year and Class)
 >Nijimura Mahoko HN Cool Boost
->>91685518 + >>91685973
+>>91685518+>>91685973
 
 >Class 3-B (U.A.)
 >Animata
@@ -621,6 +601,8 @@ https://rentry.org/HeartMHA
 >>88745486
 >Omura Tadao HN Deceptive Hero, Conman
 >>88754723
+>Riku Washizawa HN The Steel Talon Hero: Skycarver
+>>91716771
 
 >Unaffiliated Heroes
 >Kenji Shako HN Strongest Shrimp Hero: Magnum Shrimp (and Water Fowl Hero: Flamingal)
@@ -641,13 +623,6 @@ https://rentry.org/HeartMHA
 >>88301887
 >Kevin Thompson HN The Purple Man
 >>88357698
-```
-
-***
-Page 4
-***
-```
->PRO HEROES (Cont):
 >Yuichi Ishida HN Slipstream
 >>88389419
 >Roland Walker HN PsyKing (Sandatsu'd)
@@ -660,6 +635,13 @@ Page 4
 >>89015229
 >Ludolf Raphael Victorius, Hero Name: Fair Marshal
 >>89006731
+```
+
+***
+Page 4
+***
+```
+>PRO HEROES (Cont):
 >Taichi Kyoryu HN Cretaceous King, Saurus
 >>89508780
 >Kurogane Keisho HN Yoshizumi
@@ -729,8 +711,6 @@ https://rentry.org/iptpr
 >>88191385
 >Nakata Yumiko VN Walpurgis
 >>88191796 + https://pastebin.com/nMZq81Jt
->Hiromi Hitomi VN Feral
->>88856089
 >hina seiyama VN panzer viii
 >>88226487
 >Giichi Mikata
@@ -739,24 +719,12 @@ https://rentry.org/iptpr
 >>88209242
 >Ginji Gō VN Desperaido
 >>88278735
-```
-***
-Page 5
-***
-```
->VILLAINS (cont.):
-
->Unafilliated VIllains:
 >Jack Mitchell VN Marshall
 >>88456239
->Dr. Isaac Ivanov VN Drekus
->>88666462
 >Kazuma Oomori VN Charlatan
 >>88669394
 >Hattori Ume VN Broad Daylight
 >>88926931
->JOHN DOE VN GREEN DOOR
->>89018740
 >"Blank"
 >>91050726
 >Kōkishin Yuuki VN Shoggoth
@@ -767,10 +735,16 @@ Page 5
 https://rentry.org/ddom6m82
 >TechVision Elite 2023 - 43Vista UltraSmart 4K TV
 >>91654960
+```
+***
+Page 5
+***
+```
+>VILLAINS (cont.):
+
+>Unafilliated VIllains:
 >Suslik
 >>91699413
->Ivan Trup VN The Prophet
->>91702348
 >Ryuji Ayanokoji VN Overlord
 >>91702476
 >Jack Smithee VN The Gravedigger
@@ -844,6 +818,21 @@ https://rentry.org/ddom6m82
 >Luccione
 >>90146415
 
+>Wild Hunt
+>Sandatsu Owari
+>>91030425
+>Mio Katsuragi HN Forget-Me-Not
+>>89250569
+>Hiromi Hitomi VN Feral
+>>88856089
+>Dr. Isaac Ivanov VN Drekus
+>>88666462
+>JOHN DOE VN GREEN DOOR
+>>89018740
+>Ookami Shizuka
+https://rentry.org/OokamiShizuka
+>Ivan Trup VN The Prophet
+>>91702348
 ```
 ***
 Page 6

@@ -12,8 +12,12 @@ Password for all links is "gnarly"
 For re-sending repack requests that you originally posted on the site, or any questions, shoot me a message on Reddit DMs or an email at:
 itsgnarlybitch@proton.me
 ------------------------------------------------------------------------------------------------------------------------------------------
-Palworld (EA-b13269235/v0.1.3.0) + Dedicated Server) [Gnarly Repacks] [15.9 GB] -     [%pink% Kirigiri's v0.1.2.0 to v.0.1.3.0 Updater + SJB's DS Updater  %%](https://bin.0xfc.de/?5cfed03865816d84#3QKUtRTPLYFuCmSaoCcb48xT1hdMqgedjoU2tPBHkpLj)
+Palworld (EA-b13269235/v0.1.3.0) + Dedicated Server) [Gnarly Repacks] [15.9 GB] - 
 https://bin.0xfc.de/?48147dea6b38a3d3#6tbrfudwadHicB9QSKZZecyV6Dq9wqo11N9EAFqKQqQr
+[%pink% Kirigiri's v0.1.2.0 to v.0.1.3.0 Updater + SJB's DS Updater  %%](https://bin.0xfc.de/?5cfed03865816d84#3QKUtRTPLYFuCmSaoCcb48xT1hdMqgedjoU2tPBHkpLj)
+[%pink% Kirigiri's v0.1.3.0 to v.0.1.3.0 Hotfix Updater  %%](https://bin.0xfc.de/?6d5978beba4844b5#C5yXS2HcgZqbZRFJak7vgoHWGJxr9QhF99HLw8bzebnW)
+
+-------------------------------------------------------------------------------------------------------------------------------------------
 DJMax Trilogy [Gnarly Repacks] [2.74 GB] - REUPLOAD
 https://bin.0xfc.de/?ba006ce953127bce#4REkRLRr4b8RYJSdzrV6w4weDDtbySfiptQmjTBEHRsf
 WET (+RPCS3) [Gnarly Repacks] [2.04 GB] - REUPLOAD

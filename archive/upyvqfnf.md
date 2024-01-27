@@ -47,5 +47,6 @@ https://youtube.com/playlist?list=PLOFvOSVTja6OyTdCLoKk3SW9H4_jI7Rof&si=X_nMgw23
 https://rentry.org/bkbnt49n
 **Thread archive:**
 https://desuarchive.org/trash/search/text/svrg/type/op/
-
+**/svrg/'s most wanted** (The official banlist)
+https://rentry.org/g98b92ie
 ***

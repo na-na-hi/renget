@@ -7,6 +7,9 @@
 	These aren't all necessarily made by /vtai/ anons. Numerous LoRAs are scavenged from different user MEGA's, Civitai pages and other sources.
 	**DO NOT listen to the recommended weights like it's gospel, if you deem them too low or too high, you can play around with them, the idea of the number is based on "as close to correct design without taking too much control of the style", highly recommended for people who don't like their model's style to deviate too much**
 
+!!! warning /vtai/ LoRA scrap list
+	Meanwhile I'm gone from testing, please check out the [/vtai/ Lora Scrap](https://rentry.org/vtaiLoRAscrap) list for up to date LoRA availability that hasn't been been tested yet if you want to download them in the meantime, or check [LoRA Checklist](https://rentry.org/vtailorachecklist) for general information of what needs to be done. - Inanon 01/27/24
+
 [TOC3]
 
 ### -> Indies <-

@@ -2,11 +2,8 @@
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 ***
-!!! warning Indie Information
-	**Due to hitting character limit, we have decided to move Indies onto their own rentry list. You can move to the Indie list through the Navigation Bar.**
-
-!!! warning MEGA Archive Release!
-	**Come to download a LoRA and find the link dead? Hop into the LoRA MEGA Archive where we keep the files updated to the previously tested versions, available in the Navigation Bar!**
+!!! info General Information
+	**Due to hitting character limit, we have decided to move Indies onto their own rentry list. You can move to the Indie list through the Navigation Bar. Also is a link dead? Check out the MEGA LoRA archive as well, just make sure the dates in it match the update releases (CDB can take a moment to update them)**
 
 !!! note Keep in mind + Extra info
 	These aren't all necessarily made by /vtai/ anons. Numerous LoRAs are scavenged from different user MEGA's, Civitai pages and other sources.
@@ -14,6 +11,9 @@
 
 	**Want to create a LoRA for this rentry, but don't know what to make without making duplicates? Check out the LoRA Checklist in the navigation bar!**
 	**Missing something? let us know in the thread!**
+
+!!! warning /vtai/ LoRA scrap list
+	Meanwhile I'm gone from testing, please check out the [/vtai/ Lora Scrap](https://rentry.org/vtaiLoRAscrap) list for up to date LoRA availability that hasn't been been tested yet if you want to download them in the meantime, or check [LoRA Checklist](https://rentry.org/vtailorachecklist) for general information of what needs to be done. - Inanon 01/27/24
 
 !!! note Update Notes
 	Farewell Update (01/27/24):

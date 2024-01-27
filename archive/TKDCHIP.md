@@ -1407,3 +1407,13 @@ https://files.catbox.moe/kao45e.mp4 New  1/26/24 With Subtitles
 https://youtu.be/dBsQJkB8Kx8 New  1/26/24
 >South African Minister of Justice and Correctional Services, Ronald Lamola, celebrates the ICJ ruling against Israel regarding its crimes in Gaza.
 https://files.catbox.moe/tbduxy.mp4 New  1/26/24
+>According to Save the Children organization, there is an estimated 335,000 children at risk of malnutrition.
+https://files.catbox.moe/18rthc.mp4 New  1/27/24
+>Al-Qassam (Hamas) published a video showcasing several IOF drones that have been seized/downed over the past few days.
+https://files.catbox.moe/ldp975.mp4 New  1/27/24
+>Bahrainis protesting US naval presence.
+https://files.catbox.moe/0rbpc7.mp4 New  1/27/24
+>ICJ interim ruling on genocide case against Israel
+https://youtu.be/FRsprNTNiNM  New  1/27/24
+>Hezbollah published a video showing the launch of the Iranian "Falaq-1" rockets, a tactical high-explosive rockets that operates on solid bipropellant fuel, targeting the Ma’aleh Golan base.
+https://files.catbox.moe/krjmpx.mp4 New  1/27/24
