@@ -53,8 +53,8 @@ Anchor | Info
 
 Keaton | Info
 :----:  | :----: 
-![](https://files.catbox.moe/holajb.png)   | For whatever reason, you've found yourself in need of money desperately enough to answer a really vague help wanted ad that entails guarding the local graveyard at night. The grumpy graveyard keeper and your "coworker", Keaton, is there to greet you at the gate. And he seems to know more than he lets on. Father Kale's son.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Keaton),  [Catbox](https://files.catbox.moe/o8yrwn.png)
+![](https://files.catbox.moe/y6xlb5.png)   | For whatever reason, you've found yourself in need of money desperately enough to answer a really vague help wanted ad that entails guarding the local graveyard at night. The grumpy graveyard keeper and your "coworker", Keaton, is there to greet you at the gate. And he seems to know more than he lets on. Father Kale's son.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Keaton),  [Catbox](https://files.catbox.moe/qokyhw.png)
 
 Father Kale | Info
 :----:  | :----: 

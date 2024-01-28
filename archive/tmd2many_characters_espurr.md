@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
 **Species:** Espurr | **Affiliation:** Team Stardust | **Favorite Color:** Yellow
-**Level:** 12 | **Experience to Next Level:** 100/120 | **Alignment:** True Neutral
+**Level:** 12 | **Experience to Next Level:** 110/120 | **Alignment:** True Neutral
 **Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
 **Pokécoin:** 1724₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
 

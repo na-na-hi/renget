@@ -31,11 +31,11 @@
 ##### ->  [Rozen Maiden Booru](https://rmbooru.org/) [(Backup)](https://rm.booru.org) <-
 ***
 ->  %#b5bd68%>I've never watched or read but I'm down for an /aicg/ watchalong desu.%% <-
--> **Then leave your thoughts and suggestions about during desu hours or consult your nearest rozenfag on /rozen/, thank you ~desu.** <-
+-> **Then leave your thoughts and suggestions about it during desu hours or consult your nearest rozenfag on /rozen/, thank you ~desu.** <-
 -> I know that the anime's 20th anniversary watchalong for /a/ is being planned(?) by some suspicious anon(?) somewhere October 6-8 or so. <-
--> But we'll make our own rightful and orthodox conservative Rozen Maiden watchalong, with desubots and Crunky! Praise the Dolls, our Perfect Girls! <-
+-> But we'll make our own rightful and orthodox Rozen Maiden watchalong, with desubots and Crunky! Praise the Dolls, our Perfect Maidens ~desu! <-
 
--> Everything is almost ready, desu's estimation is the next Saturday or sooner, but you decide, anon! See the link below ~desu! ↓<-
+-> Everything is almost ready, desu's estimation is next Saturday or sooner, but you decide, anon! Again, check the link below ~desu! ↓<-
 
 ##### ->  [Discuss it and get actual info and links on the current main imageboard - /rozen/ (Come post some desu!)](https://zzzchan.xyz/rozen/index.html) <-
 
@@ -47,4 +47,4 @@ Feel free to suggest your stuff in a current /a/ RM/desu thread, talk to the tec
 There are **NO** any "official" discords/matrixes/telegrams/ircs/whatever, avoid them like fire, anon, it's for your own good ~desu.
 
 
-!>I really need to write some kind of FAQ desu...
+!>I really need to make some kind of general FAQ desu...

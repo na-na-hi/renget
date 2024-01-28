@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 12 | **Experience to Next Level:** 28/120
+**Level:** 12 | **Experience to Next Level:** 38/120
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
 **Pokécoin:** 1695₽ | **Glorious Gold:** 0 Bars
 
@@ -80,8 +80,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Oran Berry | Heals 10 HP
-2. Confuse Wand | Casts a spell to Confuse the target.
-3. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
+3. Blast Seed | Explodes on contact for 10 true damage.
 4. Empty | A vacant inventory slot
 
 **STORAGE (2 slots)**
@@ -90,7 +90,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----:
 1. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
-2. Blast Seed | Explodes on contact for 10 true damage.
+2. Empty | A vacant storage slot
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff.
@@ -98,7 +98,7 @@ Item Name | Description
 
 Type | Item Name | Description
 	------ | ------ | :----:
-	Key Item | Strange Sphere | A wooden toy? Evan called it a Poe-Key-Ball
+	Key Item | Empty | A vacant Key Item slot
 	Scroll | Dark Type Chart | A chart made by Ishmael to help with understanding Dark type advantages and weaknesses
 	
 **OLD MOVES (∞ slots)**

@@ -14,6 +14,8 @@
 	> ->**Updates**<-
 
 	>==Audio== 
+	> - **01/28 - Updated + Added**
+	>- I updated the audio files and added new ones. The total went from 414 songs to 988 songs. [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
 	
 	>==Karaoke Clips==
 	> - **01/26 - Added**
@@ -29,8 +31,8 @@
 
 
 ***
-!!! danger  Audio Only https://mega.nz/folder/LhEkgRwR#YabXpu5NwGJdibLZQ-bS7Q
-	Total: 414 Songs
+!!! danger  Audio Only https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ
+	Total: 988 Songs 
 
 [TOC3]
 

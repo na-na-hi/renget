@@ -150,6 +150,7 @@ Tosuke Jinai HN Compound: https://archive.4plebs.org/tg/post/91016593/
 Yosuke Shirai HN The Lustrous Hero, Wavelength: https://archive.4plebs.org/tg/post/91032513/
 Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
 Kiki HN Yggdrasil: https://desuarchive.org/tg/post/91707234/
+Riku Washizawa HN The Steel Talon Hero: Skycarver: https://desuarchive.org/tg/post/91716771/
 
 ### Villains
 >Night Parade
@@ -669,6 +670,7 @@ drekus: https://desuarchive.org/tg/post/91681250/
 hitomi hiromi(Feral): https://desuarchive.org/tg/post/91681260/
 sandatsu new costume: https://desuarchive.org/tg/post/91681266/
 Shower Ambush: https://desuarchive.org/tg/post/91703153/
+Free Amnesty: https://desuarchive.org/tg/post/91712723/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

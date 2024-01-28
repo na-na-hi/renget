@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 11 | **Experience to Next Level:** 55/110
+**Level:** 11 | **Experience to Next Level:** 65/110
 **Worn Item:** *N/A* | **Clothing:** *Green Scarf*
 **Pokécoin:** 793₽ | **Glorious Gold:** 0 Bars
 
@@ -95,7 +95,7 @@ Item Name | Description
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | Ancient Tablet pile | Old stone tablets filled by primitive footprint runes. Found in a secret room behind a cave painting.
+RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**

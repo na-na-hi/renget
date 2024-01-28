@@ -25,6 +25,8 @@ Dates are based on EST
 	> ->**Updates**<-
 
 	>==Audio== 
+	> - **01/28 - Updated + Added**
+	>- I updated the audio files and added new ones. The total went from 414 songs to 988 songs. [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
 	
 	>==Chapters== 
 	> - **01/15 - Added**
@@ -34,7 +36,11 @@ Dates are based on EST
 	> - **01/27 - Updated**
 	>- [#23. 『2022-04-13』 - 【MEMBERS ONLY】UNARCHIVED Pop Punk ACAPELLA [zq94wRfvz3o]](https://rentry.org/irdxq/#2022-04-13-members-onlyunarchived-pop-punk-acapella-zq94wrfvz3o) 
 	>- [#12. 『2022-01-05』 - 【MEMBERS】 Acapella KARAOKE [unarchived] [5EkQTBaITmI]](https://rentry.org/irdxq/#2022-01-05-members-acapella-karaoke-unarchived-5ekqtbaitmi)
- 
+	>- [#09. 『2021-12-19』 - (UNARCHIVED) Merry Christmas Songs Karaoke! [JUjLmtOcucc]](https://rentry.org/irdxq/#2021-12-19-unarchived-merry-christmas-songs-karaoke-jujlmtocucc)
+	> - **01/28 - Updated**
+	>- [#03. 『2021-11-12』 - 【SINGING PRACTICE】Key word is practice [vgKVv8Saywc]](https://rentry.org/irdxq/#2021-11-12-singing-practicekey-word-is-practice-vgkvv8saywc)
+	>- [#02. 『2021-10-15』 - 【UNARCHIVED】Sleepy Singing [31wNJfaYIos]](https://rentry.org/irdxq/#2021-10-15-unarchivedsleepy-singing-31wnjfayios)
+
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -100,22 +106,22 @@ CHAPTER03=00:08:21.000
 CHAPTER03NAME=02. A Part Of Me - Neck Deep Ft. Laura Whiteside
 CHAPTER04=00:12:00.000
 CHAPTER04NAME=03. Payphone - Maroon 5
-CHAPTER05=00:15:41.000
+CHAPTER05=00:15:40.000
 CHAPTER05NAME=04. You Belong With Me - Taylor Swift
-CHAPTER06=00:20:48.000
+CHAPTER06=00:20:49.000
 CHAPTER06NAME=05. On My Own - Les Miserables
 CHAPTER07=00:25:04.000
-CHAPTER07NAME=06. Lucky - Jason Mraz  (Ft. Colbie Caillat) 
+CHAPTER07NAME=06. Lucky - Jason Mraz  Ft. Colbie Caillat
 CHAPTER08=00:28:21.000
 CHAPTER08NAME=07. Dreams - Fleetwood Mac
-CHAPTER09=00:33:27.000
+CHAPTER09=00:33:25.807
 CHAPTER09NAME=08. Empty Space - The Story So Far
-CHAPTER10=00:36:30.000
-CHAPTER10NAME=09. I See Fire - Ed Sheeran
+CHAPTER10=00:36:30.033
+CHAPTER10NAME=I See Fire - Ed Sheeran
 CHAPTER11=00:41:05.000
-CHAPTER11NAME=10. Living Room Song - The Wonder Years
-CHAPTER12=00:44:00.000
-CHAPTER12NAME=11. I Miss You - Blink-182
+CHAPTER11NAME=09. Living Room Song - The Wonder Years
+CHAPTER12=00:44:01.033
+CHAPTER12NAME=I Miss You - Blink 182
 
 ```
 ###### 『2021-11-12』 - 【SINGING PRACTICE】Key word is practice [vgKVv8Saywc]
@@ -126,22 +132,22 @@ CHAPTER00=00:00:00.000
 CHAPTER00NAME=Opening
 CHAPTER01=00:01:17.000
 CHAPTER01NAME=Start
-CHAPTER02=00:03:44.000
-CHAPTER02NAME=01. Karakuri Pierrot - 40mP
+CHAPTER02=00:03:42.000
+CHAPTER02NAME=Karakuri Pierrot - 40mP
 CHAPTER03=00:05:17.000
-CHAPTER03NAME=02. Karakuri Pierrot - 40mP (2nd try)
-CHAPTER04=00:08:22.000
-CHAPTER04NAME=03. Lemon - Kenshi Yonezu
+CHAPTER03NAME=Karakuri Pierrot - 40mP (2nd try)
+CHAPTER04=00:08:23.000
+CHAPTER04NAME=01. Lemon - Kenshi Yonezu
 CHAPTER05=00:13:13.000
-CHAPTER05NAME=04. A Cruel Angel's Thesis - Yoko Takahashi
+CHAPTER05NAME=02. A Cruel Angel's Thesis - Yoko Takahashi
 CHAPTER06=00:17:07.000
-CHAPTER06NAME=05. KING - Kanaria
-CHAPTER07=00:19:41.000
-CHAPTER07NAME=06. Rewrite - Asian Kung-Fu Generation
-CHAPTER08=00:24:09.000
-CHAPTER08NAME=07. Nandemonaiya - Radwimps
+CHAPTER06NAME=KING - Kanaria
+CHAPTER07=00:19:42.000
+CHAPTER07NAME=03. Rewrite - Asian Kung-Fu Generation
+CHAPTER08=00:24:09.563
+CHAPTER08NAME=04. Nandemonaiya - Radwimps
 CHAPTER09=00:29:58.000
-CHAPTER09NAME=08. Kanzen Kankaku Dreamer - ONE OK ROCK
+CHAPTER09NAME=05. Kanzen Kankaku Dreamer - ONE OK ROCK
 
 ```
 
@@ -479,7 +485,7 @@ CHAPTER25=01:28:50.000
 CHAPTER25NAME=19. Rolling in the Deep - Adele
 CHAPTER26=01:33:56.000
 CHAPTER26NAME=20. Let It Go - Frozen
-CHAPTER27=01:38:56.000
+CHAPTER27=01:38:45.000
 CHAPTER27NAME=21. Dancing Queen - ABBA (Autotuned)
 
 ```

@@ -743,6 +743,8 @@ Page 5
 >VILLAINS (cont.):
 
 >Unafilliated VIllains:
+>JOHN DOE VN GREEN DOOR
+>>89018740
 >Suslik
 >>91699413
 >Ryuji Ayanokoji VN Overlord
@@ -827,8 +829,6 @@ Page 5
 >>88856089
 >Dr. Isaac Ivanov VN Drekus
 >>88666462
->JOHN DOE VN GREEN DOOR
->>89018740
 >Ookami Shizuka
 https://rentry.org/OokamiShizuka
 >Ivan Trup VN The Prophet

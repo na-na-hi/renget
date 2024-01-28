@@ -7,9 +7,9 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 12 | **Experience to Next Level:** 20/120
+**Level:** 12 | **Experience to Next Level:** 30/120
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 1445₽ (1210₽ in bank) | **Glorious Gold:** 0 Bars
+**Pokécoin:** 95₽ (3210₽ in bank) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -72,9 +72,9 @@ Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: Eᴍᴘᴛʏ | Vacant inventory slot..
+*Worn/Held Item: Eᴍᴘᴛʏ | Vacant inventory slot.
 *Equipped Item: Oran Berry | Heals 10 HP under 50% health.
-1. Blast Seed | 10 true damage.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Tiny Reviver Seed | Revives fainted allies at half health.
 3. Tiny Reviver Seed | Revives fainted allies at half health.
 4. Oran Berry | Heals 10 HP under 50% health.

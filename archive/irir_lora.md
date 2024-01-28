@@ -578,7 +578,7 @@ SDXLは高性能かつファイルサイズが大きいため16以下で良い�
 - 学習に使うウェイトはanimefull
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
-- 4000-6000steps,Dim16/Alphaはdimの4分の1
+- 4000-6000steps,Dim4-16/Alphaはdimの4分の1
 - 畳み込み層はほぼ影響ないのでconv_dimとかの指定はいらない
 - OptimizerはDAdaptation系(LR=1)
 - IN04-07,OUT03-06だけでいい

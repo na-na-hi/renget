@@ -15,7 +15,7 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 12 | **Experience to Next Level:** 115/120
+**Level:** 13 | **Experience to Next Level:** 5/130
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
 **Pokécoin:** 495₽ | **Glorious Gold:** 0 Bars
 
@@ -119,3 +119,4 @@ Tackle | No secondary effect.
 Growl | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each.
 Water Gun | No secondary effect.
 Protect | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
+Foresight | The User's Moves never miss. The User's Normal and Fighting-Type Moves can hit Ghost-Types.

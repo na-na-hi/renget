@@ -12,6 +12,9 @@
 	##->**Updates**<-
 
 	>==Audio== 
+	> - **01/28 - Updated + Added**
+	>- I updated the audio files and added new ones. The total went from 414 songs to 988 songs. [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
+	>- Also updated Members folder - Added 58 songs
 
 	>==Chapters== 
 	> - **01/15 - Added**
@@ -21,7 +24,10 @@
 	> - **01/27 - Updated**
 	>- [#23. 『2022-04-13』 - 【MEMBERS ONLY】UNARCHIVED Pop Punk ACAPELLA [zq94wRfvz3o]](https://rentry.org/irdxq/#2022-04-13-members-onlyunarchived-pop-punk-acapella-zq94wrfvz3o) 
 	>- [#12. 『2022-01-05』 - 【MEMBERS】 Acapella KARAOKE [unarchived] [5EkQTBaITmI]](https://rentry.org/irdxq/#2022-01-05-members-acapella-karaoke-unarchived-5ekqtbaitmi)
-
+	>- [#09. 『2021-12-19』 - (UNARCHIVED) Merry Christmas Songs Karaoke! [JUjLmtOcucc]](https://rentry.org/irdxq/#2021-12-19-unarchived-merry-christmas-songs-karaoke-jujlmtocucc)
+	> - **01/28 - Updated**
+	>- [#03. 『2021-11-12』 - 【SINGING PRACTICE】Key word is practice [vgKVv8Saywc]](https://rentry.org/irdxq/#2021-11-12-singing-practicekey-word-is-practice-vgkvv8saywc)
+	>- [#02. 『2021-10-15』 - 【UNARCHIVED】Sleepy Singing [31wNJfaYIos]](https://rentry.org/irdxq/#2021-10-15-unarchivedsleepy-singing-31wnjfayios)
 	
 	>==Karaoke Clips==
 	> - **01/15 - Added**
@@ -41,15 +47,15 @@
 	>==Random== - 01/16 - Added some videos - [Here](https://rentry.org/66rsod)
 
 ***
->>**Mega link to the vods for unarchived members karaoke**
->>**Updated link on 04/25/23 - Added "【MEMBERS ONLY】Practicing New JP Songs !!"**
+>>->**Mega link to the vods for unarchived members karaoke**<-
+>>->**Updated folder on 01/28/24 - Added "Audio - 58 songs"**<-
 >https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ05OWlE5Q1NnelpWT2V4TXFCWDJ1Sk5HQk1xQ2drMU1xajA5ZzF1OUNmanJoZWFMMVN4MEVScWRzSks1SWN0SDMvZzhiUkprbnIxV0s0VnRZd3ZMTWl1K25GeXY3UT09IiwiaSI6ImxseDVjVi85V2RkV0E3N1AifQ==
 >**The password is the first line Mumei said in this comment.** - When you copy the text don't copy the empty space at the end.
 >https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA/community?lc=Ugw-4_lhRf9ztdI1L254AaABAg&lb=UgkxwzbiSc357FsmIfGrHl5b4hBGEKIbc-Gn
 
 ***
-!!! danger  Audio Only https://mega.nz/folder/LhEkgRwR#YabXpu5NwGJdibLZQ-bS7Q
-	Total: 414 Songs
+!!! danger  Audio Only https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ
+	Total: 988 Songs 
 
 !!! warning
 	###-> **Chapters for Mumei's karaoke vods** <-
