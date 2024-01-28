@@ -1,11 +1,10 @@
 **PonyDiffusionV6XL LoRAs**
 
 - Ashley Graves (The Coffin of Andy and Leyley)
-https://pixeldrain.com/u/NU5U86J1
-https://pixeldrain.com/u/TYqFbTRu
-https://pixeldrain.com/u/niW2HkGP
-- Jasmine (Aladdin), Crysta (FernGully), Wonder Woman (2009), 
-  Emma Frost & Jean Grey (Wolverine and the X-Men)
+https://pixeldrain.com/u/ddhMfwoc v5
+https://pixeldrain.com/u/zutaCP8W v6
+- Jasmine, Crysta (FernGully), Wonder Woman (2009), 
+  Emma Frost & Jean Grey (Wolverine and the X-Men), Charmcaster
 https://mega.nz/folder/lypUWYiL#KyUzXZIaSZEHOragae6s2Q
 
 

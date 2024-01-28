@@ -18,6 +18,10 @@
 	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE]](https://rentry.org/irdxq/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe) 
 	> - **01/26 - Added** + **Updated**
 	>- [#60. 『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]](https://rentry.org/irdxq/#2024-01-25-1-million-subscriber-endurance-karaoke-%E6%AD%8C%E6%9E%A0oh-lets-do-this-7l_qvd9xdrk) 
+	> - **01/27 - Updated**
+	>- [#23. 『2022-04-13』 - 【MEMBERS ONLY】UNARCHIVED Pop Punk ACAPELLA [zq94wRfvz3o]](https://rentry.org/irdxq/#2022-04-13-members-onlyunarchived-pop-punk-acapella-zq94wrfvz3o) 
+	>- [#12. 『2022-01-05』 - 【MEMBERS】 Acapella KARAOKE [unarchived] [5EkQTBaITmI]](https://rentry.org/irdxq/#2022-01-05-members-acapella-karaoke-unarchived-5ekqtbaitmi)
+
 	
 	>==Karaoke Clips==
 	> - **01/15 - Added**

@@ -1067,6 +1067,8 @@ https://files.catbox.moe/kqx0vs.mp4 New  1/21/24
 https://files.catbox.moe/tkf13d.mp4 New  1/22/24
 >Scenes from the Mujahideen Brigades targeting concentrations of Zionist enemy vehicles and soldiers in eastern Jabalia with a Sa’ir missile
 https://files.catbox.moe/8x53is.mp4 New  1/23/24
+>Hamas video showing its clashes with military vehicles on the outskirts of Khan Yunis, south of the Gaza Strip. 
+https://files.catbox.moe/lgrvja.mp4  1/27/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1417,3 +1419,5 @@ https://files.catbox.moe/0rbpc7.mp4 New  1/27/24
 https://youtu.be/FRsprNTNiNM  New  1/27/24
 >Hezbollah published a video showing the launch of the Iranian "Falaq-1" rockets, a tactical high-explosive rockets that operates on solid bipropellant fuel, targeting the Ma’aleh Golan base.
 https://files.catbox.moe/krjmpx.mp4 New  1/27/24
+>YEMEN: “The Battle of the Promised Conquest and Holy Jihad” maneuver, central region of the #Yemeni Armed Forces
+https://files.catbox.moe/kxsr90.mp4 New  1/27/24

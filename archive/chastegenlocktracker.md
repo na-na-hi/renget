@@ -5,7 +5,7 @@
 1. Chaster has finally added a feature to "limit lock time" when you create a lock. This is a hard-deadline for a lock where time cannot be added that brings you over it. __Make use of it__.
 
 ##### Currently Tracked locks
-_(Updated 25-Jan-2024)_
+_(Updated 27-Jan-2024)_
 
 !!! note 
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -30,7 +30,6 @@ _(Updated 25-Jan-2024)_
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
-| Sissydenied | https://chaster.app/sessions/Cn7scvYnAQtI6hp5 | === |
 | umbaqaduyevua | https://chaster.app/sessions/yF2393kuv7xoTVz2 | 31-Jan-2024 |
 | bovinelovely | https://chaster.app/sessions/vEg5eUE0SGGGNHRy | === |
 | bluethesub | https://chaster.app/sessions/3jbrVL0rRxI1Sucv | === |
@@ -38,5 +37,7 @@ _(Updated 25-Jan-2024)_
 | programmingsocklover | https://chaster.app/sessions/Zkw6utoQb858qcG0 | === |
 | xoronite | https://chaster.app/sessions/oyY87eMVrRD6cyXe | === |
 | Bambi_snowshed917 | https://chaster.app/sessions/fSSLXOySmOwtYjU1 | === |
+| ediomede | https://chaster.app/sessions/ugW1FqvoNI3nlIcX | === |
+| Salee1443 | https://chaster.app/sessions/ZvkkffWmoj3CyGmE | === |
 |  |  |  |
 |  |  |  |

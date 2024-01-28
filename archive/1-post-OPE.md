@@ -11,9 +11,9 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: "KUUKIYOMI: Consider It" (Sat 01/27 7PM CT)
-Last stream (Dota 2 collab with Fauna, Bijou, Calliope and Kobo)
-https://www.youtube.com/watch?v=WE-rTxTaunE
+Next stream: ? (possibly on Sun 01/28 7PM CT)
+Last stream (Palworld)
+https://www.youtube.com/watch?v=gtAt6xfeuFo
 Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 

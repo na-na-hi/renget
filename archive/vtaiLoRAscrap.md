@@ -18,6 +18,7 @@
 **Mashan (Indie?)** - https://civitai.com/models/275701/mashan-cyber-dragon-ru-vtuber
 **Hinako Kitsune (Indie?)** - https://civitai.com/models/274760/hinako-kitsune-ru-vtuber
 **Inui Toko (Nijisanji)** - https://civitai.com/models/274606/inui-toko-nijisanji
+**Eimi Isami (Phase Connect)** - https://civitai.com/models/265116/eimi-isami-phase-connect (imo it look very off so maybe not good?)
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -26,9 +27,10 @@
 **Kurune Kokuri (Indie)** - https://civitai.com/models/272804/kurune-kokuri-vtuber
 **PapitasVT (Indie)** - https://civitai.com/models/273171/papitasvt
 **Kobo Kanaeru (Hololive)** - https://civitai.com/models/280560/kobo-kanaeru-hololive
-**LYCORIS** **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-melody-vshojo-or-original-appearance-4-outfits-or-locon
+LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-melody-vshojo-or-original-appearance-4-outfits-or-locon
 **Neuro-sama V2 + Evil Neuro + Vedal (Indie)** - https://civitai.com/models/276788/neuro-sama-and-evil-neuro-2-outfits-turtle
 
 ### -> SDXL (will not test, unless..?) <-
 **Fallenshadow / Shondo (Indie)** - https://civitai.com/models/265519/fallenshadow-sdxl
 **Pomu Rainpuff (Nijisanji)** - https://civitai.com/models/273382/pomu-rainpuff-sdxl
+(PonyXL ONLY) **Hololive -Promise-** - https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ

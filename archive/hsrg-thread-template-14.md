@@ -3,11 +3,6 @@
 ***
 Previous: >>
 
-\>LIVESTREAM CODES
-TT9S28LK4QHP
-EA8BKR4JL93T
-LTQA2Q5249KF
-
 \>Download - https://hsr.hoyoverse.com/en-us/home
 
 \>2.0 Preview Page - https://act.hoyoverse.com/sr/event/e20240126version-pp3ay8/index.html

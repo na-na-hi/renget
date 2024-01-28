@@ -3033,3 +3033,274 @@ https://t.me/megatron_ron/1383  1/26/24
 
 "Canada will continue to support Israel’s right to exist and defend itself", she added.
 https://nitter.woodland.cafe/QudsNen/status/1750995838002692567#m  1/26/24
+
+Indian media published images of “MARLIN LUANDA” oil tanker catching fire in the Gulf of Aden, after it was hit with a missile by AnsarAllah Yemen.
+
+>According to this report, an Indian Navy warship has helped in the firefighting operation of this ship.
+https://nitter.net/AryJeay/status/1751208560845877335#m  1/27/24
+
+>Another alleged image of the British “MARLIN LUANDA” oil cargo ship that was hit by AnsarAllah Yemen yesterday. 
+
+According to reports, its crew was forced to leave the ship on lifeboats and the state of the ship is not in good condition, some report it’s on the verge of sinking.
+https://nitter.net/AryJeay/status/1751192756364386682#m  1/27/24
+
+>The Iraqi Parliament and Iraqi Government has stated that the Americans and their military presence in Iraq must end.
+
+The Americans refuse.
+
+Now the Iraqi Government is forced to negotiate for a foreign military presence to leave its own country.
+
+This is US imperialism.
+https://nitter.net/Twelver313/status/1751187601699061852#m  1/27/24
+
+>🛑| Al-Mayadeen quoted a maritime security company saying a cargo tanker reported a “suspicious approach” incident 700 miles southeast of Salalah in Oman.
+https://nitter.net/AryJeay/status/1751179217050468669#m  1/27/24
+
+>The Red Crescent: We urge the international community to provide protection for our headquarters and crews in Khan Yunis.
+https://nitter.net/QudsNen/status/1751220114622423503#m  1/27/24
+
+>According to Save the Children organization, there is an estimated 335,000 children at risk of malnutrition.
+
+As the genocide is entering its 113th day, 1.8 million people have been displaced, the death toll surpassed 26,000 human lives, and Gaza has turned into a graveyard for more than 10,000 children killed by Israel.
+https://nitter.net/QudsNen/status/1751206621609435523#m  1/27/24
+https://files.catbox.moe/18rthc.mp4  1/27/24
+
+>Water contamination affects two-thirds of the population in Gaza: Environmental Quality Authority
+https://nitter.net/QudsNen/status/1751162039630794783#m  1/27/24
+
+>Breaking: Canada, Australia, Italy, and The UK have paused funding to UNRWA following US investigations alleging the involvement of certain staff in the October 7 attack.
+https://nitter.net/QudsNen/status/1751239206075072605#m  1/27/24
+
+>⚡️MUST WATCH: Al-Qassam (Hamas) has published a video showing its clashes with military vehicles on the outskirts of Khan Yunis, south of the Gaza Strip. 
+
+What a beautiful Merkava shot. 🔻
+https://nitter.net/AryJeay/status/1751232058880401480#m  1/27/24
+https://files.catbox.moe/lgrvja.mp4  1/27/24
+
+>⚡️Ministry of Health:
+
+The occupation committed 19 massacres in the #Gaza Strip, claiming 183 martyrs and 377 wounded, during the past 24 hours.
+https://nitter.net/ME_Observer_/status/1751156417539486013#m  1/27/24
+
+>REPORT:
+
+⚡ 🇬🇧🇾🇪 This morning, the British oil tanker Marlin Luanda, which is full of jet fuel, is still burning and the crew cannot put out the fire.
+
+As a reminder, the Houthis hit him with a missile yesterday.
+https://t.me/megatron_ron/1395  1/27/24
+
+>🟡| BREAKING: Hezbollah announced attacking the HQ of a “secret command unit” in the Zabdin barracks in the occupied Shebaa Farms with an Iranian "Falaq-1" high-explosive rocket, achieving a direct hit.
+
+This is the 2nd time Hezbollah used the Falaq-1 rocket.
+https://nitter.net/AryJeay/status/1751244281694597230#m  1/27/24
+
+>🟡| Hezbollah is attacking more important strategical points now, they just announced:
+
+The targeting of espionage facilities at the maritime Al-Bahri site (near Naqoura) with appropriate weapons, achieving direct hits.
+https://nitter.net/AryJeay/status/1751247699649667142#m  1/27/24
+
+>BREAKING| Israeli forces targets a crew from the Palestinian telecommunications company in Gaza during their attempt to repair the lines.
+https://nitter.net/QudsNen/status/1751206048038293614#m  1/27/24
+
+>Breaking | Israeli warplanes launch airstrikes on Aita al-Shaab, Jabal al-Botom, and Blida in southern Lebanon.
+https://nitter.net/QudsNen/status/1751250046736035887#m  1/27/24
+
+>BREAKING:
+
+Angry at the International Court of Justice's ruling that Israel is committing genocide, the US, UK, Germany and other US vassal states cut off funding to UNRWA
+
+The day after the verdict, the US and its vassals massively cut funding to UNRWA, on the grounds that its members had participated in attacks on Israel.
+
+All these countries ignore the court's decision and continue to support the Israeli genocide. In this way, completely undermining the legitimacy of the court that they themselves formed.
+
+Without the help of UNRWA, many Palestinian children will lose their lives due to hunger and lack of food and water.
+https://t.me/megatron_ron/1399  1/27/24
+
+>🟡| BREAKING: Hezbollah announced attacking the HQ of a “Brigade’s command unit” in the Zabdin barracks in the occupied Shebaa Farms with an Iranian "Falaq-1" high-explosive rocket, achieving a direct hit.
+
+>This is the 2nd time Hezbollah used the Falaq-1 rocket.
+https://nitter.net/AryJeay/status/1751253298122772909#m  1/27/24
+
+>⚡️#Iraqi armed factions announce that they have targeted the Koniko field base in Deir ez-Zor, eastern #Syria, with a missile salvo
+https://nitter.rawbit.ninja/ME_Observer_/status/1751256994432897240#m  1/27/24
+
+>⚡️Huge demonstrations will be held tonight in Tel Aviv, demanding an exchange deal with #Hamas even if it costs a complete ceasefire and the dismissal of Netanyahu.
+https://nitter.rawbit.ninja/ME_Observer_/status/1751264770831876559#m  1/27/24
+
+>BREAKING:
+
+ 🇮🇱🇱🇧 Israel is preparing to invade southern Lebanon
+
+Reports are coming from Israel that Israel Defense Forces (IDF) is carrying out a 'massive transportation' of logistics towards the Israeli-Lebanese border.
+
+I24 News announced: "If diplomatic efforts fail, Israel will invade southern Lebanon and force Hezbollah beyond the Litani River."
+
+Hezbollah rejected a ceasefire more than a month ago and regularly targets military facilities in northern Israel.
+
+The gradual withdrawal of the IDF from Gaza is also a clear sign that the second phase of the conflict, ie. war between Hezbollah and Israel will begin.
+
+These days, the USA is delivering massive amounts of weapons to Israel, including F-16 and F-35 fighter jets.
+https://t.me/megatron_ron/1401  1/27/24
+
+>⚡️Al-Qassam (Hamas) published a video showcasing several IOF drones that have been seized/downed over the past few days.
+
+Drone include surveillance quadcopters, suicide drones, etc.
+https://nitter.rawbit.ninja/AryJeay/status/1751274956350980163#m  1/27/24
+https://files.catbox.moe/ldp975.mp4  1/27/24
+
+>Breaking | Israel intends to halt UNRWA activities in Gaza after the war.
+Israeli Foreign Minister Israel Katz stated that the Israeli Foreign Ministry aims to ensure that "UNRWA will not be a part of the day after."
+Katz also asserted, "UNRWA perpetuates the refugee issue, obstructs peace, and serves as a civilian arm of Hamas in Gaza."
+https://nitter.rawbit.ninja/QudsNen/status/1751272384491827367#m  1/27/24
+
+>⚡️#Lebanon: Al-Mayadeen correspondent in the south: Rocket salvoes towards the Upper Galilee
+https://nitter.rawbit.ninja/ME_Observer_/status/1751277305735831811#m  1/27/24
+
+Switzerland foreign ministry announce that no decision would be taken on an expected aid payment to the UN agency for Palestinian refugees (UNRWA) until “serious accusations” against several UNRWA staff were clarified.
+https://nitter.rawbit.ninja/QudsNen/status/1751296372177850610#m  1/27/24
+
+>⚡️ Israeli army spokesman:
+
+Our forces increased their readiness on the northern front and conducted intensive training to enhance efficiency and readiness for war
+
+Fighters were trained to fight cities and crowded residential neighborhoods in keeping with the terrain of the northern front
+https://nitter.rawbit.ninja/ME_Observer_/status/1751298531355214185#m  1/27/24
+
+🇺🇬 The Ministry of Foreign Affairs of Uganda denounced, in a statement, the stance of the Ugandan Judge at the ICJ.
+
+The MoFa of Uganda further states that the judge’s position does not reflect the position of Uganda.
+https://nitter.rawbit.ninja/AryJeay/status/1751305618810397182#m  1/27/24
+
+>⚡️WATCH: Hezbollah published a video showing the launch of the Iranian "Falaq-1" rockets, a tactical high-explosive rockets that operates on solid bipropellant fuel, targeting the Ma’aleh Golan base.
+https://nitter.rawbit.ninja/AryJeay/status/1751303334978281815#m  1/27/24
+https://files.catbox.moe/krjmpx.mp4  1/27/24
+
+>⚡️Netanyahu: 
+
+Our goal is to eliminate the authority of #Hamas. We will not allow the presence of armed forces in #Gaza, and we will not end the war before achieving the goal
+https://nitter.rawbit.ninja/ME_Observer_/status/1751306928561545552#m  1/27/24
+
+>⚡️YEMEN:
+
+ “The Battle of the Promised Conquest and Holy Jihad” maneuver, central region of the #Yemeni Armed Forces
+https://nitter.rawbit.ninja/ME_Observer_/status/1751312517882597508#m  1/27/24
+https://files.catbox.moe/kxsr90.mp4  1/27/24
+
+Activists stormed and closed Barclays Bank’s city center branch in Manchester, protesting its investments in arms companies supplying Israel.
+https://nitter.rawbit.ninja/QudsNen/status/1751316804989849649#m  1/27/24
+
+>JUST IN:
+
+ 🇬🇧 UK says it has ‘considerable concerns’ about ICJ ruling, rejects genocide accusation
+
+UK spokesperson says 'Israel’s actions in Gaza cannot be described as a genocide, which is why we thought South Africa’s decision to bring the case was wrong and provocative'
+
+UK is another country that has undermined the 'legitimacy' of the International Court of Justice in The Hague. Practically not recognizing the judgments of the court that they themselves created, it questions its existence.
+
+Western countries, in addition to being ready to go to war with the Houthis in the name of Israel, they are now ready to destroy the international court of justice in The Hague because of Israel.
+https://t.me/megatron_ron/1403  1/27/24
+
+>Breaking | Spokesperson for the Ministry of Health in Gaza: "The countdown has begun for the generators to stop at Nasser Hospital within 4 days due to fuel shortages."
+https://nitter.rawbit.ninja/QudsNen/status/1751322588658155685#m  1/27/24
+
+>⚡️ Information specific to LBCI:
+
+Indicated that one of the Arab countries informed #Hezbollah of intelligence information indicating that Tel Aviv will launch a major operation deep inside #Lebanon that may lead to a turnaround in matters.
+https://nitter.rawbit.ninja/ME_Observer_/status/1751330557412164036#m  1/27/24
+
+>🛑| Lebanese LBC reports from its sources that one of the Arab countries has informed Hezbollah that, according to intelligence information, israel is preparing to launch an extensive military operation in Lebanese territory that will lead to a bigger escalation in the region.
+https://nitter.rawbit.ninja/AryJeay/status/1751344708243087529#m  1/27/24
+
+>BREAKING| Germany joins western countries, which will stop funding for UNRWA over Israel's allegations about the UN's affiliation with Hamas.
+https://nitter.rawbit.ninja/QudsNen/status/1751350769763176489#m  1/27/24
+
+>🛑| 🇾🇪 AnsarAllah Political Bureau member, Al-Bukhaiti told Al-Mayadeen:
+
+Military operations against the Zionist entity will continue until the aggression against Gaza stops.
+
+We hope that the battle will be direct between us and the Americans.
+
+The deployment of American & British ground forces in Yemen will be good for us because our objectives will expand.
+
+One of the British warships was directly hit near the American ship that was targeted.
+https://nitter.rawbit.ninja/AryJeay/status/1751364887421280728#m  1/27/24
+
+>Former Labour Party leader @jeremycorbyn described the UK's suspension of funding to UNRWA as collective punishment. 
+
+"Our government should be ashamed of its moral depravity toward Palestinians starving to death", He added.
+https://nitter.rawbit.ninja/QudsNen/status/1751374656278323321#m  1/27/24
+
+>BREAKING:
+ 🇮🇱🇱🇧 Thousands of elite IDF soldiers belonging to the Golani Brigade have been deployed to the Northern front, after having left Gaza in the past few weeks.
+
+Hundreds of tanks, APCs and IFVs have also been transferred to the border with Lebanon.
+
+Israeli media reports that the invasion of Lebanon will begin in the next 2 weeks
+https://t.me/megatron_ron/1405  1/27/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 27 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a D9 military bulldozer with a Yassin-105 rocket, in Al-Amal neighborhood, west of Khan Yunis in the southern Gaza Strip.
+
+🔻Targeted a Merkava tank with a Yassin-105 rocket, in Khan Yunis city, southern Gaza Strip.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Engaged in fierce clashes with Zionist forces & their army vehicles, using machine guns and anti-tank missiles, in the axes west and south of Khan Yunis city.
+
+🔻Shelled "Sderot," "Nir Am," and settlements in the Gaza envelope with rocket barrages.
+
+🔻Targeted a Merkava tank and 2 military vehicles with RPGs in the western axis of Khan Yunis city.
+
+🔻Shelled the military gatherings around the Abu Safiyah military site, east of Maghazi camp in the central Gaza Strip with mortars.
+
+🔻Shelled a supply line and military vehicles' movement with mortars, east of Maghazi camp in the central Gaza Strip.
+
+🔻Fired barrages of mortar shells at IOF soldiers and their vehicles in the axes west and southwest of Khan Yunis city.
+
+— 🇵🇸 Al-Mujahideen Brigades:
+
+🔻Targeted the deployment and concentration of IOF soldiers, west of Beit Lahia with heavy-caliber mortars.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Shelled IOF forces infiltrating into Khan Younis with mortars and 107mm rockets.
+
+🔻Clashed with IOF forces in Baten Al-Samin and Al-Amal neighborhood, and fired an RPG at one of the military vehicles.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Clashed with IOF forces on the axis west of Khan Younis city in the southern Gaza Strip.
+
+🔻Clashed with IOF forces, using appropriate weapons, on the axis of Al-Atatra area, north of Beit Lahia, in the northern Gaza Strip. 
+
+🔻Clashed, using appropriate weapons, with IOF forces on the axes east of Khan Younis in the southern Gaza Strip. 
+
+— 🇵🇸 Al-Asifah Forces:
+
+🔻Shelled the gatherings of IOF forces near the city of Khan Younis with a number of short-range rockets and mortars.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the deployment of Israeli soldiers around Jal al-Alam site with Burkan IRAM rockets, achieving direct hits.
+
+🔻Targeted a gathering of israeli soldiers, south of the Al-Abad site with rockets, causing direct hits.
+
+🔻Targeted a gathering of israeli soldiers around the Doviv site with rockets, causing direct hits.
+
+🔻Targeted the Khirbet Ma'ar military base with rockets, causing direct hits.
+
+🔻Targeted the HQ of a brigade’s military commando unit in the Zibdin barracks in the occupied Shebaa Farms with the Iranian Falaq-1 rockets, causing a direct hit.
+
+🔻Targeted espionage equipment at the maritime Al-Bahri IOF site, with suitable weapons, causing direct hits.
+
+🔻Targeted a gathering of israeli soldiers around the Shomera barracks with rockets, causing direct hits.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the Conoco US base in the Syrian depth with a missile barrage.
+
+🔻Attacked the Ain al-Assad US base in western Iraq with suicide drones.
+https://nitter.rawbit.ninja/AryJeay/status/1751398695134736825#m  1/27/24

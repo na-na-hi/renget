@@ -32,3 +32,60 @@
 >that dancer out on the floor was not particularly graceful
 >but the xeno was by themselves
 >opportunity
+
+>you hadn't the faintest clue what they were
+>it was a race that vaguely resembled an earth mantis
+>obviously humanoid
+>green exoskeleton plates formed a natural armor, clothes or the modesty to wear them apparently not needed
+>perhaps a cultural thing
+>hard to say
+>the exoskeleton meant they technically weren't in the nude
+>normally bugs would turn off people
+>you'd heard horror stories of weird bedroom habits or live in situations
+>plus there was just the assumption based off earth life
+>hard to see something that looks like a giant spider and not apply it to a race of giant arachnids
+>here though, you weren't really seeing a threat
+>they came up to your shoulder at best
+>no blade like limbs
+>just arms awkwardly flailing around
+>you knocked back another drink
+>humans were sort of unique compared to most other sentients in the galactic theater
+>most races didn't start off as persistence hunters
+>patience wasn't a uniquely human characteristic but it was one they were good at
+>it had been brought up before
+>you'd bide your time
+>try to put on the charm
+>in a minute or two
+>hunter you may be, rejection was a bitch
+>so maybe despite all the macho man "monkey run up to bug and smash" inner pep talks you were tense
+>worst she could say is no, right?
+
+>five drinks into some blue liquor and you were ready
+>it was game time
+>you were going to treat the bug lady to a magical evening and you were hoping she didn't eat your head like you'd seen of earth bugs on the historic videos
+>you were ready
+>you were mean
+>you were...
+>no
+>fuck it
+>you wouldn't screw it up
+>you paid your tab to the bar tender machine
+>then focused on the task at hand
+>you formulated a game plan
+>would she respond well to compliments?
+>did she speak your language?
+>you wouldn't get far if you had to rely of a series of clicks and chirps
+>but you had to grab life by the balls
+>that liquid courage ran through your body like fire
+>she finally broke the dance when you approached
+>you worried you made a bad move when she paused but went forward anyways
+>the xeno had her yellow eyes on you
+>they weren't like a bug's
+>at least from what you could tell
+>she'd been so lost in the music she had them closed the whole time
+>no idea how she hadn't knocked over a waitress
+>you tried not to be a creep and stare
+>instead, you laid on the charm best you could and asked if she'd like to dance with you
+>she agreed
+>one step down
+>you'd make a fool of yourself out here but maybe you'd get lucky tonight

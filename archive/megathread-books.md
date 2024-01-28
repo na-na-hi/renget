@@ -110,7 +110,7 @@
 - An ebook store that offers many novels, short tales, and useful academic publications.
 - [URL Safety Results](https://www.urlvoid.com/scan/pdfstop.com/)
 
-### 🐐 [PDFDrive](https://pdfdrive.to/)
+### 🐐 [PDFDrive](https://pdfdrive.to/) / [2](https://www.pdfdrive.com/)
 - Almost any PDF book may be downloaded using this online platform, which welcomes both seasoned readers and newbies.
 - [URL Safety Results](https://www.urlvoid.com/scan/pdfdrive.to/)
 

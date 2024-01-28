@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The Clover Force
 **Level:** 12 | **Experience to Next Level:** 20/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 359₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 234₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

@@ -20,7 +20,7 @@ Soon it was past noon proper, and everyone who had taken an interest began to ga
 
 "̶E̵r̴r̴o̸r̸!̵"̸
 
-We stood at the ready for what felt like forever before a Pokemon trilled into a small porcelain whistle. We flung off toward each other like a pair of arrows. I had drawn my twinblades and collided with KFC's claws. His strength was absolutely overwhelming and betrayed his small frame. My senses went wild with information that I couldn't begin to parse. Diagrams and symbols clouded the corners of my vision. I was already getting overwhelmed by what was being fed to me. If this was the S.M.O.G.O.N. at work, I don't think I could handle it like this...
+We stood at the ready for what felt like forever before a Pokemon trilled into a small porcelain whistle. We flung off toward each other like a pair of arrows. I had drawn my twinblades and collided with KFC's claws. His strength was absolutely overpowering and betrayed his small frame. My senses went wild with information that I couldn't begin to parse. Diagrams and symbols clouded the corners of my vision. I was already getting overwhelmed by what was being fed to me. If this was the S.M.O.G.O.N. at work, I don't think I could handle it like this...
 
 *"Rotom I can't make heads or tails of this. Help me out; I'm barely holding on here!"* KFC squinted at me with that one eye of his, and... I think he's smirking? Is he sussing this shit out somehow?! Rotom spun across my view and made the downstream of symbols something more my speed. "This is your active parameter, Master! I suggest utilizing your Booster Energy cell immediately!" My booster whatnow? Before I could even register, I felt the ground leave my feet as the Combusken swept out my legs. I immediately respond by vaulting backwards onto my knees rather hard. I grunted from the impact. "̶R̸r̸r̷h̶!̷" I bolt upward and run back at my opponent, attempting to drive the blunt of my blade into his center of mass and strike him in the gut. It was no good. He evaded it almost flawlessly without so much as clipping a feather.
 
@@ -40,7 +40,7 @@ We both collided in a tangle of limbs before crashing to the ground. I didn't ev
 
 This all felt very familiar. The drowsiness of sleep filled me as I woke up tied down again, this time apparently in the guild master's office in a cozy chair. Lliam was watching me intently from the chair I was bound in with my 'sparring partner' not far from me either. This is going to be good... "Ah, good morning! Yes, well... You're probably wondering what that entire exercise of ours was for yesterday. Well, you see Error..."
 
-The Combusken speaks bluntly. "You've been emanating and leaking raw emotion like a Riolu who lost his favorite ball, but we first had to make sure it was you."
+The Combusken speaks bluntly. "You've been emanating and leaking raw emotion like a Riolu who lost his favorite bone, but we first had to make sure it was you."
 
 Lliam nods as he shuffles some papers. "Hm, yes. Ever since you arrived, there's been some real 'bad vibes' as they'd call it, running through the place... And that just couldn't do. It leaves people restless and under-performing. It's not great for morale or the guild in general. Error, you have to be willing to open up about your problems and not bury yourself in grief like this."
 

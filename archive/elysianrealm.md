@@ -1,4 +1,4 @@
-#->Elysian Realm recommended builds 7.1<- 
+#->Elysian Realm recommended builds 7.2<- 
 dm medbae on discord for any mistakes/feedback or typos in translation
 Added 'Remarks' for brief description of some precautions
 
@@ -11,7 +11,7 @@ translated from 月光中心
 click image to jump to valk
 
 !!! info 7.2 Phase 1
-[![fovbas](https://i.imgur.com/LbhPwsL.png)](https://rentry.org/ElysianRealm#fenghuang-of-vicissitude-basic)
+[![fovbas](https://i.imgur.com/LbhPwsL.png)](https://rentry.org/ElysianRealm#fenghuang-of-vicissitude-basic)[![fovcom](https://i.imgur.com/idiIHuN.png)](https://rentry.org/ElysianRealm#fenghuang-of-vicissitude-combo)
 
 !!! info 7.1 Phase 1
 
@@ -101,6 +101,50 @@ Priority | Signet | Details
 Optional | Griseo1 | Red Yellow Grey are the key choices, don't need nexus; can also pick Kosmos2 nexus (basic atk, ultimate) as reinforcement
 
 !!! info Recommended to swap sigil on 6F, get Kalpas on 7F; Rotation:  tap weapon around every 12s, use ultimate when available, use basic atk rest of the time; lower level runs can use Su + Griseo breach to replace Hua
+
+#->Fenghuang of Vicissitude combo<-
+->![fovcom](https://i.imgur.com/gHwzNFu.png)<-
+-><-
+
+!!! info Phase 1
+##->Recommended Gear<-
+Weapon | Stig
+------ | ------
+Torch of Eons: Skyfire | Ordinary Days set
+
+Cost | Effect
+------ | ------
+0 | Parvati
+15 | Max HP breach
+15 | Weapon type DMG bonus    
+
+Support 1 | Support 2 | Type
+------ | ------ | ------
+VC | VKE | Utility
+BR | AE / MA | Damage
+
+Time | Sigil 
+------ | ------ 
+Start | Mad King's Mask / An Old Pal's Legacy 
+1st Shop | Light as a Bodhi Leaf / An Old Pal's Legacy 
+16F | Heavy as a Million Lives / An Old Pal's Legacy 
+
+##->Ego Signets<-
+Vermillion Fire 朱炎 | Unbroken Rampart 亘绝 |  Observation 观化 | Attainment 极诣 | Arcane Traces 玄迹 |
+:-: | :-: | :-: | :-: | :-: 
+**Start** | **Start** | 2nd | No | No 
+
+##-> Signets<-
+Priority | Signet | Details
+------ | ------ | ------
+1st | Kalpas1 | Both damage boosts, HP cap up, vulnerability are the key choices; recommended to pick all enhanced
+2nd | Su1 | Vulnerability, both combo boosts, TDM are the key choices, unlock nexus ; can pick vulnerability from enhanced
+2nd | Hua2 |  Breach, both damage boosts, are the key choices, unlock nexus 
+2nd | Pardofelis1 | Both damage boosts, HPSP cap up are the key choices, unlock nexus 
+Optional | Vill-V1 | 3 2 are the key choices, don't need nexus; can also pick Griseo Red Yellow as reinforcement
+
+!!! info Rotation : Hold basic atk for combo - tap basic - tap basic on the flashing circle - hold basic for combo - tap weapon - tap basic on flashing circle - use ultimate whenever available; recommended to swap sigils on 6F, roll Kalpas on 7F; low level runs can use Su + Griseo breach to substitute for Hua
+
 
 #->Cosmic Expression parry<-
 ->![ceparry](https://i.imgur.com/CD8UsFP.png)<-

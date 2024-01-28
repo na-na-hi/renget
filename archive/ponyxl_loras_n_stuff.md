@@ -285,6 +285,8 @@ Females: https://files.catbox.moe/oklpz8.txt
 Males: https://files.catbox.moe/1lptzn.txt
 Female Pokemon: https://files.catbox.moe/sljtm8.txt
 Male Pokemon: https://files.catbox.moe/ka331j.txt
+Western Characters: https://files.catbox.moe/15bayo.txt
+More Western Characters: https://files.catbox.moe/bhjnpb.txt
 
 ##LoRA training
 I'm currently running sdxl_train_network.py with the following settings to train on a 4090 using about 13.8 GB VRAM. This obviously isn't the only way to run it and maybe my settings could be improved, feel free to express your opinion in /hdg/. 

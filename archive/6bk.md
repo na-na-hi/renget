@@ -1,1 +1,0 @@
-# [ACCTS | name hoarder (more than 20k names!)](https://rentry.co/accts)

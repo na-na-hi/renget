@@ -1,5 +1,5 @@
 ## Get your %red%de%%%green%su%% here!
-### And /a/ic/g/ watchalong ~desu!
+### (And /a/ic/g/ watchalong ~desu!)
 #### Order:
 ***
 1. **Rozen Maiden (Anime, 2004)**
@@ -20,23 +20,31 @@
 - *Rozen Maiden: Dolls Talk (Manga spin-off, 2011)*
 - *Maite wa Ikenai Rozen Maiden (One-shot comedy spin-off, 2012)*
 - *Zettai ni Maite wa Ikenai Rozen Maiden (One-shot comedy spin-off, 2016)*
-***
 #### -> [Download manga](https://www.mediafire.com/file/j027vet2qkw2o5e/Manga.zip/) <-
-#### Suiseiseki's personal watch order recommendations:
+***
+#### Suiseiseki's personal watch order recommendations, just for (You), Anonymous:
 ![](https://files.catbox.moe/vzhvrh.png)
 ***
-->  %#b5bd68%>I've never watched or read but I'm down for an /aicg/ watchalong desu.%% <-
--> **Then leave your thoughts and suggestions about during desu hours or consult your nearest rozenfag on /rozen/, thank you desu.** <-
--> FYI anime's 20th anniversary watchalong for /a/ is planned(?) on October 6-8. We'll see desu. We'll make our own anyway, with AI and Crunky!<-
-***
+##### -> You expected some FAQ? Too bad! It's just some useful links (for now)! <-
 ##### -> [Official news](https://twitter.com/rozen_official) <-
 ##### ->  [Third-party shitty wiki](https://rozenmaiden.fandom.com/wiki/Rozen_Maiden_Wiki) <-
 ##### ->  [Rozen Maiden Booru](https://rmbooru.org/) [(Backup)](https://rm.booru.org) <-
-#### ->  [Discuss it on the current main imageboard - /rozen/ (Come post some desu!)](https://zzzchan.xyz/rozen/index.html) <-
+***
+->  %#b5bd68%>I've never watched or read but I'm down for an /aicg/ watchalong desu.%% <-
+-> **Then leave your thoughts and suggestions about during desu hours or consult your nearest rozenfag on /rozen/, thank you ~desu.** <-
+-> I know that the anime's 20th anniversary watchalong for /a/ is being planned(?) by some suspicious anon(?) somewhere October 6-8 or so. <-
+-> But we'll make our own rightful and orthodox conservative Rozen Maiden watchalong, with desubots and Crunky! Praise the Dolls, our Perfect Girls! <-
+
+-> Everything is almost ready, desu's estimation is the next Saturday or sooner, but you decide, anon! See the link below ~desu! ↓<-
+
+##### ->  [Discuss it and get actual info and links on the current main imageboard - /rozen/ (Come post some desu!)](https://zzzchan.xyz/rozen/index.html) <-
+
+***
 
 %#b5bd68%>where is...%%
 It's a WIP, you retard.
 Feel free to suggest your stuff in a current /a/ RM/desu thread, talk to the techdesus of /g/ during desu hours, or just go post on /rozen/.
-There are **NO** any "official" discords/matrixes/telegrams/ircs/whatever, avoid them like fire, anon, it's for your own good desu.
+There are **NO** any "official" discords/matrixes/telegrams/ircs/whatever, avoid them like fire, anon, it's for your own good ~desu.
+
 
 !>I really need to write some kind of FAQ desu...

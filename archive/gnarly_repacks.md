@@ -11,6 +11,10 @@ Password for all links is "gnarly"
 
 For re-sending repack requests that you originally posted on the site, or any questions, shoot me a message on Reddit DMs or an email at:
 itsgnarlybitch@proton.me
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Dragon Ball Raging Blast Collection (+RPCS3) [Gnarly Repacks] [5.89 GB]
+https://bin.0xfc.de/?ab4b3c87bd05029d#5hwF2LKG1J2AbuAi1PCrBb8oTWpHRcwrrpYwFEMo138p
 ------------------------------------------------------------------------------------------------------------------------------------------
 Palworld (EA-b13269235/v0.1.3.0) + Dedicated Server) [Gnarly Repacks] [15.9 GB] - 
 https://bin.0xfc.de/?48147dea6b38a3d3#6tbrfudwadHicB9QSKZZecyV6Dq9wqo11N9EAFqKQqQr

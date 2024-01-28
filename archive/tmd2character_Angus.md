@@ -8,7 +8,7 @@ This must be a dream; I pinch and try to wake up, but to no avail. "Tis for real
 **Species:** Rufflet | **Affiliation:** N/A
 **Level:** 11 | **Experience to Next Level:** 75/110
 **Worn Item:** *N/A* | **Clothing:** Light-blue Scarf
-**Pokécoin:** 150₽ [753₽ in Bank] | **Glorious Gold:** 0 Bars
+**Pokécoin:** 925₽ [753₽ in Bank] | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -20,7 +20,7 @@ Pokémon's Ability | Description
 
 Stat | Points: 2 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 10 (21HP) | 21HP
+Health Points | 0 | Level 11 (21HP) | 21HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 1 | Attribute Stat *Tier ɪ* | +1 Special Damage
 Defense | 1 | Attribute Stat *Tier ɪ* | +1 Physical Mitigation
@@ -74,17 +74,17 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 Equipped Item: Stun Seed | Causes *Petrified* on consumption.
 1. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
-2. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
-3. Heal Seed | Cures all status conditions
-4. Reviver Seed | Revives fainted Pokémon to full HP. Becomes a Plain Seed upon consumption.
+2. Reviver Seed | Revives fainted Pokémon to full HP. Becomes a Plain Seed upon consumption.
+3. Empty
+4. Empty
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Abstain Seed | Causes Hungry on consumption.
-2. Magma Macaroni | It's not actually made of magma, but it sure can feel like it! | Increases Attack by 2 stages.
+1. Magma Macaroni | It's not actually made of magma, but it sure can feel like it! | Increases Attack by 2 stages.
+2. Empty
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
