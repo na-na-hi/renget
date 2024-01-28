@@ -60,6 +60,13 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/gs8eqr.png) | Mirrko | Happy-go-lucky combat android wants to be the very best while endlessly spewing memes. | [Catbox link](https://files.catbox.moe/3ta89z.png)
  ![](https://files.catbox.moe/644ib2.png) | Zuri | One-legged android looking for a new home. Despite her sad past she'll let nothing drag her down. | [Catbox link](https://files.catbox.moe/644ib2.png)
 
+###World Of Darkness/Vampire: The Masquerade
+The good version, not the shitty new WOD.
+Image| Name | Description | Link
+------ | ------ | ------ | -----
+ ![](https://files.catbox.moe/gbyok6.png) | Douleur | Malkavian. Sweet, caring, and expecting. ...or is she? | [Catbox link](https://files.catbox.moe/gbyok6.png)
+ ![]() | Dan | Nosferatu. Coming soon. | [Catbox link]()
+
 
 ###Standalone male bots
 Each has his own story and personality

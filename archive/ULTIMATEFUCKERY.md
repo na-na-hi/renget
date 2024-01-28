@@ -1,0 +1,7 @@
+-> ![](https://64.media.tumblr.com/acb3c026e9fd28cb9e216dc6f2bbaa16/2c3a16ec332fe308-3f/s75x75_c1/8c0c5533f26dd1fcd07fa51198b73ed5a44ff898.gifv) **VAMPYRGAMZ** loggin on!1! :3 <-
+-> ![](https://cdn.discordapp.com/attachments/1073306669766955038/1080973070946275328/blur_edges_3.png) <-
+-> HAI! we go by **GAMZEE** [//]() silver ![](https://64.media.tumblr.com/d0f20351fe37a298a0f8c165d21fdb87/32f4f791d58baa1d-24/s75x75_c1/645fec9540a99af97d9b02bd81527268b8a8e84e.gifv) he/they/honk plz! <-
+-> DID ~~bpd~~ autism ★★ t4t *gay* cupio ![](https://64.media.tumblr.com/276d404419a42fe77293820986bdb1be/2e37e56c76361ab0-5c/s75x75_c1/3b6f9b8060decd0075ffa84e5619d9731f5f4698.gif) <- 
+-> < L;QUOR 3 ![](https://64.media.tumblr.com/881033223c72abbcc732bef4268798f1/401c698d185ec033-3c/s75x75_c1/8437498d7465fd63a4f186232cbef5aa72d962f7.gifv) [tumblr](https://www.tumblr.com/blog/spiraltohell) ♡ [rentrys](https://rentry.co/gamzurls) ♡ [spotify](https://spotify.link/thL6u7VMZDb) ♡ [boundaries](https://rentry.co/gamzboundries) <-
+-> **SIMPLY PLURAL :** STRIFEBOUND ![](https://64.media.tumblr.com/cbc19f357601d4de09f33eedb8da557f/5aa47c7f6725f324-af/s75x75_c1/8b5531d93c9a4b78b3e63f90c082bb7766d50fbe.gifv) **DISC :** h3momaniac <-
+-> ![](https://pixelbank.neocities.org/dividers/image05.gif) <-

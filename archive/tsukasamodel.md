@@ -63,16 +63,18 @@ Then the roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} and {{u
 
 ## gen settings
 
+the bigger the model the higher you can put the temperature, for 7b i would use temp 0.7, for 8x7b 0.9, for 120b 1.1
+i keep everything here the same and just change temperature depending on the model
+dynamic temperature is good i keep the range at 0.3
+
+`temperature=1.0, dynatemp_range=0.3, dynatemp_expoinent=1, Repetition penalty=1.0, typical-p=0.99, top-p=1, top-k=4, Min P=0.05, Top A=0, Tail Free Sampling=1.0, Epsilon Cutoff=0, Eta Cutoff=0, Frequency/Presence Penalty=0, Microstat Tau=0`
+
+## stopping strings
+
 add `<|user|>`, `<|system|>`, and `<|model|>` to custom stopping strings `["<|user|>","<|model|>","<|system|>"]`
 
 ![agnai](https://feen.us/04f3ph.png)
 ![st](https://feen.us/8lma2q.png)
-
-recommended starting point gen settings for 120b:
-https://feen.us/fr64ef.json (you can import this into ST)
-`temperature=1.0, dynatemp_range=0.3, dynatemp_expoinent=1, Repetition penalty=1.0, typical-p=0.99, top-p=1, top-k=4, Min P=0.05, Top A=0, Tail Free Sampling=1.0, Epsilon Cutoff=0, Eta Cutoff=0, Frequency/Presence Penalty=0, Microstat Tau=0`
-recommended starting point for 13b model (i haven't tested it on 120b):
-`temperature=0.75, Repetition penalty=~1.18, top-p=1, top-k=0, Tail Free Sampling=0.85, Repetition penalty range=0, Microstat Tau=0, Microstat LR (ETA)=1`
 
 ## limarp
 

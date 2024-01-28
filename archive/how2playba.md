@@ -263,7 +263,7 @@ If you have trouble with the boss you can charge ur EX bar to 10 the battle befo
 I'd recommend using Tactical Supports. They can carry a lot of the missions by themselves. 
 
 If you hit a limit with your progression, switch over from normal to hard mode. Do the same until you hit a wall there. Alternatively, drain ur AP and get a few extra levels (1 AP = 1 XP) before trying the same stage again.
-You can refresh a hard node once a day for 3 extra sweeps. This is handy during rateup events, but generally not advised as it costs pyros. 
+You can refresh a specific hard mission, or hard node, once a day for 3 extra sweeps. This is handy during rateup events, but generally not advised as it costs pyros. 
 Farming a hard node for equipments is better than its normal counterpart.
 Don't ever farm for BDs, the drop chance (2-5%) is abysmal. 
 

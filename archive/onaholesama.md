@@ -332,7 +332,7 @@ Image| Name
 ![cool bitch](https://files.catbox.moe/4kj4gp.jpg) | Badass waifur
 ![crimes](https://files.catbox.moe/ujqpmt.png) | Gregg!
 ![headpat](https://files.catbox.moe/xopbj6.png) | Pepper, [prompt here](https://files.catbox.moe/e0fqmc.txt)
-![turkey](https://desu-usergeneratedcontent.xyz/g/image/1464/64/1464640347676.jpg) | darkness turkey, [prompt here](https://files.catbox.moe/i8xn02.txt)
+![https://files.catbox.moe/nhf6u4.png](https://desu-usergeneratedcontent.xyz/g/image/1464/64/1464640347676.jpg) | darkness turkey, [prompt here](https://files.catbox.moe/i8xn02.txt)
 
 ***
 ##DALLE STUFF

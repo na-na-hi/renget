@@ -325,8 +325,8 @@ Young love is so beautiful.
 https://archive.4plebs.org/tg/post/91626998/
 girlbosses (and haruhi)
 https://archive.4plebs.org/tg/post/91654539/
-Forbidden Fruit?
-https://archive.4plebs.org/tg/post/91714148
+Holloween Requests I
+https://archive.4plebs.org/tg/post/91725633
 
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
@@ -416,13 +416,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->New Teacher
->Riku Washizawa HN The Steel Talon Hero: Skycarver
->>91716771
-
->Art
-Free Amnesty
->>91712723
+>New Hero
+>Richard Wilkins HN The #1 Hydro Hero: "Splash"
+>>91721688
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -521,8 +517,6 @@ Page 2
 >>88192360
 >Johanna Hilt HN Gauntlet Hero: Weiss Schwarz
 >>88195437
-
->>89250569
 >Ganto Kanzaki HN The Clone Hero, Commander (NPC)
 >>89284218
 >Kagami Reina
@@ -602,7 +596,7 @@ https://rentry.org/HeartMHA
 >Omura Tadao HN Deceptive Hero, Conman
 >>88754723
 >Riku Washizawa HN The Steel Talon Hero: Skycarver
->>91716771
+>>91719484
 
 >Unaffiliated Heroes
 >Kenji Shako HN Strongest Shrimp Hero: Magnum Shrimp (and Water Fowl Hero: Flamingal)
@@ -652,6 +646,8 @@ Page 4
 >>91032513
 >Astra Smalls Aka Size King
 >>91360064
+>Richard Wilkins HN The #1 Hydro Hero: "Splash"
+>>91721688
 
 >SUPPORTERS:
 >Lady Astoria Belmont

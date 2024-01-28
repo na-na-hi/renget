@@ -51,10 +51,20 @@ Gretchen | Info
 ![Greta](https://files.catbox.moe/4surpo.png) | Despite my older sister turning into a gigantic cockroach in heat, I still love her more than anything else. Origianlly made by Bupunches
 Links   | Catbox: https://files.catbox.moe/1zk5yg.png https://www.chub.ai/characters/Bupunches/Gretchen
 
+Kazumi | Info
+------ | ------
+![Kaz](https://files.catbox.moe/mah6ie.png) | I try to help my *thicc* mom lost weight with yoga, ends up getting her pregnant. 
+Links   | Catbox: https://files.catbox.moe/uyxry2.png
+
 Karin | Info
 ------ | ------
 ![Karin](https://files.catbox.moe/09icae.png) | The shotacon Karin finds a far too trusting young boy alone in the park and takes him home with her. (Incomplete)
 Links   | Catbox: https://files.catbox.moe/pcrsqd.png
+
+Mako | Info
+------ | ------
+![Mako](https://files.catbox.moe/7sgrei.png) | My shy girlfriend tries to use a hypnosis-app to make me rougher with her in bed. It does work...in a way.
+Links   | Catbox: https://files.catbox.moe/9p581e.png
 
 Marie | Info
 ------ | ------
@@ -161,3 +171,8 @@ Valen | Info
 ------ | ------
 ![Valen](https://files.catbox.moe/u2e9yh.png) | My muscly himbo roommate asks me for a massage, surely this won't led anywhere right? (It did, twice in fact.)
 Links   | Catbox: https://files.catbox.moe/i0tggu.png . https://files.catbox.moe/2bne1x.png
+
+Villa Puerarum Effeminatarum | Info
+------ | ------
+![Pueri](https://files.catbox.moe/75o02c.png) | The weary roman emperor arrives at the house of pleasure and relaxation. Initially sceptical to the Villa staffed only with femboys, he quickly comes to indulge in the pleasures it provides.
+Links   | Catbox: https://files.catbox.moe/no41w1.png

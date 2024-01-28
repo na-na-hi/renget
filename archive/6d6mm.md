@@ -1,7 +1,7 @@
 #### Biboo Merch Directory
 *Links for voice packs and other merch*
 
-Last updated: 2024-01-06
+Last updated: 2024-01-27
 
 ##### Voice packs
 - [hololive English -Advent- New Year's Voice Drama 2024 "A Very Fugitive New Year"](https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024) 
@@ -17,5 +17,6 @@ Last updated: 2024-01-06
 - ~~[Starting Voice](https://shop.hololivepro.com/en/products/starting-voice-koseki-bijou)~~ 
 
 ##### Physical merch
+- [hololive x CAPSULE Cheer Up](https://www.cmer.co/pages/hololive-production-cheer-up) *Pre-order will end at 23:59 18th February 2024*
 - [hololive closet Koseki Bijou New Year Outfit (Acrylic stand)](https://shop.hololivepro.com/en/products/hololivecloset_kosekibijou_newyearoutfit)
 - [Advent's Halloween Party T-shirt, hoodie](https://twitter.com/hololive_En/status/1716295882146988485)
