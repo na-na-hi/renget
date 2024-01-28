@@ -1,0 +1,29 @@
+![](https://64.media.tumblr.com/00a245f38f979ec39166a6432e5931fc/8ff0570d72b3d749-7c/s100x200/00834ed124c7dc9fed5d6f6dd759a0592fbe7d8a.pnj) 
+-> ![](https://64.media.tumblr.com/525d0fc030e0dc045989ef791a26ec9d/446bb72d471aaeb9-e2/s100x200/d388b8435a352584b73194f5665631218827fe96.pnj) <-
+![](https://64.media.tumblr.com/7a85c08aec6ec528d43789d725664055/d27ef0fbc2db1d28-70/s75x75_c1/375592b4f34d740578265c02eecdbe53b3f5ea65.gifv) ==**highlighted fav**== **✦** [bolded capital i](https://rentry.co/pofu) **✦** cr [me](https://Twitter.com/teramoeto) if rm decorateds!! ![](https://64.media.tumblr.com/4d0534175b67525b89e26cab8353f969/435fea04cf10f1e1-63/s75x75_c1/580e1cb623fe031f52270876752a8beb13897cac.gifv) ☆ﾟ.*･｡ﾟ☆ﾟ.･｡ﾟ ♪ [==old urls==](https://rentry.co/sved) 
+!!! Warning 
+      -> ==**decorated**== [csr](https://rentry.co/csr) [lub](https://rentry.co/lub) [donutella](https://rentry.co/donutella) ![](https://64.media.tumblr.com/112e7a2aa7fedd5d41813fd0947783f5/76a6486747b622ba-de/s75x75_c1/f35a55854dccb5a9de4e6e1ed43a20d508258ed1.pnj)  <-
+୨ **manga / animes** ![](https://64.media.tumblr.com/786e0307af9ae10e3c980cc60c6032c8/2443733618388543-83/s75x75_c1/ba7d4026176797520c9b0ca35f523e837c3da89b.gifv) ୧ 
+[mintnabokura](https://rentry.co/mintnabokura)  [sugarsoldier](https://rentry.co/sugarsoldier)  [peachgirl](https://rentry.co/peachgirl)  [nishimiyaryo](https://rentry.co/nishimiyaryo) [shunsukeyoshino](https://rentry.co/shunsukeyoshino) [**mewkIe**](https://rentry.co/mewkie) [howdoyoulive](https://rentry.co/howdoyoulive) [pikari](https://rentry.co/pikari) [obeymeshallwedate](https://rentry.co/obeymeshallwedate)
+  [blood-c](https://rentry.co/blood-c)
+->  ୨ **artists** ![](https://64.media.tumblr.com/c6405fd514c40193b78e76dd292d660d/4d1c2d124326afee-1b/s75x75_c1/4975d4378a88296df97ff0f86380f7f7c62a25e7.gifv) ୧ 
+ [tomokokawase](https://rentry.co/tomokokawase) [kooyeham](https://rentry.co/kooyeham) [galdoll](https://rentry.co/galdoll) [mimiirose](https://rentry.co/mimiirose)
+ [gahyun](https://rentry.co/gahyun) [anh](https://rentry.co/anh) [jerin](https://rentry.co/jerin) [05class](https://rentry.co/05class) [iz0ne](https://rentry.co/iz0ne) [twicer](https://rentry.co/twicer) [rinji](https://rentry.co/rinji) [shenyue](https://rentry.co/shenyue) [chuuvi](https://rentry.co/chuuvi) [girlgeneration](https://rentry.co/girlgeneration) [oncer](https://rentry.co/oncer) [ayme](https://rentry.co/ayme) [softboiledegg](https://rentry.co/softboiledegg) [aymemiura](https://rentry.co/aymemiura) ->
+ ୨ **songs** ![](https://64.media.tumblr.com/88fc7a2992de6b9e66c2a39e071b5ffd/3636b147cea3fa30-6b/s75x75_c1/bce27a7bd14d7ad0cd35db704013e69b973907e8.gifv) ୧ 
+[heavyrotation](https://rentry.co/heavyrotation) [boyslikeyou](https://rentry.co/boyslikeyou) 
+[theaustronaut](https://rentry.co/theaustronaut) [illella](https://rentry.co/illella) [chooseme](https://rentry.co/chooseme) 
+->  ୨ **foods** ![](https://64.media.tumblr.com/34c63c63cd860ac74ec824b38aa2ce00/aa8c26655fc284c6-d6/s75x75_c1/b9ec1aa69809f9b87d097dca2c6e3243b03328f0.gifv) ୧ 
+[lollipopz](https://rentry.co/lollipopz) [natto](https://rentry.co/natto) [icecreamsandwich](https://rentry.co/icecreamsandwich) 
+[nomnoms](https://rentry.co/nomnoms) [chococornets](https://rentry.co/chococornets)  [**chocoIatey**](https://rentry.co/chocoIatey) 
+[strawbies](https://rentry.co/strawbies) [bunilla](https://rentry.co/bunilla) [creampies](https://rentry.co/creampies) [pancakie](https://rentry.co/pancakie) ->
+ ୨ **fashion** ![](https://64.media.tumblr.com/d8963e46edfa9a806e97fbd2578141a1/d27ef0fbc2db1d28-89/s75x75_c1/dbd7ae6ae85667e6568ab285d52cad17d3be6e28.gifv) ୧ 
+[decodens](https://rentry.co/decodens) [phonecharms](https://rentry.co/phonecharms) [blumarines](https://rentry.co/blumarines) [kogyarus](https://rentry.co/kogyarus) [loosesocks](https://rentry.co/loosesocks) [lisliza](https://rentry.co/lisliza) [harajukuu](https://rentry.co/harajukuu) 
+ -> ୨** sanrio** ![](https://64.media.tumblr.com/2c9e6bb87c986fd4e0a8416a2e2af9c6/46fe39de2052a69f-85/s75x75_c1/6014f1673a3f17b728bba38b09c71d76b3ae8915.gifv) ୧ 
+[pudims](https://rentry.co/pudims) [chocat](https://rentry.co/chocat) [yoyocici](https://rentry.co/yoyocici) ->
+୨ **etc** ![](https://64.media.tumblr.com/3866e2082cc0685b879643cebcffdc0d/9e070aec302acff9-05/s75x75_c1/39045a0bfed83dc96ce2614ea60fee43bb8b39e8.gifv) ୧ 
+[megacute](https://rentry.co/megacute) [dolleyed](https://rentry.co/dolleyed) [daum](https://rentry.co/daum) [sayclub](https://rentry.co/sayclub) [teddies](https://rentry.co/teddies) [monchhichi](https://rentry.co/monchhichi) [lovenoted](https://rentry.co/lovenoted) [angelique](https://rentry.co/angelique) [pofu](https://rentry.co/pofu) [-b-](https://rentry.co/-b-) [pinkpink](https://rentry.co/pinkpink) [starric](https://rentry.co/starric) [drac](https://rentry.co/drac) [digidiary](https://rentry.co/digidiary) [girlblogs](https://rentry.co/girlblogs) [**doIIfie**](https://rentry.co/doIIfie) [deadcorpse](https://rentry.co/deadcorpse) [visualnovels](https://rentry.co/visualnovels) [voodoos](https://rentry.co/voodoos) [romoccs](https://rentry.co/romoccs) [sweetier](https://rentry.co/sweetier) [ribbonie](https://rentry.co/ribbonie) [origamis](https://rentry.co/origamis) [vlogger](https://rentry.co/vlogger) [**bIogging**](https://rentry.co/bIogging) [chatbox](https://rentry.co/chatbox) [scarier](https://rentry.co/scarier) [screamos](https://rentry.co/screamos)
+ [o-u](https://rentry.co/o-u) [sweetful](https://rentry.co/sweetful) [moi](https://rentry.co/moi) [jewelrybox](https://rentry.co/jewelrybox) 
+
+
+!!! Warning 
+     -> ==✿== [twitter](https://twitter.com/teramoeto) [retrospring](https://retrospring.net/cake) [ib](https://rentry.co/pho) <-

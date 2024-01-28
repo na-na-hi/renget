@@ -1,0 +1,6 @@
+-> ![](https://mikejima.crd.co/assets/images/gallery07/2e78f142.gif?v=16e7e82c) " cemetery [*baby*](https://www.youtube.com/watch?v=0dqZIhlSqRA), i want you in [*my*](https://www.youtube.com/watch?v=0dqZIhlSqRA) world. " ![](https://mikejima.crd.co/assets/images/gallery07/a20c801e.gif?v=16e7e82c) <-
+-> ![](https://media.discordapp.net/attachments/1087174056106791012/1120119321792880701/Untitled179_20230618183408.png) <-
+-> ![](https://media.discordapp.net/attachments/982634866699014256/1120123811359100958/IMG_8625.png) **[m](https://mandela-catalogue.fandom.com/wiki/Mark_Heathcliff)ark** heathcliff ┄ ![](https://pixel.crd.co/assets/images/gallery03/bc7dbc1d.png?v=f96483b1) **he**ノ~~h~~im . age**slide**
+ ![](https://mikejima.crd.co/assets/images/shadow/28c26509.gif?v=16e7e82c) ︵ [*pan*](https://lgbtqia.fandom.com/wiki/Panromantic)~~rom~~antic . [*vampire*](https://www.pinterest.com/pin/84231455522261941/)boy **&&** sys[~~in~~trj](https://mandela-catalogue.fandom.com/wiki/Mark_Heathcliff)
+adhd**tistic** ‧₊˚ **anxiety**~~hl~~dr *iwc* ![](https://mikejima.crd.co/assets/images/shadow/e5f0e267.png?v=16e7e82c) [**O1**](https://pk.fulmine.xyz/m/wvnlk) ✩★ [**O2**](https://rentry.co/weepinglovers) <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1100874305656594522/B8D0EDAC-1CF3-4204-A528-F0302B18F289.png) <-

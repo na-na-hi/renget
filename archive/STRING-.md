@@ -1,0 +1,3 @@
+-> ![](https://cdn.discordapp.com/attachments/871900038647906384/1163395112378843167/blur_edges_4.jpg?ex=653f6b21&is=652cf621&hm=ae85ac754d1d6deea0cf25b6b01ecad04b21fafc651d03e1523f14246d12b350&) <-
+->  ⋏       　　     　➳　   　      ![](　https://cdn.discordapp.com/attachments/1081047260466528266/1089365305727385720/image0.gif)　 seori 　 o͟r 　moeka　  ❜　　<-
+->![]( https://cdn.discordapp.com/attachments/1081047248911216640/1092293347063906304/image0.gif)     　   ∿ 　  　  doll**gender**　　　 she**cloud**   　 ⌣     　　   ![](https://cdn.discordapp.com/attachments/1081047270050508850/1082150781257531512/image0.gif) <-

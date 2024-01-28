@@ -1,0 +1,10 @@
+###### -> ![★](https://barbara.crd.co/assets/images/gallery01/ab4a7c68_original.gif?v=115e6ed7) you're the *best* [**person**](https://twitter.com/BabytronOwnsYou) i *know* ![★](https://barbara.crd.co/assets/images/gallery06/c6299d30_original.gif?v=115e6ed7)*!* <-
+-> ![♡](https://i.postimg.cc/T2rdB4DG/ezgif-2-c4cd053e4c.gif) <-
+
+-> ![☆](https://barbara.crd.co/assets/images/image100.gif?v=115e6ed7) <-
+-> ![☆](https://64.media.tumblr.com/9cc592bf88dfd497235b2547bd80aedc/66a299925faff441-fb/s75x75_c1/946937b05bdf21a41f09ef808bccaa2b6d20fecf.gifv) he[ノ](https://pronouny.xyz/u/idoll)doll … para==boy==[thing](https://pin.it/3LQo2hq) ![★](https://gnome.crd.co/assets/images/punctuation/eb59573f.gif?v=7c5c308b) <-
+-> **5**teen ![★](https://gnome.crd.co/assets/images/punctuation/9a19da42.gif?v=7c5c308b) se**a**sian ![★](https://barbara.crd.co/assets/images/gallery38/a70434dd_original.gif?v=115e6ed7) **a**ro**a**ce <-
+-> enfp ![★](https://barbara.crd.co/assets/images/gallery44/6ac859d8_original.gif?v=115e6ed7) ==bi== achillean ![★](https://barbara.crd.co/assets/images/gallery03/fbd9f4c4_original.gif?v=115e6ed7) <-
+-> ![☆](https://barbara.crd.co/assets/images/image621.gif?v=115e6ed7) <-
+-> ![★](https://barbara.crd.co/assets/images/gallery03/8dc3642b_original.gif?v=115e6ed7) [**b**](https://rentry.co/b-yf)yf ![★](https://barbara.crd.co/assets/images/gallery01/c7b2e23b_original.gif?v=115e6ed7) [**d**](https://rentry.co/dn-i)ni ![★](https://barbara.crd.co/assets/images/gallery01/403a5e3a_original.gif?v=115e6ed7) [**i**](https://rentry.co/my-interest)nterests ![★](https://barbara.crd.co/assets/images/gallery01/fa1441a3_original.gif?v=115e6ed7) [**m**](https://rentry.co/more-abt-me)ore ![★](https://barbara.crd.co/assets/images/gallery02/1931fdaf_original.gif?v=115e6ed7) <-
+-> ![☆](https://barbara.crd.co/assets/images/image46.png?v=115e6ed7) <-

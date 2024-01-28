@@ -1,0 +1,6 @@
+-> ![](https://media.discordapp.net/attachments/1023194644005273663/1023645968152940564/60D016DB-6B0B-4446-84A4-FCC5E4BE736F.gif) <-
+-> ![](https://media.discordapp.net/attachments/1023194644005273663/1023646343442473011/image0.jpg) <-
+-> ![](https://media.discordapp.net/attachments/1009103799262118019/1013561298476347532/image0.gif)  .  ⊹  𝐀𝐧𝐢𝐞𝐥𝐚 `+`**she**ノ*they* ![](https://media.discordapp.net/attachments/1009103799262118019/1013561957707681802/image0.gif) <-
+-> ☆  **bisexual**....  ⸝⸝ ![](https://media.discordapp.net/attachments/1009103799262118019/1013563315454218400/image0.gif) ⊹₊ <-
+-> ![](https://media.discordapp.net/attachments/1009103799262118019/1013195344852570162/image0.gif) 𝐛𝐚𝐥𝐤𝐚𝐧 ![](https://media.discordapp.net/attachments/1009103799262118019/1013723074505474079/image0.gif) ro/eng  ★☆ ==istp==![](https://media.discordapp.net/attachments/1009103799262118019/1013195545663246437/image0.gif) <-
+-> [carrd](https://brsfsfewv.carrd.co/) ⋆ [who made this rentry](https://rentry.co/gothpoke) <-

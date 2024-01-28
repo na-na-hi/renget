@@ -1,0 +1,5 @@
+-> ![](https://media.discordapp.net/attachments/1012559729106624564/1032260131146174494/16_sin_titulo_20221019135245.png)
+![](https://barbara.crd.co/assets/images/gallery02/96fadd6b_original.gif?v=115e6ed7) **STELLA!** [or]() **MELANIE** ![](https://barbara.crd.co/assets/images/gallery03/c27a248c_original.gif?v=115e6ed7) She[~]()**Neos** ![](https://barbara.crd.co/assets/images/gallery05/94615396_original.gif?v=115e6ed7)
+les**b**ian ![](https://barbara.crd.co/assets/images/gallery18/67e994b0_original.gif?v=115e6ed7) ~~unsure abt gender lmfao~~ ![](https://barbara.crd.co/assets/images/gallery11/f1a3f102_original.gif?v=115e6ed7) [int](https://ensemble-stars.jp/characters/hibiki_wataru/)[roj](https://pjsekai.sega.jp/character/unite04/tsukasa/index.html)
+wasian ![](https://barbara.crd.co/assets/images/gallery27/5c229571_original.gif?v=115e6ed7) **eichi** [&]() *rui* lover ~ single (for now)
+︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵<-

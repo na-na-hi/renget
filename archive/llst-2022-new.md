@@ -2,7 +2,7 @@
 
 -> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
 
--> ![](https://files.catbox.moe/vkrgpy.jpg)<-
+-> [![](https://files.catbox.moe/4jthsn.jpg)](https://warosu.org/jp/thread/45901673#p45901673,1)<-
 
 ***
 **Table of Contents**
@@ -556,8 +556,7 @@ Liella no Doko Iku? (Season 1)
 Part 1 : [576p](https://nyaa.si/view/1465161) | [720p](https://nyaa.si/view/1465162) | [1080p](https://nyaa.si/view/1467287)
 Part 2 : [576p](https://nyaa.si/view/1529414) | [720p](https://nyaa.si/view/1529415) | [1080p](https://nyaa.si/view/1529416)
 Part 3 : [576p](https://nyaa.si/view/1529418) | [720p](https://nyaa.si/view/1529419) | [1080p](https://nyaa.si/view/1529420)
-
-*Note: sadly there is still no standalone rip for the Season 2 versions but snippets and clips of it are uploaded on Bilibili and YouTube*
+*Note: sadly there is still no standalone rip for the Season 2 versions but subbed clips / highlights even if you're lucky, of it are uploaded on Bilibili and YouTube.*
  
 ラブライブ！スーパースター!!Liella!突撃ロケ
 Official YT Playlist: https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZzem-
@@ -621,7 +620,6 @@ Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 [Misaki Nako 1st PB (🧲)](https://nyaa.si/view/1762141) ![](https://files.catbox.moe/c95yx7.gif)
 [Chiemi Tanaka 1st PB (w/ exclusive DVD) (🧲)](https://nyaa.si/view/1762140) ![](https://files.catbox.moe/c95yx7.gif)
 [VOICE VISTA magazine vol.1 大熊和奏 (4.73mb)](https://files.catbox.moe/0nn40u.zip) ![](https://files.catbox.moe/c95yx7.gif)
-
  
 **Videos/Clips/Namas**
 **Raw:**
@@ -632,6 +630,7 @@ Raw niconamas & Aqours Locks - https://www.youtube.com/channel/UCl1KZAD-LWPlVI5K
 Raw niconamas - https://www.youtube.com/channel/UCK8Hs9st7QXeuUez_QvP90Q
 Nijigasaki AbemaTV Image Girl Battle - https://www.youtube.com/channel/UC9fvLHGAiPpnKfjE5GwFi4w
 Aqours broadcasts - https://www.youtube.com/channel/UCY-n3NM-QA2mA037Lz659ng
+[Akane Yabushima no Tsuyokunaru Special Live Event 2023.01.27](https://mega.nz/folder/UloyUToC#HfKlWEf1vgRYSG2yWSbCFg) ![](https://files.catbox.moe/c95yx7.gif)
 
 **Engsub:**
 Anchan Radio Curtain Call engsubs - https://www.youtube.com/channel/UCvbw0CC8sx-J_AInkSd6z8w
@@ -646,7 +645,7 @@ Talented Love Live - https://www.youtube.com/channel/UC__H3VjEseiHqJKCYXHDYQA
 Liella engsubs - https://youtube.com/@nagioshi
 https://youtube.com/@smithsubs876
 https://youtube.com/@bbadsubs
-Nama Subs - https://youtube.com/@Bookends-uw9db
+Nama Subs (wholly ai/machine generated) - https://youtube.com/@Bookends-uw9db
 
  
 **Magazines & Blog Translations**

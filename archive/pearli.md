@@ -1,0 +1,3 @@
+-> ![](https://media.discordapp.net/attachments/1012559729106624564/1033980384146366554/IMG_8859.jpg) 
+**pe**arl ♡ *s(he)* ![](https://barbara.crd.co/assets/images/gallery29/055366e9_original.gif?v=115e6ed7) **girl**thing *lesbian*
+< [taken](https://rentry.co/rosemori) 3 ![](https://barbara.crd.co/assets/images/gallery21/e316838e_original.gif?v=115e6ed7) e**nt**j 3~~w~~2﹒[introject](https://pjsekai.sega.jp/character/unite02/airi/index.html)<-

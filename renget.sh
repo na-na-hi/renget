@@ -89,7 +89,7 @@ get_ids_from_file()
 {
     file="$1"
     inf "getting ids from file $file..."
-    md=$(cat "$file")
+    md=$(cat -- "$file")
     p "$md" | filter_links
 }
 

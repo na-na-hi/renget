@@ -1,0 +1,7 @@
+![](https://cdn.discordapp.com/attachments/1002743930196066305/1038158720196169778/3C1E2946-7ED4-41F3-A91F-A6CEC657C4FD.png) *𝔐𝔢 𝔞𝔫𝔡 𝔱𝔥𝔢 [𝔡𝔢𝔳𝔦𝔩](https://tvtropes.org/pmwiki/pmwiki.php/Main/PuppetKing) 𝔴𝔞𝔩𝔨𝔦𝔫𝔤 𝔰𝔦𝔡𝔢 𝔟𝔶 [𝔰𝔦𝔡𝔢](https://tvtropes.org/pmwiki/pmwiki.php/Main/SuccubiAndIncubi)*
+-> ![](https://media.discordapp.net/attachments/852294159770451991/1107921690765303823/78129EA6-5E7B-4670-8DB8-C57CA4FD0309.jpg) <-
+-> ![](https://i.imgur.com/qdB8wVY.png) ·₊̣̇  [𝐓](https://tvtropes.org/pmwiki/pmwiki.php/Main/RoyalBrat)𝐇𝐄 [𝐑](https://tvtropes.org/pmwiki/pmwiki.php/Main/PrettyBoy)𝐔𝐈𝐍𝐄𝐃 [𝐊](https://tvtropes.org/pmwiki/pmwiki.php/Main/SurpassedTheTeacher)𝐈𝐍𝐆 ♡‧₊˚<-
+->❝ ![](https://xyz.crd.co/assets/images/gallery03/8605e049.gif?v=364e4a1e) *~*  SCYTH[E](https://rentry.co/moonlightvigil) ⛧ It[ﾉ](https://en.pronouns.page/@ruinedking)**Lust** &͟ ͏͏͏͏͏͏ ͏͏͏͏͏͏**19**~~00~~ ![](https://xyz.crd.co/assets/images/gallery11/cb04dadb.gif?v=d4055393)<-
+->꒰ . . *𝐅[𝐈](https://www.personality-database.com/collection/175228)𝐂𝐓*.  ![](https://i.imgur.com/flHAqnb.gif) **A**SPD**N**PD + *schizo* ![](https://xyz.crd.co/assets/images/gallery18/43a3a58c.gif?v=364e4a1e )<-
+->![](https://cdn.discordapp.com/attachments/942152673103335464/942462549658599464/b6a8f1a1.png) <-
+-> [𝐞](https://rentry.co/shinkomi)𝐱𝐭 [♡](https://rentry.co/sweetpools) [𝐝](https://rentry.co/soulunbound)𝐧𝐢 <-

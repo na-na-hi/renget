@@ -1,0 +1,6 @@
+-> ![](https://mikejima.crd.co/assets/images/shadow/27cb40d5.gif?v=03449813) *" so alone in [love](https://open.spotify.com/track/33dpfp0qvIftcxpzDyA9sJ?si=ij4OI7WATKm419xYtkJUiA) . "* ![](https://mikejima.crd.co/assets/images/shadow/95df5934.gif?v=03449813) <-
+-> ![](https://i.ibb.co/TrSfcDy/S.png) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/6932b622.gif?v=03449813) *or* . . RAND ![](https://pixelbank.neocities.org/decome/food/9c5b1a69.gif) CHARLIE *!!* <-
+-> ୧ ‧₊˚  *14 ~~yo~~* . . **he** him ++ ![](https://mikejima.crd.co/assets/images/shadow/1b7d14f1.gif?v=03449813) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/65140bd0.gif?v=03449813) . . .  ꒰![gay](https://i.postimg.cc/zBXHnMdZ/ocean-gay-flag-20px-7-stripes.png)![agender](https://i.postimg.cc/9MtPksPf/agender-7-stripes-20.png)![tmasc](https://i.postimg.cc/hG2Vg52w/transmasculine-7-stripes-20-px.png)꒱  ![](https://resource.crd.co/assets/images/gallery01/e254eb65_original.png?v=9b2f36e2) <-
+-> ★ my *lovely* [crd](https://littlefarter3000.carrd.co/#) . . ! <-

@@ -1,0 +1,5 @@
+-> — Well, tell [*them*](https://eighteleven.fandom.com/wiki/Ryker_Dublin) that I miss our [*little talks*](https://www.youtube.com/watch?v=ghb6eDopW8I). ![](https://pixelbank.neocities.org/decome/stars/9de9c3cc.png) <-
+-> ![](https://media.discordapp.net/attachments/1004917366787948606/1116118952767144087/ezgif-5-b11b3a9c7e.png) 
+❝ ![](https://media.discordapp.net/attachments/935017345250897930/1144399786565443776/IMG_1110.png) ⊹ ₊˚ [*leo*n](https://eighteleven.fandom.com/wiki/Leon) **he**she ✿ ~~*fict*~~ive *!?*
+bi**poc**![](https://mikejima.crd.co/assets/images/shadow/f8d344be.png?v=16e7e82c) adult ~~sub~~[sys](https://rentry.co/labasilicafiorita) *host*![](https://media.discordapp.net/attachments/935017345250897930/1141851768284778616/Untitled1060_20230817225106.png)⠀ [i](https://pk.fulmine.xyz/m/rsqqy) [ii](https://rentry.co/labasilicafiorita) [iii](https://rentry.co/weepinglovers)
+![](https://media.discordapp.net/attachments/982634866699014256/1116149167824306286/ezgif-1-32a64f4908.png) <-

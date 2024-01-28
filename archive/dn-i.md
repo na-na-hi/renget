@@ -1,0 +1,6 @@
+!!! info these do not apply to you if i interact first ![★](https://barbara.crd.co/assets/images/gallery18/cde0e939_original.gif?v=115e6ed7)
+-> ![♡](https://i.postimg.cc/T35shpX6/ezgif-3-c8414c1a50.gif) <-
+-> ![☆](https://64.media.tumblr.com/225fbdb4e0a4c95f2ba59153dfa0adc8/5632ba96b7a859c5-31/s400x600/23c5e39e54be80eae70117c072515d337bed2ce8.gifv) <-
+-> (**1**) basic dni criteria (**2**) -*14*/+*17* (**3**) ____phobic (**4**) anti of neos/xenogenders (**5**) support mspec *lesbians*/*gays* (**6**) proshipper (**7**) cishets, some of you are on thin ice (**8**) not critical of your favs (**9**) dont respect *prns*/*boundaries* (**10**) l@licon/sh@tacon/map (**11**) fetishize *mlm*/*wlw* (**12**) racist (**13**) use fonts anywhere on your *profile* (**14**) heavy *typing quirks* (**15**) you type like ✨this✨ (**16**) no common interests (**17**) you heavily involve yourself in drama (**18**) you like childe more than me srs (**19**) shtwt/dsmptwt/mcyt/drtwt (**20**) ill just *sb*/*hb* if you make me uncomfortable <-
+-> ![☆](https://64.media.tumblr.com/795b7c03bcc2af3dc4ec5c4026fee9da/5632ba96b7a859c5-0c/s500x750/8978ba8dc7a69accebf58173f4259a33a8db33ef.gifv) <-
+-> [![♡](https://i.postimg.cc/Zn0jDPHs/ezgif-5-a33ba1a2e0.gif)](https://rentry.co/idoIl) <-

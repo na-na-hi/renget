@@ -1,0 +1,1 @@
+[taser](https://rentry.co/taser)

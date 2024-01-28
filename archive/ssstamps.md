@@ -1,0 +1,3 @@
+->♡ ![](https://64.media.tumblr.com/b29c898391dac4851370fc1fa7a0e487/4c78c8d763e19d49-7b/s250x400/e436bf83664b002d1f017d348b7fdcb848c2781c.gifv)      ♡<-
+
+->[lovelypixelstuff](https://www.deviantart.com/lovelypixelstuff/gallery/61331226/stamps-and-dividers?set=61331226&offset=0)⠀[supplies](https://supplies.ju.mp/#stamps)⠀[gallery](https://gallery.crd.co/#myepicstamps)⠀[gardenia](https://gardenia.ju.mp/#graphics) [y2k](https://y2k.neocities.org/stamps.html)⠀[stamps](https://rentry.co/stamps)⠀[transparent](https://transparent.crd.co/#stamps)⠀[stampkin](https://stampkin.tumblr.com/tagged/stamps)⠀[thepixelshop](https://www.deviantart.com/thepixelshop/gallery/35229185/stamps)⠀[autism](https://autism.crd.co/#stamps)<-

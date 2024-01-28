@@ -1,0 +1,4 @@
+-> ![hii](https://media.discordapp.net/attachments/955305703935979550/1107462839221895298/49DC6D86-8731-4CCF-9523-47BC11BA883E.gif) <-
+-> **fav characters LOL** 
+**bold** means im insane and love them so much <-
+-> hatsune miku. patrick bateman. nanami hiromachi. the riddler. dainsleif. **aesop carl**. shinji ikari. light yagami. **miraak**. **revenant**. vance hopper. dottore. bluey. eichi tenoushin. ritsu sakuma. donnie darko. fuhua.  mammon. welt. **LEONNN KENNEDYYYYYYYY**. stan vogel.  kyubi. viktor hargreeves. michael afton. **Ena ShinoNOME..!!!!!!** william afton. **welt yang**. kamisato ayato. gabe lewis. finnick odair. **lip gallagher**. jesse pinkman. **walter jr.** peter parker. **albert wesker**. asuka langley. **hannibal lecter**. will graham. **baizhu**.  lara croft. jake peralta. doug judy. **childe**. dazai. tsukiyama shuu. shirou ogami. number 5. kyle spencer. **orpheus**. fluttershy. applejack.<-

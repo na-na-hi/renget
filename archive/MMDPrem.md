@@ -167,6 +167,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Tsukasa (つかさ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/838833) [[Fantia]](https://fantia.jp/fanclubs/31095) [[Twitter]](https://twitter.com/Tukasa365) <-
 
+[[Fantia]](https://fantia.jp/products/566239) : Kantai Collection - Heywood L. Edwards
 [[Fantia]](https://fantia.jp/products/545575) : Kantai Collection - Jervis
 [[Fantia]](https://fantia.jp/products/545502) : Kantai Collection - Janus
 [[Fantia]](https://fantia.jp/products/529662) : Kantai Collection - Javelin

@@ -1,0 +1,13 @@
+->♡ ◟**match**ing with ‹ [akane](https://rentry.co/AyumuFujinos) 3 <-
+->![](https://media.discordapp.net/attachments/1034185872918188042/1050816592864366642/IMG_20221209_184917.png)<-
+->[★](https://rentry.co/blisssey) — **A**mia / **M**ilotic  [◟⟡](https://rentry.co/blisssey) s(**he**) ![](https://i.imgur.com/BdzGTWo.gif) 1**6** & ~~yt~~ ◠
+ ╯╭ ![](https://f2.toyhou.se/file/f2-toyhou-se/images/22460137_8YiSDldX14crTHy.png?1623251728)![](https://f2.toyhou.se/file/f2-toyhou-se/images/22460647_YC9eijfCfv93Hok.png?1623251708) ![](https://terror.crd.co/assets/images/gallery09/e72f922f.gif?v=6420771f) **sys** **bpd**hd ~~hldr~~ ![](https://terror.crd.co/assets/images/gallery10/50d52841.png?v=6420771f) ★ [in](https://bungostraydogs.fandom.com/wiki/Ch%C5%ABya_Nakahara)[**tr**](https://myanimelist.net/character/209029/Eri)[oj](https://omori.fandom.com/wiki/BASIL)[**e**](https://myanimelist.net/character/199997/Kyomoto)[ct](https://hanako-kun.fandom.com/wiki/Yashiro_Nene)<-
+->   ![](https://gifs.crd.co/assets/images/gallery02/0d2a87bd.gif?v=5f0408ba) ↑↓ *[sy**s**](https://rentry.co/darlingdance)*﹐==*[ba**c**k](https://rentry.co/kyomotos)*==﹐*[dn**i**](https://listography.com/dni)*﹐*[l**o**ves](https://rentry.co/nadiacat)*﹐*[p**l**ayl**i**st](https://open.spotify.com/playlist/6tmNLGnXc4WR1XS0C3GtFG?si=h9Mh-uGqRGi7_iGl_TGYdw&utm_source=copy-link)* ↑↓  ![](https://gifs.crd.co/assets/images/gallery02/f22b4b60.gif?v=5f0408ba)<-
+- imnot good at about mes' so pls bear with me !!
+- im pretty dry at first too... (sorry :sob:)
+- im a s[ys](https://rentry.co/darlingdance) alter, im 16 (bodily 15 !!) im yt (ukrainian/jewish)
+- im hyperfixated on flylea**[f](https://en.wikipedia.org/wiki/Flyleaf_(band))**, look bac**[k](https://en.wikipedia.org/wiki/Look_Back_(manga))**, and goodbye er**[i](https://en.wikipedia.org/wiki/Goodbye,_Eri)** *pls dont say u like these more than me!!*
+- i also love tbhk, bsd, pokemon, hello charlotte, milgram, and omori tons !! [heres a full interest list!](https://rentry.co/nadiacat)
+- dont separate me from my sources please !!! *only applies to the ones listed (eri, chuuya, kyomoto, yashiro, BASIL)*
+- no dni aside from the basics, if you associate/are [this freak](https://rentry.co/dazai-is-over) ... , publicly hate on my sources/sp/ins , dont like [akane](https://rentry.co/AyumuFujinos) (leave rn !!!) + our p[sys](https://rentry.co/carnival-happy) in general 
+- umm im bffs with aoi !!! hiiiiiiii ^\_^ !!!! coolest ever. aoi haters dislikers etc dni ur so weird her>>>u

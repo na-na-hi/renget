@@ -1,0 +1,5 @@
+-> ![](https://media.discordapp.net/attachments/1012559729106624563/1051107671245344849/phonto.png)
+![](https://tomomi.neocities.org/pixeles/144.gif) ◟ **r**~~ub~~**y** `/` **y**ve**s** ![](https://pixelbank.neocities.org/decome/sanrio/bdf07691.gif) **she**`⋆`n*eos* ?**!** e~~nb~~y ![](https://pixelbank.neocities.org/decome/hearts/19bc174d.gif)
+`▷` age**less** ![](https://tomomi.neocities.org/pixeles/253.gif) s[y](https://rentry.co/carnival-happy)s p**er**s**ec**ut**o**r ![](https://tomomi.neocities.org/pixeles/224.gif) l**es**bi**an** ![](https://tomomi.neocities.org/21.gif)
+⇨ [i~~ntr~~o](https://ensemble-stars.jp/characters/saegusa_ibara/)[**ject**](https://bang-dream-gbp-en.bushiroad.com/character/chu2/) ![](https://tomomi.neocities.org/pixeles/43.gif) [‹ taken 3](https://rentry.co/moonlightglow) ![](https://tomomi.neocities.org/pixeles/281.gif) autis**bpd** + mdd
+![](https://tomomi.neocities.org/pixeles/130.png) ![](https://tomomi.neocities.org/divider/div15.gif) ![](https://tomomi.neocities.org/pixeles/130.png)<-

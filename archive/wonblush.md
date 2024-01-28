@@ -1,0 +1,3 @@
+-> ![](https://media.discordapp.net/attachments/1012559729106624564/1033783970246172682/Untitled24_20221023184810.png) 
+![](https://barbara.crd.co/assets/images/gallery11/b6a1a27a_original.gif?v=115e6ed7) **h**uiqing*[!]()* ﹒ *fem*ale ![](https://barbara.crd.co/assets/images/gallery27/043acefb_original.png?v=115e6ed7) lesb*ian* ~ **she** ![](https://barbara.crd.co/assets/images/gallery11/79a8b93a_original.gif?v=115e6ed7)
+![](https://barbara.crd.co/assets/images/gallery29/e6b9baf0_original.gif?v=115e6ed7) sysprotector ++ [introject](https://ensemble-stars.jp/characters/narukami_arashi/) ~ esfj 9w1 !! ![](https://barbara.crd.co/assets/images/gallery30/9277adf5_original.gif?v=115e6ed7)<-

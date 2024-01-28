@@ -1,0 +1,12 @@
+->![star](https://wilardo.crd.co/assets/images/gallery02/d511dc9a_original.gif?v=47044b3a) [**`easy read`**](alienenthusiast) (ㅅ˙³˙) [![back](https://64.media.tumblr.com/a6acde3a84b068776aa2658917510298/tumblr_inline_mly9b6Qxre1qz4rgp.gif)](alienaliens) ⦂ [![next](https://64.media.tumblr.com/7b2538969ce79856916039fc47188787/tumblr_inline_mly9beCCo51qz4rgp.gif)](Nayutaliens)
+[`←→ ⟳` ![pix](https://media.discordapp.net/attachments/903364339464044575/1086447858133254144/5B5E550A-EE4F-43A1-9469-551C9C51196D.gif) `www﹒d♡rlingd♡nce﹒com`]()
+◟⠀*It’s⠀love*﹐ *I⠀gasp⠀for⠀air*⠀ … ⠀[♪]()
+![bonnie](https://cdn.discordapp.com/attachments/870787415172845589/1126087000479518720/ezgif-3-6b3371d946.gif)
+![i am online](https://tomomi.neocities.org/pixeles/79.png)⠀⠀ ⠀![pix](https://i.postimg.cc/X7GPF3js/17.gif)⠀ ⠀⠀![pix](http://i171.photobucket.com/albums/u300/ferny-dust/sozai/dividers/8.gif)
+![pix](http://img.photobucket.com/albums/v252/shaquanda/dumpitydump/pixelwixel/3258.gif)⠀**S**unn*y* ﹒ **`Bonnie`** ﹒ **T**rac*y*⠀![pix](https://64.media.tumblr.com/5a30717adb9ab0b9eb1e024af3add32b/1c08e0bb4e29a891-3b/s75x75_c1/12bd037964346347be9028aba8fc83f9d1e57695.gifv)
+s**h͟e͟**⠀![pix](https://tomomi.neocities.org/pixeles/130.png)⠀ae⠀![pix](https://tomomi.neocities.org/pixeles/130.png)⠀star⠀![pix](https://tomomi.neocities.org/pixeles/130.png)⠀*i*__t__⠀  ![pix](https://tomomi.neocities.org/pixeles/235.gif) ⠀︶︶
+![div](https://media.discordapp.net/attachments/870787415172845589/1125111292483612755/ezgif-1-970151af7d.gif?width=190&height=25)![div](https://media.discordapp.net/attachments/870787415172845589/1125111292949188658/ezgif-1-c20284fdf3.gif?width=190&height=25)
+★☆⠀︵︵⠀**1**5⸝**1**6⠀﹗⠀`xeno`*l͟*e͟s͟⠀![](https://i.imgur.com/bjC7hVe.gif)
+co[**`host`**](neoaspects) ![pix](https://tomomi.neocities.org/pixeles/58.gif) [**`i`**](alienconspiracy)ntroj &͟⠀*y*t **j**ew ![pix](https://64.media.tumblr.com/0f579224cc483df311be3dc5286c9386/fc8a840c6c8c50e0-57/s75x75_c1/6d1fefe0c16569998919832dde9db481f6436754.gifv) 
+![pix](https://tomomi.neocities.org/pixeles/224.gif) **a**lien lv*r*⠀![pix](https://tomomi.neocities.org/28.png)⠀❛ **da**-**da**-**darling** `♡` ❜
+![div](https://media.discordapp.net/attachments/870787415172845589/1117432721220841473/ezgif-2-c4c90295be.gif?width=354&height=54)<-

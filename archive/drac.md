@@ -1,0 +1,2 @@
+->[%#c97dc9%ε(♡ᵔ ˕ ')з ˚. ⊹ ![](https://pix.crd.co/assets/images/gallery19/8fc4e4b2_original.gif?v=b85aaf99)%%](ningning)
+![](https://media.discordapp.net/attachments/1120358171085656199/1194436660658700388/ningning.gif?ex=65b058d3&is=659de3d3&hm=b75d05e183605c5508230f71dc97686e1327f548eb3fea88e73185b255eed781&=&width=460&height=258)<-

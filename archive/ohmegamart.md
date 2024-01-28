@@ -1,0 +1,11 @@
+-> [ΩMEGAMART](https://www.omegamart.com/) ![](https://watermelon.crd.co/assets/images/gallery11/848d8cbf.gif?v=90e42ef7) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/c29bedc2.gif?v=0ef41667) *" SΩ MANY [DΩΩRS](https://www.youtube.com/watch?v=7pA8hZqXWHY) , 
+SΩ [MANY](https://www.youtube.com/watch?v=7pA8hZqXWHY) QUESTIΩNS !! "* ![](https://i.imgur.com/4fUtwu4.gif) <-
+-> ![](https://media2.giphy.com/media/o776JJ5uy7Fj3UmYqj/200w.gif) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/e0bb4128_original.gif?v=0ef41667) [*a*](https://dash.pluralkit.me/profile/m/uirzn)ndres / [*m*](https://dash.pluralkit.me/profile/m/uirzn)r *o*mega *!!* ![](https://mikejima.crd.co/assets/images/shadow/ec5917fb.gif?v=0ef41667) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/00706cfb.gif?v=09a9ae7e) heノ**xe**ノribbonノ**it** <-
+-> [*f*ictive](https://omega-mart.fandom.com/wiki/Mr._Omega) ꒰ ![enby](https://i.postimg.cc/1533YLnz/non-binary-4-stripes-20-px.png)![pan](https://i.postimg.cc/8c1zGYZt/pansexual-3-stripes-21-pxx.png) ꒱ ![autism](https://resource.crd.co/assets/images/gallery01/e254eb65_original.png?v=9b2f36e2) *adhd*tsitic <-
+-> [non](https://en.wikipedia.org/wiki/Entity)[**hmn**](https://en.wikipedia.org/wiki/Humanoid) ![](https://mikejima.crd.co/assets/images/shadow/29cbb8a2.gif?v=0ef41667) [sys](https://dash.pluralkit.me/profile/s/zavro)**co**host ![](https://watermelon.crd.co/assets/images/gallery11/9d128963.gif?v=90e42ef7) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/bd576076_original.png?v=0ef41667) < my *[boyfriend](https://pk.fulmine.xyz/m/rwcoi)* !! 3 ![](https://mikejima.crd.co/assets/images/shadow/1179b015_original.png?v=0ef41667) <-
+-> ![](https://caterpie.crd.co/assets/images/gallery14/bde74151.png?v=55641fe5) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/3f70defd.gif?v=0ef41667) <-

@@ -1,0 +1,1 @@
+-> ![dametucosita](https://media.discordapp.net/attachments/990750840346271757/994042999258493038/20220706_085148.jpg?width=453&height=603) <-

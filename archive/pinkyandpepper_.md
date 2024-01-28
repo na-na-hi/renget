@@ -1,0 +1,12 @@
+-> ![](https://mikejima.crd.co/assets/images/shadow/3c729936.gif?v=16e7e82c) . . . [*m*](https://rentry.co/skydelamark)ark's *b*oundaries *!!* ![](https://mikejima.crd.co/assets/images/shadow/e49163c9.gif?v=16e7e82c) <-
+-> ![](https://media.discordapp.net/attachments/1023743151074185222/1110371076069920899/image.png) <-
+-> ![](https://mikejima.crd.co/assets/images/gallery35/41d3fe34.png?v=16e7e82c) <-
+-> **☆** ; ![](https://mikejima.crd.co/assets/images/shadow/135a000a.gif?v=16e7e82c) ,, *y*es *!!* <-
+-> nicknames, flirting, crushing, dms, source talk, <-
+-> source mates, doubles, kins, infodumping <-
+-> **☆** ; ![](https://mikejima.crd.co/assets/images/shadow/9d935212.gif?v=16e7e82c) ,, *a*sk *!!* <-
+-> touch, pda, petnames, dms, friend requests, <- 
+->venting, front req, teasing, <-
+-> **☆** ; ![](https://mikejima.crd.co/assets/images/shadow/56b812c5.gif?v=16e7e82c) ,, *f*riends *o*nly *!!* <-
+-> venting, nsfw, petnames, front requests, teasing <-
+-> ![](https://mikejima.crd.co/assets/images/gallery35/cb48734b.png?v=16e7e82c) <-

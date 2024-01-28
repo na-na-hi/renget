@@ -1,0 +1,1 @@
+hi [zzz](https://rentry.co/corpsepaint)

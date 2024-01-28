@@ -1,0 +1,1 @@
+yoo wtf rentry.co/-taehyun

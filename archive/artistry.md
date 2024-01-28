@@ -1,0 +1,7 @@
+-> ![](https://media.discordapp.net/attachments/1184787934356979772/1200151876839145585/blur_edges_17.png?ex=65c52389&is=65b2ae89&hm=b71eebe6730e79941ff6e710195b9b62730519c063086ff9a52761138a9961a8&=&format=webp&quality=lossless&width=750&height=87) <-
+->![](https://64.media.tumblr.com/tumblr_lmt0f3VLgt1qfel73.gif) %#ebb5d3% *" you said you !~fou~!* %%%#d499db%*!~nd~!* %% %#d499db% *someone and you !~[left](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh?si=f92046ed76264a73)~! my* %% %#c2a7eb% *beatin' heart on the floor "* %% <-
+-> ![](https://media.discordapp.net/attachments/1184787934356979772/1200150502877429911/Untitled36_20240126024812.png?ex=65c52241&is=65b2ad41&hm=037daae444441412ebc1f2b751f21be1d463186a936973684c5ca30028682d77&=&format=webp&quality=lossless&width=568&height=437) <-
+->%#dd92bb%୨ৎ%%⠀%#b49dd4%*@* **amaya**%%⠀⠀%#ccabc1%ㅤ⯎ㅤ%%⠀%#c99bcc%**any**%% %#ccabc1%prns%%
+%#a097ba% *unlabelled* %% %#ccabc1%cisfem%%⠀⠀ ![](https://cdn.discordapp.com/attachments/961487012299436062/1001981588415979682/Parasol.gif)⠀⠀%#dd92bb%[!~01~!](/remindings)%% %#b49dd4%[!~02~!](/disayangi)%%
+![](https://files.catbox.moe/jg7upv.gif)⠀%#ccabc1% —%%⠀ %#dd92bb%**INFJ**%% %#ccabc1%1w2%%⠀%#b49dd4%♡%%⠀%#a097ba%mixed%% %#ccabc1%asian%%<-
+-> ![](https://media.discordapp.net/attachments/1184787934356979772/1200151877157916782/blur_edges_18.png?ex=65c52389&is=65b2ae89&hm=b145cad947f3c5578c5d7f978b8c7ee9bb21bfd3499c2a425e7a21c15360ebf4&=&format=webp&quality=lossless&width=750&height=87) <-

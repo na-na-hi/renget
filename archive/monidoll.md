@@ -1,0 +1,12 @@
+***
+->![div](https://cdn.discordapp.com/attachments/1064597015503315054/1115992266079735868/Untitled2311_20230607141444.png)
+![div](https://media.discordapp.net/attachments/877634429940539412/1142517736996610169/ezgif.com-gif-maker_16.png?width=1440&height=85)<-
+
+->⠀⠀![erm](https://cdn.discordapp.com/attachments/871900038647906384/1169510537135140924/blur_edges_15.jpg?ex=6555aa90&is=65433590&hm=fda93e8a78f1aa1207c3d765a4d35d97cd8d62dff143b39a17e62048c029b235&)
+ㅤ![](https://i.postimg.cc/D0YLsQHS/ezgif-2-2504b02c8e.gif)ㅤ **tristan** or **taylor** ![](https://phonecharm.carrd.co/assets/images/gallery15/0db8e7a4.png?v=a0242c79)
+ **h**e⠀![pix](https://phonecharm.carrd.co/assets/images/gallery15/f29511e6.gif?v=a0242c79)⠀*vamp*⠀![pix](https://i205.photobucket.com/albums/bb186/mhilkas/Currently/sentindo-3.gif)⠀doll ![pix](https://media.discordapp.net/attachments/903364339464044575/1086447455287136398/5A4CC19D-E23A-4DD7-A28D-DFC91B8CB1A8.gif)    *adhd*tism
+ **bl**wasian ![](https://tomomi.neocities.org/pixeles/245.gif) **n**bpd
+  ![pix](https://media.discordapp.net/attachments/1128723801484562583/1150731007268503602/ezgif.com-gif-maker_45.png?width=31&height=31)[![1](https://media.discordapp.net/attachments/1132322085532868608/1150446609327460422/ezgif.com-gif-maker_41.png?width=31&height=31)](https://rentry.co/PRETTYBOYTOORU) [![2](https://media.discordapp.net/attachments/1132322085532868608/1150445662161358950/ezgif.com-gif-maker_38.png?width=31&height=31)](https://rentry.co/K0KICHI) [![3](https://media.discordapp.net/attachments/1132322085532868608/1150445662559801348/ezgif.com-gif-maker_39.png?width=31&height=31)](https://rentry.co/SHIN0N0ME) [![4](https://media.discordapp.net/attachments/1132322085532868608/1150445962796474459/ezgif.com-gif-maker_40.png?width=31&height=31)](https://en.pronouns.page/@W0NDERH0Y)![pix](https://media.discordapp.net/attachments/1128723801484562583/1150731006819708988/ezgif.com-gif-maker_46.png?width=31&height=31)   <-
+
+->![div](https://media.discordapp.net/attachments/877634429940539412/1142517736757543124/ezgif.com-gif-maker_17.png?width=1440&height=85)
+![div](https://cdn.discordapp.com/attachments/1064597015503315054/1115992266079735868/Untitled2311_20230607141444.png) <-

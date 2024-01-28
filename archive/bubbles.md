@@ -1,0 +1,9 @@
+![bloodline <33](https://cdn.discordapp.com/attachments/852782813186490408/1168234045356908635/IMG_5319.gif?ex=655105bd&is=653e90bd&hm=b9e2d42e2ae17e4c0214274f53bea0600c9fb004a598dd7bf0b92a35e3aa0635&)
+
+-> hey! i'm **sera** or lauren. i'm a woman (so, she/her is fine) & i'm sixteen. :) i'm down to interact with anybody in the iwd as long as you're polite!!  ୧ ![pixel](https://cdn.discordapp.com/attachments/852782813186490408/1168235046033961101/IMG_1389.gif?ex=655106ab&is=653e91ab&hm=f80eac2040817d9d8ab293598e6f01f05d50e56b9bfd2eaa648f829388df0b60&) <-
+
+->  ![pixel](https://cdn.discordapp.com/attachments/852782813186490408/1168235044612083742/IMG_5204.gif?ex=655106ab&is=653e91ab&hm=bdef44213f29e2e5cfaec38cf5a9b2ea9dd9f8399906d78307883d4087c0bfb2&) i don't care if you dislike my favorite wrestlers, it doesn't bother me! my list of favorites is [here](https://rentry.co/wrestlers) if you're curious!! i currently watch mainly **wwe** and **aew**, but i'm cool with match recommendations from anywhere. :) <-
+
+-> i attended the **07/21/23** addition of smackdown and i was at **summerslam 2023**. ![pixel](https://cdn.discordapp.com/attachments/852782813186490408/1168238227317080135/IMG_1422.gif?ex=655109a2&is=653e94a2&hm=39faace17b3f03a6927cf4899e40fcc78afed87d0624abda76bef69c736f695f&) i already have my wrestlemania 40 tickets booked!  <-
+
+-> shoutout to iwd regulars, you're all super cool!! special mention to (including but not limited to) caliber, hwasa, manny, sharkboy, andrew, davi, bro, prince, tennis, and vacant, you guys are all amazing. thank you to the iwd for voting me as people's champion for crown jewel 2023, and thanks for revoting me for champ at survivor series 2023!! cm punk :) ![pixel](https://cdn.discordapp.com/attachments/852782813186490408/1168235045467717752/IMG_1999.gif?ex=655106ab&is=653e91ab&hm=6b88c9dd6ec466d73fcf9502361081fc5566d7970032948d0712c8803f095ecb&) <-

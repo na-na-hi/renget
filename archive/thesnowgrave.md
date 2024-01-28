@@ -1,0 +1,7 @@
+-> ![](https://i.imgur.com/oqvmZfe.gif)
+![](https://watermelon.crd.co/assets/images/gallery19/3251401d.png?v=ab2f6a73)
+![](https://media.discordapp.net/attachments/903364339464044575/1090723048786763886/F2231B86-C65C-4C19-B96F-D5B6D01411FC.png) . . . **or** rolan *!!* ![](https://media.discordapp.net/attachments/903364339464044575/1090719247379988580/2758CB74-3206-45CF-A967-98CC0AF8F7CB.gif)![](https://media.discordapp.net/attachments/903364339464044575/1090719247820394597/49FA4F3A-A7AB-48A9-BC20-C4356589F42A.gif)
+**16**y/o : **[a](https://pronouns.cc/@sanitypoints)sk** p~~rn~~s ![](https://media.discordapp.net/attachments/903364339464044575/1092150779806232706/649255F6-76B6-4E33-ABA7-DE39095E2307.gif) **09/[18](https://howlongagogo.com/countdown/UHKIPuf3vTnY?ucd=1)**
+tkn² ✦ adhdtistic + anxiety
+INFP [4w5](https://www.crystalknows.com/enneagram/type-4/wing-5) ![](https://media.discordapp.net/attachments/903364339464044575/1078061282986569749/B70633C0-F8D6-4649-AB4B-8C4B8F662F1D.gif) cuban**american**
+![](https://media.discordapp.net/attachments/903364339464044575/1080141836502438098/9E0161B0-B99E-44C1-9461-54B746E48582.gif) [other links](https://rentry.co/sanitypoints) ![](https://media.discordapp.net/attachments/903364339464044575/1080141836930265210/AAADEFA9-7A7C-474A-9949-3484981F651F.gif)<-

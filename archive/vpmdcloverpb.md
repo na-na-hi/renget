@@ -492,6 +492,7 @@ Biography generated!
 >This is Taslean, he was possessed by a ghost Pokémon during a mission. Some shit I haven't thought of yet happened and now the ghost can't leave, so both consciousnesses share the same body.
 
 ###Adrian/Enny/Vileplume/Bellossom
+[See linked](https://rentry.org/UmbreonAnon)
 >Usually pretty chill, but he has a lot of pent up rage that bursts out on occasion.
 >He's very easily pissed off by people. He doesn't usually yell, but he'll pop snide remarks and give glares to show his distaste for something or someone.
 >While he might come off stand offish, he really does care about people deep down.

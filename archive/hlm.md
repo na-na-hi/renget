@@ -1,0 +1,3 @@
+->![lol](https://gnome.crd.co/assets/images/gifssb/51b56040.gif?v=7c5c308b)<-
+->![lol](https://gnome.crd.co/assets/images/gifssb/565b19fa.gif?v=7c5c308b)<-
+-> go [back..](https://rentry.co/taser) <-

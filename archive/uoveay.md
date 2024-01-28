@@ -1,0 +1,7 @@
+->‎　　　　　　　　　　[♪](https://tumblr.com/fuwatimes)<-
+->![cr fuwatimes on tumblr](https://cdn.discordapp.com/attachments/1036137884517945344/1069050165798899712/F1F76132-BF73-42CB-8B06-EE28BC12A421.png)<-
+->name *!*　![](https://pixelbank.neocities.org/decome/kitties/5b3cbf16.png) 　。。。pro ﾉ nouns　 `info`<-
+->`info` info info info info `info`　![](https://yokai.crd.co/assets/images/image22.gif?v=b4df531c)<-
+->![](https://cdn.discordapp.com/attachments/878743087021707299/1061863662123487282/0292DC06-4F5C-42D5-98B9-D6AC050B90A9.gif)　　　　*info* info info **info**<-
+->![](https://cdn.discordapp.com/attachments/1036137884517945344/1069068026655277067/92374078-E830-4FCE-9951-AC5055C40ADF.png)<-
+->[˖ ( link )]() [˖ ( link ) ˖]() <-

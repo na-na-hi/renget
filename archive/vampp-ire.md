@@ -1,0 +1,4 @@
+-> ![stesk](https://media.discordapp.net/attachments/1018713311581327412/1047349118760140914/image0.jpg) <-
+-> `KINS` ![1](https://media.discordapp.net/attachments/1018713311581327412/1047358559727398922/IMG_8015.gif) xie lian, rei ayanami, mika kagehira, phosphophyllite question mark, idia, mob,  um (.. +more <-
+-> `OTHER` ![1](https://media.discordapp.net/attachments/1018713311581327412/1047358559379279963/IMG_5906.gif) i rant abt stuff i like a lot, mainly enstars or vkei ,, (![kitty](https://media.discordapp.net/attachments/1018713311581327412/1047385127837253672/IMG_7757.gif) ) if i dont know u i can br a little sensitive or dry sometimes i prkmise its nothing personal ,, <-
+-> ![1](https://media.discordapp.net/attachments/1018713311581327412/1030587096823509143/IMG_6553.gif) <-

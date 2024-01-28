@@ -1,0 +1,6 @@
+!!! note most of these mostly apply to my twt not pinterest acc ![★](https://barbara.crd.co/assets/images/gallery01/287adf97_original.gif?v=115e6ed7) 
+-> ![♡](https://i.postimg.cc/h4CTwsQC/ezgif-3-59378ea3ec.gif) <-
+-> ![☆](https://64.media.tumblr.com/d54e0a2b2464090073d2938c22a20b49/432548e3269336d4-88/s250x400/516f52e05d443a8945064e6aae8078b5b5ff5845.gifv) <-
+-> (**1**) i am a *minor* so dont be weird towards me (**2**) i use "ily" or any terms of endearment platonically (**3**) i use emojis sarcastially (**4**) i can be *very* vocal so i may come of aggressive which im not, promise*!!* (**5**) i forget to add tw's/cw's so reminders are appreciated (**6**) i am very *oblivious* to things so be patient with me (**7**) i may vent/rant abt things if i feel like it (**8**) i dont proof read posts so ignore spelling mistakes (**9**) i am sarcastic so dont take me too seriously (**10**) do not use tone indicators unless i ask *first* (**11**) i am ia at times (**12**) i spam post/rt sometimes <-
+-> ![☆](https://64.media.tumblr.com/20fff17145dac737efb2fa7c85c52165/ea7d38e7e54d417a-f0/s250x400/838c91e5dd147e0e170e4402b9b32702458e2047.gifv) <-
+-> [![♡](https://i.postimg.cc/6qqdz9cd/ezgif-5-6b0ded801d.gif)](https://rentry.co/idoIl) <-

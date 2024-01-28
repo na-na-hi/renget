@@ -1,0 +1,11 @@
+->`︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵`<-
+->![genshin impact is epic! 🤓☝️](https://media.discordapp.net/attachments/1015577313695502436/1098622775276609547/81D03B16-0B76-47BC-B5EF-11F7CED2F924.gif)<-
+-> `꒡ ͝ 𖣣 ͝ ꒡ ͝ ꒡`‿୨ LADY [']() S — SHRINE ୧‿ `꒡ ͝ 𖣣 ͝ ꒡ ͝ ꒡`<-
+->ʚɞ𓂃  **`name`** . . . or `nickname` ![bow](https://wilardo.crd.co/assets/images/gallery04/4641412f_original.gif?v=587f0c5f) prn ![shell](https://wilardo.crd.co/assets/images/gallery14/ce75dd64_original.gif?v=587f0c5f) prn  ⋆ﾟ⊹<-
+->⁺⊹ .**.**. se**xua**lity — gender ![flwr](https://media.discordapp.net/attachments/903364339464044575/1086448055072600064/C8F5DF9C-2ABA-4460-B814-1AFC08317E1B.gif) **`race`** **⋂⑅⋂** **`age`** ?*!* ‧₊ ![petals](https://media.discordapp.net/attachments/903364339464044575/1086447858523312158/9901C24D-7A7E-4ECC-923B-A10D5CA63BFA.gif)<-
+->![multi pink stars](https://media.discordapp.net/attachments/903364339464044575/1086447457300402176/3AE7F324-452F-460C-A92F-F5B77DBA5419.gif)⩋ info *info* ੭ ˚ info info ![pink star w wings](https://media.discordapp.net/attachments/903364339464044575/1086446357033799720/DA062231-6C0A-404F-AA24-31352B28DA26.gif) `link ' `[`s`]() [![one](https://64.media.tumblr.com/483900b0828fb9f733e3d9f1ba947fa5/afcc3cab9de29101-a3/s75x75_c1/ce1d77fca71e0f093ba27135a060ed7c753b8e16.gifv)]()﹒[![two](https://64.media.tumblr.com/841107b63fff0fd34c8f7e999bcb7a05/afcc3cab9de29101-80/s75x75_c1/06f02114d28601668a5626bb02d7198250aca7c4.gif)]()﹒[![three](https://64.media.tumblr.com/96030c2750364e5c55e16ffc29af3aa4/afcc3cab9de29101-9b/s75x75_c1/7fb737213f3cc41f9b3f6aacfb2b301b29753583.gifv)]()<-
+->![꒡ ͝ ꒡ ͝ ꒡ ͝ ꒡ ͝ ꒡ ͝ ꒡ ͝ ꒡𖣣꒡ ͝ ꒡ ͝ ꒡ ͝ ꒡ ͝ ꒡꒡ ͝ ꒡ ͝](https://64.media.tumblr.com/34700c14f3fc5363338c1d4f961c10da/780617ac7a1e6939-ee/s400x600/5d71a2efe6c46807edb7c1f4e21d6d5866325389.gifv)<-
+-> `꒡ ͝ ꒡ ͝ 𖣣 ͝ ꒡ ͝ ꒡`‿୨ NAViGATiON ୧‿ `꒡ ͝ 𖣣 ͝ ꒡ ͝ ꒡ ͝ ꒡ ͝ ꒡`<-
+->⠀⠀==⠀[ABOUT.]()⠀==⠀— ⠀⠀==⠀[BYF*&*DNI.]()⠀==⠀— ⠀⠀==⠀[LUVS.]()⠀==⠀<-
+->`︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶`<-
+f2u*!*

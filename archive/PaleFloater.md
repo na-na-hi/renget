@@ -1,0 +1,1 @@
+paimon nickname - [hoarded](https://rentry.co/angelstruck)

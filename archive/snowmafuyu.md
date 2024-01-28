@@ -1,0 +1,5 @@
+-> ![banner](https://pixelbank.neocities.org/dividers/image114.png)<-
+-> ![https://i.pinimg.com/474x/15/4b/d1/154bd1cf7060588db0acdba313cd46a3.jpg](https://i.pinimg.com/474x/15/4b/d1/154bd1cf7060588db0acdba313cd46a3.jpg) <-
+-> **vi~~vi~~** ![pix](https://pixelbank.neocities.org/decome/space%20and%20skies/7b89f3dd.png) *he xe* she star <-
+-> ![flw](https://pixelbank.neocities.org/decome/stars/a84fb90b.gif) *desi*&hindu ![im](https://pixelbank.neocities.org/decome/plants/c2e8e055.gif) ~~lesbian~~ ![im](https://terror.crd.co/assets/images/gallery06/2283157a.gif?v=6420771f) <-
+->[**extra ☆**](http://txti.es/bokhyung)<-

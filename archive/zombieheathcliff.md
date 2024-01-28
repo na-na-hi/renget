@@ -1,0 +1,9 @@
+-> ![](https://mikejima.crd.co/assets/images/shadow/b40ec313.gif?v=16e7e82c) [FOREVER](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q?si=m-84zR9bRYSG5-CmsccHbw) ![](https://mikejima.crd.co/assets/images/shadow/182df0e3.gif?v=03449813) [TOGETHER](https://open.spotify.com/track/7wtU7N6R49UAbzQcLjRy5q?si=m-84zR9bRYSG5-CmsccHbw) ━━━ <-
+-> ![](https://media.discordapp.net/attachments/1143921733372493864/1147584767424995378/image0.gif) <-
+-> ![](https://media.discordapp.net/attachments/1105639330174746756/1116426170175598712/mrow.png?width=345&height=27) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/edb38ca9_original.gif?v=03449813) ︵ **d**avid**``✩``** **[M](https://mandela-catalogue.fandom.com/wiki/Mark_Heathcliff)**ark — ₊˚ he[ﾉ](https://en.pronouns.page/@LQSpaceboy)him ![](https://mikejima.crd.co/assets/images/shadow/a692598a.gif?v=03449813) **sys**host <-
+-> 16**yr** ｡｡｡ ★ ![](https://media.discordapp.net/attachments/1004917366787948606/1097056517032792164/transmasculine-7-stripes-20-px.png?width=22&height=22)![](https://media.discordapp.net/attachments/1004917366787948606/1097056517246685194/gay-mlm-20px-6-stripes.png?width=22&height=22) ★ [**``taken``**](https://rentry.co/silenthillspt) ![](https://mikejima.crd.co/assets/images/shadow/4c68543b.png?v=03449813) **poc**dominican*!!* <-
+-> **``⌦``** *I'm [delusional](https://rentry.co/simonsbook)/schizophrenic, [interact](https://rentry.co/ImInside) with caution* <-
+-> *my discord is markheathcliffbps, dm if u wanna trade URLs,* <-
+-> *during first encounter! thank you.* ![](https://mikejima.crd.co/assets/images/gallery07/a20c801e.gif?v=03449813) <-
+-> ![](https://cdn.discordapp.com/attachments/935735380538449952/946013075704795136/Strawberry_gashes.png) <-

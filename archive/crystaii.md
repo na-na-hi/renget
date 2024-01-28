@@ -1,0 +1,14 @@
+->![.](https://media.discordapp.net/attachments/878086628541882470/980948885549764649/IMG_2663.jpg)<-
+->![.](https://media.discordapp.net/attachments/878086628541882470/940006381556203520/IMG_3473.gif)<-
+->♡ ⑅  ࣪˖ ˚ ![?](https://64.media.tumblr.com/tumblr_lkqytdd6iD1qi6qow.gif)<-
+->✦![.](http://i11.photobucket.com/albums/a168/evelynregly/minigifs/caracol.gif) **navigate ｡ ｡ ｡ ꒰ྀི [𝐈](https://rentry.co/crystai) [𝐈𝐈](https://rentry.co/crystaii) [𝐈𝐈𝐈]() [𝐈𝐕]() ꒱ྀི**<-
+->꒰ “⠀♡︎ ![div](https://media.discordapp.net/attachments/973312326373625916/981210146782969876/5AC1F38D-F9B5-4DB9-8504-65920DEECFB5.png) ♡︎⠀” ꒱<-
+-> ![?](https://64.media.tumblr.com/tumblr_lkqytdd6iD1qi6qow.gif) ˖ ࣪ .  ࿐ ♡ ˚ .<-
+->**before u fllw !〜** any terms oki , dnt<-
+->take me srsly most things r ironic ,  <-
+->km/ys/die jokes , sb 2 unf , flirt &<-
+->mean jokingly , **and i usually don't**<-
+-> **use tonetags ! ～** pls lmk if u need<-
+->them ✦ .　⁺ .<-
+->꒰ “⠀♡︎ ![div](https://media.discordapp.net/attachments/973312326373625916/981210146782969876/5AC1F38D-F9B5-4DB9-8504-65920DEECFB5.png) ♡︎⠀” ꒱<-
+->© **[grriys](https://twitter.com/grriys)** on twt if u rm<-

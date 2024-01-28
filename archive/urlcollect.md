@@ -1,0 +1,1 @@
+moved to rentry.co/-taehyun EL O EL

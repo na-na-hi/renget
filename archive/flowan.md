@@ -1,0 +1,1 @@
+hii i'm kori's friend && i simply wanted to say that you should educate yourself on what bpd actually is and learn that you can't justify everything with it!! :-) oh && very important stop getting involved in discourse that doesn't belong to you <3 that's all!!!!!! three letters (kys)

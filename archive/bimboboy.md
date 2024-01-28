@@ -1,0 +1,2 @@
+⊹ ◟ ꒦꒷ ***finn's*** [***urls*** ](https://rentry.co/hoardurl) ⦂ ꒱ ![](https://media.discordapp.net/attachments/903364339464044575/1092534446940496044/339F4B80-D275-46FD-80E0-0B8B85AC7B3D.png)
+this rentry has been moved to rentry.co/wolfidol

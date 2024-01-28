@@ -1,0 +1,31 @@
+->w**w**w . [easy](004muus) **read** ![pix](https://i.postimg.cc/X7GPF3js/17.gif) **m~~uu~~** [OO4]() . c**o**m<-
+->![div](http://i511.photobucket.com/albums/s356/prifeitosa/Divisorias/011.gif)<-
+->[![pix](https://cdn.discordapp.com/attachments/870787415172845589/1062410577751851028/tumblr_f289cdfc0de96089918d04898bb3d129_6fb06bb6_75.gif) “  ◟ i⠀**`‹`**` love `**`3`**⠀YOU ◝  ” ![pix](https://cdn.discordapp.com/attachments/870787415172845589/1062410578200633364/tumblr_e68680e867e06ff2f4690085441a33e6_71442ed0_75.gif)](https://open.spotify.com/track/3YjxzZxw4VK96te6tPpCPf?si=B5cO2gudQCGYMqSnTyUDKQ&utm_source=copy-link)<-
+->![risette](https://cdn.discordapp.com/attachments/870787415172845589/1114077437576368188/IMG_20230602_092547.png)
+![pix](http://i991.photobucket.com/albums/af37/mstrawberry24/tumblr_lqohfdxctp1qapbyt.gif) ︵ ☆⠀⠀![welcome](https://pixelbank.neocities.org/text/2ffb36d5.gif)⠀![pix](https://tomomi.neocities.org/pixeles2/333.gif)<-
+->![pix](https://pixelbank.neocities.org/decome/clothing/8df210e6.gif)⠀___R___*i*se*tt*e ◞ **`Sylvie`** ![pix](https://pixelbank.neocities.org/decome/bows/b2dce146.gif) ___M___on*i*⠀`♡` 〜('▽^⋏)
+[`neos`](kusanaginenee)**.** ![pix](https://wilardo.crd.co/assets/images/gallery23/0d29caa1_original.gif?v=4619c116) s(**he**)**.**⠀![div](https://bloominglantanas.carrd.co/assets/images/gallery04/0bf8bc3d.png?v=db012d77)⠀**`lesb`**
+![pix](https://64.media.tumblr.com/d07a6496b9f077fc7274e0a505df757d/fc8a840c6c8c50e0-a4/s100x200/045352327ecc88509de95fa73f473536303474b8.gifv) [`return`](muu004) ![pix](https://wilardo.crd.co/assets/images/gallery23/0d29caa1_original.gif?v=4619c116) anxiety**bpd** [`hldr`](shirokurata) **!** *!*
+‧˚ ♪⠀⠀![pix](https://wilardo.crd.co/assets/images/gallery28/09ed8399_original.gif?v=4619c116)⠀ [![one](https://pixelbank.neocities.org/numbers/my%20mel/pinkbow1.gif)](kaangei) 。[![two](https://pixelbank.neocities.org/numbers/my%20mel/pinkbow2.gif)](marionettetheater) 。[![three](https://pixelbank.neocities.org/numbers/my%20mel/pinkbow3.gif)](marionettetheatre) 。[![four](https://pixelbank.neocities.org/numbers/my%20mel/pinkbow4.gif)](https://twitter.com/muumeows)⠀⠀ ![pix](https://pixelbank.neocities.org/emoticons/set%202/m9ralkDCHA1.gif)
+![div](https://wilardo.crd.co/assets/images/gallery05/475fd38c_original.png?v=4619c116)![div](https://wilardo.crd.co/assets/images/gallery05/475fd38c_original.png?v=4619c116)![div](https://wilardo.crd.co/assets/images/gallery05/475fd38c_original.png?v=4619c116)<-
+->**bold** = **high id**
+==highlight== = ==main id==
+`red` = `dont id much`<-
+->![](http://i991.photobucket.com/albums/af37/mstrawberry24/tumblr_lqohfdxctp1qapbyt.gif)![](http://i991.photobucket.com/albums/af37/mstrawberry24/tumblr_lqohfdxctp1qapbyt.gif)<-
+->`Mayoi Ayas`[`e`](https://ensemble-stars.fandom.com/wiki/Mayoi_Ayase#:~:text=Though%20he%20has%20a%20cowardly,My%20name%20is%20Mayoi%20Ayase.) ♡ Madoka Kanam[e](https://madoka.fandom.com/wiki/Madoka_Kaname)
+Monik[a](https://doki-doki-literature-club.fandom.com/wiki/Monika_(DDLC))  ♡ **Nene Kusanag[i](https://projectsekai.fandom.com/wiki/Kusanagi_Nene)**
+Hatsune Mik[u](https://ec.crypton.co.jp/pages/prod/virtualsinger/cv01_us) ♡ **==Am[e](https://en.wikipedia.org/wiki/Needy_Streamer_Overload)==**
+![](https://tomomi.neocities.org/divider/div104.gif)
+Chisato Shirasag[i](https://bandori.fandom.com/wiki/Shirasagi_Chisato/Cards) ♡ Anri Warho[l](https://anegames.fandom.com/wiki/Henrietta_%22Anri%22_Warhol#Heaven's_Gate_3)
+`Kasumi Toyam`[`a`](https://bandori.fandom.com/wiki/Toyama_Kasumi) ♡ Asa Mitak[a](https://chainsaw-man.fandom.com/wiki/Asa_Mitaka)
+Chu[2](https://bandori.fandom.com/wiki/Tamade_Chiyu) ♡ Sylveo[n](https://bulbapedia.bulbagarden.net/wiki/Sylveon_(Pok%C3%A9mon)) ♡ `Yanfe`[`i`](https://genshin-impact.fandom.com/wiki/Yanfei)
+![](https://tomomi.neocities.org/divider/div104.gif)
+`Tracy Rezni`[`k`](https://id5.fandom.com/wiki/Mechanic) ♡ Yuno Kashik[i](https://milgram.fandom.com/wiki/Kashiki_Yuno)
+Ryuunosuke Akutagaw[a](https://bungostraydogs.fandom.com/wiki/Ry%C5%ABnosuke_Akutagawa)
+Mizuki Akiyam[a](https://projectsekai.fandom.com/wiki/Akiyama_Mizuki)
+![](https://tomomi.neocities.org/divider/div104.gif)
+**nanami hiromach[i]()** ♡ Miya Chine[n](https://sk8theinfinity.fandom.com/wiki/Miya_Chinen)
+**bibi rede[n]()** ♡ ==**muu kusunok[i]()**==<-
+->![](http://i991.photobucket.com/albums/af37/mstrawberry24/tumblr_lqohfdxctp1qapbyt.gif)<-
+->twins **always** ok!
+irls */* fict. kins *ask* or ~~dni~~<-

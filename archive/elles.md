@@ -1,0 +1,14 @@
+-> [©](https://twitter.com/TanyaF2022?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) ->
+-> ![](https://media.discordapp.net/attachments/1033353306506010655/1038802954423111710/Untitled38_20221106132852.png)
+![](https://gifs.crd.co/assets/images/gallery12/b71d06df.gif?v=5f0408ba) **S**he _They_  ~~un~~labled **sapp**hic ...![](https://gifs.crd.co/assets/images/gallery17/46deaa7c.gif?v=5f0408ba) **5**teen ![](https://terror.crd.co/assets/images/gallery22/0f956657.png?v=98df89bb)
+![](https://gifs.crd.co/assets/images/gallery17/be8fbde1.gif?v=5f0408ba) **w**_hite_ [`/`]() **j**_ewish_ ![](https://gifs.crd.co/assets/images/gallery14/55b3a29d.gif?v=5f0408ba) [Sys](https://rentry.co/goodbyecharlotte) **Autism** hl~~dr~~ ![](https://terror.crd.co/assets/images/gallery10/37d4770b.gif?v=98df89bb)
+![](https://terror.crd.co/assets/images/gallery10/1b7f4467.gif?v=98df89bb) [*organic*]() ![](https://terror.crd.co/assets/images/gallery15/3beb52c4_original.png?v=98df89bb) **Autis**ic ![](https://gifs.crd.co/assets/images/gallery14/5d07e908.gif?v=5f0408ba) M/W [Yelan](https://rentry.co/freyaz) ![](https://gifs.crd.co/assets/images/gallery13/fc1538b7.gif?v=5f0408ba)
+![](https://terror.crd.co/assets/images/gallery05/ecf7cdab.png?v=98df89bb)
+![](https://gifs.crd.co/assets/images/gallery02/0d2a87bd.gif?v=5f0408ba) **[BACK](https://rentry.co/ellez)** ![](https://gifs.crd.co/assets/images/gallery02/f22b4b60.gif?v=5f0408ba)
+![](https://media.discordapp.net/attachments/1012559729106624564/1038802530337038417/rsz_8c310f43.png)<-
+->**[ABOUT/BYII !!]()**
+HIEE my byi is that **(1)** i love mail asa misaka alot
+**(2)** i loveeeee using emoticons :33 and i will use them alot !! **(3)** im SUPER autistic :3 my sp/ins r sanrio ==i do NOT support the creators in ANY way whatsoeverr== **(4)** im an alter in a s[ystem](https://rentry.co/goodbyecharlotte) i front semioftenlyy ! **(5)** im a HUGEE vocaloid fan and i love pjsk tons :3 i love playing it with people + i play on jpn server ^\_^ my frq id is **96097072079536142** :D i love playing with people ! **(5)** I GET A BIT PROTECTIVE OVER MY FRIENDS !!! (hai freyaa :333 + crow & sys + other friends)
+ ![](https://media.discordapp.net/attachments/1012559729106624564/1038802530337038417/rsz_8c310f43.png) <-
+->**[DNII !!]()**
+dni if **(1)** ANYTHING on [here](https://listography.com/dni) applies to u !!! **(2)**  most of our ex friends !! [esspecially him...](https://rentry.co/dazai-is-over) **(3)** if ur a fan of dgrp / south park / stranger things **(4)** if u spend money on hyv games , idv , pjsk , happyele , or bandori<-

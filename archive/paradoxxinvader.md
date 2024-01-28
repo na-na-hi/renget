@@ -1,0 +1,1 @@
+yes https://rentry.co/urlcollect

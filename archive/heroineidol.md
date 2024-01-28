@@ -1,0 +1,6 @@
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1089434990036652092/AF229CC7-0111-416B-A33A-1F773381E146.png) <-
+-> ![lace](https://media.discordapp.net/attachments/903364339464044575/1089456139583901706/2940E0FB-F3DE-4DE6-92F8-183585A007CA.png) or michael ⑅ ˖ 𓏲    <-
+->  he [ﾉ](https://en.pronouns.page/@hakkai) him ![bandaid](https://media.discordapp.net/attachments/903364339464044575/1089456141349703760/C558B9BA-0E66-48D5-9724-745E1A36782B.png) fifteen ଓ ˚ ✦ palestinian<-
+-> ![hrt](https://media.discordapp.net/attachments/903364339464044575/1089462453085147166/DA3E71C0-B93F-4A8E-A701-1B9413639E4D.gif) borderline˚ ༘ the finns[01](https://blue-period.fandom.com/wiki/Yakumo_Murai) ~~[02](https://evangelion.fandom.com/wiki/Kaworu_Nagisa)~~ [03](https://marvel.fandom.com/wiki/Peter_Parker_(Earth-616)) <-
+-> .˚ ⊹ ![dress](https://media.discordapp.net/attachments/903364339464044575/1089461700102721536/27B3D063-85E4-440C-A032-165DCE5C9931.png)   demiboy ୨ [yatora](https://rentry.co/baefy) & aku's bf <-
+-> [byfdni](https://rentry.co/heartstouch) ⸝⸝  [interests](https://rentry.co/finnterest) ⸝⸝  [me](https://rentry.co/wolfidol) 𓂅 ﹕![button](https://media.discordapp.net/attachments/903364339464044575/1089467266954965052/66B6FB6E-6715-45E2-82CE-C45AB3CD79A1.gif)<-

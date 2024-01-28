@@ -1,0 +1,8 @@
+!!! warning i am very critical of my interests ![★](https://64.media.tumblr.com/68e01737227fe3e44e8b6b71a5e56d24/9bc10fd884d85993-56/s75x75_c1/5206199aca48aa1e1a0091963d27f0c7d3d6d39b.gifv)
+-> ![♡](https://i.postimg.cc/mZqJ4Q0w/ezgif-1-7fc3c2434c.gif) <-
+-> ![☆](https://64.media.tumblr.com/c585d73a1d47de5ca57c13ad8c12eb14/3fd95e8e71458992-06/s400x600/263b6780eab0fdb8faeec575e9f3a0c4a1adfa06.gifv) <-
+-> ![★](https://64.media.tumblr.com/a15695561c50b11784d6bea3d6e17d72/9bc10fd884d85993-f0/s75x75_c1/24917a6541c61e579c185e51a754cb985c427cba.gifv)  ***games******!*** rhythm games, genshin impact, ~~honkai impact~~, roblox, visual novels, ace attorney, undertale, deltarune, pokemon, horror games, mobile games <-
+-> ![★](https://64.media.tumblr.com/1737f7a7039f80a169a7dd1ec34fbc30/9bc10fd884d85993-62/s75x75_c1/13c8b3dda36eec879ff0f93de5b1449718a144bb.gifv) ***interests******!***  ~~anime~~, manga, j-pop, psychology, psychological horror, horror in general, historical documentaries, lolita fashion/fashion in general, tomagotchis, hamsters, blue color <-
+-> ![★](https://64.media.tumblr.com/198e05f57ee04f259bd19065b6d1816b/9bc10fd884d85993-28/s75x75_c1/65222b6ad02ecb61858c22812e36a1f911f4c2e6.gifv)  ***series/manga******!*** my little pony, teen titans, total drama, scooby doo, arcane, bojack horseman, centaurworld, csm, opm, mp100, jjba, eva, kny, komi-san, saiki k, my little witch academia, aggretstuko, kill la kill <-
+-> ![☆](https://64.media.tumblr.com/3ca6d1106667606ece9e068f5004c356/b8db2d0cf0cf52a1-43/s400x600/76d6ac089e60c10d1dc3fa7be9d43ec4474aab3c.gifv) <-
+-> [![♡](https://i.postimg.cc/23RS3DHQ/ezgif-5-73ee57de2d.gif)](https://rentry.co/idoIl) <-

@@ -1,0 +1,7 @@
+-> ![](https://media.discordapp.net/attachments/1013576176662482994/1038570911521067199/Untitled35_20221105174950.png) <-
+-> ![](https://barbara.crd.co/assets/images/gallery03/c27a248c_original.gif?v=115e6ed7) *an linh* ノhoa xuân﹒**si**xteen *!* :: <-
+-> *agender* **les** ![](https://barbara.crd.co/assets/images/gallery18/9ab26404_original.gif?v=115e6ed7) ﹕it/**she**/[xe]() ![](https://barbara.crd.co/assets/images/gallery18/5f246a79_original.gif?v=115e6ed7) <-
+-> 〇﹐![](https://barbara.crd.co/assets/images/gallery18/9226e5d1_original.gif?v=115e6ed7) 𝐢𝐧𝐭𝐩 **5w**4 ₊˚⊹ ![](https://watermelon.crd.co/assets/images/gallery01/3e59763c.gif?v=90e42ef7) **v**iet/ 𝐞𝐧𝐠 ![](https://barbara.crd.co/assets/images/gallery07/e6583c6b.gif?v=115e6ed7) <-
+-> **fict**ive ﹒﹒ [01](https://megamitensei.fandom.com/wiki/Ann_Takamaki) [02](https://genshin-impact.fandom.com/wiki/Hu_Tao) [03](https://okegom.fandom.com/wiki/Etihw) [04](https://naruto.fandom.com/wiki/Sakura_Haruno) *!!*<-
+-> ![](https://barbara.crd.co/assets/images/gallery35/09010f69_original.gif?v=115e6ed7)﹕ [sys rentry](https://rentry.co/waddacchi) ![](https://barbara.crd.co/assets/images/gallery38/3ed9a499.gif?v=115e6ed7) <-
+-> ![](https://barbara.crd.co/assets/images/image64.png?v=115e6ed7) <-

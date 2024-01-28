@@ -1,0 +1,7 @@
+-> ![](https://media.discordapp.net/attachments/985394952051761176/1051345688639832115/Vanilla-1s-280px.gif?width=252&height=90) <-
+-> ![](https://media.discordapp.net/attachments/985394952051761176/1051189070207914105/blur_edges.png?width=416&height=370) <-
+-> ![](https://64.media.tumblr.com/1e30f7ae59b9285c9dde04f0212b8ff8/5193a1e6bc76aa5c-00/s400x600/6008f4dc1987fb429df626d5fc9d6439eedc859e.png)<-
+-> ⊹﹒⁺ ┄﹒he﹢him┆(˘﹒ˇ) trans (ftm) ![](https://64.media.tumblr.com/4e9414266b47e6b165da120729530c06/38bf77bb76a91eb8-05/s75x75_c1/747a0880673e674e6ba01b1e2378cac5837bbffe.gif)<-
+-> ![](https://64.media.tumblr.com/5f5b339231e545d6c067eeb6d4aa77eb/5c116ef5136dd05a-60/s75x75_c1/9fe9df220df57325f359218253b0843adf632a61.gif)﹒✦﹒♡﹒aroace┆not looking for ♡ers﹒⊂ <-
+-> ∬﹒◯﹒![](https://64.media.tumblr.com/839e429c7285cc01583d99e81e5eb850/ace2044879ca02af-85/s75x75_c1/7c062f9360f2412d33313f3e464e84cbdb60d106.gif) filipino┆INTP ⊹ ┄﹒<-
+-> ✿﹒♡┆[carrd](https://forestlivescarrd.co)┆[rentry hoarder](https://rentry.co/bloss-tri) <-

@@ -1,0 +1,5 @@
+-> criteria <- 
+***
+dfi: te molesta que diga q x personaje es mio, anituitera insoportable +hipocrita doble cara ( pls no me sigan ), +20, transfobico, tu feminismo excluye a las mujeres trans, yuta okkotsu stan, haces ratio x la mínima cosa, cuenta only rt o de te expongo XD, stan de streamers insoportable
+
+byf: hablo mucho de mi i mi vida, hablo mal a propósito, soy intenso con mis novios, sb > unf pls, subo nsfw de los bl gays q leo, no uso tw ni cw (si los necesitas dime), no soy de ningun subtwt, mis tuits van en joda kasi siempre no t lo tomes d verdad, no opino sobre los xenos neos elle pansexualidad ( si t identificas cn eso bn x ti ), uso kaoemojis caritas d teclado i spameo mucho mis fc o fotos de cualquiera kosa, hago bromas con temas serios aveces i si te molesta dime al dm pls T.T

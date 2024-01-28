@@ -1,0 +1,5 @@
+->![BALLZ](https://alias.crd.co/assets/images/gallery02/188c2228_original.png?v=87081c63)<-
+->*hoard*<-
+->![yeye](https://alias.crd.co/assets/images/gallery11/86b3d2f1_original.gif?v=87081c63) <-
+->![yass](https://alias.crd.co/assets/images/gallery02/47133949_original.gif?v=87081c63) <-
+->[...](https://rentry.co/taser) <-

@@ -1,0 +1,1 @@
+[( *◞ ◟) taken](https://rentry.co/sharks-url) ![](https://media.discordapp.net/attachments/903364339464044575/1083125365884583966/4D999CE5-C6CE-4FB5-9CAA-8F74E977F408.gif)

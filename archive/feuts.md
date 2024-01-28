@@ -1,0 +1,7 @@
+-> ![](https://media.discordapp.net/attachments/1038932086444269592/1065009833243316374/blur_edges_14.jpg) <-
+-> ![](https://pixelbank.neocities.org/dividers/image189.png) <-
+-> ⟡・ : **rai** ***!!*** ᓚᘏᗢ ﹒⪩﹒ ![](https://pixelbank.neocities.org/decome/wings/3276632a.gif) ==she / it== ![](https://pixelbank.neocities.org/decome/wings/1931fdaf.gif) <-
+-> ![](https://pixelbank.neocities.org/decome/space%20and%20skies/c7b2e23b.gif) ✧ ₊ ˙ ⊹ bpd**tism** ✶﹒istp 591 llı﹢☆<-
+-> ✦・𖦹 ==***bunny***cat*kin*== ⟡ ![](https://pixelbank.neocities.org/decome/bunnies/dec262e9.gif) ꕀ 4ever **taken** ![](https://pixelbank.neocities.org/decome/bows/f348299.gif)  <-
+-> ![](https://pixelbank.neocities.org/decome/stationary/a212d5e6.gif) ✿﹒i *block* whoever i don't like idgaf!﹒❀<-
+-> ![](https://pixelbank.neocities.org/dividers/7082213.gif) <-

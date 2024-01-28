@@ -1,0 +1,2 @@
+![](https://media.tenor.com/Bhad8vCjxoYAAAPo/alvin-chipmunks.mp4)
+-> [**hoard**](https://rentry.co/angelstruck) ~ [**my unsorted. urls**](https://rentry.co/unsortedurls) ~ [**abt me**](https://rentry.co/aboutsera) <-

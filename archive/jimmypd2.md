@@ -1,0 +1,4 @@
+-> ![](https://media.discordapp.net/attachments/982634866699014256/1143964253347393596/Screenshot_2023-08-23_1.41.46_PM.png) 
+ba**ils** *ₒᵣ* **wol**fie ![](https://images-ext-1.discordapp.net/external/TQ275QQtSgxnQsFevsxw-lrucOyIgxZv0bIo5Svb-mk/%3Fv%3D3ca8b0b5/https/three.crd.co/assets/images/gallery28/4035845e_original.gif)
+h**x**  ✭  **i**t ![](https://images-ext-2.discordapp.net/external/hz7LZ3GycNqoMiZb11xZ19_9kbMjubmmdvj9yyehY2c/%3Fv%3D3ca8b0b5/https/three.crd.co/assets/images/gallery33/beb77861_original.gif) *fe*m ₊
+![](https://images-ext-1.discordapp.net/external/WOXhLAic5mTR73KYotFz0STRPbnuvsXVrzyfGNFd_eU/%3Fv%3Dd7271437/https/gifcity.carrd.co/assets/images/gallery47/61e1ca03.png) <-

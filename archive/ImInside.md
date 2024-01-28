@@ -1,0 +1,4 @@
+![](https://media.discordapp.net/attachments/1066939306893131786/1162191641126387752/Untitled591_20231012203558__01_1.png?ex=653b0a4f&is=6528954f&hm=11b62a67dde9ef29545710677bf0f38ea9866140349a9f2e5ba243ef1e3c983a&)
+-> **DNI** <-
+-> Proshippers, syscourse, Under 11, SH and EDTWT, if you consider yourself as a MAP or just a Pedophile, Genshin players who whitewash obviously black characters, Trump supporters, Racists, If you believe blackwashing is real, if you think irls can have doubles, Kinshifters, stridercest shippers, If youre friends with someone named "LostXConnection"on discord. <-
+-> Go [back](https://rentry.co/zombieheathcliff) ?<-

@@ -1,0 +1,6 @@
+-> **better view on lightmode** ->
+![img dsc](https://cdn.discordapp.com/attachments/1177383358305677366/1200723360498335785/IMG_6262.png?ex=65c737c5&is=65b4c2c5&hm=bda7c2bc0cf50acec6441fbb0a35753f8f9dd646859d76e8a233d3e6ddecab11&)
+-> ![img dsc](https://media.discordapp.net/attachments/903364339464044575/1088801141183238224/906B9B44-3129-4D43-83A1-518D741BE2B7.gif) QUEENSTON, IT SHE DOLL *!* <-
+-> ![img dsc](https://media.discordapp.net/attachments/903364339464044575/1088985700147413032/D95A0ADC-9D46-455B-9066-E4A3CF71FF11.gif) DEAD DOVE ++ COMSHIPPER. ![img dsc](https://media.discordapp.net/attachments/903364339464044575/1077672892210364487/71736E3F-0CB4-44E6-869F-C189AC4ECBFA.gif) I TALK ABOUT *FICTIONAL* RAPE, INCEST, PEDOPHILIA ETC. <-
+-> ![img dsc](https://media.discordapp.net/attachments/903364339464044575/1088805781572419645/07E1F791-BD2C-4145-A7A9-F1019A3BAA7F.gif) SYS, OSDD1B, ASK WHOS FRONTING !! <-
+-> TAKEN ![img dsc](https://media.discordapp.net/attachments/903364339464044575/1077672485455138836/09A1F9D2-3B07-4B8B-BAA7-67CAA33297BA.gif) <-

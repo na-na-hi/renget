@@ -1,0 +1,2 @@
+-> weirdo <-
+-> fuckk yoi ?! <-

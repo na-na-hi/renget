@@ -6,19 +6,16 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 230th time, what is Ope?!
+For the 231st time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: ? (possibly on Sun 01/28 7PM CT)
-Last stream (Palworld)
-https://www.youtube.com/watch?v=gtAt6xfeuFo
+Next stream: Stardew Valley (Mon 01/29 12PM CT)
+Last stream (Mario Party Superstars with Aradia & Malpha)
+https://www.youtube.com/watch?v=kPnu8p5_vfU
 Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
-
-\>Cover of Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover)
-https://www.youtube.com/watch?v=OQuGEpICY2o
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
 https://s.goodsmile.link/gmC
@@ -40,11 +37,11 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67600313
+Previous thread: >>67665105
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Tag schedule: GEYreAqW0AA-98q
+!!!warning Second OP Post - Schedule: @nerissa_en-1751646147913867772
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -66,7 +63,7 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1749133373132382605
+https://twitter.com/nerissa_en/status/1751646147913867772
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE

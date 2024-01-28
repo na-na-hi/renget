@@ -1,0 +1,9 @@
+-> **_if i can't be an angel, i'll be the devil_** 。。。![](https://pixelbank.neocities.org/decome/hearts/06a34e48.gif)<-
+->![](https://cdn.discordapp.com/attachments/963634359615774750/1047300193588084766/unknown.png)<-
+->![](https://cdn.discordapp.com/attachments/963634359615774750/1045698751311921213/Screenshot__822_-removebg-preview.png)<-
+->︶ ︶ ︶ ︶ **୨୧** ︶ ︶ ︶ ︶<-
+-> or **𝒎𝒂𝒓𝒚** *♡*<-
+-> **s**he  . . .  **𝒇**emale (**?**) <-
+-> ⌒ ⌒ ⌒ ⌒ **୨୧** ⌒ ⌒ ⌒ ⌒ <-
+->![](https://terror.crd.co/assets/images/gallery22/cdf5cfd7_original.png?v=98df89bb)⠀ ⠀ ⠀ ⠀ ⠀   [**♡**](https://rentry.co/devilssin)⠀ ⠀ ⠀ ⠀ ⠀   ![](https://terror.crd.co/assets/images/gallery22/0f956657_original.png?v=98df8)<-
+-> **light mode please !!** <-

@@ -53,7 +53,7 @@ Links   | Catbox: https://files.catbox.moe/1zk5yg.png https://www.chub.ai/charac
 
 Kazumi | Info
 ------ | ------
-![Kaz](https://files.catbox.moe/mah6ie.png) | I try to help my *thicc* mom lost weight with yoga, ends up getting her pregnant. 
+![Kaz](https://files.catbox.moe/mah6ie.png) | I try to help my *thicc* mom lose weight with yoga, ends up getting her pregnant. 
 Links   | Catbox: https://files.catbox.moe/uyxry2.png
 
 Karin | Info
@@ -63,8 +63,8 @@ Links   | Catbox: https://files.catbox.moe/pcrsqd.png
 
 Mako | Info
 ------ | ------
-![Mako](https://files.catbox.moe/7sgrei.png) | My shy girlfriend tries to use a hypnosis-app to make me rougher with her in bed. It does work...in a way.
-Links   | Catbox: https://files.catbox.moe/9p581e.png
+![Mako](https://files.catbox.moe/7sgrei.png) | My shy girlfriend tries to use a hypnosis-app to make me rougher with her in bed. It does work...in a way. Made by Doujin.
+Links   | Catbox: https://files.catbox.moe/9p581e.png . https://www.chub.ai/users/doujins
 
 Marie | Info
 ------ | ------
@@ -174,5 +174,5 @@ Links   | Catbox: https://files.catbox.moe/i0tggu.png . https://files.catbox.moe
 
 Villa Puerarum Effeminatarum | Info
 ------ | ------
-![Pueri](https://files.catbox.moe/75o02c.png) | The weary roman emperor arrives at the house of pleasure and relaxation. Initially sceptical to the Villa staffed only with femboys, he quickly comes to indulge in the pleasures it provides.
-Links   | Catbox: https://files.catbox.moe/no41w1.png
+![Pueri](https://files.catbox.moe/75o02c.png) | The weary roman emperor arrives at the house of pleasure and relaxation. Initially sceptical to the Villa staffed only with femboys, he quickly comes to indulge in the pleasures it provides. Made by Anonagusproduction!
+Links   | Catbox: https://files.catbox.moe/no41w1.png . https://www.chub.ai/users/anonaugusproductions

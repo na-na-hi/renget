@@ -1,0 +1,7 @@
+-> ![](https://media.discordapp.net/attachments/1092316407552806923/1092316455887962184/A824AC50-18EC-48A8-A0F1-5FF1A7F23B11.png) <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1091874172705193984/IMG_2538.gif) alice 𓏲 ₊˚ she ﾉ her <-
+->   ꒰  ![editedbyfinn](https://media.discordapp.net/attachments/903364339464044575/1091875913974693898/DB560D40-18E1-4E9E-8121-850BE84D2880.gif) 7teen Black ISFJ ⚢ <-
+->9w1 ![](https://media.discordapp.net/attachments/903364339464044575/1091885344263262238/E75ECA83-4809-4644-B93D-DF6065520968.gif)   ♡ light's #1 fan  ༘<-
+->  ⸝⸝ ![editedbyfinn](https://media.discordapp.net/attachments/903364339464044575/1091898744993230988/AEA545E4-9A89-4E95-BED6-6B221EB3DF12.gif) death note lvr ૮ › ༝ ‹ ྀིა  <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1091886161464672347/E29200A3-BF7C-4D9F-8FFB-DEE880150661.gif) <-
+-> ◡◡ [extended...](https://rentry.co/d5icq) ◡◡ <-

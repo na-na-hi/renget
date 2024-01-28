@@ -1,0 +1,9 @@
+-> [©](https://twitter.com/TanyaF2022?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) ->
+-> ![](https://media.discordapp.net/attachments/1012559729106624564/1038792562779107340/Untitled38_20221106133011.png)
+![](https://terror.crd.co/assets/images/gallery22/cdf5cfd7.png?v=98df89bb) ***S***he[+](https://rentry.co/freyanouns)_Neos_ ![](https://f2.toyhou.se/file/f2-toyhou-se/images/22494384_g0fuyj0PaJnLxQk.png?1623251728) **F**emale ...![](https://terror.crd.co/assets/images/gallery22/acd524e5.gif?v=98df89bb) **6**teen ![](https://terror.crd.co/assets/images/gallery22/0f956657.png?v=98df89bb)
+ **S**_panish_[`/`]()**C**_hinese_[`/`]()**J**_apanese_ ![](https://terror.crd.co/assets/images/gallery22/20def72a.png?v=98df89bb)Gatekeeper
+![](https://terror.crd.co/assets/images/gallery10/1b7f4467.gif?v=98df89bb) [~~Introject~~](https://genshin.hoyoverse.com/m/zh-tw/character/liyue?char=16) ![](https://terror.crd.co/assets/images/gallery15/3beb52c4_original.png?v=98df89bb) **Autis**Bpd ![](https://terror.crd.co/assets/images/gallery06/be26a265_original.gif?v=98df89bb) M/W [Elle](https://rentry.co/ellez) ![](https://terror.crd.co/assets/images/gallery22/7db2ec1a.png?v=98df89bb)
+![](https://terror.crd.co/assets/images/gallery05/ecf7cdab.png?v=98df89bb)
+![](https://terror.crd.co/assets/images/gallery10/a8e8defe.gif?v=98df89bb) **[✿](https://rentry.co/freyabout)** ~ **[RULES](https://rentry.co/freyarules)** ~ **[LIKES](https://rentry.co/freyalikes)** ![](https://terror.crd.co/assets/images/gallery10/081911e2_original.gif?v=98df89bb)
+![](https://media.discordapp.net/attachments/1012559729106624564/1038802530337038417/rsz_8c310f43.png)
+hi! my name is freya, i am 6teen and bodily 6teen. my mbti is entp 7w8 +other stuff (feel free to ask! i heart typology) i'm so autistic over shenhe she's literally the right one. don't say you like her more than me x :b<-

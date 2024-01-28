@@ -1,0 +1,4 @@
+-> ![](https://media.discordapp.net/attachments/808843477269086260/943660238735826954/70639988-C681-4339-890B-70253D809270.png?width=300&height=300) <-
+-> ==sage== or s~~atur~~n <-
+-> h~~***e***~~ h==im== | trans ~~ma~~le <-
+->==[carrd](https://intothesnow.carrd.co)== ==[rentry hoarder](https://rentry.co/bloss-tri)==<-

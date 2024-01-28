@@ -1,0 +1,7 @@
+[![](https://media.discordapp.net/attachments/903364339464044575/1093663035018727504/E1A32E9C-763F-4D35-850B-CB8B59D43D57.png)](https://twitter.com/blurrymoss/status/1625279452086423553?s=46&t=w5SGh7J4qmkX3hezS7Skag)
+-> ~~(~~ ![](https://media.discordapp.net/attachments/903364339464044575/1093664409123049512/E4999DD9-C9FA-4359-8066-C13F0A1BF880.gif) ~~)~~ lulu  𓂂 zero  𓂂 hazel he [ﾉ](https://en.pronouns.page/@suzalulus) they 
+white seventeen  ![](https://media.discordapp.net/attachments/903364339464044575/1090723156324515950/F72CDADE-9470-44F7-8F72-B2D3623E1DA3.gif) & agender ⁺  ༘ <-
+-> 𖥻 **𓂅** aroacespec lesbian .˚♩is(t)<-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1090719248676028516/483D577B-59DF-48EF-B695-01959762AC71.gif ) sp945 sli rcuen flev phleg-mel <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1091412131750092801/E290EC75-166A-4D14-A94F-7E482EB59CAC.png)![](https://media.discordapp.net/attachments/903364339464044575/1091412131750092801/E290EC75-166A-4D14-A94F-7E482EB59CAC.png) <-
+->[interests](https://rentry.org/lulu12) ⸝⸝ [rules](https://rentry.org/lulu22) ⸝⸝ [kins & favs](https://rentry.org/lulusever) ⸝⸝ [ext](https://rentry.org/lulu42)<-

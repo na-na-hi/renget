@@ -1,0 +1,33 @@
+-> ![th older brutha :-0](https://cdn.discordapp.com/attachments/745298387380994120/973988667259510924/IngoAnimatedSprite.gif) emmet / medic ![me irl fr](https://cdn.discordapp.com/attachments/745298387380994120/973988357661163532/EmmetAnimatedSprite.gif) <-
+-> ![kill](https://watermelon.crd.co/assets/images/gallery02/8963e870.gif?v=e0346574)![your](https://watermelon.crd.co/assets/images/gallery02/8963e870.gif?v=e0346574)![self](https://watermelon.crd.co/assets/images/gallery02/8963e870.gif?v=e0346574) <-
+-> my other names r also cloaker / wolf / sokol / kudari !! <-
+-> PLZ call me by all of them or i might do pottery on your bones (if u know how 2 use genderfluid prns on ppl then u know how 2 do this gusys.) <-
+->ya ya im [emmet](https://pokemon.fandom.com/wiki/Subway_Boss_Emmet) irl !!! :-3 all about emmet is ME. emmet is soo it/its n unlabelleld like me <-
+-> doubls are fine!! Yahooooo im not an insane kinstagrammer its ok <-
+->whats up if yiu came from [isko moreno](https://rentry.co/iskomoreno) / [isko moreno](isko-moreno)<-
+->[new one](https://rentry.co/irlmedic)<-
+-> ![lol](https://watermelon.crd.co/assets/images/gallery02/89585c22.gif?v=e0346574)![lol](https://watermelon.crd.co/assets/images/gallery02/89585c22.gif?v=e0346574)![lol](https://watermelon.crd.co/assets/images/gallery02/89585c22.gif?v=e0346574) <-
+-> it/its <-
+-> *unlabelled. i dont like any1 thou* <-
+-> AUTISTIC.. (HELP ME!!!!!!!!!!!) <-
+-> muslim ogugghg <-
+-> ![tran gener](https://watermelon.crd.co/assets/images/gallery10/7b3b638f_original.jpg?v=e0346574)  ![nonbiney](https://watermelon.crd.co/assets/images/gallery10/4c10ddec_original.jpg?v=e0346574)(*maybe*) <-
+-> ![lol](https://watermelon.crd.co/assets/images/gallery02/99b193a1.gif?v=e0346574)![lol](https://watermelon.crd.co/assets/images/gallery02/99b193a1.gif?v=e0346574)![lol](https://watermelon.crd.co/assets/images/gallery02/99b193a1.gif?v=e0346574) <-
+-> **interests !!!!!!!** <-
+-> rn jm kinda obsessed w tha *subway brtothers* :-) **jm rly attached to emmet**(SORRY FOR BEIN INSANE! im luterally emmet! sorry i keep saying this! You just need to knwo) !! pkmn <-
+-> payday 2 <-
+-> hotline miami <-
+-> hylics <-
+-> piggy (2020-2021 interst,. Lul..?) <-
+-> kaiju paradise. *hurk hurrkhurrk hairballing* <-
+-> the mimic <-
+-> 8eyes! <-
+-> *n probabkly more i forgot cuz Yea!!?* <-
+-> ![lol](https://media.discordapp.net/attachments/961528117460090880/971391515949666314/ingo-emmet_1.gif) <-
+-> my insta is @cloakerxmedicfanart thats the onlysocial media i got siorry im not spednign my time on twt or anywhere ekse <-
+-> ![lol](https://watermelon.crd.co/assets/images/gallery02/8963e870.gif?v=e0346574)![lol](https://watermelon.crd.co/assets/images/gallery02/8963e870.gif?v=e0346574)![lol](https://watermelon.crd.co/assets/images/gallery02/8963e870.gif?v=e0346574) <-
+-> ![me n da brutha](https://cdn.discordapp.com/attachments/745298387380994120/974198288607756298/Untitled179_20220512143607.png) <-
+-> **BYI AHEAD** <-
+-> ![dividur](https://vnc.crd.co/assets/images/gallery14/3a6952c1_original.gif?v=c98e7d29) <-
+-> Hi ... i do not like gettging alot of story replies when we;re not close cuz i just get nervous from it. Sorru i cant rly keep up converstaiions especiallu WHEN WE;RE NOT CLOSE!!!!!! also if u hate me mispellign then tell me ill probab; y try to type correctly (Which will make me kinda slow at typing cuz now im so USED to mistyping and not correcting them off  akso. yes i do say slurs but i dont say them most of the  times here cuz  Yeayea i dont wanna make u guys uncomfy i love yu all Dont worey !!!!! Also im open 4 mutuajls jsut tell me if u want to LOL .. also liek i said i cant rll y keep up conversations . Sorry if i lefr u on read or something i just duno what to respodn with so !?!??! Yeas I ALSO tak e like 8 hours to respomd or like a day SORRY LOL im just scared to open dms sometimes (For wahetevr fucking reason) I DONT KNOWBUT YEAH amdalsoo I type srupidly fus. Shitty keyboard Lllol Lololol jngngthats all idk what to add here SNnoo MImiimmimii <-
+-> ![autistic brothers](https://media.discordapp.net/attachments/961528117460090880/971432497835540480/emmet-ingo.gif) <-

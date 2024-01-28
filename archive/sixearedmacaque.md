@@ -1,0 +1,1 @@
+-> [![A graphic of the Squid Sisters, Callie and Marie, from Splatoon. It says, 'Claimed by Azure!!'](https://i.postimg.cc/8zqsPJT3/claimedcalliemarie.png)](/squidsisters) <-

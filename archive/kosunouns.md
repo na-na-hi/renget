@@ -1,0 +1,30 @@
+-> ![](https://media.discordapp.net/attachments/1012559729106624564/1052697729098322040/image0.jpg)
+![](https://tomomi.neocities.org/pixeles2/301.gif) **kōsuke** [..](https://rentry.co/kosunouns) he **[neos](https://rentry.co/kosunouns)** ![](https://pixelbank.neocities.org/decome/plants/5a74912d.gif) s[ys](https://rentry.co/carnival-happy)**host**  (｀^´)
+**w**asian ![](https://media.discordapp.net/attachments/1011038984052428830/1043285358906966056/IMG_7740.gif) 8~~teen~~ g**a**y tr**a**n~~sm~~**a**sc ![](https://media.discordapp.net/attachments/1011038984052428830/1052068601072468028/IMG_8440.gif) (><)
+[i~~ntr~~**o**j](https://rentry.co/kousuject) ![](https://pixelbank.neocities.org/decome/crowns/2d0014c3.gif) autis**bpd** mdd + a little coocoo..
+`★` ![](https://pixelbank.neocities.org/dividers/image111.png)`★`<-
+
+-> **kōsuke**'s names ++ pronouns ?!<-
+->**bold** = favorite
+~~stricked out~~ = if friends/close<-
+
+-> **kōsuke / kousuke**
+~~kaiyo~~
+hideyoshi
+**tsukuyomi**
+kazuki
+**kuraokami**
+~~jurojin~~
+heiichirō
+akihiko
+~~katsunori~~
+jiyunichi<-
+
+-> — • — <-
+
+-> **he / him**
+ xe / xem
+**moon / moons**
+~~ghost / ghosts~~
+void / voids
+**spell / spells**<-

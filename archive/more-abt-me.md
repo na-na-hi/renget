@@ -1,0 +1,5 @@
+-> ![♡](https://i.postimg.cc/QM7xgpRx/ezgif-1-b372b8d42d.gif) <-
+-> ![☆](https://64.media.tumblr.com/1ce6dffb35178dff66918ce37a10bfdb/740d1935aae86ce4-87/s400x600/c979219758bc20d54f44911b1eef18a23e654ac2.gifv) <-
+-> name's **rui** or prince*!* im just a agender guy who is masc presenting *fem*, no **she**/**her**, i prefer **masc**neutral terms, not in any subtwt, i have *asthma* and *appencitis* which i will often talk abt, i suffer from heavy **paranoic** delusions & **anger issues** which may affect how i interact, i am jokingly mean, most of my episodic eps are triggered by *body dysmorphia*, i cant stfu abt **childe**, my twt atm is **mainpriv** only (reqs not accepted), i privqrt pos stuff srs, i like drawing & *listening* to vocaloid songs, i find psychology interesting, i change **layouts** often, i am a *libra* (oct. 16), i love my [**bff**](https://twitter.com/BabytronOwnsYou) sm*!!*  <-
+-> ![☆](https://64.media.tumblr.com/24737007e74911e5351d8411e4d571a1/740d1935aae86ce4-34/s250x400/567e93773e17a480f61e32cfd58059195a008411.gifv) <-
+-> [![☆](https://i.postimg.cc/fWjHWKJd/ezgif-5-e8d320f8b4.gif)](https://rentry.co/idoIl) <-

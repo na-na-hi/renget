@@ -1,0 +1,5 @@
+-> ![mybf](https://media.discordapp.net/attachments/955305703935979550/1107462838836011098/A7AB8E71-DCE2-4831-88A5-FA3B88AC7DB7.gif) <-
+`Byf`
+**1.** `dont say huh um erm uh uhm or ?? or any shit like that to me, ill probably assume you hate me and block...sorryyy` **2.** im super duper possesive/protective of my interests...meaning i might get annoyed by ppl also enjoying the same interest (sorry to leon kennedy fans rn dont follow me im insane[autistic]) **3.** i tweet abt whatever i want, i wont just stick to one game/show **4.** ill make nsfw tweets from time to time, dont take them seriously...orrr do take them seriously idc dont rt them theyre mostly abt leon **5.** im a selfshipper sorry normal people **6.** ill post fake gore with no warnings(99% chance it will be from resident evil) 
+-> `Dni`
+only post idv, taro, proship...Or neutral on it ur a freak too. post constant hate on childe(gi).. post abt xiaoven or joscarl, resident evil twt(current muts ok) ->

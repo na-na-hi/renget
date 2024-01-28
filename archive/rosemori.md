@@ -1,0 +1,3 @@
+-> ![](https://media.discordapp.net/attachments/1012559729106624564/1033972913415651338/IMG_8857.jpg) 
+**ro**se ♡ *she* ![](https://barbara.crd.co/assets/images/gallery11/ab076da5_original.gif?v=115e6ed7) **fem**ale ~ *lesbian*
+< [taken](https://rentry.co/pearli) 3 ![](https://barbara.crd.co/assets/images/gallery21/e316838e_original.gif?v=115e6ed7) e**sf**j 9~~w~~1﹒[introject](https://pjsekai.sega.jp/character/unite02/shizuku/index.html)<-

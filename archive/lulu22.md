@@ -1,0 +1,11 @@
+->⋆ .\* .  ![gif](https://64.media.tumblr.com/f1eb3e87ed1921b13e67fd9358aef6f2/1a098775167e40ce-c3/s75x75_c1/c84a3198a702258e6390dcf0a6bc0af288550b3a.gifv) ==byf/dni== ![gif](https://64.media.tumblr.com/a75858c90bdf73820cad20cf7063703e/1a098775167e40ce-a8/s75x75_c1/6d62a759752ff34db528bee3b48286aced05ec7d.gifv) . \*. ⋆<-
+
+->![gif](https://noviecita.crd.co/assets/images/gallery17/65e8f9f0.gif?v=b654ba2f)<-
+
+->![gif](https://64.media.tumblr.com/93dbb8f71e32528ad18a7beab5825b0f/tumblr_inline_pfckky9iYb1r0khjk_75sq.gifv) ==byf:== *i spam post and spam my stories,* i draw & post my art a lot! i go inactive sometimes i'm generally more active on twt (@zoluize), i only use tone indicators sometimes (lmk if you need them), don't let the rentry fool you i do not consider this a kinstagram i just post about whatever, i can come off as cold/rude if i don't know you well but feel free to dm me i love making friends, i forget things constantly so sorry for that in advance, i change my opinions on things very often, i post oc x canon sometimes if that's not ur thing<-
+
+->![gif](https://64.media.tumblr.com/5968cf590ab7455992af501fc5b309d0/tumblr_inline_pfckl0ySYi1r0khjk_75sq.gifv) ==dni:== fit [this criteria](https://listography.com/dni), you ship kuroaka bakudeku toya/tenmas 0103 or cc/lelouch, under 16, you actively hate on my interests/favs (i don't mind if you dislike them as long as you don't talk about it all the time), you romcc **suzaku misa dimitri** or **raqio,** you aren't critical of your interests, **south park fans,** hardcore  idv fans, dsmp fans, milgram fans that harrass others over theories/votes, overly negative people, idk i'll just block you if you're weird<-
+
+->![gif](https://64.media.tumblr.com/tumblr_mdw90ajF0w1qj6vgo.png)![gif](https://64.media.tumblr.com/tumblr_mdw91wJfbX1qj6vgo.png)![gif](https://64.media.tumblr.com/tumblr_mdw926rA1L1qj6vgo.png)![gif](https://64.media.tumblr.com/tumblr_mdw91eHmzm1qj6vgo.png)<-
+
+->[return](https://rentry.org/zolu)<-

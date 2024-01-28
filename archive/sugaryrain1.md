@@ -1,0 +1,13 @@
+->![](https://cdn.discordapp.com/attachments/998328934473154673/1168940859291603044/IMG_2662.gif?ex=65539802&is=65412302&hm=d078456f8992b5a94d75ada9b451c94450b6d005c3580bcdfe476b460701872f&)![](https://cdn.discordapp.com/attachments/998328934473154673/1168944407769268265/Senza_titolo_201_20231031170611.png?ex=65539b50&is=65412650&hm=1ca7cfe2ce27c90efd86d7964030bd1e2d849a77669ce00de5d161f33350b299&)<-
+->![](https://cdn.discordapp.com/attachments/998328934473154673/1168940867571167272/IMG_2658.gif?ex=65539804&is=65412304&hm=b50f0ad64904d6a69859fbf06bd214b5c2580005b35c55be87d0651e476883ad&)<-
+->![](https://cdn.discordapp.com/attachments/998328934473154673/1168940873745178686/IMG_8527.gif?ex=65539806&is=65412306&hm=79321e140387f60b9c85a134e2d6d0c9cdb423fb689a9c0750ceeb0b416fb7a4&) im a *minor*, i have [anxiety](), i may not reply to dms if you **make me uncomfortable**, 
+i don't like carrying conversations, pls dont add me randomly,i wont use tone tags often
+*unless you tell me to*, i type in all caps really often (mostly when im laughing), 
+i support age reggresion and pet reggression, if i trust u **i may 
+vent a lot**, just tell me if youre uncomfy with that<-
+->![](https://cdn.discordapp.com/attachments/998328934473154673/1168940879403298876/IMG_2657.gif?ex=65539807&is=65412307&hm=6f38bab66e551392b6c67547ff4f1549064ad75590a04f65f0cca43b4a5c371c&)<-
+->![](https://cdn.discordapp.com/attachments/998328934473154673/1168940859291603044/IMG_2662.gif?ex=65539802&is=65412302&hm=d078456f8992b5a94d75ada9b451c94450b6d005c3580bcdfe476b460701872f&)![](https://cdn.discordapp.com/attachments/998328934473154673/1168944908351066252/Senza_titolo_201_20231031170625.png?ex=65539bc8&is=654126c8&hm=db24188cf994436c8542866f14e841b4125ad85919cdb56adeba46f409f5b2b3&)<-
+->![](https://cdn.discordapp.com/attachments/998328934473154673/1168940867571167272/IMG_2658.gif?ex=65539804&is=65412304&hm=b50f0ad64904d6a69859fbf06bd214b5c2580005b35c55be87d0651e476883ad&)<-
+->![](https://cdn.discordapp.com/attachments/998328934473154673/1168940873745178686/IMG_8527.gif?ex=65539806&is=65412306&hm=79321e140387f60b9c85a134e2d6d0c9cdb423fb689a9c0750ceeb0b416fb7a4&) [basic DNI criteria]( ), you like *gore*, you use 'uwu' or 'owo' unironically
+ (unless your age reggressing), you dont respect **dni criterias**, or u make me uncomfy 
+〜♪ go [b](https://rentry.co/sugaryrain)ack! ![](https://cdn.discordapp.com/attachments/998328934473154673/1168940849787326584/IMG_7275.gif?ex=65539800&is=65412300&hm=7b50685e31d355d728c6df38a14b4c37f5d746cd31fd439f4900b5f5b2903415&) ♪〜<-

@@ -1,0 +1,7 @@
+->![shin](https://media.discordapp.net/attachments/903364339464044575/1066982898927931402/3BB3E2BD-7BDD-4AD9-B9CB-EE19FB6474CB.png)<-
+-> ![umbrella](https://media.discordapp.net/attachments/903364339464044575/1066763084246560960/173B0BD3-FBE3-4997-A5D3-56C2B78D28D0.gif) . . name 〜 ♡‧₊˚ prn ノ prn  <-
+-> info ![](https://media.discordapp.net/attachments/903364339464044575/1086447858523312158/9901C24D-7A7E-4ECC-923B-A10D5CA63BFA.gif) info ˎˊ info ![shoes](https://media.discordapp.net/attachments/903364339464044575/1066975226526707763/539038F2-68A8-4AE9-BD29-6C81953BAE12.gif) info <-
+-> info ૮ › ༝ ‹ ა ![book](https://media.discordapp.net/attachments/903364339464044575/1066762646294110238/3DA98B4F-F234-4C00-9263-2530E6D35158.gif) info info ![wing2](https://media.discordapp.net/attachments/903364339464044575/1066975504638423081/4E80A4D9-DC32-4D12-975E-7A55B71C3356.gif) <-
+->![bow](https://media.discordapp.net/attachments/903364339464044575/1066763085446139955/FD711CD1-6260-4C8E-906D-A9FC356EBE44.gif) info info *!* info ꒱ ˚. ⊹ <-
+-> ![div](https://media.discordapp.net/attachments/903364339464044575/1066980521449627688/8F251F88-E84B-4ADE-84D5-D09B53397977.png)<-
+-> [rules](https://rentry.co/shinato) ⁝ [interests](https://rentry.co/shinato) ⁝ [ext](https://rentry.co/shinato) <-

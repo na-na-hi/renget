@@ -1,0 +1,7 @@
+-> ![zen](https://media.discordapp.net/attachments/903364339464044575/1075133981655314432/9B67CFC5-CE46-437F-81AD-BC4BACAAE14B.png)<-
+-> ‧₊˚✩ ![music](https://media.discordapp.net/attachments/903364339464044575/1075136892321927268/CE972882-DE71-4B79-AA6E-7E06E0E0683E.gif) ![face](https://media.discordapp.net/attachments/903364339464044575/1074721675075125318/B6BB52E9-A272-4C45-BF23-D638D8386C4B.gif) **finn** `or` mike ✦ ⁺ . <-
+-> ![hrt](https://media.discordapp.net/attachments/903364339464044575/1075209810322141184/784E9DCC-8E54-4D1B-A6D6-6DF4624C2E85.gif) — heﾉvamp [+](https://en.pronouns.page/@hakkai) . . fifteen  ![bow](https://media.discordapp.net/attachments/903364339464044575/1075207118237474906/BD5D73D5-A204-4BA4-B6FD-75BEAA34986E.gif)<-
+-> ˗ˏˋ palestinian ![arrow](https://media.discordapp.net/attachments/903364339464044575/1075214012456914944/5AD72023-C111-4ACC-BA69-7CF7611BCC08.gif) eng/عربي ok! <-
+-> ![wings](https://media.discordapp.net/attachments/903364339464044575/1074725299004129340/EB9DBFF7-5BBF-4E52-BE7E-FC72A35D087D.gif) mentally unwell ⊹ ୨ bpd <-
+-> yatora's bf  =͟͟͞♡ ﾟ｡ ![bow](https://media.discordapp.net/attachments/903364339464044575/1075213479436369920/326B92FF-C5C8-4FD0-9A6B-EF9C379D73CB.png) the [fi](https://blue-period.fandom.com/wiki/Yakumo_Murai)[nns](https://bungostraydogs.fandom.com/wiki/Edgar_Allan_Poe) <-
+-> [rules](http://rentry.co/finnsrules) 〜 [interests](http://rentry.co/finnterest)  ![div](https://media.discordapp.net/attachments/903364339464044575/1075202908615880724/693F95C9-8E9A-46E7-B9AC-E3CA661EF8E1.gif)<-

@@ -1,0 +1,9 @@
+->![](https://twst.ju.mp/assets/images/gallery06/8d8525d7.gif?v=27586142) *[STARS GOT A FREAKY LIVING !!](https://open.spotify.com/track/5U5ToZKDyfVoXO9BUTVSuI?si=7e1996f0bae94391)*
+![](https://cdn.discordapp.com/attachments/870787415172845589/1058365221649006633/IMG_20221230_144515.png)<-
+->![](https://caterpie.crd.co/assets/images/gallery02/dfc8cd2f.gif?v=08522da7) **CHERRIE** ~~*or*~~ ==ENA== ![](https://tomomi.neocities.org/pixeles2/365.gif) **POP** SHE **MEW**
+==YT== + **16** ![](https://caterpie.crd.co/assets/images/gallery05/6c5f0b0c.gif?v=08522da7) ~~ACE~~ LESBIAN **GIRLIE** ![](https://tomomi.neocities.org/pixeles/275.png) ![](https://pixelbank.neocities.org/decome/kitties/4168554.gif)
+[INTROJ](https://rentry.co/cherrietroject) ![](https://tomomi.neocities.org/pixeles/154.gif) [SYS](https://rentry.co/puppettheatre) **GATE**==KEEPER== ![](https://tomomi.neocities.org/pixeles/229.gif) ~~BPD~~**HD**<-
+!!! warning 
+    ->[![](https://64.media.tumblr.com/58a45cfec30afb812dc71a40261e39b0/tumblr_inline_mly9c6MrZf1qz4rgp.gif)](https://rentry.co/prettygirlie)<-
+->==BYI !*!*== **6**teen + **5**teen bodily, energetic, talkz in capz, slight ==z== tq !!! bffsiez with ==[leslie](https://rentry.co/anriwarhol)== (/sys) will not stand leslie haterz (incl. bunz ==[srcs](https://rentry.co/prisoner002)==) !! im open 2 making new friends ==24/7== !!! feel free to also call me ==Zombi== and ==Charlie== !!! i luv those names ;3 am extremely hyperfixed on ==BSD , BANDORI , & MILGRAM== PLZ dont say u like these more than mee !!! IM ALSO A HUGE FAN OF HELLO CHARLOTTE, POKÉMON, ABBA, TAYLOR SWIFT, JHARIAH, HOT FREAKS, CSM + !!! I LOVEMAIL ==GIN AKUTAGAWA== 24/7 NON STOP IM INSANE AND BPD OVER HERR !!! dont say u like her more than me pretty plz!!! NO DNI, BUT ==BLOCK = DNI== <-
+->![](https://caterpie.crd.co/assets/images/gallery14/cbc76f3e.gif?v=08522da7)<-

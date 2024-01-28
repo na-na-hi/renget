@@ -1,0 +1,11 @@
+->![.](https://media.discordapp.net/attachments/878086628541882470/980948885549764649/IMG_2663.jpg)<-
+->![.](https://media.discordapp.net/attachments/878086628541882470/940006381556203520/IMG_3473.gif)<-
+->♡ ⑅  ࣪˖ ˚ ![?](https://64.media.tumblr.com/tumblr_lkqytdd6iD1qi6qow.gif)<-
+->✦![.](http://i11.photobucket.com/albums/a168/evelynregly/minigifs/caracol.gif) **navigate ｡ ｡ ｡ ꒰ྀི [𝐈]() [𝐈𝐈](https://rentry.co/crystaii) [𝐈𝐈𝐈]() [𝐈𝐕]() ꒱ྀི**<-
+->꒰ “⠀♡︎ ![div](https://media.discordapp.net/attachments/973312326373625916/981210146782969876/5AC1F38D-F9B5-4DB9-8504-65920DEECFB5.png) ♡︎⠀” ꒱<-
+-> ![?](https://64.media.tumblr.com/tumblr_lkqytdd6iD1qi6qow.gif) ˖ ࣪ .  ࿐ ♡ ˚ .<-
+-> hihi ![hrt](https://64.media.tumblr.com/3b6be61e54d13f50c5a57d9738ebde92/tumblr_inline_mt19bkRcsz1qz4rgp.gif) m **spencer** or **cat**erina!〜 <-
+->it he paw chi . . . ୧꒰\*´꒳\`\*꒱૭![.](https://64.media.tumblr.com/87f60599a72a559827897b72fc0707d8/tumblr_inline_mhcmipEDAg1qz4rgp.gif) **asian**<-
+->꒰ minor & ꒱ 🥣★🫖 ｡ ˙ ₊ a lesbian<-
+->꒰ “⠀♡︎ ![div](https://media.discordapp.net/attachments/973312326373625916/981210146782969876/5AC1F38D-F9B5-4DB9-8504-65920DEECFB5.png) ♡︎⠀” ꒱<-
+->© **[grriys](https://twitter.com/grriys)** on twt if u rm<-

@@ -1,0 +1,8 @@
+-> ![yui](https://media.discordapp.net/attachments/903364339464044575/1100448723022135326/AE125114-B0B8-4CC8-9E19-262B42A4BA83.png)<-
+-> ₊˚ʚ finn ![angelstar](https://media.discordapp.net/attachments/903364339464044575/1064209439177056397/6B76FB85-48C2-46B1-AB1A-0D211EA67783.gif) mike ⋆ﾟ⊹ <-
+-> [he/him](https://en.pronouns.page/@hakkai) ![db](https://media.discordapp.net/attachments/903364339464044575/1064213137441701928/CADD14D2-DCBA-4776-96DD-1945EE8337B1.jpg) ![unlabeled](https://media.discordapp.net/attachments/903364339464044575/1064218224260030504/39BD2D68-5C4F-49F6-9300-29B3B7AF5028.png) fifteen<-
+-> ![cinna](https://media.discordapp.net/attachments/903364339464044575/1064222041307349144/A7EF334E-BD07-4EED-9A7F-6A2C1F418830.gif) arab 𓏭 ==eng/عربي== ok!<-
+-> borderline ![umbrella](https://media.discordapp.net/attachments/903364339464044575/1064213095511228436/20A23D68-84C9-4B79-90CA-5AAEFA3BEABB.gif) + ment. unwell <-
+-> yatora's bf ![emoticon](https://media.discordapp.net/attachments/903364339464044575/1064229211834962010/A65883EF-0AC2-45B0-A587-1C502F8699FD.gif) i ♡ [th](https://tokyorevengers.fandom.com/wiki/Senju_Kawaragi)[em](https://chainsaw-man.fandom.com/wiki/Reze) too <-
+!!!warning 
+-> ![hrt](https://media.discordapp.net/attachments/903364339464044575/1064209737018790008/2B410E07-CC37-4BB9-A46A-9CCBD7E5DD6E.gif) [byf & dni](http://txti.es/snoop20) — [interests](http://txti.es/snoop20) ->

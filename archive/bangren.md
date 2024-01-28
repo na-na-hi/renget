@@ -1,0 +1,5 @@
+-> ![](https://i.pinimg.com/564x/23/47/b6/2347b6e1a714180794cc5b2f05c1d3f3.jpg) <-
+-> # . sage or saturn <-
+-> 4teen !*?* + he . him <-
+-> filipino american + intp . @ <-
+-> [carrd](https://forestlives.carrd.co) [rentry hoarder](https://rentry.co/bloss-tri) <-

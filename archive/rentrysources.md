@@ -1,0 +1,4 @@
+-> ![](https://64.media.tumblr.com/58afd5cdecbe79d6a1b52f026e71a727/7a6cc3c53c2f9045-dd/s640x960/585b478608291a6d30df2cb9c101eb72d806a35b.pnj)
+[![nico's rentry resources](https://64.media.tumblr.com/e10a35e5b3ee492c6a3b7b6834ebb2c5/7a6cc3c53c2f9045-35/s640x960/b1eea84fae01df61d3f145cf489106556a88f73e.pnj)](https://x.com/luztapiaart/status/1626258079640694785?s=46&t=x4BxGl5_f9Xu0S-yio5goA) <-
+![](https://enchantments.carrd.co/assets/images/gallery03/b9e5f8d3.gif?v=c1e97d5d) ***moved to [thor](/thor)***
+-> ![](https://64.media.tumblr.com/4728ba32f171a0ee79c6a6410e1b8522/7a6cc3c53c2f9045-24/s1280x1920/d1a0811e8b08ae8cf526e864686f0e8d11647b1b.pnj) <-

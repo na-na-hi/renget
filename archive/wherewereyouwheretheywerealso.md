@@ -1,0 +1,8 @@
+-> ![](https://mikejima.crd.co/assets/images/shadow/687c8102.png?v=0ef41667) " i [thought](https://www.youtube.com/watch?v=sjSnAk040fI) the marriage would be different , ![](https://mikejima.crd.co/assets/images/shadow/d94c1b6f.gif?v=0ef41667)
+i guess that's the [mirror](https://www.youtube.com/watch?v=sjSnAk040fI) held to *me* . "  <-
+-> ![](https://i.postimg.cc/T2kM2FdS/Screenshot-2023-03-01-10-36-44-AM-removebg-preview.png) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/cd881c84.gif?v=0ef41667) [cesar](https://mandela-catalogue.fandom.com/wiki/Cesar_Torres) ![](https://pixelbank.neocities.org/decome/food/9c5b1a69.gif) **ambrose** [**``☆``**](https://rentry.co/pinkblades) ENFP-[T](https://www.xpersonalitytest.com/enfp/enfp-t) ![](https://mikejima.crd.co/assets/images/shadow/aa0db6a8.png?v=0ef41667) <-
+-> **he***[s](https://en.pronouns.page/@bambistep)cythe* [**``+``**](https://rentry.co/glowstix) ![](https://pixelbank.neocities.org/decome/plants/193060.gif) [**``gndrfld``**](https://en.pronouns.page/@bambistep) *t*masc <-
+-> ![](https://pixelbank.neocities.org/decome/bunnies/e99346eb.gif) tkn by [**``mark``**](https://twitter.com/DetectiveDDD1) and my [*qp*](https://en.wikipedia.org/wiki/Queerplatonic_relationship)ps [**``¹``**](https://rentry.co/neapolitan-boy)[**``₂``**](https://rentry.co/Ioveful) <-
+-> ![](https://pixelbank.neocities.org/dividers/image89.png) <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/a4975456.png?v=0ef41667) <-

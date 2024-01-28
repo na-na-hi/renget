@@ -1,0 +1,15 @@
+revamping this shit
+
+-> ![](https://caterpie.crd.co/assets/images/gallery23/44a7dfdc.gif?v=40b16407) *" to the* [***dionysian***](https://www.youtube.com/watch?v=dw7YtJOwp7s) *state . . . where the*
+[***pleasure***](https://www.youtube.com/watch?v=dw7YtJOwp7s) *feeds the taste . . . of* [***you***](https://www.youtube.com/watch?v=dw7YtJOwp7s) *. . . "* ![](https://caterpie.crd.co/assets/images/gallery05/46a72741.gif?v=40b16407) <-
+-> ![](https://i.postimg.cc/7Zbsqy8n/ezgif-1-13f535a5ea.webp) <-
+-> ![](https://watermelon.crd.co/assets/images/gallery19/20a83f70.gif?v=90e42ef7) ![](https://pixelbank.neocities.org/dividers/image147.png) ![](https://watermelon.crd.co/assets/images/gallery19/20a83f70.gif?v=90e42ef7) <-
+-> ![](https://watermelon.crd.co/assets/images/gallery03/68c9f62c_original.gif?v=90e42ef7) [*c*](https://mandela-catalogue.fandom.com/wiki/Cesar_Torres)esar ⑅ [*b*](https://rentry.co/pinkblades)ailey ⑅ [*v*](https://rentry.co/pinkblades)ictory ![](https://caterpie.crd.co/assets/images/gallery33/5ef20d93.gif?v=40b16407) <-
+-> [(s)](https://en.pronouns.page/@bambistep)heノsliceノ[r](https://rentry.co/glowstix)ibbonノscythe ![](https://watermelon.crd.co/assets/images/gallery10/32454cb9_original.gif?v=90e42ef7) <-
+-> ![](https://caterpie.crd.co/assets/images/gallery28/e8a7b009.gif?v=40b16407) **gut***loving* ꒰ ![tmasc](https://i.postimg.cc/hG2Vg52w/transmasculine-7-stripes-20-px.png)![gndrfluid](https://i.postimg.cc/d0rsyFX5/genderfluid-5-stripes-20-px.png) ꒱ ![autism](https://resource.crd.co/assets/images/gallery01/e254eb65_original.png?v=9b2f36e2) final [*b*oy](https://www.tumblr.com/the-final-boys/190997256439/what-is-a-final-boy) <-
+-> [sem](https://en.wikipedia.org/wiki/Shortcake)[*i*](https://rentry.co/ribbonrazors)[human](https://wepa.unima.org/en/myth-of-the-puppet-a-western-perspective/) ![](https://caterpie.crd.co/assets/images/gallery05/746644a4.gif?v=40b16407) **bi**poc ~~☆~~ italo <-
+-> ![](https://mikejima.crd.co/assets/images/shadow/1e80dc33.png?v=e37e90e0) < [my](https://rentry.co/mylovelist) [*favorite*](https://rentry.co/Ioveful) [ruler.](https://rentry.co/neapolitan-boy) 3 ![](https://mikejima.crd.co/assets/images/shadow/c12162a0.png?v=e37e90e0) <-
+-> ![](https://caterpie.crd.co/assets/images/gallery23/2537ab89.gif?v=40b16407) sillier [*ren*](https://rentry.co/vegasbaby)try ![](https://watermelon.crd.co/assets/images/gallery11/21456c60_original.gif?v=90e42ef7) <-
+-> ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dbbypi6-f1d80c4a-e063-4a63-a466-2744aaa2bb7d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmMjgzNmNiLTU4OTMtNGE2Yy1iMTU2LTVhODlkOTRmYzcyMVwvZGJieXBpNi1mMWQ4MGM0YS1lMDYzLTRhNjMtYTQ2Ni0yNzQ0YWFhMmJiN2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.NMOvNMD5Dszzx5I7eBgyR2pbmaVvutkD9GHGHy_C1yQ) <-
+-> ![](https://wilardo.crd.co/assets/images/gallery05/bc58aabc.png?v=0290bc54) <-
+-> ![](https://caterpie.crd.co/assets/images/gallery23/54409474.gif?v=40b16407) <-

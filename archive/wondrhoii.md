@@ -1,0 +1,6 @@
+-> ==my name.... is sage.== <-
+-> ![](https://i.pinimg.com/236x/27/1a/8b/271a8b5d2023e5cff48737b3d01ef81c.jpg) <-
+-> ⪧⪦﹒4teen ⟨⟨ ![](https://media.discordapp.net/attachments/817835079946600498/1044022558409887744/IMG_5521.gif?width=18&height=18)<-
+-> ✦﹒♡﹒![](https://media.discordapp.net/attachments/817835079946600498/1044022367426457630/IMG_5632.gif?width=18&height=18) he him┆trans male ﹢﹒𖥔﹒⊹ <-
+-> ♡﹒![](https://media.discordapp.net/attachments/817835079946600498/1044022331477069884/IMG_5636.gif?width=18&height=18) filipino + intp <-
+-> [carrd](https://intotheforest.carrd.co)┆[rentry hoarder](https://rentry.co/bloss-tri)<-

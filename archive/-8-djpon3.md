@@ -1,0 +1,4 @@
+->![dj pon3 non human graphic](https://64.media.tumblr.com/83592a920afa269051b9b2b4480c947b/7d60af91230a5a4e-c6/s400x600/c2b78397c4ebe8cecf2740141774630b39da3b4b.pnj)<-
+->![div](https://64.media.tumblr.com/fef61cc57015ee7b8b408d3bf6a44556/f169f0533fe2c6a6-61/s400x600/ec47c9e773b5042d787f1e3f30f84322d7e6883e.pnj)<-
+->`v`ampire , `z`ombie , `s`panish `w`ater `d`og , `h`usky , `b`orzoi , `r`acoon<-
+->![div](https://64.media.tumblr.com/015d1921eb6f345f32fd4e96646d01fe/f169f0533fe2c6a6-1a/s400x600/b625a42e741af8628c7a6785a33d0bdf951ad947.pnj)<-

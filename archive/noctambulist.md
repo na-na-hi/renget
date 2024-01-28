@@ -1,0 +1,1 @@
+rentry.co/-taehyun THIS IS MINE YOU STUPID AKITO DELULU

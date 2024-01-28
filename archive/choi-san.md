@@ -1,0 +1,1 @@
+FUCKIN LOSERS https://rentry.co/urlcollect

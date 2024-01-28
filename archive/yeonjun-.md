@@ -1,0 +1,1 @@
+hi everybod. rentry.co/-taehyun

@@ -1,0 +1,8 @@
+->![me](https://cdn.discordapp.com/attachments/871900038647906384/1163423671386374154/blur_edges_8.jpg?ex=653f85ba&is=652d10ba&hm=7877e4c9f3a2c9678b041766390e778f57853cfbfb7a35af4d3c8b78778a0466&) <-
+->**CONSTELLATION CENTAURUS**<-
+->[**m**](https://rentry.co/INCLUSIONARY)ika◞  [**f**](https://rentry.co/SPELLB0UND)elix◞  [**n**](https://rentry.co/WLW-NERD)aomi<-
+->[**d**](https://rentry.co/DANILUVSYOU-)ani◞  [**r**](https://rentry.co/FORECLOSURE)in◞  [**s**](https://rentry.co/BLOODAHOLIC)ora<-
+->[**s**](https://rentry.co/STRING-)eori◞  [**a**](https://rentry.co/SLASHER-)sher◞  [**z**](https://rentry.co/SOPHISTICATE)oë<-
+->[**j**](https://rentry.co/WONDER-)onah◞  [**j**](https://rentry.co/AIRIHEARTS)uniper◞  [**s**](https://rentry.co/ARROWS-)parrow<-
+->[**h**](https://rentry.co/NIGHTCORDS-)ayden◞  [**g**](https://rentry.co/GRAYSON-)ray◞  [**c**](https://rentry.co/TOYAROKI)eleste<-
+->[**s**](https://rentry.co/SCARLETTEPINK)carlette ◞ [**t**](https://rentry.co/TWILAPURPLE)wila ◞ [**r**](https://rentry.co/ryderhood)yder <-
