@@ -83,6 +83,12 @@ Did you find this guide on 4chan? You probably did, since I tend to post it in t
 * [8chan](https://8chan.moe): An image board that allows users to create their own boards. Think if reddit and 4chan had an ugly lovechild. Very slow, but it has a fair number of boards for both lolicon and shotacon. There is /loli/ for regular lolis, /delicious/ for western-styled lolis, /tot/ for toddlercon, /sm/ for shotas, and /ss/ for straight shotacon.
 * [Sturdy Chan](https://sturdychan.help): A relatively small imageboard that has a unique gimmick in that you can see posts from others being typed live. There are two boards to be concerned about. /d/ is the degeneracy board, and is where you should post any pornographic material. There will always be a loli thread and a shota thread currently up, and they generally receive a handful of posts every day. /tech/ is also relevant because it is the home of the /cumg/ threads, which are dedicated to the discussion of "cooming utilities" (i.e. software that makes being a coomer a little easier).
 
+## Chat Applications
+
+Many instant messaging and group chatting services, such as Discord, do not allow loli and shota content to be shared or "glorified" through discussion. Thankfully, there is a good alternative to all of these services in the form of [Element](https://element.io/), which is a decentralized chatting service that uses end-to-end encryption. Like Mastodon, if you create an account on one server, you can use it to communicate with accounts on another. The following is a list of home servers known to be friendly to lolicon.
+
+* [Cute Funny Art](https://cutefunny.art): A loli/shota friendly Element instance, which additionally offers a cloud storage service for loli artists.
+* [W33b Cloud](https://w33b.cloud): Another loli/shota friendly instance. Currently has a user registration private, which means contacting the admin and filling out an application form. This server is based in Germany, and therefore subject to German law (which currently seems to be fine with loli images)
 
 ## Other Sites
 
@@ -90,8 +96,6 @@ For anything that doesn't fit in a category elsewhere.
 
 * [Pomf](https://pomf.tv): It's a loli/shota friendly livestreaming site! There aren't a *ton* of creators streaming at any given time, but if you ever wanted to watch someone draw lolis or play a game with lolis in it (perhaps with some nude loli mods), or even just watch hentai with other people, Pomf is good for that. 
 * [Little Angels Hentai](https://lah.li): An old forum focused around sharing lolicon and hentai artwork. Be sure to read the rules before posting.
-* [Lolisho](https://lolisho.chat): A loli and shota friendly instance of Matrix, which is an encrypted and decentralized chatting application.
-* [Cute Funny Art](https://cutefunny.art): Another loli/shota friendly matrix instance, which additionally offers free cloud storage for loli artists.
 * [Saucenao](https://saucenao.com): Saw a cute pic but need to know where it's from? Saucenao is a reverse image search site that indexes billions of images, including and especially anime and manga images. Most important about it is that it's not Google reverse image search. Because let's be real, you weren't seriously thinking about uploading cunny pics to Google, were you?
 
 ## Bonus! Loli/Shota Sex Dolls

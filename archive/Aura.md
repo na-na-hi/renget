@@ -5,7 +5,7 @@
 -> %#50374F%꒰ **BYI** ꒱ ​ ​ I'm on **edtwt**, proshiptwt &
 i frequently%% %#B76871%**interact**%% %#50374F%with shtwt
 I'm #profic & a **com/dark**shipper
-I **love** daddy choso, gojo, & denji
+I **love** daddy choso, gojo, & childe
 *\ Idc if your fatphobic or pro-recov%%<-
 
 ​

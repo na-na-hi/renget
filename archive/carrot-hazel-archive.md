@@ -184,6 +184,21 @@ He stills runs, lungs burning hot, his small legs starting to falter and becomin
 After some minutes of convincing, he finally accepts that he's awake, Hazel still sleeping hard, like she didn't notice
 Exhausted, Carrot snuggles once again with Hazel, hoping that his next dream is sweeter
 
+###Chapter 2: Arrival
+"Almost there! This should be it!" Carrot barks, excited, after several days of travel, they have arrived to the last known guild they knew about, their last chance
+"..." Hazel follows behind, silent, nervous about their future, "What happens if they're also not accepting old guildies like us?"
+"Heh, don't say that, Hazel, you aren't that old! We still have just enough strenght for a last dance with the dangers of the world" Carrot barks, still excited about the prospect of the new adventure soon to start, "Worst case we go independent ynow? Maybe we can do odd jobs, nothing too complicated, no quotas, no fees to pay, just the two of us going strong for another day"
+Both the orange wolf and the purple leopard stride along the beaten path, everytime more eroded by the hundreds of pokemon that had adventured through it before them, leaving their mark in the form of new prints in the dusty ground and rocks moved
+"Ynow, i've enjoyed this trip a lot, we've got to bond as a team, and maybe we'll be eating an actual dinner this night, catty"
+"I hope, doggy, because i'll go insane if i eat another ber-"
+They both stop at the sight of a magnificent building, the Clover guild
+"Ready for another adventure H?"
+"I was born ready, C"
+They both run into the dusk to their future
+
+!!! info
+	(AN: As Carrot and Hazel get ever closer to the guild, a single event that was a mere choice for a pokemon has broken the orange dog and purple cat's destiny in ways even the lord of the world Arceus couldn't predict, creating an alternative line, one A world of Marvels, the other A world of Ruins)
+
 ***
 ### Misc. Overviews
 ***

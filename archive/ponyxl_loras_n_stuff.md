@@ -68,7 +68,7 @@ https://files.catbox.moe/frxmlo.safetensors Maron_Maron requires activation trig
 https://files.catbox.moe/m764gt.safetensors Tsubasa_tsubasa_resized
 https://files.catbox.moe/g42ahp.safetensors tenk
 https://files.catbox.moe/cos32m.safetensors tianliang_duohe_fangdongye_resized
-https://files.catbox.moe/ejcbc0.safetensors gud0c the signature is tagged, try putting signature in the negatives to try and keep it at bay
+https://files.catbox.moe/vog70p.safetensors gud0c
 https://files.catbox.moe/ccz6sl.safetensors mo_(kireinamo)
 https://files.catbox.moe/1dsnon.safetensors konpeto
 https://files.catbox.moe/8hg3yk.safetensors melon22 It's pretty versatile, but to get the true melon look you have to add some helper tags. Try huge breasts, (muscular female:0.5), and neg muscular arms.
@@ -100,8 +100,6 @@ https://files.catbox.moe/bj5m7b.safetensors nawakena_resized example gen: https:
 https://files.catbox.moe/opwfd2.safetensors slush
 https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
 https://files.catbox.moe/cd6exz.safetensors andava
-https://files.catbox.moe/adligx.safetensors dratvan
-https://files.catbox.moe/pmv83f.safetensors poper
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -114,6 +112,8 @@ https://files.catbox.moe/rp7cbf.safetensors onono_imoko
 https://files.catbox.moe/5pw11p.safetensors error1980
 https://files.catbox.moe/xdmcjd.safetensors non_(z-art)
 https://files.catbox.moe/2cl9sq.safetensors tsukumizu_yuu
+https://files.catbox.moe/adligx.safetensors dratvan
+https://files.catbox.moe/pmv83f.safetensors poper
 
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena

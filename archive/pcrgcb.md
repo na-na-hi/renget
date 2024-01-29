@@ -188,6 +188,17 @@ Labyrista 4★ Lv295 R31 No ML, UE MAX EX 5/5/5 (FULL works too)
 ![B2 58m](https://pomf2.lain.la/f/5aboffl6.png)
 
 ### Boss 3
+[B3 Phys 64m - 2 Manual Inputs] 
+![](https://pomf2.lain.la/f/97il0ndf.png)
+Tested with: 
+Summer Kokkoro 6★ Lv295 R31 FULL, UE1 MAX EX 5/5/5 
+Princess Kokkoro 5★ Lv295 R31 FULL, UE1 MAX, EX 5/5/5
+Labyrista 5★ Lv295 R31 FULL, UE1 MAX, EX 5/5/5
+Hatsune & Shiori 5★ Lv295 R31 FULL, UE1 MAX,  EX 5/5/5 
+Creditta 5★ Lv295 R31 FULL, UE1 MAX, EX 5/5/5 
+**If your S.Kokkoro is dying, it's because she isn't maxed**
+
+![B3 64m](https://pomf2.lain.la/f/w6345jri.png)
 
 ### Boss 4
 

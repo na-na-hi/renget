@@ -21,6 +21,7 @@
 **Eimi Isami (Phase Connect)** - https://civitai.com/models/265116/eimi-isami-phase-connect (imo it look very off so maybe not good?)
 **Ayase Yuu (Phase Connect)** - https://civitai.com/models/269998/ayase-yuu-phase-connect-jp (early bake, probably not good)
 **Kaminari Clara (Phase Connect)** - https://civitai.com/models/277710/kaminari-clara-phase-connect-jp (early bake, probably not good)
+**Soyapoya (Indie)** - https://civitai.com/models/281732/soyapoya
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

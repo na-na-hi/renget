@@ -60,6 +60,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ![Gacha Lolis](https://creamsan.neocities.org/files/cards/gachalolis.png) | Gacha Lolis | A gachapon machine filled with magical lolis. | [CHUB](https://chub.ai/characters/creamsan/gacha-lolis-b8466d81) [Neocities](https://creamsan.neocities.org/#gacha_lolis)
 ![Escape the Dungeon](https://creamsan.neocities.org/files/cards/escapethedungeon.png) | Escape the Dungeon | Escape the dungeon with a cute mage companion. | [CHUB](https://chub.ai/characters/creamsan/escape-the-dungeon-cb70d8d5) [Neocities](https://creamsan.neocities.org/#escape_the_dungeon)
 ![Team Neko](https://creamsan.neocities.org/files/cards/teamneko.png) | Team Neko | Your team got separated from the main group, now you have to rejoin them, but first you have to fend off enemy tanks. (GUP Non-canon chars)  | [CHUB](https://chub.ai/characters/creamsan/team-neko-e4f1b2f8) [Neocities](https://creamsan.neocities.org/#team_neko)
+![Battlestripsv2](https://creamsan.neocities.org/files/cards/battlestripsv2.png) | Battlestrips v2 | Strip Battleships game. | [CHUB](https://chub.ai/characters/creamsan/battlestrips-v2-3466337a) [Neocities](https://creamsan.neocities.org/#battlestrips_v2)
 
 ***
 ##PROMPTS AND SETUP
@@ -98,14 +99,15 @@ B. Retain thoughts, but filter them out of context.
 ***
 Card | Link | Version | Update Notes
 --- | --- | --- | ---
-Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Jan-22-24 | 
+Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Jan-29-24 | ***Updated***
 Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv2.json) | Jan-20-24 | 
-Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Jan-20-24 | 
+Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Jan-29-24 | ***Updated***
 Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Jan-20-24 | 
-Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Jan-23-24 | 
-Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Jan-26-24 | ***Updated***
-Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Jan-23-24 | 
-Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-25-24 | 
+Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Jan-29-24 | ***Updated***
+Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Jan-29-24 | ***Updated***
+Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Jan-29-24 | ***Updated***
+Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-29-24 | ***Updated***
+Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Jan-29-24 | ***New***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPT

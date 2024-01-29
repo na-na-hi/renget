@@ -124,7 +124,7 @@ What the…where did that twig come from?! There aren’t any trees around! And 
 
 That’s when a short growl makes your stomach drop, causing you to whirl around in what you believe is justified trepidation. The Magnamalo shifts, legs stretching out in a felyne-esque manner as they lazily yawn before covering their snout with a paw and going still.
 
-You observe them for a few tense seconds to confirm that they aren’t feigning sleep, then breathe a sigh of relief before facing Val, who’s glaring at you in what in is unmistakably an accusatory manner – you’re quick to engage in the mute argument, facial expressions running wild.
+You observe them for a few tense seconds to confirm that they aren’t feigning sleep, then breathe a sigh of relief before facing Val, who’s glaring at you in what is unmistakably an accusatory manner – you’re quick to engage in the mute argument, facial expressions running wild.
 
 …No, you *are* being careful!
 
