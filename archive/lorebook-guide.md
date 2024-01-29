@@ -141,7 +141,7 @@ Yup, that's it—==Name: *Who they are + extra context.*==
 
 !!! info Glossary
     The above showcase is for defining a character, which is pretty cool. But we can also do the same with every day noun! Defining something special, or something that is specific to your story. Making sure it knows what you are talking about.
-    You follow the setup just like above, except uses term *'Glossary'* in Prefix instead.
+    You follow the setup just like above, except use the term *'Glossary'* in Prefix instead.
     > **Upstairs**: Slang among demons for the human world. For example:  "I'm going to go see some friends in Upstairs." = I'm heading to the human world.
     > **Enhance**: The act of improving a tool or weapon by using an enchanting table.
 

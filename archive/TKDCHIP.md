@@ -1094,8 +1094,6 @@ https://files.catbox.moe/4itwei.mp4 New  1/15/24
 https://nitter.net/AryJeay/status/1749858462203326960#m New  1/23/24
 >Hezbollah published a video showing the operation that targeted a spy dome at the Jal al-Alam IOF site with “special missile weapons”.  
 https://files.catbox.moe/w3a9u5.mp4  New  1/25/25
->Hezbollah: Released Video shows footage of the Islamic Resistance targeting espionage equipment at the Ras Al-Naqoura maritime site belonging to the "Israeli" enemy's army with a specially guided missile.
-https://files.catbox.moe/wf9npp.mp4 New  1/28/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1431,3 +1429,11 @@ https://files.catbox.moe/lddawr.mp4 New  1/28/24
  https://files.catbox.moe/ijk34i.mp4 New  1/28/24
 >The plan in question:
 https://files.catbox.moe/n0kxec.mp4 New  1/28/24
+>Displaced families in Rafah are resorting to use seawater due to the scarcity of water caused by the ongoing Israeli blockade on Gaza.
+https://files.catbox.moe/5wphu7.mp4 New  1/29/24
+>CNN International diplomatic editor explains how Israeli protesters are blocking the entry of food aid trucks
+https://files.catbox.moe/b4c5qv.mp4 New  1/29/24
+>Media coverage | Al-Jazeera's report from Gaza sheds light on the challenges faced by displaced people in accessing water, despite it being unhealthy for human consumption due to the Israeli besiegement of Gaza and relentless targeting of facilities.
+https://files.catbox.moe/b0ejic.mp4 New  1/29/24
+>Iran IRGC has ground-launched Almas anti-tank missile. How powerful?
+https://youtu.be/GZrDCySjoB4 New  1/29/24

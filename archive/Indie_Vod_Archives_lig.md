@@ -50,13 +50,6 @@ Ms Onedrive Mirror|[MS Onedrive](https://onedrive.live.com/?id=B2DA420D7AA7F6A8%
 Archive.org Mirror|[Archive.org](https://archive.org/details/2021-06-13-resident-evil-village-part-4-final-jessie-its-time-to-kill-heisenburg)|
 
 ---
-
-##[Olivia Monroe](https://www.twitch.tv/oliviamonroe)
-Content|Link|Description 
--------|-------|------- 
-Vod Archive |[Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
-
----
  
 ##[Anny](https://www.twitch.tv/anny) 
 Content|Link|Description 

@@ -1,11 +1,13 @@
-can go ia & be a rt bot often.
-im a *rps* & !~fujoshi~! !!! whoops sorry
+mostly talk abt kpop & football 
+& sometimes the media i enjoy :3
+
+can go ia & be a rt bot often
+keep in mind im a %#F72626%rps%% & !~fujoshi~! !!
 
 ***
-**DNI** pro-israel.. genuinely kill yourself 😐
- too young (below 16) or too annoying 
-+messi, spurs, mci fans & %#ffaed1%#**those**%% lfc + barça fans 
+**DNI** if pro-israel.. genuinely just kill yourself 
+too young (below 16 yo) or too annoying 
 
-otherwise just be normal & nice :3
+footy oomfs pls know i dont like messi spurs mci nor their fans (& #%#ffaed1%**that**%% genre of culers & kopites) but i dont take the sport too srsly so yeah
 ***
-->[back](https://rentry.co/xinran)<-
+->[!~back~!](https://rentry.co/sullyoon)<-

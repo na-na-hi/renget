@@ -225,12 +225,6 @@ The video is captioned as:
 https://nitter.lanterne-rouge.info/AryJeay/status/1751637671229694270#m  1/28/24
 https://files.catbox.moe/ijk34i.mp4  1/28/24
 
->⚡️[MUST WATCH] #Lebanon, Hezbollah:
-
-Released Video shows footage of the Islamic Resistance targeting espionage equipment at the Ras Al-Naqoura maritime site belonging to the "Israeli" enemy's army with a specially guided missile.
-https://nitter.lanterne-rouge.info/ME_Observer_/status/1751721510576803945#m  1/28/24
-https://files.catbox.moe/wf9npp.mp4  1/28/24
-
 >🟡 Hezbollah announces:
 
 Attacking the Birkat Risha IOF site with Burkan IRAM rockets at 12:20 AM, achieving a direct hit.

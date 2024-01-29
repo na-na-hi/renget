@@ -3082,6 +3082,8 @@ Pose tags: https://rentry.org/9y5vwuak
 
 Wildcards collection: https://files.catbox.moe/lwh0fx.7z
 
+Species Wildcards Collection: https://rentry.co/4sy6i33r
+
 ### OpenPose Model
 	For use in Blender; allows for posing for use in the ControlNet extension.
 

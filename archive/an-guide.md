@@ -20,8 +20,8 @@ Use cases:
 
 `[ Style: senses, visceral, descriptive ]`  
 A way of getting the AI to be descriptive. Using `[ Style: ]`.  
-You can sort of guide the prose style with this one. Its effect is based on what you put in it. But... it really depends. _Most_ of the time, you can't abruptly change how the AI write, as Storytext matter far more—So, think this as an 'blunt' way of doing it. You don't have as much control as writing/shaping the prose yourself. But it's convenient enough.  
-It can also help the AI 'get' what style you're going for.  
+You can sort of guide the prose style with this one. Its effect is based on what you put in it. But... it really depends. _Most_ of the time, you can't abruptly change how the AI write, as Storytext matter far more—So, think this as an 'blunt' way of doing it. You don't have as much control as writing/shaping the prose yourself. But it's convenient enough.
+It can also help the AI 'get' what style you're going for, like `[ Style: visual-colors-details, tactile, nightmare, descriptive ]`
 
 `[ Knowledge: being mind-controlled; Style: scene, simple ]`
 `[ Knowledge: ]` [induce](https://docs.novelai.net/text/specialsymbols.html#-spaced-bracketing-) the model into thinking about the indicated subject. It had various uses such as [creating story summary](https://rentry.org/memory-guide#attg), [lorebook](https://rentry.org/lorebook-guide#frequently-asked-questions), or scene guidance; and the only item that can be used alongside `[ Style: ]`  

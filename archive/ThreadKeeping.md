@@ -416,9 +416,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->New Hero
->Richard Wilkins HN The #1 Hydro Hero: "Splash"
->>91721688
+New Writing:
+>Scaredy-cat (Capture Cloth, Bakeneneko) 
+https://rentry.org/ia8x4kv2
+>The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, the Prophet)
+https://rentry.org/x3gaabdu
+>Shiketsu Guide to Cafeteria (Various Shiketsu students)
+https://rentry.org/ms8yk558
+>Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator)
+https://rentry.org/7yoniwe4
+
+New Art
+>excellence (Hailey)
+>>91735347
+
+New Student:
+>Rob Williams HN: Velvet Worm
+>>91728780
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1014,6 +1028,14 @@ https://rentry.org/pi72vzqf
 https://rentry.org/o3crsn3e
 >Suki intro
 http://rentry.org/t3q5h6wk
+>Scaredy-cat (Capture Cloth, Bakeneneko) 
+https://rentry.org/ia8x4kv2
+>The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, the Prophet)
+https://rentry.org/x3gaabdu
+>Shiketsu Guide to Cafeteria (Various Shiketsu students)
+https://rentry.org/ms8yk558
+>Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator)
+https://rentry.org/7yoniwe4
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

@@ -11,7 +11,14 @@
 #ᶻ 𝗓 𐰁 CHARACTERS ｡｡｡
 ->**bungou stray dogs**<-
 ->(FW) https://rentry.org/cybertemplates-chuuya<-
+->https://rentry.org/cybertemplates-dazai<-
+->https://rentry.org/cybertemplates-soukoku<-
 
 ->**spy x family**<-
 ->https://rentry.org/cybertemplates-anya<-
+
+#ᶻ 𝗓 𐰁 SHIPS ｡｡｡
+->**bungou stray dogs**<-
+->https://rentry.org/cybertemplates-soukoku<-
+
 ->![blue fade divider bottom](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/cutesy/miku%20bottom%20blue%20fade%20divider.png)<-
