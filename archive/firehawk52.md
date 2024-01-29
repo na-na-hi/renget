@@ -277,7 +277,6 @@ Download ZSpotifyGUI [here](https://github.com/PacketSurf/ZSpotifyGUI). Thanks t
 
 #### Multi-downloaders
 https://t.me/deezertogdrivebot (Spotify and Deezer)
-https://t.me/arcticmusicbot (Spotify and Deezer)
 Bot: https://t.me/musicaiobot [public] (Qobuz, Tidal, Deezer and Soundcloud) & Group: https://t.me/musicaiocloud
 https://t.me/aiomusicdlbot [private] (Qobuz, Tidal and Deezer)
 https://t.me/music_ripper_bot (Qobuz, Tidal, and Soundcloud) & Chat: https://t.me/+aCvHlP9g1jpjNjU1

@@ -367,9 +367,7 @@ You can do Extreme at level 70, Insane at level 80, and Torment after 2 years of
 
 If you're a pro raid gamer, it's good practice to set a time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over. My advice is 15-20 minutes before the ticket ends .
 
-If you need to change formation in the middle of ur raid battle, you can close the app/quit the game and start Blue Archive again. This way you won't lose ur ticket, your attempt will stay active, AND you get to change ur team/positioning/starting EX skills. 
-This works in mock battles and actual runs. 
-In JP there is a button for this. 
+If you need to change formation in the middle of ur raid battle, there's a button for you in the pause screen.
 
 See the [shop section](https://rentry.org/how2playba#shop) for what to buy. 
 

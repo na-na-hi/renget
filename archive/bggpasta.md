@@ -14,28 +14,24 @@ https://bg3.wiki
 https://www.nexusmods.com/baldursgate3/
 
 \>FAQ:
-\>Q: Do I need to play the previous games?
-\>A: No, but you should give them a try. If you don't feel like it, here's a summary of the events: https://www.youtube.com/watch?v=__GI7CrYnj8
-\>Q: Why aren't my companion quests/romances advancing?
-\>A: Companion quests and romances tend to advance during long rests. To progress them, make sure you long rest often.
+\>Q: How often should I long rest?
+\>A: Many companion and romance interactions occur when long resting. Some early lower priority camp scenes can also be missed if higher priority ones are queued. To advance companion quests or romances, make sure to long rest often.
 \>Q: Can I recruit Minthara without going down the evil path?
 \>A: If you knock her out in Act 1, yes. You do miss out on the sex scene, but otherwise the romance remains the same.
-\>Q: Is Durge essentially "Tav+"?
+\>Q: Underdark or Mountain Pass?
+\>A: Either, or both. It's recommended to clear both on higher difficulties for the experience and loot. Both connect to the same Act 2 map.
+\>Q: Is The Dark Urge essentially "Tav+"?
 \>A: Yes. You get additional content, BUT there are points where if you've chosen to resist the Urge and/or don't complete quests the "right" way, you'll have to pass additional checks to avoid losing companions.
-\>Q: Are there any consequences to tadpolemaxing?
-\>A: [spoiler]No, you can consume as many tadpoles as you want without consequence. HOWEVER, if you consume the Astral-Touched Tadpole you'll suffer some cosmetic changes.[/spoiler]
+\>Q: Are there any consequences to consuming tadpoles?
+\>A: [spoiler]No, for the most part. However if you've consumed any tadpoles, there will later be a DC21 Wisdom check to reject the Astral-Touched Tadpole, which impacts your appearance if consumed.[/spoiler]
 \>Q: Should I enable Karmic Dice?
 \>A: Karmic Dice will avoid streaks of very low or very high rolls, both for you and the enemy. It is recommended to disable it if you're specializing. 
 
 \>Polls:
 \>Romance: https://strawpoll.com/NMnQ5kJXYn6
-\>Origin: https://strawpoll.com/3RnYlLkGBye
 \>Race: https://strawpoll.com/kjn18WPzeyQ
 \>Class: https://strawpoll.com/eNg69DKKjnA
-\>Alignment: https://strawpoll.com/PKgl3d87anp
 \>Companions: https://strawpoll.com/bVg8o8l3VnY
-\>Tadpole use: https://strawpoll.com/05ZdWXWY4g6
-\>Durge class: https://strawpoll.com/kogjkdk2NZ6
 
 OP pasta: https://rentry.org/bggpasta
 

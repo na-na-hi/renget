@@ -46,7 +46,7 @@ https://www.youtube.com/@VictoriaBrightshield
 Rosemie "The Woe" Roselock: Likes Tekken (but cant stream it due to permits?)  
 https://www.youtube.com/watch?v=jjFaYQHQG0M
 
-Niji JP
+Niji JP:
 
 Naraka "Peruvian Oni on a Wifi" 
 https://www.youtube.com/@Naraka_nijisanji/streams
@@ -150,9 +150,13 @@ JP Indies:
 
 Karubi "Red Dragon" Akami: Gura sister according to the wiki. Mains Plat Marisa.
 https://www.twitch.tv/akamikarubi
+Sharaka "Shaaaark" Setsuna: A new chuuba that made herself known with SF6 and FPS. Rank: Master
+https://www.youtube.com/@SharakuSetsuna-on7ud
+Senba "Pipeline from Mahjong" Crow: Pretty big OG indie that we talk about regularly, close with Tsukasa for both mahjong and FGC. Rank: Master
+https://www.youtube.com/@senba_crow
 Yuri "Unbreakable diamond" Yuni: Cutest JP, cutest Master. Mains Luke.
 https://www.twitch.tv/yuniruyuni
-Amaki "The devil" Pururu: Japanese ironmouse. Mains Marisa(?)
+Amaki "The devil" Pururu: Japanese ironmouse. Mains Marisa. Master Rank.  
 https://www.twitch.tv/amakipururu
 Yukonishita "Gas Chamber" Peo: Jp /tsunx/ friend who loves amelia watson and plays IS
 https://www.youtube.com/watch?v=CaaCYs2gXmg

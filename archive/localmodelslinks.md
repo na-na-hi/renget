@@ -16,7 +16,7 @@
 [Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker)|Various open Text-To-Speech models with relevant use case information 
 | 
 [Chatbot Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
-[WolframRW LLM Tests](https://teddit.projectsegfau.lt/u/WolframRavenwolf/submitted?sort=new&)|For translation capabilities, cross-language understanding, and instruction following/understanding
+[WolframRW LLM Tests](https://teddit.zaggy.nl/u/WolframRavenwolf/submitted?sort=new&)|For translation capabilities, cross-language understanding, and instruction following/understanding
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
@@ -66,7 +66,7 @@
 [AQLM](https://github.com/vahe1994/AQLM)|2/3/4bit weight additive quantization with lower perplexity compared to QuIP#/GPTQ/SpQR
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
 [ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for llama2 with better results than WANDA or SparseGPT
-[Medusa](https://github.com/FasterDecoding/Medusa)|Speculative decode via attention heads by finetuning with backbone LLM
+[SliceGPT](https://github.com/microsoft/TransformerCompression)|Sparsification scheme which replaces each weight matrix with a smaller (dense) matrix
 |
 **Local LLM Research**|
 [Entropy-ABF](https://github.com/GAIR-NLP/Entropy-ABF)|Context window extension of RoPE-based LLMs outperforming YaRN 
@@ -75,7 +75,9 @@
 [PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
 [REST](https://github.com/FasterDecoding/REST)|Speculative decoding using a datastore instead of smaller drafting model 
 [EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
+[Medusa](https://github.com/FasterDecoding/Medusa)|Speculative decode via attention heads by finetuning with backbone LLM
 [TOVA](https://github.com/schwartz-lab-NLP/TOVA)|Cache compression conversion policy to more optimally reduce cache memory 
+[Temp LoRa](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRa module during text generation to preserve contextual knowledge 
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.

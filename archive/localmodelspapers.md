@@ -169,6 +169,7 @@
 11/2023|[Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 12/2023|[ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks](https://arxiv.org/abs/2312.08583)
 12/2023|[The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558)
+01/2024|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/abs/2401.15024)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -482,7 +483,6 @@
 12/2023|[PEFA: Parameter-Free Adapters for Large-scale Embedding-based Retrieval Models](https://arxiv.org/abs/2312.02429)
 12/2023|[Improving Activation Steering in Language Models with Mean-Centring](https://arxiv.org/abs/2312.03813)
 12/2023|[A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA](https://arxiv.org/abs/2312.03732)
-12/2023|[EAGLE: Lossless Acceleration of LLM Decoding by Feature Extrapolation](https://archive.is/xQyvx)
 12/2023|[SparQ Attention: Bandwidth-Efficient LLM Inference](https://arxiv.org/abs/2312.04985)
 12/2023|[ESPN: Memory-Efficient Multi-Vector Information Retrieval](https://arxiv.org/abs/2312.05417)
 12/2023|[Aligner: One Global Token is Worth Millions of Parameters When Aligning Large Language Models](https://arxiv.org/abs/2312.05503)
@@ -522,6 +522,8 @@
 01/2024|[FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design](https://arxiv.org/abs/2401.14112)
 01/2024|[Accelerating Retrieval-Augmented Language Model Serving with Speculation](https://arxiv.org/abs/2401.14021)
 01/2024|[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities](https://arxiv.org/abs/2401.14405)
+01/2024|[EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)
+01/2024|[With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation (Temp LoRA)](https://arxiv.org/abs/2401.11504)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

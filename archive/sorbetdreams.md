@@ -12,7 +12,7 @@ agender%#FFACB9%[**flux**](https://gender.fandom.com/wiki/Agenderflux)%% queer :
 -> ***my links n socials!!*** 
 discord : rolansultimatum
 roblox : sanitypoints
-[spotify](https://open.spotify.com/user/4191ym5natkhy0our08b6wojo?si=581f9f8964b447da) . [guestbook](https://rolansultimatum.123guestbook.com/#) . [url hrd](https://rentry.co/true-pacifist)
+[spotify](https://open.spotify.com/user/4191ym5natkhy0our08b6wojo?si=581f9f8964b447da) . [guestbook](https://rolansultimatum.123guestbook.com/#) . [url hrd](https://rentry.co/bayouintheblood)
 [interests](https://rentry.co/thebayou) . [lovelist](https://rentry.co/yellowpoppies) . [system](https://bundles.cc/thegiftplane)
 ![](https://media.discordapp.net/attachments/903364339464044575/1090719590453084201/FBD1B16C-8542-4B9A-9337-BA5D23413632.gif)
 more links might be added!<-

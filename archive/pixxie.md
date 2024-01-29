@@ -121,9 +121,9 @@ plasmids bioshock3 murkoffproperty
 -> [puppetgut](https://rentry.co/puppetgut)₊ puppetgender₊ boargirl₊ 
 ambrosette₊ darlingbailey₊ puppytorres₊ 
 [apuppet](https://rentry.co/apuppet)₊ [smalllovebites](https://rentry.co/smalllovebites)₊ [brownpixels](https://rentry.co/brownpixels)₊ 
-clancmos₊ scissortorres₊ [psychobfs](https://rentry.co/psychobfs)
+clancmos₊ scissortorres₊ [psychobfs](https://rentry.co/psychobfs)₊
 wolfiebaby₊ benedettococuzza₊ acidtrip₊ 
-bailey₊ arcades₊ <-
+[bailey](/bailey)₊ [arcades](/arcades)₊ <-
 -> ![](https://media.discordapp.net/attachments/1084491101018271766/1141498302739796089/IMG_0278.png) <-
 
 ->  ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://three.crd.co/assets/images/gallery47/1e9a2527_original.png?v=7d20e3a9) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png)  <-

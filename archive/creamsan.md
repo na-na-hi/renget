@@ -96,6 +96,7 @@ B. Retain thoughts, but filter them out of context.
 
 ***
 ##QR PRESETS
+I sometimes forget to update here, check my [repo](https://github.com/creamsan/stqrpresets) instead.
 ***
 Card | Link | Version | Update Notes
 --- | --- | --- | ---

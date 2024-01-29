@@ -418,6 +418,12 @@ https://archiveofourown.org/works/48002944
 
 https://archiveofourown.org/works/48072268
 
+###KingDeeDeD
+
+>All My Friends Are on My Radio
+
+https://archiveofourown.org/works/53346739/chapters/135012865
+
 ###KrautDyke
 
 >Fleabag and FANG
