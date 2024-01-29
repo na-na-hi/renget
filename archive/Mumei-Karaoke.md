@@ -14,7 +14,7 @@
 	>==Audio== 
 	> - **01/28 - Updated + Added**
 	>- I updated the audio files and added new ones. The total went from 414 songs to 988 songs. [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
-	>- Also updated Members folder - Added 58 songs
+	>- Also updated Members folder - Added 75 songs
 
 	>==Chapters== 
 	> - **01/15 - Added**
@@ -48,7 +48,7 @@
 
 ***
 >>->**Mega link to the vods for unarchived members karaoke**<-
->>->**Updated folder on 01/28/24 - Added "Audio - 58 songs"**<-
+>>->**Updated folder on 01/28/24 - Added "Audio - 75 songs"**<-
 >https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiZ05OWlE5Q1NnelpWT2V4TXFCWDJ1Sk5HQk1xQ2drMU1xajA5ZzF1OUNmanJoZWFMMVN4MEVScWRzSks1SWN0SDMvZzhiUkprbnIxV0s0VnRZd3ZMTWl1K25GeXY3UT09IiwiaSI6ImxseDVjVi85V2RkV0E3N1AifQ==
 >**The password is the first line Mumei said in this comment.** - When you copy the text don't copy the empty space at the end.
 >https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA/community?lc=Ugw-4_lhRf9ztdI1L254AaABAg&lb=UgkxwzbiSc357FsmIfGrHl5b4hBGEKIbc-Gn

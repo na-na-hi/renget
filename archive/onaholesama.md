@@ -1,7 +1,6 @@
 # onaholesama's furshit
 ->![AUTISTIC VIRGIN](https://files.catbox.moe/2250cu.jpg)<-
 ***
-botmaking playlist
 https://waa.ai/onaholesama
 ***
 [TOC2]
@@ -34,6 +33,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![](https://files.catbox.moe/hw0bzm.png) | Lillian | 
 ![she fluffy](https://files.catbox.moe/5y1b0g.png) | Avenza | schizo conspiracy theory shiba | [CHUB link](https://www.chub.ai/characters/onaholesama/avenza-ada0902b)
 ![¡Hasta la muerte!](https://files.catbox.moe/7bm4z4.png) | Kitty Softpaws | a cat is fine, too | [CHUB link](https://www.chub.ai/characters/onaholesama/kitty-softpaws-3fd89d09/main)
 ![KAA-MEE-LEEEON](https://files.catbox.moe/oky9sh.png) | Zhen | perfect dick sucking height (and kung fu stuff) | [CHUB link](https://www.chub.ai/characters/onaholesama/zhen-6202d354)
@@ -332,7 +332,7 @@ Image| Name
 ![cool bitch](https://files.catbox.moe/4kj4gp.jpg) | Badass waifur
 ![crimes](https://files.catbox.moe/ujqpmt.png) | Gregg!
 ![headpat](https://files.catbox.moe/xopbj6.png) | Pepper, [prompt here](https://files.catbox.moe/e0fqmc.txt)
-![https://files.catbox.moe/nhf6u4.png](https://desu-usergeneratedcontent.xyz/g/image/1464/64/1464640347676.jpg) | darkness turkey, [prompt here](https://files.catbox.moe/i8xn02.txt)
+![](https://desu-usergeneratedcontent.xyz/g/image/1464/64/1464640347676.jpg) | darkness turkey, [prompt here](https://files.catbox.moe/i8xn02.txt)
 
 ***
 ##DALLE STUFF

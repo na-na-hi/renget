@@ -99,6 +99,9 @@ https://files.catbox.moe/rhlwp5.safetensors yeehawt0wn
 https://files.catbox.moe/bj5m7b.safetensors nawakena_resized example gen: https://files.catbox.moe/26uxu5.png
 https://files.catbox.moe/opwfd2.safetensors slush
 https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
+https://files.catbox.moe/cd6exz.safetensors andava
+https://files.catbox.moe/adligx.safetensors dratvan
+https://files.catbox.moe/pmv83f.safetensors poper
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -129,6 +132,7 @@ https://files.catbox.moe/f5ssgz.safetensors character_tachibana_arisu helps to p
 https://files.catbox.moe/9zcayd.safetensors character_matoba_risa helps to prompt features like hair, clothes
 https://files.catbox.moe/djnlks.safetensors character_amy_sorel example prompt image here: https://files.catbox.moe/qymyf8.png, trigger is amy sorel, outfits are tagged as sc4 and sc6
 https://files.catbox.moe/xow8kx.safetensors character_maryjane Prompt is maryjane, though it works better if you prompt for other stuff as well. gradient hair, tentacle hair, head fins, fangs, long tongue, etc
+https://files.catbox.moe/ccbfrs.safetensors character_neopolitan_rwby activation seems to be neo_politan, example gen: https://files.catbox.moe/m77z3a.png
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯

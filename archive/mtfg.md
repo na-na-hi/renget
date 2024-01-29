@@ -36,3 +36,6 @@ Voice Videos/Training: https://rentry.org/mtfgvoice
 
 ▶Misc:
 Trans women have woman brains (Video): https://rentry.org/mtfgbrain
+
+▶MTF Timelines
+https://catbox.moe/c/afyn1t

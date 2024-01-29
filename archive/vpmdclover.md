@@ -52,7 +52,7 @@ Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Belloss
 Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#jungsara)
 Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
 ??? | M | Wimpod | N/A | Clover Guild Member | [???]
-Error | M | Iron Valiant | N/A | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#error)
+Error | M | Iron Valiant | Rotom (M, Quirky, Native?) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#error)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)

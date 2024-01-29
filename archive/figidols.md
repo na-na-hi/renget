@@ -50,10 +50,29 @@ Niji JP
 
 Naraka "Peruvian Oni on a Wifi" 
 https://www.youtube.com/@Naraka_nijisanji/streams
+Saku "bully panda" Sasaki
+https://www.youtube.com/watch?v=lUBRYrvVSR8
+Salome "death wa"  Hyakumantenbara
+https://www.youtube.com/@HyakumantenbaraSalome
+Sophia Valentine
+https://www.youtube.com/watch?v=lUBRYrvVSR8
+Momo Azuchi
+https://www.youtube.com/watch?v=_92ulZuB5aM
+Nekota "maido of death" Suna
+https://www.youtube.com/watch?v=9GdEHtSKIcA
+
+>Dedicated fighter group (TBD)
+https://twitter.com/lethalplan/status/1750114793959379372 
+
+@hoshitoritomori
+@amayadorinageki
+@SourinChinami
 
 >Small Corpos (and Corpo related) 
 
 ![Squib](https://files.catbox.moe/mlueqq.gif)
+
+
 
 KemonoV:
 

@@ -1069,6 +1069,8 @@ https://files.catbox.moe/tkf13d.mp4 New  1/22/24
 https://files.catbox.moe/8x53is.mp4 New  1/23/24
 >Hamas video showing its clashes with military vehicles on the outskirts of Khan Yunis, south of the Gaza Strip. 
 https://files.catbox.moe/lgrvja.mp4  1/27/24
+>Al-Qassam shelling of IOF infantry forces on the front lines in the central region with mortar shells.
+https://files.catbox.moe/9yzpno.mp4 New  1/28/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1092,6 +1094,8 @@ https://files.catbox.moe/4itwei.mp4 New  1/15/24
 https://nitter.net/AryJeay/status/1749858462203326960#m New  1/23/24
 >Hezbollah published a video showing the operation that targeted a spy dome at the Jal al-Alam IOF site with “special missile weapons”.  
 https://files.catbox.moe/w3a9u5.mp4  New  1/25/25
+>Hezbollah: Released Video shows footage of the Islamic Resistance targeting espionage equipment at the Ras Al-Naqoura maritime site belonging to the "Israeli" enemy's army with a specially guided missile.
+https://files.catbox.moe/wf9npp.mp4 New  1/28/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1421,3 +1425,9 @@ https://youtu.be/FRsprNTNiNM  New  1/27/24
 https://files.catbox.moe/krjmpx.mp4 New  1/27/24
 >YEMEN: “The Battle of the Promised Conquest and Holy Jihad” maneuver, central region of the #Yemeni Armed Forces
 https://files.catbox.moe/kxsr90.mp4 New  1/27/24
+>| The Islamic Resistance in Iraq announces: Attacking the American military base in Khirbet Adnan in Syria with suicide drones.
+https://files.catbox.moe/lddawr.mp4 New  1/28/24
+>Al-Qassam (Hamas) published a video showing the manufacturing of weapons, including explosives. The video is captioned as: “Our explosive devices... like volcanoes igniting within your bodies.
+ https://files.catbox.moe/ijk34i.mp4 New  1/28/24
+>The plan in question:
+https://files.catbox.moe/n0kxec.mp4 New  1/28/24

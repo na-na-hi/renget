@@ -1,5 +1,7 @@
 ##Personality Blurbs
+
 [TOC3]
+
 ###Lliam
 >Lliam (Lee-yam), a Male Meowstic who is the Guildmaster of the Clover Guild. He is a poised, shrewd, though friendly person.
 
@@ -506,7 +508,30 @@ Biography generated!
 [See linked](https://rentry.org/snaketeamblurb)
 
 ###Error
->A nervous wreck of a former human NEET turned pokemon with a generalized anxiety and clinical depression locked inside a strange robotic body that barely qualifies as what traditionally constitutes as a pokemon. He is always on edge and tends to want to be left to his own thoughts and devices as he broods and turns inward on himself, taking to working on small crafts and art projects to occupy his time. Despite this he's willing to help the guild once he gets his bearings going which is typically after a period of hobby time. When stress runs high, he may break down into fits of violence as secondary processes known only to his mechanized pokemon body take over. These are typically highly ineffectual displays of petty rage and frustration that are quick as they come, but rarely may peak into being a real threat greater than what his addled mind can typically output.
+>Error
+>Male Iron Valiant, Timid/Quiet Nature
+>[Portrait](https://cloverguild.com/booru/post/1395)
+
+>Introductory Story: 
+>https://rentry.org/ironvaliant1
+>https://rentry.org/ironvaliant2
+>https://rentry.org/ironvaliant3
+
+>Personality: 
+>Error is a former human and neurotic NEET with a generalized anxiety disorder and clinical depression to boot. His new form as a rare and exotic Iron Valiant Paradox Pokemon has done him little favor in initially adjusting to the relocation to the Pokemon World as a liberating new start in his life. The typical amnesia many humans who take the journey between time and space suffer has left him with scattered remnants of their past life and whatever traumas were held within. On top of that, his body cannot speak and reduces all attempts to a distorted cry of his moniker, forcing him to use more esoteric means like a chalk slate. This has the unfortunate effect of exacerbating his mental issues and leading him into spirals of stress and delusion. The Clover Guild's rambunctious members do not help this situation either. At worst, this can manifest as violent and psychically charged combative outbursts, and at their arguably least worst, he may end up psychically broadcasting his negativity onto others. This, unsurprisingly, doesn't win him many friends and tends to keep much of the guild away from him. In his alone time, he's seen collecting bits of wood and scrap left behind from mystery dungeon endeavors and whittling them into various figurines and crafts based on various video games, anime, and nerd paraphernalia he recalls and sculptures of the few guild members and Pokemon he has found a kinship with who understand or sympathize with his dilemma.
+
+>Actions: 
+>Despite his mangled psyche, Error is not an inherently bad person. Outside of his brooding spirals, he may have the potential to be one of the strongest and most helpful members of the guild. With the right preparation and support beforehand, Error will potentially cleave apart most threats. He tends to prefer tasks that do not require him to deliberately fight despite this, though.
+
+>Skills: 
+>Error's futuristic body has a huge rapport of strength and powers engineered into it from science and technology that the Pokemon World may never see in its lifetime. Unfortunately, many of these powers do not operate as intended due to his sickly mind not syncing up with his form, and the Pokemon World is short on approved psychiatric medication too. He has been steadily improving his skills with the help of a Pokemon companion that lives inside his body's network, Rotom, who has been easing him through the motions of his inherent powers as the systems that were damaged in Error's arrival make a slow recovery.
+
+>Ability: Quark Drive (Booster Energy Installed)
+>Error has the astounding ability to be able to retain and reassign every move an Iron Valiant may ever potentially learn. These movesets are locked down with a cooldown period, preventing the potential advantage of changing his attacks in the middle of a dungeon or battle.
+>Typical Moves: Calm Mind, Moonblast, Psyshock, Encore
+
+>Goals: 
+>Error doesn't know if he'll ever get to return home, and he's not certain if home is a place he wants to return to either. He hopes to one day find a peaceful calling where both his mind and body can find some well-deserved rest. Until then, he wishes to overcome his personal demons and grow stronger, even if they may very well try to ruin him in the process.
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy

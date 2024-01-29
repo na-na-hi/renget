@@ -49,6 +49,10 @@
 - Cleanly designed forum with an online source of movies, software, games, and music.
 - [URL Safety Results](https://www.urlvoid.com/scan/warezbook.org/)
 
+### 🔗 [WarezForums](https://warezforums.com/) • Sign Up
+- Unifying pirates, as it should be, by sharing an array of complimentary items sourced from the internet.
+- [URL Safety Results](https://www.urlvoid.com/scan/warezforums.com/)
+
 &nbsp;
 
 ---

@@ -22,6 +22,8 @@
 %#C4FEFF% (newest to oldest) %%
 %#9C89FF% -> image <- %% | %#9C89FF% -> name/link <- %% | %#9C89FF% -> description <- %%
  || 
+![](https://avatars.charhub.io/avatars/doujins/cocoa-f68bbf51/avatar.webp?size=0.9899127200815687) | [%#7E38B7% Cocoa %%](https://www.chub.ai/characters/doujins/cocoa-f68bbf51) | %#9C89FF% A demon lured you into a contract while you were in a dream. Now you're stuck with her. She's relentlessly horny and never tires. %%
+ |
 ![](https://avatars.charhub.io/avatars/doujins/osakabe-278cb973/avatar.webp) | [%#7E38B7% Osakabe %%](https://www.chub.ai/characters/doujins/osakabe-278cb973) | %#9C89FF% In public, your childhood friend Osakabe - massive, tall, and big-breasted - bullies you relentlessly. In private, it's the complete opposite; she's always horny, loving and apologetic. %%
  |
 ![](https://avatars.charhub.io/avatars/doujins/mia-a013dca7/avatar.webp?size=ooo_secret_comment) | [%#7E38B7% Mia %%](https://www.chub.ai/characters/doujins/mia-a013dca7) | %#9C89FF% Your foreign German houseguest catches feelings for you, and begins trying to be more intimate by convincing you that certain things are just normal in her country. %%

@@ -8,8 +8,8 @@
 
 ->〞***games*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
 LETS-PLAY : biteof1983 : **fnfvsrewrite**
-spookys-mansion : beat-saber
-**thesnowgrave**
+beat-saber : **thesnowgrave**
+**buckshotrouIette**
 ![](https://cdn.discordapp.com/attachments/1141217508792213534/1142474593689403482/image44.gif)
 〞***media*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
 prime-defender : 1-800-THE-WISP : **wiwiwisp**
@@ -19,7 +19,7 @@ prime-defender : 1-800-THE-WISP : **wiwiwisp**
 **campgalloway** : cole-style : willwisp : rebeccajones
 blood-inthebayou : **bitbgalloway** : *loverspeak*
 stackshack : *bzzzzzt* : rolanbug : **lawyerbug**
-**buggingout** : bayouintheblood : the-suckening
+**buggingout** : %#dc143c%**bayouintheblood**%% : the-suckening
 *fallenbizly* : slimecicle-cinematic-universe
 **bizlypequeno** : -thecouncil : c0ndificti0n
 spirit-of-the-cabin : christianhell : **generationloser**
@@ -27,26 +27,26 @@ slime-dimension : the-chosen : -fliporiana : -juanaflippa
 casperthefriendlyghost : *milkandmocha*
 *entitylvldanger* : *entitylvlsafe* : %#dc143c%**buzzing**%%
 **lifeoftheafterparty** : %#dc143c%**b1tchwife**%%
+**hatsune-mikus-voicebox**
 ![](https://cdn.discordapp.com/attachments/1141217508792213534/1142474593689403482/image44.gif)
 〞***songs*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
-horrorsinthebayou : sludgeified
-peopleintheswamp : thefuneral
-approached : limitedtime
-cocooned : forgottenpromise
-secretsofthewill : faceinthebog
-somethingbuggingyou : heartofthehive
+**horrorsinthebayou** : sludgeified
+*peopleintheswamp* : thefuneral
+*approached* : **limitedtime**
+**cocooned** : **forgottenpromise**
+**secretsofthewill** : *faceinthebog*
+*somethingbuggingyou* : **heartofthehive**
 amomentofrespite : youwillbereplaced
 youvechanged : amelodyivealwaysknown
-**rolansultimatum** : levithepoet : smoke-with-the-devil
+**rolansultimatum** : **levithepoet** : smoke-with-the-devil
 ![](https://cdn.discordapp.com/attachments/1141217508792213534/1142474593689403482/image44.gif)
 〞***words / misc*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
-[**too-sweet**](https://rentry.co/too-sweet) : [**sorbetdreams**](https://rentry.co/sorbetdreams)
-[**luminescentafterparty**](https://rentry.co/luminescentafterparty)
-[**glowingstars**](https://rentry.co/glowingstars)
-[**lifeoftheafterparty**](https://rentry.co/lifeoftheafterparty) glowpunk
+%#dc143c%**too-sweet**%% : %#dc143c%**sorbetdreams**%%
+luminescentafterparty : **glowingstars**
+lifeoftheafterparty : *glowpunk* : **wiltedpoppies**
 ![](https://cdn.discordapp.com/attachments/1141217508792213534/1142474593689403482/image44.gif)
 〞***toys / objects*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
-lalaloopsydolls prismacolor<-
+*lalaloopsydolls* : prismacolor<-
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1101143419029553230/8705E8FF-7C0F-4AE8-846F-AB5EC80BD9EA.gif) <-
 -> if any of my urls interest you
 dm **sanitypoints** on discord!
