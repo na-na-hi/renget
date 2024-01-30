@@ -1,5 +1,5 @@
-->**Support Channel:** https://t.me/firehawk52_chat<-
-# Firehawk52 Guide - Saving Digital Legacy
+->**Join the Community:** https://t.me/firehawk52official<-
+# Firehawk52 Official - Saving Digital Legacy
 
 ->As featured on [Champagne Wiki](https://champagne.pages.dev/music/#download), [freemediaheckyeah](https://fmhy.net/beginners-guide#downloading) and [ripped.guide](https://ripped.guide/Audio/Music/#misc)<-
 

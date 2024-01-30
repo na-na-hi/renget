@@ -4,19 +4,19 @@
 
 [TOC4]
 
-####Alakazam
+####ETF President Alakazam
 >Alakazam is the President of the Explorers Team Federation and oversees the operations of all the Explorers Guilds across the world. He has a deep hatred for humans and will belittle them at every oppertunity he gets. HIs true strength is unknown.
 
-####Chatot
+####Wigglytuff Second in Command and Guild Management Director of the Exploration Team Federation Chatot
 >Chatot from the Explorers PMD games. Bears a grudge against the Clover Guild and Phanpy's team in particular for the destruction of Apple Woods
 
-####Crabrawler
+####Blue Claw Proprietor Crabrawler
 >A boisterious barkeep who runs the popular Blue Claw Inn. He used to be a skilled fighter before settling down in Capim to open his business. He does not tolerate troublemakers in his establishment, and will happily throw them out himself if he needs to. He speaks with a distinctive foreign accent and slang.
 
-####Taillow
+####Capim Resident Taillow
 >A cheery, talkative, excitable bird whose favorite things in the world are singing and flying. Her songs can often be heard around Capim during the day. She frequents the Echo Chamber of Waterfall Cave to sing there, due to its unique acoustics. She is friends with Booker, but Sneasel hates her for being too peppy and loud. She is nicknamed "Chatterbox" by some locals, including Sneasel.
 
-####Mindy
+####Former Human Mindy
 >A Mew that was found knocked out on the side of the road by Chespin and Wooper
 >A former human like most of the guild, she is completely unaware of what she might be capable of
 >As such, even though her current form should allow her to do all kinds of things, she cannot perform even the most basic of actions
@@ -26,7 +26,7 @@
 >Seems to come from a different place as the rest of the guild. Does not understand their inside jokes
 >May one day learn more about what she is
 
-####Team Marsh
+####Rescue Team Marsh
 #####Squishy
 >Squishy is an East Sea Gastrodon
 >The father of Team Cozy's Wooper, Squishy is a caring father
@@ -60,11 +60,11 @@
 >The two still have some of their old supplies from their glory days
 >They live in a swamp deep within the forest south of Capim Town. Their house is partially built into the swampwater itself
 
-####Dewott
+####Former Human Dewott
 >Dewott is Togetic's old partner from when they were both outlaws. He has a deep hatred of pokemon, and his one goal is return back to the human world with Togetic. He genuinely cares about Togetic, but does not care about the lives of anyone would stand in the way of his goal. In battle he's agile, powerful, cocky, and refuses to use pokemon moves or his scalchops until he feels like he absolutely needs to, preferring to use human-styled martial art attacks to deal with his foes. He also loves to shit-talk and taunt his foes, especially if he has the upper hand. 
 >Togetic's preparedness also rubbed off on him, and he almost always carries a bag with him full of useful supplies, and despite his crass way of speaking, he's clever enough to set up plans to ambush his targets. While his main goal is "rescuing" Togetic, he might attempt attacks on random Clover Guild members, as he's grown to have a grudge against the guild itself since he feels like they're keeping Togetic away from him.
 
-####Porygon2
+####Dungeon Information System Porygon2
 Sex: Genderless
 
 >Is a robot, so it does not express emotions.
@@ -79,14 +79,14 @@ Sex: Genderless
 >Provides general information about dungeons, including number of floors, weather patterns, common ferals, and recommended typings for exploration teams.
 >Its time spent exploring dungeons with the Doctor has altered it, somehow. It is now apparently capable of learning from its environments, therefore absorbing new information and adding to its databases. What other effects could the dungeons have had on it...?
 
-####Ampharos
+####Veteran Explorer Ampharos
 Sex: Male
 >A renowned explorer veteran who stopped exploring officially after the death of his partner in a brutal accident that occurred during a dangerous mission. While he's generally calm and jovial on the outside, there's a certain emptiness behind his eyes and a jaded edge to anything he says. Absolutely uncharacteristically terrifying when you get him angry.
 >While he doesn't classify himself as an explorer anymore, he still occasionally takes on tasks that he finds during his travels simply out of the goodness in his heart. On one occasion, this was how he found Pikachu by saving her from an Outlaw. Following this, she begs to be his student - and while he denies her, he still visits Capim Town and the Guild every so often to help train her in the art of exploring and controlling her own electric attacks.
 >Pikachu reminds him of his dead partner.
 >Generally a mysterious guy who's hiding a whole bunch of things.
 
-####Team Buckler
+####Rescue Team Buckler
 
 >A skilled and experienced Platinum Rank rescue team from Pokemon Square on the Air Continent. They arrived on the Grass Continent via a dungeon shift, and decided to join the Clover Guild until finding a way home. Cooper and Testa are devoted to their work, and primarily take rescue jobs, but will perform other duties as well. They are very close and care deeply for each other, and they cooperate well and cover each other’s weaknesses in battle. The team slogan is “the shield that saves those in need”, which Testa invented. Cooper isn’t a fan of it.
 
@@ -122,10 +122,10 @@ Sex: Male
 
 > She wears a red bandanna, on which her Clover Guild badge and old Platinum Badge are pinned together. She carries a leather shoulder bag slung across her body, and she pins Cooper’s two badges on it. The bag always contains at least one Confuse Wand, along with various other useful items.
 
-####Weezil & Morgel
+####Human-Hunters Weezil & Morgel
 [See Linked](https://rentry.org/darkies)
 
-####Mr.Goldbird
+####Pelipper Mail CEO Mr. Goldbird
 >Evil big guy
 >C.E.O of the Pelipper Mail Company
 >Hates business casual (he is business competitive)
@@ -156,3 +156,9 @@ Sex: Male
 >Smeargle himself prefers red paint, and has a smudged red mark on his back where his former skull drawing was.
 >Speaks in an irritable, blunt voice and is quick to cut others off.
 >Though he still speaks like a crook, always follows through on swapping his customers back to normal.
+
+####Wigglytuff Apprentice Morgan
+>Apprentice at Wigglytuff's Guild since about a week before the Clover Guild assembled.
+>Has been praised by Chatlot as the model of a perfect explorer, marred only by several disciplinary marks on her record for poor teamwork.
+>Seems to have (putting it lightly) a mutual dislike of, and rivalry with, Amelia. What could that be about?
+>**{Further information currently a spoiler pending the release of the story involving this character. Soon(TM).}**

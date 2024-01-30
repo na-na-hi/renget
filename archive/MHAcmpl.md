@@ -152,6 +152,7 @@ Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
 Kiki HN Yggdrasil: https://desuarchive.org/tg/post/91707234/
 Riku Washizawa HN The Steel Talon Hero: Skycarver: https://desuarchive.org/tg/post/91716771/
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://desuarchive.org/tg/post/91721688/
+Rob Williams HN: Velvet Worm: https://desuarchive.org/tg/post/91728780/
 
 ### Villains
 >Night Parade
@@ -673,6 +674,8 @@ sandatsu new costume: https://desuarchive.org/tg/post/91681266/
 Shower Ambush: https://desuarchive.org/tg/post/91703153/
 Free Amnesty: https://desuarchive.org/tg/post/91712723/
 Clueless Bird Teacher: https://desuarchive.org/tg/thread/91718089/#91723582
+Promiscuous Boy: https://desuarchive.org/tg/post/91730436/
+Toast Runs into You!: https://desuarchive.org/tg/post/91732937/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -734,6 +737,8 @@ Capture Cloth: https://archive.4plebs.org/tg/post/89402279
 Spark: https://archive.4plebs.org/tg/post/90018257
 Drone: https://archive.4plebs.org/tg/post/90953377
 Sandatsu Art: https://archive.4plebs.org/tg/post/91405875/
+excellence (Hailey): https://desuarchive.org/tg/post/91735347/Promiscuous Boy
+
 ***
 
 ## WRITEFAGS
@@ -1081,6 +1086,10 @@ The Tournament, Part Four!: https://rentry.org/b2v9nv4u
 The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp): https://rentry.org/pi72vzqf
 corporategirlies (Hivemind): https://rentry.org/o3crsn3e
 Suki intro: http://rentry.org/t3q5h6wk
+Scaredy-cat (Capture Cloth, Bakeneneko): https://rentry.org/ia8x4kv2
+The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, the Prophet): https://rentry.org/x3gaabdu
+Shiketsu Guide to Cafeteria (Various Shiketsu students): https://rentry.org/ms8yk558
+Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator): https://rentry.org/7yoniwe4
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

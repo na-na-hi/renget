@@ -101,6 +101,8 @@ https://files.catbox.moe/bj5m7b.safetensors nawakena_resized example gen: https:
 https://files.catbox.moe/opwfd2.safetensors slush
 https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
 https://files.catbox.moe/cd6exz.safetensors andava
+https://files.catbox.moe/j10wt5.safetensors source_filmmaker
+https://files.catbox.moe/o1fmsv.safetensors namako_daibakuhatsu
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
