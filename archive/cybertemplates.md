@@ -8,7 +8,7 @@
 ***
 ->**DO NOT REMOVE CREDIT (©) FROM ANY OF MY TEMPLATES**<-
 ***
-#ᶻ 𝗓 𐰁 CHARACTERS ｡｡｡
+#ᶻ 𝗓 𐰁 CHARAS ｡｡｡
 ->**bungou stray dogs**<-
 ->(FW) https://rentry.org/cybertemplates-chuuya<-
 ->https://rentry.org/cybertemplates-dazai<-

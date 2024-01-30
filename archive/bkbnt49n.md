@@ -3,7 +3,7 @@ Op is a fucking retard that forgot to change the Edition
 >QoTT: Why can't OP pay attention?
 
 >What is this thread for?
-Discussing and/or facilitating strictly sfw meets in Vrchat
+Discussing and/or facilitating sfw meets in Vrchat
 >Resource reentry:
 https://rentry.org/upyvqfnf
 

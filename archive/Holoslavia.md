@@ -272,7 +272,7 @@ Then, on June 22, 1977, after an hour-long speech where Chancellor Tazumi castig
     Last Editor: HoloBoga87
     Last Edit Date: 1/9/2023
 
-#### The Ichikara Campaign and Operation Spitbreak
+#### The Ichikara Campaign and Operation Sweet Happy Holiday
 
 !!! note Section Under Review
     Reason: Excessive Racism
@@ -418,7 +418,7 @@ Remembrance of the time of the SFRH and its perceived positive attributes such a
 
 **The Second Homeland War**
 
-- Operation Spitbreak
+- Operation Sweet Happy Holiday
 	- Ishmael (Coming Soon™)
 
 **The Holoslav Wars**

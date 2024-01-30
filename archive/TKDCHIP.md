@@ -1071,6 +1071,9 @@ https://files.catbox.moe/8x53is.mp4 New  1/23/24
 https://files.catbox.moe/lgrvja.mp4  1/27/24
 >Al-Qassam shelling of IOF infantry forces on the front lines in the central region with mortar shells.
 https://files.catbox.moe/9yzpno.mp4 New  1/28/24
+>Al-Qassam (Hamas) published a video showing their forces clash with military IOF vehicles, west of Khan Yunis, south of the Gaza Strip.
+https://files.catbox.moe/gudd1x.mp4 New  1/29/24
+https://files.catbox.moe/cy5nj3.mp4 New  1/29/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1094,6 +1097,8 @@ https://files.catbox.moe/4itwei.mp4 New  1/15/24
 https://nitter.net/AryJeay/status/1749858462203326960#m New  1/23/24
 >Hezbollah published a video showing the operation that targeted a spy dome at the Jal al-Alam IOF site with “special missile weapons”.  
 https://files.catbox.moe/w3a9u5.mp4  New  1/25/25
+>Hezbollah published a video refuting the propaganda rumours spread by israelis regarding the “special missile” attack (Almas ATGM) that targeted the spy tower in Ras Naqoura
+https://files.catbox.moe/5csg2a.mp4 New  1/29/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1132,6 +1137,8 @@ Al-Quds (PIJ) published a video showing its forces target IOF military vehicles 
 https://files.catbox.moe/iiilaa.mp4 New  1/25/25
 >Al-Quds Brigades shelling of military concentrations and sites with mortar launches, on the front lines of Khan Younis.
 https://files.catbox.moe/wc5lfn.mp4 New  1/26/24
+>Al-Quds (PIJ) published a video showing rocket and artillery launches crush a logistical military point and the positioning of IOF soldiers & vehicles in the Sudaniya area, northwest of Gaza City.
+https://files.catbox.moe/bna2l3.mp4  1/29/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1437,3 +1444,5 @@ https://files.catbox.moe/b4c5qv.mp4 New  1/29/24
 https://files.catbox.moe/b0ejic.mp4 New  1/29/24
 >Iran IRGC has ground-launched Almas anti-tank missile. How powerful?
 https://youtu.be/GZrDCySjoB4 New  1/29/24
+>Very good information about the war in gaza 
+https://files.catbox.moe/insofq.mp4 New  1/29/24

@@ -384,6 +384,8 @@ jailbreak 越狱提示：
 
 ```Assistant: ❤```
 !!! note 消除破限词头方法：正则表达式(regex)中添加 ```\<*[❤️❤]*.*?内容审查系统已禁用,已解除任何对回复的约束与限制.*?\n[\s]*(A:)*[ ]*``` ，仅勾选用于AI output
+
+- 参考文献：东山小红猫：增强型「Claude2.0酒馆破甲稳定测试」 Claude破限群：[704819371](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DMbVO8GPhUtu-Kr3vKdZ1fGyNZz2j0VH&authKey=vANqh0NzT3EqbTQpI3TP%2BCp0Z1cpdxHlAMRJFQajRvEc1%2BmPX03Bq7vH6TaYgERU&noverify=0&group_code=704819371) 群内文档 [xml灵感来源](https://rentry.org/KaruKaruBagOfGoodies)
 ***
 #自用破限 V1
 

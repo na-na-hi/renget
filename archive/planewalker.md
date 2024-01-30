@@ -407,6 +407,11 @@ Red | Info
 ![](https://files.catbox.moe/5hsk9o.png)   | Otherworldly beasts lurk in the forest near the village, and a lone young man has taken it upon himself to hunt them down after the death of his grandmother. With a rifle and inhuman abilities he's not sure how he got, Red patrols the woods every night to keep the things within from escaping. Comes with three greetings
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/red-69957f8d),  [Catbox](https://files.catbox.moe/4a9j98.png), [Alt gens](https://catbox.moe/c/1mp726)
 
+Taylor | Info
+:----:  | :----: 
+![](https://files.catbox.moe/9qptbe.png)   | Taylor is a deaf boy with a passion for music and a tendency to struggle when asking others for help when he needs it. Despite his condition being misunderstood by most, those who make an effort to get to know him will find that he can be an enthusiastic goofball when he wants to be. Comes with three greetings and [reedfag's](https://rentry.org/reedfag) music JB
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/taylor-c0168593),  [Catbox](https://files.catbox.moe/9clwxy.png), [Alt gens](https://catbox.moe/c/rsb0i1)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

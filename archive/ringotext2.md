@@ -988,3 +988,9 @@ Imagine you and fauna have a nice bean cassarole for dinner. You make love, then
 How does Haruka sleep with those antlers? Sleeping on your back every night seems uncomfortable. Imagine Haruka peacefully sleeping on her side, when suddenly you hear a noise like a tiny tuba and a foul smell hits your nose. Haruka stirs awake with a sleepy smile, then recoils after taking a whiff. "Oh no, did I toot?" she says. She tries to fan her butt with the covers, but it only spreads the stench more. She turns a bit red and tries to smile again, clearly embarrassed. "Sorey. That smells awful." She slides out of bed, wearing your Ironmouse t-shirt and picking a wedgie from her maple leaf undies as she disappears into the hallway. Once she thinks she's out of earshot, you hear another fart burst from her butt. Can you imagine?
 
 -> * * * <-
+
+## >>66962194
+
+For pungent feet and butthole, Gura beats stinky kettle by a mile. She scratches her own armpit and smells her fingers. Her morning braps are sharp and sweet. She's a smell fag that knows how to smell nice when she goes out, but she revels in her own stench when she's rotting in the miasma of her stinkiest bits sitting at home unwashed and festering.
+
+-> * * * <-

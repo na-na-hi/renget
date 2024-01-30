@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-27==
+# /aicg/ chronicles, up to ==2024-01-30==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1059,7 +1059,29 @@ When | Where | What
 2024-01-26|[98668123](https://desuarchive.org/g/thread/98665612#98668123)| server-personification project updated to allow Google search via SerpApi
 2024-01-26|[98670935](https://desuarchive.org/g/thread/98670917#98670935)| Gemini Pro beats GPT 4 according to human preference votes
 2024-01-27|[98676519](https://desuarchive.org/g/thread/98675926#98676519)| pygmalion\.chat, public character repository moderated and SFW only, but anything goes as long as it's private
+2024-01-27|[98676704](https://desuarchive.org/g/thread/98672236/#98676704)| miqu-1-70b shilled, later claimed to be leaked Mistral-medium
 2024-01-27|[98676707](https://desuarchive.org/g/thread/98675926#98676707)| ChatGPT has group chats now
+2024-01-27|[98685084](https://desuarchive.org/g/thread/98685034#98685084)| Secret Valentines event proposed
+2024-01-27|[98685239](https://desuarchive.org/g/thread/98685239#98685239)| /pbg/ - Proxy Begging General sadly proves to be unviable
+2024-01-28|[98689059](https://desuarchive.org/g/thread/98686881#98689059)| chatbots = sexbots = sex dolls = sex robots = rape, "dolls cannot consent and allow for violent fantasies"
+2024-01-28|[98693447](https://desuarchive.org/g/thread/98692520#98693447)| a screenshot of @MetaAI with imagegen in Meta's Messenger shared
+2024-01-28|[98695357](https://desuarchive.org/g/thread/98692520#98695357)| stolen OAI keys can be used for something other than roleplaying
+2024-01-28|[98696357](https://desuarchive.org/g/thread/98695362#98696357)| blind anon outsmarts GPT4V's soft filter
+2024-01-28|[98700049](https://desuarchive.org/g/thread/98698822#98700049)| anon teases his proxy switcher script for Silly
+2024-01-28|[98703456](https://desuarchive.org/g/thread/98702599#98703456)| anon tries to explain why anyone would try to bot someone else's downloads using premade accounts
+2024-01-28|[98703923](https://desuarchive.org/g/thread/98702599#98703923)| LLM Safety Leaderboard shilled, questionable stats
+2024-01-28|[98704406](https://desuarchive.org/g/thread/98702599#98704406)| anon claims c\.ai is soon getting a new website
+2024-01-28|[98706271](https://desuarchive.org/g/thread/98705497#98706271)| old AI-Waifu-Vtuber project is brought to attention
+2024-01-29|[98708130](https://desuarchive.org/g/thread/98707058#98708130)| anons look for ways to support miqu leek baiting other than comparing it to the API outputs...
+2024-01-29|[98708651](https://desuarchive.org/g/thread/98707058#98708651)| ... at the same time speculating it might be an experimental StabilityAI base model leak
+2024-01-29|[98711628](https://desuarchive.org/g/thread/98710866#98711628)| anon writes another frontend with his own tavernai card decoder
+2024-01-29|[98712707](https://desuarchive.org/g/thread/98711703#98712707)| anon shares his proxy switcher script for Silly
+2024-01-29|[98717285](https://desuarchive.org/g/thread/98715036#98717285)| supposed 5 min cooldown between every review on CharacterHub introduced
+2024-01-29|[98718568](https://desuarchive.org/g/thread/98718483/#98718568)| a Startup Grants Program is brought to attention, promising free OpenAI, Anthropic, etc API access for 6 months
+2024-01-29|[98722809](https://desuarchive.org/g/thread/98721450#98722809)| concerns about character card assets being hosted on a remote server shared
+2024-01-29|[5:00 PM](https://twitter.com/AIatMeta/status/1752013879532782075)| Code Llama 70B released
+2024-01-30|[98726408](https://desuarchive.org/g/thread/98724440#98726408)| anon teases a private 70k tokens dark fantasy lorebook/characters/world project
+2024-01-30|[98728482](https://desuarchive.org/g/thread/98727876#98728482)| c\.ai continues rolling out the new login form with email verification instead of the password, locking out tempmail users
 -|-|-
 
 [](you have found my secret stash of nothing!)

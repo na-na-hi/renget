@@ -32,7 +32,7 @@ N/A | M | Togetic | Dewott (M, Human, Former Partner) | Clover Guild "Secret" Qu
 Elm | M | Duskull | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#elm)
 Kiyo | M | A-Vulpix | Sandshrew (Cassie, F, Native) & Fletchling (Bean, M, Human) | Clover Guild Native Member/Outlaw | [???](https://rentry.org/vpmdcloverpb#kiyocassiebean)
 Smith | M | Skorupi  | Furret (F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#smithfurret)
-Bill | M | Growlithe | Hisuian Growlithe (Gill, M, Human) | Clover Guild Counselor | [???](https://rentry.org/vpmdcloverpb#gillbill)
+Bill | M | Growlithe | H-Growlithe (Gill, M, Human) | Clover Guild Counselor | [???](https://rentry.org/vpmdcloverpb#gillbill)
 N/A | F | Pikachu | Ampharos (M, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#pikachu)
 Clara | F | Lucario | Shares body with Clara (Smoke, M, Human)| Clover Guild Bounty Hunter |[Docile](https://rentry.org/vpmdcloverpb#clarasmoke)
 Fynn | M | Furfrou | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fynn)
@@ -213,6 +213,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [I am Error](https://rentry.org/ironvaliant1)
 	* [I am Error pt. 2](https://rentry.org/ironvaliant2)
 	* [I am Error pt. 3](https://rentry.org/ironvaliant3)
+	* [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
@@ -570,6 +571,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [I am Error](https://rentry.org/ironvaliant1)
 * [I am Error pt. 2](https://rentry.org/ironvaliant2)
 * [I am Error pt. 3](https://rentry.org/ironvaliant3)
+	* [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

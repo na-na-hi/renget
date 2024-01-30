@@ -27,11 +27,12 @@ slime-dimension : the-chosen : -fliporiana : -juanaflippa
 casperthefriendlyghost : *milkandmocha*
 *entitylvldanger* : *entitylvlsafe* : %#dc143c%**buzzing**%%
 **lifeoftheafterparty** : %#dc143c%**b1tchwife**%%
-**hatsune-mikus-voicebox**
+**hatsune-mikus-voicebox** : **carenIm** : %#dc143c%**petscop1997**%%
+**joyousslumberparty** : **goIdeneye**
 ![](https://cdn.discordapp.com/attachments/1141217508792213534/1142474593689403482/image44.gif)
 〞***songs*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
-**horrorsinthebayou** : sludgeified
-*peopleintheswamp* : thefuneral
+**horrorsinthebayou** : *sludgeified*
+*peopleintheswamp* : *thefuneral*
 *approached* : **limitedtime**
 **cocooned** : **forgottenpromise**
 **secretsofthewill** : *faceinthebog*
@@ -39,6 +40,7 @@ casperthefriendlyghost : *milkandmocha*
 amomentofrespite : youwillbereplaced
 youvechanged : amelodyivealwaysknown
 **rolansultimatum** : **levithepoet** : smoke-with-the-devil
+*aIImylove* : **nocompIaints** : **whaIefaII** : **abyssangeI**
 ![](https://cdn.discordapp.com/attachments/1141217508792213534/1142474593689403482/image44.gif)
 〞***words / misc*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
 %#dc143c%**too-sweet**%% : %#dc143c%**sorbetdreams**%%

@@ -190,4 +190,3 @@ Each {{value}} change within ±3 (±1D3).
 
 ##关联内容
 !!! info [slaude修改版](https://rentry.org/teralomaniac_slaude) | [PreOC](https://rentry.org/teralomaniac_PreOC) | [API养号](https://github.com/teralomaniac/Claude-auto-test)
-- 参考文献：东山小红猫：增强型「Claude2.0酒馆破甲稳定测试」 Claude破限群：[704819371](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DMbVO8GPhUtu-Kr3vKdZ1fGyNZz2j0VH&authKey=vANqh0NzT3EqbTQpI3TP%2BCp0Z1cpdxHlAMRJFQajRvEc1%2BmPX03Bq7vH6TaYgERU&noverify=0&group_code=704819371) 群内文档 [xml灵感来源](https://rentry.org/KaruKaruBagOfGoodies)

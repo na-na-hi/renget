@@ -1,6 +1,6 @@
 !!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10847906 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10884812 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 
@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[HoloMess Collection](https://www.pixiv.net/novel/series/1497314) (Series)* [[AO3 mirror]](https://archiveofourown.org/works/36735109) | Various | brap, ringo, choco, diaper |
 | *[Comfort Assistants: Full Moon](https://rentry.org/cagqk)* | Moona | brap, choco |
 | *[No Time for the Toilet](https://archiveofourown.org/works/52353919)* | Kronii, Haachama | ringo, choco |
 | *[Are You Gwak'ing Your Pants?](https://archiveofourown.org/works/51912754/)* | Kronii, Fauna | choco, ringo |
@@ -40,7 +41,6 @@
 | *[Hag Inspection Report](https://rentry.org/vpi2n)* | Various | milk |
 | *[Fujo Chadcast Hypno Discussion](https://docs.google.com/document/d/e/2PACX-1vRTPFCKwdACg2l2hGn4buQKbAndr5kNSYBZRAGvnFO051JHOzmHvO0llt362I3_973GCykJKfOvxSUF/pub)* | Calli, Bae, IRyS | sweat, smell |
 | *[Tsuki no Usagi: Unkomonogatari](https://rentry.co/2xbug)* | Moona, Pekora | brap, choco, ringo, vomit, futa |
-| *[HoloMess Collection](https://www.pixiv.net/novel/series/1497314) (Series)* [[AO3 mirror]](https://archiveofourown.org/works/36735109) | Various | brap, ringo, choco, diaper |
 | *[Miso Soup](https://docs.google.com/document/d/e/2PACX-1vSAIqRY1naltK7FxyRlF61yi_n0S7K0HXRcSEpHAugkXclQTL3CkCPL1F82T3ATSSFdRRpRTEC15flQ/pub)* | Mio | choco |
 | *[A Detective for Every Shart](https://docs.google.com/document/d/e/2PACX-1vSPjqqrx9YC9b3fmc4M08XMbK0I1EjcPOgOUDyGHEY0GMaAfBZ1Yta__4pFhwDL_-11WXgQXh_wOz8c/pub)* | Gura, Ame | brap, choco |
 | *[First Train and Kafka: Stop 13](https://docs.google.com/document/d/e/2PACX-1vQx-CUx2ApJrMNjL92GkFTTxSR7_zgCF5LNzwRMQJpOdqjr1Em5HcWT5DAvuaI5rNy0F8gYKL8FUsfz/pub)* | Sora, Aki, Suisei | ringo |
@@ -281,6 +281,7 @@
 | [>>65722470](https://rentry.org/ringotext2#65722470) | Gura | choco, ringo |
 | [>>65651651](https://rentry.org/ringotext2#65651651) | Fauna | choco |
 | [>>66702878](https://rentry.org/ringotext2#66702878) | Haruka | brap |
+| [>>66962194](https://rentry.org/ringotext2#66962194) | Gura | brap, smell |
 
 
 ## >>249165

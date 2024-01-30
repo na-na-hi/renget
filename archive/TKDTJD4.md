@@ -298,3 +298,295 @@ https://nitter.lanterne-rouge.info/ME_Observer_/status/1751747393937125708#m  1/
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.lanterne-rouge.info/AryJeay/status/1751747589752414413#m  1/28/24
+
+>BREAKING| The European Commission says it will suspend funding to UNRWA until the end of February over Israel's allegations against the agency.
+https://nitter.catsarch.com/QudsNen/status/1751935125225369926#m  1/29/24
+
+>BREAKING| The Red Crescent: Our teams cannot reach a female victim, who was killed by Israeli forces a few metres away from Al Amal Hospital, due to the Israeli heavy fire.
+https://nitter.catsarch.com/QudsNen/status/1751906553299456297#m  1/29/24
+
+>BREAKING: 
+
+⚡ 🇺🇸🇯🇴 Jordan has requested Patriot air defense systems from the United States
+https://t.me/megatron_ron/1433  1/29/24
+
+ >New Heads of X Trust & Safety are Former Israeli Intelligence Officers.
+
+Former Head of Twitter Trust & Safety: Yoel Roth 🇮🇱
+
+Current Heads of Twitter Trust & Safety--Former Israeli Intelligence Officers: 🇮🇱 Zach Schapira & 🇮🇱Michal Totchani
+
+This explains why all the accounts that do not spare themselves from writing about the Israeli genocide had a drastic drop in impressions from a few days ago.
+
+Mossad is in full control of Platform X now.
+https://t.me/megatron_ron/1427  1/29/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing their forces clash with military IOF vehicles, west of Khan Yunis, south of the Gaza Strip.
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751942161656910041#m  1/29/24
+https://files.catbox.moe/gudd1x.mp4  1/29/24
+https://files.catbox.moe/cy5nj3.mp4  1/29/24
+
+>🛑|🇮🇷No IRGC advisory site was targeted in Damascus
+
+In contrary to reports being spread, Iran’s ambassador to Syria confirmed that no Iranian center was targeted in Damascus by the IOF.
+
+This likely suggest either a failed israeli intelligence or a blatant attack against Syrians
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751945054187356223#m  1/29/24
+
+>🛑| 🇺🇸 John Kirby: We are not looking for war with Iran. 
+
+Kirby, spokesman of the US National Security Council said the US believes that Iraq’s Kataib Hezbollah is behind yesterday's attack against US forces, but does not want a wider escalation of war with Iran or the region.
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751957131534741843#m  1/29/24
+
+>The Spanish Foreign Minister announces that Madrid will not suspend its funding for UNRWA.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1751960675570655511#m 1/29/24
+
+Displaced families in Rafah are resorting to use seawater due to the scarcity of water caused by the ongoing Israeli blockade on Gaza.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1751964491443532242#m  1/29/24
+https://files.catbox.moe/5wphu7.mp4  1/29/24
+
+>⚡️Iraq: - A source in the Islamic Resistance in Iraq told Al-Mayadeen: A bombing was carried out inside the occupied territories towards a military target
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1751964701083242783#m  1/29/24
+
+>Breaking | Ministry of Health in Gaza latest toll: "Israeli occupation commits 14 massacres against families in Gaza, resulting in 215 deaths and 300 injuries in the past 24 hours."
+
+>"The death toll from the Israeli aggression has risen to 26,637 martyrs and 65,387 injuries since October 7th of last year."
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1751970441248248239#m  1/29/24
+
+>CNN International diplomatic editor explains how Israeli protesters are blocking the entry of food aid trucks via the Kerem Shalom crossing, starving more than 2 million Palestinians in Gaza.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1751975608874041608#m  1/29/24
+https://files.catbox.moe/b4c5qv.mp4  1/29/24
+
+>Breaking | Israeli Finance Minister Bezalel Smotrich tells Israeli media channel: "There must be a formation of a military government in Gaza and the expulsion of UNRWA employees from there."
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1751974085880340638#m  1/29/24
+
+>⚡️Reuters: The British government imposes sanctions on 8 #Iranian parties
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1751974269494444276#m  1/29/24
+
+>⚡️#Iraq: Al-Nujaba Movement:
+
+ America disdains our region to the point that its president does not know whether his soldiers are in #Syrian or Jordanian territory
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1751977432167391298#m  1/29/24
+
+> 🇮🇱 While the US and the 'team' are trying with all their might to deny Israel's genocide, Israeli politicians are openly calling for ethnic cleansing and genocide in Gaza
+
+The Minister Ben-Gvir publicly called for the removal of Palestinians from Gaza, multiple times in the last month.
+https://t.me/megatron_ron/1439  1/29/24
+
+>🚨 Al-Qassam (Hamas) just launched a big salvo of rockets towards Tel Aviv
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751981870231830917#m  1/29/24
+
+>According to reports, at least 15 launches were observed towards Tel Aviv
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751983085845983672#m  1/29/24
+
+>Image shows a rocket impact in Rishon LeZion (Tel Aviv) & rocket falls in several other locations in Tel Aviv. 
+
+The rocket attack came after an hiatus of 3 weeks since last time Tel Aviv was hit, confirming Gaza’s rocket capabilities.
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751987775719502111#m  1/29/24
+
+>🛑 Al-Quds Brigades:
+
+Blew up a Merkava tank with a “barrel-piercing explosive device” in the vicinity of the Hassan Salama Mosque, west of Khan Yunis.
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751991144966226070#m  1/29/24
+
+>Media coverage | Al-Jazeera's report from Gaza sheds light on the challenges faced by displaced people in accessing water, despite it being unhealthy for human consumption due to the Israeli besiegement of Gaza and relentless targeting of facilities.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1751987448182087771#m  1/29/24
+https://files.catbox.moe/b0ejic.mp4  1/29/24
+
+>⚡️MUST WATCH: Al-Quds (PIJ) published a video showing rocket and artillery launches crush a logistical military point and the positioning of IOF soldiers & vehicles in the Sudaniya area, northwest of Gaza City.
+
+The site was targeted after observation & reconnaissance.
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1751985036868424130#m  1/29/24
+https://files.catbox.moe/bna2l3.mp4  1/29/24
+
+>Several Western nations have suspended funding to the United Nations Relief and Works Agency (UNRWA), Gaza's primary humanitarian relief organization. The decision has been labeled as 'collective punishment' by the head of UNRWA.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1752001125711057105#m  1/29/24
+
+>BREAKING:
+
+ 🇮🇱 Residents take cover in the middle of the highway during rocket sirens alert in Tel Aviv, Israel.
+
+Rockets fall into the city.
+https://t.me/megatron_ron/1446  1/29/24
+
+>⚡️Reuters from #Syrian media:
+A number of #Iranian advisors and civilians were killed in an #Israeli attack south of #Damascus
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1752012487338189149#m  1/29/24
+
+>🚨🇾🇪 3 Yemeni naval speedboats approached a ship to warn it and forced the ship to change course to the closest port (preventing it to head to israeli ports)
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1752021150568243256#m  1/29/24
+
+>⚡️Launch of missiles towards the American base inside the "Al-Omar oil field" in the Deir ez-Zor countryside, eastern #Syria.
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1752012367372718351#m  1/29/24
+
+>Global ammunition shortage forces Israel to limit bombings
+The IDF is contending with dwindling ammunition reserves, carefully managing the intricate equilibrium between fulfilling immediate missions and safeguarding preparedness for unexpected challenges
+https://www.ynetnews.com/article/h1wp1rncp  1/29/24
+
+>🛑| According to an US official, Tower 22 American base was attacked by a suicide drone at the same time a US drone was returning from a mission, causing a delayed response.
+
+This is the attack that killed 3 US soldiers. The level of strategy that went into this operation to cause maximal damage with just 1 drone is spectacular. Glory to the resistance 🔥
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1752024706260041965#m  1/29/24
+
+> 🇵🇸🇮🇱 Almost 4 months after the start of the IDF operation in the Gaza Strip, Hamas continues to shell central Israel from the Gaza Strip.
+
+80% of the tunnels in the Gaza Strip have not been destroyed and are controlled by Hamas and Islamic Jihad.
+
+The areas of Gaza from which the IDF retreated after suffering losses are again occupied by Hamas troops.
+https://t.me/megatron_ron/1449  1/29/24
+
+>⚡️IMPORTANT: Hezbollah published a video refuting the propaganda rumours spread by israelis regarding the “special missile” attack (Almas ATGM) that targeted the spy tower in Ras Naqoura
+
+The video shows another view of the attack showing the big orange tower everyone nagged abt
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1752029952038330856#m  1/29/24
+https://files.catbox.moe/5csg2a.mp4  1/29/24
+
+>Breaking | The Guardian: Dozens of US government employees will go on a hunger strike on Thursday to draw attention to the humanitarian crisis in Gaza.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1752046130592964984#m  1/29/24
+
+>Former US Speaker Nancy Pelosi dismisses protesters demanding a ceasefire in Gaza and tells them to "Go back to China, where your headquarters are."
+
+Pelosi also referred to protests in solidarity with Gaza as being backed and financed by Putin's Russia.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1752043194911506468#m  1/29/24
+
+>US Representative Alexandria Ocasio-Cortez responds to an NBC anchor regarding Gaza and the question of whether the President of the United States is supportive of genocide in Gaza.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1752048634353389963#m  1/29/24
+https://files.catbox.moe/8v4hdr.mp4  1/29/24
+
+>⚡️#Yemen: Member of the Political Bureau of the Ansar Allah Movement, Abdul Malik Al-Ajri: It is not in the interest of the #European Union countries to get involved with the United States in the Red Sea
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1752052389878673599#m  1/29/24
+
+>Very good information about the war in gaza 
+https://files.catbox.moe/insofq.mp4  1/29/24
+
+>🛑 Media advisor to the head of the Hamas political bureau, Taher al-Nunu:
+
+• Firstly, we are talking about a comprehensive and complete ceasefire, not a temporary truce.
+  
+• The fundamental point is to halt the aggression on the Gaza Strip, and when that is achieved, other details can be discussed.
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1752059368130986451#m  1/29/24
+
+>🛑| 🇺🇸 The Pentagon: 
+
+We’ll respond at the appropriate time & place to the attack on our forces, and we don’t seek to expand the conflict nor to wage war with Iran.
+
+We won’t reveal the nature of our response to the attacks, but we consider Iran responsible for them.
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1752060499091399074#m  1/29/24
+
+>US soldiers made sacrifice while serving their country in Jordan… ha?
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1752064515586347172#m  1/29/24
+
+>During an interview on Al-Jazeera English, Norway’s Foreign Affairs Minister urged countries to maintain their support for UNRWA, emphasizing that suspending funding for UNRWA amounts to collective punishment against the Palestinian people in Gaza.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1752061514478178702#m  1/29/24
+
+>St. Thomas' Hospital in London is displaying images of Palestinian children killed and injured in the current Israeli war on Gaza.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1752062762950562000#m  1/29/24
+
+>NEW:
+
+⚡️🇺🇸🇮🇷 Pentagon:
+
+"We do not seek to enter into a war with Iran, nor do we want to expand the scope of the conflict, and we believe that Iran does not want to enter into a war with us."
+https://t.me/megatron_ron/1451  1/29/24
+
+>Hamas rejects the mediators' proposal: Israel must cease its 'aggression' and withdraw from Gaza before any exchange transaction takes place.
+https://t.me/work2873/173626  1/29/24
+
+>"Currently, no additional funding to UNRWA is foreseen until the end of February", the European Commission stated.
+
+"The European Commission will determine upcoming funding decisions for UNRWA in light of the very serious allegations... The Commission will review the matter in light of the outcome of the investigation announced by the UN and the actions it will take", it added.
+https://nitter.eu.projectsegfau.lt/QudsNen/status/1752094601408647600#m  1/29/24
+
+>BREAKING:
+
+⚡ 🇺🇸 U.S. Secretary of State, Antony Blinken stated tonight that the Situation in the Middle East is currently the most Dangerous since the Arab-Israeli War of 1973 and arguably before that.
+https://t.me/megatron_ron/1456  1/29/24
+
+>⚡️Sky News
+
+As early as tonight, President Joe Biden will authorise US military action in the Middle East
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1752107306924310591#m  1/29/24
+
+>⚡️This is the promise that was made to Americans after they assassinated the Iranian general Qassem Soleimani in #Iraq :
+
+Tonight, Biden might ignite the war to uproot the unnatural foreign presence of the Americans from the region , which aim to make 500 million Arabs kneel to the Israeli child killers.
+https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1752113328183259574#m  1/29/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 29 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted the US Navy ship "Lewis B. Puller" in the Gulf of Aden with an anti-ship missile.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Shelled Tel Aviv with a rocket barrage.
+
+🔻Targeted a military D9-bulldozer surrounded by IOF soldiers with Yassin-105s, in the Jura Al-Aqad area west of Khan Yunis city, southern Gaza Strip.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Launched rocket barrages, heavy mortar shells, and Badr-1 IRAM rockets at the main logistical support point used by israeli troops for vehicle maintenance and support for its combat teams with water, food, and fuel in the Sudanese area northwest of Gaza.
+
+🔻Engaged in fierce clashes with IOF soldiers in Khan Yunis using machine guns and anti-armor shells.
+
+🔻Targeted a group of snipers entrenched in a building, in the neighborhood west of Khan Yunis with a guided missile.
+
+🔻Blew up a Merkava tank with a "Thaq'eb - Barrel" high-explosive around the Hassan Salama Mosque west of Khan Yunis.
+
+🔻Shelled israeli soldiers & their vehicles in the central and western axes of Khan Yunis with mortar shells.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled gatherings of IOF forces northwest of Gaza City with rockets.
+
+— 🇵🇸 Martyrs of Al-Aqsa Brigades:
+
+🔻Engaged in fierce clashes, using appropriate weapons, against IOF soldiers in various axes in the Gaza Strip.
+
+🔻Targeted a military vehicle with RPGs, in the western axis of Khan Yunis, southern Gaza Strip.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Clashed with the IOF army attempting to advance in the vicinity of Al-Shifa Hospital, west of Gaza City.
+
+🔻Clashed with IOF forces in Batn Al-Sameen and Al-Amal neighborhood, launched an RPG rocket at one of the military vehicles.
+
+🔻Shelled IOF positions & gatherings of their vehicles in Khan Younis with heavy mortars, achieving direct hits and causing severe losses.
+
+🔻Clashed with IOF forces, using machine guns, hand grenades, anti-personnel and anti-armor rockets, inflicting direct casualties.
+
+🔻Clashed with IOF forces near the Al-Amal Hospital and the Batn Al-Sameen axis in Khan Younis, using machine guns and anti-armour rockets, causing direct casualties.
+
+— 🟡 Hezbollah (13 operations)
+
+🔻Targeted the Birkat Risha site with Burkan IRAM rockets, causing a direct hit.
+
+🔻Targeted the Hadab Yarin site with Burkan IRAM rockets, causing a direct hit.
+
+🔻Targeted the Branit IOF base with Burkan IRAM rockets, causing a direct hit.
+
+🔻Targeted a gathering of israeli soldiers behind the Jal Al-Alam site with an Iranian Falaq-1 rocket, causing a direct hit.
+
+🔻Targeted a gathering of israeli soldiers near the Metat IOF base with rockets.
+
+🔻Targeted the Metulla IOF site with appropriate weapons, causing a direct hit.
+
+🔻Targeted a gathering of israeli soldiers in the Hunin base with rockets, causing a direct hit.
+
+🔻Targeted a gathering of israeli soldiers in the vicinity of the Zarit base with appropriate weapons, causing a direct hit.
+
+🔻Targeted a gathering of israeli soldiers at the Al-Samaqa site with rockets, causing a direct hit.
+
+🔻Targeted the Branit IOF base with Iranian Falaq-1 rockets, causing a direct hit.
+
+🔻Targeted a gathering of israeli soldiers in Tal Tayhat with rockets, causing a direct hit.
+
+🔻Targeted the deployment of israeli soldiers near the Al-Jardah point with Burkan IRAM rockets, causing a direct hit.
+
+🔻Targeted the deployment of israeli soldiers near the Ramim IOF base with Falaq-1 rockets, causing a direct hit.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked a Zionist military target in occupied Palestine using (a) suicide drone(s).
+https://nitter.eu.projectsegfau.lt/AryJeay/status/1752125886105518259#m  1/29/24
