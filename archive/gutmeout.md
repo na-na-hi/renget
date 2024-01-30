@@ -28,7 +28,8 @@ dreamecore　**liminal spaces**　weirdcore　*uhyeah*
 **stegosauruses**　*mini foods*　**seals**　hauntedps1
 **spookys jumpscare mansion**　*treynotgaming*　*3fs*
 chilla's art　31 minutos　**watchmen(hbo)**　*bioshock*
-**kubz scouts**　wendigoon　eric larocca　*cry of fear*-　
+**kubz scouts**　wendigoon　eric larocca　*cof*　
 the quarry　**hardcore henry**　**afraid of monsters**
-moral orel　**hotline miami**　*we happy few*　fight club<-
+moral orel　**hotline miami**　*we happy few*　fight club
+**chonny jash**　creepypasta　*banana bus squad*<-
 -> ![](https://cdn.discordapp.com/attachments/935735380538449952/946013075704795136/Strawberry_gashes.png) <-

@@ -416,23 +416,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writing:
->Scaredy-cat (Capture Cloth, Bakeneneko) 
-https://rentry.org/ia8x4kv2
->The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, the Prophet)
-https://rentry.org/x3gaabdu
->Shiketsu Guide to Cafeteria (Various Shiketsu students)
-https://rentry.org/ms8yk558
->Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator)
-https://rentry.org/7yoniwe4
-
 New Art
->excellence (Hailey)
->>91735347
+>Mission: Impossible (Runt, Suslik)
+>>91746842
+>Now I'm Motivated (Rosethorn)
+>>91752006
 
-New Student:
->Rob Williams HN: Velvet Worm
->>91728780
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -513,6 +502,8 @@ Page 2
 >>91691942
 >Kiki HN Yggdrasil
 >>91707234
+>Rob Williams HN: Velvet Worm
+>>91728780
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat

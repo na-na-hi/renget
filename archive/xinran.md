@@ -3,7 +3,7 @@ kafka contemporary art adventure time tpobaw
 2nd gen + nugu ggs hannibal & media overall etc
 
 ***
-very fond of %#3AD2EC%**karina**%% wonyoung jungkook wonbin. mbappé saliba griezou lukamos martinelli jacob elordi mads mikkelsen hadid sisters ayo edebiri **<3**
+very fond of %#3AD2EC%**karina**%% wonyoung jungkook wonbin. mbappé saliba griezou lukamos tinelli güler jacob elordi mads mikkelsen hadid sisters ayo edebiri **<3**
 ***
 
 ->[!~back~!](https://rentry.co/sullyoon)<-

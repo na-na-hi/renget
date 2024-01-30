@@ -571,7 +571,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [I am Error](https://rentry.org/ironvaliant1)
 * [I am Error pt. 2](https://rentry.org/ironvaliant2)
 * [I am Error pt. 3](https://rentry.org/ironvaliant3)
-	* [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
+* [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

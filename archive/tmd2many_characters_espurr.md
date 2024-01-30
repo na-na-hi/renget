@@ -125,8 +125,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Colbur Berry | None
-2. Shattered TM107 Shock Wave | A TM which contained the Move Shock Wave. A long, jagged line goes down the middle, like a lightning bolt.
-Scrappy Powder (Sort inventory please)
+2. Scrappy Powder | Changes someone's Ability to Scrappy when used.
 
 ***
 

@@ -15,5 +15,6 @@
 **3.** Avoid talking to me about medication pills in private settings. By that I mean unnecessary talk about them, or overly detailed. Stuff like "I am gonna take meds" is 100% fine. Also don't make "go take your meds" jokes with me either !!
 **4.** Avoid questioning me about my religion and what I believe in. Don't try to convert me either I don't know why you would even do that???
 **5.** Do not flirt with me with romantic or sexual intent. Platonic affection is fine. Public Displays of Affection depends but is generally a no unless I say otherwise.
+**6.** Please do not misuse tone tags around me. Stuff like "im gonna die /srs /gen /real" like, I don't *need* tone tags to be used around me but if you are gonna joke around with them I *will* get confused.
 
 -> [Back . . .](https://rentry.co/sonofgothamcity) <-

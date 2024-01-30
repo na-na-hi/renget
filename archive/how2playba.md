@@ -57,7 +57,7 @@ Alternatively you need to reset your network, see [this video on how to do that]
 
 ## (Re)rolling
 For Selective Recruitment: **save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
-**Spend *all* your rolls after the first mission. After that you can.**
+**Spend *all* your rolls after the first mission. After that you can reroll.**
 Make sure to claim stuff from missions and your mailbox too. 
 
 I'd advice you to do the same even if you don't reroll, just so you have something to work with. 
@@ -223,6 +223,12 @@ If you want to know how much AP it costs to upgrade a student's gear [use this l
 Taken from https://bluearchive.fandom.com/wiki/Divine_Fragment
 
 From 3* to UE50 it costs 2400 elephs.
+
+>What do I do with my student fragments and my elephs? 
+If you can upgrade a student's star level with their fragments you should.
+
+For the generic elephs you generally save up until you know what the fuck you're doing. You can learn which students are strong from the few links above. 
+Posting your roster in /bag/ and asking for help is generally faster. 
 
 >Can I brick myself leveling up a student (e.g. Priconne)?
 No. At most you brick yourself by levelling the worse characters. 
@@ -435,7 +441,7 @@ Buying the activity reports with credits is kind of bad (as in really bad), so d
 
 >Eleph shops
 You max out your wife. After that? You max the alt of your wife (she has an alt right?)
-Otherwise bring Serina to 2\*. After that? You post your roster in the /bag/ general and ask for help. It's faster that way. 
+Otherwise bring Serina to 2\*. After that? You upgrade the strongest units in the game. Generally this means you post your roster in the /bag/ general and ask for help. It's faster that way. 
 Don't use ur elephs for [farmable characters](https://rentry.org/how2playba#farmable-units) if you can, they're quite literally farmable.
 
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
