@@ -1,5 +1,4 @@
-# im gonna be completely redoing this entire site soon ^__^ new theme and new graphics, along with different sections!
-
+# new one [here](https://rentry.co/mikopixels) old one is archived and kept up though
 ->![Ruffles, please dont use](https://media.discordapp.net/attachments/1064597015503315054/1142248956009648268/Untitled2666_20230819010916.png)<-
 ***
 ***

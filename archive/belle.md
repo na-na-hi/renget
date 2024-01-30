@@ -2,7 +2,7 @@
 & sometimes the media i enjoy :3
 
 can go ia & be a rt bot often
-keep in mind im a %#ffaed1%rps%% & !~fujoshi~! !!
+keep in mind im a %#ffaed1%**rps**%% & !~fujoshi~! !!
 
 ***
 **DNI** if pro-israel.. genuinely just kill yourself 

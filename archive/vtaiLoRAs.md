@@ -25,6 +25,7 @@
 	**Updated LoRA Information:**
 	Projekt Melody: Same lora, new recommended weight (my old one was a little too much), cleaned up tags
 	Tomari Mari: Cleaned up tags. (4th outfit only, 1-3 new)
+	Aradia Ravencroft: Updated link to newer version, altered tags to remove ascot, added hair ornament.
 
 [TOC2]
 
@@ -2912,8 +2913,8 @@
 #### -> (Nerissa) Aradia Ravencroft <-
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
-	(short hair, black hair, pink colored inner hair, horns, pink eyes, mole under mouth, choker, white sleeveless shirt, black ascot, black jacket, black fur trim, black gloves, black skirt, pelvic curtain, black thighhighs, black footwear)
--> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/hXpiBYyI) <-
+	(short hair, black hair, pink colored inner hair, horns, hair ornament, pink eyes, mole under mouth, choker, white sleeveless shirt, black jacket, black fur trim, black gloves, black skirt, pelvic curtain, black thighhighs, black footwear)
+-> [MEGA](https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/EXgTBApC) <-
 
 #### -> (Hololive) Kururugi Yuu <-
 !!! note Recommended weight: 0.6

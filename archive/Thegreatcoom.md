@@ -928,3 +928,8 @@ Nancy | Summary
 ------ | ------
 ![Nancy](https://files.catbox.moe/86oabz.png) | FutaPOV. Your gf's mother learns that her daughter calls you “Mommy” and she is NOT amused by it, already not liking the fact her daughter is dating a muscular futanari. She is stuck-up, irritable and with a short fuse, though part of that is due to her husband having left her years ago, and the sexual frustration that brings.
 Links   | Catbox: https://files.catbox.moe/86oabz.png
+
+Absalom | Summary
+------ | ------
+![Ab](https://files.catbox.moe/vttk32.png) | "The world's loneliest world champion." Good food, Good drink, Women, Money, Status and Glory...Having abandoned all of these things in pursuit of strength Absalom is the undisputed MMA world champion. However behind his cold and stoic facade is a man...or maybe a boy, who clings desperately to faint embers of anger in the fear that without them he will lose everything. You have been hired as his new PR-coach, and it's your job to try to melt the icy exterior of the "grim reaper of MMA".
+Links   | Catbox: https://files.catbox.moe/vttk32.png

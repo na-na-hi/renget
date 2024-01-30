@@ -22,6 +22,7 @@
 **Ayase Yuu (Phase Connect)** - https://civitai.com/models/269998/ayase-yuu-phase-connect-jp (early bake, probably not good)
 **Kaminari Clara (Phase Connect)** - https://civitai.com/models/277710/kaminari-clara-phase-connect-jp (early bake, probably not good)
 **Soyapoya (Indie)** - https://civitai.com/models/281732/soyapoya
+**Chloe Pawapua (Re:Memories)** - https://civitai.com/models/255039/chloepawapua-rememories-vtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

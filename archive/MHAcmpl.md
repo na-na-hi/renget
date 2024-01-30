@@ -100,9 +100,9 @@ Daniel W. Rain: https://archive.4plebs.org/tg/post/91352447/
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
-Suki HN Sukeban: https://desuarchive.org/tg/post/91670899/
-Nijimura Mahoko HN Cool Boost: https://desuarchive.org/tg/post/91685518/
-Runt HN Dust Devil: https://desuarchive.org/tg/post/91691942/
+Suki HN Sukeban: https://archive.4plebs.org/tg/post/91670899/
+Nijimura Mahoko HN Cool Boost: https://archive.4plebs.org/tg/post/91685518/
+Runt HN Dust Devil: https://archive.4plebs.org/tg/post/91691942/
 
 ### Shiketsu Staff
 >Pro Heroes
@@ -149,10 +149,10 @@ Atsushi Nabiki/HN: Shelong: https://archive.4plebs.org/tg/post/91008430/
 Tosuke Jinai HN Compound: https://archive.4plebs.org/tg/post/91016593/
 Yosuke Shirai HN The Lustrous Hero, Wavelength: https://archive.4plebs.org/tg/post/91032513/
 Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
-Kiki HN Yggdrasil: https://desuarchive.org/tg/post/91707234/
-Riku Washizawa HN The Steel Talon Hero: Skycarver: https://desuarchive.org/tg/post/91716771/
-Richard Wilkins HN The #1 Hydro Hero: "Splash": https://desuarchive.org/tg/post/91721688/
-Rob Williams HN: Velvet Worm: https://desuarchive.org/tg/post/91728780/
+Kiki HN Yggdrasil: https://archive.4plebs.org/tg/post/91707234/
+Riku Washizawa HN The Steel Talon Hero: Skycarver: https://archive.4plebs.org/tg/post/91716771/
+Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
+Rob Williams HN: Velvet Worm: https://archive.4plebs.org/tg/post/91728780/
 
 ### Villains
 >Night Parade
@@ -166,12 +166,12 @@ Giichi Mikata: https://archive.4plebs.org/tg/post/88198856
 Ginji Gō VN "Silverado, the Desperado": https://archive.4plebs.org/tg/post/88278735
 "Bogey the creeping villain": https://archive.4plebs.org/tg/post/88277889
 "Tomi": https://archive.4plebs.org/tg/post/88387913
-Luccione (NPC): https://desuarchive.org/tg/thread/90136269/#90146415
+Luccione (NPC): https://archive.4plebs.org/tg/thread/90136269/#90146415
 >Revolutionaries
 Momotaro Tachibana VN "Nebulous Storm": https://archive.4plebs.org/tg/post/88376954 (further information at https://controlc.com/9cfc38a8)
 Junichi Takagi VN "Marrow": https://archive.4plebs.org/tg/post/88435130 (further information at https://pastebin.com/27Pruk8a)
 Kazuma Oomori VN "Charlatan": https://archive.4plebs.org/tg/post/88669394 (further information at https://rentry.org/otbq4)
-Kester Greenfield: https://desuarchive.org/tg/post/90921671/
+Kester Greenfield: https://archive.4plebs.org/tg/post/90921671/
 >Vigilantes
 Helene Lysingen VN "Noctiluca": https://archive.4plebs.org/tg/post/88197005
 Takigawa Shion VN "Shapeless Blade: Aquarius": https://archive.4plebs.org/tg/post/88209069 (further information at https://controlc.com/9427985f)
@@ -188,12 +188,12 @@ Maddie Griffiths VN "Mad Oxe"/"Maddox": https://archive.4plebs.org/tg/post/88930
 Eugene Kurtz VN "Pax": https://archive.4plebs.org/tg/post/88984432
 "Mercy": https://archive.4plebs.org/tg/post/88984432
 >Europe
-Ivan Trup VN The Prophet: https://desuarchive.org/tg/post/91702348/
-Ryuji Ayanokoji VN Overlord: https://desuarchive.org/tg/post/91702476/
-Jack Smithee VN The Gravedigger: https://desuarchive.org/tg/post/91702656/
-Zyra Mein VN Braindrain: https://desuarchive.org/tg/post/91702779/
-Rudi Brandt VN Sturmtruppe: https://desuarchive.org/tg/post/91703057/
-Bonzo Amato VN The Boss: https://desuarchive.org/tg/post/91703456/
+Ivan Trup VN The Prophet: https://archive.4plebs.org/tg/post/91702348/
+Ryuji Ayanokoji VN Overlord: https://archive.4plebs.org/tg/post/91702476/
+Jack Smithee VN The Gravedigger: https://archive.4plebs.org/tg/post/91702656/
+Zyra Mein VN Braindrain: https://archive.4plebs.org/tg/post/91702779/
+Rudi Brandt VN Sturmtruppe: https://archive.4plebs.org/tg/post/91703057/
+Bonzo Amato VN The Boss: https://archive.4plebs.org/tg/post/91703456/
 >Unaffiliated
 Bruno Garcia VN "Mauler": https://archive.4plebs.org/tg/post/88206714
 Nakata Yumiko VN "Thrill Seeking Thief: Walpurgis": https://archive.4plebs.org/tg/post/88195749 (further information at https://pastebin.com/nMZq81Jt)
@@ -216,8 +216,8 @@ Reika Umi: https://archive.4plebs.org/tg/post/91119597/
 Rui: https://archive.4plebs.org/tg/post/91197187/
 Kaori Kaoru: https://archive.4plebs.org/tg/post/91229075/
 Tomie: https://rentry.org/ddom6m82
-TechVision Elite 2023 - 43Vista UltraSmart 4K TV: https://desuarchive.org/tg/post/91654960/
-Suslik: https://desuarchive.org/tg/post/91699413/
+TechVision Elite 2023 - 43Vista UltraSmart 4K TV: https://archive.4plebs.org/tg/post/91654960/
+Suslik: https://archive.4plebs.org/tg/post/91699413/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -248,7 +248,7 @@ Samurai Haideraru VN "Rape Dwarf": https://archive.4plebs.org/tg/post/88458638
 "Spider Man": https://archive.4plebs.org/tg/post/88462539
 Todoroki Enji HN "Endeavor": https://archive.4plebs.org/tg/post/88927174
 Sara Torezo HN "Starshooter": https://archive.4plebs.org/tg/post/89029548
-Kuji Futoi: https://desuarchive.org/tg/post/91363451/
+Kuji Futoi: https://archive.4plebs.org/tg/post/91363451/
 
 ***
 
@@ -667,15 +667,15 @@ Class1D-005: https://archive.4plebs.org/tg/thread/91586719/#91591198
 1D Dance Team (Colorized): https://archive.4plebs.org/tg/thread/91595699/#91600316
 Shiketsu ED V0.2: https://archive.4plebs.org/tg/post/91610993/
 Kaylee embarrassed as she wins the beauty pageant / distant angry korean sounds: https://archive.4plebs.org/tg/post/91627063/
-least oppressed christian: https://desuarchive.org/tg/post/91654550/
-drekus: https://desuarchive.org/tg/post/91681250/
-hitomi hiromi(Feral): https://desuarchive.org/tg/post/91681260/
-sandatsu new costume: https://desuarchive.org/tg/post/91681266/
-Shower Ambush: https://desuarchive.org/tg/post/91703153/
-Free Amnesty: https://desuarchive.org/tg/post/91712723/
-Clueless Bird Teacher: https://desuarchive.org/tg/thread/91718089/#91723582
-Promiscuous Boy: https://desuarchive.org/tg/post/91730436/
-Toast Runs into You!: https://desuarchive.org/tg/post/91732937/
+least oppressed christian: https://archive.4plebs.org/tg/post/91654550/
+drekus: https://archive.4plebs.org/tg/post/91681250/
+hitomi hiromi(Feral): https://archive.4plebs.org/tg/post/91681260/
+sandatsu new costume: https://archive.4plebs.org/tg/post/91681266/
+Shower Ambush: https://archive.4plebs.org/tg/post/91703153/
+Free Amnesty: https://archive.4plebs.org/tg/post/91712723/
+Clueless Bird Teacher: https://archive.4plebs.org/tg/thread/91718089/#91723582
+Promiscuous Boy: https://archive.4plebs.org/tg/post/91730436/
+Toast Runs into You!: https://archive.4plebs.org/tg/post/91732937/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -712,11 +712,11 @@ Mio scolding Sandy: https://archive.4plebs.org/tg/post/89271894
 Explode: https://archive.4plebs.org/tg/post/89278521
 I Will Not Be The Bigger Person: https://archive.4plebs.org/tg/post/89278612
 MHA Sandatsu Artfag Chart: https://archive.4plebs.org/tg/thread/90944069/#90953673
-Declaration of war: https://desuarchive.org/tg/thread/91016517/#91017499
-Sandy & Mio Laughing: https://desuarchive.org/tg/post/91224363/
-Sandatsu & Mio Date: https://desuarchive.org/tg/thread/91595699/#91603225
-Confession: https://desuarchive.org/tg/post/91630760/
-do your best: https://desuarchive.org/tg/thread/91673568/#91676099
+Declaration of war: https://archive.4plebs.org/tg/thread/91016517/#91017499
+Sandy & Mio Laughing: https://archive.4plebs.org/tg/post/91224363/
+Sandatsu & Mio Date: https://archive.4plebs.org/tg/thread/91595699/#91603225
+Confession: https://archive.4plebs.org/tg/post/91630760/
+do your best: https://archive.4plebs.org/tg/thread/91673568/#91676099
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -737,7 +737,7 @@ Capture Cloth: https://archive.4plebs.org/tg/post/89402279
 Spark: https://archive.4plebs.org/tg/post/90018257
 Drone: https://archive.4plebs.org/tg/post/90953377
 Sandatsu Art: https://archive.4plebs.org/tg/post/91405875/
-excellence (Hailey): https://desuarchive.org/tg/post/91735347/Promiscuous Boy
+excellence (Hailey): https://archive.4plebs.org/tg/post/91735347/
 
 ***
 
@@ -1015,14 +1015,14 @@ Gossip 8: https://rentry.org/xqthh
 A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cloth, Bakeneneko, Mirror Devil, 1-D, Rosethorn, Desolator, Seiryu, Honoken): https://rentry.org/ondcwi
 Visiting an Old Friend (Yamamoto): https://rentry.org/cvwhb
 THE SECRET LIFE OF SANDATSU OWARI: https://rentry.org/2v4te
-A poem for Orochi: https://desuarchive.org/tg/post/91100938/
+A poem for Orochi: https://archive.4plebs.org/tg/post/91100938/
 Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan): https://rentry.org/oyfco
 Steam: https://rentry.org/rya79
 Mirror's Mentor (Mirror Devil, Smokin' Sexy): https://rentry.org/qycta
 Sticky Situation 2 (Umi, Yamata): https://rentry.org/2qnet
 The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose): https://rentry.org/the-world-is-yours
 Isekai 3.0?: https://rentry.org/zuq78
-1-C Seating Chart and Writefag: https://desuarchive.org/tg/thread/91122683/#91130426
+1-C Seating Chart and Writefag: https://archive.4plebs.org/tg/thread/91122683/#91130426
 Isekai 3.1: https://rentry.org/qd6pk
 Isekai (Inigo Side Story): https://rentry.org/abr3m
 Reaper Rising (Reaper, Drekus, Overdose): https://rentry.org/reaper-rising
@@ -1055,24 +1055,24 @@ Kaylee in Wonderland, Part Two!: https://rentry.org/69nav
 Merry Christmas! (Drone, Mirror Devil, Ryu-kishi): https://rentry.org/7vr2zf
 A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut): https://rentry.org/hwiz8
 Dinner For Three (Capture Cloth, Bakeneneko): https://rentry.org/adknw
-Brightly VS The Toy Army: https://desuarchive.org/tg/post/91361422/
+Brightly VS The Toy Army: https://archive.4plebs.org/tg/post/91361422/
 MHA 1.9999: Prose Edition: https://rentry.org/y9rfp
 The Other Side - A (108 Gang, Cameo of Orochi): https://rentry.org/6uvv5
 A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C): https://rentry.org/iyfm2
-Brightly Time Travel Prompt Adventure: https://desuarchive.org/tg/post/91441288/
+Brightly Time Travel Prompt Adventure: https://archive.4plebs.org/tg/post/91441288/
 Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn): https://rentry.org/nsno4
 Tooth And Claw(Saurus): https://rentry.org/qsrvx8
 Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy): https://rentry.org/acnw3
 1-D Character Summary: https://rentry.org/9bf3g
-Brightly Interview: https://desuarchive.org/tg/post/91503507/
-Cyber Bulling a Pro Hero (Rosethorn, Viperous Vexer): https://desuarchive.org/tg/post/91506924/
+Brightly Interview: https://archive.4plebs.org/tg/post/91503507/
+Cyber Bulling a Pro Hero (Rosethorn, Viperous Vexer): https://archive.4plebs.org/tg/post/91506924/
 The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang): https://rentry.org/pe93w
 The Other Side - C Part 2 (Arena, Orbit, Yamata): https://rentry.org/5oanb
 Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel): https://rentry.org/qgzqgfy8
-Brightly is Maidnapped: https://desuarchive.org/tg/post/91588066/
+Brightly is Maidnapped: https://archive.4plebs.org/tg/post/91588066/
 Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko): https://rentry.org/PopsyB
 "Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique): https://rentry.org/avuzhy6i
-Takashi's Dungeon (Brightly): https://desuarchive.org/tg/post/91626497/
+Takashi's Dungeon (Brightly): https://archive.4plebs.org/tg/post/91626497/
 Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver): https://rentry.org/z7w7e
 Orochi Wins (Orochi, Sandy, Mio): https://rentry.org/abuzhy7i
 The Leningrad Variation: https://rentry.org/mvtmnzy2

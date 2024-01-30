@@ -117,6 +117,7 @@ https://files.catbox.moe/xdmcjd.safetensors non_(z-art)
 https://files.catbox.moe/2cl9sq.safetensors tsukumizu_yuu
 https://files.catbox.moe/adligx.safetensors dratvan
 https://files.catbox.moe/pmv83f.safetensors poper
+https://files.catbox.moe/593c8m.safetensors nns
 
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
@@ -126,7 +127,7 @@ https://files.catbox.moe/b4wk0u.zip Megami_Magazine flat anime style
 https://files.catbox.moe/zxvyki.7z nyantcha
 https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
-https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980
+https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980,nns
 
 ###Characters
 
@@ -136,6 +137,7 @@ https://files.catbox.moe/9zcayd.safetensors character_matoba_risa helps to promp
 https://files.catbox.moe/djnlks.safetensors character_amy_sorel example prompt image here: https://files.catbox.moe/qymyf8.png, trigger is amy sorel, outfits are tagged as sc4 and sc6
 https://files.catbox.moe/xow8kx.safetensors character_maryjane Prompt is maryjane, though it works better if you prompt for other stuff as well. gradient hair, tentacle hair, head fins, fangs, long tongue, etc
 https://files.catbox.moe/ccbfrs.safetensors character_neopolitan_rwby activation seems to be neo_politan, example gen: https://files.catbox.moe/m77z3a.png
+https://files.catbox.moe/0fmlta.safetensors character_naoto_shirogane looks like Shirogane Naoto is the activation trigger, example prompt image: https://files.catbox.moe/hf88vs.png
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯
@@ -148,7 +150,7 @@ dd \(ijigendd\) (not sure if it actually matches the real artist)
 hara \(harayutaka\)
 hews
 boris \(noborhys\)
-m-da s-tarou (seems like loli, not my cup of tea)
+m-da s-tarou
 tsukishiro_saika
 tsukudani_(coke-buta) (strange behavior with hair)
 agawa_ryou (seems pretty faithful but lips are always really full)
@@ -295,10 +297,54 @@ Male Pokemon: https://files.catbox.moe/ka331j.txt
 Western Characters: https://files.catbox.moe/15bayo.txt
 More Western Characters: https://files.catbox.moe/bhjnpb.txt
 
-##LoRA training
-I'm currently running sdxl_train_network.py with the following settings to train on a 4090 using about 13.8 GB VRAM. This obviously isn't the only way to run it and maybe my settings could be improved, feel free to express your opinion in /hdg/. 
+##Tricks with the model for more anime style
+There's some evidence that the model has a bit of a bias towards western style art, particularly when using the score tags (it is made by furries after all). It might be beneficial to tag your image sets with the score tags, the laziest way would be to tag every image with score_9, source_anime, this may affect the overall "quality" of images the lora generates since some of the knowledge in the model about "high quality" might be overwritten but it will look more like the artist's style. 
 
-UPDATE 1/26/2024 The below settings are generally for training styles. When training characters I've been having better success with --network_alpha set to up to half of the --network_dim, so in the case of the below settings I'm also using --network alpha set to 32 when making character LoRAs. I haven't really done any comprehensive testing with it I just was having more difficulty with characters (mostly looking flanderized or exaggerated caricatures of themselves) and that seemed to help. Maybe someone can do a more thorough investigation on the topic. It might be that other optimizers would be better for characters.
+You can also help nudge generations with the model more towards anime style by using "source_cartoon, source_furry, source_pony, sketch, painting, monochrome" in the negative prompt when generating images. Some of the artists with more subtle art styles tend to have more success with this in my experience. The bias is a bit less evident in the lower scores so if a LoRA has it's images tagged with score_9 a prompt like "source_anime, score_9, score_6_up, score_5_up, score_4_up" might get better results. Unfortunately this also makes your LoRA harder to use, you'd have to tell people to use it this way.
+
+Other tricks tried were to include all the score tags in the LoRA's training set on every image which didn't have much success or only using the source_anime tag which also didn't seem to influence the LoRA's effectiveness much. I haven't tried actually using the score tags as intended since that takes more effort than I'm willing to put in for a LoRA for the time being but that may net the best results.
+
+##LoRA Training Update 1/30/2024
+I've been messing around with Lycoris locon, which needs inputs for conv network rank and alpha which I generally saw recommendations to set it to the network rank and alpha of the model (and to not exceed 64). Not sure how easy it is to use with the UI frontends but here's what the commandline looks like for kohya-ss. As always any criticism is welcome on /hdg/ I've actually gotten some good feedback on there.
+
+ --network_module = networks.lora
+ --train_data_dir = "$IMAGES_PATH$"
+ --output_dir = "$OUTPUT_FOLDER$"
+ --output_name = "$LORA_NAME$"
+ --pretrained_model_name_or_path = "$PATH_TO_PONYXL_CHECKPOINT$"
+ --max_train_epochs = $NUMBER_EPOCHS$
+ --train_batch_size = 12
+ --resolution = "1024,1024"
+ --save_every_n_epochs = 1
+ --save_last_n_epochs = 999
+ --learning_rate = 1
+ --lr_scheduler = cosine
+ --lr_warmup_steps = 0
+ --network_dim = $NETWORK_RANK$
+ --network_alpha = $NETWORK_ALPHA$
+ --seed = 1056283418
+ --keep_tokens = 0
+ --gradient_checkpointing
+ --max_data_loader_n_workers = 16
+ --mixed_precision = bf16
+ --save_precision = bf16
+ --network_module = lycoris.kohya
+ --network_args "preset = unet-transformer-only" "conv_dim = $NETWORK_RANK$" "conv_alpha = $NETWORK_ALPHA$" "algo = locon"
+ --optimizer_type = "prodigy"
+ --optimizer_args "decouple = True" "weight_decay = 0.01" "d_coef = 0.8" "use_bias_correction = True" "safeguard_warmup = False" "betas = 0.9,0.99"
+ --caption_extension = ".txt"
+ --prior_loss_weight = 1
+ --cache_latents
+ --cache_latents_to_disk
+ --xformers
+ --save_model_as = safetensors
+ --enable_bucket
+ --min_bucket_reso = 512
+ --max_bucket_reso = 2048
+ --bucket_reso_steps = 256
+
+##Old LoRA training settings
+These are my old LoRA training settings with prodigy, didn't really have any major issues with it, keeping it around for reference.
 
  --network_module = networks.lora
  --train_data_dir = "$IMAGES_PATH$"
@@ -334,10 +380,3 @@ UPDATE 1/26/2024 The below settings are generally for training styles. When trai
  --cache_latents_to_disk
  --network_train_unet_only
  --cache_text_encoder_outputs
-
-##Tricks with the model for more anime style
-There's some evidence that the model has a bit of a bias towards western style art, particularly when using the score tags (it is made by furries after all). It might be beneficial to tag your image sets with the score tags, the laziest way would be to tag every image with score_9, source_anime, this may affect the overall "quality" of images the lora generates since some of the knowledge in the model about "high quality" might be overwritten but it will look more like the artist's style. 
-
-You can also help nudge generations with the model more towards anime style by using "source_cartoon, source_furry, source_pony, sketch, painting, monochrome" in the negative prompt when generating images. Some of the artists with more subtle art styles tend to have more success with this in my experience. The bias is a bit less evident in the lower scores so if a LoRA has it's images tagged with score_9 a prompt like "source_anime, score_9, score_6_up, score_5_up, score_4_up" might get better results. Unfortunately this also makes your LoRA harder to use, you'd have to tell people to use it this way.
-
-Other tricks tried were to include all the score tags in the LoRA's training set on every image which didn't have much success or only using the source_anime tag which also didn't seem to influence the LoRA's effectiveness much. I haven't tried actually using the score tags as intended since that takes more effort than I'm willing to put in for a LoRA for the time being but that may net the best results.

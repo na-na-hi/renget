@@ -1,7 +1,7 @@
 -> [Main page](https://rentry.org/CharacterProvider) <- | -> [Claude Prompts](#choose-your-claude-prompt) <- | -> [GPT Prompts](#choose-your-gpt-prompt) <- |-> [My characters](#my-characters) <- | -> [Botmaking guide](https://rentry.co/CharacterProvider-GuideToBotmaking) <- | -> [FAQ](#faq) <- |  -> [Other Rentries](#board-of-fame) <- |  -> [Pozzed Key Fix](#dealing-with-a-pozzed-key) <-
  | | | | | | | 
 
--> ![](https://files.catbox.moe/key7pv.png)  <-
+-> [![](https://files.catbox.moe/mcf20t.png)](https://www.chub.ai/users/CharacterProvider)  <-
 ##->  XMLK's Cozy Corner <-
 -> 🔞SillyTavern enthusiast, Claude enjoyer, GPT struggler <-
 
@@ -44,7 +44,7 @@
 ######
 ## Notice Board
 ##### Latest Character
-[![](https://files.catbox.moe/o1nm1k.png)](https://www.chub.ai/characters/CharacterProvider/dr-nyako-f172a372)
+[![](https://files.catbox.moe/j19fxv.png)](https://www.chub.ai/characters/CharacterProvider/dr-nyako-f172a372)
 ![](https://files.catbox.moe/evtd14.png)
 **Dr. Nyako's lab** [Chub Character Page >](https://www.chub.ai/characters/CharacterProvider/dr-nyako-f172a372)
 The mad loli catgirl scientist with a personal lab complex operated by her clones, wild experiments, and wicked creatures. Two starts: Presentation Room (new invention), Main Hall (subject escape). Intended only for SillyTavern. Tested with GPT 4 32k and 4urbo. GPT-4-32K-0613. If the music annoys you, you can delete it from the initial messages (it's hidden under the details tag, or you can erase 'loop' and 'autoplay')
@@ -108,6 +108,8 @@ Page | Description
 > **Important notice:** If you're new around here, I recommend you ask other anons for my modified prompts before using "clear" ones. My prompts are experimental. The best practice is to search for the prompts of various people and make your own. Most people who enjoy my (or any other prompts) use the premade prompts as a base. You still need a good character card thogh.
 
 ##### Will You Enjoy These Prompts?
+
+!!! I recommend you using these prompts as universal prompts for ADVENTURES. You will get a decent result on any card, but if you want the best output, I'd advice you make your own card with good definitions, minimize the JB, and create the initial message that would jumpstart the roleplay from the start. I will be updating my [botmaker guide](https://rentry.co/CharacterProvider-GuideToBotmaking) so stay tuned. I've created a [template](https://rentry.org/CharacterProvider-CharTemplate) for character cards, but I will combine these two pages later.
 
 If you like cringe and ecchi anime, then - yes. If you want a complex and serious narrative, you should modify my prompts or use another one. Anyway, you will find a lot of useful stuff on this page.
 

@@ -272,6 +272,7 @@
 01/2024|[Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data](https://arxiv.org/abs/2401.10891)
 01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
 01/2024|[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196)
+01/2024|[MoE-LLaVA: Mixture of Experts for Large Vision-Language Models](https://arxiv.org/abs/2401.15947)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -524,6 +525,7 @@
 01/2024|[Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities](https://arxiv.org/abs/2401.14405)
 01/2024|[EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)
 01/2024|[With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation (Temp LoRA)](https://arxiv.org/abs/2401.11504)
+01/2024|[YODA: Teacher-Student Progressive Learning for Language Models](https://arxiv.org/abs/2401.15670)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

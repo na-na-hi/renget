@@ -56,7 +56,8 @@ You can always switch emulators if nothing works.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
 ## (Re)rolling
-**Spend *all* your rolls after the first mission. After that you can reroll.**
+For Selective Recruitment: **save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
+**Spend *all* your rolls after the first mission. After that you can.**
 Make sure to claim stuff from missions and your mailbox too. 
 
 I'd advice you to do the same even if you don't reroll, just so you have something to work with. 

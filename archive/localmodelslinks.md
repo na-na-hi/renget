@@ -63,7 +63,6 @@
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
-[AQLM](https://github.com/vahe1994/AQLM)|2/3/4bit weight additive quantization with lower perplexity compared to QuIP#/GPTQ/SpQR
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
 [ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for llama2 with better results than WANDA or SparseGPT
 [SliceGPT](https://github.com/microsoft/TransformerCompression)|Sparsification scheme which replaces each weight matrix with a smaller (dense) matrix
