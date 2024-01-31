@@ -1,5 +1,5 @@
-# ->List of Anon-Made AISEKAI Characters<- 
-#####【& Yodayo】
+# ->List of Anon-Made Yodayo Characters<- 
+#####【mostly AI•SEKAI, while they're available】
 !!! note New Additions
 Update | ⠀⠀⠀⠀⠀⠀Characters⠀⠀⠀⠀⠀⠀
 :------: | :------:

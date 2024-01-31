@@ -2,11 +2,11 @@
 
 # current links
 
-## [instructions](https://wrapped-fever-virginia-choose.trycloudflare.com)
+## [instructions](https://achieve-cgi-stack-scored.trycloudflare.com)
 
 ## proxy url
 ```
-https://wrapped-fever-virginia-choose.trycloudflare.com/v1
+https://achieve-cgi-stack-scored.trycloudflare.com/v1
 ```
 
 ## password

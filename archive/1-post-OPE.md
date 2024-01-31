@@ -15,7 +15,8 @@ Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololi
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Streams
-Next stream: Stardew Valley (Wed 01/31 1PM CT)
+Next stream (Stardew Valley, Wed 01/31 1PM CT)
+https://www.youtube.com/watch?v=0m-QTagWa3I
 Last stream (Gartic Phone Advent collab)
 https://www.youtube.com/watch?v=VtE3R1aESA8
 Last member stream (zatsudan & ASMR)

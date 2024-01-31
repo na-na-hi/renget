@@ -65,19 +65,11 @@
 - 当要转折或代替角色行动时，建议你的角色输出后换行（shift+enter）两次后再描述。
 - 某些XML tags可以截断claude的输出，例如<META>和<EOT>等，claude在输出这些tags时输出会被立即截断。
 
-##自用预设 V4.2：
+##自用预设 V4.x：
 !!! info [版本说明与历史破限](https://rentry.org/teralomaniac_jb_history)
-> clewd4.6(12)以及酒馆1.10.7以上专用，使用前建议首先[**阅读说明**](https://rentry.org/teralomaniac_jb_history#v4-%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E)
-!!! info 预设下载：[V4.2](https://files.catbox.moe/ebnq1i.json)
->
-> 全局世界书激活：[xmlPlot.json 1.0.6](https://files.catbox.moe/hw4rem.json)（自带DLC，随机事件需要手动开关，其余为自适应，使用参考笔记）
-
-##测试预设 V4.3：
-> 最新测试预设：[4.3betaX](https://discord.com/channels/1134557553011998840/1185059580552675378) （[类脑Discord频道](https://discord.com/invite/B7Wr25Z7BZ)）
+> 最新测试/正式版预设：[V4.x](https://discord.com/channels/1134557553011998840/1185059580552675378) （[类脑Discord频道](https://discord.com/invite/B7Wr25Z7BZ)）
 > 
 > [Risu预设4.0beta1](https://files.catbox.moe/mb1dro.json) Risu可以不用最新的clewd，但由于NSFW和越狱只有一个开关，所以NSFW没有写入，如需要推荐自行写在你的personal里面
->
-> 全局世界书激活：[xmlPlot.json 1.0.6](https://files.catbox.moe/hw4rem.json)（自带DLC）
 
 ##可选插件DLC：
 !!! info 以下文字版更新较慢，如需最新版下载自用预设中的全局世界书

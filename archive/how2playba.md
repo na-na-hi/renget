@@ -1,6 +1,9 @@
 # /bag/ Newfag guide
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 
+
+https://rentry.org/s2kng54y use this for the event minigame
+
 Scroll to the bottom for my last edit date. This guide is not outdated.
 
 [TOC] 

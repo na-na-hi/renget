@@ -549,6 +549,22 @@ What you'll notice is that the echoed value will always be the same, even if you
 ```
 Then it'll work perfectly fine.
 
+All in all, the two functions would look something like this:
+```
+#the startup function
+/setvar key=swipe_id {{currentSwipeId}} |
+/while guard=off left=1 rule=eq right=1 "/run TestPreset.idleCheck \| /sleep 1000"
+
+#the other function called idleCheck
+/getvar swipe_id |
+/if left={{pipe}} rule=neq right={{currentSwipeId}}
+	"
+	/setvar key=swipe_id \{\{currentSwipeId\}\} \|
+	/echo hey
+	"
+```
+Whenever you swipe an AI's message, you'll see the message "hey" getting echoed. You can substitute the echo for generating and sending a message. Of course this script doesn't take into account the user or AI sending a message, or stuff like a new conversation being started. But it would only take a bunch more chained `/if` commands to check all that.
+
 Next up, we can try and do something with swipes. We have the `{{currentSwipeId}}` macro that we can first store, and then on each loop check if its value changed from the one we stored - meaning that the user swiped. There is some more nuance to this, such as having to check if the AI sent the last message, or if the swipe number changes because a new message is being added, etc. This is what I meant earlier by having to be clever when designing these systems. But with all that taken into account, we should be able to detect a new swipe being added and similarly to the idle duration overstepping, use an injection or send a custom generated message having the AI react to the user's actions.
 
 Editing the AI's message without swiping is kinda similar, but using the `{{lastMessage}}` macro instead. What would be really neat is if you could use the `{{input}}` macro to get the text the user is typing up currently and have the AI react to it even before the user sends it BUT this is pretty dangerous. For multiple reasons. Right now it causes the system to freeze and I'm not really sure why this happens. Weird. You could maybe theoretically write a function to trim slashes or escape the command, or do some other kind of validation, but I couldn't get it to work properly. Whatever you do, DO NOT add a startup script that parses `{{input}}`, or else you'll brick SillyTaver indefinitely. If you do that, go to the `/SillyTavern/public/QuickReplies` folder and edit the preset file to erase the function body.

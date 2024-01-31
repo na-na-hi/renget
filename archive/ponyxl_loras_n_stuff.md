@@ -103,6 +103,7 @@ https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
 https://files.catbox.moe/cd6exz.safetensors andava
 https://files.catbox.moe/j10wt5.safetensors source_filmmaker
 https://files.catbox.moe/o1fmsv.safetensors namako_daibakuhatsu
+https://files.catbox.moe/800fnr.safetensors ishikei you can maybe put source_anime in the positive prompt to make it look more like his old art but as far as i can tell that just happens no matter what
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -139,7 +140,8 @@ https://files.catbox.moe/xow8kx.safetensors character_maryjane Prompt is maryjan
 https://files.catbox.moe/ccbfrs.safetensors character_neopolitan_rwby activation seems to be neo_politan, example gen: https://files.catbox.moe/m77z3a.png
 https://files.catbox.moe/0fmlta.safetensors character_naoto_shirogane looks like Shirogane Naoto is the activation trigger, example prompt image: https://files.catbox.moe/hf88vs.png
 https://files.catbox.moe/vsky78.safetensors character_shinobu_jackobs example prompt image: https://files.catbox.moe/jale97.png, activation trigger is shinobu jackobs
-
+https://files.catbox.moe/z8j9aq.safetensors character_roll_exe
+https://files.catbox.moe/ifr6a5.safetensors character_mayl_sakurai activation trigger is maylsakurai, can also prompt for the following 'blue vest', 'green sleeves', 'pink skirt', 'black thighhighs', 'hair ornament'
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯
 

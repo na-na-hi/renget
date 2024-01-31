@@ -20,7 +20,7 @@ Use cases:
 
 `[ Style: senses, visceral, descriptive ]`  
 A way of getting the AI to be descriptive. Using `[ Style: ]`.  
-You can sort of guide the prose style with this one. Its effect is based on what you put in it. But... it really depends. _Most_ of the time, you can't abruptly change how the AI write, as Storytext matter far more—So, think this as an 'blunt' way of doing it. You don't have as much control as writing/shaping the prose yourself. But it's convenient enough.
+You can sort of guide the prose style with this one. Its effect is based on what you put in it. But... it really depends. _Most_ of the time, you can't abruptly change how the AI write, as Storytext matter far more—So, think of this as a 'blunt' way of doing it. You don't have as much control as writing/shaping the prose yourself. But it's convenient enough.
 It can also help the AI 'get' what style you're going for, like `[ Style: stirring, visual-colors-objects-garments-details, eye-catching, raw, concrete ]`
 
 `[ Knowledge: being mind-controlled; Style: scene, simple ]`
@@ -68,5 +68,5 @@ But if you keep the AN short enough, it shouldn't be too much of a problem. Just
 Just remember to remove it if you don't need it or if the state of your story had changed. Don't write instruction here, or low-effort text that looked nothing like your prose. (Which is quite common mistake if I have to say.)
 Other examples: `Something was wrong.`, lastly: `He screamed. In horror, in shock, in pain, in sheer bewilderment.`
 
--> Credit: Zaltys, Basileus, Magenta.Darkstar ->
+-> Credit: Anons && Zaltys, Basileus, Magenta.Darkstar ->
 [comment]: <> (SUPPORT-RENTRY-PATREON)

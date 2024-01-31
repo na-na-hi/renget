@@ -2,4 +2,4 @@
 ![](https://media.discordapp.net/attachments/999986008307269732/1200920525459947561/IMG_0525.png?ex=65c7ef65&is=65b57a65&hm=1360fa89da57ea32cbc0189678dd2cb8676fe14065c09d68fdce7842d7f705eb&)
 **do not interact !!**: basic dni criteria (racist, homophobic etc), comshippers/proshippers, neopronoun & xenogender antis, if u sexualise minors fictional or not, u use slurs u cant reclaim, anyone whos problematic in any way <-
 
--> [**`go back?`**](https://rentry.co/sillystan) ![](https://media.discordapp.net/attachments/999986008307269732/1200913147108790372/IMG_0514.gif?ex=65c7e886&is=65b57386&hm=f89d9eaa908b806370d551993d5aa16b69bc2639447470f523396782a38f94a1&) <-
+-> [**`go back?`**](https://rentry.co/badwoIfbay) ![](https://media.discordapp.net/attachments/999986008307269732/1200913147108790372/IMG_0514.gif?ex=65c7e886&is=65b57386&hm=f89d9eaa908b806370d551993d5aa16b69bc2639447470f523396782a38f94a1&) <-

@@ -109,7 +109,7 @@ Page | Description
 
 ##### Will You Enjoy These Prompts?
 
-!!! I recommend you using these prompts as universal prompts for ADVENTURES. You will get a decent result on any card, but if you want the best output, I'd advice you make your own card with good definitions, minimize the JB, and create the initial message that would jumpstart the roleplay from the start. I will be updating my [botmaker guide](https://rentry.co/CharacterProvider-GuideToBotmaking) so stay tuned. I've created a [template](https://rentry.org/CharacterProvider-CharTemplate) for character cards, but I will combine these two pages later.
+!!! I recommend you using these prompts as universal prompts for ADVENTURES. They heavily affect the output. You will get a decent result on any card, but if you want the best output, I'd advice you make your own card with good definitions, minimize the JB, and create the initial message that would jumpstart the roleplay from the start. I will be updating my [botmaker guide](https://rentry.co/CharacterProvider-GuideToBotmaking) so stay tuned. I've created a [template](https://rentry.org/CharacterProvider-CharTemplate) for character cards, but I will combine these two pages later.
 
 If you like cringe and ecchi anime, then - yes. If you want a complex and serious narrative, you should modify my prompts or use another one. Anyway, you will find a lot of useful stuff on this page.
 

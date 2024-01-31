@@ -22,6 +22,12 @@
   3. 如果不知道如何自定义，可以常数打开Generate main 生成主提示，并发送空消息，生成的重要提示选择性放入角色卡主提示和越狱中，并在最开始加上{{original}}
 !!! 确保日志/对话记录中没有`<@1>`、`<@2>`、`<|curtail|>`等过程标签，过程标签的作用详见 [xmlPlot功能说明](https://rentry.org/teralomaniac_clewd_ReleaseNotes#clewd-46%E4%BF%AE%E6%94%B9%E7%89%88)
 
+##自用预设 V4.2
+> clewd4.6(12)以及酒馆1.10.7以上专用，使用前建议首先[**阅读说明**](https://rentry.org/teralomaniac_jb_history#v4-%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E)
+!!! info 预设下载：[V4.2](https://files.catbox.moe/ebnq1i.json)
+>
+> 全局世界书激活：[xmlPlot.json 1.0.6](https://files.catbox.moe/hw4rem.json)（自带DLC，随机事件需要手动开关，其余为自适应，使用参考笔记）
+
 ##自用预设 V4.1
 > clewd 4.6(7)/PreOC以及酒馆1.10.7以上专用
 !!! info 预设下载：[V4.1 hotfix](https://files.catbox.moe/wlotaw.json)
