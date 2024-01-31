@@ -1,18 +1,20 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2024-01-03)==<-
+->==(Updated 2024-01-29)==<-
 ***
 [TOC2]
 ***
 ## [/g/aicg/](https://boards.4channel.org/g/catalog#s=aicg)
 - https://rentry.org/cai-list - large list of bots and botmakers; cai and rentries with cards; tools and manuals; `current`
-- https://rentry.org/charcardrentrylist - large list of botmakers; rentries with cai and cards; `current`
 - https://rentry.org/aicgthemedweeks - large list of bots; cards only; themed bots from the botmaking events; `current`
 - https://chatbots.neocities.org - small list of botmakers; websites with cards; `current`
 - https://rentry.org/fulminarerebuild - small list of bots; themed bots from a worldbuilding project; `current`
-- https://rentry.org/botmakersecretsanta - small list of bots; themed bots from a botmaking event; `current`
 - https://rentry.org/fluffytails - small list of bots; cards only; themed bots; `current`
+[](- https://rentry.org/secretvalentines2024 - small list of bots; themed bots from a botmaking event; `current`)
+- https://rentry.org/flatchestrecommendations - small list of bots; cards only; themed bots; `current`
 - https://rentry.org/dividedskies - small list of bots; themed bots from a worldbuilding project; *deprecated*
 - https://rentry.org/crimsonfuture - small list of bots; themed bots from a worldbuilding project; *deprecated*
+- https://rentry.org/botmakersecretsanta - small list of bots; themed bots from a botmaking event; *deprecated*
+- https://rentry.org/charcardrentrylist - large list of botmakers; rentries with cai and cards; *deprecated*
 - https://rentry.org/charai-bots - large list of bots and botmakers; cai only; manuals; *deprecated*
 - https://rentry.org/tavern_export - large list of bots; cards only; a mirror of booru\.plus on 2023-03-11; *deprecated*
 - https://rentry.org/mikugg - small list of bots; miku\.gg only; *deprecated*

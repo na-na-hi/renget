@@ -10,5 +10,7 @@ VERY bloated (probably 1k+ tokens), opinionated, personal preset for gpt-4-0125-
 - It was originally made for gpt-4-1106-preview.
 - I've used/taken inspiration from other JBs and prompt snippets shared on /aicg/. Thanks.
 - Gaslight and system_notice are optional but recommended to keep on.
+- There's a writing length randomizer at the very end of the writing_instructions section. If you don't like the response lengths you get, alter or remove it.
 
 edit:minor mistake fixed
+edit2:info about response length

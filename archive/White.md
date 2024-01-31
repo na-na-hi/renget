@@ -1,0 +1,7 @@
+->%#696969%morte， luciel，or  cielomort
+14 **none** or he asian (filipino) 5w4 infj%%<-
+
+***
+->[%#cad9c1% mui imgs%%](https://rentry.co/romancia)
+[%#cad9c1% credits%%](https://rentry.co/memoire)
+[%#cad9c1%extended info%%](https://rentry.co/marionetto)<-

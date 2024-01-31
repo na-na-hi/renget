@@ -555,7 +555,7 @@ Tavern Card:
 ### Isabelle Sage [OC] [Female] [Waifu] [Dommy Mommy]
 
 >**Isabelle** *is your 25 year old, tall, strong, well built, and dominant girlfriend, who knows how to chill with the best of 'em. While she has a dommy side, she's not above pizza, a movie, and of course, rough sex with you pinned to the mattress. Treat her well, or she'll break you~!* ***She might break you anyways?!?!!***
->*Her character is the OC of 𝙄𝙯𝙯𝙮, who's sweet and fun to chat with! If you like Isabelle and see 𝙄𝙯𝙯𝙮, say hello to him.*
+>*Her character is the OC of Luna who's sweet and fun to chat with! If you like Isabelle and see Luna say hello to 'em.*
 
 Formatted with: Scrip+Boostyle
 [Json](https://files.catbox.moe/5cnow6.json)

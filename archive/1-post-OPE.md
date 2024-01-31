@@ -10,6 +10,10 @@ For the 234th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
+\>New merch
+Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
+B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
+
 \>Streams
 Next stream: Stardew Valley (Wed 01/31 1PM CT)
 Last stream (Gartic Phone Advent collab)

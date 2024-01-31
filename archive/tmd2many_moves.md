@@ -224,7 +224,7 @@ Fury Cutter | 4 BP | 6 AP | ≥2 | Bug | Physical | Each consecutive use, BP is 
 **Fury Swipes** | 1D10 | 6 AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 Fusion Bolt | 10 BP | 8 AP | ≥2 | Electric | Physical | If Fusion Flare was used last round, damage is increased by 10.
 Fusion Flare | 10 BP | 8 AP | ≥2 | Fire | Physical | If Fusion Bolt was used last round, damage is increased by 10.
-Future Sight | 11 BP | 7 AP | ≥2 | Psychic | Special | The Opponent is afflicted with *Unremitted*.
+Future Sight | 12 BP | 7 AP | ≥2 | Psychic | Special | The Opponent is afflicted with *Unremitted*.
 Gear Grind | 5 BP | 7 AP | ≥4 | Steel | Physical | Hits twice. 
 Giga Drain | 7 BP | 6 AP | ≥2 | Grass | Special | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed.
 Giga Impact | 15 BP | 8 AP | ≥3 | Normal | Physical | The User is afflicted with *Recharging*.
