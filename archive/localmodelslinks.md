@@ -82,8 +82,7 @@
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
 [llama_index](https://github.com/jerryjliu/llama_index)|Central interface to connect LLM's with external data
 [llama-hub](https://github.com/emptycrown/llama-hub)|Simple library of all the data loaders/readers for llama index/langchain
-[LMQL](https://github.com/eth-sri/lmql)|Query language for programming LLMs
-[Guidance](https://github.com/microsoft/guidance)|Prompting tool based on handlebar templates by Microsoft 
+[SGLang](https://github.com/sgl-project/sglang)|Structured generation language designed for LLM/VLMs
 [DSPy](https://github.com/stanfordnlp/dspy)|Composable and declarative modules for instructing LMs in a familiar Pythonic syntax
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge editing framework for LLMs
 |
@@ -111,7 +110,7 @@
 [Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
-[CogVLM/Agent](https://github.com/THUDM/CogVLM)|Visual language model with GUI understanding for agent capabilities
+[LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution 
 [AutoACT](https://github.com/zjunlp/AutoAct)|Automatic agent learning framework using a division-of-labor strategy
 [LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 

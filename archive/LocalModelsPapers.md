@@ -548,3 +548,4 @@
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
 12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)
 12/2023|[HuggingFace - Mixture of Experts Explained](https://archive.is/8r7t9)
+01/2024|[Haotian Liu - LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://archive.is/WMr0Z)

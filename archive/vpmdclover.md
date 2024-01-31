@@ -51,8 +51,9 @@ Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmd
 Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrianennyvileplumebellossom)
 Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#jungsara)
 Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
-??? | M | Wimpod | N/A | Clover Guild Member | [???]
+??? | M | Wimpod | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#wimpod)
 Error | M | Iron Valiant | Rotom (M, Quirky, Native?) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#error)
+Rain | F | Eevee | Corvisquire (?,?,?) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#rain)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
@@ -73,10 +74,7 @@ Sentret | M | Sentret | N/A | Clover Guild Member | [???](https://rentry.org/vpm
 Adelaid | F | Voltorb | Drowzee (Dahpi, M, Native)| Rescue Team | [???](https://rentry.org/vpmdcloverpb#adelaiddahpi)
 Avalon "Ava" | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Careful](https://rentry.org/vpmdcloverpb#sotto)
-N/A | M | Bagon | Lurantis (Orchid, M, Serious, Native, Outsider) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#bagonorchid)
-Concord | M | Nickit | N/A | Clover Guild Affiliated Explorer | [Quiet](https://rentry.org/vpmdcloverpb#concord)
-Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#nigel)
-??? | ? | Psyduck | ??? | Clover Guild Member |  [???](https://rentry.org/vpmdcloverpb#psyduck)
+
 
 [Proposed Characters Table](https://rentry.org/pmdg_clover_proposed)
 [Minor Characters (NPCs) Table](https://rentry.org/pmdg_clover_minor)
@@ -187,7 +185,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu) **Non-Canon Story**
 	* [Under Watchful Eyes (ft. Clara)](https://rentry.org/UWED0) **Non-Canon Story**
-    * [The Greatest Human Hunter](https://rentry.org/hunt3r)
+    * [The Greatest Human Hunter (ft. Weezil & Morgel)](https://rentry.org/hunt3r)
 * Debby the Delibird
 	* [Debby's Introduction](https://arch.b4k.co/vp/thread/53493839/#53498117)
 	* [Orientation Day (ft. Debby)](https://rentry.org/dyxrn)
@@ -295,6 +293,8 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * Porygon
 	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld)
 	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail) **Non-Canon Story**
+* Rain the Eevee
+	* [Rain Prologue](https://rentry.co/ww6axip9)
 * Rasmus the Spinarak
     * [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
 * Ross the Smeargle
@@ -494,7 +494,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [Sterling's Purpose ch. 2](https://rentry.org/fau75)
 * [Grandma's Cookies](https://rentry.org/o4cme)
 * [Sterling's Purpose ch. 3](https://rentry.org/kcqy3)
-* [The Greatest Human Hunter](https://rentry.org/hunt3r)
+* [The Greatest Human Hunter (ft. Weezil & Morgel)](https://rentry.org/hunt3r)
 * [Sterling's Purpose ch. 4](https://rentry.org/bdc4o)
 * [Buckle Up pt.3 (ft. Booker)](https://rentry.org/RibombeeBuckler3)
 * [Sterling's Purpose ch. 5](https://rentry.org/m36g2z)
@@ -572,6 +572,7 @@ Nigel | M | Absol | ??? | Clover Guild Member | [Timid](https://rentry.org/vpmdc
 * [I am Error pt. 2](https://rentry.org/ironvaliant2)
 * [I am Error pt. 3](https://rentry.org/ironvaliant3)
 * [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
+* [Rain Prologue](https://rentry.co/ww6axip9)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

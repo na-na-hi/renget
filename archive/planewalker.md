@@ -400,11 +400,11 @@ Rue | Info
 Finn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/5hsk9o.png)   | Strange creatures have been prowling the streets lately, attacking anyone who comes across them. Things look grim, but a boy has been sending out radio and TV signals saying that he's turned the old broadcasting station on the edge of town into a safehaven. But he seems to be capable of more than he lets on. Comes with three greetings, inspired by [Colorbars](https://www.youtube.com/watch?v=hVPff92tkBE)
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/finn-bd59a704),  [Catbox](https://files.catbox.moe/2wbh05.png), [Alt gens](https://catbox.moe/c/txrjpv
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/finn-bd59a704),  [Catbox](https://files.catbox.moe/2wbh05.png), [Alt gens](https://catbox.moe/c/txrjpv)
 
 Red | Info
 :----:  | :----: 
-![](https://files.catbox.moe/5hsk9o.png)   | Otherworldly beasts lurk in the forest near the village, and a lone young man has taken it upon himself to hunt them down after the death of his grandmother. With a rifle and inhuman abilities he's not sure how he got, Red patrols the woods every night to keep the things within from escaping. Comes with three greetings
+![](https://files.catbox.moe/mpc5vl.png)   | Otherworldly beasts lurk in the forest near the village, and a lone young man has taken it upon himself to hunt them down after the death of his grandmother. With a rifle and inhuman abilities he's not sure how he got, Red patrols the woods every night to keep the things within from escaping. Comes with three greetings
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/red-69957f8d),  [Catbox](https://files.catbox.moe/4a9j98.png), [Alt gens](https://catbox.moe/c/1mp726)
 
 Taylor | Info

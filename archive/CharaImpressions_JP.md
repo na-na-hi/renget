@@ -1,6 +1,8 @@
 # JP character impressions (We're back)
+**Elemental thoughts will be written retroactively, so don't be surprised if previous/new entries of older units get updated/added.**
+****
 
-Just some thoughts on newly released units since P.Inori (all thoughts were written either right after their 1st CB or on release.)
+
 [TOC2]
 
 ### ->Phantom Thief Inori ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-
@@ -1322,4 +1324,27 @@ Cons:
 - Offers no shields
 - No M.Crit buffs (M.Crit chance or M.Crit Dmg)
 - TP restoration is only to 1 character
-- No debuffs to enemies (M.Def shred, M/P Def reduction, M.Crit dmg taken increase )
+- No debuffs to enemies (M.Def shred, M/P Def reduction, M.Crit dmg taken increase)
+
+### ->Astral Rei ![Wind](https://pomf2.lain.la/f/g6t6tuqp.png)<-
+**TBD**
+
+-> ![Ast.Rei](https://redive.estertion.win/card/full/128831.webp)<-
+
+Pros:
+- TBD
+
+Cons:
+- TBD
+
+
+### ->Astral Yui ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<-
+**TBD**
+
+-> ![Ast.Yui](https://redive.estertion.win/card/full/128931.webp)<-
+
+Pros:
+- TBD
+
+Cons:
+- TBD

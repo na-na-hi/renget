@@ -1,5 +1,5 @@
 ## Get your %red%de%%%green%su%% here!
-### (And /a/ic/g/ watchalong ~desu!)
+### (And a watchalong ~desu!)
 #### Order:
 ***
 1. **Rozen Maiden (Anime, 2004)**
@@ -30,12 +30,12 @@
 ##### ->  [Third-party shitty wiki](https://rozenmaiden.fandom.com/wiki/Rozen_Maiden_Wiki) <-
 ##### ->  [Rozen Maiden Booru](https://rmbooru.org/) [(Backup)](https://rm.booru.org) <-
 ***
-->  %#b5bd68%>I've never watched or read but I'm down for an /aicg/ watchalong desu.%% <-
+->  %#b5bd68%>I've never watched or read but I'm down for a watchalong desu.%% <-
 -> **Then leave your thoughts and suggestions about it during desu hours or consult your nearest rozenfag on /rozen/, thank you ~desu.** <-
 -> I know that the anime's 20th anniversary watchalong for /a/ is being planned(?) by some suspicious anon(?) somewhere October 6-8 or so. <-
 -> But we'll make our own rightful and orthodox Rozen Maiden watchalong, with desubots and Crunky! Praise the Dolls, our Perfect Maidens ~desu! <-
 
--> Everything is almost ready, desu's estimation is next Saturday or sooner, but you decide, anon! Again, check the link below ~desu! ↓<-
+#### -> Saturday 5pm UTC <-
 
 ##### ->  [Discuss it and get actual info and links on the current main imageboard - /rozen/ (Come post some desu!)](https://zzzchan.xyz/rozen/index.html) <-
 
@@ -48,3 +48,4 @@ There are **NO** any "official" discords/matrixes/telegrams/ircs/whatever, avoid
 
 
 !>I really need to make some kind of general FAQ desu...
+!>I wish we could desu together like before desu.

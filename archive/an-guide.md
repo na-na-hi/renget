@@ -8,7 +8,7 @@ Use cases:
 [TOC2]
 
 ***Other guide: [co-writing guide](https://rentry.org/co-writing-guide), [memory guide](https://rentry.org/memory-guide), [lorebook guide](https://rentry.org/lorebook-guide)***
-*[My personal preset—Truthfully v9 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
+*[My personal preset—Truthfully v10 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ###Scratchpad
 

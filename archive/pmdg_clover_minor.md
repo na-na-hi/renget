@@ -6,7 +6,7 @@ Chatot | M | Chatot | [Second in Command of the Wigglytuff Guild & Guild Managem
 Crabrawler | M | Crabrawler | [Proprietor and Barkeep of Blue Claw Inn](https://rentry.org/pmdg_clover_minor_personalities#blue-claw-proprietor-crabrawler)
 Taillow (aka Chatterbox) | F | Taillow | [Resident of Capim Town](https://rentry.org/pmdg_clover_minor_personalities#capim-resident-taillow)
 Mindy | F | Mew | [Clover Guild Member?](https://rentry.org/pmdg_clover_minor_personalities#former-human-mindy)
-Team Marsh (Squishy & Berry) | M/F | East Sea Gastrodon and Quagsire |[Ace Rank Rescue Team](https://rentry.org/pmdg_clover_minor_personalities#rescue-team-marsh)
+Team Marsh (Squishy & Berry) | M/F | East Sea Gastrodon & Quagsire |[Ace Rank Rescue Team](https://rentry.org/pmdg_clover_minor_personalities#rescue-team-marsh)
 Dewott | M | Dewott | [Toge's Former Partner](https://rentry.org/pmdg_clover_minor_personalities#former-human-dewott)
 Porygon2 (aka Terry) | N/A | Porygon2 | [Mystery Dungeon Information Repository](https://rentry.org/pmdg_clover_minor_personalities#dungeon-information-system-porygon2)
 Ampharos | M | Ampharos | [Veteran Explorer, Pika's Mentor](https://rentry.org/pmdg_clover_minor_personalities#veteran-explorer-ampharos)
@@ -16,3 +16,4 @@ Mr. Goldbird | M | Linoone (Galarian) | [CEO of Pelipper Mail Company](https://r
 BLADE the COOLTORB | M | Voltorb | [Edgy Meme](https://rentry.org/pmdg_clover_minor_personalities#blade-the-cooltorb)
 Smeargle | M | Smeargle | [Former Outlaw, Heart Shop Proprietor](https://rentry.org/pmdg_clover_minor_personalities#former-outlaw-smeargle)
 Morgan | F | Buneary | [Wigglytuff Guild Member](https://rentry.org/pmdg_clover_minor_personalities#wigglytuff-apprentice-morgan)
+Team Dynamis (Turquoise "Turk" & Charcadet (†) & Mudkip (†) Sprigatito (?)) | M/M/M/F | Lucario & Charcadet & Mudkip & Sprigatito | [Failed Saviors](https://rentry.org/pmdg_clover_minor_personalities#exploration-team-dynamis)

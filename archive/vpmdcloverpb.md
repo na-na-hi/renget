@@ -507,6 +507,9 @@ Biography generated!
 ###Hans/Mr. Gible/Noodle
 [See linked](https://rentry.org/snaketeamblurb)
 
+###Wimpod
+{Pending}
+
 ###Error
 >Error
 >Male Iron Valiant, Timid/Quiet Nature
@@ -532,6 +535,9 @@ Biography generated!
 
 >Goals: 
 >Error doesn't know if he'll ever get to return home, and he's not certain if home is a place he wants to return to either. He hopes to one day find a peaceful calling where both his mind and body can find some well-deserved rest. Until then, he wishes to overcome his personal demons and grow stronger, even if they may very well try to ruin him in the process.
+
+###Rain
+{Pending}
 
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
@@ -657,6 +663,12 @@ Q&A Page: https://forms.gle/VLm5RHZBhoadTD7u5 *Please read all released chapters
 >Along that, she also has two small bags that work as quick access to blast seeds and healing/reviving items
 >Secret. One of the only things she can remember of her past is a black and red shadow, that, although is scared of, knows was important in her past
 
+###Sentret
+>Sentret the Sentret is a feral child. Bright eyed, bushy tailed and far too trusting. Will jump off a bridge if all his friends do it. Eats garbage. Is easily distracted. Also easily impressed, thinks every other person at the guild is the absolute coolest. Fearless, more from not comprehending danger than any sort of bravery. Will talk too much if you let him. Chronic idiot. Only vaguely interested in finding his dead parents.
+
+###Adelaid/Dahpi
+{Pending}
+
 ###Avalon
 >Facet: Reincarnated Human
 >Job: Bounty Hunter
@@ -684,26 +696,5 @@ Least Favorite:
 >Item: Trick mirrors
 >Behavior: Socializing
 
-###Sentret
->Sentret the Sentret is a feral child. Bright eyed, bushy tailed and far too trusting. Will jump off a bridge if all his friends do it. Eats garbage. Is easily distracted. Also easily impressed, thinks every other person at the guild is the absolute coolest. Fearless, more from not comprehending danger than any sort of bravery. Will talk too much if you let him. Chronic idiot. Only vaguely interested in finding his dead parents.
-
-###Concord
->All around pretty quiet, and prefers to stay out of the limelight but also just likes helping however he can.
-
-###Adelaid/Dahpi
-{Pending}
-
 ###Sotto
 {Pending}
-
-###Nigel
->Personality: Constantly concerned with "clean escapes", avoiding risky situations, keeping "his kids" from becoming starved retards, and being sure he can ruin anyone with a serious reason to oppose him... As such an obvious coward about it that "NTRsol" is as much a Guild in-joke on non-member anons as a serious warning that this apparently-PTSD-ridden literal-motherfucker has, somehow, stolen girls
-
->Backstory: Management strategies for disability-worthy paranoia turned out to fit Absol precognition like a glove, so being dropped in an exceptionally violent Dungeon did not result in Dying Horribly. Began Netori "career" by being far better provider for and non-counterproductive teacher to otherwise-feral Eevee kits than their Espeon father, who died from infected injuries sustained in the fight over the first dubious-paternity egg. Has since expanded beyond the Field egg group with dietary and educational assistance for poor mothers
-
->Interactions: Relatively commonly comes to town to purchase "luxury" foods as treats for the MANY kids he feels responsible for and post time-consuming but low-difficulty jobs, near-always with one of the kids and still visibly bloodstained. Gets currency from "drastically undervaluing" items sold to Kecleon, due to prioritizing cashflow and "mail orders" over profits
-
->Misc: Despite nickname, fucks very few of the females lured away from less-cringe but less-capable males, as it's all about not wanting to see children meet a PAINFULLY early end. Did not train to teach, does not know anywhere near enough to uplift-wank, but the paltry scraps he can recall through being a midwit, initial trauma, and isolation alongside hard-learned personal experience is still a big improvement
-
-###Psyduck
->a psyduck with epilepsy that has to sleep and rest a lot more than the average pokemon but i can contribute incredible energy. Kinda punk but also sweet. And extremely, extremely broke

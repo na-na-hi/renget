@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 234th time, what is Ope?!
+For the 235th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -15,11 +15,13 @@ Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololi
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Streams
-Next stream (Stardew Valley, Wed 01/31 1PM CT)
+▼ Upcoming streams
+Next possible appearance (Fuwawa's birthday, Thu 02/01 8PM CT): https://www.youtube.com/watch?v=8QCuGJBqAiM
+Next member stream: zatsudan & ASMR (Fri 02/02 12PM CT)
+Next public stream: Kuukiyomi (Sat 02/03 7PM CT)
+▼ Last stream (Stardew Valley)
 https://www.youtube.com/watch?v=0m-QTagWa3I
-Last stream (Gartic Phone Advent collab)
-https://www.youtube.com/watch?v=VtE3R1aESA8
-Last member stream (zatsudan & ASMR)
+▼ Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
@@ -42,7 +44,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67861342
+Previous thread: >>67917219
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

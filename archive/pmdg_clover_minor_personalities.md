@@ -162,3 +162,6 @@ Sex: Male
 >Has been praised by Chatlot as the model of a perfect explorer, marred only by several disciplinary marks on her record for poor teamwork.
 >Seems to have (putting it lightly) a mutual dislike of, and rivalry with, Amelia. What could that be about?
 >**{Further information currently a spoiler pending the release of the story involving this character. Soon(TM).}**
+
+####Exploration Team Dynamis
+>**{Information Pending}**

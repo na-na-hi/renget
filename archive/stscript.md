@@ -498,8 +498,8 @@ For starters, we can do something like this:
 /setvar key=ce_n 5 |
 
 /sub {{lastMessageId}} ce_n |
-/setvar gm_start |
-/setvar gm_names on |
+/setvar key=gm_start |
+/setvar key=gm_names on |
 /flushvar gm_end |
 
 /run TestPreset.getMessages |
@@ -553,9 +553,9 @@ All in all, the two functions would look something like this:
 ```
 #the startup function
 /setvar key=swipe_id {{currentSwipeId}} |
-/while guard=off left=1 rule=eq right=1 "/run TestPreset.idleCheck \| /sleep 1000"
+/while guard=off left=1 rule=eq right=1 "/run TestPreset.swipeCheck \| /sleep 1000"
 
-#the other function called idleCheck
+#the other function called swipeCheck
 /getvar swipe_id |
 /if left={{pipe}} rule=neq right={{currentSwipeId}}
 	"
@@ -563,13 +563,136 @@ All in all, the two functions would look something like this:
 	/echo hey
 	"
 ```
-Whenever you swipe an AI's message, you'll see the message "hey" getting echoed. You can substitute the echo for generating and sending a message. Of course this script doesn't take into account the user or AI sending a message, or stuff like a new conversation being started. But it would only take a bunch more chained `/if` commands to check all that.
-
-Next up, we can try and do something with swipes. We have the `{{currentSwipeId}}` macro that we can first store, and then on each loop check if its value changed from the one we stored - meaning that the user swiped. There is some more nuance to this, such as having to check if the AI sent the last message, or if the swipe number changes because a new message is being added, etc. This is what I meant earlier by having to be clever when designing these systems. But with all that taken into account, we should be able to detect a new swipe being added and similarly to the idle duration overstepping, use an injection or send a custom generated message having the AI react to the user's actions.
+Whenever you swipe an AI's message, you'll see the message "hey" getting echoed. You can substitute the echo for generating and sending a message. Of course this script doesn't take into account the user or AI sending a message, or stuff like a new conversation being started. But it would only take a bunch more chained `/if` commands to check all that. We have the `{{currentSwipeId}}` macro that we can first store, and then on each loop check if its value changed from the one we stored - meaning that the user swiped. There is some more nuance to this, such as having to check if the AI sent the last message, or if the swipe number changes because a new message is being added, etc. This is what I meant earlier by having to be clever when designing these systems. But with all that taken into account, we should be able to detect a new swipe being added and similarly to the idle duration overstepping, use an injection or send a custom generated message having the AI react to the user's actions.
 
 Editing the AI's message without swiping is kinda similar, but using the `{{lastMessage}}` macro instead. What would be really neat is if you could use the `{{input}}` macro to get the text the user is typing up currently and have the AI react to it even before the user sends it BUT this is pretty dangerous. For multiple reasons. Right now it causes the system to freeze and I'm not really sure why this happens. Weird. You could maybe theoretically write a function to trim slashes or escape the command, or do some other kind of validation, but I couldn't get it to work properly. Whatever you do, DO NOT add a startup script that parses `{{input}}`, or else you'll brick SillyTaver indefinitely. If you do that, go to the `/SillyTavern/public/QuickReplies` folder and edit the preset file to erase the function body.
 
+__Events and listeners__
+This section of the guide is entirely optional, what we'll discuss here is a programming technique that all sorts of applications, especially user-facing ones use to implement event-driven business logic. To put it short, imagine that you have certain distinct events that can happen while your app runs. It can be a button click, or it can be your character running out of HP. You may have a function you want to call when either of these happen, maybe even multiple functions. Using a loop to check for all these different scenarios can get chaotic and hard to maintain after a while. Emitting an event can be done from any part of your codebase, and so long that there is a listener for it, the data passed to the listener as part of the event will always be received.
+
+So how do we do this with STscript? There is no built-in event system. But it's not hard to imagine up one. Let's say that we define an event as a JSON object:
+```
+{
+    type: <UUID event type name>,
+    payload: <a JSON object with the event specific data>
+}
+```
+And let's have a startup loop that we discussed in the previous chapter like this:
+```
+/setvar key=event_queue []
+/while guard=off left=1 rule=eq right=1
+	"
+    /sleep 1000 \|
+	/len event_queue \|
+	/if left=\{\{pipe\}\} rule=gt right=0
+		"/run TestPreset.process_event_queue"
+	"
+```
+With the `process_event_queue` script being something like this:
+```
+/setvar key=i 0 |
+/len event_queue |
+/times {{pipe}} "
+	/getvar index=\{\{getvar::i\}\} event_queue \|
+	/setvar key=event \|
+	
+	/getvar index=type event \|
+	/setvar key=type \|
+	
+	/getvar index=payload event \|
+	/setvar key=payload \|
+
+	/if left=\{\{getvar::type\}\} rule=eq right=game_over
+		"/echo Game Over! " \|
+
+	/if left=\{\{getvar::type\}\} rule=eq right=message
+		"/getvar index=text payload \| /echo" \|
+
+	/incvar i
+	"
+
+/setvar key=event_queue []
+```
+This is essentially our core event listener. In this example I only added some simple echoing, but if instead you `/run` a bunch of other functions, then you can consider them subscribers of the given event.
+
+Emitting an event should be straightforward, you just add it to the `event_queue` variable. You can even simulate a priority queue with it if you really want to. Now sure, this system is susceptible to race conditions, but I'll be damned before I implement a mutex or semaphore in STscript. Let's just consider it a low probablity edge case.
+
+Personallity, I think this is a pretty good approach not only to do event-driven logic, but you could also do a budget version of [Redux](https://redux.js.org/). Consider the events actions and the loop as the reducer. I'd call it SillyDucks. ...Get it?
+
 __Stat trackers and RPGs__
+The idea here is simple.... Until it's not. We've probably all seen cards with some kind of stat tracking or simulated RPG game, and they do come in quite a few different flavors.
+
+First there are the really dumb ones that are essentially just storytellers simulating D&D or any generic fantasy game, but without truly keeping track of stats, inventories, and whatever else. And it will do random asspulls like any other AI. You can ask it to print your stats and inventory with every message to help battle this, but it's only a bandaid solution. The AI might mess up the formatting and do asspulls anyway, like forgetting you had some item in your inventory, or if you tried to do something like add regeneration, buffs or debuffs, then just conveniently forgetting or disregarding the way they're supposed to work. So the usual AI shenanigans.
+
+Then there are cards with lorebooks and/or special formatting rules to force the AI to "think", inspired by CoT prompting techniques. There are even cards that combine this with stat tracking by putting the stats at the beginning of the reply instead of the end and having the AI reason about, say, a character having a 90/100 affection meter for the user. This is a powerful idea, and very useful. But the AI can still often randomly decide it won't update a stat meter or update it in a stupid way. For example decribing how the user just hurt the AI character but still giving a plus one for affection. Furthermore, for anything not easily conveyed through numbers, it will basically be a coin toss whether the AI can grasp the idea about how to update the given stat or what it even means to have it in a certain status.
+
+Plus having the AI keep track of stats takes tokens away from its response size.
+
+Really, there are ~three benefits we want to have by using stat trackers like these. First, to have a piece of data help the AI reason about the situation CoT style. Second, to keep track of stats instead of us - because let's face it, we could do this by hand if we really wanted to. And third, you know, because it's fun like playing a video game?
+
+Earlier in this guide we talked about automation, when asking the AI to generate event summaries for the author's note. This should already give you an idea about what we could do here: leverage generative AI disconnected from the conversation to focus ONLY on updating these stats, and then placing the relevant information into the conversation either through a system message or injection. Going with the simplest idea, you could give this "other AI" the last messages written by the AI and the user and tell it to update a clock with how many seconds/minutes/hours could have passed while the actions in those replies took place. Or to update an affection meter. Or health, or an inventory system. As we've seen before, we can even craft custom tailored prompts for this "other AI" to do its thing.
+
+But. The more complex these instructions and the more stats there are, the more likely the AI will fail to properly update them. Or it might decide that the same action, say a hug, deserves one plus point of affection one time, and then ten the next, if it has no point of reference (usually in form of the conversation history). How could we remedy this, using STscript?
+
+There is a number of ways, really the limit is only one's own imagination, but I think there are pretty much two big categories.
+
+One is things we use AI to automate, but really wouldn't need to. For example let's say in an RPG you have an amulet of regeneration that should always give you one HP per message sent, or per minute passed. We can use the "other AI" to update some of your stats, and then apply some script to update the rest deterministically to avoid the AI doing asspulls and to just overall lessen the workload it has to do. It wouldn't even be that hard to write a script to do itemization for loot.
+
+The other category is where we now use the AI's messages with its formatted stat panel to store data, but only because we have no other way to do so. We can instead use STscript variables to, say, manage your inventory. It won't be susceptible to the AI randomly adding or removing items or deciding that you have a backpack when you really only should have tattered rags or something. This is also great because now it won't eat up the context by using all these tokens.
+
+In both cases, we can take the result of some script that updated your stats or generated a new item, or recall data from variables, and add it to the prompt we give the "other AI" to update the rest of your stats. Fewer possibilities for asspulls, custom tailored for the job, and we still have deterministic control over some of the data. And hey! Instead of itemization being done by a script you might as well do another `/genraw` to ask yet another "other AI" to generate a goofy weapon. Or, say, a W++ definition for a companion that we then store in an STscript variable. There really are no limits. Going back to the itemization example again, you could even add a lorebook into the mix describing potential enhancements or rolls or lore an item could have.
+
+To give you an idea:
+```
+/setvar key=item_name Sword |
+/setvar key=item_damage {{roll:1d4+4}} |
+
+/setvar key=tmp {{roll:1d5}} |
+/echo {{getvar::tmp}} |
+
+/if left={{getvar::tmp}} rule=eq right=1
+	"
+	/sub \{\{getvar::item_damage\}\} \{\{roll:1d2\}\} \|
+	/setvar key=item_damage \{\{pipe\}\} \|
+	/setvar key=item_rarity Common \|
+	" |
+
+/if left={{getvar::tmp}} rule=eq right=2
+	"
+	/setvar key=item_rarity Uncommon \|
+	" |
+
+/if left={{getvar::tmp}} rule=eq right=3
+	"
+	/add \{\{getvar::item_damage\}\} \{\{roll:1d2\}\} \|
+	/setvar key=item_damage \{\{pipe\}\} \|
+	/setvar key=item_rarity Magic \|
+	" |
+
+/if left={{getvar::tmp}} rule=eq right=4
+	"
+	/add \{\{getvar::item_damage\}\} \{\{roll:1d2+2\}\} \|
+	/setvar key=item_damage \{\{pipe\}\} \|
+	/setvar key=item_rarity Rare \|
+	" |
+
+/if left={{getvar::tmp}} rule=gte right=5
+	"
+	/add \{\{getvar::item_damage\}\} \{\{roll:1d6+4\}\} \|
+	/setvar key=item_damage \{\{pipe\}\} \|
+	/setvar key=item_rarity Legendary \|
+	" |
+
+/genraw lock=on {{charJailbreak}}{{charPrompt}} Generate a funny short lore entry for a {{getvar::item_name}} |
+/setvar key=item_lore {{pipe}} |
+/input default="{{getvar::item_rarity}} {{getvar::item_name}} # {{getvar::item_lore}} # Damage: {{getvar::item_damage}}" The generated item:
+```
+You can take this simple example to lots of places, like randomly selecting the item type from an array of weapons or armors, adding stats or stuff like level requirements, whatever you can think of. It's also a good idea to use JSON objects here and not like four different variables for one item like I have done here. Either way, you can then store this item in another variable that handles your inventory, and add it to system messages, injections, or `/genraw` prompts as you see fit. Itemization is a mixture of STscript and leveraging the AI, but you could do either one or the other and go with the same general idea.
+
+If you want to challenge yourself, here's some homework: write three QuickReply functions. Two of them should have buttons, one should be a startup loop as we've done in the previous sections. The loop should detect changes to your character's HP stat. The buttons are attack and defend. Script a real time battle with the AI using the buttons and the loop, while you can banter with the AI through the normal conversation about your swordplay. For an added challenge, do stat tracking in the conversation, so that the AI will react to its/your HP going down.
+
+__Dynamic Lorebooks__
+To take the above idea to the extreme, let's take a quick look at lorebooks.
 TODO
 
 __Automation and using the LLM__

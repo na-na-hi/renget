@@ -325,9 +325,18 @@ Young love is so beautiful.
 https://archive.4plebs.org/tg/post/91626998/
 girlbosses (and haruhi)
 https://archive.4plebs.org/tg/post/91654539/
-Holloween Requests I
+Halloween Requests I
 https://archive.4plebs.org/tg/post/91725633
+Halloween Requests 2
+https://archive.4plebs.org/tg/post/91759065
+impersonation of red cross...
+https://archive.4plebs.org/tg/post/91759143
 
+```
+***
+Page 3
+***
+```
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
 ```
@@ -417,11 +426,12 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Art
->Mission: Impossible (Runt, Suslik)
->>91746842
->Now I'm Motivated (Rosethorn)
->>91752006
-
+>delinquent
+>>91759884
+>Underground Gala Mio
+>>91759097
+the guy the bro the pal the friend bobby samson himself!
+>>91765155
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -504,6 +514,8 @@ Page 2
 >>91707234
 >Rob Williams HN: Velvet Worm
 >>91728780
+>Nijimura Mahoko HN Cool Boost
+>>91685518+>>91685973
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -549,10 +561,6 @@ Page 3
 >>91349452
 >Daniel W. Rain
 >>91352447
-
->Shiketsu (Unknown Year and Class)
->Nijimura Mahoko HN Cool Boost
->>91685518+>>91685973
 
 >Class 3-B (U.A.)
 >Animata

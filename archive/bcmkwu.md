@@ -1,4 +1,58 @@
-▶NEW CLIPS
+>Captured hohols talk about current situation in AFU: morale is low
+https://files.catbox.moe/33p3e0.mp4
+>Geran strike on the railway station and the village of Matrosovka, Kherson region
+https://files.catbox.moe/5eclcz.mp4
+>A destroyed Canadian LAV ACSV TCV Super Bison APC
+https://files.catbox.moe/j69jsc.mp4
+>Defeat of the German Iris-T SAM system in the Kharkov area.
+https://files.catbox.moe/ihevxa.MP4
+>Russian marines trench assault
+https://files.catbox.moe/cahavb.mp4
+>Kharkov going boom
+https://files.catbox.moe/oy5lml.webm
+https://files.catbox.moe/mtodct.webm
+https://files.catbox.moe/e3by31.webm
+https://files.catbox.moe/zgmn80.webm
+>Lancet destroys two PzH 2000
+https://files.catbox.moe/9x2na2.mp4
+https://files.catbox.moe/5g1ax4.mp4
+>FPV drone stuck
+https://files.catbox.moe/zu3db8.MP4
+>218th Tank Regiment assaulting AFU positions north of Priyutnoye
+https://files.catbox.moe/pncybu.mp4
+>cope caged M109 gets Lancet struck
+https://files.catbox.moe/5exnf1.mp4
+>Immediate punishment
+https://files.catbox.moe/1mzu33.mp4
+>Ukrainians executing deserter (not comfy)
+https://files.catbox.moe/4ntd9c.mp4
+>'NATO has no soldiers' - Azov founder
+https://files.catbox.moe/10h5ic.mp4
+>ATGM drone
+https://files.catbox.moe/1q98x5.mp4
+>880k in the AFU - Zelensky
+https://files.catbox.moe/8r86l0.mp4
+>Russian Anthem plays in Odessa bus
+https://files.catbox.moe/didd39.mp4
+>Ukrainian gets snuck up on and blasted
+https://files.catbox.moe/1upxh1.mp4
+>1000-1200 Ukrainian casualties a day
+https://files.catbox.moe/d61fny.mp4
+>Colombians in the snow
+https://files.catbox.moe/zcenn3.mp4
+>Just a normal day in Krynky
+https://files.catbox.moe/ckdqfx.mp4
+>Russian stormtroopers inside Avdeevka pipes
+https://files.catbox.moe/0fg2uh.mp4
+>Belgorod IL-76 crashsite (uncomfy)
+https://files.catbox.moe/hyhicb.MP4
+https://files.catbox.moe/aq28m7.MP4
+https://files.catbox.moe/x6yck6.MP4
+https://files.catbox.moe/8u6tux.mp4
+>Krynky POV
+https://files.catbox.moe/wt5853.mp4
+>Deputy gifted a nade
+https://files.catbox.moe/n6mppu.mp4
 >16 yo boys should be conscripted
 https://files.catbox.moe/edyjsl.mp4
 >Army of the crippled

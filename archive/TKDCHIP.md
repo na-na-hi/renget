@@ -1450,3 +1450,13 @@ https://youtu.be/GZrDCySjoB4 New  1/29/24
 https://files.catbox.moe/insofq.mp4 New  1/29/24
 >Hezbollah military media publishes : "I am the soldier of Ridwan" Al Ridwan Forces is Hezbollah's elite forces group.
 https://files.catbox.moe/0iscyq.mp4 New  1/30/24
+>|Islamic Resistance in Iraq published a video showing the launch of an Iranian Shahed-101 suicide drone towards the military target inside occupied Palestine, 2 days ago.
+https://files.catbox.moe/f1bnhl.mp4 New  1/31/24
+>A clown entertains children at one of the shelter centers in Gaza.
+https://files.catbox.moe/o7mrsh.mp4 New  1/31/24
+>BBC reports on some of the horrors in Gaza that Israel has been committing for 117 days.
+https://files.catbox.moe/223yvd.mp4 New  1/31/24
+>WATCH: Video shows an IOF helicopter extracting wounded/killed israeli soldiers while being under fire by the resistance in the Gaza Strip.
+https://files.catbox.moe/qwrh0u.mp4 New  1/31/24
+>Israeli forces kidnap a young Palestinian, force them to wear an Israeli uniform, tie them up in chains, and use them as a human shield 
+https://files.catbox.moe/srdd02.mp4  1/31/24

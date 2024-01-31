@@ -11,5 +11,9 @@ Skull | M | Cubone | ??? | Clover Guild Member |  Quiet
 ??? | M | Vibrava | ??? | Outsider |  Quiet
 ??? | M | Quilava | ??? | Outsider |  Jew-mon
 ??? | M | Mudkip | ??? | Outsider |  MEME CLOWN
+N/A | M | Bagon | Lurantis (Orchid, M, Serious, Native, Outsider) | Clover Guild Member | Timid
+Concord | M | Nickit | N/A | Clover Guild Affiliated Explorer | Quiet
+Nigel | M | Absol | ??? | Clover Guild Member | Timid
+??? | ? | Psyduck | ??? | Clover Guild Member |  ???
 
 //Some known members that are not in any character list yet as they haven't made an official debut in the threads: Scorbunny, Zangoose, and Dragonair

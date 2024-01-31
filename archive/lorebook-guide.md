@@ -8,7 +8,7 @@ Formats: ‎ *Snippets─*  best for narration.  ‎ ‎ *Attribute─* best for
 [TOC2]
 
 ***Other guide: [co-writing guide](https://rentry.org/co-writing-guide), [memory guide](https://rentry.org/memory-guide), [author note](https://rentry.org/an-guide)***  
-*[My personal preset—Truthfully v9 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
+*[My personal preset—Truthfully v10 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 !!! danger SETUP
      This is what default context looks like:

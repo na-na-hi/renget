@@ -5,4 +5,4 @@ This is the public version of the [Draw Request](https://rentry.org/CloverDrawRe
 
 [TOC]
 
-1. Sample Text. Do something like this to add a Draw Request.
+1. Error undergoing therapy with Bill.

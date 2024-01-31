@@ -40,4 +40,27 @@ You must:
 
 -> ~♡~ <-
 
+###Image Gens
+
+![kichiro main](https://files.catbox.moe/8zbznd.png)
+sketchy painterly anime style digital art, dark cluttered room, a guy with messy black hair and green eyes is sitting at his gamer PC setup looking at the computer monitor while smirking, he has eye bags, grainy 
+
+-> ~♡~ <-
+
+![kichiro GRAB](https://files.catbox.moe/499vgy.jpg)
+sketchy painterly anime style, dark cluttered bedroom, a mischievous guy with messy black hair and green eyes is reaching towards the viewer and smirking, he wears a black hoodie, rosy cheeks, grainy
+
+-> ~♡~ <-
+
+![kichiro seduction](https://files.catbox.moe/uu9pol.jpeg)
+(this one was made on designer)
+sketchy painterly anime style, loose brush strokes, dark bedroom, bird's eye view of a mischievous guy with messy black hair and green eyes is smirking reaching towards the viewer with both arms, he wears a black cropped hoodie, he's lounging surrounded by cute fluffy pillows, rosy cheeks, cozy, grainy, dust specks, dark lighting
+
+-> ~♡~ <-
+
+![hewo](https://files.catbox.moe/nt03wg.jpg)
+sketchy painterly anime style, loose brush strokes, dark, bedroom, a mischievous guy with messy black hair and green eyes is lounging on his side, he wears a cropped black hoodie, surrounded by cute fluffy pillows, rosy cheeks, cozy, grainy, dust specks, dark lighting
+
+-> ~♡~ <-
+
 -> ![puru](https://files.catbox.moe/prs2zp.png) <-
