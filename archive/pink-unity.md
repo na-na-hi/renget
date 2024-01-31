@@ -3,11 +3,31 @@
 [TOC1]
 
 A primer for some names in /pink/.
+
+##Pink Radar
+L| i |V|E|?
+:------:|:------:|:------:|:------:|:------:
+[nyanners](https://twitch.tv/nyanners)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_nyanners-1242x699.jpg)|[ironmouse](https://twitch.tv/ironmouse)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ironmouse-1242x699.jpg)|[oliviamonroe](https://twitch.tv/oliviamonroe)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_oliviamonroe-1242x699.jpg)|[chibidoki](https://twitch.tv/chibidoki)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_chibidoki-1242x699.jpg)|[cayena](https://twitch.tv/cayena)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cayena-1242x699.jpg)
+[ninaninin](https://twitch.tv/ninaninin)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ninaninin-1242x699.jpg)|[mysticalpixal](https://twitch.tv/mysticalpixal)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_mysticalpixal-1242x699.jpg)|[hennie2001](https://twitch.tv/hennie2001)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_hennie2001-1242x699.jpg)|[honeychurros](https://twitch.tv/honeychurros)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_honeychurros-1242x699.jpg)|[remi](https://twitch.tv/remi)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_remi-1242x699.jpg)
+[yuuna](https://twitch.tv/yuuna)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuuna-1242x699.jpg)|[stal](https://twitch.tv/stal)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_stal-1242x699.jpg)|[momomi5871](https://twitch.tv/momomi5871)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_momomi5871-1242x699.jpg)|[lewnabun](https://twitch.tv/lewnabun)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_lewnabun-1242x699.jpg)|[irelyth](https://twitch.tv/irelyth)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_irelyth-1242x699.jpg)
+[rosuuri](https://twitch.tv/rosuuri)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_rosuuri-1242x699.jpg)|[ohpaipansuu](https://twitch.tv/ohpaipansuu)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ohpaipansuu-1242x699.jpg)|[reiyuguigui](https://twitch.tv/reiyuguigui)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_reiyuguigui-1242x699.jpg)|[muna_vconn](https://twitch.tv/muna_vconn)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_muna_vconn-1242x699.jpg)|[chromuchromu](https://twitch.tv/chromuchromu)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_chromuchromu-1242x699.jpg)
+[starryyozzy](https://twitch.tv/starryyozzy)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_starryyozzy-1242x699.jpg)|[cookiehana](https://twitch.tv/cookiehana)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cookiehana-1242x699.jpg)|[trickywi](https://twitch.tv/trickywi)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_trickywi-1242x699.jpg)|[Yuniiho](https://twitch.tv/Yuniiho)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_Yuniiho-1242x699.jpg)|[yuikaichan](https://twitch.tv/yuikaichan)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yuikaichan-1242x699.jpg)
+[aiyumeka](https://twitch.tv/aiyumeka)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_aiyumeka-1242x699.jpg)|[2wintails](https://twitch.tv/2wintails)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_2wintails-1242x699.jpg)|[grapechann](https://twitch.tv/grapechann)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_grapechann-1242x699.jpg)|[akarindao](https://twitch.tv/akarindao)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_akarindao-1242x699.jpg)|[MataraKan](https://twitch.tv/MataraKan)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_MataraKan-1242x699.jpg)
+[arisuusami](https://twitch.tv/arisuusami)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_arisuusami-1242x699.jpg)|[techycutie](https://twitch.tv/techycutie)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_techycutie-1242x699.jpg)|[pinky_purin](https://twitch.tv/pinky_purin)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_pinky_purin-1242x699.jpg)|[toma](https://twitch.tv/toma)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_toma-1242x699.jpg)|[yumekuzukawa](https://twitch.tv/yumekuzukawa)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yumekuzukawa-1242x699.jpg)
+[camila](https://twitch.tv/camila)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_camila-1242x699.jpg)|[rioriodayo](https://twitch.tv/rioriodayo)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_rioriodayo-1242x699.jpg)|[ariru_](https://twitch.tv/ariru_)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ariru_-1242x699.jpg)|[bun_mii](https://twitch.tv/bun_mii)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_bun_mii-1242x699.jpg)|[meicha](https://twitch.tv/meicha)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_meicha-1242x699.jpg)
+[ninete_en](https://twitch.tv/ninete_en)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_ninete_en-1242x699.jpg)|[minyaseptember](https://twitch.tv/minyaseptember)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_minyaseptember-1242x699.jpg)|[remuchii](https://twitch.tv/remuchii)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_remuchii-1242x699.jpg)|[inksie](https://twitch.tv/inksie)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_inksie-1242x699.jpg)|[koffie_ch](https://twitch.tv/koffie_ch)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_koffie_ch-1242x699.jpg)
+[metorial](https://twitch.tv/metorial)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_metorial-1242x699.jpg)|[tarakaminarito](https://twitch.tv/tarakaminarito)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_tarakaminarito-1242x699.jpg)|[afterschoolsophie](https://twitch.tv/afterschoolsophie)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_afterschoolsophie-1242x699.jpg)|[yfubaby](https://twitch.tv/yfubaby)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yfubaby-1242x699.jpg)|[310ramune](https://twitch.tv/310ramune)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_310ramune-1242x699.jpg)
+[klouvette](https://twitch.tv/klouvette)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_klouvette-1242x699.jpg)|[cecihimevt](https://twitch.tv/cecihimevt)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cecihimevt-1242x699.jpg)|[twee](https://twitch.tv/twee)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_twee-1242x699.jpg)|[yamakumauna](https://twitch.tv/yamakumauna)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yamakumauna-1242x699.jpg)|[sushidog](https://twitch.tv/sushidog)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sushidog-1242x699.jpg)
+[minkyewool](https://twitch.tv/minkyewool)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_minkyewool-1242x699.jpg)|[maoyugen](https://twitch.tv/maoyugen)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_maoyugen-1242x699.jpg)|[koopa_ch](https://twitch.tv/koopa_ch)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_koopa_ch-1242x699.jpg)|[baoo](https://twitch.tv/baoo)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_baoo-1242x699.jpg)|[shylily](https://twitch.tv/shylily)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_shylily-1242x699.jpg)
+[filian](https://twitch.tv/filian)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_filian-1242x699.jpg)|[LYRA](https://twitch.tv/LYRA)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_LYRA-1242x699.jpg)|[snuffy](https://twitch.tv/snuffy)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_snuffy-1242x699.jpg)|[amedoll](https://twitch.tv/amedoll)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_amedoll-1242x699.jpg)|[kisakatoriama](https://twitch.tv/kisakatoriama)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kisakatoriama-1242x699.jpg)
+[amakipururu](https://twitch.tv/amakipururu)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_amakipururu-1242x699.jpg)|[suko](https://twitch.tv/suko)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_suko-1242x699.jpg)|[koinuko](https://twitch.tv/koinuko)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_koinuko-1242x699.jpg)|
+
+
+##Pink Chuubas
 Not an exhaustive or ordered list. Main language is noted (but they may know and pink in others).
 
 Some examples include but are not limited to:
 
-##Pink Chuubas
 ###Pink
 *Nyanners* (EN): https://www.twitch.tv/nyanners
 *Pipkin Pippa* (EN): https://www.youtube.com/@PipkinPippa
@@ -194,6 +214,10 @@ Some examples include but are not limited to:
 *Metorial* (EN): https://www.twitch.tv/metorial
 *Ganba Ruuko* (JP): https://www.youtube.com/@ganbaruuko
 *Umi Kyoku* (EN): https://www.youtube.com/@UmiKyoku
+*Twig* (EN): https://www.youtube.com/@twigvt
+*Tara Kaminarito* (EN): https://www.twitch.tv/tarakaminarito
+*AfterSchoolSophie* (EN): https://www.twitch.tv/afterschoolsophie
+*YFUBABY* (EN): https://www.twitch.tv/yfubaby
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -264,6 +288,7 @@ Defined below.
 *Suko* (EN): https://www.twitch.tv/suko
 *Otokagi Mero* (JP): https://www.youtube.com/@otokagimero
 *Plum Pickled* (EN): https://www.youtube.com/@plumpickledch
+*Koinuko* (EN): https://www.twitch.tv/koinuko
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

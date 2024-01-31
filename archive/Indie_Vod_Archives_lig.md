@@ -76,6 +76,7 @@ Unofficial Girl DM Vod Archives | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8
 ---
 
 ##[Bubi](https://www.twitch.tv/bubivt) 
+Content|Link|Description 
 -------|-------|------- 
 Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| [Discontinued]
 Bubi VT Vod "Archive"|[Ms Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXApidFV6YEwaOc-?e=hDVU85)| [Discontinued]

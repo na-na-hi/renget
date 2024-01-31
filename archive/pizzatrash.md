@@ -1,13 +1,14 @@
 #####Current Info
 
-Latest thread: https://boards.4chan.org/trash/thread/62538425
-Latest Aggie: https://aggie.io/gbqjlelvl_
+Latest thread: https://boards.4chan.org/trash/thread/62955885
+Latest Aggie: https://aggie.io/jboxq1c017
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
 #####MEGA
 https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA pizzatrash
 https://mega.nz/folder/HX4EkBhL#Fn-jpqkI1W1yD-5AH04ibw 🍕The Toppins That I Deservioli 🍕
+(DISCLAIMER) The toppin gals replacement mod in the MEGA link above is outdated, the up-to-date version can be found here: https://gamebanana.com/mods/437536 
 https://mega.nz/folder/ykpWhCwQ#zfKAGYJB8GccX2ZruZXJPg -8 TOPPINGS GIFS TRANSPARENT
 https://mega.nz/folder/kPFXWCYZ#4hshCDG3GMMlzIpRDEgWTg Toppin Shimejis
 
@@ -82,7 +83,8 @@ https://desuarchive.org/trash/thread/61906110 /pizzatrash/ 66
 https://desuarchive.org/trash/thread/62112266 /pizzatrash/ 67
 https://desuarchive.org/trash/thread/62336162 /pizzatrash/ 68
 https://desuarchive.org/trash/thread/62538425 /pizzatrash/ 69
-
+https://desuarchive.org/trash/thread/62747999 /pizzatrash/ 70
+https://desuarchive.org/trash/thread/62955885 /pizzatrash/ 71
 
 #####Aggie
 
@@ -145,3 +147,5 @@ https://aggie.io/t6ew_gw23_ /pizzatrash/ Aggie #45: Bocconotto Edition
 https://aggie.io/ikhrs3z7j1 /pizzatrash/ Aggie #46: New Year's Edition
 https://aggie.io/zf3fsw6z75 /pizzatrash/ Aggie #47: Trapanese Edition
 https://aggie.io/gbqjlelvl_ /pizzatrash/ Aggie #48: Frutti di Mare Edition
+https://aggie.io/8hvgj7n1y5 /pizzatrash/ Aggie #49: Yabba Dabba Doo Edition
+https://aggie.io/jboxq1c017 /pizzatrash/ #50: ANNIVERSARY EDITION

@@ -582,7 +582,7 @@
 [Balsa: Chapter 24: A Mother's Anguish](https://docs.google.com/document/d/e/2PACX-1vQ2QwrLlw-kCjJo7V9TKYI8K3UCj0sYr-5uTlr1vkZRtKFUknfyPnftM5duI5aqNF70D5RMGNsQ_Mcd/pub) (Multiple Chuubas, Medieval Fantasy)
 [Balsa: Chapter 25: Flaming June](https://docs.google.com/document/d/e/2PACX-1vSn_M8n3Za92EWK9L3QpRw_beuDZPjOUfs_jMYf3VUHNyGMqgIUExpJDu_DPLUJjyWKyPk3-CdRRxoj/pub) (Multiple Chuubas, Medieval Fantasy)
 [Balsa Chapter 26: The Birth of Venus](https://docs.google.com/document/d/e/2PACX-1vTHxyBh_mCgDk6FB1NaX-KO1ZM3JV2tgmDuHANAPlWblBmhNC89VylV4ondlrQRMlsizKeEpvAcwfYD/pub) (Ciyana, multiple chuubas, fantasy)
-[Balse Chapter 27: Onwards into Eternity](https://docs.google.com/document/d/e/2PACX-1vQ83GlPAaHACvRSITBQpmkTM0lNggh6qaK3oc3y2zT5UZhYHm4s8hoFR0nV-VET-N-9a3dWbujQwROu/pub) (Ciyana, multiple chuubas, fantasy)
+[Balsa Chapter 27: Onwards into Eternity](https://docs.google.com/document/d/e/2PACX-1vQ83GlPAaHACvRSITBQpmkTM0lNggh6qaK3oc3y2zT5UZhYHm4s8hoFR0nV-VET-N-9a3dWbujQwROu/pub) (Ciyana, multiple chuubas, fantasy)
 [Balsa Chapter 28: An End To Evil](https://docs.google.com/document/d/e/2PACX-1vRTgAyScssKWVHeiNycNedWjyP6vMfBpb0kPk_NlH4qMO5zOeS3S0ttcBn7ujn18KDagidhb1VU_App/pub)
 [Balsa Chapter 29: The Man From Hijau](https://docs.google.com/document/d/e/2PACX-1vQURDlvE-85vuPEN0fn40S8KuZyj-9ppCPIVntzbsMr-fB2ImBsbZC3BicXVPyqtZEW_lHqLEsyz1Rr/pub) (Fubuki, Ayame, Watame, Civia, Fantasy)
 [Blackbean (Balsa Prequel)](https://docs.google.com/document/d/e/2PACX-1vT6-m204WnIpX8yvXmu96udw60iLx99xtdNY0JRj0wrueYndzmx9sGCYeyHdtRUbV9nBOPEEgRddwRi/pub) (Botan, Towa, Fubuki, fantasy)
@@ -593,6 +593,7 @@
 [Blackbean Chapter Six](https://docs.google.com/document/d/e/2PACX-1vTi-GvGCVahqV3kBTzkMGOSeHyXe_pz0WMkkrFxmD-aFsgyDL-uerOWeJMSQ3CZHB_kFtNjTffKwoxp/pub) (Botan, Towa, Watame, Reine, Fubuki, Mio, SFW, Fantasy)
 [Blackbean Chapter 7](https://docs.google.com/document/d/e/2PACX-1vTGNmmtiZM4WGwTK6UE6zPpwOwl8_yAzYJNZdIPzhH1va0CeBJ_j13k9bnvmcxk-V6TKSZQcoOd_g9Z/pub) (Botan, Towa, Other Chuubas)
 [Blackbean Chapter 8](https://docs.google.com/document/d/e/2PACX-1vTFUT3b68Q2_BIyZJbIqO818tjJixf2kzSvDxOaFIl8em4DXieeMpJBhFJMlXfe70t7nzeoWWnjBDT2/pub)(Mio, Watame, Reine, Fumino Tamaki, FWMC, Lui, Ayame, fantasy, adventure)
+[Blackbean Chapter Nine](https://docs.google.com/document/d/e/2PACX-1vSMZf0i6I_5Fwsg1GQQ7VXPaTx4IGrxun_d4RCGaimq0y7NdSa9Cyhk_OHIjNqX7tuT0eatco-8TBLo/pub) (Botan, Towa, Fubuki, multiple chuubas, fantasy)
 
 ##### -> Apple of Her Eye <-
 >Sora, star idol of Hololive Generation 0, leaves her son with her genmate Hoshimachi Suisei. Little does she know, she's leaving her son for one of the worst traumatic experiences he will ever face.

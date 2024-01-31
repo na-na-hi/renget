@@ -590,3 +590,306 @@ https://nitter.eu.projectsegfau.lt/ME_Observer_/status/1752113328183259574#m  1/
 
 🔻Attacked a Zionist military target in occupied Palestine using (a) suicide drone(s).
 https://nitter.eu.projectsegfau.lt/AryJeay/status/1752125886105518259#m  1/29/24
+
+>⚡️Hamas published a poster captioned with a Quranic verse:
+
+“And yet, [O believers,] it was not you who slew the enemy, but it was God who slew them;”
+https://nitter.lanterne-rouge.info/AryJeay/status/1752280679679692923#m  1/30/24
+
+>Hezbollah honours every single martyr. They announce them immediately in contrary to the occupation who hides its dead “soldiers”.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752260622438588541#m  1/30/24
+
+>⚡️#Pakistan: Al-Mayadeen correspondent in Islamabad: Former Prime Minister and leader of the Tehreek-e-Insaf, Imran Khan, was sentenced to 10 years in prison.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752233617533677639#m  1/30/24
+
+>Head of the Hamas Political Bureau, Ismail Haniyeh:
+
+- "We are open to discussing any serious and practical initiatives or ideas, provided that they lead to a comprehensive cessation of the aggression, securing shelters for our people who were forced out of their homes or whose homes were destroyed."
+
+- "The movement’s leadership received an invitation to visit Cairo in order to discuss the framework agreement issued in the Paris meeting and the requirements for its implementation according to an integrated vision that achieves our people’s national interests in the foreseeable future."
+https://nitter.lanterne-rouge.info/QudsNen/status/1752306979735830601#m  1/30/24
+
+>⚡️Israeli media: Reserve Major General Yitzhak Brik: 
+
+The army cannot fight on two fronts. Even on one front, it does not succeed in eliminating #Hamas.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752233848740479264#m  1/30/24
+
+Translation: 
+
+The US to Iran: please let me respond to save face I will only target an emty site I promise 
+
+Iran: No
+https://nitter.lanterne-rouge.info/AryJeay/status/1752323037033123991#m  1/30/24
+
+>⚡️#Syria: Al-Mayadeen correspondent in Aleppo: Violent clashes between militants of the Turkish National Army and the “SDF” following an attempt to infiltrate the “SDF” from the Jalbal and Kemar axes.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752233582603514076#m  1/30/24
+
+>🛑| SNN quoting Al Jazeera: 
+
+In the last 2 days, the US sent a message to Iran through 3rd parties, saying it is not interested in endless war with Iran, but stated that the expansion of the current war will lead to American escalation. Tehran replied that any attack on Iran and its soil, will cross a red line that will result in a reaction from Tehran.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752321609245802905#m  1/30/24
+
+>The moment an undercover force from the Israeli occupation army, disguised as medical staff, sneaked into Ibn Sina Hospital in Jenin this morning and assassinated three Palestinian young men: Mohammad Jalamneh, and the brothers Basil and Mohammad al-Ghazawi.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752222094367101283#m  1/30/24
+
+>🛑| Al-Quds Brigades have, since this morning, announced:
+
+🔻Sniping an IOF soldier on board his tank.
+🔻Shelling IOF soldiers with mortars, east of al-Maghazi
+🔻Clashing with IOF west & south of Gaza City
+🔻Targeting 2 Merkava tanks & a D9-bulldozer, southwest of Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752328784592699818#m  1/30/24
+
+>BREAKING:
+
+⚡ 🇮🇷 Iran has sent a message to the US via a third party.
+
+Iran has warned the US that the slightest attack on Iranian soil, with or without human casualties, will be met with retaliatory strikes on US forces in the Middle East.
+https://t.me/megatron_ron/1467  1/30/24
+
+>NEW: 
+
+
+⚡ 🇺🇸🇮🇷 In the past two days, the U.S. has sent multiple messages to Tehran via a third country – Al Jazeera
+
+Megatron:
+
+The US and Iran are constantly in communication these days, practically informing each other of what will be bombed and what will not.
+
+For all those who believe the Hollywood show that the US and Iran will go to war, forget it. This US action will only be to save face.
+
+Iran is a state with advanced military technology, is already a nuclear power (unofficially, but has enriched uranium for several warheads) and possesses ballistic missiles that can hit every US military base in the Middle East and half of Europe.
+
+It also has hypersonic missiles that can easily hit aircraft carriers. Iran is not Iraq or Syria. A direct war between the US and Iran would be a bigger war than the one between Russia and Ukraine.
+https://t.me/megatron_ron/1466  1/30/24
+
+>During his statement today, the Ministry spokesperson also reported that a food shortage is taking place in the medical complex, which threatens to worsen the situation for tens of wounded and medical staff.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752346892636152243#m  1/30/24
+
+>Greater Israel expands to Morroco
+
+Only one thing can happen in the future with Israel's new occupation of Morroco :
+
+War with Algeria
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752347689822441684#m  1/30/24
+
+>Israel's Prime Minister Netanyahu presented a widely known book, claiming it was found in a house in Gaza, sparking sarcasm since the book is widely available and also in Hebrew in Israeli libraries. The attempt seemed to link Gazans to Nazis from World War II.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752350927233925608#m  1/30/24
+
+>NEW:
+
+ The Wall Street Journal article against UNRWA was written by former Israeli soldier, Carrie Keller-Lynn.
+
+The article that was an excuse USA and its vassal countries to stop funding UNRWA in order to starve the population of Gaza, and at the request of Israel, was written by a former Israeli soldier
+
+Lynn served in the Israeli army and maintained close ties with former Israeli spokesperson Aliza Landes.
+https://t.me/megatron_ron/1468  1/30/24
+
+>Breaking | Israeli warplanes are bombing the area of the chalets on the outskirts of the town of Khiam, south of Lebanon.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752359767723446406#m  1/30/24
+
+>⚡️I deleted the post because it was quickly started to be taken as an insult and misunderstoof by Morrocans.
+
+If you want to defend normalization and stand on the side of Israel, you deserve isolation and humiliation.
+
+Morrocans are out in the streets demonstrating for #Gaza. These people are against normalization.
+
+You, on the other hand, are already dominated culturally by Israel and deserve nothing but shame and humiliation.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752359647304982538#m  1/30/24
+
+>BREAKING:
+ 🇺🇸🇮🇷 BIDEN:
+
+"We don't need a wider war in the middle east"
+
+He also says he has made a decision on how to respond to the deadly attack on U.S. troops in Jordan.
+https://t.me/megatron_ron/1471  1/30/24
+
+>BREAKING:
+
+ 🇺🇸 Massive amount of U.S. Air force detected in Syria - Iraq border
+
+American fighter jets have been spotted flying low over the Iraq-Syria border region.
+
+British Air Force tankers from Cyprus are heading towards the Middle East.
+https://t.me/megatron_ron/1475  1/30/24
+
+>⚡️Speech HIGHLIGHTS of Al-Quds Brigades spox, Abu Hamza:
+
+• We continue to confront the israeli aggression machinery on all battlefronts, and we have executed a series of operations.
+
+• What we declare in terms of operations is not to boost morale but carry military significance that has reached the occupier.
+
+• Netanyahu's threats to continue the war will not be beneficial.
+
+• We say to the enemy and the families of the prisoners, even if you search the sands of Gaza, your prisoners will not return to you except by a decision of the resistance.
+
+• We appreciate the patience of our people and announce the continued confrontation against the Israeli aggression in all fronts.
+
+• We have downed a significant number of the occupation's drones across the Gaza Strip.
+
+• We targeted the supply lines of the occupation army east of Jabalia and in the central region.
+
+• We say to the leaders and peoples of Islamic and Arab countries, "Our disappointment in you is immense. What will you say to God on the Day of Judgment? We used to fast, pray, and neglect supporting Palestine? Indeed, Allah is Sufficient for us, and He is the best Disposer of affairs."
+
+• We extend our greetings to the support of our resistance and the brotherly resistance in Hezbollah and Yemen, the valiant resistance of Iraq, and all those who followed their example.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752366570511143138#m  1/30/24
+
+>🛑| Al-Quds Brigades: 
+
+Targeted 4 Merkava tanks with RPGs in the Al-Arayshiyah and Jouret Al-Aqada area, west of Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752379158192370017#m  1/30/24
+
+>⚡️Hezbollah:
+
+ We targeted with missiles a gathering of #Israeli enemy soldiers in Hadab Aita and achieved a direct hit
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752385210963079237#m  1/30/24
+
+>⚡️⭕️Hezbollah military media publishes :
+
+"I am the soldier of Ridwan"
+
+Al Ridwan Forces is Hezbollah's elite forces group.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752389128707084359#m  1/30/24
+https://files.catbox.moe/0iscyq.mp4  1/30/24
+
+>⚡️#Yemen: Member of the Supreme Political Council, Muhammad Ali Al-Houthi:
+
+ Sanaa received an American message via Amman threatening to move fronts against it.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752390589188915684#m  1/30/24
+
+>Member of the Lebanese "Kataeb" party :
+
+What repels Israel from trampling Lebanese sovereignty is the international law, and if Israel approaches Lebanon, all the countries of the world will unite to stop it and it will be thwarted. 
+There is no need for weapons and resistance groups.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752410209044037680#m  1/30/24
+
+>⚡️#Lebanon: Al-Manar correspondent:
+The latest Zionist attacks on Lebanese lands:
+
+- Firing illumination shells in the airspace of Al-Shaab and Al-Dhahaira.
+- A sweep with machine guns from the Birkat Risha site towards Lebanese territory
+- Enemy artillery shelling on the outskirts of Al-Dahaira, Al-Jabain, Yarin, Al-Naqoura and Al-Hamams, south of the city of Khiam.
+- Heavy machine gun fire from enemy positions in the Kfar Shuba Heights
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752411092251296079#m  1/30/24
+
+>⚡️Kataeb Hezbollah in #Iraq, Statement by the Secretary-General: 
+
+"The Islamic Resistance has made its decision to support our people in Gaza without any interference from others.
+
+Our brothers in the axis, especially in Iran, do not know how we work jihad and have often objected to our escalation.
+
+We announce the suspension of military and security operations against the occupation forces in order to embarrass the Iraqi government.
+
+We announce the suspension of military and security operations against the American occupation forces, and we will continue to defend our people in Gaza in other ways.
+
+We advise the Mujahideen of Kataib Hezbollah to temporarily defend passively if any hostile American action occurs towards them."
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752415760083747320#m  1/30/24
+
+>🚨 3 rockets were fired from Syria landing in the occupied Golan Heights. The IOF is now responding with shelling the source of fire.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752415380457369606#m  1/30/24
+
+The warrior with the black coat.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752422428473471446#m  1/30/24
+
+>Titled "Support for the Rafah Crossing, Opposition to the Isolation and Subjugation of Gaza" Egyptian political parties and public figures released a collective statement on Tuesday.   
+
+The statement denounced a European Union proposal suggesting the closure of the Rafah border crossing between Egypt and the Gaza Strip. Instead, the proposal advocates for the Kerem Shalom and Erez crossing, both under Israel's full control as alternatives to Rafah crossing with Egypt.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752422813892247726#m  1/30/24
+
+>BREAKING:
+
+ 🇺🇸 Pentagon Press Secretary, Major General Patrick Ryder regarding the announcement by the Iranian-Backed Group, Kata'ib Hezbollah, that they will halt their attacks against U.S. forces in the Middle East:
+
+"Actions speak louder than words. There will still be consequences for the death of 3 American soldiers this past weekend in Jordan."
+
+Megatron: I have a feeling that an agreement has been reached and still nothing will happen. But let's see.
+https://t.me/megatron_ron/1479  1/30/24
+
+>⚡️MUST WATCH: Hezbollah published a video showing the operation targeting the Branit IOF barracks with Burkan IRAM rockets.
+
+At least 2 israeli terrorists were injured in this attack.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752445722794889429#m  1/30/24
+https://files.catbox.moe/oey0d3.mp4  1/30/24
+
+>⚡️Mujahideen Brigades »» Within 24 hours, our Mujahideen carried out the following military operations:
+
+🔻Bombarding gatherings of Zionist forces in eastern Bureij with a number of short-range missiles..
+
+🔻 A Zionist D9 bulldozer, west of #Gaza City, was targeted with an RPG shell and was directly hit.
+
+🔻Our Mujahideen usurped Nahal Oz with a missile strike today.
+
+🔻Waging violent clashes with the Zionist enemy forces in the vicinity of the passport area in western #Gaza City with appropriate and diverse weapons and causing direct casualties among the ranks of the aggressor forces.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752446108721111303#m  1/30/24
+
+>NEW:
+
+ 🇺🇸 State Department spox Matt Miller was asked about the israelis about the Israeli action today who entered a hospital in Jenin and started killing patients:
+
+"Well, do those operations include going into hospitals and murdering people in their beds...is that OK with you guys?"
+
+State Department spox Matt Miller scrambles to answer:
+
+"Israel has said that these were Hamas operatives...I'm not able to speak to the facts of the operation."
+https://t.me/megatron_ron/1483  1/30/24
+
+>BREAKING:
+
+🇮🇷🇺🇲 Iran has told the US via intermediaries that if it strikes Iranian soil directly, Tehran will itself hit back at American assets in the Middle East, drawing the two sides into a direct conflict. - The Guardian
+https://t.me/megatron_ron/1485  1/30/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 30 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted 2 Merkava tanks with a neighborhood west of Khan Yunis, southern Gaza.
+
+🔻Destroyed a Merkava tank & a military D9-bulldozer near the Industry intersection in central Gaza City.
+
+🔻Targeted a Merkava tank with a Yassin-105, followed by engaging with soldiers around it, causing casualties in the western axis of Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled a military gathering of soldiers and their vehicles, east of Al-Maghazi camp in central Gaza.
+
+🔻Engaged in fierce clashes with IOF soldiers and their vehicles in the west and southern axes of Gaza City.
+
+🔻Targeted 6 Merkava tanks & a military D9-bulldozer in the axes around Khan Yunis.
+
+🔻Sniped an IOF soldier aboard a tank infiltrating the vicinity of the Austrian neighborhood in the southwest of Khan Yunis.
+
+🔻Engaged in intense clashes with IOF soldiers using light and heavy weapons in the New Abasan area east of Khan Yunis.
+
+🔻Shelled military gatherings using 60mm mortars, near the Qalaa Towers and Khalid bin Al-Waleed Mosque west of Khan Yunis.
+
+— 🇵🇸 Al-Mujahideen Brigades:
+
+🔻Shelled IOF forces' gatherings in the east of Al-Bureij with a number of short-range rockets.
+
+🔻Targeted a D9-bulldozer, west of Gaza City with an RPG, causing a direct hit.
+
+🔻Striked Nahal Oz settlement with a rocket barrage.
+
+🔻Engaged in fierce clashes with IOF forces, west of Gaza City, achieving direct hits.
+
+— 🇵🇸 Al-Aqsa Martyrs' Brigades:
+
+🔻Engaged in fierce clashes with IOF soldiers & their military vehicles invading Tulkarm camp using machine guns and anti-tank mines.
+
+🔻Directly targeted sniper positions concentrated in the Al-Qadoumi building in the Bilaluna axis, achieving direct hits.
+
+— 🟡 Hezbollah:
+
+🔻Targeted an Israeli forces near Hadb Yaroun site with rockets, inflicting direct hits.
+
+🔻Targeted spy equipment, on the opposite side of Al-Wazani village, causing a direct hit.
+
+🔻Targeted Israeli forces in Hadab Ayta with rockets, causing a direct hit.
+
+🔻Targeted a building housing Israeli soldiers in the Metulla settlement, causing a direct hit.
+
+🔻Targeted the Dahiyra site with a Burkan rocket, causing a direct hit.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752485120869581087#m  1/30/24

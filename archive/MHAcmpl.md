@@ -676,6 +676,8 @@ Free Amnesty: https://archive.4plebs.org/tg/post/91712723/
 Clueless Bird Teacher: https://archive.4plebs.org/tg/thread/91718089/#91723582
 Promiscuous Boy: https://archive.4plebs.org/tg/post/91730436/
 Toast Runs into You!: https://archive.4plebs.org/tg/post/91732937/
+Mission: Impossible (Runt, Suslik): https://desuarchive.org/tg/post/91746842/
+Now I'm Motivated (Rosethorn): https://desuarchive.org/tg/post/91752006/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203

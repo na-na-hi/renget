@@ -6,14 +6,14 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 233rd time, what is Ope?!
+For the 234th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Gartic Phone Advent collab (Tue 01/30 8PM CT)
-Last stream (Stardew Valley)
-https://www.youtube.com/watch?v=o9IijbJ-Uis
+Next stream: Stardew Valley (Wed 01/31 1PM CT)
+Last stream (Gartic Phone Advent collab)
+https://www.youtube.com/watch?v=VtE3R1aESA8
 Last member stream (zatsudan & ASMR)
 https://www.youtube.com/watch?v=UWv41u5tXOw
 
@@ -37,7 +37,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67776396
+Previous thread: >>67861342
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

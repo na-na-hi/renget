@@ -2,16 +2,19 @@
 
 ->![Funny](https://files.catbox.moe/jjv7te.png)<-
 
-## ->❄️[Recently added to the archive: 01/18/2024](https://youtu.be/WCl7mShf8TY)❄️<-
+## ->❄️[Recently added to the archive: 01/30/2024](https://youtu.be/WCl7mShf8TY)❄️<-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
--> (***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 41: A Conflict In Full Swing, Keep Marching Onward](https://docs.google.com/document/d/e/2PACX-1vRoGHhe1GhgiMGuNt6mEoxPT1EZYEXVMKWlozJVs4JjsWEDMacqHFzd8TJnuR7qStIoHAQzcS63QNva/pub) (Watame, Flare, Polka, Nene, Botan, Marine, SFW, Action/Adventure, Fantasy, Fluff)
-(***Series entry!***) [Blackbean Chapter 7](https://docs.google.com/document/d/e/2PACX-1vTGNmmtiZM4WGwTK6UE6zPpwOwl8_yAzYJNZdIPzhH1va0CeBJ_j13k9bnvmcxk-V6TKSZQcoOd_g9Z/pub) (Botan, Towa, Other Chuubas)
-(***Series entry!***) [Blackbean Chapter 8](https://docs.google.com/document/d/e/2PACX-1vTFUT3b68Q2_BIyZJbIqO818tjJixf2kzSvDxOaFIl8em4DXieeMpJBhFJMlXfe70t7nzeoWWnjBDT2/pub)(Mio, Watame, Reine, Fumino Tamaki, FWMC, Lui, Ayame, fantasy, adventure)
-[/wg/ Winter Writing War Collective](https://rentry.org/VTWRWWW) (Numerous Stories within, NSFW/SFW)
-[Shopping With Subaru](https://rentry.org/8dsae) (Subaru, SFW)
-[Karoake with IRys and Kronii](https://rentry.co/toriqndw) (IRyS, Kronii, NSFW)
-<-
+-> (***Series entry!***) [Blackbean Chapter Nine](https://docs.google.com/document/d/e/2PACX-1vSMZf0i6I_5Fwsg1GQQ7VXPaTx4IGrxun_d4RCGaimq0y7NdSa9Cyhk_OHIjNqX7tuT0eatco-8TBLo/pub) (Botan, Towa, Fubuki, multiple chuubas, fantasy)
+[A Priestess Martyr](https://rentry.org/a6bdudta) (Ina, NSFW, NTR)
+[Housekeeping To Dragon Taming](https://docs.google.com/document/d/e/2PACX-1vRP50GJlMyK4A_jt3T-5x9bI27Tj7eUfkIhf1U2qcbAzOJG0lTpjmdQLYHg8mJ9TG6b4qp1CQwhwxk0/pub) (Coco, NSFW)
+[Laplus NTR Greentext Concept Compilation](https://docs.google.com/document/d/e/2PACX-1vSgTloAL3JJjB_eGBpcsefxz7icrMwhYopU35wpkibWw29kNLFoitY12SY8zkh1fIiJJW7Gfiz_5gp0/pub) (Laplus, HoloX, NSFW, NTR, Greentext Comp.)
+[Idol Correction: Marine](https://docs.google.com/document/d/e/2PACX-1vRQKlzIhTbMli1JPqIZMvqKiKx0EqWK_fWhy17rNiDjQryBoXwvigPmb6_zhDGGRlw2QdIriZ14HyMM/pub) (Marine, NSFW, Spanking, /ss/)
+[Choose Your Own Adventure: Shondo Edition: The First Chapter](https://rentry.co/ons9dngb) (Shondo, NSFW/SFW, CYOA, Ryona, Violence, Wholesome, Second Person)
+[Wish Upon The Stars](https://docs.google.com/document/d/e/2PACX-1vRkeIOFUmfSqmvxpYCa5LIk54tTnWPzJ4JMrZax20Riq46Pa6oa3J3hu-CeGigsJfMgXVT7ITMQrH0f/pub) (Suisei, Miko, SFW, Fluff, Angst, Sickfic)
+[Hyper LEather Vector Chloe](https://docs.google.com/document/d/e/2PACX-1vSItjs3mMHSL0ri83R0Ck6SlIwc4SCQbbvyTw4wDUBCyaYFPnDVWQtQqC1NNpe242Abd2w7p5gn8iY8/pub) (Chloe, NSFW, Greentext Comp.)
+[The Cell](https://docs.google.com/document/d/e/2PACX-1vRoOnVjGWMH328sn7rXKih4rbhxN48VHYzUWUFy39-3I4Ahl7TNlT1PjXXQeA7Cm-89yxjxNx7WjZ_p/pub) (Mel, SFW)
+[Aggressive Housemaid](https://rentry.org/suisei54) (Suisei, NSFW, Fluff)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-

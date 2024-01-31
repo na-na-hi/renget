@@ -1099,6 +1099,8 @@ https://nitter.net/AryJeay/status/1749858462203326960#m New  1/23/24
 https://files.catbox.moe/w3a9u5.mp4  New  1/25/25
 >Hezbollah published a video refuting the propaganda rumours spread by israelis regarding the “special missile” attack (Almas ATGM) that targeted the spy tower in Ras Naqoura
 https://files.catbox.moe/5csg2a.mp4 New  1/29/24
+MUST WATCH: Hezbollah published a video showing the operation targeting the Branit IOF barracks with Burkan IRAM rockets.
+https://files.catbox.moe/oey0d3.mp4 New  1/30/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -1446,3 +1448,5 @@ https://files.catbox.moe/b0ejic.mp4 New  1/29/24
 https://youtu.be/GZrDCySjoB4 New  1/29/24
 >Very good information about the war in gaza 
 https://files.catbox.moe/insofq.mp4 New  1/29/24
+>Hezbollah military media publishes : "I am the soldier of Ridwan" Al Ridwan Forces is Hezbollah's elite forces group.
+https://files.catbox.moe/0iscyq.mp4 New  1/30/24
