@@ -1074,6 +1074,9 @@ https://files.catbox.moe/9yzpno.mp4 New  1/28/24
 >Al-Qassam (Hamas) published a video showing their forces clash with military IOF vehicles, west of Khan Yunis, south of the Gaza Strip.
 https://files.catbox.moe/gudd1x.mp4 New  1/29/24
 https://files.catbox.moe/cy5nj3.mp4 New  1/29/24
+>WATCH: Al-Qassam (Hamas) published a video showing the targeting and destroying of military vehicles infiltrating the Tal Al-Hawa neighborhood, west of Gaza City.
+https://files.catbox.moe/lszowp.mp4  1/31/24
+https://files.catbox.moe/bfjkpu.mp4  1/31/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
@@ -1141,6 +1144,8 @@ https://files.catbox.moe/iiilaa.mp4 New  1/25/25
 https://files.catbox.moe/wc5lfn.mp4 New  1/26/24
 >Al-Quds (PIJ) published a video showing rocket and artillery launches crush a logistical military point and the positioning of IOF soldiers & vehicles in the Sudaniya area, northwest of Gaza City.
 https://files.catbox.moe/bna2l3.mp4  1/29/24
+>Al-Quds Brigades published a video showing mortar launches targeting military concentrations and sites on the front lines in the central Gaza Strip.
+https://files.catbox.moe/6t8lae.mp4 New  1/31/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -1460,3 +1465,7 @@ https://files.catbox.moe/223yvd.mp4 New  1/31/24
 https://files.catbox.moe/qwrh0u.mp4 New  1/31/24
 >Israeli forces kidnap a young Palestinian, force them to wear an Israeli uniform, tie them up in chains, and use them as a human shield 
 https://files.catbox.moe/srdd02.mp4  1/31/24
+>30 bodies handcuffed and blindfolded found in Beit Lahia school
+https://youtu.be/6TqacVRsCwU New  1/31/24
+>30 Palestinian bodies discovered in Northern Gaza school, handcuffed and blindfolded
+https://youtu.be/t-h9mVqOcBA New  1/31/24

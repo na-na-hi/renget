@@ -1,6 +1,5 @@
 # JP character impressions (We're back)
-**Elemental thoughts will be written retroactively, so don't be surprised if previous/new entries of older units get updated/added.**
-****
+**Since we don't know what Elements will do yet, these thoughts are not reflective of that system. Most likely after February CB.**
 
 
 [TOC2]
@@ -1252,7 +1251,7 @@ Cons:
 - Creating field at Laby/P.Kokkoro won't reach most frontline units (does reach up to S.Shinobu, which includes Christina)
 
 ### ->New Year's Inori ![Fire](https://pomf2.lain.la/f/vhkpn9gl.png)<-
-**Arena anti-stun meta unit that looks to try and immnue through 1st action stuns and not much else. But that in itself is rather massive.**
+**Arena anti-stun meta unit that looks to try and immnune through 1st action stuns and not much else. But that in itself is rather massive.**
 If your Arena comp was getting blocked by fast stuns, look no futher than a unit that is designed purely to counter that pesky 1st position stun by granting herself immunity to CC and stunning the 1st position enemy in return. However, this does not work as a counter to MS.Kasumi/Kasumi snares, so keep those in mind. You'll need to run the proper counters like a faster stun and Rima/NY.Muimi, respectively. New Year's Inori is all about making S.Misogi's stun or Tsumugi's kidnap made irrelevant by her. Outside of her anti-meta S2, she's a squishy unit that offers nothing. This means you'd better be making her S2 count, or you're wasting a team slot. But as said above, this particular role is huge in times when it's needed, as she's like Noir Shizuru but conceptually functional on the 1st action, as opposed to working outside of it. Read below for more testing results from interactions. 
 Be advised, her role is NOT to have the fastest stun. It is to absorb the fastest stuns, then counter with her slower stun.
 
@@ -1327,15 +1326,28 @@ Cons:
 - No debuffs to enemies (M.Def shred, M/P Def reduction, M.Crit dmg taken increase)
 
 ### ->Astral Rei ![Wind](https://pomf2.lain.la/f/g6t6tuqp.png)<-
-**TBD**
+**Fastest stun in the game with a knockback on one skill + useful UB & S2 means you'll want to farm her up for Arena.**
+If you read the S.Misogi writeup, you understand why having a 1st position stun is so important. Astral Rei now has the fastest 1st action stun in the game. This is compared to staples such as S.Misogi, Inori, Mifuyu, Mahiru and Kasumi as Pos 1 leads - Who she beats. Regardless of her being on defense or offense, Ast.Rei will always win the stun wars. Unlike NY.Inori, Astral Rei's UB and S2 are actually fairly impactful. A barrier nullifying both magic and physical damage for units in range and a defense buff in one skill is also quite useful in arena, especially given the rest of her kit. Her UB knocking back is quite nice, adding more utility to her kit. She most likely won't see any CB usage unless stuns become relevant.
+Overall, Astral Rei will be very useful in offense due to the nature of needing quick 1st action stuns. NY.Inori may be a good answer to her, depending on how Astral Rei shakes up the meta. Her S1 being the stun means that we are guaranteed an improvement to the skill again, in one year's time. Getting her to 3* is a good idea.
 
 -> ![Ast.Rei](https://redive.estertion.win/card/full/128831.webp)<-
 
 Pros:
-- TBD
+- AOE Knockback on UB for damaged units (1000 )
+- Fastest stun on 1st action now (Even beats S.Misogi on defense), with knockback
+- Great opening skills and good loop 
+- S1 reduces movement speed
+	Opening (S1 > S2)
+	Loop (AA > S1 > S2 > AA)
+- S2 Buffs both defenses by 208 for units in range (300)
+- S2 provides barrier for all units within range against both damage types (300)
+- Good positioning to stun (Behind NY.Ruka, in front of Tsumugi)
+-  Can deal decent damage to non-tank units
 
-Cons:
-- TBD
+"Cons":
+- Not super tanky for a 1st position unit
+- No TP Drain
+- S1 Stun only hits closest target, so can be played around 
 
 
 ### ->Astral Yui ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<-

@@ -5,14 +5,14 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##24/01/25-24/01/28 (yy/mm/dd)
+##24/02/01-24/02/04 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 3UTC ()** 
-**FRI: Megaman Starforce 2 at 3UTC (Parsec)** 
-**SAT: Z4Boost at 3UTC (Telemelt)**
-**SUN: Golden SUN: The Lost Age at 19UTC* (Telemelt)**
+**FRI: Megaman Starforce 2 at 3UTC (Parsec)** surely
+**SAT: good question at 3UTC (Telemelt)**
+**SUN: Minemelt around 19UTC* (Minecraft)** probably
 
 ##Cytubes
 

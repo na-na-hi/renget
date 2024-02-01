@@ -15,11 +15,15 @@
 
 	>==Audio== 
 	> - **01/28 - Updated + Added**
-	>- I updated the audio files and added new ones. The total went from 414 songs to 988 songs. [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
+	>- ~~I updated the audio files and added new ones. The total went from 414 songs to 988 songs.~~ [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
+	> - **01/31 - Added**
+	>- [61.TAKE 2](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/nscziJCR)
 	
 	>==Karaoke Clips==
 	> - **01/26 - Added**
 	>- [#60. 『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]](https://rentry.org/5y2mt/#2024-01-25-1-million-subscriber-endurance-karaoke-%E6%AD%8C%E6%9E%A0oh-lets-do-this-7l_qvd9xdrk)
+	> - **01/31 - Added**
+	>- [#61.  『2024-01-30』 - 【UNARCHIVED KARAOKE 歌枠】1 MILLION SUBSCRIBER CELEBRATION TAKE 2 [rmEPrvc8ZmA]](https://rentry.org/5y2mt/#2024-01-30-unarchived-karaoke-%E6%AD%8C%E6%9E%A01-million-subscriber-celebration-take-2-rmeprvc8zma)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -32,7 +36,7 @@
 
 ***
 !!! danger  Audio Only https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ
-	Total: 988 Songs 
+	Total: 1,003 Songs
 
 [TOC3]
 
@@ -1492,6 +1496,26 @@ A New Start - Nanashi Mumei | https://files.catbox.moe/jcx79z.mp4  |  https://cl
 So Sick - Ne-Yo | https://files.catbox.moe/edwo2i.mp4  |  https://cldup.com/FLm0L3wL3k.mp4
 TiK ToK - Kesha |  https://files.catbox.moe/ftlcoa.mp4 |  https://cldup.com/O8jQZAYpM9.mp4
 
+***
+######『2024-01-30』 - 【UNARCHIVED KARAOKE 歌枠】1 MILLION SUBSCRIBER CELEBRATION TAKE 2 [rmEPrvc8ZmA]
+[Go back to the top](https://rentry.org/5y2mt)
+Song | Catbox | Cloudup
+------ | ------ | ----
+Wonderwall - Oasis | https://files.catbox.moe/oyja8e.mp4  |  https://cldup.com/mip9VKudGU.mp4
+Fearless - Taylor Swift | https://files.catbox.moe/1dmpci.mp4  |  https://cldup.com/ZXFbdxrwAR.mp4
+Some Nights - fun. |  https://files.catbox.moe/icphym.mp4 | https://cldup.com/f6h8n0PXgy.mp4
+Bulletproof Love - Pierce The Veil | https://files.catbox.moe/3l3bee.mp4  |  https://cldup.com/VXAiD9iapy.mp4
+King for a Day - Pierce The Veil | https://files.catbox.moe/x8lwqz.mp4  |  https://cldup.com/Js9eLMmOMJ.mp4
+We Own the Night - Dance Gavin Dance | https://files.catbox.moe/bdmxw3.mp4  |  https://cldup.com/ZdGgiXGWbt.mp4
+I Don't Like Who I Was Then - The Wonder Years | https://files.catbox.moe/u335fg.mp4  |  https://cldup.com/REqLNgeqdH.mp4
+I'm Made of Wax Larry, What Are You Made Of - A Day to Remember | https://files.catbox.moe/vx8h6q.mp4  |  https://cldup.com/9IANag-LrS.mp4
+The Downfall of Us All - A Day To Remember | https://files.catbox.moe/uh8nw0.mp4  |  https://cldup.com/56g3Q31Ln6.mp4
+Take Me or Leave Me - Rent |  https://files.catbox.moe/jn54o5.mp4 |  https://cldup.com/7s74ulYrjv.mp4
+Hopelessly Devoted To You - Olivia Newton-John | https://files.catbox.moe/l5lopd.mp4  |  https://cldup.com/cnTkQ_EJ_G.mp4
+Satisfied - Hamilton | https://files.catbox.moe/y1f5fo.mp4  |  https://cldup.com/t5U81LR8h4.mp4
+Popular - Wicked |  https://files.catbox.moe/cjkim0.mp4 |  https://cldup.com/rBBO6JUREG.mp4
+For Good - Wicked | https://files.catbox.moe/0gnc2d.mp4  |  https://cldup.com/AStxzJeSTh.mp4
+My Heart Will Go On - Celine Dion | https://files.catbox.moe/b5zvyy.mp4  |  https://cldup.com/uFdN3-gPBs.mp4
 ***
 ***
 !!! note

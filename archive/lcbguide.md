@@ -353,9 +353,6 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 [MD3 Farming Guide](https://rentry.org/limpsusMD3farmingstrategy)
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
-[Anon's RR2 150 Turn Guide](https://rentry.org/b29eu)
-[Another RR2 150 Turn Guide](https://docs.google.com/document/d/14y0uyHvmkh-DQjWgcZJSR6Nt4Y9o9m5VfqGjG7IL418)
-[RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
 
 ## Useful Tips
 1. READ
@@ -394,4 +391,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 12/24/23: Updated Limbus book Rentry link merry Christmas faggot
 1/8/24: Added MD3 E.G.O gift fusion and farming guide link.
 1/16/24: Updated tier list with some of the newer IDs.
-1/25/23: ABABABABABABA ![lol&](https://files.catbox.moe/7dmu76.png)
+1/25/24: ABABABABABABA ![헤](https://files.catbox.moe/207ryd.png)
+1/31/24: Removed the Railway 2 guides, will add ones for RR3 when they're made. ![lol&](https://files.catbox.moe/7dmu76.png)

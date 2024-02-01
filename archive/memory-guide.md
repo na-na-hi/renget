@@ -10,32 +10,51 @@ It's a great way to keep your story on track; By your Storytext alone, the AI do
 *[My personal preset—Truthfully v10 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ##Context
-
+  
 Start the block with:
 
-> **Summary:** Set in the near future, junior high school teacher-turned-astronaut Ryland Grace emerges from a coma with amnesia.
+> **Summary:** Set in the near future, a man emerges from a coma with amnesia. 
 
-This is a good premise,
+As you can see, this is a basic premise; But a fully functional one, the AI can initiate a story based on this Memory block alone.
+!!! info 
+    At the beginning of the story, you don't need to use Memory slot right away. Just type `Summary:` in the first line of your editor and let it run a while before moving it to Memory.
 
-@@##$$!!(I'm soft rewriting the guide, come back later)
+This logline is solid, but the block could have been better utilized.  
+It is recommended to include specific names for every character mentioned in the summary.
+
+> Summary: Set in the near future, **junior high school teacher-turned-astronaut Ryland Grace** emerges from a coma with amnesia.
+
+Furthermore, we can improve the direction of the story by adding a *dramatic/story* question,  
+such as:
+
+> Summary: Set in the near future, junior high school teacher-turned-astronaut Ryland Grace emerges from a coma with amnesia... **_Can_ he solve the mystery of what happened to him and why he's been brought aboard the International Space Station?**
+
+Try your best to make your 'question' interesting, because it's literally what your story is about!  
+This entire block is _what your story is about_—We don't need to plan out our story or anything, instead, this is basic preparation to make sure that you have an actual story to play with.  
+
+Consider adding someone else who will be doing something that your protagonist doesn't like, or some sort of time check:
+
+> In a circle of awful **men**, there is an app called "Date Service" that is being passed around. The app lets users select anyone in the area and the app will take care of the rest—apparently, his family members are being selected left and right... Can Ken break the hypnosis and bring them back before their personalities are completely erased?
 
 ***
 
 ##ATTG
 
-A way to reinforce/initialize story elements and writing style. The pattern in full will look like this:
+The [official](https://docs.novelai.net/text/specialsymbols.html#-spaced-bracketing-) format looks like this:
 
 > [ Tags: realistic depiction of war, shield and spear combat, non-traditional fantasy, inexperienced and scared protagonist ]
 
-Combining with Summary (Most effective):
-> [ Author: J.K. Rowling; Title: The Raining Night; Tags: deserted tropical island, time travel; Genre: horror ]
-> Summary: Harry Potter and the others find themselves on a deserted tropical island. Strange things begin to happen... Can they survive until morning?
+Like the Summary above, this is an extremely useful tool for telling the AI what your story is about, but in an abstract/concise way.  
+In a way, ATTG is an initializer for the Summary, and the entire Memory is an initializer for the Storytext.  
+ATTG in its entirety can contain:
 
-`[ Author: ; Title: ; Tags: ; Genre: ]` Is the official order, always sort them in this way for the most effectiveness.
-Remember! To type space after and before brackets: '`[` ` `' '` ` `]`' - It's how the AI officially learned/recognize ATTG.  
-[ATTG is briefly explained in the NovelAI's official documentation here.](https://docs.novelai.net/text/specialsymbols.html#-spaced-bracketing-)
+> [ Author: Brandon Sanderson; Title: There are impostors among us; Tags: spaceship, accusation, fixing ship, murder mystery; Genre: detective, thriller ]
 
-Try not to be too narrow and be concrete.  Remember, the ATTG represent your story state. If you get too specific/similar, you will be unintentionally lock your story in that state. Try to write one that have good quality, and long lifetime.
+!!! info
+    `[ Author: ; Title: ; Tags: ; Genre: ]` Is the official order, always sort them in this way for the most effectiveness.
+    Remember! To type space after and before brackets: '`[` ` `' '` ` `]`' - It's how the AI officially learned/recognize ATTG.  
+
+Be concrete and try not to be too narrow.  Remember, the ATTG represent your story state. If you get too specific/similar, you will be unintentionally lock your story in that state. Try to write one that have good quality, and long lifetime.
 
 **Examples:**
 
@@ -48,12 +67,8 @@ Try not to be too narrow and be concrete.  Remember, the ATTG represent your sto
 > [ Tags: urchin protagonist, animal pov, mistaken for magical species, imposter syndrome, medieval fantasy setting, trio of humans and animals, rescue mission, lying ]
 > Summary: A usual steal-from-the-fishmonger goes disastrously wrong as he's chased by a magical bounty hunter. He seeks refuge in a familiar store, only to be chosen by a young wizard boy. Can this tuxedo tom convince everyone that he's a familiar in order to keep his newfound sanctuary, and how can he rescue his companion from the looming danger?
 
-> [ Title: There are impostors among us; Tags: spaceship, accusation, fixing ship, murder mystery; Genre: detective ]
-
-> [ Tags: zombie, resource management, clueless, oblivious, profanity; Genre: post-apocalyptic, survival ]
-
 !!! info Auto Summarization
-	If you want the AI to write a summary for you, or help you out.  
+	If you want the AI to write a summary for an already existed story.
 	Simply type this onto your story: `----`  
 	`[ Knowledge: story Type: summary ]`  
 	`The story so far:`  

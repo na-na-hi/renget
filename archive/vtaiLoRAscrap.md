@@ -23,6 +23,7 @@
 **Kaminari Clara (Phase Connect)** - https://civitai.com/models/277710/kaminari-clara-phase-connect-jp (early bake, probably not good)
 **Soyapoya (Indie)** - https://civitai.com/models/281732/soyapoya
 **Chloe Pawapua (Re:Memories)** - https://civitai.com/models/255039/chloepawapua-rememories-vtuber
+**Fumino Tamaki (Nijisanji)** - https://civitai.com/models/261333/fumino-tamaki-nijisanji
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -32,6 +33,7 @@
 **PapitasVT (Indie)** - https://civitai.com/models/273171/papitasvt
 **Kobo Kanaeru (Hololive)** - https://civitai.com/models/280560/kobo-kanaeru-hololive
 LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-melody-vshojo-or-original-appearance-4-outfits-or-locon
+**Suou Sango (Nijisanji)** - https://civitai.com/models/260246/suou-sango-nijisanji
 
 ### -> SDXL (will not test, unless..?) <-
 **Fallenshadow / Shondo (Indie)** - https://civitai.com/models/265519/fallenshadow-sdxl

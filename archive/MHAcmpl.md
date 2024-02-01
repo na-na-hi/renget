@@ -678,6 +678,7 @@ Promiscuous Boy: https://archive.4plebs.org/tg/post/91730436/
 Toast Runs into You!: https://archive.4plebs.org/tg/post/91732937/
 Mission: Impossible (Runt, Suslik): https://desuarchive.org/tg/post/91746842/
 Now I'm Motivated (Rosethorn): https://desuarchive.org/tg/post/91752006/
+the guy the bro the pal the friend bobby samson himself!: https://desuarchive.org/tg/post/91765155/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -719,6 +720,7 @@ Sandy & Mio Laughing: https://archive.4plebs.org/tg/post/91224363/
 Sandatsu & Mio Date: https://archive.4plebs.org/tg/thread/91595699/#91603225
 Confession: https://archive.4plebs.org/tg/post/91630760/
 do your best: https://archive.4plebs.org/tg/thread/91673568/#91676099
+Underground Gala Mio: https://desuarchive.org/tg/post/91759097/
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -740,6 +742,7 @@ Spark: https://archive.4plebs.org/tg/post/90018257
 Drone: https://archive.4plebs.org/tg/post/90953377
 Sandatsu Art: https://archive.4plebs.org/tg/post/91405875/
 excellence (Hailey): https://archive.4plebs.org/tg/post/91735347/
+delinquent(Yui): https://desuarchive.org/tg/post/91759884/
 
 ***
 

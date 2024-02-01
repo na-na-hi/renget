@@ -8,7 +8,7 @@
 
 ### January
 
-[03](https://www.youtube.com/watch?v=1qIrBAw2Eeg&list=PLqVTVLsIotSm0dKKjL7n9e0yVcMWhgP2A)|[10](https://www.youtube.com/watch?v=80B7wYKpvrY&list=PLqVTVLsIotSm9QFTF2TKmNEvYn1-P5M9H)|[17](https://www.youtube.com/watch?v=0Bw8V1ZKVx4&list=PLqVTVLsIotSlr0fbcjh0LZlmSE3Z3QDw_)|[24](https://www.youtube.com/watch?v=5svVJtBfcig&list=PLqVTVLsIotSmcgCMFXiuWKBKVFGbBlkLj)|
+[03](https://www.youtube.com/watch?v=1qIrBAw2Eeg&list=PLqVTVLsIotSm0dKKjL7n9e0yVcMWhgP2A)|[10](https://www.youtube.com/watch?v=80B7wYKpvrY&list=PLqVTVLsIotSm9QFTF2TKmNEvYn1-P5M9H)|[17](https://www.youtube.com/watch?v=0Bw8V1ZKVx4&list=PLqVTVLsIotSlr0fbcjh0LZlmSE3Z3QDw_)|[24](https://www.youtube.com/watch?v=5svVJtBfcig&list=PLqVTVLsIotSmcgCMFXiuWKBKVFGbBlkLj)|[31](https://www.youtube.com/watch?v=-B-236lk2Tc&list=PLqVTVLsIotSkMmB9bOqT7cgmNVNQ5tfrg)|
 
 
 

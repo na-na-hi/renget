@@ -10,11 +10,11 @@
 ##Active
 Clan name | Description | Playstyle | Last CB | Notes
 -- | -- | -- | -- | --
-つるぺったん (28/30) | ちょっと真面目寄りなクラン。matrixで連携を取ってます。| Aiming for Top 300 | 77 (S) |  A clan that tries a little bit harder. We use [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide) to coordinate (details after joining the clan).
-Ayumisters (30/30) | For homeless misters and armpit enthusiasts | Casual | 947 (AA) | -
-Wide Hips (28/30)| Delicious child-bearing hips are what the world needs. | Casual | 1103 (A) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
-Flopielets (29/30) | A lazy kot is a beautiful kot. | Casual | 2104 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.
-Fun Island (26/30) | Kokkoro is the cutest. | Casual | 3132  (BBB) |  Just be yourself. + tag in profile
+つるぺったん (28/30) | ちょっと真面目寄りなクラン。matrixで連携を取ってます。| Aiming for Top 300 | 148 (AAA) |  A clan that tries a little bit harder. We use [matrix](https://tatsumoto.neocities.org/blog/matrix-quickstart-guide) to coordinate (details after joining the clan).
+Ayumisters (30/30) | For homeless misters and armpit enthusiasts | Casual | 758 (AA) | -
+Wide Hips (28/30)| Delicious child-bearing hips are what the world needs. | Casual | 1035 (A) |  New and experienced players welcome, no requirements, but just be somewhat actively playing. Put /pcrg/ in your bio when applying. Stay comfy, lads.
+Flopielets (30/30) | A lazy kot is a beautiful kot. | Casual | 1741 (A) |  Just have fun with the game. Not aiming for glory or ranks just yet.
+Fun Island (26/30) | Kokkoro is the cutest. | Casual | 3492  (BBB) |  Just be yourself. + tag in profile
 
 
 

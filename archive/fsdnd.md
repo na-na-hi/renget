@@ -7,7 +7,8 @@
 #######This filter gets updated `VERY OFTEN`. Check edit date and be sure to be up-to-date.
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
-#######Last word filter update: */hmofa/ thread #2794* | Last image filter update: */hmofa/ thread #2606*
+#######Would be preferable if comments/suggestions/critiques on the filter to **only** be posted only if the thread is at bump-limit and at page 8 or more. If I fail to respond, please ask again in the next thread when it reaches bump-limit too.
+#######Last word filter update: */hmofa/ thread #2854* | Last image filter update: */hmofa/ thread #2606*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -144,7 +145,7 @@
 /(?=.\*maggot|t(|w)eenage|n[e\*]w[a-z]|z[o0][o0]mer|tourist|child|college|year old)(?=.\*from tw[ia]tter)/ims;boards:trash;op:no
 /(?=.\*nigger)(?=.\*z[o0][o0]mer)(?=.\*tw[ia]tter)/ims;boards:trash;op:no
 /(?=.\*(^|\d\n)new.)(?=.\*, please(|\\.)$)/ims;boards:trash;op:no
-/(?=.\*^>[1-9][0-9]{0,2}(|\\+) ((|unique )IPs|posters))(?=.\*in)(?=.\*(less than|[1-9][0-9]{0,2} hours))/ims;boards:trash;op:no
+/(?=.\*[1-9]\[0-9\](|[0-9]) ips)(?=.\*[1-9]\[0-9\](|[0-9]) (hr|hours))/ims;boards:trash;op:no
 /these threads will never be comfy/i;boards:trash;op:no
 /cycle of newfaggotry/i;boards:trash;op:no
 /cancer that is killing hmofa/i;boards:trash;op:no

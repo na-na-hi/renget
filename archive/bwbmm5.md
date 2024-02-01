@@ -132,7 +132,7 @@
 /(?=.*maggot|t(|w)eenage|n[e*]w[a-z]|z[o0][o0]mer|tourist|child|college|year old)(?=.*from tw[ia]tter)/ims;boards:trash;op:no
 /(?=.*nigger)(?=.*z[o0][o0]mer)(?=.*tw[ia]tter)/ims;boards:trash;op:no
 /(?=.*(^|\d\n)new.)(?=.*, please(|\.)$)/ims;boards:trash;op:no
-/(?=.*^>[1-9][0-9]{0,2}(|\\+) ((|unique )IPs|posters))(?=.*in)(?=.*(less than|[1-9][0-9]{0,2} hours))/ims;boards:trash;op:no
+/(?=.*[1-9]\[0-9](|[0-9]) ips)(?=.*[1-9]\[0-9](|[0-9]) (hr|hours))/ims;boards:trash;op:no
 /these threads will never be comfy/i;boards:trash;op:no
 /cycle of newfaggotry/i;boards:trash;op:no
 /cancer that is killing hmofa/i;boards:trash;op:no

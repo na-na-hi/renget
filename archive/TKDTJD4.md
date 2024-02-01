@@ -893,3 +893,307 @@ https://t.me/megatron_ron/1485  1/30/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.lanterne-rouge.info/AryJeay/status/1752485120869581087#m  1/30/24
+
+>⚡️BREAKING: Yemeni Armed Forces’ Spox, Yahya Sarae:
+
+The naval forces of the Yemeni Armed Forces fired several anti-ship missiles at the American "USS Gravely (DDG 107)" destroyer in the Red Sea.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752618285781197219#m  1/31/24
+
+>⚡️| 🇮🇶 Islamic Resistance in Iraq published a video showing the launch of an Iranian Shahed-101 suicide drone towards the military target inside occupied Palestine, 2 days ago.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752656801617592528#m  1/31/24
+https://files.catbox.moe/f1bnhl.mp4  1/31/24
+
+>🚨| Preliminary reports of a suicide drone attack targeting the US Al-Harir military base in northeast of Erbil.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752650302593884405#m  1/31/24
+
+>⚡️Al-Quds Brigades published a video showing mortar launches targeting military concentrations and sites on the front lines in the central Gaza Strip.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752648985964154905#m  1/31/24
+https://files.catbox.moe/6t8lae.mp4  1/31/24
+
+>🛑| Al-Quds Brigades:
+
+Carried out simultaneous bombing operations with mortars & rockets (Badr-1 IRAM & 107mm) on military concentrations and vehicles on the front lines east, south and west of the city of Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752623305306079326#m  1/31/24
+
+>☠️ The IOF admits the deaths of 4 officers during fighting in the Gaza Strip yesterday:
+
+🔻Maj. (res.) Netzer Simchi, 30, of the 14th Armored Brigade's 87th Battalion.
+
+🔻Cpt. (res.) Gavriel Shani, 28, a team commander in the 646th Brigade's 6646th Patrol Battalion.
+
+🔻Warrant Officer (res.) Yuval Nir, 43, of the 646th Brigade's 6646th Patrol Battalion.
+
+🔻Sgt. First Class Ran Gvili, killed on October 7.
+
+>Simchi was killed in the northern Gaza Strip, while Shani and Nir were killed in the Strip's south along with another 2 of the same unit who were seriously wounded.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752572956650168331#m  1/31/24
+
+>Sigrid Kaag, Senior Humanitarian and Reconstruction Coordinator for Gaza: “There is no way any organization can replace or substitute the tremendous capacity and the fabric of UNRWA and its ability and knowledge.”
+https://nitter.lanterne-rouge.info/QudsNen/status/1752663174547988544#m  1/31/24
+
+>A clown entertains children at one of the shelter centers in Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752669177410642106#m  1/31/24
+https://files.catbox.moe/o7mrsh.mp4  1/31/24
+
+>CARE International warned today that over two million Palestinians in the war-torn Gaza Strip are at risk of dying of hunger and preventable diseases. 
+
+Hiba Tibi, Acting Deputy Regional Director for the Middle East and North Africa, said, "The conditions are a living nightmare. People have no winter clothes, no blankets, nothing to keep their children warm."
+
+She added, "The floors are muddy as the rain keeps flooding the tents. The camps we work in have hardly any water, people are forced to defecate in the open as there are not enough toilets, and many are suffering from diarrhea."
+
+>"People share small rooms or tents with dozens of others, and pregnant women lie on the cold floor without a mattress next to people they have never met before. Everyone is coughing, children have bloody diarrhea, and mothers stop eating to ensure their children are fed."
+https://nitter.lanterne-rouge.info/QudsNen/status/1752632643718410721#m  1/31/24
+
+>Satellite images of the city of Khan Yunis before and after the continuing Israeli aggression.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752638524791075046#m  1/31/24
+
+>An Israeli soldier humiliates Palestinian hostages kidnapped from Gaza and orders them to chant together that they will become slaves for him and his family.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752597011323301983#m  1/31/24
+
+>⚡️Launch of missiles towards the "Al-Malikiyah" site of the occupation army on the border with #Lebanon
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752690527714062387#m  1/31/24
+
+>Ben Gvir:
+This is it? America moved to administer #Israel? We will not be a banana republic
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752691144444571872#m  1/31/24
+
+>BREAKING:
+
+⚡ 🇿🇦🇵🇸 South Africa's president's spokesperson:
+
+"Nothing will deter the country from the pursuit of seeing a free Palestine, free from occupation and genocidal attacks"
+https://t.me/megatron_ron/1493  1/31/24
+
+>BREAKING:
+
+⚡ 🇺🇸🇮🇷 US plans to target Iranian assets outside of Iran, but Biden can't convince Iran not to retaliate
+
+U.S. military action against Iran could come in the form of a 'campaign' that could last 'weeks', which would see the targeting of Iran-backed militias in airstrikes across Syria and Iraq, as well as strikes on Iranian assets outside of Iran – NBC
+
+Yesterday, the media reported that the Pentagon informed Iran through Switzerland that they would target Iranian assets, asking Iran not to retaliate. Iran naturally said it would retaliate.
+
+The media also reported that Biden is on the fence about whether or not to go to war with Iran.
+
+The CIA director william burns yesterday in an article for Foreign Affairs wrote that the only way to PROTECT Israel is "dealing with Iran."
+https://t.me/megatron_ron/1497  1/31/24
+
+>BREAKING:
+
+⚡ 🇮🇷 Foreign Minister of Iran, Hossein Amir-Abdollahian:
+
+"The Iranian response to American threats will be decisive and direct"
+https://t.me/megatron_ron/1501  1/31/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing the targeting and destroying of military vehicles infiltrating the Tal Al-Hawa neighborhood, west of Gaza City.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752727804284723264#m  1/31/24
+https://files.catbox.moe/lszowp.mp4  1/31/24
+https://files.catbox.moe/bfjkpu.mp4  1/31/24
+
+>☠️ The IOF admits to the death of a reservist commander during fighting in the northern Gaza Strip today:
+
+🔻Maj. (res.) Yitzhar Hofman, 36, a commander in the Israeli Air Force's elite Shaldag unit.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752737423874764895#m  1/31/24
+  
+>BREAKING| US Ambassador to UN Security Council says we must be honest about the International Court of Justice's decision; as it did not order an immediate ceasefire.
+
+(Illustrative photo)
+https://nitter.lanterne-rouge.info/QudsNen/status/1752737904835637334#m  1/31/24
+
+>🛑 Al-Qassam (Hamas) has since this morning:
+
+🔻Targeted 3 Merkava tanks
+🔻Targeted 1 bulldozer 
+🔻Destroyed 1 Merkava-4 tank (on fire)
+🔻Sniped an IOF soldier
+https://nitter.lanterne-rouge.info/AryJeay/status/1752742831398035602#m  1/31/24
+
+>"The bomb fell on my mums lap. It took us days to take all her body parts from the rubble"
+
+BBC reports on some of the horrors in Gaza that Israel has been committing for 117 days.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752752329177067948#m  1/31/24
+https://files.catbox.moe/223yvd.mp4  1/31/24
+
+>🛑| Al-Quds Brigades (PIJ)
+
+Destroyed completely an israeli Merkava tank, with a “Thaqqeb” explosive device & engaged in fierce clashes with the soldiers around it.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752760921758319089#m  1/31/24
+
+>🚨| 🇾🇪 Yemen’s Saba Agency: American-British warplanes carried out an aggression with 2 raids on Saada Governorate, Yemen.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752762201104867379#m  1/31/24
+
+>🚨WATCH: Video shows an IOF helicopter extracting wounded/killed israeli soldiers while being under fire by the resistance in the Gaza Strip.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752765605017522576#m  1/31/24
+https://files.catbox.moe/qwrh0u.mp4  1/31/24
+
+>🛑| According to CENTCOM, they claim targeting, in a pre-emptive strike, a surface-to-air missile site in Yemen that was preparing to launch against US aircraft.
+
+How accurate this US claim is, remains questionable, but the point here is that AnsarAllah is not limiting its range of fire to US warships but now also to air targets.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752770760844685357#m  1/31/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing its forces clash with IOF soldiers and military vehicles, in the Maghazi and Bureij camps.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752775864326979933#m  1/31/24
+https://files.catbox.moe/ayab3p.mp4  1/31/24
+
+>BREAKING: Israeli forces kidnap a young Palestinian, force them to wear an Israeli uniform, tie them up in chains, and use them as a human shield during a raid at Qalandia refugee camp in occupied Jerusalem. This didn't start on October 7th.
+https://twitter.com/Kahlissee/status/1752718370619703734  1/31/24
+https://files.catbox.moe/srdd02.mp4  1/31/24
+
+>⚡Ansar Allah military spokesman: We targeted the American destroyer "USS Greeley” with several missiles in the Red Sea
+https://t.me/warmonitors/20238  1/31/24
+
+>⚡️| 🇾🇪 Yemeni Armed Forces’ Spox, Yahya Sarae:
+
+The Yemeni Naval Forces carried out a military operation targeting the American commercial ship "Cole," heading to israeli ports. The operation involved several anti-ship missiles that directly hit the ship.
+
+This operation comes just hours after the naval forces of the Yemeni armed forces targeted the American destroyer "USS Gravely" with several anti-ship missiles in the Red Sea. The strike resulted in a direct and precise hit.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752787210347085875#m  1/31/24
+
+>BREAKING:
+
+ 🇮🇱🇵🇸 The genocide in Gaza appears to be nearing its end
+
+The parties in Paris seem to have reached a deal. Egypt and Qatar are the mediators to the agreement.
+
+Israeli media say that Qatar is preparing to announce a ceasefire on Saturday.
+
+The Wall Street Journal reported that Officials say that Washington is pressing for a ceasefire in Gaza long enough to stop Israel's military momentum. WSJ also says that The urgent need to reach an agreement while American and Israeli military officials are increasingly confident in Hamas' ability to survive, raising doubts about one of Israel's main war goals.
+
+Reports from Lebanon say What is proposed is 3 stages for prisoners, the duration of the first stage being 45 days for civilians and the second stage for military personnel, but without specifying a time period. The third stage is for the exchange of bodies between the two sides, and it is also without specifying a time period.
+
+Netanyahu is still opposed to the agreement, but in the end it looks like he will have to accept it. After this, Britain has already announced that the Palestinians will get a state and it will be recognized all over the world.
+https://t.me/megatron_ron/1503  1/31/24
+
+>⚡️Hadashot Bezaman Hebrew website: 
+
+The #Israeli army summoned an entire division to the northern border
+The 36th Division will move to the north, begin training, and then be stationed at the border line. The artillery brigades will move north with it.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752807670136922543#m  1/31/24
+
+>🛑| Hamas leader Osama Hamdan regarding the prisoner’s exchange:
+
+• We have essential concerns regarding the proposed prisoners’ exchange deal, and we continue to discuss them with different resistance factions to formulate a unified response to present to the mediators.
+
+• In our negotiations, we will seek guarantees for the enemy's commitment, and unless the occupation succeeds on the ground, it will not succeed in politics.
+
+• We will not tolerate any undermining of the Palestine Liberation Organization.
+
+• The primary assurance for the enemy’s commitment to any agreement lies in our capability to respond to aggression from diverse arenas.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752813935646920871#m  1/31/24
+
+>⚡️Yemen: Ali Al-Qahum: The latest operation came directly after the aggression against Saada, and this is a clear message of readiness and keeping our hand on the trigger.
+
+⚡️Yemen: Ali Al-Qahum: There are clear movements by the Americans and the British for ground escalation towards #Yemen and preparations for military action using mercenaries
+
+⚡️Yemen: Ali Al-Qahum: Any mercenary movements with American-British cover in Hodeidah and elsewhere will be met with a decisive response.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752821899099263058#m  1/31/24
+
+>🚨| 🇾🇪 Renewed aggression by American-British warplanes, carrying out a number of raids on Hodeidah Governorate, Yemen
+https://nitter.lanterne-rouge.info/AryJeay/status/1752831406093328506#m  1/31/24
+
+>BREAKING:
+
+⚡ Reports that a commercial shipping vessel has just been hit by a Houthi Anti-ship Missile off the coast of Yemen.
+
+(Photo illustrative)
+https://t.me/megatron_ron/1504  1/31/24
+
+>On day 117 of the war on Gaza, 30 bodies were found inside a school that was besieged by the Israeli forces in Beit Lahia, north of the Gaza Strip. 
+
+All victims were bound and blindfolded, indicating they were under arrest. This shocking discovery strongly suggests a field execution crime committed by Israeli forces.
+https://nitter.lanterne-rouge.info/QudsNen/status/1752798780326367717#m  1/31/24
+
+>30 Palestinian bodies discovered in Northern Gaza school, handcuffed and blindfolded
+https://youtu.be/t-h9mVqOcBA  1/31/24
+
+>30 bodies handcuffed and blindfolded found in Beit Lahia school
+https://youtu.be/6TqacVRsCwU  1/31/24
+
+>⚡️#Yemen: Al-Mayadeen correspondent in #Sanaa:
+
+ Continuous American and British raids target the Al-Jabanah area north of the coastal city of Hodeidah on the Red Sea.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1752840926492270602#m  1/31/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, January 31 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted the American "USS Gravely" destroyer in the Red Sea with anti-ship naval missiles.
+
+🔻Targeted the American commercial ship "KOI" in the Gulf of Aden with anti-ship naval missiles.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted 3 Merkava tanks with Yassin-105s in the axes of Khan Yunis, southern Gaza Strip.
+
+🔻Destroyed a Merkava-4 tank, southwest of Gaza City, causing it to catch fire.
+
+🔻Targeted a military D9-bulldozer using Yassin-105s, in Tal al-Hawa, southwest of Gaza City.
+
+🔻Successfully sniped an IOF officer in the Tal al-Hawa neighborhood, southwest of Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Bombed IOF soldiers & their vehicles with mortars, Badr-1 IRAM rockets, and 107mm rockets, in the axes east, south, and west of Khan Yunis.
+
+🔻Engaged in intense clashes with IOF soldiers & vehicles using machine guns and anti-tank rockets in the "Al-Arayshiya" and "Batin al-Sameen" areas, west and southwest of Khan Yunis.
+
+🔻Targeted a group of soldiers fortified in a building in the northwestern axis of central Gaza with a guided 107mm missile.
+
+🔻Engaged in fierce clashes with IOF soldiers & their vehicles, using machine guns and anti-tank rockets, in the Sabra and Tal al-Hawa axis, southwest of Gaza.
+
+🔻Destroyed completely an israeli Merkava tank, with a “Thaqqeb” explosive device & engaged in fierce clashes with the soldiers around it. 
+
+🔻Shelled IOF soldiers and their vehicles, in the vicinity of the neighborhood west of Khan Yunis.
+
+🔻Shelled IOF soldiers and vehicles in the eastern axis of the Bureij Camp with mortars.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted the position and deployment of IOF soldiers, west of Gaza City, with heavy-caliber mortars, and confirmed direct and confirmed casualties.
+
+🔻Bombed occupied Beersheba with a rocket barrage (28 jan)
+
+🔻Targeted the deployment and positions of IOF soldiers, west of Gaza City, with heavy-caliber mortar shells.
+
+🔻Shelled the israeli military command headquarters and the airstrip in Re'im with a number of rockets.
+
+🔻Engaged in multiple clashes with IOF forces in the axes of Sabra, Tal al-Hawa, and the western areas of Gaza City using suitable and diverse weapons.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Sniped a Zionist soldier in the western axis of Khan Yunis.
+
+🔻Shelled a military gathering of soldiers and vehicles with mortars and short-range Al-Aqsa rockets, west of Khan Yunis.
+
+🔻Shelled the Kissufim military site with a rocket barrage.
+
+🔻Clashed with IOF forces using machine guns and RPGs on the axes southwest of Khan Younis.
+
+— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+
+🔻Artillery units targeted with tactical fire military vehicle positions and soldier gatherings with mortars, in Khan Younis.
+
+🔻Clashed with IOF forces in the axes in Khan Younis.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Shelled invading military vehicles in the axis in Tal Al-Hawa, west of Gaza City, with a number of heavy mortars.
+
+🔻Shelled military vehicles penetrating into several axes in the Gaza Strip with heavy-caliber mortars.
+
+— 🟡 Hezbollah (7 operations)
+
+🔻Targeted a gathering of israeli soldiers in the Tayhat hill with rockets.
+
+🔻Targeted spy equipment at the Hanita site with suitable weapons.
+
+🔻Targeted a gathering of israeli soldiers in the vicinity of Metat with rockets.
+
+🔻Targeted a Merkava tank at the Biyad Blida site with suitable weapons.
+
+🔻Targeted a building housing israeli soldiers in the Metula settlement with suitable weapons.
+
+🔻Targeted the Jal al-Alam site with Falaq-1 rockets.
+
+🔻Targeted the Menara settlement with suitable weapons, resulting in damage to one of the buildings, in response to israeli attacks on civilian buildings in South Lebanese villages.
+https://nitter.lanterne-rouge.info/AryJeay/status/1752846456258523289#m  1/31/24
