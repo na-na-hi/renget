@@ -61,9 +61,17 @@
 - Discover and access music from various sources to effortlessly download it in the highest quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/web.ligaudio.ru/)
 
+### 🔗 [Renovatio Records](https://renovatiorecords.blogspot.com/)
+- Committed in offering extraordinary film music albums for an easy download process.
+- [URL Safety Results](https://www.urlvoid.com/scan/renovatiorecords.blogspot.com/)
+
 ### 🔗 [Sitting on Clouds](https://www.sittingonclouds.net/)
 - Superb soundtrack collection with a heavy emphasis on video games and Japanese anime is available on leading file hosts.
 - [URL Safety Results](https://www.urlvoid.com/scan/sittingonclouds.net/)
+
+### 🔗 [SquidBoard](https://www.squid-board.org/) • Sign Up
+- Nice forum focused on finding any media soundtrack you desire or require.
+- [URL Safety Results](https://www.urlvoid.com/scan/squid-board.org/)
 
 ### 🔗 [Sukidesuost](https://sukidesuost.info/)
 - Wonderful and trustworthy site to acquire Asian music, mostly utilizing the Mega file host.
@@ -176,6 +184,22 @@
 ### 🖥️ [Zotify](https://gitlab.com/team-zotify/zotify)
 - A very customised Spotify music and podcast downloader. It is advised that you utilise Zotify using a burner account.
 - [URL Safety Results](https://www.urlvoid.com/scan/gitlab.com/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 ➜ Streaming
+
+### ▶️ [MusicDex](https://musicdex.org/)
+- Compilation of anime soundtracks, meticulously curated to highlight both openings and endings.
+- [URL Safety Results](https://www.urlvoid.com/scan/musicdex.org/)
+
+### ▶️ [Squidify](https://www.squidify.org/)
+- Assortment of anime, video game, movie and TV soundtracks for your listening pleasure.
+- [URL Safety Results](https://www.urlvoid.com/scan/squidify.org/)
 
 &nbsp;
 

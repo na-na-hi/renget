@@ -246,10 +246,13 @@ bittenhard
 stealth-brock, (also maybe shenanimation, alt)
 incase
 sunna \(nilsunna\)
-wagashi /(dagashiya/)
+wagashi \(dagashiya\)
 sagiri
 melkor_mancin
 alp
+elf \(stroll_in_the_woods\)
+tomu \(tomubobu\)
+kame \(kamepan44231\)
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk 
@@ -257,6 +260,7 @@ geo_\(yukishitadou\)
 fadingz 
 sima_naoteng 
 nyororiso_\(muyaa\) 
+
 
 seems to induce a change but I could be hallucinating or it could
 be just due to the randomness of the model

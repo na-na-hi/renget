@@ -4,6 +4,7 @@
 * You can participate in clan battles each month. You can borrow 1 character from any level player in your clan, no restrictions.
 * Put identifier in profile when applying. Something to let the leaders know you're from the thread and not some random.
 * Do note that if you join a clan not marked as Casual or Freeplay, you're most likely expected to pull your own weight.
+	- You must do at least 1 hit during the Clan Battle event period in order to receive clan rewards. 
 * Clans marked as Casual or Freeplay have no restrictions for joining, unless noted otherwise.
 * Quote OP if you want things updated
 ***

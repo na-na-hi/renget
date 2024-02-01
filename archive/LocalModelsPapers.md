@@ -1,5 +1,5 @@
 #Local Models Related Papers
-/lmg/ | ->[Abstracts Search](https://files.catbox.moe/mt1b7p.txt)<-
+/lmg/ | ->[Abstracts Search](https://files.catbox.moe/c0tmxp.txt)<-
 ------ | ------
 |**Google** ->[Papers](https://research.google/pubs/?area=machine-intelligence) [Blog](https://ai.googleblog.com)<-
 12/2017|[Attention Is All You Need (Transformers)](https://arxiv.org/abs/1706.03762)
@@ -205,6 +205,7 @@
 11/2023|[CogVLM: Visual Expert for Pretrained Language Models](https://arxiv.org/abs/2311.03079)
 12/2023|[CogAgent: A Visual Language Model for GUI Agents](https://arxiv.org/abs/2312.08914)
 01/2024|[APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding](https://arxiv.org/abs/2401.06761)
+01/2024|[LongAlign: A Recipe for Long Context Alignment of Large Language Models](https://arxiv.org/abs/2401.18058)
 |
 |**Open Models**
 06/2021|[GPT-J-6B: 6B JAX-Based Transformer](https://archive.is/HPCbB)
@@ -526,6 +527,10 @@
 01/2024|[EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty](https://arxiv.org/abs/2401.15077)
 01/2024|[With Greater Text Comes Greater Necessity: Inference-Time Training Helps Long Text Generation (Temp LoRA)](https://arxiv.org/abs/2401.11504)
 01/2024|[YODA: Teacher-Student Progressive Learning for Language Models](https://arxiv.org/abs/2401.15670)
+01/2024|[KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization](https://arxiv.org/abs/2401.18079)
+01/2024|[LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
+01/2024|[Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model](https://arxiv.org/abs/2401.17868)
+01/2024|[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

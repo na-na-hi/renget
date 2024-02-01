@@ -1318,7 +1318,7 @@ Mayuno A. Charlotte | - | - | -
 
 ## -> Misc <-
 !!! info Available Loras without the need of updates and have been tested.
-	Aradia Ravencroft
+	Aradia Ravencroft, Malpha Ravencroft, Mamarissa Ravencroft, 
 
 ## -> Indies <-
 
@@ -1326,16 +1326,10 @@ Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
 Fadianji / 不稳定发电机 | X | X | - | -
 Keriki Mara | X | X | - | -
-Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023)
+Lucy Pyre | X | X | - | Looking for V3 Lora (V3 debuted October 29th, 2023) and a better V2 Lora
 Snuffy / Smilfy | X | X | - | Looking for new outfit loras (for context: Halloween outfit https://tinyurl.com/SNHWout and Christmas outfit https://tinyurl.com/SNCHout )
 Nanobites | X | X | - | -
-Avispa Nectarinia | X | - | X | -
-Rainhoe | X | - | X | -
-Luluna Rina | X | - | X | -
-Fairy Ichika | X | - | X | -
-Filian | X | - | X | Testing new lora
-Bazeelle | X | - | X | -
-Camila | X | - | X | -
+Filian | X | X | - | Her lora's have the worst luck, barely usable.
 
 # -> DEFUNCT CORNER <-
 ***

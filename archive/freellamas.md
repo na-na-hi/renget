@@ -65,8 +65,7 @@ Temperature: [0.7 - 0.9] - slide this up as your chat gets longer for more creat
 Rep. pen: [1.05 - 1.12] - reduce likelihood of previously appeared tokens showing up
 Rep. pen range: [888] - how many previous tokens to scan for repetition
 Top_k: [100] - number of best tokens to select from
-Min_p: [0.03] - minimum chance for a token to be selected compared to the best token
-Dyna temp: [min 0.2, max 1.4] - Set low for low-bit quantized models
+Min_p: [0.02] - minimum chance for a token to be selected compared to the best token
 Do_sample: [On]
 ```
 https://rentry.org/llm-settings

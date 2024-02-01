@@ -14,9 +14,9 @@ but [you're](https://www.youtube.com/watch?v=dKc9WV_Ts40) a part of [me.](https:
 -> ![](https://caterpie.crd.co/assets/images/gallery14/b5fc5262.gif?v=40b16407) <-
 -> ***horror games***, (outlast, phasmophobia, <-
 -> lfd2, ect) flash games, ***dogs***, *legos*, paranormal <-
--> indie music, [*mild high club*](https://www.youtube.com/@MildHighClub), [*vacations*](https://www.youtube.com/@VACATIONSband), *d:bh* <-
--> ***baking*** (like cookies or cake!), drawing, <-
--> [***strangest videos***](https://twitter.com/WeirdestMemes), ***GOLF CARTING WOO*** <-
+-> indie music, [*mild high club*](https://www.youtube.com/@MildHighClub), [*vacations*](https://www.youtube.com/@VACATIONSband), *d:bh*, <-
+-> ***baking***, *vanoss crew*, drawing, <-
+-> [***strangest videos***](https://twitter.com/WeirdestMemes), ***GOLF WOO*** <-
 -> ![](https://caterpie.crd.co/assets/images/gallery14/2dfd804a.png?v=40b16407) <-
 -> ![](https://i.postimg.cc/Fs7NFx11/HD-transparent-picture.png) <-
 

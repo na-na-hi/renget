@@ -34,8 +34,8 @@
 
 ->◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠<-
 ->      =͟͟͞♡ 𓂅 **made for others**  ![](https://media.discordapp.net/attachments/903364339464044575/1091271792242475029/BC510E6D-3EF8-429A-9D63-FAAFEBADFE9E.gif) <-
--> *italicized* : edited by the owner<-
--> [arashinarus](https://rentry.co/arashinarus) & [ayyur](https://rentry.co/ayyur) & [*klodwig*](https://rentry.co/klodwig) & [*naterivr*](https://rentry.co/naterivr) & [zombiepaws](https://rentry.co/zombiepaws) & [vfuentes](https://rentry.co/vfuentes) & [honaenas](https://rentry.co/honaenas) & [irmie](https://rentry.co/irmie) & [thefirstchiid](https://rentry.co/thefirstchiid) & [devilmanic](https://rentry.co/devilmanic) <-
+-> *italicized* : some changes made by the owner<-
+-> [arashinarus](https://rentry.co/arashinarus) & [ayyur](https://rentry.co/ayyur) & [*klodwig*](https://rentry.co/klodwig) & [*naterivr*](https://rentry.co/naterivr) & [zombiepaws](https://rentry.co/zombiepaws) & [vfuentes](https://rentry.co/vfuentes) & [honaenas](https://rentry.co/honaenas) & [irmie](https://rentry.co/irmie) & [thefirstchiid](https://rentry.co/thefirstchiid) & [*angelwjngs*](https://rentry.org/angelwjngs) & [deltawashere](https://rentry.org/deltawashere) <-
 ->◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡<-
 
 ***

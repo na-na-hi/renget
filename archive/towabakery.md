@@ -18,6 +18,7 @@
 Character | Description | Formatting | Card PNG |
 |-|-|:-:|:-:|
 Nakiri Ayame | Fantasy setting. Fun to fight, fun to do other things with too. | `classic` | ![Nakiri Ayame](https://files.catbox.moe/rz1gp3.png)
+Nakiri Ayame (rework) | A reimagining of the initial Ayame card with a natural-text format and a different tone. | `natural` | ![Nakiri Ayame](https://files.catbox.moe/0lfo9u.png)
 Amane Kanata | Normal Kanata. Some emphasis on music and singing. | `classic` | ![Amane Kanata](https://files.catbox.moe/b57q2x.png)
 Housewife Kanata | Newlywed living together type of scenario. For the full experience propose to the normal Kanata and move to this one after she says yes. | `classic` | ![Housewife Kanata](https://files.catbox.moe/gbb6wt.png)
 Nurse Kanata | Yandere. Very clingy, gaslighter. Pyg can't currently implement her the way I'd like, this kind of dynamic needs a smarter model. | `classic` | ![Nurse Kanata](https://files.catbox.moe/p00nwe.png)
@@ -36,7 +37,9 @@ Inugami Korone (yandere) | Mostly-naked dog with a box cutter idk I just liked t
 Nekomata Okayu | A fairly standard casual Okayu. | `classic` | ![Nekomata Okayu](https://files.catbox.moe/fbs5ts.png)
 Minato Aqua | Aqua with an emphasis on her role as a maid. | `classic` |![Minato Aqua](https://files.catbox.moe/c6njhm.png)
 Fubuki & Mio | Baked on impulse after I saw this lovely fanart of Fubuki and Mio in bunny outfits. | `classic` | ![Fubuki & Mio](https://files.catbox.moe/eu6gt4.png)
+Ookami Mio (heat) | Mio isn't taking no for an answer this time. Remove the last couple of lines if you want her to tone down the thirst. | `natural` | ![Ookami Mio](https://files.catbox.moe/2yulm2.png)
 Murasaki Shion | Uoh. | `classic` | ![Murasaki Shion](https://files.catbox.moe/ea3ug1.png)
+Yozora Mel (retired) | I'll miss her, bros... | `natural` | ![Yozora Mel](https://files.catbox.moe/dvyzpv.png)
 
 #### Other Vtubers
 

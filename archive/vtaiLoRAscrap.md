@@ -24,6 +24,7 @@
 **Soyapoya (Indie)** - https://civitai.com/models/281732/soyapoya
 **Chloe Pawapua (Re:Memories)** - https://civitai.com/models/255039/chloepawapua-rememories-vtuber
 **Fumino Tamaki (Nijisanji)** - https://civitai.com/models/261333/fumino-tamaki-nijisanji
+**Cosmo Ruru (Indie)** - https://civitai.com/models/288020/cosmo-ruru
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -34,9 +35,11 @@
 **Kobo Kanaeru (Hololive)** - https://civitai.com/models/280560/kobo-kanaeru-hololive
 LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-melody-vshojo-or-original-appearance-4-outfits-or-locon
 **Suou Sango (Nijisanji)** - https://civitai.com/models/260246/suou-sango-nijisanji
+**Onigiri (Indie)** - https://files.catbox.moe/xvdr7g.safetensors <- [TAG INFO](https://rentry.org/CCC_Loras#giri-oni-giri)
 
 ### -> SDXL (will not test, unless..?) <-
 **Fallenshadow / Shondo (Indie)** - https://civitai.com/models/265519/fallenshadow-sdxl
 **Pomu Rainpuff (Nijisanji)** - https://civitai.com/models/273382/pomu-rainpuff-sdxl
 (PonyXL ONLY) **Hololive -Promise-** - https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ
 **Neuro-sama V2 + Evil Neuro + Vedal (Indie)** - https://civitai.com/models/276788/neuro-sama-and-evil-neuro-2-outfits-turtle (i was a moron and didnt see the XL)
+(AnimagineV3 ONLY) **Pipkin Pippa (Phase Connect)** - https://files.catbox.moe/wn15lq.safetensors <- [TAG INFO](https://rentry.org/CCC_Loras#pipkin-pippa-xl-only)

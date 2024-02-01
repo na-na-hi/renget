@@ -125,6 +125,7 @@ _______
 | 【UNARCHIVED KARAOKE 歌枠】Merry Christmas Hoomans !!  『2023-12-24』|[![](https://files.catbox.moe/i9jj44.jpg)](magnet:?xt=urn:btih:2b55658b95ee89b6551c7134d852e1b2aa1e960d&dn=%5B20231225%5D%20Unarchived%20Christmas%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/d15g68.txt|
 |  【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?!  『2024-01-09』|[![](https://files.catbox.moe/l9asie.jpg)](https://www.youtube.com/watch?v=4774gd3zEqE)|-|
 | 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!!  『2024-01-25』|[![](https://files.catbox.moe/nv8q14.jpg)](magnet:?xt=urn:btih:d9bcc573c563e4f47f29f6a49859d9df9839d036&dn=%5B20240126%5D%20Unarchived%201M%20Endurance%20Karaoke%20%28rerelease%29&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/7dw9la.txt |
+|【UNARCHIVED KARAOKE 歌枠】1 MILLION SUBSCRIBER CELEBRATION TAKE 2 『2024-01-30』| [![](https://files.catbox.moe/9l828x.jpg)](magnet:?xt=urn:btih:33be97443f69b57e5c039d0e15f5f574b7a86148&dn=%5B20240131%5D%20Unarchived%201M%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/1hxfit.txt| 
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 
@@ -132,7 +133,7 @@ _______
 (Only those hosted by Mumei)
 |Public Archived (incl. pratice) | Public Unarchived| Member's|Overall|
 |------|-----|-----|-----|
-|#9 |#47 | #7 |63 |
+|#9 |#48 | #7 |64 |
 
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)

@@ -1,9 +1,11 @@
 #### Biboo Merch Directory
 *Links for voice packs and other merch*
 
-Last updated: 2024-01-27
+Last updated: 2024-02-01
 
 ##### Voice packs
+- [hololive Valentine's Voice Pack 2024 (EN)](https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019945180) *Order Period : 2024/02/01 18:00 ~ 2024/04/08 18:00 (JST)*
+- [hololive Valentine's Voice Pack 2024 (JP)](https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019912412) *Order Period : 2024/02/01 18:00 ~ 2024/04/08 18:00 (JST)*
 - [hololive English -Advent- New Year's Voice Drama 2024 "A Very Fugitive New Year"](https://shop.hololivepro.com/en/products/hololiveen_advent_newyearvoice2024) 
 - [hololive New Year's Holiday Date Voice Pack ~Welcoming 2024~ (EN)](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318856937692) *Order Period : 2023/12/26 18:30 ~ 2024/03/25 18:00 (JST)*
 - [hololive New Year's Holiday Date Voice Pack ~Welcoming 2024~ (JP)](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318856904924) *Order Period : 2023/12/26 18:30 ~ 2024/03/25 18:00 (JST)*

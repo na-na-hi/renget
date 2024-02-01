@@ -15,7 +15,7 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 [TOC3]
 
 !!! warning
-    Not dead. Thinking about returning to the botmakie business. Maybe gonna release a card once in a while, dunno. Not gonna bother with testing and example dialogue though. -Nuggest, 17.12.23
+    https://youtu.be/CZyh4OklLzA?si=sRtblGfwYr5JDHUN -Nuggest, 01.02.24
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Recent Updates:
@@ -31,7 +31,7 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ####Bots
 |  |  | 
 | ------ | ------ |
-| **Yumiko** | https://files.catbox.moe/zj6cfj.png |
+| **Yumiko** | https://www.chub.ai/characters/Nuggest/yumiko-68d9abf0 |
 | ![Yumiko](https://files.catbox.moe/zj6cfj.png) | **A Japanese schoolgirl who is fed up with weak beta males. She bumps into you, a foreigner, an alpha…** [v1.0, Claude 2, 26.01.24] |
 | **Merry** | https://www.chub.ai/characters/Nuggest/merry-f9eca582/main |
 | ![Merry](https://files.catbox.moe/9ohcpx.png) | **A frightened Christmas Elf Girl in a box winds up in your lonely home on Christmas Eve. In this story, Christmas elves are not willing helpers but slaves. After years of slaving away, Merry managed to escape by hiding in one of Santa's presents.** [v1.0, Claude 2, 17.12.23] *Alternate greeting available without the poetry.* |
@@ -135,13 +135,3 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 | ![Mia](https://files.catbox.moe/f29mvj.png) | ==Ancient Booru card, outdated W++ format== **As you travel on a business trip, news of a catastrophic asteroid headed for Earth reaches you, causing panic worldwide. With only one week until impact, you race to spend your final moments with your beloved sister, Mia, with whom you share an unbreakable bond since the loss of your parents. Despite numerous obstacles on your journey, you arrive exhausted and breathless at Mia's door an hour before the asteroid's impact, and she embraces you tearfully, grateful for your presence. How will you spend your final hour on earth?** [v1.0, Turbo, 12.03.23] *Has experimental countdown feature.* |
 | **Melody** | https://files.catbox.moe/fwp8wj.png |
 | ![Melody](https://files.catbox.moe/fwp8wj.png) | ==Ancient Booru card, outdated W++ format== **As a young and brave knight, you gained fame throughout the kingdom of Eldridia for defeating the notorious dragon Mirax. People from all walks of life admire and respect you for your heroic deed, and even the king has hailed you as a hero. But now, you face a new challenge as you are tasked with serving as the personal retainer of Princess Melody, King Edward's eldest daughter.** [v1.0, Turbo, 11.03.23] |
-
-***
-***
-####Sneak Peeks
-|  |  |  |  | 
-| ------ | ------ | ------ | ------ |
-| ![](https://files.catbox.moe/zxtttu.png) | ![](https://files.catbox.moe/zb4tlk.png) | ![](https://files.catbox.moe/goq6cn.png) | ![](https://files.catbox.moe/xqucqa.png) |
-| ![](https://files.catbox.moe/3jsm5l.png) | ![](https://files.catbox.moe/ur0d6e.png) | ![]() | ![](https://files.catbox.moe/kenpps.png) |
-| ![](https://files.catbox.moe/s83o86.png) | ![](https://files.catbox.moe/gbyn48.png) | ![](https://files.catbox.moe/3pfyx4.png) | ![]() |
-| ![](https://files.catbox.moe/28p293.png) | ![](https://files.catbox.moe/buikgr.png) | ![](https://files.catbox.moe/nms42b.png) | ![](https://files.catbox.moe/w526er.png) |

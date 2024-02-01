@@ -10,14 +10,17 @@ but [you're](https://www.youtube.com/watch?v=dKc9WV_Ts40) a part of [me.](https:
 ***
 -> ![](https://graphic.neocities.org/puppy19.gif) ✩ *a*wesome andrew info . . . ![](https://caterpie.crd.co/assets/images/gallery05/329052ed.gif?v=40b16407) <-
 -> ![](https://caterpie.crd.co/assets/images/gallery14/b5fc5262.gif?v=40b16407) <-
--> hola soy andresss, im a [*andrew long*](https://mandela-catalogue.fandom.com/wiki/Andrew_Long) [*factive*](https://plurality-hub.carrd.co/#introjects) (whoa) <-
--> i am a [*system*](https://dash.pluralkit.me/profile/m/oursw) mood booster and cohost*!!* im in a relationship <-
--> with [*alex*](https://rentry.co/alexkister) (i love him a lots) and i use he/him + sugar themed neo prns. <-
--> (any prns work) i likey my frienfs and churros those are really good i like those. <-
--> i have adhd, autism and anxiety (TRIPLE whammy) just to make that clear, i get <-
--> overwhelmed *very* easily and i may not understand your tone so tone tags are <-
--> appreciated. feel free to int w/ me ! i curse a lot too lol also i love making friends <-
--> and talking to new folks! :D thanks for reading you're awesome <-
-
--> (sorry if this is a shit intro im not good at this stuff :'D) <-
+-> hola soy andres, i am a factive of
+[*andrew long*](https://mandela-catalogue.fandom.com/wiki/Andrew_Long) (the catalogue guy). i 
+identify with all media he is⠀⠀⠀⠀
+presented in & with. my boyfriend
+is⠀%#424750%[**alex**](alexkister)%%⠀& i love him lots! im just 
+a guy.⠀:D⠀i use he sugar & pastry
+themed prns im also the cohost ⠀
+which means im in front alot of ⠀
+the time. i have 'tism, adhd⠀&⠀⠀
+social anixety, which makes⠀⠀⠀
+communicating harder for me.⠀
+i appreciate tonetags alot, feel⠀
+free to say hi!! im cool plea <-
 -> ![](https://caterpie.crd.co/assets/images/gallery14/2dfd804a.png?v=40b16407) <-

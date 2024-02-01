@@ -10,19 +10,19 @@
 |
 **Models**|
 [TheBloke's HF Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
-[HF Model Downloader](https://github.com/bodaay/HuggingFaceModelDownloader)|Multithreaded downloading capabilities 
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
+[Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker)|Open Text-To-Speech models with relevant use case information 
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
-[Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker)|Various open Text-To-Speech models with relevant use case information 
 | 
-[Chatbot Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
-[WolframRW LLM Tests](https://teddit.zaggy.nl/u/WolframRavenwolf/submitted?sort=new&)|For translation capabilities, cross-language understanding, and instruction following/understanding
+[Chat Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
+[WR LLM Tests](https://teddit.zaggy.nl/u/WolframRavenwolf/submitted?sort=new&)|For translation capabilities, cross-language understanding, and instruction following/understanding
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
 [Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search every abstract
-[Arxiv Machine Learning](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of ML/AI papers 
+[Arxiv ML](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of machine learning papers 
 [PapersWithCode](https://paperswithcode.com)|Indexer that allows sorting by GitHub stars
+[Semantic Scholar](https://www.semanticscholar.org)|Scientific literature search tool
 |
 **News**|
 [AI Explained](https://piped.kavin.rocks/@aiexplained-official)|General AI news with well sourced links (Youtube) 
@@ -33,11 +33,10 @@
 **Learn**|
 [LLM Course](https://github.com/mlabonne/llm-course)|Collection of articles, videos, courses, and colabs for learning applied ML 
 [Andre Karpathy YT](https://piped.kavin.rocks/@AndrejKarpathy)|In-depth videos of LLM construction from one of OpenAI's founding members
-[Transformers From Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html)|Blogpost with Juypter notebook that goes step by step for coding and training a small GPT
+[TF From Scratch](https://blog.matdmiller.com/posts/2023-06-10_transformers/notebook.html)|Blogpost with Juypter notebook that goes step by step for coding and training a small GPT
 [LLM Visualization](https://bbycroft.net/llm)|Drag and pull 3D model of various LLMs with explanation for components 
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [Principles of DL](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
-[Math Intro to DL](https://arxiv.org/abs/2310.20360)|Textbook with focus on neural networks and algorithms 
 |
 **Prompting**|
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting (user focus) 
@@ -63,19 +62,16 @@
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
+[KVQuant](https://github.com/SqueezeAILab/KVQuant)|3/4bit KV activations quantization that allows for larger context lengths with very low perplexity degradation 
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
-[ADMM-Pruning](https://github.com/fmfi-compbio/admm-pruning)|Pruning method for llama2 with better results than WANDA or SparseGPT
 [SliceGPT](https://github.com/microsoft/TransformerCompression)|Sparsification scheme which replaces each weight matrix with a smaller (dense) matrix
 |
-**Local LLM Research**|
+**LLM Research**|
 [Entropy-ABF](https://github.com/GAIR-NLP/Entropy-ABF)|Context window extension of RoPE-based LLMs outperforming YaRN 
 [Activation-Beacon](https://github.com/FlagOpen/FlagEmbedding/tree/master/Long_LLM/activation_beacon)|Context extension by compressing raw activations through some minor additional training
-[DynaPipe](https://github.com/awslabs/optimizing-multitask-training-through-dynamic-pipelines)|Dynamic micro-batching of training/finetuning sequence length data for optimal token throughput 
 [PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
-[REST](https://github.com/FasterDecoding/REST)|Speculative decoding using a datastore instead of smaller drafting model 
 [EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
 [Medusa](https://github.com/FasterDecoding/Medusa)|Speculative decode via attention heads by finetuning with backbone LLM
-[TOVA](https://github.com/schwartz-lab-NLP/TOVA)|Cache compression conversion policy to more optimally reduce cache memory 
 [Temp LoRa](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRa module during text generation to preserve contextual knowledge 
 |
 **LLM Guiding**|
@@ -86,7 +82,7 @@
 [DSPy](https://github.com/stanfordnlp/dspy)|Composable and declarative modules for instructing LMs in a familiar Pythonic syntax
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge editing framework for LLMs
 |
-**Non-LLM Local Models**|
+**Non-LLM Models**|
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI. User submitted [workflows](https://comfyworkflows.com)
 [Fabric ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
@@ -124,6 +120,7 @@
 |
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
+[LOCUST](https://github.com/flbbb/locost-summarization)|State-space model for long document abstractive summarization
 [M2-BERT](https://github.com/HazyResearch/m2)|Embedding retrieval models with up to 32k context length based on monarch mixer 
 [ESPN](https://github.com/susavlsh10/ESPN-v1/)|GPUDirect Storage implementation for multi-vector embedding retrieval and bindings
 [PEFA](https://github.com/amzn/pecos/tree/mainline/examples/pefa-wsdm24)|Parameter-free adapters for embedding-based retrieval models (ERM) 
@@ -131,8 +128,9 @@
 **Datasets**|
 [Huggingface](https://huggingface.co/datasets)|Best source for datasets
 [Wiki Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of Wikipedia
-[ERP Forum Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
+[ERP Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
 [VN EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
+|
 [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit)|Generates multi-turn instruct-tuning data from input documents
 [dswav](https://github.com/devidw/dswav)|Audio dataset preparation tool using whisper and ffmpeg to transcribe and split inputs
 [lilac](https://github.com/lilacai/lilac)|Dataset curation tool for RAG or tuning with annotating/clustering/labeling support 

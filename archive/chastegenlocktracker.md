@@ -19,7 +19,6 @@ _(Updated 30-Jan-2024)_
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
 | sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
 | porrov | https://chaster.app/sessions/keJi6vPWo4aZhYX0 | === |
-| 00dest | https://chaster.app/sessions/B9oFDARB4lhX8K72 | 01-Feb-2024 |
 | Chastgenbitch | https://chaster.app/sessions/kFVWZStaQEWRTI4M | === |
 | smoll_lilly | https://chaster.app/sessions/prDrroyAh4E4n5Ky | === |
 | Kodikoh | https://chaster.app/sessions/cEdQz7XDHC171eFE | === |
@@ -29,7 +28,6 @@ _(Updated 30-Jan-2024)_
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
-| umbaqaduyevua | https://chaster.app/sessions/yF2393kuv7xoTVz2 | 31-Jan-2024 |
 | bovinelovely | https://chaster.app/sessions/vEg5eUE0SGGGNHRy | === |
 | bluethesub | https://chaster.app/sessions/3jbrVL0rRxI1Sucv | === |
 | Vulparion | https://chaster.app/sessions/kSl5VH5v7ajrhSaN | === |
