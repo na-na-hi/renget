@@ -41,6 +41,10 @@
 - Download the newest software with only one click and quick installation.
 - [URL Safety Results](https://www.urlvoid.com/scan/allpcworld.com/)
 
+### 🔗 [AppDoze](https://appdoze.com/)
+- Get your the latest software effortlessly and enjoy a seamless installation process.
+- [URL Safety Results](https://www.urlvoid.com/scan/appdoze.com/)
+
 ### 🔗 [AppNee](https://appnee.com/)
 - Focuses on free, indie, portable programmes, and is dedicated to constantly providing users with helpful software.
 - [URL Safety Results](https://www.urlvoid.com/scan/appnee.com/)

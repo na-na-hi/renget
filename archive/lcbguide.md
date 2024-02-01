@@ -341,9 +341,10 @@ The first tier of each is unlocked sometime during chapter 2. Both can be either
 You don't get much Thread past the 3 daily Thread Luxcavation bonuses, so you generally shouldn't do any past that unless you have the Modules to warrant it. You can do extra EXP Luxcavations without much worry if you're starving for XP.
 
 **5. Refraction Railway**
-Endgame hard content. You have until the next Refraction Railway to complete it for very good rewards, just with a considerable Module cost to claim them. It also rewards you with a banner based on turn count and completion time that can be used in virtual dick measuring contests. The shiniest banner is no longer obtainable because Season 2 has ended, so you **WILL** be kicked from the group.
+Endgame hard content. You have until the next Refraction Railway to complete it for very good rewards, just with a considerable Module cost to claim them. It also rewards you with a banner based on turn count and completion time that can be used in virtual dick measuring contests.
 ![BannerOrBricked](https://files.catbox.moe/m0vm5b.png)
-The current Refraction Railway is Line 2: Mobius. For the full rewards, keep fighting bosses and looping until the cycle count at the top says 5, then proceed to the final boss in the middle. Pay the Module fee if you haven't already, and claim the rewards. Click the yellow arrow if you're stuck.
+(will replace this once i finish RR3 (NEVER))
+The current Refraction Railway is Line 3: MirrorClock OrangeRoad. For the full rewards, fight all the bosses, then proceed to Terminus to fight the final boss. Pay the Module fee if you haven't already, and claim the rewards. Click the yellow arrow if you're stuck.
 
 ## Useful Links
 You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_resources)

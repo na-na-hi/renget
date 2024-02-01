@@ -19,13 +19,9 @@ https://www.youtube.com/watch?v=KdbnaBhJs6Y
 https://www.youtube.com/watch?v=nu9msYUXIeU
 https://www.youtube.com/watch?v=BnLoQrCFURI
 
-\>Penacony Travel Promotion Cartoon: Tick-Tock! Come Dream With Us!
-https://www.youtube.com/watch?v=bozDsNXq1Og
-https://www.youtube.com/watch?v=wGGAQ6rr784
-
-\>Myriad Celestia Trailer — "A Night of Ever-Flame: Scene 33"
-https://www.youtube.com/watch?v=8eWVW8ml9G4
-https://www.youtube.com/watch?v=ieUxZHy6ICo
+\>Myriad Celestia Trailer — "A Revisiting of Past Dreams" 
+https://www.youtube.com/watch?v=rPAw4l2rUr8
+https://www.youtube.com/watch?v=rV-EzvxqSFw
 
 \>Current Character Banners: (Dr. Ratio, Kafka + Sushang, Natasha, Hook) - https://www.hoyolab.com/article/24375691
 

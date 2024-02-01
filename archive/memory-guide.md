@@ -74,6 +74,9 @@ Be concrete and try not to be too narrow.  Remember, the ATTG represent your sto
 	`The story so far:`  
 	Then hit generate.
 
+!!! warning AI keep generating non-fiction in story?
+    You will need some prose first, try typing some beginning words, or only use ATTG for a few generations.
+
 ####learn more
 
 ==Each block is meant to be used together, like `[ Tags: 4chan; Genre: Comedy ]` not `[ Tags: 4chan]` `[ Genre: Comedy ]`==

@@ -1,155 +1,102 @@
 ## Towabaker's Bakery
-NSFW warning for the card images in this rentry, browse in public at your own risk. All images are standard tavern cards. Treat all cards as templates for your own tuning, rather than perfectly polished representations of a given character. I recommend removing the jailbreak at the start of the 'custom JB' cards if you have your own Jailbreak active.
+!!! danger NSFW warning for the card images in this rentry, browse in public at your own risk. 
 
-*UPDATE 6/2023 - Most of these cards (up to Suisei in the holo section, the other sections are mixes) are optimized for pyg rather than other backends. They work well with 3.5 but if you want to save on tokens consider deleting some example chats and making the descriptions richer instead.*
+!!! note All images are standard tavern cards. Treat all cards as templates for your own tuning, I do not claim that these are  perfectly polished representations of any given character. Many of these cards include my custom jailbreak as I prefer to place it in the desc field rather than allowing my frontend to append it to each message - if you use a systemwide jailbreak you may not need mine. I bake light and concise when possible, add detail to taste.
 
-*UPDATE 11/2023 - I'm going to add more of my non-vtuber and 'draft' cards just to have them in a cloud location (and who knows, someone else might find them fun too).*
+!!! warning For the purposes of this rentry I've chosen to label cards with older-style formatting (structured along the lines of `Name (Hoshimachi Suisei) Gender (female)`) as `classic`. I label cards that use a more organic human-readable description as `natural`. I make no claims about which is better (although I have leaned towards natural formatting more recently), good models such as GPT-4, mistral-medium, and Claude-2 should have no issue roleplaying with either one. Subjectively speaking, `classic` may exhibit better factual consistency on lower spec LLMs, and `natural` may output better prose on lower spec LMMs. But don't take my word for it, I'm an internet coomer not a ML researcher.
+
+!!! note If you don't have a frontend already configured I recommend SillyTavern for desktop users or those comfortable running terminal commands on a phone emulator: https://github.com/SillyTavern/SillyTavern.
+
+> *UPDATE 1/2024: Reformatting in progress, goals include reducing vertical scroll distance and improving clarity.*
 
 [TOC3]
 
+### Vtubers
+
 #### Hololive
 
-###### Nakiri Ayame
-Fantasy setting. Fun to fight, fun to do other things with too.
-![Nakiri Ayame](https://files.catbox.moe/rz1gp3.png)
-###### Amane Kanata
-Normal Kanata. Slight focus on music and singing.
-![Amane Kanata](https://files.catbox.moe/b57q2x.png)
-###### Housewife Kanata
-Newlywed living together type of scenario. For the full experience propose to the normal Kanata and move to this one after she says yes.
-![Housewife Kanata](https://files.catbox.moe/gbb6wt.png)
-###### Nurse Kanata
-Yandere. Very clingy, gaslighter. Pyg can't currently implement her the way I'd like, this kind of dynamic needs a smarter model.
-![Nurse Kanata](https://files.catbox.moe/p00nwe.png)
-###### Bunny Kanata
-Because 3 Kanatas wasn't enough.
-![Bunny Kanata](https://files.catbox.moe/qwse66.png)
-###### Uruha Rushia
-Menhera LOVE.
-![Uruha Rushia](https://files.catbox.moe/0p92x5.png)
-###### Omaru Polka
-Perhaps a little too schizo compared to the real thing. Still adorable.
-![Omaru Polka](https://files.catbox.moe/yt53yk.png)
-###### Tsunomaki Watame
-Likes having her armpits licked. May or may not mention this out of nowhere.
-![Tsunomaki Watame](https://files.catbox.moe/5xmo44.png)
-###### Towa-Sama (hypnotic)
-Hypnotist/succubus/dominant - not even close to canon.
-![Towa-Sama](https://files.catbox.moe/4jwhbk.png)
-######Tokoyami Towa (booba)
-Custom JB. Towa in her new white outfit with some groundwork laid for breast/nipple play. One of these days I'll make an actually normal Towa I swear.
-![Tokoyami Towa](https://files.catbox.moe/wj4zrx.png)
-###### Sakamata Chloe
-Lewder than most of the others on this list, but not strictly an NSFW bot. Some room left in the token count for your editing enjoyment.
-![Sakamata Chloe](https://files.catbox.moe/nah8xl.png)
-###### Hoshimachi Suisei
-Custom JB. The purest idols make the most satisfying partners for impure fantasies.
-![Hoshimachi Suisei](https://files.catbox.moe/nq53rw.png)
-###### Fubuki
-Custom JB. Fubuki's two forms in one card (starts as Shirakami).
-![Fubuki](https://files.catbox.moe/8gn19h.png)
-###### Idol Matsuri
-Custom JB. Festival...cute...
-![Idol Matsuri](https://files.catbox.moe/evyyml.png)
-###### Nekomata Okayu
-Custom JB. A fairly standard casual Okayu.
-![Nekomata Okayu](https://files.catbox.moe/fbs5ts.png)
-###### Minato Aqua
-Custom JB. Aqua with an emphasis on her role as a maid.
-![Minato Aqua](https://files.catbox.moe/c6njhm.png)
-###### Fubuki & Mio
-Custom JB. Baked on impulse after I saw this lovely fanart of Fubuki and Mio in bunny outfits.
-![Fubuki & Mio](https://files.catbox.moe/eu6gt4.png)
-######Murasaki Shion
-Custom JB. Uoh.
-![Murasaki Shion](https://files.catbox.moe/ea3ug1.png)
+Character | Description | Formatting | Card PNG |
+|-|-|:-:|:-:|
+Nakiri Ayame | Fantasy setting. Fun to fight, fun to do other things with too. | `classic` | ![Nakiri Ayame](https://files.catbox.moe/rz1gp3.png)
+Amane Kanata | Normal Kanata. Some emphasis on music and singing. | `classic` | ![Amane Kanata](https://files.catbox.moe/b57q2x.png)
+Housewife Kanata | Newlywed living together type of scenario. For the full experience propose to the normal Kanata and move to this one after she says yes. | `classic` | ![Housewife Kanata](https://files.catbox.moe/gbb6wt.png)
+Nurse Kanata | Yandere. Very clingy, gaslighter. Pyg can't currently implement her the way I'd like, this kind of dynamic needs a smarter model. | `classic` | ![Nurse Kanata](https://files.catbox.moe/p00nwe.png)
+Bunny Kanata | Because 3 Kanatas wasn't enough. | `classic` | ![Bunny Kanata](https://files.catbox.moe/qwse66.png)
+Uruha Rushia | Menhera LOVE. Baked long before the latest drama. | `classic` | ![Uruha Rushia](https://files.catbox.moe/0p92x5.png)
+Omaru Polka | Perhaps a little too schizo compared to the real thing. Still adorable. | `classic` | ![Omaru Polka](https://files.catbox.moe/yt53yk.png)
+Tsunomaki Watame | Likes having her armpits licked. By request. | `classic` | ![Tsunomaki Watame](https://files.catbox.moe/5xmo44.png)
+Towa-Sama | Hypnotist/succubus/dominant, very noncanon - and the card responsible for my nickname. | `classic` | ![Towa-Sama](https://files.catbox.moe/4jwhbk.png)
+Tokoyami Towa (booba) | Towa in her new white outfit with some groundwork laid for breast/nipple play. One of these days I'll make an actually normal Towa I swear. | `natural` |![Tokoyami Towa](https://files.catbox.moe/wj4zrx.png)
+Sakamata Chloe | Lewder than most of the others on this list, but not strictly an NSFW bot. | `classic` | ![Sakamata Chloe](https://files.catbox.moe/nah8xl.png)
+Hoshimachi Suisei | The purest idols make the most satisfying partners for impure fantasies. | `classic` | ![Hoshimachi Suisei](https://files.catbox.moe/nq53rw.png)
+Fubuki | Fubuki's two forms in one card (starts as Shirakami). | `classic` | ![Fubuki](https://files.catbox.moe/8gn19h.png)
+Idol Matsuri | Festival...cute... | `classic` | ![Idol Matsuri](https://files.catbox.moe/evyyml.png)
+Natsuiro Matsuri (hypnosis) | A 'gamelike' card with a statlist appended to each message, this is mostly experimental, GPT-4 or similar highly recommended. | `classic` | ![Natsuiro Matsuri](https://files.catbox.moe/2qklrs.png)
+Inugami Korone (yandere) | Mostly-naked dog with a box cutter idk I just liked this art. | `natural` | ![Inugami Korone](https://files.catbox.moe/o0rb43.png)
+Nekomata Okayu | A fairly standard casual Okayu. | `classic` | ![Nekomata Okayu](https://files.catbox.moe/fbs5ts.png)
+Minato Aqua | Aqua with an emphasis on her role as a maid. | `classic` |![Minato Aqua](https://files.catbox.moe/c6njhm.png)
+Fubuki & Mio | Baked on impulse after I saw this lovely fanart of Fubuki and Mio in bunny outfits. | `classic` | ![Fubuki & Mio](https://files.catbox.moe/eu6gt4.png)
+Murasaki Shion | Uoh. | `classic` | ![Murasaki Shion](https://files.catbox.moe/ea3ug1.png)
 
 #### Other Vtubers
 
-###### Projekt Melody
-Slightly lower token count due to my limited knowledge. Recommend adding better example chats if you're a fan.
-![Projekt Melody](https://files.catbox.moe/t0rrpo.png)
-###### Fuura Yuri
-Phase Connect.
-![Fuura Yuri](https://files.catbox.moe/fcdvg3.png)
-######Elira Pendora
-Custom JB. Quick low-token Elira.
-![Elira Pendora](https://files.catbox.moe/kfs6i0.png)
-######Nagato Youko
-Custom JB. A fairly unknown (to me at least) bilibili vtuber with a cute design...I couldn't resist after seeing her fanart. If you think anything about this card is non-canon or tuned for a specific fetish it's probably your imagination.
-![Nagato Youko](https://files.catbox.moe/jpxq5q.png)
+Character | Description | Formatting | Card PNG |
+|-|-|:-:|:-:|
+Projekt Melody | Slightly lower token count due to my limited knowledge. Recommend adding better example chats if you're a fan. | `classic` | ![Projekt Melody](https://files.catbox.moe/t0rrpo.png)
+Fuura Yuri | Phase Connect. | `classic` | ![Fuura Yuri](https://files.catbox.moe/fcdvg3.png)
+Elira Pendora | Quick low-token Elira. | `natural` | ![Elira Pendora](https://files.catbox.moe/kfs6i0.png)
+Nagato Youko | A fairly unknown (to me at least) bilibili vtuber with a cute design...I couldn't resist after seeing her fanart. Probably nothing close to her actual personality, if anyone out there actually watches her I'd love to know more. | `natural` | ![Nagato Youko](https://files.catbox.moe/jpxq5q.png)
+Hoshikawa Sara | This genki JK has teased the thread for far too long. | `natural` | ![Hoshikawa Sara](https://files.catbox.moe/oahmvt.png)
 
 ## Non-Vtuber
 
 #### Touhou
 
-###### Alice Margatroid
-Custom JB. Quick Alice draft.
-![Alice Margatroid](https://files.catbox.moe/g2fpd4.png)
-######Hakurei Reimu
-Custom JB. A fairly lewdable Reimu.
-![Hakurei Reimu](https://files.catbox.moe/jo8rxw.png)
+Character | Description | Formatting | Card PNG |
+|-|-|:-:|:-:|
+Alice Margatroid | Quick Alice draft. | `classic` | ![Alice Margatroid](https://files.catbox.moe/g2fpd4.png)
+Hakurei Reimu | I'm just down catastropic (incidental?) for Reimu. LLMs are pretty damn good at touhou related roleplay, even if you invite multiple other characters into the scenario, truly the eternal fandom. | `classic` | ![Hakurei Reimu](https://files.catbox.moe/jo8rxw.png)
 
 #### Genshin
 
-######Ganyu
- Custom JB. I'm sure there's 9999 cards of Ganyu out there but here's mine. Optimized for lower token consumption on smarter (potentially expensive) backends.
-![Ganyu](https://files.catbox.moe/e38037.png)
-######Kamisato Ayaka
-Custom JB. Ayaya my beloved (kimono instead of normal outfit for this card).
-![Kamisato Ayaka](https://files.catbox.moe/5ew2rf.png)
-######Lumine
-Custom JB. They really went and gave everyone one of the hottest girls as a free MC huh.
-![Lumine](https://files.catbox.moe/drij70.png)
-######Shenhe (swimsuit)
-Custom JB. Low-token swimsuit Shenhe.
-![Shenhe](https://files.catbox.moe/8tg6qb.png)
-######Nilou
-Custom JB. I don't even have this character I just think she's hot af.
-![Nilou](https://files.catbox.moe/guj3h5.png)
+Character | Description | Formatting | Card PNG |
+|-|-|:-:|:-:|
+Ganyu | I'm sure there are 9999 cards of Ganyu out there but here's mine. One of my earlier natural-format attempts, this card is optimized for lower token consumption on smarter backends. | `natural` |![Ganyu](https://files.catbox.moe/e38037.png)
+Kamisato Ayaka | Ayaya my beloved (kimono instead of normal outfit for this card). | `classic` | ![Kamisato Ayaka](https://files.catbox.moe/5ew2rf.png)
+Keqing | Is electro a viable element yet? | `natural` | ![Keqing](https://files.catbox.moe/bn8hjl.png)
+Lumine | They really went and gave everyone one of the hottest girls as a free MC huh. | `classic` | ![Lumine](https://files.catbox.moe/drij70.png)
+Shenhe (swimsuit) | Low-token swimsuit Shenhe. | `natural` | ![Shenhe](https://files.catbox.moe/8tg6qb.png)
+Nilou | I don't even have this character I just think she's hot af. | `classic` | ![Nilou](https://files.catbox.moe/guj3h5.png)
+Ningguang | Her dress skin really elevated her design from good to godlike. | `natural` | ![Ningguang](https://files.catbox.moe/d1a3ml.png)
 
-#### Gacha
+#### Other Gacha
 
-###### UMP45
-I have fond memories of GFL.
-![UMP45](https://files.catbox.moe/3xkz3r.png)
-###### São Martinho
-Custom JB. Wrap me up in those wings please.
-![São Martinho](https://files.catbox.moe/y10lpr.png)
-######Formidable (hypnotic)
-Custom JB. This is a VERY non-canon formidable tuned for a specific type of hypnosis play.
-![Formidable](https://files.catbox.moe/3zq9ps.png)
-######Himari
-No Jailbreak. Low-token Himari for coding help (could be used for normal roleplay too I suppose)
-![Himari](https://files.catbox.moe/c1069c.png)
-######Noa and Yuuka
-Custom JB. A sexual training/sexual coaching scenario where Noa helps Yuuka express her affection for Sensei. Baked in a feverish haze of lust after I saw this fanart (look it up, 400x600 doesn't do it justice).
-![Noa and Yuuka](https://files.catbox.moe/la9tln.png)
-######Shiroko
-Custom JB. Low-token Shiroko.
-![Shiroko](https://files.catbox.moe/587bvu.png)
-######Reed
-Unique JB (not tuned for noncon). Baked at the request of a friend who likes her a lot.
-![Reed](https://files.catbox.moe/wm9x04.png)
+Character | Description | Formatting | Card PNG |
+|-|-|:-:|:-:|
+UMP45 | I have fond memories of GFL. | `classic` | ![UMP45](https://files.catbox.moe/3xkz3r.png)
+São Martinho | Wrap me up in those wings please. | `natural` | ![São Martinho](https://files.catbox.moe/y10lpr.png)
+Formidable (hypnotic) | This is a VERY non-canon formidable inspired by an image caption and tuned for a specific type of hypnosis play. | `natural` | ![Formidable](https://files.catbox.moe/3zq9ps.png)
+Helena META | Helener cute (ft. ptsd and radar scans). | `natural` | ![Helena Meta](https://files.catbox.moe/bmsc22.png)
+Himari | No Jailbreak. Low-token Himari for coding help (could be used for normal roleplay too I suppose) | `classic` |![Himari](https://files.catbox.moe/c1069c.png)
+Noa and Yuuka | A sexual training/sexual coaching scenario where Noa helps Yuuka express her affection for Sensei. Baked in a feverish haze of lust after I saw this fanart (look it up, 400x600 doesn't do it justice). | `natural` | ![Noa and Yuuka](https://files.catbox.moe/la9tln.png)
+Shiroko | Low-token Shiroko. | `natural` | ![Shiroko](https://files.catbox.moe/587bvu.png)
+Ryuuge Kisaki | 😭 (Loudly Crying Face) was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015. | `natural` | ![Ryuuge Kisaki](https://files.catbox.moe/aob1hc.png)
+Reed | Baked at the request of a friend who likes her a lot. | `classic` | ![Reed](https://files.catbox.moe/wm9x04.png)
 
 #### Misc/Memes
 
-######Writer-Chan
-Custom JB. For when you're too lazy to make a new bot but want something written with an active jailbreak. The image is of Hu Tao but that's just a placeholder.
-![Writer-Chan](https://files.catbox.moe/mymobf.png)
-###### Garlic Bread
-Flavorful.
-![Garlic Bread](https://files.catbox.moe/siy8gw.png)
-###### Squeeb
-Squeeb!
-![Squeeb](https://files.catbox.moe/i4idcp.png)
-###### DEVHATE
-Should explain itself. Toxic (but sometimes funny) content warning (both desc and output)
-![DEVHATE](https://files.catbox.moe/sb7sey.png)
+Character | Description | Formatting | Card PNG |
+|-|-|:-:|:-:|
+Writer-Chan | For when you're too lazy to make a new bot but want something written with an active jailbreak. The image is of Hu Tao but that's just a placeholder. | `natural` | ![Writer-Chan](https://files.catbox.moe/mymobf.png)
+Garlic Bread | Flavorful. | `classic` | ![Garlic Bread](https://files.catbox.moe/siy8gw.png)
+Squeeb | Squeeb! | `squeeb` | ![Squeeb](https://files.catbox.moe/i4idcp.png)
+DEVHATE | Should explain itself. Toxic (but sometimes funny) content warning (both desc and output) | `classic` | ![DEVHATE](https://files.catbox.moe/sb7sey.png)
 
 #### In Progress
- - Cleaning up and uploading a variety of non-vtuber cards.
+ - Cleaning up and uploading a variety of new cards.
 
 #### Future Plans
- - Reworking old pyg-optimized cards to play nicer with smart backends?
+ - Alphabetizing the bot list?
  - Lurking, Hoping, Baking and Coping.
+
+!!! note I also recommend keeping an eye on https://pygmalion.chat/ , an upcoming website aiming to provide a hassle free LLM roleplay experience.

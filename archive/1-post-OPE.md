@@ -16,9 +16,10 @@ B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_a
 
 \>Streams
 ▼ Upcoming streams
-Next possible appearance (Fuwawa's birthday, Thu 02/01 8PM CT): https://www.youtube.com/watch?v=8QCuGJBqAiM
-Next member stream: zatsudan & ASMR (Fri 02/02 12PM CT)
+Next member stream: zatsudan & ASMR practice (Fri 02/02 12PM CT)
 Next public stream: Kuukiyomi (Sat 02/03 7PM CT)
+▼ Last appearance (FWMC birthday countdown)
+https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 ▼ Last stream (Stardew Valley)
 https://www.youtube.com/watch?v=0m-QTagWa3I
 ▼ Last member stream (zatsudan & ASMR)

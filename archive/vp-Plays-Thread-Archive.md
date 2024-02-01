@@ -388,7 +388,18 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[End]** *Never again (until postgame releases, haha...)*](https://arch.b4k.co/vp/thread/55287461/)
 
 ###->Unbound<-
-!!! info
-	**Status: In Progress**
+!!! note
+	**Status: Complete**
 [**[1]** *A much needed not dogshit game after Soulstones*](https://arch.b4k.co/vp/thread/55304175/)
-[**[2]**](https://arch.b4k.co/vp/thread/55313660/)
+[**[2]** *Desolationbros...*](https://arch.b4k.co/vp/thread/55313660/)
+
+###->Post Unbound Filler threads<-
+!!! info
+	After (nearly) everyone finished Unbound, Wagie and I embarked on Moto's newly updated Solar Light & Lunar Dark kaizomod while we waited for Empire's v10.5 release
+[**[1]** *Holy shit, actual pokemon options*](https://arch.b4k.co/vp/thread/55336730/)
+[**[2]**](https://arch.b4k.co/vp/thread/55345737/)
+
+###->Empire v10.5<-
+!!! warning
+	**Status: Not started yet**
+	Now with the knowledge that there's far worse games out there, maybe we'll finish it this time

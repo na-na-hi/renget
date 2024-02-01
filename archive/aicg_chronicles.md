@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-01-30==
+# /aicg/ chronicles, up to ==2024-02-01==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1070,7 +1070,7 @@ When | Where | What
 2024-01-28|[98700049](https://desuarchive.org/g/thread/98698822#98700049)| anon teases his proxy switcher script for Silly
 2024-01-28|[98703456](https://desuarchive.org/g/thread/98702599#98703456)| anon tries to explain why anyone would try to bot someone else's downloads using premade accounts
 2024-01-28|[98703923](https://desuarchive.org/g/thread/98702599#98703923)| LLM Safety Leaderboard shilled, questionable stats
-2024-01-28|[98704406](https://desuarchive.org/g/thread/98702599#98704406)| anon claims c\.ai is soon getting a new website
+2024-01-28|[98704406](https://desuarchive.org/g/thread/98702599#98704406)| c\.ai is soon getting a new website, next\.character\.ai
 2024-01-28|[98706271](https://desuarchive.org/g/thread/98705497#98706271)| old AI-Waifu-Vtuber project is brought to attention
 2024-01-29|[98708130](https://desuarchive.org/g/thread/98707058#98708130)| anons look for ways to support miqu leek baiting other than comparing it to the API outputs...
 2024-01-29|[98708651](https://desuarchive.org/g/thread/98707058#98708651)| ... at the same time speculating it might be an experimental StabilityAI base model leak
@@ -1080,8 +1080,23 @@ When | Where | What
 2024-01-29|[98718568](https://desuarchive.org/g/thread/98718483/#98718568)| a Startup Grants Program is brought to attention, promising free OpenAI, Anthropic, etc API access for 6 months
 2024-01-29|[98722809](https://desuarchive.org/g/thread/98721450#98722809)| concerns about character card assets being hosted on a remote server shared
 2024-01-29|[5:00 PM](https://twitter.com/AIatMeta/status/1752013879532782075)| Code Llama 70B released
+2024-01-29|[12:16 PM](https://twitter.com/Yampeleg/status/1751942400287666536)| unlimited context length promised, 400k ctx_len of a llama 2 finetune achieved, code provided, reproducibility unclear
 2024-01-30|[98726408](https://desuarchive.org/g/thread/98724440#98726408)| anon teases a private 70k tokens dark fantasy lorebook/characters/world project
 2024-01-30|[98728482](https://desuarchive.org/g/thread/98727876#98728482)| c\.ai continues rolling out the new login form with email verification instead of the password, locking out tempmail users
+2024-01-30|[98734688](https://desuarchive.org/g/thread/98734012#98734688)| one more logprobs viewer demo
+2024-01-30|[98736206](https://desuarchive.org/g/thread/98734012#98736206)| Bard changelog leak (?) with imagegen and global Gemini rollout
+2024-01-30|[98737561](https://desuarchive.org/g/thread/98736925#98737561)| NAI textgen CFG sampling update
+2024-01-30|[98739530](https://desuarchive.org/g/thread/98739037#98739530)| Common Sense Media partners with OAI to protect teens and families, no clear goal in sight
+2024-01-31|[98756857](https://desuarchive.org/g/thread/98753454#98756857)| aisekai\.ai is shutting down, devs intend to return with a new platform
+2024-01-31|[98758853](https://desuarchive.org/g/thread/98756964#98758853)| miqu turns out to be for real, confirmed to be a leak of an early Llama 2 finetune  by the Mistral CEO
+2024-01-31|[98759256](https://desuarchive.org/g/thread/98756964#98759256)| yet another claim of reaching $1 million of token cost by some proxies
+
+***
+###### February 2024
+When | Where | What
+-|-|-
+2024-02-01|[98764451](https://desuarchive.org/g/thread/98762575#98764451)| OAI scared of biological threats
+2024-02-01|[98765706](https://desuarchive.org/g/thread/98762575#98765706)| AI accelerator GroqChip shilled, why
 -|-|-
 
 [](you have found my secret stash of nothing!)

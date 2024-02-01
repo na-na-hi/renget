@@ -197,6 +197,10 @@
 - Greatest free movie streaming service, with a large selection of movies and episodes available in high-quality streaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/pressplay.top/)
 
+### 🐐 [PrimeFlix](https://primeflix-web.vercel.app/)
+- Remarkable streaming platform that offers an extraordinary online viewing experience.
+- [URL Safety Results](https://www.urlvoid.com/scan/primeflix-web.vercel.app/)
+
 ### ▶️ [Putlocker](https://putlocker.pe/)
 - With even more wonderful features, you can watch a big variety of full HD movies and TV shows online for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/putlocker.pe/)

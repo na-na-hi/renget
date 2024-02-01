@@ -65,6 +65,10 @@
 - Download anime, drama, and soundtracks for free. Get high-quality files and links for more than 5000 series. 
 - [URL Safety Results](https://www.urlvoid.com/scan/chauthanh.info/)
 
+### 🐐 [Flugel Anime](https://flugel-anime.com/)
+- Extensive archive of nyaa.si. Enjoy very fast downloads, allowing you to indulge in your favorite anime series.
+- [URL Safety Results](https://www.urlvoid.com/scan/flugel-anime.com/)
+
 ### 🔗 [Hi10 Anime](https://hi10anime.com/) • Sign Up
 - Offering the lowest file size, but highest quality anime encodes and depending on the content of the anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/hi10anime.com/)
