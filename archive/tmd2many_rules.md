@@ -429,15 +429,22 @@ Depending on external factors, the damage of these Moves, like all Moves, may be
  - When Burned, only **1** damage die can be used, *regardless* of Offensive Stats. However, Tamper Scarf functions as normal.
  - Opponent Evasion increases and User Accuracy decreases all decrease the final damage number by 1 for each Stage. 
 
-##### Triple-Hit Moves
+##### Double-Hit and Triple-Hit Moves
 
 *If neither quantity nor quality are enough, perhaps a greater gamble will be adequate.*
 
-Some Moves which hit multiple times, such as Triple Axel, are different from traditional Multi-Hit Moves. These Moves function differently from normal Moves, and have more in common with Multi-Hit Moves, but have a few key differences which set them apart.
+Some Moves which hit multiple times, such as Triple Axel or Gear Grind, function differently from normal Moves, and have more in common with Multi-Hit Moves, but have a few key differences which set them apart.
 
-Multi-Hit Moves, similar to Room-Hitters, do not accept Offensive Stats directly. Instead, for every 5 Stat Points in the Attack Stat, a +1 bonus to the damage and accuracy is applied, but it is done in a peculiar way.
+Double/Triple-Hit Moves, similar to Multi-Hit and Room-Hitters, do not accept Offensive Stats directly. Instead, they scale accordingly with Stat Points in their respective Stats, displayed below.
 
-The bonus is as follows:
+Double-Hit bonus as follows:
+Hit | 5 Attack | 10 Attack | - | - | - | - | - | - | - 
+- | - | - | - | - | - | - | - | - | -
+First | +0 | +0 | - | - | - | - | - 
+Second | +1 | +2 | - | - | - | - | - 
+Third | +2 | +4 | - | -  | - | - | - 
+
+Triple-Hit bonus as follows:
 Hit | 5 Attack | 10 Attack | - | - | - | - | - | - | - 
 - | - | - | - | - | - | - | - | - | -
 First | +0 | +0 | - | - | - | - | - 

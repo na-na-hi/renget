@@ -309,7 +309,11 @@ Makoto's Super Special Sugar Selection (Updated!)
 https://rentry.org/t7quhk
 Mari's relationship chart.
 https://rentry.org/uvq7iaar
-
+```
+***
+Page 3
+***
+```
 >Artfags
 Sloth and Gluttony Meetup
 https://archive.4plebs.org/tg/post/91495387/
@@ -331,12 +335,9 @@ Halloween Requests 2
 https://archive.4plebs.org/tg/post/91759065
 impersonation of red cross...
 https://archive.4plebs.org/tg/post/91759143
+Halloween Requests 3
+https://archive.4plebs.org/tg/post/91777059
 
-```
-***
-Page 3
-***
-```
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
 ```
@@ -425,23 +426,18 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Build?
->The Hospital Killer
->>91772420
-
-New Writefags:
->Survivor's Talk
-https://rentry.org/drqmuvar
->Hospital Killer Kills a Saiyan
-https://rentry.org/Jugo_Dies_In_A_Blackout
+New Writefag:
+>Rob's First Day (featuring Velvet Worm & Dust Devil):
+https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing
++ Rentry Link https://rentry.org/2mgxeq84
 
 New Art:
->CHIHIRO
->>91767116
->cafeteria scene
->>91771549
->cafeteria scene V.2
->>91773041
+>Runt's eating dirt purely for the love of the game
+>>91781739
+
+New UMA?
+>Kiyoura Shidehara - Icky Hero: Slimenuts
+>>91782779
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1049,8 +1045,9 @@ https://rentry.org/ms8yk558
 https://rentry.org/7yoniwe4
 >Survivor's Talk
 https://rentry.org/drqmuvar
->Hospital Killer Kills a Saiyan
-https://rentry.org/Jugo_Dies_In_A_Blackout
+>Rob's First Day (featuring Velvet Worm & Dust Devil):
+https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing
++ Rentry Link https://rentry.org/2mgxeq84
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

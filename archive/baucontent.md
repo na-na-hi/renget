@@ -5,6 +5,10 @@ essentially this is a collection for things homegrown in /baubau/, for now this 
 https://twitter.com/Ruffian5000/status/1708479258354434288 (tweet contains a link to song only ver)
 https://files.catbox.moe/ozlx6q.mp4 (intro+outro voices)
 
+### /baubau/ sings Happy Birthday for FUWAMOCOs 1st Birthday 
+https://twitter.com/Ruffian5000/status/1752967169485185150
+https://www.youtube.com/watch?v=prL01G3gLBU
+
 ###  porn collection
 [enjoy](https://mega.nz/folder/51gWhKJJ)
 decryption key: Z1R4R2dnSkY0THRtRUxsUTF0LW1yUQ==

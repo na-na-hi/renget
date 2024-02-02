@@ -6,14 +6,18 @@
 
 ## Limited availability
 ##### Physical goods
-!!! info
-    None at the moment.
+||||
+|-----|-----|-----|
+|[!["hololive English -Advent- Half-Year Celebration" B2 Tapestry](https://files.catbox.moe/gzfiun.webp) -> hololive production OFFICIAL SHOP $21 USD <-](https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604) -> [Geek Jack $23 USD](https://shop.geekjack.net/collections/hololive-en-advent/products/hololive-english-advent-half-year-celebration-b2-tapestry) <- -> Order Period: until Monday, March 04, 2024 3AM CT <- | [!["hololive English -Advent- Half-Year Celebration" Nerissa Ravencroft 【WANTED】 Metal Keychain](https://files.catbox.moe/ii3a4r.webp) -> hololive production OFFICIAL SHOP $9 USD <-](https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908) -> [Geek Jack $9 USD](https://shop.geekjack.net/collections/hololive-en-advent/products/hololive-english-advent-half-year-celebration-wanted-metal-keychain?variant=45918212423926) <- -> Order Period: until Monday, March 04, 2024 3AM CT <- | ![](https://files.catbox.moe/2o7n9q.png)
+
+
 &nbsp;
 
 ##### Digital goods
 ||||
 |-----|-----|-----|
-| [![hololive Christmas Voice Pack 2023 ~Present For Y♡U~](https://files.catbox.moe/9e81cl.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_christmasvoice2023?variant=44256038781148) -> Order Period: until Sunday, March 04, 2024 3AM CT <- | [![hololive New Year's Holiday Date Voice Pack ~Closing Off 2023~](https://files.catbox.moe/vgqz02.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492) -> Order Period: until Thursday, March 25, 2024 3AM CT <- | [![hololive New Year's Holiday Date Voice Pack ~Welcoming 2024~](https://files.catbox.moe/ou3flp.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228) -> Order Period: until Thursday, March 25, 2024 3AM CT <- | 
+| [![hololive Valentine's Voice Pack 2024](https://files.catbox.moe/052fuw.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948) -> Order Period: until Monday, April 08, 2024 3AM CT <- | [![hololive Christmas Voice Pack 2023 ~Present For Y♡U~](https://files.catbox.moe/9e81cl.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_christmasvoice2023?variant=44256038781148) -> Order Period: until Monday, March 04, 2024 3AM CT <- | [![hololive New Year's Holiday Date Voice Pack ~Closing Off 2023~](https://files.catbox.moe/vgqz02.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492) -> Order Period: until Thursday, March 25, 2024 3AM CT <- 
+| [![hololive New Year's Holiday Date Voice Pack ~Welcoming 2024~](https://files.catbox.moe/ou3flp.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_welcoming2024?variant=44318857003228) -> Order Period: until Thursday, March 25, 2024 3AM CT <- | 
 
 &nbsp;
 ***

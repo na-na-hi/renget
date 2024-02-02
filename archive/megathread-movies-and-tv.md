@@ -233,9 +233,9 @@
 - Experience with the finest curated selection of movies that will you entertained for hours.
 - [URL Safety Results](https://www.urlvoid.com/scan/watch.streamflix.one/)
 
-### ▶️ [Sudostream](https://sudostream.com/)
-- Among the top free sites for streaming movies in HD without registering or forking over anything.
-- [URL Safety Results](https://www.urlvoid.com/scan/sudostream.com/)
+### ▶️ [StreamLair](https://streamlairtv.com/)
+- Over 300,000 movies and TV shows, absolutely free with multiple subtitles.
+- [URL Safety Results](https://www.urlvoid.com/scan/streamlairtv.com/)
 
 ### 🐐 [The Movie Archive](https://themoviearchive.site/) / [2](https://tma.lol/)
 - Unlimited access to a vast library of films, allowing you to indulge in your favorite movies.

@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-02-01==
+# /aicg/ chronicles, up to ==2024-02-02==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1097,6 +1097,9 @@ When | Where | What
 -|-|-
 2024-02-01|[98764451](https://desuarchive.org/g/thread/98762575#98764451)| OAI scared of biological threats
 2024-02-01|[98765706](https://desuarchive.org/g/thread/98762575#98765706)| AI accelerator GroqChip shilled, why
+2024-02-01|[98776017](https://desuarchive.org/g/thread/98775276#98776017)| Bard's integrated imagegen demoed, appears to be very cucked...
+2024-02-01|[98777919](https://desuarchive.org/g/thread/98775276#98777919)| ... one more screenshot to prove the point
+2024-02-02|[98784488](https://desuarchive.org/g/thread/98781230#98784488)| sakura\.fm drama due to the filter, who could have known it's the source of all issues
 -|-|-
 
 [](you have found my secret stash of nothing!)

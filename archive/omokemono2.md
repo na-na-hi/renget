@@ -5,7 +5,8 @@ Name written in **bold** means that this artist's kemono page(s) is/are **not re
 If an artist has multiple pages, only bold their names when **ALL** of their pages are not regularly updated. Else, just indicate which pages are up to date.
 If a page has not been updated for **2 months or more**, consider it **outdated**
 If an outdated page gets updated, it loses its outdated status 
-**Currently, Kemono's importer only works for Patreon**
+**Currently, Kemono's importer only works for Patreon and Fanbox**
+**Fanbox importer no longer imports free post. Do check the artist's fanbox sometimes!**
 
 **Tags:**
 
@@ -134,6 +135,10 @@ If an outdated page gets updated, it loses its outdated status
 - **Hikewne** (There is nothing on the Kemono page)
 	- [Patreon](https://patreon.com/hikewne)
 	- [Kemono](https://kemono.su/patreon/user/55836099)
+
+- はのみど(Hanomidori)
+	- [Fanbox](https://hanomidou.fanbox.cc/)
+	- [Kemono](https://kemono.su/fanbox/user/5211815)
 
 
 ## Not Pee-focused Artists 

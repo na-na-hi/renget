@@ -59,7 +59,8 @@ You can always switch emulators if nothing works.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
 ## (Re)rolling
-For Selective Recruitment: **save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
+The game allows you to reroll your first 10 roll up to 9 times.
+**Save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
 **Spend *all* your rolls after the first mission. After that you can reroll.**
 Make sure to claim stuff from missions and your mailbox too. 
 
@@ -69,8 +70,8 @@ I'd advice you to do the same even if you don't reroll, just so you have somethi
 **Sparks do not carry over between banners.**
 See 'Is there pity? What's a spark' for more 
 
-Your very first roll guarantees a single 3\* student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll. You can still get other 3\*s on the other 9 rolls before that.
-![no, you can't get Ako on your 10th roll.](https://i.imgur.com/0nMJLHD.png)
+Your very first roll guarantees a single 3\* student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll. You can roll more than 1 3\*s if you get lucky enough.
+![no, you can't get Ako on your 10 roll.](https://i.imgur.com/0nMJLHD.png)
 Rolling in 10s guarantees at least one 2\* student so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.
 
@@ -95,6 +96,8 @@ You can always ask /bag/ for advice.
 ![How to reroll](https://i.imgur.com/t3kHH0w.png)
 Menu Tab (top right) > Account > Reset account
 For JP the method is outlined [here](https://bluearchive.wiki/wiki/Rerolling). 
+
+It takes like 5-10 minutes to get from the tutorial to this point (I think).
 
 >What can I get from the Startdash (the paid ticket)?
 You get 1 ten roll, which guarantees a 3\* unit of a set pool.

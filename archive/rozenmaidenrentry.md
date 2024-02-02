@@ -2,14 +2,15 @@
 ***
 ### -> And an early anniversary watchalong! <-
 ##### -> For those who can't wait! <-
-->  %#b5bd68%>I've never watched or read, but I'm down for a watchalong desu.%%<-
+->  %#b5bd68%>I've never watched or read, but I'm down for a Rozen Maiden watchalong desu.%%<-
 -> **Then leave your thoughts and suggestions about it during desu hours or consult your nearest rozenfag on /rozen/, thank you ~desu.** <-
--> I know that the anime's 20th anniversary watchalong for /a/ is being planned by some shady anon(?) somewhere October 6-8 or so. <-
--> But we'll make our own rightful and orthodox Rozen Maiden watchalong, with desubots and Crunky! Praise the Dolls, our Perfect Maidens ~desu! <-
+-> We had some plans for a watchalong on /a/ for the 20th anniversary of the anime around October 6-8... <-
+-> ...but some anons wanted an earlier one, so we prepared one for next Saturday, with desubots and Crunky! <-
+-> Everyone is welcome to watch our beloved dolls together! Praise our Perfect Maidens! <-
 
 ***
 
-#### -> Saturday February 3rd, 5pm UTC <-
+#### -> Saturday, February 3rd, 5pm UTC <-
 
 !~ -> **Rozen Maiden (2004)** <- ~!
 -> Next: <-

@@ -11,12 +11,13 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>New merch
+hololive Valentine's Voice Pack 2024: https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948
 Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Streams
 ▼ Upcoming streams
-Next member stream: zatsudan & ASMR practice (Fri 02/02 12PM CT)
+Next member stream (zatsudan & ASMR practice, Fri 02/02 12PM CT): https://www.youtube.com/watch?v=NI_GH8V4UoE
 Next public stream: Kuukiyomi (Sat 02/03 7PM CT)
 ▼ Last appearance (FWMC birthday countdown)
 https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s

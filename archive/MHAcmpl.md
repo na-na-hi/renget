@@ -1,4 +1,4 @@
-# -> MHA MP <-
+#-> MHA MP <-
 
 [TOC]
 
@@ -153,6 +153,7 @@ Kiki HN Yggdrasil: https://archive.4plebs.org/tg/post/91707234/
 Riku Washizawa HN The Steel Talon Hero: Skycarver: https://archive.4plebs.org/tg/post/91716771/
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
 Rob Williams HN: Velvet Worm: https://archive.4plebs.org/tg/post/91728780/
+Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
 
 ### Villains
 >Night Parade
@@ -682,6 +683,7 @@ Now I'm Motivated (Rosethorn): https://desuarchive.org/tg/post/91752006/
 the guy the bro the pal the friend bobby samson himself!: https://desuarchive.org/tg/post/91765155/
 cafeteria scene: https://desuarchive.org/tg/post/91771549/
 cafeteria scene V.2: https://desuarchive.org/tg/post/91773041/
+Runt's eating dirt purely for the love of the game: https://desuarchive.org/tg/post/91781739/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -745,8 +747,8 @@ Spark: https://archive.4plebs.org/tg/post/90018257
 Drone: https://archive.4plebs.org/tg/post/90953377
 Sandatsu Art: https://archive.4plebs.org/tg/post/91405875/
 excellence (Hailey): https://archive.4plebs.org/tg/post/91735347/
-delinquent(Yui): https://desuarchive.org/tg/post/91759884/
-CHIHIRO: https://desuarchive.org/tg/post/91767116/
+delinquent(Yui): https://archive.4plebs.org/tg/post/91759884/
+CHIHIRO: https://archive.4plebs.org/tg/post/91767116/
 
 ***
 
@@ -1100,6 +1102,7 @@ The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ook
 Shiketsu Guide to Cafeteria (Various Shiketsu students): https://rentry.org/ms8yk558
 Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator): https://rentry.org/7yoniwe4
 Survivor's Talk: https://rentry.org/drqmuvar
+Rob's First Day (featuring Velvet Worm & Dust Devil): https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing + Rentry Link https://rentry.org/2mgxeq84
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

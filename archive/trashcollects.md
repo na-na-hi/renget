@@ -2960,6 +2960,9 @@ https://mega.nz/folder/DRI0RY4Q#g1IJ7Ch1hM6-sAG7dGkJ7g
 
 From: https://civitai.com/models/94795/slugcats-rainworld-wip
 https://civitai.com/api/download/models/101116?type=Model&format=SafeTensor
+
+#AnonTK's LoRA Repository (TwoKinds LoRAs)
+https://mega.nz/folder/DtFz1IbQ#wZJFX0aYEL4rKwBBmgyaZQ
 	
 ## Assorted Random Stuff
 
@@ -3083,6 +3086,8 @@ Pose tags: https://rentry.org/9y5vwuak
 Wildcards collection: https://files.catbox.moe/lwh0fx.7z
 
 Species Wildcards Collection: https://rentry.co/4sy6i33r
+
+Artists seperated by Style: https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA/folder/pJR0mLjb
 
 ### OpenPose Model
 	For use in Blender; allows for posing for use in the ControlNet extension.

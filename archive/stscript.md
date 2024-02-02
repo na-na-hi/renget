@@ -695,12 +695,81 @@ __Dynamic Lorebooks__
 To take the above idea to the extreme, let's take a quick look at lorebooks.
 TODO
 
-__Automation and using the LLM__
+__Configuration, automation, and using the LLM__
 TODO
 TODO: mention that /genraw doesn't use streaming?
+TODO: discuss making scripted cards end-user friendly and easy to set up
 
 __HTML5 minigames__
 TODO
+TODO:  discuss possibilities for mixing STscript and JavaScript
+before getting to this chapter proper I'll jsut drop this here:
+what stops you from injecting js into like a popup that takes html anyway is this https://github.com/SillyTavern/SillyTavern/blob/e3ccaf70a10b862113f9bad8ae039fc7ce6570df/public/scripts/slash-commands.js#L375
+you can undo this by applying this monkeypatch in the dev console `DOMPurify.sanitize = str => str;`
+then you can do something like `/input <script type="text/javascript">console.log("asd")</script>`
+or...
+```
+/input <script type="text/javascript">
+console.log("jstest");
+
+//we defer the execution to the next slice
+//even without this we'd need an IIFE or else const variables couldn't be redefined on subsequent executions
+setTimeout(() => {
+	//get the popup components we can play with
+	const popup = document.querySelector("#dialogue_popup_holder");
+	const popupHeader = popup.querySelector("#dialogue_popup_text");
+	const popupInput = popup.querySelector("#dialogue_popup_input");
+	const popupControls = popup.querySelector("#dialogue_popup_controls");
+	const okButton = popupControls.querySelector("#dialogue_popup_ok");
+
+	//some state variable
+	let counter = 0;
+
+	const setReturnValue = (val) => {
+		popupInput.value = val;
+	};
+	
+	//restore the original popup state
+	const cleanup = (addedElements) => {
+		popupInput.style.visibility = "auto";
+		addedElements.forEach(el => el.remove());
+	};
+	
+	//hide the default popup components and "build our app"
+	const init = () => {
+		//hide the text input for now
+		popupInput.style.visibility = "hidden";
+
+		//insert a counter for state state var
+		const counterText = document.createElement("span");
+		counterText.textContent = counter;
+		popup.insertBefore(counterText, popupInput);
+
+		//insert a button
+		const btn = document.createElement("button");
+		btn.textContent = "Click me!"
+		btn.addEventListener("click", () => {
+			counter++;
+			console.log("clicked: " +  counter);
+			counterText.textContent = counter;
+		});
+		popup.insertBefore(btn, counterText);
+
+		//return value hack, onclick is is race condition with the popup close
+		okButton.addEventListener("mouseover", (e) => {
+			e.stopPropagation();
+			setReturnValue(counter);
+		});
+		
+		//cleanup
+		okButton.addEventListener("click", () => cleanup([btn, counterText]));
+	};
+
+	init();
+}, 0);
+</script> |
+/echo #{{pipe}}
+```
 
 __Conclusion__
 TODO
