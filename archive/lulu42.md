@@ -4,7 +4,7 @@
 ->**art insta** -- [misamxsa](https://www.instagram.com/misamxsa/)
 **spam insta** -- [zoluology](https://www.instagram.com/zoluology/)
 **art twitter** -- [misamxsa08](https://twitter.com/misamxsa08)
-**priv twitter** -- [zoluize](https://twitter.com/zoluize)
+**priv twitter** -- [levikiras](https://twitter.com/levikiras)
 **art tumblr** -- [misamxsa](https://misamxsa.tumblr.com/)
 **discord** -- [honaena]()
 **toyhouse** -- [misamxsa](https://toyhou.se/misamxsa)

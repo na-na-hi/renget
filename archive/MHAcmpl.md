@@ -218,6 +218,7 @@ Kaori Kaoru: https://archive.4plebs.org/tg/post/91229075/
 Tomie: https://rentry.org/ddom6m82
 TechVision Elite 2023 - 43Vista UltraSmart 4K TV: https://archive.4plebs.org/tg/post/91654960/
 Suslik: https://archive.4plebs.org/tg/post/91699413/
+The Hospital Killer: https://desuarchive.org/tg/post/91772420/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -679,6 +680,8 @@ Toast Runs into You!: https://archive.4plebs.org/tg/post/91732937/
 Mission: Impossible (Runt, Suslik): https://desuarchive.org/tg/post/91746842/
 Now I'm Motivated (Rosethorn): https://desuarchive.org/tg/post/91752006/
 the guy the bro the pal the friend bobby samson himself!: https://desuarchive.org/tg/post/91765155/
+cafeteria scene: https://desuarchive.org/tg/post/91771549/
+cafeteria scene V.2: https://desuarchive.org/tg/post/91773041/
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -743,6 +746,7 @@ Drone: https://archive.4plebs.org/tg/post/90953377
 Sandatsu Art: https://archive.4plebs.org/tg/post/91405875/
 excellence (Hailey): https://archive.4plebs.org/tg/post/91735347/
 delinquent(Yui): https://desuarchive.org/tg/post/91759884/
+CHIHIRO: https://desuarchive.org/tg/post/91767116/
 
 ***
 
@@ -1095,6 +1099,7 @@ Scaredy-cat (Capture Cloth, Bakeneneko): https://rentry.org/ia8x4kv2
 The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, the Prophet): https://rentry.org/x3gaabdu
 Shiketsu Guide to Cafeteria (Various Shiketsu students): https://rentry.org/ms8yk558
 Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator): https://rentry.org/7yoniwe4
+Survivor's Talk: https://rentry.org/drqmuvar
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

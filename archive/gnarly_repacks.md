@@ -16,10 +16,12 @@ itsgnarlybitch@proton.me
 Dragon Ball Raging Blast Collection (+RPCS3) [Gnarly Repacks] [5.89 GB]
 https://bin.0xfc.de/?ab4b3c87bd05029d#5hwF2LKG1J2AbuAi1PCrBb8oTWpHRcwrrpYwFEMo138p
 ------------------------------------------------------------------------------------------------------------------------------------------
+**I can't always update the repack or mirror update patches 24/7, so check the cs.rin.ru thread for Palworld when the game gets an update.**
 Palworld (EA-b13269235/v0.1.3.0) + Dedicated Server) [Gnarly Repacks] [15.9 GB] - 
 https://bin.0xfc.de/?48147dea6b38a3d3#6tbrfudwadHicB9QSKZZecyV6Dq9wqo11N9EAFqKQqQr
-[%pink% Kirigiri's v0.1.2.0 to v.0.1.3.0 Updater + SJB's DS Updater  %%](https://bin.0xfc.de/?5cfed03865816d84#3QKUtRTPLYFuCmSaoCcb48xT1hdMqgedjoU2tPBHkpLj)
+[%pink% Kirigiri's v0.1.2.0 to v.0.1.3.0 Updater%%](https://bin.0xfc.de/?32059bfeb43c1254#Au6PyEgRNQJCvx2SLmYHQo57cw896sh8MJYc6HLiC14M)
 [%pink% Kirigiri's v0.1.3.0 to v.0.1.3.0 Hotfix Updater  %%](https://bin.0xfc.de/?6d5978beba4844b5#C5yXS2HcgZqbZRFJak7vgoHWGJxr9QhF99HLw8bzebnW)
+[%pink% Kirigiri's v0.1.3.0 Hotfix to v.0.1.4.0 Updater  %%](https://www.mediafire.com/file/w2dwghhkrhng5pt/Palworld+0.1.3.0+Hotfix+to+0.1.4.0.rar/file)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 DJMax Trilogy [Gnarly Repacks] [2.74 GB] - REUPLOAD

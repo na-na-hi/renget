@@ -43,4 +43,4 @@ umineko](https://i.imgur.com/d53bzdq.png)<-
 
 ->![gif](https://tomomi.neocities.org/divider/div73.gif)<-
 
-->[back to home page](https://rentry.org/zolu) ☆ [back to kins & favs](https://rentry.org/lulusever)<-
+->[back to home page](https://rentry.org/suzalulu) ☆ [back to kins & favs](https://rentry.org/lulusever)<-

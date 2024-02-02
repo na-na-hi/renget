@@ -125,6 +125,6 @@ mairimashita iruma-kun](https://i.imgur.com/5c4Gs0y.jpg)<-
 
 ->![gif](https://tomomi.neocities.org/divider/div73.gif)<-
 
-->[return](https://rentry.org/zolu)<-
+->[return](https://rentry.org/suzalulu)<-
 
 ->*all art used on this page is either official or my own*<-
