@@ -61,7 +61,7 @@ Alternatively you need to reset your network, see [this video on how to do that]
 ## (Re)rolling
 The game allows you to reroll your first 10 roll up to 9 times.
 **Save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
-**Spend *all* your rolls after the first mission. After that you can reroll.**
+**Spend *all* your rolls after the first mission (1-1). After that you can reroll.**
 Make sure to claim stuff from missions and your mailbox too. 
 
 I'd advice you to do the same even if you don't reroll, just so you have something to work with. 

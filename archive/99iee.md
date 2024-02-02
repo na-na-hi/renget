@@ -215,7 +215,7 @@ Current Ruler: Grand Hydra Karonda (12th)
 Exec. Building: Cobra Hall
 Established: 17 H
 
->Home to a group of united snake-like amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the female Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
+>Home to a group of united snake-like amazonic wartribes, Anakondia's marshy islands saw almost 2 decades of violent war amongst the tribes ever since the start of the Holomini years. Ever since the end of the Snake Wars, the ruler has always comes from the Blue Anaconda tribe, only ever challenged remotely by the Red Viper, Purple Adder and Black Boa tribes. Later, they are joined by the Yellow Kraits, a group of disgruntled females mainly from Polaria and Cita Azur. Unlike most nations, women are the dominant gender in its societies, with laws and rights catering to the feminine wiles more. The nation is at its most dangerous at the time of The Ovulation, a long ritualistic hunting session spanning the whole month of Virgo where they kidnap any male they come across for slavery and breeding purposes; more so than they usually do any other time of the year. The tribes agree on one thing: women are the superior race of Aurorai. They believe that the female Guardians are not enforcing their "superiority" harder on the land and on their "lesser" male peers.
 
 #### Negazion
 
@@ -232,7 +232,7 @@ Established: 7 H
 
 ### The Order of Iridescent Guardians
 
-==The main cast of the game. The Guardians are your key to averting this crisis and bring peace to Aurorai once more. Assembled from different walks of life by King Covigo, they're an elite force destined to band together and save Aurorai.==
+==The main cast of the game. The Guardians are your key to averting this crisis and bring peace to Aurorai once more. Assembled from different walks of life by King Yagoo, they're an elite force destined to band together and save Aurorai.==
 
 ->Characters are ordered and grouped according to order of appearance.<-
 ***
@@ -543,4 +543,8 @@ Home: Polaria
 
 >The brash gladiator of Guild Tempus, who believes fighting cures all problems, and as such, deems himself a doctor. Beneath the brash exterior lies quite a competent singing voice, easily among the best within the guild. He would not hesitate to run to someone in need when he sees one, never tolerating injustice when he can see and act on it. If he sees fit, he could take matters into his own hands and his chain-whip, his trusted weapon ever since his gladiator days.
 
+Home: Polaria
+
 ->**Vesper**<-
+
+>The elder scholar of Guild Tempus. Like his fellow guildmate Magni, he chose to defy the Red Doctrine, having fended off attempts from Blanc zealots to eliminate him

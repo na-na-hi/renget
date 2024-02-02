@@ -701,19 +701,44 @@ TODO: mention that /genraw doesn't use streaming?
 TODO: discuss making scripted cards end-user friendly and easy to set up
 
 __HTML5 minigames__
-TODO
-TODO:  discuss possibilities for mixing STscript and JavaScript
-before getting to this chapter proper I'll jsut drop this here:
-what stops you from injecting js into like a popup that takes html anyway is this https://github.com/SillyTavern/SillyTavern/blob/e3ccaf70a10b862113f9bad8ae039fc7ce6570df/public/scripts/slash-commands.js#L375
-you can undo this by applying this monkeypatch in the dev console `DOMPurify.sanitize = str => str;`
-then you can do something like `/input <script type="text/javascript">console.log("asd")</script>`
-or...
+Remember how popups can be used to render any kind of HTML code? You can do that in the conversation too. Try sending the following message: `<h2>asd</h2>` or `<button>Click</button>`. First you'll notice your message getting printed as a heading, and then as a legitimate button you can click. It won't do anything, of course, but this gives us some options.
+
+The most immediate of which is our ability to format text. But that's not all.
+
+Let's focus our attention back on popups for a moment, because popups, most of all `/input` have a very, VERY powerful and very, VERY exploitable feature. Whatever is the content of the text input on submitting the popup will be piped to the next command. Let's say if we found a way to run some JavaScript code and put the result into the input... We could sidestep 90% of having to deal with STscript.
+
+The reason why you can't just put a `<script>` element into a popup's code and expect it to work is this:
+https://github.com/SillyTavern/SillyTavern/blob/e3ccaf70a10b862113f9bad8ae039fc7ce6570df/public/scripts/slash-commands.js#L375
+The STscript engine "sanitizes" the popup's content. As it is now, at least on version 1.11.2, this is very easy to undo. __But you should only do so if you understand the risks.__ In this guide I will offer precautions, but still, you should be aware why this feature was put in place in the first place. If any bot could send you executable JS code or any card, prompt preset, lorebook, or QuickReply preset could contain JS, you and your computer would be susceptible to serious harm. XSS attacks would be an obvious one as well as bricking your PC for the lulz, but JS being clientside code ran in the browser, there are about a million exploits a skilled hacker could use. While by writing this guide I am hoping people will be able to create some cool never-before-seen cards, if this JS thing does catch on and people will upload cards using it, you should ALWAYS check the QuickReply content of these cards for malicious code.
+
+Now with that being said... Open the developer console or install an extension like Tampermonkey or Greasemonkey, and run the following script:
 ```
-/input <script type="text/javascript">
+const sanitize = DOMPurify.sanitize;
+DOMPurify.sanitize = str => str.startsWith("#STSCRIPT") ? str.replace("#STSCRIPT", "") : sanitize(str);
+```
+This will allow us to circumvent the sanitazation if we really want to, but otherwise keep it for everything else. JS code won't be interpreted by the browser, but unless you deliberately prefix it with `#STSCRIPT`. This will, by itself, thwart a good amount of exploits that malicious code could do. Replace `#STSCRIPT` with a keyword of your choosing, and it'll be even more safe and you can use it as a kind of password. And not to mention, unless you use a browser extension that automates this for you, you'll have to paste these two lines of code into the console anyway on every page load. So no one will be able to pull a fast one on you.
+
+With that out of the way, let's get to the fun part. Try running this command:
+```
+/input #STSCRIPT<script type="text/javascript">console.log("asd")</script>
+```
+All you will see is a popup appear, at least in SillyTavern. But run the command with the dev console opened, and you'll see the message `asd` show up. This means that you just ran JS in SillyTavern.
+
+Now, the reason why `/input` is so powerful is, again, because it will forward some value to the next command through a pipe. This is pretty much our only way to pass data from JS to STscript. The reverse is easy too, we'll see in just a minute. First, let's discuss a couple of oddities.
+
+Similarly to the `/times` command we've seen before where the opening `"` symbol had to be on the same line as the command, so the opening `<script>` tag should be on the same line as `/input`. That's really the only STscript weirdness we need to be aware of here.
+
+The way our JS code will be interpreted is in the global scope. This means that any variable and function we'd create would remain. At first this may sound like a cool thing to you, we won't lose our data, but it in reality not so simple. This could come down to personal style, but unless you intend to use `let` over `const` all through your code, this is not a good thing. The simplest way of guarding against this is by wrapping your code inside an IIFE. And let me say this here, I won't be giving you a crash course in JavaScript as part of this guide. Anyway, what I recommend you do is putting your code inside a `setTimeout` callback, with 0 ms timeout. It will force the V8 engine to defer the code to the next call stack slice. The reason why we don't want immediate execution is that we want to give SillyTavern some time to do the layout change. So far 0 timeout always worked for me, but since this is an async callback, you might need to give it an actual timeout. Play around with it and see what works for you. Take into consideration that if you run your code from the QuickReply edit window that the popup is that very same DOM element, so it's already rendered and has content by the time we try to access it from our JS code.
+
+Along the same train of thought, even though we'll be able to add our own click event to the input button, it will be in a race condition with the default SillyTavern button click that closes the popup. But we will need to ensure that the data we want to return is inside the input field by the time that click event is executed. So far, I've found that the best way to ensure this is putting a mouseover event on the button. Most people will probably click/tap it, and not tab their way out of the popup somehow.
+
+Luckily for us though, the popup never fully gets unmounted, it'll just get a `display: none` style when inactive. But this also means that we need to clean up after ourselves. If we added any HTML elements to the DOM or altered the styling of the popup's native elements, we will need to undo those.
+
+Let's see a simple example then:
+```
+/input #STSCRIPT<script type="text/javascript">
 console.log("jstest");
 
-//we defer the execution to the next slice
-//even without this we'd need an IIFE or else const variables couldn't be redefined on subsequent executions
 setTimeout(() => {
 	//get the popup components we can play with
 	const popup = document.querySelector("#dialogue_popup_holder");
@@ -724,7 +749,8 @@ setTimeout(() => {
 
 	//some state variable
 	let counter = 0;
-
+	
+	//update the input field's value
 	const setReturnValue = (val) => {
 		popupInput.value = val;
 	};
@@ -735,12 +761,12 @@ setTimeout(() => {
 		addedElements.forEach(el => el.remove());
 	};
 	
-	//hide the default popup components and "build our app"
+	//hide the default popup components and build our app
 	const init = () => {
 		//hide the text input for now
 		popupInput.style.visibility = "hidden";
 
-		//insert a counter for state state var
+		//insert a counter for the state var
 		const counterText = document.createElement("span");
 		counterText.textContent = counter;
 		popup.insertBefore(counterText, popupInput);
@@ -755,7 +781,6 @@ setTimeout(() => {
 		});
 		popup.insertBefore(btn, counterText);
 
-		//return value hack, onclick is is race condition with the popup close
 		okButton.addEventListener("mouseover", (e) => {
 			e.stopPropagation();
 			setReturnValue(counter);
@@ -770,6 +795,20 @@ setTimeout(() => {
 </script> |
 /echo #{{pipe}}
 ```
+It's pretty crude with no styling, no error handling, and no real point, and without taking the cancel button into consideration. If all goes well though, you should be able to see the popup open with a button and a counter. If you click on the button, the counter will go up. And if you click on the ok button, you will see an echo message with the same counter value. The # is there because empty echo messages don't show, so you can see if for some reason the counter value wouldn't get passed to the pipe.
+
+If you update the JS code with this:
+```
+	//some state variable
+	let counter = {{getvar::myVar}};
+```
+Then the value of the STScript variable stored in `myVar` will be the counter's initial value. Note that for string values you will need to put quotes around it, just like good ol' PHP. If you want to persist your data in JS, you can use `localStorage` or whatever else. I haven't checked if you could do calls to external APIs, I suspect some CORS shenanigans to stop you, but you may also be able to communicate with some remote server. ...SillyTavern MMO when?
+
+And if you want to use JS just for calculation, you can dispatch the `onclick` event of the ok button and automatically close the popup. It'll probably flash briefly, but that's the price for essentially hacking SillyTavern. You can even chain `/run` calling different JS functions if you "store them" in QuickReply functions that show different popups with different JS code in them.
+
+And there you have it! A mostly safe way to pass data back and forth between JS and STscript. I imagine this would be pretty cool to integrate with my event listener idea from earlier, but on its own it should already be pretty handy.
+
+I should also mention that while this example only deals with the popup, you can query any DOM element. The entire SillyTavern app is your oyster once you can run JS.
 
 __Conclusion__
 TODO

@@ -4,7 +4,9 @@
 -> hi! im bailey. **non**human 15yo enfj-t 7w6, im 
 also a introject in a sys. i am from multiple
 [sources!!](https://rentry.co/ptdemo) ![](https://media.discordapp.net/attachments/903364339464044575/1088801140877045880/A5A353EA-7898-4A87-9139-76F796E3E087.gif) (i am more **disconnect**ed from some 
-than others.) im bipoc (afro italian), i say slurs
+than others.) please **refrain** from treating me 
+as your 'sourcemate' it pisses me off! im literally
+just a girl lol. im bipoc (afro italian), i say slurs
 i have adhd**tism**, bipolar, suspected **bpd** & *bad*
 social anxiety ![](https://media.discordapp.net/attachments/903364339464044575/1088801140180799609/1E25AFBA-BAAA-4B15-8CDF-97979FBC09F0.gif) i may shut **down** or get very **over**
 whelmed **very** easily (do **not** take it personally)

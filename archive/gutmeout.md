@@ -22,7 +22,7 @@ rblx　**analog horror**　*d&b*　**backrooms**　[*HIM.*](https://themidnightg
 **skinamarink**　**silent hill-**&**pt**　iceburgs　**bbieal**
 & **mods**　*folktales*　**dark deception**　　morbid 
 things　*chezz kids archive*　**pokemon**　phisnom
-**arcadecore**　*bones (tv show)*　**outlast**　tsp
+**arcadecore**　*bones (tv show)*　**outlast** **trials**
 dreamecore　**liminal spaces**　weirdcore　*uhyeah*
 **payday2**　**PROP MAKING.**　**brain dump**　args
 **stegosauruses**　*mini foods*　**seals**　hauntedps1

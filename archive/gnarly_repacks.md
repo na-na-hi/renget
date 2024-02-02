@@ -22,7 +22,7 @@ https://bin.0xfc.de/?48147dea6b38a3d3#6tbrfudwadHicB9QSKZZecyV6Dq9wqo11N9EAFqKQq
 [%pink% Kirigiri's v0.1.2.0 to v.0.1.3.0 Updater%%](https://bin.0xfc.de/?32059bfeb43c1254#Au6PyEgRNQJCvx2SLmYHQo57cw896sh8MJYc6HLiC14M)
 [%pink% Kirigiri's v0.1.3.0 to v.0.1.3.0 Hotfix Updater  %%](https://bin.0xfc.de/?6d5978beba4844b5#C5yXS2HcgZqbZRFJak7vgoHWGJxr9QhF99HLw8bzebnW)
 [%pink% Kirigiri's v0.1.3.0 Hotfix to v.0.1.4.0 Updater  %%](https://www.mediafire.com/file/w2dwghhkrhng5pt/Palworld+0.1.3.0+Hotfix+to+0.1.4.0.rar/file)
-
+**v.0.1.4.0 currenly has an issue on both cracked and real copies where the text randomly turns Japanese when you throw spheres. Updated standalone repack will be delayed until this is fixed.**
 -------------------------------------------------------------------------------------------------------------------------------------------
 DJMax Trilogy [Gnarly Repacks] [2.74 GB] - REUPLOAD
 https://bin.0xfc.de/?ba006ce953127bce#4REkRLRr4b8RYJSdzrV6w4weDDtbySfiptQmjTBEHRsf

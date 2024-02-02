@@ -54,4 +54,4 @@ I groan as I'm being confronted with my problems so forwardly. It's embarrassing
 
 Lliam suddenly glances toward them. "Oh, who's this now?"
 
-I blink once before blurting out in exasperation at what unfolded. "ERROR?!"
+I blink once before blurting out in exasperation at what unfolded. He can see him? "ERROR?!" This was going to be quite the stay...

@@ -10,8 +10,8 @@ You can also use something like https://www.gamesave-manager.com to backup your 
 Not all the folders need to or should be backed up. Game dev folders, 3rd party programs, etc might be safe to backup, but you probably shouldn't backup Microsoft or other system related folders in here as they can contain system settings files which can cause unexpected issues with your fresh install.
 
 ######Step 0.5: Choosing an edition
-There's currently two mainline channels of Windows. Semi-Annual Channel and Long Term Service Channel.
-SAC editions (Home/Pro/Education/Enterprise) are supported from 1.5-3 years and have regular weekly forced updates as well as forced full system upgrades when their support period ends.
+There's currently two mainline channels of Windows. General Availability Channel and Long Term Service Channel.
+GAC editions (Home/Pro/Education/Enterprise) are supported from 1.5-3 years and have regular weekly forced updates as well as forced full system upgrades when their support period ends.
 If you update your hardware constantly every year, it will likely get support faster on this channel. However this channel also gets tons of pointless feature updates that break or remove features, such as wide scale wifi breakage and the rewrites and downgrades to Snipping Tool and File Explorer.
 
 LTSC editions (LTSC/IoT LTSC) are [identical to Enterprise](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/getting_started) except they will not have any feature updates pushed to them, only security updates and bug fixes, and are supported for 5/10 years respectively from release. They are in essence the successor to the classic Windows release cycle from Windows 3.11 through 7. These editions also do not come with the Microsoft Store by default, and by extension do not come with any bloat apps.
@@ -216,51 +216,69 @@ This pairs well with Step 6 if you moved all your user folders to D:\ or another
 ![](https://images2.imgbox.com/cd/5f/3ImAQY2D_o.png)
 
 
-==Remove Junk from Navigation Pane.reg==
-Windows Registry Editor Version 5.00
+==Remove Junk from Navigation Pane==
 
+
+==Remove Quick Access from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Quick Access from Navigation Pane
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
 "HubMode"=dword:00000001
 
+==Remove Music from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Music from Navigation Pane
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{a0c69a99-21c8-4671-8703-7934162fcf1d}\PropertyBag]
 "ThisPCPolicy"="Hide"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{a0c69a99-21c8-4671-8703-7934162fcf1d}\PropertyBag]
 "ThisPCPolicy"="Hide"
 
+==Remove Pictures from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Pictures from Navigation Pane
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{0ddd015d-b06c-45d5-8c4c-f59713854639}\PropertyBag]
 "ThisPCPolicy"="Hide"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{0ddd015d-b06c-45d5-8c4c-f59713854639}\PropertyBag]
 "ThisPCPolicy"="Hide"
 
+==Remove Videos from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Videos from Navigation Pane
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{35286a68-3c57-41a1-bbb1-0eae73d76c95}\PropertyBag]
 "ThisPCPolicy"="Hide"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{35286a68-3c57-41a1-bbb1-0eae73d76c95}\PropertyBag]
 "ThisPCPolicy"="Hide"
 
+==Remove Duplicate Removable Drives from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Duplicate Removable Drives from Navigation Pane
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\DelegateFolders\{F5FB2C77-0E2F-4A16-A381-3E560C68BC83}]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\DelegateFolders\{F5FB2C77-0E2F-4A16-A381-3E560C68BC83}]
 
+==Remove 3D Objects from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove 3D Objects from Navigation Pane
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}]
 
+==Remove Downloads from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Downloads from Navigation Pane
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{7d83ee9b-2244-4e70-b1f5-5393042af1e4}\PropertyBag]
 "ThisPCPolicy"="Hide"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{7d83ee9b-2244-4e70-b1f5-5393042af1e4}\PropertyBag]
 "ThisPCPolicy"="Hide"
 
+==Remove Documents from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Documents from Navigation Pane
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{f42ee2d3-909f-4907-8871-4c22fc0bf756}\PropertyBag]
 "ThisPCPolicy"="Hide"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{f42ee2d3-909f-4907-8871-4c22fc0bf756}\PropertyBag]
 "ThisPCPolicy"="Hide"
 
+==Remove Desktop from Navigation Pane.reg==
+Windows Registry Editor Version 5.00
 ; Remove Desktop from Navigation Pane
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}\PropertyBag]
 "ThisPCPolicy"="Hide"

@@ -107,7 +107,7 @@ This is one of my favorite characters created by [thegreatcoom](https://www.chub
 - When Cornered: 
 - With {{user}}: 
 
-##### Behaviour and Habits
+## Behaviour and Habits
 - 
 - 
 - 

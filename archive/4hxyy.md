@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 342 - Proudwhore Edition:  https://desuarchive.org/trash/thread/63020550/
 Thread 341 - Straw Hat Edition: https://desuarchive.org/trash/thread/62860173/
 Thread 340 - Halloween 4 Months Late Edition: https://desuarchive.org/trash/thread/62608509/
 Thread 339 - Weather Queen Edition: https://desuarchive.org/trash/thread/62523348/

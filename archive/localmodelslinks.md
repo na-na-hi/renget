@@ -60,6 +60,7 @@
 **LLM Tools**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Finetuning tool for various architectures with integrated support for flash attention and rope scaling 
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
+[EE-Tuning](https://github.com/pan-x-c/EE-LLM)|PEFT method to tune a pretrained LLM with early-exit layers and dynamic token-wise loss weights
 [AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)|4bit weight quantization for most major models
 [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)|4bit activation aware weight quantization for most major models
 [KVQuant](https://github.com/SqueezeAILab/KVQuant)|3/4bit KV activations quantization that allows for larger context lengths with very low perplexity degradation 

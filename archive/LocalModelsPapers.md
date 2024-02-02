@@ -274,6 +274,7 @@
 01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
 01/2024|[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196)
 01/2024|[MoE-LLaVA: Mixture of Experts for Large Vision-Language Models](https://arxiv.org/abs/2401.15947)
+02/2024|[Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2402.00789)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -531,6 +532,7 @@
 01/2024|[LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919)
 01/2024|[Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model](https://arxiv.org/abs/2401.17868)
 01/2024|[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
+02/2024|[EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models](https://arxiv.org/abs/2402.00518)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

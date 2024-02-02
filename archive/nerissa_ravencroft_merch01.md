@@ -5,6 +5,9 @@
 -> [Go back to the Main Page](https://rentry.org/joint_operation_center) ->
 
 ## Limited availability
+!!! info
+    These items will not be available for purchase after the order period is over. 
+    Due to their limited nature replenishment of their inventory or additional manufacturing will not happen.
 ##### Physical goods
 ||||
 |-----|-----|-----|
@@ -22,6 +25,15 @@
 &nbsp;
 ***
 
+## Limited stock
+!!! info
+    These items have limited stock and will sell out but can be expected to have their inventory replenished someday.
+##### Currently available
+||||
+|-----|-----|-----|
+| [![hololive closet Nerissa Ravencroft New Year Outfit](https://files.catbox.moe/xpx58x.webp) -> hololive production OFFICIAL SHOP $11 USD <-](https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit) | ![](https://files.catbox.moe/2o7n9q.png) | ![](https://files.catbox.moe/2o7n9q.png)
+
+
 ## Always available for purchase
 
 ##### Digital goods
@@ -34,8 +46,8 @@
 ##### Physical goods
 ||||
 |-----|-----|-----|
-| [![hololive closet Nerissa Ravencroft New Year Outfit](https://files.catbox.moe/xpx58x.webp) -> hololive production OFFICIAL SHOP $11 USD <-](https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit) | [![hololive English -Advent- Halloween 2023 (White) T-Shirt](https://files.catbox.moe/fhz3w9.jpg) -> Amazon US $24 USD <-](https://amazon.com/dp/B0CLGP7C9B) -> [Amazon UK £21 GBP](https://amazon.co.uk/dp/B0CLGPSR47) <- | [![hololive English -Advent- Halloween 2023 (Black) T-Shirt](https://files.catbox.moe/js3gw2.jpg) -> Amazon US $24 USD <-](https://amazon.com/dp/B0CLGPCS24) -> [Amazon UK £21 GBP](https://amazon.co.uk/dp/B0CLGMKS36) <- |
-| [![hololive English -Advent- Halloween 2023 (Gray) Pullover Hoodie](https://files.catbox.moe/8qle07.jpg) -> Amazon US $36 USD <-](https://amazon.com/dp/B0CLGNPRCZ) -> [Amazon UK £37 GBP](https://amazon.co.uk/dp/B0CLGMH8ZK) <- | [![hololive English -Advent- Halloween 2023 (Black) Pullover Hoodie](https://files.catbox.moe/qheekh.jpg) -> Amazon US $36 USD <-](https://amazon.com/dp/B0CLGNQZ8Q) -> [Amazon UK £37 GBP](https://amazon.co.uk/dp/B0CLGNS8SV) <- |
+| [![hololive English -Advent- Halloween 2023 (White) T-Shirt](https://files.catbox.moe/fhz3w9.jpg) -> Amazon US $24 USD <-](https://amazon.com/dp/B0CLGP7C9B) -> [Amazon UK £21 GBP](https://amazon.co.uk/dp/B0CLGPSR47) <- | [![hololive English -Advent- Halloween 2023 (Black) T-Shirt](https://files.catbox.moe/js3gw2.jpg) -> Amazon US $24 USD <-](https://amazon.com/dp/B0CLGPCS24) -> [Amazon UK £21 GBP](https://amazon.co.uk/dp/B0CLGMKS36) <- | [![hololive English -Advent- Halloween 2023 (Gray) Pullover Hoodie](https://files.catbox.moe/8qle07.jpg) -> Amazon US $36 USD <-](https://amazon.com/dp/B0CLGNPRCZ) -> [Amazon UK £37 GBP](https://amazon.co.uk/dp/B0CLGMH8ZK) <- 
+| [![hololive English -Advent- Halloween 2023 (Black) Pullover Hoodie](https://files.catbox.moe/qheekh.jpg) -> Amazon US $36 USD <-](https://amazon.com/dp/B0CLGNQZ8Q) -> [Amazon UK £37 GBP](https://amazon.co.uk/dp/B0CLGNS8SV) <- |
 
 &nbsp;
 &nbsp;

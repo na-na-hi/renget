@@ -104,6 +104,7 @@ https://files.catbox.moe/cd6exz.safetensors andava
 https://files.catbox.moe/j10wt5.safetensors source_filmmaker
 https://files.catbox.moe/o1fmsv.safetensors namako_daibakuhatsu
 https://files.catbox.moe/800fnr.safetensors ishikei you can maybe put source_anime in the positive prompt to make it look more like his old art but as far as i can tell that just happens no matter what
+https://files.catbox.moe/v95tlf.safetensors murata_range works well on both pony and the autism_pony mix
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
