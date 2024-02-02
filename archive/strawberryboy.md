@@ -1,12 +1,14 @@
 -> ![](https://media.discordapp.net/attachments/982634866699014256/1125817491306856579/ezgif-4-76bd2edbef.png) <-
--> ![](https://caterpie.crd.co/assets/images/gallery20/572d47a5.png?v=55641fe5)︰[*bailey*](https://rentry.co/silenthillspt)'s ~~b4~~yi — ₊˚✧ ⊹ <-
+-> ![](https://caterpie.crd.co/assets/images/gallery20/572d47a5.png?v=55641fe5)︰[*bailey*](https://rentry.co/bailey)'s ~~b4~~yi — ₊˚✧ ⊹ <-
 -> ⸺⸺ ★ ⸺⸺ <-
 -> hi! im bailey. **non**human 15yo enfj-t 7w6, im 
-also a [m](https://the-walten-files-new.fandom.com/wiki/Jack_Walten)u[l](https://hotlinemiami.fandom.com/wiki/Biker)t[i](https://be-kind-my-neighbor.fandom.com/wiki/Mr._Neighbor)j[e](https://puppetcombo.fandom.com/wiki/Feed_Me_Billy)c[t](https://mandela-catalogue.fandom.com/wiki/Cesar_Torres). therefore, i am from multiple
+also a introject in a sys. i am from multiple
 [sources!!](https://rentry.co/ptdemo) ![](https://media.discordapp.net/attachments/903364339464044575/1088801140877045880/A5A353EA-7898-4A87-9139-76F796E3E087.gif) (i am more **disconnect**ed from some 
 than others.) im bipoc (afro italian), i say slurs
-i have adhd**tism**, bipolar, suspected **bpd** & *bad* social anxiety ![](https://media.discordapp.net/attachments/903364339464044575/1088801140180799609/1E25AFBA-BAAA-4B15-8CDF-97979FBC09F0.gif) i may shut **down** or get very **over**
-whelmed **very** easily (do **not** take it personally) i get comfy around people i deem trustworthy **quick**ly. <-
+i have adhd**tism**, bipolar, suspected **bpd** & *bad*
+social anxiety ![](https://media.discordapp.net/attachments/903364339464044575/1088801140180799609/1E25AFBA-BAAA-4B15-8CDF-97979FBC09F0.gif) i may shut **down** or get very **over**
+whelmed **very** easily (do **not** take it personally)
+i get comfy around people i deem trustworthy **quick**ly. <-
 
 -> i dont block people over **fictional** interests,
 i have better things to do but if i catch someone 
@@ -15,7 +17,8 @@ who enjoys **irl tragedies** such as **mass murderers
 i love **info**dumping about *my* interests && 
 listening to *others* ramble abt theirs as well
 i can get **ticked** off quite easily & i **dont** have
-a problem w/ telling someone that they're being **annoying**. (take it personally if u want idrc)
+a problem w/ telling someone that they're being
+**annoying**. (take it personally if u want idrc)
 venting/ranting in my dms is totally ok! **un**less
  i have any sort of **dni** in my status at that given 
 time. ty for reading **♡**

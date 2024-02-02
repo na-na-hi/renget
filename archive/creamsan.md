@@ -66,12 +66,12 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ##PROMPTS AND SETUP
 ***
 Most of my cards contain <rules> tags, for formatting and instructions to the AI.
-Add to your JB: `See the latest <rules> tag for instructions.`
+Add to your JB/prefill: `Follow the <rules> closely.` or something like that.
 
 Some of them use CoT. To remove those thoughts, add a regex script in SillyTavern:
 Script Name | Find Regex | Replace With
 --- | --- | ---
-Anything you like | `/<thinking>[\S\s]+?<\/thinking>/` |
+Anything you like | `/(```\s*)?<thinking>[\S\s]+?<\/thinking>(\s*```)?/` |
 
 Tick in Affects:
 - [ ] User Input
@@ -96,7 +96,7 @@ B. Retain thoughts, but filter them out of context.
 
 ***
 ##QR PRESETS
-I sometimes forget to update here, check my [repo](https://github.com/creamsan/stqrpresets) instead.
+See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 Card | Link | Version | Update Notes
 --- | --- | --- | ---
@@ -122,15 +122,15 @@ Also, a more flexible regex setup. Only one script needed.
 
 1. Download the **card's QR preset and Utility preset** above.
 
-2. Paste these json files in your **st folder/public/QuickReplies.**
+2. In SillyTavern, go to Extensions > QuickReplies. Enable Quick Replies, then import the files by clicking the import icon and selecting the downloaded files.
+![1](https://files.catbox.moe/srtb12.jpg) 
 
-3. In SillyTavern go to Extensions > QuickReplies. Enable Quick Replies. Click the Global Quick Reply Sets plus icon. And then select **creamsan**.
-
-![1](https://files.catbox.moe/3tmuvj.jpg) 
+3. After importing, click the Global Quick Reply Sets plus icon, and then select **creamsan**.
+![1](https://files.catbox.moe/zj8p7d.jpg) 
 
 4. For the regex script, go to Extensions > Regex. Click Open Editor.
 
-5. Make the script from the table, copy and paste accordingly. **Only tick Substitute Regex in Other Options**, and save.
+5. Create the script from the table, copy and paste accordingly. **Only tick Substitute regex** and save.
 
 Script Name | Find Regex | Replace With | Update Notes
 --- | --- | --- | ---
@@ -141,7 +141,7 @@ Script Name | Find Regex | Replace With | Update Notes
 
 **And done.**
 
-You'll know it's working if you get an initialization message when you select one of my scripted cards.
+You'll know it's working when you get an initialization message when you select one of my scripted cards.
 You may notice a new Send button in the input field. Use the **QR Send button (green) for scripted inputs**, and use the **normal Send button (yellow) for normal inputs**. For example, with Ms. Keyes' card, use the QR Send button when you want to automatically append your time and grade, and use the normal Send button when the test is over and you want to interact normally.
 I would recommend using QR Send all the time though.
 

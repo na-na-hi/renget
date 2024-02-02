@@ -119,7 +119,7 @@ plasmids bioshock3 murkoffproperty
  
 -> ❝ ![](https://three.crd.co/assets/images/gallery41/a6b56b9b_original.gif?v=7d20e3a9) [﹔](https://rentry.co/pixxie) ♬ **personal, all nft**｡       (◞ ◟![](https://three.crd.co/assets/images/gallery33/5829b07c_original.png?v=7d20e3a9)) <-
 -> [puppetgut](https://rentry.co/puppetgut)₊ puppetgender₊ boargirl₊ 
-ambrosette₊ darlingbailey₊ puppytorres₊ 
+[ambrosette](ambrosette)₊ darlingbailey₊ puppytorres₊ 
 [apuppet](https://rentry.co/apuppet)₊ [smalllovebites](https://rentry.co/smalllovebites)₊ [brownpixels](https://rentry.co/brownpixels)₊ 
 clancmos₊ scissortorres₊ [psychobfs](https://rentry.co/psychobfs)₊
 wolfiebaby₊ benedettococuzza₊ acidtrip₊ 

@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 235th time, what is Ope?!
+For the 236th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -22,8 +22,6 @@ Next public stream: Kuukiyomi (Sat 02/03 7PM CT)
 https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 ▼ Last stream (Stardew Valley)
 https://www.youtube.com/watch?v=0m-QTagWa3I
-▼ Last member stream (zatsudan & ASMR)
-https://www.youtube.com/watch?v=UWv41u5tXOw
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
 https://s.goodsmile.link/gmC
@@ -45,7 +43,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67917219
+Previous thread: >>67993515
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
@@ -77,3 +75,5 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
+Reminder, please consider voting for January's top streams.
+https://forms.gle/foT5vZmxGrgXm8rR6

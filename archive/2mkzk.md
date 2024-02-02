@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: - at 3UTC ()** 
 **FRI: Megaman Starforce 2 at 3UTC (Parsec)** surely
-**SAT: good question at 3UTC (Telemelt)**
+**SAT: Kirby 64: The Crystal Shards at 3UTC (Parsec)**
 **SUN: Minemelt around 19UTC* (Minecraft)** probably
 
 ##Cytubes

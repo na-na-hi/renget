@@ -1,5 +1,5 @@
 -> ![](https://media.discordapp.net/attachments/982634866699014256/1123952560433274970/ezgif-3-5bea7d2db3.png) <-
--> ![](https://media.discordapp.net/attachments/903364339464044575/1089601727256334396/45FC988A-72B5-43FE-BBF4-95305EB3B853.gif)︰[*bailey*](https://rentry.co/silenthillspt)'s ~~int~~erests — ₊˚✧ ⊹ <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1089601727256334396/45FC988A-72B5-43FE-BBF4-95305EB3B853.gif)︰[*bailey*](https://rentry.co/bailey)'s ~~int~~erests — ₊˚✧ ⊹ <-
 -> ⸺⸺ ★ ⸺⸺ <-
 -> **bold** = **sp***interest*
 regular text = main interest
@@ -31,5 +31,5 @@ chilla's art　31 minutos　**watchmen(hbo)**　*bioshock*
 **kubz scouts**　wendigoon　eric larocca　*cof*　
 the quarry　**hardcore henry**　**afraid of monsters**
 moral orel　**hotline miami**　*we happy few*　fight club
-**chonny jash**　creepypasta　*banana bus squad*<-
+**chonny jash**　creepypasta　[*banana bus squad*](https://vaf.fandom.com/wiki/Home_Page) <-
 -> ![](https://cdn.discordapp.com/attachments/935735380538449952/946013075704795136/Strawberry_gashes.png) <-

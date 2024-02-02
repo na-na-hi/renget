@@ -2,13 +2,13 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
+Feb.01st | Bao-Feng (Gyarados gijinka) [Catbox](https://files.catbox.moe/af0yxa.png) Card
 Dec.13th | Mewtwo⠀♂ [Chub](https://www.chub.ai/characters/ClausOfTheNewMoon/mewtwo-the-psychic-pokemon-r18) \| Mewtwo⠀♀ [Chub](https://chub.ai/characters/ClausOfTheNewMoon/mewtwo-r63-the-psychic-clone-pokemon)
 Nov.11th | Wicke (Hyper) [Chub](https://www.chub.ai/characters/skumbingo1013/hyper-wicke)
 Oct.06th | Hatsune Miku (Ground-type Specialist) [Chub](https://chub.ai/characters/theroyalwe/ground-miku-06d036b9)
 Sep.30th | Scolipede⠀♂ [Chub](https://www.chub.ai/characters/skumbingo1013/scolipede-b2e587ad) \| ->Gigantamax Melony [Chub](https://www.chub.ai/characters/skumbingo1013/gigantimax-melony-7760fa98) \| Klara [Chub](https://www.chub.ai/characters/skumbingo1013/mean-bitch-klara-22c05a50)<-
 Aug.18th | Ace Trainer Amanda (Pokémon Clover) [Catbox](https://files.catbox.moe/bz6nc2.png) Card \| -> Mozzamazel [Catbox](https://files.catbox.moe/gf64w5.png) Card <-
-Aug. 9th | Genwunner (OC) [Catbox](https://files.catbox.moe/19c8tu.png) Card
-Aug. 8th | Marnie [Catbox](https://files.catbox.moe/auyt5r.png) Card
+Aug. 9th | Genwun Jennifer (Genwunner OC) [Catbox](https://files.catbox.moe/19c8tu.png) Card
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*
@@ -41,9 +41,10 @@ Gigantamax **Melony** | [Chub](https://www.chub.ai/characters/skumbingo1013/giga
 **Klara** | [Chub](https://www.chub.ai/characters/skumbingo1013/mean-bitch-klara-22c05a50)
 **Iono** | [Booruplus](https://booru.plus/+pygmalion969) & [Chub](https://www.characterhub.org/characters/LizakJaye/Iono/main)
 Ground-type Specialist **Hatsune Miku** | [Chub](https://chub.ai/characters/theroyalwe/ground-miku-06d036b9)
-Genwunner | [Catbox](https://files.catbox.moe/19c8tu.png) Card
 Ace Trainer **Amanda** -> (Pokémon Clover) <- | [Catbox](https://files.catbox.moe/bz6nc2.png) Card
 **Mozzamazel** | [Catbox](https://files.catbox.moe/gf64w5.png) Card
+**Bao-Feng** (**Gyarados** Gijinka) | [Catbox](https://files.catbox.moe/af0yxa.png) Card
+**Genwun Jennifer** (Genwunner) | [Catbox](https://files.catbox.moe/19c8tu.png) Card
 
 ### Unedited C.AI Ports:
 Characters | URLs

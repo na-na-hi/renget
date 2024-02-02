@@ -9,6 +9,13 @@ The AppData folder is hidden, just type it into the path field. Some game devs s
 You can also use something like https://www.gamesave-manager.com to backup your game saves.
 Not all the folders need to or should be backed up. Game dev folders, 3rd party programs, etc might be safe to backup, but you probably shouldn't backup Microsoft or other system related folders in here as they can contain system settings files which can cause unexpected issues with your fresh install.
 
+######Step 0.5: Choosing an edition
+There's currently two mainline channels of Windows. Semi-Annual Channel and Long Term Service Channel.
+SAC editions (Home/Pro/Education/Enterprise) are supported from 1.5-3 years and have regular weekly forced updates as well as forced full system upgrades when their support period ends.
+If you update your hardware constantly every year, it will likely get support faster on this channel. However this channel also gets tons of pointless feature updates that break or remove features, such as wide scale wifi breakage and the rewrites and downgrades to Snipping Tool and File Explorer.
+
+LTSC editions (LTSC/IoT LTSC) are [identical to Enterprise](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/getting_started) except they will not have any feature updates pushed to them, only security updates and bug fixes, and are supported for 5/10 years respectively from release. They are in essence the successor to the classic Windows release cycle from Windows 3.11 through 7. These editions also do not come with the Microsoft Store by default, and by extension do not come with any bloat apps.
+This is the preferred channel if you prefer stability and reliability, as well as control over when you want to update and upgrade your OS.
 
 ######Step 1: Download and verify you have a legitimate Windows ISO
 This guide uses IoT LTSC but the same steps apply to any non-VolumeLicense Enterprise/Education/Workstation edition of Windows.

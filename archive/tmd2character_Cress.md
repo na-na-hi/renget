@@ -19,12 +19,12 @@ Libero | The User's Type changes to match the Move they are about to use. Super-
 ->*250/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+1) | Modifiers | Combat Effect
+Stat | Points: 2 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 1 | Level 5 (20HP) | 22HP
+Health Points | 1 | Level 5 (21HP) | 23HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
+Defense | 2 | ɴᴏ ʙᴏɴᴜs | +2 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 1 |  Species Bonus | 5AP
 
@@ -46,11 +46,11 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 57 points to spend.
-    0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
+    You have 27 points to spend.
+    1/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Lightweight | The User is lighter than their species is normally supposed to be. | 1
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP

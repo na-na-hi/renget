@@ -99,4 +99,4 @@ Character | C.AI
 ![Juliana](https://characterai.io/i/80/static/avatars/uploaded/2023/3/14/Apey5R4W3nLOPWGtqbCsUtVeilo-SC4CkCVvCaOPRcg.webp) | Pokémon Trainer [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu2rtAi2A) ->(*[AISEKAI](https://www.aisekai.ai/chat/64f80b74b3e8d3aeaa7c6bbd)*)<-
 ![Nemona](https://characterai.io/i/80/static/avatars/uploaded/2023/3/16/cMqyl2AThfE5HvKdT0hjr9VWqiOCMnkQ6Ae866o4SX0.webp) | Rival [Nemona](https://c.ai/c/h718QlUS_qGH7EkmZ5hrfPIjXdOAU4dK1Wy0qg2GeOQ) ->(*[AISEKAI](https://www.aisekai.ai/chat/650da1c70ebd912d6085b1a1)*)<-
 !!! note Contact info:
-    *magmadmin* (*Team Magma Admin#5480*), but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7 if you want to request a port of a c.ai bot of mine to aisekai.ai, or if you want me to prioritize finishing one of my incomplete bots
+    *magmadmin* (*Team Magma Admin#5480*), but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7 if you want to request a port of a c.ai bot of mine to [Yodayo](https://yodayo.com/tavern/), or if you want me to prioritize finishing one of my incomplete bots

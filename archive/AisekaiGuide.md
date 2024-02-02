@@ -1,5 +1,15 @@
 #BoredAnons Aisekai guide
 
+
+#aHAHAHAHAH sites dead
+
+The stuff here could be useful for making some other bots but for now this is not surprising after the U-turn
+Some day they will stop ruining competent projects with filtering and investor demands
+
+
+
+
+
 !!! info Take all this however you want. It's my personal findings but if you see something that's wrong then post some proof and I'll update the guide.
 
 ##What is this?

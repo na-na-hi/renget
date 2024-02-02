@@ -425,13 +425,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Art
->delinquent
->>91759884
->Underground Gala Mio
->>91759097
-the guy the bro the pal the friend bobby samson himself!
->>91765155
+New Build?
+>The Hospital Killer
+>>91772420
+
+New Writefags:
+>Survivor's Talk
+https://rentry.org/drqmuvar
+>Hospital Killer Kills a Saiyan
+https://rentry.org/Jugo_Dies_In_A_Blackout
+
+New Art:
+>CHIHIRO
+>>91767116
+>cafeteria scene
+>>91771549
+>cafeteria scene V.2
+>>91773041
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -766,6 +776,8 @@ Page 5
 >>91703057
 >Bonzo Amato VN The Boss
 >>91703456
+>The Hospital Killer
+>>91772420
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
@@ -1035,6 +1047,10 @@ https://rentry.org/x3gaabdu
 https://rentry.org/ms8yk558
 >Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator)
 https://rentry.org/7yoniwe4
+>Survivor's Talk
+https://rentry.org/drqmuvar
+>Hospital Killer Kills a Saiyan
+https://rentry.org/Jugo_Dies_In_A_Blackout
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

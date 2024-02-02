@@ -1,8 +1,5 @@
 # tsukasa
 
-!!! note NEW MIXTRAL 8X7B TUNE OUT WITH QUANTS https://huggingface.co/ludis/tsukasa-8x7b-qlora-gptq
-
-!!! info log paste: https://rentry.org/tsukasalogs
 !!! info list of all models (with quants): https://huggingface.co/ludis
 
 ![fox](https://feen.us/u125a2.gif)
@@ -63,11 +60,13 @@ Then the roleplay chat between {{#each bot}}{{.name}}, {{/each}}{{char}} and {{u
 
 ## gen settings
 
-the bigger the model the higher you can put the temperature, for 7b i would use temp 0.7, for 8x7b 0.9, for 120b 1.1
+the bigger the model the higher you can put the temperature, for 7b i would use temp 0.7, for 8x7b 0.9, for 120b 1.0
 i keep everything here the same and just change temperature depending on the model
 dynamic temperature is good i keep the range at 0.3
 
-`temperature=1.0, dynatemp_range=0.3, dynatemp_expoinent=1, Repetition penalty=1.0, typical-p=0.99, top-p=1, top-k=4, Min P=0.05, Top A=0, Tail Free Sampling=1.0, Epsilon Cutoff=0, Eta Cutoff=0, Frequency/Presence Penalty=0, Microstat Tau=0`
+the important ones are dynatemp range of 0.3, typical p of 0.99 (so it's BARELY active) min p of 0.05 and the temperature. all the other samplers should just be disabled (0 for top-k disabled it, 1 for top-p disables it etc)
+
+`temperature=1.0, dynatemp_range=0.3, dynatemp_exponent=1, typical-p=0.99, Min P=0.05, Repetition penalty=1.0, top-p=1, top-k=0, Top A=0, Tail Free Sampling=1.0, Epsilon Cutoff=0, Eta Cutoff=0, Frequency/Presence Penalty=0, Microstat Tau=0`
 
 ## stopping strings
 

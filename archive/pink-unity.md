@@ -218,6 +218,8 @@ Some examples include but are not limited to:
 *Tara Kaminarito* (EN): https://www.twitch.tv/tarakaminarito
 *AfterSchoolSophie* (EN): https://www.twitch.tv/afterschoolsophie
 *YFUBABY* (EN): https://www.twitch.tv/yfubaby
+*Angelic Hunnii* (EN): https://www.youtube.com/@angelichunnii
+*Sagiki Ihori* (EN): https://www.youtube.com/c/SagikiIhori
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko

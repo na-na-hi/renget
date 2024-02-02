@@ -2,11 +2,11 @@
 
 # current links
 
-## [instructions](https://achieve-cgi-stack-scored.trycloudflare.com)
+## [instructions](https://subscriber-shadow-pest-associates.trycloudflare.com)
 
 ## proxy url
 ```
-https://achieve-cgi-stack-scored.trycloudflare.com/v1
+https://subscriber-shadow-pest-associates.trycloudflare.com/v1
 ```
 
 ## password

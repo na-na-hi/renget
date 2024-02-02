@@ -4,7 +4,7 @@
 ->❝ %#bb9c80%there's nothing worth pursuing%% ❞<-
 ->╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮<-
 ->![writing feather](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_0994_1.gif) **N**_AME_ %#bb9c80%[or](https://rentry.org/cybertemplates-dazai)%% **N**_AME_ ![writing feather](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_0994_1.gif)<-
-->✎ pro %#bb9c80%*[)](https://rentry.org/cybertemplates-dazai)*%% nou %#bb9c80%*[)](https://rentry.org/cybertemplates-dazai)*%% ns ![heart book](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1216_1.gif) label ᝰ<-
+->✎ pro %#bb9c80%*[)](https://rentry.org/cybertemplates-dazai)*%% nou %#bb9c80%*[)](https://rentry.org/cybertemplates-dazai)*%% ns ![heart book](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1216_1.gif) label ☆<-
 ->![envelope](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1004_1.gif) age 𓎟𓎟 diagnosis ![envelope](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1004_1.gif)<-
 ->↻ extra ![book](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1007_1.gif) info ᶻ 𝗓<-
 ->╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯<-

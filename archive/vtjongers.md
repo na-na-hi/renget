@@ -14,7 +14,8 @@
 
 
 >Partnered indies' Blessings of the earth
-
+Nyaruchuu " Tsumo Idol" 
+https://www.youtube.com/watch?v=3lkdQSEeNJc
 
 
 >Small indies' Four little winds
