@@ -5,7 +5,7 @@
 ## FAQs
 
 >{feature} isn't working!
-Put the statement early in the prompt, put it in scare quotes, find redundant ways to state it throughout the prompt. If necessary you may have to change the style/artist to one with more precedent for the feature.
+Put the statement early in the prompt, put it in scare quotes, find redundant ways to state it throughout the prompt. Eliminate any prompts that might contradict it or cancel it out. If necessary you may have to change the style/artist to one with more precedent for the feature.
 
 >It only does portraits, not full body!
 Describe the footwear in detail, describe the floor/ground around them, describe their surroundings in a way that forces it to zoom out, describe actions, like walking, that want to show the legs/feet. In general prioritize the surroundings primarily and the subject secondarily.
@@ -25,20 +25,6 @@ Yeah, they don't unfortunately. Maybe in a future update. Until then you need to
 - dark fantasy art, acrylic painting 
 - atmospheric, mike mignola art style, mild colors, high quality dark fantasy painting with thick black outlines, low color saturation, line threading, and sharp edges
 
-## Multimedia Styles
-
-- anime (See also "Eastern Artists" below)
-	- 1980's anime ova style dark fantasy line art
-	- Japanese anime impressionist, detailed and intricate illustration, soft watercolors
-	- a grainy cel-shaded highly-detailed reference photo of <x\>, 90's anime
-	- chibi anime art style
-- games
-	- <game engine\> screenshot
-	- hand drawn, watercolor, pen, fantasy, illustrated by Akihiko Yoshida and Junko Kawano, anime, video game concept art, colored
-	- PC Engine adventure game on a CRT
-	- concept art for Darkest Dungeon, digital color drawing in the style of Mike Mignola, dark fantasy ambiance, eyes in shadow, \[character description], \[background description (optional)]
-	- heroes of might and magic 1 low resolution retro DOS screenshot pixel art
-
 ## /tg/ prompts
 
 Strategy guide
@@ -53,8 +39,24 @@ Classic black & white D&D
 >High contrast. Dark lighting. Black and white pulp magazine illustration 1960's. Photocopy dithering
 Tabletop miniatures
 >A highly detailed plastic wargame miniature professionally painted in bright colours standing on a small base. <Character prompt\> It stands on a gaming table.
+Virtual tabletop miniatures
+>isometric character token for a virtual tabletop. {Description of character}. colored sketch {optional artist or style, keep it simple}. round empty base
 Tarot cards
 >stylized <arcana name\> tarot card "<number\>" written on the top, "<arcana name\>" is written, <arcana name\> tarot card, colored, <description\>.
+
+## Multimedia Styles
+
+- anime (See also "Eastern Artists" below)
+	- 1980's anime ova style dark fantasy line art
+	- Japanese anime impressionist, detailed and intricate illustration, soft watercolors
+	- a grainy cel-shaded highly-detailed reference photo of <x\>, 90's anime
+	- chibi anime art style
+- video games
+	- <game engine\> screenshot
+	- hand drawn, watercolor, pen, fantasy, illustrated by Akihiko Yoshida and Junko Kawano, anime, video game concept art, colored
+	- PC Engine adventure game on a CRT
+	- concept art for Darkest Dungeon, digital color drawing in the style of Mike Mignola, dark fantasy ambiance, eyes in shadow, \[character description], \[background description (optional)]
+	- heroes of might and magic 1 low resolution retro DOS screenshot pixel art
 
 ## Historical Styles
 
@@ -68,6 +70,8 @@ Tarot cards
 - dada / dadaist
 - surrealist
 - abstract
+- art deco
+- art nouveau
 
 ## Basic styles
 

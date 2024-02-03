@@ -1,6 +1,6 @@
 ![Brook](https://files.catbox.moe/0vfuwn.png)
 
-### Brook ♂
+ ## ->%#143556%B%%%#4E2A51%r%%%#10a9dc%oo%%%#A51A4A%k%%<- ♂
  Not much of a talker and a bit timid too, but deep down he's got a good heart just wanting to help however he can and hopefully find his lost memories along the way.
 
 · | ->· ->

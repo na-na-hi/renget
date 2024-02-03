@@ -10,6 +10,7 @@ You know what to call me!
 **Level:** 12 | **Experience to Next Level:** 40/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 484₽ | **Glorious Gold:** 0 Bars
+**Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
 ---- | ----
@@ -32,7 +33,7 @@ Speed | 3 |  ɴᴏ ʙᴏɴᴜs | 6AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Fire Fang | 6 BP | 5 AP | ≥2 | Fire | Physical | 16-18; The Opponent is afflicted with Burn. 19-20; The Opponent Flinches.
-Double Kick | 3 BP | 7 AP | ≥2 | Fighting | Physical | Hits twice.
+Double Kick | 2D6 BP | 5 AP | ≥2 | Fighting | Physical | Multi-Hit; Roll 2D6.
 Ember | 4BP | 5AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
 Quick Attack | 4 BP | 5 (-1) AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.

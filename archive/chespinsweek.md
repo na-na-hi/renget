@@ -1077,4 +1077,118 @@ Carried forward by my Mach Ribbon, I don't stop running until I get back to the 
 I feel my eyelids grow heavy. “Just let me... enjoy my... triumph...”
 
 ####Day 6:
+The next morning, I find myself back in my own room, covered in blankets. How did I get back here? Did Toge actually carry me back here? The thought of it makes me feel a bit awkward, but what's done is done. I'd better find something else to do today. Before I can manage to stand up, however, I hear a knock at the door.
+
+“Chespin! You got a package waiting for you, sounds like you're holding out on me with the drinks!”
+
+There's no doubt about it, that's Totodile. Wait a sec, a package? I completely forgot I ordered that! “Coming!” I quickly get out of bed, heading for the main hall.
+
+I find a dark box laying near the mission board, with my name written on a label. Picking it up, I notice that it feels... wet. Opening it up, my heart drops at what I see. The special Gummi drinks I had ordered... they're shattered! The bottles broke during shipping, the liquid having seeped into the package! It's completely *ruined!*
+
+I drop the box on the floor, my crushing disappointment giving way to anger, a new hate building within me. “Those... filthy... rotten... incompetent disgusting ***WINGERS!*** Of *COURSE* those DEGENERATES broke it! Just LOOK at them! Probably did it intentionally so they could slobber all over MY drinks!”
+
+An unusual voice, with a thick southern accent, speaks up from nearby. “Hoot! Hope y'all ain't talkin' about me, hon!”
+
+I look towards the voice, seeing a Delibird standing there. “No, it's not you, just... This package only had one option for shipping, and it certainly wasn't you!”
+
+“Oh yeah, those other postmen're a real thorn in my side, y'know. Doin' shoddy work, getting' packages dirty, all sorts of nasty things. Them folks dang near have a monopoly all over the place, though.”
+
+“You're telling me...” I look down at my ruined package. “My special order is worthless because of them! I was going to share these with Wooper when he got back, but now... Oooh, I'd love to get my hands on one of them, because then I'd...” I clench my fist, letting it spark with electricity as I punch my palm. “Right in their stupid *face!*”
+
+The Delibird thinks for a moment before saying “Y'know, I'm beginnin' to like y'all. How's about coming with and help me out today?”
+
+“What? Why?”
+
+“I've got some of them there Gummi drinks hangin' 'round. Help me out and I'll let y'all have a couple bottles.”
+
+I don't want to spend today delivering mail, but I need those drinks. “Double the amount of drinks and you've got a deal.”
+
+“Normally I'd say no, but we've got a common enemy. Fair enough, I'd say.” The Delibird waves for me to follow her out the door. “By the way, name's Debby.”
+
+“You can just call me Chespin.”
+
+-----
+
+Once outside of the guild, Debby pulls a few boxes from her tail bag, handing them to me. Once I grab them in my vines, she says, “Alls we've gotta do is run these over to their recipients.” 
+
+I scratch the back of my head. “That's it? It doesn't look like you needed help carrying these.”
+
+“Heck, I just like havin' some company 'round for the deliveries. 'sides, y'all look like y'all could do with some company yerself.” She looks over at me, following with, “I've been comin' 'round the guild for awhile, and y'all've looked pretty down ever since your little buddy went away.”
+
+I gasp. “Y-you know about that?” Letting out a sad sigh, I say, “Wooper's who I've relied on ever since coming here, by my side pretty much all the time. He's the best friend I've ever had... really the only good friend I've had, actually. Even if most of the others at the guild are nice enough, they're... not exactly a replacement.”
+
+“Shucks, I know how y'all feel. I get torn up when Kaz ain't 'round the post office. Y'all might know him as the Linoone that runs mail over sometime. Great guy, always a fun time racin' him to deliveries.”
+
+“You mean the guy that's always running small deliveries to the guild? Never really got a chance to talk to him.”
+
+“Oh, y'all've reminded me.” She reaches into her tail bag, pulling out a hat with the initials DD above the brim. Placing it on my head, she says, “If y'all're helpin' me today, best look the part.”
+
+I move the hat around on my head, trying to find a comfortable spot for it to rest without disturbing my quills too much. Maybe a headband would work better than a hat, but I don't want to be rude. “Well, let's get these packages delivered.”
+
+-----
+
+We spend the next hour or so walking around Capim Town. Most deliveries are as easy as placing the package on the customer's doorstep, while other stops involve awkward small talk with the residents. After I rejoin with Debby after one more dropoff, she says, “Y'all're doin' a fine job, Chesp. Ever do thi-” Debby cuts herself off, looking to her side. “Look over there, we got a porch pirate. Wanna take care of him?”
+
+I follow her gaze, spotting a Scraggy creeping towards the package I had just set down. “Oh, it's this guy again? Hold on, I've got an idea.” Looking around, I spot a tree not far from the culprit. As the Scraggy's back is turned, I shoot my vines towards the tree. Reeling myself in, I let go, slingshotting myself forward as I land right behind the crook. I tap him on the back with a vine, saying,“Hey, remember me?”
+
+The Scraggy jumps in shock, turning around. “Yo, I was just lookin' f-” The color seems to drain from his face when he spots my badge. “Y-you're supposed to be evolved!”
+
+I shake my head. “Don't need it to stop you.” I wrap my vines around Scraggy, lifting him up. “I think you owe us an apology.”
+
+“Us?”
+
+I carry him over to Debby. “Got him, now what?”
+
+Debby shakes her head. “Mail theft is a pretty serious crime, y'hear? Screws over both the customer and the mailmen as well. I best not be seein' you pokin' 'round other folks porches, otherwise...” Debby pulls a large giftwrapped box. “I'll be havin' to give you a little gift, and y'all're gonna be on the naughty list.”
+
+Scraggy's eyes go wide as he struggles against my vines. “That ain't cool, yo!”
+
+“Put him down, Chesp. I'm thinkin' we've made our point.”
+
+I shrug, setting him down and retracting my vines. Scraggy wastes no time bolting away from the scene. That's a pretty strong reaction to being shown a present, what's so scary about a bad gift, anyways?
+
+-----
+
+“Y'all're mighty proactive when it comes to stoppin' baddies, Chesp. Were y'all a cop as a human?”
+
+I shake my head. “No, I-” Realizing what she said, I respond with, “Wait, how did you know about *that?!*”
+
+Debby merely gives me a wink, saying, “Look who y'all live with at the guild.”
+
+I readjust my hat. “Not really a well kept secret by now, is it?”
+
+“Y'all're pretty good at deliveries as well, were y'all a mailman before?”
+
+I shrug. “I had a paper route when I was still in school, but that's it. Besides, you're leading me around town. I wouldn't have any idea where to deliver this stuff otherwise.”
+
+“Just one of those things y'all learn after enough time.” Debby points to a house down the road. “We're almost done today, but I have one special delivery to make for some folks who've been a real thorn in my side.” Pulling a present out of her bag, she says, “Wait here.”
+
+I stand on the side of the road, watching as she sneaks around the side of the house. She flies up to the roof, climbing down the chimney. Who does she think she is, Santa? Looking up at the sky, I watch the clouds roll by as I wait., but it doesn't last long. Debby returns quickly, and says “Alright, y'all ready for your payment?”
+
+I nod. “You bet I am, but... What's in those presents, anyways?” As if on cue, I hear a loud explosion from within the house she was just in! Stunned, I say, “Y-you *BOMBED* them?!”
+
+“Aw heck, they're always fine afterwards. Just a little warnin' for those package thieves, you hear? So, y'all comin'?” Not wanting to ask about it further, I simply follow Debby.
+
+-----
+
+Eventually we arrive at her post office, the sun low in the sky. Debby runs inside, coming back out with four bottles, dropping them in my hands. “And here y'all go! Four of them there drinks, just like y'all asked!”
+
+I stow three of them in my bag, reading the label of the final bottle. “Spinda's Supremely Special Reserve. A magical medley of fruity flavors for the discerning Pokemon. Not for children.” Storing the bottle away, I say, “Thanks a bunch, Wooper'll really like these when he gets back.”
+
+“Happy to help, and happy for y'all help!” Debby grabs the hat I've been wearing, and gives me a pat on the shoulder. “By the way, even if y'all ain't doin' too hot without y'all little buddy, it'll just make his return that much better. Ain’t too different from a smoke or a drink after a long day of work, but with friends the feelin’ is somethin’ y’all treasure for a long time after. Be sure to enjoy those drinks with him, you hear? Hoot! Maybe find a nice spot to sit down, just the two of y’all.”
+
+I look into the bag, thinking about how the drinks will taste. “That sounds nice, I'll definitely be sure to do just that when he's back. He's supposed to come back tomorrow... Just hope everything's all good. Thanks for the kind words, and thanks again for the drinks.”
+
+“Don't be a stranger, now! Y'all ever want to pick up extra work, the post office is always offerin'! Any enemy of them there pesky postmen is a friend of mine! Or wingers, as y'all called 'em.” With a tip of her hat, Debby flies off towards the coast, and I begin to make the walk back to the guild. 
+
+For someone that had never met me before, Debby was awfully kind. Her methods of dealing with crooks seem a bit unorthodox, but I can only imagine how much of an insult stealing packages can be towards her. She certainly seems like a more capable mailbird than those scumbags that broke my package earlier today.
+
+One thing's for sure, I'm never using those other postmen again if I can help it.
+
+-----
+
+Back in my room, the moon shines onto me as I lay in bed. I wonder if Wooper's adventure has been going well. He hasn't run into trouble, right? I yawn, sleepiness overtaking me as I think about it. 
+
+Just one more day...
+
 ####Day 7:

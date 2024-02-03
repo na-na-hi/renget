@@ -255,6 +255,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/?sort=newest) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
+[[Booth]](https://ucup.booth.pm/items/5466407) [[Gumroad]](https://ucup.gumroad.com/l/hvjhu) : Blue Archive - Hanako
 [[Booth]](https://ucup.booth.pm/items/5411090) : FGO - Jack The Ripper
 [[Booth]](https://ucup.booth.pm/items/5411072) : FGO - Mysterious Heroine XX
 [[Booth]](https://ucup.booth.pm/items/5392124) : FGO - Florence Nightingale

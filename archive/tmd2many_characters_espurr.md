@@ -1,19 +1,19 @@
 ->![Schrödinger's Cat](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/TFsyRZoitbRUZMqDvjbhEwkR)<-
 
-## ->Espurr<-
+## ->%#ff82b6%E%%%#d77bba%s%%%#76428a%pu%%%#4d2f63%rr%%<-
 
-->*The Restraint Pokémon*<-
+->*%#847e87%The Restraint Pokémon%%*<-
 ->![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png)<-
 
-*->Unevolved->*
-*->One Evolution->*
-*->Meowstic->*
+*->%#847e87%Unevolved%%->*
+*->%#847e87%One Evolution%%->*
+*->%#847e87%Meowstic%%->*
 
-*Intelligence: ?/5*
-*Creativity: 3/5*
-*Initiative: 1/5*
-*Emotional Strength: ?/5*
-*Social Skills: 0/5*
+*%#847e87%Intelligence:%% ?/5*
+*%#847e87%Creativity:%% 3/5*
+*%#847e87%Initiative:%% 1/5*
+*%#847e87%Emotional Strength:%% ?/5*
+*%#847e87%Social Skills:%% 0/5*
 
 ***
 
@@ -23,15 +23,15 @@
 
 · | ->·<- | ->·->
 ---- | ---- | 
-**Origin:** ??? | **Guild Role:** Cat | **Nature:** Quirky
-**Species:** Espurr | **Affiliation:** Team Stardust | **Favorite Color:** Yellow
-**Level:** 12 | **Experience to Next Level:** 110/120 | **Alignment:** True Neutral
-**Worn Item:** *N/A* | **Clothing:** *Leaf Bag* | **Age:** Unknown
-**Pokécoin:** 1724₽ | **Glorious Gold:** 0 Bars | **Gender**: Unknown
+**%#dcc6c2%Origin:%%** ??? | **%#dcc6c2%Guild Role:%%** Cat | **%#dcc6c2%Nature:%%** Quirky
+**%#dcc6c2%Species:%%** %#ff82b6%E%%%#d77bba%s%%%#76428a%pu%%%#4d2f63%rr%% | **%#dcc6c2%Affiliation:%%** Team Stardust | **%#dcc6c2%Favorite Color:%%** %#fff667%Yellow%%
+**%#dcc6c2%Level:%%** 12 | **%#dcc6c2%Experience to Next Level:%%** 110/120 | **%#dcc6c2%Alignment:%%** True Neutral
+**%#dcc6c2%Worn Item:%%** *N/A* | **%#dcc6c2%Clothing:%%** *Leaf Bag* | **%#dcc6c2%Age:%%** Unknown
+**%#dcc6c2%Pokécoin:%%** 1724₽ | **%#dcc6c2%Glorious Gold:%%** 0 Bars | **%#dcc6c2%Gender:%%** Unknown
 
 ***
 
-Espurr's Ability | Description
+%#dcc6c2%Espurr's Ability%% | %#dcc6c2%Description%%
 ---- | ----
 Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works differently. 
 
@@ -39,26 +39,26 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 
 ->Rookie Rank<-
 ->*365/400 points to Normal Rank*<-
-->![A means to an end.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->![Peculiar.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
 
-#### ->Stats<-
-Stat | Points: 3 (+1) | Modifiers | Combat Effect
+#### ->%#dcc6c2%Stats%%<-
+%#dcc6c2%Stat%% | %#dcc6c2%Points: 3 (+1)%% | %#dcc6c2%Modifiers%% | %#dcc6c2%Combat Effect%%
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 10 (22 HP) | 22 HP
-Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
-Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 0 (+1) | Species Bonus | 5 AP
+**%#cd473b%Health Points%%** | 0 | Level 10 (22 %#cd473b%HP%%) | 22 %#cd473b%HP%%
+**%#e76439%Attack%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#ac3232%Physical%% Damage
+**%#e69d31%Defense%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#ac3232%Physical%% Mitigation
+**%#a5ff38%Special Attack%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#4258c0%Special%% Damage
+**%#57dad6%Special Defense%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#4258c0%Special%% Mitigation
+**%#7c57ff%Speed%%** | 0 (+1) | Species Bonus | 5 %#7c57ff%AP%%
 
 ***
 
 #### ->Moves<-
-Move | Base Power | Action Points | Accuracy | Type | Property | Description
+%#dcc6c2%Move%% | %#dcc6c2%Base Power%% | %#dcc6c2%Action Points%% | %#dcc6c2%Accuracy%% | %#dcc6c2%Type%% | %#dcc6c2%Property%% | %#dcc6c2%Description%%
 --- | -- | -- | - | :-: | :-: | ---------
-Gravity | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
+%#ff82b6%G%%%#d77bba%r%%%#76428a%av%%%#4d2f63%ity%% | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
 Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
 Shock Wave | 6 BP | 5 AP | - | ![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
 Flash | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
@@ -68,7 +68,7 @@ Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_mat
 
 ##### RP Moves
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
-Name of Move | Description
+%#dcc6c2%Name of Move%% | %#dcc6c2%Description%%	
 ------ | :----: 
 None | N/A
 None | N/A
@@ -78,7 +78,7 @@ None | N/A
 #### ->Special Bonuses<-
 !!! note 59 IQ points to spend.
 	0/10 | ▯▯▯▯▯▯▯▯▯▯
-IQ Skills Active/Inactive | Description of Skill | IP Cost
+%#dcc6c2%IQ Skills Active/Inactive%% | %#dcc6c2%Description of Skill%% | %#dcc6c2%IP Cost%%
 ------ | :----: | ------
 ??? | ??? | 0 IP
 Eᴍᴘᴛʏ | Description. | 0 IP
@@ -88,7 +88,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 
 ***
 
-Attributes | Tier Bonus | Description
+%#dcc6c2%Attributes%% | %#dcc6c2%Tier Bonus%% | %#dcc6c2%Description%%
 ------ | :----: | :----:
 Attribute: Gravitational Potential | **ᴍᴀx** (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
 Attribute: Foraging | Tier **ɪɪ** (+2) | Skill in scavenging for useful food items and materials found in nature. 
@@ -97,7 +97,7 @@ Battle Attribute: ??? | - | -
 
 ***
 
-Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
+%#dcc6c2%Training%% | %#dcc6c2%Next Tier Bonus%% | %#dcc6c2%Progress (Numerical)%% | %#dcc6c2%Progress Bar%%
 ------ | :----: | :----: | :----:
 Training for Attribute: Artifice | Tier **ɪɪɪ** | 1/3 | ▮▯▯
 Training for Attribute: Foraging | Tier **ɪɪɪ** | 1/3 | ▮▯▯
@@ -109,7 +109,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 #### ->Inventory (4 slots)<-
 *Items Espurr is carrying with them in their Leaf Bag.*
-Item Name | Description
+%#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
@@ -122,7 +122,7 @@ Item Name | Description
 
 ##### Storage (2 slots)
 *Extra inventory slots separate from Espurr's normal inventory.*
-Item Name | Description
+%#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
 1. Colbur Berry | None
 2. Scrappy Powder | Changes someone's Ability to Scrappy when used.
@@ -130,7 +130,7 @@ Item Name | Description
 ***
 
 ###### RP/Quest Storage (∞ slots)
-Type | Item Name | Description
+%#dcc6c2%Type%% | %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | ------ | :----: 
 Accessory | Leaf Bag | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
 Accessory | Leaf Pouch | A small pouch weaved with grass tufts and leaves, made to contain small objects and grains.
@@ -141,7 +141,7 @@ Key Item | None | None
 
 #### ->Old Moves (∞ slots)<-
 *Espurr is not the strongest Pokemon, but that doesn't mean they keep Moves without a use.*
-Name | Base Power | Action Points | Accuracy | Type | Property | Description
+%#dcc6c2%Name%% | %#dcc6c2%Base Power%% | %#dcc6c2%Action Points%% | %#dcc6c2%Accuracy%% | %#dcc6c2%Type%% | %#dcc6c2%Property%% |%#dcc6c2% Description%%
 --- | -- | - | - | - | - | ---------
 Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
 None | - | - | - | - | - | This Move does not exist yet.

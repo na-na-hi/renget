@@ -25,7 +25,7 @@ Bobby Samson HN "Sunlight Man": https://archive.4plebs.org/tg/post/88190591
 Sora Tanaka HN "The area master hero, Orbit": https://archive.4plebs.org/tg/post/88191735
 Kaylee Suzuki HN "Flying Force": https://archive.4plebs.org/tg/post/88438219
 Shinkan Sen HN "Crazy Train": https://archive.4plebs.org/tg/post/88194200
-Hifumi Takeda HN "Warp Blade Hero: Challenger": https://archive.4plebs.org/tg/post/88196397 (further information at https://controlc.com/d631ca64, https://controlc.com/df84e4c3, https://controlc.com/805e7f25)
+Hifumi Takeda HN "Warp Blade Hero: Challenger": https://archive.4plebs.org/tg/post/88196397 (further information at https://controlc.com/d631ca64, https://controlc.com/df84e4c3, https://controlc.com/805e7f25, https://rentry.org/74x6fhi6 (controlc broke :( ))
 Minerva Kim HN "Spark": https://archive.4plebs.org/tg/post/88826766
 Hailey Chang HN "Recoil": https://archive.4plebs.org/tg/post/88826770 (further information at https://controlc.com/ff25b455)
 Faith Kang HN "Drone": https://archive.4plebs.org/tg/post/88826774
@@ -768,7 +768,7 @@ First impressions are everything (Karaburan, Popsy, Karuga Ito): https://pastebi
 A Dragon's Grudge (Seiryu, Karma, Karaburan): https://rentry.org/od678
 Colosseum of Wonders: Sunscorch vs Eruptor (Lady Astoria Belmont): https://controlc.com/bf51ce0f
 Rika's Dream (Rika Eichi, Popsy): https://pastebin.com/ZeiVbDDt
-Ippon vs Mauler 1: Scramble under the ring (Ippon, Mauler): https://controlc.com/2584b19e
+Ippon vs Mauler 1: Scramble under the ring (Ippon, Mauler): https://controlc.com/2584b19e, https://rentry.org/9xekdt6d
 Grün Rot (Weiss Schwarz, Karma, Seiryu): https://rentry.org/yrsnm
 Execution (Hijack, Reaper): https://controlc.com/05176ceb5
 Prospective Students, Enter! (Sunlight Man, most Shiketsu builds): https://pastebin.com/CitPaGbq
@@ -779,7 +779,7 @@ Fluegel's Day Off (Fluegel): https://rentry.org/ee982
 Average Day at Shiketsu High (Shitpost): https://pastebin.com/fgHBJTUC
 Strategizing (Spark, Recoil, Drone, Radius, Arena): https://controlc.com/61e4234e
 Kyoto Pharaoh (Seiryu, Karma): https://rentry.co/gi8wn
-Hifumi x Hailey: Chapter 1 - Suspension Bridge Effect (Challenger, Recoil, other Spherethirst builds, Sunlight Man, Flying Force): https://controlc.com/70516dc5
+Hifumi x Hailey: Chapter 1 - Suspension Bridge Effect (Challenger, Recoil, other Spherethirst builds, Sunlight Man, Flying Force): https://controlc.com/70516dc5, https://rentry.org/o8ad8g4r
 Rivalry's Beginning (Flying Force, Recoil): https://pastebin.com/5T2dCFAC
 Owl Season (Tatarimokke, Recino, Popsy, Karuga Ito): https://rentry.org/Owl-Season
 Street Brawl (Aspara, Rosethorn): https://controlc.com/4aab814d
@@ -787,8 +787,8 @@ Inigo's First Date (Ryu-kishi): https://controlc.com/ce9e5062
 Patrol Hours (Smokin' Sexy): https://rentry.co/nq7rz
 A Tall Man and a Purple Man Walk into a Bar (Tall Man, Purple Man): https://controlc.com/ea3df4b8
 Afternoon Rush (Magnum Shrimp, Walpurgis, Yako, Recino):https://pastebin.com/wZASr5wG
-Hifumi x Hailey: Chapter 2 - Kyoto on a budget (Hifumi and Hailey) (Challenger, Recoil): https://controlc.com/cf20ac31
-Hifumi x Hailey: bonus chapter 2.5 - Braidin' and talkin' (Hifumi and Hailey + Ashleigh) (Challenger, Recoil, Blackout): https://controlc.com/8c5adc2d
+Hifumi x Hailey: Chapter 2 - Kyoto on a budget (Hifumi and Hailey) (Challenger, Recoil): https://controlc.com/cf20ac31, https://rentry.org/2vizaszq
+Hifumi x Hailey: bonus chapter 2.5 - Braidin' and talkin' (Hifumi and Hailey + Ashleigh) (Challenger, Recoil, Blackout): https://controlc.com/8c5adc2d, https://rentry.org/k22fpigc
 Gossip 2 (Spark, Recoil, Drone, Radius, Arena): https://controlc.com/c9e14b72
 An All-Out Multi-target Attack! Part 1 (Ryu-kishi, Flying Force, Yako, Capture Cloth, Archangel): https://controlc.com/e4be282e
 FIGHT DUB CLUB, Prologue (Hijack, Majestic, Class 1-D): https://rentry.co/86eu4
@@ -799,7 +799,7 @@ Vexing Visitor (Ryu-kishi): https://controlc.com/554951c8
 You have to name the writefag (Aspara, Archangel, Overdose): https://controlc.com/7913a563
 Something Different (Capture Cloth, Noctiluca, Ryu-kishi): https://rentry.org/n48936
 Drinks for Me and for Thee (Smokin' Sexy, Popsy): https://rentry.co/kh9ff 
-Ippon vs Mauler 2: Top-Rope Finisher (Ippon, Mauler, King Billy, Weiss Schwarz): https://controlc.com/768c0cfd
+Ippon vs Mauler 2: Top-Rope Finisher (Ippon, Mauler, King Billy, Weiss Schwarz): https://controlc.com/768c0cfd, https://rentry.org/4yd6z6z3
 A Day At The Gym (Flying Force, Sunlight Man, Challenger, Crazy Train, Hydra, Aspara): https://rentry.org/d84ky
 An All-Out Multi-Target Attack! Part II (Ryu-kishi, Blackout, Drone, Arena, Radius, Spark, Recoil, Sunlight Man, Challenger, Archangel): https://controlc.com/5809ffde
 (Popsy): https://rentry.org/sigzs
@@ -811,8 +811,8 @@ The Ghost of Shiketsu (Goldorado, Sunlight Man, Blackout): https://controlc.com/
 Unsolicited Feedback (Mirror Devil, Archangel): https://pastebin.com/HKdXmDH1
 Rough Start (Capture Cloth, Yamata, Blackout, Flying Force, Spherethirst's builds): https://rentry.org/7xsg6
 A Dragon's Mirror (Mirror Devil, Ryu-kishi): https://rentry.co/8b649
-Hifumi x Hailey: Chapter 3 - Family Dinner (Challenger, Recoil, Sunlight Man): https://controlc.com/113a7961
-Hifumi x Hailey: bonus chapter 3.5 - Mushin (Challenger, Mahoudeva, Recoil, Blackout): https://controlc.com/fbe6f2480
+Hifumi x Hailey: Chapter 3 - Family Dinner (Challenger, Recoil, Sunlight Man): https://controlc.com/113a7961, https://rentry.org/q533kqd7
+Hifumi x Hailey: bonus chapter 3.5 - Mushin (Challenger, Mahoudeva, Recoil, Blackout): https://controlc.com/fbe6f2480, https://rentry.org/o8wqrnty
 FIGHT DUB CLUB, Match 2 (Class 1-D, Majestic): https://rentry.org/t3exh
 Cool It, Marumaru (Class 1-D, Majestic): https://rentry.org/o7x9u 
 The Boys (Ryu-kishi, Sunlight Man, Challenger): https://rentry.org/b68ks
@@ -844,7 +844,7 @@ All The Way Around (Karma, Seiryu, Honoken): https://rentry.org/o3389
 In Brightest Day (Ryu-Kishi, Marrow, Mirror Devil, Maru, Blackout, Yamata, Yako): https://rentry.org/mkcn9v
 Reluctant Heist (Karma): https://pastebin.com/DnDbXGyx
 Rental (Rebecca Weber, Doctor, Majestic, Aquarius, Noctiluca): https://controlc.com/1d7ccba8
-Ippon vs Mauler 3: Tag-Team Tiebreaker (Ippon, Mauler, Principal, Rosethorn, Smokin' Sexy): https://controlc.com/3fdbb817
+Ippon vs Mauler 3: Tag-Team Tiebreaker (Ippon, Mauler, Principal, Rosethorn, Smokin' Sexy): https://controlc.com/3fdbb817, https://rentry.org/dgqpuiom
 Rental 2 (Rebecca Weber, Doctor, Noctiluca, Yamata): https://controlc.com/7cf7fc41
 An Arcade Lesson (Mirror Devil, Capture Cloth, Flying Force, Bakeneneko): https://rentry.org/of3us
 Birds of Feather (Last Rite, Archangel, Ryu-kishi, Noctiluca): https://rentry.org/ayox6
@@ -867,7 +867,7 @@ The Beach Episode: Part 2 (Last Rite, Archangel, Class 1-D, Popsy, Broad Dayligh
 Shopping (Spark, Recoil, Drone, Radius, Arena, Challenger): https://controlc.com/3f221a0e
 Spring Cleaning (Desolator, Tether): https://rentry.org/n6q4u
 Friends 2 (Capture Cloth, Blackout): https://rentry.org/vxzemt
-Hifumi x Hailey: Chapter 4 - Reaching Out (Challenger, Recoil, Capture Cloth): https://controlc.com/c5aed87a
+Hifumi x Hailey: Chapter 4 - Reaching Out (Challenger, Recoil, Capture Cloth): https://controlc.com/c5aed87a, https://rentry.org/sbgyuan5
 Prison Break Osaka (Pax, Mercy, Nightmare, Racer V, Mauler): https://controlc.com/3ed166d2
 Flight of the Sahugins (The 5, Ryu-kishi, Marrow): https://controlc.com/bd11136a
 Doki Doki Mystery Team (Ryu-kishi, Maru, Marrow, Class-1D, Majestic): https://rentry.org/qyr6n
@@ -1126,7 +1126,7 @@ First Test (Rosethorn): https://pastebin.com/b9iNtQAm
 Imai's First Test (Mahoudeva, Rosethorn, Yako): https://controlc.com/c8e10670
 First Test - Chihiro's Answer (Yako): https://controlc.com/51dacae3
 Sen's Test (Crazy Train): https://controlc.com/dfc4a600
-First Test (Challenger): https://controlc.com/8309067d
+First Test (Challenger): https://controlc.com/8309067d, https://rentry.org/vmsvq5nv
 Could Have Been Worse (Kaylee's Exam) (Flying Force): https://pastebin.com/r4rrtVKW
 First Test - Yui (Capture Cloth): https://rentry.org/7ofsh
 Saro's probably passes the test (Orbit): https://pastebin.com/5ngVhhZe

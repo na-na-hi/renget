@@ -7,7 +7,7 @@ Korean anime-styled battle royale with moba controls/skills. Currently 8 squads 
 https://store.steampowered.com/app/1049590/Eternal_Return/
 
 \>News
-https://playeternalreturn.com/posts/news/1673 (1.13 Patch Notes)
+https://playeternalreturn.com/posts/news/1698 (1.14 Patch Notes)
 https://playeternalreturn.com/posts/news/1599 (Season 2 Cadet Skin - Isol)
 
 \>Eternal Return 1.0 Animation Intro (Full Ver.)
@@ -19,11 +19,11 @@ https://www.youtube.com/watch?v=tM3Np3GKJq0
 \>Lumiapedia - Tsubame
 https://www.youtube.com/watch?v=MGkKkqv0B30
 
+\> Sweet Valentine Tazia 
+https://www.youtube.com/watch?v=epgCrDieJqI
+
 \>Tropical Getaway Celine
 https://www.youtube.com/watch?v=ki87rZ7P-gE
-
-\>Wild West Isaac
-https://www.youtube.com/watch?v=raIVuuIukKU
 
 \>2023 Season 2: Battle Maids
 https://www.youtube.com/watch?v=Z8MUGGdmGr4
@@ -50,6 +50,7 @@ https://playeternalreturn.com/fankit
 
 \>Events
 https://playeternalreturn.com/posts/news/1679 (1/18 - 2/14)
+https://playeternalreturn.com/posts/news/1705 (2/1 - 2/14) 
 
 \>Codes
 https://gall.dcinside.com/mgallery/board/view/?id=bser&no=5044564&page=1

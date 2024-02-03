@@ -12,6 +12,7 @@ Optimizations: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Opti
 https://civitai.com/models/257749/horsefucker-diffusion-v6-xl
 https://rentry.org/5exa3
 https://huggingface.co/cagliostrolab/animagine-xl-3.0
+https://rentry.org/ponyxl_loras_n_stuff
 https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine)
 
 >PAID
@@ -26,7 +27,6 @@ Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
 Booru: https://aibooru.online
 4chanX Catbox / NAI prompt userscript: https://rentry.org/hdgcb
-Thread-made loras: https://rentry.org/ponyxl_loras_n_stuff
 
 OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif
 

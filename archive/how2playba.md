@@ -612,6 +612,9 @@ Every episode grants 60 gems.
 Ordered by release date:
 Volume 1 > V2C1 > V3C1-3 > V4C1 > V3C4 > V2C2 > Volume F > V4C2 > V5C1
 
+If you want every single context available, it's:
+Volume 1 > V2C1 > Hina's momotalk (lol) > V3C1-2 > Trinity Summer 1 > V3C3 > V4C1 > V3C4 > V2C2 > Izuna event > An Unconcealed Heart (Michiru event) > Cherino event > After School Sweets club event > Abydos summer > Hyakki summer > Volume F > V4C2 > V5C1
+
 You can also read it by volume. 
 
 Volume 1 has 2 chapters

@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-02-02==
+# /aicg/ chronicles, up to ==2024-02-03==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1100,6 +1100,11 @@ When | Where | What
 2024-02-01|[98776017](https://desuarchive.org/g/thread/98775276#98776017)| Bard's integrated imagegen demoed, appears to be very cucked...
 2024-02-01|[98777919](https://desuarchive.org/g/thread/98775276#98777919)| ... one more screenshot to prove the point
 2024-02-02|[98784488](https://desuarchive.org/g/thread/98781230#98784488)| sakura\.fm drama due to the filter, who could have known it's the source of all issues
+2024-02-03|[98803717](https://desuarchive.org/g/thread/98802147#98803717)| Gemini Ultra 02.07 release claimed by another completely worthless AI leaker
+2024-02-03|[12033312](https://discord.com/channels/1079567503900033154/1079567503900033157/1203331256524472370)| Mikugg releases emotion image generation tool for subscribers, adds autocomplete suggestions
+2024-02-03|[98804473](https://desuarchive.org/g/thread/98802147#98804473)| personal recommendations service by anons to anons is reaching new heights
+2024-02-03|[98804574](https://desuarchive.org/g/thread/98802147#98804574)| CharacterHub is down for the planned server migration, some minor bugs appear as a result
+2024-02-03|[98811107](https://desuarchive.org/g/thread/98810771#98811107)| Gemini Ultra 02.07 release confirmed by a more substantial leak
 -|-|-
 
 [](you have found my secret stash of nothing!)

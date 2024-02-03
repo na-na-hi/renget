@@ -1,0 +1,14 @@
+Hifumi was sitting near a window (he begged their teacher for an hour before class to get one of those, that's where the protagonists always sit in shows after all), spinning the hat of his new uniform on his index finger and looking outside on the building that housed the combat arena. He couldn't wait to get there. There is so much that he can learn here at this school. This is THE place to go for one who wants to become the coolest hero there is. I mean, UA is pretty cool too, but it was too far and he couldn't afford going there so he didn't even apply. Shiketsu ain't behind though, and it was close enough to his home that he can commute. He's gonna repay Fuji-nee one day for all the support she gives him. Maybe record a single with her company. Rap from the number one hero gotta be popular.
+
+-"Remember, you are striving to become HEROES! I believe in you all, so prove me right."
+Those words broke through Hifumi's thoughts and he perked up. Great! Finally a chance to show off what he can do. He was about to raise his hand to ask whether they will be hitting the gym or the simulation zone, but the boy in front of him passed him a test sheet and told him to pass it further.
+
+-"Well, that's disappointing…"
+
+-"And remember, if I catch you peeking at someone else's paper, it'll be a lot harder for you to write your answers within the time limit. So behave."
+
+He considered those words for a moment. Was it a challenge? Like a hard-mode in a game? Let yourself be caught to make the test harder so the score is more impressive? If it was in the combat zone he might have done that, but it was a written test. He wasn't very good at those. He barely passed the one during the admittance exams despite studying for it like mad for months before. He decided to just get on with it normally.
+
+Question after question he tried his best to answer them. But wait, why are they so similar? Is it like when the actors shoot a scene multiple times so the director can choose one he likes the most? Well, can't hurt to try. He started answering questions slightly differently, each time describing the actions he'd take in detail and framing them like a scene from a movie of a different genre. One was a western, one a gangster movie, one a classic action flick. He even took inspiration from a vaguely remembered movie about some demon lord fighting angels that tried to invade his school. Each answer also opened with a different catchphrase. He used the full time given, but managed to sneak in one line at the end after all the questions and answers:
+
+"Teach, which scene did you like the most? And do you think 'I'll be back' is copyrighted?"

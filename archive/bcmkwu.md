@@ -1,3 +1,13 @@
+>RU soldier PARRIES fucking drone
+https://files.catbox.moe/ugd05w.MP4
+>Uragan ASMR
+https://files.catbox.moe/h1ovle.mp4
+>More BTFO AFU armor
+https://files.catbox.moe/0gp3v7.mp4
+>Spawn killing
+https://files.catbox.moe/udrcbv.mp4
+>Nightstalker drone strikes
+https://files.catbox.moe/xd3obh.mp4
 >Russian soldier defeats FPV with stick
 https://files.catbox.moe/flt03w.mp4
 >AFU operators of the Lelek UAV get REKT
