@@ -148,12 +148,6 @@ https://pastebin.com/We3EU4MH
  Active Stories: (Updated in the last 6 months.)
 ===============================
 
-Bimbo Edens Zero - Rebecca's Sex Bomb Channel (Eden Zero) by snakebit1995
-https://archiveofourown.org/works/34035793/chapters/84659311/
-
-Fallout-Vegas Live (Fallout; New Vegas) by Photo Anon
-https://rentry.org/Fallout-VegasLive
-
 Sexy Tail (Fairy Tale) by snakebit1995
 https://archiveofourown.org/works/9982052/chapters/22296422/
 
@@ -165,6 +159,9 @@ https://archiveofourown.org/works/15745254/chapters/36612702/
 
 The Bimbo Pirates (One Piece) by snakebit1995
 https://archiveofourown.org/works/16286330/chapters/38088284/
+
+Fate of Beck: Intelligence Vampire (Original Work) by SAmaster
+https://www.deviantart.com/samaster/gallery/90336668/intelligence-vampire/
 
 P5B (Persona 5) by Anonymous
 https://archiveofourown.org/works/36541261/
@@ -178,8 +175,19 @@ https://archiveofourown.org/works/18054653/chapters/42669134/
 Pokébim Adventures (Pokémon) by Anonymous
 https://archiveofourown.org/works/40239663/chapters/100788894/
 
+Pokebim Mystery Dungeon (Pokébim) by BlazzterBlaster
+https://docs.google.com/document/d/10FvVGKb12BRpl54sVb1MzKIDVCWpxlmitdALfXEgG6s/edit (Ch0)
+https://docs.google.com/document/d/12oEw7TzuWaD4jWifPNLDuxFjEA1p7rLsGH2d38_3fww/edit (Ch1) 
+
 Bimbo RWBY (RWBY) by snakebit1995
 https://archiveofourown.org/works/14601942/chapters/33748335/
+
+Rise of Catfish Co. (Splatoon) by BlazzterBlaster
+https://docs.google.com/document/d/12627GH3OfkD8WM-WbXwIsJUxQSsqjwnuXOrsZz4i5X8/edit (Ch0) 
+https://docs.google.com/document/d/12eMOtJuTiAXwqARuqMENYUvurEzMrY0TPILE7deLxj8/edit (Ch1)
+
+Total Bimbo Island (Total Drama) by snakebit1995
+https://archiveofourown.org/works/41165871/chapters/103195359/
 
 World of Bimbocraft (World Of Warcraft) by snakebit1995
 https://archiveofourown.org/works/43377024/
@@ -196,6 +204,12 @@ https://archiveofourown.org/works/28189092/chapters/69074628/
 
 Dr Stone - Amazon Bimbo Empire (Dr. STONE) by snakebit1995
 https://archiveofourown.org/works/29091651/chapters/71412309/
+
+Bimbo Edens Zero - Rebecca's Sex Bomb Channel (Eden Zero) by snakebit1995
+https://archiveofourown.org/works/34035793/chapters/84659311/
+
+Fallout-Vegas Live (Fallout; New Vegas) by Photo Anon
+https://rentry.org/Fallout-VegasLive
 
 Bimbo Three Houses (Fire Emblem Three Houses) by snakebit1995
 https://archiveofourown.org/works/20699402/chapters/49168553/
@@ -214,9 +228,6 @@ https://archiveofourown.org/works/31691696/chapters/78434510/
 
 Legend of Zelda: Bimbofication (The Legend of Zelda) by snakebit1995
 https://archiveofourown.org/works/21768364/chapters/51937903/
-
-Total Bimbo Island (Total Drama) by snakebit1995
-https://archiveofourown.org/works/41165871/chapters/103195359/
 
 =====================================================================
  Abandoned Stories (No updates for 2 or more years or author has stated that they are not continuing it.)

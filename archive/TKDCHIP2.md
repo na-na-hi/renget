@@ -40,7 +40,8 @@ https://files.catbox.moe/d9kqz4.mp4 New 2/1/24
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+>Al-Quds Brigades targeted IOF forces entrenched behind dirt berms, next to a watchtower, using machine guns, east of Jabalia, in the northern Gaza Strip.
+https://files.catbox.moe/qgdkqb.mp4 New  2/2/24
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,3 +71,15 @@ https://youtu.be/_nOn7dBj-0I New  2/1/24
 https://files.catbox.moe/nl05ej.mp4 New 2/1/24
 >"There is more infrastructure that needs to be destroyed, and there will be more that gets to be destroyed," Congressman Brian Mast replied to activists when confronted about his unwavering support for Israel's war in Gaza.
 https://files.catbox.moe/bnstye.mp4 New 2/1/24
+>Kike hospital kvetching drama 
+https://files.catbox.moe/zsuc3e.MP4 New  2/2/24
+>Press coverage: “Occupation aircraft launch raids on Aitaroun, southern #Lebanon.”
+https://files.catbox.moe/3lv01d.mp4 New  2/2/24
+>Footage shows moments when an interceptor missile fell on a car in Rishon Lezion (Tel Aviv), during the latest rocket barrage by Al-Qassam, a couple days ago.
+https://files.catbox.moe/cr7ixa.mp4 New  2/2/24
+>Mujahideen Brigades published scenes of striking IOF forces’ areas, west of Gaza with short-range rockets.
+https://files.catbox.moe/y9njsg.mp4 New  2/2/24
+>A 7 minutes video of the names of Gaza children killed by Israel. 7 minutes! Their names, their fathers names, their family names and their age. This is the most documented genocide in our lifetime. They were not “collateral damage”. They were the target
+https://files.catbox.moe/h8kcmw.mp4 New  2/2/4
+>NEW: PUTIN: "If we don't protect our people and our country they would pat us on the head and give us rotten potatoes for humanitarian aid."
+https://files.catbox.moe/njy5vx.mp4  2/2/24 New 2/2/24

@@ -22,7 +22,7 @@ Whether they're written well or written terribly, it won't matter because a bad 
 
 [Here](https://rentry.org/nai-presets)'s a list of presets from SillyTavern (although most of them are from the NovelAI site/discord, anyway) if you're using Agnai
 
-Personally, I recommend Phoenix for writing style and independence.
+Personally, I recommend Phoenix for writing style and independence, although Carefree (the default) is probably the best to start with.
 
 ***
 

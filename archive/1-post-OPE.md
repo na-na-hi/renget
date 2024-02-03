@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 236th time, what is Ope?!
+For the 237th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -16,12 +16,13 @@ Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololi
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Streams
-▼ Upcoming streams
-Next member stream (zatsudan & ASMR practice, Fri 02/02 12PM CT): https://www.youtube.com/watch?v=NI_GH8V4UoE
-Next public stream: Kuukiyomi (Sat 02/03 7PM CT)
-▼ Last appearance (FWMC birthday countdown)
+Next stream (Kuukiyomi, Sat 02/03 7PM CT)
+https://www.youtube.com/watch?v=YR6IV_OdWAg
+Previous member stream (zatsudan & ASMR practice)
+https://www.youtube.com/watch?v=NI_GH8V4UoE
+Previous appearance (FWMC birthday countdown)
 https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
-▼ Last stream (Stardew Valley)
+Last public stream (Stardew Valley)
 https://www.youtube.com/watch?v=0m-QTagWa3I
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
@@ -44,7 +45,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>67993515
+Previous thread: >>68068941
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
@@ -56,7 +57,7 @@ Crunchyroll Interviews
 https://www.crunchyroll.com/news/interviews/2023/8/2/nerissa-ravencroft-hololive-advent-music-interview
 https://www.crunchyroll.com/news/guides/2023/8/2/nerissa-ravencroft-top-anime-hololive-advent
 
-\>Tools / Creation by the /ope/ users
+\>Tools / Creations by the /ope/ users
 /ope/'s library
 https://rentry.org/joint_operation_center
 Collection of Nerissa's Sounds
@@ -65,7 +66,7 @@ List of recommended streams
 https://rentry.org/ope_curated_streams_list01
 Information regarding membership
 https://rentry.org/ope_list_of_members_streams01
-Appearance on other channels & mentions
+Appearances on other channels & mentions
 https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools

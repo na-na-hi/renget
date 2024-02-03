@@ -51,9 +51,3 @@ Nyanners Longest Survivor - Day 3 Vods| [Youtube](https://www.youtube.com/playli
 
 #Nyanners Karaoke Clip Archive: 
 ##->[Mega - (.mp3)](https://mega.nz/folder/CCxyTJyJ#AL1eBZK8PhxukRYQRSbI2g) - [Ms OneDrive - (.mp3 + .mp4)](https://1drv.ms/f/s!Ali7SWBfsKO6ix53k-h2_6kBRWBK?e=4Kc1PL)<-
-
----
-
-#Ways to contact me, if needed:
-
-You can find me in the /vt/ IRC: https://rentry.org/IRC_Stuff under the nick "Nyarchivist" or per mail at “hansderhas6473(at)gmail.com” This is alt  email account that i check regularly regarding this stuff.  While i do use discord, i dont want to put my main channel ID in here and using an alt is too much effort to remember checking it.

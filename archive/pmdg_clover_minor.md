@@ -16,4 +16,4 @@ Mr. Goldbird | M | Linoone (Galarian) | [CEO of Pelipper Mail Company](https://r
 BLADE the COOLTORB | M | Voltorb | [Edgy Meme](https://rentry.org/pmdg_clover_minor_personalities#blade-the-cooltorb)
 Smeargle | M | Smeargle | [Former Outlaw, Heart Shop Proprietor](https://rentry.org/pmdg_clover_minor_personalities#former-outlaw-smeargle)
 Morgan | F | Buneary | [Wigglytuff Guild Member](https://rentry.org/pmdg_clover_minor_personalities#wigglytuff-apprentice-morgan)
-Team Dynamis (Turquoise "Turk" & Charcadet (†) & Mudkip (†) Sprigatito (?)) | M/M/M/F | Lucario & Charcadet & Mudkip & Sprigatito | [Failed Saviors](https://rentry.org/pmdg_clover_minor_personalities#exploration-team-dynamis)
+Team Dynamis (Charcadet (†) & Mudkip (†) Sprigatito (?)) | M/M/F | Charcadet & Mudkip & Sprigatito | [Failed Saviors](https://rentry.org/pmdg_clover_minor_personalities#exploration-team-dynamis)

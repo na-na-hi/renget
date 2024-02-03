@@ -13,6 +13,9 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Drakengard 3 (+DLC, RPCS3) [Gnarly Repacks] [From 8 GB] - REUPLOAD
+https://bin.0xfc.de/?ccf5538f299d07ba#2HCUD69pdGXZyafjTxTs2PjPV2uPNgx6PX91BEuvoGaS
+
 Dragon Ball Raging Blast Collection (+RPCS3) [Gnarly Repacks] [5.89 GB]
 https://bin.0xfc.de/?ab4b3c87bd05029d#5hwF2LKG1J2AbuAi1PCrBb8oTWpHRcwrrpYwFEMo138p
 ------------------------------------------------------------------------------------------------------------------------------------------

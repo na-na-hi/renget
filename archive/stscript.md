@@ -700,7 +700,7 @@ TODO
 TODO: mention that /genraw doesn't use streaming?
 TODO: discuss making scripted cards end-user friendly and easy to set up
 
-__HTML5 minigames__
+__HTML5 minigames and hacking STscript__
 Remember how popups can be used to render any kind of HTML code? You can do that in the conversation too. Try sending the following message: `<h2>asd</h2>` or `<button>Click</button>`. First you'll notice your message getting printed as a heading, and then as a legitimate button you can click. It won't do anything, of course, but this gives us some options.
 
 The most immediate of which is our ability to format text. But that's not all.
@@ -802,9 +802,37 @@ If you update the JS code with this:
 	//some state variable
 	let counter = {{getvar::myVar}};
 ```
-Then the value of the STScript variable stored in `myVar` will be the counter's initial value. Note that for string values you will need to put quotes around it, just like good ol' PHP. If you want to persist your data in JS, you can use `localStorage` or whatever else. I haven't checked if you could do calls to external APIs, I suspect some CORS shenanigans to stop you, but you may also be able to communicate with some remote server. ...SillyTavern MMO when?
+Then the value of the STScript variable stored in `myVar` will be the counter's initial value. Note that for string values you will need to put quotes around it, just like good ol' PHP. If you want to persist your data in JS, you can use `localStorage` or whatever else. An alternative way to access STscript variables is if you do:
+```
+const { variables } = await import('./script.js')
+	  .then(module => {
+	    return module.chat_metadata;
+	  })
+	  .catch(console.error);
 
-And if you want to use JS just for calculation, you can dispatch the `onclick` event of the ok button and automatically close the popup. It'll probably flash briefly, but that's the price for essentially hacking SillyTavern. You can even chain `/run` calling different JS functions if you "store them" in QuickReply functions that show different popups with different JS code in them.
+	console.log(variables);
+```
+This will require your `setTimeout` or IIFE callback to be `async`, and honestly I'm not sure if STScript will properly be able to keep up with it if you manipulate variables this way. But only reading them should be fine. You can access much more than just variables by importing modules this way, but it's way too hacky and won't be discussed in this guide. Although for shits and giggles I want to say that if you wrap some object variable in a JS Proxy and add a side effect to its getter method to call a JS function... You would be able to run JS code from anywhere in STscript by using the `getvar` macro. Theoretically anyway. I can't not mention another thing which is importing in the `./scripts/slash-commands.js` module, which gives you access to the `registerSlashCommand` function, that should maybe allow us to literally add our own commands to STscript? I will probably update the guide once I look into that.
+
+!~red; Important update here! ~!
+Yes, you can. It will even show up in the tooltip when you start to type the command into the conversation input field.
+```
+registerSlashCommand(
+	"debug",
+	(args, value) => {
+		console.table(args);
+		console.log(value);
+	},
+	[],
+	"logs to dev console"
+);
+```
+I will probably have to make a new guide just about this.
+!~red; update end ~!
+
+I also haven't checked if you could do calls to external APIs, I suspect some CORS shenanigans to stop you, but you may also be able to communicate with some remote server. ...SillyTavern MMO when?
+
+If you want to use JS just for calculation, you can dispatch the `onclick` event of the ok button and automatically close the popup. It'll probably flash briefly, but that's the price for essentially hacking SillyTavern. You can even chain `/run` calling different JS functions if you "store them" in QuickReply functions that show different popups with different JS code in them.
 
 And there you have it! A mostly safe way to pass data back and forth between JS and STscript. I imagine this would be pretty cool to integrate with my event listener idea from earlier, but on its own it should already be pretty handy.
 
@@ -812,3 +840,7 @@ I should also mention that while this example only deals with the popup, you can
 
 __Conclusion__
 TODO
+
+__Recommendations, Quality of life stuff__
+TODO: STscript utils
+TODO: PList injection

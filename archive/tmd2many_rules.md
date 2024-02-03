@@ -427,6 +427,7 @@ Depending on external factors, the damage of these Moves, like all Moves, may be
  - **Critical Hits** *cannot occur naturally* without the use of Laser Focus or Items which guarantee a Crit.
  - Multi-Hit Moves, in spite of their name, are treated as **1 Attack** mechanically.
  - When Burned, only **1** damage die can be used, *regardless* of Offensive Stats. However, Tamper Scarf functions as normal.
+   - The same goes for if the User does not possess enough AP to use the Move effectively. 
  - Opponent Evasion increases and User Accuracy decreases all decrease the final damage number by 1 for each Stage. 
 
 ##### Double-Hit and Triple-Hit Moves

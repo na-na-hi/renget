@@ -357,7 +357,7 @@ f) random idea: XYZ
 g) rush and don't think idea: XYZ
 
 5) “writing plan”
-a) take three most prominent ideas from and synergize them into plan for story: XYZ
+a) take three most prominent ideas and synergize them into plan for story: XYZ
 b) important writing restrictions: XYZ
 c) important physical descriptions and backgrounds: XYZ
 
