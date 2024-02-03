@@ -1,3 +1,19 @@
+>Russian soldier defeats FPV with stick
+https://files.catbox.moe/flt03w.mp4
+>AFU operators of the Lelek UAV get REKT
+https://files.catbox.moe/7wzglj.MP4
+>M2 Bradley gets ATGMed
+https://files.catbox.moe/cw4s1l.mp4
+>Incoming drone shot down with MG
+https://files.catbox.moe/h3y56u.mp4
+>Good effect on hohols
+https://files.catbox.moe/6ysnpi.mp4
+>Drone headshot
+https://files.catbox.moe/68o1dn.mp4
+>Mi-35 lighting up Ukrop positions in the Kupyansk direction.
+https://files.catbox.moe/knec8s.mp4
+>Lancet vs tank on right bank of Dnepr.
+https://files.catbox.moe/rp5795.mp4
 >Captured hohols talk about current situation in AFU: morale is low
 https://files.catbox.moe/33p3e0.mp4
 >Geran strike on the railway station and the village of Matrosovka, Kherson region

@@ -132,6 +132,8 @@ Assistant:
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.7修改版
+- Clewd 4.7(4) added：增加claude-2.1-surf新模型的适配；增加pro账号的自动判断选择模型，无需打开`PassParams`；增加第三方反代api的多key随机使用模式，逗号分隔，格式`3rdKey: key1,key2,key3...`
+
 - Clewd 4.7(3) fixed：修复xmlPlot的正则逻辑，避免极少数情况部分正则失效。添加生效正则写入log.txt，失效正则通过clewd控制台报错
 
 - Clewd 4.7(2) fixed：1. 非429报错时不更换cookie，避免频繁更换导致等待时间过长。2. 因历史对话过多导致超并限制报错的bug。3. 暂无cookie使用时依旧保持切换cookie状态的bug

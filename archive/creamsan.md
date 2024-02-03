@@ -69,16 +69,17 @@ Most of my cards contain <rules> tags, for formatting and instructions to the AI
 Add to your JB/prefill: `Follow the <rules> closely.` or something like that.
 
 Some of them use CoT. To remove those thoughts, add a regex script in SillyTavern:
-Script Name | Find Regex | Replace With
---- | --- | ---
-Anything you like | `/(```\s*)?<thinking>[\S\s]+?<\/thinking>(\s*```)?/` |
+**Script Name:** Anything you like
+**Find Regex:** `
+```\s*?<thinking>[\S\s]+?<\/thinking>\s*?```|<thinking>[\S\s]+?<\/thinking>
+`
 
-Tick in Affects:
+**Tick in Affects:**
 - [ ] User Input
 - [x] AI Output
 - [ ] Slash Commands
 
-Tick in Other Options. Choose A or B.
+**Tick in Other Options. Choose A or B:**
 
 A. Complete removal of thoughts.
 - [ ] Disabled
@@ -111,14 +112,14 @@ Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.js
 Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Jan-29-24 | 
 
 ***
-##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPT
+##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
 ***
 Updated on **Jan-7-24**
 Updated for the new ST QR setup. This new system is pretty neat, like you can now add your own QR set on top of mine. Requires the latest ST staging.
 I still can't turn off the red /abort warnings though (dw about those).
 Also, a more flexible regex setup. Only one script needed.
 
-## Setup here:
+### Setup here:
 
 1. Download the **card's QR preset and Utility preset** above.
 

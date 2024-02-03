@@ -1,5 +1,6 @@
 #/CGL/ Dutch thread
 !!! info Changelog
+    2024/02/03 - Added Nishicon
     2024/01/17 - Expanded TBA/Missing list
 	2023/11/28 - Added long overdue information about comic cons and volunteering at conventions, listed organisers in calendar, removed 2023 calendar, updated the localisation files.
 	2023/11/27 - Added 2024 con list, added segment about for and non-profit conventions.
@@ -26,12 +27,12 @@ This convention calendar primarily focuses on Dutch and foreign events popular w
 #####Q2: April - June
 | **Date** | **Convention** | **Organiser** | **Info** |
 |---|---|---|---|
-| ??? April | [🇳🇱 NishiCon](https://nishicon.nl) | Stichting Nishicon | A small anime convention in Eindhoven. Aiming for an April 2024 date after postponing their 2023 edition. |
 | 6-7 April | [🇧🇪 FACTS](https://facts.be)  | Heroes | A popular commercial geek convention in Ghent. |
 | 13-14 April | [🇳🇱 TomoCon](https://tomocon.nl)  | Stichting Tomo | A smaller cheap anime convention in Oss, especially popular with younger visitors. |
 | 20-21 April | [🇳🇱 Elfia Haarzuilens](https://www.elfia.com/en/haarzuilens/) | Stelf BV | A large popular outdoor fantasy event in Haarzuilens. |
 | 20-21 April | [🇳🇱 Comic Con Holland](https://comicconholland.nl/) | CCGB | A comic con in Den Bosch, organised by the people from Comic Con Brussels. |
 | 11-12 May | [🇧🇪 Comic Con Brussels](https://comicconbrussels.com/en/homepage-en/) | CCGB  | A large commercial geek convention in Brussels. |
+| 26 May | [🇳🇱 NishiCon](https://nishicon.nl) | Stichting Nishicon | A small anime convention in Eindhoven, back after skipping 2023 and leaving Almelo. |
 | 7-9 June | [🇳🇱 Animecon](https://animecon.nl/)  | J-Pop Foundation | The oldest anime convention of the Netherlands, hosted in Rijswijk. Restructured after a big oopsie and started to appeal more to comic con crowds with large halls. |
 | 22-23 June | [🇳🇱 Heroes DCC](https://dutchcomiccon.com/)  | Heroes | The largest commercial geek convention with a focus on dealers. Bootlegs are a common sight. The cosplay competition offers the best prices of all Dutch conventions. |
 | 28-30 June | [🇩🇪 Dokomi DE](https://www.dokomi.de/en)  | AkibaDreams GmbH |A large popular anime convention in Dusseldorf which attracts visitors from all over Europe. |
@@ -60,7 +61,6 @@ This convention calendar primarily focuses on Dutch and foreign events popular w
 - [🇧🇪 Atsusacon](https://www.atsusacon.be): Announced they will skip 2024 due to a lack of staff members and aim to return in 2025.
 - [🇳🇱 El Mundo Fantasia](https://twilight-fantasy-productions.nl/twilight-evenementen/elmundofantasia2023/): Haven't announced a date yet.
 - [🇳🇱 Imaginarium Festival](https://www.imaginarium-festival.nl/): A fantasy event that's currently undergoing a takeover to restructure themselves into a (non-profit) foundation with the goal to expand. Have stated they will return in 2024. [(source)](https://www.imaginarium-festival.nl/nieuws/52).
-- [🇳🇱 NishiCon](https://nishicon.nl): Are aiming for April 2024 after postponing their 2023 edition. No further details are available.
 - [🇳🇱 OpaTullyCon](https://www.youtube.com/watch?v=yqhKGBWvyqM): Exclusive convention for boomers.
 
 ####Other Convention stuff

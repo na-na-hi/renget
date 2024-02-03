@@ -107,7 +107,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 #### List of Stories Sorted by Author
 * Acrab the Krabby
 	* [I Am Acrab, Mang](https://rentry.org/acrab)
-* [Adrian the Umbreon](https://rentry.org/UmbreonAnon)
+* !~ %green%[Adrian the Umbreon](https://rentry.org/UmbreonAnon)%% ~!
 	* [A New Life as an Umbreon](https://rentry.org/AdrianOrigin)
 	* [Adrian's New Team](https://rentry.org/TeamMoonshine)
 	* [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
@@ -127,7 +127,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 	* [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
-* [Booker the Ribombee](https://rentry.org/RibombeeHomepage)
+* !~ %green%[Booker the Ribombee](https://rentry.org/RibombeeHomepage)%% ~!
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
 	* [A Ribombee's Arrival](https://rentry.org/RibombeeArrival)
@@ -160,7 +160,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The Adventures of Team Oracle, Issue #1 (ft. Charm)](https://rentry.org/oracle1)
 * Cheesecake the Wooper
 	* [Etouffee Joins the Team (ft. Cheesecake)](https://rentry.org/Gumbo1)
-* [Chespin](https://rentry.org/4suyn)
+* !~ %green%[Chespin](https://rentry.org/4suyn)%% ~!
 	* [Chespin's Introduction](https://rentry.org/q6gf5)
 	* [A Day in the Field (ft. Chespin)](https://rentry.org/mpieq) 
 	* [Go to Bed (ft. Chespin)](https://rentry.org/mo6os)
