@@ -7,16 +7,16 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The Clover Force
-**Level:** 12 | **Experience to Next Level:** 20/120
+**Level:** 12 | **Experience to Next Level:** 40/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 234₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 484₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 
 ->Normal Rank<-
-->*70/1200 points to Bronze Rank*<-
+->*110/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -80,7 +80,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Blast Seed | Explodes on contact for 10 true damage.
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy.
 4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

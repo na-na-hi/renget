@@ -9,16 +9,16 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Aspiring pinball machine / Demolitions expert in training
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 11 | **Experience to Next Level:** 50/110
+**Level:** 11 | **Experience to Next Level:** 70/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1995₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2273₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Bulletproof | The User is immune to ball and bomb Moves.
 
 ->Normal Rank<-
-->*10/1200 points to Bronze Rank*<-
+->*50/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

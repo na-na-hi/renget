@@ -82,7 +82,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Rawst Berry | Soothes the user. Heals Burn.
+1. ~~Rawst Berry~~ | ~~Soothes the user. Heals Burn.~~
 2. Marble Stone | Does 4 true damage to a target, is lobbed.
 3.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
 4.  Wooden Stick | Does 3 true damage to a target, is thrown directly.

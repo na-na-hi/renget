@@ -54,7 +54,7 @@ ATTG in its entirety can contain:
     `[ Author: ; Title: ; Tags: ; Genre: ]` Is the official order, always sort them in this way for the most effectiveness.
     Remember! To type space after and before brackets: '`[` ` `' '` ` `]`' - It's how the AI officially learned/recognize ATTG.  
 
-Be concrete and try not to be too narrow.  Remember, the ATTG represent your story state. If you get too specific/similar, you will be unintentionally lock your story in that state. Try to write one that have good quality, and long lifetime.
+Be concrete and try not to be too narrow.  Remember, the ATTG represent your story state. If you get too narrow/similar, you will be unintentionally lock your story in that state. Try to write one that have good quality, and long lifetime.
 
 **Examples:**
 

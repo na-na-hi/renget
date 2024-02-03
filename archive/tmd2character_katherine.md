@@ -8,16 +8,16 @@ She can barely remember things from her world, not even her name! But as the dar
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Constructor/Engineer
 **Species:** Bounsweet | **Affiliation:** Team Stylish (Leader)
-**Level:** 11 | **Experience to Next Level:** 35/110
+**Level:** 11 | **Experience to Next Level:** 55/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 515₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 765₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Oblivious | The User is immune to Intimidate, Taunt, and Infatuation.
 
 ->Rookie Rank<-
-->*280/400 points to Normal Rank*<-
+->*320/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

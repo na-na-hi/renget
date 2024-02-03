@@ -8,16 +8,16 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 13 | **Experience to Next Level:** 130/65
+**Level:** 13 | **Experience to Next Level:** 130/85
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 2,475₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2,725₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Hydration | The User is cured of Status Conditions each turn while in Rain.
 
 ->Normal Rank<-
-->*1200/10 points to Bronze Rank*<-
+->*1200/50 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
@@ -69,7 +69,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 3/9 | ▮▮▮▯▯▯▯▯▯
+Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -88,7 +88,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. N/A |  
+1. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 2. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**

@@ -134,6 +134,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Accessory | Leaf Bag | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
 Accessory | Leaf Pouch | A small pouch weaved with grass tufts and leaves, made to contain small objects and grains.
+Material | Rope | Three feet of rope, thick enough to be a useful material.
 Key Item | None | None
 
 ***

@@ -426,18 +426,20 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
+>Shiketsu MHA season 1 ED v0.5
+https://files.catbox.moe/xnsmie.mp4 (embed)
+
 New Writefag:
->Rob's First Day (featuring Velvet Worm & Dust Devil):
-https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing
-+ Rentry Link https://rentry.org/2mgxeq84
+>Sins of the Father (Full Metal, 1-F):
+https://rentry.org/Sins-of-the-Father-MHA
 
 New Art:
->Runt's eating dirt purely for the love of the game
->>91781739
+>Chestburster Runt
+>>91793136
 
-New UMA?
->Kiyoura Shidehara - Icky Hero: Slimenuts
->>91782779
+New Character:
+>Haiiroshi Kinzoku HN Fullmetal
+https://rentry.org/Fullmetal-mha
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -522,6 +524,8 @@ Page 2
 >>91728780
 >Nijimura Mahoko HN Cool Boost
 >>91685518+>>91685973
+>Haiiroshi Kinzoku HN Fullmetal
+https://rentry.org/Fullmetal-mha
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -1048,6 +1052,8 @@ https://rentry.org/drqmuvar
 >Rob's First Day (featuring Velvet Worm & Dust Devil):
 https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing
 + Rentry Link https://rentry.org/2mgxeq84
+>Sins of the Father (Full Metal, 1-F):
+https://rentry.org/Sins-of-the-Father-MHA
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

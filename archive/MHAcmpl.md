@@ -154,6 +154,7 @@ Riku Washizawa HN The Steel Talon Hero: Skycarver: https://archive.4plebs.org/tg
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
 Rob Williams HN: Velvet Worm: https://archive.4plebs.org/tg/post/91728780/
 Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
+Haiiroshi Kinzoku HN Fullmetal: https://rentry.org/Fullmetal-mha
 
 ### Villains
 >Night Parade
@@ -684,6 +685,10 @@ the guy the bro the pal the friend bobby samson himself!: https://desuarchive.or
 cafeteria scene: https://desuarchive.org/tg/post/91771549/
 cafeteria scene V.2: https://desuarchive.org/tg/post/91773041/
 Runt's eating dirt purely for the love of the game: https://desuarchive.org/tg/post/91781739/
+Chestburster Runt: https://desuarchive.org/tg/post/91793136/
+
+###Shiketsu MHA season 1 ED v0.5
+https://files.catbox.moe/xnsmie.mp4
 
 >Mio! Mio! Mio! Mio! Mio! Mio! Mio! Mio!
 Mio Soyjak: https://archive.4plebs.org/tg/post/88844203
@@ -1103,6 +1108,7 @@ Shiketsu Guide to Cafeteria (Various Shiketsu students): https://rentry.org/ms8y
 Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator): https://rentry.org/7yoniwe4
 Survivor's Talk: https://rentry.org/drqmuvar
 Rob's First Day (featuring Velvet Worm & Dust Devil): https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing + Rentry Link https://rentry.org/2mgxeq84
+Sins of the Father (Full Metal, 1-F): https://rentry.org/Sins-of-the-Father-MHA
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

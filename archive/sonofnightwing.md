@@ -5,8 +5,6 @@
 -> Nightwing
 Brother
 Damian
-Dammy
-Dami
 Robin
 Nova
 Nero
@@ -26,7 +24,13 @@ Jesse <-
 
 -> **Only use if close** <-
 
--> Taylor
+-> Dami
+Dammy
+Phantasm
+Haunt
+Ordeal
+Search
+Taylor
 Roman
 Rory
 Heath
