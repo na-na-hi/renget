@@ -8,7 +8,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 ---- | ----
 **Origin:** Human (Anamnesis) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Snivy | **Affiliation:** None
-**Level:** 11 | **Experience to Next Level:** 65/110
+**Level:** 12 | **Experience to Next Level:** 15/120
 **Worn Item:** *N/A* | **Clothing:** *Green Scarf*
 **Pokécoin:** 793₽ | **Glorious Gold:** 0 Bars
 
@@ -20,9 +20,9 @@ Contrary | The User's Stat increases and Stat decreases are swapped.
 ->*110/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
-Stat | Points: 2 (+2) | Modifiers | Combat Effect
+Stat | Points: 3 (+2) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 |  Level 9 (21HP) | 21HP
+Health Points | 1 |  Level 12 (22HP) | 24HP
 Attack | 0 | Attack Training Tier **ɪ** | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Defense Training Tier **ɪ** | +2 Physical Mitigation

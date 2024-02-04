@@ -71,7 +71,7 @@ Likewise, generic low-effort mspaint memes and reactions, infographics, duplicat
 - Part 1 - 2.6 GB - 9,000 images
 - https://pixeldrain.com/u/SwPKGo8M
 - Part 2 - 2.4 GB - 8,500 images
-- < uploading >
+- https://pixeldrain.com/u/Pq12k7Mg
 
 # PDFs
 

@@ -7,7 +7,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 12 | **Experience to Next Level:** 50/120
+**Level:** 12 | **Experience to Next Level:** 83/120
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
 **Pokécoin:** 345₽ (3210₽ in bank) | **Glorious Gold:** 0 Bars
 

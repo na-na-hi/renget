@@ -8,8 +8,8 @@
     The proxy will mostly use donated keys.
 
 !!! note news
-    Refilled with my keys. I can't scrape well enough to feed this many people, so it'll die sooner or later. (Also why I was pushing for key donations.)
-    https://desu.veryscrappy.moe redirects to latest desuproxy, try it out
+    15 emails, will answer later.
+    **I can't scrape well enough to feed this many people, so it'll die sooner or later without donations.**
     Reduced quotas, hardly any keys.
     *Not opposed to running a cloudy if donated keys.*
     Removed donation addresses. Out of keys anyways, so no point.

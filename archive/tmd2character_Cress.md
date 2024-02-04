@@ -7,9 +7,9 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 9 | **Experience to Next Level:** 76/90
+**Level:** 10 | **Experience to Next Level:** 7/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 425₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 401₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

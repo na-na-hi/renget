@@ -107,6 +107,7 @@ https://files.catbox.moe/800fnr.safetensors ishikei you can maybe put source_ani
 https://files.catbox.moe/v95tlf.safetensors murata_range works well on both pony and the autism_pony mix
 https://files.catbox.moe/3aewnu.safetensors rhasta you probably need to use source_anime in the positive prompt and/or nose in the negative prompt to stop the model from deciding to add realistic noses
 https://files.catbox.moe/kh4goe.safetensors laserflip
+https://files.catbox.moe/iq5u22.safetensors ibukichi
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -146,6 +147,7 @@ https://files.catbox.moe/vsky78.safetensors character_shinobu_jackobs example pr
 https://files.catbox.moe/z8j9aq.safetensors character_roll_exe
 https://files.catbox.moe/ifr6a5.safetensors character_mayl_sakurai activation trigger is maylsakurai, can also prompt for the following 'blue vest', 'green sleeves', 'pink skirt', 'black thighhighs', 'hair ornament'
 https://files.catbox.moe/e9ult9.safetensors character_scarlet_ff7 activation trigger is scarlet_\(ff7\), also helps to prompt asymmetrical hair, blonde_hair, red dress if you want her in her typical red dress, looks best with 3d in the prompt due to the limited amount of images out there, once you put 3d in the negatives it starts to look a lot less like her
+https://files.catbox.moe/mxnwc6.safetensors character_fern
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯

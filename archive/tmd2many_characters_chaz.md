@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** Team Ruckus
 **Level:** 12 | **Experience to Next Level:** 10/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1110₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1060₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

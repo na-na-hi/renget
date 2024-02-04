@@ -7,7 +7,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 11 | **Experience to Next Level:** 10/110
+**Level:** 11 | **Experience to Next Level:** 42/110
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 1330₽ | **Glorious Gold:** 0 Bars
 

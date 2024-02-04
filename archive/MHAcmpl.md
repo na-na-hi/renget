@@ -97,12 +97,17 @@ Lilinah ‘Riri’ Inoue: https://archive.4plebs.org/tg/post/91347120/
 Ysmir Dragonborn: https://archive.4plebs.org/tg/post/91349452/
 Daniel W. Rain: https://archive.4plebs.org/tg/post/91352447/
 
+>> Class 1-F
+Suki HN Sukeban: https://archive.4plebs.org/tg/post/91670899/
+Runt HN Dust Devil: https://archive.4plebs.org/tg/post/91691942/
+Rob Williams HN: Velvet Worm: https://archive.4plebs.org/tg/post/91728780/
+Haiiroshi Kinzoku HN Fullmetal: https://rentry.org/Fullmetal-mha
+
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
-Suki HN Sukeban: https://archive.4plebs.org/tg/post/91670899/
 Nijimura Mahoko HN Cool Boost: https://archive.4plebs.org/tg/post/91685518/
-Runt HN Dust Devil: https://archive.4plebs.org/tg/post/91691942/
+
 
 ### Shiketsu Staff
 >Pro Heroes
@@ -152,9 +157,7 @@ Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
 Kiki HN Yggdrasil: https://archive.4plebs.org/tg/post/91707234/
 Riku Washizawa HN The Steel Talon Hero: Skycarver: https://archive.4plebs.org/tg/post/91716771/
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
-Rob Williams HN: Velvet Worm: https://archive.4plebs.org/tg/post/91728780/
 Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
-Haiiroshi Kinzoku HN Fullmetal: https://rentry.org/Fullmetal-mha
 
 ### Villains
 >Night Parade

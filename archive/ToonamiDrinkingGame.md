@@ -48,21 +48,13 @@ Doctor Soap
 -there's a flashback to someone's life
 -take 2 drinks whenever a character brews or imbibes alchohol
 
-Food Wars:
--someone says "delicious", "umami", "gastronomy", or  "glutamic acid"
--there's a food reaction, two shots if it's highly sexual three shots if it's clearly impossible
--victor says "vkusno!"
--erina is tsun
--alice pouts
--megumi freaks out
--the director gets naked
--a character gets a cooking nickname
--there's a shot of meat's meat
--there's VERY fast chopping at incredible hihg speed
--soma makes some weird ass experimental food
--nobles look down on food peasants
--a new food nen power is revealed
--El Hermano taunts Soma
+Lycoris Recoil:
+-chisato dodges a bullet
+-takina shoots first
+-takina makes a pro gamer noscope
+-mizuki reminds viewers of her cake status
+-walnut's laughing man logo is shown
+-chisato gigglesquees
 
 One Piece
 -Luffy mentions meat

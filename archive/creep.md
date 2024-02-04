@@ -1,5 +1,8 @@
--> ![.](https://enchantments.carrd.co/assets/images/gallery09/a4e05e02.png?v=43e17b0c) <-
--> ![.](https://media.discordapp.net/attachments/1096639589852123136/1191681615747874896/IMG_0410.webp?ex=65a652fd&is=6593ddfd&hm=06200c38338a99aa127ed3649bd82c899b46636e23ebe21f363cba2eddae4bc1&) <-
--> ryan `or` enny ◞ she/him <-
--> girlthing bisexual <-
--> [hoard](https://rentry.org/jellyfishfield) <-
+-> [back](https://rentry.co/clairo) <-
+-> ![](https://autism.crd.co/assets/images/gallery01/9b7d05f3_original.gif?v=69d6a439) <-
+-> BYF <-
+-> im so autistic and i love idv and miraculous!!!! theyre all i talk abt. My favs are marinette, alice deross, chat noir, juliet starling, herobrine, steve (minecraft), kasumi toyama, and radlynn. if u say u like them more then me u don't becayse i am their only fans ever Bye. You will be welcomed to the block list i will NOT PLAY AROUND!!! i love to yap u can add my discord @chatnoirs. to talk Bcuz i love talking and conversation <333 i type fast + mispell so sorry i can always retype. honorable mentions for interests are garfield, wham!, fnaf, bandori, vocaloid, and mlp (theres more but idrc i like a lot of media). i edit, draw, read, and write fanfic!!! oh i also say like retard and faggot idc abt slur discourse i have been called them many times so loike... <-
+***
+-> DNI <-
+-> ughhh i dont rlly have a dni bcuz idc just like be normal and stuff ifykwim..??? Like not -ist or
+-ic and like no pro/comshippers and sh and ed ppl <-
