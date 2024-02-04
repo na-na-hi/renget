@@ -74,19 +74,54 @@ A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the 
 No. Most story content can be beaten with the default Identities and E.G.Os. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
 
 **2. Who do I reroll for?**
-I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Identities at the top of the list are generally better than the ones at the bottom, but the ordering past the first 4 IDs should be considered loose. Try to get two or three Identities on this list. Do not bother rerolling for E.G.O.
-- ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) R Corp. 4th Pack Rabbit Heathcliff
-- ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) The One Who Shall Grip Sinclair
-- ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) W Corp. L3 Cleanup Agent Ryōshū
-- ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) W Corp. L3 Cleanup Agent Don Quixote
-- ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) Effloresced E.G.O::Spicebush Yi Sang
-- ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) Tingtang Gang Gangleader Hong Lu
-- ![Seven Assoc. South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) Seven Assoc. South Section 4 Faust
-- ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) Dieci Association South Section 4 Rodion
-- ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) R Corp. 4th Pack Reindeer Ishmael
-- ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) Zwei Association South Section 4 Gregor
-- ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) R Corp. 4th Pack Rhino Meursault
-- ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp) Seven Association South Section 6 Director Outis
+I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Try to get two or three Identities on this list. Do not bother rerolling for E.G.O. This list is ordered by Sinner number. Hover over the image for the full name of the Identity.
+- %white% Yi Sang %%
+	- This Identity has AOE on his skill 2 and can do insane nukes with his skill 3 if you build a sinking team around him.
+	 ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp)
+
+- %lightpink% Faust %%
+	- Her Seven Identity is good for damage and clashing. Her The One Who Grips Identity is good for debuffs and can pair well with Sinclair's The One Who Shall Grip Identity.
+	 ![Seven Assoc. South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp)
+
+- %gold% Don Quixote %%
+	- Her W Corp. Identity has been a mainstay in the meta since launch for it's nuking capabilities.
+	 ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp)
+
+- %red% Ryoshu %%
+	- Recreational nukes.
+	![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp)
+
+- %blue% Meursault %%
+	- Meursault. His R Corp Identity is the better of the two. Both Identities get much stronger at Uptie 4.
+	![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![W Corp. L2 Cleanup Agent Meursault](https://files.catbox.moe/yss5ux.webp)
+
+- %aquamarine% Hong Lu %%
+	- His Dieci Identity is good for general damage. His Tingtang Identity has a great support passive and is also pretty good. His K Corp. Identity is an exceptionally good tank, and with his Dimension Shredder E.G.O he can become functionally immortal.
+	![Dieci Assoc. South Section 4 Hong Lu](https://files.catbox.moe/6tc0m5.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp)
+
+- %blueviolet% Heathcliff %%
+	- His R Corp. Identity has stayed near the top of the meta since the game launched because of the insane fragility application on his skill 3. His Pequod Identity is great in bleed teams.
+	![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The Pequod Harpooneer Heathcliff](https://files.catbox.moe/3jx98k.webp)
+
+- %darkorange% Ishmael %%
+	- All of her 000s are good, though it is suggested you Uptie 4 her R Corp. Identity.
+	![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp)
+
+- %darkred% Rodion %%
+	- Great damage, since this is a discard Identity you'll be seeing her skill 3 much more often. Slampig.
+	![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp)
+
+- %yellowgreen% Sinclair %%
+	- His The One Who Shall Grip Identity can deal insane damage on its own, but you need to babysit him because of his negative coins. His Cinq Identity is great, and does not require babysitting (you can winrate with him).
+	![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![Cinq Assoc. South Section 4 Director Sinclair](https://files.catbox.moe/08w5sa.webp)
+
+- %seagreen% Outis %%
+	- Sadly, none of her Identities really stand out in terms of meta.
+	![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
+
+- %saddlebrown% Gregor %%
+	- Both Identities are good but his Twinhook Identity is generally better.
+	![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp)
 
 The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.O.
 
@@ -119,7 +154,7 @@ Using an E.G.O changes your Sin resistances and gives you a new passive for the 
 
 Similarly to Identities, you can upgrade E.G.O using Thread. This process is called Threadspinning. XP tickets cannot be used on E.G.O. Threadspinning an E.G.O to tier 3 does not give you Lunacy.
 
-It is advised against rolling specifically for E.G.O because the rates for obtaining E.G.O are abysmal (1.3%). It is recommended to roll exclusively for Identities and wait for an E.G.O to spook you, and shard anything you really want. If you are going to roll for any specific E.G.O, it is recommended to clear out every other E.G.O in the Dispensary beforehand, especially during Walpurgisnacht.
+It is advised against rolling specifically for E.G.O because the rates for obtaining E.G.O are abysmal (1.3%). If you are going to roll, do it exclusively for Identities and wait for an E.G.O to spook you, and shard anything you really want. If you are going to roll for any specific E.G.O, it is recommended to clear out every other E.G.O in the Dispensary beforehand, especially during Walpurgisnacht.
 
 **3. Lunacy & Extractions**
 Lunacy is the gacha currency. You can get Lunacy by collecting your Weekly Mirror Dungeon bonuses, story completion bonuses, Uptie bonuses, apologems or paying real money. Collecting every Mirror Dungeon Weekly Bonus will give you a total of 750 Lunacy. After every maintenance, you get 300 compensation Lunacy. This is just short of a 10-roll per week. There is also paid Lunacy, which can only be bought with real money and can be used for daily rolls, to buy Battle Announcers, level the Battle Pass, and buy the Limbus Pass "Package" which is different from the regular Limbus Pass.
@@ -214,6 +249,8 @@ Monthly Training Pack | 1690 | 31 | 33 | 150 | 1.065 | 4.839
 Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 
 ## Farming
+!!! note There's a helpful guide on farming [here](https://rentry.org/LCB_optimal_grind_guide) which details the most effective method for farming, including optimal teams for Starlight grinding. Read this if you're looking for maximum efficiency.
+
 In Limbini Cimpini, each Sinner has their own Egoshard. Egoshards are the currency used to obtain Identities and E.G.Os from the Dispensary. This process is known as sharding, sharting, or "sparking" in regular gachafag terms. Egoshards are obtained when you get dupes of Identities, but Egoshards can also be farmed. Farming Egoshards is directly tied to the Battle Pass, which is leveled by doing missions and Mirror Dungeons. Leveling the Battle Pass past max level will give you Nominable Egoshard Crates, one of which will give you 1-3 Egoshards for a Sinner of your choice. If you don't own the Battle Pass you get 1 Nominable Egoshard Crate per level, and 3 if you do have it. This means that owning the Battle Pass will triple the Nominable Egoshard Crates you get. Below is a general guide on farming.
 
 **1. What is the best way to farm Egoshards?**
@@ -226,14 +263,14 @@ You can farm as much as you want if you have the Enkephalin (energy) or Lunacy t
 You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Even just doing your weekly MDH is enough, and more than two Mirror Dungeon runs a day is not necessary. Do not do more than one MDH a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
-If you plan on doing daily Mirror Dungeon runs, and especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do refills once you are closer to max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. This isn't taking into account the 20-60 Egoshard Crates you get from the MDH Weekly Bonus, which makes farming even faster. Note that subsequent refills cost more Lunacy.
+If you plan on doing daily Mirror Dungeon runs, and especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do Lunacy refills once you are closer to max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. This isn't taking into account the 20-60 Egoshard Crates you get from the MDH Weekly Bonus, which makes farming even faster. Note that subsequent refills cost more Lunacy.
 
-In other words, yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely *if* you are dedicated enough. A lot of people skip every banner and save all their Lunacy for the Walpurgisnacht Extraction, and just shard everything else.
+In other words, yes, you really can farm every Identity and E.G.O in the game and forgo the gacha system entirely *if* you are dedicated enough. A lot of people completely skip or just do one 10-roll every banner and save all their Lunacy for the Walpurgisnacht Extraction, and just shard everything else.
 
 **3. What should I shard first, and when?**
 If you want to get the most out of your Egoshards, you should focus on Identities and E.G.O in the tier list and ones marked as Event/current Season, preferably both if applicable.
 
-As for when to shard, it is technically best to wait right before the Season ends in case you get spooked when rolling. But if you really want something now you can do it whenever, it doesn't matter that much.
+As for when to shard, it is technically best to wait right before the Season ends in case you get spooked when rolling. But if you really want something now, you can do it whenever.
 
 **4. How many Nominable Egoshard Crates should I open at a time? What do I do with Random Egoshard Crates?**
 This largely depends on how many Egoshards you have for that Sinner. Every Egoshard Crate gives you 1-3 Egoshards, so you need an average of 200 Nominable Egoshard Crates to shard one 000 ID or E.G.O. Assuming you have 0 Egoshards, open 50 crates at a time and lower the amount you open each time until you're at 400 Egoshards. Be careful not to overshoot, or you'll be sitting on 600 extra Egoshards you have no use for.
@@ -274,7 +311,7 @@ In a clash, the Offense Level of both sides are compared. The side with the high
 
 The Defense Level is matched against the attacker's Offense Level. When a character is on the receiving end of an attack, their Defense Level is taken into account, and applies a percentage modifier to how much damage the attack deals. The damage dealt by an attack is increased by 3% when the differential between the attacker's Offense Level and the defender's Defense Level is 1, and by 28% when the differential is 10. As the differential increases, returns diminish. When the Defense Level is higher than the Offense Level, the modifier is applied as a negative instead, reducing the damage dealt.
 
-If your clash values are suddenly extremely high, that's because that skill is an unopposed attack and the minimum/maximum damage is being shown instead. You can't view the damage in a clash without calculating it manually or switching the clashes and hoping that it displays. Damage is also boosted by the clash count.
+If your clash values are suddenly extremely high, that's because that skill is an unopposed attack and the minimum/maximum damage is being shown instead. Damage is also boosted by the clash count. The damage shown takes resistances into account.
 
 **3. Corrosion**
 Any non-base E.G.O can do something called Corrosion. A Corroded E.G.O has a different attack and effects compared to the regular (Awakening) version. Depending on the situation, you may want to use either the Awakening or Corrosion version of the E.G.O. E.G.O Corrosion can be reached in multiple ways. If you have a non-base E.G.O equipped and reach -45 Sanity at any point in a battle, you lose control of the Sinner, and they will use the Corroded E.G.O and be forced to attack with it, potentially hitting allies. Corrosion can also be reached by using an Awakening E.G.O below 0 Sanity, which will give you a percent-based chance for your E.G.O to Corrode.
@@ -301,18 +338,18 @@ Focused encounters are commonly found in Thread Luxcavation, Dungeons, boss figh
 ## Tier List
 I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list, so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released, and I don't want to do that or rely on other websites for opinions, because I only trust the opinions of anonymous retards. There are many other tier lists and resources for you to use if you need a full one, just avoid Prywden. Feel free to scream at me if you think the ordering is retarded, because it probably is.
 
-The following are what most consider to be the best IDs and E.G.O in the game. The ordering past the first 4 IDs should be considered very loose because again, I don't know how to make a good tier list. This is mostly ordered for raw power rather than Mirror Dungeon clearing I think. Hover over the images for the name of the ID/E.G.O.
+The following are what most consider to be the best IDs and E.G.O in the game. !~ The ordering past the first 4 IDs should be considered very loose ~! because again, I don't know how to make a good tier list. This is mostly ordered for raw power rather than Mirror Dungeon clearing I think. Hover over the images for the name of the ID/E.G.O.
 
 **000 IDs**
-R Corp Ishmael and Meursault need to be at Uptie 4. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required. Magic Bullet Outis is good in longer battles and also burn comps.
- - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Lobotomy E.G.O::Magic Bullet Outis](https://files.catbox.moe/4pm7bu.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![The Pequod Harpooneer Heathcliff](https://files.catbox.moe/3jx98k.webp) ![The Middle Little Sister Don Quixote](https://files.catbox.moe/x6s4cc.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Cinq Assoc. South Section 4 Director Sinclair](https://files.catbox.moe/08w5sa.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
+R Corp. Ishmael and Meursault need to be at Uptie 4. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required. Magic Bullet Outis is good in longer battles and also burn comps.
+ - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Dieci Assoc. South Section 4 Hong Lu](https://files.catbox.moe/6tc0m5.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![The Pequod Harpooneer Heathcliff](https://files.catbox.moe/3jx98k.webp) ![The Middle Little Sister Don Quixote](https://files.catbox.moe/x6s4cc.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Cinq Assoc. South Section 4 Director Sinclair](https://files.catbox.moe/08w5sa.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![Lobotomy E.G.O::Magic Bullet Outis](https://files.catbox.moe/4pm7bu.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![W Corp. L2 Cleanup Agent Meursault](https://files.catbox.moe/yss5ux.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
 L Corp. Faust and 7 Ryoshu get good boosts at Uptie 4. KK Hong Lu doesn't roll well but his skill 2 can absolutely decimate slash weak enemies during early game. Shi Ishmael is an Identity you obtain for free in the tutorial but is surprisingly good when she meets her low health requirement.
 - ![Lobotomy Corp. Remnant Faust](https://files.catbox.moe/u5e7ym.webp) ![Hook Office Fixer Hong Lu](https://files.catbox.moe/coki2s.webp) ![Seven Association South Section 6 Ryōshū](https://files.catbox.moe/gikmhl.webp) ![Shi Association South Section 5 Ishmael](https://files.catbox.moe/5z260o.webp) ![Kurokumo Clan Wakashu Hong Lu](https://files.catbox.moe/0d60ru.webp) ![G Corp. Head Manager Outis](https://files.catbox.moe/ajwa9b.webp) ![Shi Association South Section 5 Director Don Quixote](https://files.catbox.moe/dltlda.webp)
 
 **E.G.Os**
-Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's Sunshower is a fantastic damage dealer. Telepole Don gives her and her allies charge. Rime Shank shits sinking out the ass for sinking comps at Uptie 4. Ardor Blossom Star becomes a nuke at Uptie 4 and pairs well with Liu Ishmael. Hong Lu's Dimension Shredder allows his K Corp ID to become functionally immortal.
+Fluid Sac Faust is currently the best support E.G.O in the game, and Yi Sang's Sunshower is a fantastic damage dealer. Telepole Don gives her and her allies charge. Rime Shank shits sinking out the ass for sinking comps at Uptie 4. Ardor Blossom Star becomes a nuke at Uptie 4 and pairs well with Liu Ishmael. Hong Lu's Dimension Shredder allows his K Corp. ID to become functionally immortal.
 - ![Fluid Sac Faust](https://files.catbox.moe/h7ahah.webp) ![Sunshower Yi Sang](https://files.catbox.moe/2evh02.webp) ![Telepole Don Quixote](https://files.catbox.moe/csfxwi.webp) ![Rime Shank Rodion](https://files.catbox.moe/vtpw5v.webp) ![Ardor Blossom Star Ishmael](https://files.catbox.moe/n2z7z0.webp) ![Ebony Stem Outis](https://files.catbox.moe/9kgmhm.webp) ![Dimension Shredder Hong Lu](https://files.catbox.moe/5g9i9r.webp)
 
 ## Activities
@@ -342,18 +379,18 @@ You don't get much Thread past the 3 daily Thread Luxcavation bonuses, so you ge
 
 **5. Refraction Railway**
 Endgame hard content. You have until the next Refraction Railway to complete it for very good rewards, just with a considerable Module cost to claim them. It also rewards you with a banner based on turn count and completion time that can be used in virtual dick measuring contests.
-![BannerOrBricked](https://files.catbox.moe/m0vm5b.png)
-(will replace this once i finish RR3 (NEVER))
-The current Refraction Railway is Line 3: MirrorClock OrangeRoad. For the full rewards, fight all the bosses, then proceed to Terminus to fight the final boss. Pay the Module fee if you haven't already, and claim the rewards. Click the yellow arrow if you're stuck.
+![BannerOrBricked](https://files.catbox.moe/ana45k.png)
+The current Refraction Railway is Line 3: MirrorClock OrangeRoad. For the full rewards, fight all the bosses, then proceed to Terminus to fight the final boss. Pay the Module fee if you haven't already, and claim the rewards.
 
 ## Useful Links
 You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_resources)
 [Limbus Company Update Countdown](https://lcbcountdown.carrd.co/)
-[Limbus Company Database / Wiki](https://limbus.kusoge.xyz/). If you're afraid of spoilers, avoid the Event, Main Story, Enemy, Abnormality, Abnormality Story and Dante's Notes sections.
+[Limbus Company Database / Wiki](https://limbus.kusoge.xyz/) (This one obviously has spoilers, notably in the Event, Main Story, Enemy, Abnormality, Abnormality Story and Dante's Notes sections)
 [Limbus Company Team Builder & Collection Tracker](https://docs.google.com/spreadsheets/d/1oV1EYwxaaubTG5XU0AMzsTMluutkIczDcLke1L7qxCU)
 [MD3 Farming Guide](https://rentry.org/limpsusMD3farmingstrategy)
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
+[Optimal Grinding Guide](https://rentry.org/LCB_optimal_grind_guide)
 
 ## Useful Tips
 1. READ
@@ -393,4 +430,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/8/24: Added MD3 E.G.O gift fusion and farming guide link.
 1/16/24: Updated tier list with some of the newer IDs.
 1/25/24: ABABABABABABA ![헤](https://files.catbox.moe/207ryd.png)
-1/31/24: Removed the Railway 2 guides, will add ones for RR3 when they're made. ![lol&](https://files.catbox.moe/7dmu76.png)
+1/31/24: Removed the Railway 2 guides, will add ones for RR3 when they're made.
+2/4/24: Replaced the Refraction Railway image, added optimal grinding guide link. Updated both tier lists. ![lol&](https://files.catbox.moe/7dmu76.png)

@@ -31,7 +31,7 @@ Erica | (8/12/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chu
 Sidney | (23/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/sidney-7c14da2a/main) | ![](https://files.catbox.moe/qbgteh.png)
 Bimu | (12/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/bimu-42e062d9) | ![](https://files.catbox.moe/37dvca.png)
 Yukina | (06/7/2023) |  [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Yukina) | ![](https://files.catbox.moe/mygjfp.png)
-Mimi | (16/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Mimi) | ![](https://files.catbox.moe/oj6a0v.png)
+Mimi | (04/02/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Mimi) | ![](https://files.catbox.moe/63t974.png)
 Aya | (21/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Aya) | ![](https://files.catbox.moe/ok3qbv.png)
 
 ### Re:Zero Adventure Cards

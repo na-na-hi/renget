@@ -7,7 +7,7 @@ It's a great way to keep your story on track; By your Storytext alone, the AI do
 [TOC2]
 
 ***Other guide: [co-writing guide](https://rentry.org/co-writing-guide), [lorebook guide](https://rentry.org/lorebook-guide), [author note](https://rentry.org/an-guide)***  
-*[My personal preset—Truthfully v10 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
+*[My personal preset—Truthfully v11 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ##Context
   

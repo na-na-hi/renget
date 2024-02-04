@@ -3,19 +3,21 @@
 ---
 ___
 ___
-#### !~*Last updated on:* 01/24/2024 (MM/DD/YYYY)~!
+#### !~*Last updated on:* 02/04/2024 (MM/DD/YYYY)~!
 
-- **[Story]** *[The Gifting Comet](https://rentry.org/fh7v6vcz) %limegreen%[SFW]%%* was added
+- **[Story]** *[Flight School](https://rentry.org/89bbpa9k) %limegreen%[SFW]%%* was added
+
+- **[Story]** *[Whispers of the Vale](https://rentry.org/8mt2peru) %limegreen%[SFW]%%* was added
+
+- **[Story]**  *[The Gifting Comet](https://rentry.org/fh7v6vcz) %limegreen%[SFW]%%* was added
+
+#### !~*Previously:*~!
 
 - **[Story]** *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so) %firebrick%[NSFW]%%* was updated
 
 - **[Story]** *[Ode to the Flame Emperor](https://rentry.org/fxe9i) %firebrick%[NSFW]%%* was added
 
-#### !~*Previously:*~!
-
 - **[Story]** *[Into the Wilds](https://rentry.org/32ia4) %limegreen%[SFW]%%* was added
-
-- **[Doujin]** *[Foam](https://mega.nz/file/n4hCgA7J#St2MgatII2Ze_ZGiUDI2A875RCEgs_wqs7OIZ4AHXAM) %firebrick%[NSFW]%%* and *[Valse](https://www.dropbox.com/sh/u5vbjl7eere7tm4/AACgrFk8vPve9jhE7F-e9KIza?dl=0) %firebrick%[NSFW]%%* were added
 
 On December 17, 2020, Pastebin went full retard and nuked most explicit pastes, including [the original Monster Hunter Doujin/Smut Index](http://web.archive.org/web/20200530234448/https://pastebin.com/kHh6uSQu). Later down the line, some pastes were restored. A MEGA backup of most Pastebin stories and doujins can be found in their appropriate sections.
 
@@ -636,6 +638,17 @@ It's the Season of Giving for one optimistic human and their less-optimistic fri
 
 ---
 
+#### *[Whispers of the Vale [Human x Vaal Hazak]](https://rentry.org/8mt2peru)*
+
+An effluvium-proof mask has unusual effects on a certain hunter.
+
+---
+
+#### *[Flight School [Human x Legiana]](https://rentry.org/89bbpa9k)*
+
+You decide to take flight with the help of a mantle and your flying wyvern buddy.
+
+---
 #### *Mizutsune & Lagiacrus %darkmagenta%[Untranslated]%%*
 **Author - [ぱりぽい](http://www.pixiv.net/member.php?id=3364797)**
 

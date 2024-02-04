@@ -426,20 +426,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Shiketsu MHA season 1 ED v0.5
-https://files.catbox.moe/xnsmie.mp4 (embed)
-
-New Writefag:
->Sins of the Father (Full Metal, 1-F):
-https://rentry.org/Sins-of-the-Father-MHA
-
-New Art:
->Chestburster Runt
->>91793136
-
-New Character:
->Haiiroshi Kinzoku HN Fullmetal
-https://rentry.org/Fullmetal-mha
+Writefags:
+>Runt Breaks the Ice!! (Runt, 1-F) 
+https://rentry.org/x6hogk7r
+>NOTEBOOK (Suki, 1-F)
+https://rentry.org/mxh95sov
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1054,6 +1045,10 @@ https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/
 + Rentry Link https://rentry.org/2mgxeq84
 >Sins of the Father (Full Metal, 1-F):
 https://rentry.org/Sins-of-the-Father-MHA
+>Runt Breaks the Ice!! (Runt, 1-F) 
+https://rentry.org/x6hogk7r
+>NOTEBOOK (Suki, 1-F)
+https://rentry.org/mxh95sov
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

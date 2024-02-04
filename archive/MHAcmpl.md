@@ -689,6 +689,9 @@ cafeteria scene: https://desuarchive.org/tg/post/91771549/
 cafeteria scene V.2: https://desuarchive.org/tg/post/91773041/
 Runt's eating dirt purely for the love of the game: https://desuarchive.org/tg/post/91781739/
 Chestburster Runt: https://desuarchive.org/tg/post/91793136/
+1-F seating chart(s): https://desuarchive.org/tg/post/91801761/
+1-F seating chart(s): https://desuarchive.org/tg/post/91802597/
+1-F seating chart(s): https://desuarchive.org/tg/post/91802680/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1112,6 +1115,8 @@ Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator): https://ren
 Survivor's Talk: https://rentry.org/drqmuvar
 Rob's First Day (featuring Velvet Worm & Dust Devil): https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing + Rentry Link https://rentry.org/2mgxeq84
 Sins of the Father (Full Metal, 1-F): https://rentry.org/Sins-of-the-Father-MHA
+Runt Breaks the Ice!! (Runt, 1-F): https://rentry.org/x6hogk7r
+Suki's Notebook: https://rentry.org/mxh95sov
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

@@ -13,7 +13,7 @@ Comment:
 The Edition
 
 >News
-Google released Gemini Pro image generation - filtered harder than Bing's. Gemini Ultra never https://blog.google/products/bard/google-bard-gemini-pro-image-generation/
+Google released Gemini Pro image generation - filtered harder than Bing's - Gemini Ultra February 7 https://blog.google/products/bard/google-bard-gemini-pro-image-generation/
 mistral-medium leaked https://huggingface.co/miqudev/miqu-1-70b
 New releases from OpenAI, including a new preview of GPT-4 Turbo as well as tools for managing API keys https://openai.com/blog/new-embedding-models-and-api-updates
 OpenAI march models enter deprecation phase https://platform.openai.com/docs/deprecations/2023-06-13-updated-chat-models

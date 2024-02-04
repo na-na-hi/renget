@@ -1,3 +1,29 @@
+>Sniper footage and dronedrops
+https://files.catbox.moe/fjf34b.MP4
+>Ka-52 helo destroys AFU command post
+https://files.catbox.moe/qlie4h.mp4
+>AFU position near Sinkovka
+https://files.catbox.moe/qp4t3p.mp4
+>3+ minutes of hohol + armor getting VOG'ed
+https://files.catbox.moe/0e5ky2.MP4
+>Putin on the effects of sanctions
+https://files.catbox.moe/ty03j9.mp4
+>Grad anaLOG unloading
+https://files.catbox.moe/m4uiug.mp4
+>imagine dying to this
+https://files.catbox.moe/ovzifo.mp4
+>RU soldier PARRIES fucking drone
+https://files.catbox.moe/ugd05w.MP4
+>Uragan ASMR
+https://files.catbox.moe/h1ovle.mp4
+>More BTFO AFU armor
+https://files.catbox.moe/0gp3v7.mp4
+>Spawn killing
+https://files.catbox.moe/udrcbv.mp4
+>Nightstalker drone strikes
+https://files.catbox.moe/xd3obh.mp4
+>German journalist in Mariupol
+https://files.catbox.moe/r1ulxi.mp4
 >RU soldier PARRIES fucking drone
 https://files.catbox.moe/ugd05w.MP4
 >Uragan ASMR

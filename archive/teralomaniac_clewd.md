@@ -49,17 +49,13 @@
 
 - **Set "Chat Completion" to OpenAI:** 字面意思，将发送格式Chat Completion改为OpenAI，勾选Show "External" models后可选择claude-2（选择其他OpenAI也不会造成返回内容影响，该选项仅影响酒馆内的token数显示和模型图标显示）
 
-- **Forbidden/403报错:** 多为Cookie失效，请更换Cookie，在网页退出登录会导致Cookie失效，请不要退出。
+- **Forbidden/403报错:** 请尝试更新最新版解决，如无法解决则多为Cookie失效，请更换Cookie（在网页退出登录会导致Cookie失效，请不要退出）
 
-- **render报错'EACCES':** 2.7之后版本启动指令使用 `bash start.sh` 而非 `node clewd.js` 
+- ==出现H:/A:== **解决方法：**`const Settings = { };`中设置`PreventImperson`或`FullColon`为`true`（`FullColon`为默认开启），如果`PreventImperson`经常抽风依然出现H：，请在正则表达式(regex)中添加 `/\n\nH(uman)?:.*/s`，仅勾选用于AI output
 
-- **旧版能用的卡新版用不了:** ==依次==尝试关闭（设置为`false`）以下功能，`xmlPlot`（不用下文的自用破限或类似格式可以关闭，仅在使用`<card>` XML tags时触发），`FullColon`（HA问题会回归），`padtxt`（可能导致容易黄标），以上功能全部关闭后，发送内容与原版将完全一致。
+- **消除破限词头词尾方法：**正则表达式(regex)中添加 ```/{{词头词尾}}.*/s``` ，仅勾选用于AI output。（根据你的破限词头不同可能有变，此为抛砖引玉，自用破限用正则请查看下文）
 
-- ==出现H:== **解决方法：**`const Settings = { };`中设置`PreventImperson`或`FullColon`为`true`（`FullColon`为默认开启），如果`PreventImperson`经常抽风依然出现H：，请在正则表达式(regex)中添加 ```\n\n(H:|System:)[\s\S]*``` ，仅勾选用于AI output
-
-- **消除破限词头词尾方法：**正则表达式(regex)中添加 ```[💕❤️❤]\n\n(A: ){0,1}``` 与 ```\<\/{0,1}plot\>[\s\S]*``` ，仅勾选用于AI output。（根据你的破限词头不同可能有变，此为抛砖引玉，自用破限用正则请查看下文）
-
-- **参数设置：**所有参数仅需将上下文长度调整至```102400``` ~~官网Claude无法改变温度等参数，其余调整参数无用。~~（2.0后已支持发送温度参数至网页API，仔细查看注释```PassParams```部分后修改```Settings```中该项为```true```使用，有ban的可能性，是否能对模型产生影响未知）
+- **pulling request model/changing cookie：**更换模型与cookie时的提示，并非报错（注意仅在选择claude-2.0/2.1等cookie可用模型时才会触发自动切换对应模型cookie）
 
 #####Hint
 - 当要转折或代替角色行动时，建议你的角色输出后换行（shift+enter）两次后再描述。

@@ -9,7 +9,7 @@ Here's some more technical advice:
 [TOC2]
 
 ***Other guide: [memory guide](https://rentry.org/memory-guide), [lorebook guide](https://rentry.org/lorebook-guide), [author note](https://rentry.org/an-guide)***  
-*[My personal preset—Truthfully v10 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
+*[My personal preset—Truthfully v11 (link)](https://aids.miraheze.org/wiki/Presets#Truthfully)*
 
 ####Spelling and Grammar
 
