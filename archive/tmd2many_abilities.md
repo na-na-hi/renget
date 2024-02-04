@@ -245,7 +245,7 @@ Shell Armor | The User is damaged normally by Critical Hits.
 Shield Dust | The User is immune to the secondary effects of Moves.
 **Shields Down** | The User's Defense and Special Defense Stats are increased by 2 Stat Points. The User's Attack and Special Attack Stats are decreased by 2 Stat Points. The opposite is true while below ½ HP.
 Simple | The User's Stat increases and decreases are doubled.
-Skill Link | The User's Multi-Hit Moves always hit as many times as possible.
+**Skill Link** | The User's Multi-Hit Moves roll an advantage die which replaces the lowest roll if higher.
 **Slow Start** | Regigigas' Attack, Special Attack, Defense, Special Defense, and Speed Stats are increased by 5, but their Max AP starts at 0 and is increased by 1 every round until 10 Max AP. 
 Slush Rush | While in Snow, the User's Speed is increased by 1.
 Sniper | The User's Critical Hits have their damage increased by 4.
@@ -325,7 +325,7 @@ Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to ≥11 ag
 Zen Mode | The User is changed into Zen Mode at ½ HP.
 **Zero to Hero** | The User is changed into Hero Form after 2 turns. In Hero Form, the User's Attack is increased by 3, and Special Attack is increased by 1.
 
-## IQ Skills
+## %#e69d31%IQ%% %#be6e39%Skills%%
 !!! warning Every Pokémon has access to IQ Skills. Only as many IQ Skills as there is IP remaining can be slotted into the active slots at a time, however, a Character may collect as many skills as they can afford.
 Tier | Roll | Name | Description | IQ Required | IP Cost 
 :----: | :----: | ------ | ------ | ------ | ------
@@ -410,7 +410,7 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 
 ***
 
-### Aura Break
+### %#5fcde4%Aura%% %#088388%Break%%
 Move | Ability | :·: | :·: | :·: | :·:
 --- | --- | :---: | :---: | :---: | :---:
 Aura Sphere | Fairy Aura | - | - | - | -
@@ -437,7 +437,7 @@ Electro Ball | Octozooka | Syrup Bomb | Snipe Shot | - | -
 
 ***
 
-### Iron Fist
+### %#5a8ea2%Iron%% %#ce416b%Fist%%
 Move | Move | Move | :·: | :·: | :·:
 --- | --- | --- | :---: | :---: | :---:
 Bullet Punch | Ice Hammer | Rage Fist | - | - | -
@@ -459,7 +459,7 @@ Move | Move | Move | :·: | :·: | :·:
 
 ***
 
-### Sharpness
+### %#5a8ea2%Sharpness%%
 Move | Move | Move | :·: | :·: | :·:
 --- | --- | --- | :---: | :---: | :---:
 Aerial Ace | Fury Cutter | Razor Shell | - | - | -
@@ -474,7 +474,7 @@ Cut | Razor Leaf | - | - | - | -
 
 ***
 
-### Soundproof & Liquid Voice
+### %#919aa2%Soundproof%% & %#5090d6%Liquid Voice%%
 Move | Move | Move | :·: | :·: | :·:
 --- | --- | --- | :---: | :---: | :---:
 Boomburst | Growl | Round | - | - | -

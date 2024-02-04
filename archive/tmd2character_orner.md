@@ -46,7 +46,7 @@ Glare | Orner looks straight into your soul, freezing you in place.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 1 IQ points to spend.
+    You have 19 IQ points to spend.
     10/10 IP | ▮▮▮▮▮▮▮▮▮▮
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -68,6 +68,8 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
 Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
+Training for Stat: Defense | Tier **ɪɪ** | 1/9
+▮▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 Item Name | Description

@@ -1,8 +1,7 @@
 #/funkg/ Link Compilation
 Below are links to various links, archives and resources.
 >The /funkg/ Archives:
-https://mega.nz/folder/s5pmGSpK#ARAetxhnAOUpjczVoq4Y5g
-https://mega.nz/megadrop/D2SKtOXSbgo
+https://www.dropbox.com/scl/fo/8owec3tskg05tcutpmonx/h?rlkey=0foncyh1xu0qlvii2teije3qr&dl=0
 >/funkg/ Booru:
 https://booru.plus/+funkg
 >Phantom Arcade Stream Archive:

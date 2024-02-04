@@ -115,6 +115,17 @@ Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
 Speed | 6 | Species Bonus; Speed **ɪɪɪ** | 8AP
 
+(You may alternatively use)
+
+%#dcc6c2%Stat%% | %#dcc6c2%Points: 14 (+1)%% | %#dcc6c2%Modifiers%% | %#dcc6c2%Combat Effect%%
+------ | :----: | :----: | :----: 
+**%#cd473b%Health Points%%** | 1 | Level 56 (36 %#cd473b%HP%%) | 38 %#cd473b%HP%%
+**%#e76439%Attack%%** | 3 | %#e76439%Level Damage Bonus **ɪɪ**%% | +5 %#ac3232%Physical%% %#847e87%Damage%%
+**%#a5ff38%Special Attack%%** | 3 | %#a5ff38%Level Damage Bonus **ɪɪ**%% | +5 %#4258c0%Special%% %#847e87%Damage%%
+**%#e69d31%Defense%%** | 1 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +1 %#ac3232%Physical%% %#847e87%Mitigation%%
+**%#57dad6%Special Defense%%** | 1 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +1 %#4258c0%Special%% %#847e87%Mitigation%%
+**%#7c57ff%Speed%%** | 6 (+1) | Species Bonus; %#7c57ff%Speed **ɪɪɪ**%% | 8 %#3b28a7%AP%%
+
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------

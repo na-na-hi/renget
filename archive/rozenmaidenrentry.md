@@ -10,13 +10,12 @@
 
 ***
 
-#### -> Saturday, February 3rd, 5pm UTC <-
+-> %gray%~~**Rozen Maiden (2004)**~~%% <-
 
-!~ -> **Rozen Maiden (2004)** <- ~!
--> Next: <-
+###-> Next: <-
+#### -> Sunday, February 4th, 5pm UTC <-
 -> **Rozen Maiden: Träumend** <-
 -> **Rozen Maiden: Ouvertüre** <-
-
 
 ##### ->  [Discuss it and get actual info and links on the imageboard - /rozen/](https://zzzchan.xyz/rozen/index.html) <-
 ***

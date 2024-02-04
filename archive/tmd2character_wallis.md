@@ -15,16 +15,16 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 13 | **Experience to Next Level:** 5/130
+**Level:** 13 | **Experience to Next Level:** 25/130
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 495₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 745₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Normal Rank<-
-->*70/1200 points to Bronze Rank*<-
+->*110/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
@@ -90,9 +90,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Tiny Reviver Seed |	Revives fainted Pokémon to half HP.
+1. Blast Seed | Explodes on contact for 10 true damage.
 2. Blast Seed | Explodes on contact for 10 true damage.
-3. Empty | Empty inventory slot.
+3. Brown Gummi | Won't be here for long.
 4. Empty | Empty inventory slot.
 
 **STORAGE (2 slots)**

@@ -41,7 +41,9 @@ https://files.catbox.moe/d9kqz4.mp4 New 2/1/24
 Al-Quds Brigades Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Al-Quds Brigades targeted IOF forces entrenched behind dirt berms, next to a watchtower, using machine guns, east of Jabalia, in the northern Gaza Strip.
-https://files.catbox.moe/qgdkqb.mp4 New  2/2/24
+https://files.catbox.moe/qgdkqb.mp4  New  2/2/24
+>WATCH: Al-Quds Brigades published a video showing mortar launches crush army concentrations and IOF soldiers on the front lines of Khan Yunis.
+https://files.catbox.moe/ikk7rh.mp4  New  2/3/24
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -83,3 +85,5 @@ https://files.catbox.moe/y9njsg.mp4 New  2/2/24
 https://files.catbox.moe/h8kcmw.mp4 New  2/2/4
 >NEW: PUTIN: "If we don't protect our people and our country they would pat us on the head and give us rotten potatoes for humanitarian aid."
 https://files.catbox.moe/njy5vx.mp4  2/2/24 New 2/2/24
+>Scenes from the Islamic Resistance in Iraq launching a kamikaze drone towards the American Kharab al-Jir base, in Syria.
+https://files.catbox.moe/ouvw7l.mp4 New 2/3/24

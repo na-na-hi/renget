@@ -1,9 +1,11 @@
 # /bag/ Newfag guide
-No, it is not too late to play the game. The best time to start is now. 
-Not just a reroll guide. 
+You can't save the free 100 rolls until bluefes. 
 
 https://rentry.org/s2kng54y use this for the event minigame
 
+
+No, it is not too late to play the game. The best time to start is now. 
+Not just a reroll guide. 
 Scroll to the bottom for my last edit date. This guide is not outdated.
 
 [TOC] 

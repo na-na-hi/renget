@@ -65,7 +65,7 @@ Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
 Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Attribute: Foraging | 1 | 1/3 | ▮▯▯
+Training for Attribute: Foraging | 1 | 2/3 | ▮▮▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
 Currently Training for Stat: None | 1 | 0/9 | ▯▯▯▯▯▯▯▯▯

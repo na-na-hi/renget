@@ -79,7 +79,7 @@ Racket Band | The user becomes incredibly noisy and constantly draws attention t
 Sneak Scarf | The user becomes almost like a Ghost-Type, harnessing the power of sneak. (+5 Sneaking Skill). | 3,400₽
 Insomniscope | The user is immune to *Sleep, Yawn, Nap, or Nightmares.* | 4,000₽
 Lock-on Specs | Items thrown by the user cannot be caught or miss. | 3,500₽
-Tamper Scarf | Modifies the success values of Multi-hit moves to be favorable for the user. | 6,500₽
+Tamper Scarf | The User's Multi-Hit Moves roll an advantage die which replaces the lowest roll if higher. | 6,500₽
 Apathy Tie | Allows the user to hit Dark-Types with Psychic-Type moves. | 5,000₽
 Razorblade Scarf | Inflicts 2HP of true damage to targets who attack the user with a move that causes contact. | 5,500₽
 Cover Band | When an Ally is at or under 1/3HP, you can Block once for them with no AP cost. This resets whenever they meet the original activation conditions. | 4,500₽

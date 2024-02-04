@@ -72,7 +72,7 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Attribute:  **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Defense Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Defense Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 7/9 | ▮▮▮▮▮▮▮▯▯
 Stat: Defense **ɪ** | Tier **ɪ** (+1 Def) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

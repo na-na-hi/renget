@@ -47,10 +47,10 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 %#dcc6c2%Stat%% | %#dcc6c2%Points: 3 (+1)%% | %#dcc6c2%Modifiers%% | %#dcc6c2%Combat Effect%%
 ------ | :----: | :----: | :----: 
 **%#cd473b%Health Points%%** | 0 | Level 10 (22 %#cd473b%HP%%) | 22 %#cd473b%HP%%
-**%#e76439%Attack%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#ac3232%Physical%% Damage
-**%#e69d31%Defense%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#ac3232%Physical%% Mitigation
-**%#a5ff38%Special Attack%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#4258c0%Special%% Damage
-**%#57dad6%Special Defense%%** | 0 | ɴᴏ ʙᴏɴᴜs | +0 %#4258c0%Special%% Mitigation
+**%#e76439%Attack%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#ac3232%Physical%% %#847e87%Damage%%
+**%#e69d31%Defense%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#ac3232%Physical%% %#847e87%Mitigation%%
+**%#a5ff38%Special Attack%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#4258c0%Special%% %#847e87%Damage%%
+**%#57dad6%Special Defense%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#4258c0%Special%% %#847e87%Mitigation%%
 **%#7c57ff%Speed%%** | 0 (+1) | Species Bonus | 5 %#7c57ff%AP%%
 
 ***
@@ -58,15 +58,15 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 #### ->Moves<-
 %#dcc6c2%Move%% | %#dcc6c2%Base Power%% | %#dcc6c2%Action Points%% | %#dcc6c2%Accuracy%% | %#dcc6c2%Type%% | %#dcc6c2%Property%% | %#dcc6c2%Description%%
 --- | -- | -- | - | :-: | :-: | ---------
-%#ff82b6%G%%%#d77bba%r%%%#76428a%av%%%#4d2f63%ity%% | - | 4 AP | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
-Disarming Voice | 4 BP | 5 AP | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
-Shock Wave | 6 BP | 5 AP | - | ![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
-Flash | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
-Basic Attack | 4 BP | 4 AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/zEMIRAISZUgDctRcYOnWHIXa) | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
+%#ff82b6%G%%%#d77bba%r%%%#76428a%av%%%#4d2f63%ity%% | - | 4 %#7c57ff%AP%% | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
+Disarming Voice | 4 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
+Shock Wave | 6 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
+Flash | - | 4 %#7c57ff%AP%% | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
+Basic Attack | 4 %#ac3232%BP%% | 4 %#7c57ff%AP%% | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/zEMIRAISZUgDctRcYOnWHIXa) | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 ***
 
-##### RP Moves
+##### %#9595b4%RP Moves%%
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 %#dcc6c2%Name of Move%% | %#dcc6c2%Description%%	
 ------ | :----: 
@@ -75,7 +75,7 @@ None | N/A
 
 ***
 
-#### ->Special Bonuses<-
+#### ->%#dcc6c2%Special Bonuses%%<-
 !!! note 59 IQ points to spend.
 	0/10 | ▯▯▯▯▯▯▯▯▯▯
 %#dcc6c2%IQ Skills Active/Inactive%% | %#dcc6c2%Description of Skill%% | %#dcc6c2%IP Cost%%
@@ -90,24 +90,25 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 
 %#dcc6c2%Attributes%% | %#dcc6c2%Tier Bonus%% | %#dcc6c2%Description%%
 ------ | :----: | :----:
-Attribute: Gravitational Potential | **ᴍᴀx** (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
-Attribute: Foraging | Tier **ɪɪ** (+2) | Skill in scavenging for useful food items and materials found in nature. 
-Attribute: Artifice | Tier **ɪɪ** (+2) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
+Attribute: Gravitational Potential | %#e69d31%**ᴍᴀx**%% (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
+Attribute: Foraging | Tier %#9595b4%**ɪɪ**%% (+2) | Skill in scavenging for useful food items and materials found in nature. 
+Attribute: Artifice | Tier %#9595b4%**ɪɪ**%% (+2) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
 Battle Attribute: ??? | - | - 
 
 ***
 
 %#dcc6c2%Training%% | %#dcc6c2%Next Tier Bonus%% | %#dcc6c2%Progress (Numerical)%% | %#dcc6c2%Progress Bar%%
 ------ | :----: | :----: | :----:
-Training for Attribute: Artifice | Tier **ɪɪɪ** | 1/3 | ▮▯▯
-Training for Attribute: Foraging | Tier **ɪɪɪ** | 1/3 | ▮▯▯
+Training for Attribute: Artifice | Tier %#e69d31%**ɪɪɪ**%% | 1/3 | ▮▯▯
+Training for Attribute: Foraging | Tier %#e69d31%**ɪɪɪ**%% | 1/3 | ▮▯▯
+Attribute: Meditation | Tier %#9e495d%**ɪ**%% | 1/3 | ▮▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 ***
 
-#### ->Inventory (4 slots)<-
+#### ->%#dcc6c2%Inventory%% %#dcc6c2%(%%%#847e87%4 slots%%%#dcc6c2%)%%<-
 *Items Espurr is carrying with them in their Leaf Bag.*
 %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
@@ -120,7 +121,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 ***
 
-##### Storage (2 slots)
+##### %#9595b4%Storage%% %#9595b4%(%%%#847e87%2 slots%%%#9595b4%)%%
 *Extra inventory slots separate from Espurr's normal inventory.*
 %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
@@ -129,17 +130,17 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 ***
 
-###### RP/Quest Storage (∞ slots)
+###### %#9595b4%RP/Quest Storage%% %#9595b4%(%%%#847e87%∞ slots%%%#9595b4%)%%
 %#dcc6c2%Type%% | %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | ------ | :----: 
-Accessory | Leaf Bag | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
-Accessory | Leaf Pouch | A small pouch weaved with grass tufts and leaves, made to contain small objects and grains.
+Accessory | %#99e550%L%%%#7ab049%e%%%#37663a%a%%%#264c37%f%% %#99e550%B%%%#7ab049%a%%%#37663a%g%% | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
+Accessory | %#99e550%L%%%#7ab049%e%%%#37663a%a%%%#264c37%f%% %#99e550%Po%%%#7ab049%u%%%#37663a%c%%%#264c37%h%% | A small pouch weaved with grass tufts and leaves, made to contain small objects and grains.
 Material | Rope | Three feet of rope, thick enough to be a useful material.
 Key Item | None | None
 
 ***
 
-#### ->Old Moves (∞ slots)<-
+##### %#9595b4%Old Moves%% %#9595b4%(%%%#847e87%∞ slots%%%#9595b4%)%%
 *Espurr is not the strongest Pokemon, but that doesn't mean they keep Moves without a use.*
 %#dcc6c2%Name%% | %#dcc6c2%Base Power%% | %#dcc6c2%Action Points%% | %#dcc6c2%Accuracy%% | %#dcc6c2%Type%% | %#dcc6c2%Property%% |%#dcc6c2% Description%%
 --- | -- | - | - | - | - | ---------

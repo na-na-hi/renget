@@ -11,22 +11,22 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 ---- | ----
 **Origin:** Prime Earth, Fragmented Memory | **Guild Role/Occupation:** Speedster!
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** Team Ruckus
-**Level:** 11 | **Experience to Next Level:** 100/110
+**Level:** 12 | **Experience to Next Level:** 10/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 860₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1110₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Inner Focus | The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.
 
 ->Rookie Rank<-
-->*340/400 points to Normal Rank*<-
+->*380/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+2) | Modifiers | Combat Effect
+Stat | Points: 1 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 11 (21HP) | 21HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Attack | 2 | (+1) Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -36,7 +36,7 @@ Speed | 3 |  +2AP | 6AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 ROCK SMASH | 4BP | 5AP | ≥2 | Fighting | Physical | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
-Leer | 0BP | 4AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
+Aerial Ace | 6 BP | 5 AP | - | Flying | Physical | No secondary effect.
 Endure | 0BP | 4AP | ≥2 | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
 Fling | ØBP | Ø AP | ≥2 | Dark | Physical | The User throws an Item; Damage varies. Effect varies.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -82,7 +82,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. ~~Rawst Berry~~ | ~~Soothes the user. Heals Burn.~~
+1. Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange. (600 ₽)
 2. Marble Stone | Does 4 true damage to a target, is lobbed.
 3.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
 4.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
@@ -109,5 +109,6 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Leer | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
+Focus Energy | The User's Crit Ratio is increased by 2.
 Eᴍᴘᴛʏ | Description

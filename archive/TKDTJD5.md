@@ -571,3 +571,265 @@ https://t.me/megatron_ron/1548  2/2/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.lanterne-rouge.info/AryJeay/status/1753577045525955055#m  2/2/24
+
+>🛑| 🇮🇶 STATEMENT by the Iraqi government regarding the US aggression:
+https://nitter.lanterne-rouge.info/AryJeay/status/1753716084736139277#m  2/3/24
+
+>TL;DR (summary)
+
+• The recent US aggression in Iraq resulted in 16 deaths, including civilians, and 25 injuries. 
+
+• Iraq strongly condemns the attack, and stated that US lied about a pre-coordination with the Iraqi government (it didn’t happen). 
+
+• The Iraqi government rejects the use of its territory as battlegrounds and calls for international adherence to legal responsibilities. 
+
+• Denounces the destabilizing role of the U.S.-led coalition in the region.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753717347179770306#m  2/3/24
+
+>Iran unveils Shafaq anti-armor missile, in a ceremony attended by Lieutenant General Seyed Abdolrahim Mousavi, the Chief Commander of the Army.
+Yusuf night vision system was also unveiled today.
+
+Shafaq is an advanced, intelligent & pinpoint missile with a range of 20km.
+https://nitter.lanterne-rouge.info/ProjectmeshkatE/status/1753757041816969597#m  2/3/24
+
+>🛑| CENTCOM claims:
+The USS Carney shot down a drone over the Gulf of Aden.
+
+Later that same day, at 9:20 PM, USS Laboon and F/A-18s from the Dwight D. Eisenhower Carrier shot down 7 UAVs over the Red Sea.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753773733200744540#m  2/3/24
+
+>🛑| 🇮🇶JUST IN: Islamic Resistance in Iraq announces:
+
+Attacked the Kharab al-Jir American base deep inside Syria with kamikaze drones.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753774247950881234#m  2/3/24
+
+>🛑| 🇮🇶 Statement by Hashd al-Shaabi (Popular Mobilization Forces/PMU) regarding the American aggression in Iraq:
+https://nitter.lanterne-rouge.info/AryJeay/status/1753780747146547586#m  2/3/24
+
+>⚡️Scenes from the Islamic Resistance in Iraq launching a kamikaze drone towards the American Kharab al-Jir base, in Syria.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753782608331210817#m  2/3/24
+https://files.catbox.moe/ouvw7l.mp4  2/3/24
+
+>Iraqi Al-Nujaba resistance Movement: 
+
+“We have surprises that will anger the enemy and please the friend, we will not compromise or retreat.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753784929446404460#m  2/3/24
+
+>Sky News hosts Israeli reservist Shari Mendes, who is known for her inaccurate and misleading statements regarding the October 7 attack. 
+
+The claims she purported to have witnessed have been debunked by several Israeli reports for misleading the public about the attacks.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753784897905336600#m  2/3/24
+
+>"Yes, we set fire to houses. As much as possible. And we are proud of it." said Director General of the Religious Zionism party, Yehuda Vald, who also participated in the invasion of Gaza, affirms an Israeli article that reveals Israeli generals commanding soldiers to burn down Palestinian houses in Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753788605506408857#m  2/3/24
+
+>The poll used by AP summarizes that 50% of U.S. adults believe that Israel's 15-week-old war in Gaza has "gone too far." Meanwhile, this disapproval is primarily fueled by increasing rejection among both US Republicans and political independents Americans.   The approval rating for Biden's handling of the war is 31% among U.S. adults, with only 46% of Democrats showing approval.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753771284951974011#m  2/3/24
+
+>Media coverage | According to Associated Press, Half of US adults say Israel has gone too far in war in Gaza, poll reveals.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753771281806209341#m  2/3/24
+
+>BREAKING| The Commission of Detainees’ Affairs and the Palestinian Society Prisoner’s Club say that Israel's military kidnapped at least 12 citizens in the West Bank, including former detainees. 
+
+This brings the total number of Palestinians, who have been kidnapped since October 7, to 6500. 
+
+The organizations added that Israeli authorities continue to conceal information about citizens kidnapped from Gaza.
+
+(Illustrative photo)
+https://nitter.lanterne-rouge.info/QudsNen/status/1753736526813417712#m  2/3/24
+
+>BREAKING| The spokesperson for the Iraqi government: 16 individuals were killed and 25 others were wounded in the American aggression Akashat and Qa'im Iraqi cities last night.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753722396266070045#m  2/3/24
+
+>⚡️ Hezbollah :
+
+We strongly condemn the blatant American aggression against Iraq and #Syria, which led to a number of martyrs and wounded.
+
+This aggression contributes to destabilizing the region, and exposes the falsehood of American claims that it does not want to expand the conflict in the region.
+
+- The American aggression contributes to fueling conflict and tension and escalating wars in the region.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1753795661865037909#m  2/3/24
+
+>⚡️#Lebanon: #Hezbollah: 
+
+We believe that this aggression pushes the #Iraqi and #Syrian people to adhere to the path of resistance to liberate their countries from the American occupation.  
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1753795875766206651#m  2/3/24
+
+ >Lindsey Graham:
+If you want war with us bring it on.
+
+We'll blow you up from the freaking map. I'm not worried about losing a war with Iran, they should be worried about losing it."
+
+Lindsey isn't worried because he won't be fighting the war. He will sit in Washington while his shares in the arms factories rise, while soldiers die.
+https://t.me/megatron_ron/1553  2/3/24
+
+>European countries that refused to support Israel's genocide and continued to fund UNRWA:
+
+🇮🇪 Ireland
+🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
+🇧🇪 Belgium
+🇱🇺 Luxembourg
+🇳🇴 Norway
+🇸🇮 Slovenia doubled funding
+🇵🇹 Portugal donating an extra €1ml
+🇪🇸 Spain trebled funding to €50ml.
+https://t.me/megatron_ron/1552  2/3/24
+
+>NEW:
+Former national security adviser John Bolton urged Biden administration to drop bombs directly on Iran
+https://t.me/megatron_ron/1551  2/3/24
+
+>⚡️WATCH: Al-Quds Brigades published a video showing mortar launches crush army concentrations and IOF soldiers on the front lines of Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753804293843415269#m  2/3/24  
+https://files.catbox.moe/ikk7rh.mp4  2/3/24
+
+>Ministry of Health in Gaza latest toll: "Israeli occupation commits 12 massacres against families in Gaza, resulting in 107 deaths and 165 injuries in the past 24 hours."
+
+"The death toll from the Israeli aggression has risen to 27,238 martyrs and 66,452 injuries since October 7th of last year."
+https://nitter.lanterne-rouge.info/QudsNen/status/1753821435443687847#m  2/3/24
+
+>BREAKING:
+
+⚡ Iraq is fed up with the traitor in Jordan
+
+Iraq has suspended the export of subsidised oil to Jordan for its participation in air strikes on Iraqi soil, although Jordan has denied its involvement.
+
+American media have already confirmed that Jordan participated in the bombings.
+
+Jordan has long been stabbing the Palestinians and working in the interests of Israel.
+https://t.me/megatron_ron/1562  2/3/24
+
+>Iran has put its entire military on high alert, activated air defense systems and deployed ballistic missiles along the Iraqi border - NYT
+https://nitter.lanterne-rouge.info/Sprinter99800/status/1753880443722650050  2/3/24
+
+>🛑| BREAKING:
+
+According to sources for Al-Mayadeen, the (2nd) bombing of the US Conoco military base, was with 8 rockets, and they reached their targets accurately. 
+
+The sounds of explosions were heard in the northeastern countryside of Deir ez-Zor.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753881824386863373#m  2/3/24
+
+>BREAKING| Reuters reports citing US officials: We are conducting strikes against targets linked with Iran in Yemen.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753890348567273869#m  2/3/24
+https://files.catbox.moe/iudo7m.mp4  2/3/24
+
+>BREAKING| Al Maseerah TV: 11 American-British airstrikes have targeted Taizz in Yemen.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753891283494445121#m  2/3/24
+
+>BREAKING:
+
+ 🇺🇸🇮🇱 US House will vote next week on a bill providing $17.6 billion gift in military aid to Israel
+https://t.me/megatron_ron/1568  2/3/24
+
+>🛑| Al-Jazeera quoted US officials: The aggression on Yemen is considered a next round of retaliation for the killing of 3 US soldiers in Jordan. The raids were carried out on 36 targets in 13 locations.
+
+So they bomb Yemen to retaliate against Iraqi resistance attacks?
+https://nitter.lanterne-rouge.info/AryJeay/status/1753901987840569646#m  2/3/24
+
+>⚡️ US Secretary of Defense:
+
+We carried out the attacks with the support of Australia, Bahrain, Canada, Denmark, the Netherlands, and New Zealand
+The recent strikes further disrupted and reduced the capabilities of the #Iranian-backed Houthi militia
+We will not hesitate to defend lives and the free flow of trade in one of the world's most important waterways
+The strikes are a message to the #Houthis that they will bear the consequences of not stopping attacks on international ships
+https://nitter.woodland.cafe/ME_Observer_/status/1753911590003380419#m  2/3/24
+
+>Footage of the US-UK aggression on Yemen tonight. Footage looks legit.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753911674271158340#m
+
+>US Rep. Thomas Massie announces that he will vote against a bill next week to send Israel $14.3 billion.
+
+"Israel has a lower debt to GDP ratio than the United States. This spending package has no offsets, so it will increase our debt by $14.3 billion plus interest", he stated.
+https://nitter.lanterne-rouge.info/QudsNen/status/1753920331524329585#m  2/3/24
+
+>⚡️BREAKING| #Israel-i airstrikes target tents of displaced civilians in the so-called safe area in Rafah south of #Gaza.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1753913280668610642#m  2/3/24
+
+>BREAKING:
+
+⚡U.S. and the Houthis are in action tonight
+
+Reports of renewed U.S. and U.K. strikes near the cities of Sanaa, Hodeidah, Dhamar, Taiz, Hajjah and Al-Bayda in Yemen.
+
+Sources are also claiming that within the last few minutes the Houthis have launched several anti-ship ballistic missiles towards the US ships in the Red Sea and Gulf of Aden.
+https://t.me/megatron_ron/1570  2/3/24
+
+>President of Ireland, Michael D Higgins, called on Saturday for an immediate ceasefire in Gaza and for supporting UNRWA, stressing that "any further extension of the bombing campaign into what is a densely populated area to which so many people have fled would leave any respect for humanitarian law in tatters."
+https://nitter.lanterne-rouge.info/QudsNen/status/1753931393535471829#m  2/3/24
+
+>⚡️| 🌍 𝗕𝗜𝗚 𝗦𝗨𝗠𝗠𝗔𝗥𝗬 𝗼𝗳 𝗮𝗹𝗹 𝗿𝗲𝘀𝗶𝘀𝘁𝗮𝗻𝗰𝗲 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗼𝗱𝗮𝘆, 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆 𝟯 (𝟮𝟬𝟮𝟰), 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝗨𝗦-𝗶𝘀𝗿𝗮𝗲𝗹𝗶 𝗳𝗼𝗿𝗰𝗲𝘀:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Merkava tank with Yassin-105s, west of Khan Yunis, southern Gaza.
+
+🔻Shelled military gatherings, west of Gaza City with mortar rounds.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Downed an IOF quadcopter drone and seized control of it while it was performing its intelligence tasks in the southwestern axis of Khan Yunis.
+
+🔻Shelled Israeli forces' gathering around the "Abu Safiya" military site east of central Gaza.
+
+🔻Targeted a military D9-bulldozer, followed by engaging IOF soldiers, resulting in a casualty and a captured weapon cache.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Engaged in fierce clashes, using machine guns and appropriate weapons, with IOF soldiers and vehicles on the axes west of Khan Younis.
+
+🔻Shelled the "Ra’im" military base, east of central Gaza, with a rocket barrage.
+
+🔻Shelled israeli forces' gatherings and vehicles with mortars, in the western axes of Gaza City.
+
+🔻Blew up an IOF military vehicle, west of Gaza City, with “Asif” explosives and RPGs, then continued hitting it with an RPG, which led to its destruction, confirming deaths and injuries among its crew.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled israeli forces' gatherings in Arafat, with a barrage of medium-caliber mortars.
+
+🔻Targeted an IOF military vehicle with an anti-tank rocket, in the western axis of Gaza City.
+
+🔻Targeted israeli forces' gathering, in the eastern Jabalia axis, with heavy machine guns.
+
+🔻Engaged in fierce clashes with IOF soldiers and vehicles in the axes of Al-Rimal, around the Al-Jawazat area, and around the Communications area with appropriate and various weapons.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Engaged in fierce and violent clashes with IOF forces, using appropriate weapons, in the axes of the universities area, industry, and Jawazat, west of Gaza City.
+
+🔻Targeted a military IOF gathering of vehicles, northeast of Khan Younis, with a number of heavy-caliber mortars. 
+
+🔻Destroyed a military vehicle and shelled their positions with heavy-caliber mortars.
+
+— 🇵🇸 Al-Asifah Forces:
+
+🔻Shelled military gatherings in the vicinity of the "Kissufim" military IOF site, with a barrage of mortars.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Khirbet Ma’ar IOF base with appropriate weapons.
+
+🔻Targeted the Al-Ramta IOF site in the occupied Shebaa farms with rockets.
+
+🔻Targeted the Al-Samaqa IOF site in the occupied Shebaa farms with rockets.
+
+🔻Targeted the Even Menahem settlement with appropriate weapons.
+
+🔻Targeted the positions of israeli soldiers in the Yaroun settlement with appropriate weapons.
+
+🔻Targeted the Al-Samaqa IOF site in the occupied Shebaa farms, for the 2nd time with rockets.
+
+🔻Targeted a gathering of israeli soldiers in the Cobra hill with rockets.
+
+🔻Targeted the Branit IOF barracks with Falaq-1 rockets.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the US Kharab Al-Jir base deep inside Syria with kamikaze drones.
+
+🔻Attacked the US Al-Harir base near Erbil, in northern Iraq, with kamikaze drones.
+
+🔻(unofficial/not announced yet) attacked the US base in Conoco (Syria) with rockets, in two waves, accurately hitting its targets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1753938249649717398#m  2/3/24

@@ -6,7 +6,7 @@ You know what to call me!
 · | ->· ->
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
-**Species:** Scorbunny | **Affiliation:** The Clover Force
+**Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 12 | **Experience to Next Level:** 40/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 484₽ | **Glorious Gold:** 0 Bars
@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 17 points to spend.
+    You have 27 points to spend.
     5/12 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -79,9 +79,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Blast Seed | Explodes on contact for 10 true damage.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
-3. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
@@ -89,8 +89,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
-
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.

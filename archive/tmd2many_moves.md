@@ -17,7 +17,7 @@ Formatting | Description
 ~~Strikethrough~~ | Listings with ~~Strikethrough~~ names have been removed from the game, and no longer exist.
 **(Parenthesis)** | Listings with **(Perenthesis)**, usually **Bold** and proceeding a ~~Strikethrough~~, have had their names changed.
 
-## Attacking Moves ![Strike With Force...](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) ![...Or Precision?](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png)
+## %#ff4400%Attac%%%#2266cc%king%% Moves ![Strike With Force...](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) ![...Or Precision?](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png)
 !!! info Every Pokémon can use Pokémon Moves. Only four of a Pokémon's potential Moves may be a part of their active Moveset at a time.
     Moves listed in **Bold** have been changed significantly in some way.
 
@@ -580,7 +580,7 @@ Zing Zap | 8 BP | 6 AP | ≥2 | Electric | Physical | 14-20; The Opponent is aff
 
 ***
 
-## Status Moves ![Enchant The Battlefield!](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png)
+## %#999999%Status%% Moves ![Enchant The Battlefield!](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png)
 !!! info Not all Moves deal damage. Status Moves are Moves with unique, non-damaging effects, seeking to amplify, debilitate, and otherwise shift the state of the battle through less direct means.
     Status Moves, with rare exception, always cost 4 AP, and only one may be used per turn. 
 
@@ -844,7 +844,7 @@ Yawn | - | 4 AP | - | Normal | Status | After 1 round, the Opponent is afflicted
 
 ***
 
-## Unique Moves
+## %#cd473b%U%%%#e76439%n%%%#e69d31%i%%%#a5ff38%q%%%#57dad6%u%%%#7c57ff%e%% Moves
 !!! info Some Moves stand apart from the others with their unique qualities. This list is only here until I sort things out afterwards.
     You should feel special if you have these cool Moves, because you aren't supposed to have them.
 
@@ -869,7 +869,7 @@ Destruction on an Unimaginable Scale | ??? | ??? | ??? | ??? | ??? | ???
 
 ***
 
-### Fling Table
+### %#5a5465%Fling%% Table
 !!! info Here is a table for all of Fling's possible throwable damage values.
     This table does not list all possible Items, only the weights and damage associated with them. The weight of an item is up to the GM.
 
@@ -887,7 +887,7 @@ Very Heavy | 13 BP | 8 AP
 
 ***
 
-### Secret Power Table
+### %#919aa2%Secret Power%% Table
 !!! info You may need to ask a GM which effect suits the Environment using this list.
     Once you know which effect will be used, use Ctrl + F in the [Rule List](https://rentry.co/tmd2many_rules#status-moves) to see for its details. 
 Environment | Effect | .
@@ -910,7 +910,7 @@ Dreams & Psychic Terrain | The next round, the Opponent's [Speed](https://rentry
 
 ***
 
-### Natural Gift Table
+### %#919aa2%Natural Gift%% Table
 !!! info Here is a table for all of Natural Gift's outcomes.
     Use Ctrl + F to determine what BP and Type an Item is when Natural Gift is used.
 Item | BP | Type | Item | BP | Type | Item | BP | Type
@@ -950,7 +950,7 @@ Empowerment Seed | 20 BP | Dragon | Star Fuel | 10 BP | Fairy
 
 ***
 
-### Nature Power Table
+### %#919aa2%Nature Power%% Table
 !!! info You may need to ask a GM which Move suits the Environment using this list.
     Once you know which Move is available, use Ctrl + F to search for its details. 
 Environment | Move | Type
@@ -973,7 +973,7 @@ Dreams & Psychic Terrain | Psychic | Psychic
 
 ***
 
-### Recycle Table
+### %#919aa2%Recycle%% Table
 !!! info Here is a table for all of Recycle's outcomes, in and out of combat.
     Once you know which Item will be Recycled, use Ctrl + F in the [Items List](https://rentry.co/tmd2many_items#consumable) to see its effect.
 Utilizing the Move Recycle, Plain Seeds can be used to create a different Seed while not in combat. These outcomes are entirely random, selected based on the number rolled on a D20. 
@@ -1000,7 +1000,7 @@ When using Recycle in battle, it can recover an Item which was used in battle wi
 
 ***
 
-## Attack Arts ![Wild MISSINGNO. appeared!](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs)
+## %#64aa95%Attack Arts%% ![Wild MISSINGNO. appeared!](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs)
 !!! info Attack Arts are specific, Typeless Moves with special effects sometimes unique to them. 
 	They can be acquired through Move Tutors, and replace a Pokémon's Basic Attack opposed to a normal Move Slot.
 

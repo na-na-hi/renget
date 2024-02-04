@@ -16,14 +16,11 @@ Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololi
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Streams
-Next stream (Kuukiyomi, Sat 02/03 7PM CT)
+Next stream: Palworld (Sun 02/04 7PM CT)
+Last stream (Kuukiyomi)
 https://www.youtube.com/watch?v=YR6IV_OdWAg
-Previous member stream (zatsudan & ASMR practice)
-https://www.youtube.com/watch?v=NI_GH8V4UoE
 Previous appearance (FWMC birthday countdown)
 https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
-Last public stream (Stardew Valley)
-https://www.youtube.com/watch?v=0m-QTagWa3I
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
 https://s.goodsmile.link/gmC

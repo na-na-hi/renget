@@ -47,11 +47,11 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 25 points to spend.
-    0/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
+    You have 7 points to spend.
+    2/10+2 IP | ▮▮▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Natural Rivalry | If the User's Pokémon species is involved with stated Predator/Prey relationships or has a Natural Rival, attacking that Pokémon will count as Super-Effective. However, that Pokémon will also have Super-Effective against the user. | 2 IP
 2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP

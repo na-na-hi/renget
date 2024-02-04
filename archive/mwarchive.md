@@ -70,6 +70,8 @@ Likewise, generic low-effort mspaint memes and reactions, infographics, duplicat
 - January Archive
 - Part 1 - 2.6 GB - 9,000 images
 - https://pixeldrain.com/u/SwPKGo8M
+- Part 2 - 2.4 GB - 8,500 images
+- < uploading >
 
 # PDFs
 

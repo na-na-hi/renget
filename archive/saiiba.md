@@ -3,4 +3,4 @@
 ->also go by **rio**<-
 ->%#ffaed1%꒰%% 19 %#ffaed1%꒱%% blk ☆ any prns<-
 ***
-->[ext.](https://rentry.co/xinran) 𐐪𐑂 [dni](https://rentry.co/belle)<-
+-> [ext.](https://rentry.co/xinrana) 𐐪𐑂 [dni](https://rentry.co/belle)<-

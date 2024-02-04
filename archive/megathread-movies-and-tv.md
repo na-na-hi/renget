@@ -97,10 +97,6 @@
 - Perfect platform to enjoy full movies and TV series online. With multilingual subtitles available.
 - [URL Safety Results](https://www.urlvoid.com/scan/ask4movie.li/)
 
-### ▶️ [BingeWatch](https://bingewatch.to/)
-- Your one stop destination. Here, you can search for and watch movies with a single click , no need to register, log in, or pay anything.
-- [URL Safety Results](https://www.urlvoid.com/scan/bingewatch.to/)
-
 ### 🐐 [Braflix](https://www.braflix.app/)
 - Constantly updated movie database is the perfect haven for all you passionate film buffs out there.
 - [URL Safety Results](https://www.urlvoid.com/scan/braflix.app/)
@@ -184,6 +180,10 @@
 ### ▶️ [MyFlixer](https://myflixerz.to/) / [2](https://myflixer.today/) / [3](https://myflixertv.to/) / [4](https://myflixer.pw/)
 - A fantastic selection of free high-definition movies and series. New content and episodes are uploaded on an hourly basis.
 - [URL Safety Results](https://www.urlvoid.com/scan/myflixerz.to/)
+
+### ▶️ [NetFilm](https://netfilm.app/)
+- HD quality streaming of the latest movies, with no sign-up required, no buffering, and just one click away.
+- [URL Safety Results](https://www.urlvoid.com/scan/netfilm.app/)
 
 ### ▶️ [Nites TV](https://nites.is/)
 - Streaming platform for watching movies and TV shows online in exceptional full HD quality.

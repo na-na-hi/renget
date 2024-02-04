@@ -303,49 +303,92 @@ Lliam nodded. “The last place I can think of, within reason, is in the Air Con
 ***
 
 Vileplume awoke in his bed the following afternoon. When he looked around, he saw the Bellossom was already awake and Enny had already left. Adrian was still sleeping in his nest of pillows. When he finally woke up, the three went to the mess hall for dinner.
+
 Upon entering the mess hall, Vileplume noticed a couple odd stares from some of the people eating. He noticed most of the staring was directed towards Adrian. It seemed nobody in the guild recognized him as an eevee.
+
 Bellossom and Adrian sat down while Vileplume went to pick up food for his table. He returned with three bowls of chili, one smaller than the rest. The team ate silently for a while until a very ecstatic wooper suddenly approached their table.
+
 “Hi! Is that a new member of your guys' team?”
+
 “Uh… Wooper, this isn’t-” Bellossom tried to interject.
+
 “Hey eevee! I heard you like mudkips!” Wooper said.
+
 “Shut the fuck up,” Adrian replied
+
 “Another human!” Wooper declared triumphantly. “It’s funny. The umbreon on your guys’ team had the exact same response.”
+
 Vileplume began to say, “Yeah, that’s probably because-”
+
 “Wooper!” A chespin called out, chasing after his partner. “You can’t keep running off every time you see a new-”
+
 “Chespin, you won’t believe it! Vileplume and Bellossom found another human, and it’s an eevee!”
+
 “He’s not another human!” Vileplume blurted out. “This is Adrian, the umbreon, our team’s leader.”
+
 The two were taken aback. “That’s the umbreon who tried to kill Cyndaquil in the mess hall?” Chespin asked in disbelief.
+
 “He wasn’t trying to kill him,” Bellossom said in his defense.
+
 “It’s not important right now. Adrian got turned into an eevee by some orb and we’re trying to figure out how to get him back to normal,” Vileplume explained.
+
 “A devolution orb?” Chespin guessed. “Wooper and I have had a few run-ins with those before.”
+
 “And you’re both still unevolved?” Bellossom questioned.
+
 “Yeah! That’s why we went looking for them in the first place!” Wooper said with a somehow wider smile.
+
 “Wooper and I thought it would be a good idea to evolve when Luminous Spring opened up, but we ended up regretting it big time,” Chespin said.
 “But didn’t it make you stronger? More mature?” Vileplume asked.
+
 “It didn’t make us mature, it changed who we were completely! Wooper and I acted like totally different people. Being a Chesnaught made me talk like a kid larping as a knight, impossible to enter my own room, and I wasn’t able to feel my blanket anymore. It was horrible.”
+
 Vileplume tilted his head in confusion. “Larping? I… guess I could see a human finding evolution strange. Wooper though?”
+
 “I just wasn’t the same as a quagsire. Besides, we work better with each other this way,” Wooper said.
+
 “How so?” Vileplume asked.
+
 “Well when Chespin and I fight, he usually picks me up with his vines while I shoot at people,” Wooper explained. “It lets me use my Hydro Pump at its full power without having to deal with the recoil!”
+
 “That’s pretty creative, actually. I’m impressed,” Vileplume said.
+
 “Evolution doesn't always make you stronger. Physical power isn't everything in a fight,” Chespin said.
+
 “I don’t think Viley and I changed too much when we evolved besides acting more our age. We never learned to fight as oddish, though,” Bellossom said. “I guess it just depends on the pokemon.”
+
 “I just wish Adrian took his devolution as well as you two did,” Vileplume said. The two teams looked over at Adrian who, now having everyone’s attention, immediately ducked his head under the table.
+
 “Has he always been this timid?” Chespin asked.
+
 “No!” Adrian shouted from under the table.
+
 “I’m not really sure why he's acting this way,” Vileplume said.
+
 “Well I mentioned how when I evolved, I started talking like a knight. I think it’s safe to say your form can have some impact on how you act. Maybe him getting turned into an eevee has made him more like a kid in some way,” Chespin speculated.
+
 “You might be onto something there.”
+
 “Yeah… so do you guys have a plan for how you’re gonna get Adrian evolved again?” Chespin asked.
+
 “Yeah actually. Right now we need to find an item that’ll let him evolve. We already know where we’re going for this,” Vileplume said.
+
 “Would you guys like some help? We could join you,” Chespin offered.
+
 “I don’t think that’s a good idea. It’ll be a long trip. We’re going to the Air Continent. Apparently Pokemon Square has a spot that lets pokemon evolve.”
+
 Wooper got really excited upon hearing that. “I know that place! That’s where my parents evolved!”
+
 “So it’s not just a legend?”
+
 “Of course not! Luminous Cave is like, THE place where pokemon evolve in the Air Continent!”
+
 “Well at least we know it’s reliable. That’s where we’re going, though,” Vileplume said.
+
 Chespin nodded. “Well if we can’t join you for the trip, maybe we could give you some supplies?”
+
 “That would actually be really helpful,” Vileplume said. “We only got paid half the reward for our last mission, so we’re kind of low on cash.”
+
 “Cool! Just stop by our room before you leave. We’ll see what we can get you.”
 
 ***
@@ -401,3 +444,193 @@ Vileplume picked up the box. It was oddly heavy despite its small size, but it s
 “Wonderful to hear! Good luck with your journey!”
 
 And with that, Vileplume and Bellossom set off to the guild. With a new plan to get Adrian back to normal, and a new mission, they felt far more hopeful for the future than they had in a while.
+
+##Floatzel's Shop
+
+The next afternoon, Team Moonshine started preparing for their journey to the Air Continent. Enny had returned at some point while they were asleep. Vileplume tried to ask him about his night with the merchant. Enny’s answer was brief and to the point. “Ice types cannot keep a person warm at night”.
+
+The plan was explained to Enny. Get to the air continent, deliver the package, and evolve Adrian. After this was settled, the group split up. Adrian and Enny worked on packing up their supplies while Bellossom and Vileplume went over to see Team Cozy.
+
+When they arrived at Team Cozy’s room, Chespin and Wooper started digging through their bags, scrounging up some stuff they figured would be useful. A few oran berries, an escape orb, and some blast seeds, (to keep the chillers at bay). 
+
+“Oh, and one more thing,” Chespin said as he reached into one last bag. He pulled out two bottles and handed them to Vileplume. Vileplume read the labels. *Spinda’s Grass Gummi Soda*.
+
+“Wow… these aren’t that cheap. Are you sure it’s fine if we take these?” Vileplume asked.
+
+“Don’t worry about it. Wooper and I have plenty,” Chespin said.
+
+“Where did you get the money for all the drinks?”
+
+“First mission we went on gave us some pretty good treasure. A whole chest full of frisms, believe it or not. I don’t have any other flavors right now, otherwise I’d give you some for Adrian and the sylveon on your team. Hopefully you and your sister like them, though.”
+
+Vileplume was still surprised by the kind gesture. “I don’t really know what to say. All this stuff is really helpful. Thanks, guys.”
+
+Chespin dismissed it. “Don’t worry about it. Everyone in the guild needs to be in their best shape.”
+
+***
+Vileplume and Bellossom traveled out to the docks of Capim Town. Adrian and Enny were waiting there for them. Vileplume quickly ran down the list of things errands, making sure everything they needed for this trip was done. Once he was sure they were ready, the team booked a Lapras to take them to the Air Continent.
+
+The journey to the Air Continent would take about two days thanks to the jet streams connecting it to the Grass continent. There was plenty of space on the lapras’s shell, but they couldn’t use their blankets or pillows because of the chance for them to fall into the ocean and get soaked. The nights were very cold as a result. Worst of all, while Vileplume made sure they were prepared for pretty much any situation they could come across in the Air Continent, boredom was not something he’d thought of.
+
+“Do you guys have any questions about the plan when we get there?” He asked his team.
+
+“This is like, the third time you’ve asked us since we left the harbor,” Enny said.
+
+“Sorry, I’m just trying to find something to talk about. You got any ideas, Bell?”
+
+“Um… Enny, do you have any more stories from the human world?”
+
+“I’ve kind of told most of the stories I remember at this point. What about you two? You’ve lived in this world your whole lives, I’m sure you’ve got some interesting stories.”
+
+Vileplume shook his head. “We’ve lived pretty ordinary lives. I’ve said this before, but our mom raised us herself after closing down her inn at Capim Town.”
+
+“What about your dad?” Enny asked. “Is he still around?”
+
+“No, not really,” Bellossom said. “I’ve never met him myself.”
+
+“I was old enough to remember him,” Vileplume said. “He was an explorer before he met our mom. He left a few months after Bellossom was born.”
+
+“He just left you to go treasure hunting?” Enny asked.
+
+“It wasn’t like that! At least, that’s what ma told us,” Vileplume explained. “He really did love me and Mom, and he wanted to raise Bellossom. It’s kind of complicated. You see, he used to be part of a team. ‘The Summer Storms’ is what they went by. Dad left his team so he could work a normal job and raise his family, you see. When he left, his two partners continued the team.”
+
+“So what happened to him?”
+
+“So, a little after Bell was born, one of his old teammates, a galvantula, sent him a letter. Apparently, a mission to clear some bandits out went south and his partner got captured. Galvantula asked Dad to come back and save him, and he felt he had to. So, he left to save his team and never came back. Maybe he got killed, maybe his team betrayed him, or maybe he just didn’t feel like being around us anymore…”
+
+
+Vileplume felt the touch of a ribbon on his side. Enny had placed ribbons on both him and Bellossom. “I didn’t mean to make you guys sad.”
+
+“It’s alright, Enny,” Bellossom said, brushing the ribbon off herself. “Let’s just shift the subject.”
+
+The team went silent again for a minute. Nobody's quite sure what to say. Enny thinks of a good topic, though. “So… Adrian?”
+
+The eevee's ears perk up. He was content spectating the conversation, but now the focus was on him.
+
+“Have you considered what form you'll evolve into?”
+
+“I want to be an umbreon. That's why we're traveling to the Air Continent to begin with,” Adrian said.
+
+“Yeah, but have you considered that maybe it’d be more helpful to evolve into something else?” Enny pointed out.
+
+“Um…”
+
+“It’s true, Adrian,” Bellossom agreed. “If you were to become a Vaporeon, you could cover our fire weakness.”
+
+“I-”
+
+“Or if you were a flareon, I wouldn't have to fear steel types at all!” Enny said.
+
+“I don't really-”
+
+“Jolteon would cover flying and steel, Enny,” Bellossom argued.
+
+“Yeah, but flareons cover bug, ice, and steel. Also, they’re so fluffy! He could light our campfires AND snuggle with us at night!”
+
+“Guys!” Vileplume interrupted them. “You can't pressure him. Adrian's gotta make this decision for himself. If he's gonna be an umbreon, let him!”
+
+“But think about the advantage we could-”
+
+“Enny, it doesn't matter. You two are scaring him,” Vileplume pointed past Enny towards Adrian.
+
+Bellossom and Enny turned and looked at him. He was covering his ears and shivering.
+
+“Oh.”
+
+Bellossom and Enny apologized profusely, but Adrian didn't ease up. After several minutes of trying to calm him down, the team just gave up.
+
+“I knew his tough guy act was hiding something, but I never could've imagined he’d be so unstable,” Enny whispered to Bellossom and Vileplume.
+
+“You’re right,” Bellossom said. “Eevees aren't really known for bravery, but Adrian's pretty skittish.”
+
+“All the more reason to finish this job quickly,” Vileplume said as he walked closer to the lapras’s head. “How much longer until we reach the Air Continent?”
+
+“Only an hour or so,” she answered. “You should be able to see it on the horizon.”
+
+Bellossom and Enny ran up to see. Far off in the distance, there was a huge landmass slowly growing in size. It filled everyone's eyes with wonder. Enny, of course, had never seen the Air Continent in person. Vileplume and Bellossom never got the chance to travel, so they appreciated the view. Nobody was more excited than Adrian, however.
+
+The eevee ran between Enny's legs and stared off in the distance with wonder. Vileplume and Bellossom didn't really understand his fascination. Regardless of their confusion, this was the first time they’d seen Adrian look genuinely happy. Definitely an interesting sight.
+
+The shore grew closer and closer until eventually they reached the docks of Baram Town. Everyone dismounted and, with no time to waste, set off towards the Floatzel's shop.
+
+***
+
+The first day was uneventful. They didn't get too far until sunrise, so they set up camp outside of town. The warmth of a fire was a true gift compared to the cold of the sea. They could finally use their blankets, too. 
+
+When they awoke the following day, they continued walking the trail until they spotted something off.
+
+A pawniard was lying on the ground, covering his stomach and crying for help. Bellossom, Enny, and Vileplume all ran towards it while Adrian kept his distance.
+
+“What's going on?” Bellossom asked. “Are you hurt?”
+
+The pawniard looked up. “I got jumped by bandits. T-they took my st-stuff and l-left me here.”
+
+“It’ll be alright, we’re an exploration team! Let me see the wound.”
+
+“Sure thing,” the pawniard said as he slowly moved his blades, revealing a bright orb underneath. He smashed the orb, creating a bright flash and stunning the three explorers.
+
+“You idiots!” Adrian called. “That was such an obvious tra-AAAHH”
+
+Vileplume heard his voice growing distant. When his sight returned, he saw the pawniard had run off and Adrian had been picked up by a beedrill. As Enny prepared to shoot the bug out of the sky, he was interrupted by a sudden slash from a bisharp that had been hiding on the side of the road.
+
+With the fight properly started, Bellossom ran over to support Enny while Vileplume dealt with the beedrill. While in the air, the bug wrapped Adrian in a cocoon using String Shot and dropped him to the ground. Vileplume realized very quickly that he had no way to reach the flying pokemon.
+
+Vileplume tried to reach into his satchel, but the beedrill just swooped down and jabbed him. Thankfully, whatever the attack was didn’t hurt him too badly. Vileplume’s type pairing wasn’t enough to resist the bug’s attacks very well, but he could manage a few more hits. The beedrill was only attacking when it knew he was distracted. This gave Vileplume an idea.
+
+Vileplume looked back at his bag, pretending to reach into it. When he heard the beedrill getting close, Vileplume released a set of stun spores into the air. When the beedrill make contact with the spores, it immediately froze up and crashed into Vileplume. The two slammed into a nearby tree. Vileplume was now pinned under the weight of the beedrill, but at least it wasn't able to move anymore.
+
+Vileplume watched Enny and Bellossom battle the bisharp. Enny was being forced to dodge a constant flurry of cuts and slashes from the bisharp. As Enny’s stamina started to drain, the attacks started connecting more and more. 
+
+Vileplume knew he had to help somehow, but he couldn't get the beedrill off of him. He called over to Bellossom for help. She abandoned her fruitless attempts to take down the bisharp with powders to help her brother. With their combined strength, they were able to get the beedrill off of Vileplume.
+
+Vileplume quickly scurried over to his bag and dig around inside it. He pulled out one of the blast seeds Chespin had given him and threw it at the bisharp. The explosion sent it flying away from Enny. As the bisharp slid across the dirt road before it slowly tried to stand back up. Before it got the chance, Enny shot another disarming voice at it. The bisharp fell back to the ground, and the fight was finished.
+
+Vileplume walked over to where Adrian had been dropped and started tearing the webbing off of him. Adrian's head burst out of the cocoon, gasping for air.
+
+“I swear to God… we are getting this job finished NOW,” he declared.
+
+“Not a fan of being all soft and delicate?” Enny mocked in a high-pitched tone.
+
+“I will fucking kill you when I evolve again.”
+
+***
+
+After a brief medical checkup and finding nobody severely injured, the group continued their journey and eventually arrived at the shop marked on their map. There was a small market stand set up around a large tree with various shelves nailed to the trunk. Hanging from one of the branches was a sign that read “Floatzel's Affordable Groceries”. Standing at the front counter was a well dressed Floatzel.
+
+![Come back when you're a little, hmm, richer](https://i.imgur.com/pZdBa2U.png)
+
+“Ah, new customers!” Floatzel greeted the team. “Welcome to my shop. It's been a while since I've been able to get supplies due to the bandits, so please don't judge the selection too harshly.”
+
+“I think we actually took care of your bandit problem on the way here.” Vileplume said. “Took care of two thieves on the road, and the third one ran off.”
+
+The Floatzel seemed amazed. “Really? That's wonderful! I swear, those bandits have been targeting my shipments and customers for weeks! If I didn't know better, I’d have guessed they were working for the Kecleon Brothers.”
+
+Everyone's eyes went wide at that remark.
+
+“The Kecleon Brothers?” Vileplume asked, wanting to make sure he hadn't misheard him.
+
+“Oh, I couldn't prove it, but I swear those bandits have only shown up after I declined that buyout offer from the Kecleon Brothers,” Floatzel said. “It's not proper etiquette to gossip, though. I posted a reward for those bandits, and it seems like you four earned it.”
+
+Floatzel reached under his counter and pulled out a larger stack of coins. When Vileplume counted it, the total was at least 5,000 poke.
+
+“There's no way we can accept this much,” Vileplume tried to decline. “We didn't know there was a bounty for them.”
+
+“Oh don't be modest, the service you’ve done for me is far more valuable than any payment I can offer you,” Floatzel insisted. “Besides, there's a good chance that money will just wind up back in my shop.”
+
+“Um… we weren't here to buy anything actually,” Bellossom explained.
+
+Vileplume explained. “We were actually sent here to deliver a package.”
+
+Floatzel looked confused. “From one of my suppliers?”
+
+“From the Kecleon Brothers.”
+
+Floatzel's expression went from confusion to dread. “What's in the package?”
+
+Vileplume got really nervous. “I-I don't know. They told us not to open it.”
+
+Floatzel's eyes darted around for a moment, as if he was looking for someone. He took a deep breath before saying, “Alright then. Let's see it.”
+
+Vileplume reached into his satchel and pulled out the box. He handed it over to Floatzel who took it with shaky paws. Floatzel slowly unwrapped the string and tried to open the box. The lid was on tight, so he pulled hard on it. When the lid finally snapped off, something inside the box detonated, creating a massive fireball that consumed Floatzel and his entire shop. 
+
+“Jesus fucking Christ!” Enny shouted. “What have we done?!”

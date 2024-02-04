@@ -26,29 +26,42 @@ Note: Opening more boxes is always better than opening them one at a time in to 
 
 Let’s talk about the bread and butter of Limbus, the characters. Here are the best IDs for each of the sinners. That way, you’ll have one for each of the sinners.
 
-Spicebush Yi Sang. The One Who Grips/Seven Faust (Debuffs and the other is for damage and clashing). W Don. W Ryoshu. Rhino Mersault. K Corp/Ting Tang/Dieci Hong Lu (Immortal/tank, damage/support passive, pure damage/discard). Rabbit/QQ Heathcliff (A must-pick and the other shreds in Bleed teams). All of Ishmaels 000 IDs are good, but my favorite is Reindeer (note: This guide is before Ahabmael). Dieci Rodion. N Corp/Cinq (first is a boss killer, and the other is good for longer fights). Unless you have Molar Outis in your dispenser, don’t bother sharding any of her IDs. Pirate Gregor
+Yi Sang: Spicebush
+Faust: The One Who Grips (debuffs) / Seven (damage and clashing)
+Don Quixote: W Corp
+Ryoshu: W Corp
+Mersault: Rhino.
+Hong Lu: K Corp(Immortal/tank) / Ting Tang(damage/support passive) / Dieci (pure damage/discard)
+Heathclif: Rabbit (A must-pick) / QQ (shreds in Bleed teams)
+All of Ishmaels 000 IDs are good, but my favorite is Reindeer (note: This guide is before Ahabmael)
+Rodion: Dieci
+Sinclair: N Corp (first is a boss killer) / Cinq (good for longer fights)
+Unless you have Molar Outis in your dispenser, don’t bother sharding any of her IDs
+Gregor: Twinhook
 
-Note: A lot of these IDs stink at Uptie 1. At the very least, you should always Uptie them to Tier 3. Uptying your IDs is more important than leveling them up. At Uptie 3, you unlock their skill 3 and passives, while Uptie 4 gives them more stuff to do. In Mirror Dungeon Normal, where you'll be spending most of your time, your IDs will always be at max level. But their Uptie Tier carries over.
+Note: A lot of these IDs stink at Uptie 1. At the very least, you should always Uptie them to Tier 3. Uptying your IDs is more important than leveling them up. At Uptie 3, you unlock their skill 3 and passives, while Uptie 4 gives them more stuff to do. In Mirror Dungeon Normal, where you'll be spending most of your time, your IDs will always be at max level. But their Uptie Tier carries over. So even if they're at level 1 outside Mirror Dungeon, they'll be max level in the dungeon. But if they're at Uptie 1, they'll remain at Uptie 1.
 
 >EGOs
 
-EGOs aren’t really necessary for 99% of the time. If you finished Canto 3, your base EGOs are more than enough. You mainly use EGOs to apply debuffs, win big clash numbers, and do AoE damage; they aren’t meant for pure high damage. There are 1.5 EGOs that are worth sharding
+EGOs aren’t really necessary for 99% of the time. If you finished Canto 3, your base EGOs are more than enough. You mainly use EGOs to apply debuffs, win big clash numbers, and do AoE damage; they aren’t meant for pure high damage. There are 1.5 EGOs that are worth sharding however.
 
-Fluid Sac Heals both HP and SP for all IDs. Rime Shank is powerful, but only at Threadspin 4; otherwise, it’s mediocre. Investing into Rime Shank early will eat up all of your resources, and it’s not worth it if you have nothing.
+Fluid Sac Heals both HP and SP for all IDs. It's your go to for team heals and a must pick if you're really, REALLY, struggling with maintaining your health and sanity. Rime Shank is powerful, but only at Threadspin 4; otherwise, it’s mediocre. Investing into Rime Shank early will eat up all of your resources, and it’s not worth it if you have nothing.
 
 >Mirror Dungeon Startlight
 
-To gain the most starlight in the fastest way possible, you need to run individual IDs every run, for six straight runs. I have managed to narrow it down and optimize the best team to farm Starlights. These IDs MOSTLY benefit from each other, including support IDs as well. Sinking, at the moment, isn’t complete due to the lack of IDs, but you’re free to add them if you lack IDs for the most optimal Starlight grind. 
+To gain the most starlight in the fastest way possible, you need to run individual IDs every run, for six straight runs. I have managed to narrow it down and optimize the best team to farm Starlights. These IDs MOSTLY benefit from each other, including support IDs as well. Sinking, at the moment, isn’t complete due to the lack of IDs, but you’re free to add them if you lack IDs for the most optimal Starlight grind. You don't need to Uptie the support IDs to Uptie 4, you just want to Uptie them to Uptie 3 to unlock their passive skills.
 
-Bleed Team is going to be your MDH team thanks to Bloody Mist, so it might be wise to invest in it first.
+This is what I found to be the most optimal, so you might be able to come up with a better combination.
 
-https://i.4cdn.org/vg/1706718497958843.png
+Note: Bleed Team is going to be your MDH team thanks to Bloody Mist, so it might be wise to invest in it first.
+
+ ![Starlight Generator](https://i.imgur.com/bcr5jjs.jpeg)
 
 >Spending real money
 
 If you’re a casual player, and don’t really care about the side content, Refracted Railway, or emptying the dispenser, then you can ignore the next section. But if you don’t mind spending money, these are what you should aim for. Listed from the most beneficial, to the least.
 
-Note: Except for the Limbus Pass, none of the packs are required. It's only if you don't mind spending money or if you need more resources. I'm not encouraging you, or advocating for you, to spend real money on the game.
+Note: Except for the Limbus Pass, none of the packs are required for the grind guide. It's only if you don't mind spending money or if you need more resources. I'm not encouraging you, or advocating for you, to spend real money on the game.
 
 >Limbus Pass
 
@@ -58,7 +71,9 @@ The pass will make your grind much easier and will give you more unlocks as you 
 
 There are so many Lunacy packs, but don’t even bother looking at them. They’re all a scam. If you want more Lunacy, there are only two packs you should look at. ‘Monthly Lunacy Supply’ and ‘Monthly Lunacy Batch’. For $10, you get around 4k Lunacy, 800 of them being Paid Lunacy over the course of a month.
 
-With Paid Lunacy, you can spend 13 of them on a cheap single pull per day. You will only spend the Paid Lunacy on the limited banners. Spending Lunacy on the Limited Banners gives you [Ideality]. Once the banner ends, which will be in 2 weeks, you’ll get the [Ideality] back as Threads. So basically, 14 Threads. Standard Extractions don’t have [Ideality] so there’s no point in even looking at it.
+With Paid Lunacy, you can spend 13 of them on a cheap single pull per day. You will only spend the Paid Lunacy on the limited banners. Spending Lunacy on the Limited Banners gives you [Ideality]. Once the banner ends, which will be in 2 weeks, you’ll get the [Ideality] back as Threads. So basically, 14 Threads and 3 shard/threads, assuming you only get 0 ID duplicates, so a total of 56. But you won't be pulling 0 ID duplicates all the time. Every 10th pull is a guarantee 00 ID, or 000 at a higher chance, so you'll make the most out of your Paid Luancy.
+
+Standard Extractions don’t have [Ideality] so there’s no point in even looking at it.
 
 >Misc.
 

@@ -1,4 +1,4 @@
-##-> Here are some Unofficial Indie VoD Archives and links to Official Vod Channels [Discontinued]:<-
+##-> Here are some Unofficial Indie VoD Archives and links to Official Vod Channels:<-
 
 # Table of Content
 [TOC]
@@ -72,6 +72,7 @@ Content|Link|Description
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
 Unofficial Girl DM Vod Archives | [Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| [Discontinued]
 Unofficial Girl DM Vod Archives | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXHuBG_SqMfslUhd?e=5d7nFW)|[Discontinued]
+Unofficial Girl DM Vod Archives | [Archive.org](https://archive.org/details/girl-dm-2023-05-08-karaoke-third-anniversary-of-girldm-d-no-fanfare-just-karaoke)|[Discontinued]
 
 ---
 
@@ -80,6 +81,8 @@ Content|Link|Description
 -------|-------|------- 
 Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| [Discontinued]
 Bubi VT Vod "Archive"|[Ms Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXApidFV6YEwaOc-?e=hDVU85)| [Discontinued]
+Bubi VT Vod "Archive"|[Archive.org](https://archive.org/details/Bubi_vt_Vod_Archive)| [Discontinued]
+
 
 
 ---
@@ -90,6 +93,8 @@ Content|Link|Description
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
 Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| [Discontinued]
 Unofficial Archive of the first Karaoke vod | [MS Onedrive](https://1drv.ms/v/s!AhS3PgDnjlw8kXLEH7VrIBTWgjcw?e=zBvwm3)| [Discontinued]
+Unofficial Archive of the first Karaoke vod | [Archive.org](https://archive.org/details/2022-05-28-karaoke-this-sucks-batatvideogames)| [Discontinued]
+
 
 ---
 

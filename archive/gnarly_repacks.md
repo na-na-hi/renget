@@ -13,9 +13,10 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Fallout – Tale Of Two Wastelands (v.3.3.2a) [Gnarly Repacks] [10.6 GB] - UPDATED
+https://bin.0xfc.de/?136546ef626475d8#5kLSwGBaVDkP2nMPhY4Gjscacdr1vEB47D226h69gymz
 Drakengard 3 (+DLC, RPCS3) [Gnarly Repacks] [From 8 GB] - REUPLOAD
 https://bin.0xfc.de/?ccf5538f299d07ba#2HCUD69pdGXZyafjTxTs2PjPV2uPNgx6PX91BEuvoGaS
-
 Dragon Ball Raging Blast Collection (+RPCS3) [Gnarly Repacks] [5.89 GB]
 https://bin.0xfc.de/?ab4b3c87bd05029d#5hwF2LKG1J2AbuAi1PCrBb8oTWpHRcwrrpYwFEMo138p
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -45,8 +46,6 @@ The Legend of Zelda Twilight Princess HD (+CEMU) [Gnarly Repacks] [1.27 GB] - RE
 https://bin.0xfc.de/?51006fd931895337#GNLYX4bRpEjyW7ijv3oHFe8a22qv619enkGsfXdZUzrX
 Bioshock (2007) [Gnarly Repacks] [1.81 GB] - REUPLOAD
 https://bin.0xfc.de/?f1740a434a8c3df6#Ci82cEB4bZcN94TfikeEz28z6heqPL2diMaSCqF2rL69
-Fallout - Tale Of Two Wastelands [Gnarly Repacks] [11 GB] - REUPLOAD
-https://bin.0xfc.de/?951546d97ebc9317#CRfCmW33CXEy7tDYM8ocUD1Y5KMGfnDVhbYTxiRzV6dJ
 Sonic Unleashed (+Xenia) [Gnarly Repacks] [7.98 GB]
 https://bin.0xfc.de/?bde1e4527e6d25ab#HFXDSDMAMrCz3FHMkuFrAHoD4s92daia7hQmyT5UpVpw
 Death Must Die (EA-b12862148) [Gnarly Repacks] [362 MB]
