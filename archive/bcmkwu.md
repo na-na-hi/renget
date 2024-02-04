@@ -1,3 +1,14 @@
+>Russian drone tracking hohol drone and locating the operator
+https://files.catbox.moe/qspzpa.mp4
+>Russian double tap artillery
+https://files.catbox.moe/kp6e53.mp4
+https://files.catbox.moe/q7ajta.mp4
+>another zelensky green screen
+https://files.catbox.moe/wckmd7.mp4
+>Some hohol battle ritual larp
+https://files.catbox.moe/cwfusy.mp4
+>AFU driving around Avdeevka
+https://files.catbox.moe/vj3t22.mp4
 >Sniper footage and dronedrops
 https://files.catbox.moe/fjf34b.MP4
 >Ka-52 helo destroys AFU command post

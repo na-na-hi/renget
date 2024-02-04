@@ -63,6 +63,7 @@ Card | Name | Description | Date Added | Updated?
 
 Card | Name | Description | Date Added | Updated?
 ------ | ------ | ------ | ------ | ------
+![Card](https://files.catbox.moe/8phxx6.png) | Makima | A Machiavellian manipulator. Be a good dog for her. | 2024-02-04 | -
 ![Card](https://files.catbox.moe/ws08d7.png) | Bea | A stoic, emotionless martial arts master. | 2023-12-25 | -
 ![Card](https://files.catbox.moe/ln00cb.png) | Mari | A kind, loving girl with a little bit of a brother complex. | 2023-12-25 | -
 ![Card](https://files.catbox.moe/251d0c.png) | Luca Rio | A Brazilian female Lucario superhero. | 2023-04-11 | -

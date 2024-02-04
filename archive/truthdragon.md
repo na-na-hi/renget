@@ -4,7 +4,7 @@
 -> ![rentry . co / truthdragon](https://i.imgur.com/7eVT4wy.png) <-
 ‎ ‎ 
 -> ◜ [k](darkindaggers)ey ﹔[c](IKnowDisplace)ontact ﹔[w](t1keria)ishlist ﹔[u](phelsurls)nlisted ◝
- ◟  ‎  ‎  ‎  ‎    ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  [m](truthdragon)ain ﹔[t](sentry)xto ﹔[s](https://sntry.cc/aphelios)ntry    ‎  ‎  ‎  ‎    ‎  ‎  ‎  ‎ ‎  ‎  ‎  ‎  ◞
+ ◟  ‎  ‎  ‎  ‎    ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  [l](dreamdragon)eague ﹔[t](sentry)xto ﹔[s](https://sntry.cc/aphelios)ntry    ‎  ‎  ‎  ‎    ‎  ‎  ‎  ‎ ‎  ‎  ‎  ‎  ◞
 <-
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **NAMES** <-
@@ -54,7 +54,7 @@ mingjing ♡ onyxtortoise ♡ findoneself ♡ selflessmingjing ♡ scytheofthecr
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **VALORANT** <-
 ***
-**[novikov](https://rentry.co/novikov)** ♡ novi ♡ *andressa* ♡ *sunwoohan* ♡ wushu ♡ **vincentfabron** ♡ jettplush ♡ sovaplush ♡ yoruplush ♡ viperplush ♡ sovaz ♡ val0rant ♡ **cyphersova** ♡ sovacypher ♡ trasnmascjett ♡ transjett ♡ transviper ♡ jettphoenix ♡ sovyphersweep ♡ alexandernovikov ♡ sovanovikov ♡ hehimjett ♡ yorujett ♡ yoruphoenix ♡ **dreamseers** ♡ huntersfurys ♡ reconbolts ♡ BrotherofSteelandString ♡ sovaowl ♡ sovasowl ♡ *owldrones* ♡ Severomorsk ♡ shockbolts ♡ ontarget ♡ owlcharm ♡ Versussova ♡ Versuscypher ♡ agent-yoru ♡ agent-cypher ♡  agent-sova ♡ agent-jett ♡ agentdeadlock ♡ SentinelDeadlock ♡ initiatorsova ♡ controllerbrimstone ♡ duelistphoenix ♡ sentinelsage ♡ controllerviper ♡ ==sentinelcypher== ♡ duelistreyna ♡ sentinelkilljoy ♡ initiatorbreach ♡ controlleromen ♡ duelistjett ♡ duelistraze ♡ initiatorskye ♡ duelistyoru ♡ controllerastra ♡ initiatorkay0 ♡ sentinelchamber ♡ duelistneon ♡ initiatorfade ♡ controllerharbor ♡ initiatorgekko ♡ nanowire ♡ lethalassault
+**[novikov](https://rentry.co/novikov)** ♡ novi ♡ *andressa* ♡ *sunwoohan* ♡ wushu ♡ **vincentfabron** ♡ jettplush ♡ sovaplush ♡ yoruplush ♡ viperplush ♡ sovaz ♡ val0rant ♡ **cyphersova** ♡ sovacypher ♡ trasnmascjett ♡ transjett ♡ transviper ♡ jettphoenix ♡ sovyphersweep ♡ alexandernovikov ♡ sovanovikov ♡ hehimjett ♡ yorujett ♡ yoruphoenix ♡ **dreamseers** ♡ huntersfurys ♡ reconbolts ♡ BrotherofSteelandString ♡ sovaowl ♡ sovasowl ♡ *owldrones* ♡ Severomorsk ♡ shockbolts ♡ ontarget ♡ owlcharm ♡ Versussova ♡ Versuscypher ♡ agent-yoru ♡ agent-cypher ♡  agent-sova ♡ agent-jett ♡ agentdeadlock ♡ SentinelDeadlock ♡ initiatorsova ♡ controllerbrimstone ♡ duelistphoenix ♡ sentinelsage ♡ controllerviper ♡ sentinelcypher ♡ duelistreyna ♡ sentinelkilljoy ♡ initiatorbreach ♡ controlleromen ♡ duelistjett ♡ duelistraze ♡ initiatorskye ♡ duelistyoru ♡ controllerastra ♡ initiatorkay0 ♡ sentinelchamber ♡ duelistneon ♡ initiatorfade ♡ controllerharbor ♡ initiatorgekko ♡ nanowire ♡ lethalassault
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **ASSASSINS CREED** <-
 ***

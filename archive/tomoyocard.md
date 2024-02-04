@@ -3,12 +3,14 @@
 [TOC3]
 
 ### What's in the card?
+#### Changelog
 
-*Updated 2023-12-20 (staging SillyTavern fix)*
+- 2024-02-04: removed "other" options for expressions and locations as it was causing more hallucinations (not a problem for Tomoyo but bad example to set for neocities cards)
+- 2023-12-20: staging SillyTavern fix
 
-| [catbox](https://files.catbox.moe/894mi2.png) - [chub](https://www.chub.ai/characters/tomoyo/tomoyo-zero-setup-turbo-compatible-vn-0dca4eb1 ) |   |
+| [catbox](https://files.catbox.moe/scveoi.png) - [chub](https://www.chub.ai/characters/tomoyo/tomoyo-zero-setup-turbo-compatible-vn-0dca4eb1 ) |   |
 | --- | --- |
-| [![](https://files.catbox.moe/894mi2.png)](https://files.catbox.moe/894mi2.png) | *Your sister's cute friend, a lover of all things nostalgic, invites you to hang out in town.*  -> ->   -> -> 0 setup required.  -> ->   -> -> 7 expressions, 4 outfits.  -> ->   -> ->  32 backgrounds from the PC-98 games [Kakyuusei](https://exhentai.org/g/632654/4d4a894de2/), [Doukyuusei](https://exhentai.org/g/550911/3d1e461062/), [Doukyuusei 2](https://exhentai.org/g/632397/e7331dcbd8/), [Marine Rouge](https://e-hentai.org/g/567044/43a421711f/), [YU-NO](https://e-hentai.org/g/2004416/1462b58c93/), [Tsumo Baka Nisshi](https://e-hentai.org/g/552408/8b945f5fd7/).   -> ->   -> ->  32 Future Funk and Vaporwave music tracks.  -> ->   -> -> **Works on all frontends, Turbo, Claude and GPT4!** If the background is wrong or it forgot the audio tag on background change, regen. If links cut off at question marks, turn OFF "Trim Incomplete Sentences" in your frontend (or increase max tokens if it cuts off randomly). |
+| [![](https://files.catbox.moe/scveoi.png)](https://files.catbox.moe/scveoi.png) | *Your sister's cute friend, a lover of all things nostalgic, invites you to hang out in town.*  -> ->   -> -> 0 setup required.  -> ->   -> -> 7 expressions, 4 outfits.  -> ->   -> ->  32 backgrounds from the PC-98 games [Kakyuusei](https://exhentai.org/g/632654/4d4a894de2/), [Doukyuusei](https://exhentai.org/g/550911/3d1e461062/), [Doukyuusei 2](https://exhentai.org/g/632397/e7331dcbd8/), [Marine Rouge](https://e-hentai.org/g/567044/43a421711f/), [YU-NO](https://e-hentai.org/g/2004416/1462b58c93/), [Tsumo Baka Nisshi](https://e-hentai.org/g/552408/8b945f5fd7/).   -> ->   -> ->  32 Future Funk and Vaporwave music tracks.  -> ->   -> -> **Works on all frontends, Turbo, Claude and GPT4!** If the background is wrong or it forgot the audio tag on background change, regen. If links cut off at question marks, turn OFF "Trim Incomplete Sentences" in your frontend (or increase max tokens if it cuts off randomly). |
 
 ##### Examples
 

@@ -108,6 +108,9 @@ https://files.catbox.moe/v95tlf.safetensors murata_range works well on both pony
 https://files.catbox.moe/3aewnu.safetensors rhasta you probably need to use source_anime in the positive prompt and/or nose in the negative prompt to stop the model from deciding to add realistic noses
 https://files.catbox.moe/kh4goe.safetensors laserflip
 https://files.catbox.moe/iq5u22.safetensors ibukichi
+https://files.catbox.moe/29oqmg.safetensors kurono_mitsuki
+https://files.catbox.moe/mj8sls.safetensors tokkyu
+https://files.catbox.moe/s5n8ul.safetensors moshimoshibe 
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime

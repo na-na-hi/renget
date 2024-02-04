@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 28th January. All dates dd/mm.
+!!! Note Last updated: 4th February. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -164,13 +164,13 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Open as of 04/01
 6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Full as of 02/02
 1559 | Remedial_Club | Full as of 07/08
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

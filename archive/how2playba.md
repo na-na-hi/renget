@@ -1,5 +1,5 @@
 # /bag/ Newfag guide
-You can't save the free 100 rolls until bluefes. 
+You can't save the free 100 rolls until bluefes aka Hanako banner. 
 
 https://rentry.org/s2kng54y use this for the event minigame
 

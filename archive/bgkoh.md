@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
-**Level:** 12 | **Experience to Next Level:** 40/120
+**Level:** 12 | **Experience to Next Level:** 70/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 484₽ | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?

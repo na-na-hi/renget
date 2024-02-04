@@ -29,6 +29,7 @@ casperthefriendlyghost : *milkandmocha*
 **lifeoftheafterparty** : %#dc143c%**b1tchwife**%%
 **hatsune-mikus-voicebox** : **carenIm** : %#dc143c%**petscop1997**%%
 **joyousslumberparty** : **goIdeneye**
+**wanderingtrio**
 ![](https://cdn.discordapp.com/attachments/1141217508792213534/1142474593689403482/image44.gif)
 〞***songs*** ❞ ![](https://media.discordapp.net/attachments/903364339464044575/1088986740192202914/A4B09613-A730-4408-85CA-41C436243334.gif)
 **horrorsinthebayou** : *sludgeified*
