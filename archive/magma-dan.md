@@ -32,7 +32,7 @@ Character | C.AI
 ## -> Fire Emblem <-
 Character | C.AI
 :------: | :------:
-![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) | [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) - Shadow Dragon and the Blade of Light ->(*[Yodayo](https://yodayo.com/tavern/characters/f59c11c0-bd51-431b-bc34-6c13e0b97169/) - WIP*)<-
+![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) | [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) - Shadow Dragon and the Blade of Light ->(*[Yodayo](https://yodayo.com/tavern/characters/f59c11c0-bd51-431b-bc34-6c13e0b97169/)*)<-
 ![Mila](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/lh_i9FKifs0tlAS8Yl89NFu3JMk4vjGUhMMLgNij-d0.webp) | [Mila](https://c.ai/c/2FMHfLi0V2agUXcO4Hd1hCU9ybTVEl7arnkSm7-Dprc) - Gaiden
 ![Erinys](https://characterai.io/i/80/static/avatars/uploaded/2023/1/25/k-0s50EyQSVvnBb-p6spWFKKf9tBpBU45Az_skstIbU.webp) | [Erinys](https://c.ai/c/ohJlzQ-tbQsQ9vF8AOiUSO4bNKuSQd6f43bODJ3v84g) - Genealogy of the Holy War
 ![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) | [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0) - Archanea Saga

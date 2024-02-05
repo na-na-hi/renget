@@ -84,7 +84,7 @@ Click these images for quick navigation:
 
 -> [![](https://files.catbox.moe/skrlsy.png)](#faq) ⠀ [![](https://files.catbox.moe/bwhpt1.png)](#explaining-temperature-penalty-topp-and-topk)<-
 
--> [![](https://files.catbox.moe/4dhgse.png)](https://rentry.co/CharacterProvider-GuideToBotmaking) ⠀ [![](https://files.catbox.moe/ez4q6l.png)](#my-characters)<-
+-> [![](https://files.catbox.moe/4dhgse.png)](https://rentry.co/CharacterProvider-GuideToBotmaking) ⠀ [![](https://files.catbox.moe/ez4q6l.png)](https://www.chub.ai/users/CharacterProvider)<-
 #
 - - -
 #
@@ -1719,36 +1719,6 @@ to reply as {{char}}, NPCs and game master. Here it is:]
 ```
 **Comment:** *"Pseudo-thinking"*
 *01.08.2023*
-# 
-- - -
-- - -
-- - -
-# 
-
-###My characters
-Image | Name/Link | Description
- | | 
-![](https://avatars.charhub.io/avatars/CharacterProvider/Takita/avatar.webp?size=0.5939537532712125) | [🔞 Takita](https://www.chub.ai/characters/CharacterProvider/Takita) | A shy high-school futanari elf girl from Lalasel with a curvy body, cute face & massive secret. She struggles with her sexual urges & desires to dominate men while maintaining friendships & hiding her true nature..
-![](https://avatars.charhub.io/avatars/CharacterProvider/716d9606-cc17-4dfe-bc3c-1da9709f8393/avatar.webp?size=0.6576181199503031) | [🔞 Takita, the time stopper](https://www.chub.ai/characters/CharacterProvider/716d9606-cc17-4dfe-bc3c-1da9709f8393/main) | A shy high-school futanari elf girl from Lalasel with a curvy body, cute face & massive secret... Now with magical watch that allows her to stop time!
-![](https://files.catbox.moe/kgrkja.png) | [🔞 Captured Lucario](https://www.chub.ai/characters/CharacterProvider/captured-lucario) | A proud male Pokémon caught by Team Rocket, forced to work as a sex toy in the Pokécare facility.
-![](https://avatars.charhub.io/avatars/CharacterProvider/princess-lotte/avatar.webp?size=0.6971433131712776) | [🔞 Princess Lotte](https://www.chub.ai/characters/CharacterProvider/princess-lotte) | Liza Lotte De Garnerin von Montgelas also known as the Royal Tiger. Two intros: you became her new servant, or she is forced to marry you, a son of a known nobleman.
-![](https://avatars.charhub.io/avatars/CharacterProvider/moe-the-kobold-male/avatar.webp?size=0.9617400762416266) | [🔞 Moe the Kobold - Male](https://www.chub.ai/characters/CharacterProvider/moe-the-kobold-male) | The kobold thief on the run from debt and enslavement. With a cunning mind and a love for gold and adventure.
-![](https://avatars.charhub.io/avatars/CharacterProvider/cb46bc12-dfca-48b9-8233-d5f43df64673/avatar.webp?size=0.9994912709712234) | [🔞 Moe the Kobold - female ver](https://www.chub.ai/characters/CharacterProvider/cb46bc12-dfca-48b9-8233-d5f43df64673) | The kobold thief on the run from debt and enslavement. With a cunning mind and a love for gold and adventure.
-![](https://avatars.charhub.io/avatars/CharacterProvider/6fb7512f-1d84-43c0-800a-830fb4e29b7f/avatar.webp?size=0.5248863036122926) | [MonGirl Foe Clinic](https://www.chub.ai/characters/CharacterProvider/6fb7512f-1d84-43c0-800a-830fb4e29b7f) | The clinic for monster girl foes all around the JRPG-like world. Random mongirl generation.
-![](https://avatars.charhub.io/avatars/CharacterProvider/2066375b-1e1a-4e36-935b-1cd3375be239/avatar.webp?size=0.033137952274055804) | [🔞 Annoyed Gardevoir](https://www.chub.ai/characters/CharacterProvider/2066375b-1e1a-4e36-935b-1cd3375be239) | Forced/Lustful GF. Gardevoir Pokémon who was captured by her trainer.
-![](https://avatars.charhub.io/avatars/CharacterProvider/3f1046e2-aa8f-492c-a51d-04cdd9145fa3/avatar.webp?size=0.9496477747196306) | [🔞 Toph](https://www.chub.ai/characters/CharacterProvider/3f1046e2-aa8f-492c-a51d-04cdd9145fa3) | Shy crossdressing elf maid slave.
-![](https://avatars.charhub.io/avatars/CharacterProvider/8fed2967-6e8b-4389-9983-cde1677a40a2/avatar.webp?size=0.6952659079982888) | [🔞 Mishka the clockwork doll](https://www.chub.ai/characters/CharacterProvider/8fed2967-6e8b-4389-9983-cde1677a40a2) | Little maid porcelain automaton from the past.
-![](https://avatars.charhub.io/avatars/CharacterProvider/f8abd8fc-d424-4d7b-90c7-60d0eddd6681/avatar.webp?size=0.21922391065967495) | [🔞 Goobie](https://www.chub.ai/characters/CharacterProvider/f8abd8fc-d424-4d7b-90c7-60d0eddd6681) | Goblin girl from the comic by BUCKyouALL.
-![](https://avatars.charhub.io/avatars/CharacterProvider/fcc4e1e0-55b5-474d-9d27-9aad6f08cacf/avatar.webp?size=0.44344890107320434) | [🔞 Lazareth](https://www.chub.ai/characters/CharacterProvider/fcc4e1e0-55b5-474d-9d27-9aad6f08cacf) | Wish-giving futa demon. You shouldn't have opened the Sexonomicon.
-![](https://avatars.charhub.io/avatars/CharacterProvider/dac9976e-bcce-436e-8ff0-29d00b283304/avatar.webp?size=0.38381157913063024) | [Suika](https://www.chub.ai/characters/CharacterProvider/dac9976e-bcce-436e-8ff0-29d00b283304) | Little gremlin with 3 different RP intros.
-![](https://avatars.charhub.io/avatars/CharacterProvider/dc0a4ed8-1dea-456d-8dad-fd419f5bc6e3/avatar.webp?size=0.9526996037020827) | [🔞 Naomi](https://www.chub.ai/characters/CharacterProvider/dc0a4ed8-1dea-456d-8dad-fd419f5bc6e3/main) | Femboy pretending to be a girl met you online and came on a date only to discover that you are his classmate and unaware of his crossdressing hobby.
-![](https://avatars.charhub.io/avatars/CharacterProvider/dc0a4ed8-1dea-456d-8dad-fd419f5bc6e3/avatar.webp?size=0.9526996037020827) | [🔞 Naomi with chapters](https://www.chub.ai/characters/CharacterProvider/accf8988-c7c0-47f2-90e3-cdacf4b7131f) | Femboy pretending to be a girl met you online and came on a date only to discover that you are his classmate and unaware of his crossdressing hobby. With chapters!
-![](https://avatars.charhub.io/avatars/CharacterProvider/rivet-14cb53be/avatar.webp?size=0.17699796141361013) | [Rivet](https://www.chub.ai/characters/CharacterProvider/rivet-14cb53be) | Rivet from R&C: Rift Apart
-![](https://avatars.charhub.io/avatars/CharacterProvider/rir-e6f0cca2/avatar.webp?size=0.7796581023845486) | [🔞 Rir](https://www.chub.ai/characters/CharacterProvider/rir-e6f0cca2) | Raised by beastmen bandits and abandoned when became a bother, a wolf kemonomimi sneaks into your house and gets into your wardrobe driven by primal instincts and need for food, shelter and... a male? She's asocial and feral, but desires to gather her own pack. Will you join her?
-![](https://avatars.charhub.io/avatars/CharacterProvider/emma-f782a2ce/avatar.webp?size=0.3256449269648263) | [🔞 Emma](https://www.chub.ai/characters/CharacterProvider/emma-f782a2ce) | CUM-FUELED WITCH! Abomination and void magic, eccentric, explosive, and sexually frustrated witch chosen a powerful succubus as a patron goddess for her magical powers on accident making her magic semen-fueled. You met her at the adventurer's guild when trying to gather a party as a C-class thief. Be careful, she can accidentally kill you while giving you a sloppy head.
-![](https://avatars.charhub.io/avatars/CharacterProvider/niku-the-bully-a76b399c/avatar.webp?size=0.679485706303079) | [Niku the bully](https://www.chub.ai/characters/CharacterProvider/niku-the-bully-a76b399c) | The school bully really just wants to be loved. Since childhood, Niku has been neglected, so she has had to cause a scandal just to get some attention. She bullies others just out of inertia and doesn't know how to behave differently with people.
-![](https://avatars.charhub.io/avatars/CharacterProvider/grishka-c30639ed/avatar.webp?size=0.7195792771005873) | [Grishka](https://www.chub.ai/characters/CharacterProvider/grishka-c30639ed/main) | During your shift at 7-Eleven, you meet Grishka, a playful and careless halfling girl from Lalasel who is unfamiliar with the human world and technology.
-
 # 
 - - -
 - - -

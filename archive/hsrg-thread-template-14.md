@@ -15,17 +15,17 @@ https://www.youtube.com/watch?v=2iRam7fnPrg (JP)
 https://www.youtube.com/watch?v=U7W8QR9fsFw
 https://www.youtube.com/watch?v=KdbnaBhJs6Y
 
-\>Sweet Dreams Preview - "The Great Tatalov" 
-https://www.youtube.com/watch?v=nu9msYUXIeU
-https://www.youtube.com/watch?v=BnLoQrCFURI
+\>Black Swan Trailer: "Lullaby" | Honkai: Star Rail
+https://www.youtube.com/watch?v=oz3AOWxq8KY
+https://www.youtube.com/watch?v=8qk2IOjmrsY
 
 \>Myriad Celestia Trailer — "A Revisiting of Past Dreams" 
 https://www.youtube.com/watch?v=rPAw4l2rUr8
 https://www.youtube.com/watch?v=rV-EzvxqSFw
 
-\>Current Character Banners: (Dr. Ratio, Kafka + Sushang, Natasha, Hook) - https://www.hoyolab.com/article/24375691
+\>Current Character Banners: (Black Swan, Imbibitor Lunae + Misha, Tingyun, Guinaifen) - https://www.hoyolab.com/article/24943079
 
-\>Current Light Cone Banners: Baptism of Pure Thought (The Hunt), Patience Is All You Need (Nihility) - https://www.hoyolab.com/article/24375760
+\>Current Light Cone Banners: Reforged Remembrance (Nihility), Brighter Than the Sun (Destruction) - https://www.hoyolab.com/article/24943321
 
 \>New Drip Marketing:
 \>Acheron (5\* Lightning Nihility) - https://www.hoyolab.com/article/24541891
@@ -37,11 +37,19 @@ https://www.youtube.com/watch?v=rV-EzvxqSFw
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 2AQA294J5R37 
 NB9TKRMK5R23
+STARRAILGIFT
+\>JP LIVESTREAM CODES VALID UNTIL FEB. 18
+ZA9674JSAUPF
+3S9N65KTBD63
+6T96N52TADN7
+\>MINOR CODES
 DIVEINTODREAMS
+DREAMTOGETHER
+SWEETDREAMS
+VEGASHSR
 0206PENACONY
 0206GRANDOPEN
 HSRGALAXY23
-STARRAILGIFT
 
 \>/hsrg/ Tools & Resources
 https://rentry.org/hsrg-resources-14

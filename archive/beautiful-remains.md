@@ -20,7 +20,7 @@
 
 -> ⌈ **KINS** ![greyeye](https://i.imgur.com/lRPFdsb.gif) ⌋ <- 
 
-->![Tallest Purple (Invader Zim)](https://i.imgur.com/s5FDlde.png) ![Hiyori Tomoe (Ensemble Stars)](https://i.imgur.com/vTN33jG.png) ![James (Pokemon)](https://i.imgur.com/oSmctT8.png) ![Aqua Hoshino (Oshi no Ko)](https://i.imgur.com/palLKjf.jpg) ![Victor Frankenstein](https://i.imgur.com/qlUyvtc.png) <-
+->![Tallest Purple (Invader Zim)](https://i.imgur.com/s5FDlde.png) ![Victor Frankenstein](https://i.imgur.com/qlUyvtc.png) ![Hiyori Tomoe (Ensemble Stars)](https://i.imgur.com/vTN33jG.png) ![James (Pokemon)](https://i.imgur.com/oSmctT8.png) ![Aqua Hoshino (Oshi no Ko)](https://i.imgur.com/palLKjf.jpg) <-
 ->![Kaname Date (AI: The Somnium Files)](https://i.imgur.com/Uuumdy7.png) ![Haruma Hirose (Love and Heart)](https://i.imgur.com/hmSqnoZ.png) ![Matt Engarde (Ace Attorney)](https://i.imgur.com/RPGLdA6.png) ![Herbert West (Reanimator)](https://i.imgur.com/DF0hJjL.png) ![Lawrence Gordon (Saw)](https://i.imgur.com/Dmke2iK.png) <-
 ->![Hans Westergaard (Frozen)](https://i.imgur.com/VKsGnan.png) ![The Joxter (Moomins)](https://i.imgur.com/WB1yFdI.png) ![Charles Eyler (Hello Charlotte)](https://i.imgur.com/2QsObHJ.png) ![Zamasu (Dragon Ball)](https://i.imgur.com/4rnVoa7.png) ![Vio (LOZ: Four Swords)](https://i.imgur.com/mPqe0s0.png)<-
 

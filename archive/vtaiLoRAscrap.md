@@ -37,8 +37,10 @@
 LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-melody-vshojo-or-original-appearance-4-outfits-or-locon
 **Suou Sango (Nijisanji)** - https://civitai.com/models/260246/suou-sango-nijisanji
 **Onigiri (Indie)** - https://files.catbox.moe/xvdr7g.safetensors <- [TAG INFO](https://rentry.org/CCC_Loras#giri-oni-giri)
-** Rinkou Ashelia (Phase Connect)** - https://civitai.com/models/288806/rinkou-ashelia-phase-connect
-** Usada Pekora (Hololive)** - https://civitai.com/models/288104/usada-pekora-hololive
+**Rinkou Ashelia (Phase Connect)** - https://civitai.com/models/288806/rinkou-ashelia-phase-connect
+**Usada Pekora (Hololive)** - https://civitai.com/models/288104/usada-pekora-hololive
+**Mozumi Pichi (VDere)** - https://civitai.com/models/290670/mozumi-pichi
+**Emikukis (OWOzu)** - https://civitai.com/models/290992/emikukis-vtuber-commission
 
 ### -> SDXL (will not test, unless..?) <-
 **Fallenshadow / Shondo (Indie)** - https://civitai.com/models/265519/fallenshadow-sdxl

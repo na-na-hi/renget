@@ -6,20 +6,22 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 238th time, what is Ope?!
+For the 239th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
+
+\>Recent merch
+Valentine's Day 2024 Set: https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442181852
+hololive Valentine's Voice Pack 2024: https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948
+Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
+B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
+
 \>Streams
 Next stream: Palworld (Sun 02/05 7PM CT)
 Last stream (Palworld)
 https://www.youtube.com/watch?v=aDEai8MA-p0
 Previous appearance (FWMC birthday countdown)
 https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
-
-\>New merch
-hololive Valentine's Voice Pack 2024: https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948
-Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
-B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
 https://s.goodsmile.link/gmC
@@ -29,6 +31,8 @@ Cover of Nakashima Mika - Yuki no Hana
 https://www.youtube.com/watch?v=SPWsptIhKkM
 Cover of SOS (Fuyuko Mayuzumi's Image Song)
 https://www.youtube.com/watch?v=uwwK82MIxIY
+Archive of the struck down Moka - Lilium cover
+https://archive.ragtag.moe/watch?v=-GUdYPelG8c
 Unarchived Advent karaoke relay (Jan 2024)
 https://mega.nz/folder/Oew3ETzJ#wNFjvn1M-0SlRRCBO4AZKQ
 Songs & Karaokes rentry
@@ -41,11 +45,11 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>68160001
+Previous thread: >>68250182
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Schedule: @nerissa_en-1751646147913867772
+!!!warning Second OP Post - Schedule: TBA
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -67,7 +71,6 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1751646147913867772
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE

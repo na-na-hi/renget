@@ -104,15 +104,15 @@ Beast looked at his possible new home in disappointment. Honestly, he didn't kno
 
 "Alright, let me show you the kitchen~" the cat said, breaking the silence. The had led across the main room and to the dining area.
 
-Beast couldn't tell if he used too used to having top notch equipment, or this was truly a horrible excuse for a kitchen. Crates were scattered and stacked around the room, some even opened or knocked over. Dirty plates lay stacked on the counter, a few floating in buckets of water, and dried berry juice stained the counter and the only equipment he could see, an unwashed knife stained blue with what he presumed to be Oran berries, neglectfully wedged into the surface of the counter as if it was a cutting board. It looked more like a room that just so happened to have food in it than a kitchen. If Beast had a nose, it would have curled in disgust.
+Beast couldn't tell if he used too used to having top notch equipment, or this was truly a horrible excuse for a kitchen. Crates were scattered and stacked around the room, some even opened or knocked over. Dirty plates lay stacked on the counter, a few floating in buckets of dirty water, and dried berry juice stained the counter and the only equipment he could see, an unwashed knife stained blue with what he presumed to be Oran berries, neglectfully wedged into the surface of the counter as if it was a cutting board. It looked more like a room that just so happened to have food in it than a kitchen. If Beast had a nose, it would have curled in disgust.
 
-->!["imagine the smell" what if i kill you how about that](https://files.catbox.moe/jn01a5.png)<-
+->!["imagine the smell" imagine if i killed you what about that](https://files.catbox.moe/ztegdm.png)<-
 
 Beast exhaled out of his nostrils, his frustration catching up with him. "T-this is just the cellar, right? not the kitchen?"
 
 "No, this is the kitchen, as I said earlier." The cat answered. "As we said, we haven't had a cook to make people anything, so we just kinda eat packaged food, hence the crates and the uh, mess."
 
-Beast planted one hand on the doorway and one on his forehead, trying to ward off a headache. "Do you...do you even have any kitchen tools, other than the knife? I can't cook people food if I just have a dirty knife and crates of...already made packaged food."
+Beast planted one hand on the doorway and the other on his forehead, bracing for an oncoming headache. "Do you...do you even have any kitchen tools, other than the knife? I can't cook people food if I just have a dirty knife and crates of...already made packaged food."
 
 The cat frowned, catching on. "Uh, we can buy you some equipment!"
 

@@ -57,6 +57,8 @@
 
 - **pulling request model/changing cookie：**更换模型与cookie时的提示，并非报错（注意仅在选择claude-2.0/2.1等cookie可用模型时才会触发自动切换对应模型cookie）
 
+- **prompt is too long：**提示词超过长度限制（免费cookie 25k、pro 190k tokens），请设置tokens上限不超过指定范围
+
 #####Hint
 - 当要转折或代替角色行动时，建议你的角色输出后换行（shift+enter）两次后再描述。
 - 某些XML tags可以截断claude的输出，例如<META>和<EOT>等，claude在输出这些tags时输出会被立即截断。

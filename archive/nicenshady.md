@@ -245,6 +245,13 @@ I won't judge you, im a FAR worse person.
 
 Glommer | quip
 ------ | ------ 
+ ![*Aaahh!! It's a dragon!! run away!!!*](https://files.catbox.moe/bj2fxq.png) | He's vaguely lore accurate, but I pulled a few hairs to make him extra loveable (As he should be).
+
+I love him so much but it's a shame that having a porcupine enema is more fun than playing him bot lane
+[CHUB link](https://www.chub.ai/characters/nicenshady/smolder-the-firey-fledgling-5c82e0e6)
+
+Glommer | quip
+------ | ------ 
  ![Bzzrp.](https://files.catbox.moe/204br6.png) | The sanity whore from Don't Starve Together. Fuck him, farm him for wings, forfeit all mortal possessions. It makes no difference to him.
 
 A pillow you can cuddle, and breed? Sign me and the rest of chub.ai up!

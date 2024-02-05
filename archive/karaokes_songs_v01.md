@@ -23,7 +23,7 @@ The first original song is currently in the making, see [trailer](https://www.yo
 | Kalafina - Magia | -> [![](https://files.catbox.moe/e5doz0.jpg)](https://youtu.be/Gaf2ozNgOs8) <- |5m25|
 | DECO\*27 - The Vampire (English cover) |-> [![](https://files.catbox.moe/2wif3f.jpg)](https://www.youtube.com/watch?v=yw1zOjyfyCw) <-|3m14|
 | Down By The River (Baldur's Gate 3) | -> [![](https://i.ytimg.com/vi/8j3wK1DXhrs/mqdefault.jpg)](https://www.youtube.com/watch?v=8j3wK1DXhrs) <- |2m38|
-| MOKA☆ - Lilium ![](https://files.catbox.moe/4jc013.png) *Temporarily down due to a copyright strike.* | -> ![](https://files.catbox.moe/rbo8nh.webp) <- |4m17|
+| MOKA☆ - Lilium ![](https://files.catbox.moe/4jc013.png) *Temporarily gone from YouTube due to a copyright strike.* [\[Archived copy\]](https://archive.ragtag.moe/watch?v=-GUdYPelG8c) [\[Download\]](https://files.catbox.moe/qbqq81.webm) | -> [![](https://files.catbox.moe/rbo8nh.webp)](https://files.catbox.moe/qbqq81.webm) <- |4m17|
 | SOS (Fuyuko Mayuzumi Image Song) | -> [![](https://i.ytimg.com/vi/uwwK82MIxIY/mqdefault.jpg)](https://www.youtube.com/watch?v=uwwK82MIxIY) <- |4m|
 | Nakashima Mika - Yuki no Hana | -> [![](https://i.ytimg.com/vi/SPWsptIhKkM/mqdefault.jpg)](https://www.youtube.com/watch?v=SPWsptIhKkM) <- |5m38|
 | 9th cover (mentioned, in progress) | TBA  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TBD |

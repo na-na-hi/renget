@@ -70,7 +70,7 @@ Rain has a hard time standing up. Everything sounds too loud, her eyes are still
 
 "Jake - I think you need to call 911. I can't stand."
 
-"Oh pardon me. I'm not Jake and don't know who he is, I just happened to come across you lying here in this field. But what's *911?*" The stranger replied.
+"Oh sorry. I'm not Jake and don't know who he is, I just happened to come across you lying here in this field. But what's *911?*" The stranger replied.
 
 Rain grimaces. Blinking a few times to clear her eyesight, she takes a first look at the concerned passerby. And screams.
 
@@ -95,3 +95,4 @@ Whatever conciousness she had just gained left her just as fast, and she returns
 !!! info
 	31 Jan - posted
 	1 Feb - fixed tensing and typos
+	5 Feb - changed some phrasing
