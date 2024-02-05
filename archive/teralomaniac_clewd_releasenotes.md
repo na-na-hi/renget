@@ -132,7 +132,7 @@ Assistant:
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.8修改版
-- Clewd 4.7(0) fixed: 由于A社关闭老接口，更改官网接口为新接口，限制tokens长度25k
+- Clewd 4.8(0) fixed: 由于A社关闭老接口，更改官网接口为新接口，限制免费账号prompt长度25k（pro为190k）
 
 ## Clewd 4.7修改版
 - Clewd 4.7(4) added：增加claude-2.1-surf新模型的适配；增加pro账号的自动判断选择模型，无需打开`PassParams`（如果需要pro控制台没有的隐藏模型，可以打开`PassParams`尝试其他模型，关闭时自动其他模型会自动转到默认模型）；增加第三方反代api的多key随机使用模式，逗号分隔，格式`3rdKey: key1,key2,key3...`

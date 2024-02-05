@@ -166,7 +166,7 @@ Each {{value}} change within ±3 (±1D3).
 ```
 
 - **旧状态栏正则去除 （ <regex>标签使用教学/需clewd4.6(7)以上）：**
-> 任意位置添加以下正则， 则代表保留最后五次状态栏
+> **提示词**任意位置添加以下正则， 则代表保留最后五次状态栏
 `<regex>"/(?!.*?\n\[Start a new Chat\]\n)\n<StatusBlock>\n.*?\n</StatusBlock>\n(?=(.*?\n<StatusBlock>\n.*?\n</StatusBlock>\n){5})/gs" : ""</regex>`
 > 详解：
   1.  <regex>标签的意义为`<regex>"正则" : "替换内容"</regex>`，会根据正则内容对全文进行正则替换后再发送，<regex>标签及内容会在输出中被隐藏不会发送至官网

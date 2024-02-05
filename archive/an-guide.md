@@ -42,7 +42,7 @@ If your instruction takes more than three paragraphs to accomplish, you might as
 `[ Fact: no starships have gravity ]`  
 `Fact` did not exist officially, but we made one up.  
 As well as using `:` to distinguish the bracket from the actual Storytext. Or else you run the risk of having the models think that your out-of-place text is a [ part of the story ] and harm the Storytext's quality.  
-It's probably best to only use _one_ header at a time, and feel free to use anything that makes sense to you, like `[ Weather: raining ]` 
+Free to use anything that makes sense to you, like `[ Weather: raining ]` or combining with others: `[ Style: scene; Wears: gamer; Location: in front of a mirror ]`
 
 ###Prose effect
 `Humanity isn't alone in the universe. And I've just met our neighbors.`

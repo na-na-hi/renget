@@ -84,7 +84,7 @@ Beast uncomfortably stuck out his hand for a handshake. "Err...Hello, My name is
 
 The blue cat angrily turned pointed to the guild member he was talking to earlier. "SEE!? i told you that listing wasn't a waste of money!" The Meowstic turned back to him and gave him the four fingered approximation of a thumbs up. "You're hired! here, let me show you around~" 
 
-The cat led him down another ladder and to the sleeping quarters. "Wait, you aren't going to interview me or anything?" Beast asked, somewhat confused. 
+The cat led him up a set of stairs and to the sleeping quarters. "Wait, you aren't going to interview me or anything?" Beast asked, somewhat confused. 
 
 "Not really!" the cat cheerfully responded. "Between you and me, we've been so desperate for some actual food around here that we were gonna hire the first 'mon who came in here with a pulse."
 
@@ -96,15 +96,17 @@ Beast raised an eyebrow in curiosity. "Would my stay here be free of rent if I d
 
 The cat quietly snickered like he had heard some sort of inside joke. "Hehehe, rent free...But no, you would not be paying rent if you slept here since you would be working for us."
 
-Beast's mood slightly raised. If he stayed here, he wouldn't have to pay his house's rent, and he could pay off his debt faster! But did he really want to sleep in this strange bunker-like place? is this really how those explorers slept? Beast pushed his judgement aside and spoke. "In that case, yes, I will be needing a bed."
+Beast's mood slightly raised. If he stayed here, he wouldn't have to pay his house's rent, and he could pay off his debt faster! But did he really want to sleep in this strange tree fort? Is this really how those explorers slept? Beast pushed his judgement aside and spoke. "In that case, yes, I will be needing a bed."
 
 The cat smiled and put his paws together. "Wonderful! Alrighty then, i'll show you to your quarters. You'll be staying in the west room on floor B1."
 
-Beast looked at his new home in disappointment. Honestly, he didn't know what he expected. like every other room, it was a hollowed out room with a few piles of hay and what looked to be a chalk drawn froslass and raichu on one of the walls. Maybe the place would look better once he moved in some of his furniture.
+Beast looked at his possible new home in disappointment. Honestly, he didn't know what he expected. like every other room, it was a hollowed out room with a few piles of hay and what looked to be a chalk drawn froslass and raichu on one of the walls. Maybe the place would look better once he moved in some of his furniture.
 
 "Alright, let me show you the kitchen~" the cat said, breaking the silence. The had led across the main room and to the dining area.
 
-Beast couldn't tell if he used too used to having top notch equipment, or this was truly a horrible excuse for a kitchen. Crates were scattered and stacked around the room, some even opened or knocked over. Dirty plates lay stacked on the counter, a few floating in buckets of water, and dried berry juice stained the counter and the only equipment he could see, an unwashed knife stained blue with what he presumed to be Oran berries, neglectfully wedged into the surface. If Beast had a nose, it would have curled in disgust.
+Beast couldn't tell if he used too used to having top notch equipment, or this was truly a horrible excuse for a kitchen. Crates were scattered and stacked around the room, some even opened or knocked over. Dirty plates lay stacked on the counter, a few floating in buckets of water, and dried berry juice stained the counter and the only equipment he could see, an unwashed knife stained blue with what he presumed to be Oran berries, neglectfully wedged into the surface of the counter as if it was a cutting board. It looked more like a room that just so happened to have food in it than a kitchen. If Beast had a nose, it would have curled in disgust.
+
+->!["imagine the smell" what if i kill you how about that](https://files.catbox.moe/jn01a5.png)<-
 
 Beast exhaled out of his nostrils, his frustration catching up with him. "T-this is just the cellar, right? not the kitchen?"
 
@@ -116,10 +118,10 @@ The cat frowned, catching on. "Uh, we can buy you some equipment!"
 
 Beast surveyed the mess again. "This kitchen is going to take an eternity to get into working order! I won't be able to cook for at least 2 days!"
 
-"Well, you better start working then. We expect something by supper."
+"Well, you better start working quickly. We expect something by supper."
 
-Beast turned back at the cat, trying to hide an offended look. "Couldn't I get some help or some staff to haul this remaining rot to the storage room?"
+Beast turned back at the cat, suppressing an offended look. "Couldn't I get some help or some staff to haul this remaining rot to the storage room?"
 
-"You could probably ask around, but people here are usually too lazy or tired to do anything. And I have a date with chapter 13 of my book." The cat said as he left the room. "See you at dinner!~"
+"You could probably ask around, but people here are usually too lazy or tired to do anything. And I have a date with chapter 13 of my book." The cat said as he left the chef to his work. "See you at dinner!~"
 
 Beast couldn't believe what he was just told. But then he remembered he wasn't the revered Chef Winchester anymore, he was now just a cook for a group of 20-something explorers. But it was the same way Beast started his career, so he swallowed his pride and picked up a few crates. This was going to be interesting, to say the least. With the wag of a finger, his life changed completely.

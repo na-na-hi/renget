@@ -26,8 +26,8 @@ Reps.
 We're not going to spoonfeed you. Do your goddamned reps.
 
 ### "What can I use until /vAI/ comes back?"
-[Retrieval-Based Voice Conversion](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/README.en.md).
-This is the AI program that all those kids on YouTube ([and the Shiori threads](yoo4r)) are using to make AI covers of pop songs. There's also [a Google sheet of VTuber models](https://docs.google.com/spreadsheets/d/1tvZSggOsZGAPjbMrWOAAaoJJFpJuQlwUEQCf5x1ssO8) that some unrelated dickswordfags spun up recently. Download whichever models interest you off of that, and RTFM to get started.
+[Retrieval-Based Voice Conversion](https://rentry.co/rvc101).
+This is the AI program that all those kids on YouTube ([and the Shiori threads](https://rentry.co/yoo4r)) are using to make AI covers of pop songs. There's also [a Google sheet of VTuber models](https://docs.google.com/spreadsheets/d/1tvZSggOsZGAPjbMrWOAAaoJJFpJuQlwUEQCf5x1ssO8) that some unrelated dickswordfags spun up recently. Download whichever models interest you off of that, and RTFM to get started.
 
 ### "If RVC works, why haven't you guys made /vAI/ threads using that?"
 **Because RVC is not a complete solution.**

@@ -3,15 +3,16 @@
 A fantastic category of music consisting entirely of fan-created non-official arrangements of themes from the Touhou Project games.
 List of doujin circles https://en.touhouwiki.net/wiki/Doujin_circles
 List of doujin albums sorted by circles https://en.touhouwiki.net/wiki/List_by_Groups
-Touhou Music DB https://touhoudb.com/
 <-
+***
+[TOC3]
 
 *** 
-## Touhou Lossless Music Collection (TLMC) 
+### Touhou Lossless Music Collection (TLMC) 
 
 !!!info The TLMC contains music from nearly every Touhou doujin circle and album to date (of the specific collection's creation) and is available for download in various formats. There are several versions of TLMC maintained by different people:
  
-#### 1. Original (Outdated) 
+#### Original (Outdated) 
 ##### Latest version: v.19 (2018.01.01) + temp ver. (2023.01.15, up to C101)
 Official blog https://www.tlmc.eu/
 Online Player (OPUS) http://151.80.40.155/
@@ -22,7 +23,7 @@ Nyaa torrent (v.19, FLAC): https://nyaa.si/view/1359948 - [Magnet](magnet:?xt=ur
 
 "Timeout" version (FLAC/TrueAudio+cue): https://files.catbox.moe/amxubt.torrent - [Magnet](magnet:?xt=urn:btih:334a33bddf5dd15db4bcd5da2cbb1e0c514e86e5)
 
-#### 2. Fork version (Up-to-date)
+#### Fork version (Up-to-date)
 ##### Latest version: v.4 (2023.09.09, up to C102)
 !!!info New version is up, circles are still in .rar archives.
 
@@ -32,31 +33,27 @@ Previous version v.3 - up to C101 (FLAC): https://nyaa.si/view/1625916 - [Magnet
 
 Lossy version v3.5 - up to RTS20 (Opus 192kbps): https://nyaa.si/view/1695257 - [Magnet](magnet:?xt=urn:btih:2a7a8db08e5cef191136b41a849391e55af36b96&dn=%5BConnor_CZ%5D%20TLMC%20v3.5%20%28Touhou%20Lossy%20Music%20Collection%29%20%5BOpus%20192kbps%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
  
-#### 3. Doujinstyle's version (Up-to-date) 
-##### Latest version: up to C102
-!!!info Quality may vary, content is often user-contributed
+#### Doujinstyle's version (Up-to-date) 
+##### Latest version: up to C103?
+!!!info Quality may vary, content is often user-contributed.
 OneDrive (FLAC): https://doujinstyle.com/?p=tlmc
 
-#### 4. Other Usual Places
+#### Other Usual Places
 !!!info Various sources for those who couldn't find your albums in TLMC. Sorted by latest and also vary in quality.
 - [Doujinstyle](https://doujinstyle.com)
 - [VK's Doujin Music](https://vk.com/doujinmusic)
 - /t/, /jp/, Doujin Café, your favourite tracker, etc.
  
 ***
+### Official music collection 
+Nyaa torrent (FLAC, up to 16.5): https://nyaa.si/view/1109243 - [Magnet](magnet:?xt=urn:btih:480ab2d2bbbc2a935b3934c19ebc0b95902416f2&dn=ZUN%2FTouhou%20Official%20Music%20Collection%20v2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
+Alternatively can be found up-to-date on TLMC.
+
 ### Touhou Doujin Music Distribution (Spotify, Apple Music,...)
 !!!info  acts as the publisher for Touhou Project doujin music circles on digital streaming platforms.
 Touhou circles on Spotify https://thspotify.moe
 New releases will be announced [here](https://mayoiga-shironeko.hatenablog.com/) - latest: [2024.01.16](https://mayoiga-shironeko.hatenablog.com/entry/2024/01/16/193212)
 Spotify playlists for every Touhou theme https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit
-
-### Gensokyo Radio 
-https://gensokyoradio.net/playing/
-Stream endpoints: https://stream.gensokyoradio.net/
- 
-### Official music collection 
-Nyaa torrent (FLAC, up to 16.5): https://nyaa.si/view/1109243 - [Magnet](magnet:?xt=urn:btih:480ab2d2bbbc2a935b3934c19ebc0b95902416f2&dn=ZUN%2FTouhou%20Official%20Music%20Collection%20v2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
-Alternatively can be found up-to-date on TLMC.
 
 ### Crossfade/XFD Collection - latest: [Comiket 103 (2023.12.31)](https://www.youtube.com/playlist?list=PLT7Jr9NRUdpYG_X5Upx2G45ULBM2G_gn-)
 !!!info Preview track of upcoming releases at conventions and events. Non-Touhou may be included in the (Comiket, M3) playlist.
@@ -65,6 +62,20 @@ Alternatively can be found up-to-date on TLMC.
 - Touhou Kouroumu 19: https://www.youtube.com/playlist?list=PLT7Jr9NRUdpbmSBwpvvok7-RdFmllRWyw
 - Autumn Reitaisai 10: https://youtube.com/playlist?list=PLT7Jr9NRUdpZ5XGi6PP8rNhYqPv1z4lqq
 - C103: https://www.youtube.com/playlist?list=PLT7Jr9NRUdpYG_X5Upx2G45ULBM2G_gn-
+
+### Encyclopedia & Database
+!!!info Helpful information about your favourite circles, arrangers, albums and songs.
+General Encyclopedia [English](https://en.touhouwiki.net/), [Chinese](https://thwiki.cc/)
+Touhou Music DB https://touhoudb.com/
+VGMdb https://vgmdb.net/
+Arrangement Chronicle https://touhou.arrangement-chronicle.com/
+TLMC-based database https://touhou.media/ ([Mirror](https://touhou-music-database.vercel.app/))
+
+Other helpful sources: suruga-ya, @wiki, Discogs,...
+
+### Gensokyo Radio 
+https://gensokyoradio.net/playing/
+Stream endpoints: https://stream.gensokyoradio.net/
 
 ### Miscellaneous
 Touhou theme arrange crossfades across different genres of music https://www.youtube.com/user/benlisquare/videos

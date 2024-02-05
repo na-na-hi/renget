@@ -1,7 +1,7 @@
 #### Biboo Merch Directory
 *Links for voice packs and other merch*
 
-Last updated: 2024-02-01
+Last updated: 2024-02-04
 
 ##### Voice packs
 - [hololive Valentine's Voice Pack 2024 (EN)](https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019945180) *Order Period : 2024/02/01 18:00 ~ 2024/04/08 18:00 (JST)*
@@ -19,6 +19,7 @@ Last updated: 2024-02-01
 - ~~[Starting Voice](https://shop.hololivepro.com/en/products/starting-voice-koseki-bijou)~~ 
 
 ##### Physical merch
+- [hololive English Valentine's Day 2024 - Acrylic Block Charm, Embroidery Emblem Badge, Embroidery Towel, Set](https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442149084) *Reservation acceptance : 2024/02/05 11:00 ~ (JST)*
 - [hololive English -Advent- Half-Year Celebration Tapestry, Keychain](https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear) *Order acceptance : 2024/01/31 13:10 ~ 2024/03/04 18:00 (JST)* 
 - [hololive x CAPSULE Cheer Up](https://www.cmer.co/pages/hololive-production-cheer-up) *Pre-order will end at 23:59 18th February 2024*
 - [hololive closet Koseki Bijou New Year Outfit (Acrylic stand)](https://shop.hololivepro.com/en/products/hololivecloset_kosekibijou_newyearoutfit)

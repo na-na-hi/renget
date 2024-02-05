@@ -98,7 +98,7 @@ Dere Evil exe | [PRESS START (steam)](https://store.steampowered.com/app/871950/
 Mods List | Links
 ------ | ------
 Myhouse.wad | [PRESS START](https://www.doomworld.com/forum/topic/134292-myhousewad/)
-B3313 (aka. Super Mario 64 Internal Plexus) | [FINAL BUILD](https://drive.google.com/file/d/1h10_fmQQnKlVdIDJVALAWfoNFcpDyLF_/view), [pre-patched](https://www.mediafire.com/file/lulcro39ubyonnx/b3313_unabandoned.zip/file), [hotfix](https://benedani.xyz/files/bee/tweaked/B3313_unabandoned_a1.bps), [(project64 needed)](https://www.pj64-emu.com/), [core (retroarch)](https://www.mediafire.com/file/xzjtvnk7x9f1bs8/parallel_n64_libretro.dll/file), [coop mod](https://files.catbox.moe/n78wss.zip)
+B3313 (aka. Super Mario 64 Internal Plexus) | [1.0](https://drive.google.com/file/d/1U7s0ExXjOmXKIHni5gcM52gDFfp6zKSC/view) ,[old final build](https://drive.google.com/file/d/1h10_fmQQnKlVdIDJVALAWfoNFcpDyLF_/view), [pre-patched](https://www.mediafire.com/file/lulcro39ubyonnx/b3313_unabandoned.zip/file), [hotfix](https://benedani.xyz/files/bee/tweaked/B3313_unabandoned_a1.bps), [(project64 needed)](https://www.pj64-emu.com/), [core (retroarch)](https://www.mediafire.com/file/xzjtvnk7x9f1bs8/parallel_n64_libretro.dll/file), [coop mod](https://files.catbox.moe/n78wss.zip)
 sm64.z64 | [PRESS START](https://romhacking.com/hack/sm64.z64)
 'the (Coronation Day) | [PRESS START](https://www.smwcentral.net/?p=section&a=details&id=13017)
 MARIO | [PRESS START](https://bin.smwcentral.net/36667/MARIO%20(1).zip)

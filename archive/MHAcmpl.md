@@ -102,6 +102,11 @@ Suki HN Sukeban: https://archive.4plebs.org/tg/post/91670899/
 Runt HN Dust Devil: https://archive.4plebs.org/tg/post/91691942/
 Rob Williams HN: Velvet Worm: https://archive.4plebs.org/tg/post/91728780/
 Haiiroshi Kinzoku HN Fullmetal: https://rentry.org/Fullmetal-mha
+Igarashi Ryosuke HN Araken: https://desuarchive.org/tg/post/91807240/
+Tatsuya Yamashita HN Bad Touch: https://desuarchive.org/tg/post/91808184/
+Azuma Hisa HN Beach Day: https://desuarchive.org/tg/post/91809104/
+
+
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -158,6 +163,7 @@ Kiki HN Yggdrasil: https://archive.4plebs.org/tg/post/91707234/
 Riku Washizawa HN The Steel Talon Hero: Skycarver: https://archive.4plebs.org/tg/post/91716771/
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
 Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
+MR. BULLET: https://desuarchive.org/tg/post/91812743/
 
 ### Villains
 >Night Parade
@@ -692,6 +698,7 @@ Chestburster Runt: https://desuarchive.org/tg/post/91793136/
 1-F seating chart(s): https://desuarchive.org/tg/post/91801761/
 1-F seating chart(s): https://desuarchive.org/tg/post/91802597/
 1-F seating chart(s): https://desuarchive.org/tg/post/91802680/
+Rob out of costume: https://desuarchive.org/tg/post/91807419/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -737,6 +744,7 @@ Sandatsu & Mio Date: https://archive.4plebs.org/tg/thread/91595699/#91603225
 Confession: https://archive.4plebs.org/tg/post/91630760/
 do your best: https://archive.4plebs.org/tg/thread/91673568/#91676099
 Underground Gala Mio: https://desuarchive.org/tg/post/91759097/
+Mio: https://desuarchive.org/tg/post/91805597/
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -760,6 +768,7 @@ Sandatsu Art: https://archive.4plebs.org/tg/post/91405875/
 excellence (Hailey): https://archive.4plebs.org/tg/post/91735347/
 delinquent(Yui): https://archive.4plebs.org/tg/post/91759884/
 CHIHIRO: https://archive.4plebs.org/tg/post/91767116/
+Reaper: https://desuarchive.org/tg/post/91805588/
 
 ***
 
