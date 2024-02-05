@@ -1,6 +1,6 @@
 ***
 **⚽︎** !~#ffbed2;default;default;2; arsenal~! & real madrid %#ffbed2%#LOCKEDIN%%
-enjoyer of psg, atletico, utd & juventus [!~+~!](https://rentry.co/tinelli)
+enjoyer of psg, juve & sometimes utd & atletico [!~+~!](https://rentry.co/tinelli)
 ***
 **♪** aespa loona wjsn kiof ive riize tbz bts wayv dream fromis snsd rv kara purk xg lovelyz gwsn twice [!~+~!](https://rentry.co/yooa)
 
@@ -9,4 +9,3 @@ enjoyer of psg, atletico, utd & juventus [!~+~!](https://rentry.co/tinelli)
 **%#ffbed2%୨୧%%**  pretty little liars 13rw hannibal the witcher white lotus 2gether twilight saga black swan 500 days of summer cmbyn dystopian trilogies whiplash [!~+~!](https://rentry.co/haleb)
  
 ***
-->[**₍⑅ᐢ..ᐢ₎♡**](https://rentry.co/saiiba)<-

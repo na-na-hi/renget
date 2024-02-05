@@ -30,6 +30,8 @@ Beast never finished his sentence because as he wagged his finger, his hand lit 
 
 Beast sat in his insurance agent's office, clutching his charred chef's hat in hope for sympathy as his agent reviewed the damage.
 
+->![i wanted to try the weird ad line shading thing sue me](https://files.catbox.moe/tnqqwr.png)<-
+
 "We're sorry Mr. Winchester, but we can't cover you for this." The agent tells him.
 
 Beast's eye went wide with disbelief. "Surely, you jest..."
@@ -60,7 +62,11 @@ Beast's eyes darted around the the various job listings until he found one seeme
 
 Beast began walking across town to where the listing said the guild was located. He was still in slight disbelief that the events had just occurred actually happened, but he knew sitting around moping wouldn't pay off his massive debt any faster.
 
-Beast soon found himself in front of the guild, the building a large hollowed out tree that towered over everything else an impressive amount. The entrance was locked by some sort of door system, with a large grated hole in front of the entrance. He began to walk to the entrance to knock on the door and stepped over the grate when he was startled by a shouting voice from below.
+Beast soon found himself in front of the guild, the building a large hollowed out tree that towered over everything else an impressive amount. The entrance was locked by some sort of door system, with a large grated hole in front of the entrance. 
+
+->![>thrembo is NOT canon in pokemon mystery dungeon, chuddie. you WILL take your meds.](https://files.catbox.moe/lr521p.png)<-
+
+He began to walk to the entrance to knock on the door and stepped over the grate when he was startled by a shouting voice from below.
 
 "POKEMON DETECTED! POKEMON DETECTED!"
 
@@ -116,4 +122,4 @@ Beast turned back at the cat, trying to hide an offended look. "Couldn't I get s
 
 "You could probably ask around, but people here are usually too lazy or tired to do anything. And I have a date with chapter 13 of my book." The cat said as he left the room. "See you at dinner!~"
 
-Beast couldn't believe what he was just told. But then he remembered he wasn't the revered Chef Winchester anymore, he was now just a cook for a group of 20-something explorers. But it was the same way Beast started his career, so he swallowed his pride and picked up a few crates. This was going to be interesting, to say the least. with the wag of a finger, his life changed completely.
+Beast couldn't believe what he was just told. But then he remembered he wasn't the revered Chef Winchester anymore, he was now just a cook for a group of 20-something explorers. But it was the same way Beast started his career, so he swallowed his pride and picked up a few crates. This was going to be interesting, to say the least. With the wag of a finger, his life changed completely.

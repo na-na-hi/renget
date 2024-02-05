@@ -53,7 +53,6 @@ Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Gu
 Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
 ??? | M | Wimpod | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#wimpod)
 Error | M | Iron Valiant | Rotom (M, Quirky, Native?) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#error)
-Turquoise "Turk" | M | Lucario | Team Dynamis (Former Partners) | Clover Guild Veteran Explorer | [Jolly](https://rentry.org/vpmdcloverpb#turk)
 Rain | F | Eevee | Corvisquire (?,?,?) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#rain)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)

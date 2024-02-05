@@ -24,7 +24,7 @@
 
 -> These little guys keep me motivated:<-
 
--> ![h****ge $14](https://files.catbox.moe/9enmo0.png) ![fa****rn $12](https://files.catbox.moe/7xw1ou.png) ![bo****ge $12](https://files.catbox.moe/vqvtex.png) ![su****le $30](https://files.catbox.moe/u1ja9o.png) ![ka****ki $10](https://files.catbox.moe/tjinu2.png) ![re****se $12](https://files.catbox.moe/a4qpq7.png) ![mr****se $20](https://files.catbox.moe/zly7ak.png)<-
+-> ![h****ge](https://files.catbox.moe/9enmo0.png) ![fa****rn](https://files.catbox.moe/7xw1ou.png) ![bo****ge](https://files.catbox.moe/vqvtex.png) ![su****le](https://files.catbox.moe/u1ja9o.png) ![ka****ki](https://files.catbox.moe/tjinu2.png) ![re****se](https://files.catbox.moe/a4qpq7.png) ![mr****se](https://files.catbox.moe/zly7ak.png)<-
 
 
 -> Number of Special Kobolds: **7** <-
@@ -65,7 +65,7 @@ Subject | Version | Description | Date
 **Latest Experimental Prompt** | %orange%Kobbo V1 (Discarded)%%  | Tried to create a system, but decided to break it into smaller projects after testing. I will finish it only if I find a solution to changeGPT writing drasticly. ([Secret link](CharacterProvider-KobboV1) I do not recommend using it) | 28.12.2023
 **Latest Stable Prompt** | %orange% GPT: GPT-AP-3 / Claude: V12/V10.1%% | Descriptions are provided in the specified section. | 01.10.2023 / 02.09.2023
 **Latest Utility Prompt** | %orange% Advanced vocal expressions%% | Simple prompts that will help you to RP. | 13.01.2024
-**Quick Replies Update** | %orange% 2.0 (WIP)%% | Now incudes 20+ actions. | 29.12.2023
+**Quick Replies Update** | %orange% 2.1 (WIP)%% | `◈ Story` > `Alt Start` Now creates an alternative scenario with your character. | 03.02.2024
 
 #
 - - -

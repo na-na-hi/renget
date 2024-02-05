@@ -536,9 +536,6 @@ Biography generated!
 >Goals: 
 >Error doesn't know if he'll ever get to return home, and he's not certain if home is a place he wants to return to either. He hopes to one day find a peaceful calling where both his mind and body can find some well-deserved rest. Until then, he wishes to overcome his personal demons and grow stronger, even if they may very well try to ruin him in the process.
 
-###Turk
-[See Linked](https://rentry.org/turklucarioprofile)
-
 ###Rain
 {Pending}
 

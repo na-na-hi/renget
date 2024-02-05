@@ -1,6 +1,6 @@
 ![](https://files.catbox.moe/dlphjz.png)
 ## Quick replies
-*Current version: 2.0| (28.12.2023)*
+*Current version: 2.1| (04.02.2024)*
 - - -
 ####
 ##### **Info:**
@@ -18,7 +18,7 @@ To send a message with the chosen prompt simply type in the message you want to 
 
 ####
 - - -
-##### [⬇️ DOWNLOAD QR PRESETS V2.0](https://files.catbox.moe/752pwo.zip)
+##### [⬇️ DOWNLOAD QR PRESETS V2.1](https://files.catbox.moe/edaqug.zip)
 (These presets work best with `gpt-4-1106-preview` and `gpt-4-32k`)
 
 ##### Installation:

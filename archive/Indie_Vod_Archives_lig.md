@@ -28,7 +28,7 @@ Froot Vod Channel| [Link](https://www.youtube.com/c/ApricottheLichTwitchArchive)
 Hannah Hyrule| [Link](https://www.youtube.com/@CaptainVODS/videos)| Twitch: https://www.twitch.tv/hannahhyrule
 Lucypyre| [Link](https://www.youtube.com/@lucypyrevods)| Twitch: https://www.twitch.tv/lucypyre
 Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
-Grimmi| [Link](https://www.youtube.com/@GrimmiVault)| Twitch: https://www.twitch.tv/grimmivt
+
 
 ---
 #Unofficial Vod Archives 
@@ -54,7 +54,7 @@ Archive.org Mirror|[Archive.org](https://archive.org/details/2021-06-13-resident
 ##[Anny](https://www.twitch.tv/anny)
 Content|Link|Description 
 -------|-------|------- 
-Vod Archive (of mostly VR chat Vods) | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| [Discontinued]
+Vod Archive (of mostly VR chat Vods) | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8LS8g-R5qXAtOj1f2xuMUq)| 
 
 ---
 
@@ -62,7 +62,7 @@ Vod Archive (of mostly VR chat Vods) | [Link](https://www.youtube.com/playlist?l
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@veibaevods)|
-Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8Hilk32aYsfB7kdMB1OiSY)| [Discontinued]
+Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8Hilk32aYsfB7kdMB1OiSY)| 
 
 ---
 
@@ -70,18 +70,18 @@ Unofficial Vei Vod Archives | [Link](https://www.youtube.com/playlist?list=PLHVA
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
-Unofficial Girl DM Vod Archives | [Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)| [Discontinued]
-Unofficial Girl DM Vod Archives | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXHuBG_SqMfslUhd?e=5d7nFW)|[Discontinued]
-Unofficial Girl DM Vod Archives | [Archive.org](https://archive.org/details/girl-dm-2023-05-08-karaoke-third-anniversary-of-girldm-d-no-fanfare-just-karaoke)|[Discontinued]
+Unofficial Girl DM Vod Archives | [Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)|If you want future Karaoke vods added to this feel free to contact me per mail at: hansderhas6473(at)gmail.com and i will add them.
+Unofficial Girl DM Vod Archives | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXHuBG_SqMfslUhd?e=5d7nFW)|
+Unofficial Girl DM Vod Archives | [Archive.org](https://archive.org/details/girl-dm-2023-05-08-karaoke-third-anniversary-of-girldm-d-no-fanfare-just-karaoke)|
 
 ---
 
 ##[Bubi](https://www.twitch.tv/bubivt) 
 Content|Link|Description 
 -------|-------|------- 
-Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| [Discontinued]
-Bubi VT Vod "Archive"|[Ms Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXApidFV6YEwaOc-?e=hDVU85)| [Discontinued]
-Bubi VT Vod "Archive"|[Archive.org](https://archive.org/details/Bubi_vt_Vod_Archive)| [Discontinued]
+Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| 
+Bubi VT Vod "Archive"|[Ms Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXApidFV6YEwaOc-?e=hDVU85)| 
+Bubi VT Vod "Archive"|[Archive.org](https://archive.org/details/Bubi_vt_Vod_Archive)| 
 
 
 
@@ -91,9 +91,9 @@ Bubi VT Vod "Archive"|[Archive.org](https://archive.org/details/Bubi_vt_Vod_Arch
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
-Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| [Discontinued]
-Unofficial Archive of the first Karaoke vod | [MS Onedrive](https://1drv.ms/v/s!AhS3PgDnjlw8kXLEH7VrIBTWgjcw?e=zBvwm3)| [Discontinued]
-Unofficial Archive of the first Karaoke vod | [Archive.org](https://archive.org/details/2022-05-28-karaoke-this-sucks-batatvideogames)| [Discontinued]
+Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| 
+Unofficial Archive of the first Karaoke vod | [MS Onedrive](https://1drv.ms/v/s!AhS3PgDnjlw8kXLEH7VrIBTWgjcw?e=zBvwm3)| 
+Unofficial Archive of the first Karaoke vod | [Archive.org](https://archive.org/details/2022-05-28-karaoke-this-sucks-batatvideogames)| 
 
 
 ---
@@ -102,11 +102,11 @@ Unofficial Archive of the first Karaoke vod | [Archive.org](https://archive.org/
 Content|Link|Description 
 -------|-------|------- 
 Official Vod Channel| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.twitch.tv/Meiya
-Final Fantasy X Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-xiuAnocEHiWYiHHP211Ma)| [Discontinued]
-Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YI7waWUivpGaqW60Nhrob)| [Discontinued]
-Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-1VyIT8eKHPNpenl6Y1-4M)| [Discontinued]
-Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)| [Discontinued]
-Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)| [Discontinued]
+Final Fantasy X Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-xiuAnocEHiWYiHHP211Ma)| 
+Crisis Core Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-YI7waWUivpGaqW60Nhrob)| 
+Final Fantasy VII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-1VyIT8eKHPNpenl6Y1-4M)| 
+Final Fantasy VIII Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_28oBfjS_lYvPvjMdkACCR)| 
+Final Fantasy IX Vods | [Link](https://www.youtube.com/playlist?list=PLHVAyW4Atbv_4FxkwXIMEL5CDr8Z17O0m)| 
 
 ---
 
@@ -170,3 +170,9 @@ Ragtag Archive| [Link](https://archive.ragtag.moe/)|
 Archive Org| [Link](https://archive.org)| Other people use this website to archive random Vtuber vods sometimes, so if youre looking for specific vods this might be of use
 Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#recanon)| #recanon at irc.rizon .net
 /vt/ IRC (General Discussion Channel)| [Link](https://kiwiirc.com/nextclient/irc.rizon.net/#/vt/)| #/vt/ at irc.rizon .net
+
+
+---
+#Ways to contact me if needed:
+
+If you have questions or need help with anything feel free to contact me over email at: hansderhas6473(at)gmail.com or you can sproadically find me in the 4chan IRC (https://rentry.org/IRC_Stuff) under the name "nyarchivist".

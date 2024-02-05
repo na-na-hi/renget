@@ -10,7 +10,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 **Species:** Snivy | **Affiliation:** None
 **Level:** 12 | **Experience to Next Level:** 15/120
 **Worn Item:** *N/A* | **Clothing:** *Green Scarf*
-**Pokécoin:** 793₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 743₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -87,7 +87,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Big Apple | Gives +4 to any outside-combat-action.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

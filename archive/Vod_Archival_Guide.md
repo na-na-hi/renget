@@ -11,4 +11,9 @@ Vod Archival Guide | [Google Docs](https://docs.google.com/document/d/1MR48duo8F
 MS onedrive Mirror | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kgaNay0EcywHlxU_?e=DsVkYN) |
 Mega Mirror | [Mega](https://mega.nz/folder/3DJg2DTZ#ON3mctUOZorlXtdwrR8rAQ) |
 
+---
+#Ways to contact me if needed:
+
+If you have questions or need help with anything feel free to contact me over email at: hansderhas6473(at)gmail.com or you can sproadically find me in the 4chan IRC (https://rentry.org/IRC_Stuff) under the name "nyarchivist".
+
 ![Bye](https://files.catbox.moe/ssn79x.gif)

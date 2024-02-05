@@ -129,6 +129,10 @@
 - It is highly recommended not to miss this website where you can watch anime online in high definition.
 - [URL Safety Results](https://www.urlvoid.com/scan/animehub.ac/)
 
+### ▶️ [AnimeNana](https://animenana.com/)
+- Supercharged streaming servers for your favorite anime, with the latest releases.
+- [URL Safety Results](https://www.urlvoid.com/scan/animenana.com/)
+
 ### ▶️ [Animension](https://animension.to/)
 - Browse, follow, and share your favorite anime on one website, truly a portal to the world of fun.
 - [URL Safety Results](https://www.urlvoid.com/scan/animension.to/)
@@ -164,10 +168,6 @@
 ### ▶️ [Anix](https://anix.to/)
 - Draws influence from the well-known AniMixPlay platform that features a minimalist layout.
 - [URL Safety Results](https://www.urlvoid.com/scan/anix.to/)
-
-### ▶️ [Enime](https://enime.moe/)
-- A wonderful resource website that offers a free and open source platform to broadcast HD streams of anime for pure pleasure.
-- [URL Safety Results](https://www.urlvoid.com/scan/enime.moe/)
 
 ### ▶️ [Kaido](https://kaido.to/)
 - Dependable and quick anime streaming site. Benefit from outstanding features like HD resolution.

@@ -10,14 +10,20 @@
 
 ***
 
+-> %gray%~~Saturday February 3rd, 5pm UTC~~%% <-
 -> %gray%~~**Rozen Maiden (2004)**~~%% <-
+-> %gray%~~Sunday, February 4th, 5pm UTC~~%% <-
+-> %gray%~~**Rozen Maiden: Träumend**~~%% <-
+-> %gray%~~**Rozen Maiden: Ouvertüre**~~%% <-
+-> *Thank you for coming ~desu!* <-
 
 ###-> Next: <-
-#### -> Sunday, February 4th, 5pm UTC <-
--> **Rozen Maiden: Träumend** <-
--> **Rozen Maiden: Ouvertüre** <-
+#### -> **Rozen Maiden: Zurückspulen** <-
+#### -> [Download and read the manga first](https://www.mediafire.com/file/j027vet2qkw2o5e/Manga.zip/) <-
+#### -> Date is unknown (next Saturday?) <-
 
-##### ->  [Discuss it and get actual info and links on the imageboard - /rozen/](https://zzzchan.xyz/rozen/index.html) <-
+
+#### ->  [Discuss it and get actual info and links on the imageboard - /rozen/](https://zzzchan.xyz/rozen/index.html) <-
 ***
 ![](https://files.catbox.moe/xwirdu.jpg)
 ***
@@ -47,7 +53,6 @@ In the aftermath of the fight, more Rozen Maidens appear and decide to live at J
 - *Rozen Maiden: Dolls Talk (Manga spin-off, 2011)*
 - *Maite wa Ikenai Rozen Maiden (One-shot comedy spin-off, 2012)*
 - *Zettai ni Maite wa Ikenai Rozen Maiden (One-shot comedy spin-off, 2016)*
-#### -> [Download manga](https://www.mediafire.com/file/j027vet2qkw2o5e/Manga.zip/) <-
 ***
 #### Suiseiseki's personal watch order recommendations, just for (You), Anonymous:
 ![](https://files.catbox.moe/vzhvrh.png)

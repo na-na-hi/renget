@@ -9,18 +9,17 @@
 For the 238th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
+\>Streams
+Next stream: Palworld (Sun 02/05 7PM CT)
+Last stream (Palworld)
+https://www.youtube.com/watch?v=aDEai8MA-p0
+Previous appearance (FWMC birthday countdown)
+https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 
 \>New merch
 hololive Valentine's Voice Pack 2024: https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948
 Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
-
-\>Streams
-Next stream: Palworld (Sun 02/04 7PM CT)
-Last stream (Kuukiyomi)
-https://www.youtube.com/watch?v=YR6IV_OdWAg
-Previous appearance (FWMC birthday countdown)
-https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
 https://s.goodsmile.link/gmC
@@ -74,5 +73,3 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Reminder, please consider voting for January's top streams.
-https://forms.gle/foT5vZmxGrgXm8rR6

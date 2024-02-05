@@ -157,11 +157,6 @@ Sex: Male
 >Speaks in an irritable, blunt voice and is quick to cut others off.
 >Though he still speaks like a crook, always follows through on swapping his customers back to normal.
 
-####Wigglytuff Apprentice Morgan
->Apprentice at Wigglytuff's Guild since about a week before the Clover Guild assembled.
->Has been praised by Chatlot as the model of a perfect explorer, marred only by several disciplinary marks on her record for poor teamwork.
->Seems to have (putting it lightly) a mutual dislike of, and rivalry with, Amelia. What could that be about?
->**{Further information currently a spoiler pending the release of the story involving this character. Soon(TM).}**
-
-####Exploration Team Dynamis
->**{Information Pending}**
+####Veteran Explorer Turk
+>[See Linked](https://rentry.org/turklucarioprofile)
+>Formerly leader of Team Dynamis with Charcadet (m, deceased) & Mudkip (m, deceased) Sprigatito (f, missing)

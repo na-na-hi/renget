@@ -15,5 +15,4 @@ Weezil & Morgel | F/M | Weavile & Morgrem | [Human-hunting Outlaws(?)](https://r
 Mr. Goldbird | M | Linoone (Galarian) | [CEO of Pelipper Mail Company](https://rentry.org/pmdg_clover_minor_personalities#pelipper-mail-ceo-mr-goldbird)
 BLADE the COOLTORB | M | Voltorb | [Edgy Meme](https://rentry.org/pmdg_clover_minor_personalities#blade-the-cooltorb)
 Smeargle | M | Smeargle | [Former Outlaw, Heart Shop Proprietor](https://rentry.org/pmdg_clover_minor_personalities#former-outlaw-smeargle)
-Morgan | F | Buneary | [Wigglytuff Guild Member](https://rentry.org/pmdg_clover_minor_personalities#wigglytuff-apprentice-morgan)
-Team Dynamis (Charcadet (†) & Mudkip (†) Sprigatito (?)) | M/M/F | Charcadet & Mudkip & Sprigatito | [Failed Saviors](https://rentry.org/pmdg_clover_minor_personalities#exploration-team-dynamis)
+Turk  | M | Lucario | [Failed Hero, Clover Guild Member](https://rentry.org/pmdg_clover_minor_personalities#veteran-explorer-turk)

@@ -426,11 +426,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Writefags:
->Runt Breaks the Ice!! (Runt, 1-F) 
-https://rentry.org/x6hogk7r
->NOTEBOOK (Suki, 1-F)
-https://rentry.org/mxh95sov
+Artfags:
+>Reaper
+>>91805588
+>Mio
+>>91805597
+>Rob out of costume
+>>91807419
+
+Characters:
+>Igarashi Ryosuke HN Araken
+>>91807240
+>Tatsuya Yamashita HN Bad Touch
+>>91808184
+>Azuma Hisa HN Beach Day
+>>91809104
+>MR. BULLET
+>>91812743
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -517,6 +529,12 @@ Page 2
 >>91685518+>>91685973
 >Haiiroshi Kinzoku HN Fullmetal
 https://rentry.org/Fullmetal-mha
+>Igarashi Ryosuke HN Araken
+>>91807240
+>Tatsuya Yamashita HN Bad Touch
+>>91808184
+>Azuma Hisa HN Beach Day
+>>91809104
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -662,6 +680,8 @@ Page 4
 >>91360064
 >Richard Wilkins HN The #1 Hydro Hero: "Splash"
 >>91721688
+>MR. BULLET
+>>91812743
 
 >SUPPORTERS:
 >Lady Astoria Belmont

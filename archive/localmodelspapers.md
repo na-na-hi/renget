@@ -170,6 +170,7 @@
 12/2023|[ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks](https://arxiv.org/abs/2312.08583)
 12/2023|[The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558)
 01/2024|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/abs/2401.15024)
+01/2024|[RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -274,6 +275,8 @@
 01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
 01/2024|[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196)
 01/2024|[MoE-LLaVA: Mixture of Experts for Large Vision-Language Models](https://arxiv.org/abs/2401.15947)
+01/2024|[Haotian Liu - LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://archive.is/WMr0Z)
+01/2024|[OpenBMB - MiniCPM: Unveiling the Potential of End-side Large Language Models](https://archive.is/IlMnJ)
 02/2024|[Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2402.00789)
 |
 |**Various**
@@ -555,5 +558,3 @@
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
 12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)
 12/2023|[HuggingFace - Mixture of Experts Explained](https://archive.is/8r7t9)
-01/2024|[Haotian Liu - LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://archive.is/WMr0Z)
-01/2024|[OpenBMB - MiniCPM: Unveiling the Potential of End-side Large Language Models](https://archive.is/IlMnJ)

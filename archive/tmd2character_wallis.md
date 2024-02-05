@@ -17,7 +17,7 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 13 | **Experience to Next Level:** 60/130
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 745₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1745₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -54,7 +54,7 @@ Rock Smash | 10-20; The Opponent's Defense is decreased by 1. The User can shatt
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 136 points to spend.
+    You have 152 points to spend.
     0/10 IP | ▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -75,7 +75,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪɪ** | Tier **ɪɪɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Special Defense **ɪɪ** | Tier **ɪɪɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
 .
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
@@ -90,9 +90,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Blast Seed | Explodes on contact for 10 true damage.
-2. Blast Seed | Explodes on contact for 10 true damage.
-3. Brown Gummi | Won't be here for long.
+1. Empty | Empty inventory slot.
+2. Empty | Empty inventory slot.
+3. Empty | Empty inventory slot.
 4. Empty | Empty inventory slot.
 
 **STORAGE (2 slots)**

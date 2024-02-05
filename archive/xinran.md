@@ -1,9 +1,3 @@
-**big fan of** %#ffaed1%**♥**%% seals music football true crime f1 bandori vocaloid 48g wlw mangas DC spiderman 
-kafka contemporary art adventure time tpobaw 
-2nd gen + nugu ggs hannibal & media overall [etc](https://rentry.co/dawon)
-
+**big fan of** %#ffaed1%**♥**%% arsenal aespa WINRINA seals music futbol f1 bandori chn48 wlw manga high fashion contemporary art nugu & 2nd gen ggs tpobaw DC spiderman adventure time hannibal & media overall
 ***
-very fond of %#3AD2EC%**karina**%% wonyoung jungkook wonbin. mbappé saliba trossaka tinelli lukamos güler jacob elordi mads mikkelsen hadid sisters ayo edebiri **<3**
-***
-
-->[!~back~!](https://rentry.co/saiiba)<-
+very fond of %#34C5FF%**karina**%% wonyoung jungkook wonbin. mbappé saliba trossaka tinelli lukamos güler jacob elordi mads mikkelsen hadid sisters ayo edebiri **<3**
