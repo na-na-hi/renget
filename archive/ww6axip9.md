@@ -91,8 +91,8 @@ It finally comes to her attention that her body does not feel right - or *human*
 Whatever conciousness she had just gained left her just as fast, and she returns to darkness again.
 
 ![Sleep tight, Rain](https://i.imgur.com/NwiiDT0.png)
-
+***
 !!! info
 	31 Jan - posted
 	1 Feb - fixed tensing and typos
-	5 Feb - changed some phrasing
+	5 Feb - changed some phrasing and formatting

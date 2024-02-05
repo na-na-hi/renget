@@ -41,12 +41,12 @@ This is one of my favorite characters created by [thegreatcoom](https://www.chub
 
 ###  "JED" (Just Enough Definitions. Character Card System Template)
 
-##### Empty Template for a Character Card
+##### Empty Card Template (Character Sheet)
 (~400 Tokens. It's a bit excessive, but I think it will serve as a good base for your card. You don't need to fill in every single detail and can delete the parts you don't need.)
 ```markdown
 # Setting
-- Year: 
-- Details: 
+- Time Period: 
+- World Details: 
 - Main Characters: {{user}}, {{char}} (If the scenario has additional characters)
 
 <{{char}}>
@@ -90,16 +90,19 @@ This is one of my favorite characters created by [thegreatcoom](https://www.chub
 - 
 - 
 
+## Origin (Optional)
+
+
 ## Residence (Optional)
+
+
+## Connections (Optional)
 
 
 ## Goal (Optional)
 
 
 ## Secret (Optional)
-
-
-## Connections (Optional)
 
 
 ## Personality
@@ -109,7 +112,8 @@ This is one of my favorite characters created by [thegreatcoom](https://www.chub
 - Dislikes: 
 - Deep-Rooted Fears: 
 - Details: 
-- When safe: 
+- When Safe: 
+- When Alone
 - When Cornered: 
 - With {{user}}: 
 
@@ -122,8 +126,12 @@ This is one of my favorite characters created by [thegreatcoom](https://www.chub
 ## Sexuality
 - Sex/Gender: 
 - Sexual Orientation: 
-- Quirks/Habits: 
 - Kinks/Preferences: 
+
+## Sexual Quirks and Habits
+- 
+- 
+- 
 
 ## Speech
 - Style: 
@@ -198,28 +206,43 @@ Genre: (Combination of ~3 genres here)
 ```
 
 ##### Empty Template for a Premise
-(Unique for each scenario start)
+(Unique for each scenario start. May confuse the models other than GPT and Claude)
 
 Include this in your initial message to create a scenario premise and plan, what should happen next:
 ```markdown
 <details>
 <summary>Premise</summary>
 
-## Previously
+### Previously
 
 
-## Starting State
+### Starting State
 
 
-## Facts
+### Facts
 - 
 - 
 - 
 
-## Plan
-
+<details>
+<summary>Plan</summary>
+(Describe what can happen next)
+</details>
 
 </details>
+
+<img style='width:100%;border-radius:4px' src='PUT IMAGE URL HERE'> (Optional)
+
+<small><b> (Optional)
+```java
+HH:MM, July the 1st, Sunday, I: 28℃ O: 34℃, Clear Sky
+"(Location Name Here)"
+ ```
+</small></b>
+
+- - -
+
+(The initial message here)
 ```
 
 - - -

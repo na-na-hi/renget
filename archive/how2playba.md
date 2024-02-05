@@ -1,5 +1,5 @@
 # /bag/ Newfag guide
-You can't save the free 100 rolls until bluefes aka Hanako banner. 
+You can't save the free 100 rolls for bluefes aka Hanako banner. 
 
 https://rentry.org/s2kng54y use this for the event minigame
 
@@ -61,19 +61,19 @@ You can always switch emulators if nothing works.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
 ## (Re)rolling
-The game allows you to reroll your first 10 roll up to 9 times.
-**Save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
-**Spend *all* your rolls after the first mission (1-1). After that you can reroll.**
+The game allows you to reroll your first 10 roll up to 9 times, called Precision Recruitment. 
+For Precision Recruitment: **Save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
+After Precision Recruitment: **Spend *all* your rolls after the first mission (1-1). After that you can reroll.**
 Make sure to claim stuff from missions and your mailbox too. 
 
-I'd advice you to do the same even if you don't reroll, just so you have something to work with. 
+I'd advice you to use all your rolls after 1-1 even if you don't reroll, just so you have something to work with. 
 
 **BA has sparks, not pity.** 
 **Sparks do not carry over between banners.**
 See 'Is there pity? What's a spark' for more 
 
 Your very first roll guarantees a single 3\* student from a pool of *only* the release roster (students released on 2021/02/04) on the 10th roll. You can roll more than 1 3\*s if you get lucky enough.
-![no, you can't get Ako on your 10 roll.](https://i.imgur.com/0nMJLHD.png)
+![no, you can't get Ako on your first 10 roll.](https://i.imgur.com/Q2hxPdE.png)
 Rolling in 10s guarantees at least one 2\* student so it's better to roll in multis.
 If you have no interest in the current banner student(s) use the Regular Recruitment banner, as all pick-up rates will be the same.
 

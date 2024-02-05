@@ -112,6 +112,7 @@ https://files.catbox.moe/29oqmg.safetensors kurono_mitsuki
 https://files.catbox.moe/mj8sls.safetensors tokkyu
 https://files.catbox.moe/s5n8ul.safetensors moshimoshibe 
 https://files.catbox.moe/amb4x8.safetensors shuz_ requires activation prompt of shuz and helps to put 3d in the negatives
+https://files.catbox.moe/a0rftx.safetensors kazutake_hazano 
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -264,6 +265,8 @@ alp
 elf \(stroll_in_the_woods\)
 tomu \(tomubobu\)
 kame \(kamepan44231\)
+cyancapsule
+kelvin hiu
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk 

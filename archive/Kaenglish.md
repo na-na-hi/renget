@@ -1,6 +1,8 @@
 # -> Kaenglish <-
 -> A guide to better understanding Kaela Kovalskia <-
 
+**A ang**
+'Aang'
 **Adiost**
 'Adios'
 **Alaram**
@@ -30,6 +32,8 @@
 'Fence'
 **Fizz**
 'Fish'
+**Fleshlight**
+'Flashlight'
 **Imayjin**
 'Imagine'
 **Ion**
@@ -38,6 +42,8 @@
 'Indeed'
 **Ketring**
 'Catering'
+**Ledder**
+'Ladder'
 **Mashetea**
 'Machete'
 **Nicet**

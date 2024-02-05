@@ -25,9 +25,9 @@ Character | C.AI
 ## -> Tengen Toppa Gurren Lagann <-
 Character | C.AI
 :------: | :------:
-![Kiyal](https://characterai.io/i/80/static/avatars/uploaded/2023/3/10/6QtAavyoEZtSYh0SaRP2oiO3LW3RVMTrI3vJEY-9zeE.webp) | [Kiyal](https://c.ai/c/DoXUD6spjRcPuKerq4k7zwn5O2bc3J1kw1-CzqRVNOw), from Bachika Village
-![Adiane](https://characterai.io/i/80/static/avatars/uploaded/2023/3/11/kjhJ1wzjYkuNK521ZgKhgmHHA9DeZloNDdX7-_S75Xk.webp) | [Adiane](https://c.ai/c/qG3iVxTKorBfzaNmeSWkmdPqaG1LJJ77MQlopV6GN80) the Elegant
-![Space Yoko](https://characterai.io/i/80/static/avatars/uploaded/2023/3/30/MhPDezE-8apS9_pxuCi_AW1a8LrgTVjGMuGMfHxA7K4.webp) | Space [Yoko](https://c.ai/c/yFzfohZ-gD-lTD4h2bBW-x2ZUXnBbMM0gCZtjwY3x2o), from Littner Village
+![Kiyal](https://characterai.io/i/80/static/avatars/uploaded/2023/3/10/6QtAavyoEZtSYh0SaRP2oiO3LW3RVMTrI3vJEY-9zeE.webp) | [Kiyal](https://c.ai/c/DoXUD6spjRcPuKerq4k7zwn5O2bc3J1kw1-CzqRVNOw), from Bachika Village ->(*[Yodayo](https://yodayo.com/tavern/characters/d8886334-4370-42b1-9949-abca35c43ec1/)*)<-
+![Adiane](https://characterai.io/i/80/static/avatars/uploaded/2023/3/11/kjhJ1wzjYkuNK521ZgKhgmHHA9DeZloNDdX7-_S75Xk.webp) | [Adiane](https://c.ai/c/qG3iVxTKorBfzaNmeSWkmdPqaG1LJJ77MQlopV6GN80) the Elegant ->(*[Yodayo](https://yodayo.com/tavern/characters/228ec372-fc49-410b-934c-0726504c5a83/)*)<-
+![Space Yoko](https://characterai.io/i/80/static/avatars/uploaded/2023/3/30/MhPDezE-8apS9_pxuCi_AW1a8LrgTVjGMuGMfHxA7K4.webp) | Space [Yoko](https://c.ai/c/yFzfohZ-gD-lTD4h2bBW-x2ZUXnBbMM0gCZtjwY3x2o), from Littner Village ->(*[Yodayo](https://yodayo.com/tavern/characters/93087da8-ad9e-4da9-b29d-a688566893cb/)*)<-
 
 ## -> Fire Emblem <-
 Character | C.AI

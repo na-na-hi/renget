@@ -39,10 +39,10 @@
 [Principles of DL](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
 |
 **Prompting**|
+[promptfoo](https://github.com/promptfoo/promptfoo)|Tool for testing and evaluating LLM output quality also with side-by-side feature
 [LearnPrompting.org](https://learnprompting.org/docs/intro)|Course and resources for prompting (user focus) 
 [PromptingGuide.Ai](https://www.promptingguide.ai)|Course and resources for prompting (academic focus)
 [Parameter Settings](https://archive.is/htVug)|For use with most local inferencing frontends
-[RPBT Prompt](https://rentry.org/RPBT)|Allows for OOC guiding and for roleplay with multiple characters 
 |
 **LLM Inferencing**|
 [Text Gen WebUI](https://github.com/oobabooga/text-generation-webui)|Frontend to most GPU/CPU model backends

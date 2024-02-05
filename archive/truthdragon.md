@@ -4,7 +4,7 @@
 -> ![rentry . co / truthdragon](https://i.imgur.com/7eVT4wy.png) <-
 ‎ ‎ 
 -> ◜ [k](darkindaggers)ey ﹔[c](IKnowDisplace)ontact ﹔[w](t1keria)ishlist ﹔[u](phelsurls)nlisted ◝
- ◟  ‎  ‎  ‎  ‎    ‎  ‎  ‎  ‎  ‎  ‎  ‎  ‎  [l](dreamdragon)eague ﹔[t](sentry)xto ﹔[s](https://sntry.cc/aphelios)ntry    ‎  ‎  ‎  ‎    ‎  ‎  ‎  ‎ ‎  ‎  ‎  ‎  ◞
+ ◟    ‎ ‎  ‎   ‎  [l](dreamdragon)eague ﹔[t](sentry)xto ﹔[s](https://sntry.cc/aphelios)ntry ﹔[t](unholymoon)rades   ‎   ‎  ‎  ‎  ◞
 <-
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **NAMES** <-
@@ -18,7 +18,7 @@
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **MOON RELATED** <-
 ***
-**[lunar](lunar)** ♡ mutemoon ♡ mooncurse ♡ meowmoons ♡ moonwaltzers ♡ moondancing ♡ moonblooded ♡ mutedmoon ♡ cursedmoon ♡ royalmoon ♡ moonscall ♡ lunaridol ♡ moonbuns ♡ mooncubus ♡ mooncoffin ♡ unholymoon ♡ moonform ♡ demomoon ♡ demonmoon ♡ chosenmoon ♡ lostmoon ♡ lunartism 
+**[lunar](lunar)** ♡ mutemoon ♡ mooncurse ♡ meowmoons ♡ moonwaltzers ♡ moondancing ♡ moonblooded ♡ mutedmoon ♡ cursedmoon ♡ royalmoon ♡ moonscall ♡ lunaridol ♡ moonbuns ♡ mooncubus ♡ mooncoffin ♡ [unholymoon](unholymoon) ♡ moonform ♡ demomoon ♡ demonmoon ♡ chosenmoon ♡ lostmoon ♡ lunartism 
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **PHRASES** <-
 ***

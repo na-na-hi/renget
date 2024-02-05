@@ -160,3 +160,7 @@ Amaki "The devil" Pururu: Japanese ironmouse. Mains Marisa. Master Rank.
 https://www.twitch.tv/amakipururu
 Yukonishita "Gas Chamber" Peo: Jp /tsunx/ friend who loves amelia watson and plays IS
 https://www.youtube.com/watch?v=CaaCYs2gXmg
+Yuccho " Esos son Reebok o son Nike": Musician who is also a Master DJ. 
+https://www.twitch.tv/yuccho_vtuber (embed)
+Nimi " Double Riichi" Pyoi: Manon Master who is also a mahjong fan
+https://www.twitch.tv/nimi_pyoi

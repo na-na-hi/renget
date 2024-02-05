@@ -109,11 +109,11 @@ Page | Description
 
 ##### Will You Enjoy These Prompts?
 
-!!! I recommend you using these prompts as universal prompts for ADVENTURES. They heavily affect the output. You will get a decent result on any card, but if you want the best output, I'd advice you make your own card with good definitions, minimize the JB, and create the initial message that would jumpstart the roleplay from the start. I will be updating my [botmaker guide](https://rentry.co/CharacterProvider-GuideToBotmaking) so stay tuned. I've created a [template](https://rentry.org/CharacterProvider-CharTemplate) for character cards, but I will combine these two pages later.
+!!! I recommend you use these prompts as universal prompts for ADVENTURES. They heavily affect the output. You will get a decent result on any card, but if you want the best output, I'd advice you make your own card with good definitions, minimize the JB, and create the initial message that would jumpstart the roleplay from the start. I will be updating my [botmaker guide](https://rentry.co/CharacterProvider-GuideToBotmaking) so stay tuned. I've created a [template](https://rentry.org/CharacterProvider-CharTemplate) for character cards, but I will combine these two pages later.
 
 !!! danger
-	Themes I am not making my prompts for:
-	\- Suic/*de
+	Themes my prompts are not intended for:
+	\- Suic\*de
 	\- Gore
 	\- Political and war scenarios
 	\- Characters with overcomplicated personalities
@@ -153,7 +153,9 @@ Instructions that I commonly include into my prompts:
 - - -
 ##### Which Model Should You Choose for RP?
 !!! info
-	GPT4 32K (Any version) / Claude (Any version) / GPT4 8K > GPT4-Turbo > ~~Claude 1.2~~ (Context is too low) > Claude instant / GPT3.5-Turbo
+	**GPT4 32K (Any version) / Claude (Any version) / GPT4 8K > GPT4-Turbo > Claude 1.2 > Claude instant / GPT3.5-Turbo**
+
+**%orange%I strongly recommend you use GPT 32K instead of 4urbo. 32k is better for RP. 4urbo is great for tasks but generates too much 'water'.%%**
 
 **Gregory Kamradt, ‘Pressure testing Claude-2.1 200K via Needle-in-a-Haystack’, November 2023:**\*
 

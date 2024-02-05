@@ -275,9 +275,10 @@
 01/2024|[VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
 01/2024|[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196)
 01/2024|[MoE-LLaVA: Mixture of Experts for Large Vision-Language Models](https://arxiv.org/abs/2401.15947)
-01/2024|[Haotian Liu - LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://archive.is/WMr0Z)
-01/2024|[OpenBMB - MiniCPM: Unveiling the Potential of End-side Large Language Models](https://archive.is/IlMnJ)
+01/2024|[LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://archive.is/WMr0Z)
+01/2024|[MiniCPM: Unveiling the Potential of End-side Large Language Models](https://archive.is/IlMnJ)
 02/2024|[Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2402.00789)
+02/2024|[Introducing Qwen1.5](https://archive.is/C6gpR)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -536,6 +537,7 @@
 01/2024|[Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model](https://arxiv.org/abs/2401.17868)
 01/2024|[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
 02/2024|[EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models](https://arxiv.org/abs/2402.00518)
+02/2024|[MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts](https://arxiv.org/abs/2402.00893)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

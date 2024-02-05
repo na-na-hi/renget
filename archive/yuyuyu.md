@@ -387,6 +387,9 @@ https://files.catbox.moe/x7tyio.mp3
 https://rentry.co/KuMeYuCD_6
 https://files.catbox.moe/h8go0u.mp3 
 
+>>YuYuYui Console Version - Drama CD
+https://mega.nz/folder/cC5gjJQL#UXaUcEmKZC56dGk53JcMhA
+
 
 >>Character Songs
 https://nyaa.pantsu.cat/view/652143 (mp3)
@@ -456,6 +459,9 @@ https://imgur.com/a/v55fxaB
 
 >Kanno Touko artbook scans
 https://imgur.com/a/lyXlUN4
+
+>Bunbun Illustrations Artbook 2024
+https://mega.nz/file/cXYV0TBD#WMTGPrYB2Rur38v--muaSHUue-FU_1E9sES6PpeC4Go
 
 
 

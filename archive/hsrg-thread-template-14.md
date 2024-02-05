@@ -9,7 +9,7 @@ Previous: >>
 
 \>Version 2.0 "If One Dreams At Midnight" Special Program
 https://www.youtube.com/watch?v=WHwBqhMlo3I
-https://www.youtube.com/watch?v=2iRam7fnPrg (JP)
+https://www.youtube.com/watch?v=2iRam7fnPrg
 
 \>Version 2.0 Music Video — "WHITE NIGHT"
 https://www.youtube.com/watch?v=U7W8QR9fsFw
@@ -43,13 +43,15 @@ ZA9674JSAUPF
 3S9N65KTBD63
 6T96N52TADN7
 \>MINOR CODES
+HSRGALAXY23
 DIVEINTODREAMS
 DREAMTOGETHER
 SWEETDREAMS
-VEGASHSR
 0206PENACONY
 0206GRANDOPEN
-HSRGALAXY23
+0206STARRAIL
+VEGASHSR
+
 
 \>/hsrg/ Tools & Resources
 https://rentry.org/hsrg-resources-14

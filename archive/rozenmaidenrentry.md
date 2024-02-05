@@ -20,7 +20,8 @@
 ###-> Next: <-
 #### -> **Rozen Maiden: Zurückspulen** <-
 #### -> [Download and read the manga first](https://www.mediafire.com/file/j027vet2qkw2o5e/Manga.zip/) <-
-#### -> Date is unknown (next Saturday?) <-
+-> You have less than a week. <-
+#### -> Saturday, February 10th, 5pm UTC <-
 
 
 #### ->  [Discuss it and get actual info and links on the imageboard - /rozen/](https://zzzchan.xyz/rozen/index.html) <-
