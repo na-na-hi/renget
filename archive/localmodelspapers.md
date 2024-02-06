@@ -49,6 +49,7 @@
 12/2023|[Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses](https://arxiv.org/abs/2312.00763)
 12/2023|[Style Aligned Image Generation via Shared Attention](https://arxiv.org/abs/2312.02133)
 01/2024|[A Minimaximalist Approach to Reinforcement Learning from Human Feedback (SPO)](https://arxiv.org/abs/2401.04056)
+02/2024|[Time-, Memory- and Parameter-Efficient Visual Adaptation (LoSA)](https://arxiv.org/abs/2402.02887)
 |
 |**Deepmind (Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -79,6 +80,7 @@
 12/2023|[Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models](https://arxiv.org/abs/2312.06585)
 12/2023|[Bad Students Make Great Teachers: Active Learning Accelerates Large-Scale Visual Understanding](https://arxiv.org/abs/2312.05328)
 01/2024|[Solving olympiad geometry without human demonstrations](https://files.catbox.moe/3fu2lc.pdf)
+02/2024|[LiPO: Listwise Preference Optimization through Learning-to-Rank](https://arxiv.org/abs/2402.01878)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -279,6 +281,8 @@
 01/2024|[MiniCPM: Unveiling the Potential of End-side Large Language Models](https://archive.is/IlMnJ)
 02/2024|[Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2402.00789)
 02/2024|[Introducing Qwen1.5](https://archive.is/C6gpR)
+02/2024|[BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)
+02/2024|[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -538,6 +542,11 @@
 01/2024|[RAPTOR: Recursive Abstractive Processing for Tree-Organized Retrieval](https://arxiv.org/abs/2401.18059)
 02/2024|[EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models](https://arxiv.org/abs/2402.00518)
 02/2024|[MoDE: A Mixture-of-Experts Model with Mutual Distillation among the Experts](https://arxiv.org/abs/2402.00893)
+02/2024|[Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://arxiv.org/abs/2402.02057)
+02/2024|[Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://arxiv.org/abs/2402.01831)
+02/2024|[HiQA: A Hierarchical Contextual Augmentation RAG for Massive Documents QA](https://arxiv.org/abs/2402.01767)
+02/2024|[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750)
+02/2024|[DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing](https://arxiv.org/abs/2402.02583)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -555,7 +564,6 @@
 08/2023|[Charles Goddard - On Frankenllama](https://archive.is/GYoVX)
 10/2023|[Tri Dao - Flash-Decoding for Long-Context Inference](https://archive.is/KCu83)
 10/2023|[Evan Armstrong - Human-Sourced, AI-Augmented: a promising solution for open source conversational data](https://archive.is/zPPFU)
-11/2023|[LMSYS - Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://archive.is/Tch3H)
 11/2023|[Cornell-RelaxML - QuIP#: QuIP with Lattice Codebooks](https://archive.is/nYgeL)
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
 12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)

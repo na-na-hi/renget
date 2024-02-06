@@ -2,6 +2,10 @@
 ##Get PonyXL here
 https://civitai.com/models/257749?modelVersionId=290640
 
+Anons have been experimenting with merging PonyXL with other checkpoints, the following autism mixes have been popular, the DPO one has a much better default style out of the box, PonyXL LoRAs do still work on them but they may have a reduced strength.
+
+https://civitai.com/models/288584?modelVersionId=324619
+
 ##List of Ponyxl LoRAs from /h/
 NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
 
@@ -114,7 +118,8 @@ https://files.catbox.moe/s5n8ul.safetensors moshimoshibe
 https://files.catbox.moe/amb4x8.safetensors shuz_ requires activation prompt of shuz and helps to put 3d in the negatives
 https://files.catbox.moe/a0rftx.safetensors kazutake_hazano 
 https://files.catbox.moe/bxoljw.safetensors fujou_joshi
-
+https://files.catbox.moe/cbrvwe.safetensors millefeuille helps to put monochrome and greyscale in the negatives
+https://files.catbox.moe/sc7pis.safetensors tottotenero add text and speech bubble to the negative and maybe some quality tags to the positive prompt and it should stop it from generating text
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
 https://files.catbox.moe/pr6abi.safetensors menma
@@ -268,6 +273,8 @@ tomu \(tomubobu\)
 kame \(kamepan44231\)
 cyancapsule
 kelvin hiu
+neisan
+pija \(pianiishimo\), 
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk (maybe something to do with kelvin above?)

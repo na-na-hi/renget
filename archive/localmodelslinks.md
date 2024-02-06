@@ -4,7 +4,7 @@
 **Guides**|
 [Quick Start Guide](https://rentry.org/lmg-spoonfeed-guide)|Anon's tutorial for getting models running locally 
 [SillyTavern RP Guide](https://rentry.org/llama_v2_sillytavern)|Instructions for roleplaying via koboldcpp. Additional [GNBF grammar](https://rentry.org/custom_GBNF) usage
-[LM Tuning Guide](https://rentry.org/llm-training)|Training, finetuning, and LoRa/QLoRa information 
+[LM Tuning Guide](https://rentry.org/llm-training)|Training, finetuning, and LoRA/QLoRA information 
 [LM Settings Guide](https://rentry.org/llm-settings)|Explanation of various settings and samplers with suggestions for specific models
 [LM GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a $1k 3xP40 [setup](https://rentry.org/Mikubox-Triple-P40)
 |
@@ -73,7 +73,7 @@
 [PASTA](https://github.com/QingruZhang/PASTA)|Directs LLM attention to user specified emphasis marks via attention heads
 [EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
 [Medusa](https://github.com/FasterDecoding/Medusa)|Speculative decode via attention heads by finetuning with backbone LLM
-[Temp LoRa](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRa module during text generation to preserve contextual knowledge 
+[Temp LoRA](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRA module during text generation to preserve contextual knowledge 
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
@@ -84,25 +84,10 @@
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge editing framework for LLMs
 |
 **Non-LLM Models**|
+**Vision/Image**|
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI. User submitted [workflows](https://comfyworkflows.com)
 [Fabric ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
-[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
-|
-[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|Few-shot voice cloning and Text-to-Speech WebUI (ENG/JPN/CHN)
-[StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can finetune with custom dataset)
-[WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
-[Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
-[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support
-[RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
-[Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion
-[Anticipation](https://github.com/jthickstun/anticipation)|Text-to-Music based on anticipatory infilling (MIDI currently)
-[Descrpyt](https://github.com/descriptinc/descript-audio-codec)|High-Fidelity audio compression with improved RVQGAN (can drop-in replace EnCodec)
-[DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
-[UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
-[AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
-[EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
-[SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
-|
+[DiffEditor](https://github.com/MC-E/DragonDiffusion)|Tuning-free method for fine-grained image editing using score-based diffusion
 [VMamba](https://github.com/MzeroMiko/VMamba)|SSM architecture to enable efficient memory usage for high resolution vision tasks
 [Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
 [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
@@ -119,6 +104,24 @@
 [roop-cam](https://github.com/hacksider/roop-cam)|Real time face swap with webcam and one click video support
 [open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models
 |
+**Audio/Speech**|
+[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|Few-shot voice cloning and Text-to-Speech WebUI (ENG/JPN/CHN)
+[StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can finetune with custom dataset)
+[WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
+[Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
+[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support
+[RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
+[Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion
+[Anticipation](https://github.com/jthickstun/anticipation)|Text-to-Music based on anticipatory infilling (MIDI currently)
+[Descrpyt](https://github.com/descriptinc/descript-audio-codec)|High-Fidelity audio compression with improved RVQGAN (can drop-in replace EnCodec)
+[DeepFilterNet](https://github.com/rikorose/deepfilternet)|Real time noise suppression using deep filtering
+[UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
+[AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
+[EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
+[SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
+|
+**Other**|
+[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 [Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
 [LOCUST](https://github.com/flbbb/locost-summarization)|State-space model for long document abstractive summarization

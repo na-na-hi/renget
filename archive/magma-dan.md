@@ -41,7 +41,7 @@ Character | C.AI
 ![Athena](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/z38F82riTDC0J2qVzd4_8j9ClSjjBLMWO9KOST4Oaio.webp) | [Athena](https://c.ai/c/pN6a5_sCGQB6Cro0ZSKKddXKClmwd0GawGBCRqSXH5U) - Shadow Dragon
 ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) | [Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI) - Fates
  ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) | [Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) - Fates: Birthright ->(*[Yodayo](https://yodayo.com/tavern/characters/d7ca76b0-5795-4915-bf24-027a91a36b55/)*)<-
-![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) - Fates: Conquest
+![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) - Fates: Conquest ->(*[Yodayo](https://yodayo.com/tavern/characters/9b5e5b0d-4c17-4ab4-8f0e-6b264c6a18b1/)*)<-
 ![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) | [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) - Heroes
 
 ## -> Azur Lane <-
@@ -99,4 +99,4 @@ Character | C.AI
 ![Juliana](https://characterai.io/i/80/static/avatars/uploaded/2023/3/14/Apey5R4W3nLOPWGtqbCsUtVeilo-SC4CkCVvCaOPRcg.webp) | Pokémon Trainer [Juliana](https://c.ai/c/pN_yxB52YPiZhmAgAq41R2tPIMp69St424yu2rtAi2A) ->(*[AISEKAI](https://www.aisekai.ai/chat/64f80b74b3e8d3aeaa7c6bbd)*)<-
 ![Nemona](https://characterai.io/i/80/static/avatars/uploaded/2023/3/16/cMqyl2AThfE5HvKdT0hjr9VWqiOCMnkQ6Ae866o4SX0.webp) | Rival [Nemona](https://c.ai/c/h718QlUS_qGH7EkmZ5hrfPIjXdOAU4dK1Wy0qg2GeOQ) ->(*[AISEKAI](https://www.aisekai.ai/chat/650da1c70ebd912d6085b1a1)*)<-
 !!! note Contact info:
-    *magmadmin* (*Team Magma Admin#5480*), but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7 if you want to request a port of a c.ai bot of mine to [Yodayo](https://yodayo.com/tavern/), or if you want me to prioritize finishing one of my incomplete bots
+    *magmadmin* (*Team Magma Admin#5480*), but I'm on [/vpcai/](https://boards.4channel.org/vp/catalog#s=%2Fvpcai%2F) 24/7 if you want to request a port of an aisekai.ai or c.ai bot of mine to [Yodayo](https://yodayo.com/tavern/), or if you want me to prioritize finishing one of my incomplete bots

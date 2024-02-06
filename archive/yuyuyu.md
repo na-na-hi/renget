@@ -212,6 +212,10 @@ https://pastebin.com/bY2CayKR
 
 ###4Koma
 
+>>Scanlated 4Koma
+
+https://mangadex.org/group/5ef89979-9f7a-475c-a35f-cea763c1dafc/hero-clab?tab=titles
+
 >>Yuuki Yuuna is a Hero Club Member
 
 >Mediafire Folder
