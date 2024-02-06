@@ -5,7 +5,7 @@ wippy woppy, play shipwrecked 64 you goober
 %#a78cc7%┈%% ⠀ %#74529d%**&**%%⠀ ⠀  %#a78cc7%***i***m%%⠀ ⠀ ![](https://files.catbox.moe/tedgw6.png)⠀  ⠀ %#a78cc7%~**♫**%% ⠀  %#74529d%❞%%
 ![.co/bailey](https://files.catbox.moe/s7bnhl.gif) <-
 -> %#74529d%**∑**%%  　%#a78cc7%T**HE**%%⠀%#74529d%**HEART**%%⠀%#a78cc7%**DIRE**CTORY%%⠀%#74529d%⊹%%
-![](https://files.catbox.moe/tq9v42.png)⠀%#a78cc7%₊%% %#74529d%ᵕ .ᵕ)%%⠀%#74529d%❜%%⠀⠀[![me!](https://files.catbox.moe/4m4h6r.png)](https://rentry.co/stage01) ⠀ %#a78cc7%𐃬𐃬%% ⠀ %#74529d%**★**%% ⠀ %#a78cc7%**𓂃**%%
+![](https://files.catbox.moe/tq9v42.png)⠀%#a78cc7%₊%% %#74529d%ᵕ .ᵕ)%%⠀%#74529d%❜%%⠀⠀[![me!](https://files.catbox.moe/4m4h6r.png)](silenthillspt) ⠀ %#a78cc7%𐃬𐃬%% ⠀ %#74529d%**★**%% ⠀ %#a78cc7%**𓂃**%%
 %#a78cc7%**𓏲**%%%#74529d%𝄢%%⠀⠀ [![](https://files.catbox.moe/x5z7qy.png)](/strawberryboy) %#74529d% ¹ %%⠀ ⠀%#74529d%[**two**](/gutmeout)%% %#a78cc7%²%%⠀ ⠀%#74529d%⚣%% ⠀  ⠀%#a78cc7%ꜜ%% ⠀![](https://files.catbox.moe/j3smrh.gif) <-
 -> ![](https://files.catbox.moe/25n87u.png) <-
 

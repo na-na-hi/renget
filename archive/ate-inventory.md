@@ -63,6 +63,11 @@ A standard-issue dagger infused with the <Myth> of a nameless soldier in the Tro
 
 A bow infused with the <Myth> of a nameless huntress of Artemis. Slightly more effective against <Beasts> and <Monsters>. Can be used as an <Enchant> target or ingredient.
 
+>Ladon’s Fang (uncommon dagger)
+
+A serrated tooth from the great serpent Ladon. Somewhat suppresses fatigue and the need to sleep when in use.
+
+
 
 ##Authority Crystals
 

@@ -1,5 +1,3 @@
-This guide is back to receiving regular updates, however do not ping me for anything on it. The guide itself speaks for me. - Blanc
-
 ---
 # Guide for [W-Okada's RealTimeVoiceChangerClient](https://github.com/w-okada/voice-changer/blob/master/README_en.md)
 ---

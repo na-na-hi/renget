@@ -3,7 +3,7 @@
 Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
 [![Link to the MEGA folder](https://cdn.discordapp.com/attachments/1137374640239542294/1199465794812264478/mega-icon-logo-png-transparent_1_1.png?ex=65c2a492&is=65b02f92&hm=e55c7fe32d9c047736a7b6159fc3ad48e1eba092497deaf72a61fe11c409d40e&)](https://mega.nz/folder/RvkmWCyA#VA_EjRU-1Mb6g9zNXKR3sg)
 
-**==LAST UPDATED:==** 31/01/24 [>[CHANGELOG]<](https://rentry.co/uvkrso)
+**==LAST UPDATED:==** 06/02/24 [>[CHANGELOG]<](https://rentry.co/uvkrso)
 **==CURRENT BETA VERSION:== 2.0 v.3** CHANGELOGS: [PROJECT YATTA](https://hsr.yatta.top/en/changelog?v=20) - [HAKUSH.IN](https://hsr.hakush.in/) - [HONEY HUNTER](https://hsr.honeyhunterworld.com/new-in-2-0/?lang=EN)
 !!! note
     If you have any questions, suggestions to improve the rentry, or if you notice any errors or missing information, please send them to my [Retrospring](https://retrospring.net/@erikahhrna), and I'll try to answer as quickly as I can! 
@@ -13,16 +13,6 @@ Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
 [TOC2]
 
 ##Upcoming Characters
-
-###2.0
-
-Black Swan | Links
------- | ------
-![Black Swan](https://cdn.discordapp.com/attachments/1137374640239542294/1188936003692531722/1307.png?ex=659c55f0&is=6589e0f0&hm=4b5b391b699ff317353b0a1551c3769158841169be54d6ba77a5fe19f65bfa5b&) ✦✦✦✦✦ - ![Wind](https://cdn.discordapp.com/attachments/1137374640239542294/1167146436400533574/IconAttributeWind.png?ex=654d10d2&is=653a9bd2&hm=a6965090adfea25b97cd813387dcc8c20dbf0ead11acd66f4789baefc06bb3ca&) Wind - ![Nihility](https://cdn.discordapp.com/attachments/1137374640239542294/1167559328916582461/warlock.png?ex=654e915c&is=653c1c5c&hm=951b6963ba6727f0624c6505a4cb7a0668f2fa115c5144546d6a8e031a78b9d2&) Nihility | [FOLDER](https://mega.nz/folder/QycEzKyR#ARaD19b8zwPAxgS8YzkGkA) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1307/black-swan?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1307)
-**Sparkle (prev. Hanabi)** | **Links**
-![Sparkle](https://cdn.discordapp.com/attachments/1137374640239542294/1188935982704246845/1306.png?ex=659c55eb&is=6589e0eb&hm=efc79038fb4187db4c2eb178314e5f71547be70efc4551e3e42bc1a65c11e4b8&) ✦✦✦✦✦ - ![Quantum](https://cdn.discordapp.com/attachments/1137374640239542294/1167146435519713401/IconAttributeQuantum.png?ex=654d10d2&is=653a9bd2&hm=285b0e88165bb84e0d59e1e1734c3af4bc250d2d8e51eaff3d7f50c34bdbb162&) Quantum - ![Harmony](https://cdn.discordapp.com/attachments/1137374640239542294/1167559328677494956/shaman.png?ex=654e915c&is=653c1c5c&hm=32da174a881bdd037ee2804b4123cef7cb9b3a840ebfea9723def3243ba62bb9&) Harmony  | [FOLDER](https://mega.nz/folder/06sV1DJR#aWg0UoHi-ZhYJmJ4sup3CA) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1306/sparkle?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1306)
-**Misha** | **Links**
-![Misha](https://cdn.discordapp.com/attachments/1137374640239542294/1188935982419021924/1312.png?ex=659c55eb&is=6589e0eb&hm=e618de4b940043abbd4197948e4e5aacd2caad1e3b1179161a58e5dccd57c8bd&) ✦✦✦✦ - ![Ice](https://cdn.discordapp.com/attachments/1137374640239542294/1167146434764742656/IconAttributeIce.png?ex=654d10d2&is=653a9bd2&hm=c096a6c8761f09f975520266fa7ed705e7eddd820db9140a870fe25303e04744&) Ice - ![Destruction](https://cdn.discordapp.com/attachments/1137374640239542294/1167559329554112612/warrior.png?ex=654e915c&is=653c1c5c&hm=a251716b4e8564e9a47ac08df32cb409c1fd17255e2c7c1fce7832d89bdcf6bb&) Destruction  | [FOLDER](https://mega.nz/folder/wyVDGZ5b#9zVkrynDYMGRNBoohNmuHA) - [PROJECT YATTA](https://hsr.yatta.top/en/archive/avatar/1312/misha?mode=details) - [HAKUSH.IN](https://hsr.hakush.in/char/1312)
 
 ###2.1
 

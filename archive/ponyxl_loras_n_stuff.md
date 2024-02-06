@@ -120,6 +120,8 @@ https://files.catbox.moe/a0rftx.safetensors kazutake_hazano
 https://files.catbox.moe/bxoljw.safetensors fujou_joshi
 https://files.catbox.moe/cbrvwe.safetensors millefeuille helps to put monochrome and greyscale in the negatives
 https://files.catbox.moe/sc7pis.safetensors tottotenero add text and speech bubble to the negative and maybe some quality tags to the positive prompt and it should stop it from generating text
+https://files.catbox.moe/odmswn.safetensors fkey
+
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
 https://files.catbox.moe/pr6abi.safetensors menma

@@ -46,6 +46,7 @@ Threat Tracker | (11/08/2023) [XML] | [![Chub](https://files.catbox.moe/do7hvv.p
 ###Non OC
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
 |---|---|---|---|---|
+Yirindel | (06/02/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/yirindel-58b4a1fd/main) | ![](https://files.catbox.moe/yrqbda.png) | https://files.catbox.moe/zj5q7i.7z
 Kai'Sa | (09/11/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/kai-sa-b8abd5f2/main) | ![](https://files.catbox.moe/76ye9j.png)
 Aya | (26/10/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/aya-miyanaga-796b20a5/main) | ![](https://files.catbox.moe/136xn5.png) | https://hitomi.la/doujinshi/rikujobu-chan-english-385225-2095545.html
 Clementine | (21/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/clementine-372e314f/main) | ![](https://files.catbox.moe/gs9cte.png)

@@ -72,8 +72,8 @@ alternatively look here https://rentry.co/VoiceChangerGuide#downloads
 > lower your s.threshhold to say 0.00025, raise your chunk say its 48, go to the next highest being 64, and so on, extra generally you don't need it higher than 16384, but sometimes thats too high so drop it down to 8192.
 
 ### The voice is crackling everywhere, and or Discord specific.
-> Fix 1 would be [this part of Raven's guide](https://rentry.co/VoiceChangerGuide#crackle-fixes-windows) which fixes crackling everywhere,
-> Fix 2 would be [this part of Raven's guide](https://rentry.co/VoiceChangerGuide#discord-crackle-fixes) which fixes discord specific crackling
+> Fix 1 would be [this part of En's guide](https://rentry.co/VoiceChangerGuide#crackle-fixes-windows) which fixes crackling everywhere,
+> Fix 2 would be [this part of En's guide](https://rentry.co/VoiceChangerGuide#discord-crackle-fixes) which fixes discord specific crackling
 
 
 ### The voice isn't working at all on server mode
@@ -84,4 +84,4 @@ alternatively look here https://rentry.co/VoiceChangerGuide#downloads
 
 ### Do you have any quick settings to try
 
-https://rentry.co/VoiceChangerGuide#settings-they-dont-always-work
+https://rentry.co/VoiceChangerGuide#settings-baseline

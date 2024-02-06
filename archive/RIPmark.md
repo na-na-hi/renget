@@ -1,11 +1,13 @@
-***
--> ![banner](https://64.media.tumblr.com/37a95d238c51064febd6f559f9728687/tumblr_inline_n3jqjzmIQS1rx7gub.png) <-
+->![](https://i.postimg.cc/05Cnf4T3/Untitled2027-20240206075915.png)<-
+->![](https://i.postimg.cc/3xzFNQGy/Untitled2028-20240206075957.png)<-
 
+->%#839e73%❝%%⠀⠀%#6a8553%cause girl you're perfect . . %%⠀⠀%#839e73%❞%%<-
 
--> **m**ark ﹒ ﹒ ﹒ or **j**oner *!* 
-__he__ & **she** ıIı [*syshost*](https://rentry.co/mailsystem)
- **15**==yo== ![phone](https://gothiclolita.neocities.org/emojibank/babyhotline.gif) 
-**i love** . . . [**kelani**](https://rentry.co/-RIPZ) ![huhh](https://scft.carrd.co/assets/images/gallery11/43eb5739_original.gif?v=ac36d485) <-
+->![](https://i.postimg.cc/6qzhp7Vw/Untitled2026-20240206075654.png)<-
 
--> ![banner](https://64.media.tumblr.com/8749e5f47b0fa88de6d367be0f963687/tumblr_inline_n3jqjnRNvw1rx7gub.png) <-
-***
+->%#6a8553%( " ᴗ ‸ ᴗ)%%⠀⠀⠀%#839e73%♪⠀⠀⠀⠀**xye**%%⠀%#6a8553%she⠀⠀𓂂%%<-
+->%#839e73%**did⠀sys**%%⠀ ⠀⠀%#6a8553%⨟ ⠀⠀ 5⠀teen⠀⠀⊃%%<-
+->%#6a8553%﹒⠀┈⠀﹒⠀⠀npd⠀ ⠀„%%⠀⠀ ⠀ %#839e73%**taken**%%<-
+
+->![](https://i.postimg.cc/vm9L6270/Untitled2028-20240206080000.png)<-
+->![](https://i.postimg.cc/wTTVbVHB/Untitled2027-20240206075918.png)<-

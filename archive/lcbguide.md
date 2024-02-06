@@ -391,6 +391,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
 [Optimal Grinding Guide](https://rentry.org/LCB_optimal_grind_guide)
+[Anon's RR3 Guide](https://docs.google.com/document/d/1FFl_kMPkZhfnnEJ7vOTsMDJsIQtXUZTdHP17WxxCitY)
 
 ## Useful Tips
 1. READ
@@ -431,4 +432,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/16/24: Updated tier list with some of the newer IDs.
 1/25/24: ABABABABABABA ![헤](https://files.catbox.moe/207ryd.png)
 1/31/24: Removed the Railway 2 guides, will add ones for RR3 when they're made.
-2/4/24: Replaced the Refraction Railway image, added optimal grinding guide link. Updated both tier lists. ![lol&](https://files.catbox.moe/7dmu76.png)
+2/4/24: Replaced the Refraction Railway image, added optimal grinding guide link. Updated both tier lists.
+2/6/24: Added RR3 guide link. ![lol&](https://files.catbox.moe/7dmu76.png)

@@ -1,7 +1,7 @@
 #####Current Info
 
 Latest thread: https://boards.4chan.org/trash/thread/62955885
-Latest Aggie: https://aggie.io/jboxq1c017
+Latest Aggie: https://aggie.io/vfjfgnb9mg
 /pizzatrash/ MEGA Archive: https://mega.nz/folder/ZmdBFSYY#QHsYob6yxbzFh9ZSCNpflA
 
 
@@ -149,3 +149,4 @@ https://aggie.io/zf3fsw6z75 /pizzatrash/ Aggie #47: Trapanese Edition
 https://aggie.io/gbqjlelvl_ /pizzatrash/ Aggie #48: Frutti di Mare Edition
 https://aggie.io/8hvgj7n1y5 /pizzatrash/ Aggie #49: Yabba Dabba Doo Edition
 https://aggie.io/jboxq1c017 /pizzatrash/ #50: ANNIVERSARY EDITION
+https://aggie.io/vfjfgnb9mg /pizzatrash/ #51: Prosciutto Edition

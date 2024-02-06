@@ -1,5 +1,5 @@
 #Literature of /ag/
->Up To Date As Of 11/27/2023
+>Up To Date As Of 2/6/2024
 
 A collection of weight gain and chub-themed VTuber fanfics produced over a number of months, primarily by the Architecture General (/ag/), but occasionally taken from elsewhere on /vt/ and /d/. Thanks to /vt/'s Writing General (/wg/) in particular for a handful of these and for providing a nice template for me to shamelessly copy this document off of.
 
@@ -346,6 +346,14 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 .
 
 ![Kiara Feeddomme](https://i.imgur.com/sW0IwJv.png)
+.
+.
+
+![Ririka Ao Sushi Stuffing](https://i.imgur.com/pkQ0RYq.png)
+.
+.
+
+![Kronii Pie Feedee](https://i.imgur.com/X8Ik1hD.png)
 .
 .
 .

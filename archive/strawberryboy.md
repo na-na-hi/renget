@@ -21,8 +21,7 @@ listening to *others* ramble abt theirs as well
 i can get **ticked** off quite easily & i **dont** have
 a problem w/ telling someone that they're being
 **annoying**. (take it personally if u want idrc)
-venting/ranting in my dms is totally ok! **un**less
- i have any sort of **dni** in my status at that given 
-time. ty for reading **♡**
+venting/ranting in my dms is totally ok :3 ill
+try my best to help u. ty for reading **♡**
 . . . ![](https://media.discordapp.net/attachments/903364339464044575/1088805048328388658/09364229-E7D3-4DBD-A287-FDEE8CA9C920.gif) ([me](https://baileyandmark.carrd.co/) and [bf!!](https://rentry.co/zombieheathcliff)) <-
 -> ![](https://cdn.discordapp.com/attachments/935735380538449952/946013075704795136/Strawberry_gashes.png) <-

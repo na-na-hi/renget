@@ -1,4 +1,4 @@
-![Image description](https://files.catbox.moe/ie49y9.png)
+![Image description](https://files.catbox.moe/pnsprs.png)
 
 Name: Eoin O'Dwyer
 Face: Most consider looking at him to be slightly unnerving, while he is conventionally attractive. His face is almost always locked in a neutral or apathetic expression, only rarely letting himself gain a slight smile and even rarer is the time when he can be spotted frowning. Leaving those who haven't talked to him feeling rather uncomfortable.

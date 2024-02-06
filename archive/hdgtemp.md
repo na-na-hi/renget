@@ -3,6 +3,9 @@ X Edition
 Previous Thread: >>XXXXXXX
 
 >LOCAL WEBUI SETUP
+>Forge ***NEW*** 
+https://github.com/lllyasviel/stable-diffusion-webui-forge#installing-forge
+>voldy (old)
 Nvidia: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs
 AMD: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
 Cloud: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services
@@ -26,6 +29,7 @@ LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama | https://l
 Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
 Booru: https://aibooru.online
+NAI API/prompting in webui: https://github.com/Metachs/sdwebui-nai-api
 4chanX Catbox / NAI prompt userscript: https://rentry.org/hdgcb
 
 OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif

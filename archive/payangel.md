@@ -368,4 +368,7 @@ PGL_0070_ZippWow_r1 (CRF25).mp4
 
 PGL_0071_MegaPlanetCRF26.mp4
 ```magnet:?xt=urn:btih:1c00e7121a5b6bfe76f5d58dc61f6f93612b2a7e&dn=PGL_0071_MegaPlanetCRF26.mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce```
+
+PGL_0072_FruitFlyGoonCave (CRF25).mp4
+```magnet:?xt=urn:btih:adba7733d147af9d82d5367960ed3ae6e2529c2c&dn=PGL_0072_FruitFlyGoonCave%20(CRF25).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce```
 ###jump to latest PGL
