@@ -8,7 +8,9 @@ Enough, I thought it was damn well enough time to get to the point. I hit new ga
 
 I decided to keep playing through the game, which went pretty swimmingly, collecting a fair amount of the Time Stones through the really good looking special stages, up until Wacky Workbench Zone 1. The level was mostly fine as normal, I just hated the round as a whole. I don't know why, but this level was acting a bit strange, the collisions were a little screwed, I died 2 times as a result but I still managed to get through it, even managing to keep 50 rings to the end, getting the last Time Stone I needed (In Quartz I somehow managed to fuck up both zones). Wacky Workbench Zone 1 was unfortunately the last normal zone I ended up playing.
 
-Starting zone 2, I made Sonic walk to the right, and the launcher that was normally there was just missing, which I thought was a bug, but no no no! I just kept moving to the right, and suddenly, a purple clone of Sonic appeared on said launcher zooming towards the right of the screen, knocking Sonic out of the level to his doom. This strange clone of Sonic then jumped off the launcher which had stopped on a dime, turned to the screen and wagged his finger, and out of nowhere, the game closed after emitting a high-pitched noise. I had headphones on at a pretty high volume so it hurt a lot.
+Starting zone 2, I made Sonic walk to the right, and the launcher that was normally there was just missing, which I thought was a bug, so I continued. But apparently not, as when I got to the end of the level, right when I was about to hit the signpost, so suddenly, a purple clone of Sonic appeared on the missing launcher zooming towards the right of the screen, knocking Sonic out of the level to his doom. 
+![Image description](https://files.catbox.moe/eoooox.png)
+This strange clone of Sonic then jumped off the launcher which had stopped on a dime, turned to the screen and wagged his finger, and out of nowhere, the game closed after the graphics freaked out while it emitted a high-pitched noise. I had headphones on at a pretty high volume so it hurt a lot.
 
 I was trying to comprehend what the hell just happened, Windows Defender wasn't flagging anything, so I decided to just re-open the game. Everything seemed normal with the SEGA screen, but then the title screen popped up and Sonic was colored completely wrong. Dude's eyes were black with purple pupils, his fur was purple, skin yellow, gloves were a light blue color, it was just like what I saw before the game crashed, so I assumed he had yellow shoes too. I'm sure a normal person would probably delete the game at this point but I was thinking "Finally, something interesting!" so I pressed on.
 
@@ -20,7 +22,7 @@ Eventually I got to the end of the level, but then, as I watched in sheer horror
 
 I wanted to see if I could undo this easter egg, so I looked everywhere for the savedata of this game, eventually finding it under AppData, labelled "Sonic CD Special". I deleted it and re-opened the game, and to my surprise, the easter egg was still in effect! So I kept looking for folders of the savedata, even going as far as to worm through my registry for anything, deleting what I could, and still having the game borked. So I just ended up deleting it, wrote my friend a rage-fuelled hate letter about this game, and went to play the 2011 version instead.
 
-I stared at my computer screen with a thousand-yard stare as I found out that it too was messed up. This shouldn't be possible, they're two completely different versions of the game, how could it..how could it? That shouldn't...no... I started to panic a bit as I immediately went to Vimm's Lair and downloaded the Sonic CD version to play, opening it in Gens, and...ARE YOU SHITTING ME IT'S HERE TOO? Running out of answers and starting to feel more and more afraid I decided to just back-up everything on my computer and wiped the hard-drive clean, installing Windows anew, re-installing everything...and
+I stared at my computer screen with a thousand-yard stare as I found out that it too was messed up. This shouldn't be possible, they're two completely different versions of the game, how could it..how could it? That shouldn't...no... I started to panic a bit as I immediately went to Vimm's Lair and downloaded the Sonic CD version to play, opening it in Gens, and...ARE YOU SHITTING ME IT'S HERE TOO? Running out of ideas and starting to feel more and more afraid I decided to just back-up everything on my computer and wiped the hard-drive clean, installing Windows anew, re-installing everything...and
 and
 
 and
@@ -59,7 +61,7 @@ It has never been more over than it is now.
 [Link to the previous iteration that was never finished.](https://files.catbox.moe/0hxprt.txt)
 
 * In-game screenshot which will need to be updated if I ever add screenshots to the main thing because it doesn't exactly fit the description:
-![Image description](https://files.catbox.moe/eoooox.png)
+
 
 * A 3D representation of Workbench.CUE (The Sonic R model with edited textures)
 ![Image description](https://files.catbox.moe/mp08k5.png)

@@ -8,7 +8,7 @@
     The proxy will mostly use donated keys. ~~been filling with my own keys recently~~
 
 !!! note news
-    Thank you key and source donators!
+    Thank you key and source donators! Please email me if there are any issues with AWS.
     I have a few 32k (gpt-4-32k-0314) keys and mistral keys, will add them on request.
     It's probably going to be over in a few weeks. (I can't scrape well enough to feed this many people)
     Reduced quotas, hardly any keys.
@@ -21,7 +21,7 @@ If you haven't received a reply within 48 hours, you didn't do the below. Try se
 All you have to do is be polite and proofread your emails! I don't need anything else.
 
 OpenAI key status: what's in the proxy is everything.
-AWS key status: what's in the proxy is everything
+AWS key status: bad
 Server paid for until: 2024-04-16 ($5/mo)
 Domain paid for until: 2025-01-15 ($15/yr)
 

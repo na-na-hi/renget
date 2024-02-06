@@ -264,6 +264,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The Great Bulk ch. 8 (ft. Makky)](https://rentry.org/GreatBulk8)
 	* [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
 	* [The Platinum Syndicate Part 1: Business is Blooming (ft. Makky)](https://rentry.org/Platinum1)
+	* [The Great Bulk ch. 9 (ft. Makky)](https://rentry.org/GreatBulk9)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -573,6 +574,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [I am Error pt. 3](https://rentry.org/ironvaliant3)
 * [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
 * [Rain Prologue](https://rentry.co/ww6axip9)
+* [The Great Bulk ch. 9 (ft. Makky)](https://rentry.org/GreatBulk9)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

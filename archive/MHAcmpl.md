@@ -105,8 +105,8 @@ Haiiroshi Kinzoku HN Fullmetal: https://rentry.org/Fullmetal-mha
 Igarashi Ryosuke HN Araken: https://desuarchive.org/tg/post/91807240/
 Tatsuya Yamashita HN Bad Touch: https://desuarchive.org/tg/post/91808184/
 Azuma Hisa HN Beach Day: https://desuarchive.org/tg/post/91809104/
-
-
+Daigo Ulmeyda: https://desuarchive.org/tg/thread/91813025/#91814363
+Richard Hertz | HN: Cactiking: https://rentry.org/p6dwm#r-hertz
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)

@@ -15,7 +15,7 @@
 -> ![!](https://media.discordapp.net/attachments/885578547182321684/1089713632838959206/3996C3F5-059F-4068-90EC-4060DE04A950.png)<-
 
 -> ― [ HE/IT + HX/DAE ] <- 
--> ― AROACE , GAY , GENDERVOID ; **TAKEN [[10/31/23]](https://sntry.cc/ect)** !!!<-
+-> ― AROACE , GAY , GENDERVOID ; **TAKEN [[10/31/23]](https://sntry.cc/winemoon)** !!!<-
 -> ![!](https://cdn.discordapp.com/attachments/1051228753134616667/1051230747589087282/93e8968e.gif?ex=656255ed&is=654fe0ed&hm=3cf9272a4ccec926ac2f484c52d557191434d4912e7439d59f063dda3a16d36d&) ― 7***TEEN*** <-
 -> ― ***SHAMELESSLY SATANIC & VULTURE CULTURE ENTHUSIAST *** <-
 -> ![!](https://media.discordapp.net/attachments/860333357169508355/1163717983126958120/tumblr_7b96a3b406cdba81e57e8818177e0b30_ed71ad19_2048.png?ex=654097d4&is=652e22d4&hm=b946d93a7fda8c8b682d7a1a4be157d017a155ccf301363242a76ea3c99241a1&=&width=1194&height=96) <-

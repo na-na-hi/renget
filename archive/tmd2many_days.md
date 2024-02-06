@@ -41,6 +41,7 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 11/20/550 | >>> | #08 Midday Dusk | The Chateau burns, subsumed by a malevolent twilight.
 11/23/550 | 3 days | #09 Old Stories | You gaze into the past, finding a glimpse of an old tale.
 12/2/550 | 2 weeks | #EV05 To Bar None | While it may be destroyed, the spirit still persists! Let's fix up the Chateau!
+12/2/550 | >>> | #EV06 Missing the Mark | It's the perfect time for some snooping. How is it ink is thicker than blood?
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster - Date ▮▮▮
@@ -119,3 +120,5 @@ As the red sun settles into the late noon, the fires simmer and the skeleton of 
 Recovering from the ordeal of the Twilight Syndrome attack, the Guild League shows up to take a first-hand account of the situation.
 
 !!! note (1/23/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV05 To Bar None - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons
+
+!!! note (2/4/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV06 Missing the Mark - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons

@@ -575,13 +575,11 @@ https://archiveofourown.org/works/30177060/chapters/74349258
 
 >Pilot In Command
 
-https://archiveofourown.org/works/43996200?view_full_work=true
+https://archiveofourown.org/works/43996200
 
 >Tasha's Love Quest
 
-(On temporary hiatus)
-
-https://archiveofourown.org/works/44277277?view_full_work=true
+https://archiveofourown.org/works/44277277
 
 >Accentuate the PAWsitive
 
@@ -607,13 +605,13 @@ https://archiveofourown.org/works/47368708
 
 Contains mother/son incest
 
-https://archiveofourown.org/works/46984999?view_full_work=true
+https://archiveofourown.org/works/46984999
 
 >There's No Way I Got Assigned To My Older Sister?! The Story Of How The Anthrostate Gave Me An Unthinkable Marriage
 
 Contains brother/sister incest
 
-https://archiveofourown.org/works/46499158?view_full_work=true
+https://archiveofourown.org/works/46499158
 
 ###MiataAnon
 
@@ -1235,6 +1233,10 @@ https://archiveofourown.org/works/50125798/chapters/126588412
 https://archiveofourown.org/works/52617811/chapters/133095286
 
 ###wwormboy
+
+>Calm Night Estrangements
+
+https://archiveofourown.org/works/53543353
 
 >Human Trafficking in the Anthrostate
 

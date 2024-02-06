@@ -44,11 +44,11 @@ The [official](https://docs.novelai.net/text/specialsymbols.html#-spaced-bracket
 
 > [ Tags: realistic depiction of war, shield and spear combat, non-traditional fantasy, inexperienced and scared protagonist ]
 
-Like the Summary above, this is an extremely useful tool for telling the AI what your story is about, but in an abstract/concise way.  
+Like the Summary above, this is an extremely useful tool for telling the AI what your story is about, but in a more abstract/concise form.  
 In a way, ATTG is an initializer for the Summary, and the entire Memory is an initializer for the Storytext.  
 ATTG in its entirety can contain:
 
-> [ Author: Brandon Sanderson; Title: There are impostors among us; Tags: spaceship, accusation, fixing ship, murder mystery; Genre: detective, thriller ]
+> [ Author: Brandon Sanderson; Title: Sixth of the Dusk; Tags: jungle archipelago, rare birds grant people powers, death at any moment, exotic story-specific species, corpse premonition, survivalist loner protagonist, birds catcher and specialist, change vs tradition; Genre: high fantasy, science fiction, suspense ]
 
 !!! info
     `[ Author: ; Title: ; Tags: ; Genre: ]` Is the official order, always sort them in this way for the most effectiveness.
@@ -58,19 +58,19 @@ Be concrete and try not to be too narrow.  Remember, the ATTG represent your sto
 
 **Examples:**
 
-> [ Tags: Las Vegas casino, disruptive technology, pragmatic boss, gambling industry, quantum computer, cheaters, face-to-face encounter, mind game ]
+> [ Author: Andy Weir; Title: Randomize; Tags: Las Vegas casino, disruptive technology, pragmatic boss, gambling industry, quantum computer, cheaters, face-to-face encounter, mind game; Genre: contemporary, speculative fiction, science fiction ]
 > Summary: The first commercially available quantum computer is out on the market, and it's about to change the way casinos do their business. Can Edwin Rutledge, a casino owner of Babylon, protect his business from an impending threat?
 
-> [ Tags: anthropomorphic animals, town setting, supernatural item, detective protagonist, cat protagonist, sarcastic humor, nsfw, monster attacks ]
+> [ Title: Inside the Mysterious Cube; Tags: anthropomorphic animals, town setting, supernatural item, detective protagonist, cat protagonist, sarcastic humor, NSFW, monster attacks; Genre: young adult, urban fantasy, paranormal ]
 > Summary: In the city of Kitteridge, where many non-humans live together along with cats, wolves, foxes, and birds, there is a magical wall that protects them from monsters outside the wall. Qwilleran is a young trainee detective who often teases because of his age. One day when he was on patrol, he found an unusual sticky notepad that can make anything written on it become real... Can Qwilleran stop the troublemaker before the town is destroyed, or will he use this power for himself?
 
-> [ Tags: urchin protagonist, animal pov, mistaken for magical species, imposter syndrome, medieval fantasy setting, trio of humans and animals, rescue mission, lying ]
-> Summary: A usual steal-from-the-fishmonger goes disastrously wrong as he's chased by a magical bounty hunter. He seeks refuge in a familiar store, only to be chosen by a young wizard boy. Can this tuxedo tom convince everyone that he's a familiar in order to keep his newfound sanctuary, and how can he rescue his companion from the looming danger?
+> [ Title: Varjak Paw; Tags: cat fiction, survival in the city, innocent and blunt protagonist, hunger and cruelty, unexpected friendships, being Mesopotamian Blue, in the midst of gangs, Seven Skills of The Way; Genre: grimdark, animal fiction, middle grade ]
+> Summary: Never go outside, his grand family told him. Yet their ancestor Jalal came from outside, from Mesopotamia. Varjak Paw is a young cat with blue eyes instead of green, bullied for being different. He loves to listen to Elder Paw's stories about Jalal and the seven skills of The Way: Open Mind, Awareness, Hunting, Slow Time, Circle Walking, Shadow Walking, and Trusting Yourself. Everything changes when the Contessa dies and the Gentleman takes over her hilltop mansion—having escaped, Elder Paw's last words tell Varjak to leave and bring back a dog to scare away the Gentleman and his black cats. Problem is, Varjak has no idea what a dog is—finding his way around the city will be tough, who can help him? The streets are roamed by gangs: Ginger is well-known on the East Side, while Sally Bones' gang is feared by all cats! Will Varjak ever find a dog to bring home? Why are cats disappearing, or "The Vanishing"? And what are the strange robot cats he sees in the city?
 
 !!! info Auto Summarization
 	If you want the AI to write a summary for an already existed story.
 	Simply type this onto your story: `----`  
-	`[ Knowledge: story Type: summary ]`  
+	`[ Knowledge: story; Style: summary ]`  
 	`The story so far:`  
 	Then hit generate.
 
@@ -79,7 +79,7 @@ Be concrete and try not to be too narrow.  Remember, the ATTG represent your sto
 
 ####learn more
 
-==Each block is meant to be used together, like `[ Tags: 4chan; Genre: Comedy ]` not `[ Tags: 4chan]` `[ Genre: Comedy ]`==
+==Each block is meant to be used together, like `[ Tags: 4chan; Genre: Comedy ]` not ~~`[ Tags: 4chan ]`~~ ~~`[ Genre: Comedy ]`~~==
 
 **Author**
 

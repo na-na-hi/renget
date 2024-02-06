@@ -12,6 +12,7 @@ keeping artist cred is **required.**
 -> marcy wu (amphibia) ― rentry.co/marcy-temp <-
 -> anne (amphibia) ― rentry.co/anne-temp <-
 -> prof venomous (ok ko) ― rentry.co/venom-temp <-
+-> fionna (adventure time) ― rentry.co/fionna-temp <-
 -> kasane teto (utau) ― rentry.co/teto-temp <-
 -> ritsu namine (utau) ― rentry.co/ritsu-temp <-
 -> kokichi (danganronpa) ― rentry.co/kokichi-temp <-

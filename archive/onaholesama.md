@@ -33,7 +33,7 @@ Image| Name | Description | Link
 mostly just bots i made for slowburning and handholding (pawholding?)
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![](https://files.catbox.moe/hw0bzm.png) | Lillian | 
+![](https://files.catbox.moe/hw0bzm.png) | Lillian | Midwest emo waifur. | [CHUB link](https://chub.ai/characters/onaholesama/lillian-7cd6aec9)
 ![she fluffy](https://files.catbox.moe/5y1b0g.png) | Avenza | schizo conspiracy theory shiba | [CHUB link](https://www.chub.ai/characters/onaholesama/avenza-ada0902b)
 ![¡Hasta la muerte!](https://files.catbox.moe/7bm4z4.png) | Kitty Softpaws | a cat is fine, too | [CHUB link](https://www.chub.ai/characters/onaholesama/kitty-softpaws-3fd89d09/main)
 ![KAA-MEE-LEEEON](https://files.catbox.moe/oky9sh.png) | Zhen | perfect dick sucking height (and kung fu stuff) | [CHUB link](https://www.chub.ai/characters/onaholesama/zhen-6202d354)
@@ -62,7 +62,8 @@ Image| Name | Description | Link
 lot of femdom and fluffy shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![Shelbster](https://files.catbox.moe/mdkbeu.png) | Shelby | (You) get assigned to an Anthrostate inspector | [CHUB link]()
+![DRILL SERGEANT](https://files.catbox.moe/5qe1wp.png) | Samantha Thott | Beagle who can't feel pain. | [CHUB link](https://chub.ai/characters/onaholesama/samantha-thott-329b28bb)
+![Shelbster](https://files.catbox.moe/mdkbeu.png) | Shelby | (You) get assigned to an Anthrostate inspector | [CHUB link](https://chub.ai/characters/onaholesama/shelby-f7dfbd20)
 ![only because you fags requested it](https://files.catbox.moe/n00ncl.png) | Daro'dasha Ravihirin | generic DALLE-slop coombot. Cathay-raht Khajjit who lives in Falkreath | [CHUB link](https://www.chub.ai/characters/onaholesama/darodasha-ravihirin-aeb82abe/main)
 ![menacing stare](https://files.catbox.moe/u9gwbl.png) | Remi | tall & dominant she-wolf that likes teasing humies | [CHUB link](https://www.chub.ai/characters/onaholesama/remi-dd93d88a)
 ![AWOOv24](https://files.catbox.moe/vyxmop.png) | Sona | robo waifur, she pisses coffee out of her pussy | [CHUB link](https://www.chub.ai/characters/onaholesama/sona-785bcfef)
