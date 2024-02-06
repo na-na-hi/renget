@@ -28,23 +28,26 @@ https://files.catbox.moe/git4sj.mp4 New  2/1/24
 >Al-Qassam (Hamas) published a video showing its forces target IOF militants vehicles & sniping a Zionist officer in the Tal Al-Hawa and Sheikh Radwan neighborhoods, west of Gaza City.
 https://files.catbox.moe/4vxe9j.mp4  New  2/1/24
 
+>Hamas published a video showing its fighters clash with army vehicles (tanks, APCs & D9-bulldozers) west of Khan Yunis, south of the Gaza Strip.
+https://files.catbox.moe/gva9ri.mp4  New  2/5/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Hezbollah published a video showing the operation targeting spy equipment at the Radar IOF site in the occupied Shebaa Farms today.
 https://files.catbox.moe/d9kqz4.mp4 New 2/1/24
 
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Al-Quds Brigades targeted IOF forces entrenched behind dirt berms, next to a watchtower, using machine guns, east of Jabalia, in the northern Gaza Strip.
 https://files.catbox.moe/qgdkqb.mp4  New  2/2/24
+
 >WATCH: Al-Quds Brigades published a video showing mortar launches crush army concentrations and IOF soldiers on the front lines of Khan Yunis.
 https://files.catbox.moe/ikk7rh.mp4  New  2/3/24
 
+Al-Quds Brigades published a video showing scenes of their mortar launches crushing military positions and concentrations in the front lines of the axes east and north of the Central Governorate.
+https://files.catbox.moe/2f9lxf.mp4 New  2/5/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -87,3 +90,24 @@ https://files.catbox.moe/h8kcmw.mp4 New  2/2/4
 https://files.catbox.moe/njy5vx.mp4  2/2/24 New 2/2/24
 >Scenes from the Islamic Resistance in Iraq launching a kamikaze drone towards the American Kharab al-Jir base, in Syria.
 https://files.catbox.moe/ouvw7l.mp4 New 2/3/24
+>Israeli forces prevent the family of Imran Dweik, who was killed by Israeli forces, from entering Al Aqsa mosque to perform funeral prayers.
+https://files.catbox.moe/k7hlwo.mp4  2/4/24
+>⚡️WATCH: Al-Quds published a video showing scenes from the rocket launches targering military sites and military concentrations.
+https://files.catbox.moe/goul03.mp4  2/4/24
+>Donald Trump: "We've always got to protect Israel, in my opinion!"
+https://files.catbox.moe/1jqi6s.mp4  2/4/24
+>⚡️| 🇮🇶 Scenes from the Islamic Resistance in Iraq targeting the US base in the Omar Oil Field, deep in Syria, with a Shahed-101 kamikaze drone.
+https://files.catbox.moe/uhnmbl.mp4  2/4/24
+>WATCH: Al-Quds Brigades published a video showing scenes of its forces preparing “fire anti-personnel” bombs and using them to target IOF soldiers on the battle fronts in Khan Yunis.
+https://files.catbox.moe/zk79bs.mp4  2/5/24
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing the recovery of the Skylark drone that was seized during its intelligence mission, west of Khan Yunis, south of the Gaza Strip.
+https://files.catbox.moe/2kbyih.mp4  2/5/24
+>French MP @Portes_Thomas took a video showing hundreds of humanitarian aid trucks at the Egyptian side of the Rafah border crossing as Israel continues to block them from entry into Gaza.
+https://files.catbox.moe/58n6ft.mp4  2/5/24
+>⚡️This is what is found on the shores of the #Gaza Sea
+https://files.catbox.moe/otxb4l.mp4  2/5/24
+>⚡️#YEMEN : Airstrikes on Al Hodeida port earlier today
+https://files.catbox.moe/y1m78d.mp4  2/5/24
+>⚡️Scenes of the Islamic Resistance in Iraq targeting with drone aircraft a military target in occupied Eilat, “Umm al-Rashrash”
+On 1/28/2024
+https://files.catbox.moe/pagjc3.mp4  2/5/24

@@ -426,23 +426,10 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Artfags:
->Reaper
->>91805588
->Mio
->>91805597
->Rob out of costume
->>91807419
 
 Characters:
->Igarashi Ryosuke HN Araken
->>91807240
->Tatsuya Yamashita HN Bad Touch
->>91808184
->Azuma Hisa HN Beach Day
->>91809104
->MR. BULLET
->>91812743
+>Daigo Ulmeyda HN Fly 1 Million
+>>91814363
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -535,6 +522,8 @@ https://rentry.org/Fullmetal-mha
 >>91808184
 >Azuma Hisa HN Beach Day
 >>91809104
+>Daigo Ulmeyda HN Fly 1 Million
+>>91814363
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -557,17 +546,16 @@ https://rentry.org/Fullmetal-mha
 >>89284218
 >Kagami Reina
 >>89605669
->Norman “Norm” Smith HN Whatabout
->>91046080
->Rumi Aratsuki HN Hysteria
->>91363307
-
 ```
 ***
 Page 3
 ***
 ```
 >Students (Cont.)
+>Norman “Norm” Smith HN Whatabout
+>>91046080
+>Rumi Aratsuki HN Hysteria
+>>91363307
 
 >Class 1-C (Shiketsu)
 >Okimoto Chisaka

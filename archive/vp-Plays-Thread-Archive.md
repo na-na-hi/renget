@@ -397,9 +397,12 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 !!! info
 	After (nearly) everyone finished Unbound, Wagie and I embarked on Moto's newly updated Solar Light & Lunar Dark kaizomod while we waited for Empire's v10.5 release
 [**[1]** *Holy shit, actual pokemon options*](https://arch.b4k.co/vp/thread/55336730/)
-[**[2]**](https://arch.b4k.co/vp/thread/55345737/)
+[**[2]** *Empirechads...It's time*](https://arch.b4k.co/vp/thread/55345737/)
 
 ###->Empire v10.5<-
-!!! warning
-	**Status: Not started yet**
-	Now with the knowledge that there's far worse games out there, maybe we'll finish it this time
+!!! info
+	**Status: In Progress**
+[**[1]** *Telius...Home...*](https://arch.b4k.co/vp/thread/55358172/)
+[**[2]** *Farm hell; Now with more lag!*](https://arch.b4k.co/vp/thread/55362058/)
+[**[3]** *Apparently I was cursed with the most broken version of Empire*](https://arch.b4k.co/vp/thread/55366619/)
+[**[4]**](https://arch.b4k.co/vp/thread/55369596/)

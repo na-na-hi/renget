@@ -65,7 +65,7 @@ The good version, not the shitty new WOD.
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/gbyok6.png) | Douleur | Malkavian. Sweet, caring, and expecting. ...or is she? | [Catbox link](https://files.catbox.moe/gbyok6.png)
- ![]() | Dan | Nosferatu. Coming soon. | [Catbox link]()
+ ![](https://files.catbox.moe/jaryc8.png) | Dan | Nosferatu. Former porn star, now self-hating super hacker. | [Catbox link](https://files.catbox.moe/jaryc8.png)
 
 
 ###Standalone male bots

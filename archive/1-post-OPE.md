@@ -17,9 +17,10 @@ Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololi
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Streams
-Next stream: Palworld (Sun 02/05 7PM CT)
+Next stream (Stardew Valley, Tue 02/06 2PM CT)
+https://www.youtube.com/watch?v=zKpjv4HXhO4
 Last stream (Palworld)
-https://www.youtube.com/watch?v=aDEai8MA-p0
+https://www.youtube.com/watch?v=4dUmUaHWI0Q
 Previous appearance (FWMC birthday countdown)
 https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 

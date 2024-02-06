@@ -32,18 +32,16 @@ https://www.youtube.com/watch?v=rV-EzvxqSFw
 \>Aventurine (5\* Imaginary Preservation) - https://www.hoyolab.com/article/24561470
 \>Gallagher (4\* Fire Abundance) - https://www.hoyolab.com/article/24578989
 
-\>Web Event: "Welcome to The Reverie Hotel" - https://act.hoyoverse.com/sr/event/e20240126bookings-yom41k/index.html
+\>Web Event:  "Festival Invitation" - https://act.hoyoverse.com/sr/event/e20240206relow-lxxr53/index.html
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
-2AQA294J5R37 
-NB9TKRMK5R23
+6B976L2STURF (NEW)
 STARRAILGIFT
-\>JP LIVESTREAM CODES VALID UNTIL FEB. 18
+\>LIVESTREAM CODES VALID UNTIL FEB. 18
 ZA9674JSAUPF
 3S9N65KTBD63
 6T96N52TADN7
 \>MINOR CODES
-HSRGALAXY23
 DIVEINTODREAMS
 DREAMTOGETHER
 SWEETDREAMS
@@ -51,7 +49,6 @@ SWEETDREAMS
 0206GRANDOPEN
 0206STARRAIL
 VEGASHSR
-
 
 \>/hsrg/ Tools & Resources
 https://rentry.org/hsrg-resources-14

@@ -833,3 +833,518 @@ https://nitter.lanterne-rouge.info/QudsNen/status/1753931393535471829#m  2/3/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.lanterne-rouge.info/AryJeay/status/1753938249649717398#m  2/3/24
+
+>BREAKING| Haaretz reports that Israel's military admitted that it is behind the "72 virgins- no censorship" telegram channel, which has been publishing misinformation and scenes of gruesome killing of Palestinians in Gaza. 
+
+>The Israeli newspaper said an IOF unit for psychological warfare operations covered up the channel's identity.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754086403061829725#m  2/4/24
+
+>"Protesters interrupting Biden’s public events to demand a ceasefire, and more American voters pledging they will not vote to re-elect him in November, pressure is mounting on the Biden administration to cut off the flow of weapons and money to Israel."
+
+Opinion article by Miranda Cleland
+https://nitter.lanterne-rouge.info/QudsNen/status/1754073225867186540#m  2/4/24
+
+>Yair Netanyahu, the son of Israel's PM, complains on his Telegram channel that Israel's military did not execute the Hannibal Directive fully on October 7. 
+
+"There is a procedure called the Hannibal Directive... The planes that were supposed to be in the air on the Gaza border, were supposed to destroy everything that moves there, crush everything, and thus we would not have 256 prisoners. The fact that did not bomb means that there is a big problem with the airforce," he wrote.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754079456115728756#m  2/4/24
+
+>This israeli-funded Iran International “analyst” is suggesting for bombing of IRGC facilities & headquarters inside Iran but claims this doesn’t mean it’s attacking Iranian soil or Iranian people…
+
+>Who needs enemies when you have people of your own who are advocating for terrorism on our own country?
+https://nitter.lanterne-rouge.info/AryJeay/status/1754091353108029937#m  2/4/24  
+
+>⚡️BREAKING 
+
+The leader of the 300,000 fighters of the Iraqi Popular Mobilisation Forces says the US will be punished for its air strikes on Iraq
+
+Falih al-Fayyadh calls for the first time for the expulsion of US forces from Iraq.
+
+The current behaviour of the US government towards the Middle East seems to be backfiring and the US continues to fall into the trap of angering the people
+https://nitter.lanterne-rouge.info/IranObserver0/status/1754106057863909730  2/4/24
+
+>“Today we are heartbroken for the suffering of the Palestinian people. And I call today in this chamber for an immediate ceasefire."
+
+Sinn Féin’s Michelle O’Neill became the first nationalist to hold the position of Northern Ireland’s first minister.
+
+ In her speech, she expressed solidarity with Palestine and called for a ceasefire
+https://nitter.lanterne-rouge.info/QudsNen/status/1754106848955785310#m  2/4/24
+
+>BREAKING| Norwegian Foreign Minister Espen Barth Eide to Al Jazeera: We cannot abandon the Palestinian people and this is not the right time to suspend funding for UNRWA.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754108343856074955#m  2/4/24
+
+>BREAKING| Israeli forces prevent the family of Imran Dweik, who was killed by Israeli forces, from entering Al Aqsa mosque to perform funeral prayers.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754114024956981542#m  2/4/24
+https://files.catbox.moe/k7hlwo.mp4  2/4/24
+
+>In addition to the crimes of the US terrorist army in Syria and Iraq these days, the official Syrian news agency (SANA) reported that US forces have transferred 60 crude oil tankers stolen from Hasaka province to their illegal US bases.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754115999492636836#m  2/4/24
+
+>BREAKING| The Red Crescent warns of a humanitarian disaster at Al Amal Hospital in Khan Yunis, which has been besieged for 14 consecutive days.
+
+⭕️ Food supplies for refugees are depleted and available fuel is sufficient for only one week, while the hospital has run out of some basic medical supplies and medications.
+
+⭕️ For the fifth day in a row, all coordination attempts to transfer patients from the hospital for treatment outside have failed. The hospital has run out of oxygen supply for intensive care units.
+
+⭕️ Israeli forces continue to target the hospital with heavy gunfire, and ambulances cannot move.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754130481711378894#m  2/4/24
+
+>The Iraqi army said US attacks would have dire consequences.
+
+Iranian proxies in Iraq reported that the US was targeting empty or abandoned facilities.
+
+Israel reported that the 5-day delay before the strike allowed the Iranian proxies to effectively disperse.
+https://t.me/megatron_ron/1573  2/4/24
+
+>Hezbollah has been heavily pounding several israeli bases in the last hour 🔥
+https://nitter.lanterne-rouge.info/AryJeay/status/1754156813321134089#m  2/4/24
+
+>🛑| Al-Qassam (Hamas) issued the following in the last hour:
+
+🔻Targeted 3 Merkava-3 tanks.
+🔻Targeted 3 Merkava-4 tanks.
+🔻Targeted 1 military D9-bulldozer.
+🔻Sniped an IOF soldier.
+
+🔻Targeted IOF soldiers inside a building with TBGs, killing and wounding them.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754175503110397968#m  2/4/24
+
+>Mohammed Abdul-Salam, Ansarallah “Houthi” spokesman 
+
+“It must be emphasized that the aggressive raids, whether on our country or on Iraq and Syria, will increase the hatred of the people and unite them against the American colonial presence in the region.”
+https://nitter.woodland.cafe/revolutionaryem/status/1754167890553487549#m  2/4/24
+
+>US National Security Advisor to NBC:
+
+"We do not accept the claim that what is happening in the Red Sea is linked to the war in Gaza."
+
+What is happening in the Red Sea is 200% related to the genocide in Gaza.
+
+The Houthis closed this passage only to Israeli ships and ships moving towards Israel, all other ships could pass freely.
+
+The US and the UK entered the conflict only to defend Israel and to prevent the Houthis from harming them financially while Israel carries out the genocide in Gaza.
+
+After the US and the UK entered into conflict with the Houthis, due to the escalation of the situation, now all transport here has been stopped.
+
+The ships have to bypass Africa and thus drastically increase the prices of the goods they carry, causing increased inflation in Europe.
+https://t.me/megatron_ron/1575  2/4/24
+
+>🛑| MAJOR Al-Qassam report by Obu Obeida:
+
+In the past few days, Al-Qassam Brigades:
+
+🔻Completely/partially destroyed 43 military vehicles.
+
+🔻Targeted & eliminated 15 IOF soldiers from point-blank range.
+
+🔻Sniped an officer & a soldier
+
+🔻Dozens of casualties in 17 different military operations. These operations involved targeting infiltrating forces with shells, anti-fortification and anti-personnel explosive devices, and machine guns. 
+
+🔻Detonated a pre-rigged entrance to a tunnel.
+
+🔻Seized 4 IOF drones.
+
+🔻Shelled military gatherings with mortar rounds across all combat fronts.
+
+🔻Launched an intense rocket barrage towards Tel Aviv & its surroundings.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754185708804149315#m  2/4/24
+
+>⚡️WATCH: Al-Quds published a video showing scenes from the rocket launches targering military sites and military concentrations.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754184235710132378#m  2/4/24
+https://files.catbox.moe/goul03.mp4  2/4/24
+
+>Media coverage | French authorities have launched an investigation into alleged "advocacy of terrorism" against Émilie Gomis, a French national basketball team player and former ambassador of Paris 2024. 
+
+>The investigation was initiated due to her posting of a story on her social media regarding Israel's colonization.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754179693463425314#m  2/4/24
+
+>⚡️Veteran commentator on #Palestinian affairs for News 12, Ehud Yaari:
+
+ I apologize to the families of the kidnapped people. We are not on the verge of a deal. There is a large gap between the two parties, and #Hamas insists on the withdrawal of the army and guarantees to end the war.
+https://nitter.woodland.cafe/ME_Observer_/status/1754187284969091204#m  2/4/24
+
+>⚡️Sources to Al-Arabi:
+
+Hamas has so far refused to agree to an exchange deal similar to previous agreements. #Hamas wants to increase the number of #Palestinian prisoners to be released. #Israel informed the mediators of its opposition to the number of prisoners #Hamas wants to release.
+https://nitter.woodland.cafe/ME_Observer_/status/1754187377885524479#m  2/4/24
+
+>🛑| IMPORTANT: Statement by a member of the Iraqi Parliament, Mustafa Sanad:
+
+“Whenever news from the White House claims that US airstrikes are directed against Iranian-backed armed factions that targeted US bases in the region, and that these airstrikes are effective, be sure they are fake news. 
+
+All of the strikes are aimed at Iraqi national forces associated with the Popular Mobilization Forces (PMU/Hashd al Shaabi), an official government entity. 
+
+These strikes have no negative impact on the resistance factions, but rather on the Iraqi people, who hold the Popular Mobilization Forces in high regard. Drone attacks against US bases continue, and US airstrikes are ineffective at deterring
+them.”
+https://nitter.lanterne-rouge.info/AryJeay/status/1754194625089159596#m  2/4/24
+
+>🛑| Al-Aqsa TV Channel:
+
+“Hamas has not yet delivered its response [to the ceasefire], as it conducts final consultations with the representatives of our people and other factions to achieve the interests of the Palestinian people in stopping the aggression, rebuilding, and releasing prisoners. The response is expected to be delivered soon."
+https://nitter.lanterne-rouge.info/AryJeay/status/1754217677277511691#m  2/4/24
+
+>🛑| A Hamas source to Al-Jazeera: 
+
+We call on the media to be careful and not fall into the trap of the Israeli media, which aims to confuse the Palestinian atmosphere.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754219246555414531#m  2/4/24
+
+>⚡️Infographic by Hezbollah:
+
+Showing operation statistics. Some notable statistics are:
+
+🔻Targeted 24 Merkava tanks, 28 APCs
+🔻20 leadership rank positions
+🔻Destroyed 2 military factories
+🔻Targeted 2 Iron dome platforms
+🔻More than 2000 IOF casualties
+🟡Operations record in a day: 26
+🟡Avg operations/day: 8
+🚀385 ATGMs operations
+🚀23 drone operations
+🚀40 air defense operations
+https://nitter.lanterne-rouge.info/AryJeay/status/1754171693151502419#m  2/4/24
+
+>⚡️Kan channel:
+Arab countries have begun communicating directly with Benny Gantz because they believe that he is the next prime minister of #Israel
+https://nitter.woodland.cafe/ME_Observer_/status/1754219290310422607#m  2/4/24
+
+ >🇺🇸 Donald Trump:
+
+"We've always got to protect Israel, in my opinion!"
+https://t.me/megatron_ron/1578  2/4/24
+https://files.catbox.moe/1jqi6s.mp4  2/4/24
+
+>🚨 The American military occupation base in the al-Omar oil field in Syria is under the fire of the Resistance 🔥
+https://nitter.lanterne-rouge.info/Twelver313/status/1754262473597739436#m  2/4/24
+
+>🛑| 🇮🇶BREAKING: Islamic Resistance in Iraq confirms:
+
+Attacking the American base in the Al-Omar oil field, deep into Syria, with kamikaze drones.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754264172345348266#m  2/4/24
+
+>🚨| 🇾🇪 BREAKING: The American-British warplanes launched an aggression of 12 raids on Hodeidah and Saada (Yemen).
+https://nitter.lanterne-rouge.info/AryJeay/status/1754265141930037266#m  2/4/24
+
+>US President Joe Biden’s approval rating dropped to 37%, according to an NBC News poll released Sunday. 
+
+According to the poll, 60% of those surveyed disproved Biden’s handling of Israel's war on Gaza, compared to 56% last November.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754268750876967020#m  2/4/24
+
+>⚡️| 🇮🇶 Scenes from the Islamic Resistance in Iraq targeting the US base in the Omar Oil Field, deep in Syria, with a Shahed-101 kamikaze drone.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754273174772994274#m  2/4/24
+https://files.catbox.moe/uhnmbl.mp4  2/4/24
+
+>The Guardian reports that CNN is facing a backlash from its own staff over its pro-Israel editorial policies, which led to a regurgitation of Israel's propaganda and the censoring of Palestinians perspectives in the network’s coverage of the war in Gaza.
+
+CNN's editorial policy includes tight restrictions on quoting Hamas and reporting other Palestinian perspectives while Israel's government statements are taken at face value. Also, every story on the conflict must be cleared by the Jerusalem bureau before broadcast or publication.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754279227078095165#m  2/4/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 4 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻(Partially) destroyed 3 Merkava-3 tanks, 3 Merkava-4 tanks & 1 military D9-bulldozer in various combatzones throughout the Strip.
+
+🔻Successfully sniped an IOF soldier in the vicinity of the industrial area southwest of Gaza City.
+
+🔻Targeted a group IOF soldiers entrenched in a house with a TBG anti-fortification shell, in the vicinity of the industrial area southwest of Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Ambushed an IOF force in a well-prepared ambush in the western axis of Khan Yunis, followed by clashing with them from point-blank range, confirmed the killing of 2 IOF soldiers, and injuring several others.
+
+🔻Engaged in fierce clashes with IOF soldiers & vehicles in the western and southwest axes of Khan Yunis.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Engaged in intense combat with IOF soldiers & vehicles in the western axis of Khan Yunis, using machine guns and appropriate weapons.
+
+🔻Engaged in fierce clashes with IOF soldiers & their vehicles in the western axis of Gaza City using suitable weapons.
+
+🔻Shelled a group of israeli soldiers and their vehicles in the vicinity of the industrial zone west of Gaza City with several mortar shells.
+
+🔻Targeted a D9-military bulldozer with RPGs, on the western axes of Khan Younis.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Engaged in fierce clashes with IOF forces, in the center of the city and the outskirts of Al-Amal neighborhood in Khan Younis, resulting in deaths and injuries.
+
+🔻Engaged in fierce clashes at Abu Mazen roundabout and the chalets area west of Gaza City.
+
+🔻Fired 2 RPGs on IOF army vehicles on the Al-Jawazat, industrial, and agency axes in Gaza.
+
+— 🇵🇸 Al-Mujahideen Brigades:
+
+🔻In a joint operation with Al-Qassam Brigades, targeted a group of military vehicles & soldiers in the eastern axis of Khan Yunis with a barrage of mortars. Israeli helicopters were observed conducting an evacuation operation for the injured.
+
+🔻Struck the military post of “Fajjah” with a rocket barrage, directly hitting its targets.
+
+🔻Destroyed a Merkava tank after targeting it with an anti-tank rockets, at the industrial intersection in Gaza City.
+
+🔻Shelled the gatherings of IOF forces at the military transmission site 16 in the northeastern axis of Gaza, with a barrage of heavy caliber mortars.
+
+🔻Engaged in fierce clashes with IOF forces in the axis, west of Gaza City, using appropriate and diverse weapons.
+
+— 🟡 Hezbollah (6 operations)
+
+🔻Targeted the Al-Marj site with appropriate weapons.
+
+🔻Targeted 2 buildings in the Manara settlement with appropriate weapons, in response to israeli attacks against civilians homes.
+
+🔻Targeted an assembly of israeli soldiers, south of the Al-Abad site with appropriate weapons.
+
+🔻Targeted the Ruwaysat Al-alam site in the occupied Shebaa Farms, twice at different times, with rockets.
+
+🔻Targeted the Zebdine site in the occupied Shebaa Farms with rockets.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked the US base in the al-omar oil field deep in Syria with a Shahed-101 kamikaze drone. 
+
+This list did not include rockets fired from Gaza towards settlements
+https://nitter.lanterne-rouge.info/AryJeay/status/1754307276616196565#m  2/4/24
+
+>🚨Reports of multiple launches from South Lebanon toward Mount Dov without setting off alarms.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754463625190797478#m  2/5/24
+
+>Around fifteen French parliamentarians arrived at Rafah border crossing on Sunday and called for an immediate ceasefire in Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754452016921759750#m  2/5/24
+
+>🚨 BREAKING: US-UK warplanes are carrying out an aggression on Yemen’s Hodeidah, according to Yemeni outlets.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754489560279437458#m  2/5/24
+
+>BREAKING:
+
+ 🇵🇸🇮🇱 Hamas delegation rejects truce project with Israel
+
+Representatives of the Palestinian Hamas movement refused to accept the terms of a ceasefire agreement in the Gaza Strip, which was proposed at peace talks in Paris.
+
+The draft truce does not correspond to the position of Hamas and does not restrict Israel from carrying out military operations, Al-Mayadeen reports.
+
+“The agreement in Paris provided for the exchange of prisoners, but completely ignored the ceasefire and the withdrawal of troops from Gaza, while the resistance forces consider these issues to be key,” the journalists note.
+
+The text of the agreement does not restrict Israel from carrying out airstrikes on Palestinian territories and does not provide for the withdrawal of Israeli troops.
+
+It is expected that a new truce project will soon be discussed in Cairo by representatives of Hamas and Israel with the participation of international mediators.
+
+Netanyahu said yesterday that he will not accept "anything" for the release of the Israeli hostages, practically indicating that he may sacrifice the hostages.
+https://t.me/megatron_ron/1588  2/5/24
+
+>Iran, Russia and China are going to hold a joint-naval exercise. With the goal to secure regional security.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754494940678169008#m  2/5/24
+
+>⚡️WATCH: Al-Quds Brigades published a video showing scenes of its forces preparing “fire anti-personnel” bombs and using them to target IOF soldiers on the battle fronts in Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754452488445407673#m  2/5/24
+https://files.catbox.moe/zk79bs.mp4  2/5/24
+
+>🛑| Israeli Channel 12: The Israeli airline “El Al” cancels its flights to Ireland; Due to the support of the Palestinians and the decline in travel demand.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754453846368174369#m  2/5/24
+
+>— Israel’s tourism is declining so they give FREE money:
+
+Due to the numerous missile & drone attacks in Eilat, the city turned into a tourist ghost town. In order to revive its tourism and attract tourists, Eilat will give tourists free vouchers they can redeem at restaurants & other places in Eilat if they book a hotel there. They’ll also receive a cashback on their reservation if all the vouchers are used.
+(Via Channel 12)
+
+This is an attempt to revive the dead tourism in the most southern part of occupied Palestine, but who told them that Eilat is safe now?
+https://nitter.lanterne-rouge.info/AryJeay/status/1754456350690566533#m  2/5/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing the recovery of the Skylark drone that was seized during its intelligence mission, west of Khan Yunis, south of the Gaza Strip.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754486379692630505#m  2/5/24
+https://files.catbox.moe/2kbyih.mp4  2/5/24
+
+>| Secretary of Iran’s Supreme National Security Council met Iraq’s National Security Adviser in Baghdad:
+
+Saying that “Iran respects sovereignty of Iraq”. He said both countries can resolve the problems through a meaningful dialogue.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754512835743265170#m  2/5/24
+
+>What are the available food options in war-torn Gaza Strip?
+https://nitter.lanterne-rouge.info/QudsNen/status/1754469317427466445#m  2/5/24
+
+>According to the Ministry of Health in Gaza, the casualties from the Israeli aggression have now reached 27,478 fatalities and 66,835 injuries since October 7th of the previous year.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754510772024062216#m  2/5/24
+
+>Media coverage | According to a recent opinion poll conducted by Survation and the Labour Muslim Network (LMN), support for the Labour Party among British Muslims has significantly declined during this parliamentary term.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754501142657057118#m  2/5/24
+
+>The survey reveals that support has plummeted to 43%, a stark contrast to the 86% support observed during the 2019 general election. This decline comes amidst growing criticism of the party's stance on the Gaza conflict.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754501145144312012#m  2/5/24
+
+>Israeli soldiers targeted a UN truck carrying humanitarian aid, which has made it into the besieged Gaza Strip.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754492549522244053#m  2/5/24
+
+>BREAKING| Foreign Minister of Spain Jose Manuel Albares pledges an extra $3.7M in aid for UNRWA in support of Palestinian refugees.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754484388845302234#m  2/5/24
+
+>French MP @Portes_Thomas took a video showing hundreds of humanitarian aid trucks at the Egyptian side of the Rafah border crossing as Israel continues to block them from entry into Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754475508438331730#m  2/5/24
+https://files.catbox.moe/58n6ft.mp4  2/5/24
+
+>The Israeli Ministerial Committee has approved a bill that prohibits the denial of the October 7 attack, punishable by imprisonment for up to 5 years. 
+
+The bill specifies that any attempt to "deny or downplay" the attack will result in a 5-year sentence in Israeli prisons.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754518862442205409#m  2/5/24
+
+>Breaking | Israeli airstrikes target the area of Tal al-Zaatar, north of Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754526186867130639#m  2/5/24
+
+>⚡️#Yemen: Al-Mayadeen correspondent: 
+
+American and British fighters resume bombing the Dune area in the city of Hodeidah.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754512213866381591#m  2/5/24
+
+>⚡️Al-Qassam Brigades target a Zionist Merkva tank with an Al-Yassin 105 shell in Tal Al-Hawa, southwest of #Gaza City.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754512502283555196#m  2/5/24
+
+>⚡️This is what is found on the shores of the #Gaza Sea
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754514316999492057#m  2/5/24
+https://files.catbox.moe/otxb4l.mp4  2/5/24
+
+>⚡️United Kingdom: British Defense Minister: We will not hesitate to take action again against #Sanaa
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754530563333951789#m  2/5/24
+
+>⚡️#YEMEN : Airstrikes on Al Hodeida port earlier today
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754530805261402277#m  2/5/24
+https://files.catbox.moe/y1m78d.mp4  2/5/24
+
+>BREAKING:
+
+ 🇺🇸DeSantis allocates $25 million for the protection of 134 Jewish day schools due to “increased antisemitism.”
+
+Nearly 350 school shooting incidents occurred across the U.S. in 2023, data shows.
+
+Despite that, money will be allocated only for "Jewish schools". The US government will work only on their protection.
+
+In addition to this, NY Governor Kathy Hochul announces a whopping $183 million in compensation to Jewish descendants of Holocaust victims, despite the fact that the Holocaust ended 80 years ago, 80% of whom were non-Jews, and the United States then had nothing to do with the Holocaust.
+
+The Jews in the USA are now like a superior race. Not even Americans themselves enjoy the privileges they enjoy.
+
+Despite all that, for the second time in 3 months, Israel will receive a $17.6 billion gift from US taxpayers.
+https://t.me/megatron_ron/1596  2/5/24
+
+>⚡️WATCH: Al-Quds Brigades published a video showing scenes of their mortar launches crushing military positions and concentrations in the front lines of the axes east and north of the Central Governorate.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754520971678007490#m  2/5/24
+https://files.catbox.moe/2f9lxf.mp4  2/5/24
+
+>After realising the substantial economic and social costs of continuing the war, Netanyahu has adjusted his rhetoric and now says that the war will only last “months” and not years, as he had stated initially.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754532697374900518#m  2/5/24
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing its fighters clash with army vehicles (tanks, APCs & D9-bulldozers) west of Khan Yunis, south of the Gaza Strip.
+
+The video also shows scenes of destroyed fragments of the vehicles 🔻
+https://nitter.lanterne-rouge.info/AryJeay/status/1754537809514229769#m  2/5/24
+https://files.catbox.moe/gva9ri.mp4  2/5/24
+
+>🛑| 🇮🇶 Firas Al-Yasser, member of the Iraqi Al-Nujaba resistance:
+
+• The Islamic resistance in Iraq is highly prepared and closely monitors the realities of Iraq, the regional scene, and the international stage to the extent that the American occupier is afraid of the reactions of the Islamic resistance.
+
+• There is coordination between the resistance in Yemen and the resistance in Iraq through attacks on Americans in the region.
+
+• All of America's interests in the region are the target of the Islamic resistance in Iraq, and the resistance possesses extensive information about undisclosed American interests.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754573334681956863#m  2/5/24
+
+>🚨 In the past few hours, a maneuver was carried out in the West Bank by the Israeli army that has caused a lot of noise. 
+
+The Israeli forces simulated a situation in which they kidnapped a Palestinian using helicopters. This has caused a lot of controversy.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754578151772914141#m  2/5/24
+
+>🚨| 🇮🇶 BREAKING: Islamic Resistance in Iraq attacked a target in the occupied Umm al-Rashrash (Eilat) with drones.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754587802669310080#m  2/5/24
+
+>US State Department deputy spokesperson Vedant Patel confirms that the Biden administration would eliminate funds to UNRWA if Congress passes a new Senate bill.
+
+The "border bill" contains a $118.3 billion package including $60 billion for Ukraine, $14 billion for Israel, $10 billion in humanitarian aid, nearly $5 billion for Asia-Pacific partners including Taiwan, and $20 billion in new border funding.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754621491872776357#m  2/5/24
+
+>Breaking | Reuters reports that the Japanese company "Itochu" has terminated its collaboration with the Israeli defense company "Elbit" following the International Court of Justice's decision regarding the Gaza war.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754600391407259928#m  2/5/24
+
+>⚡️Cannes Hebrew Channel:
+
+ Argentine President Javier Millay is on his way to #Israel:
+
+ “I will express my support and solidarity with #Israel in the face of the terrorist attack launched by #Hamas, and I will affirm #Israel’s legitimate right to self-defense.”
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754636947522244814#m  2/5/24
+
+>NEW:
+
+ 🇮🇱 Israel is preparing to seize the border crossing between Gaza and Egypt.
+
+The Egyptian president who threatened that this is the red line, is silent.
+
+Kan Hebrew Channel announced that Israel is preparing for the operation in Rafah.
+
+Israel informed Egypt that Gazans will be evacuated from the border area with Egypt.
+
+Israel is considering allowing return to Gaza City and the northern Gaza Strip to allay Egypt's fears of Gazans crossing the border.
+https://t.me/megatron_ron/1606  2/5/24
+
+>⚡️Scenes of the Islamic Resistance in Iraq targeting with drone aircraft a military target in occupied Eilat, “Umm al-Rashrash”
+
+On 1/28/2024
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754620259112202489#m  2/5/24
+https://files.catbox.moe/pagjc3.mp4  2/5/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 5 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Seized a Skylark reconnaissance drone during its intelligence mission, west of Khan Yunis, southern Gaza Strip.
+
+🔻In a joint-operation with Al-Quds Brigades, they shelled a concentration of army forces infiltrating west of Gaza City using mortar shells and 107mm rockets.
+
+🔻Ambushed an IOF military convoy, detonating 3 pre-planted explosive devices targeting a Merkava tank and targeting another tank with a Yassin-105 in the neighborhood west of Khan Yunis, southern Gaza Strip.
+
+🔻Targeted 4 Merkava tanks with Yassin 105s, west of Khan Yunis & southwest of Gaza City.
+
+🔻Targeted a group of IOF soldiers entrenched in a house with a TBG anti-fortification, causing casualties, west of Khan Yunis, southern Gaza Strip.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Targeted israeli soldiers with anti-personnel "Buraq" bombs in the axes of Khan Yunis.
+
+🔻Shelled IOF troops and vehicles with mortars in the axis southwest of Khan Yunis.
+
+🔻Shelled a concentration of troops and vehicles east of al-Maghazi camp in central Gaza Strip.
+
+🔻Launched Grad rockets at IOF forces and military vehicles in the axis of the neighborhood west of Khan Yunis, accurately hitting their targets.
+
+🔻Shelled israeli troops and vehicles in the Tel al-Hawa axis, southwest of Gaza City, using 107mm rockets & mortar shells.
+
+🔻Shelled a military concentration of israeli soldiers with a barrage of mortar shells east of al-Masdar village, central Gaza Strip.
+
+🔻Fired salvos of rockets and mortar shells at israeli troops around the Industry areas in Gaza City.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Sniped a Zionist soldier in the middle of Khan Yunis.
+
+🔻Targeted a Merkava tank, west of Gaza City with an explosive device and RPGs, igniting it immediately, resulting in injuries and deaths.
+
+🔻Shelled a military concentration of troops and vehicles with mortar shells and Al-Aqsa-rockets around the Industry area, west of Gaza City.
+
+🔻Engaged in fierce clashes with IOF soldiers and vehicles in the axis west of Khan Yunis.
+
+🔻Engaged in intense clashes with IOF soldiers and their vehicles in the axis west of Gaza City.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted concentrations of IOF forces southwest of Gaza City with short-range rockets.
+
+🔻Engaged in fierce clashes with IOF forces in the axes of west Gaza City, using appropriate and diverse weapons.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Al-Samaqa IOF site in the hills of Kafr Shuba and the Shebaa Farms with rockets, in 2 separate operations.
+
+🔻Targeted the Ruwaysat Al-Alam site in the Shebaa Farms with rockets.
+
+🔻Targeted the Yiftah barracks with rockets.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked a target in Umm al-Rashrash (Eilat), with a kamikaze drone.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754662882296389800#m  2/5/24
