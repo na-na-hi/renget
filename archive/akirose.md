@@ -1,3 +1,3 @@
 [Hi](fantasy)
 
-**(mu)mei**, gura, illya, alina, meera ... getting called other names is kind of a jumpscare for me but theyre There i guess
+mostly go by MUMEI or MILLIE But u can call me Gura Illya or Rena me thinks. Idk

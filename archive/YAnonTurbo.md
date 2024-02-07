@@ -43,4 +43,4 @@ assistant: → Assistant: / A:
 user: → Human: / H:
 ```
 ---
--> [***!***](https://files.catbox.moe/vfapik.json)![https://files.catbox.moe/50v8wk.png](https://files.catbox.moe/digxns.png) ->
+-> [***!***](https://files.catbox.moe/pddpuv.json)![https://files.catbox.moe/if976l.png](https://files.catbox.moe/digxns.png) ->

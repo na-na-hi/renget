@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (zatsudan, Tue 02/07 7PM CT)
+Next stream (zatsudan while signing postcards, Tue 02/07 7PM CT)
 https://www.youtube.com/watch?v=DKEBcOSv73E
 Last stream (Palworld)
 https://www.youtube.com/watch?v=4dUmUaHWI0Q

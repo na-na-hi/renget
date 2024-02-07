@@ -405,4 +405,6 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[1]** *Telius...Home...*](https://arch.b4k.co/vp/thread/55358172/)
 [**[2]** *Farm hell; Now with more lag!*](https://arch.b4k.co/vp/thread/55362058/)
 [**[3]** *Apparently I was cursed with the most broken version of Empire*](https://arch.b4k.co/vp/thread/55366619/)
-[**[4]**](https://arch.b4k.co/vp/thread/55369596/)
+[**[4]** *This is the worst field effect ever, holy fuck*](https://arch.b4k.co/vp/thread/55369596/)
+[**[5]** *Uncharted content*](https://arch.b4k.co/vp/thread/55372170/)
+[**[6]**](https://arch.b4k.co/vp/thread/55377558/)

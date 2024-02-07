@@ -51,35 +51,25 @@ NijiJP's cheerful sunflower
 https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
 https://twitter.com/honmahimawari
 
->Snuffy
-Big fat sausage fingers
-https://www.twitch.tv/snuffy
-https://twitter.com/snuffyowo
-
->Poko
-IdolEN's thieving raccoon
-https://www.youtube.com/@rakunpoko
-https://twitter.com/PokoRakun
-
 >Salome
 NijiJP's ojou-sama desuwa!
 https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
 https://twitter.com/1000000lome
 
 >Henemimi
-Draws art of chubby girls
+Chubby girl who draws chubby girls
 https://www.twitch.tv/henemimi
 https://twitter.com/henemimi
-
->Meat
-Green cavewoman
-https://www.twitch.tv/meat
-https://twitter.com/meatscave
 
 >Amiya
 Former Tsunderia spooder
 https://www.youtube.com/@AmiyaAranha
 https://twitter.com/amiyaaranha
+
+>Margo
+Chubby girl who draws chubby girls
+https://www.twitch.tv/akiajimargo
+https://twitter.com/akiajimargo
 ***
 
 ## Chubby Behind The Model (Doesn't Lean Into It)
@@ -89,6 +79,11 @@ Laughing gas Apex Predator
 https://www.youtube.com/@Dokibird
 https://www.twitch.tv/dokibird
 https://twitter.com/dokibird
+
+>Poko
+IdolEN's thieving raccoon
+https://www.youtube.com/@rakunpoko
+https://twitter.com/PokoRakun
 
 >Ollie
 HoloID's zoomer zombie
@@ -115,6 +110,11 @@ HoloEN's rapping reaper
 https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg
 https://twitter.com/moricalliope
 
+>Meat
+Green cavewoman
+https://www.twitch.tv/meat
+https://twitter.com/meatscave
+
 >Scarle
 NijiEN's late night enchantress
 https://www.youtube.com/channel/UCFgXWZOUZA2oYHNr6qDmsTQ
@@ -124,6 +124,11 @@ https://twitter.com/scarleyonaguni
 Former Tsunderia vsinger
 https://www.youtube.com/@MioriCelesta
 https://twitter.com/mioricelesta
+
+>Snuffy
+Big fat sausage fingers
+https://www.twitch.tv/snuffy
+https://twitter.com/snuffyowo
 
 ## Enablers/Feeders/Artists
 
@@ -137,6 +142,11 @@ https://twitter.com/niniyuuna
 Ate 100 chicken nuggets on stream
 https://www.youtube.com/@KiliaKurayami
 https://twitter.com/KiliaKurayami
+
+>Nyanners
+Commissioned /ag/ fanart of herself
+https://www.twitch.tv/nyanners
+https://twitter.com/NyanNyanners
 
 >Peagade
 Draws a lot of big HoloEN

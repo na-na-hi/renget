@@ -301,18 +301,17 @@ This gets rid of any potential static or crackles from happening.
 ## Discord Crackle Fixes
 ---
 
-Input Mode: Voice Activity, unless you want to Hold your PTT key longer than you are used to
+Input : Virtual Cable (you can rename your virtual cable in the classic windows sound control panel like I did below)
 
-Input sensitivity uncheck and manually set it to something like -65db
+Output : Headphones (or steelseries sonar chat)
 
-Echo Cancellation : Turn this off, when testing in voice & video it causes your voice to cut in and out, and its arguably useless anyways.
+Echo Cancellation : Turn this off, when testing in voice & video it causes your voice to cut in and out
 
-Noise Suppression : None. If you are using a voice model, you do not need this at all, as you are probably trying to 1:1 the person you are using as a voice.
+Audio Subsystem : Legacy if you are still experiencing crackles, if not Standard.
 
-Automatic Gain : Off, unless you want discord to balance your own audio.
-
-Audio Subsystem : Legacy if you are experiencing crackles, if not Standard.
-
+![DiscordSettings1](https://i.postimg.cc/8Pbps9q9/Discord-Settings-1.png)
+![DiscordSettings2](https://i.postimg.cc/Z5KTNjmR/Discord-Settings-2.png)
+![DiscordSettings3](https://i.postimg.cc/TY9KBCJj/Discord-Settings-3.png)
 
 ---
 ## QOL Only for Advanced Users who have ZERO ISSUES.

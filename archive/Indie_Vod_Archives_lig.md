@@ -44,10 +44,15 @@ Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive
 ##[Hime Hajime](https://www.twitch.tv/hajime) 
 Content|Link|Description 
 -------|-------|-------
-Spreadsheet with dates, runtime and content of these vods |[Speadsheet](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1309061356)| [Discontinued]
-Unlisted Playlist with these Vods|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3)|[Discontinued]
-Ms Onedrive Mirror|[MS Onedrive](https://onedrive.live.com/?id=B2DA420D7AA7F6A8%21202&cid=B2DA420D7AA7F6A8)|[Discontinued]
-Archive.org Mirror|[Archive.org](https://archive.org/details/2021-06-13-resident-evil-village-part-4-final-jessie-its-time-to-kill-heisenburg)|[Discontinued]
+Spreadsheet with dates, runtime and content of these vods |[Speadsheet](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1309061356)|
+Unlisted Playlist with these Vods|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3)|
+Ms Onedrive Mirror|[MS Onedrive](https://onedrive.live.com/?id=B2DA420D7AA7F6A8%21202&cid=B2DA420D7AA7F6A8)|
+Archive.org Mirror|[Archive.org](https://archive.org/details/2021-06-13-resident-evil-village-part-4-final-jessie-its-time-to-kill-heisenburg)|
+
+##[Olivia Monroe](https://www.twitch.tv/oliviamonroe) 
+Content|Link|Description 
+-------|-------|------- 
+Unofficial Vei Vod Channel | [Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
 
 ---
  
@@ -157,6 +162,13 @@ Content|Link|Description
 -------|-------|------- 
 Onigiri Vods on archive.org (1): | [Link](https://archive.org/search?query=creator%3A%22OniGiriEN%22&sort=-date)|
 Onigiri Vods on archive.org (2): | [Link](https://archive.org/search?query=creator%3A%22OniGiri%22)|
+
+
+
+##[Soyapoya](https://www.twitch.tv/soyapoya)
+Content|Link|Description 
+-------|-------|------- 
+Unofficial Vod Archive | [Link](https://www.youtube.com/channel/UCGIxAtP_NM7MFXyiZ3wRYnA)|
 
 
 ---

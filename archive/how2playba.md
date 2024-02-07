@@ -844,3 +844,6 @@ It also includes the [chibi extraction and posing guide](https://rentry.org/qewd
 Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the 4chan /bag/ thread and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated. 
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.
+
+Keeping this here for in advance, no one scrolls this far down so don't open it ᓀ‸ᓂ
+https://rentry.org/DressHinaEvent

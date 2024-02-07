@@ -1,3 +1,22 @@
+>Nice footage of Ka-52 flying and firing at hohol positions
+https://files.catbox.moe/vp6yci.mp4
+>Russian tank shrugs off hohol drone
+https://files.catbox.moe/4g4582.MP4
+>Nice FAB footage
+https://files.catbox.moe/5e0ahj.mp4
+https://files.catbox.moe/flrqiv.mp4
+>Belgorod attacks POV footage
+https://files.catbox.moe/utcx9q.mp4
+>AFU in Krynky moving
+https://files.catbox.moe/sppnt3.mp4
+>Hohol ice fishing
+https://files.catbox.moe/c4msdk.mp4
+>Imagine dying to this
+https://files.catbox.moe/ovzifo.mp4
+>9 minute news report from Avdeevka with combat footage
+https://files.catbox.moe/sp5vrf.mp4
+>Hohol tries to hide in van from drones
+https://files.catbox.moe/hk5l1q.mp4
 >AFU driving around Avdeevka
 https://files.catbox.moe/pzc71l.mp4
 https://files.catbox.moe/vj3t22.mp4
