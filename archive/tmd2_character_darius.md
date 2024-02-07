@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** Mobile Artillery/Excavator
 **Species:** Larvitar | **Affiliation:** Team Ruckus
-**Level:** 11 | **Experience to Next Level:**20/120
+**Level:** 11 | **Experience to Next Level:**63/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 4₽ | **Glorious Gold:** 0 Bars
 

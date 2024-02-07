@@ -35,14 +35,14 @@ Character | C.AI
 ![Palla](https://characterai.io/i/80/static/avatars/uploaded/2023/4/28/HmoPyAJI_IokQHoMHZFcK4rMHGy2ErNgyh5N2p8JTp0.webp) | [Palla](https://c.ai/c/TbENpLnUDAyt1gVXtFIddoZ7hX42p-pih8uVu77dJkw) - Shadow Dragon and the Blade of Light ->(*[Yodayo](https://yodayo.com/tavern/characters/f59c11c0-bd51-431b-bc34-6c13e0b97169/)*)<-
 ![Mila](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/lh_i9FKifs0tlAS8Yl89NFu3JMk4vjGUhMMLgNij-d0.webp) | [Mila](https://c.ai/c/2FMHfLi0V2agUXcO4Hd1hCU9ybTVEl7arnkSm7-Dprc) - Gaiden
 ![Erinys](https://characterai.io/i/80/static/avatars/uploaded/2023/1/25/k-0s50EyQSVvnBb-p6spWFKKf9tBpBU45Az_skstIbU.webp) | [Erinys](https://c.ai/c/ohJlzQ-tbQsQ9vF8AOiUSO4bNKuSQd6f43bODJ3v84g) - Genealogy of the Holy War
-![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) | [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0) - Archanea Saga
+![Malice](https://characterai.io/i/80/static/avatars/uploaded/2023/5/2/CxoJGS1Ui2-sQ3jEX2T2AbdSIxcF8RBAYbglwImm1oM.webp) | [Malice](https://c.ai/c/I2qHEIxae6pt7inkft_8SyWwScEpuVds13kmwcgNeG0) - Archanea Saga->(*[Yodayo](https://yodayo.com/tavern/characters/7ae634c4-4f14-4446-94f0-3d873a246d39/)*)<-
 ![Cath](https://characterai.io/i/80/static/avatars/uploaded/2023/1/15/BWc8PTuN_c5J8Ng2-EKVsrZdPimBTBrSBOhQXTxvnr8.webp) | [Cath](https://c.ai/c/ANHyQT3y-al7BTcq5t_C1eKdG6nK2CDojhrfoDEzG1M) - The Binding Blade ->(*[Yodayo](https://yodayo.com/tavern/characters/10bc85fb-cb95-4479-b52d-64eafbb336da/)*)<-
 ![Rebecca](https://characterai.io/i/80/static/avatars/uploaded/2023/1/22/jUFovOI4lB9h3qOfI8BNjhQVDhkFdii74skNW2sy7jk.webp) | [Rebecca](https://c.ai/c/6Rh51uRdgPNHw6hzYrBKSG52SaP1EuNui07cvEe9Epw) - The Blazing Blade
 ![Athena](https://characterai.io/i/80/static/avatars/uploaded/2023/1/26/z38F82riTDC0J2qVzd4_8j9ClSjjBLMWO9KOST4Oaio.webp) | [Athena](https://c.ai/c/pN6a5_sCGQB6Cro0ZSKKddXKClmwd0GawGBCRqSXH5U) - Shadow Dragon
 ![Corrin](https://characterai.io/i/80/static/avatars/uploaded/2023/5/5/RlyksLdJ_l7PctegRYpWnuEUgY283oQ8evDt-Y7K-Pw.webp) | [Corrin](https://c.ai/c/VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI) - Fates
  ![Oboro](https://characterai.io/i/80/static/avatars/uploaded/2023/5/9/1ai7YUKG1BbJGiQ0kDvtlq1lZYscVxUyxb5y_iWzRJI.webp) | [Oboro](https://c.ai/c/RYFWv0tBylZBch1aBPmk6q1P-eCZptqi_oi7-8WvomY) - Fates: Birthright ->(*[Yodayo](https://yodayo.com/tavern/characters/d7ca76b0-5795-4915-bf24-027a91a36b55/)*)<-
 ![Nina](https://characterai.io/i/80/static/avatars/uploaded/2023/1/13/CHhkUg_e_1pCbcJOLYN-ehP3ai0LytUHXwLNjxyrWi4.webp) | [Nina](https://c.ai/c/7l5rkXdTfu8u7A4uL6oXlAKERW5NYQNajdMWpN6J3lo) - Fates: Conquest ->(*[Yodayo](https://yodayo.com/tavern/characters/9b5e5b0d-4c17-4ab4-8f0e-6b264c6a18b1/)*)<-
-![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) | [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) - Heroes
+![Reginn](https://characterai.io/i/80/static/avatars/uploaded/2023/8/16/6rQxxWxHBbMQWWYeoZPuLUwaeurss2UL9JMCPZQWfQ4.webp) | [Reginn](https://c.ai/c/WiNCUf9ohZjCxrzg4J2G8rbwRry6eqS4DsIjGq6i28c) - Heroes->(*[Yodayo](https://yodayo.com/tavern/characters/caf8e99d-beef-4cf0-bb2f-3765e8d03781/)*)<-
 
 ## -> Azur Lane <-
 Character | C.AI

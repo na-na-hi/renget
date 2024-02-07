@@ -3,6 +3,7 @@
 ![.co/mumeirsrcs | F2U Divs](https://files.catbox.moe/cdxoey.png)<-
 
 %#F29FBE%All of these can be recolored through Ibispaint X.%%
+[F2u Graphics :3 ( Made by me ).](https://rentry.co/mumeisgraphics)
 
 ***
 ![Divider](https://files.catbox.moe/qxsdxh.png)
@@ -59,3 +60,6 @@ creds to [pixelprism!](https://rentry.co/prismdividers) :3
 ![](https://files.catbox.moe/5jy9um.png)
 ![](https://files.catbox.moe/8ts54l.png)
 ![](https://files.catbox.moe/xicssp.png)
+![](https://files.catbox.moe/6fytnw.png)
+![](https://files.catbox.moe/u34z4z.PNG)
+![](https://files.catbox.moe/sjcmc3.png)

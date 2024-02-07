@@ -1,5 +1,5 @@
 # 官网Claude2食用方法（搭配Clewd使用）
-!!! danger 本教程及 [Clewd修改版](https://github.com/teralomaniac/clewd) 禁止转发任何包含收费项目的群组/论坛（例如OfficeChat）或用于收费项目，另外请帮忙举报恶意盗用/商用本教程及Clewd修改版的b站up==[浅睡一天一夜](https://space.bilibili.com/35307060)==
+!!! danger 本教程及 [Clewd修改版](https://github.com/teralomaniac/clewd) 禁止转发任何包含收费项目的群组/论坛或用于收费项目，警惕任何高风险cookie购买服务（黑名单：AI新服务）
 
 !!! 本教程所有内容采用 CC BY-NC 4.0 许可协议进行许可 [协议内容](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
 

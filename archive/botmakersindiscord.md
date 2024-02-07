@@ -1,4 +1,7 @@
-# A handy list of discordtroon botmakers for anons
+# /aicg/ - Discordtroon botmakers
+!!! note A handy list for anons
+!!! info Le Update (02/07/24)
+
 [Algiz](https://www.chub.ai/users/Algiz) - [Proof](https://desuarchive.org/g/thread/96728894/#96729199)
 [anonaugusproductions](https://www.chub.ai/users/anonaugusproductions) - [Proof](https://files.catbox.moe/52wseg.jpg)
 [Arkane](https://www.chub.ai/users/Arkane) - [Proof](https://desuarchive.org/g/thread/96728894/#96729199)
@@ -26,7 +29,16 @@
 [summernon](https://chub.ai/users/summernon) - [Proof](https://files.catbox.moe/yreh8g.png)
 [Kramfaust/Unreal_999](https://www.chub.ai/users/Unreal_999) - [Proof](https://files.catbox.moe/r6y87h.jpg)
 [writingsomesin](https://www.chub.ai/users/writingsomesin) - [Proof](https://desuarchive.org/g/thread/96728894/#96729199)
-
+[Vidicus](https://www.chub.ai/users/vidicus) - [Proof](https://files.catbox.moe/m6dja5.png)
+[Botmaster](https://www.chub.ai/users/botmaster) - [Proof](https://files.catbox.moe/qw8p4f.png)
+[None/nonenothingnada](https://www.chub.ai/users/nonenothingnada) - [Proof](https://files.catbox.moe/p5be0y.png)
+[oo ee oo/meep](https://www.chub.ai/users/meep) - [Proof](https://files.catbox.moe/mq8lo3.png)
+[queueue](https://www.chub.ai/users/queueue) - [Proof](https://files.catbox.moe/lfh365.png)
+[Irontrooper/Ironanon](https://www.chub.ai/users/Ironanon) - [Proof](https://files.catbox.moe/8tm9rt.png)
+[mrnobody99](https://www.chub.ai/users/mrnobody99) - [Proof](https://files.catbox.moe/krpl0r.png)
+[kingvalntula1](https://www.chub.ai/users/kingvalntula1) - [Proof](https://files.catbox.moe/y02onx.png)
+[TheColonel/thepizzaman](https://www.chub.ai/users/thepizzaman) - [Proof](https://files.catbox.moe/fooord.png)
+[corpselover/corpsefucker](https://chub.ai/users/corpsefucker) - [Proof](https://files.catbox.moe/36lrmv.png)
 
 Send names and proof here, preferably with links to their chub or rentry. listnigger@proton.me
 To get off this list, just delete your discord account.

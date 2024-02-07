@@ -30,17 +30,17 @@ b. Second, run start_windows.bat or start_linux.sh depending on your OS. If you 
 ###### 3. Choose and download your models
 a. When choosing a model that fits your hardware, it's all about VRAM. Loading the model into the GPU costs VRAM, inference also costs some VRAM. GPUs with more CUDA cores, VRAM bandwidth and clock speed net you more token/s, bigger models are slower.
 We'll use quantized models because there's no way consumer hardware will have enough to run raw lossless models, 4bit and 5bit are good trade-off points.
-Reference table, assuming 4bit quant and groupsize128:
-Params | 7B | 13B | 33B |34B| 70B
------- | ------ | ------ | ------ | ------ | ------
- **VRAM required** | 8GB for 8k context | 16GB for 8k context | 24GB for 3.4k context | 24GB for 16k context thanks to GQA | 48GB for 16k context
+Reference table, assuming 4bpw (bit-per-weight):
+**Params** | 7B | 13B | 34B | 70B
+------ | ------ | ------ | ------ | ------
+ **VRAM required** | 8GB for 8k context | 16GB for 8k context | 24GB for 32k context thanks to GQA | 48GB for 32k context
 
 b. Go to https://huggingface.co and choose a model, pick the ones with GPTQ or exl2 suffix, they're meant to be run on full GPU with exllama.
 - ggml/gguf also works. Oobabooga already supports llama.cpp loader. It supports CPU/RAM inference with GPU offloading. The prompt processing mechanism is different than exllama, slower on new prompts, faster on cached prompts => ggml is better for self-service if you swipe/regenerate often.
 - (New) exl2 models can only be be loaded with exllamav2. These models have dynamic quants so you're no longer stuck with 4 bit GPTQ.
 - Model ranking: https://rentry.org/ayumi_erp_rating - automated rating, grain of salt needed.
 - These guys quantize: https://huggingface.co/TheBloke, https://huggingface.co/LoneStriker (exl2 quants)
-- Run at least q5_k_m for the optimal quality tradeoff, if you can afford it. The quality bump from q4 is more than the perplexity difference suggests. Exllama2 now supports dynamic precision quants so this applies too.
+- Run at least 4bpw for the optimal quality tradeoff, if you can afford it. The optimal range is between 4bpw to 6bpw.
 
 c. Go to oobabooga web UI - http://127.0.0.1:7860/ or the provided public management URL if you used --share. Go to "Models" tab.
 
@@ -83,20 +83,20 @@ c. You can rent cloud GPU instances on vast.ai, runpod.io or banana.dev. The for
 
 d. Rule of thumb for storage: file size of the model + 15GB. Remember to turn off your cloud VM instance after using so you don't get charged for GPU time!
 
-e. How to host on vast.ai:
+e. How to host on vast.ai (2024 note - hosting on rental GPUs is not much more expensive than calling APIs, esp for mixtral):
 Follow the steps in this link, but at the Image Selection step, click Edit and add "--api --public-api" to the args: https://vast.ai/docs/guides/oobabooga
 ![vast.ai params](https://files.catbox.moe/v05qh5.png)
 Then start the instance, ssh into it, run `cat /app/onstart.log` for your public API link.
 If --public-api fails, download from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/ then run with ```cloudflared --url http://localhost:5000```
 For 48GB VRAM dual-GPU split, do "14,20" for 70b-groupsize128 and "16,20" for 70b-groupsize64, both setups should have enough for 8k context on exllama. More GPUs is always slower.
 
-f. Inference is always faster on Linux, about 10% to 50% improvement depending on what you run.
+f. Inference is always faster on Linux, about 20% to 50% improvement depending on what you run.
 
 g. Disable your GPU's ECC to free up some VRAM.
 
 h. Power limit your GPU for marginally less performance - You can limit your GPUs to use ~75% of their max power for roughly the same performance, they will also run cooler: https://www.pugetsystems.com/labs/hpc/quad-rtx3090-gpu-wattage-limited-maxq-tensorflow-performance-1974/
 ```
-sudo nvidia-smi -i <GPU_No> -pl <Limit_Wattage>
-sudo nvidia-smi -i 0 -pl 240 # Optimal value for my RTX 3090, trading 15% performance for ~32% less power usage
+sudo nvidia-smi -pl <Limit_Wattage>
+sudo nvidia-smi -pl 240 # Optimal value for my RTX 3090, trading 15% performance for ~32% less power usage
 ```
 ![T](https://files.catbox.moe/v6qkcv.jpg)

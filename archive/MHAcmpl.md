@@ -745,6 +745,7 @@ Confession: https://archive.4plebs.org/tg/post/91630760/
 do your best: https://archive.4plebs.org/tg/thread/91673568/#91676099
 Underground Gala Mio: https://desuarchive.org/tg/post/91759097/
 Mio: https://desuarchive.org/tg/post/91805597/
+Sandatsu Carries a Ball: https://desuarchive.org/tg/post/91829481/
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -769,6 +770,7 @@ excellence (Hailey): https://archive.4plebs.org/tg/post/91735347/
 delinquent(Yui): https://archive.4plebs.org/tg/post/91759884/
 CHIHIRO: https://archive.4plebs.org/tg/post/91767116/
 Reaper: https://desuarchive.org/tg/post/91805588/
+Sandy Fights a Troll: https://desuarchive.org/tg/post/91829392/
 
 ***
 

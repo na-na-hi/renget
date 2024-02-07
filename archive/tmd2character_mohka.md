@@ -9,9 +9,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Aspiring pinball machine / Demolitions expert in training
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 11 | **Experience to Next Level:** 102/110
+**Level:** 12 | **Experience to Next Level:** 2/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 2273₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2373₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -23,10 +23,10 @@ Bulletproof | The User is immune to ball and bomb Moves.
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21HP) | 21HP
+Health Points | 0 | Level 12 (22HP) | 22HP
 Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 1 | Species Bonus | +1 Physical Mitigation
+Defense | 2 | Species Bonus | +2 Physical Mitigation
 Special Defense | 0 | Special Defense Tier ɪ | +1 Special Mitigation
 Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 

@@ -17,7 +17,7 @@ https://waa.ai/clickme4surprise
 text sim cards
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![https://rentry.org/MakingA4chanSimCard](https://files.catbox.moe/6nfcjm.png) | /afohm/ **(updated)** | HTML simulator of Anthro Females On Human Males. 99% credit goes to the amazing Anon who selflessly made... well basically everything for this card. https://rentry.org/MakingA4chanSimCard | [CHUB link](https://www.chub.ai/characters/onaholesama/afohm-fd257529)
+![https://rentry.org/MakingA4chanSimCard](https://files.catbox.moe/6nfcjm.png) | /afohm/ | HTML simulator of Anthro Females On Human Males. 99% credit goes to the amazing Anon who selflessly made... well basically everything for this card. https://rentry.org/MakingA4chanSimCard | [CHUB link](https://www.chub.ai/characters/onaholesama/afohm-fd257529)
 ![ASS Claude](https://files.catbox.moe/uwfbpw.png) | Anthrostate Stream Simulator - Claude Version | you are a humie streamer on FURRED.TV- boy do those anthros LOVE you! | [CHUB link](https://www.chub.ai/characters/onaholesama/anthrostate-stream-simulator)
 ![ASS Gpt4](https://files.catbox.moe/u3mw38.png) | Anthrostate Stream Simulator - Gpt4 Version | you are a humie streamer on FURRED.TV- boy do those anthros LOVE you! | [CHUB link](https://www.chub.ai/characters/onaholesama/anthrostate-stream-simulator)
 
@@ -62,7 +62,7 @@ Image| Name | Description | Link
 lot of femdom and fluffy shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![DRILL SERGEANT](https://files.catbox.moe/5qe1wp.png) | Samantha Thott | Beagle who can't feel pain. | [CHUB link](https://chub.ai/characters/onaholesama/samantha-thott-329b28bb)
+![DRILL SERGEANT](https://files.catbox.moe/uvhl83.png) | Samantha Thott **(updated)** | Beagle who can't feel pain. | [CHUB link](https://chub.ai/characters/onaholesama/samantha-thott-329b28bb)
 ![Shelbster](https://files.catbox.moe/mdkbeu.png) | Shelby | (You) get assigned to an Anthrostate inspector | [CHUB link](https://chub.ai/characters/onaholesama/shelby-f7dfbd20)
 ![only because you fags requested it](https://files.catbox.moe/n00ncl.png) | Daro'dasha Ravihirin | generic DALLE-slop coombot. Cathay-raht Khajjit who lives in Falkreath | [CHUB link](https://www.chub.ai/characters/onaholesama/darodasha-ravihirin-aeb82abe/main)
 ![menacing stare](https://files.catbox.moe/u9gwbl.png) | Remi | tall & dominant she-wolf that likes teasing humies | [CHUB link](https://www.chub.ai/characters/onaholesama/remi-dd93d88a)

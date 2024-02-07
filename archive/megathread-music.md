@@ -57,9 +57,17 @@
 - Definitely an excellent site for MP3 and lossless downloads of console and PC game soundtracks that are otherwise quite difficult to find.
 - [URL Safety Results](https://www.urlvoid.com/scan/downloads.khinsider.com/)
 
+### 🔗 [Kojima48](https://kojima48.blogspot.com/)
+- Collection of Japanese pop music shared by passionate music lovers.
+- [URL Safety Results](https://www.urlvoid.com/scan/kojima48.blogspot.com/)
+
 ### 🔗 [LightAudio](https://web.ligaudio.ru/) • Russian UI
 - Discover and access music from various sources to effortlessly download it in the highest quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/web.ligaudio.ru/)
+
+### 🔗 [MikuDB](https://mikudb.moe/)
+- The world of Vocaloid with an extensive collection from Hatsune Miku, Kagamine Rin, IA, GUMI etc.
+- [URL Safety Results](https://www.urlvoid.com/scan/mikudb.moe/)
 
 ### 🔗 [Renovatio Records](https://renovatiorecords.blogspot.com/)
 - Committed in offering extraordinary film music albums for an easy download process.

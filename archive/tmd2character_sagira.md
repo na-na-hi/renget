@@ -13,9 +13,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 13 | **Experience to Next Level:** 22/130
+**Level:** 13 | **Experience to Next Level:** 72/130
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 692₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 792₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
