@@ -118,9 +118,9 @@ https://files.catbox.moe/s5n8ul.safetensors moshimoshibe
 https://files.catbox.moe/amb4x8.safetensors shuz_ requires activation prompt of shuz and helps to put 3d in the negatives
 https://files.catbox.moe/a0rftx.safetensors kazutake_hazano 
 https://files.catbox.moe/bxoljw.safetensors fujou_joshi
-https://files.catbox.moe/cbrvwe.safetensors millefeuille helps to put monochrome and greyscale in the negatives
-https://files.catbox.moe/sc7pis.safetensors tottotenero add text and speech bubble to the negative and maybe some quality tags to the positive prompt and it should stop it from generating text
+https://files.catbox.moe/cbrvwe.safetensors millefeuille helps to put monochrome and greyscale in the negatives, hands are pretty rough, unfortunately https://files.catbox.moe/sc7pis.safetensors tottotenero add text and speech bubble to the negative and maybe some quality tags to the positive prompt and it should stop it from generating text
 https://files.catbox.moe/odmswn.safetensors fkey
+https://files.catbox.moe/jogxo3.safetensors danimaru
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -161,6 +161,8 @@ https://files.catbox.moe/z8j9aq.safetensors character_roll_exe
 https://files.catbox.moe/ifr6a5.safetensors character_mayl_sakurai activation trigger is maylsakurai, can also prompt for the following 'blue vest', 'green sleeves', 'pink skirt', 'black thighhighs', 'hair ornament'
 https://files.catbox.moe/e9ult9.safetensors character_scarlet_ff7 activation trigger is scarlet_\(ff7\), also helps to prompt asymmetrical hair, blonde_hair, red dress if you want her in her typical red dress, looks best with 3d in the prompt due to the limited amount of images out there, once you put 3d in the negatives it starts to look a lot less like her
 https://files.catbox.moe/mxnwc6.safetensors character_fern
+https://files.catbox.moe/qxdzd4.safetensors character_luna_platz outfit infers very well as long as it isn't manipulated too much, you might see issues with things like dress/skirt lift. This LoRA is very flexible with other outfits known by your base model. Main activation token: lunaplatz Outfit: long-sleeve dress, lapel pin, striped pantyhose Optional: blue pantyhose
+https://files.catbox.moe/zrudlt.safetensors character_harp_note has a complicated outfit, so for full control over what is inferred by the model, there are very unique tags, and in all be pretty lengthy, especially for ponyxl. Main activation token: harpnote Outfit: helmet, tinted eyewear, pink dress, pink dress straps, bodysuit under clothes, striped detached sleeves, gold bracelet, scarf, pink kneeboots You don't need all of these tokens to infer her nsfw, usually the activation token with 'helmet' and 'tinted eyewear' is enough.
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯

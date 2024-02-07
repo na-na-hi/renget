@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 13 | **Experience to Next Level:** 10/130
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 25₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -47,11 +47,11 @@ Eᴍᴘᴛʏ | Description
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 66 points to spend.
-    4/10 +2 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
+    5/10 +2 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. While paired with Empath, the User gains Hex Maniac for 0 IP. | 2 IP
-2. Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 2 IP
+2. Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 3 IP
 3. Hex Maniac | The User is attuned to all things mystical and arcane. | 0 IP
 Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -75,7 +75,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Oran Berries | Heals the user for 10HP.
+1. Rawst Berry | Soothes the user. Heals Burn.
 2. Eᴍᴘᴛʏ | Vacant inventory slot
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -85,8 +85,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant storage slot.
-2. Eᴍᴘᴛʏ | Vacant storage slot.
+1. Medium Pearl | Many would pay a decent price for this.
+2. Big Apple | 	Gives +4 to any outside-combat-action.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

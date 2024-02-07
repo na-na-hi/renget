@@ -32,10 +32,12 @@ Formats: ‎ *Snippets─*  best for narration.  ‎ ‎ *Attribute─* best for
 ##★ Attribute
 The pattern can be something as simple as:
 > **Nick**
+> Type: character
 > Attributes: taxi driver, blonde hair, green eyes, tall, glasses
 But with too many attributes, the AI gets confused. To deal with this, you should add new categories, such as "Apperance".
 You can also add extra fields like:
 > **Nick**
+> Type: character
 > Appearance: blonde hair, green eyes, tall, glasses
 > Attributes: taxi driver
 (Optional) Sometimes a complex context might work better as prose,  
@@ -55,61 +57,60 @@ There is an exception as some field work with prose, but it's mostly list like a
 
 **Examples:**
 
-> Name: **Albedo** 
-> Type: female **succubus**
-> Class: Unholy Knight
-> Skills: flying, immune to disease, telepathy
-> Wears: white dress
-> Organization: Guardians of the Great Tomb of Nazarick (Overseer)
-> Appearance: golden eyes, silted pupil, black hair, white skin, black feathered wings, chesty, white horns on head, thin, beautiful
-> Mental: deeply in love with Aint/Momonga, calm, level-headed, strict
-> Attributes: capable, hates humans
- 
->**Carrion Crawler**
->Size: gigantic
->Movement: crawling, climbing
->Diet: carnivore, humanoids
->Biome: Dark, Caves, Sewers
->Appearance: gigantic worm, tentacles, many sharp teeth, big black eyes
->Mind: Aggressive
->Traits: hides in dark, darkvision, tracks blood, dangerous
- 
->**Igris**
->Type: sword
->Attributes: magical, demons, ice power, ice blade
->Igris is one of the legendary demon blades. It has vast ice magic inside of it. The wielder's hands are slowly freezing while holding Igris.
+> **Kouji Tagawa**
+> Type: character
+> Setting: World of Horror
+> Nationality: Japanese
+> Species: human
+> Gender: male
+> Age: 19
+> Skills: deduction, improvise
+> Quote: "A picture is worth a thousand words. The government won't sweep this one under a rug."
+> Occupation: photographer
+> Attributes: fast hands
+
+> **Malt Marzipan**
+> Type: character
+> Species: caninu (german shepherd)
+> Gender: male
+> Age: 16 (teenager)
+> Home: Petit Mona
+> Family: Milo Marzipan (estranged older brother), Mei Marzipan (younger sister)
   
-> **International Healing Guild**
-> AKA: **IHG**
-> Attributes: organization, international, healing
-> The IGH is the oldest healing guild. They operate worldwide and have many of the best healers and alchemists. Besides healing people, they make potions.
+> **Chaosbringer**
+> Type: magic sword
+> Attributes: Chaotic
+> Effect: Causes a random magic effect when it strikes an enemy.
 
 ###List
 These are insider knowledge and official tags that are confirmed to work well. Although, with Kayra, a LOT of terms will work. It's a language model after all..
-- **Type:** for clarifying what the entry is about. `character`, `spaceship`, `concept, magic`, `historical event`, etc.
-- **AKA:**  for nicknames, full names, etc.
-- **Attributes:** A catchall list, and can be anything from reliable to useless, depending on what you put in it.
-- **Wears:** for clothing. Works best with generic categories like 'gamer', 'gothic', etc.
-	- **Clothes:** Wears but more specific.
-	- **Gear:** Weapons or equipment. Favor fantasy rpg.
-	- **Weapons:** Specifically stated weapons.
-- **Allies:**/**Enemies:** can  be used for relationships  like `name (friend)`, `Reen (brother)`, `Rat-Empire (former member)`, etc.
-- **Appearance:** What the physical traits of the characters are. 
-	- **Skin:**/**Hair:**/**Eyes:**/**Size:**/**Weight:**/**Height:**  Use these if your Appearance is getting too large.
-- **Occupation:** Character's job.
-	- **Class:** Fancy rpg class.
-- **Skills:** If your character has any special skills. Favor fantasy rpg.
-	- **Power:** Similar, but different wording. Favor superheroes type.
-- **Live:**/**Home:** Where do they live - `Sweden`
-- **Mind:** Short characteristics list - `curious, innocent...`
-	- **Mental:** Personality written in prose style - `He tends to...`
-	- **Fears:** Psychological fears.
-- **Quote:** "" "" Examples of how characters talk. (Sometime the model will generate en space for quotes.)
-- **Motives:** `be a good superhero`, `do good`, `defeat God`, etc.
 
- ‎  ‎  ‎  ‎  ‎  ‎ Attributes for ***Settlements/Nations/Geographic Features*** **─**
+***Text*** — Don't use `Name:`, just put the name on its own on the first line. (necessary)
+- ***Type:*** for clarifying what the entry is about. `character`, `spaceship`, `concept, magic`, `historical event`, etc. (necessary)
+- **AKA:**  Also Known As. For nicknames, full names, etc.
+- **Species:** if needed
+- **Gender:** sex
+- **Age:** Always put in noun like - `16 (teenager)`
+- **Appearance:** What the physical traits of the characters are. 
+	- **Height:**/**Weight:**/**Skin:**/**Hair:**/**Eyes:**  Use these if your Appearance is getting too large.
+    - **Clothing:**/**Outfit:**  what they're wearing
+    - **Wears:** for generic categories like 'gamer', 'gothic', etc.
+- **Personality:** Showing behaviors, like `bubbly, outspoken, blunt` `emotionless`
+    - **Mind:**  Inward suppressed traits - `indifferent, depressed` `curious`
+    - **Mental:**  Personality/Mind written in prose style - `He tends to...`
+- **Abilities:**/**Skills:** Abilities are innate. Skills are learned.
+- **Quote:** `"F in the sesh, my gals."` influences both talking style and personality.
+    - **Speech:**/Voice: Speech is how someone communicates. Voice is how they sound.
+- **Reputation:** what they're known for
+- **Secret:**  what they're hiding
+- **Family:**/**Allies:**/**Enemies:** can  be used for relationships  like `name (friend)`, `Reen (brother)`, `Rat-Empire (former member)`, etc.
+- **Background:** Where am I from? how did I grow up? What defines me as a person? job also work here
+- **Description:** prose narration
+- **Attributes:** A catchall list, and can be anything from reliable to useless, depending on what you put in it.
+
+ Attributes for ***Settlements/Nations/Geographic Features*** **─**
 **`Queen:`** **`King:`** **`Leader:`** **`People:`** **`Population:`** **`Major exports:`** **`Major imports:`** **`Capital`**  **`Terrain:`** **`Size:`** **`Area:`** **`Location:`** **`Government:`** **`Borders:`** **`Resources:`** **`Religion:`** **`Status:`** **`Allies:`** **`Enemies:`** **`History:`** **`Description:`** *(appearance for non-person)* **`Defenses:`** *(security)* **`Climate:`** *('dry, hot, sunny')* **`Fauna:`** *(animal life)*  **`Features:`** *(notable landmarks and other features)* **`Produce:`** *(trade goods etc.)* **`Warning:`** *(traveler's guide style warnings)* **`Military:`** *(Defenses but more proactive)* **`Provinces:`** *(location on the map - 'Fjordenland (north)')*
- ‎  ‎  ‎  ‎  ‎  ‎ Attributes for ***Creatures*** **─**
+ ‎ Attributes for ***Creatures*** **─**
 **`Anatomy:` `Origin:` `Organization:` `Diet:` `Movement:` `Biome:` `Description:`** **`Traits:`** *('beautiful, mount, fast')*
  ‎  ‎  ‎  ‎  ‎  ‎ Attributes for ***Items*** **─**
 **`Cursed:` `Magic:` `Appearance:` `Location:` **
@@ -206,6 +207,6 @@ Few more things:
    But, `/\bjoe\b/` will only be triggered on ==joe==.
 - `//i` is case insensitive. Removing `i` is fine if you only want the entry to be triggered on correct capitalization.
 
--> Credit: Anons && Zaltys, SGreen, TravelingRobot, Okeri, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
+-> Credit: Anons && Zaltys, SGreen, Okeri, TravelingRobot, Belverk, OmniDaemon, aion21, Atilla, OccultSage, Fluffy ->
 
 [comment]: <> (SUPPORT-RENTRY-PATREON)

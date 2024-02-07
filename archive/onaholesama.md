@@ -1,7 +1,7 @@
 # onaholesama's furshit
 ->![AUTISTIC VIRGIN](https://files.catbox.moe/2250cu.jpg)<-
 ***
-https://waa.ai/onaholesama
+https://waa.ai/clickme4surprise
 ***
 [TOC2]
 

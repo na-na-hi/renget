@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-02-03==
+# /aicg/ chronicles, up to ==2024-02-06==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates are fucked tho due to DST<-)
 
@@ -1105,6 +1105,17 @@ When | Where | What
 2024-02-03|[98804473](https://desuarchive.org/g/thread/98802147#98804473)| personal recommendations service by anons to anons is reaching new heights
 2024-02-03|[98804574](https://desuarchive.org/g/thread/98802147#98804574)| CharacterHub is down for the planned server migration, some minor bugs appear as a result
 2024-02-03|[98811107](https://desuarchive.org/g/thread/98810771#98811107)| Gemini Ultra 02.07 release confirmed by a more substantial leak
+2024-02-03|[98813255](https://desuarchive.org/g/thread/98810771#98813255)| some of the export buttons noticed to be removed
+2024-02-04|[98819482](https://desuarchive.org/g/thread/98817873#98819482)| can namefags finally become self-sufficient? the possibilities are endless...
+2024-02-04|[98824179](https://desuarchive.org/g/thread/98822049#98824179)| /lmg/ loves /aicg/, offers janitorai\.com cards as proof
+2024-02-04|[98829698](https://desuarchive.org/g/thread/98827453#98829698)| AI generated comments summary on YouTube now, hardly relevant
+2024-02-05|[98839174](https://desuarchive.org/g/thread/98836804#98839174)| anon teases a price calculator for API models...
+2024-02-05|[98839180](https://desuarchive.org/g/thread/98836804#98839180)| new Silly extension, Quick Persona
+2024-02-05|[98839809](https://desuarchive.org/g/thread/98839163#98839809)| ... and releases it
+2024-02-06|[98851670](https://desuarchive.org/g/thread/98849943#98851670)| AWS Claude v1.3 EOL date is linked again
+2024-02-06|[98853675](https://desuarchive.org/g/thread/98852208#98853675)| /aicg/ is advertised on 4chan, the original and largest English-language image board
+2024-02-06|[98860705](https://desuarchive.org/g/thread/98860146#98860705)| promising Weaver family of llms mentioned, but there's no hope
+2024-02-06|[98861203](https://desuarchive.org/g/thread/98860146#98861203)| Gemini Ultra delayed
 -|-|-
 
 [](you have found my secret stash of nothing!)

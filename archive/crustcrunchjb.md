@@ -1,8 +1,9 @@
 -> ![I LOVE PURIN!!!](https://files.catbox.moe/5pr4st.gif) <-
 # -> ![purin4evr](https://crustcrunch.neocities.org/pom.png) %#f590d5%♡%%%#f593d3%c%%%#f597d2%r%%%#f69bd0%u%%%#f69fcf%s%%%#f6a3ce%t%%%#f7a6cc%c%%%#f7aacb%r%%%#f7aeca%u%%%#f8b2c8%n%%%#f8b6c7%c%%%#f8bac6%h%%%#f9bdc4%'%%%#f9c1c3%s%% %#fac5c2%C%%%#fac9c0%l%%%#facdbf%a%%%#fbd0bd%u%%%#fbd4bc%d%%%#fbd8bb%e%% %#fcdcb9%2%% %#fce0b8%P%%%#fce4b7%r%%%#fde7b5%o%%%#fdebb4%m%%%#fdefb3%p%%%#fef3b1%t%%%#fef7b0%s%%%#fffbaf%♡%% ![pompompurinfan](https://crustcrunch.neocities.org/pompomfan.webp) <-
 ->%#baf1ff% ₊˚⊹⋆₊˚⊹♡ *send me a mail~* **crustcrunch@proton.me** ♡⊹˚₊⋆⊹˚₊%%<-
--> [%#f590d5%CHUB%%](https://www.chub.ai/users/crustcrunch) <-  | -> [%#f590d5%Main Rentry%%](https://rentry.org/crustcrunch) <-  | -> [%#f590d5%Old Claude Jailbreaks%%](https://rentry.org/crustcrunchJB_old) <-  | -> [%#f590d5%GPT Jailbreaks%%](https://rentry.org/crustcrunchGPT) <-  | -> [%#f590d5%Fun Jailbreaks%%](https://rentry.org/crustcrunch_fun_JBs) <-
-| | | |
+-> [%#f590d5%CHUB%%](https://www.chub.ai/users/crustcrunch) <-  | -> [%#f590d5%Neocities%%](https://crustcrunch.neocities.org) <- | -> [%#f590d5%Main Rentry%%](https://rentry.org/crustcrunch) <-  | -> [%#f590d5%Old Claude Jailbreaks%%](https://rentry.org/crustcrunchJB_old) <-  | -> [%#f590d5%GPT Jailbreaks%%](https://rentry.org/crustcrunchGPT) <-  | -> [%#f590d5%Fun Jailbreaks%%](https://rentry.org/crustcrunch_fun_JBs) <-
+| | | | |
+
 
 -> ![rainbow](https://64.media.tumblr.com/940cfdbc655e8bf61cd46fcd81439e39/tumblr_inline_o9jf1jppjz1upt8h3_250.gifv) <-
 

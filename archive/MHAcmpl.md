@@ -1126,6 +1126,8 @@ Rob's First Day (featuring Velvet Worm & Dust Devil): https://docs.google.com/do
 Sins of the Father (Full Metal, 1-F): https://rentry.org/Sins-of-the-Father-MHA
 Runt Breaks the Ice!! (Runt, 1-F): https://rentry.org/x6hogk7r
 Suki's Notebook: https://rentry.org/mxh95sov
+Shard's Warning (Mirror Devil, Smokin' Sexy): https://rentry.org/9rqp48zf
+Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper): https://rentry.org/wxqgu34w
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

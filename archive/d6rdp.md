@@ -54,10 +54,12 @@
 126: For not showing proper respect to Yagoo, Vesper’s western lands are scorched with rays of hellfire, annihilating a good portion of his territory. The land remains uninhabitable to this day. 
 129: Bettel, Hakka, Flayon, and Shinri are created.
 142: Shiori, Bijou, Fuwawa, Mococo, and Nerissa are created.
-144: Magni and Vesper are slain under unclear circumstances when engaging with monsters near the borders of Nerissa's territory. Rumors spread like wildfire as the realm of both demigods quickly collapse into anarchy. Vesper's realm, already unstable, quickly falls apart as monsters overwhelm it. The survivors flee to Magni's land who use heavily experimental alchemy to maintain their realms at terrible human cost.
-144: Current year. 
+144: Magni and Vesper are slain under unclear circumstances when engaging with monsters near the borders of Nerissa's territory. Rumors spread like wildfire as the realm of both demigods quickly collapse into anarchy. Vesper's realm, already unstable, quickly falls apart as monsters overwhelm it. The survivors flee to Magni's land who use heavily experimental alchemy to maintain their realms at terrible human cost. 
+145: Ao, Kanade, Ririka, Raden, and Hajime are created.
+150: Goldbullet, Octavio, Jurard, and Ruze are created.
+153: Mel is gravely injured by a renegade member of her Blessed. As the country descends into a second civil war, Yagoo purges it with hellfire for the crime of being incapable of managing itself. Mel is slain in this purge. 
 
-![Map of the Known World](https://warosu.org/data/vt/img/0552/05/1691213703644852.png)
+![Map of the Known World](https://i.warosu.org/data/vt/img/0677/76/1706674309483193.png)
 
 ##United Stellar States of Tokino (U.S.S.T.)
 
@@ -238,46 +240,54 @@ Her enthusiasm to use her axe to split skulls has often alarmed the others, part
 *Capital: Taramato*
 
 ###Geography and Infrastructure
-The Nocturnal State features a wide variety of black spired gothic architecture to befit its ruler, Mel. Towering spires and ancient castles lurk atop tall hills over thatched roof villages with cobblestone homes. The country is very mountainous and craggy, though the soil is quite rich. Tomatoes and acerola cherries are grown here in abundance more so than any other part of the world, and are believed to originate from these lands. 
+The Nocturnal State featured a wide variety of black spired gothic architecture to befit its ruler, Mel. Towering spires and ancient castles lurked atop tall hills over thatched roof villages with cobblestone homes. The country was very mountainous and craggy, though the soil was quite rich. Tomatoes and acerola cherries were grown here in abundance more so than any other part of the world, and are believed to originate from these lands. As a consequence of the land’s destruction, prices of these produce items have increased substantially.
 
-The mountains also provide excellent defense, which makes assaulting the lands hard. This comes at the cost of also harboring a much higher than normal rate of monsters. The day and night cycle in this land is always favoring long nights and short days. The sun does not rise until 8:30 AM and sets at 6:00 PM, leading to harsh winters and fervent summers. 
+The mountains also provided excellent defense, which makes assaulting the lands hard. This came at the cost of also harboring a much higher than normal rate of monsters. The day and night cycle in this land always favored long nights and short days. The sun did not rise until 8:30 AM and set at 6:00 PM, leading to harsh winters and fervent summers. 
 
-Because of the uneven terrain, many of the roads in the Nocturnal State are unpaved. Electricity was only recently fully adopted across the country, and many backwater villages and hamlets exist away from civilization’s interior. Most villages have at least one family of vampires to guard them. 
+Because of the uneven terrain, many of the roads in the Nocturnal State were unpaved. Electricity was only recently fully adopted across the country, and many backwater villages and hamlets existed away from civilization’s interior at the time of the nation’s destruction. Most villages had at least one family of vampires to guard them. 
 
-The country is landlocked and is bordered by Choco in the northwest, Suisei in the northeast, Miko in the east, Azki in the southeast, Aki in the southwest, and Subaru in the west. 
+The country was landlocked and was bordered by Choco in the northwest, Suisei in the northeast, Miko in the east, Azki in the southeast, Aki in the southwest, and Subaru in the west.  
 
 ###Flag
 Five horizontal bands of yellow, black, white, black, and yellow. The black bands are double the width of the yellow bands, and the white band is double width of the black bands. In the center of the white band are two black bat wings. 
 
 ###General Overview
-The people of the Nocturnal State are quiet, suspicious of outsiders, and introverted. Because of the harshness of the land, as well as the near-death experience of Mel at the hands of foreign would-be usurpers, the Yozorans are not accepting of those who originate outside of their country, and tend towards xenophobia. 
+The people of the Nocturnal State were quiet, suspicious of outsiders, and introverted. Because of the harshness of the land, as well as the near-death experience of Mel at the hands of foreign would-be usurpers, the Yozorans were not accepting of those who originated outside of their country, and tended towards xenophobia. 
 
-There is a sharp divide between the ruling power of the common class and the elites, the vampires. Early on in the country’s history, Mel created the first vampires as her thralls, to make those who would better appreciate and understand her by becoming more like her. These vampires grew to become the nobility of the nation, and were expected to be their defenders as well.
+There was a sharp divide between the ruling power of the common class and the elites, the vampires. Early on in the country’s history, Mel created the first vampires as her thralls, to make those who would better appreciate and understand her by becoming more like her. These vampires grew to become the nobility of the nation, and were expected to be their defenders as well.
 
 The vampires held too much power, being taxed little, granted much of the peasantry’s lands, were allowed to drink the blood of the peasants, and were greedy with their power. In the year 50, the vampires were coerced by outside agitators of an unknown state to attempt to kill Mel. What followed was her disappearance and a bitter civil war between the vampires and foreign agents against the peasants and Mel’s Blessed. 
 
 In the end the peasantry won, and the power of the vampires was reduced. Mel returned towards the end of the conflict and revealed she’d been forced into hiding to recover her strength after being poisoned and nearly losing her life. With Mel on their side, the civil war ended quickly in favor of the peasants in the year 63. 
 
-As a result of their betrayal, the power of the vampires was reduced, and many houses or titles were expunged. These days, the vampires enjoy a higher social class, but few of the luxuries they once did, being closer to an upper middle class in wealth. They do still, however, retain control of the country’s government. Both classes remain highly devoted to Mel, whose popularity only grew after the civil war. 
+As a result of their betrayal, the power of the vampires was reduced, and many houses or titles were expunged. The vampires enjoyed a higher social class, but few of the luxuries they once did, being closer to an upper middle class in wealth. They did still, however, retain control of the country’s government. Both classes remained highly devoted to Mel, whose popularity only grew after the civil war. 
 
-The Nocturnal State remains somewhat poor, and is primarily agrarian in function. Only just able to grow enough to feed itself, and totally unwilling to harbor tourists, this closeted and old country seems as if it will remain this way for years to come. 
+Or so it seemed. One member of Mel’s Blessed turned upon her suddenly in a single night of violence that scoured her royal palace of most of its population. Gathering supporters, she made war upon the land, herself having been once one of the traitorous vampires Mel had forgiven. Ultimately her kindness proved to be her downfall. Said vampire got close enough to Mel to become Blessed, and then lay in wait for many years plotting their revenge. 
+
+This war quickly erupted into a chaos that threatened to spread to other countries. Within a fortnight, the state had collapsed into anarchy. Mel herself vanished early on in the conflict, grievously wounded by said rogue Blessed. She was not seen again. For failing to properly control her state and its populace, Yagoo subjected her land to intense hellfire. All within were slain. Though no one has confirmed Mel’s death, none believe she survived the apocalypse.
+
+The Nocturnal State was somewhat poor for its existence, and was primarily agrarian in function. Only just able to grow enough to feed itself, and totally unwilling to harbor tourists, this closeted and old country kept to itself until the bitter end. Perhaps its downfall was its inability to change not from the outside but, ironically enough, from the inside.
 
 ###Blessed
-The Blessed of Mel are created by Mel specifically when she chooses to bite a vampire. This second bite magnifies their powers further, and their bond with Mel increases. Psychically attuned, they become true forces of nature, capable of incredible feats of strength, agility, and endurance. Their job, in addition to keeping monsters at bay, is also to keep the lesser vampires in check. Mel has not yet fully forgiven them for their betrayal, so fewer Blessed are made today than once were. 
+The Blessed of Mel were created by Mel specifically when she chose to bite a vampire. This second bite magnifies their powers further, and their bond with Mel increases. Psychically attuned, they become true forces of nature, capable of incredible feats of strength, agility, and endurance. Their job, in addition to keeping monsters at bay, is also to keep the lesser vampires in check. 
 
-Mel knows where her Blessed are at all times due to their psychic bond, and their devotion to her is beyond fanatical. This has led to incidents of overzealous protection in the past, as they have grown paranoid after Mel’s near-death experiences. Though they serve no function in the country’s government, they work tirelessly to make sure no corruption spreads among the vampires. 
+Mel knew where her Blessed are at all times due to their psychic bond, and their devotion to her is beyond fanatical. This has led to incidents of overzealous protection in the past, as they have grown paranoid after Mel’s near-death experiences. Though they served no function in the country’s government, they worked tirelessly to make sure no corruption spreads among the vampires. 
+
+It was ironic thus that one of her own Blessed would betray her. Before this incident, Mel had been creating fewer and fewer, growing somewhat paranoid of the vampires. She had begun to take away power from them and put more into her Blessed on the off chance that another incident occur. It was thus unfortunate that this fear would end up being correctly founded. It is not believed any of her Blessed survived the countries desolation. 
 
 ###Leader Description
-Yozora Mel, beloved by her country (and don’t you dare let them think you don’t love her either), is a sweet and calm woman who is known for dealing with pressure and stressful situations rather well. This personality of hers, as well as siding with the people during the civil war, has made her tremendously popular in her country. Most of her countrymen would gladly die for her. 
+Yozora Mel, beloved by her country (and don’t you dare let them think you don’t love her either), was a sweet and calm woman who is known for dealing with pressure and stressful situations rather well. This personality of hers, as well as siding with the people during the civil war, had made her tremendously popular in her country. Most of her countrymen would have gladly died for her. 
 
-As a vampire however, and especially a powerful one like her, she must occasionally drink blood. While she tries to suppress this urge as much as possible, every now and then a human sacrifice is required. It is considered a great honor among the Nocturnal State to be eaten by Mel, to the point that people opt in for selection, and being selected is seen as the equivalent of winning the lottery. Outsiders wonder if perhaps Mel has used hypnosis on her population to make them love her.
+As a vampire however, and especially a powerful one like her, she had to occasionally drink blood. While she tried to suppress this urge as much as possible, every now and then a human sacrifice is required. It is considered a great honor among the Nocturnal State to be eaten by Mel, to the point that people opt in for selection, and being selected is seen as the equivalent of winning the lottery. Outsiders wonder if perhaps Mel has used hypnosis on her population to make them love her.
 
-Unlike many of the other demigods who rule their lands, Mel is not a terribly ambitious one. She is quite content with what she has been given. She also does not tend to interfere in the administration of her nation either, leaving this to those she has governed. Mel does not desire a grand state, but simply a functional one, and despite the Nocturnal State’s poverty she seems content. 
+Unlike many of the other demigods who rule their lands, Mel is not a terribly ambitious one. She is quite content with what she has been given. She also does not tend to interfere in the administration of her nation either, leaving this to those she has governed. Mel does not desire a grand state, but simply a functional one, and despite the Nocturnal State’s poverty she seemed content.  
+
+Ultimately her greatest weakness was her kindness. She had difficulty in assuming ill intentions from her subjects, which made it easy to deceive her in the end.  
 
 ###Leader Powers
-As a vampire, Mel has all of the powers expected of one in such a role. This includes flight, blood-draining, incredible strength and endurance, and the ability to turn into animals such as bats. Other powers such as hypnosis are also rumored but not confirmed, and Mel has also practiced some level of hemomancy in order to bolster her powers. The practice of hemomancy is currently banned to the general public, and no magical studies exist en masse within the Nocturnal State. 
+As a vampire, Mel had all of the powers expected of one in such a role. This included flight, blood-draining, incredible strength and endurance, and the ability to turn into animals such as bats. Other powers such as hypnosis were also rumored but not confirmed, and Mel had also practiced some level of hemomancy in order to bolster her powers. The practice of hemomancy was banned to the general public, and no magical studies existed en masse within the Nocturnal State at the time of its death.
 
-Although not giving the appearance of one who would seem a strong fighter, Mel has proven time and again she is not to be trifled with. A popular account of her tearing a rogue vampire in half with her bare hands in one, single rip, is often used as an example of her innate strength.
+Although not giving the appearance of one who would seem a strong fighter, Mel had proved time and again she was not to be trifled with. A popular account of her tearing a rogue vampire in half with her bare hands in one, single rip, was often used as an example of her innate strength. In spite of this, she still fell to an attack from within, never suspecting a spy among her Blessed of all people.
 
 ##Friendly Union of Shirakami
 
@@ -294,17 +304,43 @@ Although not giving the appearance of one who would seem a strong fighter, Mel h
 *Capital: Nawa*
 
 ###Geography and Infrastructure
+Much of the Friendly Union is taiga or coniferous forest, and experiences a colder climate. Snowpack is present across most of the year, which makes agriculture difficult. Almost all food is imported from other countries. Temperatures start to rise the further south one goes, but even in the summer it rarely climbs above the 60’s. Yet Fubuki’s influence ensures the winters remain comfortable, so temperatures below the 30’s are rare as well. 
+
+The land is mostly flat as well, and in fact declines in elevation further towards the south, with the southern coastline being an unusual snow-covered coast known as the Pale Shore. Numerous rivers run through the country to the sea, providing fresh water for the inhabitants. Many estuaries are also in this country as well. 
+
+Because Humans and Kami both live in this state, they have their own separate municipalities that are separate from one another, as well as separate forms of governance. At the top is Fubuki, who is head of both governments. Both governments are traditionally tribal in structure. Because the inhabitants of this land are generally satisfied, they don’t concern themselves much with governing things. 
+
+Fubuki is bordered to the south by the ocean, to the west by Haato/Haachama and AZKi, to the northwest by Miko, to the northeast by what once was Chris, and to the west by Shion. 
 
 ###Flag
-A vertical pentaband of light blue, white, black, white, and light blue. The white stripes are three times the size of the other stripes. On the right side of the flag is a black left facing triangle with a white pentagram in the center. 
+A vertical pentaband of light blue, white, black, white, and light blue. The white stripes are three times the size of the other stripes. On the right side of the flag is a black left pointing triangle with a white pentagram in the center. 
 
 ###General Overview 
+The Friendly Union’s title refers to the bond between the people of this land and the native inhabitants, known as Kami. The first Kami were said to be monsters that Fubuki approached in the early days of the territory’s existence. Utilizing her legendary powers of diplomacy, she proposed a compact. This became the eponymous Friendly Union of Shirakami. 
+
+Under this compact, monsters may not kill man, and man may not kill monsters, or Kami as they would come to be known. The Kami changed under the subtle influence of Fubuki, becoming less vicious and more esoteric, mystical, and bizarre. Within a generation, their transformation was complete, and the land has been shared since. Similar attempts to share the land with monsters has all failed catastrophically. Only Fubuki can claim success in this endeavor. 
+
+Facing a near constant incursion of hostile monsters from Chris’s former territory, both Human and Kami work together to keep the Friendly Union safe. Though there is a certain irony in Kami turning on their former brethren, they have yet to complain. Fubuki has attempted to invite monsters to join her nation, but has been unable to replicate her success so far. Happiness and kindness are key to the success of this land. No prisons exist. Those who cause enough problems are disappeared. 
+
+The country is well developed in some respects, but there are large portions of the country that give the appearance of being completely wild. This is further supported by the Kami portions often being very rural to the point of seeming little different to feral, owing to their different needs and often heavy ties to the environment. What this results is patches of civilization, followed by packets of wilderness. The current ratio of population puts the Kami at approximately 60%, and Humans at 40%. The total population of the country counts the Kami among their numbers. 
+
+Because of the Kami living within the country, the people of this land have developed a very close bond. Numerous customs and cultural traits are often absorbed by Humans depending on which Kami live nearest to them. An example is one settlement who have adopted hats in the shape of the stalks of mushrooms and cultivate fungi farms along with glowing mushroom lanterns. This is because their nearest neighbors are mushroom Kami. 
+
+One unusual aspect of Fubuki’s territory is marriage is a serious crime. Fubuki has never elaborated much on this, other than she is vehemently opposed to the concept of it, and believes that marriage would override or discredit the “friendship” aspect of the country. However, all attempts at asking her why this is have fallen flat.
+
+The Friendly Union is part of the Beastlands Compact with Mio, Korone, and Okayu, and was invited to join them a year after their formation in the year 42 in spite of having no shared borders. This is due to a shared set of values regarding the preservation of nature as well as an animalistic and spiritual theme that Fubuki shared. She also asked very politely.
 
 ###Blessed
+The blessed of Fubuki adopt vulpine features, becoming fox-like in many ways. The fullness of the transformation depends upon the individual, but all are able to shift into a Werefox form, or in the most practiced, a full Fox. Unlike many countries, their role is not military but diplomatic. They ensure disputes are resolved amicably, relations between species kept high, and the rare problematic person disposed of.
 
 ###Leader Description
+Shirakami Fubuki is a truly remarkable soul of unbridled wisdom and kindness that masquerades much of this behind a shy and a sleepy-eyed appearance. Fubuki is known for her very calm personality, perhaps second only to Okayu, though she can also be rather mischievous when in the right mood. It is very common of her to sneak around the villages disguised as a fox. 
+
+Playing upon the fact that literally any fox could be Fubuki in disguise, she uses this to ascertain what is going on in her country. Because nobody is bold enough to strike a fox in the event it may be the demigoddess herself, Fubuki often gets around in plain sight and interacts with her populace, or tricks them into thinking they are dealing with her instead of what is actually a regular vulpine. She is very fond of her practical jokes, though they are always mild and never harmful.
 
 ###Leader Powers
+
+Shirakami Fubuki is in possession of a mighty sword, a pair of twins. The one she carries has a mastery over water, while the other was gifted to Mio on her birthday long ago. Her sword is known by the moniker of Uzumi. With this blade, Fubuki can control the tides and the waters with masterful efficiency, often utilizing them for high precision combat maneuvers. As with other beastly demigods, she can also turn into an animal, in this case being a fox of varying size. Although her giant fox form is quite vicious and feral, she rarely uses it as she is not a violent sort, preferring instead to meander about in her land as a small arctic fox instead.
 
 ##Elite Shinto Dynasty of Sakura
 

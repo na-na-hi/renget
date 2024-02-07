@@ -34,7 +34,7 @@ Yes. There are only 3 rarity tiers for units. You do not need to roll dupes of t
 First, actually **READ**. If you are having difficulties despite this, you are likely using underleveled/unptied Identities, or Identities that are very weak against the enemy. You should ensure that all the Identities you use are at Uptie 3 past chapter 2. If you're hardstuck, lament and look up a guide, or use a support.
 
 **8. Does this game have supports?**
-Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons and during two story dungeons. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
+Yes. You can bring one of your friend's units in as a support if they have it on their company tab, and vice versa. You can use supports for everything except Mirror Dungeons. You can only use one support at a time, but the level, Uptie status, and E.G.O of the support you use isn't limited or capped regardless of where you are in the game. You can also still get EX rank when using supports.
 
 **9. How do I use a support unit?**
 You need to have at least one friend added. If you want more friends, go to the Friends tab on your profile and click the "Add a Friend" button. Alternatively, post your user ID in the thread.
@@ -391,7 +391,7 @@ You can find more resources in the [Resources Rentry.](https://rentry.org/lcg_re
 [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
 [Optimal Grinding Guide](https://rentry.org/LCB_optimal_grind_guide)
-[Anon's RR3 Guide](https://docs.google.com/document/d/1FFl_kMPkZhfnnEJ7vOTsMDJsIQtXUZTdHP17WxxCitY)
+[Anon's Sub-100 RR3 Guide](https://docs.google.com/document/d/1FFl_kMPkZhfnnEJ7vOTsMDJsIQtXUZTdHP17WxxCitY)
 
 ## Useful Tips
 1. READ
@@ -433,4 +433,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/25/24: ABABABABABABA ![헤](https://files.catbox.moe/207ryd.png)
 1/31/24: Removed the Railway 2 guides, will add ones for RR3 when they're made.
 2/4/24: Replaced the Refraction Railway image, added optimal grinding guide link. Updated both tier lists.
-2/6/24: Added RR3 guide link. ![lol&](https://files.catbox.moe/7dmu76.png)
+2/6/24: Added sub-100 RR3 guide link. ![lol&](https://files.catbox.moe/7dmu76.png)

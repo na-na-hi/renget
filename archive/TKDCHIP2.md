@@ -111,3 +111,11 @@ https://files.catbox.moe/y1m78d.mp4  2/5/24
 >⚡️Scenes of the Islamic Resistance in Iraq targeting with drone aircraft a military target in occupied Eilat, “Umm al-Rashrash”
 On 1/28/2024
 https://files.catbox.moe/pagjc3.mp4  2/5/24
+>WATCH: Al-Quds Brigades published a video showing the targeting of military vehicles in the Al-Amal neighborhood, west of Khan Yunis, with a Grad rocket.
+The last scene shows the monitoring of the rocket accurately hitting its target.
+https://files.catbox.moe/twow1r.mp4   2/6/24
+>Israel’s evidence of UNRWA Hamas allegations examined
+https://youtu.be/tqG2yeF_4sg  2/6/24
+>The media will NEVER show you this video!
+Palestine protects and serves its people!
+https://files.catbox.moe/xe7sk5.mp4 2/6/24

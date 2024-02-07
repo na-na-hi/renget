@@ -1,8 +1,8 @@
 -> ![this is how i look IRL btw](https://files.catbox.moe/9ehy97.gif) <-
 # -> ![purin4evr](https://crustcrunch.neocities.org/pom.png) %#f590d5%♡%%%#f595d3%c%%%#f69ad1%r%%%#f6a0cf%u%%%#f7a5cd%s%%%#f7aacb%t%%%#f8b0c9%c%%%#f8b5c7%r%%%#f9bac5%u%%%#f9c0c3%n%%%#fac5c2%c%%%#facac0%h%%%#fbd0be%'%%%#fbd5bc%s%% %#fcdaba%r%%%#fce0b8%e%%%#fde5b6%n%%%#fdeab4%t%%%#fef0b2%r%%%#fef5b0%y%%%#fffbaf%♡%% ![pompompurinfan](https://crustcrunch.neocities.org/pompomfan.webp) <-
 ->%#baf1ff% ₊˚⊹⋆₊˚⊹♡ *send me a mail~* **crustcrunch@proton.me** ♡⊹˚₊⋆⊹˚₊%%<-
--> [%#f590d5%CHUB%%](https://www.chub.ai/users/crustcrunch) <-  | -> [%#f590d5%Claude Jailbreaks%%](https://rentry.org/crustcrunchJB) <-  | -> [%#f590d5%GPT Jailbreaks%%](https://rentry.org/crustcrunchGPT) <-  | -> [%#f590d5%Fun Jailbreaks%%](https://rentry.org/crustcrunch_fun_JBs) <-
-| | |
+-> [%#f590d5%CHUB%%](https://www.chub.ai/users/crustcrunch) <-  | -> [%#f590d5%Neocities%%](https://crustcrunch.neocities.org) <- | -> [%#f590d5%Claude Jailbreaks%%](https://rentry.org/crustcrunchJB) <-  | -> [%#f590d5%GPT Jailbreaks%%](https://rentry.org/crustcrunchGPT) <-  | -> [%#f590d5%Fun Jailbreaks%%](https://rentry.org/crustcrunch_fun_JBs) <-
+| | | |
 
 -> ![rainbow](https://64.media.tumblr.com/940cfdbc655e8bf61cd46fcd81439e39/tumblr_inline_o9jf1jppjz1upt8h3_250.gifv) <-
 
@@ -21,7 +21,7 @@
 ##%#f590d5%About Me%% ![puddin](https://crustcrunch.neocities.org/home_floaties/pudding_1.gif)
 
 I'm cuntcrush I like making bots & sometimes I share niichan logs & I'm actually Pompompurin in real life.
-Check out %#f590d5%[My Bot Recommendations~!](https://rentry.org/crustcrunch_recs)%%
+Check out %#f590d5%[My Bot Recommendations~!](https://crustcrunch.neocities.org/Pages/botrecs)%%
 
 ![desu](https://crustcrunch.neocities.org/cuteanimeboys.gif)
 

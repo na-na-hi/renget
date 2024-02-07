@@ -2,6 +2,6 @@
 ***
 **big fan of**  billlie gwsn dia rv snsd fromis twice elris purki xg woo!ah april stayc kara hellovenus weme lsfm dc lovelyz tri-be f(x) nmixx chebul dreamnote enha wayv nct (dream, dojae) p1h exo shinee oneus
 ***
- **solo** yooa hueka ryujin chaer zhanghao hanbin <3
+ **solo** yooa hueka ryujin chaer zhanghao <3
 
 ->[!~back~!](https://rentry.co/dawon)<-

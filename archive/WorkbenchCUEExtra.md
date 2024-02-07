@@ -31,8 +31,7 @@ The protagonist and anyone who played the prototype will NEVER recover from the 
 # Credits
 
 The so-called "Workbenchanon" - The pasta
-SEGA/Sonic Team - Original sprites/graphics used in the fake screenshots for the main pasta, along with the sprites/models shown in the above images
-The singular fake screenshot was made using rips from the Spriter's Resource
-Sonic ATS Team - The ATS sprite shown in an above image.
+Sonic Team - Original sprites/graphics (Sonic sprites and stuff)
+LakeFeperd (i think) - The ATS sprite shown in an above image.
 
 (Note to self: I will later add one more fake screenshot to the main pasta - being the altered title screen)

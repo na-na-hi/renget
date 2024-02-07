@@ -1348,3 +1348,244 @@ https://files.catbox.moe/pagjc3.mp4  2/5/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.lanterne-rouge.info/AryJeay/status/1754662882296389800#m  2/5/24
+
+>🚨Preliminary reports of an attack targeting a ship, south of Yemen’s Aden. 
+
+Likely another AnsarAllah Yemen attack targeting a ship bound for israeli ports.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754832581906825506#m  2/6/24
+
+>🟡| Hezbollah attacked, at 8 AM, the IOF Rameem barracks, near Margaliot, with an IRAM Burkan rocket, hitting its target directly.
+
+The IOF admitted that 2 of its soldiers were wounded in this attack.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754839757148864649#m  2/6/24
+
+>🚨| 🇾🇪 UPDATE:
+
+According to UKMTO, an explosion occured on/near the ship that was targeted earlier today, south of Yemen’s Aden.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754842130818781246#m  2/6/24
+
+>🛑| BREAKING: 
+
+In a joint-operation between Al-Qassam Brigades & the Mujahideen Brigades, they targeted an Apache helicopter with a SAM-7 missile, west of Gaza City.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754845631741407369#m  2/6/24
+
+>⚡️WATCH: Al-Quds Brigades published a video showing the targeting of military vehicles in the Al-Amal neighborhood, west of Khan Yunis, with a Grad rocket.
+
+The last scene shows the monitoring of the rocket accurately hitting its target.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754846680577393071#m  2/6/24
+https://files.catbox.moe/twow1r.mp4  2/6/24
+
+>In Rafah, southern Gaza, displaced children are sleeping in chicken coops these days to escape the heavy rain and cold, after the tents they lived in drowned as a result of the heavy rains.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754834899377234121#  2/6/24
+
+>The civil defense pull out several victims from the Abu Khattab family home in Deir el-Balah, after it was bombed by Israeli fighter jets.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754830436713308340#m  2/6/24
+
+>⚡️Lebanon: The Islamic Resistance in #Lebanon: 
+
+Targeting the leadership of the Beit Hilal Battalion of the 769th Eastern Regional Brigade, causing direct casualties.  
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754862855948509204#m  2/6/24
+
+>They are so sensitive and scared, for them, Putin talking is "propaganda" because they can't handle his talking points and they will lose the plot to any normal human being with common sense.
+
+Empire "intellectuals" / Zioniats are scared of people who talk with logic, and preter banning them.
+
+They ban and censor because they know that any person with an ounce of logic debunks all their Hollywood politics
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754772841327702175#m  2/6/24
+
+>⚡️The United Nations Office for Humanitarian Affairs: More than half of the #Gaza Strip’s population is concentrated in Rafah, on the borders of #Egypt and its surrounding areas.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754790301867082188#m  2/6/24
+
+>⚡️Damage to the Ramim barracks after it was hit by a Burkan missile fired from #Lebanon this morning
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754865115764056444#m  2/6/24
+
+> 🇺🇸🇮🇶 The US lied about warning Iraq in advance of strikes, the State Department admitted
+
+The US did not provide advance notice to Iraq before its recent strikes on Iraqi territory, contrary to last week's statement by Coordinator for Strategic Communications John Kirby, US State Department deputy principal spokesperson Vedant Patel said on Monday.
+
+"Iraq, like every country in the region, understood that there would be a response after the deaths of our soldiers. As for this specific response on Friday, there was not a pre-notification. We informed the Iraqis immediately after the strikes occurred," Patel said.
+
+Last week, Kirby said that the US had informed the Iraqi government about its operation prior to conducting the strikes.
+
+Both Iraq and Syria condemned the US strikes on their territory, and the Iraqi parliament's Security and Defense Committee called for the quick signing of an agreement on the withdrawal of the international coalition troops from the country.
+https://t.me/megatron_ron/1607  2/6/24
+
+> 🇧🇻 Norwegian Foreign Minister, Espen Bart Eide in an interview with Al Jazeera:
+
+"We cannot abandon the Palestinian people, and now is not the right time to suspend funding for UNRWA."
+https://t.me/megatron_ron/1608  2/6/24
+
+The Ministry of Education: Israel killed 4895 students and bombed 400 schools since the start of the offensive on Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754884823200530813#m  2/6/24
+
+>BREAKING:
+
+ 🇦🇷 🇮🇱 Milei will move the embassy to Jerusalem
+
+Milei, the Argentine President who converted to Judaism will move the Argentine Embassy in Jerusalem.
+
+Israeli Minister Katz: "Thank you for recognizing Jerusalem as the capital of Israel, and for your announcement now of moving the Argentine embassy to Jerusalem, the capital of the Jewish people and the State of Israel!"
+https://t.me/megatron_ron/1612  2/6/24
+
+>🛑| Al-Qassam (Hamas) has since this morning:
+
+🔻Destroyed 2 D9-bulldozers
+🔻Targeted 1 Apache helicopter
+🔻Targeted 2 Merkava tanks
+🔻Targeted 2 APCs
+🔻Destroyed an IOF command center
+🔻Targeted IOF soldiers with a TBG
+🔻Sniped an israeli officer
+https://nitter.lanterne-rouge.info/AryJeay/status/1754907746908971302#m  2/6/24
+
+>☠️ The IOF announces the death of an officer during fighting in the northern Gaza Strip:
+
+🔻Maj. David Shakuri, 30, the deputy commander of the Combat Engineering Corps' 601st Battalion.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754921783075983618#m  2/6/24
+
+>🛑| BREAKING: Hamas issued a statement:
+
+We presented our response to the mediators, after consulting with the resistance factions, and the movement engaged with a positive spirit with this proposal, ensuring a comprehensive and complete ceasefire, putting an end to the aggression against our people, ensuring humanitarian aid, establishing shelters, reconstruction, and addressing the issues. Lifting the blockade of Gaza and the completion of the prisoner exchange conditions are part of Hamas' acceptance of the prisoner exchange deal.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754932361328795827#m  2/6/24
+
+>🛑| US Secretary about the official announcement of Hamas: 
+
+We are investigating the response of Hamas, I will talk to israel about it tomorrow, we believe that an agreement is possible.
+https://nitter.lanterne-rouge.info/AryJeay/status/1754933126374084823#m  2/6/24
+
+>The media will NEVER show you this video!
+
+🇵🇸 Palestine protects and serves its people!
+https://nitter.lanterne-rouge.info/REVMAXXING/status/1754656712752054411  2/6/24
+https://files.catbox.moe/xe7sk5.mp4  2/6/24
+
+>BREAKING| Senior Hamas leader Mahmoud Mardawi to Quds News Network commenting on Hamas's response to the recent proposed deal:
+⭕️The movement has included its position on issues it considers essential, such as ceasefire, withdrawal, and reconstruction in all its forms in terms of buildings, homes, infrastructure, schools, and others, in addition to freedom of movement and no blockade on the Strip.
+
+⭕️ We presented mechanisms to ensure the freedom of our prisoners. We do not engage in playing games; we seek a solution. We cannot abandon our people to this enemy, and we will fight for a ceasefire. We do not accept the security belt, and we do not want to end the war while leaving our people in tragedy and despair.
+
+⭕️ Our response was clear. For weeks, we have been discussing issues that any ceasefire proposal must include. We did not attend the Paris meeting attended by Isrsel with three representatives. We have added our perspective on essential issues.
+https://nitter.lanterne-rouge.info/QudsNen/status/1754978972088078454#m  2/6/24
+
+>Israel’s evidence of UNRWA Hamas allegations examined
+New  2/6/24
+https://youtu.be/tqG2yeF_4sg 
+
+>BREAKING: 
+
+ 🇬🇧 Britain withdraws its destroyer after clashes with Yemen
+
+Britain is withdrawing one of its destroyers HMS DIAMOND from the Red Sea because it was subjected to 3 different attacks from Yemen.
+
+The destroyer had previously been fired at several times by missiles and drones from Yemen, who also claimed to have damaged the destroyer.
+
+Britain claims it is withdrawing it for "technical reasons".
+https://t.me/megatron_ron/1622  2/6/24
+
+>⚡️#Syria: Al-Mayadeen correspondent: 
+
+Syrian air defenses confront an #Israeli aggression on the Homs countryside and sounds of explosions are heard in the northern Bekaa
+
+ The #Israeli aggression targeted the garage of the Directorate of Technical Services, south of the city of Homs
+
+Renewed aggression against the city of Homs
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1754996129941307566#m  2/6/24
+
+The US’ DIA (defense intelligence agency) published infographics on drones/missiles they think have been used by Yemen’s AnsarAllah so far in this war. 
+
+>This is an estimate by the US and in no way means it’s completely accurate, complete or correct. But it gives you a decent view.
+▫️Yemen’s drones (based on Iranian drones)
+
+• Sammad (🇮🇷 Sayad) drone: 1,800km 
+• Waid-2 (🇮🇷 Shahed-136) drone: 2,500km
+• Waid-1 ( 🇮🇷 Shahed-131) drone: 900km
+
+▫️Yemen’s ballistic missiles (based on Iranian missiles)
+
+• Burkan-3 (🇮🇷 Qiam/Rezvan) missile: 1,200km
+• Asif (🇮🇷 Khalije Fars) missile: 400km
+• Quds-4 (🇮🇷 Paveh) missile: 2,000km
+
+• Saqr (🇮🇷 358-SAM) Surface-to-Air defense missile: 150km
+
+Keep in mind, this is only just a portion of Yemen’s missile/drone arsenal, but the DIA claims these were weapons used by Yemen during this war. Yemen has many more, even undisclosed ones.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755012355686060053#m  2/6/24
+
+>🛑| CNN: 
+
+The attacks against US forces in Iraq & Syria since October have caused for 146 total casualties among American forces: 
+
+3 dead, 2 very serious injuries, 9 serious injuries, 132 normal injuries.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755013854646370401#m  2/6/24
+
+>🚨BREAKING: The sound of at least 3 very loud explosions in Haifa.
+
+We’ll likely not hear anything about this, since there’s censorship on it.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755023151598018920#m  2/6/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 6 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted the American "Star Nasia" ship with anti-ship missiles.
+
+🔻Targeted the British "Morning Tide" ship with anti-ship missiles.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted an Apache helicopter with a SAM-7 missile, west of Gaza City, together with Mujahideen brigades.
+
+🔻Destroyed a D9-bulldozer with a "Shoaz" explosive, west of Khan Yunis in the southern Gaza Strip.
+
+🔻(Partially) destroyed 2 Merkava tank, 2 APCs & 1 D9-bulldozer in various battle zones in the Strip.
+
+🔻Shelled an IOF operations command center with mortar shells, west of Tal Al-Hawa in Gaza City.
+
+🔻Targeted a group israeli soldiers fortified inside a house with a TBG anti-fortification rocket, resulting in casualties between dead and wounded in the Hawwaz area, west of Khan Yunis in the southern Gaza Strip.
+
+🔻Sniped an israeli officer & an israeli soldier in the area west of Gaza City.
+
+— 🇵🇸Al-Quds Brigades:
+
+🔻Targeted a Merkava tank with RPGs, in the neighborhood west of Khan Yunis.
+
+🔻Destroyed a military vehicle with a "Thaqib - Barrel" explosive device around the Haidar roundabout, west of Gaza.
+
+🔻Targeted an IOF force entrenched in a residential apartment west of Gaza City with an "85 anti-tank" rocket, causing casualties among the force.
+
+🔻Target an IOF force entrenched in a house in the axis west of Khan Yunis with a TBG anti-fortification rocket, resulting in casualties between dead and wounded.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted a D9-bulldozer with an explosive device, west of Khan Yunis, in the southern Gaza Strip.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled the occupied “Yad Mordechai” in the northern Gaza Strip with a missile barrage.
+
+🔻Targeted a Merkava tank with an anti-tank rocket, hitting it directly in the vicinity of the Jawazat area in Gaza City.
+
+🔻Engaged in fierce clashes with IOF forces in the western areas of Gaza City with appropriate and various weaponsw
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Rameem base with an IRAM Burkan rocket, with confirmed casualties.
+
+🔻Targeted an Israeli force’s deployment in the vicinity of the Jal Al-Alam site with Falaq-1 rockets.
+
+🔻Targeted a gathering of israeli soldiers in the vicinity of the Rameem base with rockets.
+
+🔻Targeted the Al-Marj site & the deployment of israeli soldiers around it with artillery shells.
+
+🔻Targeted the headquarters of the Beit Hillel battalion, with suitable weapons.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shabaa Farms with appropriate weapons.
+
+🔻Targeted the al-Ramtha site with rockets.
+
+🔻Targeted the al-Samaqa site in the hills of Kafr Chouba with rockets.
+
+🔻Target the spy equipment at the ruwaysat Al-Alam site with suitable weapons.
+
+This list did not include rockets fired from Gaza towards settlement.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755032045862949169#m  2/6/24

@@ -50,6 +50,14 @@ Nyanners Longest Survivor - Day 3 Vods| [Youtube](https://www.youtube.com/playli
  
 ---
 
+##Archive.Org Mirror:
+Content|Link|Description 
+-------|-------|------- 
+Youtube Alt channel Vods| [Youtube Alt Vods](https://archive.org/details/nyanners-youtube-alt) | 
+Twitch Alt channel Vods| [Twitch Alt Vods](https://archive.org/details/pinkcatbad-archive) | 
+
+---
+
 #Nyanners Karaoke Clip Archive: 
 ##->[Mega - (.mp3)](https://mega.nz/folder/CCxyTJyJ#AL1eBZK8PhxukRYQRSbI2g) - [Ms OneDrive - (.mp3 + .mp4)](https://1drv.ms/f/s!Ali7SWBfsKO6ix53k-h2_6kBRWBK?e=4Kc1PL)<-
 

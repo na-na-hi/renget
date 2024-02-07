@@ -198,16 +198,37 @@ https://portableapps.com/apps
  
 
 ######Step 8 (Optional): Disable Telemetry
+https://wpd.app
+https://www.oo-software.com/en/shutup10
 https://github.com/builtbybel/privatezilla#download
-Only disable items that you understand what they do and what they will affect when disabled. Don't come crying to /fwt/ if you break some component or feature that you didn't understand before pressing the big red button.
+https://github.com/AveYo/fox/blob/main/Edge_Removal.bat
+https://www.ntlite.com/download
+https://www.ntlite.com/community/index.php?threads/guide-custom-iso-downloads.3484/
+https://www.ntlite.com/community/index.php?threads/guide-installing-windows.2986/
+https://github.com/builtbybel/ThisIsWin11/releases
+ 
+https://learn.microsoft.com/en-us/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services
+https://download.microsoft.com/download/D/9/0/D905766D-FEDA-43E5-86ED-8987CEBD8D89/WindowsRTLFB.zip
+ 
+Make sure you understand how to undo the changes these tools make in the inevitability that you break something you want to reenable later on.
+ 
+The best way to manage privacy settings however, is to use Group Policy as this is the method officially created for Enterprise admins that need control over these settings. Some of these tools simply apply Group Policy settings and are easily reversed, others apply registry hacks or even delete system files and can royally fuck your install. Do your research. You've been warned.
  
  
 ######Step 9 (Optional): Removing extraneous icons from Explorer's navigation pane
  
-Lastly, if you hate all the QuickAccess/Pictures/Music/Videos/Documents/DuplicateRemovableDrives/etc folders in the Explorer navigation pane, you can copy and paste the section with whichever icon you want  to remove into Notepad and save it as a text file, rename it to .reg, then run it and restart 
-Explorer. Repeat with additional icons you want to remove.
+Lastly, if you hate all the QuickAccess/Pictures/Music/Videos/Documents/DuplicateRemovableDrives/etc folders in the Explorer navigation pane, you can remove them with the following .reg files.
+
+Before you begin, go into Explorer > Change Folder and Search Settings > View tab > and disable Hide Extensions for Known File Types.
+This will ensure you can properly rename .txt files to .reg files.
+
+Find the highlighted section with the icon you want to remove, then copy and paste the section of white text under it and paste it into Notepad and save it as a text file, rename it to .reg, then run it. Repeat with additional icons you want to remove, then restart Explorer.
+
 You will end up with a simplified Explorer listing of just C:\ D:\ E:\ etc ala Win9x all those decades ago.
 This pairs well with Step 6 if you moved all your user folders to D:\ or another partition.
+
+You can also use an all-in-one remover like this one:
+https://www.majorgeeks.com/content/page/how_to_add_or_remove_user_folder_in_file_explorer.html
 
 ==BEFORE==
 ![](https://images2.imgbox.com/d9/40/vuP9aghH_o.png)

@@ -295,6 +295,8 @@ Making Friends (Akari Ichioka, Hinako Shimeki)
 https://rentry.org/e9uk4mnu
 ENTER (Lucifer, Haruhi, Aki, briefly Makoto)
 https://rentry.org/LucyHasANormalOne
+>A Makeover and a Mixer(Yoru Heinard, Makoto Nagai, Akari Ichioka)
+https://rentry.org/eozqs2y3
 
 >Relationship Charts
 Emilia Shadowsong
@@ -426,10 +428,17 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
+Writefags:
+>Shard's Warning (Mirror Devil, Smokin' Sexy)
+https://rentry.org/9rqp48zf
+>Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper)
+https://rentry.org/wxqgu34w
 
-Characters:
->Daigo Ulmeyda HN Fly 1 Million
->>91814363
+Artfags:
+>Sandy Fights a Troll
+>>91829392
+>Sandatsu Carries a Ball
+>>91829481
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1057,6 +1066,10 @@ https://rentry.org/Sins-of-the-Father-MHA
 https://rentry.org/x6hogk7r
 >NOTEBOOK (Suki, 1-F)
 https://rentry.org/mxh95sov
+>Shard's Warning (Mirror Devil, Smokin' Sexy)
+https://rentry.org/9rqp48zf
+>Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper)
+https://rentry.org/wxqgu34w
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

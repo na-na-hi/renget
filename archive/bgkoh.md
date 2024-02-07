@@ -80,7 +80,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
+2. Spicy Seed | Causes Burn on consumption.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**

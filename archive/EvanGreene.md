@@ -10,7 +10,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 **Species:** Snivy | **Affiliation:** None
 **Level:** 12 | **Experience to Next Level:** 15/120
 **Worn Item:** *N/A* | **Clothing:** *Green Scarf*
-**Pokécoin:** 743₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 843₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -61,11 +61,11 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
+Attribute: Foraging | Tier 1 (+1) | 1/3 | ▮▯▯
 Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
-Training for Attribute: Foraging | 1 | 2/3 | ▮▮▯
+Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
 Currently Training for Stat: None | 1 | 0/9 | ▯▯▯▯▯▯▯▯▯

@@ -27,7 +27,7 @@
 **Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
 **Level:** 10 | **Experience to Next Level:** 87/100 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
-**Pokécoin:** 890₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
+**Pokécoin:** 990₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
 ***
 

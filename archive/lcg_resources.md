@@ -55,7 +55,7 @@
 * [MD3 Farming Guide](https://rentry.org/limpsusMD3farmingstrategy)
 * [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
-* [Anon's RR3 Guide](https://docs.google.com/document/d/1FFl_kMPkZhfnnEJ7vOTsMDJsIQtXUZTdHP17WxxCitY)
+* [Anon's Sub-100 RR3 Guide](https://docs.google.com/document/d/1FFl_kMPkZhfnnEJ7vOTsMDJsIQtXUZTdHP17WxxCitY)
 * [A Better Tutorial for Limbus Company (this is 20 minutes long and made by a faggot but it is the best combat video guide i know of)](https://www.youtube.com/watch?v=ujQgRJo9vHA)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
 * [So you want to play Lobotomy Corporation?](https://files.catbox.moe/veh68o.jpg)
@@ -207,4 +207,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/8/24: Added MD3 E.G.O gift fusion guide link.
 1/31/24: Moved RR3 guides to outdated section. Did some editing for readability and added some new links. 
 2/4/24: Added optimal grinding guide link.
-2/6/24: Added RR3 guide link. ![lol&](https://files.catbox.moe/7dmu76.png)
+2/6/24: Added sub-100 RR3 guide link. ![lol&](https://files.catbox.moe/7dmu76.png)

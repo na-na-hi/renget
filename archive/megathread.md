@@ -93,6 +93,9 @@
 ### 📁 [FMHY](https://fmhy.net/)
 - Immerse yourself in the internet's colossal collection of freebies, unmatched in its scale.
 
+### 📁 [MediaSavvy](https://mediasavvy.pages.dev/)
+- Comprehensive and versatile wiki that offers a wide range of options.
+
 ### 📁 [Porn Dude](https://theporndude.com/) • NSFW
 -  Unrivaled directory for the ultimate collection of top-tier free and premium adult websites.
 
