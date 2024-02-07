@@ -59,7 +59,7 @@
 
 -> I'm almost always on roblox(if my puter let me)
 
-->I like undertale, deltarune, fnaf, the stanley parable , u really, I really like the it universe from Steven King, Tf2, I love mandela catalogue, I love Spiderman and some marvel characters, scp, I'm currently trying to play 8:11 cause my friends keep recommending it to me, im furry go cry about it, I like animals, tawog, I like some animes but I stay very far away from their Fandoms, I like mystery skulls, happy tree friends
+->I like undertale, deltarune, fnaf, the stanley parable , u really, I really like the it universe from Steven King, Tf2, I love mandela catalogue, I love Spiderman and some marvel characters, scp, I'm currently trying to play 8:11 cause my friends keep recommending it to me, im furry go cry about it, I like animals, tawog, I like some animes but I stay very far away from their Fandoms, I like mystery skulls, happy tree friends, detroid become human, metal gear
 
 -> I really like psychology and i will talk about mental illnesses and disorders
 

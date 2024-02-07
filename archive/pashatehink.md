@@ -12,12 +12,14 @@ https://pashatehink.neocities.org (website with deep lore about my OCs)
 Discord: none
 Email: gasvas27@gmail.com
 Waifu: А-545 (both a rifle and a T-Doll)
+Main source of inspiration: pitanon
+My botmaking playlist: https://www.youtube.com/playlist?list=PLxLvqUJvfRzH3kBifKE-h4RcdIssQ-mnE
 
 Current bans:
 Reddit: This account has been suspended .
 4chan: —
 ~~2ch~~
-TO-DO LIST: Create more simple bots for simple people.
+TO-DO LIST: Create a new fucking bot.
 
 [TOC]
 

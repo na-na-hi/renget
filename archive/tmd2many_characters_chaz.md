@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** Team Ruckus
 **Level:** 12 | **Experience to Next Level:** 43/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1060₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1160₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -25,7 +25,7 @@ Inner Focus | The Pokémon's intense focus prevents it from flinching or being a
 
 Stat | Points: 1 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 11 (21HP) | 21HP
+Health Points | 0 | Level 12 (22HP) | 22HP
 Attack | 2 | (+1) Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation

@@ -15,9 +15,9 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 13 | **Experience to Next Level:** 60/130
+**Level:** 13 | **Experience to Next Level:** 80/130
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 1745₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1945₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -75,7 +75,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Special Defense **ɪɪ** | Tier **ɪɪɪ** | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Stat: Special Defense **ɪɪ** | Tier **ɪɪɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
 .
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
@@ -90,7 +90,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Empty | Empty inventory slot.
+1. Rawst Berry | Soothes the user. Heals Burn.
 2. Empty | Empty inventory slot.
 3. Empty | Empty inventory slot.
 4. Empty | Empty inventory slot.

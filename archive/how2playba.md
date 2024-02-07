@@ -1,5 +1,5 @@
 # /bag/ Newfag guide
-You can't save the free 100 rolls for bluefes aka Hanako banner. 
+You can't save the free 100 rolls for bluefes aka Hanako banner. Final day use them now
 
 https://rentry.org/s2kng54y use this for the event minigame
 
@@ -382,7 +382,7 @@ You can do Extreme at level 70, Insane at level 80, and Torment after 2 years of
 
 If you're a pro raid gamer, it's good practice to set a time you'll stop resetting for a high score and finish the raid. Getting a cool gamer score is not worth losing a ticket over. My advice is 15-20 minutes before the ticket ends .
 
-If you need to change formation in the middle of ur raid battle, there's a button for you in the pause screen.
+If you need to change formation in the middle of ur raid battle use the Lobby button.
 
 See the [shop section](https://rentry.org/how2playba#shop) for what to buy. 
 

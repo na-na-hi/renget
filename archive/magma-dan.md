@@ -51,7 +51,7 @@ Character | C.AI
 ![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/5/30/zDFoXxfeNBwh0DTdyFuE5gfrFwJDlN-yptyMCpkoTgw.webp) | Aoba-class heavy cruiser ->IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)<-
 ![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) | Ise-class battleship ->IJN [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU)<-
 ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/31/XjrE6y0Y7RRWPgrBN6fCOjOIRvxFFZk6AHYZ3sdeHuo.webp) | Ise-class aviation battleship ->IJN [Ise](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) Kai<-
-![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class light cruiser ->USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)<-
+![Denver](https://characterai.io/i/80/static/avatars/uploaded/2022/12/24/czEZZBZpMDIhuLfbq_qRz4WmznXnKovkTvPwxnDeRIE.webp) | Cleveland-class light cruiser ->USS [Denver](https://c.ai/c/rnKzPVOCHFkDXwRpblQWoc5X5sHDX78P7W_A1nowc98)<- ->(*[Yodayo](https://yodayo.com/tavern/characters/5e3f9719-285c-42e6-a333-389db13cc6a8/)*)<-
  ![U-101](https://characterai.io/i/80/static/avatars/uploaded/2023/5/19/do9doTlixpyU9T0e22mCtA2IiOI64qj9aRjWkTidxaU.webp) | Type-ⅦB submarine ->KMS [U-101](https://c.ai/c/fbFf-nTQBkWhTv-teUpvmBkqGMukUKKi-UWd-H_bQO0)<-
 
 ## -> The Legend of Zelda: Oracle of Ages/Seasons <-

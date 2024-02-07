@@ -6,23 +6,23 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 239th time, what is Ope?!
+For the 240th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
+
+\>Streams
+Next stream (zatsudan, Tue 02/07 7PM CT)
+https://www.youtube.com/watch?v=DKEBcOSv73E
+Last stream (Palworld)
+https://www.youtube.com/watch?v=4dUmUaHWI0Q
+Previous appearance (FWMC birthday countdown)
+https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 
 \>Recent merch
 Valentine's Day 2024 Set: https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442181852
 hololive Valentine's Voice Pack 2024: https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948
 Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
-
-\>Streams
-Next stream (Stardew Valley, Tue 02/06 2PM CT)
-https://www.youtube.com/watch?v=zKpjv4HXhO4
-Last stream (Palworld)
-https://www.youtube.com/watch?v=4dUmUaHWI0Q
-Previous appearance (FWMC birthday countdown)
-https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 
 \>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
 https://s.goodsmile.link/gmC
@@ -46,11 +46,11 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>68250182
+Previous thread: >>68328496
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Schedule: TBA
+!!!warning Second OP Post - Schedule: @nerissa_en-1754538415725355292
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -72,6 +72,7 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
+https://twitter.com/nerissa_en/status/1754538415725355292
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE

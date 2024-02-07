@@ -517,7 +517,7 @@
 01/2024|[RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation](https://arxiv.org/abs/2401.04679)
 01/2024|[Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://arxiv.org/abs//2401.04658)
 01/2024|[AUTOACT: Automatic Agent Learning from Scratch via Self-Planning](https://arxiv.org/abs/2401.05268)
-01/2024|[Extreme Compression of Large Language Models via Additive Quantization](https://arxiv.org/abs/2401.06118)
+01/2024|[Extreme Compression of Large Language Models via Additive Quantization (AQLM)](https://arxiv.org/abs/2401.06118)
 01/2024|[Knowledge Translation: A New Pathway for Model Compression](https://arxiv.org/abs/2401.05772)
 01/2024|[Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks](https://arxiv.org/abs/2401.02731)
 01/2024|[Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104)

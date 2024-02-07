@@ -54,7 +54,6 @@ creds to [pixelprism!](https://rentry.co/prismdividers) :3
 ![](https://files.catbox.moe/grnn86.png)
 ![](https://files.catbox.moe/bj2rn1.png)
 ![](https://files.catbox.moe/kxb8yg.png)
-![](https://files.catbox.moe/ag6fav.png)
 ![](https://files.catbox.moe/bnji99.png)
 ![](https://files.catbox.moe/etikuz.png)
 ![](https://files.catbox.moe/5jy9um.png)

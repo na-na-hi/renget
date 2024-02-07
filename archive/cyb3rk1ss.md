@@ -1,5 +1,7 @@
 -> ![](https://media.discordapp.net/attachments/1125668721365635152/1134328906254663741/red_blur_top.png?width=550&height=38) <-
--> ![](https://media.discordapp.net/attachments/903364339464044575/1077709409737769010/IMG_4483.gif) *Is this the [%#d53621%chameleon boy%%](https://open.spotify.com/track/4k67Lnw54kvIPvHjMbfziv?si=9f2c2f7774d34a12) I* ***swore*** *I %#d53621%wouldn't%% become?* ![](https://media.discordapp.net/attachments/903364339464044575/1077709409737769010/IMG_4483.gif) <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1077709409737769010/IMG_4483.gif) <-
+->  *Is this the [%#d53621%chameleon boy%%](https://open.spotify.com/track/4k67Lnw54kvIPvHjMbfziv?si=9f2c2f7774d34a12) I* ***swore*** *I %#d53621%wouldn't%% become?* <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1077709409737769010/IMG_4483.gif) <-
 -> ![](https://files.catbox.moe/xmu4tr.png) <-
 -> !~#ea3d27;**CYBER KISS**~! <-
 ***

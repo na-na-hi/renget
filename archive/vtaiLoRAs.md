@@ -150,7 +150,7 @@
 !!! info All outfits! (outside of very recent ones)
 !!! note Recommended weight: 0.8
 !!! info Example Prompt
-	(marine_pirate, twintails, red eyes, yellow eyes, heterochromia, hair ribbon, red ascot, (red skirt:1.2), belt, leotard under clothes, sleeveless, black coat, pirate hat)
+	(marine_pirate, red hair, twintails, red eyes, yellow eyes, heterochromia, hair ribbon, red ascot, (red skirt:1.2), belt, leotard under clothes, sleeveless, black coat, pirate hat)
 -> [Civitai](https://civitai.com/models/47510?modelVersionId=52106) <-
 
 #### -> (HoloReGloss) Ichijou Ririka <-

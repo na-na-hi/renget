@@ -177,6 +177,8 @@ Each {{value}} change within ±3 (±1D3).
   4. `\n<StatusBlock>\n.*?\n</StatusBlock>\n` 匹配内容（以状态栏DLC的状态栏为例）
   5. `(?=(.*?\n<StatusBlock>\n.*?\n</StatusBlock>\n){5})` 正向肯定预查，代表匹配内容之后还有五个匹配内容（`{5}`代表匹配5次），所以保留最后五个状态栏
 ***
-
 ##关联内容
 !!! info [slaude修改版](https://rentry.org/teralomaniac_slaude) | [PreOC](https://rentry.org/teralomaniac_PreOC) | [API养号](https://github.com/teralomaniac/Claude-auto-test)
+***
+##赞助通道
+!!! info [赞助通道](https://rentry.org/teralomaniac_sponsor)

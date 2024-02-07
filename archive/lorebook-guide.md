@@ -21,7 +21,7 @@ Formats: ‎ *Snippets─*  best for narration.  ‎ ‎ *Attribute─* best for
      > *It was always cold here in the*
      1. Create a new independent **Entry** -\> Put `***` as text & Enable **Always On**
      2. Switch to **Placement tab**-\> Set **Insertion Order** to `2`
-      ‎ ‎ ‎ ‎ Separator, enable!—
+      ‎ ‎ ‎ ‎ —Separator, enable!
  
 !!! warning AI keep generating lore in story?
     This happened because of unbalance/unguided context.  
@@ -76,38 +76,69 @@ There is an exception as some field work with prose, but it's mostly list like a
 > Age: 16 (teenager)
 > Home: Petit Mona
 > Family: Milo Marzipan (estranged older brother), Mei Marzipan (younger sister)
+
+> **Special Containment Procedures Foundation**
+> AKA: **The SCP Foundation**, **The Foundation**, **The Janitors** (by Gamers Against Weed), **The Jailors** (by Serpent's Hand), **Miss Essie P. Foundation** (by Herman Fuller's Circus of the Disquieting), **Sack** (by GRU Division "P"), **The Hunters** (by GREEN KING), **Qā'idah-SCP** (by ORIA), **Laodocians** (by the Gate Guardian), **Sysops** (by the Maxwellists), **'dation** (by La Rue Macabre residents), **The Damned** (by the Wanderer's Library)
+> Type: organization
+> Setting: SCP Mythos
+> Motto: "Secure. Contain. Protect."
+> Founded: unknown (most likely some time in the 1800s or earlier)
+> Presence: worldwide
+> Goals: contain all containable anomalies, preserve normalcy, ensure the survival of humanity
+> Reputation: shadowy, secretive
+> Attributes: connected to numerous governments, well funded, operates outside public view
+>  "We die in the dark so that others can live in the light." — A common saying among Foundation personnel
   
 > **Chaosbringer**
 > Type: magic sword
 > Attributes: Chaotic
 > Effect: Causes a random magic effect when it strikes an enemy.
 
+
 ###List
-These are insider knowledge and official tags that are confirmed to work well. Although, with Kayra, a LOT of terms will work. It's a language model after all..
+These are insider knowledge and official tags that are confirmed to work well. Although, with Kayra, a LOT of terms will work. It's a language model after all..  
 
 ***Text*** — Don't use `Name:`, just put the name on its own on the first line. (necessary)
-- ***Type:*** for clarifying what the entry is about. `character`, `spaceship`, `concept, magic`, `historical event`, etc. (necessary)
 - **AKA:**  Also Known As. For nicknames, full names, etc.
-- **Species:** if needed
-- **Gender:** sex
-- **Age:** Always put in noun like - `16 (teenager)`
-- **Appearance:** What the physical traits of the characters are. 
-	- **Height:**/**Weight:**/**Skin:**/**Hair:**/**Eyes:**  Use these if your Appearance is getting too large.
-    - **Clothing:**/**Outfit:**  what they're wearing
+- ***Type:*** For clarifying what the entry is about. `character`, `spaceship`, `concept, magic`, `historical event`, etc. (necessary)
+    - **Setting:** Which franchise is the entry from. Useful for crossover stories.
+- **Status:** Condition or situation, such as `deceased` `ill`, or any other state.
+- **Species:** Type of living things, `Wolfskin` `Ant` `Penguin`
+- **Gender:** `Male` `Female` `?`
+- **Age:** Always put in noun - `16 (teenager)`
+- **Appearance:** General catch-all category for looks.
+	- **Skin:**/**Hair:**/**Eyes:**  Use these if your Appearance is getting too large.
+    - **Height:**/**Weight:** Useful for comparison or when it makes a difference in plot sense.
+    - **Clothing:**/**Outfit:**  What they're wearing
     - **Wears:** for generic categories like 'gamer', 'gothic', etc.
 - **Personality:** Showing behaviors, like `bubbly, outspoken, blunt` `emotionless`
     - **Mind:**  Inward suppressed traits - `indifferent, depressed` `curious`
     - **Mental:**  Personality/Mind written in prose style - `He tends to...`
-- **Abilities:**/**Skills:** Abilities are innate. Skills are learned.
+    - **Fears:** What makes them scared.
+    - **Likes:**/**Dislikes:** What they enjoy/abhor. Can be anything from a person to a hobby.
+    - **Hobbies:** What they like to do as a past time.
+    - **Goals:** If they have some loafty endgame they want to reach. `ensure the safety of Mr. Joe`
+- **Occupation:** Job. Can also have stuff such as `student at X Academy`
+    - **Rank** Their "job" title.
+- **Skills:** Broad category of what they're good at. `improvisation`, `deception`, `debugging` as an example.
+    - **Abilities:** Spells, techniques, etc.
+    - **Class:** For RPG/Fantasy type of story.
+        - **Alignment:** `Good` `Bad` etc.
+        - **Equipment:** More or less treated as character inventory.
+        - **Patron deity:** What god they follow, if any.
 - **Quote:** `"F in the sesh, my gals."` influences both talking style and personality.
     - **Speech:**/Voice: Speech is how someone communicates. Voice is how they sound.
-- **Reputation:** what they're known for
-- **Secret:**  what they're hiding
+- **Reputation:** What they are known for/ known as.
+- **Secret:** Whatever they are hiding/don't want others to openly know.
 - **Family:**/**Allies:**/**Enemies:** can  be used for relationships  like `name (friend)`, `Reen (brother)`, `Rat-Empire (former member)`, etc.
-- **Background:** Where am I from? how did I grow up? What defines me as a person? job also work here
-- **Description:** prose narration
+    - **Affiliation:** Faction allegiance.
+- **Lives:**/**Home:** Lives for current residence, and Home for hometown.
+- **Background:** 
 - **Attributes:** A catchall list, and can be anything from reliable to useless, depending on what you put in it.
 
+***Prose*** — Natural prose description.
+
+‎
  Attributes for ***Settlements/Nations/Geographic Features*** **─**
 **`Queen:`** **`King:`** **`Leader:`** **`People:`** **`Population:`** **`Major exports:`** **`Major imports:`** **`Capital`**  **`Terrain:`** **`Size:`** **`Area:`** **`Location:`** **`Government:`** **`Borders:`** **`Resources:`** **`Religion:`** **`Status:`** **`Allies:`** **`Enemies:`** **`History:`** **`Description:`** *(appearance for non-person)* **`Defenses:`** *(security)* **`Climate:`** *('dry, hot, sunny')* **`Fauna:`** *(animal life)*  **`Features:`** *(notable landmarks and other features)* **`Produce:`** *(trade goods etc.)* **`Warning:`** *(traveler's guide style warnings)* **`Military:`** *(Defenses but more proactive)* **`Provinces:`** *(location on the map - 'Fjordenland (north)')*
  ‎ Attributes for ***Creatures*** **─**
