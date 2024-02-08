@@ -168,6 +168,13 @@ Yes, this is the same author who was part of the Erin Hunter team who wrote *War
 	There is no rating system.
 	This section is expanded upon anons' requests.
 ‎
+**The Deadlands** (2023-) by Skye Melki-Wegner
+Alternate History (xenofiction)
+Advertised as "Wings of Fire (sorry) meets Jurassic Park", this 3 book series (as of writing this) follows an alternate timeline where dinosaurs evolved intelligence, forming their own kingdoms and waging wars. 
+**Hunted**
+**ISBN-10** 1250827698
+**ISBN-13** 978-1250827692
+‎
 **The Dinosaur Mafia Mysteries** (2000-2005) by Eric Garcia
 Detective Mystery
 In this offbeat detective novel series, there are dinosaurs living among us, disguised in human suits. Los Angeles part-time private investigator and full-time velociraptor, Vincent Rubio finds himself investigating what at first appears to be a simple insurance case but quickly finds himself in the middle of a full-on murder mystery complete with turgid affairs and mistaken identity. He only makes it through by the edge of his large talons.

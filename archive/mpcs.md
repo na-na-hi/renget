@@ -871,6 +871,8 @@ Formatted with: Scrip+Boostyle
 
 [SpicyChat](https://spicychat.ai/chat/c7d48548-129d-4897-b0e4-722c110776e4)
 
+[Expressions and Backgroud](https://files.catbox.moe/vs6e1p.zip)
+
 Tavern Card: 
 ![Tavern Card](https://files.catbox.moe/vgauy8.png)
 

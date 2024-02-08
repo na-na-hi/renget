@@ -157,7 +157,7 @@ Read the top right on the first sheet for instruction.
 Global follows the JP schedule reasonably tight, see [the banner list](https://bluearchive.wiki/wiki/Banner_List) for all the upcoming banners. Add 6 months to a banner from JP and that's when it happens in global. 
 
 For the actual guides, use any of the following:
-- [/bag/ guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) [(image version)](https://files.catbox.moe/z7om92.jpg) 
+- [/bag/ guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) [(image version)](https://arch-img.b4k.co/vg/1707393283650.jpg) 
 - [stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
 
 ## Team formation

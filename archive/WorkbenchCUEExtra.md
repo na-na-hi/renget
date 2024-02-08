@@ -39,3 +39,6 @@ There are no links available to the prototype since no one wants to host it, mos
 The so-called "Workbenchanon" - The pasta, edited screenshots/graphics. (I don't know who "Rayuko" is, stop asking, don't call me that.)
 Sonic Team - Original sprites/graphics (Sonic sprites and stuff) - Original models shown in "Extra"
 LakeFeperd (i think) - The ATS sprite shown in an above image.
+https://gamebanana.com/mods/148171 - Used to get a title card of Wacky Workbench in Mania.
+https://www.sonicnotes.info/2017/11/font-sonic-forces.html - Used in editing the screenshot of Sonic Forces
+paint.net - Used for the sprite editing.

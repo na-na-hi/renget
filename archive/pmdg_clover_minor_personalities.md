@@ -22,9 +22,7 @@
 >As such, even though her current form should allow her to do all kinds of things, she cannot perform even the most basic of actions
 >At best, she can float off the ground by pure accident
 >Timid, is afraid of heights and tight spaces
->Does not have a team of her own, tends to hide away in her guild room
->Seems to come from a different place as the rest of the guild. Does not understand their inside jokes
->May one day learn more about what she is
+>After her one and only adventure, quit the guild and now lives in the Whimsicott village
 
 ####Rescue Team Marsh
 #####Squishy

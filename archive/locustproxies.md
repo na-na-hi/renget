@@ -1,4 +1,4 @@
-Endpoints last updated @ 2024-02-08 16:26:37.
+Endpoints last updated @ 2024-02-08 22:49:07.
 
 ## CURRENT PUBLIC PROXY 
 PROXY ENDPOINT | PASSWORD | MODEL

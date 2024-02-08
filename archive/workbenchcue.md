@@ -2,9 +2,13 @@
 
 At some point while I was asleep, a brand new never seen before cancelled version of Sonic CD was leaked and dumped to the Internet. It was of the 1995 PC port, but according to the leaker it was a "special edition" that was meant to come out in 1997, around the same time as the 3D Blast port. The leaker described it as having not much changed outside of a new menu and a few sprite enhancements, but he also said it had fully 3D special stages, which interested me. Unfortunately, by the time I found out, any downloads were scrubbed off the net. Luckily, my friend came in clutch and had sent it straight to me through e-mail just an hour ago, claiming that he "didn't want to play it" as it "gave off a weird aura". I swear that dude was always on some bullshit so I disregarded anything he said and just downloaded the damn game. 
 
-Extracting the .zip to the desktop, I tried opening the program, and to my surprise it opened without issue, considering I was on Windows 10 and didn't bother to set up a virtual machine to try it out. As the SEGA screen played, yeah, it's Sonic CD, the same game I've played to completion way more times than I wanted to. The title screen looked no different, though it was using the original Sonic graphic instead of the one from the released PC port, which was weirdly redrawn slightly for no real reason as no other version of the game used it and it looked off, so I guess I was happy about this change? Pressing Enter, it showed a pretty nice looking menu based off the Visual Mode menu, which made me think. Was the Taxman port's menu based on this, or was it pure coincidence? The buttons obviously weren't the same, being more-or-less just basic fonts. They probably didn't get around to finishing this before it was canned.
+Extracting the .zip to the desktop, I tried opening the program, and to my surprise it opened without issue, considering I was on Windows 10 and didn't bother to set up a virtual machine to try it out. As the SEGA screen played, yeah, it's Sonic CD, the same game I've played to completion way more times than I wanted to. The title screen looked no different, though it was using the original Sonic graphic instead of the one from the released PC port, which was weirdly redrawn slightly for no real reason as no other version of the game used it and it looked off, so I guess I was happy about this change? Pressing Enter, it showed a pretty nice looking main menu, even if it was just the Visual Mode menu. I wonder if they had planned to make the buttons look better than just basic text, since I could hardly tell what I was selecting.
 
-Enough, I thought it was damn well enough time to get to the point. I hit new game and just skipped the intro cinematic. Heading straight into Palmtree Zone 1, I sped through it, noticing the godawful Spin Dash was swapped out for the one from the original games, ensuring I grabbed 50 rings because I wanted to see the special stages. I reached the end, made Sonic head straight into the giant ring, and I was quite pleasantly surprised to find out that the special stages were indeed fully 3D! I was expecting something shitty similar to the 3D Blast port which I had seen a video of a while ago. It's unfortunate that this was never seen by anyone outside of SEGA, at least until now, since they were pretty amazing! Unfortunately I got distracted and ended up failing the stage. Sonic had a unique animation for failing, showing him being pulled into the ground, and..that was it. Pretty fuckin' neat.
+![The main menu.](https://files.catbox.moe/qzatpa.png)
+
+Well, that's enough delay, time to get to the point.. I didn't bother fiddling with the settings since I'm sure the default keybinds would be just fine, and hit new game. I simply skipped the intro because I'd seen it hundreds of times, heading straight into Palmtree Panic. I sped through zone 1, noticing the godawful Spin Dash was gone! The game instead was using the Genesis version of the spin dash, which was a great change. I ensured I grabbed 50 rings because I really needed to see the Special Stage. I reached the end, made Sonic head straight into the giant ring, and braced for disappointment. 
+
+However, I was pleasantly surprised to find out that the special stages were indeed truly 3D! I was expecting something shitty similar to the 3D Blast port which I had seen a video of a while ago. It's unfortunate that this was never seen by anyone outside of SEGA. Unfortunately I ended up getting distracted and failed the stage, which showed Sonic's model being pulled into the ground. The score screen showed up and that was it, pretty neat!
 
 I decided to keep playing through the game, which went pretty swimmingly, collecting a fair amount of the Time Stones through the really good looking special stages, up until Wacky Workbench Zone 1. The level was mostly fine as normal, I just hated the round as a whole. I don't know why, but this level was acting a bit strange, the collisions were a little screwed, I died 2 times as a result but I still managed to get through it, even managing to keep 50 rings to the end, getting the last Time Stone I needed (In Quartz I somehow managed to fuck up both zones). Wacky Workbench Zone 1 was unfortunately the last normal zone I ended up playing.
 
@@ -17,7 +21,9 @@ For a minute, I was sitting there, just trying to comprehend what the hell just 
 ![Image](https://files.catbox.moe/3jt70d.png)
 Dude's eyes were black with purple pupils, his fur was purple, skin yellow, gloves were a light blue color, it was just like what I saw before the game crashed, so I assumed he had yellow shoes too. I'm sure a normal person would probably delete the game at this point but I was thinking "Finally, something interesting!" so I pressed on.
 
-The menu had no options other than to continue, which now said "Play" which considering there were no other options, yeah that sounds about right. So I pressed enter. 
+![The new main menu.](https://files.catbox.moe/cue0p6.png)
+
+The menu had no options other than to load the game, which now simply said "Play" which seemed about right, so I simply pressed Enter.
 
 ![Image](https://files.catbox.moe/q43wwj.png)
 The game restarted at Wacky Workbench, with the title card's Zone number instead replaced with an infinity symbol. I wouldn't quite understand this until later. Unfortunately, it seems Sonic was no more, instead I was now playing as the purple doppelganger of him who was his killer, and he had some pretty interesting quirks. He doesn't jump as high or run as fast, and roughly every 5 seconds he would turn to the camera and yell out a random insult while his eyes glowed a pulsating red, which was pretty loud coming through my headphones despite how low my volume was now set. You just know that this is going to be pretty fucking irritating.
@@ -37,7 +43,7 @@ and
 
 It was no good. Workbench had somehow permeated deep into my computer and every single copy of Sonic CD I could locate was just permanently bricked. I started hyperventilating as I couldn't even fathom just what the fuck was even going on at this point, but I quickly calmed down and decided to just play a different game. Installing and opening Sonic Mania, and opening my completed savefile to Green Hill, just wanting to do literally anything else but play that level again...
 
-"SONIC * MANIA - WACKY WORKBENCH ZONE - ACT ∞"
+![FUCK](https://files.catbox.moe/7bpsjv.png)
 
 No
 No no no no no no no no, no no no no no no
@@ -55,10 +61,11 @@ I screamed, like, at the top of my lungs as I was damn sure I was going mad. I f
 
 No. All the levels on the world map just said that they were "Wacky Workbench". Even the modern ones. 3D versions of Wacky Workbench that never existed, but here I sit seeing evidence of them before my very eyes. Every game. Every  FUCKING GAME god  god why   why. oh fuck this I'm going to bed I can't deal with this, maybe I'll feel better in the morning.
 
+!!! note A time period of around 6 hours passes.
 
+Do I even need to say what my dreams were? It was just that Round over and over, I woke up multiple times during the night only to drift back off, that same dream continuing over and over. When I turned on my computer, it just went straight to Wacky Workbench so I unplugged it, but it didn't stop. I tried going outside, but when I looked through the front door all I could see was Wacky Workbench. I noticed a gun on the living room table that belonged to my father, and without hesitation I pressed it to my head and pulled the trigger. 
 
-
-Do I even need to say what my dreams were? It was just that Round over and over, I woke up multiple times during the night only to drift back off, that same dream continuing over and over. When I turned on my computer, it just went straight to Wacky Workbench so I unplugged it, but it didn't stop. I tried going outside, but when I looked through the front door all I could see was Wacky Workbench. I noticed a gun on the living room table that belonged to my father, and without hesitation I pressed it to my head and pulled the trigger. It just clicked, nothing came out. I checked the magazine and it was just pull of pictures of Wacky Workbench. I should probably feel lucky that it didn't work, but I didn't feel lucky.
+It just clicked, and nothing came out. I'm still here. Fuck. I checked the magazine and it was just pull of pictures of Wacky Workbench. I should probably feel lucky that it didn't work, but in this situation, why would I feel that way?
 
 I slumped down onto the floor and sobbed as all I could hear was the Present music for Wacky Workbench.
 

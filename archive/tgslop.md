@@ -17,12 +17,15 @@ In general, artists have to have a certain high volume on the internet to affect
 Yeah, they don't unfortunately. Maybe in a future update. Until then you need to find positive ways of saying the same thing. And yes, Bing will try to tell you things like using double hyphens before a prompt will eliminate it, but it's lying. 
 
 ## Fantasy Styles
-
+- midcentury (50s, 60s, 70s) pulp
+- early 1900s Victorian fairy painting (e.g. Richard Dadd, John Anster Fitzgerald)
 - 1980s high fantasy gouache painting by the Brothers Hildebrandt
 - 1970s fantasy art, oil painting
-- Dungeons and Dragons, Conan the Barbarian style, comic book
+- Dungeons and Dragons
+	- plus era (e.g. 1st Edition, AD&D, 3rd Edition, etc.)
+- Sword and Sorcery pulp book cover (e.g. Conan the Barbarian)
 - Faded oil painting, style of a fantasy book cover circa 1985
-- dark fantasy art, acrylic painting 
+- dark fantasy art, acrylic painting in the style of Frank Frazetta (+ tenebrism for an extra dark look)
 - atmospheric, mike mignola art style, mild colors, high quality dark fantasy painting with thick black outlines, low color saturation, line threading, and sharp edges
 
 ## /tg/ prompts
@@ -45,18 +48,29 @@ Tarot cards
 >stylized <arcana name\> tarot card "<number\>" written on the top, "<arcana name\>" is written, <arcana name\> tarot card, colored, <description\>.
 
 ## Multimedia Styles
-
+For all of these, specifying the date/era (e.g. "circa {year}") is useful
+ 
 - anime (See also "Eastern Artists" below)
 	- 1980's anime ova style dark fantasy line art
 	- Japanese anime impressionist, detailed and intricate illustration, soft watercolors
 	- a grainy cel-shaded highly-detailed reference photo of <x\>, 90's anime
 	- chibi anime art style
 - video games
-	- <game engine\> screenshot
+	- {game engine} {year} screenshot
+	- pixel art
+	- 1990s N64 low poly sprite
 	- hand drawn, watercolor, pen, fantasy, illustrated by Akihiko Yoshida and Junko Kawano, anime, video game concept art, colored
 	- PC Engine adventure game on a CRT
 	- concept art for Darkest Dungeon, digital color drawing in the style of Mike Mignola, dark fantasy ambiance, eyes in shadow, \[character description], \[background description (optional)]
 	- heroes of might and magic 1 low resolution retro DOS screenshot pixel art
+- film 
+	- Kodachrome (or other film type)
+	- Still from a low-quality grainy VHS video. 1970's fantasy movie with interlacing, colour aberration, scanlines and glitches. Seen on an old CRT screen.
+	- still from 80s movie directed by paul verhoeven, faded, grainy.
+- other
+	- {decade} movie (poster)
+	- album cover (genre or decade) (also differentiates between CDs, cassettes, LPs)
+	- book cover (+ faded, damaged, etc)
 
 ## Historical Styles
 
@@ -67,6 +81,16 @@ Tarot cards
 - renaissance
 - romantic / romanticism
 	- pre-raphaelite painting in the style of john william waterhouse
+- stained glass
+	- realistic: stained glass art on arched window. mosaic style. surrounding stained glass window is {material} wall
+	- base design: abstract expressionist stain glassed window, vector, minimalist, high contrast geometric shapes, vibrant colors, fantasy cartoon
+- print making
+	- intaglio
+	- engraving (+ hatching or cross-hatching)
+	- wood block prints (e.g. traditional Japanese ukiyo-e prints)
+	- mezzotint (creates a more blended, "sfumato" look compared to typical hatching or stippling)
+	- copperplate engraving, kupferstich, slightly tarnished silver inlay, shining hammered copper and gold, turquoise verdigris copper patina
+- embroidery
 - dada / dadaist
 - surrealist
 - abstract
@@ -78,19 +102,14 @@ Tarot cards
 - oil painting
 - watercolour
 - acrylic painting
-- woodcut
+- printing
+	- woodcut / woodblock / copperplate
 - etching
 - halftone (dotted effects used in comics to save on printing costs)
 - embroidery
 - black&white ink
-- <decade\> movie (poster)
-- album cover (genre or decade) (also differentiates between CDs, cassettes, LPs)
 - illuminated manuscript
-- pulp
-- pixel art
-- circa <year\>
-- Kodachrome (or other film type)
-- low quality film
+
  
 ## Perspectives
 

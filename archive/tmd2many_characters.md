@@ -71,8 +71,10 @@ Name | Origin | Pokémon | Occupation | Affiliation
 [Rose Gold](https://rentry.org/tmd2nobles_rosegold) | Native | Absol | Nobility | Rantrum Domini
 [Howl Cloaked in Tundra](https://rentry.co/tmd2character_howl_cloaked_in_tundra) | Native | Furfrou | Nobility | Rantrum Domini
 [Lilac](https://rentry.co/tmd2character_lilac) | Native | Delibird | Merchant | Unaffiliated
+[Powder Painting](https://rentry.org/tmd2many_characters_powderp) | Native | Chespin | Positive Dye Painter | Bright Band Gang
 [Roaring, Burning Darkness](https://rentry.co/tmd2character_RoaringBurningDarkness) | Native | Roaring Moon | Bishop | Ho'oha Priest
 [Roswen Flame Eater](https://rentry.co/roswen) | Native | Walrein | Clan Elder | Clan Cerussite
+[Silver, Copper, Coal](https://rentry.org/tmd2many_characters_SCC) | Native | Meowth(s) | Unemployed | Unaffiliated
 [Sharp Current](https://rentry.co/Sharpcurrent) | Native | Inteleon | Baroness | House Cloudburst
 [Light](https://rentry.co/tmd2many_characters_light) (Example) | Native | Raboot | Wannabe-Peacekeeper | "Justice" 
 [Shinra](https://rentry.co/tmd2many_characters_shinra) (Example) | Native | Scizor | Guild Master | Globetrotter's Guild

@@ -640,7 +640,7 @@ It's the Season of Giving for one optimistic human and their less-optimistic fri
 
 #### *[Whispers of the Vale [Human x Vaal Hazak]](https://rentry.org/8mt2peru)*
 
-An effluvium-proof mask has unusual effects on a certain hunter.
+An effluvium-proof mask has unusual effects on a certain hunter. Ongoing.
 
 ---
 

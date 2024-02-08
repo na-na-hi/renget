@@ -2,6 +2,8 @@
 
 Beast dipped his sponge into back into the bucket and continued to scrub the floor of his kitchen.
 
+->![does munchlax have knees? hell if i know, n'wah!](https://files.catbox.moe/higl8e.png)<-
+
 In the past two weeks he was able to work that mess of a room into a functional kitchen, and the guildmaster was able to supply him with a second hand set of pots, pans, and utensils. They were a bit beat down, but he was able to cook with them, which was all that mattered to him currently. 
 
 For the first time in a very long time, he was back to cooking by himself, with no rookie cooks that would tolerate his screaming. He had to cook for a large group of rather hungry people, so his meals usually consisted of things like stews, pasta, or hotcakes for the ones that demanded seconds. He missed putting delicate love into each plate.

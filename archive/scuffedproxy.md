@@ -1,4 +1,4 @@
-# Scuffed Proxy
+-> ![Scuffed Proxy](https://i.imgur.com/Q0hnUfU.png) <-
 
 # current links
 
@@ -11,6 +11,10 @@ basilisk
 
 ##### [instructions](https://ip-daughter-hazards-playback.trycloudflare.com)
 ##### [ST preset](https://ip-daughter-hazards-playback.trycloudflare.com/preset.json)
+
+
+> why do I keep getting backend/general errors?
+sometimes the account is banned and it will not work until I manually fix it. it is worse on workdays
 
 ##### contact
 - hask1911@proton.me
