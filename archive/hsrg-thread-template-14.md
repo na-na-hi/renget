@@ -15,13 +15,17 @@ https://www.youtube.com/watch?v=2iRam7fnPrg
 https://www.youtube.com/watch?v=U7W8QR9fsFw
 https://www.youtube.com/watch?v=KdbnaBhJs6Y
 
-\>Black Swan Trailer: "Lullaby" | Honkai: Star Rail
+\>Black Swan Trailer: "Lullaby" 
 https://www.youtube.com/watch?v=oz3AOWxq8KY
 https://www.youtube.com/watch?v=8qk2IOjmrsY
 
 \>Myriad Celestia Trailer — "A Revisiting of Past Dreams" 
 https://www.youtube.com/watch?v=rPAw4l2rUr8
 https://www.youtube.com/watch?v=rV-EzvxqSFw
+
+\>Animated Short: Harmony Greets the New Year 
+https://www.youtube.com/watch?v=QjztVv7B0N8
+https://www.youtube.com/watch?v=WFXxf6xneZg
 
 \>Current Character Banners: (Black Swan, Imbibitor Lunae + Misha, Tingyun, Guinaifen) - https://www.hoyolab.com/article/24943079
 
@@ -32,10 +36,8 @@ https://www.youtube.com/watch?v=rV-EzvxqSFw
 \>Aventurine (5\* Imaginary Preservation) - https://www.hoyolab.com/article/24561470
 \>Gallagher (4\* Fire Abundance) - https://www.hoyolab.com/article/24578989
 
-\>Web Event:  "Festival Invitation" - https://act.hoyoverse.com/sr/event/e20240206relow-lxxr53/index.html
-
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
-6B976L2STURF (NEW)
+6B976L2STURF
 STARRAILGIFT
 \>LIVESTREAM CODES VALID UNTIL FEB. 18
 ZA9674JSAUPF

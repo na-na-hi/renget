@@ -3,8 +3,8 @@
 (Format partially shameseelely copied from one of /hig/'s 400 rentries)
 
 Click the chibi to jump to frame
-[![karen](https://static.miraheze.org/pgrwiki/b/bd/Dialogue-Scire-Chibi-Icon.png)](https://rentry.org/o96xmx#karenina-scire) [![Bianca](https://static.miraheze.org/pgrwiki/f/f5/Dialogue-Stigmata-Chibi-Icon.png)](https://rentry.org/o96xmx#bianca-stigmata) [![Lee](https://static.miraheze.org/pgrwiki/e/ee/Dialogue-Hyperreal-Chibi-Icon.png)](https://rentry.org/o96xmx#lee-hyperreal) [![Ayla](https://static.miraheze.org/pgrwiki/1/1e/Dialogue-Kaleido-Chibi-Icon.png)](https://rentry.org/o96xmx#ayla-kaleido) [![Lucia](https://static.miraheze.org/pgrwiki/8/83/Dialogue-CrimsonWeave-Chibi-Icon.png)](https://rentry.org/o96xmx#lucia-crimson-weave) [![No.21](https://static.miraheze.org/pgrwiki/5/59/Dialogue-FeralScent-Chibi-Icon.png)](https://rentry.org/o96xmx#no21-feral-scent) [![Alisa](https://static.miraheze.org/pgrwiki/f/f2/Dialogue-Echo-Chibi-Icon.png)](https://rentry.org/o96xmx#alisa-echo) [![Lamia](https://static.miraheze.org/pgrwiki/5/54/Dialogue-LostLullaby-Chibi-Icon.png)](https://rentry.org/o96xmx#lamia-lost-lullaby) [![Watanabe](https://static.miraheze.org/pgrwiki/2/23/Dialogue-Epitaph-Chibi-Icon.png)](https://rentry.org/o96xmx#watanabe-epitaph)
-[![Qu](https://i.imgur.com/ZQBoiUW.png)](https://rentry.org/o96xmx#qu-shukra)
+[![karen](https://static.miraheze.org/pgrwiki/b/bd/Dialogue-Scire-Chibi-Icon.png)](https://rentry.org/o96xmx#karenina-scire) [![Bianca](https://static.miraheze.org/pgrwiki/f/f5/Dialogue-Stigmata-Chibi-Icon.png)](https://rentry.org/o96xmx#bianca-stigmata) [![Lee](https://static.miraheze.org/pgrwiki/e/ee/Dialogue-Hyperreal-Chibi-Icon.png)](https://rentry.org/o96xmx#lee-hyperreal) [![Ayla](https://static.miraheze.org/pgrwiki/1/1e/Dialogue-Kaleido-Chibi-Icon.png)](https://rentry.org/o96xmx#ayla-kaleido) [![Lucia](https://static.miraheze.org/pgrwiki/8/83/Dialogue-CrimsonWeave-Chibi-Icon.png)](https://rentry.org/o96xmx#lucia-crimson-weave) [![No.21](https://static.miraheze.org/pgrwiki/5/59/Dialogue-FeralScent-Chibi-Icon.png)](https://rentry.org/o96xmx#no21-feral-scent) [![Alisa](https://static.miraheze.org/pgrwiki/f/f2/Dialogue-Echo-Chibi-Icon.png)](https://rentry.org/o96xmx#alisa-echo) [![Lamia](https://static.miraheze.org/pgrwiki/5/54/Dialogue-LostLullaby-Chibi-Icon.png)](https://rentry.org/o96xmx#lamia-lost-lullaby) [![Watanabe](https://static.miraheze.org/pgrwiki/2/23/Dialogue-Epitaph-Chibi-Icon.png)](https://rentry.org/o96xmx#watanabe-epitaph) [![Qu](https://i.imgur.com/YjhF27I.png)](https://rentry.org/o96xmx#qu-shukra)
+[![Luna](https://i.imgur.com/Maq6D5p.png)](https://rentry.org/o96xmx#luna-oblivion)
 
 
 Summarized for (You) into:
@@ -104,7 +104,7 @@ Breakpoint | Tl;dr | Type - Value | Playstyle change? | Role change? | Priority?
 :----: | ---- | ---- | ---- | ---- | :----:
 S5 | Triggers QTEs on charged dodge slash | QoL - High | No | No | High
 SS | Doubles Oodachi slam gauge / Increases gauge gain on 3-Pings and charged dodge slash / Matrix when switching to Oodachi | Damage > QoL - Very High | No | No | High
-SS3 | Signal Orb and charged dodge slash damage increased / First charged dodge slash when swapping in gives more energy | Damage - High | Yes - Allows for permanent field time by increasing damage on areas that needed it | No | Very High if not pulling No.21 and not having Vera: Garnet or planning to get her. Low otherwise
+SS3 | Signal Orb and charged dodge slash damage increased / First charged dodge slash when swapping in gives more energy | Damage - High | Yes - Allows for permanent field time by increasing damage on areas that needed it | No | High if not pulling No.21 and not having Vera: Garnet or planning to get her. Low otherwise
 SSS | 3-Ping damage increase in Oodachi mode / Odachi Signature damage increase / Oodachi slam damage increased° / Swordwaves buffed (dmg and energy gain) on entry-swap | Damage - Very High | No - but you change your memory resonances to Signature levels | No | Moderate
 SSS3 | Odachi slam and charged dodge slash damage increased | Damage - Moderate | No | No | Poor Opportunity Cost
 SSS6 | Odachi slam and 3-Ping damage increased° | Damage - High | No | No | Poor Opportunity Cost
@@ -293,3 +293,16 @@ SSS+ | Ult 2 damage increased | Damage - high | No | No | Poor Opportunity Cost
 
 !!! note Notes: 
 °Because of the previous effect you'll only need 1 3-ping to get all 4 stacks
+
+#->Luna: Oblivion<-
+->![Sex, Sex? Yeah Sex, Yep Sex, Sex is good](https://i.imgur.com/71GPJsr.png)<-
+Cooming soon
+
+Gorilla!
+
+- Ult has 2 presses, going into ult form and ult finish
+- Can go into ult form in 2 different ways (tap ult and hold ult)
+- 
+
+!!! info Normal Playstyle:
+> 3-Ping/Hold Atk until core passive gauge is full> Use ult when stacks are maxed >  > Weave 3-Ping and Basic Atk until 3 Feathers > Hold Atk for Combo 2 > Ult > 3 Ping on stairs > Repeat

@@ -4,13 +4,13 @@
 
 ## proxy url
 ```
-https://subscriber-shadow-pest-associates.trycloudflare.com/v1
+https://ip-daughter-hazards-playback.trycloudflare.com/v1
 ```
 **password**
 basilisk
 
-##### [instructions](https://subscriber-shadow-pest-associates.trycloudflare.com)
-##### [ST preset](https://subscriber-shadow-pest-associates.trycloudflare.com/preset.json)
+##### [instructions](https://ip-daughter-hazards-playback.trycloudflare.com)
+##### [ST preset](https://ip-daughter-hazards-playback.trycloudflare.com/preset.json)
 
 ##### contact
 - hask1911@proton.me

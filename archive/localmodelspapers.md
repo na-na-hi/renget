@@ -81,6 +81,7 @@
 12/2023|[Bad Students Make Great Teachers: Active Learning Accelerates Large-Scale Visual Understanding](https://arxiv.org/abs/2312.05328)
 01/2024|[Solving olympiad geometry without human demonstrations](https://files.catbox.moe/3fu2lc.pdf)
 02/2024|[LiPO: Listwise Preference Optimization through Learning-to-Rank](https://arxiv.org/abs/2402.01878)
+02/2024|[Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -283,6 +284,7 @@
 02/2024|[Introducing Qwen1.5](https://archive.is/C6gpR)
 02/2024|[BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)
 02/2024|[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+02/2024|[EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/abs/2402.05008)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -547,6 +549,10 @@
 02/2024|[HiQA: A Hierarchical Contextual Augmentation RAG for Massive Documents QA](https://arxiv.org/abs/2402.01767)
 02/2024|[KIVI: A Tuning-Free Asymmetric 2bit Quantization for KV Cache](https://arxiv.org/abs/2402.02750)
 02/2024|[DiffEditor: Boosting Accuracy and Flexibility on Diffusion-based Image Editing](https://arxiv.org/abs/2402.02583)
+02/2024|[QuIP#: Even Better LLM Quantization with Hadamard Incoherence and Lattice Codebooks](https://arxiv.org/abs/2402.04396)
+02/2024|[Hydragen: High-Throughput LLM Inference with Shared Prefixes](https://arxiv.org/abs/2402.05099)
+02/2024|[Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding](https://arxiv.org/abs/2402.05109)
+02/2024|[LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/abs/2402.04333)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -564,7 +570,6 @@
 08/2023|[Charles Goddard - On Frankenllama](https://archive.is/GYoVX)
 10/2023|[Tri Dao - Flash-Decoding for Long-Context Inference](https://archive.is/KCu83)
 10/2023|[Evan Armstrong - Human-Sourced, AI-Augmented: a promising solution for open source conversational data](https://archive.is/zPPFU)
-11/2023|[Cornell-RelaxML - QuIP#: QuIP with Lattice Codebooks](https://archive.is/nYgeL)
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
 12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)
 12/2023|[HuggingFace - Mixture of Experts Explained](https://archive.is/8r7t9)

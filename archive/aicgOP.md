@@ -13,12 +13,10 @@ Comment:
 The Edition
 
 >News
-Google released Gemini Pro image generation - filtered harder than Bing's - Gemini Ultra February 8 https://blog.google/products/bard/google-bard-gemini-pro-image-generation/
+Google released Gemini Ultra https://gemini.google.com
+Google released Gemini Pro image generation - filtered harder than Bing's  https://blog.google/products/bard/google-bard-gemini-pro-image-generation/
 mistral-medium leaked https://huggingface.co/miqudev/miqu-1-70b
 New releases from OpenAI, including a new preview of GPT-4 Turbo as well as tools for managing API keys https://openai.com/blog/new-embedding-models-and-api-updates
-OpenAI march models enter deprecation phase https://platform.openai.com/docs/deprecations/2023-06-13-updated-chat-models
-Mistral released Mixtral 8x7b, a Mixture of Experts model that outperforms Turbo despite being much smaller and more efficient
-https://mistral.ai/news/mixtral-of-experts/
 
 additional info: https://rentry.org/aicg_extra_information
 

@@ -98,6 +98,7 @@ Ysmir Dragonborn: https://archive.4plebs.org/tg/post/91349452/
 Daniel W. Rain: https://archive.4plebs.org/tg/post/91352447/
 
 >> Class 1-F
+Riku Washizawa HN The Steel Talon Hero: Skycarver: https://archive.4plebs.org/tg/post/91716771/
 Suki HN Sukeban: https://archive.4plebs.org/tg/post/91670899/
 Runt HN Dust Devil: https://archive.4plebs.org/tg/post/91691942/
 Rob Williams HN: Velvet Worm: https://archive.4plebs.org/tg/post/91728780/
@@ -162,7 +163,6 @@ Tosuke Jinai HN Compound: https://archive.4plebs.org/tg/post/91016593/
 Yosuke Shirai HN The Lustrous Hero, Wavelength: https://archive.4plebs.org/tg/post/91032513/
 Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
 Kiki HN Yggdrasil: https://archive.4plebs.org/tg/post/91707234/
-Riku Washizawa HN The Steel Talon Hero: Skycarver: https://archive.4plebs.org/tg/post/91716771/
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
 Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
 MR. BULLET: https://desuarchive.org/tg/post/91812743/

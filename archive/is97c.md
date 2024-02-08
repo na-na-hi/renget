@@ -73,8 +73,7 @@ SSS  | 180 | 6 | 5
 SSS+|  0  | 0 | 6
 
 ####Signature weapons
-Not all signature weapons are made the same, some will make a character easier to play or change the way you use them compared to not having it, but that's a topic that's covered by [other resources out there (not in detail, just what to pull for which is kinda cringe)
-](https://docs.google.com/spreadsheets/d/1RBR8U-UIxWaZA5uXec065M9OafdKmorFOoGmjKp49R0/htmlview)
+Not all signature weapons are made the same, some will make a character easier to play or change the way you use them compared to not having it, but that's a topic that's covered by [other resources out there](https://docs.google.com/spreadsheets/d/1RBR8U-UIxWaZA5uXec065M9OafdKmorFOoGmjKp49R0/htmlview)
 
 We have Resonance, which caps at 3 but the good part is that it doesn't have to be the same 6*, so you can use others, and resonance selectors are available to non spenders.
 
@@ -247,8 +246,7 @@ Aaaall of that shit up there summed up in case you still don't have an opinion o
 New character every single fucking time, don't miss out on design-creep.
 
 >I have leftover rolls how do I spend them?
-If you want power then breakpoints are: S>SS>Signature or Cub>The one you didn't get first > SS3 > *
-Sig and Cub order depends on who you're pulling shit for so you have to READ
+If you want power then breakpoints are: S>SS>Signature or Cub>The one you didn't get first > SS3 > * (Sig and Cub order depends on who you're pulling shit for so you have to READ)
 There's always gacha skins to save for if you're into getting the 20th Liv skin.
 
 >What about weapon resos?
@@ -259,6 +257,6 @@ At least you can switch them around too.
 Go fucking read the document, if you still want [THING] then remember that your account is yours to brick, just don't bitch about it if/when you do.
 
 >Do I pull on the fate bann-
-DON'T, fuck the fateschizo.
+DON'T, fuck the fateschizos.
 
 #####As a final recommendation, if for any reason you want to spend money at some point, remember to spend only what you're comfortable with. Don't fall into FOMO, stay clear of the rabbit hole. This is a 5 minute and done game most of the time.

@@ -89,7 +89,7 @@
 [Fabric ComfyUI](https://github.com/ssitu/ComfyUI_fabric)|Uses iterative feedback to personalize diffusion outputs
 [DiffEditor](https://github.com/MC-E/DragonDiffusion)|Tuning-free method for fine-grained image editing using score-based diffusion
 [VMamba](https://github.com/MzeroMiko/VMamba)|SSM architecture to enable efficient memory usage for high resolution vision tasks
-[Set-of-Mark](https://github.com/roboflow/set-of-mark)|Suite of segmentation models used in a toolbox for use with set-of-mark prompting
+[EfficientViT-SAM](https://github.com/mit-han-lab/efficientvit)|Faster and more accurate version of Segment Anything Model via EfficientViT
 [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
 [LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution 
