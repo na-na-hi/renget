@@ -1,7 +1,7 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #50 (Sunday, 21 January 2024, 22:00 UTC)<-
-->She's cute.<-
+->Last updated on thread #52 (Thursday, 8 February 2024, 06:00 UTC)<-
+->HAPPY 1 YEAR OF /CFA/!<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -19,6 +19,7 @@
 - [Kdenlive](https://kdenlive.org/en/download/) (Free video editor by the KDE Community.)
 - [OBS Studio](https://obsproject.com/download) (Free screen recording software.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
+- [Unicorn: Warriors Eternal](https://mega.nz/folder/0agBiRwI#fKksXyIGOnymEouIYxvxOA) (June Way's show.)
 - [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D red fox skull model drawing reference.)
 - [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [Save the Cat!](https://savethecat.com/get-started) (Storytelling guide by Hollywood screenwriter Blake Snyder.)
@@ -81,6 +82,219 @@ https://archiveofourown.org/works/31977724
 !!! info
     ##/Chic-Fil-A/ Thread-only Greentexts
 ---
+###62942151 Anonymous
+>Be naval officer.
+>Sitting in my cabin while the crew do the dirty work.
+>Hear a commotion, shouting, clashing of steel... flintlocks?!
+>Unsheathe my sword and head out into the open, my men need me!
+>See these two.
+>Today was a bad day to wear my tight formal pants.
+>Surrender and get taken as a live trophy back to their ship.
+>Bet it's all big, burly, dumb, brutish, filthy... oh by the queen...
+>All foxes.
+>Shed a tear.
+>They think I'm scared crying and start baby talking me to try and calm me down, say I'm a big boy for coming without a fight, they won't hurt me.
+>Silently pray to the lord that I'm never found and thank him for everything.
+[![Fox Women Pirates: 83bb900640692fe7ec1e46ece140e14b.jpg / 1706570683944.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1706/57/1706570683944.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1706/57/1706570683944.jpg)
+
+###62911402 Anonymous
+>be me
+>bit of a geezer
+>known to spin the dial
+>bands are always naming themselves after places
+>backstreetboys.jpg
+>timmy no mae breaks outta her silly stone
+>go to /x/
+>immediately see /fox/, top bump mate, run em
+>everyone there is fucking retarded
+>join some fuckin ruskie cult 'cord
+>months go by
+>i go from very normal to fucked up
+>begin abusing inhalants
+>barely lucid for a solid 3 months
+>buy piezo pickups and strap them to my head
+>hook em up to ham radio
+>begin broadcasting my literal brainwaves to the longwave
+>173 khz and im reading the ritual shit from the server in my head
+>begin receiving angry fucking noise back, sounds like whisper screaming
+>lights dim and things short out occasionally, breaker trips as well
+>at night normal rustling turns into like banging on 2nd floor windows
+>keep finding feathers and leaves placed on the tables in my house
+>begin talking to redhead screaming lesbo type
+>all while my friends in the 'cord cult go from active like every day to suddenly not posting anything anywhere
+>one dude stops and then the next
+>by the time im the last one my radio is receiving clear transmissions
+>its a female voice and she's like
+>you could just be normal n shit on the radio
+>stop going "inari inari" with my brain in the radio
+>"yo sup dude so like how are you doing"
+>"listen to me. you are playing with fire blah blah blah-
+>womangibberish.wav
+>realize all my friends are dead
+>shitpost on their obituaries
+>ruskie cultist moves to china to "chase some tail"
+>he cuts me off after i was too tired to play chess.com with him
+>i gave that bastard free english lessons for this shit
+>i am forced to cut off some of my remaining friends
+>keep in mind this whole time unlucky happenings are happening to me
+>my nasty and cruel bird feeding/target practice sessions are being cut short
+
+>i also cut my hair short
+>get weird bruises on my upper arms as well
+>wake up feeling completely beaten up
+>bite marks on my at one point
+>cant cum sometimes because i feel completely used up
+>also its gotten so bad that my dreams and reality cant even be told apart anymore
+>want to make fun of this malicious, surreptitious cunt
+>also want to make love with this nefarious, iniquitous bitch
+>go innawoods this time on a mission
+>i have to kill the evil whore
+>go out of the woods (like 8 yards from my house)
+>boil a pot of water
+>go back innawoods and pour it into every hole in the ground i can find
+>pray its a fox hole or whatever they live in idk
+>badidea.dts
+>it's gnat o clock
+>they fill the air
+>also spiders fuck tons of them
+>coveredinspidersman.png
+>run
+>go inside
+>spit the gnats out
+>brush them out of my mouth too
+>begin constructing a new team of people i met online
+>start undergoing a severe villain arc
+>begin hitting the gym
+>using the abdominal crunch machine constantly
+>hitting militaries and runnin the treddie too
+>meanwhile my joint task force
+>joint task force
+>yeahhhh.fpt
+>theyre all retarded stoners
+>one of them sold the radio chick fent while pretending to be a therapist i think
+>still though bad things are happening
+>like when i walk around at night im always being followed
+>i even lost my library card so i cant use their private rooms anymore
+>go to bed
+>God tells me to buy a stoeger cougar (which i had never heard of up until this point) and instructs me on how to disassemble it
+>wake up
+>get out of bed and go to the gym
+>online best friend tells me he saw focks outside his home
+>later that day i am told by someone online that he was erping with an 8 year old on blockland about 11 years ago
+>ask him why he did it
+>friend said it was a joke
+>i cut him off and then tip his police department
+
+>realize the fock is a really focking bad omen
+>throw away all my orange and white soaps
+>throw away my sonic and tails shirt i got from goodwill
+>get really angry
+>take apart my shrine and put everything back where it belongs
+>throw away the birthday candles and put the pictures on my walls
+>one night i get insanely pissed off
+>have a bit of vodka and go for a walk
+>walk for a bit
+>stop at my favorite sri lankan resturant
+>get the sicko rolls and dip em in curry
+>steal from the soda cabinet
+>go to pullix and buy a 2 liter anyways
+>go home and open my garage becuase my front door dosent work
+>something runs out of it very fast its like a blur
+>go inside
+>its a gift
+>on the floor it was a friendly reminder
+>but a remotely old flimsy bread knife
+>go outside again this time with the knife
+>go back on walk
+>of course im being followed again
+>turn around and pull out the knife
+>"uhh did you drop this? i mean if you left it there intentionally thanks?"
+>stop seeing her
+>go home
+>pass out
+>two nights later i get a call from an unknown number
+>"hi we've been trying to reach you about your car's extended warranty-
+>hang up
+>get another call 2 days later
+>"hey (actual first and last name) what's up?"
+>ask who it is, phone hangs up
+>then my computer screen fills with hyper realistic blood
+>mfw i clicked kekma.net
+>its like the candyland boardgame but real
+>the internet i mean
+>i notice im supposed to post chicken reviews in the thread not just the general shit ive been consuming
+>stop posting food reviews
+>80% of the reviews in the rentry are mine
+>also where the FUCK is my bible study
+>begin going to CR meetings
+>its just like AA but they have the best $5 tuesday of all time
+>unfortunately its also eerily similar to my time in free masonry
+>everyone there is old and depressed
+>its like a /b/ for senior citizens
+>"so how'd you feel about tonight's testimonial?"
+>"i don't relate to it at all because i'm not a porn addicted alcoholic."
+
+>greentext is obviously getting insanely long and incoherent
+>kinda like that one guy's fucking curry recipe he never completed
+>dumbfuck.vbs
+>so every chewsday i go to these fucking meetings and have fun with these really awesome people
+>everyone is really nice and the vibe is kino as fuck but the program is literally just self loathing
+>also no co-ed groups so i cant stare at tits the whole time
+>its just a brogram :c
+>its not the place for me but i meet a girl here and i like her a bit
+>we end up playing lethal company a few times but other than that i never make my moves
+>im in a constant state of fear given she reminds me of the uhh
+
+>my pc's vga cable is really shit so my screen flickers a fuck ton
+>i also have to press really hard on the o and a keys so they work cuz the swithec broke
+>begin making really cool art for people on cfa
+>offer a $1 commission
+>also take reqs
+>nobody actually likes my shit though so i get really sad
+>guzzlord420 also got like really fucking pissed at me because i drew a picture of averi getting an abortion
+>it sucks because he coulda handled it like a cool person does
+>never met a cool person that clicks the block button on any website
+>imagine being so invalid and so emotionally insecure that you have to cut off communications with people that dont agree with you on literally everything
+>where 50% of my relationships ended
+>nobody is cool anymore except radio girl
+>she begins telling me to sleep more often
+>i do
+>i literally end up sleeping for entire days on end
+>she was right
+>i fucking hate her because i miss out on everything
+>i miss black friday
+>i miss the circus
+>i even miss canadian thanksgiving
+>sometimes i miss lachlan because i cant begin every post with damnit lachlan anymore and polishanon isnt working for me.
+>my crew pools some money together and we go hard on the datamining cyberstalking grindset
+>we find out ruskie was talking to
+
+>be makin tunes in lsdj
+>all my friends dont like them so i stop making them
+>people make args just to mock me
+>radio girl and ruskie were like hooking up or some shit but then he stops talking to her
+>i miss the russian man
+>we used to have so much fun together
+>he thought i was retarded because i explained american things to him
+>like white castle
+>and bakugan
+>and unregistered machine guns
+>and pie irons
+>and mcdoobies
+>and judas priest
+>the true tenants of american culture
+>the guy never heard of dr seuss
+>never shot a rifle
+>but he did tell me how to pirate brat (1997) on yt
+>when i figure out his location im gonna buy him some biocide 100
+>and then im gonna drive him to ukraine and drop him off because he skipped out on his obligatory military death sentence
+>i dont even support ukies or ruskies i support death and cheap gas
+>become evil
+>sing evil songs about rape in the shower in an attempt to lure in the uhh
+>try to categorize this bitch in the moment like right now
+>cant
+>i also probably scared her off
+
 ###62189671 Anonymous
 >be me
 >wake up at three in the am
@@ -280,6 +494,11 @@ DO IT NOW.
 ---
 !!! info
     ##Selected /HMoFA/ Stories
+---
+#####[Anonymous]
+`Fenneko gets the ape dick`
+https://pastebin.com/zRz2X0Uj
+---
 ---
 #####BluePawpadCult
 `Saturday Proposal` (Note: initially second-person female perspective)
@@ -942,7 +1161,7 @@ Please post green texts and stories as well. /hmofa/ stories that feature vixens
 
 ---STORIES---
 By Nightblade53
-\>Humies (Ch. 2)
+\>Humies (Ch. 3)
 https://archiveofourown.org/works/52637095
 
 By Trashbinlid

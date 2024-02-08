@@ -38,7 +38,7 @@
 LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-melody-vshojo-or-original-appearance-4-outfits-or-locon
 **Suou Sango (Nijisanji)** - https://civitai.com/models/260246/suou-sango-nijisanji
 **Onigiri (Indie)** - https://files.catbox.moe/xvdr7g.safetensors <- [TAG INFO](https://rentry.org/CCC_Loras#giri-oni-giri)
-**Rinkou Ashelia (Phase Connect)** - https://civitai.com/models/288806/rinkou-ashelia-phase-connect
+**Rinkou Ashelia (Phase Connect)** - https://civitai.com/models/288806/rinkou-ashelia-phase-connect or https://civitai.com/models/296689/rinkou-ashelia-phase-connect
 **Usada Pekora (Hololive)** - https://civitai.com/models/288104/usada-pekora-hololive
 **Mozumi Pichi (VDere)** - https://civitai.com/models/290670/mozumi-pichi
 **Emikukis (OWOzu)** - https://civitai.com/models/290992/emikukis-vtuber-commission
@@ -51,3 +51,4 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 (AnimagineV3 ONLY) **Pipkin Pippa (Phase Connect)** - https://files.catbox.moe/wn15lq.safetensors <- [TAG INFO](https://rentry.org/CCC_Loras#pipkin-pippa-xl-only)
 **Selen Tatsuki (Nijisanji)** - https://civitai.com/models/294243/selen-tatsuki-sdxl
 (AnimagineV3 Only) **Dokibird (indie)** - https://files.catbox.moe/7u3yvi.safetensors [TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427)
+**Tsunomaki Watame (Hololive)** - https://civitai.com/models/294722/tsunomaki-watame-sdxl-or-hololive

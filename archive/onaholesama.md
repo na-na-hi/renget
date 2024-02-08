@@ -62,7 +62,7 @@ Image| Name | Description | Link
 lot of femdom and fluffy shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![DRILL SERGEANT](https://files.catbox.moe/uvhl83.png) | Samantha Thott **(updated)** | Beagle who can't feel pain. | [CHUB link](https://chub.ai/characters/onaholesama/samantha-thott-329b28bb)
+![DRILL SERGEANT](https://files.catbox.moe/4esmyl.png) | Samantha Thott **(updated again)** | Beagle who can't feel pain. | [CHUB link](https://chub.ai/characters/onaholesama/samantha-thott-329b28bb)
 ![Shelbster](https://files.catbox.moe/mdkbeu.png) | Shelby | (You) get assigned to an Anthrostate inspector | [CHUB link](https://chub.ai/characters/onaholesama/shelby-f7dfbd20)
 ![only because you fags requested it](https://files.catbox.moe/n00ncl.png) | Daro'dasha Ravihirin | generic DALLE-slop coombot. Cathay-raht Khajjit who lives in Falkreath | [CHUB link](https://www.chub.ai/characters/onaholesama/darodasha-ravihirin-aeb82abe/main)
 ![menacing stare](https://files.catbox.moe/u9gwbl.png) | Remi | tall & dominant she-wolf that likes teasing humies | [CHUB link](https://www.chub.ai/characters/onaholesama/remi-dd93d88a)

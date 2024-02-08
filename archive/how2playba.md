@@ -1,6 +1,4 @@
 # /bag/ Newfag guide
-You can't save the free 100 rolls for bluefes aka Hanako banner. Final day use them now
-
 https://rentry.org/s2kng54y use this for the event minigame
 
 

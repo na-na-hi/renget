@@ -14,6 +14,7 @@ https://hololivesuperexpo2024.hololivepro.com/en/tickets
 ###Limited merch
 **Promise Christmas merch set (Acrylic stands, Mug & Dish) Limited quantity pre-order; Ships Feb 2024**
 https://shop.hololivepro.com/en/products/hololiveen_promise_christmas2023
+\* *Mumei's acrylic is sold out.*
 
 **HoloEN 1st Concert Connect the World merch rerun **
 https://shop.hololivepro.com/en/products/hololiveen_1stconcert_rerun

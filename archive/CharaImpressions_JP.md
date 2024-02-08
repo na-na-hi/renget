@@ -1351,12 +1351,22 @@ Pros:
 
 
 ### ->Astral Yui ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<-
-**TBD**
+**Magic Damage dealer that requires barriers for maximum efficiency on buffs. Barrier isn't massive, but does help. Might need a 2nd barrier user in fights that deal more damage.**
+Works best as a main DPS that can charge 200 TP to self with both her skills, allowing her to UB fairly often. However, her buff on UB and heal on S2 require units to have a barrier applied, in order to apply to the teammates. Her barrier and heal are nice on such a large damage dealer, so she could easily fill multiple roles if units can stay alive with her being the only barrier source. In that same vein, she deals a ton of damage. Many other units now have access to M.def shred like X.Peco, W.Djeeta, Pyaru, etc... So her lacking of one is not as big of a deal, if she makes up for it in other ways. Definitely a dangerous machine gun M.Atk single target unit, but may not be as much of a no brainer as an S.Neneka. Think on par with W.Djeeta, Giliya - If you need to borrow her, the flexibility of your routing is fucked. A lot of her kit depends on the efficiency of her skills and uptime on her barrier, so it's tough to tell at a glance. If her TP was to all, this would be a no brainer.
 
 -> ![Ast.Yui](https://redive.estertion.win/card/full/128931.webp)<-
 
 Pros:
-- TBD
+- Deals massive damage
+- Provides buff to self on UB and S1
+- M.Crit and M.Atk buffs on UB with barrier condition
+- Provides healing and barriers on S2
+- Provides M.atk buff to team on S2 with barrier condition
+- Restores TP to self on S1 and S2 for frequent UBs
+- Can fill multiple roles in a team 
 
 Cons:
-- TBD
+- No M.def debuff
+- M.Atk buffs are capped
+- Somewhat reliant on barriers being up for maximum efficiency
+- TP restoration is only to self

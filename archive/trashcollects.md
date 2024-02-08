@@ -2775,6 +2775,9 @@ https://files.catbox.moe/9xx31q.safetensors
 V1: https://files.catbox.moe/0rmism.safetensors
 >It was trained on about 20000 top scoring images on e621 for tags like bulge, detailed bulge, genital outline, etc. I think it was the wrong strategy to go with so many different images. I'm thinking I'll try another version with a smaller number of more focused images. 
 
+# Sabrina (Sabrina Online)
+https://files.catbox.moe/li4uiy.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
