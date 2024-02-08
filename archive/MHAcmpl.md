@@ -107,6 +107,8 @@ Tatsuya Yamashita HN Bad Touch: https://desuarchive.org/tg/post/91808184/
 Azuma Hisa HN Beach Day: https://desuarchive.org/tg/post/91809104/
 Daigo Ulmeyda: https://desuarchive.org/tg/thread/91813025/#91814363
 Richard Hertz | HN: Cactiking: https://rentry.org/p6dwm#r-hertz
+Higa Umeko HN Slip-N'-Slideasaurus: https://desuarchive.org/tg/post/91833690/
+Nayuki Kyoko: https://desuarchive.org/tg/post/91834965/
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -230,6 +232,7 @@ Tomie: https://rentry.org/ddom6m82
 TechVision Elite 2023 - 43Vista UltraSmart 4K TV: https://archive.4plebs.org/tg/post/91654960/
 Suslik: https://archive.4plebs.org/tg/post/91699413/
 The Hospital Killer: https://desuarchive.org/tg/post/91772420/
+Paul Crémieux VN De Jais (Jet Black): https://desuarchive.org/tg/post/91841242/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -1130,6 +1133,16 @@ Runt Breaks the Ice!! (Runt, 1-F): https://rentry.org/x6hogk7r
 Suki's Notebook: https://rentry.org/mxh95sov
 Shard's Warning (Mirror Devil, Smokin' Sexy): https://rentry.org/9rqp48zf
 Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper): https://rentry.org/wxqgu34w
+"Writefag" (Slip-N'-Slideasaurus, Sukeban, Fly 1 Million is also kinda there): https://rentry.org/tgaaum4e
+Introduction to Yeti Girl. (Kyoko): https://rentry.org/g9z2wh5g
+Beach Day Intro: (Beach Day, Suki, The Doctor): https://rentry.org/LeavingYourLeftoversAllOverThePlace
+Rob Write Home (Featuring Velvet Worm w/ mentions of the rest of 1-F):
+https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/edit?usp=sharing
++ https://rentry.org/gno9vnt6
+Will they survive winter? (Kyoko, 1-F): https://desuarchive.org/tg/post/91842120/
+When Something Smells, It's Usually the Nuts (Slimenuts, Karaburan, Mentions of 1-F)
+https://rentry.org/czs9nrcu
++Mommy Link https://rentry.org/duw26qn5
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

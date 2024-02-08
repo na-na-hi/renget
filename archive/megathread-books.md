@@ -146,9 +146,9 @@
 
 # 📑 ➜ Browser Reading
 
-### 📒 [Comic Extra](https://comicextra.net/)
+### 📒 [Comic Extra](https://comicextra.me/)
 - Large database of Marvel, DC, and Dark Horse comics is available online for free reading.
-- [URL Safety Results](https://www.urlvoid.com/scan/comicextra.net/)
+- [URL Safety Results](https://www.urlvoid.com/scan/comicextra.me/)
 
 ### 📒 [NovelBuddy](https://novelbuddy.com)
 - Read light novels in English that are updated daily in Japan, Korea, and China.

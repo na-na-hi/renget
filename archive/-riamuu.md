@@ -1,0 +1,6 @@
+->![Header - A gif of the lady ; Riamu yumemi (^ ^ )](https://i.postimg.cc/SKJycPzY/original-1-1.gif)<-
+->☆ ﾐ **RIN**〜![Pixel - A pink musical symbol shifting in && out](https://i.postimg.cc/nzRZYxYq/08ff89bd.gif)  ˖ . *ou* *lee*<-
+->˚ · ೀ **S**[HE](https://en.pronouns.page/@ant_fucker98)**IT**KIT . . . [⚢](https://rentry.co/rinsflags)  L**I**BRA**F**LU**I**D<-
+->![Pixel - A pink heart divider ](https://i.postimg.cc/SRn4gPD3/279030fc.gif)<-
+->*Lover of all things cuuuuuute~♫ !* <-
+-> [Ⅰ.](https://pin.it/1v2I6Mo)  ![](https://gifs.crd.co/assets/images/gallery14/fede8aac.gif?v=77383643) [Ⅱ.](https://www.tumblr.com/sakura-miku-my-love?source=share)  ![](https://gifs.crd.co/assets/images/gallery14/fede8aac.gif?v=77383643) [Ⅲ.](https://rentry.co/rins-links) <-

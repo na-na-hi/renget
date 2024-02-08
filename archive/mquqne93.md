@@ -3,7 +3,7 @@
 ## Chubby Models
 
 >Mint
-Average American gamer dwuag and the queen of Western /ag/
+Average American gamer duawg and the queen of Western /ag/
 https://www.twitch.tv/mintcastella
 https://twitter.com/mintcastella
 

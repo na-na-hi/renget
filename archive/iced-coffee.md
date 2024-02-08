@@ -1,0 +1,9 @@
+-> [![image](https://64.media.tumblr.com/97788474491e0582715cd4efc6d084d3/8bb8e76d792839c8-51/s1280x1920/7c298a63c28654318b3da7fbfd759f6a228bec97.pnj)](https://www.tumblr.com/yoshino-junpei/713231780355932160/venti-rentry-graphics-rq-44-pasetrie?source=share) <-
+
+-> ⌗ lee **or** rin ![pixel](https://64.media.tumblr.com/3b40e336eff142af6e3b9eed10bf8365/cd94cc1891871189-1e/s75x75_c1/22bc80256330f66c9cf8f080e6b4ad2a9d636dd5.gifv) he it st[a](https://en.pronouns.page/@ant_fucker98)r <-
+-> **4**teen ![pixel](https://barbara.crd.co/assets/images/gallery17/52cf1dfc.gif?v=98d5a511) ***auti***stic ~~ambivert~~ ***!!*** <-
+-> white ***ambi***am [✿❀](https://rentry.co/rinsflags) ![sapphic](https://64.media.tumblr.com/398b9486e889a6999d5987bb69ba2fec/ed9e04fd3834542f-15/s75x75_c1/fcd4a8bd3838dcddff2ceefdb59093469840c444.pnj) ![angled aroace](https://64.media.tumblr.com/88b30700c6edda11be61227e6032ba7e/a66b0697a51f6d07-93/s75x75_c1/a3c14bf261d2640fc18ac23e939cf8ecd671c2e0.pnj) [![librafluid](https://64.media.tumblr.com/731139386a11390c4eae58e3a3d7a2d0/0a769268a8714d35-7d/s75x75_c1/22e931db08e9c62776f31db7b713a3bcf4f77aad.pnj)](https://www.tumblr.com/sakura-miku-my-love/716374648028282880/antfucker98-is-my-pinterest-nickname-made?source=share) <-
+
+->  ─── ･ ｡ﾟ☆:\*.☽ .\*:☆ﾟ. ─── <- 
+
+-> ![pixel](https://64.media.tumblr.com/ce81f1238af4403a81bd910a0eaf53be/cbf45af389954474-e9/s75x75_c1/ee35cdc5c447042c8ac9640e8c83320922a60d3b.gifv)  — [pin!](https://pin.it/1v2I6Mo) . . . [*tumblr!*](https://www.tumblr.com/sakura-miku-my-love?source=share) . . .  [links!](https://rentry.co/rins-links) <-

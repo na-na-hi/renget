@@ -1,0 +1,36 @@
+-> ![image](https://64.media.tumblr.com/210981e827f1b588abd580d5ed4e23a2/66768d7d809e56ab-b0/s250x400/0a5f872abf9bc10f902f230fa510b9d55d165b26.gifv) <-
+-> ![1](https://files.catbox.moe/d1j57d.gif) **rin's flags!** ![2](https://files.catbox.moe/x0sfai.gif) <-
+-> more flags in my pinterest!!
+second [rentry](https://rentry.co/rinsflags2) with my flags! <3 
+hover or hold images for ==term== <- 
+-> ![div](https://autism.crd.co/assets/images/gallery01/8afcbbc2.gif?v=f41caa56)<-
+
+╰┈➤ orientation:
+![lesbian](https://cdn.discordapp.com/attachments/1017542631263314053/1062866947517198507/lesbian_2.jpg) ![neptunic](https://cdn.discordapp.com/attachments/1017542631263314053/1062890722149285969/Neptunic_flag_40x24.png)   ![sapphic](https://cdn.discordapp.com/attachments/1017542631263314053/1062866947731112087/sapphic.jpg)  
+![enbian](https://i.postimg.cc/cJTr2mWC/enbian.png) 
+
+╰┈➤ romanticity & sexuality:
+![greyromantic](https://cdn.discordapp.com/attachments/1017542631263314053/1062856207632695457/grayromantic.jpg) ![demiromantic](https://cdn.discordapp.com/attachments/1017542631263314053/1062855785236922488/demiromantic.jpg) ![demisexual](https://cdn.discordapp.com/attachments/1017542631263314053/1062858052862234705/demisexual.jpg) ![sequencesexual](https://64.media.tumblr.com/7bc2f91d46f73cfa72185c02d8d7e48c/9754fab0999210fe-92/s75x75_c1/e22e0ddc2f986ae84eed645a3bbbe709e82fcd99.pnj) ![cupiorose](https://64.media.tumblr.com/11cd2af4526004faf3dbab405b208d2a/9754fab0999210fe-7a/s75x75_c1/81e59fd9ce527e9f56a2fbcf07a401ac80b42e28.pnj) ![angled aroace](https://cdn.discordapp.com/attachments/1017542631263314053/1062852864873082930/angled_aroace.jpg)
+
+╰┈➤ gender:
+[![new librafluid](https://64.media.tumblr.com/95bfd7a30e9ecd3559de2a130340344b/9754fab0999210fe-e2/s75x75_c1/565b78c66af13f17a90612dde23607c3f6b7d37b.pnj)](https://www.tumblr.com/sakura-miku-my-love/716374648028282880/antfucker98-is-my-pinterest-nickname-made?source=share) ![genderfloy](https://64.media.tumblr.com/5a9cacc964bf37cf2de6103c88358802/9754fab0999210fe-cf/s75x75_c1/6f8772cb44c46c92b49611ebd16dbf02a8282e75.pnj) ![neomascfeminine](https://64.media.tumblr.com/0913c74779dc034a85a96ec2bfbf840e/9754fab0999210fe-db/s75x75_c1/828aa445610a57d4fa512e51dbe97cbeb664a458.pnj)  ![genderfluid](https://cdn.discordapp.com/attachments/1017542631263314053/1062902956241981440/300px-Genderfluid_40x24.png) ![genderqueer](https://cdn.discordapp.com/attachments/1062940037299314760/1062954286511833168/350_40x24.png) ![nonbinary](https://cdn.discordapp.com/attachments/1017542631263314053/1062903618103152660/300px-Nonbinary_40x24.png) 
+![transgender](https://i.postimg.cc/6q5tgvQP/transgender-5-stripes-20-px.png) ![neogirl](https://i.postimg.cc/g2GS7dQf/neogirl.jpg) ![neoboy](https://i.postimg.cc/vZF350Pb/neoboy-7-stripes-20-px.png) ![xenogender](https://i.postimg.cc/XY5JcGLC/xenogender2-7-stripes-21-px.png) ![transneumasc](https://i.postimg.cc/NGnNjsmy/transneumasc-7-stripes-20-px.png) ![gendervoid](https://i.postimg.cc/SRtzcpKg/gendervoid.png) 
+
+╰┈➤ several xenos:
+![cuddlegender](https://cdn.discordapp.com/attachments/1062939531260723231/1069783782468624455/180.png) ![aesthetigender](https://cdn.discordapp.com/attachments/1062939531260723231/1069782909394890834/180.png) ![cutegender 1](https://cdn.discordapp.com/attachments/1062939531260723231/1069783780547633182/180_1.png)
+![xenohoarder](https://i.postimg.cc/rs0yYpTv/xenohoarder.jpg) ![catgender](https://i.postimg.cc/c4vX6Byj/catgender-5-stripes-20-px.png) ![pupgender](https://i.postimg.cc/PrmKrbwp/pupgender-5-stripes-20-px.png) ![metalgender](https://i.postimg.cc/MZDR19hY/metalgender.png)  ![sillygender](https://i.postimg.cc/bJL2jrKr/sillygender.jpg) ![gummycatgender](https://i.postimg.cc/XqLBK8jq/gummycatgender-5-stripes-20-px.png) ![vampgender 2](https://i.postimg.cc/JzL6bYL5/vampgender-7-stripes-20-px.png) ![sleepygender](https://i.postimg.cc/nrz9VZJk/sleepygender.jpg) ![lovesicklexic](https://i.postimg.cc/TPSvwyMD/lovesicklexic.png) ![lesbiangender](https://i.postimg.cc/8P6hj92X/lesbiangender.png) ![unholylexic](https://i.postimg.cc/W1FyxPfQ/unholylexic.png) ![moongender](https://i.postimg.cc/ZRV32Z95/moongender-20px-5-stripes.png) 
+
+╰┈➤ gender-thing
+![girlthing](https://i.postimg.cc/BvZmz8t8/girlthing-8-stripes-20-px.png) ![tbhthing](https://i.postimg.cc/T2K4GW0g/tbhthing-11-stripes-20-px.png) ![boything](https://i.postimg.cc/jj7c7w10/boything-20px-8-stripes.png) ![girlboything](https://i.postimg.cc/SKGTScfq/girlboything-7-stripes-20-px.png) ![sleepything](https://i.postimg.cc/Pf0FqrVc/sleepything-11-stripes-20-px.png) ![dogthing](https://i.postimg.cc/76xWHhNW/dogthing.png)  ![catthing](https://i.postimg.cc/vms3qYQM/catthing.png)
+
+╰┈➤ coric genders:
+![scenecoric](https://i.postimg.cc/BQd78MgD/scenecoric.png) ![cottagecoric](https://i.postimg.cc/nc80JSCf/cottagecoric-7-stripes-20-px.png) ![fairycoric](https://i.postimg.cc/rsq9fcMc/fairycoric.png) ![angelcoric1](https://cdn.discordapp.com/attachments/1062939531260723231/1069782910569295952/180_3.png)
+
+╰┈➤ pronoun flags:
+![he/him](https://cdn.discordapp.com/attachments/1062940037299314760/1063207385465901166/he_34x24.png) ![it/its](https://cdn.discordapp.com/attachments/1062940037299314760/1063208611175731300/it_34x24.png) ![she/her](https://cdn.discordapp.com/attachments/1062940037299314760/1063207384614436905/she_40x24.png) ![pup/pups](https://cdn.discordapp.com/attachments/1062940037299314760/1063208611536449607/pup_39x24.png) ![ghost/ghosts](https://cdn.discordapp.com/attachments/1017542631263314053/1062922931467980891/66f3e097126f072fe92e052d5675d4e8_33x20.png)
+
+╰┈➤ others:
+![queerplatonic](https://cdn.discordapp.com/attachments/1017542631263314053/1068433293034393670/image1_2.jpg) ![xenogender4xenogender](https://cdn.discordapp.com/attachments/1062939984425930782/1063743682383200327/IMG_6307_1.jpeg) ![ambiamorous](https://cdn.discordapp.com/attachments/1062940037299314760/1063208610840182824/ambiamorous_40x24.png)
+![t4t](https://i.postimg.cc/d0n6PwJV/trans-4-trans-7-stripes-20-px.png)  ![nby4nby](https://i.postimg.cc/26xn82Bz/nby4nby.jpg) ![les4les](https://i.postimg.cc/JzVDk0Kr/les4les.png) ![ambialterous](https://i.imgur.com/BGMVixb.jpg) ![neopronouns](https://i.postimg.cc/HLt78H99/neopronouns-20px-5-stripes.png) ![pronounhoarder](https://i.postimg.cc/ryNhGFSV/pronounhoarder-11-stripes-20-px.png) ![otherkin](https://cdn.discordapp.com/attachments/911828700247502849/1037540037153259620/otherkin_flag_20x20.png) ![polykin](https://cdn.discordapp.com/attachments/911828700247502849/1037540037526573096/polykin_flag_20x20.png) ![therian](https://cdn.discordapp.com/attachments/911828700247502849/1037540037870501980/therian_flag_20x20.png) ![autistic](https://i.imgur.com/3kYkDI2.jpg) ![non-binary autistic](https://i.imgur.com/EKRBPBt.jpg) ![auti4auti](https://i.postimg.cc/7ZbgHStn/aut4aut1.png)
+***
+-> [links](https://rentry.co/rins-links) ![pixel](https://autism.crd.co/assets/images/gallery02/fbc7dec8.gif?v=f41caa56) [pin](https://pin.it/1v2I6Mo) ![pixel](https://autism.crd.co/assets/images/gallery02/fbc7dec8.gif?v=f41caa56) [tumblr](https://www.tumblr.com/sakura-miku-my-love?source=share) <-

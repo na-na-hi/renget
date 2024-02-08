@@ -1589,3 +1589,227 @@ https://nitter.lanterne-rouge.info/AryJeay/status/1755023151598018920#m  2/6/24
 
 This list did not include rockets fired from Gaza towards settlement.
 https://nitter.lanterne-rouge.info/AryJeay/status/1755032045862949169#m  2/6/24
+
+>🛑| Al-Quds Brigades:
+
+Succesfully eliminated all members of an IOF force consisting of 7 soldiers. This occurred after targeting them with a TBG rocket while they were taking cover in a residential apartment near Al-Hawooz, close to Hayaat School, west of Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755199975800062156#m  2/7/24
+
+>🛑| Al-Quds Brigades: 
+
+Targeted a military D9-bulldozer with RPG, resulting in the death of its occupants and the vehicle catching fire in the vicinity of Al-Amal neighborhood, west of Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755216068694417853#m  2/7/24
+
+>⚡️Al-Quds Brigades published a video showing the firing of several rocket bursts targeting the IOF military sites and concentrations.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755228276186853396#m  2/7/24
+https://files.catbox.moe/1556cd.mp4  2/7/24
+
+>🚨An assassination attempt was carried out, by blowing up a car in Petach Tikva, with the “serious injury” of an israeli man in his 30s, inside the car.
+
+As usual, they claim it was a criminal event, but what good criminals do they have who even in the midst of war continue their maffia?
+https://nitter.lanterne-rouge.info/AryJeay/status/1755235880619356483#m  2/7/24
+
+>☠️ The IOF admits the death of a reservist who succumbed to his wounds after being injured during fighting in the northern Gaza Strip in December:
+
+🔻Staff Sgt. (res.) Hanan Drori, 26, from the 551st Reserve Paratroopers Brigade chief’s forward command team.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755182722341863570#m  2/7/24
+
+>🛑| Israeli channel 2:
+
+Israeli hospitals in the north continue to prepare for war — and have been asked to immediately find a suitable location for setting up an alternative helicopter landing pad in case the current one gets damaged.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755232516502434177#m  2/7/24
+
+>Pro-Palestine protesters have shut down Woodward, a weapons manufacturer in Chicago. Woodward supplies systems for Boeing bombs, which are presently being utilized in Gaza by Israeli aircraft, resulting in the deaths of thousands of innocent civilians. The protesters have barricaded the entrances to the facility.
+https://nitter.lanterne-rouge.info/QudsNen/status/1755226558929711482#m  2/7/24
+
+>Protesters outside the Barclays building in London are demanding that the bank divest from Israeli arms sales.
+https://nitter.lanterne-rouge.info/QudsNen/status/1755218601332604949#m  2/7/24
+
+>The UNRWA health center in the north of Gaza sustained severe damage as a result of Israeli targeting.
+https://nitter.lanterne-rouge.info/QudsNen/status/1755220526648176695#m  2/7/24
+
+>⚡️Reuters on the Chairman of Total Energies:
+
+The costs of crossing the Red Sea have increased, for reasons including the cost of insurance, and the company no longer has any ships crossing the Bab al-Mandab Strait.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1755151209265057821#m  2/7/24
+
+>BREAKING:
+
+ 🇸🇦 Saudis Arabia:
+
+"Palestinian state with East Jerusalem as its capital!"
+
+Saudi Arabia officially denied the State Department's statements about the Saudis' readiness to normalize relations with Israel.
+
+According to the official response, the Saudis demand:
+
+1. The creation of an independent Palestinian state within the 1967 borders and with East Jerusalem as capital controlled by the Palestinians
+
+2. The cessation of Israeli aggression in the Gaza Strip and the complete withdrawal of Israeli troops from there.
+
+Under the current conditions and under the Netanyahu government, these demands will obviously not be met.
+
+Thus, the Netanyahu government is a clear obstacle to Israel's desired normalization agreements with Saudi Arabia.
+https://t.me/megatron_ron/1630  2/7/24
+
+>⚡️MUST WATCH: Al-Qassam (Hamas) published a video showing the sniping of an israeli officer in the Taqaddum axis, west of Gaza City.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755250161528209435#m  2/7/24
+https://files.catbox.moe/jdad1m.mp4  2/7/24
+
+>🛑| Al-Quds Brigades:
+
+This morning, we launched 2 suicide drones, "Sayyad" and "Sahab," towards the concentrations of IOF soldiers and vehicles west of Gaza.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755282304987996364#m  2/7/24
+
+>🚨| BREAKING: A British-American aggression targeting ​​the port of al-Hudaydah, west of Yemen. 
+
+At the same time, reports of explosions in Baghdad, the capital of Iraq.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755299357438406758#m  2/7/24
+
+>Well, with Netanyahu’s recent speech, it can be assumed that Tel Aviv rejected the current ceasefire proposal of the resistance, and will try to move towards more political and military pressure.
+
+Netanyahu repeated “months of war," instead of years, and emphasized the necessity of achieving a "decisive victory."
+
+Of course it can also be a just show of power.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755291489679065256#m  2/7/24
+
+>🚨Iraqi media reports about an American drone attack targeting a vehicle in Baghdad, followed by columns of smoke rising…
+https://nitter.lanterne-rouge.info/AryJeay/status/1755300242335916114#m  2/7/24
+https://files.catbox.moe/4wp1sp.mp4  2/7/24
+
+And the inner war within the israeli political system continues…
+
+In Netanyahu’s recent speech, he threw shade at the israeli Chief of Staff for meeting with US’ Blinken, without the presence of Bibi himself, by saying that israel needs to “behave well”.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755294018601181514#m  2/7/24
+
+>🛑| Reports state that the targeted assassination hit the vehicles of Kataib Hezbollah commanders, namely Abu Baqir al-Saadi and Hajj Arkan al-Alaywi.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755308290378985944#m  2/7/24
+https://files.catbox.moe/g6ecna.mp4  2/7/24
+
+>Did Netanyahu misspoke?
+
+I think he meant the “unarmed” israeli settlers who attacked the humanitarian aid trucks, bound for Gaza, preventing it from leaving Isdud (Ashdod) port.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755297848717885706#m  2/7/24
+https://files.catbox.moe/u3zb4d.mp4  2/7/24
+
+>BREAKING| Al Jazeera citing US official: We are aware of reports regarding explosions in Baghdad.
+https://nitter.lanterne-rouge.info/QudsNen/status/1755314310178312235#m  2/7/24
+
+>BREAKING:
+
+ 🇮🇱 Netyanahu:
+
+"I ordered the Troops to prepare to attack Rafah"
+
+Rafah is a settlement in Gaza on the border with Egypt.
+
+Earlier, Egypt officially declared that the attack on the border by Israel was a crossing of the red line and a declaration of war.
+
+If Israel carries out this attack, it will be the biggest humiliation for El-Sisi.
+https://t.me/megatron_ron/1640  2/7/24
+
+>Israel's Netanyahu rejects Gaza ceasefire offer, pledges to defeat Hamas
+https://www.reuters.com/world/middle-east/israels-netanyahu-rejects-gaza-ceasefire-offer-pledges-defeat-hamas-2024-02-07/  2/7/24
+
+>⚡️Occupied Palestine: Sources to Al-Mayadeen:
+
+Hamas informed the mediators that military pressure will not lead to any change in its position, including the attack on Rafah.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1755327454036554108#m  2/7/24
+
+>BREAKING:
+
+ 🇺🇸🇮🇶 The US and the Iraqi military are facing a direct clash
+
+The US has targeted members of the Iraqi army in Baghdad. Calls for US Embassy seizures.
+
+Several explosions are heard in Baghdad, according to reports, the US is targeting members of the Popular Mobilization Forces which are part of the Iraqi armed forces.
+
+Iraqi-resistance affiliated groups are calling on supporters to storm the U.S. Embassy in Baghdad
+
+All roads and checkpoints leading to the Green Zone in Baghdad have been closed.
+https://t.me/megatron_ron/1642  2/7/24
+
+>🚨| CONFIRMED:
+
+Al-Mayadeen correspondent in Aleppo reports the sounds of explosions in the US base in the Al-Omar oil field, resulted from a drone attack.
+https://nitter.salastil.com/AryJeay/status/1755350700232520041#m  2/7/24
+
+>U.S. Central Command:
+
+USCENTCOM Conducts Strike Killing Kata’ib Hezbollah Senior Leader
+
+At 9:30 p.m. (Baghdad Time) February 7, U.S. Central Command (CENTCOM) forces conducted a unilateral strike in Iraq in response to the attacks on U.S. service members, killing a Kata’ib Hezbollah commander responsible for directly planning and participating in attacks on U.S. forces in the region. There are no indications of collateral damage or civilian casualties at this time.
+
+The United States will continue to take necessary action to protect our people. We will not hesitate to hold responsible all those who threaten our forces’ safety.
+https://t.me/megatron_ron/1647  2/7/24
+
+>BREAKING:
+
+⚡ 🇧🇻 Norway with a middle finger to Israel
+
+The Minister of Foreign Affairs:
+
+"Today, Norway transfers $26 million to @UNRWA, the UN Agency that supports Palestinian refugees.
+
+UNRWA is the backbone of humanitarian efforts in Gaza. Its services are critical for millions of people in extreme need"
+https://t.me/megatron_ron/1646  2/7/24
+
+>⚡️#Yemen: 
+
+An American-British aggression targets the Qatainat area in the Baqim border district in Saada Governorate, northern #Yemen.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1755370301699834211#m  2/7/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 7 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a group of IOF soldiers, taking cover in a house in area west of Khan Yunis, with a TBG anti-fortification shell, followed by an anti-personnel shell.
+
+🔻Targeted a Merkava tank & a military bulldozer with Yassin 105s, west of Gaza City.
+
+🔻Targeted a Merkava-4 tank with a Tandem rocket, west of the Shuja'iya neighborhood in Gaza City.
+
+🔻In a joint-operation with Al-Quds Brigades, targeted a special IOF force of 10 soldiers holed up in a house in an area west of Khan Yunis with 2 anti-personnel shells and engaged them with machine guns.
+
+🔻Shelled the army concentrations infiltrating the "Al-Kutiba" area west of Gaza City with mortar shells.
+
+🔻Sniped an IOF officer near the Industry Intersection in Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shot down an IOF quadcopter drone and seized it during its intelligence mission in the skies of Al-Bureij camp.
+
+🔻Targeted IOF army gather with 2 suicide drones of type "Sayyad" and "Sahab" west of Gaza.
+
+🔻Eliminated all members of an IOF force consisting of 7 soldiers after targeting them with a TBG roclet, as they took cover in a residential apartment near Al-Hawooz School, west of Khan Yunis.
+
+🔻Targeted a military bulldozer with RPGs, causing the death of the personnel inside and setting it on fire, in the vicinity of Al-Amal neighborhood west of Khan Yunis.
+
+🔻Shelled, in a joint-operation with of Al-Aqsa brigades, the concentrations of soldiers near the checkpoint in the axis of west of Gaza.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted a military vehicle with an explosive device, west of Khan Yunis in the southern Gaza Strip.
+
+🔻Shelled the military concentrations of soldiers and their vehicles with mortars and Al-Aqsa rockets, west of Gaza.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted gatherings of IOF forces in the Jawazat area in Gaza City with a barrage of short-range rockets.
+
+🔻Targeted a Merkava tank with an anti-tank rocket, west of Gaza City.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Zebdine site in the occupied Shebaa Farms and a gathering of israeli soldiers in its vicinity with rockets.
+
+🔻Targeted the technical equipment at the Ramia site with suitable weapons.
+
+🔻Targeted the Khirbet Ma'ar base with Falaq-1 rockets.
+
+🔻Targeted a gathering of soldiers in the vicinity of the Al-Marj site with rockets.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shebaa Farms with rockets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.salastil.com/AryJeay/status/1755386725159825798#m  2/7/24

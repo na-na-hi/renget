@@ -1,0 +1,5 @@
+-> ![](https://64.media.tumblr.com/23114b38dd44081e0aedb68e984dd0e9/026cbbc9b24e1367-26/s400x600/d2e7f4a3f04dbaa966d5cc173aec51448aac6730.pnj) <-
+-> ![hearts](https://files.catbox.moe/zxeb3w.gif) lee ***rin*** ✧ *white* Ꮺ **4**teen <-
+-> ~~angled~~ aroace [l](https://rentry.co/rinsflags2)es ʕ•ᴥ•ʔ [s](https://en.pronouns.page/@ant_fucker98)(**he**) it ![sanrio](https://files.catbox.moe/ymq5zr.gif) <-
+-> ![lollipop](https://files.catbox.moe/5tik6w.gif) ***auti***stic + *anxiety* + **IT**s ∿ [Ⅰ.](https://pin.it/1v2I6Mo) [Ⅱ.](https://www.tumblr.com/sakura-miku-my-love?source=share) [Ⅲ.](https://rentry.co/rins-links) ![paw](https://files.catbox.moe/pydo4p.gif) <-
+->![](https://64.media.tumblr.com/6d9f93d5772f8d596a5220dbf879ff24/026cbbc9b24e1367-47/s400x600/0e793f2f487cf3a7760578264d04021040412aeb.pnj) <-

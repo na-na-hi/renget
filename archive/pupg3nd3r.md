@@ -1,0 +1,5 @@
+-> ![](https://cdn.discordapp.com/attachments/920810067295617044/942963410344235058/puppyrina.gif) <-
+-> **RIN** or LEE ***!*** ｡ ｡ ｡ **it [/](https://en.pronouns.page/@ant_fucker98) pup** ![pixel](https://64.media.tumblr.com/0e0362f67e090d3a51f198673ecb34ac/10bce405ac1beb20-76/s75x75_c1/8901066d441ef1509fbedd1037c0bee63f7c53e1.gifv)  <-
+-> WHITE **&&** 14 ![pixel](https://64.media.tumblr.com/5e2f4409ba9851ce128c60076b1b0ebd/4d492774a6096d55-a6/s75x75_c1/6141b8bdae2ba6f422f2ab69522fb86c0402dda6.gifv) **AUTi** hyper[rom](https://rentry.co/rinsflags) <-
+-> ambivert ENFP **ahuman otherkin!** <-
+-> ![pixel](https://64.media.tumblr.com/2c8155423268027f71d3908b9fda0e4c/47aa13d1257ecc37-77/s75x75_c1/69eaffb2f6ab8abdd8e4855afb807dff8e06fee4.pnj) — [**pin!**](https://pin.it/1v2I6Mo) `♡` [***tumblr!***](https://www.tumblr.com/sakura-miku-my-love?source=share) `♡` [**links!**](https://rentry.co/rins-links) <-

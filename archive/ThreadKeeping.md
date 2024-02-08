@@ -188,7 +188,7 @@ https://rentry.org/Elephant_Sama_I_Kneel
 >The Tournament Main Segments:
 Phase 0: >>91664916
 Phase 1: >>91711005
-
+Phase 2: >>91837452
 ```
 #Demon Eyes (3rd Run)
 ***
@@ -428,17 +428,31 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-Writefags:
->Shard's Warning (Mirror Devil, Smokin' Sexy)
-https://rentry.org/9rqp48zf
->Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper)
-https://rentry.org/wxqgu34w
+New Villain:
+>Paul Crémieux VN De Jais (Jet Black)
+>>91841242
 
-Artfags:
->Sandy Fights a Troll
->>91829392
->Sandatsu Carries a Ball
->>91829481
+New Student (1-F):
+>Higa Umeko HN Slip-N'-Slideasaurus
+>>91833690
+>Nayuki Kyoko
+>>91834965
+
+New Writefags:
+>"Writefag" (Slip-N'-Slideasaurus, Sukeban, Fly 1 Million is also kinda there)
+https://rentry.org/tgaaum4e
+>Introduction to Yeti Girl. (Kyoko)
+https://rentry.org/g9z2wh5g
+>Beach Day Intro: (Beach Day, Suki, The Doctor)
+https://rentry.org/LeavingYourLeftoversAllOverThePlace
+>Rob Write Home (Featuring Velvet Worm w/ mentions of the rest of 1-F):
+https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/edit?usp=sharing
++ https://rentry.org/gno9vnt6
+>Will they survive winter? (Kyoko, 1-F)
+>>91842120
+>When Something Smells, It's Usually the Nuts (Slimenuts, Karaburan, Mentions of 1-F)
+https://rentry.org/czs9nrcu
++Mommy Link https://rentry.org/duw26qn5
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -461,6 +475,7 @@ https://rentry.org/9bf3g
 Page 2
 ***
 ```
+>>91842852
 >STUDENTS:
 
 >Chihiro Mitsurugi HN Ascetic Sword Hero: Yako
@@ -513,26 +528,8 @@ Page 2
 >>88810810
 >Takara Tame HN Android
 >>89199766
->Suki HN Sukeban
->>91670899
->Runt HN Dust Devil
->>91691942
->Kiki HN Yggdrasil
->>91707234
->Rob Williams HN: Velvet Worm
->>91728780
 >Nijimura Mahoko HN Cool Boost
 >>91685518+>>91685973
->Haiiroshi Kinzoku HN Fullmetal
-https://rentry.org/Fullmetal-mha
->Igarashi Ryosuke HN Araken
->>91807240
->Tatsuya Yamashita HN Bad Touch
->>91808184
->Azuma Hisa HN Beach Day
->>91809104
->Daigo Ulmeyda HN Fly 1 Million
->>91814363
 
 >Class 2-D
 >Mochi Uranus HN Smelly Hero: Stink Rat
@@ -546,6 +543,7 @@ https://rentry.org/Fullmetal-mha
 
 >Class 1-E https://rentry.org/p6dwm
 
+>Students (Cont.)
 >Class 3-D https://rentry.org/vx255
 >William Dustice HN King Billy
 >>88192360
@@ -555,17 +553,20 @@ https://rentry.org/Fullmetal-mha
 >>89284218
 >Kagami Reina
 >>89605669
+>Norman “Norm” Smith HN Whatabout
+>>91046080
+>Rumi Aratsuki HN Hysteria
+>>91363307
+
+>Class ???
+>Kiki HN Yggdrasil
+>>91707234
 ```
 ***
 Page 3
 ***
 ```
 >Students (Cont.)
->Norman “Norm” Smith HN Whatabout
->>91046080
->Rumi Aratsuki HN Hysteria
->>91363307
-
 >Class 1-C (Shiketsu)
 >Okimoto Chisaka
 >>91130422 
@@ -602,6 +603,30 @@ https://rentry.org/HeartMHA
 >Cormelia Busujima
 >>91353847
 
+>Class 1-F
+>Suki HN Sukeban
+>>91670899
+>Runt HN Dust Devil
+>>91691942
+>Rob Williams HN: Velvet Worm
+>>91728780
+>Haiiroshi Kinzoku HN Fullmetal
+https://rentry.org/Fullmetal-mha
+>Igarashi Ryosuke HN Araken
+>>91807240
+>Tatsuya Yamashita HN Bad Touch
+>>91808184
+>Azuma Hisa HN Beach Day
+>>91809104
+>Daigo Ulmeyda HN Fly 1 Million
+>>91814363
+>Kiyoura Shidehara HN Icky Hero: Slimenuts
+>>91782779
+>Higa Umeko HN Slip-N'-Slideasaurus
+>>91833690
+>Nayuki Kyoko
+>>91834965
+
 >PRO HEROES
 >U.A. Teachers:
 >Yunikon, the Brilliant Hero
@@ -627,6 +652,13 @@ https://rentry.org/HeartMHA
 >Riku Washizawa HN The Steel Talon Hero: Skycarver
 >>91719484
 
+```
+
+***
+Page 4
+***
+```
+>PRO HEROES (Cont):
 >Unaffiliated Heroes
 >Kenji Shako HN Strongest Shrimp Hero: Magnum Shrimp (and Water Fowl Hero: Flamingal)
 >>88425908
@@ -658,13 +690,6 @@ https://rentry.org/HeartMHA
 >>89015229
 >Ludolf Raphael Victorius, Hero Name: Fair Marshal
 >>89006731
-```
-
-***
-Page 4
-***
-```
->PRO HEROES (Cont):
 >Taichi Kyoryu HN Cretaceous King, Saurus
 >>89508780
 >Kurogane Keisho HN Yoshizumi
@@ -711,7 +736,11 @@ https://rentry.org/iptpr
 >>91149772
 >Kuji Futoi (Student)
 >>91363451
-
+```
+***
+Page 5
+***
+```
 >VILLAINS (Villain Name):
 >Turncoat Agency:
 >Keiichi Tano HN Racer V / VN Getaway
@@ -762,14 +791,6 @@ https://rentry.org/iptpr
 https://rentry.org/ddom6m82
 >TechVision Elite 2023 - 43Vista UltraSmart 4K TV
 >>91654960
-```
-***
-Page 5
-***
-```
->VILLAINS (cont.):
-
->Unafilliated VIllains:
 >JOHN DOE VN GREEN DOOR
 >>89018740
 >Suslik
@@ -786,6 +807,8 @@ Page 5
 >>91703456
 >The Hospital Killer
 >>91772420
+>Paul Crémieux VN De Jais (Jet Black)
+>>91841242
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
@@ -798,7 +821,12 @@ Page 5
 >>88930575
 >Edmund Muller VN Mercury
 >>88923191
-
+```
+***
+Page 6
+***
+```
+>VILLAINS (Villain Name):
 >Revolutionaries:
 >Momotaro Tachibana VN Nebulous Storm
 >>88376954
@@ -864,11 +892,11 @@ https://rentry.org/OokamiShizuka
 >>91702348
 ```
 ***
-Page 6
+Page 7
 ***
 ```
 Writefags:
->Early writefags here (edit code: MHA Writefags) (10 Pages)
+>Early writefags here (edit code: MHA Writefags) (12 Pages)
 https://rentry.org/MHAWritingList
 >”First Test” Comp
 https://pastebin.com/66ByP2sD
@@ -876,116 +904,6 @@ https://pastebin.com/66ByP2sD
 https://pastebin.com/Ksn0zJ31
 Else check the rentry
 
->Friends 3 (Capture Cloth, Android)
-https://rentry.org/mcagp
->In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
->https://rentry.org/i8rd9
->The Most Complex Piece Anon Has Ever Written? (3-B)
-https://rentry.org/at8vz
->Sticky Situation (Yamata):
-https://rentry.org/bnihv
->Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas)
-https://rentry.org/6MonthsOfRotLater
->To the rescue 1.5
-https://rentry.org/awore
->Stormy September Sunday (Seiryu, Yamata, Honoken, Yamamoto, Nabiki)
-https://rentry.org/yz972
->Sunny September Monday (Seiryu, Yamata, Honoken, Mahoudeva)
-https://rentry.org/den5q
->A chance of fate, or just a single misstep? (Arena, Yamata):
-https://rentry.org/7q425
->Gossip 8
-https://rentry.org/xqthh
->A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cloth, Bakeneneko, Mirror Devil, 1-D, Rosethorn, Desolator, Seiryu, Honoken)
-https://rentry.org/ondcwi
->Visiting an Old Friend (Yamamoto):
-https://rentry.org/cvwhb
->THE SECRET LIFE OF SANDATSU OWARI
-https://rentry.org/2v4te
->Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan)
-https://rentry.org/oyfco
->Steam
-https://rentry.org/rya79
->Mirror's Mentor (Mirror Devil, Smokin' Sexy)
-https://rentry.org/qycta
->Sticky Situation 2 (Umi, Yamata):
-https://rentry.org/2qnet
->The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose)
-https://rentry.org/the-world-is-yours
->Isekai 3.0?
-https://rentry.org/zuq78
->Isekai 3.1.
-https://rentry.org/qd6pk
->Isekai (Inigo Side Story)
-https://rentry.org/abr3m
->Reaper Rising (Reaper, Drekus, Overdose)
-https://rentry.org/reaper-rising
->Isekai (Spherethirst Side Story)
-https://rentry.org/s8558
->MHA Isekai 3.2
-https://rentry.org/4eama
-```
-***
-Page 7
-***
-```
-Writefags (cont.)
->Call me from the future, past (Yamata, Blast Burn, Arena, Radius):
-https://rentry.org/znbnka
->Holden On To A Blank (Holden Deckard, Blank)
-https://rentry.org/nfkvx3
->I Need A Hero(ine)...! (Satoru Tani)
-https://rentry.org/ynbmqo
->A Night of Fate (Yamata, Nabiki):
-https://rentry.org/tu4y9
->??? (Nekiro, Heartbeat)
-https://rentry.org/7thz79
->Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Satoru Tani, Karaburan, Yerricson, others)
-https://rentry.org/ifi3u
->The Proposal for a Showdown (Yamata, 108 Stars Gang):
-https://rentry.org/h23ps
->Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
-https://rentry.org/xu8f5e
->Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang)
-https://rentry.org/764po9
->Cold Comfort (Capture Cloth, Bakeneneko)
-https://rentry.org/wg6z5 
->First Battle - The Heat of Combat (Orochi, 108 Stars Gang):
-https://rentry.org/rxc93
->Showdown - The Burning Will (Yamata,108 Gang)
-https://rentry.org/7o8mq
->There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver)
-https://rentry.org/wwyh7
->Showdown - Friendship Endures (Yamata, 108 gang)
-https://rentry.org/8f9ei
->tournament fallout (The Clique)
-https://rentry.org/cb5b29
->The death of her innocence (Yamata, 108 Gang)
-https://rentry.org/gfwgx
->Clown Party (Popsy, Maru(maru), Ryu-kishi, Last Rite, Capture Cloth, Yako, Fight Man)
-https://rentry.org/PSInternship
->Law-Abiding Hero (Mirror Devil, Smokin' Sexy):
-https://rentry.org/uoezz
->Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil)
-https://rentry.org/6cgfyo
->The Other Side - B (Arena, Orbit, cameo of Yamata, 108)
-https://rentry.org/w8hvp
->Language Barrier (Madoka, Nekiro):
-https://rentry.org/Language_Barrier
->Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people)
-https://rentry.org/oeyupk
->Kaylee in Wonderland, Part Two!
-https://rentry.org/69nav
-```
-***
-Page 8
-***
-```
-Writefags (cont)
->Merry Christmas! (Drone, Mirror Devil, Ryu-kishi)
-https://rentry.org/7vr2zf
->A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut)
-https://rentry.org/hwiz8
 >Dinner For Three (Capture Cloth, Bakeneneko)
 https://rentry.org/adknw
 >Brightly VS The Toy Army
@@ -1033,7 +951,7 @@ https://rentry.org/5apxm5ao
 
 ```
 ***
-Page 9
+Page 8
 ***
 ```
 Writefags (final)
@@ -1070,6 +988,26 @@ https://rentry.org/mxh95sov
 https://rentry.org/9rqp48zf
 >Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper)
 https://rentry.org/wxqgu34w
+>"Writefag" (Slip-N'-Slideasaurus, Sukeban, Fly 1 Million is also kinda there)
+https://rentry.org/tgaaum4e
+>Introduction to Yeti Girl. (Kyoko)
+https://rentry.org/g9z2wh5g
+>Beach Day Intro: (Beach Day, Suki, The Doctor)
+https://rentry.org/LeavingYourLeftoversAllOverThePlace
+>Rob Write Home (Featuring Velvet Worm w/ mentions of the rest of 1-F):
+https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/edit?usp=sharing
++ https://rentry.org/gno9vnt6
+>Will they survive winter? (Kyoko, 1-F)
+>>91842120
+```
+***
+Page 9
+***
+```
+>Writefags (Final)
+>When Something Smells, It's Usually the Nuts (Slimenuts, Karaburan, Mentions of 1-F)
+https://rentry.org/czs9nrcu
++Mommy Link https://rentry.org/duw26qn5
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

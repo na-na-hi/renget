@@ -1,0 +1,13 @@
+!!! danger
+![](https://64.media.tumblr.com/bbe068672b882dc612823f6b8cee8c80/64187484eeee4e29-88/s500x750/d467a579b5f511245545583bb4fdf6b468a1a5bc.gifv)
+
+->![phone](https://media.discordapp.net/attachments/903364339464044575/1077672926825951385/0EBC1F07-0582-4375-860C-5AFB2A280C1D.gif) — **rin lee** or tay [❀](https://rentry.co/rinsflags) ![sapphic with sparkles](https://media.discordapp.net/attachments/870787415172845589/1053304349624897606/Untitled158_20221216153506.png) ![angled aroace with sparkles](https://64.media.tumblr.com/e8d104c11583dca52a5a1c087725d457/9ee89e571c6fa689-aa/s75x75_c1/007ace2e632752e71d972ef044c90bb48a9ed17b.pnj) [![librafluid with sparkles](https://64.media.tumblr.com/e7373e2be2f46bc005a394411c960272/9ee89e571c6fa689-3f/s75x75_c1/df7fb351f81f96a12e0dc474678690e17dbf1269.pnj)](https://www.tumblr.com/sakura-miku-my-love/716374648028282880/antfucker98-is-my-pinterest-nickname-made?source=share) <-
+-> he [/](https://en.pronouns.page/@ant_fucker98) it / she ![red swirl](https://media.discordapp.net/attachments/903364339464044575/1077667889387151422/4A6FF52C-ACF9-4DD1-A870-C89E2447ACD8.gif) *bodily* **4**teen `20.09` <-
+-> `white` *russian* ˊˎ-  **a**utistic ![neomascfem](https://64.media.tumblr.com/bddff46961748b6993816502c256451e/8eb1fad9c5c6a330-67/s75x75_c1/d28851d731f19a3fd35a7fcd77f238f79a866d08.pnj) **a**mbivert ![heart](https://wilardo.crd.co/assets/images/gallery14/4a0a49bc.gif?v=7ff558b6) <-
+-> ***ambi***am ![qpr](https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/45748815_gTr.png) *enfp* ![umbrella](https://64.media.tumblr.com/13a8230617f2c182ad8f6ef7ffbe842d/c5b2bb52a205797d-c6/s75x75_c1/63037d9fa156178843f0202742314433d196cfe2.gifv) ru / eng `only!` <-
+-> ╰┈➤ t**4**t  `ahuman` ![xenogender with sparkles](https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/35821747_LIf.png?1623251719) ~~other~~kin![strawberry necklace](https://64.media.tumblr.com/5aef7aa07124e0e236784f4661a17443/c5b2bb52a205797d-04/s75x75_c1/8296bf94e7de7cd355112a9bc0117d07e6b3a824.gifv) <-
+-> ![I love cats](https://64.media.tumblr.com/eb5584bfd88bda5e80da7a7ec814eca1/66dbb87d0390004d-f7/s250x400/cdfb3734f816b13d6724f90d7fabccaf4fe5968b.gifv)<- 
+
+
+!!! danger
+    -> ![cat 1](https://media.discordapp.net/attachments/903364339464044575/1090715234462871612/649F57A4-677E-4709-80C5-0F2CA15422A6.gif) [pin](https://pin.it/1v2I6Mo) . . . [tumblr](https://www.tumblr.com/sakura-miku-my-love?source=share) . . . [links](https://rentry.co/rins-links) ![cat 2](https://media.discordapp.net/attachments/903364339464044575/1090715235171717180/79B9BE42-3B1F-465B-BF2F-895213601A02.gif) <-

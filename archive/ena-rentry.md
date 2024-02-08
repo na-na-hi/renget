@@ -1,0 +1,11 @@
+!!! info
+-> ![ena graphic](https://64.media.tumblr.com/610cee208f4a28f4cf469d207d1b3c8b/ce15324e588e10ea-1f/s250x400/9172f448e43b404dfac43ffc4b213b7a0c5400e3.gifv) <-
+
+-> ![yellow sparkles](https://media.discordapp.net/attachments/903364339464044575/1090719591132581970/19F1B78A-10C2-43E1-B0EB-5B9125950497.gif) rin lee tay ![blue swirl](https://files.catbox.moe/b4pki9.gif) *bodily* ***4***teen <-
+-> [⌗](https://rentry.co/rinsflags) ![sapphic](https://i.postimg.cc/k5mc1r63/sapphic-3-stripes-20-px.png)![angled aroace](https://i.postimg.cc/q7VmPhFF/aligned-aroace-4-stripes-20-px.png)[![librafluid](https://64.media.tumblr.com/16c8b926894e4842c4a49ee23332e3e0/9754fab0999210fe-98/s75x75_c1/c0d63fb96d23d07403a0d67b26c8dd15e042f484.pnj)](https://www.tumblr.com/sakura-miku-my-love/716374648028282880/antfucker98-is-my-pinterest-nickname-made?source=share)![transneumasc](https://i.postimg.cc/NGnNjsmy/transneumasc-7-stripes-20-px.png)![xenohoarder](https://i.postimg.cc/rs0yYpTv/xenohoarder.jpg) ![yellow bow](https://i.imgur.com/pK1gVSA.gif) he [ﾉ](https://en.pronouns.page/@ant_fucker98) it ﾉ she ![umbrella blue](https://media.discordapp.net/attachments/903364339464044575/1080136523615322254/4BDF2DA5-6B18-47B5-ABBF-347CCC55F053.gif) <-
+-> ==white== russian ![dress blue](https://media.discordapp.net/attachments/903364339464044575/1087693707559567411/IMG_9549.gif) ***ambi***am ==ahuman== <-
+-> ![yellow cat](https://media.discordapp.net/attachments/903364339464044575/1080113000310112380/BE807A42-7085-4E7C-A43C-5976BD0B45CC.gif) silly t**4**t kitten~~kin~~ *enfp* ~~sanguine~~ ![paper clip](https://mikejima.crd.co/assets/images/shadow/c40004e7.gif?v=e37e90e0) <-
+-> ***autistic*** ambivert ![yellow star](https://64.media.tumblr.com/91b4a30dd80c88cf7d140fc32d42419c/cb6a65d31cf4c08f-63/s75x75_c1/6d4a3d99d930dbe5c92590dd8b272fa19715d9d1.gifv) ==ru ﾉ eng== *only!*<-
+
+!!! warning
+    ->   [pin](https://pin.it/1v2I6Mo) : [tumblr](https://www.tumblr.com/sakura-miku-my-love?source=share) : [links](https://rentry.co/rins-links) <-

@@ -1,0 +1,7 @@
+-> [![](https://64.media.tumblr.com/d6403df49b807f905095f0edd72889cb/ad26fd1a0f37a02a-34/s1280x1920/19bb33e8d5c61b458d75726ac9c870511e3a87e8.pnj)](https://www.tumblr.com/selphim/717820161599635456/plutia-from-hyperdimension-neptunia-rentry?source=share)  <-
+-> ***rin*** *or* lee ***!!*** ![swirl](https://pixelbank.neocities.org/decome/swirlys/32686474.gif) he [/](https://en.pronouns.page/@ant_fucker98) it / she ⋆｡˚
+![lollipop](https://pixelbank.neocities.org/decome/sweets/f183512.gif) *bodily* **14** ... ! *white* && libra**fluid** ~~les~~ !!
+***auti***stic + **en**fp [×](https://rentry.co/rinsflags) ![lesbian](https://f2.toyhou.se/file/f2-toyhou-se/images/45748156_2GI5PzMbhhpbr7l.png) ![catgender](https://f2.toyhou.se/file/f2-toyhou-se/images/35821868_zNzbXEGuk2EhBZI.png?1623251719) ***ambi***vert ![nail polish](https://pixelbank.neocities.org/decome/clothing/0d4d7fe9.gif) <-
+-> ![blinkie](https://wilardo.crd.co/assets/images/gallery12/0735f0f0.gif?v=c7d68322) use *tone tags!*  <-
+***
+-> ![kitty](https://wilardo.crd.co/assets/images/gallery28/aca4e372.png?v=c7d68322) [pin](https://pin.it/1v2I6Mo) ☆ [tumblr](https://www.tumblr.com/sakura-miku-my-love?source=share) ☆ [links](https://rentry.co/rins-links) <-

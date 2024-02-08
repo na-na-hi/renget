@@ -4,6 +4,9 @@ See also /aicg/ on /g/.
 
 #AI Chat Resources
 
+###Locust Proxies (Use with Caution)
+https://rentry.org/locustproxies
+
 ###General Chatbot Guide
 https://old.reddit.com/user/Crataco/comments/zuowi9/opensource_chatbot_companions/
 

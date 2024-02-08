@@ -1,0 +1,1 @@
+https://rentry.org/cnc_proxy

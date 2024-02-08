@@ -7,34 +7,12 @@
 
 >General:
 >He is often on the neutral side of things, such as guild members behaving in quite a disruptive manner or messing up their jobs. If someone gets hurt or causes problems for the guild in the long run, that's where he draws the line.
->He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others. Nobody wants to cause pointless damage and have to pay for it!
->He tends to be very secretive when it comes to his past. He might refuse to answer questions relating to that matter or outright lies about it. 
->Although he may act tough, he is actually quite fragile. If you pointed out his flaws, he would be very saddened.
->His favorite food was lava cake and pudding; now it's gold gummis; not like he has a choice anyway! But ever since he found out about the ingredients of his favorite foods is in the Pokémon world, he dreams of making them again, at least once.
-
->Notable Characteristics:
->He uses tilde (~) whenever he is either taunting or sarcastic.
->He sometimes laugh/chuckle with "Kyukyukyu" for whatever reason.
+>He does not resort to violence but tries to understand what the matter is and acts accordingly, for his own safety and that of others.
 >He often uses Telekinesis for somewhat mundane tasks, like when he can multitask by writing in multiple papers or grabbing far away objects, though, he does use it during combat where he has multiple wands in standby right behind him.
->He has a principle that he shouldn't abuse his Psychic powers, like he can just use telepathy on another person if he wanted to know if they did something wrong or they're lying, but he decides against using it and just handle the situation in traditional means as he believes people have reasons to not tell and he respects their privacy. ...Unless, it's something really dire then, he has no choice.
->He seemed to always act happy and friendly, but that's all just a facade.
 
 >Outfit and Possessions:
 >He wears a black cloak with a capelet of the same color. Inside the cloak are multiple pockets where he stocks items such as wands, orbs, seeds, TMs and elixirs for his disposal.
 >He wears a Friend Bow on his left chest, something like a boutonnière, in order to keep the dungeon Pokèmon from getting too aggressive, but that has long been replaced with the Clover Guild badge.
->For food and other essentials for exploring, he uses his trusty treasure bag with some slight modifications, like instead of the Explorers Emblem at the front flap, it uses a certain Flower-like Emblem, and it's not even a clover that the rest of the guild uses.
->There's a Golden Ring that's strapped behind the bag. From what is known, Lliam uses it to teleport across the field, but it appears that it uses so much energy that he only resorts to using it in emergencies.
->Lliam has a special wand named Calida with which he could cast Fire-type moves. The wand is a tree branch and the flame burns eternally at the tip of the branch when it is used, and it doesn't spread anywhere else of that branch. There's a bow (Friend Bow) wrapped in the middle of it, with a teal bangle strapped at the center. But for whatever reason, he prefers to use traditional wands instead of this one.
->Misc items - [An Adventurer's Journal](???), [Lilium Concerto](https://rentry.co/LiliumConcerto), [The Clover Record](???), [The Forgotten and Secret Papers](???), [FF Reports](???)
-
->Secrets:
->At the guild office, there are two secret rooms on each side. To open it, he has to do some sequences on the hidden switches around the room, or he could just teleport inside with his Golden Ring if he feels like it. The left wing's secret room is his bedroom, which has no windows because his wardrobe would block them, so he got rid of it while the right wing's secret room is his personal laboratory, it has windows with blinders to prevent any Pokémon from eavesdropping.
->What's beyond the locked lower basement is an underground pond, and surrounding it is a network of cave systems that leads to various locations in the Grass Continent. It remains sealed because some of the pathways lead to an underground, undiscovered mystery dungeon, which the feral Pokémons there are way too strong for the guild members to handle as of now.
->Someone is living in the guild in one of the secret rooms that nobody is aware of except for Lliam and perhaps others that can sense her aura.
->He writes letters to someone and has her familiar Noctowl, named "The Nuntius", fly to the guild's outdoor area at a certain time of the night in certain days.
->He has his own house at the north east of Capim Town and only Skiddo knows where it is.
->He has a Zorua partner named, "Larkspur", but he is no longer in this world, and Lliam still thinks of him from time to time, especially when he sees other guild members with their partners.
->Along with Zorua, Delphox is also no longer in this world; they're both her students and she's called, "Marigold", which Lliam respects deeply.
 
 >Interactions:
 >When he talks to someone he isn't familiar with or to people he highly respects, he talks very formally: "Hello!", "Thank you so much!", "I apologize, I'll do better!"
@@ -45,23 +23,11 @@
 >Abilities:
 >Keen Eye & Prankster
 
->Support Form Moves:
+>Moves:
 >Reflect
 >Light Screen
 >Helping Hand
->Quick Guard
 >Misty Terrain 
->Psychic Terrain
-
->Combat Form Moves:
->Shadow Ball
->Thunderbolt
->Psybeam
->Psychic
->Expanding Force
-
->Often times, Lliam acts as a supporter when he goes with other people; if alone, he will use his Mage Form. It's when Lliam uses support moves on himself and primarily uses Wands. He usually uses Blast Wands, but he also uses Petrify Wands, Pounce Wands, Slow Wands, and Warp Wands depending on the situation. Support moves such as Reflect and Light Screen are used to perform trick shots from his wands, allowing him to hit enemies from tight spots.
->If he and/or others are in peril, Lliam will reluctantly use his Combat Form, but he has to be very careful as using too much results in him fainting, an unusual case for a Meowstic, and thus, he actively avoids on using this form.
 
 ###Nick/Amelia
 >Nick, Vulpix (M), Calm

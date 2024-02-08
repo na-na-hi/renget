@@ -545,3 +545,108 @@ https://pastebin.com/9TGVy46L
 https://rentry.org/c84dp
 >Rosethorn Date (Ryu-Kishi, Rosethorn)
 https://rentry.org/bwr7m5
+----------------------------------------------------------------------------------------------------------------------------
+Page 11
+----------------------------------------------------------------------------------------------------------------------------
+>Friends 3 (Capture Cloth, Android)
+https://rentry.org/mcagp
+>In the Dojo (Marrow, Marumaru, Yako, Challenger, Recoil, Rosethorn)
+https://rentry.org/i8rd9
+>The Most Complex Piece Anon Has Ever Written? (3-B)
+https://rentry.org/at8vz
+>Sticky Situation (Yamata):
+https://rentry.org/bnihv
+>Night of Fire in Osaka: First Response (Blazing Bright, mention of Midas)
+https://rentry.org/6MonthsOfRotLater
+>To the rescue 1.5
+https://rentry.org/awore
+>Stormy September Sunday (Seiryu, Yamata, Honoken, Yamamoto, Nabiki)
+https://rentry.org/yz972
+>Sunny September Monday (Seiryu, Yamata, Honoken, Mahoudeva)
+https://rentry.org/den5q
+>A chance of fate, or just a single misstep? (Arena, Yamata):
+https://rentry.org/7q425
+>Gossip 8
+https://rentry.org/xqthh
+>A Break in Nagoya (Ryu-kishi, Maru(maru), Challenger, Recoil, Yamata, Capture Cloth, Bakeneneko, Mirror Devil, 1-D, Rosethorn, Desolator, Seiryu, Honoken)
+https://rentry.org/ondcwi
+>Visiting an Old Friend (Yamamoto):
+https://rentry.org/cvwhb
+>THE SECRET LIFE OF SANDATSU OWARI
+https://rentry.org/2v4te
+>Tor Maju Vigilantes (Ryu-kishi, Marrow, Drekus, Maru(maru), Charlatan)
+https://rentry.org/oyfco
+>Steam
+https://rentry.org/rya79
+>Mirror's Mentor (Mirror Devil, Smokin' Sexy)
+https://rentry.org/qycta
+>Sticky Situation 2 (Umi, Yamata):
+https://rentry.org/2qnet
+>The World Is Yours (Reaper, Drekus, Forget-Me-Not, Impakt, Hijack, Feral, The Boys, Overdose)
+https://rentry.org/the-world-is-yours
+>Isekai 3.0?
+https://rentry.org/zuq78
+>Isekai 3.1.
+https://rentry.org/qd6pk
+>Isekai (Inigo Side Story)
+https://rentry.org/abr3m
+>Reaper Rising (Reaper, Drekus, Overdose)
+https://rentry.org/reaper-rising
+>Isekai (Spherethirst Side Story)
+https://rentry.org/s8558
+>MHA Isekai 3.2
+https://rentry.org/4eama
+Writefags (cont.)
+>Call me from the future, past (Yamata, Blast Burn, Arena, Radius):
+https://rentry.org/znbnka
+>Holden On To A Blank (Holden Deckard, Blank)
+https://rentry.org/nfkvx3
+----------------------------------------------------------------------------------------------------------------------------
+Page 12
+----------------------------------------------------------------------------------------------------------------------------
+>I Need A Hero(ine)...! (Satoru Tani)
+https://rentry.org/ynbmqo
+>A Night of Fate (Yamata, Nabiki):
+https://rentry.org/tu4y9
+>??? (Nekiro, Heartbeat)
+https://rentry.org/7thz79
+>Azure Days (Ryu-kishi, Mahoudeva, Maru, Yamata, Octavian, Nesis, Class 1-C, Satoru Tani, Karaburan, Yerricson, others)
+https://rentry.org/ifi3u
+>The Proposal for a Showdown (Yamata, 108 Stars Gang):
+https://rentry.org/h23ps
+>Orochi’s to-do list (Mentions of Sunlight Man, MaruMaru, Spark, Mirror Devil, Yako, Flying Force, Challenger)
+https://rentry.org/xu8f5e
+>Prelude of a Showdown (Yamata, Arena, Orbit, 108 Stars Gang)
+https://rentry.org/764po9
+>Cold Comfort (Capture Cloth, Bakeneneko)
+https://rentry.org/wg6z5 
+>First Battle - The Heat of Combat (Orochi, 108 Stars Gang):
+https://rentry.org/rxc93
+>Showdown - The Burning Will (Yamata,108 Gang)
+https://rentry.org/7o8mq
+>There is Light in the Darkness(Last Rite, Android, Blackout, Aspara, Compound, Agents Law and Waver)
+https://rentry.org/wwyh7
+>Showdown - Friendship Endures (Yamata, 108 gang)
+https://rentry.org/8f9ei
+>tournament fallout (The Clique)
+https://rentry.org/cb5b29
+>The death of her innocence (Yamata, 108 Gang)
+https://rentry.org/gfwgx
+>Clown Party (Popsy, Maru(maru), Ryu-kishi, Last Rite, Capture Cloth, Yako, Fight Man)
+https://rentry.org/PSInternship
+>Law-Abiding Hero (Mirror Devil, Smokin' Sexy):
+https://rentry.org/uoezz
+>Do You See What I see?(Last Rite, Ryukishi, Marumaru, Archangel, Yamata, Rosethorn, Mirror Devil)
+https://rentry.org/6cgfyo
+>The Other Side - B (Arena, Orbit, cameo of Yamata, 108)
+https://rentry.org/w8hvp
+>Language Barrier (Madoka, Nekiro):
+https://rentry.org/Language_Barrier
+>Keiro no Hi (Class 1-D, Rosethorn, a bunch of old people)
+https://rentry.org/oeyupk
+>Kaylee in Wonderland, Part Two!
+https://rentry.org/69nav
+>Merry Christmas! (Drone, Mirror Devil, Ryu-kishi)
+https://rentry.org/7vr2zf
+>A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut)
+https://rentry.org/hwiz8

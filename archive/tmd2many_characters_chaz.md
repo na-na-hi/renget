@@ -83,8 +83,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange. (600 ₽)
-2. Marble Stone | Does 4 true damage to a target, is lobbed.
-3.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
+2. Empty | Empty.
+3.  Empty | Empty.
 4.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
 
 **STORAGE (2 slots)**

@@ -1,0 +1,5 @@
+-> [![](https://64.media.tumblr.com/3b98de4dab52a96623f7b51ff7b82557/980864b911435d2e-9b/s400x600/4a707fe76532d0e3e40400f2226146af61b6f723.gifv)](https://www.tumblr.com/conductrel/719310526412439552/%EA%95%80-%EA%95%80-%EA%95%80-%EA%95%80-%EA%95%80-%EA%95%80-%EA%95%80?source=share) <-
+-> **SERAPH** . . *or rin* ⚢ **s(he)** it dem k[it](https://en.pronouns.page/@ant_fucker98) ,, libra[fluid](https://rentry.co/rinsflags) <-
+->₊˚ ︵︵ **4**teen ^__^ ~~other~~kin . . . im **non** human ໒꒱<-
+->(^▽^)/ **auti**stic doll with *anxiety* **&** iTs . . . ｡ﾟ.<-
+->༺ [pin](https://pin.it/1v2I6Mo) / [tumblr](https://www.tumblr.com/sakura-miku-my-love?source=share) / [links](https://rentry.co/rins-links) ༻<-

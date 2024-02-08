@@ -38,7 +38,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Orner](https://rentry.co/tmd2character_orner) | Native | Seviper | N/A | Team Gildscales
 [Sail](https://rentry.co/tmd2character_Sail) | Native | Goomy | Astronomer | Team Gildscales
 [Sagira](https://rentry.co/tmd2character_sagira) | Ex-Human (Fragmented) | Fennekin | Warlock | Team Stardust
-[Skitty](https://rentry.org/d6w5h) | Ex-Human (Fragmented) | Skitty | N/A | Team Stardust
+[Skitty](https://rentry.co/tmd2character_skitty) | Ex-Human (Fragmented) | Skitty | N/A | Team Stardust
 [Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | Team Stylish
 [Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
 [Wallis](https://rentry.co/tmd2character_wallis) | Ex-Human (Amnesia) | Marshtomp | Water Specialist | Team Clover Force

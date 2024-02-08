@@ -21,6 +21,9 @@ https://shop.hololivepro.com/en/products/hololiveen_1stconcert_rerun
 **Cozy Winter merch set 2024 Limited pre-order period (Ends 13th Feb 1800 JST; Ships mid-June to mid-July)**
 https://shop.hololivepro.com/en/products/nanashimumei_cozywinter2024
 
+**Valentine's Day merch set 2024  Limited quantity pre-order; Ships April 2024**
+https://shop.hololivepro.com/en/products/hololiveen_valentine2024
+
 ###Regular merch
 **OMOCAT CouncilRys apparel** 
 https://www.omocat-shop.com/collections/omocat-x-hololive-en?page=1

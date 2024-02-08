@@ -31,6 +31,9 @@ https://files.catbox.moe/4vxe9j.mp4  New  2/1/24
 >Hamas published a video showing its fighters clash with army vehicles (tanks, APCs & D9-bulldozers) west of Khan Yunis, south of the Gaza Strip.
 https://files.catbox.moe/gva9ri.mp4  New  2/5/24
 
+>MUST WATCH: Al-Qassam (Hamas) published a video showing the sniping of an israeli officer in the Taqaddum axis, west of Gaza City.
+https://files.catbox.moe/jdad1m.mp4 New  2/7/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,8 +49,11 @@ https://files.catbox.moe/qgdkqb.mp4  New  2/2/24
 >WATCH: Al-Quds Brigades published a video showing mortar launches crush army concentrations and IOF soldiers on the front lines of Khan Yunis.
 https://files.catbox.moe/ikk7rh.mp4  New  2/3/24
 
-Al-Quds Brigades published a video showing scenes of their mortar launches crushing military positions and concentrations in the front lines of the axes east and north of the Central Governorate.
+>Al-Quds Brigades published a video showing scenes of their mortar launches crushing military positions and concentrations in the front lines of the axes east and north of the Central Governorate.
 https://files.catbox.moe/2f9lxf.mp4 New  2/5/24
+
+>Al-Quds Brigades published a video showing the firing of several rocket bursts targeting the IOF military sites and concentrations.
+https://files.catbox.moe/1556cd.mp4 New  2/7/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -119,3 +125,11 @@ https://youtu.be/tqG2yeF_4sg  2/6/24
 >The media will NEVER show you this video!
 Palestine protects and serves its people!
 https://files.catbox.moe/xe7sk5.mp4 2/6/24
+>Did Netanyahu misspoke? I think he meant the “unarmed” israeli settlers who attacked the humanitarian aid trucks, bound for Gaza, preventing it from leaving Isdud (Ashdod) port.
+https://files.catbox.moe/u3zb4d.mp4  2/7/24
+>Follow up - A drone targeted a car in the Al-Mashtal area in the capital, Baghdad
+https://files.catbox.moe/tzembz.mp4  2/7/24
+>Iraqi media reports about an American drone attack targeting a vehicle in Baghdad, followed by columns of smoke rising…
+https://files.catbox.moe/4wp1sp.mp4  2/7/24
+>| Reports state that the targeted assassination hit the vehicles of Kataib Hezbollah commanders, namely Abu Baqir al-Saadi and Hajj Arkan al-Alaywi.
+https://files.catbox.moe/g6ecna.mp4  2/7/24

@@ -1,0 +1,8 @@
+-> ![](https://64.media.tumblr.com/cbd4b2dd1671b96acb560cf3a286486f/6ff9c27a51d3dcdf-36/s400x600/4ebcfc135b2556d4672141c62d6626c5c9cfe9a9.jpg) <-
+
+-> ![neurodivergent disability](https://64.media.tumblr.com/1af3464431cbe7bc5eea4f4583d35bc8/e5b2612a8ede2821-4e/s75x75_c1/a17d8239664d10d46663e2be8de90d3463954aa5.pnj) ; lee ***rin*** ☆ he / it  ´ˎ˗  [![sapphic](https://i.postimg.cc/k5mc1r63/sapphic-3-stripes-20-px.png)](https://rentry.co/rinsflags2) [![angled aroace](https://i.postimg.cc/q7VmPhFF/aligned-aroace-4-stripes-20-px.png)](https://rentry.co/rinsflags2) [![librafluid](https://64.media.tumblr.com/16c8b926894e4842c4a49ee23332e3e0/9754fab0999210fe-98/s75x75_c1/c0d63fb96d23d07403a0d67b26c8dd15e042f484.pnj)](https://www.tumblr.com/sakura-miku-my-love/716374648028282880/antfucker98-is-my-pinterest-nickname-made?source=share) ![xenohoarder](https://i.postimg.cc/rs0yYpTv/xenohoarder.jpg) <-
+-> **4teen** yrs old . .  ![](https://pixelbank.neocities.org/nukos/f1844553.gif)   VIRGO ‎ ENFP ‎  [byf](https://rentry.co/-1990) + [dni](https://rentry.co/-1990)<-
+-> **autism** + anxiety 𓆩♡𓆪 hyperromsex ![](https://pixelbank.neocities.org/decome/decorative/6c288d5d.gif) <-
+-> rus/eng only ![](https://pixelbank.neocities.org/decome/swirlys/374c77e1.gif) . . ~ i luv my gf <-
+-> ![](https://i.imgur.com/MwMKoiL.png) <-
+-> [pin](https://pin.it/1v2I6Mo) . . . [tumblr](https://www.tumblr.com/sakura-miku-my-love?source=share) . . . [links](https://rentry.co/rins-links) <-

@@ -23,6 +23,12 @@ Yaara: https://i.imgur.com/6PUxrzs.png
 ####Writing Tools and Resources
 https://rentry.org/Writing-Resources-and-Other-Things
 
+####Anon's NovelAI Guides
+https://rentry.org/co-writing-guide
+https://rentry.org/memory-guide
+https://rentry.org/lorebook-guide
+https://rentry.org/an-guide
+
 ####Runpod x Kobold Guide
 https://rentry.org/uvyqd
 

@@ -1,0 +1,11 @@
+-> ![I feel a sin coming on png](https://64.media.tumblr.com/d08b1b0d85c9891d902851398093a764/026cbbc9b24e1367-40/s400x600/01edd186c1a60c8af55d0cdb928e98c8f9b0f13b.jpg) <-
+-> ![A gif of a chain moving horizontally](https://i.postimg.cc/kg9mWWhp/ezgif-5-f0840919c0.gif)![A gif of a chain moving horizontally](https://i.postimg.cc/kg9mWWhp/ezgif-5-f0840919c0.gif) <-
+
+-> ![electric guitar](https://i.postimg.cc/7ZqD8gDy/ezgif-5-65bca37baa.gif) ***rin*** lee or tay ![swirl](https://i.imgur.com/2DNGCyT.gif) he [/](https://en.pronouns.page/@ant_fucker98) it / she .ೃ࿐ <-
+-> ![wing 1](https://64.media.tumblr.com/3bafee29c48218b6838ab69ded2f8761/3fe4c2706e5d6a04-78/s75x75_c1/c13beac6c4edf8d121fe69c615d5aaf8dc8b96f1.gifv) `white russian` ![cat listening to music pixel](https://i.postimg.cc/g0ZHd6GG/7c59c1503bb0aec59694e3b7b1bb196331a341b6.gif) **a**utistic **a**mbivert ![wing 2](https://64.media.tumblr.com/70c6e786b8586c913ca5f6839ad2727a/3fe4c2706e5d6a04-d4/s75x75_c1/7190058451fb178a0560d855e682bc573be184b9.gifv) <-
+-> ![raven](https://cdn.discordapp.com/attachments/860333357169508355/1055302085706526840/MZ66jEO.gif) *bodily* **4**teen ˊˎ-  petre `ahuman` ~~other~~kin <-
+-> `ru/eng` only! [**⌗**](https://rentry.co/rinsflags) ![sapphic](https://i.postimg.cc/k5mc1r63/sapphic-3-stripes-20-px.png) ![angled aroace](https://i.postimg.cc/q7VmPhFF/aligned-aroace-4-stripes-20-px.png) ![t4t](https://i.postimg.cc/d0n6PwJV/trans-4-trans-7-stripes-20-px.png) [![librafluid](https://64.media.tumblr.com/16c8b926894e4842c4a49ee23332e3e0/9754fab0999210fe-98/s75x75_c1/c0d63fb96d23d07403a0d67b26c8dd15e042f484.pnj)](https://www.tumblr.com/sakura-miku-my-love/716374648028282880/antfucker98-is-my-pinterest-nickname-made?source=share) ![transneumasc](https://i.postimg.cc/NGnNjsmy/transneumasc-7-stripes-20-px.png) ![xenohoarder](https://i.postimg.cc/rs0yYpTv/xenohoarder.jpg) <-
+-> ![I love horror girls blinkie](https://64.media.tumblr.com/ecd54211d5715f6d7a55b8f1abb7bbb9/3fcb839d9e1d9fda-de/s250x400/e44dd6fd61e66bfac96a1df98ac662c25a00c31d.gifv) <- 
+
+
+-> ![1](https://i.postimg.cc/05fd8v1K/4fb5e77b300b135f75658def4a7c7882b09062a3.gif) [pin](https://pin.it/1v2I6Mo) ☆ [tumblr](https://www.tumblr.com/sakura-miku-my-love?source=share) ☆ [links](https://rentry.co/rins-links) ![2](https://i.postimg.cc/SsG8N63b/32e963d12e70e571afd799fa3c6f0475642887ec.gif) <-
