@@ -155,7 +155,7 @@ I would recommend using QR Send all the time though.
 ***
 ##JAVASCRIPT SETUP
 This is for my cards that use JS.
-Follow it carefully or you will get mustard gas.
+Follow carefully or you'll get mustard gas (jk, worst case, the card will not work)
 Huge thanks to stscript anon for sharing how to enable JS with STScript: https://rentry.org/stscript
 Be sure to check the link as it explains more about why we do this setup.
 ***
@@ -164,7 +164,7 @@ Be sure to check the link as it explains more about why we do this setup.
 
 You'll only need to do this once.
 
-1. First install a user script browser extension. I use ViolentMonkey. Other extensions should work too.
+1. First install a user script browser extension. I use ViolentMonkey. Other similar extensions should work too.
 
 2. Open the extension settings. Look for a plus sign or something that allows you to add a new script.
 ![1](https://files.catbox.moe/i0ed83.png)
@@ -178,7 +178,7 @@ You'll only need to do this once.
 const sanitize = DOMPurify.sanitize;
 DOMPurify.sanitize = str => str.startsWith("#STSCRIPT") ? str.replace("#STSCRIPT", "") : sanitize(str);
 ```
-- In the end, it should look like:
+- What it should look like:
 ![1](https://files.catbox.moe/8wb6gz.png)
 
 4. For added security, replace `#STSCRIPT` with anything you like. This will act as a sort of password.

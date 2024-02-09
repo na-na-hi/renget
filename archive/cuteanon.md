@@ -2,28 +2,33 @@ cute anon's shill rentry for you to read and enjoy
 
 burner: acuteanon@proton.me
 
-Cards:
+Cards (in order of creation):
 
-Mario & Luigi: https://files.catbox.moe/4f6hxr.png
-Paper Mario: https://files.catbox.moe/mhp6ed.png
-Shy Guy: https://files.catbox.moe/jn7sxp.png
-Dimentio: https://files.catbox.moe/9l243l.png
-Fox McCloud: https://files.catbox.moe/550puu.png
-The Piklopedia: https://files.catbox.moe/wc1dio.png
-Black Mage: https://files.catbox.moe/ngx5gr.png
 Murasa Minamitsu: https://files.catbox.moe/rbw7gx.png
-Son Goku (Youth): https://files.catbox.moe/1cpbv5.png
+Starborn (OC): https://files.catbox.moe/povy24.png
+Paper Mario: https://files.catbox.moe/mhp6ed.png
+Mario & Luigi: https://files.catbox.moe/4f6hxr.png
+Fox McCloud: https://files.catbox.moe/550puu.png
+Black Mage: https://files.catbox.moe/ngx5gr.png
+Dimentio: https://files.catbox.moe/9l243l.png
+The Piklopedia: https://files.catbox.moe/wc1dio.png
+Minny (Pikmin OC, kinda sucks): https://files.catbox.moe/z0ew3m.png
 Vegeta: https://files.catbox.moe/3ozofx.png
-Starborn: https://files.catbox.moe/povy24.png
+Son Goku (Youth): https://files.catbox.moe/1cpbv5.png
+Shy Guy: https://files.catbox.moe/jn7sxp.png
+Ryona Generator (OC?): https://files.catbox.moe/0vgzy1.png
+INFINITE MARIO: https://files.catbox.moe/qgalwi.png
+Scourge (OC): https://files.catbox.moe/d7f7og.png
+Erdrick: https://files.catbox.moe/tl4yan.png
 
-Direct C.AI ports:
+Direct C.AI ports (in no particular order):
 
 Super Mario: https://files.catbox.moe/c68m8x.png
 Donkey Kong -kart-: https://files.catbox.moe/ct2dtw.png
 Shy Gal: https://files.catbox.moe/m7am48.png
 Doremy Sweet: https://files.catbox.moe/j34s8n.png
 Punished Reisen: https://files.catbox.moe/mbuhku.png
-
+metalkek: https://files.catbox.moe/xgelrx.png
 
 Old character.ai links:
 
@@ -53,3 +58,6 @@ THE ALIEN: https://beta.character.ai/chat?char=KJpBw1p65ureNOw3ke7eGM6KPhqEmxbNl
 Evil Guy (i'm pretty sure this guy is shadowbanned): https://beta.character.ai/chat?char=T3sHG72nY-7I8IWo7p1U_b-q_8HvKooG4AzGH4LovlA
 The Server Room: https://beta.character.ai/chat?char=1ZGtVNiwzzJ89SbLR5ryWbRTRiG8FXgCfyzLJMHoWaE
 Something Else: https://beta.character.ai/chat?char=eNgO5Uqef1xx7T1nUHlERibO04hFFO1MxBtWXy-4iUg
+Robot Santa Claus: https://beta.character.ai/chat?char=KiHAv8P_aCNTGrgol5x--0h5MfKjzROyOiz_KF_3Df4&
+
+(note: most cards are also uploaded on chub, though some might be anonimous since I figured we'd all upload anonymously at the start and my name is cute ANON.)

@@ -27,6 +27,9 @@
 **Cosmo Ruru (Indie)** - https://civitai.com/models/288020/cosmo-ruru
 **Yagoo (Hololive)** - https://files.catbox.moe/a9hbln.safetensors
 **Dokibird (indie)** - https://files.catbox.moe/0nz6d2.safetensors (check lora for tags? idk) or https://litter.catbox.moe/cn6gm6.safetensors (litter lol) or https://civitai.com/models/297993/dokibird-vtuber
+**MadDogKiss (Indie)** - https://civitai.com/models/298576/maddogkiss
+**Tama Shoko (Indie)** - https://civitai.com/models/298662
+**Ryogoku Tsukasa (Specialite)** - https://civitai.com/models/298812/ryogoku-tsukasa
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -42,6 +45,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Usada Pekora (Hololive)** - https://civitai.com/models/288104/usada-pekora-hololive
 **Mozumi Pichi (VDere)** - https://civitai.com/models/290670/mozumi-pichi
 **Emikukis (OWOzu)** - https://civitai.com/models/290992/emikukis-vtuber-commission
+**Oozora Subaru (Hololive)** - https://civitai.com/models/299444/oozora-subaru-hololive
 
 ### -> SDXL (will not test, unless..?) <-
 **Fallenshadow / Shondo (Indie)** - https://civitai.com/models/265519/fallenshadow-sdxl

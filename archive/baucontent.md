@@ -24,3 +24,6 @@ if you know of a vn or anime they've watched, mentioned they're interested in, o
 ### /baubau/ thread watcher 
 https://ruffians425015.github.io/threadwatcher/
 allows you to sync vods with a thread, emulating the "you were there live" experience
+
+### VTL Team Page Info
+https://implyingrigged.info/wiki//baubau/

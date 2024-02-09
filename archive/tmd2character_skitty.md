@@ -80,9 +80,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Oran Berry | Heals the User for 10HP.
+1. Poison-Type Gem | Holding this makes you feel acidic. Boosts a Poison-Type move's damage by 3.
 2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
-3. Persim Berry | Cures Confusion.
+3. Oran Berry | Heals the User for 10HP.
 4. Acidic Seed | Causes Poison on consumption.
 
 **STORAGE (2 slots)**

@@ -86,6 +86,15 @@ Draw the area where you want to place the tiny person. Once you’re done, click
 Add `mini person` and other tags which are related to the tiny person at the beginning of the prompt and insert them into multiple {} (I recommend 6, at least). Click on Generate and you should be able to see a tiny person in your pic now!
 !!! info Tips
 	If you want to describe multiple aesthetical features of the shrunken person and you want to avoid any possible overlapping with the image you've already created, it's recommended to delete the prompt of the main pic (see Step 1). 
+# List of tags of size artists who are recognized by NAI
+- `karbo`
+- `kuro oolong`
+- `utopia`
+- `uru (uru0000)`
+- `seo tatsuya`
+- `terada ochiko`
+!!! info Note
+	If anyone of you stumbles upon any other size artists who appear to be recognized by NAI, please let me know and I'll update the list as soon as possible.
 # Further tips on inpainting and manual editing (by fairy anon)
 1. If there's a small error (like hand/fingers/other minor stuff) you can often just mask that area with inpaint and reroll with the same prompt. Inpaint takes into account your prompt and the image as a whole to determine what to draw
 2. If you want to add some thing for a person to hold/wear/etc you can also just mask that area and change prompt to include the thing that you want to add and it should work most of the time

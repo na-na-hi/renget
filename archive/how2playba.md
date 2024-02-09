@@ -163,7 +163,7 @@ For the actual guides, use any of the following:
 ## Team formation
 In general a team consists of 1 tank, 1 healer, and DPS.
 You want to match the colour of ur enemy with your attack type (e.g. red unit good into red mob). 
-![Typings](https://i.imgur.com/x6eZlVK.jpeg)
+![Typings](https://i.imgur.com/Bffw37V.png)
 **Weak** does 200% damage.
 **Normal** does 100% damage.
 **Resist** does 50% damage.
@@ -842,7 +842,7 @@ In case you didn't see it already, [most stuff is inside the bagguides rentry. U
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
 
 # Afternote 
-Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the 4chan /bag/ thread and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated. 
+Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the [4chan /bag/ thread](https://boards.4chan.org/vg/catalog#s=Blue%20Archive) and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated. 
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.
 

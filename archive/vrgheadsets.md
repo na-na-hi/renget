@@ -39,7 +39,9 @@ According to rumors, Pico 5 has supposedly been cancelled and there are no new p
 
 #####--- DISCONTINUED HEADSETS ---#
 
-Reverb G2 is still a decent option for sim players if you can find it for a good price. Headset resolution is high, but the controller tracking, while still usable, is subpar compared to other headsets. Playing some heavier SteamVR games through the WMR software can add some overhead, [OpenComposite](https://gitlab.com/znixian/OpenOVR) can help if you're running into performance issues there.
+**Be warned, Microsoft is dropping support from future Windows versions and supposedly will be won't be hosting the required UWP apps anymore, so any cheap WMR headset you pick up now may become unusable in the future**
+
+Reverb G2 can still be a decent option for sim players if you can find it cheap enough. Headset resolution is high, but the controller tracking, while still usable, is subpar compared to other headsets. Playing some heavier SteamVR games through the WMR software can add some overhead, [OpenComposite](https://gitlab.com/znixian/OpenOVR) can help if you're running into performance issues there.
 
 In general, older headsets like the Vive, Rift CV1, or any WMR headset other than the Reverb G2 are only worth picking up if you can find one very cheap.
 

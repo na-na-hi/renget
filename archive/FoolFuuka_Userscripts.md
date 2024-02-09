@@ -14,5 +14,5 @@ what it's called|what it does
 ## Janny/mod actions
 what it's called|what it does
 ---|---
-[Janny calc](https://gist.github.com/4chenz/6db47eeb612be24d5ab75628cbf397cf) | Shows deletion times. If the time is red then the post was (probably) not deleted by the poster.
+[Janny calc](https://gist.github.com/4chenz/6db47eeb612be24d5ab75628cbf397cf) | Shows deletion times. If the time is red then the post was (probably) not deleted by the poster. Unofficial [V2](https://files.catbox.moe/0t0wcw.txt) with times in days, hours, minutes, seconds.
 [4bans @ archives](https://gist.github.com/4chenz/d92d5f974a26a9d6fd5c6adf91db3ca2) | Shows public ban data on deleted posts, via 4bans.

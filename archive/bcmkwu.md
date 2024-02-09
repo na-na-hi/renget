@@ -1,3 +1,11 @@
+>Tucker Carlons interview with Putin
+https://files.catbox.moe/il9qbm.mp4 (part 1)
+https://files.catbox.moe/z13j9y.mp4 (part 2)
+https://files.catbox.moe/8exmyb.mp4 (after)
+>captured AFU positions [NOT COMFY]
+https://files.catbox.moe/6i9cuj.mp4
+>Avdeevka getting FAB'd heard from Donetsk
+https://files.catbox.moe/tqjf4r.mp4
 >Nice footage of Ka-52 flying and firing at hohol positions
 https://files.catbox.moe/vp6yci.mp4
 >Russian tank shrugs off hohol drone

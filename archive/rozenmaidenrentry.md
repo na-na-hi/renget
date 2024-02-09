@@ -20,7 +20,8 @@
 ###-> Next: <-
 #### -> **Rozen Maiden: Zurückspulen** <-
 #### -> [Download and read the manga first](https://www.mediafire.com/file/j027vet2qkw2o5e/Manga.zip/) <-
--> You have less than a week. <-
+-> You don't really have to read further than Phase 43 (or Tale 26, if you've decided to continue), you can finish it after the anime. <-
+-> You have less than a ~~week~~ day. <-
 #### -> Saturday, February 10th, 5pm UTC <-
 
 
