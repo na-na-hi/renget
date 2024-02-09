@@ -702,6 +702,7 @@ Chestburster Runt: https://desuarchive.org/tg/post/91793136/
 1-F seating chart(s): https://desuarchive.org/tg/post/91802597/
 1-F seating chart(s): https://desuarchive.org/tg/post/91802680/
 Rob out of costume: https://desuarchive.org/tg/post/91807419/
+1-F's Velvet Worm Shooter!: https://files.catbox.moe/t20u97.mp4
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4

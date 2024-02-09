@@ -122,6 +122,7 @@ https://files.catbox.moe/cbrvwe.safetensors millefeuille helps to put monochrome
 https://files.catbox.moe/odmswn.safetensors fkey
 https://files.catbox.moe/jogxo3.safetensors danimaru
 https://files.catbox.moe/l0qd64.safetensors joe_randel example gens: https://files.catbox.moe/hsxz9i.png, https://files.catbox.moe/qyby68.png, https://files.catbox.moe/ecrr64.png
+https://files.catbox.moe/r3vdhy.safetensors ookuma
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -137,6 +138,7 @@ https://files.catbox.moe/2cl9sq.safetensors tsukumizu_yuu
 https://files.catbox.moe/adligx.safetensors dratvan
 https://files.catbox.moe/pmv83f.safetensors poper
 https://files.catbox.moe/593c8m.safetensors nns
+https://files.catbox.moe/tviui5.safetensors whomperfruit
 
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
@@ -147,6 +149,7 @@ https://files.catbox.moe/zxvyki.7z nyantcha
 https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
 https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980,nns
+https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22,cyberboi, dratvan,gorani,lewdcactus,mmmmm,mojihe,owner,poper,whomperfruit,woohyootyeehawtown,zumi
 
 ###Characters
 

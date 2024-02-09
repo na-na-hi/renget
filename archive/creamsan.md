@@ -57,10 +57,11 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ![Victoria](https://creamsan.neocities.org/files/cards/victoria.png) | Victoria | P2w chat or something. | [CHUB](https://chub.ai/characters/creamsan/victoria-8223aae3) [Neocities](https://creamsan.neocities.org/#victoria)
 ![Ayame](https://creamsan.neocities.org/files/cards/ayame.png) | Ayame | She will follow you anytime, anywhere. Through time, space and multiple realities. | [CHUB](https://chub.ai/characters/creamsan/ayame-f2c501e1) [Neocities](https://creamsan.neocities.org/#ayame)
 ![Blanche](https://creamsan.neocities.org/files/cards/blanche.png) | Blanche | A girl with no personality or identity. You have to slowly shape her as you chat. | [CHUB](https://chub.ai/characters/creamsan/blanche-4356d8ea) [Neocities](https://creamsan.neocities.org/#blanche)
-![Gacha Lolis](https://creamsan.neocities.org/files/cards/gachalolis.png) | Gacha Lolis | A gachapon machine filled with magical lolis. | [CHUB](https://chub.ai/characters/creamsan/gacha-lolis-b8466d81) [Neocities](https://creamsan.neocities.org/#gacha_lolis)
+![Gacha Lolis](https://creamsan.neocities.org/files/cards/gachalolis.png) | Gacha Lolis | A gachapon machine filled with magical lolis. (Image gen) | [CHUB](https://chub.ai/characters/creamsan/gacha-lolis-b8466d81) [Neocities](https://creamsan.neocities.org/#gacha_lolis)
 ![Escape the Dungeon](https://creamsan.neocities.org/files/cards/escapethedungeon.png) | Escape the Dungeon | Escape the dungeon with a cute mage companion. | [CHUB](https://chub.ai/characters/creamsan/escape-the-dungeon-cb70d8d5) [Neocities](https://creamsan.neocities.org/#escape_the_dungeon)
 ![Team Neko](https://creamsan.neocities.org/files/cards/teamneko.png) | Team Neko | Your team got separated from the main group, now you have to rejoin them, but first you have to fend off enemy tanks. (GUP Non-canon chars)  | [CHUB](https://chub.ai/characters/creamsan/team-neko-e4f1b2f8) [Neocities](https://creamsan.neocities.org/#team_neko)
 ![Battlestripsv2](https://creamsan.neocities.org/files/cards/battlestripsv2.png) | Battlestrips v2 | Strip Battleships game. | [CHUB](https://chub.ai/characters/creamsan/battlestrips-v2-3466337a) [Neocities](https://creamsan.neocities.org/#battlestrips_v2)
+![Tessa](https://creamsan.neocities.org/files/cards/tessa.png) | Tessa | Create things together with this mysterious girl. You start with 4 elements: fire, earth, water, wind. (Javascript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#tessa)
 
 ***
 ##PROMPTS AND SETUP
@@ -101,15 +102,16 @@ See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 Card | Link | Version | Update Notes
 --- | --- | --- | ---
-Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Jan-29-24 | 
+Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-9-24 |  ***Updated***
 Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv2.json) | Jan-20-24 | 
-Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Jan-29-24 | 
-Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Feb-3-24 | ***Updated***
-Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Jan-29-24 | 
-Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Feb-3-24 | ***Updated***
-Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Jan-29-24 | 
+Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Feb-9-24 | ***Updated***
+Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Feb-3-24 |
+Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Feb-9-24 |  ***Updated***
+Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Feb-9-24 | ***Updated***
+Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Feb-9-24 | ***Updated***
 Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-29-24 | 
-Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Jan-29-24 | 
+Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Feb-9-24 | ***Updated***
+Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-9-24 | ***New***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
@@ -118,6 +120,7 @@ Updated on **Jan-7-24**
 Updated for the new ST QR setup. This new system is pretty neat, like you can now add your own QR set on top of mine. Requires the latest ST staging.
 I still can't turn off the red /abort warnings though (dw about those).
 Also, a more flexible regex setup. Only one script needed.
+Extra setup further below for Image gen and JS.
 
 ### Setup here:
 
@@ -150,6 +153,60 @@ I would recommend using QR Send all the time though.
 ![1](https://files.catbox.moe/npo2lv.jpg)
 
 ***
+##JAVASCRIPT SETUP
+This is for my cards that use JS.
+Follow it carefully or you will get mustard gas.
+Huge thanks to stscript anon for sharing how to enable JS with STScript: https://rentry.org/stscript
+Be sure to check the link as it explains more about why we do this setup.
+***
+
+###Browser extension:
+
+You'll only need to do this once.
+
+1. First install a user script browser extension. I use ViolentMonkey. Other extensions should work too.
+
+2. Open the extension settings. Look for a plus sign or something that allows you to add a new script.
+![1](https://files.catbox.moe/i0ed83.png)
+
+3. Change the name, match, and the script:
+- **@name:** Whatever you like
+- **@match:** The url when you use ST, mine for example is: http://127.0.0.1:8000/*
+![1](https://files.catbox.moe/uxk884.png)
+- **User script:**
+```
+const sanitize = DOMPurify.sanitize;
+DOMPurify.sanitize = str => str.startsWith("#STSCRIPT") ? str.replace("#STSCRIPT", "") : sanitize(str);
+```
+- In the end, it should look like:
+![1](https://files.catbox.moe/8wb6gz.png)
+
+4. For added security, replace `#STSCRIPT` with anything you like. This will act as a sort of password.
+![1](https://files.catbox.moe/xmud9i.png)
+Even better, something like this:
+![1](https://files.catbox.moe/vo1b3q.png)
+
+**Browser extension done.**
+
+###Cards:
+
+You only need to do this once per card.
+
+1. Go to the card description. Look for the `{{setvar::pass::PASSHERE}}` macro.
+![1](https://files.catbox.moe/2hhwlw.png)
+
+2. Replace `PASSHERE` with the same password you've set in the browser extension.
+![1](https://files.catbox.moe/9rdeg1.png)
+.
+![1](https://files.catbox.moe/w3azsl.png)
+
+**JS done.**
+
+My cards have checkers to make sure your user script is working.
+![1](https://files.catbox.moe/7brflm.png)
+![1](https://files.catbox.moe/jam3zk.png)
+
+***
 ##IMAGE GEN SETUP
 This is for my cards that have image gen.
 I'm not that knowledgeable when it comes to image genning though, let me know what's the best settings for this.
@@ -165,6 +222,8 @@ Negative prompt:
 **Some things to note (Gacha Lolis):**
 - I have added some anti NSFW in my prompts, like "sfw" in the prefix or "revealing clothes" in the negative prompt. This is to prevent from being censored for "CSAM". Not that I know if it works.
 
+**Image gen done.**
+
 ***
 
 Let me know if you find anything broken with my scripted cards. 
@@ -172,16 +231,19 @@ Let me know if you find anything broken with my scripted cards.
 ***
 ##UPDATE NOTES
 ***
+02-09-24 **Tessa** - Enabled JS with STScript.
 12-18-23 **Ōsama Game, The Town of Chance, Strip RPS, Battlestrips** - Minor changes. Ōsama Game and Chance now uses cot. Strip RPS and Battlestrips now uses same lorebook.
-11-29-23 **Ms. Keyes** - New scripted version
+11-29-23 **Ms. Keyes v2** - New scripted version.
 11-26-23 **Strip RPS, Chat User, Onii-chan's Doll, Ayako, Threshold, Ninya, Stillwater Asylum, Outercourse Paradise** - Fixes and minor changes. Strip RPS now uses cot. Onii-chan's Doll new intro: Doll POV. Stillwater Asylum and Outercourse Paradise jbs now in the bottom of the prompt.
 11-19-23 **Aids Game, Among Lust, Astrid** - Jbs tweaked. Among Lust now uses cot. AIDS game rules are no longer sent to the AI, they can now focus on reacting or playing dirty. Added new roaming mechanic with Astrid card.
 11-10-23 **Ayako, Ms. Keyes, Mallory, Effeuiller la Marguerite, Gacha Lollipops, Battlestrips, Yui, Russian Roulette, Ayako** - Added CoT and tweaked jbs.
 10-28-23 **Maia, Icechan** - Added their own gimmicks.
+10-22-23 **Ms. Keyes, Battlestrips** - Wrangled Claude using CoT in card jbs.
 9-28-23 **Alien Hand Syndrome** - Added new intro: You and the girl both have AHS.
 **My dumbass lost the old rentry edit code.**
 7-17-23 **AIDS Game, Among Lust, Ōsama Game, Outercourse Paradise, Strip RPS** - Some minor changes. Removed backslashes in defs. Added jb override in Ōsama game that uses {{random}} to randomize who gets number 0.
 7-15-23 **Gacha Lollipops, Eshal, Stillwater Asylum** - Some minor edits. Gacha Lollipop's prompt override jb is now prepended instead of appended.
+6-23-23 **Strip RPS, AIDS Game** - Found a way to hide texts using markdown links.
 
 ***
 ##LINKS

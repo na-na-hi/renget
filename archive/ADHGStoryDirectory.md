@@ -1343,18 +1343,22 @@ https://archiveofourown.org/works/47272258
 ###SomaticDream
 
 >YEEN'D.com
+- [x] Completed
 
 https://archiveofourown.org/works/50024581
 
 >The Three Hotties Problem
+- [x] Completed
 
 https://archiveofourown.org/works/52586353/chapters/133017781#workskin
 
 >Abandoned
+- [x] Completed
 
 https://archiveofourown.org/works/41688777/chapters/104576295
 
 >Adopted
+- [x] Completed
 
 https://archiveofourown.org/works/45980581
 
@@ -1363,38 +1367,45 @@ https://archiveofourown.org/works/45980581
 https://archiveofourown.org/works/47311846/chapters/119214523
 
 >Rules of Nature
+- [x] Completed
 
 https://archiveofourown.org/works/45692056
 
 ###TheEcstatic
 
 >Pressing Matters
+- [x] Completed
 
 https://archiveofourown.org/works/51365653/chapters/129796966
 
 ###TheSignalRemains
 
 >The Price of Carelessness
+- [x] Completed
 
 tags: failed demon summoning, soul eating, mind control
 
 https://archiveofourown.org/works/51064114
 
 >I Came Back
+- [x] Completed
 
 tags: cryptid, rape, scent, obsession
 
 https://archiveofourown.org/works/51272314
 
 >I Met Her at the DMV
+- [x] Completed
 
 https://archiveofourown.org/works/38187553
 
 >Blood in the Dark
+- [x] Completed
 
 https://archiveofourown.org/works/47282515
 
 >Black Powder
+- [x] Completed
 
 https://archiveofourown.org/works/40448022
 
@@ -1413,22 +1424,26 @@ https://archiveofourown.org/works/36365845
 https://archiveofourown.org/works/47339197?view_full_work=true
 
 >Of tires and trouble
+- [x] Completed
 
 https://archiveofourown.org/works/45088000
 
 ###Threeeightnine
 
 >Darn (Magical) Cat
+- [x] Completed
 
 https://archiveofourown.org/works/38386957
 
 >Mistress Ninghong
+- [x] Completed
 
 https://archiveofourown.org/works/38259031
 
 ###worker_9
 
 >Rabbit to the Wolves
+- [x] Completed
 
 tags: wolfgirls, scent kink, scent marking, sweat, bodily fluids, cunnilingus, vaginal sex, human-like genitalia, 3rd person, one shot, 7.3K words
 
@@ -1437,6 +1452,7 @@ https://archiveofourown.org/works/46450948
 ###WritefriendSnippet
 
 >Anthro Insurrection
+- [x] Completed(?)
 
 https://archiveofourown.org/works/41260185/chapters/103445190
 
@@ -1445,6 +1461,7 @@ https://archiveofourown.org/works/41260185/chapters/103445190
 https://archiveofourown.org/works/43421380
 
 >Modern Medicine Redux
+- [x] Completed
 
 https://archiveofourown.org/works/42388011
 
@@ -1459,22 +1476,27 @@ https://archiveofourown.org/works/52617811/chapters/133095286
 ###wwormboy
 
 >Calm Night Estrangements
+- [x] Completed
 
 https://archiveofourown.org/works/53543353
 
 >Human Trafficking in the Anthrostate
+- [x] Completed
 
 https://archiveofourown.org/works/42316728/chapters/106260720
 
 >A Python's Belonging
+- [x] Completed
 
 https://archiveofourown.org/works/42475029
 
 >Quiet Dog
+- [x] Completed
 
 https://archiveofourown.org/works/42957591
 
 >Something in the Bayou
+- [x] Completed
 
 https://archiveofourown.org/works/46091158?view_adult=true
 
@@ -1485,12 +1507,14 @@ https://archiveofourown.org/works/46091158?view_adult=true
 https://archiveofourown.org/works/48272710/chapters/121740817
 
 >An Angel with Scales
+- [x] Completed
 
 https://rentry.org/c7bfn5
 
 ###ZanderDander
 
 >Bright White Mischief
+- [x] Completed
 
 https://archiveofourown.org/works/41810556/chapters/104901090
 
@@ -1499,6 +1523,7 @@ https://archiveofourown.org/works/41810556/chapters/104901090
 https://archiveofourown.org/works/36645241/chapters/91407169
 
 >Predatory Dating
+- [x] Completed
 
 https://archiveofourown.org/works/36301060
 
@@ -1511,6 +1536,7 @@ https://archiveofourown.org/works/36301060
 ###Anonymous
 
 >An Unconventional Yeen GF
+- [x] Completed
 
 tags: Yeen, pseudo penis, public sex, public masturbation, public humiliation, anal sex, prostate stimulation, bully, handjobs, cuckquean, ntr, male human/anthro femboy, girly
 
@@ -1519,6 +1545,7 @@ https://rentry.co/gd734hgs
 ###Alphafacefaultdyke
 
 >Assessment Shelbag and REEL>M>V"
+- [x] Completed
 
 https://rentry.org/agfhi
 

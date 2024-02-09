@@ -107,12 +107,13 @@ More in the [4th Fes rentry](https://rentry.org/who_4thfes)
 | Date | POV | Link + Title |
 |------|-----|-----|
 | 2022-11-20| Ame | [【COLLAB】OW2 RANKED w/ SelAMei](https://www.youtube.com/watch?v=fPGqfyWhKOw) |
-| 2022-11-20|  Selen (Dead link due to contract termination in Feb 2024) | [【OVERWATCH 2 COLLAB】NIJIHolo toxic FPS crew](https://www.youtube.com/watch?v=0xOcFfftBCM) |
+| 2022-11-20|  Selen (Original VOD dead due to termination from Nijisanji EN in Feb 2024.) | [【OVERWATCH 2 COLLAB】NIJIHolo toxic FPS crew (Ragtag archive)](https://archive.ragtag.moe/watch?v=0xOcFfftBCM) |
 
-#####Call-in during Selen's birthday with Zeta (timestamp)
+#####Call-in during Selen's birthday with Zeta (clip)
+Original VOD dead due to Selen Tatsuki's termination from Nijisanji EN in Feb 2024.
 | Date |  Link + Title |
 |------|-----|
-| 2022-11-30 | [【#SelenBday2022】You are invited!](https://youtu.be/l3wy2moewpI?t=19289) | 
+| 2022-11-30 | [【#SelenBday2022】You are invited! (MEGA)](https://mega.nz/file/dt5kzQ6I#ccRi1oDl0J0cbZsEITdrMJKyw7vrt_5_VBBjlWABMWg) | 
 
 ----------
 

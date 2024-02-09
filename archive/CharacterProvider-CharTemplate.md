@@ -178,7 +178,7 @@ A memory about {something}:
 </{{char}}>
 ```
 
-##### Empty Template for a Scenario Memo
+##### Empty Template for a Scenario Memo (Testing)
 (Character > Advanced definitions > Character Note)
 
 Use this ONLY to state the things that will not change throughout the scenario, establish how the character should react to certain things, or to remind the AI the key principles of the scenario. Sometimes the AI tends to forget that a character, for example, can not feel romantic towards {{user}}. In other words put here the stuff the AI keeps forgetting.
@@ -205,7 +205,7 @@ Genre: (Combination of ~3 genres here)
 </scenario memo>
 ```
 
-##### Empty Template for a Premise
+##### Empty Template for a Premise (Optional)
 (Unique for each scenario start. May confuse the models other than GPT and Claude)
 
 Include this in your initial message to create a scenario premise and plan, what should happen next:

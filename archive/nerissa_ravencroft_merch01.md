@@ -7,16 +7,29 @@
 ## Limited availability
 !!! info
     These items will not be available for purchase after the order period is over. 
-    Due to their limited nature replenishment of their inventory or additional manufacturing will not happen.
-##### Physical goods
+    Due to their limited nature additional manufacturing is not expected happen.
+##### Limited order period physical goods
 ||||
 |-----|-----|-----|
-|[!["hololive English -Advent- Half-Year Celebration" B2 Tapestry](https://files.catbox.moe/gzfiun.webp) -> hololive production OFFICIAL SHOP $21 USD <-](https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604) -> [Geek Jack $23 USD](https://shop.geekjack.net/collections/hololive-en-advent/products/hololive-english-advent-half-year-celebration-b2-tapestry) <- -> Order Period: until Monday, March 04, 2024 3AM CT <- | [!["hololive English -Advent- Half-Year Celebration" Nerissa Ravencroft 【WANTED】 Metal Keychain](https://files.catbox.moe/ii3a4r.webp) -> hololive production OFFICIAL SHOP $9 USD <-](https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908) -> [Geek Jack $9 USD](https://shop.geekjack.net/collections/hololive-en-advent/products/hololive-english-advent-half-year-celebration-wanted-metal-keychain?variant=45918212423926) <- -> Order Period: until Monday, March 04, 2024 3AM CT <- | ![](https://files.catbox.moe/2o7n9q.png)
+|[!["hololive English -Advent- Half-Year Celebration" B2 Tapestry](https://files.catbox.moe/gzfiun.webp) -> hololive production OFFICIAL SHOP $21 USD <-](https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604) -> [Geek Jack $23 USD](https://shop.geekjack.net/collections/hololive-en-advent/products/hololive-english-advent-half-year-celebration-b2-tapestry) <- -> Order Period: until Monday, March 04, 2024 3AM CT <- | [!["hololive English -Advent- Half-Year Celebration" Nerissa Ravencroft 【WANTED】 Metal Keychain](https://files.catbox.moe/ii3a4r.webp) -> hololive production OFFICIAL SHOP $9 USD <-](https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908) -> [Geek Jack $9 USD](https://shop.geekjack.net/collections/hololive-en-advent/products/hololive-english-advent-half-year-celebration-wanted-metal-keychain?variant=45918212423926) <- -> Order Period: until Monday, March 04, 2024 3AM CT <-  | ![](https://files.catbox.moe/2o7n9q.png)
+
+&nbsp;
+***
+
+
+##### Limited stock physical goods
+!!! info
+    These items are stated to have limited stock and will sell out.
+    Despite what the product description says whether the stock will be someday replenished is uncertain.
+||||
+|-----|-----|-----|
+| [![Valentine's Day 2024 Set - Nerissa Ravencroft](https://files.catbox.moe/lti8lc.webp) -> hololive production OFFICIAL SHOP $25 USD <-](https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442181852) -> [Geek Jack $27 USD](https://shop.geekjack.net/collections/holoen-valentine-2024/products/hololive-english-valentines-day-2024-set?variant=45953567129846) <- | [!["hololive English Valentine's Day 2024" Acrylic Block Charm - Nerissa Ravencroft](https://files.catbox.moe/zynmyy.webp) -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442673372) -> [Geek Jack $7 USD](https://shop.geekjack.net/collections/holoen-valentine-2024/products/hololive-english-valentines-day-2024-acrylic-block-charm?variant=45953571356918) <- | [!["hololive English Valentine's Day 2024" Embroidery Emblem Badge - Nerissa Ravencroft](https://files.catbox.moe/9gzjdd.webp) -> hololive production OFFICIAL SHOP $5 USD <-](https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476443164892) -> [Geek Jack $5 USD](https://shop.geekjack.net/collections/holoen-valentine-2024/products/hololive-english-valentines-day-2024-embroidery-emblem-badge?variant=45953572634870) <- |
+| [!["hololive English Valentine's Day 2024" Embroidery Towel - hololive English -Advent- ver.](https://files.catbox.moe/hmjibo.webp) -> hololive production OFFICIAL SHOP $14 USD <-](https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476443328732) -> [Geek Jack $15 USD](https://shop.geekjack.net/collections/holoen-valentine-2024/products/hololive-english-valentines-day-2024-embroidery-towel?variant=45953574142198) <- | [![hololive closet Nerissa Ravencroft New Year Outfit](https://files.catbox.moe/xpx58x.webp) -> hololive production OFFICIAL SHOP $11 USD <-](https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit) -> [Geek Jack $11 USD](https://shop.geekjack.net/products/20240102-hololive-closet-new-year-outfit-advent?variant=45779085295862) <- | ![](https://files.catbox.moe/2o7n9q.png)
 
 
 &nbsp;
 
-##### Digital goods
+##### Limited order period digital goods
 ||||
 |-----|-----|-----|
 | [![hololive Valentine's Voice Pack 2024](https://files.catbox.moe/052fuw.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948) -> Order Period: until Monday, April 08, 2024 3AM CT <- | [![hololive Christmas Voice Pack 2023 ~Present For Y♡U~](https://files.catbox.moe/9e81cl.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_christmasvoice2023?variant=44256038781148) -> Order Period: until Monday, March 04, 2024 3AM CT <- | [![hololive New Year's Holiday Date Voice Pack ~Closing Off 2023~](https://files.catbox.moe/vgqz02.webp)  -> hololive production OFFICIAL SHOP $7 USD <-](https://shop.hololivepro.com/en/products/hololive_newyearsholidaydatevoice_closingoff2023?variant=44318679990492) -> Order Period: until Thursday, March 25, 2024 3AM CT <- 
@@ -24,14 +37,6 @@
 
 &nbsp;
 ***
-
-## Limited stock
-!!! info
-    These items have limited stock and will sell out but can be expected to have their inventory replenished someday.
-##### Currently available
-||||
-|-----|-----|-----|
-| [![hololive closet Nerissa Ravencroft New Year Outfit](https://files.catbox.moe/xpx58x.webp) -> hololive production OFFICIAL SHOP $11 USD <-](https://shop.hololivepro.com/en/products/hololivecloset_nerissaravencroft_newyearoutfit) | ![](https://files.catbox.moe/2o7n9q.png) | ![](https://files.catbox.moe/2o7n9q.png)
 
 
 ## Always available for purchase

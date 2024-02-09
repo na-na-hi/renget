@@ -1,6 +1,5 @@
 #Monke Stories
-######monkeys fucking humans fucking monkeys fucking humans fucking monkeys fucking humans fucking monkeys fucking humans monkes fucking humans fucking monkes fucking humans fucking monkes fucking humans fucking monkes fucking humans fucking 
-
+######primate on pri mate action
 >I Am The Apeman (Unfinished)
 https://archiveofourown.org/works/29291556/chapters/71931105
 

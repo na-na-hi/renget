@@ -10,11 +10,10 @@
 
 **Calculators**
 * [Shard Calculator](https://docs.google.com/spreadsheets/d/1M9yDoN9m3PLN6E5_AZ8ZVfMIV1LrMCt0098qe8P7sHM)
-* [EXP Calculator](https://docs.google.com/spreadsheets/d/1fMlLFkrTeGfvl8UlzNm0rKEz3wMoAQpOYrc4ffhnHf0)
+* [EXP Calculator](https://files.catbox.moe/f4fphy.xlsm)
 * [Damage Calculator](https://docs.google.com/spreadsheets/d/1sWfIs9IsRT6PQ7vhSC-jWs8u44vjShGatV6YCFaUXQ4)
 * [Clash Calculator](https://syxp.github.io/LimComClashCalc/)
 * [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main)
-* [Clash Calculator Code](https://www.dropbox.com/s/mtf78q1l1ergkey/ligma%20clash.pas)
 * [Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer)
 
 **Team Builder**
@@ -23,6 +22,7 @@
 * [Github Team Builder](https://darylhcw.github.io/lc-teambuilder/)
 
 ## Assets & Wikia
+* [Edited Assets (all games)](https://drive.google.com/drive/folders/1v724nzY332I5nnQ4P5VlnHhfaVR4P6D8)
 **Limbus Company**
 * [Database / Wiki](https://limbus.kusoge.xyz/)
 * [Dustloop Wiki](https://www.dustloop.com/w/LCB/)
@@ -86,7 +86,7 @@
 * [Leviathan](https://mega.nz/folder/xosDkZ5Z#Wt4JpUt5Bb2XG77pxuuXpw/folder/518ESQoT)
 * [Official Lore Tweets](https://docs.google.com/document/d/1-uhVl2kxgXznDr03f-17Q-Z6LRf_Jevij5P0e5lTI5g)
 * [Character PVs](https://www.youtube.com/watch?v=HsffQ_RfOYQ&list=PL9-RBacZ4KMzfp_qh8wwP2rlDCP5Cc_Xk)
-* [Korean Sinner Speech Patterns](https://twitter.com/aranruine/status/1665051319361581056)
+* [Korean Sinner Speech Patterns](https://files.catbox.moe/z5cekt.png)
 
 ## Interviews and Q&A
 * [Project Moon Q&A](https://mega.nz/file/5Q0GQabJ#F0uus__yO-MeJ3fA7w1yBy_8MYrkq8B2WSm4R0jE-84)
@@ -105,7 +105,7 @@
 
 ## Music and OST
 * [Full Limbus OST](https://www.youtube.com/watch?v=5Jtysd16c-g&list=PL8S6_RCVQ5uj_924DogHp2SmAMJ3goKL3)
-* [Pass On sinner covers](https://www.youtube.com/watch?v=SupBa5JJuO0&list=PL9-RBacZ4KMzFjhRY4zD7_GbwL1LgNWXD)
+* [Pass On Sinner covers](https://www.youtube.com/watch?v=SupBa5JJuO0&list=PL9-RBacZ4KMzFjhRY4zD7_GbwL1LgNWXD)
 * [Library of Ruina OST](https://www.youtube.com/watch?v=dgQnj3iGKZo&list=PL9-RBacZ4KMyfBNAIJxBFwVfNcGO0aEPv)
 * [To Kill a Living Book Album](https://www.youtube.com/watch?v=nOj_A3aZxGs&list=OLAK5uy_ni8TROwDUd3XlpkiGKaadW39M6NqQJ68Q)
 * [Lobotomy Corporation OST](https://www.youtube.com/watch?v=VBLLmbUpoC0&list=PLcRV4rDHJPGEEk1uB9WXmgcFagQcqzuTh)
@@ -140,6 +140,7 @@
 **Mods**
 * [Library of Ruina Mod Archive](https://docs.google.com/spreadsheets/d/1PlC1_2nZ_hBRZx8zXyEC61Y5izaUIjnWg2DQDLPPX6s/)
 * [Library of Ruina Dialogue Bug Fixes Mod (use this)](https://steamcommunity.com/sharedfiles/filedetails/?id=2993072469)
+* [Lobotomy Corporation Mod Manager (Basemod replacement)](https://www.nexusmods.com/site/mods/765)
 * [Lobotomy Corporation Optimization Mod (use this)](https://www.nexusmods.com/lobotomycorporation/mods/57)
 
 **Art Archives**
@@ -171,6 +172,8 @@
 * [Another RR2 150 Turn Guide](https://docs.google.com/document/d/14y0uyHvmkh-DQjWgcZJSR6Nt4Y9o9m5VfqGjG7IL418)
 * [RR2 Theoretical Sub-100 Turn Guide](https://docs.google.com/spreadsheets/d/1Y77HBoejmZg024d7cvNgjGAV2g8vzM9h2xftH9lSeDU)
 * [Team Optimizer 1.15](https://docs.google.com/spreadsheets/d/15RGTMKZqyjolvCSxlY44PDlZpd0MEH6tjY8a8mQCpEM)
+* [Old EXP Calculator](https://docs.google.com/spreadsheets/d/1fMlLFkrTeGfvl8UlzNm0rKEz3wMoAQpOYrc4ffhnHf0)
+* [Roll Analyzer](https://github.com/null-machine/limbus-company-roll-analyzer)
 * [Ligmus schizotheorycrafting](https://rentry.org/ligmatheories)
 * [Old Recommended Translations](https://rentry.org/ligmabooks)
 * [Ligma Guide](https://rentry.org/ligmaguide)
@@ -207,4 +210,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/8/24: Added MD3 E.G.O gift fusion guide link.
 1/31/24: Moved RR3 guides to outdated section. Did some editing for readability and added some new links. 
 2/4/24: Added optimal grinding guide link.
-2/6/24: Added sub-100 RR3 guide link. ![lol&](https://files.catbox.moe/7dmu76.png)
+2/6/24: Added sub-100 RR3 guide link.
+2/9/24: Moved some things to, added EXP calculator and edited assets link. ![lol&](https://files.catbox.moe/7dmu76.png)

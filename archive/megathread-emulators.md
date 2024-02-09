@@ -49,6 +49,10 @@
 - Free online games from the past like Atari, NES, Colecovision, and Sega in your browser or on your phone.
 - [URL Safety Results](https://www.urlvoid.com/scan/free80sarcade.com/)
 
+### 🌐 [GBA Online](https://gba.js.org/) • Game Boy Advance
+- Seamless open-source emulation of games right in your web browser without spending a dime!
+- [URL Safety Results](https://www.urlvoid.com/scan/gba.js.org/)
+
 ### 🌐 [MyEmulator](https://myemulator.online/)
 - Get the greatest vintage games available online. Are you prepared to play? Let's get going!
 - [URL Safety Results](https://www.urlvoid.com/scan/myemulator.online/)

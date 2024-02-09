@@ -3,7 +3,7 @@
 !!! info Disclaimer 
 This list is meant to serve as a qrd and is for entertainment purposes only. I hold no hatred in my heart for any human, including the people enumerated below. I care about you. Even if you're profoundly mentally lel, you're still a human being in my eyes. If you feel slighted by (You)r entry, reach out; I will probably change it.
 
-*Current Schizo Count: 35*
+*Current Schizo Count: 39*
 
 [TOC]
 #Single-Board Schizos
@@ -44,8 +44,8 @@ Haunts: /a/
 
 **Vidya Butts**
 Haunts: /v/
->posts AK-47 from Girls Frontline
->has posted over 10k threads on /v/
+>posts AK-12 from Girls Frontline
+>has posted over 11k threads on /v/
 >mindbroken by janny after having a Vidya Butts thread deleted
 >claims to be fighting for fair moderation
 >likely active since Dec. 2018, definitely by Aug. 2021, began spamming by Aug. 2021
@@ -131,6 +131,21 @@ Haunts: /co/
 >has posted over 5k times but they're bot posts so he's cheating
 >active since late 2022
 
+**Guy/Manlyburger/Anthony Michael Crudo**
+Haunts: /co/
+>don't draw too good
+>insists his art is god-tier anyway
+>namefag 
+>homosuck enjoyer
+>shills for MAP shit
+>obsessed with John Kricfalusi of Ren & Stimpy fame
+>has been derailing threads that are even tangentially related to John K or Ren & Stimpy in some way for years. 
+>doxed himself
+>hard to follow due to archive pollution
+>at least 1k identifiable posts
+>may have molested his niece maybe
+>active since 2012
+
 **Steelefag**
 Haunts: /k/
 >HAET DRUMPF
@@ -140,6 +155,17 @@ Haunts: /k/
 >shitposts about politics on /k/
 >follows stereotypical American leftist party lines
 >active since 2022ish
+
+**Pixelschizo, aka Schizo Bro**
+Haunts: /ic/
+>How do you create good pixel art?
+>abstract art enthusiast
+>posts incomprehensible pixel drawings/gifs
+>they're actually kind of cool
+>it's not always pixel art
+>not actually terribly disliked by /ic/ posters as far as I can tell
+>active since 2018ish
+
 
 #2 Board Schizos
 
@@ -327,12 +353,12 @@ Haunts: /his/, /k/, /co/, /lit/, /bant/, /b/, /lit/, /pw/, /biz/, /a/, /aco/, /p
 >posts with an American flag on /int/ and /bant/, confederate on /pol/
 >active since 2016ish
 
-**Tiny White Pecker Poster**
+**Tiny White Pecker Poster, aka Doomtranny, aka dt**
 Haunts: /bant/, /r9k/, /int/, /fit/, /trash/, /qa/ (;-;), /x/, /v/, /mu/, /b/, /a/, /co/, /k/, /pol/
 >shartfag
 >very gay
 >likes Bernkastel from Umineko
->posts about BBC, /vt/umors, tiny white peckers, Total Warhammer, and tulpas
+>posts about BBC, /vt/umors, Doom, tiny white peckers, Total Warhammer, and tulpas
 >has made over 4k identifiable posts in less than 3 years, probably over 8k total
 >attentionwhore, wants to be internet famous
 >posts with an American flag on /bant/ and /int/
@@ -378,6 +404,22 @@ Haunts: /a/, /cgl/, /a/, /co/, /v/, /qa/ (;-;), /vr/, /fit/, /r9k/, /wsg/, /cgl/
 >active since 2011ish, missing from 2013-2018 due to party time
 
 #Dead Schizos
+
+**Scalyfag, aka botfag**
+Haunted: /trash/
+>gay 
+>furry 
+>shartyfag
+>australian shitposter
+>bot spammer
+>spammed basedboys, soyjacks, babybot-esque furry porn
+>targeted scaly and g/fur threads
+>tried to sic farms psychopaths on his enemies
+>got doxxed
+>got his very own lolcow thread
+>got meme'd on for looking like a dweeb
+>at least 1k identifiable posts
+>active from 2016ish to 2021ish
 
 **Gervaisposter**
 Haunted: /his/
@@ -428,6 +470,29 @@ Haunted: /v/, /co/, /qa/ (;-;)
 >began in 2012, died in 2020ish
 >people pretend to be him, do not believe their lies
 
+**unicodefag, aka letofag, aka fox spammer**
+Haunted: /trash/, /qa/ (;-;)
+>furry
+>gay
+>spammer
+>shartyfag
+>bestiality enthusiast
+>real cheese pizza enthusiast
+>discordcabalfag
+>X-TREME ban evader
+>ascended skid
+>good luck, he's behind 7000 proxies
+>got a bunch of invisible unicode characters baleeted from 4chins
+>hated the lust penis
+>liked Nick from zootopia
+>used bots to flood the /trash/ catalog, occasionally other boards
+>targeted g/fur threads
+>engaged in honorabru combat with the 4chan dev team
+>lost
+>almost got doxxed irl, had his proxy shut down before it could happen
+>dedicated anti-schizo
+>active from 2019ish to 2021ish
+
 **JWanon, aka Lara**
 Haunted: /his/, /bant/, /int/, /co/, /mlp/, /wsg/, /x/, /tg/
 >French Jehovah's Witness teenager
@@ -447,7 +512,18 @@ Haunted: /his/, /bant/, /int/, /co/, /mlp/, /wsg/, /x/, /tg/
 >active 2020-2023
 
 #/z/
+**lain sucks**
+Haunts: /wsr/
+>lain sucks
+>appears in threads about Serial Experiments Lain to say the above phrase
+>around 100 identifiable posts
+>unknowable motives
+>this one might actually just be a meme
+>active since 2015ish
+>this is a meme you dip
+
 !!! warning Autism
+
 ->*Hold! What you are doing to us is wrong! Why do you do this thing?*<-
 	As I say in the disclaimer, this is meant to serve as a quick run-down of some of 4chan's most prolific posters. It also serves as a kind of very informal chronicle of such people. I, yrstruly, am also on the list. It isn't meant to be a bad thing - some entries are derogatory in tone, but this is because I think a purely academic list would be very boring to read. No offense is intended.
 
@@ -460,7 +536,7 @@ Haunted: /his/, /bant/, /int/, /co/, /mlp/, /wsg/, /x/, /tg/
 ->*Tell me more about **you**.*<-
 	I'm really no one important. I'm in no secret discord cabals, run no gayops, and appear in no KYM or ED articles (as far as I know). I'm interested in internet, and particularly chan, culture, and that's about all there is to it. I have no social media and am profoundly paranoid. 
 
-->*Hey faggotron, you fucked up an entry, you stupid idiot, you fucking buffoon.*<-
+->*Hey faggotron, you fucked up an entry, you stupid idiot, you fucking buffoon. That's not even a dude, it's a fucking meme.*<-
 	Reach out and I'll fix it. You can help me along by posting screencaps or key terms/image hashes/names/tripcodes to search for in the archives. This is also true for if you want to add to the list.
 
 ->*Is there any rhyme or reason to how an entry is described, or are you just winging this shit?*<-

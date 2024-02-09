@@ -156,10 +156,10 @@ When Astral Ring World Star is active, Anchor Strike leave an energy body with R
 **ASTRAL RING 3**
 When Astral Ring Burst state ends, you get Astral Ring accretion. During non-Astral Ring Burst state, Thunderbolt attack hit consumes Astral Ring accretion to restore 10 points of Astral Ring energy. When Astral Ring World Star is active, gain additional 10 points of Astral Ring energy. You gain Astral Ring accretion on entry, triggers every 10 minutes in Part 2 open world.
 
-ASTRAL RING 4
+**ASTRAL RING 4**
 During Astral Ring Burst state, enemies on the field take 12% more Elemental DMG from resonance skills, and team resonance attacks gain Total DMG +12%
 
-ASTRAL RING 5
+**ASTRAL RING 5**
 The power of this astral ring seems to be affected by other divisions.
 You have not met anyone in the related astral ring division (Will be unlocked in the future.)
 

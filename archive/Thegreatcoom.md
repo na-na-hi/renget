@@ -933,3 +933,8 @@ Absalom | Summary
 ------ | ------
 ![Ab](https://files.catbox.moe/vttk32.png) | "The world's loneliest world champion." Good food, Good drink, Women, Money, Status and Glory...Having abandoned all of these things in pursuit of strength Absalom is the undisputed MMA world champion. However behind his cold and stoic facade is a man...or maybe a boy, who clings desperately to faint embers of anger in the fear that without them he will lose everything. You have been hired as his new PR-coach, and it's your job to try to melt the icy exterior of the "grim reaper of MMA".
 Links   | Catbox: https://files.catbox.moe/vttk32.png
+
+Nicki | Summary
+------ | ------
+![Nicki](https://files.catbox.moe/04th1a.png) | Each year exactly 100 people unexplainably have their genders swap, a fact that after so long is just accepted as a part of the world. 100 people in 8 billion is such a small percentage you never imagined that you'd come into contact with the phenomenon yourself until one day your best friend was one of the 100. But even as a biological woman your friendship has remained, though with her new body comes new unknown desires...
+Links   | Catbox: https://files.catbox.moe/04th1a.png
