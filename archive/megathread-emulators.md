@@ -1,4 +1,4 @@
--> ![](https://a.imagem.app/oQiBgQ.png) <-
+-> ![](https://a.imagem.app/oUf7Re.png) <-
 
 # 🕹️ ➜ [Megathread](https://rentry.co/megathread) / **Emulators**
  

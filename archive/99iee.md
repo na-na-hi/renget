@@ -521,7 +521,7 @@ Home: Diarnuit
 
 Home: Polaria
 
-(Y/N) Y-Aruran, Izuru and Temma reach 800exp together/N-Botan, Towa, and Kanata reach 700exp together
+(Y/N) Y-Step on the right sight of the throne room entryway/N-Step on the left side of the throne room entryway
 
 ***
 
@@ -547,4 +547,12 @@ Home: Polaria
 
 ->**Vesper**<-
 
->The elder scholar of Guild Tempus. Like his fellow guildmate Magni, he chose to defy the Red Doctrine, having fended off attempts from Blanc zealots to eliminate him
+>The elder scholar of Guild Tempus. Like his fellow guildmate Magni, he chose to defy the Red Doctrine, having fended off attempts from Blanc zealots to eliminate him. Resourcefulness and tenacity are this old man's biggest assets, owing to his love of nature and his tendency to go on long hikes on a whim. This usually happens when he's bored of either research work or managing Guild Tempus' paperwork. His interests tend to be antiquated, making him the butt of the rest of the guild's jokes. He's an undomitable spirit, refusing to be dictated by anyone else...sometimes, not even his own Leader.
+
+Home: Polaria
+
+->**Reine**<-
+
+>The regal mage-in-study at Savan's premier magic academy. Hailing from an affluent peacock/fowl family, Reine was brought up on all the particulars of nobility, resulting into the very elegant lady she is today. Having recently been just elected into being one of the three newest Guardians under the Islander Division. Her induction into the Order and her short-so-far tenure there had opened her eyes to the responsibilities of one bearing such great power as her. To that end, her diplomacy skills have been on the rise, reaching out to marginalized groups in Savan and even Polaria, aside from honing her magics in the academy.'
+
+Home: Savan

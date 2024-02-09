@@ -1,17 +1,18 @@
--> ![](https://media.discordapp.net/attachments/903364339464044575/1100528498847797258/1C9FDA7F-1CB1-4C9E-98FA-EA01BA5349DC.jpg) <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1205511568524316672/Untitled4_20240209164436.png?ex=65d8a323&is=65c62e23&hm=599916df510f2bb13834a073e8996cc4aff1fb8de11dfbf74841403cef20328e&) <-
 
 
--> ![chii](https://media.discordapp.net/attachments/903364339464044575/1100522697798197260/IMG_9122.png)<-
+-> ![chii](https://media.discordapp.net/attachments/903364339464044575/1205508134660083712/phonto.png?ex=65d89ff0&is=65c62af0&hm=5d4064534e7318f9dc81db6823f85d6e0a52c4ab49e847ffb6b38e605e723e03&)<-
 
 ->﹫[finn's](https://rentry.co/batcemetery) urls ![](https://media.discordapp.net/attachments/903364339464044575/1100551051330998352/36B09539-8B66-4646-B6F6-CCCCA5793D5A.gif) ꒱꒱ <-
--> `‏‏‎ ‎key‏‏‎ ‎`⠀⦂⠀*italics* : uft or free try ur luck ◞  **bold** : iffy but u can ask ◞ ~~strikedout~~ : nft ◞ [linked]() : traded ◞ `highlighted` : decorated ◞ ! : the L is uppercase i <-
+->%#8B0000% ‏‏‎ ‎***key***‏‏‎ ‎ %%⠀⦂⠀*italics* : uft or free try ur luck ◞  **bold** : iffy but u can ask ◞ ~~strikedout~~ : nft ◞ [linked]() : traded ◞ `highlighted` : decorated ◞ ! : the L is uppercase i <-
 
 
 -> [url wishlist](https://rentry.co/hoardurl/#url-wishlist-𓂋) <-
--> 313 ( and many lost ones that you might find but not listed here ) urls hoarded <-
--> contact @yatoras on didcord for trades & etc <-
+-> theres ones that you might not listed here <-
+-> contact @yatoras on discord for trades & etc <-
 -> if you're a friend just ask! i'll give 4 free ofc <-
-->![](https://media.discordapp.net/attachments/903364339464044575/1100796230868676678/6443B99D-5ECB-4E65-83EB-EE269FD3BA90.png)<-
+
+->![](https://media.discordapp.net/attachments/903364339464044575/1205511568255619072/Untitled3_20240209164418.png?ex=65d8a323&is=65c62e23&hm=f1d7bcd7bb839613c57e0a43daec9b2c707fe93311c0be8a5ef9def4657f13ad&)<-
 ***
 ◟ ![](https://media.discordapp.net/attachments/903364339464044575/1090715232529297568/C76BF445-D171-4A71-9AA3-4A22883C7B57.gif) ◝ animals & creatures﹙38﹚
  *vamplett* *vampilette* *vampsome* **vampdo!l** *rottenvamp* ~~`vamplet`~~ *`vamploves`* ~~virtualvampire~~ *vampzombie* **vampiresfangs** *vampcreature* **illvampire**  **actualvampire** · **`batcemetery`** **virtualbat** **batdoll** ~~shybat~~ *batcreature* ~~`illbat`~~ · **actualangel** **angeldollita** ~~`illangel`~~ · ~~`zombiepaws`~~ [suicidalzombie](https://rentry.co/suicidalzombie) [zombiebrains](https://rentry.co/zombiebrains) [actualzombie](https://rentry.co/actualzombie) [illzombie](https://rentry.co/illzombie) [zombiezombie](https://rentry.co/zombiezombie) · **onlinepup** **onlinedog** · *catfights* *feralcat* · *wolfclaws* *wolfcub* · animalears · *raccoontail* · *lambsfleece* **lambfleece**
@@ -59,4 +60,4 @@
     ->heavy ib [grriys](https://twitter.com/grriys?s=21&t=w5SGh7J4qmkX3hezS7Skag)->
 
 
--> ![](https://media.discordapp.net/attachments/903364339464044575/1100820837537427536/5DAA9AF5-356C-47AF-B338-CAACCC707C70.jpg) <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1205511569241415740/Untitled4_20240209164439.png?ex=65d8a323&is=65c62e23&hm=e39a286026767f90a18ad7d855ac985c900cc68e4922587ea65cde1097cd4fe2&) <-

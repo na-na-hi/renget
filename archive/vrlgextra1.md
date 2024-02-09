@@ -14,6 +14,7 @@ VRChat, public Just H EN
 VRChat, public Let‘s Just H‼‼‼
 VRChat, public Double H Room
 
+There are also thinly veiled ERP groups on VRChat. Look for key words in the VRChat group search and you might find some that have active instances.
 https://flirtu.al/
 twitter, leddit, discord servers
 Join upcoming events listed in the thread

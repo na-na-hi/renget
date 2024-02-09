@@ -1,6 +1,12 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
 -> **Send logs to: pitlogs01@proton.me** <-
+
+###Coming Eventually™
+**Bratty Kuudere**
+**Hime-sama**
+**Kunoichi**
+**Sports Team Lorebooks**
 [TOC3]
 ###OC
 | Bot's name | Updated | CHUB Link | Card |

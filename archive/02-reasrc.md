@@ -1,5 +1,5 @@
 -> ![alien stage](https://files.catbox.moe/q36fpl.gif)
-thanks for the 800 view hit :3
+thanks for the 900 view hit :3
 [general](https://rentry.co/01-reasrc) •  [**reasrc**](https://rentry.co/reasrc) • [other](https://rentry.co/03-reasrc) <-
 
 -> general 

@@ -4,6 +4,7 @@
 Threads 152 - Current: Post-Pastebin era.
 =====================
 
+Thread 245 - Look At What You've Done Edition: https://desuarchive.org/trash/thread/63186148/
 Thread 244 - Lust Vs Love Edition: https://desuarchive.org/trash/thread/62699463/
 Thread 243 - New Year New You Edition: https://desuarchive.org/trash/thread/62181543/
 Thread 242 - Oblivious Edition: https://desuarchive.org/trash/thread/61687176/
