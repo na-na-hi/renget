@@ -5,7 +5,7 @@
 · | ->· ->
 ---- | ----
 **Origin:** Native | **Occupation:** Baroness
-**Species:** Inteleon | **Faction Affiliation:** Alu Empire
+**Species:** Inteleon | **Faction Affiliation:** Ava-lu Empire
 **Level:** 50 | **Experience to Next Level:** 150/1500
 **Worn Item:** *N/A* | **Clothing:** *A gold ring on her right trigger finger*
 
@@ -80,5 +80,5 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Reviver Seed | Revives fainted Pokémon to full HP. Becomes a Plain Seed upon consumption.
 2. Encourage Seed | Never miss and increases Crit-Ratio stage by 1 for 4 turns..
-3. Rainy Orb | Sets the Weather to Rain.
+3. Fog Orb | Sets the Weather to Rain.
 4. Weather-Lock Orb | Locks Weather to whatever it currently is, disabling the ability to change it.

@@ -9,9 +9,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Aspiring pinball machine / Demolitions expert in training
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 12 | **Experience to Next Level:** 2/120
+**Level:** 12 | **Experience to Next Level:** 12/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 2373₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2498₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

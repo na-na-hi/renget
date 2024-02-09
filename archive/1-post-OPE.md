@@ -1,6 +1,6 @@
 # -> ![](https://files.catbox.moe/f9inkg.png) OP Template ![](https://files.catbox.moe/f9inkg.png) <-
 
-!!!info Always announce when you're making the next thread so we're avoiding doubles. Announce it in the middle of page 10.
+!!!info Always announce when you're making the next thread so we're avoiding doubles and we're sure that someone is in fact baking. Announce it in the middle of page 10.
 !!!Warning Informative notes (OP post #2 - anchor to post #1 / picture must be the schedule if any is released otherwise do as you feel)
 
 

@@ -27,7 +27,6 @@ _(Updated 7-Feb-2024)_
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
-| bovinelovely | https://chaster.app/sessions/vEg5eUE0SGGGNHRy | === |
 | bluethesub | https://chaster.app/sessions/3jbrVL0rRxI1Sucv | === |
 | Vulparion | https://chaster.app/sessions/kSl5VH5v7ajrhSaN | === |
 | programmingsocklover | https://chaster.app/sessions/Zkw6utoQb858qcG0 | === |
@@ -36,5 +35,6 @@ _(Updated 7-Feb-2024)_
 | Wpegged | https://chaster.app/sessions/ZCDXzhHzEL5OwnhW | === |
 | eternaltrapwizard | https://chaster.app/sessions/hfTI0RhGEIlujX9H | === |
 | LuckyLamont | https://chaster.app/sessions/F3MPsl50KE2bDPyn | === |
+| jhonnyexampole | https://chaster.app/sessions/E6dx4aSuHQOP1Eno | === |
 |  |  |  |
 |  |  |  |

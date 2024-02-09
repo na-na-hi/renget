@@ -1813,3 +1813,187 @@ https://nitter.lanterne-rouge.info/ME_Observer_/status/1755370301699834211#m  2/
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.salastil.com/AryJeay/status/1755386725159825798#m  2/7/24
+
+>The Mujahideen Brigades is a very underrated resistance faction among the other Palestinian ones tbh.
+
+Sderot, Nahal Oz, and several other operations today were claimed by them. This is also the group that targeted 2 Hermes-900 drones and several IOF helicopters.
+https://nitter.salastil.com/AryJeay/status/1755568098936066454#m  2/8/24
+
+>🚨Rockets from Gaza were fired towards Sderot, some 20 minutes ago.
+https://nitter.salastil.com/AryJeay/status/1755556762202353771#m  2/8/24
+
+>🛑| Yedioth Ahronoth
+
+Reveiled the true number of casualties among the israeli army since the start of the war, amounting to 13,000 casualties, 55% of them being reservists.
+
+The IOF is considering changing its conscription laws, making it more strict to train reservists better.
+https://nitter.salastil.com/AryJeay/status/1755472000401789427#m  2/8/24
+
+>🚨The IOF admits an israeli terrorist was seriously injured in Kiryat Shmona due to an ATGM attack. 
+
+In another attack, 2 other israeli terrorists were also injured by launches into Birnit.
+https://nitter.salastil.com/AryJeay/status/1755530559646753050#m  2/8/24
+
+>⚡️#Yemen: Sayed Al-Houthi: 
+
+The enemy is creative in crimes and in some areas of #Gaza, he intends to allow children to cross without their parents to separate them from their families.
+https://nitter.salastil.com/ME_Observer_/status/1755580582615015611#m  2/8/24
+
+>CBC reports that the Canadian government did not see any evidence backing up Israel's claim that UNRWA staffers were part of Hamas' military operation on October 7 before suspending funding to the agency.
+
+The Canadian outlet cites government sources as confirming that Israel still has not shared evidence with Canada.
+
+Israel had refused to provide the intelligence it says backs up its allegations, either to UNRWA or to the UN Office of Internal Oversight Services (OIOS), the UN body assigned to investigate, claiming that "this would reveal sources in the operation."
+https://nitter.salastil.com/QudsNen/status/1755497015268528496#m  2/8/24
+
+>BREAKING| The Ministry of Health: Israel committed 15 massacres in the past 24 hours in Gaza, killing 130 civilians and wounding 170 others. 
+
+This brings the death toll since October 7 to 27840.
+https://nitter.salastil.com/QudsNen/status/1755534358104920168#m  2/8/24
+
+>🛑| Channel 2 health correspondent:
+
+Two months after the return of prisoners from Gaza, 78% of them feel “neglected & caught between the cracks” since they have not been offered treatment by trauma specialists.
+https://nitter.salastil.com/AryJeay/status/1755592724567445870#m  2/8/24
+
+>The Commissioner-General of UNRWA: "More than 300,000 people in Gaza rely on our assistance to survive."
+https://nitter.salastil.com/QudsNen/status/1755602626476216690#m  2/8/24
+
+>⚡️Lebanon: Islamic Resistance: Our mujahideen targeted the “Al-Zaoura” camp with missile weapons and hit it directly.
+
+⚡️Lebanon: Islamic Resistance: Our mujahideen targeted the “Barkat Risha” site with two “Burkan” missiles and hit it directly.
+https://nitter.salastil.com/ME_Observer_/status/1755612946221420888#m  2/8/24
+
+>🛑| Al-Manar correspondent:
+
+The Zionist enemy targeted a car with a drone in the city of Nabatieh, south of Lebanon, resulting in 2 wounded, one of whom was in critical condition.
+https://nitter.salastil.com/AryJeay/status/1755621325123506446#m  2/8/24
+
+>Israeli Prime Minister Netanyahu declared in a press conference that the war in Gaza will persist until "victory" is achieved, just one day after receiving Hamas' response to the framework agreement.
+https://nitter.salastil.com/QudsNen/status/1755618900270891288#m  2/8/24
+
+>The first stage, as per Hamas, involves
+https://nitter.salastil.com/QudsNen/status/1755618902611234971#m  2/8/24
+
+>The second stage, expected to last 45 days includes:
+https://nitter.salastil.com/QudsNen/status/1755618904964280522#m  2/8/24
+
+>The thrid stage focuses on:
+https://nitter.salastil.com/QudsNen/status/1755618907350851977#m  2/8/24
+
+>NEW:
+
+ 🇮🇪🇮🇱 The players of the Irish basketball team announced that they will not shake hands with the Israeli players and will even avoid standing in front of them at the start of the game tonight.
+https://t.me/megatron_ron/1655  2/8/24
+
+>⚡️Al-Qassam (Hamas) Infographic:
+
+Showing statistics of Al-Qassam’s succesfull operations since October 7th, which includes:
+
+Fully/partially destroying more than:
+🔻962 Merkava tanks
+🔻55 troop carriers(APCs)
+🔻74 bulldozers
+🔻3 excavators
+🔻14 military jeeps.
+https://nitter.salastil.com/AryJeay/status/1755669044374507695#m  2/8/24
+
+>Breaking | ICJ announce that Nicaragua has formally requested authorization to intervene in the case concerning Application of the Convention on the Prevention and Punishment of  the Crime of Genocide in the Gaza Strip.
+https://nitter.salastil.com/QudsNen/status/1755660166979064004#m  2/8/24
+
+>⚡️Hamas leader Osama Hamdan on Al-Manar TV:
+
+- “Israel” is an entity that has no future in the region, and there is no compromise on the resistance project.
+
+- America is responsible for all the conflicts taking place in the region, not just in #Gaza.
+
+- The axis of resistance made an achievement with what it did in supporting the #Palestinian people and the resistance in #Gaza.
+
+- After this battle, the #Palestinians have the right to choose a leadership that improves the exploitation of the capabilities of the #Palestinian people and their resistance.
+
+The process of liberating Palestine began with the “Al-Aqsa Flood.”
+https://nitter.salastil.com/ME_Observer_/status/1755687423369937170#m  2/8/24
+
+>BREAKING:
+
+ 🇮🇱🇪🇬Egypt supplies Israel
+
+Egyptian flagged Container Ship "PAN GG" has been doing trips from Suez to Ashdod for 3-4 days
+
+It is likely that Egypt is helping the Zionist entity by supplying it with necessary goods that it cannot receive from the Red Sea.
+https://t.me/megatron_ron/1665  2/8/24
+
+>🟡| Hezbollah confirms:
+
+Attacking the command HQ of the 2nd Infantry Brigade at the Ein Zitim IOF base with dozens of Katyusha rockets.
+https://nitter.salastil.com/AryJeay/status/1755708679490322745#m  2/8/24
+
+>** CORRECTION: Hezbollah’s military media changed the statement and made a correction, they targeted the “3rd infantry” brigade’s HQ
+https://nitter.salastil.com/AryJeay/status/1755712520822681860#m  2/8/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 8 (2024), against (US)-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Merkava 4 tank with a Yassin 105 rocket, near the industrial intersection in Gaza City, followed by engaging with an IOF force, resulting in casualties.
+
+🔻Eliminated a Zionist sniper near the Aviation Junction in Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shot down an IOF quadcopter drone during its intelligence operations in the eastern central governorate.
+
+🔻Targeted IOF forces inside their tents in the eastern central governorate with a guided 107mm missile.
+
+🔻Engaged in intense clashes with IOF soldiers and vehicles using machine guns and anti-ranks shells in the Khan Yunis axis.
+
+🔻Targeted an IOF force with a guided missile while they were hiding in a residential apartment near the Hawoz area west of Khan Yunis.
+
+🔻Targeted an IOF military vehicle with a "Tandem" shell, causing it to catch fire.
+
+— 🇵🇸 Al-Mujahideen Brigades:
+
+🔻Engaged in fierce clashes with IOF forces in the western areas of Gaza City using appropriate and diverse weapons.
+
+🔻MASSIVELY & intensively shelled 9 different military command sites and the following settlements: Asdod, Sderot, Karmia settlement, Yad Mordechai, Or HaNer, Kfar Saad, Nahal Oz, Alumim, Be’eri settlement. Using various types rockets, such as S-40 rockets. 
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Engaged in armed clashes with IOF forces, in Batn Al-Sameen and Al-Amal neighborhood, and launched an RPG on one of the army's vehicles.
+
+—  🇵🇸 Martyr Abu Ali Mustafa Brigades: 
+
+🔻Targeted positions and gatherings east of Gaza and Jabalia with rocket barrages and heavy-caliber mortar shells.
+
+— 🇵🇸 Al-Asifah Forces:
+
+🔻Engaged in fierce clashes with army vehicles and soldiers on the industrial, universities, and Al-Rimal axes west of Gaza. 
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Engaged in fierce clashes with IOF soldiers and their vehicles using machine guns and RPGs, in the axes in the center and south of Khan Yunis.
+
+🔻Fought intense battles with appropriate weapons against IOF soldiers and their vehicles in the western axis of Gaza City.
+
+— 🟡 Hezbollah (9 operations)
+
+🔻Targeted Branit Barracks with rockets, causing a direct hit.
+
+🔻Targeted the command headquarters of the Eastern Brigade 769 of the Galilee Division 91 in the "Kiryat Shmona" barracks with appropriate weapons.
+
+🔻Targeted the Radar site in the occupied Shebaa Farms, achieving direct hits.
+
+🔻Targeted a building in the Metula settlement where IOF soldiers were located, causing a direct hit.
+
+🔻Targeted the "Ma’aleh Golani" barracks with Falaq-1 rockets, achieving direct hits.
+
+🔻Targeted the Al-Zaoura IOF site, with rockets, achieving a direct hit.
+
+🔻Targeted the Birkat Risha site with Burkan IRAM rockets, achieving a direct hit.
+
+🔻Targeted the Meron Air Surveillance Control Base, with Falaq-1 rockets, achieving a direct hit.
+
+🔻Targeted the headquarters of the 3rd Infantry Brigade at the "Ein Zeitem" base with dozens of Katyusha rockets (30), in response to targeting villages, especially the recent aggression on the city of Nabatiye.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.salastil.com/AryJeay/status/1755746994482544757#m  2/8/24

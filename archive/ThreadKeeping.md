@@ -428,31 +428,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Villain:
->Paul Crémieux VN De Jais (Jet Black)
->>91841242
+>1-F's Velvet Worm Shooter!
+https://files.catbox.moe/t20u97.mp4
 
-New Student (1-F):
->Higa Umeko HN Slip-N'-Slideasaurus
->>91833690
->Nayuki Kyoko
->>91834965
-
-New Writefags:
->"Writefag" (Slip-N'-Slideasaurus, Sukeban, Fly 1 Million is also kinda there)
-https://rentry.org/tgaaum4e
->Introduction to Yeti Girl. (Kyoko)
-https://rentry.org/g9z2wh5g
->Beach Day Intro: (Beach Day, Suki, The Doctor)
-https://rentry.org/LeavingYourLeftoversAllOverThePlace
->Rob Write Home (Featuring Velvet Worm w/ mentions of the rest of 1-F):
-https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/edit?usp=sharing
-+ https://rentry.org/gno9vnt6
->Will they survive winter? (Kyoko, 1-F)
->>91842120
->When Something Smells, It's Usually the Nuts (Slimenuts, Karaburan, Mentions of 1-F)
-https://rentry.org/czs9nrcu
-+Mommy Link https://rentry.org/duw26qn5
+New Build:
+>Jessica Wu VN Surinam Toad Girl
+>>91851919
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -809,6 +790,8 @@ https://rentry.org/ddom6m82
 >>91772420
 >Paul Crémieux VN De Jais (Jet Black)
 >>91841242
+>Jessica Wu VN Surinam Toad Girl
+>>91851919
 
 >Horrific 5:
 >Samuel Wilson VN Desolator

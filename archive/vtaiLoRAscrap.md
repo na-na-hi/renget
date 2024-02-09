@@ -26,7 +26,7 @@
 **Fumino Tamaki (Nijisanji)** - https://civitai.com/models/261333/fumino-tamaki-nijisanji
 **Cosmo Ruru (Indie)** - https://civitai.com/models/288020/cosmo-ruru
 **Yagoo (Hololive)** - https://files.catbox.moe/a9hbln.safetensors
-**Dokibird (indie)** - https://files.catbox.moe/0nz6d2.safetensors (check lora for tags? idk) or https://litter.catbox.moe/cn6gm6.safetensors (litter lol)
+**Dokibird (indie)** - https://files.catbox.moe/0nz6d2.safetensors (check lora for tags? idk) or https://litter.catbox.moe/cn6gm6.safetensors (litter lol) or https://civitai.com/models/297993/dokibird-vtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

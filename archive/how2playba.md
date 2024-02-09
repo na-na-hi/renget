@@ -662,6 +662,8 @@ Total: 1560 gems
 
 Completing volume F gives you a new login screen, and so does reading the epilogue of Volume 4 chapter 2. 
 
+You also obtain a special item from Volume F that gives you 1200 gems. It's a one-time consumable. 
+
 >Can I change back my login screen? 
 Yes (in JP, wait for 3rd anni). 
 

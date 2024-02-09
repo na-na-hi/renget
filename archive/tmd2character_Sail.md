@@ -8,9 +8,9 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 14 | **Experience to Next Level:** 140/16
+**Level:** 14 | **Experience to Next Level:** 140/26
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 2,775₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2,900₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

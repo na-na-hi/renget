@@ -1,4 +1,4 @@
--> ![Scuffed Proxy](https://i.imgur.com/Q0hnUfU.png) <-
+-> ![Scuffed Proxy](https://i.imgur.com/MH4QxMx.png) <-
 
 # current links
 

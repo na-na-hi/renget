@@ -12,3 +12,6 @@
 - 2024-01-19 (Relay, Fire Inside): https://files.catbox.moe/uvoy2w.torrent
 - 2023-12-24 (Xmas songs 2023): https://files.catbox.moe/c90bqt.torrent
 - 2023-11-18 (High/low pitch practice, Loli Requiem): https://files.catbox.moe/esnp44.torrent
+
+##### Twitter Spaces
+- 2024-02-06 (First quest): https://files.catbox.moe/4wjfr6.mp3

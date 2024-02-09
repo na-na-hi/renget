@@ -1,5 +1,5 @@
 #云酒馆 + 云Clewd 教程
-!!! danger 本教程及 [Clewd修改版](https://github.com/teralomaniac/clewd) 禁止转发任何包含收费项目的群组/论坛或用于收费项目，警惕任何高风险cookie购买服务（黑名单：AI新服务）
+!!! danger 本教程及 [Clewd修改版](https://github.com/teralomaniac/clewd) 禁止转发任何收费群组/论坛或用于收费项目，警惕任何高风险cookie购买服务，以及破坏中文AI开源共享环境倒卖免费资源抹去署名的群组（黑名单：AI新服务、浅睡(鲑鱼)、赛博女友制作人）
 !!! 本教程所有内容采用 CC BY-NC 4.0 许可协议进行许可 [协议内容](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
 !!! info [获取Cookie参考主教程](https://rentry.org/teralomaniac_clewd) 本教程较为简略，可同步参考 [Render部署Nodejs应用](https://www.freecodecamp.org/chinese/news/how-to-deploy-nodejs-application-with-render) 并善用谷歌、GPT等工具
 !!! note [Claude破限群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DMbVO8GPhUtu-Kr3vKdZ1fGyNZz2j0VH&authKey=vANqh0NzT3EqbTQpI3TP%2BCp0Z1cpdxHlAMRJFQajRvEc1%2BmPX03Bq7vH6TaYgERU&noverify=0&group_code=704819371) | [类脑Discord频道](https://discord.com/invite/B7Wr25Z7BZ)

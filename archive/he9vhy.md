@@ -68,7 +68,9 @@ Until now, Beast had never went up to the second floor other than to simply expl
 
 "What? what's so funny!?" Beast demanded, beginning to blush witnessing the hysterical group. Could he really say anything without it being a joke to these people?
 
-Feeling sorry, one of the guildmates leaned over and whispered in his ear, carefully explaining what "doughnuts" meant in the current context. His face slowly began to scrunch up in disgust.
+Feeling sorry, one of the guildmates leaned over and whispered in his ear, carefully explaining what "doughnuts" meant in the current context. His eyes slowly began to go wide with bewilderment and disgust.
+
+->![i watched emplemon's new coke video while drawing this #pepsi4life](https://files.catbox.moe/eog8jb.png)<-
 
 "This...this is the kind of thing you talk about on a daily basis?" Beast asked, his voice taking on a horrified tone.
 

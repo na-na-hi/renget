@@ -31,6 +31,11 @@ https://twitter.com/SaaVLewd
 Nice tummy JP
 https://www.youtube.com/@vtuber3484
 https://twitter.com/moegi_zmg
+
+>Koopa
+Green mommy with some pudge
+https://www.twitch.tv/koopa_ch
+https://twitter.com/Koopachaneru
 ***
 
 ## Chubby Behind The Model (Leans Into It)
@@ -50,11 +55,6 @@ https://twitter.com/moonahoshinova
 NijiJP's cheerful sunflower
 https://www.youtube.com/channel/UC0g1AE0DOjBYnLhkgoRWN1w
 https://twitter.com/honmahimawari
-
->Salome
-NijiJP's ojou-sama desuwa!
-https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
-https://twitter.com/1000000lome
 
 >Henemimi
 Chubby girl who draws chubby girls
@@ -148,6 +148,11 @@ Commissioned /ag/ fanart of herself
 https://www.twitch.tv/nyanners
 https://twitter.com/NyanNyanners
 
+>Salome
+Does a lot of burger reviews desuwa!
+https://www.youtube.com/channel/UCgIfLpQvelloDi8I0Ycbwpg
+https://twitter.com/1000000lome
+
 >Peagade
 Draws a lot of big HoloEN
 https://twitter.com/paulozadias
@@ -155,3 +160,7 @@ https://twitter.com/paulozadias
 >William
 Draws all /ag/ girls
 https://twitter.com/notwilliam_
+
+>Fyuujin
+Draws a lot of Hololive and Nijisanji
+https://twitter.com/fyuujin
