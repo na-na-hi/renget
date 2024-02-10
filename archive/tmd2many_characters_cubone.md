@@ -90,7 +90,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 
 Attributes | Tier Bonus | Description
 ------ | :----: | :----:
-Attribute: Stealth | 1 | - 
+Attribute: Stealth | 2 | - 
 Attribute: ??? | - | - 
 Battle Attribute: ??? | - | - 
 
@@ -98,7 +98,7 @@ Battle Attribute: ??? | - | -
 
 Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Stealth | 2 | 2/3 | ▮▮▯
+Training for Attribute: Stealth | 3 | 0/3 | ▯▯▯
 Training for Attribute: Foraging | 1 | 1/3 | ▮▯▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯

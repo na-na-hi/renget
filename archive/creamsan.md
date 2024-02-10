@@ -111,7 +111,7 @@ Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachaloli
 Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Feb-9-24 | ***Updated***
 Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-29-24 | 
 Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Feb-9-24 | ***Updated***
-Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-9-24 | ***New***
+Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-10-24 | ***Updated***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
@@ -204,6 +204,8 @@ You only need to do this once per card.
 ![1](https://files.catbox.moe/9rdeg1.png)
 .
 ![1](https://files.catbox.moe/w3azsl.png)
+
+- If you are using no spoiler mode, enter this command: `/setvar key=pass YOURPASSHERE`
 
 **JS done.**
 

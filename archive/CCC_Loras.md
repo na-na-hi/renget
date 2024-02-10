@@ -14,6 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
+2/10/24 | Added XL LoRA for Dokibird, Runie Ruse, Kaminari Clara, Emi Suika, Endou Lily, Juna Unagi, Kirsche Verstahl, Lily Sin, Lottie Shinju, Matsuro Meru, Meeta Osita, Mirea Sheltz, Obake Pam
 1/26/24 | Added XL LoRA for [Phase Connect] Pipkin Pippa
 1/16/24 | Added XL LoRAs for: Aimi Hada, Amakawa Hano, Anastasia White, Anemochi Nina, Aono Nemo, Chiaki Katsumi, Eira Woolcott, Elveira, Ember Amane, FuwaMoco, Hikanari Hina, Himemiya Rie, Raki Kazuki, Rikudou Yura, Roca Rourin
 1/9/24 | Added [Indie] Giri (Oni Giri)
@@ -39,6 +40,7 @@ Date | Change
 ###V&U
 #####Meeta Osita
 https://files.catbox.moe/obsqf7.safetensors
+XL: https://files.catbox.moe/4ohs7d.safetensors
 >Strength 0.8+
 >meetaosita, 1girl, very long hair, braid, multicolored hair, hair ribbon, grey eyes, bangs, blonde hair, streaked hair
 >Optional: witch hat
@@ -262,6 +264,7 @@ XL: https://files.catbox.moe/idjyt8.safetensors
 ###PixelLink
 #####Lottie Shinju
 https://files.catbox.moe/v7mk47.safetensors
+XL: https://files.catbox.moe/k1rmhq.safetensors
 >Strength: 0.8+
 >lottie, 1girl, long hair, bangs, pink hair, red eyes, choker, tail
 ==Tail is hard== 
@@ -331,6 +334,7 @@ XL: https://files.catbox.moe/0iyjx9.safetensors
 
 #####Endou Lily
 https://files.catbox.moe/9mja3d.safetensors
+XL: https://files.catbox.moe/vgyw6g.safetensors
 >Strength: 0.8+
 >endoulily, 1girl, long hair, blonde hair, twintails, red eyes, elbow gloves, bare shoulders, single thighhigh, small breasts, hair ornament, red gloves
 ==Single thighhigh/boot is nigh impossible. Freakin' vtuber asymmetry! Worth a try though.==
@@ -346,6 +350,7 @@ https://files.catbox.moe/tr06pd.safetensors
 
 #####Emi Suika
 https://files.catbox.moe/iznuoz.safetensors
+XL: https://files.catbox.moe/kfg1mo.safetensors
 >Strength: 0.8+
 >emisuika, 1girl, long hair, black hair, hair bobbles, red eyes, two side up, hairclip, choker, white dress
 >optional: stuffed toy, stuffed animal
@@ -353,12 +358,14 @@ https://files.catbox.moe/iznuoz.safetensors
 
 #####Juna Unagi
 https://files.catbox.moe/cusal6.safetensors
+XL: https://files.catbox.moe/i6kodb.safetensors
 >Strength: 0.8+
 >junaunagi, 1girl, multicolored hair, long hair, yellow eyes, black hair, blonde hair, tail 
 ![Juna Unagi](https://files.catbox.moe/rf6j33.jpg)
 
 #####Lily Sin
 https://files.catbox.moe/m041kt.safetensors
+XL: https://files.catbox.moe/k009ku.safetensors
 >Strength: 0.8+
 >lilysin, long hair, horns, black hair, 1girl, multicolored hair, pointy ears, twintails, yellow eyes, demon girl, wings, tattoo
 >optional: pelvic tattoo
@@ -383,6 +390,7 @@ XL: https://files.catbox.moe/1mu9bg.safetensors
 ###PlayAsia(?)
 #####Obake Pam
 https://files.catbox.moe/nthf7w.safetensors
+XL: https://files.catbox.moe/ydp9az.safetensors
 >Strength: 0.8+
 >obakepam, long hair, blue eyes, hair ornament, white hair, hairclip
 >optional1: Add to base: obakehood, blue hoodie
@@ -514,7 +522,22 @@ Outfit 2. Keyword: 'shippa'
 Other outfits (less influence of first outfit). Keyword: 'pipkin'
 >pipkin, 1girl, long hair, bangs, pink hair, hair ornament, bow, animal ears, braid, small breasts, pink eyes, rabbit ears
 
+#####Kaminari Clara (XL Only)
+XL: https://files.catbox.moe/s95lv3.safetensors
+>Strength: 0.8+
+>1girl, clara, long hair,  blue hair, blue eyes, rabbit ears, multicolored hair, medium breasts, hat, bare shoulders, streaked hair, wrist cuffs, side ponytail, playboy bunny, top hat, pantyhose, fake animal ears, white leotard, see through
+
+#####Runie Ruse (XL Only)
+XL: https://files.catbox.moe/louey7.safetensors
+>Strength: 0.8+
+>1girl, runieruse, long hair, jewelry, earrings, dress, purple eyes, black dress, pink hair, cleavage, bare shoulders, tiara, hair between eyes, black gloves
+
 ###Indie
+#####Dokibird
+XL: https://files.catbox.moe/7u3yvi.safetensors
+>Strength: 0.9+
+>dkbrd, 1girl, long hair, blonde hair, twintails, smile, green eyes, bangs, hat, long sleeves, blue headwear, hair between eyes, ribbon, hair ribbon, choker, black gloves, fingerless gloves, blue dress, white jacket, blue skirt, blue footwear
+
 #####Giri (Oni Giri)
 https://files.catbox.moe/xvdr7g.safetensors
 >Strength: 0.9+
@@ -565,12 +588,14 @@ https://files.catbox.moe/xn7vye.safetensors
 
 #####Mirea Sheltz
 https://files.catbox.moe/i7i2s3.safetensors
+XL: https://files.catbox.moe/jy41wq.safetensors
 >Strength: 0.8+
 >mireasheltz, 1girl, long hair, blue eyes, flower, hair ornament, side ponytail, white hair, bow, blue dress
 ![Mirea Sheltz](https://files.catbox.moe/na77pn.jpg)
 
 #####Kirsche Verstahl
 https://files.catbox.moe/lsh6ng.safetensors
+XL: https://files.catbox.moe/wn8ixk.safetensors
 >Strength: 0.8+
 >kirsche, 1girl, animal ears, long hair, twintails, white hair, blue eyes, animal ear fluff, fox ears, tail, large breasts, cherry hair ornaments, makeup, red lips, eyeliner, white dress, blue dress
 ==Cheries are hit or miss. Not too many good pics.== 
@@ -613,6 +638,7 @@ https://files.catbox.moe/1vrfpi.safetensors
 
 #####Matsuro Meru (Meruru)
 https://files.catbox.moe/ld2rqf.safetensors
+XL: https://files.catbox.moe/3xr25u.safetensors
 >Strength: 0.8+
 >matsuromeru, pink hair, horns, red eyes, short hair 
 >optional: serafuku, sailor outfit

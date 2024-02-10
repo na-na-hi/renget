@@ -123,6 +123,9 @@ https://files.catbox.moe/odmswn.safetensors fkey
 https://files.catbox.moe/jogxo3.safetensors danimaru
 https://files.catbox.moe/l0qd64.safetensors joe_randel example gens: https://files.catbox.moe/hsxz9i.png, https://files.catbox.moe/qyby68.png, https://files.catbox.moe/ecrr64.png
 https://files.catbox.moe/r3vdhy.safetensors ookuma
+https://files.catbox.moe/q4hauw.safetensors dowman_sayman
+https://files.catbox.moe/0wodm0.safetensors coro_fae
+https://files.catbox.moe/lyvklr.safetensors freng example gen https://files.catbox.moe/8djx1f.png
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -139,7 +142,7 @@ https://files.catbox.moe/adligx.safetensors dratvan
 https://files.catbox.moe/pmv83f.safetensors poper
 https://files.catbox.moe/593c8m.safetensors nns
 https://files.catbox.moe/tviui5.safetensors whomperfruit
-
+https://files.catbox.moe/s4t7ch.safetensors jvteemo
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
@@ -150,6 +153,7 @@ https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
 https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980,nns
 https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22,cyberboi, dratvan,gorani,lewdcactus,mmmmm,mojihe,owner,poper,whomperfruit,woohyootyeehawtown,zumi
+https://files.catbox.moe/c69pcl.zip JVTeemo
 
 ###Characters
 
@@ -167,6 +171,8 @@ https://files.catbox.moe/e9ult9.safetensors character_scarlet_ff7 activation tri
 https://files.catbox.moe/mxnwc6.safetensors character_fern
 https://files.catbox.moe/qxdzd4.safetensors character_luna_platz outfit infers very well as long as it isn't manipulated too much, you might see issues with things like dress/skirt lift. This LoRA is very flexible with other outfits known by your base model. Main activation token: lunaplatz Outfit: long-sleeve dress, lapel pin, striped pantyhose Optional: blue pantyhose
 https://files.catbox.moe/zrudlt.safetensors character_harp_note has a complicated outfit, so for full control over what is inferred by the model, there are very unique tags, and in all be pretty lengthy, especially for ponyxl. Main activation token: harpnote Outfit: helmet, tinted eyewear, pink dress, pink dress straps, bodysuit under clothes, striped detached sleeves, gold bracelet, scarf, pink kneeboots You don't need all of these tokens to infer her nsfw, usually the activation token with 'helmet' and 'tinted eyewear' is enough.
+https://files.catbox.moe/j7p2f3.safetensors character_ame-chan Trigger token is ame-chan
+https://files.catbox.moe/h3udxn.safetensors character_neptune Trigger token is smolneptune Outfit: hooded jacket, white choker, d-pad hair ornaments, blue striped thighhighs, blue striped panties Can also closely replicate her frilled swimsuit with 'orange frilled bikini'.
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯

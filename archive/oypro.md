@@ -68,8 +68,9 @@ Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
+Currently Training for Stat: Attack **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Attribute: Illusory **ɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
+Currently Training for Attribute: Illusory **ɪɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
 Currently Training for Attribute: Foraging **ɪ** | Tier **ɪ**  | 1/3 | ■▯▯
 

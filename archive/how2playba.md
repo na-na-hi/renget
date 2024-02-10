@@ -16,7 +16,7 @@ Scroll to the bottom for my last edit date. This guide is not outdated.
 - Take advantage of the school bonuses and use CC in Bounty 
 - [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk. Newfags are very welcome. 
 - You can pat girls' head (Arona and Ayumu included!) 
-
+- Only roll with a spark. Don't leave things to chance
 
 ## Downloading/Setting up the game
 

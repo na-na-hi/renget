@@ -3,8 +3,9 @@
 # -> [Female](#Female) - [Male](#Male)	-	[Other](#Other) <-
 ###  ->  because foolumfy tail hngh <-
 
--> **have a request? is a fox you like not on here?** <-
--> just tell me in the threads <-
+-> **have a request? is a fox you like not on here? any suggestions for the rentry? any complains?** <-
+-> ~~just tell me in the threads~~ <-
+-> send an e-mail to bigfluffytails@proton.me. don't be shy. <-
 ***
 -> ==Latest Update 1/02/24== <-
 -> Moved Rentry. <-
