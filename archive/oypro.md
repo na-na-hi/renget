@@ -17,13 +17,13 @@ Pokémon's Ability | 	Description
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Normal Rank<-
-->*70/1200 points to Normal Rank*<-
+->*140/1200 points to Normal Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 1 | Level 9 (22HP) | 24HP
-Attack | 2 | ɴᴏ ʙᴏɴᴜs | +2 Physical Damage
+Attack | 3 | Attack Tier **ɪ** | +3 Physical Damage
 Special Attack | 1 | Species Bonus | +1 Special Damage
 Defense | 1 | Defense Tier ɪ | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
@@ -61,6 +61,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 	These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
+Stat: Attack | Tier **ɪ** (+1) | Physical Attack + 1
 Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
 Attribute: Illusory | Tier **ɪɪ** (+2) | Skill with illusion manifestations
 Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing

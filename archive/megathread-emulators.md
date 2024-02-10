@@ -29,6 +29,10 @@
 - Awesome list of emulators that are still active and regularly updated.
 - [URL Safety Results](https://www.urlvoid.com/scan/emulation.gametechwiki.com/)
 
+### 📒 [The Emulator Zone](https://www.emulator-zone.com/)
+- Most up-to-date emulators for classic video game consoles.
+- [URL Safety Results](https://www.urlvoid.com/scan/emulator-zone.com/)
+
 &nbsp;
 
 ---

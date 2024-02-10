@@ -15,16 +15,16 @@ Like she said, she’ll figure something out.
 ---- | ----
 **Origin:** Ex-human (Amnesia) | **Guild Role/Occupation:** Water Specialist/Crowd Control
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
-**Level:** 13 | **Experience to Next Level:** 80/130
+**Level:** 13 | **Experience to Next Level:** 120/130
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 1945₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2370₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Torrent | While below ⅓ HP, the damage of the User's Water-Type moves is increased by 5.
 
 ->Normal Rank<-
-->*110/1200 points to Bronze Rank*<-
+->*140/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
@@ -54,12 +54,12 @@ Rock Smash | 10-20; The Opponent's Defense is decreased by 1. The User can shatt
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 152 points to spend.
-    0/10 IP | ▯▯▯▯▯▯▯▯▯▯
+    You have 5 points to spend.
+    4/10 IP | ▮▮▮▮▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Amneplasticity | The User receives an Egg Move or TM of their choice with ≤8BP. May pull from future evolution paths if needed. Granted from Amnesia. | 0 IP
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+2. Second Wind | The User may Take a Break to restore 3 HP. Heals them to full outside of combat. | 4 IP
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
@@ -91,7 +91,7 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
 1. Rawst Berry | Soothes the user. Heals Burn.
-2. Empty | Empty inventory slot.
+2. Oran Berry | Heals the user for 10 HP.
 3. Empty | Empty inventory slot.
 4. Empty | Empty inventory slot.
 

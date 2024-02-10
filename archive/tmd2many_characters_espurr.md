@@ -38,7 +38,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 ***
 
 ->Rookie Rank<-
-->*365/400 points to Normal Rank*<-
+->*385/400 points to Normal Rank*<-
 ->![Peculiar.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***

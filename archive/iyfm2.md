@@ -368,7 +368,7 @@ As he walked forward, Inigo spotted the violet-eyed boy standing outside the bui
 
 With an irritated huff, Inigo plopped down near the back just as the teacher kept speaking. As the hero course introduction droned on, Inigo's thoughts kept drifting back to the business class, and more specifically, the cute elf girl Riri. He wished she was in this room instead of the weird train guy sneaking bites of coal while the teacher wasn't looking.
 
-A dopey smile crossed Inigo's face. Maybe he'd sneak back over to 1-C and get Riri and the Mask girl's numbers. A hot future hero like himself deserved equally stunning babes on his arms after all. And once he unleashed his all-out attack, no girls in this school would be able to resist him!
+A dopey smile crossed Inigo's face. Maybe he'd sneak back over to 1-C and get Riri and the Mask girl's numbers. A hot future hero like himself deserved equally stunning babes in his arms after all. And once he unleashed his all-out attack, no girls in this school would be able to resist him!
 
 ***
 ***

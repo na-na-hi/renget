@@ -8,22 +8,22 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Team Stardust
-**Level:** 12 | **Experience to Next Level:** 105/120
+**Level:** 13 | **Experience to Next Level:** 15/130
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 1,218 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1,318 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
 ->Rookie Rank<-
-->*365/400 points to Normal Rank*<-
+->*395/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 12 (22HP) | 21HP
-Attack | 2 | Species Bonus | +1 Physical Damage 
+Health Points | 0 | Level 12 (22HP) | 22 HP
+Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | Def Tier **ɪ** | +1 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
@@ -82,9 +82,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Shadow Gummi | Gummi
+2. Persim Berry | Heals Confusion.
+3. Gold Nugget | 50 P.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

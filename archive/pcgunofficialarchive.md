@@ -35,6 +35,7 @@ Phase Connect AI LoRAs:
 https://rentry.org/pcg-lora
 https://rentry.org/pcg-invaders
 https://rentry.org/vtaiLoRAs#phase-connect
+https://rentry.org/sdxllora
 
 /pcclg/ Divegrass Archive:
 https://www.youtube.com/playlist?list=PLkFt5rGUdJnZPxZgN3vLKcAjlK6-1gElo - outdated, use implying.fun

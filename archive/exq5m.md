@@ -360,5 +360,9 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 ![Mori Winter Weight](https://i.imgur.com/Bm4tb4D.png)
 .
 .
+
+![Mori Tentacle Stuffing](https://i.imgur.com/AfIwQmg.png)
+.
+.
 .
 .

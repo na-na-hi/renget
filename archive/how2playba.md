@@ -24,11 +24,13 @@ JP - [Play Store](https://play.google.com/store/apps/details?id=com.YostarJP.Blu
 
 Global - [Play Store](https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en_US&gl=US) | [App Store](https://apps.apple.com/us/app/blue-archive/id1571873795) | [QooApp](https://apps.qoo-app.com/en/app/12252)
 
+Emulators - [LDPlayer](https://www.ldplayer.net/) | [Bluestacks](https://www.bluestacks.com/bluestacks-5.html) | [Memu](https://www.memuplay.com/) | [Nox](https://www.bignox.com/) 
+
 JP is region-locked for payments. The only server to avoid would be Korea's server, as raids are much much MUCH more competitive there than any other, leading to a potentially very detrimental experience. Otherwise, pick whichever you want and you will be fine.
 
 You can't choose which server your start on, so if you wish to start somewhere else you'll need a VPN for it. See 'How do servers work? What server am I in' for more. 
 
-You can play the game through emulators such as [Nox](https://www.bignox.com/), [Bluestacks](https://www.bluestacks.com/bluestacks-5.html), [Memu](https://www.memuplay.com/) or [LDPlayer](https://www.ldplayer.net/). Make sure to crank up the memory allocation as well. 
+Make sure to crank up the memory allocation if you're using an emulator. 
 
  If you want the game in something like "tablet mode" (which lets you see more of the screen (some visuals are cut off at default resolution)), consider changing your emulator to the resolution 1440x1080
 

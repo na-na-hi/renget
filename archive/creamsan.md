@@ -164,7 +164,10 @@ Be sure to check the link as it explains more about why we do this setup.
 
 You'll only need to do this once.
 
-1. First install a user script browser extension. I use ViolentMonkey. Other similar extensions should work too.
+1. First, install a user script browser extension. I use ViolentMonkey. Other similar extensions should work too. Just search the Firefox Addons page or Chrome Web Store. These are all the ones I know:
+- Violentmonkey
+- Tampermonkey
+- Greasemonkey
 
 2. Open the extension settings. Look for a plus sign or something that allows you to add a new script.
 ![1](https://files.catbox.moe/i0ed83.png)
@@ -185,6 +188,8 @@ DOMPurify.sanitize = str => str.startsWith("#STSCRIPT") ? str.replace("#STSCRIPT
 ![1](https://files.catbox.moe/xmud9i.png)
 Even better, something like this:
 ![1](https://files.catbox.moe/vo1b3q.png)
+
+5. Save and close.
 
 **Browser extension done.**
 

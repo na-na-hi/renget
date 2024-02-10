@@ -10,7 +10,7 @@
 
 **Calculators**
 * [Shard Calculator](https://docs.google.com/spreadsheets/d/1M9yDoN9m3PLN6E5_AZ8ZVfMIV1LrMCt0098qe8P7sHM)
-* [EXP Calculator](https://files.catbox.moe/f4fphy.xlsm)
+* [Checklist & EXP Calculator](https://docs.google.com/spreadsheets/d/163SN_3LB6aOcdEAsCMHJiCGcADnDtAfMqv5x98mL6mg)
 * [Damage Calculator](https://docs.google.com/spreadsheets/d/1sWfIs9IsRT6PQ7vhSC-jWs8u44vjShGatV6YCFaUXQ4)
 * [Clash Calculator](https://syxp.github.io/LimComClashCalc/)
 * [KR Clash Calculator](https://github.com/dhnam/limbus_clash_calc/tree/main)
@@ -211,4 +211,4 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/31/24: Moved RR3 guides to outdated section. Did some editing for readability and added some new links. 
 2/4/24: Added optimal grinding guide link.
 2/6/24: Added sub-100 RR3 guide link.
-2/9/24: Moved some things to, added EXP calculator and edited assets link. ![lol&](https://files.catbox.moe/7dmu76.png)
+2/9/24: Moved some things to, added checklist & EXP calculator and edited assets link. ![lol&](https://files.catbox.moe/7dmu76.png)

@@ -8,16 +8,16 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 11 | **Experience to Next Level:** 52/110
+**Level:** 11 | **Experience to Next Level:** 82/110
 **Worn Item:** *Sparkly Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 1430₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1630₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to at least ≥11 against the user.
 
 ->Rookie Rank<-
-->*???/400 points to Normal Rank*<-
+->*395/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
@@ -82,7 +82,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Poison-Type Gem | Holding this makes you feel acidic. Boosts a Poison-Type move's damage by 3.
 2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
-3. Oran Berry | Heals the User for 10HP.
+3. Empty | Empty.
 4. Acidic Seed | Causes Poison on consumption.
 
 **STORAGE (2 slots)**

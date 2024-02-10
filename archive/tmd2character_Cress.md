@@ -7,16 +7,16 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 10 | **Experience to Next Level:** 7/100
+**Level:** 10 | **Experience to Next Level:** 47/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 401₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 601₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Libero | The User's Type changes to match the Move they are about to use. Super-Effective damage against the User is increased by 2.
 
 ->Rookie Rank<-
-->*250/400 points to Normal Rank*<-
+->*310/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect
@@ -50,8 +50,8 @@ Eᴍᴘᴛʏ | Description
     1/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
-1. Lightweight | The User is lighter than their species is normally supposed to be. | 1
-2. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+1. Lightweight (Active) | The User is lighter than their species is normally supposed to be. | 1
+2. Misfortune (Active) (What the hell kurum)  | The User is very unlucky. All 20s become 1s. | 0
 3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
 Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | 0 IP
 Eᴍᴘᴛʏ | Description. | N/A
@@ -66,7 +66,7 @@ Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: Survivalist **ɪɪ** | Tier **ɪɪɪ** (+3) | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Training for Move: Pyro Ball | *ᴛʀᴀɪɴᴇᴅ* | 0/5 |  ▯▯▯▯▯
+Training for Move: Pyro Ball | *ᴛʀᴀɪɴᴇᴅ* | 2/5 |  ▮▮▯▯▯
 Currently Training for Stat: Defense **ɪ** | Tier **0** (+0 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
@@ -77,8 +77,8 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Silver Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
-2. Red Gummi | Gives +10 IQ points to Steel-Types. Gives +5 to other types. Tastes like an iron tablet.
+1. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
@@ -87,7 +87,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Shellder | It sure is!
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

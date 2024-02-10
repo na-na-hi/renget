@@ -33,7 +33,7 @@ Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Tackle | 4 BP | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | No secondary effect.
+Scary Face | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 2. 
 **Leer** | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
 Protect | - | 4 AP | - | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
 Dragon Tail | 6 BP | 5 AP | ≥3 | ![Dragon-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/DragonIC.png/70px-DragonIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | The User throws the Opponent.
@@ -43,12 +43,12 @@ Basic Attack | 4BP | 4AP | ≥2 | ![???](https://matrix-client.matrix.org/_matri
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Tackle | No secondary effect.
 Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 60 points to spend.
+    You have 73 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------

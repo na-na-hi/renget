@@ -7,16 +7,16 @@
 ---- | ----
 **Origin:** Ex-Human (Amnesia) | **Guild Role/Occupation:** Mobile Artillery/Excavator
 **Species:** Larvitar | **Affiliation:** Team Ruckus
-**Level:** 11 | **Experience to Next Level:**78/120
+**Level:** 11 | **Experience to Next Level:**108/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 379₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 529₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to Burn's Attack decrease
 
 ->Rookie Rank<-
-->*335/400 points to Normal Rank*<-
+->*365/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect

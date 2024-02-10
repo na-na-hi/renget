@@ -529,7 +529,7 @@ A special category listed underneath your character sheet, these are two move sl
 	- **Confusion**: The miss range of the Afflicted's Moves is increased (1-6). However, instead of missing, they will instead target the closest ally. A critical fail will cause the Afflicted to damage themselves. Lasts 4 turns.
 	- **Poison & Badly Poisoned**: The Afflicted suffers [DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot) until cured of its Poison.
 	- **Burn**: Reduces the BP of the Afflicted's Physical Moves by half. The Afflicted suffers [DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot).
-	- **Sleep**: The Afflicted's Max AP is decreased to 0AP, meaning they are now asleep. AP returns in increments of ¼ of max AP value each turn until back to normal (round up if needed). For move purposes, user is considered asleep until their AP returns to normal.
+	- **Sleep**: The Afflicted's Max AP is decreased to 0AP, meaning they are now asleep. AP returns in increments of ¼ of max AP value each turn until back to normal (round up if needed), or until they are directly attacked. For move purposes, the User is considered asleep until their AP returns to normal.
 	- **Freeze**: The Afflicted is Frozen for two turns and cannot act. Incoming damage is reduced by 3. -2AP to thaw out on the third turn. (See [Non-Move Actions](https://rentry.co/tmd2many_rules#non-move-actions))
 
 - **Minor Status Conditions** 

@@ -122,6 +122,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 **Updated**
 [[Booth]](https://erowi.booth.pm/items/3326845) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ345818.html) : Fate Grand Order - Jeanne d'Arc -Alter- **Updated with Santa Lily & Lancer (Samurai Remnant)**
 
+[[Booth]](https://erowi.booth.pm/items/5486819) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ01153140.html) : My Hero Academia - Hagakure Tooru
 [[Booth]](https://erowi.booth.pm/items/4657714) : Honoo no Toukyuu Onna - Dodge Danko & Nikadou Peiko
 [[Booth]](https://erowi.booth.pm/items/4348476) [[DLSite]](https://www.dlsite.com/maniax/work/=/product_id/RJ437939.html) : Original - NAIsya
 ***

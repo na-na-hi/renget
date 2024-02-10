@@ -1997,3 +1997,157 @@ https://nitter.salastil.com/AryJeay/status/1755712520822681860#m  2/8/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.salastil.com/AryJeay/status/1755746994482544757#m  2/8/24
+
+>🚨| American-British aggression targeted areas in al-Darihami located in Hodeidah, Yemen.
+https://nitter.salastil.com/AryJeay/status/1755894037771362798#m  2/9/24
+
+>Israeli settlers continue to block the aid trucks to Gaza, this time at the Nitzana border crossing. They even brought their kids 🤦🏽‍♂️
+https://nitter.lanterne-rouge.info/AryJeay/status/1755895662791589998#m  2/9/24
+https://files.catbox.moe/fl60hv.mp4  2/9/24
+
+>⚡️Al-Quds Brigades published a video showing their forces targeting military vehicles on the front lines west of Khan Yunis.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755909526870479075#m  2/9/24
+https://nitter.lanterne-rouge.info/AryJeay/status/1755909526870479075#m  
+https://files.catbox.moe/6gn30b.mp4  2/9/24
+
+>🚨 Air defense activity in Damascus due to israeli aggression
+https://nitter.lanterne-rouge.info/AryJeay/status/1755924226865816034#m  2/9/24
+
+>🚨Syrian media SANA, citing a military source, says SAA Air Defenses shot down 2 drones that entered Syrian airspace from the occupied Golan Heights.
+
+The drones were intercepted, west of Damascus.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755935958938083693#m  2/9/24
+
+>🛑|In joint-operation between Al-Quds Brigades & the Mujahideen Brigades
+
+They targeted, using machine guns and heavy weapons, a military gathering of IOF soldiers and vehicles behind the eastern cemetery east of Jabalia, causing casualties among the soldiers.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755945351280779496#m  2/9/24
+
+>⚡️Al-Quds Brigades published a video showing a joint-operation with the Al-Aqsa Martyrs Brigades, using mortars to crush enemy soldiers on the front lines west of Gaza City.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755957036200669278#m  2/9/24
+https://files.catbox.moe/g5vyyd.mp4  2/9/24
+
+>🟡| BREAKING: Hezbollah confirms:
+
+Completely destroying a Merkava tank at the Al-Baghdadi site and wounding/killing those inside of it.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755960431946997985#m  2/9/24
+
+>A graffiti seen in Bureij refugee camp in Gaza mirrors Palestinians' resilience amidst intense Israeli bombardment, rendering most of its buildings uninhabitable.
+https://nitter.lanterne-rouge.info/QudsNen/status/1755955552331436326#m  2/9/24
+
+>⚡️Yedioth Ahronoth:
+Netanyahu orders preparations for a large-scale operation in Rafah: “This will require the evacuation of the population.”
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1755970563091161214#m  2/9/24
+
+>Israel wants to pressure the resistance into the ceasefire agreement that Tel Aviv wants by starting an offensive into Rafah, however the resistance has clearly said that no military pressure will work, especially Rafah offensive.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755982440340808020#m  2/9/24
+
+>An unexploded Israeli missile was dropped on a UNRWA school sheltering tens of displaced Palestinians in Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1755982794629460392#m  2/9/24
+
+>⚡️Northern front :
+
+Kiryat Shmona Sakhnin Deir Hanna Safed Karmiel under bombardment 🔥🔥🔥
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1755988630890279010#m  2/9/24
+https://files.catbox.moe/xnnqno.mp4  2/9/24
+
+>🚨BREAKING: At least 60 missiles/rockets were launched towards Kiryat Shmona and its vicinity. This is one of Hezbollah’s BIGGEST launches yet.
+
+According to Al-Mayadeen correspondent, a military target in the occupied Golan was one of the targets.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755989695417208931#m  2/9/24
+
+>🟡| Hezbollah CONFIRMS:
+
+Targeting, at 5:50 pm, the Kela IOF military base in the occupied Syrian Golan Height, with dozens of Katyusha rockets.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755995604545622476#m  2/9/24
+
+>Meanwhile, the White House claim to oppose any Israeli military plans in Rafah, citing concerns for the safety of over a million displaced Palestinians seeking refuge there.
+US Security Council spokesman John Kirby emphasized that a major military operation "without due consideration for their safety would be a disaster," and the US Secretary of State, Anthony Blinken, has conveyed Washington's opposition to a ground invasion of Rafah in meetings with Israeli officials.
+https://nitter.lanterne-rouge.info/QudsNen/status/1755995752071917994#m  2/9/24
+
+>⚡️🔻⭕️ 🔥 Al-Qassam Brigades dedicates its operations to the "Yemeni, Lebanese and Iraqi resistance." :
+
+ Scenes of sniper operations and targeting enemy vehicles in the Tal al-Hawa neighborhood, west of #Gaza City #Al-Aqsa_Flood
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1755996693210730625#m  2/9/24
+https://files.catbox.moe/gb05up.mp4  2/9/24
+
+>🛑| Al-Qassam (Hamas)
+
+Detonated an anti-personnel mine targeting a group of IOF soldiers, resulting in the elimination of 7 IOF soldiers, east of Khan Yunis. 
+
+The fighters then safely returned to their bases.
+https://nitter.lanterne-rouge.info/AryJeay/status/1755998825376813415#m  2/9/24
+
+>⚡️Walla website:
+
+Israeli officials delivered #Israel's response to #Hamas' paper on the prisoner exchange deal to Qatar, #Egypt, and the United States :
+
+Israel informed the mediators that it rejects most of #Hamas' comments but is ready for negotiations on the basis of the Paris Agreement
+
+Israel will not accept the withdrawal of its forces from the central #Gaza Strip and the return of the displaced to the north in the first stage
+
+Israel is ready to withdraw its forces from city centers in the first phase
+
+Israel expressed to the mediators its rejection of the ratio set by #Hamas for #Palestinian prisoners versus #Israeli prisoners
+
+Israel expressed to the mediators its rejection of #Hamas’ demands regarding Al-Aqsa Mosque and the placement of #Palestinian prisoners in prisons
+
+Our negotiating team is in contact with the Qatari and #Egyptian mediators in an attempt to bridge the gap to allow for serious negotiations.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756005892749738365#m  2/9/24
+
+>🚨| 🇮🇶 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Islamic Resistance in Iraq announces:
+
+Targeting a vital israeli asset on the coast of the Dead Sea, in occupied Palestine.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756059165603029129#m  2/9/24
+
+>🚨| 🇮🇶 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: The US Conoco military base in eastern Deir Ezzor, Syria, has been attacked for the 2nd time today, by the Iraqi resistance.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756071779813019959#m  2/9/24
+
+>British lawmaker @ClaudiaWebbe described Israel's plan to invade Rafah as "daylight murder". 
+
+"Yet political leaders refuse an immediate ceasefire and stopping arms to Israel. 
+Why collaborate in killing 2 million Palestinians?", she added.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756070361760739568#m  2/9/24
+
+>⚡️Israel Hayom: Moshe Davidovich, head of the settlement council, Meta Asher, about the meeting of the heads of authorities with the commander of the army’s Northern Command; 
+
+“It seems that there is no plan for the residents of the north and no horizon or knowledge about it” when they return home safely.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756013906978341157#m  2/9/24
+
+>BREAKING:
+
+🇮🇱🇺🇸🇵🇸 The Israeli government informed the White House that “the army is about to launch a major military operation in the city of Rafah” - Sky News Arabia, according to a U.S. official.
+
+Nearly 80% of the entire population of Gaza is in a refugee camp there. Another unprecedented massacre awaits us.
+
+Yesterday the White House announced that they do not support this.
+https://t.me/megatron_ron/1685  2/9/24
+
+>BREAKING:
+
+⚡ 🇪🇬 Egyptian media:
+
+"The Egyptian army deploys air defenses along the border with dysfunctional Palestine"
+https://t.me/megatron_ron/1688  2/9/24
+
+>BREAKING| The Red Crescent: 
+
+⭕️Israel's military kidnapped eight members of the society, including four doctors. It also kidnapped four of the wounded and five civilians, who were accompanying patients. 
+
+⭕️ Israel's military broke into Al Amal Hospital for ten hours and destroyed several devices then attacked and humiliated paramedics.
+
+⭕️ Israel's military stole money from the society, its employees, and the patients. It also stole laptops and walkie-talkies.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756064815900963027#m  2/9/24
+
+>🛑| What happened in Syria?
+
+• 2 waves of missiles were launched by the IOF warplanes after entering Lebanese airspace.
+
+• Syrian AD succeeded in intercepting most of the missiles.
+
+•The aggression targeted a residential villa in the Al-Assad area, which is organizationally located within Al-Dimas, west of Damascus.
+
+• ​​Mashrou’ Dummar area was not attacked, but rather a small fire occurred in solar panels resulting from fragments of a israeli missile that was intercepted in the air, and there was no other damage there.
+
+• 3 martyrs
+https://nitter.lanterne-rouge.info/AryJeay/status/1756104390019014855#m  2/9/24

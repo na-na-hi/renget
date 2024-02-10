@@ -34,6 +34,9 @@ https://files.catbox.moe/gva9ri.mp4  New  2/5/24
 >MUST WATCH: Al-Qassam (Hamas) published a video showing the sniping of an israeli officer in the Taqaddum axis, west of Gaza City.
 https://files.catbox.moe/jdad1m.mp4 New  2/7/24
 
+>Al-Qassam Brigades dedicates its operations to the "Yemeni, Lebanese and Iraqi resistance." : Scenes of sniper operations and targeting enemy vehicles in the Tal al-Hawa neighborhood, west of #Gaza City #Al-Aqsa_Flood
+https://files.catbox.moe/gb05up.mp4 New  2/9/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -54,6 +57,9 @@ https://files.catbox.moe/2f9lxf.mp4 New  2/5/24
 
 >Al-Quds Brigades published a video showing the firing of several rocket bursts targeting the IOF military sites and concentrations.
 https://files.catbox.moe/1556cd.mp4 New  2/7/24
+
+>Al-Quds Brigades published a video showing their forces targeting military vehicles on the front lines west of Khan Yunis.
+https://files.catbox.moe/6gn30b.mp4 New  2/9/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -133,3 +139,10 @@ https://files.catbox.moe/tzembz.mp4  2/7/24
 https://files.catbox.moe/4wp1sp.mp4  2/7/24
 >| Reports state that the targeted assassination hit the vehicles of Kataib Hezbollah commanders, namely Abu Baqir al-Saadi and Hajj Arkan al-Alaywi.
 https://files.catbox.moe/g6ecna.mp4  2/7/24
+>Israeli settlers continue to block the aid trucks to Gaza, this time at the Nitzana border crossing. They even brought their kids 🤦🏽‍♂️
+https://files.catbox.moe/fl60hv.mp4  2/9/24
+>Al-Quds Brigades published a video showing a joint-operation with the Al-Aqsa Martyrs Brigades, using mortars to crush enemy soldiers on the front lines west of Gaza City.
+https://files.catbox.moe/g5vyyd.mp4  2/9/24
+>Northern front :
+Kiryat Shmona Sakhnin Deir Hanna Safed Karmiel under bombardment 🔥🔥🔥
+https://files.catbox.moe/xnnqno.mp4  2/9/24
