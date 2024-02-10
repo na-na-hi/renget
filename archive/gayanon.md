@@ -54,7 +54,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/silvanus-floreo) . [Cat
 
 ***
 
-##Edda - New Bot 20.01
+##Edda
 Collaboration project with Enoch. I shall...write more here at a later date.
 
 Ephraim | Description
@@ -102,7 +102,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2
 
 ***
 
-##Standalone
+##Standalone - New Bot 10.02
 Is exactly what it says.
 
 Li Xiaoyu | Description
@@ -115,10 +115,16 @@ Cyril Kravitz | Description
 ![Cyril Kravtiz](https://files.catbox.moe/ad47rm.png)   | A small town undertaker tasked with overseeing life’s final curtain call. A curse he neither asked for nor can escape keeps others at bay. V2 card with three different PoV greetings and a small baked in lorebook.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/cyril-kravitz-a49fda13) . [Catbox](https://files.catbox.moe/1q0d3e.png) . [Background](https://files.catbox.moe/n5462z.png)
 
+Lennox | Description
+:----:  | :----: 
+![Lennox](https://files.catbox.moe/92ps7a.png)   | Lennox is a wyvern rider who seems unapproachable at first glance. Once a (forced) master of the arcane, now he acts as a guard of sorts for a small hamlet in exchange for a place to stay under the radar. V2 card with five different greetings and a small baked in lorebook.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/lennox-4ebe8790) . [Catbox](https://files.catbox.moe/cas3bw.png) . [Backgrounds](https://catbox.moe/c/sifx91)
+
 ***
 
 ##Changelog
 
+10.02 - Added Lennox (new)
 i forget to add to this.
 30.11 - Added Ephraim (new)
 27.11 - Added Various Backgrounds + Added Fanart Section
@@ -131,6 +137,7 @@ i forget to add to this.
 
 ##Fanart
 
+there should be more here. but i'm lazy.
 >A Percival I requested from [Lunare](https://www.chub.ai/users/lunare). Thank you so much!
 ![Percival Lunare](https://files.catbox.moe/ngunli.png)
 

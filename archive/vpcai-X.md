@@ -2,13 +2,13 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
+Feb.10th | Delphox (Julia) [Chub](https://www.chub.ai/characters/trapt/julia-bd9ecb8e) \| Silvally (Kartikeya) [Chub](https://www.chub.ai/characters/trapt/kartikeya-460af688)
 Feb.01st | Bao-Feng (Gyarados gijinka) [Catbox](https://files.catbox.moe/af0yxa.png) Card
 Dec.13th | Mewtwo⠀♂ [Chub](https://www.chub.ai/characters/ClausOfTheNewMoon/mewtwo-the-psychic-pokemon-r18) \| Mewtwo⠀♀ [Chub](https://chub.ai/characters/ClausOfTheNewMoon/mewtwo-r63-the-psychic-clone-pokemon)
 Nov.11th | Wicke (Hyper) [Chub](https://www.chub.ai/characters/skumbingo1013/hyper-wicke)
 Oct.06th | Hatsune Miku (Ground-type Specialist) [Chub](https://chub.ai/characters/theroyalwe/ground-miku-06d036b9)
 Sep.30th | Scolipede⠀♂ [Chub](https://www.chub.ai/characters/skumbingo1013/scolipede-b2e587ad) \| ->Gigantamax Melony [Chub](https://www.chub.ai/characters/skumbingo1013/gigantimax-melony-7760fa98) \| Klara [Chub](https://www.chub.ai/characters/skumbingo1013/mean-bitch-klara-22c05a50)<-
 Aug.18th | Ace Trainer Amanda (Pokémon Clover) [Catbox](https://files.catbox.moe/bz6nc2.png) Card \| -> Mozzamazel [Catbox](https://files.catbox.moe/gf64w5.png) Card <-
-Aug. 9th | Genwun Jennifer (Genwunner OC) [Catbox](https://files.catbox.moe/19c8tu.png) Card
 !!! note
 ***
 !!! info *Use 'Save link' to download Catbox .json files*
@@ -29,10 +29,12 @@ Characters | URLs
 **Scolipede**⠀♂ | [Chub](https://www.chub.ai/characters/skumbingo1013/scolipede-b2e587ad)
 **Elesa** (e-Bully) | [Chub](https://www.chub.ai/characters/winkyd/e-bully-elesa)
 **Rosa** | [Chub](https://www.characterhub.org/characters/Freeter/Rosa)
+**Delphox** (Julia) | [Chub](https://www.chub.ai/characters/trapt/julia-bd9ecb8e)
 **Lisia** | [Chub](https://www.characterhub.org/characters/LizakJaye/Lisia)
 **Mallow** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/mallow-the-fat-trial-captain) & [Catbox](https://files.catbox.moe/yomdyi.png) Card
 **Wicke** | [Chub](https://www.chub.ai/characters/skumbingo1013/Wicke)
 **Wicke** (Hyper) | [Chub](https://www.chub.ai/characters/skumbingo1013/hyper-wicke)
+Shiny **Silvally** (Kartikeya) | [Chub](https://www.chub.ai/characters/trapt/kartikeya-460af688)
 Hex Maniac **Helena** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/helena-the-fat-hex-maniac)
 **Marnie** | [Catbox](https://files.catbox.moe/auyt5r.png) Card
 **Gloria** & **Marnie** (Couple) | [Poe](https://poe.com/universal_link_page?displayName=MarnieAndGloria)

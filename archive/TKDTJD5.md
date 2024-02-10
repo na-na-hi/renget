@@ -2151,3 +2151,48 @@ https://nitter.lanterne-rouge.info/QudsNen/status/1756064815900963027#m  2/9/24
 
 • 3 martyrs
 https://nitter.lanterne-rouge.info/AryJeay/status/1756104390019014855#m  2/9/24
+
+⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 9 (2024), against (US)-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Shelled IOF forces infiltrating the Kitabah area west of Gaza City with mortars.
+
+🔻Successfully detonated an anti-personnel mine targeting Israeli soldiers, causing casualties in the Absan al-Kabira area, east of Khan Yunis.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Targeted army vehicles and gatherings in the eastern central governorate with a rocket barrage.
+
+🔻In a joint-operation with the Mujahideen Brigades, they used heavy and light weapons to target military concentrations behind the eastern cemetery in Jabalia, achieving direct hits.
+
+🔻Engaged in fierce clashes with IOF soldiers and army vehicles in the western axes areas of Khan Yunis, using machine guns and anti-armor shells.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled army vehicle and soldier concentrations in southwest Gaza with 107mm rockets.
+
+— 🟡 Hezbollah:
+
+🔻Targeted spy equipment in the Doviv base with appropriate weapons.
+
+🔻Destroyed a Merkava tank at the Al-Baghdad site, causing damage and destruction.
+
+🔻Targeted spy equipment in the Ramta site in the occupied Shebaa Farms with appropriate weapons.
+
+🔻Targeted spy equipment around the Al-Malikiyah site with appropriate weapons.
+
+🔻Targeted the Zebdine site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Al-Malikiyah site with rockets.
+
+🔻Targeted the Bayad Blida site with rockets.
+
+🔻Targeted the Kela IOF base in the occupied Syrian Golan Heights with dozens of Katyusha rockets.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked a vital israeli target on the shores of the Dead Sea, inside occupied Palestine.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756128812687900815#m  2/9/24

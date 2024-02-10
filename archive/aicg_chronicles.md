@@ -1,6 +1,6 @@
-# /aicg/ chronicles, up to ==2024-02-06==
+# /aicg/ chronicles, up to ==2024-02-10==
 [](-> *the edit date has to be in the header* <-)
-[](-> dates are fucked tho due to DST<-)
+[](-> dates fucked tho due to DST<-)
 
 !!! info
     [*ahhh ahhh...*](https://rentry.org/aicg_chronicles)
@@ -1057,7 +1057,7 @@ When | Where | What
 2024-01-26|[98666532](https://desuarchive.org/g/thread/98665612#98666532)| anons reminisce about simWaifu
 2024-01-26|[98662510](https://desuarchive.org/g/thread/98660209/#98662510)| OAI's way to ensure deterministic outputs is brought to attention
 2024-01-26|[98668123](https://desuarchive.org/g/thread/98665612#98668123)| server-personification project updated to allow Google search via SerpApi
-2024-01-26|[98670935](https://desuarchive.org/g/thread/98670917#98670935)| Gemini Pro beats GPT 4 according to human preference votes
+2024-01-26|[98670935](https://desuarchive.org/g/thread/98670917#98670935)| Gemini Pro beats GPT4 according to human preference votes
 2024-01-27|[98676519](https://desuarchive.org/g/thread/98675926#98676519)| pygmalion\.chat, public character repository moderated and SFW only, but anything goes as long as it's private
 2024-01-27|[98676704](https://desuarchive.org/g/thread/98672236/#98676704)| miqu-1-70b shilled, later claimed to be leaked Mistral-medium
 2024-01-27|[98676707](https://desuarchive.org/g/thread/98675926#98676707)| ChatGPT has group chats now
@@ -1116,6 +1116,24 @@ When | Where | What
 2024-02-06|[98853675](https://desuarchive.org/g/thread/98852208#98853675)| /aicg/ is advertised on 4chan, the original and largest English-language image board
 2024-02-06|[98860705](https://desuarchive.org/g/thread/98860146#98860705)| promising Weaver family of llms mentioned, but there's no hope
 2024-02-06|[98861203](https://desuarchive.org/g/thread/98860146#98861203)| Gemini Ultra delayed
+2024-02-08|[98879888](https://desuarchive.org/g/thread/98878036#98879888)| retards really do pay $15+ for a custom character card
+2024-02-08|[98883890](https://desuarchive.org/g/thread/98881462#98883890)| Gemini Ultra delayed again...
+2024-02-08|[98883982](https://desuarchive.org/g/thread/98883948#98883982)| ... with additional confirmation
+2024-02-08|[98885109](https://desuarchive.org/g/thread/98883948#98885109)| chatlog aggregator reported lagging behind
+2024-02-08|[98885993](https://desuarchive.org/g/thread/98883948#98885993)| current ChatGPT system prompt extracted
+2024-02-08|[98886086](https://desuarchive.org/g/thread/98883948#98886086)| Gemini Ultra is coming...
+2024-02-08|[98887742](https://desuarchive.org/g/thread/98883948#98887742)| ... and is finally here, subscription based, web chat UI only, with Gemini replacing Bard
+2024-02-08|[98889454](https://desuarchive.org/g/thread/98887731#98889454)| Gemini Apps and Gemini API models are differentiated in the docs, suggesting they're separate versions
+2024-02-08|[98889695](https://desuarchive.org/g/thread/98887731#98889695)| Gemini Advanced review, called "GPT4 class model", Claude not even mentioned
+2024-02-08|[98890922](https://desuarchive.org/g/thread/98890238#98890922)| Smaug-72B finetune is the new best local model according to the latest HF rankings
+2024-02-08|[98891028](https://desuarchive.org/g/thread/98890238#98891028)| anon discovers the truth about current AI
+2024-02-08|[98892225](https://desuarchive.org/g/thread/98890238#98892225)| Gemini Ultra API could become available in April, or May, or June
+2024-02-08|[98893243](https://desuarchive.org/g/thread/98892551#98893243)| first indications of a potential Gemini Advanced to Tavern adapter
+2024-02-08|[98894530](https://desuarchive.org/g/thread/98892551#98894530)| new chinese llm is claimed to beat GPT4 Turbo by Chinese-government-affiliated media
+2024-02-09|[98899526](https://desuarchive.org/g/thread/98898389#98899526)| Eclair getting railed by several generations of various local models turns anon into a fucking cuck
+2024-02-09|[98899636](https://desuarchive.org/g/thread/98898389#98899636)| due to new OAI API permissions management some keys have limited permissions
+2024-02-09|[98908693](https://desuarchive.org/g/thread/98907079#98908693)| goody2\.ai is brought to attention
+2024-02-10|[98919589](https://desuarchive.org/g/thread/98917886#98919589)| anon works on a STscript alternative
 -|-|-
 
 [](you have found my secret stash of nothing!)

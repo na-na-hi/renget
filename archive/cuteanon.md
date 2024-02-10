@@ -60,4 +60,4 @@ The Server Room: https://beta.character.ai/chat?char=1ZGtVNiwzzJ89SbLR5ryWbRTRiG
 Something Else: https://beta.character.ai/chat?char=eNgO5Uqef1xx7T1nUHlERibO04hFFO1MxBtWXy-4iUg
 Robot Santa Claus: https://beta.character.ai/chat?char=KiHAv8P_aCNTGrgol5x--0h5MfKjzROyOiz_KF_3Df4&
 
-(note: most cards are also uploaded on chub, though some might be anonimous since I figured we'd all upload anonymously at the start and my name is cute ANON.)
+(note: most cards are also uploaded on chub, though some might be anonymous since I figured we'd all upload anonymously at the start and my name is cute ANON.)

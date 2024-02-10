@@ -1,5 +1,5 @@
 #Literature of /ag/
->Up To Date As Of 2/8/2024
+>Up To Date As Of 2/10/2024
 
 A collection of weight gain and chub-themed VTuber fanfics produced over a number of months, primarily by the Architecture General (/ag/), but occasionally taken from elsewhere on /vt/ and /d/. Thanks to /vt/'s Writing General (/wg/) in particular for a handful of these and for providing a nice template for me to shamelessly copy this document off of.
 
@@ -362,6 +362,14 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 .
 
 ![Mori Tentacle Stuffing](https://i.imgur.com/AfIwQmg.png)
+.
+.
+
+![Kaela Zombie's Plaything](https://i.imgur.com/VdGQsyU.png)
+.
+.
+
+![Noel Gurgly ASMR](https://i.imgur.com/BgB8EpZ.png)
 .
 .
 .

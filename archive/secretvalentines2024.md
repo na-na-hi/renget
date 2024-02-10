@@ -18,10 +18,10 @@ Write who the gift is for so that they know. To try to avoid drama and gossip sh
 Bots posted during Valentine's Day will be listed below.
 
 ##BOTS
-[ESTIMATED LOADING TIME: 0079 cycles. FINISHED AT: February 14, 2024]
+[ESTIMATED LOADING TIME: 0079 cycles. FINISHED AT: [February 14, 2024](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive)]
 CODENAME|NAME|PILOT|LIVE FEED|DOCUMENTS
 ---|---|---|---|---
-V-00 "VALENTINE"|Robo-Saint V|**[CLASSIFIED]**|![](https://files.catbox.moe/acsg5i.gif)|%red% **[ACCESS DENIED]** %%
+V-00 "VALENTINE"|Robo-Saint V|**[CLASSIFIED]**|![](https://files.catbox.moe/p2cq5d.gif)|%red% **[ACCESS DENIED]** %%
 V-01 "WOLF"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-02 "PILOT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-03 "UMAMI"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
@@ -75,7 +75,7 @@ V-45 "VILLAIN"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED
 ~~Robo-Saint V figuring out who gets who and sending out emails: within 24 hours of the last applications, hopefully.~~
 Posting your bots: during Valentine's Day, February 14. Don't post your bots before Valentine's Day!
 **What timezone are we counting for Valentine's Day?**
-From 00:00 UTC+14 to 23:59 UTC-12, if it's Valentine's Day *somewhere* then it counts. Try to post when it's Valentine's Day in your local area.
+From [00:00 UTC+14](https://www.timeanddate.com/countdown/valentines?p0=274&msg=Valentine%27s+Day+Start&font=cursive) to [23:59 UTC-12](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive), if it's Valentine's Day *somewhere* then it counts. Try to post when it's Valentine's Day in your local area.
 **Are late applications allowed?**
 Botmakers need time to write bots, so unfortunately that won't be allowed. Channel that FOMO energy into filling the anchor with bots!
 ###Making bots

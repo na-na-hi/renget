@@ -1,11 +1,21 @@
 **PonyDiffusionV6XL LoRAs**
 
 - Ashley Graves (The Coffin of Andy and Leyley)
+https://pixeldrain.com/u/NU5U86J1 v2
+https://pixeldrain.com/u/TYqFbTRu v3
+https://pixeldrain.com/u/niW2HkGP v4
 https://pixeldrain.com/u/ddhMfwoc v5
 https://pixeldrain.com/u/zutaCP8W v6
-- Jasmine, Crysta (FernGully), Wonder Woman (2009), 
-  Emma Frost & Jean Grey (Wolverine and the X-Men), Charmcaster
-https://mega.nz/folder/lypUWYiL#KyUzXZIaSZEHOragae6s2Q
+- Jasmine, Crysta (FernGully), Tinker Bell, Wonder Woman, Harley Quinn (2009), Emma Frost & Jean Grey (Wolverine and the X-Men), Charmcaster
+https://mega.nz/folder/9vJBXI4J#M-iYaLjLbpul8ufRNWFnfQ
+- Joe Randel style 
+https://files.catbox.moe/l0qd64.safetensors
+- Jaiden Animations
+https://pixeldrain.com/u/ugYTZHxa
+https://pixeldrain.com/u/xLwiHnD9
+https://pixeldrain.com/u/CG7jNafY
+https://pixeldrain.com/u/BFB36oue 
+https://files.catbox.moe/0igtlo.png
 
 
 **SD 1.5/NAI LoRAs**
@@ -48,7 +58,7 @@ https://files.catbox.moe/5inpwl.safetensors
 - Frankie Foster
 https://files.catbox.moe/ekwjfi.safetensors
 - Ponpu style
-https://filebin.net/n8k2h03ose08kqxn/PS.7z
+~~https://filebin.net/n8k2h03ose08kqxn/PS.7z~~
 - Gobbo goblin
 https://files.catbox.moe/fm6h9c.safetensors
 

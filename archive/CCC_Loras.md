@@ -510,7 +510,7 @@ XL: https://files.catbox.moe/v10fm4.safetensors
 #####Ember Amane (XL Only)
 XL: https://files.catbox.moe/2f9t5a.safetensors
 >Strength: 0.8+
->emberamane, 1girl, long hair, hair ornament, white hair, bangs, ahoge, choker, large breasts, mole, multicolored hair, purple eyes, mole under eye, mole on breast, jacket, black shorts, fingerless gloves, midriff, crop top
+>emberamane, long hair, white hair, purple streaked hair, ahoge, hair ornament, purple eyes, mole under eye, earrings, black choker, id card, plaid crop top, black jacket, long sleeves, black fingerless gloves, midriff, black torn shorts, thigh strap, black thighhighs, mole on thigh, black footwear,
 
 #####Pipkin Pippa (XL Only)
 XL: https://files.catbox.moe/wn15lq.safetensors

@@ -2,7 +2,7 @@
 ->![artist credit: official art and maegjuw on twitter ~ psd credit: us ~ graphic credit ~ us](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/resources/miku%20graphic%20templates%20gif.gif)<-
 ***
 ->**EST. JULY 11 '23**<-
-->**LAST UPDATED : FEBRUARY 05 '24**<-
+->**LAST UPDATED : FEBRUARY 10 '24**<-
 ***
 ->[home](https://rentry.org/cyberresources) ミ☆ [pixels](https://rentry.org/cyberpixels) ミ☆ [stamps](https://rentry.org/cyberstamps) ミ☆ [symbols](https://rentry.org/cybersymbols) ミ☆ [templates](https://rentry.org/cybertemplates) ミ☆ [commissions](https://rentry.org/cybercomms)<-
 ***
@@ -19,6 +19,9 @@
 
 ->**ghost and pals**<-
 ->(EYESTRAIN) https://rentry.org/cybertemplates-kennith<-
+
+->**cookie run**<-
+->(FW) https://rentry.org/cybertemplates-silverbell<-
 
 #ᶻ 𝗓 𐰁 SHIPS ｡｡｡
 ->**bungou stray dogs**<-

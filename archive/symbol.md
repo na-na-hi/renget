@@ -4,7 +4,7 @@
 
 ->there *will* be repeats srry im a Bit lazy. i was actually just gonna make a personal rentry for myself with symbols at easy access buut i have this url so why nawt share!!! got these from a bunch of different sources i didnt collect these all on my own<-
 
-->**THX FOR 11K VIEWS**<-
+->**THX FOR 12K VIEWS**<-
 ***
 CLICK!
 [TOC]
@@ -129,7 +129,10 @@ abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ
 - ⬆️ looks like : ~~◠◠◠◠◠◠◠~~
 
  𓊆``~~``𓊅𓊅𓊅𓊅𓊅𓊅``~~``𓊇 
-- ⬆️ looks like:  𓊆~~𓊅𓊅𓊅𓊅𓊅𓊅~~𓊇 
+- ⬆️ looks like :  𓊆~~𓊅𓊅𓊅𓊅𓊅𓊅~~𓊇 
+
+``~~``⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣``~~``
+- ⬆️ looks like : ~~⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣~~
 
 ⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐⁐
 
