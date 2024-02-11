@@ -333,20 +333,20 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 0 | ɴ/ᴀ | Rememberance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | ɴ/ᴀ | 0 IP
 1 | 1. | Coin Haggler | The User can buy Items for 10% less in shops. | 40 IQ | 3 IP
 1 | 2. | Sales Pitch | The User can sell Items for 10% more in shops. | 40 IQ | 3 IP
-1 | 3. | Aggressor | The User's Attack and Special Attack Stats are increased by 1 Stat Point. The User's Defense and Special Defense Stats are decreased by 1 Stat Point. | 50 IQ | 3 IP
-1 | 4. | Defender | The User's Defense and Special Defense Stats are increased by 1 Stat Point. The User's Attack and Special Attack Stats are decreased by 1 Stat Point. | 50 IQ | 4 IP
+1 | 3. | Aggressor | The User's Attack and Special Attack Stats are increased by 1 Stat Point. The User's Defense and Special Defense Stats are decreased by 1 Stat Point. | 50 IQ | 4 IP
+1 | 4. | Defender | The User's Defense and Special Defense Stats are increased by 1 Stat Point. The User's Attack and Special Attack Stats are decreased by 1 Stat Point. | 50 IQ | 3 IP
 1 | 5. | Power Pitcher | The damage of the User's Throwable Items is increased by 3. | 30 IQ | 5 IP
 1 | 6. | Item Catcher | The User always catches Items thrown at them. | 30 IQ | 5 IP
-1 | 7. | Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 50 IQ | 4 IP
+1 | 7. | Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 50 IQ | 5 IP
 1 | 8. | Type Generalist | The User's Moves lose their STAB, however, all incoming Super-Effective damage is decreased by 3. | 50 IQ | 4 IP
-1 | 9. | Pokéglot | The User is great at learning the written and spoken language quickly. | 40 IQ | 2 IP
+1 | 9. | Pokéglot | The User is great at learning the written and spoken language quickly. | 40 IQ | 1 IP
 1 | 10. | Lockbreaker | The User is better at trying to open locks, +2 Lockpicking. They can attempt a roll once (>15 chance) to pick a Treasure Chest open for no cost. | 50 IQ | 4 IP
 1 | 11. | Extremophile | The User deals with extreme environmental conditions better, such as intense heat or freezing temperatures. While the User is afflicted with *Burn* or *Freeze*, their Defense and Special Defense are increased by 1. If acquired via Hot-Headed and Cold-Blooded, the User is no longer immune to *Burn* or *Freeze*, but their negative effects are nullified. | 40 IQ | 2 IP
 1 | 12. | Innocent | The User is perceived as more friendly but they receive a -3 penalty to lying. | 40 IQ | 2 IP
 1 | 13. | Devious | The User receives a +3 bonus to lying, but they are perceived as shifty. | 40 IQ | 2 IP
 1 | 14. | Lightweight | The User is lighter than their species is normally supposed to be. | 30 IQ | 1 IP
 1 | 15. | Heavyweight | The User is heavier than their species is normally supposed to be. | 30 IQ | 1 IP
-1 | 16. | Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 30 IQ | 3 IP
+1 | 16. | Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 30 IQ | 2 IP
 1 | 17. | Misfortunate | The User is very unlucky. All 20s become 1s. | 10 IQ | 0 IP
 1 | 18. | Bad Rep | The User's got a bit of infamy. All items in a shop cost 10% more, but Outlaws will respect them more often. | 30 IQ | 2 IP
 1 | 19. | Slippery | Constricting moves last for half the time they would normally against the User. Nothing can restrain them! | 40 IQ | 3 IP
@@ -354,7 +354,7 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 1 | 21. | Explorer | The User has a natural intuition for finding the right way. They're less likely to be lost. While fighting Ferals, the User's Accuracy is increased by 2. | 50 IQ | 1 IP
 1 | 22. | Archaeologist | The User has a natural understanding of ancient places and relics. While fighting Fossil Pokémon, the User's damage is increased by 1. | 50 IQ | 1 IP
 1 | 23. | Skywords | The User has a natural skill at navigating with the help of stars. Warp Seeds are more likely to be useful. | 50 IQ | 1 IP
-1 | 24. | Natural Rivalry | If the User's Pokémon species is involved with stated Predator/Prey relationships or has a Natural Rival, attacking that Pokémon will count as Super-Effective. However, that Pokémon will also have Super-Effective against the user. | 30 IQ | 2 IP
+1 | 24. | Natural Rivalry | If the User's Pokémon species is involved with stated Predator/Prey relationships or has a Natural Rival, attacking that Pokémon will count as Super-Effective. However, that Pokémon will also have Super-Effective against the user. | 30 IQ | 1 IP
 1 | 25. | Hex Maniac | The User is attuned to all things mystical and arcane. | 30 IQ | 2 IP
 1 | 26. | Trapper | The User is better at spotting traps and hazardous terrain. | 50 IQ | 3 IP
 1 | 27. | Wild Spirit | The User is less controversial to Wilds and Ferals. Ferals are less likely to target them in battle. | 30 IQ | 1 IP 
@@ -363,13 +363,13 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 2 | 3. | Cheerleader | At the cost of their turn, the User may Cheer an Ally's Move to increase their damage by 1. Once per quest, the User may Cheer an Ally, causing their Non-Combat Actions to have advantage; roll 2D20 and the highest roll is used. | 90 IQ | 3 IP
 2 | 4. | Practice Swinger | When the User misses, their next Move's damage is increased by 3. | 100 IQ | 3 IP
 2 | 5. | Fortified | When an Opponent misses a Move directed at the User, they will prepare themselves automatically, and the next attack the User takes will have its damage decreased by 2. | 100 IQ | 3 IP
-2 | 6. | Blast Control | Explosions have their damage against Allies decreased by 10. The User may survive an Explosion once. | 80 IQ | 4 IP
+2 | 6. | Blast Control | Explosions have their damage against Allies decreased by 10. The User may survive an Explosion with 1 HP once. | 80 IQ | 4 IP
 2 | 7. | Nontraitor | While Confused, the User cannot attack an Ally. | 70 IQ | 2 IP
 2 | 8. | Battle Buddy | After reviving a fainted Ally, their Stats are increased by 1 for 2 turns. | 70 IQ | 4 IP
 2 | 9. | Inspired Fighter | Once per turn, the User can (=20 chance) use a Basic Attack following an Ally's successful Move. The User targets the same enemy the Opponent does. | 100 IQ | 5 IP
-2 | 10. | Battle Analyst | Once per turn, the User may see the HP of one Opponent of their choosing, excluding bosses. | 70 IQ | 5 IP
+2 | 10. | Battle Analyst | Once per turn, the User may see the HP of one Opponent of their choosing, excluding bosses. | 70 IQ | 4 IP
 2 | 11. | Fortunate | Once per quest and outside of combat, the User will reroll the first critical fail they get. | 130 IQ | 4 IP
-2 | 12. | Armor Up | While using a Status Move, the User's Defense or Special Defense is increased by 1. Increase is 2 if the User's Defensive Stats are 5 or higher. | 80 IQ | 5 IP
+2 | 12. | Armor Up | Once per battle, when using a Status Move, the User's Defense or Special Defense is increased by 1. Increase is 2 if the User's Defensive Stats are 5 or higher. | 80 IQ | 5 IP
 2 | 13. | Immunized | Whenever Badly Poisoned, it will instead be reduced to Poisoned. | 90 IQ | 4 IP
 2 | 14. | Chaosity | When afflicted with a Major Status, it will instead randomly become a different Major Status. Four statuses below the current Major Status can be selected with an equal 25% chance (from D20) to occur, wraps around to the top if needed. Refer to Major Status list. | 140 IQ | 4 IP
 2 | 15. | Mental Fortress | The User is immune to having their mind read. Privacy guaranteed. | 110 IQ | 3 IP
@@ -377,29 +377,29 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 2 | 17. | Lucked Out | Non-contact moves cannot miss on 1. However, a roll of 1 will do reduced damage, counting as Not-Very-Effective regardless of circumstance. Normal immunities still apply. | 120 IQ | 4 IP
 2 | 18. | Touch-up | Healing or positively augmenting an Ally also increases a Stat based on their Species Bonus by one for a single-turn duration. | 70 IQ | 5 IP
 2 | 19. | Ghostly Silent | The User moves no louder than a whisper, almost making no noise. Enemies are less likely to target them in battle. | 70 IQ | 3 IP
-2 | 20. | Punchable | The User now appears louder, bolder, and like a bigger nuisance. Enemies are more likely to target them in battle. | 70 IQ | 3 IP
-2 | 21. | True Defense | True Damage sources have their damage decreased by 3 against the User. DoT effects have their damage increased by 3 against the User. | 90 IQ | 4 IP
+2 | 20. | Punchable | The User now appears louder, bolder, and like a bigger nuisance. Enemies are more likely to target them in battle. | 70 IQ | 2 IP
+2 | 21. | True Defense | True Damage sources have their damage decreased by 3 against the User. DoT effects have their damage increased by 3 against the User. | 90 IQ | 4 IP	
 2 | 22. | Deep Meditation | The User's Break resets Stat changes in increments of ±2. | 130 IQ | 6 IP
-2 | 23. | Agile Armor | The User's Dodge instead increases their Defense or Special Defense for 1 round. | 90 IQ | 6 IP
+2 | 23. | Agile Armor | The User's Dodge instead increases their Defense or Special Defense for 1 round, proportional to the AP used for the action. | 90 IQ | 6 IP
 2 | 24. | Hot-Headed | The User is immune to Freeze, but the range in which they are afflicted with Burn is increased by 2. While paired with Cold-Blooded, the User gains Extremophile for 0 IP. | 70 IQ | 3 IP
 2 | 25. | Cold-Blooded | The User is immune to Burn, but the range in which they are afflicted with Freeze is increased by 2. While paired with Hot-Headed, the User gains Extremophile for 0 IP. | 70 IQ | 3 IP
 2 | 26. | Ambusher | For the first round the User attacks, damage is increased by 5, but damage is decreased by 5 the round after. Effect does not function if the User is seen. | 100 IQ | 6 IP
 2 | 27. | Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. While paired with Empath, the User gains Hex Maniac for 0 IP. | 30 IQ | 2 IP
 2 | 28. | Malpractice | The User's Healing Moves heal an extra 4 HP. After the Ally is healed, if their next roll is below 10, they lose the HP they were healed for. | 90 IQ | 5 IP
 2 | 29. | Field Medic | Even without healing Items or Moves, the User is proficient at diagnosing and mending injuries. +3 to medical-based rolls. When Guarding, the Ally being Guarded is healed for 2 HP. | 110 IQ | 3 IP
-2 | 30. | Resilient | The User's HP is increased an extra +2 every 3 levels, but all healing sources are less effective by 8 HP healed. When paired with Foolhardy, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | 100 IQ | 7 IP
-2 | 31. | Foolhardy | The User's damage is increased by 2, but they are unaffected by all healing sources while in-combat except Draining Moves. When paired with Resilient, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | 100 IQ | 7 IP
+2 | 30. | Resilient | The User's HP is increased an extra +2 every 3 levels, but all healing sources are less effective by 8 HP healed. When paired with Foolhardy, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | 100 IQ | 6 IP
+2 | 31. | Foolhardy | The User's damage with Attacking Moves is increased by 2, but they are unaffected by all healing sources while in-combat. When paired with Resilient, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | 100 IQ | 7 IP
 2 | 32. | Gourmand | Prepared and Cooked Foods the User has made heal +2 HP regardless of their effect. | 90 IQ | 3 IP
 2 | 33. | Preferred Weather | User receives +2 to their Species Bonus when under the affects of their selected weather condition. | 80 IQ | 3 IP
-3 | 1. | More and Less | After the User eats a Reviver Seed or Big/Perfect Apple, a smaller version of the Item is left in their inventory. Tiny Reviver and Apple. | 200 IQ | 6 IP
+3 | 1. | More and Less | After the User eats a Reviver Seed or Big/Perfect Apple, a smaller version of the Item is left in their inventory; Tiny Reviver and Apple respectively. | 200 IQ | 6 IP
 3 | 2. | Extra Striker | The User's Basic Attack may hit twice (>14 chance). | 150 IQ | 6 IP
 3 | 3. | Wise Healer | The User's healing Items heal for +2 HP. | 180 IQ | 5 IP
 3 | 4. | Second Wind | The User may Take a Break to restore 3 HP. Heals them to full outside of combat. | 160 IQ | 4 IP
 3 | 5. | Core Strength | If the User's Defense and Special Defense are both equal to or greater than 10, their HP is increased by 2. | 160 IQ | 3 IP
-3 | 6. | Bipolar | The User's highest Offensive or Defensive Stat is increased by 5. The User's opposing Stat is decreased by 5. Swaps each turn. | 170 IQ | 6 IP
-3 | 7. | Fleetfooted | The User gains a 5% chance to dodge attacks. (Attacks now miss on 1 or 2). | 150 IQ | 2 IP
+3 | 6. | Bipolar | The User's highest Offensive or Defensive Stat is increased by 2. The User's opposing Stat (Attack:Defense) is decreased by 2. Swaps each turn. | 170 IQ | 6 IP
+3 | 7. | Fleetfooted | The User gains an extra 5% chance to dodge attacks. (Attacks now miss on 1 or 2). | 150 IQ | 2 IP
 3 | 8. | Immutable | The User's Type cannot be changed by Moves. | 170 IQ | 3 IP
-3 | 9. | Tight-Fisted | The User's Items cannot be stolen. | 160 IQ | 4 IP
+3 | 9. | Tight-Fisted | The User's Items cannot be stolen in battle. | 160 IQ | 4 IP
 3 | 10. | Barrage Guard | Each consecutive hit after the first attack the User receives in the same turn has its damage decreased by 3. | 220 IQ | 7 IP
 3 | 11. | Status Specialist | If the User has no attacking Moves, their Special Defense is increased by 1 and their Status Moves never miss. | 140 IQ | 4 IP
 3 | 12. | Faultless Defense | The User may Brace their Body and Mind simultaneously. | 160 IQ | 6 IP

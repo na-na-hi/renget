@@ -5,11 +5,11 @@ You know what to call me!
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Speedster
+**Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Scout/Fire specialist
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 12 | **Experience to Next Level:** 110/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 809₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 779₽ | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -17,7 +17,7 @@ Pokémon's Ability | Description
 Blaze | While below ⅓ HP, the damage of the User's Fire-Type Moves is increased by 5.
 
 ->Normal Rank<-
-->*110/1200 points to Bronze Rank*<-
+->*140/1200 points to Bronze Rank*<-
 ->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 2 (+1) | Modifiers | Combat Effect

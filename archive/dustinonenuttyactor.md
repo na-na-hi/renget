@@ -8,7 +8,7 @@
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** ==Desperate For Work, Actor==
 **Species:** Bagon | **Affiliation:** ==REPLACE==
-**Level:** 9 | **Experience to Next Level:** 18/90
+**Level:** 9 | **Experience to Next Level:** 48/90
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 

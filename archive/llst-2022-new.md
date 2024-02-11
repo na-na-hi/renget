@@ -617,8 +617,8 @@ Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 [Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC) 
 [Liyuu写真集「記憶の欠片 -the piece of memories-」](https://files.catbox.moe/oz4ycj.zip) 
 [(YJ) 岬なこ写真集「とろけてあまい」| Nako Misaki PB “Melting Sweet”](https://files.catbox.moe/yx58mw.zip) ![](https://files.catbox.moe/c95yx7.gif)
-[Misaki Nako 1st PB (🧲)](https://nyaa.si/view/1762141) ![](https://files.catbox.moe/c95yx7.gif)
-[Chiemi Tanaka 1st PB (w/ exclusive DVD) (🧲)](https://nyaa.si/view/1762140) ![](https://files.catbox.moe/c95yx7.gif)
+[Misaki Nako 1st PB (https://nyaa.si/view/1762141) ![](https://files.catbox.moe/c95yx7.gif)
+[Chiemi Tanaka 1st PB (w/ exclusive DVD)](https://nyaa.si/view/1762140) ![](https://files.catbox.moe/c95yx7.gif)
 [VOICE VISTA magazine vol.1 大熊和奏 (4.73mb)](https://files.catbox.moe/0nn40u.zip) ![](https://files.catbox.moe/c95yx7.gif)
  
 **Videos/Clips/Namas**
@@ -645,7 +645,7 @@ Talented Love Live - https://www.youtube.com/channel/UC__H3VjEseiHqJKCYXHDYQA
 Liella engsubs - https://youtube.com/@nagioshi
 https://youtube.com/@smithsubs876
 https://youtube.com/@bbadsubs
-Nama Subs (wholly ai/machine generated) - https://youtube.com/@Bookends-uw9db
+Nama Subs  - https://youtube.com/@Bookends-uw9db
 
  
 **Magazines & Blog Translations**

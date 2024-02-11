@@ -69,32 +69,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 Most of my cards contain <rules> tags, for formatting and instructions to the AI.
 Add to your JB/prefill: `Follow the <rules> closely.` or something like that.
 
-Some of them use CoT. To remove those thoughts, add a regex script in SillyTavern:
-**Script Name:** Anything you like
-**Find Regex:** `
-```\s*?<thinking>[\S\s]+?<\/thinking>\s*?```|<thinking>[\S\s]+?<\/thinking>
-`
-
-**Tick in Affects:**
-- [ ] User Input
-- [x] AI Output
-- [ ] Slash Commands
-
-**Tick in Other Options. Choose A or B:**
-
-A. Complete removal of thoughts.
-- [ ] Disabled
-- [ ] Only Format Display
-- [ ] Only Format Prompt
-- [x] Run On Edit
-- [ ] Substitute Regex
-
-B. Retain thoughts, but filter them out of context.
-- [ ] Disabled
-- [x] Only Format Display
-- [x] Only Format Prompt
-- [ ] Run On Edit
-- [ ] Substitute Regex
+Some of them use CoT. To remove those thoughts, add a regex script to SillyTavern. Download this: [Regex script](https://creamsan.neocities.org/files/presets/removecot.json). Once downloaded, go to Extensions > Regex, click on Import Script, then select the file you downloaded (**removecot.json** should be the filename).
 
 ***
 ##QR PRESETS
@@ -115,33 +90,25 @@ Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | F
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
-***
 Updated on **Jan-7-24**
-Updated for the new ST QR setup. This new system is pretty neat, like you can now add your own QR set on top of mine. Requires the latest ST staging.
-I still can't turn off the red /abort warnings though (dw about those).
-Also, a more flexible regex setup. Only one script needed.
+Regex scripts can now be imported.
 Extra setup further below for Image gen and JS.
+***
 
 ### Setup here:
 
 1. Download the **card's QR preset and Utility preset** above.
 
-2. In SillyTavern, go to Extensions > QuickReplies. Enable Quick Replies, then import the files by clicking the import icon and selecting the downloaded files.
+2. In SillyTavern, go to Extensions > Quick Reply. Enable Quick Replies, then import the files by clicking the import icon and selecting the downloaded files.
 ![1](https://files.catbox.moe/srtb12.jpg) 
 
 3. After importing, click the Global Quick Reply Sets plus icon, and then select **creamsan**.
 ![1](https://files.catbox.moe/zj8p7d.jpg) 
 
-4. For the regex script, go to Extensions > Regex. Click Open Editor.
+4. For the regex script, download this first: [Regex script](https://creamsan.neocities.org/files/presets/regexreplace.json)
 
-5. Create the script from the table, copy and paste accordingly. **Only tick Substitute regex** and save.
-
-Script Name | Find Regex | Replace With | Update Notes
---- | --- | --- | ---
-`regexreplace` | `/{{getvar::regex}}/{{getvar::regexflags}}` | `{{getvar::toreplace}}` | Jan-5-24
- 
-![1](https://files.catbox.moe/rps10n.jpg) 
-![1](https://files.catbox.moe/vsw2tp.jpg)
+5. Go to Extensions > Regex. Click Import Script, then select the downloaded file (**regexreplace.json** should be the filename).
+![1](https://files.catbox.moe/0zojv8.jpg)
 
 **And done.**
 

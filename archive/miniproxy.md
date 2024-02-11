@@ -10,7 +10,7 @@
 openai context size: 131072
 anthropic context size: 200000
 openai output size: 4096
-anthropic output size: 4000
+anthropic output size: 4000 (for real this time... oops)
 ```
 
 total **active** users: 111 %red% (CLOSED) %%

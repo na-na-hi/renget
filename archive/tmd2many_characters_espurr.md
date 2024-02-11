@@ -116,7 +116,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 *Equipped Item: Empty* | Empty
 1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
 2. Sourdough | +4HP for the duration of the battle.
-3. Chargestone | A sizable stone which glows with energy when force is imparted onto it. It refracts light with a strong shine.
+3. Scrappy Powder | Changes someone's Ability to Scrappy when used.
 4. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
 
 ***
@@ -126,7 +126,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
 1. Colbur Berry | None
-2. Scrappy Powder | Changes someone's Ability to Scrappy when used.
+2. Red Gummi | 
 
 ***
 

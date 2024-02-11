@@ -47,11 +47,11 @@ Eᴍᴘᴛʏ | Description
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 66 points to spend.
-    5/10 +2 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
+    4/10 +2 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. While paired with Empath, the User gains Hex Maniac for 0 IP. | 2 IP
-2. Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 3 IP
+2. Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 2 IP
 3. Hex Maniac | The User is attuned to all things mystical and arcane. | 0 IP
 Remembrance | The User's Max IP is increased by 2. Granted from Fragmented or Anamnesis. | N/A
 Eᴍᴘᴛʏ | Description. | N/A

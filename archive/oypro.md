@@ -81,7 +81,7 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Oran Berry | Heals 10 HP
+1. Strange Disk (TM 109) | A strange Disk found on top of dense Bamboo
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
 3. Blast Seed | Explodes on contact for 10 true damage.
 4. Empty | A vacant inventory slot

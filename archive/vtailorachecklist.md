@@ -1,7 +1,10 @@
-# /vtai/ Library of Checklists
+# /vtai/ LoRAs / Lycoris
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
 ***
+-> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
+
 !!! warning Quick Update (01/27/24)
 	**Sweep through Updated info, if I missed something, ill fix it later, my brain is fried from looking at the rentry background at this moment.**
 

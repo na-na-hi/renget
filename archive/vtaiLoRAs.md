@@ -1,7 +1,10 @@
 # /vtai/ LoRAs / Lycoris
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
 ***
+-> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
+
 !!! info General Information
 	**Due to hitting character limit, we have decided to move Indies onto their own rentry list. You can move to the Indie list through the Navigation Bar. Also is a link dead? Check out the MEGA LoRA archive as well, just make sure the dates in it match the update releases (CDB can take a moment to update them)**
 
@@ -13,7 +16,7 @@
 	**Missing something? let us know in the thread!**
 
 !!! warning /vtai/ LoRA scrap list
-	Meanwhile I'm gone from testing, please check out the [/vtai/ Lora Scrap](https://rentry.org/vtaiLoRAscrap) list for up to date LoRA availability that hasn't been been tested yet if you want to download them in the meantime, or check [LoRA Checklist](https://rentry.org/vtailorachecklist) for general information of what needs to be done. - Inanon 01/27/24
+	Meanwhile I'm gone from testing, please check out the /vtai/ Lora Scrap list for up to date LoRA availability that hasn't been been tested yet if you want to download them in the meantime, or check LoRA Checklist for general information of what needs to be done. - Inanon 01/27/24
 
 !!! note Update Notes
 	Farewell Update (01/27/24):
@@ -21,7 +24,7 @@
 	**Added 76 New chuubas:** Yumesaki Kaede, Kaburaki Roco, Ouro Kronii, Dollie Hitsujida, Kannagi Tenri, Taya Rex, Yumeno Akari, Mirea Sheltz, Kurune Kokuri, Aoi Nabi, Hana Macchia, Nina Kosaka, Selen Tatsuki, Aku Maria, Rindou Mikoto, Makaino Ririmu, Shiina Yuika, Hoshikawa Sara, Takamiya Rion, Machita Chima, Higuchi Kaede, Nui Sociere, Yorumi Rena, Shizuka Rin, Aia Amare, Xia Ekavira, Yozora Mel, La+ Darknesss, Natsuiro Matsuri, Mano Aloe, Harusaki Nodoka, Moona Hoshinova, Airani Iofifteen, Vestia Zeta, Kururugi Yuu, Camila, Amakawa Hano, Luluna Rina, Bazeelle, Koh Ai, Aurora Atria, Mashiro Kaon, Rainhoe, Yu-u-mi, Fairy Ichika, Kotoka Torahime, Avispa Nectarinia, Asai Ramu, Werewolf Zentreya, Geppaku Lui, Furen E Lustario, Sayu Sincronisity, Hikanari Hina, Admiral Bahroo, Funabyvt, Shubyuwu, NottVT, VanyaVT, Yano Kuromu, Mamarissa, Malpha, Kujo Ringo, Mion Akuma, Yume Hikari, Irys, Anew Uparu, Kohaku Teto, Io Azane, PeikoVT, Muu Muyu, Yamiyono Moruru, Blaise Shinryu, Apricot/Froot, Maimoto Keisuke, Fushimi Gaku, Omega Alpha
 	**Updated 28 LoRAs:** Numi, Reimu Endou, Evil Nimu, Dragon Zentreya, Amamiya Kokoro, Sukoya Kana, Filian, Shinomiya Runa, Aizawa Ema, Tosaki Mimi, Cyborg Zentreya, AuraGX, Hizuki Yui, Hiodoshi Ao, Irelyth, Mirai Akari, Ichijou Ririka, Inami Yoki, Otonose Kanade, Tomari Mari, Juufuutei Raden, Serafina, And Uge, Todoroki Hajime, Petra Gurin, Hakos Baelz, Shisui Michiru, Inuyama Tamaki
 	**17 new XL's:**
-	Gawr Gura, Houshou Marine, Aimi Hada, Amakawa Hano, Anastasia White, Anemochi Nina, Aono Nemo, Chiaki Katsumi, Eira Woolcott, Elveira, Ember Amane, FuwaMoco, Hikanari Hina, Himemiya Rie, Raki Kazuki, Rikudou Yura, Roca Rourin
+	Gawr Gura, Houshou Marine, Aimi Hada, Amakawa Hano, Anastasia White, Amemochi Nina, Aono Nemo, Chiaki Katsumi, Eira Woolcott, Elveira, Ember Amane, FuwaMoco, Hikanari Hina, Himemiya Rie, Raki Kazuki, Rikudou Yura, Roca Rourin
 	**Updated LoRA Information:**
 	Projekt Melody: Same lora, new recommended weight (my old one was a little too much), cleaned up tags
 	Tomari Mari: Cleaned up tags. (4th outfit only, 1-3 new)
@@ -2946,64 +2949,3 @@
 !!! info Example Prompt
 	(takodachi, halo, closed eyes, :3, blush, no humans, octopus)
 -> [Civitai](https://civitai.com/models/93856/takodachi-ninomae-inanis-mascot) <-
-
-
-## -> SDXL CONTAINMENT ZONE <-
--> ![WARNING](https://files.catbox.moe/nlztga.png) <-
-!!! warning Information
-	I am unable to use SDXL currently so all of these LoRA XL's are here for the people who care about prompting with them. No recommended weight or prompts provided, you are on your own with these ones! SDXL support is available on SD 1.5.0+ onwards
-
-### -> VHigh (Crypto) <-
-***
-#### -> Mayoi Nachi <-
--> [Civitai](https://civitai.com/models/132747/sdxl-lora-mayoi-nachis-sdxl-lora-file) <-
-#### -> Myorin I-fy <-
--> [Civitai](https://civitai.com/models/132750/sdxl-lora-myorin-i-fys-sdxl-lora-file) <-
-#### -> VCool <-
--> [Civitai](https://civitai.com/models/138650/vhigh-cool-sdxl-loravhigh-cools-sdxl-lora-file) <-
-#### -> VCute <-
--> [Civitai](https://civitai.com/models/138647/vhigh-cutesdxl-loravhigh-cutes-sdxl-lora-file) <-
-#### -> VHigh <-
--> [Civitai](https://civitai.com/models/138658/vhighsdxl-loravhighs-sdxl-lora-file) <-
-#### -> VPassion <-
--> [Civitai](https://civitai.com/models/138652/vhigh-passionsdxl-loravhigh-passions-sdxl-lora-file) <-
-#### -> Yoimachi Mahalos <-
--> [Civitai](https://civitai.com/models/133177/sdxl-lora-yoimachi-mahalos-sdxl-lora-file) <-
-
-### -> Hololive <-
-***
-#### -> Gawr Gura <-
--> [Civitai](https://civitai.com/models/238427/gawr-gura-or-sdxl) <-
-#### -> Houshou Marine <-
--> [Civitai](https://civitai.com/models/239394/houshou-marine-or-sdxl-or-every-outfit) <-
-
-### -> Nijisanji <-
-***
-#### -> Higuchi Kaede <-
--> [Civitai](https://civitai.com/models/177307/sdxl-higuchi-kaede-nijisanji) <-
-#### -> Tsukino Mito <-
--> [Civitai](https://civitai.com/models/161143/sdxl-tsukino-mito-nijisanji) <-
-
-### -> Indies <-
-***
-#### -> Delutaya <-
--> [Civitai](https://civitai.com/models/183537/delutaya-xl) <-
-
-### -> CCC anon's XL Models (AnimagineV3 only) <-
-***
-!!! info Anon stated all of them work fine at 1, same tags as normal loras (outside of FuwaMoco, I never tested ccc's version of it)
--> [Aimi Hada](https://files.catbox.moe/8n9nlu.safetensors) <-
--> [Amakawa Hano](https://files.catbox.moe/67ts6m.safetensors) <-
--> [Anastasia White](https://files.catbox.moe/hs7ayf.safetensors) <-
--> [Anemochi Nina](https://files.catbox.moe/idjyt8.safetensors) <-
--> [Aono Nemo](https://files.catbox.moe/0iyjx9.safetensors) <-
--> [Chiaki Katsumi](https://files.catbox.moe/sy6s7y.safetensors) <-
--> [Eira Woolcott](https://files.catbox.moe/brq764.safetensors) <-
--> [Elveira](https://files.catbox.moe/y3r5tf.safetensors) <-
--> [Ember Amane](https://files.catbox.moe/2f9t5a.safetensors) <-
--> [FuwaMoco](https://files.catbox.moe/leq304.safetensors) <-
--> [Hikanari Hina](https://files.catbox.moe/zr0jkj.safetensors) <-
--> [Himemiya Rie](https://files.catbox.moe/v10fm4.safetensors) <-
--> [Raki Kazuki](https://files.catbox.moe/kncnti.safetensors) <-
--> [Rikudou Yura](https://files.catbox.moe/iuftmu.safetensors) <-
--> [Roca Rourin](https://files.catbox.moe/1mu9bg.safetensors) <-

@@ -275,9 +275,11 @@ Additional Tagsで先頭にキャラ名を追加する。Keep tokenは1。
 	消すと複数の向きが混ざる？
 
 #### 例
-![IMG](https://files.catbox.moe/j6lflf.png)
-上の画像には次のタグがつけられた。
-`kayoko (blue archive), 1girl, solo, multicolored hair, black hair, horns, hood, white hair, halo, sitting, skirt, bag, hoodie, two-tone hair, red eyes, blush, long sleeves, black hoodie, red skirt, ponytail, bangs, looking at viewer, closed mouth, miniskirt, collarbone, hair between eyes, feet out of frame, plaid skirt, pleated skirt, sidelocks, hood down, hand up, mole on neck, medium hair, backpack, clothes writing, plaid`
+
+ Image  | Tags
+ ------ | ------
+![IMG](https://files.catbox.moe/ksvp4w.webp) | `1girl, kayoko (blue archive), solo, multicolored hair, red eyes, skirt, hood, horns, white hair, hoodie, black hair, two-tone hair, v, looking at viewer, plaid skirt, ponytail, choker, halo, plaid, red skirt, long sleeves, black hoodie, hair between eyes, piercing, bangs, pleated skirt, ear piercing, hood down, closed mouth`
+
 
 この画像から、次のタグを削除する。するとそれらのタグが`kayoko (blue archive)`に集約される。
 `white_hair,horns,black_hair,halo,red_eyes,two-tone_hair,wings,multicolored_hair,halo`
@@ -451,19 +453,6 @@ KohakuXL + KohakuXLで学習したLoRA0.85でマージ | ![Image](https://files.
 KohakuXL + SDXL Base 1.0で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/p90uaj.jpg) | キャラLoRA使用。やっぱり学習モデルはSDXL Baseじゃないとダメやね。
 AnimagineXL3 + AnimagineXL3で学習したLoRA1.0でマージ | ![Image](https://files.catbox.moe/6cbrtf.jpg) | Animagine-XL-3.0は問題なし。KohakuXLがダメっぽいね。※キャラLoRA未使用
 
-
-#### 学習とマージを繰り返して画風変更
-なんちゃってReLoRAでAnimagineXL3の画風を変えてみる。
-共通のパラメータ:Dim8/Alpha3,AdamW8bit,Warmup steps:250,cosine_with_restarts,lr_scheduler_cycle:2,train_network_unet_only
-5回繰り返した。一回目はLR0.0001,6Epochs(2784steps),強度0.7でマージ、二回目はLR5E-05,以降4Epochs(1856steps),以降強度0.9でマージ、三回目はLR2.5E-05、四回目はLR1.25E-05、五回目はLR6E-06。
-
-Image | Image
- ------ | ------
-![Image](https://files.catbox.moe/fyflnz.webp) | ![Image](https://files.catbox.moe/6zrs2b.webp)
-
-
-SD1.5と違って再現度高いのに崩壊しないのはええね
-
 ### SDXL 1024 vs 512
 SDXLは本来1024pxで学習するが、512pxでやるとどうなるか検証。
  1024 | 512 | 画像サイズ調整用
@@ -496,14 +485,6 @@ Unet onlyはプロンプトの応答性と品質がやや低下するように�
  Image  | Dummy
  ------ | ------
 ![Image](https://files.catbox.moe/tyq8pf.jpg) | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-
-### キャラの品質向上
-既知のキャラの品質を向上させてみる。
- Image  | Dummy
- ------ | ------
-![Image](https://files.catbox.moe/hcvd1m.webp) | 　　　　　　　　　　　　　　　　　　　　　　　　　
-
-衣装とヘイローは良くなった。しかし目が汚くなって色が変化した(多分パラメータの問題)
 
 ### SDXLのDim(rank)
 zundamonがdim4でd2が2でd1が1。

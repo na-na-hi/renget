@@ -1,6 +1,9 @@
 # /vtai/ LoRAs / Lycoris
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
+***
+-> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
 
 !!! info Welcome to the Indie side of the LoRA Rentry, here you will find all LoRA's for Indie Chuubas that have been tested so far. You can return to the main list through the Navigation Bar.
 !!! note Keep in mind + Extra info
@@ -8,7 +11,7 @@
 	**DO NOT listen to the recommended weights like it's gospel, if you deem them too low or too high, you can play around with them, the idea of the number is based on "as close to correct design without taking too much control of the style", highly recommended for people who don't like their model's style to deviate too much**
 
 !!! warning /vtai/ LoRA scrap list
-	Meanwhile I'm gone from testing, please check out the [/vtai/ Lora Scrap](https://rentry.org/vtaiLoRAscrap) list for up to date LoRA availability that hasn't been been tested yet if you want to download them in the meantime, or check [LoRA Checklist](https://rentry.org/vtailorachecklist) for general information of what needs to be done. - Inanon 01/27/24
+	Meanwhile I'm gone from testing, please check out the /vtai/ Lora Scrap list for up to date LoRA availability that hasn't been been tested yet if you want to download them in the meantime, or check LoRA Checklist for general information of what needs to be done. - Inanon 01/27/24
 
 [TOC3]
 

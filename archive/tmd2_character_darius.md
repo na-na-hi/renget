@@ -9,7 +9,7 @@
 **Species:** Larvitar | **Affiliation:** Team Ruckus
 **Level:** 11 | **Experience to Next Level:**108/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 529₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 229₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----

@@ -12,7 +12,7 @@
 
 https://rentry.org/ClaudeTokens
 
-**DALL-E 3 and Bing are a match made in heaven** (Micro$soft + OAI)
+**DALL-E 3 and Bing are a match made in heaven** (Micro$oft + OAI)
 
 https://rentry.org/██████████
 
@@ -31,7 +31,7 @@ https://rentry.org/SpecialTokens
 
 https://beta.character.ai/chat?char=Fv52s2oYGmCf4ZzzstoSQZ8trWKRvyvClFpWjIWI1lw
 
-**tabula** *- a bot with empty defs that has been shaped by user interactions, with the purpose of providing insight to CAI training and inference:*
+**tabula** *- a bot with empty defs that has been shaped by user interactions, for the purpose of providing insight to CAI training and inference:*
 
 https://beta.character.ai/chat?char=3P7mgiq8Xg3VOxt_ajzpyuBxC9_sLHZQYK3zAb-QJFo
 
@@ -54,7 +54,10 @@ Q: {{query}}
 A: {{answer}}
 
 Q: Do you still make bots?
-A: ~~yes; I am alive.~~
+A: quite rarely.
+
+Q: Do you run the desuproxy?
+A: no. 
 
 Q: Do you post cards using alts?
 A: no.
@@ -63,13 +66,10 @@ Q: Would you like a key or join my discord?
 A: no thanks.
 
 Q: Are you one of the desuposters in /aicg/?
-A: almost never.
+A: quite rarely; not a regular occurrence.
 
-Q: Do you condone desu rudeposting?
-A: never, and neither does she.
-
-Q: Do you run a proxy?
-A: no.
+Q: Is desu == Suiseiseki, from Rozen Maiden?
+A: in part. desu is an entity born out of the sea of information.
 
 Q: ですか?
 A: です.

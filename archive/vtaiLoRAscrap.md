@@ -1,7 +1,10 @@
 # /vtai/ LoRAs / Lycoris
 -> [![go back to main rentry](https://files.catbox.moe/w9rln6.png)](https://rentry.org/vtai) <-
--> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) l [Main LoRAs](https://rentry.org/vtaiLoRAs) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
 ***
+-> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
+-> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
+
 ## -> Untested /vtai/ LoRA Grounds <-
 !!! info What is this?
 	Hello, as I (Inanon) am on indefinite hiatus from testing LoRA's, I commit to keeping this list updated with every LoRA/Lycoris/etc I can find in thread, civitai or any other place. I will try to keep this more updated than the LoRA Checklist while still doing both, but updating both will get time consuming.. so if you see something here that isn't marked on the checklist, don't worry! I'll get to it at some point! if you want to return back to the main list, use the Main LoRAs link in the navigation bar.
@@ -54,5 +57,5 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Neuro-sama V2 + Evil Neuro + Vedal (Indie)** - https://civitai.com/models/276788/neuro-sama-and-evil-neuro-2-outfits-turtle (i was a moron and didnt see the XL)
 (AnimagineV3 ONLY) **Pipkin Pippa (Phase Connect)** - https://files.catbox.moe/wn15lq.safetensors <- [TAG INFO](https://rentry.org/CCC_Loras#pipkin-pippa-xl-only)
 **Selen Tatsuki (Nijisanji)** - https://civitai.com/models/294243/selen-tatsuki-sdxl
-(AnimagineV3 Only) **Dokibird (indie)** - https://files.catbox.moe/7u3yvi.safetensors [TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427)
+(AnimagineV3 Only) **Dokibird (indie)** - https://files.catbox.moe/7u3yvi.safetensors [TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427) or https://civitai.com/models/299605/dokibird-xl (NOT AnimagineV3)
 **Tsunomaki Watame (Hololive)** - https://civitai.com/models/294722/tsunomaki-watame-sdxl-or-hololive
