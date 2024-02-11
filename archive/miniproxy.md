@@ -6,11 +6,11 @@
     https://assistant.aitism.net/assistant/miniproxy/anthropic (api claude)
     https://assistant.aitism.net/assistant/miniproxy/gemini (gemini-pro no quota limit)
     enable streaming if you receive timeout errors. Cloudflare has a 100 second limit.
-``` 
+``` js
 openai context size: 131072
 anthropic context size: 200000
 openai output size: 4096
-anthropic output size: 4000 (for real this time... oops)
+anthropic output size: 4000
 ```
 
 total **active** users: 111 %red% (CLOSED) %%

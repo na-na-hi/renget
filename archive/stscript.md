@@ -185,7 +185,7 @@ So how will we pass data to our "functions"? With variables, in a kind of assemb
 ```
 And if we previously created our `multiply` QuickReply as:
 ```
-/qr-create set=TestPreset hidden=true label=multiply /mul multiplyA multipleyB \| /echo \{\{pipe\}\}
+/qr-create set=TestPreset hidden=true label=multiply /mul multiplyA multiplyB \| /echo \{\{pipe\}\}
 ```
 Then the result should be an echo with the value `10`. Note that you may have to give the `/setvar` and `/run` commands individually, or else the first `/setvar` will consider everything starting with `2` the value to be added to `multiplyA`, new lines and all. To guard against it, you should give the command as:
 ```
@@ -683,7 +683,7 @@ To give you an idea:
 	/setvar key=item_rarity Legendary \|
 	" |
 
-/genraw lock=on {{charJailbreak}}{{charPrompt}} Generate a funny short lore entry for a {{getvar::item_name}} |
+/genraw lock=on {{charJailbreak}}{{charPrompt}} Generate a funny short lore entry for a {{getvar::item_rarity}} {{getvar::item_name}} |
 /setvar key=item_lore {{pipe}} |
 /input default="{{getvar::item_rarity}} {{getvar::item_name}} # {{getvar::item_lore}} # Damage: {{getvar::item_damage}}" The generated item:
 ```
@@ -698,7 +698,7 @@ TODO
 __Configuration, automation, and using the LLM__
 TODO
 TODO: mention that /genraw doesn't use streaming?
-TODO: discuss making scripted cards end-user friendly and easy to set up
+TODO: discuss making scripted cards end-user friendly and easy to set up + reflush all vars + conversation lifecycle changes
 
 __HTML5 minigames and hacking STscript__
 Remember how popups can be used to render any kind of HTML code? You can do that in the conversation too. Try sending the following message: `<h2>asd</h2>` or `<button>Click</button>`. First you'll notice your message getting printed as a heading, and then as a legitimate button you can click. It won't do anything, of course, but this gives us some options.
@@ -844,3 +844,4 @@ TODO
 __Recommendations, Quality of life stuff__
 TODO: STscript utils
 TODO: PList injection
+TODO: backward/forward compatibility

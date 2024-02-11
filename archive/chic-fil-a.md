@@ -1,7 +1,7 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #52 (Thursday, 8 February 2024, 06:00 UTC)<-
-->HAPPY 1 YEAR OF /CFA/!<-
+->Last updated on thread #53 (Sunday, 11 February 2024, 08:15 UTC)<-
+->She's cute.<-
 
 == **LINKS**
 - [/Chic-Fil-A/ Image Collection](https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q) (Fox women art originating from /hmofa/ or /cfa/.)
@@ -77,7 +77,12 @@ https://archiveofourown.org/works/52637095
 `Trixi The Clown`
 https://archiveofourown.org/works/31977724
 [![Trixi and Richard: 1696883158.askart_66d0563b-060c-40a5-a2d5-350a6c3471b6_jpeg.jpg / 1696884602380.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1696/88/1696884602380.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1696/88/1696884602380.jpg)
-
+---
+---
+#####TypicalFloof
+`Refuge`
+https://archiveofourown.org/works/51377275
+[![Refuge Cover Art: Cover_TF comp.png / 1707617184747.png](https://desu-usergeneratedcontent.xyz/trash/image/1707/61/1707617184747.png)](https://desu-usergeneratedcontent.xyz/trash/image/1707/61/1707617184747.png)
 ---
 !!! info
     ##/Chic-Fil-A/ Thread-only Greentexts
@@ -1160,8 +1165,12 @@ Rules:
 Please post green texts and stories as well. /hmofa/ stories that feature vixens are welcome.
 
 ---STORIES---
+By TypicalFloof
+\>Refuge
+https://archiveofourown.org/works/51377275
+
 By Nightblade53
-\>Humies (Ch. 3)
+\>Humies (Ch. 4)
 https://archiveofourown.org/works/52637095
 
 By Trashbinlid

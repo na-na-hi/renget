@@ -1370,3 +1370,28 @@ Cons:
 - M.Atk buffs are capped
 - Somewhat reliant on barriers being up for maximum efficiency
 - TP restoration is only to self
+
+### ->Astral Hiyori ![Fire](https://pomf2.lain.la/f/vhkpn9gl.png)<-
+**TBD**
+
+
+-> ![Ast.Hiyori]()<-
+
+Pros:
+- TBD
+
+Cons:
+-
+
+
+### ->Eris ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-
+**TBD**
+
+
+-> ![Eris]()<-
+
+Pros:
+- TBD
+
+Cons:
+- TBD

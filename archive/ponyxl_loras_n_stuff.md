@@ -107,25 +107,27 @@ https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
 https://files.catbox.moe/cd6exz.safetensors andava
 https://files.catbox.moe/j10wt5.safetensors source_filmmaker
 https://files.catbox.moe/o1fmsv.safetensors namako_daibakuhatsu
-https://files.catbox.moe/800fnr.safetensors ishikei you can maybe put source_anime in the positive prompt to make it look more like his old art but as far as i can tell that just happens no matter what
+https://files.catbox.moe/y48921.safetensors ishikei you can maybe put source_anime in the positive prompt to make it look more like his old art but as far as i can tell that just happens no matter what
 https://files.catbox.moe/v95tlf.safetensors murata_range works well on both pony and the autism_pony mix
-https://files.catbox.moe/3aewnu.safetensors rhasta you probably need to use source_anime in the positive prompt and/or nose in the negative prompt to stop the model from deciding to add realistic noses
+https://files.catbox.moe/qj3aev.safetensors rhasta you probably need to use source_anime in the positive prompt and/or nose in the negative prompt to stop the model from deciding to add realistic noses
 https://files.catbox.moe/kh4goe.safetensors laserflip
 https://files.catbox.moe/iq5u22.safetensors ibukichi
 https://files.catbox.moe/29oqmg.safetensors kurono_mitsuki
 https://files.catbox.moe/mj8sls.safetensors tokkyu
 https://files.catbox.moe/s5n8ul.safetensors moshimoshibe 
 https://files.catbox.moe/amb4x8.safetensors shuz_ requires activation prompt of shuz and helps to put 3d in the negatives
-https://files.catbox.moe/a0rftx.safetensors kazutake_hazano 
+https://files.catbox.moe/uq6j2r.safetensors kazutake_hazano 
 https://files.catbox.moe/bxoljw.safetensors fujou_joshi
 https://files.catbox.moe/cbrvwe.safetensors millefeuille helps to put monochrome and greyscale in the negatives, hands are pretty rough, unfortunately https://files.catbox.moe/sc7pis.safetensors tottotenero add text and speech bubble to the negative and maybe some quality tags to the positive prompt and it should stop it from generating text
 https://files.catbox.moe/odmswn.safetensors fkey
-https://files.catbox.moe/jogxo3.safetensors danimaru
+https://files.catbox.moe/z6otq2.safetensors danimaru
 https://files.catbox.moe/l0qd64.safetensors joe_randel example gens: https://files.catbox.moe/hsxz9i.png, https://files.catbox.moe/qyby68.png, https://files.catbox.moe/ecrr64.png
 https://files.catbox.moe/r3vdhy.safetensors ookuma
 https://files.catbox.moe/q4hauw.safetensors dowman_sayman
 https://files.catbox.moe/0wodm0.safetensors coro_fae
 https://files.catbox.moe/lyvklr.safetensors freng example gen https://files.catbox.moe/8djx1f.png
+https://files.catbox.moe/xt69xa.safetensors nakkar
+https://files.catbox.moe/r0eizn.safetensors camonome Recommendation: speech bubbles in negative prompt.
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -143,6 +145,8 @@ https://files.catbox.moe/pmv83f.safetensors poper
 https://files.catbox.moe/593c8m.safetensors nns
 https://files.catbox.moe/tviui5.safetensors whomperfruit
 https://files.catbox.moe/s4t7ch.safetensors jvteemo
+https://files.catbox.moe/2onz8e.safetensors borscht
+
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
@@ -152,8 +156,9 @@ https://files.catbox.moe/zxvyki.7z nyantcha
 https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
 https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980,nns
-https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22,cyberboi, dratvan,gorani,lewdcactus,mmmmm,mojihe,owner,poper,whomperfruit,woohyootyeehawtown,zumi
+https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22, cyberboi, dratvan, gorani, lewdcactus, mmmmm, mojihe, owner, poper, whomperfruit, woohyootyeehawtown, zumi, furau, USjWwjFZLUtdSoz,
 https://files.catbox.moe/c69pcl.zip JVTeemo
+https://mega.nz/file/o01XhDIC#8hukpUUeFCThQj2WPe1O0OT7LDWHGvGmFr_y7GVUhfI borscht
 
 ###Characters
 
@@ -173,6 +178,7 @@ https://files.catbox.moe/qxdzd4.safetensors character_luna_platz outfit infers v
 https://files.catbox.moe/zrudlt.safetensors character_harp_note has a complicated outfit, so for full control over what is inferred by the model, there are very unique tags, and in all be pretty lengthy, especially for ponyxl. Main activation token: harpnote Outfit: helmet, tinted eyewear, pink dress, pink dress straps, bodysuit under clothes, striped detached sleeves, gold bracelet, scarf, pink kneeboots You don't need all of these tokens to infer her nsfw, usually the activation token with 'helmet' and 'tinted eyewear' is enough.
 https://files.catbox.moe/j7p2f3.safetensors character_ame-chan Trigger token is ame-chan
 https://files.catbox.moe/h3udxn.safetensors character_neptune Trigger token is smolneptune Outfit: hooded jacket, white choker, d-pad hair ornaments, blue striped thighhighs, blue striped panties Can also closely replicate her frilled swimsuit with 'orange frilled bikini'.
+https://files.catbox.moe/80ioqv.safetensors character_nepgear Trigger token is nepugia Outfit: long-sleeve sailor dress, d-pad hair ornament, white choker, pink striped thighhighs, yellow neckerchief, pink striped panties, thigh strap
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯

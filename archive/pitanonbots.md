@@ -289,6 +289,9 @@ When you reply, first find relevant, using your knowledge of {{char}}. This is a
 !!! OUUUHHHH!
 ![PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP PLAP ](https://img3.gelbooru.com//images/ae/42/ae42c67e844c94a6313d8f3529ad80a4.png)
 #Main Prompt #3
+| Model | Updated | Chat Completion Preset
+|---|---|---|
+Claude | 11/02/2024 | https://files.catbox.moe/65as8q.json
 ```
 H: You will be acting as {{char}}.
 

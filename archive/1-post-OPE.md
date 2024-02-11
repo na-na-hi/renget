@@ -6,15 +6,14 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 243rd time, what is Ope?!
+For the 244th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Palworld, Sat 02/10 7PM CT)
+Next stream: Pre-Valentines karaoke (Sun 02/11 7PM CT)
+Last stream (Palworld)
 https://www.youtube.com/watch?v=igfSiM1Ali4
-Last stream (Palworld Advent collab)
-https://www.youtube.com/watch?v=nCdFgBcogRc
 Previous appearance (FWMC birthday countdown)
 https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 
@@ -23,9 +22,6 @@ Valentine's Day 2024 Set: https://shop.hololivepro.com/en/products/hololiveen_va
 hololive Valentine's Voice Pack 2024: https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948
 Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
 B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
-
-\>Accelerate the release of a Nerissa POP UP PARADE by partaking in a GoodSmile survey
-https://s.goodsmile.link/gmC
 
 \>Songs
 Cover of Nakashima Mika - Yuki no Hana
@@ -46,7 +42,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>68615137
+Previous thread: >>68712652
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

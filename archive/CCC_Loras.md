@@ -16,7 +16,7 @@ Date | Change
 :------: | :------:
 2/10/24 | Added XL LoRA for Dokibird, Runie Ruse, Kaminari Clara, Emi Suika, Endou Lily, Juna Unagi, Kirsche Verstahl, Lily Sin, Lottie Shinju, Matsuro Meru, Meeta Osita, Mirea Sheltz, Obake Pam
 1/26/24 | Added XL LoRA for [Phase Connect] Pipkin Pippa
-1/16/24 | Added XL LoRAs for: Aimi Hada, Amakawa Hano, Anastasia White, Anemochi Nina, Aono Nemo, Chiaki Katsumi, Eira Woolcott, Elveira, Ember Amane, FuwaMoco, Hikanari Hina, Himemiya Rie, Raki Kazuki, Rikudou Yura, Roca Rourin
+1/16/24 | Added XL LoRAs for: Aimi Hada, Amakawa Hano, Anastasia White, Amemochi Nina, Aono Nemo, Chiaki Katsumi, Eira Woolcott, Elveira, Ember Amane, FuwaMoco, Hikanari Hina, Himemiya Rie, Raki Kazuki, Rikudou Yura, Roca Rourin
 1/9/24 | Added [Indie] Giri (Oni Giri)
 12/29/23 | Added [AuroraLiveVR] Yume Hikari, [AuroraLiveVR] Mion Akuma, [Vee] Kujo Ringo and [774] And Uge
 12/22/23 | Added [AuroraLiveVR] Serafina - 5 (6?) outfits  ~~kill me pls~~
@@ -253,13 +253,14 @@ https://files.catbox.moe/rsdqio.safetensors
 ![Minazuki Mana](https://files.catbox.moe/q8d9s7.jpg)
 
 ###Varium
-#####Anemochi Nina
+#####Amemochi Nina
 https://files.catbox.moe/b9rwbb.safetensors
 XL: https://files.catbox.moe/idjyt8.safetensors
 >Strength: 0.8+
 >anemochinina, 1girl, long hair, braid, hair ornament, animal ears, blonde hair, yellow eyes, fluffy tail
 ==Animal ears size can vary but they should be fox/fennec-like most of the time== 
-![Anemochi Nina](https://files.catbox.moe/myy5xi.jpg)
+==The tag is spelled wrong. Deal with it!==
+![Amemochi Nina](https://files.catbox.moe/myy5xi.jpg)
 
 ###PixelLink
 #####Lottie Shinju
