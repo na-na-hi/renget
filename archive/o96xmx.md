@@ -296,35 +296,35 @@ SSS+ | Ult 2 damage increased | Damage - high | No | No | Poor Opportunity Cost
 
 #->Luna: Oblivion<-
 ->![Sex, Sex? Yeah Sex, Yep Sex, Sex is good](https://i.imgur.com/71GPJsr.png)<-
-Cooming soon
 
-Same shit
+SEX
 
-- 3 forms (Base, Main sequence and Final Sequence?)
+- 3 forms (Base, "Main sequence" and "Final Sequence")
 - Only yellows on base form
 - Blues and Reds during Main and Final
-- orbs and hold atk build up number stack
-- tap ult enter main sequence and hold ult enters final
-- 3 hold atks (one exclusive to Base form, 2 during both ult forms, referring to them as hold 2 and hold 3)
-- Hold ult (Final Sequence) eats all your orbs and gives stacks based on orbs consumed, puts you in gauge 2 immediately and hold 3 damage scales on number stacks, can only use hold 3 once, gets 1 special orb per basic atk.
-- Tap ult (Main Sequence) keeps orbs and gauge 1, when it fills you do hold 2 to swap into gauge 2 and fill it to do hold 3, then it swaps back and you can repeat. Ult dmg scales on number stacks.
+- Orbs and hold atk build up number stack
+- tap ult enters main sequence and hold ult enters final
+- 3 different hold atks (one exclusive to Base form, 2 during both ult forms, referring to them as hold 2 and hold 3)
+- Tap ult (Main Sequence) keeps orbs and gauge 1, when it fills you do Hold 2 to swap into Gauge 2 and fill it to do Hold 3 (some chinks call this rasengan for some reason), then it swaps back and you can repeat. Ult dmg scales on number stacks.
+- Hold ult (Final Sequence) eats all your orbs and gives number stacks based on orbs consumed, puts you in Gauge 2 immediately and Hold 3 damage scales on number stacks, can only use Hold 3 once, gets 1 special orb per basic atk.
+- If you would get hit when holding atk luna will dodge automatically, consumes dodgebar
 
 ![Core](https://i.imgur.com/PYu55L0.png) Gauge 1 
-![Core](https://i.imgur.com/GixBVu5.png) Gauge 2 (exclusive for hold 3)
+![Core](https://i.imgur.com/GixBVu5.png) Gauge 2 (exclusive for Hold 3)
 
 !!! info Normal Playstyle:
 > 3-Ping/Hold Atk until core passive gauge is full and release > Ult when you can >
-> If tap Main Sequence then: build up gauge with orbs/atk/hold 2 > Hold 2 to change to gauge 2 > build up gauge with orbs/atks/hold atk > Hold 3 > Ult finisher
-> If Final Sequence then: Hold 3 > use orbs or some shit if you want but you might as well ult asap then go back to step 1
+> If Main Sequence (tap) then: build up gauge with orbs/atk/hold 2 > Hold 2 to change to Gauge 2 > build up gauge with orbs/atks/hold atk > Hold 3 > Ult finisher
+> If Final Sequence (hold) then: Hold 3 > use orbs or some shit if you want but you might as well ult asap then go back to step 1
 Final sequence damage is frontloaded into it's activation cast and hold 3, good for burst, Main Sequence damage is technically spread more evenly and is more orb friendly (backloaded to ult finisher)
 
 ##->Rankup Summary<-
 Breakpoint | Tl;dr | Type - Value | Playstyle change? | Role change? | Priority?
 :----: | ---- | ---- | ---- | ---- | :----:
-S5 | Hold 3 and both ult finishers proc all QTEs | QoL - High | No | No | Moderate
+S5 | Hold 3 and both ult finishers proc all QTEs | QoL - High | No | No | High
 SS | Entering either sequence procs matrix if uncooled / in Main Sequence every 10 of number stack increases hold 3 damage / In Final Sequence, Luna does damage when switching out | Damage - QoL High  | No  | No | High
-SS3 | Ult finisher base damage increased by 20% / gain gauge if auto dodge procs / Final Sequence special orbs get a just dodge timing that gives 6 special orbs if you're successful | Damage - QoL  Moderate | No | No | Very Poor Opportunity Cost because of how her kit's damage is distributed, essentially just ult base damage. Get signature and cub first
-SSS | Number stacks doubled, gain doubled / Final Sequence entry increases its damage per orb consumed / Shill shield damage increased to 150% (from 100%)| Damage = Very High | No | No | Moderate
+SS3 | Ult finisher base damage increased/ Gain Gauge if auto dodge procs / Final Sequence special orbs get a just dodge timing that gives 6 special orbs if you're successful | Damage - QoL  Moderate | No | No | Poor Opportunity Cost because of how her kit's damage is distributed, essentially just ult base damage. Get signature and cub first, look at other characters, then decide.
+SSS | Number stacks doubled, gain doubled / Final Sequence entry increases its damage per orb consumed / Shill shield damage increased to 150% (from 100%)| Damage = Very High | No | No | Moderate 
 SSS3 | Ult finisher and Final Sequence entry damage increased | Damage - High | No | No | Poor Opportunity Cost
 SSS6 | 3-Ping and Final Sequence orb damage increased | Damage - High | No | No | Poor Opportunity Cost
 SSS+ | Hold atk damage increased| Damage - high | No | No | Poor Opportunity Cost

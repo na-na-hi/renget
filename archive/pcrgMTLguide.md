@@ -32,7 +32,7 @@ The basic translation for both the menus and the stories should now be set up. H
 DeepL does a good enough job that you can follow the story, but the translation is fairly rough and the latency can make waiting for the translation to be displayed a bit annoying. A local installation of [Sugoi](https://github.com/Vin-meido/XUnity-AutoTranslator-SugoiOfflineTranslatorEndpoint) improves both of those.
 This guide assumes that you still went through the steps from [PriconeTL](https://rentry.org/pcrgMTLguide#priconetl)
 
-1. Grab the Sugoi Translator Toolkit from somewhere, for example [here](https://sugoitoolkit.com/)
+1. Grab the Sugoi Translator Toolkit from somewhere, for example [here](https://sugoitoolkit.com/) or [here](https://mega.nz/file/ezpDSBgR#wX3kgvejz4VBdwgDuOehK2XNZdmt65I4uqklRyB1emE)
 2. Extract it to the directory of your choice
 3. Open priconner\BepInEx\config\AutoTranslatorConfig.ini and change the second line to Endpoint=SugoiOfflineTranslator
 4. Scroll down to the bottom, where you find [SugoiOfflineTranslator], make the following changes:

@@ -1,26 +1,21 @@
--> ![](https://cdn.discordapp.com/attachments/1064597015503315054/1108079448395350026/Untitled2220_20230516181154.png) <-
-⠀⠀
--> ![](https://media.discordapp.net/attachments/1184787934356979772/1197976980574965770/blur_edges_16.png?ex=65bd3a01&is=65aac501&hm=ddc407fc2cb78a1cfbc30ff5773ae222753f96d2497a793668f1e2a6156172ec&=&format=webp&quality=lossless&width=312&height=348) 
-%#aac7b6% **nicole** %% ୨୧ **han**
-**any** %#81757d% !~[pr](https://pronouns.cc/@kangtaehyun)~! %%ns ﹟%#a14642% **INFJ** %%
-mixed %#565c5c% seasian %%
-%#81757d% !~[back](/6thsinner)~! %%<-
-⠀⠀
-***
-***
--> %#a14642% **byi** %% not good in dms (unless close) . loud  *once i'm comfortable* .
-!~heavy~! kys/kms jokes (i can tone it down) . i talk ab my faves a lot .
-mostly listens to others than talk . quite emotional . *most of the 
-things i say are merely satire; unless stated otherwise* . i use
-plenty of emoticons such as %#aac7b6% "^_^, :D, :(" %% and so on. <-
+-> ![nho...... :3 The loml](https://media.discordapp.net/attachments/1084935097247084624/1206302263895658536/blur_edges_26.png?ex=65db8387&is=65c90e87&hm=59dced8cccf437b851556dc247b6934d84b80e01645a001e08232d1265782677&=&format=webp&quality=lossless&width=680&height=326) <-
+i dont think i'm even bothered to decorate anymore
+[prns.cc](https://pronouns.cc/@kangtaehyun) [guestbook](https://soobin.123guestbook.com/#)
 
--> **dni** basic dni . 18+ (friends excepted) . txt antis/ot4(-) moas . 
-"dbls dni" irls . anti-recovery . <-
+**han** or nicole she/they unlabelled & asian 
+entp 5w6
+Neco Arc sings flo rida Whistle - YouTube
+i love my [Dearest, darling, my universe 날 데려가 줄래?](/aengdu)
 
--> %#aac7b6% **friends !** %% %grey% [jean](http://rentry.co/fragmentofyou) . [eros <3](http://rentry.co/3044) . [vixen](http://rentry.co/mizuzuki-) . [gyara](http://rentry.co/therealgyara) . [maven](http://pronouns.cc/@films) .  %% <-
+i am IIIINSANE about kpop (mostly txt) & cherry crush but uhh i also like the stuff listed [here](/kangterrry) 
+i also enjoy playing rhythm games, drawing, listening to music, photography.. i play roblox sometimes yea maybe
+a [list of chrs](https://www.personality-database.com/collection/168259/mecore) i kin (just for fun!! i dont take things like these very seriously)
 
--> %#a14642% !~[click 4 interests](https://rentry.co/devils-wedding)~! %% +  %#a14642% !~[kins](https://www.personality-database.com/collection/168259/mecore)~! %% IF you want to analyze me (js 4 fun)
-leave a message in my  %#aac7b6% !~[guestbook](http://soobin.123guestbook.com/#)~! %% !! <-
+**byi** awks at first but will loosen up if we share a friendly banter ^\_^ most of the unhinged things i say are satirical. i'm a lighthearted & playful person (and i tease ppl A LOT.) constant kys/kms jokes if i consider you a good friend. i talk about my favs a Lot haha sorry. i am the epitome of curiosity i am A Curious Cat unless idgaf about you lol
+note please tell me if you're uncomfortable with anything i do & don't sugarcoat anything thanks
+if you can't handle my jokes then i suggest letting me know and minimizing contact with me instead of keeping quiet
 
+**dni** basic dni (proship, racism etc.), over 18 (exceptions can be made), txt antis/ot4(-) moas, [freakazoid kpop stans](https://rentry.co/explosion123), "dbls dni/srs" irls, anti-recovery
+erm besides that nothing much just be a decent person and we are bffs!!!!!
 
--> ![](https://cdn.discordapp.com/attachments/1064597015503315054/1108079448856727632/Untitled2220_20230516181150.png) <-
+ok uhmm i really love samyang noodles yes the loml!!!!!! spicy noodles in general....hasjhsajkfasfloaf

@@ -1,4 +1,7 @@
 # GGR89's Card Repository
+!!! info New Shit
+        NEW: Nihilister (2/11/24)
+        UPDATED: N/A
 ->![We do a little fighting.](https://cdn.discordapp.com/attachments/635291930929922069/1205939131998412810/kaga_kantai_collection_drawn_by_tsukamoto_minori__cc6dffdd457feebb28fd1977d8f0b800.jpg?ex=65da3156&is=65c7bc56&hm=1e17e30e6e7ba9936f8509cc1a21d2fd9bbc411a68b2420627c3719bf2a4f9be&)<-
 ***
 

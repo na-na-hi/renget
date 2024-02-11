@@ -6,7 +6,7 @@
 
 
 %#800000% ꒰ %% `𓏵` %#800000% ꒱ %% do not interact/follow ⦂
-01 basic dni｡ 02 under 14｡ 03 don't have race & age in link or bio｡ 04 [near](https://natefilesv2.carrd.co/#aboutnear) haters｡ 05 won't interact with me｡ 06 lolicon/shotacon｡ 07 shtwt / edtwt (there is no good side to them the good side is therapy)｡ 08 skz & taylor swift fans｡ 09 white (unless i req first)｡
+01 basic dni｡ 02 under 14｡ 03 don't have race & age in link or bio｡ 04 [near](https://natefilesv2.carrd.co/#aboutnear) haters｡ 05 won't interact with me｡ 06 lolicon/shotacon｡ 07 shtwt / edtwt (there is no good side to them the good side is therapy)｡ 08 skz & taylor swift fans｡ 09 white (unless i req first)｡ 10 proship｡
 
 ->%#800000% ꒰ ** `‏‏‎ ‎♡‏‏‎ ‎`** ꒱%% before you interact/follow ⦂
 01 i go inactive sometimes｡ 02 i'm very paranoid so i might not accept your request｡ 03 i'm terrible at dms, don't take it personally｡ 04 i sb & hb if you annoy me｡ 05 i don't rly like self diagnosed people sorry if that bothers you｡ ->

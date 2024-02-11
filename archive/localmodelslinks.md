@@ -72,6 +72,18 @@
 [DSPy](https://github.com/stanfordnlp/dspy)|Composable and declarative modules for instructing LMs in a familiar Pythonic syntax
 [EasyEdit](https://github.com/zjunlp/EasyEdit)|Knowledge editing framework for LLMs
 |
+**Datasets**|
+[Huggingface](https://huggingface.co/datasets)|Best source for datasets
+[Wiki Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of Wikipedia
+[ERP Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
+[VN EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
+[janitorai-cards](https://huggingface.co/datasets/AUTOMATIC/jaicards)|190k character cards converted to v2 format and viewable as local webpage
+|
+[augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit)|Generates multi-turn instruct-tuning data from input documents
+[dswav](https://github.com/devidw/dswav)|Audio dataset preparation tool using whisper and ffmpeg to transcribe and split inputs
+[lilac](https://github.com/lilacai/lilac)|Dataset curation tool for RAG or tuning with annotating/clustering/labeling support 
+[Data-Juicer](https://github.com/alibaba/data-juicer)|Dataset preparation tool with support for multimodal data
+|
 **Non-LLM Models**|
 **Vision/Image**|
 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)|Node based stable diffusion GUI. User submitted [workflows](https://comfyworkflows.com)
@@ -116,16 +128,4 @@
 [LOCUST](https://github.com/flbbb/locost-summarization)|State-space model for long document abstractive summarization
 [M2-BERT](https://github.com/HazyResearch/m2)|Embedding retrieval models with up to 32k context length based on monarch mixer 
 [ESPN](https://github.com/susavlsh10/ESPN-v1/)|GPUDirect Storage implementation for multi-vector embedding retrieval and bindings
-[PEFA](https://github.com/amzn/pecos/tree/mainline/examples/pefa-wsdm24)|Parameter-free adapters for embedding-based retrieval models (ERM) 
-|
-**Datasets**|
-[Huggingface](https://huggingface.co/datasets)|Best source for datasets
-[Wiki Embeddings](https://txt.cohere.com/embedding-archives-wikipedia)|Predone embeddings for various language of Wikipedia
-[ERP Scrapes (1)](https://rentry.org/qib8f)[(2)](https://rentry.org/ashh2)|Raw RP/ERP/ELIT content
-[VN EN/JP Scrape](https://huggingface.co/datasets/alpindale/visual-novels)|60 million tokens of dialogue and actions/narration 
-[janitorai-cards](https://huggingface.co/datasets/AUTOMATIC/jaicards)|190k character cards converted to v2 format and viewable as local webpage
-|
-[augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit)|Generates multi-turn instruct-tuning data from input documents
-[dswav](https://github.com/devidw/dswav)|Audio dataset preparation tool using whisper and ffmpeg to transcribe and split inputs
-[lilac](https://github.com/lilacai/lilac)|Dataset curation tool for RAG or tuning with annotating/clustering/labeling support 
-[Data-Juicer](https://github.com/alibaba/data-juicer)|Dataset preparation tool with support for multimodal data
+[PEFA](https://github.com/amzn/pecos/tree/mainline/examples/pefa-wsdm24)|Parameter-free adapters for embedding-based retrieval models (ERM)

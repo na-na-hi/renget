@@ -6,12 +6,13 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 244th time, what is Ope?!
+For the 245th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Pre-Valentines karaoke (Sun 02/11 7PM CT)
+Next stream (Pre-Valentines karaoke, Sun 02/11 7PM CT)
+https://www.youtube.com/watch?v=4n1SHSFIiOw
 Last stream (Palworld)
 https://www.youtube.com/watch?v=igfSiM1Ali4
 Previous appearance (FWMC birthday countdown)
@@ -42,11 +43,11 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>68712652
+Previous thread: >>68752256
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Schedule: @nerissa_en-1754538415725355292
+!!!warning Second OP Post - Schedule: @nerissa_en-1756730317816184880
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -68,7 +69,7 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1754538415725355292
+https://twitter.com/nerissa_en/status/1756730317816184880
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE

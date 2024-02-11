@@ -9,7 +9,9 @@ Kudos to https://rentry.org/creamsan, it was his cards that inspired me to look 
 On the git, you can find the script linter/parser under the /public/scripts folder: https://github.com/SillyTavern/SillyTavern/tree/release/public/scripts
 Commands are registered and executed via callbacks, if you ever need to look them up.
 
-__Introduction__
+[TOC2]
+
+#####Introduction
 What is STscript? It's probably easier to show through an example.
 
 First, open any conversation you have in SillyTavern. At this point, it really doesn't matter.
@@ -35,7 +37,7 @@ But then there are commands like `/abs` or `/setvar` or `/sys` that are more on 
 
 At this point, you could definitely look up any random command you want and play around with it, and I do encourage you to do so. For the purposes of this guide, I will go slow, however, and introduce new concepts one at a time.
 
-__Assigning simple variables__
+#####Assigning simple variables
 One of the first things we will want to do is set variables. In programming, you usually have a couple of types of variables to play with. Integral and fractional numbers, texts (strings), and booleans aka logical values. Some languages even have the concept of a null and/or undefined value, for an unset variable. We'll see how it works in STscript.
 
 If you type in the command `/setvar key=foo 1` and hit enter, then you really won't notice anything happen.
@@ -46,15 +48,17 @@ What `| /echo` does we'll talk about in the dev tools part of the guide, but for
 
 Now to delete a variable, you can use `/flushvar foo`. What this actually does is it erases the value stored in the `foo` variable, and it'll become undefined. As the SillyTavern docs state, any variable with no value assigned is treated as undefined. For example if you try add +1 to an undefined variable, STscript won't freak out, it'll create the variable for you and just add +1 to it as if it was zero.
 
-__Dev tools, tips and tricks, and oddities__
+#####Dev tools, tips and tricks, and oddities
 So now we see that we can assign values, at least numbers. But is that true only for integrals, or can we do fractionals?
 And we see that undefined is a thing, but is null?
 How can we even tell what value our variables hold at a given time?
 
+######Basic dev tools
 These, and many more questions can often come up while scripting. We will need what I'll call developer tools to be able to reason about the way our script works. For example, let's talk about `| /echo`. What `|` does is to "pipe" or forward the result of the operation on its lefthand side to the operation on the righthand side. We'll discuss this further in the section commands vs macros, but for now this means that if we want to know the value of a variable called `foo`, then we can use the command `/getvar foo | /echo` to get a snackbar message with the value. You can use `/listvar` to get the current state of all of your variables, but when looking for a certain one among many, this is your best option - this or `/sys` or `/comment` if the temporary message is not enough.
 
 We can leverage this functionality to get some more answers about how things work. Oh, and by the way, SillyTavern does come with its own dev tools also. If you start typing in any command, you will see a tooltip pop up with the description of the possible autocompletions. It's neat. You may also use `/?` to get started on specific topics.
 
+######Type "inference"
 Then there's the command `/len`, that gives you the length of a given variable. For example the text `asdf` has a length of 4, because it has 4 characters. In itself, that doesn't make `/len` a dev tool. But it can be used to demostrate STscript's way of error handling: it doesn't. Create a variable with the value `1.1` assigned, let's say called `bar`, and then use `/len bar | /echo`. You should see the value `3` in the snackbar message. Now you may think the value `1.1` was treated like `asdf` and got the number of its characters counted, which would make the variable `bar` to have a type of string. But then use `/incvar bar` and use `/getvar bar | /echo` and you will see `2.1`. And now if you use `/len bar | /echo` again, you will see it's now `4`. In itself, this tells us that we cannot rely on STscript yelling at us with errors and warnings if we do something nonsensible. It is nonsensible in itself. We cannot expect certain commands to only work with numbers or to only work with texts.
 
 Using this technique also to try and echo the length of a variable with the assigned value `null` we also see the `4` pop up. So null values do not exists in STscript.
@@ -63,7 +67,7 @@ For one last trick here, we can use commands that we're pretty certain can only 
 
 We didn't talk about boolean values yet, but you can try the same `/len` and `/abs` tricks with the values `true` and `false`. You will see that they behave in very odd ways. Sometimes as strings, sometimes as undefined. For practical purposes, I would actually recommend using `0` and `1` to denote the `false` and `true` values, and just don't worry about it.
 
-__Arrays and objects__
+#####Arrays and objects
 There are two more types of variables we can, and will use. JSON objects and arrays. The SillyTavern docs are delightfully useless on the topic, but I personally think this revolutionarizes the way we can handle our variables. Especially objects do.
 
 You see, a JSON object looks like this:
@@ -97,19 +101,19 @@ And then echo `obj2`, you will see that the key `foo` no longer has its value `1
 
 I would also recommend that you put ALL of your variables inside an object, named `context` for example. This makes it easy to echo/print them out all at once, and you won't have to play guessing games about types with STscript after the initial setup. You can also nest any object and array inside an object, so you won't have to create variables like `obj` and `obj2`, if the path from the object root is unique anyway. The guide will use this approach.
 
-__Global vs local variables__
+#####Global vs local variables
 Let's pause for a moment to talk about a certain trait of variables. What we've been using so far are local variables that exists only for the given conversation. But there are also global variables that persist across the entire app. In this guide we won't be using global variables, but you should know that they exist. The SillyTavern docs lists the commands you can use to set and get global variables.
 
 A quick note here, global variables could make for a decent dotenv substitute, if you know what that is. But I digress.
 
-__Commands vs macros__
+#####Commands vs macros
 Let's talk about commands, macros, and the pipe operator then. If you've been looking at the SillyTavern docs while reading this guide, you might have noticed stuff like `{{getvar::name}}`. These are what are called macros. For some - but not all - commands, macro versions also exist. What they do is they substitute the value returned by the command in place. Same as how `{{user}}` and `{{char}}` are treated. So what we've been doing so far? `/getvar name | /echo` could be written as a much simpler `/echo {{getvar::name}}`. In fact, these macros are so powerful that you can use them in messages you send to the conversation. You might already have used a macro without realizing it, like `{{roll}}`.
 
 We will return to this topic later in the section about functions, but for now keep in mind that a simpler syntax to pass the result of a command to another does exist, besides using `|`. But macros are not inherently better than piping between commands. It can come down to personal preference also, but there are some different use cases too. Macros can be dangerous as well, because while an erroneous command does pretty much nothing, a macro will be sent to the chat when pressing enter.
 
 An important macro to also remember is `{{pipe}}`. We'll see what it does in just a minute in the next section of the guide.
 
-__If-then-else__
+#####If-then-else
 We have arrived at the first real programmer-y part of the guide. It's very neat that we can set and get our variables, but what do we do with them? Any kind of logic we want to add to our code will require us to make comparisors. For example to tell how high a variable storing some score-like value is. Or if we have a variable storing the current date or time, is it evening? Is it day? This, and much more, comes down to comparing values.
 
 Unfortunately, the ugly syntax of STscript really shines through here. It's very cumbersome to use. The SillyTavern docs give inline examples, but you can actually break it into more lines and reorder the arguments a little to make it a BIT more readable. So...
@@ -152,9 +156,10 @@ Now in this example, of course, if a value is greater than 4 then it's also not 
 
 The same kind of syntax can be used for loops with `/while`, but let's talk about something else first...
 
-__Creating functions/QuickReplies__
+#####Creating functions/QuickReplies
 Up to this point, we've been dealing with STscript's terrible syntax in everything. Now comes the time to change that. Kind of.
 
+######QuickReply
 What we want to do is to create our own functions, our own reusable units of code so we don't have to write 50 tedious copypasted lines to do something useful. STscript doesn't have functions and procedures as such, but we have QuickReplies. The most basic use for a QuickReply is this: add a button to the GUI that when pressed does something. For example asks the bot to write a summary of the conversation so far. But we can also run them with the `/run` command. Setting them up so that they don't actually show up as a button and don't do anything with the user input, we will be able to call them with whatever parameters we want to do some reusable logic. Like comparing two numbers. And it'll only take like ten characters, not ten lines.
 
 Sounds too good to be true, right? Well it sort of is. There are two problems. I'd say that's on us for forcing a system for what it was not intended, but then the SillyTavern docs cheerfully guide us to QuickReply usage for "calling procedures". Anyway...
@@ -163,6 +168,7 @@ First, QuickReply is an extension. In this guide I try to go around it as much a
 
 And second, we won't actually be able to pass arguments to these "functions" directly, and will have to go a kinda roundabout way. It won't be that awful, I promise. But it could be better.
 
+######Using functions
 To enable the extension, open the extensions tab, open the QuickReply section, and tick the `Enable Quick Replies` checkbox.
 
 QuickReplies are sorted into presets. You will need to create a preset to add your "functions" to. You can do this in the same GUI window, or by using the `/qr-presetadd slots=1 TestPreset` command. The number of slots should be howevermany "functions" you want to have, and the name of the preset should be something you will remember. STscript likes to complain about how you case it, so I found PascalCase to be useful here. The guide uses it anyway. You might still get a warning when you run the command, but if you check the QuickReply extension window, you will see the preset added.
@@ -201,7 +207,7 @@ What `/return` does is essentially end the running of the given command and pass
 
 To stop the running of a command chain or "function" without returning anything, we can use `/abort`.
 
-__Error handling__
+#####Error handling
 The last thing I want to mention before we get to doing some practical examples is error handling. It's entirely optional, you don't need to do this, but I couldn't in good conscience omit it. The idea of error handling is twofold. Mainly we want to ensure that if something in our script goes wrong then we detect and either fix it, or we do a graceful shutdown; and maybe alert the user too. Besides that, we can also do pre-emptive validation to make it even less likely that any error occurs.
 
 Unfortunately, there is no try-catching here. We can't automatically throw and detect errors, and we'll have to periodically - or after important operations - check if our operations were indeed correct. For simple things, for example for a function that we want to return a positive, we can simply check afterwards if the variable and its absolute value are the same. This isn't much different from validation. For more complex logic, a decent approach is to have your functions return an object. It can go a few ways, but you will want to have the object contain two pieces of information: whether the operation was successful, and the value it gave us. You could, for example, have an object with a result and a success variable. Or result and error, where if the error is undefined then it's treated as a successful resolution. Or you could forgo the object and return the result on success by itself, and only on errors return an error object with maybe an error code and a message about what went wrong. Yet another approach, since we will have to write our output as a variable anyway, you can use a result and an error variable instead of a singular object.
@@ -219,9 +225,10 @@ The guide will follow this approach:
 If there was an error then `result` will be undefined, and if the operation was a success then `error` will be undefined.
 Note that it can be possible for both `result` and `error` to be undefined at the same time, for example if a search function didn't find a match. This is considered a successful oepration, as there was no error. It's up to the developer's discretion to write his or her functions with possible return values that are meaningful to them.
 
-__Manipulating the conversation (and creating a function rigorously)__
+#####Manipulating the conversation (and creating a function rigorously)
 We've already seen `/sys` that sends a system message to the conversation. To send a message that will be shown in the chat but NOT added to the chat history, use `/comment`. You can see a little "ghost" icon in a message's header to tell if it's part of the prompt or not.
 
+######Reading and writing messages
 There are also the commands `/send` and `/sendas` that you can use to send a message as the user or aas a given character. Note that this will not trigger a generation, so in other words, the AI will not reply to this message on its own right away. You can use the `/trigger` command for that.
 
 But we can also extract messages from the conversation itself. Depending on your UI configuration, you may see a number attached to every message sent to a conversation, counting upwards and prefixed with a hashmark. This is the message's ID. Not two messages can have the same ID, making it a UUID - inside the conversation. However, system messages are not exempt from this. What does this mean?
@@ -239,6 +246,7 @@ To access the very last message ID dynamically, we can use the `{{lastMessageId}
 /sys
 ```
 
+######Accessing messages programmatically
 Now unfortunately, despite what would be intuituve, `/messages` does not give us an array of messages but one continuous string, making it quite hard to filter out system messages and notes.
 
 Let's write a utility QuickReply function to access only messages characters or the user sent. So first off, let's think about what we would want such a function to do and how we want it to behave.
@@ -473,7 +481,7 @@ And that's it. A lot of work to do something relatively simple, isn't it? This f
 
 We'll get back to this function and the idea of reusability in another chapter, but before that, let's quickly talk about something else first.
 
-__User interaction__
+#####User interaction
 We can get input in ways other than extracting messages from the conversation. We can show popups to the user, and of course, QuickReplies can be shown as buttons also. Popups come in three flavors.
 
 There's the `/popup` command, that you can use to show a simple alert modal to the user. It'll block interaction with the app until the user clicks the ok button. The message shown on the modal can be basically any valid HTML.
@@ -482,9 +490,10 @@ And finally, there's the `/input` command, to show a modal with ok/cancel button
 
 The modals all have some styling/layout options, which is shown in the SillyTavern docs.
 
-__Injections and author's note__
+#####Injections and author's note
 The author's note, for those who never used it, is a way to jot down details about the conversation for the AI to "remember". Or to add more instructions about the style or quality of the writing you'd expect to see, like in koboldAI - though I'd say that's the job of the many prompts you can already have in SillyTavern. Either way, the content of the author's note will, based on your configuration, be added to the prompts and the AI will take it into consideration when generating a message.
 
+######Using injections
 Injections are kind of the same, except you can only manipulate them through STscript. The SillyTavern docs describe injections as "having an unlimited number of author's notes". While the author's note is one continuous string, you can have different injections identified by their own unique IDs, and config them to be added to the prompt with their own respective depths and frequencies, same as the author's note.
 
 Putting all of our knowledge into practice, at this point we can finally do something worthwhile. How you personally want to use injections and the author's note is naturally up to you, but in this guide I will show a way to update the author's note in a mostly automated way, so that the AI may "remember" things longer and do less random asspulls even with a more constrained context size. I prefer using the author's note over injections because the user can still edit the author's note by hand, if need be.
@@ -514,6 +523,7 @@ For starters, we can do something like this:
 ```
 This is relatively straightforward. We get the last 5 messages between the AI and the user, ask for a summary to be generated (how you word the prompt is up to you), and then show the user a confirmation modal. There's an extra `/echo` in there that shows us the messages, to let us know if something went wrong. There's no real error handling or anything fancy here. We'll get there eventually.
 
+######Automation issue #1
 Let's get something straight before we go any further, though. For all the effort we put into this so far, we could have just sent a message to the AI asking for a summary with no scripting involved. We could update the author's note by hand too, it's not like we need to do that so often that it becomes a chore or anything. But. Asking the AI to do something "meta" to the RP - not to mention how immersion breaking it can be - is affected by all the prompts you have. It may reply in character or simply refuse to do the summarization. It also may have trouble properly counting the last five or so messages, and it'll also be affected by system messages. What we've done so far eliminates all these possibilities for error. Automating this process will also enable us to create more intricate systems that we'll talk about in the next sections.
 
 Granted, since we're dealing with the AI here, it's still possible that it'll refuse to do the summary because of its "ethical guidelines". This is why human oversight is required. We'll deal with this later, in the section about automation. As much as we can.
@@ -524,9 +534,10 @@ Yet another possible way to go about it, though it's really just a dumb workarou
 
 Let's put a pin in this for now, until more language features are added to STscript.
 
-__Something interesting__
+#####Something interesting
 Before we move on to the next topic, I want to take a break to talk about something interesting. Last week there was an idea I saw pop up in one of the threads: meta-RP with the AI, using STscript. What does this mean? Essentially having the AI react to swipes or the user editing their messages and "twisting their words". I think the idea in itself is novel, but more importantly for the guide, it links back to the workarounds we had to consider with injections. With STscript's limitations, we have to be clever and think critically about how certain processes happen, how we can even access and use different types of data. For example, the content of the `{{lastMessage}}` macro will obviously change as the RP progresses. If we had a script running and the users sends a message in the meantime, it can mess things up for us. But with swipes, it's the user interaction itself that we want to somehow detect.
 
+######Setting up a main loop
 To demostrate this, try the following command:
 ```
 /while guard=off left=1 rule=eq right=1 "/echo asd \| /sleep 1000"
@@ -535,6 +546,7 @@ You will notice a new echo message show up every second, but you'll be perfectly
 
 We can utilize a QuickReply that's triggered when the conversation starts/app loads, and have it run in the background with a tick every second, or half second or so. If this sounds excessive to you - don't worry. I haven't fully explored the performance limitations of STscript, but websites in general can have several such timers running at so low as 200 milliseconds or even lower. So it should be fine, especially considering that for our purposes 500 ms will definitely do, and even at 1000 ms the user shouldn't have a dampened UX.
 
+######Working with changing data
 Now what we can do is have a loop running in the background, and play around with some different pieces of data STscript provides for us.
 
 The most simple of which is probably the `{{idle_duration}}` macro. Each loop we check using an `/if` command if this value exceeds some threshold (of course not in seconds because the macro actually returns stupid shit text like "a few seconds ago"), and if it does then we can act as if the AI got tired of waiting and send a message on its own asking for the user's attention. Unfortunately we cannot add a prompt to the `/trigger` command, but we can maybe use an injection instead. This means that the card needs to be custom tailored to take the injection heavily into consideration. Or we can use the `/sendas` command in conjunction of a `/gen` call that we can indeed add a prompt to, and send the message that way. Of course if it's only the AI sending a message, then the idle time would keep counting up, so we'd have to either use variables to keep track of a grace period or other delta time; or set up some kind of modulo logic when checking the idle time to add periodicity.
@@ -567,7 +579,7 @@ Whenever you swipe an AI's message, you'll see the message "hey" getting echoed.
 
 Editing the AI's message without swiping is kinda similar, but using the `{{lastMessage}}` macro instead. What would be really neat is if you could use the `{{input}}` macro to get the text the user is typing up currently and have the AI react to it even before the user sends it BUT this is pretty dangerous. For multiple reasons. Right now it causes the system to freeze and I'm not really sure why this happens. Weird. You could maybe theoretically write a function to trim slashes or escape the command, or do some other kind of validation, but I couldn't get it to work properly. Whatever you do, DO NOT add a startup script that parses `{{input}}`, or else you'll brick SillyTaver indefinitely. If you do that, go to the `/SillyTavern/public/QuickReplies` folder and edit the preset file to erase the function body.
 
-__Events and listeners__
+#####Events and listeners
 This section of the guide is entirely optional, what we'll discuss here is a programming technique that all sorts of applications, especially user-facing ones use to implement event-driven business logic. To put it short, imagine that you have certain distinct events that can happen while your app runs. It can be a button click, or it can be your character running out of HP. You may have a function you want to call when either of these happen, maybe even multiple functions. Using a loop to check for all these different scenarios can get chaotic and hard to maintain after a while. Emitting an event can be done from any part of your codebase, and so long that there is a listener for it, the data passed to the listener as part of the event will always be received.
 
 So how do we do this with STscript? There is no built-in event system. But it's not hard to imagine up one. Let's say that we define an event as a JSON object:
@@ -619,15 +631,17 @@ Emitting an event should be straightforward, you just add it to the `event_queue
 
 Personallity, I think this is a pretty good approach not only to do event-driven logic, but you could also do a budget version of [Redux](https://redux.js.org/). Consider the events actions and the loop as the reducer. I'd call it SillyDucks. ...Get it?
 
-__Stat trackers and RPGs__
+#####Stat trackers and RPGs
 The idea here is simple.... Until it's not. We've probably all seen cards with some kind of stat tracking or simulated RPG game, and they do come in quite a few different flavors.
 
+######CYOA cards
 First there are the really dumb ones that are essentially just storytellers simulating D&D or any generic fantasy game, but without truly keeping track of stats, inventories, and whatever else. And it will do random asspulls like any other AI. You can ask it to print your stats and inventory with every message to help battle this, but it's only a bandaid solution. The AI might mess up the formatting and do asspulls anyway, like forgetting you had some item in your inventory, or if you tried to do something like add regeneration, buffs or debuffs, then just conveniently forgetting or disregarding the way they're supposed to work. So the usual AI shenanigans.
 
 Then there are cards with lorebooks and/or special formatting rules to force the AI to "think", inspired by CoT prompting techniques. There are even cards that combine this with stat tracking by putting the stats at the beginning of the reply instead of the end and having the AI reason about, say, a character having a 90/100 affection meter for the user. This is a powerful idea, and very useful. But the AI can still often randomly decide it won't update a stat meter or update it in a stupid way. For example decribing how the user just hurt the AI character but still giving a plus one for affection. Furthermore, for anything not easily conveyed through numbers, it will basically be a coin toss whether the AI can grasp the idea about how to update the given stat or what it even means to have it in a certain status.
 
 Plus having the AI keep track of stats takes tokens away from its response size.
 
+######Stat tracking alternatives
 Really, there are ~three benefits we want to have by using stat trackers like these. First, to have a piece of data help the AI reason about the situation CoT style. Second, to keep track of stats instead of us - because let's face it, we could do this by hand if we really wanted to. And third, you know, because it's fun like playing a video game?
 
 Earlier in this guide we talked about automation, when asking the AI to generate event summaries for the author's note. This should already give you an idea about what we could do here: leverage generative AI disconnected from the conversation to focus ONLY on updating these stats, and then placing the relevant information into the conversation either through a system message or injection. Going with the simplest idea, you could give this "other AI" the last messages written by the AI and the user and tell it to update a clock with how many seconds/minutes/hours could have passed while the actions in those replies took place. Or to update an affection meter. Or health, or an inventory system. As we've seen before, we can even craft custom tailored prompts for this "other AI" to do its thing.
@@ -640,7 +654,8 @@ One is things we use AI to automate, but really wouldn't need to. For example le
 
 The other category is where we now use the AI's messages with its formatted stat panel to store data, but only because we have no other way to do so. We can instead use STscript variables to, say, manage your inventory. It won't be susceptible to the AI randomly adding or removing items or deciding that you have a backpack when you really only should have tattered rags or something. This is also great because now it won't eat up the context by using all these tokens.
 
-In both cases, we can take the result of some script that updated your stats or generated a new item, or recall data from variables, and add it to the prompt we give the "other AI" to update the rest of your stats. Fewer possibilities for asspulls, custom tailored for the job, and we still have deterministic control over some of the data. And hey! Instead of itemization being done by a script you might as well do another `/genraw` to ask yet another "other AI" to generate a goofy weapon. Or, say, a W++ definition for a companion that we then store in an STscript variable. There really are no limits. Going back to the itemization example again, you could even add a lorebook into the mix describing potential enhancements or rolls or lore an item could have.
+######Itemization example
+In both of the above cases, we can take the result of some script that updated your stats or generated a new item, or recall data from variables, and add it to the prompt we give the "other AI" to update the rest of your stats. Fewer possibilities for asspulls, custom tailored for the job, and we still have deterministic control over some of the data. And hey! Instead of itemization being done by a script you might as well do another `/genraw` to ask yet another "other AI" to generate a goofy weapon. Or, say, a W++ definition for a companion that we then store in an STscript variable. There really are no limits. Going back to the itemization example again, you could even add a lorebook into the mix describing potential enhancements or rolls or lore an item could have.
 
 To give you an idea:
 ```
@@ -683,7 +698,7 @@ To give you an idea:
 	/setvar key=item_rarity Legendary \|
 	" |
 
-/genraw lock=on {{charJailbreak}}{{charPrompt}} Generate a funny short lore entry for a {{getvar::item_rarity}} {{getvar::item_name}} |
+/genraw lock=on {{charJailbreak}}{{charPrompt}} Generate a funny short lore entry for a {{getvar::item_rarity}} {{getvar::item_name}}. Omit all further commentary. |
 /setvar key=item_lore {{pipe}} |
 /input default="{{getvar::item_rarity}} {{getvar::item_name}} # {{getvar::item_lore}} # Damage: {{getvar::item_damage}}" The generated item:
 ```
@@ -691,26 +706,98 @@ You can take this simple example to lots of places, like randomly selecting the 
 
 If you want to challenge yourself, here's some homework: write three QuickReply functions. Two of them should have buttons, one should be a startup loop as we've done in the previous sections. The loop should detect changes to your character's HP stat. The buttons are attack and defend. Script a real time battle with the AI using the buttons and the loop, while you can banter with the AI through the normal conversation about your swordplay. For an added challenge, do stat tracking in the conversation, so that the AI will react to its/your HP going down.
 
-__Dynamic Lorebooks__
-To take the above idea to the extreme, let's take a quick look at lorebooks.
-TODO
+#####Dynamic Lorebooks
+To take the above idea to the extreme, let's take a quick look at lorebooks. In and of themselves, lorebooks/world info are already relatively advanced concepts, with lots of factors to consider and configure just right so it will actually enhance the RP. There is documentation on the subject that I can wholeheartedly recommend. Writing this, I will expect that you have at least skimmed over them:
+https://rentry.co/world-info-encyclopedia
+https://docs.sillytavern.app/usage/core-concepts/worldinfo/
 
-__Configuration, automation, and using the LLM__
+######Lorebooks vs injections
+In this guide, we'll consider the differentces between injections, the author's note, lorebooks/world info, and what pros and cons there could be to manipulating lorebooks/world info via STscript, and how any why we would even want to do this.
+
+Let's do a quick nomenclature recap first, and let's nail down some new pieces of vocabulary. An injection is any text that will be embedded into the chat history, at a given depth and frequency. There are STscript injections, and specifically, there is the author's note. A lorebook isn't an injection in itself, it's a data structure and associated functionality that can be used to generate an injection. Most special of them is the world info, which we will discuss shortly. For now, think of this analogy - you may use a number of lorebooks to generate a special injection for any purpose you want; and you can use the world info that, while it does pretty much the same thing, has a special semantic meaning for us. Going forward, I will always specify whether I'm talking about an injection, the author's note, a lorebook, the world info, or an injection created by either a lorebook or the world info.
+
+For one more quick sidenote before we delve into the specifics of lorebooks, let's stop and consider something first. If a lorebook is nothing more than a way of generating injections, why can't we simply use STscript and variables or `/gen` or `/genraw` to generate them? Why don't we simply write a QuickReply function? The truth is, that you could perfectly well do any of these things and not need lorebooks. The reason why we WANT to use lorebooks is because they're convenient. We don't need to reinvent the wheel to work with them. Still, you should know that they're absolutely not a necessity and could be outdone by another system with extra features or something custom-tailored to your specific needs as a user or botmaker. In this guide, however, we will not be discussing lorebook alternatives.
+
+######Lorebook vs world info
+Now then, the difference between a lorebook and the world info. Generally speaking, a world info should be something immutable that persists throughout the entire RP. It should be so generic that you might even use it with different characters. It's called world info because it describes the world there characters are in. While something like their appearance may change, the name of a kingdom, or rules of magic probably won't. Generally speaking. Anything else that may either be mutable or immutable, but isn't general purpose to freely be shared between cards, should be put into a lorebook.
+
+######Mutability, data storage, limitations
+The idea of mutability is very important for us. Lorebooks are almost exclusively used as immutable. Once a user loads it into SillyTavern, it's unlikely he or she will touch it. This is where STscript comes into play. We have a great many options to manipulate lorebooks on the fly. Personally, I like to think about it like this: we have a database of entries relevant to the roleplay, and some CRUD API to access it - that is, we can Create, Read, Update, and Delete entries. And as the conversation goes on, the default SillyTavern lorebook functionality will use our definition entries to help the AI better understand the world and the things in it. But the fact that this is yet another type of data storage that enables us to conserve tokens is also a very nice addition.
+
+For example, consider a DnD-esque card where the user and character form a party with, say, up to three more randomly generated other NPCs. A lorebook, as people use them now, may help with describing a class, like a ranger or shaman, or a race like dwarves or elves. But the actual personality of these characters? For the average user, their best bet would be the author's note. For us, we may use injections to specify a frequency or depth to maybe help, and we can even store some of this data in variables and leverage `/genraw` to make these characters act using their own special prompts. And this certainly would be a relatively reasonable way to go about it. But it's not very convenient. An injection like that would eventually contain so much information that it would make it pointless. But lorebooks can be broken down into entries, out of which only the relevant ones will be included in the injection. If you want, you may still use a combination of the two. The idea here is to unburden the author's note, not to replace it.
+
+What's more, though this is just my personal opinion, a lorebook or the world info is also limiting in the way that if you define a whole world with its continents, kingdoms and towns, races, landmarks, history, and whatever else, and then you RP in that world, while you can still make "unique discoveries", the AI will be influenced by the existsnce of these already established definitions. If in the lorebook there's an entry for a big city, and your party goes to a big city, the AI will most likely take you there. But if you have the AI first make up a location and THEN save it into the lorebook, then the world will truly and entirely be yours. This is the immutability I was talking about. How the world itself works and its general ideas can and should be written into the world info and never changed, anything else can dynamically be put into lorebooks.
+
+######Lorebook management
+Alright, now that was a lot of words, but I wanted to properly discuss what we're doing, and why we're doing it. Lorebooks aren't the bleeding-edge, best-practice, magically-solves-everything end goals, but they're tools like any other. And we should be aware what to use them, and NOT use them for.
+
+Entering the following command, we can create a new entry for a lorebook.
+```
+/createentry file=bookName key=keyValue entryValue
+```
+In fact, if the lorebook `bookName` didn't exist before, it'll be created too. So far so good, but SillyTavern being what it is, there are some of the usual oddities here too. For starters, a lorebook created like this won't show up in the list of lorebooks until you reload the page or do something else with another lorebook (like deleting one). This is a minor thing, it won't really affect anything for us. What does matter is that lorebooks and world info can exist on ~three layers. There is the global world info, which is shared across multiple cards. There is the character lore, which is a lorebook added to the given card. And there is the chat lore, which is a lorebook added to a specific conversation. In this guide, as per rule of thumb, we will only be dealing with the chat lore. It will be our mutable data storage to manipulate through STscript. We may read entries from the global or character world info/lorebook, but we will not write those.
+
+There is another pretty major bug here, or maybe I'm just stupid, but if you set a lorebook as character lore, IT WILL BE EMBEDDED INTO THE CARD. As far as I can tell, this is largely irreversible. Even if you delete the JSON file for the lorebook, it will still persist in the card defition and ask if you want to import it. Be careful with it.
+
+Okay, so getting back to `/createentry`. Let's see if we can query the value to make sure it was saved. The syntax to do this is very, VERY awkward.
+```
+/findentry file=bookName field=key keyValue | /getentryfield file=bookName field=content {{pipe}} | /echo #{{pipe}}
+```
+There isn't a single command to retrieve a value for a key in a given lorebook, instead you can look for one using `/findentry`, get the field's ID, and then pipe it through to `/getentryfield` to get a field of the entry (a field is either the key or the content associated with that key). There isn't even a macro for this. To make things even worse, although as per the JSON-standard there couldn't be multiple entries with the same key, running the `/createentry` command again will no problem add it to the lorebook. So... Yeah. Recalling what we discussed about error handling and validation, dealing with lorebooks will require a very exhaustive approach to pre and post operation validation.
+
+This also means that there's no listing all entries in a lorebook at once. If we want to remember important keys, we will have to save them and their IDs to STscript variables.
+
+Now, let's take a look at another command:
+```
+/getchatbook | /echo #{{pipe}}
+```
+What `/getchatbook` does is to return the name of the chat lore lorebook's name, even if there wasn't one it'll be properly created. This is already much better than `/createentry`, but let's not mistake the two commands for what they do. `/createentry` will add an entry to any lorebook. It's not meant to create new lorebooks, and it's not for dealing with one conversation only. This is true for all other world info/lorebook commands too.
+
+We can start with something like this:
+```
+/getchatbook |
+/setvar key=bookname |
+
+/echo #{{getvar::bookname }} |
+
+/input "What do you want to add a lorebook entry for? Use as few words as possible, such as the name of a character, to refer to something in the last message." |
+/setvar key=key |
+
+/echo #{{getvar::key}} |
+
+/genraw lock=on {{charJailbreak}}{{charPrompt}} Generate a minimal keyword summary for {{getvar::key}}, based on {{lastMessage}}. Omit all further commentary. |
+/input default={{pipe}} "Is this okay?" |
+/setvar key=tmp |
+
+/echo #{{getvar::tmp}} |
+
+/createentry file=bookname key={{getvar::key}} {{getvar::tmp}}
+```
+This should be straightforward. We ask the user what they want to add a lorebook entry for, this will be the key of the entry, and then using `/genraw` to generate the content for the entry. A custom-tailored prompt here is highly recommended. In this script there is no error handling or validation, but ideally after requesting the key from the user we'd check if there's already an entry with that key and ask if we should update it or ask for a different key; as well as stopping execution if on any input popup the user presses cancel. In the end, you also may want to save the newly created key and ID to have an easier time looking them up.
+
+######Automation issue #2
+Getting a key for things important enough to merit a lorebook entry can be challenging, if we don't outright as the user. You may use `/genraw` on the last message to give you a keyword list, but full automation would require the ability to always get a specified data format in the `/genraw` replies, which, let's be honest, won't happen. When inserting an entry we may also want to check if another entry has it in its content and if we should draw a relation to that, using the lorebook recursive seach feature. Unfortunately, as of now, I wouldn't recommend trying to fully automate this. Create a QuickReply button to trigger a script like this, and let the user fill in the blanks.
+
+You may add some QoL stuff, like opening the first input with a recommendation from a `/genraw` call about keywords; or maybe a check to see if they used too many words for the key and ask them to shorten it, but a dynamic lorebook like this should already be a great help with any RP. Especially when working in combination of the world info and author's note.
+
+#####Configuration, automation, and using the LLM
 TODO
 TODO: mention that /genraw doesn't use streaming?
 TODO: discuss making scripted cards end-user friendly and easy to set up + reflush all vars + conversation lifecycle changes
 
-__HTML5 minigames and hacking STscript__
+#####HTML5 minigames and hacking STscript
 Remember how popups can be used to render any kind of HTML code? You can do that in the conversation too. Try sending the following message: `<h2>asd</h2>` or `<button>Click</button>`. First you'll notice your message getting printed as a heading, and then as a legitimate button you can click. It won't do anything, of course, but this gives us some options.
 
 The most immediate of which is our ability to format text. But that's not all.
 
+######WARNING
 Let's focus our attention back on popups for a moment, because popups, most of all `/input` have a very, VERY powerful and very, VERY exploitable feature. Whatever is the content of the text input on submitting the popup will be piped to the next command. Let's say if we found a way to run some JavaScript code and put the result into the input... We could sidestep 90% of having to deal with STscript.
 
 The reason why you can't just put a `<script>` element into a popup's code and expect it to work is this:
 https://github.com/SillyTavern/SillyTavern/blob/e3ccaf70a10b862113f9bad8ae039fc7ce6570df/public/scripts/slash-commands.js#L375
 The STscript engine "sanitizes" the popup's content. As it is now, at least on version 1.11.2, this is very easy to undo. __But you should only do so if you understand the risks.__ In this guide I will offer precautions, but still, you should be aware why this feature was put in place in the first place. If any bot could send you executable JS code or any card, prompt preset, lorebook, or QuickReply preset could contain JS, you and your computer would be susceptible to serious harm. XSS attacks would be an obvious one as well as bricking your PC for the lulz, but JS being clientside code ran in the browser, there are about a million exploits a skilled hacker could use. While by writing this guide I am hoping people will be able to create some cool never-before-seen cards, if this JS thing does catch on and people will upload cards using it, you should ALWAYS check the QuickReply content of these cards for malicious code.
 
+######Unlocking JS
 Now with that being said... Open the developer console or install an extension like Tampermonkey or Greasemonkey, and run the following script:
 ```
 const sanitize = DOMPurify.sanitize;
@@ -724,6 +811,7 @@ With that out of the way, let's get to the fun part. Try running this command:
 ```
 All you will see is a popup appear, at least in SillyTavern. But run the command with the dev console opened, and you'll see the message `asd` show up. This means that you just ran JS in SillyTavern.
 
+######Working with JS
 Now, the reason why `/input` is so powerful is, again, because it will forward some value to the next command through a pipe. This is pretty much our only way to pass data from JS to STscript. The reverse is easy too, we'll see in just a minute. First, let's discuss a couple of oddities.
 
 Similarly to the `/times` command we've seen before where the opening `"` symbol had to be on the same line as the command, so the opening `<script>` tag should be on the same line as `/input`. That's really the only STscript weirdness we need to be aware of here.
@@ -734,6 +822,7 @@ Along the same train of thought, even though we'll be able to add our own click 
 
 Luckily for us though, the popup never fully gets unmounted, it'll just get a `display: none` style when inactive. But this also means that we need to clean up after ourselves. If we added any HTML elements to the DOM or altered the styling of the popup's native elements, we will need to undo those.
 
+######Custom popup example
 Let's see a simple example then:
 ```
 /input #STSCRIPT<script type="text/javascript">
@@ -797,6 +886,7 @@ setTimeout(() => {
 ```
 It's pretty crude with no styling, no error handling, and no real point, and without taking the cancel button into consideration. If all goes well though, you should be able to see the popup open with a button and a counter. If you click on the button, the counter will go up. And if you click on the ok button, you will see an echo message with the same counter value. The # is there because empty echo messages don't show, so you can see if for some reason the counter value wouldn't get passed to the pipe.
 
+######Even more hacks
 If you update the JS code with this:
 ```
 	//some state variable
@@ -830,6 +920,7 @@ registerSlashCommand(
 I will probably have to make a new guide just about this.
 !~red; update end ~!
 
+######Notable mentions
 I also haven't checked if you could do calls to external APIs, I suspect some CORS shenanigans to stop you, but you may also be able to communicate with some remote server. ...SillyTavern MMO when?
 
 If you want to use JS just for calculation, you can dispatch the `onclick` event of the ok button and automatically close the popup. It'll probably flash briefly, but that's the price for essentially hacking SillyTavern. You can even chain `/run` calling different JS functions if you "store them" in QuickReply functions that show different popups with different JS code in them.
@@ -838,10 +929,12 @@ And there you have it! A mostly safe way to pass data back and forth between JS 
 
 I should also mention that while this example only deals with the popup, you can query any DOM element. The entire SillyTavern app is your oyster once you can run JS.
 
-__Conclusion__
-TODO
+#####Conclusion
+Humanity has given a lot of control over to AI when coming up with graph search heuristics became too much of a hassle to bother. It's now up to our clever human minds to undo our dependence on these systems. STscript, while I wish is wasn't so limiting and the syntax was less tedious, I think is a pretty good way for the laymen to play around with influencing generative AI systems. The reason why I love SillyTavern and the community that drives pojects like it is our shared passion for AI. Let __us__ drive the innovation, not corporate greed!
 
-__Recommendations, Quality of life stuff__
+And hey, if you can deal with STscript to enhance your experience, you can probably put "prompt engineering" in your CV too...
+
+#####Recommendations, Quality of life stuff
 TODO: STscript utils
 TODO: PList injection
 TODO: backward/forward compatibility
