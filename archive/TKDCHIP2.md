@@ -43,6 +43,9 @@ Hezbollah Video's
 >Hezbollah published a video showing the operation targeting spy equipment at the Radar IOF site in the occupied Shebaa Farms today.
 https://files.catbox.moe/d9kqz4.mp4 New 2/1/24
 
+MUST WATCH: Hezbollah just released the video showing the attack that destroyed a Merkava tank at the Al-Baghdadi site with a “special guided missile”
+https://files.catbox.moe/7rzdod.mp4 New  2/10/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -146,3 +149,5 @@ https://files.catbox.moe/g5vyyd.mp4  2/9/24
 >Northern front :
 Kiryat Shmona Sakhnin Deir Hanna Safed Karmiel under bombardment 🔥🔥🔥
 https://files.catbox.moe/xnnqno.mp4  2/9/24
+>Lebanon: Al-Mayadee correspondent: The survival of a #Palestinian figure who was targeted by the #Israeli raid in Jadra, north of Sidon in #Lebanon.
+https://files.catbox.moe/nep7h2.mp4 New  2/10/24

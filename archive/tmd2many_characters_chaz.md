@@ -23,14 +23,14 @@ Inner Focus | The Pokémon's intense focus prevents it from flinching or being a
 ->*380/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 1 (+3) | Modifiers | Combat Effect
+Stat | Points: 2 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 12 (22HP) | 22HP
 Attack | 2 | (+1) Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 3 |  +2AP | 6AP
+Speed | 1 |  Speed Tier III (+2AP) | 6AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -65,14 +65,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Attribute: Speed | Tier 2 (+1) | 2/3 | ▮▮▯
+Attribute: Speed | Tier 3 (+3) | 3/3 | ▮▮▮
 Attribute: Foraging | Tier 0 (+0) | 1/3 | ▮▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Speed | Tier **3** | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Speed | Tier **3** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 
 **INVENTORY (4 slots)**

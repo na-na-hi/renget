@@ -2,7 +2,7 @@
 !!! note New Additions
 Update | Characters
 :------: | :------: 
-Feb.10th | Delphox (Julia) [Chub](https://www.chub.ai/characters/trapt/julia-bd9ecb8e) \| Silvally (Kartikeya) [Chub](https://www.chub.ai/characters/trapt/kartikeya-460af688)
+Feb.10th | May (Shotacon) [Catbox](https://files.catbox.moe/lnhayn.png) Card \| Delphox (Julia) [Chub](https://www.chub.ai/characters/trapt/julia-bd9ecb8e) \| Silvally (Kartikeya) [Chub](https://www.chub.ai/characters/trapt/kartikeya-460af688)
 Feb.01st | Bao-Feng (Gyarados gijinka) [Catbox](https://files.catbox.moe/af0yxa.png) Card
 Dec.13th | Mewtwo⠀♂ [Chub](https://www.chub.ai/characters/ClausOfTheNewMoon/mewtwo-the-psychic-pokemon-r18) \| Mewtwo⠀♀ [Chub](https://chub.ai/characters/ClausOfTheNewMoon/mewtwo-r63-the-psychic-clone-pokemon)
 Nov.11th | Wicke (Hyper) [Chub](https://www.chub.ai/characters/skumbingo1013/hyper-wicke)
@@ -18,6 +18,7 @@ Characters | URLs
 **Mewtwo⠀♀** | [Chub](https://chub.ai/characters/ClausOfTheNewMoon/mewtwo-r63-the-psychic-clone-pokemon)
 **Jessie** (Fat) | [Chub](https://www.chub.ai/characters/skumbingo1013/jessie-the-fat-pokemon-snatcher)
 **Kris** | [Booruplus](https://booru.plus/+pygmalion968) & [Chub](https://www.characterhub.org/characters/LizakJaye/Kris/main)
+**May** (Shotacon) | [Catbox](https://files.catbox.moe/lnhayn.png) Card
 **Roxanne** | [Catbox](https://files.catbox.moe/yei8uk.json) Pygmalion .json
 **Courtney** (RSE) | [Catbox](https://files.catbox.moe/9fzy2y.json) Pygmalion .json
 **Shelly** (RSE)| [Catbox](https://files.catbox.moe/vtppmt.json) Pygmalion .json

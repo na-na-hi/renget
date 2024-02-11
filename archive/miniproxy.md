@@ -9,8 +9,8 @@
 ``` 
 openai context size: 131072
 anthropic context size: 200000
-openai output size: 2048
-anthropic output size: 2000
+openai output size: 4096
+anthropic output size: 4000
 ```
 
 total **active** users: 111 %red% (CLOSED) %%
@@ -18,11 +18,10 @@ total **active** users: 111 %red% (CLOSED) %%
 
 - I don't have a tripcode 
 - I will check the emails and answer every single one of them.
-- You can donate api keys for access to the proxy.
+- You can donate api keys and sources for access to the proxy.
 - The proxy will only use organization keys.
 - Miniproxy is not logged and will never be.
-- ~~I do take monetary donations. The money is used for the proxy. ~~
-- I am no longer accepting monetary donations because they caused too much drama. please don't ask about it.
+- I am not accepting monetary donations because they caused too much drama. 
 
 !!! info info and news (06/02/2024)
     gemini ultra is not released yet. I can't add that to the proxy...

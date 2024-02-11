@@ -22,7 +22,7 @@ Guts | While the User is afflicted with a Major Status Condition, their Attack i
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 9 (21HP) | 21HP
-Attack | 4 | Species Bonus | +3 Physical Damage 
+Attack | 5 | Species Bonus | +5 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation

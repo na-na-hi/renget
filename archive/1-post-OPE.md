@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Palworld (Sat 02/10 7PM CT)
+Next stream (Palworld, Sat 02/10 7PM CT)
+https://www.youtube.com/watch?v=igfSiM1Ali4
 Last stream (Palworld Advent collab)
 https://www.youtube.com/watch?v=nCdFgBcogRc
 Previous appearance (FWMC birthday countdown)

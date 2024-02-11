@@ -208,7 +208,7 @@ Once you have more resources you can branch out to a wider roster.
 
 **You only need 2 healers and tanks at the start**, since you need to use at most 2 teams in the missions. Their attack types don't matter either, you only need to use the right DPS.
 
-A good start to every account is upgrading ur Serina to 2\*, she's your best friend early on.
+A good start to every account is upgrading your Serina to 2\* (with ligma), she's your best friend early on.
 
 [Use this for investment targets](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) 
 [this for raids (and skill priority)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 

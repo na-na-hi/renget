@@ -1,11 +1,11 @@
-####Guess who's back after ~~3 ~~ 4 months?
+####Guess who's back after ~~3 ~~4 months?
 
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/AHrddjX.jpg)
-Sin City Edition
+![suggested OP image]()
+Red Envelope Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>464788040
+Last thread: >>464991571
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -35,10 +35,10 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Dragons Friday is over, voting for next week's theme is underway! https://strawpoll.ai/poll/vote/KeQGvgTWrCG2
+\>Dragon Friday is over. Write far-out prompts about next week's theme: Alien Friday! >>464999195
  
 ▶News
-\>(02/07) Baker back from vacation! Euroids pass AI act: https://en.wikipedia.org/wiki/Artificial_Intelligence_Act
+(02/07) Euroids pass AI act: https://en.wikipedia.org/wiki/Artificial_Intelligence_Act
 (01/30) NAI pushes CFG sampling update: https://i.imgur.com/JJ6eBk2.png
 (01/20) Aetherroom's second devlog: https://blog.novelai.net/aetherroom-devlog-2-makings-of-a-contact-e4f20d28f4a0
 (01/01) New Year! NAI tosses apoloanals: https://i.imgur.com/CxmoFHD.png (embed) ; ledditors pull a Holo: https://write34.com

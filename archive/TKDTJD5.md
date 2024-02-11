@@ -2196,3 +2196,112 @@ https://nitter.lanterne-rouge.info/AryJeay/status/1756104390019014855#m  2/9/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.lanterne-rouge.info/AryJeay/status/1756128812687900815#m  2/9/24
+
+⚡️MUST WATCH: Hezbollah just released the video showing the attack that destroyed a Merkava tank at the Al-Baghdadi site with a “special guided missile” (which means it’s another top-attack Almas ATGM).
+
+>Another beautiful path-recorded Almas ATGM footage 🔻
+https://nitter.lanterne-rouge.info/AryJeay/status/1756123767602831570#m  2/9/24
+https://files.catbox.moe/7rzdod.mp4  2/10/24
+
+>🛑| According to reports, Egypt has threatened to suspend the peace agreement with “israel” if a military operation in Rafah causes Palestinians to cross from Gaza into its territory.
+
+>My opinion: They won’t do anything.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756267778112200896#m  2/10/24
+
+>🛑| Brigadier General (Reserve) of the occupying army, Itzhak Brik:
+
+Netanyahu makes almost daily statements completely devoid of any truth, joined by Knesset members and ministers whose security expertise equals a garlic peel (🧄).
+https://nitter.lanterne-rouge.info/AryJeay/status/1756271760687682027#m  2/10/24
+
+>Last Thursday, on the occasion of Al-Isra and Al-Miraj, Israeli police arrested more than 10 Palestinians inside the Al-Aqsa Mosque compounds, including 6 girls (4 minors) and a photojournalist. Some of them were reportedly arrested for painting children's faces. 
+
+Most of them were later released but temporarily banned from entering the Al-Aqsa Mosque and the Old City.
+
+(Illustrative photo)
+https://nitter.lanterne-rouge.info/QudsNen/status/1756326745383305484#m  2/10/24
+
+>Doctors Without Borders: Nowhere in Gaza is safe as Israel vows military offensive in Rafah
+https://nitter.lanterne-rouge.info/QudsNen/status/1756291388520477119#m  2/10/24
+
+>⚡️#Lebanon , deep strike on #Sidon city
+
+An #Israeli drone targets a car in the town of Jadra, north of Sidon
+
+⚡️Israeli media report that this is an assassination
+
+⚡️Lebanon: Al-Mayadeen correspondent: Two dead and one wounded when an #Israeli drone targeted a car in the town square of Jadra, north of Sidon
+
+⚡️Lebanon: Al-Mayadee correspondent: The survival of a #Palestinian figure who was targeted by the #Israeli raid in Jadra, north of Sidon in #Lebanon.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756286190745956803#m  2/10/24
+https://files.catbox.moe/nep7h2.mp4  2/10/24
+
+>BREAKING:
+
+⚡ 🇺🇲 The US Army is preparing to leave Syria and Iraq in the next 90 days, due to constant attacks.
+
+Based on insights from multiple U.S. Defense officials, plans are in motion for the complete withdrawal of U.S. and coalition forces from Eastern Syria and Iraq.
+
+This decision comes in response to mounting pressure and escalations by Iranian-backed groups like kataib Hezbollah.
+
+Ensuring the Safety of U.S. Troops and prioritizing security ahead of potential regional conflicts are driving factors behind this move.
+
+The timeline for the withdrawal, estimated to take up to 90 days, is contingent upon various factors including its scale, breadth, and immediate.
+https://t.me/megatron_ron/1695  2/10/24
+
+>🟡| Hezbollah confirms:
+
+Taking control of an IOF “Skylark” drone which reportedly is a in a good technical condition.
+
+This means its reconnaissance data can be successfully recovered and to be used against israel.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756330253834674466#m  2/10/24
+
+⚡️Israeli media: About 10 missiles were launched towards the Western Galilee a short while ago
+
+⚡️Hizbollah:
+
+ We targeted a building in Al-Manara Settlement inside which the #Israeli enemy soldiers were stationed, with appropriate weapons, and we hit it directly.
+
+⚡️Hezbollah || Our mujahideen targeted a gathering of occupation soldiers on the Hadab Aita Heights with missile weapons and hit it directly.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756360250448298007#m  2/10/24
+
+>Breaking | Injuries reported due to Israeli artillery shelling targeting the town of Houla in southern Lebanon.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756361478108586195#m  2/10/24
+
+>Breaking | Civil Defense in southern Lebanon has reported one fatality and six injuries due to Israeli shelling in the town of Houla.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756369128548356564#m  2/10/24
+
+>⚡️Syria: Al-Mayadeen correspondent in Aleppo: Drone bombing targeted the American base in the Conico field in the Deir ez-Zor countryside, eastern #Syria.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756370153883758991#m  2/10/24
+
+>⚡️Occupied Palestine: Al-Quds Brigades: 
+
+Targeting a Zionist force west of Khan Yunis that was holed up in a house, killing and wounding its members.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756391323823755600#m  2/10/24
+
+>⚡️Lebanon: Al-Mayadeen correspondent: One martyr and 9 wounded, including serious cases, in the #Israeli bombing that targeted the town of Hula in southern #Lebanon.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756375720937259419#m  2/10/24
+
+>Breaking | The Palestinian Red Crescent has reported that Israeli occupation forces conducted a raid on the PRCS Al-Amal Hospital in Khan Yunis. During the raid, Israeli soldiers fired shots at the vehicles and seized all the keys belonging to the ambulance and administrative vehicles. 
+They also immobilized the vehicles by locking the steering wheels, preventing the hospital staff from operating them.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756390866288091485#m  2/10/24
+
+>⚡️🔴Israeli army spokesman:
+
+🔻The army is preparing plans to operate in #Rafah and camps in the central #Gaza Strip.
+
+🔺The Chief of Staff is busy preparing to approve the plans.
+
+🔺The implementation date has not been discussed at the moment with the political level
+
+🔺The moment the political level approves the plans, military action will begin.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756399562258805095#m  2/10/24
+
+>🚨| 𝗝𝗨𝗦𝗧 𝗜𝗡: According to Reuters, the American base in the Conoco oil field was attacked with 6 drones by the Iraqi resistance, today. 
+
+The source did not tell Reuters if there were casualties.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756406920473100320#m  2/10/24
+
+>⚡️Egypt: Hamdeen Sabahi to Al-Mayadeen: Talk about #Egyptian warnings to “Israel” to stop the “Camp David” agreement if the aggression against Rafah takes place is true.
+
+ Egypt will not accept any more aggression and bloodshed in #Palestinian Rafah
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756429183826174265#m

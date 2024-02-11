@@ -64,7 +64,7 @@ Press on the Sinner icon, then select the artwork you want on your window. The l
 Sort of. Your loading screen comes from the last story node's CG you played. Replay the node from start to finish to change it. Only do this once you've finished all the story content for the time being, obviously.
 
 **15. What is the update/maintenance schedule? When are new IDs/E.G.O announced and released?**
-We get new IDs/E.G.O every two weeks. Patch notes every Monday at roughly 4 a.m. EST. Maintenance begins every Wednesday at 8 p.m. EST and ends at 10 p.m. EST. New banners and Events are announced/have trailers posted on on Fridays at roughly 4 a.m EST. Skills for announced IDs/E.G.Os are posted alongside the patch notes on Monday. You can see a live countdown for everything [here](https://lcbcountdown.carrd.co/). Some anon manages the Countdown and it is updated fairly regularly. It usually takes a few hours for the announcements and patch notes countdowns to get updated because that anon is asleep when the countdown for them hits 0.
+We get new IDs/E.G.O every one to two weeks. Patch notes every Monday at roughly 19:00 KST. Maintenance begins every Thursday at 10:00 KST and ends at 12:00 KST. New banners and Events are announced/have trailers posted on on Fridays at roughly 19:00 KST. Skills for announced IDs/E.G.Os are posted alongside the patch notes on Monday. You can see a live countdown for everything [here](https://lcbcountdown.carrd.co/). Some anon manages the Countdown and it is updated fairly regularly. It usually takes a few hours for the announcements and patch notes countdowns to get updated because I'm pretty sure that anon is asleep when the countdown for them hits 0.
 
 **16. What are Drawpiles and when do they happen?**
 A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the same canvas simultaneously. We have a Drawpile every Wednesday at the start of each maintenance. The completed Drawpiles are posted in the thread when everyone is done drawing, usually the next day. You can view every past Drawpile in the [/lcg/ Drawpile Collection](https://cubari.moe/read/imgchest/dl7plwgj4ox/1/1/).
@@ -74,7 +74,7 @@ A Drawpile is a canvas that lets multiple people draw, sketch, and paint on the 
 No. Most story content can be beaten with the default Identities and E.G.Os. Reroll if you want to start with specific ones. If you're not interested in meta Identities just look for whatever makes your dick the hardest and make sure it's actually in the roll pool by checking the probabilities tab on the banner you're rolling on.
 
 **2. Who do I reroll for?**
-I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Try to get two or three Identities on this list. Do not bother rerolling for E.G.O. This list is ordered by Sinner number. Hover over the image for the full name of the Identity.
+I have listed what most people consider to be the most "meta" 000 Identity in the roll pool for each Sinner here. Try to get two or three Identities on this list. Do not bother rerolling for E.G.Os. Hover over the image for the full name of the Identity.
 - %white% Yi Sang %%
 	- This Identity has AOE on his skill 2 and can do insane nukes with his skill 3 if you build a sinking team around him.
 	 ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp)
@@ -92,27 +92,27 @@ I have listed what most people consider to be the most "meta" 000 Identity in th
 	![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp)
 
 - %blue% Meursault %%
-	- Meursault. His R Corp Identity is the better of the two. Both Identities get much stronger at Uptie 4.
+	- Meursault. His R Corp Identity is the better of the two. It is recommended that you Uptie 4 both of these Identities.
 	![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![W Corp. L2 Cleanup Agent Meursault](https://files.catbox.moe/yss5ux.webp)
 
 - %aquamarine% Hong Lu %%
-	- His Dieci Identity is good for general damage. His Tingtang Identity has a great support passive and is also pretty good. His K Corp. Identity is an exceptionally good tank, and with his Dimension Shredder E.G.O he can become functionally immortal.
+	- His Dieci Identity is good for general damage. His Tingtang Identity has a great support passive and is also pretty good. His K Corp. Identity is an exceptionally good tank, and if you use this with his Dimension Shredder E.G.O he can become functionally immortal.
 	![Dieci Assoc. South Section 4 Hong Lu](https://files.catbox.moe/6tc0m5.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp)
 
 - %blueviolet% Heathcliff %%
-	- His R Corp. Identity has stayed near the top of the meta since the game launched because of the insane fragility application on his skill 3. His Pequod Identity is great in bleed teams.
+	- His R Corp. Identity has stayed near the top of the meta since the game launched because of the insane fragility application on his skill 3. His Pequod Identity is great in bleed teams and also good if you want a Heathcliff Identity that does not have an ammo mechanic.
 	![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The Pequod Harpooneer Heathcliff](https://files.catbox.moe/3jx98k.webp)
 
 - %darkorange% Ishmael %%
 	- All of her 000s are good, though it is suggested you Uptie 4 her R Corp. Identity.
-	![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp)
+	![The Pequod Captain Ishmael](https://files.catbox.moe/nbtwku.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp)
 
 - %darkred% Rodion %%
 	- Great damage, since this is a discard Identity you'll be seeing her skill 3 much more often. Slampig.
 	![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp)
 
 - %yellowgreen% Sinclair %%
-	- His The One Who Shall Grip Identity can deal insane damage on its own, but you need to babysit him because of his negative coins. His Cinq Identity is great, and does not require babysitting (you can winrate with him).
+	- His The One Who Shall Grip Identity can deal absolutely insane damage on its own, but you need to babysit him because of his negative coins. His Cinq Identity is great, and does not require babysitting (you can winrate with him).
 	![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![Cinq Assoc. South Section 4 Director Sinclair](https://files.catbox.moe/08w5sa.webp)
 
 - %seagreen% Outis %%
@@ -123,20 +123,20 @@ I have listed what most people consider to be the most "meta" 000 Identity in th
 	- Both Identities are good but his Twinhook Identity is generally better.
 	![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp)
 
-The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.O.
+The only things you can't reroll for are Event Identities and E.G.Os from past Seasons, and Battle Pass E.G.O. Always check the probabilities tab if you're unsure.
 
 **3. How do I reroll?**
 Rerolling is extremely easy, and the developers have intentionally made it easy so players can start with what they want.
 1. You need either a phone or an emulator. An emulator allows you to run multiple instances. I recommend [Bluestacks](https://www.bluestacks.com/) or [LDplayer](https://www.ldplayer.net/). You cannot reroll on Steam.
 2. Boot up the game.
 3. Create a new guest account.
-4. Play through the tutorial. Please read through it at least once.
+4. Play through the tutorial and listen to Faust's color autism. Please read through it at least once.
 
 Now that you're in the main menu screen, perform the following loop.
 
 1. Claim Lunacy and tickets from your mailbox.
 2. Claim Lunacy from beating the prologue.
-3. Do 20 rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it if you are happy with what you got in your first 20 rolls.
+3. Do your rolls on the New Manager's Welcome Extraction banner, and either dump the rest into on any other banner or save it if you are happy with what you got.
 4. If you're satisfied with your current rolls, bind your account to Google/Apple, and merge your account with Steam. Do not skip this part if you want to keep the account.
 5. If you want to reroll: click settings\->account\->close account button.
 6. You'll be booted to login screen. Create new guest account, skip the tutorial and repeat.
@@ -254,13 +254,13 @@ Season 3 Settler Supplies | 5040 | 70 | 78.77 | 417.69 | 1.313 | 6.962
 In Limbini Cimpini, each Sinner has their own Egoshard. Egoshards are the currency used to obtain Identities and E.G.Os from the Dispensary. This process is known as sharding, sharting, or "sparking" in regular gachafag terms. Egoshards are obtained when you get dupes of Identities, but Egoshards can also be farmed. Farming Egoshards is directly tied to the Battle Pass, which is leveled by doing missions and Mirror Dungeons. Leveling the Battle Pass past max level will give you Nominable Egoshard Crates, one of which will give you 1-3 Egoshards for a Sinner of your choice. If you don't own the Battle Pass you get 1 Nominable Egoshard Crate per level, and 3 if you do have it. This means that owning the Battle Pass will triple the Nominable Egoshard Crates you get. Below is a general guide on farming.
 
 **1. What is the best way to farm Egoshards?**
-You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. The most efficient way to farm, in order from most to least important is: 
+You can farm as much as you want if you have the Enkephalin (energy) or Lunacy to spend on Enkephalin Modules. One Module is equivalent to 20 Enkephalin. Here is a general list of what you should be doing: 
 * Doing one Mirror Dungeon Hard Mode (MDH) a week
 * Farming as many Mirror Dungeons (MDs) as you want (optional but will net you lots of crates)
 * Collecting all Mirror Dungeon Weekly Bonuses
 * Doing your missions (daily, weekly, seasonal)
 
-You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Even just doing your weekly MDH is enough, and more than two Mirror Dungeon runs a day is not necessary. Do not do more than one MDH a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD.
+You can do multiple Mirror Dungeons a day if you really want to, but be careful not to get burned out. Even just doing your weekly MDH is enough. Do not do more than one MDH a week for farming purposes, because without the Weekly Bonus you get the same rewards as regular MD.
 
 **2. Is it worth spending Lunacy on Enkephalin refills?**
 If you plan on doing daily Mirror Dungeon runs, and especially if you have the Battle Pass. You can spend Modules on Mirror Dungeon runs, and they net you Egoshard Crates thanks to post-120 Battle Pass bonuses. This means that you can spend Lunacy directly on Egoshards. The Lunacy-to-Egoshards conversion efficiency depends on your current max Enkephalin determined by your Manager Level. It ranges from 0.269 at 100 max Enkephalin to 0.404 at 150 max Enkephalin, so it is best to do Lunacy refills once you are closer to max Enkephalin. This means that, in order to get enough Egoshards for a 000/E.G.O, you need to spend anywhere between 990 and 1486 Lunacy. From the moment you reach 115 max Enkephalin, converting Lunacy to Enkephalin and farming a 000 is cheaper than a 10-roll: 1292 Lunacy for a 000. This isn't taking into account the 20-60 Egoshard Crates you get from the MDH Weekly Bonus, which makes farming even faster. Note that subsequent refills cost more Lunacy.
@@ -336,12 +336,12 @@ There are two types of battles: regular encounters and Focused encounters. The b
 Focused encounters are commonly found in Thread Luxcavation, Dungeons, boss fights and the Refraction Railway. In Focused encounters, you can freely change the targeting by dragging skills from the dashboard to enemy skill slots. It goes without saying that Focused encounters are much more interesting to play because you have more control over targeting.
 
 ## Tier List
-I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list, so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released, and I don't want to do that or rely on other websites for opinions, because I only trust the opinions of anonymous retards. There are many other tier lists and resources for you to use if you need a full one, just avoid Prywden. Feel free to scream at me if you think the ordering is retarded, because it probably is.
+I'm not going to make a full tier list, because it would require me to update it very often. I also don't know how to make a good tier list, so I would have to post in the thread asking anons to spoonfeed me every time a new ID/E.G.O is released, and I don't want to do that or rely on other websites for opinions, because I only trust the opinions of anonymous retards. There are many other tier lists and resources for you to use if you need a full one, just avoid Prywden. Feel free to scream at me if you think the ordering is retarded, because it probably is. In all honestly you should really just look somewhere else. This tier list is shameful.
 
 The following are what most consider to be the best IDs and E.G.O in the game. !~ The ordering past the first 4 IDs should be considered very loose ~! because again, I don't know how to make a good tier list. This is mostly ordered for raw power rather than Mirror Dungeon clearing I think. Hover over the images for the name of the ID/E.G.O.
 
 **000 IDs**
-R Corp. Ishmael and Meursault need to be at Uptie 4. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required. Magic Bullet Outis is good in longer battles and also burn comps.
+R Corp. Ishmael and Meursault need to be at Uptie 4. It is also recommended that you Uptie 4 W Don and Ryoshu because they get big boosts from it, but it is not required. Spicebush Yi Sang is that high in the list purely because he enables sinking nukes.
  - ![R Corp. 4th Pack Rabbit Heathcliff](https://files.catbox.moe/3ydr6x.webp) ![The One Who Shall Grip Sinclair](https://files.catbox.moe/jy5lvi.webp) ![W Corp. L3 Cleanup Agent Ryōshū](https://files.catbox.moe/a39xa4.webp) ![W Corp. L3 Cleanup Agent Don Quixote](https://files.catbox.moe/n08b7i.webp) ![Effloresced E.G.O::Spicebush Yi Sang](https://files.catbox.moe/iqa0o7.webp) ![Lobotomy E.G.O::Regret Faust](https://files.catbox.moe/pr6731.webp) ![R Corp. 4th Pack Reindeer Ishmael](https://files.catbox.moe/bjolyf.webp) ![Dieci Assoc. South Section 4 Hong Lu](https://files.catbox.moe/6tc0m5.webp) ![Seven Association South Section 4 Faust](https://files.catbox.moe/tlctcx.webp) ![Dieci Association South Section 4 Rodion](https://files.catbox.moe/1ao9m2.webp) ![Tingtang Gang Gangleader Hong Lu](https://files.catbox.moe/0cauar.webp) ![The Pequod Harpooneer Heathcliff](https://files.catbox.moe/3jx98k.webp) ![The Middle Little Sister Don Quixote](https://files.catbox.moe/x6s4cc.webp) ![Molar Boatworks Fixer Ishmael](https://files.catbox.moe/n4ew86.webp) ![Cinq Assoc. South Section 4 Director Sinclair](https://files.catbox.moe/08w5sa.webp) ![Liu Association South Section 4 Ishmael](https://files.catbox.moe/gk4p54.webp) ![K Corp. Class 3 Excision Staff Hong Lu](https://files.catbox.moe/2hv7ca.webp) ![Twinhook Pirates First Mate Gregor](https://files.catbox.moe/61f2ic.webp) ![Rosespanner Workshop Rep. Rodion](https://files.catbox.moe/s0cgr2.webp) ![Zwei Association South Section 4 Gregor](https://files.catbox.moe/fmxc7a.webp) ![R.B. Chef de Cuisine Ryōshū](https://files.catbox.moe/sp5g3h.webp) ![Lobotomy E.G.O::Magic Bullet Outis](https://files.catbox.moe/4pm7bu.webp) ![The One Who Grips Faust](https://files.catbox.moe/iedto3.webp) ![R Corp. 4th Pack Rhino Meursault](https://files.catbox.moe/aemo38.webp) ![W Corp. L2 Cleanup Agent Meursault](https://files.catbox.moe/yss5ux.webp) ![Cinq Association South Section 5 Director Don Quixote](https://files.catbox.moe/59hysv.webp) ![Seven Association South Section 6 Director Outis](https://files.catbox.moe/l5iddu.webp)
 
 **00 IDs**
@@ -408,21 +408,21 @@ This is shamelessly copied from the [/akg/ Newcutie Guide Rentry](https://rentry
 Reply to the current OP with questions, critiques, or concerns. Please include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
 
 ## Changelog 
-9/22-23/23: Created and then pulled an all-nighter to finish V.1.
-9/24-25/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Elaborated on Luxcavation skipping and sharting.
-9/28-29/23: Changed ordering of "Who do I reroll for?" and fixed an another error in FAQ #13
+9/22/23: Created and then pulled an all-nighter to finish V.1.
+9/24/23: Fixed error in FAQ #13. Removed Shi Heathcliff from tier list. Elaborated on Luxcavation skipping and sharting.
+9/29/23: Changed ordering of "Who do I reroll for?" and fixed an another error in FAQ #13
 10/2/23: Improved grammar and the Extraction explanation. 
-10/5-7/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os.
+10/6/23: Added FAQ #15, fixed capitalization, elaborated on E.G.Os.
 10/11/23: Changed the clashing explanation, added explanation of human and Abnormality battles.
 10/20/23: Clarified MD2H weekly rewards.
-10/25-27/23: Added LimCum update countdown link. Added Walpurgi section. Edited the farming section to include sharting delays.
+10/26/23: Added LimCum update countdown link. Added Walpurgi section. Edited the farming section to include sharting delays.
 10/29/23: Added Regret Paust to tier list the placement is fine I guess I don't fucking know.
 10/31/23: Added an image to the Walpurgi section because I saw someone post their brick for like the 4th time.
 11/3/23: Fixed some minor nitpicks, changed ordering of the tier list.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link.
-11/11-13/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
-11/15-16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
-11/23-24/23: Updated for new chapter part.
+11/12/23: Added Overcocking explanation. Added "What should I be doing during early game?" FAQ. Added new RR guide link.
+11/16/23: Updated for Season 3. Removed N Faust from reroll list and made adjustments to the regular tier list. Moved the Overclocking part of the monetization section to the combat section because I didn't like how text heavy it was.
+11/24/23: Updated for new chapter part.
 11/27/23: Added preface to farming section and updated both tier lists.
 12/8/23: Fixed and updated some minor things.
 12/15/23: Updated to reflect the new Mirror Dungeon.

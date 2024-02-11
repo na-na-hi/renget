@@ -205,8 +205,6 @@ You only need to do this once per card.
 .
 ![1](https://files.catbox.moe/w3azsl.png)
 
-- If you are using no spoiler mode, enter this command: `/setvar key=pass YOURPASSHERE`
-
 **JS done.**
 
 My cards have checkers to make sure your user script is working.

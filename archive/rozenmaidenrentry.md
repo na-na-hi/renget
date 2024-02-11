@@ -1,12 +1,14 @@
 ## -> Get your %red%de%%%green%su%% here! <-
 ***
-### -> And an early anniversary watchalong! <-
-##### -> For those who can't wait! <-
-->  %#b5bd68%>I've never watched or read, but I'm down for a Rozen Maiden watchalong desu.%%<-
--> **Then leave your thoughts and suggestions about it during desu hours or consult your nearest rozenfag on /rozen/, thank you ~desu.** <-
--> We had some plans for a watchalong on /a/ for the 20th anniversary of the anime around October 6-8... <-
--> ...but some anons wanted an earlier one, so we prepared one for next Saturday, with desubots and Crunky! <-
--> Everyone is welcome to watch our beloved dolls together! Praise our Perfect Maidens! <-
+### -> ~~And an early anniversary watchalong!~~ <-
+##### -> ~~For those who can't wait!~~ <-
+->  ~~%#b5bd68%>I've never watched or read, but I'm down for a Rozen Maiden watchalong desu.%%~~<-
+-> ~~**Then leave your thoughts and suggestions about it during desu hours or consult your nearest rozenfag on /rozen/, thank you ~desu.**~~ <-
+-> ~~We had some plans for a watchalong on /a/ for the 20th anniversary of the anime around October 6-8...~~ <-
+-> ~~...but some anons wanted an earlier one, so we prepared one for next Saturday, with desubots and Crunky!~~ <-
+-> ~~Everyone is welcome to watch our beloved dolls together! Praise our Perfect Maidens!~~ <-
+
+-> Maybe there will be a rerun. You decide. <-
 
 ***
 
@@ -15,17 +17,12 @@
 -> %gray%~~Sunday, February 4th, 5pm UTC~~%% <-
 -> %gray%~~**Rozen Maiden: Träumend**~~%% <-
 -> %gray%~~**Rozen Maiden: Ouvertüre**~~%% <-
--> *Thank you for coming ~desu!* <-
+-> %gray%~~Saturday, February 10th, 5pm UTC~~%% <-
+-> %gray%~~**Rozen Maiden: Zurückspulen**~~%% <-
+##### -> *Thank you for coming ~desu!* <-
 
-###-> Next: <-
-#### -> **Rozen Maiden: Zurückspulen** <-
-#### -> [Download and read the manga first](https://www.mediafire.com/file/j027vet2qkw2o5e/Manga.zip/) <-
--> You don't really have to read further than Phase 43 (or Tale 26, if you've decided to continue), you can finish it after the anime. <-
--> ~~You have less than a week day an hour~~ Too bad. <-
-#### -> Saturday, February 10th, 5pm UTC <-
-
-
-#### ->  [Discuss it and get links on the imageboard - /rozen/](https://zzzchan.xyz/rozen/index.html) <-
+#### -> [Download and read the manga](https://www.mediafire.com/file/j027vet2qkw2o5e/Manga.zip/) <-
+#### ->  Discuss it on the imageboards: [/a/,](https://boards.4chan.org/a/) [/rozen/](https://zzzchan.xyz/rozen/index.html)<-
 ***
 ![](https://files.catbox.moe/xwirdu.jpg)
 ***

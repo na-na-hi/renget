@@ -40,7 +40,7 @@ Bulletproof | The User is immune to ball and bomb Moves.
 
 ->Rank<-
 ->*Rank Achieved!*<-
-->![I STOLE THIS FROM AN ANNOYING CHARMELEON.](https://archives.bulbagarden.net/media/upload/9/95/Master_Rank_RTDX.png)<-
+->![Huh? No, I'm not part of a guild.](https://archives.bulbagarden.net/media/upload/9/95/Master_Rank_RTDX.png)<-
 
 ***
 
@@ -110,6 +110,7 @@ Item Name | Description
 4. Empty | N/A
 5. Empty | N/A
 6. Empty | N/A
+
 ***
 
 **STORAGE (18)**

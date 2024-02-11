@@ -25,7 +25,7 @@ Stat | Points: 3 (+1) | Modifiers | Combat Effect
 Health Points | 0 | Level 12 (22HP) | 22 HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 0 | Def Tier **ɪ** | +1 Physical Mitigation
+Defense | 0 | Def Tier **ɪɪ** | +2 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
 Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
@@ -72,7 +72,7 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Attribute:  **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Defense Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 7/9 | ▮▮▮▮▮▮▮▯▯
+Currently Training for Stat: None Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯
 Stat: Defense **ɪ** | Tier **ɪ** (+1 Def) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

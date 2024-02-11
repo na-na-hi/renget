@@ -53,5 +53,7 @@ Sister?
 https://rentry.org/w754h
 Doing My Part
 https://rentry.org/ubmyfbbm
+2 Be a Master
+https://rentry.org/uvyx49qy
 One shots
 https://rentry.org/kwmnz
