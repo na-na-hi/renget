@@ -1,20 +1,16 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/jjv7te.png)<-
+->![Funny](https://files.catbox.moe/7pzfkt.png)<-
 
-## ->❄️[Recently added to the archive: 01/30/2024](https://youtu.be/WCl7mShf8TY)❄️<-
+## ->❄️[Recently added to the archive: 02/12/2024](https://youtu.be/pEg_d2f6myw)❄️<-
+-> (AA is not dead and will be back, please do not panic) <-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
--> (***Series entry!***) [Blackbean Chapter Nine](https://docs.google.com/document/d/e/2PACX-1vSMZf0i6I_5Fwsg1GQQ7VXPaTx4IGrxun_d4RCGaimq0y7NdSa9Cyhk_OHIjNqX7tuT0eatco-8TBLo/pub) (Botan, Towa, Fubuki, multiple chuubas, fantasy)
-[A Priestess Martyr](https://rentry.org/a6bdudta) (Ina, NSFW, NTR)
-[Housekeeping To Dragon Taming](https://docs.google.com/document/d/e/2PACX-1vRP50GJlMyK4A_jt3T-5x9bI27Tj7eUfkIhf1U2qcbAzOJG0lTpjmdQLYHg8mJ9TG6b4qp1CQwhwxk0/pub) (Coco, NSFW)
-[Laplus NTR Greentext Concept Compilation](https://docs.google.com/document/d/e/2PACX-1vSgTloAL3JJjB_eGBpcsefxz7icrMwhYopU35wpkibWw29kNLFoitY12SY8zkh1fIiJJW7Gfiz_5gp0/pub) (Laplus, HoloX, NSFW, NTR, Greentext Comp.)
-[Idol Correction: Marine](https://docs.google.com/document/d/e/2PACX-1vRQKlzIhTbMli1JPqIZMvqKiKx0EqWK_fWhy17rNiDjQryBoXwvigPmb6_zhDGGRlw2QdIriZ14HyMM/pub) (Marine, NSFW, Spanking, /ss/)
-[Choose Your Own Adventure: Shondo Edition: The First Chapter](https://rentry.co/ons9dngb) (Shondo, NSFW/SFW, CYOA, Ryona, Violence, Wholesome, Second Person)
-[Wish Upon The Stars](https://docs.google.com/document/d/e/2PACX-1vRkeIOFUmfSqmvxpYCa5LIk54tTnWPzJ4JMrZax20Riq46Pa6oa3J3hu-CeGigsJfMgXVT7ITMQrH0f/pub) (Suisei, Miko, SFW, Fluff, Angst, Sickfic)
-[Hyper LEather Vector Chloe](https://docs.google.com/document/d/e/2PACX-1vSItjs3mMHSL0ri83R0Ck6SlIwc4SCQbbvyTw4wDUBCyaYFPnDVWQtQqC1NNpe242Abd2w7p5gn8iY8/pub) (Chloe, NSFW, Greentext Comp.)
-[The Cell](https://docs.google.com/document/d/e/2PACX-1vRoOnVjGWMH328sn7rXKih4rbhxN48VHYzUWUFy39-3I4Ahl7TNlT1PjXXQeA7Cm-89yxjxNx7WjZ_p/pub) (Mel, SFW)
-[Aggressive Housemaid](https://rentry.org/suisei54) (Suisei, NSFW, Fluff)<-
+-> [The River - Part I](https://docs.google.com/document/d/e/2PACX-1vRtzOMc3N-8uhGdLUSeVczDZk7yXygDaqNAMlAzxyo9ILYtyCZc-SQJ_IPDDS5mzSePIfESp40Tu3wq/pub) (SFW, Fantasy, Shishio Chris, Polka, Ollie, OC Daughter)
+[LapZuri Story Uncut](https://docs.google.com/document/d/e/2PACX-1vSa5FSP1zU9jJEKeEY_IgoAsvZN1InXLubyed1tKpnrTNtcOrHto-GSlSKnQm5ehYOL7xlh7UAi978o/pub) (Laplus Darknesss, Oppai Loli, Breast Play, Paizuri, Fluff, Vanilla, NSFW)
+[Little Big Auntie](https://rentry.org/auntieaqua) (NSFW, Aqua, Aunt, Masturbation, Washing, Meta)
+(***Series entry!***) [[Fujo Fantasies - Chapter 4: Open Hearts]](https://docs.google.com/document/d/e/2PACX-1vT7jIjFLEeELMP4sDIgoc7hfupUedgPDt5WXur5XfU6JeO8PJ_996a7wj7IFHj6_HRvBSDYUr52D2qD/pub) (SFW, High School AU, Bae, IRyS, Mori, Lui, Fujoshis)
+(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 1: Campire](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode01/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-

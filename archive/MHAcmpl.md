@@ -1146,6 +1146,7 @@ https://rentry.org/czs9nrcu
 +Mommy Link https://rentry.org/duw26qn5
 Urgent Newsflash! (featuring Surinam Toad Girl, Velvet Worm, mention of Kaylee, mention of the Korean girls): https://docs.google.com/document/d/1D-uCqKHLAbU6v_c1YKAiHRxu8z83xD_uMMVHAknxfb4/edit?usp=sharing
 +Rentry version: https://rentry.org/qzavfwdf
+Orochi and Rui in a cafe (Yamata, 108 gang): https://rentry.org/bcf537y8
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

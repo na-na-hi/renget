@@ -609,6 +609,7 @@
 [Fujo Fantasies Ch. 1](https://docs.google.com/document/d/e/2PACX-1vQpNQ8GpA1-5pynyLwz_PeNPFAEqSWrR3fP7ITHusXuwTeMzSH1hyKiMeNfIaIRgC5ZTQ2O3ONiVQpY/pub) (Bae, IRyS, Mori, Ayame, mention of Takane, SFW-ish, High School AU, Fujoshis)
 [Fujo Fantasies - Chapter 2: A Roll Of The Die](https://docs.google.com/document/d/e/2PACX-1vQvPXAsB-IFweNjC8_NBP4YpDRVNKjGKGWErBhiAYzqh5Dpz9ZiEpdqn7-I22sfmFHTaED8iraQZaME/pub) (Bae, IRyS, Mori, Ayame, SFW, Highschool AU, Fujoshi) ^
 [Fujo Fantasies - Chapter 3: Bloom and Doom](https://docs.google.com/document/d/e/2PACX-1vQ00MhfvVELmXCB6w66KLynsXzERhV1cx9wW1w_byXjZnvP47VZYoSmhaz4Hk4MBL_RV3rQYpC2fZfb/pub) (Bae, IRyS, Mori, Fauna) ^
+[[Fujo Fantasies - Chapter 4: Open Hearts]](https://docs.google.com/document/d/e/2PACX-1vT7jIjFLEeELMP4sDIgoc7hfupUedgPDt5WXur5XfU6JeO8PJ_996a7wj7IFHj6_HRvBSDYUr52D2qD/pub) (SFW, High School AU, Bae, IRyS, Mori, Lui, Fujoshis) ^
 
 ##### -> Fantasy/High <-
 >Following Anon's plucking from his world for a fight with a Noel he doesn't recognize by a mysterious force, he finds himself in a brand new world - one far more advanced than his own. With nothing to go on, he ventures into the very first building he sees ahead of him - Cover High. Meeting Transfer Student and co. within, join the two protagonists as they work together and learn about eachother's worlds along the way.
@@ -616,7 +617,7 @@
 [Fantasy/High Chapter 1](https://docs.google.com/document/d/e/2PACX-1vRWSae9rmYbCf7aLE_bkwvRDAYiPSCbD7oWUt2zj29hsO54JrPStq6MliGP2psL_Biodl-f8ylfwxG0/pub) (Pekora, Marine, Yagoo, SFW, Crossover Collaboration, Fluff, Comedy, Isekai)
 
 
-###### ->*Auntie's Little Secret*<-
+##### ->*Auntie's Little Secret*<-
 >Shirakami Fubuki lives a normal life. Normal as life can get. She works as a virtual idol for the company 'Cover Corp', she's married to a great man, and she takes care of her little nephew like a mother would. Hidden underneath a mask, she holds a terrible secret, and much to her demise, it would draw in the person she loved the most. Her nephew.
 
 [Auntie's Little Secret - Landing Page.](https://rentry.org/als18)
@@ -640,3 +641,27 @@
 [Auntie's Little Secret. Ch. 9.](https://docs.google.com/document/d/e/2PACX-1vRUZawHO_T8lER_RZuiL60iwOCNpdbR7_wT0txChWf-eq-EtgODJkLEjadX5B640RyvFCcXW9euXsdq/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
 
 [The last page of the journal - Auntie's Little Secret: Epilogue](https://docs.google.com/document/d/e/2PACX-1vTbnhWP5rDaWlXaX0he6LBspVkq3p40JxO31cwG-18VF_Zg8KKEgpzOS-EobtMJgrP8CIggQGX0pvyl/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
+
+
+##### ->*Tower of Tattle*<-
+>Reminder to Boss: put something here later.
+
+[Tower of Tattle - Landing Page.](https://anonymousnovelite.github.io/TowerOfTattle/)
+
+[Tower of Tattle Part I: The Atrium](https://anonymousnovelite.github.io/TowerOfTattle/PartI/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+
+[Tower of Tattle Part II: The Gate](https://anonymousnovelite.github.io/TowerOfTattle/PartII/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+
+[Tower of Tattle Part III: The Stairwell](https://anonymousnovelite.github.io/TowerOfTattle/PartIII/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+
+[Tower of Tattle Part IV: The Cellar](https://anonymousnovelite.github.io/TowerOfTattle/PartIV/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+
+[Tower of Tattle Part V: The Heart](https://anonymousnovelite.github.io/TowerOfTattle/PartV/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+
+[Tower of Tattle Part VI: The Town, Episode 1: Campire](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode01/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+
+
+##### ->*Holoshorts*<-
+>Wedgies.
+
+[Holoshorts - Landing Page.](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Various Chuubas, NSFW, Wedgie Fetish, several short stories within)

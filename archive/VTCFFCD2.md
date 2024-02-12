@@ -75,3 +75,6 @@ Rentry has a character limit of 200k. The first page has finally filled it to co
 [Hyper LEather Vector Chloe](https://docs.google.com/document/d/e/2PACX-1vSItjs3mMHSL0ri83R0Ck6SlIwc4SCQbbvyTw4wDUBCyaYFPnDVWQtQqC1NNpe242Abd2w7p5gn8iY8/pub) (Chloe, NSFW, Greentext Comp.)
 [The Cell](https://docs.google.com/document/d/e/2PACX-1vRoOnVjGWMH328sn7rXKih4rbhxN48VHYzUWUFy39-3I4Ahl7TNlT1PjXXQeA7Cm-89yxjxNx7WjZ_p/pub) (Mel, SFW)
 [Aggressive Housemaid](https://rentry.org/suisei54) (Suisei, NSFW, Fluff)
+[The River - Part I](https://docs.google.com/document/d/e/2PACX-1vRtzOMc3N-8uhGdLUSeVczDZk7yXygDaqNAMlAzxyo9ILYtyCZc-SQJ_IPDDS5mzSePIfESp40Tu3wq/pub) (SFW, Fantasy, Shishio Chris, Polka, Ollie, OC Daughter)
+[LapZuri Story Uncut](https://docs.google.com/document/d/e/2PACX-1vSa5FSP1zU9jJEKeEY_IgoAsvZN1InXLubyed1tKpnrTNtcOrHto-GSlSKnQm5ehYOL7xlh7UAi978o/pub) (Laplus Darknesss, Oppai Loli, Breast Play, Paizuri, Fluff, Vanilla, NSFW)
+[Little Big Auntie](https://rentry.org/auntieaqua) (NSFW, Aqua, Aunt, Masturbation, Washing, Meta)

@@ -1,6 +1,6 @@
 ->![12](https://literature.crd.co/assets/images/gallery02/50370ec8_original.gif?v=0b76180b)⠀what⠀you⠀see⠀is⠀only⠀a%#BF1840% ⠀moment.⠀%% ![12](https://literature.crd.co/assets/images/gallery02/50370ec8_original.gif?v=0b76180b)<-
 ->![sparkle](https://media.discordapp.net/attachments/1084308198577668107/1203916327493050368/Untitled20_20240204231106.png?ex=65d2d574&is=65c06074&hm=4b56a54de07fc1f5ddfeb5b4a663119e7b31e303634d953e9461dcc3d6df09e1&)<-
 ->![divide](https://literature.crd.co/assets/images/gallery04/cf11827f_original.gif?v=0b76180b)<-
-->｡ᴖ ᴖ) ⠀%#BF1840% maeve / via %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/qYNPdrP/IMG-3816.gif) she **her**<-
+->｡ᴖ ᴖ) ⠀%#BF1840% via / rinne %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/qYNPdrP/IMG-3816.gif) she **her**<-
 -> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/1XVWYR2/31-A39068-29-BC-43-AE-BC4-B-35-DB61-D887-C5.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃  fem (%#BF1840% cis %%)<-
 -> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://literature.crd.co/assets/images/gallery05/ee029d83_original.gif?v=0b76180b)⠀anxiety⠀⠀(ᴗ ᴗ <-

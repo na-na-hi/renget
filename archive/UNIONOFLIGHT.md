@@ -1,0 +1,6 @@
+-> ART ![](https://maguro.carrd.co/assets/images/gallery03/868d60b0.gif?v=50a2d75d). BY [CALAMITYSHRIKE](https://www.tumblr.com/calamityshrike/734429348941234176/doodles?source=share) <-
+-> ![](https://media.discordapp.net/attachments/961931806456836118/1186941818156372038/tumblr_02b6296a22120759836f9b2104db5c59_fa59cf21_640.jpg?ex=659514b5&is=65829fb5&hm=38c0ac84d8f47abac22d578a6569e16dde5e8e8b328e655dc3ce8f714c48fe4a&) <-
+-> ![](https://64.media.tumblr.com/b6daf3288b84730741d0abab48dc3df2/5baff56e2a8778f3-d0/s75x75_c1/a81c114dda599582838ca366c1b7525c7f2ae04d.gifv) **ORI** OR SHANG ,, HE/SHE + IT/LIGHT *!!* <-
+-> GENDERQUEER *&* QUEER ![](https://64.media.tumblr.com/490b26e0129a23dff820896cfa48a983/ca4465b320746059-39/s75x75_c1/7b45268bca1c40151ef3e81040e8b98d907611bd.gifv) ROLE UNKNOWN <-
+-> AGE**LESS** ◡◡ [SOURCE]() / [FICTIVE]() ![](https://64.media.tumblr.com/918821205b774be41cfa70db55d302a9/c2b6be59c8065575-c4/s75x75_c1/f643b520421884227df6b93b1ddd2ae965d1d623.gifv) <-
+-> SIGN OFF: ✨️<-

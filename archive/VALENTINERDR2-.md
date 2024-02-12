@@ -1,0 +1,15 @@
+-> ![](https://cdn.discordapp.com/attachments/961931806456836118/1205747975217872978/output-onlinegiftools.gif?ex=65d97f4f&is=65c70a4f&hm=4dd49d485524851746e9568fe0bf61ec7cb45b729ce76f75bea04654556da816&) <-
+-> %#7b5836%martin, ‎ ‎ ‎ ‎  host ‎ ‎ or ‎ ‎ **valentine.**%% ![](https://64.media.tumblr.com/92a6994c70be5f67da8b56d1851b0327/b847b4ccfbd92bd0-b0/s75x75_c1/208231abda83df8bebc4b2bc01e5a4de55d4e16f.gifv) <-
+-> ⸺ collectively it , thing , cowboy , ask *!!* <-
+-> %#7b5836%non%%binary 𐚁‎ ‎ ‎ ‎ gayaroace mi%#7b5836%nor%%‎ ‎ ‎ bodied <-
+->  . . . .ㅤ[%#7b5836%fic%%]()heart/cowboykinㅤ![](https://64.media.tumblr.com/6a0c7489ce2e7a27d8a1027bf64e9d1a/c12c73a61eb1197b-f7/s75x75_c1/b46c4e2a6e9760f65707f470c07875bc4338e617.gifv)ㅤ%#7b5836%𓎟𓎟𓎟𓎟%%ㅤ!~adhd%#000000%**tism**%%%#7b5836%sad%%~! <-
+->[**PRNS.CC**](https://pronouns.cc/@quatern_)　　　[**ALTERS**](https://rentry.co/VALENTINERDR2-)　　　[**URLHOARD**](/AUTISMURLHOARD)<-
+-> ![](https://64.media.tumblr.com/fcd2dbe65f73a51abeb86c48dc043878/fa3733dabf4af7ab-63/s500x750/c79b5cd9d47403262f48a4726f80cfa57c06db07.gifv) <-
+-> %#7b5836%**main fronters :**%% <-
+-> tomas/smoke , he it , [rntry]() <-
+-> thunder/raiden , he she , [rntry]() <-
+-> Ori/UOL!Shang , he she neos , [rntry](https://rentry.co/UNIONOFLIGHT) <-
+-> johnny cage , he pop neos , [rntry]() <-
+-> scu!grizzly/nate , he grizz it + , [rntry](https://rentry.co/rotgore) <-
+-> %#7b5836%*other alters :*%% <-
+-> [*pk alter list*](https://pluralkit.xyz/s/dopxh/m) <-

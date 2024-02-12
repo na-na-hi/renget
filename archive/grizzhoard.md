@@ -1,0 +1,6 @@
+-> **~~@rotgore~~ `prns/identity` hoarding rentry** <-
+-> ![](https://mikejima.crd.co/assets/images/gallery29/c060e513.png?v=16e7e82c)<-
+-> ![](https://mikejima.crd.co/assets/images/shadow/10302bec.gif?v=16e7e82c) `pronouns!:` ![](https://mikejima.crd.co/assets/images/shadow/ec5917fb.gif?v=16e7e82c)<-
+-> **he / him** , **grizz / grizzs** , **it / it** , *gore / gore* (only use if comfortable) , *rot / rot* (only use if comfortable) , *ruby / rubys*, **poppy / poppy** , *fog / fogs* , *amber / ambers* <-
+-> ![](https://watermelon.crd.co/assets/images/gallery02/da73be23.gif?v=d32cbf10) `identity` ![](https://watermelon.crd.co/assets/images/gallery02/7f559d38.gif?v=d32cbf10) <-
+-> **WIP** <-
