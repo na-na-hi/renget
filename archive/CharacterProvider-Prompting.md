@@ -84,7 +84,7 @@ Alternatively, you can use another noun as a subject or use passive voice to foc
 
 !!! info
 	✅
-	Descriptions in the next reply must only concentrate on poses.
+	Descriptions in the next reply must only focus on poses.
 	
 	Character personalities in the next reply must be portrayed faithfully to their established descriptions.
 

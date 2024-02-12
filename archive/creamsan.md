@@ -77,21 +77,22 @@ See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 Card | Link | Version | Update Notes
 --- | --- | --- | ---
-Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-9-24 |  ***Updated***
+Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-9-24 | 
 Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv2.json) | Jan-20-24 | 
-Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Feb-9-24 | ***Updated***
+Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Feb-9-24 | 
 Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Feb-3-24 |
-Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Feb-9-24 |  ***Updated***
-Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Feb-9-24 | ***Updated***
-Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Feb-9-24 | ***Updated***
-Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Jan-29-24 | 
-Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Feb-9-24 | ***Updated***
-Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-10-24 | ***Updated***
+Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Feb-9-24 | 
+Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Feb-9-24 | 
+Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Feb-9-24 | 
+Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Feb-11-24 | ***Updated***
+Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Feb-9-24 | 
+Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-11-24 | ***Updated***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
 Updated on **Feb-9-24**
 Regex scripts can now be imported. Requires the latest ST version. There are some fixes in there too, like the pipe symbol is now properly escaped. If you're still in older versions, regex will probably break.
+The red /abort errors are still annoying.
 Extra setup further below for Image gen and JS.
 ***
 

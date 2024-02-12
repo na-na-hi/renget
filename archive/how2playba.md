@@ -161,8 +161,8 @@ Read the top right on the first sheet for instruction.
 Global follows the JP schedule reasonably tight, see [the banner list](https://bluearchive.wiki/wiki/Banner_List) for all the upcoming banners. Add 6 months to a banner from JP and that's when it happens in global. 
 
 For the actual guides, use any of the following:
-- [/bag/ guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml) [(image version)](https://arch-img.b4k.co/vg/1707393283650.jpg) 
-- [stokkie's banner guide](https://cdn.discordapp.com/attachments/1066654550448148501/1099983702001463336/goldipose9.png) 
+- [/bag/ guide (Google docs version)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml)
+- [/bag/ guide (image version)](https://arch-img.b4k.co/vg/1707393283650.jpg) 
 
 ## Team formation
 In general a team consists of 1 tank, 1 healer, and DPS.
@@ -212,13 +212,13 @@ Once you have more resources you can branch out to a wider roster.
 
 A good start to every account is upgrading your Serina to 2\* (with ligma), she's your best friend early on.
 
-[Use this for investment targets](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) 
-[this for raids (and skill priority)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#) and [this for PvP](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
-The 'best' units are the ones with a high score, but be aware that BA is a game of niches. 
+Here's a [Tier List for every unit in the game](https://kamigame.jp/bluearchive/page/142375924644479448.html) (in Japanese). 
 
-![how to use excel](https://i.imgur.com/QHrepqU.png)
-(for the 2nd guide/raid tierlist) 
-Make sure to read the extra notes on the right as well. 
+[Here's a guide for skill targets](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) (e.g. how much 3444 or 5747 this girl?) 
+[Here's a raid unit guide (with skill priority and unit notes)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#)
+[here's a PvP tier list](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
+
+While the best units are the ones in a high tier, be aware that **BA is a game of niches**. Every student has a niche they shine in. 
 
 **You level up ur EX and regular skills based on raids and** (to a lesser degree) **PvP.** You can get by with only levels and equipment in PvE stuff.
 You get the biggest impact investing into your DPS. Upgrading ur healers or buffers is also good, since you can use them in every damage type/colour. Tanks are generally fine with just levels and gear (specifically the 2nd equipment slot), so you can skimp out on their EX and regular skills.

@@ -2778,6 +2778,18 @@ V1: https://files.catbox.moe/0rmism.safetensors
 # Sabrina (Sabrina Online)
 https://files.catbox.moe/li4uiy.safetensors
 
+# Nidoking (Pokemon)
+https://files.catbox.moe/2wz3ci.safetensors
+
+# Wile E. Coyote (Looney Toons)
+https://files.catbox.moe/7ac1o5.safetensors
+
+# Jet the Hawk (Sonic)
+https://files.catbox.moe/gbcrox.safetensors
+
+# Silver the Hedgehog (Sonic)
+https://www.mediafire.com/folder/cvm1f2c13mocj/Random+shit
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

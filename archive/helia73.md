@@ -36,7 +36,7 @@ Actvates Astral Ring system 'World Star' division. Astral Ring energy requiremen
 The character has Rapidfire Energy meter. Max 200 points, starts at 80 points.
 
 **PASSIVE 1**
-[SS] Self Total DMG +30%. When Astral Ring 'World Star' is active, during non-Astral Ring Burst state, weapon skills of characters in the team with Realm Resonance tag gain Total DMG +16%. During Astral Ring Burst state, team resonance skill gain Total DMG +30%
+[Unlocked at SS-rank] Self Total DMG +30%. When Astral Ring 'World Star' is active, during non-Astral Ring Burst state, weapon skills of characters in the team with Realm Resonance tag gain Total DMG +16%. During Astral Ring Burst state, team resonance skill gain Total DMG +30%
 
 **PASSIVE 2**
 When Astral Ring is not active, ult cd -20 seconds.
@@ -57,7 +57,7 @@ Throws explosive device at the enemy.
 When meter is not full, press weapon button to throw explosive device, cd:9s, deal 200% ATK of Lightning DMG to surrounding enemies, and causes the first enemy hit to enter tracking status, with 7 counter. When Valkyrie Boltstorm or a teammate hits the enemy, reduce the counter by 1, when counter reaches zero, deal 600% ATK of Lightning DMG to surrounding enemies. When you throw the explosive device, and immediately click atk button, launch a pursuit attack, deal 7x75% ATK of Lightning DMG, restore 60 meter, and the final hit will trigger tracking explosion.
 
 **WEAPON 1**
-[S] When tracking explosion is triggered, add 18 points paralyze trauma.
+[Unlocked at S-rank] When tracking explosion is triggered, add 18 points paralyze trauma.
 
 **WEAPON 2**
 When tracking explosion is triggered, Valkyrie Blastmetal gain 15sp. If she is not in rapidfire state, gain additional 60 meter.
@@ -82,7 +82,7 @@ Deal 2000% ATK of Lightning DMG. When Ult hits, restore 3 points of Astral Ring 
 
 **ULTIMATE 1**
 When Ult hits an enemy, the enemy will be entagled with lightning bolts, it takes 20% more Elemental DMG, takes additional 12% more Lightning DMG, lasts for 25s, can be refreshed.
-
+[Unlocked at A-rank, upgrade locked at SSS-rank]
 
 ---
 
@@ -95,9 +95,10 @@ After targeted bombardment or when Ult hits an enemy, a thunderbolt effect will 
 
 **COMBO 2**
 Lightning DMG +30%, and targeted bombardment deals additional 200% ATK of Lightning DMG.
+[Unlocked at A-rank, upgrade locked at SS-rank]
 
 **COMBO 3**
-Each rapidfire arrow hit recover 0.4 sp
+[Unlocked at SSS-rank] Each rapidfire arrow hit recover 0.4 sp
 
 ---
 !!! info
@@ -116,7 +117,7 @@ When Astral Ring 'World Star' is active, you gain 1 Decaying Kinetic Energy when
 When Astral Ring Burst state ends, you get Astral Ring accretion. During non-Astral Ring Burst state, targeted bombardment will consume Astral Ring accretion and gain 10 points of Astral Ring energy. When Astral Ring 'World Star' is active, gain additional 10 points of Astral Ring energy. You gain Astral Ring accretion on entry, triggers every 10 minutes in Part 2 open world.
 
 **ASTRAL RING 3**
-When Astral Ring 'World Star' is active, when entering Astral Ring Burst state, add a thunderbolt effect to the team and thunderbolt restraint to the enemies on the field. Thunderbolt restraint makes enemies take 6% more dmg from resonance skills. In Astral Ring Burst state, the effects of thunderbolt buff and thunderbolt restraint is increased by 20%.
+[Unlocked at S-rank] When Astral Ring 'World Star' is active, when entering Astral Ring Burst state, add a thunderbolt effect (see Combo ATK 1) to the team and thunderbolt restraint to the enemies on the field. Thunderbolt restraint makes enemies take 6% more dmg from resonance skills. In Astral Ring Burst state, the effects of thunderbolt buff and thunderbolt restraint is increased by 20%.
 
 ---
 !!! info

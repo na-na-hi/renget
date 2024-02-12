@@ -20,10 +20,10 @@
 
 ##%#f590d5%About Me%% ![puddin](https://crustcrunch.neocities.org/home_floaties/pudding_1.gif)
 
-I'm cuntcrush I like making bots & sometimes I share niichan logs & I'm actually Pompompurin in real life.
-Check out %#f590d5%[My Bot Recommendations~!](https://crustcrunch.neocities.org/Pages/botrecs)%%
-
-![desu](https://crustcrunch.neocities.org/cuteanimeboys.gif)
+˚ʚ♡ɞ˚  | -> ₊˚⊹♡  ->
+--- | ---
+![pompom](https://files.catbox.moe/7ghdg5.png) | I'm cuntcrush I like making bots & sometimes I share niichan logs & I'm actually Pompompurin in real life. -> -> Check out %#f590d5%[My Bot Recommendations~!](https://crustcrunch.neocities.org/Pages/botrecs)%% -> ->   -> -> ![desu](https://crustcrunch.neocities.org/cuteanimeboys.gif) -> -> ![pudding](https://files.catbox.moe/exgm5t.gif) -> -> ![ice cream](https://files.catbox.moe/k69qzl.png) -> -> ![warm pom](https://files.catbox.moe/3kynso.png)
+|
 
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 

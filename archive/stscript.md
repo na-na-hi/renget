@@ -159,7 +159,7 @@ The same kind of syntax can be used for loops with `/while`, but let's talk abou
 #####Creating functions/QuickReplies
 Up to this point, we've been dealing with STscript's terrible syntax in everything. Now comes the time to change that. Kind of.
 
-######QuickReply
+######QuickReply extension
 What we want to do is to create our own functions, our own reusable units of code so we don't have to write 50 tedious copypasted lines to do something useful. STscript doesn't have functions and procedures as such, but we have QuickReplies. The most basic use for a QuickReply is this: add a button to the GUI that when pressed does something. For example asks the bot to write a summary of the conversation so far. But we can also run them with the `/run` command. Setting them up so that they don't actually show up as a button and don't do anything with the user input, we will be able to call them with whatever parameters we want to do some reusable logic. Like comparing two numbers. And it'll only take like ten characters, not ten lines.
 
 Sounds too good to be true, right? Well it sort of is. There are two problems. I'd say that's on us for forcing a system for what it was not intended, but then the SillyTavern docs cheerfully guide us to QuickReply usage for "calling procedures". Anyway...
@@ -771,12 +771,12 @@ We can start with something like this:
 
 /echo #{{getvar::tmp}} |
 
-/createentry file=bookname key={{getvar::key}} {{getvar::tmp}}
+/createentry file={{getvar::bookname}} key={{getvar::key}} {{getvar::tmp}}
 ```
 This should be straightforward. We ask the user what they want to add a lorebook entry for, this will be the key of the entry, and then using `/genraw` to generate the content for the entry. A custom-tailored prompt here is highly recommended. In this script there is no error handling or validation, but ideally after requesting the key from the user we'd check if there's already an entry with that key and ask if we should update it or ask for a different key; as well as stopping execution if on any input popup the user presses cancel. In the end, you also may want to save the newly created key and ID to have an easier time looking them up.
 
 ######Automation issue #2
-Getting a key for things important enough to merit a lorebook entry can be challenging, if we don't outright as the user. You may use `/genraw` on the last message to give you a keyword list, but full automation would require the ability to always get a specified data format in the `/genraw` replies, which, let's be honest, won't happen. When inserting an entry we may also want to check if another entry has it in its content and if we should draw a relation to that, using the lorebook recursive seach feature. Unfortunately, as of now, I wouldn't recommend trying to fully automate this. Create a QuickReply button to trigger a script like this, and let the user fill in the blanks.
+Getting a key for things important enough to merit a lorebook entry can be challenging, if we don't outright ask the user. You may use `/genraw` on the last message to give you a keyword list, but full automation would require the ability to always get a specified data format in the `/genraw` replies, which, let's be honest, won't happen. When inserting an entry we may also want to check if another entry has it in its content and if we should draw a relation to that, using the lorebook recursive seach feature. Unfortunately, as of now, I wouldn't recommend trying to fully automate this. Create a QuickReply button to trigger a script like this, and let the user fill in the blanks.
 
 You may add some QoL stuff, like opening the first input with a recommendation from a `/genraw` call about keywords; or maybe a check to see if they used too many words for the key and ask them to shorten it, but a dynamic lorebook like this should already be a great help with any RP. Especially when working in combination of the world info and author's note.
 
@@ -790,9 +790,9 @@ Remember how popups can be used to render any kind of HTML code? You can do that
 
 The most immediate of which is our ability to format text. But that's not all.
 
-######WARNING
 Let's focus our attention back on popups for a moment, because popups, most of all `/input` have a very, VERY powerful and very, VERY exploitable feature. Whatever is the content of the text input on submitting the popup will be piped to the next command. Let's say if we found a way to run some JavaScript code and put the result into the input... We could sidestep 90% of having to deal with STscript.
 
+######WARNING
 The reason why you can't just put a `<script>` element into a popup's code and expect it to work is this:
 https://github.com/SillyTavern/SillyTavern/blob/e3ccaf70a10b862113f9bad8ae039fc7ce6570df/public/scripts/slash-commands.js#L375
 The STscript engine "sanitizes" the popup's content. As it is now, at least on version 1.11.2, this is very easy to undo. __But you should only do so if you understand the risks.__ In this guide I will offer precautions, but still, you should be aware why this feature was put in place in the first place. If any bot could send you executable JS code or any card, prompt preset, lorebook, or QuickReply preset could contain JS, you and your computer would be susceptible to serious harm. XSS attacks would be an obvious one as well as bricking your PC for the lulz, but JS being clientside code ran in the browser, there are about a million exploits a skilled hacker could use. While by writing this guide I am hoping people will be able to create some cool never-before-seen cards, if this JS thing does catch on and people will upload cards using it, you should ALWAYS check the QuickReply content of these cards for malicious code.

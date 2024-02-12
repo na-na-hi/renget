@@ -11,12 +11,11 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Pre-Valentines karaoke, Sun 02/11 7PM CT)
+Next stream: Stardew Valley (Tue 02/13 2PM CT)
+Previous stream (Pre-Valentines karaoke)
 https://www.youtube.com/watch?v=4n1SHSFIiOw
-Last stream (Palworld)
+Last archived stream (Palworld)
 https://www.youtube.com/watch?v=igfSiM1Ali4
-Previous appearance (FWMC birthday countdown)
-https://www.youtube.com/watch?v=Mgy2TSoMlIU&t=1835s
 
 \>Recent merch
 Valentine's Day 2024 Set: https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442181852

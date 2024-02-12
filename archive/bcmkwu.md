@@ -1,3 +1,19 @@
+>BMP-1 finds a mine
+https://files.catbox.moe/xp933o.mp4
+>T-72 hit by Lancet
+https://files.catbox.moe/1mupsx.mp4
+>Artillery on hohol trench
+https://files.catbox.moe/u3mz6w.mp4
+>4+ min of pig slaughter with comments from commander of 4th Brigade of DPR
+https://files.catbox.moe/eqq0zq.mp4
+>Mood of AFU in Avdeevka
+https://files.catbox.moe/1y4ict.mp4
+>4 min footage of assault troops inside Avdeevka pipes at the day of the operation
+https://files.catbox.moe/xloge8.mp4
+>AFU reserves preparing to go in to Avdeevka
+https://files.catbox.moe/pabvq4.mp4
+>NAFO preparing their list of cope when Avdeevka falls
+https://files.catbox.moe/b1vc5j.mp4
 >More footage from very special hohol forces
 https://files.catbox.moe/mk4t9u.mp4
 >Fuel depot in Kharkov after geran strikes

@@ -2304,4 +2304,318 @@ https://nitter.lanterne-rouge.info/AryJeay/status/1756406920473100320#m  2/10/24
 >⚡️Egypt: Hamdeen Sabahi to Al-Mayadeen: Talk about #Egyptian warnings to “Israel” to stop the “Camp David” agreement if the aggression against Rafah takes place is true.
 
  Egypt will not accept any more aggression and bloodshed in #Palestinian Rafah
-https://nitter.lanterne-rouge.info/ME_Observer_/status/1756429183826174265#m
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756429183826174265#m  2/10/24
+
+>⚡️Hezbollah published a video showing the recovery of the IOF Elbit “Skylark” drone which was seized by them in a good technical condition.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756477587692327061#m  2/10/24
+https://files.catbox.moe/u7wnke.mp4  2/10/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 10 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted 2 Merkava tanks with Yassin-105 rockets, southwest of the Zaytoun neighborhood in Gaza City.
+
+— 🇵🇸 Saraya al-Quds Brigades:
+
+🔻Shelled a gathering of soldiers and vehicles east of the Maghazi camp with mortar shells.
+
+🔻Targeted an IOF force with RPGs, entrenched in a house, resulting in casualties in the Khan Yunis western axis.
+
+🔻Shelled IOF soldiers' concentration around the Hawawz area with a barrage of 60mm mortar shells in the Khan Yunis western axis.
+
+🔻Engaged with IOF soldiers and vehicles using machine guns and anti-personnel grenades in the Khan Yunis western axis.
+
+— 🇵🇸 The Mujahideen Brigades:
+
+🔻Shelled the infiltrated enemy command center southeast of Gaza with a number of short-range rockets.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Branit Barracks with rockets.
+
+🔻Took control over a "Sky Lark" reconnaissance drone, in good technical condition.
+
+🔻Targeted the Jal Al-Alam site with rockets.
+
+🔻Targeted an assembly of Israeli soldiers in Aita al-Chaeb with rockets.
+
+🔻Targeted a building in the Manara settlement where Israeli soldiers were positioned with appropriate weapons.
+
+🔻Targeted IOF artillery positions in Dishon with Katyusha rockets.
+
+🔻Targeted the Khirbet Ma'ar IOF base and its artillery positions with Falaq rockets.
+
+🔻Targeted an IOF facility in the Kiryat Shmona settlement with appropriate weapons.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756480173141033397#m  2/10/24
+
+>🛑| Leadership source in Hamas to Al-Aqsa TV:
+
+• Any attack by the IOF on the city of Rafah means sabotaging the negotiation talks for the prisoner’s exchange.
+
+• Netanyahu is trying to evade the obligations of the exchange deal by committing a genocide and a new humanitarian disaster in Rafah.
+
+• What Netanyahu and his Nazi-like army have not achieved in over 4 months, they will not achieve, no matter how long the war lasts.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756618196642062627#m  2/11/24
+
+>⚡️ Ministry of Health in #Gaza:
+
+The #Israeli occupation committed 14 massacres in the #Gaza Strip, claiming 112 martyrs and 173 wounded within 24 hours.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756660789245554916#m  2/11/24
+
+"Palestinians feel as if they were forced from their homes," says an MSNBC reporter discussing the situation in Rafah, highlighting Palestinians' fears of another catastrophe akin to 1948, which he also referred to as "still debated."
+https://nitter.lanterne-rouge.info/QudsNen/status/1756692971020226605#m  2/11/24
+
+>⚡️Hezbollah: Our fighters targeted the spy equipment at the Al-Abad site with appropriate weapons and hit them directly.
+
+⚡️Hezbollah:
+Our fighters targeted a gathering of #Israeli enemy soldiers in the Al-Taihat triangle with missile weapons and hit it directly.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756679992442794013#m  2/11/24
+
+>⚡️Al-Qassam (Hamas) published a video showing the recovery of an IOF quadcopter drone that was seized during its intelligence mission in the northern Gaza Strip.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756636170316894606#m  2/11/24
+https://files.catbox.moe/xgra2o.mp4  2/11/24
+
+>| Millions upon millions of Iranians have come outside in every major city of Iran to celebrate Iran’s 45th anniversary of the victory of the Islamic Revolution. 
+
+These are the Iranians that western funded media don’t want to show you.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756625846033432632#m  2/11/24
+https://files.catbox.moe/tmmk24.mp4  2/11/24
+
+>Occupation’s Chief of Staff moves armored division from Gaza to Lebanon border
+https://nitter.lanterne-rouge.info/QudsNen/status/1756654681634361819#m  2/11/24
+
+>BREAKING| Media coverage: "Al Qassam Brigades says Israel's bombardment killed 2 Israeli detainees and seriously wounded 8 others. 
+
+It added that those wounded do not get appropriate treatment due to the siege and heavy bombardment and held Israeli authorities responsible for their lives."
+https://nitter.lanterne-rouge.info/QudsNen/status/1756644972147654968#m  2/11/24
+
+>Protests sweep across European capitals against Israeli aggression on Gaza
+https://nitter.lanterne-rouge.info/QudsNen/status/1756625840601788426#m  2/11/24
+
+>The spokesperson of the Gaza Health Ministry warns of Israeli intentions to render two major hospitals in Khan Yunis out of service.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756764838154395820#m  2/11/24
+
+>Breaking | The Constitution and Justice Committee in the Israeli Knesset approves a bill to halt the work of UNRWA in occupied Jerusalem.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756757561057874161#m  2/11/24
+
+>Displaced Palestinians are waiting in long lines for food distribution at displacement centers due to Israeli blockade, causing severe food shortages in Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756749822780977177#m  2/11/24
+
+>"People of Gaza, for me, let them starve to death" An Israeli talk show called 'The Patriots' aired on a prominent Israeli channel, where Israeli personalities openly encourage support for starving Gazans and the ethnic cleansing of Palestinians.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756678214003376252#m  2/11/24
+https://files.catbox.moe/6ffj4p.mp4  2/11/24
+
+>Breaking | Israeli artillery shells target the eastern area of Al-Masdar and Al-Maghazi refugee camp, central Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756700322364342491#m  2/11/24
+
+>Breaking | Al Jazeera correspondent reports the retrieval of the bodies of around 100 Palestinians after the withdrawal of the Israeli forces from Tel al-Hawa and Al-Ramal, most of whom were shot and killed by the Israeli snipers.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756708344625090937#m  2/11/24
+
+>BREAKING: 
+
+ 🇮🇱 Netanyahu appears to be indirectly admitting for the first time that he is losing the war in Gaza.
+
+He says 'those who say that under no circumstances should we enter Rafah are basically saying lose the war'.
+https://t.me/megatron_ron/1703  2/11/24
+
+> 🇮🇱🇵🇸 A video has been released showing civilians trying to save a child from an Israeli sniper who had just killed his mother.
+https://t.me/megatron_ron/1708  2/11/24
+https://files.catbox.moe/9ll3d2.mp4  2/11/24
+
+> 🇮🇱 Benjamin Netanyahu to Fox News:
+
+"I have not spoken to the US President since his last statement in which he described our military response as exaggerated."
+https://t.me/megatron_ron/1711  2/11/24
+
+>⚡️Yemen: “Saba” Agency: The official website of Ansar Allah was closed by the German “Contabo” company under the pretext of publishing content inciting hatred for Zionism.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756720563530178784#m  2/11/24
+
+>⚡️#Iran-ian President Raisi: 
+
+We propose to kick out #Israel from the UN.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756726420494025062#m  2/11/24
+
+حياتي في الخيمة في غزة | نازحة
+https://youtu.be/A7umR2C6QDg New  2/11/24
+
+>⚡️A missile salvo was launched from southern #Lebanon towards an #Israeli position in the Upper Galilee
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756762165132865824#m  2/11/24
+
+>⚡️Biden gives the green light to #Israel to expand its war in Rafah, according to the Hebrew media
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756768811464654966#m  2/11/24
+
+>⚡️ Health spokesman in #Gaza:
+
+The occupation is now seeking to put Nasser Medical Complex and Al-Amal Hospital out of service.
+
+- Rafah lacks health services and the health system and is already fragile due to the siege even before the war.
+
+The occupation insists on committing genocide because of its intention to storm Rafah.
+
+The occupation uses aid as an additional weapon to kill civilians who cannot find treatment in hospitals.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756749412544479312#m  2/11/24
+
+>BREAKING:
+
+ 🇮🇱🇦🇷 While Argentina is sinking more and more into an economic crisis and huge inflation, the Argentina president Javier Mileiis is increasingly interested in Israel
+
+Milei called for the demolition of Al Aqsa mosque, the third holiest site in Islam, "in order to bring the Messiah" in Jerusalem.
+https://t.me/megatron_ron/1714  2/11/24
+
+>⚡️If you don't know who they are yet ,
+
+Meet Hezbollah's elite Radwan Force, which is making the Zionists lose their minds in the North
+https://twitter.com/ME_Observer_/status/1756518007570841877?s=20  2/11/24
+https://files.catbox.moe/yxnpfm.mp4  2/11/24
+
+>BREAKING:
+
+ 🇬🇧 New problems in the UK Navy
+
+Royal Navy leaders halted the departure HMS Prince of Wales warship at the last minute. It was supposed to replace HMS Queen Elizabeth in NATO drills - Telegraph
+
+This happened shortly after HMS Queen Elizabeth could not sail due to mechanical problems last week.
+https://t.me/megatron_ron/1715  2/11/24
+
+>BREAKING:
+
+ 🇺🇲🇮🇱🇺🇦 Bill that includes $95 billion in aid to Ukraine, Taiwan and Israel has enough support to advance in the US Senate.
+
+The U.S. Senate was meeting in a rare Sunday session, debating a $95 billion aid package for Ukraine, Israel and Taiwan.
+
+The Senate Democratic majority leader, Chuck Schumer, said lawmakers in the chamber would stay in session “until the job is done,” although extra televisions have been brought in near the chamber so the legislators can watch some of the Sunday night Super Bowl, pro football’s annual championship game in the U.S.
+https://t.me/megatron_ron/1716  2/11/24
+
+>Al-Quds Brigades shows scenes of its mujahideen targeting a Zionist force holed up in a house in Block (G) west of Khan Yunis with an RPG missile
+https://web.telegram.org/k/#@me_observer_channel  2/11/24
+https://files.catbox.moe/nsw3li.mp4  2/11/24
+
+>⚡️The American officials will tell you they oppose the Rafah operation while simultaneously shipping all the ammunition needed to Israel for the Rafah operation.
+
+Don't get tricked.
+
+Zionists are the masters of thievery, lies, and deceit.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756784776118198449#m  2/11/24
+
+>⚡️To my fellow Americans, I just want to let you know that our Arab governments are just as occupied as your own governments by Zionists.
+
+So don't get mad when I talk about "Americans". Your government is our government.  
+
+It's just that your government is the superpower, and Arab governments are irrelevant compared to you, they just obey and are useless.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756787685291659550#m  2/11/24
+
+>🚨| According to israeli sources, the IOF spokesman will announce an “unfortunate” announcement (unfortunate for israel) at 06:00 in the morning following a heavy and difficult incident that took place in Khan Yunis, today. (Illustrative image)
+https://nitter.lanterne-rouge.info/AryJeay/status/1756800410927374717#m  2/11/24
+
+>US Rep. Cori Bush: The US is funding this mass displacement and massacre of Palestinians. End the complicity!  
+
+We must reclaim our humanity & facilitate a lasting ceasefire NOW.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756793647125733467#m  2/11/24
+
+>⚡️#Lebanon: The number of operations carried out by the Islamic Resistance during the 127 days of the Al-Aqsa Flood Battle from 10/08/2023 until 02/11/2024 reached 1,013 operations
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756802937819435079#m  2/11/24
+
+>⚡️A field source from #Gaza:
+
+At least 11 soldiers, including officers, were killed in an elaborate ambush prepared by #Palestinian resistance men in one of the axes and battles of Khan Yunis, and the event continues and the sounds of gunfire and explosions do not stop
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756803205801881873#m  2/11/24
+
+>⚡️⭕️ #Lebanon, Hezbollah :
+In support of the steadfast #Palestinian people in the #Gaza Strip and in support of their brave and honorable resistance, the Islamic Resistance carried out a number of operations against the positions and deployment of the #Israeli enemy army on the Lebanese-Palestinian border on Sunday 2/11/2024, according to the following:
+
+- Eastern sector:
+
+1- At 9:00, spy equipment was targeted at the Ruwaisat al-Alam site in the Kafr Shuba hills and the occupied Lebanese Shebaa Farms with appropriate weapons, and they were hit directly.
+2- At 15:00, a gathering of #Israeli enemy soldiers in the Tahihat triangle was targeted with missile weapons and was directly hit.
+3- At 15:05, the spy equipment at the Al-Abad site was targeted with appropriate weapons and was directly hit.
+4- At 15:20, the Ruwaisat al-Alam site in the Kafr Shuba hills and the occupied Lebanese Shebaa Farms was targeted with missile weapons, and it was directly hit.
+5- At 16:55, a gathering of #Israeli enemy soldiers in Jabal Nadhar was targeted with missile weapons and was directly hit.
+
+*The number of operations carried out by the Islamic Resistance during 127 days, from 10/08/2023 until 02/11/2024, amounted to 1,013 operations.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756807327821304222#m  2/11/24
+
+>BREAKING:
+
+ 🇺🇲 US secretary of defense taken to hospital.
+
+U.S. Defense secretary Lloyd Austin is transported to Walter reed hospital for a potential "Bladder issue."
+https://t.me/megatron_ron/1719  2/11/24
+
+>🚨🇸🇾 BREAKING:
+
+“We are ready for war against Israel, but we will decide when and how we will enter this war”
+
+- Syrian Minister of Foreign Affairs
+https://nitter.lanterne-rouge.info/mrbarnicoat/status/1756825206876786812  2/11/24
+
+>🚨Large-scale Israeli bombardments near the Kuwaiti Hospital in Rafah, south of the Gaza Strip.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756831972934971685#m  2/11/24
+https://files.catbox.moe/9dmcic.mp4  2/11/24
+
+>BREAKING:
+
+ 🇮🇱 The Israeli invasion of Rafah has just begun
+
+Large-scale Israeli bombardments near the Kuwaiti Hospital in Rafah, south of the Gaza Strip.
+
+Violent clashes reported on the outskirts of Rafah. IDF mechanized units moving inside.
+
+Rafah is the last settlement in Gaza on the border with Egypt. Here is the largest refugee camp with 1.9 million refugees. The Israeli army is about to commit another massacre here.
+https://t.me/megatron_ron/1721  2/11/24
+
+>BREAKING| Israel's military carried out over 50 strikes from the air, land, and sea, targeting at least 10 houses and two mosques across Rafah, and resulting in dozens of casualties.
+https://nitter.lanterne-rouge.info/QudsNen/status/1756844767592304905#m  2/11/24
+
+>⚡️#Urgent - Our correspondent, the overall events in Rafah so far:
+
+Targeting more than 14 homes
+Targeting 3 mosques
+Bombardment from boats on the seashore
+Bombing by Apaches and drones
+ 22 martyrs so far
+A number of martyrs and missing persons have not yet been reached under the rubble of homes and mosques.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756848374018413013#m  2/11/24  
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 11 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled a gathering of IOF soldiers and vehicles in the axis east of Khan Yunis with a barrage of mortar shells.
+
+🔻Targeted a military vehicle with RPGs in the southwest axis of Khan Yunis.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Targeted 2 military vehicles in the axis areas of Khan Yunis with explosives and RPGs, resulting in casualties among the IOF forces.
+
+🔻Shelled a gathering of IOF soldiers and vehicles with heavy-caliber mortars, west of Khan Yunis.
+
+🔻Shelled IOF soldiers' gatherings and military vehicles with a barrage of mortar shells in the axis east of Khan Yunis.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled gatherings of IOF army vehicles and soldiers, in the eastern area of Khan Yunis, with mortar shells.
+
+— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+
+🔻Targeted military gatherings with heavy-caliber mortar shells, east of Jabalia and Gaza.
+
+🔻Clashed with IOF army incursions on all fighting axes, inflicting them with losses, and seizing their equipment.
+
+— 🟡 Hezbollah
+
+🔻Targeted espionage equipment at the Ruwaysat Al-Alam site with appropriate weapons.
+
+🔻Targeted a gathering of Israeli soldiers in the Al-Tayhat Triangle with rockets.
+
+🔻Targeted espionage equipment at the Al-Abad site with appropriate weapons.
+
+🔻Targeted the Ruwaysat Al-Alam site with rockets.
+
+🔻Targeted a gathering of Israeli soldiers in Jabal Nader with rockets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756831165040763079#m  2/11/24
