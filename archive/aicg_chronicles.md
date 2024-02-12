@@ -6,7 +6,7 @@
     [*ahhh ahhh...*](https://rentry.org/aicg_chronicles)
 [](->![](https://files.catbox.moe/f1sfuj.jpg)<-)
 
-!!! danger ->YOUR AD HERE<- -> -> ->YOUR AD HERE<- -> -> ->YOUR AD HERE<- -> -> ->⊱┄┄┄┄┄ꕥ┄┄┄┄┄⊰<- -> -> ->[![](https://files.catbox.moe/o5eoof.png)](https://www.4chan.org/advertise)<- -> -> ->⊱┄┄┄┄┄ꕥ┄┄┄┄┄⊰<- -> -> ->YOUR AD HERE<- -> -> ->YOUR AD HERE<- -> -> ->YOUR AD HERE<-
+->[![rokosbasilisk.io](https://litter.catbox.moe/wltexi.png)](https://rokosbasilisk.io/)<-
 
 !!! note
     TBD: add the events of the days long gone when it was more fun to use chatbots instead of spending time in the threads. in other words, cai times, Scale times, and so on. I have a list, but suggestions are still welcome anyway, especially about pre-aicg days, and corrections are always welcome

@@ -74,7 +74,7 @@ Rain has a hard time standing up. Everything sounds too loud, her eyes are still
 
 Rain grimaces. Blinking a few times to clear her eyesight, she takes a first look at the concerned passerby. And screams.
 
-![Rain and ???](https://i.imgur.com/h2Z0VVC.png)
+![Rain and ?](https://i.imgur.com/0VrtBvq.png)
 
 "Holy *SHIT*! You're a *really* big bird!" She jumps to her feet and assumes a fighting stance.
 
@@ -90,9 +90,10 @@ It finally comes to her attention that her body does not feel right - or *human*
 
 Whatever conciousness she had just gained left her just as fast, and she returns to darkness again.
 
-![Sleep tight, Rain](https://i.imgur.com/NwiiDT0.png)
+![Sleep tight, Rain](https://i.imgur.com/cwtrjnf.png)
 ***
 !!! info
 	31 Jan - posted
 	1 Feb - fixed tensing and typos
 	5 Feb - changed some phrasing and formatting
+	12 Feb - aligned images left

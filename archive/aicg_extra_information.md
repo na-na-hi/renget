@@ -363,6 +363,7 @@ Sister rentries:
 - https://rentry.org/meta_bot_list - short meta list of various bot lists from different boards
 - https://rentry.org/meta_botmaking_list - /aicg/ botmaking guides, written by different anons
 - https://rentry.org/meta_golocal_list - /aicg/ (and stolen /lmg/) guides on setting up current gen of local models
+- https://rentry.org/meta_event_list - /aicg/ public events
 
 Email for feedback and suggestions:
 - aicg2023@proton.me

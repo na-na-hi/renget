@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2024-01-29)==<-
+->==(Updated 2024-02-07)==<-
 ***
 [TOC2]
 ***
@@ -11,6 +11,7 @@
 - https://rentry.org/fluffytails - small list of bots; cards only; themed bots; `current`
 [](- https://rentry.org/secretvalentines2024 - small list of bots; themed bots from a botmaking event; `current`)
 - https://rentry.org/flatchestrecommendations - small list of bots; cards only; themed bots; `current`
+- https://rentry.org/multiplecharacters - small list of bots; cards only; themed bots; `current`
 - https://rentry.org/dividedskies - small list of bots; themed bots from a worldbuilding project; *deprecated*
 - https://rentry.org/crimsonfuture - small list of bots; themed bots from a worldbuilding project; *deprecated*
 - https://rentry.org/botmakersecretsanta - small list of bots; themed bots from a botmaking event; *deprecated*

@@ -59,7 +59,7 @@ OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts - https://rentry.org/jinxbreaks
 logs: https://chatlogs.neocities.org
-aicg themed botmaking events: https://rentry.org/aicgthemedweeks
+aicg botmaking events: https://rentry.org/meta_event_list
 
 Previous: >>
 

@@ -87,6 +87,8 @@ The Metal Sonic Apparation | [PRESS START](https://gamejolt.com/games/MetalSonic
 Crucis Mortem | [PRESS START](https://gamejolt.com/games/crucis_mortem/769410)
 SONIC 2011 | [PRESS START](https://gamejolt.com/games/sonic/783884)
 Nintendo.exe | [PRESS START](https://gamejolt.com/games/nintendoexe/245013)
+Coolrash mario.exe | [PRESS START](https://gamejolt.com/games/mario-exe/424431)
+super boy exe | [PRESS START](https://playhop.com/app/252074), [НАЖМИТЕ СТАРТ](https://playhop.com/ru/app/252074#app-id=252074&catalog-session-uid=catalog-58f6c9f6-7b1b-574c-9661-6fb10ed3ee21-1707752111445-e7e8&pos=%7B%22listType%22%3A%22suggested%22%2C%22tabCategory%22%3A%22developer%22%7D&redir-data=%7B%22http_ref%22%3A%22https%253A%252F%252Fplayhop.com%252Fru%252Fdeveloper%253Fname%253DMicroEX%22%2C%22rn%22%3A770987195%7D)
 kemono.exe | [PRESS START](https://gamejolt.com/games/kemono/245965)
 SØNIC UNL | [PRESS START](https://gamejolt.com/games/s0nicUNL/761095)
 Sonic.nes | [PRESS START](https://gamejolt.com/games/sonicnes/672383)

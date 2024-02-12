@@ -72,24 +72,24 @@ The following list is for new players to target, as some units are amazing - But
 ### ->A Tier - Good for low levels, great for for Max-high levels<-
 **Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Very useful in end game content so far. No Unique Equip
 **Princess Kyaru** - Fantastic magic damage dealer that nukes a single target. Has a Unique Equip that requires max investment. Can stomp lower level Arena and tank break hard.
-**Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Good CB usage in April, needs more continued usage to stay relevant or move up in worth.
-**Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. Has UE. Can do well in low level Arena, with enough TP charging and against multi-target bosses.
 **クローチェ (Croce)** -  Good specialist in multi-target physical damage, but does have a huge drawback if she runs out of her battery resource. Needs team support and is a pure damage dealer. No Unique Equip yet.
 **Anne/Grea Duo** - A great magic DPS that can benefit from buffs give to them and convert it into bigger buffs. A great unit that has been consistently used. Requires a lot of team support.
 **ライラエル(Lyrael?)** - Unique field effect that damages all physical units every action, great magic damage alongside great buffs. Extremely helpful early on, but a squishy unit.
 
 ### ->B Tier - Good for low level players, growing into niche usage Max level choices<-
+**Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. Has UE. Can do well in low level Arena, with enough TP charging and against multi-target bosses.
+**Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Consistently used against a few bosses in CB as well.
 **Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
 **Princess Hiyori** - Physical damage dealer that gives herself TP, deals a lot of damage and debuffs targets based on that damage. Requires max UE and has been somewhat left behind in recent months. Still useful, but not as featured these days.
+**Hatsune/Shiori Duo** - Great multi-target physical AOE damage dealer that can UB fairly often. Has a UE and does need max investment for optimal efficiency, but still good with just UE30.
 
 ### ->C Tier - Nice to have, but not incredibly helpful for new players or necessary for late game<-
 **Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena.
 **Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.
-**Homare** - Pairs very well with Neneka, great damage dealer and magic damage enhancer. No Unique Equip yet.
+**Homare** - A nice Multi-target magic damage daeler, but is outclassed outside of specific scenarios. No Unique Equip yet.
 
 ### ->D tier - Not worth rolling for at this time<-
-**Little Lyrical Trio** - Great single target damage unit, doesn't see much usage late game at the moment.
-**Hatsune/Shiori Duo** - A good option for multi-target physical backline, but can get by without them.
+**Little Lyrical Trio** - Nice target damage unit, doesn't see much usage late game at the moment.
 
 ### -> Overall Prifes tier list <-
 Please note, the following is written for how these units are for max level players. (From best to worst = SS > S > A > B > C > D > F)

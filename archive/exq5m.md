@@ -1,9 +1,13 @@
 #Literature of /ag/
->Up To Date As Of 2/10/2024
+>Up To Date As Of 2/11/2024
 
 A collection of weight gain and chub-themed VTuber fanfics produced over a number of months, primarily by the Architecture General (/ag/), but occasionally taken from elsewhere on /vt/ and /d/. Thanks to /vt/'s Writing General (/wg/) in particular for a handful of these and for providing a nice template for me to shamelessly copy this document off of.
 
 To be clear, what's included here are fics from two categories: first, stuff that's not archived on any of the major sites (DA, AO3, etc.) and thus might otherwise be lost to time, and second, stuff that IS on one of those sites, but that the author themselves has volunteered to the general. I'm not here to direct potentially unwanted attention to regular fattywank authors going about their business, though if you HAVE written a fic elsewhere that's not linked here, you're more than welcome to provide approval and a link.
+
+
+/ag/ Vetted Vtuber Catalog: https://rentry.org/mquqne93
+
 
 ##Published Fics
 
@@ -370,6 +374,10 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 .
 
 ![Noel Gurgly ASMR](https://i.imgur.com/BgB8EpZ.png)
+.
+.
+
+![Nerissa Prophetic Superbowl Squish Session](https://i.imgur.com/RB18WqD.png)
 .
 .
 .

@@ -10,10 +10,13 @@ For the 246th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
+\>Upcoming Jewelbird cover of VIVINOS - OTOMEROID (Premieres Tue 02/13 7PM CT)
+https://www.youtube.com/watch?v=9aiuzVI35BQ
+
 \>Streams
 Next stream: Stardew Valley (Tue 02/13 2PM CT)
 Previous stream (Pre-Valentines karaoke)
-https://www.youtube.com/watch?v=4n1SHSFIiOw
+\>>68805044 https://mega.nz/folder/Yn8kQApb#C6ofo8Ax1lsWwwHkYVdM0g
 Last archived stream (Palworld)
 https://www.youtube.com/watch?v=igfSiM1Ali4
 

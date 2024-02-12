@@ -30,6 +30,7 @@ Unnamed Item Monitor pasta (abandoned, see *Disk Djinn*)|*Sonic the Hedgehog 2*,
 *Disk Djinn* (WIP)|Various|[(link)](https://rentry.org/9rfk6)
 *Ananke* (WIP)|Original|[(original)](https://rentry.org/yqwwz), [(edited)](https://rentry.org/3x9akw)
 *My Looming Threat*|N/A|[(link)](https://rentry.org/knfdx)
+*Sonic Test Product* (WIP)|*Sonic the Hedgehog*|[(link)](https://rentry.org/sonictestproduct)
 
 ##.exe pastas
 Title|Link
@@ -60,7 +61,7 @@ Unnamed EXE greentext #2|[(link)](https://arch.b4k.co/vg/thread/418186949/#41825
 *Sonic Bound* (Eggbound)|[(link)](https://rentry.org/SonicBound)
 *Helllamb* (Gaia) (WIP)|[(part 1)](https://rentry.org/Hellamb), [(part 2)](https://rentry.org/funnylam)
 Unnamed SA2 pasta|[(subject 0)](https://rentry.org/x4dme)
-*Workbench.CUE*|[(link)](https://rentry.org/workbench-cue)
+*Workbench.CUE*|[(link)](https://rentry.org/workbenchcue)
 *Message from the Void* (Lady Void) (WIP)|[(link)](https://rentry.org/messagefromthevoid)
 *Metal Frenzy* (Karrie)|[(link)](https://rentry.org/MetalFrenzy)
 *Fun Times* (Clown.exe)|[(link)](https://rentry.org/afuntime)
