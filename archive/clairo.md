@@ -4,6 +4,6 @@
 -> ౨ৎ  enn*y*  ![](https://watermelon.crd.co/assets/images/gallery02/7b701768.gif?v=2a41aca3)  ◞ [t](https://en.pronouns.page/@ennymarch4)hey <-
 ->%#ED303C% isfj 6w7 %% mar4 pisces <-
 ->  [bsf](https://rentry.co/edwardnashton) %#FFE87C% #!~[e](https://the-batman-universe.fandom.com/wiki/Riddler)~!dward!~[j](https://lollipopchainsaw.fandom.com/wiki/Juliet_Starling)~!uliet %%<-
--> [urls.](https://rentry.org/jellyfishfield)　 [byf.](https://rentry.co/creep)　<-
+-> [urls](https://rentry.org/jellyfishfield)　 [byf](https://rentry.co/creep)　<-
 ->discord: rockmyemotions <-
 ![](https://media.discordapp.net/attachments/1088857978976870420/1138873280762216519/Untitled588_20230809173540.PNG)

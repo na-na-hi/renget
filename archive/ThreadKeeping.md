@@ -428,9 +428,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Urgent Newsflash! (featuring Surinam Toad Girl, Velvet Worm, mention of Kaylee, mention of the Korean girls)
-https://docs.google.com/document/d/1D-uCqKHLAbU6v_c1YKAiHRxu8z83xD_uMMVHAknxfb4/edit?usp=sharing
-+Rentry version:  https://rentry.org/qzavfwdf
+>Orochi and Rui in a cafe (Yamata, 108 gang)
+https://rentry.org/bcf537y8
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -989,8 +988,9 @@ Page 9
 https://rentry.org/czs9nrcu
 +Mommy Link https://rentry.org/duw26qn5
 >Urgent Newsflash! (featuring Surinam Toad Girl, Velvet Worm, mention of Kaylee, mention of the Korean girls)
-https://docs.google.com/document/d/1D-uCqKHLAbU6v_c1YKAiHRxu8z83xD_uMMVHAknxfb4/edit?usp=sharing
-+Rentry version:  https://rentry.org/qzavfwdf
+https://rentry.org/qzavfwdf
+>Orochi and Rui in a cafe (Yamata, 108 gang)
+https://rentry.org/bcf537y8
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

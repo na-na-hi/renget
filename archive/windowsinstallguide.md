@@ -16,7 +16,7 @@ If you update your hardware constantly every year, it will likely get support fa
 
 LTSC editions (LTSC/IoT LTSC) are [identical to Enterprise](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/getting_started) except they will not have any feature updates pushed to them, only security updates and bug fixes, and are supported for 5/10 years respectively from release, with a new edition released every 3 years. They are in essence the successor to the classic Windows release cycle from Windows 3.11 through 7. These editions also do not come with the Microsoft Store by default, and by extension do not come with any bloat apps.
 This is the preferred channel if you prefer stability and reliability, as well as control over when you want to update and upgrade your OS.
-You will however, lack support for the newest bleeding edge hardware. As of right now, IoT LTSC 21H2 does not have support for Intel E-cores (12th gen+), those will be included in IoT LTSC in 24H2.
+You will however, lack support for the newest bleeding edge hardware. As of right now, IoT LTSC 21H2 does not have support for Intel E-cores (12th gen+), support will be included in IoT LTSC in 24H2. 21H2 will still run on a CPU with E-cores, but its scheduler will not be able to differentiate a P-core from an E-core and may cause issues, performance impact will vary greatly with each use case, some have significant hiccups while other notice no issues.
 
 ######Step 1: Download and verify you have a legitimate Windows ISO
 This guide uses IoT LTSC but the same steps apply to any non-VolumeLicense Enterprise/Education/Workstation edition of Windows.

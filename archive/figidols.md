@@ -164,3 +164,7 @@ Yuccho " Esos son Reebok o son Nike": Musician who is also a Master DJ.
 https://www.twitch.tv/yuccho_vtuber (embed)
 Nimi " Double Riichi" Pyoi: Manon Master who is also a mahjong fan
 https://www.twitch.tv/nimi_pyoi
+Tetomi "big head big boobs big plays": tekken and street player
+https://www.twitch.tv/tetomi27
+Akane "el conejo de los muerte":  platinum lily player who always has en and spanish live dub translation
+https://m.twitch.tv/akane02

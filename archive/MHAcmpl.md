@@ -1139,7 +1139,7 @@ Introduction to Yeti Girl. (Kyoko): https://rentry.org/g9z2wh5g
 Beach Day Intro: (Beach Day, Suki, The Doctor): https://rentry.org/LeavingYourLeftoversAllOverThePlace
 Rob Write Home (Featuring Velvet Worm w/ mentions of the rest of 1-F):
 https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/edit?usp=sharing
-+ https://rentry.org/gno9vnt6
++https://rentry.org/gno9vnt6
 Will they survive winter? (Kyoko, 1-F): https://desuarchive.org/tg/post/91842120/
 When Something Smells, It's Usually the Nuts (Slimenuts, Karaburan, Mentions of 1-F)
 https://rentry.org/czs9nrcu

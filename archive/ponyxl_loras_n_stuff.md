@@ -46,7 +46,7 @@ https://files.catbox.moe/yur5xf.safetensors ennuigrl
 https://files.catbox.moe/74oe4g.safetensors enoshim_iki
 https://files.catbox.moe/ntxm1m.safetensors futonpasta The artist from a doujin game circle.
 https://files.catbox.moe/ihmnwq.safetensors kurosu_gatari
-https://files.catbox.moe/navp8q.safetensors kunaboto
+https://files.catbox.moe/lcai40.safetensors kunaboto
 https://files.catbox.moe/imc8ii.safetensors kuroda_akimi Kind of really hard to escape the censor with this one.
 https://files.catbox.moe/mrxxs7.safetensors ryoji_ohara Main artist for the Final Fantasy Tactics War of the Visions.
 https://files.catbox.moe/7ozz68.safetensors haganeF
@@ -109,7 +109,7 @@ https://files.catbox.moe/j10wt5.safetensors source_filmmaker
 https://files.catbox.moe/o1fmsv.safetensors namako_daibakuhatsu
 https://files.catbox.moe/y48921.safetensors ishikei you can maybe put source_anime in the positive prompt to make it look more like his old art but as far as i can tell that just happens no matter what
 https://files.catbox.moe/v95tlf.safetensors murata_range works well on both pony and the autism_pony mix
-https://files.catbox.moe/qj3aev.safetensors rhasta you probably need to use source_anime in the positive prompt and/or nose in the negative prompt to stop the model from deciding to add realistic noses
+https://files.catbox.moe/zr0w9o.safetensors rhasta
 https://files.catbox.moe/kh4goe.safetensors laserflip
 https://files.catbox.moe/iq5u22.safetensors ibukichi
 https://files.catbox.moe/29oqmg.safetensors kurono_mitsuki
@@ -128,6 +128,9 @@ https://files.catbox.moe/0wodm0.safetensors coro_fae
 https://files.catbox.moe/lyvklr.safetensors freng example gen https://files.catbox.moe/8djx1f.png
 https://files.catbox.moe/xt69xa.safetensors nakkar
 https://files.catbox.moe/r0eizn.safetensors camonome Recommendation: speech bubbles in negative prompt.
+https://files.catbox.moe/r7wm1x.safetensors Shigenori_Soejima
+https://files.catbox.moe/j8gok0.safetensors Kinu_Nishimura
+https://files.catbox.moe/8ldykm.safetensors Kesoshirou
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime

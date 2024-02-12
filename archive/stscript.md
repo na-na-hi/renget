@@ -780,10 +780,13 @@ Getting a key for things important enough to merit a lorebook entry can be chall
 
 You may add some QoL stuff, like opening the first input with a recommendation from a `/genraw` call about keywords; or maybe a check to see if they used too many words for the key and ask them to shorten it, but a dynamic lorebook like this should already be a great help with any RP. Especially when working in combination of the world info and author's note.
 
+An alternative, if you only have one character and "world discoveries" don't inerest you as much as relationship events, you may ask the AI to give a keyword summary to something using the `{{char}}` and `{{user}}` macros. Though I'd still ask the user for confirmation.
+
 #####Configuration, automation, and using the LLM
 TODO
 TODO: mention that /genraw doesn't use streaming?
 TODO: discuss making scripted cards end-user friendly and easy to set up + reflush all vars + conversation lifecycle changes
+TODO: group chats
 
 #####HTML5 minigames and hacking STscript
 Remember how popups can be used to render any kind of HTML code? You can do that in the conversation too. Try sending the following message: `<h2>asd</h2>` or `<button>Click</button>`. First you'll notice your message getting printed as a heading, and then as a legitimate button you can click. It won't do anything, of course, but this gives us some options.

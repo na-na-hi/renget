@@ -22,7 +22,7 @@ Key/source donators also get unlimited quotas and image gen.
 I do not accept monetary donations.
 If you want to donate, ask before randomly sending keys. Proxy already has a lot of users.
 
-Update: Added a single crappy key to the proxy. Pray it lasts because it very likely won't.
+Update: Rip keys again
 # Stats
 !!!Note 131 users | 154379 proompts | 1075 IPs | 1.432b tokens | US$17236.97 cost
 User||Prompts|IPs|Usage

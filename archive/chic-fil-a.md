@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #53 (Sunday, 11 February 2024, 08:15 UTC)<-
+->Last updated on thread #53 (Monday, 12 February 2024, 06:00 UTC)<-
 ->She's cute.<-
 
 == **LINKS**
@@ -1205,6 +1205,8 @@ By Doublespace
 https://archiveofourown.org/works/44901607
 
 \[ Masterbin ]: https://rentry.org/chic-fil-a
+\[ Image Collection ]: https://mega.nz/folder/oj0jhChK#XyhCcKuPpQ2eZrU5jDNk9Q
+\[ Aggie Drawing ] https://aggie.io/cfatw279pr
 
 Previous thread:
 https://desuarchive.org/trash/thread/????????

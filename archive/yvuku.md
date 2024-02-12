@@ -4,12 +4,12 @@ Ryona Musume Club
 Indie circle of ryona and guro themed v-tubers
 https://ryonankoclub.wixsite.com/website
 >Mai Yumemino
-![Mai Yumemino](https://files.catbox.moe/mqpctx.png)
+![Mai Yumemino](https://files.catbox.moe/g53w2g.jpg)
 Immortal maid from Mai-chan's Daily Life. She will fulfill your dark desires
 https://www.youtube.com/channel/UCvNrOOjEoxOKsGlmcj_Nsag
 https://twitter.com/yumemino_mai
 >Tsubaki
-![Tsubaki](https://files.catbox.moe/njyeag.jpg)
+![Tsubaki](https://files.catbox.moe/pkcf39.png)
 Vampire cursed with a revealing outfit. Dorky hag
 https://www.youtube.com/channel/UC2MWjTYjMRDFwUc8KGkzuNg
 https://twitter.com/d_tsubaki_
@@ -23,12 +23,12 @@ Failed immortalisation test subject that wants to be beaten and eaten
 https://www.youtube.com/channel/UCUD1u_sg-459lO1Dy9xcXYw
 https://twitter.com/ryonaxlove
 >Furokawa Ryona
-![Furokawa Ryona](https://files.catbox.moe/ccx25z.jpg)
+![Furokawa Ryona](https://files.catbox.moe/q0enub.jpg)
 Young boy wanting to be tested on
 https://www.youtube.com/channel/UCnI8I67HTiMUgkBLd9rDmwQ
 https://twitter.com/ryouna_ryona917
 >Azekura Chikage
-![Azekura Chikage](https://files.catbox.moe/jg80vd.jpg)
+![Azekura Chikage](https://files.catbox.moe/efoxx9.png)
 wip
 https://twitter.com/azkr_chikage
 https://www.youtube.com/@AzekuraChikage
@@ -41,7 +41,7 @@ Magical plant girl disguised as a human. Performed horrifying experiments on her
 https://www.youtube.com/channel/UC81S6bzX1LfaWRbztdZmfJg
 https://twitter.com/commav9413
 >Tsutsuji Gashiya
-![Tsutsuji Gashiya](https://files.catbox.moe/6rdkgi.jpg)
+![Tsutsuji Gashiya](https://files.catbox.moe/jlgjq4.png)
 Skeleton golem girl disguised as a human. Hurt her throat from drinking
 https://www.youtube.com/channel/UCcmxB7P6VhOsOmGfvls1nuw
 https://twitter.com/gasiyatutuzi
@@ -49,17 +49,17 @@ https://twitter.com/gasiyatutuzi
 AwA Family
 Indie circle. AwA and her doujin creations brought to life.
 >AwA
-![AwA](https://files.catbox.moe/st0zs1.jpg)
+![AwA](https://files.catbox.moe/kawt3p.png)
 Pastel guro doujin artist. Makes chocolate with her own blood
 https://www.youtube.com/channel/UCuVcdNat7S4hydNm0U5wuJQ
 https://twitter.com/awa7_cat
 >Minori Natsume
-![Minori Natsume](https://files.catbox.moe/nie1yb.jpg)
+![Minori Natsume](https://files.catbox.moe/0n92w5.png)
 Ryona AV idol married sheep. Loves guitars and watermelon
 https://www.youtube.com/@minori_72me
 https://twitter.com/minori_72me
 >Kaihou Rukuna
-![Kaihou Rukuna](https://files.catbox.moe/yfpk7h.png)
+![Kaihou Rukuna](https://files.catbox.moe/74puer.png)
 Alternative punkish girl with ribbons sown into her skin
 https://www.youtube.com/channel/UCzIei6B2_0-IR9NXVohE86w
 https://twitter.com/xho_697
@@ -70,12 +70,12 @@ https://www.youtube.com/channel/UC9RerhLuJRrsSCN5Jf2fmgw/videos
 ***
 Solo Ryona Vtubers
 >Kyusai-Chan
-![Kyusai-Chan](https://files.catbox.moe/udik2j.jpg)
+![Kyusai-Chan](https://files.catbox.moe/jn4up3.png)
 Suicidal respawning angel. Cute singer and loves weirdcore
 https://www.youtube.com/channel/UCm1WEigamQya7cIHkcWYMmw
 https://twitter.com/kyusai_nehan
 >Mitsuro
-![Mitsuro](https://files.catbox.moe/9jhy54.jpg)
+![Mitsuro](https://files.catbox.moe/8j8xnz.png)
 Broken bratty Miyazaki-accented artist. Will bite you
 https://www.youtube.com/channel/UCQ3owMPmIjp3JELxlaJyz9g
 https://twitter.com/326chaaaaan
@@ -85,18 +85,18 @@ Pastel guro liquid monster!
 https://www.youtube.com/c/AwayukiMilk/
 https://twitter.com/awa_milk1040
 >Fishbone Myaso
-![Fishbone Myaso](https://files.catbox.moe/e5n3en.jpg)
+![Fishbone Myaso](https://files.catbox.moe/wb9dwg.png)
 Pigeon angel/fish chimera
 https://twitter.com/FishBone0810
 https://www.youtube.com/channel/UC_LIgToONs9xT5oD3BU0dug
 >Eganagu
-![Eganagu](https://files.catbox.moe/p9ms4r.jpg)
+![Eganagu](https://files.catbox.moe/d3xxy7.png)
 Ryona doujin artist. Drew fun materials
 https://eganagu.wixsite.com/smile
 https://www.youtube.com/channel/UCF3u-FAkJcvduBX3qDvPkKA
 https://twitter.com/eganagu
 >Princess Erika
-![Princess Erika](https://files.catbox.moe/8sjyji.jpg)
+![Princess Erika](https://files.catbox.moe/99yz95.png)
 Adorable oppai loli princess wants to be beaten up!
 https://twitter.com/himeusa_erika
 https://www.youtube.com/channel/UCCR4E_CCoJNFLnh8YV7LvVA/featured
@@ -111,54 +111,54 @@ Psychotic hispanic cockroach. Addicted to weed
 https://twitter.com/gomikukaradesu
 https://twitch.tv/kukaragomi
 >Hatoba Tsugu
-![Hatoba Tsugu](https://files.catbox.moe/bakyg7.jpg)
+![Hatoba Tsugu](https://files.catbox.moe/601gqv.png)
 Not a ryona vtuber, but always be the victim in their fanworks
 https://www.youtube.com/channel/UCGaUWM5OQ7hU1JwbqvNBR4w
 http://tsugu.org/
 >Fallen Shadow
-![Fallen Shadow](https://files.catbox.moe/4shj8e.jpg)
+![Fallen Shadow](https://files.catbox.moe/o6y0sy.png)
 Sickly loli who wants to be abused but everyone wants to save
 https://www.twitch.tv/fallenshadow
 https://twitter.com/fallenshadow_YT
 https://www.youtube.com/@fallenshadowtwitch
 >Nito
-![Nito](https://files.catbox.moe/rq0tse.jpg)
+![Nito](https://files.catbox.moe/0n92w5.png)
 Ryona girl who loves chocking. Minori's Friend.
 https://youtube.com/c/Nitohen
 >Hakka Kyon
-![Hakka Kyon](https://files.catbox.moe/u4qjf3.jpg)
+![Hakka Kyon](https://files.catbox.moe/tf5n7d.png)
 Jiangshi zonbie who enjoys creepy/horror content.
 https://youtube.com/@HakkaKiyon
 >Tunagi Yuzuha
-![Tunagi Yuzuha](https://files.catbox.moe/1axsqy.jpg)
+![Tunagi Yuzuha](https://files.catbox.moe/lj6wbg.png)
 A two-in-one fallen angel. Pastel guro/gurokawa enthusiast.
 https://www.youtube.com/channel/UCKwvYBuN7oJPYunZOJxRzwg
 https://twitter.com/tunagi_yuzuha
 >Yona Aona
-![Yona Aona](https://files.catbox.moe/tzqwzm.jpg)
+![Yona Aona](https://files.catbox.moe/yox6az.png)
 Babiniku vtuber, emphasis on NIKU (meat). A Virtual Girl Meat. Enjoys grotesque content and is a friend of Tsubaki.
 https://www.youtube.com/c/%E8%92%BC%E5%A5%88%E9%99%BD%E8%8F%9CVtuber
 >Yamicha 
-![Yamicha](https://files.catbox.moe/7gipap.png)
+![Yamicha](https://files.catbox.moe/rlvnsk.png)
 Yandere AVtuber who specializes in alternative fetishes like BDSM and ryona
 https://www.youtube.com/channel/UC_WZk0ZK7s1EtHPqZVhJF-Q
 >Tetsuno Kusari
-![Tetsuno Kusari](https://files.catbox.moe/xehfn4.jpg)
+![Tetsuno Kusari](https://files.catbox.moe/51c4mq.png)
 Higher dimensional angelic/dharmic artist. Designing and rigging other horror/sadomaso vtubers.
 https://www.youtube.com/@Tetsuno-Kusari
 https://twitter.com/tetsu_no_kusari
 >Wwparasi
-![Wwparasi](https://files.catbox.moe/1ifkq0.png)
+![Wwparasi](https://files.catbox.moe/dxseny.png)
 A french carnivore rabbit that occasionally does ryona art, plenty of steak and blood.
 https://twitter.com/wwparasiVT
 twitch.tv/wwparasi
 >denpafish
-![denpafish](https://files.catbox.moe/ebse8w.jpg)
+![denpafish](https://files.catbox.moe/vgat0s.jpg)
 A self proclaimed menhera slime that also does ryona art, has toggles for her model for facial brusing among other things.
 https://twitter.com/denpafish
 http://twitch.tv/denpafish
 >Kiki Pyon-Pyon
-![Kiki Pyon-Pyon](https://files.catbox.moe/29hbqb.png)
+![Kiki Pyon-Pyon](https://files.catbox.moe/e6n2tc.png)
 Kiyomi Pyon-Pyon, or Kiki for short is an adorable autistic Aussie chuuba. She's a wicked bright, and super sweet girl with a passion for animals and her champyons!
 https://www.youtube.com/c/KikiCh-
 https://twitter.com/bunnyonvt
@@ -174,9 +174,10 @@ creepy bunny imouto parasite
 https://www.twitch.tv/yuiidere
 https://twitter.com/yuiidere
 >Suraya Mousouzoku
-![Suraya Mousouzoku](https://files.catbox.moe/npcxaf.png)
+![Suraya Mousouzoku](https://files.catbox.moe/tvkinu.png)
 Unfiction Vtuber. Newscaster from an alternate history.
 https://twitter.com/QWIL_Newscast
+https://www.youtube.com/@Suraya_Archive
 ***
 /meat/-/asp/irants
 >Arisosei Kimoko
@@ -202,6 +203,6 @@ https://www.youtube.com/channel/UCkKLnjE7UIJyTw_6ee_XMgA?app=desktop
 https://www.twitch.tv/rebecca_doodles
 https://twitter.com/rebecca_doodles
 >Elena Badwise Itou
-![Elena Badwise Itou](https://files.catbox.moe/sghmyg.jpg)
+![Elena Badwise Itou](https://files.catbox.moe/n5itse.png)
 https://twitter.com/elena_badwise
 https://www.youtube.com/c/elena-badwise-itou
