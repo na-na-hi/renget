@@ -1,16 +1,14 @@
 -> ![Scuffed Proxy](https://i.imgur.com/MH4QxMx.png) <-
 
-# current links
-
-## proxy url
+## current proxy url
 ```
-https://ip-daughter-hazards-playback.trycloudflare.com/v1
+down
 ```
 **password**
 basilisk
 
-##### [instructions](https://ip-daughter-hazards-playback.trycloudflare.com)
-##### [ST preset](https://ip-daughter-hazards-playback.trycloudflare.com/preset.json)
+##### [instructions](#)
+##### [ST preset](#)
 
 
 > why do I keep getting backend/general errors?

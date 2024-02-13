@@ -16,7 +16,7 @@ You've got a bit more than a week to do this, so don't get too extravagant in yo
 Write who the gift is for so that they know. To try to avoid drama and gossip shitting up the threads, the robo-saint would prefer if you posted anonymously and *didn't* say who you were.
 4chan strips metadata from posted images, so *remember to post a link to the bot on an external website.* To upload files anonymously, use [catbox](https://catbox.moe/) or simply set the upload as anonymous on [chub.ai](https://www.chub.ai/). (Note that the latter still lets you see all the downloads and reviews on your personal profile view, so you won't miss out on that number-based dopamine.)
 Bots posted during Valentine's Day will be listed below.
-
+[]( botname|pilotname|![](thumburl)|%green% **[[CHUB LINK]]() [[CATBOX LINK]]()** %% )
 ##BOTS
 [ESTIMATED LOADING TIME: 0079 cycles. FINISHED AT: [February 14, 2024](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive)]
 CODENAME|NAME|PILOT|LIVE FEED|DOCUMENTS
@@ -26,17 +26,17 @@ V-01 "WOLF"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]**
 V-02 "PILOT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-03 "UMAMI"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-04 "PRINCE"|Lisette|Lunare|![](https://files.catbox.moe/ix4bjs.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/lisette-ba5fe39d) [[CATBOX LINK]](https://files.catbox.moe/osycw5.png)**%%
-V-05 "FATHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-05 "FATHER"|Malvét|Astroturf|![](https://files.catbox.moe/p2cnq0.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/malvet-8efecb82/) [[CATBOX LINK]](https://files.catbox.moe/ho9cyu.png)** %%
 V-06 "BRAVE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-07 "SEER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-08 "MANIFOLD"|**RETIRED**|**RETIRED**|![](https://files.catbox.moe/msljbn.gif)|**RETIRED**
 V-09 "BLADE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-10 "GULLIVER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-10 "GULLIVER"|Kyodaina Gaki|Genoo|![](https://files.catbox.moe/021uyf.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/kyodaina-gaki-35440c45) [[CATBOX LINK]](https://files.catbox.moe/1qrrg9.png)** %%
 V-11 "WORLD"|Mikan|Clara-chan|![](https://files.catbox.moe/kxeohm.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/mikan-3638c868/main) [[CATBOX LINK]](https://files.catbox.moe/zpn33c.png)** %%
 V-12 "AMOEBA"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-13 "ROBOT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-13 "ROBOT"|Elisha|Ascendant|![](https://files.catbox.moe/k0tb8u.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/qej8my.png)** %%
 V-14 "OTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-15 "AUK"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-15 "AUK"|Sandy|MrSexSexSexSexSexSex|![](https://files.catbox.moe/p0pokj.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/sandy-3f497c95/main) [[CATBOX LINK]](https://files.catbox.moe/ep7zzk.png)** %%
 V-16 "BRAT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-17 "MANTIS"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-18 "BROTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
@@ -46,7 +46,7 @@ V-21 "GRANDMA"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED
 V-22 "PARADOX"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-23 "CRIMSON"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-24 "INK"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-25 "VITA"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-25 "VITA"|Amamut|Dark Fantasy|![](https://files.catbox.moe/29de9y.gif)|%red% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amamut-24a3ad1f) [[CATBOX LINK]](https://files.catbox.moe/1lgfo7.png)** %%
 V-26 "BUN"|Narcisa|Scrimb|![](https://files.catbox.moe/f5ir8n.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/narcisa-ab5b8eba/main)** %%
 V-27 "ROGUE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-28 "BUILDER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
@@ -59,12 +59,12 @@ V-34 "CHEAT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]*
 V-35 "NEPTUNE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-36 "BEAR"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-37 "DUMBBELL"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-38 "HUMAN"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-38 "HUMAN"|Katzette|Anti|![](https://files.catbox.moe/bkkuop.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/katzette-8583d2c2/main) [[CATBOX LINK]](https://files.catbox.moe/k117as.png)** %%
 V-39 "HERO"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-40 "PRINCESS"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-41 "BUSH"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-42 "RELAY"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-43 "POWER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-43 "POWER"|Kate|tnbt|![](https://files.catbox.moe/9whmsr.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/3epiui.png)** %%
 V-44 "GOTHIC"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-45 "VILLAIN"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 

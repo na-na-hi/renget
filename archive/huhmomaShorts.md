@@ -979,3 +979,66 @@ Ronanon by anonymous
 >Amidst the confusion, angry yelling and declarations of revenge, you decide to quietly slip away
 
 ---
+Occupation by anonymous
+
+>It's been about 4 months since your country was invaded by them
+>And about 3 months since the surrender
+>Since then, your streets have been patrolled by your new, fuzzy muzzled conquerors, sniffing out (sometimes literally) any signs of human resistance or discontent with the new regime
+>Mutual distrust burns in the eyes of all of your friends and neighbors towards your new anthro oppressors, and while you'll take it over the cacophony of shells and artillery hitting your city, the nights are eerily quiet with martial law
+>But to you, none of it matters
+>You're probably the only human left in the entire country who seems to be able to smile and walk with a spring in your step
+>Not that you're happy about how the war turned out or anything, but...
+>When you're in love, nothing can bring you down!
+>Except, actually, maybe there are a few things which could, *SHOULD* be bringing you down
+>Namely, that your lover is an anthro officer of the army that just demolished the last sovereign human city state
+>And he's a guy
+>And though you've been trying to keep it secret, a few other humans might just know about your dalliance with him
+>And they aren't nearly as happy as you are about it
+>That's what you're guessing, anyway, as you examine your front door, window shattered with "SPECIES TRAITOR" painted over it, all with a cold sweat running down your face
+
+---
+Water Cooler Talk by anonymous
+
+>”So, word around the office is you’ve got a fat cock.”
+>PPPPPPPFFFFFFFFFFFFFFFFFFFTTTSSSSSSSSS
+>You’re stuck choking on your coffee wondering who the hell just said that.
+>When you turn around, you catch a border collie calmly stirring his own coffee, as if he hadn’t said something absurd in the middle of the break room just a second ago.
+>You give the white collared collie an incredulous look while mothing a “What the fuck?”
+>The collie shrugs and continues to stir his coffee.
+>”What? I Just wanna know if it’s true? Is it?”
+>Is this guy for real?!? 
+>No. What kind of person asks this out of the blue? 
+>Where’d this dude even hear about-
+>”Really? Huh? I was sure someone saw it.”
+>...No… there’s no way… 
+>Alright, so, on the side you run a “only-skins” account. 
+>You’re not proud of it but you needed some extra cash and you knew you were conventionally “well-endowed” according to society's standards.
+>It’s nothing too revealing.
+>It’s mostly just you in jock straps or very, very revealing underwear with a damp tip.
+>Teasing viewers always landed you more money than showing them what they really wanted. 
+>No face.
+>No raw dick. 
+>Just some quick cash after work.
+>But there’s no way someone from work actually found you… right?
+>The collie notices your slack jawed hesitation and begins to walk out of the break room, content with his coffee (and your reaction), but not before leaving a parting message.
+>”Hm, I guess I’ll just ask someone else.”
+>Shit…this collie is trouble.
+>If he starts spreading your name (along with your cock) around the office, you’ll be fired in the next 24 hours.
+>As the collie exits the break room you dash and grab his arm, pulling him back into the breakroom and pinning his shoulders against the door.
+>The collie simply gives you a sly smirk, knowing that he has you all under his control.
+>Who the hell did he hear about this from?
+>”Oh you know… A little bird told me.”
+>This fucker is blackmailing you!
+>What does he want?
+>”All I wanna know is if it's true.”
+>He puts on this shit eating grin while you roll your eyes.
+>Jesus, fine you’ll tell him the truth.
+>”hmmmm… I’ll need some proof.”
+>Proof?
+>He needs proof?!?
+>You make the mistake of relaxing your grip on his shoulders while you contemplate on what the collie meant by “proof,” and are immediately pulled by your tie to his growling snout.
+>”You’d better meet me in the bathroom in 10 minutes if you don’t want dick pics floating around the office.”
+>He releases his hold and laughs his way out of the break room, sipping on his un-spilt coffee while he strolls down to his desk down the hall.
+>This isn’t good.
+
+---

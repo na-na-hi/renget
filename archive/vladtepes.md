@@ -1,0 +1,4 @@
+->![](https://media.discordapp.net/attachments/963569824276025354/1087858702377308270/EE008DC3-F722-429C-827A-E8EE668D8313.gif)<-
+->![](https://64.media.tumblr.com/3ca33c0f045ebe409d7e6924e90623e3/5d758e6be7ba86e3-04/s75x75_c1/bb814ac2b672aa6a45d3ee6fcc5b67070c493438.gifv) **Vlad** *or* **Dracula** *`ageless`* ![](https://64.media.tumblr.com/ce82aa360747e03d2d55f535f26a7295/5d758e6be7ba86e3-fa/s75x75_c1/3efc6138c737107596222005b0279a12bea18250.gifv) <-
+-> heﾉhim ![](https://64.media.tumblr.com/f10302f5823af7cb63ba10136a52f42d/3a1dd0d929d3562e-28/s75x75_c1/49f0d56fce2aa502c2a45b92eb75d8b875d75819.gifv) father _~~vamp~~ire_ <-
+->![](https://pixelbank.neocities.org/decome/skulls/f1645048.gif) **mar**ried [`care`](/theportals see)taker ![](https://64.media.tumblr.com/82aff8332cd2016ae97eceef87b4c011/dd3cc40403773019-ea/s75x75_c1/e3ef32d17c0dac9671c9ebc41eb88eb07b64a963.gifv) <-

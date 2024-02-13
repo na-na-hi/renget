@@ -285,6 +285,7 @@
 02/2024|[BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)
 02/2024|[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 02/2024|[EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/abs/2402.05008)
+02/2024|[GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -555,6 +556,7 @@
 02/2024|[LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/abs/2402.04333)
 02/2024|[Accurate LoRA-Finetuning Quantization of LLMs via Information Retention](https://arxiv.org/abs/2402.05445)
 02/2024|[AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers](https://arxiv.org/abs/2402.05602)
+02/2024|[X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics](https://arxiv.org/abs/2402.07148)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

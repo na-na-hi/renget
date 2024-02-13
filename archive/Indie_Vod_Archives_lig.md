@@ -1,4 +1,4 @@
-##-> Here are some Unofficial Indie VoD Archives and links to Official Vod Channels:<-
+##-> Here are some Unofficial Indie (and others) VoD Archives and links to Official Vod Channels:<-
 
 # Table of Content
 [TOC]
@@ -52,10 +52,18 @@ Archive.org Mirror|[Archive.org](https://archive.org/details/2021-06-13-resident
 ##[Olivia Monroe](https://www.twitch.tv/oliviamonroe) 
 Content|Link|Description 
 -------|-------|------- 
-Unofficial Vei Vod Channel | [Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
+Unofficial Olivia Monroe Vod Channel | [Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
 
 ---
- 
+##[Pomu Rainpuff](https://www.youtube.com/@PomuRainpuff) 
+Content|Link|Description 
+-------|-------|------- 
+Official Pomu Vod Channel| [Link]( https://www.youtube.com/@PomuRainpuff/videos)| 
+Unofficial Pomu Metal Gear Solid Vod Archive | [Link](https://onedrive.live.com/?authkey=%21AA%2D%2DW39Y3U4p4P4&id=39880C3977C3B3F6%21303&cid=39880C3977C3B3F6)| 
+
+
+
+
 ##[Anny](https://www.twitch.tv/anny)
 Content|Link|Description 
 -------|-------|------- 

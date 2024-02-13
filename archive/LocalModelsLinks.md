@@ -15,7 +15,6 @@
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
 | 
 [Chat Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
-[WR LLM Tests](https://teddit.zaggy.nl/u/WolframRavenwolf/submitted?sort=new&)|For translation capabilities, cross-language understanding, and instruction following/understanding
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
@@ -63,6 +62,7 @@
 [Entropy-ABF](https://github.com/GAIR-NLP/Entropy-ABF)|Context window extension of RoPE-based LLMs outperforming YaRN 
 [EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
 [Temp LoRA](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRA module during text generation to preserve contextual knowledge 
+[X-LoRA](https://github.com/EricLBuehler/xlora)|MoE strategy applied to LoRA by learning scaling values to then gate the LoRA experts
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
@@ -119,11 +119,10 @@
 [UVR](https://github.com/Anjok07/ultimatevocalremovergui)|Audio source separation GUI for various models with full Demucs and MDX23C support
 [AudioSR](https://github.com/haoheliu/versatile_audio_super_resolution)|Audio super resolution (any -> 	48kHz)
 [EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
-[SeamlessM4T](https://github.com/facebookresearch/seamless_communication)|Meta's Speech/Text to Speech/Text translation foundational model with  speech language recognition  
 |
 **Other**|
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
-[Madlad400](https://github.com/google-research/google-research/tree/master/madlad_400)|Google's 10.7B translation model equivalent to Meta's NLLB 54B
+[GenTranslate](https://github.com/YUCHEN005/GenTranslate)|Fine-tune of SeemlessM4T from N-best hypotheses dataset for MT and Speech-to-Text 
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
 [LOCUST](https://github.com/flbbb/locost-summarization)|State-space model for long document abstractive summarization
 [M2-BERT](https://github.com/HazyResearch/m2)|Embedding retrieval models with up to 32k context length based on monarch mixer 

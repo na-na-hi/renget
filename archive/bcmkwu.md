@@ -1,3 +1,14 @@
+>Foreign volunteer on hohol side gets rekt
+https://files.catbox.moe/d932rf.mp4
+>Russians bomb a hohol training camp in Selidovo with cluster ammunitions
+https://files.catbox.moe/e24z7u.mp4
+>Russian choppers strike hohol targets
+https://files.catbox.moe/516mtz.mp4
+https://files.catbox.moe/n2kcnh.mp4
+>Cool mobilization music remix
+https://files.catbox.moe/gez0kt.mp4
+>Work of the 155th Marine Brigade separate assault group at Novomichajlovka
+https://files.catbox.moe/njr8c5.mp4
 >BMP-1 finds a mine
 https://files.catbox.moe/xp933o.mp4
 >T-72 hit by Lancet
