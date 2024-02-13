@@ -172,3 +172,14 @@ Meet Hezbollah's elite Radwan Force, which is making the Zionists lose their min
 https://files.catbox.moe/yxnpfm.mp4 New  2/11/24
 >🚨Large-scale Israeli bombardments near the Kuwaiti Hospital in Rafah, south of the Gaza Strip.
  https://files.catbox.moe/9dmcic.mp4 New  2/11/24
+>Court orders Netherlands to halt delivery of fighter jet parts to Israel
+https://youtu.be/8pBh7YGtEbg New  2/12/24
+>The aftermath of last night's Israeli bombing of the refugee camp in Rafah A direct hit with rockets on the tents where the refugee children are housed. Children's bodies massacred and their parts scattered everywhere while they slept.
+https://files.catbox.moe/jgpd9a.mp4 New  2/12/24
+>Iran : Publication of the first image of the moment of the short-range missile launch of the IRGC's high-speed vessels
+https://files.catbox.moe/a1dqby.mp4 New  2/12/24
+>US Senator @ChrisVanHollen: Kids in Gaza are now dying from the deliberate withholding of food. In addition to the horror of that news, one other thing is true, that is a war crime. It is a textbook war crime. And that makes those who orchestrate it war criminals.
+https://files.catbox.moe/myte6s.mp4  2/12/24
+https://files.catbox.moe/7m1tsi.mp4  2/12/24
+>Feda Al-Hassanat expressed the sadness of her birthday, marked by the absence of midnight greetings due to a lack of network connection and the fear of losing friends. Despite the somber tone, her modest home remains a gift, offering shelter, warmth, and sustenance to her loved ones.
+https://files.catbox.moe/7z7xh5.mp4  2/12/24

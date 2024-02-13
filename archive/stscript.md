@@ -783,10 +783,21 @@ You may add some QoL stuff, like opening the first input with a recommendation f
 An alternative, if you only have one character and "world discoveries" don't inerest you as much as relationship events, you may ask the AI to give a keyword summary to something using the `{{char}}` and `{{user}}` macros. Though I'd still ask the user for confirmation.
 
 #####Configuration, automation, and using the LLM
-TODO
-TODO: mention that /genraw doesn't use streaming?
-TODO: discuss making scripted cards end-user friendly and easy to set up + reflush all vars + conversation lifecycle changes
+In this document, we've seen at least two distinct limitations where STscript might have the tools to do something, but the indeterministic nature of AI text generation holds us back from acheiving full automation. Whether this is an abomination in your eyes that undermines the need for STscript's existence altogether, or just a quirk of an otherwise useful system, it's up to you.
+
+######Addressing pitfalls
+I personally lean towards the latter interpretation. Something doesn't need to be perfect to be valuable. Still, this means that if we want to work with STscript, we need to continuously and consciously deal with imperfections such as these. Finding a workaround or reasonable half-solution is nice, and we'll even discuss some hacks in the next section; but just because WE know that STscript imposes limits on us, without proper preparation, the users of these cards will only see a broken, barely functional thing that's not worth their attention. A service has to be conventient enough for most people to bother.
+
+What does this mean? Well, consider the following: Obviously, we can't have our scripts break down in the middle of a conversation. So okay, we add error handling. But if the error handling bombards the user with echo messages, they still won't engage with the card. It needs to be user-friendly. Easy to use. Easy to set up. We can't expect users to be able to debug STscript. And we can't expect them to know the intended way to use our scripts, or to follow specific rules and instructions just so the script won't break. We need to account for the user deleting messages, swiping, branching off from the active convo, so on and so forth. Something as simple as the user changing the model he's using can break STscript, for example trying to run `/genraw` on an API that requires you to use streaming.
+
+######Making STscript cards easy to set up
+TODO: single command setup
+TODO: reflush all vars
+TODO: user preferences
+
+######Edge cases
 TODO: group chats
+TODO: conversation lifecycle events
 
 #####HTML5 minigames and hacking STscript
 Remember how popups can be used to render any kind of HTML code? You can do that in the conversation too. Try sending the following message: `<h2>asd</h2>` or `<button>Click</button>`. First you'll notice your message getting printed as a heading, and then as a legitimate button you can click. It won't do anything, of course, but this gives us some options.

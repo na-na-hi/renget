@@ -92,7 +92,7 @@ Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | F
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
 Updated on **Feb-9-24**
 Regex scripts can now be imported. Requires the latest ST version. There are some fixes in there too, like the pipe symbol is now properly escaped. If you're still in older versions, regex will probably break.
-The red /abort errors are still annoying.
+The red /abort errors are still annoying. No, nothing's broken, I think.
 Extra setup further below for Image gen and JS.
 ***
 

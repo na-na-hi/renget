@@ -2619,3 +2619,214 @@ https://nitter.lanterne-rouge.info/ME_Observer_/status/1756848374018413013#m  2/
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.lanterne-rouge.info/AryJeay/status/1756831165040763079#m  2/11/24
+
+>🚨BREAKING: A ship in the Bab el-Mandab strait, west of the Yemeni coast, was targeted with 2 Yemeni anti-ship missiles, probably because it ignored warnings. 
+
+Ship’s headed toward the closest port.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756920422166081696#m  2/12/24
+
+>𝗡𝗲𝘄 𝗣𝗵𝗮𝘀𝗲 𝗼𝗳 𝗔𝗹-𝗔𝗾𝘀𝗮 𝗙𝗹𝗼𝗼𝗱:
+
+The IOF announced they were able to free two israeli prisoners in a joint operation with Shin Bet, in the south of Rafah, Fernando Simon Marman & Norberto Louis Har.
+
+Since last night, they have started strengthening the motto that military operations will lead to the liberation of prisoners, not negotiation or agreement.
+
+Hamas issued a statement about last night's operation, considering it a violation of The Hague court decisions, and urged international institutions to intervene.
+
+It seems that we have entered a decisive phase of the Al-Aqsa Storm, which could be the catalyst for various events.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756921930660110432#m  2/12/24
+
+>⚡️| 🇾🇪 Yemeni Armed Forces’ Spox, Yahya Sarae:
+
+In response to the US-UK aggression, the Yemeni Armed Forces targeted the American "STAR IRIS" ship in the Red Sea with precise anti-ship missiles, achieving direct hits.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756952122883453415#m  2/12/24
+
+>☠️ At the same time: The IOF announced the deaths of 𝗼𝗻𝗹𝘆 2 officers who were eliminated last night. It’s clear that the IOF is dowplaying their casualty from the “difficult event” of last night to focus more on the propaganda of rescuing 2 israelis.
+
+🔻Sgt. First Class Adi Eldor, 21, of the Commando Brigade's Maglan unit.
+🔻Sgt. First Class (res.) Alon Kleinman, 21, of the Commando Brigade's Maglan unit.
+
+Another 2 Maglan soldiers were also seriously wounded yesterday in southern Gaza.
+https://nitter.lanterne-rouge.info/AryJeay/status/1756923874292150750#m  2/12/24
+
+>🚨BREAKING: Two israeli helicopters evacuated several wounded israeli terrorists, from the Gaza Strip due to a “severe” incident in the Gaza Strip, to Beilinson hospital.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757023350897963020#m  2/12/24
+
+>🛑| The US Navy’s 5th Fleet was HACKED by Bahraini hackers “Al-Toufan”.
+
+The hackers gained access to confidential documents that contains detailed maps & pictures of the US military base in Bahrain. They released a small part of it and said what they have is greater and it will be given to those who support the Resistance Nexus.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757012809601179813#m  2/12/24
+
+>🚨 BREAKING: According to Hebrew sources, at least 14 people have been injured and X amount of deaths. There’s a strong military censorship currently.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757043060121162103#m  2/12/24  
+
+>🛑| Al-Qassam (Hamas)
+
+Clashed with a group of IOF soldiers and eliminated 10 soldiers from a point-blanc range, near Abasan Al-Kabira in the eastern part of Khan Younis, south of the Gaza Strip.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757046035312955604#m  2/12/24  
+
+>Breaking | Activists in Spain are calling for an immediate protest this evening in Madrid, outside the Ministry of Foreign Affairs, in response to the Israeli massacres in Rafah last night and Spain's signing of a contract to procure Israeli military technology.  
+https://nitter.lanterne-rouge.info/QudsNen/status/1757033177711858003#m  2/12/24
+
+>⚡️Reuters: A Dutch appeals court orders the government to ban all exports of F-35 fighter spare parts to #Israel within 7 days.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1756980296992293117#m  2/12/24
+
+>Court orders Netherlands to halt delivery of fighter jet parts to Israel
+ https://youtu.be/8pBh7YGtEbg  2/12/24
+
+>Breaking | Director of Abu Yousef Al-Najjar Hospital in Rafah: "The number of patients and injured inside the hospital is more than 6 times our capacity."
+https://nitter.lanterne-rouge.info/QudsNen/status/1757056602551505161#m  2/12/24
+
+>⚡️Occupied Palestine: Mujahideen Brigades: Our mujahideen killed and wounded an #Israeli force after booby-trapping a house in which the Zionist special force had barricaded themselves in the southwestern #Gaza axis.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757041950354489746#m  2/12/24
+
+>⚡️Lebanon: The Islamic Resistance: Our mujahideen targeted the Zarit barracks with “Falaq 1” missile launches and achieved direct hits.
+
+⚡️Lebanon: Islamic Resistance: Our Mujahideen targeted a building in the “Yarun” colony in which enemy soldiers were stationed, with appropriate weapons, and hit it directly.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757049593353638314#m  2/12/24
+
+>BREAKING:
+
+🇵🇸 The aftermath of last night's Israeli bombing of the refugee camp in Rafah
+
+A direct hit with rockets on the tents where the refugee children are housed.
+
+Children's bodies massacred and their parts scattered everywhere while they slept.
+https://t.me/megatron_ron/1737  2/12/24
+https://files.catbox.moe/jgpd9a.mp4  2/12/24
+
+>One comment on this:
+
+This is all drama and fabrication. These two get along very well and know what they are doing.
+
+It's not for nothing that Biden still pours weapons into Israel on a daily basis. This is not a market and the whole situation is being discussed between the Pentagon, CIA, Mossad, IDF, etc.
+
+The purpose of this "marketing campaign" as these two disagree, is an attempt by Biden to present himself as disagreeing with Netanyahu's genocide, so that Biden can wash himself in front of the public in the United States, and try to regain his huge number of democrat votes lost due to the genocide.
+
+Democrats are dependent on the votes of "foreigners" in the United States, and from here they have a huge drop in support in the polls.
+
+Their plan was to make up for this shortfall by mass admitting illegal immigrants, but Texas spoiled their plan.
+
+But this backfired on them. They lost even more "American" votes. Therefore, take such media stories with a grain of salt.
+https://t.me/megatron_ron/1736  2/12/24
+
+>⚡️Al-Qassam Mujahideen were able to clash with a group of occupation soldiers and finish off 10 soldiers from point zero in the Abasan Al-Kabira area, east of the city of Khan Yunis, south of the #Gaza Strip.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757057175795474464#m  2/12/24
+
+>⚡️#Lebanon: Islamic Resistance: Targeting a building in the Avivim colony where enemy soldiers are stationed, with appropriate weapons, and causing a direct hit in it.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757068238112890885#m  2/12/24
+
+>⚡️ Gantz:
+
+We will take steps that will allow us freedom to operate in Rafah, whether by evacuating residents, securing the border, or preparing a ground entry.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757068418434383919#m  2/12/24
+
+>BREAKING:
+
+ 🇪🇺🇮🇱 European Union foreign policy official Josep Borrell after the last night Israeli massacre in Rafah:
+
+"The international community may have to rethink providing weapons to Israel"
+https://t.me/megatron_ron/1740  2/12/24
+
+Israel's National Security Minister, Itamar Ben-Gvir, has demanded that the Israeli army should shoot women and children in Gaza for "Israel's security".
+
+According to Israeli media reports, during a meeting with Israeli lieutenants in Gaza, the minister stated: "There cannot be a situation in which children and women approach us from the wall. Anyone who approaches in order to harm security must receive a bullet, otherwise we will see October 7 again."
+https://nitter.lanterne-rouge.info/QudsNen/status/1757073157796553119#m  2/12/24
+
+>The Prosecutor of the International Criminal Court, Karim A. A. Khan, states: "I have not witnessed a significant change in Israel's behavior since my visit to Ramallah last year."
+https://nitter.lanterne-rouge.info/QudsNen/status/1757089992491278712#m  2/12/24
+
+>The Global Education Cluster, jointly led by UNICEF and Save the Children, issued a report detailing the Israeli army's demolition of schools in Gaza.
+
+The data shows that more than 70% of Gaza's schools have been destroyed or targeted by Israel, rendering it unfeasible for children to resume education in the near future.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757092695493718457#m  2/12/24
+
+>⚡️Occupied Palestine: Al-Qassam Brigades spokesman Abu Ubaida: We announce the killing of 3 of the eight Zionist detainees who we announced yesterday were seriously injured in the barbaric #Israeli raids on the #Gaza Strip.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757089251739508787#m  2/12/24
+
+>⚡️Urgent//The US occupation base in the Al-Omar oil field in eastern #Syria was targeted with a missile launcher for the third time.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757089410493882392#m  2/12/24
+
+>BREAKING:
+
+ 🇬🇧 Secretary of State of the UK, David Cameron, regarding last night's massacre in Rafah:
+
+"We are very concerned about what is happening in Rafah"
+
+"Вecause let's be clear the people there, many of them who moved four, five, six times before getting there, and really we can see it impossible, to see how you can fight a war among this people. There is nowhere for them to go. They can' go south in to Egypt, they can't go North back to their homes because many of them have been destroyed. So wea very concerned about this situation.
+
+We want Israel to stop and think very seriously before it takes any further action."
+
+Megatron: This is a false pretense of concern over the impossibility of justifying this war crime. Cameron and the entire UK leadership are staunchly pro-Israel, even going to war with Yemen's Houthis to protect Israel's economy, where a UK warship was severely damaged.
+https://t.me/megatron_ron/1742  2/12/24
+
+>⚡️#Iran : Publication of the first image of the moment of the short-range missile launch of the IRGC's high-speed vessels
+
+ With the release of a short video, for the first time, pictures of the new missile of the high-speed vessels of the IRGC Navy were displayed.  This missile, similar to the Ghaem-114 missile, is likely to be used against fixed and floating targets on the coast and sea, with a range of 10 to 20 kilometers and using a video seeker.
+
+ In the following, images of the moment of the anti-ship cruise missile firing by the patrol-combat vessel Martyr Abu Mahdi Al-Muhandis and the Suleimani missile launch vessel were displayed.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757101710655291772#m  2/12/24
+https://files.catbox.moe/a1dqby.mp4  2/12/24
+
+>⚡️Stephane Dujarric, official spokesman for the Secretary-General of the United Nations: The situation on the border between #Lebanon and “Israel” is very dangerous and threatens a major explosion that threatens the fragile situation in the region.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757101727080202450#m  2/12/24
+
+>⚡️A major attack by settlers and occupation forces on the town of Asira Al-Qibliya, south of #Nablus, and confrontations erupt with the residents
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757107992833442123#m  2/12/24
+
+>Breaking | The White House: "We cannot confirm civilian deaths in Rafah, but we do not want to see any civilian casualties."
+https://nitter.lanterne-rouge.info/QudsNen/status/1757130930789986364#m  2/12/24
+
+>Activists raise Palestinian flags and chant against the Israeli massacres inside the train stations and shopping centers in the city of Vienna, Austria.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757136688252391546#m  2/12/24
+
+>🛑| According to UKMTO, the missile attack against the “STAR IRIS” ship, of this morning, by the Yemen Armed Forces, caused for damage to the ship.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757147582977953815#m  2/12/24  
+
+>Yemen: Member of the Supreme Political Council in #Yemen, Muhammad Ali Al-Houthi: 
+
+We will stand with #Egypt if it stands with the people of Rafah in #Gaza to prevent its invasion. 
+
+ We are ready for strong, effective and influential coordination with #Egypt  
+
+We hope that all Arab countries will stand alongside the people of Rafah in #Gaza to deter the #Israeli entity.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757150244821746144#m  2/12/24
+
+>⚡️#Lebanon: ⚡️Al-Manar correspondent:
+
+Activation of the Iron Dome and a missile explosion in the atmosphere of the Wazzani area
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757144277551874307#m  2/12/24
+
+>☠️ The announcement of eliminated IOF officers from the 630th battalion, during the Gaza Strip battles:
+
+🔻Lt. Col. Nathanael Elkovy, Commander of the 630th Battalion
+
+🔻Capt. Yair Cohen, Battalion Operations Officer
+
+🔻First Sgt. Ziv Chen Hefek, Platoon commander
+https://nitter.lanterne-rouge.info/AryJeay/status/1757149494393679975#m  2/12/24
+
+>US National Security Council spokesperson John Kirby asks a journalist to direct her question to the Israeli military when asked how is Israel going to attack Rafah without harming civilians. 
+
+He also stressed that he is confident that the Israelis understand the US's concerns regarding nearly 1.5 million civilians, who would be slaughtered in Rafah if Israel's military to carry out any attack.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757150618857111760#m  2/12/24
+
+>Feda Al-Hassanat expressed the sadness of her birthday, marked by the absence of midnight greetings due to a lack of network connection and the fear of losing friends. Despite the somber tone, her modest home remains a gift, offering shelter, warmth, and sustenance to her loved ones.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757139506589741501#m  2/12/24
+https://files.catbox.moe/7z7xh5.mp4  2/12/24
+
+>BREAKING:
+
+ 🇮🇱 The hostages that Israel allegedly released yesterday were released on February 2.
+
+IOF carried out a massacre in Rafah, they portrayed it as a victorious rescue operation that matched their Superbowl ad theme while the “hostages” were actually not rescued on the 12th of Feb, they were rescued on the 2nd of Feb.
+
+Reports allegedly indicate that they were even rescued from Khan Yonis not Rafah, also the edits in Hareetz article were 5 days prior to the actual operation, how did they predict the future?
+
+Some reports even indicate that he was rescued twice
+https://t.me/megatron_ron/1745  2/12/24
+
+>US Senator @ChrisVanHollen: Kids in Gaza are now dying from the deliberate withholding of food. In addition to the horror of that news, one other thing is true, that is a war crime. It is a textbook war crime. And that makes those who orchestrate it war criminals.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757186364376801699#m  2/12/24
+https://files.catbox.moe/myte6s.mp4  2/12/24
+https://files.catbox.moe/7m1tsi.mp4  2/12/24

@@ -1,12 +1,8 @@
--> [%#cad9c1% go back？%%](https://text.is/dormir)<-
+ㅤ->%#cad9c1%ུ۪۪白雲に運命を指して。%%<-
 
-***
+->![](https://files.catbox.moe/5mk32d.png)<-
 
-->%#696969%morte luciel or  cielomort
-15 **none** or he asian
- (filipino) 5w4 infj tmasc%%<-
+ㅤ->%#cad9c1%　　ׅ۬֔⠀   %% 　%#696969%𝙼𝚘𝚛𝚝𝚎%% %#cad9c1%  ຼ　*o*𝓊̀%%　%#696969% 𝙻𝚞𝚌𝚒𝚎𝚕%%<-
+->%#696969%      𝗇𝗈𝗇𝖾　%% %#cad9c1%　𓈒%%　%#696969%𝗁𝖾　 、　𝟷5%% %#cad9c1% 　   ⠀ ׄ%%<-
 
-***
-->[%#cad9c1% mui imgs%%](https://rentry.co/romancia)
-[%#cad9c1% credits%%](https://rentry.co/memoire)
-[%#cad9c1%extended info%%](https://rentry.co/marionetto)<-
+-> ![](https://files.catbox.moe/owagam.png)%#cad9c1%̼͓̥  ˙%%　　[%#696969% 𝐸𝑥𝑡𝑒𝑛𝑑𝑒𝑑ㅤ%% %#cad9c1%  ݂    ㅤ  ݂ ㅤ %%](https://txto.eu.org/rococo)<-ㅤ

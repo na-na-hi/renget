@@ -2790,6 +2790,9 @@ https://files.catbox.moe/gbcrox.safetensors
 # Silver the Hedgehog (Sonic)
 https://www.mediafire.com/folder/cvm1f2c13mocj/Random+shit
 
+# Nessie (The Ballad of Nessie)
+https://files.catbox.moe/i06ccx.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

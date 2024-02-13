@@ -12,7 +12,7 @@ Some Pokemon might think he's an idiot due to his loud, reckless demeanour, but 
 
 Makuhita is also implied to have anger issues a couple of times, although he has so much control over them most of the time, it appears he has none at all. The only time he became truly irate was when he confronted the [Shah](https://rentry.org/GreatBulk6) – there is nothing Makky hates more than those who abuse their power, and that Pokemon was the personification of all he stood against.
 
-Makuhita is a slow, yet sturdy brawler whose style relies on a mixture of Arm Thrusts and wrestling moves, relying heavily on grappling. His body is highly resilient against blunt-force attacks such as punches and kicks. However, not only is his head less protected, but he can still be stabbed or cut open. He also struggles against speedier opponents, and his defenses are not as strong against those who utilize non-physical attacks. For example, if Asana hit him with a few bolts of Confusion, she could beat him very easily.
+Makuhita is a slow, yet sturdy brawler whose style relies on a mixture of Arm Thrusts and wrestling moves, relying heavily on grappling. His body is highly resilient against blunt-force attacks such as punches and kicks. However, not only is his head less protected, but he can still be stabbed or cut open. He also struggles against speedier opponents, and his defenses are not as strong against those who utilize non-physical attacks. Lombre would be the perfect example of a foe that is a hard counter to him, being a fast special attacker.
 
 Aura Abilities:
 Crude Sensing: Makuhita is technically able to sense Aura, although only at about an arm's length away from himself and at a very poor quality. This is due to his overly active mind and inability to focus. He used to be unable to use this consistently, but as of Part 8, he's managed it.
@@ -23,7 +23,7 @@ Asana (Meditite):
 Sex: Female
 Ability: Pure Power
 Held Item: Power Band (worn around the neck)
-A harsh and haughty, yet competitive and driven Meditite who is a gifted Aura Sensor. She had a desire to focus on her aura mastery and skill in fighting full-time, but due to needing to pay her bills, she was shackled with caravan guard duty, a job she hated. She only quit and moved to the bounty hunting business at Makuhita's urging, and is taking quickly to it.
+A harsh and haughty, yet competitive and driven Meditite who is a gifted Aura Sensor. She had a desire to focus on her aura mastery and skill in fighting full-time, but due to needing to pay her bills, she was shackled with caravan guard duty, a job she hated. She only quit and moved to the bounty hunting business at Makuhita's urging, and took quickly to it.
 
 Her relationship with Makuhita started as being tense, bordering on outright antagonistic, due to how their personalities conflicted. She saw him as a boorish, oafish dolt who almost ate her out of house and home and regarded his attempts at concealing his origin with suspicion, but she slowly warmed up to him. Nowadays, he's more like a brother in her eyes.
 
@@ -52,7 +52,7 @@ Cacturne is the most infamous caravan bandit known on the Sand Continent, and wa
 
 He ran away from home with Merry/Sonora due to their romance being considered unacceptable among the two tribes they came from. They quickly made a name for themselves as bandits, and were a stellar team. They even considered themselves married, in spite of being unable to do so “properly”. However, his wife left due to her guilt and dislike of murder, and thus he was left alone for years until he recruited Lombre.
 
-Cacturne also has two different sides to him, depending on who someone is. He couldn't care less about “outsiders” or his victims, owing to the mentality his tribe imparted onto him in his childhood – to him, it's only himself and his kin that matter. He's unfaultingly loyal to those he considers “kin”, and if any of them betray him, it cuts into his soul deeply. He's also known for lacking a filter in social situations, making jokes that more thin-skinned Pokemon might find offensive.
+Cacturne also has two different sides to him, depending on who someone is. He couldn't care less about “outsiders” or his victims, owing to the mentality his tribe imparted onto him in his childhood – to him, it's only himself and his kin that matter. He's unfaultingly loyal to those he considers “kin”, and if any of them betray him, it cuts into his soul deeply. He's also known for lacking a filter in social situations.
 
 Cacturne has no professional “education” in fighting, but he has over a decade and a half of experience, and he's known for using dirty tricks in his fights. The most notable of these is a Pin Missile to the eyes, although he also likes to shoot Bullet Seeds when his opponents least expect it.
 
@@ -66,7 +66,7 @@ Wanted for: Murder, Caravan Robbery, Assault, Fraud
 Sex: Male
 Ability: Swift Swim
 Distinctive Features: Wears a worn, brown poncho. Speaks in a slow, tired voice, and has a distinctive scar running down most of his left arm. He's also lankier and a bit taller than most of his species, giving him a distinct, reedy-looking appearance.
-Held Item: Depends on the situation. He wears a Mach Ribbon when he knows he has to fight out in the open, so that's what he's seen with most often.
+Held Item: Depends on the situation. He wears a Mach Ribbon when he knows he has to fight out in the open, wears a Sneak Scarf when he needs to be stealthy, and uses a Scope Lens whenever he needs to snipe from particularly long distances.
 Location: Sand Continent
 
 Lombre immigrated from the Mist Continent to the Sand Continent in his teenage years for as of yet unrevealed reasons, and quickly got a start as a conman. He'd sell all sorts of counterfeit goods, but the most notable were his fake evolutionary stones – he chiseled and painted each of them by hand. However, as time went on, word got around about his merchandise, and he had a harder and harder time selling it.
@@ -79,8 +79,11 @@ When Team Yin-Yang confronted Team Verdant, he fought Asana. The conflict shown 
 
 Cacturne didn't listen, and furthermore, he gave orders to Lombre not to shoot Sonora. He hesitantly complied, although he warned Makuhita and Asana that he wouldn't forget what they did – he stated he'd murder them both the next time they seen him, angered by what he saw as them psychologically manipulating someone that was so close to him, he saw them as a brother.
 
-In battle, Lombre is very dangerous if his opponents are unprepared. His aim with his Bubble Beams is top-notch, whether from a distance or up close. His Giga Drain roots can be used to keep opponents away from him, he can use Energy Ball on groups or stronger Pokemon, and his Ice Beam can shoot Flying-types right out of the sky. His Mach Ribbon and Swift Swim make him an extremely speedy opponent, and his ability to stay cool
- under pressure renders him dangerous no matter how badly hurt, angry, or demoralized he is.
+Lombre possesses two sides to his demeanour. Around most people, he's adverse to causing needless violent and at times is even apologetic if he's pushed into fighting. He had the opportunity to kill both members of Team Masquerade at different points, but he spared them both, even telling Empoleon that he'd die if he kept on fighting him, and that he'd be no use to his partner as a corpse.
+
+However, when it comes to Makuhita and Asana, he's very cold, merciless, and practical. He will use any means necessary to attempt to kill them, no matter how underhanded they may be. If innocents get wrapped up in it, he blames it on Team Yin-Yang for "forcing" him to do what he does, showing a hypocritical and very slightly delusional side to him – he has to constantly convince himself that these actions are necessary and that they're merely for the greater good in capturing what he sees as monsters. In time, he might become the very thing he thinks he's fighting.
+
+In battle, Lombre is very dangerous if his opponents are unprepared. His aim with his Bubble Beams is top-notch, whether from a distance or up close. His Giga Drain roots can be used to keep opponents away from him, he can use Energy Ball on groups or stronger Pokemon, and his Ice Beam can shoot Flying-types right out of the sky. His Mach Ribbon and Swift Swim make him an extremely speedy opponent, and his ability to stay cool under pressure renders him dangerous no matter how badly hurt, angry, or demoralized he is.
 
 However, he has quite a few distinct weaknesses. He doesn't have Rain Dance, as its activation time is too slow for his tastes, so he has to rely on Rainy Orbs to utilize his Ability. They're in limited supply, and as Asana demonstrated in her second battle against him, he can be disarmed of them or have them destroyed. Utilizing both Swift Swim and his Mach Ribbon *does* speed him up to absurd levels, but this tires him out much faster than normally.
 
@@ -93,7 +96,9 @@ In any case, he's pretty tough for a middle-aged salesman.
 Abilities:
 Enhanced Smell: Lombre has a sense of smell on par with canine Pokemon, gained from eating Gummis. This is based off the IQ Skill Acute Sniffer, which his evolutionary family can learn in Sky.
 
-“Intuition”: This is the other main skill Lombre picked up from Gummi consumption. He instinctively knows the layout of the land surrounding him, even if he's never been to an area before, and he can also sense when those with hostile intent towards him are close. He can't sense their strength or numbers, but it makes him hard to jump regardless.  This is pretty much the IQ Skills Map Surveyor, Stair Sensor, and Trap Seer bundled together, with some extra stuff thrown in. 
+“Intuition”: This is the other main skill Lombre picked up from Gummi consumption. He instinctively knows the layout of the land surrounding him, even if he's never been to an area before, and he can also sense when those with hostile intent towards him are close. He can't sense their strength or numbers, but it makes him hard to jump regardless.  This is pretty much the IQ Skills Map Surveyor, Stair Sensor, and Trap Seer bundled together, with some extra stuff thrown in.
+
+Master of Deception: Lombre is good at acting and lying, due to his many years swindling other Pokemon. He has practically no tells for when he's fibbing, and he can be very persuasive when he wants to be. 
 
 #####The Flock:
 ~~Foi (Galarian Farfetch'd)~~:
@@ -143,11 +148,30 @@ Ability: Flame Body
 Location: Sand Continent
 He's the younger brother of the Twins, known for his dimwittedness, poor aim, and tendency to start fires inside of buildings. He often makes statements that are easily misinterpreted by others.
 
-#####Nickel's Gang
+#####Heatran's Kitchen
+Gula (Alolan Raticate):
+Bounty: 700 Poke
+Rank: C
+Wanted For: Conspiracy to commit assault and robbery, Leading a criminal organization
+Sex: Male
+Ability: Hustle
+Location: Grass Continent
+He was the leader of Heatran's Kitchen, known for his gluttony and overworking those under him. After the Platinum Syndicate launched a raid in retaliation for their business partner being robbed, all of his gang members were siphoned away from him, leaving both him and Hilo powerless.
+
+Hilo (Morpeko):
+Bounty: 900 Poke
+Rank: C
+Wanted For: Assault, Robbery
+Sex: Male
+Ability: Hunger Switch
+Location: Grass Continent
+He was Gula's lieutenant, handling the day to day operations of Heatran's Kitchen and punishing those who slowed down in their work or went out of line. He is known for radical mood swings, being friendly one minute and hostile the next. However, he has the heart of a coward – when Shanks brutalized him, his first instinct was to plead for mercy.
+
+#####The Platinum Syndicate & Over the Moon Brewery
 Nickel (Roaming Gimmighoul):
 Bounty: 1,000 Poke
 Rank: ~~D~~ C
-Wanted For: Conspiracy to commit assault, theft, and robbery
+Wanted For: Conspiracy to commit assault, theft, and robbery, Leading a criminal organization
 Sex: N/A
 Ability: Run Away
 Location: ~~Sand Continent~~ Grass Continent
@@ -170,6 +194,8 @@ Ability: Limber
 Location: Grass Continent
 He's a common thug who was unexpectedly recruited into Nickel's burgeoning gang. He's gruff and aggressive but simultaneously cautious, being untrusting of his boss at first, alongside expressing concerns about the perceived sketchiness of a mission Thicket sent them on which wound up being a house bombing.
 
+His fighting style is simple, yet effective. He uses his thick tentacles to block incoming attacks, then counters them with everything he's got. 
+
 
 Thicket (Floette):
 Bounty: 100 Poke
@@ -178,11 +204,9 @@ Wanted For: Bootlegging, Selling Alcohol Without a License
 Sex: Female
 Ability: Flower Veil
 Location: Grass Continent
-Having been kicked out from a long family line of vintners, she had a home constructed and geared up to sell her goods in Capim, only to find out she needed a license to do so. Outraged by the price, perceiving the requirement as an insult to her craft, and her belief that brewing booze is an Arceus given right led her to become a bootlegger, instead. She brews both conventional alcohol alongside more "unique" items, the most notable of which being the Cheri Bomb - by fermenting Blast Seeds and Cheri Berries together, and filling a hollowed out apricorn with the juice, she created an explosive more powerful than the former. Just shake it, throw it, and watch a whole room of enemies fly away from the blast!
+Having been kicked out from a long family line of vintners, she had a home constructed and geared up to sell her goods in Capim, only to find out she needed a license to do so. Outrage over the price, perceiving the requirement as an insult to her craft, and her belief that brewing booze is an Arceus given right led her to become a bootlegger instead. She brews both conventional alcohol alongside more "unique" items, the most notable of which being the Cheri Bomb - by fermenting Blast Seeds and Cheri Berries together, and filling a hollowed out apricorn with the juice, she created an explosive more powerful than the former. Just shake it, throw it, and watch a whole room of enemies fly away from the blast!
 
-Thicket also has a deep love for flora, especially flowers, and any mistreatment of the latter makes her upset. She tends to trip up offenders with vines or spray them with hallucinogenic gas the first few times, but repeat offenders have been known to have their houses spontaneously explode or catch on fire while they're gone. She joined up with Nickel after he and Cobalt transported a barrel full of Cheri Bomb juice to the house of a Mudbray who had been grazing on Capim Town's flowers.
-
-Her business relations with Nickel can be best described as the two mutually using each other. Nickel gets a home base and a share of Thicket's income, while she gets some muscle that can help around her home and do the things she's too small and weak to do herself.
+Thicket also has a deep love for flora, especially flowers, and any mistreatment of the latter makes her upset. She tends to trip up offenders with vines or spray them with hallucinogenic gas the first few times, but those who repeatedly attract her ire have been known to have their houses spontaneously explode or catch on fire while they're gone. She joined up with Nickel after he and Cobalt transported a barrel full of Cheri Bomb juice to the house of a Mudbray who had been grazing on Capim Town's flowers.
 
 Dewalt (Drilbur):
 Bounty: 500 Poke
@@ -191,7 +215,9 @@ Wanted For: Theft, Breaking and Entering
 Sex: Male
 Ability: Sand Rush
 Location: Grass Continent
-He started out as a customer of Thicket's, but when Team Corvidae crashed her business in an attempt to arrest Cobalt and Nickel, he stepped into action. He joined their gang after the fact, pledging to use his strength to act as a bodyguard. He's oddly polite for an outlaw and thief, having scolded Team Corvidae for "causing a fuss" with their antics.
+He started out as a customer of Thicket's, but when Team Corvidae crashed her business in an attempt to arrest Cobalt and Nickel he stepped into action. He joined their gang after the fact, pledging to use his strength to act as a bodyguard. He's oddly polite for an outlaw and thief, having scolded Team Corvidae for "causing a fuss" with their antics.
+
+He hits harder than Cobalt, but is more frail in return.
 
 Ampere (Wattrel):
 Bounty: 300 Poke
@@ -199,23 +225,41 @@ Rank: D
 Wanted For: Theft, Breaking and Entering, Assault
 Sex: Female
 Ability: Wind Power
-Location:
- Grass Continent
-Ampere is an easily excitable daredevil who joined Nickel's gang in order to go on high-stake robberies. She's rather fragile, but she can rain down electricity from the sky and can be rather creative when the mood strikes her.
+Location: Grass Continent
+Ampere is an easily excitable daredevil who joined Nickel's gang in order to go on high-stake robberies. She's rather fragile, but she can rain down electricity from the sky and can be rather creative when the mood strikes her. She can't fight very well in closed spaces.
 
-Shanks (Galar Slowbro):
+Shanks (Galarian Slowbro):
 Bounty: 5,000 Poke
 Rank: S
 Wanted For: Theft, Assault, Breaking and Entering, Property Destruction, Murder, Littering
 Sex: Male
 Ability: Quick Draw
 Location: Grass Continent
-Distinctive Features: Has a purple marking on his head, and a Shellder on his arm.
-Shanks is an enigma. No one knows where he came from, but he's left behind a trail of crimes in his wake. He forced himself into Nickel's gang after admiring how violent they were. He's a highly eccentric individual, known for falling asleep and snacking at the most inopportune times. However, this and his goofy looks conceal a far more fierce, ruthless fighter.
+Distinctive Features: Has a purple marking on his head, and a Shellder on his arm. He also has a broader frame than the average Slowbro, and is a bit pudgy.
+Shanks is an enigma. No one knows where he came from, but he's left behind a trail of crimes in his wake. He forced himself into Nickel's gang after admiring how violent they were. He looks goofy and innocuous to many first-time observers, but behind that lies a very violent, unpredictable individual. He tends to go off and do his own thing when there's nothing of interest for him to do, usually snacking or napping, but if one interrupts him while he's doing such activities, he'll assault them until they're barely hanging on. He's an unreliable ally and nearly uncontrollable, only sticking around in the Platinum Syndicate due to wanting something from them, and them fearing him.
 
 In combat, he's a juggernaut that can take and dish out extreme amounts of damage, but in return, he's very slow on his feet. However, this doesn't mean he's helpless – his Ability, Quick Draw, allows him to move and fire his Shellder arm extremely quickly, far outpacing the rest of his body.
 
 The effect of this is most easily demonstrated in his debut in Interlude 5. He blocked a kick Tsareena made towards his front nearly instantly with his shell, but when she started side-stepping him in order to strike out of his guard, he had trouble with her and was forced to wait until she slipped up.
+
+Shanks is easily the strongest out of the current members of the Platinum Syndicate, and could beat the entire group with ease. Only experienced or especially skilled Pokemon can take him down, and even then, it's near suicide to overpower him with raw force. He can be easily outwitted or outmaneuvered, however, due to being slow on his feet and his reliance on overwhelming brute force over skill.
+
+He's also a very old Pokemon, having been referred to as an "old man" and a "geezer" on a couple of occasions. However, his true age is not currently known.
+
+Makau (Alolan Rattata)
+Bounty: 300 Poke
+Rank: E
+Wanted For: Theft, Assault
+Sex: Male
+Ability: Gluttony
+Location: Grass Continent
+Distinctive Features: He's a few inches smaller than a normal Rattata. He's very much a runt.
+Makau was a largely unremarkable thief that was part of a gang that focused their operations on food theft. Almost all of the stolen goods would be cooked and fed to their leader, Gula, and their lieutenant, Hilo, and they were largely overworked. He was caught by Thicket after she was a victim of one such robbery, and through her cleverness, recruited him.
+
+He's one of the main chefs for the group, and has taken quickly to the usage of Cheri Bombs, proving to be adept with them. He's nervous and has a bit of a cowardly streak to him, and when Nickel tries to push him to help with an operation he perceives as too dangerous, he tends to remind him that he is technically Thicket's employee, and not his.
+
+Misc Pokemon:
+Thicket has a couple dozen Alolan Rattata working for her, helping her produce her goods. They were recruited from Heatran's Kitchen like Makau was, and he played an instrumental goal in swaying them to her side.
 
 #####Independent Outlaws:
 “Ash-Dancer” (Alolan Marowak):
@@ -267,8 +311,7 @@ Ability: Run Away
 Distinctive Features: None
 Held Item: ~~Sneak Scarf~~ Ripped off by Asana.
 Location: Sand Continent
-Thievul may not be a rough fighter who can survive anything like Cacturne, but his stealth and ability to make clean getaways have resulted in a career even longer than his. For 23 years, Thievul has been stealing from rich and affluent Pokemon. He takes great care to remain hidden,
- even concealing his scent, and only leaves one article of evidence behind to show his mark - a card with his pawprint on it. Due to the sheer length of his career, his bounty is much higher than others around his Rank.
+Thievul may not be a rough fighter who can survive anything like Cacturne, but his stealth and ability to make clean getaways have resulted in a career even longer than his. For 23 years, Thievul has been stealing from rich and affluent Pokemon. He takes great care to remain hidden, even concealing his scent, and only leaves one article of evidence behind to show his mark - a card with his pawprint on it. Due to the sheer length of his career, his bounty is much higher than others around his Rank.
 
 He was only captured through the efforts of Asana and her skill at sensing Aura - what she saw was a slightly timid thief who, in spite of his poor battling skills, was unpredictable in a fight, owing to a bag of items and tricks. 
 
@@ -297,7 +340,7 @@ He was able to keep “his” land through the power of his army and the absurd 
 
 Ultimately, it was one of his own sons, Shamshir, who led to his downfall. With him being taught compassion by Bismuth and emboldened by Makuhita, he led Team Yin-Yang, Bismuth, and his troops into the capital to dethrone his father. Due to their greater unity, they performed far better than they had any right to. Seeing the disarray, the civilians of the capital realized that the Shah and his army weren't invulnerable and worked with Shamshir's men, storming the palace and defeating the Shah after Asana had faltered.
 
-The Shah, in spite of his strength, was an extremely unskilled battler. To Asana, reading his movements was like looking into an open book, and due to her agility, she was the greatest obstacle out between her team, Shamshir, and Bismuth, only being defeated due to her fatigue and a Quick Seed wearing off at an inopportune time. If he didn't think of himself as infallible and actually took time to refine his fighting style, the Shah could've wiped the floor with everyone effortlessly.
+The Shah, in spite of his strength, was an extremely unskilled battler. To Asana, reading his movements was like looking into an open book, and due to her agility, she was the greatest obstacle between her team, Shamshir, and Bismuth, only being defeated due to her fatigue and a Quick Seed wearing off at an inopportune time. If he didn't think of himself as infallible and actually took time to refine his fighting style, the Shah could've wiped the floor with everyone effortlessly.
 
 ##The Others:
 
@@ -334,10 +377,14 @@ Sex: Male
 Ability: Poison Point
 He's the leader of Team Masquerade, alongside their eyes and ears. He and his partner have worked as bounty hunters for over seven years, yet he lacks any sort of arrogance, remaining cordial and friendly with Team Yin-Yang in spite of their lesser experience, although he was a bit skeptical of Makuhita taking down Foi at first. His fighting style revolves around heavy use of footwork and evasion, alongside pumping opponents full of toxins and Venoshocking them.
 
+Roserade possesses some cleverness to him. When he was abducted by Lombre, he waited for Team Yin-Yang to show up and for Lombre to be absorbed in his interactions with them before setting himself free and attacking. He was also able to discern that Lombre only possessed killing intent towards the two of them. As Roserade predicted, Lombre let him live after he ensured Team Yin-Yang could run away.
+
 Empoleon:
 Sex: Male
 Ability: Torrent
 He's the muscle of Team Masquerade and was immensely prideful, to the point of blinding him to the good traits in those "lesser" than him. It was only after seeing the sheer amount of punishment Makuhita could take that these tendencies began to wane, with Empoleon admitting that he and Asana can "punch above their weight", and that brute strength doesn't solve everything - his utter lack of agility made him a sitting duck for the Twins.
+
+In Part 8.5, it's shown that he picked up Aqua Jet in order to help address his agility issues. It's also revealed that he takes his duties and bond with Roserade very seriously, willing to risk his life in order to protect him. If Lombre didn't talk him out of making a suicidal last charge, he would've gotten himself killed in the line of duty.
 
 
 #####Team Stakeout:
@@ -478,3 +525,6 @@ Sneak Scarves can muffle a Pokemon's Aura signature, although it doesn't complet
 Thirsty Desert Tribes:
 
 There are multiple tribes living in the Thirsty Desert, the two of them being the Saguaro and the Cholla. The former is made up of entirely Cacturne, and they are foreign to the Sand Continent, only having arrived a couple hundred years ago. The Cholla, on the other hand, are a mixed population of Maractus and Cacturne, although the latter have shorter brims on their hats than those of the Saguaro.
+
+The Platinum Syndicate and Over the Moon Brewery:
+These are two criminal organizations ran by Nickel and Thicket respectively. They work closely together, although they are technically separate entities. Thicket's organization supplies Nickel's with a portion of their sales and wares alongside a place to live in, and in return, Nickel's group supplies Thicket's with manpower.

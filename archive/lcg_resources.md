@@ -56,7 +56,7 @@
 * [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 * [Anon's Sub-100 RR3 Guide](https://docs.google.com/document/d/1FFl_kMPkZhfnnEJ7vOTsMDJsIQtXUZTdHP17WxxCitY)
-* [A Better Tutorial for Limbus Company (this is 20 minutes long and made by a faggot but it is the best combat video guide i know of)](https://www.youtube.com/watch?v=ujQgRJo9vHA)
+* [A Better Tutorial for Limbus Company (this is 20 minutes long and made by a faggot but it is the best video guide i know of)](https://www.youtube.com/watch?v=ujQgRJo9vHA)
 * [Guide for the entirety of LoR if you're a gay retard](https://steamcommunity.com/id/dice_24k/myworkshopfiles/?section=guides&appid=1256670)
 * [So you want to play Lobotomy Corporation?](https://files.catbox.moe/veh68o.jpg)
 
@@ -89,19 +89,20 @@
 * [Korean Sinner Speech Patterns](https://files.catbox.moe/z5cekt.png)
 
 ## Interviews and Q&A
-* [Project Moon Q&A](https://mega.nz/file/5Q0GQabJ#F0uus__yO-MeJ3fA7w1yBy_8MYrkq8B2WSm4R0jE-84)
-* [2021 New Year Q&A](https://files.catbox.moe/5ya3c4.txt)
-* [2022 New Year Q&A](https://www.youtube.com/watch?v=XKijpGJCxB0)
-* [Project Moon D\*scord Q&A](https://docs.google.com/document/d/1B8dIbq9iUOO1Djfe8dQIIRSlbndeKL9V99LsnYIRWHo)
-* [KJH Korean Interview (2 below links are from this)](https://www.youtube.com/watch?v=yT7ONnrXF1g)
-* [Gameca Interview](https://m.gamemeca.com/view.php?gid=1661712)
-* [R\*ddit Interview Review](https://www.reddit.com/r/libraryofruina/comments/nzp20z/director_interview_review/)
 * [Lobotomy Corporation  Q&A](https://docs.google.com/document/d/1-ROhilNEVrJ_Ko2RnFp4jtqjV3AHu5xvfm3Cdmsc-ro)
 * [Lobotomy Corporation Q&A 2](https://docs.google.com/document/d/1rABGZKphj0Aq_UfTYTRR6g2CdgYhTlt-Ax9CMy8_4u8)
-* [Mimi's Wonderlab Q&A](https://docs.google.com/document/d/1tLqsYkV30UQQiKM42bpYTtmS0eiJPwnhBDHzelSjSvE)
-* [Library of Ruina Q&A](https://docs.google.com/document/d/17GIK_IZRSVM1GEWicbgAEyzi_1DocaxQ7RsMRas2DGU)
+* [Project Moon Q&A](https://mega.nz/file/5Q0GQabJ#F0uus__yO-MeJ3fA7w1yBy_8MYrkq8B2WSm4R0jE-84)
+* [Mimi's Wonderlab Q&A](https://files.catbox.moe/lioozq.odt)
+* [2019 Library of Ruina Q&A](https://docs.google.com/document/d/17GIK_IZRSVM1GEWicbgAEyzi_1DocaxQ7RsMRas2DGU)
+* ["You don’t need to play LC to immerse yourself” in Library Of Ruina Interview](https://files.catbox.moe/wf6ncv.odt)
+* [2020 Project Moon D\*scord Q&A](https://files.catbox.moe/0o16r0.odt)
+* [2021 New Year Q&A](https://files.catbox.moe/5ya3c4.txt)
+* [KJH Korean Interview (2 below links are for this)](https://www.youtube.com/watch?v=yT7ONnrXF1g)
+* [Gameca Interview](https://m.gamemeca.com/view.php?gid=1661712)
+* [R\*ddit Interview Review](https://www.reddit.com/r/libraryofruina/comments/nzp20z/director_interview_review/)
 * [Library of Ruina Ending Damage Control](https://files.catbox.moe/r2ivm3.txt)
 * [Cassie & Kihow Q&A](https://www.youtube.com/watch?v=7B7zmQ6MUas)
+* [2022 New Year Q&A](https://www.youtube.com/watch?v=XKijpGJCxB0)
 
 ## Music and OST
 * [Full Limbus OST](https://www.youtube.com/watch?v=5Jtysd16c-g&list=PL8S6_RCVQ5uj_924DogHp2SmAMJ3goKL3)
@@ -140,7 +141,7 @@
 **Mods**
 * [Library of Ruina Mod Archive](https://docs.google.com/spreadsheets/d/1PlC1_2nZ_hBRZx8zXyEC61Y5izaUIjnWg2DQDLPPX6s/)
 * [Library of Ruina Dialogue Bug Fixes Mod (use this)](https://steamcommunity.com/sharedfiles/filedetails/?id=2993072469)
-* [Lobotomy Corporation Mod Manager (Basemod replacement)](https://www.nexusmods.com/site/mods/765)
+* [Lobotomy Corporation Mod Manager (Basemod replacement, use this)](https://www.nexusmods.com/site/mods/765)
 * [Lobotomy Corporation Optimization Mod (use this)](https://www.nexusmods.com/lobotomycorporation/mods/57)
 
 **Art Archives**
@@ -211,4 +212,5 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/31/24: Moved RR3 guides to outdated section. Did some editing for readability and added some new links. 
 2/4/24: Added optimal grinding guide link.
 2/6/24: Added sub-100 RR3 guide link.
-2/9/24: Moved some things to, added checklist & EXP calculator and edited assets link. ![lol&](https://files.catbox.moe/7dmu76.png)
+2/9/24: Moved some things to, added checklist & EXP calculator and edited assets link.
+2/12/24: Three of the links in the Interview & Q&A section have been deleted from Google Docs. Luckily I archived them so I just swapped out the links with Catbox reuploads. ![lol&](https://files.catbox.moe/7dmu76.png)

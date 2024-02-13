@@ -52,6 +52,56 @@ Catbox: https://files.catbox.moe/7wvg4f.safetensors
 0.9-1.1
 ####Notes
 A bit scuffed with her hair ornaments.
+##->Erina Makina<-
+####Prompt
+1girl, erina makina, solo, very long hair, smile, bangs, large breasts, white dress, animal ears, bare shoulders, tiger tail, multicolored hair, choker, hair over one eye, white thighhighs, see-through, thigh strap, pelvic curtain
+####Weight
+0.8-1.0
+####Optional
+doll joint, android, short hair, halo, garter straps, cleavage
+####Notes
+Hands pretty bad with default outfit. Getting her mechanical arm to appear is pretty difficult without getting joints in every limb.
+##->Jelly Hoshiumi<-
+####Prompt
+1girl, jelly hoshiumi, solo, blush, antennae, smile, bare shoulders, very long hair, dress, small breasts, blunt bangs, detached sleeves, star \(symbol\), thighhighs, garter straps, star hair ornament, yellow hairband, hair ornament
+####Weight
+0.9-1.0
+####Optional
+shoes, white gloves
+####Notes
+Antennae with stars complete gacha. Try more detailed prompt.
+##->Ayase Yuu<-
+####Prompt
+1girl, ayase yuu, solo, medium hair, bangs, black shirt, jewelry,  midriff, black pants, multicolored hair, cross earrings, hair over one eye, tattoo on stomach, breast pocket, belt
+####Weight
+0.7-0.9
+####Optional
+thighhighs, gloves, black coat, black footwear, uneven legwear, ear piercing
+####Notes
+At higher weight, tattoos start appearing all over her body. Use negatives or more detailed prompt ("single black and white rose tattoo on side of stomach" etc.)
+##->Airi Virdis<-
+####Prompt
+airi virdis, 1girl, solo, smile, bangs, shirt, pointy ears, bare shoulders, twintails, hair clip, hair ribbon, jewelry, medium breasts, multicolored hair, detached sleeves, plaid skirt, midriff, necklace, hair bun, hair over one eye, double bun
+####Weight
+0.8-0.9
+####Optional
+fishnets, demon tail, asymmetrical legwear, demon wings, demon tail, fishnet pantyhose, platform footwear
+##->Elia Stellaria<-
+####Prompt
+1girl, elia stellaria, solo, long hair, blush, bangs, purple skirt, shirt, thighhighs, long sleeves, bowtie, hair between eyes, bare shoulders, ribbon, hair bow, hairband, twin braids, white thighhighs, double bun 
+####Weight
+0.8-1.0
+####Optional
+garter straps, shoulder bag, wings, grey jacket, shoes, off shoulder
+####Notes
+Stars on her skirt sometimes hard to generate. Try more detailed prompt.
+##->Yurikago Kokone<-
+####Prompt
+1girl, kokone yurikago, solo, long hair, bangs, large breasts, cleavage, jewelry, hair over one eye, dress, crescent, side slit, pelvic curtain
+####Weight
+0.9-1.0
+####Optional
+black footwear, halo, ponytail, detached sleeves
 
 ##->Style<-
 ##Waterring

@@ -2037,3 +2037,252 @@
 >the glistening precum coming out of your cock caught his attention
 >he needed to ride it
 >it was like he was built for this
+
+>something felt like it really clicked in Roxanne
+>sex felt right
+>he ground his hips down on your face and growled in satisfaction 
+>this was the kind of preforming he was really made for
+>and you liked it
+>your dick was hard because of him
+>that urge to kidnap you was strong
+>but he focused on the matter at hand first
+>his body needed the prize glistening in front of him
+>he didn't warn you when he got up off your face
+>you appreciated the fresh air
+>there was no rest though
+>as soon as your face was free he had moved around and had his ass over your dick
+>he planted his right foot next to your hip, his other leg straddling yours 
+>you didn't expect the giant robot to be passive but that move meant he'd really be controlling the action for now
+>who were you to complain
+>he impaled himself on your cock slowly
+>he took it slow
+>mostly out of concern for you
+>if he went wild he could have hurt you and that wouldn't do
+>he rested one hand on his hip and the other on his knee and steadied himself 
+>the first thing that struck you was the warmth
+>he was amazingly warm inside
+>snug too
+>you probably couldn't pull out if he didn't want you to
+>Roxanne looked proud as he finally sunk down to the base of your cock
+>his muscles clamped tightly around your manhood
+>his own cock throbbing and leaking as he just looked down on you
+>Roxanne grinned
+>he had this 
+>he was performing just for you and he knew he couldn't disappoint his audience 
+>when you were nicely “locked in” he decided to surprise you
+>feeling your dick in him made him aware of some strange functions
+>so jolted when you felt vibration around your dick
+>the smile on the robot wolf's face grew
+>he didn't say anything
+>didn't have to 
+>Roxy knew he was your favorite now
+>confidence surged through him
+>he'd finally officially got you as a boyfriend 
+>this had to be it
+>between that date and sex
+>as good as this felt, Roxanne was sure there wouldn't be any doubt any more
+>that pretzel lady might feed you but she sure couldn't do this
+>he pulled up and smashed down to emphasize his internal pep talk 
+>you bucked and instinctively your hands went to his hips
+>that was it
+>he'd beaten the pretzel lady 
+>his chances with you were as secure as your hands on his hips
+>the pistons in his leg planted on stage started working his ass up and down
+>how many shows had he done on this stage?
+>he'd lost count
+>this one was the important one
+>he was dead set on making this the best show ever 
+>every thrust down was controlled
+>he looked triumphant 
+>you didn't know if encouraging him like this was a good idea but his ass felt amazing
+>the way his ring gripped around you and the low vibration was making it hard to focus
+>Roxanne was sucking you in 
+>the hole was so wet and warm
+>all you could do was hold on while he looked down at you
+>Roxanne was the happiest he could ever feel
+>every time your cock rubbed against that new button inside him he felt a rush
+>there was an urge to just pin you and claim that dick of yours but he didn't want to hurt you
+>he knew you were squishy compared to him
+>so that curbed the desire to go all out
+>but he made a note to ask about that in the future
+>you two would be doing this more in the future
+>the promise of more was making him greedy
+>so you were squishy
+>fuck it
+>he would just be careful 
+>you were shocked when he shifted his weight down over you
+>his hands pinned against your chest
+>fuck it 
+>he needed more
+>his eyes focused on yours and he started jackhammering down on your dick
+>the mall played host to your grunting and his moans
+>his hips rolled and slammed with the determination to milk your cock
+>he threw his head back as he shot a load across your chest
+>that didn't stop him from riding you
+>he didn't stop his pace
+>slamming and rolling down on your manhood in a steady rhythm 
+>he leaned down and started kissing you 
+>in between kisses he'd whisper to you
+>begging you to cum
+>how much he needed it
+>”you going to cum for me?”
+>that was asked repeatedly in a low pleading tone
+>a soft whine would leave him as he kept impaling himself on you
+>there was a good chance you'd have bruises after this
+>his intensity was like nothing you'd seen before
+>it felt like he had something to prove 
+>Roxanne had basically said fuck caution
+>he could have gone gentler
+>he probably should have
+>but the urge to make sure he was the best you'd ever have pushed him further 
+>Roxy was hungry for you
+>your attention
+>he wanted your eyes on him
+>his pounding got faster
+>he leaned back, showing off once more
+>he could feel you throb inside him
+>he knew he had you close
+>that had him flash a toothy grin
+>this was it
+>all he'd have to do is squeeze you dry and you wouldn't ever want to leave
+>the vibration in his body intensified and that was the last straw
+>he smiled confidently down at you
+>he won
+>some sort of switch had gone off in his mind
+>this instinct awakened in him made him more eager, more possessive 
+>when you grunted and shot your load it was the absolute best feeling
+>the warmth and the fullness 
+>all his
+>you were all his
+>he wasn't stopping now
+>his other foot was planted onto the stage, he was crouched over your cock
+>some urge took over Roxanne 
+>his ass clenched tighter around the base on your cock
+>so tight that no lube or your seed could leak out
+>he rolled his hips and whined, his cock throbbing back to life
+>he fondled his chest, showing off for you
+>there was no suppressing the joy he felt over tonight
+>his body focused on getting you ready again
+>”you're my favorite,” he groaned
+>his ass clamped down on you, you really had no escape
+>you groaned as his hole worked you back to hardness
+>your hands were still clasped tightly to his hips as he started riding you again
+>how he knew when the time was right, you didn't know
+>but he was doing squats on your cock now
+>his tail wagged wildly 
+>all the mechanical muscles in his legs working in a flawless pace
+>constant 
+>without tiring
+>you'd figured he'd be different than a biological person but had underestimated his stamina 
+>his hands went down to his cock and he started jerking off as he impaled himself
+>he threw his head back, moaning out your name
+>really showing off
+>you'd never seen him gyrate his hips this much 
+>all the while your dick was along for the ride
+>Fazbear was getting their goddamn money's worth if they made Roxanne like this
+>or was it a reaction to you?
+>he'd never been this intense before
+>he was too heavy to just throw off
+>just frantically riding you 
+>perhaps you bit off more than you could chew
+>he wasn't giving you much time to ponder that though
+>he refused to let your cock be completely out of him
+>it was just wedged back in
+>you were unfamiliar with him being this dominant 
+>usually he controlled himself
+>it wasn't like he was hurting you but he was going to leave bruises
+>his cock pulsed before it shot ropes onto your chest
+>he shocked you by grabbing your shirt collar and pulling you into his chest
+>”come on, I know you want to”
+>his voice was soft and teasing
+>he knew you were close
+>his hands ventured down and he grabbed your ass and rode you harder than ever
+>the soft pistons in his body worked faster and faster
+>you could hear all of him while pressed to his chest
+>he was right
+>you were close
+>very close 
+>”give it to me”
+>that was a demand
+>one that worked
+>you flooded him with another load as he smothered your groan with his chest
+>his hand ran through your hair and he gently whispered to you
+>”you're so warm inside me”
+>his insides hadn't stopped pulsing around your manhood
+>the vibration had reduced in intensity but he was still trying to milk you
+>he'd put his weight down on your lap, just enough to keep you there
+>”pretty good, right?”
+>to emphasize his ass massaged you from base to tip in one smooth motion
+>he could control that that easily
+>Roxanne enjoyed learning all this fun stuff tonight
+>he didn't know any of this about himself
+>but why shouldn't he be able to do this?
+>he was the best boyfriend and he just assumed this was a responsibility that came with the job 
+>you groaned at the demonstration 
+>you'd have to explain rest to him eventually but for now you let him have his fun
+>his snout nuzzled at your neck
+>dating
+>Roxanne liked dating
+>you regained your energy and asked to get some air
+>all you could breath in was Roxy for a while
+>he complied and slowly pulled away
+>your cock was allowed to finally go flaccid
+>using his ass like a cockring was impressive
+>but you also needed some feeling back in your legs
+>he quickly grabbed you from behind like a stuffed animal
+>good lord you'd created a monster
+>you'd have to figure out how to clean Roxanne up
+>when you brought that up he didn't respond at first
+>you repeated yourself and he huffed
+>”but I like feeling you in there”
+>it was a nice thought but you didn't want to cause any damage to his internals
+>now, how you'd actually clean him was a mystery
+>perhaps there was some sort of way to unmount all his unmentionables 
+>you had studied his body enough
+>you'd think it would be easy
+>for all you knew he was a prototype and they never got that far with the design
+>but they had to 
+>you'd eventually need to clean out the guy after use
+>to say nothing of reloading his various fluids
+>you'd gotten the idea to take off his lower abdominal shell
+>it would let you peer inside better
+>you'd been delicate about this stuff before, worried about all the strange new stuff you'd never seen before
+>normally you were just doing check ups on his hydraulics and stuff like that, not check his sex lube levels
+>now Roxy was just watching you poke around inside him like it was a day at the office
+>you trusted him not to move while you reached around
+>it impressed you just how complex he was
+>you ended up finding were the lube was poured in pretty quickly 
+>you had initially written that off as machine lubrication before
+>well, it was but not for what you'd originally thought
+>you poked around the front and couldn't find where his cum was made until you realized how dumb you were
+>his nuts 
+>another liquid tank connected to where they hung outside his body
+>they weren't as soft as a humans but they apparently fulfilled the same function
+>and good thing you found it then too because he was damn near dry
+>made sense for how often you two would go at it
+>he might have actually used up the last of it for tonight
+>dry orgasms were probably in the future until you could fix that
+>you could not find a way to dismount his delicate parts but you found an access point that let you flush him out
+>all you'd need is a bottle or two of hot soapy water
+>so that was simple
+>you guided him over to the bathroom, eager to get him cleaned up
+>he at least let you clean him with no fuss after that
+>the rest of the night was fairly calm 
+>after the sex he was content in his victory
+>he'd gotten you
+>so he enjoyed himself
+>you enjoyed yourself 
+>everything was relaxed
+>it had been a weight off your shoulders
+>a boyfriend
+>though an unconventional one
+>things had worked out
+>after that night you'd look more into Fazbear's work
+>refills for Roxanne
+>any sort of information 
+>Roxy couldn't bother to trouble himself with such thoughts
+>he'd had sex with you
+>it was the culmination of everything he'd dreamed of
+>that's why one evening it all was ripped away from you two
+>someone had eventually noticed the mistake 
+>paperwork came over for a recall
