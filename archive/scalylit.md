@@ -177,7 +177,7 @@ Yes, this is the same author who was part of the Erin Hunter team who wrote *War
 ‎
 **The Deadlands** (2023-) by Skye Melki-Wegner
 Action-Adventure (xenofiction)
-Advertised as "Wings of Fire meets Jurassic Park", this 3 book series (as of writing this) follows an alternate timeline where dinosaurs evolved intelligence, forming their own kingdoms and waging wars. The series follows Eleri, the disgraced son of a prince, along with herbivorous exiles from both kingdoms uncovering a sinister plot.
+Advertised as "Wings of Fire meets Jurassic Park", this 3 book series (as of writing this) follows an alternate timeline where dinosaurs evolved intelligence, forming their own kingdoms and waging wars. At the center of this is Eleri, the disgraced son of a prince, exiled along with several herbivores from the last two kingdoms to the eponymous deadlands, where they uncover a sinister plot.
 **Hunted**
 **ISBN-10** 1250827698
 **ISBN-13** 978-1250827692

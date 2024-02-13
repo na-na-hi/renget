@@ -1,5 +1,5 @@
 #/AICG/ SECRET VALENTINES 2024
-!!! info Entry has closed and all requests have been sent out!
+!!! info Happy Valentine's Day, Kiribati! [Click here to see when it ends.](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive)
 ->![](https://files.catbox.moe/rmhzlu.gif)<-
 [TOC]
 
@@ -10,7 +10,7 @@
 2. ~~**Robo-Saint V figures out who gets who as their valentine.**~~
 3. ~~**The botmakers who submitted get a return email from the robo-saint.**~~
 Don't be afraid to send a mail to [robosaintv@proton.me](mailto:robosaintv@proton.me) and ask for help if you get stuck!
-4. **Botmakers make bots according to the specifications.**
+4. ~~**Botmakers make bots according to the specifications.**~~
 You've got a bit more than a week to do this, so don't get too extravagant in your plans.
 5. **On Valentine's Day, February 14, the botmakers post their gifts in the threads!**
 Write who the gift is for so that they know. To try to avoid drama and gossip shitting up the threads, the robo-saint would prefer if you posted anonymously and *didn't* say who you were.
@@ -25,14 +25,14 @@ V-00 "VALENTINE"|Robo-Saint V|**[CLASSIFIED]**|![](https://files.catbox.moe/p2cq
 V-01 "WOLF"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-02 "PILOT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-03 "UMAMI"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-04 "PRINCE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-04 "PRINCE"|Lisette|Lunare|![](https://files.catbox.moe/ix4bjs.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/lisette-ba5fe39d) [[CATBOX LINK]](https://files.catbox.moe/osycw5.png)**%%
 V-05 "FATHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-06 "BRAVE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-07 "SEER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-08 "MANIFOLD"|**RETIRED**|**RETIRED**|![](https://files.catbox.moe/msljbn.gif)|**RETIRED**
 V-09 "BLADE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-10 "GULLIVER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-11 "WORLD"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-11 "WORLD"|Mikan|Clara-chan|![](https://files.catbox.moe/kxeohm.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/mikan-3638c868/main) [[CATBOX LINK]](https://files.catbox.moe/zpn33c.png)** %%
 V-12 "AMOEBA"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-13 "ROBOT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-14 "OTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
@@ -47,13 +47,13 @@ V-22 "PARADOX"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED
 V-23 "CRIMSON"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-24 "INK"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-25 "VITA"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-26 "BUN"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-26 "BUN"|Narcisa|Scrimb|![](https://files.catbox.moe/f5ir8n.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/narcisa-ab5b8eba/main)** %%
 V-27 "ROGUE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-28 "BUILDER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-29 "SPRING"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-30 "FAIRY"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-31 "MOTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-32 "UNREAL"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-32 "UNREAL"|**[REDACTED]**|**[CLASSIFIED]**|Connection error|**DELAYED**
 V-33 "CUMIN"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-34 "CHEAT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-35 "NEPTUNE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%

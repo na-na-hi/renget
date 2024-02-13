@@ -59,6 +59,8 @@
 
 - **prompt is too long：**提示词超过长度限制（免费cookie 25k、pro 190k tokens），请设置tokens上限不超过指定范围
 
+- **endpoint disabled：**版本过低，请更新
+
 #####Hint
 - 当要转折或代替角色行动时，建议你的角色输出后换行（shift+enter）两次后再描述。
 - 某些XML tags可以截断claude的输出，例如<META>和<EOT>等，claude在输出这些tags时输出会被立即截断。

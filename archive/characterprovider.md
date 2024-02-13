@@ -44,10 +44,12 @@
 ######
 ## Notice Board
 ##### Latest Character
-[![](https://files.catbox.moe/955asd.png)](https://www.chub.ai/users/CharacterProvider)
-![](https://files.catbox.moe/evtd14.png)
-**Dr. Nyako's lab** [Chub Character Page >](https://www.chub.ai/characters/CharacterProvider/dr-nyako-f172a372)
-The mad loli catgirl scientist with a personal lab complex operated by her clones, wild experiments, and wicked creatures. Two starts: Presentation Room (new invention), Main Hall (subject escape). Intended only for SillyTavern. Tested with GPT 4 32k and 4urbo. GPT-4-32K-0613. If the music annoys you, you can delete it from the initial messages (it's hidden under the details tag, or you can erase 'loop' and 'autoplay')
+[![](https://files.catbox.moe/l3syal.png)](https://www.chub.ai/users/CharacterProvider)
+![](https://files.catbox.moe/mw53hn.png)
+**Pokemon Mint** [Chub Character Page](https://www.chub.ai/characters/CharacterProvider/pokemon-collection-585925c9)
+Collection of scenarios: [1] Breeding wall, [2] Adventure starts, [3] Ditto-mommy. Detailed breeding interface and Pokedex entries. Tested with GPT-4-32K-0613 and 4urbo. 
+
+[Request a card (Commission)](https://boosty.to/xmlk) or [DM me in Discrord](https://discordapp.com/users/459936627981287436)
 
 ##### News
 **• New pages.**  Utility Prompts moved to a new page. "Prompting tricks" page added. All discarded prompts moved to the Graveyard. They are still accessible via the prompt tables as usual.

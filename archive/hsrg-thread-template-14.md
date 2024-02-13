@@ -23,9 +23,9 @@ https://www.youtube.com/watch?v=8qk2IOjmrsY
 https://www.youtube.com/watch?v=rPAw4l2rUr8
 https://www.youtube.com/watch?v=rV-EzvxqSFw
 
-\>Animated Short: Harmony Greets the New Year 
-https://www.youtube.com/watch?v=QjztVv7B0N8
-https://www.youtube.com/watch?v=WFXxf6xneZg
+\>Clockie Cartoon Series: "Welcome to Dreamville!"
+https://www.youtube.com/watch?v=6fShcesI3iw
+https://www.youtube.com/watch?v=8wzO-BMbWfU
 
 \>Current Character Banners: (Black Swan, Imbibitor Lunae + Misha, Tingyun, Guinaifen) - https://www.hoyolab.com/article/24943079
 

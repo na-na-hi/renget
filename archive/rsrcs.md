@@ -15,7 +15,7 @@
 ***
 ***
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1100907741209436160/6BA2472F-2101-406A-AD41-AA8C93DDE94A.png) <-
--> jan 23rd : i'm back... bit of a revamp :-) i might try to update this soon too~ <-
+-> feb 13th : some updates in almost every section but ill be adding more soon <-
 
 -> **navigation** <-
 -> [pixels](https://rentry.org/rsrcs) - [fandom pixels](https://rentry.org/themedpixel) - [dividers](https://rentry.org/finnsdividers) - kaomojis - blinkies stamps buttons - [useful links](https://rentry.co/advising) <-

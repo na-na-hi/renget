@@ -56,7 +56,6 @@
 [Cover High/Pekora Finale, Pt. 1](https://docs.google.com/document/d/e/2PACX-1vS-c0ofN7S13CwiwV_x4wDsd0-4skzKORUUpy2FVwd6A_7QDg-rSxBp8lb3-t2eIz6u3GaDlyCKAHGG/pub) (Pekora, Gen 3, SFW, Fluff/Romance, Comedy, Chuuni Bullshit)
 [Cover High Table of Contents](https://docs.google.com/document/d/e/2PACX-1vTn60HDU-RFY45m7ftqeZdiZ7MP9ZokzOcgtdCis-aXWjf_c4fo4KI0t1TAHyN9d_3NGxfikjIA3-H4/pub) (**Directory, use if this archive fails to update**)
 
-
 ######->*Holocalypse*<-
 >The world has ended as a consequence of World War Three. Nuclear fire rained down upon the Earth, causing mass destruction to the world as we know it today. Few people survived, one such person being you; a dangerous and stoic man with a dark, hidden past. Who will you meet in the wasteland, and what is the truth behind you and your actions? This is Holocalypse, a shameless harem with elements of mystery, as well as action and fights that can only be solved by one man and his machete.
 
@@ -291,7 +290,6 @@
 [Say, Can You See? Epilogue Chapter](https://docs.google.com/document/d/e/2PACX-1vQJAYxSDn-nvyow7OkMG01_qWn5OWQzlNlnmLJOffAg1gPZp1J0vJ7RkSoLu8evkKUZDQRniPOiOwIk/pub) 
 [Say, Can You See? - A Short Story 1](https://docs.google.com/document/d/e/2PACX-1vTZksmpGDCE1PxYpfqbLqR5-TDlNdOd8RwgypsdRKLhQNgNG6_VpwGdgLUlIy-XotFdbMUqWiryUPz0/pub) (Mumei, Fauna, Mori, Pekora, Korone, Shion, Okayu, SFW, Fluff?)
 
-
 #####->*Bunny Trap*<-
 >The people of Pekolandia have gotten caught up in the war of the humans, along with elves. In this crucial time where every bit of resource counts, a sudden great drought has affected their lands and crops. Whether natural, or the effect of something greater, it is unknown. What is known however, is that they won't be able to keep up the means of production without food to give to their people.
 >That's where Pekora comes in! A young, 111 years old, admittedly bratty girl with a good heart and a thirst for adventure has decided to take upon herself to save her people. She heard tales of an unlimited source of food, hidden deep within the bowels of an ancient dungeon. Many-a dangers lay within... will she able to endure the countless tribulations and save her people from certain doom? "Traps, monsters, puzzles, bring it on!!!
@@ -350,7 +348,6 @@
 [Life with a lion isn't easy y'know? Chapter 5](https://docs.google.com/document/d/e/2PACX-1vQav6iEmovCZCdY6vrKtW3bdLXs8EGdtVjmKQ5lVFT2wib42NmCWgjDagCPo3PxPz5XX87MjrunYkvz/pub) (Botan, vanilla, SFW)
 [Life With A Lion Isn't Easy Y'know? Ch. 6](https://docs.google.com/document/d/e/2PACX-1vTKvNG3W2fDrNRVJIpV89wC-4k2rtfdWHpCuP93oi-QM-vxUY96rMnTuTB61Z95kBcwpmkdmuphrphl/pub) (Botan, Vanilla, SFW)
 [Life with a lion isn't easy y'know? Chapter 7](https://docs.google.com/document/d/e/2PACX-1vTzquGpnszH7cwoVjpX2DnN1KAs1OGoT33iiDswdNE9k2vlXw9_Bf1GdMBFTubgJ927XYvgAvQUSGmI/pub) (Botan, Vanilla, SFW)
-
 
 #####->*To Slay A Monster*<-
 >(You) adopted a young half-elf as your maid, ripping her away from her mother. You guide this young girl through childhood and into adulthood, growing a fatherly affection to her. In the background, however, forces scarcely understood plot the downfall of not just you, but your entire country.
@@ -516,28 +513,19 @@
 >Ayame Nakiri, also known as 'the hottest girl in school', has made it her mission to have sex with every single male student in her grade to flaunt her superiority over the boys at her school, all of which are infatuated with her. All but one. In your eyes, she's nothing but a dirty slut that you would do anything to avoid. So when she approaches you, the last person she needs to fuck to finish her little game, you are quick to reject her advances. Little did you know that doing so would only make things much harder, and upheave your lonely, mundane life into one of chaos, drama, fun and of course, some eroticism. Who knows, maybe you're better off sticking it out until the end.
 
 [Chapter 1](https://docs.google.com/document/d/e/2PACX-1vR5N4cKLNJpGYtz9a48CrKFp5cX4qcQx22D4erJC7vLOnRWjY3MhqEgEWgJjVW466bFX-zxlwZ1FzgW/pub) (Rrat!Ayame, Aqua, partially NSFW, Enemies to lovers, Comedy, Drama, Female solo masturbation, LOTS of kissing, Male deflowering, Gentle femdom - Tags provided cover every chapter.)
-
 [Chapter 2](https://docs.google.com/document/d/e/2PACX-1vSmkPTiYvVl-RF6ARgNogDaq4MgG1IobAoVRDdiE_xzeLEK8rGYXBkI2DiFthdDHVfV2Ap4oHj9jm_d/pub)
-
 [Chapter 3](https://docs.google.com/document/d/e/2PACX-1vRE6SLtmTsCCChofDut0lrkAa553H1CGj76SLscRayzl0gNWAsg0pYA6z1XEN6kLKJ17sciZFb0PC8k/pub)
-
 [Chapter 4](https://docs.google.com/document/d/e/2PACX-1vR-RQf1m3I5NE0jJD4A75eGexDdS5USPJBZjLtt8yjZIYzudIM0C67hnwko2Wxwkp0i_1q0GNS2UNO8/pub)
-
 [Chapter 5](https://docs.google.com/document/d/e/2PACX-1vQL4iZYyH0Oi5kMwNpdzCnYrWxwXuMcZmMGEVxh2yJ3stmMilpuGl9D0CqzVL7r0KhcOGF_LIr8m7Bd/pub)
-
 [Chapter 6](https://docs.google.com/document/d/e/2PACX-1vSyEUniNpd_qMwlBLjA65g7zu8R4ejERYs_e3dpGYNzwhDzQDaU0hc-aqgsiJq26X3Rggb2tk6Ki9NJ/pub)
-
 [Epilogue](https://docs.google.com/document/d/e/2PACX-1vQITDk52jbY9K9YSttUyM9iibHPKiL7F77U1NjowlITSpoAqSX4jwozEOdEu1Xbf-0u1oTi-FLqkfSA/pub)
-
 [Our Cures: Christmas Special](https://docs.google.com/document/d/e/2PACX-1vQ0eFll3H_vc-6gi6SLYese9nbaPBz9NPv0VCKYLHfb5BcpnGeVRQzdEtYRegpSshi65d8x97TtRXum/pub) (Ayame, Lui, Aqua, NSFW(?), Fluff, Christmas)
 
 #####->*Escapades and Sexcapades*<-
 >An episodic series of fics where stream-based happenings occur with (You) and another (likely Hololive) chuuba. Each of these encounters are normally in two parts. The "escapade" being the first chapter with the all set-up and a bit of spiciness. The link to the stream it's inspired by is also there since that's where it matters most. Then there's the "sexcapade" with all the full-blown smut in case you just want to skip all the fluff. Any addition beyond that is probably just extra (smut). Aside from that, the occasional "collab" where multiple chuubas will share their own moments together, both eventful and erotic. These'll likely be one-shots.
 
 [Endurance: Training](https://rentry.org/62d287) (Baelz, NSFW, Fluff, voyeurism, Masturbation)
-
 [Endurance: Testing](https://rentry.org/i2htq) (Baelz, NSFW, Rough Sex)
-
 [Endurance: Breaking](https://rentry.org/zr2vn) (Baelz, NSFW, Mindbreak, Rough Sex)
 
 #####->*Heartbreak Tokyo*<-
@@ -616,50 +604,31 @@
 
 [Fantasy/High Chapter 1](https://docs.google.com/document/d/e/2PACX-1vRWSae9rmYbCf7aLE_bkwvRDAYiPSCbD7oWUt2zj29hsO54JrPStq6MliGP2psL_Biodl-f8ylfwxG0/pub) (Pekora, Marine, Yagoo, SFW, Crossover Collaboration, Fluff, Comedy, Isekai)
 
-
 ##### ->*Auntie's Little Secret*<-
 >Shirakami Fubuki lives a normal life. Normal as life can get. She works as a virtual idol for the company 'Cover Corp', she's married to a great man, and she takes care of her little nephew like a mother would. Hidden underneath a mask, she holds a terrible secret, and much to her demise, it would draw in the person she loved the most. Her nephew.
 
 [Auntie's Little Secret - Landing Page.](https://rentry.org/als18)
-
 [Auntie's Little Secret. Ch. 1.](https://docs.google.com/document/d/e/2PACX-1vTMCye7RXxhgeWukpzY4Hc1O8gw4xRu9gKukQKPsRheiskt8rFt7Z-KbhAy32MiGWiZSqSY3wUB4Zrk/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 2.](https://docs.google.com/document/d/e/2PACX-1vRa-3ZKu_z5WQCfliK2Z2Fq-RSTR_zBDMo1MqbXiSOljszUh-0oTmqba4e-8YkUHhN5jmxmrjaKGgOT/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 3.](https://docs.google.com/document/d/e/2PACX-1vSryi0NGvLuJpUyFKVA-vz2ovVBMaJpoQMGSZ0AymjlUl0SkcjiGha85Bl6y8s8mpbmFEApSYfthwvc/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 4.](https://docs.google.com/document/d/e/2PACX-1vQ-w2QqAbVz_EUHXjfBhC6_PTxVpQ9XZROz4S3qK3DH1Q_XmiBJuuaJN69YE6SoUID7tYrKfLF_VUMC/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 5.](https://docs.google.com/document/d/e/2PACX-1vSpKmFz-UM5TFCl7aeR9ySXEDjoiYgr8_9Tr8I9SSKwdYLuKxQh2xYBrCP7bdm1eiZxtlCPfX_Jt-vY/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 6.](https://docs.google.com/document/d/e/2PACX-1vReBcJAiJtBjWSaaMmx2f5b2jdYSAOzo9TnnjCjjQEMmM-plKGuFibEF9-jSk_obAwZcaD54I81G2Jz/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 7.](https://docs.google.com/document/d/e/2PACX-1vS3vPwxp8K4im8egsoFhK2HbVWzb5MLmUmgpcDlUgVmHhqaT8G0X4MJ4X6F1tzOnu90hQwSFt7AOPn3/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 8.](https://docs.google.com/document/d/e/2PACX-1vRTAQZXAD7DO0Fu6Tv1BYORNe3qT-Pg2-F0_UCt6BWgGybudNlvyw3_-bFhufLMjvKdJHePiHhxiSBu/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [Auntie's Little Secret. Ch. 9.](https://docs.google.com/document/d/e/2PACX-1vRUZawHO_T8lER_RZuiL60iwOCNpdbR7_wT0txChWf-eq-EtgODJkLEjadX5B640RyvFCcXW9euXsdq/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 [The last page of the journal - Auntie's Little Secret: Epilogue](https://docs.google.com/document/d/e/2PACX-1vTbnhWP5rDaWlXaX0he6LBspVkq3p40JxO31cwG-18VF_Zg8KKEgpzOS-EobtMJgrP8CIggQGX0pvyl/pub) (tags: Shirakami Fubuki, NSFW, fluff, /ss/, grooming, dark)
-
 
 ##### ->*Tower of Tattle*<-
 >Reminder to Boss: put something here later.
 
 [Tower of Tattle - Landing Page.](https://anonymousnovelite.github.io/TowerOfTattle/)
-
 [Tower of Tattle Part I: The Atrium](https://anonymousnovelite.github.io/TowerOfTattle/PartI/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-
 [Tower of Tattle Part II: The Gate](https://anonymousnovelite.github.io/TowerOfTattle/PartII/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-
 [Tower of Tattle Part III: The Stairwell](https://anonymousnovelite.github.io/TowerOfTattle/PartIII/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-
 [Tower of Tattle Part IV: The Cellar](https://anonymousnovelite.github.io/TowerOfTattle/PartIV/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-
 [Tower of Tattle Part V: The Heart](https://anonymousnovelite.github.io/TowerOfTattle/PartV/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-
 [Tower of Tattle Part VI: The Town, Episode 1: Campire](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode01/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-
 
 ##### ->*Holoshorts*<-
 >Wedgies.

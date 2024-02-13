@@ -223,6 +223,7 @@ Let me know if you find anything broken with my scripted cards.
 ***
 [Character Hub](https://chub.ai/users/creamsan)
 [Neocities Page](https://creamsan.neocities.org)
+[Ms. Keyes v2 code breakdown](https://rentry.org/5zmev)
 
 ***
 ##CREDITS

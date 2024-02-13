@@ -68,6 +68,7 @@
 	CCC Anon stated all of them work fine at 1, same tags as normal loras (outside of the ones that don't have example prompts, I never tested ccc's version of them).
 
 #### -> Hololive <-
+***
 ##### -> (HoloAdvent) Fuwawa + Mococo Abyssgard <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -78,11 +79,36 @@
 -> [Civitai](https://civitai.com/models/294722/tsunomaki-watame-sdxl-or-hololive) <-
 
 #### -> Phase Connect <-
+***
+##### -> (AliAS) Amanogawa Shiina <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	amanogawa shiina, blue eyes, very long hair, bangs, white hair bow, colored inner hair, hair ornament, small breasts, revealing clothes, transparent crotch veil, black panties, dress, exposed stomach, navel, ribbon
+-> [Catbox](https://files.catbox.moe/7wvg4f.safetensors) <-
+
+##### -> (KALEiDO) Ayase Yuu <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	ayase yuu, medium hair, bangs, black shirt, jewelry, midriff, black pants, multicolored hair, cross earrings, hair over one eye, tattoo on stomach, breast pocket, belt, black coat, black footwear, uneven legwear, ear piercing
+-> [Catbox](https://files.catbox.moe/k3zx49.safetensors) <-
+
 ##### -> (InvadersGen 2) Ember Amane <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
 	[Check LoRA's tags - Untested CCC's version so i don't know the best tags]
 -> [Catbox](https://files.catbox.moe/2f9t5a.safetensors) <-
+
+##### -> (InvadersGen 2) Dizzy Dokuro <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	dizzy dokuro, breasts, blunt bangs, drill hair, large breasts, bare shoulders, black dress, pointy ears, shibari over clothes, red rope, detached sleeves, pantyhose
+-> [Catbox](https://files.catbox.moe/5of40n.safetensors) <-
+
+##### -> (Euphoria) Eimi Isami <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	eimi isami, short hair, hair ornament, orange bow, navel, animal ears, pleated skirt, hairclip, midriff, black skirt, shorts sleeves, shirt, loose socks, bandaid on knee, lab coat, id card
+-> [Catbox](https://files.catbox.moe/1znwn0.safetensors) <-
 
 ##### -> (Euphoria) Hikanari Hina <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -96,6 +122,24 @@
 	[Check LoRA's tags - Untested CCC's version so i don't know the best tags]
 -> [Catbox](https://files.catbox.moe/v10fm4.safetensors) <-
 
+##### -> (InvadersGen 2) Jelly Hoshiumi <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	jelly hoshiumi, antennae, bare shoulders, very long hair, dress, small breasts, blunt bangs, detached sleeves, star (symbol), thighhighs, garter straps, star hair ornament, yellow hairband, hair ornament, white gloves
+-> [Catbox](https://files.catbox.moe/6aaodr.safetensors) <-
+
+##### -> (AliAS) Makina Erina <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	erina makina, very long hair, bangs, large breasts, white dress, animal ears, bare shoulders, tiger tail, multicolored hair, choker, hair over one eye, white thighhighs, see-through, thigh strap, pelvic curtain, doll joint, halo, android
+-> [Catbox](https://files.catbox.moe/yod9j4.safetensors) <-
+
+##### -> (Euphoria) Muu Muyu <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	muu muyu, long hair, small breasts, cow ears, very long hair, white shirt, horns, black skirt, off shoulder, collar, cowbell, double bun, labcoat, slippers, mole under mouth
+-> [Catbox](https://files.catbox.moe/2gcxlf.safetensors) <-
+
 ##### -> (OriginS) Pipkin Pippa <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -103,13 +147,29 @@
 -> [Catbox](https://files.catbox.moe/wn15lq.safetensors) <-
 
 #### -> Idol Corp <-
+***
+##### -> (Endless) Coni Confetti <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	coni confetti, facial mark, bangs, white leotard, small breasts, navel, torn leggins, twintails, collarbone, barefoot, teeth, nail polish, fangs, toeless legwear, red collar, heart ahoge, jacket
+-> [Catbox](https://files.catbox.moe/l3e8gr.safetensors) <-
+
 ##### -> (Endless) Roca Rourin <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
 	[Check LoRA's tags - Untested CCC's version so i don't know the best tags]
 -> [Catbox](https://files.catbox.moe/1mu9bg.safetensors) <-
 
+#### -> V&U <-
+***
+##### -> (Symphoria) Yurikago Kokone <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	okone yurikago, long hair, bangs, large breasts, cleavage, jewelry, hair over one eye, dress, crescent, side slit, pelvic curtain, halo, ponytail, detached sleeves
+-> [Catbox](https://files.catbox.moe/f2ioht.safetensors) <-
+
 #### -> Sedai One <-
+***
 ##### -> (Gen1) Aimi Hada <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -129,6 +189,7 @@
 -> [Catbox](https://files.catbox.moe/0iyjx9.safetensors) <-
 
 #### -> Prism Project <-
+***
 ##### -> (Gen 3) Rikudou Yura <-
 !!! info Her special neck look is somewhat RNG so to help with it, you might need to put (turtleneck) into the negatives.. and (blue fire) will sometimes set things in the background on fire. If you want her to hold her head like a proper dullahan, just use a LoRA for it
 !!! note Recommended weight: 1 (according to CCC)
@@ -137,6 +198,7 @@
 -> [Catbox](https://files.catbox.moe/iuftmu.safetensors) <-
 
 #### -> Re:Act <- 
+***
 ##### -> (Parfait) Amakawa Hano <-
 !!! info Her hair doesn't work at all on my model, hope it looks better on yours
 !!! note Recommended weight: 1 (according to CCC)
@@ -145,13 +207,29 @@
 -> [Catbox](https://files.catbox.moe/67ts6m.safetensors) <-
 
 #### -> Varium <-
+***
 ##### -> (Gen2) Amemochi Nina <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
 	(anemochinina, long hair, blonde hair, braid, animal ears, hair ornament, hair flower, yellow eyes, white headwear, blue neck ribbon, blue dress, short sleeves, frills, white elbow gloves, orange bow, midriff, white shorts, fluffy tail, striped thighhighs, white footwear)
 -> [Catbox](https://files.catbox.moe/idjyt8.safetensors) <-
 
+#### -> V-Dere <-
+***
+##### -> Airi Viridis <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	airi virdis, bangs, shirt, pointy ears, bare shoulders, twintails, hair clip, hair ribbon, jewelry, medium breasts, multicolored hair, detached sleeves, plaid skirt, midriff, necklace, hair bun, hair over one eye, double bun, demon tail, fishnets, demon wings, asymmetrical legwear
+-> [Catbox](https://files.catbox.moe/doh388.safetensors) <-
+
+##### -> Elia Stellaria <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	elia stellaria, long hair, bangs, purple skirt, shirt, thighhighs, long sleeves, bowtie, hair between eyes, bare shoulders, ribbon, hair bow, hairband, twin braids, white thighhighs, double bun, garter straps, shoulder bag, grey jacket, off shoulder
+-> [Catbox](https://files.catbox.moe/3uw06g.safetensors) <-
+
 #### -> PixelLink <-
+***
 ##### -> (PixelPlus) Chiaki Katsumi <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -165,6 +243,7 @@
 -> [Catbox](https://files.catbox.moe/kncnti.safetensors) <-
 
 #### -> Indies <-
+***
 ##### -> Dokibird <-
 !!! info Example Prompt
 	[TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427)
@@ -190,8 +269,10 @@
 ### -> PonyXL <-
 ***
 #### -> Hololive <-
+***
 ##### -> Gawr Gura <-
 !!! info can do 3 outfits?
 -> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/folder/Zf4nFKyJ) <-
 ##### -> Hololive -Promise- <-
+!!! info Contains the entirety of promise? 
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ) <-

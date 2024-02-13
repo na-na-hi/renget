@@ -128,7 +128,7 @@ You can only spark units currently on banner.
 **Sparks do not carry over between banners**, so whatever Recruitment Points you have left over gets turned into crafting mats when the banner ends.
 
 >How many rolls do I get? How often do I get a spark?
-You get 12,000 gems (= 100 rolls) on average per month as a f2p ([source](https://www.reddit.com/r/BlueArchive/s/uIqemypEhj) [(image version)](https://i.imgur.com/aFw06dG.png)), which means it takes 2 months to get a spark. There's a lot of freebies lying around for new accounts though.
+You get 12,000 gems (= 100 rolls) on average per month as a f2p ([source](https://www.reddit.com/r/BlueArchive/s/uIqemypEhj) [(image version)](https://i.imgur.com/aFw06dG.png)), which means it takes 2 months to get a spark. There's a lot of [freebies lying around for new accounts](https://docs.google.com/spreadsheets/d/1_SK19RJnCdYD96JjcTNhwYb9W_FrHPqL78XENdWHEBU/htmlview#) though.
 
 >What should I do after my initial rolls? Do I roll without a spark?
 You want to save up for a spark before rolling. **Do not roll without a spark**, because you can get fucked really hard.
@@ -419,7 +419,7 @@ You can save ur tickets until the last day and sweep the raid. You still need to
 It's commissions but with a unique gimmick. The gimmick changes every time, so no 2 drills are the same. 
 If you don't know what to do against a gimmick, look at a few videos. If it's ongoing, filter by 1 week and you should be good.
 
-You can borrow students for this challenge, so being in a club is very helpful if you want to get a good score.
+You can borrow students for this challenge, so [being in a club](https://rentry.org/holdingthebag) is very helpful if you want to get a good score.
 There are no rankings (like raids), and higher scores simply give you more coins/credits per clear.
 
 The tickets for Joint Firing Drill (JFD) work differently than the ones for raids. Unlike with raids, you will not waste a ticket by retreating in battle. You'll only waste the ticket if you give up entirely (in the stage menu) or the sixty minute timer on the ticket runs out.
@@ -612,7 +612,9 @@ I'm not a big spender so I can't give too much of an opinion on the other packs.
 
 ## Main story stuff (spoiler free) 
 (WIP)
-Every episode grants 60 gems.
+![total pyros story](https://i.imgur.com/c59w29N.png)
+[source](https://docs.google.com/spreadsheets/d/1_SK19RJnCdYD96JjcTNhwYb9W_FrHPqL78XENdWHEBU/htmlview#)
+**Don't read the volume F sheet too closely**, it has some spoilers in it. 
 
 Ordered by release date:
 Volume 1 > V2C1 > V3C1-3 > V4C1 > V3C4 > V2C2 > Volume F > V4C2 > V5C1
@@ -621,48 +623,6 @@ If you want every single context available, it's:
 Volume 1 > V2C1 > Hina's momotalk (lol) > V3C1-2 > Trinity Summer 1 > V3C3 > V4C1 > V3C4 > V2C2 > Izuna event > An Unconcealed Heart (Michiru event) > Cherino event > After School Sweets club event > Abydos summer > Hyakki summer > Volume F > V4C2 > V5C1
 
 You can also read it by volume. 
-
-Volume 1 has 2 chapters
--	Chapter 1 has 20 episodes
--	Chapter 2 has 20 episodes
-
-Total: 2400 gems 
-
-Volume 2 has 2 chapters
--	Chapter 1 has 20 episodes
--	Chapter 2 has 25 episodes
-
-Total: 2700 gems
-
-Volume 3 has 2 chapters
--	Chapter 1 has 17 episodes
--	Chapter 2 has 20 episodes
--	Chapter 3 has 25 episodes
--	Chapter 4 has 27 episodes
-
-Total: 5340 gems
-
-Volume 4 has 2 chapters
--	Chapter 1 has 20 episodes
--	Chapter 2 has 24 episodes
-
-Total: 2640 gems
-
-Volume F has 4 chapters and 3 side contents
--    Chapter 1 has 15 episodes 
--    Chapter 2 has 21 episodes 
-    - Side content 1 has 16 episodes 
--    Chapter 3 has 16 episodes 
-    - Side content 2 has 9 episodes 
--    Chapter 4 has 12 episodes 
-    - Side content 3 has 6 episodes 
-
-Total: TBD
-
-Volume 5 has 1 chapter
--	Chapter 1 has 26 episodes
-
-Total: 1560 gems
 
 Completing volume F gives you a new login screen, and so does reading the epilogue of Volume 4 chapter 2. 
 
@@ -681,6 +641,10 @@ District of Utnapishtim.
 ## Misc. stuff
 You can rub people's heads after you unlock their L2Ds. This also counts for NPCs (e.g. Arona, Sora, Rin)
 Yes. You really can. 
+
+>Total newbie pyros
+Open [this link](https://docs.google.com/spreadsheets/d/1_SK19RJnCdYD96JjcTNhwYb9W_FrHPqL78XENdWHEBU/htmlview#), it's a lot.
+The vol F sheet has spoilers, so take care.
 
 >XP
 1 AP = 1 XP. Your level is tied to how much AP you spend, so there's no real way to level up faster. 

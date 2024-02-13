@@ -596,7 +596,6 @@ https://rentry.org/reaper-rising
 https://rentry.org/s8558
 >MHA Isekai 3.2
 https://rentry.org/4eama
-Writefags (cont.)
 >Call me from the future, past (Yamata, Blast Burn, Arena, Radius):
 https://rentry.org/znbnka
 >Holden On To A Blank (Holden Deckard, Blank)

@@ -339,6 +339,13 @@ impersonation of red cross...
 https://archive.4plebs.org/tg/post/91759143
 Halloween Requests 3
 https://archive.4plebs.org/tg/post/91777059
+Halloween Requests 4
+https://archive.4plebs.org/tg/post/91881864
+Halloween Requests 5
+https://archive.4plebs.org/tg/post/91881869
+blind rage
+https://archive.4plebs.org/tg/post/91890223
+
 
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
@@ -428,8 +435,23 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->Orochi and Rui in a cafe (Yamata, 108 gang)
-https://rentry.org/bcf537y8
+>New Writefag:
+>Good Talk (Impakt, Floor):
+https://rentry.org/eywc242v
+
+>New 1-F Student:
+>??? HN Meteoric Hero: Cube
+>>91890433
+
+>New Art
+>Can't solve a puzzle? Shark time!
+>>91890241
+>The cutest retard
+>>91890275
+>Updated 1-F Seating Chart (PoV Skycarver)
+>>91891159
+>Updated 1-F Seating Chart
+>>91891169
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -452,7 +474,6 @@ https://rentry.org/9bf3g
 Page 2
 ***
 ```
->>91842852
 >STUDENTS:
 
 >Chihiro Mitsurugi HN Ascetic Sword Hero: Yako
@@ -603,6 +624,8 @@ https://rentry.org/Fullmetal-mha
 >>91833690
 >Nayuki Kyoko
 >>91834965
+>??? HN Meteoric Hero: Cube
+>>91890433
 
 >PRO HEROES
 >U.A. Teachers:
@@ -991,6 +1014,8 @@ https://rentry.org/czs9nrcu
 https://rentry.org/qzavfwdf
 >Orochi and Rui in a cafe (Yamata, 108 gang)
 https://rentry.org/bcf537y8
+>Good Talk (Impakt, Floor):
+https://rentry.org/eywc242v
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
