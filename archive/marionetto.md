@@ -1,4 +1,4 @@
-->[%#cad9c1% go back%%](https://rentry.co/White)<-
+->[%#cad9c1% go back%%](https://text.is/dormir)<-
 
 %#696969%**about me**
  i'𝗆 morte, luciel or cielomort, use any i dont mind. i have a typing quirk + i speak in third person from time to time (only when extremely overwhelmed / trying to regulate my emotions) so it could be confusing, so let me know if you want me to stop using it if we do interact. i am pretty shy + always very nervous. nicknames are fine, however **do not** use any affectionate ones if we **aren't** close. i am a delicate person + i get (very) overwhelmed easily. please do not be overly mean or i'll take it the wrong way even if it is a joke. (only if we arent close). i am pretty nice, though once i get comfortable i will be a bit mean jokingly.  **always** tell me your boundaries & etc when speaking to me.%%

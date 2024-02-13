@@ -125,6 +125,10 @@ https://rentry.org/llst-2021-02-bkup
 ```
 
 ##Changelog:
+==2024.02.13==
+- added liella 5th live link (tokyo)
+- Added Liella Club valentine special video
+
 ==2024.01.22==
 - added liella 5th live link
 
@@ -142,10 +146,6 @@ https://rentry.org/llst-2021-02-bkup
 ==2023.10.31-30==
 - added 2022 Liella MTV Unplugged bluray rip
 - added Liyuu PB link
-
-==2023.10.14==
-- overhauled seiyuu list to the new format
-- added BluRay links for the 2nd Liella concert
 
 ***
 ##Seiyuu Information, Links & SNS
@@ -350,7 +350,7 @@ Sunny Stage D1&D2 - [1080p PIA WEBRip](https://nyaa.si/view/1500330) / [1080p eP
 Ocean Stage D1&D2 - [1080p PIA WEBRip](https://nyaa.si/view/1496114)
 
 Love Live! Sunshine!! Aqours EXTRA LoveLive! DREAMY CONCERT 2021 *D1&D2* 
-BDRip Complete w/ Making Of Scenes - [1080p](https://nyaa.si/view/1751250)  ![](https://files.catbox.moe/c95yx7.gif)
+BDRip Complete w/ Making Of Scenes - [1080p](https://nyaa.si/view/1751250)  
 
 Love Live! Sunshine!! Aqours EXTRA LoveLive! 2023 ~It's a Mugendai☆WORLD~ 
 BRRip Complete - [1080p](https://nyaa.si/view/1756136) ![](https://files.catbox.moe/c95yx7.gif)
@@ -539,8 +539,9 @@ Catchu! ver - [1080p](https://nyaa.si/view/1709468) / [720p](https://nyaa.si/vie
 5yncri5e! ver -  [1080](https://nyaa.si/view/1716100) / [720](https://nyaa.si/view/1716321)
 
 Liella! 5th LoveLive!～Twinkle Triangle～
-Fukuoka D1D2 - [1080P PIA WEBRip](https://nyaa.si/view/1769448)
-  ![](https://files.catbox.moe/c95yx7.gif)
+Fukuoka D1D2 - [1080P PIA WEBRip](https://nyaa.si/view/1769448) ![](https://files.catbox.moe/c95yx7.gif)
+Tokyo D1D2 -   [1080p PIA WEBRip](https://nyaa.si/view/1777607) ![](https://files.catbox.moe/c95yx7.gif)
+
 ####EVENTS/PERFORMANCES/MISC
 Liella! Season 1 Opening and Ending Online Release Event : [WEBRip ==ENGSUB==](https://nyaa.si/view/1611104)
 Liella! Venue101 2022-10-01 - https://nyaa.si/view/1585462
@@ -551,6 +552,9 @@ SHIBUYA NOTE NHKG Interview+Performance : [WEBRip](https://nyaa.si/view/1383632)
 2021 FNS Music Festival : [WEBrip](https://nyaa.si/view/1465133)
 2022 Liella MTV Unplugged : [Bluray ==ENGSUB==](https://nyaa.si/view/1736285) | [Webrip](https://nyaa.si/view/1565479) 
 Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~ : [Webrip](https://nyaa.si/view/1547572)
+
+**Liella! CLUB**
+[Liella! CLUB 2024 Valentine B Team (24.02.12 Day1)](https://mega.nz/folder/YsBCwZ5D#1ATs_cf8t9NL3_38VKCcCQ) ![](https://files.catbox.moe/c95yx7.gif)
 
 Liella no Doko Iku? (Season 1)
 Part 1 : [576p](https://nyaa.si/view/1465161) | [720p](https://nyaa.si/view/1465162) | [1080p](https://nyaa.si/view/1467287)
@@ -631,6 +635,8 @@ Raw niconamas - https://www.youtube.com/channel/UCK8Hs9st7QXeuUez_QvP90Q
 Nijigasaki AbemaTV Image Girl Battle - https://www.youtube.com/channel/UC9fvLHGAiPpnKfjE5GwFi4w
 Aqours broadcasts - https://www.youtube.com/channel/UCY-n3NM-QA2mA037Lz659ng
 [Akane Yabushima no Tsuyokunaru Special Live Event 2023.01.27](https://mega.nz/folder/UloyUToC#HfKlWEf1vgRYSG2yWSbCFg) ![](https://files.catbox.moe/c95yx7.gif)
+[Apollo Bay Sports Festival 2022](https://mega.nz/file/tzUS3IxZ#j5mJhNzaswGSYtqhq7eJoW0Q4d4mHYMXsKPNCLdL2Sg)
+
 
 **Engsub:**
 Anchan Radio Curtain Call engsubs - https://www.youtube.com/channel/UCvbw0CC8sx-J_AInkSd6z8w
@@ -657,10 +663,6 @@ Anchan - https://frozenmikan.tumblr.com/archive
 Shuka - http://saitou-shuka.tumblr.com/archive
 Random translations - http://translations.dyreatic.moe/archive
 Nijigasaki Social Media - https://twitter.com/niji_fans_para
-
-**Misc**
-[Apollo Bay Sports Festival 2022](https://mega.nz/file/tzUS3IxZ#j5mJhNzaswGSYtqhq7eJoW0Q4d4mHYMXsKPNCLdL2Sg)
-
  
 **Wikifeet links**
 **µ's**

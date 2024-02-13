@@ -4,7 +4,7 @@
 !!!info
 	Trained on Animagine XL V3.
 ##->Vtubers<-
-##->Eimi<-
+##->Eimi Isami<-
 Catbox: https://files.catbox.moe/1znwn0.safetensors
 ####Prompt
 1girl, eimi isami, solo, short hair, hair ornament, orange bow, navel, animal ears, pleated skirt, hairclip, midriff, black skirt, shorts sleeves, shirt, loose socks, bandaid on knee
@@ -14,7 +14,7 @@ Catbox: https://files.catbox.moe/1znwn0.safetensors
 lab coat, id card, thick eyebrows
 ####Notes
  Her outfit has a lot going on so sometimes her shirt is just white. Put lab coat in negatives if it blends with her shirt. 
-##->Muyu<-
+##->Muu Muyu<-
 Catbox: https://files.catbox.moe/2gcxlf.safetensors
 ####Prompt
 muu muyu, 1girl, solo, long hair, small breasts, cow ears, very long hair, white shirt, horns, black skirt, off shoulder, collar, cowbell, double bun, labcoat, slippers, mole under mouth
@@ -23,7 +23,7 @@ muu muyu, 1girl, solo, long hair, small breasts, cow ears, very long hair, white
 ####Optional
 ####Notes
 Gets a bit messy with higher weights.
-##->Coni<-
+##->Coni Confetti<-
 Catbox: https://files.catbox.moe/l3e8gr.safetensors
 ####Prompt
 coni confetti, 1girl, solo, facial mark, bangs, white leotard, small breasts, navel, torn leggins, twintails, collarbone, barefoot,
@@ -34,7 +34,7 @@ teeth, nail polish, fangs, toeless legwear, red collar, heart ahoge, jacket
 very long hair, messy hair
 ####Notes
 Getting two tone leggins is a bit tricky. Try "orange and red leggins" or some other variants. Put jacket in negatives as it tends to bleed into her outfit.
-##->Dizzy<-
+##->Dizzy Dokuro<-
 Catbox: https://files.catbox.moe/5of40n.safetensors
 ####Prompt
 1girl, solo, dizzy dokuro, breasts, blush, blunt bangs, drill hair, large breasts, bare shoulders, black dress, pointy ears, shibari over clothes, red rope, detached sleeves, pantyhose
@@ -44,7 +44,7 @@ Catbox: https://files.catbox.moe/5of40n.safetensors
 headdress
 ####Notes
  Getting her bumps on head to appear kinda gacha with lower weights.
-##->Shiina<-
+##->Amanogawa Shiina<-
 Catbox: https://files.catbox.moe/7wvg4f.safetensors
 ####Prompt
 1girl, amanogawa shiina, solo, blue eyes, very long hair, bangs, white hair bow, colored inner hair, hair ornament, small breasts, revealing clothes, transparent crotch veil, black panties, dress, exposed stomach, navel, ribbon
@@ -53,6 +53,7 @@ Catbox: https://files.catbox.moe/7wvg4f.safetensors
 ####Notes
 A bit scuffed with her hair ornaments.
 ##->Erina Makina<-
+Catbox: https://files.catbox.moe/yod9j4.safetensors
 ####Prompt
 1girl, erina makina, solo, very long hair, smile, bangs, large breasts, white dress, animal ears, bare shoulders, tiger tail, multicolored hair, choker, hair over one eye, white thighhighs, see-through, thigh strap, pelvic curtain
 ####Weight
@@ -62,6 +63,7 @@ doll joint, android, short hair, halo, garter straps, cleavage
 ####Notes
 Hands pretty bad with default outfit. Getting her mechanical arm to appear is pretty difficult without getting joints in every limb.
 ##->Jelly Hoshiumi<-
+Catbox: https://files.catbox.moe/6aaodr.safetensors
 ####Prompt
 1girl, jelly hoshiumi, solo, blush, antennae, smile, bare shoulders, very long hair, dress, small breasts, blunt bangs, detached sleeves, star \(symbol\), thighhighs, garter straps, star hair ornament, yellow hairband, hair ornament
 ####Weight
@@ -71,6 +73,7 @@ shoes, white gloves
 ####Notes
 Antennae with stars complete gacha. Try more detailed prompt.
 ##->Ayase Yuu<-
+Catbox: https://files.catbox.moe/k3zx49.safetensors
 ####Prompt
 1girl, ayase yuu, solo, medium hair, bangs, black shirt, jewelry,  midriff, black pants, multicolored hair, cross earrings, hair over one eye, tattoo on stomach, breast pocket, belt
 ####Weight
@@ -79,7 +82,8 @@ Antennae with stars complete gacha. Try more detailed prompt.
 thighhighs, gloves, black coat, black footwear, uneven legwear, ear piercing
 ####Notes
 At higher weight, tattoos start appearing all over her body. Use negatives or more detailed prompt ("single black and white rose tattoo on side of stomach" etc.)
-##->Airi Virdis<-
+##->Airi Viridis<-
+Catbox: https://files.catbox.moe/doh388.safetensors
 ####Prompt
 airi virdis, 1girl, solo, smile, bangs, shirt, pointy ears, bare shoulders, twintails, hair clip, hair ribbon, jewelry, medium breasts, multicolored hair, detached sleeves, plaid skirt, midriff, necklace, hair bun, hair over one eye, double bun
 ####Weight
@@ -87,6 +91,7 @@ airi virdis, 1girl, solo, smile, bangs, shirt, pointy ears, bare shoulders, twin
 ####Optional
 fishnets, demon tail, asymmetrical legwear, demon wings, demon tail, fishnet pantyhose, platform footwear
 ##->Elia Stellaria<-
+Catbox: https://files.catbox.moe/3uw06g.safetensors
 ####Prompt
 1girl, elia stellaria, solo, long hair, blush, bangs, purple skirt, shirt, thighhighs, long sleeves, bowtie, hair between eyes, bare shoulders, ribbon, hair bow, hairband, twin braids, white thighhighs, double bun 
 ####Weight
@@ -96,12 +101,15 @@ garter straps, shoulder bag, wings, grey jacket, shoes, off shoulder
 ####Notes
 Stars on her skirt sometimes hard to generate. Try more detailed prompt.
 ##->Yurikago Kokone<-
+Catbox: https://files.catbox.moe/f2ioht.safetensors
 ####Prompt
 1girl, kokone yurikago, solo, long hair, bangs, large breasts, cleavage, jewelry, hair over one eye, dress, crescent, side slit, pelvic curtain
 ####Weight
 0.9-1.0
 ####Optional
 black footwear, halo, ponytail, detached sleeves
+####Notes
+Hands can get a bit scuffed so try different weights. Eye color has some problems but use "red eyes" if needed.
 
 ##->Style<-
 ##Waterring

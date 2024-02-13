@@ -110,6 +110,7 @@ Daigo Ulmeyda: https://desuarchive.org/tg/thread/91813025/#91814363
 Richard Hertz | HN: Cactiking: https://rentry.org/p6dwm#r-hertz
 Higa Umeko HN Slip-N'-Slideasaurus: https://desuarchive.org/tg/post/91833690/
 Nayuki Kyoko: https://desuarchive.org/tg/post/91834965/
+Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -164,7 +165,6 @@ Yosuke Shirai HN The Lustrous Hero, Wavelength: https://archive.4plebs.org/tg/po
 Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
 Kiki HN Yggdrasil: https://archive.4plebs.org/tg/post/91707234/
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
-Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
 MR. BULLET: https://desuarchive.org/tg/post/91812743/
 
 ### Villains
@@ -233,6 +233,7 @@ TechVision Elite 2023 - 43Vista UltraSmart 4K TV: https://archive.4plebs.org/tg/
 Suslik: https://archive.4plebs.org/tg/post/91699413/
 The Hospital Killer: https://desuarchive.org/tg/post/91772420/
 Paul Crémieux VN De Jais (Jet Black): https://desuarchive.org/tg/post/91841242/
+Jessica Wu VN Surinam Toad Girl: https://archive.4plebs.org/tg/thread/91843193/#91851919
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576

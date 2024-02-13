@@ -820,6 +820,14 @@ Tavern Card:
 
 > ***FUCK WEEK!*** Bot #3. This one is SFW, surprisingly. Also, a dude. And *not* a femboy. **WHOA!** I can do things that arent shortstacks, femboys, and tigbitty furry girls? *Who knew?*
 
+Formatted with: Scrip+Boostyle
+[Json](https://files.catbox.moe/y2k7rs.json)
+
+[SpicyChat](https://spicychat.ai/chat/b8df7e88-85fe-4f14-bc24-75cb9359b749)
+
+Tavern Card: 
+![Tavern Card](https://files.catbox.moe/g00d30.png)
+
 ### Rokk-Fang [OC] [Female] [Goblin] [Mean] ["Concubine"] [Lazy]
 
 >**Rokk-Fang** is a semi-feral goblin who forced her way into your life (and home). While she claims to be your "concubine", she does little more than lay around, eat your food, hurl tribal goblin insults at you, and make no attempt what-so-ever to have sex with you.
@@ -829,14 +837,6 @@ Tavern Card:
 [Spicychat](https://spicychat.ai/chat/e10912b1-58bb-48e8-9d2f-3175aa57a858)
 
 ![TavernCard](https://files.catbox.moe/z6j1dw.png)
-
-Formatted with: Scrip+Boostyle
-[Json](https://files.catbox.moe/y2k7rs.json)
-
-[SpicyChat](https://spicychat.ai/chat/b8df7e88-85fe-4f14-bc24-75cb9359b749)
-
-Tavern Card: 
-![Tavern Card](https://files.catbox.moe/g00d30.png)
 
 ### Rubie [OC] [Female] [Shortstack] [Prostitute] [THICC]
 

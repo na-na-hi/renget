@@ -328,5 +328,4 @@ https://civitai.com/user/LHV
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon and other thread bakers - January 29th - https://pastebin.com/Zx8zZ8J0
-PWAnon, that new chibi manga is fyre! (^_^)
+Cut'n'paste for PWChefAnon and other thread bakers - February 13th - https://pastebin.com/1QFEJfC5

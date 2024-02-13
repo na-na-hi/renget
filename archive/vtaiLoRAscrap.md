@@ -29,10 +29,11 @@
 **Fumino Tamaki (Nijisanji)** - https://civitai.com/models/261333/fumino-tamaki-nijisanji
 **Cosmo Ruru (Indie)** - https://civitai.com/models/288020/cosmo-ruru
 **Yagoo (Hololive)** - https://files.catbox.moe/a9hbln.safetensors
-**Dokibird (indie)** - https://files.catbox.moe/0nz6d2.safetensors (check lora for tags? idk) or https://litter.catbox.moe/cn6gm6.safetensors (litter lol) or https://civitai.com/models/297993/dokibird-vtuber
+**Dokibird (indie)** - https://files.catbox.moe/0nz6d2.safetensors (check lora for tags? idk) or https://litter.catbox.moe/cn6gm6.safetensors (litter lol) or https://civitai.com/models/297993/dokibird-vtuber or https://civitai.com/models/303461/dokibird-or-vtuber
 **MadDogKiss (Indie)** - https://civitai.com/models/298576/maddogkiss
 **Tama Shoko (Indie)** - https://civitai.com/models/298662
 **Ryogoku Tsukasa (Specialite)** - https://civitai.com/models/298812/ryogoku-tsukasa
+**Azuma Seren (Indie)** - https://civitai.com/models/302498/azuma-seren-vtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -49,13 +50,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Mozumi Pichi (VDere)** - https://civitai.com/models/290670/mozumi-pichi
 **Emikukis (OWOzu)** - https://civitai.com/models/290992/emikukis-vtuber-commission
 **Oozora Subaru (Hololive)** - https://civitai.com/models/299444/oozora-subaru-hololive
+**Hoshikawa Sara (Nijisanji)** - https://civitai.com/models/302930/hoshikawa-sara-nijisanji-or-3-outfits
 
 ### -> SDXL (will not test, unless..?) <-
-**Fallenshadow / Shondo (Indie)** - https://civitai.com/models/265519/fallenshadow-sdxl
-**Pomu Rainpuff (Nijisanji)** - https://civitai.com/models/273382/pomu-rainpuff-sdxl
-(PonyXL ONLY) **Hololive -Promise-** - https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ
-**Neuro-sama V2 + Evil Neuro + Vedal (Indie)** - https://civitai.com/models/276788/neuro-sama-and-evil-neuro-2-outfits-turtle (i was a moron and didnt see the XL)
-(AnimagineV3 ONLY) **Pipkin Pippa (Phase Connect)** - https://files.catbox.moe/wn15lq.safetensors <- [TAG INFO](https://rentry.org/CCC_Loras#pipkin-pippa-xl-only)
-**Selen Tatsuki (Nijisanji)** - https://civitai.com/models/294243/selen-tatsuki-sdxl
-(AnimagineV3 Only) **Dokibird (indie)** - https://files.catbox.moe/7u3yvi.safetensors [TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427) or https://civitai.com/models/299605/dokibird-xl (NOT AnimagineV3)
-**Tsunomaki Watame (Hololive)** - https://civitai.com/models/294722/tsunomaki-watame-sdxl-or-hololive
+EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

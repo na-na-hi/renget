@@ -42,6 +42,13 @@ A scientist/wizard in a fantasy world turns himself into a dragon in order to st
 > Dragons live in a stereotypically utopic, primitive society with a chieftan and tend to avoid humans.
 > **PS 5/5**
 ‪‎
+**Dragon Knight** (1976-2000) by Gordon R. Dickson
+Fantasy (isekai)
+[Review Pending]
+**The Dragon and the George**
+**ISBN-10** 0345350502
+**ISBN-13** 978-0345350503
+‪‎
 **Dragon Dreams** (2021) by C.B. Morgan
 Urban Fantasy (TF/xenofiction)
 A boy meets a dragon in a dream... then becomes one himself. Forced to hide from humanity, he journeys to a sanctuary that they have created, mentored by the dragon from his dreams. Note: This is the author's first published novel and also happens to be adapted from the [DA fic](https://www.deviantart.com/citizenindigo/art/Dragon-Dreams-Prologue-563338138) that he wrote several years ago. (Although the prose is decent)
@@ -169,8 +176,8 @@ Yes, this is the same author who was part of the Erin Hunter team who wrote *War
 	This section is expanded upon anons' requests.
 ‎
 **The Deadlands** (2023-) by Skye Melki-Wegner
-Alternate History (xenofiction)
-Advertised as "Wings of Fire (sorry) meets Jurassic Park", this 3 book series (as of writing this) follows an alternate timeline where dinosaurs evolved intelligence, forming their own kingdoms and waging wars. 
+Action-Adventure (xenofiction)
+Advertised as "Wings of Fire meets Jurassic Park", this 3 book series (as of writing this) follows an alternate timeline where dinosaurs evolved intelligence, forming their own kingdoms and waging wars. The series follows Eleri, the disgraced son of a prince, along with herbivorous exiles from both kingdoms uncovering a sinister plot.
 **Hunted**
 **ISBN-10** 1250827698
 **ISBN-13** 978-1250827692
@@ -181,6 +188,20 @@ In this offbeat detective novel series, there are dinosaurs living among us, dis
 **Anonymous Rex**
 **ISBN-10** 0425178218
 **ISBN-13** 978-0425178218
+‎
+**Dinoverse** (1999-2000) by Scott Ciencin
+Alternate History [late Cretaceous period] (isekai/xenofiction)
+Wake up, its the late Cretaceous period, and several middle school students just got isekai'd into bodies of dinosaurs. Now they must find their way back, lest they wind up trapped forever (oh no). Originally released as a single book, it was then split and republished under 2 novels. The author would rapidly-publish 5 additional novels the following year, each with its own set of characters, bringing the final count up to 7.
+**I Was a Teenage T. Rex**
+**ISBN-10** 0679888438
+**ISBN-13** 978-0679888437
+‎
+**Quintaglio Ascension Trilogy** (1992-1994) by Robert J. Sawyer
+Science Fiction (xenofiction)
+[Summary Pending]
+**Far-Seer**
+**ISBN-10** 0441225519
+**ISBN-13** 978-1988415345
 ‎
 **Raptor Red** (1996) by Robert T. Bakker
 Historical Fiction? [late Cretaceous period] (xenofiction)
@@ -233,11 +254,11 @@ Fantasy
 **ISBN-10** 1502967170
 **ISBN-13** 978-1502967176
 
-**Dragon Knight** (1976-2000) by Gordon R. Dickson
-Fantasy (isekai)
-**The Dragon and the George**
-**ISBN-10** 0345350502
-**ISBN-13** 978-0345350503
+**Battle Dragons** (1992-2022) by Christopher Rowley
+Fantasy
+**Brazil Broketail**
+**ISBN-10** 0451452062
+**ISBN-13** 978-0451452061
 
 **The Dragons of Solunas** (2016-) by H. Leighton Dickson
 Fantasy (dragon riding)

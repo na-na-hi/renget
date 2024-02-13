@@ -27,4 +27,4 @@
 ![](https://files.catbox.moe/4crjam.png)
 ![](https://files.catbox.moe/09q9hk.png)<-
 ***
--> [%#d3d3d3% go back%%](https://rentry.co/White)<-
+-> [%#d3d3d3% go back%%](https://text.is/dormir)<-

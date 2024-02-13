@@ -39,7 +39,7 @@ Elatha | Info
 Octavio | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/4sbna3.png)   | A tyrant prince, overthrown by his people. Cursed to have the top half of a man and the bottom half of an octopus. But before he was cast into the sea, he consumed an ancient treasure that gave whoever wore it a hypnotic voice to bend others to his command. He now lives in the sea, sinking ships and taking what he pleases for fun. All the while mulling on how to reclaim his throne.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Octavio),  [Catbox](https://files.catbox.moe/1180yf.png), [CAI](https://beta.character.ai/chat?char=1aSL7mffEjgrG07alqiWttLz7MvJwMtEv4hkiGByS8M&hist=b5531d3f-158f-4655-8470-43f4c53100b4)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/Octavio),  [Catbox](https://files.catbox.moe/t73bkv.png), [CAI](https://beta.character.ai/chat?char=1aSL7mffEjgrG07alqiWttLz7MvJwMtEv4hkiGByS8M&hist=b5531d3f-158f-4655-8470-43f4c53100b4), [Alt gens](https://catbox.moe/c/6cx9u9)
 
 Cole | Info
 :----:  | :----: 

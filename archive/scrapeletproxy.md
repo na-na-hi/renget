@@ -7,8 +7,8 @@
     The proxy will be entirely funded by donations.
     The proxy will mostly use donated keys. ~~been filling with my own keys recently~~
 
-!!! note news (12/2/2024)
-    ~20 emails that I'll answer later. +2 keys. I don't trip, check this rentry.
+!!! note news
+    Out of OpenAI keys (real). 28 emails unanswered. I don't trip, check this rentry.
     FAQ: I don't host on Render, I selfhost. Also yes I'm a scrapelet if it wasn't obvious by the name of the rentry.
     Thank you key and source donators!
     It's probably going to be over in a few weeks. (I can't scrape well enough to feed this many people)

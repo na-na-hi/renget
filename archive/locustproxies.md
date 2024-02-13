@@ -1,4 +1,4 @@
-Endpoints last updated @ 2024-02-13 02:35:50.
+Endpoints last updated @ 2024-02-13 08:37:22.
 
 ## CURRENT PUBLIC PROXY 
 PROXY ENDPOINT | PASSWORD | MODEL
@@ -33,8 +33,8 @@ https://p.ecker.tech/ai/gpt  |  OPEN  | DICK PIC | GPT-4, CLAUDE |
 https://rentry.org/HopeMan  |  CLOSED | RIDDLE | CLAUDE  |  
 https://jewproxy.tech |  CLOSED  | DONATION$ | GPT-4, AWS CLAUDE, AZURE GPT-4\* |  
 https://rentry.org/miniproxy  |  CLOSED  | DONATION |  GPT-4, CLAUDE, AWS CLAUDE, AZURE GPT-4 | 
-https://rentry.org/veryfluffyproxy  |  CLOSED  | DONATION | GPT-4, CLAUDE, AWS CLAUDE |  
 https://rentry.org/cnc_proxy |  CLOSED  |   | GPT-4, CLAUDE  | 
+https://rentry.org/veryfluffyproxy  | DEAD  |  | |  
 https://rentry.org/mysteryinfo  | DEAD |   |   |
 womvat  | DEAD |   |   |
 despair  |  DEAD  |  |   | 

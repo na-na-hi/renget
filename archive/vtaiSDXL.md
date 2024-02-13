@@ -46,17 +46,25 @@
 -> [Civitai](https://civitai.com/models/177307/sdxl-higuchi-kaede-nijisanji) <-
 ##### -> Tsukino Mito <-
 -> [Civitai](https://civitai.com/models/161143/sdxl-tsukino-mito-nijisanji) <-
+##### -> Pomu Rainpuff <-
+-> [Civitai](https://civitai.com/models/273382/pomu-rainpuff-sdxl) <-
+##### -> Selen Tatsuki <-
+-> [Civitai](https://civitai.com/models/294243/selen-tatsuki-sdxl) <-
 
 #### -> Indies <-
 ***
 ##### -> Delutaya <-
 -> [Civitai](https://civitai.com/models/183537/delutaya-xl) <-
+##### -> FallenShadow / Shondo <-
+-> [Civitai](https://civitai.com/models/265519/fallenshadow-sdxl) <-
+##### -> Dokibird <-
+-> [Civitai](https://civitai.com/models/299605/dokibird-xl) <-
 
 ***
 ### -> AnimagineXL <-
 ***
 
-!!! info CURRENTLY ONLY CCC Anon's LoRAs in this section
+!!! info (according to CCC) marked LoRA's
 	CCC Anon stated all of them work fine at 1, same tags as normal loras (outside of the ones that don't have example prompts, I never tested ccc's version of them).
 
 #### -> Hololive <-
@@ -65,6 +73,9 @@
 !!! info Example Prompt
 	[Check LoRA's tags - Untested CCC's version so i don't know the best tags]
 -> [Catbox](https://files.catbox.moe/leq304.safetensors) <-
+
+##### -> (HoloForce) Tsunomaki Watame <-
+-> [Civitai](https://civitai.com/models/294722/tsunomaki-watame-sdxl-or-hololive) <-
 
 #### -> Phase Connect <-
 ##### -> (InvadersGen 2) Ember Amane <-
@@ -84,6 +95,12 @@
 !!! info Example Prompt
 	[Check LoRA's tags - Untested CCC's version so i don't know the best tags]
 -> [Catbox](https://files.catbox.moe/v10fm4.safetensors) <-
+
+##### -> (OriginS) Pipkin Pippa <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	[TAG INFO](https://rentry.org/CCC_Loras#pipkin-pippa-xl-only)
+-> [Catbox](https://files.catbox.moe/wn15lq.safetensors) <-
 
 #### -> Idol Corp <-
 ##### -> (Endless) Roca Rourin <-
@@ -148,6 +165,11 @@
 -> [Catbox](https://files.catbox.moe/kncnti.safetensors) <-
 
 #### -> Indies <-
+##### -> Dokibird <-
+!!! info Example Prompt
+	[TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427)
+-> [Catbox](https://files.catbox.moe/7u3yvi.safetensors)  <-
+
 ##### -> Eira Woolcott <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -160,7 +182,16 @@
 	(elveira, long hair, white hair, single side braid, french braid, brown eyes, hair ornament, rabbit girl, rabbit ears, rabbit tail, bare shoulders, necklace, white shirt, detached sleeves, blue high-waist skirt, white single thighhigh, brown footwear)
 -> [Catbox](https://files.catbox.moe/y3r5tf.safetensors) <-
 
+##### -> Neuro-sama V2 + Evil Neuro + Vedal <-
+!!! info 2 Outfits for both neuro and evil neuro?
+-> [Civitai](https://civitai.com/models/276788/neuro-sama-and-evil-neuro-2-outfits-turtle) <-
+
 ***
 ### -> PonyXL <-
 ***
-EMPTY FOR NOW, WILL ADD WHEN I FIND WHICH ONES ARE TRAINED ON PONY
+#### -> Hololive <-
+##### -> Gawr Gura <-
+!!! info can do 3 outfits?
+-> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/folder/Zf4nFKyJ) <-
+##### -> Hololive -Promise- <-
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ) <-
