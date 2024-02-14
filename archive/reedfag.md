@@ -10,6 +10,7 @@ Also, Snoot spoilers below, so beware. I advise you to skip the Fang table if yo
 Also, check this guy out: https://rentry.org/Snoot-Delucks
 
 Current ideas:
+**REMAKE ALL THE WANI CHARACTERS NOW THAT THE GAME IS OUT**
 Update: Disco Elysium Ledger, Fang cards
 Test:
 Make new stuff (maybe): Anon (E1,E2), Sage (female), Schizo-chan (male), Nick (male)

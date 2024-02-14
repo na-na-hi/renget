@@ -174,7 +174,7 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what students to prioritise, just go to the 'Teambuilding' sheet (or click on the imgur). 
 
-Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the best unit in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
+Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the strongest starter in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
 For healers, buffers, and tanks you can ignore their environment mood and attack type. 
 Always run full teams (6 students). 
 Supports (role) =/= DPS. They SUPPORT you by bringing CC. They do not deal good damage. 
@@ -190,8 +190,8 @@ There are strategies where you put certain units on the edges for better angles,
 Your units also have different environmental moods (affinity) depending on the terrain. While this isn't a major concern early on, once you have a big enough roster you can try swapping around some units.
 ![Affinity](https://i.imgur.com/8kE8mtH.jpg) 
 
-The sub skill of supports don't stack with each other if they have the same description (e.g. double ATK sub skills don't stack). If they are the same, the level of the support in the right slot's sub skill will be used. Not the highest level one. 
-For raids the strongest support combo is (generally) Crit DMG + ATK sub skill. 
+The sub skill of supports (or specialists) don't stack with each other if they have the same description (e.g. double ATK sub skills don't stack). If they are the same, the level of the support in the right slot's sub skill will be used. Not the highest level one. 
+For raids the strongest support combo is (generally) Crit DMG + ATK sub skill. Ideally you'd replace one of them with cost recovery. 
 
 [This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) provides a more comprehensive and up-to-date guide to team formations.
 

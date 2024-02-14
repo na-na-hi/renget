@@ -1,5 +1,5 @@
 #/AICG/ SECRET VALENTINES 2024
-!!! info Happy Valentine's Day, Kiribati! [Click here to see when it ends.](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive)
+!!! info Happy Valentine's Day! [Click here to see when it ends.](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive)
 ->![](https://files.catbox.moe/rmhzlu.gif)<-
 [TOC]
 
@@ -22,9 +22,9 @@ Bots posted during Valentine's Day will be listed below.
 CODENAME|NAME|PILOT|LIVE FEED|DOCUMENTS
 ---|---|---|---|---
 V-00 "VALENTINE"|Robo-Saint V|**[CLASSIFIED]**|![](https://files.catbox.moe/p2cq5d.gif)|%red% **[ACCESS DENIED]** %%
-V-01 "WOLF"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-01 "WOLF"|Henkei|Lumen|![](https://files.catbox.moe/669z9f.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/zl-henkei-model-e4944695)** %%
 V-02 "PILOT"|Rikerr|Planewalker|![](https://files.catbox.moe/5d3ekt.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/rykerr-c93bd093) [[CATBOX LINK]](https://files.catbox.moe/fg2ddu.png)** %%
-V-03 "UMAMI"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-03 "UMAMI"|Amiel|chefseru|![](https://files.catbox.moe/gvp879.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amiel-2879a3a9/main) [[CATBOX LINK]](https://files.catbox.moe/tpymy6.png)** %%
 V-04 "PRINCE"|Lisette|Lunare|![](https://files.catbox.moe/ix4bjs.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/lisette-ba5fe39d) [[CATBOX LINK]](https://files.catbox.moe/osycw5.png)**%%
 V-05 "FATHER"|Malvét|Astroturf|![](https://files.catbox.moe/p2cnq0.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/malvet-8efecb82/) [[CATBOX LINK]](https://files.catbox.moe/ho9cyu.png)** %%
 V-06 "BEACH"|Ellie|Victrex|![](https://files.catbox.moe/oyh6oo.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/ellie-6d6c7137) [[CATBOX LINK]](https://files.catbox.moe/xeegew.png)** %%
@@ -40,7 +40,7 @@ V-14-β "OTHER"|Duchine|Anon77|![](https://files.catbox.moe/82gl7c.gif)|%green% 
 V-15 "AUK"|Sandy|MrSexSexSexSexSexSex|![](https://files.catbox.moe/p0pokj.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/sandy-3f497c95/main) [[CATBOX LINK]](https://files.catbox.moe/ep7zzk.png)** %%
 V-16 "BRAT"|Camilla|Sull|![](https://files.catbox.moe/jdpkki.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/camilla-bbb85f7b) [[CATBOX LINK]](https://files.catbox.moe/mid3kj.png)** %%
 V-17 "MANTIS"|Mothy|NotSoFresh|![](https://files.catbox.moe/4pzzrf.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/darkfantasy109/mothy-b7d923b4) [[CATBOX LINK]](https://files.catbox.moe/n5k3vx.png)** %%
-V-18 "BROTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-18 "BROTHER"|Lorelei|CrustCrunch|![](https://files.catbox.moe/8y9l2r.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/yg97jc.png)** %%
 V-19 "DISTANCE"|Lasha and Nikoloz|Cop_223|![](https://files.catbox.moe/bsq5iw.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/lasha-and-nikoloz-5179b859/main) [[CATBOX LINK]](https://files.catbox.moe/4ujyfj.png)** %%
 V-20 "NEMO"|Global CCTV System|MrNobody99|![](https://files.catbox.moe/2huvmr.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/global-cctv-system-44ea0ee9) [[CATBOX LINK]](https://files.catbox.moe/d0roow.png)** %%
 V-21-α "GRANDMA"|Blaidd Illwyd|yuritard|![](https://files.catbox.moe/b4i3vw.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/72zefn.png)** %%
@@ -55,16 +55,16 @@ V-26 "BUN"|Narcisa|Scrimb|![](https://files.catbox.moe/f5ir8n.gif)|%green% **[[C
 V-27 "ROGUE"|**[REDACTED]**|**[CLASSIFIED]**|Connection error|**DELAYED**
 V-28 "BUILDER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-29 "SPRING"|Yosakurahime|Horcocks|![](https://files.catbox.moe/rax13q.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/yozakurahime-fec6365b) [[CATBOX LINK]](https://files.catbox.moe/sdgoa3.png)** %%
-V-30 "FAIRY"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-31 "MOTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-30 "FAIRY"|Geneviève|pixi|![](https://files.catbox.moe/og80rq.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/gnw2y8.png)** %%
+V-31 "MOTHER"|Alana and Miria|Slopass|![](https://files.catbox.moe/7ze17c.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Sull/alana-and-miria-7991651c/main) [[CATBOX LINK]](https://files.catbox.moe/f3se9c.png)** %%
 V-32 "UNREAL"|**[REDACTED]**|**[CLASSIFIED]**|Connection error|**DELAYED**
 V-33 "CUMIN"|Bobby|GoreKitten|![](https://files.catbox.moe/72i5az.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/gi3rgz.png )** %%
 V-34 "CHEAT"|Kaito|Anxiousretard|![](https://files.catbox.moe/vm3nkd.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/bb1x32.png)** %%
 V-35 "NEPTUNE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-36 "BEAR"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-36 "BEAR"|Ronan|Wanderingstar|![](https://files.catbox.moe/gdbeti.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/ronan-251c74f7) [[CATBOX LINK]](https://files.catbox.moe/di0xno.png)** %%
 V-37 "DUMBBELL"|Eloise|Granmarg|![](https://files.catbox.moe/qncibz.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/eloise-cdb56f74)** %%
 V-38 "HUMAN"|Katzette|Anti|![](https://files.catbox.moe/bkkuop.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/katzette-8583d2c2/main) [[CATBOX LINK]](https://files.catbox.moe/k117as.png)** %%
-V-39 "HERO"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-39 "HERO"|Djinn Ardor|ShonenAnon|![](https://files.catbox.moe/z3eij5.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/SpiritofDoran/djinn-ardor-569adad9) [[CATBOX LINK]](https://files.catbox.moe/08do6u.png)** %%
 V-40 "PRINCESS"|Abriya Taggart|Kingvalntula|![](https://files.catbox.moe/u6r1p2.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/abriya-taggart-5b3f594f/main)** %%
 V-41 "BUSH"|Ginevra|TheSaviorHag88|![](https://files.catbox.moe/flfs0b.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/pfeg4t.png)** %%
 V-42 "RELAY"|Buddy|Alpacalotta|![](https://files.catbox.moe/s3twvn.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/astroturf/buddy-75ec89f3)** %%

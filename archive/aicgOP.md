@@ -31,7 +31,7 @@ https://rentry.org/charcardrentrylist
 https://rentry.org/tavern4retards - https://rentry.org/agnai_guides
 
 >Jailbreaks
-https://rentry.org/Jail-Breaks-for-Different-Models
+https://rentry.org/jb-listing
 
 >Frontends
 https://sillytavern.app [SillyTavern]

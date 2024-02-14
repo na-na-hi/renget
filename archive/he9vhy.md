@@ -6,7 +6,9 @@ Beast dipped his sponge into back into the bucket and continued to scrub the flo
 
 ->![does munchlax have knees? hell if i know, n'wah!](https://files.catbox.moe/higl8e.png)<-
 
-In the past two weeks he was able to work that                    
+In the past two weeks he was able to work that mess of a room into a functional kitchen up to his standards. His equipment could certainly be better, as it was just second-hand pots and pans supplied to him by the guildmaster. But they got the job done, which was all he cared about at the moment. 
+
+                 
 For the first time in a very long time, he was back to cooking by himself, with no rookie cooks that would tolerate his screaming. He had to cook for a large group of rather hungry people, so his meals usually consisted of things like stews, pasta, or hotcakes for the ones that demanded seconds. He missed putting delicate love into each plate.
 
 The other guild members all talked in an esoteric manner, insulting him or each other in some sort of dialect that he could never decipher. A few of the members seemed to be actually from around here, but they didn't seem to mind their odd babble as much as he did. 

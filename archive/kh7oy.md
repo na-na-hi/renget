@@ -12,10 +12,10 @@ Future Release Dates:
 「!」 Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
+「!」Princess Peach: Showtime! 4th Trailer (Figure Skater, Dashing Thief, Mermaid, and Mighty Peach)
+https://www.youtube.com/watch?v=TjC5wETyIsE
 「!」Mario vs. Donkey Kong Overview - 3rd Trailer
 https://www.youtube.com/watch?v=p_RypCfeXp4
-「!」Princess Peach: Showtime! 3rd Trailer (Ninja Peach and Cowgirl Peach)
-https://www.youtube.com/watch?v=kGJIpCAkc-0
 「!」"Donkey Kong Country" Park - Super Nintendo World Expansion Trailer
 https://www.youtube.com/watch?v=OY_v1w9ALC8
 https://dtimes.jp/post-512278/

@@ -14,7 +14,8 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=9aiuzVI35BQ
 
 \>Streams
-Next stream: Valentine's with Nerissa (Wed 02/14 7PM CT)
+Next stream (Valentine's with Nerissa, Wed 02/14 7PM CT)
+https://www.youtube.com/watch?v=VFDDLyh_ALY
 Last stream (Stardew Valley)
 https://www.youtube.com/watch?v=zKpjv4HXhO4
 Previous unarchived stream (Pre-Valentines karaoke)

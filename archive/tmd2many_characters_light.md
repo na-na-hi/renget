@@ -7,7 +7,7 @@ Light's a young but experienced fighter. She's no rescuer, but her job *does* in
 ---- | ----
 **Origin:** Native | **Occupation:** Wannabe-Peacekeeper
 **Species:** Raboot | **Affiliation:** "Justice"
-**Level:** 25 | **Experience to Next Level:** 0/625
+**Level:** 30 | **Experience to Next Level:** 0/625
 **Worn Item:** *Soft Ribbon* | **Clothing:** *Oversized Cowboy Hat*
 **Pokécoin:** 1,000₽ | **Glorious Gold:** 2 Bars
 
@@ -19,21 +19,21 @@ Libero | The User's Type changes to match the Move they are about to use.
 -> *A maybe-genuine sheriff's badge.* <-
 ->![This town ain't big enough for the both of us...](https://archives.bulbagarden.net/media/upload/2/28/Gold_Rank_RTDX.png)<-
 
-Stat | Points: 6 (+1) | Modifiers | Combat Effect
+Stat | Points: 7 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 25 (26HP) | 26HP
-Attack  | 2 | Level Damage Bonus **ɪ** | +3 Physical Damage
-Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
-Special Attack | 2 | Level Damage Bonus **ɪ** | +3 Special Damage
-Special Defense | 2 | ɴᴏ ʙᴏɴᴜs | +2 Special Mitigation
-Speed | 3 | Species Bonus | 6AP
+Health Points | 0 | Level 30 (28 HP) | 28 HP
+Attack  | 2 | Level Bonus **ɪ** | +3 Physical Damage
+Defense | 1 | Level Bonus **ɪ** | +2 Physical Mitigation
+Special Attack | 2 | Level Bonus **ɪ** | +3 Special Damage
+Special Defense | 2 | Level Bonus **ɪ** | +3 Special Mitigation
+Speed | 3 (+1) | Species Bonus | 6 AP
 
 **MOVES**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Mud Shot | 5 BP | 6 AP | ≥2 | Ground | Special | The Opponent's Speed is decreased by 1.
-Gunk Shot | 12BP | 8AP | ≥5 | Poison | Physical | 14-20; The Opponent is afflicted with *Poison*.
-Low Sweep | 6 BP | 6 AP | ≥2 | Fighting | Physical | The Opponent's Speed is decreased by 1.
+Mud Shot | 5 BP | 6 AP | ≥2 | Ground | Special | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1.
+Gunk Shot | 10 BP | 8 AP | ≥5 | Poison | Physical | 14-20; The Opponent is afflicted with *Poison*.
+Low Sweep | 6 BP | 6 AP | ≥2 | Fighting | Physical | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1.
 Substitute | - | 4 AP | - | Normal | Status | The User loses ¼ of their Max HP. The User is afflicted with *Substitute*.
 Excavate | - | 4 AP | - | ??? | Status | The User tunnels through most surfaces, similar to Dig.
 
@@ -45,15 +45,15 @@ Sand Attack | I ain't afraid o' playin' dirty!
 Agility | You're gonna hafta work harder than that!
 
 **SPECIAL BONUSES**
-!!! note You have three active IQ slots (numbered below) and may purchase as many as you can afford.
-    ??? IQ points to spend.
-IQ Skills Active/Inactive | Description of Skill
------- | :----: 
-1. Innocent | The User is perceived as more friendly but they receive a -3 penalty to lying.
-2. Tight-Fisted | The User's Items cannot be stolen.
-3. Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2.
-Eᴍᴘᴛʏ | Description.
-Eᴍᴘᴛʏ | Description.
+!!! note 250 IQ points to spend.
+	0/10 | ▯▯▯▯▯▯▯▯▯▯
+IQ Skills Active/Inactive | Description of Skill | IP Cost
+------ | :----: | ------
+1. Power Pitcher | The damage of the User's Throwable Items is increased by 3. | 5 IP
+2. Tight-Fisted | The User's Items cannot be stolen. | 4 IP
+3. Duelist | When in an even battle, for the first round the User attacks, damage is increased by 5, but damage is decreased by 5 the round after. | 0 IP
+4. Deadeye | If there are at least 3 Opponents, the User can hit 3 targets with Throwable Items at the AP cost of 1. | 0 IP
+Eᴍᴘᴛʏ | Description. | 0 IP
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
@@ -74,22 +74,20 @@ Currently Training for Stat: ??? ᴍᴀx (+3) | 9/9 | ▮▮▮▮▮▮▮▮�
 Item Name | Description
 ------ | :----: 
 *Worn Item: Soft Ribbon* | The User's Ground-Type Moves have their damage increased by 2.
-*Equipped Item: N/A* | Vacant hand slot.
-1. Sitrus Leaf (3) | Heals 5 HP
-2. Decoy Seed | The Opponent is afflicted with *Infatuated*.
-3. Decoy Seed | The Opponent is afflicted with *Infatuated*.
-4. Iron Thorn (5) | Deals 6 true damage.
-5. Encourage Seed | The User's Crit Ratio is increased by 1 and their Moves never miss for 4 turns.
-6. Stun Seed | Causes Petrified on consumption.
-7. Stun Seed | Causes Petrified on consumption.
-8. None | ???
+*Equipped Item: Slingshot* | The User's Throwable Items only cost 3 AP to use when loaded into the slingshot. Once something is loaded into the Slingshot, it cant be removed until used.
+1. Sitrus Leaf x3 | Heals 5 HP
+2. Iron Thorn x5 | Deals 6 true damage.
+3. Iron Thorn x5 | Deals 6 true damage.
+4. Decoy Seed | The Opponent is afflicted with *Infatuated*.
+5. Stun Seed | Causes Petrified on consumption.
+6. Encourage Seed | The User's Crit Ratio is increased by 1 and their Moves never miss for 4 turns.
 
 **STORAGE (4 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Piercing Poncho | Thrown Items have a 25% (Roll lands 15-20) to hit a second enemy. Can chain.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

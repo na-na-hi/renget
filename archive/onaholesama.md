@@ -1,5 +1,5 @@
 # onaholesama's furshit
-->![fugg u](https://files.catbox.moe/2250cu.jpg)<-
+->![uwu](https://pouch.jumpshare.com/preview/Lx_ToWdbR-YzRl1kRg-JRRA3aI1U5aDnTSzfXohWz2mGHaAWr2uqub9CmIi3eBL7HSRn53BWEiCIacL3Tw1jnNKM3midSn-MT0boqCCmo0w)<-
 ***
 https://waa.ai/onaholesama
 ***
@@ -62,6 +62,7 @@ Image| Name | Description | Link
 lot of femdom and fluffy shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![so you're just going to start fingering a blind girl?](https://files.catbox.moe/36wobq.png) | Lennie | Kinky blind fox girl | [CHUB link](https://www.chub.ai/characters/onaholesama/lennie-9ca10e54)
 ![DRILL SERGEANT](https://files.catbox.moe/4esmyl.png) | Samantha Thott **(updated again)** | Beagle who can't feel pain. | [CHUB link](https://chub.ai/characters/onaholesama/samantha-thott-329b28bb)
 ![Shelbster](https://files.catbox.moe/mdkbeu.png) | Shelby | (You) get assigned to an Anthrostate inspector | [CHUB link](https://chub.ai/characters/onaholesama/shelby-f7dfbd20)
 ![only because you fags requested it](https://files.catbox.moe/n00ncl.png) | Daro'dasha Ravihirin | generic DALLE-slop coombot. Cathay-raht Khajjit who lives in Falkreath | [CHUB link](https://www.chub.ai/characters/onaholesama/darodasha-ravihirin-aeb82abe/main)

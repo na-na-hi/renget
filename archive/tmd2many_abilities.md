@@ -212,7 +212,7 @@ Quark Drive | The User's highest Stat is increased by 3 while in Electric Terrai
 **Queenly Majesty** | At no cost, the User may appoint 3 Royal Disciples. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 **Quick Draw** | The User has a 30% chance to increase AP by 1 at the start of the battle.
 Quick Feet | While the User is Burned, Speed is increased by 2.
-Rain Dish | The User heals 2 HP each turn while in Rain.
+Rain Dish | While in Rain, the User heals 2 HP each round.
 **Rattled** | When hit by a Dark, Ghost, or Bug-Type Move, the User's Evasion is increased by 1.
 Receiver | The User copies an Ally's Ability after they faint, replacing Receiver.
 Reckless | The User's Recoil Moves have their damage increased by 1.
