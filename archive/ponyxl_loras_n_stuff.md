@@ -21,6 +21,7 @@ https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003,
 https://files.catbox.moe/d9k7nf.safetensors slay_the_princess a visual novel that came out last year that has a sketchy art style, supports 5 of the game's characters: adversary, specter, nightmare, tower, and witch you have to prompt for their features to get them to show up, this file has the characters with their associated tags: https://files.catbox.moe/uprfne.txt, here's some example gens: https://files.catbox.moe/32eskz.png, https://files.catbox.moe/c87hl7.png, https://files.catbox.moe/kp5hbk.png, https://files.catbox.moe/jta8v1.png, https://files.catbox.moe/jsz1rp.png
 https://files.catbox.moe/te26ne.safetensors braces activation trigger is braces, some colors were tagged, rainbow braces, red braces, yellow braces, pink, braces, you pretty much HAVE to inpaint because the target area is typically going to be quite small in the image, could also try adetailer lips model
 https://litter.catbox.moe/onephu.safetensors waffen-ss Activation tag is WaffenSS but you can add : black military uniform, black military hat, swastika armband
+https://files.catbox.moe/f6r1nl.safetensors shared_clothes keyword is SharedClothes, example gen: https://files.catbox.moe/oddiam.png
 
 ###Artists/Styles
 These don't require activation triggers unless otherwise stated. Some of these had been previously uploaded to litterbox because they were too large for catbox. Unfortunately the links have expired, I've replaced them with resized versions that are just a couple ranks smaller so hopefully there's no quality loss. These replacement LoRAs have resized on the end of their names. I removed the original ones so people who were lucky enough to download them won't have them overwritten.
@@ -134,6 +135,8 @@ https://files.catbox.moe/r7wm1x.safetensors Shigenori_Soejima
 https://files.catbox.moe/j8gok0.safetensors Kinu_Nishimura
 https://files.catbox.moe/8ldykm.safetensors Kesoshirou
 https://files.catbox.moe/sgx2q8.safetensors tsuma_shibori
+https://files.catbox.moe/ciy9qc.safetensors majikoi
+https://files.catbox.moe/0qy5os.safetensors mantis-x
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -185,6 +188,8 @@ https://files.catbox.moe/zrudlt.safetensors character_harp_note has a complicate
 https://files.catbox.moe/j7p2f3.safetensors character_ame-chan Trigger token is ame-chan
 https://files.catbox.moe/h3udxn.safetensors character_neptune Trigger token is smolneptune Outfit: hooded jacket, white choker, d-pad hair ornaments, blue striped thighhighs, blue striped panties Can also closely replicate her frilled swimsuit with 'orange frilled bikini'.
 https://files.catbox.moe/80ioqv.safetensors character_nepgear Trigger token is nepugia Outfit: long-sleeve sailor dress, d-pad hair ornament, white choker, pink striped thighhighs, yellow neckerchief, pink striped panties, thigh strap
+https://files.catbox.moe/uveemt.safetensors character_hanabi Trigger phrase "hanabi hsr" to get her to gen, "fox mask" for her mask(s), "mask on head" to get the mask on her head, "black gloves" for her gloves
+https://files.catbox.moe/9sc9aj.safetensors character_hiragi_kagami example gens: https://files.catbox.moe/6j5etd.jpg, https://files.catbox.moe/22j10a.jpg, https://files.catbox.moe/vkuomy.jpg, https://files.catbox.moe/855i66.jpg
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯

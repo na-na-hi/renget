@@ -24,7 +24,7 @@ It is recommended to include specific names for every character mentioned in the
 
 > Summary: Set in the near future, **junior high school teacher-turned-astronaut Ryland Grace** emerges from a coma with amnesia.
 
-Furthermore, we can improve the direction of the story by adding a *dramatic/story* question,  
+Furthermore, we can improve the direction of the story by adding a *Dramatic/Story* Question,  
 such as:
 
 > Summary: Set in the near future, junior high school teacher-turned-astronaut Ryland Grace emerges from a coma with amnesia... **_Can_ he solve the mystery of what happened to him and why he's been brought aboard the International Space Station?**
@@ -34,7 +34,12 @@ This entire block is _what your story is about_—We don't need to plan out our 
 
 Consider adding someone else who will be doing something that your protagonist doesn't like, or some sort of time check:
 
-> In a circle of awful **men**, there is an app called "Date Service" that is being passed around. The app lets users select anyone in the area and the app will take care of the rest—apparently, his family members are being selected left and right... Can Ken break the hypnosis and bring them back before their personalities are completely erased?
+> Summary: In a circle of awful **men**, there is an app called "Date Service" that is being passed around. The app lets users select anyone in the area and the app will take care of the rest—apparently, his family members are being selected left and right... Can Ken break the hypnosis and bring them back before their personalities are completely erased?
+
+You can also exclusively use Story Question without Summary:
+
+> Failure State: unable to survive in the city
+> Story Question: can varjak find a way to save and rescue his family?
 
 ***
 
@@ -44,8 +49,8 @@ The [official](https://docs.novelai.net/text/specialsymbols.html#-spaced-bracket
 
 > [ Tags: realistic depiction of war, shield and spear combat, non-traditional fantasy, inexperienced and scared protagonist ]
 
-Like the Summary above, this is an extremely useful tool for telling the AI what your story is about, but in a more abstract/concise form.  
-In a way, ATTG is an initializer for the Summary, and the entire Memory is an initializer for the Storytext.  
+Like the Summary above, this is an extremely useful tool for telling the AI what your story is about, but in a more abstract/concise form, as well as mimicking professional writing.  
+
 ATTG in its entirety can contain:
 
 > [ Author: Brandon Sanderson; Title: Sixth of the Dusk; Tags: jungle archipelago, rare birds grant people powers, death at any moment, exotic story-specific species, corpse premonition, survivalist loner protagonist, birds catcher and specialist, change vs tradition; Genre: high fantasy, science fiction, suspense ]
@@ -61,11 +66,12 @@ Be concrete and try not to be too narrow.  Remember, the ATTG represent your sto
 > [ Author: Andy Weir; Title: Randomize; Tags: Las Vegas casino, disruptive technology, pragmatic boss, gambling industry, quantum computer, cheaters, face-to-face encounter, mind game; Genre: contemporary, speculative fiction, science fiction ]
 > Summary: The first commercially available quantum computer is out on the market, and it's about to change the way casinos do their business. Can Edwin Rutledge, a casino owner of Babylon, protect his business from an impending threat?
 
-> [ Title: Inside the Mysterious Cube; Tags: anthropomorphic animals, town setting, supernatural item, detective protagonist, cat protagonist, sarcastic humor, NSFW, monster attacks; Genre: young adult, urban fantasy, paranormal ]
-> Summary: In the city of Kitteridge, where many non-humans live together along with cats, wolves, foxes, and birds, there is a magical wall that protects them from monsters outside the wall. Qwilleran is a young trainee detective who often teases because of his age. One day when he was on patrol, he found an unusual sticky notepad that can make anything written on it become real... Can Qwilleran stop the troublemaker before the town is destroyed, or will he use this power for himself?
+> [ Title: Cthulhu Cardfight!!; Tags: magical artifacts that come with risk, card games, accidentally turn your family into servants, common sense swap, sword and cards in normal house, aphrodisiac effects, otherwordly presence; Genre: supernatural, action, erotica ]
+> Failure State: unable to fight off the monsters that came from the cards
+> Story Question: can danny survive the night?
 
-> [ Title: Varjak Paw; Tags: cat fiction, survival in the city, innocent and blunt protagonist, hunger and cruelty, unexpected friendships, being Mesopotamian Blue, in the midst of gangs, Seven Skills of The Way; Genre: grimdark, animal fiction, middle grade ]
-> Summary: Never go outside, his grand family told him. Yet their ancestor Jalal came from outside, from Mesopotamia. Varjak Paw is a young cat with blue eyes instead of green, bullied for being different. He loves to listen to Elder Paw's stories about Jalal and the seven skills of The Way: Open Mind, Awareness, Hunting, Slow Time, Circle Walking, Shadow Walking, and Trusting Yourself. Everything changes when the Contessa dies and the Gentleman takes over her hilltop mansion—having escaped, Elder Paw's last words tell Varjak to leave and bring back a dog to scare away the Gentleman and his black cats. Problem is, Varjak has no idea what a dog is—finding his way around the city will be tough, who can help him? The streets are roamed by gangs: Ginger is well-known on the East Side, while Sally Bones' gang is feared by all cats! Will Varjak ever find a dog to bring home? Why are cats disappearing, or "The Vanishing"? And what are the strange robot cats he sees in the city?
+!!! warning AI keep generating non-fiction in story?
+    You will need some prose first, try typing some beginning words, or only use ATTG for a few generations.
 
 !!! info Auto Summarization
 	If you want the AI to write a summary for an already existed story.
@@ -73,9 +79,6 @@ Be concrete and try not to be too narrow.  Remember, the ATTG represent your sto
 	`[ Knowledge: story; Style: summary ]`  
 	`The story so far:`  
 	Then hit generate.
-
-!!! warning AI keep generating non-fiction in story?
-    You will need some prose first, try typing some beginning words, or only use ATTG for a few generations.
 
 ####learn more
 

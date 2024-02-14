@@ -19,7 +19,7 @@ Current bans:
 Reddit: This account has been suspended .
 4chan: Ban evasion (30 days)
 ~~2ch~~
-TO-DO LIST: Create a new fucking bot.
+TO-DO LIST: Stop the descent into depravity as soon as possible.
 
 ##KYS list
 ->![If you are here — die a very gruesome death.](https://files.catbox.moe/chgqu1.gif)<-
@@ -27,7 +27,8 @@ TO-DO LIST: Create a new fucking bot.
 - **jannies**
 - **mrnobody99**
 - **astroturf**
-
+- **ironanon**
+- **darkfantasy109 (very sad!)**
 ***
 [TOC]
 

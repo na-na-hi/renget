@@ -59,7 +59,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 %#dcc6c2%Move%% | %#dcc6c2%Base Power%% | %#dcc6c2%Action Points%% | %#dcc6c2%Accuracy%% | %#dcc6c2%Type%% | %#dcc6c2%Property%% | %#dcc6c2%Description%%
 --- | -- | -- | - | :-: | :-: | ---------
 %#ff82b6%G%%%#d77bba%r%%%#76428a%av%%%#4d2f63%ity%% | - | 4 %#7c57ff%AP%% | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
-Disarming Voice | 4 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
+Light Screen | - | 4 %#7c57ff%AP%% | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Special Moves.
 Shock Wave | 6 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
 Flash | - | 4 %#7c57ff%AP%% | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
 Basic Attack | 4 %#ac3232%BP%% | 4 %#7c57ff%AP%% | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/zEMIRAISZUgDctRcYOnWHIXa) | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -145,6 +145,7 @@ Key Item | None | None
 %#dcc6c2%Name%% | %#dcc6c2%Base Power%% | %#dcc6c2%Action Points%% | %#dcc6c2%Accuracy%% | %#dcc6c2%Type%% | %#dcc6c2%Property%% |%#dcc6c2% Description%%
 --- | -- | - | - | - | - | ---------
 Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
+Disarming Voice | 4 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
 None | - | - | - | - | - | This Move does not exist yet.
 
 ***

@@ -112,7 +112,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
 	* [The Adrian and Enny Adventure](https://rentry.org/AdrianEnnyCave)
     * [Team Moonshine: The Evolution Situation](https://rentry.org/moonshinevile)
-* Beast the Munchlax
+* !~ %green%[Beast the Muchlax](https://rentry.org/twafrentry)%% ~!
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
 	* [The Wag of a Finger: Nobody Outpizzas the Munch (ft. Beast)](https://rentry.co/tfisz8)
@@ -212,6 +212,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [I am Error pt. 2](https://rentry.org/ironvaliant2)
 	* [I am Error pt. 3](https://rentry.org/ironvaliant3)
 	* [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
+	* [Aura Dog Day (ft. Turk the Lucario)](https://rentry.org/turklucario2)
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
@@ -575,6 +576,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
 * [Rain Prologue](https://rentry.co/ww6axip9)
 * [The Great Bulk ch. 9 (ft. Makky)](https://rentry.org/GreatBulk9)
+* [Aura Dog Day (ft. Turk the Lucario)](https://rentry.org/turklucario2)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

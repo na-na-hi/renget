@@ -115,7 +115,7 @@ Nevertheless, her reputation is such that such incidents rarely happen, especial
 
 ![Roboco](https://static.wikia.nocookie.net/virtualyoutuber/images/c/cd/Robocosan_V3_Full_Body.png/revision/latest?cb=20221212195900)
 
-###Leader: Roboco-san
+*Leader: Roboco-san*
 
 *Size: 25’000 km2*
 
@@ -163,7 +163,7 @@ In coordination with her robotic body, she is more than capable of using this in
 
 ![Hoshimachi Suisei](https://static.wikia.nocookie.net/virtualyoutuber/images/2/2f/Hoshimachi_Suisei_3D_Model_Transparent.png/revision/latest?cb=20221002211704)
 
-###Leader: Hoshimachi Suisei
+*Leader: Hoshimachi Suisei*
 
 *Size: 25’000 km2*
 
@@ -229,7 +229,7 @@ Her enthusiasm to use her axe to split skulls has often alarmed the others, part
 
 ![Yozora Mel](https://static.wikia.nocookie.net/virtualyoutuber/images/b/ba/Yozora_Mel_3D_Model.png/revision/latest?cb=20221002201426)
 
-###Leader: Yozora Mel
+*Leader: None (Formerly Yozora Mel)*
 
 *Size: 27’000 km2*
 
@@ -293,7 +293,7 @@ Although not giving the appearance of one who would seem a strong fighter, Mel h
 
 ![Shirakami Fubuki](https://static.wikia.nocookie.net/virtualyoutuber/images/6/63/Shirakami_Fubuki_-_3D_Model_01-4.png/revision/latest?cb=20211006092513)
 
-###Leader: Shirakami Fubuki
+*Leader: Shirakami Fubuki*
 
 *Size: 29’000 km2*
 
@@ -342,11 +342,77 @@ Playing upon the fact that literally any fox could be Fubuki in disguise, she us
 
 Shirakami Fubuki is in possession of a mighty sword, a pair of twins. The one she carries has a mastery over water, while the other was gifted to Mio on her birthday long ago. Her sword is known by the moniker of Uzumi. With this blade, Fubuki can control the tides and the waters with masterful efficiency, often utilizing them for high precision combat maneuvers. As with other beastly demigods, she can also turn into an animal, in this case being a fox of varying size. Although her giant fox form is quite vicious and feral, she rarely uses it as she is not a violent sort, preferring instead to meander about in her land as a small arctic fox instead.
 
+##Decapitated Tsardom of Akai
+
+![Akai Haato/Haachama](https://static.wikia.nocookie.net/virtualyoutuber/images/3/3a/Akai_Haato_3D_Model.png/revision/latest?cb=20221002202736)
+
+*Leader: Akai Haato/Akai Haachama*
+
+*Size: 20’000 km2*
+
+*Population: 5.42 Million.* 
+
+*Founding Date: Year 21.* 
+
+*Capital: Toku.*
+
+###Geography and Infrastructure
+The geography of this country has a peculiar feature in that it drastically changes depending on whomever is in charge. If Akai Haato is in control, then the land is for the most part unremarkable. A coastal nation, much of the country is tropical or subtropical along the shore, becoming more temperate as one goes further inland. It is fairly flat with many rivers and smaller hillocks.
+
+This all changes dramatically if Haachama is in control. In that case, the biomes become unpredictable, to the point where cartography becomes to all intents and purposes useless. As it is not possible to create a consistent description of the country’s geography when Haachama reigns, it is best to describe it as “anything goes.”
+
+Though formerly quite rich, the economy of this country has been stagnating for quite some time. This is a consequence of other countries being reluctant to trade as whenever the country shifts to Haachama, any foreigners still inside are almost always lost. This also applies to tourism. Very few people visit because they are worried of being stuck inside when a switch happens. Every time Haachama gains control, a mass casualty event occurs. 
+
+Although Haachama does not harm her own citizens (physically, for the most part), she does not tolerate foreigners. Nobody has yet asked her why this is, because nobody is brave enough to get close enough to ask. She is the most feared of all the demigods. The only plus side is this fear extends to monsters as well. The Decapitated Tsardom boasts the lowest number of monster attacks in the entire known world. Even wild beasts fear Haachama and the possibility of her appearing.
+
+Because of this, the economy is slow to grow, and some resources can become scarce at times. However, this has never reached a level of famine or abject poverty. Akai Haato is thankfully economically gifted and is quite good at managing her nation when she is in charge. As much as is undone when her other side shows up, she takes steps to ensure some remains. In short, their economy and infrastructure is two steps forward and one step back. Physically they are bordered by Miyabi to the west, AZKi to the north, Fubuki to the east, and the ocean to the south. 
+
+###Flag
+The nation’s flag has two sides. Which side is flown depends on whichever personality is in control at the moment.
+
+If Akai Haato is in command, the flag is a white field with two vertical blue lines running from top to bottom on the right and left sides. In the center is a golden disk with a red heart. 
+
+If Haachama is in control, the flag is a blood red field with a black heart on the left side. Two white triangles with black bands along their longest side are in the upper right and bottom right corners. 
+
+###General Overview
+The Decapitated Tsardom is quite possibly the most erratic of all the nations on the known world, as it is the only one which completely changes based on chance. The story of this peculiar land is shrouded in myth and fact equally. It is said that Yagoo attempted to create two beings, twins, to govern one land as an experiment. Both would cover one aspect of the soul’s personality, a living yin and yang so to speak.
+
+It is thus unknown as to what exactly went wrong. Some say this incident occurred before she was born, others say it happened in battle. What is known is that the twins died, legend also stating at their own hands. Yet due to the peculiarity of their two powers they survived in a fashion. Now both souls inhabit the same body, constantly fighting for control. Whenever one gains control, the entire country shifts its form to better reflect one of the two. Akai Haato is more orderly, while the one known as Haachama is madness incarnate. 
+
+Those who live in this land are simultaneously aware of this odd dichotomy as they are indifferent. They have simply accepted it as fact of life. As a consequence of the dual nature of their demigoddess, the citizens too have a dual nature. Like their ruler, they are two souls in one body. Whichever one is in control depends entirely on which personality of the demigoddess is active. This facet is unique to them and will switch even when outside of their country. 
+
+Under Akai Haato, the country functions more or less as a stable entity. It cannot be said that she is normal entirely, but compared to her other half she is by far the saner of the two. She focuses mainly on working to protect the country against Haachama by improving its infrastructure and enacting safeguards in various aspects of trade deals, diplomacy, and imports. Under Haachama, she quite simply does whatever she wants. The country manages to function enough to get by under her rule, but a significant portion of Akai Haato’s time is spent rebuilding. This is the prime reason why the Tsardom is poorer than its neighbors. Regardless of whom is in charge, the nation is an absolute autocracy. She has the final say in all matters and makes almost all decisions for the country. None are allowed to challenge her rule, and punishments are often draconian. 
+
+The most infamous moment in the Decapitated Tsardom’s history came in the Suzaku Affair, also known as the 4-month War. During this time, the now defunct nation of Yakushiji Suzaku created another weapon for their demigod, a sword said to be able to be unbreakable. Haachama, for reasons unclear (as they often are), took offense. She demanded the sword as well as tribute. When Suzaku refused, a war broke out early in the year 61. Miyabi also provided support to Suzaku by allowing his troops to move through his borders.
+
+The war was short but vicious. It ended at the Battle of Daishozu where the two deities fought for the fifth and final time. In this conflict, Haachama succeeded in slaying Suzaku, but not before he utilized his skills in battle to remove her left eye in a blow that came extremely close to slaying her outright. Since then, she has become overly cautious on picking fights with her siblings. 
+
+With the death of Suzaku, his nation collapsed to the fog. Miyabi was also forced to relinquish his eastern-most holdings which were summarily purged by Haachama, forcing Miyabi’s people to leave or die. They have yet to be returned, and relations between the two countries remain poor. Haachama has since taken to wearing an eyepatch over her lost eye. Akai Haato does not seem to suffer the same injury, and does not need an eyepatch. She is to date the only sibling of the deities to commit fratricide.
+
+Haachama’s poor behavior and erratic displays make dealing with her difficult. Most countries therefore simply won’t bother. They will close the borders by force until she departs. Although it is possible to get Haachama to cooperate on matters, she is as fickle as the tides. Few are able to get consistent results from her and one of them, Coco, is no longer around. For as much as she is flawed, she shows devotion to her countrymen and is fiercely protective of them. They indulge in the chaos as much as she does, so perhaps she feels a sense of kinship.
+
+Akai Haato frequently finds herself overshadowed by her disturbed other half, which causes her endless consternation. She would much prefer a world without her other half, and vice versa. Feeling that a lot of her effort is simply picking up her other half’s messes (and it is) has resulted in a very tense relationship which has never improved. In recent years however, the gaps between Haachama’s appearances have been growing. Some believe this to be a good omen, while others think it a harbinger of worse to come.
+
+One final thing to note is Valentine’s Day is akin to a holy day in this country. It is expected to consume chocolate coated tarantulas, take the day off, and watch their mandated cooking programs. In spite of the populace’s insistence that they love their leader’s cooking, food poisoning rates skyrocket at this time, and both personalities are known to be abhorrent cooks. 
+
+###Blessed
+The Blessed of Akai Haato (and Haachama) are as split as their demigoddess. Each one has two distinct personalities within them which only manifest depending on which of their personalities is active. Generally, the calmer one is active during Akai Haato’s time, while the more energetic one is active during Haachama. Actual personality traits vary wildly. The Blessed are very few in number owing to both Haato and Haachama finding them suspicious, often imprisoning or executing them as spies for the other half. This has not necessarily curbed their populace’s devotion to them, but rather their life expectancy. Their subject's devotion to their strange god borders on fanatical in spite of her behavior.
+
+###Leader Description
+Akai Haato and Haachama are essentially two different people trapped in one body. Akai Haato is the more reserved of the two, though anyone would be reserved compared to Haachama. Somewhat sassy and tsundere in nature, Haato is at times prickly but this is often believed to be due to the stress of having to manage her other half. She rules with a not necessarily iron but stern fist, tending to respond to criticisms with an annoyed dismissive grunt before going through with the idea regardless. 
+
+Haachama on the other hand is absolutely bonkers. Her behavior is as unhinged as her nation. Nothing is consistent about her except for the fact she is inconsistent. Haachama’s moods fluctuate wildly at random intervals. She may decide on one thing then do another, or become offended and threaten to start a war only to get distracted by a butterfly. She also often abuses her powers to warp reality, bending the very fabric of space and time until it snaps like a rubber band. It’s difficult to stay unharmed with her nearby because what sets her off is inconsistent.
+
+Both personalities despise the other, each blaming the separate one for their current state of affairs. They refuse to elaborate on the subject. It is believed both are actively trying to suppress or kill the other. A consistent way to make one of them upset is to even remotely imply the opposite personality is superior. This is a prickly subject, and many people have been killed even when they didn’t mean to mention it. The only thing they share is a love of the color red and heart symbolism, which adorns and decorates all manners of their country. 
+
+###Leader Powers
+The powers of the duo are separate but somewhat consistent. Haato’s powers involve the negation of bodily functions. What this often leads to is her simply looking at her foe and causing them to keel over and die of a heart attack or a brain aneurysm. Haachama on the other hand bends reality like nobody’s business. The only one who can remotely keep up is Baelz, and even she struggles to match Haachama. Those who are attacked by Haachama may seem to “glitch” before dropping through the earth itself into an infinite void of pain and suffering. Such is but one of many fates to those who displease the one-eyed fiend. 
+
 ##Elite Shinto Dynasty of Sakura
 
 ![Sakura Miko](https://static.wikia.nocookie.net/virtualyoutuber/images/b/b5/Sakura_Miko_2020_3D_Model.png/revision/latest?cb=20221002205944)
 
-###Leader: Sakura Miko
+*Leader: Sakura Miko*
 
 *Size: 32’000 km2*
 
@@ -404,7 +470,7 @@ Miko’s powers are somewhat unusual. As a shrine maiden, much of her powers rel
 
 ![AZKi](https://static.wikia.nocookie.net/virtualyoutuber/images/7/77/AZKi_Fourth_3D_Model.png/revision/latest?cb=20221115204043)
 
-###Leader: Virtual Diva AZKi
+*Leader: Virtual Diva AZKi*
 
 *Size: 28’000 km2*
 
@@ -458,7 +524,7 @@ Much of her remaining powers specialize in the application of sound. Be it sonic
 
 ![Amane Kanata](https://static.wikia.nocookie.net/virtualyoutuber/images/4/4f/Amane_Kanata_3D_Model_2.png/revision/latest?cb=20230630034518)
 
-###Leader: Amane Kanata
+*Leader: Amane Kanata*
 
 *Size: 34’000 km2*
 
@@ -522,7 +588,7 @@ In her spare time, she researches medicine and healing magics to better assist h
 
 ![Kiryu Coco](https://static.wikia.nocookie.net/virtualyoutuber/images/1/10/Kiryu_Coco_3D_Image.png/revision/latest?cb=20210830104805)
 
-###Leader: Clan Kiryu (Formerly Kiryu Coco)
+*Leader: Clan Kiryu (Formerly Kiryu Coco)*
 
 *Size: 31’000 km2*
 
@@ -576,7 +642,7 @@ Kiryu Coco’s powers were both simple yet highly effective. As a massive dragon
 
 ![Mori Calliope](https://static.wikia.nocookie.net/virtualyoutuber/images/4/40/Mori_Calliope_3D_Model.png/revision/latest?cb=20220416023257)
 
-###Leader: Mori Calliope
+*Leader: Mori Calliope*
 
 *Size: 30’000 km2*
 

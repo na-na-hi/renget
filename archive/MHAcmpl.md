@@ -111,6 +111,7 @@ Richard Hertz | HN: Cactiking: https://rentry.org/p6dwm#r-hertz
 Higa Umeko HN Slip-N'-Slideasaurus: https://desuarchive.org/tg/post/91833690/
 Nayuki Kyoko: https://desuarchive.org/tg/post/91834965/
 Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
+??? HN Meteoric Hero: Cube: https://desuarchive.org/tg/post/91890433/
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -706,6 +707,10 @@ Chestburster Runt: https://desuarchive.org/tg/post/91793136/
 Rob out of costume: https://desuarchive.org/tg/post/91807419/
 1-F's Velvet Worm Shooter!: https://files.catbox.moe/t20u97.mp4
 1-F Valentine's Day Cards: https://rentry.org/mcfn8i2c
+Can't solve a puzzle? Shark time!: https://desuarchive.org/tg/post/91890241/
+The cutest retard: https://desuarchive.org/tg/post/91890275/
+Updated 1-F Seating Chart (PoV Skycarver): https://desuarchive.org/tg/post/91891159/
+Updated 1-F Seating Chart: https://desuarchive.org/tg/post/91891169/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1150,8 +1155,13 @@ https://rentry.org/czs9nrcu
 Urgent Newsflash! (featuring Surinam Toad Girl, Velvet Worm, mention of Kaylee, mention of the Korean girls): https://docs.google.com/document/d/1D-uCqKHLAbU6v_c1YKAiHRxu8z83xD_uMMVHAknxfb4/edit?usp=sharing
 +Rentry version: https://rentry.org/qzavfwdf
 Orochi and Rui in a cafe (Yamata, 108 gang): https://rentry.org/bcf537y8
+Good Talk (Impakt, Floor): https://rentry.org/eywc242v
 A Clown Hero's Variety Hour (Ryu-kishi, Popsy, Last Rite, Capture Cloth, Yako, Marumaru, Fight Man, Mirror Devil, Challenger, Red Velvet, 1-F, Saurus, Flying Force, Compound, Marshall, Three-Sixty): https://rentry.org/3ttq5m87
 Ordinary Days (Yako, Maru(Maru), Last Rite, Ryukishi, Marrow): https://rentry.org/TeamWallFlower_Part0
+Future Valentine's Day (warning smut): https://rentry.org/t65cfrup
+Velvet Valentine (featuring Velvet Worm, Skycarver, Runt, Cube, and Kaylee, cameos by one of the Koreans and King Billy): https://rentry.org/mwapndko
+My First Valentine (Mirror Devil, Drone, various others): https://rentry.org/q26t3xus
+Bitey Bastards (1-F): https://rentry.org/BiteyBastards
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

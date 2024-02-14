@@ -5,8 +5,8 @@
 ->![How many more can you find?](https://cdn.imgchest.com/files/j7kzcnjza7m.png)<-
 ->**[BACK TO RULESET](https://rentry.co/tmd2many_rules)**<-
 ***
-->There are currently **999** rollable Pokémon<-
-->for /qst/, this means ==dice+2d999== for your two rolls<-
+->There are currently **1012** rollable Pokémon<-
+->for /qst/, this means ==dice+2d1012== for your two rolls<-
 ***
 !!! info Table of contents below. 
 	Use (CTRL+F) to just search for a specific Pokémon. To make it easier on searching, 001-099 are numbered with zeroes preceding them.
@@ -985,7 +985,7 @@ Roll Number | Species Name | Notes/Evo. Requirements | Species Bonus
 838. | Rolycoly | Evolves at Level 18 | Choose Defense or Sp. DEf
 839. | Carkol | Evolves at Level 34 | Defense
 840. | Coalossal | Final stage of the Rolycoly line | Defense
-841. | Applin | Evolves into Flapple *(req. Nasty Food)* or Appletun *(req. Big Apple)* | Defense
+841. | Applin | Evolves into Flapple *(req. Nasty Food)*, Appletun *(req. Big Apple)*, or Dipplin *(req. Tasty Honey)* | Defense
 842. | Flapple | One of the final stages of the Applin line | Attack
 843. | Appletun | One of the final stages of the Applin line | HP
 844. | Silicobra | Evolves at Level 36 | Defense
@@ -1031,7 +1031,7 @@ Roll Number | Species Name | Notes/Evo. Requirements | Species Bonus
 884. | Arctozolt | No evolutionary relatives | Attack
 885. | Dracovish | No evolutionary relatives | Defense
 886. | Arctovish | No evolutionary relatives | Defense
-887. | Duraludon | No evolutionary relatives | Sp. Atk
+887. | Duraludon | Evolves with a Metal Coat | Sp. Atk
 888. | Dreepy | Evolves at Level 50 | Speed
 889. | Drakloak | Evolves at Level 60 | Speed
 890. | Dragapult | No evolutionary relatives | Speed
@@ -1161,9 +1161,26 @@ BANNED | Chi-Yu | You're more than just envy. | Sp. Atk
 997. | Iron Valiant | No evolutionary relatives | Attack
 BANNED | Koraidon | You're more than just a tool. | Choose Attack or Speed
 BANNED | Miraidon | You're more than just a tool. | Choose Sp. Atk or Speed
-998. | Walking Wake | No evolutionary relatives | Sp. Atk
-999. | Iron Leaves | No evolutionary relatives | Attack
+998. | Dipplin | Evolves if it knows Dragon Cheer | Defense
+999. | Hydrapple | One of the final stages of the Applin line | Sp. Atk
+1000. | Poltchageist | Evolves with a Chipped Pot | Sp. Atk
+1001. | Sinistcha | Final stage of the Poltchageist line | Sp. Atk
+1002. | Archaludon | Final stage of the Duraludon line | 
+1003. | Okidogi | No evolutionary relatives | Attack
+1004. | Munkidori | No evolutionary relatives | Sp. Atk
+1005. | Fezandipti | No evolutionary relatives | Sp. Def
+1006. | Ogerpon | Forme changes *(req. Charcoal Scarf, Mystic Scarf, or Heavy Scarf)* | Attack
+1007. | Walking Wake | No evolutionary relatives | Sp. Atk
+1008. | Gouging Fire | No evolutionary relatives | Defense
+1009. | Raging Bolt | No evolutionary relatives | Sp. Atk
+1010. | Iron Leaves | No evolutionary relatives | Attack
+1011. | Iron Boulder | No evolutionary relatives | Speed
+1012. | Iron Crown | No evolutionary relatives | Sp. Atk
+BANNED | Terapagos | It’s recommended that this is forgotten. Once forgotten, this can’t be remembered. | HP
+BANNED | Pecharunt |  | Defense
+
 
 ## Specialty Pokémon Ban
 These have been removed from the story entirely and cannot make any appearance whatsoever.
 - Eternatus (No Dynamax)
+- Terapagos (No Terastal Phenomenon)

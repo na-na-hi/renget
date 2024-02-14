@@ -435,23 +435,21 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->New Writefag:
->Good Talk (Impakt, Floor):
-https://rentry.org/eywc242v
+>New Writefags:
+>A Clown Hero's Variety Hour (Ryu-kishi, Popsy, Last Rite, Capture Cloth, Yako, Marumaru, Fight Man, Mirror Devil, Challenger, Red Velvet, 1-F, Saurus, Flying Force, Compound, Marshall, Three-Sixty)
+https://rentry.org/3ttq5m87
+>Ordinary Days (Yako, Maru(Maru), Last Rite, Ryukishi, Marrow)
+https://rentry.org/TeamWallFlower_Part0
+>Velvet Valentine (featuring Velvet Worm, Skycarver, Runt, Cube, and Kaylee, cameos by one of the Koreans and King Billy).
+https://rentry.org/mwapndko
+>My First Valentine (Mirror Devil, Drone, various others):
+https://rentry.org/q26t3xus
+>Bitey Bastards (1-F)
+https://rentry.org/BiteyBastards
 
->New 1-F Student:
->??? HN Meteoric Hero: Cube
->>91890433
-
->New Art
->Can't solve a puzzle? Shark time!
->>91890241
->The cutest retard
->>91890275
->Updated 1-F Seating Chart (PoV Skycarver)
->>91891159
->Updated 1-F Seating Chart
->>91891169
+>New Artfag:
+>1-F Valentines
+https://rentry.org/mcfn8i2c
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1016,6 +1014,16 @@ https://rentry.org/qzavfwdf
 https://rentry.org/bcf537y8
 >Good Talk (Impakt, Floor):
 https://rentry.org/eywc242v
+>A Clown Hero's Variety Hour (Ryu-kishi, Popsy, Last Rite, Capture Cloth, Yako, Marumaru, Fight Man, Mirror Devil, Challenger, Red Velvet, 1-F, Saurus, Flying Force, Compound, Marshall, Three-Sixty)
+https://rentry.org/3ttq5m87
+>Ordinary Days (Yako, Maru(Maru), Last Rite, Ryukishi, Marrow)
+https://rentry.org/TeamWallFlower_Part0
+>Velvet Valentine (featuring Velvet Worm, Skycarver, Runt, Cube, and Kaylee, cameos by one of the Koreans and King Billy).
+https://rentry.org/mwapndko
+>My First Valentine (Mirror Devil, Drone, various others):
+https://rentry.org/q26t3xus
+>Bitey Bastards (1-F)
+https://rentry.org/BiteyBastards
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
