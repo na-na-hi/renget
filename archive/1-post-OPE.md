@@ -6,19 +6,19 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 247th time, what is Ope?!
+For the 248th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>Upcoming Jewelbird cover of VIVINOS - OTOMEROID (Premieres Tue 02/13 7PM CT)
+\>New Jewelbird cover of VIVINOS - OTOMEROID
 https://www.youtube.com/watch?v=9aiuzVI35BQ
 
 \>Streams
-Next stream: Stardew Valley (Tue 02/13 2PM CT)
-Previous stream (Pre-Valentines karaoke)
+Next stream: Valentine's with Nerissa (Wed 02/14 7PM CT)
+Last stream (Stardew Valley)
+https://www.youtube.com/watch?v=zKpjv4HXhO4
+Previous unarchived stream (Pre-Valentines karaoke)
 \>>68805044 https://mega.nz/folder/Yn8kQApb#C6ofo8Ax1lsWwwHkYVdM0g
-Last archived stream (Palworld)
-https://www.youtube.com/watch?v=igfSiM1Ali4
 
 \>Recent merch
 Valentine's Day 2024 Set: https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442181852
@@ -45,7 +45,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>68864564
+Previous thread: >>68976529
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

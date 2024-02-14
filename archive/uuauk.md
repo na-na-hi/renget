@@ -1,8 +1,10 @@
 #the wag of a finger: hangover cure
 
+---------------------------
+
 Beast's peaceful sleep was abruptly cut by the sound of strange music coming from his phonograph.
 
-Beast quickly identified it as the song he was listening to last night, except it was much faster and the vocals were higher pitched. But he didn't recall switching the phonograph to 78 RPM, or keeping the phonograph on for that matter.
+He quickly identified it as the song he was listening to last night, except it was much faster and the vocals were higher pitched. But he didn't recall switching the phonograph to 78 RPM, or keeping the phonograph on for that matter.
 
 Beast got up and sat at the edge of his bed to find two guildmates crouched curiously over his phonograph. "Man, I didn't know record players came with a nightcore button." one of them said to the other.
 
@@ -14,19 +16,19 @@ Beast got up and sat at the edge of his bed to find two guildmates crouched curi
 
 "Gentleme-en..." Beast growled, pointing to the doorway of his quarters.
 
-The two guildmates promptly walked out of the room, one remarking "I told you, man." The bear stomped over and switched off his phonograph, astounded by the nerve of his felllow guildmates. Beast was beginning to question the view he had taken on the hooligans that he cooked for. The more time he stayed at the guild, the more tolerable people he began to discover, the more names that had begun to stand out. Everyone else, however, just kind of melded together into one insufferable person. Do the other people have merits too?
+The two guildmates promptly walked out of the room, one remarking "I told you, man." The bear stomped over and switched off his phonograph, astounded by the nerve of his fellow guildmates. Beast was beginning to question the view he had taken on the degenerates that he cooked for. The more time he stayed at the guild, the more tolerable people he began to discover, the more names that had begun to stand out. Everyone else, however, just kind of melded together into one insufferable person. Did everyone here have merits like this?
 
 Beast looked over his freshly laundered apron before tying it on. If he knew that the guildmaster would be distributing badges, he wouldn't have spent nearly a day embroidering a clover onto the bottom left corner. "It's good to keep my skills sharp, at least." Beast thought to himself. He really was getting quite old.
 
 As most of cooking is prep work, Beast was typically up before anyone else, which wasn't really an achievement considering how late people around here slept in. Leaving his quarters, Beast continued upstairs into the storage room and was greeted with a rather headache inducing sight.
 
-On the floor of the storage room laid a guildmate and their equally quirky degenerative partner, both lightly immersed in about what he estimated to be about half of a barrel of (very expensive) wine puddled up across the floor. Beast physically recoiled, backing up until he hit the wall, clutching his head as if he had a migraine. Grimacing, he trudged over and deftly flipped over the guildmate soaking in his pricey libation.
+On the floor of the storage room laid a guildmate and their equally quirky degenerative partner, both lightly immersed in about what he estimated to be about half a barrel of (very expensive) wine puddled up across the floor. Beast physically recoiled, backing up until he hit the wall in an overdramatic, clutching his head as if he had a migraine. Grimacing, he trudged over and deftly flipped over the guildmate soaking in his pricey libation.
 
 A pounding headache greeted the guildmate as he awoke followed by a familiar bear cub staring daggers into his eyes. Beast was not particularly intimidating, moreso resembling a cute teddy bear than a livid elderly chef. "Whuhthuh..." The guildmate slurred as he came to. "Out of my storage room, hooligan!" Beast demanded, grabbing him by the shoulders and shoving him out of the doorway as he was still waking up. Beast swiftly continued to do the same with their partner, grabbing them by the leg and angrily dragging them out of the doorway. "WHAT WAS YOUR THOUGHT PROCESS ON THIS?!?" Beast screamed at the wine-stained pile of hungover guildmates.
 
 "Uhmm...Uhh...wejusswannehdu-"
 
-"that section is VERY CLEARLY LABELED DO NOT CONSUME! that wine is VERY EXPENSIVE and must be used with CAUTION! but NO, LET'S JUST EAT AND DRINK WHATEVER WE WANT BECAUSE WE'RE IRRESPONSIBLE DEGENERATE DRU-"
+"That section is VERY CLEARLY LABELED DO NOT CONSUME! that wine is VERY EXPENSIVE and must be used with CAUTION! but NO, LET'S JUST EAT AND DRINK WHATEVER WE WANT BECAUSE WE'RE IRRESPONSIBLE DEGENERATE DRU-"
 
 "Um, Mr. Winchester?" said a familiar flamboyant voice.
 
@@ -40,9 +42,9 @@ Beast felt his heart sank in his chest as he turned toward the guildmaster, star
 
 "Beast, I'm getting very concerned with the treatment of your fellow guildmates, mmkay?" The guildmaster explained as he filled out some generic form on his desk.
 
-"Guildmaster, you must understand! These hooligans are just waltzing into my storage room and drinking my expensive cooking wine with no disregard for my rules!"
+"Guildmaster, you must understand! These hooligans are just waltzing into my storage room and consuming expensive ingredients with no disregard for my rules!"
 
-"Well, you don't seem to be adamant on doing anything about it but screaming at your guildmates, which we both know doesn't solve anything."
+"Well, you don't seem to be adamant on doing anything about it but screaming at your fellow guildmates, which we both know doesn't solve anything."
 
 "Well, that's not tr-"
 
@@ -60,7 +62,7 @@ Beast actually had very little experience with alcohol itself, as he typically l
 
 "Surely, you cannot be serious about all of this!"
 
-"I'm serious, and don't call me Shirley. I'd like you back with your little ingredients by breakfast or I'll have to let you go, 'mmkay?"
+"I'm serious, and don't call me Shirley. I'd like you back with your ingredients by breakfast or I'll have to let you go, 'mmkay?"
 
 Beast massaged the fur on his headache-afflicted forehead. "Understood, Guildmaster."
 
@@ -78,13 +80,13 @@ Ronnie woke up to a rather pleasant aroma wafting into his nose. It smelled much
 
 Ronnie awkwardly slurped down the tea while Beast stood over him watching. He missed straws. And having hands.
 
-"Ok, my apologies. How do you feel now?"
+"Ok, my apologies. How do you feel now?" Beast asked.
 
 "Pretty alright. I mean, the tea was okay but I'm not really-wait, what the hell? My voice!"
 
 Beast arrogantly scratched his cheek. "I took the liberty of fixing some special tea for you. It's typically for throat illnesses, so I thought it would be a close enough remedy for that horrific voice of yours."
 
-Ronnie rolled his eyes at Beast's backhanded remark. "So, what's the deal for waking me up? You usually just tell me to not touch anything and I sleep here until it's time to eat."
+Ronnie rolled his eyes at Beast's backhanded remark, which were all but common during their interactions. "So, what's the deal for waking me up? You usually just tell me to not touch anything and I sleep here until it's time to eat."
 
 "Unfortunately, Ronald, I require your assistance for something else entirely." Beast explained as he gathered random tools from the kitchen. "You're good at that whole fighting ordeal, correct? I recall you were brought over here after some sort of scuffle."
 
@@ -100,15 +102,15 @@ Beast sighed and waved his arm towards the kitchen doorway. "Just come with me."
 
 The sun hit the eyes of Beast and Ronnie as they left the front door. They had only a few hours to retrieve a Blast Burn Pepper, so they had to do this quickly and efficiently. Beast awkwardly climbed onto Ronnie's back.
 
-![Image description](https://files.catbox.moe/cly1op.png)
+->![i am not going to dispute the ronnie oc tuft allegations](https://files.catbox.moe/49mppt.webp)<-
 
-"The hell are you doing, dude?"
+"The hell are you doing, dude?" Ronnie asked annoyedly.
 
-"Your kind is good for shipping heavy objects on your back, yes? Just keep walking, and before you know it you'll forget I'm even here."
+"Your kind is good for shipping heavy objects on your back, yes? Just keep walking, and before you know it you'll forget I'm even here." Beast explained.
 
 Ronnie rolled his eyes. "Whatever, man."
 
-"I'm not your "dude," or your "man," Ronald. I will not tolerate that repulsive young people language while you work for me."
+"I'm not your "dude," or your "man," Ronald." Beast said in a fed-up tone. "I will not tolerate that repulsive young people language while you work for me."
 
 Ronnie's eyes almost rolled back into his head.
 
@@ -122,7 +124,7 @@ Wagie instincts kicking in, Ronnie went from a steady trot to a full sprint, his
 
 Not being satisfied, Beast held out the ladle as far out as he could. "Earn it, you bumbling humpback!" Beast demanded. Almost immediately after, Ronnie tripped over himself, colliding with the ground and accidentally turning himself into a living boulder, tumbling violently through the woods. Almost without thinking, Beast stood up and began frantically balancing on the rolling Ronnie, something that looked straight out of a circus act. However, this display ended shortly after Ronnie and Beast went flying off a small natural ramp and Beast lost balance, colliding with a tree trunk and hitting the ground.
 
-![Image description](https://files.catbox.moe/ig3jiy.png)
+->![if you want music to listen to while you read like in other stories i would suggest mmmm yes put the tree on my pizza](https://files.catbox.moe/4xfrzk.png)<-
 
 After he let the most of the dizziness wash over him, Beast got up to a sitting position, wiping the ashy dirt off of his face and apron. Canic Woods once surrounded a violent volcano thousands of years ago, and the ash from past eruptions had remained baked into the earth. It was this that allowed the dangerously hot Blast Burn Peppers to grow in this area. Standing up, Beast quickly found Ronnie, who seemed mostly unaffected, also searching for him.
 
@@ -174,7 +176,7 @@ Beast walked over to inspect the pepper creature, seeing if Ronnie bowling over 
 
 The Scovillian rose from the grass, slowly approaching the pained bear with a crooked grin. Beast noticed this and fearfully extended his ladle like a sword. "Stay back! I'm armed!"
 
-![Image description](https://files.catbox.moe/hp0qcr.png)
+->![i identify with pepperman from pizza tower due since i too, have flawless blue eyes](https://files.catbox.moe/7jj9cg.webp)<-
 
 The pepper creature simply laughed and hit him with a direct burst of fire, turning his ladel into a steaming puddle. Beast's hands were gleefully unaffected, as years of accidentally burning himself had turned his hands into scar tissue.
 
@@ -188,11 +190,11 @@ Beast simply braced, too frozen to consider stepping out of the way.
 
 "Served with a modicum of hash, or perhaps a smattering of potatoes! Oh, I'm just having too much FUN with th-"
 
-The Scovillian's constant food jokes were halted as Ronnie ran up slammed his body into the pepper, landing a direct Take Down and slamming the Scovillian into the ground, knocking him out cold.
+The Scovillian's constant food jokes were halted as Ronnie ran over slammed his body into the pepper, landing a direct Take Down and returning the Scovillian to the ground, knocking him out cold.
 
 "MOVE, BITCH! GET OUT DA WAY!" Ronnie said triumphantly as he got back up, quoting his favorite internet video before turning his attention to Beast. "You alright, dude?"
 
-"My eyes still feel like they're burning in the dark pits of hell, but other then that, I'm quite alright." Beast answered. "I would like to thank you for saving me from that lunatic pepper."
+"My eyes still feel like they're burning in the dark pits of hell, but other than that, I'm quite alright." Beast answered. "I would like to thank you for saving me from that lunatic pepper."
 
 "Nah, wasn't any problem. Geez, running around this much really makes me hungry..." Ronnie noted, walking over to a nearby pepper bush and biting into one.
 
@@ -202,8 +204,8 @@ The Scovillian's constant food jokes were halted as Ronnie ran up slammed his bo
 
 Beast could barely believe what his assistant was saying. "H...how were you able to tolerate the spiciness? A single drop of sauce made from one can feed nearly 50 people!"
 
-"I dunno." Ronnie answered, biting another pepper off the bush. "I like spicy food."
+"I dunno." Ronnie answered, biting off another pepper from the bush. "I like spicy food."
 
-Beast sighed as deeply as his vocal cords could allow. Did he really never bother to look down during his entire time in the woods? "When we get back to town, remind me to purchase some headache powder."
+Beast sighed as deeply as his vocal cords could allow, more frustrated at himself than Ronnie. Did he really never bother to look down during his entire time in the woods? "When we get back to town, remind me to purchase some headache powder."
 
 Climbing back onto his camel companion, peppers safely secured in his bag, Beast quietly reflected on the absolutely wild last 2 or 3 hours he had just experienced. What he had done in the last few hours was unlike anything he had ever experienced in all of the long, boring years of his life. He was now beginning to understand why this whole rescue team thing was so popular, or at least so romanticized. Maybe he could find an excuse to do another one of these in the future.

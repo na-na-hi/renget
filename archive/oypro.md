@@ -32,7 +32,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Scratch | 4BP | 4AP | ≥2 | Normal | Physical | No secondary effect
+Aerial Ace | 6BP | 5AP | - | Flying | Physical | No secondary effect
 Sucker Punch | 7BP | 6 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
 Hone Claws | 0BP | 4AP | - | Dark | Status | The users Attack and Accuracy are increased by 1
 Fury Swipes | 1D10 | 6AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
@@ -42,7 +42,7 @@ Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by th
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Empty | Description
 Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
@@ -81,7 +81,7 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Strange Disk (TM 109) | A strange Disk found on top of dense Bamboo
+1. Broken Disk (TM 109) | A strange disk broken shortly after being found on top of dense bamboo
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
 3. Blast Seed | Explodes on contact for 10 true damage.
 4. Empty | A vacant inventory slot
@@ -108,5 +108,5 @@ Type | Item Name | Description
 
 Name of Move | Description
 	------ | :----:
-	Eᴍᴘᴛʏ | Description
+	Scratch | No secondary effect
 	Eᴍᴘᴛʏ | Description

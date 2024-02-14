@@ -46,7 +46,7 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 #### ->%#dcc6c2%Stats%%<-
 %#dcc6c2%Stat%% | %#dcc6c2%Points: 3 (+1)%% | %#dcc6c2%Modifiers%% | %#dcc6c2%Combat Effect%%
 ------ | :----: | :----: | :----: 
-**%#cd473b%Health Points%%** | 0 | Level 10 (22 %#cd473b%HP%%) | 22 %#cd473b%HP%%
+**%#cd473b%Health Points%%** | 0 | Level 13 (23 %#cd473b%HP%%) | 23 %#cd473b%HP%%
 **%#e76439%Attack%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#ac3232%Physical%% %#847e87%Damage%%
 **%#e69d31%Defense%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#ac3232%Physical%% %#847e87%Mitigation%%
 **%#a5ff38%Special Attack%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#4258c0%Special%% %#847e87%Damage%%

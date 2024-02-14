@@ -164,3 +164,7 @@ https://twitter.com/notwilliam_
 >Fyuujin
 Draws a lot of Hololive and Nijisanji
 https://twitter.com/fyuujin
+
+>Magowasabi
+Draws chuuby Haachama
+https://twitter.com/magowasabi

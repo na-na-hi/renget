@@ -93,6 +93,7 @@ Whatever conciousness she had just gained left her just as fast, and she returns
 ![Sleep tight, Rain](https://i.imgur.com/cwtrjnf.png)
 ***
 !!! info
+	786 words total
 	31 Jan - posted
 	1 Feb - fixed tensing and typos
 	5 Feb - changed some phrasing and formatting

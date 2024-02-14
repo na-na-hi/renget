@@ -1,5 +1,7 @@
 ##->the wag of a finger<-
 
+-------------------------
+
 It was a day like any other.
 
 Beast was training yet another rookie cook at his five star restaurant when he slammed his fist upon the kitchen counter. 

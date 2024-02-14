@@ -164,7 +164,7 @@ For the actual guides, use any of the following:
 - [/bag/ guide (Google docs version)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXlcitXUjd848IYKTmI_NUwc7FT1-fJXJaJj86EACxMe_M_nix6LMZUxlQYDsoKgezzVNsxRcAQqbJ/pubhtml)
 - [/bag/ guide (image version)](https://arch-img.b4k.co/vg/1707393283650.jpg) 
 
-## Team formation
+## Team building
 In general a team consists of 1 tank, 1 healer, and DPS.
 You want to match the colour of ur enemy with your attack type (e.g. red unit good into red mob). 
 ![Typings](https://i.imgur.com/Bffw37V.png)

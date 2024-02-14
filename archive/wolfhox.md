@@ -6,10 +6,7 @@ from using **he him his** prns on me if i
 dont know you , i use **hx she 
 it acid** [prns](https://pronouns.cc/@biker)ₒ　![](https://images-ext-2.discordapp.net/external/PJap0EqmmBXA8xpgZO-Im_ofBpV9WHs6LihFABvTANI/%3Fv%3D16e7e82c/https/mikejima.crd.co/assets/images/gallery07/a20c801e.gif)<-
 
--> you can most likely find me **afk** , with
-friends or js wondering , dont be shy to
-say **hello** , preferably through **whispers**ₒ 
-booping , kissing , crowning && cuddling r
+-> pony inspo is more than ok, no copying
  **all ok** tt/ct ppl pls **dni** yall are the bain of 
 my existance! ![](https://images-ext-1.discordapp.net/external/m9riKXxUUVNBJwvIWSRqdTZx_csqY9LOI7xYCd_Uhj4/%3Fv%3D16e7e82c/https/mikejima.crd.co/assets/images/shadow/810e1986_original.gif) u cant feel pixels , 
 go outside lolₒ im vry neurodivergent , **use

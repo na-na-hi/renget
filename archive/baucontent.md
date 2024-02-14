@@ -13,7 +13,8 @@ https://www.youtube.com/watch?v=prL01G3gLBU
 [enjoy](https://mega.nz/folder/51gWhKJJ)
 decryption key: Z1R4R2dnSkY0THRtRUxsUTF0LW1yUQ==
 
-use mario64 to unlock the real decryption key for the porn. soft security measures because it was taken down before. ask in thread for help if you're really getting filtered. if you post any lewds in the thread, i'd appreciate the keywords "megaanon" alongsisde your post so i can archive search and add them, since i'm not in every thread all the time.
+use mario64 to decode the real decryption key for the porn. soft security measures because it was taken down before. ask in thread for help if you're really getting filtered. if you post any lewds in the thread, i'd appreciate the keywords "megaanon" alongsisde your post so i can archive search and add them, since i'm not in every thread all the time.
+also note; the mega is big and you won't be able to bulk-download the full thing unless you have a mega paid plan or just wait for the free cooldown to end; so you'll have to bulk-download a chunk of things, then bulk download another chunk later on
 
 https://pastebin.com/dYcJJd8w - translation of kotaros fuwamoco SEX doujinshi, credits to Anon note: there is an actual EN translation of the panels on the usual sites, im just lazy to upload them when i already have the JP ones uploaded
 

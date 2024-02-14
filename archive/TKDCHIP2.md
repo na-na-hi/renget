@@ -68,6 +68,9 @@ https://files.catbox.moe/6gn30b.mp4 New  2/9/24
 >Al-Quds Brigades shows scenes of its mujahideen targeting a Zionist force holed up in a house in Block (G) west of Khan Yunis with an RPG missile
 https://files.catbox.moe/nsw3li.mp4 New  2/11/24
 
+>WATCH: Al-Quds Brigades published a video showing its fighters target IOF soldiers and army vehicles in western Gaza.
+https://files.catbox.moe/9818w2.mp4  2/13/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -183,3 +186,13 @@ https://files.catbox.moe/myte6s.mp4  2/12/24
 https://files.catbox.moe/7m1tsi.mp4  2/12/24
 >Feda Al-Hassanat expressed the sadness of her birthday, marked by the absence of midnight greetings due to a lack of network connection and the fear of losing friends. Despite the somber tone, her modest home remains a gift, offering shelter, warmth, and sustenance to her loved ones.
 https://files.catbox.moe/7z7xh5.mp4  2/12/24
+>𝗞𝗘𝗬 𝗣𝗢𝗜𝗡𝗧𝗦 from Hezbollah’s SG 𝗦𝗮𝘆𝘆𝗲𝗱 𝗡𝗮𝘀𝗿𝗮𝗹𝗹𝗮𝗵'𝘀 speech on "Martyrs' Day of the Resistance":
+https://files.catbox.moe/czwef5.mp4 New  2/13/24
+>The Sky News anchor finishes interviewing the Palestine Red Crescent spokesperson, claiming that the channel cannot "independently verify" what she has stated in the interview regarding Israeli attacks on schools and hospitals in Gaza. The anchor proceeds to state that "innocent people are unfairly being hit in collateral damage."
+https://files.catbox.moe/l7uqf7.mp4 New  2/13/24
+>“Get out you bunch of Animals, get out dogs” Israeli soldiers shouting via speakers on displaced people sheltering in schools and Hospital. Published by fellow journalist Mohammed Alhalou a while ago.
+https://files.catbox.moe/br6ug2.mp4 New  2/13/24
+>Footage published by Israeli soldiers on their social media accounts reveals the deliberate destruction and burning of food warehouses in western Gaza. Meanwhile, north Gaza is being starved by the Israeli blockade preventing humanitarian aid from reaching the area.
+https://files.catbox.moe/sg3mzc.mp4 New  2/13/24
+"I could not in good conscience vote to send more offensive aid, more bombs and shells to Israel at a time they are conducting a campaign in this manner. "US Senator @SenJeffMerkley explains the reason why he voted against the recent bill which includes $14 billion in aid to Israel.
+https://files.catbox.moe/abanox.mp4 New  2/13/24

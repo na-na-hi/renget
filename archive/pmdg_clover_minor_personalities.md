@@ -157,4 +157,4 @@ Sex: Male
 
 ####Veteran Explorer Turk
 >[See Linked](https://rentry.org/turklucarioprofile)
->Formerly leader of Team Dynamis with Charcadet (m, deceased) & Mudkip (m, deceased) Sprigatito (f, missing)
+>Formerly leader of Team Dynamis with Charcadet (m, unknown) & Mudkip (m, unknown) Sprigatito (f, unknown)

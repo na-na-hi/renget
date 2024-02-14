@@ -116,6 +116,7 @@ Pokemon Black | [PRESS START](https://www.romhacking.net/hacks/4577)
 (warning : any damages done to your computer are at your own risk)
 Games List | Links
 ------ | ------
+KinitoPet | [LEARN MORE](https://www.kinitopet.com/)
 IMSCARED | [PRESS PLAY](https://store.steampowered.com/app/429720/IMSCARED/)
 A dark place | [PRESS PLAY](https://xerstudios.itch.io/a-dark-place)
 A dark place 2 | [PRESS PLAY](https://xerstudios.itch.io/a-dark-place-2)

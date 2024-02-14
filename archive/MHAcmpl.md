@@ -456,6 +456,7 @@ Class 1-D Quirk Combat Potency Breakdown: https://rentry.org/Class1-DQuirkCombat
 Map of Kyoto: https://archive.4plebs.org/tg/post/89235050
 Birthdays: https://archive.4plebs.org/tg/post/89222835
 Tournament: https://archive.4plebs.org/tg/post/89193710
+Exchange Student List: https://rentry.org/zqtk5z4f
 
 ***
 
@@ -704,6 +705,7 @@ Chestburster Runt: https://desuarchive.org/tg/post/91793136/
 1-F seating chart(s): https://desuarchive.org/tg/post/91802680/
 Rob out of costume: https://desuarchive.org/tg/post/91807419/
 1-F's Velvet Worm Shooter!: https://files.catbox.moe/t20u97.mp4
+1-F Valentine's Day Cards: https://rentry.org/mcfn8i2c
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1148,6 +1150,8 @@ https://rentry.org/czs9nrcu
 Urgent Newsflash! (featuring Surinam Toad Girl, Velvet Worm, mention of Kaylee, mention of the Korean girls): https://docs.google.com/document/d/1D-uCqKHLAbU6v_c1YKAiHRxu8z83xD_uMMVHAknxfb4/edit?usp=sharing
 +Rentry version: https://rentry.org/qzavfwdf
 Orochi and Rui in a cafe (Yamata, 108 gang): https://rentry.org/bcf537y8
+A Clown Hero's Variety Hour (Ryu-kishi, Popsy, Last Rite, Capture Cloth, Yako, Marumaru, Fight Man, Mirror Devil, Challenger, Red Velvet, 1-F, Saurus, Flying Force, Compound, Marshall, Three-Sixty): https://rentry.org/3ttq5m87
+Ordinary Days (Yako, Maru(Maru), Last Rite, Ryukishi, Marrow): https://rentry.org/TeamWallFlower_Part0
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

@@ -2793,6 +2793,9 @@ https://www.mediafire.com/folder/cvm1f2c13mocj/Random+shit
 # Nessie (The Ballad of Nessie)
 https://files.catbox.moe/i06ccx.safetensors
 
+# Espio the Chameleon (Sonic)
+https://files.catbox.moe/ft1yw5.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

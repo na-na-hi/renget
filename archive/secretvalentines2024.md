@@ -37,16 +37,16 @@ V-12 "AMOEBA"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]
 V-13 "ROBOT"|Elisha|Ascendant|![](https://files.catbox.moe/k0tb8u.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/qej8my.png)** %%
 V-14 "OTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-15 "AUK"|Sandy|MrSexSexSexSexSexSex|![](https://files.catbox.moe/p0pokj.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/sandy-3f497c95/main) [[CATBOX LINK]](https://files.catbox.moe/ep7zzk.png)** %%
-V-16 "BRAT"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-16 "BRAT"|Camilla|Sull|![](https://files.catbox.moe/jdpkki.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/camilla-bbb85f7b) [[CATBOX LINK]](https://files.catbox.moe/mid3kj.png)** %%
 V-17 "MANTIS"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-18 "BROTHER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-19 "DISTANCE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-20 "NEMO"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-20 "NEMO"|Global CCTV System|MrNobody99|![](https://files.catbox.moe/2huvmr.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/global-cctv-system-44ea0ee9) [[CATBOX LINK]](https://files.catbox.moe/d0roow.png)** %%
 V-21 "GRANDMA"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-22 "PARADOX"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-23 "CRIMSON"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-24 "INK"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-25 "VITA"|Amamut|Dark Fantasy|![](https://files.catbox.moe/29de9y.gif)|%red% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amamut-24a3ad1f) [[CATBOX LINK]](https://files.catbox.moe/1lgfo7.png)** %%
+V-25 "VITA"|Amamut|Dark Fantasy|![](https://files.catbox.moe/29de9y.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amamut-24a3ad1f) [[CATBOX LINK]](https://files.catbox.moe/1lgfo7.png)** %%
 V-26 "BUN"|Narcisa|Scrimb|![](https://files.catbox.moe/f5ir8n.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/narcisa-ab5b8eba/main)** %%
 V-27 "ROGUE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-28 "BUILDER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
@@ -64,7 +64,7 @@ V-39 "HERO"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]**
 V-40 "PRINCESS"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-41 "BUSH"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-42 "RELAY"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-43 "POWER"|Kate|tnbt|![](https://files.catbox.moe/9whmsr.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/3epiui.png)** %%
+V-43 "POWER"|Kate|tnbt|![](https://files.catbox.moe/9whmsr.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/adn5rz.png)** %%
 V-44 "GOTHIC"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 V-45 "VILLAIN"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
 

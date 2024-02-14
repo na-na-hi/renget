@@ -3,7 +3,7 @@
 !!! note haha numbers go up
 ***
 Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry. No, my real name is not Pasha.
-Don't be afraid to email me — chances are, I don't hate your guts and will formally reply to you.
+Don't be afraid to email me — unless you are someone from the list down below, I will formally and politely reply to you.
 
 Relevant resources:
 https://www.chub.ai/users/pashatehink
@@ -17,10 +17,18 @@ My botmaking playlist: https://www.youtube.com/playlist?list=PLxLvqUJvfRzH3kBifK
 
 Current bans:
 Reddit: This account has been suspended .
-4chan: —
+4chan: Ban evasion (30 days)
 ~~2ch~~
 TO-DO LIST: Create a new fucking bot.
 
+##KYS list
+->![If you are here — die a very gruesome death.](https://files.catbox.moe/chgqu1.gif)<-
+
+- **jannies**
+- **mrnobody99**
+- **astroturf**
+
+***
 [TOC]
 
 #Latest bot

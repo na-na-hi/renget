@@ -1,3 +1,12 @@
--> [![an old computer showing various blue screens](https://media.discordapp.net/attachments/1007182318496133151/1033090888542453820/IMG_4269.gif)](https://rentry.co/sillyboard) <-
+!!! info
+-> ![](https://cdn.discordapp.com/attachments/1139597744114237492/1207140420841242624/up7aesjaggtjworb3fdfjhl4_1.webp?ex=65de901f&is=65cc1b1f&hm=1df965adbc811a62d65ba1abacfa3afad5670250b6a24c93075f02293ff1aad6&) <-
 
--> click here <-
+-> ![](https://64.media.tumblr.com/6b3570a4ce7417450ba03d1f45b6cbfb/2313d36cf97552ad-30/s75x75_c1/946baaccb86d243d82cff0fc5e74567c59d477a9.gifv)![](https://64.media.tumblr.com/46db35a51b6bb92bfdca9def32cce9c4/2313d36cf97552ad-3f/s75x75_c1/d7dc84a2e521f9873a3850044c7fa9b412ffc187.gifv)![](https://64.media.tumblr.com/46db35a51b6bb92bfdca9def32cce9c4/2313d36cf97552ad-3f/s75x75_c1/d7dc84a2e521f9873a3850044c7fa9b412ffc187.gifv)　![](https://64.media.tumblr.com/073b1144805ca11f2f23fc6e3976a65b/2313d36cf97552ad-94/s75x75_c1/dc05d94707e51dd263dc5283062da63f99310c2b.gifv)![](https://64.media.tumblr.com/1e5da1452da921016c4fb1f5d2b407c7/2313d36cf97552ad-69/s75x75_c1/139f1cfc76e9c117894fe4061f52a4bc369c53aa.gifv)　![](https://64.media.tumblr.com/68dba05cff00d7e33c9ed71db86b6dbf/2313d36cf97552ad-88/s75x75_c1/d5695fe38ef10412fe33f22fd7a525f3e7cdfbe5.gifv)![](https://64.media.tumblr.com/90d5535b247cfa3d98e4a7c87964c192/2313d36cf97552ad-22/s75x75_c1/69591fe30cd4f275fe554486acf459b19ba5fd5f.gifv)![](https://64.media.tumblr.com/1e5da1452da921016c4fb1f5d2b407c7/2313d36cf97552ad-69/s75x75_c1/139f1cfc76e9c117894fe4061f52a4bc369c53aa.gifv)![](https://64.media.tumblr.com/2accc00b855b9e1641b235407c14bf78/2313d36cf97552ad-62/s75x75_c1/1e9644a7490284ed04270b7d10d2ec826446ab67.gifv)![](https://64.media.tumblr.com/5a871c885990035663511ba16c877b07/2313d36cf97552ad-d2/s75x75_c1/d719349f3752a2ce9920b74c2dc43b68935f7944.gifv) <-
+-> ![](https://caterpie.crd.co/assets/images/gallery02/a1771ae1.gif?v=ce36ac9f) **any all** [—](/36kombat) 24 *y/o* + factive/intrj *!* <-
+-> [gtwscar](https://hermitcraft.fandom.com/wiki/GoodTimesWithScar) + bisexual & male ![](https://64.media.tumblr.com/ed3a80abf78563381d6e3235113c8f88/c8ed30a7c6fdc419-eb/s75x75_c1/222e5085150df0faa045d9e5348afa5a15ca6053.gifv) crwlngrot & gtwscar ![](https://biscuit.crd.co/assets/images/gallery03/0ed759f7.gif?v=532faf5f) <-
+-> ![](https://64.media.tumblr.com/2df8aa1075b57f61036422a4a280bea9/532527fb22cf57da-1c/s640x960/7ca5f3a042f80263ec9091ccf892a985d05edbd4.gifv) <-
+-> **LINKS**![](https://files.catbox.moe/66qiay.gif) <-
+-> [link 1](/widowswebbing) 𓂃 [link 2](https://youtube.fandom.com/wiki/Mumbo_Jumbo) 𓂃 [link 3](https://open.spotify.com/track/333pmMUD6c9aTo2iPw9bYA?si=292821497aa44f4d)<-
+!!! info
+[...](/36templates)
+***

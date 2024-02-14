@@ -2830,3 +2830,161 @@ https://t.me/megatron_ron/1745  2/12/24
 https://nitter.lanterne-rouge.info/QudsNen/status/1757186364376801699#m  2/12/24
 https://files.catbox.moe/myte6s.mp4  2/12/24
 https://files.catbox.moe/7m1tsi.mp4  2/12/24
+
+>⚡️WATCH: Al-Quds Brigades published a video showing its fighters target IOF soldiers and army vehicles in western Gaza.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757340063388537133#m  2/13/24
+https://files.catbox.moe/9818w2.mp4  2/13/24
+
+>🛑| Al-Qassam (Hamas)
+
+Engaged with an israeli infantry force consisting of 7 soldiers from point-blank range, in the Abasan al-Kabira area, east of Khan Yunis, resulting in casualties between killed and injured.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757373697751503344#m  2/13/24
+
+>Scottish Prime Minister lambasts British government for refusing Gaza ceasefire
+https://nitter.lanterne-rouge.info/QudsNen/status/1757319514574733697#m  2/13/24
+
+>British MP comments on Israel's attacks on Rafah, which killed nearly 100 civilians, and re-calls for a ceasefire.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757327124103328219#m  2/13/24
+
+>🛑| According to Yedioth Ahronoth, the IOF withdrew from Shifa as part of the first prisoner’s deal, in a “secret” agreement.
+
+I call this as absolute bogus.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757378273540002159#m  2/13/24
+
+>Militias of Israeli settlers attempted to burn a house in Asira al-Qibliya in the West Bank city of Nablus.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757355887537148223#m  2/13/24
+
+>BREAKING| South Africa has made an urgent request to the ICJ to consider whether Israel’s decision to extend its military operations in Rafah requires that the court use its power to prevent further breach of the rights of Palestinians in Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757390438741188889#m  2/13/24
+
+>BREAKING| US Senate passes a 95 billion bill that would fund Ukraine, Israel, and Taiwan.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757372724186317044#m  2/13/24
+
+>⚡️𝗞𝗘𝗬 𝗣𝗢𝗜𝗡𝗧𝗦 from Hezbollah’s SG 𝗦𝗮𝘆𝘆𝗲𝗱 𝗡𝗮𝘀𝗿𝗮𝗹𝗹𝗮𝗵'𝘀 speech on "Martyrs' Day of the Resistance":
+
+• The front in southern Lebanon provides pressure, support, and participation in defeating and weakening the enemy until the aggression stops.
+
+• Political gains touted elsewhere will not affect them or make them cease the front.
+
+• The southern front is governed by deterrence measures and precise calculations by both sides, but there is excessive exaggeration, reaching the level of "moral decay and obscenity."
+
+• Another scene of moral decay and obscenity is scaring residents of border villages through calls urging them to evacuate their homes, serving the enemy's interests.
+
+• Attention should be paid to the psychological warfare carried out by the enemy and its allies.
+
+• Providing information for free on social media to the Zionist enemy is unacceptable; they actively seek this information.
+
+• Mobile phones are eavesdropping devices; thus, people are asked, especially fighters and their families in border villages, to refrain from using them to preserve lives and vital info. Mobile phones are lethal informants providing specific and deadly information.
+
+• Israelis don't need to plant agents on roads; internet-connected cameras monitor all roads. Disconnecting these cameras from the internet is crucial to prevent further casualties, losses, and exposing the front to the enemy.
+
+• Hezbollah monitors all developments in the region, keeping all possibilities open, but Hezbollah’s focus is on the south of Lebanon, with their eyes on Gaza.
+
+• When aggression stops in Gaza, the firing will stop in the south. Conversely, if firing stops in Gaza and the Zionist enemy engages in any action, Hezbollah will return based on the principles and equations that were previously established. The resistance's role is to deter the enemy, and their responses will be proportionate.
+
+• Those who threaten Hezbollah with war expansion will be met with a similar threat. Anyone who imagines that the resistance in Lebanon feels fear or confusion for even a moment is suspicious and entirely mistaken. They build on incorrect assumptions.
+
+• Today, the resistance is more confident and has a stronger determination to confront the enemy at any level of engagement.
+
+Sayyed Nasrallah to Gallant:
+
+ “The Israeli Defense Minister must understand that if he starts a war against us, he will have 2 million displaced from the north, not a hundred thousand.”
+https://nitter.lanterne-rouge.info/AryJeay/status/1757425142630596796#m  2/13/24
+https://files.catbox.moe/czwef5.mp4  2/13/24
+
+>The Sky News anchor finishes interviewing the Palestine Red Crescent spokesperson, claiming that the channel cannot "independently verify" what she has stated in the interview regarding Israeli attacks on schools and hospitals in Gaza.
+
+>The anchor proceeds to state that "innocent people are unfairly being hit in collateral damage."
+https://nitter.lanterne-rouge.info/QudsNen/status/1757416427072508012#m  2/13/24
+https://files.catbox.moe/l7uqf7.mp4  2/13/24
+
+Nasser Medical Hospital, Khan Younis |
+
+>“Get out you bunch of Animals, get out dogs”
+
+Israeli soldiers shouting via speakers on displaced people sheltering in schools and Hospital. Published by fellow journalist Mohammed Alhalou a while ago.
+https://nitter.lanterne-rouge.info/ytirawi/status/1757353408481157197#m  2/13/24
+https://files.catbox.moe/br6ug2.mp4  2/13/24
+
+>Breaking | Israeli artillery renews its shelling of the town of Aytroun in southern Lebanon.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757420660433789206#m  2/13/24
+
+>Breaking | Israeli artillery continues to shell eastern areas of Rafah.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757432375057809492#m  2/13/24
+
+>⚡️Yemen: The Ministry of Foreign Affairs in the Sana’a government: We renew our warning to the Zionist entity of a major escalation in the #Yemeni response to its attacks in Rafah.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757441175257047176#m  2/13/24
+
+>Media Coverage | According to Axios, Israeli Finance Minister Bezalel Smotrich is preventing a U.S.-funded flour shipment to Gaza, despite Prime Minister Netanyahu's promise to President Biden to allow it in Gaza. 
+
+The Biden administration proposed the shipment over a month ago, which was approved by Israeli war and security cabinets for delivery through the Kerem Shalom crossing. Biden and Blinken expressed gratitude to Israel publicly.
+ 
+>However, the shipment has been delayed at Ashdod port due to the ultranationalist minister opposition to UNRWA receiving it, according to both U.S. and Israeli officials.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757450197041340880#m  2/13/24
+
+>⚡️Leader of the #Yemeni Ansar Allah movement, Abdul-Malik al-Houthi:
+
+We achieved a victory by preventing the passage of #Israeli ships and ships heading towards the occupation ports, and we will continue our stance against the #Israeli enemy. Rather, we will move toward escalation as the aggression against the #Gaza Strip continues.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757452845589189053#m  2/13/24
+
+>🛑| Al-Qassam (Hamas)
+
+Al-Qassam confirmed the detonation of 3 booby-trapped tunnel entrances on IOF infantry forces in the Qarara area north of Khan Yunis. 
+
+The attack resulted in casualties among their ranks, with some killed and others wounded.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757459445703995606#m  2/13/24  
+
+>⚡️ Al-Qassam Brigades: We targeted a Zionist troop carrier north of Khan Yunis, and as soon as a force arrived to rescue them, we targeted a second troop carrier.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757460643748122824#m  2/13/24
+
+>Footage published by Israeli soldiers on their social media accounts reveals the deliberate destruction and burning of food warehouses in western Gaza. Meanwhile, north Gaza is being starved by the Israeli blockade preventing humanitarian aid from reaching the area.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757473171249221803#m  2/13/24
+https://files.catbox.moe/sg3mzc.mp4  2/13/24
+
+>⚡️Al-Aqsa Brigades: During the past few days, our fighters engaged in a direct clash with a Zionist special force holed up in a house west of the Khan Yunis sector, causing deaths and injuries among their ranks, and their military equipment was seized.
+
+Within the Battle of “Al-Aqsa Flood”
+
+Al-Aqsa Brigades_Military Media
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757480073181929860#m  2/13/24
+
+>🚨| 🇮🇶 BREAKING: Resistance group launched a rocket barrage targeting the American base in the Al-Omar oil field, east of Deir Ezzor.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757491193900925391#m  2/13/24
+
+>The Irish airline Ryanair has canceled all flights to Ben Gurion Airport in Tel Aviv, Israel, scheduled for March and April, citing high terminal costs.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757497119974240433#m  2/13/24    
+
+>🛑| According to several sources, there are ongoing clashes for over an hour between American-backed SDF forces and resistance groups, near the towns of Thiban and Shanan in eastern DeirEzzor. 
+
+Heavy weapons are being used, including 23mm anti-aircraft and RPGs.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757501448634425721#m  2/13/24
+
+>⚡️Al-Aqsa Martyrs Brigades published images of the military equipment they seized from IOF soldiers.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757510460318810219#m  2/13/24
+
+>"I could not in good conscience vote to send more offensive aid, more bombs and shells to Israel at a time they are conducting a campaign in this manner."
+
+US Senator @SenJeffMerkley explains the reason why he voted against the recent bill which includes $14 billion in aid to Israel.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757504143961305170#m  2/13/24
+https://files.catbox.moe/abanox.mp4  2/13/24
+
+BREAKING| The House of Bishops in England calls for an immediate ceasefire and urges Israel to adhere to the ICJ order.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757512881250148793#m  2/13/24
+
+⚡️Yemeni media: 
+
+An American-British aggression targeted the Ras Issa area in Al-Salif District in Hodeidah Governorate with a raid.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757511423658234043#m  2/13/24
+
+ 🇺🇲🇮🇱 Former U.S. Secretary of State & CIA Director Mike Pompeo dancing with Israeli soldiers near Gaza border.
+
+They play and celebrate after killing 13,000 children.
+https://t.me/megatron_ron/1768  2/13/24
+
+A section of Iran’s natural gas pipeline (pipeline 65) exploded near the city of Borujen. Firefighters are at the location. No injuries. 
+
+The nature of the event is not clear as it’s getting investigated. The fire will expand as long as there is gas.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757539655795273837#m  2/13/24
+
+⚡️The explosion that was heard a short while ago in the western region of the city of #Nablus, experimental resistance actions within the framework of developing capabilities
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757541553365569781#m  2/13/24

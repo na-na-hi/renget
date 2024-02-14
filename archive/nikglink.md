@@ -25,3 +25,5 @@ https://nikke-db.pages.dev/
 
 >Progression Calculator
 https://docs.google.com/spreadsheets/d/1k7WPnTRu1XsIwDnYd8fBuZFV8otYA1tQckKOCJAzrPY/edit
+
+-> ![p](https://i.imgur.com/C53Mx9O.gif) <-
