@@ -21,15 +21,16 @@ rblx　**analog horror**　*d&b*　**backrooms**　[*HIM.*](https://themidnightg
 **other rpg maker horror..**(ask)　bozevstheworld
 **skinamarink**　**silent hill-**&**pt**　iceburgs　**bbieal**
 & **mods**　*folktales*　**dark deception**　　morbid 
-things　*chezz kids archive*　**pokemon**　phisnom
-**arcadecore**　*bones (tv show)*　**outlast** **trials**
-dreamecore　**liminal spaces**　weirdcore　*uhyeah*
-**payday2**　**PROP MAKING.**　**brain dump**　args
-**stegosauruses**　*mini foods*　**seals**　hauntedps1
-**spookys jumpscare mansion**　*treynotgaming*　*3fs*
-chilla's art　31 minutos　**watchmen(hbo)**　*bioshock*
-**kubz scouts**　wendigoon　eric larocca　*cof*　
-the quarry　**hardcore henry**　**afraid of monsters**
-moral orel　**hotline miami**　*we happy few*　fight club
-**chonny jash**　creepypasta　[*banana bus squad*](https://vaf.fandom.com/wiki/Home_Page) <-
+things　*chezz kids archive*　**pokemon**　jazzpunk
+**arcadecore**　*bones (tv show)*　**outlast** **trials**⠀⠀
+dreamcore　**liminal spaces**　weirdcore　*uhyeah*
+**payday2**　doll making　**brain dump**　args⠀3fs
+**stegosauruses**⠀character design　**seals**⠀⠀
+haunted ps1⠀**disney creepypastas**⠀cof&aom
+**spookys jumpscare mansion**　*treynotgaming*
+chilla's art　31 minutos　**watchmen(hbo)**　*fight
+club*⠀**bioshock**⠀kubz scouts　wendigoon　
+**meat canyon**⠀eric larocca　the quarry⠀moral
+orel⠀**hardcore henry**　**hotline miami**⠀*we 
+happy few*　**chonny jash**　[*banana bus squad*](https://vaf.fandom.com/wiki/Home_Page) <-
 -> ![](https://cdn.discordapp.com/attachments/935735380538449952/946013075704795136/Strawberry_gashes.png) <-

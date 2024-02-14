@@ -12,8 +12,9 @@ List of doujin albums sorted by circles https://en.touhouwiki.net/wiki/List_by_G
 
 !!!info The TLMC contains music from nearly every Touhou doujin circle and album to date (of the specific collection's creation) and is available for download in various formats. There are several versions of TLMC maintained by different people:
  
-#### Original (Outdated) 
-##### Latest version: v.19 (2018.01.01) + temp ver. (2023.01.15, up to C101)
+#### Original TLMC (Outdated) 
+!!!note Latest version: v.19 (2018.01.01) + temp ver. (2023.01.15, up to C101)
+
 Official blog https://www.tlmc.eu/
 Online Player (OPUS) http://151.80.40.155/
 Online Player's file directories (OPUS) http://151.80.40.155/tlmc/
@@ -24,17 +25,19 @@ Nyaa torrent (v.19, FLAC): https://nyaa.si/view/1359948 - [Magnet](magnet:?xt=ur
 "Timeout" version (FLAC/TrueAudio+cue): https://files.catbox.moe/amxubt.torrent - [Magnet](magnet:?xt=urn:btih:334a33bddf5dd15db4bcd5da2cbb1e0c514e86e5)
 
 #### Fork version (Up-to-date)
-##### Latest version: v.4 (2023.09.09, up to C102)
-!!!info New version is up, circles are still in .rar archives.
+!!!note Latest torrent version: v.4 (2023.09.09, up to C102)
 
 Nyaa torrent (FLAC): https://nyaa.si/view/1714682 - [Magnet](magnet:?xt=urn:btih:95a85c3118dc15885e88f1285fe96a8400d50f6d&dn=%5BConnor_CZ%5D%20TLMC%20v4%20%28Touhou%20Lossless%20Music%20Collection%29%20%5Bflac%20%2B%20scans%20%2B%20log%20%2B%20bonus%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
 
 Previous version v.3 - up to C101 (FLAC): https://nyaa.si/view/1625916 - [Magnet](magnet:?xt=urn:btih:01f0c4c18f36dd3893f74cedf84be43f1a40a58e&dn=%5BConnor_CZ%5D%20TLMC%20v3%20%28Touhou%20Lossless%20Music%20Collection%29%20%5Bflac%20%2B%20scans%20%2B%20log%20%2B%20bonus%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
 
 Lossy version v3.5 - up to RTS20 (Opus 192kbps): https://nyaa.si/view/1695257 - [Magnet](magnet:?xt=urn:btih:2a7a8db08e5cef191136b41a849391e55af36b96&dn=%5BConnor_CZ%5D%20TLMC%20v3.5%20%28Touhou%20Lossy%20Music%20Collection%29%20%5BOpus%20192kbps%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
- 
-#### Doujinstyle's version (Up-to-date) 
-##### Latest version: up to C103?
+
+!!!info Use rsync if you have trouble downloading large (>10TB) folders.
+AList version: https://alist.thdisc.de/
+(TODO?)
+
+#### Doujinstyle's version (Up-to-date)
 !!!info Quality may vary, content is often user-contributed.
 OneDrive (FLAC): https://doujinstyle.com/?p=tlmc
 
@@ -52,7 +55,7 @@ Alternatively can be found up-to-date on TLMC.
 ### Touhou Doujin Music Distribution (Spotify, Apple Music,...)
 !!!info  acts as the publisher for Touhou Project doujin music circles on digital streaming platforms.
 Touhou circles on Spotify https://thspotify.moe
-New releases will be announced [here](https://mayoiga-shironeko.hatenablog.com/) - latest: [2024.01.16](https://mayoiga-shironeko.hatenablog.com/entry/2024/01/16/193212)
+New releases will be announced [here](https://mayoiga-shironeko.hatenablog.com/) - latest: [2024.02.14](https://mayoiga-shironeko.hatenablog.com/entry/2024/02/14/194618)
 Spotify playlists for every Touhou theme https://docs.google.com/spreadsheets/d/1VXVii8-qnAxjjyi5i_F97SPPOd0KTLx5bKkXx4ZzTc0/edit
 
 ### Crossfade/XFD Collection - latest: [Comiket 103 (2023.12.31)](https://www.youtube.com/playlist?list=PLT7Jr9NRUdpYG_X5Upx2G45ULBM2G_gn-)

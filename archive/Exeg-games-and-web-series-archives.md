@@ -59,6 +59,7 @@ Eversion | [PRESS START](https://store.steampowered.com/app/33680/eversion/)
 Patchwork Chimera Demo | [PRESS START](https://mega.nz/file/FeNGAJjL#tu9BCMYG0t2SbNbjaHJmPj_AGc-rOpMs8TeeiIESIDY)
 Newgrounds Creepypasta Collab 2023 | [PRESS START](https://www.newgrounds.com/portal/view/project/5154522)
 Shipwrecked 64 | [PRESS START](https://store.steampowered.com/app/2160220/Shipwrecked_64/)
+VibingLeaf | [PRESS START](https://www.vibingleaf.net/p/games.html)
 
 ##.exe Games
 Games List | Links
@@ -111,6 +112,7 @@ Sonic.exe Generations, Part 1 | [PRESS START](https://gamebanana.com/mods/363428
 Sonic.exe Mania: Abyss | [PRESS START](https://gamebanana.com/mods/47966)
 Call of Cthulhu | [PRESS START](http://smwdb.me/db/a/a0a9d007669c8b674162dad58e02b12e1720b528/)
 Pokemon Black | [PRESS START](https://www.romhacking.net/hacks/4577)
+Regular Pasta | [PRESS START](https://romhacking.com/hack/regular-pasta)
 
 ##Scarewares
 (warning : any damages done to your computer are at your own risk)

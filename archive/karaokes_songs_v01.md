@@ -39,7 +39,7 @@ The first original song is currently in the making, see [trailer](https://www.yo
 | Halloween Night, Tonight! (English ver., 1st Advent group cover) | -> [![](https://files.catbox.moe/2t3pop.jpg)](https://www.youtube.com/watch?v=FqXrBy_FIU0) <- |3m45|
 | BABYMETAL - MEGITSUNE (2nd Advent group cover) | -> [![](https://files.catbox.moe/wuq1h8.webp)](https://www.youtube.com/watch?v=OffTXFgbn7A) <- |4m05|
 | Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover) | -> [![](https://files.catbox.moe/in8rfy.webp)](https://www.youtube.com/watch?v=OffTXFgbn7A) <- |5m02|
-| VIVINOS - OTOMEROID (Jewelbird (Nerissa & Bijou) cover) ![](https://files.catbox.moe/0kt3mp.png) *Premieres Tue 02/13 7PM CT* | -> [![](https://files.catbox.moe/b4347h.webp)](https://www.youtube.com/watch?v=9aiuzVI35BQ) <- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|1m45|
+| VIVINOS - OTOMEROID (Jewelbird (Nerissa & Bijou) cover) | -> [![](https://files.catbox.moe/b4347h.webp)](https://www.youtube.com/watch?v=9aiuzVI35BQ) <- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|1m45|
 
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->

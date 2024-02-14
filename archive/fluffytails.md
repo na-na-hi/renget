@@ -1,13 +1,17 @@
 # 
 -> ![le fluffy](https://files.catbox.moe/hgzm5c.png)  <-
-# -> [Female](#Female) - [Male](#Male)	-	[Other](#Other) <-
-###  ->  because foolumfy tail hngh <-
+#  ->  because foolumfy tail hngh <-
+## -> [Female](#Female) - [Male](#Male)	-	[Other](#Other) <-
 
 -> **have a request? is a fox you like not on here? any suggestions for the rentry? any complains?** <-
 -> ~~just tell me in the threads~~ <-
 -> send an e-mail to bigfluffytails@proton.me. don't be shy. <-
 ***
--> ==Latest Update 1/02/24== <-
+-> ==Latest Update 2/14/24== <-
+-> Slowly reviving the Rentry. <-
+-> *Added to Female: Focks, Desune, Mikage, Shinatsu, Philo, Ellie, Yozakurahime, Eloise, Lucia* <-
+
+-> ==Previous Update 1/02/24== <-
 -> Moved Rentry. <-
 -> *Added to Male: Botan, Sorin, Zeno, Luke, and Bobby* <-
 -> *Added to Female: Elizabeth, Anzu, Aki, Koto, Yugure, Kio, Akiko, Kon-Kon, Viola, Mitsuru, Hanako, Ina, Irohana-tei, Saskya, Nier.EXE, Goddess Shuuen, Konomi, Monoko & Miho Ueno, Masae, Naoko, Mikono, NetNavi Manna, Sayuri, Fiera, Ayla, Vivian, and Xenia* <-
@@ -66,6 +70,16 @@ Character  |  Preview  |  Description  |  Links
 **Ayla** | ![Ayla](https://files.catbox.moe/owsd5t.png) | **ANTHRO** - Ayla is a schoolgirl with a crush on someone cute in her class (you). Has to jump when she wants to kiss you. | [CHUB](https://chub.ai/characters/chefseru/ayla-8b33514a) [CATBOX](https://files.catbox.moe/j64fqq.png)
 **Vivian** | ![Vivian](https://files.catbox.moe/qztz8w.png) | **ANTHRO** - Ayla is a schoolgirl with a crush on someone cute in her class (you). Has to jump when she wants to kiss you. | [CHUB](https://chub.ai/characters/nonenothingnada/vivian-624368d3) [CATBOX](https://files.catbox.moe/jqetlm.png)
 **Xenia** | ![Xenia](https://files.catbox.moe/906t63.png) | **ANTHRO** - An old mascot for Linux. She loves open source, and hates Microsoft. She'll try and convince you to switch over from your shitty Windows spyware to the ever-so-superior Linux platform. | [CHUB](https://chub.ai/characters/doombro/xenia-7f317b68) [CATBOX](https://files.catbox.moe/zhyyro.png)
+**Focks** | ![Focks](https://files.catbox.moe/gnvg1w.png) |  A VERY dumb, very affectionate foxgirl. | [CHUB](https://chub.ai/characters/granmarg/focks-6d897d15) [CATBOX](https://files.catbox.moe/97avll.png)
+**Desune** | ![Desune](https://files.catbox.moe/nxinhu.png) |  desu! | [CHUB](https://chub.ai/characters/Anonymous/desune-536ea4e4) [CATBOX](https://files.catbox.moe/2z6fij.png)
+**Mikage** | ![Mikage](https://files.catbox.moe/qlwp90.png) |  An old fox with a practiced smile. | [CHUB](https://chub.ai/characters/hitogami/mikage-5212ea8a) [CATBOX](https://files.catbox.moe/7wwu0r.png)
+**Shinatsu** | ![Shinatsu](https://files.catbox.moe/cwdvuy.png) |  Dumb foxbaba bumpkin. | [CHUB](https://chub.ai/characters/hitogami/shinatsu-e7ae2bd2) [CATBOX](https://files.catbox.moe/wxpmjc.png)
+**Philo** | ![Philo](https://files.catbox.moe/3boyoq.png) |  Foxgirl merchant who sells you her wares as you traverse the dungeon. All her items are cursed. | [CHUB](https://www.chub.ai/characters/crikeymcdoodle/4e1732b6-2d79-4197-81c7-c30241156976) [CATBOX](https://files.catbox.moe/7d5npl.png)
+**Ellie** | ![Ellie](https://files.catbox.moe/115kys.png) |  Your cute and loving (tomboy) kitsune girlfriend! | [CHUB](https://chub.ai/characters/Anonymous/ellie-6d6c7137) [CATBOX](https://files.catbox.moe/htn59s.png)
+**Yozakurahime** | ![Yozakurahime](https://files.catbox.moe/z1wo1h.png) |  A very old, immortal divine fox you might have met before. At least, she thinks you have. | [CHUB](https://www.chub.ai/characters/Anonymous/yozakurahime-fec6365b) [CATBOX](https://files.catbox.moe/jwulau.png)
+**Eloise** | ![Yozakurahime](https://files.catbox.moe/tm6ljm.png) |  A chubby foxgirl that's a bit dumb. | [CHUB](https://www.chub.ai/characters/Anonymous/eloise-cdb56f74) [CATBOX](https://files.catbox.moe/vqq05o.png)
+**Lucia** | ![Lucia](https://files.catbox.moe/m8hg9v.png) | A foxgirl swordswoman and mercenary. | [CHUB](https://chub.ai/characters/Anonymous/lucia-b31e5f8d/) [CATBOX](https://files.catbox.moe/ektnbu.png)
+
 
 
 ### Existing Characters

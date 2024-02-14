@@ -308,7 +308,7 @@ T4 bag for Tsubaki > T7 badge for Yuuka > Hats/Gloves > Watches > Rest
 For a 3* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 
 
 >What hard nodes should I farm?
-![hard nodes to farm](https://files.catbox.moe/xaahdt.png)
+![hard nodes to farm](https://i.imgur.com/2tazpqW.png)
 If you have to choose between farming a student that you own vs someone you don't own thats higher on the list: choose the higher one. 
 Example: you prioritise farming Iori (unowned) > Chise (owned) 
 
@@ -458,7 +458,7 @@ Don't use ur elephs for [farmable characters](https://rentry.org/how2playba#farm
 Ignore eleph shop 2. It has some good stuff in it, but elephs are a really rare resource. Do not brick yourself and buy the secret note here. Do not. 
 
 >Raid shop
-![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/uRlXlyz.png)
+![For me, Hanako is SSS tier. Buy her elephs NOW](https://i.imgur.com/bnToUFS.png)
 
 Don't get the secret tech note until you actually need it. You use it to bring your regular skills from 9 -> 10, which aren't a bottleneck until you're well into your BA tenure. Besides that ur free to buy whatever you need.
 I personally recommend buying stuff for the current and next raid.
@@ -506,7 +506,7 @@ They're okay. If you need them they're handy. I always buy them, but I'm 2 years
 
 >Mastery Certificate/Expert Permit shop
 (After you hit MAX level, 1 AP = 1 Mastery Cert)
-![expert permit priority](https://i.imgur.com/LEvZnzl.png) 
+![expert permit priority](https://i.imgur.com/bJn92E8.png) 
 According to [this korean post](https://gall.dcinside.com/mgallery/board/view/?id=projectmx&no=3931989), the priority is:
 Credits > Limited Elephs (that you need) > Pins (if you need) > Eligma > Reports
 Everything depends on your needs at the time though, and you can just buy whatever you want.

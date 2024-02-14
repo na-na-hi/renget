@@ -2,9 +2,13 @@
 ##Get PonyXL here
 https://civitai.com/models/257749?modelVersionId=290640
 
-Anons have been experimenting with merging PonyXL with other checkpoints, the following autism mixes have been popular, the DPO one has a much better default style out of the box, PonyXL LoRAs do still work on them but they may have a reduced strength.
+Anons have been experimenting with merging PonyXL with other checkpoints/loras, the following autism mixes have been popular, the DPO one has a much better default style out of the box, PonyXL LoRAs do still work on them but they may have a reduced strength. It seems these mixes generally have better hand anatomy although some complain that it gives it more of a 2.5D "aomslop" look.
 
 https://civitai.com/models/288584?modelVersionId=324619
+
+You can also experiment with the following lora on the base pony model, it's basically the difference between the autism_pony mix and base pony extracted into a lora, this way you can play with how strong you want the "autism" effect, this might allow you to preserve more of the appearance of the pony LoRAs you're using but also still get improved anatomy. You could also alternatively use an autism checkpoint and use this LoRA in the negative for a similar effect.
+
+https://files.catbox.moe/kk4qjo.safetensors autismmix
 
 ##List of Ponyxl LoRAs from /h/
 NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
@@ -19,9 +23,23 @@ https://files.catbox.moe/2kiajb.ps1
 ###Random
 https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003, you would have to look at the lora metadata to know what to prompt, there's flesh on the walls and stuff, fun to mess with
 https://files.catbox.moe/d9k7nf.safetensors slay_the_princess a visual novel that came out last year that has a sketchy art style, supports 5 of the game's characters: adversary, specter, nightmare, tower, and witch you have to prompt for their features to get them to show up, this file has the characters with their associated tags: https://files.catbox.moe/uprfne.txt, here's some example gens: https://files.catbox.moe/32eskz.png, https://files.catbox.moe/c87hl7.png, https://files.catbox.moe/kp5hbk.png, https://files.catbox.moe/jta8v1.png, https://files.catbox.moe/jsz1rp.png
-https://files.catbox.moe/te26ne.safetensors braces activation trigger is braces, some colors were tagged, rainbow braces, red braces, yellow braces, pink, braces, you pretty much HAVE to inpaint because the target area is typically going to be quite small in the image, could also try adetailer lips model
 https://litter.catbox.moe/onephu.safetensors waffen-ss Activation tag is WaffenSS but you can add : black military uniform, black military hat, swastika armband
+https://files.catbox.moe/te26ne.safetensors braces activation trigger is braces, some colors were tagged, rainbow braces, red braces, yellow braces, pink, braces, you pretty much HAVE to inpaint because the target area is typically going to be quite small in the image, could also try adetailer lips model
+
+###Concepts
 https://files.catbox.moe/f6r1nl.safetensors shared_clothes keyword is SharedClothes, example gen: https://files.catbox.moe/oddiam.png
+
+These are from the below mega, a couple were resized from their original size to get them under the 200mb limit
+https://files.catbox.moe/hfpslw.safetensors empty_eyes_drooling example gen: https://files.catbox.moe/p7aido.png
+https://files.catbox.moe/9qixqa.safetensors glowing_eyes activation trigger is glowing eyes
+https://files.catbox.moe/yz5c9g.safetensors quadruple_amputee activation trigger is quadruple amputee
+
+Resized ones:
+https://files.catbox.moe/z71ic0.safetensors sex_machine activation trigger is sex machine
+https://files.catbox.moe/mxbbg2.safetensors stasis_tank activation trigger is stasis tank
+
+These won't download automatically since they're on mega, most are in the above list, however anons sometimes add stuff to these folders that I might miss.
+https://mega.nz/folder/v2ZnADCR#hAELnn6ieCjsggLdG4quIw empty_eyes_drooling, glowing_eyes, quadruple_amputee, sex_machine, stasis_tank
 
 ###Artists/Styles
 These don't require activation triggers unless otherwise stated. Some of these had been previously uploaded to litterbox because they were too large for catbox. Unfortunately the links have expired, I've replaced them with resized versions that are just a couple ranks smaller so hopefully there's no quality loss. These replacement LoRAs have resized on the end of their names. I removed the original ones so people who were lucky enough to download them won't have them overwritten.

@@ -21,7 +21,8 @@
 [Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search every abstract
 [Arxiv ML](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of machine learning papers 
 [PapersWithCode](https://paperswithcode.com)|Indexer that allows sorting by GitHub stars
-[Semantic Scholar](https://www.semanticscholar.org)|Scientific literature search tool
+[Semantic Scholar](https://www.semanticscholar.org)|Scientific literature semantic search tool 
+[Scholar Inbox](https://www.scholar-inbox.com)|ML focused paper recommendations based off personal preferences
 |
 **News**|
 [AI Explained](https://piped.kavin.rocks/@aiexplained-official)|General AI news with well sourced links (Youtube) 

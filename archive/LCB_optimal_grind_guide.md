@@ -4,11 +4,13 @@ Here's the most optimal guide to farming and grinding the most effectively at Li
 
 If your max Enkephalin is above 100+, 3 refills per day is your maximum goal. Otherwise, stick to only 2 refills. That way, you'll make the most of your Lunacy. You will save up as much Lunacy for Walpurgis Night, which has exclusive IDs/EGO that are overpowered as fuck. Walpurgis Night only comes once every 3 months, and the only way to get those IDs are through pulls.
 
+With 750 Lunacy from the weekly Mirror Dungeon bosses, 300 Lunacy from the weekly updates, you'll still have a net loss of 42 Lunacy. However, don't let that discourage you. As a new player, you have so many different ways to gain free Lunacy. If you uptie any ID to tier 3, you'll get 40 Lunacy. If you finish any story node, battle or just cutscenes, that's another 40 Lunacy. The Battlepass also has a lot of Lunacy, same with the Battlepass of the side Cantos (the X.5 chapters). Not to mention, with every new content, the game is bound to break, not always, but most of the times. Be it a new ID release, a new Mirror Dungeon, a new Railway Refraction, or even a new Canto. Depending on how severe it is, emergency updates will commence, rewarding you with Lunacy once the update is completed.
+
 >Pulls
 
 Never, and I mean NEVER, do pulls. It's a scam, even if Limbus Company has the most generous rates in the sea of predatory Gacha games.
 
-The only time you should ever do pulls, is when a new banner is released. Never go for old banners. A lot of the older IDs are either useless, require a niche setup, or are underpowered. The new IDs will always be more powerful than the old ones, and a single 10 pull should at least guarantee the new 00 ID, and MAYBE the 000 ID. You will do a SINGLE 10-pull, and stop there. As tempting as it’ll be, you NEED to stop at a single 10 pull.
+But if you do any pulls, the only time you should ever do pulls, is when a new banner is released. Never go for old banners. A lot of the older IDs are either useless, require a niche setup, or are under-powered. The new IDs will always be more powerful than the old ones, and a single 10 pull should at least guarantee the new 00 ID, and MAYBE the 000 ID. You will do a SINGLE 10-pull, and stop there. As tempting as it’ll be, you NEED to stop at a single 10 pull.
 
 And I’ll sound like a broken record, but NEVER do EGO banner pulls. It’s less than a 2% chance, and you’re better off saving your Lunacy.
 
