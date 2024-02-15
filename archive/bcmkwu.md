@@ -1,3 +1,20 @@
+>Russian flag raised in northern Avdeevka
+https://files.catbox.moe/1veonn.mp4
+>Belgorod sports field hohol terror attack aftermath (NOT COMFY)
+https://files.catbox.moe/x4qc6j.mp4
+>Belgorod shopping center Uki terror attack aftermath (NOT COMFY)
+https://files.catbox.moe/kod2ef.mp4
+>State of uki trench
+https://files.catbox.moe/3tgnum.mp4
+>Hohols in Avdeevka saturated with FAB
+https://files.catbox.moe/oupi44.mp4
+>Footage of the arrival at the Belgorod shopping centre
+https://files.catbox.moe/f5gh8x.MP4
+>Tucker's paywalled videos
+https://litter.catbox.moe/xvnz6e.mp4
+https://litter.catbox.moe/qn49vb.mp4
+>Combat work of an operator of the Russian Armed Forces to destroy a Ukroboevka
+https://files.catbox.moe/wqpv2d.mp4
 >Pieces of US supplied GLSDB guided bombs
 https://files.catbox.moe/y6smx4.mp4
 >Russian attack on Tsarskaya Hunt

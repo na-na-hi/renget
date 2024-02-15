@@ -1,7 +1,7 @@
 -> *" [I'M](https://www.youtube.com/watch?v=Z_bRcz9ujIw) NOT* ![](https://mikejima.crd.co/assets/images/shadow/661ada03.gif?v=03449813) *A [~~CROOK~~](https://www.youtube.com/watch?v=Z_bRcz9ujIw) ? "*<-
--> ![](https://media.discordapp.net/attachments/1080126228331253933/1090059058997891083/image.png) <-
--> ![](https://64.media.tumblr.com/533286df1bfe86ad502ff4199b61511d/cd30ff3c9008ddf5-68/s75x75_c1/46725552dc9984ccf11c9516e4435b9072a1f79e.gifv)⠀**adam** ₒᵣ olivia ┄ he[hym](https://pronouns.cc/@weepinglovers/adammurray88) **(≧∇≦)** <-
+-> ![](https://files.catbox.moe/mnc6m0.png) <-
+-> ![](https://files.catbox.moe/wsrph5.gifv)⠀**adam**⠀ₒᵣ⠀olivia ┄ he[hym](https://pronouns.cc/@weepinglovers/adammurray88) **(≧∇≦)** <-
 -> [★](https://open.spotify.com/playlist/4AWS8h4Ad2fI5dvoWBozU9)⠀**21**yrs ![](https://pixelbank.neocities.org/decome/bats/5ec98698.gif) [**ta**](https://rentry.co/paranormalz)ken⠀![](https://i.imgur.com/2GhraNC.gif) syshost⠀[~~fict~~](https://pk.fulmine.xyz/m/wbdtv)[*ive*](https://mandela-catalogue.fandom.com/wiki/Adam_Murray) <-
-->  ![](https://i.imgur.com/qiNldR6.gif)⠀*re*al ~~life~~ [*an*gel](https://en.wikipedia.org/wiki/Weeping_Angel) ?*?*⠀**&**⠀bpd***tism*** ❞ <-
+->  ![](https://i.imgur.com/qiNldR6.gif)⠀*re*al ~~life~~ [*an*gel](https://en.wikipedia.org/wiki/Weeping_Angel) ?*?*⠀**&**⠀[bes](markh)[ties](dylanstherapy) <-
 -> ~~**ᴗᴗᴗᴗᴗᴗ**~~⠀[*f*ront](https://pk.fulmine.xyz/f/zavro) ₊ [*s*ys](https://pk.fulmine.xyz/s/zavro) ₊ [*p*k](https://pluralkit.xyz/m/wbdtv/d?j=show&d=nitro) ⠀~~**ᴗᴗᴗᴗᴗᴗ**~~ <-
 -> ![](https://images-ext-1.discordapp.net/external/WOXhLAic5mTR73KYotFz0STRPbnuvsXVrzyfGNFd_eU/%3Fv%3Dd7271437/https/gifcity.carrd.co/assets/images/gallery47/61e1ca03.png) <-

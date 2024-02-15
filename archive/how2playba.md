@@ -129,9 +129,10 @@ You can only spark units currently on banner.
 You get 12,000 gems (= 100 rolls) on average per month as a f2p ([source](https://www.reddit.com/r/BlueArchive/s/uIqemypEhj) [(image version)](https://i.imgur.com/aFw06dG.png)), which means it takes 2 months to get a spark. There's a lot of [freebies lying around for new accounts](https://docs.google.com/spreadsheets/d/1_SK19RJnCdYD96JjcTNhwYb9W_FrHPqL78XENdWHEBU/htmlview#) though.
 
 >What should I do after my initial rolls? Do I roll without a spark?
-You want to save up for a spark before rolling. **Do not roll without a spark**, because you can get fucked really hard.
+After your initial rolls, which is the first 10 roll + the rolls after mission 1-1, you want to save up for a spark before rolling.
+**Do not roll without a spark**, because you can get fucked really hard.
 After that do whatever. You can follow [a banner guide](https://rentry.org/how2playba#banner-guide) or roll for who you like. 
-Make sure to always have 1 spark ready for the anniversary banner.
+Make sure to always have 1,5 sparks ready for the anniversary banner + free 100 roll banner.
 
 >I have X amount of rolls into the banner, but I already rolled the banner unit. Should I keep going?
 Play it by ear. It's always nice to save some extra rolls for the future, but as a rule of thumb I'd say above 150 rolls you just keep going.
@@ -606,7 +607,7 @@ If you're planning on being a dolphin, like all gacha games the best value pakej
 
 The 1 dollar Serika is nice, but pretty unneeded. 
 
-I'm not a big spender so I can't give too much of an opinion on the other packs. The anniversary selectors seem cool though, definitely worth a zinger box or two.
+I'm not a big spender so I can't give too much of an opinion on the other packs. [The anniversary selector](https://i.imgur.com/e44zYwW.png) seems cool though, definitely worth a zinger box or two. Prioritise Ako/Himari > Ui > rest
 
 ## Main story stuff (spoiler free) 
 (WIP)
@@ -617,8 +618,11 @@ I'm not a big spender so I can't give too much of an opinion on the other packs.
 Ordered by release date:
 Volume 1 > V2C1 > V3C1-3 > V4C1 > V3C4 > V2C2 > Volume F > V4C2 > V5C1
 
-If you want every single context available, it's:
-Volume 1 > V2C1 > Hina's momotalk (lol) > V3C1-2 > Trinity Summer 1 > V3C3 > V4C1 > V3C4 > V2C2 > Izuna event > An Unconcealed Heart (Michiru event) > Cherino event > After School Sweets club event > Abydos summer > Hyakki summer > Volume F > V4C2 > V5C1
+Including the events:
+Volume 1 > Izuna event > V2C1 > Cherino event > Hina's momotalk (lol) > V3C1-2 > Trinity Summer 1 > Gehenna Summer > Shunny event > Bunny Chasers > Decagrammaton Story 1-2 > Hot Springs event > V3C3 E1-9 > NY Problem Solvers 68 > V3C3 E10-25 > Wakamo Valentine event > Ui event > V4C1 > Michiru event > Decagrammaton Story 3-4 > V3C4 E1-10 > Abydos summer > Hyakkiyako summer > V3C4 E11-25 > ASS club event >
+
+
+V2C2 > Volume F > V4C2 > V5C1
 
 You can also read it by volume. 
 

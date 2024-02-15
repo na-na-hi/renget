@@ -1,34 +1,22 @@
 #/AICG/ SECRET VALENTINES 2024
-!!! info Happy Valentine's Day! [Click here to see when it ends.](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive)
+!!! info Hope you all had a good time!
 ->![](https://files.catbox.moe/rmhzlu.gif)<-
 [TOC]
 
 ##Contact
 [robosaintv@proton.me](mailto:robosaintv@proton.me)
-##HOW IT WORKS
-1. ~~**Botmakers submit themselves as recipients. ***THE DEADLINE FOR THIS IS JANUARY 31.*****~~
-2. ~~**Robo-Saint V figures out who gets who as their valentine.**~~
-3. ~~**The botmakers who submitted get a return email from the robo-saint.**~~
-Don't be afraid to send a mail to [robosaintv@proton.me](mailto:robosaintv@proton.me) and ask for help if you get stuck!
-4. ~~**Botmakers make bots according to the specifications.**~~
-You've got a bit more than a week to do this, so don't get too extravagant in your plans.
-5. **On Valentine's Day, February 14, the botmakers post their gifts in the threads!**
-Write who the gift is for so that they know. To try to avoid drama and gossip shitting up the threads, the robo-saint would prefer if you posted anonymously and *didn't* say who you were.
-4chan strips metadata from posted images, so *remember to post a link to the bot on an external website.* To upload files anonymously, use [catbox](https://catbox.moe/) or simply set the upload as anonymous on [chub.ai](https://www.chub.ai/). (Note that the latter still lets you see all the downloads and reviews on your personal profile view, so you won't miss out on that number-based dopamine.)
-Bots posted during Valentine's Day will be listed below.
 []( botname|pilotname|![](thumburl)|%green% **[[CHUB LINK]]() [[CATBOX LINK]]()** %% )
 ##BOTS
-[ESTIMATED LOADING TIME: 0079 cycles. FINISHED AT: [February 14, 2024](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive)]
 CODENAME|NAME|PILOT|LIVE FEED|DOCUMENTS
 ---|---|---|---|---
-V-00 "VALENTINE"|Robo-Saint V|**[CLASSIFIED]**|![](https://files.catbox.moe/p2cq5d.gif)|%red% **[ACCESS DENIED]** %%
+V-00 "VALENTINE"|Robo-Saint V|(you)|![](https://files.catbox.moe/p2cq5d.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/robo-saint-v-01ad4e82)** %%
 V-01 "WOLF"|Henkei|Lumen|![](https://files.catbox.moe/669z9f.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/zl-henkei-model-e4944695)** %%
 V-02 "PILOT"|Rikerr|Planewalker|![](https://files.catbox.moe/5d3ekt.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/rykerr-c93bd093) [[CATBOX LINK]](https://files.catbox.moe/fg2ddu.png)** %%
 V-03 "UMAMI"|Amiel|chefseru|![](https://files.catbox.moe/gvp879.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amiel-2879a3a9/main) [[CATBOX LINK]](https://files.catbox.moe/tpymy6.png)** %%
 V-04 "PRINCE"|Lisette|Lunare|![](https://files.catbox.moe/ix4bjs.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/lisette-ba5fe39d) [[CATBOX LINK]](https://files.catbox.moe/osycw5.png)**%%
 V-05 "FATHER"|Malvét|Astroturf|![](https://files.catbox.moe/p2cnq0.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/malvet-8efecb82/) [[CATBOX LINK]](https://files.catbox.moe/ho9cyu.png)** %%
 V-06 "BEACH"|Ellie|Victrex|![](https://files.catbox.moe/oyh6oo.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/ellie-6d6c7137) [[CATBOX LINK]](https://files.catbox.moe/xeegew.png)** %%
-V-07 "BRAVE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-07 "BRAVE"|Vesper|Generaider Boss Stage|![](https://files.catbox.moe/78wcnf.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/vesper-1bb55a68/main)** %%
 V-08 "MANIFOLD"|**RETIRED**|**RETIRED**|![](https://files.catbox.moe/msljbn.gif)|**RETIRED**
 V-09 "BLADE"|Lucia|youkolove|![](https://files.catbox.moe/j3w5or.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/lucia-b31e5f8d/) [[CATBOX LINK]](https://files.catbox.moe/gcz2vy.png)** %%
 V-10 "GULLIVER"|Kyodaina Gaki|Genoo|![](https://files.catbox.moe/021uyf.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/kyodaina-gaki-35440c45) [[CATBOX LINK]](https://files.catbox.moe/1qrrg9.png)** %%
@@ -73,29 +61,6 @@ V-44 "GOTHIC"|Violet|IronAnon|![](https://files.catbox.moe/yvd126.gif)|%green% *
 V-45 "VILLAIN"|Zoe|Lacroix|![](https://files.catbox.moe/u2lzs3.gif)|%green% **[[CHUB LINK]](https://www.characterhub.org/characters/Anonymous/zoe-8b84dd93) [[CATBOX LINK]](https://files.catbox.moe/3qxkla.png)** %%
 
 ##Q&A
-###Deadlines
-**What are the deadlines?**
-~~Applying to be a part of this: [Wednesday January 31, 23:59 UTC-12](https://www.timeanddate.com/countdown/valentines?iso=20240131T235959&p0=3399&msg=Secret+Valentine+Entry+Deadline&font=cursive&csz=1).~~
-~~Robo-Saint V figuring out who gets who and sending out emails: within 24 hours of the last applications, hopefully.~~
-Posting your bots: during Valentine's Day, February 14. Don't post your bots before Valentine's Day!
-**What timezone are we counting for Valentine's Day?**
-From [00:00 UTC+14](https://www.timeanddate.com/countdown/valentines?p0=274&msg=Valentine%27s+Day+Start&font=cursive) to [23:59 UTC-12](https://www.timeanddate.com/countdown/valentines?iso=20240214T235959&p0=3399&msg=Valentine%27s+Day+End&font=cursive), if it's Valentine's Day *somewhere* then it counts. Try to post when it's Valentine's Day in your local area.
-**Are late applications allowed?**
-Botmakers need time to write bots, so unfortunately that won't be allowed. Channel that FOMO energy into filling the anchor with bots!
-###Making bots
-**Help, the request I got is too vague!**
-Go check out their links, if possible, and see what types of bots they've written that feel similar. When in doubt, assume the more "normie" option. If they wanted something "weird", they'd probably ask for that.
-###Bad actors
-**What if I'm an asshole and don't give a gift?**
-You'll be publicly named and shamed for it, while the person who got snubbed will probably get some make-up gifts from other anons.
-**What if I'm not an asshole, I just got unexpectedly busy and couldn't make it in time?**
-Send an email to the robo-saint (robosaintv@proton.me) and they'll tell your valentines what's going on.
-###Matchmaking
-**Will the person I gift to be the person making a bot for me?**
-No, it'll hopefully be a big ring of people giving gifts to one another (or possibly some smaller rings, if the preferences don't line up nicely).
-**But I wanted a cute couple gimmick!**
-To quote an anon, "everyone making bots for each other on Valentine's Day is extremely cringe and is a recipe for disaster."
-So to avoid that, it's just a Secret Santa run two months later since there was an outcry of FOMO after Christmas.
 ###Miscellaneous
 **The codename for my bot is just outright wrong!**
 The codenames were one-word hints at the request that was given for that particular bot. In some cases there wasn't much to go on, while in other cases they might focus on different parts of the request than actually got made. Some of them require multiple leaps of logic. They were not very good hints, but they were fun to make.
@@ -104,7 +69,7 @@ No, the robo-saint is just inspired by our jolly friend.
 **Are you a botmaker?**
 Yes, but probably not one you've thought of much. The robo-saint won't be participating unless it needs to.
 **Robo-Saint V? Is it just a V, or is it meant to be a 5?**
-The full designation is technically "Robo-Saint Valentine".
+The full designation is technically "Robo-Saint Valentine", but that was long and "Robo-Saint V" has some mecha feel to it. For the bot, though, V is the roman numeral.
 **Can I ask you a question?**
 Sure! Send it to [robosaintv@proton.me](mailto:robosaintv@proton.me).
 **Can I get those robot images you were posting?**

@@ -17,9 +17,11 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 		- [airoboros-l2-7B-gpt4-2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-2.0-GPTQ) <- For chatting.
 		- [airoboros-l2-7b-gpt4-m2.0-GPTQ](https://huggingface.co/TheBloke/airoboros-l2-7B-gpt4-m2.0-GPTQ) <- For RP.
 		- [Mistral-7B-claude-chat](https://huggingface.co/Norquinal/Mistral-7B-claude-chat) <- Mistral generally outperforms LLaMA-2-7B
+		- **[UNA-TheBeagle-7B-v1](https://huggingface.co/TheBloke/UNA-TheBeagle-7B-v1-GGUF) <- This model has ruined other 7b models for me (Trappu). It's really hard to believe it's a 7b model considering how well it performs compared to everything else. This is a model I'd recommend even if you have the specs to run much larger models because of how good it is.**
 	
 	- 10.7B:
-		- **[SOLAR-10.7B-Instruct-v1.0-uncensored](https://huggingface.co/w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored) <-Trappu's favorite non-Mixtral model. Suffers slightly from censorship.**
+		- [SOLAR-10.7B-Instruct-v1.0-uncensored](https://huggingface.co/w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored)
+		- **[Fimbulvetr-10.7B-v1](https://huggingface.co/Sao10K/Fimbulvetr-10.7B-v1-GGUF) <- Currently my (Trappu) comfort model along with UNA-TheBeagle-7b-v1. It, in my opinion, outperforms many of the larger models when it comes to roleplay and is on a whole other level compared to <=13b models.**
 	
 	- 13B:
 		- [LLaMA2-13B-Psyfighter2](https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2) <- One of the best 13B's for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)
@@ -44,7 +46,8 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 		- [Lewd-Sydney-20B](https://huggingface.co/Undi95/Lewd-Sydney-20B)  <- Uniquely realistic chatting experience! Works best with a character named "Sydney".
 	
 	- Mixtral 8x7b:
-		- **[MixtralRPChat-ZLoss](https://huggingface.co/chargoddard/MixtralRPChat-ZLoss) <- One of AliCat's favorite models. It can do everything, Chat/RP/Adventure/ERP and does well with all of them. The instruct format can be a little tricky, since it requires a leading space. Another issue to look out for is leaking (length = x), so is another tricky aspect to get around. If you're having issues with the model, then I'd recommend Mixtral Instruct instead. This is my current goto model!**
+        - **[Air-Striker-Mixtral-8x7B-Instruct-ZLoss](https://huggingface.co/LoneStriker/Air-Striker-Mixtral-8x7B-Instruct-ZLoss-3.75bpw-h6-exl2) <- Currently one of, if not, the best performing 8x7b model we've been able to use when it comes to RP. Currently your best bet if you'd like to try an MoE.**
+		- [Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss](Noromaid-v0.4-Mixtral-Instruct-8x7b-Zloss-3.75bpw-h6-exl2) <- One of the top 8x7b models. ChatML is unfortunately broken on this model so you can't use it with instruct mode. Still a good model despite being unable to be used in its best condition.
 		- [Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1) <- If you're looking for a smart model that's great at following directions, then this is one of the best choices overall. It can struggle with detailed ERP scenes as it has a tendancy to speed thorugh it. Can moralize as well, as it does have some censorship. CFG and light jailbreaks can get around the censorship.
 	
 ***

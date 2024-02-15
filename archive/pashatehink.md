@@ -29,6 +29,12 @@ TO-DO LIST: Stop the descent into depravity as soon as possible.
 - **astroturf**
 - **ironanon**
 - **darkfantasy109 (very sad!)**
+- **Sull**
+- **sturdy avatarfag crew in general**
+- **mis0**
+- **granmarg**
+- **gojofaggot**
+- **/uhg/**
 ***
 [TOC]
 

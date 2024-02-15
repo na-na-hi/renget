@@ -1,6 +1,6 @@
 -> ![pixxie](https://media.discordapp.net/attachments/982634866699014256/1142615347132907660/image0.gif) 
 ![](https://media.discordapp.net/attachments/1113238861271793695/1139700296105332856/Untitled103.png?width=020&height=020) ┈ [in use](https://rentry.co/pixxie) *iffy* **nft** uft｡ ![](https://media.discordapp.net/attachments/903364339464044575/1090723157037551668/33296D63-FE55-47B6-90DF-D647B3190175.gif) ❞
-a**t 10**0+ *u*rls⠀⦂ dm [@partyjimmy](https://rentry.co/silenthillspt) on dc 
+a**t 10**0+ *u*rls⠀⦂ dm [@prizecorner](bailey) on dc 
 ![](https://media.discordapp.net/attachments/982634866699014256/1141859330430345216/BCE0CC17-99DE-4D62-939F-F9F07D5DC492.png) <-
  
 ->  ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://three.crd.co/assets/images/gallery47/1e9a2527_original.png?v=7d20e3a9) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892566514675814/Untitled-19.png) ![](https://media.discordapp.net/attachments/982634866699014256/1141892533018968145/Untitled-18.png)  <-

@@ -52,7 +52,7 @@
 *laughterelement* *honestyelement* **loyaltyelement** **generosityelement**  **kindnesselement** *magicelement* *queenchrysalis* **rarityplush** ~~fluttersbat~~ *fluterbat* *appledrac* ┊!**kieranvalentine** **kireranvalentines**┊~~`snoopie`~~ ┊~~`apo!ogygirl`~~ **jessenjane** *michaelehrmantraut* **bcsaul** ~~slippingjimmy~~ **charliehustle** **jamesmcgi!l**┊ ~~spides~~ ~~websy~~ **blacksuit** ┊*thebigbangtheory*┊~~josephlevitt~~ ~~joelevitt~~┊ ~~ghostfacetwo~~ ~~ghoststu~~ ~~billystu~~ **stumachr** **stus** **machers** **stuu** *ghostface2*┊*beradonna*
 ***
 ###### -> `  ˚  .　url wishlist  ⠀ 𓂋` <-
--> ill trade **m̲̲u̲̲l̲̲t̲̲i̲̲p̲̲l̲̲e̲ ̲u̲̲r̲̲l̲̲s̲** for these, including nft ones <-
+-> ill trade !~**multiple urls**~! for these, including nft ones <-
 -> fl(i)uttershy(s) · fl(i)utterbat · yatorayaguchi · yaguchiyatora · yaguchi · yatora · murai · yakumo muraiyakumo · vampire related things · saulgoodman · janemargo(i)lis · kaworunagisa · kawoshin · reze · akutagawaryu(u)nosuke · ryu(u)nosuke · akutagawa · finn ·  finnie · finnfinn · matcha · matchalatte <-
 ***
 ***

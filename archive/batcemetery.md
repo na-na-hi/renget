@@ -1,3 +1,5 @@
+Wip. I'm changing this :-)
+
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1100527861326172221/1A3C1E7C-27CB-4BDC-B5DD-2318BA32A9BF.jpg) <-
 
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1100873541932564520/15076E71-8961-447F-8C8E-A22B535747DF.png) <-
@@ -35,7 +37,7 @@
 ->◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠<-
 ->      =͟͟͞♡ 𓂅 **made for others**  ![](https://media.discordapp.net/attachments/903364339464044575/1091271792242475029/BC510E6D-3EF8-429A-9D63-FAAFEBADFE9E.gif) <-
 -> *italicized* : some changes made by the owner<-
--> [arashinarus](https://rentry.co/arashinarus) & [ayyur](https://rentry.co/ayyur) & [*klodwig*](https://rentry.co/klodwig) & [*naterivr*](https://rentry.co/naterivr) & [zombiepaws](https://rentry.co/zombiepaws) & [vfuentes](https://rentry.co/vfuentes) & [honaenas](https://rentry.co/honaenas) & [irmie](https://rentry.co/irmie) & [thefirstchiid](https://rentry.co/thefirstchiid) & [*angelwjngs*](https://rentry.org/angelwjngs) & [deltawashere](https://rentry.org/deltawashere) <-
+-> [arashinarus](https://rentry.co/arashinarus) & [ayyur](https://rentry.co/ayyur) & [*klodwig*](https://rentry.co/klodwig) & [*naterivr*](https://rentry.co/naterivr) & [zombiepaws](https://rentry.co/zombiepaws) & [vfuentes](https://rentry.co/vfuentes) & [honaenas](https://rentry.co/honaenas) & [irmie](https://rentry.co/irmie) & [thefirstchiid](https://rentry.co/thefirstchiid) & [*angelwjngs*](https://rentry.org/angelwjngs) & [deltawashere](https://rentry.org/deltawashere) & [bunnyagami](https://rentry.org/bunnyagami) & [forlunar](https://rentry.org/forlunar) & [hachikiko](https://rentry.org/hachikiko) & [burple](https://rentry.org/burple)<-
 ->◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡<-
 
 ***

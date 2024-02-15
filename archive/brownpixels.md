@@ -52,6 +52,7 @@ hi i didnt know this site had sm views & shit what?? im revamping this!
 ![](https://caterpie.crd.co/assets/images/gallery12/45566f63.png?v=55641fe5)
 
 ***
-this is ran by [pixxie](https://rentry.co/pixxie) (**they**/any prns [+](https://en.pronouns.page/@bambistep)[+](https://rentry.co/glowstix)) && send me some brown pixels ★ @partyjimmy on discord
-update log ; started feb 23rd
-july 9th ; added more dividers and pixels
+this is ran by [pixxie](https://rentry.co/pixxie) (**they**/any prns [+](https://en.pronouns.page/@bambistep)[+](https://rentry.co/glowstix)) && send me some brown pixels ★ @prizecorner on discord
+update log ; started feb 23rd 2023
+july 9th 2023 ; added more dividers and pixels
+feb 15th 2024 ; officially revising this rentry w a revamp

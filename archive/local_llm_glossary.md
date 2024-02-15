@@ -1,4 +1,4 @@
-# Kalomaze's Local LLM Glossary
+peg# Kalomaze's Local LLM Glossary
 Not super comprehensive (yet), but I think having up to date documentation like this should be quite helpful for those out of the loop. Things change all the time in local AI circles, and it can be dizzying to catch up from an outsider's perspective, especially if you are new to the more technical aspects of language models in general (and not just locally hosted LLMs).
 
 Without further ado:
@@ -68,4 +68,5 @@ Without further ado:
 ### Sampling
 - There are different schemes / strategies in place to uniquely pick from the probabilities that the model created. For example, you can truncate and remove tokens based off their distance from the top token via **Min P sampling**.
 - Traditionally, the two most well known parameters are "Temperature" and "Top P". A lower Temperature will be more deterministic (with increased risk of repetition / stale texts), and a higher Temperature will be less deterministic (with increased risk of incoherency).
-- Min P is something I proposed a while back that has seen adoption in different backends for hosting LLMs (llama.cpp, exllamav2, text-generation-webui's loaders, etc) which sets a minimum threshold for a token to "pass" for consideration relative to the top token probability. Top P is bad compared to Min P in my opinion, and I'm too lazy to finish explaining why so I'll finish writing this later.
+- Min P is something I proposed a while back that has seen adoption in different backends for hosting LLMs (llama.cpp, exllamav2, text-generation-webui's loaders, etc) which sets a minimum threshold for a token to "pass" for consideration relative to the top token probability.
+- Top P is the well known sampling truncation strategy. It adds up as many tokens will meet a certain percentage threshold. In my opinion, this has been obsoleted by better sampling techniques.

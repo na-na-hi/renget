@@ -50,6 +50,7 @@
 12/2023|[Style Aligned Image Generation via Shared Attention](https://arxiv.org/abs/2312.02133)
 01/2024|[A Minimaximalist Approach to Reinforcement Learning from Human Feedback (SPO)](https://arxiv.org/abs/2401.04056)
 02/2024|[Time-, Memory- and Parameter-Efficient Visual Adaptation (LoSA)](https://arxiv.org/abs/2402.02887)
+02/2024|[Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://files.catbox.moe/0tugft.pdf)
 |
 |**Deepmind (Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -559,6 +560,7 @@
 02/2024|[X-LoRA: Mixture of Low-Rank Adapter Experts, a Flexible Framework for Large Language Models with Applications in Protein Mechanics](https://arxiv.org/abs/2402.07148)
 02/2024|[BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data](https://arxiv.org/abs/2402.08093)
 02/2024|[Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance](https://arxiv.org/abs/2402.08680)
+02/2024|[Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference](https://arxiv.org/abs/2402.09398)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

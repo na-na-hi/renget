@@ -9,7 +9,7 @@
 ->  <-
 #
 
--> [![](https://files.catbox.moe/jbc99q.png)](#quick-start) ⠀ [![](https://files.catbox.moe/57vz8p.png)](#how-to-use-and-recommendations) <-
+-> [![](https://files.catbox.moe/jbc99q.png)](#quick-start) ⠀ [![](https://files.catbox.moe/57vz8p.png)](#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/vh2ku3.png)](https://twitter.com/victorianmaids)<-
 
 -> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
 ⠀
@@ -30,7 +30,8 @@
 -> Number of Special Kobolds: **7** <-
 -> *Art by me. "..." - in progress* <-
 
--> Boosty: **https://boosty.to/xmlk/donate** <-
+-> [![](https://files.catbox.moe/t1otdw.png)](https://boosty.to/xmlk/donate) <-
+
 -> USDT: TVSzA5aFUmgaoa81aFzQooxKcmyYhDu1rs <-
 -> Toncoin: UQBv7652EAOgrHTMXF4-sHOFANVzAACHXybesStZpI0ENAcC <-
 -> Bitcoin: 13kYjc3urr5xkHemTdvRAxN99n76ubD8cM <-
@@ -52,9 +53,11 @@ Collection of scenarios: [1] Breeding wall, [2] Adventure starts, [3] Ditto-momm
 [Request a card (Commission)](https://boosty.to/xmlk) or [DM me in Discrord](https://discordapp.com/users/459936627981287436)
 
 ##### News
-**• New pages.**  Utility Prompts moved to a new page. "Prompting tricks" page added. All discarded prompts moved to the Graveyard. They are still accessible via the prompt tables as usual.
+**• X / Twitter:** Now I have [X (Twitter) page](https://twitter.com/victorianmaids) for some reason.
 
-**• Created a simple template for character cards.** This [template](https://rentry.org/CharacterProvider-CharTemplate) will help you get started. It's a combination of plain text, Markdown, XML, lists and interview.
+**• New pages:**  Utility Prompts moved to a new page. "Prompting tricks" page added. All discarded prompts moved to the Graveyard. They are still accessible via the prompt tables as usual.
+
+**• Created a simple template for character cards:** This [template](https://rentry.org/CharacterProvider-CharTemplate) will help you get started. It's a combination of plain text, Markdown, XML, lists and interview.
 
 **• Searching for another platform:** I wish I could have had an ability to allow you comment some entries on this page. It's hard to troubleshoot issues you maight have when you are too shy to ask me questions via discord / email. I still don't know where to transfer this page other than renty. If only there was a site that allows both short posts and blogposts with markdown. VK groups are great for this but... we shouldn't use it by obvious reasons.
 
@@ -514,7 +517,7 @@ The button is hidden under the "hamburger" menu to the left from the textbox at 
 # 
 - - -
 # 
-##### Character Description XML wrapping
+##### Character Description XML wrapping (Outdated)
 Claude likes `<XML-tags>`. It was TRAINED with it in mind! I highly recommend you to read [Claude's documentation](https://docs.anthropic.com/claude/docs) to get familiar with [XML-prompting](https://docs.anthropic.com/claude/docs/constructing-a-prompt) and [Markdown](https://www.markdownguide.org/cheat-sheet/). Don't be scared, these are pretty simple, you really need to know only a few things.
 
 You don't need to do this if you're using v10+ presets. If you're interested in characters creation here is [my guide](https://rentry.co/CharacterProvider-GuideToBotmaking).

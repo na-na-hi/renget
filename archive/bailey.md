@@ -6,7 +6,7 @@ wippy woppy, play shipwrecked 64 you goober
 ![.co/bailey](https://files.catbox.moe/s7bnhl.gif) <-
 -> %#74529d%**∑**%%  　%#a78cc7%T**HE**%%⠀%#74529d%**HEART**%%⠀%#a78cc7%**DIRE**CTORY%%⠀%#74529d%⊹%%
 ![](https://files.catbox.moe/tq9v42.png)⠀%#a78cc7%₊%% %#74529d%ᵕ .ᵕ)%%⠀%#74529d%❜%%⠀⠀[![me!](https://files.catbox.moe/4m4h6r.png)](arcades) ⠀ %#a78cc7%𐃬𐃬%% ⠀ %#74529d%**★**%% ⠀ %#a78cc7%**𓂃**%%
-%#a78cc7%**𓏲**%%%#74529d%𝄢%%⠀⠀ [![](https://files.catbox.moe/x5z7qy.png)](/strawberryboy) %#74529d% ¹ %%⠀ ⠀%#74529d%[**two**](/gutmeout)%% %#a78cc7%²%%⠀ ⠀%#74529d%⚣%% ⠀  ⠀%#a78cc7%ꜜ%% ⠀![](https://files.catbox.moe/j3smrh.gif) <-
+%#a78cc7%**𓏲**%%%#74529d%𝄢%%⠀⠀ [![](https://files.catbox.moe/x5z7qy.png)](/strawberryboy) %#74529d% ¹ %%⠀ ⠀%#74529d%[**two**](/gutmeout)%% %#a78cc7%²%%⠀ ⠀%#74529d%⚣%%⠀  ⠀%#a78cc7%ꜜ%% ⠀![](https://files.catbox.moe/j3smrh.gif) <-
 -> ![](https://files.catbox.moe/25n87u.png) <-
 
 -> [![main sntry](https://files.catbox.moe/h9fp0x.png)](https://bundles.cc/plasmids) ⠀ %#a78cc7%**𓈒**%%⠀⠀[![prns.cc](https://files.catbox.moe/my6jcy.png)](https://pronouns.cc/@biker) ⠀⠀%#74529d%**𓈒**%% ⠀ [![hoard](https://files.catbox.moe/jsfmzh.png)](/pixxie) <-
