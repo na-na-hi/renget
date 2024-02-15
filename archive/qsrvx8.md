@@ -90,7 +90,7 @@ Taichi can't even cry due to his condition.
 
 "Why'd you turn it off?"
 
-
+The driver 
 
 
 "Aw, no, no, no, no, no, fuck!" 

@@ -52,7 +52,7 @@ V-23-β "CRIMSON"|Zakir Sulaimonov (stat box version)|imbored|![](https://files.
 V-24 "INK"|Eepy|Zennou|![](https://files.catbox.moe/2vo9ec.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Ironanon/eepy-0ed7dc53/main)** %%
 V-25 "VITA"|Amamut|Dark Fantasy|![](https://files.catbox.moe/29de9y.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amamut-24a3ad1f) [[CATBOX LINK]](https://files.catbox.moe/1lgfo7.png)** %%
 V-26 "BUN"|Narcisa|Scrimb|![](https://files.catbox.moe/f5ir8n.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/narcisa-ab5b8eba/main)** %%
-V-27 "ROGUE"|**[REDACTED]**|**[CLASSIFIED]**|Connection error|**DELAYED**
+V-27 "ROGUE"|Mika|Roxanne B. Gibson|![](https://files.catbox.moe/uqzn1a.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/mika-6b1342b8/main) [[CATBOX LINK]](https://files.catbox.moe/4cuph1.png)** %%
 V-28 "BUILDER"|Alteriane|Hakurei Boundary Manipulator|![](https://files.catbox.moe/pzgd9x.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/alteriane-2251ffb1/main) [[CATBOX LINK]](https://files.catbox.moe/g2azne.png)** %%
 V-29 "SPRING"|Yosakurahime|Horcocks|![](https://files.catbox.moe/rax13q.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/yozakurahime-fec6365b) [[CATBOX LINK]](https://files.catbox.moe/sdgoa3.png)** %%
 V-30 "FAIRY"|Geneviève|pixi|![](https://files.catbox.moe/og80rq.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/gnw2y8.png)** %%
@@ -60,7 +60,7 @@ V-31 "MOTHER"|Alana and Miria|Slopass|![](https://files.catbox.moe/7ze17c.gif)|%
 V-32 "UNREAL"|**[REDACTED]**|**[CLASSIFIED]**|Connection error|**DELAYED**
 V-33 "CUMIN"|Bobby|GoreKitten|![](https://files.catbox.moe/72i5az.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/gi3rgz.png )** %%
 V-34 "CHEAT"|Kaito|Anxiousretard|![](https://files.catbox.moe/vm3nkd.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/bb1x32.png)** %%
-V-35 "NEPTUNE"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-35 "NEPTUNE"|Floppi|Rayon|![](https://files.catbox.moe/je12tb.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/granmarg/floppi-d561cae9/)** %%
 V-36 "BEAR"|Ronan|Wanderingstar|![](https://files.catbox.moe/gdbeti.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/ronan-251c74f7) [[CATBOX LINK]](https://files.catbox.moe/di0xno.png)** %%
 V-37 "DUMBBELL"|Eloise|Granmarg|![](https://files.catbox.moe/qncibz.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/eloise-cdb56f74)** %%
 V-38 "HUMAN"|Katzette|Anti|![](https://files.catbox.moe/bkkuop.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/katzette-8583d2c2/main) [[CATBOX LINK]](https://files.catbox.moe/k117as.png)** %%

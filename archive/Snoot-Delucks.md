@@ -5,7 +5,7 @@
 #WARNING: THIS IS STILL A WORK IN PROGRESS!!!!
 ***
 #[Play Snoot Game](https://snootgame.xyz/) 
-#[Wheelchair gator game](https://hugthegator.xyz/) (Just a week away!)
+#[Wheelchair gator game](https://hugthegator.xyz/) (IT'S ACTUALLY OUT!!!!)
 ##-> [Check me out maybe? I draw stuff](https://www.instagram.com/crimsonhecatomb/) <-
 ##-> [Twitter in case you prefer that](https://twitter.com/jairusvictrix/) <-
 ***
@@ -21,7 +21,9 @@ Table of contents:
 [TOC3]
 ***
 ###CHANGELOG
-!!!Version 2.00.00
+!!!Version 2.00.01
+	WANI IS OUT!!!!
+	Version 2.00.00
 	- HUGE UPDATE!!!!
 	- LOREBOOK HAS BEEN OPTIMIZED AND NOW HAS 78 ENTRIES
 	- MANY CHARACTER CARDS HAVE BEEN OPTIMIZED (shaved off 200 tokens from some of them.)

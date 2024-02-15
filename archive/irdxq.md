@@ -25,33 +25,13 @@ Dates are based on EST
 	> ->**Updates**<-
 
 	>==Audio== 
-	> - **01/28 - Updated + Added**
-	>- ~~I updated the audio files and added new ones. The total went from 414 songs to 988 songs.~~ [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
-	> - **01/31 - Added**
-	>- [61.TAKE 2](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/nscziJCR)
+	> - **02/15 - Added**
+	>- [62. eep](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/u41WRD5B)
 	
 	>==Chapters== 
-	> - **01/15 - Added**
-	>- [#59. 『2024-01-09』 - 【KARAOKE 歌枠】Moom Sing !!! + Announcement ?!?! [4774gd3zEqE]](https://rentry.org/irdxq/#2024-01-09-karaoke-%E6%AD%8C%E6%9E%A0moom-sing-announcement-4774gd3zeqe) 
-	> - **01/26 - Added** + **Updated**
-	>- [#60. 『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]](https://rentry.org/irdxq/#2024-01-25-1-million-subscriber-endurance-karaoke-%E6%AD%8C%E6%9E%A0oh-lets-do-this-7l_qvd9xdrk) 
-	> - **01/27 - Updated**
-	>- [#23. 『2022-04-13』 - 【MEMBERS ONLY】UNARCHIVED Pop Punk ACAPELLA [zq94wRfvz3o]](https://rentry.org/irdxq/#2022-04-13-members-onlyunarchived-pop-punk-acapella-zq94wrfvz3o) 
-	>- [#12. 『2022-01-05』 - 【MEMBERS】 Acapella KARAOKE [unarchived] [5EkQTBaITmI]](https://rentry.org/irdxq/#2022-01-05-members-acapella-karaoke-unarchived-5ekqtbaitmi)
-	>- [#09. 『2021-12-19』 - (UNARCHIVED) Merry Christmas Songs Karaoke! [JUjLmtOcucc]](https://rentry.org/irdxq/#2021-12-19-unarchived-merry-christmas-songs-karaoke-jujlmtocucc)
-	> - **01/28 - Updated**
-	>- [#03. 『2021-11-12』 - 【SINGING PRACTICE】Key word is practice [vgKVv8Saywc]](https://rentry.org/irdxq/#2021-11-12-singing-practicekey-word-is-practice-vgkvv8saywc)
-	>- [#02. 『2021-10-15』 - 【UNARCHIVED】Sleepy Singing [31wNJfaYIos]](https://rentry.org/irdxq/#2021-10-15-unarchivedsleepy-singing-31wnjfayios)
-	> - **01/31 - Updated**
-	>- [#01.  『2021-09-28』 - 【UNARCHIVED】what [sWQIkO7txq4]](https://rentry.org/irdxq/#2021-09-28-unarchivedwhat-swqiko7txq4)
-	>- [#04.  『2021-11-12』 - 【UNARCHIVED】So this is sugar ooowooowowowoo [1X4JqW7ftuc]](https://rentry.org/irdxq/#2021-11-12-unarchivedso-this-is-sugar-ooowooowowowoo-1x4jqw7ftuc)
-	>- [#05.  『2021-11-27』 - 【MEMBERS】UNARCHIVED KARAOKE [BxFkssSt2tI]](https://rentry.org/irdxq/#2021-11-27-membersunarchived-karaoke-bxfkssst2ti)
-	>- [#06.  『2021-12-01』 - 【UNARCHIVED】mic test 1 2 (volume warning!!!) [AKJUn0R_Oj8]](https://rentry.org/irdxq/#2021-12-01-unarchivedmic-test-1-2-volume-warning-akjun0r_oj8)
-	> - **01/31 - Added**
-	>- [#61.  『2024-01-30』 - 【UNARCHIVED KARAOKE 歌枠】1 MILLION SUBSCRIBER CELEBRATION TAKE 2 [rmEPrvc8ZmA]](https://rentry.org/irdxq/#2024-01-30-unarchived-karaoke-%E6%AD%8C%E6%9E%A01-million-subscriber-celebration-take-2-rmeprvc8zma)
+	> - **02/15 - Added**
+	>- [#62. 『2024-02-12』 - 【UNARCHIVED KARAOKE 歌枠】eep #shorts [EJxBC5F8F2Q]](https://rentry.org/irdxq/#2024-02-12-unarchived-karaoke-%E6%AD%8C%E6%9E%A0eep-shorts-ejxbc5f8f2q) 
 
-
-	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
 	>==+Mumei== - 
@@ -667,7 +647,7 @@ CHAPTER36NAME=22. We Will Rock You - Queen
 CHAPTER37=02:29:27.100
 CHAPTER37NAME=23. YMCA - Village People
 CHAPTER38=02:35:54.100
-CHAPTER38NAME=24. ABC - The Jacksons
+CHAPTER38NAME=24. ABC - The Jackson 5
 CHAPTER39=02:40:45.100
 CHAPTER39NAME=Smile - The Story So far (Acapella)
 CHAPTER40=02:42:18.133
@@ -2862,7 +2842,7 @@ CHAPTER33NAME=20. Mighty Long Fall - ONE OK ROCK
 CHAPTER34=02:18:43.000
 CHAPTER34NAME=21. My Dearest - Supercell (Acapella)
 CHAPTER35=02:23:16.368
-CHAPTER35NAME=The Everlasting - EGOIST (Acapella)
+CHAPTER35NAME=The Everlasting Guilty Crown - EGOIST (Acapella)
 CHAPTER36=02:26:16.000
 CHAPTER36NAME=22. Release My Soul - Aimee Blackschleger (Acapella)
 CHAPTER37=02:29:45.325
@@ -3656,7 +3636,7 @@ CHAPTER18NAME=W / X / Y (Acapella)
 CHAPTER19=01:27:16.000
 CHAPTER19NAME=09. W / X / Y - Tani Yuuki
 CHAPTER20=01:34:10.000
-CHAPTER20NAME=10. Sekaiwa Koi Ni Ochiteiru - CHiCO with HoneyWorks
+CHAPTER20NAME=10. Sekai Wa Koi Ni Ochiteiru - CHiCO with HoneyWorks
 CHAPTER21=01:40:48.000
 CHAPTER21NAME=Naraku no Hana (Acapella)
 CHAPTER22=01:41:32.000
@@ -3769,6 +3749,173 @@ CHAPTER31=01:50:02.035
 CHAPTER31NAME=15. My Heart Will Go On - Celine Dion
 CHAPTER32=01:56:07.035
 CHAPTER32NAME=Ending
+
+```
+######『2024-02-12』 - 【UNARCHIVED KARAOKE 歌枠】eep #shorts [EJxBC5F8F2Q]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Start
+CHAPTER01=00:04:42.000
+CHAPTER01NAME=01. I'm Yours - Jason Mraz
+CHAPTER02=00:09:59.000
+CHAPTER02NAME=What Is Love (Acapella)
+CHAPTER03=00:10:25.000
+CHAPTER03NAME=How Am I Supposed to Live Without You (Acapella)
+CHAPTER04=00:10:31.000
+CHAPTER04NAME=Somewhere Out There (Acapella)
+CHAPTER05=00:11:02.000
+CHAPTER05NAME=Ring of Fire (Acapella)
+CHAPTER06=00:13:24.000
+CHAPTER06NAME=02. Never Gonna Give You Up - Rick Astley
+CHAPTER07=00:17:52.000
+CHAPTER07NAME=03. Thnks fr th Mmrs - Fall Out Boy
+CHAPTER08=00:22:35.000
+CHAPTER08NAME=04. deja vu - Olivia Rodrigo
+CHAPTER09=00:27:04.000
+CHAPTER09NAME=deja vu (Acapella)
+CHAPTER10=00:29:20.000
+CHAPTER10NAME=As the World Caves In - Matt Maltese (Acapella)
+CHAPTER11=00:30:12.000
+CHAPTER11NAME=As the World Caves In - Matt Maltese
+CHAPTER12=00:35:28.000
+CHAPTER12NAME=Cruel Summer (Acapella)
+CHAPTER13=00:36:01.597
+CHAPTER13NAME=Cruel Summer - Taylor Swift
+CHAPTER14=00:37:04.000
+CHAPTER14NAME=Our Song - Taylor Swift (Acapella)
+CHAPTER15=00:37:24.000
+CHAPTER15NAME=05. Our Song - Taylor Swift
+CHAPTER16=00:41:56.200
+CHAPTER16NAME=06. U Got It Bad - Usher
+CHAPTER17=00:48:05.200
+CHAPTER17NAME=Summertime Sadness (Acapella)
+CHAPTER18=00:48:31.200
+CHAPTER18NAME=Video Games - Lana Del Rey (Acapella)
+CHAPTER19=00:48:52.200
+CHAPTER19NAME=Potential Breakup Song (Acapella)
+CHAPTER20=00:49:04.200
+CHAPTER20NAME=Video Games (Acapella)
+CHAPTER21=00:49:38.200
+CHAPTER21NAME=Primadonna - MARINA (Acapella)
+CHAPTER22=00:50:28.200
+CHAPTER22NAME=Dollhouse - Melanie Martinez (Acapella)
+CHAPTER23=00:52:21.200
+CHAPTER23NAME=Kokoronashi (Acapella)
+CHAPTER24=00:53:36.200
+CHAPTER24NAME=07. Love on Top - Beyonce
+CHAPTER25=00:59:25.200
+CHAPTER25NAME=08. drivers license - Olivia Rodrigo
+CHAPTER26=01:05:44.200
+CHAPTER26NAME=ceilings - Lizzy McAlpine
+CHAPTER27=01:08:41.200
+CHAPTER27NAME=Check Yes, Juliet - We the Kings (Acapella)
+CHAPTER28=01:09:20.200
+CHAPTER28NAME=What Was I Made For? (Acapella)
+CHAPTER29=01:10:33.200
+CHAPTER29NAME=09. If It Means a Lot to You - A Day to Remember
+CHAPTER30=01:14:57.200
+CHAPTER30NAME=Gaston (Acapella)
+CHAPTER31=01:16:10.200
+CHAPTER31NAME=10. I Kissed A Girl - Katy Perry
+CHAPTER32=01:19:36.200
+CHAPTER32NAME=I Can't Make You Love Me (Acapella)
+CHAPTER33=01:20:11.040
+CHAPTER33NAME=11. I Can't Make You Love Me - Bonnie Raitt (Bon Iver ver)
+CHAPTER34=01:27:32.200
+CHAPTER34NAME=12. Grenade - Bruno Mars
+CHAPTER35=01:32:13.200
+CHAPTER35NAME=Earth Song - Michael Jackson
+CHAPTER36=01:34:24.200
+CHAPTER36NAME=13. ABC - The Jackson 5
+CHAPTER37=01:37:49.200
+CHAPTER37NAME=Idol Meeting
+CHAPTER38=01:38:06.200
+CHAPTER38NAME=AFK
+CHAPTER39=01:39:41.200
+CHAPTER39NAME=Back
+CHAPTER40=01:41:25.200
+CHAPTER40NAME=14. Family Guy - Opening
+CHAPTER41=01:42:40.200
+CHAPTER41NAME=15. Peanut Butter Jelly Time - Family Guy ver
+CHAPTER42=01:43:25.200
+CHAPTER42NAME=16. Good morning USA - American Dad (Acapella)
+CHAPTER43=01:44:00.200
+CHAPTER43NAME=17. The Cleveland Show - Opening (Acapella)
+CHAPTER44=01:44:54.537
+CHAPTER44NAME=18. It's Over, Isn't It? - Steven Universe
+CHAPTER45=01:47:42.200
+CHAPTER45NAME=I Know It's Today - Shrek The Musical
+CHAPTER46=01:50:38.200
+CHAPTER46NAME=You Didn't Know - Hazbin Hotel (Acapella)
+CHAPTER47=01:52:43.200
+CHAPTER47NAME=Requiem - Dear Evan Hansen
+CHAPTER48=01:54:48.200
+CHAPTER48NAME=Someone Gets Hurt (Reprise) - Mean Girls (Acapella)
+CHAPTER49=01:55:10.200
+CHAPTER49NAME=Dead Girl Walking - Heathers Musical (Acapella)
+CHAPTER50=01:55:51.200
+CHAPTER50NAME=Godspeed (Sweet Dreams) - The Chicks (Acapella)
+CHAPTER51=01:56:46.200
+CHAPTER51NAME=19. It's Quiet Uptown - Hamilton
+CHAPTER52=02:01:26.200
+CHAPTER52NAME=20. First Burn - Hamilton
+CHAPTER53=02:04:45.200
+CHAPTER53NAME=Ring of Fire - Johnny Cash (Acapella)
+CHAPTER54=02:05:21.200
+CHAPTER54NAME=21. Dollhouse - Melanie Martinez
+CHAPTER55=02:09:16.748
+CHAPTER55NAME=Dead Mom (Acapella)
+CHAPTER56=02:10:18.200
+CHAPTER56NAME=22. Dead Mom - Beetlejuice The Musical
+CHAPTER57=02:13:52.200
+CHAPTER57NAME=23. Fast Car - Tracy Chapman
+CHAPTER58=02:19:38.099
+CHAPTER58NAME=24. You're So Vain - Carly Simon
+CHAPTER59=02:24:28.200
+CHAPTER59NAME=You're So Vain (Acapella)
+CHAPTER60=02:24:54.200
+CHAPTER60NAME=What Hurts The Most - Rascal Flatts (Acapella)
+CHAPTER61=02:26:04.200
+CHAPTER61NAME=25. My Wish - Rascal Flatts
+CHAPTER62=02:33:01.200
+CHAPTER62NAME=26. Sekai Wa Koi Ni Ochiteiru - CHiCO with HoneyWorks
+CHAPTER63=02:38:21.200
+CHAPTER63NAME=27. Kokoronashi - Chouchou-P
+CHAPTER64=02:44:22.540
+CHAPTER64NAME=My Dearest - Supercell (Acapella)
+CHAPTER65=02:45:26.849
+CHAPTER65NAME=28. Hibana - DECO*27
+CHAPTER66=02:48:51.200
+CHAPTER66NAME=Roki - mikitoP
+CHAPTER67=02:51:35.200
+CHAPTER67NAME=Palette (Violin*)
+CHAPTER68=02:52:40.200
+CHAPTER68NAME=29. Palette - Tokoyami Towa
+CHAPTER69=02:56:24.200
+CHAPTER69NAME=30. Brave Shine - Aimer (Acapella)
+CHAPTER70=02:59:49.200
+CHAPTER70NAME=Brave Song - Aoi Tada (Acapella)
+CHAPTER71=03:00:30.200
+CHAPTER71NAME=The Everlasting Guilty Crown - EGOIST
+CHAPTER72=03:06:04.200
+CHAPTER72NAME=Akuma no Ko - Ai Higuchi
+CHAPTER73=03:08:00.200
+CHAPTER73NAME=-Continued- Akuma no Ko (Acapella)
+CHAPTER74=03:09:12.200
+CHAPTER74NAME=PINK BLOOD - Hikaru Utada (Acapella)
+CHAPTER75=03:09:28.200
+CHAPTER75NAME=Simple And Clean - Hikaru Utada (Acapella)
+CHAPTER76=03:10:06.200
+CHAPTER76NAME=Sanctuary - Hikaru Utada (Acapella)
+CHAPTER77=03:10:36.200
+CHAPTER77NAME=31. Torinoko City - 40mP
+CHAPTER78=03:13:56.937
+CHAPTER78NAME=DAYBREAK FRONTLINE - Orangestar (Acapella)
+CHAPTER79=03:15:09.200
+CHAPTER79NAME=Rolling Girl (Acapella)
+CHAPTER80=03:15:51.200
+CHAPTER80NAME=32. OTONABLUE - Atarashii Gakko!
 
 ```
 ***

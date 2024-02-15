@@ -2,7 +2,7 @@
 
 -> ![Gone fishing](https://files.catbox.moe/t044bp.gif) <-
 
-**Last updated: 11/02/24: Homing Crystal Soulmass Edition**
+**Last updated: 15/02/24: Homing Crystal Soulmass Edition**
 
 ***
 
@@ -14,7 +14,7 @@
 | UOOOH    | ==**13720**== | 6     | 32/32   | TERTUL   | PERMISSION |                                 |
 | CUNNYWOW | ==**4496**==  | 6     | 32/32   | FRIEDKUN | PERMISSION       |                                 |
 | NIKGERS  | ==**368**==   | 6     | 30/32   | POLUS    | PERMISSION |                                 |
-| NIKKERZ  | ==**466**==   | 6     | 28/32   | ALPHABVR | PERMISSION |                                 |
+| NIKKERZ  | ==**466**==   | 6     | 26/32   | ALPHABVR | PERMISSION |                                 |
 | NOPAN    | ==**1216**==  | 6     | 32/32   | KAKARO   | PERMISSION |                                 |
 | MILKKERS | ==**1491**==  | 6     | 31/32   | PLOT     | PERMISSION |                                 |
 | N1KKAS   | ==**1888**==  | 6     | 32/32   | BUTZ    | PERMISSION     |                                 |
@@ -40,7 +40,7 @@
 | LUSITANO | ==**10302**== | 6     | 32/32   | ANGUSPT | OPEN       |                            |
 | CUNNYSSI | ==**25331**== | 6     | 31/32   | NEPBOI  | PERMISSION |                            |
 | KUNNYHUB  | ==**29940**== | 5     | 32/32   | CUNNYGOD | PERMISSION | Casual/newcuties welcome   |
-| WANGERS  | ==**33386**== | 4     | 29/32   | SID | PERMISSION | Casual/newcuties welcome   |
+| WANGERS  | ==**33386**== | 4     | 30/32   | SID | PERMISSION | Casual/newcuties welcome   |
 | NOPAN    | ==**6698**==  | 6     | 7/32    | ACE     | PERMISSION | How to kill your union 101 |
 
 ***

@@ -14,16 +14,12 @@
 	> ->**Updates**<-
 
 	>==Audio== 
-	> - **01/28 - Updated + Added**
-	>- ~~I updated the audio files and added new ones. The total went from 414 songs to 988 songs.~~ [Mega Link](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ)
-	> - **01/31 - Added**
-	>- [61.TAKE 2](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/nscziJCR)
+	> - **02/15 - Added**
+	>- [62. eep](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/u41WRD5B)
 	
 	>==Karaoke Clips==
-	> - **01/26 - Added**
-	>- [#60. 『2024-01-25』 - 【1 MILLION SUBSCRIBER ENDURANCE KARAOKE 歌枠】Oh ?? LET'S DO THIS !!! [7l_qvd9XDrk]](https://rentry.org/5y2mt/#2024-01-25-1-million-subscriber-endurance-karaoke-%E6%AD%8C%E6%9E%A0oh-lets-do-this-7l_qvd9xdrk)
-	> - **01/31 - Added**
-	>- [#61.  『2024-01-30』 - 【UNARCHIVED KARAOKE 歌枠】1 MILLION SUBSCRIBER CELEBRATION TAKE 2 [rmEPrvc8ZmA]](https://rentry.org/5y2mt/#2024-01-30-unarchived-karaoke-%E6%AD%8C%E6%9E%A01-million-subscriber-celebration-take-2-rmeprvc8zma)
+	> - **02/15 - Added**
+	>- [#62. 『2024-02-12』 - 【UNARCHIVED KARAOKE 歌枠】eep #shorts [EJxBC5F8F2Q]](https://rentry.org/5y2mt/#2024-02-12-unarchived-karaoke-%E6%AD%8C%E6%9E%A0eep-shorts-ejxbc5f8f2q)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -36,7 +32,7 @@
 
 ***
 !!! danger  Audio Only https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ
-	Total: 1,003 Songs
+	Total: 1,035 Songs 
 
 [TOC3]
 
@@ -1477,7 +1473,7 @@ Drummer Boy - Justin Bieber & Busta Rhymes | https://files.catbox.moe/wfuf79.mp4
 07. [Silhouette - Kana-Boon](https://youtu.be/4774gd3zEqE?t=4338)
 08. [Secret base ~Kimi ga Kureta Mono~ - Zone](https://youtu.be/4774gd3zEqE?t=4611)
 09. [W / X / Y - Tani Yuuki](https://youtu.be/4774gd3zEqE?t=5236)
-10. [Sekaiwa Koi Ni Ochiteiru - CHiCO with HoneyWorks](https://youtu.be/4774gd3zEqE?t=5650)
+10. [Sekai Wa Koi Ni Ochiteiru - CHiCO with HoneyWorks](https://youtu.be/4774gd3zEqE?t=5650)
 11. [Naraku no Hana - Eiko Shimamiya](https://youtu.be/4774gd3zEqE?t=6092)
 [Dear you (Acapella)](https://youtu.be/4774gd3zEqE?t=6393)
 [Dear you -Trust- (Acapella)](https://youtu.be/4774gd3zEqE?t=6440)
@@ -1516,6 +1512,45 @@ Satisfied - Hamilton | https://files.catbox.moe/y1f5fo.mp4  |  https://cldup.com
 Popular - Wicked |  https://files.catbox.moe/cjkim0.mp4 |  https://cldup.com/rBBO6JUREG.mp4
 For Good - Wicked | https://files.catbox.moe/0gnc2d.mp4  |  https://cldup.com/AStxzJeSTh.mp4
 My Heart Will Go On - Celine Dion | https://files.catbox.moe/b5zvyy.mp4  |  https://cldup.com/uFdN3-gPBs.mp4
+
+***
+######『2024-02-12』 - 【UNARCHIVED KARAOKE 歌枠】eep #shorts [EJxBC5F8F2Q]
+[Go back to the top](https://rentry.org/5y2mt)
+>"I Can't Make You Love Me?" was too big so you can watch the original ver [here](https://player.livepush.io/emvdT_Y3HeAxX)
+Song | Catbox | Cloudup
+------ | ------ | ----
+I'm Yours - Jason Mraz | https://files.catbox.moe/55hcnn.mp4  |  https://cldup.com/4X_Wqbrfgi.mp4
+Never Gonna Give You Up - Rick Astley | https://files.catbox.moe/cs3mc7.mp4  |  https://cldup.com/CL6C--NAub.mp4
+Thnks fr th Mmrs - Fall Out Boy | https://files.catbox.moe/56if19.mp4  |  https://cldup.com/drtT0F2s1j.mp4
+deja vu - Olivia Rodrigo |  https://files.catbox.moe/lq5k9h.mp4 |  https://cldup.com/vxmkQGTU-K.mp4
+Our Song - Taylor Swift | https://files.catbox.moe/c08nl9.mp4  |  https://cldup.com/Zy8welhKOZ.mp4
+U Got It Bad - Usher | https://files.catbox.moe/3r7x7f.mp4  |  https://cldup.com/l32roB4i9T.mp4
+Love on Top - Beyonce |  https://files.catbox.moe/q61uu0.mp4 |  https://cldup.com/DvHH7cgD3K.mp4
+drivers license - Olivia Rodrigo | https://files.catbox.moe/74vujh.mp4  |  https://cldup.com/KDx7ILdDGo.mp4
+If It Means a Lot to You - A Day to Remember |  https://files.catbox.moe/r5sscn.mp4 |  https://cldup.com/nr2NeVNIk6.mp4
+I Kissed A Girl - Katy Perry |  https://files.catbox.moe/0tq4h8.mp4 |  https://cldup.com/gh6ub086PE.mp4
+I Can't Make You Love Me? - Bonnie Raitt (Bon Iver ver) | https://files.catbox.moe/a01knp.mp4  |  https://cldup.com/c-o1BZJC6I.mp4
+Grenade - Bruno Mars | https://files.catbox.moe/rwqmeq.mp4  |  https://cldup.com/cdDNxxonjG.mp4
+ABC - The Jackson 5 |  https://files.catbox.moe/k44jgb.mp4 |  https://cldup.com/0lRWqB6qJ3.mp4
+Family Guy - Opening |  https://files.catbox.moe/2rq5te.mp4 |  https://cldup.com/cuQg7qPGIn.mp4
+Peanut Butter Jelly Time - Family Guy ver | https://files.catbox.moe/oqr0yj.mp4  |  https://cldup.com/HxiDocADr7.mp4
+Good morning USA - American Dad (Acapella) | https://files.catbox.moe/jacf6t.mp4  |  https://cldup.com/Jvh4hnjkxP.mp4
+The Cleveland Show - Opening (Acapella) |  https://files.catbox.moe/zjsbx7.mp4 |  https://cldup.com/1a73KlTdNt.mp4
+It's Over, Isn't It? - Steven Universe | https://files.catbox.moe/msr925.mp4  |  https://cldup.com/Dj6QqrMmq6.mp4
+It's Quiet Uptown - Hamilton | https://files.catbox.moe/bxewee.mp4  |  https://cldup.com/ENGL4Z2p_R.mp4
+First Burn - Hamilton | https://files.catbox.moe/dgef3q.mp4  |  https://cldup.com/vAVDBejnN2.mp4
+Dollhouse - Melanie Martinez | https://files.catbox.moe/5pz5gl.mp4  |  https://cldup.com/LxKyLJgaCL.mp4
+Dead Mom - Beetlejuice The Musical | https://files.catbox.moe/9gdvpq.mp4  |  https://cldup.com/vY46Ma9knn.mp4
+Fast Car - Tracy Chapman | https://files.catbox.moe/o5jrhb.mp4  |  https://cldup.com/2fDs9xFOeg.mp4
+You're So Vain - Carly Simon |  https://files.catbox.moe/q50tpm.mp4 |  https://cldup.com/qix569Pybr.mp4
+My Wish - Rascal Flatts | https://files.catbox.moe/an8wq3.mp4  |  https://cldup.com/vhGJZa_0GP.mp4
+Sekai Wa Koi Ni Ochiteiru - CHiCO with HoneyWorks | https://files.catbox.moe/vvywhc.mp4  |  https://cldup.com/6iOWWTAQoe.mp4
+Kokoronashi - Chouchou-P | https://files.catbox.moe/hde7l2.mp4  |  https://cldup.com/u-yUkemiGO.mp4
+Hibana - DECO*27 |  https://files.catbox.moe/u77kbv.mp4 |  https://cldup.com/m4fv2yqafl.mp4
+Palette - Tokoyami Towa | https://files.catbox.moe/hzb16u.mp4  |  https://cldup.com/3gdhNdKJPI.mp4
+Brave Shine - Aimer (Acapella) |  https://files.catbox.moe/6fyw3a.mp4 |  https://cldup.com/q_1YsU_hVm.mp4
+Torinoko City - 40mP | https://files.catbox.moe/hu2wkb.mp4  |  https://cldup.com/DU1qb8KNZx.mp4
+OTONABLUE - Atarashii Gakko! |  https://files.catbox.moe/gnl58n.mp4 |  https://cldup.com/HC0ZU_soHL.mp4
 
 ***
 ***

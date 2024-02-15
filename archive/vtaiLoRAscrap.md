@@ -52,6 +52,8 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Emikukis (OWOzu)** - https://civitai.com/models/290992/emikukis-vtuber-commission
 **Oozora Subaru (Hololive)** - https://civitai.com/models/299444/oozora-subaru-hololive
 **Hoshikawa Sara (Nijisanji)** - https://civitai.com/models/302930/hoshikawa-sara-nijisanji-or-3-outfits
+**Ironmouse (VShojo)** - https://civitai.com/models/305040/ironmouse-vtuber-vshojo
+**Filian (Indie)** - https://civitai.com/models/304798/filian-or-independent-vtuber
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

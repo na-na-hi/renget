@@ -19,9 +19,6 @@ https://shop.hololivepro.com/en/products/hololiveen_promise_christmas2023
 **HoloEN 1st Concert Connect the World merch rerun **
 https://shop.hololivepro.com/en/products/hololiveen_1stconcert_rerun
 
-**Cozy Winter merch set 2024 Limited pre-order period (Ends 13th Feb 1800 JST; Ships mid-June to mid-July)**
-https://shop.hololivepro.com/en/products/nanashimumei_cozywinter2024
-
 **Valentine's Day merch set 2024  Limited quantity pre-order; Ships April 2024**
 https://shop.hololivepro.com/en/products/hololiveen_valentine2024
 
@@ -35,8 +32,7 @@ Some articles are already sold-out for certain sizes for the OMOCAT merch.
 https://shop.hololivepro.com/en/products/startingvoice_nanashimumei
 
 **4th Fes Blu ray**
-Information only. EC providers might not ship outside of Japan.
-https://bushiroad-music.com/musics/hoxb-10013
+https://shop.hololivepro.com/en/products/hololive_4thfes_bluray?variant=44337589682396
 
 **Hologra Amazon t-shirt**
 US: https://www.amazon.com/%E3%80%90Nanashi-Mumei%E3%80%91holo-graffiti-Greatest-Moments/dp/B0CHVQS7Z5
@@ -60,6 +56,9 @@ https://shop.hololivepro.com/en/products/hololivefriends_nanashimumei
 
 **holoearth emote keychain**
 https://shop.hololivepro.com/en/products/holoearth_randomacrylickeychain
+
+**HoloEN starter merch**
+https://shop.hololivepro.com/en/collections/all?q=%22enstarter_merch%22&sort_by=manual
 
 - - -
 ###Games
@@ -150,3 +149,6 @@ https://shop.hololivepro.com/products/hololivesummer2023_acrylicstand_sh
 
 **HoloEN 1st Concert Connect the World Blu-ray** (Order period ends 25th December 1800 JST)
 https://shop.hololivepro.com/en/products/hololiveen_1stconcert_bluray
+
+**Cozy Winter merch set 2024 Limited pre-order period (Ends 13th Feb 1800 JST; Ships mid-June to mid-July)**
+https://shop.hololivepro.com/en/products/nanashimumei_cozywinter2024

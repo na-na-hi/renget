@@ -1,4 +1,40 @@
+>Pieces of US supplied GLSDB guided bombs
+https://files.catbox.moe/y6smx4.mp4
+>Russian attack on Tsarskaya Hunt
+https://files.catbox.moe/vcf3e7.mp4
+>Avdeevka: 40 FABs or about 12 tonnes of explosives
+https://files.catbox.moe/6pdo9m.MP4
+>LANCET takes out Stryker
+https://files.catbox.moe/nkuyki.mp4
+>Strela-10 SAM fires at LANCET and misses and gets REKT
+https://files.catbox.moe/bgljgz.mp4
+>Avenger SAM fires at LANCET and misses
+https://files.catbox.moe/2fjamm.mp4
+>Bradley and crew gets rekt
+https://files.catbox.moe/bu935i.MOV
+>Lets play nazis, guys!
+https://files.catbox.moe/3kl5c0.mp4
+>Tucker on Kievskaya metro station
+https://files.catbox.moe/44r05d.mp4
+>Russian fishing for drones
+https://files.catbox.moe/z8qic4.mp4
+>American mercs got REKT
+https://files.catbox.moe/6ol5b1.mp4
+>Russians captured American/Ukranian M113
+https://files.catbox.moe/gv5v3x.mp4
+>FPV strikes Banderamobile
+https://files.catbox.moe/jktqkv.mp4
+>LANCET vs. AFU's BRDM-2 with a counter-drone net
+https://files.catbox.moe/47wb3i.mp4
+>Ukrainian MAXXPRO comes under artillery fire
+https://files.catbox.moe/wdorlh.mp4
+>Shootdown of AFU helicopter near Rabotino
+https://files.catbox.moe/vqw6ag.MP4
+https://files.catbox.moe/kpjyu6.MP4
+>AFU from the Avdeevka cauldron
+https://files.catbox.moe/qkqra8.mp4
 >Foreign volunteer on hohol side gets rekt
+https://files.catbox.moe/e76b9k.mp4 (full vid)
 https://files.catbox.moe/d932rf.mp4
 >Russians bomb a hohol training camp in Selidovo with cluster ammunitions
 https://files.catbox.moe/e24z7u.mp4

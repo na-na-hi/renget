@@ -16,7 +16,7 @@ Scroll to the bottom for my last edit date. This guide is not outdated.
 - Take advantage of the school bonuses and use CC in Bounty 
 - [Join a club.](https://rentry.org/holdingthebag) There's no clan tryharding or an obligation to talk. Newfags are very welcome. 
 - You can pat girls' head (Arona and Ayumu included!) 
-- Only roll with a spark. Don't leave things to chance
+- Only roll with a spark after your initial rolls. Don't leave things to chance
 
 ## Downloading/Setting up the game
 
@@ -69,7 +69,6 @@ Make sure to claim stuff from missions and your mailbox too.
 
 I'd advice you to use all your rolls after 1-1 even if you don't reroll, just so you have something to work with. 
 
-
 **BA has sparks, not pity.** 
 **Sparks do not carry over between banners.**
 See 'Is there pity? What's a spark' for more 
@@ -82,7 +81,7 @@ If you have no interest in the current banner student(s) use the Regular Recruit
 The Startdash banner is a new account banner that guarantees a 3* (if you buy the ticket with real money). See below for more.
 >What are good units to roll for?
 Made by me (also works on JP):
-![Reroll targets](https://i.imgur.com/tmi8QuB.png)
+![Reroll targets](https://i.imgur.com/YXnsGdg.png)
 (I like to think my reroll guide is the best one) 
 
 Being farmable means you can unlock the student by farming her node(s) for a long period of time. See [this section](https://rentry.org/how2playba#farmable-units) for more. 

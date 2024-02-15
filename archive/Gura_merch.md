@@ -9,6 +9,10 @@ https://shop.geekjack.net/pages/hololive
 
 ### Available
 
+####Gawr Gura sushi small quilt iPASS Card and tail pillow
+https://www.tuetue.shop/en/products/gura-3d-modeling-card
+https://www.tuetue.shop/en/products/pillow
+
 ####Gawr Gura figma pre-order 
 https://www.amiami.com/eng/detail/?gcode=FIGURE-161606 
 or 

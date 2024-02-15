@@ -711,6 +711,7 @@ Can't solve a puzzle? Shark time!: https://desuarchive.org/tg/post/91890241/
 The cutest retard: https://desuarchive.org/tg/post/91890275/
 Updated 1-F Seating Chart (PoV Skycarver): https://desuarchive.org/tg/post/91891159/
 Updated 1-F Seating Chart: https://desuarchive.org/tg/post/91891169/
+1-F Valentines: https://rentry.org/mcfn8i2c
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1162,6 +1163,7 @@ Future Valentine's Day (warning smut): https://rentry.org/t65cfrup
 Velvet Valentine (featuring Velvet Worm, Skycarver, Runt, Cube, and Kaylee, cameos by one of the Koreans and King Billy): https://rentry.org/mwapndko
 My First Valentine (Mirror Devil, Drone, various others): https://rentry.org/q26t3xus
 Bitey Bastards (1-F): https://rentry.org/BiteyBastards
+
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm
