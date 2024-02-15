@@ -170,6 +170,7 @@ https://files.catbox.moe/2cl9sq.safetensors tsukumizu_yuu
 https://files.catbox.moe/adligx.safetensors dratvan
 https://files.catbox.moe/pmv83f.safetensors poper
 https://files.catbox.moe/593c8m.safetensors nns
+![whomperfruit preview](https://files.catbox.moe/o7f7do.png)
 https://files.catbox.moe/tviui5.safetensors whomperfruit
 https://files.catbox.moe/s4t7ch.safetensors jvteemo
 https://files.catbox.moe/2onz8e.safetensors borscht

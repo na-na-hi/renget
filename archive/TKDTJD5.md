@@ -2988,3 +2988,298 @@ https://nitter.lanterne-rouge.info/AryJeay/status/1757539655795273837#m  2/13/24
 
 ⚡️The explosion that was heard a short while ago in the western region of the city of #Nablus, experimental resistance actions within the framework of developing capabilities
 https://nitter.lanterne-rouge.info/ME_Observer_/status/1757541553365569781#m  2/13/24
+
+⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 13 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Engaged in a clash with an IOF infantry force consisting of 7 soldiers at point-blank range in the Abassan Al-Kabira area east of Khan Yunis, resulting in killed and injured.
+
+🔻Successfully detonated an anti-personnel mine targeting a Zionist force consisting of 5 soldiers, inside a building, in the Abassan Al-Kabira area east of Khan Yunis.
+
+🔻Seized a Skylark reconnaissance drone during its intelligence mission, east of the Zaytoun neighborhood in Gaza City.
+
+🔻Targeted an IOF armored personnel carrier (APC) with a Yassin-105, in the Qarara area north of Khan Yunis. Upon the arrival of its rescue force, another armored personnel carrier was targeted with another yassin-105.
+
+🔻Detonated 3 booby-trapped tunnel entrances, upon the entry of Zionist infantry forces, in the Qarara area north of Khan Yunis, causing casualties.
+
+🔻Targeted a Merkava tank & a military bulldozer, with Yassin-105s, in the Qarara area north of Khan Yunis.
+
+🔻Detonated a pre-rigged building targeting an IOF infantry force, causing casualties, in the Sattar area north of Khan Yunis, in southern Gaza Strip.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled a gathering of IOF soldiers with mortar shells in the town of Abassan Al-Kabira east of Khan Yunis.
+
+🔻Engaged in fierce clashes with IOF soldiers and their vehicles, north of Khan Yunis using machine guns.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻In a joint-operation with Saraya Al-Quds Brigades, they shelled a command and control center for the IOF army, in central Khan Yunis, with a barrage of 120mm mortars.
+
+🔻Targeted an IOF troop carrier (APC) with RPGs, southeast of Khan Younis.
+
+🔻Directly targeted an IOF infantry force with RPGs, resulting in the death and injury of a number of them.
+
+🔻Targeted an gathering of IOF soldiers and their military vehicles with mortars and short-range rockets.
+
+🔻Engaged in fierce clashes with IOF soldiers and their vehicles using appropriate weapons on the fronts in Khan Younis city, south of the Gaza Strip.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻In a joint-operation with Martyr Omar Al-Qassem forces, they launched a series of rocket attacks on Zionist settlements in the southern Gaza Strip.
+
+🔻Engaged in fierce clashes with the IOF forces, in the western and eastern regions of Khan Younis with various and appropriate weapons.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Detonated an high-explosive device on one of the IOF army vehicles on the axis of Nasser Hospital west of Khan Younis city, and fired an anti-tank rocket at it, hitting it directly, causing deaths and injuries.
+
+🔻Engaged with IOF forces, using heavy machine guns, explosive devices, anti-personnel and anti-tank rockets, and hand grenades, inflicting heavy losses among the enemy, both killed and wounded.
+
+— 🟡 Hezbollah:
+
+🔻Targeted a gathering of Israeli soldiers in the Hounin fortress with rockets.
+
+🔻Targeted espionage equipment at the Hadab Yarin site with appropriate weapons.
+
+🔻Targeted a police building in Kiryat Shmona with suitable weapons.
+
+🔻Targeted a gathering of Israeli soldiers in the Metat base with appropriate weapons.
+
+🔻Took control of an Israeli SkyLark drone, in good condition.
+
+🔻Targeted a gathering of Israeli soldiers around the Al-Marj site with rockets.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the command center of the Zebdine barracks with rockets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757586401166606517#m   2/14/24
+
+>According to Iranian officials, the fire caused by the blasts at the pipelines has been contained and repair work has already begun.
+
+There were 2 acts of sabotage that hit the natural gas pipeline in Boroujen city of Chaharmahal and Bakhtiari province as well as Safashahr city in Fars province.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757704606379880745#m  2/14/24
+
+>🚨𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Hezbollah just fired a very deadly missile/rocket barrage toward Safed & Meron.
+
+According to Zionist sources, there are ar least 2 deaths and a dozen wounded. There are reports of a “difficult” event at the IOF Northern Command HQ that was targeted.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757702577607602444#m  2/14/24
+
+>🛑| Al-Manar correspondent:
+
+The resistance in Southern Lebanon, has so far attacked:
+
+🔻HQ of the Northern Region Command in Safad.
+
+🔻Command HQ of the 91st Galilee Division in “Branit”
+
+🔻HQ of the 769th Eastern Brigade in Kiryat Shmona.
+
+🔻Meron Air command and control base
+
+🔻Beit Hillel IOF base
+
+🔻Training camp in Kela, in the occupied Golan Heights
+
+🔻Ma’ale Golan IOF base on Mount Hermon
+
+🔻Most artillery positions along the rear front and military concentrations
+
+🔻Every single border military IOF sites
+
+All of these attacks carried out by the resistance confirm that all military and fire pressure and Israeli threats will not deter it from continuing its operations.
+The resistance is proceeding with full confidence, first relaying on God, and then its military capabilities, the spirit of its fighters, and the resilience of its people.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757755955087909000#m  2/14/24
+
+>🚨 A huge explosion was heard in Haifa
+https://nitter.lanterne-rouge.info/AryJeay/status/1757754921879744614#m  2/14/24
+
+>BREAKING| The Lebanese Civil Defense says the casualties of the Israeli strikes on several civilian areas across southern Lebanon rose to 4 victims, including a mother and two children, and 11 injuries. 
+
+The attacks on civilians come following the targeting of an Israeli military base by Hezbollah.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757756596132667747#m  2/14/24
+
+>U.S. Senator Peter Welch: "I cannot, in good conscience, support sending billions of additional taxpayer dollars for Netanyahu’s military campaign in Gaza."
+https://nitter.lanterne-rouge.info/QudsNen/status/1757748870421909652#m  2/14/24
+https://files.catbox.moe/hrh2dq.mp4  2/14/24
+
+>Chairman of the Euro-Med Human Rights Monitor, Ramy Abdu:
+
+"Starvation [in northern Gaza] is now reaching critical levels. The Israeli occupation is orchestrating the starvation in a manner that appears to be deliberate and coordinated with the rest of the allied parties. This is brutality and betrayal in its ugliest form!"
+https://nitter.lanterne-rouge.info/QudsNen/status/1757734536232739004#m  2/14/24
+
+>⚡️🚨2 hours ago, Hezbollah attacks Safed :
+
+⚡️Israeli media: Nasrallah responded to all mediation initiatives not only with words yesterday but also with actions today
+
+⚡️Occupied Palestine: Head of a settlement council in the north: #Hezbollah spits on us while we think the rain is falling
+
+⚡️Occupied Palestine: Mayor of Safad: There were severe casualties on military bases
+
+⚡️Israeli media: A female soldier was killed in the "army" and 7 injuries occurred, one of them serious, as a result of the missile strike on Safad.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757732775203914224#m  2/14/24
+https://files.catbox.moe/effefs.mp4  2/14/24
+
+>⚡️Media follow-up »» #Hezbollah’s missile attack on the northern front this morning ||
+
+🔻There are missiles that fell at a depth of more than 25 km, and the power went out in Safad
+
+👈 Targeting Meron Air Base
+
+👈 Targeting the industrial zone in Safed
+
+👈 Targeting the headquarters and surroundings of the Northern Command
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757734163354939529#m  2/14/24
+
+>Nasser Hospital siege intensifies as Israeli forces seal it off: AJE correspondent
+New  2/14/24
+https://youtu.be/mSG3Jf1n2Kc 
+
+>⚡️Lebanon: Al-Mayadeen correspondent in the south: Sounds of explosions are heard in the occupied interior from the direction of Western Galilee
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757757363191157036#m  2/14/24
+
+>It's an escalation of the tempo of the ongoing war and but it's not a "full scale war" .
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757755007871463570#m  2/14/24
+
+>Dozens of Jordanians are taking part in a human chain right now on a road in the north of the country through which trucks pass to Israel.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757789813208494234#m  2/14/24
+
+>Zionist war tactics in a nutshell :
+
+Let us win or we kill your children.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757784434881749415#m  2/14/24
+
+>⚡️Today's tricks from the Zionist tricksters , mixing OPSEC with ideology in order to confuse and obscure :
+
+"Nooo why are Palestinians hiding their faces from our assassins" 
+->
+Muslim women are opressed
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757794630681219295#m  2/14/24
+
+>⚡️Israeli media: 
+
+Allowed to publish.. The killing of Corporal Omer Sarah Benjo in the bombing that targeted the headquarters of the Northern District Command in Safed
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757799527816245366#m  2/14/24
+
+>British Foreign Secretary David Cameron says the UK wants an "absolute guarantee" that UNWRA will not employ staff who are willing to attack the occupation state of Israel. 
+
+The statement comes despite several reports confirming that Israel's accusations against the agency were not based on any evidence.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757807876708446216#m  2/14/24
+
+>Hundreds of Palestinians are scrambling to get bread in the overcrowded city of Rafah, which commodates over 1.4 million displaced people.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757800760564236452#m  2/14/24
+
+>⚡️MUST WATCH: Al-Qassam (Hamas) published a video showing its forces clash with IOF army vehicles and soldiers in Khan Yunis, south of the Gaza Strip.
+
+The commander of the 630th battalion, a deputy company commander & a soldier were killed in the operation 🔻
+https://nitter.lanterne-rouge.info/AryJeay/status/1757816927672492280#m  2/14/24
+https://files.catbox.moe/xhvn0l.mp4  2/14/24
+
+>Haaretz reports citing the Israeli government that it expects 20,000 soldiers to be disabled by the end of 2024.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757820924563189944#m  2/14/24
+
+>BREAKING| The Red Crescent says it has not received any aid for a week so far due to Israeli settlers' gatherings at the Ouja (Nitzana) border crossing.
+
+(Illustrative photo)
+https://nitter.lanterne-rouge.info/QudsNen/status/1757817714683326699#m  2/14/24
+
+>⚡️Scenes from the Mujahideen of the Al-Quds Brigades targeting soldiers and vehicles of the Zionist enemy in western #Gaza.
+#Al-Aqsa Flood
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757812795100340578#m  2/14/24
+https://files.catbox.moe/tqvk2g.mp4  2/14/24
+
+>⚡️#Yemen: Al-Mayadeen correspondent in Hodeidah: US-British aggression aircraft launch a raid on Ras Issa in Al-Salif District
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757812913685909618#m  2/14/24
+
+>Apparently The Panic in The US is About Some New Russian Very Advanced Weapon
+>A U.S. Intelligence Official has reportedly told CNN the national security threat is a "highly concerning and destabilizing" Russian capability.
+>Megatron: I personally think they want to do some bullshit to get around the vote on the $95 billion package for Ukraine, Israel and Taiwan, and pass it without a vote.
+https://nitter.lanterne-rouge.info/Megatron_ron/status/1757824055300804613  2/14/24
+
+>⚡️🔻🔥[AMBUSH - subtitled] Khan Yunis battes, Al Qassam releases :
+
+Message to Israelis and the people of Gaza, as well as Footage of the operation  in which the commander of the 630th reserves battalion , its deputy commander, and a soldier were killed, as well as clashes with enemy vehicles.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757836612459729104#m  2/14/24
+https://files.catbox.moe/qc0ht0.mp4  2/14/24
+
+>The Euro-Med Human Rights Monitor documented deliberate killings by Israeli drones, including journalists, as they attempted to capture communication signals and access the internet to communicate with their families or workplaces in various areas of the Gaza Strip.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757836710749122918#m  2/14/24
+
+>South Africa's Minister of International Relations and Cooperation, Naledi Pandor, says Israel's actions clearly prove what South Africa had said in its case to the ICJ was accurate. 
+
+Video credit: @DIRCO_ZA
+https://nitter.lanterne-rouge.info/QudsNen/status/1757848153917677901#m  2/14/24
+https://files.catbox.moe/orwdz1.mp4  2/14/24
+
+>BREAKING| Israel escalates the situation, bombarding locations in Nabatieh in southern Lebanon.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757845090536415575#m  2/14/24
+
+>Despite the restrictions and racism wave against pro-Palestine activists, dozens participated today in a protest in Berlin showing solidarity with Gaza and Palestine.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757844437265264700#m  2/14/24
+
+>BREAKING| The Red Crescent released footage, which dates back to last week, proving that Israeli forces opened fire at a medical crew and beat up some of them while they were transferring oxygen cylinders from Nasser Hospital to Al Amal Hospital. 
+
+>Israel's military at the time claimed that it provided Al Amal Hospital with oxygen cylinders.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757843425385132075#m  2/14/24
+
+>BREAKING| The Director of Shuhada' Al aqsa Hospital says that several casualties arrived at the hospital today after Israel's military struck Al Ahli Baptist Hospital amidst a severe shortage of medications and medical supplies.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757848985065144359#m  2/14/24
+
+>🚨Al-Qassam launched a rocket barrage toward Askalan & Zikim, about 30mins ago.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757849279035535634#m  2/14/24
+
+>Families of Israeli detainees in Gaza protest in front of Netanyahu's residence in occupied Jerusalem after he announced that he did not approve sending an Israeli delegation to Cairo for follow-up talks over a possible hostage deal.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757853237330239736  2/14/24
+
+>BREAKING| Al Jazeera cites an African diplomatic source as saying that the African Union prevented an Israeli delegation from entering its headquarters to present its narrative on the war on Gaza.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757855506926829590#m  2/14/24
+
+>Turkey's Felicity Party says the parliamentary bloc of the Felicity and Future Parties submitted a resolution proposal to discuss cutting trade relations with Israel but it was rejected by deputies from the Justice and Development ruling Party. 
+
+(Illustrative photo)
+https://nitter.lanterne-rouge.info/QudsNen/status/1757858276652290357#m  2/14/24
+
+>Despite accusations of the British government's complicity in the ongoing genocide in Gaza through its arms support to Israel, the government has awarded a new contract to Elbit Systems, Israel's largest arms firm.
+
+>Israel's military released a photo of kidnapped medical workers and elderly patients at the Red Crescent's Al Amal Hospital, claiming that they are "terrorists".
+https://nitter.lanterne-rouge.info/QudsNen/status/1757856244600054143#m  2/14/24
+
+>⚡️Ethiopia: Al-Mayadeen correspondent: 
+
+The #Israeli delegation’s effort to persuade member states to accept #Israel’s membership as an observer in the African Union clashed with the rejection of the anti-normalization coalition led by Algeria and South Africa.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757862761856385095#m  2/14/24
+
+>⚡️Hezbollah published a video showing the recovery of the seized IOF SkyLark reconnaissance drone, Tuesday (13 feb)
+https://nitter.lanterne-rouge.info/AryJeay/status/1757867039786406231#m  2/14/24
+https://files.catbox.moe/liprie.mp4  2/14/24
+
+>A young man is distributing red roses among the tents of the displaced in Rafah.
+https://nitter.lanterne-rouge.info/QudsNen/status/1757875860089024638#m  2/14/24
+https://files.catbox.moe/kqaqba.mp4  2/14/24
+
+>⚡️Hezbollah published another video showing the operation that targeted the radar IOF site in the occupied Lebanese Shebaa Farms.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757881887635202405#m  2/14/24
+https://files.catbox.moe/4c5quv.mp4  2/14/24
+
+>Hundreds protested Wednesday in front of the Ministry of Foreign Affairs in Paris demanding the French government to pressure for stopping the genocide in Gaza and sanction Israel. 
+https://nitter.lanterne-rouge.info/QudsNen/status/1757887384505483760#m  2/14/24
+
+تمرين جوي مشترك بين طائرات F16 العراقية وطائرات الرافال Rafale التابعة لسلاح الجو الفرنسي 
+https://youtu.be/S5PRotYtdw8  2/14/24
+
+>⚡️ Hebrew Kan :
+The readiness is very high in the north.. Today we have entered a new chapter of the war with #Hezbollah.. The coming days will be difficult
+
+⚡️Enemy media :
+Hezbollah raised the red flag of revenge
+
+I didn't see any official Hezbollah sources "raise the red flag of revenge". This is circulated on enemy media only.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757910850948780366#m  2/14/24
+
+>⚡️#Iraq 
+
+A strong thunderstorm hit Nineveh Governorate a short while ago
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1757898696937607262#m  2/14/24

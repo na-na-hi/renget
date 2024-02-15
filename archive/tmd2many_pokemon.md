@@ -1177,7 +1177,7 @@ BANNED | Miraidon | You're more than just a tool. | Choose Sp. Atk or Speed
 1011. | Iron Boulder | No evolutionary relatives | Speed
 1012. | Iron Crown | No evolutionary relatives | Sp. Atk
 BANNED | Terapagos | It’s recommended that this is forgotten. Once forgotten, this can’t be remembered. | HP
-BANNED | Pecharunt |  | Defense
+BANNED | Pecharunt | Your strength was not yours to give. | Defense
 
 
 ## Specialty Pokémon Ban

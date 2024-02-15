@@ -130,6 +130,10 @@
 
 # 📑 ➜ Trackers Scene Data
 
+### 📒 [0day](https://0day.cx/)
+- Discover the freshest releases with automatic real-time updates.
+- [URL Safety Results](https://www.urlvoid.com/scan/0day.cx/)
+
 ### 📒 [PreDB](https://predb.net/)  / [2](https://predb.me/)
 - This service displays trending data that has been gathered from numerous online sources.
 - [URL Safety Results](https://www.urlvoid.com/scan/predb.net/)

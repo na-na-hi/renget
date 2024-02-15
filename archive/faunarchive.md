@@ -984,6 +984,12 @@ was censored and superchat part is lost forever. sorry
 [gofile](https://gofile.io/d/Q9zMjo)
 [audio only](https://mega.nz/file/NpYiVaQJ#EBWF7RudBBIRfq2bC3u_qVHum8RMfueSb381f22LdE0)
 
+### 2024
 
+#### February 2024
+
+##### Valentine's Karaoke
+
+https://archive.palanq.win/vt/thread/69100847/#69102688
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

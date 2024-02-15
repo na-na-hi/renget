@@ -169,7 +169,7 @@
 - For every platform, a quick, cutting-edge, lightweight, and effective Spotify Music Client.
 - [URL Safety Results](https://www.urlvoid.com/scan/spotube.krtirtho.dev/)
 
-### 🖥️ [SpotX](https://github.com/amd64fox/SpotX)
+### 🖥️ [SpotX](https://github.com/SpotX-Official/SpotX)
 - Customized version of the official Spotify client. Blocks all banner, video, and audio ads and more.
 - [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 

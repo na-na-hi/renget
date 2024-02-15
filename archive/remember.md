@@ -1,5 +1,3 @@
-hrmm maybe make this a directory? or something something where it's like a "last page" of some sorts
-
 ->%#898fcc%you've reached the end...%%
 ![a gif with art by me of all the coworkers from knuckle sandwich in a group hug. the art fades from front to back](https://i.postimg.cc/d19MhG8M/coworkers-hug.gif)
 %#676eab%...would you like to go back?%%

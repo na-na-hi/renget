@@ -8,7 +8,7 @@
 
 ----
 
--> `01/10/24 : changed my discord user on the main img! if anything needs to be taken down contact me there instead ♡` <-
+-> `02/14/24 : happy valentines day!!!!! if anything needs to be taken down contact me on disc or tumblr instead ♡ @togamicchi for both sites` <-
 
 ----
 

@@ -45,7 +45,10 @@
 5. Reopen up the target instance, click the "ID: Tap here to display" at the bottom and it should show your FC if done correctly.
 
 > 3T Looping Teams for Future Lottos:
+- [Space Odysseus Teslafest 1st Term 90+](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%201st%20Term%20/)
+- [Space Odysseus Teslafest 2nd Term 90+](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%202nd%20Term%20/)
 - [Space Odysseus Teslafest 3rd Term 90+](https://arch.b4k.co/vg/search/text/Space%20Odysseus%20Teslafest%203rd%20Term%20/)
+- [Learning with Manga Collab 90+](https://arch.b4k.co/vg/search/text/Learning%20with%20Manga%20collaboration%20event%2090%2B%20node/)
 - [Faerie Knights Cup festival](https://arch.b4k.co/vg/search/text/Faerie%20Knights%20Cup%20festival/)
 - [Illyafest 2nd Term 90++ 6CE](https://arch.b4k.co/vg/search/text/Illyafest%202nd%20Term%2090%2B%2B%206CE%3A/)
 - [Illyafest 3rd Term 90++ 6CE](https://arch.b4k.co/vg/search/text/Illyafest%203rd%20Term%2090%2B%2B%206CE%3A/)

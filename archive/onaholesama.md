@@ -1,5 +1,5 @@
 # onaholesama's furshit
-->![uwu](https://pouch.jumpshare.com/preview/Lx_ToWdbR-YzRl1kRg-JRRA3aI1U5aDnTSzfXohWz2mGHaAWr2uqub9CmIi3eBL7HSRn53BWEiCIacL3Tw1jnNKM3midSn-MT0boqCCmo0w)<-
+->![everything sucks but it sucks a little less with you](https://pouch.jumpshare.com/preview/Lx_ToWdbR-YzRl1kRg-JRRA3aI1U5aDnTSzfXohWz2mGHaAWr2uqub9CmIi3eBL7HSRn53BWEiCIacL3Tw1jnNKM3midSn-MT0boqCCmo0w)<-
 ***
 https://waa.ai/onaholesama
 ***

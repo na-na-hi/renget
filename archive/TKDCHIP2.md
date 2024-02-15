@@ -37,14 +37,21 @@ https://files.catbox.moe/jdad1m.mp4 New  2/7/24
 >Al-Qassam Brigades dedicates its operations to the "Yemeni, Lebanese and Iraqi resistance." : Scenes of sniper operations and targeting enemy vehicles in the Tal al-Hawa neighborhood, west of #Gaza City #Al-Aqsa_Flood
 https://files.catbox.moe/gb05up.mp4 New  2/9/24
 
+>MUST WATCH: Al-Qassam (Hamas) published a video showing its forces clash with IOF army vehicles and soldiers in Khan Yunis, south of the Gaza Strip.
+https://files.catbox.moe/xhvn0l.mp4  New  2/14/24
+https://files.catbox.moe/qc0ht0.mp4  New  Translated Version  2/14/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Hezbollah published a video showing the operation targeting spy equipment at the Radar IOF site in the occupied Shebaa Farms today.
 https://files.catbox.moe/d9kqz4.mp4 New 2/1/24
 
-MUST WATCH: Hezbollah just released the video showing the attack that destroyed a Merkava tank at the Al-Baghdadi site with a “special guided missile”
+>MUST WATCH: Hezbollah just released the video showing the attack that destroyed a Merkava tank at the Al-Baghdadi site with a “special guided missile”
 https://files.catbox.moe/7rzdod.mp4 New  2/10/24
+
+>Hezbollah published another video showing the operation that targeted the radar IOF site in the occupied Lebanese Shebaa Farms.
+https://files.catbox.moe/4c5quv.mp4 New  2/14/24
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,6 +77,9 @@ https://files.catbox.moe/nsw3li.mp4 New  2/11/24
 
 >WATCH: Al-Quds Brigades published a video showing its fighters target IOF soldiers and army vehicles in western Gaza.
 https://files.catbox.moe/9818w2.mp4  2/13/24
+
+>Scenes from the Mujahideen of the Al-Quds Brigades targeting soldiers and vehicles of the Zionist enemy in western #Gaza. #Al-Aqsa Flood
+https://files.catbox.moe/tqvk2g.mp4 New  2/14/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -194,5 +204,20 @@ https://files.catbox.moe/l7uqf7.mp4 New  2/13/24
 https://files.catbox.moe/br6ug2.mp4 New  2/13/24
 >Footage published by Israeli soldiers on their social media accounts reveals the deliberate destruction and burning of food warehouses in western Gaza. Meanwhile, north Gaza is being starved by the Israeli blockade preventing humanitarian aid from reaching the area.
 https://files.catbox.moe/sg3mzc.mp4 New  2/13/24
-"I could not in good conscience vote to send more offensive aid, more bombs and shells to Israel at a time they are conducting a campaign in this manner. "US Senator @SenJeffMerkley explains the reason why he voted against the recent bill which includes $14 billion in aid to Israel.
+>"I could not in good conscience vote to send more offensive aid, more bombs and shells to Israel at a time they are conducting a campaign in this manner. "US Senator @SenJeffMerkley explains the reason why he voted against the recent bill which includes $14 billion in aid to Israel.
 https://files.catbox.moe/abanox.mp4 New  2/13/24
+>U.S. Senator Peter Welch: "I cannot, in good conscience, support sending billions of additional taxpayer dollars for Netanyahu’s military campaign in Gaza."
+https://files.catbox.moe/hrh2dq.mp4 New  2/14/24
+>Nasser Hospital siege intensifies as Israeli forces seal it off: AJE correspondent
+https://youtu.be/mSG3Jf1n2Kc New  2/14/24
+>2 hours ago, Hezbollah attacks Safed : Israeli media: A female soldier was killed in the "army" and 7 injuries occurred, one of them serious, as a result of the missile strike on Safad.
+https://files.catbox.moe/effefs.mp4  New  2/14/24
+>South Africa's Minister of International Relations and Cooperation, Naledi Pandor, says Israel's actions clearly prove what South Africa had said in its case to the ICJ was accurate. Video credit: @DIRCO_ZA
+https://files.catbox.moe/orwdz1.mp4 New  2/14/24
+>Hezbollah published a video showing the recovery of the seized IOF SkyLark reconnaissance drone, Tuesday (13 feb)
+New  2/14/24
+https://files.catbox.moe/liprie.mp4  
+>A young man is distributing red roses among the tents of the displaced in Rafah.
+https://files.catbox.moe/kqaqba.mp4  New  2/14/24
+تمرين جوي مشترك بين طائرات F16 العراقية وطائرات الرافال Rafale التابعة لسلاح الجو الفرنسي 
+https://youtu.be/S5PRotYtdw8  2/14/24

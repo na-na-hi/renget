@@ -53,7 +53,7 @@ V-24 "INK"|Eepy|Zennou|![](https://files.catbox.moe/2vo9ec.gif)|%green% **[[CHUB
 V-25 "VITA"|Amamut|Dark Fantasy|![](https://files.catbox.moe/29de9y.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amamut-24a3ad1f) [[CATBOX LINK]](https://files.catbox.moe/1lgfo7.png)** %%
 V-26 "BUN"|Narcisa|Scrimb|![](https://files.catbox.moe/f5ir8n.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/Anonymous/narcisa-ab5b8eba/main)** %%
 V-27 "ROGUE"|**[REDACTED]**|**[CLASSIFIED]**|Connection error|**DELAYED**
-V-28 "BUILDER"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-28 "BUILDER"|Alteriane|Hakurei Boundary Manipulator|![](https://files.catbox.moe/pzgd9x.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/alteriane-2251ffb1/main) [[CATBOX LINK]](https://files.catbox.moe/g2azne.png)** %%
 V-29 "SPRING"|Yosakurahime|Horcocks|![](https://files.catbox.moe/rax13q.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/yozakurahime-fec6365b) [[CATBOX LINK]](https://files.catbox.moe/sdgoa3.png)** %%
 V-30 "FAIRY"|Geneviève|pixi|![](https://files.catbox.moe/og80rq.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/gnw2y8.png)** %%
 V-31 "MOTHER"|Alana and Miria|Slopass|![](https://files.catbox.moe/7ze17c.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Sull/alana-and-miria-7991651c/main) [[CATBOX LINK]](https://files.catbox.moe/f3se9c.png)** %%
@@ -69,8 +69,8 @@ V-40 "PRINCESS"|Abriya Taggart|Kingvalntula|![](https://files.catbox.moe/u6r1p2.
 V-41 "BUSH"|Ginevra|TheSaviorHag88|![](https://files.catbox.moe/flfs0b.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/pfeg4t.png)** %%
 V-42 "RELAY"|Buddy|Alpacalotta|![](https://files.catbox.moe/s3twvn.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/astroturf/buddy-75ec89f3)** %%
 V-43 "POWER"|Kate|tnbt|![](https://files.catbox.moe/9whmsr.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/adn5rz.png)** %%
-V-44 "GOTHIC"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
-V-45 "VILLAIN"|**[REDACTED]**|**[CLASSIFIED]**|Loading…|%red% **[ACCESS DENIED]** %%
+V-44 "GOTHIC"|Violet|IronAnon|![](https://files.catbox.moe/yvd126.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/violet-fb3db716/main)** %%
+V-45 "VILLAIN"|Zoe|Lacroix|![](https://files.catbox.moe/u2lzs3.gif)|%green% **[[CHUB LINK]](https://www.characterhub.org/characters/Anonymous/zoe-8b84dd93) [[CATBOX LINK]](https://files.catbox.moe/3qxkla.png)** %%
 
 ##Q&A
 ###Deadlines
