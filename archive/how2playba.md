@@ -416,7 +416,8 @@ You can save ur tickets until the last day and sweep the raid. You still need to
 ## Joint Firing Drill/Joint Exercise 
 !!! Warning LOOK AT A YOUTUBE VIDEO
 It's commissions but with a unique gimmick. The gimmick changes every time, so no 2 drills are the same. 
-If you don't know what to do against a gimmick, look at a few videos. If it's ongoing, filter by 1 week and you should be good.
+You can read up on what each of them do [in the wiki.](https://bluearchive.wiki/wiki/Joint_Firepower_Exercise)
+If you don't know what to do against a gimmick, look at a few videos. If it's ongoing, filter by 1 week upload date and you should be good.
 
 You can borrow students for this challenge, so [being in a club](https://rentry.org/holdingthebag) is very helpful if you want to get a good score.
 There are no rankings (like raids), and higher scores simply give you more coins/credits per clear.

@@ -409,3 +409,8 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[5]** *Uncharted content*](https://arch.b4k.co/vp/thread/55372170/)
 [**[6]** *It's over...(Until V11, haha...)*](https://arch.b4k.co/vp/thread/55377558/)
 [**[End]** *Postgame break thread for Orevald and Bunken while we decide what game to play next*](https://arch.b4k.co/vp/thread/55386815/)
+
+###->Super Pokemon Eevee Edition<-
+!!! info
+	**Status: In Progress**
+[**[1]** *Oh, this is really short actually*](https://arch.b4k.co/vp/thread/55406868/)

@@ -1,9 +1,14 @@
 # The meta list of various /aicg/ events
 
-->==(Updated 2024-02-12)==<-
+->==(Updated 2024-02-15)==<-
 
 ***
+!!! note Upcoming event
+    | | | |
+    |---|:---:|:---:|
+    |!~orange;default;default;7; **/AICG/ THEMED WEEK #8** ~!  | https://rentry.org/aicgthemedweeks#next-event-on-230224| ![](https://media.tenor.com/_62bXB8gnzoAAAAj/loading.gif)|
 
+***
 | | | |
 |---|:---:|:---:|
 |!~orange;default;default;7; **/AICG/ THEMED WEEK #1** ~!  -> ->   -> ->  *Running a cat cafe with anthro cat girls*| https://rentry.co/aicgthemedweek1| ![](https://files.catbox.moe/884dj8.png)|

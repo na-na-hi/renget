@@ -1,1 +1,2 @@
+![](https://media.discordapp.net/attachments/1096639589852123136/1207805741793026158/IMG_2420.jpg?ex=65e0fbc0&is=65ce86c0&hm=e2abaf5934f85de131ca5a48babadfec1716f8eca7f1633ea1f46b5b9095fb8a&)
 mine mine mine!!!! im edward [me](https://rentry.org/jellyfishfield)

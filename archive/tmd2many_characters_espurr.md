@@ -50,8 +50,8 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 **%#e76439%Attack%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#ac3232%Physical%% %#847e87%Damage%%
 **%#e69d31%Defense%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#ac3232%Physical%% %#847e87%Mitigation%%
 **%#a5ff38%Special Attack%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#4258c0%Special%% %#847e87%Damage%%
-**%#57dad6%Special Defense%%** | 0 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +0 %#4258c0%Special%% %#847e87%Mitigation%%
-**%#7c57ff%Speed%%** | 0 (+1) | Species Bonus | 5 %#7c57ff%AP%%
+**%#57dad6%Special Defense%%** | 1 | %#847e87%ɴᴏ ʙᴏɴᴜs%% | +1 %#4258c0%Special%% %#847e87%Mitigation%%
+**%#7c57ff%Speed%%** | 2 (+1) | Species Bonus | 6 %#7c57ff%AP%%
 
 ***
 

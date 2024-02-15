@@ -1,3 +1,15 @@
+>AFU left their wounded in Avdeevka
+https://files.catbox.moe/c443r7.mp4
+>Hohol fails to shotgun a drone down
+https://files.catbox.moe/wqpv2d.mp4
+>Battlefield 2024: Russia vs USA
+https://files.catbox.moe/jhnsm9.mp4
+>Bobr thwarted an attempt to rotate hohol forces
+https://files.catbox.moe/dl84ot.mp4
+>Urban combat in Avdeevka
+https://files.catbox.moe/l7f6sg.mp4
+>AFU's stronghold "Zenit" in Avdeevka has fallen
+https://files.catbox.moe/q4718h.mp4
 >Russian flag raised in northern Avdeevka
 https://files.catbox.moe/1veonn.mp4
 >Belgorod sports field hohol terror attack aftermath (NOT COMFY)

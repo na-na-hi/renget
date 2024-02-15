@@ -73,7 +73,7 @@ Training for Attribute:  **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
 Currently Training for Stat: None Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯
-Stat: Defense **ɪ** | Tier **ɪ** (+1 Def) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Stat: Defense **ɪɪ** | Tier **ɪɪ** (+2 Def) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

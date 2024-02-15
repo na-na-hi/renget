@@ -2,7 +2,7 @@
 
 -> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
 
--> [![](https://files.catbox.moe/ce0dbl.jpg)]()<-
+-> [![](https://files.catbox.moe/oyymsd.jpg)]()<-
 
 ***
 **Table of Contents**
