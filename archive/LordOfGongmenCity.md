@@ -1,0 +1,14 @@
+-> ![](https://i.ibb.co/x8FcJvq/50-FA05-EC-4592-4122-9-BA5-15-D82-CE3-ED49.gif) <-
+-> ![](https://i.ibb.co/ZSyYp8H/9-FC6-A352-A1-C7-4296-95-B8-714-BFB3-DD8-F1.png) <-
+-> ![](https://64.media.tumblr.com/9f50e48d675bb1517bc791a6bd1b5371/4149a1d35ab9816c-8c/s75x75_c1/24ef959f5295abbdc1cbb82eb43f612ea725db62.gif) <-
+-> *“How… how did you do it… How did you find peace?”* <-
+-> *he / it / lord* <-
+-> ![](https://64.media.tumblr.com/f9fe1c85cc55ce9dd6fb8fa64d47cf72/4149a1d35ab9816c-aa/s75x75_c1/59e2a4913e51b634f6afce929e139ed3c78cfb6d.gif) <-
+-> *"oh, my eyes are seeing %#BD221F%red%%* <-
+-> *double vision from the %#BD221F%blood%% we've shed* <-
+-> *the only way I'm leaving is %#BD221F%dead%%* <-
+-> *that's the state of my, state of my, state of my head."* <-
+-> ![](https://64.media.tumblr.com/5bb4b514631392d52b40b985b01cd343/daae8d5ea63d3327-97/s75x75_c1/ddf016fabba8424d54f62338ffc7d2f420992da1.gif) <-
+-> ![](https://64.media.tumblr.com/5bb4b514631392d52b40b985b01cd343/daae8d5ea63d3327-97/s75x75_c1/ddf016fabba8424d54f62338ffc7d2f420992da1.gif) <-
+-> ![](https://64.media.tumblr.com/5bb4b514631392d52b40b985b01cd343/daae8d5ea63d3327-97/s75x75_c1/ddf016fabba8424d54f62338ffc7d2f420992da1.gif) <-
+-> ![](https://64.media.tumblr.com/bda4e8b766d6f5aaa4f8505aea3ef0ea/4149a1d35ab9816c-e6/s75x75_c1/a63975ffe3f5a93c85d889c20ac683e9e2474b25.gif) *[%#BD221F%view the rest of my kingdom%%](https://rentry.co/ToyCollection)* ![](https://64.media.tumblr.com/4829d986f95e4abc1137b5e03991802e/4149a1d35ab9816c-cd/s75x75_c1/20fd0f71237bfd5c21a22d92ad23420c7fceaaa4.gif) <-

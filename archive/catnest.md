@@ -1,0 +1,3 @@
+This is a rant/spam account. I will talk about things I both enjoy and hate, which might be mundane and/or upsetting. I WILL talk about delicate subjects, so please ask me if you need anything tagged. Ask if you can screenshot things I'm saying. I also retweet sensory and quotes bots, most of which aren't tagged unless I'm asked to.
+
+You are always free to interact with me and/or my tweets on my private account unless I say otherwise. Requests are mostly okay if I know you but if I don't just follow my main @tangotekk at that point

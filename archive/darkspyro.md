@@ -1,0 +1,9 @@
+-> %#CE2E1D%FUCK YOU AND YOU AND YOU%% <-
+-> ![](https://i.ibb.co/qWpBJm0/4255827-D-DA56-409-F-822-F-2-ECA97-F2-A759.png) <-
+-> ![](https://64.media.tumblr.com/9f50e48d675bb1517bc791a6bd1b5371/4149a1d35ab9816c-8c/s75x75_c1/24ef959f5295abbdc1cbb82eb43f612ea725db62.gif) <-
+-> %#9A9A9A%XAVIER%% <-
+-> [%#7D7D7D%HE / IT / THE DRAGON%%](https://pronouns.cc/@Cyadical) <-
+-> ![](https://64.media.tumblr.com/f9fe1c85cc55ce9dd6fb8fa64d47cf72/4149a1d35ab9816c-aa/s75x75_c1/59e2a4913e51b634f6afce929e139ed3c78cfb6d.gif) <-
+-> ![](https://64.media.tumblr.com/bda4e8b766d6f5aaa4f8505aea3ef0ea/4149a1d35ab9816c-e6/s75x75_c1/a63975ffe3f5a93c85d889c20ac683e9e2474b25.gif) [%#656565%VIEW THE REST OF MY KINGDOM%%](https://rentry.co/ToyCollection) ![](https://64.media.tumblr.com/4829d986f95e4abc1137b5e03991802e/4149a1d35ab9816c-cd/s75x75_c1/20fd0f71237bfd5c21a22d92ad23420c7fceaaa4.gif) <-
+-> ![](https://i.ibb.co/WtZ5mfw/6-DF0-ACAE-4-C50-4-A98-B224-DB3-F3720-C83-E.png) <-
+->  %#CE2E1D%I HATE YOUR FRIENDS AND THEY HATE ME TOO%% <-

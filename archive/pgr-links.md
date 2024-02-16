@@ -34,6 +34,7 @@
 6. [Warzone Lineup Recommendation](https://docs.google.com/spreadsheets/u/2/d/1q3iTdPhDlT1iT08zeJLqprvuQNJeaLb_GONsvu30Jvs/htmlview#)
 7. [Warzone In-Depth Mechanics](https://docs.google.com/document/d/1nJeLR5qIrq7SvueCGPDFz5KsMmYGVxUgqmxoRHZJ0GM/edit)
 8. [Pain Cage Bosses Weaknesses](https://docs.google.com/spreadsheets/d/1OMSxmFW-HN4rQH9jjQi4ORk5Z_HIR9HbITD9jIcrhts/edit#gid=1140733911)
+9. [Harmonization Introduction and Priority Tier List](https://rentry.org/pgrharmonization)
 
 
 ####Miscellaneous

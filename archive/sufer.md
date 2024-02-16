@@ -1,0 +1,11 @@
+-> ᓚᘏᗢ <-
+-> ![](https://cdn.discordapp.com/attachments/1082540281624285254/1149305308758417449/dividergrad2.png) <-
+-> ![](https://kingcrimson.crd.co/assets/images/gallery08/4d828844.png?v=a6004836) <-
+-> ![](https://cdn.discordapp.com/attachments/1082540281624285254/1149303243927715870/blur_edges_9.png) <-
+-> ![](https://64.media.tumblr.com/ac11806e74ed2e2a742ca48264ec4970/aef2956740a3f465-15/s75x75_c1/f2e009724e86b40421b6fa689592592471dc674a.gifv) ★ **VERONICA** ***`ﾉ`*** [**SUFER**](https://pronouns.cc/@shahzadah) ![](https://kingcrimson.crd.co/assets/images/gallery24/29ad210b.png?v=a6004836) Levantine Princess ![](https://kingcrimson.crd.co/assets/images/gallery24/16da4e77.gif?v=a6004836) <-
+-> ![](https://i.imgur.com/Gkx9kmd.gif) **SHE**`HER` ⋆ 6TEEN ★ ![jordan](https://cdn.discordapp.com/attachments/1082823765546778725/1082823772719034378/ezgif-5-fd02549ab6.png) **Female** ![](https://kingcrimson.crd.co/assets/images/gallery25/c80171dd.png?v=a6004836) Labry Lesbian ![ ](https://64.media.tumblr.com/9888ccc28e8bb15e0faac523c7182daf/aef2956740a3f465-36/s75x75_c1/3442ef1ad7f6f8c3e7495451e778b96559f4645b.gifv)  <-
+-> ![](https://64.media.tumblr.com/9461ce87d68562869a02f98958bb5626/aef2956740a3f465-1b/s75x75_c1/b7d0e8200afe98352f9f2cabda9d61f48bdc4033.gifv) **ARABIC** & ![](https://i.imgur.com/PL5MHAb.gif) ENGLISH ★ CAT LOVER ![](https://64.media.tumblr.com/76b1b7621afc5f4cd7eeea76577c3a68/aef2956740a3f465-36/s75x75_c1/e802b0187a21febfc59df3d8050b4cedeb3f2e29.gifv) <-
+-> ![](https://i.imgur.com/EBQLTHp.gif) LENGTHY CRIMINAL RECORD : `EMINEM'S #1 FAN` ![](https://64.media.tumblr.com/80fa4959519f142a698e8d646de6365e/aef2956740a3f465-21/s75x75_c1/7a5b813e5a67a9bb5accbd6d949d528112dadcc5.gifv) <-
+-> ![](https://cdn.discordapp.com/attachments/1082540281624285254/1149305308460630119/ezgif-5-c6839f31b5.png) <-
+-> ![](https://kingcrimson.crd.co/assets/images/gallery24/5e1abb3d.gif?v=a6004836) [**A**b](https://rentry.co/-volarevia)out **✦** [**F**r](https://kittencriminal.carrd.co/)iends **✧** [**I**n](https://www.instagram.com/notronniiee/)stagram **✧** [**C**a](https://sufer.carrd.co/)rrd **✧** [**U**r](https://rentry.co/-macarena)ls  ![](https://kingcrimson.crd.co/assets/images/gallery21/df92199b.jpg?v=a6004836) <-
+-> ![](https://cdn.discordapp.com/attachments/1082540281624285254/1149305308204769321/dividergrad1.png) <-

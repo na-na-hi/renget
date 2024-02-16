@@ -1,0 +1,34 @@
+-> ![-](https://files.catbox.moe/wkp4q4.gif)<-
+-> ![-](https://files.catbox.moe/nh9dcf.gif) [**"Let's go get ourselves some answers."**](https://open.spotify.com/track/7qdaW0GN4jcAhZg3hSozrY?si=26761fef0f2445ec) ![-](https://files.catbox.moe/py1lt5.gif) <-
+-> ![-](https://files.catbox.moe/9cq6mh.gif) <-
+
+-> ![-](https://files.catbox.moe/rgdevl.gif) *I am not that into these things, so please don't talk to them to me directly a lot, particularly if I don't know you! Of course, you can express your interests, but I don't want to engage too much with them: Roblox, FNAF, Lackadaisy, content creators (streamers, sometimes vtubers) Farfetched, Object Shows, JoJo's Bizarre Adventure, Poppy Playtime, Fionna and Cake (along with most Adventure Time spinoffs), Pizza Tower, Omori, Legend of Zelda, Total Drama Island, Persona 5, pretty much anything Super Mario Brothers, Rainworld, Homestuck, Chainsaw Man, Needy Streamy Overload, Danganronpa, Transformers, The Amazing Digital Circus, Countryhumans, Murder Drones, most shooter games, and Friday Night Funkin.* ![-](https://files.catbox.moe/77xrh4.gif) <-
+-> ![-](https://files.catbox.moe/xv9s3h.png) *Favorites of Each:* <-
+
+- *Food:* Fries! (Doesn't really matter what type atp)
+- *Drink:* Water (energy drink - redbull. protein drink - green goodness. soda - mtn dew major melon.)
+- *Color:* Green broadly, but more specifically teal/turquoise 
+- *Season:* Summer!
+- *Animal:* Cardinals! 
+- *Song*: Completely Transparent by Mac Miller ft. Tay Walker
+- *Band:* Beach Fossils
+- *Weather Condition*: Slightly overcast, sunny, slightly windy, 80-90 Fahrenheit, right after rain
+- *Flower:* Magnolias!
+- *Plant:* Weeping willows
+- *Candy:* Banana hard candy!
+- *Dog breed*: Chihuahuas, small dogs
+- *Cat breed*: Lambkins
+- *Time of Day*: 5pm, late afternoon
+- *Flavor*: Fake strawberry
+- *Book:* The Five People You Meet In Heaven
+- *Movie:* Puss In Boots: The Last Wish
+- *Mineral / rock / gemstone*: White Quartz
+- *TV Show:* Aggretsuko (probably. webseries would be Helluva Boss though)
+- *Book Genre:* Realistic fiction / comedy / drama 
+- *Video Game Genre:* Platformer / RPG / fighting / simulation
+- *Movie/Show Genre:* Animated / comedy / drama / romance
+-> ![-](https://files.catbox.moe/cp0mtf.gif) <-
+-> {[**navigation**](https://rentry.co/echofluffy)} 🐬 {[**next!**](https://rentry.co/royalowl)} <-
+-> ![-](https://files.catbox.moe/wkoid7.gif)![-](https://files.catbox.moe/iaglvb.png)![-](https://files.catbox.moe/agb562.gif)![-](https://files.catbox.moe/a78fzp.png)![-](https://files.catbox.moe/5cuapx.gif)![-](https://files.catbox.moe/ku10ns.gif)![-](https://files.catbox.moe/7ubiep.gif)![-](https://files.catbox.moe/lp0als.png)![-](https://files.catbox.moe/2yu6cu.gif)![-](https://files.catbox.moe/7j4jdg.gif)![-](https://files.catbox.moe/savz5s.png)![-](https://files.catbox.moe/twu8dj.png)![-](https://files.catbox.moe/d72h8y.gif)![-](https://files.catbox.moe/kj1v8d.png)![-](https://files.catbox.moe/hsqq8t.gif)![-](https://files.catbox.moe/x2eksd.png)![-](https://files.catbox.moe/ulplws.gif)![-](https://files.catbox.moe/xdsp9v.gif)![-](https://files.catbox.moe/c2lzvh.png) <-
+-> ![-](https://files.catbox.moe/yxr04k.gif)![-](https://files.catbox.moe/kh64xt.gif) <-
+-> ![-](https://files.catbox.moe/ug511w.png)![-](https://files.catbox.moe/2ai5ff.png) <-

@@ -1,0 +1,32 @@
+-> ![](https://i.gifer.com/FML8.gif) <-
+-> Last night, I had enough of you <-
+-> I put on the brakes <-
+-> And I can tell you took it hard <-
+-> It was all over your face <-
+-> That you were slippin' and flippin' <-
+-> But here is the sitch <-
+-> I signed up for a man <-
+-> But you are just a bitch <-
+-> You should kno-o-o-o-o-w <-
+-> That I lo-o-o-o-ve you a lo-o-o-ot <-
+-> But I just can't date <-
+-> A dude with a vag' <-
+-> When we fell in love <-
+-> You made my heart drop <-
+-> And you had me thinking <-
+-> 'Bout you non-stop <-
+-> But you cry about this <-
+-> And whine about that <-
+-> When you grow a pair <-
+-> You can call me back <-
+-> Yeah, I think you're hot <-
+-> I think you're alright <-
+-> But you're acting like a chick <-
+-> All the time <-
+-> You were cool and now <-
+-> You're not just like that <-
+-> When you grow a pair <-
+-> You can call me back <-
+-> And no, I don't want to see your [mangina](https://rentry.co/cyadical) <-
+-> When you grow a pair <-
+-> You can call me back <-

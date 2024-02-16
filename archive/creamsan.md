@@ -180,12 +180,13 @@ My cards have checkers to make sure your user script is working.
 ![1](https://files.catbox.moe/jam3zk.png)
 
 **Some things to note:**
-For cards with CSS styling, such as Gacha Lolis, you should turn this script off, or you'll miss out on the fancy stuff:
-Here's an example of a card with css and what it should look like:
+- For cards with CSS styling within the chat, you should turn this user script off, or you'll miss out on the fancy stuff:
+Here's an example of a card with css:
 ![1](https://files.catbox.moe/a78kw3.jpg)
-
-Pic below show the <style> tag sanitized with the script on:
+Pic below shows the <style> tag sanitized with the script on:
 ![1](https://files.catbox.moe/e0fet5.jpg)
+To turn it off: Just press the toggle switch and reload.
+![1](https://files.catbox.moe/bhj8a3.jpg)
 
 Please let me know how to fix this.
 

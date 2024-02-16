@@ -1,0 +1,11 @@
+-> ![-](https://files.catbox.moe/vaslvs.gif)<-
+-> ![-](https://files.catbox.moe/inhhz2.gif) [**"YESSSS! I don't know what that thing is, but I want that THING!"**](https://youtu.be/XjOvZbqHSEg?si=MXcex6UfQMukWU4D) ![-](https://files.catbox.moe/ejaylj.png) <-
+-> ![-](https://files.catbox.moe/eoj6eu.webp) <-
+-> ![-](https://files.catbox.moe/ycet8e.png) *The name's* **Echo**, *but I use more!* ![-](https://files.catbox.moe/ax2786.png) <-
+-> ![-](https://files.catbox.moe/r6r2u9.png) **I go by she and he primarily,** *but you should check out the rest: https://pronouns.cc/@echofluffy* ![-](https://files.catbox.moe/t3fxt8.png) <-
+-> ![-](https://files.catbox.moe/wzz7yb.png) *For more information of my identity, read this: https://rentry.co/echokin ΘΔ* ![-](https://files.catbox.moe/5asu0c.gif) <-
+-> ![-](https://files.catbox.moe/o9unk3.png) <-
+-> {[**navigation**](https://rentry.co/echofluffy)} 🥩 {[**next!**](https://rentry.co/echmoofy)} <-
+-> ![-](https://files.catbox.moe/d83y1w.png)![-](https://files.catbox.moe/8ci8d0.gif)![-](https://files.catbox.moe/ii7e58.png)![-](https://files.catbox.moe/4uxlah.png)![-](https://files.catbox.moe/v9pvzx.webp) <-
+-> ![-](https://files.catbox.moe/ikmm8x.gif)![-](https://files.catbox.moe/hlaxvo.gif)![-](https://files.catbox.moe/gm1e0f.gif)![-](https://files.catbox.moe/y9u9qu.gif)![-](https://files.catbox.moe/2s5kmv.gif) <-
+-> ![-](https://files.catbox.moe/77585a.png)![-](https://files.catbox.moe/6cskq8.png) <-

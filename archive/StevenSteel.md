@@ -1,0 +1,4 @@
+-> *I'LL BREAK YOUR PRETTY* ***FUCKING*** *FACE*<-
+-> ![](https://cdn.discordapp.com/attachments/1082540281624285254/1138241334055026708/ezgif-4-2a4d73c9de.png) <-
+-> ![](https://kingcrimson.crd.co/assets/images/gallery01/1fef6e4f.gif?v=08af690c) <-
+-> [This URL Was Taken By The Atomic Bomb](https://rentry.co/ManhattanProject) <-

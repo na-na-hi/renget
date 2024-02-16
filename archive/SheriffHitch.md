@@ -1,0 +1,10 @@
+-> *%#16AC9C%I got a star on my car and one on my chest%%* <-
+-> ![](https://i.ibb.co/rGVMLcF/E755-F1-F7-A967-44-A4-BA1-A-77-FE5-A36-B517.gif) <-
+-> ![hitch](https://i.ibb.co/89VXgjC/FCE2-B5-B8-7089-4-CA4-A7-C6-61-F4-BAA380-A4.png) <-
+-> **[%#16AC9C%he / it / the champion%%](https://pronouns.cc/@Cyadical)** <-
+-> **%#16AC9C%Autistic  Vegetarian  Gay Sheriff%%** <-
+-> **%#16AC9C%Nonhuman Age Regressor%%** <-
+-> ![](https://i.ibb.co/rf1Q92q/5357-F5-FD-C18-B-4-B22-9139-FB3915284252.png) <-
+-> *%#16AC9C%A gun on my hip and the right to arrest%%* <-
+-> **[%#16AC9C%My Socials%%](https://linktr.ee/Cyadical) ⚡︎ [%#16AC9C%My Collection%%](https://rentry.co/ToyCollection)** <-
+-> ![](https://i.ibb.co/BKGBPsL/435-E0-BBF-E156-40-AA-AC84-D213-A8-DA0-DAC.gif) <-

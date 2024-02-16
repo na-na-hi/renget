@@ -1,0 +1,13 @@
+-> ![](https://i3.glitter-graphics.org/pub/1836/1836243wmqpc5tcay.gif) <-
+-> **![](https://64.media.tumblr.com/8241ca8cf603a1dc20995484f6b01378/489ef0580a3c45ff-ae/s75x75_c1/69b9f1e0380f14517a256500df2192aeaa52eab2.gif) [Living Island](https://youtu.be/3HWG3h-IARU)** <-
+-> ![](https://i.ibb.co/b3YLDM1/FB5-CED56-9-AB1-45-D3-8415-963-F103-A23-AD.png) <-
+-> **![teddy](https://64.media.tumblr.com/e02793e3834787e2c960150be2cc6f5b/39e4a3799b55f633-37/s75x75_c1/946b4840a7329ada5175ef892b199f46eea37c9d.gif) Xavier ![bow](https://64.media.tumblr.com/a817ca34a663591fc068d00d16ed62b4/489ef0580a3c45ff-01/s75x75_c1/91184ad9d809a63f7b55d20604ccd4db42a15b34.gif)** <-
+-> **[he / it / the dog](https://pronouns.cc/@Cyadical) ![cake](https://64.media.tumblr.com/ff003cb1156a59b069b3590651430b81/bcbc505c32a166c1-66/s75x75_c1/691638b1ff4d12d706bf346d765bdce7f975152c.gif)** <-
+-> **Autistic ![heart](https://64.media.tumblr.com/bca0b7969311b086dce38baf3565a7f4/39e4a3799b55f633-cd/s75x75_c1/097317aaf31c9a47b2d0b17b9350a5895d6726ed.gif) Vegatarian Gay Dog** <-
+-> **Nonhuman ![purse](https://64.media.tumblr.com/2a67fdea2bd16ca94e6a8ac5eb31ea51/23673e588ddf5bab-bd/s75x75_c1/874d4caa6e32f69d1309ef4acde2a23bf4a51e47.gif) Age Regressor** <-
+-> ![](https://i3.glitter-graphics.org/pub/1286/1286343lbnis3fmse.gif) <-
+-> ![redpaw](https://64.media.tumblr.com/f279259dcf8ef17e112f7e7a10e6b562/c1b4c8540e67a18d-41/s75x75_c1/12240dd03edd05d20622c528afb6e78ed60d06a2.gif) <-
+-> ![yellowpaw](https://64.media.tumblr.com/f279259dcf8ef17e112f7e7a10e6b562/c1b4c8540e67a18d-41/s75x75_c1/12240dd03edd05d20622c528afb6e78ed60d06a2.gif) <-
+-> ![bluepaw](https://64.media.tumblr.com/f279259dcf8ef17e112f7e7a10e6b562/c1b4c8540e67a18d-41/s75x75_c1/12240dd03edd05d20622c528afb6e78ed60d06a2.gif) <-
+-> **[My Socials](https://linktr.ee/Cyadical) ![book](https://64.media.tumblr.com/185628ea97169a2481ed2c855dd741c0/a21e20d840478aad-64/s75x75_c1/a7b65819a8edb9d8720a280a8fa9caa284c3205f.gif) [My Collection](https://rentry.co/ToyCollection)** <-
+-> ![](https://i3.glitter-graphics.org/pub/337/337973gj0e05thas.gif) <-

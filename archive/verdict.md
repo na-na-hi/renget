@@ -1,0 +1,19 @@
+-> 🌊 <-
+-> ❝ ☆ %lightskyblue% *EACH COURSE OF FLOWING WATER CARRIES WITH IT AN ARRAY OF* **C͟O͟M͟P͟L͟E͟X͟ E͟M͟O͟T͟I͟O͟N͟S͟** ***...*** %% ![](https://massacre.crd.co/assets/images/gallery09/62a2c0f8.gif?v=cfe7914f) <-
+-> ![](https://files.catbox.moe/qfojan.png) <-
+-> ![](https://files.catbox.moe/qfojan.png) <-
+-> ![](https://files.catbox.moe/g0tcml.png) <-
+-> ![](https://files.catbox.moe/5jqtis.gif) <-
+-> ![](https://massacre.crd.co/assets/images/gallery09/dcdeb45e.gif?v=cfe7914f) ![](https://files.catbox.moe/vwkgm4.png) ![](https://massacre.crd.co/assets/images/gallery10/9b5c0037.png?v=cfe7914f) ✦ *or* **G**UTS ★ ![](https://massacre.crd.co/assets/images/gallery09/fb6b6b5f.gif?v=cfe7914f) Twenty ; **Oct.** 9th ![](https://massacre.crd.co/assets/images/gallery09/9d3cc00e.gif?v=cfe7914f)
+![](https://massacre.crd.co/assets/images/gallery09/bbfc7264.gif?v=cfe7914f)♡ History Connoisseur ꕀ ![](https://massacre.crd.co/assets/images/gallery09/a7269d0e.gif?v=cfe7914f) [H](https://pronouns.cc/@Cannibal)e.Him  ⌗ ﹕![Transgender FtM](https://f2.toyhou.se/file/f2-toyhou-se/images/22462976_bnJBzlfCUwdl2gz.png?1623251708) ![Bisexual](https://f2.toyhou.se/file/f2-toyhou-se/images/22459674_bkn0ph3oiADvykk.png?1623251719) ![Aromantic](https://f2.toyhou.se/file/f2-toyhou-se/images/22462746_Ex3zGlF5M0PQXak.png?1623251728) ﹕✦
+![](https://massacre.crd.co/assets/images/gallery09/e8dd8af5.gif?v=cfe7914f) Certified *Pisser* ✮⋆˙﹒![](https://massacre.crd.co/assets/images/gallery10/5a789819.gif?v=cfe7914f) ⨯ ₊  [Li](https://jojowiki.com/Lisa_Lisa)sa Lisa's **Husband**![](https://massacre.crd.co/assets/images/gallery09/ee49e4d3.gif?v=cfe7914f) <-
+-> ![](https://files.catbox.moe/ixtdd4.png) <-
+-> ![](https://massacre.crd.co/assets/images/gallery10/cc0cb4f5.gif?v=cfe7914f) ⨯ ₊ **Ca**nniba*listic* & ![](https://massacre.crd.co/assets/images/gallery09/03ce8896.gif?v=cfe7914f) ⌗ *Va*mpiric**Zo**mbie IRL ![](https://massacre.crd.co/assets/images/gallery09/c44aace7.gif?v=cfe7914f)
+![](https://massacre.crd.co/assets/images/gallery09/14e932bf.gif?v=cfe7914f) *Sp*ace & **Ho**rror **Lover** ![](https://massacre.crd.co/assets/images/gallery09/562e1aab.gif?v=cfe7914f) ***ﾉ*** Professional *[Ga](https://rentry.co/-gatekeeper)tekeeper* ⋆˙﹒![](https://massacre.crd.co/assets/images/gallery09/bbfc7264.gif?v=cfe7914f) <-
+-> ![](https://massacre.crd.co/assets/images/gallery25/bb7610ca.gif?v=cfe7914f) <-
+-> ![](https://massacre.crd.co/assets/images/gallery10/0a9a694c.gif?v=cfe7914f) [**E**x](https://rentry.co/yourinsides)tra **☆** [**K**i](https://rentry.co/-kin)**nList** **★** [**F**r](https://rentry.co/-hamon)iends **☆** [**I**n](https://rentry.co/-carcass)**terests** **★** [**C**o](https://rentry.co/-stabbing)mforts ![](https://massacre.crd.co/assets/images/gallery10/26238a46.gif?v=cfe7914f) <-
+-> ![](https://massacre.crd.co/assets/images/gallery09/c81e7db8.gif?v=cfe7914f) ⌜ [**t**w](https://twitter.com/konodiavoloda)itter ♡ [**i**n](https://www.instagram.com/diavoloification/)sta ![](https://massacre.crd.co/assets/images/gallery09/9d3cc00e.gif?v=cfe7914f) [**c**a](https://pissking.carrd.co/)rrd ♡ [**u**r](https://rentry.co/CanYouHearTheMusic)ls ⌝ ![](https://massacre.crd.co/assets/images/gallery10/e233953f.gif?v=cfe7914f) <-
+-> ![](https://files.catbox.moe/as7sjj.png) <-
+-> ![](https://files.catbox.moe/qfojan.png) <-
+-> ![](https://files.catbox.moe/qfojan.png) <-
+-> ![](https://massacre.crd.co/assets/images/gallery10/bc1c7a89.gif?v=cfe7914f) %lightskyblue% *WHEN THEY REACH THEIR FINAL RESTING PLACE, WHO WOULD THEN DARE* **D͟I͟S͟T͟U͟R͟B͟ T͟H͟E͟M͟** ***?*** %% ★ ❞ <-

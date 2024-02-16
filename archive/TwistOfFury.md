@@ -1,0 +1,8 @@
+-> %#93C8D7%*"bow to my beauty!"*%% <-
+-> ![](https://i.ibb.co/nrj13wC/D01626-E9-1435-427-D-9-F27-D1-AAE0-BC566-F.png) <-
+-> %#3FB8E0%xavier%% <-
+-> [%#57CDF0%he / it / the dragon%%](https://pronouns.cc/@Cyadical) <-
+-> %#71B3E2%autistic vegetarian gay dragon%% <-
+-> %#8DB1D0%nonhuman age regressor%% <-
+-> ![](https://64.media.tumblr.com/5a83782ea8fb4201de56cfaab9ce4840/9bf92b646448de26-c4/s1280x1920/81a6dd4c21cc95e70b3b636b1e70895e5e6dd7c0.pnj) <-
+-> [%#AEC1D0%my socials%%](https://linktr.ee/Cyadical) %#AEC1D0%⚡︎%% [%#AEC1D0%my collection%%](https://rentry.co/ToyCollection) <-

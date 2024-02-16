@@ -1,6 +1,6 @@
 # /aicg/ - Discordtroon botmakers
 !!! note A handy list for anons
-!!! info Le Update (02/07/24)
+!!! info Le Update (02/16/24)
 
 [Algiz](https://www.chub.ai/users/Algiz) - [Proof](https://desuarchive.org/g/thread/96728894/#96729199)
 [anonaugusproductions](https://www.chub.ai/users/anonaugusproductions) - [Proof](https://files.catbox.moe/52wseg.jpg)
@@ -39,6 +39,17 @@
 [kingvalntula1](https://www.chub.ai/users/kingvalntula1) - [Proof](https://files.catbox.moe/y02onx.png)
 [TheColonel/thepizzaman](https://www.chub.ai/users/thepizzaman) - [Proof](https://files.catbox.moe/fooord.png)
 [corpselover/corpsefucker](https://chub.ai/users/corpsefucker) - [Proof](https://files.catbox.moe/36lrmv.png)
-
+[fumowalker/planewalker](https://chub.ai/users/planewalker) - [Proof](https://files.catbox.moe/8e26kn.png)
+[slopass](https://chub.ai/users/slopass) - [Proof](https://files.catbox.moe/aqumls.png)
+[cutenotlewd](https://www.chub.ai/users/cutenotlewd) - [Proof](https://desuarchive.org/g/thread/99015285/#99016598)
+[FrozenVan](https://www.chub.ai/users/frozenvan)  - [Proof](https://desuarchive.org/g/thread/99015285/#99016598)
+[knickknack](https://www.chub.ai/users/knickknack)  - [Proof](https://desuarchive.org/g/thread/99015285/#99016598)
+[onaholesama](https://chub.ai/users/onaholesama)  - [Proof](https://desuarchive.org/g/thread/99015285/#q99016700)
+[snombler](https://chub.ai/users/snombler)  - [Proof](https://desuarchive.org/g/thread/99015285/#q99016700)
+[Antonius](https://chub.ai/users/Antonius)  - [Proof](https://desuarchive.org/g/thread/99015285/#q99016700)
+[asterisms](https://chub.ai/users/asterisms)  - [Proof](https://desuarchive.org/g/thread/99015285/#q99016700)
+[Gravyseal](https://chub.ai/users/Gravyseal)  - [Proof](https://desuarchive.org/g/thread/99015285/#q99016598)
+[Norq/norquinal](https://chub.ai/users/norquinal) - [Proof](https://desuarchive.org/g/thread/99015285/#q99016700)
+[Khanon](https://chub.ai/users/khanon) - [Proof](https://desuarchive.org/g/thread/99015285/#q99016598)
 Send names and proof here, preferably with links to their chub or rentry. listnigger@proton.me
 To get off this list, just delete your discord account.

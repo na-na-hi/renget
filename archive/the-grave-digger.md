@@ -1,0 +1,15 @@
+-> ![](https://64.media.tumblr.com/f45f1ffd6b572604a8ea04c6b2180f34/f5eff45885d23656-50/s540x810/e7b1c779140375e4e0bf43faf31cba346d1ad058.gif) <-
+-> ![](https://i.ibb.co/P9hHCkz/2-B53-DDC6-12-D0-4-E8-D-93-E3-4-E2496-CAC386.gif) <-
+-> ![](https://i.ibb.co/BsKyVS1/12-F0-D006-CA3-A-406-F-879-A-0-C9-EC087-A89-F.png) <-
+-> ![](https://64.media.tumblr.com/45b3ee7112e923fd7b4d29aa04e3dd15/2e220f9d268f7399-eb/s75x75_c1/18583e7cf663859e0aa3aa59117720a7546e8d66.gif) [BAD TO THE BONE !](https://open.spotify.com/track/6s0NHplywwr1IjnQpUpWJk?si=KV-h3cphSSqdPI4EAhCBsg) <-
+-> ![lightning](https://64.media.tumblr.com/186cec08cf91af7d17fc29496d5d32c2/8b0d2c35c17d69bf-08/s75x75_c1/0d83b43ddee4414c3736664f44b743515ea0fef0.gif) XAVIER ![phone](https://64.media.tumblr.com/843c9111c432f85009a20fb1fb0b9f44/2b971164c8da77c9-f9/s75x75_c1/2f721700ac4c370d41a83c7667158e2d8c6f9ce8.gif) <-
+-> [HE / IT](https://en.pronouns.page/@cyadical) ![meat](https://64.media.tumblr.com/a5efc8c20c3c1d9d03bc1813b186c99a/38a6c0575a031fb3-2a/s75x75_c1/8e3fc163d7a7afbf131a0f3a21b906719c04cee9.gif) <-
+-> AUTISTIC ![spaceship](https://64.media.tumblr.com/38050dc9e8d291f943e7ec4ab98c5218/7d2bce6b62c2bc5b-0a/s75x75_c1/d89cf904762062cec4391f6580ad9de0bb6715a1.gif) VEGETARIAN GAY MONSTER TRUCK DUDE <-
+-> NONHUMAN ![clock](https://64.media.tumblr.com/caa45b8017e2ea7f04eb10c74f91a11e/405abef7f6d766bf-a2/s75x75_c1/b701b8a6a516d320921f328ff8392c6125829853.gif) AGE REGRESSOR <-
+-> ![](https://64.media.tumblr.com/3991be7bea13d451493da1f5d198041b/d0562d75663b159f-73/s640x960/73d2b2a5c6ed4fe65c8b3a6d7a3ddcb2de6fbf14.pnj) <-
+-> ![redpaw](https://64.media.tumblr.com/a9c80c332ebbba56f1fbae4412e0f201/56b41404f2cdfbd4-31/s75x75_c1/7586ff6e19a4ef05cb3d8de53b824ca8bd214b74.gif) <-
+-> ![yellowpaw](https://64.media.tumblr.com/a9c80c332ebbba56f1fbae4412e0f201/56b41404f2cdfbd4-31/s75x75_c1/7586ff6e19a4ef05cb3d8de53b824ca8bd214b74.gif) <-
+-> ![bluepaw](https://64.media.tumblr.com/a9c80c332ebbba56f1fbae4412e0f201/56b41404f2cdfbd4-31/s75x75_c1/7586ff6e19a4ef05cb3d8de53b824ca8bd214b74.gif) <-
+-> [MY SOCIALS](https://linktr.ee/Cyadical) ![sunshine](https://64.media.tumblr.com/ae8c6f28a80ccffc33e2c274570c6595/56b41404f2cdfbd4-0d/s75x75_c1/a55493eda7be70edd27a775726a0aa3cd35e9bf9.gif) [MY COLLECTION](https://rentry.co/ToyCollection) <-
+-> ![](https://64.media.tumblr.com/dd22ac1c7e6a7154a3b6cabb9a6b9c7a/fa74b0cda1a5fd06-2b/s500x750/c462285b17750f2a117f07e6f31ddccd532479b0.gif) <-
+-> ![](https://64.media.tumblr.com/350c3e5caff15083358699bce5e4363d/f5eff45885d23656-d0/s540x810/dc91bed4e84415adea45a54b11af69e0e89d4f8f.gif) <-

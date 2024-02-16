@@ -1,0 +1,17 @@
+-> ![fancy rabbit](https://64.media.tumblr.com/7e968e0e77ef37ccabafc3db229f981a/68e63646d70e6018-87/s75x75_c1/7cfa3caaff531557191bda695b590a8308dad48c.gif) [**Its Magic!**](https://youtu.be/h6o38MN8yqE) ![music](https://64.media.tumblr.com/c252fd1381dce117f735e1b1cf595827/68e63646d70e6018-89/s75x75_c1/fcbd370460b7be6bd811f6429a41c5728585886b.gif) <-
+
+-> ![](https://64.media.tumblr.com/74a00c7b6205a9a36261befc577dd746/tumblr_n7s7kgnbcL1t4kl4fo3_250.gif) <-
+-> ![](https://i1.glitter-graphics.org/pub/2128/2128371p4djecqy0p.gif) <-
+-> **![fancy](https://64.media.tumblr.com/4f7c3a60384f452064348f8c1d431ae1/68e63646d70e6018-d7/s75x75_c1/e16b547364973b40f16adb2b9a969e769bf348de.gif) Xavier ![butterfly](https://64.media.tumblr.com/a16011df832ecf26efe1f027adcc68ad/8e25eac61fd16641-86/s75x75_c1/165007bd2f8eb72d216af0a2c37484876de179ed.gif)** <-
+-> **[he / it / the rabbit](https://pronouns.cc/@Cyadical) ![rabbit](https://64.media.tumblr.com/d3e87239e209af0cc114b12370835417/68e63646d70e6018-fa/s75x75_c1/099c3ce35effdc77d195acc58eb0bc275ac120b4.gif)** <-
+-> **Autistic ![water](https://64.media.tumblr.com/b323264efbf09266a93eedd97f694ad6/98ba5ef4e4865363-90/s75x75_c1/1c86f1d9c67e6d0eae3e7cf6fd46fb09dca4b3b8.gif) Vegatarian Gay Rabbit** <-
+-> **Nonhuman ![bugcatcher](https://64.media.tumblr.com/e58d317233addbef28eb022916ae52b8/1368474692bf0fc5-38/s75x75_c1/bcd67a030b6e8b6eb1fb0227b8ed9316b6b7d771.gif) Age Regressor** <-
+-> **My Easter Bunny Identity was my first ever awakening ![chick](https://64.media.tumblr.com/211768194149732554bf0795896de85c/1e63d3dc54d72922-7f/s75x75_c1/c6d46d6d167c56629d8f6b76d30a711012ce7956.gif) during April shifts for this Kintype happen more frequently.** <-
+-> **Appearance wise ![Ladybug](https://64.media.tumblr.com/9ce8d583639d2f4e8be875f558be0e27/9006721b136d887d-5e/s75x75_c1/60abe34aa0fd501d9dc88dd892a202c22125227f.gif) I'm most similar to Bunnymund from Rise of the Guardians ![white flower](https://64.media.tumblr.com/1f08e9b544ab39d8c21bf3e43024d825/306c03442a8d69a5-88/s75x75_c1/d855af8256aa0c010ebfd7c369873d6c484633c6.gif) but with pure white fur.** <-
+-> ![](https://i1.glitter-graphics.org/pub/467/467971wsptejjgdp.gif) <-
+-> ![redpaw](https://64.media.tumblr.com/12b5af50dfa2458fe84a2cc522e6124b/8e25eac61fd16641-5e/s75x75_c1/cba85937b62727ee7e18e06bc248171d4f2f3823.gif) <-
+-> ![yellowpaw](https://64.media.tumblr.com/12b5af50dfa2458fe84a2cc522e6124b/8e25eac61fd16641-5e/s75x75_c1/cba85937b62727ee7e18e06bc248171d4f2f3823.gif) <-
+-> ![bluepaw](https://64.media.tumblr.com/12b5af50dfa2458fe84a2cc522e6124b/8e25eac61fd16641-5e/s75x75_c1/cba85937b62727ee7e18e06bc248171d4f2f3823.gif) <-
+-> ![](https://i6.glitter-graphics.org/pub/2046/2046046lg988gh7ug.gif) <-
+-> **[My Socials *!*](https://linktr.ee/Cyadical) ![flowerdance](https://64.media.tumblr.com/b9d1256c19d17be1e29252e467d375f3/9006721b136d887d-35/s75x75_c1/ca3453ed1e347da2013aaa6444ba5420ba269b7b.gif) [My Collection *!*](https://rentry.co/ToyCollection)** <-
+-> ![](https://i4.glitter-graphics.org/pub/2128/2128374j9sp0skikp.gif) <-

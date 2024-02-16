@@ -1,0 +1,13 @@
+-> ![-](https://files.catbox.moe/cyl9zy.gif)<-
+-> ![-](https://files.catbox.moe/ypcnzw.gif) [**"It'd be funny if she weren't such a terrible person."**](https://youtu.be/OrOqsbT05uM?si=IffFXDugHhVP53WD) ![-](https://files.catbox.moe/4754ru.gif) <-
+-> ![-](https://files.catbox.moe/utky2m.png) <-
+-> ![-](https://files.catbox.moe/nkom8n.gif) *I have no set DNI! As long as you're respectful and willing to listen, I'll be willing to interact! I don't bite.* ![-](https://files.catbox.moe/xmomwg.gif) <-
+-> ![-](https://files.catbox.moe/l1w0vs.gifv) *I platonically flirt with people a lot, but if I ever do that to you, and you're uncomfortable, please tell me! I'm also primarily SFW in my discussions with most people.* ![-](https://files.catbox.moe/cdj0qz.gif) <-
+-> ![-](https://files.catbox.moe/k7ms3x.gif) **Ping me please!** *Unless I state otherwise in my status, feel free to ping me and DM me! DND and offline statuses TYPICALLY don't mean to leave me alone.* ![-](https://files.catbox.moe/uxljca.gif) <-
+-> ![-](https://files.catbox.moe/5ec89t.gif) **DM with purpose!** *I struggle with DMing first, and sometimes replying, but I promise that I enjoy receiving DMs, and I try to reply quickly. If you don't get a reply quickly, don't take it personally! Mostly when I have DND on, and I'm sent open-ended questions, may I struggle.* ![-](https://files.catbox.moe/yr7bzp.gif) <-
+-> ![-](https://files.catbox.moe/udj8i8.png) <-
+-> {[**navigation**](https://rentry.co/echofluffy)} 🦉 {[**next!**](https://rentry.co/hisnameischeese)} <-
+-> ![-](https://files.catbox.moe/thtrb2.png) ![-](https://files.catbox.moe/7u0621.gif) ![-](https://files.catbox.moe/ioae8d.png) ![-](https://files.catbox.moe/0fmcpt.gif) ![-](https://files.catbox.moe/18lkds.png) ![-](https://files.catbox.moe/1wvsdu.gif) ![-](https://files.catbox.moe/tl0hen.webp) ![-](https://files.catbox.moe/u8azrs.png) ![-](https://files.catbox.moe/b4ejul.png) ![-](https://files.catbox.moe/6eetq7.jpg)
+![-](https://files.catbox.moe/zs3uwx.gif)![-](https://files.catbox.moe/t74pqg.png) <- 
+-> ![-](https://files.catbox.moe/mjls4p.png) <-
+-> ![-](https://files.catbox.moe/agxudx.gif) <-

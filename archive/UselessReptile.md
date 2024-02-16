@@ -1,0 +1,13 @@
+-> ![](https://i.ibb.co/HNQzXv5/975-F3907-7916-4-C12-93-A6-BE1-CDDF105-C9.png) <-
+-> ![](https://i.ibb.co/3yV4rB3/F3135-F9-E-AB19-4-D67-8699-E3948-E38107-E.gif) <-
+-> *%#F2C468%"Thank You For Nothing, You Useless Reptile"%%* <-
+-> *![lightning](https://64.media.tumblr.com/d2f93435250e7c54b87b72193a755a83/9e7c7ea502c31880-93/s75x75_c1/9db158e8994d738fa63be07c973929d288926390.gif) %#F2C468%Xavier + Buster%% ![crown](https://64.media.tumblr.com/419648e0d9bc3624e17f59cf1c34e467/b8c2584f16662b95-1e/s75x75_c1/91b0029f2fe430dd260be44bbadfc93fcf096bab.gif)* <-
+-> *[%#F2C468%he / it / the dragon%%](https://pronouns.cc/@Cyadical) ![meat](https://64.media.tumblr.com/196ed801842aa4070670322644b972c2/68e63646d70e6018-04/s75x75_c1/cf4df9f1441ad2d58ee4200b18e89ce805d1ba90.gif)* <-
+-> *%#F2C468%Autistic ![spaceship](https://64.media.tumblr.com/ea6973728121688cc03d3e2b16936184/68e63646d70e6018-c7/s75x75_c1/25f938863336a5cf6df95ad983abb61ba0dc6c46.pnj) Vegetarian Gay Royal Dragon%%* <-
+-> *%#F2C468%Nonhuman ![clock](https://i.ibb.co/cwNjVWR/DDEB3-BCA-8-E11-4-B1-A-B170-FE9365-DD1685.gif) Age Regressor%%* <-
+-> [*%#F2C468%Click here for art credits and more info%%*](https://toyhou.se/22139775.buster) <-
+-> ![](https://64.media.tumblr.com/cd93e11caab7b7aedf37e504d2338654/b90dd0701065fb57-2d/s540x810/fb7986ea771a97ae4c1d8932478a163c2137d859.gif) <-
+-> ![redpaw](https://64.media.tumblr.com/3526b31de23c8df7a0279f5cbfd613d6/ba26780055d59e6c-87/s75x75_c1/dafa9207bcc19ed438df0b30926068d479d89bbb.gif) <-
+-> ![yellowpaw](https://64.media.tumblr.com/3526b31de23c8df7a0279f5cbfd613d6/ba26780055d59e6c-87/s75x75_c1/dafa9207bcc19ed438df0b30926068d479d89bbb.gif) <-
+-> ![bluepaw](https://64.media.tumblr.com/3526b31de23c8df7a0279f5cbfd613d6/ba26780055d59e6c-87/s75x75_c1/dafa9207bcc19ed438df0b30926068d479d89bbb.gif) <-
+-> *[%#F2C468%My Socials%%](https://linktr.ee/Cyadical) ![coins](https://64.media.tumblr.com/d3a9276680bd76e24b97d0cb197b21d9/5baff56e2a8778f3-18/s75x75_c1/b86ab12b574b1e3fb51acae03cb39453e5783520.gif) [%#F2C468%My Collection%%](https://rentry.co/ToyCollection)* <-

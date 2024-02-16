@@ -1,0 +1,12 @@
+-> ![-](https://files.catbox.moe/o9ibve.gif) <-
+-> ![divider](https://files.catbox.moe/4s3sf1.gif)![divider](https://files.catbox.moe/4s3sf1.gif) ![divider](https://files.catbox.moe/4s3sf1.gif) <-
+-> ![boba pixel](https://files.catbox.moe/9s0ibx.png) *This is the __navigation page__ for my rentries! Please reference this for the full list, or possibly to go back.* ![purse pixel](https://files.catbox.moe/z6ab5p.gif) <-
+-> - - - <-
+-> ![red pixel](https://files.catbox.moe/4ejkgg.gif) **[1](https://rentry.co/millieknolastname)** - *Identity* <-
+-> ![orange pixel](https://files.catbox.moe/y991t7.webp) **[2](https://rentry.co/echmoofy)** - *Contact info 1, a BYI of sorts* ![white sparkles](https://files.catbox.moe/zhjnfw.webp) <-
+-> ![yellow pixel](https://files.catbox.moe/6ileml.gif) **[3](https://rentry.co/hisnameischeese)** - *Contact info 2* <-
+-> ![green pixel](https://files.catbox.moe/f0jyji.gif) **[4](https://rentry.co/echosearth)** - *Social media & likes* <-
+-> ![blue pixel](https://files.catbox.moe/lx1ank.gif) **[5](https://rentry.co/blueslidepark)** - *Dislikes & favorites* ![white sparkles](https://files.catbox.moe/zhjnfw.webp) <-
+-> ![purple pixel](https://files.catbox.moe/jvl8uc.gif) **[6](https://rentry.co/royalowl)** - *Boundaries & friends* <-
+-> ![rainbow pixel](https://files.catbox.moe/bbv0fz.gif) **[7](https://rentry.co/sparklypup)** - *Goodbye & url hoard* <-
+->  ![divider](https://files.catbox.moe/4s3sf1.gif)![divider](https://files.catbox.moe/4s3sf1.gif) ![divider](https://files.catbox.moe/4s3sf1.gif) <-

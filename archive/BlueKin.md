@@ -1,0 +1,8 @@
+-> ![](https://i.pinimg.com/originals/3c/4f/cc/3c4fccb279120e33245d57f22c21ebe9.gif) <-
+-> [*Everything is blue*](https://rentry.co/cyadical) <-
+-> [*His pills, his hands, his jeans*](https://rentry.co/cyadical) <-
+-> [*And now I'm covered in the colors*](https://rentry.co/cyadical) <-
+-> [*Pulled apart at the seams*](https://rentry.co/cyadical) <-
+-> [*And it's blue*](https://rentry.co/cyadical) <-
+-> [*And it's blue*](https://rentry.co/cyadical) <-
+-> ![](https://64.media.tumblr.com/ecabb59090814a5b42ae339034fe5c58/392227d5c77b7f22-d0/s400x600/96368b9bfc470fc95c93356870e3f7216b1b2966.webp) <-

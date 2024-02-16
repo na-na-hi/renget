@@ -1,3 +1,11 @@
+>Tucker interview with Putin
+https://files.catbox.moe/il9qbm.mp4 (part 1)
+https://files.catbox.moe/z13j9y.mp4 (part 2)
+https://files.catbox.moe/8exmyb.mp4 (after interview)
+>Tucker's paywalled videos
+https://litter.catbox.moe/xvnz6e.mp4
+https://litter.catbox.moe/qn49vb.mp4
+https://files.catbox.moe/44r05d.mp4
 >AFU left their wounded in Avdeevka
 https://files.catbox.moe/c443r7.mp4
 >Hohol fails to shotgun a drone down
@@ -22,9 +30,6 @@ https://files.catbox.moe/3tgnum.mp4
 https://files.catbox.moe/oupi44.mp4
 >Footage of the arrival at the Belgorod shopping centre
 https://files.catbox.moe/f5gh8x.MP4
->Tucker's paywalled videos
-https://litter.catbox.moe/xvnz6e.mp4
-https://litter.catbox.moe/qn49vb.mp4
 >Combat work of an operator of the Russian Armed Forces to destroy a Ukroboevka
 https://files.catbox.moe/wqpv2d.mp4
 >Pieces of US supplied GLSDB guided bombs
@@ -43,8 +48,6 @@ https://files.catbox.moe/2fjamm.mp4
 https://files.catbox.moe/bu935i.MOV
 >Lets play nazis, guys!
 https://files.catbox.moe/3kl5c0.mp4
->Tucker on Kievskaya metro station
-https://files.catbox.moe/44r05d.mp4
 >Russian fishing for drones
 https://files.catbox.moe/z8qic4.mp4
 >American mercs got REKT
@@ -99,10 +102,6 @@ https://files.catbox.moe/4ukl4t.mp4
 https://files.catbox.moe/0nsbpc.mp4
 https://files.catbox.moe/el1tsg.mp4
 https://files.catbox.moe/kvmgbr.MP4
->Tucker Carlons interview with Putin
-https://files.catbox.moe/il9qbm.mp4 (part 1)
-https://files.catbox.moe/z13j9y.mp4 (part 2)
-https://files.catbox.moe/8exmyb.mp4 (after)
 >captured AFU positions [NOT COMFY]
 https://files.catbox.moe/6i9cuj.mp4
 >Avdeevka getting FAB'd heard from Donetsk

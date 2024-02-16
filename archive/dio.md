@@ -1,0 +1,1 @@
+-> ![](https://i.imgflip.com/3otno6.jpg) <-

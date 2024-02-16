@@ -1,0 +1,1 @@
+-> ***☆ Taken By  [Guts](https://rentry.co/CanYouHearTheMusic) .ᐟ*** ![](https://massacre.crd.co/assets/images/gallery11/3ed93c72.gif?v=cfe7914f) <-

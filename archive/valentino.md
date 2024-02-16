@@ -1,0 +1,19 @@
+-> 🩷 <-
+-> ❝ ☆ *I ACHE FOR THE TOUCH OF YOUR LIPS,* %deeppink% ***D͟E͟A͟R͟***%%  **!** ![](https://massacre.crd.co/assets/images/gallery12/fbc02add.gif?v=906dda92) <-
+-> ![](https://files.catbox.moe/fd22yo.png) <-
+-> ![](https://files.catbox.moe/mkbmtn.png) <-
+-> ![](https://massacre.crd.co/assets/images/gallery13/7a3fc5b6.gif?v=906dda92) ![](https://massacre.crd.co/assets/images/gallery12/c93495b9.gif?v=906dda92) ![](https://massacre.crd.co/assets/images/gallery13/afe1e53e.gif?v=906dda92) <-
+->%deeppink% It leaves room for *you* and *me* %%<-
+-> [![Art by keeiwo](https://files.catbox.moe/qidgd6.png)](https://twitter.com/keeiwo/status/1752917505738170510) <-
+-> ![](https://massacre.crd.co/assets/images/gallery12/6a42a6fe.gif?v=906dda92) ![](https://files.catbox.moe/v1880f.png) ✦ *or* **G**UTS ★ ![](https://massacre.crd.co/assets/images/gallery12/91ea655b.gif?v=906dda92) Twenty ; **Oct.** 9th ![](https://massacre.crd.co/assets/images/gallery12/2c9f4c04.gif?v=906dda92)
+![](https://massacre.crd.co/assets/images/gallery12/b9acb31c.gif?v=906dda92)♡ History Connoisseur ꕀ ![](https://massacre.crd.co/assets/images/gallery12/2b383fc2.gif?v=906dda92) [H](https://pronouns.cc/@Cannibal)e.Him  ⌗ ﹕![Transgender FtM](https://f2.toyhou.se/file/f2-toyhou-se/images/22462976_bnJBzlfCUwdl2gz.png?1623251708) ![Bisexual](https://f2.toyhou.se/file/f2-toyhou-se/images/22459674_bkn0ph3oiADvykk.png?1623251719) ![Aromantic](https://f2.toyhou.se/file/f2-toyhou-se/images/22462746_Ex3zGlF5M0PQXak.png?1623251728) ﹕✦
+![](https://massacre.crd.co/assets/images/gallery12/2c9f4c04.gif?v=906dda92) ✮⋆˙﹒Extremely Wicked, Shockingly *Evil* & **Vile** ⨯ ₊ ![](https://massacre.crd.co/assets/images/gallery13/b3b8b7cd.gif?v=906dda92) <-
+-> ![](https://massacre.crd.co/assets/images/gallery22/f39b1ee8.gif?v=906dda92) <-
+-> ![](https://massacre.crd.co/assets/images/gallery12/eae0a6d6.gif?v=906dda92) ⨯ ₊ **Ca**nniba*listic* Killer & ![](https://massacre.crd.co/assets/images/gallery13/719865a6.gif?v=906dda92) ⌗ *Va*mpiric**Zo**mbie IRL ![](https://massacre.crd.co/assets/images/gallery12/a2fdcea5.gif?v=906dda92)
+![](https://massacre.crd.co/assets/images/gallery13/12c853a7.gif?v=906dda92) *Sp*ace & **Ho**rror **Lover** ![](https://massacre.crd.co/assets/images/gallery12/ee7ec315.gif?v=906dda92) ***ﾉ*** Professional *[Ga](https://rentry.co/-gatekeeper)tekeeper* ⋆˙﹒![](https://massacre.crd.co/assets/images/gallery12/94495d35.gif?v=906dda92) <-
+-> ![](https://massacre.crd.co/assets/images/gallery25/bd02c2ff.gif?v=906dda92) <-
+-> ![](https://massacre.crd.co/assets/images/gallery12/46c792ac.gif?v=906dda92) [**E**x](https://rentry.co/-violent)tra **☆** [**K**i](https://rentry.co/-kin)**nList** **★** [**F**r](https://rentry.co/-hamon)iends **☆** [**I**n](https://rentry.co/-carcass)**terests** **★** [**C**o](https://rentry.co/-stabbing)mforts ![](https://massacre.crd.co/assets/images/gallery13/97f703b7.gif?v=906dda92) <-
+-> ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=906dda92) ⌜ [**T**w](https://twitter.com/konodiavoloda)itter ♡ [**I**n](https://www.instagram.com/diavoloification/)sta ![](https://massacre.crd.co/assets/images/gallery12/e27310a6.gif?v=906dda92) [**C**a](https://pissking.carrd.co/)rrd ♡ [**U**r](https://rentry.co/Basement)ls ⌝ ![](https://massacre.crd.co/assets/images/gallery12/4d56fb39.gif?v=906dda92) <-
+-> ![](https://files.catbox.moe/lvjm3v.png) <-
+-> ![](https://files.catbox.moe/fd22yo.png) <-
+-> ![](https://massacre.crd.co/assets/images/gallery12/d7a00d9a.gif?v=906dda92) *BUT MUCH MORE FOR THE TOUCH OF YOUR WHIPS,* %deeppink% ***D͟E͟A͟R͟***%% **!** ★ ❞ <-

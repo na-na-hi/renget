@@ -1,0 +1,15 @@
+->[i](https://sorcery-fight.tumblr.com/post/704901726632886272/i-am-the-worlds-prettyist-pink-princess-and-im) am the *`WORLDS PRETTYIST PINK PRINCESS`* and [im](https://youtu.be/zrhIV8Dezjs?si=_MzT0aSiXADiebiJ) gonna *`KILL YOU WITH MY HUGE FUCKING HAMMER`*<-
+->![Official Gothic Amy Rose render from Sonic Runners, from the Sonic News Network fandom page](https://static.wikia.nocookie.net/sonic-runners-reloaded/images/4/41/GothicAmy_CSS_Render.png/revision/latest?cb=20220228201713)
+**Yax**, Willow ![a gif of a pink 3d heart rotating](https://yokai.crd.co/assets/images/gallery08/a02a4b96.gif?v=b4df531c)  `Any` **[+](https://pronouny.xyz/u/yaxghost)**  **She/Moon** 
+Latina `(CO)` ![a gif of Sonic The Hedgehog running](https://media.discordapp.net/attachments/903364339464044575/1092746070712393759/09A1D4C5-0F84-4D0B-8F3B-F07E02E1E76A.gif)  **15**, ENG/`ESP`
+![a gif looping through Sonic Battle character icons](https://media.discordapp.net/attachments/903364339464044575/1092746071077302283/FDFB11D4-02F5-42D9-A28C-42D97B8B6FE1.gif) **Friend signatures:  [dem](https://rentry.co/docm77)** better, **[KEL](https://rentry.co/genericconveniencestore)**!?!?!?, **[xelie](https://rentry.co/xelie)** face of autism was here 2, **[PEARL](https://rentry.co/disco-tronic)**!!! :P, "**[clem](https://rentry.co/seafoodiseughh)** was here" ![pink cat paw pads](https://mikejima.crd.co/assets/images/shadow/2381e399.gif?v=0ef41667)
+![A divider with a heart and angel wings](https://media.discordapp.net/attachments/903364339464044575/1100874244361027815/74CD001A-C294-4263-8CFE-B0895F08B8B6.png)
+[![Click this to go back! A sprite of a Sonic The Hedgehog monitor, Sonic is in it, facing the right side of the screen, looking like he's clinging onto something. Below him is a red colored text that reads "BACK." It intermittently shifts into a red arrow. Taken from carnation-damnation](https://64.media.tumblr.com/b022466880af6720ca8343a4ea667c56/e4fa01076abf6ea9-a9/s75x75_c1/6e5b3d2079f59a41386c10884fdf098da3deba46.gifv)](https://rentry.co/metalvirus)
+![A divider with a heart and angel wings](https://media.discordapp.net/attachments/903364339464044575/1100874244361027815/74CD001A-C294-4263-8CFE-B0895F08B8B6.png)
+**Before You Interact**<-
+**1)** Please don't make sex jokes around me if we just met or I don't know you that well
+**2)** I go AFK or semi-AFK randomly and without warning. I'm almost always doing something, so whisper me if you want to talk
+**3)** I don't check local chat, I'm always on Personal. That means that if you're offline or if I don't have you friended I most likely won't see your messages
+**4)** I struggle communicating. Tone tags appreciated but not needed, unless I ask for them
+**5)** I'd appreciate it if you DIRECTLY told me something I'm doing/saying is making you uncomfortable. I don't get social cues very often
+**6)** I don't care about slur discourse, but I find the R slur uncomfortable

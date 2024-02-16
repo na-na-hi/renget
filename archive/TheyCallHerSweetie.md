@@ -1,0 +1,20 @@
+-> ![](https://64.media.tumblr.com/e23dae77d7dc49b0165667817732e922/d0114d9740c13ab0-82/s540x810/0b233da7b83bf08e02cb4651102d6a385677cc88.gif) <-
+-> ![](https://i.ibb.co/xFDSxch/E4046035-F11-C-4430-9-C27-6-AC6916487-BB.png) <-
+-> ![](https://i.ibb.co/rtycmvH/0768-E52-B-8-F3-D-4646-A159-C3-D0-CD8-D67-BC.png) <-
+-> ![](https://64.media.tumblr.com/8ce9ee02e4b538b0a98efe262e82d6f7/9daddf923761f6ec-52/s400x600/0898cfecbec1ce1abf04145eda7502446594e4bf.gif) <-
+-> **![](https://64.media.tumblr.com/4ff7632fa5384ada6fa09b842233a2ec/0dd5d8298261d9d8-5d/s75x75_c1/0f787f22e4edc6e67308c860b5b1e0bad9ebfd58.gif) [%#E171A4%Royal Pup Of BarkingBurg%%](https://open.spotify.com/track/245q31NvaFNkMw8QRVy23b?si=3tmyhX4XQoKvIxKUpCemAw) ![](https://64.media.tumblr.com/7919a9e8e4351a00f3c2240bcb9dbf42/0dd5d8298261d9d8-7f/s75x75_c1/780e576601c0e46e3265082fea7cdc6f9f4e1ab4.gif) ** <-
+-> **![lightning](https://64.media.tumblr.com/d00af4f7e91045a5a83de68cfc7a7a14/afca0d50e2ccb2c8-5c/s75x75_c1/668fd9885344a2bcdca53dd709c6198c3be6456a.gif) %#E171A4%My name is Sweetie%% ![phone](https://64.media.tumblr.com/b8f6358155ef602c6e8aee328c634e8a/71aec164eff35337-c5/s75x75_c1/ad3c04d708f8e05304c56a6e2e4c943f4b90f902.gif)** <-
+-> **%#E171A4%she / it / the dog / the princess%% ![meat](https://64.media.tumblr.com/c4aea5a7fd105f8dbd6c0289f3826837/17c49b17edecc9ef-a0/s75x75_c1/47f81c5b6788e8b83ff72057834798fd0638fb8e.gif)** <-
+-> **![spaceship](https://64.media.tumblr.com/f095170052e35bd820c1e8aed1b54c16/1a96a4a8b5b8d3d6-72/s75x75_c1/f35fa8f316f1e2e2bdb7adb08ab2a81542aec55e.gif) [%#E171A4%My Roleplay Blog%%](https://www.tumblr.com/they-call-her-sweetie)** <-
+-> **%#E171A4%SFW Interactions ONLY%%** <-
+-> **%#E171A4%Lesbian%% ![ball](https://64.media.tumblr.com/99e93d981fa0257560372b53e3529902/c8554aabcd33e074-27/s75x75_c1/a7bb5710b3d71791e6538da50589a7ab258c7da1.gif) %#E171A4%West Highland White Terrier%%** <-
+-> **%#E171A4%I stick pretty close with the canon%% ![clock](https://64.media.tumblr.com/75b09ab3ea6f3f72314f560b7faa54a5/11c1cab94788007d-b2/s75x75_c1/db9d9ef79e99c14ae573950c3824125949247f64.gif) %#E171A4%Still trying to get that crown from the princess!%%** <-
+-> **![](https://64.media.tumblr.com/ecf91723498ef9e7af6cc1874fd4a498/606aa5bd307b3c49-ab/s75x75_c1/e38e7631543f852b800db40df6e607dd7c65e25a.gif) %#E171A4%Icon by%% [%#E171A4%raccoonteef%%](https://youtube.com/@raccoonteef6243)** <-
+-> **%#E171A4%more to be possibly added as I roleplay!%%** <-
+-> ![](https://64.media.tumblr.com/55f300431dca95ea9b718b41173c90df/9daddf923761f6ec-98/s250x400/926aec431607bb76734ba5b9ade5702c87e995c3.gif) <-
+-> ![crown](https://i.ibb.co/d5YQn6W/282-C2672-124-E-42-BB-A869-6379873-B8-BF6.gif) <-
+-> ![crown](https://i.ibb.co/d5YQn6W/282-C2672-124-E-42-BB-A869-6379873-B8-BF6.gif) <-
+-> ![crown](https://i.ibb.co/d5YQn6W/282-C2672-124-E-42-BB-A869-6379873-B8-BF6.gif) <-
+-> **%#E171A4%MUN INFO%%** <-
+-> **[%#E171A4%My Socials%%](https://linktr.ee/Cyadical) ![%#E171A4%sunshine%%](https://64.media.tumblr.com/aa00bb035bcd03c3297b60f7ce497d31/71aec164eff35337-4c/s75x75_c1/58cdfdb2928f112a95a90e361a5596f6d9833fb5.gif) [%#E171A4%My Collection%%](https://rentry.co/ToyCollection)** <-
+-> ![](https://64.media.tumblr.com/55d21ed9beedfa6bcdf2bee94e37a40e/d0114d9740c13ab0-b0/s640x960/dd19b61b29aef46bcb67d784cda5df83ce44a3c6.gif) <-

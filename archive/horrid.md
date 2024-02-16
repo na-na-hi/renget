@@ -1,0 +1,12 @@
+# ![](https://media.discordapp.net/attachments/967202217453035550/1161352905639596153/f22a01c5.png?ex=6537fd2d&is=6525882d&hm=cfc52c92e300748eaa0cd11a2c2070ab06274b7f391a54529df5fe4d573f46fe&=) !~white; %black% LEASH LAWS BITCH, I'LL FUCKIN' MAUL YA  %% ~! ![](https://media.discordapp.net/attachments/967202217453035550/1161352905945784410/895e29ec.png?ex=6537fd2d&is=6525882d&hm=de2ec67b078f453324c4ccfc6855db67122edacb2b222646eafab70473db6178&=)
+
+
+-> ![](https://media.discordapp.net/attachments/1136041414296346724/1188509119779459172/rentrybannerremnew.png?ex=659ac85f&is=6588535f&hm=e3bf6b59a86ade1353020dd94b616fdf140d2307d2191f3cc612b795747beec1&=&format=webp&quality=lossless&width=1175&height=519) <-
+
+-> **KOLTYN** + *[%black%REMNANT%%]()* + [%white%MORE%%](https://pronouns.cc/@mongrel) ![](https://media.discordapp.net/attachments/860333357169508355/1055333640705421373/nv8mtvs.gif) PRONOUNS [%black%HERE%%](https://pronouns.cc/@mongrel) ![](https://media.discordapp.net/attachments/860333357169508355/1055333640705421373/nv8mtvs.gif) %white%EIGHTEEN%%
+![](https://media.discordapp.net/attachments/860333357169508355/1055308413166428160/WCan8Am.png) *AUTISTIC* + [%black%**BORDERLINE PERSONALITY DISORDER**%%]() ![](https://media.discordapp.net/attachments/860333357169508355/1055308413166428160/WCan8Am.png) 
+%white%NONHUMAN%% ![](https://media.discordapp.net/attachments/860333357169508355/1055308273550639154/7TQT4bT.gif) %black%*ALTERHUMAN*%% ![](https://media.discordapp.net/attachments/860333357169508355/1055308273550639154/7TQT4bT.gif) OTHERKIN ![](https://media.discordapp.net/attachments/860333357169508355/1055308273550639154/7TQT4bT.gif) %black%*IRL DOG*%% <-
+
+-> !~white;default;default;4; %black% CLICK ON THE IMAGES BELOW TO FIND MY ALTERHUMANITY, INTERESTS AND DNI/BYI!  %% ~! <-
+
+-> [![](https://media.discordapp.net/attachments/1136041414296346724/1192406732102713375/rentry.png?ex=65a8f64e&is=6596814e&hm=f1853ca2178f45cb1bc4c237e38ff0bf67343b7c489d3c04af124367b24dfd0f&=&format=webp&quality=lossless)](https://rentry.co/horridlist) [![](https://media.discordapp.net/attachments/1136041414296346724/1192408410008854578/rentry2.png?ex=65a8f7de&is=659682de&hm=c05963aa8bc0d2ed3a07cda5ebee2135b6aa04e10f1e5059a3a93f75f639f02d&=&format=webp&quality=lossless)](horridinterests) [![](https://media.discordapp.net/attachments/1136041414296346724/1192409267219746907/rentry3.png?ex=65a8f8ab&is=659683ab&hm=ac777aa47d1419045988413ef89aa8b0d2e429343771b5c7cf4b2074f43d58cc&=&format=webp&quality=lossless)](https://rentry.co/horriddnibyi) <-

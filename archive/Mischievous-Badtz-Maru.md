@@ -1,0 +1,11 @@
+-> ![](https://i.pinimg.com/originals/5f/2b/34/5f2b34e3be21d663e5912080436095b1.gif) <-
+-> **The one and only Badtz Maru** <-
+-> **he / it / the penguin** <-
+-> **[My Roleplay Blog](https://www.tumblr.com/mischievous-badtz-maru)** <-
+-> **SFW interactions ONLY** <-
+-> **Gay Penguin** <-
+-> **Sticks close with canon, some headcanons primarily focuses on how he is in [Hello Kitty & Friends Supercute Adventures](https://www.imdb.com/title/tt13352178/)** <-
+-> **more to be possibly added as I roleplay** <-
+!!! warning
+     -> **MUN INFO** <-
+     -> **[My Socials *!*](https://linktr.ee/Cyadical) + [My Collection *!*](https://rentry.co/ToyCollection)** <-

@@ -1,0 +1,16 @@
+-> ![](https://i.ibb.co/jTKBHBw/9-A1-A982-C-0555-4-C1-C-B9-EF-E16-DE5-EC9-ED5.png) <-
+-> ![](https://64.media.tumblr.com/c252fd1381dce117f735e1b1cf595827/68e63646d70e6018-89/s75x75_c1/fcbd370460b7be6bd811f6429a41c5728585886b.gif) *[%#AB3E2D%" King And LionHeart "%%](https://open.spotify.com/track/310d8Vawp5kYDYrGrrTAzl?si=pn-G5BiBTCmB1Asq3zrFbA&context=spotify%3Aplaylist%3A37i9dQZF1EQqkOPvHGajmW)* <-
+-> ![](https://64.media.tumblr.com/a9b7f1417fef1c37b740afd675b5ef6f/4e614b431ec1458d-cf/s640x960/b2ebaf8179c8f7fa03c577b5a4d6e69aec9c46e1.pnj) <- 
+-> ![](https://64.media.tumblr.com/64667cb2cb2e58cdc102503e84d0f1d3/bef2dad8740adead-2b/s640x960/17ef5ae038dd7d620e5b9da94a88f861e8cca79f.pnj) <-
+-> ![](https://cdn.discordapp.com/attachments/849738241833828352/1095104303779282974/Untitled365_20230410175323.png) <-
+-> *%#AB3E2D%" Tidings welcome to Solitude "%%* <-
+-> *![lightning](https://64.media.tumblr.com/419648e0d9bc3624e17f59cf1c34e467/b8c2584f16662b95-1e/s75x75_c1/91b0029f2fe430dd260be44bbadfc93fcf096bab.gif) %#AB3E2D%Chath-Ta%% ![phone](https://64.media.tumblr.com/c6e66b0ed1426714d024da0ea28080d4/cd30ff3c9008ddf5-5c/s75x75_c1/899ee1f4e89c89c5216e4d1e84672b9a86d8ca06.gif)* <-
+-> *[%#AB3E2D%he / it / the argonian%%](https://pronouns.cc/@Cyadical) ![meat](https://64.media.tumblr.com/bca2fe30959e88aaf87390516d75b8cb/2b4eeb5b4785339f-dd/s75x75_c1/fbc129a97af3fca56761c8cc88cd6e307eaa8b29.gif)* <-
+-> *%#AB3E2D%Autistic ![spaceship](https://64.media.tumblr.com/97a223df0b9f0643d396531c6a173216/df4e0e3d68fca66a-0a/s75x75_c1/1367bced80ff995638dbc18bde20b34ea6a9af94.gif) Vegetarian Gay Argonian%%* <-
+-> *%#AB3E2D%Nonhuman ![clock](https://64.media.tumblr.com/98ead3da921e0a4dce88c9489e995da8/2be26832cfd513d4-c3/s75x75_c1/cfb2cb51e8e076175c55b1e47965d3734ea602f9.gif) Age Regressor%%* <-
+-> *%#AB3E2D%" I'm a self taught mage from Solitude ![](https://xyz.crd.co/assets/images/gallery13/93e8968e.gif?v=364e4a1e) I tend to stay out of fights ![](https://64.media.tumblr.com/920ce2ebd435504a36542d65e615e114/172f0f97ca817af3-58/s75x75_c1/70065753b37916150172abae8cfad3a755907527.gif) my scales are white "%%* <-
+-> ![](https://64.media.tumblr.com/eea2a958f5a09c0b61633ec1e3751110/bef2dad8740adead-6e/s640x960/d878abcb5dc246a54a1ffb03ecf48878d7002fa9.pnj) <-
+-> ![redpaw](https://64.media.tumblr.com/ea6973728121688cc03d3e2b16936184/68e63646d70e6018-c7/s75x75_c1/25f938863336a5cf6df95ad983abb61ba0dc6c46.pnj) <-
+-> ![yellowpaw](https://64.media.tumblr.com/ea6973728121688cc03d3e2b16936184/68e63646d70e6018-c7/s75x75_c1/25f938863336a5cf6df95ad983abb61ba0dc6c46.pnj) <-
+-> ![bluepaw](https://64.media.tumblr.com/ea6973728121688cc03d3e2b16936184/68e63646d70e6018-c7/s75x75_c1/25f938863336a5cf6df95ad983abb61ba0dc6c46.pnj) <-
+-> *[%#AB3E2D%My Socials%%](https://linktr.ee/Cyadical) ![sunshine](https://64.media.tumblr.com/ab17963511d4e425352ecc969c8fcc85/cd30ff3c9008ddf5-ac/s75x75_c1/025315fc396f186c915ba79e04048c1ceee5874a.gif) [%#AB3E2D%My Collection%%](https://rentry.co/ToyCollection)* <-

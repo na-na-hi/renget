@@ -295,12 +295,14 @@ Making Friends (Akari Ichioka, Hinako Shimeki)
 https://rentry.org/e9uk4mnu
 ENTER (Lucifer, Haruhi, Aki, briefly Makoto)
 https://rentry.org/LucyHasANormalOne
->A Makeover and a Mixer(Yoru Heinard, Makoto Nagai, Akari Ichioka)
+A Makeover and a Mixer(Yoru Heinard, Makoto Nagai, Akari Ichioka)
 https://rentry.org/eozqs2y3
->Tsun-Tsun, Dere-Dere (Ikari Michita, Mithran Kuro)
+Tsun-Tsun, Dere-Dere (Ikari Michita, Mithran Kuro)
 https://rentry.org/xkaz4z2a
->A Cursed Valentines Day(Yoru, Mari, Hinako, Yoji, Mention of Amaryllis)
+A Cursed Valentines Day(Yoru, Mari, Hinako, Yoji, Mention of Amaryllis)
 https://rentry.org/kswi9a4i
+Sezāru's Date (Sezāru, Akari, Makoto, Amane, Haruhi, Aki, Yoji, Hifumi, Lucifer; Mentioned Yoru, Maki)
+https://rentry.org/ndman3rs
 
 >Relationship Charts
 Emilia Shadowsong

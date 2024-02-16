@@ -1,0 +1,10 @@
+->  [%#5EAB55%HAIL TO THE KING%%](https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo?si=b_m24eeXTFClHiZ3iT5Bfw) <-
+-> ![GarlicGoattitlecard](https://i.ibb.co/6FWVjPZ/Untitled53-20231230202610.png) <-
+->![sona](https://i.ibb.co/pLFJP6n/IMG-0254.gif)<-
+-> ![Hail](https://i.ibb.co/tH2WRD2/Untitled57-20231230202906.png) <-
+-> [%#5EAB55%He / They / She%%](https://pronouns.cc/@GarlicGoat) <-
+->%#5EAB55%Aspiring Computer Engineer%%<-
+-> ![USA](https://i.ibb.co/VQxLmtc/Untitled56-20231229212325.png) ![Gay](https://i.ibb.co/yVPHS0L/Untitled56-20231229211756.png) ![nonbinary male lean](https://i.ibb.co/LCxPDwV/Untitled56-20231229211658.png) ![alterhuman](https://i.ibb.co/grF3LYb/Untitled56-20231229211943.png) ![Asperger](https://i.ibb.co/HBBGdxL/Untitled56-20240101203958.png) <-
+->![leafs](https://i.ibb.co/5M7KMbf/IMG-0269.gif) <-
+-> %#5EAB55%[%#96C78F%Interest%%](https://rentry.co/Goatrest) ✿ [%#96C78F%Alterhumanity%%](https://rentry.org/Ungulate) ✿ [%#96C78F%Collection%%](https://rentry.org/RobotParts) ✿ [%#96C78F%Socials%%](https://linktr.ee/garlicgoat)%%<-
+->![houses](https://i.ibb.co/Sn4vVhp/Untitled55-20231229210325.png)<-

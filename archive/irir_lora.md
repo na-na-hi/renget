@@ -487,12 +487,28 @@ Unet onlyはプロンプトの応答性と品質がやや低下するように�
 ![Image](https://files.catbox.moe/tyq8pf.jpg) | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
 ### SDXLのDim(rank)
+本スレでdim1でいいという人もいれば16じゃないと微妙っていう人もいる。
+気になったのでdim1～16で比較してみる。
+
 zundamonがdim4でd2が2でd1が1。
  Image  | Dummy
  ------ | ------
 ![Image](https://files.catbox.moe/tg2tcg.webp) | 　　　　　　　　　　　　　　　　　　　　　　　　　
 
-d1でも思ったほどの劣化はないようだ。
+ずんだもんはd1でも思ったほどの劣化はないようだ。d1は画風の影響が減少？
+
+![Image](https://files.catbox.moe/biwm0b.webp)
+Seed:22222の8以下はキャラが混ざってる。
+![Image](https://files.catbox.moe/avomyb.webp)
+2以下で劣化が目立つように見える。
+![Image](https://files.catbox.moe/invb8a.webp)
+Animagineの既知のキャラでやってみた。d2以下で画風の影響が減るがヘイローの精度も低下？
+![Image](https://files.catbox.moe/8whptm.webp)
+dimが高いほど衣装が吸われやすいように見える。
+
+Dim(rank)が低いと若干再現度が低下する。どの程度許容するかは個人の好みで絶対にこれといった値はない。
+32以下であればなんでもいい。それ以上はファイルサイズ的におすすめしない(16で111MiB)。
+Dim上げて容量を圧迫してしまっては、LoRAの省メモリなメリットが台無しな気がする。
 
 ### SDXLのPCスペック
 余裕はないが推論・学習(fp8_base有効)ともにVRAM8GBでできるが、CUDAコアのパワーが欲しくなるので4070以上がいい。
@@ -601,7 +617,7 @@ SDXLは高性能かつファイルサイズが大きいため16以下で良い�
 - 学習に使うウェイトはanimagine-xl-3.0
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
-- 4000-6000steps,Dim2-8/Alphaはdimの4分の1
+- 4000-6000steps,Dim2-16/Alphaはdimの4分の1
 - OptimizerはDAdaptation系(LR=1)
 - キャプションはそのままでもいいし、身体的特徴を消して1タグにまとめてもいい。Animagine推奨の並びにしなくてもいい
 - full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!(--mixed_precisionではない)

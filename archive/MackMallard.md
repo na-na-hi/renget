@@ -1,0 +1,10 @@
+-> ![](https://i.ibb.co/brLDmvF/6-BD2-BF0-D-C9-E5-4-C6-D-B419-975-C0211207-E.png) <-
+-> *%#E3B155%"I'll taste the sky and feel alive again"%%* <-
+-> ![](https://i.ibb.co/f93F8KD/42-EBAD7-F-C595-4-AC9-B10-D-17-F6-FABEEDA1.png) <-
+-> %#3D883B%Xavier / Mack%% <-
+-> [%#225424%he / it / the duck%%](https://pronouns.cc/@Cyadical) <-
+-> %#A69E9C%Autistic Vegetarian  Gay Duck%% <-
+-> %#9A5C3F%Nonhuman Age Regressor%% <-
+-> ![](https://i.ibb.co/kBD0Rq2/5574-ECE4-845-B-469-B-81-DB-923-E70-B59470.png) <-
+-> %#EEA65E%[%#EEA65E%My Socials%%](https://linktr.ee/Cyadical) +  [%#EEA65E%My Collection%%](https://rentry.co/ToyCollection)%% <-
+-> *%#3C4A63%"And I'll forget the world that I knew"%%* <-

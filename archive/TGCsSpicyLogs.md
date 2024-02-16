@@ -33,8 +33,8 @@ Links   | Catbox: https://files.catbox.moe/l5pbai.png Chub: https://www.chub.ai/
 
 Ellenox | Info
 ------ | ------
-![Ellenox](https://files.catbox.moe/v76mp3.png) | The bullied goblin-girl who only wants to be a real princess and experience the life she read about in her fairy-tales finally gets her prince charming. (Incomplete)
-Links   | Catbox: https://files.catbox.moe/q5y0i7.png
+![Ellenox](https://files.catbox.moe/v76mp3.png) | The bullied goblin-girl who only wants to be a real princess and experience the life she read about in her fairy-tales finally gets her prince charming.
+Links   | Catbox: https://files.catbox.moe/j5at40.png
 
 Eris | Info
 ------ | ------

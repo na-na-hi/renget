@@ -1,0 +1,7 @@
+-> *who's that kid that can travel through time?* <-
+-> ![](https://i.ibb.co/4Ms4fBj/1-DDBB000-1497-403-C-8779-97-D9-EEAD6618.gif) <-
+-> Xavier <-
+-> he / him <-
+-> autistic <-
+-> cartoon fan <-
+-> [The Collection](https://rentry.co/ToyCollection) <-
