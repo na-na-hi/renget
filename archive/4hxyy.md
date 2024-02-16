@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 344 - Bunny's Mating Moment Edition: https://desuarchive.org/trash/thread/63345907/
 Thread 343 - Fake Star Edition: https://desuarchive.org/trash/thread/63095922/
 Thread 342 - Proudwhore Edition:  https://desuarchive.org/trash/thread/63020550/
 Thread 341 - Straw Hat Edition: https://desuarchive.org/trash/thread/62860173/

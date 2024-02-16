@@ -1,4 +1,4 @@
-[Hi](mumeisext)
-
-mostly go by MUMEI or MILLIE But u can call me Gura Illya orrr Idk me thinks. Idk
-If you know me as Meera u cn call me that too😳
+->Mumei、⠀ ꦼ⠀ᵒᵘ ꫂ⠀⠀[These](https://text.is/ao) ⠀ P
+P⠀⠀⠀She⠀ꩰ ⠀Her𓈒 ⠀ ⚢ ⠀ Unlbld
+Loser — God⠀⠀꜆ ⠀⠀Audhd。BPD
+[0𝟏](ourokronii) ・ [0𝟐](mumeisext)⠀（⠀P⠀）⠀[0𝟑]() ・ [0𝟒](https://retrospring.net/@hololive)<-

@@ -51,5 +51,12 @@
 [Gravyseal](https://chub.ai/users/Gravyseal)  - [Proof](https://desuarchive.org/g/thread/99015285/#q99016598)
 [Norq/norquinal](https://chub.ai/users/norquinal) - [Proof](https://desuarchive.org/g/thread/99015285/#q99016700)
 [Khanon](https://chub.ai/users/khanon) - [Proof](https://desuarchive.org/g/thread/99015285/#q99016598)
-Send names and proof here, preferably with links to their chub or rentry. listnigger@proton.me
-To get off this list, just delete your discord account.
+[gigasad](https://chub.ai/users/gigasad) - [Proof](https://desuarchive.org/g/thread/99017833/#q99017938)
+[MooseAnon](https://www.chub.ai/users/MooseAnon) - [Proof](https://desuarchive.org/g/thread/99017833/#q99017938)
+[oracleanon](https://chub.ai/users/oracleanon) - [Proof](https://desuarchive.org/g/thread/99017833/#q99017953)
+
+!!! Scrub your own name before you send me shit or reveal yourself accidentally.
+Send names and proof to burner below, optionally with links to their chub or rentry. 
+listnigger@proton.me
+
+To get off this list, just delete your discord account and send me conformation.

@@ -36,11 +36,6 @@ Consider adding someone else who will be doing something that your protagonist d
 
 > Summary: In a circle of awful **men**, there is an app called "Date Service" that is being passed around. The app lets users select anyone in the area and the app will take care of the rest—apparently, his family members are being selected left and right... Can Ken break the hypnosis and bring them back before their personalities are completely erased?
 
-You can also exclusively use Story Question without Summary:
-
-> Failure State: unable to survive in the city
-> Story Question: can varjak find a way to save and rescue his family?
-
 ***
 
 ##ATTG
@@ -66,9 +61,8 @@ Be concrete and try not to be too narrow.  Remember, the ATTG represent your sto
 > [ Author: Andy Weir; Title: Randomize; Tags: Las Vegas casino, disruptive technology, pragmatic boss, gambling industry, quantum computer, cheaters, face-to-face encounter, mind game; Genre: contemporary, speculative fiction, science fiction ]
 > Summary: The first commercially available quantum computer is out on the market, and it's about to change the way casinos do their business. Can Edwin Rutledge, a casino owner of Babylon, protect his business from an impending threat?
 
-> [ Title: Cthulhu Cardfight!!; Tags: magical artifacts that come with risk, card games, accidentally turn your family into servants, common sense swap, sword and cards in normal house, aphrodisiac effects, otherwordly presence; Genre: supernatural, action, erotica ]
-> Failure State: unable to fight off the monsters that came from the cards
-> Story Question: can danny survive the night?
+> [ Title: Sixth of the Dusk; Tags: jungle archipelago, rare birds grant people powers, death at any moment, exotic story-specific species, corpse premonition, survivalist loner protagonist, birds catcher and specialist, change vs tradition; Genre: high fantasy, science fiction, suspense ]
+> Summary: On Patji, the father, largest island of Pantheon archipelago—a home to deadliest plants and animals—Sixth of the Dusk lives a solitary life as a trapper, capturing Aviars, extremely desirable birds capable of sharing their talents with humans, to be brought back to his homeland, Eelakin Islands. Dusk has two companions: Kokerlii, a carefree Aviar who can hide his mind from predators, and a timid Sak, a non-native Aviar that shows his corpse in places where he could die. Ever since the arrival of the Ones Above who came from beyond the sky ten years ago, Eelakin Islands is progressing in technology and knowledge—fading away the old traditions of homeislers while Trappers' duty remains unchanged, though admittedly Dusk himself has purchased many modern inventions. Mercantile groups such as the Company seek to establish an outpost on Patji, ignoring the warnings of Trappers about how foolish the idea is. Yet, when nothing is left of them except footprints leading to Dusk's safecamp, he finds out that in Company's main base, lies a machine gifted by the Ones Above which claims to be able to locate every Aviar on Patji... That's when he begins to see his own corpse at every turn. Can Dusk and Vathi stop the machine before it's too late? Or will he die trying?
 
 !!! warning AI keep generating non-fiction in story?
     You will need some prose first, try typing some beginning words, or only use ATTG for a few generations.

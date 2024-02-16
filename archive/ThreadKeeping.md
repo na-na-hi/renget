@@ -442,15 +442,16 @@ https://rentry.org/MHACards
 
 >New Stuff:
 >New Writefags:
->Contains Periods (Slip-N'-Slideasaurus, 1-F)
-https://rentry.org/6xph3gq4
->The Sweet Mess (Challenger, Recoil)
-https://rentry.org/MHAthesweetmess
+>The 19th Ninja Art: Confections (Maru, Class 1-D)
+https://rentry.org/42qavbt4
+>A Sweet Chocolate February (Ryu-kishi, The Boys, Cool Boost, Maru(maru), Rosethorn, Officer Okari)
+https://rentry.org/xwdzd7rb
+>A Valentine's Carol (Satoru Tani)
+https://rentry.org/yb9ni7xa
 
 >New Artfags:
->Impakt Valentines:
->>91906255
->>91906547
+Funni Siblings (Satoru Tani)
+>>91918576
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1029,6 +1030,12 @@ https://rentry.org/BiteyBastards
 https://rentry.org/6xph3gq4
 >The Sweet Mess (Challenger, Recoil)
 https://rentry.org/MHAthesweetmess
+>The 19th Ninja Art: Confections (Maru, Class 1-D)
+https://rentry.org/42qavbt4
+>A Sweet Chocolate February (Ryu-kishi, The Boys, Cool Boost, Maru(maru), Rosethorn, Officer Okari)
+https://rentry.org/xwdzd7rb
+>A Valentine's Carol (Satoru Tani)
+https://rentry.org/yb9ni7xa
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

@@ -1,3 +1,17 @@
+>Hoholina panic as reality sets in
+https://files.catbox.moe/ctceoj.mp4
+>Russian psyops calling hohols to surrender
+https://files.catbox.moe/5bnqk3.mp4
+>Pigs stumble around in NATO training
+https://files.catbox.moe/o9xwao.mp4
+>Cheburashka strongpoint in Avdeevka captured
+https://files.catbox.moe/spoq7c.mp4
+>Tiny drones big boom
+https://files.catbox.moe/90uybw.mp4
+>The latest cringe from the xoxols
+https://files.catbox.moe/c6p6w7.mp4
+>Another Zased propaganda video
+https://files.catbox.moe/ci8pey.mp4
 >Tucker interview with Putin
 https://files.catbox.moe/il9qbm.mp4 (part 1)
 https://files.catbox.moe/z13j9y.mp4 (part 2)

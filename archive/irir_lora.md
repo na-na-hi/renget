@@ -498,7 +498,7 @@ zundamonがdim4でd2が2でd1が1。
 ずんだもんはd1でも思ったほどの劣化はないようだ。d1は画風の影響が減少？
 
 ![Image](https://files.catbox.moe/biwm0b.webp)
-Seed:22222の8以下はキャラが混ざってる。
+Seed:22222の8以下はキャラが混ざってる。dimが低いほど衣装を間違えやすい？？
 ![Image](https://files.catbox.moe/avomyb.webp)
 2以下で劣化が目立つように見える。
 ![Image](https://files.catbox.moe/invb8a.webp)

@@ -40,5 +40,6 @@ _(Updated 15-Feb-2024)_
 | DivineSight | https://chaster.app/sessions/XAVkNKgrK0j8meZx | === |
 | yogonplesteodon | https://chaster.app/sessions/tEVV78vJnyVQMwFJ | === |
 | Bambi_snowshed917 | https://chaster.app/sessions/eBUJtSbdziM9TqbX | === |
+| KennedyShotFirst | https://chaster.app/sessions/TmCIBhmUKA5NXyfG | === |
 |  |  |  |
 |  |  |  |

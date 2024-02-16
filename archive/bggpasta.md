@@ -5,6 +5,7 @@ PC trailer: https://www.youtube.com/watch?v=XuCfkgaaa08
 PS5 trailer: https://www.youtube.com/watch?v=_wW4Fdh6zFM
 
 \>News:
+Patch 6: https://baldursgate3.game/news/patch-6-now-live_108
 Patch 5: https://baldursgate3.game/news/patch-5-now-live_99
 
 \>Wiki:
@@ -23,7 +24,7 @@ https://www.nexusmods.com/baldursgate3/
 \>Q: Is The Dark Urge essentially "Tav+"?
 \>A: Yes. You get additional content, BUT there are points where if you've chosen to resist the Urge and/or don't complete quests the "right" way, you'll have to pass additional checks to avoid losing companions.
 \>Q: Are there any consequences to consuming tadpoles?
-\>A: [spoiler]No, for the most part. However if you've consumed any tadpoles, there will later be a DC21 Wisdom check to reject the Astral-Touched Tadpole, which impacts your appearance if consumed.[/spoiler]
+\>A: [spoiler]No, for the most part. However if you've consumed any tadpoles, there will later be a DC21 Wisdom check to reject the Astral-Touched Tadpole, which affects your appearance if consumed.[/spoiler]
 \>Q: Should I enable Karmic Dice?
 \>A: Karmic Dice will avoid streaks of very low or very high rolls, both for you and the enemy. It is recommended to disable it if you're specializing. 
 
