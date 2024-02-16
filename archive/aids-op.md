@@ -1,12 +1,9 @@
-####Guess who's back after ~~3 ~~4 months?
-
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://files.catbox.moe/90g990.webm)
-https://files.catbox.moe/90g990.webm
-Dearest Circumference Edition
+![suggested OP image](https://i.4cdn.org/vg/1708010030240531.jpg)
+Butlerian Jihad Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>465497821
+Last thread: >>465742205
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -39,11 +36,11 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 Dragon Friday is over. Write far-out prompts about next week's theme: Alien Friday! >>464999195
  
 ▶News
+\>(02/15) This guy appears >>465836709
 (02/07) Euroids pass AI act: https://en.wikipedia.org/wiki/Artificial_Intelligence_Act
 (01/30) NAI pushes CFG sampling update: https://i.imgur.com/JJ6eBk2.png
 (01/20) Aetherroom's second devlog: https://blog.novelai.net/aetherroom-devlog-2-makings-of-a-contact-e4f20d28f4a0
 (01/01) New Year! NAI tosses apoloanals: https://i.imgur.com/CxmoFHD.png (embed) ; ledditors pull a Holo: https://write34.com
-(12/28) Saga ends free daily credits: https://i.imgur.com/zIgcUp1.png
 
 
 #Perma-Template

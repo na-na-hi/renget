@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-02-10==
+# /aicg/ chronicles, up to ==2024-02-16==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1075,7 +1075,7 @@ When | Where | What
 2024-01-28|[98704406](https://desuarchive.org/g/thread/98702599#98704406)| c\.ai is soon getting a new website, next\.character\.ai
 2024-01-28|[98706271](https://desuarchive.org/g/thread/98705497#98706271)| old AI-Waifu-Vtuber project is brought to attention
 2024-01-29|[98708130](https://desuarchive.org/g/thread/98707058#98708130)| anons look for ways to support miqu leek baiting other than comparing it to the API outputs...
-2024-01-29|[98708651](https://desuarchive.org/g/thread/98707058#98708651)| ... at the same time speculating it might be an experimental StabilityAI base model leak
+2024-01-29|[98708651](https://desuarchive.org/g/thread/98707058#98708651)| ... at the same time speculating it might be an experimental Stability AI base model leak
 2024-01-29|[98711628](https://desuarchive.org/g/thread/98710866#98711628)| anon writes another frontend with his own tavernai card decoder
 2024-01-29|[98712707](https://desuarchive.org/g/thread/98711703#98712707)| anon shares his proxy switcher script for Silly
 2024-01-29|[98717285](https://desuarchive.org/g/thread/98715036#98717285)| supposed 5 min cooldown between every review on CharacterHub introduced
@@ -1084,7 +1084,7 @@ When | Where | What
 2024-01-29|[5:00 PM](https://twitter.com/AIatMeta/status/1752013879532782075)| Code Llama 70B released
 2024-01-29|[12:16 PM](https://twitter.com/Yampeleg/status/1751942400287666536)| unlimited context length promised, 400k ctx_len of a llama 2 finetune achieved, code provided, reproducibility unclear
 2024-01-30|[98726408](https://desuarchive.org/g/thread/98724440#98726408)| anon teases a private 70k tokens dark fantasy lorebook/characters/world project
-2024-01-30|[98728482](https://desuarchive.org/g/thread/98727876#98728482)| c\.ai continues rolling out the new login form with email verification instead of the password, locking out tempmail users
+2024-01-30|[98728482](https://desuarchive.org/g/thread/98727876#98728482)| c\.ai continues rolling out the new login form with email verification instead of the password, locks out tempmail users
 2024-01-30|[98734688](https://desuarchive.org/g/thread/98734012#98734688)| one more logprobs viewer demo
 2024-01-30|[98736206](https://desuarchive.org/g/thread/98734012#98736206)| Bard changelog leak (?) with imagegen and global Gemini rollout
 2024-01-30|[98737561](https://desuarchive.org/g/thread/98736925#98737561)| NAI textgen CFG sampling update
@@ -1136,6 +1136,33 @@ When | Where | What
 2024-02-09|[98899636](https://desuarchive.org/g/thread/98898389#98899636)| due to new OAI API permissions management some keys have limited permissions
 2024-02-09|[98908693](https://desuarchive.org/g/thread/98907079#98908693)| goody2\.ai is brought to attention
 2024-02-10|[98919589](https://desuarchive.org/g/thread/98917886#98919589)| anon works on a STscript alternative
+2024-02-11|[98929091](https://desuarchive.org/g/thread/98927538#98929091)| Silly gets regex import/export support
+2024-02-11|[98936155](https://desuarchive.org/g/thread/98935873#98936155)| Gemini Advanced to Tavern adapter made possible
+2024-02-11|[98938931](https://desuarchive.org/g/thread/98938488/#98938931)| Gemini Advanced to Tavern adapter released
+2024-02-12|[98943944](https://desuarchive.org/g/thread/98941617#98943944)| Gemini imagegen via Bard affected by refusals
+2024-02-12|[98953649](https://desuarchive.org/g/thread/98952612#98953649)| anon shares a compiled collection of common Japanese onomatopoeia
+2024-02-12|[#5453](https://github.com/ggerganov/llama.cpp/pull/5453#issuecomment-1939184023)| 1.5 bit quantization; Mixtral8x7B fits into 8.9 GB VRAM
+2024-02-12|[Cascade](https://stability.ai/news/introducing-stable-cascade)| Stable Cascade, new text to image model by Stability AI, released
+2024-02-13|[98963771](https://desuarchive.org/g/thread/98963355#98963771)| filter dialed down for Gemini, suggesting it's prompt-based
+2024-02-13|[98969197](https://desuarchive.org/g/thread/98968255#98969197)| OAI seeks $7 trillion to manufacture its own AI chips
+2024-02-13|[98969278](https://desuarchive.org/g/thread/98968255#98969278)| Anthropic data leak remembered
+2024-02-13|[98969922](https://desuarchive.org/g/thread/98968255#98969922)| NVIDIA Chat with RTX
+2024-02-14|[98975040](https://desuarchive.org/g/thread/98974956#98975040)| anon wants to make a CYOA-style sci-fi thingy using STscript, fails
+2024-02-14|[98978596](https://desuarchive.org/g/thread/98977890#98978596)| NVIDIA Chat with RTX is lame
+2024-02-14|[98989824](https://desuarchive.org/g/thread/98989745#98989824)| another character card backed by a custom website shilled
+2024-02-15|[98993147](https://desuarchive.org/g/thread/98992786#98993147)| OAI is hiring company detectives
+2024-02-15|[98994030](https://desuarchive.org/g/thread/98992786#98994030)| OAI busts accounts associated with state-affiliated threat actors
+2024-02-15|[99000225](https://desuarchive.org/g/thread/98998185#99000225)| Secret Valentines event ends
+2024-02-15|[99001403](https://desuarchive.org/g/thread/99000395#99001403)| CharacterHub faces fork spam issue
+2024-02-15|[99001443](https://desuarchive.org/g/thread/99000395#99001443)| Gemini 1.5 Pro announced, up to 1 million tokens context, waitlisted
+2024-02-15|[99001496](https://desuarchive.org/g/thread/99000395#99001496)| Gemini 1.0 Pro finetuning available
+2024-02-15|[99001536](https://desuarchive.org/g/thread/99000395#99001536)| Gemini API model listing indicates Gemini snapshots exist
+2024-02-15|[99001985](https://desuarchive.org/g/thread/99000395#99001985)| Gemini 1.5 Pro model card, called a mid-size multimodal model performing at a similar level to 1.0 Ultra
+2024-02-15|[99002107](https://desuarchive.org/g/thread/99000395#99002107)| Gemini Ultra is Generally Available via an allowlist on Vertex AI
+2024-02-15|[99005423](https://desuarchive.org/g/thread/99002777#99005423)| OAI introduces Sora, their text-to-video model
+2024-02-16|[99007262](https://desuarchive.org/g/thread/99006314#99007262)| unknown Google test model jkessinger discovered
+2024-02-16|[99007496](https://desuarchive.org/g/thread/99006314#99007496)| OAI's Soma can do text
+2024-02-16|[99009592](https://desuarchive.org/g/thread/99009488#99009592)| Test Model jkessinger only turns out to be Gemini 1.0 Pro
 -|-|-
 
 [](you have found my secret stash of nothing!)

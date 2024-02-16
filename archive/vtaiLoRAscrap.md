@@ -7,7 +7,7 @@
 
 ## -> Untested /vtai/ LoRA Grounds <-
 !!! info What is this?
-	Hello, as I (Inanon) am on indefinite hiatus from testing LoRA's, I commit to keeping this list updated with every LoRA/Lycoris/etc I can find in thread, civitai or any other place. I will try to keep this more updated than the LoRA Checklist while still doing both, but updating both will get time consuming.. so if you see something here that isn't marked on the checklist, don't worry! I'll get to it at some point! if you want to return back to the main list, use the Main LoRAs link in the navigation bar.
+	Hello, as I (Inanon) am on indefinite hiatus from testing LoRA's, I commit to keeping this list updated with every LoRA/Lycoris/etc I can find in thread, civitai or any other place. I will try to keep this more updated than the LoRA Checklist while still doing both, but updating both will get time consuming.. so if you see something here that isn't marked on the checklist, don't worry! I'll get to it at some point! if you want to return back to the main list or something, use the links in the navigation bar.
 
 ### -> List of Untested new LoRA's <-
 **Runie Ruse (Phase Connect)** - https://civitai.com/models/268820/runie-ruse-phase-connect
@@ -54,6 +54,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Hoshikawa Sara (Nijisanji)** - https://civitai.com/models/302930/hoshikawa-sara-nijisanji-or-3-outfits
 **Ironmouse (VShojo)** - https://civitai.com/models/305040/ironmouse-vtuber-vshojo
 **Filian (Indie)** - https://civitai.com/models/304798/filian-or-independent-vtuber
+**Yuzuki Roa (Nijisanji)** - https://civitai.com/models/307489/yuzuki-roa-nijisanji
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

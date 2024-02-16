@@ -1,7 +1,9 @@
 ->**Join the Community:** https://t.me/firehawk52official<-
 # Firehawk52 Official - Saving Digital Legacy
 
-->As featured on [Champagne Wiki](https://champagne.pages.dev/music/#download), [freemediaheckyeah](https://fmhy.net/beginners-guide#downloading) and [ripped.guide](https://ripped.guide/Audio/Music/#misc)<-
+->**As featured on:** [Champagne Wiki](https://champagne.pages.dev/music/#download), [freemediaheckyeah](https://fmhy.net/beginners-guide#downloading) and [ripped.guide](https://ripped.guide/Audio/Music/#misc)<-
+
+->**Partners:** [Musical Starlight](https://t.me/musicalstarlight) | [DoubleDouble](https://doubledouble.to) / [Group](https://t.me/+AuKfQGOOLrFlOTZk)<-
 
 ->![Firehawk52](https://files.catbox.moe/evpuqg.png)<-
 
@@ -207,6 +209,7 @@ _No countries missing!_ Contact us [here](https://t.me/firehawk52_chat) if you h
 ->![Mexico/México](https://files.catbox.moe/8k53i4.png)<-  | Deezer Premium | 2099-12-31 | `9bb9b8605631601c2218b2c49ab600887e1ca870cc09e8502b673003aa71fa122a217b17ed021f9c5048775933ec6a2c02c0e521aa0e0395024c0998efc6419ef66d385aafbbb12d508453fcb9447183df28c3f900d4734493564c047108e435` | ->![@Gigamusic2](https://files.catbox.moe/oxlb1w.png)<-
 ->![Mexico/México](https://files.catbox.moe/8k53i4.png)<-  | Deezer Premium | 2099-12-31 | `204d08c1482f7035be9a5f781caac78a48611474da6072f0f98a55cb9ae60617b276a7f4e938a7801992dbe994ea1cb56030a3f9747d6a3835f98c37f00c8a005bd3072910577a02da1de93c1be70d8efcf27bc4dcd130c9bd0be576912d539b` | ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Netherlands/Nederland](https://files.catbox.moe/g87362.png)<- | Deezer Premium | 2099-12-31 | `758971bcfc3c9db9dd4f2e3ae085d133c8b7f0ed7e59a7f9fbe6c342e9f2d4d9371f178523316b07b93f5d63f13d194b163f5084983d8f6320caa1c7b6c6fe4100d64b0847c73ba4d085ab472147abe88192a02e572daa105e402af9ebf78570`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
+->![New Zealand](https://files.catbox.moe/kpj1o0.png)<- | Deezer Premium | 2025-02-15 | `730fdfe41c3c38539776dc22c46405298b721647c94a5ca1e4a85b5ff284059ce6251e1a11606a1a60af531f9cc41f3e26889b5af81fe59bc05ec7a6b0d6aa3f620ae69bedbfb003c35b5db1fcc31229ed25caf4eea63cf2ce76c8f49404b1eb`|
 ->![New Zealand](https://files.catbox.moe/kpj1o0.png)<- | Deezer Family | 2024-03-10 | `b237697c71d87a4e5047e2a2fd2010629687fea549da05979ac27f9b389ac8b7532fd01994c21141070b263c5c928d7d2dc8b5b9f6182b94d48d667a524aabe98189a491d33855a723095333034d5bcae9612fba92a3ce809b54334a5488a627`|
 ->![New Zealand](https://files.catbox.moe/kpj1o0.png)<- | Deezer Family | 2024-02-23 | `06cc96f004d73d7f0fa9ad4a624830ed0605d20d375c9b77a1af4990cf77d8d5198f16dcf505e09d6963f557ee2aaa9356c671704d53827ad943a6829032fe3f43f0103a140040fd26ab635188b877c78f5d167ef100761659960f66bb2d54f5`| ->![TheKVT](https://files.catbox.moe/oxlb1w.png)<-
 ->![Peru/Perú](https://files.catbox.moe/e40fdn.png)<- | Deezer Family | 2024-03-06 :repeat: | `0adcd6c749ea3432e321a753496b054352a6550b88db727f52c0887b7d4703c12e6b76894eb58afe1019aa524836c588737d783945dcde62be8cb4ae923e7959cd23cd07f0bde4f728a2e12f22ed2d00a912fbe81959265b8458af5884db0f96`|

@@ -1,9 +1,9 @@
 #Паша Техинк
-->![Draven's wife is very cute!](https://files.catbox.moe/r919mw.jpg)<-
-!!! note haha numbers go up
+->![Jannies do it for free!](https://files.catbox.moe/chgqu1.gif)<-
+!!! danger It will take more than head games to stop me. You may have invaded my mind and my body... but there's one thing a Saiyan always keeps: his PRIDE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ***
 Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry. No, my real name is not Pasha.
-Don't be afraid to email me — unless you are someone from the list down below, I will formally and politely reply to you.
+Don't be afraid to email me, I will formally and politely reply to you.
 
 Relevant resources:
 https://www.chub.ai/users/pashatehink
@@ -12,29 +12,36 @@ https://pashatehink.neocities.org (website with deep lore about my OCs)
 Discord: none
 Email: gasvas27@gmail.com
 Waifu: А-545 (both a rifle and a T-Doll)
-Main source of inspiration: pitanon
+Main source of inspiration: pitanon <3
 My botmaking playlist: https://www.youtube.com/playlist?list=PLxLvqUJvfRzH3kBifKE-h4RcdIssQ-mnE
 
 Current bans:
-Reddit: This account has been suspended .
-4chan: Ban evasion (30 days)
-~~2ch~~
-TO-DO LIST: Stop the descent into depravity as soon as possible.
+- Reddit: This account has been suspended .
+- 4chan: Ban evasion (30 days)
+- ~~2ch~~ (left indefinitely)
 
-##KYS list
-->![If you are here — die a very gruesome death.](https://files.catbox.moe/chgqu1.gif)<-
+TO-DO LIST: ~~Stop the descent into depravity as soon as possible.~~ Things are looking bright.
 
-- **jannies**
-- **mrnobody99**
-- **astroturf**
-- **ironanon**
-- **darkfantasy109 (very sad!)**
-- **Sull**
-- **sturdy avatarfag crew in general**
-- **mis0**
-- **granmarg**
-- **gojofaggot**
-- **/uhg/**
+##I like...
+->![If you are here — congrats!](https://files.catbox.moe/0rpynl.gif)<-
+- **pitanon**
+- **LowTierGod**
+- **CrossCode**
+- **Draven**
+- **Dr. Mundo**
+- **Perturbator**
+- **Sneed's Feed and Seed (Formerly Chuck's)**
+
+##I dislike...
+->![Garbage.](https://files.catbox.moe/rux2k0.gif)<-
+- **Jannies**
+- **Moeshit**
+- **Snoys**
+- **(You)**
+- **Trannies**
+- **Forced memes**
+- **VTumors**
+
 ***
 [TOC]
 

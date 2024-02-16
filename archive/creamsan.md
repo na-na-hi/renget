@@ -179,6 +179,16 @@ My cards have checkers to make sure your user script is working.
 ![1](https://files.catbox.moe/7brflm.png)
 ![1](https://files.catbox.moe/jam3zk.png)
 
+**Some things to note:**
+For cards with CSS styling, such as Gacha Lolis, you should turn this script off, or you'll miss out on the fancy stuff:
+Here's an example of a card with css and what it should look like:
+![1](https://files.catbox.moe/a78kw3.jpg)
+
+Pic below show the <style> tag sanitized with the script on:
+![1](https://files.catbox.moe/e0fet5.jpg)
+
+Please let me know how to fix this.
+
 ***
 ##IMAGE GEN SETUP
 This is for my cards that have image gen.

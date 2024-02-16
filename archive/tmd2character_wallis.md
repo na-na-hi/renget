@@ -90,7 +90,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Rawst Berry | Soothes the user. Heals Burn.
+1. Empty | Empty inventory slot.
 2. Oran Berry | Heals the user for 10 HP.
 3. Empty | Empty inventory slot.
 4. Empty | Empty inventory slot.

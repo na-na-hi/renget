@@ -90,6 +90,7 @@ https://files.catbox.moe/cysexx.safetensors MetalOwl
 https://files.catbox.moe/wy3knx.safetensors Methonium
 https://files.catbox.moe/4i8oae.safetensors Oda_Non
 https://files.catbox.moe/b5eyg8.safetensors ratatatat74
+![maron maron preview](https://files.catbox.moe/rh2ami.png)
 https://files.catbox.moe/frxmlo.safetensors Maron_Maron requires activation trigger "by maron maron"
 https://files.catbox.moe/m764gt.safetensors Tsubasa_tsubasa_resized
 https://files.catbox.moe/g42ahp.safetensors tenk
@@ -111,6 +112,7 @@ https://files.catbox.moe/pagud0.safetensors Takeda_Hiromitsu
 https://files.catbox.moe/n9pe8s.safetensors Kuuchuu_Yousai
 https://files.catbox.moe/58qele.safetensors Mekabu_Aji_MAX
 https://files.catbox.moe/g29yo2.safetensors Nyamota
+![Urushima preview](https://files.catbox.moe/kyx9zw.png)
 https://files.catbox.moe/8p34wl.safetensors Urushima
 https://files.catbox.moe/i013hk.safetensors Warabimochi
 https://files.catbox.moe/aqm2v0.safetensors Xration
@@ -121,6 +123,7 @@ https://files.catbox.moe/vw47lk.safetensors gorani
 https://files.catbox.moe/v8qsfh.safetensors mojihe
 https://files.catbox.moe/m7sa64.safetensors owner
 https://files.catbox.moe/rhlwp5.safetensors woohyoot
+![yeehawt0wn preview](https://files.catbox.moe/i0icvc.png)
 https://files.catbox.moe/rhlwp5.safetensors yeehawt0wn
 https://files.catbox.moe/bj5m7b.safetensors nawakena_resized example gen: https://files.catbox.moe/26uxu5.png
 https://files.catbox.moe/opwfd2.safetensors slush
@@ -155,6 +158,18 @@ https://files.catbox.moe/8ldykm.safetensors Kesoshirou
 https://files.catbox.moe/sgx2q8.safetensors tsuma_shibori
 https://files.catbox.moe/ciy9qc.safetensors majikoi
 https://files.catbox.moe/0qy5os.safetensors mantis-x
+https://files.catbox.moe/i2lf6g.safetensors tamaya
+https://files.catbox.moe/89517y.safetensors sweetonedollar
+https://files.catbox.moe/m9mblu.safetensors musouzuki
+https://files.catbox.moe/te5hay.safetensors s16xue
+https://files.catbox.moe/9qqq1s.safetensors suga_hideo
+https://files.catbox.moe/cmezo8.safetensors morino831
+https://files.catbox.moe/vwgwyx.safetensors samiri
+https://files.catbox.moe/zxsta3.safetensors senkan_art
+https://files.catbox.moe/cx6szo.safetensors inputtwo
+https://files.catbox.moe/969bmv.safetensors bayeuxman
+https://files.catbox.moe/f2fqj8.safetensors gggg
+https://files.catbox.moe/eicots.safetensors bobtheneet
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -170,10 +185,11 @@ https://files.catbox.moe/2cl9sq.safetensors tsukumizu_yuu
 https://files.catbox.moe/adligx.safetensors dratvan
 https://files.catbox.moe/pmv83f.safetensors poper
 https://files.catbox.moe/593c8m.safetensors nns
-![whomperfruit preview](https://files.catbox.moe/o7f7do.png)
+![whomperfruit preview](https://files.catbox.moe/dcrvfg.png)
 https://files.catbox.moe/tviui5.safetensors whomperfruit
 https://files.catbox.moe/s4t7ch.safetensors jvteemo
 https://files.catbox.moe/2onz8e.safetensors borscht
+
 
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
@@ -184,10 +200,10 @@ https://files.catbox.moe/zxvyki.7z nyantcha
 https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
 https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980,nns
-https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22, cyberboi, dratvan, gorani, lewdcactus, mmmmm, mojihe, owner, poper, whomperfruit, woohyootyeehawtown, zumi, furau, USjWwjFZLUtdSoz,
+https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22, cyberboi, dratvan, gorani, lewdcactus, mmmmm, mojihe, owner, poper, whomperfruit, woohyootyeehawtown, zumi, furau, USjWwjFZLUtdSoz, senkan_art, inputtwo
 https://files.catbox.moe/c69pcl.zip JVTeemo
 https://mega.nz/file/o01XhDIC#8hukpUUeFCThQj2WPe1O0OT7LDWHGvGmFr_y7GVUhfI borscht
-
+https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -209,6 +225,8 @@ https://files.catbox.moe/h3udxn.safetensors character_neptune Trigger token is s
 https://files.catbox.moe/80ioqv.safetensors character_nepgear Trigger token is nepugia Outfit: long-sleeve sailor dress, d-pad hair ornament, white choker, pink striped thighhighs, yellow neckerchief, pink striped panties, thigh strap
 https://files.catbox.moe/uveemt.safetensors character_hanabi Trigger phrase "hanabi hsr" to get her to gen, "fox mask" for her mask(s), "mask on head" to get the mask on her head, "black gloves" for her gloves
 https://files.catbox.moe/9sc9aj.safetensors character_hiragi_kagami example gens: https://files.catbox.moe/6j5etd.jpg, https://files.catbox.moe/22j10a.jpg, https://files.catbox.moe/vkuomy.jpg, https://files.catbox.moe/855i66.jpg
+https://files.catbox.moe/p8pc8o.safetensors character_takarada_rikka doesn't seem to have an activation trigger, just will make any girls you gen into her
+https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯
@@ -325,6 +343,7 @@ cyancapsule
 kelvin hiu
 neisan
 pija \(pianiishimo\), 
+koikatsu
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk (maybe something to do with kelvin above?)

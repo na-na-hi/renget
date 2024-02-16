@@ -326,7 +326,7 @@ Zen Mode | The User is changed into Zen Mode at ½ HP.
 **Zero to Hero** | The User is changed into Hero Form after 2 turns. In Hero Form, the User's Attack is increased by 3, and Special Attack is increased by 1.
 
 ## %#e69d31%IQ%% %#be6e39%Skills%%
-!!! warning Every Pokémon has access to IQ Skills. Only as many IQ Skills as there is IP remaining can be slotted into the active slots at a time, however, a Character may collect as many skills as they can afford.
+!!! warning Every Pokémon has access to IQ Skills. Only as many IQ Skills as there is IP remaining can be slotted into the active slots at a time, however, a Character may collect as many skills as they can afford. These Skills lose all effect when not active.
 Tier | Roll | Name | Description | IQ Required | IP Cost 
 :----: | :----: | ------ | ------ | ------ | ------
 0 | ɴ/ᴀ | Amneplasticity | The User receives an Egg Move or TM of their choice with ≤8BP. May pull from future evolution paths if needed. Granted from Amnesia. | ɴ/ᴀ | 0 IP
@@ -387,7 +387,7 @@ Tier | Roll | Name | Description | IQ Required | IP Cost
 2 | 27. | Telepath | If the User is Ghost or Psychic-Type, they may telepathically-speak with anyone they choose. Dark-Type attacks deal +1 damage against the User, Fighting-Type attacks deal -1 damage against them. While paired with Empath, the User gains Hex Maniac for 0 IP. | 30 IQ | 2 IP
 2 | 28. | Malpractice | The User's Healing Moves heal an extra 4 HP. After the Ally is healed, if their next roll is below 10, they lose the HP they were healed for. | 90 IQ | 5 IP
 2 | 29. | Field Medic | Even without healing Items or Moves, the User is proficient at diagnosing and mending injuries. +3 to medical-based rolls. When Guarding, the Ally being Guarded is healed for 2 HP. | 110 IQ | 3 IP
-2 | 30. | Resilient | The User's HP is increased an extra +2 every 3 levels, but all healing sources are less effective by 8 HP healed. When paired with Foolhardy, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | 100 IQ | 6 IP
+2 | 30. | Resilient | Retroactively, the User's HP is increased an extra +2 every 3 levels, but all healing sources are less effective by 8 HP healed. When paired with Foolhardy, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | 100 IQ | 6 IP
 2 | 31. | Foolhardy | The User's damage with Attacking Moves is increased by 2, but they are unaffected by all healing sources while in-combat. When paired with Resilient, while in combat, the User suffers permanent [Badly Poisoned DoT](https://rentry.co/tmd2many_rules#damage-over-time-dot). | 100 IQ | 7 IP
 2 | 32. | Gourmand | Prepared and Cooked Foods the User has made heal +2 HP regardless of their effect. | 90 IQ | 3 IP
 2 | 33. | Preferred Weather | User receives +2 to their Species Bonus when under the affects of their selected weather condition. | 80 IQ | 3 IP

@@ -3186,8 +3186,7 @@ https://nitter.lanterne-rouge.info/QudsNen/status/1757820924563189944#m  2/14/24
 (Illustrative photo)
 https://nitter.lanterne-rouge.info/QudsNen/status/1757817714683326699#m  2/14/24
 
->⚡️Scenes from the Mujahideen of the Al-Quds Brigades targeting soldiers and vehicles of the Zionist enemy in western #Gaza.
-#Al-Aqsa Flood
+>⚡️Scenes from the Mujahideen of the Al-Quds Brigades targeting soldiers and vehicles of the Zionist enemy in western #Gaza. #Al-Aqsa Flood
 https://nitter.lanterne-rouge.info/ME_Observer_/status/1757812795100340578#m  2/14/24
 https://files.catbox.moe/tqvk2g.mp4  2/14/24
 
@@ -3283,3 +3282,22 @@ https://nitter.lanterne-rouge.info/ME_Observer_/status/1757910850948780366#m  2/
 
 A strong thunderstorm hit Nineveh Governorate a short while ago
 https://nitter.lanterne-rouge.info/ME_Observer_/status/1757898696937607262#m  2/14/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 14 (2024), against US-israeli forces:
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Joint-Operation with the Ansar Brigades, shelled concentrations of IOF soldiers and vehicles in the northern Gaza Strip with a barrage of mortar shells.
+
+🔻Askalan and the settlements surrounding the Gaza Strip were shelled with rocket barrages.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled the settlements of the southern Gaza Strip with a rocket barrage.
+
+— 🟡 Hezbollah:
+
+(No official statement claiming any attack; however the resistance in Southern Lebanon launched several deadly attacks on Safed, Meron, causing at least 2 deaths and several injuries.)
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1757925841692987890#m  2/14/24

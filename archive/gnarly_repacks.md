@@ -1,6 +1,11 @@
 -> ![Image description](https://i.ibb.co/YbT1mW6/image.png) <-
 !!! info "WHERE DA FUCK IS DA SITE MOTHAFUCKA?!"
-     UPDATE 1/19/2024 - The person that managed the server/hosting for the site (specifically **DMCA-ignored hosting**, which is a must for many piracy sites) is refusing to talk to me, so I have no idea if I can ever set up the site again. Wonderful.
+     UPDATE 2/15/2024 - This will most likely be the final edit to this section unless something good happens (which never does). The site is not coming back at this point. I already mentioned that my host starting ghosting me the minute the site went down, and I guess commissioning furry art was way more important to them  than actually helping me. Just remember that I always had (and still have) people actively working against me who also try to influence others to do the same.
+
+!!! When you try to search these repacks up on search engines, this Rentry page does not get picked up. I ask those who still even care about these releases to try spreading this Rentry page around. I would appreciate it as most people think I am gone just because the site died.
+
+
+
 
 Links with Snopyta are most likely going to be dead unless it randomly comes back to life. I am currently working on reuploading the repacks from these links to the 3 hosts I use, which is going to take a while. Please be patient. (some UploadHaven links that are still alive will be used as a placeholder, however a lot are missing on my end, which means new repacks will have to be made.)
 
@@ -13,6 +18,10 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+The Elder Scrolls V Skyrim - Legendary Edition [Gnarly Repacks] [7.29 GB]
+https://bin.0xfc.de/?b13c47d4151828ef#5fCiTPZjCgF6vjpzKRQ27sA3a3mHooi8qpA6cxFgi7Q2
+Project Zomboid (EA-v41.78.16) [Gnarly Repacks] [1.66 GB]
+https://bin.0xfc.de/?f3b5c235c8c58336#EA9oGsPyfnGdho3d5s4ABBpXYwe1vgLBdw9j1RZ6CTa5
 Oni - Anniversary Edition [Gnarly Repacks] [197 MB] - REUPLOAD
 https://bin.0xfc.de/?fff459ed10257bf6#ANz5T5pWpwpUBcDkZQtHi9p56wCMwDGRgum1LQhggZGm
 Fallout – Tale Of Two Wastelands (v.3.3.2a) [Gnarly Repacks] [10.6 GB] - UPDATED

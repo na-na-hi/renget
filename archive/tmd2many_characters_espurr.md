@@ -114,8 +114,8 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
-1. Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
-2. Sourdough | +4HP for the duration of the battle.
+1. Iron Cap | Halves AP and grounds the user.
+2. Sourdough | +4 HP for the duration of the battle.
 3. Scrappy Powder | Changes someone's Ability to Scrappy when used.
 4. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
 
@@ -135,7 +135,9 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 ------ | ------ | :----: 
 Accessory | %#99e550%L%%%#7ab049%e%%%#37663a%a%%%#264c37%f%% %#99e550%B%%%#7ab049%a%%%#37663a%g%% | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
 Accessory | %#99e550%L%%%#7ab049%e%%%#37663a%a%%%#264c37%f%% %#99e550%Po%%%#7ab049%u%%%#37663a%c%%%#264c37%h%% | A small pouch weaved with grass tufts and leaves, made to contain small objects and grains.
+Tool | Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
 Material | Rope | Three feet of rope, thick enough to be a useful material.
+Material | Bamboo Shoot | A piece of bamboo torn from the ground.
 Key Item | None | None
 
 ***

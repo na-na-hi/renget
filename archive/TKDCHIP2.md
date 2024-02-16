@@ -41,6 +41,9 @@ https://files.catbox.moe/gb05up.mp4 New  2/9/24
 https://files.catbox.moe/xhvn0l.mp4  New  2/14/24
 https://files.catbox.moe/qc0ht0.mp4  New  Translated Version  2/14/24
 
+>MUST WATCH: The Mujahideen Brigades published a video showing a succesfully sniping operation that eliminated an IOF soldier atop one of the Taiba towers, south of the Japanese neighborhood west of Khan Younis.
+https://files.catbox.moe/uuza7g.mp4  New  2/15/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -52,6 +55,11 @@ https://files.catbox.moe/7rzdod.mp4 New  2/10/24
 
 >Hezbollah published another video showing the operation that targeted the radar IOF site in the occupied Lebanese Shebaa Farms.
 https://files.catbox.moe/4c5quv.mp4 New  2/14/24
+
+>Hezbollah published a video showing the operation targeting the military equipment at the Ras Naqoura naval IOF site.
+https://files.catbox.moe/n5hkg2.mp4  New  2/15/24
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -80,6 +88,9 @@ https://files.catbox.moe/9818w2.mp4  2/13/24
 
 >Scenes from the Mujahideen of the Al-Quds Brigades targeting soldiers and vehicles of the Zionist enemy in western #Gaza. #Al-Aqsa Flood
 https://files.catbox.moe/tqvk2g.mp4 New  2/14/24
+
+>WATCH: Al-Quds Brigades published a video showing the joint-operation mortar launches with the Ansar Brigades, crushing IOF military sites and concentrations in the northern Gaza Strip.
+https://files.catbox.moe/zfqqzr.mp4  New  2/15/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -221,3 +232,13 @@ https://files.catbox.moe/liprie.mp4
 https://files.catbox.moe/kqaqba.mp4  New  2/14/24
 تمرين جوي مشترك بين طائرات F16 العراقية وطائرات الرافال Rafale التابعة لسلاح الجو الفرنسي 
 https://youtu.be/S5PRotYtdw8  2/14/24
+>NEW: The Israeli army blindfolded a Palestinian man in the West Bank and made him run. As he runs away without looking, they shoot him and kill him. Literally like they are hunting animals. And all day long they whine on social networks and pretend to be victims. Do these people have any morals?
+https://files.catbox.moe/srpzj2.mp4 New  2/15/24
+>British activist Sarah Wilkinson is calling on people to sign a campaign supporting the air-dropping of humanitarian aid and food to Gaza in response to the severe starvation caused by Israel's ongoing war. @swilkinsonbc
+https://files.catbox.moe/i3pseu.mp4  New  2/15/24
+>Confrontations between young men and occupation forces in the village of Deir Jarir, northeast of Ramallah.
+https://files.catbox.moe/oeiw48.mp4 New  2/15/24
+>Hezbollah targets Kiryat Shmona. Missiles fall into the city, the Iron Dome is breached.
+https://files.catbox.moe/1vsazk.mp4  New  2/15/24
+>The moment electricity was lost was captured on live TV during a broadcast.
+https://files.catbox.moe/3v2ms0.mp4  New  2/15/24
