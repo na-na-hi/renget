@@ -293,3 +293,162 @@ If all the peoples of the nation come together to overthrow the Zionist Jewish s
 
 The divine victory of Imam Khomeini and what this victory produced in terms of the establishment of the Islamic State is a blessing not only for Iran, but a blessing for the entire nation.
 https://nitter.lanterne-rouge.info/AryJeay/status/1758281415089893467#m  2/15/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 15 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted the British "LYCAVITOS" ship, in the Gulf of Aden, with anti-ship missiles, hitting it directly.
+
+— 🇵🇸  Al-Qassam Brigades: 
+
+🔻Engaged in fierce clashes with IOF forces, using heavy and medium weapons, in the axes of Khan Younis in the southern Gaza Strip. 
+
+🔻Targeted IOF forces & their vehicles using Al-Yassin 105s, anti-fortification TBG shells, and explosive devices.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Carried out artillery and rocket operations against fortifications on the supply line and positioning of IOF soldiers, east and northeast of Khan Yunis.
+
+— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+
+🔻Targeted a Merkava tank with an RPG, in Khan Yunis.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Sniped an IOF soldier atop one of the Taybah towers’ roof, west of Khan Yunis, south of the Japanese neighborhood.
+
+🔻Targeted an IOF force atop a tower, west of the Qattatwa camp, west of Khan Yunis, with a Saeer missile, causing casualties.
+
+🔻Engaged in fierce clashes with IOF forces in the city of Khan Younis with various and appropriate weapons.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Targeted a Quad Copter drone and seized it in the northern Gaza Strip, Beit Hanoun axis.
+
+🔻Heavily shelled IOF troops and their vehicles, using heavy-caliber mortar shells in the northern Gaza axis.
+
+🔻Clashed with IOF forces in the axes of Khan Yunis with various weapons and RPGs.
+
+🔻Targeted an IOF military vehicle with a high-explosive, north of Gaza.
+
+— 🟡 Hezbollah: (10 operations)
+
+🔻Targeted spy equipment at the Ruwaysat Al-Alam site in the occupied Shebaa Farms with appropriate weapons.
+
+🔻Targeted spy equipment at the Al-Rahib site with suitable weapons.
+
+🔻Targeted the Zebdine barracks in the occupied Shebaa Farms with Falaq rockets.
+
+🔻Targeted spy equipment at the Al-Marj site with appropriate weapons.
+
+🔻Targeted the Al-Samaqa site with rockets.
+
+🔻Attacked Kiryat Shmona settlement with dozens of Katyusha rockets, as an initial response to the massacres in Nabatiyeh and Al-Sawwana.
+
+🔻Targeted spy equipment at the Naqoura naval site with appropriate weapons.
+
+🔻Targeted a gathering of israeli soldiers around the Zarit barracks with rockets.
+
+🔻Targeted the Birkat Risha site with rockets.
+
+🔻Attacked the Kiryat Shmona barracks with a number of Falaq rockets, as an initial response to the massacres in Nabatiyeh and Al-Sawwana.
+
+— 🇮🇶 Islamic Resistance in Iraq:
+
+🔻Attacked an israeli military target with a Shahed-101 kamikaze drone in the occupied Golan Heights.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.lanterne-rouge.info/AryJeay/status/1758317925063106622#m  2/15/24
+
+>🚨BREAKING: Reports of a shooting operation by a resistance fighter, at an intersection east of Isdud, with at least 3 dead israelis and several seriously injured.
+https://nitter.lanterne-rouge.info/AryJeay/status/1758446412977639798#m  2/16/24
+https://files.catbox.moe/860rgi.mp4  2/16/24
+
+>🛑UPDATE: According to israel’s emergency MDA, 2 are seriously injured in the attack, next to the 3 that are already pronounced dead.
+https://nitter.lanterne-rouge.info/AryJeay/status/1758449152772424160#m  2/16/24
+https://files.catbox.moe/vox3b5.mp4  2/16/24
+
+>🚨A barrage of rockets from Gaza were launched towards Askalan & Zikim
+https://nitter.lanterne-rouge.info/AryJeay/status/1758485843285529082#m  2/16/24
+
+>🛑| Magen David Adom (MDA) retook its initial statement and changed it into: 
+
+6 seriously wounded in the shooting attack, 1 in critical condition, 3 in serious condition, 2 in moderate condition, no deaths have been announced yet (yeah right 🙄).
+
+Kaplan hospital however announced 1 death already. 
+
+However, Channel 14 & Yedioth Ahronoth had already announced 3 deaths. So many conflicting reports …
+https://nitter.lanterne-rouge.info/AryJeay/status/1758455214628065539#m  2/16/24
+
+>Death toll rose to 2, a dead settler & a dead IOF soldier.
+https://nitter.lanterne-rouge.info/AryJeay/status/1758460000245092708#m  2/16/24
+
+>🔥 Sayyed Nasrallah grilled Gallant:
+
+I want to remind the enemy's defense minister, who is three-quarters crazy (Gallat) and talks about fifty kilometers and Beirut, the resistance in Lebanon possesses formidable and accurate missile capabilities that extend from Kiryat Shmona to Eilat.
+https://nitter.lanterne-rouge.info/AryJeay/status/1758493453241946156#m  2/16/24
+
+>⚡️| Islamic Jihad (PIJ) political bureau Spox, Muhammad Hajj Musa:
+
+• This is an imposed war of genocide, and we will not retreat or surrender. Instead, we will continue to resist the aggression and confront the occupation and those who support and cover it until we achieve victory for the sacrifices of our patient people and the blood of the righteous martyrs.
+
+• Netanyahu’s high rhetoric is nothing more than a cover-up for the significant failure on the ground.
+
+• The occupation is gambling on time, deluding itself that it can emerge with an appearance of victory.
+https://nitter.lanterne-rouge.info/AryJeay/status/1758496156382908819#m  2/16/24
+
+The latest rocket barrage towards Askalan & Zikim were launched from the northern Gaza Strip, displaying yet again, that the enemy claim of having the north under control is a lie.
+
+Glory to the resistance!
+https://nitter.lanterne-rouge.info/AryJeay/status/1758498302247481841#m  2/16/24
+
+>UN says profoundly concerned over Israeli military raid into Nasser Hospital
+https://nitter.lanterne-rouge.info/QudsNen/status/1758461880362823922#m  2/16/24
+
+>Two Israeli settlers have been killed and four others wounded in an attack in Kiryat Malakhi settlement in occupied Asqalan. 
+
+The operation comes amidst an Israeli escalation against Palestinians across historic Palestine.
+https://nitter.lanterne-rouge.info/QudsNen/status/1758473105062674762#m  2/16/24
+
+>⚡️Yemen: Al-Mayadeen correspondent: American-British aggression carried out two raids on the Al-Jabbana area, north of the coastal city of Hodeidah on the Red Sea, west of #Yemen.
+https://nitter.lanterne-rouge.info/ME_Observer_/status/1758479813742923994#m  2/16/24  
+
+>⚡️SUMMARY key points of Abu Obeida, Al-Qassam Brigades’ Spox speech:
+
+• 133 days since the beginning of the Al-Aqsa Flood battle, which has changed and will change the face of the region. It marked the beginning of the end for the longest and last occupation in contemporary history, leading to its defeat, disgrace, and exposure.
+
+• The Al-Aqsa Flood continues to evolve to eliminate injustice and aggression against Al-Aqsa and the land of Isra and Mi'raj, becoming a pivotal point in the history of our nation, by the will of Allah.
+
+• For 5 consecutive months, our steadfast Palestinian people in Gaza confront a Zionist-American war. Despite the brutalities and appalling massacres, this resilient and generous community stands resolute, refusing to surrender.
+
+• The defeat of those incapable of subduing a population whose children teach lessons of courage to the helpless adults. Women who raise generations and embody the essence of resistance, turning it into a legendary force of the era and an iconic symbol of courage, sacrifice, and heroism.
+
+• How can they defeat a population whose resistance is deeply embedded in their collective conscience, sharing the burdens of suffering, pain, and hope? They sacrifice their most cherished, with leaders and soldiers marching in the path of Allah, defending the holiest sanctuaries and the most significant causes.
+
+• Our fighters in Al-Qassam Brigades and other Palestinian resistance factions continue to confront a criminal army, the likes of which have not been seen in modern history in terms of its brutality, savagery, and repugnant racist ideology. They inflict unprecedented losses on the enemy's army, a level unseen in the history of our people's revolution.
+
+• Our fighters destroy the enemy's vehicles and armored units, engage heavily armed soldiers supported by tanks, aircraft, and military ships, setting well-prepared ambushes. They skillfully snipe at their officers and attack their soldiers from point-blank range.
+
+• Whenever the enemy thinks it is secure in a scorched area, our fighters emerge unexpectedly, conducting high-impact operations, fighting with the help, support, and guidance of Allah.
+
+• Simultaneously, battles with the fighters of our nation and its resistant forces continue on all fronts, expanding and intensifying in the face of the enemy's arrogance, aggression, and Nazi-like brutality.
+  
+• We won't delve into listing the operations by Al-Qassam Brigades, as we announce them promptly 24/7. Some fighters' field conditions delay the announcement of certain missions. We prioritize security and complex field conditions, choosing to postpone the disclosure of some operations and scenes for safety reasons.
+https://nitter.woodland.cafe/AryJeay/status/1758515661289013329#m  2/16/24
+https://files.catbox.moe/yigch6.mp4  2/16/24
+
+>⚡️Al-Qassam Brigades Spokesman, Abu Obeida’s speech with english subtitles.
+
+Subs courtesy of RNN.
+https://nitter.woodland.cafe/AryJeay/status/1758547644677317099#m  2/16/24
+https://files.catbox.moe/ikvh29.mp4  2/16/24
+
+>Breaking | The International Court of Justice has announced its ruling regarding South Africa’s petition for further interim measures in the case concerning the Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip.
+https://nitter.woodland.cafe/QudsNen/status/1758584123717767218#m  2/16/24
+
+>The Gaza Government Media Office, in its latest statistics, reports that since beginning of the war, the Israeli army has committed 2,503 massacres, killing 28,775 Palestinians, with thousands still missing.
+https://nitter.woodland.cafe/QudsNen/status/1758560089147867375#m  2/16/24
+
+>BREAKING| The ICJ rejects South Africa's latest application and says the escalation in Rafah “Does not demand the indication of additional provisional measures.”
+https://nitter.poast.org/QudsNen/status/1758596018059301205#m  2/16/24

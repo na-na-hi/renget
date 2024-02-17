@@ -1,11 +1,14 @@
 *[This is an anonymous document, no permission is needed to link & circulate it.]*
 
+%#bf3952%EDIT: after reading responses & reflecting further, I have made changes to section 7. I hope this can better explain the reasons this section was included - not to demonize Selen, but to suggest how !~both sides can co-exist without one being clearly 'wrong' or 'lying'~!.%%
+*- This is likely my final + only major edit since this document was created.*
+
 ## Selen Tatsuki/Dokibird and Nijisanji EN – a different truth
 NOTE: I am not minimizing the impact of mental illness and suicide attempts on peoples’ lives. Harassment & bullying are serious accusations, with severe consequences for both the accused and the accuser. Believing one side to be entirely truthful without the need for evidence has time and time again proven to be a mistake, yet this has happened for the past 2 weeks.
 
-NOTE 2: This is obviously not a conclusive document. I have covered some key points which are often left out of the current conversation (whether intentionally or not). Please be aware !~I am continuing to add sources~! - this is not finalised.
+NOTE 2: This is obviously not a conclusive document. I have covered some key points which are often left out of the current conversation (whether intentionally or not).
 
-==**[EVIDENCE LIST:](https://rentry.org/nijidoki2)**== (WIP) <- link to document solely with clips, tweets & other sources disputing 'NIJISANJI black company' claims etc.
+==**[sources:](https://rentry.org/nijidoki2)**== <- clips, tweets & other sources
 
 **If you have the time, please read the whole document. If not, here are some takeaways:**
 -	The simplistic narrative of ‘Nijisanji black company’ and Selen’s claims that she made no profit in the past year are incredibly misleading. Calling these out does not make someone a ‘company bootlicker’ (ANYCOLOR has many flaws), instead it demands a focus on the facts.
@@ -76,7 +79,7 @@ What I find difficult to understand is that, if Selen has definitive proof of mo
 
 Legal details aside, practically all the remaining 32 NIJISANJI EN livers have shown explicit support towards the video statement made by Elira Pendora, Vox Akuma and Ike Eveland – refuting claims of harassment, showing evidence of Selen breaching Activity Rules, and expressing shock at the legal documents shown by Selen’s side.
 
-A major claim circulating online is that management forced both this support and this statement, that these livers are ‘puppets’ to the corporation who were ‘forced at gunpoint’ to ‘betray’ Selen in a last-ditch effort to rebuild NIJISANJI’s public image. Ren clearly states this is not true [here](https://twitter.com/RenZott0/status/1757216876562972729).
+A major claim circulating online is that management forced both this support and this statement, that these livers are ‘puppets’ to the corporation who were ‘forced at gunpoint’ to ‘betray’ Selen in a last-ditch effort to rebuild NIJISANJI’s public image. Ren clearly states this is not true [here](https://twitter.com/RenZott0/status/1757216876562972729), yet people continue to go extreme lengths to construct bizarre conspiracy theories about the use of 'different apostrophes' and emojis - all while refusing to see how the livers on-stream words match their public statements.
 ![Ren refuting allegations that management is forcing them to retweet](https://i.imgur.com/LJO2b2W.png)
 
 Once again, the livers are infantilized, deemed powerless in the clutches of a big, bad, evil company; or alternatively, manipulated by ANYCOLOR into hating Selen with cherry-picked information from these documents. This is deemed as the ‘charitable’ interpretation – because otherwise, they must be terrible people who betrayed Selen for a quick buck. 
@@ -120,21 +123,13 @@ Only Selen and the involved NIJISANJI EN parties will ever know the full sequenc
 -	Selen has spoken very negatively of her home situation in a since-deleted twitlonger [(archived here)](https://web.archive.org/web/20201113055556/https://www.twitlonger.com/show/n_1srfgm0) which details deep financial, physical and mental pressures. I bring this up only because she refers to her family’s reaction in her most recent statement, and it adds another layer of mental stress to the picture (note: this is public knowledge, and the link can still be found on her Dokibird twitter account). In this twitlonger, she talks about how “the only thing that’s been keeping me going is streaming,” a statement she has repeated since her termination
 
 ### 7: An important note
-To make it clear: I do not believe Selen is lying about her suicide attempt, nor about being in “the darkest point of her life” after her termination.
+To make it clear: I do not believe Selen is lying about her suicide attempt, nor about being in “the darkest point of her life” after her termination. But I would argue that people hone in on this fact alone, and refuse to actually listen to any of the statements made by other parties and even Selen aside from this.
 
-But I would argue that people hone in on this fact alone, and refuse to actually listen to any of the statements made by other parties and even Selen aside from this. I was deeply hesitant to include this point, but I hope you will understand why I am doing so.
+*!~EDIT:~! This section previously covered references to Selen's past mentions of mental health diagnosis. I have since chosen to remove it. This information !~was included NOT to demonize her, incite hate against her or minimize her pain; but to suggest how both sides can co-exist without one being clearly 'wrong' or 'lying'.~! While I still believe this may offer important context to understanding why certain actions & behaviors may have happened, this is a more speculative argument compared to the rest of this document, and relies on assumptions about her current mental health based on statements from 3-4 years ago, which may no longer hold true. I do not wish to invite further bad-faith interpretations on this topic.*
 
-![Screenshot Dokibird uploaded to her twitter account](https://i.imgur.com/ea5xZNt.png)
+Let me reiterate: I am not claiming that her allegations are false, reducing her to her diagnosis (there is no confirmation that she has all, if any, of these traits because of it), or even using it as a scapegoat explanation. Obviously, a simplistic list of symptoms cannot encapsulate her lived experiences or explain away the hardships she has faced.
 
-Dokibird has previously been public with her borderline personality disorder (BPD). Please consider the following extracts from [the U.S. National Institute of Mental Health:](https://www.nimh.nih.gov/health/topics/borderline-personality-disorder)
-
-- %#b9528a% “People with borderline personality disorder may experience **intense mood swings** and feel uncertainty about how they see themselves. Their feelings for others can change quickly, and swing from extreme closeness to extreme dislike. These changing feelings can lead to **unstable relationships and emotional pain**… People with borderline personality disorder also tend to view things in **extremes, such as all good or all bad**. Their interests and values can change quickly, and they may **act impulsively or recklessly.**”%%
-
-- %#b9528a% “Other signs or symptoms may include: Impulsive and often dangerous behaviors, such as **spending sprees**… Intense and highly variable moods, with episodes lasting from a few hours to a few days… People with borderline personality disorder have a **significantly higher rate of self-harming and suicidal behavior** than the general population.”%%
-
-This is not an attempt to diagnose Selen with BPD – you can find references to it still up on her twitter account [(source)](https://twitter.com/dokibird/status/1279366897910206464), and it used to be in her twitter bio. It is not a secret. Nor am I claiming that her allegations are false, reducing her to her disorder (there is no confirmation that she has all, if any, of these traits because of BPD), or even using it as a scapegoat explanation. Obviously, a simplistic list of symptoms cannot encapsulate her lived experiences or explain away the hardships she has faced.
-
-I do not mean this maliciously. I truly believe this may provide an important perspective on many of her patterns of behavior in the past 2 years, including impulsive and drastic reactions she later regrets, overspending on personal projects, and feeling pushed to the edge in the days following the privatization of her cover and influx of messages of confusion and worry by other livers. People constantly state her attempt as concrete evidence of active bullying from within the company, and this is a suggestion of how this may not be the case.
+I do not mean this maliciously. I do not believe Selen is a bad person. But, people constantly state her attempt as concrete evidence of active bullying from within the company, and this is a suggestion of how this may not be the case.
 
 ### 8: Conclusions
 NIJISANJI EN can suffer from incompetence in their management and PR, AND the livers can wish to stay in the company, strive for improvement and rally for a better 2024. Selen can have suffered intense mental stress leading up to her termination BUT this does not immediately implicate her coworkers as malicious bullies who deserve eternal punishment. There is likely no black-and-white here: both statements from ANYCOLOR and Selen may hold weight.

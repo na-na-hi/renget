@@ -242,3 +242,9 @@ https://files.catbox.moe/oeiw48.mp4 New  2/15/24
 https://files.catbox.moe/1vsazk.mp4  New  2/15/24
 >The moment electricity was lost was captured on live TV during a broadcast.
 https://files.catbox.moe/3v2ms0.mp4  New  2/15/24
+>Reports of a shooting operation by a resistance fighter, at an intersection east of Isdud, with at least 3 dead israelis and several seriously injured.
+https://files.catbox.moe/860rgi.mp4  New  2/16/24  
+>UPDATE: According to israel’s emergency MDA, 2 are seriously injured in the attack, next to the 3 that are already pronounced dead.
+https://files.catbox.moe/vox3b5.mp4  New  2/16/24
+>Al-Qassam Brigades Spokesman, Abu Obeida’s speech with english subtitles. Subs courtesy of RNN.
+https://files.catbox.moe/ikvh29.mp4  New  2/16/24

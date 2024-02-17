@@ -9,8 +9,9 @@ LoRAの作成記録とか検証とか
 参考程度に。
 
 ## 注意
-センシティブな画像があるので注意。また、再現度確認の参考で貼ってあるリンク先はNSFW(成人向け)画像が多いため閲覧注意。
-この記録は**あくまでも一例**です。これだけで結論を出すべきではありません。ほかの情報も参考にしてください。
+センシティブな画像があるので注意。
+%orange% また、再現度確認の参考で貼ってあるリンク先(danbooru)は成人向け画像が含まれるため閲覧注意! %%
+この記録は!~red; あくまでも一例です。~!これだけで結論を出すべきではありません。ほかの情報も参考にしてください。
 
 ## 学習について
 特に記載がない限り、AdamW,512x512,animefull,キャプションシャッフル,トークン保持1、正則化無しで学習している。
@@ -41,14 +42,14 @@ dwがAdamWでdlがDAdaptLion。
 
 ### ハルカ(AdamW vs DAdaptLion)
 4096Steps、Dim64Alpha16,Conv2d拡張有効(C3Lier)、AdamWのLRは0.0001。教師画像64枚でWD14Taggerでキャプション作成。
-再現度確認の参考に:[Danbooru検索「haruka_(blue_archive)」](https://danbooru.donmai.us/posts?tags=haruka_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「haruka_(blue_archive)」](https://danbooru.donmai.us/posts?tags=haruka_%28blue_archive%29&z=5)
 DAdaptLionの設定: `--optimizer_args "betas=0.9,0.999" "weight_decay=0" "d0=1e-06"`
 ![Image](https://files.catbox.moe/rm55q4.jpg)
 衣装の再現度が良くなった。
 
 ### アル(AdamW vs DAdaptLion)
 4508Steps、Dim64Alpha16,Conv2d拡張有効(C3Lier)、AdamWのLRは0.0001、解像度は768。教師画像161枚でWD14Taggerでキャプション作成。
-再現度確認の参考に:[Danbooru検索「aru_(aru_archive)」](https://danbooru.donmai.us/posts?tags=aru_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「aru_(aru_archive)」](https://danbooru.donmai.us/posts?tags=aru_%28blue_archive%29&z=5)
 DAdaptLionの設定: `--optimizer_args "betas=0.9,0.999" "weight_decay=0" "d0=1e-06"`
 v7がAdamWでv7_dlがDAdaptLion。
 ![Image](https://files.catbox.moe/jugdnl.jpg)
@@ -56,7 +57,7 @@ v7がAdamWでv7_dlがDAdaptLion。
 
 ### AdamWとDAdaptLionのstepごとの変化
 
-再現度確認の参考に:[Danbooru検索「mika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=mika_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「mika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=mika_%28blue_archive%29&z=5)
 ![Image](https://files.catbox.moe/2y8lsd.jpg)
 3000stepsで突然背景が変化した。
 ![Image](https://files.catbox.moe/cf5pi4.jpg)
@@ -72,14 +73,14 @@ v12がDAdaptLionでv12pがProdigy
 ![Image](https://files.catbox.moe/viqgqt.jpg)
 ん？
 
-再現度確認の参考に:[Danbooru検索「saori_(blue_archive)」](https://danbooru.donmai.us/posts?tags=saori_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「saori_(blue_archive)」](https://danbooru.donmai.us/posts?tags=saori_%28blue_archive%29&z=5)
 dlがDAdaptLionでpdがProdigy
 大体5000steps回した。
 ![Image](https://files.catbox.moe/lv81o9.jpg)
 えーっと、何が変わったのか、分かりません
 
 steps数ごとの変化
-再現度確認の参考に:[Danbooru検索「yuuka_(blue_archive)」](https://danbooru.donmai.us/posts?tags=yuuka_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「yuuka_(blue_archive)」](https://danbooru.donmai.us/posts?tags=yuuka_%28blue_archive%29&z=5)
 ![Image](https://files.catbox.moe/k50kp3.jpg)
 ![Image](https://files.catbox.moe/kc53e5.jpg)
 prodigyは学習が速いっていう人いるけどむしろ遅いような・・・設定の問題なのかな？
@@ -245,7 +246,7 @@ Step数は4096
 #### まとめ
 1024pxで精細な模様の再現性が向上する可能性がある。ただし、かえって品質が低下する場合があるので注意。
 前回の検証では効果が出なかったのは文字などの複雑な模様がなかったのが原因かもしれない。
-つまり、対象の特徴が単純だと効果が低いかも。というかSD1.5の限界。
+つまり、対象の特徴が単純だと効果が低いかも。**というかSD1.5の限界。**
 
 ***
 
@@ -319,7 +320,7 @@ Optimizerは余計な物まで学習することが少ないAdamW系でいいと
 
 ## 正則化画像の検証
 正則化画像の種類でどう変化するか検証。4つのパターンで検証。
-ちな正**則**化(Regularization)と正**規**化(Normalization)は別物やで!
+ちな正!~則~!化(Regularization)と正!~規~!化(Normalization)は別物やで!
 - 正則化無し
 - Booruサイトの画像64枚
 	適当に64枚集めた画像
@@ -338,7 +339,7 @@ noregが正則化無し、booru64がbooruサイトの画像64枚、nai64がNAI64
 Prompt: `<lora:mika_noreg:1>1girl, mika \(blue archive\), white capelet`
 Negative Prompt(共通): `lowres, bad anatomy, signature`
 
-再現度確認の参考に:[Danbooru検索「mika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=mika_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「mika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=mika_%28blue_archive%29&z=5)
 
 使用モデル: NAI(fp16,pruned)
 ![Image](https://majinai.art/i/J96n2m0.webp)
@@ -392,17 +393,17 @@ OptimizerはAdamW8bit,LRは0.0001,Dim/Aplhaは64/12。バッチサイズ2。画�
 画像を右クリックして別タブで開くと見やすい。
 ![Image](https://files.catbox.moe/mtv0zh.webp)
 ええと。。。ちな腕章にJとJusticeという文字が書かれているはずだがうまく出ない。SD1.Xの限界。ヘイローが溶けてるのはいつものこと。
-再現度確認の参考に:[Danbooru検索「ichika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=ichika_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「ichika_(blue_archive)」](https://danbooru.donmai.us/posts?tags=ichika_%28blue_archive%29&z=5)
 
 \-
 ![Image](https://files.catbox.moe/otyruz.webp)
 何が変わったのか、分かりません
-再現度確認の参考に:[Danbooru検索「koharu_(blue_archive)」](https://danbooru.donmai.us/posts?tags=koharu_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「koharu_(blue_archive)」](https://danbooru.donmai.us/posts?tags=koharu_%28blue_archive%29&z=5)
 
 \-
 ![Image](https://files.catbox.moe/zgd2sp.webp)
 エッチなのは駄目！死刑！
-再現度確認の参考に:[Danbooru検索「hinata_(blue_archive)」](https://danbooru.donmai.us/posts?tags=hinata_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「hinata_(blue_archive)」](https://danbooru.donmai.us/posts?tags=hinata_%28blue_archive%29&z=5)
 
 
 効果はなかった。知ってた。
@@ -489,6 +490,7 @@ Unet onlyはプロンプトの応答性と品質がやや低下するように�
 ### SDXLのDim(rank)
 本スレでdim1でいいという人もいれば16じゃないと微妙っていう人もいる。
 気になったのでdim1～16で比較してみる。
+画像を右クリックして新しいタブで開いて見ると分かりやすい。
 
 zundamonがdim4でd2が2でd1が1。
  Image  | Dummy
@@ -498,22 +500,29 @@ zundamonがdim4でd2が2でd1が1。
 ずんだもんはd1でも思ったほどの劣化はないようだ。d1は画風の影響が減少？
 
 ![Image](https://files.catbox.moe/biwm0b.webp)
-Seed:22222の8以下はキャラが混ざってる。dimが低いほど衣装を間違えやすい？？
+Seed:22222の8以下はキャラが混ざってる(外れシードと化した)。dimが低いほど衣装を間違えやすい？？
+
 ![Image](https://files.catbox.moe/avomyb.webp)
 2以下で劣化が目立つように見える。
+
 ![Image](https://files.catbox.moe/invb8a.webp)
 Animagineの既知のキャラでやってみた。d2以下で画風の影響が減るがヘイローの精度も低下？
-![Image](https://files.catbox.moe/8whptm.webp)
-dimが高いほど衣装が吸われやすいように見える。
+dim関係なしにボタンの数が安定しない。おそらく教師画像のボタン数が統一されてない影響と思われる(通常6か8で、隠れて4以下に見えたりする)。
 
-Dim(rank)が低いと若干再現度が低下する。どの程度許容するかは個人の好みで絶対にこれといった値はない。
-32以下であればなんでもいい。それ以上はファイルサイズ的におすすめしない(16で111MiB)。
+![Image](https://files.catbox.moe/8whptm.webp)
+着物を着せようとした。dimが高いほど衣装が元の衣装(white capelet)に吸われやすいように見える。
+
+Dim(rank)が低いと品質が若干低下する。衣装の精度はdimサイズよりガチャ要素が強い。
+どの程度品質低下を許容するかは個人の好みで絶対にこれといったdim数はない。
+32以下であればなんでもいい。著者は8か16がお気に入り。
+
+なお、dim32超過はファイルサイズ的におすすめしない(16で111MiB)。
 Dim上げて容量を圧迫してしまっては、LoRAの省メモリなメリットが台無しな気がする。
 
 ### SDXLのPCスペック
 余裕はないが推論・学習(fp8_base有効)ともにVRAM8GBでできるが、CUDAコアのパワーが欲しくなるので4070以上がいい。
 メインメモリはとんでもない消費量。16GBでは不足する。32GB以上必要。
-生成はComfyUIかFooocusがAUTOMATIC1111より省メモリで良い。Fooocusは最低4GBのVARMと8GBのRAMでできるらしい。
+生成はComfyUI、FooocusまたはForgeがAUTOMATIC1111より省メモリで良い。Fooocusは最低4GBのVARMと8GBのRAMでできるらしい。
 
 ---
 
@@ -580,13 +589,13 @@ TurquoiseMix_v0.9が学習元、Turquoise_finalが最終epochでTurqoiseが仕�
 SDのバージョンは1.5。
 
 - キャラ
-再現度確認の参考に:[Danbooru検索「miyu_(blue_archive)」](https://danbooru.donmai.us/posts?tags=miyu_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「miyu_(blue_archive)」](https://danbooru.donmai.us/posts?tags=miyu_%28blue_archive%29&z=5)
 ![Image](https://files.catbox.moe/dn3937.webp)
 
-再現度確認の参考に:[Danbooru検索「miyu_\(swimsuit\)_\(blue_archive\)](https://danbooru.donmai.us/posts?tags=miyu_%28swimsuit%29_%28blue_archive%29+&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「miyu_\(swimsuit\)_\(blue_archive\)](https://danbooru.donmai.us/posts?tags=miyu_%28swimsuit%29_%28blue_archive%29+&z=5)
 ![Image](https://files.catbox.moe/q7nhep.webp)
 
-再現度確認の参考に:[Danbooru検索「noa_(blue_archive)」](https://danbooru.donmai.us/posts?tags=noa_%28blue_archive%29&z=5)
+再現度確認の参考に:[Danbooru検索(閲覧注意)「noa_(blue_archive)」](https://danbooru.donmai.us/posts?tags=noa_%28blue_archive%29&z=5)
 ![Image](https://files.catbox.moe/v7cggv.webp)
 8以下で劣化？
 ![Image](https://files.catbox.moe/4ybpnb.webp)
@@ -617,7 +626,7 @@ SDXLは高性能かつファイルサイズが大きいため16以下で良い�
 - 学習に使うウェイトはanimagine-xl-3.0
 - 教師画像はできるだけ多く(50枚以上)
 - networks.lora
-- 4000-6000steps,Dim2-16/Alphaはdimの4分の1
+- 4000-6000steps,Dim4-16/Alphaはdimの4分の1
 - OptimizerはDAdaptation系(LR=1)
 - キャプションはそのままでもいいし、身体的特徴を消して1タグにまとめてもいい。Animagine推奨の並びにしなくてもいい
 - full_fp16/bf16は絶対に使うな!!オンだとなにも学習しない!(--mixed_precisionではない)

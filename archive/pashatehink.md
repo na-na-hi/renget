@@ -4,6 +4,7 @@
 ***
 Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry. No, my real name is not Pasha.
 Don't be afraid to email me, I will formally and politely reply to you.
+Everything I post is trolling, shitposting and baiting, all carefully wrapped in at least 6 layers of irony, post-irony and sarcasm. Don't believe anything I say, don't think that the opposite of what I say is true. I am only sincere with pittie.
 
 Relevant resources:
 https://www.chub.ai/users/pashatehink

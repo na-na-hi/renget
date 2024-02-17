@@ -61,7 +61,8 @@ You can always switch emulators if nothing works.
 Alternatively you need to reset your network, see [this video on how to do that](https://youtu.be/J4ohYlkzeW8?t=32).
 
 ## (Re)rolling
-The game allows you to reroll your first 10 roll up to 9 times called Precision Recruitment. Because Precision Recruitment is a separate system, this means that you're essentially (re)rolling twice when making an account: the first moment during your first 10 roll, the second moment on the actual gacha banner. 
+The game allows you to reroll your first 10 roll up to 9 times called Precision Recruitment. There's an ingame tutorial for this. 
+Because Precision Recruitment is a separate system, this means that you're essentially (re)rolling twice when making an account: the first moment during your first 10 roll, the second moment on the actual gacha banner. 
 
 For Precision Recruitment: **Save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
 After Precision Recruitment: **Spend *all* your rolls after the first mission (1-1). After that you can reroll.**

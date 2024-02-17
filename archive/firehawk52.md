@@ -3,7 +3,7 @@
 
 ->**As featured on:** [Champagne Wiki](https://champagne.pages.dev/music/#download), [freemediaheckyeah](https://fmhy.net/beginners-guide#downloading) and [ripped.guide](https://ripped.guide/Audio/Music/#misc)<-
 
-->**Partners:** [Musical Starlight](https://t.me/musicalstarlight) | [DoubleDouble](https://doubledouble.to) / [Group](https://t.me/+AuKfQGOOLrFlOTZk)<-
+->**Partners:** [Musical Starlight](https://t.me/musicalstarlight) | [DoubleDouble](https://doubledouble.top) / [Group](https://t.me/+AuKfQGOOLrFlOTZk)<-
 
 ->![Firehawk52](https://files.catbox.moe/evpuqg.png)<-
 

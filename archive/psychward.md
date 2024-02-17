@@ -2,5 +2,5 @@
 ![](https://media.discordapp.net/attachments/977644902995345468/1185980190183145644/Untitled380_20231217112116.png?ex=6591951f&is=657f201f&hm=971f57a3179e6440e6cc2b77b363c570bb856c2af62c6c3483c834434d7cc8ee&) <-
 
 -> ︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵︵
-[pixels](/bloodpixels)⠀[shiny](/shinypixels)⠀[dividers](/sillydividers)⠀[blinkies](/bloodblinkies)
+[pixels](/bloodpixels)⠀[frames](/shinypixels)⠀[dividers](/sillydividers)⠀[my graphics](/bloodblinkies)
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶ <-

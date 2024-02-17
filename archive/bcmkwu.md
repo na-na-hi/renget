@@ -1,3 +1,24 @@
+>Captured Azog officer in Avdeevka
+https://files.catbox.moe/qi53hv.mp4
+>Stormtroopers clearing private sector in Avdeevka near lake
+https://files.catbox.moe/cx3ep8.mp4
+>Russian troops at Avdeevka Hospital
+https://files.catbox.moe/mnqtfp.mp4
+>Zelensky wants confiscated shekels
+https://files.catbox.moe/hyyl58.mp4
+>Hohols fleeing Avdeevka
+https://files.catbox.moe/0mmpfo.mp4
+https://files.catbox.moe/oy78pw.mp4
+>Azov in Avdeevka coke plant cumpit
+https://files.catbox.moe/c7yysr.mp4
+>Russian flags in center of Avdeevka
+https://files.catbox.moe/1yjiba.mp4
+>Piles of dead hohols in Avdeevka (NOT COMFY)
+https://files.catbox.moe/odokp7.mp4
+>Stormtroopers of the 74th Brigade of the 41st Guards Army in the private sector of Avdeevka
+https://files.catbox.moe/49yme8.mp4
+>Leopard 2 stuck
+https://files.catbox.moe/srtetn.mp4
 >Hoholina panic as reality sets in
 https://files.catbox.moe/ctceoj.mp4
 >Russian psyops calling hohols to surrender

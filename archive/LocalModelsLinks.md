@@ -95,7 +95,6 @@
 [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
 [LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution 
-[AutoACT](https://github.com/zjunlp/AutoAct)|Automatic agent learning framework using a division-of-labor strategy
 [LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
 [DDColor](https://github.com/piddnad/ddcolor)|Vivid and natural colorization for black and white photos (and possibly video) 
@@ -111,7 +110,8 @@
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can fine-tune with custom dataset)
 [WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
 [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
-[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|CPU inferenced with GPU offload and full GGUF quantization support
+[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|Speech-to-Text model CPU inferenced with GPU offload and full GGUF quantization support
+[AudioEditing](https://github.com/hilamanor/AudioEditing)|Zero-shot unsupervised and text-based audio editing using DPPM inversion 
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion
 [Anticipation](https://github.com/jthickstun/anticipation)|Text-to-Music based on anticipatory infilling (MIDI currently)
@@ -125,6 +125,8 @@
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 [GenTranslate](https://github.com/YUCHEN005/GenTranslate)|Fine-tune of SeemlessM4T from N-best hypotheses dataset for MT and Speech-to-Text 
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM
+[Magica](https://github.com/google/magika)|File content type detector model 
+[AutoACT](https://github.com/zjunlp/AutoAct)|Automatic agent learning framework using a division-of-labor strategy
 [LOCUST](https://github.com/flbbb/locost-summarization)|State-space model for long document abstractive summarization
 [M2-BERT](https://github.com/HazyResearch/m2)|Embedding retrieval models with up to 32k context length based on monarch mixer 
 [ESPN](https://github.com/susavlsh10/ESPN-v1/)|GPUDirect Storage implementation for multi-vector embedding retrieval and bindings

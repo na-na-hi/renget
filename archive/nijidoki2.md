@@ -1,4 +1,4 @@
-**WIP - evidence-backed NijiDoki supplement**
+**NijiDoki supplement**
 
 [TOC]
 
@@ -54,3 +54,13 @@
 - Kunai received a handwritten note & dango from her manager, congratulating her on debut [[2:21:29 in VOD]](https://www.youtube.com/live/yJi0yv9lg_0?feature=shared)
 - Ver: "I think it's very much worth noting our manager is incredibly sweet... Our manager cried when all of us met. She saw us meet and she just cried. After we did our parts in NIJIFES, we looked back and she was crying. It was one of the sweetest things I've ever seen in my life." [[50:00 in VOD]](https://www.youtube.com/live/3Iwl4j4GXKY?feature=shared&t=3000)
 - Elira and Finana make Pomu so happy with the help of staff: "When the organisers told us that Beatmario was also going to be a guest at the con, Pomu was like, 'Oh my god I love Beatmario so much!' so then our staff organised this surprise, so Pomu could be surprised by Beatmario (on stream)" [[6:26 in clip]](https://youtu.be/zduuUVvt1Tw?feature=shared&t=386)
+
+####additional information removed from '7: An important note'
+NOTE: this is not 'EVIDENCE' or a source.
+*This section was previously in the main document, and covers references to Selen's past mentions of mental health diagnosis. I still believe this may offer important context to understanding why certain actions & behaviors may have happened, and was included not to demonise her or incite hate against her, but to suggest how both sides can co-exist without being clearly 'wrong'. However, this is a more speculative argument compared to the rest of this document, and relies on assumptions about her current mental health based on statements from 3-4 years ago, which may no longer hold true.*
+
+I am not claiming that her allegations are false, reducing her to her disorder (there is no confirmation that she has all, if any, of these traits because of it), or even using it as a scapegoat explanation. Obviously, a simplistic list of symptoms cannot encapsulate her lived experiences or explain away the hardships she has faced.
+
+I do not mean this maliciously. I do not believe Selen is a bad person. Instead, I truly believe this may provide an important perspective on many of her patterns of behavior in the past 2 years, including impulsive and drastic reactions she later regrets, overspending on personal projects, and feeling pushed to the edge in the days following the privatization of her cover and influx of messages of confusion and worry by other livers.
+
+People constantly state her attempt as concrete evidence of active bullying from within the company, and this is a suggestion of how this may not be the case.

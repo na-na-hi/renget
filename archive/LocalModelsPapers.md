@@ -83,6 +83,7 @@
 01/2024|[Solving olympiad geometry without human demonstrations](https://files.catbox.moe/3fu2lc.pdf)
 02/2024|[LiPO: Listwise Preference Optimization through Learning-to-Rank](https://arxiv.org/abs/2402.01878)
 02/2024|[Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
+02/2024|[How to Train Data-Efficient LLMs](https://arxiv.org/abs/2402.09668)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -128,6 +129,7 @@
 12/2023|[Audiobox: Unified Audio Generation with Natural Language Prompts](https://arxiv.org/abs/2312.15821)
 12/2023|[Universal Pyramid Adversarial Training for Improved ViT Performance](https://arxiv.org/abs/2312.16339)
 01/2024|[Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
+02/2024|[Revisiting Feature Prediction for Learning Visual Representations from Video](https://files.catbox.moe/gn25vw.pdf)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 12/2015|[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
@@ -287,6 +289,7 @@
 02/2024|[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
 02/2024|[EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/abs/2402.05008)
 02/2024|[GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894)
+02/2024|[Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion](https://arxiv.org/abs/2402.10009)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -561,6 +564,9 @@
 02/2024|[BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data](https://arxiv.org/abs/2402.08093)
 02/2024|[Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance](https://arxiv.org/abs/2402.08680)
 02/2024|[Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference](https://arxiv.org/abs/2402.09398)
+02/2024|[Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models](https://arxiv.org/abs/2402.10189)
+02/2024|[RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models](https://arxiv.org/abs/2402.10038)
+02/2024|[BitDelta: Your Fine-Tune May Only Be Worth One Bit](https://arxiv.org/abs/2402.10193)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

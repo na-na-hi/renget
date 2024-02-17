@@ -5,13 +5,12 @@
 
 ##Contact
 [robosaintv@proton.me](mailto:robosaintv@proton.me)
-[]( botname|pilotname|![](thumburl)|%green% **[[CHUB LINK]]() [[CATBOX LINK]]()** %% )
 ##BOTS
 CODENAME|NAME|PILOT|LIVE FEED|DOCUMENTS
 ---|---|---|---|---
 V-00 "VALENTINE"|Robo-Saint V|(you)|![](https://files.catbox.moe/p2cq5d.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/robo-saint-v-01ad4e82)** %%
 V-01 "WOLF"|Henkei|Lumen|![](https://files.catbox.moe/669z9f.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/zl-henkei-model-e4944695)** %%
-V-02 "PILOT"|Rikerr|Planewalker|![](https://files.catbox.moe/5d3ekt.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/rykerr-c93bd093) [[CATBOX LINK]](https://files.catbox.moe/fg2ddu.png)** %%
+V-02 "PILOT"|Rykerr|Planewalker|![](https://files.catbox.moe/5d3ekt.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/rykerr-c93bd093) [[CATBOX LINK]](https://files.catbox.moe/fg2ddu.png)** %%
 V-03 "UMAMI"|Amiel|chefseru|![](https://files.catbox.moe/gvp879.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/amiel-2879a3a9/main) [[CATBOX LINK]](https://files.catbox.moe/tpymy6.png)** %%
 V-04 "PRINCE"|Lisette|Lunare|![](https://files.catbox.moe/ix4bjs.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/lisette-ba5fe39d) [[CATBOX LINK]](https://files.catbox.moe/osycw5.png)**%%
 V-05 "FATHER"|Malvét|Astroturf|![](https://files.catbox.moe/p2cnq0.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/malvet-8efecb82/) [[CATBOX LINK]](https://files.catbox.moe/ho9cyu.png)** %%
@@ -45,7 +44,7 @@ V-28 "BUILDER"|Alteriane|Hakurei Boundary Manipulator|![](https://files.catbox.m
 V-29 "SPRING"|Yosakurahime|Horcocks|![](https://files.catbox.moe/rax13q.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Anonymous/yozakurahime-fec6365b) [[CATBOX LINK]](https://files.catbox.moe/sdgoa3.png)** %%
 V-30 "FAIRY"|Geneviève|pixi|![](https://files.catbox.moe/og80rq.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/gnw2y8.png)** %%
 V-31 "MOTHER"|Alana and Miria|Slopass|![](https://files.catbox.moe/7ze17c.gif)|%green% **[[CHUB LINK]](https://www.chub.ai/characters/Sull/alana-and-miria-7991651c/main) [[CATBOX LINK]](https://files.catbox.moe/f3se9c.png)** %%
-V-32 "UNREAL"|**[REDACTED]**|**[CLASSIFIED]**|Connection error|**DELAYED**
+V-32 "UNREAL"|Ichiban Kasuga|Camicle|![](https://files.catbox.moe/plaadm.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/rayon/ichiban-kasuga-acd377a8/main)** %%
 V-33 "CUMIN"|Bobby|GoreKitten|![](https://files.catbox.moe/72i5az.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/gi3rgz.png )** %%
 V-34 "CHEAT"|Kaito|Anxiousretard|![](https://files.catbox.moe/vm3nkd.gif)|%green% **[[CATBOX LINK]](https://files.catbox.moe/bb1x32.png)** %%
 V-35 "NEPTUNE"|Floppi|Rayon|![](https://files.catbox.moe/je12tb.gif)|%green% **[[CHUB LINK]](https://chub.ai/characters/granmarg/floppi-d561cae9/)** %%
@@ -62,8 +61,10 @@ V-45 "VILLAIN"|Zoe|Lacroix|![](https://files.catbox.moe/u2lzs3.gif)|%green% **[[
 
 ##Q&A
 ###Miscellaneous
+**Can I get a download for *all* the bots?**
+[Yes you can.](https://files.catbox.moe/qha2kb.zip)
 **The codename for my bot is just outright wrong!**
-The codenames were one-word hints at the request that was given for that particular bot. In some cases there wasn't much to go on, while in other cases they might focus on different parts of the request than actually got made. Some of them require multiple leaps of logic. They were not very good hints, but they were fun to make.
+The codenames were one-word hints at the request that was given for that particular bot some week before Valentine's Day. In some cases there wasn't much to go on, while in other cases they might focus on different parts of the request than actually got made. Some of them require multiple leaps of logic. They were not very good hints, but they were fun to make. Explanations for each can be found in the /aicg/ archives, but they may be unsatisfying.
 **Are you the anon who ran [/aicg/ Secret Santa 2023](https://rentry.org/botmakersecretsanta)?**
 No, the robo-saint is just inspired by our jolly friend.
 **Are you a botmaker?**

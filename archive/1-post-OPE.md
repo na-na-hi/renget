@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 251st time, what is Ope?!
+For the 252nd time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -14,7 +14,8 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=9aiuzVI35BQ
 
 \>Streams
-Next stream: Lethal Company Advent collab (Fri 02/16 8PM CT)
+Next stream (Lethal Company Advent collab, Fri 02/16 8PM CT)
+https://www.youtube.com/watch?v=T81BaUQx0G4
 Last members-only stream (after Valentine's mengen)
 https://www.youtube.com/watch?v=DGYGVBNyoI4
 Last public stream (Valentine's with Nerissa)
@@ -33,7 +34,7 @@ Cover of SOS (Fuyuko Mayuzumi's Image Song)
 https://www.youtube.com/watch?v=uwwK82MIxIY
 Archive of the struck down Moka - Lilium cover
 https://archive.ragtag.moe/watch?v=-GUdYPelG8c
-Unarchived pre-Valentine's (Feb 2024)
+Unarchived pre-Valentine's karaoke (Feb 2024)
 https://mega.nz/folder/Yn8kQApb#C6ofo8Ax1lsWwwHkYVdM0g
 Songs & Karaokes rentry
 https://rentry.org/karaokes_songs_v01
@@ -45,7 +46,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>69173487
+Previous thread: >>69207439
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

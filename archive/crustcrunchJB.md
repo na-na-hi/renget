@@ -1,8 +1,8 @@
 -> ![I LOVE PURIN!!!](https://files.catbox.moe/5pr4st.gif) <-
 # -> ![purin4evr](https://crustcrunch.neocities.org/pom.png) %#f590d5%♡%%%#f593d3%c%%%#f597d2%r%%%#f69bd0%u%%%#f69fcf%s%%%#f6a3ce%t%%%#f7a6cc%c%%%#f7aacb%r%%%#f7aeca%u%%%#f8b2c8%n%%%#f8b6c7%c%%%#f8bac6%h%%%#f9bdc4%'%%%#f9c1c3%s%% %#fac5c2%C%%%#fac9c0%l%%%#facdbf%a%%%#fbd0bd%u%%%#fbd4bc%d%%%#fbd8bb%e%% %#fcdcb9%2%% %#fce0b8%P%%%#fce4b7%r%%%#fde7b5%o%%%#fdebb4%m%%%#fdefb3%p%%%#fef3b1%t%%%#fef7b0%s%%%#fffbaf%♡%% ![pompompurinfan](https://crustcrunch.neocities.org/pompomfan.webp) <-
 ->%#baf1ff% ₊˚⊹⋆₊˚⊹♡ *send me a mail~* **crustcrunch@proton.me** ♡⊹˚₊⋆⊹˚₊%%<-
--> [%#f590d5%CHUB%%](https://www.chub.ai/users/crustcrunch) <-  | -> [%#f590d5%Neocities%%](https://crustcrunch.neocities.org) <- | -> [%#f590d5%Main Rentry%%](https://rentry.org/crustcrunch) <-  | -> [%#f590d5%Old Claude Jailbreaks%%](https://rentry.org/crustcrunchJB_old) <-  | -> [%#f590d5%GPT Jailbreaks%%](https://rentry.org/crustcrunchGPT) <-  | -> [%#f590d5%Fun Jailbreaks%%](https://rentry.org/crustcrunch_fun_JBs) <-
-| | | | |
+-> [%#f590d5%CHUB%%](https://www.chub.ai/users/crustcrunch) <-  | -> [%#f590d5%Neocities%%](https://crustcrunch.neocities.org) <- | -> [%#f590d5%Main Rentry%%](https://rentry.org/crustcrunch) <- | -> [%#f590d5%GPT Jailbreaks%%](https://rentry.org/crustcrunchGPT) <-  | -> [%#f590d5%Fun Jailbreaks%%](https://rentry.org/crustcrunch_fun_JBs) <-
+| | | | 
 
 
 -> ![rainbow](https://64.media.tumblr.com/940cfdbc655e8bf61cd46fcd81439e39/tumblr_inline_o9jf1jppjz1upt8h3_250.gifv) <-
@@ -11,7 +11,7 @@
 [%#baf1ff%~♡ Introduction%%](https://rentry.org/crustcrunchJB#introduction)
 [%#baf1ff%~♡ Claude AO3 Prompts%%](https://rentry.org/crustcrunchJB#claude-ao3-prompts)
 [%#baf1ff%~♡ Claude 2.1 Prompts%%](https://rentry.org/crustcrunchJB#claude-21-prompts)
-[%#baf1ff%~♡ <thinking> Claude 2 Jailbreak%%](https://rentry.org/crustcrunchJB#thinking-claude-2-jailbreak)
+[%#baf1ff%~♡ <thinking> Claude 2%%](https://rentry.org/crustcrunchJB#thinking-claude-2-jailbreak)
 [%#baf1ff%~♡ Changelog%%](https://rentry.org/crustcrunchJB#changelog)
 
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
@@ -103,7 +103,7 @@ Oh, a creative writing task? How exciting! Let me read the <description> first..
 -> ~♡~ <-
 
 #### %#f590d5%**AO3 Prompts - Anon's Edit:**%%
-An Anon on /aicg/ shared this edit of the AO3 prompt and gave me permission to post it here for others to access.
+A user shared this edit of the AO3 prompt and gave me permission to post it here for others to access.
 Download the .json of the prompt set [here.](https://files.catbox.moe/ti6wt8.json) There are some custom anti-filter system prompts included in there as well.
 Stay updated with this Anon's prompts on their neocities: https://unconvincing.neocities.org/
 
@@ -534,18 +534,6 @@ Top P: 1
 	- An anon emailed to inform me my regex script wasn't working, so I updated it.
 - 10/25/23:
 	- Added Thinking Claude 2 Jailbreak
-- 10/19/23:
-	- Added a new jailbreak including a Main Prompt and new settings.
-- 8/22/23:
-	- Fixed my wacky formatting so now it's easier to copy/paste.
-- 8/12/23:  
-    - Changed the dash in the prefill to a colon.
-    - Changed "When I write BEGIN DIALOGUE you will enter this role, and all further input from the "Human:" will be from {{user}}." to "When I write BEGIN DIALOGUE you will enter this role and continue the roleplay."
-    - Converted numbered lists to bullet lists for easier editing.
-    - Updated token counts
-- 8/9/23: 
-	- Published rentry. 
-	- Added the "Pozzed Keys" section.
 
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 
