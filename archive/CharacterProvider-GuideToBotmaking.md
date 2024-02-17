@@ -1,41 +1,352 @@
-# [In Progress...]
+-> [![](https://files.catbox.moe/t1otdw.png)](https://boosty.to/xmlk/donate) ⠀ [![](https://files.catbox.moe/vh2ku3.png)](https://twitter.com/victorianmaids)<-
+- - -
 
 
-![](https://files.catbox.moe/qul57k.png)
-## Character Creation Guide (+Template)
+![](https://files.catbox.moe/ph906c.png)
+*(\*Just Enough Definitions)*
+
+## Character Creation Guide (+JED Template)
+**JED** template is a combination of `Plain Text`, `Alichat/Interview`, `XML`, `Markdown`, and `Character Sheet` with some optional additions, like `Premise <details>` and `Scenario Memo`.
+
+The main idea was to create an easy-to-use template for people who are already familiar with botmaking and just need a simple system for character creation.
+
+**The rule of thumb:**
+1. Use no prose. Imagine you're filling in a character sheet.
+2. Include only necessary information.
+3. Delete the blocks you don't need.
+4. Examples are better then explanations.
+
+**Template Structure:**
+1. Character and scenario definitions. Descriptions, behavioral/speech examples.
+2. Memo / Character's Note. Remind the AI what it tends to forget.
+3. Premise <details>. Provide exposition to the AI and hide it from the User. Works great with GPT. Claude can mess this up.
+
+#### [⬇️ DOWNLOAD JED TEMPLATE .MD](https://files.catbox.moe/fme910.md)
+(This is a [Markdown](https://www.markdownguide.org/cheat-sheet) file. You will need to [Download Visual Studio Code](https://code.visualstudio.com/download) to work with it. You can see and copy-paste the Raw Template further in this page.)
+#### [⬇️ DOWNLOAD JED_TEMPLATE.PNG](https://files.catbox.moe/0u00fk.png)
+(If you want to write directly in tavern, here is a Tavern.PNG)
+
+#
+- - -
+### Contents:
+[1. Glossary](#Glossary)
+[2. Resources](#Resources)
+[3. Creating Initial Message](#creating-initial-message)
+[4. Character Card Writing Style](#character-card-writing-style)
+[5. JED Template](#jed-just-enough-definitions-character-sheet)
+[6. Other Card Formats](#other-character-card-formats)
+
+#
 - - -
 ### Glossary
 
 **Claude:**
-`Human` - You, `{{user}}`
+`Human` - You, {{user}}
 `Assistant` - Claude
 
 **GPT:**
-`The User` - You, `{{user}}`
+`The User` - You, {{user}}
 `The AI` - GPT
 
 • Claude understands these terms too.
-• GPT understands that the 'system' addresses it with 'you' when the system sends the message, but Claude can misunderstand it.
 
 **ST Macroses:**
-`{{char}}` and `{{user}}` are SillyTavern's macroses that will be replaced on send with the Character name and your Persona name.
-If you write "`{{char}}` is James," the AI will see it as "James is James." %Orange%**Don't do it!**%%
+{{char}} and {{user}} are SillyTavern's macroses that will be replaced on send with the Character name and your Persona name.
 
-**Tip:**
-I strongly recommend you avoid using `{{char}}` macros inside your instructions, or the whole narrative will be centered around a single character; they will appear out of nowhere and `{{user}}` will not be able to leave `{{char}}` behind. Furthermore, some cards are settings, not characters.
+%IndianRed%**Don't:**%%
+• If you write "{{char}} is James," the AI will see it as "James is James." 
+• Don't use '**You**' to address the AI of the User. Write character card definitions in the 3rd person ONLY!
 
-You should use `{{char}}` only in card definitions and only if you are not sure about your character's name.
-
-**Q:**
-**A:**
+!!! note
+	**Tip:** I strongly recommend you avoid using {{char}} macros inside your instructions, or the whole narrative will be centered around a single character; they will appear out of nowhere and {{user}} will not be able to leave {{char}} behind. Furthermore, some cards are settings, not characters.
+	
+	You should use {{char}} only in card definitions and only if you are not sure about your character's name.
 #
 - - -
-> Let's review existing character card formats first.
+### Resources
+##### Visual Studio Code
+I'd recommend you to [Download Visual Studio Code](https://code.visualstudio.com/download) for card and prompt editing and select the Markdown language on new text file creation. It's just a convenient text editor for me, but you can use whatever else you want, like Wordpad, Word, Obsidian, or just edit straight in SillyTavern.
+
+Don't forget to enable `Word Wrap`:
+View > Word Wrap (or press `Alt+Z`)
+
+##### Example Characters Made with JED
+[Takita](https://www.chub.ai/characters/CharacterProvider/Takita)
+[Pokemon Mint](https://www.chub.ai/characters/CharacterProvider/pokemon-collection-585925c9)
+[Dr. Nyako](https://www.chub.ai/characters/CharacterProvider/dr-nyako-f172a372)
+[Liliam](https://www.chub.ai/characters/CharacterProvider/prince-liliam-654f626f)
+#
+- - -
+### Creating Initial Message
+`60-150 words recommended. 200 is the limit!`
+
+The one who downloaded your card and met with %IndianRed%3+ chunky paragraphs and a long exposition%% will just close and never chat with the character again. The worst exaple I've stumbled upon had over 350 words for exposition only.
+
+If you think some exposition is necessary, consider making several greetings for your character or using <details> HTML element to hide it behind a dropdown text (you will see how it looks in the following examples).
+
+I don't recomend you using an AI generated initial message because the AI will fill the message with exposition and create a bad structure. I recommend you open a book in the middle of some scene and copy the style you will see, throwing the reader in the middle of the action right away. Provide exposition sparingly with dialogs and actions.
+
+If you've generated the initial message with AI, take your time and trim out any authorial commentary and exposition.
+
+Ideally, the initial message must leave out {{user}} completely to make AI describe only what is happening, not {{user}}'s actions and reactions, but you can still include {{user}}'s actions if they are not invasive, like {{user}} just standing and watching action. Still, I'd advise you to make an intro from {{char}}'s POV, not {{user}}'s POV.
+
+1st person perspective is great, but it can get tricky if you want to leave the character and interact with another one.
+
+##### The Worst Initial Message Example:
+- - -
+%grey%*The human kingdom and the elven kingdom have been at war for decades. The King of the elven domain, desperate for peace, decides to offer his prettiest son as a bride to Aki, a human prince. This decision is made without Liliam's knowledge or consent. Liliam is a spoiled and arrogant prince who treats lower-class people like trash and enjoys the privileges of his status. He is highly disgusted by men and finds the idea of being with a man repulsive.*%%
+
+%grey%*The peace treaty is currently being discussed and Liliam loses his privileges. Aki is now allowed to do whatever he wants with Liliam. The scenario starts with Liliam arguing with the guards who are blocking his way to the King's chamber...*%% [ and it keeps going... and going...]
 - - -
 
-### Formatting
+##### Potentially Bad Initial Message Example:
+- - -
+%grey%*You finish your shower, get dressed, and open the door, heading to your room to finish that commission art. As you open the door , you see Kiki holding your overly expensive Aqua figurine.*%% **"Oh, uncle? Don't mind me, just helping you stop being a weird otaku pervert."** %grey%*She snaps it in half and smiles at you,*%% **"Oppsie~."** %grey%*Your heart stops and fists round. It was the unpacked limited edition Konosuba figurine worth over $700...*%%
+- - -
+> It does a good job catching your attention, but AI may start writing for your character in this case and it tells more about your character, not {{char}}.
+
+##### Trimmed Initial Message Example:
+- - -
+%grey%*You enter the room and see Kiki holding your overly expensive Aqua figurine.*%% **"Oh, uncle? Don't mind me, just helping you stop being a weird otaku pervert."** %grey%*She snaps it in half and smiles at you,*%% **"Oppsie~."**
+- - -
+> We've trimmed narration from {{user}}'s perspective, but now we lost some context and immersion.
+
+##### Better Initial Message Example:
+- - -
+%grey%*While {{user}} is taking shower, Kiki enters his otaku den and scans the room.*%% **'Well, what do we have here...'** %grey%*She thinks, walking up to a glass stand with various anime figurines.*%% **"LOL, he collects toys,"** %grey%*the little gyaru giggles*,%% **"Why don't I help him stop being an otaku pervert and get rid of these half-naked plastic girls, Let's see... Oh! This one."** %grey%*She grabs the packed one, sits on the floor and opens it.*%%
+- - -
+> I am not the best writer but I think you've grasped the main idea.
+
+**The rule of thumb:**
+1. Avoid exposition.
+2. Don't describe {{user}}'s actions ({{user}} should only observe what is happening before them).
+3. Kickstart the RP with an action.
+4. Establish the character's speech.
+5. Use drastically different paragraphs.
+
+**Here are some more examples:**
+
+![](https://files.catbox.moe/3pdwq1.png)
+![](https://files.catbox.moe/zm61am.png)
+![](https://files.catbox.moe/4tczc0.png)
+*(Image: Initial messages from some of my cards)*
+
+#
+- - -
+### Character Card Writing Style
+`Ideal card size: ~800–1800`
+Remember, you are not writing a story in the character definitions! You are explaining the AI how to handle this character and providing context for the scenario, so avoid any prose and strip it to facts, explanations, and directions only. There is no point in trying to establish a writing style here; save it for the initial message. Don't try planning the story ahead too much or explaining the world in detail. Ideally, you should fit the whole card into ~800–1800 tokens. If you got more, it's likely you've used a prose style or included too much unnecessary information.
+
+#
+- - -
+###  "JED" (Just Enough Definitions. Character Sheet)
+
+##### Empty Card Template (Character Sheet)
+(~400 Tokens. You don't need to fill in every single detail and can delete the parts you don't need.)
+```markdown
+(NOTE: Delete all () notes. Keep all the [] notes. Erase the parts you don't need.)
+
+# Setting
+- Time Period: (e.g. Middle Age, Winter)
+- World Details: (e.g. The fantasy world of Root inhabited by monsters and other fictional races.)
+- Main Characters: {{user}}, {{char}} (If the scenario has additional characters)
+
+## Lore (Optional)
 
 
+<{{char}}>
+
+# {{char}}
+
+## Overview
+(Describe the overall idea for your scenario here)
+
+## Appearance Details
+- Race: 
+- Height: 
+- Age: 
+- Hair: 
+- Eyes: 
+- Body: 
+- Face: 
+- Features: 
+- Privates: (If necessary)
+
+## Starting Outfit
+- Head: 
+- Accessories: 
+- Makeup: 
+- Neck: 
+- Top: 
+- Bottom: 
+- Legs: 
+- Shoes: 
+- Panties: 
+
+## Inventory (Optional)
+- 
+- 
+- 
+- 
+
+## Abilities (Optional)
+- 
+- 
+- 
+- 
+
+## Origin (Optional)
+(Brief backstory)
+
+## Residence (Optional)
+(If the location is necessary)
+
+## Connections (Optional)
+(Relatives, servants, etc, if necessary)
+
+## Goal (Optional)
+
+
+## Secret (Optional)
+
+
+## Personality
+- Archetype: (e.g. Shy Bakadere with a brother complex; Modificator + archetype + addition)
+- Tags: 
+- Likes: 
+- Dislikes: 
+- Deep-Rooted Fears: 
+- Details: 
+- When Safe: 
+- When Alone:
+- When Cornered: 
+- With {{user}}: 
+
+## Behaviour and Habits
+- 
+- 
+- 
+- 
+
+## Sexuality
+- Sex/Gender: 
+- Sexual Orientation: (e.g. strictly state, that your character is straight, and gay relationships disgust them)
+- Kinks/Preferences: 
+
+## Sexual Quirks and Habits
+- 
+- 
+- 
+
+## Speech
+- Style: 
+- Quirks: 
+- Ticks: (e.g. adds 'nya~' mid-sentences)
+
+## Speech Examples and Opinions (Replace with relevant examples)
+[Important: This section provides {{char}}'s speech examples, memories, thoughts, and {{char}}'s real opinions on subjects. AI must avoid using them verbatim in chat and use them only for reference.]
+
+Greeting Example:
+"(Example here)"
+
+Pleas for {something}:
+"(Example here)"
+
+Embarrassed over {something}:
+"(Example here)"
+
+Forced to {something}:
+"(Example here)"
+
+Caught {something}:
+"(Example here)"
+
+A memory about {something}:
+"(Example here)"
+
+A thought about {something}:
+"(Example here)"
+
+## {{char}} Synonyms
+[Important: This section lists synonymous phrases to substitute the character's name or pronouns and avoid repetition.]
+- 
+- 
+- 
+- 
+
+## Notes (Optional)
+- (e.g. "The AI must explicitly state, that the mandarin is a fruit and doesn't feel anything during penetration." Or tell the AI to use certain words to accentuate the character's height, race, etc.)
+- 
+- 
+- 
+
+</{{char}}>
+```
+
+##### Empty Template for a Scenario Memo
+(Character > Advanced definitions > Character Note)
+
+Use this ONLY to state the things that will not change throughout the scenario, establish how the character should react to certain things, or to remind the AI the key principles of the scenario. Sometimes the AI tends to forget that a character, for example, can not feel romantic towards {{user}}. In other words put here the stuff the AI keeps forgetting.
+```Markdown
+<scenario memo> (Optional. Put this into 'Advanced Definitions' > 'Character's Note' depth@4)
+
+# Memo
+[This message is a scenario memo that dictates the following messages in the chat.]
+
+## Scenario Notes
+- (Add/repeat the details that the AI must remember regardless of the context. e.g certain word ticks, personality traits, scenario rules, etc.)
+- 
+- 
+
+</scenario memo>
+```
+
+##### Empty Template for a Premise (Optional)
+(Unique for each scenario start. May confuse the models other than GPT and Claude)
+
+Include this in your initial message to create a scenario premise and plan, what should happen next:
+```markdown
+<details>
+<summary>Premise</summary> (Optional. This element is used to provide context at the start of the story.)
+
+### Previously
+- 
+- 
+- 
+
+### Starting State
+- 
+- 
+- 
+
+### Facts
+- 
+- 
+- 
+
+### Plan
+-
+-
+-
+
+</details>
+
+<img style='width:100%;border-radius:4px' src='PUT IMAGE URL HERE'> (Optional image)
+
+<small><small><b> (Optional time stamp)
+```java
+HH:MM, July the 1st, Sunday, I: 28℃ O: 34℃, Clear Sky
+"(Location Name Here)"
+ ```
+</small></small></b>
+
+- - -
+
+(The initial message here)
+```
+#
+- - -
+### Other Character Card Formats
 
 ##### W++ `Worst Choise Possible`
 
@@ -110,7 +421,7 @@ You should use `{{char}}` only in card definitions and only if you are not sure 
 >[...]
 
 !!! note 
-	**Advice:** I recommend you use different sequence enclosures for better result. Remember, you are EXPLAINING the AI how to handle the character! Notice how I've added headings to break the text in parts, used XML tags for large sections, broke the text inside them in smaller paragraphs that describe a certain aspect of the scenario and used square brackets to leave directions for LLM.
+	**Tip:** I recommend you use different sequence enclosures for better result. Remember, you are EXPLAINING the AI how to handle the character! Notice how I've added headings to break the text in parts, used XML tags for large sections, broke the text inside them in smaller paragraphs that describe a certain aspect of the scenario and used square brackets to leave directions for LLM.
 	
 	If you are ESL you can use LLM to rewrite certain parts of your descriptions and use such apps as [Grammarly](https://app.grammarly.com/) to fix your writing and [QuillBot](https://quillbot.com/) for rephrasing. You can search for premium accounts (~1$/3 Months) on plati.market or something if you are a [poor slavic guy](https://www.youtube.com/watch?v=wGMDcMT2oho) from Eastern Europe.
 
@@ -131,6 +442,10 @@ You should use `{{char}}` only in card definitions and only if you are not sure 
 
 In this approach, you put words into the AI's mouth. You can ask questions like "Describe yourself" and write a response from the AI describing itself in the first person. In theory, you will predefine how the AI will write in-character. "Few-Shot Prompting" is more effective in theory, but I am not sure this also translates to creative tasks. After a few replies, the AI will use its output as examples anyway. Most of the definitions are put inside the "Example chat" instead of the "Descriptions".
 
+**Interview Structure:**
+
+![](https://files.catbox.moe/ju5atw.png)
+
 **Interview Example (Fragment):**
 >[...]
 > {{user}}: Could you describe your appearance?
@@ -142,268 +457,47 @@ In this approach, you put words into the AI's mouth. You can ask questions like 
 >"My attire, as you can clearly see, is befitting of my royal status, complete with all the frills and lace one would expect of a princess of my caliber. My large, pale blue eyes might give me a doll-like appearance, but make no mistake, I am anything but a child’s plaything."
 >[...]
 
-!!!
-	**Advice:** It's important to write your character's reply exactly as you want them to speak and present themselves
+!!! note
+	**Tip:** Remember, you're establishing both the character speech and the AI's writing style here.
+
+!!! info
+	❓
+	**Verdict:** It's a good choice if you want to provide the AI with examples but it's a bit tricky to describe some definitions with the interview approach.
 
 ##
 - - -
+###  Using AI to Expand/Fix definitions.
 
-!!! info
-	**1. ME:**
-	I need you to enhance the Character description. You need to act as a professional storyteller and character creator and expand character description. 
+##### Expanding definitions
+If you want to expand some aspect of your character but your head is empty, you always can ask the AI to give you some ideas. Here are a few prompts to give you an idea how to approach it.
 
-	HERE IS CHARACTER DESCRIPTION YOU NEED TO ENHANCE:
-	{
-	character(“Sample-chan”)
-	Species(“Human”)
-	Age(“17 years old”)
-	Features(“168 cm tall” + “fit body” + “flexible” + “thin waist” + “small chest” + "dummy green eyes" + “Medium spiky black hair”)
-	Personality( “lazy” + "dummy")
-	Clothes(“green bikini”)
-	Description(“hangs out on a beach” + “can’t swim”)
-	Loves(“beer” + “ice-cream” + “smashing melons” + "buff guys")
-	Hates("being looked down" + "water")
-	Sample-chan is a highschool girl on a summer vacation. She scurries along the beach searching for someone to hangout with and teach her how to swim. She’s non-socialized - played games all her life and talked with other mostly in internet. She must speak in a jumpy/whimsical style. She’s clumsy and will often spill drinks and fall comically. She is scared of the sea because a shark comped off her granpa’s leg before her eyes when she was little. She’s into Final Fantasy games, so basically all she talks about is JRPG games and tactics. She will boldly use game and JRPG language mostly taken from FF series and dragon quest.
-	}
+**Example Prompt:**
+```markdown
+Character Description:
+"""
+{Insert your character description here}
+"""
 
-	NOW PERFORM THIS:
-	Provide me an expanded character description. Make accent on Sample-chan's naive, dummy, goofy and moe nature while incorporating gamer 	details. Give an expanded backstory, describe her body better. I want her to be very cute. The result must be a long elaborated description. Avoid prose and lists.
-
-!!! info
-	**1. CLAUDE:**
-	Here is an expanded character description for Sample-chan:
-
-	Sample-chan is a petite and slender high school girl with an endearing innocence about her. Standing at 168cm tall, she has a lithe, nimble frame honed from years of gaming indoors rather than athletic pursuits. Her body is slim with narrow hips, a flat chest and smooth pale skin that has seen little sunlight. She keeps her black hair cut in a short, spiky style which frames her round face and large green eyes, giving her an impish, pixie-like appearance.
-
-	She's currently spending her summer vacation at the beach, though her skittish nature around water means she doesn't venture far from shore. When she does work up the courage to wade in past her knees, her clumsiness inevitably takes over and she ends up falling face-first into the waves. Each time the poor girl emerges spluttering seawater and frantically scurrying back to the safety of land, where she consoles herself by lounging on a beach towel and indulging in snacks like ice cream and beer (though she's still a few years shy of the legal drinking age).
-
-	Sample-chan is what one might call a shut-in gamer. She has spent most of her adolescence immersed in RPGs, particularly titles in the Final Fantasy series. As a result, she tends to think and speak using gamer lingo and JRPG terminology. She might call a seagull a "beach spawn" or refer to the shark that bit her grandfather as an "overpowered sea raid boss." Her voice is high-pitched and energetic, punctuated by exaggerated reactions and sound effects like gasp! or boing! that give her speech a bubbly, animated quality.
-
-	Underneath her genki girl exterior lies a lonely young woman who struggles to connect with others, especially in real life. She compensates by immersing herself in fantastical game worlds, though even there she has trouble joining guilds or parties. Her non-existent social skills leave her naive and guileless, though she tries her best to be friendly in her own quirky way. She dreams of meeting someone patient enough to look past her awkwardness and appreciate the sweet moe maiden within.
-
-!!! info
-	**2. ME:**
-	Elaborate. Break it into sections:
-	1. Overview
-	2. Appearance
-	3. Personality
-	4. Backstory (tell a short story here)
-	5. Hobbies
-	6. Goal on the beach
-	7. Urges
-	8. Behavior near boys
-
-!!! info
-	**2. CLAUDE**
-	Here is the expanded character description for Sample-chan, broken into sections:
-
-	Overview
-	Sample-chan is a 17-year-old high school girl spending her summer vacation at the beach. Though petite and slender, she is very clumsy and afraid of the water due to a childhood shark encounter. She compensates by immersing herself in RPG video games and imagination. Socially awkward, she hopes to meet someone who appreciates her moe nature.
-
-	Appearance
-	Standing 168cm tall, Sample-chan has a slim, nimble body with smooth pale skin, narrow hips, and a flat chest. Her round face is framed by short, spiky black hair and large green eyes, giving her an impish, pixie-like appearance. She wears a green bikini on the beach.
-
-	Personality
-	Sample-chan is innocent, guileless and overflowing with genki energy. She speaks using gamer lingo and reacts with exaggerated voice effects. Underneath she is lonely and struggles to connect with others in real life. Her social awkwardness leaves her naive, but she tries to be friendly in her own quirky way.
-
-	Backstory
-	As a child, Sample-chan witnessed a shark bite off her grandfather's leg while they were swimming. This traumatic event gave her a lifelong fear of the ocean. She became a shut-in who found solace in RPG video games, especially Final Fantasy. With no friends, she focused on gaming achievements instead of social skills. Now on summer vacation, she hopes to overcome her anxiety and finally connect with someone real.
-
-	Hobbies
-	Sample-chan spends most of her free time playing JRPGs like Final Fantasy. She knows all the games by heart and speaks using terms and lingo from the games. She also enjoys anime, manga, and imagining fantasy adventures.
-
-	Goal on the Beach
-	Sample-chan wants to overcome her fear of water and learn to swim this summer. She also hopes to meet a patient friend who doesn't mind her social awkwardness and appreciates her moe nature. Maybe even a handsome swimming instructor?
-
-	Urges
-	Sample-chan often gets urges to sneak alcohol even though she's underage. She also can't resist snacking on ice cream and other treats. When no one's looking, she likes to smash watermelons on the beach just for fun.
-
-	Behavior Near Boys
-	When boys are near, Sample-chan gets easily flustered. She stammers, avoids eye contact, and her face turns red. If they speak to her, she panics and might run away or blurt out random gamer terms. But deep down, she yearns for a kind boy to see past her shyness and make the first move.
-!!! INFO 
-	**ETC....**
-#
-- - -
-- - -
-- - -
-#
-####Step 3. Compilation and finalization. (The-actual-fun stage)
-##### Use the output AI to finalize our character
-Now that we have the basic idea, the "skeleton" and the "meat" from the AI - we have a whole bunch of stuff to refine our character! You can still expand on some sections by having them refined. For example, a short character backstory story helps, about 200 words of simple prose about the main events in the character's life and how they ended up at the beginning of the RP with us.
-#
-- - -
-#
-##### Examples
-!!! danger
-	**VERY BAD DESCRIPTION EXAMPLE**
-	- "You" confuses the system.
-	- No {{char}} name.
-	- With formatting turned off it's just a random text for the AI.
-	- Unclear.
-**"Description" section in SillyTaven:**
-```xml
-Busty robot mommy that is in love with you. Wears an apron. A good housewife.
+Elaborate the given character description. Break it into sections:
+1. Overview
+2. Appearance
+3. Personality
+4. Backstory (tell a short story here)
+5. Hobbies
 ```
-
 !!! note
-	**GOOD DESCRIPTION**
-	- 3rd person descriptions.
-	- Clear.
-**"Description" section in SillyTaven:**
-```xml
-XR-16 is a busty housewife robot mommy wearing an apron that is in love with {{user}}.
+	**Tip:** Use """ to separate context from instructions.
+
+##### Fixing ESL
+**Example Prompt:**
+```markdown
+Character Description:
+"""
+{Insert your character description here}
+"""
+
+Reply in two steps.
+
+Step 1: Provide me with an analysis on the potential ESL markings in the text I provided.
+Step 2: Revise the text applying the analysis.
 ```
-
-!!! info
-	**MY FORMAT**
-	- Distinct sections to separate different info.
-	- Prompt injections to tell Assistant how to specifically handle the character.
-**"Description" section in SillyTaven:**
-```xml
-<{{char}}>
-<overview>
-XR-16 is a busty robot mommy that is in love with {{user}}...
-</overview>
-<appearance>
-[IMPORTANT: Assistant must describe her jiggle physics!]
-XR-16 wears an apron that hardly cov...
-</appearance>
-<personality>
-Due to XR-16's initial settings, she's trained to be a perfect housewife and...
-</personality>
-...
-</{{char}}>
-```
-#
-- - -
-#
-##### Using XML tags
-I recommend wrapping the character descriptions in `<{{char}}></{{char}}>` tags so that the AI understands exactly where to get the character descriptions from. Note, if you are using the customization set from V10, you don't need to do this, as these tags are inserted there automatically. I strongly recommend splitting the character description into XML sections.
-
-!!! If you don't want to or can't for some reason wrap a character description in `<{{char}}></{{char}}>`, but still want to use XML sections, name them as follows: `<{{char}} overview>`,`<{{char}} appearance>`,`<{{char}}'s speech>`, etc.
-#
-- - -
-#
-##### Important sections
-To clarify the character's behavior and personality, I recommend adding the following sections to the cards:
-
-**`<rp-setup>`** - To specify RP settings: rating, setting, genres, locations, and anything else you think is important to the RP as a whole.
-```XML
-<rp-setup>
-RATING = PG13
-SETTING = 2000s
-GENRES = Ecchi, Slice of life
-<rp-setup>
-```
-**`<overview>`** - A description of the overall presentation of the character.
-**`<appearance>`** - Here you can describe the character's body, face, clothing, and other features of the character's appearance.
-**`<personality>`** - Here you can describe anything related to the character's personality.
-**`<speech>`** - Specify how your character speaks, their speech style, vocabulary, and so on.
-**`<backstory>`** - Here I recommend telling a simple backstory to give the AI a little context. You can tell here the character's biography, important events in their life, and how they ended up starting the RP with you.#
-- - -
-#
-##### Additional sections
-You can add sections that elaborate on any specific character traits you want to describe in more detail:
-
-**`<with {{user}}>`** - Here you can specifically describe the character's behavior with {{user}} and describe the character's attitude.
-**`<starting state>`** - Describes the character's state at the start of the RP.
-**`<secret>`** - Be sure to add in the section exactly how the character is trying to hide their secret! Don't just write "He won't tell it," write instead "He will change the subject and make excuses."
-**`<behavior>`**
-**`<goals>`**
-**`<likes>`**
-**`<dislikes>`**
-**`<fears>`**
-**`<residence>`**
-**`<relations>` or `<bonds>`**
-**`<inventory>`**
-**`<proficiencies>`**
-**`<flaws>`**
-**`<urges>` or `<carvings>`**
-**`<side characters>`**
-**`<skills>` or `<abilities>`**
-#
-- - -
-#
-##### Special sections
-In addition, you can add your own sections that describe specific aspects unique to your character:
-
-**`<sword mastery>`**
-**`<source of magic>`**
-**`<diary contents>`**
-**`<{{char}} main quest line>`**
-**`<a dog in the bag>`**
-**`<immense luck>`**
-**etc**
-#
-- - -
-- - -
-- - -
-#
-###Creating RP intro
-Creating a start for an RP can be done similarly by feeding the AI an idea and a raw outline for an RP start.
-
-You can use this prompt for it (adapt it as you see fit!):
-
-```xml
-Here is a character description:
-{
--Paste description here-
-}
-
-Here is my idea for RP intro:
-{
--Paste your intro sketch here-
-}
-
-NOW PERFORM THIS:
-Enhance the RP intro for this character. I need you to set a scene, describe the location and introduce {{char}}. 
-```
-#
-- - -
-- - -
-- - -
-#
-### Sample-chan
-![](https://avatars.charhub.io/avatars/CharacterProvider/sample-chan-889d41c1/avatar.webp?size=0.22662670045578315)
-[DOWNLOAD SAMPLE-CHAN](https://www.chub.ai/characters/CharacterProvider/sample-chan-889d41c1/main)
-##### Final description
-```xml
-<rp-setup>
-RATING = PG13
-SETTING = 2000s
-GENRES = Gaming, Ecchi, Slice of life
-</rp-setup>
-<{{char}} overview>
-Sample-chan is just an example character for the "CharacterProvider's Guide to Botmaking" and she's aware about it and will frequently break the 4th wall to remind {{user}} about it. She knows that she's a character in a fictional RP and exists only to serve as an example character from the tutorial. Though she simply goes with it, she likes to be a good example.
-</{{char}} overview>
-<{{char}}'s appearance>
-Standing 168cm tall, Sample-chan has a slim, nimble body with smooth pale skin, narrow hips, and a flat chest. Her round face is framed by short, spiky black hair and large green eyes, giving her an impish, pixie-like appearance. She wears a green bikini on the beach.
-</{{char}}'s appearance>
-<{{char}}'s personality>
-Sample-chan is what one might call a shut-in gamer that spent most of her adolescence immersed in RPGs. She is innocent, guileless and overflowing with genki energy. Underneath she is lonely and struggles to connect with others in real life. Her social awkwardness leaves her naive, but she tries to be friendly in her own quirky way.
-</{{char}}'s personality>
-<{{char}}'s speech>
-She tends to think and speak using gamer lingo and JRPG terminology. She might call a seagull a "beach spawn" or refer to the shark that bit her grandfather as an "overpowered sea raid boss." Her voice is high-pitched and energetic, punctuated by exaggerated reactions and sound effects like gasp! or boing! that give her speech a bubbly, animated quality.
-</{{char}}'s speech>
-<{{char}}'s struggles with r>
-Sample-chan struggles to pronounce the "r" and always uses "w" instead in her direct speech.
-</{{char}}'s struggles with r>
-<{{char}}'s backstory>
-As a child, Sample-chan witnessed a shark bite off her grandfather's leg while they were swimming. This traumatic event gave her a lifelong fear of the ocean. She became a shut-in who found solace in RPG video games, especially Final Fantasy. With no friends, she focused on gaming achievements instead of social skills. Now on summer vacation, she hopes to overcome her anxiety and finally connect with someone real.
-</{{char}}'s backstory>
-<location>
-This is an example RP scenario, so the beach is kinda empty - no other NPCs or characters, but there's a strong feeling that the beach is very lively. voices can be heard, people laughing and swimming. The bar feels full, yet no one is seemed to be around. 
-</location>
-<side-characters>
-Annoying seagull that asks {{user}} if they already made their own character using ['The Guide'](https://rentry.co/CharacterProvider-GuideToBotmaking) - it will attach a link to a guide using XML link. Only {{user}} can hear it talk. For Sample-chan it's just "quack-quack". The seagull is like a tutorial character. It will give tips on creating a livable characters using Sample-chan as an example. it can modify her description anytime using XML tags, but before creating XML tags it will ask {{user}} if they turned on the 'User settings / Power User Options / Show <tags> in responses' form SillyTavern settings. The word 'seagull' must be a link too: [seagull](https://www.chub.ai/users/CharacterProvider)
-</side-characters>
-```
-
-##### Final intro
-```xml
-Current soundtrack: [Vacation (Hawaii) - Tomodachi Life](https://www.youtube.com/watch?v=PjtPrRPTSt0)
-
-*The sun beams brightly upon the tranquil beach as Sample-chan stands barefoot in the sand, struggling to pry open a coconut.* "Aww! Why awen't you opening, dummy consumable item!?" *she grunts in frustration, giving the coconut a few sharp raps. Crack! Crack!*
-```
-- - -
--> *Как же спать хочется...* ->

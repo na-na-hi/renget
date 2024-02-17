@@ -134,7 +134,7 @@ Ethereum: `0x2e03212e147287aa2a67c7cfd5286f24779f0b42`
 Contact us [here](https://t.me/firehawk52official) if you have accounts from any of these countries (crossed-out countries are in collection, but still very much appreciated): 
 
 **Oceania:** ~~Australia, or New Zealand~~
-**Europe:** ~~Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Luxembourg, Netherlands, Norway, Portugal, Spain,~~ Sweden, ~~Switzerland, or United Kingdom~~
+**Europe:** ~~Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, or United Kingdom~~
 **North America:** ~~Canada, Mexico, or United States of America~~
 **South America:** ~~Argentina, Brazil, Chile, or Colombia~~
 
@@ -178,6 +178,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ->![Norway/Norge](https://files.catbox.moe/fqqzdt.png)<- | 2024-03-12 | `2908295` | `Bny6-7jTVSOByrTIWmbqyc2BgugXFoCl6oSFiRmimduYa4XTG24zCuDideUL13LI8qE0llObmKdRJ5BP4DPM3w`|
 ->![Portugal](https://files.catbox.moe/4lpb4t.png)<- | 2024-03-12 | `2908311` | `zFx-KrVNp5DWxWKpt18pU9YeLCijqvGeYkpriy4k1TKYa4XTG24zCuDideUL13LI8qE0llObmKdRJ5BP4DPM3w`|
 ->![Spain/España](https://files.catbox.moe/rapw3d.png)<- | 2024-03-12 | `2908103` | `MSrG4WVjtMPBrCiayQ4OELZ3lxeQrpmHVuQSs9ONJ_6Ya4XTG24zCuDideUL13LI8qE0llObmKdRJ5BP4DPM3w`|
+->![Sweden/Sverige](https://files.catbox.moe/u7pf3y.png)<- | 2024-03-12 | `2908482` | `mQ7Qk4qcLpPQOaxDj7lqIwMhTEfr8ib8tGJ9R0r6sX9J7-kMzwzMSuQa19WG3JKULP7eBRlZgYybUYB56Aa83w`|
 ->![Switzerland/Schweiz/Suisse/Svizzera/Svizra](https://files.catbox.moe/4se453.png)<- | 2024-03-12 | `2908184` | `cBswWuTRllM0am4nwMUUzn0ibdmr9HF6rnV258GEY76Ya4XTG24zCuDideUL13LI8qE0llObmKdRJ5BP4DPM3w`|
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | 2024-03-12 | `2908325` | `DsBaBFBgzCA8hY28Uw-i4h5rvLo_Hp-QLd01LF0AVjSYa4XTG24zCuDideUL13LI8qE0llObmKdRJ5BP4DPM3w`|
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | 2024-07-24 | `2602012` | `LFvxYzPwvq1svg8Ue07iXGK5XTeHvXccbY-RL6GpPUvf6ZtPfH1YnKgsAHDQrBy95c122DUH2JsdXP2idsRy7A`|
@@ -200,12 +201,12 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 
 Contact us [here](https://t.me/firehawk52official) if you have accounts from any of these countries (crossed-out countries are in collection, but still very much appreciated): 
 
-**Africa:** Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bussau, Kenya, Lesotho, Liberia, Libya, Madagascar, Mali, Mauyritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, São Tomé and Príncipe, Senegal, Seychelles, Sierra Leone, Somalia, ~~South Africa~~, Swaziland, Tanzania, The Comoros, The Ivory Coast, Togo, Tunisia, Uganda, Zambia, or Zimbabwe 
-**Asia:** Afghanistan, Amernia, Azerbaijan, Bahrain, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei, Cambodia, Cyprus, East Timor, Georgia, Indonesia, Iraq, Israel, ~~Japan~~, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Mongolia, Nepal, Oman, Pakistan, Saudi Arabia, Singapore, Sri Lanka, Pakistan, Tajikistan, Thailand, the Maldives, the Philippines, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, or Yemen
-**Oceania:** Australia, Christmas Island, Cocos Islands, Cook Islands, Federated States of Micronedia, Fiji, Kiribati, Marshall Islands, Nauru, ~~New Zealand~~, Palau. Papua New Guinea, the Pitcairn Islands, Samoa, Vanautu, the Solomon Islands, Tokelau, Tonga, or Tuvalu
-**Europe:** Albania, ~~Austria~~, Belgium, Boznia and Herzegoniva, Croatia, Czech Republic, ~~Denmark~~, Estonia, Finland, ~~France~~, ~~Germany~~, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuaia, Luxembourg, Macedonia, Malta, Moldova, Montenegro, ~~Netherlands~~, Norway, Poland, Portugal, Romania, ~~Serbia~~, Slovakia, ~~Slovenia~~, ~~Spain~~, Swalbard and Jan Mayen, Sweden, Ukraine, or ~~United Kingdom~~
-**North America:** Anguilla, Antigua and Barbuda, Barbados, British Virgin Island, Canada, Cayman Islands, ~~Costa Rica~~, Dominica, El Salvador, Grenada, Guatemala, Honduras, Jamaica, ~~Mexico~~, Montserrat, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Turks and Caicos Islands, or ~~United States of America~~
-**South America:** Argentina, Bolivia, ~~Brazil~~, Chile, ~~Colombia~~, ~~Ecuador~~, Paraguay, ~~Peru~~, the Falklands Islands, Uruguay, or Venezuela 
+**Africa:** Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Democratic Republic of the Congo, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Lesotho, Liberia, Libya, Madagascar, Mali, Mauritania, Mauritius, Morocco, Mozambique, Namibia, Niger, Nigeria, Rwanda, São Tomé and Príncipe, Senegal, Seychelles, Sierra Leone, Somalia, ~~South Africa~~, Swaziland, Tanzania, The Comoros, The Ivory Coast, Togo, Tunisia, Uganda, Zambia, or Zimbabwe
+**Asia:** Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei, Cambodia, Cyprus, East Timor, Georgia, Indonesia, Iraq, Israel, ~~Japan~~, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Mongolia, Nepal, Oman, Pakistan, Qatar, Saudi Arabia, Singapore, Sri Lanka, Tajikistan, Thailand, the Maldives, the Philippines, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, or Yemen
+**Oceania:** Australia, Christmas Island, Cocos Islands, Cook Islands, Federated States of Micronesia, Fiji, Kiribati, Marshall Islands, Nauru, ~~New Zealand~~, Niue, Norfolk Island, Palau, Papua New Guinea, Pitcairn Islands, Solomon Islands, Samoa, Tokelau, Tonga, or Tuvalu
+**Europe:** Albania, ~~Austria~~, Belgium, Bosnia and Herzegovina, ~~Bulgaria~~, Croatia, Czech Republic, ~~Denmark~~, Estonia, Finland, ~~France~~, ~~Germany~~, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, North Macedonia (formerly Macedonia), Malta, Moldova, Montenegro, Norway, ~~Netherlands~~, Poland, Portugal, Romania, ~~Serbia~~, Slovakia, ~~Slovenia~~, ~~Spain~~, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, or ~~United Kingdom~~
+**North America:** Anguilla, Antigua and Barbuda, Barbados, British Virgin Islands, Canada, Cayman Islands, ~~Costa Rica~~, Dominica, El Salvador, Grenada, Guatemala, ~~Honduras~~, Jamaica, ~~Mexico~~, Montserrat, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Turks and Caicos Islands, or ~~United States of America~~
+**South America:** Argentina, ~~Bolivia~~, ~~Brazil~~, Chile, ~~Colombia~~, ~~Ecuador~~, Paraguay, ~~Peru~~, the Falkland Islands, Uruguay, or Venezuela
 
 
 ⠀⠀⠀| Plan | Expiry | ARL | Thanks to
@@ -240,6 +241,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ->![Peru/Perú](https://files.catbox.moe/e40fdn.png)<- | Deezer Family | 2024-03-06 :repeat: | `7c2f7c242458603111113a93f253d84b6546a326ba7b721625087b5f269b24e9ede44a736ef4aebd00b25508c7444be6e16990271a1ffd128b0c1643bb4df6fe459ff224618ae1906115d82c0adc0c84933e5cda41e9225db6072c3822ed6322`|
 ->![Serbia/Србија](https://files.catbox.moe/y196n5.png)<- | Deezer Premium | 2025-07-30 | `934436986242b301f2e4e289769d375a88d0873336c3061b96c1099da758e75aa0b2b9d9d21f809b65405e0adfb5792437f6b6f7bf746a3d3d52d799dc9a4f917c9bfa877a4f08f44dfe81d204f0df7a764d79e1766269cd3b461b23ed5a88f9`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![South Africa/Suid-Afrika](https://files.catbox.moe/fjjgb5.png)<- | Deezer Family | 2024-03-10 :repeat: | `20db1fa077fccfb724cbc286cc97725b96a7a3e48714b636d45a4aeba34a7755cee6def458f6779e4c4a0a9a8f699eea571412ed067e9a4ff5c9126af9bc26d92553b8ea2290ca66133b19fd90917472dafccdad7341f27a6a1469e676bf02b0`|
+->![South Korea/한국](https://files.catbox.moe/v2fs9t.png)<- | Deezer Family | 2024-03-17 | `29f35bb1e5ad3bd91250a6113ce19b9b15e2895c2e863c1a86b1c17db083df4a19dca0ee43afbb3ae9ce566e7ddd64ba16c991cb8c762dd781ad0bbde41b93b1f9285ad69ee0bd55e439f1f1ae98579578cb8995d80af1e8b606aac604313926`|
 ->![Slovenia/Slovenija](https://files.catbox.moe/mojh8h.png)<- | Deezer Premium | 2099-12-31 | `1182cbe8b33cafba0bf5e99d49749f1e8ab1d314c363283331e8c421cc13bb098ebd93cfaa8b41c3bdac13866e6ae0b89f34640d8aeb4c2760709f94d9dfc522f5ee51a922cee738477d11124d65c7b3c0b45d179f0362b443827cc6e7e60dee`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Spain/España](https://files.catbox.moe/rapw3d.png)<- | Deezer Premium | 2024-02-29 | `1df7b6d5e1e28126c7270d5c155bda9dbfcffbc52729d5dff319e0e558ce26f140e757af165d35f18fbc73020af31a68445f72d491d1cce57e14063acb8882b3d32c0d9119c8d38dbb7fd9b36038dcaabe54e536930e3730fe9978d550d1e548` | ->![ATLACATL](https://files.catbox.moe/oxlb1w.png)<-
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | Deezer Premium | 2024-02-25 :repeat: | `979ea9ae3564976670ee4b1c57772723ee440845254ea821ec4199b4ec6285918af8a12182797e3f7be95113144a5659615d8f41cecc17d7ef83671fd9163e435e94ef5546a797f78dd4f3419b8a888c7501a64199a5f892b15571d4c556808e`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
@@ -301,8 +303,6 @@ Download ZSpotifyGUI [here](https://github.com/PacketSurf/ZSpotifyGUI). Thanks t
 
 #### Multi-downloaders
 https://t.me/deezertogdrivebot (Spotify and Deezer)
-Bot: https://t.me/musicaiobot [public] (Qobuz, Tidal, Deezer and Soundcloud) & Group: https://t.me/musicaiocloud
-https://t.me/aiomusicdlbot [private] (Qobuz, Tidal and Deezer)
 https://t.me/music_ripper_bot (Qobuz, Tidal, and Soundcloud) & Chat: https://t.me/+aCvHlP9g1jpjNjU1
 #### Amazon Music
 https://t.me/GlomaticoAmazonMusicBot (thanks to Glomatico)

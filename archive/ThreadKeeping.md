@@ -351,6 +351,8 @@ Halloween Requests 5
 https://archive.4plebs.org/tg/post/91881869
 blind rage
 https://archive.4plebs.org/tg/post/91890223
+tall girlfriend problems
+https://archive.4plebs.org/tg/post/91928738
 
 
 >Tiermaker
@@ -441,17 +443,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->New Writefags:
->The 19th Ninja Art: Confections (Maru, Class 1-D)
-https://rentry.org/42qavbt4
->A Sweet Chocolate February (Ryu-kishi, The Boys, Cool Boost, Maru(maru), Rosethorn, Officer Okari)
-https://rentry.org/xwdzd7rb
->A Valentine's Carol (Satoru Tani)
-https://rentry.org/yb9ni7xa
-
->New Artfags:
-Funni Siblings (Satoru Tani)
->>91918576
+The beast slumbers once more...
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

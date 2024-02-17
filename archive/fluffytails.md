@@ -9,7 +9,8 @@
 ***
 -> ==Latest Update 2/14/24== <-
 -> Slowly reviving the Rentry. <-
--> *Added to Female: Focks, Desune, Mikage, Shinatsu, Philo, Ellie, Yozakurahime, Eloise, Lucia* <-
+-> *Added to Male: Yamamoto Houjou* <-
+-> *Added to Female: Focks, Desune, Mikage, Shinatsu, Philo, Ellie, Yozakurahime, Eloise, Lucia, Jo'on Kazama, Kiyomi Mishima, Nier.EXE, Nier.EXE (NetBattle), Yamamoto Kirisu* <-
 
 -> ==Previous Update 1/02/24== <-
 -> Moved Rentry. <-
@@ -79,6 +80,11 @@ Character  |  Preview  |  Description  |  Links
 **Yozakurahime** | ![Yozakurahime](https://files.catbox.moe/z1wo1h.png) |  A very old, immortal divine fox you might have met before. At least, she thinks you have. | [CHUB](https://www.chub.ai/characters/Anonymous/yozakurahime-fec6365b) [CATBOX](https://files.catbox.moe/jwulau.png)
 **Eloise** | ![Yozakurahime](https://files.catbox.moe/tm6ljm.png) |  A chubby foxgirl that's a bit dumb. | [CHUB](https://www.chub.ai/characters/Anonymous/eloise-cdb56f74) [CATBOX](https://files.catbox.moe/vqq05o.png)
 **Lucia** | ![Lucia](https://files.catbox.moe/m8hg9v.png) | A foxgirl swordswoman and mercenary. | [CHUB](https://chub.ai/characters/Anonymous/lucia-b31e5f8d/) [CATBOX](https://files.catbox.moe/ektnbu.png)
+**Jo'on Kazama** | ![Jo'on Kazama](https://files.catbox.moe/p274d3.png) | A cool fox-wolf girl based on Jin Kazama from TEKKEN. Becomes mean in greetings 2-4. Greetings 1-4 are TEKKEN 3-6 respectively. I'll update this with a TEKKEN Force and all-purpose greetings later. Here are some [alt gens](https://catbox.moe/c/1sg9db).	 |  [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/99od5m.png)
+**Kiyomi Mishima** | ![Kiyomi Mishima](https://files.catbox.moe/cjtpfk.png) | Update: Added a lorebook. Not very crucial, but it should add some spice. Based on Tekken's Heihachi Mishima. Based on TEKKEN in general. A rough and violent kitsune that will actually just kill you. Greetings 1-5 are TEKKEN 2-6. Greeting 6 is coom. Greeting 7 is TEKKEN Bowl. Here are some [alt gens](https://catbox.moe/c/4evdh9). | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/ihkeh2.png)
+**Nier.EXE** | ![Nier.EXE](https://files.catbox.moe/4csizc.png) | Your Yandere Netnavi. Dangerous, deadly and graceful. The two of you share a bond that transcends the borders between the digital world and the real one... | [CHUB](https://www.chub.ai/characters/claraimouto/nier-exe-56969d7c) [CATBOX](https://files.catbox.moe/puz78r.png)
+**Nier.EXE (NetBattle)** | ![Nier.EXE (NetBattle)](https://files.catbox.moe/wiejqg.png) | Face off against the number one Netbattler duo: The fearsome Red Reaper and her NetOp - Lobelia. | [CHUB](https://www.chub.ai/characters/claraimouto/nier-exe-netbattle-5dcdb424) [CATBOX](https://files.catbox.moe/b2irpv.png)
+**Yamamoto Kirisu** | ![Yamamoto Kirisu](https://files.catbox.moe/lkgb66.png) | Jaded kitsune with no tails. Set in the Sengoku period and features four greetings. | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/0ocn4t.png)
 
 
 
@@ -106,7 +112,8 @@ Character  |  Preview  |  Description  |  Links
 **Sorin** | ![Sorin](https://files.catbox.moe/m0wr8h.png) | Literally your dad. You're a smol fox spirit whom just happened to meet him. He decided to raise you in a whim. | [CHUB](https://www.chub.ai/characters/Vyrea_Aster/sorin-your-fox-dad-e65559d3) [CATBOX](https://files.catbox.moe/vhpaxq.png) 
 **Zeno** | ![Zeno](https://files.catbox.moe/ko926l.png) | Your kitsune boyfriend who loves to cuddle and laze around. | [CHUB](https://chub.ai/characters/wanderingstar/zeno-bce7ee62) [CATBOX](https://files.catbox.moe/bf14t2.png) 
 **Luke** | ![Luke](https://files.catbox.moe/mdl1j1.png) | Supportive foxbro who partied too hard. Luke woke up in his late 20s and wondered where it all went wrong. Trying to get his life back on track while looking out for his younger sibling, (you). Falls down, but gets back up. Usually. | [CHUB](https://chub.ai/characters/chefseru/luke-5fcda9f6) [CATBOX](https://files.catbox.moe/ynk0pr.png) 
-**Bobby** | ![Bobby](https://files.catbox.moe/b2w1ur.png) | Meet Bobby, a small yet brave and prideful fox boy with a gambling addiction. He finds it difficult to trust anyone because he believes that anyone being nice to him wants to trick him. As a result, he only has a few friends. Though he feels lonely, Bobby, being the stubborn fox boy that he is, refuses to admit it. He works for the mafia to help satisfy his gambling addiction and is a member of the "Fast Foxes." Bobby has an older sister named Viola, who is one of the leaders of the Fast Foxes. He fears that Viola may discover his gambling addiction. | [CHUB](https://chub.ai/characters/Nono/Bobby) [CATBOX](https://files.catbox.moe/wyytds.png) 
+**Bobby** | ![Bobby](https://files.catbox.moe/b2w1ur.png) | Meet Bobby, a small yet brave and prideful fox boy with a gambling addiction. He finds it difficult to trust anyone because he believes that anyone being nice to him wants to trick him. As a result, he only has a few friends. Though he feels lonely, Bobby, being the stubborn fox boy that he is, refuses to admit it. He works for the mafia to help satisfy his gambling addiction and is a member of the "Fast Foxes." Bobby has an older sister named Viola, who is one of the leaders of the Fast Foxes. He fears that Viola may discover his gambling addiction. | [CHUB](https://chub.ai/characters/Nono/Bobby) [CATBOX](https://files.catbox.moe/wyytds.png)
+**Yamamoto Houjou** | ![Yamamoto Houjou](https://files.catbox.moe/wozhi8.png) | Jaded kitsune with no tails. Set in the Sengoku period and features four greetings. | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/l8wsu5.png)
 
 ***
 

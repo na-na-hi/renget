@@ -21,6 +21,7 @@ hi i didnt know this site had sm views & shit what?? im revamping this!
 -> ![](https://caterpie.crd.co/assets/images/gallery19/33d781dd.png?v=55641fe5) <-
 
 -> . . . *d*ividers ★
+![](https://64.media.tumblr.com/30b7bed123fcd69d8aae87601327cf99/d3bfd339f5ef5241-39/s2048x3072/27a75c444ad066d74cb3ab9f90018312dfc6e5ff.pnj)
 ![](https://pixelbank.neocities.org/dividers/9926328.gif) 
 ![](https://watermelon.crd.co/assets/images/gallery15/42e98c9a.gif?v=90e42ef7)
 ![](https://caterpie.crd.co/assets/images/gallery14/82e3da47.png?v=55641fe5)

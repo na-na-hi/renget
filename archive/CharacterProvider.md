@@ -45,23 +45,12 @@
 ######
 ## Notice Board
 ##### Latest Character
-[![](https://files.catbox.moe/l3syal.png)](https://www.chub.ai/users/CharacterProvider)
 ![](https://files.catbox.moe/mw53hn.png)
 **Pokemon Mint** [Chub Character Page](https://www.chub.ai/characters/CharacterProvider/pokemon-collection-585925c9)
-Collection of scenarios: [1] Breeding wall, [2] Adventure starts, [3] Ditto-mommy. Detailed breeding interface and Pokedex entries. Tested with GPT-4-32K-0613 and 4urbo. 
-
-[Request a card (Commission)](https://boosty.to/xmlk) or [DM me in Discrord](https://discordapp.com/users/459936627981287436)
+Collection of scenarios: [1] Breeding wall, [2] Adventure starts, [3] Ditto-mommy. Detailed breeding interface and Pokedex entries. Tested with GPT-4-32K-0613 and 4urbo.
 
 ##### News
-**• X / Twitter:** Now I have [X (Twitter) page](https://twitter.com/victorianmaids) for some reason.
-
-**• New pages:**  Utility Prompts moved to a new page. "Prompting tricks" page added. All discarded prompts moved to the Graveyard. They are still accessible via the prompt tables as usual.
-
-**• Created a simple template for character cards:** This [template](https://rentry.org/CharacterProvider-CharTemplate) will help you get started. It's a combination of plain text, Markdown, XML, lists and interview.
-
-**• Searching for another platform:** I wish I could have had an ability to allow you comment some entries on this page. It's hard to troubleshoot issues you maight have when you are too shy to ask me questions via discord / email. I still don't know where to transfer this page other than renty. If only there was a site that allows both short posts and blogposts with markdown. VK groups are great for this but... we shouldn't use it by obvious reasons.
-
-**• Searching for solutions:** If you know how to change GPT style to be less fluffy and flowery, and more on-point with variable paragraph sizes, please DM me. Also Idon't have professional writing skills, so if you find a way how to explain LLM to approach the story in a more interesting way, please, DM me too! I don't read 4chan or post anything there. If you have fixes and post them on your rentry, I will post your rentry here.
+**• X / Twitter:** News migrated to [X (Twitter)](https://twitter.com/victorianmaids)! Now you can leave comments and stop constantly rereading this page if something big happens.
 
 ##### Latest Updates
 Subject | Version | Description | Date

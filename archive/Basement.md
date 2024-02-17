@@ -4,7 +4,7 @@
 ->‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ %silver% Hover/Click for Credit & Font %%<-
 -> ![](https://massacre.crd.co/assets/images/gallery01/49a5dd00.gif?v=906dda92) ♡ [A͟r͟chive](/BehindTheSun)⠀〜 Unwanted [URLs](/-garbage) ☆ ![](https://massacre.crd.co/assets/images/gallery02/ef9d5f75.png?v=906dda92) <-
 ->  ┏━━━━━━━━━　★　━━━━━━━━━┓<-
--> **303 URLs Total** ![](https://massacre.crd.co/assets/images/gallery01/3a978443.gif?v=906dda92)
+-> **305 URLs Total** ![](https://massacre.crd.co/assets/images/gallery01/3a978443.gif?v=906dda92)
 ![](https://massacre.crd.co/assets/images/gallery01/1a8a3348.gif?v=906dda92) 020 Decorated
 **033 Traded/Given** ![](https://massacre.crd.co/assets/images/gallery02/f37169b7.gif?v=906dda92) 
 ![](https://massacre.crd.co/assets/images/gallery02/efb440cd.gif?v=906dda92) 551 in the Garbage<-
@@ -60,7 +60,7 @@ JoJo's Bizarre Adventure [**diavolo**](https://rentry.co/diavolo) [abbacchio](ht
 
 *Overwatch* [-reaper](https://rentry.co/-reaper) [-soldier76](https://rentry.co/-soldier76) [-junkerqueen](https://rentry.co/-junkerqueen) [illari](https://rentry.co/illari) [sombra](https://rentry.co/sombra) [tankdiff](https://rentry.co/tankdiff) [dpsdiff](https://rentry.co/dpsdiff) [supportdiff](https://rentry.co/supportdiff)
 
-*Five Nights at Freddy's* [toyfreddy](https://rentry.co/toyfreddy) [fazbear](https://rentry.co/fazbear)
+*Five Nights at Freddy's* [toyfreddy](https://rentry.co/toyfreddy) [fazbear](https://rentry.co/fazbear) [freddyfazbear](https://rentry.co/freddyfazbear)
 
 *Other* [martybanks](https://rentry.co/martybanks) [pierrepaul](https://rentry.co/pierrepaul) [homelander](https://rentry.co/homelander)  [thedragonofdojima](https://rentry.co/TheDragonOfDojima) [kingkoopa](https://rentry.co/kingkoopa) [-bowser](https://rentry.co/-bowser) [themojodojocasahouse](https://rentry.co/themojodojocasahouse) [myhorseprince](https://rentry.co/myhorseprince) [-discord](https://rentry.co/-discord) [-kenergy](https://rentry.co/-kenergy) [jackskellington](https://rentry.co/jackskellington) [**ponytown**](https://rentry.co/ponytown) [**twilightsparkle**](https://rentry.co/twilightsparkle) [thepumpkinking](https://rentry.co/thepumpkinking) [martybyrde](https://rentry.co/martybyrde)
 
@@ -102,8 +102,8 @@ JoJo's Bizarre Adventure [**diavolo**](https://rentry.co/diavolo) [abbacchio](ht
 *The Texas Chainsaw Massacre* (1974 & 1986 + Game)
 [**thetexaschainsawmassacre**](https://rentry.co/thetexaschainsawmassacre) [-johnnyslaughter](https://rentry.co/-johnnyslaughter) [**sissyslaughter**](https://rentry.co/sissyslaughter) [-choptop](https://rentry.co/-choptop) [nancyslaughter](https://rentry.co/nancyslaughter) [blacknancy](https://rentry.co/blacknancy) [sexorthesaw](https://rentry.co/sexorthesaw) [kurtiswaisanen](https://rentry.co/KurtisWaisanen) [kirkwaisanen](https://rentry.co/KirkWaisanen) [platehead](https://rentry.co/platehead) [juliecrawford](https://rentry.co/juliecrawford) [-lelandmckinney](https://rentry.co/-lelandmckinney)  [-connietaylor](https://rentry.co/-connietaylor) [sonnywilliams](https://rentry.co/sonnywilliams) [anaflores](https://rentry.co/anaflores) [mariaflores](https://rentry.co/mariaflores) [sunshineslaughter](https://rentry.co/sunshineslaughter) [sissysunshineslaughter](https://rentry.co/sissysunshineslaughter) [dannygaines](https://rentry.co/DannyGaines)
 
- *Me Related*  (Kins, etc.)
-[vampirezombie](https://rentry.co/vampirezombie) [serialkiller](https://rentry.co/serialkiller) [cannibals](https://rentry.co/cannibals) [12](https://rentry.co/12)
+ *Unsorted*  
+[vampirezombie](https://rentry.co/vampirezombie) [serialkiller](https://rentry.co/serialkiller) [cannibals](https://rentry.co/cannibals) [12](https://rentry.co/12) [-zombie](https://rentry.co/-zombie)
 
 ***
 -> **⋆˖⁺‧₊☽![](https://massacre.crd.co/assets/images/gallery04/9e6e06a6.gif?v=906dda92)☾₊‧⁺˖⋆** <-

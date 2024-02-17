@@ -355,9 +355,44 @@ Various different model mixes with varying styles.
 
 All models are baked with VAE, but you can use your own VAE.
 
-Of the many versions uploaded, I will provide direct links to the following recommended models (as of Oct 11th 2023):
+Of the many versions uploaded, I will provide direct links to the following recommended models (as of Feb 17th 2024):
+
+Test V-Pred Model:
+
+	This is SE01_vpred, a test v-prediction model, it’s similar to hybrid models but with higher color saturation and contrast, it can do almost pure black images xd. It is also more stable, does better tails than hybrid models(but not always xd). It seems to be more versatile in styles, too. 
+	Personally I think using this model is very weird compared to hybrid models(I'm still not getting used to vpred models xd), and sometimes it has less details than hybrid models, also some people may not like its crazy contrast and high color concentration xd.
+	Remember to download .yaml config file and place it alongside the model files, rename the  config file name to be the same as the model name.
+	Try not to use boring_e621_fluffyrock_v4 with this model plz bc it may blur the image outputs.
+	Use CFG rescale extension plz, with a value of 0-0.5(but I think it’s ok to not use it xd)
+
+	DL: https://civitai.com/api/download/models/299485?type=Model&format=SafeTensor&size=pruned&fp=fp16
+	YAML: https://civitai.com/api/download/models/299485?type=Config&format=Other
 
 Hybrid/General Purpose:
+
+v105:
+	
+	This is a tweaked model similar to v90, compared with v90, its colors are more vivid, has more details, and the realistic style is better, but it may not be as good as v90 when doing some certain images xd
+	Hybrid models are basically Fluffyrock models with better details and (often) weaker NSFW abilities compared with original rock models. They are the most versatile models in this series of models, can do most content and styles.
+	Use e621 tags, use less danbooru tags plz.
+	When using hybrid models, add artists to prompts plz.
+	Use embeddings as negative prompt plz, but you don’t need to use a lot of them xd
+	Clip skip = 1 (try not to use 2 plz).
+	
+	DL: https://civitai.com/api/download/models/274308?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+v90:
+
+	Based on v75_extra, v80, v85, and yiffymix34.
+	This is a test model with traindiff, but it should be better than v75? (not much xd)
+	Nothing much to say about hybrid models, they are basically Fluffyrock models with better details and (often) weaker NSFW abilities compared with original rock models. They are the most common models in this series of models, can do most content and styles.
+	Each version of the hybrid model is actually not that different (i admit that I pursued the quantity of models but ignored the quality xd).
+	Use e621 tags, not danbooru tags!!!
+	(Recommended) add artists to prompts.
+	(Optional) you can use WD-KL-F8-Anime2 vae to get more colorful images.
+	Clip skip = 1.
+
+	DL: https://civitai.com/api/download/models/209164?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
 v75:
 
@@ -376,6 +411,23 @@ v45:
 	DL: https://civitai.com/api/download/models/109229?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
 Anime:
+
+v100:
+	
+	Here we go again: this is v100_anime, a very similar tweaked version of v85, this model is basically v85 with flatter color, this model is as stable/unstable as v85, and the hands are still bad :(
+	This is another average model xd
+	Clip skip = 1 or 2.
+
+	DL: https://civitai.com/api/download/models/261878?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+v85:
+	
+	Based on v70, v75 and indigokemonomix beta.
+	This is an alternative version of v70, it’s like v70_nsfw, which is better at doing nsfw than v70, but losing anime style and may not be that crisp clear as v70.
+	Could be a little unstable (bad hands are the biggest enemy to anime models), images may be dim, too yellow, and not very colorful.
+	Clip skip = 1 or 2.
+
+	DL: https://civitai.com/api/download/models/202149?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
 v70:
 
@@ -396,6 +448,29 @@ v55:
 	DL SFW: https://civitai.com/api/download/models/141820?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
 Realistic:
+
+v110:
+
+	This time the version v110 pays more attention to versatility rather than photorealistic style, compared with v80/v95, it is less photorealistic (but in some cases it is possible to do something very photorealistic), will react to artists tags (but it may not be able to completely replicate the artist styles). It's like a realistic version of hybrid models.
+	May not be as stable as hybrid models, and it's not that versatile as hybrid models.
+
+	DL: https://civitai.com/api/download/models/328557?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+v95:
+	
+	This is a tweaked version of v80 with a little difference. It is similar to v80, with even more fur, brighter colors and lower contrast (so that this model will not look so dark fantasy like v80 xd).
+	But this version has fewer details, losing photorealistic styles, feels less stable than v80, also there may be too much fur that sometimes dragons/aquatics will have fur xd.
+	Personally I think this version is quite average :(
+
+	DL: https://civitai.com/api/download/models/242885?type=Model&format=SafeTensor&size=pruned&fp=fp16
+
+v80:
+	
+	Based on v65, v50, and bm lora.
+	An improved version of v65, it might be better than v65 imo, (70% of the outputs are better xd) but may lose some photorealistic style.
+	This version probably solved the problem that the character's body is not completely covered with fur. (maybe solved, may be not xd), also solved missing tail issue.
+	
+	DL: https://civitai.com/api/download/models/182988?type=Model&format=SafeTensor&size=pruned&fp=fp16
 
 v65:
 
@@ -2709,6 +2784,7 @@ https://files.catbox.moe/h6m44t.safetensors
 # Wilykit (ThunderCats)
 Test Version: https://ufile.io/11flz4ox
 V1: https://easyupload.io/besoeq
+V2: https://files.catbox.moe/als6ys.safetensors
 
 # Wolf O'Donnell (Star Fox)
 Test Version: https://ufile.io/r31vms2f
@@ -2726,7 +2802,7 @@ https://ufile.io/n3pjw7pf
 
 # Rottytops (Shantae)
 "rottytops" is activation token
-https://ufile.io/xqsl9ny8
+https://files.catbox.moe/0gadap.safetensors
 
 # ZP92 (Artist)
 >Must include "by zp92" in prompt, inpainting recommended. Trained on Pony Diffusion V6 SDXL
@@ -2798,6 +2874,15 @@ https://files.catbox.moe/ft1yw5.safetensors
 
 # Storm the Albatross (Sonic)
 https://files.catbox.moe/tbejb1.safetensors
+
+# Tanya Mousekewitz (An American Tail)
+https://files.catbox.moe/t8rlmu.safetensors
+
+# Roxikat (OC by John Barrett)
+https://files.catbox.moe/we1p3x.safetensors
+
+# Pepper (OC by halbean)
+Test Version: https://files.catbox.moe/5h598o.safetensors
 
 ## LORAs from the Discord
 

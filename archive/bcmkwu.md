@@ -1,5 +1,28 @@
->Captured Azog officer in Avdeevka
-https://files.catbox.moe/qi53hv.mp4
+>How Avdeevka started and how its going
+https://files.catbox.moe/5uox8x.mp4
+>Russians drive through Avdeevka on chinktruck
+https://files.catbox.moe/bes8fp.mp4
+>Azov rotation gone wrong
+https://files.catbox.moe/xwoqtj.mp4
+>Captured Avdeevka piggers from 110th mechanized brigade
+https://files.catbox.moe/r51uzd.mp4
+>Inside bunker in 'Zenit' fortified area.
+https://files.catbox.moe/5du2hl.MOV
+>Dead hohols at Avdeevka railway station (NOT COMFY)
+https://files.catbox.moe/wgg96k.mp4
+>Russian Soldiers thank their Serbian Brothers for all their support
+https://files.catbox.moe/puwa3g.mp4
+>Assault of AFU positions near Novomikhailovka
+https://files.catbox.moe/geq1q2.mp4
+>VDV being dropped off
+https://files.catbox.moe/46dy82.mp4
+>Kind of a banger
+https://files.catbox.moe/qzfj19.mp4
+>Captured Azog officers (subbed)
+https://files.catbox.moe/pql9bh.mp4
+https://files.catbox.moe/phtbvy.mp4
+https://files.catbox.moe/uyl4mn.mp4 (orig)
+https://files.catbox.moe/qi53hv.mp4 (orig)
 >Stormtroopers clearing private sector in Avdeevka near lake
 https://files.catbox.moe/cx3ep8.mp4
 >Russian troops at Avdeevka Hospital
@@ -9,6 +32,7 @@ https://files.catbox.moe/hyyl58.mp4
 >Hohols fleeing Avdeevka
 https://files.catbox.moe/0mmpfo.mp4
 https://files.catbox.moe/oy78pw.mp4
+https://files.catbox.moe/gzgare.mp4 (subbed)
 >Azov in Avdeevka coke plant cumpit
 https://files.catbox.moe/c7yysr.mp4
 >Russian flags in center of Avdeevka

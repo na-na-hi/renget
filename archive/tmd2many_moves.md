@@ -277,7 +277,7 @@ Ice Shard | 4 BP | 5 (-1) AP | ≥2 | Ice | Physical | Priority.
 Ice Spinner | 8 BP | 6 AP | ≥2 | Ice | Physical | Nullifies Terrain.
 Icicle Crash | 8 BP | 6 AP | ≥3 | Ice | Physical | 14-20; The Opponent Flinches.
 **Icicle Spear** | 1D10 | 7 AP | - | Ice | Physical | Multi-Hit; Roll 1D10.
-Icy Wind | 4 BP | 6 AP | ≥11 | Ice | Special | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat)is decreased by 1. Spread.
+Icy Wind | 4 BP | 5 AP | ≥11 | Ice | Special | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1. Spread.
 Incinerate | 6 BP | 5 AP | ≥11 | Fire | Special | The Opponent's Berry or Gem is destroyed.
 Infernal Parade | 6 BP | 5 AP | ≥2 | Ghost | Special | 14-20; The Opponent is afflicted with *Burn*. If the Opponent has Major Status Condition, BP is increased by 6.
 Inferno | 10 BP | 8 AP | ≥11 | Fire | Special | The Opponent is afflicted with *Burn*.
