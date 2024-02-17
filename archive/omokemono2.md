@@ -140,6 +140,10 @@ If an outdated page gets updated, it loses its outdated status
 	- [Fanbox](https://hanomidou.fanbox.cc/)
 	- [Kemono](https://kemono.su/fanbox/user/5211815)
 
+- **タイヤ/tayyasan**
+ 	- [Fanbox](https://tayyasan.fanbox.cc/)
+	- [Kemono](https://kemono.su/fanbox/user/33530521)
+
 
 ## Not Pee-focused Artists 
 *Those artists draw pee occasionally and/or as a "bonus"*
@@ -372,6 +376,3 @@ When adding new artists, link to their Patreon/fanbox/whatever, specify to which
 
 - 飯閃[Loli]
 	- [Fanbox](https://e1000myo.fanbox.cc/) (Not Pee-Focused)
-
-- タイヤ/tayyasan
- 	- [Fanbox](https://tayyasan.fanbox.cc/)(Pee-Focused)

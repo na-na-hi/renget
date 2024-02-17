@@ -14,12 +14,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=9aiuzVI35BQ
 
 \>Streams
-Next stream (Lethal Company Advent collab, Fri 02/16 8PM CT)
+Next stream: Poppy Playtime (Sat 02/17 7PM CT)
+Last public stream (Lethal Company Advent collab)
 https://www.youtube.com/watch?v=T81BaUQx0G4
 Last members-only stream (after Valentine's mengen)
 https://www.youtube.com/watch?v=DGYGVBNyoI4
-Last public stream (Valentine's with Nerissa)
-https://www.youtube.com/watch?v=VFDDLyh_ALY
 
 \>Recent merch
 Valentine's Day 2024 Set: https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442181852

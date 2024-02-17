@@ -51,6 +51,7 @@ However, a more modern/polished 7b for general purpose use would be [Kunoichi DP
 
 Traditionally, the most popular Llama 2 model for roleplay/character chat was [MythoMax 13b](https://huggingface.co/TheBloke/MythoMax-L2-13B-GGUF).
 However, bigger and better models have since usurped it in quality and prose. Unfortunately, Llama 2 13b was quite undertrained; Mistral 7b finetunes are arguably better in terms of quality simply because it's a higher quality base model.
+Alternatively, you can try this 10.7b frankenmerge which I think is pretty solid for its size: [Fimbulvetr 10.7b](https://huggingface.co/LoneStriker/Fimbulvetr-10.7B-v1-GGUF/tree/main).
 
 * 8x7b / 47b
 

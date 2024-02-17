@@ -9,7 +9,7 @@ no cr needed, hover / press flags for name<-
 ***
 ***
 ->**PLANS** :: HIATUS. COME BACK LATER<-
-->**I DON'T KNOW IF THE GRAPHICS ARE STILL HERE POSTIMG.CC STOPPED WORKING FOR ME🙏🙏**<-
+->**POSTIMG IS BACK ??!??!?!?!?!?!>**<-
 ***
 ***
 **MISC FLAGS** ::

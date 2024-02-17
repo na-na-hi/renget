@@ -68,7 +68,7 @@ Attribute: Pyromancy | Tier **ɪ** (+1) | Ishmael is learning to control his fla
 
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪɪɪ** | Tier **ɪɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Currently Training for Stat: Speed **ɪɪɪ** | Tier **ɪɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
 Currently Training for Skill: Foraging **ɪ** | Tier **0** | 1/3 | ▮▯▯
 
 

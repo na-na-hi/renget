@@ -6,9 +6,34 @@ In theory, this means my JB should have more or less the same effectiveness in A
 
 If you have feedback, suggestions, or just want to share how it's working for you, please send me an email through my burner:
 anonaugusprod@proton.me
+You can also give feedback through this anonymous form! > https://form.jotform.com/240468701446659
+
+## DevTok CoT Version
+Newest one. Many big changes from the Sus X, trying a different approach. This one changes the AI to act as the narrator, not role-player. Many other changes as well, including a very simple and short CoT, and incorporating the first part of Neo-furbo's JB, since it.
+Some things of note:
+1- For some reason, furbo loves similes. Sometimes it's worse, some others it isn't as bad. Sorry, I don't know how to fix it; it's probably a word in the UJB causing it.
+2- In the UJB, it has a part asking the AI to use "writing tone for an uneducated person", it influences quite a lot how the AI writes, and helps with stuff like "debauched den of debauchery" furbo likes to include. If you dislike the writing, change or delete this to your liking.
+3- You can change the lenght of the replies inside the UJB, should be easy to find.
+4- formatting is a bit fucked, especially at the beginning of conversations.
+5- You can try shortening the dev token in the RULES section if you think it's too long but I don't know how it's going to affect the JB.
+#### Preferencial settings:
+* Temperature - 2.
+* Frequency Penalty - 0.05
+* Presence Penalty - 0.05
+* Top P - 0.80
+I recommend testing trying Top P 0.80 to 0.90 and anywhere between, see what works best for you. Lower than 0.80 might cause the AI to go schizo.
+
+#### LATEST OF THIS VERSION (UP-TO-DATE) >>>> https://files.catbox.moe/1q9y85.json
+
+#### Regex For it!!
+```
+/[`\s]*[\[\<]token[\>\]](.*?)[\[\<]\/token[\>\]][`\s]*|^[`\s]*([\[\<]thinking[\>\]][`\s]*.*)$/ims
+```
+
+![Regex](https://files.catbox.moe/gyxnhz.png)
 
 ## SuS X Version
-Newest one. Many big changes from the classic version, further distancing itself from its Char Prov origins. I think it's overall better, though perhaps you prefer the hornier Classic Prompt.
+Many big changes from the classic version, further distancing itself from its Char Prov origins. I think it's overall better, though perhaps you prefer the hornier Classic Prompt.
 #### Preferencial settings:
 * Temperature - 2.
 * Frequency Penalty - 0.05
@@ -23,7 +48,7 @@ Download for first version: https://files.catbox.moe/o154jw.json
 Download this version: https://files.catbox.moe/elwn2q.json
 - 31/01/2024: some anons were complaining about getting filtered, so I cracked my head open and made some changes; two anons said it works fine now. I changed stuff in the Rules and UJB mainly, hopefully works for everyone now. I think what mattered here is the beginning part in the Rules but who knows.
 
-#### DOWNLOAD THE UP-TO-DATE JB HERE >>>> https://files.catbox.moe/otdfxv.json
+#### Latest of this version >>> https://files.catbox.moe/otdfxv.json
 
 * Vocabulary (add or remove words as you wish):
 ```

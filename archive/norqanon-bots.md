@@ -1,7 +1,7 @@
 # Norquinal's Bots
 
 [TOC3]
-
+!!! warning This collection is currently outdated. Head to [Chub](https://chub.ai/users/norquinal) for the latest information. 
 ### Recent Releases
 
 ->Character Image<- | ->Character Description<- | ->Links<- | ->Image Attribution<-

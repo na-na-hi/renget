@@ -59,7 +59,6 @@ https://files.catbox.moe/qtpqif.safetensors yd
 https://files.catbox.moe/ecebk5.safetensors rustle
 https://files.catbox.moe/ojbvr4.safetensors afrobull
 https://files.catbox.moe/rqqk5m.safetensors akihiko_yoshida
-https://files.catbox.moe/fauar8.safetensors amazuyu_tatsuki
 https://files.catbox.moe/cuzgnf.safetensors aoi_nagia just using stuff from Elf Mori
 https://files.catbox.moe/9xb1r0.safetensors araneesama
 https://files.catbox.moe/y5xajf.safetensors asashina
@@ -170,6 +169,17 @@ https://files.catbox.moe/cx6szo.safetensors inputtwo
 https://files.catbox.moe/969bmv.safetensors bayeuxman
 https://files.catbox.moe/f2fqj8.safetensors gggg
 https://files.catbox.moe/eicots.safetensors bobtheneet
+https://files.catbox.moe/q7cuvt.safetensors amazuyu_tatsuki
+https://files.catbox.moe/1ruj7p.safetensors csr
+https://files.catbox.moe/wlwi2y.safetensors enoshima
+https://files.catbox.moe/nmsyo8.safetensors garakuta-ya
+https://files.catbox.moe/3dbges.safetensors hiromitsu
+https://files.catbox.moe/wx5xri.safetensors kagami
+https://files.catbox.moe/eb9xsk.safetensors kamitani
+https://files.catbox.moe/afhggs.safetensors korotsuke
+https://files.catbox.moe/ksuvd8.safetensors ohara
+https://files.catbox.moe/ak2ctj.safetensors piromizu
+https://files.catbox.moe/ezarsl.safetensors JK-BlushySpicy-YD-CSR-Redrop_mix
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime
@@ -190,7 +200,6 @@ https://files.catbox.moe/tviui5.safetensors whomperfruit
 https://files.catbox.moe/s4t7ch.safetensors jvteemo
 https://files.catbox.moe/2onz8e.safetensors borscht
 
-
 The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
@@ -204,6 +213,7 @@ https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22, cyberboi, dratvan
 https://files.catbox.moe/c69pcl.zip JVTeemo
 https://mega.nz/file/o01XhDIC#8hukpUUeFCThQj2WPe1O0OT7LDWHGvGmFr_y7GVUhfI borscht
 https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831
+https://mega.nz/folder/dTkFHAgD#i04TRgRJUOMu9cByDe24UQ amazuyu_tatsuki, csr, enoshima, garakuta-ya, hiromitsu, kagami, kamitani, korotsuke, ohara, piromizu, JK-BlushySpicy-YD-CSR-Redrop_mix
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes

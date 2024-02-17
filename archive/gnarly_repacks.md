@@ -18,6 +18,8 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Skate 3 (+RPCS3, DLC) [Gnarly Repacks] [4.37 GB]
+https://bin.0xfc.de/?9228877b58623876#3umaFwEkbbowk1xWh8eEd4V1QDnmogWuC44ScfXCq6od
 The Elder Scrolls V Skyrim - Legendary Edition [Gnarly Repacks] [7.29 GB]
 https://bin.0xfc.de/?b13c47d4151828ef#5fCiTPZjCgF6vjpzKRQ27sA3a3mHooi8qpA6cxFgi7Q2
 Project Zomboid (EA-v41.78.16) [Gnarly Repacks] [1.66 GB]

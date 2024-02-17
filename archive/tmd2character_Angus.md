@@ -92,7 +92,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | Diary | Angus' personal diary. He writes his misadventures in this unfamiliar world with people who's in the same boat as him.
+RP Item | Diary | Angus' personal diary. He writes his misadventures in this unfamiliar world with people who's in the same boat as him. He might of silently spirited away after some time.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

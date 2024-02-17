@@ -1,4 +1,4 @@
-peg# Kalomaze's Local LLM Glossary
+# Kalomaze's Local LLM Glossary
 Not super comprehensive (yet), but I think having up to date documentation like this should be quite helpful for those out of the loop. Things change all the time in local AI circles, and it can be dizzying to catch up from an outsider's perspective, especially if you are new to the more technical aspects of language models in general (and not just locally hosted LLMs).
 
 Without further ado:
