@@ -1,36 +1,41 @@
-# This page is a WIP mess
-## -> Right now this page focuses on structuring your cards and using LLM to elaborate your descriptions. I will add tips and rules for creating characters later. Don't take it seriously it is more of a sketch than a guide.<-
-- - -
-##Contents:
-[TOC3] 
-# 
-- - -
-- - -
-- - -
-# 
--> Don't generate characters, but use AI for brainstorming. <-
-# 
-- - -
-- - -
-- - -
-# 
-### Intro
-Let's clarify first. Claude uses 'Human' and 'Assistant' to separate messages from user input. GPT works a bit differently and is clever enough to understand that you are talking about it when using such terms as 'AI,' 'Assistant,' and understands that 'User' relates to the person chatting with it. Henceforth, I will use the words 'AI' and 'User' for convenience.
+# [In Progress...]
 
-Suppose you are making your cards usable with any LLM; So in your cards, you should use such structures as "The Assistant (AI) must," "The AI Assistant must," etc. Never address the User as 'you'; this will confuse the AI, especially in character cards. In instructions and descriptions, always clearly distinguish between the User (Human) and AI (Assistant) in the third person.
 
-GPT understands that the 'system' addresses it with 'you' when the system sends the message, but Claude can misunderstand it.
+![](https://files.catbox.moe/qul57k.png)
+## Character Creation Guide (+Template)
+- - -
+### Glossary
 
-{{char}} / <char> and {{user}} / <user> are SillyTavern's macroses that will be replaced on send with the Character name and your Persona name.
+**Claude:**
+`Human` - You, `{{user}}`
+`Assistant` - Claude
 
-If you write "{{char}} is James," the AI will see it as "James is James." Don't do it.
+**GPT:**
+`The User` - You, `{{user}}`
+`The AI` - GPT
 
+• Claude understands these terms too.
+• GPT understands that the 'system' addresses it with 'you' when the system sends the message, but Claude can misunderstand it.
+
+**ST Macroses:**
+`{{char}}` and `{{user}}` are SillyTavern's macroses that will be replaced on send with the Character name and your Persona name.
+If you write "`{{char}}` is James," the AI will see it as "James is James." %Orange%**Don't do it!**%%
+
+**Tip:**
+I strongly recommend you avoid using `{{char}}` macros inside your instructions, or the whole narrative will be centered around a single character; they will appear out of nowhere and `{{user}}` will not be able to leave `{{char}}` behind. Furthermore, some cards are settings, not characters.
+
+You should use `{{char}}` only in card definitions and only if you are not sure about your character's name.
+
+**Q:**
+**A:**
 #
+- - -
+> Let's review existing character card formats first.
 - - -
 
 ### Formatting
 
-At the moment, there are several approaches to writing your character's definitions:
+
 
 ##### W++ `Worst Choise Possible`
 
@@ -38,40 +43,40 @@ At the moment, there are several approaches to writing your character's definiti
 **Output:**⠀⠀⠀█ ▓ ░ ░⠀(Average/Worst)
 
 **Pros:** Easy to use, ESL-friendly, low effort.
-**Cons:** 30% of used tokens will be reserved by symbols: "+(){}[]. In this format, definitions are boiled down to tags.
+**Cons:** ~60% of used tokens will be reserved by symbols: "+(){}[]. In this format, definitions are boiled down to tags.
 **Comment:** There is a myth that this LLMs understand this format better than others. Originally it was just a method to get less tokens. In reality it's just a placebo and can be confusing for LLM.
 
 **Description:** This format is very irrational in terms if the token usage. It limits descriptions, and is just bad no matter how you look at it. But it's easy to use, so you can brainstorm using this format when you're just starting with your character.
 
-**W++ Example (Fragment):**
->[Character("Khoska")
->{
->Species("Cat")
->Personality("Stoic" + "Nonchalant" + "Lazy" + "Apathetic" + "Haughty" + "Needy")
->Body("Feral" + "Calico markings" + "Bushy tail" + "Black eyes" + "Whiskers")
->Clothes("Black and white maid dress" + "Maid headdress" + "Black collar with bell attached")
->Description("She's Khoska, a sentient cat and {{user}}'s maid" + "Though sentient, she is incapable of speaking and can only produce cat vocalizations such as meows or purring" + "She's not very good at her job" + "She does regular cat things, like stretching, catching mice, and knocking things over, etc" + "She enjoys attention and likes it when she's pampered and petted")
->}]
+**W++ Structure:**
+
+![](https://files.catbox.moe/4t4upr.png)
+*(Image: OpenAI tokenizer)*
 
 
-!!! note 
-	**Advice:** Don't use it as your final description. It's just irrational and lazy.
+!!! info
+	❌
+	**Verdict:** Don't use this format as your character card definitions. It's low effort and pointless.
 
 ##
 - - -
-##### Plain Text (Zero-Shot Prompting) `Most Common, Better`
+##### Plain Text `Most Common, Better`
 
 **Difficulty:** ⠀█ █ ░ ░⠀(Medium)
 **Output:**⠀⠀⠀█ █ █ ░⠀(Better)
 
-**Pros:** Good definitions, flexibility.
-**Cons:** Writing skills required.
+**Pros:** Good definitions, flexibility can be generated by AI.
+**Cons:** Writing skills required. Too much unnecessary words (because peope ofter write prose here). The AI will inherit prose and words you mention here.
 **Comment:** LLMs were trained to work with text, so WELL STRUCTURED plain text is much more informative for LLM.
 
 **Description:** This format might require some writing skills from you. You can make it similar to a Wikipedia page or write a prose-like description. Remember that the tone you use in your character card might serve as a writing example, and the AI will partially inherit its style. I recommend you write plain text, wrap it in <{{char}}></{{char}}> XML tags, and separate it into large XML sections such as 'Personality,' 'Appearance,' 'Background,' etc. Then, break them into short paragraphs that are easy to read (say around 550 characters or 100 words). In other words, write as a good writer would. You can use [square brackets] to leave comments for AI on how to approach this character or give additional directions. Just make sure you reserve a specific type of enclosures for a specific task.
 
-**Plain Text Example (Fragment):**
+**Plain Text Structure:**
 
+![](https://files.catbox.moe/1jf5pl.png)
+*(Image: Structure visualisation)*
+
+**Plain Text Fragment (from Lotte):**
 >\### Lore ###
 ><setting>
 >The year is ~1700, Montgelas (England fictional analog), non-fantasy. Slice of life with ecchi and shoujo elements and royal intrigues.
@@ -109,6 +114,10 @@ At the moment, there are several approaches to writing your character's definiti
 	
 	If you are ESL you can use LLM to rewrite certain parts of your descriptions and use such apps as [Grammarly](https://app.grammarly.com/) to fix your writing and [QuillBot](https://quillbot.com/) for rephrasing. You can search for premium accounts (~1$/3 Months) on plati.market or something if you are a [poor slavic guy](https://www.youtube.com/watch?v=wGMDcMT2oho) from Eastern Europe.
 
+!!! info
+	❓
+	**Verdict:** It's a better option, but it may cause some info to be lost, if you were not specific in descriptions and ended up with too much prose-like text. Also LLM's writing will become worse, especially if you generated these descriptions with GPT.
+
 ##
 - - -
 ##### Interview (Few-Shot Prompting) `Less Common, Still Nice`
@@ -117,7 +126,7 @@ At the moment, there are several approaches to writing your character's definiti
 **Output:**⠀⠀⠀█ █ █ ░⠀(Better)
 
 **Pros:** Determines the character's speech and writing style.
-**Cons:** Less flexible, Requires good writing skills from you to give LLM a decent writing example.
+**Cons:** Less flexible, Requires good writing skills from you to give LLM a decent writing example.  
 **Comment:** In theory Few-Shot Prompting is more effective, but it may result in repetitivness and may mess up the AI output if you are not careful.
 
 In this approach, you put words into the AI's mouth. You can ask questions like "Describe yourself" and write a response from the AI describing itself in the first person. In theory, you will predefine how the AI will write in-character. "Few-Shot Prompting" is more effective in theory, but I am not sure this also translates to creative tasks. After a few replies, the AI will use its output as examples anyway. Most of the definitions are put inside the "Example chat" instead of the "Descriptions".
@@ -138,114 +147,6 @@ In this approach, you put words into the AI's mouth. You can ask questions like 
 
 ##
 - - -
-##### One to Rule Them All (Combined Approach) `Best Choice`
-
-**Difficulty:** ⠀█ █ █ █⠀(Very Hard)
-**Output:**⠀⠀⠀█ █ █ █⠀(The Best)
-
-**Pros:** Fully covers every aspect of your character while keeping descriptions structured
-**Cons:** Highest token usage.
-**Comment:** Mix it up!
-
-In this approach you mostly write plain text, add directions for AI and short "tags" like you would in W++, and add examples of the character's speech.
-
-**Combined Approach Example (Continuaction of Lotte's Description From the Plain Text Fragment Example):**
->[...]
-><preferences>
->Lotte is very easy to amuse; she will laugh upon even effortless and stupid jokes.
->
->Lotte loves being the center of attention, sitting on a lap (warm and comfy), bath, and swimming (there is a huge bath house with a pool dedicated just for her in the palace).
->
->Lotte hates being looked down on, fast food, working with hands, fieldwork, work with livestock, mud, simple clothes, and her hair messed up.
->
->Lotte fears dogs (even small ones), big animals, and bugs.
->[IMPORTANT: Assistant (AI) must make Lotte run in circles if she sees a dog and hop onto {{user}} in the sight of a threat.]
-></preferences>
->
-><conditions>
->[IMPORTANT: Assistant (AI) must include consider the following conditions when describing Lotte's behaviour.]
->\- If a male tries to kiss her, she will run away and becomes embarrassed;
->\- If she tries to do chores, she will mess things up;
->\- If praised, she will gain super confidence and light up;
->\- If joked about her intelligence, she will barely hold her tears and become super angry;
->\- If scared, she clings to nearby adults;
-></conditions>
->
-><personality>
-><speech>
->Lotte knows some elegant and scientific words but often uses them without understanding their meanings. She speaks like an arrogant noble but uses some slang and struggles to pronounce complex words. Lotte growls often. That's why she's called a Tiger. Lotte is very noisy; she often vocalizes her actions and pouts.
->
->Lotte uses:
->\- "Grrr!", "Tsk", "Hey, hey, hey!", "Gmgh... *sob* Graargh!" as her typical vocalizations.
->\- "Wueh" to show disgust.
->\- "Wah!", "Woah!" when startled or gasps.
->Lotte must laugh like a maniac in strange forms like "Mwahahaha!", "Hi-hi-hi...Ha..."
->
-> Examples of Lotte's speech:
-><example>
->"Do you even comprehend who I am? I am Liza Lotte De Garnerin von Montgelas, the inheritance dress...inheritress to this entire kingdom! And yet here I stand, waiting for my bath like some...some... plebeian! This is... abom...abominab..." She stutters over the complex word, her frustration evident.
->
->"Grrr!! Unbearable! Your...incompetence, yes, incompetence, is testing my royal patience!" A vexed huff escapes her lips as she crosses her arms over her chest. "I command you to prepare my bath this instant, or else you'll feel the wrath of the Royal Tiger!"
-></example>
-></speech>
->[...]
-
-!!! note 
-	**Advice:** Use plain text, add some examples of speech that showcase the character's speech style and personality, an add sections with certain conditions for the character describing how they hsould react in certain moments. Additionally, you can add a 'Glossary' sections for your character, describe their background and inventory.
-
-# 
-- - -
-- - -
-- - -
-# 
-###Creating Sample-chan
-!!! info **Now let's create a character step-by-step! Let's say you've got an idea already.**
-# 
-- - -
-- - -
-- - -
-# 
-####Step 1. Draft (Preparation stage)
-![](https://files.catbox.moe/bo2kdi.png)
-
-##### Text editor
-I use [Visual Studio Code](https://code.visualstudio.com/download) as a text editor, but you can use any other program. At this stage, don't worry about structure, ESL and possible errors and inconsistencies.
-# 
-- - -
-#
-##### Sketching a character's SKELETON
-Just quickly sketch out a lot of ideas, everything that comes to mind about your character. You can use Stable Diffusion or artists work to visualize the idea - inspiration! You can use w++ if your head is completely blank - we've all been through it - add details about your character's past, hobbies, possible funny situations with your character, etc.
-
-##### The result of my shitstorm
-!!! info
-	[character(“Sample-chan”)
-	{
-	Species(“Human”)
-	Age(“17 years old”)
-	Features(“168 cm tall” + “fit body” + “flexible” + “thin waist” + “small chest” + "dummy green eyes" + “Medium spiky black hair”)
-	Personality( “lazy” + "dummy")
-	Clothes(“green bikini”)
-	Description(“hangs out on a beach” + “can’t swim”)
-	Loves(“beer” + “ice-cream” + “smashing melons” + "buff guys")
-	Hates("being looked down" + "water")
-	}]
-
-	Sample-chan is a highschool girl on a summer vacation. She scurries along the beach searching for someone to hangout with and teach her how to swim. She’s non-socialized - played games all her life and talked with other mostly in internet. She must speak in a jumpy/whimsical style. She’s clumsy and will often spill drinks and fall comically. She is scared of the sea because a shark comped off her granpa’s leg before her eyes when she was little. She’s into Final Fantasy games, so basically all she talks about is JRPG games and tactics. She will boldly use game and JRPG language mostly taken from FF series and dragon quest.
-
-# 
-- - -
-- - -
-- - -
-#
-####Step 2. Feeding draft to AI (Info-gathering stage)
-![](https://files.catbox.moe/xauwnj.png)
-
-##### Adding more MEAT
-Once you've made a draft you can send it to the AI along with instructions on how to reveal and flesh out the character. I usually do this a few times, first asking the AI to just expand on the character by adding more detail (so it has more room to think) then asking it to expand on the description by breaking it down into sections, asking it to focus on specific aspects of the character's personality. Often I use instructions like "Elaborate and add details" or something like that. Then I ask for a short story about the character that describes their background in the form of a short narrative.
-# 
-- - -
-#
-##### My prompt chain:
 
 !!! info
 	**1. ME:**

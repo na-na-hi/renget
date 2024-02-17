@@ -57,10 +57,6 @@
 - Vast selection of software. Updates every day; always the most recent version. Several options with simple file hosts.
 - [URL Safety Results](https://www.urlvoid.com/scan/diakov.net/)
 
-### 🐐 [Download Pirate](https://www.downloadpirate.com/)
-- Tonne of goods including LUTS, textures, sound effects, video editing + plugins, motion graphics, and even more.
-- [URL Safety Results](https://www.urlvoid.com/scan/downloadpirate.com/)
-
 ### 🔗 [FileCR](https://filecr.com/) / [Note](https://rentry.co/megathread-filecr)
 - Simplifying access to files for Windows, MacOS, and Android by continually improving and offering a user-friendly interface.
 - [URL Safety Results](https://www.urlvoid.com/scan/filecr.com/)

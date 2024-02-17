@@ -2796,6 +2796,9 @@ https://files.catbox.moe/i06ccx.safetensors
 # Espio the Chameleon (Sonic)
 https://files.catbox.moe/ft1yw5.safetensors
 
+# Storm the Albatross (Sonic)
+https://files.catbox.moe/tbejb1.safetensors
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)

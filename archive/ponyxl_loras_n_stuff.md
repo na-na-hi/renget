@@ -354,6 +354,7 @@ kelvin hiu
 neisan
 pija \(pianiishimo\), 
 koikatsu
+mamimi
 
 strong and doesn't look anything like the artist imo but still possibly useful through varying strength and combining with other artists
 kelvin-trainerk (maybe something to do with kelvin above?)

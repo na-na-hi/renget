@@ -1,18 +1,21 @@
-[ShortVN][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
-Hot:
+Smut/green Archive of /spt/ - Straight Pokephilia Thread
+[Game][Manaphy] https://naughtysableye.itch.io/manaphy-meetup
+
+[Green/Glaceon] https://desuarchive.org/trash/thread/62646802#62665133
+[Green/Vaporeon] https://desuarchive.org/trash/thread/62638195/#62787404
+[Various studies] https://docs.google.com/document/d/1ni0fYdKi2TaQiKnC6yx1pM7nmG_KtGE0fn0XvKJOrR0/
+[Meowscarada] https://www.furaffinity.net/view/54636012/
 [Primarina] https://archiveofourown.org/works/21445417
 [Rapidash] https://archiveofourown.org/works/21444880
 [Gardevoir] https://archiveofourown.org/works/21445507
 [Lopunny] https://archiveofourown.org/works/50821492
 [Zoroark] https://rentry.org/i96o7
-[Various studies] https://docs.google.com/document/d/1ni0fYdKi2TaQiKnC6yx1pM7nmG_KtGE0fn0XvKJOrR0/
 [Braixen] https://archiveofourown.org/works/49281094
 [Aegislash] https://desuarchive.org/trash/thread/59620775/#59703953
 Part 2: https://desuarchive.org/trash/thread/59620775/#59725330
 Part 3: https://desuarchive.org/trash/thread/59737890/#59802028
 Part 4: https://desuarchive.org/trash/thread/60048717/#60097610
 [Lopunny][SFW] https://archiveofourown.org/works/50131117
-[WIP][Mew] https://desuarchive.org/trash/thread/59056192/#59187504
 [Deoxys] https://archiveofourown.org/works/49012456
 [Blaziken] https://archiveofourown.org/works/48433849
 [A-Ninetales] https://rentry.org/fkz4wk

@@ -3,15 +3,17 @@
 ---
 ___
 ___
-#### !~*Last updated on:* 02/04/2024 (MM/DD/YYYY)~!
+#### !~*Last updated on:* 02/17/2024 (MM/DD/YYYY)~!
+
+- **[Story]** *[Wrestling with a Viper](https://rentry.org/palidachi) %limegreen%[SFW]%%* was added
 
 - **[Story]** *[Flight School](https://rentry.org/89bbpa9k) %limegreen%[SFW]%%* was added
 
 - **[Story]** *[Whispers of the Vale](https://rentry.org/8mt2peru) %limegreen%[SFW]%%* was added
 
-- **[Story]**  *[The Gifting Comet](https://rentry.org/fh7v6vcz) %limegreen%[SFW]%%* was added
-
 #### !~*Previously:*~!
+
+- **[Story]**  *[The Gifting Comet](https://rentry.org/fh7v6vcz) %limegreen%[SFW]%%* was added
 
 - **[Story]** *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so) %firebrick%[NSFW]%%* was updated
 
@@ -640,13 +642,19 @@ It's the Season of Giving for one optimistic human and their less-optimistic fri
 
 #### *[Whispers of the Vale [Human x Vaal Hazak]](https://rentry.org/8mt2peru)*
 
-An effluvium-proof mask has unusual effects on a certain hunter. Ongoing.
+An effluvium-proof mask has unusual effects on a hunter. Ongoing.
 
 ---
 
 #### *[Flight School [Human x Legiana]](https://rentry.org/89bbpa9k)*
 
 You decide to take flight with the help of a mantle and your flying wyvern buddy.
+
+---
+
+#### *[Wrestling with a Viper [Human x Viper Tobi-Kadachi]](https://rentry.org/palidachi)*
+
+Fishing trips can always use more company.
 
 ---
 #### *Mizutsune & Lagiacrus %darkmagenta%[Untranslated]%%*

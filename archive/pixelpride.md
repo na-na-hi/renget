@@ -9,7 +9,7 @@ no cr needed, hover / press flags for name<-
 ***
 ***
 ->**PLANS** :: HIATUS. COME BACK LATER<-
-->**POSTIMG IS BACK ??!??!?!?!?!?!>**<-
+->**POSTIMG IS BACK ??!??!?!?!?!?!**<-
 ***
 ***
 **MISC FLAGS** ::

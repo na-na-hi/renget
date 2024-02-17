@@ -1,4 +1,4 @@
-# AICG OP template.
+# AICG OP template
 
 Subject:
 ```
