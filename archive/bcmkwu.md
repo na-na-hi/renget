@@ -1,3 +1,26 @@
+>BabaYaga drone op got rekt
+https://files.catbox.moe/ysekb0.mp4
+>Lancet strikes Bradley
+https://files.catbox.moe/mrlmg5.mp4
+>Counter-battery war: Ru Hyacinth destroys AFU Gvozdika
+https://files.catbox.moe/0yiq9z.mp4
+>Avdeevka residents welcome RU troops
+https://files.catbox.moe/sljuz4.mp4
+>Troops of the 1st Army Corps of the DPR ride into Avdeevka. Kino
+https://files.catbox.moe/iqkior.mp4
+>Drone hunting hohols escaping Avdeevka
+https://files.catbox.moe/lcoj6a.mp4
+>Drone minces AFU during evacuation
+https://files.catbox.moe/blmxio.mp4
+>AFU leaves Avdeevka
+https://files.catbox.moe/u5xyi7.mp4
+>Russian troops move through Avdeevka
+https://files.catbox.moe/cvf8kb.mp4
+https://files.catbox.moe/y1011j.mp4
+https://files.catbox.moe/06bj93.mp4
+https://files.catbox.moe/0cvh5t.mp4
+>Servicemen of the 604th TsSN “Vityaz”, a special forces unit of the National Guard of Russia, dedicate a song to their fallen brothers
+https://files.catbox.moe/mcbkej.MOV
 >How Avdeevka started and how its going
 https://files.catbox.moe/5uox8x.mp4
 >Russians drive through Avdeevka on chinktruck

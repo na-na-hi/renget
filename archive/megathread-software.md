@@ -25,10 +25,6 @@
 
 # 📑 ➜ Direct Downloads
 
-### 🔗 [4MIRRORLINK](https://4mirrorlink.com/)
-- Complete software downloads, audio samples, tutorials, e-books, and videos may all be found here.
-- [URL Safety Results](https://www.urlvoid.com/scan/4mirrorlink.com/)
-
 ### 🔗 [Aedownload](https://aedownload.com/)
 - Hundreds of brand-new, After Effects and Premiere Pro templates, including sound effects are available.
 - [URL Safety Results](https://www.urlvoid.com/scan/aedownload.com/)
@@ -36,10 +32,6 @@
 ### 🔗 [AERIVER](https://aeriver.com/)
 - Freely download an array of creative materials for all your video motion graphics needs.
 - [URL Safety Results](https://www.urlvoid.com/scan/aeriver.com/)
-
-### 🔗 [ALLPCWorld](https://allpcworld.com/)
-- Download the newest software with only one click and quick installation.
-- [URL Safety Results](https://www.urlvoid.com/scan/allpcworld.com/)
 
 ### 🔗 [AppDoze](https://appdoze.com/)
 - Get your the latest software effortlessly and enjoy a seamless installation process.
@@ -57,10 +49,6 @@
 - Vast selection of software. Updates every day; always the most recent version. Several options with simple file hosts.
 - [URL Safety Results](https://www.urlvoid.com/scan/diakov.net/)
 
-### 🔗 [FileCR](https://filecr.com/) / [Note](https://rentry.co/megathread-filecr)
-- Simplifying access to files for Windows, MacOS, and Android by continually improving and offering a user-friendly interface.
-- [URL Safety Results](https://www.urlvoid.com/scan/filecr.com/)
-
 ### 🔗 [Freepreset](https://freepreset.net/)
 - Dedicated to assisting you in obtaining premium lightroom presets, luts, photoshop actions and a plethora of other design materials.
 - [URL Safety Results](https://www.urlvoid.com/scan/freepreset.net/)
@@ -68,6 +56,10 @@
 ### 🔗 [G-MEH](https://g-meh.com/)
 - Dedicated to music production tools including DAWs and plugins. Sample libraries may only be accessed by premium members.
 - [URL Safety Results](https://www.urlvoid.com/scan/g-meh.com/)
+
+### 🔗 [Getalink](https://getalink.net/)
+- Sssortment of software downloads, audio samples, and utilities catered to Windows and MacOS.
+- [URL Safety Results](https://www.urlvoid.com/scan/getalink.net/)
 
 ### 🔗 [GFXDomain Blog](https://gfxdomain.co/)
 - Focusing on resources from a variety of programs for 3D modeling, animation, motion graphics, video editing, and texturing.
@@ -112,10 +104,6 @@
 ### 🔗 [PeskTop](https://pesktop.com/) • Arabic UI
 - Resource for Windows, Android, and Mac OS, providing direct access to heaps of cracked content.
 - [URL Safety Results](https://www.urlvoid.com/scan/pesktop.com/)
-
-### 🐐 [RSLOAD](https://rsload.net/) • Russian UI
-- It offers access to files for the most recent app releases and always changing and improving to keep up with the times.
-- [URL Safety Results](https://www.urlvoid.com/scan/rsload.net/)
 
 ### 🔗 [SCloud](https://scloud.ws/) • Sign Up
 - The primary focus is Windows applications. Additional resources include games, specific applications, and more.

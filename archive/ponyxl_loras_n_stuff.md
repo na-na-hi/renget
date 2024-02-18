@@ -55,7 +55,7 @@ https://files.catbox.moe/9qwl57.safetensors g3mma
 https://files.catbox.moe/nvc1m8.safetensors ndc
 https://files.catbox.moe/kbaz4k.safetensors trogfor
 https://files.catbox.moe/4b97sc.safetensors nephlite
-https://files.catbox.moe/qtpqif.safetensors yd
+https://files.catbox.moe/bvp95y.safetensors yd
 https://files.catbox.moe/ecebk5.safetensors rustle
 https://files.catbox.moe/ojbvr4.safetensors afrobull
 https://files.catbox.moe/rqqk5m.safetensors akihiko_yoshida

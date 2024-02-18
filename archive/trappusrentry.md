@@ -22,10 +22,20 @@ Sampler settings (Temperature, Repetition Penalty, etc...) are, most of the time
 The way this preset works is, every sampler is disabled except Temperature, Min P and Repetition Penalty.
 
 - Repetition Penalty It's 99% of the time going to be fine at 1.05. Recommended values: 1.05 - 1.15. Anything higher than that and your gens are gonna be odd.
-- Temperature: Each token has a probability attached to it and Temperature is the sampler that affects that. Higher temperature will flatten the curve, meaning that there will be higher chances that the model picks a token that it otherwise wouldn't have. Recommended values: 1 - 5 (I'll elaborate on that later.
-- Min P: This is a relatively new sampler that's really great to filter out bad tokens. What it does is set a threshold where tokens that are under a minimum probability will simply be removed. This acts like a filter that gets rid of tokens you won't want to see. Recommended values: 0.005 - 0.2
+- Temperature: Each token has a probability attached to it and Temperature is the sampler that affects that. Higher temperature will flatten the curve, meaning that there will be higher chances that the model picks a token that it otherwise wouldn't have. Recommended values: 1 - 5 (I'll elaborate on that later.)
+- Min P: This is a relatively new sampler that's really great to filter out bad tokens. What it does is set a threshold where tokens that are under a minimum probability will simply be removed. This acts like a filter that gets rid of tokens you won't want to see. Recommended values: 0.05 - 0.2
 
-Temperature and Min P are samplers that work really well together; Min P gets rid of bad tokens while Temperature increases the likelihood of seeing a wider variety of tokens. Min P makes it so that a lot of bad tokens are kicked out before Temperature increases their probability, which means it's possible to very high Temperature values as long as you change Min P accordingly. For starters, I recomment Temperature 1.40 and Min P 0.1, but you'll want to experiment with this. This preset is also very beginner-friendly and easy to tune. Boring gens = increase Temperature or reduce Min P. Unhinged gens = reduce Temperature or increase Min P. Doing this will put you well above the rest and give you the optimal (afaik) LLM RP experience.
+Temperature and Min P are samplers that work really well together; Min P gets rid of bad tokens while Temperature increases the likelihood of seeing a wider variety of tokens. Min P makes it so that a lot of bad tokens are kicked out before Temperature increases their probability, which means it's possible to very high Temperature values as long as you change Min P accordingly. For starters, I recommend 3 different combinations:
+
+- Temperature 1.20 and Min P 0.1 | Very safe values, extremely unlikely to cause any problems.
+- Temperature 1.40 and Min P 0.1 | Safe values, more fun than the former, safer than the latter.
+- Temperature 1.80 and Min P 0.15 | A little risky, very fun values but not recommended on dumb models.
+
+This is, of course, my personal preference so you'll want to experiment with them yourself. This preset is also very beginner-friendly and easy to tune.
+
+Boring gens = increase Temperature or reduce Min P.
+Unhinged gens = reduce Temperature or increase Min P. 
+Doing this will put you well above the rest and give you the optimal (afaik) LLM RP experience.
 
 !!! info **Tip:** In order to make the best use of a PLists + Ali:Chat card, I **VERY HIGHLY** recommend putting the PList inside Author's Note. This is **mandatory** if you're using a model with more than 2048 context size to make sure your bot's personality doesn't disappear over time. 
 

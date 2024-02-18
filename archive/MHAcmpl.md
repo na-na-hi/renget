@@ -714,6 +714,7 @@ Updated 1-F Seating Chart: https://desuarchive.org/tg/post/91891169/
 1-F Valentines: https://rentry.org/mcfn8i2c
 Impakt Valentines: https://desuarchive.org/tg/post/91906255/
 Impakt Valentines: https://desuarchive.org/tg/post/91906547/
+Funni Siblings (Satoru Tani): https://desuarchive.org/tg/post/91918576/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1167,6 +1168,9 @@ My First Valentine (Mirror Devil, Drone, various others): https://rentry.org/q26
 Bitey Bastards (1-F): https://rentry.org/BiteyBastards
 Contains Periods (Slip-N'-Slideasaurus, 1-F): https://rentry.org/6xph3gq4
 The Sweet Mess (Challenger, Recoil): https://rentry.org/MHAthesweetmess
+The 19th Ninja Art: Confections (Maru, Class 1-D): https://rentry.org/42qavbt4
+A Sweet Chocolate February (Ryu-kishi, The Boys, Cool Boost, Maru(maru), Rosethorn, Officer Okari): https://rentry.org/xwdzd7rb
+A Valentine's Carol (Satoru Tani): https://rentry.org/yb9ni7xa
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

@@ -1,5 +1,6 @@
 #Windows/Office Installation Guide
 
+
 ######Step 0: Backup your data
 Back up your folders and files in the following locations:
 A) C:\Users\Username
@@ -9,6 +10,8 @@ The AppData folder is hidden, just type it into the path field. Some game devs s
 You can also use something like https://www.gamesave-manager.com to backup your game saves.
 Not all the folders need to or should be backed up. Game dev folders, 3rd party programs, etc might be safe to backup, but you probably shouldn't backup Microsoft or other system related folders in here as they can contain system settings files which can cause unexpected issues with your fresh install.
 
+
+
 ######Step 0.5: Choosing an edition
 There's currently two mainline channels of Windows. General Availability Channel and Long Term Service Channel.
 GAC editions (Home/Pro/Education/Enterprise) are supported from 1.5-3 years and have regular weekly forced updates as well as forced full system upgrades when their support period ends.
@@ -17,6 +20,8 @@ If you update your hardware constantly every year, it will likely get support fa
 LTSC editions (LTSC & IoT LTSC) are [identical to Enterprise](https://learn.microsoft.com/en-us/windows/iot/iot-enterprise/getting_started) except they will not have any feature updates pushed to them, only security updates and bug fixes, do not come with the Microsoft Store by default, and by extension do not come with any bloat apps, and are supported for 5 & 10 years respectively from release, with a new edition released every 3 years. They are in essence the successor to the classic Windows release cycle from Windows 3.11 through 7.
 This is the preferred channel if you prefer stability and reliability, as well as control over when you want to update and upgrade your OS.
 You will however, lack support for the newest bleeding edge hardware. As of right now, IoT LTSC 21H2 does not have support for Intel E-cores (12th gen+), support will be included in IoT LTSC in 24H2. 21H2 will still run on a CPU with E-cores, but its scheduler will not be able to differentiate a P-core from an E-core and may cause issues, performance impact will vary greatly with each use case, some have significant hiccups while others will notice no issues.
+
+
 
 ######Step 1: Download and verify you have a legitimate Windows ISO
 This guide uses IoT LTSC but the same steps apply to any non-VolumeLicense Enterprise/Education/Workstation edition of Windows.
@@ -42,6 +47,7 @@ Install 7zip > right click ISO > CRC SHA > SHA-256
 If the SHA-256 matches the one from visualstudio.com, then the file has not been tampered with since release.
 
  
+
 ######Step 2: Download Rufus and flash to USB
 https://github.com/pbatard/rufus/releases/
 Plug in a USB drive (at least 8GB)
@@ -62,6 +68,7 @@ Wiping the EFI partitions off all other drives before installation will ensure t
 If all this sounds too complicated for you, you can also just temporarily disconnect all drives except the drive you want to install Windows on, and reconnect them after installation.
   
 
+
 ######Step 3: Booting to USB
 Reboot and make sure it's set to UEFI mode in BIOS settings.
 While you're in BIOS, you may also choose to disable TPM and/or SecureBoot to prevent the Win11 upgrade notice.
@@ -73,6 +80,7 @@ The key press required varies by OEM and could be F1, F2, F7, F10, F12, Delete, 
 If unsure or it doesn't say so on screen, just mash all of them, restarting as needed to retry.
 Once in boot selection, choose the USB drive and boot it.
  
+
  
 ######Step 4: Installing Windows
 At key entry, choose "I don't have a product key"
@@ -112,6 +120,7 @@ If you need the MS Store, simply type "wsreset -i" into CMD and wait for a minut
 Without the MS Store and the default apps you may run into situations such as when starting a game you'll be prompted with **"You’ll need a new app to open this 'ms-gaming overlay'**. This is because the game is trying to start up the Xbox Game Bar overlay on startup. You can just ignore this and it will not affect anything, but if you want to get rid of the notice just install the MS Store as above, then search for the Xbox Game Bar in the store and install it.
 
  
+
 ######Step 5 (Optional): Installing Office
 Office can be downloaded directly from MS servers with zero issues:
 https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img
@@ -132,8 +141,28 @@ https://www.wps.com/download
  
 Do not bother with OpenOffice. Oracle fired all its devs in 2011 and donated the trademark and source to Apache who also has done nothing with it since 2014, and it doesn't even support modern Office formats like docx.
  
+
+
+######Step 6 (Recommended): Disable Automatic Updates
+
+Start by pressing Win+R, typing gpedit.msc and Enter.
+Once in, navigate to:
+>Local Computer Policy
+>>Computer Configuration
+>>>Administrative Templates
+>>>>Windows Components
+>>>>>Windows Update
+
+In this section, open up Configure Automatic Updates and set the following settings:
+![](https://images2.imgbox.com/2e/54/8EQuxR5e_o.png)
+
+This is where the instructions differ from nearly everything you find online, as they will tell you to **disable** "Configure Automatic Updates" in order to disable automatic updates, which if you have even a basic grasp of English you should find odd. All that would do is **disable configuration and prevent any other system setting from enabling configuration** of automatic updates, essentially doing absolutely nothing except enforcing the default setting.
+
+You should not under any circumstances use Google or Youtube to find instructions on how to do this in the future. 99% of all "information" out there is by literal drooling retards who have no idea whatsoever how to use GPEdit, have zero MS certifications to their name, and have never worked a day as an actual Windows admin in their life. Yes, that includes every guide on how to do this from Bitdefender, Avast, WindowsCentral, anything on Youtube, etc. Literally the only places on the internet you'll find the correct information on how to configure this is here in this guide, or buried deep in some MS server admininstrator training docs, and https://www.minitool.com/backup-tips/how-to-stop-win10-update.html.
  
-######Step 6 (Recommended): Partition system drive and move user folders to reinstall-proof your data
+
+
+######Step 7 (Recommended): Partition system drive and move user folders to reinstall-proof your data
 By default, your user folder is stored in C:\Users\username, the problem with this is that if your install gets corrupted and you need to reinstall, all of your documents get wiped unless you have a spare computer to plug your drive into to pull the files first. Moving your user folders to a 2nd partition/drive avoids this problem.
 
 For a 256GB+ SSD, a 100GB Windows partition should be plenty of space for Windows itself and whatever programs you need.
@@ -184,8 +213,9 @@ From here you can just copy paste "D:\" or wherever your secondary partition is 
 
 If you want, you can also right click on the Key and export it to a .reg file to easily redo this on future reinstalls.
  
+
  
-######Step 7 (Recommended): Use portable apps to also save having to reconfigure on reinstalls
+######Step 8 (Recommended): Use portable apps to also save having to reconfigure on reinstalls
 Hate losing all your browser shortcuts, tabs, bookmarks, settings, etc after a reinstall?
 Just use a portable browser and install it to your secondary partition/drive.
 The browser will be entirely self contained and can be updated in its own folder, so all your settings, tabs, bookmarks, etc will be safe from reinstalls.
@@ -198,7 +228,8 @@ Other useful portable apps:
 https://portableapps.com/apps
  
 
-######Step 8 (Optional): Disable Telemetry
+
+######Step 9 (Optional): Disable Telemetry
 https://wpd.app
 https://www.oo-software.com/en/shutup10
 https://github.com/builtbybel/privatezilla#download
@@ -215,8 +246,9 @@ Make sure you understand how to undo the changes these tools make in the inevita
  
 The best way to manage privacy settings however, is to use Group Policy as this is the method officially created for Enterprise admins that need control over these settings. Some of these tools simply apply Group Policy settings and are easily reversed, others apply registry hacks or even delete system files and can royally fuck your install. Do your research. You've been warned.
  
+
  
-######Step 9 (Optional): Removing extraneous icons from Explorer's navigation pane
+######Step 10 (Optional): Removing extraneous icons from Explorer's navigation pane
  
 Lastly, if you hate all the QuickAccess/Pictures/Music/Videos/Documents/DuplicateRemovableDrives/etc folders in the Explorer navigation pane, you can remove them with the following .reg files.
 

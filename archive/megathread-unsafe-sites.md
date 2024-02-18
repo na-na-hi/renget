@@ -126,14 +126,17 @@
 
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 ------ | ------ | ------
+**ALLPCWorld** | allpcworld-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **CrackedFully** | crackedfully-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Download Pirate** | downloadpirate-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 **FTUApps** | ftuapps-dev | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 **Get Into PC** | getintopc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**FileCR** | filecr-com| **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **HaxPC** | haxpc-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Karan PC** | karanpc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **KoLomPC** | kolompc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Portable4PC** | portable4pc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**RSLOAD** | rsload-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **S0ft4PC** | s0ft4pc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **SadeemPC** | sadeempc-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Sample Drive** | sampledrive-in | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).

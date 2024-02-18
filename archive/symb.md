@@ -3,7 +3,7 @@
 
 ->![div](https://media.discordapp.net/attachments/1051989271000649741/1118656100242305155/lalal.gif?width=1000&height=38)<-
 
-->why does this have almosf as many views as my url hoard woahhhhh guys
+->Tjis has more views than ky url haord
 ꒰ `⠀❥⠀` ꒱ ⠀┈ ⠀HAII ! welcome 2 mi symbol stash :3 
 a collection of kaomojis , symbls n more stuff i use 
 in rentries ++ jus decorating layouts , text , and any 
