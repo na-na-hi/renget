@@ -51,6 +51,16 @@
 ##### -> Selen Tatsuki <-
 -> [Civitai](https://civitai.com/models/294243/selen-tatsuki-sdxl) <-
 
+##### -> Males <-
+***
+###### -> Vox Akuma <-
+-> [Civitai](https://civitai.com/models/59427/vox-akuma-nijisanji) <-
+
+#### -> Phase Connect <-
+***
+##### -> Jelly Hoshiumi <-
+-> [Civitai](https://civitai.com/models/95498/jelly-hoshiumi-phase-connect)
+
 #### -> Indies <-
 ***
 ##### -> Delutaya <-
@@ -248,6 +258,10 @@
 !!! info Example Prompt
 	[TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427)
 -> [Catbox](https://files.catbox.moe/7u3yvi.safetensors)  <-
+or
+!!! info Example Prompt
+	In the link
+-> [Civitai](https://civitai.com/models/309995/dokibird-virtual-youtuber) <-
 
 ##### -> Eira Woolcott <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -276,3 +290,8 @@
 ##### -> Hololive -Promise- <-
 !!! info Contains the entirety of promise? 
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ) <-
+
+#### -> Phase Connect <-
+***
+##### -> Muu Muyu <-
+-> [Civitai](https://civitai.com/models/309439/muu-muyu-ponyxl) <-

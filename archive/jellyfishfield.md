@@ -2,6 +2,7 @@
 ![.](https://media.discordapp.net/attachments/1112655651416588371/1187870138091974706/Untitled9_20231222143143.png?ex=65987546&is=65860046&hm=9750b3274a40fc76d70178fec4cc91048ac149287f05d2000d1dbf0ad08a7349&)
 -> ˖ ՚༹ ˙˖ 𖥔 welcome to [luciel](https://rentry.org/edwardnashton) & [enny's](https://rentry.org/clairo) url hoard
 -> ke**y** — ~~nft~~ ◞ **in use** ◞ ==picky== ◞ *decorated* <-
+-> u can ask/trade for any url unless marked otherwise <-
 -> wishlist , /puppeteer, /homelander, /folklore <-
 ![!](https://media.discordapp.net/attachments/1112655651416588371/1187876285901439006/IMG_1032.gif?ex=65987b00&is=65860600&hm=d6ac5c0536de62375c472233ffcc67bbe31faba54d97729fa833ca4328bbc675&)
 ---

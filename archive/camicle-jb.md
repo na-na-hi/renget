@@ -1,12 +1,29 @@
-# -> json to rule them all <-
+# -> camicle's gpt jailbreaks <-
 
--> *a stupidly simple UJB for GPT-4 and above* <-
+-> *Damn you nurbo* <-
 
 mostly tested with gpt-4-0125-preview (aka "nurbo")
 also seems to work on gpt-4-1106-preview, gpt-4-0613
 probably works on gpt-4-vision-preview
 
 [TOC2]
+
+## v4 (actually good)
+thank you thank you thank you [neo-furbo](https://rentry.org/neo-furbo), i've shamelessly stolen your main prompt
+should work with group chats and impersonates!
+
+**use the system gaslight at the end ONLY if you get refusals (mostly on NSFW). if that doesn't work, send me an email and try enabling character names, or both.**
+
+[v4.2](https://files.catbox.moe/8x20pl.json)
+~~v4.1 actually uses the god prompt properly, thanks anon~~
+~~[v4.1](https://files.catbox.moe/8x20pl.json) [v4](https://files.catbox.moe/r4kgrg.json)~~
+i also highly recommend the [logit bias preset](https://files.catbox.moe/80u1vt.json)
+no regex/gaslighting/etc. required
+
+please [email me](mailto:camicle@proton.me) if you have logs, issues, etc. :)
+
+---
+old json stuff
 
 ## v3
 

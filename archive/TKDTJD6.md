@@ -452,3 +452,137 @@ https://nitter.woodland.cafe/QudsNen/status/1758560089147867375#m  2/16/24
 
 >BREAKING| The ICJ rejects South Africa's latest application and says the escalation in Rafah “Does not demand the indication of additional provisional measures.”
 https://nitter.poast.org/QudsNen/status/1758596018059301205#m  2/16/24
+
+>The Yemeni Armed Forces: "In response to the injustice facing the Palestinian people, as well as the American-British aggression on Yemen, we have targeted a British oil ship in the Red Sea with a significant number of suitable naval missiles, achieving a precise and direct hit."  
+https://nitter.poast.org/QudsNen/status/1758788867107242283#m  2/17/24
+
+>BREAKING| The Ministry of Health: Israel committed 9 massacres in the past 24 hours, killing 83 citizens and wounding 125 others. 
+
+This brings the total number of victims since October 7 to 28,858 and the injuries to 68,677.
+
+(Illustrative photo)
+https://nitter.poast.org/QudsNen/status/1758799255240683814#m  2/17/24
+
+>BREAKING| Head of the Political Bureau of Hamas, Ismail Haniyeh:
+
+⭕️ The resistance will not settle for anything less than a complete cessation of aggression, the withdrawal of the occupation army outside the Gaza Strip, lifting the oppressive siege, providing safe and suitable shelter for the displaced and homeless due to the Israeli crimes, the return of the displaced, especially to the north of the Strip, stopping the savage policy of starvation, committing to reconstruction, all of which are humanitarian requirements and the subject of consensus in the UN, human rights institutions, and the ICJ, and Israel must adhere to them. 
+
+⭕️Achieving a prisoner exchange deal, through which our prisoners would be released, especially the veterans and those with high sentences, is a goal of these negotiations and cannot be overlooked.
+
+⭕️The movement deals with the ongoing negotiations in a positive spirit and with high responsibility. However, it will not relinquish the sacrifices of our great people and the achievements of its brave resistance.
+
+⭕️We will use all available means to stop the bloodshed carried out by the enemy around the clock against our defenseless people.
+https://nitter.poast.org/QudsNen/status/1758802881333829820#m  2/17/24
+
+>The Government Media Office stated that Israel committed 2512 massacres in 134 days of genocide, raising the number of those murdered and missing to 35,858, the bodies of 28,858 of whom were registered in Gaza's hospitals.
+https://nitter.poast.org/QudsNen/status/1758813123153207464#m  2/17/24
+
+>New York Governor apologizes for controversial remarks justifying the genocide in Gaza
+https://nitter.poast.org/QudsNen/status/1758819461216276610#m  2/17/24
+
+>Five Senators urge US administration to launch Gaza relief operation
+https://nitter.poast.org/QudsNen/status/1758826556237987883#m  2/17/24
+
+>BREAKING| US Secretary of State Antony Blinken says Israel has become now safer and Iran is the biggest threat to Israel's and US security and it should be isolated along with its proxies.
+https://nitter.poast.org/QudsNen/status/1758833519793483928#m  2/17/24
+
+>⚡️Lebanon: The Islamic Resistance in #Lebanon: The Ruwaisat Al-Alam site in the occupied Lebanese Shebaa Farms was targeted with missile weapons and was directly hit.
+
+⚡️Lebanon: The Islamic Resistance in #Lebanon: The Al-Summaqa site in the occupied Lebanese Shebaa Farms was targeted with missile weapons and was hit directly.
+https://nitter.poast.org/ME_Observer_/status/1758851761975025790#m  2/17/24
+
+>⚡️Statement of Yahya Saree :
+
+Yemeni armed forces strike a British oil ship
+https://nitter.poast.org/ME_Observer_/status/1758858946893230510#m  2/17/24
+
+>⚡️#Lebanon: Al-Manar correspondent:
+
+ Zionist artillery shelling targets Jabal Balat near Ramia
+
+⚡️Lebanon: The Islamic Resistance in #Lebanon: 
+
+The “Ramia” site was targeted with appropriate weapons and it was directly hit
+https://nitter.poast.org/ME_Observer_/status/1758877891486458123#m  2/17/24
+
+>The Israeli municipality of occupied Jerusalem threatened a Palestinian with hefty unjust fines, forcing him to demolish his own house in the town of Silwan, south of the Al-Aqsa Mosque.
+https://nitter.poast.org/QudsNen/status/1758890896999817580#m  2/17/24
+
+>⚡️Yemen: The American-British aggression targeted with a raid the lower Jah area in Hodeidah Governorate, western #Yemen
+https://nitter.perennialte.ch/ME_Observer_/status/1758895801529463106#m  2/17/24
+
+>Withdrawal of the remnants of Brigade 55 from the Gaza Strip. Witness the soldiers' joy, as if they can't believe they're leaving Gaza alive.
+https://nitter.lanterne-rouge.info/SilentlySirs/status/1758903041053392918  2/17/24
+
+>Red Crescent reports that the Israeli occupation continues to block the arrival of food, medical supplies, and fuel to Al-Amal Hospital, which forewarns of a humanitarian disaster and the cessation of operations within the hospital.
+https://nitter.perennialte.ch/QudsNen/status/1758925052748132856#m  2/17/24
+
+>ME_OBSERVER_:
+⚡️Netanyahu: “Israel” will fight until absolute victory, and this includes an operation in Rafah
+⚡️Netanyahu: We will not submit to international dictates for the sake of a future settlement with the #Palestinians
+https://nitter.perennialte.ch/ME_Observer_/status/1758919956526256537#m  2/17/24
+
+>BREAKING: 
+
+ 🇮🇱 Netanyahu:
+
+"Those who want to prevent us from operating in Rafah are essentially telling us: lose the war.
+
+I won’t let that happen."
+
+He has already lost the war. He just needs more massacre of children to stay in power.
+https://t.me/megatron_ron/1870  2/17/24
+
+>BREAKING:
+
+🇮🇱🇸🇦 Israel president says normalising ties with Saudi would be "victory over Hamas" 
+https://t.me/megatron_ron/1869  2/17/24
+
+>Protests have erupted in European cities over Israel's intention to conduct a military operation in Rafah, which has up to 1.4 million displaced Palestinians.
+https://nitter.perennialte.ch/QudsNen/status/1758931878613012664#m  2/17/24
+
+>When questioned about Israel's adherence to international law in its bombardment of Gaza, Chancellor of Germany Olaf Scholz refrained from providing a direct response to the journalist during Munich Security Conference.
+https://nitter.perennialte.ch/QudsNen/status/1758939001958830497#m  2/17/24
+
+>BREAKING: TEL AVIV BURNING. 
+>Riots, arson, road closures, and arrests in huge demonstrations in Tel Aviv this evening, demanding the overthrow of the government and Netanyahu.
+https://nitter.lanterne-rouge.info/CensoredNws/status/1758959376381931799  2/17/24
+
+>BREAKING:
+
+ 🇮🇷 Iran has plans to transfer its most advanced Anti-Air systems
+To the Syrian & Lebanese Army
+
+Syrian Army in Deir al-Zour province are being trained to use Iran's Khordad-15 air defense system, equivalent to the U.S. Patriot system.
+
+The system can engage 6 fighter-jets simultaneously from 120km.
+
+Source: The Washington Institute
+https://t.me/megatron_ron/1874  2/17/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 17 (2024), against US-israeli forces:
+— 🇾🇪 Yemeni Armed Forces:
+🔻Successfully targeted the British oil tanker "Pollux" in the Red Sea with a significant number of anti-ship missiles, achieving accurate and direct hits.
+— 🇵🇸 Al-Quds Brigades:
+🔻Shelled IOF soldiers and vehicles gathering in the fronts of Khan Yunis with a barrage of mortar shells.
+— 🇵🇸 Mujahideen Brigades:
+🔻Targeted IOF forces' concentrations east of Khan Yunis with a number of short-range rockets.
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+🔻Engaged in fierce clashes with IOF soldiers using machine guns and anti-tank shells in the axis center of Khan Younis.
+🔻Seizing military equipment from the enemy army after clashing with a fortified IOF force in a house west of the Khan Younis.
+🔻In a joint-operation with Saraya Al-Quds, they shelled a command and control position of the IOF army in the center of Khan Younis with 120mm mortar shells.
+🔻Shelled IOF army's gatherings and machinery in northern Gaza Strip, with 120mm mortar shells.
+🔻Engaged in fierce clashes with IOF forces in axes in Khan Younis city with various weapons and RPGs.
+🔻Targeted a quadcopter drone and seized it in the Beit Hanoun axis.
+🔻Shelled IOF soldiers' gatherings and their vehicles with 60mm mortar shells, east of the Beit Hanoun axis.
+🔻Shelled Asqalan and the “Zikim” site with a barrage of KN-103 rockets.
+🔻In a joint-operation with Martyr Omar Al-Qassem forces, they launched a barrage of rockets targeting an israeli army supply line in the southern axis of Gaza City.
+— 🟡 Hezbollah:
+🔻Targeted the Branit base with a Falaq-1 rockets, resulting in direct hits.
+🔻Targeted the Ruwaisat Al-Alam IOF site in the occupied Lebanese Shebaa Farms with rocket weapons, causing direct hits.
+🔻Targeted the Al-Samaqa IOF site in the occupied Lebanese Shebaa Farms with rockets, achieving a direct hit.
+🔻Targeted an israeli soldiers' gathering in the vicinity of the Al-Dahira site with rockets, achieving a direct hit.
+🔻Targeted spy equipment at the Birkat Risha site with suitable weapons, resulting in a direct hit.
+🔻Targeted the Ramia site with suitable weapons, achieving a direct hit.
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.perennialte.ch/AryJeay/status/1758999335642050597#m  2/17/24

@@ -1,4 +1,30 @@
-**NijiDoki supplement**
+==!~**IMPORTANT NOTE**~!==
+At some point during Feb 17 2024, **the original document** (https://rentry.org/nijidoki/)  **was deleted by a different party**. If, and when, this document is reposted, !~I do not claim any future edits as my own - even if the same url is reused~!.  *(see /nijidoki3 + /nijidoki4)*
+
+Here are archived links to [nijidoki (the main document)](https://web.archive.org/web/20240217105229/https://rentry.org/nijidoki) and [nijidoki2 (the supporting document)](https://web.archive.org/web/20240217113228/https://rentry.org/nijidoki2) in the final forms I left them in.
+
+Thank you for everyone who took the time to read the original document. I would like to address some final points:
+- I stand by what I wrote. I never claimed 'neutrality' (an impossibility), but attempted an essay as moderate, fair and source-backed as possible, based on the public statements so far. At the end of the day, the only parties who may ever know the true sequence of events are ANYCOLOR, the NIJISANJI EN livers and Selen.
+- I hope the document has succeeded in its goal to invite more critical thought & nuance to the ongoing discussion. It helps no one to disregard one 'side' entirely before properly reading and thinking through the available information.
+- The document was written entirely by myself, in my own words. I crowdsourced videos, timestamps and links as supporting evidence after the text was written.
+
+I reiterate the conclusions of the document:
+
+NIJISANJI EN can suffer from incompetence in their management and PR, AND the livers can wish to stay in the company, strive for improvement and rally for a better 2024. Selen can have suffered intense mental stress leading up to her termination BUT this does not immediately implicate her coworkers as malicious bullies who deserve eternal punishment. !~There is likely no black-and-white here: both statements from ANYCOLOR and Selen may hold weight~!.
+
+If you read until now, thank you. You may disagree with what I have written entirely – and it’s simply not feasible for me to cover the expanse of evidence, speculation and hatred that has unraveled so far. But I ask you to try and have a critical view on the situation. Apply logic and reason, don’t just fall into the herd mentality (as multiple livers have recently stated). Think about whether it’s right to trust crackpot /vt/ narratives which claim certain livers are actually managers running the company who pick and choose opportunities; think about whether you have actually watched these livers, whether you have watched Selen, and what discussions have been allowed to happen in the community when it’s not under the spotlight of thousands of drama vultures.
+
+Do these people care about the livers under NIJISANJI? Do they even care about Selen/Dokibird? Most importantly: do they care about the truth, or do they care about being right and silencing anyone who disagrees by weaponizing someone else’s mental illness as a complete shield against criticism & valid concerns?
+
+The world has listened to every word Selen has had to say, but has refused to take a single statement made by NIJISANJI EN – not even the company, but the 32 livers under this branch – at face value. Do you really think all of these people are being held hostage by a mean and evil company, silenced from showing support for someone who was their friend for 2.5-years if there wasn’t a reason for them not to?
+
+**At the very least, everyone involved in the situation has requested an end to the harassment.**
+
+**Please listen.**
+
+
+
+###NijiDoki supplement###
 
 [TOC]
 

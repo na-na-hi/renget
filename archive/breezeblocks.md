@@ -1,0 +1,4 @@
+![breezeblocks](https://media.discordapp.net/attachments/1126713705346904095/1192498517617414204/7f8b9e60a6fc4e41f32987f4065f3ceb.jpg?ex=65a94bca&is=6596d6ca&hm=b0f9ae0188e9a709783adc3af1268fb1c59ab2d5fe6629a8e038ed43d3460d93&) -> *she bruises, coughs, splutters pistol shots* <- 
+
+->![heart](https://media.discordapp.net/attachments/1126713705346904095/1192498517130870864/1278-heart-black-puff.gif?ex=65a94bca&is=6596d6ca&hm=96eeb33065fc48bedee0943b8a3cc1a7283ed35babf576d24e15faad71f06f4c&) <-
+-> ranlotte song , claimed by [13thofthefog](https://rentry.co/13thofthefog). this song is so dear and special to me, ive loved it for ages. <-

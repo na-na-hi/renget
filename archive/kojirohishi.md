@@ -1,0 +1,6 @@
+![koji](https://media.discordapp.net/attachments/1126713705346904095/1189478400386146374/Untitled751_20231227160109.png?ex=659e4f16&is=658bda16&hm=7c2d8255e5510349321d5d8103ff3d41b1ea14dc426ced49c70adde10672412e&)
+-> %green% Kojiro Hishi , vice leader of yotsuya kaidan, from Tokyo Revengers spin off! %%<-
+
+-> I love Kojiro a lot, I think he's extremely well written. The abuse cycle, "the abused becomes the abuser" type of character. He was abused by his older brother, Kensho Hishi. Even mentioning his brother around him will cause him to vomit. This resulted in him being the violent and hostile. He enjoys preying on the weak, and the feeling of being in power. Some people seem to think one day he will murder someone, which is possible. He often uses weapons in fight, examples can be his fight with Baji where he pulled out a handknife, when he knocked out Chifuyu and Baji with a bat, and when he started beating Ryusei with the bat while he was tied to a chair. Though he can fight with his bear hands when needed. He declared war against Toman, and after losing seemed to have calmed down a bit despite still remaining hostile towards some of the first division members, such as Chifuyu. He still has some sense of morality, as he wont fight in populated places with people around. <-
+
+-> [13thofthefog](https://rentry.co/13thofthefog) <-

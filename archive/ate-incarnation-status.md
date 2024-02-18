@@ -1,9 +1,9 @@
 #Atë: Goddess of Fall and Ruin
 >God Rank: C
 >Synchronization Rate: 100%
->Level: 9
->Influence: 12801/25600
->Divinity: 35050
+>Level: 10
+>Influence: 25,600/51,200
+>Divinity: 500/500
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
 
@@ -19,7 +19,7 @@ All of your authorities are more effective against individuals who either like y
 >Pantheon: Spawn of Discord
 Assemble your pantheon to gain a bonus to the effective level of all authorities, as well as a bonus authority that is only available upon full pantheon assembly
 
-##Authorities (15/15):
+##Authorities (15/20):
 
 >Divine Folly (EX):
 You may copy one Authority from any incarnation that falls victim to your directive. The authority you copy is random, and you may do so only once per incarnation, and all authorities are copied at level one
@@ -79,6 +79,8 @@ Releases an ear splitting scream. Causes inner ear damage at close ranges and in
 
 >Enchant Item (1): 
 Allows you to create a Divine Relic. Works better for items made by the incarnation using this authority. If an authority crystal is used, a specific effect may be imparted. The item is severely damaged in the case of failure.
+
+##Miracles (0/5):
 
 ##Titles:
 

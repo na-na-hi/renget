@@ -1,0 +1,5 @@
+![eek](https://media.discordapp.net/attachments/1167470052963012669/1201199787614146660/Untitled777_20240129001830.png?ex=65c8f37a&is=65b67e7a&hm=905bcb35feb5dbd8697a7132b26c4deb1b2ee344381f45a6e3ae9c7c3866d72a&)
+
+-> %black% Dinner-er is not over-er.%% <-
+
+-> ![eek](https://media.discordapp.net/attachments/1192500635845795890/1192501005032620062/Tumblr_l_7867505126248937.gif?ex=65c4fd9b&is=65b2889b&hm=6e839ee31cf260c7c80ab4cbc89da14709ee2f1446cd27db7ff7500a9c07c97e&) %pink% [Charlie](https://rentry.co/13thofthefog) %% ,, 17 ![eek](https://media.discordapp.net/attachments/1192500635845795890/1192501003153580222/Tumblr_l_7867509575170398.gif?ex=65c4fd9a&is=65b2889a&hm=c00b9066dbe28a67345664ba5c76e6859525422ea2b495dc517fb457db4d8a7e&) bpddpd autism/adhd ,,, This is my vent account where i post triggering things and trauma dumb with no warnings. Please don't request unless we're close! Thanks ![eek](https://media.discordapp.net/attachments/1192500635845795890/1192501005032620062/Tumblr_l_7867505126248937.gif?ex=65c4fd9b&is=65b2889b&hm=6e839ee31cf260c7c80ab4cbc89da14709ee2f1446cd27db7ff7500a9c07c97e&) <-

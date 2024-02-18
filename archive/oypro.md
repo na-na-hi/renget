@@ -72,7 +72,8 @@ Currently Training for Stat: Attack **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯�
 Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Currently Training for Attribute: Illusory **ɪɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
-Currently Training for Attribute: Foraging **ɪ** | Tier **ɪ**  | 1/3 | ■▯▯
+Currently Training for Attribute: Foraging **ɪ** | Tier **ɪ**  | 1/3 | ▮▯▯
+Currently Training for Attribute: Balance **ɪ** | Tier **ɪ**  | 2/3 | ▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.

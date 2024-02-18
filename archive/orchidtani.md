@@ -1,0 +1,3 @@
+![azure](https://media.discordapp.net/attachments/1126713705346904095/1188420878048960552/Picsart_23-12-24_17-55-29-152.png?ex=659a7631&is=65880131&hm=2fa56ad72e6ffdb6ba8e83208e8d95ea6d7f7abebad737ff6cbda5d567a67422&)
+%black% -> [*my girlfriend gets so depressed, she never leaves the house*](https://open.spotify.com/track/36RNOJkIDAoyfEOHdLhmD3?si=qNfLOSIkQ8O480i0wClZVw) ![azu](https://media.discordapp.net/attachments/1126713705346904095/1188420880343253032/Tumblr_l_7867653066853176.gif?ex=659a7631&is=65880131&hm=2f6abd95fa53beac818ccf441189a1f910c97cc8c65ff1368dc1b31beeb54c19&) <- %%
+-> [13thofthefog ♡](https://rentry.co/13thofthefog)<-

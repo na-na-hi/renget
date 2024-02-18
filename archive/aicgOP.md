@@ -13,10 +13,9 @@ Comment:
 The Edition
 
 >News
+Google released Gemini API and announced Gemini 1.5 https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/
 Google released Gemini Ultra https://gemini.google.com
 Google released Gemini Pro image generation - filtered harder than Bing's  https://blog.google/products/bard/google-bard-gemini-pro-image-generation/
-mistral-medium leaked https://huggingface.co/miqudev/miqu-1-70b
-New releases from OpenAI, including a new preview of GPT-4 Turbo as well as tools for managing API keys https://openai.com/blog/new-embedding-models-and-api-updates
 
 additional info: https://rentry.org/aicg_extra_information
 
@@ -43,11 +42,9 @@ https://character.ai [Cai]
 >Models
 gpt: https://platform.openai.com/docs
 claude: https://docs.anthropic.com
+gemini: https://ai.google.dev/docs
 local: >>>/g/lmg
 https://rentry.org/meta_golocal_list
-
->Claude/Slaude
-https://rentry.org/meta_claude_list
 
 >Botmaking
 https://rentry.org/meta_botmaking_list
@@ -58,12 +55,20 @@ https://agnai.chat/editor
 OP templates: https://rentry.org/aicgOP
 services assessment: https://rentry.org/aicg_meta
 try these -> https://rentry.org/weirdbutfunjailbreaksandprompts - https://rentry.org/jinxbreaks
+old slaude stuff: https://rentry.org/meta_claude_list
 logs: https://chatlogs.neocities.org
 aicg botmaking events: https://rentry.org/meta_event_list
 
 Previous: >>
 
  ```
+
+Links other bakers put into their OP:
+```
+https://rentry.org/aicg_chronicles
+https://rentry.org/desuproxyreborn
+```
+
 
 Email for feedback and suggestions:
 - aicgOP@proton.me

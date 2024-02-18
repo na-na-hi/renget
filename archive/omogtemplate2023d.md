@@ -12,7 +12,7 @@ Download
 https://archive.is/FqpTS
 The console editions (Switch, PSN, XBL, PC Gamepass) have some exclusive content.
 
-\>Character Birthdays | Basil - February 18
+\>Character Birthdays | ~ Basil - February 18 ~
 https://pbs.twimg.com/media/EujUrE5UUAUyxku.jpg:orig
 
 \>Fangames, Projects, and Etc
@@ -29,7 +29,7 @@ https://rentry.org/756
 https://mods.one/
 https://files.catbox.moe/6kewkg.torrent (RPG Maker MV 1.6.2)
 https://rentry.org/vanillasavefiles
-Try \_omariAU, rainy_mari_mod, omorimodreverie, omori_omosun on Twitter
+Try \_omariAU, rainy_mari_mod, omorimodreverie, omori_daydream on Twitter
 https://files.catbox.moe/5ddmjn.zip (Console content)
 
 \>/omog/ Archive

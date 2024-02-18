@@ -818,6 +818,8 @@ Thanks for reading my guide. If you have any questions, comments, contributions,
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.
 
+If I stop updating this guide for longer than a month it's safe to say I died.  Not planning on dying, but you know.
+
 Keeping this here for in advance, no one scrolls this far down
 don't open it ᓀ‸ᓂ
 https://rentry.org/DressHinaEvent

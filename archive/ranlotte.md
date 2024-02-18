@@ -1,0 +1,6 @@
+![ranzure](https://media.discordapp.net/attachments/1192563982255530004/1201084691827146772/Untitled773_20240128164021.png?ex=65c88849&is=65b61349&hm=5fbf18bd9f5d8b9b7bdf3c14ffab7ec30bb0d3e5994d9e0fb6b86d88eef2eb17&)
+-> ![hehe](https://media.discordapp.net/attachments/1192500635845795890/1201089068663062599/6d1dd28a.gif?ex=65c88c5d&is=65b6175d&hm=c11aae4ab39c6a1fe7b84ac988012f89e8100d9527f8e20e9a0eacb1b828a08c&) %pink% *she bruises, coughs, splutters pistol shots*%% ![hehe](https://media.discordapp.net/attachments/1192500635845795890/1201089068193304636/b5afaba8.gif?ex=65c88c5d&is=65b6175d&hm=b619aab3d6ce69ae8be73d8109b79385388680bb930cc9bf6c5fcde16f505214&) <-
+-> ![azure](https://media.discordapp.net/attachments/1192501277561720942/1201093870692352080/tumblr_inline_mlm82vUnKm1qz4rgp540.gif?ex=65c890d6&is=65b61bd6&hm=d21674c13628482e4ede4b33d54718324eefad7b66aa4dec4fb9e424ed786e26&) <-
+-> **i love ran haitani dearly ![azure](https://media.discordapp.net/attachments/1192500635845795890/1201089067794829352/3e818732.gif?ex=65c88c5c&is=65b6175c&hm=6700b5e4f5f91ead1b13276f5cb6080d0777607dcf478bf6847c5bdfbc9a6587&) . she is my number one fav despite not posting her that much i am the biggest ran gatkeeper ,, ** <-
+
+-> %pink% [13thofthefog](https://rentry.co/13thofthefog) + [art creds](https://x.com/Nachi2738?t=KJ4SK8dS24-vmUJoozscGw&s=09)%% <-

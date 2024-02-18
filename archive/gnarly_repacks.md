@@ -18,6 +18,8 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Deep Rock Galactic - Survivor (EA-b3465857) [Gnarly Repacks] [1.03 GB]
+https://bin.0xfc.de/?ed45cc2cc6c6cf6b#4CQ21rFeQ8xy1wj3yCKGLMk8jE4VfjCixAraq8GvvE2A
 Skate 3 (+RPCS3, DLC) [Gnarly Repacks] [4.37 GB]
 https://bin.0xfc.de/?9228877b58623876#3umaFwEkbbowk1xWh8eEd4V1QDnmogWuC44ScfXCq6od
 The Elder Scrolls V Skyrim - Legendary Edition [Gnarly Repacks] [7.29 GB]

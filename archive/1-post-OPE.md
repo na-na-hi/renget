@@ -14,10 +14,10 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=9aiuzVI35BQ
 
 \>Streams
-Next stream: Poppy Playtime (Sat 02/17 7PM CT)
-Last public stream (Lethal Company Advent collab)
-https://www.youtube.com/watch?v=T81BaUQx0G4
-Last members-only stream (after Valentine's mengen)
+Next stream: unspecified collab with on Bae's channel (02/18 9PM CT)
+Last public stream (Poppy Playtime)
+https://www.youtube.com/watch?v=1Fi1_gTTqwU
+Last members-only stream (zatsudan)
 https://www.youtube.com/watch?v=DGYGVBNyoI4
 
 \>Recent merch
