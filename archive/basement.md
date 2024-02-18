@@ -18,7 +18,7 @@
 [diavoloification](https://www.instagram.com/diavoloification/) on *I*nstagram
 [serialmurder](https://discord.com/users/385475837715021826/) on *D*iscord
 
-My Personal Resource/Graphic [Page](/graphics)
+My Personal Resource/Graphic [Page](https://massacre.crd.co/)
 **Sign My [G͟u͟e͟s͟t͟b͟o͟o͟k͟](https://diavolo.123guestbook.com/)** 
 ^ Do **not** use my guestbook to ask for urls.
 

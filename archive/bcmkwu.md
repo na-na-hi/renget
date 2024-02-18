@@ -1,3 +1,28 @@
+>Russians showing of THD while driving chinktruck in Avdeevka
+https://files.catbox.moe/h8f6dy.mp4
+>ACKdeevka tribute
+https://files.catbox.moe/4e1j2j.mp4
+>AZOG aftermath after Avdeevka withdrawal
+https://files.catbox.moe/jkidpw.mp4
+>FAB-500 hit the command post in Kupyansk
+https://files.catbox.moe/ftauqf.MP4
+>AZOG running away from Avdeevka
+https://files.catbox.moe/wrnqrp.mp4
+https://files.catbox.moe/asveax.mp4
+>Russians captured AZOG weapons caches
+https://files.catbox.moe/28jcyp.mp4
+https://files.catbox.moe/l5xtbj.mp4
+>Massive attacks on AFU retreating from Avdeevka
+https://files.catbox.moe/bmx4el.mp4
+>Interview with evacuated residents of Avdeevka
+https://files.catbox.moe/x86q1u.mp4
+>Burning Leopard in Stepovoe
+https://files.catbox.moe/sbgvdh.mp4
+>Arrival of Russian bombs from inside cokeplant by Azog
+https://files.catbox.moe/nu5kae.mp4
+>Staying comfy, well-fed and clean during SMO
+https://files.catbox.moe/w45ao9.mp4
+https://files.catbox.moe/5pwshy.mp4
 >BabaYaga drone op got rekt
 https://files.catbox.moe/ysekb0.mp4
 >Lancet strikes Bradley

@@ -180,6 +180,9 @@ https://files.catbox.moe/afhggs.safetensors korotsuke
 https://files.catbox.moe/ksuvd8.safetensors ohara
 https://files.catbox.moe/ak2ctj.safetensors piromizu
 https://files.catbox.moe/ezarsl.safetensors JK-BlushySpicy-YD-CSR-Redrop_mix
+https://files.catbox.moe/vn55kh.safetensors amagai_tarou
+https://files.catbox.moe/ho7o57.safetensors okota_mikan
+https://files.catbox.moe/w4zilv.safetensors sakura_no_tomoru_hi_e
 
 These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.
 https://files.catbox.moe/jtgi98.safetensors kezime

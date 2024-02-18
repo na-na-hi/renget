@@ -9,7 +9,7 @@
 [LM GPU Guide](https://archive.is/SY2h6)|Recieves updates when new GPUs release. Alternatively an Anon made a $1k 3xP40 [setup](https://rentry.org/Mikubox-Triple-P40)
 |
 **Models**|
-[TheBloke's HF Repo](https://huggingface.co/models?sort=modified&search=thebloke)|Best source for current quants of models
+[HuggingFace](https://huggingface.co/models)|Best source for current quants (filter by GGUF or EXL2) 
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker)|Open Text-To-Speech models with relevant use case information 
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2

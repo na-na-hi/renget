@@ -443,7 +443,13 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-The beast slumbers once more...
+New Writefag:
+>Detention Roulette (Satoru Tani, Karaburan, Conman, Rosethorn, Ippon, Ryukishi, Challenger, Yamata, Mirror Devil, Capture Cloth, Last Rite, Android, Bakeneneko)
+https://rentry.org/detentionroulette
+
+New Art:
+>detention roulette
+>>91931858
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1028,6 +1034,8 @@ https://rentry.org/42qavbt4
 https://rentry.org/xwdzd7rb
 >A Valentine's Carol (Satoru Tani)
 https://rentry.org/yb9ni7xa
+>Detention Roulette (Satoru Tani, Karaburan, Conman, Rosethorn, Ippon, Ryukishi, Challenger, Yamata, Mirror Devil, Capture Cloth, Last Rite, Android, Bakeneneko)
+https://rentry.org/detentionroulette
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

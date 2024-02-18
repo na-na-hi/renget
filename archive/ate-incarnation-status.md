@@ -2,7 +2,7 @@
 >God Rank: C
 >Synchronization Rate: 100%
 >Level: 10
->Influence: 25,600/51,200
+>Influence: 23,600/51,200
 >Divinity: 500/500
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
@@ -16,13 +16,19 @@ Your influence can touch anyone, mortal and god alike. However, you will be reco
 >Trait: Sweet Venom:
 All of your authorities are more effective against individuals who either like you or are under the impression that you are a person that they hold affection for, proportional to the feelings they hold.
 
+>Trait: No True Face
+You are capable of maintaining a form of a persona fabricated using your transformation authorities that a sufficient number of people recognize as your persona (and not as another person) at no personal divinity cost. Additionally, as far as the system is concerned, you do not have a <True Name>.
+
 >Pantheon: Spawn of Discord
 Assemble your pantheon to gain a bonus to the effective level of all authorities, as well as a bonus authority that is only available upon full pantheon assembly
 
-##Authorities (15/20):
+##Authorities (16/20):
 
 >Divine Folly (EX):
 You may copy one Authority from any incarnation that falls victim to your directive. The authority you copy is random, and you may do so only once per incarnation, and all authorities are copied at level one
+
+>Faustian Bargain (EX):
+Allows you to claim ownership of an individual’s soul if they willingly sell it to you. If you do so, you must fulfill your end of the bargain to the best of your ability. Gaining a <Soul> provides regular <Influence> as well as permanently increasing your divinity
 
 >A Thousand Faces, a Thousand Voices (4):
 You can temporarily alter your physical appearance and voice as you please, provided you maintain a human shape. Additionally, your words can be understood by anyone, regardless of language. It is possible for you to replicate specific individuals, although you still need to roll to maintain the disguise unless you know the person (or at least their appearance and mannerisms) reasonably well. (20 divinity/level per hour).

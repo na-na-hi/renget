@@ -8,7 +8,7 @@ Scroll to the bottom for my last edit date. This guide is not outdated.
 
 [TOC] 
 
-##Top Tips 
+##Top Tips (tl;dr) 
 - Match colours (e.g. red enemy = use red units) 
 - Read the story (it's fun) 
 - Rush through normal missions to unlock cafe upgrades and game modes. Don't worry about 3*'ing too much. 
@@ -202,8 +202,11 @@ That's it.
 !!! info
 	Match colours, and bring a tank and healer. 
 
-## Leveling ur roster
-This is the bonsai part. 
+## Levelling your roster
+!!! info
+    Post your roster on /bag/, it's faster this way. 
+
+
 **Level up whoever you're *using* at the moment**. It's easier to max out 3 students to 3777 (EX/basic/enhanced/sub skill) than 1 student to 5MMM (M = max lvl). It's best to keep small rosters, so keep things at a 1 team per colour scale. You use each team for **all content related to their colour**.
 For example, you use the same 4 characters in your red team for all the red PvE missions, the bounties, and the red raids (Kaiten, Hieronymus, and Greg).
 Once you have more resources you can branch out to a wider roster.
@@ -241,7 +244,7 @@ If you can upgrade a student's star level with their fragments you should.
 For the generic elephs you generally save up until you know what the fuck you're doing. You can learn which students are strong from the few links above. 
 Posting your roster in /bag/ and asking for help is generally faster. 
 
->Can I brick myself leveling up a student (e.g. Priconne)?
+>Can I brick myself levelling up a student (e.g. Priconne)?
 No. At most you brick yourself by levelling the worse characters. 
 
 >Can I unequip my items after putting it on someone?
@@ -305,7 +308,9 @@ T4 bag for Tsubaki > T7 badge for Yuuka > Hats/Gloves > Watches > Rest
 	Go as far as you can in Normal missions, and when you hit a wall switch over to Hard mode and do the same. Stuck on both = time to sweep.
 
 ##Farmable units 
-For a 3* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 
+Thanks to hard missions, events, and the raid and pvp shops you're able to unlock and upgrade some of your students. 
+
+For a 3\* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 
 
 >What hard nodes should I farm?
 ![hard nodes to farm](https://i.imgur.com/2tazpqW.png)
@@ -622,11 +627,13 @@ Volume 1 > V2C1 > V3C1-3 > V4C1 > V3C4 > V2C2 > Volume F > V4C2 > V5C1
 
 Including the events:
 Volume 1 > Izuna event > V2C1 > Cherino event > Hina's momotalk (lol) > V3C1-2 > Trinity Summer 1 > Gehenna Summer > Shunny event > Bunny Chasers > Decagrammaton Story 1-2 > Hot Springs event > V3C3 E1-9 > NY Problem Solvers 68 > V3C3 E10-25 > Wakamo Valentine event > Ui event > V4C1 > Michiru event > Decagrammaton Story 3-4 > V3C4 E1-10 > Abydos summer > Hyakkiyako summer > V3C4 E11-25 > ASS club event >
+I got too lazy to do the rest
 
-
-V2C2 > Volume F > V4C2 > V5C1
+V2C2 > Volume F > V4C2 > V5C1 > dress Hina event > V1C3
 
 You can also read it by volume. 
+
+**You can borrow students for Volume F**, which helps a ton. Make sure to [join a club](https://rentry.org/holdingthebag) for this! 
 
 Completing volume F gives you a new login screen, and so does reading the epilogue of Volume 4 chapter 2. 
 
@@ -814,11 +821,11 @@ In case you didn't see it already, [most stuff is inside the bagguides rentry. U
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
 
 # Afternote 
-Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the [4chan /bag/ thread](https://boards.4chan.org/vg/catalog#s=Blue%20Archive) and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated. 
+Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the [4chan /bag/ thread](https://boards.4chan.org/vg/catalog#s=Blue%20Archive) and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated. **Please give any feedback, I have no idea if this guide is good or not.**
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.
 
-If I stop updating this guide for longer than a month it's safe to say I died.  Not planning on dying, but you know.
+If I stop updating this guide for longer than a month it's safe to say I died. Not planning on dying, but you know.
 
 Keeping this here for in advance, no one scrolls this far down
 don't open it ᓀ‸ᓂ

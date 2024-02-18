@@ -2,13 +2,13 @@
 
 ## current proxy url
 ```
-https://evolution-commands-armor-blah.trycloudflare.com/v1
+https://belts-buffalo-changelog-option.trycloudflare.com/v1
 ```
 **password**
 basilisk
 
-##### [instructions](https://evolution-commands-armor-blah.trycloudflare.com/)
-##### [ST preset](https://evolution-commands-armor-blah.trycloudflare.com/preset.json)
+##### [instructions](https://belts-buffalo-changelog-option.trycloudflare.com)
+##### [ST preset](https://belts-buffalo-changelog-option.trycloudflare.com/preset.json)
 
 
 > why do I keep getting backend/general errors?

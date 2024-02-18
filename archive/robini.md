@@ -6,7 +6,7 @@
 **2.** I do not support nor believe in endogenics systems / any non-traumagenic system, system hopping (the endogenic meaning of it), alter pregnancy, alter death, and POC alters in white, non-indigenous/native bodies
 **3.** I do not support nor believe in IRLs, doubles, introjects = source, disorder abuse, and uncontrollable typing quirks
 **4.** I am a diagnosed DID system, autistic, have ADHD and suspected BPD. I am also a college student.  Because of these reasons, I do not guarantee I will be able to be online and chat with you 24/7 on Discord.
-**5.** Please be aware I *will* block you if your rentry/carrd or whatever isn't accessible! Example being tons of fonts or image texts (if you get what i mean, ask me if this confuses you and I will give you an example because I dont know what else to call them). While I am aware Greek symbols aren't necessarily fonts they still do have a chance to break my screenreader if I'm using it, so please don't be upset if I ask for alt text.
+**5.** Please be aware I *will* block you if your rentry/carrd or whatever isn't accessible.
 
 -> ![](https://files.catbox.moe/85mz39.gif)![]( https://files.catbox.moe/pzo7af.gif) **Boundaries . . . ** <-
 

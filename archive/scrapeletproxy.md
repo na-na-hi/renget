@@ -8,6 +8,7 @@
     The proxy will mostly use donated keys. ~~been filling with my own keys recently~~
 
 !!! note news
+    cooders.veryscrappy.moe - Filtered Azure GPT (thanks anon!). If the password gets leaked or spited, I'm killing it immediately.
     Removed Mistral, not worth the effort. **I won't reply to tech support emails. If you want more IPs, include your token in the email, and don't ask before you hit the limit.**
     Refilled keys. Answered emails. Updated proxy ([e7318dc2](https://gitgud.io/veryscrappy/oai-reverse-proxy/-/commits/e7318dc27aaf564b407bfdc0fbabd5268bfce49c)).
 
@@ -19,7 +20,7 @@
 Contact: scrappy@veryscrappy.moe
 veryscrappy.moe
 
-If you haven't received a reply within 48 hours, you didn't do the below. Try sending another email.
+If you haven't received a reply within a week, you didn't do the below. Try sending another email.
 All you have to do is be polite and proofread your emails! I don't need anything else.
 
 OpenAI key status: what's in the proxy is everything.
