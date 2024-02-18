@@ -23,12 +23,7 @@ https://www.youtube.com/watch?v=8qk2IOjmrsY
 https://www.youtube.com/watch?v=rPAw4l2rUr8
 https://www.youtube.com/watch?v=rV-EzvxqSFw
 
-\>Clockie Cartoon Series: "Welcome to Dreamville!"
-https://www.youtube.com/watch?v=6fShcesI3iw
-https://www.youtube.com/watch?v=8wzO-BMbWfU
-
 \>Current Character Banners: (Black Swan, Imbibitor Lunae + Misha, Tingyun, Guinaifen) - https://www.hoyolab.com/article/24943079
-
 \>Current Light Cone Banners: Reforged Remembrance (Nihility), Brighter Than the Sun (Destruction) - https://www.hoyolab.com/article/24943321
 
 \>New Drip Marketing:
@@ -39,11 +34,6 @@ https://www.youtube.com/watch?v=8wzO-BMbWfU
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 6B976L2STURF
 STARRAILGIFT
-\>LIVESTREAM CODES VALID UNTIL FEB. 18
-ZA9674JSAUPF
-3S9N65KTBD63
-6T96N52TADN7
-\>MINOR CODES
 DIVEINTODREAMS
 DREAMTOGETHER
 SWEETDREAMS

@@ -1,2 +1,22 @@
-![](https://media.discordapp.net/attachments/1096639589852123136/1207805741793026158/IMG_2420.jpg?ex=65e0fbc0&is=65ce86c0&hm=e2abaf5934f85de131ca5a48babadfec1716f8eca7f1633ea1f46b5b9095fb8a&)
-mine mine mine!!!! im edward [me](https://rentry.org/jellyfishfield)
+-> [enny retrospring](https://retrospring.net/@clairo)
+![](https://media.discordapp.net/attachments/1112655651416588371/1208669654889791529/IMG_2553.gif?ex=65e42055&is=65d1ab55&hm=5cc9818cbea9ccd1695f12aaed82bd3d3a6e65b99754ce84c4332e9314f0e7ed&) <-
+-> ˙˖ 𖥔 welcome to [luciel](https://rentry.org/edwardnashton) & [enny's](https://rentry.org/clairo) url hoard <-
+-> ke**y** — ~~nft~~ ◞ **in use** ◞ ==picky== ◞ *decorated* <-
+![!](https://images-ext-2.discordapp.net/external/X7ec2u4vrzGYOXr-QXJ_Lf-BTv3ej-J5sdIkLJbDc5o/%3Fv%3D26dffab5/https/gifcity.carrd.co/assets/images/gallery48/5501d663.gif)
+---
+
+![](https://yokai.crd.co/assets/images/gallery20/2c3cdd1e.gif?v=b4df531c) GAMES
+[johnmactavish](https://rentry.org/johnmactavish) [soapmactavish](https://rentry.org/soapmactavish) [ghostsoap](https://rentry.org/ghostsoap) [lolbit](https://rentry.org/lolbit) *[sackboy](https://rentry.org/sackboy)* *[starling](https://rentry.org/starling)* *[plinius](https://rentry.co/plinius)* [disciple](https://rentry.co/disciple) [skelehorse](https://rentry.org/skelehorse) [carlcupcake](https://rentry.org/carlcupcake) [timmynook](https://rentry.org/timmynook) [kirbygame](https://rentry.org/kirbygame) [dancedancerev](https://rentry.org/dancedancerev) [yamero-chan](https://rentry.org/yamero-chan) [slimecube](https://rentry.org/slimecube) [snowgo`I`em](https://rentry.org/snowgoIem)
+
+-> ![](https://yokai.crd.co/assets/images/gallery20/2c3cdd1e.gif?v=b4df531c) TV SHOWS ->
+ -> *[soldierboy](https://rentry.org/soldierboy)* [queenmaeve](https://rentry.org/queenmaeve) [femlander](https://rentry.org/femlander) [homelandermilk](https://rentry.org/homelandermilk) [transhomelander](https://rentry.org/transhomelander) [gayhomelander](https://rentry.org/gayhomelander) [blueybingo](https://rentry.org/blueybingo) ->
+
+![](https://yokai.crd.co/assets/images/gallery20/2c3cdd1e.gif?v=b4df531c) MOVIES AND COMICS
+[edwardscissorhands](https://rentry.co/edwardscissorhands) **[creep](https://rentry.org/creep)** [heartstopper](https://rentry.org/heartstopper) *[gwenpool](https://rentry.org/gwenpool)* [edward](https://rentry.org/edward) ***[edwardnashton](https://rentry.org/edwardnashton)*** [riddlebatporn](https://rentry.org/riddlebatporn) [coraline](https://rentry.org/coraline) [puckman](https://rentry.org/puckman) [monstersincorporated](https://rentry.org/monstersincorporated) [monsters-university](https://rentry.org/monsters-university) [brucewayner34](https://rentry.org/brucewayner34) [brucewaynerule34](https://rentry.org/brucewaynerule34) [play-boys](https://rentry.org/play-boys) ==[peniparker](https://rentry.org/peniparker)== ~~[peterparker](https://rentry.org/peterparker)~~ [sulley](https://rentry.org/sulley) ~~[pauldano](https://rentry.org/pauldano)~~ ==[ohara](https://rentry.org/ohara)==
+
+-> ![](https://yokai.crd.co/assets/images/gallery20/2c3cdd1e.gif?v=b4df531c) MUSIC ->
+-> ***[clairo](https://rentry.org/clairo)*** [mook](https://rentry.org/mook) [thestupendium](https://rentry.org/thestupendium) [willypack](https://rentry.org/willypack) [iloveyouso](https://rentry.org/iloveyouso) [bettys-cardigan](https://rentry.org/bettys-cardigan) [boburnham](https://rentry.org/boburnham) ==[bettyscardigan](https://rentry.org/bettyscardigan)==[bettiescardigan](https://rentry.org/bettiescardigan) [roryinear`I`y20s](https://rentry.org/roryinearIy20s) [in`I`ovewithaghost](https://rentry.org/inIovewithaghost) [tommy-february6](https://rentry.org/tommy-february6) ==[schnuffelbunny](https://rentry.org/schnuffelbunny)== [rockmyemotions](https://rentry.org/rockmyemotions) 
+[holidaycardigan](https://rentry.org/holidaycardigan) ~~[alltoowell](https://rentry.org/alltoowell)~~ [stolenversion](https://rentry.org/stolenversion) [heartmurmurlips](https://rentry.org/heartmurmurlips) [broken-bee](https://rentry.org/broken-bee) ==[thisismetrying](https://rentry.org/thisismetrying)== [reputaytion](https://rentry.org/reputaytion)  [oncemoretoseeyou](https://rentry.org/oncemoretoseeyou) [pinkinthenight](https://rentry.org/pinkinthenight) ->
+
+![](https://yokai.crd.co/assets/images/gallery20/2c3cdd1e.gif?v=b4df531c) MISC.
+[ihascupquake](https://rentry.co/ihascupquake) *[sockmonkey](https://rentry.org/sockmonkey)* [winkles](https://rentry.org/winkles) [amazonalexa](https://rentry.org/amazonalexa) [girlflux](https://rentry.org/girlflux) [massiveshot](https://rentry.org/massiveshot) [videostar](https://rentry.org/videostar) [bunnydj](https://rentry.org/bunnydj) ==[march4th](https://rentry.org/march4th)== ==[november2nd](https://rentry.org/november2nd)== [jibbitz](https://rentry.org/jibbitz) [jibbit](https://rentry.org/jibbit) [chamoypicklekit](https://rentry.org/chamoypicklekit)

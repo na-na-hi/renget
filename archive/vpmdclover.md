@@ -239,7 +239,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [A Light-Hearted, Low-Stakes Rescue Mission (ft. KFC)](https://rentry.org/bbdue) **Worldbuilding Entry**
 	* [Blaziken Tribe Hierarchy (ft. KFC)](https://rentry.org/crd8a) **Worldbuilding Entry**
 	* [KFC Gets a Win!](https://rentry.org/49yqh)
-* Kiyo the Alolan Vulpix
+* !~ %green%[Kiyo the Alolan Vulpix](https://rentry.org/kiyoStation)%% ~!
     * [Three Strangers Blow Into Town (ft. Kiyo)](https://rentry.org/kcb-0)
 	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1)
 * Macom the Mareep

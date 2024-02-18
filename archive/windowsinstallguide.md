@@ -118,10 +118,10 @@ https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en
 Win10+ has native support for .img, .iso, and other archive formats, just double click to mount and then run Setup.exe.
  
 **Activating Office**
-https://massgrave.dev/ohook.html
+https://github.com/massgravel/Microsoft-Activation-Scripts
 Download, run the activator, done.
  
-Alternatively, just use Office online if your needs are minimal.
+Alternatively, you can use Office online if your needs are very minimal.
 https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web
  
 And as a last resort, you can try OnlyOffice, LibreOffice, or WPS.

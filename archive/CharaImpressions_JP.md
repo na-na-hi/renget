@@ -1372,16 +1372,29 @@ Cons:
 - TP restoration is only to self
 
 ### ->Astral Hiyori ![Fire](https://pomf2.lain.la/f/vhkpn9gl.png)<-
-**TBD**
+**Support/P.Atk hybrid. Has a good slew of physical buffs, TP restoration, debuffs the enemy P.Atk and P.Def shred. Worth finishing a spark with free rolls.**
 
+Astral Hiyori is mostly designed to help your physical team survive against large physical damage by debuffing their P.Atk. With TP restoration, regen, P.Crit damage increase and P.Atk buffs for all, she has a solid role to buff units. However, her damage is a bit lacking and the P.Def shreds she provIdes is quite small. This is most likely due to her having a lot more utility elsewhere and having it on UB. Her role is somewhat similar to Valentine's Shizuru, where they both provide team utility and a smaller amount of the damage. However, Astral Hiyori provides the P.Atk debuff vs Valentine's Shizuru healing. Overall, she's quite a simple character. The lack of a barrier does hurt her a bit, but the amount of TP overall from S2 is worth a look for sure. The fire element does not have too many utility units outside of V.Shizuru, so there will be more opportunities to use her in the future against physical enemies.
+It is doubtful that she will have any sort of Arena usage, but does have a P.Crit reduction that can be useful in PvE or Arena. Worth a mention at least.
 
--> ![Ast.Hiyori]()<-
+-> ![Ast.Hiyori](https://redive.estertion.win/card/full/128731.webp)<-
 
 Pros:
-- TBD
+- Good skill loop (AA > S1 > S2 > AA > S1 > AA > S2)
+- UB provides P.def shred and buffs
+- Can help survivability vs Physical bosses
+- Gives out a lot of TP with S2 (Restores 50, then regenerates 10 TP/s for 12.5s )
+- Provides P.Crit dmg up 
+- UB, S1 & S2 all provide P.Atk up for all targets
+- Buffs do not rely on range, applies to all friendlies
 
 Cons:
-- TBD
+- Low P.Def shred 
+- Low damage contribution
+- No heal
+- No Barrier
+- Competing with V.Shizuru for utility spot in a fire team comp
+- Loses efficiency in a team slot against magic enemies
 
 
 ### ->Eris ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-

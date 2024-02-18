@@ -2884,6 +2884,20 @@ https://files.catbox.moe/we1p3x.safetensors
 # Pepper (OC by halbean)
 Test Version: https://files.catbox.moe/5h598o.safetensors
 
+# Pussytape, Backless Panties (Concept)
+https://files.catbox.moe/najmye.safetensors
+
+## PonyXL LoRAs made by /h/
+>Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
+
+>Catboxed them here if you want to add them:
+https://files.catbox.moe/ujz8p4.txt
+https://files.catbox.moe/c63lpj.py
+
+>The txt is just a list of the urls with the artist they correspond to. The .py file reads the .txt and downloads everything in the text file. Anyone can edit the txt file to add or remove LoRAs if you're downloading a large batch.
+
+>Strictly speaking, this script works for more than just this rentry. It can basically just download any number of files from a list of URLs.
+
 ## LORAs from the Discord
 
 # Various Characters (FinalEclipse's Trash Pile)
@@ -3196,7 +3210,7 @@ Wildcards collection: https://files.catbox.moe/lwh0fx.7z
 
 Species Wildcards Collection: https://rentry.co/4sy6i33r
 
-Artists seperated by Style: https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA/folder/pJR0mLjb
+Huge Wildcard Collection sorted by artist types, poses, media etc.: https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA/folder/pJR0mLjb
 
 ### OpenPose Model
 	For use in Blender; allows for posing for use in the ControlNet extension.

@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-02-16==
+# /aicg/ chronicles, up to ==2024-02-18==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1115,7 +1115,7 @@ When | Where | What
 2024-02-05|[98839180](https://desuarchive.org/g/thread/98836804#98839180)| new Silly extension, Quick Persona
 2024-02-05|[98839809](https://desuarchive.org/g/thread/98839163#98839809)| ... and releases it
 2024-02-06|[98851670](https://desuarchive.org/g/thread/98849943#98851670)| AWS Claude v1.3 EOL date is linked again
-2024-02-06|[98853675](https://desuarchive.org/g/thread/98852208#98853675)| /aicg/ is advertised on 4chan, the original and largest English-language image board
+2024-02-06|[98853675](https://desuarchive.org/g/thread/98852208#98853675)| /aicg/ advertises on 4chan, the original and largest English-language image board
 2024-02-06|[98860705](https://desuarchive.org/g/thread/98860146#98860705)| promising Weaver family of llms mentioned, but there's no hope
 2024-02-06|[98861203](https://desuarchive.org/g/thread/98860146#98861203)| Gemini Ultra delayed
 2024-02-08|[98879888](https://desuarchive.org/g/thread/98878036#98879888)| retards really do pay $15+ for a custom character card
@@ -1150,19 +1150,44 @@ When | Where | What
 2024-02-14|[98975040](https://desuarchive.org/g/thread/98974956#98975040)| anon wants to make a CYOA-style sci-fi thingy using STscript, fails
 2024-02-14|[98978596](https://desuarchive.org/g/thread/98977890#98978596)| NVIDIA Chat with RTX is lame
 2024-02-14|[98989824](https://desuarchive.org/g/thread/98989745#98989824)| another character card backed by a custom website shilled
+2024-02-14|[LWM](https://github.com/LargeWorldModel/LWM)| Large World Model, a 7B multimodal llm with 1 million tokens context, released
 2024-02-15|[98993147](https://desuarchive.org/g/thread/98992786#98993147)| OAI is hiring company detectives
 2024-02-15|[98994030](https://desuarchive.org/g/thread/98992786#98994030)| OAI busts accounts associated with state-affiliated threat actors
+2024-02-15|[98994779](https://desuarchive.org/g/thread/98992786/#98994779)| anon proposes monkey's paw event for April Fools'
 2024-02-15|[99000225](https://desuarchive.org/g/thread/98998185#99000225)| Secret Valentines event ends
 2024-02-15|[99001403](https://desuarchive.org/g/thread/99000395#99001403)| CharacterHub faces fork spam issue
-2024-02-15|[99001443](https://desuarchive.org/g/thread/99000395#99001443)| Gemini 1.5 Pro announced, up to 1 million tokens context, waitlisted
+2024-02-15|[99001443](https://desuarchive.org/g/thread/99000395#99001443)| Gemini 1.5 Pro announced, up to 1 million tokens context but tested up to 10kk, waitlisted
 2024-02-15|[99001496](https://desuarchive.org/g/thread/99000395#99001496)| Gemini 1.0 Pro finetuning available
 2024-02-15|[99001536](https://desuarchive.org/g/thread/99000395#99001536)| Gemini API model listing indicates Gemini snapshots exist
 2024-02-15|[99001985](https://desuarchive.org/g/thread/99000395#99001985)| Gemini 1.5 Pro model card, called a mid-size multimodal model performing at a similar level to 1.0 Ultra
 2024-02-15|[99002107](https://desuarchive.org/g/thread/99000395#99002107)| Gemini Ultra is Generally Available via an allowlist on Vertex AI
 2024-02-15|[99005423](https://desuarchive.org/g/thread/99002777#99005423)| OAI introduces Sora, their text-to-video model
+2024-02-15|[V-JEPA](https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/)| Meta takes a step toward LeCun’s vision, releases a a non-generative video prediction model
 2024-02-16|[99007262](https://desuarchive.org/g/thread/99006314#99007262)| unknown Google test model jkessinger discovered
 2024-02-16|[99007496](https://desuarchive.org/g/thread/99006314#99007496)| OAI's Soma can do text
 2024-02-16|[99009592](https://desuarchive.org/g/thread/99009488#99009592)| Test Model jkessinger only turns out to be Gemini 1.0 Pro
+2024-02-16|[99012328](https://desuarchive.org/g/thread/99009488#99012328)| anon pays $70/month for Censys to use the nifty features for key scraping and making money
+2024-02-16|[99012674](https://desuarchive.org/g/thread/99009488#99012674)| mistral-next model spotted
+2024-02-16|[99014705](https://desuarchive.org/g/thread/99012653#99014705)| Nvidia dunks on OAI for begging
+2024-02-16|[99016995](https://desuarchive.org/g/thread/99016974#99016995)| mistral-next model confirmed to be the latest prototype model, no details provided
+2024-02-16|[99022851](https://desuarchive.org/g/thread/99020429#99022851)| a video prediction model use for gaming showcased
+2024-02-16|[99023172](https://desuarchive.org/g/thread/99022817#99023172)| Gemini key checker shared
+2024-02-16|[99024522](https://desuarchive.org/g/thread/99022817#99024522)| Anthropic adds a new copyright protection prefill
+2024-02-16|[99026060](https://desuarchive.org/g/thread/99025182#99026060)| AI assisted coding app cursor\.sh shared, anons warned about request rerouting
+2024-02-17|[99026787](https://desuarchive.org/g/thread/99025182#99026787)| canadians admit, chatbots aren't separate legal entities responsible for their own actions
+2024-02-17|[99028615](https://desuarchive.org/g/thread/99027822#99028615)| anon wishes to use Gemini for TTRPGs via Foundry VTT plugin
+2024-02-17|[99028891](https://desuarchive.org/g/thread/99027822#99028891)| anon talks to Google support about RnD, generally availability of Gemini Ultra doubted
+2024-02-17|[99029662](https://desuarchive.org/g/thread/99027822#99029662)| openrouter\.ai offers Claude 2 and Claude Instant with "self-moderation"
+2024-02-17|[99029965](https://desuarchive.org/g/thread/99029701#99029965)| Gemini Advanced might flashbang users for hitting the filter
+2024-02-17|[99034792](https://desuarchive.org/g/thread/99034735#99034792)| regexes for various API keys to facilitate scraping shared
+2024-02-17|[99036068](https://desuarchive.org/g/thread/99034735#99036068)| arabian media outlet uses Claude for its texts, exposed due to Anthropic's prefill
+2024-02-17|[99036411](https://desuarchive.org/g/thread/99034735#99036411)| HF reported to still delete even personal proxies
+2024-02-17|[99039276](https://desuarchive.org/g/thread/99038048#99039276)| /aicg/ advertises on 4chan, the original and largest English-language image board
+2024-02-17|[99040061](https://desuarchive.org/g/thread/99038048#99040061)| anon reminds, that 52B was the size of Anthropic's original prototype model RL-CAI/Madison/Claude
+2024-02-17|[99042009](https://desuarchive.org/g/thread/99041768#99042009)| universities run ads to resell students' data for training llms
+2024-02-18|[99045527](https://desuarchive.org/g/thread/99044230#99045527)| anon reminds, that GPT4V has additional prompt inserted and supports less features
+2024-02-18|[99045675](https://desuarchive.org/g/thread/99044230#99045675)| anon baits with uncensored image recognition outputted as JSON
+2024-02-18|[99045941](https://desuarchive.org/g/thread/99044230#99045941)| /aicg/ is advertised on 4chan, the original and largest English-language image board
 -|-|-
 
 [](you have found my secret stash of nothing!)
