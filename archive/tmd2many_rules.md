@@ -570,7 +570,7 @@ A special category listed underneath your character sheet, these are two move sl
 	- **Neutralized**: The Afflicted's [Ability](https://rentry.co/tmd2many_rules#abilities) is nullified. Lasts 6 rounds.
 	- **Hungry**: The Afflicted's moves have their damage reduced by the cost of its respective AP. Removed when eating food of any kind.
 	- **Perishing**: The effects of *Burn*, *Poison*, *Badly Poisoned*, or *Cursed* against the Afflicted activate immediately, dealing 3 turns of DoT instantly and removing the Status condition.
-	- **Cursed**: The Afflicted takes 6 damage every turn until fainting or they KO an Opponent.
+	- **Cursed**: The Afflicted takes 6 damage every round until they KO an Opponent or faint.
 	- **Bound**: For 1 round, the Afflicted takes damage equal to that which is dealt by Moves to all other Afflicted. 
 	- **Leg Hold**: For 1 round, the Afflicted is unable to Focus on anyone but themselves or their last Focus target.
     - **Wishing**: For 1 round, the Afflicted calls upon a Wish. After the effect ends, a Wish is formed. A Wish can be interacted with at any time, and can be used as a bonus action at no cost, healing whoever uses it for 4 HP. There is no limit to the number of Wishes that can be made. Can be stolen by Snatch.

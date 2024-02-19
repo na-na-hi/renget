@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 255th time, what is Ope?!
+For the 256th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -14,11 +14,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=9aiuzVI35BQ
 
 \>Streams
-Next stream: lunch zatsudan (Mon 02/19 11AM CT)
+Next stream: Poppy Playtime, Chapter 2 (Tue 02/20 7PM CT)
+Last stream (breakfast zatsudan / 600k endurance w/ Kiara & Aradia cameos)
+https://www.youtube.com/watch?v=ObO7BUThzZs
 Previous collab stream (telephone game collab with Bae, Miko, Hajime, Kaela and Kobo with on Bae's channel)
 https://www.youtube.com/watch?v=J_q-OWjlt0I
-Last stream on own channel (Poppy Playtime, Chapter 1)
-https://www.youtube.com/watch?v=1Fi1_gTTqwU
 
 \>Songs
 Cover of Nakashima Mika - Yuki no Hana
@@ -39,7 +39,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>69477765
+Previous thread: >>69522478
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

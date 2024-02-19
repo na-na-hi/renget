@@ -943,6 +943,15 @@ And there you have it! A mostly safe way to pass data back and forth between JS 
 
 I should also mention that while this example only deals with the popup, you can query any DOM element. The entire SillyTavern app is your oyster once you can run JS.
 
+######Some stupid shit
+This took me way too long to figure out, but there is actually one thing you definitely can NOT do in JS with this hack. And that's using the `||` operator. Because regardless of the sanitazation trick, SillyTavern will still cut up commands by the pipe operator. So if you want to write a disjunctive condition, do this:
+```
+if (Number(Boolean(param1)) + Number(Boolean(param2)) > 0)
+```
+There's your OR.
+
+For fallbacking a default value, use the null coalesence operator, `??`. With anything else you can probably work around it with a ternary if.
+
 #####Conclusion
 Humanity has given a lot of control over to AI when coming up with graph search heuristics became too much of a hassle to bother. It's now up to our clever human minds to undo our dependence on these systems. STscript, while I wish is wasn't so limiting and the syntax was less tedious, I think is a pretty good way for the laymen to play around with influencing generative AI systems. The reason why I love SillyTavern and the community that drives pojects like it is our shared passion for AI. Let __us__ drive the innovation, not corporate greed!
 

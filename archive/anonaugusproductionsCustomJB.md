@@ -29,7 +29,7 @@ Changelog:
 * Top P - 0.80
 I recommend testing trying Top P 0.80 to 0.90 and anywhere between, see what works best for you. Lower than 0.80 might cause the AI to go schizo.
 
-#### LATEST OF THIS VERSION (UP-TO-DATE) >>>> https://files.catbox.moe/11eoz1.json
+#### LATEST OF THIS VERSION (UP-TO-DATE) >>>> https://files.catbox.moe/gc15q7.json
 
 #### Regex For it!!
 ```

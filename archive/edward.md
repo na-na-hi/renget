@@ -3,6 +3,7 @@
 -> ˙˖ 𖥔 welcome to [luciel](https://rentry.org/edwardnashton) & [enny's](https://rentry.org/disciple) url hoard <-
 -> ke**y** — ~~nft~~ ◞ **in use** ◞ ==picky== ◞ *decorated* <-
 -> ask to use any url plzz we dont bite just ask nicely <-
+-> wishlist . /folklore /herobrine , /applejack <-
 ![!](https://images-ext-2.discordapp.net/external/X7ec2u4vrzGYOXr-QXJ_Lf-BTv3ej-J5sdIkLJbDc5o/%3Fv%3D26dffab5/https/gifcity.carrd.co/assets/images/gallery48/5501d663.gif)
 ---
 
@@ -20,4 +21,4 @@
 [holidaycardigan](https://rentry.org/holidaycardigan) ~~[alltoowell](https://rentry.org/alltoowell)~~ [stolenversion](https://rentry.org/stolenversion) [heartmurmurlips](https://rentry.org/heartmurmurlips) [broken-bee](https://rentry.org/broken-bee) ==[thisismetrying](https://rentry.org/thisismetrying)== [reputaytion](https://rentry.org/reputaytion)  [oncemoretoseeyou](https://rentry.org/oncemoretoseeyou) [pinkinthenight](https://rentry.org/pinkinthenight) ->
 
 ![](https://yokai.crd.co/assets/images/gallery20/2c3cdd1e.gif?v=b4df531c) MISC.
-[ihascupquake](https://rentry.co/ihascupquake) *[sockmonkey](https://rentry.org/sockmonkey)* [winkles](https://rentry.org/winkles) [amazonalexa](https://rentry.org/amazonalexa) [girlflux](https://rentry.org/girlflux) [massiveshot](https://rentry.org/massiveshot) [videostar](https://rentry.org/videostar) [bunnydj](https://rentry.org/bunnydj) ==[march4th](https://rentry.org/march4th)== ==[november2nd](https://rentry.org/november2nd)== [jibbitz](https://rentry.org/jibbitz) [jibbit](https://rentry.org/jibbit) [chamoypicklekit](https://rentry.org/chamoypicklekit) [alimelly](https://rentry.co/alimelly)
+[ihascupquake](https://rentry.co/ihascupquake) *[sockmonkey](https://rentry.org/sockmonkey)* [winkles](https://rentry.org/winkles) [amazonalexa](https://rentry.org/amazonalexa) [girlflux](https://rentry.org/girlflux) [massiveshot](https://rentry.org/massiveshot) [videostar](https://rentry.org/videostar) [bunnydj](https://rentry.org/bunnydj) ==[march4th](https://rentry.org/march4th)== ==[november2nd](https://rentry.org/november2nd)== [jibbitz](https://rentry.org/jibbitz) [jibbit](https://rentry.org/jibbit) [chamoypicklekit](https://rentry.org/chamoypicklekit) [alimelly](https://rentry.co/alimelly) [instagramreels](https://rentry.co/instagramreels)

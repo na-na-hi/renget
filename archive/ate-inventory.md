@@ -53,7 +53,7 @@ The holder may expend divinity to make plants grow, proportional to the nature a
 >Psyche’s Lamp:
 Consumes divinity. Reveals the true form and primary myth of incarnations using disguise or stealth authorities lower than your incarnation level. Only reveals the true form to you, and does not affect the target’s current shape
 
->Brace of Ampelus (Super Rare)
+>Brace of Ampelus
 Consumes 1 divinity per hour. When equipped, authorities which read intentions, discern lies, or judge morality will show you as earnest, honest, and good, unless there is a substantial difference in incarnation level.
 
 ##Weapons

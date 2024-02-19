@@ -48,6 +48,7 @@ XL: https://files.catbox.moe/4ohs7d.safetensors
 
 #####Suri Solari
 https://files.catbox.moe/v5tvpn.safetensors
+XL: https://files.catbox.moe/w82tx0.safetensors
 >Strength 0.7+
 >surisolari, 1girl, long hair, horns, blonde hair, hair ornament, (heterochromia:1.1), ahoge, wings, red eye, blue eye, braids
 ==If you are getting pointy ears or elf ears ,try adding them in negatives==

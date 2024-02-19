@@ -2887,6 +2887,9 @@ Test Version: https://files.catbox.moe/5h598o.safetensors
 # Pussytape, Backless Panties (Concept)
 https://files.catbox.moe/najmye.safetensors
 
+# David Petersen (Artist of Mouse Guard)
+https://files.catbox.moe/fsq674.safetensors
+
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
 

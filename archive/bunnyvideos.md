@@ -9,7 +9,7 @@
 - 100K+
 
 [JPN] C's Rabbitry: https://www.youtube.com/@csrabbitry
-- < 1K
+- 1K+
 
 [JPN] Lupinus Rabbitry: https://www.youtube.com/@lupinusrabbitry1404
 - 1K+
@@ -29,7 +29,10 @@
 - memey and daily life videos about two Dutch rabbits, 500K+
 
 [ENG] Quincy: https://www.youtube.com/@quincythebunny727
-- English Lop, < 1K
+- English Lop, 1K+
+
+[JPN/ENG] Chabby, Daidai: https://www.youtube.com/@rabbitsinthemoon
+- 5K+
 
 [JPN/ENG] Fuku: https://www.youtube.com/@bunny_fuku_channel
 - 10K+
@@ -62,10 +65,10 @@
 - bunny eating ASMR, < 1K
 
 [JPN] Kuma: https://www.youtube.com/@kumakb
-- Netherland Dwarf, < 1K
+- Netherland Dwarf, English in title and description, < 1K
 
-[JPN] Mochimaru: https://www.youtube.com/@user-mb5cn4ce9k
-- Netherland Dwarf, < 1K
+[JPN] Mochimaru: https://www.youtube.com/@user-md5ee8dd5l
+- some English in titles, < 1K
 
 [JPN] Popo: https://www.youtube.com/@kogarana-popo
 - 100K+

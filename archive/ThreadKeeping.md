@@ -444,12 +444,8 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Writefag:
->Detention Roulette (Satoru Tani, Karaburan, Conman, Rosethorn, Ippon, Ryukishi, Challenger, Yamata, Mirror Devil, Capture Cloth, Last Rite, Android, Bakeneneko)
-https://rentry.org/detentionroulette
-
-New Art:
->detention roulette
->>91931858
+>1-aFtershocks
+https://rentry.org/1Aftershocks
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1036,6 +1032,8 @@ https://rentry.org/xwdzd7rb
 https://rentry.org/yb9ni7xa
 >Detention Roulette (Satoru Tani, Karaburan, Conman, Rosethorn, Ippon, Ryukishi, Challenger, Yamata, Mirror Devil, Capture Cloth, Last Rite, Android, Bakeneneko)
 https://rentry.org/detentionroulette
+>1-aFtershocks
+https://rentry.org/1Aftershocks
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

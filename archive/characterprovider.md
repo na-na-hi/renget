@@ -51,7 +51,7 @@ Collection of scenarios: [1] Breeding wall, [2] Adventure starts, [3] Ditto-momm
 
 ##### News
 [![](https://files.catbox.moe/ph906c.png)](CharacterProvider-GuideToBotmaking)
-**• Botmaking Guide Update (+JED Template):** The page was completely reworked. Now you have a template to easily create your characters. You can download both .png (for Tavern) and .md (for VS Code) templates.
+**• Botmaking Guide Update (+JED Template):** The page was completely reworked. Now you have a template to easily create your characters. You can download both .png (for Tavern) and .md (for VS Code) templates. [Read the Guide](CharacterProvider-GuideToBotmaking)
 
 **• X / Twitter:** News migrated to [X (Twitter)](https://twitter.com/victorianmaids)! Now you can leave comments and stop constantly rereading this page if something big happens.
 

@@ -17,6 +17,7 @@ Make new stuff (maybe): Anon (E1,E2), Sage (female), Schizo-chan (male), Nick (m
 
 !!! info
 	Recent Updates:
+	20.02.24: Updated Iadakan and Ben because they were the most out of character ones I've made excluding Liz.
 	22.01.24: Updated the lorebooks. Shoutout to [crimson](https://rentry.org/Snoot-Delucks) for expanding mine.
 	18.01.24: Added the Disco Elysium Skills JB addon and updated the formatting on some of my older ones. Updated Nick's and Trish's images.
 	15.11.23: Updated the snoot lorebook entries and added the catbox links. Updated Naser's description. Wrote another greeting for Judee.
@@ -70,9 +71,9 @@ Image | Name | Description | Link
 ------ | ------ | ------ | -----
 ![Gator](https://files.catbox.moe/9b7ii1.png) | Olivia | That Gator (you) Wani Hug. Paralyzed Predator, Reclusive and Artistic. Will drift tackle her wheelchair into your shins if you make fun of her. | https://files.catbox.moe/9b7ii1.png
 ![Bitch](https://files.catbox.moe/6bajqt.png) | Mia | Parasaurolophus. The Queen Bee, the school's resident bully and the bane of anyone who dares to cross her path (or so much as look at her wrong). Rude, Crude, Has a love for the theatrics and fixing cars (tell anybody and she'll pike (you) on her tail spikes) | https://files.catbox.moe/6bajqt.png
-![There is an idea of a Mr. Iadakan; some kind of abstraction. But there is no real me: only an entity, something illusory… I simply am not there.](https://files.catbox.moe/c3vr2h.png) | Iadakan | An eccentric art and photography teacher at St. Hammond High. | https://files.catbox.moe/c3vr2h.png
+![A Real Hero](https://files.catbox.moe/idl778.png) | Iadakan | An eccentric and easily the best art and photography teacher at St. Hammond High. | https://files.catbox.moe/idl778.png
 ![I Wani Hug That Retard](https://files.catbox.moe/yvl0mk.png) | Damien | A real bro with truly unending enthusiasm, charisma, friendliness and below average intelligence. | https://files.catbox.moe/yvl0mk.png
-![Benjamin](https://files.catbox.moe/d8dw9e.png) | Ben | A photography nerd and the head of the student council at St. Hammond High. Speaks in a bri'ish accent. | https://files.catbox.moe/d8dw9e.png
+![Ben Dover](https://files.catbox.moe/8gf5w4.png) | Ben | A photography nerd and the head of the student council at St. Hammond High. Looks like he listens to Talking Heads. | https://files.catbox.moe/8gf5w4.png
 ![Neck](https://files.catbox.moe/7wh0ie.png) | Liz | The smart student council treasurer with big plans for the future and a very long neck. | https://files.catbox.moe/7wh0ie.png
 
 

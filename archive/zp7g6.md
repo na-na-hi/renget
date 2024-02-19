@@ -8,6 +8,7 @@ This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEG
 
 **NAI** ← You are here
 [Furryrock](https://rentry.org/83o5t)
+[Pony (SDXL)](https://rentry.org/cawt333g)
 
 ## Table of Contents
 
@@ -226,7 +227,7 @@ More info about the comparison table and preview images can be found in the **[A
 :------:|:------:
 ![](https://files.catbox.moe/ltu4db.jpg) | ![](https://files.catbox.moe/djxugk.jpg)
 [Von Franken](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/XM0VnLiQ) | []()
-![](https://files.catbox.moe/djxugk.jpg) | ![]()
+![](https://files.catbox.moe/dueb2q.jpg) | ![]()
 
 ### W
 [Wangyq](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yQ0SyBLB) | [Watanon](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jF0XARCA)
@@ -776,7 +777,7 @@ quadruped prosthesis, quadruple amputee, all fours, on ground, animal ears, fang
 ### B
 [Breast Mousepad](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/LR1lGYKI) | Prompt
 :------:|:------:
-![](https://i.imgur.com/g7lSTgf.png) | ![](https://i.imgur.com/jqhgQMx.png)
+![](https://i.imgur.com/KiZTRqn.png) | ![](https://i.imgur.com/KiZTRqn.png)
 
 ```
 breast mousepad, photo \(medium\), mousepad \(object\), mousepad \(medium\)

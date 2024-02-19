@@ -1,9 +1,11 @@
 # C&C proxy info & stats
 
-- Current URL: https://proxy.cnc-club.dev/
+-> https://proxy.cnc-club.dev/ <-
+-> Not accepting new users <-
+
+
 - Email: cncanon1@proton.me - for personal contact or proxy issues.
 - Anyan OCs - https://rentry.org/anyan_oc
-
 
 Latest refill (February 18th):
 - **OpenAI** 1 (T5) -> 5 (2 T5, 3 T3)
