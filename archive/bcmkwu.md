@@ -1,3 +1,13 @@
+>FABs fall on Avdeevka coke plant
+https://files.catbox.moe/yil3uu.mp4
+>ODAB-1500 fall at Chasovoy Yar
+https://files.catbox.moe/bzk143.mp4
+>13 min of combat from Azog POV in Avdeevka
+https://files.catbox.moe/6muamm.mp4
+>Report from liberated Avdeevka
+https://files.catbox.moe/58sep1.mp4
+>Tranny of Kiev coping about Avdeevka
+https://files.catbox.moe/dids97.mp4
 >Russians showing of THD while driving chinktruck in Avdeevka
 https://files.catbox.moe/h8f6dy.mp4
 >ACKdeevka tribute

@@ -84,6 +84,7 @@
 02/2024|[LiPO: Listwise Preference Optimization through Learning-to-Rank](https://arxiv.org/abs/2402.01878)
 02/2024|[Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
 02/2024|[How to Train Data-Efficient LLMs](https://arxiv.org/abs/2402.09668)
+02/2024|[A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -290,6 +291,7 @@
 02/2024|[EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss](https://arxiv.org/abs/2402.05008)
 02/2024|[GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894)
 02/2024|[Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion](https://arxiv.org/abs/2402.10009)
+02/2024|[Brant-2: Foundation Model for Brain Signals](https://arxiv.org/abs/2402.10251)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -315,6 +317,7 @@
 08/2022|[LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 09/2022|[Petals: Collaborative Inference and Fine-tuning of Large Models](https://arxiv.org/abs/2209.01188)
 10/2022|[GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323)
+10/2022|[Recurrent Memory Transformer](https://files.catbox.moe/8trivt.pdf)
 10/2022|[Truncation Sampling as Language Model Desmoothing](https://arxiv.org/abs/2210.15191)
 10/2022|[DyLoRA: Parameter Efficient Tuning of Pre-trained Models using Dynamic Search-Free Low-Rank Adaptation](https://arxiv.org/abs/2210.07558)
 11/2022|[An Algorithm for Routing Vectors in Sequences](https://arxiv.org/abs/2211.11754)
@@ -567,6 +570,8 @@
 02/2024|[Uncertainty Decomposition and Quantification for In-Context Learning of Large Language Models](https://arxiv.org/abs/2402.10189)
 02/2024|[RS-DPO: A Hybrid Rejection Sampling and Direct Preference Optimization Method for Alignment of Large Language Models](https://arxiv.org/abs/2402.10038)
 02/2024|[BitDelta: Your Fine-Tune May Only Be Worth One Bit](https://arxiv.org/abs/2402.10193)
+02/2024|[DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2402.09353)
+02/2024|[In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss](https://arxiv.org/abs/2402.10790)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -587,3 +592,4 @@
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
 12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)
 12/2023|[HuggingFace - Mixture of Experts Explained](https://archive.is/8r7t9)
+02/2024|[Lilian Weng - Thinking about High-Quality Human Data](https://archive.is/1K0EM)

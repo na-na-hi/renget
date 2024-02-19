@@ -451,6 +451,7 @@ The growlithe sways his paw side to side in a rhythmic motion. Torchic proceeds 
 (...)
 
 “Feeling better?” Bill says, leaving his paw hanging in the air.
+
 Torchic blinks several times. “I… do, actually? What exactly did you do?”
 
 “Best not to think about it too hard,” Bill answers with a smile that he hopes is contagious to Torchic. Her beak follows suit, if timidly. “See me again next tuesday at this hour and go over what I said, okay? I believe in you and in all of us.”
@@ -479,7 +480,7 @@ ____________________________
 
 “S-Sure,” Togetic responds politely.  “I-It was nice, Bill. M-Meeting you l-like this. I-I mean.”
 
-The growlithe waves goodbye to Togetic, who had left his seat after an hour of spilling his secrets much more easily than Bill was expecting. Though there is some residual amount of stress he could sniff out, he chalks it up to someone like Togetic opening up on these matters.
+The growlithe waves goodbye to Togetic, who had left his seat after an hour of spilling his secrets much more easily than Bill was expecting. Though there is some residual amount of stress he could sniff out, he chalks it up to someone like Togetic opening up on these matters to begin with.
 
 The latter, looking as meek as ever, does a little wave before disappearing into the much-treaded entrance.
 

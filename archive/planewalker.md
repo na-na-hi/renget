@@ -412,6 +412,11 @@ Taylor | Info
 ![](https://files.catbox.moe/9qptbe.png)   | Taylor is a deaf boy with a passion for music and a tendency to struggle when asking others for help when he needs it. Despite his condition being misunderstood by most, those who make an effort to get to know him will find that he can be an enthusiastic goofball when he wants to be. Comes with three greetings and [reedfag's](https://rentry.org/reedfag) music JB
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/taylor-c0168593),  [Catbox](https://files.catbox.moe/9clwxy.png), [Alt gens](https://catbox.moe/c/rsb0i1)
 
+Elias | Info
+:----:  | :----: 
+![](https://files.catbox.moe/dz8ggv.png)   | Elias Lorcain has been around for centuries, studying and perfecting the art of magic. One day, however, he comes across a certain youth: you. He'd always had an affinity for children and teenagers, but something about you is different. And thus he's taken you under his wing to be your teacher...and your husband! Comes with three greetings.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/elias-dc246484),  [Catbox](https://files.catbox.moe/ktlq4j.png), [Alt gens](https://catbox.moe/c/snislx)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

@@ -7,15 +7,14 @@ Welcome to the Super Mario Bros. General, in this kingdom of ours here we discus
 --------
 
 >Mario News and Releases<
+「!」Mario vs. Donkey Kong REMAKE has officially released!
+
 Future Release Dates:
-「!」 Mario vs. Donkey Kong REMAKE releases on February 16th, 2024
-「!」 Princess Peach: Showtime! releases on March 22, 2024
+「!」Princess Peach: Showtime! releases on March 22, 2024
 
 Current News Links:
 「!」Princess Peach: Showtime! 4th Trailer (Figure Skater, Dashing Thief, Mermaid, and Mighty Peach)
 https://www.youtube.com/watch?v=TjC5wETyIsE
-「!」Mario vs. Donkey Kong Overview - 3rd Trailer
-https://www.youtube.com/watch?v=p_RypCfeXp4
 「!」"Donkey Kong Country" Park - Super Nintendo World Expansion Trailer
 https://www.youtube.com/watch?v=OY_v1w9ALC8
 https://dtimes.jp/post-512278/

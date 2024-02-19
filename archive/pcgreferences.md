@@ -130,9 +130,13 @@
 #####Saya
 ######[Ref sheet](https://files.catbox.moe/0tzg18.jpg)
 ![](https://files.catbox.moe/0tzg18.jpg)
-####JP Gen 1 (Waiting for debut)
+####JP Gen 1
 #####Loki
 #####Memory
 #####Pico
 #####Yuu
+######[Ref sheet](https://files.catbox.moe/gz7097.jpg)
+![](https://files.catbox.moe/gz7097.jpg)
 #####Clara
+######[Ref sheet](https://files.catbox.moe/93uuj2.jpg)
+![](https://files.catbox.moe/93uuj2.jpg)

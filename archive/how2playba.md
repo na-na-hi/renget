@@ -1,6 +1,7 @@
 # /bag/ Newfag guide
-https://rentry.org/s2kng54y use this for the event minigame
+![EVENT guide](https://static.miraheze.org/bluearchivewiki/b/bc/Conquest_Starting_Guide.jpg) 
 
+[read this for the event](https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!/Rerun#Conquest) 
 
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 
@@ -198,6 +199,9 @@ For raids the strongest support combo is (generally) Crit DMG + ATK sub skill. I
 >What does the leader position do
 It shows you her funny leader animation at the start of every battle, her chibi in the overworld, and is the girl that appears on your victory/defeat screen.
 That's it.
+
+>Is the auto team formation button good?
+No.
 
 !!! info
 	Match colours, and bring a tank and healer. 

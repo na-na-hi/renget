@@ -18,7 +18,7 @@ My botmaking playlist: https://www.youtube.com/playlist?list=PLxLvqUJvfRzH3kBifK
 
 Current bans:
 - Reddit: This account has been suspended .
-- 4chan: Ban evasion (30 days) / Off-topic (3 days)
+- 4chan: —
 - ~~2ch~~ (left indefinitely)
 
 TO-DO LIST: ~~Stop the descent into depravity as soon as possible.~~ Things are looking bright.

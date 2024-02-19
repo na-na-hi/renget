@@ -368,15 +368,15 @@ The Progress Tracker provides an overview into each team's quarterly development
 ***
 ***
 ###->The Issue Council<-
-As is the nature of this buggy mess we call a "game", the Issue Council tool was created as a dedicated hub for reporting and contributing to bug reports and other issues in the persistent universe (aside from using it to find and abuse the current money dupe glitch).
+As is the nature of this buggy mess we call a "game", the Issue Council was created as a dedicated hub for reporting and contributing to bug reports and other issues in the persistent universe (aside from using it to find and abuse the current money dupe glitch).
 Official Resources: | Links:
 ------ | ------ 
 Issue Council | https://issue-council.robertsspaceindustries.com/projects/STAR-CITIZEN
 Using the Issue Council | https://support.robertsspaceindustries.com/hc/en-us/articles/115009643527-Bug-Reports-Using-the-Issue-Council
 
-When submitting bug reports, it's best to provide a detailed recount on how you encountered the issue, what steps are necessary to reproduce it, and any workarounds you find, so that others can also contribute to your report and bring more attention to it. Those who are active on the issue council have a chance to be picked by CIG to join their [Evocati](https://rentry.org/guier/#evocati) test group
+When submitting bug reports, it's best to provide a detailed recount on how you encountered the issue, what steps are necessary to reproduce it, and any workarounds you may find, so that others can also contribute to your report and bring more attention to it. Those who are active on the issue council have a chance to be picked by CIG to join their [Evocati](https://rentry.org/guier/#evocati) test group.
 
-In your report, it is also recommended to have video recordings (preferably) or screenshots of when the issue happens, and include system debugging information by typing "`r_displayinfo 2`" (or `3` for more info) in the games console (open with the **tilde** key) along with the session QR code "`r_displaysessioninfo 1`" to have in your videos/screenshots so that developers have a much easier time tracking down the problem.
+In your report, it is also recommended to have video recordings (preferably) or screenshots of the issue, and to include system debugging information by typing "`r_displayinfo 2`" (or `3` for more info) in the games console (open with the **tilde** key) along with the session QR code "`r_displaysessioninfo 1`" to have displayed in your videos/screenshots so that developers have a much easier time tracking down the problem.
 ***
 ***
 ###->Arena Commander<-
@@ -398,9 +398,6 @@ In your report, it is also recommended to have video recordings (preferably) or 
 **[Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)**
 ###->Which Starter Pack Should I Choose?<-
 ***
-!!!info There are more, expensive ships sold as game packages, but I don't recommend them as potential purchase options with real money.
-
-->**https://robertsspaceindustries.com/store/pledge/browse/game-packages/**<-
 
 When deciding on buying a game pack, you should take into consideration:
 >How much you are willing to spend? 
@@ -420,53 +417,56 @@ Or, just get what you think looks cool; that simple.
 
 - [X] **Starting Money** - Self explanatory. 
 
-!!! note Freefly events come with a discount on starter packs
+!!! note Some freefly events come with a discount on starter packs.
+->**https://robertsspaceindustries.com/store/pledge/browse/game-packages/**<-
 
 $45 Starter Packs: | Breakdown: 
 ----- | ----
-![Aurora MR](https://files.catbox.moe/uloecp.png)  | The Aurora is really showing its age, but still remains comfy. ->->**In-game Price = 184,900 aUEC** ->->**Pros:** ->-> >It has room for 2 more weapons when you can afford them. ->-> >It's tiny, walkable interior, while not amazing, will allow you to do entry level box delivery missions. ->-> >Slightly faster max speed compared to the Mustang. ->-> >A bed that allows you to log out in the ship, and return later where you left off. ->->**Cons:**->-> >Weakest total DPS. ->-> >3SCU. ->-> >Doesn't handle well in atmosphere.->->**Thoughts:**->-> The Aurora will always have a soft spot in many backers hearts, but its in desperate need of a rework.
-![Mustang Alpha](https://files.catbox.moe/hidvnq.png) | The other contender in the $45 bracket. ->->**In-game Price = 251,400 aUEC** ->->**Pros:**->-> >The view in the cockpit is fantastic. ->-> >Impressive DPS when you add the 2 extra weapons later on. ->-> >Handles better than the Aurora in atmosphere. ->-> >4SCU of Cargo, which is standard for starter ships. ->->**Cons:** ->-> >No bed. ->-> >Only just a cockpit with no walkable interior, however you can still do entry level box delivery missions utilizing its [deployable cargo trunk](https://files.catbox.moe/f0i53l.jpg). ->-> **Thoughts:**->->The Mustang is a great ship to start off dipping your toes into cargo hauling and space combat.
+![Aurora MR](https://files.catbox.moe/uloecp.png)  | The Aurora is starting to show its age, but still remains comfy. ->->**In-game Price = 184,900 aUEC** ->->**Pros:** ->-> >It's tiny, walkable interior, while not amazing, will allow you to do entry level box delivery missions. ->-> >Slightly faster max speed compared to the Mustang. ->-> >A bed that allows you to log out in the ship, and return later where you left off. ->->**Cons:**->-> >Weakest total DPS. ->-> >3SCU. ->-> >Doesn't handle well in atmosphere.->->**Thoughts:**->-> The Aurora will always have a soft spot in many backers hearts, but its in desperate need of a rework.
+![Mustang Alpha](https://files.catbox.moe/hidvnq.png) | The other contender in the $45 bracket. ->->**In-game Price = 251,400 aUEC** ->->**Pros:**->-> >The view in the cockpit is fantastic. ->-> >Handles better than the Aurora in atmosphere. ->-> >4SCU of Cargo, which is standard for starter ships. ->->**Cons:** ->-> >No bed. ->-> >Only just a cockpit with no walkable interior, however you can still do entry level box delivery missions utilizing its [deployable cargo trunk](https://files.catbox.moe/f0i53l.jpg). ->-> **Thoughts:**->->The Mustang is a great ship to start off dipping your toes into cargo hauling and space combat.
 
 !!! info From this point on, you can settle with one of the two options above and earn the rest in-game.
 
 $60+ Starter Packs: | Breakdown: 
 ----- | ----
-![Pisces C8X](https://files.catbox.moe/91tpeq.png) | I don't really know how I feel about the Carrack's snub being sold as a starter ship. ->->**In-game Price = 406,000 aUEC** ->->**Pros:**->-> >More spacious interior compared to the previous 2 ships.->-> >2 extra seats for anyone who wants to tag along. ->->  >Comes stock with weapons on all its hardpoints, unlike the Mustang/Aurora. ->-> >Has the standard 4 SCU of cargo. ->-> >Massive hydrogen fuel tank and efficiency. ->->**Cons:** ->-> >No bed. ->-> >Weak shielding. ->-> >The worst total health pool on this list. ->-> >Maneuverability and DPS sits in-between the Aurora/Mustang, not terrible, not great. ->-> **Thoughts:** ->->I would not recommend you use the Pisces for any sort of combat, only cargo hauling or just general traversal.
+![Pisces C8X](https://files.catbox.moe/91tpeq.png) | I don't really know how I feel about the Carrack's snub being sold as a starter ship. ->->**In-game Price = 406,000 aUEC** ->->**Pros:**->-> >More spacious interior compared to the previous 2 ships. ->->  >Comes stock with weapons on all its hardpoints, unlike the Mustang/Aurora. ->-> >Has the standard 4 SCU of cargo. ->-> >Massive hydrogen fuel tank and efficiency. ->->**Cons:** ->-> >No bed. ->-> >Weak shielding. ->-> >The worst total health pool on this list. ->-> >Maneuverability and DPS sits in-between the Aurora/Mustang, not terrible, not great. ->-> **Thoughts:** ->->I would not recommend you use the Pisces for any sort of combat, only cargo hauling or just general traversal.
 ![Cutter](https://files.catbox.moe/sbomw2.png) | The Cutter is a very solid starter ship, definitely one to heavily consider. ->->**In-game Price = 675,000 aUEC** ->->**Pros:**->-> >Comfy interior. ->-> >A bed, along with other smaller amenities. ->-> >Standard 4 SCU of cargo. ->-> >Can fit a small vehicle like the [STV](https://starcitizen.tools/STV)->-> >Room to upgrade DPS by replacing the stock loadout with weapon size increases. ->-> >Second largest quantum and hydrogen fuel capacity on this list. ->-> >Largest total health pool out of any ship listed here. ->-> **Cons:** ->-> >Shielding is the same as the Pisces, bad. ->-> >Terrible maneuverability. ->-> **Thoughts:** ->-> You cant go wrong with this as a starter ship.
 ![100i](https://files.catbox.moe/4ggkyo.png) | If the Cutter wasn't much of a looker, then maybe the 100i might interest you.  ->->**In-game Price = 654,000 aUEC** ->-> **Pros:** ->-> >Stylish ->-> >Fantastic cockpit view on par with the Mustang. ->->>Decent DPS if you upgrade up a size on its stock weapons. ->-> >Extremely efficient hydrogen fuel scoop. ->-> >Good maneuverability. ->-> >Has a bed. ->-> **Cons:** ->-> >Very small hydrogen fuel tank. ->-> >Only 2SCU, worst by far. ->-> >Slowest max speed on this list. ->-> >Weak shields. ->-> >Health pool on par with the Aurora. ->-> **Thoughts:** ->-> I don't have much to say for Origin ships, but this one is on my radar as a comfy daily driver.
-![Avenger Titan](https://files.catbox.moe/thk0c2.png) | Another great starting ship to compete with the Cutter, but only if you decide the extra $$ is justified.->->**In-game Price = 785,600 aUEC**  ->-> **Pros:** ->-> >8 SCU of cargo. ->-> >Best DPS output of all the single seater ships listed here. ->-> >Decent interior with a bed. ->-> >Tanky ->->**Cons:** ->-> >Maneuverability is bad, almost on par with the Cutter->-> >Can only fit the ground buggy in its interior cargo bay ->-> **Thoughts:** ->-> If I had to choose a starter all over again, it would be the Avenger Titan. It's a great step up from the Mustang regarding cargo and ship combat capabilities.
-![Gatac Syulen](https://files.catbox.moe/rbrl5c.png) | The first and honestly the best looking alien starter ship in the game. ->->**In-game Price = N/A yet**  ->-> **Pros:** ->-> >Very unique looking design. ->-> >Fantastic interior and exterior animations. ->-> >Comfortable living quarters, along with a suit locker and weapon rack. ->-> >6 SCU ->-> >The largest quantum and hydrogen fuel capacity in this list. ->-> >Solid firepower, with 3 s3 hardpoints ->-> >Sound design is great. ->-> **Cons:** ->-> >Quite large for a starter ship. ->-> **Neutral:** ->-> >Has to take-off and land like a rocket. Currently the only ship in game to be designed like this. ->-> **Thoughts:** ->-> This is the best looking ship on this list imo by far. It's massive fuel tanks make it great to explore the entire Stanton system right off the bat.
-![Nomad](https://files.catbox.moe/2u217g.png) | The Nomad will be your introduction to space trucking in Star Citizen. ->->**In-game Price = 952,800 aUEC** ->-> **Pros**->-> >24 SCU of cargo ->-> >Great firepower to defend itself. ->-> >Fantastic interior. ->-> >Ship tractor beam on the rear for remote manual cargo loading. ->-> >Can hold a ROC ground mining vehicle. ->-> >Good shielding. ->-> **Cons:** ->-> >Bad maneuverability, as you would expect. ->-> >Exposed cargo bay. ->-> >Not so great total hull HP. ->-> **Thoughts:** ->-> If you are a pickup truck enthusiast, you might like the Nomad.
+![Avenger Titan](https://files.catbox.moe/thk0c2.png) | Another great starting ship to compete with the Cutter, but only if you decide the extra $$ is justified.->->**In-game Price = 785,600 aUEC**  ->-> **Pros:** ->-> >8 SCU of cargo. ->-> >Best DPS output of all the ships listed here. ->-> >Decent interior with a bed. ->-> >Tanky ->->**Cons:** ->-> >Maneuverability is bad, almost on par with the Cutter->-> >Can only fit the ground buggy in its interior cargo bay ->-> **Thoughts:** ->-> The Avenger Titan is another all around community favorite starter ship to recommend, like the cutter, you cant go wrong with it.
+![Gatac Syulen](https://files.catbox.moe/rbrl5c.png) | The first (and honestly the best looking on this list) alien starter ship in the game. ->->**In-game Price = N/A yet**  ->-> **Pros:** ->-> >Very unique looking design. ->-> >Fantastic interior and exterior animations. ->-> >Comfortable living quarters, along with a suit locker and weapon rack. ->-> >6 SCU ->-> >The largest quantum and hydrogen fuel capacity in this list. ->-> >Solid firepower, with 3 s3 hardpoints ->-> >Sound design is great. ->-> **Cons:** ->-> >Quite large for a starter ship. ->-> **Neutral:** ->-> >Has to take-off and land like a rocket. Currently the only ship in game to be designed like this. ->-> **Thoughts:** ->-> Hard to find any faults with this ship. It's massive fuel tanks make it great to explore the entire Stanton system right off the bat.
+![Nomad](https://files.catbox.moe/2u217g.png) | The Nomad will be your introduction to space trucking in Star Citizen and where I draw the line for what I'd consider a starter ship. ->->**In-game Price = 952,800 aUEC** ->-> **Pros**->-> >24 SCU of cargo ->-> >Great firepower to defend itself. ->-> >Fantastic interior. ->-> >Ship tractor beam on the rear for remote manual cargo loading. ->-> >Can hold a ROC ground mining vehicle. ->-> >Good shielding. ->-> **Cons:** ->-> >Bad maneuverability, as you would expect. ->-> >Exposed cargo bay. ->-> >Not so great total hull HP. ->-> **Thoughts:** ->-> If you are a pickup truck enthusiast, you might like the Nomad.
 
+!!!info There are more, expensive ships sold as game packages, but I don't recommend them as potential purchase options with real money.
 
+***
 ***
 ###->The In-Game Tutorial<-
 [Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)
-!!! warning Make sure that "Show Hints", "Control Hints" and "Ship Entry Labels Enabled" are toggled to "Yes" in "ESC>Options>Game Settings" for the tutorial (is by default).
+!!! warning Make sure that "Show Hints", "Control Hints" and "Ship Entry Labels Enabled" are toggled to "Yes" in "ESC>Options>Game Settings" for the tutorial (is enabled by default).
 
-When you first boot up the game and make your character, it will bring up the option to take a beginner tutorial. **I recommend you do this if you are very new to Star Citizen**. It's a decent step-by-step guide that will take you through the very basics of playing inside the Persistent Universe. 
+When you first boot up the game and make your character, it will bring up the option to take a beginner tutorial. **I recommend you do this if you are very new to Star Citizen**. It's a decent step-by-step guide that will take you through the very basics of playing inside the Persistent Universe and should take you no more than **25 minutes to complete**. 
 
 ->![tutorial popup](https://files.catbox.moe/8zh74d.png)<-
 
-You begin on Microtech, 1 of the 4 major city's in the Stanton system. You'll be guided through the city to get a feel for the gameplay inside the PU, and will end with you taking off from the city and landing at the orbital station above.
+You begin on waking up in the habitation module inside the city of [New Babbage](https://starcitizen.tools/New_Babbage) on the planet [Microtech](https://starcitizen.tools/MicroTech_(planet)). You'll be guided through the city to familiarize yourself inside the PU, and will end with you taking off from the city and landing at the orbital station above.
 
 !!! note Its a quick tutorial so it *shouldn't* be that hard (barring any bugs), but here are some tips while you go through it.
 - [x] Holding `Spacebar` or `W` will get you out of the bed.
-- [x] Occasionally, the tutorial will update the **journal app** with context relevant to what its guiding you through. Open the Mobi-Glass with `F1` and you can't miss the flashing icon.
+- [x] Occasionally, the tutorial will update the **journal app** with context relevant to what its guiding you through. Open the Mobi-Glass with **`F1`** and you can't miss the flashing icon.
 ![journal](https://files.catbox.moe/phllbl.jpg)
 
-- [x] When it takes you to the little corner store, pick yourself up a [Multi-Tool](https://starcitizen.tools/Pyro_RYT_Multi-Tool) with a [TruHold Tractor Beam](https://starcitizen.tools/TruHold_Tractor_Beam_Attachment)/[OreBit Mining](https://starcitizen.tools/OreBit_Mining_Attachment) attachments.
-- [x] Also, if you can afford to, pick up a backpack along with a FPS gun. You don't need them right away, and you can always purchase them later.
-- [x] Once inside the tutorial Pisces, you can use the flight ready bind `Right Alt` + `R` to start the ships engines and power at the same time.
+- [x] When it takes you to the little corner store, pick yourself up a **[Multi-Tool](https://starcitizen.tools/Pyro_RYT_Multi-Tool)** with a **[TruHold Tractor Beam](https://starcitizen.tools/TruHold_Tractor_Beam_Attachment)/[OreBit Mining](https://starcitizen.tools/OreBit_Mining_Attachment)** attachments.
+- [x] Also, if you can afford to, pick up a **backpack** along with a **FPS gun** of your choice. You don't need them right away, and you can always purchase them later.
+- [x] Once inside the tutorial Pisces, you can use the flight ready bind **`Right Alt` + `R`** to start the ships engines and power at the same time.
 - [x] You will need to contact the ATC to open the hangar doors after you powered on the ship. **There are 3 ways to do this**:
-1. Easiest is using the default bind `Left Alt` + `N` to hail ATC for takeoff/landing.
-2. Open the Mobi-Glass, on the top left, go into the `Friends` tab and on the spaceport ATC channel, **click the arrow**.
+1. Easiest is using the default bind **`Left Alt` + `N`** to hail ATC for takeoff/landing.
+2. Open the Mobi-Glass, on the top left, go into the **`Friends`** tab and on the spaceport tab, **click the arrow**.
 ![crop2](https://files.catbox.moe/8o82u1.jpg)
 
-3. Hold `F`, press the `Menu` tab on the MFD, select `Comms`, then click on the Wifi looking symbol to hail `NB Int. Spaceport`.
+3. Hold **`F`**, press the **`Menu`** tab on the MFD, select **`Comms`**, then click on the Wifi looking symbol to hail **`NB Int. Spaceport`**.
 ![crop](https://files.catbox.moe/4uzg9y.png)
 
-- [x] To avoid having to hold down `W` all the time to fly forward, activate cruise control with `Left Alt` + `C`. **Any movement input during cruise control will cancel it**.
+- [x] To avoid having to hold down **`W`** all the time to fly forward, activate cruise control with **`Left Alt` + `C`**. **Any movement input during cruise control will cancel it**.
 ***
 ###->Best Way To Start Making Money?(WIP)<-
 ***
@@ -571,9 +571,9 @@ As an example – let’s say you have an Aegis Gladius. You can either have 3x 
 
 The common answer to that question is “it depends” – primarily on your ship. As a general rule of thumb however, your quantum drive should be the first component you should upgrade. 
 
->Coolers and Powerplants are only upgraded if the additional components you add exceed their threshhold. 
->There is no stat differences between different types of laser weapons (badgers vs nbds for example) of the same size.
->Shields of the same grade (A, B, C) have the exact same stats. Recommended to just buy the cheapest A grade.
+- [X]Coolers and Powerplants are only upgraded if the additional components you add exceed their threshhold. 
+- [X]There is no stat differences between different types of laser weapons (badgers vs nbds for example) of the same size.
+- [X]Shields of the same grade (A, B, C) have the exact same stats. Recommended to just buy the cheapest A grade.
 
 An example – a Size 3 stock quantum drive (Kama) vs. the upgraded quantum drive (TS-2). Note the difference in minutes in the bottom right – the upgraded quantum drive cuts out 12 minutes of travel time.
 
@@ -610,29 +610,29 @@ This mission is a salvager's dream come true. For a **150k aUEC fee**, the missi
 The caveat with this mission is that you **can't share it with your party members like with most other missions**; they either have to pay the 150k fee or just simply hop in a multicrew ship together while you plot the course. As this can technically be solo'd, you do have to travel very far out, and it is also a hotspot for PvP as others fight for control over these wrecks, so it's best that you get a group going with a ship large enough to take the journey and the goods back.
 ***
 ####->Dynamic Event Missions<-
-Dynamic Event's missions encourage server wide participation, either to work together against a large enemy faction in PvA (PvP if you chose to join them) or a dedicated PvP zone (like Jumptown) for big payouts. These operate on a specific schedule that CIG will announce in a dedicated forum post. When they are active, the mission can be accessed under **"Priority"** in the contracts manager.
+Dynamic Event's missions encourage server wide participation, either to work together against a large enemy faction in PvE or a dedicated PvP zone (like Jumptown) for big payouts. These operate on a specific schedule that CIG will announce in a dedicated forum post. When they are active, the mission can be accessed under **"Priority"** in the contracts manager.
 
 - **[XenoThreat - Assault on Stanton](https://robertsspaceindustries.com/comm-link/transmission/18510-XenoThreat-For-New-Players)**
 
-[XenoThreat](https://starcitizen.tools/XenoThreat), the pirate faction from the neighboring star system [Pyro](https://starcitizen.tools/Pyro_system), has invaded Stanton with considerable firepower, and a server wide announcement will call on everyone to go and fight them back. **You cant join them *yet.* **
+[XenoThreat](https://starcitizen.tools/XenoThreat), a pirate faction from the neighboring star system [Pyro](https://starcitizen.tools/Pyro_system), has invaded Stanton with considerable firepower, and a server wide announcement will call on everyone to go and help fight them back. **You cant join them *yet.* **
 
 The goal of this event is to protect and restock a UEE Javelin Destroyer docked at the military station [INS Jerico](https://starcitizen.tools/INS_Jericho), until its ready to fight off XenoThreat. 
 
-You and everyone who participates do this by taking 3 unique types of cargo from Starfarer wrecks in space nearby back to Jericho. Occasionally, a XenoThreat Idris will harass the docked javelin, and if you don't fend it back, the event can fail. When the requirements for delivering the cargo have been met, the final phase begins with a massive fight between the now restocked friendly Javelin vs. XenoThreat.
+You and everyone who participates do this by taking 3 unique types of cargo from Starfarer wrecks in space nearby back to Jericho. Occasionally, a XenoThreat Idris will harass the docked javelin, and if you don't fend it back, the event can fail. When the requirements for delivering the cargo have been met, the final phase begins with a massive fight between the now restocked friendly Javelin vs. XenoThreat's fleet.
 
 - **[Jumptown](https://robertsspaceindustries.com/comm-link/transmission/19156-Jumptown-21)**
 
-This dynamic event was inspired by emergent gameplay that happened in 2019 when a drug spawning outpost on the moon Yela called "[Jumptown](https://starcitizen.tools/Jumptown)" had a bug that caused it to provide more drugs than intended, and what followed was a huge influx of players flocking to this small little outpost to get their hands on the valuable cargo and fight off anyone who wanted a cut. CIG has tried to recapture that lightning in a bottle with a little twist in this event. 
+This dynamic event was inspired by emergent gameplay that happened in 2019, when a drug spawning outpost on the moon Yela called "[Jumptown](https://starcitizen.tools/Jumptown)" had a bug that caused it to provide more drugs than intended, and what followed was a huge influx of players flocking to this small little outpost to get their hands on the valuable cargo and fight off anyone who wanted a cut. CIG has tried to recapture that lightning in a bottle with a little twist in this event.
 
-It's fairly straight forward: 1 outpost will start infinitely spawning small drug boxes on 4 different locations around the system that you and the rest of the server who decide to join in fight over. There is a lawful and unlawful side to this event.
+It's fairly straight forward: 1 outpost will start infinitely spawning small drug boxes on 1 of 4 different locations around the system that you and the rest of the server who decide to join fight over. There is a lawful and unlawful side to this event.
 
 Lawful requires you to have no crimestat and will task you to take the drug boxes to the nearest LEO station on the planet Jumptown spawns at for a bonus payout. The unlawful route first requires you to have a crimestat of any level, then you take the mission from Ruto for a small fee to bring the drugs to an unlawful trading outpost for a bonus.
 - **[Siege of Orison](https://robertsspaceindustries.com/comm-link/transmission/18748-Siege-Of-Orison)**
 !!! warning You cannot fly your own ship to the events location, it will force despawn it and leave you to fall to your death.
 
-This event mission will call on the entire server to go to the city of Orison on the planet Crusader and retake multiple floating platforms near the city currently being occupied by the pirate faction  "[9 Tails](https://starcitizen.tools/Nine_Tails)". You cannot necessarily "join" 9 Tails, but if you attack any other players during the event, you will be branded as a "9 Tails sympathizer", and doing so will place a mark on you for anyone else on your platform.
+This event mission will call on the entire server to go to the city of Orison on the planet Crusader and retake multiple floating platforms near the city currently being occupied by the pirate faction  "[9 Tails](https://starcitizen.tools/Nine_Tails)". You cannot necessarily "join" 9 Tails, but if you attack any other players during the event, you will be branded as a "9 Tails sympathizer", and doing so will place a marker on you for everyone else on your platform.
 
-SoO begins by sending everyone who accepted the mission to the roof of the Crusader show room to catch a shuttle that takes you to the first of 4 platforms to retake from the attacking faction. The progression between each platform is linear, and in order to advance, **you have to defeat 1 enemy lieutenant per platform**. 
+SoO begins by sending everyone who accepted the mission to the roof of the Crusader show room to catch a shuttle that takes you to the first of 4 platforms to retake from the attacking faction. The progression between each platform is linear (if CIG can help it), and in order to advance, **you have to defeat 1 enemy lieutenant per platform**. 
 
 Each lieutenant holds a data-pad containing a **4-digit code** that is needed to unlock that specific platform's many cargo containers spread around. These containers hold plenty of ammo and medical supplies inside them, but most importantly, there is an **IFFI** in one of these containers that you need to find and disable in order to turn off that platform's hostile AA defense.
 
