@@ -172,7 +172,7 @@ You want to match the colour of ur enemy with your attack type (e.g. red unit go
 **Normal** does 100% damage.
 **Resist** does 50% damage.
 
-[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what students to prioritise, just go to the 'Teambuilding' sheet (or click on the imgur). 
+[This google doc](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=2128322015&range=A2:U2) [(image version)](https://imgur.io/a/ejZ2aIG) tells you what students to prioritise, just go to the 'Teambuilding' sheet (or click on the imgur). 
 
 Attack type (colour) > Role (tank/dps) > Environment > EX and skill levels > Star level. Iori might be the strongest starter in the game, but mismatching her against red units makes her do 1/4th of her expected damage.
 For healers, buffers, and tanks you can ignore their environment mood and attack type. 
@@ -308,7 +308,7 @@ T4 bag for Tsubaki > T7 badge for Yuuka > Hats/Gloves > Watches > Rest
 	Go as far as you can in Normal missions, and when you hit a wall switch over to Hard mode and do the same. Stuck on both = time to sweep.
 
 ##Farmable units 
-Thanks to hard missions, events, and the raid and pvp shops you're able to unlock and upgrade some of your students. 
+Thanks to hard missions, events, and the raid and pvp shops you're able to unlock and upgrade some of your students [(see this for a full list of them)](https://docs.google.com/spreadsheets/d/1BO-Uh_CsAOIetPjrNyFy9-7r1a4RAtVwK135bBC3hzM/edit#gid=900270886&range=E1:H1). 
 
 For a 3\* you need 120 shards to unlock the student. A hard node drops on average 1 shard every day, so it takes 4 months to unlock a student. 
 

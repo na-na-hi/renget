@@ -156,10 +156,15 @@ Once in, navigate to:
 In this section, open up Configure Automatic Updates and set the following settings:
 ![](https://images2.imgbox.com/2e/54/8EQuxR5e_o.png)
 
-This is where the instructions differ from nearly everything you find online, as they will tell you to **disable** "Configure Automatic Updates" in order to disable automatic updates, which if you have even a basic grasp of English you should find odd. All that would do is **disable configuration and prevent any other system setting from enabling configuration** of automatic updates, essentially doing absolutely nothing except enforcing the default setting.
+This is where the instructions differ from nearly everything you find online, as they will tell you to **disable** "Configure Automatic Updates" in order to disable automatic updates, which if you have even a basic grasp of English you should find odd. All that would do is **disable configuration of and prevent any other system setting from configuring** automatic updates, essentially doing absolutely nothing except enforcing the default setting (option 3 in the image above).
 
 You should not under any circumstances use Google or Youtube to find instructions on how to do this in the future. 99% of all "information" out there is by literal drooling retards who have no idea whatsoever how to use GPEdit, have zero MS certifications to their name, and have never worked a day as an actual Windows admin in their life. Yes, that includes every guide on how to do this from Bitdefender, Avast, WindowsCentral, anything on Youtube, etc. Literally the only places on the internet you'll find the correct information on how to configure this is here in this guide, or buried deep in some MS server admininstrator training docs, and https://www.minitool.com/backup-tips/how-to-stop-win10-update.html.
  
+
+An optional settings you can configure in this section is whether or not to show update notifications.
+Open up **Display options for update notifications**, enable the policy, and set the option to 1 or 2.
+
+If you set both these GPOs, the only way you'll know of and be aware of updates is when you open Windows Update and manually check. If you do this, it's best to get into a habit of checking once a month or every two months for security updates.
 
 
 ######Step 7 (Recommended): Partition system drive and move user folders to reinstall-proof your data

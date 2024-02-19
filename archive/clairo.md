@@ -1,7 +1,7 @@
--> biggest miraculous and alice deross fan <-
--> ![](https://media.discordapp.net/attachments/1096639589852123136/1208679819332550666/IMG_2556.jpg?ex=65e429cd&is=65d1b4cd&hm=eb4ae4dd98ccfc8daf1b5c7608b7e5b062f0f8b04f902476c9ccf7cf3e780e3b&) <-
--> ౨ৎ  enn*y*  ![](https://i.imgur.com/DaSIlFi.gif)  ◞ [t](https://en.pronouns.page/@ennymarch4)hey she he <-
-->%#ED303C% isfj 6w7 %% mar4 pisces <-
-->  [bsf](https://rentry.co/edwardnashton) %#FFE87C% #!~[e](https://the-batman-universe.fandom.com/wiki/Riddler)~!dward!~[j](https://lollipopchainsaw.fandom.com/wiki/Juliet_Starling)~!uliet %%<-
--> [urls](https://rentry.org/edward)　 [byf](https://rentry.co/creep)　<-
-->discord: rockmyemotions <-
+![](https://cdn.discordapp.com/attachments/1064597015503315054/1108079448395350026/Untitled2220_20230516181154.png)
+![](https://media.discordapp.net/attachments/1112655651416588371/1208988265718218792/Untitled62_20240218210737.png?ex=65e54910&is=65d2d410&hm=277c4f567e8e26b9db3771d7343067d65c534e64d8a69f51d9a91c099073f026&)
+-> ‎ ‎ ‎ ‎ enny ¹‎ ‎ ‎ ‎ ![](https://media.discordapp.net/attachments/1096639589852123136/1208831725073862706/Untitled60_20240218104538.png?ex=65e4b746&is=65d24246&hm=5d5b6e1d83e583102632e2fe33c3de60a4a667f0e6915775edc9093c660933a8&) ‎ ‎ ‎ ‎ brine ²‎ ‎ ‎ ‎ ꒱ <-
+-> s/he ‎ ‎ ‎ .‎ ‎ ‎ they‎ ‎ [++](https://en.pronouns.page/@ennymarch4)‎ ‎ ‎ ‎  tneu ‎ ‎ ‎ ‎ bi girlboy ‎ ‎ ‎ ‎ ❀  <-
+-> ‎ ‎ ‎ ‎ autisitc ‎ ‎ ‎ ‎ ‎ ‎ adhd +more‎ ‎ ‎ <- 
+->[byi](https://rentry.org/creep) ‎ ![](https://i.imgur.com/Pqwrwwn.png) ‎ [urls](https://rentry.co/edward) <-
+![](https://cdn.discordapp.com/attachments/1064597015503315054/1108079448856727632/Untitled2220_20230516181150.png)

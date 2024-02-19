@@ -126,6 +126,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Liminal Crossroads ch. 5 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads5)
 	* [Liminal Crossroads ch. 6 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads6)
 	* [Liminal Crossroads ch. 7 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads7)
+	* [Liminal Crossroads ch. 8 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads8)
 * !~ %green%[Booker the Ribombee](https://rentry.org/RibombeeHomepage)%% ~!
 	* [Map (ft. Booker)](https://rentry.org/e9e5p)
 	* [Gathering (ft. Booker and the Guild)](https://rentry.org/h3fdu)
@@ -577,6 +578,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Rain Prologue](https://rentry.co/ww6axip9)
 * [The Great Bulk ch. 9 (ft. Makky)](https://rentry.org/GreatBulk9)
 * [Aura Dog Day (ft. Turk the Lucario)](https://rentry.org/turklucario2)
+* [Liminal Crossroads ch. 8 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads8)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

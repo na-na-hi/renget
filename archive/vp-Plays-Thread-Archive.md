@@ -414,3 +414,4 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 !!! info
 	**Status: In Progress**
 [**[1]** *Oh, this is really short actually*](https://arch.b4k.co/vp/thread/55406868/)
+[**[2]** *Don't ever play Virtualization bros*](https://arch.b4k.co/vp/thread/55421422/)

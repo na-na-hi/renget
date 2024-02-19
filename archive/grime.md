@@ -1,8 +1,7 @@
-ILL UPDATE THIS I PROMISE I HAVE BUSY SCHEDULE #SENIORYEAR
 -> ![](https://media.discordapp.net/attachments/946308735775698947/1077569470920413184/Untitled4_20230221203449.png) <-
 
 -> ![](https://pixelbank.neocities.org/decome/wings/8dc3642b.gif) ***GRIME RESOURCES*** ![](https://pixelbank.neocities.org/decome/wings/9d4a2809.gif)
-UPDATED **08／28／2023**
+UPDATED **FEB 19 2024**
 ![](https://pixelbank.neocities.org/decome/bows/651fd7e3.gif) *ITALICS* = FAVOURITES 
 hi its been 4 months since i last updated <-
 

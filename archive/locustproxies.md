@@ -1,1 +1,1 @@
-c'mon, gojo
+[![boku stolen from https://rentry.org/desuproxyreborn](https://files.catbox.moe/6zeewo.png)](https://rentry.org/desudeliveryservice)

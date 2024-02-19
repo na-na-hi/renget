@@ -8,13 +8,13 @@
 ->[Jump straight to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)<-
 
 
-The goals of this page are to serve as a point of reference for new people interested in delving into Star Citizen while also making sure it is constantly updated to represent the current state of the game. **Don't feel like you need to read everything here to get started**; just skim through what you think might be of interest. I won't be covering the planned features and mechanics that CIG has yet to release in any sort of depth, as they are not relevant.
+The goal I set for this rentry page is to serve as a point of reference for new people interested in delving into Star Citizen while also making sure it is constantly updated to represent the current state of the game. **Don't feel like you need to read everything here to get started**; just skim through what you think might be of interest. I won't be covering the planned features and mechanics that CIG has yet to release in any sort of depth, as they are not relevant.
 
 If you prefer a Star Citizen guide in a video format, I can link you to the most recently updated one I could find [here](https://www.youtube.com/watch?v=-O7AzkcRr2I). 
 
-The downside to these YouTube tutorials for an alpha project like Star Citizen is the fact that frequent updates can drastically change core aspects of the game without warning, leaving these tutorials outdated and muddying the search results. That's why I decided to make a Star Citizen guide on rentry—to avoid that issue.
+The downside to these YouTube tutorials for an alpha project like Star Citizen is the fact that frequent updates can and will drastically change core aspects of the game, leaving these youtube tutorials outdated and muddying the search results. That's why I decided to make a Star Citizen guide on rentry—to avoid that issue.
 
-->![meme](https://files.catbox.moe/qlkd54.gif)<-
+->![meme](https://files.catbox.moe/o09dvt.jpg)<-
 
 ***
 ***
@@ -49,38 +49,39 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 ***
 ####->What Is Star Citizen/SQ42?<-
 
-Star Citizen is an ambitious kickstarter videogame project built on a fork of the CryEngine (now officially dubbed StarEngine) that consists of an MMO and singleplayer space opera, first announced on October 10th, 2012, at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the project to their own website, where it continues fundraising today primarily through ship sales—or "pledges," if you will.
+Star Citizen is an ambitious kickstarter videogame project  that consists of an MMO and singleplayer space opera built on a fork of the CryEngine, now officially dubbed StarEngine, first announced on October 10th, 2012 at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the project to their own website, where it continues fundraising today primarily through ship sales—or "pledges," if you will.
 
 The MMO portion of Star Citizen, the "**[Persistent Universe](https://starcitizen.tools/Persistent_Universe)**", is an immersive open world space sim  PvPvE sandbox, that is currently still in its alpha development phase. The PU consists of 100 player cap servers and one explorable star system called **Stanton** that is home to:
->3 Planets.
->1 Gas giant.
+>4 Planets, 1 of them being a Gas giant.
 >4 Handcrafted explorable cities per planet, including a floating city in the gas giant.
 >12 Moons, 3 in orbit per planet.
 >4 Orbital stations, and 16 more within [Lagrange points](https://starcitizen.tools/Lagrangian_point).
-Along with derelict outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, [a prison](https://starcitizen.tools/Prison), and an outlaw space station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens, flying around in your ship, or walking in first person. There are over [100 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've given a brief rundown further on here. 
-As it stands, **there is no solid release date** for any "official" persistent universe launch, as we are still waiting on many more features, along with [core backend networking technology](https://youtu.be/cVvp1b7thzw?t=65) to allow multiple game servers to work simultaneously in a "server mesh" ([recently unveiled a working prototype here](https://youtu.be/xKWa4WoTkV4?t=5140)) that will enable for far more content such as more star systems and players within the same game shard, and far better server performance. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
+
+Along with derelict outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, derelict settlements, [a prison](https://starcitizen.tools/Prison), and an outlaw space station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens. There are over [100 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've given a brief rundown further down below. 
+
+As it stands, **there is no solid release date** for any "official" persistent universe launch, as we are still waiting on many more features, along with [core backend networking technology](https://youtu.be/cVvp1b7thzw?t=65) to allow multiple game servers to work simultaneously in a "server mesh" ([recently unveiled a working prototype here](https://youtu.be/xKWa4WoTkV4?t=5140)) that will enable CIG to add far more content, such as additional star systems and players within the same game shard. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
 
 **[Squadron 42](https://starcitizen.tools/Squadron_42)** is a cinematic single-player campaign that takes place in the [Vega](https://starcitizen.tools/Vega_system) and [Odin](https://starcitizen.tools/Odin_system) Star Systems, set before the events of the persistent universe. Chris Roberts said himself that SQ42 will be "this generation's wing commander", and has, for the most part, been the main development focus of CIG. SQ42 boasts an impressive A-list Hollywood cast with actors such as Gary Oldman, Mark Hamill, Gillian Anderson, Mark Strong, Andy Serkis, John Rhys-Davies, and more. 
 
-As of Citizencon 2023, [CIG has announced SQ42 is now "feature complete"](https://www.youtube.com/watch?v=IDtjzLzs7V8) and has entered its polish phase, **but has yet to provide a release date**.
+As of Citizencon 2023, [CIG has announced SQ42 is now "feature complete"](https://www.youtube.com/watch?v=IDtjzLzs7V8) and has entered its polish phase, **but has yet to provide a solid release date**.
 ***
 ***
 ###->What is there to do in-game?<-
-There is actually quite a bit to do right now, **assuming the servers cooperate**. I will list out the current professions here, with a brief summary for each, and let you decide on what sounds more appealing.
+There is actually quite a bit to do right now, **barring any unforeseen bugs and glitches**. I will list out the current professions here, with a brief summary for each, and let you decide on what sounds more appealing.
 
 !!! note Missions can be accessed in your Mobi-Glass's "Contract" manager app. Try them all to see what you like, and don't burn yourself out on just doing one mindless grind for money. These can all be done solo.
 
 - **[Mining](https://starcitizen.tools/Mining)**
 
-Since first being introduced in patch 3.2.0, mining has so far been the most fleshed-out game loop. It includes solo mining with the [Prospector](https://starcitizen.tools/Prospector), multicrew mining in the [MOLE](https://starcitizen.tools/MOLE), ground vehicle mining with the [ROC](https://starcitizen.tools/ROC), and FPS mining with the [Multi-tool](https://starcitizen.tools/Pyro_RYT_Multi-Tool)'s [mining attachment](https://starcitizen.tools/OreBit_Mining_Attachment) in caves. 
+Since first being introduced in patch 3.2.0, mining has so far been the most fleshed-out game loop. This entails solo mining with the [Prospector](https://starcitizen.tools/Prospector), multicrew mining in the [MOLE](https://starcitizen.tools/MOLE), ground vehicle mining with the [ROC](https://starcitizen.tools/ROC), and FPS mining with the [Multi-tool](https://starcitizen.tools/Pyro_RYT_Multi-Tool)'s [mining attachment](https://starcitizen.tools/OreBit_Mining_Attachment) while exploring caves. 
 
-You start by going to a planet, moon, or asteroid belt, scanning for mineable deposits, cracking and extracting the materials, refining them at a dedicated [refinery station](https://starcitizen.tools/Refinery_Deck), and finally hauling the refined material on a cargo ship to sell. You have an assortment of [mining gadgets](https://starcitizen.tools/Mining_gadget), [modules](https://starcitizen.tools/Mining_module), and [lasers](https://starcitizen.tools/Mining_laser) to help you break a valuable rock, depending on its size and mass.
+You start off by going to a planet, moon, or asteroid belt (or cave if FPS mining), scanning for mineable deposits, cracking and extracting the materials, refining them at a dedicated [refinery station](https://starcitizen.tools/Refinery_Deck), and finally hauling the refined material on a cargo ship to sell. You have an assortment of [mining gadgets](https://starcitizen.tools/Mining_gadget), [modules](https://starcitizen.tools/Mining_module), and [lasers](https://starcitizen.tools/Mining_laser) to help you break valuable rocks, depending on its size and mass.
 
 - **[Salvage](https://starcitizen.tools/Salvage)**
 
 Salvage in Star Citizen was recently introduced earlier this year in patch 3.18. You can solo salvage with the [Vulture](https://starcitizen.tools/Vulture) or multicrew in the [Reclaimer](https://starcitizen.tools/Reclaimer). There are salvage claims (legal or illegal) in the contracts manager that require you to pay a small fee for the rights and location of the derelict ship, or you can salvage any player abandoned ships you find loitering around.
 
-The 3 current steps to this profession right now are stripping components, weapons, and cargo from a derelict ship, then scraping off its hull with your salvage ship and being rewarded with valuable "[Recyclable Material Composite](https://starcitizen.tools/Recycled_Material_Composite)," to be sold. Afterwards, you break down the ship into multiple pieces and start disintegrating the ship parts and that will reward you with Construction Material.
+The 3 current steps to this profession right now are: stripping components, weapons, and cargo from a derelict ship, then scraping off its hull with your salvage ship and being rewarded with valuable "[Recyclable Material Composite](https://starcitizen.tools/Recycled_Material_Composite)," to be sold. Afterwards, you break down the ship into multiple pieces and start disintegrating them into [Construction Material](https://starcitizen.tools/Construction_Materials).
 
 - **[Cargo Hauling](https://starcitizen.tools/Cargo)**
 
@@ -106,13 +107,13 @@ They start off by first requiring you to gain your certification (go to the mark
 
 Being the majority of where the FPS content takes place, these missions are fairly straightforward and accessible to anyone right off the bat. You are taken to small underground facilities, or "bunkers," on certain planets and moons (or floating platforms on [Crusader](https://starcitizen.tools/Crusader)) to do FPS combat vs AI. 
 
-Bunker missions come in different flavors of what essentially boils down to killing braindead AI, or killing braindead AI that comes in waves. This can get really repetitive, but the payoff is pretty good the more reputation you gain to build up the difficulty level. There's also lootboxes in the facilities.
+Bunker missions come in different flavors of what essentially boils down to killing braindead AI, or killing braindead AI that comes in waves. This can get really repetitive, but the payoff is pretty good the more reputation you gain to build up the difficulty level. There's also lootboxes in the facilities, full of guns/ammo/medical supplies.
 
 - **[Piracy](https://starcitizen.tools/Piracy)**
 
 There are illegal missions you can take in the "Personal" tab in the contracts manager on your mobi-glass, that are basically a mirror copy of some legal missions. 
 
-There isn't much in the way of profit for piracy PvP currently, unless you work in a group to take down some boomers cargo ship and steal its contents (that he spent all day waiting at a terminal for) or camp outside popular smuggling hotspots, then sell the stolen goods for yourself at no question asked terminals. Don't forget to wear your [bear helmet](https://starcitizen.tools/Fieldsbury_Dark_Bear_Helmet) for extra salt mining in allchat.
+Currently the best method of making piracy worthwile is to work in a group and take over some boomers cargo ship and steal its contents (that he spent all day waiting at a terminal for) or camp outside popular smuggling hotspots, then sell the stolen goods for yourself. Don't forget to wear your [bear helmet](https://starcitizen.tools/Fieldsbury_Dark_Bear_Helmet) for extra salt mining in allchat.
 
 ->**Honorable mentions**<-
 
@@ -132,7 +133,7 @@ There is only one ship in the game that can refuel at the moment, the [Starfarer
 ###->Should I Consider Playing the Game?<-
 !!! note **TL;DR** - Give Star Citizen a go during a freefly event if you are interested. As far as spending real money is concerned, you don't need more than the initial 45$ starter pack, and you can buy other ships you want with in-game currency. If you're still unsure, check back every 3–6 months.
 
-If you have seen Star Citizen pop up recently and wanted to give it a try, I will always recommend you do so during a freefly event. Freefly events will allow you to play the game for free within a certain period of time (usually 1-2 weeks) and will lend you some ships to try out as well, along with discounts on starter packs.
+If you have seen Star Citizen pop up recently and wanted to give it a try, I will always recommend you do so during a freefly event. Freefly events will allow you to play the game for free within a certain period of time (usually 1-2 weeks) and will lend you some ships to try out as well, along with discounts on starter packs. These happen usually once every quarter and I have listed out some of them further below.
 
 But is it worth your money right now? As someone who "plays" Star Citizen regularly, solo and in groups, and has walked new people through the process a few times already, I'm going to have to say that **Star Citizen isn't worth spending any real cash on until they rework the mobi-glass at the very least**. If you do decide that you want to spend money, grab a $45 game pack; you don't need more than that. Don't listen to retards who say otherwise.
 
@@ -144,8 +145,8 @@ Star Citizen is more of a tech demo project than an actual game. It's not someth
 Events: | Description:
 ------ | ----- 
 [Invictus](https://starcitizen.tools/Invictus_Launch_Week)  -> -> Starts late May for 2 weeks. | This lore event celebrates the UEE Military, and will have every ship manufacturer show off and sell their **combat-focused ships only**, along with a tour inside the [Javelin Destroyer](https://starcitizen.tools/Javelin) and a [Bengal Carrier](https://starcitizen.tools/Bengal) flyby in-game. 
-[Foundation Festival](https://starcitizen.tools/Foundation_Festival)  -> -> Starts in early June for around 2–3 weeks. | A new player focused event that will reward you and frequent players utilizing their [Guide System](https://starcitizen.tools/Guide_System) on the website.
-[IAE](https://starcitizen.tools/Intergalactic_Aerospace_Expo)  -> ->Starts in mid-November and goes on for 2 weeks. | Biggest event of the year that will display/sell every ship they have ever sold, and distributes event unique skins for the winners of the [ship showdown contest](https://starcitizen.tools/Ship_Showdown) held every September. 
+[Foundation Festival](https://starcitizen.tools/Foundation_Festival)  -> -> Starts in early June for around 2–3 weeks. | A new player focused event that will reward you and frequent players utilizing their [Guide System](https://starcitizen.tools/Guide_System) on their website.
+[IAE](https://starcitizen.tools/Intergalactic_Aerospace_Expo)  -> ->Starts in mid-November and goes on for 2 weeks. | Biggest event of the year that will display/sell (almost) every ship they have ever sold, and distributes event unique ship skins for the winners of the [ship showdown contest](https://starcitizen.tools/Ship_Showdown) held every September. 
 
 
 **You are able to rent and try out all ships in display during the Invictus/IAE event for free**. All ships on sale during the event come with 10-years insurance and warbond CCU deals for select ships from each manufacturer.
@@ -163,14 +164,15 @@ Events: | Description:
 ***
 ***
 ###->Star Citizens Gameplay Performance<-
-!!! note CIG's new in-house-built ["Gen12 Renderer"](https://www.youtube.com/watch?v=SV9_chUpDgc) has fully replaced CryEngine's legacy rendering engine as of 3.18, and work continues to integrate the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825), and various other optimizations to help improve client performance overall.
+!!! note CIG's new in-house-built ["Gen12 Renderer"](https://www.youtube.com/watch?v=SV9_chUpDgc) has fully replaced CryEngine's legacy rendering engine as of 3.18, and work continues to integrate the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825), and various other optimizations to help improve client performance.
 >**[System Recommendations](https://rentry.org/guier/#system-recommendations)
 >[Additional Performance Notes](https://rentry.org/guier/#additional-performance-notes)
 >[How to Display Your FPS/Ping](https://rentry.org/guier/#how-to-display-your-fpsping)
 >[The Telemetry](https://rentry.org/guier/#the-telemetry)**
+
 It's a given that, as this project is still undergoing heavy development, there will be a lack of optimization, bugs, and occasional memory leaks here and there that will make some aspects of the game miserable. You should not be expecting smooth and consistent framerates right now.
 
-Note that the servers themselves are always under constant strain 24/7, so lag, desync and stuttering are very much commonplace. There's also a common misconception that the servers performance affects your games FPS, [this is false](https://files.catbox.moe/eca1vl.png).
+Note that the servers themselves are always under constant strain 24/7, so lag, desync and stuttering are very much commonplace. There's also a common misconception that the servers performance affects your games FPS, **[this is false](https://files.catbox.moe/eca1vl.png)**.
 ***
 ####System Recommendations
 !!! danger INSTALLING STAR CITIZEN ON A SSD IS MANDATORY. NO EXCEPTIONS.
@@ -192,7 +194,7 @@ Official Resources: | Links:
 
 2. The game does not currently have graphical texture presets; it all looks the same on Low > Very High. 
 
-3. If you are using an Intel CPU 12th or 13th gen, there is reported stuttering issues while having E-Cores enabled, so if you fit that description, try disabling them.
+3. If you are using an Intel CPU 12th or 13th gen, there is reported stuttering issues while having E-Cores enabled, so it might be worth disabling them.
 
 4. If you have a Nvidia GPU, this method may work for some to get a decent fps boost (no guarantees):
 
@@ -249,7 +251,7 @@ Warbond pledges are special promotions usually held during a new concept ship or
 !!! danger You cannot gift pledges purchased with any store credit, nor use store credit on physical merchandise.
 !!! warning Melting ships that have been upgraded through the CCU chain will only place the initial pledge into buybacks and not the upgrades.
 !!! info You will not be charged tax when using store credit to buy pledges.
-This system works similar to what Steam has. You can exchange pledges on the website for **store credit** based on their purchased value in USD, also known as "melting," which you can then freely use the credit on the store page on any other pledge (that is not warbond). Melted pledges will be placed into your "**buybacks**", located on the "**My Hangar**" tab on your account. 
+You can exchange pledges on the website for **store credit** based on their purchased value in USD, also known as "melting," which you can then freely use the credit on the websites store page on any other pledge (that is not warbond). Melted pledges will be placed into your "**buybacks**", located on the "**My Hangar**" tab on your account. 
 
 ->![Exchanging Pledge](https://files.catbox.moe/84uvdp.png)<-
 
@@ -257,7 +259,7 @@ Your store credit is displayed on your account overview on the top right of the 
 
 When you want to use your store credit to purchase a pledge, it's as simple as going through the same process of adding it to the shopping cart, and on the right under "Cart Summary," you have the option of adding store credit to the amount that the pledge is worth in USD. 
 
->You can also use new money alongside store credit to make up any differences.
+!!! note You can also use new money alongside store credit to make up the difference.
 
 
 ->![Using store credit on a pledge](https://files.catbox.moe/bxp34v.png)<-
