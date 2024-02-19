@@ -53,6 +53,9 @@ The holder may expend divinity to make plants grow, proportional to the nature a
 >Psyche’s Lamp:
 Consumes divinity. Reveals the true form and primary myth of incarnations using disguise or stealth authorities lower than your incarnation level. Only reveals the true form to you, and does not affect the target’s current shape
 
+>Brace of Ampelus (Super Rare)
+Consumes 1 divinity per hour. When equipped, authorities which read intentions, discern lies, or judge morality will show you as earnest, honest, and good, unless there is a substantial difference in incarnation level.
+
 ##Weapons
 
 >Achaean’s Sidearm (Common Dagger):
@@ -67,6 +70,8 @@ A bow infused with the <Myth> of a nameless huntress of Artemis. Slightly more e
 
 A serrated tooth from the great serpent Ladon. Somewhat suppresses fatigue and the need to sleep when in use.
 
+>Gloves of Ruin (Rare Gauntlet)
+Silken scarlet gloves with fingertips that can sharpen into deadly claws at will. Imbues the effects of <Touch of Madness> upon the target. If the incarnation using this weapon does not possess the authority <Touch of Madness>, it will imbue the effects of that authority at level 1
 
 
 ##Authority Crystals

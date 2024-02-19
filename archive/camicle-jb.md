@@ -13,6 +13,7 @@ thank you thank you thank you [neo-furbo](https://rentry.org/neo-furbo), i've sh
 should work with group chats and impersonates!
 
 **use the system gaslight at the end ONLY if you get refusals (mostly on NSFW). if that doesn't work, send me an email and try enabling character names, or both.**
+**enable character names in group chats or for cards that speak in first person**
 
 [v4.2](https://files.catbox.moe/8x20pl.json)
 ~~v4.1 actually uses the god prompt properly, thanks anon~~

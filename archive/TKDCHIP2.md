@@ -44,6 +44,9 @@ https://files.catbox.moe/qc0ht0.mp4  New  Translated Version  2/14/24
 >MUST WATCH: The Mujahideen Brigades published a video showing a succesfully sniping operation that eliminated an IOF soldier atop one of the Taiba towers, south of the Japanese neighborhood west of Khan Younis.
 https://files.catbox.moe/uuza7g.mp4  New  2/15/24
 
+>Scenes from a booby-trapping operation and then the Mujahideen Brigades’ bombing of a house in which a special Zionist force had barricaded itself in the west of the Al-Sabra neighborhood in #Gaza City.
+https://files.catbox.moe/i6kucn.mp4  New  2/18/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -91,6 +94,9 @@ https://files.catbox.moe/tqvk2g.mp4 New  2/14/24
 
 >WATCH: Al-Quds Brigades published a video showing the joint-operation mortar launches with the Ansar Brigades, crushing IOF military sites and concentrations in the northern Gaza Strip.
 https://files.catbox.moe/zfqqzr.mp4  New  2/15/24
+
+>WATCH: Al-Quds Brigades published a video showing the targeting of IOF soldiers and vehicles, in the western Gaza Strip.
+https://files.catbox.moe/d6whbb.mp4  New  2/18/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -248,3 +254,23 @@ https://files.catbox.moe/860rgi.mp4  New  2/16/24
 https://files.catbox.moe/vox3b5.mp4  New  2/16/24
 >Al-Qassam Brigades Spokesman, Abu Obeida’s speech with english subtitles. Subs courtesy of RNN.
 https://files.catbox.moe/ikvh29.mp4  New  2/16/24
+>Israel's military released new footage of its soldiers fighting a battle and opening heavy fire inside an empty house in Gaza.
+https://files.catbox.moe/q48aue.mp4  2/18/24
+>Israeli settlers continue to block humanitarian aid trucks, preventing them from entering Gaza at the Nitzana crossing.
+https://files.catbox.moe/h6svwa.mp4  New  2/18/24
+>Starving children in Gaza: "We want to eat."
+https://files.catbox.moe/5pwqg5.mp4  New  2/18/24
+>Breaking | Israeli forces shot towards Gazans while they were waiting for the arrival of aid trucks on Beach Road west of Gaza.
+https://files.catbox.moe/ptvs9p.mp4  New  2/18/24
+>An activist documents the process of showering in displaced Palestinians' tents in Rafah. Since the beginning of the war, Israel has closed the main water pump supplying water to Gaza and demolished most of the water desalination stations in the Gaza Strip.
+https://files.catbox.moe/y6j1ir.mp4  New  2/18/24
+>How Israel Merked its Own Civilians on October 7
+https://youtu.be/fCjTki-OgKQ  New  2/18/24
+>Is a Palestinian state in the works?
+https://youtu.be/KCVTI_busL4  New  2/18/24
+>Ione Belarra, former Spanish Minister for Social Rights and a political activist, contends that Spain and the US are complicit in genocide through their arms trade agreements with Israel.
+https://files.catbox.moe/kthiv4.mp4  New  2/18/24
+>Zionists everywhere , disrespecting humanity
+https://files.catbox.moe/j55x3n.mp4  New  2/18/24
+>The agony of the displaced settlers from the northern borders due to Hezbollah daily fire
+https://files.catbox.moe/56opa0.mp4  New  2/18/24

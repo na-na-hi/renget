@@ -634,3 +634,453 @@ Floatzel's eyes darted around for a moment, as if he was looking for someone. He
 Vileplume reached into his satchel and pulled out the box. He handed it over to Floatzel who took it with shaky paws. Floatzel slowly unwrapped the string and tried to open the box. The lid was on tight, so he pulled hard on it. When the lid finally snapped off, something inside the box detonated, creating a massive fireball that consumed Floatzel and his entire shop. 
 
 “Jesus fucking Christ!” Enny shouted. “What have we done?!”
+
+##Evolution
+
+Team Moonshine stood in front of the Kecleon Market in Pokemon Square. They all felt very drained after completing such a horrible mission.
+
+“So you’re the team our brothers sent to deliver our package!” The purple brother said.
+
+“Yeah… that’s us,” Vileplume said with a hint of shame in his voice.
+
+“I’ll never get a good night’s sleep again,” Enny muttered.
+
+“You’ve done us a great service, Team Moonshine!” The green brother said.
+
+“Indeed! That shop was driving away a large number of our customers!”
+
+“Couldn’t you have just competed with him like a normal business?” Bellossom asked.
+
+One of the kecleons laughed as the other one explained. “Why would we waste several months and thousands of *poke* on such a gamble when we could just spend one thousand on a blast seed, a small box, and an exploration team to deliver it?”
+
+“Maybe because it was fucked up and illegal?” Enny argued.
+
+“Oh, I’m sorry, are you trying to blackmail us?” The purple kecleon asked in a threatening tone.
+
+“We’ll have you know, solicitation is considered a lesser crime by the Air Continent, so the penalties are much lighter.”
+
+“And while we can afford the fines and bail for our jail sentence, you almost certainly cannot!”
+
+“So is that your plan? You’re just gonna screw us after we did your dirty work?” Vileplume growled.
+
+“That was never our intention!” The green kecleon said, seemingly insulted.
+
+“The Kecleon Brothers run an honest business! We would never scam our customers like that!”
+
+“So now they have a moral compass,” Enny sneered.
+
+“Your team will receive their voucher for one evolution item as promised by our brothers in the Grass Continent,” the purple kecleon assured.
+
+“You may redeem it any time you wish at our location here in Pokemon Square.”
+
+“Thank god, I’m so done with this mission,” Vileplume sighed in relief. “Adrian, get your lunar ribbon and-”
+
+“Wait!” Adrian interrupted. “Can we… wait until tomorrow?”
+
+“Why?” Vileplume asked. “We can get this done tonight and leave.”
+
+“I… kind of want to see what this place is like before we go,” Adrian said to Vileplume's confusion.
+
+“The sun will be rising soon,” Bellossom pointed out. “We can take a day off. Maybe head out to some of the rescue team camps? I heard the jungle there is really nice, and it’s not far from town.”
+
+Vileplume groaned. He really just wanted to get Adrian back to his leadership role and be done with this whole job. He was tired, though, and the ocean wouldn't be very pleasant to sleep in.
+
+“Fine. We can go to the jungle. Not sure how Adrian and Enny’ll like it, though.”
+
+“Don’t worry about us, Viley,” Enny said. “We can go to that one place for the eeveelutions. What’s it called again?”
+
+“Evolution Forest!” Adrian answered instantly. He seemed genuinely excited, kind of like when they arrived at Baram Town. That was kind of odd to Vileplume. Also, how did he know the name of the forest just like that? Before he got the chance to ask, Adrian and Enny already set out. Vileplume figured it probably wasn't important, so he set the thought aside and left with his sister to find the jungle.
+
+Vileplume and Bellossom reached the jungle around sunrise. There were plenty of signs to help tourists find their way. When the two entered the campgrounds, they immediately felt how comfortable the environment was. The air was thick and humid, but not too hot. The soil was soft, and the grass was perfect, like a massive blanket spread across the ground. Vileplume laid back on the bright green grass and basked in the sunlight.
+
+For the first time in months, he felt at peace. Joining the guild was a great experience for him, but Adrian had them going out on missions nearly every day. Their few days off were usually spent preparing for another mission Adrian wanted to go on. He never wanted to relax, and Vileplume had kind of just gotten used to it. 
+
+He never realized how much stress he’d been building up all this time. Getting into fights, nearly getting killed on so many missions, worrying about the safety of his sister and the rest of his team. At the same time, he felt a lot of guilt for some of the things he'd done. Some of the missions he failed, all the times his team got injured, the innocent floatzel he’d JUST killed. There was so much to think about that he’d just been ignoring all this time.
+
+At that moment, resting in the grass, he realized something else. Since he’d joined the guild, he hadn't really spent any time with his sister. The only time they were alone together was when Adrian and Enny went missing in that cave, and they spent most of their time worrying about whether or not they'd come back. Now, he was just relaxing with her in a calm, peaceful environment like they were kids again.
+
+“It’s kind of nice, isn't it?” He heard Bellossom ask.
+
+“Yeah. I didn't realize how much I needed something like this,” Vileplume answered.
+
+“We really should take more trips like this,” Bellossom suggested.
+
+“Agreed…”
+
+***
+
+Vileplume felt himself drift off slowly. He wasn't exactly sure when he fell asleep, but when he woke up, Bellossom snuggled up closer to him. Not in any hurry to leave, he wrapped an arm around her and continued to lie in the grass and soak in the evening sun. 
+
+He realized then how he’d kind of missed waking up in the mornings. The night shift wasn't really an issue for him since he could still get most of his sunlight while he slept. The way that sun made him feel when he was awake was just different, though. If only Adrian wasn't nocturnal by nature. Maybe when he evolved again, Vileplume could see about getting him on a proper sleep schedule. It's not like all umbreons were forced to be nocturnal, and it was kind of ridiculous for the team to focus their sleep schedule around one member's preferences.
+
+“Good evening, Viley.”
+
+Vileplume lost his train of thought as he realized his sister just woke up. “Good evening, Bell.”
+
+Bellossom sat up and looked around the jungle. “This is a really nice place. I see why all the merchants talk about it.”
+
+“Yeah…”
+
+“How are you feeling, Viley?” Bellossom asked.
+
+Vileplume was caught off guard by the question. “I’m… doing alright. That delivery turned out really badly, so I'm glad we got this chance to relax.”
+
+“You know it's not your fault with what happened to Floatzel, right?” Bellossom asked.
+
+“Bell, quit worrying about me,” Vileplume dismissed.
+
+“I’m worrying about everyone in our team! Can you imagine how Adrian and Enny are feeling about that?”
+
+“I don’t have to imagine Enny’s feelings. He was pretty vocal about them,” Vileplume joked. “He's an overdramatic sylveon. He’ll get over it.”
+
+“Okay, you're right,” Bellossom said. “I'm still worried about Adrian, though.”
+
+“He’s never felt bad about any of the psycho shit he’s done before.”
+
+“Yes, he has,” Bellossom said. “He tells me about it all the time. Well, not directly… but I can tell when he’s not happy!”
+
+“What are you talking about?” Vileplume asked.
+
+“Since that mission we did with all the beldums, he and I have started talking a bit more,” Bellossom explained. “He’s still not really open with me, but I know he feels bad about some of the stuff he does.”
+
+“Like?”
+
+“Well…” Bellossom paused. “That time we got separated from him and Enny. He never told me what happened there, but he was really upset after that if you remember. I tried asking him, but he refused to talk about it. He just kept saying it wasn’t important.”
+
+“Yeah, that was a pretty awkward week,” Vileplume remembered. “Adrian had us do like, four different jobs in that week alone. When we’d come back to the guild, he’d just take another poster off the board and say we were doing that mission tomorrow.”
+
+“That’s what I’m talking about!” Bellossom exclaimed. “He’s feeling something, but he won’t talk about it with us, and now he’s been turned into a literal child.”
+
+“He *has* been acting a little strange, but I don’t want to make any assumptions as to why. It’s not my business.”
+
+“Something about him is different, and I think it’s a big deal. We’ve never seen him scared before. I think it means something.”
+
+“Look, I don’t know what any of this means and I don’t really care. If you think it’s an issue, then maybe the best solution is to get him back to normal.”
+
+Bellossom sighed. “You’re right. Let’s go fix Adrian.”
+
+***
+
+Vileplume and Bellossom finally got up and left the jungle. After around thirty minutes of looking around and asking for directions from some of the locals, they found their way to Evolution Forest. It was filled with large trees with massive roots that covered the ground. Some of the trees’ leaves and trunks had changed colors, from vibrant reds to dark purples. Some of the trees’ parts resembled elements like fire and ice more than actual leaves and branches.
+
+The two saw many different eevees and eeveelutions sleeping under the trees. There was definitely a unique feeling in the air, like some unseen force was coursing through and transforming the environment. Whatever that force was, it must've felt incredibly good to the eeveelutions in the area. 
+
+Eventually, Vileplume and Bellossom found Enny sleeping with a group of sylveons and eevees underneath a pink tree. He was sprawled across one of the roots like a cat. Vileplume approached him and prodded him awake.
+
+“Wuh… oh hey guys,” Enny yawned.
+
+“Good evening, Enny. Sleep well?” Vileplume asked.
+
+“Wonderful,” Enny said while stretching. “You guys should feel this tree. Its trunk is like a giant pillow.”
+
+“I’m good, but thanks,” Vileplume declined. “You know where Adrian went?”
+
+Enny snapped out of his tired daze and looked around his area. “Uh… not sure. There were a couple other eeveelutions who came over to talk to him last night. Apparently it's common for the locals here to invite eevees and try to persuade them to evolve into different forms.”
+
+“Ooh! How’d that go?” Bellossom asked excitedly.
+
+“Well, he told the sylveons to fuck off immediately. After that, I saw him talk to a few different groups in the area. Most of the umbreons were sleeping, but the few that were awake seemed to get along with him. He spent a while talking to the flareons and the jolteons, too.”
+
+“Wow,” Vileplume said, genuinely surprised. “Do you think he was actually considering evolving into something else?”
+
+“Maybe,” Enny shrugged. 
+
+One of the sylveons poked its head up and called out to the team. “That eevee last night had SO many repressed feelings. He’d make a great sylveon if he learned to express them!”
+
+“That’s exactly why he *wouldn’t* be a good sylveon,” Vileplume called back before turning his focus back to Enny. “So, you still haven't told us where he went.”
+
+“No, I told you I didn't know where he went,” Enny corrected. “He might have slept with some of the other eeveelutions.”
+
+“Alright, let's split up and find him then. Couldn't have gone too far,” Vileplume said.
+
+The three then split up to talk to some of the locals. Bellossom and Enny went to talk to the flareons and jolteons respectively, while Vileplume went to see the umbreons. Their tree’s bark was dark. Most of the leaves were wilted, but the few that were alive glowed bright yellow and blue. All the umbreons and eevees at this tree were awake and watched Vileplume approach.
+
+“Hello?” Vileplume asked, a little nervous. Their red eyes gave off very menacing glares.
+
+“What do you want?” One of the umbreons answered.
+
+“Uh, I’m looking for a friend,” Vileplume answered. “An eevee. He should’ve stopped here yesterday morning.”
+
+“A lot of eevees stop here.”
+
+“Well this one was different,” Vileplume said. “He used to be an umbreon himself, but he got devolved. He had a name, too.”
+
+“That eevee?” The umbreon said with a smirk. “Yeah, I remember now. Real nervous fellow.”
+
+“So do you know where he went?” Vileplume asked.
+
+The umbreon shrugged. “I couldn’t tell you. If he’s not sleeping with another crew around here, he might’ve gone to the stone in the middle of the forest. A lot of indecisive eevees go there so they don’t get harassed.”
+
+Vileplume nodded. “Thanks for the help.”
+
+“Don’t mention it. Good luck finding your friend.”
+
+Vileplume left the umbreons at their tree. They were kind of strange pokemon. Quiet and to-the-point like Adrian, but way more polite than him. It made Vileplume wonder. Was Adrian’s personality influenced by turning into an umbreon? Maybe he was turned into an umbreon because of his personality.
+
+When he got to the stone in the middle of the forest, he noticed Enny and Bellossom also arrived at around the same time.
+
+“No luck?” Vileplume asked.
+
+“The jolteons remembered him, but don’t know where he went,” Enny said.
+
+“Flareons said the same thing.”
+
+“Well unless he visited another group of eeveelutions, this is the last place he could be,” Vileplume said.
+
+The three looked at all the eevees gathered around the large stone in the middle of the group. As they approached, they noticed the eevees all seemed to have small differences amongst each other. Some of the eevees had colored eyes, some had lighter and darker fur. The fur colors varied, but were mostly different shades of brown with a few rare exceptions. 
+
+“Did the evolution stone mutate them or something?” Enny wondered aloud.
+
+The eevees, now noticing Team Moonshine, were startled by the sudden presence. A few of them ran off into the woods, seemingly out of instinct. Most of them just froze up and stared at Team Moonshine, clearly viewing them as some sort of threat. Bellossom decided to take the initiative.
+
+“Hey, we’re not here to hurt anyone,” she said in the most calm, innocent voice she could manage. “We’re looking for a friend of ours. We were wondering if any of you saw him.”
+
+One of the eevees was pushed forward. Its eyes were tinted slightly blue, and its fur was whiter than some of the other eevees. “Only eevees c-come through h-here, Miss,” it stuttered in a soft, trembling voice. They couldn’t tell whether it was male or female.
+
+“Our friend is an eevee. Just a normal eevee. No… changes like you have,” Bellossom said.
+
+“A lot of eevees come through here,” the eevee reiterated.
+
+Vileplume stepped in and said, “Okay, well our friend had a name. Adrian. He used to be an umbreon, but he got turned back into an eevee. Does that remind you of someone?”
+
+The eevee that was speaking got quiet again, but one eevee in the crowd shouted out “I talked to him!” A few other eevees started saying similar things. As the eevee pack continued chattering between each other about Adrian. Vileplume heard plenty of mentions about how mean he was. Vileplume yelled over all the chattering eevees, “Do any of you know where he went?”
+
+Most of the eevees went quiet again. One eevee, (with leaves growing on its ears) poked its head up through the crowd and answered, “He said something about going to Mount Green!”
+
+“That’s pretty far from here,” Bellossom said. “We should probably head out there now.”
+
+“Ugh. Let’s go, then,” Vileplume grumbled.
+
+“Thanks for your help, eevees!” Enny said.
+
+***
+
+The three traveled to Mount Green to see if they could find Adrian. The whole trip, Vileplume got more and more annoyed.
+
+“Why would he travel all the way out here without letting any of us know?” Vileplume wondered. “And this place specifically?”
+
+“Oh, uh… he probably heard about it from some of the locals,” Enny quickly spurted out.
+
+“Is it famous or something?” Vileplume asked.
+
+“Uh… yeah?” Enny said. Something about his tone sounded odd, but Vileplume was in no mood to question it. He was more annoyed at Adrian than anything.
+
+After another thirty minutes of traveling, the trio found themselves in Mount Green. Vileplume felt it was a pretty nice area, but he wasn’t sure why Adrian would be drawn here of all places. He must have been tired when he decided to go up here. What was he thinking?
+
+The place seemed oddly empty to them. The other camps had many more pokemon. Vileplume saw far fewer pokemon on Mount Green for some reason. He noticed one cubone and a geodude in the area, and not many more. The two were sitting by a campfire sharing a roasted apple. Vileplume asked if they’d seen an eevee around, and they pointed towards a cliff off in the distance.
+
+As the three approached the cliff, they saw an eevee sleeping near the edge.
+
+“Adrian!” Vileplume called.
+
+Adrian shot up immediately startled by Vileplume’s sudden voice. “What’s going on?!” he asked.
+
+“You tell me, Adrian!” Vileplume yelled. “You left Enny alone in the forest without telling him where you went. We spent at least an hour trying to find you!”
+
+“I-”
+
+Vileplume continued. “Seriously dude! What the hell were you thinking? If we didn’t ask the eevees where you went, or if they told us the wrong place, we’d have had no idea what happened to you! We might’ve even left without you! Do you realize how stupid that was?”
+
+Adrian stood there for a moment, trembling. Vileplume thought he saw tears in Adrian’s eyes when he looked up at him.
+
+“I’m sorry,” he said. 
+
+“Are you alright Adrian?” Enny asked. 
+
+“Yeah, I just… it’s not important,” Adrian answered with an empty tone. “You guys can go to the docks in the square. I’ll meet you there in an hour.”
+
+After that, Adrian walked past the three and headed off towards town. While Vileplume watched him leave, he realized something was definitely off with him. Vileplume was so used to arguing with Adrian. After seeing the way Adrian looked at him, though, he realized his sister might’ve been right.
+
+***
+
+Vileplume, Enny, and Bellossom followed Adrian back to Pokemon Square, taking a detour towards the docks. On the trip back, nobody said anything to each other. Adrian kept his distance from everyone, and nobody was sure about how to approach him, or if they should at all.
+
+Eventually, Adrian split off and went towards the town square while Vileplume, Bellossom and Enny went in the direction of the docks. Now that Adrian wasn’t around, Enny felt a little more comfortable talking “That was… kind of odd, wasn’t it?”
+
+Vileplume sighed. “I didn’t need magic ribbons to tell how upset he was there.”
+
+“Do you guys think he’s feeling okay?” Bellossom asked.
+
+“Obviously not,” Vileplume said.
+
+“Yeah, same here,” Enny agreed. “It’s so hard for me to tell what he’s feeling without using my ribbons. He’s really closed off.”
+
+“Maybe we should ask him about it,” Bellossom suggested.
+
+Vileplume shook his head. “Why do you think you should? You said it yourself Bellossom. He’s really unstable right now. If you really think that’s the case, why would you want to add to that?”
+
+“I don’t think these are new feelings he’s showing, Vileplume,” Enny said.
+
+“Enny’s right,” Bellossom said. “I don’t really want to assume anything too crazy, but he’s told us all that he had a pretty bad relationship with his family. I think he learned at some point growing up that he shouldn’t talk about how he feels. Turning into an eevee hasn’t changed that part of him, but I think it’s made it harder for him to hide them.”
+
+“That’s possible,” Vileplume admitted.
+
+“And also really unhealthy,” Enny added. “We should totally confront him about it. Maybe after this whole experience, he’ll be a little more willing to open up to us. Then he wouldn't feel like he has to hide how he feels behind all that edge.”
+
+Vileplume wasn't as confident. “I don't know if that’s-”
+
+“That’s a wonderful idea!” Bellossom said, interrupting her brother. “We can talk to him on the lapras ride back! Maybe we can get some drinks, too.”
+
+“That sounds like a ba-”
+
+“That sounds like a great idea!” Enny exclaimed. “You should see if they're selling drinks here in Pokemon Square!”
+
+“Sure thing,” Bellossom said. “You guys can book the lapras. I’ll be back in a few minutes.”
+
+Bellossom then darted off towards the markets, causing Vileplume to sigh internally. He and Enny went to the docks and made the arrangements for their trip home. Once everything was in place, they waited around for Bellossom and Adrian to return. Enny noticed how annoyed Vileplume looked. “Something wrong?” 
+
+“This isn’t gonna play out the way you think it will,” Vileplume warned.
+
+“Oh Viley, you’re starting to sound like Addy,” Enny said with a giggle. “Relax. I know that bre better than anyone here.”
+
+“If you did, I’m sure your friendship with him would be much more stable.”
+
+“Hey, all my little jabs at him serve a purpose,” Enny said. “I’m slowly breaking down that ego, getting down to the core of who he truly is.”
+
+“All you’re doing is pissing him off,” Vileplume said. “I don’t see how that’s beneficial in any way.”
+
+“Just trust me Viley. I know how boys work better than anyone.”
+
+“Shows in all the dates you’ve gotten without using Attract.”
+
+Enny got really defensive. “Hey, I know who's interested and who isn’t! If the guild can't appreciate my style, it’s their loss!” 
+
+“And you think Adrian deep down is interested in you?”
+
+“Absolutely! When he’s cuddling that bear, you know he’s wishing it was me!”
+
+“Hold up, what bear? What are you talking abou-” 
+
+“Oh look! She’s back!” Enny shouted abruptly.
+
+Bellossom approached Vileplume and Enny, holding two glass bottles with pink and black stained glass. She seemed really excited as she got closer. “We haven’t done anything like this since our first mission together, guys!”
+
+Vileplume didn’t say anything as Bellossom handed him the bottles, which Vileplume then packed into his satchel. She then went over and talked to Enny. Both of them were very excited to put their plan into action. 
+
+Vileplume wondered about the possibilities of this plan actually working. He didn't know Adrian the best, but he figured he understood him pretty well. Whatever he’d told Bellossom about, it never seemed to affect him. Nothing really seemed to bother him except other people. If Adrian was hiding a soft side, there was probably a reason for it. He was a very practical leader.
+
+As the team continued to wait for Adrian to return, Vileplume’s mind drifted back to the last time he had taken the leadership role during a mission. Back in the power plant, he nearly got everyone killed. He tried not to blame himself, considering how wounded everyone was and the type matchup, he still felt really bad for it. As a leader, his team was relying on him. 
+
+He wondered if Adrian had those same worries as him. Most of the humans at the guild were odd, but they were nice pokemon who did care for each other in their own ways. Was it possible that humans feel that kind of guilt as well? They were known for being smart, so surely they could see when things weren't their fault. Then again, Adrian wasn't really that different from him. He was smart sometimes, came up with all sorts of tricks to keep everyone safe. He wasn't good with his anger, and he didn't always think things through. Maybe he felt the same way about leading this team.
+
+Vileplume got pulled out of his thoughts when a stranger approached him and his team. A flareon, which initially startled Vileplume. He hadn't seen any eeveelutions in town. Did it follow them from the forest or something?
+
+Then, the flareon spoke in a very familiar voice. “You book the lapras yet?”
+
+“Adrian?” Vileplume muttered in disbelief.
+
+“No, Santa Claus. Who the fuck did you think it was?” He mocked.
+
+“You’re… a-”
+
+“OH MY GOD! Adrian’s a flareon!” Enny shouted.
+
+“Did they not have a lunar ribbon?” Bellossom asked worriedly. “We could’ve gone somewhere else to-”
+
+“Shut the fuck up, both of you,” Adrian demanded before turning back to Vileplume. “Did you book the lapras or not?”
+
+“Yeah. We were just waiting on you,” Vileplume said.
+
+“Good. Let's go home then. We can talk on the way back.”
+
+***
+
+The first hour of the ride, everyone stayed silent as an awkward tension filled the air. Adrian coming back as a flareon was a huge surprise, and it took a while for them to process it.
+
+Eventually, Enny worked up the nerve to ask, “So… how are you feeling Adrian?”
+
+“No.”
+
+“You know, we’ve been a little worried about you, Adrian,” Bellossom said.
+
+“Why?”
+
+“Well, you were acting a little odd as an eevee. You were all scared, and then you ran off to that mountain without telling anyone,” Bellossom explained. 
+
+“Okay, first off, I don't know if you guys noticed, but most eevees are cowards,” Adrian said. “For fuck’s sake, their ability is called Run Away. I could tell something was wrong with me the moment I devolved, but I wanted to make sure it wasn't something with me. I talked to the eevees in the forest to confirm that, and it turned out I was probably right.
+
+“Secondly, I went to Mount Green for two reasons. One, because I didn't want to sleep with Enny and his slumber party. Two, because I had to decide whether I should evolve into an umbreon or something else.”
+
+“So you chose to become a flareon?” Enny asked.
+
+“It was a better tactical choice,” Adrian answered. “As an umbreon, I haven’t been able to cover anybody’s weaknesses. On the contrary, Enny has had to cover for my fighting, fairy, and bug type weakness on several jobs now.”
+
+“We’ll still have to cover your ground, water, and rock weaknesses,” Vileplume pointed out.
+
+“I feel that’s very reasonable with two grass types on our team.”
+
+“Fair enough. Just wanted to make sure you considered that,” Vileplume said.
+
+“Of course I did.”
+
+Then Adrian got quiet again. At least that part of him hadn’t changed. Enny and Bellossom seemed really disappointed, however. Enny walked over to Vileplume and reached into his satchel, pulling out two bottles and going back over to Bellossom to share a drink. Vileplume looked over at Adrian, sitting by himself and staring out at the ocean. Looking down into his satchel, there were still two bottles left. Vileplume sighed to himself and walked over to Adrian and sat down.
+
+Adrian looked over at him, somewhat surprised. Vileplume opened up his satchel and offered him a black-tinted bottle. “We were expecting you to come back as an umbreon. Hope you don’t mind.”
+
+“Better than nothing,” Adrian said while staring at the bottle. He then kept staring at the bottle, even starting to squint at it to Vileplume’s confusion.
+
+“Something wrong?”
+
+“No more Psychic.”
+
+Vileplume let out a chuckle. He set down his own bottle and opened the cork on Adrian’s drink before holding it up to his mouth for him to drink. Once Adrian had enough, Vileplume set the bottle to the side and opened his own bottle, taking a long drink. It was incredibly sweet, but it had a bitterness that tasted similar to durin berries. He hadn’t had durin berries since he was a little kid. 
+
+“These things are great,” Vileplume said. “How’s yours?”
+
+“Surprisingly good, actually,” Adrian said. “The dark gummi flavor is quite as good as I remember, but it’s still pretty good.”
+
+“At least we didn’t waste our money,” Vileplume chuckled.
+
+“So… why are you actually here sharing a drink with me?” Adrian asked.
+
+“I just wanted to talk. Thought you looked a bit lonely over here.”
+
+“Don’t try to pull an amateur psych analysis like those two did.”
+
+“I wasn’t planning to,” Vileplume assured. “I just wanted to know what made you change your mind.”
+
+Adrian looked at Vileplume. “W-what are you talking about.”
+
+“Bell and Enny don’t know how set you were on being an umbreon, but I do. You weren’t even willing to discuss it with the guildmaster, and now here we are,” Vileplume said, gesturing towards Adrian. “What made you shift your position so suddenly?”
+
+“You want the truth?” Adrian asked.
+
+“Wouldn’t be asking if I didn’t.”
+
+Adrian took a deep breath. “I felt bad taking the lunar ribbon. We never should’ve had to take this mission.”
+
+Vileplume was taken by surprise. “You’re not… you don’t think Floatzel’s death was your fault, do you?”
+
+“How is it not?” Adrian asked. “If I just accepted an evolution stone in Capim Town, we wouldn’t have had to do this mission. This is me finally doing what I should’ve done.”
+
+“Adrian, you didn’t know anything about that job,” Vileplume said. “If there’s anyone to blame for that, it should be me. I should’ve checked what we were delivering.”
+
+“That was literally your first time running a full mission as a leader. In fact, you wouldn’t have been put in that position if I let you and Bellossom handle Machamp instead of trying to get the jump on him.”
+
+“Why are you giving me a pass for my mistakes, but not yourself?”
+
+“I told you, no psych analysis.”
+
+“Sorry, my bad,” Vileplume apologized. “I just want to say, I get where you’re coming from. I feel terrible about what we did to Floatzel. To some extent, we’re all guilty for that. We all made a terrible mistake.”
+
+“You shouldn’t feel bad for that.”
+
+“Then why should you?”
+
+Adrian didn’t answer. He looked at Vileplume for a bit before turning away from him.
+
+Vileplume continued. “I’m not gonna try to change your life in one conversation here, but maybe you should see that growlithe in the guild.”
+
+“I don’t need a therapist.” Adrian said. 
+
+“Well it wouldn’t hurt to talk to someone.” Vileplume said.
+
+“It’s a waste of time.”
+
+“Well the rest of us would appreciate it if you gave it a shot.”
+
+“Any other life-changing conversation topics you got for me?”
+
+Vileplume thought about that question for a bit. Only one answer came to mind.
+
+“I guess we’re gonna need a new team name.”

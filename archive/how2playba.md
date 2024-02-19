@@ -62,7 +62,7 @@ Alternatively you need to reset your network, see [this video on how to do that]
 
 ## (Re)rolling
 The game allows you to reroll your first 10 roll up to 9 times called Precision Recruitment. There's an ingame tutorial for this. 
-Because Precision Recruitment is a separate system, this means that you're essentially (re)rolling twice when making an account: the first moment during your first 10 roll, the second moment on the actual gacha banner. 
+Because Precision Recruitment is a separate system, this means that you're essentially (re)rolling twice when making an account: the first moment on your first 10 roll, the second moment on the actual gacha banner. 
 
 For Precision Recruitment: **Save your first 10 roll, and Retry until you used all attempts. If you get a better roll save it. Make sure to pick the one you like most at the end!**
 After Precision Recruitment: **Spend *all* your rolls after the first mission (1-1). After that you can reroll.**
@@ -821,7 +821,7 @@ In case you didn't see it already, [most stuff is inside the bagguides rentry. U
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
 
 # Afternote 
-Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the [4chan /bag/ thread](https://boards.4chan.org/vg/catalog#s=Blue%20Archive) and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated. **Please give any feedback, I have no idea if this guide is good or not.**
+Thanks for reading my guide. If you have any questions, comments, contributions, and/or feedback go to the [4chan /bag/ thread](https://boards.4chan.org/vg/catalog#s=Blue%20Archive) and add how2playba in ur post (so I can find it in the archive).  Anything is much appreciated.
 Shoutout to the [newbaguide writer](newbaguide), who specifically made the 'Downloading/Setting up the game' section, and added + edited stuff in the 'Team Formations', '(Re)rolling', 'Commissions', and 'Firing Exercise' sections.
 Big thanks to all the guides I'm linking (and stealing from) as well. Your contribution is truly appreciated.
 

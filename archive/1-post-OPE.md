@@ -6,7 +6,7 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 253rd time, what is Ope?!
+For the 255th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
@@ -14,17 +14,11 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 https://www.youtube.com/watch?v=9aiuzVI35BQ
 
 \>Streams
-Next stream: telephone game collab with Bae, Miko, Hajime, Kaela and Kobo with on Bae's channel (02/18 9PM CT)
-Last public stream (Poppy Playtime, Chapter 1)
+Next stream: lunch zatsudan (Mon 02/19 11AM CT)
+Previous collab stream (telephone game collab with Bae, Miko, Hajime, Kaela and Kobo with on Bae's channel)
+https://www.youtube.com/watch?v=J_q-OWjlt0I
+Last stream on own channel (Poppy Playtime, Chapter 1)
 https://www.youtube.com/watch?v=1Fi1_gTTqwU
-Last members-only stream (zatsudan)
-https://www.youtube.com/watch?v=DGYGVBNyoI4
-
-\>Recent merch
-Valentine's Day 2024 Set: https://shop.hololivepro.com/en/products/hololiveen_valentine2024?variant=44476442181852
-hololive Valentine's Voice Pack 2024: https://shop.hololivepro.com/en/products/hololive_valentinevoice2024?variant=44401019977948
-Nerissa "WANTED" Metal Keychain: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710706908
-B2 Advent Tapestry: https://shop.hololivepro.com/en/products/hololiveen_advent_anhalfyear?variant=44409710608604
 
 \>Songs
 Cover of Nakashima Mika - Yuki no Hana
@@ -45,11 +39,11 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>69324739
+Previous thread: >>69477765
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Schedule: @nerissa_en-1756730317816184880
+!!!warning Second OP Post - Schedule: @nerissa_en-1759325247923216656
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -71,7 +65,7 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1756730317816184880
+https://twitter.com/nerissa_en/status/1759325247923216656
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE

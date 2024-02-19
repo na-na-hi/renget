@@ -7,7 +7,7 @@
 
 Latest refill (February 18th):
 - **OpenAI** 1 (T5) -> 5 (2 T5, 3 T3)
-- No **Claude** for now
+- **AWS Claude** 0 -> 3
 
 ## Changelog
 January 23rd:

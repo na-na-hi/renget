@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+18/02/24   | Added new files to Acheron, Aventurine, and Gallagher Kit folders. / Added new files to Screwllum Misc. folder.
 31/01/24   | Added "Trailblazer" (Harmony/Imaginary) to the Upcoming Characters section and added Constance, Catarina, Akash and Dubra in the Possibly Scrapped, Placeholder or Characters with no Info section.
 25/01/24   | Gallagher moved to "Upcoming Characters" : 2.1.
 24/01/24   | Aventurine moved to "Upcoming Characters" : 2.1.

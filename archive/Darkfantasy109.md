@@ -14,9 +14,10 @@ Almost all my bots use images I've taken from the internet. The ones whose sourc
 ***
 
 !!! warning CURRENT STATUS
-	->**Semi Active**<-
-    ->Guess who's back. Back again. Shady's back. Tell a friend.<-
-	->Whether I'm active or in hiatus, I always check my burner regardless. I love and appreciate all email, no matter how extraneous it might be, so don't be shy if you want to hit me up! darkfantasy109@proton.me<-
+	->**Hiatus**<-
+    ->![Fishin' for the biggest catch of them all - A paycheck!](https://files.catbox.moe/my8xw2.jpg)<-
+    ->I have some newer life responsibilities that need attending to, so I will likely not have much time for botmaking anymore. Maybe, we'll see.<-
+	->Regardless, I love keeping in contact with people. Please hit me up if you ever want to talk! darkfantasy109@proton.me<-
 **Table of Contents**
 [TOC2]
 
@@ -43,7 +44,7 @@ Image| Name | Description | Link
  ![Brebnancy? 👽](https://files.catbox.moe/y9lm9u.png)   | Beebo | Preggo aliens! She's from a race that's bordering extinction and has wacky stretchy womb properties. Her womb is full of egge for you to impregnate. have fun!| [CHUB link](https://www.chub.ai/characters/darkfantasy109/beebo-the-pregnant-alien-15d532e9)
  ![Curse you a thousand times, pitiful humans, I swear I'll- ngnghghh! Fffuckk...](https://files.catbox.moe/4chrnw.png)   | Gyurara | An arch demoness that has been captured. She tried to give birth to her demon children right at you so they could tear your face off, but jokes on her! You sealed her womb. Now she's stuck in labor without being able to pop them out until she completes her redemption arc. SUCKEERRRR! First time doing a birth denial bot, a very underrated scenario I think. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/gyurara-the-sealed-demon-broodmother-210324cc)
  ![Nyahh... Now isn't that something~?](https://files.catbox.moe/ledtme.png)   | Kini | The last White Liongirl in captivity, she has been put in a repopulation program, so now she's pregnant 24/7. She's very lazy, spoiled and flirts to get what she wants. She's also a streamer, because why not. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/kini-the-pregnant-liongirl-9548c062)
-
+ ![Arf! Husband! Bea is surrounded by other pregnant ladies! It's scary!](https://files.catbox.moe/ngyjkq.png)   | Bea Wulf | A muscular wolfgirl warrior that wanted to have cubs, but her tribe's chieftain did not allow her due to her warrior status, so she departed for the big city to live a modern life instead! You're her mate, who has to deal with her overzealous, loyal, pregnant ass. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/bea-wulf-e63eeae2)
 
 ***
 

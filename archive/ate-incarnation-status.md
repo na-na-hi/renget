@@ -2,7 +2,7 @@
 >God Rank: C
 >Synchronization Rate: 100%
 >Level: 10
->Influence: 23,600/51,200
+>Influence: 5,400/51,200
 >Divinity: 500/500
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
@@ -19,13 +19,19 @@ All of your authorities are more effective against individuals who either like y
 >Trait: No True Face
 You are capable of maintaining a form of a persona fabricated using your transformation authorities that a sufficient number of people recognize as your persona (and not as another person) at no personal divinity cost. Additionally, as far as the system is concerned, you do not have a <True Name>.
 
+>Trait: Downfall of the Proud:
+Increases the power of your authorities when facing an incarnation of a higher level.
+
 >Pantheon: Spawn of Discord
 Assemble your pantheon to gain a bonus to the effective level of all authorities, as well as a bonus authority that is only available upon full pantheon assembly
 
-##Authorities (16/20):
+##Authorities (20/20):
 
 >Divine Folly (EX):
 You may copy one Authority from any incarnation that falls victim to your directive. The authority you copy is random, and you may do so only once per incarnation, and all authorities are copied at level one
+
+>Induct (EX):
+Allows you to grant an authority to a mortal, either directly or via an authority crystal. The target will gain the Pseudo-Myth: <Cultist of <Your Incarnation Name>>. They share your directives, and any influence, authorities, epithets, or titles garnered by the target are granted to you instead. It is possible for an <Inductee> to betray their god, at which point they will lose their power and pseudo-myth. Authority vanishes upon a single use.
 
 >Faustian Bargain (EX):
 Allows you to claim ownership of an individual’s soul if they willingly sell it to you. If you do so, you must fulfill your end of the bargain to the best of your ability. Gaining a <Soul> provides regular <Influence> as well as permanently increasing your divinity
@@ -86,7 +92,19 @@ Releases an ear splitting scream. Causes inner ear damage at close ranges and in
 >Enchant Item (1): 
 Allows you to create a Divine Relic. Works better for items made by the incarnation using this authority. If an authority crystal is used, a specific effect may be imparted. The item is severely damaged in the case of failure.
 
-##Miracles (0/5):
+>Stealth (3)
+Makes you and any objects or persons with whom you make physical contact invisible to mortals and incarnations below a certain level. Consumes 1 divinity per minute.
+
+>Divine Armor (3)
+Wraps divinity around your body like armor, protecting you from physical harm and negating some or all of the effects of authorities used against you below a certain level. Protection is directly proportional to divinity used. Consumes up to 1 divinity per second
+
+>Around Every Corner (1):
+Allows you to observe any individual who has succumb to your divinity within ten miles, multiplied by the level of this authority
+
+##Miracles (1/5):
+
+>Divine Servant (1):
+Allows you to <Deify> an individual in exchange for their soul, using one of the <Epithets> you possess. You may spend their influence as if it was your own. You may have a number of <Divine Servants> equal to this miracle’s level. If an individual is already an <Incarnation>, you may still undergo this process, and, when they are granted with your <Epithet>, they will instead gain all of the authorities that a new incarnation would have gained had they deified with that epithet.
 
 ##Titles:
 

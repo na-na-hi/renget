@@ -10,7 +10,7 @@
 -> ==Latest Update 2/14/24== <-
 -> Slowly reviving the Rentry. <-
 -> *Added to Male: Yamamoto Houjou* <-
--> *Added to Female: Focks, Desune, Mikage, Shinatsu, Philo, Ellie, Yozakurahime, Eloise, Lucia, Jo'on Kazama, Kiyomi Mishima, Nier.EXE, Nier.EXE (NetBattle), Yamamoto Kirisu* <-
+-> *Added to Female: Focks, Desune, Mikage, Shinatsu, Philo, Ellie, Yozakurahime, Eloise, Lucia, Jo'on Kazama, Kiyomi Mishima, Nier.EXE (NetBattle), Yamamoto Kirisu* <-
 
 -> ==Previous Update 1/02/24== <-
 -> Moved Rentry. <-
@@ -82,7 +82,6 @@ Character  |  Preview  |  Description  |  Links
 **Lucia** | ![Lucia](https://files.catbox.moe/m8hg9v.png) | A foxgirl swordswoman and mercenary. | [CHUB](https://chub.ai/characters/Anonymous/lucia-b31e5f8d/) [CATBOX](https://files.catbox.moe/ektnbu.png)
 **Jo'on Kazama** | ![Jo'on Kazama](https://files.catbox.moe/p274d3.png) | A cool fox-wolf girl based on Jin Kazama from TEKKEN. Becomes mean in greetings 2-4. Greetings 1-4 are TEKKEN 3-6 respectively. I'll update this with a TEKKEN Force and all-purpose greetings later. Here are some [alt gens](https://catbox.moe/c/1sg9db).	 |  [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/99od5m.png)
 **Kiyomi Mishima** | ![Kiyomi Mishima](https://files.catbox.moe/cjtpfk.png) | Update: Added a lorebook. Not very crucial, but it should add some spice. Based on Tekken's Heihachi Mishima. Based on TEKKEN in general. A rough and violent kitsune that will actually just kill you. Greetings 1-5 are TEKKEN 2-6. Greeting 6 is coom. Greeting 7 is TEKKEN Bowl. Here are some [alt gens](https://catbox.moe/c/4evdh9). | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/ihkeh2.png)
-**Nier.EXE** | ![Nier.EXE](https://files.catbox.moe/4csizc.png) | Your Yandere Netnavi. Dangerous, deadly and graceful. The two of you share a bond that transcends the borders between the digital world and the real one... | [CHUB](https://www.chub.ai/characters/claraimouto/nier-exe-56969d7c) [CATBOX](https://files.catbox.moe/puz78r.png)
 **Nier.EXE (NetBattle)** | ![Nier.EXE (NetBattle)](https://files.catbox.moe/wiejqg.png) | Face off against the number one Netbattler duo: The fearsome Red Reaper and her NetOp - Lobelia. | [CHUB](https://www.chub.ai/characters/claraimouto/nier-exe-netbattle-5dcdb424) [CATBOX](https://files.catbox.moe/b2irpv.png)
 **Yamamoto Kirisu** | ![Yamamoto Kirisu](https://files.catbox.moe/lkgb66.png) | Jaded kitsune with no tails. Set in the Sengoku period and features four greetings. | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/0ocn4t.png)
 

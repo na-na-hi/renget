@@ -1,5 +1,5 @@
 -> Kin List (Not Official This Time) <-
--> On date as of 2.9.24. <-
+-> On date as of 2.18.24. <-
 -> Best viewed 90% zoomed <-
 
 Please know . . . !
@@ -79,7 +79,7 @@ Please know . . . !
 -> **Low // Hardly // Kinsidering // Old // Questioning // Rare Kinshifts** <-
 - **Haida**, Aggretsuko. **Ankha**, AC. **Circuit,** Z-Toon. **Hazel,** IT. **Deer** (specifically reindeer). 
 - **Skitty**. **Spitz**, Warioware. **Joan of Arc**, Clone High. **Blake Belladonna.** **Lunala**
-- **Fig Cookie,**. **Ryan Akagi. Finch. Scylla**, Puyo Puyo. **Mona**, GI. **Vaggie,** HH
+- **Fig Cookie,**. **Ryan Akagi. Finch. Scylla**, Puyo Puyo. **Mona**, GI. **Vaggie,** HH. **Catbat**, Crash Bandicoot
 - **Magpies, blackbirds. Frye,** Splatoon. **Manaka**, Aggretsuko. **Sakura**, Cardcaptor Sakura. **Tiger**
 - **Gecko. Mermista**, SPOP. **Amagyu**, EE. **Miia**, Monster Musume. **Tadano**, Aggretsuko
 - **Papi**, Monster Musume. **Mudae**, EE. **Dawson**, EE. **Resasuke**, Aggretsuko. **Blitzo**, HB. **Dragon.** 

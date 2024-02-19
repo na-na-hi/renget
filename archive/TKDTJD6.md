@@ -586,3 +586,213 @@ https://t.me/megatron_ron/1874  2/17/24
 🔻Targeted the Ramia site with suitable weapons, achieving a direct hit.
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.perennialte.ch/AryJeay/status/1758999335642050597#m  2/17/24
+
+>⚡️WATCH: Al-Quds Brigades published a video showing the targeting of IOF soldiers and vehicles, in the western Gaza Strip.
+https://nitter.perennialte.ch/AryJeay/status/1759157174658285649#m  2/18/24
+https://files.catbox.moe/d6whbb.mp4  2/18/24
+
+>🛑| The occupation army announces that 20 soldiers and officers were injured in the battles in the Gaza Strip during the past 24 hours.
+And according to Maariv, 10 IOF soldiers/officers were wounded as a result of the recent bombing from southern Lebanon on the Northern District Command in Safed.
+https://nitter.perennialte.ch/AryJeay/status/1759182990578462797#m  2/18/24
+
+>Iran 2nd largest exporter of pistachio to Europe
+https://nitter.perennialte.ch/IrnaEnglish/status/1759124734262833403#m  2/18/24
+
+>Starving children in Gaza: "We want to eat."
+https://nitter.perennialte.ch/QudsNen/status/1759108677305327774#m  2/18/24
+https://files.catbox.moe/5pwqg5.mp4  2/18/24
+
+>WHO Director General Tedros Adhanom Ghebreyesus:
+"Nasser hospital in #Gaza is not functional anymore, after a weeklong siege followed by the ongoing raid.
+Both yesterday and the day before, the WHO team was not permitted to enter the hospital to assess the conditions of the patients and critical medical needs, despite reaching the hospital compound to deliver fuel alongside partners.
+There are still about 200 patients in the hospital. At least 20 need to be urgently referred to other hospitals to receive health care; medical referral is every patient’s right."
+https://nitter.perennialte.ch/QudsNen/status/1759111698777072068#m  2/18/24
+
+>The Water Transport Workers Federation of India representing workers at 11 major Indian ports announces it will refuse to load or unload weapons to Israel.
+https://nitter.perennialte.ch/QudsNen/status/1759141350748876840#m  2/18/24
+
+>BREAKING| The Ministry of Health: Israel committed 13 massacres in the past 24 hours, murdering 127 individuals and wounding 205 others.
+Many dead bodies remain in the streets and under the rubble as Israeli forces continue to prevent rescue teams and residents from reaching them.
+(Illustrative photo)
+https://nitter.perennialte.ch/QudsNen/status/1759150665618669707#m  2/18/24
+
+>World Health Organization: Nasser Hospital in Khan Yunis no longer functioning
+https://nitter.perennialte.ch/QudsNen/status/1759147661268025751#m  2/18/24
+
+>Israel's military released new footage of its soldiers fighting a battle and opening heavy fire inside an empty house in Gaza.
+https://nitter.perennialte.ch/QudsNen/status/1759170424984744381#m  2/18/24
+https://files.catbox.moe/q48aue.mp4  2/18/24
+
+>BREAKING| Brazil’s President Luiz Inacio Lula da Silva says Israel is committing genocide against Palestinian civilians in the Gaza Strip and compares its actions to Adolf Hitler’s campaign to exterminate Jews.
+https://nitter.lanterne-rouge.info/QudsNen/status/1759196392164032865  2/18/24
+
+>Israeli media report that Netanyahu and Gantz drafted a bill that rejects any unilateral recognition of a Palestinian state by Israel and rejects "international dictates."
+The bill will be presented to the Israeli government today.
+https://nitter.perennialte.ch/QudsNen/status/1759173915216142760#m  2/18/24
+
+>BREAKING| Israeli media report that the Israeli government unanimously agreed to the bill rejecting any unilateral recognition of a Palestinian state by Israel.
+https://nitter.perennialte.ch/QudsNen/status/1759185018365366637#m  2/18/24
+
+>No one is the raping Israel except for other Israelis.
+https://nitter.perennialte.ch/Partisangirl/status/1759191393992614262#m  2/18/24
+
+>Why the compulsion to do this?
+https://nitter.perennialte.ch/Partisangirl/status/1759193312035221866#m  2/18/24
+
+>⚡️#Lebanon: Al-Manar correspondent:
+Zionist attacks on the border areas in southern #Lebanon from the morning until 1:30:
+- 3 raids carried out by enemy warplanes targeting the town of #Yarun
+- A raid carried out by drones targeted the town of #Yarun
+- A raid carried out by warplanes with several missiles targeting the town of #Aita_Al-Shaab
+- A raid carried out by warplanes targeted the town of #Aitaroun
+https://nitter.perennialte.ch/ME_Observer_/status/1759179059077034482#m  2/18/24
+
+>⚡️Brief statement
+Issued by Al-Aqsa Martyrs Brigades
+Youth of Revenge and Liberation - Tulkarm
+In the name of Palestine, all of Palestine, with our rifles and explosive devices, our fighters repel a special Zionist unit that infiltrated the Martyrs’ Camp and left its members dead and wounded, and our fighters are still engaged in violent armed clashes with the Zionist occupation forces invading all axes of the camp.
+We pledged to continue moving forward, as our compass will not miss the path. It will continue to point to Palestine, and this enemy will return, carrying its injuries and disappointments and nothing else.
+Your brothers and soldiers
+Al-Aqsa Martyrs Brigades
+Youth of Revenge and Liberation - Tulkarm
+2/18/2024
+https://nitter.perennialte.ch/ME_Observer_/status/1759174793562083605#m  2/18/24
+
+>Israeli settlers continue to block humanitarian aid trucks, preventing them from entering Gaza at the Nitzana crossing.
+https://nitter.perennialte.ch/QudsNen/status/1759213600369975553#m  2/18/24
+https://files.catbox.moe/h6svwa.mp4  2/18/24
+
+>Hezbollah carried out 5 operations against israeli military assets in occupied lands, in only 30 mins! 🔥
+https://nitter.perennialte.ch/AryJeay/status/1759226080869659095#m  2/18/24
+
+>Breaking | Israeli aircrafts target the town of Aitaroun in southern Lebanon.
+https://nitter.perennialte.ch/QudsNen/status/1759217684518961362#m  2/18/24
+
+>Breaking | Israeli forces shot towards Gazans while they were waiting for the arrival of aid trucks on Beach Road west of Gaza.
+https://nitter.perennialte.ch/QudsNen/status/1759226078663508145#m  2/18/24
+https://files.catbox.moe/ptvs9p.mp4  2/18/24
+
+>It’s final - Netanyahu and his cabinet says NO to a Palestinian state, unless approved by Israel.
+>It’s a smack in the face for Biden and other world leaders who had been peddling the "2 state solution".
+https://nitter.lanterne-rouge.info/Kahlissee/status/1759215541309395225  2/18/24
+
+> 🇮🇱 Netanyahu answered Brazilian President Lula:
+
+"The words of the President of Brazil are shameful and serious. This is about trivializing the Holocaust and trying to harm the Jewish people and Israel's right to defend itself.
+
+Comparing Israel to the Nazi Holocaust and Hitler is crossing a red line. Israel fights for its defense and securing its future until complete victory and it does so while upholding international law.
+
+I decided with Foreign Minister Israel Katz to summon the Brazilian ambassador to Israel for a stern reprimand conversation immediately."
+https://t.me/megatron_ron/1878  2/18/24
+
+>Hezbollah carried out 2 more operations since this tweet. In total, they carried out 8 operations since this morning, against israeli military assets.
+https://nitter.perennialte.ch/AryJeay/status/1759237115563372810#m  2/18/24
+
+>An activist documents the process of showering in displaced Palestinians' tents in Rafah. Since the beginning of the war, Israel has closed the main water pump supplying water to Gaza and demolished most of the water desalination stations in the Gaza Strip.
+https://nitter.perennialte.ch/QudsNen/status/1759248967341122013#m  2/18/24
+https://files.catbox.moe/y6j1ir.mp4  2/18/24
+
+>Breaking | The latest toll reports 16 Palestinians killed in today's Israeli attacks on Khan Yunis, southern Gaza.
+https://nitter.perennialte.ch/QudsNen/status/1759253438498533872#m  2/18/24
+
+>The Israeli War Cabinet had made the decision to enter Rafah 
+>The invasion will happen 'as the month Ramadan approaches' – Israeli Media
+https://nitter.lanterne-rouge.info/Megatron_ron/status/1759219479987249637  2/18/24
+
+>Israeli media reports that Netanyahu agreed to Ben Gvir's proposal to restrict the entry of Palestinians in the 1948-occupied territories into Al-Aqsa >Mosque in occupied Jerusalem during Ramadan.
+https://nitter.lanterne-rouge.info/Megatron_ron/status/1759219479987249637  2/18/24
+
+>Breaking | Israeli airstrike target areas in central Gaza Strip.
+https://nitter.perennialte.ch/QudsNen/status/1759276756278669544#m  2/18/24
+
+>⚡️After the end of the security assessment regarding Al-Aqsa Mosque, it was decided to prevent the entry of #Palestinians from #Jerusalem and inside Al-Aqsa during Ramadan to those under 50 years old, as Netanyahu approved Ben Gvir’s plan to prevent Muslims from praying there and restrict the ages.
+This decision may lead to the outbreak of events in #Jerusalem, as the #Israeli police have prepared tens of thousands of soldiers to be deployed in #Jerusalem in the event of severe events.
+https://nitter.perennialte.ch/ME_Observer_/status/1759276552762564817#m  2/18/24
+
+>US Ambassador to Israel Jack Lew: "There cannot be a militarized Palestinian State, but there must be a vision for a demilitarized Palestinian State." The ambassador continues to stress that Israel has the full support of the United States for its war in Gaza.
+https://nitter.perennialte.ch/QudsNen/status/1759281548174512324#m  2/18/24
+
+>Breaking | UNRWA: "The situation in Gaza is deteriorating at an unprecedented rate. Almost three-quarters of Gaza's population consume water from contaminated sources, contributing to a rise in infectious diseases."
+https://nitter.perennialte.ch/QudsNen/status/1759285666737758663#m  2/18/24
+
+>Ione Belarra, former Spanish Minister for Social Rights and a political activist, contends that Spain and the US are complicit in genocide through their arms trade agreements with Israel.
+https://nitter.perennialte.ch/QudsNen/status/1759288067146346516#m  2/18/24
+https://files.catbox.moe/kthiv4.mp4  2/18/24
+
+>US delegate to the UN, Linda Thomas-Greenfield, said that an Algerian draft resolution that was presented Sunday "will not be adopted,” hinting that Washington might use the veto to reject the draft.
+AA reports citing US officials that the Algerian draft calls for an immediate cease-fire in Gaza for humanitarian purposes based on last month’s interim order by the International Court of Justice, which obliges Israel to take measures to prevent acts of genocide in the territory.
+(Illustrative photo)
+https://nitter.perennialte.ch/QudsNen/status/1759315133950492960#m  2/18/24
+
+>⚡️Scenes from a booby-trapping operation and then the Mujahideen Brigades’ bombing of a house in which a special Zionist force had barricaded itself in the west of the Al-Sabra neighborhood in #Gaza City.
+https://nitter.perennialte.ch/ME_Observer_/status/1759264957009481762#m  2/18/24
+https://files.catbox.moe/i6kucn.mp4  2/18/24
+
+>Zionists everywhere , disrespecting humanity
+https://nitter.perennialte.ch/ME_Observer_/status/1759310591754211331#m  2/18/24
+https://files.catbox.moe/j55x3n.mp4  2/18/24
+
+> 🇮🇱 Israeli Minister Explains How They Circumvent The Yemeni Houthi Red Sea Attacks
+
+Start from: India 🇮🇳
+Ship to: UAE 🇦🇪
+By Road to: Saudi Arabia 🇸🇦
+By Road to: Jordan 🇯🇴
+Then to: Israel 🇮🇱
+https://t.me/megatron_ron/1882  2/18/24
+
+>🚨Preliminary reports of an attack on a ship in the Bab el Mandab strait.
+https://nitter.perennialte.ch/AryJeay/status/1759322412913406310#m  2/18/24
+
+>BREAKING| The PFLP:
+⭕️The Israeli decision to prevent our people from reaching Al Aqsa Mosque during the month of Ramadan is part of a comprehensive war to end the existence of our people through extermination, displacement, besieging holy sites, expanding settlements, and isolating our people.
+⭕️Our national parties and the masses of our people should not wait for new decisions or further expansion of aggression to move towards a comprehensive uprising against this terrorist enemy, which is actively carrying out organized genocide against all forms of our existence.
+⭕️The blood of one of our children, whom the enemy has killed in Gaza, should mobilize every Palestinian and Arab to rise up against this enemy in every inch of Palestinian land, and against their allies, supporters, bases, and interests on Arab soil.
+⭕️ We call on all fighters and honorable members of our people to rise to their duty in striking and draining the terrorist enemy and to escalate revolutionary action in all its forms to defend the existence and cause of our people.
+https://nitter.perennialte.ch/QudsNen/status/1759331236500168946#m  2/18/24
+
+>⚡️The agony of the displaced settlers from the northern borders due to Hezbollah daily fire
+https://nitter.perennialte.ch/ME_Observer_/status/1759320276217516462#m  2/18/24
+https://files.catbox.moe/56opa0.mp4  2/18/24
+
+>⚡️#YEMEN : Reports of multiple explosions in Bab al Mandab and there's an ongoing battle.
+Yahia Saree, Yemen's armed forces spokesman, delayed today's statement for tomorrow due to the ongoing events
+https://nitter.perennialte.ch/ME_Observer_/status/1759365613145772296#m  2/18/24
+
+>⚡️🔴 The Popular Front for the Liberation of Palestine: The occupation’s intention to prevent access to Al-Aqsa is part of the war of extermination, and there is no way to confront it except through a comprehensive intifada.
+https://nitter.perennialte.ch/ME_Observer_/status/1759367887381233680#m  2/18/24
+
+>BREAKING:
+
+🇷🇺🇵🇸 Putin has invited Hamas for a meeting on February 26th.
+
+Russia has invited all Palestinian organisations, including Hamas, and the Palestinian Authority for an “Inter-Palestinian Meeting” in Moscow.
+
+Rumors immediately began to spread that Putin is ready to give them weapons, but judging by Syria, this is unlikely to happen.
+
+Hamas was in Moscow very often before. However, something very important is happening in the Russia-Palestine relationship.
+https://t.me/megatron_ron/1891  2/18/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 18 (2024), against US-israeli forces:
+— 🇵🇸 Mujahideen Brigades:
+🔻Targeted a gathering of IOF forces west of Khan Yunis with a Saeer rocket.
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+🔻Detonated a highly explosive device and fired an RPG on IOF army vehicles in the vicinity of Nasser Hospital, west of Khan Younis.
+— 🇵🇸 Al-Asifah Forces:
+🔻Shelled a gathering of IOF soldiers and their vehicles with 107mm rockets, in the axis east of Al-Bureij camp.
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+🔻Shelled IOF forces and their vehicles with a number of 60mm mortar shells in the eastern area of Al-Bureij camp in the central Gaza Strip.
+🔻Shelled military gatherings of IOF soldiers and their vehicles with a barrage of 107mm rockets on the northeastern Gaza axis.
+🔻Launched a salvo of 107mm rockets targeting the IOF supply line in the southern axis of Gaza City.
+— 🟡 Hezbollah:
+🔻Targeted a gathering of israeli soldiers in the vicinity of the Al-Baghdadi site with rockets.
+🔻Targeted israeli soldiers’ positions in the Evin Menachem settlement with appropriate weapons, causing direct injuries.
+🔻Targeted israeli soldiers’ positions in the Shumera settlement with suitable weapons.
+🔻Targeted israeli soldiers’ positions at the Tayhat triangle, with suitable weapons.
+🔻Targeted a building where israeli soldiers were positioned in the Yaroun (Yir’on) settlement.
+🔻Targeted the Al-Samaqa site in the occupied Shebaa Farms, with appropriate weapons.
+🔻Targeted, for the 2nd time, the Al-Samaqa site in the occupied Shebaa Farms, with rockets.
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shebaa Farms, with a Burkan rocket, hitting it directly.
+🔻Targeted a gathering of israeli soldiers in the Ramim forest, with suitable weapons.
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.perennialte.ch/AryJeay/status/1759377190171320785#m  2/18/24
