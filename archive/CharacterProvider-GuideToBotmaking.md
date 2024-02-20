@@ -6,23 +6,23 @@
 *(\*Just Enough Definitions)*
 
 ## Character Creation Guide (+JED Template)
-**JED** template is a combination of `Plain Text`, `Alichat/Interview`, `XML`, `Markdown`, and `Character Sheet` with some optional additions, like `Premise <details>` and `Scenario Memo`.
+**JED Template**: This template is a versatile blend of `Plain Text`, `Alichat/Interview`, `XML`, `Markdown`, and `Character Sheet`, complemented by optional elements like `Premise <details>` and `Scenario Memo`.
 
-The main idea was to create an easy-to-use template for people who are already familiar with botmaking and just need a simple system for character creation.
+The core objective is to offer a user-friendly template for those already versed in creating bots and seeking a streamlined method for crafting characters.
 
-**The rule of thumb:**
-1. Use no prose. Imagine you're filling in a character sheet.
-2. Include only necessary information.
-3. Delete the blocks you don't need.
-4. Examples are better then explanations.
+**The Rule of Thumb:**
+1. Avoid prose. Approach this as if you're completing a character sheet.
+2. Incorporate only the essential details.
+3. Remove any sections of the template that are not applicable.
+4. Providing examples is more effective than lengthy explanations.
 
 **Template Structure:**
-1. Character and scenario definitions. Descriptions, behavioral/speech examples.
-2. Memo / Character's Note. Remind the AI what it tends to forget.
-3. Premise <details>. Provide exposition to the AI and hide it from the User. Works great with GPT. Claude can mess this up.
+1. Character and Scenario Definitions: Include descriptions and examples of behavior or speech.
+2. Memo / Character's Note: Remind the AI of details it may overlook.
+3. Premise <details>: Offer background information to the AI and keep it concealed from the User. Works great with GPT but Claude can mess this up.
 
 #### [⬇️ DOWNLOAD JED TEMPLATE .MD](https://files.catbox.moe/fme910.md)
-(This is a [Markdown](https://www.markdownguide.org/cheat-sheet) file. You will need to [Download Visual Studio Code](https://code.visualstudio.com/download) to work with it. You can see and copy-paste the Raw Template further in this page.)
+(This is a [Markdown](https://www.markdownguide.org/cheat-sheet) file. You need a code editor app to open it, like [Visual Studio Code](https://code.visualstudio.com/download). The Raw Template is posted in another section.)
 #### [⬇️ DOWNLOAD JED_TEMPLATE.PNG](https://files.catbox.moe/0u00fk.png)
 (If you want to write directly in tavern, here is a Tavern.PNG)
 
@@ -48,26 +48,26 @@ The main idea was to create an easy-to-use template for people who are already f
 `The User` - You, {{user}}
 `The AI` - GPT
 
-• Claude understands these terms too.
+• Claude understands these terms as well.
 
-**ST Macroses:**
-{{char}} and {{user}} are SillyTavern's macroses that will be replaced on send with the Character name and your Persona name.
+**ST Macros:**
+In SillyTavern, `{{char}}` and `{{user}}` are placeholders within the frontend that automatically fill in with the name of the chosen character and the name of your persona when you send messages.
 
 %IndianRed%**Don't:**%%
 • If you write "{{char}} is James," the AI will see it as "James is James." 
-• Don't use '**You**' to address the AI of the User. Write character card definitions in the 3rd person ONLY!
+• Don't use '**You**' to address the AI or the User. You should build character card definitions in the 3rd person ONLY!
 
 !!! note
-	**Tip:** I strongly recommend you avoid using {{char}} macros inside your instructions, or the whole narrative will be centered around a single character; they will appear out of nowhere and {{user}} will not be able to leave {{char}} behind. Furthermore, some cards are settings, not characters.
+	**Tip:** I recommend not relying too much on {{char}} macros in your instructions. Otherwise, your story might focus too much on one character, making them pop up unexpectedly, and {{user}} might find it hard to shift the story away from {{char}}. Also, keep in mind that some cards are settings, not characters.
 	
-	You should use {{char}} only in card definitions and only if you are not sure about your character's name.
+	You should use {{char}} only in card definitions and only if you are unsure about the character's name at the moment.
 #
 - - -
 ### Resources
 ##### Visual Studio Code
-I'd recommend you to [Download Visual Studio Code](https://code.visualstudio.com/download) for card and prompt editing and select the Markdown language on new text file creation. It's just a convenient text editor for me, but you can use whatever else you want, like Wordpad, Word, Obsidian, or just edit straight in SillyTavern.
+I recommend downloading [Visual Studio Code](https://code.visualstudio.com/download) for editing your character cards and prompts. When creating a new text file, simply select 'Markdown' as the language for optimal formatting. Visual Studio Code is a handy editor that I personally find convenient. However, feel free to choose any other text editor you're comfortable with – be it Wordpad, Microsoft Word, Obsidian, or even editing directly within SillyTavern.
 
-Don't forget to enable `Word Wrap`:
+Make sure to enable `Word Wrap`:
 View > Word Wrap (or press `Alt+Z`)
 
 ##### Example Characters Made with JED
@@ -80,17 +80,15 @@ View > Word Wrap (or press `Alt+Z`)
 ### Creating Initial Message
 `60-150 words recommended. 200 is the limit!`
 
-The one who downloaded your card and met with %IndianRed%3+ chunky paragraphs and a long exposition%% will just close and never chat with the character again. The worst exaple I've stumbled upon had over 350 words for exposition only.
+Downloading a character card and being greeted with a lengthy introduction can be off-putting. I've seen some with over 350 words of just exposition. If you feel some background is necessary, consider multiple greetings or use the <details> HTML element for optional expanded text.
 
-If you think some exposition is necessary, consider making several greetings for your character or using <details> HTML element to hide it behind a dropdown text (you will see how it looks in the following examples).
+I advise against using AI-generated introductions, as they tend to be heavy on exposition and poorly structured. Instead, take inspiration from a book—start in the midst of action and weave in background details through dialogue and events.
 
-I don't recomend you using an AI generated initial message because the AI will fill the message with exposition and create a bad structure. I recommend you open a book in the middle of some scene and copy the style you will see, throwing the reader in the middle of the action right away. Provide exposition sparingly with dialogs and actions.
+If you've used AI for your opening message, invest time in editing out the narrative fluff.
 
-If you've generated the initial message with AI, take your time and trim out any authorial commentary and exposition.
+Ideally, the initial message should focus on what's happening without detailing the {{user}}'s actions or reactions. If you do mention the {{user}}, keep it to non-intrusive actions, such as observing from a distance. I suggest writing from the {{char}}'s point of view rather than the {{user}}'s.
 
-Ideally, the initial message must leave out {{user}} completely to make AI describe only what is happening, not {{user}}'s actions and reactions, but you can still include {{user}}'s actions if they are not invasive, like {{user}} just standing and watching action. Still, I'd advise you to make an intro from {{char}}'s POV, not {{user}}'s POV.
-
-1st person perspective is great, but it can get tricky if you want to leave the character and interact with another one.
+Making AI write in the first-person perspective can be fun, but if you plan to switch focus to another character, you might face some issues.
 
 ##### The Worst Initial Message Example:
 - - -
@@ -135,14 +133,14 @@ Ideally, the initial message must leave out {{user}} completely to make AI descr
 - - -
 ### Character Card Writing Style
 `Ideal card size: ~800–1800`
-Remember, you are not writing a story in the character definitions! You are explaining the AI how to handle this character and providing context for the scenario, so avoid any prose and strip it to facts, explanations, and directions only. There is no point in trying to establish a writing style here; save it for the initial message. Don't try planning the story ahead too much or explaining the world in detail. Ideally, you should fit the whole card into ~800–1800 tokens. If you got more, it's likely you've used a prose style or included too much unnecessary information.
+Remember, you are not crafting a narrative with the character definitions. Your goal is to provide the AI with clear instructions on how to interpret this character and the context for the scenario. Keep your descriptions to the facts, explanations, and directions only. Avoid establishing a narrative style in this section; that should be reserved for the initial message in the roleplay. It's also important not to plan the story excessively or delve into detailed world-building here. Ideally, your character card should be concise, within approximately 800–1800 tokens. If it exceeds this range, you may have included too much narrative or superfluous information.
 
 #
 - - -
 ###  "JED" (Just Enough Definitions. Character Sheet)
 
 ##### Empty Card Template (Character Sheet)
-(~400 Tokens. You don't need to fill in every single detail and can delete the parts you don't need.)
+(~400 Tokens. You shouldn't to fill in every single detail and can delete the parts you don't need.)
 ```markdown
 (NOTE: Delete all () notes. Keep all the [] notes. Erase the parts you don't need.)
 
@@ -286,7 +284,8 @@ A thought about {something}:
 ##### Empty Template for a Scenario Memo (Optional)
 (Character > Advanced definitions > Character Note)
 
-Use this ONLY to remind AI the things that will not change throughout the scenario, establish how the character should react to certain things, or to remind the AI the key principles of the scenario. Sometimes the AI tends to forget that a character, for example, shouldn't be affectionate with {{user}}. In other words put here the stuff the AI keeps forgetting.
+Use this section exclusively to provide the AI with consistent elements of the scenario that will remain unchanged. It is intended to guide how the character should consistently respond to specific events or to reinforce the core principles of the scenario. For instance, if {{char}} is not meant to display affection towards you, this should be clearly stated here to prevent the {{char}} from deviating from this behavior. In essence, detail any elements that the AI tends to overlook or forget.
+
 ```Markdown
 <scenario memo> (Optional. Put this into 'Advanced Definitions' > 'Character's Note' depth@4)
 
@@ -380,7 +379,7 @@ HH:MM, July the 1st, Sunday, I: 28℃ O: 34℃, Clear Sky
 **Cons:** Writing skills required. Too much unnecessary words (because peope ofter write prose here). The AI will inherit prose and words you mention here.
 **Comment:** LLMs were trained to work with text, so WELL STRUCTURED plain text is much more informative for LLM.
 
-**Description:** This format might require some writing skills from you. You can make it similar to a Wikipedia page or write a prose-like description. Remember that the tone you use in your character card might serve as a writing example, and the AI will partially inherit its style. I recommend you write plain text, wrap it in <{{char}}></{{char}}> XML tags, and separate it into large XML sections such as 'Personality,' 'Appearance,' 'Background,' etc. Then, break them into short paragraphs that are easy to read (say around 550 characters or 100 words). In other words, write as a good writer would. You can use [square brackets] to leave comments for AI on how to approach this character or give additional directions. Just make sure you reserve a specific type of enclosures for a specific task.
+**Description:** This format might require some writing skills from you. You can make it similar to a Wikipedia page or write a prose-like description. Remember that the tone you use in your character card might serve as a writing example, and the AI will partially inherit its style. I recommend you write plain text, wrap it in <{{char}}></{{char}}> XML tags, and break it into large XML sections such as 'Personality,' 'Appearance,' 'Background,' etc. Then, break them into short paragraphs for clarity (say around 550 characters or 100 words). In other words, write a good structure. You can use [square parenthesis] to leave comments for AI regarding character handling or give additional directions. Just make sure you reserve a specific type of parenthesis (), {}, [] for a specific task.
 
 **Plain Text Structure:**
 
@@ -423,7 +422,7 @@ HH:MM, July the 1st, Sunday, I: 28℃ O: 34℃, Clear Sky
 !!! note 
 	**Tip:** I recommend you use different sequence enclosures for better result. Remember, you are EXPLAINING the AI how to handle the character! Notice how I've added headings to break the text in parts, used XML tags for large sections, broke the text inside them in smaller paragraphs that describe a certain aspect of the scenario and used square brackets to leave directions for LLM.
 	
-	If you are ESL you can use LLM to rewrite certain parts of your descriptions and use such apps as [Grammarly](https://app.grammarly.com/) to fix your writing and [QuillBot](https://quillbot.com/) for rephrasing. You can search for premium accounts (~1$/3 Months) on plati.market or something if you are a [poor slavic guy](https://www.youtube.com/watch?v=wGMDcMT2oho) from Eastern Europe.
+	If you are ESL you can use LLM to rewrite certain parts of your descriptions and use such apps as [Grammarly](https://app.grammarly.com/) to fix your writing and [QuillBot](https://quillbot.com/) for rephrasing. You can search for premium accounts (~1$/3 Months) on plati.market or something if you are a [poor slav guy](https://www.youtube.com/watch?v=wGMDcMT2oho) from Eastern Europe.
 
 !!! info
 	❓
@@ -469,7 +468,7 @@ In this approach, you put words into the AI's mouth. You can ask questions like 
 ###  Using AI to Expand/Fix definitions.
 
 ##### Expanding definitions
-If you want to expand some aspect of your character but your head is empty, you always can ask the AI to give you some ideas. Here are a few prompts to give you an idea how to approach it.
+If you want to expand some aspect of your character but you don't know where to start, you can always ask the AI to give you some ideas. Here are a few prompts to give you an idea how this could be done.
 
 **Example Prompt:**
 ```markdown
@@ -498,6 +497,6 @@ Text to revise:
 
 Reply in two steps.
 
-Step 1: Provide me with an analysis on the potential ESL markings in the text I provided.
-Step 2: Revise the text applying the analysis.
+Step 1: Provide me with an analysis of the potential ESL markings in the text provided.
+Step 2: Revise the text by applying the analysis.
 ```

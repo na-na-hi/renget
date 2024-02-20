@@ -2,16 +2,36 @@
 -> ![]() <-
 
 !!! note `>>99083763`
-!!! info TBDESU
+!!! info A handy list of Maids. New cards will be added on top. Goal of this list is to promote interesting and fun cards, so you will find a mix of popular and niche cards here. If you want your bot to be here, feel free to send me a message!
 
 Main tag hub: https://rentry.org/aicgtaghub
+Contact: taghubanon@proton.me
 
 ####Female
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
-**Name** | ![Name](link here) | Description | [CHUB](link here)
+**Personal Maid Emiyo** | ![Personal Maid Emiyo](https://files.catbox.moe/5useaw.png) | A sole dutiful maid taking care of a... troublesome... Young Master, who has lost their parents. | [CHUB](https://www.chub.ai/characters/dungeonsalami/personal-maid-emiyo)
+**MaidoDism - Setting** | ![MaidoDism - Setting](https://files.catbox.moe/7utwbe.png) | This is a setting where you're the master of a huge mansion inside a pocket dimension, filled with hundreds of maids of all colors and species, all wishing only to serve you! Visit the gaming arcade, the movie theater, the sex dungeon or just stay in bed all day while your adoring maids take care of all of your needs! | [CHUB](https://www.chub.ai/characters/anonaugusproductions/maidodism-setting)
+**Madalene and Melissa** | ![Madalene and Melissa](https://files.catbox.moe/p41o2j.png) | A shy mother and her energetic daughter started to work as maids in your mansion. | [CHUB](https://www.chub.ai/characters/Nono/madalene-and-melissa-2ad767f0)
+**Mariel** | ![Mariel](https://files.catbox.moe/wdc55t.png) | A dutiful maid in public, but behind closed doors, she reveals her true nature as a sadistic disciplinarian who takes pleasure in dominating her charge, you. | [CHUB](https://www.chub.ai/characters/qwerty213/mariel-c7339e31)
+**Victoria** | ![Victoria](https://files.catbox.moe/vcyfdr.png) | Retro-futuristic Victorian-era steampunk maid. In this alternative steampunk timeline, maids are also trained to be efficient soldiers as well as do usual maid duties. Victoria is one such maid, but has retired. She has mechanical limbs and owns a small cute bakery. | [CHUB](https://www.chub.ai/characters/playalundra/victoria-0afc7d0e)
+**Aria** | ![Aria](https://files.catbox.moe/yod221.png) | A shy 33 year-old maid who was hired by you and has grown to love you in a one-sided unrequited love. Is convinced that you don't like them that way in return. | [CHUB](https://www.chub.ai/characters/vidicus/Aria)
+**The Muses** | ![The Muses](https://files.catbox.moe/ihfy8c.png) | A mansion full of beautiful, strong maids. | [CHUB](https://www.chub.ai/characters/slopass/the-muses-2c9f05e4)
+**Adelaide** | ![Adelaide](https://files.catbox.moe/1tiay9.png) | A young eccentric albino heiress who pretends she's a Victorian maid. | [CHUB](https://www.chub.ai/characters/celebrimbor/adelaide-4df012d2)
+**Sadie** | ![Sadie](https://files.catbox.moe/530vjq.png) | Sadie is your personal tall maid who helps you around house, cleaning, cooking, and generally taking care of things. She tries to keep her composure to be as professional as possible and won't really fight back if you need... Something from her. 3 starters for different times of day. | [CHUB](https://www.chub.ai/characters/playalundra/sadie-cffe94e0)
+**Rose** | ![Rose](https://files.catbox.moe/z5ef3r.png) | 44 years old aunt fell into debts and became your father's maid to help her pay it off. She must listen to all of your commands. She is also a virgin, because of a bad relationship experience, she conditioned herself to think that her only redeeming factor is her body and that no one would ever think that she was worth loving even though she has sweet and lovely personality. | [CHUB](https://www.chub.ai/characters/lurkinginpines/rose-c703ef1f)
+**Ram** | ![Ram](https://files.catbox.moe/6pipt5.png) | Your first day working as a butler at Roswaal Manor with Ram. | [CHUB](https://www.chub.ai/characters/pitanon/Ram)
+**Lia** | ![Lia](https://files.catbox.moe/688k58.png) | Lia is a very proper, polite, and reserved maid. At least on the outside. Inside she's a chaotic horny mess. | [CHUB](https://www.chub.ai/characters/boner/Lia)
+**Lilith** | ![Lilith](https://files.catbox.moe/46mvzu.png) | The main female protagonist of the "The Maid I Hired Recently Is Mysterious" manga and anime series. | [CHUB](https://www.chub.ai/characters/Merchant/lilith-68bf1ad7)
+**Veronique** | ![Veronique](https://files.catbox.moe/r4ces1.png) | Your whimsical and enchanting Victorian maid. This maid is bursting with mischief and affection for her master. | [CHUB](https://www.chub.ai/characters/Ingloo/veronique-41b3ceeb)
+**Elisabeth** | ![Elisabeth](https://files.catbox.moe/qm55ko.png) | A vampire maid looking for romance and, of course, a reliable food source. | [CHUB](https://www.chub.ai/characters/Tipzanon/elisabeth-5f3cbba7)
+**Sophie** | ![Sophie](https://files.catbox.moe/qab6an.png) | Your french maid, who enjoys whispering naughty things in your ears and watching you squirm. | [CHUB](https://www.chub.ai/characters/whoknows/Sophie)
+**Alice** | ![Alice](https://files.catbox.moe/6yh4ou.png) | Alice is a young maid who pretends to be a sweet and cheerful girl at work, but is a bitch in real life. Her goal is to save enough money to quit her crappy job, move out of her annoying mother's house and live a carefree life. | [CHUB](https://www.chub.ai/characters/Mr.Toster/alice-9e46ecbe)
 
 ####Male
+Honestly, I am surprised they exist at all.
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
-**Name** | ![Name](link here) | Description | [CHUB](link here)
+**Morgan Crypt** | ![Morgan Crypt](https://files.catbox.moe/7jnj2m.png) | You're the master of an odd house and a cute maid. And all he wants to do is take care of you, promise. | [CHUB](https://www.chub.ai/characters/astroturf/morgan-crypt-3a37cd21)
+**Casey** | ![Casey](https://files.catbox.moe/spfsh5.png) | Your femboy best friend dressed up as a maid for your birthday. (Made by @CuteFunnyMonkey) | [CHUB](https://www.chub.ai/characters/thegreatcoom/Casey)
+**Vince** | ![Vince](https://files.catbox.moe/28gpn1.png) | Your previous boss stands to inherit a lot of money. Just one stipulation: they have to be your live-in maid for one year. | [CHUB](https://www.chub.ai/characters/joystickhero/vince-297c9233)

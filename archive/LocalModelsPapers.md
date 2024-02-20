@@ -572,6 +572,11 @@
 02/2024|[BitDelta: Your Fine-Tune May Only Be Worth One Bit](https://arxiv.org/abs/2402.10193)
 02/2024|[DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2402.09353)
 02/2024|[In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss](https://arxiv.org/abs/2402.10790)
+02/2024|[Aligning Modalities in Vision Large Language Models via Preference Fine-tuning](https://arxiv.org/abs/2402.11411)
+02/2024|[Generation Meets Verification: Accelerating Large Language Model Inference with Smart Parallel Auto-Correct Decoding](https://arxiv.org/abs/2402.11809)
+02/2024|[Relative Preference Optimization: Enhancing LLM Alignment through Contrasting Responses across Identical and Diverse Prompts](https://arxiv.org/abs/2402.10958)
+02/2024|[WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More](https://arxiv.org/abs/2402.12065)
+02/2024|[DB-LLM: Accurate Dual-Binarization for Efficient LLMs](https://arxiv.org/abs/2402.11960)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

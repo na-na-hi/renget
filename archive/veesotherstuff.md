@@ -1,6 +1,8 @@
-!!! info
-	free time = more drawing!!! kiyo has fueled my inspiration
+inspired by [kiyo!](https://rentry.org/kiyoStation)
 
-![my favourite pair NGL](https://i.imgur.com/S5e2edj.png)
-***
-![CHILLER logic](https://i.imgur.com/q9XYXak.png)
+!!!info
+	collection of my sketches of Rain and fanart Ive done for Clover!
+
+![more WIP](https://i.imgur.com/JvBZcnp.png)
+
+![miscellaneous aggie drawings](https://i.imgur.com/SVCu2d1.png)

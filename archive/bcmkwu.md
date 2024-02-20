@@ -1,3 +1,32 @@
+>Russians target AFU boats in Krynky
+https://files.catbox.moe/jpnemg.mp4
+>Rekt Humvee in Avdeevka
+https://files.catbox.moe/cor0tj.mp4
+>Azov receives counter-battery fire
+https://files.catbox.moe/8o1wnd.mp4
+>Lancet destroys Leopard 2A4 near Kurakhovo
+https://files.catbox.moe/1qwg26.mp4
+https://files.catbox.moe/fwon33.MP4
+>AFU boat gets droned
+https://files.catbox.moe/yrlll1.MP4
+>Abandoned NATO ammunition in Avdeevka
+https://files.catbox.moe/bj7kq6.mp4
+>TOS is active in Pobeda
+https://files.catbox.moe/tsofhm.mp4
+>Avdeevka civilians (translated)
+https://files.catbox.moe/jn578y.mp4
+>Drone mine detector
+https://files.catbox.moe/k9c3b6.mp4
+>Ukrainian mom and son trying to go to Russia
+https://files.catbox.moe/mp0ts3.mp4
+>RU paratroopers storm stronghold (Artemovsk)
+https://files.catbox.moe/vxnyi6.mp4
+>More Avdeevka liberation footage
+https://files.catbox.moe/3vfp0m.mp4
+>Fresh POWs
+https://files.catbox.moe/vob1df.mp4
+>Footage from liberated Avdeevka
+https://files.catbox.moe/j2gd64.mp4
 >Drone overlooking the tiktok hohols
 https://files.catbox.moe/r37vl7.mp4
 >Looted armor from Avdeevka

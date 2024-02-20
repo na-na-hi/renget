@@ -697,3 +697,270 @@
 >for some reason his voice was a little hoarse 
 >”well if you weren't gay for that ‘I love you’ stuff, you are now”
 >you stuffed his face in your crotch and he let out a muffled laugh
+
+>eventually, you and Sonic recovered and cleaned up
+>you were relaxed on the rest of your jungle walk
+>with any luck, Tails would have the plane halfway fixed up 
+>something about Sonic you appreciated when you thought about it
+>he kept pace with you
+>for all his running around he brought himself down your level
+>you grasped at his hand as you walked and he laughed but didn't pull away
+>you'd scored a couple of superheroes and they were both into you
+>you could still taste him on your tongue
+>the walk was leisurely and surprisingly quiet
+>Sonic seemed to silently enjoy your company
+>it was a nice little moment that was a breather after all the action
+>Tails was still deep in the engine but he didn't seem troubled with the repairs
+>he kept working even after Sonic smacked him on the ass as a way to announce his presence 
+>he did yelp a little
+>you stashed your stuff in the seat of the plane and asked the mechanic the diagnosis 
+>he was fairly confident 
+>might even be done today
+>he apologized that this would set back that suit idea
+>but you were happy to get back to what you thought was home
+>plus this might help more 
+>Sonic had taken a spot under a palm tree and had closed his eyes
+>you passed Tails a wrench 
+>the rest of the day was relatively chill
+>Tails did a lion's share of the repair work
+>you knew how to change a car tire and that was about the extent of your knowledge 
+>it the plane needed an oil change, great you could do that
+>when you let Tails speak his mechanical jargon the shy fox vanished and was replaced by someone brimming with enthusiasm 
+>you had the feeling he didn't have many opportunities to talk about stuff like this
+>he was smart
+>Sonic had and smirk as he napped against that tree
+>he was most likely awake but resting his eyes
+>Tails was positively beaming with pride when he was satisfied with the repairs
+>it would need more work at the shop but for now it could fly
+>the sunset meant that was something to do tomorrow 
+>the three of you used a blanket on the sand and curled up against the plane for the evening
+>you awoke before dawn
+>both the boys cuddled up to you
+>times like this made this journey worth it
+>all the danger 
+>it got you here
+>you felt warmer with both of them sandwiching you in
+>it was hard to go back to bed after
+>so you just laid there
+>basking in the moment 
+>Sonic actually nuzzled up closer to your chest 
+>he could be affectionate when he wanted to be 
+>it was cute
+>today you'd head back to the shop
+>this was an eye opening trip
+>you'd met humans out here 
+>but realized how much these two meant to you 
+>no matter what happened you'd help them and be a part of their life
+>you hugged them tightly and watched as the soft glow of the sun finally started peaking over the horizon
+>eventually both of them woke up
+>there was groaning as the sun hit their eyes but otherwise everything was relaxed
+>Tails got up and started immediately doing flight checks
+>Sonic stretched and ended up in your lap with his back to you
+>out of reflex you embraced him and he sighed
+>Tails and you were about the only two that saw this side of him
+>when the fox signed off on the plane you picked up Sonic with you like a stuffed animal
+>you released him and took your spot in the plane
+>this time he clung to the support between the wings
+>he insisted he'd come with you all this time just in case
+>you couldn't fault the logic but you wish he wouldn't pick such a dangerous seat
+>”just because I can call you daddy doesn't mean I'm actually a baby”
+>well fine
+>didn't have to put it that way but fine
+>sure enough the engine quickly roared to life and Tails gently taxied the plane around
+>the crash cleared out enough of the jungle to make a path
+>not as smooth as the runway at his shop but it would do in a pinch
+>the fox enjoyed his position in your lap
+>you were going to enjoy that rundown bed at the shop
+>closest place you three could call home
+>then Robotnik was getting dealt with
+>when you finally took off you saw something on the horizon and cursed under your breath 
+>speak of the devil
+>the size of the airship was daunting 
+>you couldn't believe it
+>something that large was airborne and you were heading right for it
+>the workshop had been forgotten 
+>Tails and Sonic must have made up their mind and honestly you couldn't blame them
+>between the outpost, the bomb and the robot rampage, Station Square must be on the guy's shitlist
+>that was your best guess
+>if he leveled the city and you could stop it, you should
+>Tails approached the ship low, probably to avoid the sensors
+>you had no idea what they planned when they'd get there
+>the sea water under you and that metal leviathan above you
+>no one really said much
+>they were no doubt as nervous as you
+>Tails looked over to the hedgehog and they nodded to each other
+>you braced for what they planned
+>with little warning the plane banked straight up
+>if it was any other pilot, any other plane, you'd be worried
+>a straight ascent carried you above the deck of the ship
+>that split second gave Tails the time to cruise low over the deck before the guns started tracking the aircraft
+>Sonic leapt forward off the wing and didn't lose momentum as he went sprinting off to the AA guns
+>meanwhile the Tornado looped back under the ship
+>this whole thing was surreal 
+>minutes ago you three were napping together and this Robotnik decided to attack without warning
+>you were worried about the hedgehog fighting alone on the deck and Tails had to be too
+>despite the obscene amount of guns on that deck he pulled up and over it again
+>he was using the plane as bait while Sonic hammered at the defenses
+>the guns had to split their attention
+>Tails would appear and vanish at different angles 
+>the automated defenses were overwhelmed trying to keep up
+>occasionally you'd call out a gun that was getting clever and he'd make note of it
+>it was a blinding display of speed from both of them
+>Sonic was moving so fast you could see an afterimage 
+>while you felt safe, it just reinforced your desire to protect them
+>yesterday he was gagging on your cock
+>here he was dismantling the deck guns
+>the danger was preventing the fox in your lap from getting you hard
+>you trusted him to fly circles around the giant ship
+>all the while Sonic kept destroying parts of the ship
+>watching both of them in action was amazing
+>if you three got out of this intact you'd fuck both of them silly for this
+>you kissed Tails on the head and said he was doing great 
+>you hoped he'd heard it over the plane
+>he was a man on a mission though, nimbly dancing the plane between streams of gunfire
+>eventually, after Sonic destroyed anything and everything on the deck, Tails did one final pass 
+>the deck was going to be a landing pad
+>the landing was a lot easier on the Tornado than the jungle
+>when the plane finally stopped, Sonic rushed over and leaned against the plane
+>he played off his momentary exhaustion by folding his arms and propping his foot against the plane
+>when you hopped out, you kissed his head too 
+>they were amazing and you were at least glad you had a front row seat to their heroics
+>unfortunately that's as far as it seemed to go
+>”we need to go in, I need you to stay with the plane.”
+>you almost protested Sonic's suggestion
+>but he'd be stubborn 
+>you looked to Tails but it was 2v1
+>”he's right,” Tails replied
+>however Tails then added, no doubt to lessen any perceived insult
+>”we need our escape route secure if the ship goes down.”
+>Sonic nodded at that
+>you knew they were just trying to protect you
+>so you didn't waste time
+>one day you'd be able to protect them back
+>you told them to come back safe
+>you'd protect the plane
+>the you'd pound the hell out of them after they save the world
+>at least you had no problem with that being a role you had
+>watching them head off you felt pride
+>you knew they'd do it
+>the wait was worrying
+>you'd seen them fight
+>you knew they were capable 
+>didn't stop you from worrying a little
+>you needed to keep yourself busy 
+>you kept yourself busy by checking the status of the plane
+>you had no idea what you were doing but it helped to distract your mind
+>you heard explosions below deck and that made you shoot up
+>they died down as quickly as they started
+>your eyes scanned the deck, hoping for movement from your boys
+>still no sign
+>this was nerve-wracking 
+>but you tried to busy yourself again
+>occasionally you'd hear a siren or some other sign of life below deck
+>at least that was a positive sign in your mind
+>they were causing a ruckus down there
+>you checked the time on your phone
+>they'd been down there for about 20 minutes 
+>the urge to go down there was too strong
+>you slowly went over to the entrance and just when you started to go down they burst out of the doorway
+>Amy was in tow
+>well you didn't question things
+>speaking of, Sonic shoved a bunch of massive gems into your hands
+>you ran after them when you heard more explosions below deck and started seeing them appearing across the hull
+>the plane was warmed up enough to start immediately 
+>Amy had hopped into the same seat as Tails and you were confused 
+>Sonic directed you to toss the gems into the cockpit and he grabbed you and you both held onto the wing
+>this was insane
+>wind whipped through your hair as you ascended
+>the airship was crashing into the island
+>the dogfight had used the majority of the fuel left in the plane and Tails would have the land back on the island
+>but it would be easier than the last time
+>he found a stretch of beach that was perfect
+>Sonic clung hard to your waist as you held onto the wing support
+>you were never in a hurry to repeat this but the hedgehog was a comfort and you couldn't ask for a better pilot 
+>the airship was ruined
+>and you were back on land
+>you had no idea what was with those gems
+>but they seemed important 
+>when you landed you had to ask how I went
+>”well, Robotnik started off the conversation by asking what I was wearing. pretty rude.”
+>well maybe a bikini bottom on a twink with a nice ass was a little distracting
+>but you weren't saying that out loud with Amy around
+>he continued 
+>the scientist had kidnapped Amy and had several chaos emeralds
+>4 of the 7 total to be exact
+>you asked about that and he explained they were a power source
+>even worked on him
+>that made you raise an eyebrow
+>”it's only an emergency thing. I've done it a couple times.”
+>well that had to be a sight
+>you set him down on the sand and reveled in being back on land
+>it wasn't exactly the workshop again but that airship had to be it for Robotnik right?
+>you had to ask about that
+>where was the mad scientist 
+>”we busted up his ship and he decided to dip”
+>well you figured it wouldn't be that easy
+>Tails was finished checking out the plane and Amy was staring off into the ocean
+>you had to ask her what she was doing on the ship
+>the other two guys had lost their fear of her thanks to you
+>maybe
+>you didn't want to give yourself too much credit
+>she spoke up eventually
+>”I got kidnapped… again”
+>you sat next to her on the beach
+>you could tell she was sort of humiliated 
+>it couldn't be easy feeling like that
+>hell you felt like that all the time
+>you had seen her in action
+>there was no shame 
+>you brought up that she's doing what she can and that's all obe could do
+>at least she can say she was fighting
+>she did something
+>so she should be proud she had some effect
+>you asked if she wanted a help salvage that airship
+>normally it would be a thing between the guys but why not get more hands to help?
+>plus the company would be nice
+>she mulled it over
+>the agreed
+>Sonic might have balked at the idea but he kept it to himself 
+>you were apparently in charge of protecting the chaos emeralds 
+>with any hope you could salvage the fuel and more parts off the ship
+>best case scenario you could find out more of Robotnik's plans
+>that slime creature hadn't been seen in a while
+>you leaned over to Sonic and told him you'd make it up to him for the Amy thing
+>that put him at ease
+>the search went pretty well
+>sure enough, no mad scientist to be seen
+>Tails would pour through his computer and you asked Amy to watch his back
+>you wanted her to feel useful, having been in her position 
+>she agreed and Tails went to work on the servers that were sort of intact 
+>Sonic volunteered to grab scrap and fuel
+>and tugged you by the back of your shirt
+>you left the emeralds with them in case you needed your hands free
+>which you figured would happen soon
+>you didn't expect it to be the second you were out of earshot
+>Sonic pulled you down to kiss him when you two found a private corner
+>”I'm cashing in that ‘I'll make it up to you’”
+>but you had company right there
+>”I don't know if Amy would be down for watching you fuck me. kinky thought though.”
+>that wasn't the point, goddamn
+>he actually giggled when you picked him up
+>it was easy to manhandle him
+>just something that came naturally to him
+>his ass felt nice in your grip again
+>he'd saved the day from the villain and this was his reward
+>his legs locked behind you 
+>God he was such a bottom
+>you ran your fingers along his back, your fingertips gliding through his short blue fur 
+>the hedgehog clung to your body and you braced yourself against a wall
+>”well, we should get to looking for fuel.”
+>you were a little shocked but went to set him down
+>”woah, who said anything about splitting up?”
+>his arms wrapped around your neck and he pressed his face to your chest
+>”there's strength in numbers,” he murmured, “so I'll just stay here.”
+>he wasn't heavy or anything so you didn't argue
+>plus you'd picked him up so you sort of put yourself in this position 
+>your life had become strange and at this point it didn't even register 
+>you started looking through the airship while your boyfriend clung to you with all the tenacity of a stubborn cat
+>one hand on his ass held him up and allowed you to use the other
+>your search at least wasn't dull

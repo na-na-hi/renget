@@ -1,11 +1,10 @@
-# Smelly Recommendations
+# Savior Recommendations
 -> ![]() <-
 
-!!! note `>>99083681, >>99083753`
-!!! info A smelly list of girlstink. New cards will be added on top. Goal of this list is to promote interesting and fun cards, so you will find a mix of popular and niche cards here. If you want your bot to be here, feel free to send me a message!
+!!! note `mailed`
+!!! info TBDESU
 
 Main tag hub: https://rentry.org/aicgtaghub
-Contact: taghubanon@proton.me
 
 ####Female
 Character  |  Preview  |  Description  |  Links

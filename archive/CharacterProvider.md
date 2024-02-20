@@ -102,57 +102,27 @@ Page | Description
 ##Info Section
 `Use the Quick Start above to skip this section`
 
-> **Important notice:** If you're new around here, I recommend you ask other anons for my modified prompts before using "clear" ones. My prompts are experimental. The best practice is to search for the prompts of various people and make your own. Most people who enjoy my (or any other prompts) use the premade prompts as a base. You still need a good character card thogh.
+> **Important notice:** If you're new around here, I recommend you ask other anons for my modified prompts before using the ones from this page. My AP prompts are experimental. The best practice is to search for the prompts of various people and make your own. Most people who enjoy my (or any other prompts) use premade prompts as a base. You still need a good character card though.
 
-##### Will You Enjoy These Prompts?
+##### Will You Enjoy My Prompts?
 
-!!! I recommend you use these prompts as universal prompts for ADVENTURES. They heavily affect the output. You will get a decent result on any card, but if you want the best output, I'd advice you make your own card with good definitions, minimize the JB, and create the initial message that would jumpstart the roleplay from the start. I will be updating my [botmaker guide](https://rentry.co/CharacterProvider-GuideToBotmaking) so stay tuned. I've created a [template](https://rentry.org/CharacterProvider-CharTemplate) for character cards, but I will combine these two pages later.
+Claude prompts that have 'AP' in their names are very intrusive. Use them only if you want silly adventures similar to AI Dungeon. New characters will pop up often and scenes will be added on new location entry. APs for GPT are less intrusive.
 
-!!! danger
-	Themes my prompts are not intended for:
-	\- Suic\*de
-	\- Gore
-	\- Political and war scenarios
-	\- Characters with overcomplicated personalities
+**Themes my prompts are not intended for:**
+\- Suic\*de
+\- Gore
+\- Political and war scenarios
+\- Characters with overcomplicated personalities
 
-If you like silly and ecchi adventures, then - yes. If you want a complex and serious narrative, you should modify my prompts or use another one. Anyway, you will find a lot of useful stuff on this page.
+If you like silly and ecchi adventures, you may find them fun.
 
-The responses with these prompts are not CAI-like; they are more like the interactive novel ones or movie script-like.
-
-Instructions that I commonly include into my prompts:
-- Environments descriptions.
-- Introduction of supporting characters.
-- Maintainment of character integrity.
-- Showcases of character abilities frequently.
-- Introduction of interactive objects and props.
-- Introduction of events. (not always)
-- Usage of characters' inventories.
-- Descriptions of interactions/objects/labels.
-- User-centered narration.
-- Additions of silliness, sarcasm, and wittiness. (not always)
-- Longer novel-like responses (not always)
-- ~~Inclusion of telepathic squirrels for comic relief.~~
-
-######
-- - -
-##### About Prompts and Versions
-• Mostly, Claude prompts are variations of the same prompt. They all serve the same purpose: Increase characterization, show a lively RPG world, and add ecchi.
-• Group chats and setting cards may not work with my prompts.
-• Claude Prompts are intended for 100k models.
-• GPT Prompts are made for 8k-32k models.
-• All my prompts are intended for ecchi and rpg-like adventures.
-• Each new X.0 version is not (each time) a better version but has significant changes in structure and contents. It just provides a different output. Each X.X version has slight improvements/changes/fixes.
-• If a version uses `Prefill` or `jailbreak,` the Assistant will likely ignore OOC requests. (You can temporarily erase it to perform an OOC request.)
-• Not intended for hardcore stuff.
-
-> **Comment on typos:** Sometimes I leave orthographic mistakes. If they are major - I fix them and reupload them. If they are not significant - I will fix them in the next versions because using the text editor, putting it in .zip, uploading to catbox, and changing rentry is an 'ugh' action chain. Also, I am sorry for some design inconsistencies; this entry is constantly evolving.
 ######
 - - -
 ##### Which Model Should You Choose for RP?
 !!! info
-	**GPT4 32K (Any version) / Claude (Any version) / GPT4 8K > GPT4-Turbo > Claude 1.2 > Claude instant / GPT3.5-Turbo**
+	**GPT4 32K (Any version) / Claude (2.1 > 2 > 1.3(dumber)) > GPT4-Turbo > Claude 1.2 / GPT4 8K > Claude instant / GPT3.5-Turbo > Gemini 1.0**
 
-**%orange%I strongly recommend you use GPT 32K instead of 4urbo. 32k is better for RP. 4urbo is great for tasks but generates too much 'water'.%%**
+**%orange%I recommend using GPT 32K instead of 4urbo. 32k is better for RP. 4urbo is great for tasks but generates too much 'water'.%%**
 
 **Gregory Kamradt, ‘Pressure testing Claude-2.1 200K via Needle-in-a-Haystack’, November 2023:**\*
 
@@ -435,41 +405,41 @@ Recommended ones are marked with a %yellow%★ star%%, experimental ones with a 
 > **Recommendation:** I understand that the 12+ versions of the Claude prompt can be confusing, so my suggestion is to use either version 10.1 (which focuses on inventiveness and interesting events), version 12 (which has more inventiveness and fewer events) or version 6.7 (no events).
 Date | Update | Description | -> Preset <- | -> Prompts <-
  |  |  |  |
-02.09.2023 |  %yellow%★%%[V12 RUM BABA](https://rentry.org/CharacterProvider-V12-RUM-BABA) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.  | -> [⬇️ Download](https://files.catbox.moe/396450.zip) <- | -> [📑 Details](https://rentry.org/CharacterProvider-V12-RUM-BABA) <-
+02.09.2023 |  %yellow%★%%[AP V12 RUM BABA](https://rentry.org/CharacterProvider-V12-RUM-BABA) | **Note:** Changed structure a bit, added headings. Changed instructions to be more 'positive' avoiding 'negative words' like 'no', 'avoid', 'exclude', etc, where it is possible. Modified prefill and rules. Added short JBs and sub-JBs instead of sex/violence/death rules. Testing if it works better. Added README file in archive and prompt for you. AI tends to be more inventive with actions.  | -> [⬇️ Download](https://files.catbox.moe/396450.zip) <- | -> [📑 Details](https://rentry.org/CharacterProvider-V12-RUM-BABA) <-
  |  | **Features:** This prompt tends to be more inventive with actions than versions below this one. But it looses some of immersiveness and enviro descriptions.
-30.08.2023 |  ♼[V11 JAFFA](CharacterProvider-Graveyard#v11-jaffa) | **Note:** Variates assistant's reply start (IDK if it's usefull).
+30.08.2023 |  ♼[AP V11 JAFFA](CharacterProvider-Graveyard#v11-jaffa) | **Note:** Variates assistant's reply start (IDK if it's usefull).
  |  | **Features:** This prompt is has similar output as v10/v10.1 but makes AI to start with a participle.
 23.08.2023 |  %yellow%★%%[V10.1 FAWORKI](https://rentry.org/CharacterProvider-V10-1-FAWORKI) | **Note:** Fixed a few mistakes. Modified prefill a bit by adding "If faced with a problem I will find an inventive solution." plus a few more minor updates. Immersion improved, characters and plots are more inventive. | -> [⬇️ Download](https://files.catbox.moe/36vjl2.zip) <- | -> [📑 Details](https://rentry.org/CharacterProvider-V10-1-FAWORKI) <-
- |  | **Features:** I **HIGHLY RECOMMEND** this (and previous) one too. Slight changes from v10, similar output.
-16.08.2023 |  ♼[V10 FAWORKI](#v10-faworki) | **Note:** Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
- |  | **Features:** I **HIGHLY RECOMMEND** this one, it makes great scenes when you enter a location, but tends to loop enviro descriptions, so delete it if needed. It is a slight improvement of v9 but with modules.
+ |  | **Features:** I **RECOMMEND** this (and previous) one too. Slight changes from v10, similar output.
+16.08.2023 |  ♼[AP V10 FAWORKI](#v10-faworki) | **Note:** Created a Preset and Prompts files for you. Now you can modify your RP to include: Character deaths, enhanced violence/sex, flirty hearts, etc. You can choose rating PG-13 or unrestricted NSFW. Your characters now wrapped in <{{char}}> tags automatically!
+ |  | **Features:** I **RECOMMEND** this one, it makes great scenes when you enter a location, but tends to loop enviro descriptions, so delete it if needed. It is a slight improvement of v9 but with modules.
 11.08.2023 | %orange%⚑%% [ONLINE TEXTING](CharacterProvider-Graveyard#online-texting) | **Note:** Modifies output like you are texting with {{char}} in messenger chat 
  |  | **Features:** For chatting via messenger with your chars.
-11.08.2023 | %yellow%★%%[V9 NUTMIX (6.7+7+8)](#v9-nutmix) | **Note:** A mix of 6.7+7+8
+11.08.2023 | %yellow%★%%[AP V9 NUTMIX (6.7+7+8)](#v9-nutmix) | **Note:** A mix of 6.7+7+8
  |  | **Features:** A mix of the best prompts. [Versions that where preferred by the people I know]
-09.08.2023 | %yellow%★%%[V8 KARPATKA](#v8-karpatka) | **Note:** Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
+09.08.2023 | %yellow%★%%[AP V8 KARPATKA](#v8-karpatka) | **Note:** Making the RP world focused around {{user}}'s actions. Using prefill for gaslight only, adding modifiable instruction
  |  | **Features:** Similar output to previous versions, but AI keep narration around user.
-07.08.2023 | ♼[V7.4 CHEESECAKE](CharacterProvider-Graveyard#v74-cheescake) | **Note:** Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!"
+07.08.2023 | ♼[AP V7.4 CHEESECAKE](CharacterProvider-Graveyard#v74-cheescake) | **Note:** Stabilized the prompt, cut some bullshit, added verbose and elaborated action (sexual scenes too). Changed structure a bit. Testing if <prohibited> fix the fucking "door problem". Trying to make Claude not ping back with "I COMPLETED MY TASK! PLEASE GIVE FEEDBACK!"
  |  | **Features:** Don't recommend this one. It was a desperate attempt to fight with DOORS!
-06.08.2023 | ♼[V7.3 CHEESECAKE](CharacterProvider-Graveyard#v73-cheesecake) | **Note:** Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively.
+06.08.2023 | ♼[AP V7.3 CHEESECAKE](CharacterProvider-Graveyard#v73-cheesecake) | **Note:** Testing what will happen if ask Assistant to make side plots, bring up interesting props and add world building. Testing out "Become a perfect and realistic imitation of {{char}}" and some minor fixes. Deleted text highlighting - Claude messes it up progressively.
  |  | **Features:** Slight improvements of v7.
-06.08.2023 | ♼[V7.2 CHEESECAKE](CharacterProvider-Graveyard#v72-cheesecake) | **Note:** Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill.
+06.08.2023 | ♼[AP V7.2 CHEESECAKE](CharacterProvider-Graveyard#v72-cheesecake) | **Note:** Randomization is the same, renamed IDs and made prompts more clear and short. Included "Transformation" into {{char}} instead of "taking their role" or "writing as" and added "Information extraction" from #char-info with "result of transformation" instead of "here is my reply" in the end of prefill.
  |  | **Features:** Slight improvements of v7.
-05.08.2023 | ♼[V7.1 CHEESECAKE](CharacterProvider-Graveyard#v71-cheesecake) | **Note:** This update is about randomization! Added some recommendations for card formatting, response length in now randomized, random non-specific events added.
+05.08.2023 | ♼[AP V7.1 CHEESECAKE](CharacterProvider-Graveyard#v71-cheesecake) | **Note:** This update is about randomization! Added some recommendations for card formatting, response length in now randomized, random non-specific events added.
  |  | **Features:** Similar to v7 with randomization. [Don't recommend]
-05.08.2023 | %yellow%★%%[V7 CHEESECAKE](#v7-cheesecake) | **Note:** New structure, less tokens, yara, yara...
+05.08.2023 | %yellow%★%%[AP V7 CHEESECAKE](#v7-cheesecake) | **Note:** New structure, less tokens, yara, yara...
  |  | **Features:** Improved previous prompt, better structure.
-02.08.2023 | %yellow%★%%[V6.9 CHESTNUT](#v69-chestnut) | **Note:** Deleted <response length>, defied response length inside the JB. Works just fine!
+02.08.2023 | %yellow%★%%[AP V6.9 CHESTNUT](#v69-chestnut) | **Note:** Deleted <response length>, defied response length inside the JB. Works just fine!
  |  | **Features:** Slightly improves output compared to 6.7, but has THE rule work.
-02.08.2023 | ♼[V6.8 CHESTNUT](CharacterProvider-Graveyard#v68-chestnut) | **Note:** Tried adding <response length>, doesn't work as intended
+02.08.2023 | ♼[AP V6.8 CHESTNUT](CharacterProvider-Graveyard#v68-chestnut) | **Note:** Tried adding <response length>, doesn't work as intended
  |  | **Features:** Don't recommend this one. Similar output to 6.7, but has a rule that doesn't work.
 02.08.2023 | %yellow%★%%[V6.7 CHESTNUT](#v67-chestnut) | **Note:** Completely new structure: Fine tune + RP declaration with rules in AN + pseudo-thinking JB. RPG-like key words highlighting!
  |  | **Features:** Improved v6. Still tends to write A LOT! higlights some words, but AI starts to overuse it. Cool feature tho.
-01.08.2023 | %yellow%★%%[V6 STABLE](#v6-stable) | **Note:** Experiments starting point...
+01.08.2023 | %yellow%★%%[AP V6 STABLE](#v6-stable) | **Note:** Experiments starting point...
  |  | **Features:** This is where I started experimenting with events, NPCs and enviro. Writes A LOT.
-21.07.2023 | ♼[V4 NAPOLEON](CharacterProvider-Graveyard#v4-napoleon) | **Note:** Made it even more compact...
+21.07.2023 | ♼[AP V4 NAPOLEON](CharacterProvider-Graveyard#v4-napoleon) | **Note:** Made it even more compact...
  |  | **Features:** Provides ~average result
-17.07.2023 | ♼[V3 HONEYPIE](CharacterProvider-Graveyard#v3-honeypie) | **Note:** Tried a compact XML - works fine...
+17.07.2023 | ♼[AP V3 HONEYPIE](CharacterProvider-Graveyard#v3-honeypie) | **Note:** Tried a compact XML - works fine...
  |  | **Features:** Provides ~average result
 
 
