@@ -443,9 +443,19 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writefag:
+>New Writefags:
+>Quirk Wisdom (Desolator)
+https://rentry.org/ycx2waa6
+>The Symbol of Death: Part 2 (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, The Prophet, Hijack):
+ https://rentry.org/w8muhu24
+>Lunch Hour (1-F)
+https://rentry.org/LunchHour
+
+>1-F Epilogues:
 >1-aFtershocks
 https://rentry.org/1Aftershocks
+>1-FUTURE (1-F, Suslik, mentions of some other heroes)
+https://rentry.org/rwbqp65x
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1032,8 +1042,12 @@ https://rentry.org/xwdzd7rb
 https://rentry.org/yb9ni7xa
 >Detention Roulette (Satoru Tani, Karaburan, Conman, Rosethorn, Ippon, Ryukishi, Challenger, Yamata, Mirror Devil, Capture Cloth, Last Rite, Android, Bakeneneko)
 https://rentry.org/detentionroulette
->1-aFtershocks
-https://rentry.org/1Aftershocks
+>Quirk Wisdom (Desolator)
+https://rentry.org/ycx2waa6
+>The Symbol of Death: Part 2 (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, The Prophet, Hijack):
+ https://rentry.org/w8muhu24
+>Lunch Hour (1-F)
+https://rentry.org/LunchHour
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

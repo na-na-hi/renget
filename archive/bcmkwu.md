@@ -1,3 +1,15 @@
+>Drone overlooking the tiktok hohols
+https://files.catbox.moe/r37vl7.mp4
+>Looted armor from Avdeevka
+https://files.catbox.moe/rktf66.mp4
+>Avdeevka drone fly-over
+https://files.catbox.moe/ge8q9c.mp4
+>Released footage of strike on Selidovo
+https://files.catbox.moe/gibmmk.mp4
+>Patrol in Avdeevka encounter dead hohols littered everywhere (NOT COMFY)
+https://files.catbox.moe/y4k512.mp4
+>Hoholina mortar team
+https://files.catbox.moe/vut54b.mp4
 >FABs fall on Avdeevka coke plant
 https://files.catbox.moe/yil3uu.mp4
 >ODAB-1500 fall at Chasovoy Yar

@@ -9,7 +9,7 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 **Species:** Cinderace | **Affiliation:** N/A
 **Level:** 10 | **Experience to Next Level:** 47/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 601₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 901₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -77,7 +77,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Pearl | Clamperl secretions. Gross, but worth something.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

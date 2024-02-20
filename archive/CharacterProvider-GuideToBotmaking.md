@@ -283,10 +283,10 @@ A thought about {something}:
 </{{char}}>
 ```
 
-##### Empty Template for a Scenario Memo
+##### Empty Template for a Scenario Memo (Optional)
 (Character > Advanced definitions > Character Note)
 
-Use this ONLY to state the things that will not change throughout the scenario, establish how the character should react to certain things, or to remind the AI the key principles of the scenario. Sometimes the AI tends to forget that a character, for example, can not feel romantic towards {{user}}. In other words put here the stuff the AI keeps forgetting.
+Use this ONLY to remind AI the things that will not change throughout the scenario, establish how the character should react to certain things, or to remind the AI the key principles of the scenario. Sometimes the AI tends to forget that a character, for example, shouldn't be affectionate with {{user}}. In other words put here the stuff the AI keeps forgetting.
 ```Markdown
 <scenario memo> (Optional. Put this into 'Advanced Definitions' > 'Character's Note' depth@4)
 
@@ -491,7 +491,7 @@ Elaborate the given character description. Break it into sections:
 ##### Fixing ESL
 **Example Prompt:**
 ```markdown
-Character Description:
+Text to revise:
 """
 {Insert your character description here}
 """

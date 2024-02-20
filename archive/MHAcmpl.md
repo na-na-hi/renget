@@ -715,6 +715,7 @@ Updated 1-F Seating Chart: https://desuarchive.org/tg/post/91891169/
 Impakt Valentines: https://desuarchive.org/tg/post/91906255/
 Impakt Valentines: https://desuarchive.org/tg/post/91906547/
 Funni Siblings (Satoru Tani): https://desuarchive.org/tg/post/91918576/
+Detention Roulette (Satoru Tani, Some 1-D): https://desuarchive.org/tg/thread/91931704/#91934906
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1171,6 +1172,10 @@ The Sweet Mess (Challenger, Recoil): https://rentry.org/MHAthesweetmess
 The 19th Ninja Art: Confections (Maru, Class 1-D): https://rentry.org/42qavbt4
 A Sweet Chocolate February (Ryu-kishi, The Boys, Cool Boost, Maru(maru), Rosethorn, Officer Okari): https://rentry.org/xwdzd7rb
 A Valentine's Carol (Satoru Tani): https://rentry.org/yb9ni7xa
+Detention Roulette (Satoru Tani, Karaburan, Conman, Rosethorn, Ippon, Ryukishi, Challenger, Yamata, Mirror Devil, Capture Cloth, Last Rite, Android, Bakeneneko): https://rentry.org/detentionroulette
+Quirk Wisdom (Desolator): https://rentry.org/ycx2waa6
+The Symbol of Death: Part 2 (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, The Prophet, Hijack):  https://rentry.org/w8muhu24
+Lunch Hour (1-F): https://rentry.org/LunchHour
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

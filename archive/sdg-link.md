@@ -89,6 +89,15 @@ https://rentry.org/animusmixed
 https://rentry.org/embeddings
 https://rentry.org/lftbl
 https://rentry.org/sdmodels
+
+!!! info
+	---------------------------
+##Cascade
+###What is Stable Cascade?
+https://stability.ai/news/introducing-stable-cascade
+
+###Quick guide to use Cascade with ComfyUI
+https://comfyanonymous.github.io/ComfyUI_examples/stable_cascade
 !!! info
 	---------------------------
 ##SDXL
@@ -199,7 +208,7 @@ https://rentry.org/hdglorarepo
 https://rentry.org/LazyTrainingGuide
 https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
 https://colab.research.google.com/github/Linaqruf/kohya-trainer/blob/main/kohya-LoRA-dreambooth.ipynb
-https://rentry.org/lora-training-science
+https://github.com/bmaltais/kohya_ss#lora
 ###ComfyUI Workflows
 https://comfyworkflows.com
 https://comfy.icu

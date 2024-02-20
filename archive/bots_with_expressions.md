@@ -1,9 +1,5 @@
-# /aicg/ bots with expressions list
--> Bots for Silly \ Risu, i.e. excluding miku\.gg bots, which are here https://rentry.org/mikugg <-
+# /aicg/ bots with expressions
 -> List updated: ==09.12.2023== <-
-!!! note Submissions info
-    Because charhub now has official support for the expression packs, the list is considered `deprecated`. You can still use the email though, and I will add your bots here, if for some reason you prefer not to use charhub. And I'll try to include any bots I see shilled with catbox links.
-
 
 Bot | Creator | Desc | Demo
 :-:| - | - |
@@ -23,13 +19,3 @@ chub.ai/characters/jumboranch/gizmo-dewclaw -> -> [**Gizmo**](https://files.catb
 ![](https://files.catbox.moe/25i5bv.png) -> -> [**Flurkina**](https://files.catbox.moe/m04s2m.zip) | [jiriro7912](https://desuarchive.org/g/thread/95569412#95570991) | 28 simple emotions | [1](https://files.catbox.moe/oo3p0k.png)
 ![](https://files.catbox.moe/oonpqg.png) -> -> [**Venefica**](https://files.catbox.moe/l5voao.zip) | [chefseru](https://desuarchive.org/g/thread/96125234/#96125643) | The chocolate bunny demon beast witch from Monster Girl Dreams who makes sexy magic candy. | [1](https://lfs.charhub.io/lfs/230907/emotions/v1/surprise.png)
 [**Mage killers**](https://rentry.org/emotionkim) | [Cjcd](https://desuarchive.org/g/thread/97788328/#97789505) | A university student bent on revenge | [1](https://cdn.discordapp.com/attachments/1177997891462246440/1179999487129821184/011.png) ; [2](https://cdn.discordapp.com/attachments/1177997891462246440/1182603989376835664/001.png)
-
-***
-https://rentry.org/mikugg-emotions-tutorial
-https://rentry.org/EmotionalSprites
-
-***
-***
-***
-Email for new submissions:
-- aicg2023@proton.me

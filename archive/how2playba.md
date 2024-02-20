@@ -1,7 +1,6 @@
 # /bag/ Newfag guide
-![EVENT guide](https://static.miraheze.org/bluearchivewiki/b/bc/Conquest_Starting_Guide.jpg) 
-
-[read this for the event](https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!/Rerun#Conquest) 
+**EVENT GUIDE:
+either [read this for the event](https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!/Rerun#Conquest) or watch https://www.youtube.com/watch?v=F3iRv5P7KxU**
 
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 

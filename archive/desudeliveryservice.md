@@ -1,8 +1,7 @@
 !!! danger ⠀[![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn) [![desu](https://files.catbox.moe/lb3cv2.png)](https://rentry.org/desuproxyreborn)
 
 ***
->The proxy'll probably go down again. When it comes back up the next time, *hopefully* it'll be more stable. Sorry for the inconvenience.
-###### https://preserve-blade-cage-switching.trycloudflare.com
+###### https://altered-symbol-marketing-residents.trycloudflare.com/
 - [x] desu
 - [ ] more desu `(MANDATORY)`
 - [ ] fox logs `(OPTIONAL)`
@@ -14,4 +13,4 @@ The owner of `https://rentry.org/scrapeletproxy` created this URL that redirects
 
 ***
 
--> ![postintherentry](https://files.catbox.moe/wr8x8d.jpg) <-
+-> ![rollcredits](https://files.catbox.moe/18bw5i.jpg) <-

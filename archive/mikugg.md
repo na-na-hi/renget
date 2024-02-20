@@ -1,14 +1,7 @@
-# /aicg/ miku\.gg bot list
--> Current link is https://docs.miku.gg <-
+# /aicg/ miku\.gg bots
 -> List updated: ==19.03.2023== <-
 
 ***
-
->nooo is not abandoned I'm just slow to code.
-*t. mikudev*
-
-***
-
 ## Bots v1
 Bot | Creator | Desc | Demo
 :-:| - | - | 
@@ -16,22 +9,5 @@ Bot | Creator | Desc | Demo
 [**Asuka v2**](https://anonfiles.com/QcU64df6z1/asuka_public_v2_zip) | [formerwagie](https://desuarchive.org/g/thread/92188073/#92188421) | New voice sampled off of the american dub. Some tweaks to her character prompts. | https://files.catbox.moe/9wwkyn.mp4 ;
 
 ***
-
 ## Bots v2
-Currently none, 2 were promised but never delivered.
-To make bots use https://build.miku.gg/ ; https://rentry.org/EmotionalSprites ; https://rentry.org/mikugg-emotions-tutorial
-
-***
-I don't even know anymore. No one makes any bots to share at /aicg/.
->The new bot format has been released, all card are now .png and compatible with spec_v2.
-and the official bot hosting is now live so go there, I guess: https://bots.miku.gg
-***
-[29.09.2023]
-> miku.gg BETA platform is ready!
-> bots.miku.gg will continue to exist but will be only for bot sharing and testing.
-*t. mikudev*
-***
-***
-***
-Email for new submissions:
-- aicg2023@proton.me
+none

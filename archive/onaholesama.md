@@ -1,5 +1,5 @@
 # onaholesama's furshit
-->![everything sucks but it sucks a little less with you](https://i.imgur.com/T1OjYHD.gif)<-
+->![everything fucking sucks](https://i.imgur.com/T1OjYHD.gif)<-
 ***
 https://waa.ai/onaholesama
 ***
