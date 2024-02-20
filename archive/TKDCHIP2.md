@@ -62,8 +62,8 @@ https://files.catbox.moe/4c5quv.mp4 New  2/14/24
 >Hezbollah published a video showing the operation targeting the military equipment at the Ras Naqoura naval IOF site.
 https://files.catbox.moe/n5hkg2.mp4  New  2/15/24
 
-
-
+>Hezbollah published a video showing several operations targeting a number of IOF army sites.
+https://files.catbox.moe/uu4vrx.mp4  New  2/19/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -98,10 +98,15 @@ https://files.catbox.moe/zfqqzr.mp4  New  2/15/24
 >WATCH: Al-Quds Brigades published a video showing the targeting of IOF soldiers and vehicles, in the western Gaza Strip.
 https://files.catbox.moe/d6whbb.mp4  New  2/18/24
 
+>WATCH: Joint-operation video by Al-Quds Brigades and the Mujahideen Brigades targeting IOF soldiers and vehicles, east of Jabalia, with machine guns.
+https://files.catbox.moe/uqf9v7.mp4  New  2/19/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+>The Yemeni armed forces release the video of the American MQ9 shoot down" The #Yemeni air defenses shot down an American MQ9 plane in the airspace of Hodeidah Governorate with a locally made surface-to-air missile while it was carrying out hostile missions against our country on behalf of the Zionist entity - 02-19-2024 AD
+https://files.catbox.moe/d4aj9a.mp4  New  2/19/24
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -274,3 +279,9 @@ https://files.catbox.moe/kthiv4.mp4  New  2/18/24
 https://files.catbox.moe/j55x3n.mp4  New  2/18/24
 >The agony of the displaced settlers from the northern borders due to Hezbollah daily fire
 https://files.catbox.moe/56opa0.mp4  New  2/18/24
+>Breaking | Heavy Israeli airstrikes on the city of Sidon in southern Lebanon.
+https://files.catbox.moe/g8xz6i.mp4  New  2/19/24
+>Apart From The Land Blockade of Food Entering Gaza, The Israeli Army Does Not Even Allow People to Fish, The starving situation in Gaza is worsening and Israel continues to block any food from entering the strip. Even as seen in the video, it targets those who try to catch fish for food.
+https://files.catbox.moe/6sgzef.mp4  New  2/19/24
+>ISRAEL JUST BOMBED 3 PLACES IN AL GHAZIYE IN LEBANON ‼️
+https://files.catbox.moe/qtazvv.mp4  2/19/24

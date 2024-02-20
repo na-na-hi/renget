@@ -24,4 +24,4 @@
 
 -> *[I](https://rentry.co/antigravity) am overboard [again.](https://rentry.co/antigravity)* ―― `☽` -> 
 
-[↢](https://rentry.co/diggingitout) -> [↣](https://rentry.co/shadowwithyou) ->
+[↢](https://rentry.co/diggingitout)

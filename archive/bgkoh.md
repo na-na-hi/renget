@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 12 | **Experience to Next Level:** 110/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 779₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 854₽ | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -27,7 +27,7 @@ Attack | 1 | Species Bonus | +1 Physical Damage
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 (+1) | Item bonus | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 3 |  ɴᴏ ʙᴏɴᴜs | 6AP
+Speed | 3 |  Speed tier ɪɪɪ | 7AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -63,12 +63,11 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Stat: Speed **ɪɪ** | Second stage (+0 AP) | 
+Stat: Speed **ɪɪɪ** | Final stage (+1 AP) | 
 Attribute: Pyromancy | Tier **ɪ** (+1) | Ishmael is learning to control his flamse
 
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪɪɪ** | Tier **ɪɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
 Currently Training for Skill: Foraging **ɪ** | Tier **0** | 1/3 | ▮▯▯
 
 

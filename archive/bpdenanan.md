@@ -7,7 +7,7 @@
 
 -> ![](https://i.postimg.cc/W1W4RTQL/pixel-6-from-tomomi-on-neocities.gif) ‎ ***ENA*** or %pink% other names %% ‎ `!!` ‎ she/**nyan**/amor
 enby ‎ `+` ‎ ~~gender~~cute ‎ ![](https://i.postimg.cc/k5mc1r63/sapphic-3-stripes-20-px.png) ‎ %pink%sapphic %% ‎ ![](https://i.postimg.cc/nrm2mBSW/pomosexual-7-stripes-20-px.png) ‎ latina 
-*suspected* bpd ‎ ![](https://i.postimg.cc/fbGYYcWb/demigirl-flag-creds-to-oatmeals-on-toyhouse.png) ‎ [`matching with gf!`](https://rentry.co/keitai-renwa) ![](https://i.postimg.cc/W1W4RTQL/pixel-6-from-tomomi-on-neocities.gif) <-
+*suspected* bpd ‎ ![](https://i.postimg.cc/fbGYYcWb/demigirl-flag-creds-to-oatmeals-on-toyhouse.png) ‎ `she is so me irl` ![](https://i.postimg.cc/W1W4RTQL/pixel-6-from-tomomi-on-neocities.gif) <-
 
 -> ![](https://i.postimg.cc/g0NfJ0G4/blinkie-2-from-watermelon-crd-co.gif) %pink%**♡** %% ![](https://i.postimg.cc/SN48vXhH/6d2dcc20.gif) <-
 

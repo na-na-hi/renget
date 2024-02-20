@@ -105,10 +105,6 @@
 - One of the greatest websites for watching your favorite movies and TV shows providing a world-class viewing experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/cataz.to)
 
-### 🐐 [Cinehub.wtf](https://cinehub.wtf/)
--  Dive into a treasure trove of cinematic wonders, ranging from the latest releases to beloved classics.
-- [URL Safety Results](https://www.urlvoid.com/scan/cinehub.wtf)
-
 ### ▶️ [DopeBox](https://dopebox.to/)
 - Users may watch hundreds of movies and TV series in the highest quality with quick loading times among other advantages.
 - [URL Safety Results](https://www.urlvoid.com/scan/dopebox.to/)
@@ -260,6 +256,10 @@
 ### ▶️ [Vumoo](https://vumoo.to/)
 - Indulge in a treasure trove of obscure movies and TV shows. Bid farewell to all the unnecessary inconveniences.
 - [URL Safety Results](https://www.urlvoid.com/scan/vumoo.to/)
+
+### ▶️ [Watchug](https://watchug.com/)
+- Provides an extensive range of films, spanning drama, comedy, action, sci-fi, and beyond.
+- [URL Safety Results](https://www.urlvoid.com/scan/watchug.com/)
 
 ### ▶️ [WatchSeries](https://watchseries.im/) / [2](https://watchserieshd.live/)
 - Get free HD streaming of movies and TV shows online. There is no need to register or subscribe. Get rid of your boredom and stress.

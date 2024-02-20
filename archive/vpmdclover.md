@@ -297,6 +297,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld)
 	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail) **Non-Canon Story**
 * Rain the Eevee
+	* [Additional Drawings](https://rentry.org/veesotherstuff)
 	* [Rain Prologue](https://rentry.co/ww6axip9)
 * Rasmus the Spinarak
     * [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)

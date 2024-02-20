@@ -111,6 +111,10 @@
 - Video games may be downloaded for free and is occasionally based off ElAmigos releases. File hoster choices includes MediaFire and MEGA.
 - [URL Safety Results](https://www.urlvoid.com/scan/pivigames.blog/)
 
+### 🔗 [SteamGG](https://steamgg.net/)
+- Pre-installed games in diverse categories like shooters, action, racing, and VR, streamlining the download process.
+- [URL Safety Results](https://www.urlvoid.com/scan/steamgg.net/)
+
 ### 🐐 [STEAMRIP](https://steamrip.com/)
 - Pre-installed games that are completely free! No content has been removed or compressed and the source is reliable.
 - [URL Safety Results](https://www.urlvoid.com/scan/steamrip.com/)

@@ -825,6 +825,14 @@ https://mega.nz/folder/8uZFTBRK##HdBiUFsXvAbuRZC9Agg_fw
 
 https://mega.nz/folder/NugFxBTD#7E7mnrOnPvn0DJrBl7hntw
 
+# ponydiffusionv6XL LoRAs of the above
+- Styles:
+	- Kishibe
+	- Amad no Moto
+	- Thousandfoldfeathers
+
+https://mega.nz/folder/pnAQ3Lqa#yL0Q0TVTuUeVjmCgAdpfNg
+
 # Moths, Pokemon (Style), Mai Shiranui (DubAnon) (New Link)
 - Concepts:
 	- Floor-Length Hair

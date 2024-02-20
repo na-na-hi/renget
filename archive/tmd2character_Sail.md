@@ -26,7 +26,7 @@ Health Points | 0 | Level 9 (22HP) | 22HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Damage
 Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Mitigation
-Special Defense | 1 | Species Bonus; Special Defense **ɪ** | +3 Special Mitigation
+Special Defense | 1 | Species Bonus; Special Defense **ɪɪ** | +4 Special Mitigation
 Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 
 **MOVES (4 slots + Basic Attack)**
@@ -62,14 +62,14 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Stat: Special Defense | Tier **ɪ** | +1 Physical Mitigation
+Stat: Special Defense | Tier **ɪɪ** | +2 Physical Mitigation
 Attribute: Star Charting **ɪɪɪ** | **ᴍᴀx** (+3) | Ease of navigating the sea by using the stars under the night sky.
 Attribute: Foraging | Tier **ɪ** (+1) | Skill in scavenging for useful food items and materials found in nature.
 Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
+Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

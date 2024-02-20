@@ -796,3 +796,142 @@ https://t.me/megatron_ron/1891  2/18/24
 🔻Targeted a gathering of israeli soldiers in the Ramim forest, with suitable weapons.
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.perennialte.ch/AryJeay/status/1759377190171320785#m  2/18/24
+
+>⚡️SINKING SHIP: Yahya Sarae:
+In response to the US-UK aggression, the Yemeni Armed Forces, carried out a military operation targeting a British ship, 'RUBYMAR,' in the Gulf of Aden with anti-ship missiles. The results of the operation include:
+🔻 Inflicting severe damage to the ship, leading to its complete halt.
+🔻Due to extensive damage, the ship is now at risk of sinking in the Gulf of Aden.
+🔻Ensuring the safe evacuation of the ship's crew during the operation.
+• In Hodeidah, the Yemeni air defenses, successfully shot down an America MQ-9 drone with a suitable missile while the drone was conducting hostile operations.
+https://nitter.perennialte.ch/AryJeay/status/1759474863004098656#m  2/19/24
+
+>⚡️WATCH: Joint-operation video by Al-Quds Brigades and the Mujahideen Brigades targeting IOF soldiers and vehicles, east of Jabalia, with machine guns.
+https://nitter.perennialte.ch/AryJeay/status/1759543580220133390#m  2/19/24
+https://files.catbox.moe/uqf9v7.mp4  2/19/24
+
+>Two warships, namely Martyr Hassan Bagheri and Martyr Sayyad Shirazi, have joined the IRGC's Navy.
+https://nitter.perennialte.ch/PressTV/status/1759519212630872337#m  2/19/24
+
+>🛑| Al-Qassam (Hamas):
+Confirms sniping 2 IOF soldiers, and clashing with an IOF infantry force, killing and wounding them in the Al-Amal neighborhood, west of Khan Yunis, south of the Gaza Strip.
+https://nitter.perennialte.ch/AryJeay/status/1759554267419943175#m  2/19/24
+
+>🚨 Reports of another attack targeting a ship, east of Yemen’s Aden, with at least 2 explosions in the proximity of the ship, with damages due to shrapnel.
+Ship is heading to the next port.
+https://nitter.perennialte.ch/AryJeay/status/1759564344470200321#m  2/19/24
+
+>🛑 Al-Qassam (Hamas)
+Confirms targeting an IOF force of 15 officers/soldiers, who had taken shelter in a building, with an anti-tank RPG and another anti-personnel rocket.
+Qassam fighters confirmed inflicting casualties, both killed and wounded, and hearing the screams of their soldiers after the fires ignited around them in the Hawwaz area, west of Khan Yunis, in the southern Gaza Strip.
+https://nitter.perennialte.ch/AryJeay/status/1759566029473063021#m  2/19/24
+
+>Zionists launched several airstrikes targeting two separate areas between Saida and Ghaziye.
+Other than the assassination of Sheikh Saleh al-Aroui and his companions in Beirut's Dahyehm this is the furthest away from the border so far.
+The attack is close to oil reservoirs
+https://nitter.perennialte.ch/EyesOnSouth1/status/1759596202243264732#m  2/19/24
+
+>Hamas leader Osama Hamdan, in a visit to Iran on Iran’s OfoghTV:
+Less than only 20% of Hamas tunnels have been identified by the Zionist regime, so far. The underground city (tunnels) of resistance in Gaza is real and the Zionists have realized that they are facing a complex network of tunnels.
+https://nitter.perennialte.ch/AryJeay/status/1759598675808878629#m  2/19/24
+
+>"What does international law mean for Palestinian children in Gaza today? it has protected neither them nor their childhood. It has not protected their families."
+Palestine's envoy to the UN, Riyad Mansour, addressed the ICJ demanding justice for the Palestinian people.
+https://nitter.perennialte.ch/QudsNen/status/1759565085163372958#m  2/19/24
+
+>BREAKING| Reuters cites a written statement by Israel as saying that the advisory opinion by the ICJ on Israel's occupation of Palestine "would be harmful".
+https://nitter.perennialte.ch/QudsNen/status/1759566901330473282#m  2/19/24
+
+>The Ministry also highlighted that Al-Shifa Hospital's electric generator will cease functioning within two days, urging international bodies to maintain pressure on Israel to allow the entry of fuel and medical assistance into hospitals, particularly those in northern Gaza.
+https://nitter.perennialte.ch/QudsNen/status/1759578366707965957#m  2/19/24
+
+>Breaking | 5 Palestinians killed in Israeli airstrikes targeting a group of civilians west of Khan Yunis.
+https://nitter.perennialte.ch/QudsNen/status/1759580035181121596#m  2/19/24
+
+>Breaking | Israeli airstrikes target a residential house east of Rafah, in southern Gaza.
+https://nitter.perennialte.ch/QudsNen/status/1759587306455842963#m  2/19/24
+
+>According to Red Crescent: The Israeli forces continue to prevent food, medical supplies, and fuel from reaching Al-Amal Hospital, posing a humanitarian catastrophe for the medical staff and the wounded.
+https://nitter.perennialte.ch/QudsNen/status/1759591444816298137#m  2/19/24
+
+>Breaking | Israeli airstrikes bombard the town of Meiss al-Jabal, southern Lebanon.
+https://nitter.perennialte.ch/QudsNen/status/1759592598908400122#m  2/19/24
+
+>Breaking | Israeli airstrikes have targeted the village of Al Ghazieh and Ain al-Hilweh refugee camp near the city of Sidon in southern Lebanon.
+https://nitter.perennialte.ch/QudsNen/status/1759598785661906998#m  2/19/24
+
+>Breaking | Heavy Israeli airstrikes on the city of Sidon in southern Lebanon.
+https://nitter.perennialte.ch/QudsNen/status/1759601091958751437#m  2/19/24
+https://files.catbox.moe/g8xz6i.mp4  2/19/24
+
+>The Israeli Prime Minister's Office declares that Israel will not acknowledge the legitimacy of the proceedings of the International Court in The Hague concerning the legality of the occupation.
+Arguing that these efforts are aimed at undermining Israel's right to defend itself against "existential threats."
+https://nitter.perennialte.ch/QudsNen/status/1759635458550538444#m  2/19/24
+
+>⚡️#YEMEN : Statement of the Yemeni armed forces, regarding a NEW operation on American ships :
+The naval forces of the Yemeni Armed Forces carried out - with the help of Allah Almighty - two specific military operations in which they targeted two American ships in the Gulf of Aden, the first was “Sea Champion” and the other was “Navis Fortuna”. The targeting operation was carried out with a number of appropriate naval missiles, and the casualties were Accurate and direct, thanks to God.
+https://nitter.perennialte.ch/ME_Observer_/status/1759642898604126246#m  2/19/24
+
+>⚡️#Yemen : 4 operations in the past 24 hours:
+3 ships and one MQ9 Drone
+https://nitter.perennialte.ch/ME_Observer_/status/1759643210094379304#m  2/19/24
+
+>BREAKING:
+
+🇮🇱🇧🇷 Brazil has withdrawn its ambassador from Israel 
+https://t.me/megatron_ron/1908  2/19/24
+
+>BREAKING:
+
+🇧🇷🇮🇱 The Brazilian Government has banned the Israeli Ambassador from Brazilian Territory following the declaration by Israeli Foreign Ministry of Persona non Grata against Lula da Silva!
+https://t.me/megatron_ron/1911  2/19/24
+
+>Apart From The Land Blockade of Food Entering Gaza, The Israeli Army Does Not Even Allow People to Fish
+
+>The starving situation in Gaza is worsening and Israel continues to block any food from entering the strip.
+
+Even as seen in the video, it targets those who try to catch fish for food.
+https://t.me/megatron_ron/1910  2/19/24
+https://files.catbox.moe/6sgzef.mp4  2/19/24
+
+>⚡️BREAKING: Yemeni Armed Forces Spox, Yahya Sarae:
+🔻The Yemeni Armed Forces carried out 2 military operations targeting 2 American ships ihttps://nitter.perennialte.ch/QudsNen/status/1759661844812194220#mn the Gulf of Aden, the 'Sea Champion' & 'Navis Fortuna’ using anti-ship missiles, resulting in direct and accurate hits, making them dysfunctional.
+🔻In the past 24h, the Yemeni Armed Forces conducted a total of 4 operations.
+🔻Targeted a British ship, successfully sinking it.
+🔻Targeted an US 'MQ-9' drone in the skies of Hodeidah province.
+🔻2 operations targeting 2 American ships.
+https://nitter.perennialte.ch/AryJeay/status/1759651578523394227#m  2/19/24
+
+>Breaking | US Deputy Ambassador to the Security Council: We do not support the Algerian resolution calling for an immediate ceasefire in Gaza.
+(Illustrative photo)
+https://nitter.perennialte.ch/QudsNen/status/1759661844812194220#m  2/19/24
+
+>⚡️The Yemeni armed forces release the video of the American MQ9 shoot down"
+The #Yemeni air defenses shot down an American MQ9 plane in the airspace of Hodeidah Governorate with a locally made surface-to-air missile while it was carrying out hostile missions against our country on behalf of the Zionist entity - 02-19-2024 AD
+https://nitter.perennialte.ch/ME_Observer_/status/1759664296877871335#m  2/19/24
+https://files.catbox.moe/d4aj9a.mp4  2/19/24
+
+>BREAKING| Reuters reports that the US proposed a draft resolution to the UN Security Council backing a "temporary ceasefire" in Gaza and opposing an Israeli attack on Rafah.
+The resolution came to confront an Algerian draft resolution, which calls for a permanent ceasefire.
+Yesterday, the US Ambassador to the UN, Linda Thomas-Greenfield, stated that her country does not support action on the Algerian draft resolution and hinted that it would veto it.
+https://nitter.perennialte.ch/QudsNen/status/1759683243622772929#m  2/19/24
+
+>US vice-president, Kamala Harris, says that the US has not made any decision on conditioning or halting weapons to Israel if they launch a ground offensive in Rafah despite being "very concerned" about civilians in Rafah.
+https://nitter.perennialte.ch/QudsNen/status/1759696874435674476#m  2/19/24
+
+>⚡️#Yemen: Al-Mayadeen correspondent: American-British aggression targets, with an air strike, the Al-Kadan area in Al-Dhahi District in Al-Hudaydah Governorate, west of the country.
+https://nitter.perennialte.ch/ME_Observer_/status/1759697898152079366#m  2/19/24
+
+>Well… another attack against a ship in the Bab el Mandab strait occurred using a kamikaze drone with damage to the ship.
+https://nitter.perennialte.ch/AryJeay/status/1759714755831386285#m  2/19/24
+
+>⚡️Hezbollah published a video showing several operations targeting a number of IOF army sites.
+https://nitter.perennialte.ch/AryJeay/status/1759712417431339431#m  2/19/24
+https://files.catbox.moe/uu4vrx.mp4  2/19/24
+
+>ISRAEL JUST BOMBED 3 PLACES IN AL GHAZIYE IN LEBANON ‼️
+https://twitter.com/ftvhope/status/1759597137954759001  2/19/24
+https://files.catbox.moe/qtazvv.mp4  2/19/24
+
+>Israel's Netzarim Corridor to split Gaza in two with Ramadan deadline on Rafah assault
+https://www.newarab.com/news/israeli-corridor-set-split-gaza-two-amid-rafah-assault
+https://archive.is/Sysp7

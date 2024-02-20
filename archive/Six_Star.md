@@ -909,3 +909,45 @@ Bond story priority: Luxury (Relevant units: None)
 Max level Unit priority:  Top
 New player Unit priority: High
 [Return to Top](https://rentry.org/Six_Star)
+
+
+
+## -> New Year's Rei ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<- 
+	(JP Release Date: Year 7, March)
+TBD
+- UB+: 
+- CB: 
+- Arena: 
+- PvE: 
+- 
+Bond story priority: Luxury (Relevant units: P.Rei, S.Rei,)
+Max level Unit priority:  TBD
+New player Unit priority: TBD
+[Return to Top](https://rentry.org/Six_Star)
+
+
+## ->New Year's Hiyori ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<- 
+	(JP Release Date: Year 7, March)
+TBD
+- UB+: 
+- CB: 
+- Arena: 
+- PvE: 
+- 
+Bond story priority: Luxury (Relevant units: Ast.Hiyori)
+Max level Unit priority:  TBD
+New player Unit priority: TBD
+[Return to Top](https://rentry.org/Six_Star)
+
+## -> New Year's Yui ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<- 
+	(JP Release Date: Year 7, March)
+TBD 
+- UB+: 
+- CB: 
+- Arena: 
+- PvE: 
+- 
+Bond story priority: Luxury (Relevant units: Ast.Yui, S.Yui)
+Max level Unit priority:  TBD
+New player Unit priority: TBD
+[Return to Top](https://rentry.org/Six_Star)

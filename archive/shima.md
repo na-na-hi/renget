@@ -1,9 +1,11 @@
 ![](https://64.media.tumblr.com/c4c5e70fb3cd03e1383835f43e16befc/fb444710eb0ab73e-3c/s75x75_c1/544262c73c412a51c75a69b5f35ef4c56aeb1490.gifv) **socials**
 
 [main twitter](https://twitter.com/fusionicstars)
-[priv twitter](https://rentry.co/hourlyshuichi)
+[priv twitter](https://twitter.com/hourlyshuichi)
+[vent twitter](https://twitter.com/mxbydeftones)
 [main instagram](https://instagram.com/iangwy)
-[spam instagram](https://instagram.com/shin_the_liar)
+[spam instagram](https://instagram.com/entp.5w4)
+[dump instagram](https://instagram.com/user04170616)
 [letterboxd](https://boxd.it/7482B)
 [spotify](https://spotify.link/Lo17uvzUFDb)
 [pronouny](https://pronouny.xyz/u/tsukasasuou)

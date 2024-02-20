@@ -44,7 +44,7 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 ### [musouzuki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jB9jEDoB)
 *Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin
 :------:|:------:|:------:|:------:
-![](https://i.imgur.com/pnghDtV.png) | ![](https://i.imgur.com/vDgQsS0.png) | ![](https://i.imgur.com/rof3lvJ.png) | ![](https://i.imgur.com/JCsd6st.png)
+![](https://i.imgur.com/5cKOCbX.png) | ![](https://i.imgur.com/LK3FiAO.png) | ![](https://i.imgur.com/v27bEzh.png) | ![](https://i.imgur.com/3aXWr8P.png)
 
 ### [reagan long](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TJE2VDSI)
 *Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin
