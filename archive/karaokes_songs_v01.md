@@ -16,30 +16,23 @@ The first original song is currently in the making, see [trailer](https://www.yo
 #####Covers
 **Playlist**: https://www.youtube.com/playlist?list=PLSJG6WXf5JvFn2FWv_B5HP7DklUtdeZiM
 
-| Song | Link | Duration |
+||||
 |------|-----|-----|
-| Love Me, Love Me, Love Me / English cover of Kikuo - 愛して愛して愛して  | -> [![](https://files.catbox.moe/x48z03.jpg)](https://www.youtube.com/watch?v=RWU3o_kDixc) <- |4m16|
-| PinoccioP - God-ish / 神っぽいな | -> [![](https://files.catbox.moe/gu7i5o.jpg)](https://www.youtube.com/watch?v=s0jypGHFbnA) <- |3m25|
-| Kalafina - Magia | -> [![](https://files.catbox.moe/e5doz0.jpg)](https://youtu.be/Gaf2ozNgOs8) <- |5m25|
-| DECO\*27 - The Vampire (English cover) |-> [![](https://files.catbox.moe/2wif3f.jpg)](https://www.youtube.com/watch?v=yw1zOjyfyCw) <-|3m14|
-| Down By The River (Baldur's Gate 3) | -> [![](https://i.ytimg.com/vi/8j3wK1DXhrs/mqdefault.jpg)](https://www.youtube.com/watch?v=8j3wK1DXhrs) <- |2m38|
-| MOKA☆ - Lilium ![](https://files.catbox.moe/4jc013.png) *Temporarily gone from YouTube due to a copyright strike.* [\[Archived copy\]](https://archive.ragtag.moe/watch?v=-GUdYPelG8c) [\[Download\]](https://files.catbox.moe/qbqq81.webm) | -> [![](https://files.catbox.moe/rbo8nh.webp)](https://files.catbox.moe/qbqq81.webm) <- |4m17|
-| SOS (Fuyuko Mayuzumi Image Song) | -> [![](https://i.ytimg.com/vi/uwwK82MIxIY/mqdefault.jpg)](https://www.youtube.com/watch?v=uwwK82MIxIY) <- |4m|
-| Nakashima Mika - Yuki no Hana | -> [![](https://i.ytimg.com/vi/SPWsptIhKkM/mqdefault.jpg)](https://www.youtube.com/watch?v=SPWsptIhKkM) <- |5m38|
-| 9th cover (mentioned, in progress) | TBA  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | TBD |
+| [ -> ![](https://files.catbox.moe/pth0pe.webp) <-  -> Love Me, Love Me, Love Me <- -> English cover of Kikuo - 愛して愛して愛して <- ](https://www.youtube.com/watch?v=RWU3o_kDixc) -> 4m16 <- | [ -> ![](https://files.catbox.moe/vlrowp.webp) <- -> PinoccioP - God-ish / 神っぽいな <- ](https://www.youtube.com/watch?v=s0jypGHFbnA) -> 3m25 <-| [ -> ![](https://files.catbox.moe/2du8xc.webp) <- -> Kalafina - Magia <- ](https://www.youtube.com/watch?v=Gaf2ozNgOs8) -> 4m16 <-
+| [ -> ![](https://files.catbox.moe/w5g2tk.webp) <- -> DECO\*27 - The Vampire (English cover) <- ](https://www.youtube.com/watch?v=yw1zOjyfyCw) -> 3m14 <-| [ -> ![](https://files.catbox.moe/h8r1d5.webp) <- -> Down By The River (Baldur's Gate 3) <- ](https://www.youtube.com/watch?v=8j3wK1DXhrs) -> 2m38 <-| -> ![](https://files.catbox.moe/zfu4z7.webp) <- -> MOKA☆ - Lilium <- -> 4m17 <- -> *Copyright claimed* [\[Archive\]](https://archive.ragtag.moe/watch?v=-GUdYPelG8c) [\[DDL\]](https://files.catbox.moe/qbqq81.webm) <-
+| [ -> ![](https://files.catbox.moe/3dw1cr.webp) <- -> SOS (Fuyuko Mayuzumi Image Song) <- ](https://www.youtube.com/watch?v=uwwK82MIxIY) -> 4m <-| [ -> ![](https://files.catbox.moe/6niiz7.webp) <- -> Nakashima Mika - Yuki no Hana <- ](https://www.youtube.com/watch?v=SPWsptIhKkM) -> 5m38 <-|
 
-&nbsp;
 ***
+
+
 &nbsp;
 
 #### ![](https://files.catbox.moe/f9inkg.png) Collab Songs
-| Song | Link | Duration |
+
+||||
 |------|-----|-----|
-| Rebellion (1st Advent group orisong) | -> [![](https://files.catbox.moe/xutpuv.jpg)](https://www.youtube.com/watch?v=pYNYhSsR8EE) <- |3m48|
-| Halloween Night, Tonight! (English ver., 1st Advent group cover) | -> [![](https://files.catbox.moe/2t3pop.jpg)](https://www.youtube.com/watch?v=FqXrBy_FIU0) <- |3m45|
-| BABYMETAL - MEGITSUNE (2nd Advent group cover) | -> [![](https://files.catbox.moe/wuq1h8.webp)](https://www.youtube.com/watch?v=OffTXFgbn7A) <- |4m05|
-| Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover) | -> [![](https://files.catbox.moe/in8rfy.webp)](https://www.youtube.com/watch?v=OffTXFgbn7A) <- |5m02|
-| VIVINOS - OTOMEROID (Jewelbird (Nerissa & Bijou) cover) | -> [![](https://files.catbox.moe/b4347h.webp)](https://www.youtube.com/watch?v=9aiuzVI35BQ) <- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|1m45|
+| [ -> ![](https://files.catbox.moe/xutpuv.jpg) <- -> Rebellion (1st Advent group orisong) <- ](https://www.youtube.com/watch?v=pYNYhSsR8EE) -> 3m48 <- | [ -> ![](https://files.catbox.moe/2t3pop.jpg) <- -> Halloween Night, Tonight! (English ver., 1st Advent group cover) <- ](https://www.youtube.com/watch?v=FqXrBy_FIU0) -> 3m45 <- | [ -> ![](https://files.catbox.moe/wuq1h8.webp) <- -> BABYMETAL - MEGITSUNE (2nd Advent group cover) <- ](https://www.youtube.com/watch?v=OffTXFgbn7A) -> 4m16 <-
+| [ -> ![](https://files.catbox.moe/in8rfy.webp) <- -> Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover) <- ](https://www.youtube.com/watch?v=OQuGEpICY2o) ->5m02 <- | [ -> ![](https://files.catbox.moe/b4347h.webp) <- -> VIVINOS - OTOMEROID (Jewelbird (Nerissa & Bijou) cover) <- ](https://www.youtube.com/watch?v=9aiuzVI35BQ) -> 1m45 <- 
 
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->

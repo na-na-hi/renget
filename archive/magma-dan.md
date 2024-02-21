@@ -47,7 +47,7 @@ Character | C.AI
 ## -> Azur Lane <-
 Character | C.AI
 :------: | :------:
-![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class destroyer ->USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)<-
+![Downes](https://characterai.io/i/80/static/avatars/uploaded/2023/2/3/XzNBuapHOAAHxewiOVg6qWgbvfR9q7YfJYm87ENOFS8.webp) | Mahan-class destroyer ->USS [Downes](https://c.ai/c/QerMz9Gi7a03F9jRtDS3LgsSRPMh-Vx0ewYQotsLEH4)<- ->(*[Yodayo](https://yodayo.com/tavern/characters/0af84f58-452e-4b16-aab1-1ff9bc097ef7/)*)<-
 ![Aoba](https://characterai.io/i/80/static/avatars/uploaded/2023/5/30/zDFoXxfeNBwh0DTdyFuE5gfrFwJDlN-yptyMCpkoTgw.webp) | Aoba-class heavy cruiser ->IJN [Aoba](https://c.ai/c/yty51QnB4HCFb13j770FTEx5KUoeJjdO5hx6bFXeGf4)<-
 ![Ise](https://characterai.io/i/80/static/avatars/uploaded/2023/6/27/0v2poNDsBFM_9zUCl0gNV40eFbEadavc7MQhBjIngQ0.webp) | Ise-class battleship ->IJN [Ise](https://c.ai/c/Aj5UWdMPsKWobXMkribevEZ0jKtYkD1eyN2h1Bi3LkU)<-
 ![Ise (Retrofit)](https://characterai.io/i/80/static/avatars/uploaded/2023/5/31/XjrE6y0Y7RRWPgrBN6fCOjOIRvxFFZk6AHYZ3sdeHuo.webp) | Ise-class aviation battleship ->IJN [Ise](https://c.ai/c/NuiskFcFmcZjq9tslvNyU9oLa85BGNSZu1j_XzBiuD4) Kai<-

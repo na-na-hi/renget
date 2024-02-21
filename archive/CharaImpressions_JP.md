@@ -1394,7 +1394,7 @@ Cons:
 - No heal
 - No Barrier
 - Competing with V.Shizuru for utility spot in a fire team comp
-- Loses efficiency in a team slot against magic enemies
+- Loses efficacy in a team slot against magic enemies
 
 
 ### ->Eris ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-

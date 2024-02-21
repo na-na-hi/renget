@@ -65,6 +65,9 @@ https://files.catbox.moe/n5hkg2.mp4  New  2/15/24
 >Hezbollah published a video showing several operations targeting a number of IOF army sites.
 https://files.catbox.moe/uu4vrx.mp4  New  2/19/24
 
+>Hezbollah published a video from the operation that targeted a gathering of IOF soldiers at the Birkat Risha site.
+https://files.catbox.moe/l38roj.mp4  New  2/20/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -285,3 +288,9 @@ https://files.catbox.moe/g8xz6i.mp4  New  2/19/24
 https://files.catbox.moe/6sgzef.mp4  New  2/19/24
 >ISRAEL JUST BOMBED 3 PLACES IN AL GHAZIYE IN LEBANON ‼️
 https://files.catbox.moe/qtazvv.mp4  2/19/24
+>Zionist terrorists continue blocking the way for humanitarian trucks carrying aid from entering the Gaza Strip…
+https://files.catbox.moe/14r1eo.mp4  New  2/20/24
+>Hezbollah military media publishes : "And what is hidden is Greater"
+https://files.catbox.moe/pzvf4k.mp4  New  2/20/24
+>Children in northern Gaza protest calling the world to stop the femine inflicted by Israel.
+https://files.catbox.moe/vpcyzf.mp4  New  2/20/24

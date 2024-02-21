@@ -935,3 +935,169 @@ https://files.catbox.moe/qtazvv.mp4  2/19/24
 >Israel's Netzarim Corridor to split Gaza in two with Ramadan deadline on Rafah assault
 https://www.newarab.com/news/israeli-corridor-set-split-gaza-two-amid-rafah-assault
 https://archive.is/Sysp7
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 19 (2024), against US-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted a British ship with anti-ship missiles, causing it to sink completely.
+
+🔻Successfully shot down a sophisticated US MQ-9 drone in the skies of Hodeidah with a suitable missile.
+
+🔻Targeted 2 American ships in the Gulf of Aden, namely "Sea Champion" and "Navis Fortuna," with a number of anti-ship missiles.
+
+— 🇵🇸 Al-Qassam Brigades (Hamas):
+
+🔻Sniped 2 IOF soldiers in the neighborhood west of Khan Yunis.
+
+🔻Clashed with an IOF infantry force, resulting in killed & injured in the neighborhood west of Khan Yunis, southern Gaza.
+
+🔻Targeted an IOF infantry force consisting of 15 officers/soldiers inside a fortified building, with anti-tank and anti-personnel rockets (RPGs), resulting in killed & injured in the Hawawez area west of Khan Yunis, southern Gaza.
+
+🔻In a joint-operation with the Al-Mujahideen Brigades, they targeted an IOF Hermes-900 drone, with a SAM-7, southwest of Gaza City.
+
+— 🇵🇸 Al-Quds Brigades (Islamic Jihad):
+
+🔻Shelled IOF forces in the "Netzarim" north-east of the central region with 107mm rocket barrage.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Engaged in fierce clashes with IOF soldiers and vehicles using machine guns and RPGs, in the western axis of Khan Yunis.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Birkat Risha site with suitable weapons, causing a direct hit.
+
+🔻Targeted the Ramta site in the occupied Shebaa Farms with rockets, causing a direct hit.
+
+🔻Targeted the Al-Samaqa site in the occupied Shebaa Farms with rockets, causing a direct hit.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.esmailelbob.xyz/AryJeay/status/1759747554311299096#m  2/19/24
+
+>Images of the US MQ9 Reaper drone that was shot down by the Yemeni Air Force in Al Hudaydah on Monday.
+https://nitter.esmailelbob.xyz/IrnaEnglish/status/1759877736288403619#m  2/20/24
+
+>🛑| Al-Qassam Brigades (Hamas)
+
+🔻Targeted 2 Merkava tanks
+🔻Engaged in fierce battles, south of Al-Zaytoun, forcing IOF helicopters to evacuate the dead/wounded from the scene.
+https://nitter.esmailelbob.xyz/AryJeay/status/1759918090094096614#m  2/20/24
+
+>The IOF last week withdrew its last reserve brigade from the Gaza Strip, the 646th Brigade. The IOF says it’s withdrawing all of its reserve forces due to its declining economy.
+https://nitter.esmailelbob.xyz/AryJeay/status/1759884018839953877#m  2/20/24
+
+>Zionist terrorists continue blocking the way for humanitarian trucks carrying aid from entering the Gaza Strip…
+https://nitter.esmailelbob.xyz/AryJeay/status/1759925309976011156#m  2/20/24
+https://files.catbox.moe/14r1eo.mp4  2/20/24
+
+>The Zionist singer and actor (Idan Amadi) from the israeli Fauda series was hospitalized due to injuries from clashes with the resistance, as a reservist IOF terrorist in the Gaza Strip.
+https://nitter.esmailelbob.xyz/AryJeay/status/1759926931078685007#m  2/20/24
+
+>More civilian casualties in Gaza on day 137 of the relentless Israeli genocide
+https://nitter.esmailelbob.xyz/QudsNen/status/1759864354009178527#m  2/20/24
+
+>The Ministry of Health:
+
+⭕️18 patients have been evacuated from Nasser Hospital to field hospitals, while 118 patients remain inside the besieged hospital.
+
+⭕️The situation inside Nasser Medical Complex, which Israeli forces have turned into a military outpost, has reached a critical point and poses a direct threat to the lives of medical staff and patients.
+
+⭕️Medical staff and patients are without electricity, water, food, milk for children, oxygen, or appropriate medical care for severe cases.
+
+⭕️We demand international institutions to use all means to pressure the Israeli army to end the militarization of the hospital so that the hospital resumes its operations, and to provide all humanitarian and medical needs.
+https://nitter.esmailelbob.xyz/QudsNen/status/1759883798441869746#m  2/20/24
+
+>Sheikh Raed Salah, head of Islamic Movement in the 1948-occupied territories: Al Aqsa Mosque is ours and no one else has a right to it. 
+
+It is not able to any temporal or spatial division. No one can claim the right to prevent worshippers from entering it because we are the rightful owners of it.
+https://nitter.esmailelbob.xyz/QudsNen/status/1759887385708405054#m  2/20/24
+
+>According to a new poll by the Israel Democracy Institute: 55% of those surveyed see the chances of achieving complete victory in Gaza as low, while 60% believe that widespread protests against Netanyahu will start soon.
+https://nitter.esmailelbob.xyz/QudsNen/status/1759889251263533332#m  2/20/24
+
+>Children in northern Gaza protest calling the world to stop the femine inflicted by Israel.
+https://nitter.esmailelbob.xyz/QudsNen/status/1759895896077062598#m  2/20/24
+https://files.catbox.moe/vpcyzf.mp4  2/20/24
+
+>BREAKING| The UN World Food Programme says it is pausing deliveries of life-saving food aid to northern Gaza "until conditions are in place that allow for safe distributions."
+https://nitter.esmailelbob.xyz/QudsNen/status/1759922002054291925#m  2/20/24
+
+>Reuters reports that Brazil will not retract comments made by its president, Lula da Silva, in which he drew a parallel between the Holocaust and Israel's war in Gaza.
+https://nitter.esmailelbob.xyz/QudsNen/status/1759958034510455232#m  2/20/24
+
+>Breaking | The UN Security Council fails to adopt the Algerian resolution calling for a ceasefire in Gaza after a US veto.
+
+(Illustrative photo)
+https://nitter.esmailelbob.xyz/QudsNen/status/1759967105057755149#m  2/20/24
+
+> 🇪🇬 Egypt Has Officially Stopped Using The US Dollar In Trade.
+
+On February 15th, 2024, Egypt announced that it would stop using the US dollar in all its trade transactions with other countries.
+
+Instead, it would use a basket of currencies that reflects its trade patterns and preferences.
+
+The basket would include the euro, the Chinese yuan, the Russian ruble, the Turkish lira, the Indian rupee, and the African franc.
+
+Egypt said that this decision was based on economic rationality and sovereignty, and that it would enhance its trade competitiveness and financial stability.
+https://t.me/megatron_ron/1922  2/20/24
+
+>⚡️BREAKING: Yahya Sarae announced:
+
+🔻The Yemeni Armed Forces carried out a military operation using kamikaze drones targeting several American warships in the Red Sea and the Arabian Sea. 
+
+🔻Simultaneously, Yemen targeted sensitive IOF military locations in the Umm al-Rashrash (Eilat) south of occupied Palestine using kamikaze drones. 
+
+🔻Additionally, the Yemeni naval forces targeted an Israeli ship "MSC SILVER" in the Gulf of Aden with anti-ship missiles.
+https://nitter.esmailelbob.xyz/AryJeay/status/1759983877781635535#m  2/20/24
+
+>⚡️#Yemen thwarts an American suicide bombing attempt in Sanaa that was being planned using it's "Islamic" mercenaries ISIS:
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1759986725433098279#m  2/20/24
+
+>⚡️Occupied Palestine: Spokesman for the occupation army:
+
+ We found a #Hezbollah drone in the Western Galilee region, and the incident is being investigated.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1759983345218294256#m  2/20/24
+
+>Breaking | Israeli Finance Minister Bezalel Smotrich: "The return of the captives at any cost is not the most important thing, but rather the destruction of Hamas."
+https://nitter.tux.pizza/QudsNen/status/1759992822038430026#m  2/20/24
+
+>⚡️⭕️Hezbollah military media publishes :
+
+"And what is hidden is Greater"
+https://nitter.tux.pizza/ME_Observer_/status/1759990062220009779#m  2/20/24
+https://files.catbox.moe/pzvf4k.mp4  2/20/24
+
+>⚡️Issued by Al-Quds Brigades:
+
+After our Mujahideen returned from the areas of clashes in the Al-Zaytoun neighborhood in #Gaza City, they confirmed their clash with enemy soldiers and vehicles with machine guns and anti-tank missiles, causing a number of deaths and injuries among their ranks.
+Al-Aqsa Flood
+https://nitter.tux.pizza/ME_Observer_/status/1759992799494045881#m  2/20/24
+
+>Israeli reporter:
+
+For the 2nd time in a day: a Hezbollah drone infiltrated into occupied Galilee without being detected by the Israeli army. In fact, in both cases, the military began investigating the intrusion and fall following reports by settlers.
+https://nitter.tux.pizza/AryJeay/status/1760011609848582262#m  2/20/24
+
+>Belgium's Deputy Prime Minister, Petra De Sutter, stated that Belgium has intervened in the ICJ case regarding Israel’s occupation of Palestine. She emphasized the imperative for Israel to cease all settlement activity, offer reparations, and ensure non-repetition.
+https://nitter.tux.pizza/QudsNen/status/1760002359940526550#m  2/20/24
+
+>Reports of Israeli tanks advancing towards the outskirts of Al-Mawasi, an area previously claimed by the Israeli army as "safe" and attempt to besiege tents housing thousands of displaced Palestinians.
+https://nitter.tux.pizza/QudsNen/status/1760023614383108476#m  2/20/24
+
+>The Pentagon finally admitted to its loss: AnsarAllah Yemen shot down an American MQ-9 Reaper drone on the coast of the Red Sea yesterday.
+https://nitter.tux.pizza/AryJeay/status/1760034253067194745#m  2/20/24  
+
+>⚡️Hezbollah published a video from the operation that targeted a gathering of IOF soldiers at the Birkat Risha site.
+https://nitter.tux.pizza/AryJeay/status/1760058098998255806#m  2/20/24
+https://files.catbox.moe/l38roj.mp4  2/20/24
+
+>⚡️Yemen: Al-Mayadeen correspondent: American-British aggression targets the Al-Jabanah area, north of the coastal city of Hodeidah on the Red Sea, west of the country, with two raids.
+https://nitter.tux.pizza/ME_Observer_/status/1760059748509012314#m  2/20/24
+
+>⚡️Cuba: Cuban President Miguel Díaz-Canel expresses his solidarity with the Brazilian President : 
+
+ All solidarity with our dear brother, the President of Brazil, who was classified as persona non grata by “Israel” for condemning the extermination of the #Palestinian population in #Gaza.
+
+ All hail and admiration for your courage, you will always be on the right side of history
+https://nitter.tux.pizza/ME_Observer_/status/1760069435904118874#m  2/20/24

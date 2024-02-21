@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+20/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Animations, and Gameplay folders
 19/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc. folders
 18/02/24   | Added new files to Acheron, Aventurine, and Gallagher Kit folders. / Added new files to Screwllum Misc. folder.
 31/01/24   | Added "Trailblazer" (Harmony/Imaginary) to the Upcoming Characters section and added Constance, Catarina, Akash and Dubra in the Possibly Scrapped, Placeholder or Characters with no Info section.

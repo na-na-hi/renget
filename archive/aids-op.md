@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.4cdn.org/vg/1708010030240531.jpg)
-Butlerian Jihad Edition
+![suggested OP image](https://i.imgur.com/47YwWQm.jpg)
+Polybius Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>465742205
+Last thread: >>466287453
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -33,10 +33,10 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Dragon Friday is over. Write far-out prompts about next week's theme: Alien Friday! >>464999195
+Alien Friday is over. Enjoy the far-out prompts! Last: >>465877210
  
 ▶News
-\>(02/15) This guy appears >>465836709
+(02/15) This guy appears >>465836709
 (02/07) Euroids pass AI act: https://en.wikipedia.org/wiki/Artificial_Intelligence_Act
 (01/30) NAI pushes CFG sampling update: https://i.imgur.com/JJ6eBk2.png
 (01/20) Aetherroom's second devlog: https://blog.novelai.net/aetherroom-devlog-2-makings-of-a-contact-e4f20d28f4a0

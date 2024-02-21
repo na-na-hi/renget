@@ -6,25 +6,23 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 256th time, what is Ope?!
+For the 257th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
-\>New Jewelbird cover of VIVINOS - OTOMEROID
-https://www.youtube.com/watch?v=9aiuzVI35BQ
-
 \>Streams
-Next stream: Poppy Playtime, Chapter 2 (Tue 02/20 7PM CT)
+Next stream (Poppy Playtime, Chapter 2, Tue 02/20 7PM CT)
+https://www.youtube.com/watch?v=xYHj-aYv01o
 Last stream (breakfast zatsudan / 600k endurance w/ Kiara & Aradia cameos)
 https://www.youtube.com/watch?v=ObO7BUThzZs
 Previous collab stream (telephone game collab with Bae, Miko, Hajime, Kaela and Kobo with on Bae's channel)
 https://www.youtube.com/watch?v=J_q-OWjlt0I
 
 \>Songs
+Jewelbird cover of VIVINOS - OTOMEROID
+https://www.youtube.com/watch?v=9aiuzVI35BQ
 Cover of Nakashima Mika - Yuki no Hana
 https://www.youtube.com/watch?v=SPWsptIhKkM
-Cover of SOS (Fuyuko Mayuzumi's Image Song)
-https://www.youtube.com/watch?v=uwwK82MIxIY
 Archive of the struck down Moka - Lilium cover
 https://archive.ragtag.moe/watch?v=-GUdYPelG8c
 Unarchived pre-Valentine's karaoke (Feb 2024)
@@ -39,7 +37,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>69522478
+Previous thread: >>69605038
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

@@ -10,6 +10,12 @@ You can also experiment with the following lora on the base pony model, it's bas
 
 https://files.catbox.moe/kk4qjo.safetensors autismmix
 
+There's a finetune of Pony with additional innate artist support now here:
+https://civitai.com/models/282341
+
+An anon also created a LoRA extract of it if you want to experiment with it on base pony at varying strengths here:
+https://civitai.com/models/312010/4th-tail-lora-extract
+
 ##List of Ponyxl LoRAs from /h/
 NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
 
@@ -416,6 +422,34 @@ There's some evidence that the model has a bit of a bias towards western style a
 You can also help nudge generations with the model more towards anime style by using "source_cartoon, source_furry, source_pony, sketch, painting, monochrome" in the negative prompt when generating images. Some of the artists with more subtle art styles tend to have more success with this in my experience. The bias is a bit less evident in the lower scores so if a LoRA has it's images tagged with score_9 a prompt like "source_anime, score_9, score_6_up, score_5_up, score_4_up" might get better results. Unfortunately this also makes your LoRA harder to use, you'd have to tell people to use it this way.
 
 Other tricks tried were to include all the score tags in the LoRA's training set on every image which didn't have much success or only using the source_anime tag which also didn't seem to influence the LoRA's effectiveness much. I haven't tried actually using the score tags as intended since that takes more effort than I'm willing to put in for a LoRA for the time being but that may net the best results.
+
+##Various Anon LoRA Training Settings 
+###Specific block alphas and dims
+I've been seeing some pretty good LoRAs that are making use of the following settings, I couldn't really tell what these settings are doing that's different from just setting the overall dims/alpha of the LoRA but I have seen some of the generated LoRAs and they do seem good, especially considering they're typically just 40 megs.
+
+block_alphas=0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625
+block_dims=8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
+
+There's also been a couple anons amount of playing with the multires settings like so:
+multires_noise_discount=0.3
+multires_noise_iterations=6
+or 
+multires_noise_discount=0.5
+multires_noise_iterations=8
+
+Here are a couple json config files that have utilized these settings, these settings also reduce the effective learning rate significantly so you'll notice the unet learning rate is much higher than you might typically expect:
+https://files.catbox.moe/p1m50y.json
+https://files.catbox.moe/fgp24t.json
+https://files.catbox.moe/s75mc6.json
+
+Typically with these settings anons are trying to hit 2k-3k steps, so adjust your epoch count based on image count accordingly. 
+
+I have incorporated the multires_noise_discount and multires_noise_iterations into my own trainings and it seems to improve the quality, although to be honest I haven't really been able to hit the quality I like at just 2k steps and am still targeting more like 5k+, I'm also still mostly using prodigy as my go to optimizer.
+
+###Custom scheduler
+Another anon that has had some good LoRAs has gone a different route with a custom consine annealing scheduler:
+
+https://files.catbox.moe/ua9jua.toml
 
 ##LoRA Training Update 1/30/2024
 I've been messing around with Lycoris locon, which needs inputs for conv network rank and alpha which I generally saw recommendations to set it to the network rank and alpha of the model (and to not exceed 64). Not sure how easy it is to use with the UI frontends but here's what the commandline looks like for kohya-ss. As always any criticism is welcome on /hdg/ I've actually gotten some good feedback on there.

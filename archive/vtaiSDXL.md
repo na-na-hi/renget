@@ -16,6 +16,7 @@
 
 ### -> Base SDXL <-
 ***
+
 #### -> VHigh (Crypto) <-
 ***
 ##### -> Mayoi Nachi <-
@@ -88,6 +89,20 @@
 ##### -> (HoloForce) Tsunomaki Watame <-
 -> [Civitai](https://civitai.com/models/294722/tsunomaki-watame-sdxl-or-hololive) <-
 
+#### -> Nijisanji <-
+***
+##### -> (Mitarashi-dan) Tachitsute Toto <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	tachitsute toto, long hair, blonde hair, streaked hair, side ponytail, multicolored hair, green hair, green eyes,
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/IYInnDyB) <-
+
+##### -> (TTT) Victoria Brightshield <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	victoria brightshield, white hair, blue eyes, long hair, tassel, tassel hair ornament, double bun, (armored dress, black dress:1.2), gauntlet
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/IEgVVJTB) <-
+
 #### -> Phase Connect <-
 ***
 ##### -> (AliAS) Amanogawa Shiina <-
@@ -101,6 +116,13 @@
 !!! info Example Prompt
 	ayase yuu, medium hair, bangs, black shirt, jewelry, midriff, black pants, multicolored hair, cross earrings, hair over one eye, tattoo on stomach, breast pocket, belt, black coat, black footwear, uneven legwear, ear piercing
 -> [Catbox](https://files.catbox.moe/k3zx49.safetensors) <-
+
+##### -> (ALiAS) Chisaka Airi <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	chisakaairi, animal ears, multicolored hair, yellow eyes, long hair, hair ornament, large breasts, streaked hair, hairclip, two-tone hair, animal ear fluff, brown hair, white hair, red necktie, hair flower, necktie between breasts,
+-> [Catbox](https://files.catbox.moe/ve0buq.safetensors) <-
 
 ##### -> (InvadersGen 2) Ember Amane <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -138,6 +160,13 @@
 	jelly hoshiumi, antennae, bare shoulders, very long hair, dress, small breasts, blunt bangs, detached sleeves, star (symbol), thighhighs, garter straps, star hair ornament, yellow hairband, hair ornament, white gloves
 -> [Catbox](https://files.catbox.moe/6aaodr.safetensors) <-
 
+##### -> (KALEiDO) Kaminari Clara <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	clara, long hair, blue hair, blue eyes, rabbit ears, multicolored hair, medium breasts, hat, bare shoulders, streaked hair, wrist cuffs, side ponytail, playboy bunny, top hat, pantyhose, fake animal ears, white leotard, see through
+-> [Catbox](https://files.catbox.moe/s95lv3.safetensors) <-
+
 ##### -> (AliAS) Makina Erina <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
@@ -156,6 +185,13 @@
 	[TAG INFO](https://rentry.org/CCC_Loras#pipkin-pippa-xl-only)
 -> [Catbox](https://files.catbox.moe/wn15lq.safetensors) <-
 
+##### -> (KALEiDO) Runie Ruse <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	runieruse, long hair, jewelry, earrings, dress, purple eyes, black dress, pink hair, cleavage, bare shoulders, tiara, hair between eyes, black gloves
+-> [Catbox](https://files.catbox.moe/louey7.safetensors) <-
+
 #### -> Idol Corp <-
 ***
 ##### -> (Endless) Coni Confetti <-
@@ -163,6 +199,24 @@
 !!! info Example Prompt
 	coni confetti, facial mark, bangs, white leotard, small breasts, navel, torn leggins, twintails, collarbone, barefoot, teeth, nail polish, fangs, toeless legwear, red collar, heart ahoge, jacket
 -> [Catbox](https://files.catbox.moe/l3e8gr.safetensors) <-
+
+##### -> (Origin) Emi Suika <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(emisuika, long hair, black hair, two side up, hair bobbles, hairclip, red eyes, strawberry print, white choker, bare shoulders, white dress, red frills, stuffed toy, white legwear, white footwear)
+-> [Catbox](https://files.catbox.moe/kfg1mo.safetensors) <-
+
+##### -> (E-Sekai) Juna Unagi <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(junaunagi, long hair, brown hair, blonde streaked hair, multicolored hair, hair intakes, star hair ornament, mechanical horns, yellow eyes, black jacket, long sleeves, white leotard, cleavage cutout, white thighhighs, tail, white footwear)
+-> [Catbox](https://files.catbox.moe/i6kodb.safetensors) <-
+
+##### -> (Origin) Lily Sin <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(lilysin, long hair, black hair, red streaked hair, multicolored hair, twintails, orange eyes, pointy ears, halo, facial tattoo, demon girl, demon horns, demon tail, black shirt, detached sleeves, frills, wide sleeves, navel cutout, black skirt, low wings, bandaged leg, black thigh boots)
+-> [Catbox](https://files.catbox.moe/k009ku.safetensors) <-
 
 ##### -> (Endless) Roca Rourin <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -172,11 +226,31 @@
 
 #### -> V&U <-
 ***
+##### -> (Oracle) Meeta Osita <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(meetaosita, long hair, blonde hair, grey streaked hair, multicolored hair, braid, grey eyes, double buns, hair ribbon, witch hat, hat ribbon, black dress, frills, white bow, long sleeves, puffy sleeves, sleeves past fingers, black footwear)
+-> [Catbox](https://files.catbox.moe/4ohs7d.safetensors) <-
+
+##### -> (Oracle) Suri Solari <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(surisolari, long hair, blonde hair, messy hair, low twin braids, ahoge, hair ornament, blue eyes, pink eyes, heterochromia, dragon horns, dragon tail, black sleeveless dress, detached sleeves, long sleeves, red skirt, white thighhighs, black footwear)
+-> [Catbox](https://files.catbox.moe/w82tx0.safetensors) <-
+
 ##### -> (Symphoria) Yurikago Kokone <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	okone yurikago, long hair, bangs, large breasts, cleavage, jewelry, hair over one eye, dress, crescent, side slit, pelvic curtain, halo, ponytail, detached sleeves
 -> [Catbox](https://files.catbox.moe/f2ioht.safetensors) <-
+
+#### -> Tsunderia <-
+***
+##### -> (TsunQuest) Matsuro Meru <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(matsuromeru, short hair, pink hair, colored tips, horns, hair flaps, red eyes, blue headwear, envelope, serafuku, grey cardigan, long sleeves, white shirt, midriff, blue skirt, thigh strap, red bow, white legwear, brown footwear)
+-> [Catbox](https://files.catbox.moe/3xr25u.safetensors) <-
 
 #### -> Sedai One <-
 ***
@@ -197,6 +271,13 @@
 !!! info Example Prompt
 	(aononemo, long hair, purple hair, hair over one eye, blue eyes, earrings, witch hat, chain, blue cape, blue sleeveless dress, detached sleeves, long sleeves, wide sleeves, pelvic curtain, brown thighhighs, black boots)
 -> [Catbox](https://files.catbox.moe/0iyjx9.safetensors) <-
+
+##### -> (Gen1) Lily Endou <-
+!!! info Her single thighhigh single leg pantyhose combo sometimes dont work, sometimes do so.. eh
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(endoulily, long hair, blonde hair, blue streaked hair, twintails, hair intakes, hair ornament, red eyes, detached collar, bare shoulders, red bikini armor, strapless bikini, backless outfit, red elbow gloves, bracelet, red pantyhose, (single leg pantyhose, single thighhigh:1.3), yellow high heels)
+-> [Catbox](https://files.catbox.moe/vgyw6g.safetensors) <-
 
 #### -> Prism Project <-
 ***
@@ -246,6 +327,13 @@
 	(chiakikatsumi, long hair, blue hair, ahoge, two side up, hair ornament, pink eyes, fake animal ears, black highleg leotard, hood, hood down, white jacket, long sleeves, white belt, white shorts, white thighhighs, black footwear)
 -> [Catbox](https://files.catbox.moe/sy6s7y.safetensors) <-
 
+##### -> (PixelPlus) Lottie Shinju <-
+!!! info If you want her jacket, just add (white jacket, long sleeves, off shoulder) to the tags and remove (detached sleeves) from it
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(lottie, long hair, pink hair, axolotl girl, hair ornament, pink eyes, neck ribbon, bare shoulders, white dress, detached sleeves, black ribbon, tail, white footwear)
+-> [Catbox](https://files.catbox.moe/k1rmhq.safetensors) <-
+
 ##### -> (PixelPlus) Raki Kazuki <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -275,21 +363,101 @@ or
 	(elveira, long hair, white hair, single side braid, french braid, brown eyes, hair ornament, rabbit girl, rabbit ears, rabbit tail, bare shoulders, necklace, white shirt, detached sleeves, blue high-waist skirt, white single thighhigh, brown footwear)
 -> [Catbox](https://files.catbox.moe/y3r5tf.safetensors) <-
 
+##### -> Kirsche Verstahl <-
+!!! info Ear halo is RNG as fuck so you can remove it if needed. You can add (red lips) as a tag for the full experience If you care. If she starts having ribbons show up for her twintails, just add (hair ribbon) in the negatives
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(kirsche, long hair, white hair, twintails, cherry hair ornament, food-themed hair ornament, blue halo, blue eyes, eyeliner, fox ears, fox tail, white detached collar, blue necktie, white elbow gloves, frilled wristband, blue dress, blue back bow, lace trim, blue dress bow, white bow, frills, white thighhighs, blue footwear, high heels)
+-> [Catbox](https://files.catbox.moe/wn8ixk.safetensors) <-
+
+##### -> Mirea Sheltz <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	mireasheltz, long hair, white hair, side ponytail, hair ornament, hair flower, blue eyes, halterneck, blue dress, sleeveless dress, blue bow, blue bracelet, frills, bridal garter, blue footwear, medium breasts
+-> [Catbox](https://files.catbox.moe/jy41wq.safetensors) <-
+
 ##### -> Neuro-sama V2 + Evil Neuro + Vedal <-
 !!! info 2 Outfits for both neuro and evil neuro?
 -> [Civitai](https://civitai.com/models/276788/neuro-sama-and-evil-neuro-2-outfits-turtle) <-
 
+##### -> (Play-Asia) Obake Pam <-
+!!! info Base look likes to give her a (hair bun) atleast with my model, I would add that to the negatives if it appears for you too. 2 Outfits!!
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	Base: (obakepam, long hair, white hair, messy hair, ahoge, hair ornament, hairclip, blue eyes, obakehood, blue hoodie, long sleeves, no pants, blue footwear)
+	Princess: (obakepam, long hair, white hair, messy hair, ahoge, side ponytail, mini crown, hair ornament, hairclip, blue eyes, obakepri, bare shoulders, neck ribbon, blue fur-trimmed cape, blue dress, short detached sleeves, blue footwear)
+-> [Catbox](https://files.catbox.moe/ydp9az.safetensors) <-
+
+#### -> Misc <-
+***
+##### -> (Nerissa) Aradia Ravencroft <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	aradia ravencroft, black hair, colored inner hair, short hair, horns, pink eyes,
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/5U4UBQzT) <-
+
+##### -> (Nerissa) Mamarissa Ravencroft <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	mamarissa, black hair, braid, hair over one eye, red eyes, horns,
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/AIRRhbbC) <-
+
 ***
 ### -> PonyXL <-
 ***
+
 #### -> Hololive <-
 ***
 ##### -> Gawr Gura <-
 !!! info can do 3 outfits?
--> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/folder/Zf4nFKyJ) <-
+-> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/file/9fpjgDpS) <-
 ##### -> Hololive -Promise- <-
 !!! info Contains the entirety of promise? 
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ) <-
+##### -> Koseki Bijou <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	Koseki Bijou, long hair, tiara, white dress, long dress, detached sleeves, bare shoulders, bracelet,
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+##### -> Shiori Novella <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	Shiori Novella, medium hair, hair ornament, two-tone hair, black jacket, black dress, bare shoulders, choker, fur trim, off shoulder, open jacket, long sleeves,
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+##### -> Nerissa Ravencroft <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	Nerissa Ravencroft, long hair, mole under eye, large breasts, gloves, fur trim, bare shoulders, white shirt, dress, long sleeves, shoulder cutout, detached sleeves,
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+##### -> Fuwawa Abyssgard <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	Fuwawa Abyssgard, pink eyes, long hair, large breasts, blue hairband, hairpin, collar, white dress, cleavage, black jacket, belt, fur trim,
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
+##### -> Mococo Abyssgard <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	Mococo Abyssgard, blue eyes, medium hair, small breasts, pink hairband, hairpin, x hair ornament, collar, white crop top, black cropped jacket, white shorts, belt, fur trim
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
+
+#### -> Nijisanji <-
+***
+##### -> (Sanbaka) Inui Toko <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	black hair, low twintails, long hair, dog ears, heterochromia, dog tail, red flower, choker, medium breasts, maid headdress, japanese clothes, sash, obi, black kimono, wa maid, waist apron, long sleeves, wide sleeves, frills,
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/0vVznBrD) <-
+##### -> (Sanbaka) Ange Katrina <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	ange katrina, red hair, short hair, black coat, off shoulder, long sleeves, character name, shirt, cardigan, white skirt
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/0vVznBrD) <-
+##### -> (Sanbaka) Lize Helesta <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	lize hestia, long hair, white hair, purple eyes, hair ornament, colored inner hair, white shirt, miniskirt, pleated skirt, blue skirt, white jacket, long sleeves, armband, blue thighhighs, white knee boots, thigh strap, thighhighs under boots,
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/0vVznBrD) <-
 
 #### -> Phase Connect <-
 ***

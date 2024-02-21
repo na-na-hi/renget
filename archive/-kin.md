@@ -27,7 +27,7 @@
  [Yo](https://killing-stalking.fandom.com/wiki/Yoon_Bum)on Bum • [Te](https://deathnote.fandom.com/wiki/Teru_Mikami)ru Mikami • [Pe](https://steven-universe.fandom.com/wiki/Pearl)arl • [Ko](https://komisan.fandom.com/wiki/Komi_Shouko)mi Shouko
 [Sp](https://steven-universe.fandom.com/wiki/Spinel)inel • [Ha](https://batman.fandom.com/wiki/Harley_Quinn)rley Quinn • [An](https://chainsaw-man.fandom.com/wiki/Angel_Devil)gel Devil • [Ko](https://danganronpa.fandom.com/wiki/Korekiyo_Shinguji)rekiyo Shinguji <-
 
--> ![](https://massacre.crd.co/assets/images/gallery02/86c2821c.gif?v=40f90844) [**FI**](https://otherkin.fandom.com/wiki/Fictionflicker)**CTION-FLICKER** ☆ 
+-> ![](https://massacre.crd.co/assets/images/gallery01/5e44fb74.gif?v=d2152c17) [**FI**](https://otherkin.fandom.com/wiki/Fictionflicker)**CTION-FLICKER** ☆ 
 [We](https://jojowiki.com/Wekapipo)kapipo • [Ak](https://jojowiki.com/Akira_Otoishi)ira Otoishi • [Jo](https://jojowiki.com/Josuke_Higashikata)suke Higashikata • [Pr](https://jojowiki.com/Prosciutto)osciutto
 [Ka](https://yakuza.fandom.com/wiki/Kazuma_Kiryu)zuma Kiryu • [Te](https://kimetsu-no-yaiba.fandom.com/wiki/Tengen_Uzui)ngen Uzui • [Yu](https://jojowiki.com/Yuya_Fungami)ya Fungami • [Fu](https://jojowiki.com/Funny_Valentine)nny Valentine  <-
 
