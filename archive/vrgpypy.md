@@ -205,6 +205,6 @@ Monday Session
 
 #### Copypasta
 
-EU PyPy today at 17:00 UTC, that's in about 2h, I'll drop a link to the world few minutes before starting, vids are in the link, see you dancing!
+EU PyPy today at 18:00 UTC, that's in about 2h, I'll drop a link to the world few minutes before starting, vids are in the link, see you dancing!
 
 https://rentry.org/vrgpypy

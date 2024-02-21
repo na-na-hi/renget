@@ -107,6 +107,8 @@ Regular|Special|Reg range|Spec range
 - [1.0 text comparisons](https://docs.google.com/spreadsheets/d/1xOzCKtzvVz-Ex8WXeqjq7B3LmRDPKP6D3gd_hE6RG-U/edit)
 
 ##Patch notes & News
+[DLC Gameplay Reveal Trailer](https://www.youtube.com/watch?v=qLZenOn7WUo)
+Miyazaki interviews: [Famitsu](https://www.famitsu.com/news/202402/22335199.html) - [Eurogamer](https://www.eurogamer.net/elden-ring-shadow-of-the-erdtree-is-fromsoftwares-largest-expansion-ever) - [IGN](https://www.ign.com/articles/hidetaka-miyazaki-elden-ring-shadow-of-the-erdtree-interview)
 [App Ver. 1.10.1 Regulation Ver. 1.10](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-1101)
 [DLC possibly coming out in February 2024](https://www.reddit.com/r/GamingLeaksAndRumours/comments/18ivr60/a_page_for_elden_ring_x_thrustmaster_collab)
 [App Ver. 1.10 Regulation Ver. 1.10](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-patch-notes-version-110)

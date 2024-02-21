@@ -2,8 +2,9 @@
 !!! note Updated as of patch 3.22
 !!! warning Page still in WIP
 ***
-!!! danger I want to set your expectations going forward here; this game is by no means anywhere near complete. CIG and their database vendor have been struggling since the introduction of the [Persistent Entity Streaming](https://starcitizen.tools/Persistent_Entity_Streaming) backend technology in patch 3.18, making server performance much worse along with many inventory issues. Take this into account while reading through the document.
-!!! note You can play Star Citizen on Linux. Check out the [lug-helper](https://github.com/starcitizen-lug/lug-helper), made by the [LUG](https://robertsspaceindustries.com/orgs/LUG) community. CIG has also expressed multiple times their intent to support Linux, starting with the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825).
+!!! note You can play Star Citizen on Linux. Check out the [lug-helper](https://github.com/starcitizen-lug/lug-helper), made by the [LUG](https://robertsspaceindustries.com/orgs/LUG) community. CIG has also expressed multiple times their intent to further support the game on Linux, starting with the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825).
+!!! danger I want to set your expectations going forward here; this game is by no means anywhere near complete. CIG and their database vendor have been struggling since the introduction of the [Persistent Entity Streaming](https://starcitizen.tools/Persistent_Entity_Streaming) core technology in patch 3.18, making server performance much worse along with many inventory issues. Take this into account while reading through the document.
+
 # About
 ->[Jump straight to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)<-
 
@@ -22,7 +23,7 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 
 [Introduction](https://rentry.org/guier/#introduction) | [Important to Know](https://rentry.org/guier/#important-to-know) | [Getting Started](https://rentry.org/guier/#getting-started)   | [Troubleshooting (WIP)](https://rentry.org/guier/#troubleshooting)
 :----: | :----: | :----: | :----: 
-**[What is Star Citizen/SQ42?](https://rentry.org/guier/#what-is-star-citizensq42)** | **[Star Citizens Gameplay Performance](https://rentry.org/guier/#star-citizens-gameplay-performance)** | **[Which Starter Pack Should I Choose?](https://rentry.org/guier/#which-starter-pack-should-i-choose)** 
+**[What Is Star Citizen/Squadron42?](https://rentry.org/guier/#what-is-star-citizensquadron-42)** | **[Star Citizens Gameplay Performance](https://rentry.org/guier/#star-citizens-gameplay-performance)** | **[Which Starter Pack Should I Choose?](https://rentry.org/guier/#which-starter-pack-should-i-choose)** 
 **[What is there to do in-game?](https://rentry.org/guier/#what-is-there-to-do-in-game)** | **[Pledge Store Overview & FAQ(WIP)](https://rentry.org/guier/#pledge-store-overview-faqwip)** | **[The In-Game Tutorial](https://rentry.org/guier/#the-in-game-tutorial)** | 
 **[Should I consider playing the game?](https://rentry.org/guier/#should-i-consider-playing-the-game)** | **[The Many Different Testing Environments](https://rentry.org/guier/#the-many-different-testing-environments)** | **[Best Way To Start Making Money?(WIP)](https://rentry.org/guier/#best-way-to-start-making-moneywip)** 
 **[Freefly Events](https://rentry.org/guier/#freefly-events)**  | **[The Public Roadmap](https://rentry.org/guier/#the-public-roadmap)** | **[Upgrading Your Ship](https://rentry.org/guier/#upgrading-your-ship)** 
@@ -39,7 +40,7 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 ## ->Introduction<-
 !!! info If you don't care for an introduction, I recommend you jump straight to the [Important to Know](https://rentry.org/guier/#important-to-know) section
 
-**->[What Is Star Citizen/SQ42?](https://rentry.org/guier/#what-is-star-citizensq42)<-
+**->[What Is Star Citizen/Squadron42?](https://rentry.org/guier/#what-is-star-citizensquadron-42)<-
 ->[What is there to do in-game?](https://rentry.org/guier/#what-is-there-to-do-in-game)<-
 ->[Should I Consider Playing the Game?](https://rentry.org/guier/#should-i-consider-playing-the-game)<-
 ->[Freefly Events](https://rentry.org/guier/#freefly-events)<-**
@@ -47,7 +48,7 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 **[Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)**
 ***
 ***
-####->What Is Star Citizen/SQ42?<-
+####->What Is Star Citizen/Squadron 42?<-
 
 Star Citizen is an ambitious kickstarter videogame project  that consists of an MMO and singleplayer space opera built on a fork of the CryEngine, now officially dubbed StarEngine, first announced on October 10th, 2012 at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the project to their own website, where it continues fundraising today primarily through ship sales—or "pledges," if you will.
 
@@ -402,14 +403,13 @@ In your report, it is also recommended to have video recordings (preferably) or 
 When deciding on buying a game pack, you should take into consideration:
 >How much you are willing to spend? 
 >What you want to do in the game?
->Does the starter ship you might pick accommodate the gameplay loops you are interested in?
 Or, just get what you think looks cool; that simple.
 
-**Each starter pack will include:**
+**Each starter pack currently includes:**
 
 ->![starter pack](https://files.catbox.moe/3wlklo.png)<-
 
-- [X] **Self Land Hangar** - This was part of a module now removed from the game. Before the Persistent Universe, we only had an instanced hanger that allowed us to walk around and interact with the ships we bought, but that was neglected to the point of being unusable and CIG eventually retired the module in patch 3.13.1.
+- [X] **Self Land Hangar** - This was part of a module now removed from the game. Before the Persistent Universe, we only had an instanced hanger that allowed us to walk around and interact with the ships we bought, but that was neglected to the point of being unusable and CIG eventually retired the module in patch 3.13.1. 
 
 - [X] **Insurance** - Insurance does not matter and wont until the game is out of beta.
 

@@ -60,7 +60,7 @@
 ![bipolar smile/frown symbol](https://i.postimg.cc/Sxjpygcx/bipolar.png)
 
 [**BPD**](https://en.wikipedia.org/wiki/Borderline_personality_disorder)
-![bpd flag 1](https://i.postimg.cc/13Ggs5SH/bpdflag1.png) ![bpd flag 2](https://i.postimg.cc/qMChDxZW/bpdflag2.png)
+![bpd flag 1](https://i.postimg.cc/13Ggs5SH/bpdflag1.png) ![bpd flag 2 with symbol](https://i.postimg.cc/qMChDxZW/bpdflag2.png) ![bpd flag 2 without symbol](https://i.postimg.cc/C5yNdyPS/bpdf2.png)
 
 [**NPD**](https://en.wikipedia.org/wiki/Narcissistic_personality_disorder)
 ![npd flag](https://i.postimg.cc/50RynX5x/npd.png)

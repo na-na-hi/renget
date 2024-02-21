@@ -1,3 +1,7 @@
+>THE interview
+https://files.catbox.moe/il9qbm.mp4 (part 1)
+https://files.catbox.moe/z13j9y.mp4 (part 2)
+https://files.catbox.moe/8exmyb.mp4 (after interview)
 >Krinky hohol free now
 https://files.catbox.moe/of1llo.mp4
 >Messed up hoholina being evacuated from Avdeevka (NOT COMFY)

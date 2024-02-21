@@ -19,5 +19,8 @@ https://rentry.org/diomedes-inventory
 >Shop
 https://rentry.org/incarnation-shop
 
+>Character List
+https://rentry.org/olympus-cast
+
 >General Info
 https://rentry.org/incarnation-infodump

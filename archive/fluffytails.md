@@ -7,19 +7,17 @@
 -> ~~just tell me in the threads~~ <-
 -> send an e-mail to bigfluffytails@proton.me. don't be shy. <-
 ***
--> ==Latest Update 2/14/24== <-
+-> ==Latest Update 2/21/24== <-
+-> *Added to Male: Kheti* <-
+-> *Added to Female: Ahri, Fox Tawā, Hanako, Haruka.exe (Black Kimono), Haruka.exe (Blue Leotard), Hotaru.exe, Hotaru.exe (Lower Token Count), Hua Siniang • 'The Shining Star of China', Itet, Kin, Koharu, Medley, Melissa, Minami, Octavia, Sophia, Takao Kischou, Takao Mokou* <-
+
+-> ==Previous Update 2/14/24== <-
 -> Slowly reviving the Rentry. <-
 -> *Added to Male: Yamamoto Houjou* <-
 -> *Added to Female: Focks, Desune, Mikage, Shinatsu, Philo, Ellie, Yozakurahime, Eloise, Lucia, Jo'on Kazama, Kiyomi Mishima, Nier.EXE (NetBattle), Yamamoto Kirisu* <-
 
--> ==Previous Update 1/02/24== <-
--> Moved Rentry. <-
--> *Added to Male: Botan, Sorin, Zeno, Luke, and Bobby* <-
--> *Added to Female: Elizabeth, Anzu, Aki, Koto, Yugure, Kio, Akiko, Kon-Kon, Viola, Mitsuru, Hanako, Ina, Irohana-tei, Saskya, Nier.EXE, Goddess Shuuen, Konomi, Monoko & Miho Ueno, Masae, Naoko, Mikono, NetNavi Manna, Sayuri, Fiera, Ayla, Vivian, and Xenia* <-
-
 ## -> Female <-
 
-***
 ### Original Characters
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
@@ -84,23 +82,36 @@ Character  |  Preview  |  Description  |  Links
 **Kiyomi Mishima** | ![Kiyomi Mishima](https://files.catbox.moe/cjtpfk.png) | Update: Added a lorebook. Not very crucial, but it should add some spice. Based on Tekken's Heihachi Mishima. Based on TEKKEN in general. A rough and violent kitsune that will actually just kill you. Greetings 1-5 are TEKKEN 2-6. Greeting 6 is coom. Greeting 7 is TEKKEN Bowl. Here are some [alt gens](https://catbox.moe/c/4evdh9). | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/ihkeh2.png)
 **Nier.EXE (NetBattle)** | ![Nier.EXE (NetBattle)](https://files.catbox.moe/wiejqg.png) | Face off against the number one Netbattler duo: The fearsome Red Reaper and her NetOp - Lobelia. | [CHUB](https://www.chub.ai/characters/claraimouto/nier-exe-netbattle-5dcdb424) [CATBOX](https://files.catbox.moe/b2irpv.png)
 **Yamamoto Kirisu** | ![Yamamoto Kirisu](https://files.catbox.moe/lkgb66.png) | Jaded kitsune with no tails. Set in the Sengoku period and features four greetings. | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/0ocn4t.png)
-
-
+**Fox Tawa** | ![Fox Tawa](https://files.catbox.moe/zuwg0e.png) | Gather your party of foxgirls. Explore the mystic town of Shaft, it's seedy underbelly and the jungle surrounding it. Scale the Tower of Seven Old Balls. Gather loot and reach the top to defeat Dark Lord Testicus Contortus. Perilous journeys and Heroic Adventures await! A very basic adventure card with only foxgirls. Don't feel pressured to actually do the tower. There's plenty of side quests to do around the town. | [CATBOX](https://files.catbox.moe/7wy62w.png)
+**Hanako** | ![Hanako](https://files.catbox.moe/t0uw7z.png) | Meet Hanako, an 12,000-year-old kitsune GILF you do chores for as her new caretaker. While it looks like a normal job on the surface, she has more than simple tasks in mind for you. She's a tease, but she's quickly receptive to your sexual advances if you're slick and forward with her. [Comfy theme song.](https://www.youtube.com/watch?v=rJ90ljliEzU) | [CATBOX](https://files.catbox.moe/n9j7tr.png)
+**Haruka.exe (Black Kimono)** | ![Haruka.exe (Black Kimono)](https://files.catbox.moe/xfugoc.png) | Your rough 'n tumble kitsune NetNavi. She loves fighting and she loves you. | [CHUB](https://chub.ai/characters/victrex/netnavi-haruka-exe-black-kimono-cdd188c8) [CATBOX](https://files.catbox.moe/3a58i8.png)
+**Haruka.exe (Blue Leotard)** | ![Haruka.exe (Blue Leotard)](https://files.catbox.moe/5cwy47.png) | Your rough 'n tumble kitsune NetNavi. She loves fighting and she loves you. | [CHUB](https://chub.ai/characters/victrex/netnavi-haruka-exe-blue-leotard-c6629cec) [CATBOX](https://files.catbox.moe/pjlgju.png)
+**Hotaru.exe (Lower Token Count)** | ![Hotaru.exe (Lower Token Count)](https://files.catbox.moe/wx1mg5.png) | A Mommy focks NetNavi who dotes on you and is probably possessive of her cute NetOp: You. Lower Token Count without the Netbattling fluff. | [CHUB](https://chub.ai/characters/vidicus/hotaru-exe-lower-token-count-2207c576) [CATBOX](https://files.catbox.moe/wu1d4o.png)
+**Hotaru.exe** | ![Hotaru.exe](https://files.catbox.moe/wx1mg5.png) | A Mommy focks NetNavi who dotes on you and is probably possessive of her cute NetOp: You. | [CHUB](https://chub.ai/characters/vidicus/hotaru-exe-366dece6) [CATBOX](https://files.catbox.moe/gj0mfd.png)
+**Hua Siniang • 'The Shining Star of China'** | ![Hua Siniang • 'The Shining Star of China'](https://files.catbox.moe/yfn0on.png) | Very rapeable evil fox for you to correct. Spend a day in Heaven with Hua Siniang and see if you can emerge without becoming fishfood. Though, that's probably a fate better than actually living in China. | [CATBOX](https://files.catbox.moe/wcrsvf.png)
+**Itet** | ![Itet](https://files.catbox.moe/91g4wr.png) | The foxgirl Pharaoh of Ancient Egypt. [Alternative Art.](https://catbox.moe/c/puvdfv) | [CHUB](https://chub.ai/characters/victrex/pharaoh-itet-6ae04d1d) [CATBOX](https://files.catbox.moe/avtiet.png)
+**Kin** | ![Kin](https://files.catbox.moe/wfv10a.png) | Bitchy foxgirl accidentally locked herself in a shed with (you). Tsuntsun. | [CHUB](https://www.chub.ai/characters/scriptanon/kin-9df754ae) [CATBOX](https://files.catbox.moe/gojkio.png)
+**Koharu** | ![Koharu](https://files.catbox.moe/z3xxdh.png) | Nin nin! This kitsune shinobi is at your service! [Alternative Art.](https://files.catbox.moe/yp427t.zip) (download link) | [CHUB](https://chub.ai/characters/CUMSLURPER/koharu-64c29019) [CATBOX](https://files.catbox.moe/526he9.png)
+**Medley** | ![Medley](https://files.catbox.moe/b8exfl.png) | Traveling foxgirl alchemist in a makeshift caravan. Buy something, will you? 8 greetings and character gallery. Designed for SillyTavern. [Alternative Art.](https://files.catbox.moe/vumrxv.7z) (download link) | [CHUB](https://chub.ai/characters/spambot/medley-92241a49) [RENTRY](https://rentry.co/spambot) [CATBOX](https://files.catbox.moe/l0q8og.png)
+**Melissa** | ![Melissa](https://files.catbox.moe/d1096v.png) | A super sweet, 6ft 3in tall motherly foxgirl that finds you unconscious on her mountain in a snow storm. | [CHUB](https://chub.ai/characters/totalethicistdeath/melissa-b74c32cd) [CATBOX](https://files.catbox.moe/f9dejw.png)
+**Minami** | ![Minami](https://files.catbox.moe/owo24q.png) | She'll tease you and pamper you. Gyaru. | [CHUB](https://chub.ai/characters/victrex/gyaru-kitsune-minami-14060717) [CATBOX](https://files.catbox.moe/7fghx2.png)
+**Octavia** | ![Octavia](https://files.catbox.moe/i8x1qt.png) | Your Wife is the President of the United States of America, but the government is more cartoonishly evil than usual. Give your wife some TLC and help her out. [Alternative Art.](https://catbox.moe/c/4qifxa) | [CHUB](https://chub.ai/characters/vidicus/octavia-7efbc41c) [CATBOX](https://files.catbox.moe/5cm5dz.png)
+**Sophia** | ![Sophia](https://files.catbox.moe/po1nn1.png) | Pretty much a comfy pandering card. Sophia is your nine-tailed kitsune wife. She is very loving and affectionate, considering she likes to pamper you and whatnot. She also wants to have your pups. Give her your pups. | [CHUB](https://chub.ai/characters/victrex/your-fox-wife-sophia-953a1c3f) [CATBOX](https://files.catbox.moe/impj28.png)
+**Takao Kischou** | ![Takao Kischou](https://files.catbox.moe/3we1m7.png) | Takao Kischou is a stern foxgirl with a soft side. She's a thousand years old and is your superior in the office. She also manages a shrine in her free time and has a bush. | [CATBOX](https://files.catbox.moe/35e87z.png)
+**Takao Mokou** | ![Takao Mokou](https://files.catbox.moe/a4hj14.png) | a high school girl but she has fox ears and a tail. made because of high demand. | [CATBOX](https://files.catbox.moe/uv5z7g.png)
 
 ### Existing Characters
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
 **Tamamo-no-Mae** | ![Tamamo-no-Mae](https://files.catbox.moe/n12bvp.png) | Caster-class Servant and magical fox girl from Fate/EXTRA. The legendary spirit that you summoned is probably going to act like your wife whether you want her to or not. | [CHUB](https://chub.ai/characters/NetCables/Tamamo-no-Mae) [CATBOX](https://files.catbox.moe/g6jdrt.png) 
-**Ran Yakumo** | ![Ran Yakumo](https://files.catbox.moe/hmujda.png) | A remarkable kitsune shikigami created by Yukari Yakumo. Her love for tofu and math is only second to the fluffiness of her nine tails. | [CHUB](https://chub.ai/characters/LizakJaye/ran-yakumo-c8724918) [CATBOX (V2)](https://files.catbox.moe/k718ik.png) 
-**Kudamaki Tsukasa** | ![Kudamaki Tsukasa](https://files.catbox.moe/uneyxp.png) | "What secrets stir within your troubled heart? No desire is too dark, no urge too twisted." | [CHUB](https://chub.ai/characters/AeN3mo/kudamaki-tsukasa) [CATBOX](https://files.catbox.moe/d9pz1p.png) 
-**Senko** | ![Senko](https://files.catbox.moe/1p46gg.png) | Let your troubles melt away as this ancient kitsune pampers you. | [CHUB](https://chub.ai/characters/hebelover/Senko) [CATBOX](https://files.catbox.moe/g7bif5.png) 
-**Tamamo** | ![Tamamo](https://files.catbox.moe/hgfef9.png) | You met Tamamo at the Kitsune Temple in Yamatai Village, wanting to know her "evil plans"... But then something went wrong. [Includes Lorebook.](https://chub.ai/lorebooks/thecentuaro/f2e98902-6cc3-4af7-8769-564fbac526ac) | [CHUB](https://chub.ai/characters/thecentuaro/Tamamo) [CATBOX](https://files.catbox.moe/2ngloa.png) 
-
-***
+**Ran Yakumo** | ![Ran Yakumo](https://files.catbox.moe/hmujda.png) | From Touhou Project. A remarkable kitsune shikigami created by Yukari Yakumo. Her love for tofu and math is only second to the fluffiness of her nine tails. | [CHUB](https://chub.ai/characters/LizakJaye/ran-yakumo-c8724918) [CATBOX (V2)](https://files.catbox.moe/k718ik.png) 
+**Kudamaki Tsukasa** | ![Kudamaki Tsukasa](https://files.catbox.moe/uneyxp.png) | From Touhou Project. "What secrets stir within your troubled heart? No desire is too dark, no urge too twisted." | [CHUB](https://chub.ai/characters/AeN3mo/kudamaki-tsukasa) [CATBOX](https://files.catbox.moe/d9pz1p.png) 
+**Senko** | ![Senko](https://files.catbox.moe/1p46gg.png) | From Sewayaki Kitsune no Senko-san. Let your troubles melt away as this ancient kitsune pampers you. | [CHUB](https://chub.ai/characters/hebelover/Senko) [CATBOX](https://files.catbox.moe/g7bif5.png) 
+**Tamamo** | ![Tamamo](https://files.catbox.moe/hgfef9.png) | From Monster Girl Quest. You met Tamamo at the Kitsune Temple in Yamatai Village, wanting to know her "evil plans"... But then something went wrong.  [Includes Lorebook.](https://chub.ai/lorebooks/thecentuaro/f2e98902-6cc3-4af7-8769-564fbac526ac) | [CHUB](https://chub.ai/characters/thecentuaro/Tamamo) [CATBOX](https://files.catbox.moe/2ngloa.png) 
+**Ahri** | ![Ahri](https://files.catbox.moe/b6d4wg.png) | From League of Legends. A Wandering Vastaya. | [CHUB](https://chub.ai/characters/runeterranon/ahri-84c041f5) [CATBOX](https://files.catbox.moe/m64a4d.png)
 
 ## -> Male <-
 
-***
 !!! warning we need more male kitsune cards. get to work. 
 Character  |  Preview  |  Description  |  Links
 :----------	 |  :--:  |  :------------  |  :--:  
@@ -113,12 +124,11 @@ Character  |  Preview  |  Description  |  Links
 **Luke** | ![Luke](https://files.catbox.moe/mdl1j1.png) | Supportive foxbro who partied too hard. Luke woke up in his late 20s and wondered where it all went wrong. Trying to get his life back on track while looking out for his younger sibling, (you). Falls down, but gets back up. Usually. | [CHUB](https://chub.ai/characters/chefseru/luke-5fcda9f6) [CATBOX](https://files.catbox.moe/ynk0pr.png) 
 **Bobby** | ![Bobby](https://files.catbox.moe/b2w1ur.png) | Meet Bobby, a small yet brave and prideful fox boy with a gambling addiction. He finds it difficult to trust anyone because he believes that anyone being nice to him wants to trick him. As a result, he only has a few friends. Though he feels lonely, Bobby, being the stubborn fox boy that he is, refuses to admit it. He works for the mafia to help satisfy his gambling addiction and is a member of the "Fast Foxes." Bobby has an older sister named Viola, who is one of the leaders of the Fast Foxes. He fears that Viola may discover his gambling addiction. | [CHUB](https://chub.ai/characters/Nono/Bobby) [CATBOX](https://files.catbox.moe/wyytds.png)
 **Yamamoto Houjou** | ![Yamamoto Houjou](https://files.catbox.moe/wozhi8.png) | Jaded kitsune with no tails. Set in the Sengoku period and features four greetings. | [RENTRY (NSFW)](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/l8wsu5.png)
-
-***
+**Kheti** | ![Kheti](https://files.catbox.moe/9ngct8.png) | The foxboy Pharaoh of Ancient Egypt. [Alternative Art.](https://catbox.moe/c/puvdfv) | [CHUB](https://chub.ai/characters/victrex/pharaoh-kheti-0a3aea84) [CATBOX](https://files.catbox.moe/7meeqv.png)
 
 ## -> Other  <-
 
-***
-
 -> This Rentry's format is stolen from the seemingly-abandoned https://rentry.org/lovefoxes. <-
 -> There is no definitive quality control on this Rentry. <-
+***
+-> [![ran! ran! ran! ran love!](https://files.catbox.moe/rlqomn.png)](https://www.youtube.com/watch?v=ewGbGpEp-dM) <-

@@ -10,14 +10,14 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 **Species:** Mienfoo | **Affiliation:** Team Stardust
 **Level:** 13 | **Experience to Next Level:** 15/130
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 1,318 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 808 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
 ->Rookie Rank<-
-->*395/400 points to Normal Rank*<-
+->*495/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
@@ -72,7 +72,7 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Attribute:  **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: None Tier  **ɪɪ** | Tier **ɪ** (+1 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯
+Currently Training for Stat: Attack Tier  **ɪ** | Tier **ɪ** (+1 STAT) | 3/9 | ▮▮▮▯▯▯▯▯▯
 Stat: Defense **ɪɪ** | Tier **ɪɪ** (+2 Def) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**

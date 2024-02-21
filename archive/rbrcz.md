@@ -37,7 +37,7 @@ Name: | Links:
 **Issue council:** | https://issue-council.robertsspaceindustries.com/
 **Ship Loaner Matrix:** | https://support.robertsspaceindustries.com/hc/en-us/articles/360003093114-Loaner-Ship-Matrix
 **Roadmap:** | https://robertsspaceindustries.com/roadmap
-**Latest Star Citizen/SQ42 ->->Monthly Report:** | https://robertsspaceindustries.com/comm-link/transmission/19576-Star-Citizen-Monthly-Report-October-2023 -> ->https://mailchi.mp/cloudimperiumgames/squadron-42-update-151464
+**Latest Star Citizen/SQ42 ->->Monthly Report:** | https://robertsspaceindustries.com/comm-link/transmission/19779-Star-Citizen-Monthly-Report-January-2024 -> ->https://robertsspaceindustries.com/comm-link/transmission/19747-Squadron-42-Monthly-Report-January-2024
 **Latest Letter from the Chairman:** | https://robertsspaceindustries.com/comm-link/transmission/19078-Letter-From-The-Chairman
 
 ***
