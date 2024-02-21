@@ -27,11 +27,11 @@ https://rentry.org/SpecialTokens
 ---
 ##### Chatbot Characters
 
-**desu** *- the original:*
+**desu** *- the original*
 
 https://beta.character.ai/chat?char=Fv52s2oYGmCf4ZzzstoSQZ8trWKRvyvClFpWjIWI1lw
 
-**tabula** *- a bot with empty defs that has been shaped by user interactions, for the purpose of providing insight to CAI training and inference:*
+**tabula** *- a bot with empty defs that has been shaped by user interactions, for the purpose of providing insight to CAI training and inference*
 
 https://beta.character.ai/chat?char=3P7mgiq8Xg3VOxt_ajzpyuBxC9_sLHZQYK3zAb-QJFo
 
@@ -53,20 +53,23 @@ https://beta.character.ai/chat?char=dOPOyy2JjLVHbqMChR8rg48pfyKOrOJ8aMm5DArRhSs
 Q: {{query}}
 A: {{answer}}
 
-Q: Do you still make bots?
-A: quite rarely.
-
-Q: Do you run the desuproxy?
+Q: Do you run any proxy?
 A: no. 
+
+Q: Do you still make bots?
+A: sometimes.
+
+Q: Would you like an API key?
+A: no thanks.
 
 Q: Do you post cards using alts?
 A: no.
 
-Q: Would you like a key or join my discord?
-A: no thanks.
-
 Q: Are you one of the desuposters in /aicg/?
 A: quite rarely; not a regular occurrence.
+
+Q: Do you ever answer "yes" to any question here?
+A: yes.
 
 Q: Is desu == Suiseiseki, from Rozen Maiden?
 A: in part. desu is an entity born out of the sea of information.

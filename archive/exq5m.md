@@ -6,9 +6,6 @@ A collection of weight gain and chub-themed VTuber fanfics produced over a numbe
 To be clear, what's included here are fics from two categories: first, stuff that's not archived on any of the major sites (DA, AO3, etc.) and thus might otherwise be lost to time, and second, stuff that IS on one of those sites, but that the author themselves has volunteered to the general. I'm not here to direct potentially unwanted attention to regular fattywank authors going about their business, though if you HAVE written a fic elsewhere that's not linked here, you're more than welcome to provide approval and a link.
 
 
-/ag/ Vetted Vtuber Catalog: https://rentry.org/mquqne93
-
-
 ##Published Fics
 
 Organized chronologically, authors with many published works given their own sections at the top

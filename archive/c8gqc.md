@@ -11,8 +11,7 @@
 *Hall of Fame*
 • Tangzu Wan'er S.G (mild V) - $20
 • 7Hz x Crinacle Zero: 2 (bassy neutral) - $25
-• EPZ G10 (Harman) - $35
-• TRN Conch (bright V) - $35
+• EPZ Q1 Pro (Harman) - $35
 • Truthear Hexa (neutral) - $80
 • Simgot EA500LM (bright V) - $90
 
@@ -20,24 +19,26 @@
 • KBEAR Rosefinch (very bassy) - $20
 • Moondrop Chu II (V-shape) - $20
 • QKZ x HBB (bassy) - $20
+• TRN Orca (V-shape) - $20
 • Kinera Celest Wyvern Pro (Harman) - $30
 • Tinhifi C2 (bright V) - $30
 • BLON x HBB Z300 (bassy) - $35
-• EPZ Q1 Pro (Harman) - $35
+• EPZ G10 (Harman) - $35
 • Kiwi Ears Cadenza (bassy neutral) - $35
+• TRN Conch (bright V) - $35
 • Moondrop Lan (neutral) - $40
 • Simgot EW200 (Harman) - $40
 • EPZ Q5 (bright V) - $50
 • Juzear Clear (bassy V) - $50
 • TKZK Ouranos (mild V) - $55
-• Truthear x Crinacle Zero: Red (Harman) - $55
+• Truthear x Crinacle Zero: Red (bassy neutral) - $55
 • EPZ x Tipsy Star & One (Harman) - $60
 • TRN ST5 (W-shape) - $60
 • Artti T10 (mild V) - $70
 • Floaudio Bluelover (bassy neutral) - $70 
 • Artti R1 (warm V) - $80
 • Kiwi Ears Melody (warm V) - $90
-• Moondrop Aria 2 (bassy neutral) - $90
+• Moondrop Aria 2 (warm neutral) - $90
 • Tangzu Fudu Verse 1 (bassy W) - $90
 • EPZ K5 (bright neutral) - $100
 • NiceHCK F1 Pro (W-shape) - $100
@@ -47,8 +48,8 @@
 ***
 *Hall of Fame*
 • Simgot EM6L (V-shape) - $110
+• Truthear Nova (Harman) - $150
 • Juzear 41T / Flame (neutral) - $165
-• Letshuoer S12 Pro (V-shape) - $170
 • Tanchjim Kara (bassy neutral) - $180
 
 *Honorable Mentions*
@@ -58,11 +59,12 @@
 • Letshuoer D13 (W-shape) - $120
 • Tinhifi T4 Plus (bright V) - $120
 • Kinera Celest Phoenixcall (V-shape) - $130
-• Truthear Nova (Harman) - $150
+• Tinhifi P1 Max (warm neutral) - $130
 • Hidizs MP145 (bassy neutral) - $160
+• Letshuoer S12 Pro (V-shape) - $170
 • Tanchjim Hana (mild V) - $180
-• Tinhifi P1 Max (warm neutral) - $180
 • Moondrop Kato (warm neutral) - $190
+• Pula PA02 (neutral) - $190
 • Binary Acoustics x Gizaudio Chopin (Harman) - $200
 • Geek Wold GK100 (bright V) - $200
 • Hisenior T4 (neutral) - $200
@@ -81,12 +83,12 @@
 *Honorable Mentions*
 • Simgot EA1000 Fermat (bright neutral) - $220
 • Tanchjim Oxygen (mild V) - $230
-• BQEYZ Wind (bright W) - $240
 • Dunu Falcon Ultra (warm neutral) - $240
 • Hisenior Mega5P Ultra (bassy neutral) - $240
 • JQ 4U Pro (bassy neutral) - $240
 • Kiwi Ears Orchestra Lite (neutral) - $250
-• Penon Fan 2 (warm dark) - $280
+• Tanchjim Origin (neutral) - $260
+• ZiiGaat Doscinco (bassy neutral) - $270
 • ISN Neo5 (bassy neutral) - $290
 • Hisenior Okavango (warm W) - $300
 • Moondrop Blessing3 (bright neutral) - $320
@@ -124,8 +126,10 @@
 ##Luxury IEMs ($1100 - $4500)
 ***
 • 64 Audio U4s (W-shape) - $1100
+• Kinera Verdandi (V-shape) - $1200
 • Nightjar Singularity (bassy) - $1300
 • Thieaudio Prestige LTD (Harman) - $1300
+• Dunu Glacier (V-shape) - $1350
 • Symphonium Crimson (bassy neutral) - $1500
 • Thieaudio V16 Divinity (Harman) - $1500
 • Unique Melody MEST MKII (bassy neutral) - $1500
@@ -245,6 +249,7 @@
 • Moondrop Dawn Pro - $50
 • Akliam PD4 Plus - $60
 • EPZ TP20 Pro - $60
+• Kiwi Ears Allegro - $60
 • Colorfly CDA-M1P - $80
 • FiiO KA13 - $80
 • Simgot DEW4X - $80

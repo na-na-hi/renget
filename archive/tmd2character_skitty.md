@@ -8,7 +8,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 11 | **Experience to Next Level:** 82/110
+**Level:** 11 | **Experience to Next Level:** 92/110
 **Worn Item:** *Sparkly Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 1630₽ | **Glorious Gold:** 0 Bars
 
@@ -83,7 +83,7 @@ Item Name | Description
 1. Poison-Type Gem | Holding this makes you feel acidic. Boosts a Poison-Type move's damage by 3.
 2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
 3. Empty | Empty.
-4. Acidic Seed | Causes Poison on consumption.
+4. Empty | Empty.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

@@ -76,10 +76,10 @@ Currently Training for Stat: Special Defense | 1 | 2/9 | ▮▮▯▯▯▯▯�
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+*Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Eye-Drop Seed | Never miss and gain +5 Perception Skill for 4 turns.
 2. Blast Seed | Explodes on contact for 10 true damage.
-3. Oran Berry | Heals the user for 10HP.
+3. Meteor rocks | Purpose unknown.
 4. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 
 **STORAGE (2 slots)**
@@ -95,7 +95,7 @@ Item Name | Description
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
-RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
+Quest Item | Mystery Dirt | Dirt taken from a Mystery Dungeon with similar properties to the one we woke up in.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**

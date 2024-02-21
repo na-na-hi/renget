@@ -36,6 +36,16 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 :------:|:------:|:------:|:------:
 ![](https://i.imgur.com/txXVPNT.png) | ![](https://i.imgur.com/44bk5c4.png) | ![](https://i.imgur.com/z3zpUFH.png) | ![](https://i.imgur.com/WP0mBOp.png)
 
+### [esearu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mNF3xLiS)
+*Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin
+:------:|:------:|:------:|:------:
+![](https://i.imgur.com/A89JAPO.png) | ![](https://i.imgur.com/BnJgHv7.png) | ![](https://i.imgur.com/YTR0chT.png) | ![](https://i.imgur.com/fnn78cj.png)
+
+### [kinhasu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7Y8HXC7B)
+*Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin
+:------:|:------:|:------:|:------:
+![](https://i.imgur.com/2T3dosK.png) | ![](https://i.imgur.com/7f5KQtj.png) | ![](https://i.imgur.com/iooeEQw.png) | ![](https://i.imgur.com/b8DdLPw.png)
+
 ### [mentei yakuna](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/aItU0AyB)
 *Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin
 :------:|:------:|:------:|:------:
@@ -70,6 +80,11 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 *Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin
 :------:|:------:|:------:|:------:
 ![](https://i.imgur.com/MfMbKZx.png) | ![](https://i.imgur.com/IUq4F0C.png) | ![](https://i.imgur.com/rrmhIjq.png) | ![](https://i.imgur.com/OSC89OF.png)
+
+### [toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3JUFXZzL)
+*Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin
+:------:|:------:|:------:|:------:
+![](https://i.imgur.com/n4dhAEr.png) | ![](https://i.imgur.com/nQOdFHd.png) | ![](https://i.imgur.com/Zsp7XJp.png) | ![](https://i.imgur.com/dXyEeNa.png)
 
 ### [waymay](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WBUSwJJZ)
 *Base* | iono (pokemon) | kagari atsuko, little witch academia | megumin

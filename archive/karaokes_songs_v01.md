@@ -31,7 +31,7 @@ The first original song is currently in the making, see [trailer](https://www.yo
 
 ||||
 |------|-----|-----|
-| [ -> ![](https://files.catbox.moe/xutpuv.jpg) <- -> Rebellion (1st Advent group orisong) <- ](https://www.youtube.com/watch?v=pYNYhSsR8EE) -> 3m48 <- | [ -> ![](https://files.catbox.moe/2t3pop.jpg) <- -> Halloween Night, Tonight! (English ver., 1st Advent group cover) <- ](https://www.youtube.com/watch?v=FqXrBy_FIU0) -> 3m45 <- | [ -> ![](https://files.catbox.moe/wuq1h8.webp) <- -> BABYMETAL - MEGITSUNE (2nd Advent group cover) <- ](https://www.youtube.com/watch?v=OffTXFgbn7A) -> 4m16 <-
+| [ -> ![](https://files.catbox.moe/xutpuv.jpg) <- -> Rebellion (Advent debut group orisong) <- ](https://www.youtube.com/watch?v=pYNYhSsR8EE) -> 3m48 <- | [ -> ![](https://files.catbox.moe/2t3pop.jpg) <- -> Halloween Night, Tonight! (English ver., Advent group cover) <- ](https://www.youtube.com/watch?v=FqXrBy_FIU0) -> 3m45 <- | [ -> ![](https://files.catbox.moe/wuq1h8.webp) <- -> BABYMETAL - MEGITSUNE (Advent group cover) <- ](https://www.youtube.com/watch?v=OffTXFgbn7A) -> 4m16 <-
 | [ -> ![](https://files.catbox.moe/in8rfy.webp) <- -> Gero - Mind Craft (HololiveEN Myth/Promise/Advent group cover) <- ](https://www.youtube.com/watch?v=OQuGEpICY2o) ->5m02 <- | [ -> ![](https://files.catbox.moe/b4347h.webp) <- -> VIVINOS - OTOMEROID (Jewelbird (Nerissa & Bijou) cover) <- ](https://www.youtube.com/watch?v=9aiuzVI35BQ) -> 1m45 <- 
 
 
@@ -39,8 +39,16 @@ The first original song is currently in the making, see [trailer](https://www.yo
 
 ---
 
-#### ![Image description](https://files.catbox.moe/f9inkg.png) Karaoke
-##### ![Image description](https://files.catbox.moe/f9inkg.png) General Karaoke
+#### ![](https://files.catbox.moe/f9inkg.png) Totsu-Karaoke
+||||
+|------|-----|-----|
+|  -> ![](https://files.catbox.moe/vz25ct.png) <-  -> Miki Matsubara - Mayonaka no Door (Stay with Me) <- -> 2023-10-09 Mumei's birthday <- -> ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=bDjzpMmw-JY&t=4419s) \| [🎞 Clip](https://streamable.com/eco75k) <- |  -> ![](https://files.catbox.moe/m2t2gi.png) <-  -> doriko - Romio & Cinderella <- -> 2023-10-13 Ollie's birthday <- -> ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=n0YgZ-Ncje4&t=1455s) <- |  -> ![](https://files.catbox.moe/p7qkgc.webp) <-  -> Mariya Takeuchi - Plastic Love <- -> 2023-12-11 Kobo's birthday <- -> ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=pY3FVBBpt_8&t=1502s) <- |
+
+->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->
+
+---
+
+#### ![Image description](https://files.catbox.moe/f9inkg.png) General Karaoke
 | Date / Type | Information & Links/Magnets | Setlist / TImestamps / Clips |
 |------|-----|-----|
 |06/08/2023 ![](https://files.catbox.moe/4jc013.png) Archived|【MONETIZATION KARAOKE】We did it, Jailbirds! 🎼  ![](https://files.catbox.moe/4jc013.png)   ![](https://files.catbox.moe/4jc013.png) ![](https://files.catbox.moe/xt6qz3.jpg)  ![](https://files.catbox.moe/4jc013.png) **Duration:** ~30min  ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) YouTube](https://www.youtube.com/watch?v=GiAWeVZAXIQ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| https://files.catbox.moe/pmpl0f.txt  ![](https://files.catbox.moe/4jc013.png)  1. Daesung ( D-lite ) - 違う、そうじゃない (Chigau, Sou Janai)  ![](https://files.catbox.moe/4jc013.png)  2. Joe Hisaishi - Inochi no Namae (From "Spirited Away")  ![](https://files.catbox.moe/4jc013.png)  3. Mariya Takeuchi - Plastic Love  ![](https://files.catbox.moe/4jc013.png)  4. T.M.Revolution - Heart of Sword  ![](https://files.catbox.moe/4jc013.png)  5. Kaito - Cantarella |
@@ -56,15 +64,5 @@ The first original song is currently in the making, see [trailer](https://www.yo
 
 
 
-
-->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->
-
-
-##### ![Image description](https://files.catbox.moe/f9inkg.png) Totsu-Karaoke
-| Date / Occasion | Information | Setlist / TImestamps / Clips |
-|------|-----|-----|
-|2023-10-09 ![](https://files.catbox.moe/4jc013.png) Mumei's birthday | Nerissa collaborated with Mumei to produce a karaoke duet recording of a song for Mumei's partner karaoke stream. ![](https://files.catbox.moe/4jc013.png) ![](https://files.catbox.moe/vz25ct.png) | 1. Miki Matsubara - Mayonaka no Door (Stay with Me) ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=bDjzpMmw-JY&t=4419s) ![](https://files.catbox.moe/4jc013.png) [🎞 Clip](https://streamable.com/eco75k)|
-|2023-10-13 ![](https://files.catbox.moe/4jc013.png) Ollie's birthday | Nerissa collaborated with Ollie and Kiara to produce a karaoke recording of a song for Ollie's totsu-karaoke. ![](https://files.catbox.moe/4jc013.png) ![](https://files.catbox.moe/m2t2gi.png)| 1. doriko - Romio & Cinderella ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=n0YgZ-Ncje4&t=1455s)|
-|2023-12-11 ![](https://files.catbox.moe/4jc013.png) Kobo's birthday | Nerissa collaborated with Kobo to produce a karaoke recording of a song for Kobo's totsu-karaoke. ![](https://files.catbox.moe/4jc013.png) ![](https://files.catbox.moe/p7qkgc.webp)| 1. Mariya Takeuchi - Plastic Love ![](https://files.catbox.moe/4jc013.png) [![](https://files.catbox.moe/n3c4sk.png) VOD Timestamp](https://www.youtube.com/watch?v=pY3FVBBpt_8&t=1502s)|
 
 ->[Go back to the TOC](https://rentry.org/karaokes_songs_v01)->

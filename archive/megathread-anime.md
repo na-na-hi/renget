@@ -225,7 +225,7 @@
 - Certainly one of the top subbing groups that prioritises uniformity above all else.
 - [URL Safety Results](https://www.urlvoid.com/scan/erai-raws.info/)
 
-### 🐐 [Nyaa](https://nyaa.si/)
+### 🐐 [Nyaa](https://nyaa.si/) / [2](https://nyaa.land/)
 - Very well-known anime-focused torrent website, devoted to East Asian (*Japanese, Chinese, and Korean*) media.
 - [URL Safety Results](https://www.urlvoid.com/scan/nyaa.si/)
 

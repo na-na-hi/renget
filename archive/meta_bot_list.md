@@ -1,5 +1,5 @@
 # The meta list of various bot lists from different boards
-->==(Updated 2024-02-20)==<-
+->==(Updated 2024-02-21)==<-
 ***
 [TOC2]
 ***
@@ -23,6 +23,8 @@ https://rentry.org/fluffytails | foxes | small | `current`
 https://rentry.org/flatchestrecommendations | flat chested not lolis | small | `current`
 https://rentry.org/multiplecharacters | cards with clearly-defined multiple characters | small | `current`
 https://rentry.org/aicgnetnavi | OC NetNavi | small | `current`
+https://rentry.org/meidorecommendations | maids | small | `current`
+https://rentry.org/brocards | brother cards, NO step bros allowed | small | `current`
 https://rentry.org/tavern_export | a mirror of booru\.plus on 2023-03-11 | large | static
 https://rentry.org/mikugg | miku\.gg bots | small | *deprecated*
 https://rentry.org/bots_with_expressions | cards with expressions | small | *deprecated*
@@ -30,8 +32,6 @@ https://rentry.org/bots_with_expressions | cards with expressions | small | *dep
 https://rentry.org/dividedskies | floating islands with unique cultures, fantasy land with magic | small | *deprecated*
 https://rentry.org/crimsonfuture | dystopian future, a world at war | small | *deprecated*
 https://rentry.org/fulminarerebuild | intelligent living dolls | small | *deprecated*
-[](- https://rentry.org/meidorecommendations - )
-[](- https://rentry.org/smellyrecommendations - )
 
 ***
 

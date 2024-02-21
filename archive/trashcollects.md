@@ -637,6 +637,12 @@ Ellie, Abby, and Lotte (Cobalt Snow)
 
 	https://files.catbox.moe/ypgbd4.7z
 
+PonyXL LoRAs
+- Raboot
+- Dagasi
+
+https://www.mediafire.com/folder/30caesntlcq6u/LoRA's
+
 # Midna LORA from /h/
 - Characters:
 	- Midna (TLoZ TP)
@@ -830,6 +836,7 @@ https://mega.nz/folder/NugFxBTD#7E7mnrOnPvn0DJrBl7hntw
 	- Kishibe
 	- Amad no Moto
 	- Thousandfoldfeathers
+	- Pochincoff
 
 https://mega.nz/folder/pnAQ3Lqa#yL0Q0TVTuUeVjmCgAdpfNg
 

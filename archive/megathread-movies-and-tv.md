@@ -113,6 +113,10 @@
 - Online streaming of Asian dramas with English subtitles is available for free from China, Korea, Hong Kong, Taiwan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/dramacool.com.pa/)
 
+### ▶️ [Faragski](https://faragski.com/)
+- Exciting opportunity to watch your beloved movies and TV shows without any cost.
+- [URL Safety Results](https://www.urlvoid.com/scan/faragski.com/)
+
 ### 🐐 [FMovies](https://fmoviesz.to/)
 - Very popular brand where you can watch movies online in high definition for no cost, on your phone, tablet, or pc.
 - [URL Safety Results](https://www.urlvoid.com/scan/fmoviesz.to/)

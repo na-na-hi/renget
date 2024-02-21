@@ -1,5 +1,5 @@
 -> Kin List (Not Official This Time) <-
--> On date as of 2.18.24. <-
+-> On date as of 2.20.24. <-
 -> Best viewed 90% zoomed <-
 
 Please know . . . !
@@ -63,7 +63,7 @@ Please know . . . !
 - **Tangy,** AC. **Momoka**, Sgt. Frog. **Moth. Daria. Jirachi. Flannery. Stoat. Ferret.** **Jynx,** Teen Titans
 - **Cartman,** SP. **Ike**, SP. **Verosika**, HB. **Raccoon dog. Kitsune. Etna**, Disgaea
 - **Rosie**, AC. **Tuxedo Sam**, Sanrio. **Fox** (Red & Arctic). **Asuka,** NGE. **Dogbert**, Dilbert. **Trixie**, MLP
-- **Leafpool**. **Chespin. Maractus,** **Pachirisu**. **Espeon**. **Sucy**, Little Witch Academia
+- **Leafpool**. **Maractus,** **Pachirisu**. **Espeon**. **Sucy**, Little Witch Academia
 - **Constanze**, Little Witch Academia. **Buneary line. Pichu. Raichu. (Alolan too)**
 - **Pumpkaboo. Glaceon. Spinda**. **The Shepherd**, ENA. **Queen Bee-zlebub**. **White Ghost Cookie.**
 - **Mordecai**, Lackadaisy. **Vulpix**(Alolan lesser). **Tanya Keys**
@@ -98,7 +98,7 @@ Please know . . . !
 - **Dororo**, Sgt. Frog. **Serena**, AC. **Piplup**. **Boxfish. Cowfish.** **Brian Griffin**
 - **Tulip,** IT. **Tsumiki**, Place to Place. **Snowdrop**. **Rory**, Dog Knight RPG. 
 
--> **Synpath // Otherhearted // Fictionhearted // Kins For Funsies // Relate** <-
+-> **Synpath // Otherhearted // Fictionhearted // Kins For Funsies // Relate // Kith // There Are More Terms** <-
 - **Goldfish. Axew,**. **Chocola**, Nekopara. **Hatterene.** **Applejack. Alastor, Hazbin**. **Vampire Squids**
 - **Double Trouble,** SPOP. **Spottedleaf,** Warriors. **Frankie Foster**. **Vivian**, AC. **Freya**, AC
 - **Neeko**, **Iscream**,**Fwench Fwy**, **Stella**, Helluva Boss. **Viktor,** Lackadaisy. **Kestrel**
@@ -110,7 +110,7 @@ Please know . . . !
 - **Ivypool**, **Himuro**, Aggretsuko. **Wiki-tan. Sailor Mercury.** **Dumbo Octopus**
 - **Sailor Mars, Sailor Moon. Crymini**, HH. **Twilight Sparkle**. **Celestia**, MLP. **Penny Ling.** **Katy**, Um Jammer Lammy. **Dedenne**
 - **Zoe Trent**. **Mangle**, **Bea**. **Lisa,** GI. **Nermal**, Garfield. **Fluttershy.**
-- **Fischl**, GI. **Hello Kitty. Peridot,** SU. **Pearl**, SU. **Astolfo**, Melty Blood.
+- **Fischl**, GI. **Hello Kitty. Peridot,** SU. **Pearl**, SU. **Astolfo**, Melty Blood. **Chespin.**
 - **Wartortle**. **Niffty**, HH. **Torchic. Wooper. Butters**, SP, **Stitch**. **Nudibranchs**
 - **Charlie**, HH. **Lion**, SU. **Monika, DDLC.** **Yuri, DDLC**. **Dratini**. **Scorbunny line**
 - **Celestia**, Danganronpa. **Yelan**, GI **Cherrim. Buizel**. **Bedtime Bear**. **Cardamon**, Bee and Puppycat

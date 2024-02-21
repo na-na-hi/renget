@@ -597,4 +597,5 @@
 12/2023|[Anthropic - Long context prompting for Claude 2.1](https://archive.is/zGngI)
 12/2023|[Andrej Karpathy - On the "hallucination problem" (tweet.jpg)](https://files.catbox.moe/jnrzrz.jpg)
 12/2023|[HuggingFace - Mixture of Experts Explained](https://archive.is/8r7t9)
+01/2024|[Vgel - Representation Engineering](https://archive.is/SHV3E)
 02/2024|[Lilian Weng - Thinking about High-Quality Human Data](https://archive.is/1K0EM)

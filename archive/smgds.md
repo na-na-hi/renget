@@ -16,14 +16,14 @@ Attached to the post is a download for "galaxydsprototype.nds"
 
 Of the three replies the first states the superiority of Sunshine, the second one replying to the first with ”fuck off cubie" while the third one calls the second an “underage.”
 
-![](https://files.catbox.moe/959mrt.png)
+![](https://sh11fanpage.neocities.org/smgdsprototype/1.png)
 
 Seeing as I can’t fall back on the comments for confirmation on the veracity of the leak I download the file myself. Running it on an emulator the game black screens. The undying human spirit inside me to see what I expect to be at most a benign edit of an existing DS game,  changing only the cover and game title, is not quenched by this setback. I load it onto my 3ds and boot up a flashcart instead. My expectations are initially confirmed when I enter the home menu and see Mario’s face as the game icon with the following text above:
 
 “Super Mario Galaxy DS”
 “Nintendo”
 
-![](https://files.catbox.moe/qsb0qc.jpg)
+![](https://sh11fanpage.neocities.org/smgdsprototype/2.jpg)
 
 Seeing that makes me chuckle.
 
@@ -33,7 +33,7 @@ Holy shit it's real.
 
 It's fucking real Jesus Christ it’s real I don't believe it but Jesus fucking Christ it's real it's actually real. Almost a decade and a half ago I thought it was real, then I thought it was fake but fucking hell the goddamn thing is working. I try to take native screenshots but it doesn’t work but who fucking cares IT’S REAL IT’S ACTUALLY REALLLLLLLLLLLLLLLLLLLLL
 
-![](https://files.catbox.moe/dxt8y2.jpg)
+![](https://sh11fanpage.neocities.org/smgdsprototype/3.jpg)
 
 Still on the title screen for the past couple of minutes and my enormous grin hasn’t faded yet. Even as I press A to start and pick singleplayer I still can’t believe this is happening, especially after that fake trailer got revealed to be a ruse so many years ago. Picking a Mario icon for my profile I quickly name it after myself, “Gaylord,” before diving into the game.
 
@@ -49,7 +49,7 @@ Now on a handheld, the game’s interface has been modified to suit the console.
 
 Critiques can be made regarding the interface’s rough presentation, particularly how squished everything looks being pushed to the side by the health bar, though it’s still serviceable, the amount of health now going up to eight rather than three being the main change one would immediately notice.
 
-![](https://files.catbox.moe/96lq8n.jpg)
+![](https://sh11fanpage.neocities.org/smgdsprototype/4.jpg)
 
 Likewise, for how the game plays and its various galaxies other distinctions can be made between the DS and Wii version, surprisingly predicted by that fake trailer from a decade and a half ago. Obviously there’s no Nintendo-On galaxy, also a couple years too late to take advantage of that fake Wii Points per Power Star promotion, but the video was right in the game utilizing the DS’ controls. Flicking the touchscreen causes Mario to spin which now attracts coins. Tapping on Star Bits, or “Star Shards” as a galaxy’s sign informed me, collects them. First person mode is now also a thing, pressing L + R to activate it.
 
@@ -67,7 +67,7 @@ Collecting the Power Star there and exiting back to the dome I’m ready to coll
 
 “????龜????? in orbit!”
 
-![](https://files.catbox.moe/qg7bl5.jpg) 
+![](https://sh11fanpage.neocities.org/smgdsprototype/true5.jpg) 
 
 The first half of the text itself is garbled with the notification flashing until I’m directed to an unnamed galaxy. With a few decaying trees spread about the galaxy is a colossal boulder, ash heaps and microscopically tiny grass patches littering its surface.
 
@@ -75,19 +75,19 @@ I give the poor presentation some slack due to the game being unfinished, taking
  
 I make it on the planet, unexpectedly facing off Cosmic Luigi instead of the cosmic version of myself typical within these races. I look around, taking in the dying atmosphere and its eerily quiet nature as the race’s countdown begins. 
 
-![](https://files.catbox.moe/9gu923.jpg)
+![](https://sh11fanpage.neocities.org/smgdsprototype/5.jpg)
 
 Any hope of me winning the race is quickly dashed as two successive jumps from my opponent to an unknown shortcut puts me leagues behind. I barely manage to have him in my purview the entire time, dividing my attention between him and making sure I don’t fall into the void as I jump from one ledge to the next.
 
 Rounding the corner to a straight path I catch my opponent on the other side. Dead in his tracks he stands next to a copy of me, compelling me to move forward and see what’s happening. Getting closer I notice some of the finer details of this look-alike, his faded overalls having inverted colors with his cap hiding his eyes. 
 
-![](https://files.catbox.moe/hwtpto.jpg)
+![](https://sh11fanpage.neocities.org/smgdsprototype/6.jpg)
 
 As I finally get up-close to the two of them nothing changes. I jump for a bit, run circles around the two, even backwards jump past them. It’s only when I decide to jump on my impersonator that things change. 
 
 Knocked back a couple of steps, his body begins transforming, mutating into an incomprehensible mass, his limbs augmenting in unseemly shapes as his body rapidly fluctuates in size. 
 
-![](https://files.catbox.moe/hwyrk0.png)
+![](https://sh11fanpage.neocities.org/smgdsprototype/7.png)
 
 I recognize my queue to leave and start running back to the beginning when halfway through I feel a force pulling me back, hampering my movement and devouring the small bits of hope I had of escaping.
 
@@ -159,7 +159,7 @@ I turn around, noticing that the rest of the galaxy is breaking apart into piece
 
 The ends of the black hole covered in sharp teeth, it becomes apparent that this all-consuming void is a monster hellbent on satisfying its appetite rather than a mindless placement from obtuse game design. Getting a glimpse at its red, pulsating flesh, it finally connects that this isn’t some random monster, it’s Impasta.
 
-![](https://files.catbox.moe/04jxb1.png)
+![](https://sh11fanpage.neocities.org/smgdsprototype/8.png)
 
 The same notification as before, being pulled back just like last time, he’s my confirmation that there’s no way Nintendo made this or that this is some fan’s passion project. All the expectations I had of this game have been obliterated in a second. My only concern now is getting out of here to continue my search for the truth about the game.
 
@@ -209,7 +209,7 @@ Stunned in place, I watch from afar as my one hope for the end of this tireless 
 
 Megaleg’s existence now reduced to crumbs on the ground and my hope lost, the game creates a Power Star in the middle for me to leave, a “reward” for me completing the galaxy’s mission. It’s my one chance outta here so I sprint head-first towards it. No longer occupied with Megaleg, Impasta turns around to face me and Cosmic Luigi attempts to push me into his master's direction like last time. Considering how close I have to get to the two of them in order to escape, it's a miracle I’m able to grab the Power Star and get out with half my health still remaining.
 
-![](https://files.catbox.moe/fihc6x.jpg)
+![](https://sh11fanpage.neocities.org/smgdsprototype/9.jpg)
 
 Back at the Comet Observatory I feel butterflies in my stomach as I walk towards the map to see what options I have left. I knew going into Starman Fortress that I had only a handful of options left but there’s gotta be some other place I can still use to fight those savages at.
 
@@ -268,7 +268,7 @@ I soar towards this abomination one last time.
 
 I launch my body, head-first, into his eyeball one last time.
 
-![](https://files.catbox.moe/51kb9h.jpg)
+![](https://sh11fanpage.neocities.org/smgdsprototype/10.jpg)
 
 Not forced away from him like the previous times I get a front-row seat to his demise. He has no ear-deafening scream or final attack as his death throe, just a sudden change into the form I first encountered him as, falling down into the vast emptiness of space.
 

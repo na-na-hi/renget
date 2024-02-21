@@ -223,6 +223,8 @@ https://files.catbox.moe/c69pcl.zip JVTeemo
 https://mega.nz/file/o01XhDIC#8hukpUUeFCThQj2WPe1O0OT7LDWHGvGmFr_y7GVUhfI borscht
 https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831
 https://mega.nz/folder/dTkFHAgD#i04TRgRJUOMu9cByDe24UQ amazuyu_tatsuki, csr, enoshima, garakuta-ya, hiromitsu, kagami, kamitani, korotsuke, ohara, piromizu, JK-BlushySpicy-YD-CSR-Redrop_mix
+https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/W5AjzbLD Fishine, Kakure_Eria, Navigavi, opossummachine, Shibori_Kasu, Syrupmelty, Zankuro, Kiss-Shot Azerola-Orion Heart-Under-Blade, Shinobu Oshino, Utsuho Reuji
+https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -424,35 +426,42 @@ You can also help nudge generations with the model more towards anime style by u
 Other tricks tried were to include all the score tags in the LoRA's training set on every image which didn't have much success or only using the source_anime tag which also didn't seem to influence the LoRA's effectiveness much. I haven't tried actually using the score tags as intended since that takes more effort than I'm willing to put in for a LoRA for the time being but that may net the best results.
 
 ##Various Anon LoRA Training Settings 
-###Specific block alphas and dims
+####Specific block alphas and dims
 I've been seeing some pretty good LoRAs that are making use of the following settings, I couldn't really tell what these settings are doing that's different from just setting the overall dims/alpha of the LoRA but I have seen some of the generated LoRAs and they do seem good, especially considering they're typically just 40 megs.
 
 block_alphas=0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625,0.0625
 block_dims=8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8
 
-There's also been a couple anons amount of playing with the multires settings like so:
+There's also been a couple anons playing with the multires settings like so, again I couldn't tell you what exactly this is doing, maybe adding some noise to the images while training to prevent burning up the network?
+
 multires_noise_discount=0.3
 multires_noise_iterations=6
 or 
 multires_noise_discount=0.5
 multires_noise_iterations=8
 
-Here are a couple json config files that have utilized these settings, these settings also reduce the effective learning rate significantly so you'll notice the unet learning rate is much higher than you might typically expect:
+Here are a couple shared json config files that have utilized these settings, these settings also reduce the effective learning rate significantly so you'll notice the unet learning rate is much higher than you might typically expect:
 https://files.catbox.moe/p1m50y.json
 https://files.catbox.moe/fgp24t.json
 https://files.catbox.moe/s75mc6.json
 
-Typically with these settings anons are trying to hit 2k-3k steps, so adjust your epoch count based on image count accordingly. 
+Typically with these settings anons are trying to hit 1.5k-3k steps, so adjust your epoch count based on image count accordingly. 
 
-I have incorporated the multires_noise_discount and multires_noise_iterations into my own trainings and it seems to improve the quality, although to be honest I haven't really been able to hit the quality I like at just 2k steps and am still targeting more like 5k+, I'm also still mostly using prodigy as my go to optimizer.
+I have incorporated the multires_noise_discount and multires_noise_iterations into my own trainings and it seems to improve the quality, although to be honest I haven't really been able to hit the quality I like at just 2k steps and am still targeting more like 5k+, I'm also still mostly using prodigy as my go-to optimizer.
 
-###Custom scheduler
+####Custom scheduler
 Another anon that has had some good LoRAs has gone a different route with a custom consine annealing scheduler:
 
 https://files.catbox.moe/ua9jua.toml
 
-##LoRA Training Update 1/30/2024
-I've been messing around with Lycoris locon, which needs inputs for conv network rank and alpha which I generally saw recommendations to set it to the network rank and alpha of the model (and to not exceed 64). Not sure how easy it is to use with the UI frontends but here's what the commandline looks like for kohya-ss. As always any criticism is welcome on /hdg/ I've actually gotten some good feedback on there.
+####Prodigy and multires 
+
+There's another anon that's been using prodigy with the above multires settings  which is what I've been doing lately, seems better than the old settings I was using.
+
+https://files.catbox.moe/m861nn.json
+
+####My Current Settings
+My current settings are pretty similar to the prodigy one above, a couple times I've had a hard time getting prodigy to get that last bit of distance to really recreate the artist and have used AdamW in those cases, which takes a bit more tweaking with the learning rates. Usually I'll resize the resulting LoRA down to 16ish dims (for a style) and make sure it still looks good.
 
  --network_module = networks.lora
  --train_data_dir = "$IMAGES_PATH$"
@@ -460,25 +469,26 @@ I've been messing around with Lycoris locon, which needs inputs for conv network
  --output_name = "$LORA_NAME$"
  --pretrained_model_name_or_path = "$PATH_TO_PONYXL_CHECKPOINT$"
  --max_train_epochs = $NUMBER_EPOCHS$
- --train_batch_size = 12
+ --train_batch_size = 8
  --resolution = "1024,1024"
  --save_every_n_epochs = 1
  --save_last_n_epochs = 999
  --learning_rate = 1
  --lr_scheduler = cosine
- --lr_warmup_steps = 0
- --network_dim = $NETWORK_RANK$
- --network_alpha = $NETWORK_ALPHA$
- --seed = 1056283418
+ --network_dim = 64
+ --network_alpha = 32
+ --seed = 1337
  --keep_tokens = 0
  --gradient_checkpointing
  --max_data_loader_n_workers = 16
  --mixed_precision = bf16
  --save_precision = bf16
  --network_module = lycoris.kohya
- --network_args "preset = unet-transformer-only" "conv_dim = $NETWORK_RANK$" "conv_alpha = $NETWORK_ALPHA$" "algo = locon"
+ --network_args "preset = unet-transformer-only" "conv_dim = 64" "conv_alpha = 32" "algo = locon"
  --optimizer_type = "prodigy"
  --optimizer_args "decouple = True" "weight_decay = 0.01" "d_coef = 0.8" "use_bias_correction = True" "safeguard_warmup = False" "betas = 0.9,0.99"
+ --multires_noise_iterations 6
+ --multires_noise_discount 0.3
  --caption_extension = ".txt"
  --prior_loss_weight = 1
  --cache_latents
@@ -488,42 +498,4 @@ I've been messing around with Lycoris locon, which needs inputs for conv network
  --enable_bucket
  --min_bucket_reso = 512
  --max_bucket_reso = 2048
- --bucket_reso_steps = 256
-
-##Old LoRA training settings
-These are my old LoRA training settings with prodigy, didn't really have any major issues with it, keeping it around for reference.
-
- --network_module = networks.lora
- --train_data_dir = "$IMAGES_PATH$"
- --output_dir = "$OUTPUT_FOLDER$"
- --output_name = "$LORA_NAME$"
- --pretrained_model_name_or_path = "$PATH_TO_PONYXL_CHECKPOINT$"
- --max_train_epochs = $NUMBER_EPOCHS$
- --train_batch_size = 2
- --resolution = "1024,1024"
- --save_every_n_epochs = 1
- --save_last_n_epochs = 999
- --learning_rate = 1
- --lr_scheduler = cosine
- --lr_warmup_steps = 0
- --network_dim = 64
- --seed = 1055217506
- --keep_tokens = 0
- --gradient_checkpointing
- --max_data_loader_n_workers = 8
- --mixed_precision = bf16
- --save_precision = bf16
- --optimizer_type = "prodigy"
- --optimizer_args "decouple = True" "weight_decay = 0.01" "d_coef = 0.8" "use_bias_correction = True" "safeguard_warmup = False" "betas = 0.9,0.99"
- --caption_extension = ".txt"
- --prior_loss_weight = 1
- --enable_bucket
- --min_bucket_reso = 512
- --max_bucket_reso = 2048
- --bucket_reso_steps=256
- --xformers
- --save_model_as = safetensors
- --cache_latents
- --cache_latents_to_disk
- --network_train_unet_only
- --cache_text_encoder_outputs
+ --bucket_reso_steps = 128

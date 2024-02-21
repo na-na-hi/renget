@@ -83,8 +83,8 @@ You will automatically dodge out of the way of attacks directed at you, even if 
 >Supernatural Speed (4):
 You can infuse divinity into your body, causing you to move faster. This does not slow down your perception of time, but does heighten your reflexes and instincts. Using the skill for prolonged periods of high capacity can lead to muscle soreness. Max Usage: 10 divinity per minute. It is possible to activate this skill on reflex. Slows your perception of time by one third of the factor that speed is increased.
 
->Guerilla Tactics (1):
-Hides the presence of yourself and designated allies. Consumes influence proportional to the number of targets. Can fail against higher level authorities. Does not negate the effects of items.
+>Guerilla Tactics (5):
+Hides the presence of yourself and designated allies. Additionally, obscures the information that can be gleaned about you or your <Myths>. Consumes influence proportional to the number of targets. Also shields you from the passive effects of authorities at lower levels by incarnations who are not aware of your presence. Can fail against higher level authorities. Negates the information gathering effects of shop items available below level 5, as well as similar effects provided by divine relics below uncommon grade.
 
 >Specter's Wail (1):
 Releases an ear splitting scream. Causes inner ear damage at close ranges and inspires despair at long ones.
@@ -92,8 +92,8 @@ Releases an ear splitting scream. Causes inner ear damage at close ranges and in
 >Enchant Item (1): 
 Allows you to create a Divine Relic. Works better for items made by the incarnation using this authority. If an authority crystal is used, a specific effect may be imparted. The item is severely damaged in the case of failure.
 
->Stealth (3)
-Makes you and any objects or persons with whom you make physical contact invisible to mortals and incarnations below a certain level. Consumes 1 divinity per minute.
+>Stealth (6)
+Makes you and any objects or persons with whom you make physical contact invisible to mortals and incarnations below a certain level. Consumes 1 divinity every two minutes. Also masks non-visual indicators of your presence to all of those with whom you are not sharing the benefits of this authority, such as sounds, smells, and, to a limited extent, the effects you have on the world around you.
 
 >Divine Armor (3)
 Wraps divinity around your body like armor, protecting you from physical harm and negating some or all of the effects of authorities used against you below a certain level. Protection is directly proportional to divinity used. Consumes up to 1 divinity per second

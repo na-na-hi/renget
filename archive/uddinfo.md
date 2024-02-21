@@ -33,7 +33,8 @@ When one alter's memories or emotions bleed out to another system member. Often 
 
 **Splitting** 
 A high level of dissociation where a new alter comes into light. Occurs when a child or pre-existing alter can't handle new information or experiences and forms a new part to cope. The vulnerability to splitting varies from system to system. 
-Dormancy 
+
+**Dormancy** 
 The inactivity or loss of communication with a specific alter or alter(s). Alters may not stay dormant and can resurface with time but there is no guarantee or time limit.
 
 **Dissociative Amnesia** 
