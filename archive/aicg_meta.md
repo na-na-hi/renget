@@ -31,10 +31,11 @@ If you're curious about a service, the OP should have the information you need.
 | Claude Instant (AWS)    | 🥈   | 🥈  | 🏆(18k/100k)        | 🥉         | 🌱           | LOW                 | 🌱        |
 | /lmg/ Mixtral                 | 🥈   | 🥈  | 🥈(4k-32k)           | 🌱         | 🥈           | LOW                   | 🥉        |
 | Turbo                            | 🥈   | 🥈  | 🥈(4k/16k)           | 🥉         | 🌱           | LOW                   | 🥈        |
-| Gemini Pro                    | 🥈   | 🥈  | 🏆(32k)                | 🥉         | 🌱           | LOW                   | 🥈        |
+| Gemini 1.0 Pro (API)      | 🥈   | 🥈  | 🏆(32k)                | 🥉         | 🌱           | FREE                   | 🥈        |
+| Gemini Advanced         | 🥉   | 🏆  | 🏆(32k)                | 🥈         | 🥈           | MEDIUM              | 🥉        |
 | NovelAI (Kayra)             | 🥈   | 🥈  | 🥉(8k)                    | 🏆         | 🌱           | MEDIUM             | 🌱        |
 | NovelAI (Clio)                | 🥉   | 🥉  | 🥉(8k)                    | 🥈         | ⛔           | LOW                   | 🌱        |
-| CAI                                | ⛔   | 🥉  | ⛔(2k?)                 | 🏆         | ⛔           | FREE                   | 🏆        |
+| CAI                                | ⛔   | 🥉  | ⛔(2k)                 | 🏆         | ⛔           | FREE                   | 🏆        |
 | /lmg/ 7B                        | 🥉   | 🥉  | 🥈(4k/6k/8k/16k) | 🥈         | 🌱           | LOW                   | 🥉        |
 | /lmg/ 13B                      | 🥈   | 🥈  | 🥉(4k/6k/8k)        | 🥈         | 🌱           | LOW                   | 🥉        |
 | /lmg/ 70B                      | 🥈   | 🥈  | 🌱(4k/6k)             | 🥈         | 🥉           | HIGH                  | 🥉        |
@@ -68,8 +69,10 @@ Quick notes on how to access each:
   - Pay for a subscription.
   - Or learn to run it locally, on Colab or via GPU rental services.
 - Gemini API
-  - Risu + your own API key (https://makersuite.google.com/app/apikey)
+  - Use your own API key (https://makersuite.google.com/app/apikey)
   - Reverse proxy if available (they support OpenAI-formatted input)
+- Gemini Advanced
+  - Pay for a subscription.
 - Mistral
   - Official API, revendors, via native support on ST/Risu, or just using it like a reverse proxy since it supports a subset of OpenAI input format.
   - https://docs.mistral.ai/platform/pricing
@@ -96,7 +99,7 @@ Three frontends are currently recommended, Silly, Agnai, and Risu. All have a lo
 | Palm2 API     | ⛔        | ✅   | ⛔    | ⛔       |
 | Novelist API  | ⛔        | ✅   | ⛔    | ⛔       |
 | Mancer API    | ✅        | ⛔   | ✅    | ⛔       |
-| Gemini API  | ⛔        | ✅   | ⛔    | ⛔       |
+| Gemini API  | ⛔        | ✅   | ✅    | ⛔       |
 | Mistral API  | ✅        | ✅   | ✅    | ✅       |
 
 Gemini works on all frontends if using it via reverse proxy. Mistral API supports OpenAI input (using the official API like a reverse proxy).

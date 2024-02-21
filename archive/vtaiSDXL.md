@@ -397,6 +397,12 @@ or
 	aradia ravencroft, black hair, colored inner hair, short hair, horns, pink eyes,
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/5U4UBQzT) <-
 
+##### -> (Nerissa) Malpha Ravencroft <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	malpha ravencroft, black hair, long hair, parted bangs, aqua hair, pink eyes, horns,
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/BAwHwKTT) <-
+
 ##### -> (Nerissa) Mamarissa Ravencroft <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt

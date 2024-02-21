@@ -50,6 +50,8 @@ Fuura Yuri | Phase Connect. | `classic` | ![Fuura Yuri](https://files.catbox.moe
 Elira Pendora | Quick low-token Elira. | `natural` | ![Elira Pendora](https://files.catbox.moe/kfs6i0.png)
 Nagato Youko | A fairly unknown (to me at least) bilibili vtuber with a cute design...I couldn't resist after seeing her fanart. Probably nothing close to her actual personality, if anyone out there actually watches her I'd love to know more. | `natural` | ![Nagato Youko](https://files.catbox.moe/jpxq5q.png)
 Hoshikawa Sara | This genki JK has teased the thread for far too long. | `natural` | ![Hoshikawa Sara](https://files.catbox.moe/oahmvt.png)
+Rindou Mikoto | Cute Oni girls are a weakness of mine | `natural` | ![Rindou Mikoto](https://files.catbox.moe/koq479.png)
+Inami Yoki | This is more of a 'lore' card than an accurate portrayal of her streams, she's not quite as smug and bratty as her design suggests...but if every vtuber bot was as normal and friendly as their onstream behavior we wouldn't have much variety | `natural` | ![Inami Yoki](https://files.catbox.moe/dd8azd.png)
 
 ## Non-Vtuber
 

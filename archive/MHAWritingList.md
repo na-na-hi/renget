@@ -149,7 +149,7 @@ https://rentry.org/TheNoctiAndBillyPowerHour
 >Hoge Tries To Get Better (Marumaru, Yako)
 https://rentry.org/ndixv
 -----------------------------------------------------------------------------------------------------------------------------
-Page 3
+Page 4
 ----------------------------------------------------------------------------------------------------------------------------
 >Caféhopping (Hivemind, King Billy, Noctiluca, Mentions of other 1-D builds)
 https://controlc.com/8a501bac
@@ -190,7 +190,7 @@ https://rentry.org/of3us
 >Birds of Feather (Archangel, Last Rite, Ryukishi, Noctiluca)
 https://rentry.org/ayox6
 ----------------------------------------------------------------------------------------------------------------------------
-Page 3
+Page 5
 ----------------------------------------------------------------------------------------------------------------------------
 >Drekus Inc. (Drekus, Charlatan, Slipstream)
 https://rentry.org/e2nq8
@@ -239,7 +239,7 @@ https://rentry.org/EnJ-p1
 >The Tale of Chudstal Miokiller
 https://rentry.org/MIOMUSTDIE
 ----------------------------------------------------------------------------------------------------------------------------
-Page 4
+Page 6
 ----------------------------------------------------------------------------------------------------------------------------
 >Gossip 5 (Hivemind)
 https://controlc.com/66ba4c1cWritefag:
@@ -282,7 +282,7 @@ https://rentry.org/qyamz
 >The Saint and the Sinner(Last Rite, Archangel)
 https://rentry.org/okwbp
 ----------------------------------------------------------------------------------------------------------------------------
-Page 5
+Page 7
 ----------------------------------------------------------------------------------------------------------------------------
 >A Parting of Ways (Mirror Devil, Capture Cloth):
 https://rentry.org/y37ak
@@ -332,7 +332,7 @@ https://rentry.org/iy2du
 https://rentry.org/d5urh
 +Extended Edition https://rentry.org/mcymhatournament
 ----------------------------------------------------------------------------------------------------------------------------
-Page 6
+Page 8
 ----------------------------------------------------------------------------------------------------------------------------
 >Inigo's Summer Festival (Ryu-kishi, Marrow, Maru(maru), Challenger, Flying Force, Mirror Devil, The Boys, Class-1D)
 https://rentry.org/v74ss
@@ -370,7 +370,7 @@ https://controlc.com/a4a6767d
 >The Other Side of the Mirror (Desolator, Maddox, Tether, Nox, Mercury, Marrow):
 https://rentry.org/bnu9t
 ----------------------------------------------------------------------------------------------------------------------------
-Page 7
+Page 9
 ----------------------------------------------------------------------------------------------------------------------------
 >Faith Kang in: SummerFest Aside (Drone, The hivemind)
 https://rentry.org/8rzuy
@@ -415,7 +415,7 @@ https://rentry.org/uzu56
 >Dragon's Tournament Intermission (Ryukishi, Marrow, Maru(maru), Fight Man, mentions of others)
 https://rentry.org/4i5gm
 ----------------------------------------------------------------------------------------------------------------------------
-Page 8
+Page 10
 ----------------------------------------------------------------------------------------------------------------------------
 >Crush (Hivemind, Mentions of Mirror Devil and various other 1-D Students)
 https://rentry.org/4c3pf
@@ -458,7 +458,7 @@ https://rentry.org/o2f25
 >The Pencil (Ryu-kishi, Maru(maru), Mirror Devil)
 https://rentry.org/sdtvh
 ----------------------------------------------------------------------------------------------------------------------------
-Page 9
+Page 11
 ----------------------------------------------------------------------------------------------------------------------------
 >Hitomi-chan's First Date (Feral, Drekus, Reaper)
 https://rentry.org/2tu8m
@@ -495,7 +495,7 @@ https://rentry.org/xxk2h
 >Luccione vs. Mauler (Luccione, Mauler, Midas, Broad Daylight, Mirror Devil, Challenger, Ryu-kishi, Drone, Reaper)
 https://rentry.org/e7cszt
 ----------------------------------------------------------------------------------------------------------------------------
-Page 10
+Page 12
 ----------------------------------------------------------------------------------------------------------------------------
 >Kaylee In Wonderland Part 1 (Flying Force and a lot of students)
 https://rentry.org/2bovid
@@ -546,7 +546,7 @@ https://rentry.org/c84dp
 >Rosethorn Date (Ryu-Kishi, Rosethorn)
 https://rentry.org/bwr7m5
 ----------------------------------------------------------------------------------------------------------------------------
-Page 11
+Page 13
 ----------------------------------------------------------------------------------------------------------------------------
 >Friends 3 (Capture Cloth, Android)
 https://rentry.org/mcagp
@@ -601,7 +601,7 @@ https://rentry.org/znbnka
 >Holden On To A Blank (Holden Deckard, Blank)
 https://rentry.org/nfkvx3
 ----------------------------------------------------------------------------------------------------------------------------
-Page 12
+Page 14
 ----------------------------------------------------------------------------------------------------------------------------
 >I Need A Hero(ine)...! (Satoru Tani)
 https://rentry.org/ynbmqo
@@ -649,3 +649,54 @@ https://rentry.org/69nav
 https://rentry.org/7vr2zf
 >A Dragon's Christmas (Ryu-kish, Maru(maru), Marrow, Mirror Devil, Black Bahamut)
 https://rentry.org/hwiz8
+----------------------------------------------------------------------------------------------------------------------------
+Page 15
+----------------------------------------------------------------------------------------------------------------------------
+>Dinner For Three (Capture Cloth, Bakeneneko)
+https://rentry.org/adknw
+>Brightly VS The Toy Army
+https://archive.4plebs.org/tg/post/91361422
+>MHA 1.9999: Prose Edition
+https://rentry.org/y9rfp
+>The Other Side - A (108 Gang, Cameo of Orochi)
+https://rentry.org/6uvv5
+>A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C)
+https://rentry.org/iyfm2
+>Brightly Time Travel Prompt Adventure
+https://archive.4plebs.org/tg/post/91441288
+>Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn)
+https://rentry.org/nsno4
+>Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy)
+https://rentry.org/acnw3
+>Brightly Interview (Brightly)
+https://archive.4plebs.org/tg/post/91503507
+>The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang)
+https://rentry.org/pe93w
+>The Other Side - C Part 2 (Arena, Orbit, Yamata)
+https://rentry.org/5oanb
+>Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel)
+https://rentry.org/qgzqgfy8
+>Brightly is Maidnapped
+https://archive.4plebs.org/tg/post/91588066
+>Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko)
+https://rentry.org/PopsyB
+>"Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique)
+https://rentry.org/avuzhy6i
+>Takashi's Dungeon (Brightly)
+https://archive.4plebs.org/tg/post/91626497
+>Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver)
+https://rentry.org/z7w7e
+>Orochi Wins (Orochi, Sandy, Mio)
+https://rentry.org/abuzhy7i
+>The Leningrad Variation
+https://rentry.org/mvtmnzy2
+>The Fushimi Ward Incident
+https://rentry.org/z3vti4m7
+>Everything Wrong With the Two of Them (Reaper, Forget-Me-Not)
+https://rentry.org/fs8yafua
+>Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper) 
+https://rentry.org/5apxm5ao
+>The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether)
+https://rentry.org/zbtaxdfz
+>The Tournament, Part Four!
+https://rentry.org/b2v9nv4u

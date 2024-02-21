@@ -78,9 +78,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Meteorite shard | It can be sold for 125P, looks like some sort of candy?
 2. Spicy Seed | Causes Burn on consumption.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Meteorite shard | It can be sold for 125P, looks like some sort of candy?
 4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

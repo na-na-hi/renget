@@ -1,7 +1,7 @@
 #Windows/Office Installation Guide
 
 
-######Step 0: Backup your data
+#####Step 0: Backup your data
 Back up your folders and files in the following locations:
 A) C:\Users\Username
 If you've used this guide before and moved your user folders to a different partition/drive, you can safely bypass step A.
@@ -12,7 +12,7 @@ Not all the folders need to or should be backed up. Game dev folders, 3rd party 
 
 
 
-######Step 0.5: Choosing an edition
+#####Step 0.5: Choosing an edition
 There's currently two mainline channels of Windows. General Availability Channel and Long Term Service Channel.
 GAC editions (Home/Pro/Education/Enterprise) are supported from 1.5-3 years and have regular weekly forced updates as well as forced full system upgrades when their support period ends.
 If you update your hardware constantly every year, it will likely get support faster on this channel. However this channel also gets tons of pointless feature updates that break or remove features, such as wide scale wifi breakage and the rewrites and downgrades to Snipping Tool and File Explorer.
@@ -23,7 +23,7 @@ You will however, lack support for the newest bleeding edge hardware. As of righ
 
 
 
-######Step 1: Download and verify you have a legitimate Windows ISO
+#####Step 1: Download and verify you have a legitimate Windows ISO
 This guide uses IoT LTSC but the same steps apply to any non-VolumeLicense Enterprise/Education/Workstation edition of Windows.
  
 Windows10 IoT LTSC 2021: en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso
@@ -48,7 +48,7 @@ If the SHA-256 matches the one from visualstudio.com, then the file has not been
 
  
 
-######Step 2: Download Rufus and flash to USB
+#####Step 2: Download Rufus and flash to USB
 https://github.com/pbatard/rufus/releases/
 Plug in a USB drive (at least 8GB)
 Start Rufus, it should default to GPT partition scheme and UEFI (non CSM)
@@ -69,7 +69,7 @@ If all this sounds too complicated for you, you can also just temporarily discon
   
 
 
-######Step 3: Booting to USB
+#####Step 3: Booting to USB
 Reboot and make sure it's set to UEFI mode in BIOS settings.
 While you're in BIOS, you may also choose to disable TPM and/or SecureBoot to prevent the Win11 upgrade notice.
 Restart PC and when the boot screen comes up press the key it says to on screen to access boot selection.
@@ -82,7 +82,7 @@ Once in boot selection, choose the USB drive and boot it.
  
 
  
-######Step 4: Installing Windows
+#####Step 4: Installing Windows
 At key entry, choose "I don't have a product key"
 When choosing edition there will be two choices, LTSC and IoT LTSC, select IoT LTSC for HWID activation compatibility and longer support cycle.
 
@@ -121,7 +121,7 @@ Without the MS Store and the default apps you may run into situations such as wh
 
  
 
-######Step 5 (Optional): Installing Office
+#####Step 5 (Optional): Installing Office
 Office can be downloaded directly from MS servers with zero issues:
 https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img
 Win10+ has native support for .img, .iso, and other archive formats, just double click to mount and then run Setup.exe.
@@ -143,7 +143,7 @@ Do not bother with OpenOffice. Oracle fired all its devs in 2011 and donated the
  
 
 
-######Step 6 (Recommended): Disable Automatic Updates
+#####Step 6 (Recommended): Disable Automatic Updates
 
 Start by pressing Win+R, typing gpedit.msc and Enter.
 Once in, navigate to:
@@ -164,10 +164,10 @@ You should not under any circumstances use Google or Youtube to find instruction
 An optional settings you can configure in this section is whether or not to show update notifications.
 Open up **Display options for update notifications**, enable the policy, and set the option to 1 or 2.
 
-If you set both these GPOs, the only way you'll know of and be aware of updates is when you open Windows Update and manually check. If you do this, it's best to get into a habit of checking once a month or every two months for security updates.
+If you set both these GPOs, the only way you'll know of and be aware of updates is when you open Windows Update and manually check. If you do this, it's best to get into a habit of checking once a month or every two months for security updates. Don't end up like the millions of retards that got fucked by WannaCry three months after MS already patched it, or the thousands today that still get fucked by it years after it was patched.
 
 
-######Step 7 (Recommended): Partition system drive and move user folders to reinstall-proof your data
+#####Step 7 (Recommended): Partition system drive and move user folders to reinstall-proof your data
 By default, your user folder is stored in C:\Users\username, the problem with this is that if your install gets corrupted and you need to reinstall, all of your documents get wiped unless you have a spare computer to plug your drive into to pull the files first. Moving your user folders to a 2nd partition/drive avoids this problem.
 
 For a 256GB+ SSD, a 100GB Windows partition should be plenty of space for Windows itself and whatever programs you need.
@@ -214,13 +214,15 @@ HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell 
 
 From here you can just copy paste "D:\" or wherever your secondary partition is and paste it in the fields for the folders you want to relocate.
 
+It's also possible to relocate the AppData folder to your secondary partition here if you're wary of storing it on C:\.
+
 ![](https://images2.imgbox.com/f4/38/rhvztrLb_o.png)
 
-If you want, you can also right click on the Key and export it to a .reg file to easily redo this on future reinstalls.
+After you're done, you can also right click on the Key and export all of it to a .reg file to easily redo this on future reinstalls.
  
 
  
-######Step 8 (Recommended): Use portable apps to also save having to reconfigure on reinstalls
+#####Step 8 (Recommended): Use portable apps to also save having to reconfigure on reinstalls
 Hate losing all your browser shortcuts, tabs, bookmarks, settings, etc after a reinstall?
 Just use a portable browser and install it to your secondary partition/drive.
 The browser will be entirely self contained and can be updated in its own folder, so all your settings, tabs, bookmarks, etc will be safe from reinstalls.
@@ -234,7 +236,7 @@ https://portableapps.com/apps
  
 
 
-######Step 9 (Optional): Disable Telemetry
+#####Step 9 (Optional): Disable Telemetry
 https://wpd.app
 https://www.oo-software.com/en/shutup10
 https://github.com/builtbybel/privatezilla#download
@@ -253,7 +255,7 @@ The best way to manage privacy settings however, is to use Group Policy as this 
  
 
  
-######Step 10 (Optional): Removing extraneous icons from Explorer's navigation pane
+#####Step 10 (Optional): Removing extraneous icons from Explorer's navigation pane
  
 Lastly, if you hate all the QuickAccess/Pictures/Music/Videos/Documents/DuplicateRemovableDrives/etc folders in the Explorer navigation pane, you can remove them with the following .reg files.
 

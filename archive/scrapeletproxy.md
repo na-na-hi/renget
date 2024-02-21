@@ -1,11 +1,10 @@
 ###### an experiment
 
 !!! info info
-    I will fill with one or two scrapelet keys.
-    Key/source donators get unlimited quota.
+    I will fill with one or two scrapelet keys (long overdue to change this...)
+    Key (at least one T5)/source (with at least one T5 that you/I can find) donators get unlimited quota.
     Everyone else gets a decent quota. I intend to keep this proxy open, and have very little requirements other than sending me an email.
     The proxy will be entirely funded by donations.
-    The proxy will mostly use donated keys. ~~been filling with my own keys recently~~
 
 !!! note news
      OpenAI key status: bad; AWS key status: good. Why would you token share? What's the point?

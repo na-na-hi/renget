@@ -1,6 +1,6 @@
 -> [![Memetic Warfare General](https://i.imgur.com/YBgDIwy.png)](https://boards.4chan.org/pol/catalog) <-
 
-# Archive and Idea List
+# /pol/ Memetic Warfare Archive
 
 This is an era of unrestrained worldwide state-sponsored Internet sockpuppetry by basically every fucking country, such as the US Military Operation Earnest Voice, UK's Joint Threat Research Intelligence Group, Chinese 50 Cent Party and 912 Special Project Working Group, Israels Hasbara, Hasbara Fellowships, and the Jewish Internet Defense Force.
 
@@ -72,6 +72,10 @@ Likewise, generic low-effort mspaint memes and reactions, infographics, duplicat
 - https://pixeldrain.com/u/SwPKGo8M
 - Part 2 - 2.4 GB - 8,500 images
 - https://pixeldrain.com/u/Pq12k7Mg
+
+- February Archive
+- Part 1 - 2 GB - 7,500 images
+- https://pixeldrain.com/u/BbQt5B8Y
 
 # PDFs
 

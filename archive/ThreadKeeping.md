@@ -444,18 +444,18 @@ https://rentry.org/MHACards
 
 >New Stuff:
 >New Writefags:
->Quirk Wisdom (Desolator)
-https://rentry.org/ycx2waa6
->The Symbol of Death: Part 2 (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, The Prophet, Hijack):
- https://rentry.org/w8muhu24
->Lunch Hour (1-F)
-https://rentry.org/LunchHour
+>Internship Gossip (Clique)
+https://rentry.org/igqhcxhy
 
->1-F Epilogues:
->1-aFtershocks
-https://rentry.org/1Aftershocks
->1-FUTURE (1-F, Suslik, mentions of some other heroes)
-https://rentry.org/rwbqp65x
+>New Art
+>The Daily Life of Satoru Tani
+>>91964939
+>>91966001
+>>91967769
+
+>New Villain?
+>Jan Procházka VN Msr. Blanc
+>>91963570
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -815,6 +815,8 @@ https://rentry.org/ddom6m82
 >>91841242
 >Jessica Wu VN Surinam Toad Girl
 >>91851919
+>Jan Procházka VN Msr. Blanc
+>>91963570
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
@@ -902,7 +904,7 @@ Page 7
 ***
 ```
 Writefags:
->Early writefags here (edit code: MHA Writefags) (12 Pages)
+>Early writefags here (edit code: MHA Writefags) (15 Pages)
 https://rentry.org/MHAWritingList
 >”First Test” Comp
 https://pastebin.com/66ByP2sD
@@ -910,61 +912,6 @@ https://pastebin.com/66ByP2sD
 https://pastebin.com/Ksn0zJ31
 Else check the rentry
 
->Dinner For Three (Capture Cloth, Bakeneneko)
-https://rentry.org/adknw
->Brightly VS The Toy Army
->>91361422
->MHA 1.9999: Prose Edition
-https://rentry.org/y9rfp
->The Other Side - A (108 Gang, Cameo of Orochi)
-https://rentry.org/6uvv5
->A Cold January (Ryu-kishi, Mirror Devil, Kampai, Rebecca Webber, Bogey, Marrow, Class 1-C)
-https://rentry.org/iyfm2
->Brightly Time Travel Prompt Adventure
->>91441288
->Legal Villainy (Mirror Devil, Smokin' Sexy, Rosethorn)
-https://rentry.org/nsno4
->Clowning Around Part 1: Set-up (Marumaru, Ryukishi, Yako, Capture Cloth, Last Rite, Fight Man, Popsy)
-https://rentry.org/acnw3
->Brightly Interview (Brightly)
->>91503507
->The Other Side - C Part 1 (Arena, Orbit, Yamata, 108 Gang)
-https://rentry.org/pe93w
->The Other Side - C Part 2 (Arena, Orbit, Yamata)
-https://rentry.org/5oanb
->Lilinah's Day (Okimoto, Isabela, Lilinah, Ysmir, Daniel)
-https://rentry.org/qgzqgfy8
->Brightly is Maidnapped
->>91588066
->Breakfast at Popsy's (Popsy Agency, Kraftwerk Agency, Seiryu Agency, The Horrific Five, Marrow, The Boys™, Bakeneneko)
-https://rentry.org/PopsyB
->"Orochi Gets The Shit Beaten Out Of Her Fallout" (The Clique)
-https://rentry.org/avuzhy6i
->Takashi's Dungeon (Brightly)
->>91626497
->Trust Fall(Popsy, Ryu-kishi, Maru-maru, Capture Cloth, Last Rite, Fightman, Yako, Tatarimoke, Hidden Appearance of Agents Law and Waver)
-https://rentry.org/z7w7e
->Orochi Wins (Orochi, Sandy, Mio)
-https://rentry.org/abuzhy7i
->The Leningrad Variation
-https://rentry.org/mvtmnzy2
->The Fushimi Ward Incident
-https://rentry.org/z3vti4m7
->Everything Wrong With the Two of Them (Reaper, Forget-Me-Not)
-https://rentry.org/fs8yafua
->Second First Try and Shiketsu (Overdose, Bakeneneko, Reaper) 
-https://rentry.org/5apxm5ao
-
-```
-***
-Page 8
-***
-```
-Writefags (final)
->The Devil's Methods (Desolator, Marrow, Maddox, Mercury, Nox, Tether)
-https://rentry.org/zbtaxdfz
->The Tournament, Part Four!
-https://rentry.org/b2v9nv4u
 >The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp)
 https://rentry.org/pi72vzqf
 >#corporategirlies (Hivemind)
@@ -1007,10 +954,10 @@ https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/
 >>91842120
 ```
 ***
-Page 9
+Page 8
 ***
 ```
->Writefags (Final)
+>Writefags (Cont.)
 >When Something Smells, It's Usually the Nuts (Slimenuts, Karaburan, Mentions of 1-F)
 https://rentry.org/czs9nrcu
 +Mommy Link https://rentry.org/duw26qn5
@@ -1048,6 +995,15 @@ https://rentry.org/ycx2waa6
  https://rentry.org/w8muhu24
 >Lunch Hour (1-F)
 https://rentry.org/LunchHour
+>Internship Gossip (Clique)
+https://rentry.org/igqhcxhy
+```
+***
+Page 9
+***
+```
+>Writefags (Final)
+Soon
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
