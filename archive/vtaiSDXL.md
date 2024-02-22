@@ -70,6 +70,8 @@
 -> [Civitai](https://civitai.com/models/265519/fallenshadow-sdxl) <-
 ##### -> Dokibird <-
 -> [Civitai](https://civitai.com/models/299605/dokibird-xl) <-
+##### -> Filian <-
+-> [Civitai](https://civitai.com/models/315110/filian-sdxl) <-
 
 ***
 ### -> AnimagineXL <-
@@ -418,34 +420,47 @@ or
 ##### -> Gawr Gura <-
 !!! info can do 3 outfits?
 -> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/file/9fpjgDpS) <-
+
 ##### -> Hololive -Promise- <-
 !!! info Contains the entirety of promise? 
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ) <-
+
 ##### -> Koseki Bijou <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	Koseki Bijou, long hair, tiara, white dress, long dress, detached sleeves, bare shoulders, bracelet,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+
 ##### -> Shiori Novella <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	Shiori Novella, medium hair, hair ornament, two-tone hair, black jacket, black dress, bare shoulders, choker, fur trim, off shoulder, open jacket, long sleeves,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+
 ##### -> Nerissa Ravencroft <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	Nerissa Ravencroft, long hair, mole under eye, large breasts, gloves, fur trim, bare shoulders, white shirt, dress, long sleeves, shoulder cutout, detached sleeves,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+
 ##### -> Fuwawa Abyssgard <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	Fuwawa Abyssgard, pink eyes, long hair, large breasts, blue hairband, hairpin, collar, white dress, cleavage, black jacket, belt, fur trim,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
+
 ##### -> Mococo Abyssgard <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	Mococo Abyssgard, blue eyes, medium hair, small breasts, pink hairband, hairpin, x hair ornament, collar, white crop top, black cropped jacket, white shorts, belt, fur trim
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
+
+##### -> Tsunomaki Watame <-
+-> [Civitai](https://civitai.com/models/314743/tsunomaki-watame-6-outfits-or-hololive-or-pony-xl) <-
+
+##### -> Shirakami Fubuki <-
+!!! info 9 Outfits!
+-> [Civitai](https://civitai.com/models/315321/shirakami-fubuki-xl-9-outfits) <-
 
 #### -> Nijisanji <-
 ***
@@ -469,3 +484,8 @@ or
 ***
 ##### -> Muu Muyu <-
 -> [Civitai](https://civitai.com/models/309439/muu-muyu-ponyxl) <-
+
+#### -> Indies <-
+***
+##### -> Cuiseika <-
+-> [Civitai](https://civitai.com/models/316818/cuiseika-pony-xl) <-

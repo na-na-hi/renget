@@ -1170,7 +1170,7 @@ Burn - Hamilton   |  https://files.catbox.moe/w8q6e1.mp4    |   https://cldup.co
 01. [Silhouette - Kana-Boon w/ Bae](https://youtu.be/YAcX5PdvJYc?t=450)
 02. [Identity - Kanaria w/ Anya](https://youtu.be/YAcX5PdvJYc?t=935)
 03. [ikanaide - Sohta w/ Kronii](https://youtu.be/YAcX5PdvJYc?t=1226)
-04. [Kanashimi wo Yasashisani - Little by Little w/ Noel](https://youtu.be/YAcX5PdvJYc?t=1511)
+04. [Kanashimi wo Yasashisa Ni - Little by Little w/ Noel](https://youtu.be/YAcX5PdvJYc?t=1511)
 05. [Sweets Parade - Kana Hanazawa w/ Mel](https://youtu.be/YAcX5PdvJYc?t=1856)
 [Connect - ClariS w/ Bijou](https://youtu.be/YAcX5PdvJYc?t=2200)
 06. [Happy synthesizer - EasyPop w/ Nene](https://youtu.be/YAcX5PdvJYc?t=2282)

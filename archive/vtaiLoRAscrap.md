@@ -57,6 +57,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Filian (Indie)** - https://civitai.com/models/304798/filian-or-independent-vtuber
 **Yuzuki Roa (Nijisanji)** - https://civitai.com/models/307489/yuzuki-roa-nijisanji
 **Rosedoodle (Indie)** - [V1] https://civitai.com/models/309560/vchiban-rosedoodle-v1-normal-maid-version [V2] https://civitai.com/models/308577/vchiban-rosedoodle-v2-or-lastest-debut
+**Nene Amano (Production Kawaii)** - https://civitai.com/models/314926/nene-amano-1st-costume-production-kawaii
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

@@ -10,7 +10,7 @@
 ###OC
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
-Korosuke | 21/02/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/korosuke-f112db52/main) | ![](https://files.catbox.moe/rtv42e.png)
+Korosuke | 21/02/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/korosuke-f112db52/main) | ![](https://files.catbox.moe/j0zbqk.png)
 Cane | 28/12/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/cane-6a7e63be/main) | ![](https://files.catbox.moe/ec4e6w.png)
 Cara | 12/11/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/cara-b43f6fbb/main) | ![](https://files.catbox.moe/cr8ww3.png)
 Kio | 12/10/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/kio-107634e4/main) | ![](https://files.catbox.moe/hosfxu.png)
@@ -92,7 +92,7 @@ Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.pn
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 15/02/2024 | https://files.catbox.moe/sr02h1.json
+Claude | 22/02/2024 | https://files.catbox.moe/65x6h1.json
 GPT-4 | ??/11/2023 | https://files.catbox.moe/s3gdrd.json
 
 ###Utility Prompts

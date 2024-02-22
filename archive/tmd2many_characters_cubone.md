@@ -46,7 +46,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 #### ->Stats<-
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 8 (20 HP) | 20 HP
+Health Points | 0 | Level 10 (21 HP) | 20 HP
 Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage

@@ -1176,6 +1176,9 @@ Detention Roulette (Satoru Tani, Karaburan, Conman, Rosethorn, Ippon, Ryukishi, 
 Quirk Wisdom (Desolator): https://rentry.org/ycx2waa6
 The Symbol of Death: Part 2 (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, The Prophet, Hijack):  https://rentry.org/w8muhu24
 Lunch Hour (1-F): https://rentry.org/LunchHour
+1-F Epilogues: 1-aFtershocks(1-F): https://rentry.org/1Aftershocks
+1-F Epilogues: 1-FUTURE (1-F, Suslik, mentions of some other heroes): https://rentry.org/rwbqp65x
+
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

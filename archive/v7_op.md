@@ -36,6 +36,9 @@ https://youtu.be/3Fb7Qv36of4
 >Cover song - 可愛くてごめん / Kawaikute Gomen:
 https://youtu.be/WDueRRGIKzw
 
+>Cover song - Stand by me, Stand by you. 【Kaela Kovalskia & Vestia Zeta】
+https://youtu.be/9pnTh-e2AZk
+
 >Cover song - スロウダウナー(Slow Downer) 【Anya Melfissa × Vestia Zeta】:
 https://youtu.be/o3pdZzvnUWY
 

@@ -1,3 +1,15 @@
+>Thermal drone drop on hohols in a house roof hole, Krynki
+https://files.catbox.moe/qr8mos.mp4
+>Avdeevka, nazi drawings left by hohols
+https://files.catbox.moe/vq3dsx.MP4
+>Daily Sudoplatov with 2 destroyed Leotards
+https://files.catbox.moe/qe7p24.mp4
+>Cokeplant Avdeevka RT special report
+https://files.catbox.moe/zesxsg.webm
+>Anglo goy meltdown about no shells
+https://files.catbox.moe/l7pbt3.mp4
+>Novomikhailovka room tours
+https://files.catbox.moe/5ufxtf.mp4
 >THE interview
 https://files.catbox.moe/il9qbm.mp4 (part 1)
 https://files.catbox.moe/z13j9y.mp4 (part 2)

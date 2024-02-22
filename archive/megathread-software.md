@@ -49,6 +49,10 @@
 - Vast selection of software. Updates every day; always the most recent version. Several options with simple file hosts.
 - [URL Safety Results](https://www.urlvoid.com/scan/diakov.net/)
 
+### 🔗 [Download Pirate](https://www.downloadpirate.com/)
+- Tonne of goods including LUTS, textures, sound effects, video editing + plugins, motion graphics, and even more.
+- [URL Safety Results](https://www.urlvoid.com/scan/downloadpirate.com/)
+
 ### 🔗 [Freepreset](https://freepreset.net/)
 - Dedicated to assisting you in obtaining premium lightroom presets, luts, photoshop actions and a plethora of other design materials.
 - [URL Safety Results](https://www.urlvoid.com/scan/freepreset.net/)
