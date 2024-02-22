@@ -119,6 +119,13 @@ New Islamic Resistance Iraq
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+New Al-Sharqiya Battalion
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+>A group calling itself "Soldiers of God - Al-Sharqiya Battalion" publishes scenes of the detonation of an explosive device in an occupation army vehicle in #Jenin, last night.
+https://files.catbox.moe/whpcsm.mp4  New  2/21/24
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 News Clips and Videos 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >Israeli Politician Daniella Weiss suggests depriving the Palestinians in Gaza of humanitarian aid "so the countries of the world will have pity on them and take them."
@@ -294,3 +301,18 @@ https://files.catbox.moe/14r1eo.mp4  New  2/20/24
 https://files.catbox.moe/pzvf4k.mp4  New  2/20/24
 >Children in northern Gaza protest calling the world to stop the femine inflicted by Israel.
 https://files.catbox.moe/vpcyzf.mp4  New  2/20/24
+>A visual of Israel's ethnic cleansing of the people of Gaza since October 7. The people have been forced to go south to the Rafah border crossing. Now Israel wants to attack the last refugee camp full of children and women. The only goal is to drive 2.5 million people into Egypt and completes the ethnic cleansing.
+https://files.catbox.moe/7wve24.mp4  New  2/21/24
+>A video of the failed British nuclear submarine missile launch
+https://files.catbox.moe/bzuzse.mp4  New  2/21/24
+>NEW: May Golan, Israeli Minister of Social Equality & Women's Advancement: "I am personally proud of the ruins of Gaza, and that every baby, even 80 years from now, will tell their grandchildren what the Jews did."
+How disgusting...
+https://files.catbox.moe/ytw68p.mp4  New  2/21/24
+>BREAKING: Israeli Knesset member Hanoch Milbitsky: "You will die, your children will die, your grandchildren will die, there won't be a Palestinian state, there will never be," He shouted at Arab member Ayman Odeh following the voting regarding the possible recognition of a Palestinian state, which was refused by 99 out of 120 members.
+https://files.catbox.moe/6u6f54.mp4  New  2/21/24
+>IDF Chief: STOP Posting TikTok War Crimes
+https://youtu.be/qNCXhtryYv4  New  2/21/24
+>Answering a question about Israel's Knesset's vote against a Palestinian state, violating international law and the Palestinian people's right to self-determination, US State Department spokesperson Matthew Miller says "Ultimately Israel will have to make its own decisions as every sovereign country does."
+https://files.catbox.moe/z5hhhr.mp4  New  2/21/24
+>BREAKING| Several injuries have been reported, most of them are children, in Israeli strikes on Al Nuseiral refugee camp in central Gaza.
+https://files.catbox.moe/b3cut8.mp4  New  2/21/24

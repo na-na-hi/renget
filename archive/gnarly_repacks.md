@@ -18,6 +18,8 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+The Lamplighters League (v1.3.1) [Gnarly Repacks] [8.94 GB]
+https://bin.0xfc.de/?0452a6441ff6b133#9oVRpTv4TATEYLRKLpCFWn7B7Pan8iSVEEgZY2MN84it
 Deep Rock Galactic - Survivor (EA-b3465857) [Gnarly Repacks] [1.03 GB]
 https://bin.0xfc.de/?ed45cc2cc6c6cf6b#4CQ21rFeQ8xy1wj3yCKGLMk8jE4VfjCixAraq8GvvE2A
 Skate 3 (+RPCS3, DLC) [Gnarly Repacks] [4.37 GB]

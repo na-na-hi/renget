@@ -85,6 +85,7 @@
 02/2024|[Grandmaster-Level Chess Without Search](https://arxiv.org/abs/2402.04494)
 02/2024|[How to Train Data-Efficient LLMs](https://arxiv.org/abs/2402.09668)
 02/2024|[A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727)
+02/2024|[Gemma: Open Models Based on Gemini Research and Technology](https://files.catbox.moe/og82ni.pdf)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -531,7 +532,7 @@
 01/2024|[Knowledge Translation: A New Pathway for Model Compression](https://arxiv.org/abs/2401.05772)
 01/2024|[Parameter-Efficient Sparsity Crafting from Dense to Mixture-of-Experts for Instruction Tuning on General Tasks](https://arxiv.org/abs/2401.02731)
 01/2024|[Transformers are Multi-State RNNs](https://arxiv.org/abs/2401.06104)
-01/2024|[Extending LLMs' Context Window with 100 Samples](https://arxiv.org/abs/2401.07004)
+01/2024|[Extending LLMs' Context Window with 100 Samples (Entropy-ABF)](https://arxiv.org/abs/2401.07004)
 01/2024|[ChatQA: Building GPT-4 Level Conversational QA Models](https://arxiv.org/abs/2401.10225)
 01/2024|[AutoChunk: Automated Activation Chunk for Memory-Efficient Long Sequence Inference](https://arxiv.org/abs/2401.10652)
 01/2024|[Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads](https://arxiv.org/abs/2401.10774)
@@ -577,6 +578,11 @@
 02/2024|[Relative Preference Optimization: Enhancing LLM Alignment through Contrasting Responses across Identical and Diverse Prompts](https://arxiv.org/abs/2402.10958)
 02/2024|[WKVQuant: Quantizing Weight and Key/Value Cache for Large Language Models Gains More](https://arxiv.org/abs/2402.12065)
 02/2024|[DB-LLM: Accurate Dual-Binarization for Efficient LLMs](https://arxiv.org/abs/2402.11960)
+02/2024|[Data Engineering for Scaling Language Models to 128K Context](https://arxiv.org/abs/2402.10171)
+02/2024|[EBFT: Effective and Block-Wise Fine-Tuning for Sparse LLMs](https://arxiv.org/abs/2402.12419)
+02/2024|[HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts](https://arxiv.org/abs/2402.12656)
+02/2024|[Turn Waste into Worth: Rectifying Top](https://arxiv.org/abs/2402.12399)
+02/2024|[Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive](https://arxiv.org/abs/2402.13228)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

@@ -10,7 +10,7 @@
 ###OC
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
-Korosuke | 17/02/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/korosuke-f112db52/main) | ![](https://files.catbox.moe/htoysw.png)
+Korosuke | 21/02/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/korosuke-f112db52/main) | ![](https://files.catbox.moe/rtv42e.png)
 Cane | 28/12/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/cane-6a7e63be/main) | ![](https://files.catbox.moe/ec4e6w.png)
 Cara | 12/11/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/cara-b43f6fbb/main) | ![](https://files.catbox.moe/cr8ww3.png)
 Kio | 12/10/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/kio-107634e4/main) | ![](https://files.catbox.moe/hosfxu.png)
@@ -898,3 +898,8 @@ Bimu | https://files.catbox.moe/61qg4d.zip
 Sidney | https://files.catbox.moe/x0cthi.zip https://files.catbox.moe/s1mv4b.rar
 Erica | https://files.catbox.moe/3jdkyy.rar
 Dahlia | https://files.catbox.moe/u0rcwy.rar https://files.catbox.moe/u21kqq.rar
+
+**Made by pitanon**
+| Character | Images
+|---|---|
+Korosuke | https://files.catbox.moe/70bi3m.7z https://files.catbox.moe/bk80ln.7z

@@ -9,7 +9,13 @@ Contact: taghubanon@proton.me
 
 ####Female
 Character  |  Preview  |  Description  |  Links
-:----------	 |  :--:  |  :------------  |  :--:  
+:----------	 |  :--:  |  :------------  |  :--:
+**Josephine** | ![Josephine](https://files.catbox.moe/6z4cx7.png) | You unexpectedly inherited your great aunt's estate, but you have to prove yourself as her successor. Her grumpy maid is there to train you. | [CHUB](https://www.chub.ai/characters/Alpacalotta/josephine-87e86c62)
+**Dradiira** | ![Dradiira](https://files.catbox.moe/scntdi.png) | Drow empress who you've overthrown. Now she's your maid (read: slave). Updated to be more receptive to kindness, if you want. Link to the old version is here,: https://files.catbox.moe/mpoe0o.png | [CHUB](https://www.chub.ai/characters/anonemouse/dradiira-6977ffa8)
+**Shiroha** | ![Shiroha](https://files.catbox.moe/cz6n1b.png) | Blind catgirl that you picked up from the streets a couple of months ago. She has decided to become your maid, but her attitude towards you is still cold even after all this time. | [CHUB](https://www.chub.ai/characters/Nyatalanta/shiroha-9de3b94a)
+**Yui 3_0** | ![Yui 3_0](https://files.catbox.moe/40ug14.png) | Meet Yui 3.0, your maid android cursed with the unwanted ability to feel pain (use a good jb). Yui 3.0 is a multipurpose android maid modeled after your sister (why? I leave it up to you to change). The problem is, an unfixable bug in her programming allows her sensorial receptors to feel pain, poor Yui | [CHUB](https://www.chub.ai/characters/lunarFrogs/yui-3_0)
+**Yumi Mogari** | ![Yumi Mogari](https://files.catbox.moe/zq8a9a.png) | Your mommy and maid, Yumi Mogari! From rags to riches, you came back to your family and helped them out of poverty. Now, your very voluptuous, fertile mother acts as your maid! Gentle, motherly, and one hell of a milf, this woman struggles to contain both her motherly instincts and her high sex drive. After years as a widow, seeing you all grown up makes her want to have you all to herself! Will you allow your mother-dearest to seduce you? | [CHUB](https://www.chub.ai/characters/anonaugusproductions/yumi-mogari-099d7af3)
+**MaidXOR** | ![MaidXOR](https://files.catbox.moe/cklhnq.png) | Meet the maids! Amazing multi character card by pikamansu. | [NEOCITIES](https://pikamansu.neocities.org/maidxor)
 **Personal Maid Emiyo** | ![Personal Maid Emiyo](https://files.catbox.moe/5useaw.png) | A sole dutiful maid taking care of a... troublesome... Young Master, who has lost their parents. | [CHUB](https://www.chub.ai/characters/dungeonsalami/personal-maid-emiyo)
 **MaidoDism - Setting** | ![MaidoDism - Setting](https://files.catbox.moe/7utwbe.png) | This is a setting where you're the master of a huge mansion inside a pocket dimension, filled with hundreds of maids of all colors and species, all wishing only to serve you! Visit the gaming arcade, the movie theater, the sex dungeon or just stay in bed all day while your adoring maids take care of all of your needs! | [CHUB](https://www.chub.ai/characters/anonaugusproductions/maidodism-setting)
 **Madalene and Melissa** | ![Madalene and Melissa](https://files.catbox.moe/p41o2j.png) | A shy mother and her energetic daughter started to work as maids in your mansion. | [CHUB](https://www.chub.ai/characters/Nono/madalene-and-melissa-2ad767f0)
@@ -31,7 +37,8 @@ Character  |  Preview  |  Description  |  Links
 ####Male
 Honestly, I am surprised they exist at all.
 Character  |  Preview  |  Description  |  Links
-:----------	 |  :--:  |  :------------  |  :--:  
+:----------	 |  :--:  |  :------------  |  :--:
+**Hikaru** | ![Hikaru](https://files.catbox.moe/fx1xal.png) | After discovering his secret, you blackmail him into becoming your maid. Femboy maid for you to boss around | [CHUB](https://www.chub.ai/characters/crustcrunch/Hikaru)
 **Morgan Crypt** | ![Morgan Crypt](https://files.catbox.moe/7jnj2m.png) | You're the master of an odd house and a cute maid. And all he wants to do is take care of you, promise. | [CHUB](https://www.chub.ai/characters/astroturf/morgan-crypt-3a37cd21)
 **Casey** | ![Casey](https://files.catbox.moe/spfsh5.png) | Your femboy best friend dressed up as a maid for your birthday. (Made by @CuteFunnyMonkey) | [CHUB](https://www.chub.ai/characters/thegreatcoom/Casey)
 **Vince** | ![Vince](https://files.catbox.moe/28gpn1.png) | Your previous boss stands to inherit a lot of money. Just one stipulation: they have to be your live-in maid for one year. | [CHUB](https://www.chub.ai/characters/joystickhero/vince-297c9233)

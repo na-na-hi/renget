@@ -1101,3 +1101,252 @@ https://nitter.tux.pizza/ME_Observer_/status/1760059748509012314#m  2/20/24
 
  All hail and admiration for your courage, you will always be on the right side of history
 https://nitter.tux.pizza/ME_Observer_/status/1760069435904118874#m  2/20/24
+
+>| 🌍 BIG SUMMARY of all resistance operations today, February 20 (2024), against (US)-israeli forces:
+
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted American warships in the Red Sea and the Arabian Sea with several kamikaze drones.
+
+🔻Targeted sensitive IOF army locations in Umm al-Rashrash (Eilat), south of occupied Palestine, using kamikaze drones.
+
+🔻Targeted the Israeli "MSC SILVER" ship in the Gulf of Aden with anti-ship missiles.
+
+
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Engaged in intense clashes with IOF forces in the southern axis of the Zaytoun neighborhood in Gaza City.
+
+🔻Targeted 3 Merkava tanks with Yassin-105 rockets, in the southern axis of the Zaytoun neighborhood in Gaza City.
+
+🔻Clashed with a group of IOF soldiers, resulting in casualties, in the Zaytoun neighborhood in Gaza City.
+
+🔻Successfully detonated an explosive device on an IOF force consisting of 6 soldiers inside a building, causing casualties, west of Khan Yunis.
+
+🔻Destroyed an israeli armored personnel carrier (APC) with a Tandem rocket, south of the Zaytoun neighborhood in Gaza City.
+
+🔻Shelled IOF concentrations, south of the Zaytoun neighborhood, in Gaza City with mortars.
+
+
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Targeted IOF forces & soldiers in the Zaytoun neighborhood, southeast of Gaza City, with 107mm rockets in a joint-operation with the Omar al-Qassem groups.
+
+🔻Targeted an IOF force holed up in a building, in the western camp in Khan Yunis, consisting of 6 individuals, with a TPG rocket.
+
+🔻Engaged in clashes with IOF soldiers and their vehicles using machine guns and anti-armor RPGs in the Zaytoun neighborhood in Gaza City.
+
+
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Shelled a gathering of IOF forces and their military vehicles with mortars and short-range rockets east of Jabalia camp.
+
+🔻Engaged in fierce clashes with IOF soldiers and vehicles using machine guns and RPGs in the Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Sniped 2 IOF soldiers positioned on the roof of a house in the "Al-Amal" neighborhood west of Khan Yunis.
+
+
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted IOF forces' gatherings in southeast Gaza City with several short-range rockets.
+
+🔻Targeted the positioning and deployment of IOF soldiers, east of Beit Hanoun, with heavy-caliber mortars.
+
+
+
+— 🟡 Hezbollah:
+
+🔻Targeted a gathering of Israeli soldiers near the Ramim Barracks with rockets.
+
+🔻Targeted Israeli soldiers near the Ramim Barracks with a Burkan IRAM rocket.
+
+🔻Targeted the Al-Marj site with suitable weapons, causing direct hits.
+
+🔻Targeted the Al-Samaqa site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Ramim Barracks with rockets, causing a direct hit.
+
+
+This list did not include rockets fired from Gaza towards settlements.
+https://t.me/FotrosResistance/5521  2/21/24
+
+>BREAKING| The Ministry of Health:
+
+⭕️Israeli occupation forces are still turning Nasser Hospital into a military barracks, endangering the lives of patients and medical staff.
+
+⭕️25 medical staff and 136 patients at Nasser Hospital are without electricity, water, food, oxygen, and adequate medical treatment for severe cases.
+
+⭕️The WHO continue to evacuate remaining patients to other hospitals for treatment.
+
+⭕️The Israeli occupation army is still refusing to allow medical and humanitarian aid into Nasser Hospital.
+https://t.me/QudsNen/96794  2/21/24
+
+>Occupied Palestine: Al-Qassam Brigades: Targeting a group of occupation soldiers barricaded inside a house with an anti-fortified TBG shell.
+https://t.me/me_observer_channel/153079  2/21/24
+
+>BREAKING| The Ministry of Health: Israel committed 11 massacres in the past 24 hours, killing 118 civilians and wounding 163 others.
+
+Hundreds of dead bodies remain in the streets and under the rubble as Israel's military continues to prevent rescue teams and residents from reaching them.
+https://t.me/QudsNen/96789  2/21/24
+
+>⚡️Urgent || Al-Qassam Brigades: We targeted a Zionist troop carrier with a Al-Yassin shell 105 west of the Al-Amal neighborhood in the city of Khan Yunis.
+https://t.me/me_observer_channel/153087  2/21/24
+
+>Zionist aggression targeted a residential tower in Damascus. No reports of injuries yet.
+https://t.me/FotrosResistance/5523  2/21/24
+
+>Cambridge University investing millions in companies fuelling Israel’s war on Gaza
+https://t.me/QudsNen/96805  2/21/24
+
+>⚡️Occupied Palestine: Al-Qassam Brigades: Our mujahideen confirmed that they targeted two groups of occupation soldiers barricaded inside two houses with anti-fortified TBG shells, killing and wounding their members in the Al-Hawuz area, west of the city of Khan Yunis.
+https://t.me/me_observer_channel/153106  2/21/24
+
+>Widespread global condemnation as U.S. vetoes UN resolution on Gaza ceasefire
+https://t.me/QudsNen/96796  2/21/24
+
+>BREAKING| Israeli media report that Israeli Public Prosecution has decided to file charges against the preacher of Al Aqsa Mosque, Sheikh Ikrima Sabri, for "incitement to terrorism."
+https://t.me/QudsNen/96795  2/21/24
+
+>A visual of Israel's ethnic cleansing of the people of Gaza since October 7.
+
+The people have been forced to go south to the Rafah border crossing.
+
+Now Israel wants to attack the last refugee camp full of children and women.
+
+The only goal is to drive 2.5 million people into Egypt and completes the ethnic cleansing.
+https://t.me/megatron_ron/1934  2/21/24
+https://files.catbox.moe/7wve24.mp4  2/21/24
+
+>⚡️Yemen: Al-Mayadeen correspondent: American-British aircraft launch three raids on Ras Issa, north of Hodeidah, west of the country.
+t.me/me_observer_channel/153117  2/21/24
+
+
+>⚡️#Lebanon: ⚡️Al-Manar correspondent:
+
+The Zionist attacks on the border areas in southern #Lebanon, which were carried out from the morning until 5:30 pm:
+
+An air strike carried out by warplanes targeted the town of Majdal Zoun, killing a woman and a girl and wounding a number of civilians.
+
+- An air strike carried out by warplanes targeted the city of #Khiam and led to the destruction of a house
+
+- An air strike with missiles targeted the outskirts of #Marwahin #Umm_Al-Tut
+
+- Two air strikes with missiles targeted the forests of the town of #Aita_Al-Shaab
+
+- Artillery shelling targeted the towns of #Muhaybib - #Aitaroun - #Yaroun - #Maroun_Al-Ras - #Aita_Al-Shaab - #Yater - #Alma_Al-Shaab - #Al-Dhahira - #Al-Jabin - #Tayr_Harfa - #Rashaya_Al-Fakhar - #Kfarhamam - The forest edges in #Tulin and #Ghandouriya
+
+Military aircraft broke the sound barrier and dropped dozens of thermal balloons into the airspace deep in southern #Lebanon.
+https://t.me/me_observer_channel/153123  2/21/24
+
+>⚡️Occupied Palestine: Al-Qassam Brigades: Our mujahideen confirmed that they targeted two #Israeli vehicles with “Al-Yassin 105” shells, west of the Al-Amal neighborhood in the city of Khan Yunis.
+https://t.me/me_observer_channel/153124  2/21/24
+
+>Far-right extremist Minister of National Security of Israel, Itamar Ben-Gvir, announced the following after the Israeli Knesset voted overwhelmingly against the establishment of a Palestinian state.
+https://t.me/QudsNen/96821  2/21/24
+
+>⚡️Urgent || Hizb allah :
+
+Our Mujahideen targeted a military position of #Israeli enemy soldiers in the Avivim settlement with appropriate weapons, killing and wounding those inside it.
+https://t.me/me_observer_channel/153172  2/21/24
+
+>⚡️Occupied Palestine: #Palestinian resistance fighters target the northern checkpoint of the city of Qalqilya with homemade explosive devices
+https://t.me/me_observer_channel/153174  2/21/24
+
+> 🇬🇧A video of the failed British nuclear submarine missile launch
+https://t.me/megatron_ron/1938  2/21/24
+https://files.catbox.moe/bzuzse.mp4  2/21/24
+
+>Protesters gathered outside the Houses of Parliament in Westminster, demanding that UK MPs call for an immediate ceasefire in Gaza.
+https://t.me/QudsNen/96826  2/21/24
+
+>Occupied Palestine: Al-Qassam Brigades: Our mujahideen fought fierce clashes with the occupation forces in the Zaytoun neighborhood, while their helicopters and vehicles transported the dead and wounded.
+https://t.me/me_observer_channel/153295  2/21/24
+
+>Hala Mufeed Abu Sa'da, 14, was known for her compassionate demeanor, eloquence, and ambitious dreams. She excelled in school activities and held deep affection for her family and friends. Tragically, the Israeli war in Gaza cut short Hala's promising life, bringing an abrupt end to her joyful existence.
+https://t.me/QudsNen/96825  2/21/24
+
+>A group calling itself "Soldiers of God - Al-Sharqiya Battalion" publishes scenes of the detonation of an explosive device in an occupation army vehicle in #Jenin, last night.
+https://t.me/me_observer_channel/153324  2/21/24
+https://files.catbox.moe/whpcsm.mp4  2/21/24
+
+>Urgent || Deputy Secretary General of Islamic Jihad, Muhammad al-Hindi:
+
+Israel does not believe in peace and Netanyahu is against negotiations.
+
+The occupation government cannot uproot any settlement from the occupied West Bank.
+
+The Paris Framework Agreement was in favor of the #Israeli entity, yet Netanyahu rejected it.
+
+The American-Zionist goal is to recover prisoners from the #Gaza Strip, and the occupation has retreated from the Paris framework.
+
+Netanyahu is stalling because he promises the #Israeli right-wing in the #Israeli entity an overwhelming victory over the resistance.
+
+Netanyahu does not want to withdraw his forces from inside the cities in #Gaza and is trying to buy time.
+
+Nothing new has crystallized in the ongoing negotiations in Cairo so far.
+https://t.me/me_observer_channel/153346  2/21/24
+
+>NEW:
+
+ 🇮🇱 May Golan, Israeli Minister of Social Equality & Women's Advancement:
+
+"I am personally proud of the ruins of Gaza, and that every baby, even 80 years from now, will tell their grandchildren what the Jews did."
+
+How disgusting...
+https://t.me/megatron_ron/1941  2/21/24
+https://files.catbox.moe/ytw68p.mp4  2/21/24
+
+>BREAKING:
+
+ 🇮🇱 Israeli Knesset member Hanoch Milbitsky:
+
+"You will die, your children will die, your grandchildren will die, there won't be a Palestinian state, there will never be,"
+
+He shouted at Arab member Ayman Odeh following the voting regarding the possible recognition of a Palestinian state, which was refused by 99 out of 120 members.
+https://t.me/megatron_ron/1942  2/21/24
+https://files.catbox.moe/6u6f54.mp4  2/21/24
+
+>BREAKING| Israeli settlers torch a house and attempt to torch a car in southern Nablus in the West Bank.
+https://t.me/QudsNen/96841  2/21/24
+
+>NEW:
+
+ 🇬🇧 Photo emerges of the Rubymar, which was hit by two Houthi missiles two days ago.
+
+The ship has been towed to the port of Djibouti, but is still at risk of sinking.
+https://t.me/megatron_ron/1943  2/21/24
+
+Al-Qassam Brigades, the 138th day... Al-Qassam continues the clashes, inflicting losses on the enemy, and finishing off 7 soldiers from point zero.
+https://t.me/me_observer_channel/153405  2/21/24
+
+>Urgent || US State Department:
+Houthi attacks lead to higher prices and delays in the delivery of vital humanitarian supplies such as food and medicine
+https://t.me/me_observer_channel/153403  2/21/24
+
+>Answering a question about Israel's Knesset's vote against a Palestinian state, violating international law and the Palestinian people's right to self-determination, US State Department spokesperson Matthew Miller says "Ultimately Israel will have to make its own decisions as every sovereign country does."
+https://t.me/QudsNen/96842  2/21/24
+https://files.catbox.moe/z5hhhr.mp4  2/21/24
+
+>BREAKING| Several injuries have been reported, most of them are children, in Israeli strikes on Al Nuseiral refugee camp in central Gaza.
+https://t.me/QudsNen/96845  2/21/24
+https://files.catbox.moe/b3cut8.mp4  2/21/24
+
+>🔴 Overall events in the city of Rafah so far
+
+1- Bombing in the vicinity of the #European Hospital, the echo of which was heard loudly in Rafah, in addition to violent targeting south of Khan Yunis.
+
+2- Targeting agricultural land opposite Dar Al-Fadila in the Khirbet Al-Adas area, north of Rafah
+
+3- Targeting agricultural land near the Salah al-Din Gate on the #Egyptian border
+
+4- Targeting a house belonging to the citizen Youssef Al-Hassi, “Abu Muhammad,” on the outskirts of the project
+
+5- Targeting a house belonging to the Al-Shaer family, in which there are displaced people from the Mutawa family, at the end of Saddam Street
+https://t.me/me_observer_channel/153417  2/21/24

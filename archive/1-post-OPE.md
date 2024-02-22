@@ -11,9 +11,9 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Palworld (Wed 02/21 7PM CT)
-Last stream (Poppy Playtime, Chapter 2)
-https://www.youtube.com/watch?v=xYHj-aYv01o
+Next stream: Advent lunch zatsu collab on Nerissa's channel (Tue 02/22 12PM CT)
+Last stream (Palworld)
+https://www.youtube.com/watch?v=qmqnCOicg_0
 Previous collab stream (telephone game collab with Bae, Miko, Hajime, Kaela and Kobo with on Bae's channel)
 https://www.youtube.com/watch?v=J_q-OWjlt0I
 

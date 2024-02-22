@@ -22,7 +22,7 @@ Key/source donators also get unlimited quotas and image gen.
 I do not accept monetary donations.
 If you want to donate, ask before randomly sending keys. Proxy already has a lot of users.
 
-Update: Updated usage stats.
+Update: Keys dead. Very busy IRL. I do plan on refilling eventually, but I don't have the time nor the headspace to engage with 4channery at the moment.
 # Stats
 !!!Note 131 users | 173820 proompts | 1274 IPs | 1.588b tokens | US$19190.35 cost
 User||Prompts|IPs|Usage

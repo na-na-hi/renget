@@ -1,4 +1,7 @@
-# Wacky Workbench (2024)
+# Workbench.CUE (2024)
+
+I'm not really sure anymore. I'm not sure I want to even keep this up knowing full well what it's caused and will continue to cause.
+How did it get this bad?
 
 I woke up, got on my computer and checked the internet like any other day. A couple of people online were talking about a "new" version of Sonic CD's PC port that was leaked last night, and apparently copyright striked to hell by SEGA within hours in an unusual move, so I had to see it. A couple of them were talking about the prototype itself, and I learned details, like when it was supposed to release (1997), what it contained (mostly enhancements, apparently full 3D special stages too?), but none of them seemed to know why it was taken down, only pure speculation, since I've never seen them do that for prototypes. One of them was even schizoposting about one of the levels, I paid no attention to it. I wanted to play it. But, of course, I couldn't. No downloads. So I just sulked, since people seemed weirdly defensive around it and unwilling to share it.
 

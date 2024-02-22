@@ -1,4 +1,5 @@
 # -> List of Anon-Made Cards and .json Files <-
+-> [[Character.AI]](https://rentry.org/vpcai) • [[Yodayo]](https://rentry.org/vp-kai) <-
 !!! note New Additions
 Update | Characters
 :------: | :------: 

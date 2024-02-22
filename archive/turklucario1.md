@@ -2,6 +2,12 @@
 *-> A Human Veteran's Lamentations of a Life Lived <-*
 -> By Iron Valiant-anon <-
 
+**Author's Note: After much consideration, feedback, and self-loathing, I decided this story will have to become part of a much larger piece of writing and be rewritten in general to better explain details I have stumbled over or failed to emphasize on in what's essentially a very slapdash abridgement of Turk's backstory. I decided to leave this up for the sake of clarity and because it's not necessarily a non-canon story, just poorly explained to my and the character's detriment.**
+
+**Please read Aura Dog Day instead for a better introductory to Turk that doesn't overburden with exposition written in a poorly moderated stream of consciousness.**
+
+***
+
 *I watched blindly as the verdant scenery passed me by on the wagon. Has it really been almost 15 years since I arrived, since everything happened? Time sure flies when you're sleeping in ditches and alleyways...*
 
 I remember it like it was yesterday, because the world won't let me forget. When the entire land places you on a pedestal because of your origins and the hopeful tales of ancient prophecy, you're doing your best to keep that illusion up unless you're wanting to risk losing a lot of support and momentum for that very purpose in the first place.

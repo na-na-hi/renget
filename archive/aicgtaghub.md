@@ -7,19 +7,25 @@
 If you have any request, want to add your rentry to the list, have a question or a suggestion, you can contact me at:
 ->taghubanon@proton.me<-
 
--> ==First Update 20/02/24== <-
+-> ==Update 21/02/24== <-
+-> *Filled in Smelly rentry and added more Maids* <-
+-> *Added: Brothers* <-
+-> *Added: old link to fox rentry, for posterity* <-
+
+-> ==Update 20/02/24== <-
 -> *Filled Maids Rentry* <-
 -> *Added: NetNavi, Multiple Characters* <-
 
-###FAQ
-!!! info TBDESU
 [TOC3]
 
 ###Rentries
+####Brothers
+https://rentry.org/brocards (no step bros allowed!)
 ####Flat chest
 https://rentry.org/flatchestrecommendations
 ####Foxes
 https://rentry.org/fluffytails
+https://rentry.org/lovefoxes `abandoned`
 ####Maids
 https://rentry.org/meidorecommendations
 ####Multiple characters
@@ -27,11 +33,14 @@ https://rentry.org/multiplecharacters
 ####NetNavi
 https://rentry.org/aicgnetnavi
 ####Saving
-https://rentry.org/saviorrecommendations - WIP
+https://rentry.org/saviorrecommendations - `WIP`
 ####Smell
-https://rentry.org/smellyrecommendations - WIP
+https://rentry.org/smellyrecommendations
 ####Robots
 WIP
+
+###FAQ
+!!! info TBDESU
 
 ###Thanks
 First thank you goes to flatchest rentry anon, for inspiration to make this.

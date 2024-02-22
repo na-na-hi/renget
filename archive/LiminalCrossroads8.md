@@ -407,7 +407,7 @@ ______________________________
 
 Phanpy scoffs sarcastically. “You might think me more approachable than Totodile or Cyndaquil, but in truth I’ve had my weird moments too.”
 
-“I never would’ve known,” Bil replies as candidly as always. “Care to give me an example?”
+“I never would’ve known,” Bill replies as candidly as always. “Care to give me an example?”
 
 Phanpy’s tiny black eyes look away. “Some of the things I’ve done in the past are too stupid to retell.”
 
@@ -490,7 +490,7 @@ And so, Bill’s first-ever patient ends his session.
 
 …
 
-All alone in his office filled with decorations, the day comes to an end.
+All alone in his decoration-filled office, the day comes to an end.
 
 The sun shines down upon a growlithe flattening a cotton seat with his spine, his belly exposed in a position none-too-dignifying to otherwise do in public. All he can do is stretch his four hanging limbs out in the air in regular intervals, relaxing after his mentally exhausting first day on the job. Patients like these weren’t the first thing he had in mind, but there weren’t many major complaints from Bill that he felt he could make in his position. That being said, from his ever-displeased perspective of himself, he is quite fulfilled at his performance today.
 

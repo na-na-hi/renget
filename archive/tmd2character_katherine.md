@@ -25,9 +25,9 @@ Stat | Points: 1 (+1) | Modifiers | Combat Effect
 Health Points | 1 | Specie bonus; Level 10 (21HP) | 25 HP
 Attack | 1 | ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 1 | ʙᴏɴᴜs | +1 Physical Mitigation
+Defense | 0 | N/A | +1 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 1 | Training ʙᴏɴᴜs | 5 AP
+Speed | 2 | Training ʙᴏɴᴜs, Bonus | 6 AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -65,6 +65,7 @@ Currently Training for Stat: None | Tier **N/A** | 0/9 | ▮▯▯▯▯▯▯�
 They see me rollin' | Tier **ɪ** | 0/6 | ▯▯▯▯▯▯
 Engineering **ɪ** | Tier **ɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Construction/Handiwork | Tier **ɪ** | 0/6 | ▯▯▯▯▯▯
+ Speed | Tier **ɪɪɪ** | 9/9 | ▮▯▯▯▯▯▯▯
 
 
 **INVENTORY (4 slots)**
@@ -74,17 +75,17 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Rawst Berry	| Soothes the user. Heals Burn.	25₽
-2. Rawst Berry | Soothes the user. Heals Burn.	25₽
-3. Oran Berry | Vacant inventory slot.
-4. Oran leave | Vacant inventory slot.
+1. Meteor shard | ...
+2. Meteor shard | ...
+3. Meteor shard | ...
+4. Meteor shard | ...
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Oran Leave | Vacant inventory slot.
+1. Rawst Berry	| Soothes the user. Heals Burn.
 2. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **RP/QUEST STORAGE (∞ slots)**

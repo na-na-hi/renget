@@ -8,7 +8,7 @@ i may seem mean. for the most part, i try not to be, but be aware that i am easi
 i use neos, xenos, titles and nonhumanity terms sorrh for being cringe Guh 
 
 **sp/ins** nintendo, inanimate insanity + others ul
-**fixated:** cookie run, dick figures, my ocs, honkai star rail, hololive (?) (im normal i swer)
+**fixated:** cookie run, dick figures, my ocs, honkai star rail (im normal i swer)
 **normal:** phighting, party crashers, icebergs (not real ones, collections of information.), psychological horror, rentries
 
 !~[%black%back%%](raygun)~!

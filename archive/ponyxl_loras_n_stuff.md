@@ -62,7 +62,8 @@ https://files.catbox.moe/nvc1m8.safetensors ndc
 https://files.catbox.moe/kbaz4k.safetensors trogfor
 https://files.catbox.moe/4b97sc.safetensors nephlite
 https://files.catbox.moe/swjqw4.safetensors yd
-https://files.catbox.moe/ecebk5.safetensors rustle
+![rustle preview](https://files.catbox.moe/getgt9.png)
+https://files.catbox.moe/qyreix.safetensors rustle 
 https://files.catbox.moe/ojbvr4.safetensors afrobull
 https://files.catbox.moe/rqqk5m.safetensors akihiko_yoshida
 https://files.catbox.moe/cuzgnf.safetensors aoi_nagia just using stuff from Elf Mori

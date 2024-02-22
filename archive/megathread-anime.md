@@ -73,10 +73,6 @@
 - Offering the lowest file size, but highest quality anime encodes and depending on the content of the anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/hi10anime.com/)
 
-### 🔗 [Judas DDL](https://rentry.org/judas-ddl) • Join Google Group
-- Whole anime episodes of Blu-ray and WEB-DL quality are available. Must be a member of the Google Group to gain access.
-- [URL Safety Results](https://www.urlvoid.com/scan/https://rentry.org)
-
 ### 🔗 [Kayoanime](https://kayoanime.com/) • Join Google Group
 - Built with love, this website is a community for fans of anime where users can share updates, news, and obtain downloads of new anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/kayoanime.com/)

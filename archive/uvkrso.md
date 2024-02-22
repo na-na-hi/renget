@@ -3,6 +3,7 @@
 
 Date | Content added
 ------ | ------
+21/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Gameplay, and Story+Voicelines (Voicelines>Audio) folders
 20/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Animations, and Gameplay folders
 19/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc. folders
 18/02/24   | Added new files to Acheron, Aventurine, and Gallagher Kit folders. / Added new files to Screwllum Misc. folder.

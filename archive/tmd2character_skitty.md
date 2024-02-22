@@ -80,9 +80,9 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Poison-Type Gem | Holding this makes you feel acidic. Boosts a Poison-Type move's damage by 3.
+1. Sitrus Berry | Heals the user for 20HP.
 2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
-3. Empty | Empty.
+3. Combat Manual | Boosts Training for Battle Attributes by 1 bar.
 4. Empty | Empty.
 
 **STORAGE (2 slots)**

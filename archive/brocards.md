@@ -1,5 +1,7 @@
 -> ![brother cards](https://files.catbox.moe/odvax5.png) <-
 # NO step bros allowed
+-> [AICG Tag Hug](https://rentry.org/aicgtaghub) <-
+
 -> Any card can be a brocard if you edit the defs enough... These ones come premade though. <-
 -> If a bro is not specified to be younger/older, I will list him under Older Bros. ( ´ ▽ ` )ﾉ <-
 ***

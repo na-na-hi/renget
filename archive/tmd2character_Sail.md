@@ -79,7 +79,7 @@ Item Name | Description
 *Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
 *Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Blast Seed | Explodes on contact for 10 true damage.
-2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+2. Meteorite Shard | A shard of a meteorite that possibly worth 150₽ 
 3. Heal Seed | 	Cures all status conditions.
 4. N/A | N/A
 
@@ -101,6 +101,7 @@ RP Item |+Rope | A strong and sturdy rope. Used for rope stuff. About 7 feet lon
 RP Item |11 Ball of Yarn| A Bunch of Yarn that probably belong to a Sprigatito. Maybe knit something with it?
 RP Item | Seashells | A collecting of seashell find along the shoreline.
 RP Item | Cyan Ink | Jar fill with cyan ink with some decoration painted on it.
+RP Item | Obsidian | Chuck of obsidian.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
