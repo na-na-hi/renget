@@ -55,6 +55,7 @@ Name | Description | Links |
 ->**Romulus Augustus**<- ![built for big cabbage patches](https://files.catbox.moe/0jelmp.jpg) | Last of the Western Roman Emperors, and the most breedable femboy butt of the 5th century. Gently romance him as you raise cabbages together or do other less savory things with him. Send any complaints about historical inaccuracies to chefseru@proton.me. | [card](https://files.catbox.moe/uy2s87.png) [chub](https://www.chub.ai/characters/chefseru/romulus-0cec545d)
 ->**Rei Morikawa**<- ![she's blushing, she must be nervous :)](https://files.catbox.moe/b6t3ga.png) | Station 11's most promising mech pilot! Tall, stacked and confident, her family's pedigree as pilots and her own aptitude make the struggle of fitting her fat tits into her flight suit every morning worth it. Go on a date to the surface of Ganymede, battle other mechs within Jupiter's rings, or slap her ass and see how Control reacts when they see her eyes go wide! | [card](https://files.catbox.moe/7ujmz7.png) [chub](https://www.chub.ai/characters/chefseru/rei-morikawa-04d06b48)
 ->**Calla**<- ![fertilizer and water does a plant good](https://files.catbox.moe/osrm8a.jpg) | Calla is either the all-powerful avatar of her garden paradise! Or just some bossy plant lady if she's separated from it. Big bush. Talks to plants. Gets mad if they don't talk back. The flowery language is intentional. | [card](https://files.catbox.moe/etharf.png) [chub](https://chub.ai/characters/chefseru/calla-91ea3e63)
+->**Pterry**<- ![did you know fruit bats are called flying foxes?](https://files.catbox.moe/oxvbtz.png) | The fruitest fruit bat boy, Pterry is an amazing bartender and quite the chatterbox. Just goes on and on and on... He's got a big heart, big wings, and big balls. | [card](https://files.catbox.moe/4jg9jy.png) [chub](https://chub.ai/characters/chefseru/pterry-e493067a)
 
 ***
 ## APPETIZERS 
@@ -107,3 +108,4 @@ CLANK CLANK CLANK CLANK
 ![Romulus pretty boy version](https://files.catbox.moe/fv0h7f.png)| ![Romulus alt](https://files.catbox.moe/nzrpfv.jpg)
 ![I really like the shitty oekaki jaggy lines lora](https://files.catbox.moe/gqgwh4.png)| ![god I love saggy titties](https://files.catbox.moe/soyzuz.png)
 ![LOOK AT THOSE MELONS](https://files.catbox.moe/n1vpm2.png)| ![naked calla](https://files.catbox.moe/66n0eq.png)
+![probably my gayest card yet](https://files.catbox.moe/95zjgw.png)| ![no regrets](https://files.catbox.moe/rmc11e.png)

@@ -16,10 +16,12 @@ This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEG
 
 !!! note The preview images do not represent the full capability of each model.
 
+Even the prompts for the preview images are a bit of a compromise as the quality tags can vary the look of each lora greatly. No quality tags is better for flat shading but can also result in low quality overall even with *sketch* in the negative prompt. I have settled on a prompt which is a happy medium, but I would recommend playing with the quality tags, namely *rating_explicit, source_anime, core_9, score_8_up, score_7_up, score_6_up*. I also found that *score_8_up* in particular has a pretty strong effect.
+
 !!! info All preview images below use the following template:
 
 ```
-solo, 1girl, female, human, cowboy shot, three-quarter portrait, straight-on, facing viewer, front view, standing, arms at sides, looking at viewer, indoors, inside, store, source_anime, score_9, score_8_up, score_7_up, score_6_up
+solo, 1girl, female, human, cowboy shot, three-quarter portrait, straight-on, facing viewer, front view, standing, arms at sides, looking at viewer, indoors, inside, store, (source_anime, score_9:0.8)
 Negative prompt: (sketch:0.8)
 Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash: 67ab2fd8ec, Model: ponyDiffusionV6XL_v6
 ```
@@ -27,55 +29,67 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 ## Style Loras
 
 ### [allcharacters18](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/adlQiKyB)
-![](https://i.imgur.com/XDnKSCm.png) | ![](https://i.imgur.com/t9lKOQ9.png) | ![](https://i.imgur.com/bPutRIV.png) | ![](https://i.imgur.com/XfYOBPE.png)
+![](https://i.imgur.com/QYW50WB.png) | ![](https://i.imgur.com/CKK7kJG.png) | ![](https://i.imgur.com/ZKNw8nl.png) | ![](https://i.imgur.com/NF31TbG.png)
 :------:|:------:|:------:|:------:
 
 ### [banananosongen](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eYMUXZwB)
-![](https://i.imgur.com/txXVPNT.png) | ![](https://i.imgur.com/44bk5c4.png) | ![](https://i.imgur.com/z3zpUFH.png) | ![](https://i.imgur.com/WP0mBOp.png)
+![](https://i.imgur.com/wYDPsEN.png) | ![](https://i.imgur.com/C6jLa5s.png) | ![](https://i.imgur.com/5b7Ta2R.png) | ![](https://i.imgur.com/sW96pFj.png)
 :------:|:------:|:------:|:------:
 
 ### [esearu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mNF3xLiS)
-![](https://i.imgur.com/A89JAPO.png) | ![](https://i.imgur.com/BnJgHv7.png) | ![](https://i.imgur.com/YTR0chT.png) | ![](https://i.imgur.com/fnn78cj.png)
+![](https://i.imgur.com/VqRTHjC.png) | ![](https://i.imgur.com/A5upn5q.png) | ![](https://i.imgur.com/fWe4NQY.png) | ![](https://i.imgur.com/lHJgWCW.png)
+:------:|:------:|:------:|:------:
+
+### [hiro hiroki](https://i.imgur.com/iCHaAXU.png)
+![](https://i.imgur.com/iCHaAXU.png) | ![](https://i.imgur.com/eaGc3aV.png) | ![](https://i.imgur.com/1TfM2gY.png) | ![](https://i.imgur.com/FkQ82FN.png)
 :------:|:------:|:------:|:------:
 
 ### [kinhasu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7Y8HXC7B)
-![](https://i.imgur.com/2T3dosK.png) | ![](https://i.imgur.com/7f5KQtj.png) | ![](https://i.imgur.com/iooeEQw.png) | ![](https://i.imgur.com/b8DdLPw.png)
+![](https://i.imgur.com/9eJoGXI.png) | ![](https://i.imgur.com/Y7hzlgu.png) | ![](https://i.imgur.com/Cj5VXb1.png) | ![](https://i.imgur.com/SXnm3FP.png)
+:------:|:------:|:------:|:------:
+
+### [kokaki mumose](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/mB9CQD6A)
+![](https://i.imgur.com/evQRhJQ.png) | ![](https://i.imgur.com/PUoWKJP.png) | ![](https://i.imgur.com/7ctiJeL.png) | ![](https://i.imgur.com/nhuvz93.png)
 :------:|:------:|:------:|:------:
 
 ### [mentei yakuna](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/aItU0AyB)
-![](https://i.imgur.com/P8CsJ8o.png) | ![](https://i.imgur.com/XXIBluC.png) | ![](https://i.imgur.com/SDNEaaW.png) | ![](https://i.imgur.com/F3fQ5if.png)
+![](https://i.imgur.com/FzlVRTL.png) | ![](https://i.imgur.com/AWlrA8o.png) | ![](https://i.imgur.com/ye9wkH1.png) | ![](https://i.imgur.com/1it0FTB.png)
 :------:|:------:|:------:|:------:
 
 ### [musouzuki](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jB9jEDoB)
-![](https://i.imgur.com/5cKOCbX.png) | ![](https://i.imgur.com/LK3FiAO.png) | ![](https://i.imgur.com/v27bEzh.png) | ![](https://i.imgur.com/3aXWr8P.png)
+![](https://i.imgur.com/6GuToCD.png) | ![](https://i.imgur.com/GiiNcL7.png) | ![](https://i.imgur.com/4gGUpkR.png) | ![](https://i.imgur.com/lQxE1gx.png)
+:------:|:------:|:------:|:------:
+
+### [niko (tama)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TR11FLhI)
+![](https://i.imgur.com/Uyt0eJ8.png) | ![](https://i.imgur.com/6QL9oGG.png) | ![](https://i.imgur.com/mQ3Vuam.png) | ![](https://i.imgur.com/CjPkU0v.png)
 :------:|:------:|:------:|:------:
 
 ### [reagan long](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/TJE2VDSI)
-![](https://i.imgur.com/dnX0R5m.png) | ![](https://i.imgur.com/7rkL4V1.png) | ![](https://i.imgur.com/XrNDw34.png) | ![](https://i.imgur.com/A9cmGO5.png)
+![](https://i.imgur.com/ZJ2pveM.png) | ![](https://i.imgur.com/y7nGX8G.png) | ![](https://i.imgur.com/Tz5J3wz.png) | ![](https://i.imgur.com/WSe5kBF.png)
 :------:|:------:|:------:|:------:
 
 ### [s16xue](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/iJtjDL4C)
-![](https://i.imgur.com/s0TElz4.png) | ![](https://i.imgur.com/0B7ER19.png) | ![](https://i.imgur.com/SsWox2b.png) | ![](https://i.imgur.com/hFFVyQJ.png)
+![](https://i.imgur.com/yt0ptYu.png) | ![](https://i.imgur.com/sfAEySG.png) | ![](https://i.imgur.com/U5xJquE.png) | ![](https://i.imgur.com/p0Y0GM9.png)
 :------:|:------:|:------:|:------:
 
 ### [seruroku](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yItExQjA)
-![](https://i.imgur.com/x7o3rR5.png) | ![](https://i.imgur.com/cMZE0UD.png) | ![](https://i.imgur.com/0EuHiDJ.png) | ![](https://i.imgur.com/i6S8e74.png)
+![](https://i.imgur.com/bLI6afs.png) | ![](https://i.imgur.com/Be8aXsB.png) | ![](https://i.imgur.com/WUomm6Y.png) | ![](https://i.imgur.com/OZKfd7z.png)
 :------:|:------:|:------:|:------:
 
 ### [sweetonedollar](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/GVtiRYpT)
-![](https://i.imgur.com/qBGhcLB.png) | ![](https://i.imgur.com/M1mQWz7.png) | ![](https://i.imgur.com/YXriAfC.png) | ![](https://i.imgur.com/AMoF8bo.png)
+![](https://i.imgur.com/6CSQjnz.png) | ![](https://i.imgur.com/M6YqxgC.png) | ![](https://i.imgur.com/JEWMPu7.png) | ![](https://i.imgur.com/AAnfEhb.png)
 :------:|:------:|:------:|:------:
 
 ### [tamaya](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3A9w0ISS)
-![](https://i.imgur.com/MfMbKZx.png) | ![](https://i.imgur.com/IUq4F0C.png) | ![](https://i.imgur.com/rrmhIjq.png) | ![](https://i.imgur.com/OSC89OF.png)
+![](https://i.imgur.com/B1nKDm7.png) | ![](https://i.imgur.com/GAyUHOV.png) | ![](https://i.imgur.com/OeVSe7u.png) | ![](https://i.imgur.com/l3fIkWN.png)
 :------:|:------:|:------:|:------:
 
 ### [toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3JUFXZzL)
-![](https://i.imgur.com/n4dhAEr.png) | ![](https://i.imgur.com/nQOdFHd.png) | ![](https://i.imgur.com/Zsp7XJp.png) | ![](https://i.imgur.com/dXyEeNa.png)
+![](https://i.imgur.com/GaRAdrl.png) | ![](https://i.imgur.com/Mky0Ee3.png) | ![](https://i.imgur.com/SQhwq5D.png) | ![](https://i.imgur.com/r3st7F8.png)
 :------:|:------:|:------:|:------:
 
 ### [waymay](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WBUSwJJZ)
-![](https://i.imgur.com/J7TAZnP.png) | ![](https://i.imgur.com/QHVDVSB.png) | ![](https://i.imgur.com/dL4uDpf.png) | ![](https://i.imgur.com/eKHAPx1.png)
+![](https://i.imgur.com/k1UETiS.png) | ![](https://i.imgur.com/JN47qBa.png) | ![](https://i.imgur.com/56uKhlM.png) | ![](https://i.imgur.com/6RAZdeZ.png)
 :------:|:------:|:------:|:------:
 
 ## Multi LoRAs
@@ -84,14 +98,14 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 ```
 dagger \(fizrotart\), ... twintails, black hair, red eyes
 ```
-![](https://i.imgur.com/iqxGzlM.png) | ![](https://i.imgur.com/w75RZ95.png) | ![](https://i.imgur.com/3TlSEwF.png) | ![](https://i.imgur.com/emzJzeD.png) | ![](https://i.imgur.com/twXe8ov.png)
+![](https://i.imgur.com/RPESvat.png) | ![](https://i.imgur.com/6ZkbRkJ.png) | ![](https://i.imgur.com/jQinNql.png) | ![](https://i.imgur.com/oRtifLN.png) | ![](https://i.imgur.com/2uMFsE0.png)
 :------:|:------:|:------:|:------:|:------:
 
 ### [porforever](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/rck1QLgY)
 ```
-digitan \(porforever\), ... headphones, dress shirt, power symbol, bare shoulders, off-shoulder jacket, hair between eyes, long hair, white hair, aqua eyes, star-shaped pupils
+digitan \(porforever\), ... fang, headphones, power symbol, dress shirt, pink shirt, off-shoulder jacket, blue jacket, bare shoulders, hair between eyes, long hair, white hair, aqua eyes, star-shaped pupils
 ```
-![](https://i.imgur.com/cn6qeen.png) | ![](https://i.imgur.com/HXWWLaZ.png) | ![](https://i.imgur.com/lumdkWW.png) | ![](https://i.imgur.com/JfRtrgi.png) | ![](https://i.imgur.com/ZqZlMOZ.png)
+![](https://i.imgur.com/EpIA5Q4.png) | ![](https://i.imgur.com/pIhk7yX.png) | ![](https://i.imgur.com/Hzl215N.png) | ![](https://i.imgur.com/8lffQ34.png) | ![](https://i.imgur.com/Upny0Dr.png)
 :------:|:------:|:------:|:------:|:------:
 
 ## Additional Notes

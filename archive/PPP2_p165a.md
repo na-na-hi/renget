@@ -1,0 +1,59 @@
+> https://rentry.org/PPP2_p165a
+```cpp
+// Code derived from Stroustrup's PPP2 book
+// § 5.10 Pre- and post-conditions
+//  -and beginning on p 165
+
+#include <iostream>
+#include <stdexcept>
+
+using std::cerr;
+using std::cout;
+using std::exception;
+using std::runtime_error;
+
+// void error(const char* s) { throw runtime_error(s); }
+
+/*
+// the arguments are positive and a < b < c
+int my_complicated_function(int a, int b, int c)
+{
+  if (! (0 < a && a < b && b < c))  // ! means “not” and && means “and”
+    error("bad arguments for mcf");
+
+  // . . .
+
+  return 1;  // stub
+}
+*/
+
+int my_complicated_function(int a, int b, int c)
+{
+  // . . .
+
+  return 1;  // stub
+}
+
+int main()
+try {
+  int x = my_complicated_function(1, 2, "horsefeathers");
+
+  cout << x << '\n';
+
+} catch (exception& e) {
+  cerr << "error: " << e.what() << '\n';
+  // keep_window_open();
+  return 1;
+
+} catch (...) {
+  cerr << "Oops: unknown exception!\n";
+  // keep_window_open();
+  return 2;
+}
+```
+>*build & run:*
+`g++ -std=c++20 -O2 -Wall -pedantic ./ch_05/main_p165a.cpp && ./a.out`
+!!! info *sauce:*
+    [Bjarne Stroustrup's PPP2 textbook](https://www.stroustrup.com/programming.html) 
+    [/robowaifu/'s official C++ learning textbook thread](https://alogs.space/robowaifu/res/18749.html#18749)
+[Prev](https://rentry.org/PPP2_p164) • [Up](https://rentry.org/PPP2_ch05) • [Next](https://rentry.org/PPP2_p165b)

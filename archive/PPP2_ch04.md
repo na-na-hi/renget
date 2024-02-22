@@ -1,0 +1,56 @@
+>https://rentry.org/PPP2_ch04
+!!! info */robowaifu/'s C++ learning textbook chapter 04*
+
+#### Computation
+>*“If it doesn’t have to produce correct results, I can make it arbitrarily fast.”*.  —Gerald M. Weinberg
+
+*"This chapter presents the basics of computation. In particular, we discuss how to compute a value from a set of operands (expression), how to choose among alternative actions (selection), and how to repeat a computation for a series of values (iteration). We also show how a particular sub-computation can be named and specified separately (a function). Our primary concern is to express computations in ways that lead to correct and well-organized programs. To help you perform more realistic computations, we introduce the vector type to hold sequences of values."*
+
+- [§ 4.3 Expressions - part a](https://rentry.org/PPP2_p94)
+- [§ 4.3 Expressions - part b](https://rentry.org/PPP2_p95)
+- [§ 4.3.1 Constant expressions - part a](https://rentry.org/PPP2_p96a)
+- [§ 4.3.1 Constant expressions - part b](https://rentry.org/PPP2_p96b)
+- [§ 4.3.1 Constant expressions - part c](https://rentry.org/PPP2_p96c)
+- [§ 4.3.1 Constant expressions - part d](https://rentry.org/PPP2_p97)
+- [§ 4.3.2 Operators](https://rentry.org/PPP2_p98)
+- [§ 4.3.3 Conversions - part a](https://rentry.org/PPP2_p99a)
+- [§ 4.3.3 Conversions - part b](https://rentry.org/PPP2_p99b)
+- [§ 4.3.3 Conversions - part c](https://rentry.org/PPP2_p100a)
+- [§ 4.3.3 Conversions - part d](https://rentry.org/PPP2_p100b)
+- [§ 4.4 Statements - part a](https://rentry.org/PPP2_p100c)
+- [§ 4.4 Statements - part b](https://rentry.org/PPP2_p101a)
+- [§ 4.4 Statements - part c](https://rentry.org/PPP2_p101b)
+- [§ 4.4.1.1 if-statements - part a](https://rentry.org/PPP2_p102a)
+- [§ 4.4.1.1 if-statements - part b](https://rentry.org/PPP2_p102b)
+- [§ 4.4.1.1 if-statements - part c](https://rentry.org/PPP2_p103a)
+- [§ 4.4.1.1 if-statements - part d](https://rentry.org/PPP2_p103b)
+- [§ 4.4.1.2 switch-statements](https://rentry.org/PPP2_p105)
+- [§ 4.4.1.3 Switch technicalities - part a](https://rentry.org/PPP2_p106)
+- [§ 4.4.1.3 Switch technicalities - part b](https://rentry.org/PPP2_p107a)
+- [§ 4.4.1.3 Switch technicalities - part c](https://rentry.org/PPP2_p107b)
+- [§ 4.4.1.3 Switch technicalities - part d](https://rentry.org/PPP2_p108)
+- [§ 4.4.2.1 while-statements](https://rentry.org/PPP2_p109)
+- [§ 4.4.2.2 Blocks](https://rentry.org/PPP2_p111)
+- [§ 4.4.2.3 for-statements - part a](https://rentry.org/PPP2_p112a)
+- [§ 4.4.2.3 for-statements - part b](https://rentry.org/PPP2_p112b)
+- [§ 4.4.2.3 for-statements - part c](https://rentry.org/PPP2_p113a)
+- [§ 4.5 Functions - part a](https://rentry.org/PPP2_p113b)
+- [§ 4.5 Functions - part b](https://rentry.org/PPP2_p114)
+- [§ 4.5 Functions - part c](https://rentry.org/PPP2_p115)
+- [§ 4.5.1 Why bother with functions?](https://rentry.org/PPP2_p116)
+- [§ 4.5.2 Function declarations](https://rentry.org/PPP2_p117)
+- [§ 4.6 vector - part a](https://rentry.org/PPP2_p118a)
+- [§ 4.6 vector - part b](https://rentry.org/PPP2_p118b)
+- [§ 4.6 vector - part c](https://rentry.org/PPP2_p118c)
+- [§ 4.6 vector - part d](https://rentry.org/PPP2_p119a)
+- [§ 4.6.1 Traversing a vector - part a](https://rentry.org/PPP2_p119b)
+- [§ 4.6.1 Traversing a vector - part b](https://rentry.org/PPP2_p119c)
+- [§ 4.6.2 Growing a vector](https://rentry.org/PPP2_p120)
+- [§ 4.6.3 A numeric example - part a](https://rentry.org/PPP2_p121)
+- [§ 4.6.3 A numeric example - part b](https://rentry.org/PPP2_p122a)
+- [§ 4.6.4 A text example](https://rentry.org/PPP2_p123)
+
+!!! info *sauce:*
+    [Bjarne Stroustrup's PPP2 textbook](https://www.stroustrup.com/programming.html) 
+    [/robowaifu/'s official C++ learning textbook thread](https://alogs.space/robowaifu/res/18749.html#18749)
+[Prev](https://rentry.org/PPP2_ch03) • [Home](https://rentry.org/PPP2_home) • [Next](https://rentry.org/PPP2_ch05)

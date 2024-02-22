@@ -207,11 +207,11 @@ They both run into the dusk to their future
 >“Carrot” (Nickname), a male Dusk Lycanroc, he’s a seasoned explorer and former member of another Guild, arrives at the Clover Guild along Hazel sometime after it was founded, in the called “Second wave”, he’s brave, courageous, and some even say incredibly reckless, he will not stop at anything or anyone if he believes that Hazel or any innocent pokemon is in harm’s way or under any peril, at that point his eyes turn bright red like a Midnight Lycanroc’s, becoming almost unstoppable, unleashing his full power, in some cases excessively, after all those years he still doesn’t know his name, so officially he doesn’t have one, although Hazel decided to give him the “Carrot” nickname after he said that “He looked like a damn carrot” after evolving, he has great respect for the sun and the moon, calling them his “Guides” and “Masters”
 >>Interactions
 >Be someone new or an old friend, Carrot will always talk casually, cracking jokes (Sometimes a bit too far, and mostly lame) but keeping a high degree of respect for them, he will treat anyone equally, be a simple townfolk or a federation agent, this might cause misunderstandings and to some pokemon to even feel offended for his layback attitude
->While in combat, however, any drop of casual talk disappears, becoming almost authoritarian, barking orders, and in some cases, even screaming to be heard
+>While in combat, however, any drop of casual talk disappears, becoming almost authoritarian, barking orders, and in some cases, even resorting to howls to be heard
  
 >>Misc.
 >He wears a purple scarf on his neck, and for a time, some broken sunglasses he found in a mystery dungeon, he keeps his badge on either the scarf or a bag he wears for quick access to his objects
->He has an irregular white patch of fur on his side due to a powerful ice move that he tanked, burning the nerves and causing the fur pigmentation of that patch
+>He has an irregular white patch of fur on his side due to a powerful ice move that he tanked, burning the nerves and causing the fur pigmentation to stop of that patch
 >His ‘Sigil’ is of the chariot as told by a Xatu, he will not stop until the job is done, or he considers it to be done
 >Secret: He still misses the flavor of meat and cold cuts like Salami, and has wondered how different pokemon would taste, but those are just intrusive thoughts and he will never even try it
 ***
@@ -220,10 +220,10 @@ They both run into the dusk to their future
 
 >>Interactions
 >Hazel is a trickster by default, her entire personality is being mischievous or at least a jokester, so she might laugh a bit while talking
->While in combat, her voice turns slightly softer, an omen of her traps and trickeries she has prepared to her foes, to the point of almost being enticing
+>While in combat, her voice turns slightly softer and even seducing, an omen of her traps and trickeries she has prepared to her foes, to the point of almost being enticing, but when things truly become desperate, she will not doubt to charge at full speed, bag of blast seeds included.
 
 >>Misc.
->Her 'Sigil' is that of an inverse star as told by a Xatu, her loss has bringed her fortune in her life
+>Her 'Sigil' is that of an inverse star as told by a Xatu, her loss has bringed her fortune in her new life
 >She wears a golden scarf, with her badge(s) on it, along with a secret oran berry she keeps as a safeguard in combat
 >Along that, she also has two small bags that work as quick access to blast seeds and healing/reviving items
->Secret. One of the only things she can remember of her past is a black and red shadow, that, although is scared of, knows was important in her past
+>Secret. One of the only things she can remember of her past is a black and red shadow, that, although is scared of, knows was important in her past, and had feelings for it

@@ -1,0 +1,129 @@
+> https://rentry.org/PPP2_p203a
+```cpp
+// Code derived from Stroustrup's PPP2 book
+// § 6.5.4 Primary expressions
+//  -and beginning on p 203
+
+/*------------------------------------------------------------------------------
+
+  Note: One of the goals behind the textbook's teaching for this section is to
+  use an incremental approach for the student's understanding of all the various
+  problems to be solved when creating a working calculator program.
+
+   -As such, some of the examples from Ch 6 are non-working if left as-is.
+   -This example is one of those.
+   -The actual definition of the function declaration:
+        get_token()
+    is being left till later on in the examples (so the build's linker step
+    will fail therefore). For now, these are just placeholders for the ideas.
+
+  A working example is already created for the classroom so you can look ahead.
+
+------------------------------------------------------------------------------*/
+
+#include <iostream>
+#include <stdexcept>
+#include <string>
+
+using namespace std;
+
+void error(const char* s) { throw runtime_error(s); }
+
+class Token {
+ public:
+  Token(char ch) : kind{ch} {}
+
+  Token(char ch, double val) : kind{ch}, value{val} {}
+
+  char   kind  = '0';
+  double value = 0.0;
+};
+
+Token  get_token();   // read a token from cin - (TBD!)
+double expression();  // fwd-declaration so that primary() can call expression()
+
+double primary()
+{
+  Token t = get_token();
+
+  switch (t.kind) {
+    case '(': {  // handle '(' expression ')'
+      double d = expression();
+
+      t = get_token();
+      if (t.kind != ')')
+        error("')' expected");
+
+      return d;
+      break;
+    }
+    case '8':          // we use '8' to represent a number
+      return t.value;  // return the number's value
+      break;
+    default:
+      error("primary expected");
+      // shouldn't reach here
+      return 0.0;
+  }
+}
+
+double term()
+{
+  double left = primary();
+
+  Token t = get_token();
+
+  while (true) {
+    switch (t.kind) {
+      case '*': left *= primary(); break;
+      case '/': {
+        double d = primary();
+        if (d == 0)
+          error("divide by zero");
+
+        left /= d;
+        break;
+      }
+      default: return left;
+    }
+
+    t = get_token();
+  }
+}
+
+double expression()
+{
+  double left = term();
+
+  Token t = get_token();
+
+  while (true) {
+    switch (t.kind) {
+      case '+': left += term(); break;
+      case '-': left -= term(); break;
+      default: return left;
+    }
+
+    t = get_token();
+  }
+}
+
+int main()
+try {
+  expression();
+
+} catch (exception& e) {
+  cerr << e.what() << '\n';
+  return 1;
+
+} catch (...) {
+  cerr << "exception \n";
+  return 2;
+}
+```
+>*build & run:*
+`g++ -std=c++20 -O2 -Wall -pedantic ./ch_06/main_p203a.cpp && ./a.out`
+!!! info *sauce:*
+    [Bjarne Stroustrup's PPP2 textbook](https://www.stroustrup.com/programming.html) 
+    [/robowaifu/'s official C++ learning textbook thread](https://alogs.space/robowaifu/res/18749.html#18749)
+[Prev](https://rentry.org/PPP2_p202) • [Up](https://rentry.org/PPP2_ch06) • [Next](https://rentry.org/PPP2_p203b)

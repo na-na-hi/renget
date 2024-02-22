@@ -6,12 +6,12 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 258th time, what is Ope?!
+For the 259th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Advent lunch zatsu collab on Nerissa's channel (Tue 02/22 12PM CT)
+Next stream: Advent lunch zatsu collab on Nerissa's channel (Thu 02/22 12PM CT)
 Last stream (Palworld)
 https://www.youtube.com/watch?v=qmqnCOicg_0
 Previous collab stream (telephone game collab with Bae, Miko, Hajime, Kaela and Kobo with on Bae's channel)
@@ -36,7 +36,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>69646281
+Previous thread: >>69722984
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

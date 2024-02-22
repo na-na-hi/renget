@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 66 points to spend.
+    You have 80 points to spend.
     4/10 +2 IP | ▮▮▮▮▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -85,8 +85,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Big Apple | 	Gives +4 to any outside-combat-action.
-2. Rawst Berry | Soothes the user. Heals Burn.
+1. Eᴍᴘᴛʏ | Vacant storage slot.
+2. Eᴍᴘᴛʏ | Vacant storage slot.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
@@ -94,7 +94,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item | 108 Inert Type Gems | 108 inert type gems mined from Mystic Monolith. They have lost all the energy that a regular type would have.
+RP Item |  | 108 inert type gems mined from Mystic Monolith. They have lost all the energy that a regular type would have.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

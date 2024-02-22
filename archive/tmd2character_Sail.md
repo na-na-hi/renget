@@ -47,7 +47,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 1 IQ points to spend.
+    You have 20 IQ points to spend.
     1/10 IP | ▮▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -79,7 +79,7 @@ Item Name | Description
 *Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
 *Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Blast Seed | Explodes on contact for 10 true damage.
-2. Meteorite Shard | A shard of a meteorite that possibly worth 150₽ 
+2. N/A | N/A
 3. Heal Seed | 	Cures all status conditions.
 4. N/A | N/A
 
@@ -88,7 +88,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
+1. Meteorite Shard | A shard of a meteorite that possibly worth 150₽ 
 2. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**

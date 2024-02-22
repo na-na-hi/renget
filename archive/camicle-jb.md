@@ -15,11 +15,13 @@ should work with group chats and impersonates!
 **use the system gaslight at the end ONLY if you get refusals (mostly on NSFW). if that doesn't work, send me an email and try enabling character names, or both.**
 **enable character names in group chats or for cards that speak in first person**
 
-so i'm retarded and forgot to upload the new version
-[v4.3](https://files.catbox.moe/urnbc4.json) ~~[v4.2](https://files.catbox.moe/8x20pl.json)~~
+fixed the main prompt and system gaslight
+[v4.4](https://files.catbox.moe/w3h0iw.json)
+~~[v4.3](https://files.catbox.moe/urnbc4.json) ~~[v4.2](https://files.catbox.moe/8x20pl.json)~~
 ~~v4.1 actually uses the god prompt properly, thanks anon~~
 ~~[v4.1](https://files.catbox.moe/8x20pl.json) [v4](https://files.catbox.moe/r4kgrg.json)~~
-i also highly recommend the [logit bias preset](https://files.catbox.moe/80u1vt.json)
+update: i do not recommend logit bias because it does seem to screw up unrelated outputs
+~~i also highly recommend the [logit bias preset](https://files.catbox.moe/80u1vt.json)~~
 no regex/gaslighting/etc. required
 
 please [email me](mailto:camicle@proton.me) if you have logs, issues, etc. :)

@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** Team Ruckus
 **Level:** 12 | **Experience to Next Level:** 43/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1160₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1415₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -67,6 +67,7 @@ Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Speed | Tier 3 (+3) | 3/3 | ▮▮▮
 Attribute: Foraging | Tier 0 (+0) | 1/3 | ▮▯▯
+Attribute: Trick Shot | Tier 1 | 3/3 | ▮▮▮
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
@@ -83,9 +84,9 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange. (600 ₽)
-2. Empty | Empty.
-3.  Empty | Empty.
-4.  Wooden Stick | Does 3 true damage to a target, is thrown directly.
+2. Big Apple | Gives +4 to any outside-combat-action.
+3.  Grimy Food | Upon consumption, gives the user an equal 25% chance to be hit with either Paralysis (Rolls 1-5), Confusion (Rolls 6-10), Burn (Rolls 11-15), or Poison (16-20). Poison-Types might enjoy this.
+4.  Empty. | Empty.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

@@ -1,5 +1,5 @@
 #Literature of /ag/
->Up To Date As Of 2/11/2024
+>Up To Date As Of 2/21/2024
 
 A collection of weight gain and chub-themed VTuber fanfics produced over a number of months, primarily by the Architecture General (/ag/), but occasionally taken from elsewhere on /vt/ and /d/. Thanks to /vt/'s Writing General (/wg/) in particular for a handful of these and for providing a nice template for me to shamelessly copy this document off of.
 
@@ -375,6 +375,14 @@ Generally tagged by Character, Maximum Size, Characters' Thoughts On Their Gain,
 .
 
 ![Nerissa Prophetic Superbowl Squish Session](https://i.imgur.com/RB18WqD.png)
+.
+.
+
+![Ollie Mega Dumptruck](https://i.imgur.com/X8CrVd9.png)
+.
+.
+
+![Ina Chair Troubles](https://i.imgur.com/hyjb1tv.png)
 .
 .
 .

@@ -46,6 +46,8 @@ If you don't have a GPU, either local install the NVIDIA version, or go to the g
 !!! Note AMD & INTEL ARC 
 	Latest as of 12/03/23 [Version 17b directml](https://huggingface.co/wok000/vcclient000/resolve/main/MMVCServerSIO_win_onnxdirectML-cuda_v.1.5.3.17b.zip) 
 
+!!! If you are AMD I would highly recommend this alternative which is using the official Mainline RVC and manually installing it, as you will actually get far better performance. I have made a neat script to do so first [download the DirectML file](https://github.com/Enrop/RVC-test/releases), then [read this to see what you need to install as a prereq](https://github.com/Enrop/RVC-test/blob/main/README.md), that is it.
+
 ---
 ## Download Mac
 ---

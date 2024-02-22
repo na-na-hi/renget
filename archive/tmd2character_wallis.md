@@ -17,7 +17,7 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 13 | **Experience to Next Level:** 120/130
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 2370₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2170₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -68,6 +68,8 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
+Attribute: Repulsion  | Tier **ɪ** (+1) | For pushing away, both with moves and in general. Pushing can also be used to launch Wallis, such as with a move. This does not apply to the other defintion- apparently Wallis is considered attractive in this new world's form.
+.
 Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | A skill to help you.
 Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | This move is improved.
@@ -90,9 +92,9 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item:* Oran Berry | Heals the user for 10 HP.
-1. Empty | Empty inventory slot.
-2. Oran Berry | Heals the user for 10 HP.
+*Equipped Item: N/A* | Vacant Hand slot.
+1. Iron | Boosts Training for Defense by 1 bar.
+2. Sitrus Berry | Heals the user for 20 HP.
 3. Empty | Empty inventory slot.
 4. Empty | Empty inventory slot.
 
@@ -109,6 +111,7 @@ Item Name | Description
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
+RP Item | Meteorite Shard | Acquired from entertaining Watched Roller (Minior) and a Clefable. Could this help cure Twilight Syndrome?
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
