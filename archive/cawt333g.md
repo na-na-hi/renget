@@ -52,6 +52,10 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 ![](https://i.imgur.com/evQRhJQ.png) | ![](https://i.imgur.com/PUoWKJP.png) | ![](https://i.imgur.com/7ctiJeL.png) | ![](https://i.imgur.com/nhuvz93.png)
 :------:|:------:|:------:|:------:
 
+### [koyoinacho](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/2UsXXYhD)
+![](https://i.imgur.com/XvZeOiN.png) | ![](https://i.imgur.com/P7MR115.png) | ![](https://i.imgur.com/zCo9KBC.png) | ![](https://i.imgur.com/cgkeG5I.png)
+:------:|:------:|:------:|:------:
+
 ### [mentei yakuna](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/aItU0AyB)
 ![](https://i.imgur.com/FzlVRTL.png) | ![](https://i.imgur.com/AWlrA8o.png) | ![](https://i.imgur.com/ye9wkH1.png) | ![](https://i.imgur.com/1it0FTB.png)
 :------:|:------:|:------:|:------:

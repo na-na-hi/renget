@@ -179,6 +179,7 @@
 12/2023|[The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558)
 01/2024|[SliceGPT: Compress Large Language Models by Deleting Rows and Columns](https://arxiv.org/abs/2401.15024)
 01/2024|[RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
+02/2024|[LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)

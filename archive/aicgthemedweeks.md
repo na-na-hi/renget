@@ -20,5 +20,5 @@
 ## -> [Gothic horror](https://rentry.co/aicgthemedweek5) <-
 ## -> [A world without X + Unconventional monsters](https://rentry.co/aicgthemedweek6) <-
 ## -> [Winter Holidays](https://rentry.org/specialthemedweek)<-
-## -> NEXT EVENT ON 23.02.24 <-
+## -> COLLECTING IDEAS SOON <-
 ***

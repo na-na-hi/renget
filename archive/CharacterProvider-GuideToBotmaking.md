@@ -1,6 +1,7 @@
 -> [![](https://files.catbox.moe/t1otdw.png)](https://boosty.to/xmlk/donate) ⠀ [![](https://files.catbox.moe/vh2ku3.png)](https://twitter.com/victorianmaids)<-
 - - -
 
+Currently I don't quite understand how to make a scenario template (not a character template), but I am searching for a solution.
 
 ![](https://files.catbox.moe/ph906c.png)
 *(\*Just Enough Definitions)*

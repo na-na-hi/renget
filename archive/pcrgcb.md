@@ -76,7 +76,7 @@ Summer Kyouka 5★ Lv298 R32 FULL, EX 5/5/5
 
 **This comp has a lot of crit variance**
 
-**Kasumi R31**
+**Kasumi R31 - R32 apparently works with water defensive Princess Knight enhancement**
 ![](https://pomf2.lain.la/f/hx3udrx.png)
 **Kasumi R32**
 ![](https://pomf2.lain.la/f/ur9sw42v.png)

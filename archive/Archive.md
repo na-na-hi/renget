@@ -1,3 +1,8 @@
-TBA
-
-[Main](/fanbrusher) [my rentry tut](/help)
+->![div](https://files.catbox.moe/xhd313.png)<-
+->![remillia](https://files.catbox.moe/noxp10.gif)<-
+->![div](https://files.catbox.moe/6fytnw.png)<-
+->![pix](https://files.catbox.moe/8tpok6.png)%darkred%hey! welcome to !~.org/archive~! !! Made by yours truly **Margo** ![pix](https://files.catbox.moe/2y6ov1.gif) this is an archive for the resource rentry !~.org/cielpixels~! as it was deleted.. please enjoy! ![pix](https://files.catbox.moe/iomv74.png) %%<-
+->![pix](https://files.catbox.moe/ck66ff.png)  %darkred%[my main rentry](/fanbrusher) ![pix](https://files.catbox.moe/efv8qo.png) [my rentry guide](/help) %% ![pix](https://files.catbox.moe/tn5nnu.png)<-
+->%darkred%this is a forever wip btw:] only the section(s) above are finished%%<-
+->[***`pink`***](/pinkpixarchive)<-
+->![div](https://files.catbox.moe/268vhy.png)<-

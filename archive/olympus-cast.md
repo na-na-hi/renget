@@ -72,4 +72,4 @@ The sado-masochistic incarnation of the goddess of suffering. While the extent o
 
 >Helena Preisinger (Lethe)
 
-Once old and senile, Helena regained her youth and vitality at the cost of her memories when she became the incarnation of the incarnation of the river Lethe. She has been working for the Austrian government, wiping the memories of problematic individuals. She has not joined the Pantheon.
+Once old and senile, Helena regained her youth and vitality at the cost of her memories when she became the incarnation of the personification of the river Lethe. She has been working for the Austrian government, wiping the memories of problematic individuals. She has not joined the Pantheon.

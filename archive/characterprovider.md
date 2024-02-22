@@ -9,9 +9,7 @@
 ->  <-
 #
 
--> [![](https://files.catbox.moe/jbc99q.png)](#quick-start) ⠀ [![](https://files.catbox.moe/57vz8p.png)](#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/vh2ku3.png)](https://twitter.com/victorianmaids)<-
-
--> [Visit chub.ai page](https://www.chub.ai/users/CharacterProvider) <-
+-> [![](https://files.catbox.moe/jbc99q.png)](#quick-start) ⠀ [![](https://files.catbox.moe/57vz8p.png)](#how-to-use-and-recommendations) ⠀ [![](https://files.catbox.moe/vh2ku3.png)](https://twitter.com/victorianmaids) ⠀ [![](https://files.catbox.moe/3axbcq.png)](https://www.chub.ai/users/CharacterProvider)<-
 ⠀
 
 ⠀
@@ -21,7 +19,7 @@
 - - -
 ####⠀-> TL;DR <-
 
--> This page is an AI RP guide. You can find prompts, answers to possible questions regarding AI RP issues with Claude and GPT, a guide to character creation, explanations of LLM parameters, and other tips and tricks. Use the 'Quick Start' section for navigation. <-
+-> This page is an AI RP tips and tricks. You can find prompts, answers to possible questions regarding AI RP issues with Claude and GPT, a guide to character creation, explanations of LLM parameters, and other tips and tricks. Use the 'Quick Start' section for navigation. <-
 
 ######
 - - -

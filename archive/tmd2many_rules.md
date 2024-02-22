@@ -819,6 +819,9 @@ AP Cost | Untrained | Training Requirement
 
 If a Move is Trained to be used in spite it's AP, the AP cost may be changed to: '{AP cost} (*ᴛʀᴀɪɴᴇᴅ*)'. Trained Moves can be used at their original value, but if the Character lacks the necessary AP, they can still use it at the expense of all they have.
 
+Move Training does **not** ignore abnormal AP modifiers such as *Sleep*.
+
+In the event a Status Move or Move without a high AP cost is trained, it requires only 3 training sessions to complete and will award the User with the benefit of a [discounted relearning cost.](https://rentry.co/tmd2many_rules/#learning-or-relearning-moves)
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Basic Attack | 8BP | 8AP (*ᴛʀᴀɪɴᴇᴅ*) | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.

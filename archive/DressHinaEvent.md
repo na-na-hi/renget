@@ -3,7 +3,7 @@
 
 Literally just go to the [wiki event page of this event](https://bluearchive.wiki/wiki/Sunshine_Girls%27_Serenade), it tells you everything you need.
 
-Log in every day to do the event, since it gives rewards every day 
+Log in every day to do the Hina chibi event, since it gives rewards every day 
 Do the missions until the reminder on the top left stops saying stuff 
 You can sweep Ibuki shards after the main story's dress party.
 

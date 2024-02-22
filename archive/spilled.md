@@ -1,16 +1,3 @@
--> ![nho...... :3 The loml](https://media.discordapp.net/attachments/1084935097247084624/1206302263895658536/blur_edges_26.png?ex=65db8387&is=65c90e87&hm=59dced8cccf437b851556dc247b6934d84b80e01645a001e08232d1265782677&=&format=webp&quality=lossless&width=680&height=326) <-
-i dont think i'm even bothered to decorate anymore
-[prns.cc](https://pronouns.cc/@kangtaehyun) [guestbook](https://soobin.123guestbook.com/#)
-
-**han** or nicole she/they unlabelled & asian 
-entp 5w6
-Neco Arc sings flo rida Whistle - YouTube
-i love my [Dearest, darling, my universe 날 데려가 줄래?](/aengdu)
-
-i am IIIINSANE about kpop, cherry crush, limbus but uhh i also like the stuff listed [here](/kangterrry) ^\_^
-a [list of chrs](https://www.personality-database.com/collection/168259/mecore) i kin (just for fun!! i dont take things like these very seriously)
-
-**byi** awks at first but will loosen up if we share a friendly banter ^\_^ most of the unhinged things i say are satire. i'm a lighthearted & playful person (and i tease ppl A LOT.) constant kys/kms jokes if i consider you a good friend. i talk about my favs a Lot haha sorry. i am the epitome of curiosity i am A Curious Cat unless idgaf about you lol.. please tell me if you're uncomfortable with anything i do & don't sugarcoat anything thanks
-if you can't handle my jokes then i suggest letting me know and minimizing contact with me instead of keeping quiet
-
-**dni** basic dni (proship, racism etc.), over 18 (exceptions can be made), txt antis/ot4(-) moas, [freakazoid kpop stans](https://rentry.co/explosion123), "dbls dni/srs" irls, anti-recovery, can't act civilized regarding serious situations, is always negative/brings negativity like ok thnx
+i hope all you ponytown degenerates wake up one day only to find you're tied to the railway tracks and in the blink of an eye the train comes rushing in at 220 mph and brutally crashes your body leaving your remainings scattered on the ground like how you always fantasize it to be (you mfs who romanticize gore i am looking at your mentally ill ass)
+or maybe consume some kind of unknown substance you resort to that ends up driving you to commit suicide because you're depressed and have no way out other than ponytown 
+sorry anywayyyyy.... if ur crazy ab txt... fellow moa... please interact i got information here ^_^ https://rentry.co/2017square how i love kang taehyun

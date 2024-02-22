@@ -61,7 +61,7 @@
 |
 [SliceGPT](https://github.com/microsoft/TransformerCompression)|Sparsification scheme which replaces each weight matrix with a smaller (dense) matrix
 [EBFT](https://github.com/sunggo/EBFT)|Fast and low memory fine-tune method for sparse models to undo some of the sparsification damage 
-[Entropy-ABF](https://github.com/GAIR-NLP/Entropy-ABF)|Context window extension of RoPE-based LLMs outperforming YaRN 
+[LongRoPE](https://github.com/microsoft/LongRoPE)|Uses two forms of non-uniformities in PI for better than YaRN fine-tune context extension or 8x without
 [EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
 [Temp LoRA](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRA module during text generation to preserve contextual knowledge 
 [X-LoRA](https://github.com/EricLBuehler/xlora)|MoE strategy applied to LoRA by learning scaling values to then gate the LoRA experts

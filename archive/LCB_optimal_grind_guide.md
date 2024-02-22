@@ -57,7 +57,7 @@ This is what I found to be the most optimal, so you might be able to come up wit
 
 Note: Bleed Team is going to be your MDH team thanks to Bloody Mist, so it might be wise to invest in it first.
 
- ![Starlight Generator](https://i.imgur.com/bcr5jjs.jpeg)
+ ![Starlight Generator](https://i.imgur.com/dv8n9tQ.png)
 
 >Spending real money
 

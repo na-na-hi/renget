@@ -248,6 +248,10 @@ https://files.catbox.moe/80ioqv.safetensors character_nepgear Trigger token is n
 https://files.catbox.moe/uveemt.safetensors character_hanabi Trigger phrase "hanabi hsr" to get her to gen, "fox mask" for her mask(s), "mask on head" to get the mask on her head, "black gloves" for her gloves
 https://files.catbox.moe/9sc9aj.safetensors character_hiragi_kagami example gens: https://files.catbox.moe/6j5etd.jpg, https://files.catbox.moe/22j10a.jpg, https://files.catbox.moe/vkuomy.jpg, https://files.catbox.moe/855i66.jpg
 https://files.catbox.moe/p8pc8o.safetensors character_takarada_rikka doesn't seem to have an activation trigger, just will make any girls you gen into her
+https://files.catbox.moe/0520b4.safetensors character_ashley_warioware activation trigger is ashely, looks like the images all had 1girl in the prompt as well
+
+
+
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
 
 ##Innate artists/styles

@@ -1,0 +1,8 @@
+-> ![](https://media.discordapp.net/attachments/1193777758220865566/1205864454470766642/Tak_berjudul146_20240210195732.png?ex=65d9ebc9&is=65c776c9&hm=8b2c8303fad2630539a57423df190f6d408fe7a452b55760064fd7f7768bbf67&) <-
+-> ![](https://media.discordapp.net/attachments/1193777758220865566/1206100607740682290/Tak_berjudul143_20240210204447.png?ex=65dac7b9&is=65c852b9&hm=f62a1c704f8c34adc33f4d2cd1072856cd6e349634d3e463d06d74f2d2fddab2&) <-
+-> ![](https://caterpie.crd.co/assets/images/gallery14/23d0188e.png?v=31fdc6f6) <-
+-> or **Adel**　︵　*%#99A5C9% !~[any](https://pronouns.cc/@vixenn)~!%% / pronouns*  𐰁ᶻ 𝗓 <-
+-> ![](https://caterpie.crd.co/assets/images/gallery05/93b14479.gif?v=31fdc6f6)　~~Indo~~nesian %#99A5C9%isfp minor%%　彡<-
+-> ꒰　**☆**　genderfluid demiromantic <-
+-> [ext](https://rentry.co/forbiddenlove-) <-
+-> ![](https://media.discordapp.net/attachments/1193777758220865566/1205864454236012576/Tak_berjudul146_20240210195756.png?ex=65d9ebc9&is=65c776c9&hm=01d32617af202d0f7a59b9bbf7cf69c34c537e37e4eca2d4dc71d30d77f0e9f0&) <-
