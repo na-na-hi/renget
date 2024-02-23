@@ -1,6 +1,6 @@
 ####about  %#ffe188%Alice%% ![cinna](https://cutekawaiiresources.files.wordpress.com/2016/11/cinnamoroll-bullet-7.gif) !!
 
-typology ![happy](https://media.discordapp.net/attachments/903364339464044575/1080112115790127135/517D6172-4ADB-4B15-955D-1C6E1BE9531E.gif) **SEI-Fe IS(F)** 9w1 926 %#ffe188%sp%%/so (sp%#ffe188%/%%so9 sp2 sp6) RLUAN FVEL (*%#ffe188%4443%%*) <-- i  don’t know much about typology but teehee
+typology ![bunnme](https://64.media.tumblr.com/d037496e1b751c9af56865e52c457581/eb47664715c7fea6-4f/s75x75_c1/c16eee7074ce58b6f13ff0be28bbff1edb3bb463.gif) **SEI-Fe IS(F)** 9w1 926 %#ffe188%sp%%/so (sp%#ffe188%/%%so9 sp2 sp6) RLUAN FVEL (*%#ffe188%4443%%*) <-- i  don’t know much about typology but teehee
 
 my friends describe me wiittthhhh..... stuff  like: "silly", "soft fluffy bunny", "sweet", "sleepy", "squishy", "like those pictures of  the silly dogs  staring at the cameras on the white background" ehehe :3
 ***

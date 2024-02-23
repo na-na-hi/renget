@@ -97,6 +97,10 @@
 - Perfect platform to enjoy full movies and TV series online. With multilingual subtitles available.
 - [URL Safety Results](https://www.urlvoid.com/scan/ask4movie.li/)
 
+### 🐐 [Binged](https://binged.in/) / [2](https://binged.live/) / [3](https://binged.lol)
+- Indulge in a myriad of films and television series without any charges with all the newest releases.
+- [URL Safety Results](https://www.urlvoid.com/scan/binged.in/)
+
 ### 🐐 [Braflix](https://www.braflix.app/)
 - Constantly updated movie database is the perfect haven for all you passionate film buffs out there.
 - [URL Safety Results](https://www.urlvoid.com/scan/braflix.app/)
@@ -165,6 +169,10 @@
 - The oldest and most dependable streaming service still in operation today allowing filtering, search, and a sensible design.
 - [URL Safety Results](https://www.urlvoid.com/scan/lookmovie2.to/)
 
+### 🐐 [M4uFree](https://ww2.m4ufree.com/)
+- Access a variety of movies and TV shows, where content is regularly updated.
+- [URL Safety Results](https://www.urlvoid.com/scan/ww2.m4ufree.com/)
+
 ### ▶️ [Movie World](https://movieworld.pl/)
 - Unlimited access to a large library of movies and TV shows with a seamlessly immersive experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieworld.pl/)
@@ -232,6 +240,10 @@
 ### ▶️ [StreamLair](https://streamlairtv.com/)
 - Over 300,000 movies and TV shows, absolutely free with multiple subtitles.
 - [URL Safety Results](https://www.urlvoid.com/scan/streamlairtv.com/)
+
+### ▶️ [sudo-flix](https://www.sudo-flix.lol/)
+- Enjoy your preferred series and films using this open-source streaming website
+- [URL Safety Results](https://www.urlvoid.com/scan/sudo-flix.lol/)
 
 ### 🐐 [The Movie Archive](https://themoviearchive.site/) / [2](https://tma.lol/)
 - Unlimited access to a vast library of films, allowing you to indulge in your favorite movies.

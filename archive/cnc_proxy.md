@@ -7,11 +7,17 @@
 - Email: cncanon1@proton.me - for personal contact or proxy issues.
 - Anyan OCs - https://rentry.org/anyan_oc
 
-Latest refill (February 18th):
-- **OpenAI** 1 (T5) -> 5 (2 T5, 3 T3)
-- **AWS Claude** 0 -> 3
+Latest refill (February 23rd):
+- **OpenAI** 0 -> 4 (1 T5, 3 T3)
+- **AWS Claude** 3 (no change)
 
 ## Changelog
+February 23rd:
+- Lowered quotas for GPT-4 and GPT-4-Turbo to saner values that'll help the proxy stay for longer:
+  - GPT-4 - 819200 (100 messages at full context)
+  - GPT-4-Turbo - 4259840 (65 messages at max 65536 context)
+- Disabled two tokens with abnormal proxy usage. Doing almost constant non-stop prompting for literal days (even if the total prompt/token count isn't that high per day) is not normal: ![](https://i.imgur.com/rsUWqJ0.png)
+
 January 23rd:
   - Had to switch the VPS host because the old one stopped working (although apparently it was just a temporary outage). Sorry for the ~1.5 hour downtime.
 

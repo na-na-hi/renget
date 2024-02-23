@@ -10,7 +10,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 **Species:** Skitty | **Affiliation:** Team Stardust
 **Level:** 11 | **Experience to Next Level:** 92/110
 **Worn Item:** *Sparkly Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 1630₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 0₽ (520 owed to Matchia) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Tail Whip | - |4AP| ≥2 | Normal | Status | 	The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Fake Out | 4BP | 7(-3)AP | ≥2 | Normal | Physical | Priority. If used on the User's first round, the Opponent Flinches.
-Foresight | - | 4AP | - | Normal | Status |  The User's Moves never miss. The User's Normal and Fighting-Type moves can hit Ghost-Types.
+Baton Pass | - | 4AP | - | Normal | Status | The User gives their Stat increases and decreases, and Major and Minor Status Conditions.
 Sing | - | 4AP | ≥9 | Normal | Status | The Opponent is afflicted with Sleep. Ignores Protect Moves and Substitutes.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -42,7 +42,7 @@ Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by th
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Tackle | No secondary effect. Why is this here...
+Foresight | Perception Roll: The Move.
 Growl | It's Growl.
 
 **SPECIAL BONUSES**
@@ -105,5 +105,6 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
-Eᴍᴘᴛʏ | Description
+Tackle | No secondary effect. 
+Growl | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each.
+Foresight | The User's Moves never miss. The User's Normal and Fighting-Type Moves can hit Ghost-Types.
