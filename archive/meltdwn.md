@@ -3,7 +3,7 @@
 
 -> [![art by doodlelyfe_1 on twitter/x!](https://i.postimg.cc/rpXtHVss/furina.png)](https://x.com/doodlelyfe_1/status/1694037888294404559?s=20) <-
 
--> ![i longed for a simple life.](https://i.postimg.cc/Ss8CYT9n/pixel-8-creds-needed.gif) %blue%***FURINA***%% or *MARINE* ‎ **★** ‎ she / %blue%**him**%% / neos ‎ **★** ‎ ouji fashion lover
+-> ![i longed for a simple life.](https://i.postimg.cc/Ss8CYT9n/pixel-8-creds-needed.gif) %blue%***FURINA***%% or *MARINE* ‎ **★** ‎ she / %blue%**[him](https://pronouns.cc/@shiguang)**%% / neos ‎ **★** ‎ ouji fashion lover
 bigender enby ‎ **✧** ‎ %mediumblue%sapphic%% + achillean  ‎ **✧** ‎ aroace-spec  ‎ **✧** ‎ %mediumblue%me irl%%!!!
 latina  ‎ **✶** ‎  %cornflowerblue%physically disabled%% & %cornflowerblue%neurodivergent%% ‎ **✶** ‎ december 7 ![my self-denial was in the same state.](https://i.postimg.cc/Ss8CYT9n/pixel-8-creds-needed.gif) <-
 

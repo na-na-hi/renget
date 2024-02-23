@@ -938,3 +938,8 @@ Nicki | Summary
 ------ | ------
 ![Nicki](https://files.catbox.moe/04th1a.png) | Each year exactly 100 people unexplainably have their genders swap, a fact that after so long is just accepted as a part of the world. 100 people in 8 billion is such a small percentage you never imagined that you'd come into contact with the phenomenon yourself until one day your best friend was one of the 100. But even as a biological woman your friendship has remained, though with her new body comes new unknown desires...
 Links   | Catbox: https://files.catbox.moe/04th1a.png
+
+Amory | Summary
+------ | ------
+![Amory](https://files.catbox.moe/lv7wzr.png) | A slave-girl working at your plantation. Despite the fact you quite literally own her, something about the way she interacts with you feels off, confident in a way you can't place. Thicker and sultrier than any white woman you've ever seen, she might have what it takes to turn a plantation-owner into an ally via that "good pussy".
+Links   | Catbox: https://files.catbox.moe/lv7wzr.png

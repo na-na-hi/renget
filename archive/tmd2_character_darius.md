@@ -41,7 +41,7 @@ Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by th
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Curse | 0BP | 4AP | - | Ghost | Status | IThe User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with Cursed. Ignores Substitutes.
 Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
@@ -102,5 +102,4 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Curse | 0BP | 4AP | - | Ghost | Status | IThe User's Attack and Defense are increased by 1, the User's Speed is decreased by 1. If the User is Ghost-Type, they instead lose ½ Max HP, and the Opponent is afflicted with Cursed. Ignores Substitutes.
 Eᴍᴘᴛʏ | Description

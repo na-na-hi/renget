@@ -1,3 +1,39 @@
+>New Imarat Donbass
+https://files.catbox.moe/92z49u.mp4
+>Shotgunning a drone
+https://files.catbox.moe/x7ilh9.mp4
+>Soldier raises the Russian flag ignoring heavy shelling at Avdeevka on Industrial Avenue.
+https://files.catbox.moe/p1jph3.MOV
+>Zogbot merc get hit and scream like a child
+https://files.catbox.moe/67xi0g.mp4
+>Knocked out M1150 Assault Breacher Vehicle near Avdeevka
+https://files.catbox.moe/ay3edi.mp4
+>Avdeevka tank assault RT special report
+https://files.catbox.moe/33p3gf.webm
+>Russia's first aerial mining battalion
+https://files.catbox.moe/85qfff.MP4
+>Putin flying TU-160M nuclear bomber
+https://files.catbox.moe/kcpq6z.mp4
+>Russian soldiers from Tuva watching TOS-1A hit hohol positions
+https://files.catbox.moe/t5nnoj.mp4
+>Ukraine NSDC chair Danilov says: GIBS EVERYTHING
+https://files.catbox.moe/pwyhyb.mp4
+>Hoholina gets enriched on German UBahn
+https://files.catbox.moe/y3a0q1.mp4
+>Captured AFU T-80 tank with shells made in Pakistan
+https://files.catbox.moe/sbn4df.mp4
+>Putin climbs inside the new TU-160M nuclear bomber
+https://files.catbox.moe/rgm9e5.mp4
+>Surrender of hohols near Avdeevka supervised by drone
+https://files.catbox.moe/grbxck.mp4
+>T-90 shrugs off hohol ATGMs and FPV drone
+https://files.catbox.moe/8eah3p.mp4
+>Hohol APC hits mine after getting bobr'd
+https://files.catbox.moe/ijydds.mp4
+>Krynki POWs
+https://files.catbox.moe/es2d1y.mp4
+>Patriot truck oinked
+https://files.catbox.moe/hexj6u.mp4
 >Thermal drone drop on hohols in a house roof hole, Krynki
 https://files.catbox.moe/qr8mos.mp4
 >Avdeevka, nazi drawings left by hohols

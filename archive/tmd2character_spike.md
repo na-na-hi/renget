@@ -8,8 +8,8 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 13 | **Experience to Next Level:** 55/130
-**Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 125₽ | **Glorious Gold:** 0 Bars
+**Worn Item:** *N/A* | **Clothing:** Red Prayer Beads
+**Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -73,8 +73,8 @@ Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 8/9 | ▮▮▮▮�
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+*Worn/Held Item: N/A* | Vacant worn/held item slot.
+*Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Oran Berry | Heals the user for 10HP.
 2. Oran Berry | Heals the user for 10HP.
 3. Eᴍᴘᴛʏ | Vacant inventory slot.
@@ -85,7 +85,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant storage slot.
+1. Regular Bamboo | A shoot of regular bamboo.
 2. Eᴍᴘᴛʏ | Vacant storage slot.
 
 **RP/QUEST STORAGE (∞ slots)**
@@ -94,7 +94,7 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item |  | 108 inert type gems mined from Mystic Monolith. They have lost all the energy that a regular type would have.
+RP Item | Red Prayer Beads | A loop of 27 prayer beads fashioned from inert fire gems and white hair worn around the tail. It's incomplete, but it's spiritual signifigance is present.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

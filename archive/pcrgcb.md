@@ -23,11 +23,15 @@ videos:
 ## Stage 4 auto / full SET
 videos:
 [Wisteria](https://www.youtube.com/watch?v=4k4oV8uuPqU)
+[Eruru](https://youtu.be/Yy-3fuSyURo) + semi auto
+[VashTV](https://www.youtube.com/watch?v=v35E621jlJ4)
+![](https://pomf2.lain.la/f/kp3mc29f.png)
 
 ## Stage 4 semi auto
 videos:
 [Clover](https://www.youtube.com/watch?v=BJb0BdZe7ds)
-
+[VashTV](https://www.youtube.com/watch?v=58skfs1yUos)
+[Eruru](https://youtu.be/Yy-3fuSyURo)
 
 ### Boss 1
 
@@ -66,16 +70,14 @@ Princess Kyaru 5★ Lv298 R32 FULL, EX 5/5/5
 
 ### Boss 2
 
-[B2 Magic 108m [104m R32 Kasumi] - 0 manual inputs](https://www.youtube.com/watch?v=u_OA1bJH2uY) 
-![](https://pomf2.lain.la/f/em11vqdg.png)
+[B2 Magic 108-111m [104m R32 Kasumi] - 0 manual inputs](https://www.youtube.com/watch?v=u_OA1bJH2uY) 
+![](https://pomf2.lain.la/f/5u7ivchj.png)
 Tested with: 
 Summer Yui 3★ Lv298 R32 FULL, EX 5/5/5
 Summer Neneka 5★ Lv298 R32 FULL, EX 5/5/5
 Summer Kasumi 5★ Lv298 R32 FULL, EX 5/5/5 **R31 TL gets higher damage than R32**
 Ameth 5★ Lv298 R32 FULL, EX 5/5/5
 Summer Kyouka 5★ Lv298 R32 FULL, EX 5/5/5
-
-**This comp has a lot of crit variance**
 
 **Kasumi R31 - R32 apparently works with water defensive Princess Knight enhancement**
 ![](https://pomf2.lain.la/f/hx3udrx.png)
@@ -130,6 +132,38 @@ Transfer Student Suzuna 5★ Lv298 R32 FULL, EX 5/5/5
 
 ### Boss 4
 
+[B4 Physical 101-107m - 0 manual input](https://www.youtube.com/watch?v=T_xMNYNRPgY) 
+![](https://pomf2.lain.la/f/ptt3ngcl.png)
+
+Christmas Ayane 5★ Lv298 R32 FULL, EX 5/5/5
+Summer Rei 5★ Lv298 R32 FULL, EX 5/5/5
+Summer Shinobu 3★ Lv298 R32 FULL, EX 5/5/5
+Pirate Shinobu 5★ Lv298 R32 FULL, EX 5/5/5
+Labyrista 5★ Lv298 R32 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/tj3vd54p.png)
+
+[B4 Physical 102m - 0 manual input](https://docs.google.com/spreadsheets/d/14bv1Ik6Aub5nw22WDWq3DXKWyw6ZX9TQM8R94rshTzQ/edit#gid=1742465964&range=C5:C47) 
+![](https://pomf2.lain.la/f/2l7n8zma.png)
+
+Makoto 6★ Lv298 R32 FULL, EX 5/5/5
+Christmas Ayane 5★ Lv298 R32 FULL, EX 5/5/5
+Summer Rei 5★ Lv298 R32 FULL, EX 5/5/5
+Summer Shinobu 5★ Lv298 R32 FULL, EX 5/5/5
+Labyrista 5★ Lv298 R32 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/rvoforzq.png)
+
+[B4 Magic 89m - 0 manual input](https://gamewith.jp/pricone-re/article/show/163515) 
+![](https://pomf2.lain.la/f/nuww62yh.png)
+
+Halloween Tsumugi 5★ Lv298 R32 FULL, EX 5/5/5
+Warlock Djeeta 5★ Lv298 R32 FULL, EX 5/5/5
+Vampy 5★ Lv298 R32 FULL, EX 5/5/5
+Misora 5★ Lv298 R32 FULL, EX 5/5/5
+Princess Kyaru 5★ Lv298 R32 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/y5app21k.png)
 
 ### Boss 5
 
@@ -166,6 +200,28 @@ New Years Hatsune 5★ Lv298 R32 FULL, EX 5/5/5
 
 ![](https://pomf2.lain.la/f/in59l6ig.png)
 
+[B5 Physical sub 50% comp 95m - 0 manual inputs](https://docs.google.com/spreadsheets/d/e/2PACX-1vQpMUwhiHNGwTRC5oeEfD2NKCrG7s5ab1cjTK2LvfZqyHpZWGM0IIuD42rFcy-sSrQ_H2pEJqWNt9s8/pubhtml#)
+**can't test this myself right now because I don't have a magic chink sim to run sub 50% comps on before CB starts**
+![](https://pomf2.lain.la/f/e49jcx13.png)
+
+
+[B5 Physical ~100?m - 0 manual inputs](https://youtu.be/Yy-3fuSyURo?t=2221) 
+![](https://pomf2.lain.la/f/dv51ajw8.png)
+Tested with: 
+Shizuru and Rino 5★ Lv298 R32 FULL, EX 5/5/5
+Labyrista 5★ Lv298 R32 FULL, EX 5/5/5
+New Years Misato 5★ Lv298 R32 FULL, EX 5/5/5
+Ameth 5★ Lv298 R32 FULL, EX 5/5/5
+Creditta 5★ Lv298 R32 FULL, EX 5/5/5
+!!! info
+    different TL if the boss doesn't UB at 1:04. This is a massive damge loss (down to ~80m?)
+    but even if you get the 1:04 UB the damage can randomly go lower than reported in the videos and land at something like 93m
+    **You should really only do this if you have a reset left to gamble with or no other option. A consistent comp with lower max damage is better imo.**
+
+![](https://pomf2.lain.la/f/slx4v36.png)
+
+[1:00 Boss UB:](https://docs.google.com/spreadsheets/d/14bv1Ik6Aub5nw22WDWq3DXKWyw6ZX9TQM8R94rshTzQ/edit#gid=2111905137&range=C5:C20)
+![](https://pomf2.lain.la/f/95kkc45m.png)
 
 ## Stage 4 manual
 ### Boss 1

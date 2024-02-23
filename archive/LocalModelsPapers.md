@@ -584,6 +584,8 @@
 02/2024|[HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts](https://arxiv.org/abs/2402.12656)
 02/2024|[Turn Waste into Worth: Rectifying Top](https://arxiv.org/abs/2402.12399)
 02/2024|[Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive](https://arxiv.org/abs/2402.13228)
+02/2024|[Q-Probe: A Lightweight Approach to Reward Maximization for Language Models](https://arxiv.org/abs/2402.14688)
+02/2024|[Take the Bull by the Horns: Hard Sample-Reweighted Continual Training Improves LLM Generalization](https://arxiv.org/abs/2402.14270)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

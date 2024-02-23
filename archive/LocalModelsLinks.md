@@ -64,7 +64,7 @@
 [LongRoPE](https://github.com/microsoft/LongRoPE)|Uses two forms of non-uniformities in PI for better than YaRN fine-tune context extension or 8x without
 [EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
 [Temp LoRA](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRA module during text generation to preserve contextual knowledge 
-[X-LoRA](https://github.com/EricLBuehler/xlora)|MoE strategy applied to LoRA by learning scaling values to then gate the LoRA experts
+[Q-Probe](https://github.com/likenneth/q_probe)|Adapts an LLM to maximize a task-specific reward function that can work and improve fine-tunes
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.

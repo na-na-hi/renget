@@ -1,12 +1,10 @@
-# /aicg/ chronicles, up to ==2024-02-18==
+# /aicg/ chronicles, up to ==2024-02-23==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
 !!! info
     [*ahhh ahhh...*](https://rentry.org/aicg_chronicles)
-[](->![](https://files.catbox.moe/f1sfuj.jpg)<-)
-
-->[![rokosbasilisk.io](https://litter.catbox.moe/wltexi.png)](https://rokosbasilisk.io/)<-
+->![](https://files.catbox.moe/f1sfuj.jpg)<-
 
 !!! note
     TBD: add the events of the days long gone when it was more fun to use chatbots instead of spending time in the threads. in other words, cai times, Scale times, and so on. I have a list, but suggestions are still welcome anyway, especially about pre-aicg days, and corrections are always welcome
@@ -1118,6 +1116,7 @@ When | Where | What
 2024-02-06|[98853675](https://desuarchive.org/g/thread/98852208#98853675)| /aicg/ advertises on 4chan, the original and largest English-language image board
 2024-02-06|[98860705](https://desuarchive.org/g/thread/98860146#98860705)| promising Weaver family of llms mentioned, but there's no hope
 2024-02-06|[98861203](https://desuarchive.org/g/thread/98860146#98861203)| Gemini Ultra delayed
+2024-02-06|[98856621](https://desuarchive.org/g/thread/98844738/#98856621)| Llama 3 available subject to NDA, watermarked
 2024-02-08|[98879888](https://desuarchive.org/g/thread/98878036#98879888)| retards really do pay $15+ for a custom character card
 2024-02-08|[98883890](https://desuarchive.org/g/thread/98881462#98883890)| Gemini Ultra delayed again...
 2024-02-08|[98883982](https://desuarchive.org/g/thread/98883948#98883982)| ... with additional confirmation
@@ -1188,6 +1187,43 @@ When | Where | What
 2024-02-18|[99045527](https://desuarchive.org/g/thread/99044230#99045527)| anon reminds, that GPT4V has additional prompt inserted and supports less features
 2024-02-18|[99045675](https://desuarchive.org/g/thread/99044230#99045675)| anon baits with uncensored image recognition outputted as JSON
 2024-02-18|[99045941](https://desuarchive.org/g/thread/99044230#99045941)| /aicg/ is advertised on 4chan, the original and largest English-language image board
+2024-02-18|[99048065](https://desuarchive.org/g/thread/99046809#99048065)| Anthropic moves away from text completion, prefill still works in chat completion mode... for now
+2024-02-18|[99049025](https://desuarchive.org/g/thread/99048820#99049025)| Gemini Ultra available for some API keys
+2024-02-18|[99051884](https://desuarchive.org/g/thread/99051779#99051884)| anon shares lorebooks formatting advice for ChatML
+2024-02-18|[99054121](https://desuarchive.org/g/thread/99051779#99054121)| Anthropic valued at more than $18 billion premoney
+2024-02-18|[99055726](https://desuarchive.org/g/thread/99055257#99055726)| anon advises... eh, here's a generated tagline "Spice up AI conversations: Experiment with token spacing and more!"
+2024-02-18|[99058400](https://desuarchive.org/g/thread/99058293#99058400)| llm performance decreases with long inputs, but Google has ideas
+2024-02-18|[99058593](https://desuarchive.org/g/thread/99058293#99058593)| anon haz crazy interesting theory about Claude's context size
+2024-02-19|[99060356](https://desuarchive.org/g/thread/99058293#99060356)| irrelevant GPT-J likes dicks
+2024-02-19|[99071052](https://desuarchive.org/g/thread/99069462#99071052)| llms become dumber when asked complex questions with scattered supporting facts
+2024-02-19|[99074109](https://desuarchive.org/g/thread/99072974#99074109)| Aesir dataset containing Mancer logs leaked
+2024-02-20|[99074752](https://desuarchive.org/g/thread/99072974#99074752)| no Gemini 1.5 Pro API yet
+2024-02-20|[99074836](https://desuarchive.org/g/thread/99072974#99074836)| Gemini 1.5 Pro success might mean Gemini 1.0 Ultra failure
+2024-02-20|[99074886](https://desuarchive.org/g/thread/99072974#99074886)| anon continues to work on his CYOA-style sci-fi thingy using STscript and JS, prevails
+2024-02-20|[99076000](https://desuarchive.org/g/thread/99075729#99076000)| GPT4 Turbo fails needle in a haystack tests with more complex methodology
+2024-02-20|[99076594](https://desuarchive.org/g/thread/99075729#99076594)| figgs\.ai astroturfed
+2024-02-20|[99076716](https://desuarchive.org/g/thread/99075729#99076716)| another DALL-E 3 frontend promised...
+2024-02-20|[99078605](https://desuarchive.org/g/thread/99075729#99078605)| ... but not delivered
+2024-02-20|[99081989](https://desuarchive.org/g/thread/99081887#99081989)| you can make $200 selling slopbots, but you don't
+2024-02-20|[99082125](https://desuarchive.org/g/thread/99081887#99082125)| openrouter\.ai keys are easy to scrape
+2024-02-20|[99083319](https://desuarchive.org/g/thread/99081887#99083319)| Gemini 1.5 Pro successfully generates a character based on a 250k token rulebook
+2024-02-20|[99083583](https://desuarchive.org/g/thread/99081887#99083583)| Groq reverse proxy suggested, not real
+2024-02-20|[99084784](https://desuarchive.org/g/thread/99081887#99084784)| exposed Silly instances invaded again
+2024-02-20|[99085279](https://desuarchive.org/g/thread/99076239#99085279)| Llama 3 available for 3 weeks already subject to NDA, watermarked
+2024-02-20|[99086291](https://desuarchive.org/g/thread/99084929#99086291)| anon reports self-moderated Claude on openrouter\.ai to be filtered, methodology questionable
+2024-02-20|[99087009](https://desuarchive.org/g/thread/99084929#99087009)| ShellGPT command-line tool shilled
+2024-02-21|[99097984](https://desuarchive.org/g/thread/99096696#99097984)| yet another alternative frontend claim that won't be realized
+2024-02-21|[99099876](https://desuarchive.org/g/thread/99099580#99099876)| ChatGPT acts schizo again
+2024-02-21|[99103130](https://desuarchive.org/g/thread/99101986#99103130)| now comments are required to rate bots on CharacterHub
+2024-02-21|[99104711](https://desuarchive.org/g/thread/99100839#99104711)| Google releases 2B and "7B" Gemma models
+2024-02-21|[Lightning](https://huggingface.co/ByteDance/SDXL-Lightning)| SDXL Lightning distilled model released, LoRAs can be applied to other base models
+2024-02-21|[99110257](https://desuarchive.org/g/thread/99107891#99110257)| Google acknowledges Gemini imagegen retardation
+2024-02-21|[240216](https://www.ntia.gov/federal-register-notice/2024/dual-use-foundation-artificial-intelligence-models-widely-available)| NTIA gathers feedback on the risks and implications related to open foundation models
+2024-02-22|[99115424](https://desuarchive.org/g/thread/99114260#99115424)| Claude is officially called a silly little guy, and other weird domains connected to Anthropic
+2024-02-22|[redesign](https://character.ai/?redesign=true)| c\.ai is out of beta
+2024-02-22|[99124001](https://desuarchive.org/g/thread/99123616#99124001)| Gemini 1.5 Pro multimodality demoed
+2024-02-22|[SD3](https://stability.ai/news/stable-diffusion-3)| Stable Diffusion 3 early preview announced
+2024-02-22|[6:42 AM](https://www.cnbc.com/2024/02/22/google-pauses-gemini-ai-image-generator-after-inaccuracies.html)| Google pauses Gemini image generator
 -|-|-
 
 [](you have found my secret stash of nothing!)

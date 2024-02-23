@@ -1,12 +1,12 @@
 # The meta list of various /aicg/ events
 
-->==(Updated 2024-02-15)==<-
+->==(Updated 2024-02-23)==<-
 
 ***
-!!! note Upcoming event
+!!! info Current event
     | | | |
     |---|:---:|:---:|
-    |!~orange;default;default;7; **/AICG/ THEMED WEEK #8** ~!  | https://rentry.org/aicgthemedweeks#next-event-on-230224| ![](https://media.tenor.com/_62bXB8gnzoAAAAj/loading.gif)|
+    |!~orange;default;default;7; **/AICG/ THEMED WEEK #8** ~!  | https://rentry.org/aicgthemedweeks| ![](https://media.tenor.com/De1LAuEKgpwAAAAj/pinkstudios-pinkstudiosnet.gif)|
 
 ***
 | | | |
@@ -29,3 +29,7 @@
 ***
 Main rentry:
 - https://rentry.org/aicg_extra_information - /aicg/ OP overflow
+
+
+[](!!! note Upcoming event          https://media.tenor.com/_62bXB8gnzoAAAAj/loading.gif)
+[](!!! info Current event          https://media.tenor.com/De1LAuEKgpwAAAAj/pinkstudios-pinkstudiosnet.gif)

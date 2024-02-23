@@ -6,6 +6,7 @@
 
 [Character Cards](#Character-Cards)
 [FAQ](#FAQ)
+[Changelog](#Changelog)
 
 ***
 
@@ -14,6 +15,7 @@
 Character  |  Preview  |  Description  |  Links
 :----------: |  :--:  |  :------------  |  :--:  
 ![コンコン](https://files.catbox.moe/3v2uhr.gif) **Medley** | ![dumb](https://files.catbox.moe/duq3mo.gif) | Traveling foxgirl alchemist in a makeshift caravan. Buy something, will you? 8 greetings and character gallery. Designed for SillyTavern. | [Download v1.0.0](https://files.catbox.moe/l0q8og.png) [Chub](https://chub.ai/characters/spambot/medley-92241a49) [Gallery](https://files.catbox.moe/vumrxv.7z)
+ ![](https://files.catbox.moe/adau3u.gif) | ![](https://files.catbox.moe/hkk8si.png) |  |  ████████ ██████ ███████
 
 ***
 
@@ -29,8 +31,15 @@ Animagine XL. I typically include prompt settings at the end of each bot. Animat
 None of the prompts are explicitly NSFW but I won't stop you if you try to seggs them.
 
 >![](https://files.catbox.moe/wlhp55.gif) What language model do you use?
-Currently, Miqu70B and BagelMIsteryTour. Depends on how impatient I am.
+Miqu and BagelMIsteryTour. Depends on how impatient I am.
 
 ***
+
+### Changelog
+
+```
+2/21/24 - Added FAQ
+2/20/24 - Medley Release v1.0.0
+```
 
 -> ![monero](https://files.catbox.moe/k3erke.png) `41mgDN9FgwbEkZGkZn22NGEX2RQMDyYFeKGSR74EJYSqfec7UGUMac68XNw9z7GEd8G9MNDrvm9hKaJEm1NMQctU4v6qQTc` <-

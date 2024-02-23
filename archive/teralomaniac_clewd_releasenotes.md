@@ -132,6 +132,10 @@ Assistant:
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.8修改版
+- Clewd 4.8(2) added: 取消已失效的预先对话次数上限检测，增加stop_sequences发送（需passparams）
+
+- Clewd 4.8(1) fixed: 取消更换cookie提示，修复429无法更换bug
+
 - Clewd 4.8(0) fixed: 由于A社关闭老接口，更改官网接口为新接口，限制免费账号prompt长度25k（pro为190k）
 
 ## Clewd 4.7修改版
