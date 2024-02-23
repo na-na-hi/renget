@@ -1,11 +1,13 @@
-->[![Go back to Unreleased Characters](https://cdn.discordapp.com/attachments/1137374640239542294/1168622727792431175/Solid_Light_Gray_Purple_-_Hex_8E88A3_-_Plain_Light_Gray_Purple-modified_1_1.png?ex=65526fba&is=653ffaba&hm=7513e90fdc7a8bf543cf4c6a0c7c23e13ff82e22b8c2d304b65a248e0c6a6837&)](https://rentry.co/7k3mt)<-
+->[![Go back to Unreleased Characters](https://cdn.discordapp.com/attachments/1137374640239542294/1168622727792431175/Solid_Light_Gray_Purple_-_Hex_8E88A3_-_Plain_Light_Gray_Purple-modified_1_1.png?ex=65e617ba&is=65d3a2ba&hm=b7e5d091cb21bdea5ba58789add8306a66cf51841a424787860918450e6a6976&)](https://rentry.co/7k3mt)<-
+
 # Changelog
 
 Date | Content added
 ------ | ------
-21/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Gameplay, and Story+Voicelines (Voicelines>Audio) folders
-20/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Animations, and Gameplay folders
-19/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc. folders
+22/02/24   | Added new files to Robin Misc. folder. / Added 2 new characters (Lingsha and Yunli) in the Possibly Scrapped, Placeholder or Characters with no Info section. / Moved "Feixiao" (5\* / Hunt / Wind) and "Moze" (5\* / Hunt or Erudition / Lightning) to the Upcoming Characters section and added rarity, path and element. / Removed "Grunt Man" from the Possibly Scrapped, Placeholder or Characters with no Info section (Was used for something else in Penacony). / Fixed all of the broken images.
+21/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Gameplay, and Story+Voicelines (Voicelines>Audio) folders.
+20/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Animations, and Gameplay folders.
+19/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc. folders.
 18/02/24   | Added new files to Acheron, Aventurine, and Gallagher Kit folders. / Added new files to Screwllum Misc. folder.
 31/01/24   | Added "Trailblazer" (Harmony/Imaginary) to the Upcoming Characters section and added Constance, Catarina, Akash and Dubra in the Possibly Scrapped, Placeholder or Characters with no Info section.
 25/01/24   | Gallagher moved to "Upcoming Characters" : 2.1.

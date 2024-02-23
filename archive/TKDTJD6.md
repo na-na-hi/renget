@@ -1350,3 +1350,225 @@ https://files.catbox.moe/b3cut8.mp4  2/21/24
 
 5- Targeting a house belonging to the Al-Shaer family, in which there are displaced people from the Mutawa family, at the end of Saddam Street
 https://t.me/me_observer_channel/153417  2/21/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 21 (2024), against (US)-israeli forces:
+
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Sniped an Israeli soldier in the Al-Zaytoun neighborhood in Gaza City, causing a direct injury.
+
+🔻Targeted a Merkava-4 tank with Yassin-105s, south of the Zaytoun neighborhood in Gaza City.
+
+🔻Targeted Israeli soldiers fortified inside house with a "TBG" anti-fortification rocket, confirming the death of 3 soldiers, north of the Amal neighborhood, west of Khan Yunis.
+
+🔻Targeted an IOF armored troop carrier (APC) with Yassin-105s, west of the Amal neighborhood, in Khan Yunis.
+
+🔻Two groups of Israeli soldiers inside two houses were targeted with TBG anti-fortification rockets, in the Hawwaz area west of Khan Yunis.
+
+🔻A special Zionist force inside a building was targeted with RPGs, followed by engaging in clashes, resulting in the death of 4 soldiers at point-blank range and the injury of others in the Hawwaz area west of Khan Yunis.
+
+🔻Targeted 2 army vehicles with Yassin-105s, west of the Amal neighborhood, in Khan Yunis.
+
+🔻Targeted a Merkava tank with a "Shawaz" high explosive device, in the Hawwaz area west of Khan Yunis, in the southern Gaza Strip.
+
+🔻Detonate an explosive device on a Merkava tank on Salah al-Din Street in the Al-Zaytoun neighborhood in Gaza City.
+
+🔻Engaged in fierce clashes with the IOF forces, during which their gatherings were crushed with mortar shells and their army vehicles being targeted with Al-Yassin-105 rockets & “Shawaz” explosives. IOF helicopters and vehicles were spotted evacuating the dead and wounded, south of the Al-Zaytoun neighborhood in Gaza City.
+
+
+
+— 🇵🇸 Saraya Al-Quds Brigades:
+
+🔻Destroyed 2 IOF military vehicles in a field of “Thaqib” barrel bombs, in the Al-Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Shelled IOF forces' gatherings, south of the Al-Zaytoun neighborhood in Gaza City, with 60-caliber mortar shells.
+
+
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Sniped an Israeli soldier, causing a direct injury in the eastern Gaza axis.
+
+🔻Targeted an IOF military vehicle with a "Tandem" rocket, in the Al-Zaytoun axis, causing direct injuries and making the vehicle dysfunctional.
+
+🔻Shelled israeli soldiers and their military vehicles with mortar shells & short-range rockets, in the Al-Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Targeted an Israeli military vehicle with explosives, and subsequently hit with an RPG, in the Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Shelled an IOF army gathering and their military vehicles, with a number of mortar shells, west of Khan Yunis in the southern Gaza Strip.
+
+🔻Shot down an IOF quadcopter drone and seized in the eastern Gaza Strip.
+
+🔻Engaged in fierce clashes with IOF soldiers, using machine guns, and confirmed causing casualties among their ranks in the Al-Hawuz area, west of Khan Younis in the southern Gaza Strip.
+
+
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Engaged in violent clashes with IOF forces, using appropriate weapons, followed by firing RPGs on the vehicles that penetrated Khan Younis and Al-Zaytoun neighborhood in Gaza City.
+
+🔻Fired RPGs at IOF army vehicles, northwest of Al-Amal neighborhood, in Khan Younis, and they were hit directly.
+
+
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Detonated 2 anti-tank mines against 2 IOF army vehicles, causing direct injuries and confirmed casualties.
+
+🔻Targeted IOF army gatherings in the southeastern Gaza axis, with a number of short-range rockets.
+
+🔻In a joint-operation with the Al-Qassam Brigades, they shelled IOF army gatherings, invading the Al-Zaytoun neighborhood, with a barrage of mortar shells, and IOF helicopters were spotted evacuating the dead and wounded from the site of the targeting.
+
+🔻Engaged in violent clashes with IOF forces, using appropriate weapons in the Al-Zaytoun axis, achieving direct and confirmed casualties.
+
+— 🇵🇸 Nasser Salah al-Din Brigades:
+
+🔻Shelled IOF forces and their military vehicles, with a barrage of heavy-caliber mortar shells, east of Jabalia.
+
+🔻Shelled IOF forces and their military vehicles, north of the Gaza Strip, with 120mm mortar shells.
+
+🔻 In a joint-operation with the Abu Ali Mustafa Brigades, they detonated a barrel bomb targeting an IOF military vehicle, west of Khan Younis, destroying it and leaving the israeli soldiers in it dead and wounded.
+
+
+
+— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+
+🔻Detonated 2 anti-tank explosive devices, targetinf 2 army vehicles, hitting them directly and causing confirmed casualties.
+
+🔻Targeted 6 military vehicles with RPGs.
+
+🔻Engaged in fierce clashes with IOF forces, in Al-Zaytoun axis, achieving direct casualties.
+
+
+
+— 🟡 Hezbollah (13 operations)
+
+🔻Targeted a position of Israeli soldiers in the Evan Menachem settlement with appropriate weapons, causing direct injuries.
+
+🔻Targeted a military deployment of israeli soldiers in the Shomera settlement with appropriate weapons, hitting it directly.
+
+🔻Targeted 2 building housin israeli soldiers in the Avivim settlement with appropriate weapons, achieving direct hits, in response to the israeli aggressions on southern Lebanese villages.
+
+🔻Targeted a gathering of israeli soldiers in the vicinity of Al-Marj site, with rockets, achieving a direct hit.
+
+🔻Targeted the Ruwaysat al-Alam site in the occupied Shebaa Farms with appropriate weapons, causing direct injuries.
+
+🔻Targeted the Zebdine site in the occupied Shebaa Farms with appropriate weapons, achieving a direct hit.
+
+🔻Targeted the Zarit IOF barracks with appropriate weapons, achieving a direct hit.
+
+🔻Targeted the Metulla settlement and the deployment of IOF soldiers, with appropriate weapons, achieving direct hits, in response to the israeli aggressions against southern Lebanese villages.
+
+🔻Targeted military deployment of israeli soldiers in the "Avivim" settlement with appropriate weapons, causing casualties and injuries.
+
+🔻Targeted Matzuba settlement with Katyusha rockets, in response to the israeli aggressions on civilians in Majdal Zoun.
+
+🔻Targeted the Hadab Yarin IOF site with 2 Burkan IRAM rockets, achieving a direct hit.
+
+🔻Targeted a deployment of israeli soldiers in the Metulla settlement, with appropriate weapons, hitting it directly.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shebaa Farms with rockets, achieving direct hits.
+
+
+
+— 🇮🇶 Iraqi resistance:
+
+🔻(Unofficial) Attacked, with a kamikaze drone, directly hitting the US base in the Conoco oil field in Deir Ezzor, eastern Syria.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://t.me/FotrosResistance/5531  2/22/24
+https://t.me/FotrosResistance/5532  2/22/24
+
+>⚡️WATCH: Al-Qassam Brigades (Hamas) published a video earlier today, showing scenes of confronting IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+https://twitter.com/AryJeay/status/1760465592887230813  2/22/24
+https://files.catbox.moe/y7q096.mp4  2/22/24
+
+>Several missile alerts rang in Eilat, early in the morning, probably due to missiles from Yemen or Iraq.
+https://twitter.com/AryJeay/status/1760612789410828598  2/22/24
+
+>🟡 Hezbollah confirms:
+
+As a response to israeli attacks on civilian homes, they targeted a building housing Israeli soldiers in the Kfar Yuval settlement with appropriate weapons, causing direct injuries.
+https://twitter.com/AryJeay/status/1760608414353203353  2/22/24
+
+>JUST IN: AnsarAllah Yemen fired 2 anti-ship missiles towards an UK-owned tanker off Aden today. 
+
+One missile struck the ship's cargo area, per a senior US official.
+https://twitter.com/AryJeay/status/1760628182217298104  2/22/24
+
+>Lebanon: Islamic Resistance: Our mujahideen targeted the spy equipment at the Birkat Risha site with appropriate weapons and hit them directly.
+https://t.me/me_observer_channel/153924  2/22/24
+
+>Spokesperson for the Ministry of Health in Gaza reported to Al-Jazeera: "Malnutrition is one of the most dangerous challenges facing the residents in Gaza, especially children. The Israeli occupation persists in refusing to deliver aid, leaving the healthcare system in ruins."
+https://t.me/QudsNen/96877  2/22/24
+
+>JUST IN:
+
+🇬🇧 Another British ship hit by the Houthis.
+
+🇵🇼 Palau-flagged & UK-owned "ISLANDER" is on fire after beeing hit by Two Ballistic Missiles.
+https://t.me/megatron_ron/1959  2/22/24
+
+>The Secretary-General of Doctors Without Borders reports that the humanitarian response for Gaza has faded, with quantities of medicine and food diminishing every day.
+https://t.me/QudsNen/96891  2/22/24
+
+>Minister of National Security of Israel, Itamar Ben-Gvir, stated, "We will continue to provide Israelis with weapons for self-protection, as our right to life is more important than the Palestinians' right to freedom of movement. Many fail to understand this reality, and there is no Palestinian state."
+https://t.me/QudsNen/96895  2/22/24
+
+>"We will continue to provide Israelis with weapons for self-protection, as our right to life is more important than the Palestinians' right to freedom of movement," stated Israel's Minister of National Security, Itamar Ben-Gvir, asserting that as long as he is in government, there will never be a Palestinian state.
+https://t.me/QudsNen/96901  2/22/24
+
+>Al-Aqsa Brigades: Our fighters destroyed a gathering of a Zionist force with regular 60 mm mortar shells in the fighting axis of the Al-Zaytoun neighborhood, east of #Gaza City.
+
+Al-Aqsa Flood
+
+Al-Aqsa Brigades_Military Media
+https://t.me/me_observer_channel/154095  2/22/24
+
+>Urgent || Military spokesman for the Ansar Allah group:
+
+We launched ballistic missiles and drones towards occupied Umm al-Rashrash
+https://t.me/me_observer_channel/154125  2/22/24
+
+>⚡️JUST IN: Yemen Armed Forces’ Spox, Yahya Sarae:
+
+In response to the US-UK aggression, the armed forces of Yemen carried out 3 operations:
+
+🔻The launching of a number of ballistic missiles and drones at various targets in Umm al-Rashrash (Eilat), south of occupied Palestine.
+
+🔻The targeting of a British ship “ISLANDER” in the Gulf of Aden, using anti-ship missiles. The ship was directly hit, leading to a fire on board.
+
+🔻The targeting of an American destroyer (warship) in the Red Sea using a number of kamikaze drones.
+https://twitter.com/AryJeay/status/1760727442337956294  2/22/24
+
+>Lebanon: ⚡️1️⃣0️⃣ The Mujahideen of the Islamic Resistance targeted, at 07:40 pm on Thursday 02-22-2024, the #Barkat_Risha site with two Burkan missiles and hit it directly.
+
+“And victory is only from Allah, the Mighty, the Wise.”
+https://t.me/me_observer_channel/154164  2/22/24
+
+>⚡️WATCH: Hezbollah published a video showing the targeting of a gathering of Israeli soldiers inside a house in the Metulla settlement.
+https://twitter.com/AryJeay/status/1760763326840156516  2/22/24
+https://files.catbox.moe/56bhlh.mp4  2/22/24
+
+
+>Lebanon: Al-Mayadeen correspondent: Direct fire from #Lebanon targeted the Hanita site in the Western Galilee
+https://t.me/me_observer_channel/154166  2/22/24
+
+>🚨Renewed rocket attack towards the northern part of the occupied Golan Heights, from South Lebanon.
+https://twitter.com/AryJeay/status/1760758221508141262  2/22/24
+
+>⭕️Video | Scenes from the process of targeting the Islamic Resistance’s military equipment at the Birkat Risha site of the #Israeli enemy army on the Lebanese-Palestinian border.
+https://t.me/me_observer_channel/154256  2/22/24
+https://files.catbox.moe/5k9c01.mp4  2/22/24
+
+>BREAKING:
+
+ 🇱🇧🇮🇱 Hezbollah is bombing the Israeli occupied Golan heights
+
+In response to the Israeli bombing of Lebanon couple of days ago, tonight Hezbollah is unprecedentedly bombing and razing Israeli settlements to the ground in the occupied Golan heights.
+
+Several buildings were destroyed.
+
+Iron Dome failed.
+https://t.me/megatron_ron/1964  2/22/24

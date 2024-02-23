@@ -1,3 +1,3 @@
 [Back](/rei)
 
-I am the biggest [Midori Takamine](https://ensemble-stars.fandom.com/wiki/Midori_Takamine) Fan ever
+I am the biggest [Chiaki Morisawa](https://ensemble-stars.fandom.com/wiki/Chiaki_Morisawa) Fan ever

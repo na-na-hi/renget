@@ -994,3 +994,52 @@ How does Haruka sleep with those antlers? Sleeping on your back every night seem
 For pungent feet and butthole, Gura beats stinky kettle by a mile. She scratches her own armpit and smells her fingers. Her morning braps are sharp and sweet. She's a smell fag that knows how to smell nice when she goes out, but she revels in her own stench when she's rotting in the miasma of her stinkiest bits sitting at home unwashed and festering.
 
 -> * * * <-
+
+## >>68571587
+I am so hungry for Nerissa's excrement I could devour a full course meal of the delights that birth from her rectum. A fart for an appetizer. Hard crunchy, corn filled dung bites. With a chaser of enema fluid after flushing her hole out. I'd use her asshole hair for floss
+
+-> * * * <-
+
+## >>68698289 
+Amora's rancid braps spluttering from her anus in unnaturally large quantity, her alien has reserves decompressing, her shithole groaning and buttcheeks burping as two years of her pent up flatulent devastation pours into my sinuses and upon my tongue, the combination of her dire stench, taste and moist heat bringing me to climax without even the lightest touch of pressure upon my contorting, bursting, torrentially spurting schlong!!
+
+-> * * * <-
+
+## >>68707183
+>Chilling on the couch with my GF Runie watching One Piece and drinking Phase Connect Coffee
+>A scene comes up where Nami sits on Ussop's face
+>'Hahaa imagine if you sat on my face wouldn't that be funny' I say to Runie
+>She giggles and smiles coyly, 'Would you like to try it anon?'
+>'I-I guess we could, but please don't fart if you do'
+>'Don't worry anon I would never do such a thing'
+>Clueless.jpg
+>I get into position and close my eyes, waiting in anticipation for Runie's soft, firm butt to press into my face
+>Suddenly I feel a massive weight crushing my skull and quickly open my eyes only to realize that the owner of the gigantic ass on my face wasn't that of Runie, but of Ember Amane
+>I let out a scream of terror and pain only for it to be muffled underneath the shear girth of the buttocks now cushioning my entire face
+>'Hahaa anon I said I wouldn't fart in your face but I never said anything about Ember doing it to you now did I'
+>Oh Shit.webp
+>I feel a rumbling from above my face before all of the gas from within Ember's bowels releases at once letting out an explosive gust of wind directly onto my face.
+>BRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP
+>My oxygen supply is completely cut off and I am forced to breathe in the pure methane of Ember's brap
+>As my vision begins to fade I hear Runie's roaring laughter in the background. Before the darkness completely takes me only one thought remains in my mind
+>I have been le rused
+
+-> * * * <-
+
+## >>68995186
+Imagine coming up from the basement. You were doing laundry. Phone on the kitchen counter. 6 missed calls from Shondo. You hear screams for help coming from upstairs. Drop the laundry basket and sprint as fast as you can. Screams coming from behind the closed bathroom door. Shondo? Try the handle but the door is locked. Babe what's going on? Are you hurt? "Where were you?!" she replies, "I called you 6 times!" Babe are you okay? "I'm out of toilet paper!" Let out a heavy sigh and open up the hall closet for the TP. Dude I thought this was an emergency. "This is an emergency!" Shondo I need you to open the door so I can give it to you. "I can't... I'm....dirty." You're gonna be fine, Shondo. She stands up off the toilet, patsu at her ankles, and does the awkward waddle walk to the door. She's holding one cheek spread with her left hand as she unlocks the door with the other. She cracks the door open and juts out her pale greedy hand, grasping for the TP. "Don't look" she says.
+
+-> * * * <-
+
+## >>69083401
+
+If you were Riku, what kind of punishments would you apply to [Elira]?
+>>69103146
+I'd tell her that if she wants to keep her job, to do the following:
+
+1.) Go one week without taking a shit. I don't care how she does it, but she doesn't let poop out of her for a week.
+2.) Schedule an apology stream.
+3.) Tell her to do her best to shit her pants during the stream without drawing attention to herself or letting everyone know.
+4.) When the stream is over, make her facesit me while I get off, then I slap her soiled ass and tell her to clean her disgusting self up.
+
+-> * * * <-

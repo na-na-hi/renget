@@ -47,6 +47,9 @@ https://files.catbox.moe/uuza7g.mp4  New  2/15/24
 >Scenes from a booby-trapping operation and then the Mujahideen Brigades’ bombing of a house in which a special Zionist force had barricaded itself in the west of the Al-Sabra neighborhood in #Gaza City.
 https://files.catbox.moe/i6kucn.mp4  New  2/18/24
 
+>WATCH: Al-Qassam Brigades (Hamas) published a video earlier today, showing scenes of confronting IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+https://files.catbox.moe/y7q096.mp4  New  2/22/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -67,6 +70,12 @@ https://files.catbox.moe/uu4vrx.mp4  New  2/19/24
 
 >Hezbollah published a video from the operation that targeted a gathering of IOF soldiers at the Birkat Risha site.
 https://files.catbox.moe/l38roj.mp4  New  2/20/24
+
+>WATCH: Hezbollah published a video showing the targeting of a gathering of Israeli soldiers inside a house in the Metulla settlement.
+https://files.catbox.moe/56bhlh.mp4  New  2/22/24
+
+>Video | Scenes from the process of targeting the Islamic Resistance’s military equipment at the Birkat Risha site
+https://files.catbox.moe/5k9c01.mp4  New  2/22/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 

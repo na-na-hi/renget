@@ -31,7 +31,8 @@ https://rentry.org/trashcollects
 Wiki: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki
 Link Hub: https://rentry.org/sdg-link
 LoRa Training: https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
-Tags for prompting: https://danbooru.donmai.us/wiki_pages/tag_groups
+Tags for Prompting: https://danbooru.donmai.us/wiki_pages/tag_groups
+PonyXL Information: https://rentry.org/ponyxl_loras_n_stuff
 Embeddings: https://rentry.org/embeddings
 OP Pasta: https://rentry.org/degenpasta
 Archive: https://thebarchive.com/b/search/subject/DEGENerated/

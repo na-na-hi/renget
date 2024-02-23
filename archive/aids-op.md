@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/47YwWQm.jpg)
-Polybius Edition
+![suggested OP image](https://i.imgur.com/Ap8Z6Vp.jpg)
+AR When Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>466287453
+Last thread: >>466612092
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -36,11 +36,11 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 Alien Friday is over. Enjoy the far-out prompts! Last: >>465877210
  
 ▶News
+(02/21) NAI Diffusion V3 updates with Vibe Transfer feature: https://medium.com/@novelai/vibe-transfer-7a264645d241
 (02/15) This guy appears >>465836709
 (02/07) Euroids pass AI act: https://en.wikipedia.org/wiki/Artificial_Intelligence_Act
 (01/30) NAI pushes CFG sampling update: https://i.imgur.com/JJ6eBk2.png
 (01/20) Aetherroom's second devlog: https://blog.novelai.net/aetherroom-devlog-2-makings-of-a-contact-e4f20d28f4a0
-(01/01) New Year! NAI tosses apoloanals: https://i.imgur.com/CxmoFHD.png (embed) ; ledditors pull a Holo: https://write34.com
 
 
 #Perma-Template

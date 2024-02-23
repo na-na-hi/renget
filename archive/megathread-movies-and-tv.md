@@ -169,10 +169,6 @@
 - Unlimited access to a large library of movies and TV shows with a seamlessly immersive experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieworld.pl/)
 
-### 🐐 [movie-web](https://movie-web.app/)
-- The ideal destination for your favorite movies and TV series. The algorithm intelligently picks the finest stream throughout the web.
-- [URL Safety Results](https://www.urlvoid.com/scan/movie-web.app/)
-
 ### ▶️ [MovieUniverse](https://movieuniverse.se/)
 - Free internet access to movies and television shows with a seamless experience, the system offers the best stream available.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieuniverse.se/)

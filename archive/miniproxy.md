@@ -30,7 +30,7 @@ total **active** users: 111 %red% (CLOSED) %%
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 
 needtocoomoridie@proton.me
 If it takes me more than 3 days to reply to you feel free to send another email and yell at me.
-<3
+<3 
 # Stats
 !!!Note ?? users | 948614 proompts | 5388 IPs | 5.031b tokens | US$90237.85 cost
 User||Prompts|IPs|Usage

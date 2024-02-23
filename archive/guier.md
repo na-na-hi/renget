@@ -1,5 +1,5 @@
 # /SCG/ - A Star Citizen Beginner Introduction & Overview 
-!!! note Updated as of patch 3.22
+!!! note Updated as of LIVE Patch 3.22.1
 !!! warning Page still in WIP
 ***
 !!! note You can play Star Citizen on Linux. Check out the [lug-helper](https://github.com/starcitizen-lug/lug-helper), made by the [LUG](https://robertsspaceindustries.com/orgs/LUG) community. CIG has also expressed multiple times their intent to further support the game on Linux, starting with the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825).

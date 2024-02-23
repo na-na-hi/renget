@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[A Friendly Competition](https://rentry.org/8o4tbevq)* | Fauna, Kronii, Mumei | brap, sweat |
 | *[HoloMess Collection](https://www.pixiv.net/novel/series/1497314) (Series)* [[AO3 mirror]](https://archiveofourown.org/works/36735109) | Various | brap, ringo, choco, diaper |
 | *[Comfort Assistants: Full Moon](https://rentry.org/cagqk)* | Moona | brap, choco |
 | *[No Time for the Toilet](https://archiveofourown.org/works/52353919)* | Kronii, Haachama | ringo, choco |
@@ -282,7 +283,11 @@
 | [>>65651651](https://rentry.org/ringotext2#65651651) | Fauna | choco |
 | [>>66702878](https://rentry.org/ringotext2#66702878) | Haruka | brap |
 | [>>66962194](https://rentry.org/ringotext2#66962194) | Gura | brap, smell |
-
+| [>>68571587](https://rentry.org/ringotext2#68571587) | Nerissa | choco |
+| [>>68698289](https://rentry.org/ringotext2#68698289) | Amora | brap |
+| [>>68707183](https://rentry.org/ringotext2#68707183) | Runie, Ember | brap |
+| [>>68995186](https://rentry.org/ringotext2#68995186) | Shondo | choco |
+| [>>69083401](https://rentry.org/ringotext2#69083401) | Elira | choco |
 
 ## >>249165
 

@@ -1,5 +1,5 @@
 # /SCG/ - Star Citizen Info & Resources
-!!! note Updated as of LIVE Patch 3.22
+!!! note Updated as of LIVE Patch 3.22.1
 ***
 !!! note If you are new to star citizen, check out this [Introduction & Overview](https://rentry.org/guier/) on the game
 !!! note I'm active on the /vm/ thread, so feel free to point out useful resources you think should be added here, or if something is outdated or the links are broken.
@@ -11,7 +11,7 @@
 #### ->Latest Patch Notes<-
 Environment: | Patch Notes:
 ----- | -----
-**LIVE**   | https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-3-22-0-live-patch-notes
+**LIVE**   | https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-3-22-1-live-patch-notes/6625972
 **PTU**   | https://robertsspaceindustries.com/spectrum/community/SC/forum/190048?page=1&sort=newest
 
 **- Known Issues** 

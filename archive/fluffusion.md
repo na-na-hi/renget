@@ -1,30 +1,55 @@
 #Fluffusion
+
 ##NEWS:
-R2 in training, but takes four days an epoch for 2.305 million files! Uses v-prediction - bring a YAML.
+R3 in training, but takes five and a half days an epoch for 2.305 million files! Uses v-prediction - bring a YAML.
 
-After that, expect me to return in /trash/ with requests for Gelbooru tags while training a 1024x version of Fluffusion R2 (also known as R2HD) for upscaling purposes. *Gigachad emoji*
+1024x model looking potentially Stable Cascade based.
 
-Not sure whether to call it Waifusion, Boorufusion, Animefusion or something.
-
+Anime model is cookin; https://pixeldrain.com/u/dFWmmFq5 bring a YAML. You can use `by novelai` to simulate the effects of many NAI mixes.
 ##Fluffusion Release:
 
-Fluffusion is a 640 base resolution model with aspect ratio buckets, Clip Skip 2 and effectively unlimited token limits. Now with modern v-prediction.
+Fluffusion is a 704 base resolution model with aspect ratio buckets, Clip Skip 2 and effectively unlimited token limits. Now with modern v-prediction.
+
+### R3 (704x):
+* v-prediction YAML https://gist.githubusercontent.com/Jordach/acbac81727f4c1b3520b4b35373898f9/raw/506a7b2cf95c200ae31fbd1d6abd0f422653e4d5/fluffusion_r3_eX_704x_vpred.yaml
+* csv https://gist.github.com/Jordach/acbac81727f4c1b3520b4b35373898f9/raw/506a7b2cf95c200ae31fbd1d6abd0f422653e4d5/fluffusion_r3_tags.csv
+* CFG Rescale Extension: https://github.com/Seshelle/CFG_Rescale_webui
+
+Note: Epoch 13 and up contain the Furception VAE by default - just set VAE to `none` in Auto to use it, or in Comfy, drag the VAE node from the R3 epochs that contain it. This does not affect images going into the model - only latents converting into normal images. Not images being converted into latents.
+
+* E21 soon
+* E20 soon
+* E19 soon
+* E18 soon
+* E17 in like 24 hours
+* E16 https://pixeldrain.com/u/XhSpjzio
+* E15 https://pixeldrain.com/u/1YL6NBUn
+* E14 https://pixeldrain.com/u/s6vPdda6
+* E13 https://pixeldrain.com/u/kNLfdKNs
+* E12 https://pixeldrain.com/u/zth8Bv4j
+* E11 https://pixeldrain.com/u/akf9TktR
+* E10 https://pixeldrain.com/u/dna2QS8w
+* E9 https://pixeldrain.com/u/5cHCijQR
+* E8 https://pixeldrain.com/u/g31YH8DA
+* E7 https://pixeldrain.com/u/R2Y8dqr8
+* E6 https://pixeldrain.com/u/bKA2HQkr
+* E5 https://pixeldrain.com/u/FxpSYXUP
+* E4 https://pixeldrain.com/u/vrdMW2fE
+* E3 https://pixeldrain.com/u/T6Z6TKzu
+* E2 https://pixeldrain.com/u/JQggeqDf
+* E1 https://pixeldrain.com/u/6D7J2CnK
 
 ### R2 (640x):
 * v-prediction YAML https://gist.githubusercontent.com/Jordach/7dfbd4d43677b36b68cf0eb61036901e/raw/842093deb65822b206ea7bf7c9fcd3fb9bfbb20a/fluffusion_r2_eX_640x_vpred.yaml
 * csv https://gist.githubusercontent.com/Jordach/7dfbd4d43677b36b68cf0eb61036901e/raw/842093deb65822b206ea7bf7c9fcd3fb9bfbb20a/fluffusion_r2_autocomplete.csv
 * CFG Rescale Extension: https://github.com/Seshelle/CFG_Rescale_webui
 
-* E23 soon
-* E22 soon
-* E21 soon
-* E20 soon
-* E19 soon
-* E18 soon
-* E17 soon
-* E16 soon
-* E15 soon
-* E14 soon
+Notes on E16+ - an auto1111 bug happened where it'd merged R2E16 with R3E1 during testing. I then made a 0.01% merge towards R3 and mostly undone the damage from perturbed noise.
+
+* E16+ https://pixeldrain.com/u/aE1ftzUZ
+* E16 https://pixeldrain.com/u/f4iieiFC
+* E15 https://pixeldrain.com/u/tvx1Z5U6
+* E14 https://pixeldrain.com/u/E3UKMbTi
 * E13 https://pixeldrain.com/u/6SBNWyKF
 * E12 https://pixeldrain.com/u/JcH6g7Wk
 * E11 https://pixeldrain.com/u/uyFReo4v

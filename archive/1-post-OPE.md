@@ -11,11 +11,11 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Advent lunch zatsu collab on Nerissa's channel (Thu 02/22 12PM CT)
-Last stream (Palworld)
+Next stream: TBA (presumably, Mon 02/26 7PM CT)
+Last collab stream (Advent brunch zatsu collab)
+https://www.youtube.com/watch?v=wOJJddzg-ao
+Last solo stream (Palworld)
 https://www.youtube.com/watch?v=qmqnCOicg_0
-Previous collab stream (telephone game collab with Bae, Miko, Hajime, Kaela and Kobo with on Bae's channel)
-https://www.youtube.com/watch?v=J_q-OWjlt0I
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID

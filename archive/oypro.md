@@ -65,6 +65,7 @@ Stat: Attack | Tier **ɪ** (+1) | Physical Attack + 1
 Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
 Attribute: Illusory | Tier **ɪɪ** (+2) | Skill with illusion manifestations
 Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
+Attribute: Balancing | Tier **ɪ** (+1) | Skill with keeping your balance, whether it be on unstable ground or on energy infused air
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
@@ -73,7 +74,7 @@ Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯�
 Currently Training for Attribute: Illusory **ɪɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
 Currently Training for Attribute: Foraging **ɪ** | Tier **ɪ**  | 1/3 | ▮▯▯
-Currently Training for Attribute: Balance **ɪ** | Tier **ɪ**  | 2/3 | ▮▮▯
+Currently Training for Attribute: Balance **ɪɪ** | Tier **ɪ**  | 0/3 | ▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.

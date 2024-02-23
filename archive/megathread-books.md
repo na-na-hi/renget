@@ -202,11 +202,11 @@
 - One of the largest databases of manga, encompassing all subgenres and categories with a wide range of themes and topics.
 - [URL Safety Results](https://www.urlvoid.com/scan/mangabuddy.com/)
 
-### 🌸 [MangaDex](https://mangadex.org/)
+### 🐐 [MangaDex](https://mangadex.org/)
 - All content is supplied by users, scanlation groups, and publishers, that supports all languages. 
 - [URL Safety Results](https://www.urlvoid.com/scan/mangadex.org/)
 
-### 🐐 [MangaFire](https://mangafire.to/)
+### 🌸 [MangaFire](https://mangafire.to/)
 - The portal offers a huge selection of manga comics for all readers and a user-friendly layout that is simple to browse.
 - [URL Safety Results](https://www.urlvoid.com/scan/mangafire.to/)
 

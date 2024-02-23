@@ -193,21 +193,18 @@ Speed: Fast (XP)
 	Type: Emitter
 
 	Description: He can secrete drug-like substances from his body in the form of liquids or, with greater effort, gas. These substances can be customized by him to cause a variety of effects. With focus they can even reach levels of true mad science. He produces these substances from the resources in his body, like nutrients and hydration.
-Projection Quirk
+
+Projection
 -Fluid
 -Small
 -Full body
 -Consumption
+-Broad
 -Esoteric
--Slow
-Body Manipulation Quirk
--Others
--Full
--Tactile
--Slow
-1 Point of Quirk Refinement
+-Knowledge Limit
+-Quirk Refinement
 
-27 Points
+18 Points
 
 !!! note
 
@@ -215,7 +212,7 @@ Body Manipulation Quirk
 
 	Type: Mutant
 
-	Description: He can secrete drug-like substances from his body in the form of liquids or, with greater effort, gas. These substances can be customized by him to cause a variety of effects. With focus they can even reach levels of true mad science. He produces these substances from the resources in his body, like nutrients and hydration.
+	Description: This quirk allows the user to secrete drug-like substances from their body in the form of liquids or, with greater effort, gas. These substances can be customized to cause a variety of effects. With focus they can even reach levels of true mad science. These substances are made from the resources in the body, like nutrients and hydration.
 Life Mimicry
 -Kingdom: Animals
 -Innate
@@ -269,3 +266,24 @@ Body Enhancement
 2 Points of Quirk Refinement
 
 24 Points
+
+!!! note
+
+	**Quirk:「Hijack」**
+
+	Type: Emitter
+
+	Description:  The ability involves seizing control of the quirks of individuals touched by commandeering their quirk factors. This grants the capacity to manipulate the behavior of the quirks, whether activating, deactivating, or regulating their output. Initial contact is necessary to hijack the target's quirk, but once established, the effect persists as long as concentration is maintained. However, should focus waver, the effect dissipates, necessitating renewed contact to regain control. In instances involving mutant-type quirks, influence can also extend to the motor functions associated with their mutant attributes.
+
+Quirk Manipulation 
+-Activation
+-Concentration
+-Touch
+
+Quirk Nullification
+-Touch
+-Concentration
+
+9 Points of Quirk Refinement
+
+15 Points
