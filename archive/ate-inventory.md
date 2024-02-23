@@ -13,7 +13,7 @@ Consumable. Clears you of mind-altering effects induced by <Authorities>. Howeve
 >Idol: 300
 Provides influence when worshiped by a mortal
 
->Trapper: 500 (x2)
+>Trapper: 500 
 Cancels the usage of a <Lizard’s Tail>. Disappears upon use.
 
 >Hydra’s Head: 500

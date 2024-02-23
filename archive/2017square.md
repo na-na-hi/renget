@@ -23,5 +23,3 @@ i like fried chicken, pasta & pastries ^\_^.
 --------------------
 
 **links**  !~[prns.cc](https://pronouns.cc/@kangtaehyun)~! !~[guestbook](https://soobin.123guestbook.com/#)~! (leave a message!) !~[chrs that r so mecore](https://www.personality-database.com/collection/168259/mecore)~! (not meant to be taken seriously) [matching rentry](/_yeonjun)
-
-**beloveds** !~[jean](http://rentry.co/slowdive-)~! !~[***eros*** ♡](http://rentry.co/aengdu)~! !~[vixen](http://rentry.co/choi_y)~! !~[gyara](http://rentry.co/therealgyara)~!

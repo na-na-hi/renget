@@ -196,7 +196,7 @@ Deepspace Anchor equip bonus: Clearsky Thunderbolt and Anchor Strike will add a 
 
 **PASSIVE 1**
 In non-Astral Ring Burst state, enemies on the field take 15% more Lightning DMG from the wielder.
-Deepspace Anchor equip bonus: When Astral Ring system is active, all enemies on the field take 20% more Elemental DMG.
+Deepspace Anchor equip bonus: When Astral Ring system is active, all enemies on the field take 16% more Elemental DMG.
 
 **PASSIVE 2**
 In non-Astral Ring Burst state, weapon skill, Ultimate and Burst Mode attacks gain Total DMG +20%.
@@ -212,10 +212,10 @@ Enemies take 4% > 8% > 12% more Total DMG from weapon skills. (independent multi
 
 **TOP:** ATK 109. Gain Total DMG +20%. Deepspace Anchor equip bonus: Lightning DMG +40%. When you deal weapon dmg, deal an additional 30% ATK of Lightning DMG, trigger interval 2s. When Astral Ring 'World Star' is active, in non-Astral Ring Burst state, all team members with Realm Resonane tag gain Elemental DMG +30%.
 
-**MID:** Team weapon skill gain Elemental DMG +20% (cannot stack). Deepspace Anchor equip bonus: She gains Lightning DMG +40%. When Astral Ring system is active, host is on the field and consume 30 or more sp at once, team gain Total DMG and Elemental DMG +25% permanently during non-Astral Ring Burst state, effect does not stack when triggered multiple times.
+**MID:** Team weapon skill gain Elemental DMG +20% (cannot stack). Deepspace Anchor equip bonus: She gains Lightning DMG +40%. When Astral Ring system is active, host is off-field and consume 30 or more sp at once, team gain Total DMG and Elemental DMG +25% permanently during non-Astral Ring Burst state, effect does not stack when triggered multiple times.
 
 **BOT:** ATK 64. Weapon skill gain Total DMG +25%. Deepspace Anchor equip bonus: Enemies on the field take 20% more Lightning DMG from the host. When Astral Ring 'World Star' is active, during non-Astral Ring Burst state, enemies take 25% more Elemental DMG from characters with Realm Resonance tag.
 
 **2PC:** Gain Total DMG +20%. Deepspace Anchor equip bonus: Receive 20% less Total DMG. When you deal weapon dmg, deal additional 30% ATK of Lightning DMG, trigger interval 2s. The cd of this effect is triggered by your own resonance skill, but cd is reduced by 0.5s. When Astral Ring 'World Star' is active, during non-Astral Ring Burst state, characters with Realm Resonance tag gain Total DMG +25%.
 
-**3PC:** Enemies on the field take 10% more Total DMG from the host. Deepspace Anchor equip bonus: Enemies on the field take 24% more Total DMG from the host, also take 25% more Total DMG from resonance skill. When Astral Ring system is active, host is on the field, and consume 30 or more sp at once, all enemies on the field take 15% more Total DMG and Elemental DMG for 30s, can be refreshed.
+**3PC:** Enemies on the field take 10% more Total DMG from the host. Deepspace Anchor equip bonus: Enemies on the field take 24% more Total DMG from the host, also take 25% more Total DMG from resonance skill. When Astral Ring system is active, host is off-field, and consume 30 or more sp at once, all enemies on the field take 15% more Total DMG and Elemental DMG for 30s, can be refreshed.

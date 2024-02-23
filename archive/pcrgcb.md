@@ -26,6 +26,7 @@ videos:
 
 ## Stage 4 semi auto
 videos:
+[Clover](https://www.youtube.com/watch?v=BJb0BdZe7ds)
 
 
 ### Boss 1
@@ -176,7 +177,19 @@ New Years Hatsune 5★ Lv298 R32 FULL, EX 5/5/5
 
 
 ### Boss 4
+![](https://pomf2.lain.la/f/r9o6gb0y.png)
 
+[B4 phys 5 Manuals 108-112m](https://www.youtube.com/watch?v=lR7Vm7zZR1w) 
+![](https://pomf2.lain.la/f/3gp1wzfq.png)
+Tested with: 
+B4
+Makoto 6★		R31 FULL, LVL 298, UE1 300, EX 5/5/5 
+X.Ayane 5★		 R31 FULL, LVL 298, UE1 300, UE2 5, EX 5/5/5 
+S.Rei 5★			R31 FULL, LVL 298, UE1 300, EX 5/5/5 
+S.Shinobu 5★	R31 FULL, LVL 298, EX 5/5/5 (R32 full works)
+Laby 5★				R31 FULL, LVL 298, UE1 300, EX 5/5/5 
+
+![](https://pomf2.lain.la/f/p22zfwtf.png)
 
 ### Boss 5
 

@@ -28,6 +28,9 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 
 ## Style Loras
 
+*base template* | iono \(pokemon\) | kagari atsuko, little witch academia | megumin
+:------:|:------:|:------:|:------:
+
 ### [allcharacters18](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/adlQiKyB)
 ![](https://i.imgur.com/QYW50WB.png) | ![](https://i.imgur.com/CKK7kJG.png) | ![](https://i.imgur.com/ZKNw8nl.png) | ![](https://i.imgur.com/NF31TbG.png)
 :------:|:------:|:------:|:------:
@@ -98,6 +101,9 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 
 ## Multi LoRAs
 
+character | *base template* | iono \(pokemon\) | kagari atsuko, little witch academia | megumin
+:------:|:------:|:------:|:------:|:------:
+
 ### [fizrotart](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/DFt1hJrC)
 ```
 dagger \(fizrotart\), ... twintails, black hair, red eyes
@@ -111,6 +117,25 @@ digitan \(porforever\), ... fang, headphones, power symbol, dress shirt, pink sh
 ```
 ![](https://i.imgur.com/EpIA5Q4.png) | ![](https://i.imgur.com/pIhk7yX.png) | ![](https://i.imgur.com/Hzl215N.png) | ![](https://i.imgur.com/8lffQ34.png) | ![](https://i.imgur.com/Upny0Dr.png)
 :------:|:------:|:------:|:------:|:------:
+
+## Character LoRAs
+
+prompt | only name | only lora | no lora
+:------:|:------:|:------:|:------:
+
+### [ashley (warioware)](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/CMswRRoZ)
+```
+ashley \(warioware\), ... loli, red dress, long sleeves, wide sleeves, orange neckerchief, skull, orange hairband, black pantyhose, red footwear, twintails, big hair, long hair, hair between eyes, black hair, red eyes
+```
+![](https://i.imgur.com/EuSVpWS.png) | ![](https://i.imgur.com/dye6wgo.png) | ![](https://i.imgur.com/6piyJHL.png) | ![](https://i.imgur.com/UBg7cLc.png)
+:------:|:------:|:------:|:------:
+
+### [nanahira](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3J1FwRjS)
+```
+nanahira, ... open jacket, green hoodie, sleeve ribbon, hood down, drawstring, choker, criss-cross halter, white dress, full-length zipper, dress bow, asymmetrical legwear, single thighhigh, sneakers, bow hairband, hairpin, x hair ornament, long hair, light brown hair, yellow eyes
+```
+![](https://i.imgur.com/MAqh0fD.png) | ![](https://i.imgur.com/pHLzr6T.png) | ![](https://i.imgur.com/2USvPhr.png) | ![](https://i.imgur.com/xYsgZoc.png)
+:------:|:------:|:------:|:------:
 
 ## Additional Notes
 

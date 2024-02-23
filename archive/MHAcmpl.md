@@ -235,6 +235,7 @@ Suslik: https://archive.4plebs.org/tg/post/91699413/
 The Hospital Killer: https://desuarchive.org/tg/post/91772420/
 Paul Crémieux VN De Jais (Jet Black): https://desuarchive.org/tg/post/91841242/
 Jessica Wu VN Surinam Toad Girl: https://archive.4plebs.org/tg/thread/91843193/#91851919
+Jan Procházka VN Msr. Blanc: https://desuarchive.org/tg/post/91963570/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -716,6 +717,9 @@ Impakt Valentines: https://desuarchive.org/tg/post/91906255/
 Impakt Valentines: https://desuarchive.org/tg/post/91906547/
 Funni Siblings (Satoru Tani): https://desuarchive.org/tg/post/91918576/
 Detention Roulette (Satoru Tani, Some 1-D): https://desuarchive.org/tg/thread/91931704/#91934906
+The Daily Life of Satoru Tani 1: https://desuarchive.org/tg/post/91964939/
+The Daily Life of Satoru Tani 2: https://desuarchive.org/tg/post/91966001/
+The Daily Life of Satoru Tani 3: https://desuarchive.org/tg/post/91967769/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1178,7 +1182,7 @@ The Symbol of Death: Part 2 (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuk
 Lunch Hour (1-F): https://rentry.org/LunchHour
 1-F Epilogues: 1-aFtershocks(1-F): https://rentry.org/1Aftershocks
 1-F Epilogues: 1-FUTURE (1-F, Suslik, mentions of some other heroes): https://rentry.org/rwbqp65x
-
+Internship Gossip (Clique): https://rentry.org/igqhcxhy
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

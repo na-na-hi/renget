@@ -4,5 +4,5 @@
 -> or **Adel**　︵　*%#99A5C9% !~[any](https://pronouns.cc/@vixenn)~!%% / pronouns*  𐰁ᶻ 𝗓 <-
 -> ![](https://caterpie.crd.co/assets/images/gallery05/93b14479.gif?v=31fdc6f6)　~~Indo~~nesian %#99A5C9%isfp minor%%　彡<-
 -> ꒰　**☆**　genderfluid demiromantic <-
--> [ext](https://rentry.co/forbiddenlove-) <-
+-> [ext](https://rentry.co/fragile_) <-
 -> ![](https://media.discordapp.net/attachments/1193777758220865566/1205864454236012576/Tak_berjudul146_20240210195756.png?ex=65d9ebc9&is=65c776c9&hm=01d32617af202d0f7a59b9bbf7cf69c34c537e37e4eca2d4dc71d30d77f0e9f0&) <-
