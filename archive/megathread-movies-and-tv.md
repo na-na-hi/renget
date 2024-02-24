@@ -53,9 +53,9 @@
 - Totally enjoy a wonderful assortment of full-HD copies of Asian dramas, with English subtitles from Korea, China, Japan, and Thailand.
 - [URL Safety Results](https://www.urlvoid.com/scan/mkvdrama.org/)
 
-### 🔗 [Pahe](https://pahe.me/)
+### 🔗 [Pahe](https://pahe.ink/)
 - Really good selection of the newest, best-of-breed television shows and motion pictures that also includes anime all for direct downloads.
-- [URL Safety Results](https://www.urlvoid.com/scan/pahe.me/)
+- [URL Safety Results](https://www.urlvoid.com/scan/pahe.ink/)
 
 ### 🔗 [PSArips](https://psa.wf/)
 - A convenient location to find small-file movies, TV series, and some anime. Torrenting is another option offered.

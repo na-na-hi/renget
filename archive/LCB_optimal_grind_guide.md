@@ -32,19 +32,19 @@ Note: some of these IDs might not be available to you, which is why I gave some 
 
 %Grey% Yi Sang: %%
 %gold%  000 %%
-W Corp (Great for Rupture and Charge teams) / Spicebush (Requires set up, but can nuke with Sinking)
+W Corp (Great for Rupture and Charge teams) / Spicebush (Requires setup, but can nuke with Sinking)
 %gold%  00 %%
 Dieci (It's a Discard ID, and a good one)
 %Pink% Faust: %%
 %gold%  000 %%
-Regret (The best Tremor ID and overall great pick) / The One Who Grips (Has a lot of debuffs) / Seven (Good for damage and clashing)
+Regret (The best Tremor ID, and overall great pick) / The One Who Grips (Has a lot of debuffs) / Seven (Good for damage and clashing) / Blade Lineage (Makes Poise IDs crit more reliably)
 %gold%  00 %%
 Remnant (Pretty well balanced, great skill 3)
 %#ffef23%  Don Quixote: %%
 %gold%  000 %%
 W Corp (Your nuke) / Middle (Great alternative, but you need to run an Envy team to make her truly powerful)
 %gold%  00 %%
-Blade Lineage (Powerful Poise ID) / Lantern (Great for Rupture teams)
+Blade Lineage (Great Poise ID) / Lantern (Great for Rupture teams)
 %#cf0000%  Ryoshu: %%
 %gold%  000 %%
 W Crop (Your Nuke) / Chef (Good alternative, but he skill 3 requires setup to be a nuke and it can't clash)
@@ -54,20 +54,20 @@ Seven (Well balanced with great clash numbers)
 %gold%  000 %%
 Kim (A powerful Poise ID, and a great support for the other Poise IDs) / Rhino (Good alternative, tanky and can apply a lot of bleed)
 %gold%  00 %%
-Don't bother
+Middle (Works great with Middle Don and has Envy support. Plus with his support, you can SP heal much faster if you have IDs from the same faction)
 %#5bffde% Hong Lu: %%
 %gold%  000 %%
-K Corp(Immortal and tanky) / Ting Tang(Great skill2 damage and powerful support passive) / Dieci (Pure damage and has Discard)
+K Corp (Immortal and tanky) / Ting Tang (Big skill 2 damage and powerful support passive) / Dieci (Pure damage and has Discard)
 %gold%  00 %%
 Hook (Great at applying bleed and can deal 000 levels of damage)
 %#4e3076% Heathclif: %%
 %gold%  000 %%
-Rabbit (A must-pick) / QQ (Shreds in Bleed teams and has Envy support)
+Rabbit (A must pick) / QQ (Shreds in Bleed teams and has Envy support)
  %gold%  00 %%
-Seven (A must pick for Rupture teams
+Seven (A must pick for Rupture teams)
 %#ff9500% Ishmaels: %%
 %gold%  000 %%
-All of her 000 IDs are great, it's just about what flavor you'd want. Liu (Burn) / Boatworks (Sinking) / Reindeer (Charge) / Captain (Bleed)
+All of her 000 IDs are great, it's just about the flavor. Liu (Burn) / Boatworks (Sinking) / Reindeer (Charge) / Captain (Bleed)
 %gold%  00 %%
 Don't bother
 %#820000% Rodion: %%
@@ -77,14 +77,14 @@ Dieci (Has Discard and shit ton of damage)
 Don't bother
 %#8b9c15% Sinclair: %%
 %gold%  000 %%
-N Corp (first is a boss killer) / Cinq (Also powerful, if not as powerful as N Corp)
+N Corp (A boss killer) / Cinq (Also powerful, if not as powerful as N Corp)
 %gold%  00 %%
 Don't bother
 %#325339% Outis: %%
 %gold%  000 %%
-Molar (Discard and high damage and clash numbers) / Magic Bullet (A bit tricky to use, but if the fight takes too long, she can nuke with 7 bullets)
+Molar (Discard, high damage and clash numbers) / Magic Bullet (A bit tricky to use, but if the fight takes too long, she can nuke with 7 bullets)
 %gold%  00 %%
-Don't bother
+Cinq (She has one of the better Evade skill in the game. If the 000 IDs aren't available to dispense, she makes a good alternative if you really want an Outis ID)
 %#69350b% Gregor: %%
 %gold%  000 %%
 Twinhook (His damage and clash numbers only increase the more the fight goes on)

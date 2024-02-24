@@ -9,12 +9,10 @@ Discuss the game, fan-made creations, & series that have crossed over with Frida
 Week #XXXX - ??? Edition
 
 >NEWS:
->Funkin Crew's 2023-09-18 blog post
-https://funkin.me/blog/2023-09-18/
+>Funkin Crew's 2024-02-23 blog post (New chart editor showcase)
+https://funkin.me/blog/2024-02-23/
 >Ninjamuffin & PA did an AMA on /funkg/
 https://rentry.org/6zfux
->Week 7 source code has released
-https://github.com/FunkinCrew/Funkin
 >Phantom Arcade's stream summaries
 https://rentry.org/pnkn5
 

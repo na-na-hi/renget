@@ -11,7 +11,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
 **THU: - at 3UTC ()** 
 **FRI: Megaman Starforce 2 at 3UTC (Parsec)**
-**SAT: https://www.romhacking.net/hacks/8425/ at 3UTC (Telemelt)**
+**SAT: The Lion King at 3UTC (Telemelt)**
 **SUN: Minemelt around 19UTC* (Minecraft)** probably
 
 ##Cytubes

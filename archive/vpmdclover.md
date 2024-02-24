@@ -48,7 +48,7 @@ Maxi | M | Trubbish | Joltik (Maddi, F, Native) | Clover Guild Member | [???](ht
 Rasmus | M | Spinarak | N/A | Clover Guild Native Member(?) | [Rash](https://rentry.org/vpmdcloverpb#rasmus)
 Fern | M | H-Zorua | A-Ninetales (Ciel, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#fernciel)
 Taslean | M | Snover | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#taslean)
-Adrian | M | Umbreon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrianennyvileplumebellossom)
+Adrian | M | ~~Umbreon~~ Flareon | Sylveon (Enny, M, Human), Vileplume (M, Native) & Bellossom (F, Native) | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#adrianennyvileplumebellossom)
 Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Guild Native (?) Veteran Explorer  | [Quirky](https://rentry.org/vpmdcloverpb#jungsara)
 Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
 ??? | M | Wimpod | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#wimpod)

@@ -1,4 +1,1 @@
-->![Sike](https://files.catbox.moe/yfkynq.png)<-
-->![picrew](https://files.catbox.moe/i7q1l7.png)<-
-->![She](https://files.catbox.moe/n0n1hq.png)![None](https://files.catbox.moe/ruiakl.png) ![.](https://files.catbox.moe/i88ea5.png)
-![fourteen](https://files.catbox.moe/ucias1.png)![years of age, written in chinese.](https://files.catbox.moe/tb5rc1.png) ⠀།྇![scissors](https://cdn.discordapp.com/attachments/1011038984052428830/1163586325711163432/IMG_5873.gif?ex=65777c36&is=65650736&hm=5f88602c512d9e150d701d3e05552c75389fc33d8c3f212a0c4f092848293e0e&) ⨾ ![person of colour! im south asian.](https://files.catbox.moe/2hfz26.png)<-
+⎯|⎯⎯ whats uP W.I.P

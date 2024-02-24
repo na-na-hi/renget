@@ -19,6 +19,6 @@
 ## -> [Mental illness](https://rentry.co/aicgthemedweek4) <-
 ## -> [Gothic horror](https://rentry.co/aicgthemedweek5) <-
 ## -> [A world without X + Unconventional monsters](https://rentry.co/aicgthemedweek6) <-
-## -> [Winter Holidays](https://rentry.org/specialthemedweek)<-
-## -> COLLECTING IDEAS | CHECK THE THREADS <-
+## -> [Winter holidays](https://rentry.org/specialthemedweek)<-
+## -> POLL SOON <-
 ***

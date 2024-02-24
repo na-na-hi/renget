@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 12 | **Experience to Next Level:** 110/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 954₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 54₽ | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -35,14 +35,14 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Fire Fang | 6 BP | 5 AP | ≥2 | Fire | Physical | 16-18; The Opponent is afflicted with Burn. 19-20; The Opponent Flinches.
 Double Kick | 2D6 BP | 5 AP | ≥2 | Fighting | Physical | Multi-Hit; Roll 2D6.
 Ember | 4BP | 5AP | ≥2 | Fire | Special | 19-20; The Opponent is afflicted with *Burn*.
-Quick Attack | 4 BP | 5 (-1) AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
+Bounce | 9 BP | 7 AP | ≥4 | Flying | Physical | The User is afflicted with Sky High. Hits 1 round after using the Move.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
 **RP MOVES (2 slots)**
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Quick Attack | A short burst of speed, good for quickly getting from A to B.
 Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**

@@ -9,4 +9,4 @@ roblox, honkai star rail, toilet bound hanako kun, cherry crush, mlbb, ff, txt d
 
 ask 4 discord
 
-[back](/choi_y)
+[back](/meaningless-)

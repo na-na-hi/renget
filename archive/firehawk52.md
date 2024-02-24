@@ -300,6 +300,7 @@ Download ZSpotifyGUI [here](https://github.com/PacketSurf/ZSpotifyGUI). Thanks t
 ### Telegram-bots
 
 #### Multi-downloaders
+https://t.me/mymusics12bot (Spotify, Deezer, and Qobuz - and receive individual files or as a zip-file)
 https://t.me/deezertogdrivebot (Spotify and Deezer)
 https://t.me/music_ripper_bot (Qobuz, Tidal, and Soundcloud) & Chat: https://t.me/+aCvHlP9g1jpjNjU1
 #### Amazon Music
