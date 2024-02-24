@@ -2,7 +2,7 @@
 a resource rentry just for pixel letters
 bc they are kinda hard to find :3
 dm suggestions/edits to me [here](http://www.twitter.com/rainbrainrot)
-*sister sites:* [*lettering*](/lettering) and [*matchings*](/matchings) <-
+*sister sites:* [*lettering*](/lettering) and [*matching*](/matching) <-
 
 **multicolor hello kitty**
 ![1](https://pixels.crd.co/assets/images/gallery85/6e9a8433.gif?v=379361a4) ![2](https://pixels.crd.co/assets/images/gallery85/36390715.gif?v=379361a4) ![3](https://pixels.crd.co/assets/images/gallery85/fe29b24f.gif?v=379361a4) ![4](https://pixels.crd.co/assets/images/gallery85/8fa28456.gif?v=379361a4) ![5](https://pixels.crd.co/assets/images/gallery85/cc742fbf.gif?v=379361a4) ![6](https://pixels.crd.co/assets/images/gallery85/96176021.gif?v=379361a4) ![7](https://pixels.crd.co/assets/images/gallery85/36ff9428.gif?v=379361a4) ![8](https://pixels.crd.co/assets/images/gallery85/c9b86848.gif?v=379361a4) ![9](https://pixels.crd.co/assets/images/gallery85/cb72de6f.gif?v=379361a4)

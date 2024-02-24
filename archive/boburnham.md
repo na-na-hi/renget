@@ -1,4 +1,4 @@
-![!](https://media.discordapp.net/attachments/1089617212677030019/1210444279122501663/IMG_2991.jpg?ex=65ea9515&is=65d82015&hm=ecfce7cc96b5daf35a849558139c790454715d00282a914a888742682b450395&) Awards Bo has won & Festivals, films, shows, and projects bo has been involved in ..,
+[my retrospring for things to add or inquiries : )](https://retrospring.net/@boburnham) ![!](https://media.discordapp.net/attachments/1089617212677030019/1210444279122501663/IMG_2991.jpg?ex=65ea9515&is=65d82015&hm=ecfce7cc96b5daf35a849558139c790454715d00282a914a888742682b450395&) Awards Bo has won & Festivals, films, shows, and projects bo has been involved in .., (this is a wip.)
 
 COMEDY SPECIALS -
 What. (2013) 

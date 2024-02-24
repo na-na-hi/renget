@@ -1,6 +1,6 @@
--> ![](https://media.discordapp.net/attachments/903364339464044575/1089434990036652092/AF229CC7-0111-416B-A33A-1F773381E146.png) <-
--> ![lace](https://media.discordapp.net/attachments/903364339464044575/1089456139583901706/2940E0FB-F3DE-4DE6-92F8-183585A007CA.png) or michael ⑅ ˖ 𓏲    <-
-->  he [ﾉ](https://en.pronouns.page/@hakkai) him ![bandaid](https://media.discordapp.net/attachments/903364339464044575/1089456141349703760/C558B9BA-0E66-48D5-9724-745E1A36782B.png) fifteen ଓ ˚ ✦ palestinian<-
--> ![hrt](https://media.discordapp.net/attachments/903364339464044575/1089462453085147166/DA3E71C0-B93F-4A8E-A701-1B9413639E4D.gif) borderline˚ ༘ the finns[01](https://blue-period.fandom.com/wiki/Yakumo_Murai) ~~[02](https://evangelion.fandom.com/wiki/Kaworu_Nagisa)~~ [03](https://marvel.fandom.com/wiki/Peter_Parker_(Earth-616)) <-
--> .˚ ⊹ ![dress](https://media.discordapp.net/attachments/903364339464044575/1089461700102721536/27B3D063-85E4-440C-A032-165DCE5C9931.png)   demiboy ୨ [yatora](https://rentry.co/baefy) & aku's bf <-
--> [byfdni](https://rentry.co/heartstouch) ⸝⸝  [interests](https://rentry.co/finnterest) ⸝⸝  [me](https://rentry.co/wolfidol) 𓂅 ﹕![button](https://media.discordapp.net/attachments/903364339464044575/1089467266954965052/66B6FB6E-6715-45E2-82CE-C45AB3CD79A1.gif)<-
+-> ![](https://i.postimg.cc/7YDVqrS2/Untitled8-20240223193755.png?width=800&height=500) <-
+-> ![lace](https://i.postimg.cc/Qx7tsm29/2940-E0-FB-F3-DE-4-DE6-92-F8-183585-A007-CA.png) or finn ⑅ ˖ 𓏲  ![](https://i.postimg.cc/yY9V2T5f/E16-C0-EC8-60-E1-455-C-9013-FA6-C56-F62-EA4.gif)   <-
+->  he [ﾉ](https://en.pronouns.page/@hakkai) him ![bandaid](https://i.postimg.cc/Vs2f7h7r/C558-B9-BA-0-E66-48-D5-9724-745-E1-A36782-B.png) sixteen 𓎟𓎟ྀིྀི  palestinian<-
+-> ![hrt](https://i.postimg.cc/R0C46x08/DA3-E71-C0-B93-F-4-A8-E-A701-1-B9413639-E4-D.gif) borderline˚ ༘ the%#C3B1E1%**finns**%% [01](https://blue-period.fandom.com/wiki/Yakumo_Murai) ~~[02](https://evangelion.fandom.com/wiki/Kaworu_Nagisa)~~ [03](https://marvel.fandom.com/wiki/Peter_Parker_(Earth-616)) <-
+-> 𓈒⁺ ⟡ ![dress](https://i.postimg.cc/NjcgtHvQ/27-B3-D063-85-E4-440-C-A032-165-DCE5-C9931.png)   trans boy %#C3B1E1%୨♡୧%% [yatora's](https://rentry.co/baefy) boyf <-
+-> [byfdni](https://rentry.co/heartstouch) ⸝⸝  [interests](https://rentry.co/finnterest) ⸝⸝ [rsrcs](https://rentry.org/rsrcs) 𓂅 ﹕![button](https://i.postimg.cc/PxPHybYQ/66-B6-FB6-E-6715-45-E2-82-CE-C45-AB3-CD79-A1.gif)<-

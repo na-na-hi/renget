@@ -463,6 +463,9 @@ https://files.catbox.moe/ho7o57.safetensors okota_mikan
 [![no scores](https://files.catbox.moe/r9y55r.png)](https://files.catbox.moe/sbud2l.png)[![3d in negative](https://files.catbox.moe/5xgh7q.png)](https://files.catbox.moe/w2t23o.png)[![source_anime, score_9](https://files.catbox.moe/foqz5n.png)](https://files.catbox.moe/qzv0an.png)[![all scores](https://files.catbox.moe/5tod31.png)](https://files.catbox.moe/ywdb79.png)
 https://files.catbox.moe/w4zilv.safetensors sakura_no_tomoru_hi_e
 
+https://files.catbox.moe/sgy29u.safetensors pandora
+https://files.catbox.moe/vgphp1.safetensors andava
+
 **These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.**
 
 [![no scores](https://files.catbox.moe/c6upoo.png)](https://files.catbox.moe/nwh621.png)[![3d in negative](https://files.catbox.moe/1lbyxz.png)](https://files.catbox.moe/rl97fv.png)[![source_anime, score_9](https://files.catbox.moe/pw0i2b.png)](https://files.catbox.moe/pigmf9.png)[![all scores](https://files.catbox.moe/kda651.png)](https://files.catbox.moe/wndim7.png)
@@ -529,6 +532,7 @@ https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831
 https://mega.nz/folder/dTkFHAgD#i04TRgRJUOMu9cByDe24UQ amazuyu_tatsuki, csr, enoshima, garakuta-ya, hiromitsu, kagami, kamitani, korotsuke, ohara, piromizu, JK-BlushySpicy-YD-CSR-Redrop_mix
 https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/W5AjzbLD Fishine, Kakure_Eria, Navigavi, opossummachine, Shibori_Kasu, Syrupmelty, Zankuro, Kiss-Shot Azerola-Orion Heart-Under-Blade, Shinobu Oshino, Utsuho Reuji
 https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun
+
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -552,7 +556,7 @@ https://files.catbox.moe/uveemt.safetensors character_hanabi Trigger phrase "han
 https://files.catbox.moe/9sc9aj.safetensors character_hiragi_kagami example gens: https://files.catbox.moe/6j5etd.jpg, https://files.catbox.moe/22j10a.jpg, https://files.catbox.moe/vkuomy.jpg, https://files.catbox.moe/855i66.jpg
 https://files.catbox.moe/p8pc8o.safetensors character_takarada_rikka doesn't seem to have an activation trigger, just will make any girls you gen into her
 https://files.catbox.moe/0520b4.safetensors character_ashley_warioware activation trigger is ashely, looks like the images all had 1girl in the prompt as well
-
+https://files.catbox.moe/0r3b9z.safetensors character_beatrice_rezero doesn't seem to have a trigger for the character
 
 
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen

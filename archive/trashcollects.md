@@ -838,7 +838,12 @@ https://mega.nz/folder/NugFxBTD#7E7mnrOnPvn0DJrBl7hntw
 	- Thousandfoldfeathers
 	- Pochincoff
 
-https://mega.nz/folder/pnAQ3Lqa#yL0Q0TVTuUeVjmCgAdpfNg
+- Characters:
+	- Lunaris
+	- Voidoll
+
+Styles: https://mega.nz/folder/pnAQ3Lqa#yL0Q0TVTuUeVjmCgAdpfNg
+Characters: https://mega.nz/folder/hihyDTQR#EEC4Ve6PJHTlBdV1dV0txA
 
 # Moths, Pokemon (Style), Mai Shiranui (DubAnon) (New Link)
 - Concepts:

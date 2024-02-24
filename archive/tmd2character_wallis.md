@@ -95,7 +95,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant Hand slot.
 1. Iron | Boosts Training for Defense by 1 bar.
 2. Sitrus Berry | Heals the user for 20 HP.
-3. Empty | Empty inventory slot.
+3. Meteorite Shard | Acquired from entertaining Watched Roller (Minior) and a Clefable. Could this help cure Twilight Syndrome?
 4. Empty | Empty inventory slot.
 
 **STORAGE (2 slots)**
@@ -111,7 +111,6 @@ Item Name | Description
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
-RP Item | Meteorite Shard | Acquired from entertaining Watched Roller (Minior) and a Clefable. Could this help cure Twilight Syndrome?
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 

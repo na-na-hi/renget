@@ -1,4 +1,4 @@
--> Last update: 2024-01-04 ->
+-> Last update: 2024-02-23 ->
 
 # /horg/ - Horror Games General 
 
@@ -63,6 +63,10 @@ https://arch.b4k.co/vg/search/subject/horg/
 >[Nexus](https://www.nexusmods.com)
 
 >[Steam Workshop](https://steamcommunity.com/workshop/)
+
+!!! note Other:
+
+>[Resident Evil Timeline Generator](https://residenteviltimelineapp.com/home) `in essence, this will help you figure out what's canon in the resident evil franchise, what kind of canon they're in and lets you organise them in the dates they were released or chronologically`
 
 ---
 

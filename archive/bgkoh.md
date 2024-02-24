@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 12 | **Experience to Next Level:** 110/120
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 854₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 954₽ | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -80,7 +80,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Meteorite shard | It can be sold for 125P, looks like some sort of candy?
 2. Spicy Seed | Causes Burn on consumption.
-3. Meteorite shard | It can be sold for 125P, looks like some sort of candy?
+3. Eᴍᴘᴛʏ | Nothin' here boss!
 4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

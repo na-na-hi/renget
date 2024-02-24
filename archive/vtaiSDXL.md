@@ -61,6 +61,8 @@
 ***
 ##### -> Jelly Hoshiumi <-
 -> [Civitai](https://civitai.com/models/95498/jelly-hoshiumi-phase-connect)
+##### -> Pipkin Pippa <-
+-> [Civitai](https://civitai.com/models/317588/pipkin-pippa-phase-connect-xl) <-
 
 #### -> Indies <-
 ***
@@ -456,11 +458,20 @@ or
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
 
 ##### -> Tsunomaki Watame <-
+!!! info 6 Outfits!
 -> [Civitai](https://civitai.com/models/314743/tsunomaki-watame-6-outfits-or-hololive-or-pony-xl) <-
 
 ##### -> Shirakami Fubuki <-
 !!! info 9 Outfits!
 -> [Civitai](https://civitai.com/models/315321/shirakami-fubuki-xl-9-outfits) <-
+
+##### -> Ninomae Ina'nis <-
+!!! info 5 Outfits!
+-> [Civitai](https://civitai.com/models/318845/ninomae-inanis-xl-5-outfits) <-
+
+##### -> Nakiri Ayame <-
+!!! info 7 Outfits!
+-> [Civitai](https://civitai.com/models/317577/nakiri-ayame-7-outfits-or-hololive-or-pony-xl) <-
 
 #### -> Nijisanji <-
 ***

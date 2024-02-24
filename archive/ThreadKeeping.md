@@ -443,25 +443,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->New Writefags:
->The Symbol of Death: Part 3 (Reaper, Forget-Me-Not, Ookami Shizuka, Drekus, Hijack, The Boys (kind of))
-https://rentry.org/55t76vwp
->With Open Hearts And Open Minds (Seiryu, Honoken, Hijack)
-https://rentry.org/2bqb4hiq
->I Get Your Number And We Grow From There (Seiryu, Yoshizumi)
-https://rentry.org/4t3zcu2b
->Spring Boy And Summer Girl (Seiryu, Honoken, Kotoba)
-https://rentry.org/yzbayxk5
->Um Tempo Musical (Seiryu, Honoken)
-https://rentry.org/qxo4wft2
->Messages From The Star (Seiryu, Yoshizumi)
-https://rentry.org/7rw4bbwc
->Hearts Afire (Seiryu, Yamata, Blast Burn, Yamamoto)
-https://rentry.org/ewpc5tz3
-
->Art
->Satoru Tani moments before tragedy
->>91977984
+>New Build:
+>Kyoda Hiro HN Overdose (redux)
+>>91985145
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -531,7 +515,7 @@ Page 2
 >Yui Sagara HN Binding Hero: Capture Cloth (Held Back)
 >>88383012
 >Kyoda Hiro HN Overdose (Held Back)
->>88193619
+>>88193619+ >>91985145
 >Sally McCathy HN Last Rite
 >>88810810
 >Takara Tame HN Android

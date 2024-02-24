@@ -26,10 +26,10 @@
 
 ***
 -> miscellaneous ੭ ![](https://pixelbank.neocities.org/decome/medical/34afc40d.gif) ˚₊﹙27﹚ ->
--> **pixelboy** *bimboboy* **digitaldude** **spiderguy** *spiderbf* *usedboy* · **matchaboy** **matchaaddict** **`matchaddict`** **matchapowder** · *corpsedolls* **morguedoll** *lacedoily* **`heartstouch`** **littleriddles** *unhealthylover* *`dollskull`* *risenfromthedead* **brainfucked** **kinkshamer** *notfortrade* *carvedin* · **bestprincessdisorder** · **transyandere** **maleyandere** ~~`yundere`~~ · ~~`klodwig`~~ ->
+-> **pixelboy** *bimboboy* **digitaldude** **spiderguy** *spiderbf* *usedboy* · **matchaboy** **matchaaddict** **`matchaddict`** **matchapowder** · *corpsedolls* **morguedoll** *lacedoily* **`heartstouch`** **littleriddles** *unhealthylover* *`dollskull`* *risenfromthedead* **brainfucked** **kinkshamer** *notfortrade* *carvedin* · **bestprincessdisorder** · **transyandere** ~~maleyandere~~ ~~`yundere`~~ · ~~`klodwig`~~ ->
 ***
 ◟ ![](https://media.discordapp.net/attachments/903364339464044575/1090715232529297568/C76BF445-D171-4A71-9AA3-4A22883C7B57.gif) ◝  names﹙11﹚
-~~`dali`~~ ~~`irmie`~~ ~~finni~~ ~~`ayyur`~~ ~~finnessed~~ ~~mikement~~  **mikencheese** *`mikennike`* *finnigan* *wikeymikey*
+~~finn~~ ~~`dali`~~ ~~`irmie`~~ ~~finni~~ ~~`ayyur`~~ ~~finnessed~~ ~~mikement~~  **mikencheese** *`mikennike`* *finnigan* *wikeymikey*
 ***
 !!! danger
 ***
@@ -53,7 +53,7 @@
 ***
 ###### -> `  ˚  .　url wishlist  ⠀ 𓂋` <-
 -> ill trade !~**multiple urls**~! for these, including *some* nft ones <-
--> fl(i)uttershy(s) · fl(i)utterbat · yatorayaguchi · yaguchiyatora · yaguchi · yatora · murai · yakumo muraiyakumo · vampire related things · saulgoodman · janemargo(i)lis · kaworunagisa · kawoshin · reze · akutagawaryu(u)nosuke · ryu(u)nosuke · akutagawa · finn ·  finnie · finnfinn · matcha · matchalatte <-
+-> fl(i)uttershy(s) · fl(i)utterbat · yatorayaguchi · yaguchiyatora · yaguchi · yatora · murai · yakumo muraiyakumo · vampire related things · saulgoodman · janemargo(i)lis · kaworunagisa · kawoshin · reze · akutagawaryu(u)nosuke · ryu(u)nosuke · akutagawa · jay ·  finnie · finnfinn · matcha · matchalatte <-
 ***
 ***
 !!! danger

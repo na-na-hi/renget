@@ -13,7 +13,9 @@ Newest one. Many big changes from the Sus X, trying a different approach. This o
 (Deprecated) First version: https://files.catbox.moe/wfqhz9.json (NOT UP-TO-DATE)
 
 Changelog:
-19/02/2024: Because of how horny it was and complaints, I added an extra vocabulary and UJB for people to switch to if they want, it should help slightly with characters acting a bit more in-character. Oh, I also took out the part about characters taking objects out and whatnot; it was too intrusive.
+- 19/02/2024: Because of how horny it was and complaints, I added an extra vocabulary and UJB for people to switch to if they want, it should help slightly with characters acting a bit more in-character. Oh, I also took out the part about characters taking objects out and whatnot; it was too intrusive.
+download for this version (outdated): https://files.catbox.moe/gc15q7.json
+- 23/02/2024: Changed gruesome to disturbing, as it surprisingly seems to be more effective at getting bloody content. Changed some stuff on the UJB, mostly wording but also an extra part that should HOPEFULLY keep the AI from being suddenly horny; the changes should also HOPEFULLY help with out-of-character slur usage. Changed a tiny bit in the DevTok UJB, nothing special.
 ##### Some things of note, READ CAREFULLY:
 1- For some reason, furbo loves similes. Sometimes it's worse, some others it isn't as bad. Sorry, I don't know how to fix it; it's probably a word in the UJB causing it.
 2- In the UJB, it has a part asking the AI to use "writing tone for an uneducated person", it influences quite a lot how the AI writes, and helps with stuff like "debauched den of debauchery" furbo likes to include. If you dislike the writing, delete or change this to your liking, for example instead asking it to "but always try to act in character".
@@ -22,6 +24,8 @@ Changelog:
 5- You can try shortening the dev token in the RULES section if you think it's too long but I don't know how it's going to affect the JB.
 6- The JB has customizability: The vocabulary can be disabled, for example, and in the UJB, the tasks starting with - can be edited to your liking, which can help with the horniness, if you dislike that. Policy Override and the Dev Tok UJB should be changed VERY carefully, if you do so. In the end, everything is customizable to your tastes, just be careful or otherwise the quality of the JB may decrease (or, in fact, increase for you, if you do things right.)
 7- There are 2 vocabularies and UJBs: CHOOSE ONLY ONE OF EACH. The second vocabulary has most of the sexual slurs taken out to avoid characters cursing out of character. The second UJB makes characters *slightly* less horny and should help characters stay in character too. Unfortunately, it doesn't have the writing tone thing because the one I put in UJB 1 forced the AI to be way too crude; however, without it means UJB 2's writing has the usual problem of furbo's love of writing stuff like "carnal", "primal", "lascivious dance", and so forth. I most likely can't fix this until finding a better writing tone.
+8- Too horny: hopefully, it isn't anymore, but please keep in mind that example dialogues and defs can affect the replies too. If wanting sexo is referred in the defs, for example, of course the AI will learn towards being sexual.
+9- Suddeness: The JB might cause furbo to "suddenly" introduce characters and things happening. This might bother some people, but I think it's worth it because otherwise furbo is too passive and doesn't spice things up enough. I can tell that it isn't furbo trying to stop smut or NSFW stuff of happening. Just regen or remove the "sudden" part of the reply in case you don't like it.
 #### Preferencial settings:
 * Temperature - 2.
 * Frequency Penalty - 0.05
@@ -29,7 +33,8 @@ Changelog:
 * Top P - 0.80
 I recommend testing trying Top P 0.80 to 0.90 and anywhere between, see what works best for you. Lower than 0.80 might cause the AI to go schizo.
 
-#### LATEST OF THIS VERSION (UP-TO-DATE) >>>> https://files.catbox.moe/gc15q7.json
+REMEMBER, YOU WANT LESS HORNINESS/SLURS!? USE UJB 2 and VOCABULARY 2!!!
+#### LATEST OF THIS VERSION (UP-TO-DATE) >>>> https://files.catbox.moe/6i6xqy.json
 
 #### Regex For it!!
 ```

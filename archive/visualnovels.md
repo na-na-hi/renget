@@ -3,8 +3,8 @@
 -> ![](https://media.discordapp.net/attachments/1192430660611215360/1194833383696633896/Untitled220_20240110194014.png?ex=65b1ca4d&is=659f554d&hm=125fffe3aaf72a0aff1af38958dc6e0dda5446e0be94b9dfa1c772f556421465&=&format=webp&quality=lossless&width=1012&height=534)<-
 -> %#ff887a% " A%% %#a80202%!~#a80202;double; corpse~!%% %#ff887a%is talking. "%% <- 
 
-->%#a80202%MiKA%%　![](https://64.media.tumblr.com/f57468fd0e968dfcdce28974d3f3a4b6/37221ecbab8edd94-14/s75x75_c1/a8e2b28fd8cbad2c10f0b13a2e038d0e6ddca700.gifv)　%#ff887a%Towa%% <-
-->  %#ff887a%16.　ment ill.%%　 %#a80202%he !~hym~! doll%% <-
+->%#a80202% towa %%<-
+->  %#ff887a%16.%%　 %#a80202%hy hym !~only~!%% <-
 -> ![](https://64.media.tumblr.com/73d7637ceffc2f498457cd08215d877c/ab677db81316f935-04/s640x960/c39e07d19761a0431d697a57d75b699dc41f6fe6.png) <-
 
 

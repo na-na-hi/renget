@@ -69,7 +69,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Stat: Special Defense **ɪɪ**| Tier **ɪɪɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
+Training for Stat: Special Defense **ɪɪɪ**| **ᴍᴀx** | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -81,14 +81,14 @@ Item Name | Description
 1. Blast Seed | Explodes on contact for 10 true damage.
 2. N/A | N/A
 3. Heal Seed | 	Cures all status conditions.
-4. N/A | N/A
+4.  Obsidian Dagger | A crude blade that cut. Make with obsidian and other materials that awash ashore.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Meteorite Shard | A shard of a meteorite that possibly worth 150₽ 
+1. N/A | N/A
 2. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**
@@ -97,11 +97,9 @@ Item Name | Description
 Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
-RP Item |+Rope | A strong and sturdy rope. Used for rope stuff. About 7 feet long.
 RP Item |11 Ball of Yarn| A Bunch of Yarn that probably belong to a Sprigatito. Maybe knit something with it?
 RP Item | Seashells | A collecting of seashell find along the shoreline.
 RP Item | Cyan Ink | Jar fill with cyan ink with some decoration painted on it.
-RP Item | Obsidian | Chuck of obsidian.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

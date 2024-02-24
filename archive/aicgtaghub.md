@@ -1,11 +1,14 @@
 # /AICG/ Tag Rentry Hub
--> ![]() <-
+-> ![Banner](https://files.catbox.moe/eths0a.png) <-
 
 !!! info Handy hub for various specific tag rentries made by anons. It is barebones for now, but will be updated with time.
 
 ###Contact info
 If you have any request, want to add your rentry to the list, have a question or a suggestion, you can contact me at:
 ->taghubanon@proton.me<-
+
+-> ==Update 21/02/24== <-
+-> *Added: Banner* <-
 
 -> ==Update 21/02/24== <-
 -> *Filled in Smelly rentry and added more Maids* <-
@@ -45,3 +48,5 @@ WIP
 ###Thanks
 First thank you goes to flatchest rentry anon, for inspiration to make this.
 Thanks to owner of fluffytails for providing templates.
+Thanks to Anon and QualifiedCobra for tips and tools to make managing rentries easier.
+Thanks to very talented Anon for making a banner!

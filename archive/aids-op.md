@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/Ap8Z6Vp.jpg)
-AR When Edition
+![suggested OP image]()
+ Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>466612092
+Last thread: >>466881032
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -33,7 +33,7 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Alien Friday is over. Enjoy the far-out prompts! Last: >>465877210
+\>Alien Friday is over; write prompts for next week's theme, Science and Laboratory Experiments Friday! >>466765039
  
 ▶News
 (02/21) NAI Diffusion V3 updates with Vibe Transfer feature: https://medium.com/@novelai/vibe-transfer-7a264645d241
