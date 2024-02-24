@@ -2,6 +2,7 @@
 if there's something new just post it in the thread
 
 **Ringo**
+Kson - https://files.catbox.moe/ki1w4n.mp4 (https://youtu.be/i2a6bBP5Lk8?t=25053)
 Himemori Luna - https://www.nicovideo.jp/watch/sm42218134
 Sonohara Airi - [Jul 20 2021](https://www.youtube.com/watch?v=-h7xPApC_Ys) (@ 53:37, 1:09:49, 1:21:57) / [Oct 19 2021](https://youtu.be/laiJ0Ls5kcw) (@ 54:43, 57:15, 1:02:20) / [Feb 17 2022](https://www.youtube.com/watch?v=n0myz4NmIo0) (@ 1:25:44) / (ft. Tenshouin Hiina) - [Apr 27 2021](https://youtu.be/DHFb_9zmr3M) (@ 47:22, 49:38, 1:00:28)
 Nonoa - [Dec 21 2021](https://www.youtube.com/watch?v=oz8edHJ_igw) (@ 6:26 + very small amounts throughout the rest of the vod) / [Jan 1 2022](https://youtu.be/gSFIznxuJcI?t=3470), (@57:50); https://files.catbox.moe/5cq1e5.m4a ; https://files.catbox.moe/xgvsn9.m4a (featuring Luna Neige)

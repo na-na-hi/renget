@@ -5,7 +5,7 @@
         Boryeon (2/18/24)
         Nihilister (2/11/24)
         **UPDATED:** 
-		Nikke Lorebook (2/21/24)
+		Nikke Lorebook, for Elegg (2/24/24)
 
 ->![We do a little fighting.](https://cdn.discordapp.com/attachments/635291930929922069/1205939131998412810/kaga_kantai_collection_drawn_by_tsukamoto_minori__cc6dffdd457feebb28fd1977d8f0b800.jpg?ex=65da3156&is=65c7bc56&hm=1e17e30e6e7ba9936f8509cc1a21d2fd9bbc411a68b2420627c3719bf2a4f9be&)<-
 ***
@@ -105,7 +105,7 @@ Image| Name | Description | Link
 Here are my lorebooks, which are recommended for all my cards that are built with them in mind. **LINKS LAST UPDATED: 12/27/23**
 Name | Description | Link
 ------ | ------ | -----
- GGR Nikke | Lorebook for my Nikke cards. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/ggr-nikke) [Catbox link](https://files.catbox.moe/ov01ce.json)
+ GGR Nikke | Lorebook for my Nikke cards. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/ggr-nikke) [Catbox link](https://files.catbox.moe/egu9pz.json)
  GGR Nikke - First Invasion | Lorebook for my First Invasion Nikke cards. | [CHUB link](https://chub.ai/lorebooks/ggr89/ggr-nikke-first-invasion-eb8ce4a8) [Catbox link](https://files.catbox.moe/fzc9qf.json)
  GGR KanColle | Lorebook for my KanColle cards. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/ggr-kancolle) [Catbox link](https://files.catbox.moe/2r9zes.json)
  FIRES OF RUBICON | Lorebook for my Armored Core VI cards. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/fires-of-rubicon-82d1fb06) [Catbox link](https://files.catbox.moe/cwo84z.json)

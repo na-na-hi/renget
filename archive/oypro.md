@@ -7,7 +7,7 @@
 ---- | ----
 **Origin:** Prime Earth (Amnesia) | **Guild Role/Occupation:** TBD
 **Species:** Zorua | **Affiliation:** Team Clover Force
-**Level:** 12 | **Experience to Next Level:** 82/120
+**Level:** 12 | **Experience to Next Level:** 87/120
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
 **Pokécoin:** 1620₽ | **Glorious Gold:** 0 Bars
 
@@ -83,10 +83,10 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Broken Disk (TM 109) | A strange disk broken shortly after being found on top of dense bamboo
+1. Empty | A vacant inventory slot
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
 3. Blast Seed | Explodes on contact for 10 true damage.
-4. Empty | A vacant inventory slot
+4. Cheri Berry | Returns control. Heals Paralysis.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
@@ -94,7 +94,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----:
 1. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
-2. Empty | A vacant storage slot
+2. Apicot Berry | A berry with a hard, mild flesh on the blue side, and an exceptionally sour flavor green side. (2 Dry, 2 Sour)
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff.

@@ -50,6 +50,9 @@ https://files.catbox.moe/i6kucn.mp4  New  2/18/24
 >WATCH: Al-Qassam Brigades (Hamas) published a video earlier today, showing scenes of confronting IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
 https://files.catbox.moe/y7q096.mp4  New  2/22/24
 
+>WATCH: Al-Qassam Brigades (Hamas) published a video showing their clashes with IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+https://files.catbox.moe/4poqg4.mp4  New  2/23/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -325,3 +328,7 @@ https://youtu.be/qNCXhtryYv4  New  2/21/24
 https://files.catbox.moe/z5hhhr.mp4  New  2/21/24
 >BREAKING| Several injuries have been reported, most of them are children, in Israeli strikes on Al Nuseiral refugee camp in central Gaza.
 https://files.catbox.moe/b3cut8.mp4  New  2/21/24
+>A Palestinian girl looking for her toys in the midst of the rubble of her destroyed family home in Gaza.
+https://files.catbox.moe/zf1w3k.mp4  New  2/23/24
+>In a now-deleted video, leader of UK's Labour Party, Keir Starmer, admits that he spoke to Israel's President Issac Herzog before ruining the Gaza ceasefire vote.
+https://files.catbox.moe/hchjcj.mp4  New  2/23/24

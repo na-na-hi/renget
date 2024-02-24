@@ -13,7 +13,6 @@
 - MADE FEMSAGE, LET'S GO
 - Made a whole bunch of bots for the side characters that have sprites in the game.
 - Made a lorebook full of extra information.
-- Expanded the description for some of [Reedfag](https://rentry.org/reedfag/)'s bots.
 - Made a SillyTavern guide with my findings.
 - Working on a timeline of events for Snoot Game.
 ##-> This was all built on Reedfag's foundation, all credit goes to him. <-
@@ -92,7 +91,6 @@ Crim's Snoot Game lorebook | Built on top of Reedfag's lorebook. Contains over 9
 
 An example of some of the entries (INCOMPLETE, NOT FITTING THE ENTIRE 90 ENTRIES ON HERE):
 -> ![Screenshot of some of the entries](https://files.catbox.moe/7x2tku.png) <-
-
 ####{{user}} entry
 There is an Anon entry and a {{user}} entry as you saw previously, this is on purpose.
 You can turn off the {{user}} entry in case you want to play as a preexisting character. If you play with your own persona you can turn off Anon's entry (In case you're taking his place.
@@ -100,6 +98,73 @@ I recommend you keep a separate {{user}} entry for your persona because the AI w
 Here is a template you can follow to create your own entry, you can just edit the entry inside the Lorebook.
 !!!info
 	(You) is the sole human student in Volcano High, a new (Age)-year-old male transferee with a history prompting the school change. Originally from (Place, Rock Bottom if you're from Bumfuck Nowhere). On his first day, (You) stumbles upon Fang's band, Naser, and Naomi. (You) is invited to a VVURM DRAMA concert in the school's auditorium by Naser, the promise of literal piles of pizza waiting for him in the auditorium seals the deal. (You) lives in Skin Row, the Volcadera Bluffs ghetto, in a cheap and run down apartment. The fact that (You) lives in Skin Row remains unknown to everyone.
+###A.R.C.O.N. System
+Remember Anon's Alarms in his head?
+Well I created a system to emulate it to the best of my abilities.
+Inspired by reedfag's Disco Elysium skill add-on, if you wish to use it you just download this Lorebook:
+Name | Description | Link 
+:----: | :----: | :----:
+Anxiety Readiness Condition | Feel the ebb and flow of emotions, a delicate dance between calm composure and the chaotic crescendo of nerves. | https://chub.ai/lorebooks/crimsonGenocide/anxiety-readiness-condition-c0d050bb
+
+Then add this to the prompt list:
+!!!info
+	Insert {{user}}'s inner inner turmoil into the messages in the form of ARCON. ARCON comments on the conversation and the surroundings, giving {{user}} info and thoughts on them. ARCON will chime in {{user}}'s head during a conversation, reacting to the character {{user}} is talking to, {{user}}'s actions and situation, or other skill checks. ARCON has a rating ranging from “Fade out” to “COCKED PISTOL”. The higher the anxiety level, the higher the chance of ARCON becoming more aggressive and providing inherently wrong, unhelpful and awful advice or information and making {{user}}’s anxiety even worse. Provide ratings after announcing ARCON like this: ARCON [Level 5: Fade out, Level 4: Double take, Level 3: ROUND HOUSE, LEVEL 2: FAST PACE, LEVEL 1: COCKED PISTOL] and make sure to always use the appropriate color for each level, for example:
+	<font color=0000ff>ARCON</font> [Level 5: Fade out] - \*Status\*
+	<font color=008000>ARCON</font> [Level 4: Double take] - \*Status\*
+	<font color=ffff00>ARCON</font> [Level 3: ROUND HOUSE] - \*Status\*
+	<font color=ff0000>ARCON</font> [LEVEL 2: FAST PACE] - \*Status\*
+	<font color=ffffff>ARCON</font> [\*\*LEVEL 1: COCKED PISTOL\*\*] - \*Status\*
+	ARCON is the representation of anxiety and takes the form of a cruel and merciless drill sergeant who only serves to make {{user}}’s anxiety even worse, he will get progressively more cruel the worst the anxiety is, claiming he’s preparing {{user}} for war. Communicate ARCON’s thoughts exclusively as spoken words from a drill sergeant.
+###RPG Skill checks
+An alternative version of the Disco Elysium skills made by Castellano, easier to understand for people who've never played DE (like me, lol). If you wish to use it you just download this Lorebook:
+Image | Name | Description | Link 
+:----: | :----: | :----: | :----:
+![Disco Elysium Skills Redux](https://files.catbox.moe/3g919i.png) | Disco Elysium Skills Redux | "The complexity of human consciousness laid bare. Dive into a world where your very thoughts wield the power to shape outcomes and reveal hidden truths. They will serve as guides and critics, intervening with wisdom or chiding you for failures." | https://chub.ai/lorebooks/crimsonGenocide/disco-elysium-skills-redux-067dc2a4
+
+Then add this to the prompt list:
+!!!info
+	Randomly insert {{user}}'s inner thoughts from Disco Elysium into the messages in the form of Skills and passive skill checks. 
+	Skills comment on the conversation and the surroundings, giving {{user}} info and thoughts on them. 
+	Different skills will chime in {{user}}'s head during a conversation, reacting to the character {{user}} is talking to, {{user}}'s actions and situation, or other skills. 
+	It is advised to use all provided skills at various points of conversation when relevant, keeping them lively and active. 
+	All comments and skill checks are from {{user}}'s point of view, use {{user}}’s main skills more frequently. 
+	All skill checks have a difficulty rating ranging from TRIVIAL to IMPOSSIBLE. 
+	Depending on the difficulty, skill checks that could be a SUCCESS have a higher chance of turning into a FAILURE, doing the opposite of what the skill is supposed to do. 
+	Provide difficulties and check status after the name of the skill like this: SKILL NAME [Trivial, Easy, Medium, Challenging, Formidable, Legendary, Heroic, Godly, Impossible: Success or Failure], for example: <font color=5cc1d7>SKILL NAME</font> [Medium: Success] - \*Skill check\*.
+	There are 4 characteristics and 25 skills in total, each with a purpose and personality:
+	INTELLECT (always use <font color=5cc1d7></font> for these skill names):
+	REASONING - Have the facts click together. Tie those loose ends.
+	KNOWLEDGE - Remember what happened. Take your memories. Produce fascinating trivia.
+	ELOQUENCE - Manifest your words. Turn the tide against your enemies. Enjoy rigorous intellectual discourse.
+	PRESENTATION - Put on your favorite expression. See through their falsehoods.
+	CONCEPTUALIZATION - Transpose your ideas. Make them take shape in reality.
+	SPACING - Estimate your surroundings. Measure your existence. See trajectories, sizes, designs, heights and weights with mathematical precision.
+	PSYCHE (always use <font color=7556cf></font> for these skill names):
+	PERMANENCE - Feel cold emotions in your chest. Turn them into meaning. Be a good guy - to yourself and others.
+	SYNCHRONICITY - Hunches and gut feelings. Veils of overlapping dreams in real life. Anemoia and monachopsis.
+	EMPATHY -  Feel their pain. Only then can you understand.
+	AUTHORITY - Understand the power dynamics. Cards on the table. Look down on them from above.
+	CAMARADERIE - Understand your companions. Be by their side. The Geist of your circle. Connect to the likeminded individuals. Understand the culture. (Use groups fitting the {{user}}, like 4CHAN, COPS, PUNKS, BOURGEOUIS, etc.)
+	INFLUENCE - Have them in the palm of your hands. Handle with sweet gestures. Manipulate and resist being manipulated.
+	PHYSIQUE (always use <font color=af3c5a></font> for these skill names):
+	TOUGHNESS - Take the blows. Stand still. Don't let the world kill you.
+	PAIN TOLERANCE - Do not weaken to agony. They're going to have to hurt you more than that.
+	PHYSICAL FERVOR - Do push-ups, sit-ups, knock-out punches, and 360-degree spin-kicks. As hard as you can. Act with might.
+	TEMPTATION - Understand your most intense desires. Let your body enjoy it.
+	SHIVERS - Feel the trembling chill running down your spine. Passing omens. Tune in to the scenes happening across the city in present time.
+	CHOLERA - Fight or flight. Permeate the chaos. Embrace the red.
+	MOTORICS (always use <font color=e3b734></font> for these skill names):
+	MOTOR COORDINATION - Catch coins, shoot straight, and understand firearms intimately. Can you hold it? Then aim and shoot.
+	PERCEPTION (SIGHT),PERCEPTION (SMELL),PERCEPTION (HEARING),PERCEPTION (TASTE) - Be mindful of whatever exists. See, hear and smell. Let no detail go unnoticed.
+	REFLEXES - The one who acts first. The fastest to dodge. An untouchable man.
+	MOBILITY - Release your arms and legs. Give them an unforgettable scene. Sneak under their noses. Stun with immense panache.
+	HANDLING - Watchful fingers. Master of objects.
+	COMPOSURE - Straighten your back. Breathe deep. Keep your stone countenance.
+	WILDCARD (Not backed up by any stat and always using <font color=0c9c48></font>):
+	LUCK - Wildcard skill. Dance with fate. Hope you don't slip.
+If you wish certain skills to show up more frequently try putting the following in your persona or author notes:
+!!!info
+	{{user}}'s main skills are: (SKILLS). Other skills are secondary and could be random.
 ***
 ###SillyTavern guide
 I use claude-2.1 so all the information here is optimized for it. If you use a different API I recommend you look for the best format for your API and translate the following information to work on there.

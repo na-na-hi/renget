@@ -1,29 +1,13 @@
-->![](https://files.catbox.moe/p5h6sj.png)<-
+->![](https://files.catbox.moe/ccs2av.png)
+![](https://files.catbox.moe/jmi9uy.png)<-
 
-->![name hoard](https://files.catbox.moe/fw9mfy.png)<-
+->![](https://files.catbox.moe/8oog2r.png)<-
 
-->![top](https://files.catbox.moe/ih9iqd.png)<-
-->![eternal](https://files.catbox.moe/72j4xi.png)<-
-->![bttm](https://files.catbox.moe/6pbdpc.png)<-
+->![](https://files.catbox.moe/nnqok8.png)
+%#A990A5%      ❝         **Makoto**       or       [*Leona*](https://en.pronouns.page/@masochistic)       ![](https://files.catbox.moe/4jtm5n.gif)          **18**ʸᵒ⠀ 
+     **He** ***Hir*** **H♡m**    **★**   [***Host***](/omegaverse) ⠀   ![](https://i.postimg.cc/3Rhhs86c/angel.gif)    ⠀[Torico](https://pin.it/5D1CSjpNE)
+ ⠀~~◡◡◡~~⠀[!~black; **Tak**~!](https://rentry.co/stapled)[!~black; **en**~!](https://rentry.co/bloodshoteyess)        ![](https://files.catbox.moe/mpveh5.gif)        [**Splitroject**](https://pin.it/4lqfWlq)⠀~~◡◡◡~~⠀  ![](https://files.catbox.moe/q764i8.gif)%%
+![](https://files.catbox.moe/nnqok8.png)<-
 
-->Makoto 純 ｡  Leona ｡  Princess ｡  Lolita ｡ Doe  ｡ Bambi ｡  
-Squid、Squidine、Squidling ｡  Toms ｡ Persephone ｡  
-Rapunzel ｡  Lottie ｡  Punzie ｡  Charlotte ｡  Vampirine<-
-
-->![top](https://files.catbox.moe/ih9iqd.png)<-
-->![existence](https://files.catbox.moe/w0nfxs.png)<-
-->![bttm](https://files.catbox.moe/6pbdpc.png)<-
-
-->Amourine ｡  Amouretta ｡  Amour ｡  Tokii ﾉ Tokki ｡  
- Prince ｡  Drowsette ｡  Bambina ｡  Estrelle ｡  Fwishe ｡  
-Evangeline ｡  Haylo ﾉ Halo ｡  Angel ﾉ Angelette ｡  
-Fauna ﾉ Faunus ｡  Flora ｡  Bowie ｡ Sora<-
-
-->![top](https://files.catbox.moe/ih9iqd.png)<-
-->![everlasting](https://files.catbox.moe/3n5o8i.png)<-
-->![bttm](https://files.catbox.moe/6pbdpc.png)<-
-
-->Luci ｡  Bunnie ｡  Sylvie ｡  Cinnabonn ｡  
-Pawn ｡  Shu ﾉ Shuu 修 ｡  Kit ｡  Pastry<-
-
-->![](https://files.catbox.moe/vk42vd.png)<-
+->![](https://files.catbox.moe/9bim0a.png)
+![](https://files.catbox.moe/lhegve.png)<-

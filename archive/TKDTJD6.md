@@ -1572,3 +1572,198 @@ Several buildings were destroyed.
 
 Iron Dome failed.
 https://t.me/megatron_ron/1964  2/22/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 22 (2024), against (US)-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted israeli military positions in the Umm al-Rashrash area (Eilat) south of occupied Palestine, with ballistic missiles and drones.
+
+🔻Targeted the British ship “ISLANDER” in the Gulf of Aden with anti-ship missiles, directly hitting and causing a fire on board.
+
+🔻Targeted an American destroyer in the Red Sea with kamikaze drones.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Merkava tank with a Yassin 105 rocket, in the Zaytoun neighborhood, Gaza City.
+
+🔻Targeted a special Zionist force inside a house with TBGs, engaged with them in combat using machine guns in the neighborhood west of Khan Yunis, south of Gaza.
+
+🔻In a joint-operation with the Mujahideen Brigades, they shelled a gathering of IOF forces, south of the Zaytoun neighborhood in Gaza City with mortar shells.
+
+🔻Destroyed an IOF armored personnel carrier (APC) with a Yassin 105 rocket, in the Sheikh Nasser area, Khan Yunis.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled a gathering of IOF soldiers in the Zaytoun neighborhood, southeast of Gaza City, with a barrage of 60mm regular mortars.
+
+🔻Sniped an israeli soldier in the neighborhood west of Khan Yunis.
+
+🔻Shelled "Mefalsim" and "Nir Am" with a rocket barrage.
+
+🔻Shelled a gathering of israeli soldiers around the Ashour Mill in the middle of the Zaytoun neighborhood, Gaza City, with mortar shells and 107mm rockets.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted IOF soldiers' positions east of Beit Hanoun, with mortar shells.
+
+🔻Shelled the IOF forces' gatherings in southeast Gaza with short-range rockets.
+
+🔻Shelled a gathering of the israeli forces, south of Al-Zaytoun neighborhood in Gaza City, with mortar shells, in a joint-operation with the Al-Qassam Brigades.
+
+— 🇵🇸 The Nasser Salah al-Din Brigades:
+
+🔻Shelled IOF army gatherings and positions north of the Gaza Strip with 107mm rockets.
+
+— 🇵🇸 Al-Aqsa Martyrs' Brigades: 
+
+🔻In a joint-operation with the Omar Qassem Forces, they launched a 107mm rocket barrage at the IOF supply line in the southern axis of Gaza City, and confirmed direct hits.
+
+🔻Shelled IOF army gatherings and their vehicles with a number of 60mm standard caliber mortar shells, east of Al-Bureij camp in the central Strip.
+
+🔻Shelled military gatherings and their vehicles with a 107mm rocket barrage in the northern eastern axis of Gaza.
+
+🔻Engaged in fierce clashes with IOF soldiers and their vehicles using machine guns and anti-tank shells in the Al-Zaytoun neighborhood, east of Gaza City.
+
+🔻Sniped an IOF soldier, hitting him directly in the eastern Gaza axis.
+
+🔻Targeted an IOF military vehicle with a tandem rocket, in the Al-Zaytoun neighborhood, hitting it directly and causing it damage.
+
+🔻Targeted a quadcopter drone and managed to shoot it down and seize it in the eastern Gaza Strip.
+
+🔻Shelled a gathering of IOF forces with 60mm caliber standard mortar shells in the axis of the Al-Zaytoun neighborhood east of Gaza City.
+
+— 🟡 Hezbollah (12 operations)
+
+🔻Targeted the command HQ of the Eastern Brigade 769 at the Kiryat Shmona military base, with appropriate weapons.
+
+🔻Targeted a building housing Zionist soldiers in the Kfar Yoval settlement with suitable weapons.
+
+🔻Targeted spy equipment at the Birkat Risha site with suitable weapons.
+
+🔻Targeted a building housing israeli soldiers, in the Metulla settlement with suitable weapons.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Al-Samaqa IOF site in the occupied Shebaa Farms with rockets, achieving direct hits.
+
+🔻Targeted a building housing israeli soldiers, in the Al-Manara settlement with suitable weapons.
+
+🔻Targeted the Yuav base with Katyusha rockets.
+
+🔻Targeted the Kela IOF base with dozens of Katyusha rockets, achieving direct hits.
+
+🔻Targeted the Birkat Risha site with a Burkan IRAM rocket.
+
+🔻Targeted a gathering of israeli soldiers around the Hanita site with rockets.
+
+🔻Targeted the Ma’ale Golan IOF base, with a rocket salvo.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.esmailelbob.xyz/AryJeay/status/1760816466624966854#m  2/23/24
+https://nitter.esmailelbob.xyz/AryJeay/status/1760816474883510486#m  2/23/24
+
+A Palestinian girl looking for her toys in the midst of the rubble of her destroyed family home in Gaza.
+https://nitter.esmailelbob.xyz/QudsNen/status/1760935389437571457#m  2/23/24
+https://files.catbox.moe/zf1w3k.mp4  2/23/24
+
+>🟡 Hezbollah confirms:
+
+The targeting of Al-Malikiyah IOF site with 2 Burkan IRAM rockets, and confirms they hit their targets directly.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761041428518506762#m  2/23/24
+
+>BREAKING| The UK's representative tells the ICJ that Israel's withdrawal from the occupied Palestinian territories should be through negotiations, not a court decision.
+https://nitter.esmailelbob.xyz/QudsNen/status/1761036732445696132#m  2/23/24
+
+>BREAKING| The UK's representative asks the ICJ not to provide an opinion on Israel's occupation of Palestine, but if the court provides an opinion "the UK proposes an alternative course, which seeks to respect the existing framework."
+https://nitter.esmailelbob.xyz/QudsNen/status/1761038570834313343#m  2/23/24
+
+>The Irish government allows a motion to pass in Parliament calling for sanctions on Israel, a ban on settlement trade, recognition of Palestinian statehood and dismantling the system of apartheid.
+https://nitter.esmailelbob.xyz/QudsNen/status/1761039474794901927#m  2/23/24
+
+>A report by UN experts warns that any transfer of weapons or ammunition to Israel that would be used in Gaza is likely to violate international humanitarian law and must cease immediately.
+https://nitter.esmailelbob.xyz/QudsNen/status/1761046370742358028#m  2/23/24
+
+>🛑| Al-Quds Brigades: 
+
+Ambushed an israeli engineering unit and a D9-bulldozer in a well-prepared ambush. They detonated several powerful “Thaqqeb” barrel bombs in the Abasan Al-Kabira area, east of Khan Yunis.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761047496497737868#m  2/23/24
+
+>BREAKING:
+
+
+🇳🇴🇮🇱Norway at the trial in the ICJ went full Anti-Israel
+
+Norway:
+
+"Israel's actions in the OCCUPIED territories are a violation of international law"
+
+“The apartheid wall is a violation of international law and makes the two-state solution difficult to achieve.
+
+Gaza Strip and the West Bank are occupied territories regardless of any Israeli withdrawal.
+
+The occupation remains temporary and cannot be continued or justified.
+
+Israel violates international law and continues to violate it. Israel must abide by international law and provide the right to self-determination to the Palestinians.
+
+Israel's actions in the occupied territories are a violation of international law.
+
+It is not legal to annex any Palestinian lands or impose a fait accompli on the ground.
+
+Establishing settlements in Palestinian territories violates Article 416 of the Geneva Convention.
+
+Israel exploits natural resources to perpetuate its occupation of Palestinian territories.
+
+Measures must be taken to prevent Israeli practices that violate international.”
+https://t.me/megatron_ron/1976  2/23/24  
+
+>NRW police in Germany distribute guidance brochures to schools, stating that educators should call the cops on school children if they say Israel is committing genocide, equate the practices of the Israeli occupation forces to the Holocaust, or chant certain pro-Palestine chants. 
+
+(Illustrative photo)
+https://nitter.esmailelbob.xyz/QudsNen/status/1761065280741007673#m  2/23/24  
+
+>A report by UN experts warns that any transfer of weapons or ammunition to Israel that would be used in Gaza is likely to violate international humanitarian law and must cease immediately.
+https://t.me/QudsNen/96968  2/23/24
+
+>Urgent || #Hamas leader, Osama Hamdan:
+
+Netanyahu is procrastinating and evasive, aiming to disrupt reaching an agreement
+
+Netanyahu's personal goals clash with all the proposed initiatives
+
+- The occupation's goal of recovering its prisoners by force will not be achieved at any stage, and Al-Qassam will continue to confront the aggression
+https://t.me/me_observer_channel/154755  2/23/24
+
+>⚡️WATCH: Al-Qassam Brigades (Hamas) published a video showing their clashes with IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+https://twitter.com/AryJeay/status/1761097084093030636  2/23/24
+https://files.catbox.moe/4poqg4.mp4  2/23/24
+
+>In a now-deleted video, leader of UK's Labour Party, Keir Starmer, admits that he spoke to Israel's President Issac Herzog before ruining the Gaza ceasefire vote.
+https://t.me/QudsNen/96972  2/23/24
+https://files.catbox.moe/hchjcj.mp4  2/23/24
+
+>Urgent | CNN on US officials:
+
+-It is unclear whether the United States will change its military approach towards the Houthis
+
+Concern is growing within the Biden administration as Houthi attacks continue despite the American strikes
+
+We believe that the Houthis will keep their promise to stop attacks if #Israel ends its war in #Gaza
+
+- There is no evidence yet that #Iran has stopped its support for the Houthis
+https://t.me/me_observer_channel/154842  2/23/24
+
+>According to Haaretz, Israel's credit rating has declined, the poverty index and the cost of living are on the rise, and overloaded public services are collapsing. Meanwhile, Hamas remains active, whereas more Israeli soldiers are returning in coffins.
+https://twitter.com/IrnaEnglish/status/1761105611641573616  2/23/24
+
+>Lebanon: Al-Mayadeen correspondent in southern #Lebanon: #Israeli fighters breach the sound barrier in the skies of Nabatieh and Zahrani, all the way to the southern coast.
+https://t.me/me_observer_channel/154884  2/23/24
+
+>United States of America: Central Command: The Houthis attacked an oil tanker, causing major damage to it and leading to an oil leak.
+https://t.me/me_observer_channel/154910  2/23/24
+
+>Brazil: President Luiz Inacio Lula da Silva: What the #Israeli government is doing is not war but genocide and they are killing children and women
+https://t.me/me_observer_channel/154906  2/23/24
+
+>Occupied Palestine: Journalist Alam Al-Din Sabah: Violent clashes taking place between the resistance and the occupation forces in the Al-Zaytoun neighborhood in #Gaza City.
+https://t.me/me_observer_channel/154909  2/23/24

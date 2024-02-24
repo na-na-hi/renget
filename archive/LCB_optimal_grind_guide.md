@@ -4,7 +4,7 @@ Here's the most optimal guide to farming and grinding the most effectively at Li
 
 If your max Enkephalin is above 100+, 3 refills per day is your maximum goal. Otherwise, stick to only 2 refills. That way, you'll make the most of your Lunacy. You will save up as much Lunacy for Walpurgis Night, which has exclusive IDs/EGO that are overpowered as fuck. Walpurgis Night only comes once every 3 months, and the only way to get those IDs are through pulls.
 
-With 750 Lunacy from the weekly Mirror Dungeon bosses, 300 Lunacy from the weekly updates, you'll still have a net loss of 42 Lunacy. However, don't let that discourage you. As a new player, you have so many different ways to gain free Lunacy. If you uptie any ID to tier 3, you'll get 40 Lunacy. If you finish any story node, battle or just cutscenes, that's another 40 Lunacy. The Battlepass also has a lot of Lunacy, same with the Battlepass of the side Cantos (the X.5 chapters). Not to mention, with every new content, the game is bound to break, not always, but most of the times. Be it a new ID release, a new Mirror Dungeon, a new Railway Refraction, or even a new Canto. Depending on how severe it is, emergency updates will commence, rewarding you with Lunacy once the update is completed.
+With 750 Lunacy from the weekly Mirror Dungeon bosses, 300 Lunacy from the weekly updates, you'll still have a net loss of 42 Lunacy, or around 500 Lunacy per season, assuming the season lasts 3 months. However, don't let that discourage you. As a new player, you have so many different ways to gain free Lunacy. If you uptie any ID to tier 3, you'll get 40 Lunacy. If you finish any story node, battle or just cutscenes, that's another 40 Lunacy. The Battlepass also has a lot of Lunacy, same with the Battlepass of the side Cantos (the X.5 chapters). Not to mention, with every new content, the game is bound to break, not always, but most of the times. Be it a new ID release, a new Mirror Dungeon, a new Railway Refraction, or even a new Canto. Depending on how severe it is, emergency updates will commence, rewarding you with Lunacy once the update is completed.
 
 >Pulls
 
@@ -26,20 +26,70 @@ Note: Opening more boxes is always better than opening them one at a time in to 
 
 >IDs
 
-Let’s talk about the bread and butter of Limbus, the characters. Here are the best IDs for each of the sinners. That way, you’ll have one for each of the sinners.
+Let’s talk about the bread and butter of Limbus, the characters. Here are the best IDs for each of the sinners. That way, you’ll have one for each of the sinners. I'll also give a brief description in case you're looking for something specific
 
-Yi Sang: Spicebush
-Faust: The One Who Grips (debuffs) / Seven (damage and clashing)
-Don Quixote: W Corp
-Ryoshu: W Corp
-Mersault: Rhino.
-Hong Lu: K Corp(Immortal/tank) / Ting Tang(damage/support passive) / Dieci (pure damage/discard)
-Heathclif: Rabbit (A must-pick) / QQ (shreds in Bleed teams)
-All of Ishmaels 000 IDs are good, but my favorite is Reindeer (note: This guide is before Ahabmael)
-Rodion: Dieci
-Sinclair: N Corp (first is a boss killer) / Cinq (good for longer fights)
-Unless you have Molar Outis in your dispenser, don’t bother sharding any of her IDs
-Gregor: Twinhook
+Note: some of these IDs might not be available to you, which is why I gave some alternatives until they become available, usually by the next season or if you're lucky with the pulls
+
+%Grey% Yi Sang: %%
+%gold%  000 %%
+W Corp (Great for Rupture and Charge teams) / Spicebush (Requires set up, but can nuke with Sinking)
+%gold%  00 %%
+Dieci (It's a Discard ID, and a good one)
+%Pink% Faust: %%
+%gold%  000 %%
+Regret (The best Tremor ID and overall great pick) / The One Who Grips (Has a lot of debuffs) / Seven (Good for damage and clashing)
+%gold%  00 %%
+Remnant (Pretty well balanced, great skill 3)
+%#ffef23%  Don Quixote: %%
+%gold%  000 %%
+W Corp (Your nuke) / Middle (Great alternative, but you need to run an Envy team to make her truly powerful)
+%gold%  00 %%
+Blade Lineage (Powerful Poise ID) / Lantern (Great for Rupture teams)
+%#cf0000%  Ryoshu: %%
+%gold%  000 %%
+W Crop (Your Nuke) / Chef (Good alternative, but he skill 3 requires setup to be a nuke and it can't clash)
+%gold%  00 %%
+Seven (Well balanced with great clash numbers)
+%#293b95%  Meursault: %%
+%gold%  000 %%
+Kim (A powerful Poise ID, and a great support for the other Poise IDs) / Rhino (Good alternative, tanky and can apply a lot of bleed)
+%gold%  00 %%
+Don't bother
+%#5bffde% Hong Lu: %%
+%gold%  000 %%
+K Corp(Immortal and tanky) / Ting Tang(Great skill2 damage and powerful support passive) / Dieci (Pure damage and has Discard)
+%gold%  00 %%
+Hook (Great at applying bleed and can deal 000 levels of damage)
+%#4e3076% Heathclif: %%
+%gold%  000 %%
+Rabbit (A must-pick) / QQ (Shreds in Bleed teams and has Envy support)
+ %gold%  00 %%
+Seven (A must pick for Rupture teams
+%#ff9500% Ishmaels: %%
+%gold%  000 %%
+All of her 000 IDs are great, it's just about what flavor you'd want. Liu (Burn) / Boatworks (Sinking) / Reindeer (Charge) / Captain (Bleed)
+%gold%  00 %%
+Don't bother
+%#820000% Rodion: %%
+%gold%  000 %%
+Dieci (Has Discard and shit ton of damage)
+%gold%  00 %%
+Don't bother
+%#8b9c15% Sinclair: %%
+%gold%  000 %%
+N Corp (first is a boss killer) / Cinq (Also powerful, if not as powerful as N Corp)
+%gold%  00 %%
+Don't bother
+%#325339% Outis: %%
+%gold%  000 %%
+Molar (Discard and high damage and clash numbers) / Magic Bullet (A bit tricky to use, but if the fight takes too long, she can nuke with 7 bullets)
+%gold%  00 %%
+Don't bother
+%#69350b% Gregor: %%
+%gold%  000 %%
+Twinhook (His damage and clash numbers only increase the more the fight goes on)
+%gold%  00 %%
+Don't bother
 
 Note: A lot of these IDs stink at Uptie 1. At the very least, you should always Uptie them to Tier 3. Uptying your IDs is more important than leveling them up. At Uptie 3, you unlock their skill 3 and passives, while Uptie 4 gives them more stuff to do. In Mirror Dungeon Normal, where you'll be spending most of your time, your IDs will always be at max level. But their Uptie Tier carries over. So even if they're at level 1 outside Mirror Dungeon, they'll be max level in the dungeon. But if they're at Uptie 1, they'll remain at Uptie 1.
 

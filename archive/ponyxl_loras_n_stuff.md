@@ -50,473 +50,168 @@ https://mega.nz/folder/v2ZnADCR#hAELnn6ieCjsggLdG4quIw empty_eyes_drooling, glow
 ###Artists/Styles
 These don't require activation triggers unless otherwise stated. Some of these had been previously uploaded to litterbox because they were too large for catbox. Unfortunately the links have expired, I've replaced them with resized versions that are just a couple ranks smaller so hopefully there's no quality loss. These replacement LoRAs have resized on the end of their names. I removed the original ones so people who were lucky enough to download them won't have them overwritten. 
 
-I generated example images for each LoRA, they all have the same set of prompts and seeds. Each example image has a slightly different prompt format  with the usage of score, source tags and negatives which is why they can look pretty different for the same LoRA, this was done because of how the LoRAs are inconsistently trained/tested. I also made no attempts to clean up any of the images so they can look a bit chuffed, it's not necessarily representative of how it will behave when you use with some good *prompt engineering* but hopefully the images can give you an idea of how the style will look at least. Each thumbnail is a link to the full image on catbox.
+I generated example images for each LoRA, they can be found at this rentry: https://rentry.org/ponyxl_lora_previews, I started running out of space on this one.
 
-[![no scores](https://files.catbox.moe/hhf2nf.png)](https://files.catbox.moe/e1eqb7.png)[![3d in negative](https://files.catbox.moe/thq3ov.png)](https://files.catbox.moe/5rqmmy.png)[![source_anime, score_9](https://files.catbox.moe/ud5tyy.png)](https://files.catbox.moe/andsob.png)[![all scores](https://files.catbox.moe/m0h2gk.png)](https://files.catbox.moe/lxkrbd.png)
 https://files.catbox.moe/icbrs7.safetensors hungry_clicker
-
-[![no scores](https://files.catbox.moe/javyh0.png)](https://files.catbox.moe/udqa7l.png)[![3d in negative](https://files.catbox.moe/zzx4l3.png)](https://files.catbox.moe/9fft4n.png)[![source_anime, score_9](https://files.catbox.moe/7fjutt.png)](https://files.catbox.moe/1gjokl.png)[![all scores](https://files.catbox.moe/n5oxup.png)](https://files.catbox.moe/nlejx5.png)
 https://files.catbox.moe/dqfgjc.safetensors shexyo
-
-[![no scores](https://files.catbox.moe/nug50n.png)](https://files.catbox.moe/w9hb8a.png)[![3d in negative](https://files.catbox.moe/atdiri.png)](https://files.catbox.moe/4hro4m.png)[![source_anime, score_9](https://files.catbox.moe/n93xmk.png)](https://files.catbox.moe/41ada0.png)[![all scores](https://files.catbox.moe/0j37mn.png)](https://files.catbox.moe/udnmse.png)
 https://files.catbox.moe/kn021a.safetensors superbusty
-
-[![no scores](https://files.catbox.moe/sgdoi3.png)](https://files.catbox.moe/s9i4pn.png)[![3d in negative](https://files.catbox.moe/rct2ma.png)](https://files.catbox.moe/7wscij.png)[![source_anime, score_9](https://files.catbox.moe/5qes8f.png)](https://files.catbox.moe/fx4u5u.png)[![all scores](https://files.catbox.moe/x4xu44.png)](https://files.catbox.moe/uwtcow.png)
 https://files.catbox.moe/ps6xp2.safetensors asanagi requires activation trigger of asanagi in the prompt
-
-[![no scores](https://files.catbox.moe/qxvyht.png)](https://files.catbox.moe/3fj1bv.png)[![3d in negative](https://files.catbox.moe/ph1vki.png)](https://files.catbox.moe/ha81ch.png)[![source_anime, score_9](https://files.catbox.moe/00a0o2.png)](https://files.catbox.moe/wdiy69.png)[![all scores](https://files.catbox.moe/3nkljo.png)](https://files.catbox.moe/ffij8w.png)
 https://files.catbox.moe/0s2xb6.safetensors ushiyama_ame
-
-[![no scores](https://files.catbox.moe/7lwys2.png)](https://files.catbox.moe/s0snl8.png)[![3d in negative](https://files.catbox.moe/qoxxe7.png)](https://files.catbox.moe/013ym5.png)[![source_anime, score_9](https://files.catbox.moe/bzw72y.png)](https://files.catbox.moe/p4r8pv.png)[![all scores](https://files.catbox.moe/f092sn.png)](https://files.catbox.moe/y6fhxg.png)
 https://files.catbox.moe/o97yd0.safetensors jakko
-
-[![no scores](https://files.catbox.moe/o1tkgs.png)](https://files.catbox.moe/bfaqhi.png)[![3d in negative](https://files.catbox.moe/iol7fy.png)](https://files.catbox.moe/0xwlcm.png)[![source_anime, score_9](https://files.catbox.moe/pn4ghn.png)](https://files.catbox.moe/43zmx0.png)[![all scores](https://files.catbox.moe/vklh53.png)](https://files.catbox.moe/wl23d9.png)
 https://files.catbox.moe/eqcg4d.safetensors kaos_art
-
-[![no scores](https://files.catbox.moe/t8e7o1.png)](https://files.catbox.moe/jxx5i3.png)[![3d in negative](https://files.catbox.moe/y4zb93.png)](https://files.catbox.moe/mqjm53.png)[![source_anime, score_9](https://files.catbox.moe/qym2e6.png)](https://files.catbox.moe/k5xwrw.png)[![all scores](https://files.catbox.moe/inndqk.png)](https://files.catbox.moe/sxnuu8.png)
 https://files.catbox.moe/9qwl57.safetensors g3mma
-
-[![no scores](https://files.catbox.moe/objqm2.png)](https://files.catbox.moe/9zjnsi.png)[![3d in negative](https://files.catbox.moe/o233vy.png)](https://files.catbox.moe/j5mwi8.png)[![source_anime, score_9](https://files.catbox.moe/ed8z25.png)](https://files.catbox.moe/gdn5p2.png)[![all scores](https://files.catbox.moe/mv7qoc.png)](https://files.catbox.moe/u5ic3r.png)
 https://files.catbox.moe/nvc1m8.safetensors ndc
-
-[![no scores](https://files.catbox.moe/qjio4u.png)](https://files.catbox.moe/ngg4hq.png)[![3d in negative](https://files.catbox.moe/vg4p3s.png)](https://files.catbox.moe/vqaj7y.png)[![source_anime, score_9](https://files.catbox.moe/8m10g2.png)](https://files.catbox.moe/yvp0tk.png)[![all scores](https://files.catbox.moe/2ypjf6.png)](https://files.catbox.moe/v8eo7q.png)
 https://files.catbox.moe/kbaz4k.safetensors trogfor
-
-[![no scores](https://files.catbox.moe/sqxqtz.png)](https://files.catbox.moe/ermw09.png)[![3d in negative](https://files.catbox.moe/01fj4l.png)](https://files.catbox.moe/6ijq3g.png)[![source_anime, score_9](https://files.catbox.moe/5r2cqi.png)](https://files.catbox.moe/ti6m2x.png)[![all scores](https://files.catbox.moe/jb75j6.png)](https://files.catbox.moe/unf5og.png)
 https://files.catbox.moe/4b97sc.safetensors nephlite
-
-[![no scores](https://files.catbox.moe/iqtc5c.png)](https://files.catbox.moe/j1ia3o.png)[![3d in negative](https://files.catbox.moe/ad5ocr.png)](https://files.catbox.moe/wj48kq.png)[![source_anime, score_9](https://files.catbox.moe/uqfkfn.png)](https://files.catbox.moe/5sw7kx.png)[![all scores](https://files.catbox.moe/7bx1rn.png)](https://files.catbox.moe/jiwv1f.png)
 https://files.catbox.moe/swjqw4.safetensors yd
-
-[![no scores](https://files.catbox.moe/srcpa3.png)](https://files.catbox.moe/4mxeya.png)[![3d in negative](https://files.catbox.moe/ac7q98.png)](https://files.catbox.moe/11h464.png)[![source_anime, score_9](https://files.catbox.moe/nv8knu.png)](https://files.catbox.moe/fdkjt1.png)[![all scores](https://files.catbox.moe/uoc7s5.png)](https://files.catbox.moe/g6gpwd.png)
 https://files.catbox.moe/qyreix.safetensors rustle
-
-[![no scores](https://files.catbox.moe/z6sebv.png)](https://files.catbox.moe/ggnhpm.png)[![3d in negative](https://files.catbox.moe/ut9epc.png)](https://files.catbox.moe/5k6pfa.png)[![source_anime, score_9](https://files.catbox.moe/fdodjp.png)](https://files.catbox.moe/ub0t5s.png)[![all scores](https://files.catbox.moe/v029wt.png)](https://files.catbox.moe/bd2yek.png)
 https://files.catbox.moe/ojbvr4.safetensors afrobull
-
-[![no scores](https://files.catbox.moe/d9sf8g.png)](https://files.catbox.moe/s2b6bx.png)[![3d in negative](https://files.catbox.moe/aspspx.png)](https://files.catbox.moe/h5muev.png)[![source_anime, score_9](https://files.catbox.moe/v00itw.png)](https://files.catbox.moe/u1xsfl.png)[![all scores](https://files.catbox.moe/qbl5sj.png)](https://files.catbox.moe/3qv6zu.png)
 https://files.catbox.moe/rqqk5m.safetensors akihiko_yoshida
-
-[![no scores](https://files.catbox.moe/5p881h.png)](https://files.catbox.moe/8zhwyv.png)[![3d in negative](https://files.catbox.moe/z367yg.png)](https://files.catbox.moe/90s9x9.png)[![source_anime, score_9](https://files.catbox.moe/6lvvb4.png)](https://files.catbox.moe/j4427d.png)[![all scores](https://files.catbox.moe/h1wka4.png)](https://files.catbox.moe/fvp75v.png)
 https://files.catbox.moe/cuzgnf.safetensors aoi_nagia just using stuff from Elf Mori
-
-[![no scores](https://files.catbox.moe/wvrptr.png)](https://files.catbox.moe/gpe0su.png)[![3d in negative](https://files.catbox.moe/d57y6h.png)](https://files.catbox.moe/jmuyww.png)[![source_anime, score_9](https://files.catbox.moe/5ms11v.png)](https://files.catbox.moe/h31cea.png)[![all scores](https://files.catbox.moe/07r7l6.png)](https://files.catbox.moe/cdmwmp.png)
 https://files.catbox.moe/9xb1r0.safetensors araneesama
-
-[![no scores](https://files.catbox.moe/klbm5r.png)](https://files.catbox.moe/1ic22j.png)[![3d in negative](https://files.catbox.moe/rk8x7s.png)](https://files.catbox.moe/84u98x.png)[![source_anime, score_9](https://files.catbox.moe/iwn44m.png)](https://files.catbox.moe/bv0t1k.png)[![all scores](https://files.catbox.moe/6pkzig.png)](https://files.catbox.moe/sq7m1j.png)
 https://files.catbox.moe/y5xajf.safetensors asashina
-
-[![no scores](https://files.catbox.moe/k5rh1m.png)](https://files.catbox.moe/2s24xi.png)[![3d in negative](https://files.catbox.moe/xcfzgc.png)](https://files.catbox.moe/qjpim4.png)[![source_anime, score_9](https://files.catbox.moe/6n3d2w.png)](https://files.catbox.moe/fpnocd.png)[![all scores](https://files.catbox.moe/e9r08p.png)](https://files.catbox.moe/9hqwz8.png)
 https://files.catbox.moe/yur5xf.safetensors ennuigrl
-
-[![no scores](https://files.catbox.moe/gfrnuf.png)](https://files.catbox.moe/dicns2.png)[![3d in negative](https://files.catbox.moe/063tn8.png)](https://files.catbox.moe/2plu0j.png)[![source_anime, score_9](https://files.catbox.moe/4tf9az.png)](https://files.catbox.moe/2yt20p.png)[![all scores](https://files.catbox.moe/zazdqh.png)](https://files.catbox.moe/ih64g9.png)
 https://files.catbox.moe/74oe4g.safetensors enoshim_iki
-
-[![no scores](https://files.catbox.moe/luziyi.png)](https://files.catbox.moe/74ghkk.png)[![3d in negative](https://files.catbox.moe/ctnryh.png)](https://files.catbox.moe/t95tbr.png)[![source_anime, score_9](https://files.catbox.moe/a083il.png)](https://files.catbox.moe/ybgwl2.png)[![all scores](https://files.catbox.moe/t4tidm.png)](https://files.catbox.moe/vlcs4l.png)
 https://files.catbox.moe/ntxm1m.safetensors futonpasta The artist from a doujin game circle.
-
-[![no scores](https://files.catbox.moe/g7bmt7.png)](https://files.catbox.moe/1lwizn.png)[![3d in negative](https://files.catbox.moe/muetj5.png)](https://files.catbox.moe/aj62y2.png)[![source_anime, score_9](https://files.catbox.moe/jdr5h9.png)](https://files.catbox.moe/tu88ek.png)[![all scores](https://files.catbox.moe/lpea6b.png)](https://files.catbox.moe/676pqm.png)
 https://files.catbox.moe/ihmnwq.safetensors kurosu_gatari
-
-[![no scores](https://files.catbox.moe/10ldpz.png)](https://files.catbox.moe/3uz6u2.png)[![3d in negative](https://files.catbox.moe/86ek4j.png)](https://files.catbox.moe/rw39nf.png)[![source_anime, score_9](https://files.catbox.moe/a054pg.png)](https://files.catbox.moe/5fmreb.png)[![all scores](https://files.catbox.moe/p0m9eu.png)](https://files.catbox.moe/ul6os7.png)
 https://files.catbox.moe/lcai40.safetensors kunaboto
-
-[![no scores](https://files.catbox.moe/k8cjdp.png)](https://files.catbox.moe/td4uzy.png)[![3d in negative](https://files.catbox.moe/qlxoll.png)](https://files.catbox.moe/dyzrtf.png)[![source_anime, score_9](https://files.catbox.moe/fgzbfh.png)](https://files.catbox.moe/nsw7yw.png)[![all scores](https://files.catbox.moe/tzp0or.png)](https://files.catbox.moe/n8w26t.png)
 https://files.catbox.moe/imc8ii.safetensors kuroda_akimi Kind of really hard to escape the censor with this one.
-
-[![no scores](https://files.catbox.moe/lq1vgi.png)](https://files.catbox.moe/4je597.png)[![3d in negative](https://files.catbox.moe/okf7ax.png)](https://files.catbox.moe/jm1db8.png)[![source_anime, score_9](https://files.catbox.moe/8zqjfi.png)](https://files.catbox.moe/gykf2j.png)[![all scores](https://files.catbox.moe/42kp26.png)](https://files.catbox.moe/22q56i.png)
 https://files.catbox.moe/mrxxs7.safetensors ryoji_ohara Main artist for the Final Fantasy Tactics War of the Visions.
-
-[![no scores](https://files.catbox.moe/z6ci0x.png)](https://files.catbox.moe/ur60w1.png)[![3d in negative](https://files.catbox.moe/yu35xn.png)](https://files.catbox.moe/z1k6qx.png)[![source_anime, score_9](https://files.catbox.moe/d53hl5.png)](https://files.catbox.moe/yyxjs4.png)[![all scores](https://files.catbox.moe/ek55bg.png)](https://files.catbox.moe/aaqecw.png)
 https://files.catbox.moe/7ozz68.safetensors haganeF
-
-[![no scores](https://files.catbox.moe/iqz1jj.png)](https://files.catbox.moe/sr0ik9.png)[![3d in negative](https://files.catbox.moe/ro0m7o.png)](https://files.catbox.moe/psimot.png)[![source_anime, score_9](https://files.catbox.moe/tg51jk.png)](https://files.catbox.moe/p087ok.png)[![all scores](https://files.catbox.moe/xfrip5.png)](https://files.catbox.moe/7qxznb.png)
 https://files.catbox.moe/ck31b2.safetensors gentle_sasaki
-
-[![no scores](https://files.catbox.moe/iqz1jj.png)](https://files.catbox.moe/vuk05g.png)[![3d in negative](https://files.catbox.moe/ro0m7o.png)](https://files.catbox.moe/9by1ou.png)[![source_anime, score_9](https://files.catbox.moe/tg51jk.png)](https://files.catbox.moe/kgbiky.png)[![all scores](https://files.catbox.moe/xfrip5.png)](https://files.catbox.moe/i17xtx.png)
 https://files.catbox.moe/gr5pdx.safetensors gaptax will likely display issues at some point due to small dataset
-
-[![no scores](https://files.catbox.moe/p9u5x6.png)](https://files.catbox.moe/4s1hoo.png)[![3d in negative](https://files.catbox.moe/1bxdj6.png)](https://files.catbox.moe/pftcnx.png)[![source_anime, score_9](https://files.catbox.moe/jwfdso.png)](https://files.catbox.moe/acaule.png)[![all scores](https://files.catbox.moe/ahm1rv.png)](https://files.catbox.moe/8t3ecs.png)
 https://files.catbox.moe/986c8k.safetensors Gamukami
-
-[![no scores](https://files.catbox.moe/cfrse6.png)](https://files.catbox.moe/te5jh4.png)[![3d in negative](https://files.catbox.moe/hww4d4.png)](https://files.catbox.moe/iwnrjl.png)[![source_anime, score_9](https://files.catbox.moe/bhq7r1.png)](https://files.catbox.moe/5btrdv.png)[![all scores](https://files.catbox.moe/akzu48.png)](https://files.catbox.moe/0zvodi.png)
 https://files.catbox.moe/0wssp8.safetensors Fishine
-
-[![no scores](https://files.catbox.moe/mv7i4w.png)](https://files.catbox.moe/fe3luo.png)[![3d in negative](https://files.catbox.moe/p2im4r.png)](https://files.catbox.moe/of5z2u.png)[![source_anime, score_9](https://files.catbox.moe/myrpsy.png)](https://files.catbox.moe/54wnhc.png)[![all scores](https://files.catbox.moe/9bwt6l.png)](https://files.catbox.moe/utl2we.png)
 https://files.catbox.moe/xbeu1x.safetensors Deepvalley will likely display issues at some point due to small dataset
-
-[![no scores](https://files.catbox.moe/pw2ifx.png)](https://files.catbox.moe/w0avjl.png)[![3d in negative](https://files.catbox.moe/cp7bv7.png)](https://files.catbox.moe/rc1hux.png)[![source_anime, score_9](https://files.catbox.moe/xqkhlq.png)](https://files.catbox.moe/s73f70.png)[![all scores](https://files.catbox.moe/xzl92s.png)](https://files.catbox.moe/q7t8vw.png)
 https://files.catbox.moe/9h5vos.safetensors shinonome_kazuhiko
-
-[![no scores](https://files.catbox.moe/2fhj8e.png)](https://files.catbox.moe/bd4roi.png)[![3d in negative](https://files.catbox.moe/26vr44.png)](https://files.catbox.moe/hrv64k.png)[![source_anime, score_9](https://files.catbox.moe/pqyzg3.png)](https://files.catbox.moe/ktfx68.png)[![all scores](https://files.catbox.moe/thu4eh.png)](https://files.catbox.moe/80n31g.png)
 https://files.catbox.moe/tevomb.safetensors chocochip
-
-[![no scores](https://files.catbox.moe/mr8q5q.png)](https://files.catbox.moe/m5xlfp.png)[![3d in negative](https://files.catbox.moe/xap412.png)](https://files.catbox.moe/04f5r7.png)[![source_anime, score_9](https://files.catbox.moe/oa12tm.png)](https://files.catbox.moe/seeszl.png)[![all scores](https://files.catbox.moe/17752j.png)](https://files.catbox.moe/xoewfd.png)
 https://files.catbox.moe/fbwz5k.safetensors piromizu
-
-[![no scores](https://files.catbox.moe/417gz3.png)](https://files.catbox.moe/kt09h9.png)[![3d in negative](https://files.catbox.moe/i92zhp.png)](https://files.catbox.moe/8l92ua.png)[![source_anime, score_9](https://files.catbox.moe/jumltj.png)](https://files.catbox.moe/93jwam.png)[![all scores](https://files.catbox.moe/al8j3j.png)](https://files.catbox.moe/j90yhg.png)
 https://files.catbox.moe/odlshx.safetensors piromizu_2
-
-[![no scores](https://files.catbox.moe/3v6len.png)](https://files.catbox.moe/0oto98.png)[![3d in negative](https://files.catbox.moe/r9uyke.png)](https://files.catbox.moe/6403g5.png)[![source_anime, score_9](https://files.catbox.moe/86nwnt.png)](https://files.catbox.moe/5sikol.png)[![all scores](https://files.catbox.moe/9dw19t.png)](https://files.catbox.moe/bdkxue.png)
 https://files.catbox.moe/4xmzn0.safetensors porkstudio
-
-[![no scores](https://files.catbox.moe/3bvhtc.png)](https://files.catbox.moe/eebwdn.png)[![3d in negative](https://files.catbox.moe/rza0t0.png)](https://files.catbox.moe/nia0lb.png)[![source_anime, score_9](https://files.catbox.moe/do7zib.png)](https://files.catbox.moe/e1t2y6.png)[![all scores](https://files.catbox.moe/wib0kd.png)](https://files.catbox.moe/pt73ss.png)
 https://files.catbox.moe/0ebohp.safetensors starworks
-
-[![no scores](https://files.catbox.moe/9gx6mg.png)](https://files.catbox.moe/l8qp2a.png)[![3d in negative](https://files.catbox.moe/8kifgj.png)](https://files.catbox.moe/m33noz.png)[![source_anime, score_9](https://files.catbox.moe/8p8oni.png)](https://files.catbox.moe/qeil10.png)[![all scores](https://files.catbox.moe/fecglt.png)](https://files.catbox.moe/e7xtj6.png)
 https://files.catbox.moe/q1vapd.safetensors suimitsutou_koubou
-
-[![no scores](https://files.catbox.moe/esclfl.png)](https://files.catbox.moe/uu1nzi.png)[![3d in negative](https://files.catbox.moe/fzphsv.png)](https://files.catbox.moe/m843jf.png)[![source_anime, score_9](https://files.catbox.moe/arcnbj.png)](https://files.catbox.moe/sebmew.png)[![all scores](https://files.catbox.moe/21ki7s.png)](https://files.catbox.moe/ipo56f.png)
 https://files.catbox.moe/4gd1nk.safetensors hakika
-
-[![no scores](https://files.catbox.moe/dmk6wt.png)](https://files.catbox.moe/c2owdi.png)[![3d in negative](https://files.catbox.moe/9wxd6q.png)](https://files.catbox.moe/2z1avu.png)[![source_anime, score_9](https://files.catbox.moe/3nsmz4.png)](https://files.catbox.moe/odpftt.png)[![all scores](https://files.catbox.moe/4j1yre.png)](https://files.catbox.moe/usz5hw.png)
 https://files.catbox.moe/c54e0t.safetensors homare
-
-[![no scores](https://files.catbox.moe/k08fhl.png)](https://files.catbox.moe/79gst4.png)[![3d in negative](https://files.catbox.moe/zds4f0.png)](https://files.catbox.moe/7c4znd.png)[![source_anime, score_9](https://files.catbox.moe/wn9i41.png)](https://files.catbox.moe/2ydwii.png)[![all scores](https://files.catbox.moe/3sns61.png)](https://files.catbox.moe/3u7j4p.png)
 https://files.catbox.moe/pooszm.safetensors komori_kei
-
-[![no scores](https://files.catbox.moe/94poe6.png)](https://files.catbox.moe/auawkx.png)[![3d in negative](https://files.catbox.moe/lp15ie.png)](https://files.catbox.moe/akyvwx.png)[![source_anime, score_9](https://files.catbox.moe/2bdtfx.png)](https://files.catbox.moe/pxebu8.png)[![all scores](https://files.catbox.moe/4z3f0p.png)](https://files.catbox.moe/r2zr0l.png)
 https://files.catbox.moe/cysexx.safetensors MetalOwl
-
-[![no scores](https://files.catbox.moe/mnwjgs.png)](https://files.catbox.moe/mrihkm.png)[![3d in negative](https://files.catbox.moe/ry384c.png)](https://files.catbox.moe/v7l4zt.png)[![source_anime, score_9](https://files.catbox.moe/iyplys.png)](https://files.catbox.moe/jopci0.png)[![all scores](https://files.catbox.moe/wreadw.png)](https://files.catbox.moe/dslipu.png)
 https://files.catbox.moe/wy3knx.safetensors Methonium
-
-[![no scores](https://files.catbox.moe/gvxblv.png)](https://files.catbox.moe/0oragi.png)[![3d in negative](https://files.catbox.moe/lcrfns.png)](https://files.catbox.moe/yl0fp8.png)[![source_anime, score_9](https://files.catbox.moe/vb0hbn.png)](https://files.catbox.moe/ckuqku.png)[![all scores](https://files.catbox.moe/70w536.png)](https://files.catbox.moe/ue8o4i.png)
 https://files.catbox.moe/4i8oae.safetensors Oda_Non
-
-[![no scores](https://files.catbox.moe/0dkpra.png)](https://files.catbox.moe/5cqj68.png)[![3d in negative](https://files.catbox.moe/eaoqmp.png)](https://files.catbox.moe/4fd4lj.png)[![source_anime, score_9](https://files.catbox.moe/hw8gwt.png)](https://files.catbox.moe/stut9l.png)[![all scores](https://files.catbox.moe/glz4at.png)](https://files.catbox.moe/dolg2n.png)
 https://files.catbox.moe/b5eyg8.safetensors ratatatat74
-
-[![no scores](https://files.catbox.moe/h0avrs.png)](https://files.catbox.moe/hna0c3.png)[![3d in negative](https://files.catbox.moe/cjgp8m.png)](https://files.catbox.moe/1dlhup.png)[![source_anime, score_9](https://files.catbox.moe/n8nnrz.png)](https://files.catbox.moe/fguao5.png)[![all scores](https://files.catbox.moe/do13x0.png)](https://files.catbox.moe/bl6a46.png)
 https://files.catbox.moe/frxmlo.safetensors Maron_Maron requires activation trigger "by maron maron"
-
-[![no scores](https://files.catbox.moe/e6bwcd.png)](https://files.catbox.moe/qfqz87.png)[![3d in negative](https://files.catbox.moe/4ls6wf.png)](https://files.catbox.moe/k0ag55.png)[![source_anime, score_9](https://files.catbox.moe/lzjp35.png)](https://files.catbox.moe/aljnt9.png)[![all scores](https://files.catbox.moe/vna3v3.png)](https://files.catbox.moe/lwyz52.png)
 https://files.catbox.moe/m764gt.safetensors Tsubasa_tsubasa
-
-[![no scores](https://files.catbox.moe/j21cb6.png)](https://files.catbox.moe/5bumoc.png)[![3d in negative](https://files.catbox.moe/edp9ke.png)](https://files.catbox.moe/lcsqqj.png)[![source_anime, score_9](https://files.catbox.moe/wcs7is.png)](https://files.catbox.moe/y8r4ot.png)[![all scores](https://files.catbox.moe/e5perf.png)](https://files.catbox.moe/4el2f6.png)
 https://files.catbox.moe/g42ahp.safetensors tenk
-
-[![no scores](https://files.catbox.moe/elkgu0.png)](https://files.catbox.moe/od6kkx.png)[![3d in negative](https://files.catbox.moe/ynvt5n.png)](https://files.catbox.moe/vlfkga.png)[![source_anime, score_9](https://files.catbox.moe/q8nfb0.png)](https://files.catbox.moe/2tpcsg.png)[![all scores](https://files.catbox.moe/84chrs.png)](https://files.catbox.moe/s73470.png)
 https://files.catbox.moe/cos32m.safetensors tianliang_duohe_fangdongye
-
-[![no scores](https://files.catbox.moe/jgrrob.png)](https://files.catbox.moe/3vu1pn.png)[![3d in negative](https://files.catbox.moe/vttvzg.png)](https://files.catbox.moe/gpkmiq.png)[![source_anime, score_9](https://files.catbox.moe/pat8zj.png)](https://files.catbox.moe/uy83gc.png)[![all scores](https://files.catbox.moe/4lxx82.png)](https://files.catbox.moe/gm9agh.png)
 https://files.catbox.moe/vog70p.safetensors gud0c
-
-[![no scores](https://files.catbox.moe/kpxw5s.png)](https://files.catbox.moe/3jqbsg.png)[![3d in negative](https://files.catbox.moe/29p4xw.png)](https://files.catbox.moe/e493m4.png)[![source_anime, score_9](https://files.catbox.moe/lolo1p.png)](https://files.catbox.moe/u4yudt.png)[![all scores](https://files.catbox.moe/9vlwz9.png)](https://files.catbox.moe/csloyk.png)
 https://files.catbox.moe/ccz6sl.safetensors mo_(kireinamo)
-
-[![no scores](https://files.catbox.moe/nq117s.png)](https://files.catbox.moe/019o8o.png)[![3d in negative](https://files.catbox.moe/und5rl.png)](https://files.catbox.moe/fzo4d4.png)[![source_anime, score_9](https://files.catbox.moe/5vbckn.png)](https://files.catbox.moe/dx6qqx.png)[![all scores](https://files.catbox.moe/gczb3x.png)](https://files.catbox.moe/aq9jyp.png)
 https://files.catbox.moe/1dsnon.safetensors konpeto
-
-[![no scores](https://files.catbox.moe/lagyau.png)](https://files.catbox.moe/93th85.png)[![3d in negative](https://files.catbox.moe/y4dpnt.png)](https://files.catbox.moe/0otsyo.png)[![source_anime, score_9](https://files.catbox.moe/l11tym.png)](https://files.catbox.moe/z9pt89.png)[![all scores](https://files.catbox.moe/qepk7i.png)](https://files.catbox.moe/gq1l18.png)
 https://files.catbox.moe/8hg3yk.safetensors melon22 It's pretty versatile, but to get the true melon look you have to add some helper tags. Try huge breasts, (muscular female:0.5), and neg muscular arms.
-
-[![no scores](https://files.catbox.moe/sjare4.png)](https://files.catbox.moe/mqy3q1.png)[![3d in negative](https://files.catbox.moe/7hkaup.png)](https://files.catbox.moe/ry8ztw.png)[![source_anime, score_9](https://files.catbox.moe/o0e55q.png)](https://files.catbox.moe/dwc5ky.png)[![all scores](https://files.catbox.moe/8mw8rs.png)](https://files.catbox.moe/vrcz1j.png)
 https://files.catbox.moe/qj7xl0.safetensors pepper0
-
-[![no scores](https://files.catbox.moe/jcfiox.png)](https://files.catbox.moe/p8uhxb.png)[![3d in negative](https://files.catbox.moe/1gz362.png)](https://files.catbox.moe/yf9kh2.png)[![source_anime, score_9](https://files.catbox.moe/2ush9r.png)](https://files.catbox.moe/d494fw.png)[![all scores](https://files.catbox.moe/dr2w7t.png)](https://files.catbox.moe/cy0l52.png)
 https://files.catbox.moe/zi3lzf.safetensors mikozin
-
-[![no scores](https://files.catbox.moe/6cxlod.png)](https://files.catbox.moe/7emlot.png)[![3d in negative](https://files.catbox.moe/6og3ph.png)](https://files.catbox.moe/raq3mk.png)[![source_anime, score_9](https://files.catbox.moe/nqb29z.png)](https://files.catbox.moe/hl6adb.png)[![all scores](https://files.catbox.moe/6jhime.png)](https://files.catbox.moe/7hnn5p.png)
 https://files.catbox.moe/f0y8ew.safetensors sake_kemosalmon
-
-[![no scores](https://files.catbox.moe/ens0vy.png)](https://files.catbox.moe/6brv0l.png)[![3d in negative](https://files.catbox.moe/v5q3r9.png)](https://files.catbox.moe/ygzmd2.png)[![source_anime, score_9](https://files.catbox.moe/h7xyw1.png)](https://files.catbox.moe/dccymr.png)[![all scores](https://files.catbox.moe/4pjmrk.png)](https://files.catbox.moe/ctsp1j.png)
 https://files.catbox.moe/wcez69.safetensors yuta_agc_kids_gamera
-
-[![no scores](https://files.catbox.moe/2tqq4u.png)](https://files.catbox.moe/vj8aip.png)[![3d in negative](https://files.catbox.moe/el6ix0.png)](https://files.catbox.moe/f3g4gd.png)[![source_anime, score_9](https://files.catbox.moe/9jh7mg.png)](https://files.catbox.moe/6s1pvy.png)[![all scores](https://files.catbox.moe/yjehui.png)](https://files.catbox.moe/hmyqq3.png)
 https://files.catbox.moe/2wanow.safetensors BlueTheBone
-
-[![no scores](https://files.catbox.moe/0gxazx.png)](https://files.catbox.moe/bc818o.png)[![3d in negative](https://files.catbox.moe/ily5rq.png)](https://files.catbox.moe/omwxl6.png)[![source_anime, score_9](https://files.catbox.moe/2w2nu0.png)](https://files.catbox.moe/5ruvz5.png)[![all scores](https://files.catbox.moe/ghie4i.png)](https://files.catbox.moe/x5bmr3.png)
 https://files.catbox.moe/4dhrck.safetensors George_Kamitani
-
-[![no scores](https://files.catbox.moe/wtnvcp.png)](https://files.catbox.moe/rr2708.png)[![3d in negative](https://files.catbox.moe/p1urky.png)](https://files.catbox.moe/sec8to.png)[![source_anime, score_9](https://files.catbox.moe/h7p67p.png)](https://files.catbox.moe/qgun01.png)[![all scores](https://files.catbox.moe/04kzsx.png)](https://files.catbox.moe/mm480b.png)
 https://files.catbox.moe/4pr3h4.safetensors Gerupin
-
-[![no scores](https://files.catbox.moe/huhkjx.png)](https://files.catbox.moe/rfzl3v.png)[![3d in negative](https://files.catbox.moe/ocmgjn.png)](https://files.catbox.moe/vs4dam.png)[![source_anime, score_9](https://files.catbox.moe/yaptid.png)](https://files.catbox.moe/j1e340.png)[![all scores](https://files.catbox.moe/fwkcj4.png)](https://files.catbox.moe/rgn8gs.png)
 https://files.catbox.moe/krtbno.safetensors Harada
-
-[![no scores](https://files.catbox.moe/ri098t.png)](https://files.catbox.moe/ryk9o5.png)[![3d in negative](https://files.catbox.moe/l6fhqu.png)](https://files.catbox.moe/i9wa28.png)[![source_anime, score_9](https://files.catbox.moe/6vww8m.png)](https://files.catbox.moe/nbkkn7.png)[![all scores](https://files.catbox.moe/v5uo9f.png)](https://files.catbox.moe/8qkn9z.png)
 https://files.catbox.moe/1ndvd4.safetensors Himukai_Yuuji
-
-[![no scores](https://files.catbox.moe/0ds6bl.png)](https://files.catbox.moe/cr7y4t.png)[![3d in negative](https://files.catbox.moe/ff0eq5.png)](https://files.catbox.moe/brmroq.png)[![source_anime, score_9](https://files.catbox.moe/n53d4q.png)](https://files.catbox.moe/c7asyu.png)[![all scores](https://files.catbox.moe/ox6cnf.png)](https://files.catbox.moe/jilc0d.png)
 https://files.catbox.moe/pagud0.safetensors Takeda_Hiromitsu
-
-[![no scores](https://files.catbox.moe/om1aji.png)](https://files.catbox.moe/jprq23.png)[![3d in negative](https://files.catbox.moe/8ymal1.png)](https://files.catbox.moe/ih3bfv.png)[![source_anime, score_9](https://files.catbox.moe/x9q0a2.png)](https://files.catbox.moe/r9oswx.png)[![all scores](https://files.catbox.moe/cetjg3.png)](https://files.catbox.moe/sl8sip.png)
 https://files.catbox.moe/n9pe8s.safetensors Kuuchuu_Yousai
-
-[![no scores](https://files.catbox.moe/agdoou.png)](https://files.catbox.moe/q8gqgn.png)[![3d in negative](https://files.catbox.moe/ly0boh.png)](https://files.catbox.moe/ci13s6.png)[![source_anime, score_9](https://files.catbox.moe/eg0dx1.png)](https://files.catbox.moe/hzmyou.png)[![all scores](https://files.catbox.moe/z3y0hj.png)](https://files.catbox.moe/t3ay4t.png)
 https://files.catbox.moe/58qele.safetensors Mekabu_Aji_MAX
-
-[![no scores](https://files.catbox.moe/ggxdwi.png)](https://files.catbox.moe/tgelep.png)[![3d in negative](https://files.catbox.moe/dg51s6.png)](https://files.catbox.moe/hx6huq.png)[![source_anime, score_9](https://files.catbox.moe/h5h4le.png)](https://files.catbox.moe/nxasd4.png)[![all scores](https://files.catbox.moe/6h3y4x.png)](https://files.catbox.moe/dz4hu6.png)
 https://files.catbox.moe/g29yo2.safetensors Nyamota
-
-[![no scores](https://files.catbox.moe/4aoa9y.png)](https://files.catbox.moe/uslbk4.png)[![3d in negative](https://files.catbox.moe/mu677o.png)](https://files.catbox.moe/f3w4zf.png)[![source_anime, score_9](https://files.catbox.moe/6sipkx.png)](https://files.catbox.moe/e0jm1n.png)[![all scores](https://files.catbox.moe/rcdyfq.png)](https://files.catbox.moe/7awrv1.png)
 https://files.catbox.moe/8p34wl.safetensors Urushima
-
-[![no scores](https://files.catbox.moe/oupiss.png)](https://files.catbox.moe/oupg98.png)[![3d in negative](https://files.catbox.moe/73ul8f.png)](https://files.catbox.moe/d60prg.png)[![source_anime, score_9](https://files.catbox.moe/08jpp4.png)](https://files.catbox.moe/275l70.png)[![all scores](https://files.catbox.moe/4m2ohw.png)](https://files.catbox.moe/w9mc1q.png)
 https://files.catbox.moe/i013hk.safetensors Warabimochi
-
-[![no scores](https://files.catbox.moe/t7ayon.png)](https://files.catbox.moe/e633m9.png)[![3d in negative](https://files.catbox.moe/9bwb72.png)](https://files.catbox.moe/q8k2yk.png)[![source_anime, score_9](https://files.catbox.moe/o9yx4o.png)](https://files.catbox.moe/c0hy3s.png)[![all scores](https://files.catbox.moe/rq38cz.png)](https://files.catbox.moe/a5lzfy.png)
 https://files.catbox.moe/aqm2v0.safetensors Xration
-
-[![no scores](https://files.catbox.moe/3vfo2t.png)](https://files.catbox.moe/b036dw.png)[![3d in negative](https://files.catbox.moe/lqj07m.png)](https://files.catbox.moe/1g1vso.png)[![source_anime, score_9](https://files.catbox.moe/jnfobk.png)](https://files.catbox.moe/9vmadh.png)[![all scores](https://files.catbox.moe/tvio6m.png)](https://files.catbox.moe/ccrr8j.png)
 https://files.catbox.moe/q6f33q.safetensors Yageshi_Nan
-
-[![no scores](https://files.catbox.moe/jdq575.png)](https://files.catbox.moe/5ukbyg.png)[![3d in negative](https://files.catbox.moe/k7ifib.png)](https://files.catbox.moe/ogbf0o.png)[![source_anime, score_9](https://files.catbox.moe/n4en07.png)](https://files.catbox.moe/zgloly.png)[![all scores](https://files.catbox.moe/d08eg2.png)](https://files.catbox.moe/4y05wm.png)
 https://files.catbox.moe/caabk4.safetensors Zankuro
-
-[![no scores](https://files.catbox.moe/n8qyhs.png)](https://files.catbox.moe/wht2wq.png)[![3d in negative](https://files.catbox.moe/5wtbjo.png)](https://files.catbox.moe/ovx6q9.png)[![source_anime, score_9](https://files.catbox.moe/g2epfh.png)](https://files.catbox.moe/rvvnoz.png)[![all scores](https://files.catbox.moe/dwg8qs.png)](https://files.catbox.moe/tqt7zd.png)
 https://files.catbox.moe/qybjzv.safetensors cyberboi
-
-[![no scores](https://files.catbox.moe/rzmi1z.png)](https://files.catbox.moe/w1fbp3.png)[![3d in negative](https://files.catbox.moe/pdxj5u.png)](https://files.catbox.moe/azhpq2.png)[![source_anime, score_9](https://files.catbox.moe/jyylf5.png)](https://files.catbox.moe/sz6n89.png)[![all scores](https://files.catbox.moe/j17i4a.png)](https://files.catbox.moe/w9t366.png)
 https://files.catbox.moe/vw47lk.safetensors gorani
-
-[![no scores](https://files.catbox.moe/j2sigc.png)](https://files.catbox.moe/xjwcoo.png)[![3d in negative](https://files.catbox.moe/rq70px.png)](https://files.catbox.moe/gh17zx.png)[![source_anime, score_9](https://files.catbox.moe/lmyxt5.png)](https://files.catbox.moe/18q2db.png)[![all scores](https://files.catbox.moe/zywc7p.png)](https://files.catbox.moe/gbp6ym.png)
 https://files.catbox.moe/v8qsfh.safetensors mojihe
-
-[![no scores](https://files.catbox.moe/5udwtx.png)](https://files.catbox.moe/u7bkqe.png)[![3d in negative](https://files.catbox.moe/dg8spz.png)](https://files.catbox.moe/tg7rys.png)[![source_anime, score_9](https://files.catbox.moe/aezz4c.png)](https://files.catbox.moe/0kcwn9.png)[![all scores](https://files.catbox.moe/85907w.png)](https://files.catbox.moe/0rc4fi.png)
 https://files.catbox.moe/m7sa64.safetensors owner
-
-[![no scores](https://files.catbox.moe/ax11iv.png)](https://files.catbox.moe/3a93jb.png)[![3d in negative](https://files.catbox.moe/shrogl.png)](https://files.catbox.moe/7dj1x6.png)[![source_anime, score_9](https://files.catbox.moe/n51ssj.png)](https://files.catbox.moe/15ilzq.png)[![all scores](https://files.catbox.moe/f4rr0z.png)](https://files.catbox.moe/6og85e.png)
-https://files.catbox.moe/rhlwp5.safetensors woohyoot
-
-[![no scores](https://files.catbox.moe/ax11iv.png)](https://files.catbox.moe/o74fcn.png)[![3d in negative](https://files.catbox.moe/shrogl.png)](https://files.catbox.moe/00e16j.png)[![source_anime, score_9](https://files.catbox.moe/n51ssj.png)](https://files.catbox.moe/898jmx.png)[![all scores](https://files.catbox.moe/f4rr0z.png)](https://files.catbox.moe/ny7yxp.png)
+https://files.catbox.moe/iji4sn.safetensors woohyoot
 https://files.catbox.moe/rhlwp5.safetensors yeehawt0wn
-
-[![no scores](https://files.catbox.moe/iqz1jj.png)](https://files.catbox.moe/gvlnzj.png)[![3d in negative](https://files.catbox.moe/ro0m7o.png)](https://files.catbox.moe/2xe1ty.png)[![source_anime, score_9](https://files.catbox.moe/tg51jk.png)](https://files.catbox.moe/r5ovow.png)[![all scores](https://files.catbox.moe/xfrip5.png)](https://files.catbox.moe/idy283.png)
 https://files.catbox.moe/bj5m7b.safetensors nawakena_resized example gen: https://files.catbox.moe/26uxu5.png
-
-[![no scores](https://files.catbox.moe/9bgxhj.png)](https://files.catbox.moe/oznic0.png)[![3d in negative](https://files.catbox.moe/qujhkk.png)](https://files.catbox.moe/ley584.png)[![source_anime, score_9](https://files.catbox.moe/cdzkxz.png)](https://files.catbox.moe/63jinc.png)[![all scores](https://files.catbox.moe/gp4rw4.png)](https://files.catbox.moe/p2c14t.png)
 https://files.catbox.moe/opwfd2.safetensors slush
-
-[![no scores](https://files.catbox.moe/u4oltq.png)](https://files.catbox.moe/12fbfm.png)[![3d in negative](https://files.catbox.moe/x3qsdj.png)](https://files.catbox.moe/5awe6l.png)[![source_anime, score_9](https://files.catbox.moe/wh1dbg.png)](https://files.catbox.moe/so82a3.png)[![all scores](https://files.catbox.moe/fr58dt.png)](https://files.catbox.moe/ng1z46.png)
 https://files.catbox.moe/2ei4zl.safetensors aoin_hatsu
-
-[![no scores](https://files.catbox.moe/rb8pks.png)](https://files.catbox.moe/yg4pl6.png)[![3d in negative](https://files.catbox.moe/m69xu4.png)](https://files.catbox.moe/m3y363.png)[![source_anime, score_9](https://files.catbox.moe/eqjfm5.png)](https://files.catbox.moe/58hslq.png)[![all scores](https://files.catbox.moe/0ujbls.png)](https://files.catbox.moe/9yym59.png)
 https://files.catbox.moe/cd6exz.safetensors andava
-
-[![no scores](https://files.catbox.moe/oh81l3.png)](https://files.catbox.moe/gz8a91.png)[![3d in negative](https://files.catbox.moe/fpz0qu.png)](https://files.catbox.moe/fvhcui.png)[![source_anime, score_9](https://files.catbox.moe/wzym92.png)](https://files.catbox.moe/pavpuu.png)[![all scores](https://files.catbox.moe/b1ou19.png)](https://files.catbox.moe/w9i6lf.png)
 https://files.catbox.moe/j10wt5.safetensors source_filmmaker
-
-[![no scores](https://files.catbox.moe/o1uoo9.png)](https://files.catbox.moe/8tb8or.png)[![3d in negative](https://files.catbox.moe/wdfx9h.png)](https://files.catbox.moe/j8hp5z.png)[![source_anime, score_9](https://files.catbox.moe/zj1m40.png)](https://files.catbox.moe/rt922p.png)[![all scores](https://files.catbox.moe/cku140.png)](https://files.catbox.moe/07boxn.png)
 https://files.catbox.moe/o1fmsv.safetensors namako_daibakuhatsu
-
-[![no scores](https://files.catbox.moe/trwzwx.png)](https://files.catbox.moe/sputwp.png)[![3d in negative](https://files.catbox.moe/esytgc.png)](https://files.catbox.moe/3heawb.png)[![source_anime, score_9](https://files.catbox.moe/qpy7e0.png)](https://files.catbox.moe/qzts24.png)[![all scores](https://files.catbox.moe/yazyzy.png)](https://files.catbox.moe/j4jz5v.png)
 https://files.catbox.moe/y48921.safetensors ishikei you can maybe put source_anime in the positive prompt to make it look more like his old art but as far as i can tell that just happens no matter what
-
-[![no scores](https://files.catbox.moe/nbbq7q.png)](https://files.catbox.moe/1f3d77.png)[![3d in negative](https://files.catbox.moe/h27f79.png)](https://files.catbox.moe/jrrqyd.png)[![source_anime, score_9](https://files.catbox.moe/c704yu.png)](https://files.catbox.moe/s99aam.png)[![all scores](https://files.catbox.moe/2n4wn5.png)](https://files.catbox.moe/85w8o9.png)
 https://files.catbox.moe/v95tlf.safetensors murata_range works well on both pony and the autism_pony mix
-
-[![no scores](https://files.catbox.moe/86loi5.png)](https://files.catbox.moe/7bf2pb.png)[![3d in negative](https://files.catbox.moe/z4rwyi.png)](https://files.catbox.moe/75pbre.png)[![source_anime, score_9](https://files.catbox.moe/8omrra.png)](https://files.catbox.moe/v6z00u.png)[![all scores](https://files.catbox.moe/erwj9o.png)](https://files.catbox.moe/emf0lw.png)
 https://files.catbox.moe/zr0w9o.safetensors rhasta
-
-[![no scores](https://files.catbox.moe/6pi7hg.png)](https://files.catbox.moe/59jtv4.png)[![3d in negative](https://files.catbox.moe/wv1qj0.png)](https://files.catbox.moe/o2ebpv.png)[![source_anime, score_9](https://files.catbox.moe/tgrick.png)](https://files.catbox.moe/9iujs8.png)[![all scores](https://files.catbox.moe/bj3h6c.png)](https://files.catbox.moe/59jtbz.png)
 https://files.catbox.moe/kh4goe.safetensors laserflip
-
-[![no scores](https://files.catbox.moe/pnrsj3.png)](https://files.catbox.moe/lhat2p.png)[![3d in negative](https://files.catbox.moe/70ksvl.png)](https://files.catbox.moe/wptf9g.png)[![source_anime, score_9](https://files.catbox.moe/jrzcdo.png)](https://files.catbox.moe/ovyy7w.png)[![all scores](https://files.catbox.moe/luxte6.png)](https://files.catbox.moe/plpne3.png)
 https://files.catbox.moe/iq5u22.safetensors ibukichi
-
-[![no scores](https://files.catbox.moe/7wck1b.png)](https://files.catbox.moe/yunaib.png)[![3d in negative](https://files.catbox.moe/slf3vj.png)](https://files.catbox.moe/cbx89v.png)[![source_anime, score_9](https://files.catbox.moe/goaxrm.png)](https://files.catbox.moe/4istzk.png)[![all scores](https://files.catbox.moe/20znqv.png)](https://files.catbox.moe/nfwc8o.png)
 https://files.catbox.moe/29oqmg.safetensors kurono_mitsuki
-
-[![no scores](https://files.catbox.moe/exmqnt.png)](https://files.catbox.moe/ylu5xq.png)[![3d in negative](https://files.catbox.moe/h8c81s.png)](https://files.catbox.moe/82k4s9.png)[![source_anime, score_9](https://files.catbox.moe/o88nhr.png)](https://files.catbox.moe/yzoq5u.png)[![all scores](https://files.catbox.moe/g4e9p9.png)](https://files.catbox.moe/r3bzn8.png)
 https://files.catbox.moe/mj8sls.safetensors tokkyu
-
-[![no scores](https://files.catbox.moe/fiqzvt.png)](https://files.catbox.moe/ncmi6t.png)[![3d in negative](https://files.catbox.moe/9eibqs.png)](https://files.catbox.moe/mi05z7.png)[![source_anime, score_9](https://files.catbox.moe/3qsjd1.png)](https://files.catbox.moe/0jt4c3.png)[![all scores](https://files.catbox.moe/efhxmf.png)](https://files.catbox.moe/gztdax.png)
 https://files.catbox.moe/s5n8ul.safetensors moshimoshibe
-
-[![no scores](https://files.catbox.moe/3gyeds.png)](https://files.catbox.moe/0abmiq.png)[![3d in negative](https://files.catbox.moe/cxtu4r.png)](https://files.catbox.moe/4zp2or.png)[![source_anime, score_9](https://files.catbox.moe/7t7opo.png)](https://files.catbox.moe/6gqi3p.png)[![all scores](https://files.catbox.moe/5ze4bu.png)](https://files.catbox.moe/jwzxfg.png)
 https://files.catbox.moe/amb4x8.safetensors shuz_ requires activation prompt of shuz and helps to put 3d in the negatives
-
-[![no scores](https://files.catbox.moe/ub78ty.png)](https://files.catbox.moe/xywda8.png)[![3d in negative](https://files.catbox.moe/r62i7f.png)](https://files.catbox.moe/fjyg9c.png)[![source_anime, score_9](https://files.catbox.moe/6usk63.png)](https://files.catbox.moe/44hoc0.png)[![all scores](https://files.catbox.moe/llmwe3.png)](https://files.catbox.moe/fw8lyv.png)
 https://files.catbox.moe/uq6j2r.safetensors kazutake_hazano
-
-[![no scores](https://files.catbox.moe/ibiaci.png)](https://files.catbox.moe/8zkpua.png)[![3d in negative](https://files.catbox.moe/6dqjxw.png)](https://files.catbox.moe/j2b5jt.png)[![source_anime, score_9](https://files.catbox.moe/m9q4wk.png)](https://files.catbox.moe/fql5kr.png)[![all scores](https://files.catbox.moe/ycybpp.png)](https://files.catbox.moe/pyfh1w.png)
 https://files.catbox.moe/bxoljw.safetensors fujou_joshi
-
-[![no scores](https://files.catbox.moe/mgecly.png)](https://files.catbox.moe/9ph0jf.png)[![3d in negative](https://files.catbox.moe/itaqag.png)](https://files.catbox.moe/vp695d.png)[![source_anime, score_9](https://files.catbox.moe/4hkhag.png)](https://files.catbox.moe/tgzo8k.png)[![all scores](https://files.catbox.moe/ofsjn9.png)](https://files.catbox.moe/8npvz0.png)
 https://files.catbox.moe/cbrvwe.safetensors millefeuille helps to put monochrome and greyscale in the negatives, hands are pretty rough, unfortunately 
-
-[![no scores](https://files.catbox.moe/h8xy2i.png)](https://files.catbox.moe/5fzbcv.png)[![3d in negative](https://files.catbox.moe/8mplou.png)](https://files.catbox.moe/lsf89b.png)[![source_anime, score_9](https://files.catbox.moe/x1kq74.png)](https://files.catbox.moe/mvk3lp.png)[![all scores](https://files.catbox.moe/3998eo.png)](https://files.catbox.moe/yao09z.png)
 https://files.catbox.moe/sc7pis.safetensors tottotenero add text and speech bubble to the negative and maybe some quality tags to the positive prompt and it should stop it from generating text
-
-[![no scores](https://files.catbox.moe/8grymn.png)](https://files.catbox.moe/qyga1e.png)[![3d in negative](https://files.catbox.moe/6spgol.png)](https://files.catbox.moe/gvcczc.png)[![source_anime, score_9](https://files.catbox.moe/5ryyju.png)](https://files.catbox.moe/lau0a1.png)[![all scores](https://files.catbox.moe/33w5yj.png)](https://files.catbox.moe/dx044t.png)
 https://files.catbox.moe/odmswn.safetensors fkey
-
-[![no scores](https://files.catbox.moe/gane4l.png)](https://files.catbox.moe/gs32wn.png)[![3d in negative](https://files.catbox.moe/20ntm3.png)](https://files.catbox.moe/2n52tm.png)[![source_anime, score_9](https://files.catbox.moe/j29vxk.png)](https://files.catbox.moe/wbfpzb.png)[![all scores](https://files.catbox.moe/7eew19.png)](https://files.catbox.moe/6p6hcc.png)
 https://files.catbox.moe/z6otq2.safetensors danimaru
-
-[![no scores](https://files.catbox.moe/rbf9ff.png)](https://files.catbox.moe/rudnki.png)[![3d in negative](https://files.catbox.moe/wscjgr.png)](https://files.catbox.moe/cllwij.png)[![source_anime, score_9](https://files.catbox.moe/b8n0ma.png)](https://files.catbox.moe/vwp4i7.png)[![all scores](https://files.catbox.moe/5e9sut.png)](https://files.catbox.moe/8xt30p.png)
 https://files.catbox.moe/l0qd64.safetensors joe_randel example gens: https://files.catbox.moe/hsxz9i.png, https://files.catbox.moe/qyby68.png, https://files.catbox.moe/ecrr64.png
-
-[![no scores](https://files.catbox.moe/0b70qq.png)](https://files.catbox.moe/d1j7pd.png)[![3d in negative](https://files.catbox.moe/9nxcl5.png)](https://files.catbox.moe/y0ckpc.png)[![source_anime, score_9](https://files.catbox.moe/xtj2df.png)](https://files.catbox.moe/kx101k.png)[![all scores](https://files.catbox.moe/yymni2.png)](https://files.catbox.moe/vnea0o.png)
 https://files.catbox.moe/r3vdhy.safetensors ookuma
-
-[![no scores](https://files.catbox.moe/8d9xi9.png)](https://files.catbox.moe/1qrw0q.png)[![3d in negative](https://files.catbox.moe/ft2oqp.png)](https://files.catbox.moe/ld4afc.png)[![source_anime, score_9](https://files.catbox.moe/tzix9i.png)](https://files.catbox.moe/wkutyg.png)[![all scores](https://files.catbox.moe/k7ftcl.png)](https://files.catbox.moe/fo7h4w.png)
 https://files.catbox.moe/q4hauw.safetensors dowman_sayman
-
-[![no scores](https://files.catbox.moe/vhvtf4.png)](https://files.catbox.moe/b6pdnv.png)[![3d in negative](https://files.catbox.moe/clmzbf.png)](https://files.catbox.moe/p95oq0.png)[![source_anime, score_9](https://files.catbox.moe/zij8qj.png)](https://files.catbox.moe/x4ll0h.png)[![all scores](https://files.catbox.moe/c6vaee.png)](https://files.catbox.moe/fclgrn.png)
 https://files.catbox.moe/0wodm0.safetensors coro_fae
-
-[![no scores](https://files.catbox.moe/nwckk7.png)](https://files.catbox.moe/hogmtx.png)[![3d in negative](https://files.catbox.moe/26gyaz.png)](https://files.catbox.moe/hi2m3x.png)[![source_anime, score_9](https://files.catbox.moe/t1dwpz.png)](https://files.catbox.moe/e64b4z.png)[![all scores](https://files.catbox.moe/b5p6rm.png)](https://files.catbox.moe/57pb1q.png)
 https://files.catbox.moe/lyvklr.safetensors freng example gen https://files.catbox.moe/8djx1f.png
-
-[![no scores](https://files.catbox.moe/0q9058.png)](https://files.catbox.moe/ukzjfq.png)[![3d in negative](https://files.catbox.moe/mlfq4c.png)](https://files.catbox.moe/nedi61.png)[![source_anime, score_9](https://files.catbox.moe/koru6s.png)](https://files.catbox.moe/0ifaeg.png)[![all scores](https://files.catbox.moe/flqr0t.png)](https://files.catbox.moe/5vmt2x.png)
 https://files.catbox.moe/xt69xa.safetensors nakkar
-
-[![no scores](https://files.catbox.moe/jwg3ry.png)](https://files.catbox.moe/95fkcm.png)[![3d in negative](https://files.catbox.moe/xv2bei.png)](https://files.catbox.moe/z7gw90.png)[![source_anime, score_9](https://files.catbox.moe/879js7.png)](https://files.catbox.moe/49gfyz.png)[![all scores](https://files.catbox.moe/8mkw57.png)](https://files.catbox.moe/wlm8ss.png)
 https://files.catbox.moe/r0eizn.safetensors camonome Recommendation: speech bubbles in negative prompt.
-
-[![no scores](https://files.catbox.moe/9fqvf3.png)](https://files.catbox.moe/vmpp1z.png)[![3d in negative](https://files.catbox.moe/5ocf5w.png)](https://files.catbox.moe/hiqjcj.png)[![source_anime, score_9](https://files.catbox.moe/rtxwoj.png)](https://files.catbox.moe/1gwf23.png)[![all scores](https://files.catbox.moe/9cs7e8.png)](https://files.catbox.moe/0lc9qn.png)
 https://files.catbox.moe/r7wm1x.safetensors Shigenori_Soejima
-
-[![no scores](https://files.catbox.moe/0mlbiu.png)](https://files.catbox.moe/4m0ofc.png)[![3d in negative](https://files.catbox.moe/k0pfdl.png)](https://files.catbox.moe/l8x80z.png)[![source_anime, score_9](https://files.catbox.moe/af26ej.png)](https://files.catbox.moe/19xxy1.png)[![all scores](https://files.catbox.moe/5hadj5.png)](https://files.catbox.moe/6fl3d3.png)
 https://files.catbox.moe/j8gok0.safetensors Kinu_Nishimura
-
-[![no scores](https://files.catbox.moe/8aa6dl.png)](https://files.catbox.moe/qq80gn.png)[![3d in negative](https://files.catbox.moe/c8vmd6.png)](https://files.catbox.moe/5hbpee.png)[![source_anime, score_9](https://files.catbox.moe/mk33da.png)](https://files.catbox.moe/4eipvy.png)[![all scores](https://files.catbox.moe/imej7z.png)](https://files.catbox.moe/ow170c.png)
 https://files.catbox.moe/8ldykm.safetensors Kesoshirou
-
-[![no scores](https://files.catbox.moe/vazati.png)](https://files.catbox.moe/k4rvjd.png)[![3d in negative](https://files.catbox.moe/dvv04f.png)](https://files.catbox.moe/w2b4sw.png)[![source_anime, score_9](https://files.catbox.moe/qwv8jx.png)](https://files.catbox.moe/ulqdu7.png)[![all scores](https://files.catbox.moe/lg04jk.png)](https://files.catbox.moe/yjz9ny.png)
 https://files.catbox.moe/sgx2q8.safetensors tsuma_shibori
-
-[![no scores](https://files.catbox.moe/uycukj.png)](https://files.catbox.moe/1p3shz.png)[![3d in negative](https://files.catbox.moe/9vojsw.png)](https://files.catbox.moe/lrhgye.png)[![source_anime, score_9](https://files.catbox.moe/idy968.png)](https://files.catbox.moe/d6krle.png)[![all scores](https://files.catbox.moe/3w6k56.png)](https://files.catbox.moe/p9ov25.png)
 https://files.catbox.moe/ciy9qc.safetensors majikoi
-
-[![no scores](https://files.catbox.moe/789v9s.png)](https://files.catbox.moe/rxbnk0.png)[![3d in negative](https://files.catbox.moe/c1xuvd.png)](https://files.catbox.moe/rv026b.png)[![source_anime, score_9](https://files.catbox.moe/spm1x1.png)](https://files.catbox.moe/ch5nmr.png)[![all scores](https://files.catbox.moe/5wvy5u.png)](https://files.catbox.moe/rcf2y8.png)
 https://files.catbox.moe/0qy5os.safetensors mantis-x
-
-[![no scores](https://files.catbox.moe/1myu18.png)](https://files.catbox.moe/k8bmd2.png)[![3d in negative](https://files.catbox.moe/5uipkz.png)](https://files.catbox.moe/t3icvo.png)[![source_anime, score_9](https://files.catbox.moe/vnz0vz.png)](https://files.catbox.moe/y9c19w.png)[![all scores](https://files.catbox.moe/elnq6n.png)](https://files.catbox.moe/f76y2i.png)
 https://files.catbox.moe/i2lf6g.safetensors tamaya
-
-[![no scores](https://files.catbox.moe/kf3fg9.png)](https://files.catbox.moe/afspmg.png)[![3d in negative](https://files.catbox.moe/3rmi6c.png)](https://files.catbox.moe/av2dpy.png)[![source_anime, score_9](https://files.catbox.moe/fuw9rp.png)](https://files.catbox.moe/r8nfmb.png)[![all scores](https://files.catbox.moe/1t6vx8.png)](https://files.catbox.moe/xqgm1q.png)
 https://files.catbox.moe/89517y.safetensors sweetonedollar
-
-[![no scores](https://files.catbox.moe/qswctd.png)](https://files.catbox.moe/j6jv8j.png)[![3d in negative](https://files.catbox.moe/3pxdrl.png)](https://files.catbox.moe/ok92ar.png)[![source_anime, score_9](https://files.catbox.moe/im7xb1.png)](https://files.catbox.moe/w39pxm.png)[![all scores](https://files.catbox.moe/xwq26d.png)](https://files.catbox.moe/q02cp2.png)
 https://files.catbox.moe/m9mblu.safetensors musouzuki
-
-[![no scores](https://files.catbox.moe/f803mg.png)](https://files.catbox.moe/hgpawc.png)[![3d in negative](https://files.catbox.moe/eydl3t.png)](https://files.catbox.moe/gggyua.png)[![source_anime, score_9](https://files.catbox.moe/0ditlb.png)](https://files.catbox.moe/iix1hs.png)[![all scores](https://files.catbox.moe/4nanza.png)](https://files.catbox.moe/417y6j.png)
 https://files.catbox.moe/te5hay.safetensors s16xue
-
-[![no scores](https://files.catbox.moe/zfvgs1.png)](https://files.catbox.moe/68u88v.png)[![3d in negative](https://files.catbox.moe/9j40v7.png)](https://files.catbox.moe/ctv9xi.png)[![source_anime, score_9](https://files.catbox.moe/sbfwbu.png)](https://files.catbox.moe/l3wieo.png)[![all scores](https://files.catbox.moe/39iycq.png)](https://files.catbox.moe/f7ehk8.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
-
-[![no scores](https://files.catbox.moe/r3b4h1.png)](https://files.catbox.moe/ws3qwo.png)[![3d in negative](https://files.catbox.moe/ert37t.png)](https://files.catbox.moe/45i7ak.png)[![source_anime, score_9](https://files.catbox.moe/7obunw.png)](https://files.catbox.moe/0iw3s6.png)[![all scores](https://files.catbox.moe/58brih.png)](https://files.catbox.moe/02kndl.png)
 https://files.catbox.moe/cmezo8.safetensors morino831
-
-[![no scores](https://files.catbox.moe/x387io.png)](https://files.catbox.moe/gwqe7t.png)[![3d in negative](https://files.catbox.moe/wqffs7.png)](https://files.catbox.moe/54zp45.png)[![source_anime, score_9](https://files.catbox.moe/ooz5xe.png)](https://files.catbox.moe/l182mh.png)[![all scores](https://files.catbox.moe/tttjzf.png)](https://files.catbox.moe/e3chcx.png)
 https://files.catbox.moe/vwgwyx.safetensors samiri
-
-[![no scores](https://files.catbox.moe/7o12a9.png)](https://files.catbox.moe/fe4rxr.png)[![3d in negative](https://files.catbox.moe/rriejq.png)](https://files.catbox.moe/nq7ov7.png)[![source_anime, score_9](https://files.catbox.moe/snvqmp.png)](https://files.catbox.moe/t4uzfh.png)[![all scores](https://files.catbox.moe/2byp1y.png)](https://files.catbox.moe/hdfu4a.png)
 https://files.catbox.moe/zxsta3.safetensors senkan_art
-
-[![no scores](https://files.catbox.moe/rapfzw.png)](https://files.catbox.moe/20j04h.png)[![3d in negative](https://files.catbox.moe/5xk60y.png)](https://files.catbox.moe/pe81y7.png)[![source_anime, score_9](https://files.catbox.moe/p0i1a7.png)](https://files.catbox.moe/ezxuzl.png)[![all scores](https://files.catbox.moe/dq6qxf.png)](https://files.catbox.moe/5jdk5d.png)
 https://files.catbox.moe/cx6szo.safetensors inputtwo
-
-[![no scores](https://files.catbox.moe/5lomsi.png)](https://files.catbox.moe/4ga1a1.png)[![3d in negative](https://files.catbox.moe/u4qa02.png)](https://files.catbox.moe/xv9hyu.png)[![source_anime, score_9](https://files.catbox.moe/4ya8of.png)](https://files.catbox.moe/fivzqx.png)[![all scores](https://files.catbox.moe/hw1ico.png)](https://files.catbox.moe/yxrtq3.png)
 https://files.catbox.moe/969bmv.safetensors bayeuxman
-
-[![no scores](https://files.catbox.moe/8nwoq1.png)](https://files.catbox.moe/kr576u.png)[![3d in negative](https://files.catbox.moe/0h0b9s.png)](https://files.catbox.moe/amrerr.png)[![source_anime, score_9](https://files.catbox.moe/izg19x.png)](https://files.catbox.moe/ag82zu.png)[![all scores](https://files.catbox.moe/zba3bf.png)](https://files.catbox.moe/202glf.png)
 https://files.catbox.moe/f2fqj8.safetensors gggg
-
-[![no scores](https://files.catbox.moe/wp7zl4.png)](https://files.catbox.moe/y7eql4.png)[![3d in negative](https://files.catbox.moe/bu3l11.png)](https://files.catbox.moe/dy1klq.png)[![source_anime, score_9](https://files.catbox.moe/x04h7t.png)](https://files.catbox.moe/wei8jp.png)[![all scores](https://files.catbox.moe/sccnr5.png)](https://files.catbox.moe/iv9436.png)
 https://files.catbox.moe/eicots.safetensors bobtheneet
-
-[![no scores](https://files.catbox.moe/jqyc6b.png)](https://files.catbox.moe/8sxn09.png)[![3d in negative](https://files.catbox.moe/mdl6t1.png)](https://files.catbox.moe/cbdwhb.png)[![source_anime, score_9](https://files.catbox.moe/89f2ms.png)](https://files.catbox.moe/no4gn2.png)[![all scores](https://files.catbox.moe/t9ctx6.png)](https://files.catbox.moe/lrr5ei.png)
 https://files.catbox.moe/q7cuvt.safetensors amazuyu_tatsuki
-
-[![no scores](https://files.catbox.moe/mgujrt.png)](https://files.catbox.moe/bq9wpn.png)[![3d in negative](https://files.catbox.moe/cv90fl.png)](https://files.catbox.moe/hovgmn.png)[![source_anime, score_9](https://files.catbox.moe/7iqh1u.png)](https://files.catbox.moe/90870i.png)[![all scores](https://files.catbox.moe/zm0ed8.png)](https://files.catbox.moe/i6a9vk.png)
 https://files.catbox.moe/1ruj7p.safetensors csr
-
-[![no scores](https://files.catbox.moe/i9b5d0.png)](https://files.catbox.moe/10uu69.png)[![3d in negative](https://files.catbox.moe/jodv9g.png)](https://files.catbox.moe/20ni0l.png)[![source_anime, score_9](https://files.catbox.moe/u2faze.png)](https://files.catbox.moe/uadye4.png)[![all scores](https://files.catbox.moe/2coo0l.png)](https://files.catbox.moe/gqgv2c.png)
 https://files.catbox.moe/wlwi2y.safetensors enoshima
-
-[![no scores](https://files.catbox.moe/sdqx24.png)](https://files.catbox.moe/6b2rf2.png)[![3d in negative](https://files.catbox.moe/faq16a.png)](https://files.catbox.moe/aledhn.png)[![source_anime, score_9](https://files.catbox.moe/mhh8mj.png)](https://files.catbox.moe/e1xi4k.png)[![all scores](https://files.catbox.moe/aljbcz.png)](https://files.catbox.moe/uzblih.png)
 https://files.catbox.moe/nmsyo8.safetensors garakuta-ya
-
-[![no scores](https://files.catbox.moe/twq94g.png)](https://files.catbox.moe/jldue4.png)[![3d in negative](https://files.catbox.moe/5vkagf.png)](https://files.catbox.moe/kptdyv.png)[![source_anime, score_9](https://files.catbox.moe/8xcjo5.png)](https://files.catbox.moe/bsqz1f.png)[![all scores](https://files.catbox.moe/pu2jdy.png)](https://files.catbox.moe/4ocu2i.png)
 https://files.catbox.moe/3dbges.safetensors hiromitsu
-
-[![no scores](https://files.catbox.moe/t0qqlf.png)](https://files.catbox.moe/kfmzuz.png)[![3d in negative](https://files.catbox.moe/4a03f3.png)](https://files.catbox.moe/df1wty.png)[![source_anime, score_9](https://files.catbox.moe/haw23k.png)](https://files.catbox.moe/f92908.png)[![all scores](https://files.catbox.moe/t8tt6l.png)](https://files.catbox.moe/bl6qah.png)
 https://files.catbox.moe/wx5xri.safetensors kagami
-
-[![no scores](https://files.catbox.moe/9ol5v3.png)](https://files.catbox.moe/rgvazo.png)[![3d in negative](https://files.catbox.moe/3xvovh.png)](https://files.catbox.moe/9a2a8c.png)[![source_anime, score_9](https://files.catbox.moe/uax93j.png)](https://files.catbox.moe/09yv57.png)[![all scores](https://files.catbox.moe/lawcb3.png)](https://files.catbox.moe/cw5ycu.png)
 https://files.catbox.moe/eb9xsk.safetensors kamitani
-
-[![no scores](https://files.catbox.moe/bnhqvg.png)](https://files.catbox.moe/9xnghe.png)[![3d in negative](https://files.catbox.moe/ftdqp4.png)](https://files.catbox.moe/9a0v5d.png)[![source_anime, score_9](https://files.catbox.moe/6v437q.png)](https://files.catbox.moe/epky6m.png)[![all scores](https://files.catbox.moe/ojfsfs.png)](https://files.catbox.moe/tmhxu4.png)
 https://files.catbox.moe/afhggs.safetensors korotsuke
-
-[![no scores](https://files.catbox.moe/yv6j8f.png)](https://files.catbox.moe/xem1m3.png)[![3d in negative](https://files.catbox.moe/1xhhu6.png)](https://files.catbox.moe/t19kiy.png)[![source_anime, score_9](https://files.catbox.moe/okn2ta.png)](https://files.catbox.moe/fzm15g.png)[![all scores](https://files.catbox.moe/9r047v.png)](https://files.catbox.moe/i75nx3.png)
 https://files.catbox.moe/ksuvd8.safetensors ohara
-
-[![no scores](https://files.catbox.moe/mr8q5q.png)](https://files.catbox.moe/m5xlfp.png)[![3d in negative](https://files.catbox.moe/xap412.png)](https://files.catbox.moe/04f5r7.png)[![source_anime, score_9](https://files.catbox.moe/oa12tm.png)](https://files.catbox.moe/seeszl.png)[![all scores](https://files.catbox.moe/17752j.png)](https://files.catbox.moe/xoewfd.png)
 https://files.catbox.moe/ak2ctj.safetensors piromizu
-
-[![no scores](https://files.catbox.moe/qxrscy.png)](https://files.catbox.moe/g3zqdk.png)[![3d in negative](https://files.catbox.moe/049xwe.png)](https://files.catbox.moe/85uwe0.png)[![source_anime, score_9](https://files.catbox.moe/uj5s8a.png)](https://files.catbox.moe/mmg2q5.png)[![all scores](https://files.catbox.moe/ydf2qn.png)](https://files.catbox.moe/6n5ag5.png)
 https://files.catbox.moe/ezarsl.safetensors JK-BlushySpicy-YD-CSR-Redrop_mix
-
-[![no scores](https://files.catbox.moe/jiof4h.png)](https://files.catbox.moe/lmx4vz.png)[![3d in negative](https://files.catbox.moe/cphtjv.png)](https://files.catbox.moe/1d0es6.png)[![source_anime, score_9](https://files.catbox.moe/whglpu.png)](https://files.catbox.moe/lngumf.png)[![all scores](https://files.catbox.moe/kpwokc.png)](https://files.catbox.moe/q5dygb.png)
 https://files.catbox.moe/vn55kh.safetensors amagai_tarou
-
-[![no scores](https://files.catbox.moe/taara2.png)](https://files.catbox.moe/979buf.png)[![3d in negative](https://files.catbox.moe/t68rq4.png)](https://files.catbox.moe/ggtug8.png)[![source_anime, score_9](https://files.catbox.moe/9p58cd.png)](https://files.catbox.moe/iy6wyf.png)[![all scores](https://files.catbox.moe/u2xeem.png)](https://files.catbox.moe/hn099r.png)
 https://files.catbox.moe/ho7o57.safetensors okota_mikan
-
-[![no scores](https://files.catbox.moe/r9y55r.png)](https://files.catbox.moe/sbud2l.png)[![3d in negative](https://files.catbox.moe/5xgh7q.png)](https://files.catbox.moe/w2t23o.png)[![source_anime, score_9](https://files.catbox.moe/foqz5n.png)](https://files.catbox.moe/qzv0an.png)[![all scores](https://files.catbox.moe/5tod31.png)](https://files.catbox.moe/ywdb79.png)
 https://files.catbox.moe/w4zilv.safetensors sakura_no_tomoru_hi_e
-
 https://files.catbox.moe/sgy29u.safetensors pandora
-https://files.catbox.moe/vgphp1.safetensors andava
+https://files.catbox.moe/9io6z4.safetensors noise
 
 **These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.**
 
-[![no scores](https://files.catbox.moe/c6upoo.png)](https://files.catbox.moe/nwh621.png)[![3d in negative](https://files.catbox.moe/1lbyxz.png)](https://files.catbox.moe/rl97fv.png)[![source_anime, score_9](https://files.catbox.moe/pw0i2b.png)](https://files.catbox.moe/pigmf9.png)[![all scores](https://files.catbox.moe/kda651.png)](https://files.catbox.moe/wndim7.png)
 https://files.catbox.moe/jtgi98.safetensors kezime
-
-[![no scores](https://files.catbox.moe/2pz70e.png)](https://files.catbox.moe/zi1s3e.png)[![3d in negative](https://files.catbox.moe/fr2mo1.png)](https://files.catbox.moe/9lll72.png)[![source_anime, score_9](https://files.catbox.moe/jrdiz6.png)](https://files.catbox.moe/0ba80z.png)[![all scores](https://files.catbox.moe/cducc7.png)](https://files.catbox.moe/j1r5kx.png)
 https://files.catbox.moe/pr6abi.safetensors menma
-
-[![no scores](https://files.catbox.moe/5hwsn2.png)](https://files.catbox.moe/35b6sj.png)[![3d in negative](https://files.catbox.moe/tftndr.png)](https://files.catbox.moe/5omsub.png)[![source_anime, score_9](https://files.catbox.moe/2s7m9i.png)](https://files.catbox.moe/h68axm.png)[![all scores](https://files.catbox.moe/2ewza9.png)](https://files.catbox.moe/rvhg0t.png)
 https://files.catbox.moe/pzrhxx.safetensors nullmeta
-
-[![no scores](https://files.catbox.moe/qpffck.png)](https://files.catbox.moe/nsef4t.png)[![3d in negative](https://files.catbox.moe/33c8b7.png)](https://files.catbox.moe/0snwwb.png)[![source_anime, score_9](https://files.catbox.moe/yy7i6n.png)](https://files.catbox.moe/b0xmdw.png)[![all scores](https://files.catbox.moe/bbo8gb.png)](https://files.catbox.moe/9xdxoa.png)
 https://files.catbox.moe/mlziu8.safetensors Megami_Magazine
-
-[![no scores](https://files.catbox.moe/4vcwe5.png)](https://files.catbox.moe/vu9bwg.png)[![3d in negative](https://files.catbox.moe/8xeojj.png)](https://files.catbox.moe/027emh.png)[![source_anime, score_9](https://files.catbox.moe/0iqr9b.png)](https://files.catbox.moe/ax70cc.png)[![all scores](https://files.catbox.moe/fymspv.png)](https://files.catbox.moe/9vthuw.png)
 https://files.catbox.moe/oqhdry.safetensors nyantcha
-
-[![no scores](https://files.catbox.moe/kvm8dh.png)](https://files.catbox.moe/6eokh2.png)[![3d in negative](https://files.catbox.moe/cnxkj2.png)](https://files.catbox.moe/5b1xz7.png)[![source_anime, score_9](https://files.catbox.moe/vg2ew2.png)](https://files.catbox.moe/thuk7x.png)[![all scores](https://files.catbox.moe/o5tucu.png)](https://files.catbox.moe/c2dyfk.png)
 https://files.catbox.moe/8i49kc.safetensors shirow
-
-[![no scores](https://files.catbox.moe/5jmit8.png)](https://files.catbox.moe/9630fq.png)[![3d in negative](https://files.catbox.moe/b2g4he.png)](https://files.catbox.moe/xo7gpb.png)[![source_anime, score_9](https://files.catbox.moe/u6ntdo.png)](https://files.catbox.moe/arel8r.png)[![all scores](https://files.catbox.moe/3mia8a.png)](https://files.catbox.moe/ccpnoa.png)
 https://files.catbox.moe/rp7cbf.safetensors onono_imoko
-
-[![no scores](https://files.catbox.moe/n9xxw1.png)](https://files.catbox.moe/wi3g1w.png)[![3d in negative](https://files.catbox.moe/yolcrk.png)](https://files.catbox.moe/8kc0mi.png)[![source_anime, score_9](https://files.catbox.moe/3qonfs.png)](https://files.catbox.moe/nfqne5.png)[![all scores](https://files.catbox.moe/6ih5ou.png)](https://files.catbox.moe/e0ofu3.png)
 https://files.catbox.moe/5pw11p.safetensors error1980
-
-[![no scores](https://files.catbox.moe/szqum3.png)](https://files.catbox.moe/z5spn6.png)[![3d in negative](https://files.catbox.moe/gxqlhf.png)](https://files.catbox.moe/r5ysse.png)[![source_anime, score_9](https://files.catbox.moe/l2tjca.png)](https://files.catbox.moe/3v5932.png)[![all scores](https://files.catbox.moe/647iax.png)](https://files.catbox.moe/g9w40a.png)
 https://files.catbox.moe/xdmcjd.safetensors non_(z-art)
-
-[![no scores](https://files.catbox.moe/ijmsj3.png)](https://files.catbox.moe/jeyaa7.png)[![3d in negative](https://files.catbox.moe/zeqvci.png)](https://files.catbox.moe/lhiowd.png)[![source_anime, score_9](https://files.catbox.moe/4dok42.png)](https://files.catbox.moe/6rplff.png)[![all scores](https://files.catbox.moe/bihdbh.png)](https://files.catbox.moe/mr1t8k.png)
 https://files.catbox.moe/2cl9sq.safetensors tsukumizu_yuu
-
-[![no scores](https://files.catbox.moe/14287z.png)](https://files.catbox.moe/caca40.png)[![3d in negative](https://files.catbox.moe/5yhsc6.png)](https://files.catbox.moe/z399ow.png)[![source_anime, score_9](https://files.catbox.moe/qoo3kc.png)](https://files.catbox.moe/rj4djm.png)[![all scores](https://files.catbox.moe/w35ywb.png)](https://files.catbox.moe/0x3dd2.png)
 https://files.catbox.moe/adligx.safetensors dratvan
-
-[![no scores](https://files.catbox.moe/q3g82f.png)](https://files.catbox.moe/ekn967.png)[![3d in negative](https://files.catbox.moe/8t3zhs.png)](https://files.catbox.moe/9qreg3.png)[![source_anime, score_9](https://files.catbox.moe/ran9o6.png)](https://files.catbox.moe/4xtsbf.png)[![all scores](https://files.catbox.moe/74g2a8.png)](https://files.catbox.moe/6m3huq.png)
 https://files.catbox.moe/pmv83f.safetensors poper
-
-[![no scores](https://files.catbox.moe/fqtyit.png)](https://files.catbox.moe/7rb5nz.png)[![3d in negative](https://files.catbox.moe/v751qk.png)](https://files.catbox.moe/82spz7.png)[![source_anime, score_9](https://files.catbox.moe/mhllta.png)](https://files.catbox.moe/927sey.png)[![all scores](https://files.catbox.moe/zxvhlb.png)](https://files.catbox.moe/d69xc8.png)
 https://files.catbox.moe/593c8m.safetensors nns
-
-[![no scores](https://files.catbox.moe/9jx1x1.png)](https://files.catbox.moe/ov2r0u.png)[![3d in negative](https://files.catbox.moe/oqr9fb.png)](https://files.catbox.moe/fvkn6y.png)[![source_anime, score_9](https://files.catbox.moe/ye40qj.png)](https://files.catbox.moe/babxiw.png)[![all scores](https://files.catbox.moe/sozb2i.png)](https://files.catbox.moe/p2hw10.png)
 https://files.catbox.moe/tviui5.safetensors whomperfruit
-
-[![no scores](https://files.catbox.moe/iindp1.png)](https://files.catbox.moe/blkaje.png)[![3d in negative](https://files.catbox.moe/33aat0.png)](https://files.catbox.moe/cd6tj8.png)[![source_anime, score_9](https://files.catbox.moe/xc4hnk.png)](https://files.catbox.moe/vye8lk.png)[![all scores](https://files.catbox.moe/ww7ud1.png)](https://files.catbox.moe/b5kihb.png)
 https://files.catbox.moe/s4t7ch.safetensors jvteemo
-
-[![no scores](https://files.catbox.moe/9yf94u.png)](https://files.catbox.moe/qrxu33.png)[![3d in negative](https://files.catbox.moe/fk1r7r.png)](https://files.catbox.moe/ombzfn.png)[![source_anime, score_9](https://files.catbox.moe/d8owar.png)](https://files.catbox.moe/hnxa5i.png)[![all scores](https://files.catbox.moe/99dlg6.png)](https://files.catbox.moe/t2vpit.png)
 https://files.catbox.moe/2onz8e.safetensors borscht
 
-The following will not autodownload using the script, you'll have to manually do it, can't be assed to figure out how to download from megaupload or managing zip files.
+**Megauploads with files too large for catbox**
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime 
@@ -532,7 +227,7 @@ https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831
 https://mega.nz/folder/dTkFHAgD#i04TRgRJUOMu9cByDe24UQ amazuyu_tatsuki, csr, enoshima, garakuta-ya, hiromitsu, kagami, kamitani, korotsuke, ohara, piromizu, JK-BlushySpicy-YD-CSR-Redrop_mix
 https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/W5AjzbLD Fishine, Kakure_Eria, Navigavi, opossummachine, Shibori_Kasu, Syrupmelty, Zankuro, Kiss-Shot Azerola-Orion Heart-Under-Blade, Shinobu Oshino, Utsuho Reuji
 https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun
-
+https://mega.nz/folder/k3MwHTwC#BOiRdd3uDjTeztzxuM19Hg alexi, chirumakuro, okiami, oltlo, yue
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -558,7 +253,7 @@ https://files.catbox.moe/p8pc8o.safetensors character_takarada_rikka doesn't see
 https://files.catbox.moe/0520b4.safetensors character_ashley_warioware activation trigger is ashely, looks like the images all had 1girl in the prompt as well
 https://files.catbox.moe/0r3b9z.safetensors character_beatrice_rezero doesn't seem to have a trigger for the character
 
-
+**Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
 
 ##Innate artists/styles

@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** Team Ruckus
 **Level:** 12 | **Experience to Next Level:** 46/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1415₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1215₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -50,7 +50,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 26 IQ points to spend.
+    You have 45 IQ points to spend.
     5/12 IP | ▮▮▮▮▮▯▯▯▯▯▯▯
 
 IQ Skills Active/Inactive | Description of Skill | IP Cost
@@ -83,7 +83,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Orange Gummi | Gives +10 IQ points to Fighting-Types. Gives +5 to other types. Tastes like fake orange. (600 ₽)
+1. Empty. | Empty.
 2. Big Apple | Gives +4 to any outside-combat-action.
 3.  Grimy Food | Upon consumption, gives the user an equal 25% chance to be hit with either Paralysis (Rolls 1-5), Confusion (Rolls 6-10), Burn (Rolls 11-15), or Poison (16-20). Poison-Types might enjoy this.
 4.  Empty. | Empty.

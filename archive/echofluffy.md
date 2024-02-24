@@ -1,4 +1,4 @@
--> ![-](https://files.catbox.moe/o9ibve.gif) <-
+-> ![welcome](https://files.catbox.moe/o9ibve.gif) <-
 -> ![divider](https://files.catbox.moe/4s3sf1.gif)![divider](https://files.catbox.moe/4s3sf1.gif) ![divider](https://files.catbox.moe/4s3sf1.gif) <-
 -> ![boba pixel](https://files.catbox.moe/9s0ibx.png) *This is the __navigation page__ for my rentries! Please reference this for the full list, or possibly to go back.* ![purse pixel](https://files.catbox.moe/z6ab5p.gif) <-
 -> - - - <-

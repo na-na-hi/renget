@@ -25,7 +25,7 @@
 ---- | ---- | 
 **%#dcc6c2%Origin:%%** ??? | **%#dcc6c2%Guild Role:%%** Cat | **%#dcc6c2%Nature:%%** Quirky
 **%#dcc6c2%Species:%%** %#ff82b6%E%%%#d77bba%s%%%#76428a%pu%%%#4d2f63%rr%% | **%#dcc6c2%Affiliation:%%** Team Stardust | **%#dcc6c2%Favorite Color:%%** %#fff667%Yellow%%
-**%#dcc6c2%Level:%%** 13 | **%#dcc6c2%Experience to Next Level:%%** 10/130 | **%#dcc6c2%Alignment:%%** True Neutral
+**%#dcc6c2%Level:%%** 13 | **%#dcc6c2%Experience to Next Level:%%** 20/130 | **%#dcc6c2%Alignment:%%** True Neutral
 **%#dcc6c2%Worn Item:%%** *N/A* | **%#dcc6c2%Clothing:%%** *Leaf Bag* | **%#dcc6c2%Age:%%** Unknown
 **%#dcc6c2%Pokécoin:%%** 1724₽ | **%#dcc6c2%Glorious Gold:%%** 0 Bars | **%#dcc6c2%Gender:%%** Unknown
 
@@ -93,6 +93,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 Attribute: Gravitational Potential | %#e69d31%**ᴍᴀx**%% (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
 Attribute: Foraging | Tier %#9595b4%**ɪɪ**%% (+2) | Skill in scavenging for useful food items and materials found in nature. 
 Attribute: Artifice | Tier %#9595b4%**ɪɪ**%% (+2) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
+Attribute: Meditation | Tier %#9e495d%**ɪ**%% (+1) |
 Battle Attribute: ??? | - | - 
 
 ***
@@ -101,7 +102,7 @@ Battle Attribute: ??? | - | -
 ------ | :----: | :----: | :----:
 Training for Attribute: Artifice | Tier %#e69d31%**ɪɪɪ**%% | 1/3 | ▮▯▯
 Training for Attribute: Foraging | Tier %#e69d31%**ɪɪɪ**%% | 1/3 | ▮▯▯
-Attribute: Meditation | Tier %#9e495d%**ɪ**%% | 1/3 | ▮▯▯
+Attribute: Meditation | Tier %#9e495d%**ɪɪ**%% | 2/3 | ▮▮▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯

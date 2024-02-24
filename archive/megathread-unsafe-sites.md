@@ -86,20 +86,24 @@
 ------ | ------ | ------
 **AIMHAVEN** | aimhaven-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **ApunKaGames** | apunkagames-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**Black Box Repack** | blackboxrepacke-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Crohasit** | crohasit-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **CroTorrents** | crotorrents-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Descarga Game** | descargagame-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Game PC Iso** | gamepciso-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Game3rb** | game3rb-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**GameFabrique** | gamefabrique-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **GamesTorrents** | gamestorrents-fm | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **GOG Unlocked** | gogunlocked-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 **IGGGames** | igg-games-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **NexusGames** | nexus-games-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **nosTeam** | nosteamgames-ro | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Ocean of Games** | oceansofgamess-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**Qoob (*Seyter*)** | qoob-name | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Repack-Games** | repack-games-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Steam-Repacks** | steam-repacks-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 **STEAMUNLOCKED** | steamunlocked-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**WIFI4Games • Arabic UI** | wifi4games-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Worldofpcgames** | worldof-pcgames-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 
 &nbsp;

@@ -36,6 +36,7 @@
 **Azuma Seren (Indie)** - https://civitai.com/models/302498/azuma-seren-vtuber
 **Totless (indie)** - https://civitai.com/models/304577/lora-totless-twitch-streamer-totless-or-vrchat-model
 **Kuroki Natsume (Indie)** - https://civitai.com/models/310679/96kuroneko
+**Ceres Fauna (Hololive)** - https://civitai.com/models/20809/ceres-fauna-hololive or https://civitai.com/models/97377/ceres-fauna-3-outfits-or-hololive
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

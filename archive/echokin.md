@@ -1,5 +1,5 @@
 -> Kin List (Not Official This Time) <-
--> On date as of 2.20.24. <-
+-> On date as of 2.23.24. <-
 -> Best viewed 90% zoomed <-
 
 Please know . . . !
@@ -34,7 +34,7 @@ Please know . . . !
 - Catra, SPOP
 - Juno, Beastars. 
 - Barn Owl
-- Bat (general, usually not in decorations/associations). 
+- Bat (general, usually not in decorations/associations. Black or dark brown, big-eared, fluffy, usually smaller, and leaf-nosed). 
 - Domesticated cat
 - Shapeshifting entity, likely demonic (such as a goat demon/succubus/imp, but i kin angels, more fallen angels. slight divinity)
 - Vampire. 
@@ -140,7 +140,7 @@ I kin some shits from Okegom, Arknights, Alchemy Stars and Kemono Friends, but i
 - Scissors. Broken glass. Buttons (brown-beige ones specifically). Marbles. Sock puppets. Firecrackers. Hot Wheels cars. Chemicals
 - Green, teal, yellow: mostly for me and less of an application to fictional characters. Confetti. Grafitti. Nostalgia. Gasoline.
 - Swords and switchblades. Lilies of the Valley. Candles. Lampposts. Crosses. Mailboxes. Wishing on stars, dandelions, or candles
-- Palm and palmetto trees. Sea glass. Rusty nails. Public pools. Clovers, four-leaf-clovers as well. Rubber ducks. Kudzu
+- Palm and palmetto trees. Sea glass. Rusty nails. Public pools. Clovers, four-leaf-clovers as well. Rubber ducks. Kudzu. Water mice
 - Spanish moss. Peeps. Cone shells. White quartz. Rubies. Peacock feathers. Stained glass. Abandoned churches. Filtered sunlight.
 - Watercolor paints. Poorly drawn snowmen. Willow trees. Glitter. License plates. Water towers. Tangled wires. Utility poles. Muffler men
 - Messy or ruined makeup. Barbed wire. Thorn crowns. Sparkledogs and emo wolves. Quilts. Vintage figurines. Keys and locks. Antiques. 
@@ -163,7 +163,7 @@ I kin some shits from Okegom, Arknights, Alchemy Stars and Kemono Friends, but i
 - Gingerbread cookies. Candy canes. Lemon-lime soda, like Sprite
 
 -> **Aesthetics** <-
-- Cleancore. Vaporwave. Frutiger aero and eco. Cybercore
+- Cleancore. Vaporwave. Frutiger aero and eco. Cybercore. Helvetica aqua aero
 - Emo. Scene. Scenecore. Gothic. Cutecore. Kidcore
 
 -> **Jobs** <-

@@ -720,6 +720,7 @@ Detention Roulette (Satoru Tani, Some 1-D): https://desuarchive.org/tg/thread/91
 The Daily Life of Satoru Tani 1: https://desuarchive.org/tg/post/91964939/
 The Daily Life of Satoru Tani 2: https://desuarchive.org/tg/post/91966001/
 The Daily Life of Satoru Tani 3: https://desuarchive.org/tg/post/91967769/
+Satoru Tani moments before tragedy: https://desuarchive.org/tg/post/91977984/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1183,6 +1184,13 @@ Lunch Hour (1-F): https://rentry.org/LunchHour
 1-F Epilogues: 1-aFtershocks(1-F): https://rentry.org/1Aftershocks
 1-F Epilogues: 1-FUTURE (1-F, Suslik, mentions of some other heroes): https://rentry.org/rwbqp65x
 Internship Gossip (Clique): https://rentry.org/igqhcxhy
+The Symbol of Death: Part 3 (Reaper, Forget-Me-Not, Ookami Shizuka, Drekus, Hijack, The Boys (kind of)): https://rentry.org/55t76vwp
+With Open Hearts And Open Minds (Seiryu, Honoken, Hijack): https://rentry.org/2bqb4hiq
+I Get Your Number And We Grow From There (Seiryu, Yoshizumi): https://rentry.org/4t3zcu2b
+Spring Boy And Summer Girl (Seiryu, Honoken, Kotoba): https://rentry.org/yzbayxk5
+Um Tempo Musical (Seiryu, Honoken): https://rentry.org/qxo4wft2
+Messages From The Star (Seiryu, Yoshizumi): https://rentry.org/7rw4bbwc
+Hearts Afire (Seiryu, Yamata, Blast Burn, Yamamoto): https://rentry.org/ewpc5tz3
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

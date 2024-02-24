@@ -40,6 +40,8 @@
 -> [Civitai](https://civitai.com/models/238427/gawr-gura-or-sdxl) <-
 ##### -> Houshou Marine <-
 -> [Civitai](https://civitai.com/models/239394/houshou-marine-or-sdxl-or-every-outfit) <-
+##### -> Ceres Fauna <-
+-> [Civitai](https://civitai.com/models/221124/ceres-fauna-sdxl) <-
 
 #### -> Nijisanji <-
 ***
@@ -472,6 +474,36 @@ or
 ##### -> Nakiri Ayame <-
 !!! info 7 Outfits!
 -> [Civitai](https://civitai.com/models/317577/nakiri-ayame-7-outfits-or-hololive-or-pony-xl) <-
+
+##### -> La+ Darknesss <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	la+ darknesss, white hair, long hair, hair between eyes, french braid, metal collar, black dress, baggy clothes, sleeves past fingers, thighhighs, single thighhigh, pointy ears, long sleeves, tail, demon girl, yellow ascot
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
+
+##### -> Takane Lui <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	takane lui, choker, short hair, taut clothes, collared shirt, high-waist shorts, black shorts, skin tight, gloves, long sleeves, pantyhose, pantyhose under shorts, shirt, puffy sleeves, fingerless gloves, necktie
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
+
+##### -> Kazama Iroha <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	kazama iroha, blonde hair, black hairband, japanese clothes, pleated skirt, chest wraps, chest sarashi, haori, long sleeves, bike shorts, thighhighs, fingerless gloves, sash
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
+
+##### -> Sakamata Chloe <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	sakamata chloe, white hair, medium hair, braid, multicolored hair, x hair ornament, red eyes, halterneck dress, black jacket, open jacket, hood, plaid skirt, red skirt, garter straps, fingerless gloves, black thighhighs, belt, black collar, large breasts, cleavage
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
+
+##### -> Hakui Koyori <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	hakui koyori, pink hair, long hair, crown braid, purple eyes, labcoat, crop top overhang, collared shirt, black skirt, miniskirt, pleated skirt, pantyhose, pink necktie, long sleeves, belts, midriff multiple belts, thigh strap
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
 
 #### -> Nijisanji <-
 ***

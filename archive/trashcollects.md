@@ -2910,6 +2910,18 @@ https://files.catbox.moe/najmye.safetensors
 # David Petersen (Artist of Mouse Guard)
 https://files.catbox.moe/fsq674.safetensors
 
+# Noise (Artist) - Pony Diffusion XL V6
+https://files.catbox.moe/9io6z4.safetensors
+
+# e621 Artists in Pony Diffusion XL
+>A LoRA trained on over 200 popular artists from e621, meant to be able to add some control over the style of Pony Diffusion V6 XL, in a similar way to how furry base models can be controlled.
+>Use "by artist", check the PDartists.txt file (in "training data", also usable as wildcard) for the artists that were included.
+>Originally was a proof a concept to see if it would work at all, but since it works better than I expected it to, I'm releasing it.
+>Dataset details: take all non-animated posts from e621, apply some basic filtering (exclude scat, cub etc.), strip some of the tag from the captions (aspect ratio, copyright), then check which artists have at least 200 images with at least 200 score, then for all these artists, include all images with at least 200 score. The final dataset had around 80K images.
+
+https://civitai.com/models/317578
+Direct DL: https://civitai.com/api/download/models/356175?type=Model&format=SafeTensor
+
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
 
