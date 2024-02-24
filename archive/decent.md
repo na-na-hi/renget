@@ -1,1 +1,4 @@
-⎯|⎯⎯ whats uP W.I.P
+->![](https://files.catbox.moe/bo24c5.png)<-
+->![](https://files.catbox.moe/zodvjq.gif)<-
+->![](https://files.catbox.moe/meujst.png)<-
+->%#EFDBCD%**⎯|⎯⎯**⠀⠀ [𝔼asy ℝead](https://rentry.co/hejej) ⠀⠀[𝕄ail](https://retrospring.net/cut)⠀ ུ۪۪࿓%%<-

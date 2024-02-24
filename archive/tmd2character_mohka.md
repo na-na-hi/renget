@@ -9,9 +9,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Aspiring pinball machine / Demolitions expert in training
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 12 | **Experience to Next Level:** 12/120
-**Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 2498₽ | **Glorious Gold:** 0 Bars
+**Level:** 12 | **Experience to Next Level:** 27/120
+**Worn Item:** *Sweat Band* | **Clothing:** *N/A*
+**Pokécoin:** 2398₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -26,7 +26,7 @@ Stat | Points: 1 (+1) | Modifiers | Combat Effect
 Health Points | 0 | Level 12 (22HP) | 22HP
 Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
-Defense | 2 | Species Bonus | +2 Physical Mitigation
+Defense | 2 | Species Bonus, Defense Tier ɪ | +3 Physical Mitigation
 Special Defense | 0 | Special Defense Tier ɪ | +1 Special Mitigation
 Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
@@ -48,7 +48,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.
-    You have 73 points to spend.
+    You have 84 points to spend.
     0/12 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -70,27 +70,27 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
-Stat: DEFENSE **ɪ** | Tier **ɪ** | 6/9 | ▮▮▮▮▮▮▯▯▯
+Stat: DEFENSE **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+*Worn/Held Item: Sweat Band* | User is immune to *Burn.*
+*Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Big Apple | Gives +4 to any outside-combat-action.
-2. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
+2. Blast Seed | Explodes on contact for 10 true damage.
 3. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Chunk of Meteorite | A chunk of the meteorite that fell in The Shoot Stretches. Value: 125p.
+2. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
@@ -99,6 +99,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Talisman | A blank strip of parchment without any clear use. For who it belonged to, it certainly doesn't feel very spiritual...
+RP Item | Chunk of Meteorite | A chunk of the meteorite that fell in The Shoot Stretches, destined to be turned into a clothing item.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

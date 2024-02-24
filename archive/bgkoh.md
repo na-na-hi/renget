@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Scout/Fire specialist
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
-**Level:** 12 | **Experience to Next Level:** 110/120
+**Level:** 13 | **Experience to Next Level:** 5/130
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 54₽ | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?

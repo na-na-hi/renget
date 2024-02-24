@@ -2,6 +2,7 @@
 Below are links to various links, archives and resources.
 >The /funkg/ Archives:
 https://www.dropbox.com/scl/fo/8owec3tskg05tcutpmonx/h?rlkey=0foncyh1xu0qlvii2teije3qr&dl=0
+https://www.dropbox.com/request/rUjw7sHNyTCZMFaXxdtf
 >/funkg/ Booru:
 https://booru.plus/+funkg
 >Phantom Arcade Stream Archive:

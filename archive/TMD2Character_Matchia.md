@@ -1,4 +1,4 @@
--> ![WAS THAT THE JOJO REFERENCE OF 23!?](https://cdn.discordapp.com/attachments/730507595244372063/1149559104948420688/TheJojos.png) <-
+-> ![WAS THAT THE JOJO REFERENCE OF 23!?](https://i.ibb.co/9GDkZxh/TheJojos.png) <-
 
 ### Matchia ♀
 An extremely irate girl who seems to take pride in said irateness. An incredibly persistent person, her stubbornness seems to know no bounds. She seems to be having trouble adjusting to being merely a former human, and is probably- no, DEFINITELY angsting over her memories.
@@ -8,7 +8,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
 **Species:** Mienfoo | **Affiliation:** Team Stardust
-**Level:** 13 | **Experience to Next Level:** 15/130
+**Level:** 13 | **Experience to Next Level:** 30/130
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 858 ₽ | **Glorious Gold:** 0 Bars
 

@@ -1,3 +1,26 @@
+>Western mercenary cries in English
+https://files.catbox.moe/2ndxp7.mp4
+>Successful assault by VDV troops on Rabotino
+https://files.catbox.moe/etp2bi.mp4
+>Colombian mercs got REKT
+https://files.catbox.moe/9w9z9f.mp4
+https://files.catbox.moe/veg6fe.mp4
+>Direct drone hit on an AFU
+https://files.catbox.moe/o30d53.mp4
+>HMMWV armor check
+https://files.catbox.moe/5btvb7.mp4
+>Russian rescue OP and hit on AFU tank
+https://files.catbox.moe/cfa8b6.mp4
+>Tornado-S vs S-300PS
+https://files.catbox.moe/f4p9cl.mp4
+>close call with an fpv drone
+https://files.catbox.moe/eq1x5o.mp4
+>Super Swinario
+https://files.catbox.moe/fiv97e.mp4
+>Russian tour & trophies of Avdeevka cokeplant
+https://files.catbox.moe/7lph31.mp4
+>Paladin goes boom
+https://files.catbox.moe/7lnwtp.mp4
 >New Imarat Donbass
 https://files.catbox.moe/92z49u.mp4
 >Shotgunning a drone

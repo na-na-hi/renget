@@ -29,7 +29,6 @@ https://files.catbox.moe/2kiajb.ps1
 ###Random
 https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003, you would have to look at the lora metadata to know what to prompt, there's flesh on the walls and stuff, fun to mess with
 https://files.catbox.moe/d9k7nf.safetensors slay_the_princess a visual novel that came out last year that has a sketchy art style, supports 5 of the game's characters: adversary, specter, nightmare, tower, and witch you have to prompt for their features to get them to show up, this file has the characters with their associated tags: https://files.catbox.moe/uprfne.txt, here's some example gens: https://files.catbox.moe/32eskz.png, https://files.catbox.moe/c87hl7.png, https://files.catbox.moe/kp5hbk.png, https://files.catbox.moe/jta8v1.png, https://files.catbox.moe/jsz1rp.png
-https://litter.catbox.moe/onephu.safetensors waffen-ss Activation tag is WaffenSS but you can add : black military uniform, black military hat, swastika armband
 https://files.catbox.moe/te26ne.safetensors braces activation trigger is braces, some colors were tagged, rainbow braces, red braces, yellow braces, pink, braces, you pretty much HAVE to inpaint because the target area is typically going to be quite small in the image, could also try adetailer lips model
 
 ###Concepts
@@ -86,7 +85,6 @@ https://files.catbox.moe/xbeu1x.safetensors Deepvalley will likely display issue
 https://files.catbox.moe/9h5vos.safetensors shinonome_kazuhiko
 https://files.catbox.moe/tevomb.safetensors chocochip
 https://files.catbox.moe/fbwz5k.safetensors piromizu
-https://files.catbox.moe/odlshx.safetensors piromizu_2
 https://files.catbox.moe/4xmzn0.safetensors porkstudio
 https://files.catbox.moe/0ebohp.safetensors starworks
 https://files.catbox.moe/q1vapd.safetensors suimitsutou_koubou
@@ -167,8 +165,6 @@ https://files.catbox.moe/i2lf6g.safetensors tamaya
 https://files.catbox.moe/89517y.safetensors sweetonedollar
 https://files.catbox.moe/m9mblu.safetensors musouzuki
 https://files.catbox.moe/te5hay.safetensors s16xue
-https://files.catbox.moe/9qqq1s.safetensors suga_hideo
-https://files.catbox.moe/cmezo8.safetensors morino831
 https://files.catbox.moe/vwgwyx.safetensors samiri
 https://files.catbox.moe/zxsta3.safetensors senkan_art
 https://files.catbox.moe/cx6szo.safetensors inputtwo
@@ -191,8 +187,19 @@ https://files.catbox.moe/ho7o57.safetensors okota_mikan
 https://files.catbox.moe/w4zilv.safetensors sakura_no_tomoru_hi_e
 https://files.catbox.moe/sgy29u.safetensors pandora
 https://files.catbox.moe/9io6z4.safetensors noise
+https://files.catbox.moe/z7vz4y.safetensors abmayo requires activation trigger of abmayo, also recommended to use use with score_9,source_anime
+https://files.catbox.moe/lerky2.safetensors soraname
 
-**These are resized version of the LoRAs below so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss.**
+**These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
+https://files.catbox.moe/9qqq1s.safetensors suga_hideo
+https://files.catbox.moe/cmezo8.safetensors morino831
+https://files.catbox.moe/yomld8.safetensors 11eyes
+https://files.catbox.moe/5vwp3d.safetensors alphy
+https://files.catbox.moe/08r1c0.safetensors baldr_sky
+https://files.catbox.moe/aymmt5.safetensors rai_sakuranbo_sugar
+https://files.catbox.moe/qmu9t3.safetensors yume_miru_kusuri
+
+**These are resized version of some of the LoRAs in the below megas so they fit on catbox and will thus download automatically with the powershell script, I didn't test them after resizing so can't comment on quality loss. I've shied away from resizing them now because it does seem to affect the quality a fair bit.**
 
 https://files.catbox.moe/jtgi98.safetensors kezime
 https://files.catbox.moe/pr6abi.safetensors menma
@@ -223,7 +230,7 @@ https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsuk
 https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22, cyberboi, dratvan, gorani, lewdcactus, mmmmm, mojihe, owner, poper, whomperfruit, woohyootyeehawtown, zumi, furau, USjWwjFZLUtdSoz, senkan_art, inputtwo
 https://files.catbox.moe/c69pcl.zip JVTeemo
 https://mega.nz/file/o01XhDIC#8hukpUUeFCThQj2WPe1O0OT7LDWHGvGmFr_y7GVUhfI borscht
-https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831
+https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831, 11eyes, alphy, baldr sky, rai_(sakuranbo sugar), yume_miru_kusuri
 https://mega.nz/folder/dTkFHAgD#i04TRgRJUOMu9cByDe24UQ amazuyu_tatsuki, csr, enoshima, garakuta-ya, hiromitsu, kagami, kamitani, korotsuke, ohara, piromizu, JK-BlushySpicy-YD-CSR-Redrop_mix
 https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/W5AjzbLD Fishine, Kakure_Eria, Navigavi, opossummachine, Shibori_Kasu, Syrupmelty, Zankuro, Kiss-Shot Azerola-Orion Heart-Under-Blade, Shinobu Oshino, Utsuho Reuji
 https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun

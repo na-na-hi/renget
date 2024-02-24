@@ -90,6 +90,7 @@ http://www.games4theworlddownloads.org/Downloads/Guides/Sims_3_Mac_Guide.pdf
 
 The Sims 2
 https://games4theworld.site/sims-downloads/
+https://github.com/voicemxil/TS2-Starter-Pack
 
 ------------------------------
 

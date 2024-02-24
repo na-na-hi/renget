@@ -1,7 +1,7 @@
-->![shin](https://media.discordapp.net/attachments/903364339464044575/1066982898927931402/3BB3E2BD-7BDD-4AD9-B9CB-EE19FB6474CB.png)<-
--> ![umbrella](https://media.discordapp.net/attachments/903364339464044575/1066763084246560960/173B0BD3-FBE3-4997-A5D3-56C2B78D28D0.gif) . . name 〜 ♡‧₊˚ prn ノ prn  <-
--> info ![](https://media.discordapp.net/attachments/903364339464044575/1086447858523312158/9901C24D-7A7E-4ECC-923B-A10D5CA63BFA.gif) info ˎˊ info ![shoes](https://media.discordapp.net/attachments/903364339464044575/1066975226526707763/539038F2-68A8-4AE9-BD29-6C81953BAE12.gif) info <-
--> info ૮ › ༝ ‹ ა ![book](https://media.discordapp.net/attachments/903364339464044575/1066762646294110238/3DA98B4F-F234-4C00-9263-2530E6D35158.gif) info info ![wing2](https://media.discordapp.net/attachments/903364339464044575/1066975504638423081/4E80A4D9-DC32-4D12-975E-7A55B71C3356.gif) <-
-->![bow](https://media.discordapp.net/attachments/903364339464044575/1066763085446139955/FD711CD1-6260-4C8E-906D-A9FC356EBE44.gif) info info *!* info ꒱ ˚. ⊹ <-
--> ![div](https://media.discordapp.net/attachments/903364339464044575/1066980521449627688/8F251F88-E84B-4ADE-84D5-D09B53397977.png)<-
+-> ![](https://i.postimg.cc/BnPSHqLn/Untitled11-20240224160834.png) <-
+-> ![umbrella](https://i.postimg.cc/9fNzs71t/IMG-3353.gif) . . name 〜 ♡‧₊˚ prn ノ prn  <-
+-> info ![](https://i.postimg.cc/Kzk4b8HX/IMG-3355.gif) info ˎˊ info ![shoes](https://i.postimg.cc/RF9rvMds/9-BF325-F1-0-EF8-4-A26-A811-2-AF1-C758255-A.gif) info <-
+-> info ૮ › ༝ ‹ ა ![book](https://bloominglantanas.carrd.co/assets/images/gallery01/c213d7ec.png?v=8e241c6f) info info ![wing2](https://tomomi.neocities.org/pixeles/238.gif) <-
+->![bow](https://i.postimg.cc/XYRSDKC0/1-C784-E25-10-A1-4632-BFEA-2207-FE8-A8921.gif) info info *!* info ꒱ ˚. ⊹ <-
+-> ![div](https://tomomi.neocities.org/divider/div4.gif)<-
 -> [rules](https://rentry.co/shinato) ⁝ [interests](https://rentry.co/shinato) ⁝ [ext](https://rentry.co/shinato) <-

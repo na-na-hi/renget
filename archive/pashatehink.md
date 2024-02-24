@@ -21,7 +21,7 @@ Current bans:
 - 4chan: —
 - ~~2ch~~ (left indefinitely)
 
-TO-DO LIST: ~~Stop the descent into depravity as soon as possible.~~ Things are looking bright.
+TO-DO LIST: Kaiju haiku
 
 ##I like...
 ->![If you are here — congrats!](https://files.catbox.moe/0rpynl.gif)<-

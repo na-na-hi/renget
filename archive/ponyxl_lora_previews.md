@@ -422,6 +422,12 @@ https://files.catbox.moe/sgy29u.safetensors pandora
 [![1girl no scores](https://files.catbox.moe/9tzhpu.png)](https://files.catbox.moe/4xpaqk.png)[![1girl scores](https://files.catbox.moe/qias04.png)](https://files.catbox.moe/dxfqxb.png)[![chun-li no scores](https://files.catbox.moe/17p4ml.png)](https://files.catbox.moe/0384of.png)[![2b score_9 only](https://files.catbox.moe/l6d1uu.png)](https://files.catbox.moe/dcw1kj.png)[![korra scores](https://files.catbox.moe/curmk2.png)](https://files.catbox.moe/uysbyx.png)
 https://files.catbox.moe/9io6z4.safetensors noise
 
+[![1girl no scores](https://files.catbox.moe/cp3ndo.png)](https://files.catbox.moe/lk273o.png)[![1girl scores](https://files.catbox.moe/h4god5.png)](https://files.catbox.moe/46o6fm.png)[![chun-li no scores](https://files.catbox.moe/0z6kfy.png)](https://files.catbox.moe/y3he7v.png)[![2b score_9 only](https://files.catbox.moe/llo75m.png)](https://files.catbox.moe/jbozjj.png)[![korra scores](https://files.catbox.moe/51upy6.png)](https://files.catbox.moe/b174mi.png)
+https://files.catbox.moe/z7vz4y.safetensors abmayo requires activation trigger of abmayo, also recommended to use use with score_9,source_anime
+
+[![1girl no scores](https://files.catbox.moe/1ua9yn.png)](https://files.catbox.moe/i9yljd.png)[![1girl scores](https://files.catbox.moe/21dnle.png)](https://files.catbox.moe/zvojf2.png)[![chun-li no scores](https://files.catbox.moe/n52rxp.png)](https://files.catbox.moe/yzvpzg.png)[![2b score_9 only](https://files.catbox.moe/cyj39q.png)](https://files.catbox.moe/npquae.png)[![korra scores](https://files.catbox.moe/y7p1qj.png)](https://files.catbox.moe/3wrfe1.png)
+https://files.catbox.moe/lerky2.safetensors soraname
+
 [![1girl no scores](https://files.catbox.moe/sg8brw.png)](https://files.catbox.moe/zjzq4q.png)[![1girl scores](https://files.catbox.moe/h6irmj.png)](https://files.catbox.moe/4k6q8n.png)[![chun-li no scores](https://files.catbox.moe/jng5ml.png)](https://files.catbox.moe/6sz1y2.png)[![2b score_9 only](https://files.catbox.moe/7se68s.png)](https://files.catbox.moe/uteo7m.png)[![korra scores](https://files.catbox.moe/jtx387.png)](https://files.catbox.moe/mflbqi.png)
 https://files.catbox.moe/jtgi98.safetensors kezime
 

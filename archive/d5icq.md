@@ -11,5 +11,5 @@ i relate to these characters : ![kin](https://files.catbox.moe/458mwj.png)
 
  -> i don’t take this too serious, so everyone is welcome :3 ->
 ![divider2](https://i.postimg.cc/fRpxpB6q/Untitled53-20240201131140.png)
-#### -> go [%#ffe188% !~#ffe188; back ~! %%](bunnyagami) ->
+#### -> go [%#ffe188% !~#ffe188; back ~! %%](bunnydenji) ->
 -> ^ that's a link! ->

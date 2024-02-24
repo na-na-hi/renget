@@ -50,13 +50,13 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 ***
 ####->What Is Star Citizen/Squadron 42?<-
 
-Star Citizen is an ambitious kickstarter videogame project  that consists of an MMO and singleplayer space opera built on a fork of the CryEngine, now officially dubbed StarEngine, first announced on October 10th, 2012 at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the project to their own website, where it continues fundraising today primarily through ship sales—or "pledges," if you will.
+Star Citizen is an ambitious kickstarter videogame project  that consists of an MMO and single-player space opera built on a fork of the CryEngine, now officially dubbed StarEngine, first announced on October 10th, 2012 at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the fundraiser to their own website, where it continued to gain funds primarily through ship sales—or "pledges," if you will.
 
 The MMO portion of Star Citizen, the "**[Persistent Universe](https://starcitizen.tools/Persistent_Universe)**", is an immersive open world space sim  PvPvE sandbox, that is currently still in its alpha development phase. The PU consists of 100 player cap servers and one explorable star system called **Stanton** that is home to:
->4 Planets, 1 of them being a Gas giant.
->4 Handcrafted explorable cities per planet, including a floating city in the gas giant.
->12 Moons, 3 in orbit per planet.
->4 Orbital stations, and 16 more within [Lagrange points](https://starcitizen.tools/Lagrangian_point).
+>4 planets, 1 of them being a Gas giant.
+>4 handcrafted explorable cities per planet, including a floating city in the gas giant.
+>12 moons, 3 in orbit per planet.
+>4 orbital stations, and 16 more within [Lagrange points](https://starcitizen.tools/Lagrangian_point).
 
 Along with derelict outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, derelict settlements, [a prison](https://starcitizen.tools/Prison), and an outlaw space station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens. There are over [100 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've given a brief rundown further down below. 
 
@@ -68,9 +68,7 @@ As of Citizencon 2023, [CIG has announced SQ42 is now "feature complete"](https:
 ***
 ***
 ###->What is there to do in-game?<-
-There is actually quite a bit to do right now, **barring any unforeseen bugs and glitches**. I will list out the current professions here, with a brief summary for each, and let you decide on what sounds more appealing.
-
-!!! note Missions can be accessed in your Mobi-Glass's "Contract" manager app. Try them all to see what you like, and don't burn yourself out on just doing one mindless grind for money. These can all be done solo.
+Here I will list out the current professions Star Citizen has to offer (in their alpha/incomplete state) with a brief summary for each, and let you decide on what sounds appealing to your preferred playstyle. Give each one a chance, and don't burn yourself out on just doing one mindless grind for money. **These can all be done solo.**
 
 - **[Mining](https://starcitizen.tools/Mining)**
 
@@ -116,7 +114,7 @@ There are illegal missions you can take in the "Personal" tab in the contracts m
 
 Currently the best method of making piracy worthwile is to work in a group and take over some boomers cargo ship and steal its contents (that he spent all day waiting at a terminal for) or camp outside popular smuggling hotspots, then sell the stolen goods for yourself. Don't forget to wear your [bear helmet](https://starcitizen.tools/Fieldsbury_Dark_Bear_Helmet) for extra salt mining in allchat.
 
-->**Honorable mentions**<-
+####->**Honorable mentions**<-
 
 - **Exploration** 
 
@@ -165,7 +163,7 @@ Events: | Description:
 ***
 ***
 ###->Star Citizens Gameplay Performance<-
-!!! note CIG's new in-house-built ["Gen12 Renderer"](https://www.youtube.com/watch?v=SV9_chUpDgc) has fully replaced CryEngine's legacy rendering engine as of 3.18, and work continues to integrate the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825), and various other optimizations to help improve client performance.
+!!! note CIG's new in-house ["Gen12 rendering engine"](https://www.youtube.com/watch?v=SV9_chUpDgc) has fully replaced CryEngine's legacy renderer as of 3.18, and work continues to integrate the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825), to help improve client performance and introduce more graphic enhancements.
 >**[System Recommendations](https://rentry.org/guier/#system-recommendations)
 >[Additional Performance Notes](https://rentry.org/guier/#additional-performance-notes)
 >[How to Display Your FPS/Ping](https://rentry.org/guier/#how-to-display-your-fpsping)
@@ -173,7 +171,7 @@ Events: | Description:
 
 It's a given that, as this project is still undergoing heavy development, there will be a lack of optimization, bugs, and occasional memory leaks here and there that will make some aspects of the game miserable. You should not be expecting smooth and consistent framerates right now.
 
-Note that the servers themselves are always under constant strain 24/7, so lag, desync and stuttering are very much commonplace. There's also a common misconception that the servers performance affects your games FPS, **[this is false](https://files.catbox.moe/eca1vl.png)**.
+Note that the servers themselves are always under constant strain 24/7, so lag, desync and stuttering are very much commonplace. There's also a misconception that the servers performance affects your games FPS, **[this is false](https://files.catbox.moe/eca1vl.png)**.
 ***
 ####System Recommendations
 !!! danger INSTALLING STAR CITIZEN ON A SSD IS MANDATORY. NO EXCEPTIONS.

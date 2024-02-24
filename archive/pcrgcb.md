@@ -233,8 +233,6 @@ Creditta 5★ Lv298 R32 FULL, EX 5/5/5
 
 
 ### Boss 4
-![](https://pomf2.lain.la/f/r9o6gb0y.png)
-
 [B4 phys 5 Manuals 108-112m](https://www.youtube.com/watch?v=lR7Vm7zZR1w) 
 ![](https://pomf2.lain.la/f/3gp1wzfq.png)
 Tested with: 
