@@ -1,1 +1,1 @@
-[**url claimed**](https://rentry.co/sparklypup), up for trade! / discord: echofluffy
+claimed by [kitt](/kitthoard)!

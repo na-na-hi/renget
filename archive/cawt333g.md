@@ -5,7 +5,7 @@ This Rentry serves as an easier way to preview the [LoRAs I have uploaded to MEG
 ## Rentry Index
 
 [NAI](https://rentry.org/zp7g6)
-[Furryrock](https://rentry.org/83o5)
+[Furryrock](https://rentry.org/83o5t)
 **Pony (SDXL)**  ← You are here
 
 ## Table of Contents

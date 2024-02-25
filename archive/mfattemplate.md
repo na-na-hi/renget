@@ -16,7 +16,7 @@
 
 Previous Thread: ==PUT LAST THREAD'S DESUARCHIVE LINK HERE==
 
-Writefag Pastebin: https://www.4binz.org/238
+Writefag Pastebin: https://controlc.com/2375e5ea
 
 Thread Template: https://rentry.org/mfattemplate
 

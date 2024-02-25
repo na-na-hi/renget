@@ -14,18 +14,18 @@
 	> ->**Updates**<-
 
 	>==Audio== 
-	> - **02/15 - Added**
-	>- [62. eep](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/u41WRD5B)
 	> - **02/22 - Added**
 	>- [#63. i sing](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/jstGVAxT)
+	> - **02/25 - Added**
+	>- [#64. ENTERING EMO HOURS](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/6o1zEQoI)
 	
 	>==Karaoke Clips==
-	> - **02/15 - Added**
-	>- [#62. 『2024-02-12』 - 【UNARCHIVED KARAOKE 歌枠】eep #shorts [EJxBC5F8F2Q]](https://rentry.org/5y2mt/#2024-02-12-unarchived-karaoke-%E6%AD%8C%E6%9E%A0eep-shorts-ejxbc5f8f2q)
 	> - **02/22 - Added**
 	>- ~~[#63. 『2024-02-22』 - i sing ムメイは歌う #shorts [pZUSRxaNp10]](https://rentry.org/5y2mt/#2024-02-22-i-sing-%E3%83%A0%E3%83%A1%E3%82%A4%E3%81%AF%E6%AD%8C%E3%81%86-shorts-pzusrxanp10)~~
 	> - **02/23 - Updated** - 『**I removed the clips and added timestamps**』
 	>- [#63. 『2024-02-22』 - i sing ムメイは歌う #shorts [pZUSRxaNp10]](https://rentry.org/5y2mt/#2024-02-22-i-sing-%E3%83%A0%E3%83%A1%E3%82%A4%E3%81%AF%E6%AD%8C%E3%81%86-shorts-pzusrxanp10)
+	> - **02/25 - Added**
+	>- [#64. 『2024-02-25』 - 【UNARCHIVED KARAOKE 歌枠】 ENTERING EMO HOURS [79SgmXMbf3c]](https://rentry.org/5y2mt/#2024-02-25-unarchived-karaoke-%E6%AD%8C%E6%9E%A0-entering-emo-hours-79sgmxmbf3c)
 	
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -38,7 +38,7 @@
 
 ***
 !!! danger  Audio Only https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ
-	Total: 1,051 Songs 
+	Total: 1,070 Songs 
 
 [TOC3]
 
@@ -224,7 +224,7 @@ Baby, It's Cold Outside - Dean Martin   |   https://files.catbox.moe/poi5d9.mp4 
 You're A Mean One, Mr. Grinch   |  https://files.catbox.moe/1rgzq9.mp4    |   https://cldup.com/YhyxV9tZ9a.mp4
 Let It Snow! Let It Snow! Let It Snow!   |  https://files.catbox.moe/v33aof.mp4    |   https://cldup.com/ibccIaKPGv.mp4
 Winter Wonderland   |   https://files.catbox.moe/0dmf7n.mp4   |   https://cldup.com/UW0fouZlXr.mp4
-Rudolph the Red-Nosed Reindeer   |  https://files.catbox.moe/ewj2un.mp4    |   https://cldup.com/ZYeRK0LB6D.mp4
+Rudolph, the Red-Nosed Reindeer   |  https://files.catbox.moe/ewj2un.mp4    |   https://cldup.com/ZYeRK0LB6D.mp4
 We Wish You a Merry Christmas   |   https://files.catbox.moe/sqqaxk.mp4   |   https://cldup.com/mOMw1cB5lj.mp4
 We Wish You a Merry Christmas (Round 2)   |  https://files.catbox.moe/bmtti1.mp4    |   https://cldup.com/a3cmeXXptJ.mp4
 Up On The Housetop   |   https://files.catbox.moe/s1id79.mp4   |   https://cldup.com/afXuvGSK7E.mp4
@@ -959,7 +959,7 @@ Cancer - My Chemical Romance  | https://files.catbox.moe/q4w5fz.mp4  |   https:/
 Last Christmas - Wham!  | https://files.catbox.moe/xz0rs0.mp4  |  https://cldup.com/97tCJyW5P6.mp4
 Silent Night  | https://files.catbox.moe/l2awez.mp4  |   https://cldup.com/gmJSNoFB4k.mp4
 Jingle Bells  | https://files.catbox.moe/tyu5f3.mp4  |   https://cldup.com/fDYgB6Vn_5.mp4
-Rudolph the Red-Nosed Reindeer  | https://files.catbox.moe/eegt7b.mp4  |   https://cldup.com/qZTgX-bqYs.mp4
+Rudolph, the Red-Nosed Reindeer  | https://files.catbox.moe/eegt7b.mp4  |   https://cldup.com/qZTgX-bqYs.mp4
 Frosty the Snowman  | https://files.catbox.moe/bs0577.mp4  |   https://cldup.com/y4A7OZYTPF.mp4
 My Immortal - Evanescence  | https://files.catbox.moe/4pj8sj.mp4  |   https://cldup.com/BpvQS3fvfp.mp4
 It's All Coming Back to Me Now - Celine Dion  | https://files.catbox.moe/b9o7fg.mp4  |   https://cldup.com/FsK3E-qNtr.mp4
@@ -976,7 +976,7 @@ Song | Catbox | Cloudup
 ------ | ------ | ------
 Jingle Bells  | https://files.catbox.moe/fwirpm.mp4  |   https://cldup.com/miY2owcGIF.mp4
 The Twelve Days of Christmas  | https://files.catbox.moe/o48j8d.mp4  |   https://cldup.com/cuZm-tmDPj.mp4
-Rudolph the Red-Nosed Reindeer  | https://files.catbox.moe/erbpu1.mp4  |   https://cldup.com/HPHZzBUEc3.mp4
+Rudolph, the Red-Nosed Reindeer  | https://files.catbox.moe/erbpu1.mp4  |   https://cldup.com/HPHZzBUEc3.mp4
 Rockin Around the Christmas Tree - Brenda Lee  | https://files.catbox.moe/xkufyr.mp4  |  https://cldup.com/Yv5dghjKD5.mp4 
 Winter Wonderland  | https://files.catbox.moe/e9tyin.mp4  |   https://cldup.com/WKehwiGHuN.mp4
 Feliz Navidad - Jose Feliciano  | https://files.catbox.moe/81abyj.mp4  |   https://cldup.com/FvXo0IVZTC.mp4
@@ -1449,7 +1449,7 @@ The Twelve Days of Christmas | https://files.catbox.moe/gv9jz9.mp4  |  https://c
 Feliz Navidad - Jose Feliciano | https://files.catbox.moe/za7xxo.mp4  |  https://cldup.com/Q9o00MpMGm.mp4
 Jingle Bells | https://files.catbox.moe/op18e0.mp4  |  https://cldup.com/IroWmD_6q3.mp4
 Let It Snow! Let It Snow! Let It Snow! | https://files.catbox.moe/kmu5yg.mp4  |  https://cldup.com/o1zHITIZQ8.mp4
-Rudolph the Red-Nosed Reindeer - Gene Autry | https://files.catbox.moe/r3dd9q.mp4  |  https://cldup.com/Fb7xsbhzAw.mp4
+Rudolph, the Red-Nosed Reindeer | https://files.catbox.moe/r3dd9q.mp4  |  https://cldup.com/Fb7xsbhzAw.mp4
 Frosty the Snowman | https://files.catbox.moe/dsvgss.mp4  |  https://cldup.com/zrhxOXlU-3.mp4
 Up on the House Top | https://files.catbox.moe/vh1vrn.mp4  |  https://cldup.com/NvfQWhj4U3.mp4
 My Favorite Things - The Sound of Music | https://files.catbox.moe/u8a0ab.mp4  |  https://cldup.com/93oh42L3n0.mp4
@@ -1582,7 +1582,33 @@ OTONABLUE - Atarashii Gakko! |  https://files.catbox.moe/gnl58n.mp4 |  https://c
 16. [Uso - SID](https://youtu.be/pZUSRxaNp10?t=6650)
 
 ***
+######『2024-02-25』 - 【UNARCHIVED KARAOKE 歌枠】 ENTERING EMO HOURS [79SgmXMbf3c]
+[Go back to the top](https://rentry.org/5y2mt)
+Song | Catbox | Cloudup
+------ | ------ | ----
+American Idiot - Green Day | https://files.catbox.moe/ec6fno.mp4  |  https://cldup.com/aYGbmRAzR3.mp4
+Basket Case - Green Day |  https://files.catbox.moe/omx0ht.mp4 |  https://cldup.com/_P0bwmuyfc.mp4
+I'm Just a Kid - Simple Plan | https://files.catbox.moe/uqbi6d.mp4  |  https://cldup.com/jFwfCAQc7u.mp4
+Always - Blink-182 | https://files.catbox.moe/b759k0.mp4  |  https://cldup.com/bxZt2AUPHW.mp4
+I Miss You - Blink-182 | https://files.catbox.moe/9jgmqg.mp4  |  https://cldup.com/vB5xXbUHjg.mp4
+Bulletproof Love - Pierce The Veil | https://files.catbox.moe/22p9dr.mp4  |  https://cldup.com/ttrcxH1d5N.mp4
+Check Yes, Juliet - We The King |  https://files.catbox.moe/co7kt7.mp4 |  https://cldup.com/8wKzHGMrtw.mp4
+Sugar, We're Goin Down - Fall Out Boy |  https://files.catbox.moe/ya5al0.mp4 |  https://cldup.com/oYnhvPXL0S.mp4
+Dance, Dance - Fall Out Boy | https://files.catbox.moe/1q5dbf.mp4  |  https://cldup.com/UWqBMNX2Se.mp4
+Mr. Brightside - The Killers |  https://files.catbox.moe/k560r2.mp4 |  https://cldup.com/OacIekjnYk.mp4
+Drown - Bring Me The Horizon | https://files.catbox.moe/dsg94i.mp4  |  https://cldup.com/zV-hZeBWhJ.mp4
+Sleepwalking - Bring Me The Horizon | https://files.catbox.moe/g158pu.mp4  |  https://cldup.com/kpxuC0rp46.mp4
+I Don't Like Who I Was Then - The Wonder Years | https://files.catbox.moe/n5sejd.mp4  |  https://cldup.com/5CsS5obQvE.mp4
+Cigarettes & Saints - The Wonder Years (Acapella) | https://files.catbox.moe/d1790y.mp4  |  https://cldup.com/Cq8kZUxxHI.mp4
+The Anthem - Good Charlotte | https://files.catbox.moe/ak1jm6.mp4  |  https://cldup.com/cDOh7X9a5x.mp4
+A Part Of Me - Neck Deep Ft. Laura Whiteside | https://files.catbox.moe/9t8yms.mp4  |  https://cldup.com/7E07HImdol.mp4
+Teenagers - My Chemical Romance | https://files.catbox.moe/y04ujs.mp4  |  https://cldup.com/kPs4_EpJeK.mp4
+Still Into You - Paramore | https://files.catbox.moe/fn3fy5.mp4  |  https://cldup.com/n2yDN6Ap7E.mp4
+Welcome To The Black Parade - My Chemical Romance | https://files.catbox.moe/ihzfjd.mp4  |  https://cldup.com/bgf1imVl7m.mp4
+Disenchanted - My Chemical Romance | https://files.catbox.moe/274cla.mp4  |  https://cldup.com/A9hAhHvwfJ.mp4
 
+
+***
 
 ***
 !!! note

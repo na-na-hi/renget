@@ -1,4 +1,4 @@
--> ![](https://media.discordapp.net/attachments/1166499529953128508/1199827124920528906/image_1.png?ex=65c3f516&is=65b18016&hm=4d54c11be727d10384f9a1c4e5b51dfcd8c4da956f537b13b69c4fdf0397e4a5&=&format=webp&quality=lossless) <-
+-> ![](https://files.catbox.moe/6u9e86.webp) <-
 
 -> ![](https://files.catbox.moe/962ics.gif) **Do Not Interact . . .** <-
 

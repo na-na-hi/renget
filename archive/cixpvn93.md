@@ -2,7 +2,7 @@
 -> ![KoboldAi icon](https://files.catbox.moe/5g2475.png) <-
 
 !!! info Don't want to read?
-	Get [koboldcpp](https://github.com/LostRuins/koboldcpp/releases) (regular .exe), download [this](https://huggingface.co/KoboldAI/Mixtral-8x7B-Holodeck-v1-GGUF/resolve/main/Mixtral-8x7B-holodeck-v1.Q4_K_M.gguf?download=true) and plug it in.
+	Get [koboldcpp](https://koboldai.org/cpp) (regular .exe), download [this](https://huggingface.co/KoboldAI/Mixtral-8x7B-Holodeck-v1-GGUF/resolve/main/Mixtral-8x7B-holodeck-v1.Q4_K_M.gguf?download=true) and plug it in.
 
 This is a short complication of various Kobold links — an attempt to streamline and condense all the information in a simple format. The page is intended for people who want to try local/cloud alternatives to NAI but don't have much experience with it. You have a couple of different options, and they are listed from easiest/cheapest to harder and more expensive.
 
@@ -16,7 +16,7 @@ Quantization allows to compress the models to smaller sizes with only small loss
 
 Generation is done on the CPU, with an option of offloading the model into VRAM. The more of it you offload, the faster it will run. If you can load the entire model into VRAM, you are encouraged to use GPU-only inference options instead.
 
-If not, all you need to do is to download koboldcpp from its [releases page](https://koboldai.org/cpp), download a .gguf quantization of your [favorite model](https://huggingface.co/) that you can run at speeds tolerable (for (You)) and select it via the GUI or drag and drop it.
+If not, all you need to do is to download koboldcpp from its [releases page](https://koboldai.org/cpp), download a .gguf quantization of your [favorite model](https://huggingface.co/) that you can run at tolerable speeds (for (You)) and select it via the GUI or drag and drop it.
 
 The repository readme should cover the basics, but if you have any questions, koboldccp has a [Github wiki page](https://github.com/LostRuins/koboldcpp/wiki) with more detailed explanations.
 
@@ -47,6 +47,10 @@ You can also use Runpod with koboldcpp instead of KoboldAI. All details on setti
 
 New model provider option, supposedly the cheapest and the easiest to use. Mostly hosts chat and instruct models. Unlike Runpod and other GPU rentals, you pay for model tokens, not GPU time. Is supported by [Kobold Lite](https://lite.koboldai.net/). Simply choose it after clicking "Use Custom Endpoint" in "AI" tab.
 
+### [Together AI](https://www.together.ai/)
+
+Their API is supported in [Kobold Lite](https://lite.koboldai.net/) if you use OpenAI endpoint. Simply put https://api.together.xyz/v1 instead of OpenAI URL and paste in your Together key. Uncheck "Use ChatCompletions API" so you can use it raw.
+
 ## [koboldcpp on Google Colab](https://koboldai.org/colabcpp)
 
 Will run .gguf quants of the models using Google's hardware. You can load other models (including NSFW), as long as you correctly provide the direct link following the default model example. Keep it to 13B Q4_K_M sizes unless you know what you are doing. It should support any model current main branch koboldcpp does. Simply wait for the cell to execute and follow the remote tunnel link that is printed once it's done.
@@ -70,6 +74,6 @@ With this client, you need to use exl2 quants you can get from [Hugging Face](ht
 
 ### [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
 
-An alternative to KoboldAI. Has more active development and supports a lot more modern features. You also need to get exl2 quants for it (although it supports all other options, including CPU generation). The interface is lacking, but it can used with either [Mikupad](https://github.com/lmg-anon/mikupad) or [Sillly Tavern](https://github.com/SillyTavern/SillyTavern).
+An alternative to KoboldAI. Has more active development and supports a lot more modern features. You also need to get exl2 quants for it (although it supports all other options, including CPU generation). The interface is lacking, but it can be used with either [Mikupad](https://github.com/lmg-anon/mikupad) or [Sillly Tavern](https://github.com/SillyTavern/SillyTavern).
 
 Some of the above options are not recommended by certain users who use AI for storywriting with prose. Try them and see if they satisfy your needs.

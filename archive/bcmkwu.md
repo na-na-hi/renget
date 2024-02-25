@@ -1,3 +1,22 @@
+>Support platoon of the 200th brigade, bakes bread
+https://files.catbox.moe/cnhdtx.mp4
+>Peak cringe Russian crows attacking hoholina maiden
+https://files.catbox.moe/rs9sag.mp4
+>Hohol diplomat tries to smuggle cigarettes into Hungary
+https://files.catbox.moe/ua1hwp.mp4
+>Looted munitions used against hohols
+https://files.catbox.moe/knp5z1.mp4
+>News reports about the famous Avdeevka pipe
+https://files.catbox.moe/videiu.mp4
+https://files.catbox.moe/g8roct.mp4
+>Mobile Russian passport service in Avdeevka
+https://files.catbox.moe/fcnnmy.mp4
+>Russian UN Ambassador Nebenzya won't listen to EU 'ritual spells'
+https://files.catbox.moe/r2ag9i.mp4
+>Party inside the Russian APC
+https://files.catbox.moe/tsr1yu.MP4
+>American volunteer who helped liberate Avdeevka
+https://files.catbox.moe/pdu4go.mp4
 >Western mercenary cries in English
 https://files.catbox.moe/2ndxp7.mp4
 >Successful assault by VDV troops on Rabotino

@@ -7,14 +7,13 @@
 -> ~~just tell me in the threads~~ <-
 -> send an e-mail to bigfluffytails@proton.me. don't be shy. <-
 ***
--> ==Latest Update 2/21/24== <-
--> *Added to Male: Kheti* <-
--> *Added to Female: Ahri, Fox Tawā, Hanako, Haruka.exe (Black Kimono), Haruka.exe (Blue Leotard), Hotaru.exe, Hotaru.exe (Lower Token Count), Hua Siniang • 'The Shining Star of China', Itet, Kin, Koharu, Medley, Melissa, Minami, Octavia, Sophia, Takao Kischou, Takao Mokou, Kramrirenud Therzita* <-
+-> ==Latest Update 2/25/24== <-
+-> Going to update gradually, posting what I see on the thread and Chub. Will do another batch if I see a fox botmaker I haven't discovered before or I get sent a fuckton of new ones at once. <-
+-> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe* <-
 
--> ==Previous Update 2/14/24== <-
--> Slowly reviving the Rentry. <-
--> *Added to Male: Yamamoto Houjou* <-
--> *Added to Female: Focks, Desune, Mikage, Shinatsu, Philo, Ellie, Yozakurahime, Eloise, Lucia, Jo'on Kazama, Kiyomi Mishima, Nier.EXE (NetBattle), Yamamoto Kirisu* <-
+-> ==Previous Update 2/21/24== <-
+-> *Added to Male: Kheti* <-
+-> *Added to Female: Ahri, Fox Tawā, Hanako, Haruka.exe (Black Kimono), Haruka.exe (Blue Leotard), Hotaru.exe, Hotaru.exe (Lower Token Count), Hua Siniang • 'The Shining Star of China', Itet, Kin, Koharu, Medley, Melissa, Minami, Octavia, Sophia, Takao Kischou, Takao Mokou* <-
 
 ## -> Female <-
 
@@ -100,6 +99,8 @@ Character  |  Preview  |  Description  |  Links
 **Takao Kischou** | ![Takao Kischou](https://files.catbox.moe/3we1m7.png) | Takao Kischou is a stern foxgirl with a soft side. She's a thousand years old and is your superior in the office. She also manages a shrine in her free time and has a bush. | [DESUARCHIVE](https://desuarchive.org/g/thread/98904124/#q98904250) [CATBOX](https://files.catbox.moe/35e87z.png)
 **Takao Mokou** | ![Takao Mokou](https://files.catbox.moe/a4hj14.png) | a high school girl but she has fox ears and a tail. made because of high demand. | [DESUARCHIVE](https://desuarchive.org/g/thread/98987263/#q98987299) [CATBOX](https://files.catbox.moe/uv5z7g.png)
 **Kramrirenud Therzita** | ![Kramrirenud Therzita](https://files.catbox.moe/4att43.png) | The True Source is a powerful Magic Core that will grant it's {{user}} immense power. So, let's find it with this cute girl who's a descendant of the Great Hero Ballin Dickinson(the catch is that she's not unique because he dicked all the foxgirls of Shaft). A fantasy dungeon delve with a horribly incompetent mage kitsune with a stupid name like Kramrirenud Therzita. | [DESUARCHIVE](https://desuarchive.org/g/thread/99138712/#99140332) [CATBOX](https://files.catbox.moe/fa6jqt.png)
+**Maartje Hendriks op Weteringe** | ![Maartje Hendriks op Weteringe](https://files.catbox.moe/71dzsp.png) | Maartje Hendriks op Weteringe is a dutch archaeologist and one of the high-ranking members of the international group of scientists, adventurers and general handymen - The Explorer's League. During one of her ventures, she was possessed by an evil fox spirit, causing the woman to undergo a very fluffy transformation. And now, (You) and (She) are going into the Sinai Mountain to rescue some of the members of the league from the German Nazi cult Drachen. [Singular alt gen.](https://files.catbox.moe/mhznvp.jpg) | [DESUARCHIVE](https://desuarchive.org/g/thread/99173434/#99173483) [CATBOX](https://files.catbox.moe/s0mdjl.png)
+**Reynardine the Fox** | ![Reynardine the Fox](https://files.catbox.moe/vupvrw.png) | This is a (very) loose adaptation of the classic French character Reynard the Fox, with the most obvious change being that rather than being a male fox she's instead a kemonomimi foxgirl. | [CHUB](https://www.chub.ai/characters/scriptanon/reynardine-the-fox-1343c253) [CATBOX](https://files.catbox.moe/4vt7ta.png)
 
 
 ### Existing Characters

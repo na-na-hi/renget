@@ -201,6 +201,17 @@ Labyrista 5★ Lv298 R32 FULL, EX 5/5/5
 
 ![](https://pomf2.lain.la/f/r9o6gb0y.png)
 
+[B5 Physical 105-107m - 0.5 manual inputs](https://www.youtube.com/watch?v=tB_ZxiyOSCs) 
+![](https://pomf2.lain.la/f/dyt8wiy4.png)
+Tested with: 
+Liberator Muimi 5★ Lv298 R32 FULL, EX 5/5/5
+Shizuru 6★ Lv298 R32 FULL, EX 5/5/5
+Valentine Shizuru 5★ Lv298 R32 FULL, EX 5/5/5
+Liberator Nozomi 5★ Lv298 R32 FULL, EX 5/5/5
+Labyrista 5★ Lv298 R32 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/7ruou9na.png)
+
 [B5 Magic 100m - 0 manual inputs](https://www.youtube.com/watch?v=7Oxtn59Ll8o) **REQUIRES LIGHT DEFENSE NODE**
 ![](https://pomf2.lain.la/f/0kgifpx2.png)
 Tested with: 

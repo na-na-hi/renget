@@ -25,16 +25,16 @@ Dates are based on EST
 	> ->**Updates**<-
 
 	>==Audio== 
-	> - **02/15 - Added**
-	>- [62. eep](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/u41WRD5B)
 	> - **02/22 - Added**
 	>- [#63. i sing](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/jstGVAxT)
+	> - **02/25 - Added**
+	>- [#64. ENTERING EMO HOURS](https://mega.nz/folder/Ho0xGAgK#ByT1qB0cr_J2zTEt50KqPQ/folder/6o1zEQoI)
 
 	>==Chapters== 
-	> - **02/15 - Added**
-	>- [#62. 『2024-02-12』 - 【UNARCHIVED KARAOKE 歌枠】eep #shorts [EJxBC5F8F2Q]](https://rentry.org/irdxq/#2024-02-12-unarchived-karaoke-%E6%AD%8C%E6%9E%A0eep-shorts-ejxbc5f8f2q) 
 	> - **02/22 - Added**
 	>- [#63. 『2024-02-22』 - i sing ムメイは歌う #shorts [pZUSRxaNp10]](https://rentry.org/irdxq/#2024-02-22-i-sing-%E3%83%A0%E3%83%A1%E3%82%A4%E3%81%AF%E6%AD%8C%E3%81%86-shorts-pzusrxanp10)
+	> - **02/25 - Added**
+	>- [#64. 『2024-02-25』 - 【UNARCHIVED KARAOKE 歌枠】 ENTERING EMO HOURS [79SgmXMbf3c]](https://rentry.org/irdxq/#2024-02-25-unarchived-karaoke-%E6%AD%8C%E6%9E%A0-entering-emo-hours-79sgmxmbf3c)
 
 	>==Mumei Radio== - 03/25 - Updated - [Here](https://rentry.org/Mumei-Radio)
 	
@@ -450,7 +450,7 @@ CHAPTER08NAME=07. Let It Snow! Let It Snow! Let It Snow!
 CHAPTER09=00:36:18.000
 CHAPTER09NAME=08. Winter Wonderland
 CHAPTER10=00:39:24.000
-CHAPTER10NAME=09. Rudolph the Red-Nosed Reindeer
+CHAPTER10NAME=09. Rudolph, the Red-Nosed Reindeer
 CHAPTER11=00:42:21.000
 CHAPTER11NAME=10. We Wish You a Merry Christmas
 CHAPTER12=00:43:45.000
@@ -676,7 +676,6 @@ CHAPTER49=03:00:16.133
 CHAPTER49NAME=26. 680 South - The Story So Far (Acapella)
 CHAPTER50=03:03:20.133
 CHAPTER50NAME=Empty Space - The Story So Far (Acapella)
-
 
 ```
 ######『2022-01-16』 - Unarchived Caffeine Crash Karaoke [qjEiRm8apMI]
@@ -2421,7 +2420,7 @@ CHAPTER43NAME=39. Silent Night
 CHAPTER44=04:53:34.570
 CHAPTER44NAME=40. Jingle Bells
 CHAPTER45=04:56:51.170
-CHAPTER45NAME=41. Rudolph the Red-Nosed Reindeer
+CHAPTER45NAME=41. Rudolph, the Red-Nosed Reindeer
 CHAPTER46=05:01:09.580
 CHAPTER46NAME=42. Frosty the Snowman
 CHAPTER47=05:03:58.440
@@ -2448,7 +2447,7 @@ CHAPTER00NAME=01. Jingle Bells
 CHAPTER01=00:08:28.000
 CHAPTER01NAME=02. The Twelve Days of Christmas
 CHAPTER02=00:13:59.000
-CHAPTER02NAME=03. Rudolph the Red-Nosed Reindeer
+CHAPTER02NAME=03. Rudolph, the Red-Nosed Reindeer
 CHAPTER03=00:16:53.000
 CHAPTER03NAME=04. Rockin Around the Christmas Tree - Brenda Lee
 CHAPTER04=00:20:03.000
@@ -3557,7 +3556,7 @@ CHAPTER04NAME=03. Jingle Bells
 CHAPTER05=00:29:59.679
 CHAPTER05NAME=04. Let It Snow! Let It Snow! Let It Snow!
 CHAPTER06=00:33:30.033
-CHAPTER06NAME=05. Rudolph the Red-Nosed Reindeer - Gene Autry
+CHAPTER06NAME=05. Rudolph, the Red-Nosed Reindeer
 CHAPTER07=00:39:24.558
 CHAPTER07NAME=06. Frosty the Snowman
 CHAPTER08=00:44:27.000
@@ -3988,6 +3987,62 @@ CHAPTER29=01:50:50.933
 CHAPTER29NAME=16. Uso - SID
 
 ```
+######『2024-02-25』 - 【UNARCHIVED KARAOKE 歌枠】 ENTERING EMO HOURS [79SgmXMbf3c]
+[Go back to the top](https://rentry.org/irdxq/)
+```
+CHAPTER00=00:00:00.000
+CHAPTER00NAME=Opening
+CHAPTER01=00:02:46.000
+CHAPTER01NAME=Start
+CHAPTER02=00:06:30.000
+CHAPTER02NAME=01. American Idiot - Green Day
+CHAPTER03=00:10:29.000
+CHAPTER03NAME=02. Basket Case - Green Day
+CHAPTER04=00:14:47.767
+CHAPTER04NAME=03. I'm Just a Kid - Simple Plan
+CHAPTER05=00:19:50.767
+CHAPTER05NAME=04. Always - Blink-182
+CHAPTER06=00:24:26.767
+CHAPTER06NAME=05. I Miss You - Blink-182
+CHAPTER07=00:30:20.767
+CHAPTER07NAME=06. Bulletproof Love - Pierce The Veil
+CHAPTER08=00:34:58.767
+CHAPTER08NAME=07. Check Yes, Juliet - We The King
+CHAPTER09=00:38:44.767
+CHAPTER09NAME=Time for a breather
+CHAPTER10=00:41:06.767
+CHAPTER10NAME=08. Sugar, We're Goin Down - Fall Out Boy
+CHAPTER11=00:45:30.767
+CHAPTER11NAME=09. Dance, Dance - Fall Out Boy
+CHAPTER12=00:50:24.767
+CHAPTER12NAME=10. Mr. Brightside - The Killers
+CHAPTER13=00:55:46.767
+CHAPTER13NAME=11. Drown - Bring Me The Horizon
+CHAPTER14=01:00:10.767
+CHAPTER14NAME=12. Sleepwalking - Bring Me The Horizon
+CHAPTER15=01:07:52.767
+CHAPTER15NAME=Duvet
+CHAPTER16=01:09:07.767
+CHAPTER16NAME=13. I Don't Like Who I Was Then - The Wonder Years
+CHAPTER17=01:12:48.767
+CHAPTER17NAME=Cigarettes & Saints - The Wonder Years (Acapella)
+CHAPTER18=01:15:46.767
+CHAPTER18NAME=14. The Anthem - Good Charlotte
+CHAPTER19=01:19:36.767
+CHAPTER19NAME=15. A Part Of Me - Neck Deep Ft. Laura Whiteside
+CHAPTER20=01:23:56.767
+CHAPTER20NAME=16. Teenagers - My Chemical Romance
+CHAPTER21=01:27:05.767
+CHAPTER21NAME=Misery Business (Acapella)
+CHAPTER22=01:27:41.767
+CHAPTER22NAME=17. Still Into You - Paramore
+CHAPTER23=01:33:34.058
+CHAPTER23NAME=18. Welcome To The Black Parade - My Chemical Romance
+CHAPTER24=01:39:20.767
+CHAPTER24NAME=19. Disenchanted - My Chemical Romance
+
+```
+
 ***
 
 ***

@@ -30,6 +30,7 @@ https://files.catbox.moe/2kiajb.ps1
 https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003, you would have to look at the lora metadata to know what to prompt, there's flesh on the walls and stuff, fun to mess with
 https://files.catbox.moe/d9k7nf.safetensors slay_the_princess a visual novel that came out last year that has a sketchy art style, supports 5 of the game's characters: adversary, specter, nightmare, tower, and witch you have to prompt for their features to get them to show up, this file has the characters with their associated tags: https://files.catbox.moe/uprfne.txt, here's some example gens: https://files.catbox.moe/32eskz.png, https://files.catbox.moe/c87hl7.png, https://files.catbox.moe/kp5hbk.png, https://files.catbox.moe/jta8v1.png, https://files.catbox.moe/jsz1rp.png
 https://files.catbox.moe/te26ne.safetensors braces activation trigger is braces, some colors were tagged, rainbow braces, red braces, yellow braces, pink, braces, you pretty much HAVE to inpaint because the target area is typically going to be quite small in the image, could also try adetailer lips model
+https://files.catbox.moe/7723pp.safetensors doll a toy doll, activation trigger is doll, based on a set of photos so you'll have to use a style lora or some style triggers to make the image not a photo, works best with artists that have a more realistic style
 
 ###Concepts
 https://files.catbox.moe/f6r1nl.safetensors shared_clothes keyword is SharedClothes, example gen: https://files.catbox.moe/oddiam.png
@@ -38,6 +39,7 @@ These are from the below mega, a couple were resized from their original size to
 https://files.catbox.moe/hfpslw.safetensors empty_eyes_drooling example gen: https://files.catbox.moe/p7aido.png
 https://files.catbox.moe/9qixqa.safetensors glowing_eyes activation trigger is glowing eyes
 https://files.catbox.moe/yz5c9g.safetensors quadruple_amputee activation trigger is quadruple amputee
+https://files.catbox.moe/tlt57h.safetensors ugly_bastard prompt stuff like ugly_male, ugly_bastard, old_male
 
 Resized ones:
 https://files.catbox.moe/z71ic0.safetensors sex_machine activation trigger is sex machine

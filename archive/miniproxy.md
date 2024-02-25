@@ -13,6 +13,7 @@ openai output size: 4096
 anthropic output size: 4000
 ```
 
+actual token count is a lot higher. Will purge the banned tokens later.
 total **active** users: 115 %red% (CLOSED) %%
 ***
 
