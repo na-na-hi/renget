@@ -128,7 +128,7 @@ _______
 |【UNARCHIVED KARAOKE 歌枠】1 MILLION SUBSCRIBER CELEBRATION TAKE 2 『2024-01-30』| [![](https://files.catbox.moe/9l828x.jpg)](magnet:?xt=urn:btih:33be97443f69b57e5c039d0e15f5f574b7a86148&dn=%5B20240131%5D%20Unarchived%201M%20Celebration%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/1hxfit.txt| 
 | 【UNARCHIVED KARAOKE 歌枠】eep 『2024-02-12』| [![](https://files.catbox.moe/uikg1o.jpg)](magnet:?xt=urn:btih:4223842d5b7d97e50a3df495e26cede1fdcf5aed&dn=%5B20240213%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/h6bvcp.txt|
 | i sing ムメイは歌う 『2024-02-21』\| [(Supposed to be unarchived but due to technicalities with announcements it will remain for an unspecified time)](https://www.youtube.com/watch?v=pZUSRxaNp10)| [![](https://files.catbox.moe/hf4kj7.jpg)](magnet:?xt=urn:btih:e6793f4da6d2ccc2fe99900ff148d368a78465f0&dn=%5B20240222%5D%20Unarchived%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)|https://files.catbox.moe/5p6pp9.txt|
-| 【UNARCHIVED KARAOKE 歌枠】 ENTERING EMO HOURS 『2024-02-24』| [![](https://files.catbox.moe/nyf94g.jpg)]()| Placeholder|
+| 【UNARCHIVED KARAOKE 歌枠】 ENTERING EMO HOURS 『2024-02-24』| [![](https://files.catbox.moe/nyf94g.jpg)](magnet:?xt=urn:btih:61ff3e7d55b8f0ea0d7960e5ed8d541ca20491d0&dn=%5B20240225%5D%20Unarchived%20Emo%20Mei%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)| https://files.catbox.moe/jk48ct.txt|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->
 

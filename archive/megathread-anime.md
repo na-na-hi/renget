@@ -209,10 +209,6 @@
 
 # 📑 ➜ Torrents
 
-### 🧲 [Anime Time](https://animetime.cc/)
-- Great place that provides torrents and magnet links and has an easy-to-use search feature
-- [URL Safety Results](https://www.urlvoid.com/scan/animetime.cc/)
-
 ### 🧲 [Beatrice-Raws](https://beatrice-raws.org/)
 - Very high-quality torrents that are frequently updated and encoded for speed.
 - [URL Safety Results](https://www.urlvoid.com/scan/beatrice-raws.org/)

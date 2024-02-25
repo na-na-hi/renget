@@ -7,8 +7,8 @@
 - Email: cncanon1@proton.me - for personal contact or proxy issues.
 - Anyan OCs - https://rentry.org/anyan_oc
 
-Latest refill (February 23rd):
-- **OpenAI** 0 -> 4 (1 T5, 3 T3)
+Latest refill (February 25th) - last refill in the month.
+- **OpenAI** 0 -> 1 (1 T5)
 - **AWS Claude** 3 (no change)
 
 ## Changelog

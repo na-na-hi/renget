@@ -5,10 +5,11 @@
     Key (at least one T5)/source (with at least one T5 that you/I can find) donators get unlimited quota.
     Everyone else gets a decent quota. I intend to keep this proxy open, and have very little requirements other than sending me an email.
     The proxy will be entirely funded by donations.
-    cooders.veryscrappy.moe - Filtered Azure GPT (thanks anon!) *with no quota limit, tool usage enabled*. If the password gets leaked or spited, I'm killing it immediately.
+    cooders.veryscrappy.moe - Filtered Azure GPT (thanks anon!) *with no quota limit, tool usage enabled*
     I won't reply to tech support emails. If you want more IPs, include your token and explanation in the email, and don't ask before you hit the limit.
 
 !!! note news
+    Cooders is back up. Considering setting up a turbo proxy.
     Still out of keys.
     Haven't answered emails. Not sure if this is sustainable, at least with my scraping skills and lack of donations.
     Added dark mode.

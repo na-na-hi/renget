@@ -20,5 +20,5 @@
 ## -> [Gothic horror](https://rentry.co/aicgthemedweek5) <-
 ## -> [A world without X + Unconventional monsters](https://rentry.co/aicgthemedweek6) <-
 ## -> [Winter holidays](https://rentry.org/specialthemedweek)<-
-## -> [POLL](https://strawpoll.com/poy9W3kaOgJ) <-
+## -> Finnish / Self-aware <-
 ***

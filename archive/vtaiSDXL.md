@@ -65,6 +65,8 @@
 -> [Civitai](https://civitai.com/models/95498/jelly-hoshiumi-phase-connect)
 ##### -> Pipkin Pippa <-
 -> [Civitai](https://civitai.com/models/317588/pipkin-pippa-phase-connect-xl) <-
+##### -> Eimi Isami <-
+-> [Civitai](https://civitai.com/models/265116?modelVersionId=358097) <-
 
 #### -> Indies <-
 ***
@@ -467,6 +469,10 @@ or
 !!! info 9 Outfits!
 -> [Civitai](https://civitai.com/models/315321/shirakami-fubuki-xl-9-outfits) <-
 
+##### -> Houshou Marine <-
+!!! info 8 Outfits!
+-> [Civitai](https://civitai.com/models/319233/houshou-marine-xl-8-outfits) <-
+
 ##### -> Ninomae Ina'nis <-
 !!! info 5 Outfits!
 -> [Civitai](https://civitai.com/models/318845/ninomae-inanis-xl-5-outfits) <-
@@ -532,3 +538,5 @@ or
 ***
 ##### -> Cuiseika <-
 -> [Civitai](https://civitai.com/models/316818/cuiseika-pony-xl) <-
+##### -> Juniper Actias <-
+-> [Civitai](https://civitai.com/models/313257/xl-10-juniper-actias-or-vtuber) <-

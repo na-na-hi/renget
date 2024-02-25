@@ -1,9 +1,14 @@
 # LoRA学習メモ (Lain, よしなが先生ほか)
 
 - [LoRA学習メモ (Lain, よしなが先生ほか)](#lora学習メモ-lain-よしなが先生ほか)
+  - [概要](#概要)
   - [情報](#情報)
     - [sd-scripts](#sd-scripts)
-  - [概要](#概要)
+    - [便利なツール](#便利なツール)
+- [学習テスト｜SDXL](#学習テストsdxl)
+  - [ケース02：ゆるキャン：犬山あおい for Pony系統](#ケース02ゆるキャン犬山あおい-for-pony系統)
+  - [ケース01：セーラーマーキュリー(水野亜美) for Pony系統](#ケース01セーラーマーキュリー水野亜美-for-pony系統)
+- [学習テスト｜SD1.5](#学習テストsd15)
   - [学習テスト(sd-scripts: 5)：ゆるキャン](#学習テストsd-scripts-5ゆるキャン)
     - [ゆるキャン：犬山あおい](#ゆるキャン犬山あおい)
   - [学習テスト(sd-scripts: 4)：BlueArchive](#学習テストsd-scripts-4bluearchive)
@@ -17,6 +22,16 @@
   - [学習テスト(sd-scripts: 1)：Lain(岩倉玲音)](#学習テストsd-scripts-1lain岩倉玲音)
   - [書き込み保存](#書き込み保存)
 
+___
+
+## 概要
+
+Kohya氏のsd-scripts等を使用してLoRAを学習させたときの個人的なメモをちょっとキレイにしたやつです。
+SNSのタイムラインのように新しい情報は上にくるよう書く癖があるので(=降順)、順番に読むときは下の方から読むと良いかもしれません。
+
+**※現在のところ、sd-scripts作者(Kohya氏)のガイドラインにおおむね準拠した形で学習させておりその他の手法はわかりません。**
+
+
 ## 情報
 
 ### sd-scripts
@@ -24,34 +39,173 @@
 なによりも最初に読むべき作者によるREADME。  
 いくら探しても見つからなかった情報が公式にふつうに書いてあった ← あるある
 
+- ★公式LoRAガイド：sd-scripts/train_network_README-ja.md at main · kohya-ss/sd-scripts | https://github.com/kohya-ss/sd-scripts/blob/main/train_network_README-ja.md
+- 公式タグ付けガイド：sd-scripts/fine_tune_README_ja.md at main · kohya-ss/sd-scripts | https://github.com/kohya-ss/sd-scripts/blob/main/fine_tune_README_ja.md
+- 公式DreamBoothガイド：sd-scripts/train_db_README-ja.md at main · kohya-ss/sd-scripts | https://github.com/kohya-ss/sd-scripts/blob/main/train_db_README-ja.md
 
-- ★公式導入ガイド：https://github.com/kohya-ss/sd-scripts/blob/main/README-ja.md
-- ★公式LoRAガイド：https://github.com/kohya-ss/sd-scripts/blob/main/train_network_README-ja.md
-- 公式学習データガイド：https://github.com/kohya-ss/sd-scripts/blob/main/train_README-ja.md
-- 公式DreamBoothガイド：https://github.com/kohya-ss/sd-scripts/blob/main/train_db_README-ja.m
-- 公式Finetuneガイド：https://github.com/kohya-ss/sd-scripts/blob/main/fine_tune_README_ja.md
+### 便利なツール
 
-
-## 概要
-
-Kohya氏のsd-scripts等を使用してLoRAを学習させたときの個人的なメモをちょっとキレイにしたやつです。
-新しい情報は上にくるよう書く癖があるので(=降順)、順番に読むときは下の方から読むと良いです。
-
-
-
-**現在のところ、作者のガイドラインに準拠した形で学習させておりその他の手法はわかりません。**
-
-
-## 重要
-
-"--caption_extension=.txt"を明示的に指定しないと.txtを読みにいかない仕様があるようです。
-Aditional network拡張機能のTrainning infoでタグ認識してないと、DreamBooth:タグなし方式で学習されています。 
-wd taggerでタグ付けしたものを学習に用いたいときは必ず以下の引数を書いておきましょう。
-`--caption_extension=.txt`
-
-なおこのノートの学習テスト(sd-scripts: 5)まではすべて引数なしなのでDreamBooth:タグなし方式で学習されていることに注意してください。
+- RedRayz/Kohya_lora_param_gui: GUI for kohya-ss sd-scripts - https://github.com/RedRayz/Kohya_lora_param_gui
+	NVAスレニキ製のsd-scripts GUI。GUIで設定したparametersをsd-scriptsに渡してくれるシンプル仕様なのが良き
+- toshiaki1729/stable-diffusion-webui-dataset-tag-editor: Extension to edit dataset captions for SD web UI by AUTOMATIC1111 - https://github.com/toshiaki1729/stable-diffusion-webui-dataset-tag-editor
+	おそらくふたばのとしあき製のデータセットタグエディター。スタンドアロン版もあるが若干バグってるのでIssueを読んで解決する必要あるかも
 
 &nbsp;
+
+# 学習テスト｜SDXL
+
+## ケース02：ゆるキャン：犬山あおい for Pony系統
+
+2024年2月25日
+
+▼LoRA生成サンプル
+
+出力｜AutisMix_SDXL
+![ケース02：ゆるキャン：犬山あおい for Pony系統](https://i.imgur.com/nbOjC3t.jpeg "ケース02：ゆるキャン：犬山あおい for Pony系統")
+
+▼前提条件
+そもそもPonyで犬子(このキャラクター)はかなり学習されている
+二次創作顔から公式顔になるみたいなすごい微妙な変化
+
+←未使用　｜　LoRA Enable→
+
+![2024-02-25_inuyama_aoi_comparison_default_and_LoRAenable](https://i.imgur.com/cQVnllJ.jpeg "2024-02-25_inuyama_aoi_comparison_default_and_LoRAenable")
+
+▼画像タグ付け
+
+画像｜64枚くらい
+
+としあきタグエディターでWD14タガーを使ってタグ付けして、`inuyama aoi, yurucamp,` を先頭に追加。
+
+
+
+▼コマンド
+`
+accelerate launch --num_cpu_threads_per_process 4 sdxl_train_network.py --pretrained_model_name_or_path "C:\ProgramTools\__GenerativeAI\StableDiffusionModels\__SDXL\Pony_Diffusion_V6_XL\ponyDiffusionV6XL_v6StartWithThisOne.safetensors" --train_data_dir "H:\Resources\Resources_AI\forLeaningImages\Yurucamp\inuyama_aoi\v3" --output_dir "H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL" --network_module "networks.lora" --network_args "conv_dim=32" "conv_alpha=16" --mem_eff_attn --gradient_checkpointing --persistent_data_loader_workers --cache_latents --cache_latents_to_disk --max_data_loader_n_workers 1 --enable_bucket --save_model_as "safetensors" --lr_scheduler_num_cycles 4 --mixed_precision "fp16" --learning_rate 0.0001 --resolution 768 --train_batch_size 2 --max_train_epochs 20 --network_dim 32 --network_alpha 16 --save_every_n_epochs 5 --optimizer_type "PagedAdamW8bit" --output_name "lora_XL_yurucamp_inuyama_aoi_v3_pagedAdamW8bit_d32a16" --save_precision "fp16" --lr_scheduler "cosine" --min_bucket_reso 320 --max_bucket_reso 1536 --caption_extension ".txt" --max_token_length 225 --shuffle_caption --keep_tokens 1 --seed 42 --no_half_vae --logging_dir "E:\Creative\Program\Github\__AI\Art\TraningLog\sd_scripts\log" --log_prefix=lora_XL_yurucamp_inuyama_aoi_v3_pagedAdamW8bit_d32a16
+`
+
+下のケース01から流用。
+
+追加：`--shuffle_caption --keep_tokens 1`
+
+
+▼結果
+公式のアニメの感じは再現されていい感じ。
+`manga, comic, speech bubble, Onomatopoeia, multiple views,`   みたいなプロンプトがガン無視されるようになってしまった。1枚絵しかでない。
+すでに概念は学習されているのですごく軽くしか回してないのに謎。
+改善方法をみつけたい。
+
+
+
+▼ログ(省略)
+
+````
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_yurucamp_inuyama_aoi_v3_pagedAdamW8bit_d32a16.safetensors
+model saved.
+steps: 100%|████████████████████████████████████████████████████████| 700/700 [41:42<00:00,  3.58s/it, avr_loss=0.0931]
+````
+
+
+## ケース01：セーラーマーキュリー(水野亜美) for Pony系統
+
+2024年2月25日
+
+▼LoRA生成サンプル
+
+出力｜AutisMix_SDXL
+
+![](https://i.imgur.com/mGA7IfZ.jpeg "ケース01：セーラーマーキュリー(水野亜美)")
+
+▼画像
+77枚
+ボケボケのとか古い映像のノイズとか小さい画像入りまくり。アップスケール前処理とかなんもしてない。意外となんとかなる。
+としあきタグエディターでWD14タガーを使ってタグ付け。先頭に`sailor mercury, mizuno ami,`
+
+![](https://i.imgur.com/JDS29Iu.jpeg "ケース01：セーラーマーキュリー(水野亜美)")
+
+▼結果
+レトロかわE
+`--shuffle_caption --keep_tokens 2`をつけ忘れたからか、フォルダ名が`10_sailormercury 1girl` だから分からないが、`mizuno ami` だと反応しないLoRAが出来上がった。
+
+
+▼コマンド
+
+`
+accelerate launch --num_cpu_threads_per_process 4 sdxl_train_network.py --pretrained_model_name_or_path "C:\ProgramTools\__GenerativeAI\StableDiffusionModels\__SDXL\Pony_Diffusion_V6_XL\ponyDiffusionV6XL_v6StartWithThisOne.safetensors" --train_data_dir "H:\Resources\Resources_AI\forLeaningImages\Sailormoon\sailormercury_v3" --output_dir "H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL" --network_module "networks.lora" --network_args "conv_dim=32" "conv_alpha=16" --mem_eff_attn --gradient_checkpointing --persistent_data_loader_workers --cache_latents --cache_latents_to_disk --max_token_length 225 --max_data_loader_n_workers 1 --enable_bucket --save_model_as "safetensors" --lr_scheduler_num_cycles 4 --mixed_precision "fp16" --learning_rate 0.0001 --resolution 768 --train_batch_size 2 --max_train_epochs 8 --network_dim 32 --network_alpha 16 --save_every_n_epochs 1 --optimizer_type "PagedAdamW8bit" --output_name "lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16" --save_precision "fp16" --lr_scheduler "cosine" --min_bucket_reso 320 --max_bucket_reso 1536 --caption_extension ".txt" --seed 42 --no_half_vae --logging_dir "E:\Creative\Program\Github\__AI\Art\TraningLog\sd_scripts\log" --log_prefix=lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16
+`
+
+▼メモ
+
+学習元は、ponyDiffusionV6XL_v6StartWithThisOne.safetensors
+
+オプティマイザにpagedAdamW8bitを使っている。個人的にオプティマイザはAdamW8bit信者だが、SD1.5のときに使用して結果に影響を与えずに速度向上ができたのでSDXLでも継続して使ってみている。SDXLで早くなっているかは未検証。
+
+コマンドはKohya_lora_param_guiのでSDXL用プリセットをベースに作成した(気がする)。いまだに直打ちしてるのが `--log_prefix=` とかがGUIで対応してなかったからだった気がするので、GUIでやったほうが安全な気がする。
+
+PonyはTEとUNETどっちもやったほうがいい (NVAスレ民説)とのことで以下を削除
+`--network_train_unet_only`
+
+エラー
+>AssertionError: network for Text Encoder cannot be trained with caching Text Encoder outputs / Text Encoderの出力をキャッシュしながらText Encoderのネットワークを学習することはできません
+
+→削除：` --cache_text_encoder_outputs --cache_text_encoder_outputs_to_disk`
+
+
+▼ログ
+
+````
+override steps. steps for 8 epochs is / 指定エポックまでのステップ数: 3080
+running training / 学習開始
+  num train images * repeats / 学習画像の数×繰り返し回数: 770
+  num reg images / 正則化画像の数: 0
+  num batches per epoch / 1epochのバッチ数: 385
+  num epochs / epoch数: 8
+  batch size per device / バッチサイズ: 2
+  gradient accumulation steps / 勾配を合計するステップ数 = 1
+  total optimization steps / 学習ステップ数: 3080
+steps:   0%|                                                                                  | 0/3080 [00:00<?, ?it/s]
+epoch 1/8
+A matching Triton is not available, some optimizations will not be enabled.
+Error caught was: No module named 'triton'
+steps:  12%|██████▊                                               | 385/3080 [35:38<4:09:28,  5.55s/it, avr_loss=0.122]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16-000001.safetensors
+
+epoch 2/8
+steps:  25%|█████████████                                       | 770/3080 [1:08:55<3:26:46,  5.37s/it, avr_loss=0.106]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16-000002.safetensors
+
+epoch 3/8
+steps:  38%|███████████████████▏                               | 1155/3080 [1:41:56<2:49:54,  5.30s/it, avr_loss=0.111]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16-000003.safetensors
+
+epoch 4/8
+steps:  50%|█████████████████████████▌                         | 1540/3080 [2:14:57<2:14:57,  5.26s/it, avr_loss=0.115]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16-000004.safetensors
+
+epoch 5/8
+steps:  62%|███████████████████████████████▉                   | 1925/3080 [2:48:07<1:40:52,  5.24s/it, avr_loss=0.112]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16-000005.safetensors
+
+epoch 6/8
+steps:  75%|██████████████████████████████████████▎            | 2310/3080 [3:21:07<1:07:02,  5.22s/it, avr_loss=0.107]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16-000006.safetensors
+
+epoch 7/8
+steps:  88%|██████████████████████████████████████████████▍      | 2695/3080 [3:54:08<33:26,  5.21s/it, avr_loss=0.113]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16-000007.safetensors
+
+epoch 8/8
+steps: 100%|█████████████████████████████████████████████████████| 3080/3080 [4:27:09<00:00,  5.20s/it, avr_loss=0.113]
+saving checkpoint: H:\Resources\Resources_AI\__Models\__Lola\__MyLoRAs\SDXL\lora_XL_ponyV6_mizuno_ami_v1_pagedAdamW8bit_d32a16.safetensors
+model saved.
+steps: 100%|█████████████████████████████████████████████████████| 3080/3080 [4:27:10<00:00,  5.20s/it, avr_loss=0.113]
+
+(venv) E:\Creative\Program\Github\__AI\Art\sd-scripts_v5\sd-scripts>
+````
+
+
+# 学習テスト｜SD1.5
+
 
 ## 学習テスト(sd-scripts: 5)：ゆるキャン
 

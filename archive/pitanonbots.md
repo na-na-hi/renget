@@ -1,6 +1,6 @@
 # Pitanon's Bots:
 # https://www.chub.ai/users/pitanon
--> **Send logs to: pitlogs01@proton.me** <-
+-> **Send logs to: pitlogs02@proton.me** <-
 
 ###Coming Eventually™
 **Bratty Kuudere**

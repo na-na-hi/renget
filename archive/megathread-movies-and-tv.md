@@ -97,7 +97,7 @@
 - Perfect platform to enjoy full movies and TV series online. With multilingual subtitles available.
 - [URL Safety Results](https://www.urlvoid.com/scan/ask4movie.li/)
 
-### 🐐 [Binged](https://binged.in/) / [2](https://binged.live/) / [3](https://binged.lol)
+### 🐐 [Binged](https://binged.in/) / [2](https://binged.live/)
 - Indulge in a myriad of films and television series without any charges with all the newest releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/binged.in/)
 
@@ -212,10 +212,6 @@
 ### ▶️ [RidoMovies](https://ridomovies.tv/)
 - Immerse yourself in a vast and diverse collection of full HD movies and TV shows, all available for free streaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/ridomovies.tv/)
-
-### ▶️ [Ripper+](https://rmovies.obinode.app/)
-- Discover the ultimate online movie-watching experience. Unparalleled in comparison to any other available platform.
-- [URL Safety Results](https://www.urlvoid.com/scan/rmovies.obinode.app/)
 
 ### 🐐 [SFlix](https://sflix.to/)
 - One of the greatest free sites for binge-watching movies online in HD quality without any registration or money.

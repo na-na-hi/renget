@@ -1,5 +1,5 @@
 **/Collared/'s Dungeon of Stories/Masterbin** - Human Male Dominance General
-**Last Updated at #94**
+**Last Updated at #150**
 - [**/Hmofa/'s Masterbin**](https://rentry.org/hmofa)
 - [**/HMoFA/ Tag Catalog**](https://rentry.org/hmofa2) (*Remember to Ctrl + F ''maledom"/"f:rape".*)
 - [**Past Threads**](https://desuarchive.org/trash/search/text/Collared/type/op/)
@@ -9,8 +9,8 @@
 !!!Info Table of Contents
 [TOC1]
 ***
-!!! note Remember to make a [Ao3](https://archiveofourown.org/) or [sofurry](https://www.sofurry.com/) account when making stories/greens. (pls) 
-!!! note Also, only straight stories will be saved on this masterbin.
+!!! note Remember to make a [Ao3](https://archiveofourown.org/) or [sofurry](https://www.sofurry.com/) account when making larger stories. (pls)
+!!! note Use [rentry](https://rentry.org/) or any other paste/text service for greens. Makes it easier for me to save them.
 #Stories
 ##FigYurItOot
 >Service is Mandatory
@@ -22,6 +22,9 @@ https://rentry.org/3kisv
 https://rentry.org/ztocn
 >Human Kobold Alliance Story
 https://rentry.org/yo7s8
+## Gold_Eagle_RSR
+>Chains and Chances (Ch. 3)
+https://archiveofourown.org/works/46436269/chapters/127274134
 ##HethROM
 >Concrete Safari
 https://archiveofourown.org/works/34692337/chapters/86375416
@@ -32,6 +35,10 @@ https://archiveofourown.org/works/39555687/chapters/99011349
 https://archiveofourown.org/works/40825461
 >The Skaven and their Plots
 https://archiveofourown.org/works/42980406
+>Cold Blooded Dairy
+https://archiveofourown.org/works/52196023/chapters/132025066
+>Bunny Byers Beware
+https://archiveofourown.org/works/46839589/chapters/118515484
 ##Lurking_Edgelord
 >Europa Infinita: Sins Repaid (Part 1?)
 https://rentry.org/SinsRepaidPart1
@@ -86,8 +93,16 @@ https://rentry.org/avkyp
 >What if Anon could overpower his ancient lewd dragonwife!?
 https://rentry.org/anon-overpowers-dragonwife
 
->Neon Dream of Organic Toys
-https://rentry.org/p2mc8
->Neon Dream of Organic Toys Chapter 2
-https://rentry.org/u4hvd
+>Neon Dream of Organic Toys (CH 1-5)
+https://rentry.org/33k5y
+
+>Grand Marshal CYOA
+https://files.catbox.moe/7r82xn.txt
+
+>Home on the Range
+https://archiveofourown.org/works/47813818/chapters/120538849
+
+>DetectiveCollaredStory
+https://rentry.org/CollaredDetectiveStory
+
 ***

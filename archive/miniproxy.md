@@ -13,7 +13,7 @@ openai output size: 4096
 anthropic output size: 4000
 ```
 
-total **active** users: 111 %red% (CLOSED) %%
+total **active** users: 115 %red% (CLOSED) %%
 ***
 
 - I don't have a tripcode 

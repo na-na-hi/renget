@@ -1,4 +1,4 @@
-MMD Rentry Pastebin V1.010 - 2023
+MMD Rentry Pastebin V1.011 - 2024
 ####-> About MMD <-
 MMD (MikuMikuDance) is a 3D animation software. It uses a system of bones and keyframes to create animation. It runs on DirectX 9, and uses Bullet physics.
 MME (MikuMikuEffects) is a plugin for MMD. It can load FX files onto models, which add effects to it.
@@ -102,20 +102,20 @@ The license key can be found all over the internet.
 **Blender Plugins**
 [[MMDTools]](https://github.com/powroupi/blender_mmd_tools/tree/dev_test) : Blender 2.7 ~ 2.9
 [[MMDTools]](https://github.com/UuuNyaa/blender_mmd_tools) : Blender 2.9+ [[MMD & Blender Wiki]](https://mmd-blender.fandom.com/wiki/Home)
-[[MQO]](https://github.com/nutti/blender-mqo)
-[[SFM]](https://github.com/REDxEYE/SourceIO)
-[[XPS]](https://github.com/johnzero7/XNALaraMesh)
+[[MQO]](https://github.com/nutti/blender-mqo) Plugin for Metasequoia file extension
+[[SFM]](https://github.com/REDxEYE/SourceIO) Plugin for Source file extension
+[[XPS]](https://github.com/johnzero7/XNALaraMesh) Plugin for XNALara file extension
 [[IBP]](https://pastebin.com/whGY9rfS) : Inverse Bone Poser 0.2 [[ReadMe]](https://archived.moe/e/thread/2817756/#2821139)
 
 **Other Conversion Tools**
 [[How to use the Unity-MMD Converter]](https://forum.ripper.store/topic/11201/booth-model-to-mmd/2)
 [[Unity-MMD Plugin]](http://tstorage.info/vvtgc9bb8ust) (Drag & Drop Version)
 [[Unity-MMD Plugin]](http://tstorage.info/wmc4t6q8gni4) (Unitypackage Version)
-[[PB2DB Plugin]](https://workupload.com/archive/uhjBnkyxYY)
+[[PB2DB Plugin]](https://workupload.com/archive/uhjBnkyxYY) PhysBones to DynamicBones converter
 
-[[VRM2PMX]](https://bowlroll.net/file/191067)
-[[TSO2PMX (3DCG)]](https://www.mediafire.com/file/k5ppfh5opr4xki6/Tso2Pmx-037.rar/file)
-[[CM3D2 Exporter]](https://www.deviantart.com/djwolf-3/art/CM3D2-COM3D2-Export-Plugins-849226801)
+[[VRM2PMX]](https://bowlroll.net/file/191067) VRM to PMX converter
+[[TSO2PMX]](https://www.mediafire.com/file/k5ppfh5opr4xki6/Tso2Pmx-037.rar/file) 3D Custom Girl converter
+[[CM3D2 Exporter]](https://www.deviantart.com/djwolf-3/art/CM3D2-COM3D2-Export-Plugins-849226801) Custom Maid 3D 2 Plugin
 [[Koikatsu Plugin]](https://www.deviantart.com/japanyoshi/art/Tutorial-Export-Koikatsu-to-MMD-PMX-828583369)
 ####-> Additional Downloads <-
 **Collections ~100 GB**
@@ -126,6 +126,7 @@ The license key can be found all over the internet.
 [[MMD General Collection]](https://www.deviantart.com/notinfested/art/MMD-Collection-giveaway-31-aug-2013-56-7GB-397387521)
 [[No One's Model Collection]](https://www.mediafire.com/folder/woj7mbb8cvml5/Models)
 [[Tsumeawase Collection]](https://archive.org/download/mmd-tsumeawase-20121002) (Needs archive.org account to download)
+[[Anon Modeler's Folder]](https://www.mediafire.com/folder/340u7ekd8eko0/my_mmd_models)
 ####->FX (Effects) <-
 [[TheMMEArchive]](https://www.themmearchive.com) : The MikuMikuEffect Archive is a documentation website which records every single MMD Effect that exists, or has existed.
 [[Ray-Cast]](https://github.com/ray-cast/ray-mmd)
@@ -138,7 +139,8 @@ The license key can be found all over the internet.
 [[No One's Motion Collection]](https://www.mediafire.com/folder/ouepieoxezksi/Motions)
 ####-> Scraper <-
 If you find something MMD related on a paywall site (Patreon, DLsite, Pixiv Fanbox, Booth, Fantia, Gumroad, SubscribeStar etc.) check the scraper first before asking in the thread.
-[[kemono.party]](https://kemono.party)
+[[kemono.su]](https://kemono.su)
+[[nekohouse.su]](https://nekohouse.su)
 
 **Obsolete MMD Pastebin: June 6th, 2016**
 [[Pastebin Archive]](https://web.archive.org/web/20200925101744/http://pastebin.com/x5NAD5nR)

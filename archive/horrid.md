@@ -3,7 +3,7 @@
 
 -> ![](https://media.discordapp.net/attachments/1136041414296346724/1188509119779459172/rentrybannerremnew.png?ex=659ac85f&is=6588535f&hm=e3bf6b59a86ade1353020dd94b616fdf140d2307d2191f3cc612b795747beec1&=&format=webp&quality=lossless&width=1175&height=519) <-
 
--> **KOLTYN** + *[%black%REMNANT%%]()* + [%white%MORE%%](https://pronouns.cc/@mongrel) ![](https://media.discordapp.net/attachments/860333357169508355/1055333640705421373/nv8mtvs.gif) PRONOUNS [%black%HERE%%](https://pronouns.cc/@mongrel) ![](https://media.discordapp.net/attachments/860333357169508355/1055333640705421373/nv8mtvs.gif) %white%EIGHTEEN%%
+->  *[%black%REMNANT%%]()* + [%white%MORE%%](https://pronouns.cc/@mongrel) ![](https://media.discordapp.net/attachments/860333357169508355/1055333640705421373/nv8mtvs.gif) PRONOUNS [%black%HERE%%](https://pronouns.cc/@mongrel) ![](https://media.discordapp.net/attachments/860333357169508355/1055333640705421373/nv8mtvs.gif) %white%EIGHTEEN%%
 ![](https://media.discordapp.net/attachments/860333357169508355/1055308413166428160/WCan8Am.png) *AUTISTIC* + [%black%**BORDERLINE PERSONALITY DISORDER**%%]() ![](https://media.discordapp.net/attachments/860333357169508355/1055308413166428160/WCan8Am.png) 
 %white%NONHUMAN%% ![](https://media.discordapp.net/attachments/860333357169508355/1055308273550639154/7TQT4bT.gif) %black%*ALTERHUMAN*%% ![](https://media.discordapp.net/attachments/860333357169508355/1055308273550639154/7TQT4bT.gif) OTHERKIN ![](https://media.discordapp.net/attachments/860333357169508355/1055308273550639154/7TQT4bT.gif) %black%*IRL DOG*%% <-
 
