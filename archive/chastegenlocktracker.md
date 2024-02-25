@@ -39,5 +39,7 @@ _(Updated 22-Feb-2024)_
 | Bambi_snowshed917 | https://chaster.app/sessions/eBUJtSbdziM9TqbX | === |
 | bigdawg8 | https://chaster.app/sessions/PeVOQtNOZ0jjh62M | === |
 | BrittanyJane | https://chaster.app/sessions/n9y6MkLUzNRribAO | === |
+| PyritePirate | https://chaster.app/sessions/HswCHQBzm3u2MjFs | === |
+| noverca1 | https://chaster.app/sessions/I7Nl2YnQFW1dd7ZN | === |
 |  |  |  |
 |  |  |  |

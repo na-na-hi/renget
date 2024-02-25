@@ -9,7 +9,7 @@
     I won't reply to tech support emails. If you want more IPs, include your token and explanation in the email, and don't ask before you hit the limit.
 
 !!! note news
-    Unrevoked, sorry. Working on a proper spiter solution.
+    Still out of keys.
     Haven't answered emails. Not sure if this is sustainable, at least with my scraping skills and lack of donations.
     Added dark mode.
 

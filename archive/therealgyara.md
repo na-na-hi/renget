@@ -1,5 +1,5 @@
 -> *%#dfc07b%✦%% a certain **darkness** is needed to see the %#dfc07b%**stars**%% %#59cedd%✮%%* <-
--> ![inspo from one of marcel's rentry](https://media.discordapp.net/attachments/866987220048805929/1198133678178570361/Picsart_24-01-20_13-14-54-542.png?ex=65e2b5f1&is=65d040f1&hm=104ffe52eb7356bcc3db89a05a4352d2ef1dedce01614576db527ea9e0c5937d&=&format=webp&quality=lossless&width=395&height=416) <-
+-> ![01/04/2024](https://media.discordapp.net/attachments/1185486874752589895/1193197206061203467/blur_edges_13.png?ex=65ec6ffe&is=65d9fafe&hm=74570a1eeb72a3ff27ff7fbdf0cb16ff08348eabd35f5cf154bcf15fd945fc2f&=&format=webp&quality=lossless&width=494&height=414) <-
 -> *the %#08c59f%shin tsukimi%% fan ever fr!11!!!1!* <-
 
 

@@ -411,7 +411,10 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[End]** *Postgame break thread for Orevald and Bunken while we decide what game to play next*](https://arch.b4k.co/vp/thread/55386815/)
 
 ###->Super Pokemon Eevee Edition<-
-!!! info
-	**Status: In Progress**
+!!! note
+	**Status: Complete**
 [**[1]** *Oh, this is really short actually*](https://arch.b4k.co/vp/thread/55406868/)
 [**[2]** *Don't ever play Virtualization bros*](https://arch.b4k.co/vp/thread/55421422/)
+[**[3]** *Death to Hyperpajeets*](https://arch.b4k.co/vp/thread/55440580/)
+[**[4]** *Neat plot twist*](https://arch.b4k.co/vp/thread/55453640/)
+[**[5]** *What an abrupt ending, surely there's a postgame to tie up the loose ends of the story*](https://arch.b4k.co/vp/thread/55458758/)

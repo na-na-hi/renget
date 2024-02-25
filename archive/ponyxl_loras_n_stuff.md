@@ -189,6 +189,7 @@ https://files.catbox.moe/sgy29u.safetensors pandora
 https://files.catbox.moe/9io6z4.safetensors noise
 https://files.catbox.moe/z7vz4y.safetensors abmayo requires activation trigger of abmayo, also recommended to use use with score_9,source_anime
 https://files.catbox.moe/lerky2.safetensors soraname
+https://files.catbox.moe/gcm2x4.safetensors tamano_kedama
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
@@ -235,6 +236,7 @@ https://mega.nz/folder/dTkFHAgD#i04TRgRJUOMu9cByDe24UQ amazuyu_tatsuki, csr, eno
 https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/W5AjzbLD Fishine, Kakure_Eria, Navigavi, opossummachine, Shibori_Kasu, Syrupmelty, Zankuro, Kiss-Shot Azerola-Orion Heart-Under-Blade, Shinobu Oshino, Utsuho Reuji
 https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun
 https://mega.nz/folder/k3MwHTwC#BOiRdd3uDjTeztzxuM19Hg alexi, chirumakuro, okiami, oltlo, yue
+https://mega.nz/folder/0soGXArQ#IJQJROng3TlELfCooa8RMg coro fae, danimaru, gonzrez, ishikei, kazutake hazano, letdi, nonco, oouso, rhasta, rwing, tottotenero
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes

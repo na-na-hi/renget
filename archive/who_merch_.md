@@ -11,6 +11,7 @@ https://hololivesuperexpo2024.hololivepro.com/tickets
 https://hololivesuperexpo2024.hololivepro.com/en/tickets
 (EN/Streaming+ has a 1150 Yen Gaijin tax attached. There is relatively little differences in live experience between SPWN and Streaming+.)
 
+
 ###Limited merch
 **Promise Christmas merch set (Acrylic stands, Mug & Dish) Limited quantity pre-order; Ships Feb 2024**
 https://shop.hololivepro.com/en/products/hololiveen_promise_christmas2023
@@ -21,6 +22,9 @@ https://shop.hololivepro.com/en/products/hololiveen_1stconcert_rerun
 
 **Valentine's Day merch set 2024  Limited quantity pre-order; Ships April 2024**
 https://shop.hololivepro.com/en/products/hololiveen_valentine2024
+
+**2024 Emo/Punk Rock Outfit merch (T-shirt) Limited order period ends March 25th 1800 JST; Ships July to August 2024 **
+https://shop.hololivepro.com/en/products/nanashimumei_no2024
 
 ###Regular merch
 **OMOCAT CouncilRys apparel** 

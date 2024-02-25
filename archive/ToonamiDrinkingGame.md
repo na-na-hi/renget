@@ -17,6 +17,18 @@ Take a shot every time:
     -Steve Blum Fast Food/theme restaurant
 -Someone mentions how one of the drinking games is fatal
 
+Ninja Kamui:
+-a ninja gets sliced/stabbed
+-John Ninja uses the Forbidden Ninja Technique That's Going To Kill Him™
+-Someone uses accupuncture
+-One of the cops is a loose cannon
+-John Wick Ninja reminisces about his dead wife and kids
+-Anytime someone says Oni
+-2+ people die within a couple seconds of each other
+-somebody's limb gets broken/disjointed
+-you notice DeMarco's name in the credits
+-Finish your drink if black cop who's about to retire dies
+
 Demon slayer
 -Taisho secret
 -Nezuko is cute 
@@ -35,18 +47,6 @@ Demon slayer
 -A demon slayer gets their head popped or otherwise dies
 -potato art appears
 Hard mode: -someone uses a breath
-
-Doctor Soap
--they invent something new
--senku explains something
--senku is unrealistically smart
--senku gets excited
--taiju shouts for no reason
--taiju unga bungas a problem
--kohaku gets called a lion/gorilla/etc
--someone mentions 10 billion
--there's a flashback to someone's life
--take 2 drinks whenever a character brews or imbibes alchohol
 
 Lycoris Recoil:
 -chisato dodges a bullet

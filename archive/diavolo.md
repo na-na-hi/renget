@@ -1,10 +1,10 @@
 -> 🩷 <-
 -> ❝ ☆ *CONFUSION WILL BE MY* %hotpink% ***E͟P͟I͟T͟A͟P͟H͟***%%  ***!*** ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) <-
 ***
-->![](https://massacre.crd.co/assets/images/gallery12/fbc02add.gif?v=d2152c17)"I, Diavolo, am the Emperor! ㅤㅤㅤㅤㅤ<-
+->![](https://massacre.crd.co/assets/images/gallery12/fbc02add.gif?v=d2152c17) "I, Diavolo, am the Emperor! ㅤㅤㅤㅤㅤ<-
 ->ㅤㅤㅤㅤㅤ . . .This fact remains unchanged!" ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17)<-
 
-->![](https://files.catbox.moe/y1faix.png)<-
+->[![Art by C73AN](https://files.catbox.moe/y1faix.png)](https://twitter.com/C73AN)<-
 
 -> ![](https://files.catbox.moe/6j3p5p.png) ... *D*iavolo *or* ***G͟u͟***ts ![](https://massacre.crd.co/assets/images/gallery12/6a42a6fe.gif?v=d2152c17) <- 
 ->![](https://massacre.crd.co/assets/images/gallery12/e06aa989.gif?v=d2152c17) ***20*** ⴰ **Oct.** 9th **⌁** [**He**](https://pronouns.cc/@Cannibal)Him ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) ﹕![Transgender](https://f2.toyhou.se/file/f2-toyhou-se/images/22462976_bnJBzlfCUwdl2gz.png?1623251708) ![Bisexual](https://f2.toyhou.se/file/f2-toyhou-se/images/22459674_bkn0ph3oiADvykk.png?1623251719) ![Aromantic](https://f2.toyhou.se/file/f2-toyhou-se/images/22462746_Ex3zGlF5M0PQXak.png?1623251728) ﹕**☆**<-

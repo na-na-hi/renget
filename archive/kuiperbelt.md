@@ -1,6 +1,6 @@
-->![12](https://literature.crd.co/assets/images/gallery02/50370ec8_original.gif?v=0b76180b)⠀what⠀you⠀see⠀is⠀only⠀a%#BF1840% ⠀moment.⠀%% ![12](https://literature.crd.co/assets/images/gallery02/50370ec8_original.gif?v=0b76180b)<-
-->![sparkle](https://media.discordapp.net/attachments/1084308198577668107/1203916327493050368/Untitled20_20240204231106.png?ex=65d2d574&is=65c06074&hm=4b56a54de07fc1f5ddfeb5b4a663119e7b31e303634d953e9461dcc3d6df09e1&)<-
-->![divide](https://literature.crd.co/assets/images/gallery04/cf11827f_original.gif?v=0b76180b)<-
-->｡ᴖ ᴖ) ⠀%#BF1840% via / rinne %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/qYNPdrP/IMG-3816.gif) she **her**<-
--> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/1XVWYR2/31-A39068-29-BC-43-AE-BC4-B-35-DB61-D887-C5.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃  fem (%#BF1840% cis %%)<-
--> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://literature.crd.co/assets/images/gallery05/ee029d83_original.gif?v=0b76180b)⠀anxiety⠀⠀(ᴗ ᴗ <-
+->![12](https://i.ibb.co/r2WfDH4/IMG-3951.gif)⠀what⠀you⠀see⠀is⠀only⠀a%#7B679A% ⠀moment.⠀%% ![12](https://i.ibb.co/r2WfDH4/IMG-3951.gif)<-
+->![shizu love](https://media.discordapp.net/attachments/1084308198577668107/1211126993744298075/Untitled20_20240224203932.png?ex=65ed10e8&is=65da9be8&hm=21439019d3dc1f576f7e382ca911095dcd35e6b031c09545d34ced02dfba2135&)<-
+->![divide](https://autism.crd.co/assets/images/gallery01/384cc855_original.gif?v=69d6a439)<-
+->｡ᴖ ᴖ) ⠀%#7B679A% nina! / via %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/r3hTVGL/5-D9-C1232-DDE2-4-C84-BE16-35-CAAAD1-B4-B8.gif) she **her**<-
+-> 6TEEN⠀**lesbian**⠀![2](https://i.ibb.co/k5JBH0h/IMG-4240.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃  fem (%#7B679A% cis %%)<-
+-> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://i.ibb.co/jvtJF2R/1-BEBB904-61-D0-4-F14-9185-3294-B93-DA29-B.gif)⠀anxiety⠀⠀(ᴗ ᴗ <-

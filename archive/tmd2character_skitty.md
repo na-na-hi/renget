@@ -27,7 +27,7 @@ Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 2(+1) | Species Bonus | 6AP
+Speed | 2(+1) | Species Bonus, Training Tier ɪɪɪ | 7AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -69,9 +69,8 @@ Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
 Currently Training for Stat: Speed **ɪɪɪ** | Tier **ɪɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
-Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Stat: Speed **ɪɪɪ** | ᴍᴀx (+1 AP) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
-speed tier 2 completed i think i have this right
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

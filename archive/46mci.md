@@ -16,7 +16,7 @@ https://www.tiktok.com/@nanashimumei_hololiveen
 !!! info
      -> 🪶  **Useful Links**  🪶 <-
 >Mumei's Merch
-https://rentry.org/who_merch
+https://rentry.org/who_merch_
 >Database backup 
 https://mooms.neocities.org/
 >/who/ OP template

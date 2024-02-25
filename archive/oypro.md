@@ -47,13 +47,13 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-	You have 30 points to spend.
-	3/10 IP | ■■■▯▯▯▯▯▯▯
+	You have 0 points to spend.
+	8/10 IP | ▮▮▮▮▮▮▮▮▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Amneplasticity | The User receives an Egg Move or TM of their choice with ≤7BP. May pull from future evolution paths if needed. Granted from Amnesia. | 0
 2. Ghostly Silent | The User moves no louder than a whisper, almost making no noise. Enemies are less likely to target them in battle. | 3 IP
-3. Eᴍᴘᴛʏ | Vacant IQ slot. | N/A
+3. Item Catcher | The User always catches Items thrown at them. | 5 IP
 Eᴍᴘᴛʏ | Description. | N/A
 Eᴍᴘᴛʏ | Description. | N/A
 

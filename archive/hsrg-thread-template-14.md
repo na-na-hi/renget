@@ -19,9 +19,9 @@ https://www.youtube.com/watch?v=KdbnaBhJs6Y
 https://www.youtube.com/watch?v=oz3AOWxq8KY
 https://www.youtube.com/watch?v=8qk2IOjmrsY
 
-\>Myriad Celestia Trailer — "A Revisiting of Past Dreams" 
-https://www.youtube.com/watch?v=rPAw4l2rUr8
-https://www.youtube.com/watch?v=rV-EzvxqSFw
+\>Myriad Celestia Trailer — "Sparkle: Behind the Curtain" 
+https://www.youtube.com/watch?v=IpuQvbTwCWU
+https://www.youtube.com/watch?v=dQFw_-55pZ4
 
 \>Current Character Banners: (Black Swan, Imbibitor Lunae + Misha, Tingyun, Guinaifen) - https://www.hoyolab.com/article/24943079
 \>Current Light Cone Banners: Reforged Remembrance (Nihility), Brighter Than the Sun (Destruction) - https://www.hoyolab.com/article/24943321

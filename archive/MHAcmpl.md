@@ -117,7 +117,7 @@ Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/917827
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
 Dimas Guerra HN "Forgiven": https://archive.4plebs.org/tg/post/88505983
 Nijimura Mahoko HN Cool Boost: https://archive.4plebs.org/tg/post/91685518/
-
+Kyoda Hiro HN Overdose (redux): https://desuarchive.org/tg/post/91985145/
 
 ### Shiketsu Staff
 >Pro Heroes

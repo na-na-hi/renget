@@ -65,8 +65,9 @@ IQ Skills Active/Inactive | Description of Skill | IP Cost
 1. Type Specialist | The User's Moves that are Super-Effective have their damage increased by 2. The User's Moves that are Not Very Effective have their damage decreased by 2. | 4 IP
 2. Empath | The User is able to tell the exact emotion someone is feeling or experiencing. Ghost-Type attacks deal +1 damage against the User, Poison-Type attacks deal -1 damage against them. While paired with Telepath, the User gains Hex Maniac for 0 IP. | 3 IP
 3. Strong Grasp | The User's Constricting moves deal +2 damage. Try and break free from their grasp. You can't! | 3 IP
-Explorer | The User has a natural intuition for finding the right way. They're less likely to be lost. While fighting Ferals, the User's Accuracy is increased by 2. | 1 IP
-Archaeologist | The User has a natural understanding of ancient places and relics. While fighting Fossil Pokémon, the User's damage is increased by 1. |  1 IP
+4. Explorer | The User has a natural intuition for finding the right way. They're less likely to be lost. While fighting Ferals, the User's Accuracy is increased by 2. | 1 IP
+5. Archaeologist | The User has a natural understanding of ancient places and relics. While fighting Fossil Pokémon, the User's damage is increased by 1. |  1 IP
+6. Brutalizer | The User takes advantage of the damage already dealt to deal +4 damage on foes if the damage dealt that turn is over 15. | 0 IP
 
 !!! note You have skills that can be Trained and applied to situations where they make sense.
     These may help you in segments where combat is unnecessary or just to simply show your prowess.

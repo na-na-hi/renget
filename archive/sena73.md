@@ -61,7 +61,7 @@ Hold evasion button to yo-yo surf. When attacked and evasion skill has a charge,
 Casting Clear Sky Thunderbolt and Lightning Anchor Strike resets evasion charges.
 
 **EVASION 1**
-Evasion skill gathers sd remnants, and SD enemies take 10% more Total DMG from Deepspace Anchor.
+Evasion skill gathers sd remnants, and SD enemies take 16% more Total DMG from Deepspace Anchor.
 
 **EVASION 2**
 [SS] Thunderbolt Flare duration is extended by 1 second, and gain additional evasion charge. Upon triggering evasion skill, buff Basic ATK Seq 3, deal additional 450% ATK of Lightning DMG, counts as weapon dmg, lasts for 5s, can be refreshed. The buff is removed when Basic ATK Seq 3 hits.
@@ -119,7 +119,7 @@ Deal 2680% ATK of Lightning DMG. Time stop.
 Lightning DMG +25%, Ult gain additional Lightning DMG +80%
 
 **ULTIMATE 2**
-Ultimate deal additional 500% ATK of Lightning DMG. During Astral Ring Burst state, Ultimate gain Lightning DMG +45%
+Ultimate deal additional 500% ATK of Lightning DMG. During Astral Ring Burst state, Ultimate gain Lightning DMG +40%
 
 
 ---
@@ -148,7 +148,7 @@ During Astral Ring Burst state, gain higher anti-interrupt, and you can gain Thu
 When entering Astral Ring Burst state, deal 400% ATK of Lightning DMG.
 
 **ASTRAL RING 1**
-When Astral Ring World Star is active, Anchor Strike leave an energy body with Realm Resonance mark on the field. The mark can be stimulated by resonance attacks of all characters in the team, and generate a lightning pulse around it, deal 750% ATK of Lightning DMG and restoring 4sp, trigger interval 0.7s. The energy body is destroyed when the effect has been triggered 8 times, or when Astral Ring Burst ends. The lightning pulse damage counts as weapon skill and resonance skill.
+When Astral Ring World Star is active, Anchor Strike leave an energy body with Realm Resonance mark on the field. The mark can be stimulated by resonance attacks of all characters in the team, and generate a lightning pulse around it, deal 800% ATK of Lightning DMG and restoring 4sp, trigger interval 0.7s. The energy body is destroyed when the effect has been triggered 8 times, or when Astral Ring Burst ends. The lightning pulse damage counts as weapon skill and resonance skill.
 
 **ASTRAL RING 2**
 [SSS] Character on the field gain Total DMG +10%. During Astral Ring Burst state, when Realm Resonance mark is triggered, deal 150% ATK of Lightning DMG to each enemy hit by the lightning pulse, max 5 enemies. If the number of enemies is less than 5, your own realm resonance mark will be counted as target.

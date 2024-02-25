@@ -1,1 +1,1 @@
--> ![](https://www.simpleimageresizer.com/_uploads/photos/59ada232/Untitled190_20240221083507_64.png)<-
+-> ![](https://cdn.discordapp.com/attachments/1142872892833542445/1210726252101509120/IMG_2313.png?ex=65eb9bb0&is=65d926b0&hm=b8d474c5066237387e29134f9f6a1bcc3466cbf9468fa47b54c487aec870cb46&)<-

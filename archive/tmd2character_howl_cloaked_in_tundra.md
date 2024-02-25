@@ -15,7 +15,7 @@ While Howl Cloaked in Tundra's legitimacy as a noble is often come into question
 **Origin:** Native | **Occupation:** Merchant/Diplomat
 **Species:** Furfrou | **Faction Affiliation:** Rantrum Domini
 **Level:** 50 | **Experience to Next Level:**  200/1500
-**Worn Item:** Silk Scarf | **Clothing:** Noble Cape
+**Worn Item:** Defense Scarf | **Clothing:** Noble Cape
 
 Important Info | Description
 ---- | ----
@@ -33,21 +33,21 @@ Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Tracking **ɪ** | Tier **ɪɪ** | 1/3 | ▮▯▯
 Attribute:  Sewing **ɪɪ** | Tier **ɪɪɪ** | 2/3 | ▮▮▯
-Stat: Attack **ɪ** | Tier **ɪɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
+Stat: Defense **ɪɪɪ** | Complete | 9/9 | ▮▮▮▮▮▮▮▮▮
 Training for Attribute: Tracking **ɪɪ** | Tier **ɪɪɪ** | 1/3 | ▮▯▯
 Currently Training for Stat: Attack **ɪɪ** | Tier **ɪɪɪ** | 5/9 | ▮▮▮▮▮▯▯▯▯
 
 ### Misc. Information
 Below is information not necessarily important to playing as a Noble.
 
-Stat | Points: 12 (+2) | Modifiers | Combat Effect
+Stat | Points: 12 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 5 | Heart Seed **ᴠ**; Level 50 (34 HP) | 49 HP
-Attack | 1 | Level Damage Bonus **ɪɪ**; Attack **ɪ** | +3 Physical Damage 
-Special Attack | 0 | Level Damage Bonus **ɪɪ** | +2 Special Damage
-Defense | 2 | Fur Coat | +5 Physical Mitigation
-Special Defense | 3 | ɴᴏ ʙᴏɴᴜs | +3 Special Mitigation
-Speed | 3 |  Species Bonus | 6 AP
+Health Points | 0 | Heart Seed **ᴠ**; Level 50 (34 HP) , Resilient (28 HP)| 62 HP
+Attack | 0 | Level Damage Bonus **ɪɪ** | +3 Physical Damage 
+Special Attack | 0 | Level Damage Bonus **ɪɪ** | +3 Special Damage
+Defense | 13 | Fur Coat, Defense **ɪɪɪ**   | +20 Physical Mitigation
+Special Defense | 2 | ɴᴏ ʙᴏɴᴜs | +5 Special Mitigation
+Speed | 1 |  Species Bonus | 5 AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -68,12 +68,12 @@ Hyper Voice | The User can raise their volume of their voice without yelling or 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
     You have 0 points to spend.
-    10/10 IP | ▮▮▮▮▮▮▮▮▮▮
+    12/12 IP | ▮▮▮▮▮▮▮▮▮▮▮▮
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
 1. Armored Up | While using a Status Move, the User's Defense or Special Defense is increased by 1. Increase is 2 if the User's Defensive Stats are 5 or higher. | 5
 2. Heavyweight | The User is heavier than their species is normally supposed to be. | 1
-3. True Defense | True Damage sources have their damage decreased by 3 against the User. DoT effects have their damage increased by 3 against the User. | 4
+3. Resilient | Retroactively, the User's HP is increased an extra +2 every 3 levels, but all healing sources are less effective by 8 HP healed. When paired with Foolhardy, while in combat, the User suffers permanent Badly Poisoned DoT. | 6
 Sales Pitch | The User can sell Items for 10% more in shops. | 3
 
 **INVENTORY**

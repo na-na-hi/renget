@@ -21,7 +21,7 @@
 **Mashan (Indie?)** - https://civitai.com/models/275701/mashan-cyber-dragon-ru-vtuber
 **Hinako Kitsune (Indie?)** - https://civitai.com/models/274760/hinako-kitsune-ru-vtuber
 **Inui Toko (Nijisanji)** - https://civitai.com/models/274606/inui-toko-nijisanji
-**Eimi Isami (Phase Connect)** - https://civitai.com/models/265116/eimi-isami-phase-connect (imo it look very off so maybe not good?)
+**Eimi Isami (Phase Connect)** - https://civitai.com/models/265116?modelVersionId=316741 (imo it look very off so maybe not good?)
 **Ayase Yuu (Phase Connect)** - https://civitai.com/models/269998/ayase-yuu-phase-connect-jp (early bake, probably not good)
 **Kaminari Clara (Phase Connect)** - https://civitai.com/models/277710/kaminari-clara-phase-connect-jp (early bake, probably not good)
 **Soyapoya (Indie)** - https://civitai.com/models/281732/soyapoya
@@ -59,6 +59,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Yuzuki Roa (Nijisanji)** - https://civitai.com/models/307489/yuzuki-roa-nijisanji
 **Rosedoodle (Indie)** - [V1] https://civitai.com/models/309560/vchiban-rosedoodle-v1-normal-maid-version [V2] https://civitai.com/models/308577/vchiban-rosedoodle-v2-or-lastest-debut
 **Nene Amano (Production Kawaii)** - https://civitai.com/models/314926/nene-amano-1st-costume-production-kawaii
+**Shirakami Fubuki (Hololive)** - https://civitai.com/models/319673/shirakami-fubuki-hololive
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)
