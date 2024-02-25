@@ -12,7 +12,7 @@ simple cuz i dont wanna do anything complex rn ugghhhh
 
 ⠀
 
--> October or **Niki**. Shy Hyr *None*. 
+-> October or **Historia**. Shy *None*. 
 Aphroflux **&** Gay. **Fem**Masc Terms. <-
 
 ⠀

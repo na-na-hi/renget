@@ -7,7 +7,7 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 12 | **Experience to Next Level:** 83/120
+**Level:** 12 | **Experience to Next Level:**98/120
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
 **Pokécoin:** 345₽ (3210₽ in bank) | **Glorious Gold:** 0 Bars
 
@@ -68,16 +68,16 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
 Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
-Training for Stat: Defense | Tier **ɪɪ** | 1/9
-▮▯▯▯▯▯▯▯▯
+Training for Stat: Defense | Tier **ɪɪ** | 6/9
+▮▮▮▮▮▮▯▯▯
 
 **INVENTORY (4 slots)**
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Eᴍᴘᴛʏ | Vacant inventory slot.
 *Equipped Item: Oran Berry | Heals 10 HP under 50% health.
-1. Eᴍᴘᴛʏ | Vacant inventory slot.
-2. Tiny Reviver Seed | Revives fainted allies at half health.
+1. Chunk of Meteor | Sells for 125P.
+2. Chunk of Meteor | Sells for 125P.
 3. Tiny Reviver Seed | Revives fainted allies at half health.
 4. Oran Berry | Heals 10 HP under 50% health.
 
@@ -85,7 +85,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Dragon Gem | Powers up Dragon Type moves, once.
-2. Used TM81 | It no longer teaches the move Fire Fang.
+2. Perfect Portrait | Orner fanart by Sugar the Smeargle.
 
 **RP/QUEST STORAGE (∞ slots)**
 Type | Item Name | Description

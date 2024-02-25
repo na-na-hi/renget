@@ -66,12 +66,16 @@ A standard-issue dagger infused with the <Myth> of a nameless soldier in the Tro
 
 A bow infused with the <Myth> of a nameless huntress of Artemis. Slightly more effective against <Beasts> and <Monsters>. Can be used as an <Enchant> target or ingredient.
 
->Ladon’s Fang (uncommon dagger)
+>Ladon’s Fang (Uncommon Dagger)
 
 A serrated tooth from the great serpent Ladon. Somewhat suppresses fatigue and the need to sleep when in use.
 
 >Gloves of Ruin (Rare Gauntlet)
 Silken scarlet gloves with fingertips that can sharpen into deadly claws at will. Imbues the effects of <Touch of Madness> upon the target. If the incarnation using this weapon does not possess the authority <Touch of Madness>, it will imbue the effects of that authority at level 1
+
+>Cyclops’ Eye (Uncommon Firearm) (x2)
+
+A modern weapon mass produced in the forge of a divine craftsman. Dramatically increases the effectiveness of the bullets against incarnations by imbuing them with divinity.
 
 
 ##Authority Crystals

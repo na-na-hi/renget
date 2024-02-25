@@ -1,4 +1,28 @@
-#MLP Jailbreaks:
+###MLP Jailbreaks:
+
+## Scuffed MLP Writer (Claude 2.1)
+
+https://mlpchag.neocities.org/Jailbreaks/ScuffedMLPWriter.json
+
+Newest ada preset for storytelling.
+
+## Scuffed MLP Writer RP (Claude 2.1)
+
+https://mlpchag.neocities.org/Jailbreaks/ScuffedMLPWriterRP.json
+
+Newest ada preset. Adapted for RP.
+
+## The_Quack (Basic) (Claude 2.0)
+
+https://mlpchag.neocities.org/Jailbreaks/Quack.json
+
+More info: https://pastebin.com/A0fmkP3m 
+
+## The_Quack (Asshole Storyteller) (Claude 2.0)
+
+https://mlpchag.neocities.org/Jailbreaks/AssholeQuack.json
+
+More info: https://pastebin.com/A0fmkP3m
 
 ## MLPStoryRuleset
 

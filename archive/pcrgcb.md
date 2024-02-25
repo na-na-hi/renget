@@ -69,6 +69,18 @@ Princess Kyaru 5★ Lv298 R32 FULL, EX 5/5/5
 ![](https://pomf2.lain.la/f/18zyr2d.png)
 
 ### Boss 2
+[B2 Magic 110m [+2m with Water damage and crit nodes] - 0 manual inputs](https://www.youtube.com/watch?v=04yMlwSWVDs) 
+![](https://pomf2.lain.la/f/2c8vuo64.png)
+Tested with: 
+Summer Yui 3★ Lv298 R32 FULL, EX 5/5/5
+Summer Neneka 5★ Lv298 R32 FULL, EX 5/5/5
+Summer Kasumi 5★ Lv298 R32 FULL, EX 5/5/5 **UE300**
+Ameth 5★ Lv298 R32 FULL, EX 5/5/5
+Summer Kyouka 5★ Lv298 R32 FULL, EX 5/5/5
+
+![](https://pomf2.lain.la/f/gbhpvqcq.png)
+don't SET Kyouka at 05 and use her when you see Yui's text bubble instead for some extra average damage
+
 
 [B2 Magic 108-111m [104m R32 Kasumi] - 0 manual inputs](https://www.youtube.com/watch?v=u_OA1bJH2uY) 
 ![](https://pomf2.lain.la/f/5u7ivchj.png)

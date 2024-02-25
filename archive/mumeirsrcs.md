@@ -5,10 +5,9 @@
 %#F29FBE%All of these can be recolored through Ibispaint X.%%
 [F2u Graphics :3 ( Made by me ).](https://rentry.co/mumeisgraphics)
 
-***
 ![Divider](https://files.catbox.moe/qxsdxh.png)
 ***
-
+***
 creds to [pixelprism!](https://rentry.co/prismdividers) :3
 ![](https://files.catbox.moe/act2ky.png)
 ![](https://files.catbox.moe/tpe6k6.png)
@@ -16,8 +15,10 @@ creds to [pixelprism!](https://rentry.co/prismdividers) :3
 ![](https://files.catbox.moe/qfabet.png)
 ![](https://files.catbox.moe/43feu2.png)
 ***
-made by engagekiss / kokoa, credit if using
+***
+made by outergoddess, credit if using
 ![](https://files.catbox.moe/2xza2o.png)
+***
 ***
 ![](https://files.catbox.moe/aa3crb.png)
 ![](https://files.catbox.moe/ckcldy.png)
@@ -66,3 +67,4 @@ made by engagekiss / kokoa, credit if using
 ![](https://files.catbox.moe/u34z4z.PNG)
 ![](https://files.catbox.moe/sjcmc3.png)
 ![](https://files.catbox.moe/p4bj7c.png)
+![](https://files.catbox.moe/0sqb2a.png)

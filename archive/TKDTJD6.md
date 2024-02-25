@@ -1767,3 +1767,247 @@ https://t.me/me_observer_channel/154906  2/23/24
 
 >Occupied Palestine: Journalist Alam Al-Din Sabah: Violent clashes taking place between the resistance and the occupation forces in the Al-Zaytoun neighborhood in #Gaza City.
 https://t.me/me_observer_channel/154909  2/23/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 23 (2024), against (US)-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Merkava tank with Yassin-105s, southwest of Al-Zaytoun neighborhood in Gaza.
+
+🔻Targeted a group of IOF soldiers inside a house with an anti-personnel rocket, resulting in casualties, south of Al-Zaytoun neighborhood in Gaza.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Ambushed & destroyed 2 Merkava tanks in a well-planned engineered ambush on Street 8 in Al-Zaytoun neighborhood in Gaza.
+
+🔻Shelled gatherings of IOF forces & their vehicles with mortar shells east of the central Gaza Strip.
+
+🔻Shelled locations of IOF forces & their vehicles around "Dawla and Street 8" south of Gaza with 60mm mortar shells.
+
+🔻Targeted 2 military vehicles with RPGs, in the western axis of Khan Yunis.
+
+🔻Targeted a Merkava tank with RPGs, in the central axis of Khan Yunis.
+
+🔻Engaged with an IOF force inside a building, causing casualties between dead and wounded, west of Khan Yunis.
+
+🔻Targeted a Merkava tank with a Tandem rocket, resulting in casualties inside and the soldiers around it in the Aabsan Al-Kabira area east of Khan Yunis.
+
+🔻Targeted and detonated a Merkava tank with an explosive device in the Al-Amal neighborhood, west of Khan Yunis.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted a military vehicle with RPGs, in the axis south of Al-Zaytoun neighborhood in Gaza.
+
+🔻Targeted an IOF armored personnel carrier (APC) in the axis west of Khan Yunis, in the southern Gaza Strip.
+
+🔻Targeted a Merkava tank in the axis central of Khan Yunis in the southern Gaza Strip.
+
+🔻Shelled gatherings of IOF soldiers and their military vehicles with 60mm regular mortar shells in the axis of Al-Zaytoun neighborhood, southeast of Gaza City.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted an IOF force inside a building in Al-Zaytoun neighborhood with a “Saeer” missile, causing casualties among the force.
+
+🔻Engaged in fierce clashes with israeli army vehicles and IOF soldiers using appropriate weapons on the axes in Khan Younis city. 
+
+🔻In a joint-operation with Saraya Al-Quds, they sniped a number of IOF soldiers who were stationed atop their vehicles around Tayba Towers, south of Japanese neighborhood, west of Khan Younis.
+
+🔻Engaged in fierce clashes with IOF army vehicles and soldiers on the axes in Al-Zaytoun neighborhood in Gaza City. 
+
+— 🟡 Hezbollah:
+
+🔻Launched 2 kamikaze drones targeting the headquarters of the regional council in Kiryat Shmona, confirming hitting their target accurately.
+
+🔻Targeted the Al-Malikiyah site with 2 Burkan IRAM rockets.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shabaa Farms with rockets.
+
+🔻Targeted the Radar site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Al-Malikiyah site with rockets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761183131292319757#m  2/24/24
+
+>Haaretz quoting dozens of UN experts: An arms embargo should be imposed on Israel immediately. 
+
+I’ll tell you what will happen, nothing will happen.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761320465279123742#m  2/24/24
+
+>⚡️MUST WATCH: Hezbollah published another footage showing the targeting of the headquarters of the israeli 769th Eastern Brigade, in the Kiryat Shmona barracks, with a top-attack Almas ATGM.
+
+Another beautiful recorded impact 🔻
+https://nitter.esmailelbob.xyz/AryJeay/status/1761323870944887260#m  2/24/24
+https://files.catbox.moe/vfeu4w.mp4  2/24/24
+
+>⚡️WATCH: Al-Quds Brigades (PIJ) published a video showing the rocket barrages that striked military concentrations in the areas south of Gaza City (Al-Zaytoun).
+https://nitter.esmailelbob.xyz/AryJeay/status/1761362245743714815#m  2/24/24
+https://files.catbox.moe/uuk2uf.mp4  2/24/24
+
+>Casualties among innocent Palestinian civilians in an Israeli airstrike targeting the Shahin family home in Rafah.
+https://nitter.esmailelbob.xyz/QudsNen/status/1761368580673708233#m  2/24/24  
+
+>US senators have send a letter to President Biden expressing their concerns about further transfers of US weapons to Israel. Senator Chris Van Hollen, Brian Schatz, Ben Ray Lujan, and Martin Heinrich highlighted these concerns against the context of the humanitarian crisis in Gaza and the escalating situation in Rafah, where Israel threatens to invade.
+https://nitter.esmailelbob.xyz/QudsNen/status/1761392933859729835#m  2/24/24
+
+>Protesters marching down the streets in east London, in support of Gaza and demanding justice for Palestinians.
+https://nitter.esmailelbob.xyz/QudsNen/status/1761404524420350191#m  2/24/24  
+
+>Israeli Minister of Heritage, Amihai Eliyahu: "Biden is making a grave mistake because the establishment of a Palestinian state will lead to a holocaust"
+https://nitter.esmailelbob.xyz/QudsNen/status/1761422083119104490#m  2/24/24
+
+>⚡️The #Israeli army says that it found this paper written in Sinwar’s handwriting in Khan Yunis :
+
+"I am very very angry with Hassan Nasrallah"
+
+LOĹLL 😂😂😂😂😂😂😂😂😂🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤣
+
+What the hell is this 😂😂😂
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761395169159479505#m  2/24/24  
+
+>They tried to deliver two messages with this failed childish propaganda operation :
+
+1- To tell Israelis that 4 days ago Sinwar was in this tunnel in Khan Yunis. "We are making progress".
+
+2- To cast doubt on the resistance and divide the ranks and cause despair
+
+But their story is so bad and stupid that it will certainly have the opposite effect.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761402035939717532#m  2/24/24  
+
+>The IOF admits to the death of an officer killed in the northern Gaza Strip:
+
+🔻Maj. Eyal Shuminov, 24, a company commander in the Givati Brigade's Shaked Battalion.
+
+He found out.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761444544170627322#m  2/24/24  
+
+>🚨 Preliminary reports of gunfire shooting at the entrance to the Nahal Brigade's training base near Arad in southern occupied Palestine. Medics are heading to the scene due to injuries.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761469585943908570#m  2/24/24  
+
+>⚡️Several impacts on Kiryat Shmona and Beit Hillel
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761473375082287338#m  2/24/24 
+https://files.catbox.moe/upe9fq.mp4  2/24/24  
+
+>⚡️Hezbollah: We targeted the "Zarait" barracks with a Burkan missile, and we hit it directly.
+
+⚡️Hebrew Channel 12: 3 anti-tank missiles hit the Beit Hillel settlement near the border with #Lebanon.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761473970992185752#m  2/24/24
+
+>⚡️Hezbollah:
+
+ We targeted the headquarters of the Beit Hillal Battalion, affiliated with the 769th Eastern Regional Brigade, with Katyusha rockets.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761474789560942925#m  2/24/24  
+
+>⚡️Regarding the negotiations : 
+Hamas leader Mahmoud al-Mardawi told Al-Mayadeen: 
+
+The enemy is weaving a negotiating narrative that we have nothing to do with
+
+ Until this moment, we have not received anything from the mediators about what is being proposed in Paris for us to evaluate and build on.
+
+ Are the details of the new proposal consistent with what constitutes a decisive position that achieves the interests of our people?
+
+ The visit of the head of the #Hamas Political Bureau to Cairo did not fall within the context of the details of the negotiations
+
+ The #Hamas delegation discussed with the #Egyptian brothers breaking the siege to save our people in the northern region
+
+ The enemy’s attempts to achieve at the negotiating table what it did not achieve in the field have all failed
+
+ We will not push any position unless it achieves our interests and confirms our rights, and the mediators are aware of the details of our position.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761480438927749388#m  2/24/24
+
+  >⚡️Military source: The renewed raids of the American-British aggression are a miserable attempt to prevent #Yemen from providing support operations to the #Palestinian people in #Gaza.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761503029260365928#m  2/24/24  
+
+>⚡️| 🇾🇪 JUST IN: Yahya Sarae:
+
+The Yemeni Armed Forces targeted the American “TORM THOR” ship in the Gulf of Aden, with a number of anti-ship missiles.
+
+They also targeted a number of American warships in the Red Sea with several drones.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761521230006427886#m  2/24/24  
+
+>BREAKING| Following airstrikes targeting San'aa, a joint statement by the UK and the US claims that "the goal of this multi-national effort is to defend ourselves, our partners, and allies in the region and restore freedom of navigation by destroying Houthi capabilities used to threaten U.S. and partner forces in the Red Sea and surrounding waterways."
+https://nitter.esmailelbob.xyz/QudsNen/status/1761517635122958409#m  2/24/24  
+https://files.catbox.moe/mjrm9d.mp4  2/24/24  
+
+>⚡️⚡️The British Trade Association says it has received a report of an accident 70 nautical miles east of the port of Djibouti, and the authorities are investigating.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761526480452895195#m  2/24/24  
+
+>⚡️#YEMEN :  Scenes from the American-British aggression targeting an insecticide factory in Al-Nahda neighborhood in Al-Thawra District in the capital Sana’a, and the homes adjacent to the factory were damaged.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1761532347227189661#m  2/24/24  
+https://files.catbox.moe/ptqpb1.mp4  2/24/24  
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 24 (2024), against (US)-israeli forces:
+
+— 🇾🇪 Yemeni Armed Forces:
+
+🔻Targeted the American “TORM THOR” ship in the Gulf of Aden with several anti-ship missiles.
+
+🔻Targeted several American warships in the Red Sea with several kamikaze drones.
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a Merkava tank with a Tandem rocket, south of the Zaytoun neighborhood in Gaza.
+
+🔻Sniped an israeli officer with a Qassam "Ghoul" rifle south of the Zaytoun neighborhood in Gaza.
+
+🔻Destroyed an IOF armored personnel carrier (APC) with a "Shoath" explosive device, south of the Al-Zaytoun neighborhood in Gaza, resulting in casualties among the crew, forcing an israeli helicopter to evacuate them.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Carried out an artillery and rocket strike, targeting the concentrations of IOF soldiers and military vehicles in the axes in Khan Yunis.
+
+🔻Shelled concentrations of IOF vehicles and soldiers in the Al-Zaytoun neighborhood with a number of mortar shells.
+
+🔻Targeted a military vehicle with an RPG, in the Al-Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Engaged in fierce clashes with IOF soldiers and vehicles in the Abasan al-Kabira area east of Khan Yunis, using machine guns, anti-tank, and anti-personnel rockets.
+
+🔻Targeted a military vehicle with a RBG shell in the vicinity of the Dawlat intersection in the Al-Zaytoun neighborhood south of Gaza City.
+
+🔻In a complex operation in the Abasan al-Kabira area, they targeted an IOF army bulldozer with a "Buraq" explosive device and a Merkava tank with a Tandem rocket. The fighters then advanced, stormed the tank, and eliminated its crew at point-blank range.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted a military bulldozer with RPGs in the Al-Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Shelled IOF troops and their military vehicles with mortar shells and short-range rockets, south of the Al-Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Destroyed a military vehicle with an explosive device in the neighborhood west of Khan Yunis, southern Gaza Strip.
+
+🔻Shelled IOF troops and their military vehicles with mortar shells in the axes in Khan Yunis.
+
+🔻Shelled IOF troops and their military vehicles with 60mm regular mortar shells in the Al-Zaytoun neighborhood, southeast of Gaza City.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻In a joint-operation with Al-Quds Brigades, they sniped 6 israeli soldiers who were atop their vehicles near Taybah Towers, south of the Japanese neighborhood, west of Khan Yunis.
+
+🔻Targeted a gathering of israeli military vehicles, south of Al-Zaytoun neighborhood with short-range rockets.
+
+🔻In the last 96 hours, carried out 17 military operations, during which more than 20 israeli soldiers were killed / wounded, through operations ranging from sniping, rocket and mortar shelling, to targeting israeli aircrafts (drones and helicopters) and forces barricaded in vehicles and buildings.
+
+— 🟡 Hezbollah (10 operations)
+
+🔻Targeted a gathering of Israeli soldiers in the Cobra hill with Burkan IRAM rockets.
+
+🔻Targeted a gathering of Israeli soldiers around the Al-Dahirah site with rockets.
+
+🔻Targeted the Ramiya site with suitable weapons.
+
+🔻Targeted a military gathering of Israelis in the Cobra hill with rockets.
+
+🔻Targeted the Ruwaisat Al-Alam site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Zebdine barracks in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Ramim site with a Burkan IRAM rockets.
+
+🔻Targeted a building housing israeli soldiers, in the Al-Malkiyah settlement with suitable weapons.
+
+🔻Targeted the Zari'it barracks with a Burkan IRAM rocket.
+
+🔻Targeted the command headquarters of the Beit Hillel Battalion in the 769 Eastern Regional Brigade with Katyusha rockets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761546992033919435#m  2/24/24
