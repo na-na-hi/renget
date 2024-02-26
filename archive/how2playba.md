@@ -538,7 +538,7 @@ It's fine to skip a shop if you don't need anything from it that month. Try to l
 >Material Synthesis (the normal one)
 **Radiant (purple mats) >= Blu-ray Disks > Furniture (if not capped yet in cafe) > Flower (gifts) >= Shiny (orange mats) > Rest**
 
-**Don't do the tier 2 and 3 nodes if you're still strapped for mats.** If you need to ask if you have enough: you don't. I personally only throw in mats if they have an excess of 200. 
+**Don't do the tier 2 and 3 nodes if you're strapped for mats.** If you need to ask if you have enough: you don't. I personally only throw in mats if they have an excess of 200, and only artifacts, BDs and tech notes 
 
 In case it wasn't clear yet: you get furniture to cap the energy generation from your cafe. 
 

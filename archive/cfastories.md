@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #53 (Monday, 12 February 2024, 06:00 UTC)<-
+->Last updated on thread #55 (Monday, 26 February 2024, 20:15 UTC)<-
 ->She's cute.<-
 
 == **LINKS**
@@ -19,9 +19,6 @@
 - [Kdenlive](https://kdenlive.org/en/download/) (Free video editor by the KDE Community.)
 - [OBS Studio](https://obsproject.com/download) (Free screen recording software.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
-- [Unicorn: Warriors Eternal](https://mega.nz/folder/0agBiRwI#fKksXyIGOnymEouIYxvxOA) (June Way's show.)
-- [Fox Skull Model](https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed) (3D red fox skull model drawing reference.)
-- [/Chic-Fil-A/ Strawpoll](https://strawpoll.com/7rnzmDL5LyO) (Vote for your favorite fox woman!)
 - [Save the Cat!](https://savethecat.com/get-started) (Storytelling guide by Hollywood screenwriter Blake Snyder.)
 
 == **TABLE OF CONTENTS**
@@ -596,8 +593,51 @@ https://foxtailtale.itch.io/the-forgotten-island (RPG)
 
 ---
 !!! info
+    ##/Chic-Fil-A/ Miscellaneous
+---
+#####Unicorn: Warriors Eternal
+`Unicorn: Warriors Eternal`
+https://mega.nz/folder/0agBiRwI#fKksXyIGOnymEouIYxvxOA (June Way's show.)
+
+#####Hana No Kishi Dakini
+`Hana No Kishi Dakini`
+https://fanfox.net/manga/hana_no_kishi_dakini/ (Dakini's manga.)
+
+#####Tanglewood
+`Tanglewood`
+https://www.gog.com/en/game/tanglewoodr (Sega Genesis fox game.)
+
+#####Aseprite
+`Aseprite`
+https://www.aseprite.org/ (Non-free pixel art program.)
+https://www.youtube.com/watch?v=b8EmXzN8_ck&list=PLTkSCcdfGIvgwxXMHcsfqinn1GYqPoIUe (Pixel art dithering.)
+https://www.youtube.com/watch?v=ozbSCI7iuOI&list=PLTkSCcdfGIvgwxXMHcsfqinn1GYqPoIUe (Pixel art dithering tricks.)
+
+#####General
+`3D Fox Skull Model`
+https://sketchfab.com/models/3ac2f0b411bc4077b31eceefcd9ae197/embed (3D red fox skull model drawing reference.)
+`/Chic-Fil-A/ Strawpoll`
+https://strawpoll.com/7rnzmDL5LyO (Vote for your favorite fox woman!)
+
+---
+!!! info
     ##/Chic-Fil-A/ Food Recipes
 ---
+#####63528548 Anonymous: Georgian Chicken Legs
+\>what flavor of chicken are you eating today?
+I cooked Georgian Adjika chicken legs with Bazhe sauce, roasted root vegetables, and Elarji cheesy cornmeal. Shit was so good.
+[![Spiced Chicken: 1708745123154.jpg / 1708745185992.jpg](https://desu-usergeneratedcontent.xyz/trash/image/1708/74/1708745185992.jpg)](https://desu-usergeneratedcontent.xyz/trash/image/1708/74/1708745185992.jpg)
+
+#####63518450 Anonymous: Spiced Chicken
+\>what flavor of chicken are you eating today?
+I've got some thawed in the refrigerator. I will coat it in whatever spices seem like a good idea at the moment. Right now I am thinking of a garlic salt + black pepper + some chili powder I found that is made from smoked chipotle peppers--I found it at Wal-Mart, of all places. Then it will get a dusting of flour, and it'll go in the oven. As usual, I will use the foil-lined covered pan. This is not my picture, but this is a good representation of what they look like when they come out.
+[![Spiced Chicken: 1692035211313380.png / 1708720466698.png](https://desu-usergeneratedcontent.xyz/trash/image/1708/72/1708720466698.png)](https://desu-usergeneratedcontent.xyz/trash/image/1708/72/1708720466698.png)
+
+#####63386809 Anonymous: Chicken Legs
+The chicken came out okay. I buy chicken leg quarters in bulk for 79 cents a pound when they go on sale and do all manner of really lazy stuff with them, usually involving a foil lined, covered roasting pan. You can coat them with ranch dressing and then flour, you can put garlic salt and black pepper on them, let them stand a bit to draw a bit of moisture out of the surface, and coat them in panko bread crumbs. It's cheap protein. I put the covered pan in a cold oven, set it to 400 degrees, turn it on, and set a timer for an hour and forty minutes. It comes out generally browned and completely cooked without drying out. I don't even have to turn it over. I'm lazy.
+Also, this image occurred to me. It got stuck in my head and now you get to see it too.
+[![Anon, Averi, and Pepper:  1688821977060284.png / 1708437375155.png](https://desu-usergeneratedcontent.xyz/trash/image/1708/43/1708437375155.png)](https://desu-usergeneratedcontent.xyz/trash/image/1708/43/1708437375155.png)
+
 #####60368998 Anonymous: Americanized Chinese Chicken
 `Americanized Chinese Chicken`
 Chinese cuisine has uncountable ways to prepare chicken, and many regional variations. If she is making Americanized Chinese food, odds are that it's probably going to be boneless skinless chicken thighs sliced up, coated with cornstarch, and browned rapidly in sesame oil with minced ginger and chopped garlic and onions, then put in some broccoli, fresh peas in the pod, and carrot slices go in, maybe with some shredded cabbage, and get stir-fried rapidly and warmed through without overcooking them. Once they're warmed through and the broccoli is just starting to soften and blanch a tiny bit, they get coated with that Chinese takeout brown chicken sauce that is a mixture of oyster sauce, shiaoxing wine, and chicken stock, with just a pinch of brown sugar, simmered a bit and thickened with cornstarch. Coat with the sauce, heat through, put it on a platter and serve it up with rice or maybe noodles. This is more Cantonese than anything else, and it's the kind of thing they serve at a gorillion Chinese restaurants in the US and Canada. It's a nice, nourishing, savory dish as-is, and the adventurous can add hot peppers.

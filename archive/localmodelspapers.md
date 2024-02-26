@@ -86,6 +86,7 @@
 02/2024|[How to Train Data-Efficient LLMs](https://arxiv.org/abs/2402.09668)
 02/2024|[A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727)
 02/2024|[Gemma: Open Models Based on Gemini Research and Technology](https://files.catbox.moe/og82ni.pdf)
+02/2024|[Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -586,6 +587,8 @@
 02/2024|[Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive](https://arxiv.org/abs/2402.13228)
 02/2024|[Q-Probe: A Lightweight Approach to Reward Maximization for Language Models](https://arxiv.org/abs/2402.14688)
 02/2024|[Take the Bull by the Horns: Hard Sample-Reweighted Continual Training Improves LLM Generalization](https://arxiv.org/abs/2402.14270)
+02/2024|[MemoryPrompt: A Light Wrapper to Improve Context Tracking in Pre-trained Language Models](https://arxiv.org/abs/2402.15268)
+02/2024|[Fine-tuning CLIP Text Encoders with Two-step Paraphrasing](https://arxiv.org/abs/2402.15120)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

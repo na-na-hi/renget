@@ -6,16 +6,16 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 262nd time, what is Ope?!
+For the 263rd time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next members-only stream (zatsudan, Mon 02/26 12PM CT)
+Next public stream (Crab game megacollab, Mon 02/26 8PM CT)
+https://www.youtube.com/watch?v=Rm8hq0feRgM
+Previous members-only stream (zatsudan)
 https://www.youtube.com/watch?v=cijnWjfY4sY
-Next public stream (Twilight watchalong with Shiori and Iofi, Tue 02/27 9PM CT)
-https://www.youtube.com/watch?v=nS8_ck2OJ38
-Previous stream (Advent brunch zatsu collab)
+Previous public stream (Advent brunch zatsu collab)
 https://www.youtube.com/watch?v=wOJJddzg-ao
 
 \>Songs
@@ -37,7 +37,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>69959423
+Previous thread: >>70062743
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

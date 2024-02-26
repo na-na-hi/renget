@@ -82,7 +82,7 @@ Item Name | Description
 1. Meteorite shard | It can be sold for 125P, looks like some sort of candy?
 2. Spicy Seed | Causes Burn on consumption.
 3. Magma Macaroni  | It's not actually made of magma, but it sure can feel like it! (Increases Attack by 2 stages.)
-4. Oran Berry | Heals the user for 10HP.
+4. Empty |Nothing here boss!
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.

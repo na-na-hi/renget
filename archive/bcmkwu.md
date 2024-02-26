@@ -1,3 +1,17 @@
+>Lancet destroys Archer SPG
+https://files.catbox.moe/po7igm.mp4
+>NASAMS goes boom
+https://files.catbox.moe/769ok9.mp4
+>6 min of Russian SSO behind enemy lines (KINO)
+https://files.catbox.moe/izhziu.mp4
+>TIGR-M with EW
+https://files.catbox.moe/bh40nb.MOV
+>Tour of Typhoon-K K-53949
+https://files.catbox.moe/gputun.MOV
+>TOS disrupted the enemy rotation in the Seversk direction
+https://files.catbox.moe/w94v88.MP4
+>Bradley meets ATGM
+https://files.catbox.moe/bnqz8o.mp4
 >Support platoon of the 200th brigade, bakes bread
 https://files.catbox.moe/cnhdtx.mp4
 >Peak cringe Russian crows attacking hoholina maiden

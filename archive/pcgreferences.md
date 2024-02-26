@@ -132,8 +132,12 @@
 ![](https://files.catbox.moe/0tzg18.jpg)
 ####JP Gen 1
 #####Loki
-#####Memory
-#####Pico
+######[Full body](https://files.catbox.moe/o7spsj.jpg)
+![](https://files.catbox.moe/o7spsj.jpg)
+######[Pose](https://files.catbox.moe/udz32l.jpg)
+![](https://files.catbox.moe/udz32l.jpg)
+#####Memory \[none yet\]
+#####Pico \[none yet\]
 #####Yuu
 ######[Ref sheet](https://files.catbox.moe/gz7097.jpg)
 ![](https://files.catbox.moe/gz7097.jpg)

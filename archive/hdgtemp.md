@@ -19,7 +19,6 @@ https://openart.ai/workflows/templates
 >LOCAL MODELS **UPDATED**
 https://civitai.com/models/257749/horsefucker-diffusion-v6-xl
 https://civitai.com/models/288584/autismmix-sdxl
-https://huggingface.co/cagliostrolab/animagine-xl-3.0 *OLD*
 https://rentry.org/5exa3 (Hll+Fluff) *OLD*
 https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine) *OLD*
 
