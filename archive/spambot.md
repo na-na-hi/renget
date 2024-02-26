@@ -1,4 +1,4 @@
--> [![Let's keep going and see what happens.](https://files.catbox.moe/13xyhe.gif)](https://files.catbox.moe/gacsa4.mp3) <-
+-> [![](https://files.catbox.moe/13xyhe.gif)](https://files.catbox.moe/gacsa4.mp3) <-
 
 !!! Send feedback and logs to botslop@protonmail.com ![👈](https://files.catbox.moe/qdthsu.gif)
 
@@ -14,7 +14,7 @@
 
 Character  |  Preview  |  Description  |  Links
 :----------: |  :--:  |  :------------  |  :--:  
-![コンコン](https://files.catbox.moe/3v2uhr.gif) **Medley** | ![dumb](https://files.catbox.moe/duq3mo.gif) | Traveling foxgirl alchemist in a makeshift caravan. Buy something, will you? 8 greetings and character gallery. | [**Download v1.1.0**](https://files.catbox.moe/jaxcwz.png) [Chub](https://chub.ai/characters/spambot/medley-92241a49) [Gallery](https://files.catbox.moe/vumrxv.7z)
+![コンコン](https://files.catbox.moe/3v2uhr.gif) **Medley** | ![dumb](https://files.catbox.moe/duq3mo.gif) | Traveling foxgirl alchemist in a makeshift caravan. Buy something, will you? 8 greetings and character gallery. | [**Download v1.1.0**](https://files.catbox.moe/jaxcwz.png) [Chub](https://chub.ai/characters/spambot/medley-92241a49) [Gallery 🏖️](https://files.catbox.moe/vumrxv.7z)
  ![](https://files.catbox.moe/adau3u.gif) | ![](https://files.catbox.moe/qgtix8.gif) |  |  ████████ ██████ ███████
 
 ***
@@ -35,7 +35,7 @@ Miqu and BagelMIsteryTour. Depends on how impatient I am.
 
 ***
 
-### Changelog
+### Changelog 📜
 
 ```
 2/23/24 - Medley Update v1.1.0

@@ -220,6 +220,10 @@ Craiyon(旧DALL-E mini)|https://www.craiyon.com|https://twitter.com/craiyonai||[
 ***
 
 !!!note 過去スレ
+	[【StableDiffusion】AI画像生成技術17【NovelAI】](https://mevius.5ch.net/test/read.cgi/cg/1703842940/)
+	[【StableDiffusion】AI画像生成技術16【NovelAI】](https://mevius.5ch.net/test/read.cgi/cg/1699931683/)
+	[【StableDiffusion】AI画像生成技術15【NovelAI】](https://mevius.5ch.net/test/read.cgi/cg/1693018825/)
+	[【StableDiffusion】AI画像生成技術14【NovelAI】](https://mevius.5ch.net/test/read.cgi/cg/1674546437/)
 	[【StableDiffusion】AI画像生成技術13【Midjourney】](https://mevius.5ch.net/test/read.cgi/cg/1673148116/)
 	[【StableDiffusion】AI画像生成技術12【Midjourney】](https://mevius.5ch.net/test/read.cgi/cg/1670898879)
 	[【StableDiffusion】AI画像生成技術11【Midjourney】](https://mevius.5ch.net/test/read.cgi/cg/1669278997)

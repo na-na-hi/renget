@@ -745,6 +745,14 @@ From my very limited experience playing other gachas (Arknights, limbus, some ol
 
 You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above (or at) your level. The reward for doing so is nice, but not significant enough to feel bad about skipping it. 
 
+>Is the game f2p friendly? 
+Yes.
+
+You get 12,000 gems (= 100 rolls) on average per month as a f2p ([source](https://www.reddit.com/r/BlueArchive/s/uIqemypEhj) [(image version)](https://i.imgur.com/aFw06dG.png)), which means it takes 2 months to get a spark (guaranteed copy of banner unit).
+
+PvP, event challenges, and raids (BA's endgame) are also all very accessible. While there are tiered rewards for PvP and raids, the difference in rewards between the top and the average is incredibly negligible. 
+For reference, the top rank reward for raids only grant 200 more gems (= 1,67 rolls) more than the the average reward. 
+
 >How do you choose your student wife
 You don't choose her. She chooses you. 
 The best way I can describe it is that everything just 'clicks'. You might not find her for months, maybe even years, and that's okay. You'll know when it happens. Yes, I am being cringe.

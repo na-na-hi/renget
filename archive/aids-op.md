@@ -1,18 +1,16 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image]()
- Edition
+![suggested OP image](https://i.4cdn.org/vg/1708894892520541.png)
+Hydra Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>466881032
+Last thread: >>467082483
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
 ▶Ways to Write
 NovelAI — Paid; remote SaaS: https://novelai.net
 KoboldAI — Free; local or remote colab: https://koboldai.org / https://koboldai.org/colab
-KoboldAI Horde — Free; remote from model hosts: https://lite.koboldai.net
-KoboldAI Runpod — Paid; local models on rented GPU: https://koboldai.org/runpod-united https://rentry.org/uvyqd
-KoboldAI on CPU — Free; local https://koboldai.org/cpp
+oboldAI — Free; local & remote, either from volunteers, Google, or paid hosts: https://rentry.org/cixpvn93
 Saga  — Paid, remote multi-model https://app.sagarpg.io
 
 ▶Other AI
@@ -33,7 +31,7 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-\>Alien Friday is over; write prompts for next week's theme, Science and Laboratory Experiments Friday! >>466765039
+Alien Friday is over; write prompts for next week's theme, Science and Laboratory Experiments Friday! >>466765039
  
 ▶News
 (02/21) NAI Diffusion V3 updates with Vibe Transfer feature: https://medium.com/@novelai/vibe-transfer-7a264645d241

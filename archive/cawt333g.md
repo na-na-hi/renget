@@ -32,7 +32,7 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 :------:|:------:|:------:|:------:
 
 ### [allcharacters18](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/adlQiKyB)
-![](https://i.imgur.com/QYW50WB.png) | ![](https://i.imgur.com/CKK7kJG.png) | ![](https://i.imgur.com/ZKNw8nl.png) | ![](https://i.imgur.com/NF31TbG.png)
+![](https://i.imgur.com/YP4XObl.png) | ![](https://i.imgur.com/CKK7kJG.png) | ![](https://i.imgur.com/ZKNw8nl.png) | ![](https://i.imgur.com/NF31TbG.png)
 :------:|:------:|:------:|:------:
 
 ### [banananosongen](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/eYMUXZwB)
@@ -45,6 +45,10 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 
 ### [hiro hiroki](https://i.imgur.com/iCHaAXU.png)
 ![](https://i.imgur.com/iCHaAXU.png) | ![](https://i.imgur.com/eaGc3aV.png) | ![](https://i.imgur.com/1TfM2gY.png) | ![](https://i.imgur.com/FkQ82FN.png)
+:------:|:------:|:------:|:------:
+
+### [hsch](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/bFtzQBBa)
+![](https://i.imgur.com/bLI6afs.png) | ![](https://i.imgur.com/Be8aXsB.png) | ![](https://i.imgur.com/WUomm6Y.png) | ![](https://i.imgur.com/OZKfd7z.png)
 :------:|:------:|:------:|:------:
 
 ### [kinhasu](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/7Y8HXC7B)
@@ -76,7 +80,7 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 :------:|:------:|:------:|:------:
 
 ### [s16xue](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/iJtjDL4C)
-![](https://i.imgur.com/yt0ptYu.png) | ![](https://i.imgur.com/sfAEySG.png) | ![](https://i.imgur.com/U5xJquE.png) | ![](https://i.imgur.com/p0Y0GM9.png)
+![](https://i.imgur.com/yt0ptYu.png) | ![](https://i.imgur.com/4ulNQ1K.png) | ![](https://i.imgur.com/U5xJquE.png) | ![](https://i.imgur.com/p0Y0GM9.png)
 :------:|:------:|:------:|:------:
 
 ### [seruroku](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/yItExQjA)
@@ -93,6 +97,10 @@ Steps: 14, Sampler: DPM++ SDE, CFG scale: 7, Seed: 0, Size: 832x1216, Model hash
 
 ### [toketou](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/3JUFXZzL)
 ![](https://i.imgur.com/GaRAdrl.png) | ![](https://i.imgur.com/Mky0Ee3.png) | ![](https://i.imgur.com/SQhwq5D.png) | ![](https://i.imgur.com/r3st7F8.png)
+:------:|:------:|:------:|:------:
+
+### [tsukushi akihito](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/jQsjxBBT)
+![](https://i.imgur.com/sk1ebp2.png) | ![](https://i.imgur.com/MxHV3dQ.png) | ![](https://i.imgur.com/6vu5htQ.png) | ![](https://i.imgur.com/N5wYAze.png)
 :------:|:------:|:------:|:------:
 
 ### [waymay](https://mega.nz/folder/2FlygZLC#ZsBLBv4Py3zLWHOejvF2EA/folder/WBUSwJJZ)

@@ -2011,3 +2011,81 @@ https://files.catbox.moe/ptqpb1.mp4  2/24/24
 
 This list did not include rockets fired from Gaza towards settlements.
 https://nitter.esmailelbob.xyz/AryJeay/status/1761546992033919435#m  2/24/24
+
+>The IOF admits to the death of an officer killed in the southern Gaza Strip:
+
+🔻Staff Sgt. Nerya Belete, 21, of the Givati Brigade's reconnaissance unit.
+https://t.me/FotrosResistance/5596  2/25/24
+
+>The IOF admits the death of another soldier killed in the southern Gaza Strip
+
+🔻Staff Sgt. Ido Eli Zrihen, 20, of the Givati Brigade's reconnaissance unit.
+https://t.me/FotrosResistance/5597  2/25/24
+
+  >MUST WATCH: The Mujahideen Brigades published a video showing its joint-operation with Saraya Al-Quds, where they sniped 6 IOF soldiers atop their military vehicles, in the vicinity of the towers of Taybah, west of Khan Younis city.
+https://twitter.com/AryJeay/status/1761724659261649095  2/25/24  
+https://files.catbox.moe/67ruzx.mp4  2/25/24  
+
+>A circulated image depicts an Israeli soldier holding an American flag, posing alongside a sign endorsing the construction of settlements in Gaza and promoting an American construction company.
+https://t.me/QudsNen/97104  2/25/24  
+
+>Heavy clashes following Israeli forces raid in Haras Al-Sa'ada area, Jenin.
+https://t.me/QudsNen/97100
+https://files.catbox.moe/ji3sfa.mp4  2/25/24  
+https://files.catbox.moe/6qq1ob.mp4  2/25/24  
+
+>BREAKING| Huge crowds started to flock to the streets of several cities across Spain in a day of action, which is expected to see 100 protests across the country demanding government to halt arms export to Israel.
+https://t.me/QudsNen/97096  2/25/24  
+
+>Maariv:
+The mayor of Kiryat Shmona, Avichai Stern, calls on the settlers who remained in the city to leave the city today, and says that #Hezbollah is moving quickly and it is dangerous to remain in the city.
+https://t.me/me_observer_channel/155976  2/25/24  
+
+>Urgent || Issued by Al-Quds Brigades:
+
+Our mujahideen managed to snipe a Zionist soldier in the vicinity of the Stars Hall, south of the Zaytoun neighborhood in #Gaza City.
+Al-Aqsa Flood
+https://t.me/me_observer_channel/155970  2/25/24  
+
+>⚡️WATCH: Al-Qassam (Hamas) published a video showing its forces clash with IOF military vehicles & IOF soldiers in the areas of Khan Yunis, south of the Gaza Strip. 
+https://twitter.com/AryJeay/status/1761779104720847133  2/25/24  
+https://files.catbox.moe/ngi2mu.mp4  2/25/24  
+
+>Yemen: The Shura Council in #Sanaa: We affirm our support for continuing military operations against the occupation in response to the call of the #Yemeni street and in implementation of the directives of the revolutionary and political leadership in support of the #Palestinian people until the aggression and siege stop.
+https://t.me/me_observer_channel/156022  2/25/24  
+
+>A military speedboat approached a vessel, east of UAE, south of Hormoz strait.
+https://t.me/FotrosResistance/5603  2/25/24  
+
+>The UN World Food Programme (WFP) halted the provision of essential food aid to northern Gaza days ago, pending the establishment of conditions suitable for safe distributions.
+
+Alongside Israel's blockade, which prevents food convoys from reaching northern Gaza, famine now threatens the lives of over half a million Palestinians.
+https://t.me/QudsNen/97129  2/25/24  
+
+>Occupied Palestine: Al-Masdar to Al-Mayadeen: These two issues (ceasefire and military withdrawal) are essential for #Hamas and the #Palestinian resistance factions and are not subject to bargaining.
+https://t.me/me_observer_channel/156087  2/25/24  
+
+>Yedioth Ahronoth:
+
+An #Israeli delegation consisting of the Mossad and Shin Bet agencies will arrive tomorrow, Monday, in the Qatari capital, Doha, to begin talks with Qatari mediators about the details of the exchange deal.
+
+- The talks in Doha will address all issues; Of which:
+1- A list of the names of the #Israeli prisoners who will be released.
+2- The names of the #Palestinian prisoners who will be released by #Israel.
+3- Conditions for a ceasefire, including the withdrawal of the #Israeli army from the #Gaza Strip.
+4- Discussing the cessation of intelligence collection by #Israel.
+5- Limited return of citizens from the south of the #Gaza Strip to its north.
+https://t.me/me_observer_channel/156086  2/25/24  
+
+>Occupied Palestine: Sources to Al-Mayadeen: The clear progress in the second Paris meeting is the increase in the number of #Palestinian prisoners required to be released
+https://t.me/me_observer_channel/156105  2/25/24  
+
+>| During the past 24 hours, 10 wounded israeli terrorists were transferred to Soroka Hospital as a result of the battles in Gaza, including 4 seriously injured.
+https://t.me/FotrosResistance/5604  2/25/24  
+
+>Hezbollah published a video from the operation that targeted several IOF sites and positions on the border.
+https://twitter.com/AryJeay/status/1761845482110779400  2/25/24  
+https://files.catbox.moe/j40vbi.mp4  2/25/24  
+
+>BREAKING| Scenes from the vicinity of the Israeli embassy in Washington DC. after an American soldier self-immolated in protest against the genocide in Gaza. 
+https://t.me/QudsNen/97137  2/25/24

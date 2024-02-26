@@ -14,6 +14,7 @@ please give feedback :3
 
 character | description | links
 ---------- | ----------- | ------
+Mika | A... girl, but she falls. | [chub](https://chub.ai/characters/Anonymous/mika-6b1342b8/main) [catbox](https://files.catbox.moe/4cuph1.png) [drive](https://drive.proton.me/urls/D489SE9YHR#6n4RdQ1tUm6T) [full](https://drive.proton.me/urls/9J727V9NW8#Q4q8cUvQJDYx)
 Nyx | Just a girl. Nothing else. | [chub](https://chub.ai/characters/camicle/nyx-30fd1bef/main) [catbox](https://files.catbox.moe/sadl2e.png) [drive](https://drive.proton.me/urls/PB12P7D07M#PES8PPQmuG7P) [full](https://drive.proton.me/urls/EG48HF5798#CE7tmUzxtifu) [alts](https://catbox.moe/c/leud41)
 Name-chan | A cute assistant to help you come up with some names! | [chub](https://chub.ai/characters/camicle/name-chan-db79aa7a) [catbox](https://files.catbox.moe/gu463d.png) [drive](https://drive.proton.me/urls/H3MNNJ3H3G#Z0ot7nLc4L0K) [full](https://drive.proton.me/urls/54B2PEE0FC#M8eXluz7dKMP)
 Lin Aksel | 36 year old divorced man looking to remarry (You). | [chub](https://chub.ai/characters/camicle/lin-aksel-eb8bc4a9) [catbox](https://files.catbox.moe/gbp8n3.png) [drive](https://drive.proton.me/urls/W5SNG7JJ9M#8XWkJzfyo4dP) [full](https://drive.proton.me/urls/S59KV7850G#cECzOuhVpKbV) [alts](https://1drv.ms/a/s!AsRaAtxDEJKPgQG4vDeKUoe-EASQ)

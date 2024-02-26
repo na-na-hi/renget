@@ -15,8 +15,8 @@
 ***
 ***
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1100907741209436160/6BA2472F-2101-406A-AD41-AA8C93DDE94A.png) <-
--> IF ANYONE HAS MY PIXELS HOARDED ON ANOTHER HOARDING THING BESIDES DISCORD SEND ME THEM PLEASE <-
-
+-> **i won't be taking this rentry down and i'll try to get all the pixels back on it properly as soon as possible, however i'll be putting off fixing the dividers & fandom pix for a while. i will def do them but not rn.** <-
+-> **this was like literal horrible timing cause i have finals, but i promise to put it all back up cause i know my rentry is used by many people!! thank you all for the support, if you have any amount of pixels from here hoarded on another site, please send me them on @yatoras on discord!**<- 
 -> **navigation** <-
 -> [pixels](https://rentry.org/rsrcs) - [fandom pixels](https://rentry.org/themedpixel) - [dividers](https://rentry.org/finnsdividers) - kaomojis - blinkies stamps buttons - [useful links](https://rentry.co/advising) <-
 !!! note

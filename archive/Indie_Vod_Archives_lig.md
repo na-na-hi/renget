@@ -37,7 +37,8 @@ Meiya| [Link](https://www.youtube.com/@meiyavods/videos)| Twitch: https://www.tw
 Content|Link|Description 
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@NyannersVODs)|
-Unofficial Nyanners Vod Archive | [Link](https://rentry.org/Nyanners_Vod_Archive) | [Discontinued]
+Unofficial Nyanners Vod Archive Rentry | [Link](https://rentry.org/Nyanners_Vod_Archive) | Includes Youtube, MS onedrive and Archive.org links
+
 
 ---
 
@@ -59,7 +60,8 @@ Unofficial Olivia Monroe Vod Channel | [Link](https://www.youtube.com/@Oliviamon
 Content|Link|Description 
 -------|-------|------- 
 Official Pomu Vod Channel| [Link]( https://www.youtube.com/@PomuRainpuff/videos)| 
-Unofficial Pomu Metal Gear Solid Vod Archive | [Link](https://onedrive.live.com/?authkey=%21AA%2D%2DW39Y3U4p4P4&id=39880C3977C3B3F6%21303&cid=39880C3977C3B3F6)| 
+Unofficial Pomu Metal Gear Solid Vod Archive | [Ms Onedrive](https://onedrive.live.com/?authkey=%21AA%2D%2DW39Y3U4p4P4&id=39880C3977C3B3F6%21303&cid=39880C3977C3B3F6)| 
+Unofficial Pomu Metal Gear Solid Vod Archive backup | [Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-AF9nrYrG3--G9j2ysmEW9)| 
 
 
 

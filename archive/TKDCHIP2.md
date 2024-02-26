@@ -56,6 +56,12 @@ https://files.catbox.moe/4poqg4.mp4  New  2/23/24
 >WATCH: Al-Qassam Brigades (Hamas) published a video showing their clashes with IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
 https://files.catbox.moe/4poqg4.mp4  New 2/23/24
 
+>MUST WATCH: The Mujahideen Brigades published a video showing its joint-operation with Saraya Al-Quds  
+https://files.catbox.moe/67ruzx.mp4  New  2/25/24
+
+>WATCH: Al-Qassam (Hamas) published a video showing its forces clash with IOF military vehicles & IOF soldiers in the areas of Khan Yunis
+https://files.catbox.moe/ngi2mu.mp4  New  2/25/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -85,6 +91,9 @@ https://files.catbox.moe/5k9c01.mp4  New  2/22/24
 
 >MUST WATCH: Hezbollah published another footage showing the targeting of the headquarters of the israeli 769th Eastern Brigade, in the Kiryat Shmona barracks, with a top-attack Almas ATGM. Another beautiful recorded impact 🔻
 https://files.catbox.moe/vfeu4w.mp4  New  2/24/24
+
+>Hezbollah published a video from the operation that targeted several IOF sites and positions on the border.
+https://files.catbox.moe/j40vbi.mp4  New  2/25/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -131,7 +140,6 @@ AnsarAllah Videos
 
 >The Yemeni armed forces release the video of the American MQ9 shoot down" The #Yemeni air defenses shot down an American MQ9 plane in the airspace of Hodeidah Governorate with a locally made surface-to-air missile while it was carrying out hostile missions against our country on behalf of the Zionist entity - 02-19-2024 AD
 https://files.catbox.moe/d4aj9a.mp4  New  2/19/24
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 New Islamic Resistance Iraq
@@ -349,3 +357,6 @@ https://files.catbox.moe/mjrm9d.mp4
 >⚡️#YEMEN :  Scenes from the American-British aggression targeting an insecticide factory in Al-Nahda neighborhood in Al-Thawra District in the capital Sana’a, and the homes adjacent to the factory were damaged.
 New  2/24/24
 https://files.catbox.moe/ptqpb1.mp4
+>Heavy clashes following Israeli forces raid in Haras Al-Sa'ada area, Jenin.
+https://files.catbox.moe/ji3sfa.mp4  2/25/24
+https://files.catbox.moe/6qq1ob.mp4  2/25/24

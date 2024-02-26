@@ -425,6 +425,9 @@ https://files.catbox.moe/lerky2.safetensors soraname
 [![1girl no scores](https://files.catbox.moe/yim0ux.png)](https://files.catbox.moe/2xg3em.png)[![1girl scores](https://files.catbox.moe/qa79f4.png)](https://files.catbox.moe/1j9fg3.png)[![chun-li no scores](https://files.catbox.moe/m82i9i.png)](https://files.catbox.moe/hj0zs0.png)[![2b score_9 only](https://files.catbox.moe/u7fjxr.png)](https://files.catbox.moe/phcw5t.png)[![korra scores](https://files.catbox.moe/l5sgnk.png)](https://files.catbox.moe/dgp20s.png)
 https://files.catbox.moe/gcm2x4.safetensors tamano_kedama
 
+[![1girl no scores](https://files.catbox.moe/xybznn.png)](https://files.catbox.moe/ir4kn8.png)[![1girl scores](https://files.catbox.moe/vu4rii.png)](https://files.catbox.moe/8mv8o4.png)[![chun-li no scores](https://files.catbox.moe/aej5l4.png)](https://files.catbox.moe/aqq0r3.png)[![2b score_9 only](https://files.catbox.moe/2br1o2.png)](https://files.catbox.moe/15t2ie.png)[![korra scores](https://files.catbox.moe/b9zpsx.png)](https://files.catbox.moe/rxcgj5.png)
+https://files.catbox.moe/nn9cn2.safetensors phantom_ix_row
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

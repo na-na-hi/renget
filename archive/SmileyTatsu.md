@@ -2,11 +2,9 @@
 
 -> ![SmileyTats](https://i.imgur.com/t552Mvf.jpg) <-
 
--> Cute Draws! <-
--> https://rentry.org/SmileyDraws <-
-
--> NAI Artists Styles <-
--> https://rentry.org/SmileyNAIArtists <-
+-> ==Smiley Proxy== <- | -> ==NAI Styles== <- | -> ==Cute Draws== <-
+:----: | :----: | :----:
+-> [[ Click Here ]](https://rentry.org/SmileyProxy) <- | -> [[ Click Here! ]](ttps://rentry.org/SmileyNAIArtists) <- | -> [[ Click Here! ]](https://rentry.org/SmileyDraws ) <- | 
 
 ***
 

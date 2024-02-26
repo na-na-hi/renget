@@ -12,8 +12,7 @@ anthropic context size: 200000
 openai output size: 4096
 anthropic output size: 4000
 ```
-
-actual token count is a lot higher. Will purge the banned tokens later.
+actual token count is a higher. Will purge the banned tokens later. Expect ~30 minutes of downtime. I will announce it before it happens.
 total **active** users: 115 %red% (CLOSED) %%
 ***
 

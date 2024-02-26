@@ -10,7 +10,7 @@ Evan was a man who you would pass on the street every day. Nothing special going
 **Species:** Snivy | **Affiliation:** None
 **Level:** 12 | **Experience to Next Level:** 35/120
 **Worn Item:** *N/A* | **Clothing:** *Green Scarf*
-**Pokécoin:** 843₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 493₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -68,7 +68,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: Special Defense | 1 | 2/9 | ▮▮▯▯▯▯▯▯▯
+Currently Training for Stat: Special Defense | 1 | 5/9 | ▮▮▮▮▮▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -79,7 +79,7 @@ Item Name | Description
 *Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Eye-Drop Seed | Never miss and gain +5 Perception Skill for 4 turns.
 2. Blast Seed | Explodes on contact for 10 true damage.
-3. Meteor rocks | Purpose unknown.
+3. Starf Berry | A mysterious, rare berry with conflicting flavors across the spectrum, described as otherworldly. (2 Sweet, 2 Sour, 2 Spicy)
 4. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 
 **STORAGE (2 slots)**
@@ -88,7 +88,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Big Apple | Gives +4 to any outside-combat-action.
-2. Eᴍᴘᴛʏ | Vacant inventory slot.
+2. Meteor rocks | Purpose unknown.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

@@ -9,8 +9,8 @@
     I won't reply to tech support emails. If you want more IPs, include your token and explanation in the email, and don't ask before you hit the limit.
 
 !!! note news
-    Cooders is back up. Considering setting up a turbo proxy.
-    Still out of keys.
+    >50 emails only asking for tokens, nothing else
+    ~~Still out of keys.~~ ?
     Haven't answered emails. Not sure if this is sustainable, at least with my scraping skills and lack of donations.
     Added dark mode.
 
@@ -23,7 +23,7 @@ Contact: scrappy@veryscrappy.moe
 veryscrappy.moe
 
 
-If you haven't received a reply within 48 hours, you didn't do the below. Try sending another email.
+~~If you haven't received a reply within 48 hours, you didn't do the below. Try sending another email.~~ Not currently answering emails.
 All you have to do is be polite and proofread your emails! I don't need anything else.
 
 Server paid for until: 2024-04-16 ($5/mo)
@@ -31,19 +31,6 @@ Domain paid for until: 2025-01-15 ($15/yr)
 
 ---
 ###### stats
-
-Cloudflare stats (previous 30 days, outdated):
-Total bandwidth: 18.21 GB
-Total requests: 419.21k
-
-Top Traffic Countries / Regions
-Country / Region|Traffic (# of requests)
----|---
-United States|123,440
-Korea, South|38,767
-Japan|25,484
-Mexico|21,022
-Sweden|16,967
 
 !!!Note 379 users | 356110 proompts | 2492 IPs | 3.181b tokens | US$37867.08 cost
 User||Prompts|IPs|Usage

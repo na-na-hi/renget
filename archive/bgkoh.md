@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 13 | **Experience to Next Level:** 5/130
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 54₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 9P | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -76,11 +76,11 @@ Currently Training for Skill: Foraging **ɪ** | Tier **0** | 1/3 | ▮▯▯
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+*Worn/Held Item: Defense Scarf* | Increases Defense by 1.
+*Equipped Item: N/A | Nothing here boss!
 1. Meteorite shard | It can be sold for 125P, looks like some sort of candy?
 2. Spicy Seed | Causes Burn on consumption.
-3. Eᴍᴘᴛʏ | Nothin' here boss!
+3. Magma Macaroni  | It's not actually made of magma, but it sure can feel like it! (Increases Attack by 2 stages.)
 4. Oran Berry | Heals the user for 10HP.
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

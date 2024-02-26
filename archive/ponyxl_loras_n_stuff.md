@@ -40,6 +40,7 @@ https://files.catbox.moe/hfpslw.safetensors empty_eyes_drooling example gen: htt
 https://files.catbox.moe/9qixqa.safetensors glowing_eyes activation trigger is glowing eyes
 https://files.catbox.moe/yz5c9g.safetensors quadruple_amputee activation trigger is quadruple amputee
 https://files.catbox.moe/tlt57h.safetensors ugly_bastard prompt stuff like ugly_male, ugly_bastard, old_male
+https://files.catbox.moe/ois9av.safetensors oral_cumshot_xray the activation triggers are cum in stomach, stomach \(organ\), cum in throat, lazy example gen: https://files.catbox.moe/h2j2dl.png
 
 Resized ones:
 https://files.catbox.moe/z71ic0.safetensors sex_machine activation trigger is sex machine
@@ -192,6 +193,7 @@ https://files.catbox.moe/9io6z4.safetensors noise
 https://files.catbox.moe/z7vz4y.safetensors abmayo requires activation trigger of abmayo, also recommended to use use with score_9,source_anime
 https://files.catbox.moe/lerky2.safetensors soraname
 https://files.catbox.moe/gcm2x4.safetensors tamano_kedama
+https://files.catbox.moe/nn9cn2.safetensors phantom_ix_row
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

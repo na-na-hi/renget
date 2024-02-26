@@ -53,8 +53,13 @@ Nyanners Longest Survivor - Day 3 Vods| [Youtube](https://www.youtube.com/playli
 ##Archive.Org Mirror:
 Content|Link|Description 
 -------|-------|------- 
-Youtube Alt channel Vods| [Youtube Alt Vods](https://archive.org/details/nyanners-youtube-alt) | 
-Twitch Alt channel Vods| [Twitch Alt Vods](https://archive.org/details/pinkcatbad-archive) | 
+Twitch Main Channel Vods | [2020 Vods](https://archive.org/details/nyanners-vod-archive-2020-vods) |
+Twitch Main Channel Vods | [2021 Vods](Insert link here) | Uploads are a Work in progress
+Twitch Main Channel Vods | [2022 Vods](Insert link here) | Uploads are a Work in progress
+Twitch Main Channel Vods | [2023 Vods](Insert link here) | Uploads are a Work in progress
+Twitch Main Channel Vods | [2024 Vods](Insert link here) | Uploads are a Work in progress
+Youtube Alt Channel Vods| [Youtube Alt Vods](https://archive.org/details/nyanners-youtube-alt) | Nyanners Youtube Alt Channel "Myau" Vods
+Twitch Alt Channel Vods| [Twitch Alt Vods](https://archive.org/details/pinkcatbad-archive) | Nyanners Twitch Alt Channel "Pinkcatbad" Vods
 
 ---
 

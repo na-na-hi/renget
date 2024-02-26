@@ -511,6 +511,19 @@ or
 	hakui koyori, pink hair, long hair, crown braid, purple eyes, labcoat, crop top overhang, collared shirt, black skirt, miniskirt, pleated skirt, pantyhose, pink necktie, long sleeves, belts, midriff multiple belts, thigh strap
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
 
+##### -> Pavolia Reine <-
+!!! info 3 Outfits!
+-> [Civitai](https://civitai.com/models/319724/pavolia-reine-3-outfits-or-hololive-or-pony-xl) <-
+
+##### -> Sakura Miko <-
+-> [Civitai](https://civitai.com/models/321113/sakura-miko-1st-costume-ponydiffusion) <-
+
+##### -> Uruha Rushia <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	uruha rushia, animal print, bangs, bare shoulders, blue sleeves, brooch, detached sleeves, double bun, dress, earrings, flat chest, frilled dress, green hair, green nails, hair bun, hair ornament, hair ribbon, jewelry, long sleeves, red eyes, short hair, skull hair ornament, stomach, virtual youtuber, wide sleeves
+-> [Catbox](https://files.catbox.moe/vsp30t.safetensors) <-
+
 #### -> Nijisanji <-
 ***
 ##### -> (Sanbaka) Inui Toko <-
@@ -540,3 +553,5 @@ or
 -> [Civitai](https://civitai.com/models/316818/cuiseika-pony-xl) <-
 ##### -> Juniper Actias <-
 -> [Civitai](https://civitai.com/models/313257/xl-10-juniper-actias-or-vtuber) <-
+##### -> Nina Saotome (Smol Goth) <-
+-> [Catbox](https://files.catbox.moe/ayy4zv.safetensors) <-

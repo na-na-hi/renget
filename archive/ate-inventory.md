@@ -77,6 +77,19 @@ Silken scarlet gloves with fingertips that can sharpen into deadly claws at will
 
 A modern weapon mass produced in the forge of a divine craftsman. Dramatically increases the effectiveness of the bullets against incarnations by imbuing them with divinity.
 
+>Phylonoe’s Mercy (Mythic Dagger) [0/1,000]
+
+A dagger crafted to the precise specifications of the incarnation of Phylonoe. Significantly mitigates an incarnation’s defenses when aimed at a vital spot. Much more effective against beasts, monsters, and incarnations of a higher level.
+
+<Active Ability: Channel the Goddess>: You may use the divinity stored in this dagger to temporarily use the <EX> rated authority [Mistress of the Hunt]
+
+You may only imbue divinity into this dagger after a successful hunt
+
+Holds additional effects for the Incarnation of Phylonoe
+
+>Mistress of the Hunt (EX)
+
+Increases your speed, strength, and endurance, proportional to the physical capabilities (including those enhanced by authorities) of your prey. Has an increased effect against <Beasts>, <Monsters>, and male incarnations (not to be confused with incarnations of male <Myths>
 
 ##Authority Crystals
 

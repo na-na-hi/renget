@@ -50,7 +50,7 @@ JoJo's Bizarre Adventure [**diavolo**](https://rentry.co/diavolo) [abbacchio](ht
 
 -> ![](https://files.catbox.moe/gmu4pi.png) <-
 
-*Hazbin Hotel* [**valentino**](https://rentry.co/valentino) [cannibaltown](https://rentry.co/cannibaltown) [alastorhartfelt](https://rentry.co/alastorhartfelt) [**voxval**](https://rentry.co/voxval) [staticmoth](https://rentry.co/staticmoth) [**vees**](https://rentry.co/vees) [fizzarolli](https://rentry.co/fizzarolli) [-adam](https://rentry.co/-adam)
+*Hazbin Hotel / Helluva Boss* [**valentino**](https://rentry.co/valentino) [cannibaltown](https://rentry.co/cannibaltown) [alastorhartfelt](https://rentry.co/alastorhartfelt) [**voxval**](https://rentry.co/voxval) [staticmoth](https://rentry.co/staticmoth) [**vees**](https://rentry.co/vees) [fizzarolli](https://rentry.co/fizzarolli) [-adam](https://rentry.co/-adam)
 
 *Breaking Bad / Better Call Saul*  [-heisenberg](https://rentry.co/-heisenberg) [-lalo](https://rentry.co/-lalo) [heisenbones](https://rentry.co/heisenbones)
 
