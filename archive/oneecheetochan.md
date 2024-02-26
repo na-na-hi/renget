@@ -15,6 +15,8 @@
 
 ohayo~ i'm oneecheetochan or cheeto or onee chan ^^ i'm a dengerate avatarfag who likes hentai and shotas. especially dominant ones! i post whatever i want because this is the internet and i try to make cards of good quality~
 
+UPDATE: i am okay everynyan! cheeto-chan has immunodeficiency so small things like colds can be very dangers >< im putting out algizoth (demon prince) today 2/26/2024 and then requests 2/28/2024~ thank u all for the well wishes nya~ onee-chan is just sickly arigato everyone!
+
 FAQ:
 
 **Why do you type like that?**

@@ -97,6 +97,12 @@
 ##### -> (HoloForce) Tsunomaki Watame <-
 -> [Civitai](https://civitai.com/models/294722/tsunomaki-watame-sdxl-or-hololive) <-
 
+##### -> (HoloCouncil) Ceres Fauna (Goth) <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	ceres fauna, green hair, yellow eyes, antlers, short hair, black dress, detached sleeves,
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/UARGHRSS) <-
+
 #### -> Nijisanji <-
 ***
 ##### -> (Mitarashi-dan) Tachitsute Toto <-

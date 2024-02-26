@@ -11,11 +11,12 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: TBA (presumably, Mon 02/26 7PM CT)
-Last collab stream (Advent brunch zatsu collab)
+Next members-only stream (zatsudan, Mon 02/26 12PM CT)
+https://www.youtube.com/watch?v=cijnWjfY4sY
+Next public stream (Twilight watchalong with Shiori and Iofi, Tue 02/27 9PM CT)
+https://www.youtube.com/watch?v=nS8_ck2OJ38
+Previous stream (Advent brunch zatsu collab)
 https://www.youtube.com/watch?v=wOJJddzg-ao
-Last solo stream (Palworld)
-https://www.youtube.com/watch?v=qmqnCOicg_0
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID
@@ -40,7 +41,7 @@ Previous thread: >>69959423
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Schedule: @nerissa_en-1759325247923216656
+!!!warning Second OP Post - Schedule: TBA
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -62,9 +63,12 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1759325247923216656
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
+Remember to get your movie for the upcoming watchalong of "Twilight" tomorrow.
+
+Anon's MEGA link, 2.7GB, 1080p
+https://mega.nz/folder/bTwgDQqL#2RjkjlzlzWRByvzDNOyNbQ

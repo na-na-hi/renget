@@ -17,6 +17,7 @@ Thread Number | Short Description
 /qst/ Thread #1: [Abrupt Awakenings](https://suptg.thisisnotatrueending.com/qstarchive/2023/5755695/) | The adventure begins, with our brave heroes forced to work together to survive the wilds of the chaotic world. 
 /qst/ Thread #2: [Watcher's Reverie](https://suptg.thisisnotatrueending.com/qstarchive/2023/5790853/) | In the ashes of burnt forests, deep in dreams, and in the wake of grand theft piracy, the ex-humans try to acclimatize in the chaos.
 /qst/ Thread #3: [Midday Dusk](https://suptg.thisisnotatrueending.com/qstarchive/2024/5855707/) | The discomfort of the dreamscape haunts the minds of the humans, troubled further by a restless disease they know nothing of.
+/qst/ Thread #4: [To Bar None](https://suptg.thisisnotatrueending.com/qstarchive/2024/5855707/) | placeholder
 
 ## Timeline
 Date of Event | Time Elapsed | Quest or Event | Short Description
@@ -42,6 +43,7 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 11/23/550 | 3 days | #09 Old Stories | You gaze into the past, finding a glimpse of an old tale.
 12/2/550 | 2 weeks | #EV05 To Bar None | While it may be destroyed, the spirit still persists! Let's fix up the Chateau!
 12/2/550 | >>> | #EV06 Missing the Mark | It's the perfect time for some snooping. How is it ink is thicker than blood?
+12/17/550 | 2 days | #10 The Shoot Stretches | 
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster - Date ▮▮▮
@@ -123,3 +125,5 @@ Recovering from the ordeal of the Twilight Syndrome attack, the Guild League sho
 
 !!! note (2/4/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV06 Missing the Mark - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons
 Ishmael is putting together a team. You've found a way to infiltrate the mysterious Bright Bandit base. Expecting something rugged and raggedy, you're instead met with a crude paradise for the delinquents and problem children of the Air Continent. Happening across interesting characters the likes of a naive Torchic and artistic Chespin, the three of you—Ishmael, and a disguised Spike and Brook—wander the ravine at your leisure, but the pretty sights and (mostly) kind Pokémon made most of you a little too comfortable. So you take a risk, heading to where you believe the main operation to be, and get a thorough reminder that you're out of your element. Freedom, creativity, chaos, all come together to create one big, annoying picture painted in neon. Come back soon...
+
+!!! (2/10/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #10 The Shoot Stretches - Date: Sol 17, 3rd Moon of Tornadus, 550 Full Seasons

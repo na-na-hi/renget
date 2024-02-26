@@ -13,5 +13,6 @@
 -> ![After I wished him on Mudae](https://files.catbox.moe/gb1yfc.webp) <-
 -> I am so glad this url wasn't taken so I can express my adoration for this guy. He's incredible. <-
 -> I shall get more merchandise and content of him one day... I had a sticker of him previously. <-
+-> I have his photo and poster. <
 -> ![Wart Jr. fan stamp](https://files.catbox.moe/r8x39s.jpg) <-
 -> ![Wart Jr. love and support userbox](https://files.catbox.moe/9go5wy.webp) <-

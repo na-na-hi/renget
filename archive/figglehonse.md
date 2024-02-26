@@ -1,1 +1,110 @@
-dances
+-> This is for my fictionkin-only list! <-
+-> Any fictional characters go here, including those unrealistic, like with Pokemon. <-
+
+-> Click here for an alternately organized fictionkin-only list: https://rentry.co/owleyed <-
+-> Click here to go back: https://rentry.co/echokin <-
+
+-> **Selfhood // IDs** <-
+- Tomoko Kuroki
+- Emolga
+- Momo, All Saints Street. 
+- Whisper the Wolf
+- Derpy, MLP
+- Stolas, HB
+- Shikabane, Aggretsuko
+- Izutsumi, Dungeon Meshi. 
+- Catra, SPOP
+
+-> **High** <-
+- **Nyanpire**. **Dominique De Sade**. **Fink**, OK:KO. **Juno**, Beastars.
+- **Echo, EE** (eesona, closest thing i have to it atm). **Karma, EE**. **Gir**
+- **Teemo**. **Uni**, Sparklecare Hospital. **Cheese**, Fosters. **Rui Nikaido**
+- **Claudia**, Interview with a Vampire. **Kitty,** Puss in Boots. **Oshawott. Mamizou**, Touhou. **Hollyleaf**
+- **Komasan**, Yokai Watch. **Azula**, Avatar. **Hu Tao**, GI. 
+- **Echo,** MLP (OC). **Tigress, Kung Fu Panda. Ringo,** Penguindrum
+- **Yuno Gasai**. **Dahlia**, GI. **Kanchal**, Interspecies Reviewers. **Callie**, Splatoon. **Snugglemagne.**
+- **Marceline**, AT. **Dovewing.**
+- **Cofi. Espurr.**
+- **Rodney**, Hoppscotch. **Luxray. Neco-Arc. Haru,** Beastars. **Marnie.**
+- **Retsuko. Fenneko. Toga**. **Shenhe**, GI. **Furina**, GI.
+
+-> **Moderate // Very Fluctuant // Medium** <-
+- **Kumiho Cookie. Loona,** HB. **Ferris,** Re:Zero. **Sucrose**, GI. **Ruby**, AC
+- **Goru**, EE. **Howan**, Show By Rock. **Yano**, Oddtaxi. **Kujou Sara.** **Tasha**, AC
+- **Lybertee**, EE. **Peewee**, EE. **Michan**, EE. **Ruby Gloom**. **Fizzarolli**
+- **Leafeon. Kirara**, GI. **Gandhi**, Clone High. **Yae Miko,** GI. **Satina**. **Diona**, GI
+- **Panty. Gloomy Bear. Pinkie Pie. Kenny**, SP
+- **Tallstar**. **Klee, GI**. **Tamama**, Sgt. Frog. **Absol**. **Keroro**, Sgt. Frog. **Porsha**, Sing. Fennekin line
+- **Tangy,** AC. **Momoka**, Sgt. Frog. **Daria. Jirachi. Flannery.** **Jynx,** Teen Titans
+- **Cartman,** SP. **Ike**, SP. **Verosika**, HB. **Etna**, Disgaea.
+- **Rosie**, AC. **Tuxedo Sam**, Sanrio. **Asuka,** NGE. **Dogbert**, Dilbert. **Trixie**, MLP
+- **Leafpool**. **Maractus,** **Pachirisu**. **Espeon**. **Sucy**, LWA.
+- **Constanze**, LWA. **Pichu. Raichu (Alolan too)**
+- **Pumpkaboo. Glaceon. Spinda**. **The Shepherd**, ENA. **Queen Bee-zlebub**. **White Ghost Cookie.**
+- **Mordecai**, Lackadaisy. **Vulpix**(Alolan lesser). **Tanya Keys**
+- **Ninetales. Noelle**, GI. **Lyra Heartstrings.**
+- **Pingu. One-One**, IT. **Rarity. Vaporeon**
+- **Konata**, Lucky Star. **Kuromi**. **Homura**, Madoka Magica. **Jeanne**, VNC
+- **Crowberry Cookie.** **Karai**, TMNT. **Rouge the Bat**. **Maud Pie.**
+- **Noe**, VNC. **Panini. Panjan.** **Dian**, Jewelpet. Rosaria, GI. **Mapleshade**, Warriors
+- **Venti,** GI. **Strawberry Shortcake**, **Scanty**. **Irina**, Irina: The Cosmonaut Vampire. 
+- **Rabbit. Nazrin**, Touhou. **Millie, HB**
+
+-> **Low // Hardly // Kinsidering // Old // Questioning // Rare Kinshifts** <-
+- **Haida**, Aggretsuko. **Ankha**, AC. **Circuit,** Z-Toon. **Hazel,** IT.
+- **Skitty**. **Spitz**, Warioware. **Joan of Arc**, Clone High. **Blake Belladonna.** **Lunala**
+- **Fig Cookie**. **Ryan Akagi. Scylla**, Puyo Puyo. **Mona**, GI. **Vaggie,** HH. **Catbat**, Crash Bandicoot
+- **Frye,** Splatoon. **Manaka**, Aggretsuko. **Sakura**, Cardcaptor Sakura. 
+- **Mermista**, SPOP. **Amagyu**, EE. **Miia**, Monster Musume. **Tadano**, Aggretsuko.
+- **Papi**, Monster Musume. **Mudae**, EE. **Dawson**, EE. **Resasuke**, Aggretsuko. **Blitzo**, HB. 
+- **Froslass**. **Rebecca**, Cyberpunk Edgerunners. **Death**, Puss in Boots. **Mandy, Billy and Mandy**
+- **Ganyu**, GI. **Aladdin**, Magi. **The Collector**, The Owl House. **Glisgor**. **Neferpitou**, HXH. 
+- **Shalltear**, Bloodfallen. **Lana,** Pokemon. **Mami**, Madoka Magica. 
+- **Liloette**, Dofus. **Pomegranate Cookie**. **Mienshao**. **Ruby**, Jewelpet. **Harley Quinn**, DC. 
+- **Lumine**, GI. **Sunkern. Treecko. Senko. Starfire.** **Moxxie**, HB
+- **Fluffle Puff. Lake**, IT. **Timekeeper Cookie**, **Lilligant**.
+- **Adorabat,** Mao Mao. **Madoka,** Madoka Magica. **Panda,** We Bare Bears. **Custard**, Strawberry Shortcake.
+- **Sphinx**, Puyo Puyo. **Shino**, AC. **Shoebill**, Kemono Friends. **Cyan**, Show By Rock. **Isabelle**, AC. **Peck**, AJ. 
+- **Lois Griffin**. **Stewie Griffin**. **Wynaut**. **Riolu**. **Legoshi**, Beastars. **May**, Pokemon.
+- **Mime**, HTF. **Smudge**, Warriors. **Briar**, League of Legends. **Sorbet Shark Cookie**.
+- **Samantha**, IT. **Gudetama**, Sanrio. **Cherie**, Magician's Quest.
+- **Blackberry Cookie**. **Scourge**, Warriors. 
+- **Dororo**, Sgt. Frog. **Serena**, AC. **Piplup**. **Brian Griffin**
+- **Tulip,** IT. **Tsumiki**, Place to Place. **Snowdrop**. **Rory**, Dog Knight RPG. 
+
+-> **Synpath // Otherhearted // Fictionhearted // Kins For Funsies // Relate // Kith // There Are More Terms** <-
+- **Axew**. **Chocola**, Nekopara. **Hatterene.** **Applejack. Alastor.** 
+- **Double Trouble,** SPOP. **Spottedleaf,** Warriors. **Frankie Foster**. **Vivian**, AC. **Freya**, AC
+- **Neeko**, **Iscream**, **Fwench Fwy**, **Stella**, HB. **Viktor,** Lackadaisy. 
+- **Chaz**, HB. **Shinya**, Magician's Quest. **Earl Grey Cookie. Tohru, Dragon Maid**. **Nutty**, HTF
+- **Kanna**, Dragon Maid. **Shirakawa**, Oddtaxi. **Shuey Rhon Rhon**. **Qiqi**, GI. **Inui**, Aggretsuko. **Thistle**. **Falin**
+- **Open-Chan.** **Preeny,** Preeny Has to Repeat the Sixth Grade. **Angel Dust**
+- **Misha**, Olympics. **Dewott**. **Serilly**, Puyo Puyo. **Elmo**. **Kitty Kattswell**. **Ralsei**
+- **Mad Mew Mew**. **Missy**, Young Sheldon. **Georgie**, Young Sheldon. **Fred Figglehorn**. **Odokawa**
+- **Ivypool**, **Himuro**, Aggretsuko. **Wiki-tan. Sailor Mercury.** **Bakara**, **Marcille**
+- **Sailor Mars, Sailor Moon. Crymini**, HH. **Twilight Sparkle**. **Celestia**, MLP. **Penny Ling.** **Katy**, Um Jammer Lammy. **Dedenne**
+- **Zoe Trent**. **Mangle**, **Bea**. **Lisa,** GI. **Nermal**, Garfield. **Fluttershy.**
+- **Fischl**, GI. **Hello Kitty. Peridot,** SU. **Pearl**, SU. **Astolfo**, Melty Blood. **Chespin.**
+- **Wartortle**. **Niffty**, HH. **Torchic. Wooper. Butters**, SP. **Stitch**. 
+- **Charlie**, HH. **Lion**, SU. **Monika**, DDLC. **Yuri**, DDLC. **Dratini**. **Scorbunny line**
+- **Celestia**, Danganronpa. **Yelan**, GI. **Cherrim. Buizel**. **Bedtime Bear**. **Cardamon**, Bee and Puppycat
+- **Rabbid. Peni,** Spiderman. **Alopex**, TMNT. **Miffy. Maid Marian**
+- **Stocking**. **Sayaka**, Madoka Magica. **Sir Pentious, HH**. **Luna**, MLP. **Nahida**, GI
+- **Wydeawake**, Yokai Watch. **Allnyta**, Yokai Watch. **Eda**, TOH. **King**, TOH. **Lynette**, GI. **Flora**, Creepy Cat
+- **Psyduck**. **Autumn Blaze**. **Kyaru**, Princess Connect Re:Dive. **Echo the Dolphin**, **Jack**, Beastars
+- **Walnut Cookie.** **Sweetie Belle**, **My Sweet Piano**. **Apple Bloom**. **Litten**. **Torracat**
+- **Layla**, GI. **Tak.** **Cherri Bomb.** **Scaredy Squirrel.** **Vanilla**, Nekopara. **Bunnie**, AC, **Doodler**, Doodle Jump	
+I kin some shits from Okegom, Arknights, Alchemy Stars and Kemono Friends, but it's nothing serious enough to even name
+
+-> **Copinglinks** <-
+- Anna, Frozen
+- Elsa, Frozen
+- Brooke Hayes
+- Helga, Hey Arnold
+- Terra, TT
+- Whismur.
+- Kabae, Aggretsuko
+- Scorpia, SPOP
+- Entrapta, SPOP
+- Little Daimon, Oddtaxi
+- Paimon, GI

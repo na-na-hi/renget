@@ -189,6 +189,7 @@ https://rentry.org/Elephant_Sama_I_Kneel
 Phase 0: >>91664916
 Phase 1: >>91711005
 Phase 2: >>91837452
+Phase 3: >>92006312
 ```
 #Demon Eyes (3rd Run)
 ***
@@ -443,9 +444,31 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
->New Build:
->Kyoda Hiro HN Overdose (redux)
->>91985145
+New Writing:
+>A Hero Student's Uncertain Dating Prospects  (Beach Day, Slip-n-Slideasaurus, Cube)
+https://rentry.org/DatingProspects
+
+New Student:
+>Misato Fukushima
+>>92006447
+
+New Hero Teacher (Shiketsu):
+>Takahashi Mako, HN Ersatz
+>>92011019
+
+New Hero:
+>Shōgeki Heshi HN: Crash
+>>92012115
+>Tóu Zhǎng Koie/Phys P
+>>92017795
+
+New Villains:
+>Gustave Gavial VN Gnash
+>>92016443
+>Cosmo Black VN X.T.
+>>92016885
+>Kate Everly
+>>92016986
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -463,6 +486,9 @@ https://archive.4plebs.org/tg/thread/88693730/#88693888
 https://rentry.org/okym8
 >Class 1-D Character Summary
 https://rentry.org/9bf3g
+
+>Newer Version of the CYOA (Both the old and new versions are legal for builds. Use whichever one you want)
+Version 4.2: https://archive.4plebs.org/tg/post/92012978
 ```
 ***
 Page 2
@@ -620,6 +646,8 @@ https://rentry.org/Fullmetal-mha
 >>91834965
 >??? HN Meteoric Hero: Cube
 >>91890433
+>Misato Fukushima
+>>92006447
 
 >PRO HEROES
 >U.A. Teachers:
@@ -645,7 +673,8 @@ https://rentry.org/Fullmetal-mha
 >>88754723
 >Riku Washizawa HN The Steel Talon Hero: Skycarver
 >>91719484
-
+>Takahashi Mako, HN Ersatz
+>>92011019
 ```
 
 ***
@@ -698,6 +727,10 @@ Page 4
 >>91721688
 >MR. BULLET
 >>91812743
+>Shōgeki Heshi HN: Crash
+>>92012115
+>Tóu Zhǎng Koie/Phys P
+>>92017795
 
 >SUPPORTERS:
 >Lady Astoria Belmont
@@ -807,6 +840,12 @@ https://rentry.org/ddom6m82
 >>91851919
 >Jan Procházka VN Msr. Blanc
 >>91963570
+>Gustave Gavial VN Gnash
+>>92016443
+>Cosmo Black VN X.T.
+>>92016885
+>Kate Everly
+>>92016986
 
 >Horrific 5:
 >Samuel Wilson VN Desolator
@@ -1007,6 +1046,8 @@ https://rentry.org/qxo4wft2
 https://rentry.org/7rw4bbwc
 >Hearts Afire (Seiryu, Yamata, Blast Burn, Yamamoto)
 https://rentry.org/ewpc5tz3
+>A Hero Student's Uncertain Dating Prospects  (Beach Day, Slip-n-Slideasaurus, Cube)
+https://rentry.org/DatingProspects
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

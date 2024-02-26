@@ -15,10 +15,11 @@
 -> **- https://rentry.co/royalowl** <-
 -> **- https://rentry.co/echokin** <-
 -> **- https://rentry.co/echofluffy** <-
+-> **- https://rentry.co/echofigglehonse** <-
+-> **- https://rentry.co/figglehonse** <-
+-> **- https://rentry.co/owleyed** <-
 
 -> **NFT** <-
--> - https://rentry.co/echofigglehonse <-
--> - https://rentry.co/owleyed <-
 -> - https://rentry.co/snugglemagne <-
 -> - https://rentry.co/ringingbell <-
 -> - https://rentry.co/idshop <-
@@ -38,7 +39,6 @@
 -> - https://rentry.co/delusionalthomas <-
 -> - https://rentry.co/wmwtso <-
 -> - https://rentry.co/lybertee <-
--> - https://rentry.co/figglehonse <-
 
 -> **UFT, tentative, possibly i have plans for** <-
 -> - https://rentry.co/babyowl<-

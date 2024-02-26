@@ -223,7 +223,7 @@ https://files.catbox.moe/tviui5.safetensors whomperfruit
 https://files.catbox.moe/s4t7ch.safetensors jvteemo
 https://files.catbox.moe/2onz8e.safetensors borscht
 
-**Megauploads with files too large for catbox**
+**Megauploads/Other rentries with files too large for catbox**
 https://mega.nz/file/xHt0kAQQ#lyOUMAOfm5MP60uNhCdT87Eaw8R6jB-oMpHbF_XBxEM mena
 https://mega.nz/file/pbszzZBA#WH08IpwvquRcueGie40IznEDMnV-jIsl-vLBaVfFWXg nullmeta (kokaki mumose)
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw kezime 
@@ -241,6 +241,7 @@ https://mega.nz/folder/OoYWzR6L#psN69wnC2ljJ9OQS2FDHoQ/folder/W5AjzbLD Fishine, 
 https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun
 https://mega.nz/folder/k3MwHTwC#BOiRdd3uDjTeztzxuM19Hg alexi, chirumakuro, okiami, oltlo, yue
 https://mega.nz/folder/0soGXArQ#IJQJROng3TlELfCooa8RMg coro fae, danimaru, gonzrez, ishikei, kazutake hazano, letdi, nonco, oouso, rhasta, rwing, tottotenero
+https://rentry.org/shitty_loras#styles-pony-diffusion-v6-xl made_in_abyss, moshimoshibe
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes

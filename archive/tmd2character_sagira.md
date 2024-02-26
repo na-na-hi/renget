@@ -13,7 +13,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 13 | **Experience to Next Level:** 72/130
+**Level:** 13 | **Experience to Next Level:** 92/130
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 792₽ | **Glorious Gold:** 0 Bars
 
@@ -78,7 +78,7 @@ Training for Attribute: ??? | Tier **ɪ** (+1) | 0/3 | ▯▯▯
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
-*Equipped Item: N/A* | Vacant hand slot.
+*Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
 2. 1x Wooden Stick | Does 3 true damage to a target, is thrown directly.
 3. 3x Oran Leaf | Heals the user for 3HP. Can stack to 3.

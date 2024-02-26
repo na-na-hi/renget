@@ -38,6 +38,9 @@
 **Kuroki Natsume (Indie)** - https://civitai.com/models/310679/96kuroneko
 **Ceres Fauna (Hololive)** - https://civitai.com/models/20809/ceres-fauna-hololive or https://civitai.com/models/97377/ceres-fauna-3-outfits-or-hololive
 **Rera Tapaten (Indie)** - https://civitai.com/models/321691/rera-tapaten-vtuber-ru
+**Nanashi Mumei (Emo - Hololive)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/5CwEDDbL or https://files.catbox.moe/krra5p.safetensors [CatboxTagInfo](https://warosu.org/vt/thread/S70020937#p70060566)
+**KanoVT (Indie)** - https://civitai.com/models/322107/kanovt
+**Aoi Sakura (Indie)** - https://civitai.com/models/323057/aoi-sakura-vtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -61,6 +64,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Rosedoodle (Indie)** - [V1] https://civitai.com/models/309560/vchiban-rosedoodle-v1-normal-maid-version [V2] https://civitai.com/models/308577/vchiban-rosedoodle-v2-or-lastest-debut
 **Nene Amano (Production Kawaii)** - https://civitai.com/models/314926/nene-amano-1st-costume-production-kawaii
 **Shirakami Fubuki (Hololive)** - https://civitai.com/models/319673/shirakami-fubuki-hololive
+**KarmaVT (OWOzu)** - https://civitai.com/models/322576/karmavt-nsfwsfw
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)
