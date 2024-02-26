@@ -197,4 +197,4 @@ Recanon IRC (Archival Channel) | [Link](https://kiwiirc.com/nextclient/irc.rizon
 ---
 #Ways to contact me if needed:
 
-If you have questions or need help with anything feel free to contact me over email at: hansderhas6473(at)gmail.com or you can sproadically find me in the 4chan IRC (https://rentry.org/IRC_Stuff) under the name "nyarchivist".
+If you have questions or need help with anything feel free to contact me over email at: hansderhas6473(at)gmail.com or you can sproadically find me in the /vt/ IRC (https://rentry.org/IRC_Stuff) under the name "nyarchivist".

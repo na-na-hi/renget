@@ -754,7 +754,7 @@ Quiver Dance | - | 4 AP | - | Bug | Status | The User's Special Attack, Special 
 Rage Powder | - | 4 AP | - | Bug | Status | For the Opponent's turn, they become more likely to target the User.
 Rain Dance | - | 4 AP | - | Water | Status | The Weather is changed to [Rain](https://rentry.co/tmd2many_rules#weather).
 Recover | - | 4 AP | - | Normal | Status | The User is healed for 4 HP.
-**Recycle** | - | 4 AP | - | Normal | Status | When in battle, the User acquires a lesser version of a [Consumable Item](https://rentry.co/tmd2many_moves#recycle-table) they've used recently. Outside of combat, the User may turn some [Items](https://rentry.co/tmd2many_moves#recycle-table) into other [Items](https://rentry.co/tmd2many_moves#recycle-table). 
+**Recycle** | - | 4 AP | - | Normal | Status | When in battle, the User acquires a lesser version of a [Consumable Item](https://rentry.co/tmd2many_moves#recycle-table) they or an Ally have used recently. Outside of combat, the User may turn some [Items](https://rentry.co/tmd2many_moves#recycle-table) into other [Items](https://rentry.co/tmd2many_moves#recycle-table). 
 Reflect | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Physical Moves.  
 Reflect Type | - | 4 AP | - | Normal | Status | The User's Type changes to match the Opponent's. 
 Refresh | - | 4 AP | - | Normal | Status | The User is cured of *Poison*, *Burn*, or *Paralysis*. 

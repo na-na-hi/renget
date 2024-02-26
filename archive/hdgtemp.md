@@ -20,23 +20,24 @@ https://openart.ai/workflows/templates
 https://civitai.com/models/257749/horsefucker-diffusion-v6-xl
 https://civitai.com/models/288584/autismmix-sdxl
 https://huggingface.co/cagliostrolab/animagine-xl-3.0 *OLD*
-https://rentry.org/5exa3 *OLD*
+https://rentry.org/5exa3 (Hll+Fluff) *OLD*
 https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine) *OLD*
 
 >PAID
 NovelAI: https://rentry.org/hdg-nai-v3
 
 >RESOURCES
+Features: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features
 Training: https://rentry.org/59xed3 | https://github.com/derrian-distro/LoRA_Easy_Training_Scripts
 Tags: https://danbooru.donmai.us/wiki_pages/tag_groups | https://danbooru.donmai.us/related_tag
 ControlNet: https://rentry.org/dummycontrolnet
-LamaCleaner: https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama | https://lama-cleaner-docs.vercel.app/install/pip
+IOPaint (previously LamaCleaner): https://huggingface.co/spaces/Sanster/iopaint-lama | https://www.iopaint.com/install
 Animation: https://rentry.org/AnimAnon
 Wildcards: https://rentry.org/NAIwildcards
 Booru: https://aibooru.online
 4chanX Catbox/NAI prompt userscript: https://rentry.org/hdgcb
 NAI API/prompting in auto1111: https://github.com/Metachs/sdwebui-nai-api
-Thread-made loras: https://rentry.org/ponyxl_loras_n_stuff
+Thread-made loras: https://rentry.org/ponyxl_loras_n_stuff | https://rentry.org/ponyxl_lora_previews
 
 OP Template/Logos: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif
 

@@ -76,7 +76,7 @@ None | N/A
 ***
 
 #### ->Special Bonuses<-
-!!! note 7 IQ points to spend.
+!!! note 30 IQ points to spend.
 	3/10 | ▮▮▮▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -112,10 +112,10 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: None* | Empty
-1. Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable.
-2. Black Gummi | Gives +10 IQ points to Dark-Types. Gives +5 to other types. Tastes like licorice.
-3. Heal Seed | Cures all status conditions.
-4. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+1. Heal Seed | Cures all status conditions.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+3. None | N/A
+4. None | N/A
 
 ***
 

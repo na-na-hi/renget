@@ -9,6 +9,8 @@
 'Alarm'
 **Auto-peelot**
 'Auto-pilot'
+**Ashume**
+'Assume'
 **Baetree**
 'Battery'
 **Bird**

@@ -9,6 +9,7 @@
     I won't reply to tech support emails. If you want more IPs, include your token and explanation in the email, and don't ask before you hit the limit.
 
 !!! note news
+    Proxy will be back up in a few hours.
     >50 emails only asking for tokens, nothing else
     ~~Still out of keys.~~ ?
     Haven't answered emails. Not sure if this is sustainable, at least with my scraping skills and lack of donations.

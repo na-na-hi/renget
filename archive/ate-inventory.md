@@ -113,3 +113,10 @@ When active, increases your strength, speed, and stamina in proportion to the de
 
 >Scribe of Dysnomia (3):
 Any recordings or images taken of you while this authority is active, as well as anything written or spoken by you while this authority is active, including verbatim copies or transcriptions, slowly erode faith in public order when perceived. Additionally, targets of this authority also exhibit reduced guilt for immoral and illegal acts. Consumes 1 divinity per 3 seconds.
+
+>Enchant Item (1): 
+Allows you to create a Divine Relic. Works better for items made by the incarnation using this authority. If an authority crystal is used, a specific effect may be imparted. The item is severely damaged in the case of failure.
+
+>Grotesque Horns (1)
+
+Grows horns from your head that emit an unpleasant aura, causing nausea, vertigo, and nausea

@@ -992,4 +992,35 @@ was censored and superchat part is lost forever. sorry
 
 https://archive.palanq.win/vt/thread/69100847/#69102688
 
+
+##### Goth Fauna Karaoke
+[2023-02-25](https://youtu.be/RBe-9xCPGKg)
+[magnet](magnet:?xt=urn:btih:0c99057feec7b31ff93fb72f0281a017349f2bcc&dn=%5B20240226%5D%20Unarchived%20Goth%20Kirin%20Karaoke&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+)
+[mega](https://mega.nz/file/QtRQgTzY#UkVi-Wj2isdFmgWh8XRQ4xXjpElGSCV-e0n_D8jIA3Y)
+[gofile](https://gofile.io/d/W7UR4M)
+
+Set list (stream starts at 1:34):
+1. My Chemical Romance - Welcome to the Black Parade (2:51)
+2. Thirty Seconds to Mars - The Kill (13:06)
+3. Green Day - Boulevard of Broken Dreams (18:28)
+4. Evanescence, Paul McCoy - Bring Me to Life (25:12)
+5. Scissor Sisters - I Can't Decide (31:27)
+6. Escape the Fate - Situations (37:04)
+7. Paramore - Brick by Boring Brick (41:17)
+8. BOYS LIKE GIRLS - The Great Escape (incomplete / up to chorus; 46:16)
+9. We the Kings - Check Yes Juliet (Run Baby Run) (48:15)
+10. Panic! at the Disco - I Write Sins Not Tragedies (52:16)
+11. The Cure - Boys Don't Cry ()
+12. Bring Me The Horizon - Can You Feel My Heart (1:00:14)
+13. Panic! at the Disco - The Ballad of Mona Lisa (1:04:44)
+14. Panic! at the Disco - The Only Difference Between Martyrdom and Suicide Is Press Coverage (1:08:40)
+15. Panic! at the Disco - Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off (1:12:20)
+16. Fall Out Boy - Dance, Dance (1:16:30)
+17. blink-182 - All the Small Things (1:20:54)
+18. The All-American Rejects - Move Along (1:24:26)
+19. My Chemical Romance - Helena (So Long & Goodnight) (1:29:22)
+20. Aqua - Barbie Girl (1:33:49)
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------

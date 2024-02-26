@@ -6,7 +6,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 
 · | ->· ->
 ---- | ----
-**Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Up in the air!
+**Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Team Stardust Member
 **Species:** Mienfoo | **Affiliation:** Team Stardust
 **Level:** 13 | **Experience to Next Level:** 30/130
 **Worn Item:** *N/A* | **Clothing:** *Cap*
@@ -84,7 +84,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Space Rock | 125 P
 2. Persim Berry | Heals Confusion.
-3. Space Rock | 125 P
+3. Empty | Vacant Inventory Slot
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
@@ -102,6 +102,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Leaf Pouch | Used to hold coins.
+RP Item | Chunk of Rayquaza's Meteor | A somewhat small chunk of Rayquaza's meteor that landed in a Bamboo Forest. Matchia values the connection to Rayquaza, a mere legend in her home.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

@@ -9,7 +9,7 @@
 **Species:** Zorua | **Affiliation:** Team Clover Force
 **Level:** 12 | **Experience to Next Level:** 108/120
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
-**Pokécoin:** 1695₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1135₽ | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -86,7 +86,7 @@ Item Name | Description
 1. Empty | A vacant inventory slot
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
 3. Blast Seed | Explodes on contact for 10 true damage.
-4. Cheri Berry | Returns control. Heals Paralysis.
+4. Sour Slaw | Chopped berries that have a majority sour flavor, slightly creamy
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
@@ -94,7 +94,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----:
 1. Normal-Type Gem | Holding this makes you feel very plain. Boosts a Normal-Type move's damage by 3.
-2. Apicot Berry | A berry with a hard, mild flesh on the blue side, and an exceptionally sour flavor green side. (2 Dry, 2 Sour)
+2. Starf Berry | A mysterious, rare berry with conflicting flavors across the spectrum, described as otherworldly. (2 Sweet, 2 Sour, 2 Spicy)
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff.
