@@ -1,4 +1,8 @@
 # /bag/ Newfag guide
+**EVENT GUIDE FOR THE CARD GAME:**
+Do 1 card and refresh or pull until you get 1 gold/purple card. That's it.
+It's not rocket science stop asking. 
+
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 
 Scroll to the bottom for my last edit date. This guide is not outdated.
@@ -590,7 +594,7 @@ Always try to go for a cafe upgrade before you do event stuff if you can.
 Regardless, you're pretty fucked so gl bro
 
 >The event features characters from the main story, but I haven't read that part yet. What do I do?
-Do the event missions, but skip the story. You get the gem rewards and occassionally a welfare unit too, and you can always read the story later. Go to Story > Replay > Event Story.
+They're usually very minor spoilers, but if you'd rather not get spoiled just do the story missions but skip the story. You get the gem rewards and occassionally a welfare unit too, and you can always read the story later. Go to Story > Replay > Event Story for this. 
 
 >I have X shards of this event's welfare unit but I can't claim her wtf! 
 DO THE STORY MISSIONS 

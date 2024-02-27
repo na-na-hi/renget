@@ -1,5 +1,24 @@
 #host a HUFFLEPUFF on Colab for free 🦙
 
+##State of the art(?) (as of Feb 2024)
+You have two options,
+- a 10.7B model at 11k+ context at 6-8 bits-per-weight exl2 quantization https://files.catbox.moe/77vood.ipynb
+- the above python notebook is using https://huggingface.co/R136a1/Frostwind-10.7B-v1-exl2 as the model, but you can replace it with a 10.7B exl2 model of your choice by changing the variables in the colab
+- if you're too retarded and confused, look at the screenshots in the "outdated stuff" section very closely
+
+or
+ - a 8x7B model at 8k+ context at ~2bits-per-weight GGUF quantization (IQ2_XS) https://files.catbox.moe/4s1ug3.ipynb
+-  the above python notebook is using Nous-Hermes-2-Mixtruct-v0.1-8x7B-DPO-DARE_TIES-IQ2_XS as the model, but you can replace it with any GGUF-quantized 8x7B IQ2_XS model of your choice by changing the direct download link
+- you may have to stop and restart the colab once or twice to get the trycloudflare link to work
+- if you're too retarded read up on GGML/GGUF and the KoboldCPP colab guide in the outdated stuff section below
+
+if you need help ask in /aicg/ or /lmg/, if people are ignoring you just act confidently incorrect to bait people into giving you good advice
+
+as always, follow the instructions at rentry.org/freellamas for good first default settings, especially if using the 8x7B model
+or just import these SillyTavern settings, they just werk: https://files.catbox.moe/noz6xn.json
+
+#Outdated stuff
+
 ###### MythoMax 5bit exl2 quantization
 https://files.catbox.moe/c58cn6.ipynb
 
@@ -21,7 +40,7 @@ run local GGML/GGUF models (potentially better quantization/quality than GPTQ)  
 https://colab.research.google.com/github/kalomaze/koboldcpp/blob/alternate_colab/Koboldcpp_Colab_(Improved_Edition).ipynb
 https://rentry.org/koboldcpp_colab_guide
 
-###### GPTQ quantization (older)
+###### GPTQ quantization
 download the Jupyter Notebook https://files.catbox.moe/jgqjre.ipynb (5500 context, use if you have issues with the updated notebook)
 https://files.catbox.moe/kd79da.ipynb (updated: no logs, 7500 context and  --alpha_value to 2.565 set automatically)
 go to https://colab.research.google.com and login and stuff

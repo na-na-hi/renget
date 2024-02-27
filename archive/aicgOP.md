@@ -13,7 +13,7 @@ Comment:
 The Edition
 
 >News
-Mistral AI realeased Mistral Large https://mistral.ai/news/mistral-large/
+Mistral AI released Mistral Large https://mistral.ai/news/mistral-large/
 Google released Gemini API and announced Gemini 1.5 https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/
 Google released Gemini Ultra https://gemini.google.com
 Google released Gemini Pro image generation - filtered harder than Bing's  https://blog.google/products/bard/google-bard-gemini-pro-image-generation/

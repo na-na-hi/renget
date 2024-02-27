@@ -1,6 +1,13 @@
 # Shitty SDXL loras
 
 ## Styles (Pony Diffusion V6 XL)
+>Trained with score_9, source_anime, eu03
+>
+>Quick bake with the 5th eu03 dataset from anon, mostly for science. e16 is probably the one you want.
+- [eu03 e16](https://pixeldrain.com/u/AjF9jLWQ)
+- [eu03 e28](https://pixeldrain.com/u/hVChbWPN)
+	- [grid1](https://files.catbox.moe/e7d3tm.jpg)
+
 >Trained with score_9, source_anime, tsukushi akihito
 >
 >9th epoch is probably the best for normal use. Last epoch colors/shading go a bit too hard but it's great for spooky stuff. 1.0 weight works fine but going down to 0.8 brings back more details to the backgrounds.

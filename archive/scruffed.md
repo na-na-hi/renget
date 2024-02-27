@@ -151,6 +151,35 @@
 - Vigilante justice is righteous
 - Consensual cannibalism should be fine, most things are okay if they have consent
 
+- Marriage is nonreligious at this point
+- Revolution is generally good
+- White pride shouldn't exist. Race was made up to justify slavery
+- Loitering is anti-black and classist to criminalize
+- People have good hearts and are not naturally greedy
+- Racism is taught
+- Detransitioning is valid but the regret rate is immeasurably low
+- A society where the arts and sciences are priorities over labor is ideal
+- Mutualism is generally good, same with collectivism 
+- Kids can cross-dress but should not be dressed inappropriately, including drag
+- Gender ideology is not a thing
+
+- Kink is interlinked with pride, but family-friendly pride events should be okay
+- Menstrual products should be free
+- Water should be widely accessible 
+- Coal and other fossil fuels should be limited
+- If you see somebody shoplifting necessities, No You Didn't.
+- PETA is bad
+- Most crime would be reduced if people weren't poor
+- Homelessness is NOT a natural problem
+- Overpopulation isn't that big of an issue, there's more of a problem with overflowing population density 
+- The money you give to corporations does not typically define your morals
+- Monitor your children's devices
+- Kids below 5 should not have a personal device. 
+- Computers in education are good
+- Life begins truly at birth, not at conception. Any fetus, even after a long time, should have a right to be removed
+- Traditions are good but it is better to progress, not letting the past stunt your future
+- Keep furry weird
+
 -> ![-](https://files.catbox.moe/lwlj56.webp) <-
 -> ![-](https://files.catbox.moe/98l5pc.webp) <-
 -> ![-](https://files.catbox.moe/fi9bwo.webp) <-
@@ -159,7 +188,7 @@
 -> ![-](https://files.catbox.moe/42z6rm.webp) <-
 -> ![-](https://files.catbox.moe/zfy6rf.webp) <-
 -> ![-](https://files.catbox.moe/n0l9uh.webp) <-
--> ![-](]https://files.catbox.moe/r1h9pe.webp) <-
+-> ![-](https://files.catbox.moe/r1h9pe.webp) <-
 -> ![-](https://files.catbox.moe/xawipg.webp) <-
 -> ![-](https://files.catbox.moe/a4h6du.webp) <-
 -> ![-](https://files.catbox.moe/y5oa3h.webp) <-

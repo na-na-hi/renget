@@ -14,7 +14,7 @@
 My Resource/Graphic [Carrd](https://massacre.crd.co/) *and* [Rntry](/graphics)
 
 Sign My [Guestbook](https://diavolo.123guestbook.com/)
-^ Do **NOT** use our guestbooks to ask for URLs
+^ Do **NOT** use my guestbook to ask for URLs
 
 -> ![](https://files.catbox.moe/2gjutl.png)
 Plain = Available for Trade or Give Away. 

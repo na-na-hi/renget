@@ -196,6 +196,7 @@ https://files.catbox.moe/gcm2x4.safetensors tamano_kedama
 https://files.catbox.moe/nn9cn2.safetensors phantom_ix_row
 https://files.catbox.moe/vqpfo5.safetensors haru57928031 might need extra strength for NSFW gens, example: https://files.catbox.moe/bvfip7.png
 https://files.catbox.moe/kkuo6l.safetensors tanemura_arina
+https://files.catbox.moe/warwm8.safetensors buzzlyears
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

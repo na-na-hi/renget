@@ -434,6 +434,9 @@ https://files.catbox.moe/vqpfo5.safetensors haru57928031 might need extra streng
 [![1girl no scores](https://files.catbox.moe/icw385.png)](https://files.catbox.moe/d96ku6.png)[![1girl scores](https://files.catbox.moe/5523hr.png)](https://files.catbox.moe/9ektsx.png)[![chun-li no scores](https://files.catbox.moe/ei66d4.png)](https://files.catbox.moe/c7mcja.png)[![2b score_9 only](https://files.catbox.moe/xxcviz.png)](https://files.catbox.moe/qda9om.png)[![korra scores](https://files.catbox.moe/6wp1nz.png)](https://files.catbox.moe/l3fv1i.png)
 https://files.catbox.moe/kkuo6l.safetensors tanemura_arina
 
+[![1girl no scores](https://files.catbox.moe/i7kjdo.png)](https://files.catbox.moe/j49uql.png)[![1girl scores](https://files.catbox.moe/jqqdd3.png)](https://files.catbox.moe/g9q9iv.png)[![chun-li no scores](https://files.catbox.moe/hamoqg.png)](https://files.catbox.moe/8cltb0.png)[![2b score_9 only](https://files.catbox.moe/glzjz9.png)](https://files.catbox.moe/ite4q9.png)[![korra scores](https://files.catbox.moe/gg5w3d.png)](https://files.catbox.moe/xpzgsa.png)
+https://files.catbox.moe/warwm8.safetensors buzzlyears
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

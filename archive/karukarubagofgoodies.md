@@ -2,6 +2,7 @@
 
 -> **KaruKaru's Bag of Goodies** <-
 -> *22/12: Update, added JB.*<-
+-> *27/02/2024: Just realized the image links is broken. Just open the link, copy it, paste it to discord anywhere (server or DM). Then, click on the link attachment, it should open up a new tab with the pic in your browser.* <-
 
 ***
 -> Hello, I am KaruKaru~ I've been messing around with JBs for 2 to 3 days I managed to make an universal jailbreak for gpt and claude (API model and claude.ai/clewd included)! <-

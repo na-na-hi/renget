@@ -1,5 +1,5 @@
 ->![Divider](https://files.catbox.moe/kbddn3.png)
-![Made by Mumei, Dm @otonose on discord for takedown (or credit) ^^](https://files.catbox.moe/ftmnju.png)
+[![Made by Mumei, Dm @fwmc on discord for takedown (or credit) ^^](https://files.catbox.moe/ftmnju.png)](https://retrospring.net/@bipolar)
 ![.co/mumeirsrcs | F2U Divs](https://files.catbox.moe/cdxoey.png)<-
 
 %#F29FBE%All of these can be recolored through Ibispaint X.%%
@@ -68,3 +68,10 @@ made by outergoddess, credit if using
 ![](https://files.catbox.moe/sjcmc3.png)
 ![](https://files.catbox.moe/p4bj7c.png)
 ![](https://files.catbox.moe/0sqb2a.png)
+![](https://files.catbox.moe/4mpc75.png)
+![](https://files.catbox.moe/d61bwp.png)
+![](https://files.catbox.moe/gcawfk.png)
+![](https://files.catbox.moe/9a8tah.png)
+![](https://files.catbox.moe/4uyqe7.png)
+![](https://files.catbox.moe/ikmlsx.png)
+![](https://files.catbox.moe/apormy.png)

@@ -1,6 +1,6 @@
--> ![](https://media.discordapp.net/attachments/903364339464044575/1202277499799883797/Untitled37_20240131184121.png?ex=65ccdf2d&is=65ba6a2d&hm=3112e8a6ce2efc9ef90d5c108da9901d0f83df6a7f53ee1e71305831236ed2e1&) <-
--> ![](https://media.discordapp.net/attachments/903364339464044575/1202277777403805807/Untitled38_20240131184231.png?ex=65ccdf6f&is=65ba6a6f&hm=508d346870ccb179b61dc252b0133eb9ddf9472729836813873df33cf2f017f1&) <-
+-> ![](https://i.postimg.cc/hvRh2YvL/Untitled37-20240131184121.jpg) <-
+-> ![](https://i.postimg.cc/nzDCYxFV/Untitled38-20240131184231.png) <-
 ->**꒰ྀི** ![](https://i.postimg.cc/SQcnnm1D/IMG-3849.gif) ༏ ‏‏‎ Zaid %#CDCDCD%*or*%% 𝓓emi  %#FFDDEA% **୨❤︎୧**%% He[◞](https://pronouns.cc/@Anubie) It  ⟡ ₊ arab ![](https://i.postimg.cc/kggGYKJp/IMG-3830.gif) <-
 -> 9teen 𐙚 ུ⃨ㅤ ‏‏‎  %#FFDDEA% _sys_**host**%%  ![](https://i.postimg.cc/WbjhrxQj/IMG-3831.gif) gamer ![](https://i.postimg.cc/8PHsbtSv/Untitled42-20240131193902.jpg) artist %#CDCDCD%⏝⏝%%<-
 -> [I](https://bungostraydogs.fandom.com/wiki/Osamu_Dazai) ⟣ [II](https://megamitensei.fandom.com/wiki/Demi-fiend) ⟣ [pass](https://mmm.page/smt3)<-
--> ![](https://media.discordapp.net/attachments/903364339464044575/1202277500106055801/Untitled37_20240131184124.png?ex=65ccdf2d&is=65ba6a2d&hm=563b2fd1d387280b10b3ba62d61860c0eaa457bb070a4e1cf771e07a21fe79e5& )<-
+-> ![](https://i.postimg.cc/RZpFkhqV/Untitled37-20240131184124.jpg)<-
