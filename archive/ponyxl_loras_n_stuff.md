@@ -234,7 +234,7 @@ https://files.catbox.moe/zxvyki.7z nyantcha
 https://mega.nz/file/V9V13KaQ#oeIASCTJrcK7CMJpFLHyqBWLlm0sGkFnvG9in8vKs9A slush
 https://mega.nz/folder/83gQXTLT#mrjDP3w_OkxR0ujuVliesw/folder/xuRSSbDK shirow,onono_imoko,kezime
 https://mega.nz/folder/RG81USjC#0T7bFau2u6bDCSodJJWX4w nullmeta,non_(z-art),tsukumizu_yuu,error1980,nns
-https://mega.nz/folder/HywHWBqD#a6SH96I4UuYlxzcL7q0FPg cham22, cyberboi, dratvan, gorani, lewdcactus, mmmmm, mojihe, owner, poper, whomperfruit, woohyootyeehawtown, zumi, furau, USjWwjFZLUtdSoz, senkan_art, inputtwo
+https://mega.nz/folder/2uBXjCRY#lPq-GnLJ1izbiJF0Y1N6TQ cham22, cyberboi, dratvan, gorani, lewdcactus, mmmmm, mojihe, owner, poper, whomperfruit, woohyootyeehawtown, zumi, furau, USjWwjFZLUtdSoz, senkan_art, inputtwo, jh, raira, zero0zero, too many to count
 https://files.catbox.moe/c69pcl.zip JVTeemo
 https://mega.nz/file/o01XhDIC#8hukpUUeFCThQj2WPe1O0OT7LDWHGvGmFr_y7GVUhfI borscht
 https://mega.nz/folder/iZcDnbiC#Yrxa1yRPxVd9F4pQQKuYpw suga_hideo, morino831, 11eyes, alphy, baldr sky, rai_(sakuranbo sugar), yume_miru_kusuri
@@ -244,6 +244,7 @@ https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun
 https://mega.nz/folder/k3MwHTwC#BOiRdd3uDjTeztzxuM19Hg alexi, chirumakuro, okiami, oltlo, yue
 https://mega.nz/folder/0soGXArQ#IJQJROng3TlELfCooa8RMg coro fae, danimaru, gonzrez, ishikei, kazutake hazano, letdi, nonco, oouso, rhasta, rwing, tottotenero
 https://rentry.org/shitty_loras#styles-pony-diffusion-v6-xl made_in_abyss, moshimoshibe
+
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -268,6 +269,7 @@ https://files.catbox.moe/9sc9aj.safetensors character_hiragi_kagami example gens
 https://files.catbox.moe/p8pc8o.safetensors character_takarada_rikka doesn't seem to have an activation trigger, just will make any girls you gen into her
 https://files.catbox.moe/0520b4.safetensors character_ashley_warioware activation trigger is ashely, looks like the images all had 1girl in the prompt as well
 https://files.catbox.moe/0r3b9z.safetensors character_beatrice_rezero doesn't seem to have a trigger for the character
+https://files.catbox.moe/twvwyp.safetensors character_sparkle_honkai_star_rail looks like sparkle_(honkai: star rail) is the activcation trigger
 
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen

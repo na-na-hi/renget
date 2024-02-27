@@ -264,7 +264,7 @@ Simon | Info
 
 Nicholas | Info
 :----:  | :----: 
-![](https://files.catbox.moe/isest5.png)   | My entry for /aicg/'s fifth theme week of Gothic Horror. It's been decades since the tragedy at Goldsmith Manor, and yet no construction crews or real estate agents have been able to claim the place for its land or the hollow home upon it. Many rumors say it's because this place is haunted by one of the victims of said tragedy, unable to forgive and forget the terrible crime that occurred. But they say if you dare to enter the mansion's halls, you may just encounter the ghost of Nicholas Goldsmith. Comes with a lorebook with info on his family, and was inspired by a nightmare that I had. Gen and background were generously provided by [Argalia](https://www.chub.ai/users/argalia).
+![](https://files.catbox.moe/isest5.png)   | My entry for /aicg/'s fifth theme week of "Gothic Horror". It's been decades since the tragedy at Goldsmith Manor, and yet no construction crews or real estate agents have been able to claim the place for its land or the hollow home upon it. Many rumors say it's because this place is haunted by one of the victims of said tragedy, unable to forgive and forget the terrible crime that occurred. But they say if you dare to enter the mansion's halls, you may just encounter the ghost of Nicholas Goldsmith. Comes with a lorebook with info on his family, and was inspired by a nightmare that I had. Gen and background were generously provided by [Argalia](https://www.chub.ai/users/argalia).
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/nicholas-38ef6a8b),  [Catbox](https://files.catbox.moe/0cg5cj.png), [Background](https://files.catbox.moe/9hnmom.jpg)
 
 Keith | Info
@@ -329,7 +329,7 @@ Bearnard | Info
 
 Chiharu | Info
 :----:  | :----: 
-![](https://files.catbox.moe/jh5n5f.png)   | My entry for /aicg/'s seventh theme week of Unconventional Monsters. Chiharu is just an ordinary guy looking for Mr. or Mrs. Right. He enjoys sports, video games, getting shredded, and exotic foods! He doesn't seem to be very open about his family life, though. Maybe (you) can get him to open up? Comes with two greetings: meeting him at a speed-dating event and a few dates into your budding relationship!
+![](https://files.catbox.moe/jh5n5f.png)   | My entry for /aicg/'s seventh theme week of "Unconventional Monsters". Chiharu is just an ordinary guy looking for Mr. or Mrs. Right. He enjoys sports, video games, getting shredded, and exotic foods! He doesn't seem to be very open about his family life, though. Maybe (you) can get him to open up? Comes with two greetings: meeting him at a speed-dating event and a few dates into your budding relationship!
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/chiharu-3b96ab54),  [Catbox](https://files.catbox.moe/txocjp.png)
 
 Aisling | Info
@@ -416,6 +416,11 @@ Elias | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/dz8ggv.png)   | Elias Lorcain has been around for centuries, studying and perfecting the art of magic. One day, however, he comes across a certain youth: you. He'd always had an affinity for children and teenagers, but something about you is different. And thus he's taken you under his wing to be your teacher...and your husband! Comes with three greetings.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/elias-dc246484),  [Catbox](https://files.catbox.moe/ktlq4j.png), [Alt gens](https://catbox.moe/c/snislx)
+
+Antero Vipunen | Info
+:----:  | :----: 
+![](https://files.catbox.moe/e6rgge.png)   | Made for /aicg/'s eighth theme week of "Finnish". Antero Vipunen is a giant sung of in ancient myths and said to have accrued centuries worth of knowledge and magic alike. Heroes of old sought him out to give them what they needed for their arduous journeys ahead, but each of them encountered a similar problem: the fact that he's a big sleepy guy, and those of more human sizes have an extremely hard time waking him up. Comes with two greetings.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/antero-vipunen-d0e5edaf),  [Catbox](https://files.catbox.moe/4o1i4k.png), [Alt gens](https://catbox.moe/c/5hbatq)
 
 Shameful Codespawn | Info
 :----:  | :----: 

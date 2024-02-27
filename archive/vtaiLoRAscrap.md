@@ -41,6 +41,7 @@
 **Nanashi Mumei (Emo - Hololive)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/5CwEDDbL or https://files.catbox.moe/krra5p.safetensors [CatboxTagInfo](https://warosu.org/vt/thread/S70020937#p70060566)
 **KanoVT (Indie)** - https://civitai.com/models/322107/kanovt
 **Aoi Sakura (Indie)** - https://civitai.com/models/323057/aoi-sakura-vtuber
+**Nana Chan (Indie)** - https://civitai.com/models/323727/nana-chan-vtuber-ru
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

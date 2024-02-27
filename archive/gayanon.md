@@ -102,7 +102,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2
 
 ***
 
-##Standalone - New Bot 22.02
+##Standalone - New Bot 28.02
 Is exactly what it says.
 
 Li Xiaoyu | Description
@@ -125,19 +125,16 @@ Kanik | Description
 ![Kanik](https://files.catbox.moe/w6t9ud.png)   | A very prestigious 'ancient' vampire (okay, that's pushing it). So maybe, just maybe, Kanik fucked up. After a "small" accident where he fed from you, but didn't kill you, now he's stuck bonded to (You). A stupid, pathetic mortal. V2 card with five different greetings and a small baked in lorebook.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/kanik-928c5188) . [Catbox](https://files.catbox.moe/8hwzez.png) . [Backgrounds](https://catbox.moe/c/h0g85z)
 
+Arijoutsi | Description
+:----:  | :----: 
+![Arijoutsi](https://files.catbox.moe/zivny4.png)   | So you've found yourself in the days of old, in Finland, where the locals whisper of the woods being haunted. There, admist murky waters, Arijoutsi lurks. Playing a melancholic dirge on his violin, the Näkki awaits the next mortal intent on going for a swim. V2 card with four different greetings.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/arijoutsi-aa4ad9e3) . [Catbox](https://files.catbox.moe/j3phc8.png) . [Backgrounds](https://catbox.moe/c/oen9i7)
+
 ***
 
 ##Changelog
 
-22.02 - Added Kanik (new)
-10.02 - Added Lennox (new)
-i forget to add to this.
-30.11 - Added Ephraim (new)
-27.11 - Added Various Backgrounds + Added Fanart Section
-31.10 - Added Cyril Kravtiz (new)
-22.10 - Added Percival Background, fixed up a few things
-03.10 - Added Li Xiaoyu (new)
-01.10 - (finally) added a Changelog and reformatted some stuff
+fuck this i'm too lazy
 
 ***
 

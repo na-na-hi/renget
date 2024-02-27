@@ -5,8 +5,8 @@
 -> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 -> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
 
-!!! warning Quick Update (01/27/24)
-	**Sweep through Updated info, if I missed something, ill fix it later, my brain is fried from looking at the rentry background at this moment.**
+!!! warning Quick Update (02/27/24)
+	**Added new upcoming members and such, still haven't marked if something has a lora or not. I'll be doing that later this week**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -32,6 +32,12 @@ Oceane Otoishi | - | - | - | -
 Yuno Hanaki | - | - | - | -
 Ran Tsukiha | - | - | - | -
 Kaya Nishikino | - | - | - | -
+Tomoe Carmine | - | - | - | -
+Meimi Majokko | - | - | - | -
+Kohaku Yumekui | - | - | - | -
+Lethe Bonapuchi | - | - | - | -
+Hiyori Mokami | - | - | - | -
+Navina Nova | - | - | - | -
 
 ## -> Phase-Connect <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -48,13 +54,13 @@ Rinkou Ashelia | X | X | -
 Saya Sairroxs | X | - | X | -
 Runie Ruse | X | - | X | -
 Hikanari Hina | X | - | X | Too early bake according to anon, will test anyways
-Eimi Isami | - | - | - | -
+Eimi Isami | X | - | X | -
 Muu Muyu | X | X | - | Obviously its a little early so ill mark it as update needed.
-Kannagi Loki | - | - | - | Debut January 27th
-Kokoromo Memory | - | - | - | Debut January 27th
-Gram Pico | - | - | - | Debut January 27th
-Ayase Yuu | - | - | - | Debut January 27th
-Kaminari Clara | - | - | - | Debut January 27th
+Kannagi Loki | - | - | - | -
+Kokoromo Memory | - | - | - | -
+Gram Pico | - | - | - | -
+Ayase Yuu | - | - | - | -
+Kaminari Clara | X | - | X | -
 
 ## -> VShojo <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -505,6 +511,11 @@ Konno Izumi | - | - | -
 Ayane Leon | - | - | -
 Hoshinouta Kaz | - | - | -
 Yoshizuki Meguru | - | - | -
+Hasumi Sahiro | - | - | -
+Mememori An | - | - | -
+Hisumi | - | - | -
+Uki-uki Unico | - | - | -
+
 
 ## -> V&U <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -523,6 +534,11 @@ D.K Graves | - | - | -
 Spectra Libitina | - | - | -
 Zeli Zuimu | - | - | -
 Misma Ryzing | - | - | -
+Cerenity Cosmica | - | - | -
+Rowa Arctos | - | - | -
+Mivi Aivori | - | - | -
+Ciccino Katterina | - | - | -
+Tomomi Toraya | - | - | -
 
 ## -> Megalight Production (X) <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -544,18 +560,6 @@ Kendo Murft (kendomurft) | - | - | -
 Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 ???  | - | - | -
-
-## -> Akio AIR <-
-!!! info Available Loras without the need of updates and have been tested.
-	Athena Nightingale, RoaFen, Nonoah, Kion Dojima, Nophilia, Azuri Delfi
-
-Chuuba | Has Lora | Update Needed | Testing | Comment
------- | ------ | ------ | ------ | ------
-MEW Horizon | X | X | -
-Teyra Fenthera | - | - | - | Might be Impossible
-Vix E. Grey | - | - | - | Might be Impossible
-Chiyorii Kogara | - | - | - | Might be Impossible
-Hoshikuzu Orion | - | - | - | Might be Impossible
 
 ## -> VirtuaReal <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1299,6 +1303,53 @@ Chuuba | Has Lora | Update Needed | Testing
 Airi Viridis | - | - | -
 Kirispica | - | - | -
 
+## -> M.Entertainment <-
+!!! info Available Loras without the need of updates and have been tested.
+	Rumi Lanmewko,
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Paroniie | - | - | -
+Shiu Coda | - | - | -
+Kannazuki Lubee | - | - | -
+LiKaRuZ | - | - | -
+Arrynia Vaeri | - | - | -
+Himegi Michika | - | - | -
+Vaswawa | - | - | -
+Shuraku Kiriko | - | - | -
+Sinnie Aris | - | - | -
+Yuzuki Ririna | - | - | -
+Ekorru | - | - | -
+Wakasa Ito | - | - | -
+Enominya Andi | - | - | -
+
+## -> First Stage Production <-
+!!! info Available Loras without the need of updates and have been tested.
+	N/A
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Amae Ten | - | - | -
+Mushanokoji Eli | - | - | -
+Rose Swing! | - | - | -
+Yuragi Riu | - | - | -
+Kamiyori Shihai | - | - | -
+Akane | - | - | -
+Leta | - | - | -
+Ryugahama Yue | - | - | -
+Mutogi Nanone | - | - | -
+Yu-yu-Yura | - | - | -
+Mochituke Nullpo | - | - | -
+Tsukigami Len | - | - | -
+Akemi Haine | - | - | -
+Kurosaki Taiga | - | - | -
+Perfect Bomber | - | - | -
+Gale Galleon | - | - | -
+Cassian Floros | - | - | -
+Lucien Lunaris | - | - | -
+Zander Netherbrand | - | - | -
+Rosco Graves | - | - | -
+
 ## -> NHOT BOT <-
 !!! info Available Loras without the need of updates and have been tested.
 	Kagura Mea, Hiseki Erio,
@@ -1475,3 +1526,15 @@ Xin Asura | - | - | -
 Miya Mareena | - | - | -
 Aishii Ai | - | - | -
 Lorelai Loch | - | - | -
+
+## -> Akio AIR (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	Athena Nightingale, RoaFen, Nonoah, Kion Dojima, Nophilia, Azuri Delfi
+
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+MEW Horizon | X | X | -
+Teyra Fenthera | - | - | - | Might be Impossible
+Vix E. Grey | - | - | - | Might be Impossible
+Chiyorii Kogara | - | - | - | Might be Impossible
+Hoshikuzu Orion | - | - | - | Might be Impossible

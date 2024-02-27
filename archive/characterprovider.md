@@ -19,7 +19,7 @@
 - - -
 ####⠀-> TL;DR <-
 
--> This page is an AI RP tips and tricks. You can find prompts, answers to possible questions regarding AI RP issues with Claude and GPT, a guide to character creation, explanations of LLM parameters, and other tips and tricks. Use the 'Quick Start' section for navigation. <-
+-> This page is AI RP tips and tricks compilation. You can find prompts, answers to possible questions regarding AI RP issues with Claude and GPT, a guide to character creation, explanations of LLM parameters, and other tips and tricks. Use the 'Quick Start' section for navigation. <-
 
 ######
 - - -

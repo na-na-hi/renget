@@ -557,7 +557,12 @@ or
 ***
 ##### -> Cuiseika <-
 -> [Civitai](https://civitai.com/models/316818/cuiseika-pony-xl) <-
+
 ##### -> Juniper Actias <-
 -> [Civitai](https://civitai.com/models/313257/xl-10-juniper-actias-or-vtuber) <-
+
 ##### -> Nina Saotome (Smol Goth) <-
 -> [Catbox](https://files.catbox.moe/ayy4zv.safetensors) <-
+
+##### -> Fallenshadow / Shondo <-
+-> [Civitai](https://civitai.com/models/324203/fallenshadow-for-ponyxl) <-
