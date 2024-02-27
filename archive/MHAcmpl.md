@@ -112,6 +112,7 @@ Higa Umeko HN Slip-N'-Slideasaurus: https://desuarchive.org/tg/post/91833690/
 Nayuki Kyoko: https://desuarchive.org/tg/post/91834965/
 Kiyoura Shidehara - Icky Hero: Slimenuts: https://desuarchive.org/tg/post/91782779/
 ??? HN Meteoric Hero: Cube: https://desuarchive.org/tg/post/91890433/
+Misato Fukushima: https://desuarchive.org/tg/post/92006447/
 
 >>Misc.?
 Roland Rivers HN "Sir Galahad": https://archive.4plebs.org/tg/post/88452167 (further information at https://pastebin.com/6Turzmiq)
@@ -129,6 +130,7 @@ Yasashi Koibito HN "The Laser Hero - Majestic": https://archive.4plebs.org/tg/po
 Junko Hongo HN "The Overly-Enthusiastic Tokusatsu Hero, LocaLoca": https://archive.4plebs.org/tg/post/88745486
 Omura Tadao HN "Deceptive Hero, Conman": https://archive.4plebs.org/tg/post/88754723
 Atsushi Akane "Blast Burn": https://archive.4plebs.org/tg/thread/90977623/#90984028
+Takahashi Mako, HN Ersatz: https://desuarchive.org/tg/post/92011019/
 >Villains
 Karuga Ito: https://archive.4plebs.org/tg/post/88192478
 Rebecca Weber: https://archive.4plebs.org/tg/post/88722750
@@ -167,6 +169,11 @@ Astra Smalls Aka Size King: https://archive.4plebs.org/tg/post/91360064/
 Kiki HN Yggdrasil: https://archive.4plebs.org/tg/post/91707234/
 Richard Wilkins HN The #1 Hydro Hero: "Splash": https://archive.4plebs.org/tg/post/91721688/
 MR. BULLET: https://desuarchive.org/tg/post/91812743/
+Shōgeki Heshi HN: Crash: https://desuarchive.org/tg/post/92012115/
+Tóu Zhǎng Koie/Phys P: https://desuarchive.org/tg/post/92017795/
+Kazuya Ono: https://desuarchive.org/tg/post/92012443/
+Alpha Ueno HN: Sylph: https://desuarchive.org/tg/post/92014322/
+
 
 ### Villains
 >Night Parade
@@ -236,6 +243,9 @@ The Hospital Killer: https://desuarchive.org/tg/post/91772420/
 Paul Crémieux VN De Jais (Jet Black): https://desuarchive.org/tg/post/91841242/
 Jessica Wu VN Surinam Toad Girl: https://archive.4plebs.org/tg/thread/91843193/#91851919
 Jan Procházka VN Msr. Blanc: https://desuarchive.org/tg/post/91963570/
+Gustave Gavial VN Gnash: https://desuarchive.org/tg/post/92016443/
+Cosmo Black VN X.T.: https://desuarchive.org/tg/post/92016885/
+Kate Everly: https://desuarchive.org/tg/post/92016986/
 
 ### Supporters
 Lady Astoria Belmont: https://archive.4plebs.org/tg/post/88201576
@@ -249,6 +259,7 @@ Holden Deckard https://archive.4plebs.org/tg/thread/90912459/#q90913931
 Brightly: https://archive.4plebs.org/tg/post/91006966/
 Dr. Seto Kawata: https://archive.4plebs.org/tg/post/91051432/
 Satoru Tani: https://archive.4plebs.org/tg/post/91149772/
+Yuko Ozaku: https://desuarchive.org/tg/post/92025025/
 
 ### Holding Area for Non-Canon Builds/Shitpost Builds/Illustrative Builds
 Shinji Kanashimi: https://archive.4plebs.org/tg/post/88219042 (further information at https://controlc.com/5525da8b)
@@ -1191,6 +1202,7 @@ Spring Boy And Summer Girl (Seiryu, Honoken, Kotoba): https://rentry.org/yzbayxk
 Um Tempo Musical (Seiryu, Honoken): https://rentry.org/qxo4wft2
 Messages From The Star (Seiryu, Yoshizumi): https://rentry.org/7rw4bbwc
 Hearts Afire (Seiryu, Yamata, Blast Burn, Yamamoto): https://rentry.org/ewpc5tz3
+A Hero Student's Uncertain Dating Prospects (Beach Day, Slip-n-Slideasaurus, Cube): https://rentry.org/DatingProspects
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

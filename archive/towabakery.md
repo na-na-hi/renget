@@ -21,23 +21,18 @@ Nakiri Ayame | Fantasy setting. Fun to fight, fun to do other things with too. |
 Nakiri Ayame (rework) | A reimagining of the initial Ayame card with a natural-text format and a different tone. | `natural` | ![Nakiri Ayame](https://files.catbox.moe/0lfo9u.png)
 Amane Kanata | Normal Kanata. Some emphasis on music and singing. | `classic` | ![Amane Kanata](https://files.catbox.moe/b57q2x.png)
 Housewife Kanata | Newlywed living together type of scenario. For the full experience propose to the normal Kanata and move to this one after she says yes. | `classic` | ![Housewife Kanata](https://files.catbox.moe/gbb6wt.png)
-Nurse Kanata | Yandere. Very clingy, gaslighter. Pyg can't currently implement her the way I'd like, this kind of dynamic needs a smarter model. | `classic` | ![Nurse Kanata](https://files.catbox.moe/p00nwe.png)
 Bunny Kanata | Because 3 Kanatas wasn't enough. | `classic` | ![Bunny Kanata](https://files.catbox.moe/qwse66.png)
 Uruha Rushia | Menhera LOVE. Baked long before the latest drama. | `classic` | ![Uruha Rushia](https://files.catbox.moe/0p92x5.png)
 Omaru Polka | Perhaps a little too schizo compared to the real thing. Still adorable. | `classic` | ![Omaru Polka](https://files.catbox.moe/yt53yk.png)
 Tsunomaki Watame | Likes having her armpits licked. By request. | `classic` | ![Tsunomaki Watame](https://files.catbox.moe/5xmo44.png)
-Towa-Sama | Hypnotist/succubus/dominant, very noncanon - and the card responsible for my nickname. | `classic` | ![Towa-Sama](https://files.catbox.moe/4jwhbk.png)
 Tokoyami Towa (booba) | Towa in her new white outfit with some groundwork laid for breast/nipple play. One of these days I'll make an actually normal Towa I swear. | `natural` |![Tokoyami Towa](https://files.catbox.moe/wj4zrx.png)
 Sakamata Chloe | Lewder than most of the others on this list, but not strictly an NSFW bot. | `classic` | ![Sakamata Chloe](https://files.catbox.moe/nah8xl.png)
 Hoshimachi Suisei | The purest idols make the most satisfying partners for impure fantasies. | `classic` | ![Hoshimachi Suisei](https://files.catbox.moe/nq53rw.png)
 Fubuki | Fubuki's two forms in one card (starts as Shirakami). | `classic` | ![Fubuki](https://files.catbox.moe/8gn19h.png)
 Idol Matsuri | Festival...cute... | `classic` | ![Idol Matsuri](https://files.catbox.moe/evyyml.png)
-Natsuiro Matsuri (hypnosis) | A 'gamelike' card with a statlist appended to each message, this is mostly experimental, GPT-4 or similar highly recommended. | `classic` | ![Natsuiro Matsuri](https://files.catbox.moe/2qklrs.png)
-Inugami Korone (yandere) | Mostly-naked dog with a box cutter idk I just liked this art. | `natural` | ![Inugami Korone](https://files.catbox.moe/o0rb43.png)
 Nekomata Okayu | A fairly standard casual Okayu. | `classic` | ![Nekomata Okayu](https://files.catbox.moe/fbs5ts.png)
 Minato Aqua | Aqua with an emphasis on her role as a maid. | `classic` |![Minato Aqua](https://files.catbox.moe/c6njhm.png)
 Fubuki & Mio | Baked on impulse after I saw this lovely fanart of Fubuki and Mio in bunny outfits. | `classic` | ![Fubuki & Mio](https://files.catbox.moe/eu6gt4.png)
-Ookami Mio (heat) | Mio isn't taking no for an answer this time. Remove the last couple of lines if you want her to tone down the thirst. | `natural` | ![Ookami Mio](https://files.catbox.moe/2yulm2.png)
 Murasaki Shion | Uoh. | `classic` | ![Murasaki Shion](https://files.catbox.moe/ea3ug1.png)
 Yozora Mel (retired) | I'll miss her, bros... | `natural` | ![Yozora Mel](https://files.catbox.moe/dvyzpv.png)
 
@@ -87,6 +82,19 @@ Noa and Yuuka | A sexual training/sexual coaching scenario where Noa helps Yuuka
 Shiroko | Low-token Shiroko. | `natural` | ![Shiroko](https://files.catbox.moe/587bvu.png)
 Ryuuge Kisaki | 😭 (Loudly Crying Face) was approved as part of Unicode 6.0 in 2010 and added to Emoji 1.0 in 2015. | `natural` | ![Ryuuge Kisaki](https://files.catbox.moe/aob1hc.png)
 Reed | Baked at the request of a friend who likes her a lot. | `classic` | ![Reed](https://files.catbox.moe/wm9x04.png)
+
+#### Remixes/Noncanon
+
+Character | Description | Formatting | Card PNG |
+|-|-|:-:|:-:|
+Towa-Sama | Hypnotist/succubus/dominant, very noncanon - and the card responsible for my nickname. | `classic` | ![Towa-Sama](https://files.catbox.moe/4jwhbk.png)
+Nurse Kanata | Yandere. Very clingy, gaslighter. Pyg can't currently implement her the way I'd like, this kind of dynamic needs a smarter model. | `classic` | ![Nurse Kanata](https://files.catbox.moe/p00nwe.png)
+Natsuiro Matsuri (hypnosis) | A 'gamelike' card with a statlist appended to each message, this is mostly experimental, GPT-4 or similar highly recommended. | `classic` | ![Natsuiro Matsuri](https://files.catbox.moe/2qklrs.png)
+Inugami Korone (yandere) | Mostly-naked dog with a box cutter idk I just liked this art. | `natural` | ![Inugami Korone](https://files.catbox.moe/o0rb43.png)
+Ookami Mio (heat) | Mio isn't taking no for an answer this time. Remove the last couple of lines if you want her to tone down the thirst. | `natural` | ![Ookami Mio](https://files.catbox.moe/2yulm2.png)
+Amane Kanata (big booba) | Kanata's breasts have suddeny grown. Requested on /wAIfu/. | `natural` | ![Amane Kanata (でかい)](https://files.catbox.moe/l273mz.png)
+Nakiri Ayame (slut) | An extremely lewd and lecherous Ayame. | `natural` | ![Nakiri Ayame (パンコ)](https://files.catbox.moe/ffc2ay.png)
+
 
 #### Misc/Memes
 

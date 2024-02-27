@@ -414,7 +414,14 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 !!! note
 	**Status: Complete**
 [**[1]** *Oh, this is really short actually*](https://arch.b4k.co/vp/thread/55406868/)
-[**[2]** *Don't ever play Virtualization bros*](https://arch.b4k.co/vp/thread/55421422/)
+[**[2]** *We interrupt your regularly scheduled Eeveekino to watch me play quite possibly the worst fangame in existence*](https://arch.b4k.co/vp/thread/55421422/)
 [**[3]** *Death to Hyperpajeets*](https://arch.b4k.co/vp/thread/55440580/)
 [**[4]** *Neat plot twist*](https://arch.b4k.co/vp/thread/55453640/)
 [**[5]** *What an abrupt ending, surely there's a postgame to tie up the loose ends of the story*](https://arch.b4k.co/vp/thread/55458758/)
+
+###->Post Eevee Edition Filler Threads<-
+!!! info
+	While I finished Demice's Infinite Fusion autism, thread decided to play Bushido, and that's not really long enough for a dedicated thread.
+	Meanwhile, Wagie opened Pandora's Box...
+[**[1]** *Holy status spam*](https://arch.b4k.co/vp/thread/55464988/)
+[**[2]**](https://arch.b4k.co/vp/thread/55476295/)

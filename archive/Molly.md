@@ -1,4 +1,2 @@
--> [![Art by 無地飴](https://files.catbox.moe/mhhmya.png)](https://twitter.com/GasuGuma) <-
-
--> ![](https://files.catbox.moe/m84bg9.png) <-
--> [Click to view our Hoard](/basement) <-
+-> ![](https://files.catbox.moe/8qm1i0.png)![](https://files.catbox.moe/nmlqns.png) 
+***This URL was claimed By  [Seth](https://rentry.co/sethshoard) !*** <-

@@ -98,14 +98,11 @@ EXAMPLE %green%>Most patriotic americans agree that the border is a major concer
       >>>https://catbox.moe/c/xn4y3s
       >>>https://catbox.moe/c/r7qr89 *(%orange%Cute baker pics for patriotic bakes%%)*
       >==Baker Chans for bakes and camp fire bakes :==![rwg9](https://files.catbox.moe/dvtkxu.jpg)![rwg10](https://files.catbox.moe/bamouv.jpg)![rwg11](https://files.catbox.moe/l6o9d2.jpg)![rwg12](https://files.catbox.moe/oaeng7.jpg)![rwg12](https://files.catbox.moe/9gzqqd.jpg)
-     
      ***
       >**▶/rwg/ Declaration Chans Art Collectables:**
       >>>https://catbox.moe/c/vlgli9
       >>>https://catbox.moe/c/7xa2ec *(%orange%Cute Sky Chan pics for patriotic frens%%)*
       >==Sky Chans for those that like nice pics :==
-
-
 
 
 ***

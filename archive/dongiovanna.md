@@ -1,4 +1,3 @@
--> [![Art by 無地飴](https://files.catbox.moe/mhhmya.png)](https://twitter.com/GasuGuma) <-
+->![](https://gifcity.carrd.co/assets/images/gallery03/0e87901d.png?v=d7271437)<-
 
--> ![](https://files.catbox.moe/m84bg9.png) <-
--> [Click to view our Hoard](/basement) <-
+->![](https://gifcity.carrd.co/assets/images/gallery03/7d7ab221.gif?v=d7271437) *t*aken by [**Gio**Gio](https://rentry.co/dongiovanna) ***!***<-

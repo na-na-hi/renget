@@ -47,7 +47,6 @@ Content|Link|Description
 -------|-------|-------
 Spreadsheet with dates, runtime and content of these vods |[Speadsheet](https://docs.google.com/spreadsheets/d/1yDsA-0T_lYuNneOdAAIn1DSQe6My7o_XVy0CVrOpZkI/edit#gid=1309061356)|
 Unlisted Playlist with these Vods|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3)|
-Ms Onedrive Mirror|[MS Onedrive](https://onedrive.live.com/?id=B2DA420D7AA7F6A8%21202&cid=B2DA420D7AA7F6A8)|
 Archive.org Mirror|[Archive.org](https://archive.org/details/2021-06-13-resident-evil-village-part-4-final-jessie-its-time-to-kill-heisenburg)|
 
 ##[Olivia Monroe](https://www.twitch.tv/oliviamonroe) 
@@ -60,7 +59,6 @@ Unofficial Olivia Monroe Vod Channel | [Link](https://www.youtube.com/@Oliviamon
 Content|Link|Description 
 -------|-------|------- 
 Official Pomu Vod Channel| [Link]( https://www.youtube.com/@PomuRainpuff/videos)| 
-Unofficial Pomu Metal Gear Solid Vod Archive | [Ms Onedrive](https://onedrive.live.com/?authkey=%21AA%2D%2DW39Y3U4p4P4&id=39880C3977C3B3F6%21303&cid=39880C3977C3B3F6)| 
 Unofficial Pomu Metal Gear Solid Vod Archive backup | [Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv-AF9nrYrG3--G9j2ysmEW9)| 
 
 
@@ -86,7 +84,6 @@ Content|Link|Description
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/watch?v=ssnEOBQ14Mg&list=PLWY2Mr_dkXkudAqaGYJDU7WlAgnf0afSX)|
 Unofficial Girl DM Vod Archives | [Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8nv-fpWRpz4t0ebpQb60x7)|If you want future Karaoke vods added to this feel free to contact me per mail at: hansderhas6473(at)gmail.com and i will add them.
-Unofficial Girl DM Vod Archives | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXHuBG_SqMfslUhd?e=5d7nFW)|
 Unofficial Girl DM Vod Archives | [Archive.org](https://archive.org/details/girl-dm-2023-05-08-karaoke-third-anniversary-of-girldm-d-no-fanfare-just-karaoke)|
 
 ---
@@ -95,7 +92,6 @@ Unofficial Girl DM Vod Archives | [Archive.org](https://archive.org/details/girl
 Content|Link|Description 
 -------|-------|------- 
 Bubi VT Vod "Archive"|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv98Bb0mGlblFUVIkWdg5RSi)| 
-Bubi VT Vod "Archive"|[Ms Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kXApidFV6YEwaOc-?e=hDVU85)| 
 Bubi VT Vod "Archive"|[Archive.org](https://archive.org/details/Bubi_vt_Vod_Archive)| 
 
 
@@ -107,7 +103,6 @@ Content|Link|Description
 -------|-------|------- 
 Official vod channel| [Link](https://www.youtube.com/@BatAtVideoGamesVods)|
 Unofficial Archive of the first Karaoke vod | [Link](https://www.youtube.com/watch?v=DwqyoG2U1Dk)| 
-Unofficial Archive of the first Karaoke vod | [MS Onedrive](https://1drv.ms/v/s!AhS3PgDnjlw8kXLEH7VrIBTWgjcw?e=zBvwm3)| 
 Unofficial Archive of the first Karaoke vod | [Archive.org](https://archive.org/details/2022-05-28-karaoke-this-sucks-batatvideogames)| 
 
 

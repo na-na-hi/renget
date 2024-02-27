@@ -626,13 +626,13 @@ I'm not a big spender so I can't give too much of an opinion on the other packs.
 **Don't read the volume F sheet too closely**, it has some spoilers in it. 
 
 Ordered by release date:
-Volume 1 > V2C1 > V3C1-3 > V4C1 > V3C4 > V2C2 > Volume F > V4C2 > V5C1
+Volume 1 > V2C1 > V3C1-3 > V4C1 > V3C4 > V2C2 > Volume F > V4C2 > V5C1 > V1C3
 
 Including the events:
 Volume 1 > Izuna event > V2C1 > Cherino event > Hina's momotalk (lol) > V3C1-2 > Trinity Summer 1 > Gehenna Summer > Shunny event > Bunny Chasers > Decagrammaton Story 1-2 > Hot Springs event > V3C3 E1-9 > NY Problem Solvers 68 > V3C3 E10-25 > Wakamo Valentine event > Ui event > V4C1 > Michiru event > Decagrammaton Story 3-4 > V3C4 E1-10 > Abydos summer > Hyakkiyako summer > V3C4 E11-25 > ASS club event >
 I got too lazy to do the rest
 
-V2C2 > Volume F > V4C2 > V5C1 > dress Hina event > V1C3
+V2C2 > Aru's momotalk (lmao) > Volume F > V4C2 > V5C1 > dress Hina event > V1C3
 
 You can also read it by volume. 
 

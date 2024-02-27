@@ -12,6 +12,9 @@ Link | &nbsp;
 [3rd PV - Anniversary](https://www.youtube.com/watch?v=RgHiiuahpRU)
 [4th PV - 2nd Anniversary](https://www.youtube.com/watch?v=4rDOsvzTicY&)
 [4.5th PV](https://www.youtube.com/watch?v=N8g9B0zEXpM)
+
+[Chinese Server PVs](https://space.bilibili.com/3493265644980448)
+
 [Summer PV (Animated)](https://www.youtube.com/watch?v=T5wNrdOMrNg&)
 [Beautiful Day Dreamer (Animated)](https://www.youtube.com/watch?v=PNJhdtq6srg&)
 &nbsp;

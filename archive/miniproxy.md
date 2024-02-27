@@ -24,8 +24,8 @@ total **active** users: 115 %red% (CLOSED) %%
 - I am not accepting monetary donations because they caused too much drama. 
 
 !!! info info and news (24/02/2024)
-    gemini ultra is not released yet. I can't add that to the proxy...
-    currently dealing with 1k+ spam emails. i might have missed/deleted your email. please send another one.
+    gemini ultra/pro 1.5 is not available yet. I can't add that to the proxy...
+    I will answer the emails I swear. Just a little busy irl.
 ***
 
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 

@@ -177,6 +177,10 @@
 - Unlimited access to a large library of movies and TV shows with a seamlessly immersive experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieworld.pl/)
 
+### 🐐 [movie-web](https://movie-web.github.io/docs/instances)
+- The wonderful site offers various instances with movies and TV shows for quick streaming.
+- [URL Safety Results](https://www.urlvoid.com/scan/movie-web.github.io/)
+
 ### ▶️ [MovieUniverse](https://movieuniverse.se/)
 - Free internet access to movies and television shows with a seamless experience, the system offers the best stream available.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieuniverse.se/)
@@ -236,10 +240,6 @@
 ### ▶️ [StreamLair](https://streamlairtv.com/)
 - Over 300,000 movies and TV shows, absolutely free with multiple subtitles.
 - [URL Safety Results](https://www.urlvoid.com/scan/streamlairtv.com/)
-
-### ▶️ [sudo-flix](https://www.sudo-flix.lol/)
-- Enjoy your preferred series and films using this open-source streaming website
-- [URL Safety Results](https://www.urlvoid.com/scan/sudo-flix.lol/)
 
 ### 🐐 [The Movie Archive](https://themoviearchive.site/) / [2](https://tma.lol/)
 - Unlimited access to a vast library of films, allowing you to indulge in your favorite movies.

@@ -80,5 +80,3 @@ it's never been more over than it is now..
 
 sega/sonic team - og sprites
 spriters resource - has the sprites ripped
-
-![penis](https://files.catbox.moe/pmzia5.gif)
