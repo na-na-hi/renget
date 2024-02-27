@@ -1,1 +1,4 @@
--> ***☆ Taken By  [Guts](https://rentry.co/Basement) .ᐟ*** ![](https://massacre.crd.co/assets/images/gallery01/3a978443.gif?v=cfe7914f) <-
+-> [![Art by 無地飴](https://files.catbox.moe/mhhmya.png)](https://twitter.com/GasuGuma) <-
+
+-> ![](https://files.catbox.moe/m84bg9.png) <-
+-> [Click to view our Hoard](/basement) <-

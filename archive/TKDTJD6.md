@@ -2089,3 +2089,208 @@ https://files.catbox.moe/j40vbi.mp4  2/25/24
 
 >BREAKING| Scenes from the vicinity of the Israeli embassy in Washington DC. after an American soldier self-immolated in protest against the genocide in Gaza. 
 https://t.me/QudsNen/97137  2/25/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 25 (2024), against (US)-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted IOF soldiers stationed in "Qalba 22" east of the eastern cemetery in Jabaliya with a guided 107mm missile, causing casualties.
+
+🔻Shelled, with a barrage of 60mm regular mortar shells, the enemy soldiers around the "Abu Absal" gate east of Khan Yunis.
+
+🔻Sniped an IOF soldier, near the Stars Hall south of the Zaytoun neighborhood in Gaza City.
+
+🔻Shelled a gathering of IOF soldiers and vehicles, with a barrage of 60mm regular mortar shells, around the Dawa State Junction south of the Al-Zaytoun neighborhood in Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled concentrations of IOF army vehicles & soldiers in the southern Zaytoun neighborhood with short-range 107mm rockets.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Engaged in fierce clashes with the IOF forces, using appropriate and diverse weapons, in the axes of the Zaytoun neighborhood in Gaza City.
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Joint operation with Al-Qassam Brigades & Saraya Al-Quds, the 3 factions shelled gatherings of israeli army vehicles with mortar shells in Biyara Saqallah, east of Al-Zaytoun neighborhood.
+
+— 🇵🇸 Al-Asifah Forces:
+
+🔻Shelled military concentrations around Al-Zalal Mosque, east of Khan Younis, with a barrage of mortar shells.
+
+— 🇵🇸 Al-Aqsa Martyrs' Brigades:
+
+(Spox update of the last 72 hours)
+
+🔻Engaged in fierce clashes with IOF forces using machine guns in the axis of Al-Zaytoun neighborhood.
+
+🔻Targeted a Merkava tank with a tandem rocket, hitting it directly in the axis of Al-Zaytoun neighborhood.
+
+🔻Shelled IOF army gatherings in the Netzarim axis, northeast of the central area with a 107mm rocket barrage.
+
+🔻Engaged in fierce clashes with IOF forces and their vehicles using various weapons and RPGs, in the axis of Al-Amal neighborhood in Khan Younis.
+
+🔻Clashed with an IOF force barricaded in a building, causing deaths and injuries, and seized part of their military equipment.
+
+🔻Shelled gatherings of IOF vehicles and soldiers in the south of Al-Zaytoun neighborhood with short-range 107mm rockets.
+
+— 🟡 Hezbollah:
+
+🔻Targeted IOF soldiers' gathering near the Ramim Barracks with rockets.
+
+🔻Targeted Zebdine Barracks in the occupied Shebaa Farms with two Falaq-1 rockets.
+
+🔻Targeted the IOF artillery position and the deployment of its soldiers south of Kiryat Shmona with rockets and artillery.
+
+🔻Targeted a building housing Israeli soldiers in the Manara colony with suitable weapons.
+
+🔻Targeted 2 buildings housing Israeli soldiers in the Al-Malikiyah colony with suitable weapons.
+
+🔻Targeted israeli soldiers' gathering in the vicinity of the Al-Marj site with a Burkan IRAM rocket.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.esmailelbob.xyz/AryJeay/status/1761914107807019314#m  2/25/24
+
+>🛑| In a joint-operation between al-Qassam Brigades & the Al-Quds Brigades
+
+They managed to ambush an IOF force in the vicinity of the University of Palestine in the central Gaza Strip, resulting in casualties with some killed and others injured.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762094494051156027#m  2/25/24  
+
+>GOOD NEWS!
+
+Nathaniel Charles Jacob Rothschild, from the notorious Rothschields, died at the age of 87.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762072256740479224#m  2/25/24  
+
+>🛑| Al-Mayadeen correspondent confirms:
+
+More than 40 rockets/missiles were launched from Lebanon. 🔥
+https://nitter.esmailelbob.xyz/AryJeay/status/1762117461359378440#m  2/25/24   
+
+>BREAKING: According to Lebanese Al-Mayadeen, the islamic resistance in Lebanon just fired a volley of 40 rockets towards the occupied Golan Heights.
+https://nitter.esmailelbob.xyz/IrnaEnglish/status/1762122306132840606#m  2/25/24  
+
+>🚨BREAKING:
+
+Rocket sirens activated in the northern and southern occupied Golan Heights.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762115952307483096#m  2/25/24  
+
+>🟡| Hezbollah confirms:
+
+In response to the Zionist aggression on the outskirts of Baalbek, Hezbollah targeted the headquarters of the Golan Brigade in Nafah with 60 Katyusha rockets.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762125562691125507#m  2/25/24  
+
+>Footage shows moments of impact on an israeli army base in the occupied Golan Heights with 60 Katyusha rockets.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762139722707558805#m  2/25/24  
+https://files.catbox.moe/4yip9g.mp4  2/25/24   
+
+>Turkiye urges an immediate ceasefire in Gaza at ICJ
+https://nitter.esmailelbob.xyz/QudsNen/status/1762076558083100833#m  2/25/24  
+
+>UNRWA: February registered a 50% reduction of humanitarian aid entering Gaza compared to January.
+
+Aid was supposed to increase not decrease to address the huge needs of 2 million Palestinians in desperate living conditions.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762072313158144443#m  2/25/24  
+
+>Widespread criticism of mainstream media after it failed to cover the incident in front of the Israeli embassy in Washington DC, where active duty member of the US military, Aaron Bushnell, sacrificed himself to protest Israel's genocide in Gaza and the US support for the unprecedented genocide. 
+
+Western media outlets hid Bushnell's motive and attempted to present the incident as a suicide.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762077436970242460#m  2/25/24  
+
+>German lawyers file criminal complaint against Chancellor Scholz over weapons supply to Israel
+https://nitter.esmailelbob.xyz/QudsNen/status/1762087600972615759#m  2/25/24  
+
+>Under Israeli police protection, fanatic settlers break into Al Aqsa mosque while thousands of Muslim worshipers are denied entry.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762093724798947411#m  2/25/24  
+
+>Today Israel is expected to present its 30-day assessment of compliance with the ICJ decision. 
+
+However, official numbers confirm that Israel's killing rampage continued unabated.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762095906961142009#m  2/25/24  
+
+>BREAKING| Israel's army opens fire at thousands of starving people in the southwest of Gaza City as they were attempting to get food.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762102066200150342#m  2/25/24  
+https://files.catbox.moe/yy12ch.mp4  2/25/24  
+
+>HRW: The daily average number of trucks entering Gaza with food, aid, and medicine dropped by more than a third in the weeks following the ICJ ruling: 93 trucks between January 27 and February 21, 2024, compared to 147 trucks between January 1 and 26, and only 57 between February 9 and 21.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762102638923919569#m  2/25/24  
+
+>Journalist and politician Suzanne Evans stated during a TV show that "London is hijacked," referring to protests erupting in solidarity with Gaza and demanding a ceasefire. She proceeded to suggest that the mayor of London should prohibit these protests for being "anti-Semitic."
+https://nitter.esmailelbob.xyz/QudsNen/status/1762121228309979521#m  2/25/24  
+https://files.catbox.moe/veknp5.mp4  2/25/24
+
+>⚡️⚡️Yemeni media: The American-British aggression resumed bombing with two raids on the Ras Issa area in Al-Salif District in Hodeidah Governorate.
+
+War_Media
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762134099253219382#m  2/25/24  
+
+>⚡️⚡️Urgent || A missile salvo from the center of the #Gaza Strip towards the surrounding settlements.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762155427888853273#m  2/25/24  
+
+>BREAKING:
+
+⚡ 🇮🇱 Israel plans $60bn debt raising and tax increases to fuel defense spending - The Financial Times
+
+Israel plans to 'raise about $60 billion in debt this year, freeze government hiring and increase taxes as it almost doubles its defense spending'.
+
+Israel's more than four-month conflict with Hamas has taken a severe toll on the economy, which shrank almost 20 percent on an annualized basis in the last quarter of 2023.
+
+ The hit came as the government mobilized a record 300,000 reservists;  tens of thousands of people were displaced in the north and south of the country and consumer spending slumped.  
+
+About 150,000 Palestinian workers have also been prevented from entering Israel from the occupied West Bank.
+https://nitter.esmailelbob.xyz/Megatron_ron/status/1762154615196320138#m  2/25/24  
+
+>Jews in Trump's MAGA camp (previously in Hillary's camp, but Laura made a transfer) now spit and insult US Army veterans just because they don't support Israel's genocide.
+
+GREAT.
+https://nitter.esmailelbob.xyz/Megatron_ron/status/1762116307766354404#m  2/25/24  
+
+>⚡️Al-Aqsa Brigades published a video showing the military equipment they captured after clashing with a special IOF force, south of Al-Zaytoun neighborhood.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762179102860103924#m  2/25/24  
+https://files.catbox.moe/b4o55p.mp4  2/25/24  
+
+>Breaking | International Court of Justice to Al Jazeera: We have received the Israeli response and forwarded it to South Africa, and its contents will remain confidential.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762175367110934876#m  2/25/24  
+
+>⚡️Talking about the two state solution is the scam that created the Palestinian Authority and enabled the expansion of the settlements, and it's the scam that countries who don't want to take a position on the conflict use.
+
+It's the position of Russia/China/Arabs/etc.
+
+On the ground, this position is not physically feasible without a total military defeat of Israel and the removal of the 800k squatters inside the West Bank. 
+
+So, in the end, it's either armed resistance until victory or martyrdom. This is what Zionists imposed on Palestinians. There's no other route.
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762183532506484915#m  2/25/24  
+
+>A unit from the "Iron Hawks" battalion of the Givati Brigade entered to celebrate in the home of one of the #Hamas leaders.. and it was their last selfie.. before the house was blown up with them inside.. and they were shipped to #Tel_Aviv in black bags.
+>Those who didn't die now suffer from permanent disabilities.
+https://nitter.poast.org/SilentlySirs/status/1762192517234147762  2/25/24  
+
+>🛑| A commander in Hezbollah's "Anti-Armor Unit" tells Al-Mayadeen: 
+
+One of our surprises in this battle is that anti-armor ammunition is no longer the only option.
+
+The battle has shifted & prompted us to use anti-fortifications and personenel types of ammunition.
+
+There are missiles capable of destroying buildings and others designed to penetrate a building and kill its occupants.
+
+The "Thermobaric" (TBG) missile can destroy buildings and eliminate anyone inside.
+
+In 2006, israeli soldiers abandoned a “Spike" missile weapon, and fled. Our fighters seized this weapon, and it was transferred to the Islamic Republic of Iran [for reverse engineering: aka the Almas ATGM]
+
+The "Spike" weapon is considered one of the latest anti-armor weapons in the world. This weapon has unique technical features, including a camera in the missile's head.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762204024760127940#m  2/25/24  
+
+>The Jordanian regime not only dropped its "aid" in the Mediterranean Sea but also in the southern Gaza Strip, not the north. 
+
+>This move aligns with Israel's intention to push the residents of the north towards the south. 
+
+>In accordance with agreements with its Israeli allies, the regime “mistakenly”dropped the “aid” in the waters of the south. 
+
+>The Jordanian regime not only protects Israel's borders, makes sure no weapons or fighters infiltrate to the West Bank and exploits the suffering of Gazans for cheap PR among its oppressed population, but it also ensured that the news of the aid being dropped in the south was spread in the north. 
+
+>This was done so that the starved Palestinians in the north would flee southwards, as Israel intended by starving them in the first place.
+https://nitter.poast.org/warfareanalysis/status/1762182729007866079  2/25/24  
+
+  >⚡️Speaker of the Lebanese Parliament Nabih Berri informed the American representative,
+
+"An attack on Beirut will lead to an attack on Tel Aviv."
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762255089991917740#m  2/25/24

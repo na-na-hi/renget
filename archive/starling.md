@@ -1,6 +1,4 @@
--> ![.](https://media.discordapp.net/attachments/1096639589852123136/1196234356079984711/IMG_1115.jpg?ex=65b6e30f&is=65a46e0f&hm=41b7b325ddbbf6e575ed39ecf0d996d5116dc20372dc7cec928f35a0cd359f6c&) <-
-***
--> enny ౨ৎ they he <-
--> videostar editor <-
--> [tiktok](https://www.tiktok.com/@ilovehomelander?_t=8j2SOayc6Op&_r=1) [instagram](https://www.instagram.com/iluvhomelander?igsh=MWsyenZ5c2JnYzkwbw%3D%3D&utm_source=qr) [discord](https://discord.gg/TEfrDmMqEz) <-
--> editing socials <-
+-> ![](https://media.discordapp.net/attachments/1096639589852123136/1211856749103943730/8FAED217-93CB-4B1A-9A99-B34931BB38E1.gif?ex=65efb88c&is=65dd438c&hm=dc9ec627d37552215cd62f42f0b6ca62193c37ab50fc62fcf3e0cae81ec14dcf&) <-
+-> ![](https://tomomi.neocities.org/divider/div32.gif) <-
+
+-> https://rentry.co/edward <-

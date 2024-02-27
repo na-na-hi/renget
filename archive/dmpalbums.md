@@ -1,5 +1,20 @@
 # /g/dmp albums
 
+### I Have Nothing and I Must Exist
+![img](https://i.imgur.com/4ZxyBrC.png)
+Theme: Music about living in a simulation. Released February 25, 2024
+YouTube:
+https://www.youtube.com/playlist?list=PLX-8BeqU7bbx3A3bFKt-qZroNVeAl8c7m 
+https://www.youtube.com/watch?v=tBcb6opeEHQ (full album)
+Bandcamp: 
+https://dmppresents.bandcamp.com/album/i-have-nothing-and-i-must-exist
+Download FLAC:
+https://www.mediafire.com/file/jhfbwbg6xume48o/
+Download MP3:
+https://www.mediafire.com/file/shjhla3tzgs360x/
+Download WAV:
+https://www.mediafire.com/file/7izd3j2lqbvju23/
+
 ### 32 Traditional Mongolian Basket Weaving Songs
 ![img](https://i.imgur.com/T7x4kiu.jpg)
 Theme: Boardcore: Songs based on the boards from everyones favorite cambodian scrapbooking BBS, released November 12, 2023

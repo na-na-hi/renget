@@ -428,6 +428,12 @@ https://files.catbox.moe/gcm2x4.safetensors tamano_kedama
 [![1girl no scores](https://files.catbox.moe/xybznn.png)](https://files.catbox.moe/ir4kn8.png)[![1girl scores](https://files.catbox.moe/vu4rii.png)](https://files.catbox.moe/8mv8o4.png)[![chun-li no scores](https://files.catbox.moe/aej5l4.png)](https://files.catbox.moe/aqq0r3.png)[![2b score_9 only](https://files.catbox.moe/2br1o2.png)](https://files.catbox.moe/15t2ie.png)[![korra scores](https://files.catbox.moe/b9zpsx.png)](https://files.catbox.moe/rxcgj5.png)
 https://files.catbox.moe/nn9cn2.safetensors phantom_ix_row
 
+[![1girl no scores](https://files.catbox.moe/fumd44.png)](https://files.catbox.moe/m6iho6.png)[![1girl scores](https://files.catbox.moe/71692t.png)](https://files.catbox.moe/9wfsbg.png)[![chun-li no scores](https://files.catbox.moe/6goreq.png)](https://files.catbox.moe/byldm2.png)[![2b score_9 only](https://files.catbox.moe/oder9w.png)](https://files.catbox.moe/xgkqxw.png)[![korra scores](https://files.catbox.moe/vzw748.png)](https://files.catbox.moe/2du83l.png)
+https://files.catbox.moe/vqpfo5.safetensors haru57928031 might need extra strength for NSFW gens, example: https://files.catbox.moe/bvfip7.png
+
+[![1girl no scores](https://files.catbox.moe/icw385.png)](https://files.catbox.moe/d96ku6.png)[![1girl scores](https://files.catbox.moe/5523hr.png)](https://files.catbox.moe/9ektsx.png)[![chun-li no scores](https://files.catbox.moe/ei66d4.png)](https://files.catbox.moe/c7mcja.png)[![2b score_9 only](https://files.catbox.moe/xxcviz.png)](https://files.catbox.moe/qda9om.png)[![korra scores](https://files.catbox.moe/6wp1nz.png)](https://files.catbox.moe/l3fv1i.png)
+https://files.catbox.moe/kkuo6l.safetensors tanemura_arina
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

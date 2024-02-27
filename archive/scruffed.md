@@ -1,1 +1,172 @@
-[**url claimed**](https://rentry.co/sparklypup), up for trade! / discord: echofluffy
+-> *This is a list of my political beliefs and morals! All are personal to me, subject to change, and more importantly, do not have to be shared by you. You have a right to agree or disagree, as a lot of this is discourse.* <-
+-> *I am a very progressive leftist and communist. Test results are below these* <-
+
+- The death penalty, in our current society, should not be practiced for its misuse. The government does not need that power. One mistakenly executed is already too many.
+- The justice system is extremely fucked as we benefit from, as a country, and fund reinvented slavery. Rehabilitation and reform are incredibly important, and mental health services should be more strongly funded than cops or the military
+- ACAB. You're complicit in a terrible structure 
+- Wear your mask.
+- Seize the means of production
+- Equity > equality
+- Demand equal pay and good wages! I am pro-union
+- Money sorta sucks
+- I am a prison abolitionist
+- If a law is broken by some prisoners, but is amended, they deserve a chance to be let free and appeal their sentence
+- Western racism only exists against POC. Prejudice is different. This applies to sexism 
+- I respect Karl Marx
+- Liberation for all peoples! 
+- Public school has plenty of problems. Our education system is declining in quality
+- Do not trust public figures blindly
+
+- Medication of all kinds should be widely accessible
+- Harm reduction is more powerful than a war on crime with drugs
+- Exotic pets and zoos are generally good if you're informed 
+- There should be classes on how to parent, but not licenses
+- Everybody should be well-informed about the effects of what they put into their body
+- Corporations and journalists have a responsibility to be 100% transparent and accurate
+- Money is not earned by hard work so much as exploitation
+- I am majority anti-censorship and anti-surveillance 
+- Authority isn't great
+- Fathers should be held accountable to take care of children too
+- Transhumanism is not a terrible idea
+- Wait on space colonization, space exploration should be prioritized
+- Abolish private property
+- All areas deserve walkability and more modes of transportation, but cars still have their pluses. This is the solution to traffic
+- Unregulated capitalism and capitalism in itself are incompatible with the human condition
+- Nobody should have to work to live
+- You should be a part of the group of the slur you're using
+- Fuck landlords. Shelter should not be a commodity
+- I don't believe in paying for medical care. Everybody should have the same standards and chances societally to survive
+
+- Taxation is generally not bad but people deserve more freedom on where their taxes go. Tax fairly and increase by each ascending class to stabilize our wealth gaps
+- Most under 16 should not be working
+- I don't quite like property taxes
+- Everyone can change and to define them off past actions is usually quite bad
+- Your consumption of media will never define you
+- Fiction is not reality; it does not affect reality on a 1:1 scale, but it may still impact some negatively
+- I am 100% pro-choice and pro-abortion. You are not pro-life, you are pro-birth, not caring about the one who gave birth or the kid.
+- Feminism is good
+- Competition in businesses is not a good thing
+- Most services should be government-oriented over company-oriented
+
+- Gender and sexuality are near infinite spectrums, and an infinite amount of genders exist
+- Gender and sexuality are fluid, though they may be stagnant for some folks
+- Good faith identities should be respected
+- Nobody needs to be religious to be moral
+- I am pro-porn but not in much favor of the industry
+- Sexuality is natural
+- Labels are meant to serve people, not exclude or hurt them
+- You do not need dysphoria to be transgender in the aspect that you do not need to feel distinctly unhappy, only disconnected and happier as something else
+- Being non-binary is a real experience
+- Education should not be firmly religious
+- Sex is a complete choice in relationships. A lot, none at all - before marriage, after marriage - no relationship should be held to the same standards as another, excluding the idea of not abusing your partner or breaking boundaries
+- Museums are important
+- Jury nullification should be legal
+- It does not matter who is Democrat or Republican, it matters who is right, as they are mostly one in the same anyways
+- Abstract art is real art and should not be downplayed. "I can make that-" but ya'didn't!
+- Minors know that they're LGBTQ+ early in their lives. They deserve not only protection but care if they choose to transition bodily
+- I am kink and sex positive
+- Sex work is real work in our society
+- The AOC should never be below 18, even for marriage
+- School uniforms are generally bad
+- Conversion therapy for any type of sexuality, including paraphilias, is not going to work
+- Transgender sports and bathroom discourses are silly. Let anyone choose the bathroom that they feel most comfortable in, let there be more unisex bathrooms, and all people in sports have biological disadvantages (ex. taller people typically excel in basketball) 
+- Solar panels should be more widely adopted. I believe in clean energy and reducing climate change, even at the cost of jobs or expenses
+
+- Most political issues are here to divide us and divert our attention from what's going on and what matters.
+- If your ideology boils down to 'I don't like it' or 'That's yucky', 'They're weird', 'They're odd', I'm not taking you seriously
+- Class is the most important distinction
+- Prison labor or privately hired prisoners and even private prisons are all terrible
+- Bodily autonomy is important, get any procedures or present the way you want, just be smart
+- Restricting reproduction for those disabled is a practice of eugenics, which is majorly bad. This applies for poor people too
+- Objective morals? What matters is if people are hurt
+- There are rarely profit incentives to do good
+- I am anti-work
+- Abuse is abuse. Spanking is not great, try to apply consequences instead
+- Sexual assault is sexual assault if there's anything but a yes 
+- Political unity is significant, reduce infighting and focus on what you agree on
+- I stand against imperialism and colonialism
+- Everyone should be exposed to what's different from them, hence why segregation is bad
+- Attendance being highly rewarded is usually ableist 
+- "From each according to his ability, to each according to his need"
+- Ethnostates should not exist
+- Being ignorant to the other side encourages cult and herd mentality. Know your enemy
+- No race is superior
+- Multiculturalism is good
+- International law should be respected, but understand that different areas require different laws
+- You being able to join the military before you can drink is fucked
+- Animal rights!
+- AI art, writing, and imaging are bad, though AI and automation are good overall
+- No-smoking spaces are good
+- There should be a stronger focus on fining those who litter, supplying trash cans and waste systems, and hiring cleanup teams
+
+- Protect biodiversity and biomes
+- Therians are valid
+- I am neutral to those transid
+- Freedom of speech, press, revolt, and religion - all within the first amendment - are highly valued to me
+- Taxing and decreasing the power of organized religious buildings is good
+- Religion is a net good on society. Encourage free thought
+- Religious buildings that mask, excuse, and hide those currently offending should be prosecuted
+- Separation of religion and state 
+- Money past donations should never be a part of a Church
+- Charity is good, welfare is better
+- I support reparations
+- Intolerance to intolerance = tolerance
+- More storm shelters, stronger house foundations, houses coming with a basement, etc
+- Indigenous people deserve more attention in all aspects of America
+- Brutalism isn't that bad
+- If you disrespect monuments and burials (such as in concentration camps), usually, I do not respect you
+- The meat industry is generally bad. Vegan replacements, knowing to the consumer, are good and should be looked into
+- It is okay to be patriotic and proud of where you're from, but do not excuse your country and people if they do wrong
+
+- The adoption system is faulty but adopting kids is a right everyone should have
+- LGBTQ+ (including polyamory and polygamy) and interracial marriages are valid
+- There should be more child-friendly spaces online
+- Nationalism is almost always bad
+- Abolish student loan debt!
+- Sanitization of the internet isn't a good thing
+- Piracy should be completely legal
+- Stop attacking the Internet Archive!! Libraries and media conservation are important!!!!!
+- Tag your media properly
+- Victimless crimes aren't crimes
+- Misusing tone indicators is usually ableist
+- Protest SHOULD be disruptive 
+- Copyright laws are generally not that bad
+- Private education is good
+- Immigration is a good thing. Deportation is not. I support open borders
+- Those who join our nation should not assimilate but should be respectful
+- Mutual aid is important. Pay attention to your local food deserts
+- Inheritance is good, try to build generational wealth
+
+- I believe in the right to bear arms. More people should be armed and taught safety
+- Mental health is the problem, not the guns
+- Even more so, security is a problem. Protect your loved ones. It is always the unprotected areas that cowards try to shoot up the most.
+- Self-defense is incredibly valid
+- Military intervention should be avoided if possible
+- World peace. Anti-war bros. Anti-violence
+- Globalism is good
+- Multipolarism is good 
+- Self-sufficiency and communalism are good. Learn survival skills
+- Gender and sex are social constructs
+- You shouldn't need tests to qualify for welfare in most cases
+- Vigilante justice is righteous
+- Consensual cannibalism should be fine, most things are okay if they have consent
+
+-> ![-](https://files.catbox.moe/lwlj56.webp) <-
+-> ![-](https://files.catbox.moe/98l5pc.webp) <-
+-> ![-](https://files.catbox.moe/fi9bwo.webp) <-
+-> ![-](https://files.catbox.moe/6wcfk8.webp) <-
+-> ![-](https://files.catbox.moe/tfkbz1.webp) <-
+-> ![-](https://files.catbox.moe/42z6rm.webp) <-
+-> ![-](https://files.catbox.moe/zfy6rf.webp) <-
+-> ![-](https://files.catbox.moe/n0l9uh.webp) <-
+-> ![-](]https://files.catbox.moe/r1h9pe.webp) <-
+-> ![-](https://files.catbox.moe/xawipg.webp) <-
+-> ![-](https://files.catbox.moe/a4h6du.webp) <-
+-> ![-](https://files.catbox.moe/y5oa3h.webp) <-
+-> ![-](https://files.catbox.moe/dk2n50.webp) <-
+-> ![-](https://files.catbox.moe/1fqfx0.webp) <-
+-> ![-](https://files.catbox.moe/dputqx.webp) <-
+-> ![-](https://files.catbox.moe/r0sltn.webp) <-
+-> ![-](https://files.catbox.moe/axwp1l.webp) <-
+-> ![-](https://files.catbox.moe/10myn4.webp) <-
+-> ![-](https://files.catbox.moe/ljovzd.webp) <-

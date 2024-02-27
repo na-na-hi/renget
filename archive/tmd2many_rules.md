@@ -182,7 +182,7 @@ A team:
 - **Resist**: [Resistances](https://rentry.co/tmd2many_rules#stab-resistance). This represents the Type match-ups between Attacker and Defender. Sometimes, it might be favorable. Other times, it might not be. 
 - **Opponent Def/SpDef**: Reduces the damage of the Move by the Opponent's associated Stat value. Sometimes this may not be provided and the GM will be expected to handle it.
 - **Atk/Sp.Atk Penalty**: This occurs whenever a Pokémon has their Offensive Stats lowered. It may also be self-inflicted either through a Move itself or choosing [multiple targets](https://rentry.co/tmd2many_rules#spread-room-hitter-moves). 
-- **CRIT**: If the Move is a Critical Hit (Rolled 20, 1d20), the attack immediately gains damage equal to the AP cost of the Move used. The move now ignores Defensive Stats/Boosts and Atk/Sp.Atk Penalties.
+- **CRIT**: If the Move is a Critical Hit (Rolled 20, 1d20), the attack immediately gains damage equal to the AP cost of the Move used. The move now ignores Defensive Stat Boosts and Atk/Sp.Atk Penalties.
 
 #### STAB & Resistance
 

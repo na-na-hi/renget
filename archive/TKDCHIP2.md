@@ -360,3 +360,11 @@ https://files.catbox.moe/ptqpb1.mp4
 >Heavy clashes following Israeli forces raid in Haras Al-Sa'ada area, Jenin.
 https://files.catbox.moe/ji3sfa.mp4  2/25/24
 https://files.catbox.moe/6qq1ob.mp4  2/25/24
+>BREAKING| Israel's army opens fire at thousands of starving people in the southwest of Gaza City as they were attempting to get food.
+https://files.catbox.moe/yy12ch.mp4  New  2/26/24
+>Footage shows moments of impact on an israeli army base in the occupied Golan Heights with 60 Katyusha rockets.
+https://files.catbox.moe/4yip9g.mp4  New  2/26/24
+>Journalist and politician Suzanne Evans stated during a TV show that "London is hijacked," referring to protests erupting in solidarity with Gaza and demanding a ceasefire. She proceeded to suggest that the mayor of London should prohibit these protests for being "anti-Semitic."
+https://files.catbox.moe/veknp5.mp4  New  2/26/24
+>Al-Aqsa Brigades published a video showing the military equipment they captured after clashing with a special IOF force, south of Al-Zaytoun neighborhood.
+https://files.catbox.moe/b4o55p.mp4  New  2/26/24

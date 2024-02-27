@@ -1,2 +1,6 @@
--> [![](https://graphic.neocities.org/Vogel_101.gif)](https://rentry.co/toycollection) <-
--> **Work In Process !** <-
+-> ![](https://i.ibb.co/N1b36Cm/6-F26-A7-D0-2-D99-466-A-B316-CEF60-A5681-BC.gif) <-
+-> **"PAW PATROL, PAW PATROL BE THERE ON THE DOUBLE!"** <-
+-> [**XAVIER**](https://rentry.co/cyadical) <-
+-> **ALLY TO THE PAW PATROL** <-
+-> **FEEL FREE TO MESSAGE ME ON ANY OF [MY SOCIALS](https://linktr.ee/Cyadical) TO TALK TO ME ABOUT PAW PATROL I LOVEEEE THE SERIES!** <-
+-> ![](https://i.ibb.co/Y3VnqGm/DD3-D3-E6-A-2840-4379-9134-C8-AB2-DA3-ED51.gif) <-

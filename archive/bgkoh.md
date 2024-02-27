@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 13 | **Experience to Next Level:** 5/130
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 9P | **Glorious Gold:** 0 Bars
+**Pokécoin:** 134P | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -79,7 +79,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Defense Scarf* | Increases Defense by 1.
 *Equipped Item: N/A | Nothing here boss!
-1. Meteorite shard | It can be sold for 125P, looks like some sort of candy?
+1. Empty |Nothing here boss!
 2. Spicy Seed | Causes Burn on consumption.
 3. Magma Macaroni  | It's not actually made of magma, but it sure can feel like it! (Increases Attack by 2 stages.)
 4. Empty |Nothing here boss!
@@ -95,7 +95,7 @@ Item Name | Description
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.
 Type | Item Name | Description
 ------ | ------ | :----: 
-Key Item | Curious scroll | A scroll with the word "Decay" printed on it, whatever magic is there has faded, but it seems important. (Currently held by Lilac)
+Key Item | Curious scroll | A scroll with the word "Decay" printed on it, whatever magic is there has faded, but it seems important.
 RP item | Paper and Charcoal | Nothing important, Ishmael is putting letters on them to help Lilac to read english
 
 **OLD MOVES (∞ slots)**

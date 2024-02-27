@@ -34,14 +34,14 @@ pinkbuta - https://youtu.be/6x5i4PhCZf4 (timestamps in comments)
 Nekomata Mel - https://www.youtube.com/watch?v=erZHk8EBGL0
 Ookami Mio - https://www.youtube.com/watch?v=ALe94EEqKys & https://files.catbox.moe/56frl9.mp4
 Ouro Kronii -https://streamable.com/7i00rf
-Stella Luna - https://www.tiktok.com/@stellalunavt/video/7107761600722914603?lang=en
+Stella Luna - https://youtube.com/shorts/petfNngOo1c?si=YWGU_TeUQamZVK09
 Epel Evelyn - https://twitter.com/EpelEvelyn/status/1541008545990070273?s=20&t=CDAs-lPF9WPskGL9cJklNQ
 Ames (Nekomata Mel/Iracebeth Crims) compilation - https://mega.nz/folder/okkjwASL#CRuNSnL-UihXMYBL9Q87eg
 Nyana_chan - https://streamable.com/k41yug
 Millie Mizuame - https://twitter.com/VTooters/status/1503071663444963338?s=20&t=eOnExOzW9upNDeyo8UbqbA, https://twitter.com/VTooters/status/1504589221239136258?s=20&t=eOnExOzW9upNDeyo8UbqbA
 Blossomcake - https://twitter.com/VTooters/status/1520147233383014401?s=20
 iori shinonara - https://www.youtube.com/shorts/-hacaOVDdSE
-Mumuguru - https://mega.nz/file/HyoBmIwC#Wjg8m9Iyhx8X-KdNdTM7eMcZmFc5AyRy5zy0QctWKMM (full vod: https://mega.nz/file/6bZwyJzZ#GZrza9dsiWZFxgWGhAfTiHnWuwSOBOrFpffa0v-mmI0)
+Mumuguru - https://mega.nz/file/HyoBmIwC#Wjg8m9Iyhx8X-KdNdTM7eMcZmFc5AyRy5zy0QctWKMM (full vod: https://mega.nz/file/cn0nDAAR#TTitbEtgNTB9zrOKHiKd9G340vJ-Lgvs5qwMSddI9oY)
 LumiiMari - https://www.youtube.com/watch?v=rI31YzGLtZE; https://www.youtube.com/watch?v=PzIwUUFaptQ; https://www.youtube.com/watch?v=qXW4y8EZATc; https://www.youtube.com/watch?v=VeLFLfWYRVg; https://www.youtube.com/watch?v=UYL239Z4v5M; https://www.youtube.com/watch?v=PEr9MSw2v60; https://www.youtube.com/watch?v=hKfx22XvMTE; https://www.youtube.com/watch?v=8DAWeVc13pc; https://www.youtube.com/watch?v=FOEhgxanf2E; https://youtu.be/Tk8amw-FoP4
 Gemuyo - https://twitter.com/Vtuberfartclips/status/1590589748535775232?s=20&t=988uef8HzuvSauvnVRRblA
 Juna Unagi - https://files.catbox.moe/12mftx.mp4

@@ -43,12 +43,12 @@ It is possible to add non-human features to your disguises so long as they don't
 
 When imitating a specific person, their mannerisms, accent, habits, and language of origin become natural to you.
 
->Whisper of Temptation (7):
-While in effect, individuals sustain permanent losses to their capacity for delayed gratification and impulse control, becoming more severe the longer they hear your voice. Recordings are sufficient for this effect. It is possible to lower the inhibitions of specific impulses. However, the more specific your restrictions, the longer it takes for your authority to take hold, and the more likely it is for your <Whispers> to not have any effect at all. (25 divinity/level per hour). It is also possible to use this authority with nonverbal sounds, such as breaths, footsteps, or clapping.
+>Whisper of Temptation (9):
+While in effect, individuals sustain permanent losses to their capacity for delayed gratification and impulse control, becoming more severe the longer they hear your voice. Recordings are sufficient for this effect. It is possible to lower the inhibitions of specific impulses. However, the more specific your restrictions, the longer it takes for your authority to take hold, and the more likely it is for your <Whispers> to not have any effect at all. (25 divinity/level per hour). It is also possible to use this authority with nonverbal sounds, such as breaths, footsteps, or clapping. When this skill is in effect, you may have it such that the target or targets experience sounds and words of your choosing contrary to the actual utterances or noises into which this authority is imbued.
 
-It is possible to implant not only specific desires, but specific directives through your voice. However, as before, the more specific the command and the less in line with the desires of the target, the more exposure is necessary to bring about the desired effect
+It is possible to implant not only specific desires, but specific directives through your voice. However, as before, the more specific the command and the less in line with the desires of the target, the more exposure is necessary to bring about the desired effect.
 
-You are capable of using your <Whisper of Temptation> to illicit not only desires, but beliefs which the target desires to be true: (for example, you can convince a person that they are beautiful). This process takes much longer than any other use of this authority 
+You are capable of using your <Whisper of Temptation> to illicit not only desires, but beliefs which the target desires to be true: (for example, you can convince a person that they are beautiful). This process takes much longer than any other use of this authority.
 
 It is also possible to produce a much more immediate effect with this authority by having the intended outcome align with the words you say. 
 
@@ -101,6 +101,11 @@ Wraps divinity around your body like armor, protecting you from physical harm an
 >Around Every Corner (1):
 Allows you to observe any individual who has succumb to your divinity within ten miles, multiplied by the level of this authority
 
+
+>Pride Before the Feeble (1)
+
+When activated, increases the strength and effectiveness of your authorities against a weaker incarnation for the duration of the battle. However, if this authority is invoked against an incarnation of greater or equal strength, a penalty is imposed upon the user instead.
+
 ##Miracles (1/5):
 
 >Divine Servant (1):
@@ -143,3 +148,7 @@ Synchronization Rate: 3.3%
 Synchronization Rate: 82.5%
 >Tisiphone, Avenger of Murder: 
 Synchronization Rate: 12.3%
+>Wretched Blight, Catoblepas
+Synchronization Rate: 53.9%
+>Agamemnon, the Felled King
+Synchronization Rate: 27.4%

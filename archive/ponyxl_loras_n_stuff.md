@@ -19,7 +19,7 @@ https://civitai.com/models/312010/4th-tail-lora-extract
 ##List of Ponyxl LoRAs from /h/
 NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
 
-I made a powershell script to try and pull down the LoRAs on this rentry, it will store the last downloaded url for a lora in a history file in case a new or improved one replaces it so you can reuse the script without downloading everything again. You call the script and pass in a destination folder to store the LoRAs. Obviously run at your own risk, I can't prove to you I'm not an asshole or terrible programmer. You'll probably get throttled if you download everything in one go so run it overnight or something. Some of these LoRAs are huge, the whole folder with them all downloaded is ~15 gb. 
+I made a powershell script to try and pull down the LoRAs on this rentry, it will store the last downloaded url for a lora in a history file in case a new or improved one replaces it so you can reuse the script without downloading everything again. You call the script and pass in a destination folder to store the LoRAs. Obviously run at your own risk, I can't prove to you I'm not an asshole or terrible programmer. You'll probably get throttled if you download everything in one go so run it overnight or something. Some of these LoRAs are huge, the whole folder with them all downloaded is ~24 gb. 
 
 UPDATE 1/21/2024 I added a basic management interface so it doesn't just pull down everything. You can pick and choose which loras you want.
 UPDATE 1/22/2024 Added some logic to keep old versions of LoRAs around in case one is updated but you still want to keep the old version around as well.
@@ -194,6 +194,8 @@ https://files.catbox.moe/z7vz4y.safetensors abmayo requires activation trigger o
 https://files.catbox.moe/lerky2.safetensors soraname
 https://files.catbox.moe/gcm2x4.safetensors tamano_kedama
 https://files.catbox.moe/nn9cn2.safetensors phantom_ix_row
+https://files.catbox.moe/vqpfo5.safetensors haru57928031 might need extra strength for NSFW gens, example: https://files.catbox.moe/bvfip7.png
+https://files.catbox.moe/kkuo6l.safetensors tanemura_arina
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

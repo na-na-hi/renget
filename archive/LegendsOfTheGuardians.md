@@ -1,2 +1,19 @@
--> [![](https://graphic.neocities.org/Vogel_101.gif)](https://rentry.co/toycollection) <-
--> **Work In Process !** <-
+-> ![](https://i.ibb.co/thF8SbL/IMG-3826.webp) <-
+-> *I am a Guardian of Ga’Hoole.* <-
+-> *From this night on, I dedicate my life to the protection of owlkind.* <-
+-> *I shall not swerve in my duty.* <-
+-> *I shall support my brother and sister Guardians* <-
+-> *in times of battle as well as in times of peace.* <-
+-> *I am the eyes in the night,* <-
+-> *the silence within the wind.* <-
+-> *I am the talons through the fire,* <-
+-> *the shield that guards the innocent.* <-
+-> *I shall seek to wear no crown,* <-
+-> *nor win any glory.* <-
+-> *And all these things I do swear upon my honor* <-
+-> *as a Guardian of Ga’Hoole until my days on this Earth cease to be.* <-
+-> *This be my vow.* <-
+-> *This be my life.* <-
+-> *By Glaux I do swear.* <-
+-> ![](https://i.ibb.co/Zc0B29y/IMG-3825.gif) <-
+-> %#CB966C%[!~*click here to visit the Ga-Hoole tree*~!](https://rentry.co/ToyCollection)%% <-

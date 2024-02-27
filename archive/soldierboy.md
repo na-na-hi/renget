@@ -1,5 +1,3 @@
-![.](https://xyz.crd.co/assets/images/gallery22/18aa03a9.gif?v=4ca63763)
--> `enny` or ryan — [hoard](https://rentry.org/jellyfishfield) <-
-->  she ◞ him yt basque <-
--> adhdtistic girlthing bisxl <-
--> soldierboy my desu <3 <-
+-> ![](https://media.discordapp.net/attachments/1096639589852123136/1211856273029464105/53BF7CFE-0FF2-4C95-82C3-09742E64FAEA.gif?ex=65efb81a&is=65dd431a&hm=2e7825601ab1f20b7689124bfdabcbbc4020654ae2788fdc8bfb6cd58095bbb5&) <-
+
+-> https://rentry.co/edward <-

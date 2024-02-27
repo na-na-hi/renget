@@ -27,7 +27,7 @@
 **%#dcc6c2%Species:%%** %#ff82b6%E%%%#d77bba%s%%%#76428a%pu%%%#4d2f63%rr%% | **%#dcc6c2%Affiliation:%%** Team Stardust | **%#dcc6c2%Favorite Color:%%** %#fff667%Yellow%%
 **%#dcc6c2%Level:%%** 13 | **%#dcc6c2%Experience to Next Level:%%** 35/130 | **%#dcc6c2%Alignment:%%** True Neutral
 **%#dcc6c2%Worn Item:%%** *N/A* | **%#dcc6c2%Clothing:%%** *Leaf Bag* | **%#dcc6c2%Age:%%** Unknown
-**%#dcc6c2%Pokécoin:%%** 1724₽ | **%#dcc6c2%Glorious Gold:%%** 0 Bars | **%#dcc6c2%Gender:%%** Unknown
+**%#dcc6c2%Pokécoin:%%** 2924₽ | **%#dcc6c2%Glorious Gold:%%** 0 Bars | **%#dcc6c2%Gender:%%** Unknown
 
 ***
 
@@ -115,8 +115,8 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
-1. Iron Cap | Halves AP and grounds the user.
-2. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
+1. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
+2. Empty | None
 3. Empty | None
 4. Empty | None
 

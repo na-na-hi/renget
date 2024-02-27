@@ -10,7 +10,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 **Species:** Goomy | **Affiliation:** Team Gildscales
 **Level:** 14 | **Experience to Next Level:** 140/46
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 2,900₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 550₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -32,7 +32,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Protect | 0BP | 4AP | - | Normal | Status | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
+Dragon Pulse | 9BP | 7AP | ≥2 | Dragon | Special | No secondary effect.
 Dragon Breath | 6BP | 5AP | ≥2 | Dragon | Special | 16-20; The Opponent is afflicted with Paralysis.
 Water Gun | 4BP | 4AP | ≥2 | Water | Special | No secondary effect.
 Acid Armor | 0BP | 4AP | - | 	Poison | Status | The User's Defense is increased by 2.
@@ -42,7 +42,7 @@ Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by th
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Protect | Form a barrier against terrain or other stuff falling down.
 Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
@@ -88,7 +88,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. N/A | N/A
+1. Used TM126  | Content the TM Dragon Pulse.
 2. Royal Gummi  |  Gives +10 IQ points to Dragon-Types. Gives +5 to other types. Tastes like pride and pear.
 
 **RP/QUEST STORAGE (∞ slots)**
@@ -107,3 +107,4 @@ Name of Move | Description
 ------ | :----: 
 Tackle | No secondary effect.
 Absorb | Draining. Recoil damage is calculated for HP healed.
+Protect | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.

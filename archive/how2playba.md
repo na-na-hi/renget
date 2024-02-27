@@ -1,10 +1,4 @@
 # /bag/ Newfag guide
-**EVENT GUIDE:
-![shuzko event](https://i.imgur.com/ZzGbiWa.jpeg)
-[(source)](https://bluearchive.wiki/wiki/Business_Trip!_The_Momoyodou_Beach_House_Franchise_Plan!/Rerun#Conquest)
-or watch https://www.youtube.com/watch?v=F3iRv5P7KxU**
-You can borrow students for this, so borrow someone. Iroha, Tsurugi, bNeru. Anyone. 
-
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 
 Scroll to the bottom for my last edit date. This guide is not outdated.

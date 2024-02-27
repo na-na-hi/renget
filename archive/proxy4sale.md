@@ -7,16 +7,8 @@
 	- email me with what crypto + network you are going to pay with and i will give you the address to send it to
 	- you will be given a user token with access to GPT-4 and Claude once the transaction is visible on chain
 
-!!! danger oy vey, the day of judgment has come
-	- i cant maintain the 3k avg daily gpt usage caused by the one time payment unlimited quota anymore
-	- since there isnt anything else i can do, i now require a $25 monthly payment for api gpt
-	- special tokens newer than a month will have vip access until they hit 30 days old, vip tokens get two months 
-	- older tokens are downgraded to aws claude and other models
-	- final stats: 140 days | 3925086 proompts | 30.950b tokens | US$359298.12 cost
-
 !!! info **changelog** 
 	- **128k** openai context
-	- azure gpt-4 is unfiltered on vip
     - 3925086 proompts | 30.950b tokens | US$359298.12 cost 
     - tripcode for my 4chan posts: !!QgDb+BoQa9L
 

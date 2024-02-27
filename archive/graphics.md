@@ -7,9 +7,9 @@
 -> ![GET THAT BITCH, LEATHERFACE! GET THAT BITCH!](https://files.catbox.moe/8gcmzq.gif) <-
 -> Resource [Carrd](https://massacre.crd.co/), if you prefer that <-
 -> ︵︵ Pixels ☆ Blinkies ★ Dividers ︵︵<-
--> ♥︎ Owned by [Guts](https://rentry.co/diavolo) & [Seth](https://rentry.co/trishuna) ♡ <-
+-> ♥︎ Owned by [Guts](/diavolo) & [Seth](/trishuna) & [Ed](/giorno) ♡ <-
 ***
--> %crimson% **[Guts's Rentry Hoard](https://rentry.co/basement)**%% ⌁ %crimson% **[Seth's Rentry Hoard](https://rentry.co/sethshoard)**%% <-
+-> %crimson% **[Our Rentry Hoard](/basement)**%% <-
 ***
 -> ![](https://files.catbox.moe/7rlmxp.png) ->
 ***

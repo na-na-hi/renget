@@ -444,31 +444,15 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writing:
->A Hero Student's Uncertain Dating Prospects  (Beach Day, Slip-n-Slideasaurus, Cube)
-https://rentry.org/DatingProspects
+New Heroes:
+>Kazuya Ono
+>>92012443
+Alpha Ueno HN: Sylph
+>>92014322
 
-New Student:
->Misato Fukushima
->>92006447
-
-New Hero Teacher (Shiketsu):
->Takahashi Mako, HN Ersatz
->>92011019
-
-New Hero:
->Shōgeki Heshi HN: Crash
->>92012115
->Tóu Zhǎng Koie/Phys P
->>92017795
-
-New Villains:
->Gustave Gavial VN Gnash
->>92016443
->Cosmo Black VN X.T.
->>92016885
->Kate Everly
->>92016986
+New Supporter:
+>Yuko Ozaku
+>>92025025
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -731,6 +715,10 @@ Page 4
 >>92012115
 >Tóu Zhǎng Koie/Phys P
 >>92017795
+>Kazuya Ono
+>>92012443
+Alpha Ueno HN: Sylph
+>>92014322
 
 >SUPPORTERS:
 >Lady Astoria Belmont
@@ -763,6 +751,8 @@ https://rentry.org/iptpr
 >>91149772
 >Kuji Futoi (Student)
 >>91363451
+>Yuko Ozaku (Student)
+>>92025025
 ```
 ***
 Page 5
