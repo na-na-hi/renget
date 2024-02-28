@@ -2294,3 +2294,173 @@ https://nitter.poast.org/warfareanalysis/status/1762182729007866079  2/25/24
 
 "An attack on Beirut will lead to an attack on Tel Aviv."
 https://nitter.esmailelbob.xyz/ME_Observer_/status/1762255089991917740#m  2/25/24
+
+>🌍 BIG SUMMARY of all resistance operations today, February 26 (2024), against (US)-israeli forces:
+
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Detonated an anti-personnel mine on an IOF foot force consisting of 15 soldiers inside a house, causing casualties in Abasan Al-Kabira, east of Khan Yunis, southern Gaza Strip.
+
+🔻Destroyed a Merkava tank with a Yassin 105 rocket, in the Abasan Al-Kabira area, east of Khan Yunis, southern Gaza Strip.
+
+🔻Targeted an IOF force of 4 soldiers with an anti-personnel rocket, then engaged and finished them off at point-blank range in Abasan Al-Kabira, east of Khan Yunis, southern Gaza Strip.
+
+🔻Successfully ambushed an IOF force in the vicinity of the University of Palestine in central Gaza, resulting in casualties.
+
+🔻Shelled the gathering of invading IOF forces south of Al-Zaytoun neighborhood in Gaza City with heavy-caliber mortar shells.
+
+🔻In a joint-operation with Omar Al-Qassam's forces, they shelled a gathering of IOF forces south of Al-Zaytoun neighborhood in Gaza City with mortar shells.
+
+
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Sniped an IOF soldier in the eastern Khan Yunis axis.
+
+🔻Shelled the "Kisufim" military site with a rocket barrage.
+
+🔻Shelled a gathering of IOF soldiers and vehicles, south of Al-Zaytoun neighborhood in Gaza City, with 60mm mortar shells.
+
+🔻Shot down an IOF quadcopter drone while during its intelligence operation, in the middle of Khan Yunis.
+
+🔻Targeted 2 military vehicles with RBGs, near the Doulah intersection in Al-Zaytoun neighborhood, south of Gaza City.
+
+
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Sniped 2 IOF soldiers east of Khan Yunis, southern Gaza Strip.
+
+🔻Shelled a gathering of israeli soldiers and vehicles south of Al-Zaytoun neighborhood in Gaza City with 60mm mortar shells.
+
+
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Targeted gatherings of IOF forces in the southeast of Gaza with short-range rockets.
+
+🔻Shelled Re'im with a rocket barrage.
+
+🔻Targeted an IOF military bulldozer in the axis south of Al-Zaytoun with an anti-armor "Sayyar" rocket.
+
+
+
+— 🟡 Hezbollah:
+
+🔻Targeted an Israeli force in the Al-Baghdadi site and its surroundings with rockets.
+
+🔻Shot down a large Israeli Hermes-450 drone with a surface-to-air missile over the Tuffah region.
+
+🔻Targeted a gathering of Israeli soldiers in the surroundings of Haddab Yarin site with rockets.
+
+🔻Targeted the Shtula colony with rockets.
+
+🔻Targeted the Branit Barracks with rockets.
+
+🔻Targeted the command headquarters of the Golan Brigade in occupied Golan with 60 Katyusha rockets.
+
+🔻Targeted the radar site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Ruwaysat Al-Alam site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted a gathering of Israeli soldiers in the vicinity of the Marj site with rockets, causing direct hits.
+
+
+This list did not include rockets fired from Gaza towards settlements.
+https://t.me/FotrosResistance/5644  2/27/24  
+
+>WATCH: Al-Quds Brigades published a video showing the successful sniping of an IOF soldier, in the axis east of Khan Yunis.
+https://twitter.com/AryJeay/status/1762418049984962631  2/27/24  
+https://files.catbox.moe/v6y4oh.mp4  2/27/24  
+
+  >Hezbollah confirmed early this morning:
+
+In response to the aggression on Baalbek, Hezbollah targeted the Meron Air Surveillance Base on Mount Jarmaq with a large barrage of rockets.
+
+Footage shows couple of interceptions as well as impacts.
+https://t.me/FotrosResistance/5647  2/27/24  
+
+>Urgent | Al-Quds Brigades: We destroyed a Zionist military vehicle with a piercing device on Al-Sikka Street, east of the Al-Zaytoun neighborhood in #Gaza City.
+https://t.me/me_observer_channel/157419  2/27/24  
+
+>“We’re dying of hunger” – Residents of northern Gaza waiting aid that doesn’t arrive
+https://t.me/QudsNen/97269  2/27/24  
+
+>Urgent | Artillery shelling and smoke bombs in the Al-Mughraqa area, north of the Nuseirat camp in the central #Gaza Strip.
+https://t.me/me_observer_channel/157420  2/27/24  
+
+>Lebanon: Al-Manar correspondent:
+
+Zionist attacks on the border areas in southern #Lebanon during the afternoon hours:
+
+- Artillery shelling targeted Wadi Sasa'a on the outskirts of #Rmeish
+- The “monk” embarrassment on the outskirts of #Aita_Al-Shaab
+- The eastern outskirts of the towns of #Hula and #Markaba
+- And the western outskirts of the town of Mays Al-Jabal towards Wadi Al-Saluki
+- Two shells fell in the plain near the road linking #Burj_Al-Muluk and #Khiyam
+https://t.me/me_observer_channel/157431  2/27/24  
+
+>Al-Quds Brigades: We destroyed a Zionist military vehicle with a piercing device on Al-Sikka Street, east of the Al-Zaytoun neighborhood in #Gaza City. Al-Aqsa Flood
+https://t.me/me_observer_channel/157430  2/27/24  
+
+>A MASSIVE rocket barrage triggering several rocket sirens in the western upper Galilee
+https://t.me/FotrosResistance/5650  2/27/24  
+
+>An occupation army helicopter carrying wounded soldiers landed in a hospital in occupied #Jerusalem
+https://t.me/me_observer_channel/157441  2/27/24  
+https://files.catbox.moe/54s8di.mp4  2/27/24  
+
+> JUST IN: Hezbollah confirms:
+
+For the second time today, Hezbollah attacked the Meron Air base for control, command, and aerial surveillance with a batch of anti-tank missiles (ATGMs).
+
+This resulted in damaging part of its equipment, technical, and espionage systems, leading to its complete dysfunction.
+https://t.me/FotrosResistance/5655  2/27/24  
+
+>BREAKING: Hezbollah confirms latest rocket barrage:
+
+Hezbollah attacked the command headquarters of the 146th division in Ga’aton (~15km from the border), with dozens of Katyusha rockets, achieving direct hits.
+https://t.me/FotrosResistance/5656  2/27/24  
+
+>Hezbollah published a video showing the attack that targeted the command headquarters of the 146th division in Ga’aton, with dozens of Katyusha rockets. 
+https://twitter.com/AryJeay/status/1762538751287234725  2/27/24  
+https://files.catbox.moe/v39q4j.mp4  2/27/24  
+
+>United States of America: State Department Spokesman Matthew Miller: We do not want any escalation of the conflict in southern #Lebanon and we hope to resolve the issue through diplomatic means.
+https://t.me/me_observer_channel/157636  2/27/24  
+
+>Iran: Amir Abdullahian: On the other hand, they are part of the process of expanding the scope of the war through their joint aggression with Britain against #Yemen.
+https://t.me/me_observer_channel/157644  2/27/24  
+
+>Mujahideen Brigades published a video showing the operation that targeted an IOF military bulldozer with a Saeer anti-tank missile, in Al-Zaytoun neighborhood.
+https://twitter.com/AryJeay/status/1762566929846333684  2/27/24  
+https://files.catbox.moe/ubiziq.mp4  2/27/24  
+
+>Hezbollah published a video showing the operation that targeted the headquarters of the 210th Division at the Nafah IOF base, in the occupied Syrian Golan Heights.
+https://twitter.com/AryJeay/status/1762581242082431050  2/27/24  
+https://files.catbox.moe/lf729x.mp4  2/27/24  
+
+>Only one week after he took this photo, photojournalist Abdallah El Haj, who works for UNRWA, was traced by Israel's military and targeted.
+
+Abdallah's nephew was killed in the strike and both his legs were amputated and he is now in critical condition.
+https://t.me/QudsNen/97318  2/27/24  
+
+>US National Security Council spokesperson John Kirby dodged answering a question posed by a journalist about Biden's comments on the possibility of a ceasefire in Gaza.
+https://t.me/QudsNen/97314  2/27/24  
+
+>Lebanon: Al-Manar correspondent:
+
+A series of air strikes carried out by hostile warplanes targeted the towns of #Al-Taybeh - #Khirbet_Salam - #Al-Adisa - #Siddiqin - #Beit_Leif
+https://t.me/me_observer_channel/157797  2/27/24  
+
+>UPDATE:
+
+A missile/rocket exploded near the starboard side of the ship. Ship is forced to go to the closest port.
+https://t.me/FotrosResistance/5666  2/27/24  
+
+Answering a question about concerns that Israeli soldiers are using sexual violence against the people in Gaza, especially in light of the increasing photos of soldiers with Palestinian women’s underwear, Spokesperson for the US Department of State says "Israel's military conducts its own investigations."    
+https://t.me/QudsNen/97321    2/27/24  
+
+>Reuters: Senators demand that Biden obtain authorization from Congress for continued military action in #Yemen
+https://t.me/me_observer_channel/157814  2/27/24

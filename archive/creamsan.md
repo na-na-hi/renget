@@ -61,7 +61,8 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ![Escape the Dungeon](https://creamsan.neocities.org/files/cards/escapethedungeon.png) | Escape the Dungeon | Escape the dungeon with a cute mage companion. | [CHUB](https://chub.ai/characters/creamsan/escape-the-dungeon-cb70d8d5) [Neocities](https://creamsan.neocities.org/#escape_the_dungeon)
 ![Team Neko](https://creamsan.neocities.org/files/cards/teamneko.png) | Team Neko | Your team got separated from the main group, now you have to rejoin them, but first you have to fend off enemy tanks. (GUP Non-canon chars)  | [CHUB](https://chub.ai/characters/creamsan/team-neko-e4f1b2f8) [Neocities](https://creamsan.neocities.org/#team_neko)
 ![Battlestripsv2](https://creamsan.neocities.org/files/cards/battlestripsv2.png) | Battlestrips v2 | Strip Battleships game. | [CHUB](https://chub.ai/characters/creamsan/battlestrips-v2-3466337a) [Neocities](https://creamsan.neocities.org/#battlestrips_v2)
-![Tessa](https://creamsan.neocities.org/files/cards/tessa.png) | Tessa | Create things together with this mysterious girl. You start with 4 elements: fire, earth, water, wind. (Javascript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#tessa)
+![Tessa](https://creamsan.neocities.org/files/cards/tessa.png) | Tessa | Create things together with this mysterious girl. You start with 4 elements: fire, earth, water, wind. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#tessa)
+![Sini](https://creamsan.neocities.org/files/cards/sini.png) | Sini | Finnish girl to interact with. She'll slowly form a persona about you as you chat. A blank persona is recommended. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#sini)
 
 ***
 ##PROMPTS AND SETUP
@@ -77,16 +78,17 @@ See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 Card | Link | Version | Update Notes
 --- | --- | --- | ---
-Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-9-24 | 
+Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-28-24 | ***Updated***
 Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv2.json) | Jan-20-24 | 
 Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Feb-9-24 | 
 Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Feb-3-24 |
 Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Feb-9-24 | 
 Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Feb-9-24 | 
 Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Feb-9-24 | 
-Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Feb-11-24 | ***Updated***
+Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Feb-11-24 | 
 Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Feb-9-24 | 
-Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-11-24 | ***Updated***
+Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-28-24 | ***Updated***
+Sini | [QR preset](https://creamsan.neocities.org/files/presets/sini.json) | Feb-28-24 | ***New***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
@@ -125,7 +127,7 @@ I would recommend using QR Send all the time though.
 This is for my cards that use JS.
 Follow carefully or you'll get mustard gas (jk, worst case, the card will not work)
 Huge thanks to stscript anon for sharing how to enable JS with STScript: https://rentry.org/stscript
-Be sure to check the link as it explains more about why we do this setup.
+Be sure to check the link as it explains more about why we do this setup. I also copied some of the codes there.
 ***
 
 ###Browser extension:
@@ -180,12 +182,12 @@ My cards have checkers to make sure your user script is working.
 ![1](https://files.catbox.moe/jam3zk.png)
 
 **Some things to note:**
-- For cards with CSS styling within the chat, you should turn this user script off, or you'll miss out on the fancy stuff:
+- For cards with CSS styling within the chat, you should turn this user script off, or you'll miss out on the fancy stuff.
 Here's an example of a card with css:
 ![1](https://files.catbox.moe/a78kw3.jpg)
-Pic below shows the <style> tag sanitized with the script on:
+Pic below shows the <style> tag sanitized with the script on.
 ![1](https://files.catbox.moe/e0fet5.jpg)
-To turn it off: Just press the toggle switch and reload.
+To turn it off, just press the toggle switch and reload.
 ![1](https://files.catbox.moe/bhj8a3.jpg)
 
 Please let me know how to fix this.

@@ -1,25 +1,31 @@
--> 🩰 <-
--> [![Art by 無地飴](https://files.catbox.moe/vu3khb.png)](https://twitter.com/GasuGuma) <-
+-> 🫧  <-
+->![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=b5c95905)%#782a4c%[`⠀⠀`**`♡`**`Archive⠀⠀`](/behindthesun)[`⠀⠀⠀.co`**`♡`**`basement⠀⠀`]()[`⠀Unwanted`**`♡`**`URLs⠀`](/-garbage)%% ![](https://massacre.crd.co/assets/images/gallery12/fbc02add.gif?v=b5c95905)<-
+-> ![](https://i.imgur.com/HrjvSRf.png)**%#facade%Run from me,%%**⠀*!~pink;darlin'~!* ... you'd better⠀*run for*⠀**%#facade%your%%**⠀*life*<-
+
+-> [![Art by NY⁰⁸¹⁸](https://files.catbox.moe/r14mb8.png)](https://twitter.com/NinepeachYu0818/status/1745680244638716221/) <-
+
 
 -> %hotpink% **310 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 048 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **029 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
 
 -> I am willing to Trade / Give Away! ![](https://massacre.crd.co/assets/images/gallery12/2c9f4c04.gif?v=d2152c17)
 ![](https://massacre.crd.co/assets/images/gallery12/e06aa989.gif?v=d2152c17) Nothing is for sale, that is scummy. <-
+***
+->**[Vi](/sethshoard)%hotpink%sit My%% [Fr](/toycollection)%hotpink%iend's%% [Ho](/robotparts)%hotpink%ards!%%** <-
 
-->**[Vi](/sethshoard)sit My [Fr](/toycollection)iend's [Ho](/robotparts)ards!** <-
-
-![](https://files.catbox.moe/da87nh.png)
-[serialmurder](https://discord.com/users/385475837715021826/) on *D*iscord
+![](https://files.catbox.moe/zyug78.png)
+%#facade%*By Contacting me, you agree I have the 
+right to decline **any** trade request.*%%
+[serialmurder](https://discord.com/users/385475837715021826/) on %hotpink%**D**%%iscord
+[konodiavoloda](https://twitter.com/konodiavoloda) on %hotpink%**T**%%witter
+[diavoloification](https://www.instagram.com/diavoloification/) on %hotpink%**I**%%nstagram
 
 My Resource/Graphic [Carrd](https://massacre.crd.co/) *and* [Rntry](/graphics)
-
 Sign My [Guestbook](https://diavolo.123guestbook.com/)
-^ Do **NOT** use my guestbook to ask for URLs
+^ Do %hotpink%**NOT**%% use my guestbook to ask for URLs
 
 -> ![](https://files.catbox.moe/2gjutl.png)
-Plain = Available for Trade or Give Away. 
-[**Bolded**]() = Decorated, Not for Trade 
-**Please use the labels to see which URLs belong to who.** ->
+Plain = Available for Trade or Give Away
+[**Bolded**]() = Decorated, Not for Trade  ->
 
 ***
 -> ![](https://massacre.crd.co/assets/images/gallery32/57afba6a.gif?v=d2152c17) ![](https://massacre.crd.co/assets/images/gallery12/6a42a6fe.gif?v=d2152c17) ![](https://massacre.crd.co/assets/images/gallery32/f035e961.gif?v=d2152c17) <-

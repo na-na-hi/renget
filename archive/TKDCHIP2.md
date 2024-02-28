@@ -62,6 +62,9 @@ https://files.catbox.moe/67ruzx.mp4  New  2/25/24
 >WATCH: Al-Qassam (Hamas) published a video showing its forces clash with IOF military vehicles & IOF soldiers in the areas of Khan Yunis
 https://files.catbox.moe/ngi2mu.mp4  New  2/25/24
 
+>Mujahideen Brigades published a video showing the operation that targeted an IOF military bulldozer with a Saeer anti-tank missile
+https://files.catbox.moe/ubiziq.mp4  New  2/27/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -94,6 +97,12 @@ https://files.catbox.moe/vfeu4w.mp4  New  2/24/24
 
 >Hezbollah published a video from the operation that targeted several IOF sites and positions on the border.
 https://files.catbox.moe/j40vbi.mp4  New  2/25/24
+
+>Hezbollah published a video showing the attack that targeted the command headquarters of the 146th division in Ga’aton, with dozens of Katyusha rockets.
+https://files.catbox.moe/v39q4j.mp4  New  2/27/24
+
+>Hezbollah published a video showing the operation that targeted the headquarters of the 210th Division at the Nafah IOF base
+https://files.catbox.moe/lf729x.mp4  New  2/27/24  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Al-Quds Brigades Videos 
@@ -133,6 +142,9 @@ https://files.catbox.moe/uqf9v7.mp4  New  2/19/24
 
 >⚡️WATCH: Al-Quds Brigades (PIJ) published a video showing the rocket barrages that striked military concentrations in the areas south of Gaza City (Al-Zaytoun).
 https://files.catbox.moe/uuk2uf.mp4  New  2/24/24
+
+>WATCH: Al-Quds Brigades published a video showing the successful sniping of an IOF soldier, in the axis east of Khan Yunis.
+https://files.catbox.moe/v6y4oh.mp4  New  2/27/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -368,3 +380,5 @@ https://files.catbox.moe/4yip9g.mp4  New  2/26/24
 https://files.catbox.moe/veknp5.mp4  New  2/26/24
 >Al-Aqsa Brigades published a video showing the military equipment they captured after clashing with a special IOF force, south of Al-Zaytoun neighborhood.
 https://files.catbox.moe/b4o55p.mp4  New  2/26/24
+>An occupation army helicopter carrying wounded soldiers landed in a hospital in occupied #Jerusalem
+https://files.catbox.moe/54s8di.mp4  New  2/27/24

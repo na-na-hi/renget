@@ -11,10 +11,9 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream ("Twilight" watchalong with Shiori and Iofi, Tue 02/27 9PM CT)
+Next stream: Demonologist collab with Shiori and Bijou (Wed 02/28 7PM CT)
+Previous public stream ("Twilight" watchalong with Shiori and Iofi, Tue 02/27 9PM CT)
 https://www.youtube.com/watch?v=nS8_ck2OJ38
-Previous public stream (Crab Game EN/ID megacollab)
-https://www.youtube.com/watch?v=Rm8hq0feRgM
 Previous members-only stream (zatsudan)
 https://www.youtube.com/watch?v=cijnWjfY4sY
 
@@ -69,7 +68,3 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to get your movie for the upcoming watchalong of "Twilight" tomorrow.
-
-Anon's MEGA link, 2.7GB, 1080p
-https://mega.nz/folder/bTwgDQqL#2RjkjlzlzWRByvzDNOyNbQ

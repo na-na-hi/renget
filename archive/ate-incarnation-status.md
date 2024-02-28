@@ -2,8 +2,8 @@
 >God Rank: C
 >Synchronization Rate: 100%
 >Level: 10
->Influence: 5,400/51,200
->Divinity: 500/500
+>Influence: 5,149/51,200 (+10)
+>Divinity: 510/510 (+10)
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
 
@@ -34,7 +34,7 @@ You may copy one Authority from any incarnation that falls victim to your direct
 Allows you to grant an authority to a mortal, either directly or via an authority crystal. The target will gain the Pseudo-Myth: <Cultist of <Your Incarnation Name>>. They share your directives, and any influence, authorities, epithets, or titles garnered by the target are granted to you instead. It is possible for an <Inductee> to betray their god, at which point they will lose their power and pseudo-myth. Authority vanishes upon a single use.
 
 >Faustian Bargain (EX):
-Allows you to claim ownership of an individual’s soul if they willingly sell it to you. If you do so, you must fulfill your end of the bargain to the best of your ability. Gaining a <Soul> provides regular <Influence> as well as permanently increasing your divinity
+Allows you to claim ownership of an individual’s soul if they willingly sell it to you. If you do so, you must fulfill your end of the bargain to the best of your ability. Gaining a <Soul> provides regular <Influence> as well as permanently increasing your divinity. 
 
 >A Thousand Faces, a Thousand Voices (4):
 You can temporarily alter your physical appearance and voice as you please, provided you maintain a human shape. Additionally, your words can be understood by anyone, regardless of language. It is possible for you to replicate specific individuals, although you still need to roll to maintain the disguise unless you know the person (or at least their appearance and mannerisms) reasonably well. (20 divinity/level per hour).

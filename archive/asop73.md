@@ -36,18 +36,18 @@ Translation by Marisa Honkai F2P
 	SONGQUE
 
 **ASTRALOP TECH**
-- Joint ATK: Generate magic circle. After 1.5s, deal 3000% ATK of Lightning DMG to enemies in the area, resets switch cd of all characters with Astral Ring, and trigger their QTE. If Deepspace Anchor activates Astral Ring Burst state, then Joint ATK deals additional 500% ATK of Lightning DMG, and Deepspace Anchor will deal additional 300% ATK of Lightning DMG
+- Joint ATK: Generate magic circle. After 1.5s, deal 3000% ATK of Lightning DMG to enemies in the area, resets switch cd of all characters with Astral Ring, and trigger their QTE. If Deepspace Anchor activates Stellar Outburst, then Joint ATK deals additional 500% ATK of Lightning DMG, and Deepspace Anchor will deal additional 300% ATK of Lightning DMG
 - Joint ATK: On hit, apply 6 Paralyze trauma.
 - Joint ATK: Magic circle pulls enemies as long as it lasts.
 - [SSS] Songque Lightning DMG +200%. When an enemy with Shadow Coil effect receives Elemental DMG from a character, Songque will deal additional 800% ATK of Lightning DMG to it, trigger interval 5s.
 
 **RECOVERY SKILL**
-- During non-Astral Ring Burst state, when character attack hits, team gain 'Energy Recovery' state that lasts for 1s. Astral Ring energy gain 1 point every 0.5s, can be refreshed. Initial Astral Ring energy +50, triggers every 10 minutes in Part 2 Open World, shares cd with other AstralOp. When magic circle is generated, Shadow Coil effect will continuously apply to all enemies on the field until Astral Ring Burst ends. Shadow Coiled enemies take 20% more Elemental DMG.
+- During non-Astral Ring Burst state, when character attack hits, team gain 'Energy Recovery' state that lasts for 1s. Astral Ring energy gain 1 point every 0.5s, can be refreshed. Initial Astral Ring energy +50, triggers every 10 minutes in Part 2 Open World, shares cd with other AstralOp. When magic circle is generated, Shadow Coil effect will continuously apply to all enemies on the field until Stellar Outburst ends. Shadow Coiled enemies take 20% more Elemental DMG.
 - When Deepspace Anchor is in the team, Astral Ring initial energy +20.
 - [SS] After Astral Ring Burst state ends, when there are 1/2/3 Realm Resonance characters in the team, Astral Ring energy will be increased by 7/14/21 points, trigger interval 40s.
 - [SSS] During Astral Ring Burst state, resonance dmg caused by everyone increased by 20%, enemies on the field take 5% more Lightning DMG.
 
 **PASSIVE**
-- During non-Astral Ring Burst state, enemies take 15% more Elemental DMG. When character weapon skill hits, gain 2 points of Astral Ring energy. CD for each character: 15s.
+- During non-Stellar Outburst state, enemies take 15% more Elemental DMG. When character weapon skill hits, gain 2 points of Astral Ring energy. CD for each character: 15s.
 - Everyone receive 15% less Total DMG. When entering Astral Ring Burst state, recover 1000 HP.
 - [SS] When character deal resonance dmg, team recover 2 sp, CD: 3s.

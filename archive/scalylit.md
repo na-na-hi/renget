@@ -42,12 +42,18 @@ A scientist/wizard in a fantasy world turns himself into a dragon in order to st
 > Dragons live in a stereotypically utopic, primitive society with a chieftan and tend to avoid humans.
 > **PS 5/5**
 ‪‎
-**Dragon Knight** (1976-2000) by Gordon R. Dickson
-Fantasy (isekai)
-[Review Pending]
+**The Dragon Knight** (1976-2000) by Gordon R. Dickson
+Alternate History/Historical Fiction?/Fantasy (isekai, body swap, transformation)
+Very popular for its time, it would be accurate to describe as a staple of fantasy literature during the 70s-80s that made its way into the libraries of many avid young readers. The first novel of this nine book series would go on to receive an animated movie, The Flight of Dragons, a decade after its initial publication. It follows a typical portal fantasy-esque plot. Two college researchers, Jim and Angela Eckhert, astrally project themselves by accident into magical historical england after an experient goes awry. Jim, now having found himself in the body of a dragon, must rescue his wife from the Dark Powers that threaten the world.
 **The Dragon and the George**
 **ISBN-10** 0345350502
 **ISBN-13** 978-0345350503
+> **DC 3/5**
+> Although the POV is from a human trapped in a dragon's body struggling with his now dragon-instincts, there is another dragon companion in the group that gets a fair share of character development.
+> **CA 3/5**
+> Fairly unbiased, dragons are treated as characters as much as everyone else, even though some major deaths do occur.
+> **PS 2/5**
+> This is mainly a sword and sorcery adventure with some sarcastic meta-commentary on fantasy tropes. On the positive side, the dragons are sufficiently dragon-like in mentality while maintaining their intelligence, having been upgraded to the eschelon of standard race picks for a player party.
 ‪‎
 **Dragon Dreams** (2021) by C.B. Morgan
 Urban Fantasy (TF/xenofiction)
@@ -198,7 +204,7 @@ Wake up, its the late Cretaceous period, and several middle school students just
 ‎
 **Quintaglio Ascension Trilogy** (1992-1994) by Robert J. Sawyer
 Science Fiction (xenofiction)
-[Summary Pending]
+(Section pending review)
 **Far-Seer**
 **ISBN-10** 0441225519
 **ISBN-13** 978-1988415345
