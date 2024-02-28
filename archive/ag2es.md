@@ -20,7 +20,7 @@ A student wearing a suit that made him look like a penguin stepped towards her, 
 "*Sure.*" she said, inaudibly, with a nod; she couldn't bear the room's brouhaha anymore.
 "*Cheers. My name is Pringles.*" he held out a greasy hand.
 "*Margaret. I have to go.*" she answered, ignoring the captain.
-Walking briskly through the Club Room she side-stepped, dodged and slithered her way out, avoiding faces lighting up at her sight, staring at her, gritting her teeth at the buzzing whispers whose intensity increased exponentially, making her head feel like it was about to burst.
+Walking briskly through the Club Room she side-stepped, dodged and slithered her way out, avoiding faces lighting up at her sight, staring at her, gritting her teeth at the buzzing whispers the intensity of which increased exponentially, making her head feel like it was about to burst.
 **SLAM**
 She flinched as the door to the room closed loudly behind her.
 "*Couldn't they enchant it to be quieter..?*" she thought, annoyed, as the loud creaking of the moving staircases filled the Castle.

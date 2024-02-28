@@ -26,7 +26,7 @@ If you want to know more about them click [here](https://rentry.org/Switch_Guide
 
 ######Where do i get games for Free™?
 [(back to top)](https://rentry.org/Switch_Guide_FAQ/)
-Games Download section of the News Archive, [here](https://rentry.org/Archive) ([Pastebin version](https://pastebin.com/4Dr3NxsS))
+Games Download section of the News Archive, [here](https://rentry.org/-hbg-archive) ([Pastebin version](https://pastebin.com/4Dr3NxsS))
 Be sure to actually read what's written right under the start of the [Games Download Section](https://rentry.org/Archive#games-download)
 
 ######How do i install games?

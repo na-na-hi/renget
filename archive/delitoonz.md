@@ -1,6 +1,8 @@
 -> ![](https://files.catbox.moe/albvu3.png) <-
 
--> about me! <-
+-> basic shit ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ ![](https://files.catbox.moe/0v8v82.png) <-
+
+
 
 -> hi! im bailey. im a nonhmn [intrj](/ptdemo) and im 15 age of 
 years. afro italian bipoc enfj-t 7w6 if u care about
@@ -23,7 +25,7 @@ if u want idrc) venting to me is totally ok, im ⠀⠀
 here to help & have fun on here so dont be shy
 to reach out to talk about literally anything w me, <-
 
--> dni <-
+-> ![](https://files.catbox.moe/rgsgyj.gif) ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ kinda not a dni <-
 
 -> i dont really have a strict dni, i just urge people⠀
 that enjoy medias such as **zero day** / anything⠀⠀

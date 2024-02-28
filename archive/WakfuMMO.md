@@ -2,8 +2,9 @@
 -> A directory of all kinds of player-made guides and tools... <-
 -> created by Demetrios (Discord: @3xzl | Ankama: yagen#7767) <-
 
--> Last updated: **2023.12.16** <-
--> Added 3 new entries: Chachastuce, WakForge & an Eniripsa guide <-
+-> Last updated: **2024.02.28** <-
+-> Added 2 new entries: an Ecaflip & Sacrier guide (WIP) <-
+-> 2023.12.16 — Added 3 new entries: Chachastuce, WakForge & an Eniripsa guide <-
 !!! note Links marked with 🇫🇷 means the website's content is in French
 	Make sure you have a translator ready. Most Chromium browsers (Google Chrome, Opera GX, Brave Browser, etc.) come included with a built-in translator.
 ***
@@ -21,8 +22,8 @@
 Class|Content
 :-:|:-:
 Cra|[Reyfe's 1.79 Cra Guide](https://www.youtube.com/watch?v=lvPV58L52m4)
-Ecaflip|N/A
-Sacrier|N/A
+Ecaflip|[In-Depth Guide to Ecaflip — Creating Chaos with a Cheshire Smile](https://docs.google.com/document/d/14w7OiHiLvZYg0z0HFQjMuDK-Dee2oddYYdDlz3WJ_hY/edit#heading=h.nrnw03t7conb)
+Sacrier|[1.80 Sacrier Guide, by Demetrios — WIP](https://docs.google.com/document/d/15bMNlCzOIL2oRyH7_GSVvbmaTo43Vt0Jg0dFFo-fNXs/edit?usp=sharing)
 Masqueraider|[Owlite's guide to the Masqueraider](https://www.wakfu.com/en/forum/103-masqueraiders/242854-owlite-guide-masqueraider)
 Sram|N/A
 Ouginak|[Evagreen Ch.'s Ouginak guide](https://www.youtube.com/watch?v=KWPSOCVTIjQ)

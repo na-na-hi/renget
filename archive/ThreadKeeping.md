@@ -444,15 +444,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Heroes:
->Kazuya Ono
->>92012443
-Alpha Ueno HN: Sylph
->>92014322
-
-New Supporter:
->Yuko Ozaku
->>92025025
+New Writefag:
+>Frameless (Smokin' Sexy, Ryu-Kishi, Mirror Devil):
+https://rentry.org/u8snakxr
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1038,6 +1032,8 @@ https://rentry.org/7rw4bbwc
 https://rentry.org/ewpc5tz3
 >A Hero Student's Uncertain Dating Prospects  (Beach Day, Slip-n-Slideasaurus, Cube)
 https://rentry.org/DatingProspects
+>Frameless (Smokin' Sexy, Ryu-Kishi, Mirror Devil):
+https://rentry.org/u8snakxr
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

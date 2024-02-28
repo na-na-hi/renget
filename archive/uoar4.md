@@ -149,12 +149,12 @@ _______
 |------|-----|
 | Myth or Treat | [As Boomei](https://www.youtube.com/watch?v=VupT9JCJaOY) |
 | Ame and Kiara's Dreamin Chuchu | [Background Easter egg](https://www.youtube.com/watch?v=vjBZzYN3aAs) |
-| IRyS's cover of Internet Overdose | [Background Easter egg](https://www.youtube.com/watch?v=x_0Zc26jkDw) |
+| IRyS' cover of Internet Overdose | [Background Easter egg](https://www.youtube.com/watch?v=x_0Zc26jkDw) |
 | Sana's Astrogirl | [As herself](https://www.youtube.com/watch?v=R8y1aWMlPOs) |
 | Bae's cover of A Million Miles Away (BELLE)  | [As herself](https://www.youtube.com/watch?v=YzS26Ao3vt8) |
 | Kronii and Bae's Holy Night (Toradora!) Cover | [As herself](https://www.youtube.com/watch?v=xvvjwhLG4Dw) |
-| BaeRyS's Daikirai Na Hazu Datta Cover | [As herself](https://www.youtube.com/watch?v=HrT8Oon9Kxs) |
-| BaeRyS's Erande Kurete Arigato Cover | [As herself](https://www.youtube.com/watch?v=3pzh6AaXi9s) |
+| BaeRyS' Daikirai Na Hazu Datta Cover | [As herself](https://www.youtube.com/watch?v=HrT8Oon9Kxs) |
+| BaeRyS' Erande Kurete Arigato Cover | [As herself](https://www.youtube.com/watch?v=3pzh6AaXi9s) |
 |Sweet Appetite by Bae and Gura |[Background Easter egg](https://www.youtube.com/watch?v=8dzJS6r2qzU)|
 | Mori's Kawaikute Gomen Cover |[Background character](https://www.youtube.com/watch?v=92tvv7PgKeI)|
 |Miko's Kyoufuu All Back Cover| [With holotori](https://www.youtube.com/watch?v=U2jl3QIoVws)|
@@ -164,5 +164,6 @@ _______
 |Mori's INTERNET YAMERO|[Easter egg](https://www.youtube.com/watch?v=Lp5n-YS22tY)|
 |Noel's Gyudon Carnival| [Hootsie as Easter egg (with La+'s Karasu)](https://www.youtube.com/watch?v=65HJRp_GAig)|
 |Bae's Sukichuuno! Cover|[As herself](https://www.youtube.com/watch?v=gRYAPM5wcQQ)|
+|IRyS' Kyoufuu All Back Cover| [As herself](https://www.youtube.com/watch?v=njqQ3niSUqs)|
 
 ->[Go back to the TOC](https://rentry.org/uoar4)->

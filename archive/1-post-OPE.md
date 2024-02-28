@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Demonologist collab with Shiori and Bijou (Wed 02/28 7PM CT)
+Next stream (Demonologist collab with Shiori and Bijou, Wed 02/28 7PM CT)
+https://www.youtube.com/watch?v=wJYcFg2GL5Y
 Previous public stream ("Twilight" watchalong with Shiori and Iofi, Tue 02/27 9PM CT)
 https://www.youtube.com/watch?v=nS8_ck2OJ38
 Previous members-only stream (zatsudan)

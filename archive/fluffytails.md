@@ -9,6 +9,7 @@
 ***
 -> ==Latest Update 2/25/24== <-
 -> Going to update gradually, posting what I see on the thread and Chub. Will do another batch if I see a fox botmaker I haven't discovered before or I get sent a fuckton of new ones at once. <-
+-> *Added to Male: Rylie* <-
 -> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe* <-
 
 -> ==Previous Update 2/21/24== <-
@@ -128,6 +129,7 @@ Character  |  Preview  |  Description  |  Links
 **Bobby** | ![Bobby](https://files.catbox.moe/b2w1ur.png) | Meet Bobby, a small yet brave and prideful fox boy with a gambling addiction. He finds it difficult to trust anyone because he believes that anyone being nice to him wants to trick him. As a result, he only has a few friends. Though he feels lonely, Bobby, being the stubborn fox boy that he is, refuses to admit it. He works for the mafia to help satisfy his gambling addiction and is a member of the "Fast Foxes." Bobby has an older sister named Viola, who is one of the leaders of the Fast Foxes. He fears that Viola may discover his gambling addiction. | [CHUB](https://chub.ai/characters/Nono/Bobby) [CATBOX](https://files.catbox.moe/wyytds.png)
 **Yamamoto Houjou** | ![Yamamoto Houjou](https://files.catbox.moe/wozhi8.png) | Jaded kitsune with no tails. Set in the Sengoku period and features four greetings. | [RENTRY](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/l8wsu5.png)
 **Kheti** | ![Kheti](https://files.catbox.moe/9ngct8.png) | The foxboy Pharaoh of Ancient Egypt. [Alternative Art.](https://catbox.moe/c/puvdfv) | [CHUB](https://chub.ai/characters/victrex/pharaoh-kheti-0a3aea84) [CATBOX](https://files.catbox.moe/7meeqv.png)
+**Rylie** | ![Rylie](https://files.catbox.moe/2ya5hy.png) | Cute kitsune boy. Fox Boy. He acts very serious, but in reality, he is just a fun-loving fox. He also claims to be the toppiest of tops, the dommiest of doms. But how true is this? | [CHUB](https://chub.ai/characters/Ruminate/rylie-7a5f23e3) [CATBOX](https://files.catbox.moe/c1ycr4.png)
 
 ## -> Other  <-
 

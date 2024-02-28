@@ -623,6 +623,10 @@ The 1 dollar Serika is nice, but pretty unneeded.
 
 I'm not a big spender so I can't give too much of an opinion on the other packs. [The anniversary selector](https://i.imgur.com/e44zYwW.png) seems cool though, definitely worth a zinger box or two. Prioritise Ako/Himari > Ui > rest
 
+>I bought the monthly but I forgot when, help! 
+Open the pakeji shop, it'll tell you how many days you have left. 
+You also get a notification the moment it expires. 
+
 ## Main story stuff (spoiler free) 
 (WIP)
 ![total pyros story](https://i.imgur.com/c59w29N.png)
