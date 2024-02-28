@@ -1,1 +1,5 @@
-claimed by [kitt](/kitthoard)!
+->![](https://64.media.tumblr.com/c408610b2102d8da6abd4234ed0a5846/632b462899e5470f-3c/s400x600/f2d0b4af02481371c9acee299d196dd2d59c970d.gifv)<-
+->![dot co dead net](https://i.postimg.cc/c126kppP/deadnet-1-50.webp)<-
+->**ki**tt ![](https://i.postimg.cc/htcN9d2j/24888e56-original.gif) !~4te~!en<-
+->[![hoard](https://i.postimg.cc/yxf3v9FH/81f6d3029b7773a8b908a94edc0de604bb9bfbf7.gif)](/kitthoard)<-
+->![](https://64.media.tumblr.com/c408610b2102d8da6abd4234ed0a5846/632b462899e5470f-3c/s400x600/f2d0b4af02481371c9acee299d196dd2d59c970d.gifv)<-

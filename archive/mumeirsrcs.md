@@ -64,7 +64,7 @@ made by outergoddess, credit if using
 ![](https://files.catbox.moe/8ts54l.png)
 ![](https://files.catbox.moe/xicssp.png)
 ![](https://files.catbox.moe/6fytnw.png)
-![](https://files.catbox.moe/u34z4z.PNG)
+![](https://files.catbox.moe/u34z4z.png)
 ![](https://files.catbox.moe/sjcmc3.png)
 ![](https://files.catbox.moe/p4bj7c.png)
 ![](https://files.catbox.moe/0sqb2a.png)
@@ -75,3 +75,4 @@ made by outergoddess, credit if using
 ![](https://files.catbox.moe/4uyqe7.png)
 ![](https://files.catbox.moe/ikmlsx.png)
 ![](https://files.catbox.moe/apormy.png)
+![](https://files.catbox.moe/bqgw2q.png)

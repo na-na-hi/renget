@@ -1,20 +1,21 @@
 ###### 
 ->
- ![divider](https://media.discordapp.net/attachments/903364339464044575/1199488497975824404/Untitled8_20240124015849.png?ex=65c2b9b7&is=65b044b7&hm=6913d17506f2467142db76866f5a3bbbadb23a9fc17709a45038c899c48b8156&) <-
--> ![img](https://media.discordapp.net/attachments/903364339464044575/1199486418737713274/phonto.png?ex=65c2b7c7&is=65b042c7&hm=66834700bada578d8587aaadd5924b936d7b6d20ff928bc442aa22ee14691af7&)<-
--> ![divider](https://media.discordapp.net/attachments/903364339464044575/1199488497749348382/Untitled8_20240124015844.png?ex=65c2b9b7&is=65b044b7&hm=a4350bd5ce4b403eb889c8fc8bfd15342757ded62d49641a44c6ae7dda0b8cfe&)<-
+ ![divider](https://i.postimg.cc/BQNP2djR/Untitled8-20240124015844.jpg) <-
+-> ![img](https://i.postimg.cc/FFyLHfNr/phonto.png)<-
+-> ![divider](https://i.postimg.cc/B6D1DbFC/Untitled8-20240124015849.jpg)<-
 
--> ⌢⌢⌢⌢ ㅤ ꒰꒰ ![bow](https://media.discordapp.net/attachments/1095644666071879710/1112530729247719474/4F7381FF-B2E1-4544-B66F-22E531BC5431.gif) ꒱꒱ ㅤ ⌢⌢⌢⌢ <-
+-> ⌢⌢⌢⌢ ㅤ ꒰꒰ ![bow](https://i.postimg.cc/QC3KqDkZ/886-B28-A3-407-E-4-EDE-A87-E-9570-CB272122.gif) ꒱꒱ ㅤ ⌢⌢⌢⌢ <-
 
--> %cadetblue% ♡♡ %% ![](https://media.discordapp.net/attachments/903364339464044575/1100907740978753666/CA673F61-E1A0-4C93-AA7E-6E42797792CA.png) to !~black;simple; [my](https://rentry.co/batcemetery) ~! resource rentry, ive got basically everything on here. i hope this can be useful to whoever is in need %cadetblue% ♡♡ %% <-
+-> %cadetblue% ♡♡ %% ![welcome](https://i.postimg.cc/K8qLhdFt/CA673-F61-E1-A0-4-C93-AA7-E-6-E42797792-CA.png) to !~black;simple; [my](https://rentry.co/batcemetery) ~! resource rentry, ive got basically everything on here. i hope this can be useful to whoever is in need %cadetblue% ♡♡ %% <-
 
 -> contact %moccasin% **yatoras** %% on discord <- 
 -> for removal or credits <-
 
--> ![](https://media.discordapp.net/attachments/903364339464044575/1100918115522576474/6217556B-E06B-453F-84B2-79B9EAF556EF.gif) <-
+-> ![](https://i.postimg.cc/25gZVh16/6217556-B-E06-B-453-F-84-B2-79-B9-EAF556-EF.gif) <-
 ***
 ***
--> ![](https://media.discordapp.net/attachments/903364339464044575/1100907741209436160/6BA2472F-2101-406A-AD41-AA8C93DDE94A.png) <-
+-> ![](https://i.postimg.cc/ZqWNbVK2/6-BA2472-F-2101-406-A-AD41-AA8-C93-DDE94-A.png) <-
+-> 28 feb : getting somewhere ^^; ... i'll finish each section by maybe a week or two. <-
 -> **i won't be taking this rentry down and i'll try to get all the pixels back on it properly as soon as possible, however i'll be putting off fixing the dividers & fandom pix for a while. i will def do them but not rn.** <-
 -> **this was like literal horrible timing cause i have finals, but i promise to put it all back up cause i know my rentry is used by many people!! thank you all for the support, if you have any amount of pixels from here hoarded on another site, please send me them on @yatoras on discord!**<- 
 -> **navigation** <-

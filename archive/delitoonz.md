@@ -1,6 +1,6 @@
 -> ![](https://files.catbox.moe/albvu3.png) <-
 
--> basic shit ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ ![](https://files.catbox.moe/0v8v82.png) <-
+-> basic shit ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ ![](https://files.catbox.moe/y8wl67.png) <-
 
 
 
@@ -25,7 +25,7 @@ if u want idrc) venting to me is totally ok, im ⠀⠀
 here to help & have fun on here so dont be shy
 to reach out to talk about literally anything w me, <-
 
--> ![](https://files.catbox.moe/rgsgyj.gif) ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ kinda not a dni <-
+-> ![](https://files.catbox.moe/chce4a.png) ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ kinda not a dni <-
 
 -> i dont really have a strict dni, i just urge people⠀
 that enjoy medias such as **zero day** / anything⠀⠀

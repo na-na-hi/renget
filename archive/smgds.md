@@ -97,7 +97,7 @@ Looking up amidst all the debris I notice Cosmic Luigi staring me down, racing m
 
 Back at the Comet Observatory, all traces of that wilted rocky galaxy have disappeared, my pulsating heart being the only piece of proof it ever existed.
 
-To answer the million dollar question: do I still think this game was made by Nintendo? 
+To answer the million dollar question: Do I still think this game was made by Nintendo? 
 
 Maybe? 
 

@@ -9,7 +9,7 @@
 -> ︵︵ Pixels ☆ Blinkies ★ Dividers ︵︵<-
 -> ♥︎ Owned by [Guts](/diavolo) & [Seth](/trishuna) & [Ed](/giorno) ♡ <-
 ***
--> %crimson% **[Our Rentry Hoard](/basement)**%% <-
+-> %crimson% **[Guts' Rentry Hoard](/basement)**%%  ⌁  %crimson% **[Seth's Rentry Hoard](/sethshoard)**%%<-
 ***
 -> ![](https://files.catbox.moe/7rlmxp.png) ->
 ***
