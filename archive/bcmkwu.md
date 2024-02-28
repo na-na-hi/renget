@@ -1,3 +1,15 @@
+>Defender of the Fatherland Day MV (KINO)
+https://files.catbox.moe/yrng88.mp4
+>9 minutes of new Spetsnaz KINO (Extremely comfy)
+https://files.catbox.moe/o3vvc2.mp4
+>Russia Special forces compilation released to commemorate Day of Special operations forces
+https://files.catbox.moe/tgf68a.mp4
+>Putin spitting bars
+https://files.catbox.moe/yl0ufa.mp4
+>Rosich published video Lugansk Kremennaya
+https://files.catbox.moe/xx8uae.MP4 
+>Hohol about to surrender was bombed by hohol drone
+https://files.catbox.moe/q1jzhp.mp4
 >Lancet destroys Archer SPG
 https://files.catbox.moe/po7igm.mp4
 >NASAMS goes boom

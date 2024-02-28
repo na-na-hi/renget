@@ -1,16 +1,25 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/7pzfkt.png)<-
+->![Funny](https://files.catbox.moe/ubahw4.png)<-
 
-## ->❄️[Recently added to the archive: 02/12/2024](https://youtu.be/pEg_d2f6myw)❄️<-
--> (AA is not dead and will be back, please do not panic) <-
+## ->❄️[Recently added to the archive: 02/28/2024](https://youtu.be/pEg_d2f6myw)❄️<-
+-> (AA is still not dead and will be back, please do not panic) <-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
--> [The River - Part I](https://docs.google.com/document/d/e/2PACX-1vRtzOMc3N-8uhGdLUSeVczDZk7yXygDaqNAMlAzxyo9ILYtyCZc-SQJ_IPDDS5mzSePIfESp40Tu3wq/pub) (SFW, Fantasy, Shishio Chris, Polka, Ollie, OC Daughter)
-[LapZuri Story Uncut](https://docs.google.com/document/d/e/2PACX-1vSa5FSP1zU9jJEKeEY_IgoAsvZN1InXLubyed1tKpnrTNtcOrHto-GSlSKnQm5ehYOL7xlh7UAi978o/pub) (Laplus Darknesss, Oppai Loli, Breast Play, Paizuri, Fluff, Vanilla, NSFW)
-[Little Big Auntie](https://rentry.org/auntieaqua) (NSFW, Aqua, Aunt, Masturbation, Washing, Meta)
-(***Series entry!***) [[Fujo Fantasies - Chapter 4: Open Hearts]](https://docs.google.com/document/d/e/2PACX-1vT7jIjFLEeELMP4sDIgoc7hfupUedgPDt5WXur5XfU6JeO8PJ_996a7wj7IFHj6_HRvBSDYUr52D2qD/pub) (SFW, High School AU, Bae, IRyS, Mori, Lui, Fujoshis)
-(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 1: Campire](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode01/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)<-
+-> (***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 2: Forest Walk](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode02/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Eternal Night](https://docs.google.com/document/d/e/2PACX-1vSp4zyhb5aRTwQPEC1w8YE6KAwF01_xJttxIkC6m2wdMCSPvivJyYPSTvyQmXuAJKsGvHqtEAzltAVw/pub) (Nerissa Ravencroft, SFW, Fluff)
+[Sea Salt Chocolate](https://docs.google.com/document/d/e/2PACX-1vSoH2Wd4DMDLGvL3jzoZJ9DUjIh78TJ7cv7lHZdsCHEUgrBgZMOdNL_HfyFOGoHGs6HvdbjCGbzth2w/pub) (Houshou Marine, Fluff, Comedy, Valentine's Day)
+[Shameful Desire Part 2: Regretful Desire](https://docs.google.com/document/d/e/2PACX-1vQ2S2zLiuzmQq0VfxAIPS-qmwK3ayAyllIQK6i8kgdVv4q4hIcDO5NXJyrkwiwl-E-kWQrI513ikZkV/pub) (Sakamata Chloe, NSFW, NTS+NTR, some romance)
+[The Star](https://docs.google.com/document/d/e/2PACX-1vQTDoYquVVtz8v2jclo7qfxDLekHgQ0TkNM2J3Xu1QudhHeBaT1K4eR49cTH9Wst1OruEY0yrFaNdAx/pub) (Suisei, Femanon/(you), Anemachi, age regression, mostly SFW, fluff)
+(***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 42: A Lion's Homecoming](https://docs.google.com/document/d/e/2PACX-1vQT6fqDn1iBMq-52R_qyi_GhKZ5D-AOKYh36TcIlannLw9FPmn3o2XyALQ19uBZI10OjAuSNSKzT6sk/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
+[The Correction of Elira Pendora](https://rentry.org/9oykvcf9) (NSFW, Elira Pendora, Correction, Gangbang, Mindbreak, Impregnation, Big Tits)
+[Getting Papa Rat's Respect + Council parent's greentext comp](https://docs.google.com/document/d/e/2PACX-1vQRRn_zykOCyKOCTnI5PhtclrWLT0LdD7cTgkvGF1DnuyjRyFD0HQanUWoEal5cichwvlBB4UXUsnKu/pub) (Hakos Baelz, Papa Rat, Council, Greentext compilation, comedy, action)
+[Advent mating habits](https://rentry.org/gnarea87) (NSFW, ADVENT, Nerissa, Shiori, Bijou, Fuwamoco, greentext)
+(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 3: The Codex Sussurokawa](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode03/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Goldfeather, Ch1](https://docs.google.com/document/d/e/2PACX-1vT6YnufeirZEGpHAzweDLi58iTtUXSxH-REL2Ba0SD_LuWafVvPl3cnm71GMBRIGJRhnhWduBDb0j0a/pub) (Reine, incest, Indonesia, drama)
+[Cursed idol uniforms](https://docs.google.com/document/d/e/2PACX-1vQnLxZ5JHUa5knIgdcRQ-WJR_2NsQJRJYJgJHy2ZeHJ48oTsgoz0sUO9HWBfThDyos0cYCeFIElRuBj/pub) (Shitpost, comedy)
+(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 4: The Vicereine](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode04/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Consolation Prize](https://docs.google.com/document/d/e/2PACX-1vQaiDLMu7tYwmyjE1AVwDYjalSQAKHORqx6-3TdncH5MliFClZDf1CPaz5MIJdJDrWDA1B76n0AYZKT/pub) (Eimi, NSFW, Netorase, Light Domination)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-
@@ -1281,6 +1290,7 @@ This is the link for the hard copy backup of the Archive, as of its anniversary 
 [A Small Amount of Tomfoolery](https://docs.google.com/document/d/e/2PACX-1vQ1h5m24N2VhpngjgNzQPer8c5roNI-wel73i8aBPhf9C4tV0EjKKSWB3Qooa6z6m9FeS9hPbMHvBim/pub) (Baelz, NSFW, Size Difference)
 [The Sheep's Need For Breed: My Lioness friend can't be this prudish!](https://rentry.org/t5svw) (Watame, Botan, NSFW, Impregnation, Rough Sex)
 [Shameful Desire](https://docs.google.com/document/d/e/2PACX-1vRu5He2YlIUbIMmogWoAX7jAlY2zkDjKNxiOD4Sqsbrh2Lux7Hl5S6C2gq753GkMbtl33bBLEWL0SuO/pub) (Chloe, NSFW, Netorase, Comedy, Mild Humilation Play)
+[Shameful Desire Part 2: Regretful Desire](https://docs.google.com/document/d/e/2PACX-1vQ2S2zLiuzmQq0VfxAIPS-qmwK3ayAyllIQK6i8kgdVv4q4hIcDO5NXJyrkwiwl-E-kWQrI513ikZkV/pub) (Sakamata Chloe, NSFW, NTS+NTR, some romance) ^
 [Norwegian Wood](https://docs.google.com/document/d/e/2PACX-1vSyhQpjwRyLRDQGYUdb7J-U2-peFqfgHkBF3kOKXBfm-hPoY6s292-hyNpm0ARXF227LMidKnECYigg/pub) (Fubuki, NSFW)
 [Carmelina - Part 1: Milk](https://docs.google.com/document/d/e/2PACX-1vQLeOx8kQVKHejGC3NfNbB9GDdpV3r4XM28RZGQHFxPePvgizATPLWB0Y3iV3E0gm0olskrlptMd6YJ/pub) (Lamy, Marine, NSFW, Lactation)
 [Wellness Check](https://docs.google.com/document/d/e/2PACX-1vSMoGl_xTOF9sBxN4aN_G9DbbPH_mgtAaGm8PtvbcBNLmrjJ3nx20fBolQ9q6ph44V3W5A6u8dj_zP4/pub) (Fubuki, Miko, Botan, Chloe, Action, alternative setting)

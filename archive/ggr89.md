@@ -1,10 +1,11 @@
 # GGR89's Card Repository
 !!! info New Shit
         **NEW:** 
-        Vargr (2/21/24)
-        Boryeon (2/18/24)
-        Nihilister (2/11/24)
-        **UPDATED:** 
+		Diabellstar and Sinful Spoils Lorebook (2/28/24)
+		Vargr (2/21/24)
+		Boryeon (2/18/24)
+		Nihilister (2/11/24)
+		**UPDATED:** 
 		Nikke Lorebook, for Elegg (2/24/24)
 
 ->![We do a little fighting.](https://cdn.discordapp.com/attachments/635291930929922069/1205939131998412810/kaga_kantai_collection_drawn_by_tsukamoto_minori__cc6dffdd457feebb28fd1977d8f0b800.jpg?ex=65da3156&is=65c7bc56&hm=1e17e30e6e7ba9936f8509cc1a21d2fd9bbc411a68b2420627c3719bf2a4f9be&)<-
@@ -99,15 +100,17 @@ Image| Name | Description | Link
  ![Scuttlets are cute too](https://cdn.discordapp.com/attachments/635291930929922069/1189551976019660830/LastDancerBatMerged2.png?ex=659e939b&is=658c1e9b&hm=7e9444a9a57e4e8c90c6b0ecc541dfcc13eb1f2d68be3d1f59bab7736823a9a4&) | LastDancer.BAT | A mix of Virus, Navi, and human created in an abandoned attempt to save a child's life. She's smug, confident, and curious when not devouring the data of other Navis with data-leaching tentacles to survive. Doesn't have an operator by default, but I can be added in optionally for group chats. Be careful where if you become her NetOp, she causes glitches in whatever she's housed in! Five greetings and an integrated lorebook. See either the Chub page or the Extra section for the extra defs. Made for /aicg/'s NetNavi boom. | [CHUB link](https://chub.ai/characters/ggr89/netnavi-lastdancer-bat-a96cf8cd) [Catbox link](https://files.catbox.moe/ydk33p.png)
  ![Stolen, trained, and fucked loyal](https://cdn.discordapp.com/attachments/635291930929922069/1194043941360767066/72535059_p0.jpg?ex=65aeeb13&is=659c7613&hm=e1d0571cf140a0649ef5d213a25bdb3e824889fd57de5f7b2bf182a6b28784fe&) | Suzumori Mizuki | Mizuki is a track and field star who was stolen and roughly trained by (you), breaking up with her boyfriend to be yours instead before going to college. A complete nymphomaniac at your beck and call, based off a set of doujins by Satou Kuuki. Comes with two greetings. | [CHUB link](https://chub.ai/characters/ggr89/suzumori-mizuki-c9cedbcc) [Catbox link](https://files.catbox.moe/8zbzfc.png)
  ![Beware, all dicks who enter thee](https://cdn.discordapp.com/attachments/635291930929922069/1194052693908537344/rinni_original_drawn_by_naoillus__d88d71f0e0bb0c2701a14053f1b0a77d.jpg?ex=65aef33a&is=659c7e3a&hm=b0e2b4d8318370d7a7b999a3fc2f6e150f410ad99966ddec3b5aadabbdecbd36&) | Shinohara Aya | Aya is a highschool girl who's shy and anxious, often the target of bullying. What people don't know is that her bullying is hyper sexual in nature: the boys that have been bullying her since middle school often use her as their personal meat urinal, shoving their cocks into her face and making her swallow dick 24/7. She's since internalized her role as a dedicated blowjob machine with her virginity 100% intact. Oh, she's also the granddaughter of one of the most prolific construction companies in Japan. Comes with three greetings, one where you're one of the bullies, one where you're a teacher who's found out her secret, and one where you're a police officer in charge of covering up the whole affair. | **UNRELEASED**
+ ![Searching my deck for Sinful Spoils](https://cdn.discordapp.com/attachments/635291930929922069/1212280206966923294/diabellstar_the_black_witch_yu_gi_oh_drawn_by_pataneet__b707c876ae57f57f7b619530bcd704c4.png?ex=65f142ec&is=65decdec&hm=3534efa989106cfbea9a9b96188423fcd26f39a55b5fc8932a61ed4edf74ecbc&) | Diabellstar the Black Witch | Diabellstar is an outlaw, using her own means and methods to hunt down Cursed Items. Of note to her are the Snake Eyes jewels, dangerous artifacts capable of spawning monsters and corrupting the minds of mortals. Seeing danger on the horizons, a cold noblewoman revokes her honor... Comes with three greetings. Use the Sinful Spoils lorebook! | [CHUB link](https://chub.ai/characters/ggr89/diabellstar-the-black-witch-c5d73d8c) [Catbox link](https://files.catbox.moe/8ybbp4.png)
 
 
 ###Lorebooks
-Here are my lorebooks, which are recommended for all my cards that are built with them in mind. **LINKS LAST UPDATED: 12/27/23**
+Here are my lorebooks, which are recommended for all my cards that are built with them in mind. **LINKS LAST UPDATED: 2/28/24**
 Name | Description | Link
 ------ | ------ | -----
  GGR Nikke | Lorebook for my Nikke cards. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/ggr-nikke) [Catbox link](https://files.catbox.moe/egu9pz.json)
  GGR Nikke - First Invasion | Lorebook for my First Invasion Nikke cards. | [CHUB link](https://chub.ai/lorebooks/ggr89/ggr-nikke-first-invasion-eb8ce4a8) [Catbox link](https://files.catbox.moe/fzc9qf.json)
  GGR KanColle | Lorebook for my KanColle cards. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/ggr-kancolle) [Catbox link](https://files.catbox.moe/2r9zes.json)
+ GGR Sinful Spoils | Lorebook for my Sinful Spoils Yugioh cards. | [CHUB link](https://chub.ai/lorebooks/ggr89/ggr-sinful-spoils-c77a369b) [Catbox link](https://files.catbox.moe/ga0hud.json)
  FIRES OF RUBICON | Lorebook for my Armored Core VI cards. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/fires-of-rubicon-82d1fb06) [Catbox link](https://files.catbox.moe/cwo84z.json)
  0086 Interwar | Lorebook for the Haman Karn card. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/a34c1292-4009-43fe-a5f4-b946eedb746d) [Catbox link](https://files.catbox.moe/6j8uny.json)
  Gundam Sentinel | Lorebook for the Gundam EX-S card. | [CHUB link](https://www.chub.ai/lorebooks/ggr89/9bfaf84e-5889-4bb5-a701-79185fdc4fb9) [Catbox link](https://files.catbox.moe/2fk1t7.json)

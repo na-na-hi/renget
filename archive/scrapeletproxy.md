@@ -29,15 +29,12 @@ follow my tumblr: veryscrappy.tumblr.com (xe/they/he/she :3)
 Spiters/token sharers (I'm pretty sure):
 &nbsp;|Email
 ---|---
-|sendarmpitspls@proton.me
 |gensokyo_jihad@proton.me
 |cptpants@proton.me
 |scarydeathguy@gmail.com
 |imadeamonkey@cumallover.me
 |fetidfella@proton.me
-|protocolsurfing@proton.me
 |piixi@proton.me
-|Extremismf1@proton.me
 |bubblesandmarbles@proton.me
 |thgrrosa@proton.me
 |IhaveDiarrheaaaa@proton.me

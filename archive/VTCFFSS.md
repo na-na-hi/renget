@@ -506,6 +506,7 @@
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 39: A Proper Instruction in Pirate Etiquette)](https://docs.google.com/document/d/e/2PACX-1vTrxHysV5he1PSD0btlZ3vCcWuPEDfP_Ql7eFhqRGlxMkn40J1bEgAyZqexGk3TiiqR84dS5hoowrX3/pub)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 40: A Costal Skirmish, the Campaign to Free Shallah Begins](https://docs.google.com/document/d/e/2PACX-1vS9gNMbW9EoGVCRZlcwynPY8KQtVZSbVkPsg2umRAkNQQJd7kOG4wzBXAsWBL3VChQ1ZCLVllXNY28j/pub) (Watame, Flare, Polka, Nene, Botan, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 41: A Conflict In Full Swing, Keep Marching Onward](https://docs.google.com/document/d/e/2PACX-1vRoGHhe1GhgiMGuNt6mEoxPT1EZYEXVMKWlozJVs4JjsWEDMacqHFzd8TJnuR7qStIoHAQzcS63QNva/pub) (Watame, Flare, Polka, Nene, Botan, Marine, SFW, Action/Adventure, Fantasy, Fluff)
+[HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 42: A Lion's Homecoming](https://docs.google.com/document/d/e/2PACX-1vQT6fqDn1iBMq-52R_qyi_GhKZ5D-AOKYh36TcIlannLw9FPmn3o2XyALQ19uBZI10OjAuSNSKzT6sk/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
 [HoloJourneys Bard Tales After Midnight: Pond-side With the Champion of Ursol](https://docs.google.com/document/d/e/2PACX-1vRkUA-F5n9N54gzm2-gukQFpkOenzcJ7tKagkPwk99dd1SPeXSu5WgZNyo4cL7hbkT6fyLPBYEx9cAH/pub) (Nene, NSFW)
 [HoloJourneys - The Parallel Pages: Advent's Archiver](https://docs.google.com/document/d/e/2PACX-1vRKRGrrG55PGdIL3_OTozIHsavYod7I8zstOr15_QU5eeNEWKL_T4IoyTbyJD-5UIJ3fYC5LKJGQ45m/pub) (Shiori, NSFW)
 
@@ -629,6 +630,9 @@
 [Tower of Tattle Part IV: The Cellar](https://anonymousnovelite.github.io/TowerOfTattle/PartIV/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
 [Tower of Tattle Part V: The Heart](https://anonymousnovelite.github.io/TowerOfTattle/PartV/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
 [Tower of Tattle Part VI: The Town, Episode 1: Campire](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode01/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Tower of Tattle Part VI: The Town, Episode 2: Forest Walk](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode02/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Tower of Tattle Part VI: The Town, Episode 3: The Codex Sussurokawa](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode03/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Tower of Tattle Part VI: The Town, Episode 4: The Vicereine](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode04/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
 
 ##### ->*Holoshorts*<-
 >Wedgies.

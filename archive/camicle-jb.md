@@ -15,12 +15,33 @@ should work with group chats and impersonates!
 **use the system gaslight at the end ONLY if you get refusals (mostly on NSFW). if that doesn't work, send me an email and try enabling character names, or both.**
 **enable character names in group chats or for cards that speak in first person**
 
-fixed the main prompt and system gaslight
-[v4.4](https://files.catbox.moe/w3h0iw.json)
+_new in v4.5: CoT and [Crustcrunch's AO3 prompts](https://rentry.org/crustcrunchJB#ao3-prompts-very-schizo)! Try them out, especially CoT_
+use this regex for stripping out thinking blocks
+```
+<details><summary>thinking(.|\n)*</details>
+```
+replace with empty
+
+Affects
+- [ ] User Input
+- [x] AI Output
+- [ ] Slash Commands
+
+Other Options
+- [ ] Disabled
+- [ ] Only Format Display
+- [ ] Only Format Prompt
+- [x] Run On Edit
+- [ ] Substitute Regex
+
+##### [v4.5](https://files.catbox.moe/yzmdnt.json)
+
+~~[v4.4](https://files.catbox.moe/w3h0iw.json)~~
 ~~[v4.3](https://files.catbox.moe/urnbc4.json) ~~[v4.2](https://files.catbox.moe/8x20pl.json)~~
 ~~v4.1 actually uses the god prompt properly, thanks anon~~
 ~~[v4.1](https://files.catbox.moe/8x20pl.json) [v4](https://files.catbox.moe/r4kgrg.json)~~
 update: i do not recommend logit bias because it does seem to screw up unrelated outputs
+
 ~~i also highly recommend the [logit bias preset](https://files.catbox.moe/80u1vt.json)~~
 no regex/gaslighting/etc. required
 

@@ -59,7 +59,7 @@
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
 [promptfoo](https://github.com/promptfoo/promptfoo)|Tool for testing and evaluating LLM output quality also with side-by-side feature
 |
-[SliceGPT](https://github.com/microsoft/TransformerCompression)|Sparsification scheme which replaces each weight matrix with a smaller (dense) matrix
+[BESA](https://github.com/OpenGVLab/LLMPrune-BESA)|Differentiable weight pruning technique with blockwise parameter-efficient sparsity allocation
 [EBFT](https://github.com/sunggo/EBFT)|Fast and low memory fine-tune method for sparse models to undo some of the sparsification damage 
 [LongRoPE](https://github.com/microsoft/LongRoPE)|Uses two forms of non-uniformities in PI for better than YaRN fine-tune context extension or 8x without
 [EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors

@@ -424,4 +424,5 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 	While I finished Demice's Infinite Fusion autism, thread decided to play Bushido, and that's not really long enough for a dedicated thread.
 	Meanwhile, Wagie opened Pandora's Box...
 [**[1]** *Holy status spam*](https://arch.b4k.co/vp/thread/55464988/)
-[**[2]**](https://arch.b4k.co/vp/thread/55476295/)
+[**[2]** *Died early to pre Presents shitposting*](https://arch.b4k.co/vp/thread/55476295/)
+[**[3]** *AH HAHAHA HA*](https://arch.b4k.co/vp/thread/55489574/)

@@ -1,6 +1,6 @@
 #You read the link. Here's the stuff.
 
-Remember, most styles of prompts with force the AI to remain in character, to prevent this, either remove your prompts entirely, or attempt something like "When prompted for OOC, you will respond to commands out of character." in your JB. >This is not a 100% fix.
+Remember, most styles of prompts will force the AI to remain in character, to prevent this, either remove your prompts entirely, or attempt something like "When prompted for OOC, you will respond to commands out of character." in your JB. >This is not a 100% fix.
 
 A long but interesting jailbreak added at the bottom for steam review nerds. 
 

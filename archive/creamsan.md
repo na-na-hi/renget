@@ -62,7 +62,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ![Team Neko](https://creamsan.neocities.org/files/cards/teamneko.png) | Team Neko | Your team got separated from the main group, now you have to rejoin them, but first you have to fend off enemy tanks. (GUP Non-canon chars)  | [CHUB](https://chub.ai/characters/creamsan/team-neko-e4f1b2f8) [Neocities](https://creamsan.neocities.org/#team_neko)
 ![Battlestripsv2](https://creamsan.neocities.org/files/cards/battlestripsv2.png) | Battlestrips v2 | Strip Battleships game. | [CHUB](https://chub.ai/characters/creamsan/battlestrips-v2-3466337a) [Neocities](https://creamsan.neocities.org/#battlestrips_v2)
 ![Tessa](https://creamsan.neocities.org/files/cards/tessa.png) | Tessa | Create things together with this mysterious girl. You start with 4 elements: fire, earth, water, wind. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#tessa)
-![Sini](https://creamsan.neocities.org/files/cards/sini.png) | Sini | Finnish girl to interact with. She'll slowly form a persona about you as you chat. A blank persona is recommended. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#sini)
+![Sini](https://creamsan.neocities.org/files/cards/sini.png) | Sini | Finnish girl to interact with. She'll slowly form a persona about you as you chat. A blank persona is recommended. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/sini-2a5d066e) [Neocities](https://creamsan.neocities.org/#sini)
 
 ***
 ##PROMPTS AND SETUP

@@ -7,9 +7,9 @@ I'm helping you...but only because it's mutually beneficial. It's not pretty or 
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Navigator
 **Species:** Cinderace | **Affiliation:** N/A
-**Level:** 10 | **Experience to Next Level:** 47/100
+**Level:** 10 | **Experience to Next Level:** 62/100
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 901₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 881₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -46,7 +46,7 @@ Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
-    You have 27 points to spend.
+    You have 32 points to spend.
     1/10+2 IP | ▯▯▯▯▯▯▯▯▯▯▯▯
 IQ Skills Active/Inactive | Description of Skill | IP Cost
 ------ | :----: | ------
@@ -66,7 +66,7 @@ Battle Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | 6/6 | ▮▮▮▮▮▮
 Training for Attribute: Survivalist **ɪɪ** | Tier **ɪɪɪ** (+3) | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
-Training for Move: Pyro Ball | *ᴛʀᴀɪɴᴇᴅ* | 2/5 |  ▮▮▯▯▯
+Training for Move: Pyro Ball ɪɪ | *ᴛʀᴀɪɴᴇᴅ* | 3/5 |  ▮▮▮▯▯
 Currently Training for Stat: Defense **ɪ** | Tier **0** (+0 STAT) | 0/9 | ▯▯▯▯▯▯▯▯▯
 Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 

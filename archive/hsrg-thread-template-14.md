@@ -15,9 +15,9 @@ https://www.youtube.com/watch?v=2iRam7fnPrg
 https://www.youtube.com/watch?v=U7W8QR9fsFw
 https://www.youtube.com/watch?v=KdbnaBhJs6Y
 
-\>Black Swan Trailer: "Lullaby" 
-https://www.youtube.com/watch?v=oz3AOWxq8KY
-https://www.youtube.com/watch?v=8qk2IOjmrsY
+\>Sparkle Trailer — "Monodrama"
+https://www.youtube.com/watch?v=RC6wQ-75uQU
+https://www.youtube.com/watch?v=-FrbSYzlqdU
 
 \>Myriad Celestia Trailer — "Sparkle: Behind the Curtain" 
 https://www.youtube.com/watch?v=IpuQvbTwCWU

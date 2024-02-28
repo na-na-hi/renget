@@ -1,9 +1,9 @@
 #Day 0 : The Sorting Ceremony
 
 "*Tick tock tick tock...*"
-Regaining consciousness, Margaret laid in bed, her senses focused on the tangle that were her interlocked fingers; on the horrible ticking of that damned clock.
+Regaining consciousness, Margaret was laying in bed, her senses focused on the tangle that were her interlocked fingers; on the horrible ticking of that blasted clock.
 "*Clock?*" she thought, as she gathered her thoughts, carefully untangling her hands; the fear of breaking them in the back of her mind. She felt unfamiliar bedsheets burning her skin; noisy conversations; *music*.
-Slowly opening her eyes she scanned the room: It was a cramped room, with only a bed; a dresser; a mirror and a chair with her bag sitting on it. She rubbed her eyes, yawned and stretched; she felt surprisingly comfortable despite her legs feeling like they were on fire from the subpar fabric.
+Slowly opening her eyes she scanned her surroundings: It was a cramped room, with only a bed; a dresser; a mirror and a chair with her bag sitting on it. She rubbed her eyes, yawned and stretched; she felt surprisingly comfortable despite her legs feeling like they were on fire from the cheap fabric.
 
 "*Knock knock knock*"
 "*...Yes..?*" said Margaret.
@@ -16,7 +16,7 @@ Taken aback, the wizard paused, mouth agape.
 He grinned at her uncomfortably for a few seconds. "*You're very unlike your father.*"
 She didn't answer.
 He felt around his robes for her Letter and handed it to her, smiling.
-"*Really accomplished a lot, your father... Been a while since I last heard of him, though... Some might say he did more than even Harry Potter, heh.*" he trailed off, watching her open her letters with trembling hands. "*Excited?*" he smiled.
+"*Really accomplished a lot, your father... Been a while since I last heard of him, though... Some might say he did more than even Harry Potter, heh.*" he trailed off, watching her open her letter with trembling hands. "*Excited?*" he nodded with a toothy smile.
 "*Hm?*" she didn't even look up from the letter, despite not being able to read while he was talking.
 "*Your hands, you're shaking.*" he pointed.
 "*They always do that.*"
@@ -25,8 +25,8 @@ He felt eerily uneasy, under pressure; she was just a kid, not even twelve, but 
 She nodded.
 Smiling uncomfortably, he bowed before closing the extremely loud door, feeling a shiver down his spine.
 
-Down to her treasured swimsuit, she quickly inspected her body, noticing the many scars Margot left on her body over the years were all gone; she was smaller and thinner, she did a few stretches, pushing her body to verify her limits and sighed in relief when all was as it should be.
-Rummaging through her bag, she sighed again as she found nothing missing or out of place. Noticing that her robes would be too big for her, she reached for her wand, feeling a sense of calm as she grasped it.
+Down to her treasured swimsuit, she quickly inspected her body, the many scars Margot left on her body over the years were all gone; she was smaller and thinner, she did a few stretches, pushing her body to verify her limits and sighed in relief when all was as it should be.
+Rummaging through her bag, she sighed again as she found nothing missing or out of place. Noticing her robes would be too big for her, she reached for her wand, feeling a sense of calm as she grasped it.
 
 "**BOOM**"
 
@@ -47,7 +47,7 @@ He turned around, his worried grimace turning into a warm smile: She was wearing
 "*Where?*" she asked, too quietly.
 "*Pardon?*"
 "*Where am I?*" she repeated.
-"*The Leaky Cauldron, in London! Lucky for you our destination is just behind that wall!*" he pointed downstairs, slightly out of breath.
+"*The Leaky Cauldron, in London! Lucky for you our destination is right behind that wall!*" he pointed downstairs, slightly out of breath.
 "*Are you alright, sir?*" she asked.
 "*Hm? Oh... Just... Age is catching up, you see. Terrible thing. Heh.*" he swallowed and pulled out his wand before tapping the wall with it.
 Starting slowly but increasing in speed, the brick wall shifted and opened to a bustling shopping street with crooked buildings typical of Great Britain's Wizardkind.
@@ -55,7 +55,7 @@ Margaret sighed at the sight "*Oh no...*" she thought.
 "*Well, let's get you your school supplies! Chop chop!*" he beckoned her through the wall, smiling; expecting her to enjoy this magical moment.
 Pinching her fingers and biting the insides of her mouth, she obliged, following the man like a prisoner on death row.
 
-Beaming with joy, the man described the shops to the young girl, his robes swishing with his wide motions.
+Beaming with joy, the man described the shops to the young girl, his robes swishing with the wide motions.
 "*I noticed you already have a wand; quite a beautiful one at that, is it yours?*" he asked.
 "*Yes.*"
 He wasn't getting anywhere, she was a closed book. "*Ah... Well you know, your father got his first wand here, at Ollivanders'!*"
@@ -69,7 +69,7 @@ He stood there, mouth agape, puzzled. Was he wrong? Was she making fun of him?
 Stuck with two strangers chit-chatting like schoolgirls, Margaret gritted her teeth as her body and mind screamed at her to get out of there, the wand in her wand slowly but surely whispering in her ear. "*There's barely anything to erase, just a quick spell and you'll be out of here, you know the incantation: Obliviate; then you can slip away...*"
 
 Having most likely noticed the pained expression on her otherwise blank face, the two professors parted ways with an uncomfortable smile.
-Following silently behind the old Potion Master, Margaret purchased her school supplies, not uttering a single word to the shopkeepers and letting her mentor do it instead; Professor Slughorn was surprised she was already carrying a good amount of supplies, high quality ones at that.
+Following silently behind the old Potion Master, Margaret purchased her school supplies, not uttering a single word to the shopkeepers and letting her caretaker do it instead; Professor Slughorn was surprised she was already carrying a good amount of supplies, high quality ones at that.
 "*Looks like your parents are taking good care of you, eh?*" he remarked, with a smile. "*Those books are really old...*"
 She nodded.
 "*Ah well, all that's left is your owl and your robes.*" he said with a smile.
@@ -87,7 +87,7 @@ She chuckled, making Professor Slughorn smile. "*Can I take them all?*"
 "*I'm afraid not, but...*" the shopkeeper observed the interaction, mesmerized. "*I haven't seen the old bird so comfortable since his last owner passed away...*"
 "*Well I'm sure the Headmistress will allow it!*" Horace declared confidently. "*Fascinating.*" thought the two men.
 
-Leaving the shop with the large bird perched on her arm, Margaret looked around Diagon Alley while her mentor inspected the list of supplies. "*All that's left is your school robes, seeing as your old ones is only scraps...*"
+Leaving the shop with the large bird perched on her arm, Margaret looked around Diagon Alley while her caretaker reviewed the list of supplies. "*All that's left is your school robes, seeing as your old ones is only scraps...*"
 Margaret made a very polite expression in what little "embarrassment" she felt.
 A few students stopped by to look at the unusual bird, some curious, some impressed; a few of them had seen it in the shop; some even suffered at its beak.
 "*Shall we?*" said the Professor, opening the door for her.
@@ -131,7 +131,7 @@ Enjoying the taste of blood filling her mouth, she fidgeted with her hands, pret
 
 The crowd was even thicker than the one in Diagon Alley, which made sense since they were most likely the same people.
 Circling the train, she looked for an empty looking cabin from the outside while waiting for most passengers to enter, so as to avoid them.
-Finding an opportunity, she quickly entered a cabin and walk towards the end, recognizing a few students on her way, including the green witch.
+Finding an opportunity, she quickly entered a cabin and walked towards the end, recognizing a few students on her way, including the green witch.
 "*Ah! Sorry! I'd let you sit with me but I spilled paint everywhere!*" said a girl with a beret; Margaret turned around: the seats were a mess, so was the girl's face.
 "*I'm Lottie! I love your hair! Is it natural?*" she added, smiling.
 Margaret nodded; she wasn't sure if the spilled paint was her telling her to sit somewhere else or not; she could just cast Scourgify.
@@ -140,7 +140,7 @@ Margaret did the latter and sat down an empty seat.
 
 The ride was uneventful, aside from the green witch and two boys, all the other passengers were sitting alone and no one uttered a word; the silence was only interrupted by an elderly witch selling candies, who was pleased by the child's enthusiasm, albeit unorthodox.
 Carefully inspecting the many strange candies and confectionaries, Margaret enjoyed herself, feeling relaxed in the all too familiar atmosphere; the Hogwarts Express hadn't changed one bit.
-It's as if Anne, Sebastian and Ominis were sitting with her; she remembered her first first year; her *trip* to the Forbidden Forest; her encounter with the Unicorns and the Thestrals; her father's tears; her trip back home.
+It was as if Anne, Sebastian and Ominis were sitting with her; she remembered her first first year; her *trip* to the Forbidden Forest; her encounter with the Unicorns and the Thestrals; her father's tears; her trip back home.
 *Albus Dumbledore* read the Chocolate Frog Card she had just opened. *Died on June 30th 1997*
 "*At least a hundred years...*" she thought; she grimaced at the treat's taste, it certainly wasn't Belgian chocolate.
 
@@ -148,7 +148,7 @@ Welcomed by Hagrid, the First Year were escorted to the Castle by boat, no Dark 
 
 The Castle's interior was much more different than what she was used to; she was looking forward to exploring it again and let her mind wander as she followed the group, lamenting their slow pace and pinching her fingers.
 Leading the students to the Great Hall, Hagrid opened the large doors, making a grand entrance to the applause of the teachers and older students.
-Margaret winced at the loud noise and scanned the room: It was a lot different, not better or worse; she smiled at the enchanted ceiling and its beautiful, starry night sky.
+Margaret winced at the loud noise and scanned the room: It was very different, not better or worse; she smiled at the enchanted ceiling and its beautiful, starry night sky.
 "*Welcome, welcome, students! Today will most certainly be a life defining and magical day for all of you and it is my duty, as Professor McGonagall, Headmistress of Hogwarts School of Witchcraft and Wizardry, to make sure you will remember this day forever!*" she waved her impressive wand at the end of her sentence and conjured a stool with an old hat under thunderous applause.
 
 Sorting students after students in alphabetical order, the crowd slowly thinned out; Margaret felt much more at ease than she was last time; though she was worried about the Hat, especially because the ghosts had been staring at her and whispering for while, interrupting themselves only to join the applause.
@@ -156,7 +156,7 @@ Sorting students after students in alphabetical order, the crowd slowly thinned 
 Students erupted in laughter, joined by a few teachers; older teachers, however, leaned forward, smiling and whispering to each other.
 Clicking her tongue at the commotion, she stepped forward, repeating what she already did once.
 "*You again?! Gryffindor!*"
-The room fell silent, she placed the hat on the stool, walk towards the designated table and leaned against the wall, unwilling to take a set.
+The room fell silent, she placed the hat on the stool, walked towards the designated table and leaned against the wall, unwilling to take a set.
 Breaking the silence, whispering filled the Great Hall, echoing and piercing Margaret's head.
 "*Silence, please.*" ordered the Headmistress, not taking her eyes off the girl; she observed her for a second and waved her towards the seats.
 Margaret waited for a moment, expecting the ceremony to resume, clicked her tongue when it did not and sat down next to a visibly uncomfortable blond boy.
