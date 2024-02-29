@@ -166,7 +166,11 @@ magnet:?xt=urn:btih:b2685d9ae2026df0697e5f1193406cba16bad435&dn=sd_xl_refiner_0.
 
 Pruned v0.9 models
 https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
-
+!!! info
+	---------------------------
+##SD3
+###What is SD3?
+https://stability.ai/news/stable-diffusion-3
 !!! info
 	---------------------------
 ##Guides
@@ -313,7 +317,6 @@ https://boards.4chan.org/b/#s=degen
 https://boards.4channel.org/vt/#s=vtai
 https://boards.4chan.org/aco/#s=sdg
 https://boards.4chan.org/trash/#s=sdg
-https://boards.4chan.org/soc/#s=ai+nude
 !!! info
 	---------------------------
 ##Official Discord

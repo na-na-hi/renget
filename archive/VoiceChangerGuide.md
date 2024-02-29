@@ -63,6 +63,29 @@ If you don't have a GPU, either local install the NVIDIA version, or go to the g
 	[Hina Kaggle Mod](https://www.kaggle.com/code/hinabl/public-w-okada-voice-changer)
 
 ---
+## Virtual Audio Cables (mandatory)
+---
+
+!!! Note Windows Virtual Cables
+	[VAC (Virtual-Audio-Cable by Muzychenko)](https://software.muzychenko.net/freeware/vac470lite.zip) - this virtual cable is called Line 1 on In/Output, if you look it up yourself make sure you get the LITE version it'll come as a ZIP.
+	[VB Audio Virtual Cable](https://vb-audio.com/Cable/) - this virtual cable is the voicemeeter one, Input is called VB Cable Output, while output is reversed, however, it is unironically just terrible, never use this. the other one is just better in every way.
+
+- ==VAC by Muzychenko== you should run ` setup64`  after extracting the zip to a new folder not the 64a just the regular 64, you do not need admin for it, and you do not need to restart your computer.
+
+- ==VB Audio Virtual Cable== you should extract the zip to a new folder and run ` VBCABLE_Setup_x64`  as ` ADMINISTRATOR` you will then need to restart your computer
+
+!!! Note Mac Virtual Cables
+	[Blackhole Virtual Audio Cable](https://existential.audio/blackhole/) 
+	[VB-Audio](https://vb-audio.com/Cable/)
+
+
+
+This is what is needed to use the voice changer as an actual microphone input. Otherwise you will be the only one who is able to listen to it.
+
+After installing the Virtual Cable of your choice (VAC LITE {zip} preferred) press WIN+R type 'mmsys.cpl' and change your default audio devices back to your headphones and microphone, make sure to do it for both the regular default and communications default. 
+
+
+---
 ## Updating
 ---
 
@@ -229,28 +252,6 @@ RX 560 | 256 chunk + 8192 extra | 384 chunk +8192 extra
 	RVC Quality Low, changing to high CRANKS that GPU and CPU usage, for basically no real difference
 
 !!! DO NOT click the PASSTHRU button, doing so sends your ACTUAL VOICE and no longer sends the VOICE CHANGED one. Passthru for most people is completely and utterly useless. You want this to be GLOWING GREEN at all times
-
----
-## Virtual Audio Cables (mandatory)
----
-
-!!! Note Windows Virtual Cables
-	[VAC (Virtual-Audio-Cable by Muzychenko)](https://software.muzychenko.net/freeware/vac470lite.zip) - this virtual cable is called Line 1 on In/Output, if you look it up yourself make sure you get the LITE version it'll come as a ZIP.
-	[VB Audio Virtual Cable](https://vb-audio.com/Cable/) - this virtual cable is the voicemeeter one, Input is called VB Cable Output, while output is reversed, however, it is unironically just terrible, never use this. the other one is just better in every way.
-
-- ==VAC by Muzychenko== you should run ` setup64`  after extracting the zip to a new folder not the 64a just the regular 64, you do not need admin for it, and you do not need to restart your computer.
-
-- ==VB Audio Virtual Cable== you should extract the zip to a new folder and run ` VBCABLE_Setup_x64`  as ` ADMINISTRATOR` you will then need to restart your computer
-
-!!! Note Mac Virtual Cables
-	[Blackhole Virtual Audio Cable](https://existential.audio/blackhole/) 
-	[VB-Audio](https://vb-audio.com/Cable/)
-
-
-
-This is what is needed to use the voice changer as an actual microphone input. Otherwise you will be the only one who is able to listen to it.
-
-After installing the Virtual Cable of your choice (VAC LITE {zip} preferred) press WIN+R type 'mmsys.cpl' and change your default audio devices back to your headphones and microphone, make sure to do it for both the regular default and communications default. 
 
 
 ---

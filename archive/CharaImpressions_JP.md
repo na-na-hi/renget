@@ -1398,13 +1398,23 @@ Cons:
 
 
 ### ->Eris ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-
-**TBD**
+**tl;dr: Roll her unless you enjoy bricking your dark comps until the next prifes, failing at arena, and generally griefing your clan. She's human rights tier.**
+Eris is on a similar level to Ameth, except dark instead of light. She has healing over time, a barrier and 200% action speed for the entire party just with her UB, which makes her especially valuable to dark comps. With her other skills, she raises defenses, heals, restores TP, buffs magic / physical attack and crit, as well as having a unique once-per-battle revive. Her loop is incredible due to a lack of auto-attacks and she's generally the saviour the dark element needed. 
+
 
 
 -> ![Eris](https://redive.estertion.win/card/full/129031.webp)<-
 
 Pros:
-- TBD
+- Frequent 50TP restoration
+- Party-wide action speed buff for 200% action speed (unique within the dark element and thus extremely valuable)
+- A unique once-per-battle revive
+- A lot of healing, both on her S1 and UB
+- Doesn't use auto-attacks, which means that her skill-loop is just S1 -> S2 on repeat
+- Barrier can be timed with her UB
+- Action speed buff can be timed to remove action speed debuffs (like you may know from Monika or Tomo) thanks to the buff is applied with her UB
+- Buffs all attack and defense stats
 
 Cons:
-- TBD
+- Doesn't deal any damage by herself
+- The revive is her fifth action, potentially making it useless in arena depending on your opponent's team as it may not be used before your team is wiped out

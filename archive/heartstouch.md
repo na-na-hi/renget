@@ -1,7 +1,7 @@
--> ![](https://media.discordapp.net/attachments/903364339464044575/1203348844277145630/IMG_0208.png?ex=65d0c4f1&is=65be4ff1&hm=4613b78c0a14b72870a19f63f765b90d98ef631ce35d9adbe687abed8628342b&) <-
+-> ![](https://i.postimg.cc/vZdXKngg/IMG-0161.jpg) <-
 
--> ![edited by me && not free to use](https://media.discordapp.net/attachments/903364339464044575/1203348598096527390/phonto.png?ex=65d0c4b6&is=65be4fb6&hm=cfa91df11d20949ccdfb81c42d8499929845a788dc7de975d1bd1c711f0f8f53&?width=1280&height=900) <-
-![](https://media.discordapp.net/attachments/903364339464044575/1113486761197305917/853A30C5-8E71-46E3-8612-AF88C73224EA.gif?ex=65ccd9db&is=65ba64db&hm=e6f8ac0abe9709a5a5af5fbbe73f4b9552ff4751585ced791fdcab143a0e5db8&)‏‏‎ ‎ jay's rulebook ༢ུ ⠀ |
+-> ![edited by me && not free to use](https://i.postimg.cc/Pxz8PLfc/Untitled15-20240229153958.png) <-
+![](https://i.postimg.cc/pdWCWtBP/IMG-0336.gif)‏‏‎ ‎ jay's rulebook ༢ུ ⠀ |
 :----: |
 
 
@@ -14,4 +14,4 @@
 ***
 
 
--> ![](https://media.discordapp.net/attachments/903364339464044575/1203348844012896276/IMG_0209.png?ex=65d0c4f1&is=65be4ff1&hm=7a3f53a529db0a6e347ffecf3c9bf98b6081b4e8b6c0d55c9ba5bcc79f2014e2&)<-
+-> ![](https://i.postimg.cc/HsMB3zx1/IMG-0160.jpg)<-

@@ -97,6 +97,7 @@ Unnamed journal pasta|[(link)](https://files.catbox.moe/x3mgau.png)
 *Child from the Unknown*|[(link)](https://rentry.org/ChildfromtheUnknown)
 *Dreams*|[(link)](https://arch.b4k.co/vg/thread/448507093/#448630642)
 *Me, Slayer of Demons, Very Suicidal*|[(link)](https://rentry.org/MSDVS)
+*The White Plague*|[(link)](https://rentry.org/WhitePlague)
 
 ##Rewritten by /exeg/
 Title|Link

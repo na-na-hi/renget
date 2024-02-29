@@ -1,3 +1,7 @@
+>How hohol kids are taught ukrainian
+https://files.catbox.moe/r6xxro.mp4
+>Avdeevka pipe report NOW SUBBED
+https://files.catbox.moe/spstsy.mp4
 >Russian Cossacs on front lines during SMO
 https://files.catbox.moe/m0dlmk.mp4
 >New clip of Khmelnytsky ammo depot strike from May 2023
