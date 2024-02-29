@@ -1,3 +1,25 @@
+>Russian Cossacs on front lines during SMO
+https://files.catbox.moe/m0dlmk.mp4
+>New clip of Khmelnytsky ammo depot strike from May 2023
+https://files.catbox.moe/tuj7vi.mp4
+>AFU leaving Chasov Yar
+https://files.catbox.moe/ccz1n0.mp4
+>M1Abrams rekt
+https://files.catbox.moe/oz14es.mp4
+>Hohol early air warning system
+https://files.catbox.moe/d7b8vw.mp4
+>Azov deployment gone wrong
+https://files.catbox.moe/wohcrd.mp4
+>Hunger games in Ukraine
+https://files.catbox.moe/mflqbc.mp4
+>Russian EW strategy against FPVs
+https://files.catbox.moe/v8b004.MOV
+>Another Japanese volunteers fighting for RuAF
+https://files.catbox.moe/n6jhwy.mp4
+>Hohol steps on a landmine
+https://files.catbox.moe/idd56g.mp4
+>Russian shows butcher's bill from Artyomovsk
+https://files.catbox.moe/xordc3.mp4
 >Defender of the Fatherland Day MV (KINO)
 https://files.catbox.moe/yrng88.mp4
 >9 minutes of new Spetsnaz KINO (Extremely comfy)

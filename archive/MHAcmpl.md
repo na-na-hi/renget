@@ -732,6 +732,8 @@ The Daily Life of Satoru Tani 1: https://desuarchive.org/tg/post/91964939/
 The Daily Life of Satoru Tani 2: https://desuarchive.org/tg/post/91966001/
 The Daily Life of Satoru Tani 3: https://desuarchive.org/tg/post/91967769/
 Satoru Tani moments before tragedy: https://desuarchive.org/tg/post/91977984/
+Kaylee v Kaga: https://desuarchive.org/tg/post/92044140/
+Never Meet Your Heroes: https://desuarchive.org/tg/post/92044408/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4

@@ -79,3 +79,5 @@ Even if I kill myself now, what comes after is probably at this point just like 
 
 sega/sonic team - og sprites
 spriters resource - has the sprites ripped
+
+transparent curse take drawing - https://files.catbox.moe/z6fx9d.png

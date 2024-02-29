@@ -23,6 +23,38 @@
 
 &nbsp;
 
+# 📑 ➜ Browser Games
+
+### 🌐 [Addicting Games](https://www.addictinggames.com/)
+- One of the most popular gaming websites ever reaching more than ten million different users each month.
+- [URL Safety Results](https://www.urlvoid.com/scan/addictinggames.com/)
+
+### 🌐 [Arkadium Games](https://www.arkadium.com/)
+- A place where you may play free online games like cards, puzzles, crosswords, and a lot more.
+- [URL Safety Results](https://www.urlvoid.com/scan/arkadium.com/)
+
+### 🌐 [Cool Math Games](https://www.coolmathgames.com/)
+- Logic, reasoning, and math are combined with fun on this brain-training website for everyone.
+- [URL Safety Results](https://www.urlvoid.com/scan/coolmathgames.com/)
+
+### 🌐 [CrazyGames](https://www.crazygames.com/)
+- Best site to play top-notch browser games for free. Each day, new games are uploaded!
+- [URL Safety Results](https://www.urlvoid.com/scan/crazygames.com/)
+
+### 🌐 [Free Games Max](https://www.freegamesmax.com/)
+- Play the finest HTML5 games on your PC and smart device without having to download anything.
+- [URL Safety Results](https://www.urlvoid.com/scan/freegamesmax.com/)
+
+### 🌐 [io Games](https://iogames.space/)
+- Enjoy playing some of the best games from a vast collection that is updated every day.
+- [URL Safety Results](https://www.urlvoid.com/scan/iogames.space/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 ➜ Direct Downloads
 
 ### 🐐 [CS.RIN.RU: Steam Underground](https://cs.rin.ru/forum/) • Sign Up
@@ -33,6 +65,10 @@
 - Archive that preserves and provides downloads of old games from various platforms.
 - [URL Safety Results](https://www.urlvoid.com/scan/abandonwaregames.net/)
 
+### 🔗 [AtopGames](https://atopgames.com/)
+- Unaltered, preinstalled games sourced directly from sources such as ElAmigos, DODI, FitGirl, KaosKrew, and Xatab.
+- [URL Safety Results](https://www.urlvoid.com/scan/atopgames.com/)
+
 ### 🔗 [ElAmigos](https://elamigos.site/)
 - Every release is lossless, with no reencoding of the audio, video, or textures. A well-liked option for getting new PC games.
 - [URL Safety Results](https://www.urlvoid.com/scan/elamigos.site/)
@@ -40,6 +76,10 @@
 ### 🔗 [FS-Repacks](https://www.fluxyrepacks.site/)
 - Download your favorite games with just one click, and bid farewell to tedious setups.
 - [URL Safety Results](https://www.urlvoid.com/scan/fluxyrepacks.site/)
+
+### 🐐 [Game Bounty](https://gamebounty.world/)
+- Assorment of easily accessible pre-installed new and classic games for you to enjoy.
+- [URL Safety Results](https://www.urlvoid.com/scan/gamebounty.world/)
 
 ### 🔗 [Game-2u](https://game-2u.com/)
 - Fantastic resource for video game downloads, it is a vital source for PC and other platforms, including ROMs for consoles as well.
@@ -63,8 +103,8 @@
 - Not to be confused with [GameDrive](https://gamedrive.org/) above ↑
 - [URL Safety Results](https://www.urlvoid.com/scan/gamesdrive.net/)
 
-### 🔗 [GamesPCFull](https://gamepcfull.com/)
-- Several options for modern games from some of the releasers and crackers, like Tenoke, Goldberg, ElAmigos, etc.
+### 🔗 [GamePCFull](https://gamepcfull.com/)
+- Several options for modern games from some of the releasers and crackers, like Goldberg, and Tenoke.
 - [URL Safety Results](https://www.urlvoid.com/scan/gamepcfull.com/)
 
 ### 🔗 [gamezdl](https://gamezdl.cc/)
@@ -127,37 +167,9 @@
 - A sizable number of games are available for no cost, including GOG and other scene releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrminatorr.com/)
 
-&nbsp;
-
----
-
-&nbsp;
-
-# 📑 ➜ Browser Games
-
-### 🌐 [Addicting Games](https://www.addictinggames.com/)
-- One of the most popular gaming websites ever reaching more than ten million different users each month.
-- [URL Safety Results](https://www.urlvoid.com/scan/addictinggames.com/)
-
-### 🌐 [Arkadium Games](https://www.arkadium.com/)
-- A place where you may play free online games like cards, puzzles, crosswords, and a lot more.
-- [URL Safety Results](https://www.urlvoid.com/scan/arkadium.com/)
-
-### 🌐 [Cool Math Games](https://www.coolmathgames.com/)
-- Logic, reasoning, and math are combined with fun on this brain-training website for everyone.
-- [URL Safety Results](https://www.urlvoid.com/scan/coolmathgames.com/)
-
-### 🌐 [CrazyGames](https://www.crazygames.com/)
-- Best site to play top-notch browser games for free. Each day, new games are uploaded!
-- [URL Safety Results](https://www.urlvoid.com/scan/crazygames.com/)
-
-### 🌐 [Free Games Max](https://www.freegamesmax.com/)
-- Play the finest HTML5 games on your PC and smart device without having to download anything.
-- [URL Safety Results](https://www.urlvoid.com/scan/freegamesmax.com/)
-
-### 🌐 [io Games](https://iogames.space/)
-- Enjoy playing some of the best games from a vast collection that is updated every day.
-- [URL Safety Results](https://www.urlvoid.com/scan/iogames.space/)
+### 🔗 [Windows 7 Games](https://win7games.com/)
+- Delight in the enduring charm of Windows 7 games on Windows 8, 10, and 11 platforms.
+- [URL Safety Results](https://www.urlvoid.com/scan/win7games.com/)
 
 &nbsp;
 

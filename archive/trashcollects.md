@@ -2922,6 +2922,9 @@ https://files.catbox.moe/9io6z4.safetensors
 https://civitai.com/models/317578
 Direct DL: https://civitai.com/api/download/models/356175?type=Model&format=SafeTensor
 
+# Bibi the Failure Succubus (OC by o-den)
+https://pixeldrain.com/u/bd7RndpG
+
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
 

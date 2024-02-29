@@ -1,1 +1,3 @@
-![bow](https://gifs.crd.co/assets/images/gallery10/7e86efed_original.gif?v=d417d32b) %pink% *ೃ༄ %%  [%pink% *briar's urls* %%](/hoard)
+-> ![](https://64.media.tumblr.com/f12c68b1e15b6ec09baccb49574393c5/b702b6690dcc0b70-78/s640x960/d2d5b20b01584ad4c5489335e04567d7595212c9.pnj)
+[![this url has been claimed by briar! dot co slash hoard](https://64.media.tumblr.com/6b73cfd0c44739a94b80e198d5f6d488/b702b6690dcc0b70-87/s1280x1920/a98630f0f6f6d957237819709f5af8aeb91f0454.pnj)](/hoard)
+![](https://64.media.tumblr.com/f6f89f10904330b1a73da7d9ecbe9891/b702b6690dcc0b70-60/s640x960/c09c34fa2b7aa96ad76e958631efbad7622f4d61.pnj) <-

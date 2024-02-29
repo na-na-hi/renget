@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=dQFw_-55pZ4
 https://www.youtube.com/watch?v=cRcAoPrw1R0
 https://www.youtube.com/watch?v=2s0fTApRGTk
 
-\>Current Character Banners: (Black Swan, Imbibitor Lunae + Misha, Tingyun, Guinaifen) - https://www.hoyolab.com/article/24943079
-\>Current Light Cone Banners: Reforged Remembrance (Nihility), Brighter Than the Sun (Destruction) - https://www.hoyolab.com/article/24943321
+\>Current Character Banners: (Sparkle, Jing Yuan + Hanya, Qingque, Sampo) - https://www.hoyolab.com/article/25550561
+\>Current Light Cone Banners: Earthly Escapade (Harmony), Before Dawn (Erudition) - https://www.hoyolab.com/article/25550638
 
 \>New Drip Marketing:
 \>Acheron (5\* Lightning Nihility) - https://www.hoyolab.com/article/24541891
@@ -32,6 +32,7 @@ https://www.youtube.com/watch?v=2s0fTApRGTk
 \>Gallagher (4\* Fire Abundance) - https://www.hoyolab.com/article/24578989
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
+SB87P52BTVQ3 (NEW)
 6B976L2STURF
 STARRAILGIFT
 DIVEINTODREAMS

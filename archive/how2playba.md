@@ -1,7 +1,8 @@
 # /bag/ Newfag guide
 **EVENT GUIDE FOR THE CARD GAME:**
 Do 1 card and refresh (higher rate of eligma) or pull until you get 1 gold/purple card (higher rate of T3/T4 artifacts). That's it.
-It's not rocket science stop asking. 
+Just b urself bro, it's not rocket science. Stop asking.
+
 
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 
