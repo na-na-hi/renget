@@ -51,6 +51,18 @@
 
 &nbsp;
 
+# 📑 ➜ Desktop Apps
+
+### 🔗 [Miru](https://miru.watch/)
+- Easily access anime through streamed torrents without download delays for instant viewing pleasure.
+- [URL Safety Results](https://www.urlvoid.com/scan/miru.watch/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 ➜ Direct Downloads
 
 ### 🔗 [Anime Tosho](https://animetosho.org/)

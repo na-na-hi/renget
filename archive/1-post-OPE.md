@@ -11,12 +11,12 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Demonologist collab with Shiori and Bijou, Wed 02/28 7PM CT)
+Next stream ("Twilight: New Moon" watchalong with Shiori and Iofi on Shiori's channel, Thu 02/29 9PM CT)
+https://www.youtube.com/watch?v=Bc75OYcIXFU
+Last stream (Demonologist collab with Shiori and Bijou, Wed 02/28 7PM CT)
 https://www.youtube.com/watch?v=wJYcFg2GL5Y
-Last appearance (Kiara's Palworld stream)
+Previous appearance (Kiara's Palworld stream)
 https://www.youtube.com/watch?v=3BWgFF9hO4s&t=2340s
-Last stream ("Twilight" watchalong with Shiori and Iofi, Tue 02/27 9PM CT)
-https://www.youtube.com/watch?v=nS8_ck2OJ38
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID
@@ -69,7 +69,7 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to get your movie for the upcoming watchalong of "The Twilight Saga: New Moon" on Shiori's channel tomorrow.
+Remember to get your movie for the upcoming watchalong of "The Twilight Saga: New Moon" on Shiori's channel later today.
 
 Anon's MEGA link, 2GB, 1080p
 https://mega.nz/folder/k2tUyRKQ#9W80fZyLF9LPr7OKuaIq3g

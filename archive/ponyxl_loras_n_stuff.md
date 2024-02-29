@@ -198,6 +198,7 @@ https://files.catbox.moe/vqpfo5.safetensors haru57928031 might need extra streng
 https://files.catbox.moe/kkuo6l.safetensors tanemura_arina
 https://files.catbox.moe/warwm8.safetensors buzzlyears
 https://files.catbox.moe/0nwcg0.safetensors fluffydango
+https://files.catbox.moe/th6867.safetensors tangobat
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
@@ -271,8 +272,8 @@ https://files.catbox.moe/9sc9aj.safetensors character_hiragi_kagami example gens
 https://files.catbox.moe/p8pc8o.safetensors character_takarada_rikka doesn't seem to have an activation trigger, just will make any girls you gen into her
 https://files.catbox.moe/0520b4.safetensors character_ashley_warioware activation trigger is ashely, looks like the images all had 1girl in the prompt as well
 https://files.catbox.moe/0r3b9z.safetensors character_beatrice_rezero doesn't seem to have a trigger for the character
-https://files.catbox.moe/twvwyp.safetensors character_sparkle_honkai_star_rail looks like sparkle_(honkai: star rail) is the activcation trigger
-
+https://files.catbox.moe/xv8o6t.safetensors character_sparkle_honkai_star_rail looks like sparkle_(honkai: star rail) is the activation trigger, example gens: https://files.catbox.moe/fz15l8.png, https://files.catbox.moe/mvxmzo.png, https://files.catbox.moe/tpwdsm.png
+https://files.catbox.moe/26s9wl.safetensors character_purah activation trigger is purah. example gen: https://files.catbox.moe/8oh179.png
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
 

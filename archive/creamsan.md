@@ -78,17 +78,17 @@ See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 Card | Link | Version | Update Notes
 --- | --- | --- | ---
-Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-28-24 | ***Updated***
+Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-28-24 | 
 Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv2.json) | Jan-20-24 | 
 Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Feb-9-24 | 
-Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Feb-3-24 |
-Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Feb-9-24 | 
+Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Feb-29-24 | ***Updated***
+Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Feb-29-24 | ***Updated***
 Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Feb-9-24 | 
 Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Feb-9-24 | 
 Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Feb-11-24 | 
 Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Feb-9-24 | 
-Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-28-24 | ***Updated***
-Sini | [QR preset](https://creamsan.neocities.org/files/presets/sini.json) | Feb-28-24 | ***New***
+Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-28-24 | 
+Sini | [QR preset](https://creamsan.neocities.org/files/presets/sini.json) | Feb-29-24 | ***Updated***
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS

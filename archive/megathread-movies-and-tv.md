@@ -77,9 +77,9 @@
 - No pop-ups, or captchas; just stream and download movies, TV episodes, and some anime.
 - [URL Safety Results](https://www.urlvoid.com/scan/vadapav.mov/)
 
-### 🔗 [Vegamovies](https://vegamovies.ngo/)
+### 🔗 [Vegamovies](https://vegamovies.ong/)
 - Hassle-free direct download of Bollywood and Hollywood movies, with a user-friendly interface.
-- [URL Safety Results](https://www.urlvoid.com/scan/vegamovies.ngo/)
+- [URL Safety Results](https://www.urlvoid.com/scan/vegamovies.ong/)
 
 &nbsp;
 

@@ -26,23 +26,6 @@ veryscrappy.moe
 
 follow my tumblr: veryscrappy.tumblr.com (xe/they/he/she :3)
 
-Spiters/token sharers (I'm pretty sure):
-&nbsp;|Email
----|---
-|gensokyo_jihad@proton.me
-|cptpants@proton.me
-|scarydeathguy@gmail.com
-|imadeamonkey@cumallover.me
-|fetidfella@proton.me
-|piixi@proton.me
-|bubblesandmarbles@proton.me
-|thgrrosa@proton.me
-|IhaveDiarrheaaaa@proton.me
-|praisebetoallah2023@proton.me
-|prototypicalhorse@proton.me
-|masakit318@protonmail.com
-
-
 Final stats:
 !!!Note 379 users | 383965 proompts | 2662 IPs | 3.463b tokens | US$41043.02 cost
     Initial donation: $30 = ~1337x value

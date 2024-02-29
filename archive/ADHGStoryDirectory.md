@@ -823,6 +823,12 @@ https://www.sofurry.com/view/1936557
 
 ###PapaDelta
 
+>Karaoke Coercion
+- [x] Completed
+
+https://www.sofurry.com/view/2109253
+https://archiveofourown.org/works/54097054
+
 >Mean Clean Yeen (ADHG)
 - [x] Completed
 

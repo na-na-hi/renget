@@ -23,6 +23,46 @@
 
 &nbsp;
 
+# 📑 ➜ Browser Reading
+
+### 📒 [Comic Extra](https://comicextra.me/)
+- Large database of Marvel, DC, and Dark Horse comics is available online for free reading.
+- [URL Safety Results](https://www.urlvoid.com/scan/comicextra.me/)
+
+### 📒 [NovelBuddy](https://novelbuddy.com)
+- Read light novels in English that are updated daily in Japan, Korea, and China.
+- [URL Safety Results](https://www.urlvoid.com/scan/novelbuddy.com/)
+
+### 📒 [Project Gutenberg](https://www.gutenberg.org/)
+- Founded in 1971, this source has continued to offer further materials such as Kindle ebooks.
+- [URL Safety Results](https://www.urlvoid.com/scan/gutenberg.org/)
+
+### 📒 [ReadComicOnline](https://readcomiconline.li/)
+- Comic books may be read for free with quick updates every day with different reading styles.
+- [URL Safety Results](https://www.urlvoid.com/scan/readcomiconline.li/)
+
+### 📒 [Xoxocomics](https://xoxocomics.com/)
+- Website for free comic book access, often updated with excellent scans for simple navigation.
+- [URL Safety Results](https://www.urlvoid.com/scan/xoxocomics.com/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
+# 📑 ➜ Desktop Apps
+
+### 🔗 [HakuNeko](https://hakuneko.download/)
+- Cross-platform manga and anime downloader allows you to save material for offline usage from a variety of websites.
+- [URL Safety Results](https://www.urlvoid.com/scan/hakuneko.download/)
+
+&nbsp;
+
+---
+
+&nbsp;
+
 # 📑 ➜ Direct Downloads
 
 ### 🐐 [Anna's Archive](https://annas-archive.org/)
@@ -137,46 +177,6 @@
 ### 🐐 [Z-Library](https://singlelogin.re/) / [2](https://zlibrary-global.se/) • Sign Up
 - File-sharing effort for scholarly journal articles, academic texts, and general-interest books.
 - [URL Safety Results](https://www.urlvoid.com/scan/singlelogin.re/)
-
-&nbsp;
-
----
-
-&nbsp;
-
-# 📑 ➜ Browser Reading
-
-### 📒 [Comic Extra](https://comicextra.me/)
-- Large database of Marvel, DC, and Dark Horse comics is available online for free reading.
-- [URL Safety Results](https://www.urlvoid.com/scan/comicextra.me/)
-
-### 📒 [NovelBuddy](https://novelbuddy.com)
-- Read light novels in English that are updated daily in Japan, Korea, and China.
-- [URL Safety Results](https://www.urlvoid.com/scan/novelbuddy.com/)
-
-### 📒 [Project Gutenberg](https://www.gutenberg.org/)
-- Founded in 1971, this source has continued to offer further materials such as Kindle ebooks.
-- [URL Safety Results](https://www.urlvoid.com/scan/gutenberg.org/)
-
-### 📒 [ReadComicOnline](https://readcomiconline.li/)
-- Comic books may be read for free with quick updates every day with different reading styles.
-- [URL Safety Results](https://www.urlvoid.com/scan/readcomiconline.li/)
-
-### 📒 [Xoxocomics](https://xoxocomics.com/)
-- Website for free comic book access, often updated with excellent scans for simple navigation.
-- [URL Safety Results](https://www.urlvoid.com/scan/xoxocomics.com/)
-
-&nbsp;
-
----
-
-&nbsp;
-
-# 📑 ➜ Desktop Apps
-
-### 🔗 [HakuNeko](https://hakuneko.download/)
-- Cross-platform manga and anime downloader allows you to save material for offline usage from a variety of websites.
-- [URL Safety Results](https://www.urlvoid.com/scan/hakuneko.download/)
 
 &nbsp;
 

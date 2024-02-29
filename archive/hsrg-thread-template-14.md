@@ -7,10 +7,6 @@ Previous: >>
 
 \>2.0 Preview Page - https://act.hoyoverse.com/sr/event/e20240126version-pp3ay8/index.html
 
-\>Version 2.0 "If One Dreams At Midnight" Special Program
-https://www.youtube.com/watch?v=WHwBqhMlo3I
-https://www.youtube.com/watch?v=2iRam7fnPrg
-
 \>Version 2.0 Music Video — "WHITE NIGHT"
 https://www.youtube.com/watch?v=U7W8QR9fsFw
 https://www.youtube.com/watch?v=KdbnaBhJs6Y
@@ -22,6 +18,10 @@ https://www.youtube.com/watch?v=-FrbSYzlqdU
 \>Myriad Celestia Trailer — "Sparkle: Behind the Curtain" 
 https://www.youtube.com/watch?v=IpuQvbTwCWU
 https://www.youtube.com/watch?v=dQFw_-55pZ4
+
+\>A Moment Among the Stars — "Sparkling Tricks" 
+https://www.youtube.com/watch?v=cRcAoPrw1R0
+https://www.youtube.com/watch?v=2s0fTApRGTk
 
 \>Current Character Banners: (Black Swan, Imbibitor Lunae + Misha, Tingyun, Guinaifen) - https://www.hoyolab.com/article/24943079
 \>Current Light Cone Banners: Reforged Remembrance (Nihility), Brighter Than the Sun (Destruction) - https://www.hoyolab.com/article/24943321

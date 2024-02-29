@@ -48,6 +48,7 @@
 📋 **NAME** | 🪢 **URL** (*Unclickable*) | 🚩 **DANGER**
 ------ | ------ | ------
 **AniMixPlay** | Every single domain | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
+**Moopa** | moopa-live | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Zoro** | Every single domain | **Fake clone**: (*Crafted with cunning intent to ensnare unsuspecting users through deliberate deception*).
 
 &nbsp;

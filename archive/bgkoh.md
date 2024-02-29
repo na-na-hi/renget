@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 13 | **Experience to Next Level:** 5/130
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 134P | **Glorious Gold:** 0 Bars
+**Pokécoin:** 164P | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description

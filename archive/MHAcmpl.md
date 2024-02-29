@@ -1204,6 +1204,7 @@ Messages From The Star (Seiryu, Yoshizumi): https://rentry.org/7rw4bbwc
 Hearts Afire (Seiryu, Yamata, Blast Burn, Yamamoto): https://rentry.org/ewpc5tz3
 A Hero Student's Uncertain Dating Prospects (Beach Day, Slip-n-Slideasaurus, Cube): https://rentry.org/DatingProspects
 Frameless (Smokin' Sexy, Ryu-Kishi, Mirror Devil): https://rentry.org/u8snakxr
+The Symbol of Death: Part 4 (Reaper, Forget-Me-Not, Feral, Drekus, Ookami Shizuka, The Prophet): https://rentry.org/igwpicub
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

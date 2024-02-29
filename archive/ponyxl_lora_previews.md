@@ -440,6 +440,9 @@ https://files.catbox.moe/warwm8.safetensors buzzlyears
 [![1girl no scores](https://files.catbox.moe/mlgmx4.png)](https://files.catbox.moe/a76evf.png)[![1girl scores](https://files.catbox.moe/9oapp8.png)](https://files.catbox.moe/svg1y3.png)[![chun-li no scores](https://files.catbox.moe/x4n0gz.png)](https://files.catbox.moe/2g2rpj.png)[![2b score_9 only](https://files.catbox.moe/j131k4.png)](https://files.catbox.moe/71zkxr.png)[![korra scores](https://files.catbox.moe/vdkvii.png)](https://files.catbox.moe/7jdf9b.png)
 https://files.catbox.moe/0nwcg0.safetensors fluffydango
 
+[![1girl no scores](https://files.catbox.moe/22nbeu.png)](https://files.catbox.moe/jepnjt.png)[![1girl scores](https://files.catbox.moe/ibugbg.png)](https://files.catbox.moe/a5wcyg.png)[![chun-li no scores](https://files.catbox.moe/bbxj91.png)](https://files.catbox.moe/k1j7xg.png)[![2b score_9 only](https://files.catbox.moe/1q212a.png)](https://files.catbox.moe/hmonsz.png)[![korra scores](https://files.catbox.moe/s5s8ix.png)](https://files.catbox.moe/b2e9k7.png)
+https://files.catbox.moe/th6867.safetensors tangobat
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

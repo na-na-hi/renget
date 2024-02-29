@@ -447,6 +447,8 @@ https://rentry.org/MHACards
 New Writefag:
 >Frameless (Smokin' Sexy, Ryu-Kishi, Mirror Devil):
 https://rentry.org/u8snakxr
+>The Symbol of Death: Part 4 (Reaper, Forget-Me-Not, Feral, Drekus, Ookami Shizuka, The Prophet) 
+https://rentry.org/igwpicub
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1034,6 +1036,8 @@ https://rentry.org/ewpc5tz3
 https://rentry.org/DatingProspects
 >Frameless (Smokin' Sexy, Ryu-Kishi, Mirror Devil):
 https://rentry.org/u8snakxr
+>The Symbol of Death: Part 4 (Reaper, Forget-Me-Not, Feral, Drekus, Ookami Shizuka, The Prophet) 
+https://rentry.org/igwpicub
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

@@ -268,13 +268,13 @@ You can change these, especially the token context and output. But for the rest,
 ### First part of the prompt
 !!! danger DO NOT MESS WITH ANY OF THESE!
 !!! note BUT! You can turn the NSFW prompt on or off as needed. There's already a small, simple prompt inside the main jailbreak, so the NSFW prompt is for enforcement and more detailed `<rules>`. **Recommend to keep it off unless needed.**
-![](https://cdn.discordapp.com/attachments/1111528622478598206/1187449093639897088/Screenshot_2023-12-22_003725.png?ex=6596ed25&is=65847825&hm=9633a31e2c34731ecbbb8c8fa2acfd4a8e338a49e2fa379d5a4b1ee767494f42&)
+[1st](https://cdn.discordapp.com/attachments/1111528622478598206/1187449093639897088/Screenshot_2023-12-22_003725.png?ex=6596ed25&is=65847825&hm=9633a31e2c34731ecbbb8c8fa2acfd4a8e338a49e2fa379d5a4b1ee767494f42&)
 
 ----
 
 ### Second part of prompt
 !!! note CoT and CoT? (shorter ver) are experimental tests, they are currently not optimized and messy They may not always work. They're made written from the POV of Char themselves instead of AI answering them. However, in-character writing works better with GPT compared to Claude. For more info about CoT, you may check my friend's (rarestMeow) rentry [here](https://rentry.org/vcewo).
-![](https://media.discordapp.net/attachments/1111528622478598206/1187457540733292625/Screenshot_2023-12-22_011131.png?ex=6596f503&is=65848003&hm=41942e343aad8c782d39c0b5bb33b2ac2fb728065a7b5c94a7749ab0bee03134&=&format=webp&quality=lossless&width=888&height=585). 
+[2nd](https://media.discordapp.net/attachments/1111528622478598206/1187457540733292625/Screenshot_2023-12-22_011131.png?ex=6596f503&is=65848003&hm=41942e343aad8c782d39c0b5bb33b2ac2fb728065a7b5c94a7749ab0bee03134&=&format=webp&quality=lossless&width=888&height=585). 
 
 These are the optional prompts that you can turn on or off as you like. If you want to add more, simply create a new prompt and warp the text with `<request>` tag.
 
@@ -283,7 +283,7 @@ If you have troubles on getting past positivity bias, please turn on the **Darke
 ### Third part of prompt
 !!! danger Please **DO NOT** change the injection type and depth!
 !!! 
-![](https://cdn.discordapp.com/attachments/1111528622478598206/1187457540431282327/Screenshot_2023-12-22_011147.png?ex=6596f503&is=65848003&hm=dafebc6b4bf5939f0e652164f3661824d88fb2c3b7d433a762f7b5a5fb63fd03&)
+[3rd](https://cdn.discordapp.com/attachments/1111528622478598206/1187457540431282327/Screenshot_2023-12-22_011147.png?ex=6596f503&is=65848003&hm=dafebc6b4bf5939f0e652164f3661824d88fb2c3b7d433a762f7b5a5fb63fd03&)
 
 Personalized narrative style is a way to force AI to modify the response's speech and writing style to match with Char. Works best with first person POV. Examples are provided above at **Features**. Works even better if there are details of Char's mannerism, ticks, speech pattern, etc., on `<card>`
 

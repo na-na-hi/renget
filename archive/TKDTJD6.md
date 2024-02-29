@@ -2464,3 +2464,173 @@ https://t.me/QudsNen/97321    2/27/24
 
 >Reuters: Senators demand that Biden obtain authorization from Congress for continued military action in #Yemen
 https://t.me/me_observer_channel/157814  2/27/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 27 (2024), against (US)-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Targeted a D9-bulldozer with Yassin 105s, causing it to catch fire, north of the Musab bin Umair Mosque, east of Al-Zaytoun neighborhood, Gaza City.
+
+🔻Destroyed a Merkava tank with a Yassin 105 rocket, in the vicinity of Al-Musallabah area, Al-Zaytoun neighborhood, Gaza City.
+
+🔻Shelled a gathering of invading IOF forces around Al-Musallabah area, Al-Zaytoun neighborhood, east of Gaza City, with mortars.
+
+🔻Targeted a Merkava tank with a Yassin 105 rocket, in Al-Baldah area, Khan Yunis city, southern Gaza Strip.
+
+🔻Engaged in intense clashes with the IOF forces, between Streets 8 and 9, south of Al-Zaytoun neighborhood, Gaza City.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled Askalan and Gaza envelope settlements with rocket salvos.
+
+🔻Destroyed a military vehicle with a "Thaqqib - Barrel" explosive device around the Doulah Junction, south of Al-Zaytoun neighborhood, Gaza City.
+
+🔻Destroyed a military vehicle with a "Thaqqib" explosive device in Al-Sikka Street, east of Al-Zaytoun neighborhood, Gaza City.
+
+🔻Ambushed an IOF force, causing casualties between killed and wounded, in a well-prepared precise ambush inside a pre-rigged building which got blown up using an F-16 aircraft unexploded rocket, in the vicinity of Doulah Junction, south of Al-Zaytoun neighborhood, Gaza City.
+
+🔻Shelled, with 60-caliber mortar shells, a gathering of IOF soldiers near the mosque of Ali, southwest of Al-Zaytoun neighborhood, Gaza City.
+
+🔻Shelled with 60-caliber mortar shells a gathering of IOF soldiers around the Ali Mosque, south-west of Al-Zaytoun neighborhood, Gaza City.
+
+— 🇵🇸 Al-Aqsa Martyrs Brigades:
+
+🔻Destroyed a military vehicle with an "Asif" explosive device, followed by targeting it with a RPG rocket, immediately setting it on fire in Al-Zaytoun neighborhood, southeast of Gaza City.
+
+🔻Shelled with 60-caliber mortar shells a gathering of IOF soldiers in the axis around Doulah Junction, south of Al-Zaytoun neighborhood, Gaza City.
+
+🔻Shelled a gathering of IOF soldiers in the axis north of Musab bin Umair Mosque, east of Zaytoun neighborhood, with 60-calibe mortar shells.
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Destroyed a Merkava-4 tank with a tandem rocket, in the southern axis of Al-Zaytoun neighborhood.
+
+🔻Targeted a military vehicle with an anti-tank rocket in the axis of Al-Zaytoun, Gaza City.
+
+🔻Engaged in fierce clashes with IOF vehicles and soldiers using appropriate and diverse weapons in the axes in Al-Zaytoun neighborhood in Gaza City, achieving direct casualties.
+
+— 🇵🇸 Abu Ali Mustafa Brigades:
+
+🔻Targeted IOF tactical formations, east of Gaza and the combat axis in Al-Zaytoun neighborhood with mortar shells.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the Ruwaisat Al-Alam in the occupied Shebaa farms with appropriate weapons.
+
+🔻Targeted the Meron Air Surveillance Base on Mount Jarmaq with a large rocket barrage from several launchers.
+
+🔻Targeted the Meron Control, Command, and Air Surveillance Base, for a 2nd time, with a batch of anti-tank missiles (ATGMs), resulting in damage to part of its technical and espionage equipment, destroying it completely.
+
+🔻Targeted the espionage equipment at the Al-Ramtha site in the occupied Shebaa Farms with appropriate weapons.
+
+🔻Targeted a gathering of Israeli soldiers on the Al-Tayhat Hill with appropriate weapons, achieving direct hits.
+
+🔻Targeted the Al-Marj site with rockets, hitting it directly.
+
+🔻Targeted the command headquarters of the 146th division in Ga’aton, with dozens of Katyusha rockets, achieving direct hits.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762643994390004167#m  2/28/24
+
+>⚡️WATCH: Al-Quds Brigades published a video showing the joint-operation with the Nasser Salah al-Din Brigades shelling, with mortar launches, the gatherings of IOF soldiers and vehicles around the Eastern Cemetery, east of Jabalia.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762779018862928195#m  2/28/24  
+https://files.catbox.moe/7kyprc.mp4  2/28/24  
+
+>The British-owned “RUBYMAR” ship is still sinking in the Gulf of Aden.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762780759201394873#m  2/28/24  
+
+>They did it AGAIN … An IOF soldier was moderately injured this morning as a result of a military vehicle OVERTURNING in Hermon, 2 other soldiers were also injured. They were evacuated to hospitals.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762810167932989538#m  2/28/24  
+
+>🛑 Mujahideen Brigades: 
+
+Sniped an israeli soldier in the axis south of the Al-Zaytoun neighborhood in Gaza City. 
+(Illustrative image)
+https://nitter.esmailelbob.xyz/AryJeay/status/1762820740519223696#m  2/28/24  
+
+>⚡️MUST WATCH: Al-Qassam Brigades published a video showing its clashes with IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+
+Translations:
+
+"In continuation of what the victorious brigades did in Southern Lebanon, we continue to strike enemy concentrations on the fighting fronts in Gaza City."
+
+"God willing, the enemy concentrations present in the Al-Zaytoun neighborhood will now be destroyed. Oh God, guide our aim."
+
+"We never get defeated, we either win or die."
+
+"In the name of God, God is Great, Reply upon God."
+
+-Throwing smoke bombs at the area to cover the injured and dead.
+
+-Monitoring enemy aircraft while evacuating dead and wounded enemy soldiers.
+
+(Translations by @Aya_seadawi14)
+https://nitter.esmailelbob.xyz/AryJeay/status/1762893914250395752#m  2/28/24  
+https://files.catbox.moe/wm9aop.mp4  2/28/24  
+
+>"The Prime Minister of Israel is carrying out a genocide against women and children. This is a historical fact."
+
+President of Brazil  Lula Da Silva doubles down on previous statements criticizing Israel even after Israel's repeated requests for an apology.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762871551580336282#m  2/28/24  
+https://files.catbox.moe/t80grr.mp4  2/28/24  
+
+>The Municipality of Gaza: Israel turned Gaza into a devastated city and destroyed facilities and services, reaching unprecedented levels of destruction in modern times. 
+
+Nearly one million square meters of roads were destroyed, 55,000 trees were uprooted, and 40 water wells were destroyed, accounting for 60% of the city's wells.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762853847494512933#m  2/28/24  
+
+>BREAKING| The spokesman for the Ministry of Health, Ashraf Al Qudra: 
+
+⭕️Two children passed away in Al Shifa Hospital as a result of malnutrition.
+
+⭕️The number of victims of starvation among children has risen to 6.
+
+⭕️We demand immediate action from international organizations to prevent the humanitarian disaster in the northern Gaza Strip.
+
+⭕️The international community faces a moral and humanitarian test to halt the genocide, committed by Israel in the Gaza Strip.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762912086646989240#m  2/28/24  
+
+>⚡️#Syria - Other scenes of the Zionist raid
+The fire appears from a place very far from the site of the raid, indicating that the enemy is using highly destructive missiles
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762915959680156015#m  2/28/24  
+
+>BREAKING:
+
+⚡ 🇩🇪🇺🇲 German warship Hessen fired on U.S. UAV
+
+German warship's radar systems incorrectly recognized an UAV circling overhead as hostile. 
+
+Then fired two missiles at it.
+
+It was a US Army MQ-9 Reaper UAV.
+
+But both German SM2 interceptor missiles malfunctioned and fell into the sea.
+
+Via @clashreport
+https://nitter.esmailelbob.xyz/Megatron_ron/status/1762890256074842411#m  2/28/24  
+
+>⚡️⚡️Syria: Al-Mayadeen correspondent in #Damascus: Two batches of missiles targeting the Sayyida Zeinab area, south of the #Syrian capital
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762919291530191066#m  2/28/24  
+
+>Syria's SANA news agency says israeli fighter jets carried out bombardments near Damascus, causing material losses only. Syrian air defenses shot down most of the missiles.
+https://nitter.esmailelbob.xyz/AryJeay/status/1762931083652256057#m  2/28/24  
+
+>⚡️⚡️Lebanon: Al-Mayadeen correspondent in southern #Lebanon: A missile salvo was launched from #Lebanon towards the finger of Galilee
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762933000071717083#m  2/28/24  
+
+>BREAKING| The Ministry of Health: Residents of northern Gaza are now without any health services after Kamal Adwan Hospital went out of service.
+https://nitter.esmailelbob.xyz/QudsNen/status/1762933839385477125#m  2/28/24  
+
+>Answering a question about airdrops and if the US is willing to airdrop humanitarian aid to Palestinians in northern Gaza, who are being starved by Israel, White House Press Secretary Karine Jean-Pierre, says "This is why it is important to get a hostage deal."
+https://nitter.esmailelbob.xyz/QudsNen/status/1762945856653697090#m  2/28/24  
+https://files.catbox.moe/5y7034.mp4  2/28/24  
+
+>White House Press Secretary Karine Jean-Pierre says Biden's administration will not change its policies, backing Israel's genocide in Gaza "but what we can do is get to a temporary ceasefire."
+https://nitter.esmailelbob.xyz/QudsNen/status/1762955137914405234#m  2/28/24  
+https://files.catbox.moe/k6tslu.mp4  2/28/24  
+
+>⚡️Al-Manar correspondent:
+
+Since 7:30 pm until this time, the Zionist artillery and smoke bombardment has not stopped on the town of #Hula and its four outskirts.
+Note that the hostile bombing also targeted the towns of #Mays_al-Jabal, #Markaba, and the “Al-Awaida” hill on the outskirts of #Taybeh
+https://nitter.esmailelbob.xyz/ME_Observer_/status/1762951563113316664#m  2/28/24

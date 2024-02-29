@@ -65,6 +65,10 @@ https://files.catbox.moe/ngi2mu.mp4  New  2/25/24
 >Mujahideen Brigades published a video showing the operation that targeted an IOF military bulldozer with a Saeer anti-tank missile
 https://files.catbox.moe/ubiziq.mp4  New  2/27/24
 
+>MUST WATCH: Al-Qassam Brigades published a video showing its clashes with IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+New  2/28/24
+https://files.catbox.moe/wm9aop.mp4  New  2/28/24
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Hezbollah Video's 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -145,6 +149,9 @@ https://files.catbox.moe/uuk2uf.mp4  New  2/24/24
 
 >WATCH: Al-Quds Brigades published a video showing the successful sniping of an IOF soldier, in the axis east of Khan Yunis.
 https://files.catbox.moe/v6y4oh.mp4  New  2/27/24
+
+>WATCH: Al-Quds Brigades published a video showing the joint-operation with the Nasser Salah al-Din Brigades shelling, with mortar launches
+https://files.catbox.moe/7kyprc.mp4 New  2/28/24
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -382,3 +389,9 @@ https://files.catbox.moe/veknp5.mp4  New  2/26/24
 https://files.catbox.moe/b4o55p.mp4  New  2/26/24
 >An occupation army helicopter carrying wounded soldiers landed in a hospital in occupied #Jerusalem
 https://files.catbox.moe/54s8di.mp4  New  2/27/24
+>President of Brazil  Lula Da Silva doubles down on previous statements criticizing Israel even after Israel's repeated requests for an apology.
+https://files.catbox.moe/t80grr.mp4 New  2/28/24
+>Answering a question about airdrops and if the US is willing to airdrop humanitarian aid to Palestinians in northern Gaza, who are being starved by Israel, White House Press Secretary Karine Jean-Pierre, says "This is why it is important to get a hostage deal."
+https://files.catbox.moe/5y7034.mp4 New  2/28/24 
+>White House Press Secretary Karine Jean-Pierre says Biden's administration will not change its policies, backing Israel's genocide in Gaza "but what we can do is get to a temporary ceasefire."
+https://files.catbox.moe/k6tslu.mp4 New  2/28/24

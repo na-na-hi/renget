@@ -73,7 +73,7 @@
 
 ##可选插件DLC：
 !!! info 以下文字版更新较慢，如需最新版下载自用预设中的全局世界书
-- **随机事件DLC（测试中）：**
+- **随机事件DLC：**
 > **使用说明：**放入全局世界书，设置常数，作者注释之后，适当提高排序，概率设置为10-20或自行测试
 ``` html
 ## The “<RandomEvent>” is the rule for generating random events.
@@ -84,10 +84,11 @@
 3. Random events can be positive or negative.
 </RandomEvent>
 ```
-- **插图DLC（测试中 - 需要最新版酒馆）：**
+- **插图DLC：**
 > **使用说明：**先上传图片到[catbox](https://catbox.moe)，然后将说明+后缀填入`<illustration_list>`，说明请使用汉字等非数字字母，以下为示例
 > 
 > ==正则(regex)== （从上到下依次排列）`/<(illustration|img)>.*[^0-9A-Za-z\.\s</>]+/gm`替换为`<center><img src=https://files.catbox.moe/`；`/<\/(illustration|img)>/g`替换为`? width=50% /></center>`（50%可以修改为你需要的图片宽度）所有正则同时勾选用于AI output 和 Only Format Display
+> ==酒馆≥1.11.5正则== [1.11.5专用正则下载](https://files.catbox.moe/t8o9ix.json)
 ``` html
 ## The “<illustration>” is the rule for inserting illustrations.
 <illustration>
@@ -100,6 +101,7 @@ format: <img>{{filename}}</img>
 高兴: 高兴h1te9t.png
 害怕: 害怕5enlof.png
 生气: 生气zsr78z.png
+Angry: Angry_zsr78z.png （英文写法示例，注意加上下划线等符号分隔）
 </illustration_list>
 ```
 - **音频DLC（使用方法参照插图DLC）：**
@@ -142,7 +144,7 @@ Format: <audio>{{filename}}</audio>
 >> Find Regex: `/(<\/?audio>)?<\|deleteaudio\|>(<\/?audio>)?/gm`
 >> 替换为空
 
-- **通用状态栏DLC（测试中）：**
+- **通用状态栏DLC：**
 > **使用说明：先去除下面\`\`\`前的`\`**，放入全局世界书中，关键字\`\`\`json，次要关键字</status>，插入字符定义后，Rule项可自行添加修改，然后将Form项中的内容（<status>到</status>，包括这两个tags）**填上内容数值后**放入角色第一句（选择json是为了显示颜色，可以任意更换其他格式）
 >
 > ==注意== 
