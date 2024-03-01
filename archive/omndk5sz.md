@@ -10,11 +10,11 @@
 	Hello to you, the loveliest place in our world!
 	——Lyrics of the Sami Tourism jingle, produced by Columbian Caravan International Travel Agency
 
-Many readers who live in the mobile cities of Victoria and Columbia have heard this song before. Recently, a nubmer of Sami tourism promotion campaigns have been launched on TV an intercity networks. Most people first heard word "Sami" in these advertisements. The ads were apparently so successful that companies don't need them anymore — each summer tourists sign up in masses to board ships to the resort town of Chapatt or several other well-known northern attractions. These people are willing to spend a lot of money and more than a week on the bumpy road to experience (or re-experience) the charm of "the loveliest place in our world".
+Many readers who live in the mobile cities of Victoria and Columbia have heard this song before. Recently, a nubmer of Sami tourism promotion campaigns have been launched on TV an intercity networks. Most people first heard word "Sami" in these advertisements. The ads were apparently so successful that companies don't need them anymore — each summer tourists sign up in masses to board ships to the resort town of Cappat or several other well-known northern attractions. These people are willing to spend a lot of money and more than a week on the bumpy road to experience (or re-experience) the charm of "the loveliest place in our world".
 
 I was among them. Indeed, that trip was great.
 
-But the purpose of this article is not to discuss the quality of Sami tourism. To be honest with you, I have already been to Sami, long before the first stakes of the first wooden house in Chapat-Gavuli were brought to the shores of Lake Chuaviali, even long before the lake received its name (that can be roughly translated as "the horned beast"). Although that visit was not intended, it seems now that It was to some extent a "blessing in disguise". It was the insights I gained during that trip that allowed me to actually complete this article and present it to readers. Let me introduce you a real Sami outside the tourist area.
+But the purpose of this article is not to discuss the quality of Sami tourism. To be honest with you, I have already been to Sami, long before the first stakes of the first wooden house in Cappat-Gavuli were brought to the shores of Lake Chuaviali, even long before the lake received its name (that can be roughly translated as "the horned beast"). Although that visit was not intended, it seems now that It was to some extent a "blessing in disguise". It was the insights I gained during that trip that allowed me to actually complete this article and present it to readers. Let me introduce you a real Sami outside the tourist area.
 
 ##Overview
 
@@ -48,7 +48,7 @@ Recently, another power emerged in the Sami region: the Columbian Union. Unlike 
 !!! note Kal'tsit notes:
 	The Cyclops most likely forsaw the arrival of Columbians in their prophecies and had to show themselves to warn them from entering the forbidden lands.
 
-The biggest change to Sami occurred recently: Colombian investors apparently managed to win the favor of some southern Sami tribes. They cooperated with these tribes and began the development of tourism in Sami marshes. Several large-scale resort towns have been built in the area (such as the well-known Chapat-Gavuli town mentioned earlier) as well as a large number of resort facilities. There are even rumors that the first nomadic city will soon appear in Sami, funded by a certain Columbian "conglomerate".
+The biggest change to Sami occurred recently: Colombian investors apparently managed to win the favor of some southern Sami tribes. They cooperated with these tribes and began the development of tourism in Sami marshes. Several large-scale resort towns have been built in the area (such as the well-known Cappat-Gavuli town mentioned earlier) as well as a large number of resort facilities. There are even rumors that the first nomadic city will soon appear in Sami, funded by a certain Columbian "conglomerate".
 
 !!! info Sami and Ursus
 	It should be noted that there was no "war" between Ursus and Sami, at least in the perception of both parties. What happened in practice was that Ursus used crops and other goods in exchange for a Sami tribe to migrate, give up the land, or use force to expel another tribe. Emperor did not care about Sami as a whole and chose to make personal deals with tribes bordering Ursus. The same applies to Sami. The tribes in the core Sami area do not care about tribes bordering Ursus, and the Snow Sacrifice Assembly has obviously never regarded Ursus as a threat to the unity of the Sami tribes. For more than two hundred years after the initial annexation, Ursus seems to be content with its northwest borders and, aside for low-friction encounters with bordering tribes, did not continue to annex Sami lands on a larger scale.
@@ -236,7 +236,7 @@ I am writing this for readers who are determined to explore the depths of Sami, 
 
 3. Most people who speak can be trusted. If you encounter a silent person or a speaking shadow, immediately turn back and leave Sami.
 
-4. Respect the customs of the local people. Do not touch the trees belonging to locals, let alone touch the shadow of those trees. If you do so, immediately turn back and leave Sami.
+4. Respect the customs of the local people. Do not touch their clan trees, let alone touch the shadow of those trees. If you do so, immediately turn back and leave Sami.
 
 5. On nights when the twin moons are dim, do not spend the night in the forest. If you have to, do not spend the night together with your companions. You must separate and stay out of each other's sight. If it is not possible, or if there is anything around that makes you and your companions afraid of spending the night alone, anything that makes you think that "we cannot be separated," immediately turn back and leave Sami.
 

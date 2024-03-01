@@ -2761,3 +2761,74 @@ https://t.me/me_observer_channel/158736  2/29/24
 
 >Occupied Palestine: Armed clashes broke out between the resistance and the occupation forces storming the town of Jaba in #Jenin.
 https://t.me/me_observer_channel/158740  2/29/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 29 (2024), against (US)-israeli forces:
+
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Detonated 2 booby-trapped tunnels upon the entey of IOF forces, resulting in casualties, south of Al-Zaytoun neighborhood in Gaza City.
+
+🔻Detonated a pre-rigged building targeting an IOF infantry force, causing casualties, south of Al-Zaytoun neighborhood in Gaza City.
+
+🔻Targeted 3 IOF armored personnel carriers (APCs) & a Merkava tank with Yassin-105s and "Shoaz" explosive devices, south of Al-Zaytoun neighborhood in Gaza City.
+
+🔻Detonated an anti-personnel mine upon the entry of an IOF infantry force consisting of 5 soldiers, causing casualties, south of Al-Zaytoun neighborhood in Gaza City.
+
+
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled the supply lines of the enemy with a barrage of mortar shells in the Zana’a area, east of Khan Yunis.
+
+🔻Targeted 2 military vehicles with RPGs, in the Abasan Al-Kabira area in Khan Yunis.
+
+
+
+— 🇵🇸 Nasser Salah Al-Din Brigades:
+
+🔻Launched a rocket barrage at Sderot settlement.
+
+🔻Shelled the IOF army positions and gatherings north of the Gaza Strip with 107mm rocket barrages.
+
+
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Shelled the field command headquarters of the IOF, in the south and west of Gaza, with mortar shells.
+
+🔻Targeted Gaza Envelope settlements with a rocket barrage.
+
+🔻Targeted the deployment and positions of IOF soldiers, southeast of Al-Zaytoun neighborhood in Gaza City, with short-range rockets.
+
+
+
+— 🇵🇸 Al-Aqsa Martyrs' Brigades:
+
+🔻Engaged in fierce clashes with the IOF forces, using appropriate weapons on the axis of Abasan Al-Kabira area in Khan Younis.
+
+
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Engaged in intense clashes with the IOF forces, on the axis of Abasan Al-Kabira area in Khan Younis.
+
+🔻Detonated a highly explosive device targeting an IOF army vehicle in Al-Amal neighborhood, west of Khan Younis.
+
+
+
+
+— 🟡 Hezbollah:
+
+🔻Targeted the deployment of Israeli soldiers near the Jal Al-Alam site with artillery shells.
+
+🔻Targeted a gathering of Israeli soldiers near the Cobra Hill, with rockets.
+
+🔻Targeted the Ramtha site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the "Eilon" settlement with Katyusha rockets, in response to the israeli aggression on civilians.
+
+🔻Targeted spy and technical facilities at the Ruwaysat Al-Alam site in the occupied Shebaa Farms with appropriate weapons.
+
+🔻Targeted the "Ghoren" settlement with Falaq rockets.
+https://t.me/FotrosResistance/5690  3/1/24

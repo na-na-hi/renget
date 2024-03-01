@@ -44,6 +44,7 @@
 **Nana Chan (Indie)** - https://civitai.com/models/323727/nana-chan-vtuber-ru
 **MegalodonVT (Indie)** - https://civitai.com/models/328660/megalodonvt-vtuber
 **Himemori Luna (5th outfit - Hololive)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/1e4GWIqI
+**Maliya Mirime (Indie)** - https://civitai.com/models/328979/maliya-mirime-vtuber-ru
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -70,6 +71,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **KarmaVT (OWOzu)** - https://civitai.com/models/322576/karmavt-nsfwsfw
 **RakkunVT (OWOzu)** - https://civitai.com/models/328428/rakkunvt
 **Tenma Maemi (Phase Connect)** - https://civitai.com/models/107434/tenma-maemi
+LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947/koseki-bijou-hololive
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

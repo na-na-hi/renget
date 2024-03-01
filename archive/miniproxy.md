@@ -13,7 +13,7 @@ openai output size: 4096
 anthropic output size: 4000
 ```
 actual token count is a higher. Will purge the banned tokens later. Expect ~30 minutes of downtime. I will announce it before it happens.
-total **active** users: 115 %red% (CLOSED) %%
+total **active** users: 122 %red% (CLOSED) %%
 ***
 
 - I don't have a tripcode 

@@ -1,5 +1,5 @@
 #Local Models Related Papers
-/lmg/ | ->[Abstracts Search](https://files.catbox.moe/c0tmxp.txt)<-
+/lmg/ | ->[Abstracts Search](https://files.catbox.moe/snnqtc.txt)<-
 ------ | ------
 |**Google** ->[Papers](https://research.google/pubs/?area=machine-intelligence) [Blog](https://ai.googleblog.com)<-
 12/2017|[Attention Is All You Need (Transformers)](https://arxiv.org/abs/1706.03762)
@@ -87,6 +87,7 @@
 02/2024|[A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts](https://arxiv.org/abs/2402.09727)
 02/2024|[Gemma: Open Models Based on Gemini Research and Technology](https://files.catbox.moe/og82ni.pdf)
 02/2024|[Genie: Generative Interactive Environments](https://arxiv.org/abs/2402.15391)
+02/2024|[Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://arxiv.org/abs/2402.19427)
 |
 |**Meta (Facebook AI Research)** ->[Papers](https://ai.facebook.com/results/?content_types%5B0%5D=publication) [Blog](https://ai.facebook.com/blog)<-
 04/2019|[fairseq: A Fast, Extensible Toolkit for Sequence Modeling](https://arxiv.org/abs/1904.01038)
@@ -182,6 +183,7 @@
 01/2024|[RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture](https://arxiv.org/abs/2401.08406)
 02/2024|[LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://arxiv.org/abs/2402.13753)
 02/2024|[The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764)
+02/2024|[ResLoRA: Identity Residual Mapping in Low-Rank Adaption](https://arxiv.org/abs/2402.18039)
 |
 |**OpenAI** ->[Papers](https://openai.com/research) [Blog](https://openai.com/blog)<-
 07/2017|[Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
@@ -594,6 +596,7 @@
 02/2024|[No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization](https://arxiv.org/abs/2402.18096)
 02/2024|[DropBP: Accelerating Fine-Tuning of Large Language Models by Dropping Backward Propagation](https://arxiv.org/abs/2402.17812)
 02/2024|[CoDream: Exchanging dreams instead of models for federated aggregation with heterogeneous models](https://arxiv.org/abs/2402.15968)
+02/2024|[Humanoid Locomotion as Next Token Prediction](https://arxiv.org/abs/2402.19469)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

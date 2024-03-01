@@ -35,6 +35,7 @@
 -> [Civitai](https://civitai.com/models/133177/sdxl-lora-yoimachi-mahalos-sdxl-lora-file) <-
 
 #### -> Hololive <-
+-> ![HOLOLIVE](https://files.catbox.moe/yryvkr.png) <-
 ***
 ##### -> Gawr Gura <-
 -> [Civitai](https://civitai.com/models/238427/gawr-gura-or-sdxl) <-
@@ -44,6 +45,7 @@
 -> [Civitai](https://civitai.com/models/221124/ceres-fauna-sdxl) <-
 
 #### -> Nijisanji <-
+-> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
 ##### -> Higuchi Kaede <-
 -> [Civitai](https://civitai.com/models/177307/sdxl-higuchi-kaede-nijisanji) <-
@@ -60,6 +62,7 @@
 -> [Civitai](https://civitai.com/models/59427/vox-akuma-nijisanji) <-
 
 #### -> Phase Connect <-
+-> ![PHASE-CONNECT](https://files.catbox.moe/fv0h8r.png) <-
 ***
 ##### -> Jelly Hoshiumi <-
 -> [Civitai](https://civitai.com/models/95498/jelly-hoshiumi-phase-connect)
@@ -87,6 +90,7 @@
 	CCC Anon stated all of them work fine at 1, same tags as normal loras (outside of the ones that don't have example prompts, I never tested ccc's version of them).
 
 #### -> Hololive <-
+-> ![HOLOLIVE](https://files.catbox.moe/yryvkr.png) <-
 ***
 ##### -> (HoloAdvent) Fuwawa + Mococo Abyssgard <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -104,6 +108,7 @@
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/UARGHRSS) <-
 
 #### -> Nijisanji <-
+-> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
 ##### -> (Mitarashi-dan) Tachitsute Toto <-
 !!! note Tags suggested by uploader, not me
@@ -118,6 +123,7 @@
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/IEgVVJTB) <-
 
 #### -> Phase Connect <-
+-> ![PHASE-CONNECT](https://files.catbox.moe/fv0h8r.png) <-
 ***
 ##### -> (AliAS) Amanogawa Shiina <-
 !!! note Tags suggested by uploader, not me
@@ -207,6 +213,7 @@
 -> [Catbox](https://files.catbox.moe/louey7.safetensors) <-
 
 #### -> Idol Corp <-
+-> ![IDOL](https://files.catbox.moe/me68yc.png) <-
 ***
 ##### -> (Endless) Coni Confetti <-
 !!! note Tags suggested by uploader, not me
@@ -239,6 +246,7 @@
 -> [Catbox](https://files.catbox.moe/1mu9bg.safetensors) <-
 
 #### -> V&U <-
+-> ![V&U](https://files.catbox.moe/fegddt.png) <-
 ***
 ##### -> (Oracle) Meeta Osita <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -259,6 +267,7 @@
 -> [Catbox](https://files.catbox.moe/f2ioht.safetensors) <-
 
 #### -> Tsunderia <-
+-> ![TSUNDERIA](https://files.catbox.moe/tk8w65.png) <-
 ***
 ##### -> (TsunQuest) Matsuro Meru <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -267,6 +276,7 @@
 -> [Catbox](https://files.catbox.moe/3xr25u.safetensors) <-
 
 #### -> Sedai One <-
+-> ![SEDAI ONE](https://files.catbox.moe/qanv3d.png) <-
 ***
 ##### -> (Gen1) Aimi Hada <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -294,6 +304,7 @@
 -> [Catbox](https://files.catbox.moe/vgyw6g.safetensors) <-
 
 #### -> Prism Project <-
+-> ![PRISM PROJECT](https://files.catbox.moe/et0ocg.png) <-
 ***
 ##### -> (Gen 3) Rikudou Yura <-
 !!! info Her special neck look is somewhat RNG so to help with it, you might need to put (turtleneck) into the negatives.. and (blue fire) will sometimes set things in the background on fire. If you want her to hold her head like a proper dullahan, just use a LoRA for it
@@ -302,7 +313,8 @@
 	(rikudouyura, long hair, blue hair, ahoge, fiery hair, horns, tiara, blue eyes, (x-shaped pupils, dullahan, blue fire:1.3), blue shirt, white dress, frills, detached sleeves, purple thighhighs, blue footwear)
 -> [Catbox](https://files.catbox.moe/iuftmu.safetensors) <-
 
-#### -> Re:Act <- 
+#### -> Re:AcT <- 
+-> ![REACT](https://files.catbox.moe/r88kil.png) <-
 ***
 ##### -> (Parfait) Amakawa Hano <-
 !!! info Her hair doesn't work at all on my model, hope it looks better on yours
@@ -312,6 +324,7 @@
 -> [Catbox](https://files.catbox.moe/67ts6m.safetensors) <-
 
 #### -> Varium <-
+-> ![VARIUM](https://files.catbox.moe/3xrii5.png) <-
 ***
 ##### -> (Gen2) Amemochi Nina <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -320,6 +333,7 @@
 -> [Catbox](https://files.catbox.moe/idjyt8.safetensors) <-
 
 #### -> V-Dere <-
+-> ![V-DERE](https://files.catbox.moe/l2lofc.png) <-
 ***
 ##### -> Airi Viridis <-
 !!! note Tags suggested by uploader, not me
@@ -334,6 +348,7 @@
 -> [Catbox](https://files.catbox.moe/3uw06g.safetensors) <-
 
 #### -> PixelLink <-
+-> ![PIXELLINK](https://files.catbox.moe/9cl0qp.png) <-
 ***
 ##### -> (PixelPlus) Chiaki Katsumi <-
 !!! note Recommended weight: 1 (according to CCC)
@@ -428,6 +443,7 @@ or
 ***
 
 #### -> Hololive <-
+-> ![HOLOLIVE](https://files.catbox.moe/yryvkr.png) <-
 ***
 ##### -> Gawr Gura <-
 !!! info can do 3 outfits?
@@ -557,6 +573,7 @@ or
 -> [Catbox](https://files.catbox.moe/vsp30t.safetensors) <-
 
 #### -> Nijisanji <-
+-> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
 ##### -> (Sanbaka) Inui Toko <-
 !!! note Tags suggested by uploader, not me
@@ -587,11 +604,13 @@ or
 -> [Civitai](https://civitai.com/models/327141/pomu-rainpuff-for-ponyxl) <-
 
 #### -> Phase Connect <-
+-> ![PHASE-CONNECT](https://files.catbox.moe/fv0h8r.png) <-
 ***
 ##### -> Muu Muyu <-
 -> [Civitai](https://civitai.com/models/309439/muu-muyu-ponyxl) <-
 
 #### -> VShojo <-
+-> ![VSHOJO](https://files.catbox.moe/35i05q.png) <-
 ***
 ##### -> Projekt Melody <-
 -> [Civitai](https://civitai.com/models/327337/projekt-melody-for-ponyxl) <- 
@@ -609,3 +628,6 @@ or
 
 ##### -> Fallenshadow / Shondo <-
 -> [Civitai](https://civitai.com/models/324203/fallenshadow-for-ponyxl) <-
+
+##### -> Saruei <-
+-> [Civitai](https://civitai.com/models/328291/saruei-for-ponyxl) <-
