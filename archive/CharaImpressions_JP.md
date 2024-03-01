@@ -1412,7 +1412,7 @@ Pros:
 - A lot of healing, both on her S1 and UB
 - Doesn't use auto-attacks, which means that her skill-loop is just S1 -> S2 on repeat
 - Barrier can be timed with her UB
-- Action speed buff can be timed to remove action speed debuffs (like you may know from Monika or Tomo) thanks to the buff is applied with her UB
+- Action speed buff can be timed to remove action speed debuffs (like you may know from Monika or Tomo) thanks to the buff being applied with her UB
 - Buffs all attack and defense stats
 
 Cons:

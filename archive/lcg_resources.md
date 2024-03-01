@@ -53,7 +53,8 @@
 * [/lcg/ Guide](https://rentry.org/lcbguide)
 * [Optimal Grinding Guide](https://rentry.org/LCB_optimal_grind_guide)
 * [MD3 Farming Guide](https://rentry.org/limpsusMD3farmingstrategy)
-* [MD3 E.G.O Gift Fusion Guide](https://i.imgur.com/okchbeZ.png)
+* [MD3 EGO Gift Fusion Image Guide](https://files.catbox.moe/zwrbcc.png)
+* [EGO Gift Recipes](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRwg9U5pYXgmVfNjy_ZD6wpZMedU2ujNVqO5_nnup0chvgk-uR5R-bOwAsN6_PdYk8Wcqd5fusaSRI/pubhtml#)
 * [Mirror Dungeon Abnormality Check Compendium](https://docs.google.com/spreadsheets/d/14qQvQ-vpMbJYLNHA32VMqgWgvgVRIhq-ceB_SS6Ieao)
 * [Anon's Sub-100 RR3 Guide](https://docs.google.com/document/d/1FFl_kMPkZhfnnEJ7vOTsMDJsIQtXUZTdHP17WxxCitY)
 * [A Better Tutorial for Limbus Company (this is 20 minutes long and made by a faggot but it is the best video guide i know of)](https://www.youtube.com/watch?v=ujQgRJo9vHA)
@@ -64,7 +65,7 @@
 **Limbus Company**
 * [Main Story Viewer](https://retcons.github.io/limbus-storylogs/)
 * [Identity Story Viewer](https://retcons.github.io/limbus-identitylogs/)
-* [Observation Log Library](https://retcons.github.io/limbus-logs/)
+* [Observation Log Library](https://limbus-logs.vercel.app/)
 * [Unused Cutscene](https://www.youtube.com/watch?v=tRhdxoAA0rM)
 
 **Library of Ruina**
@@ -186,7 +187,7 @@ This is shamelessly copied from the [/akg/ Arknights Resources Sheet Rentry](htt
 Reply to the current OP with questions, critiques, or concerns. Please include the term "Rentry" in your post so I can ctrl+f at the end of every thread to find your post.
 
 ## Changelog 
-9/22-23/23: Created and then pulled an all-nighter to finish V.1.
+9/22/23: Created and then pulled an all-nighter to finish V.1.
 9/24/23: Fixing minor errors and ordering of some links, added the Korean Zena cat archive. Added link to Uptie 3 character stories.
 9/25/23: Temporarily removed every MEGA link, I'm going to make local archives of every MEGA and re-add them in a day or so.
 9/26/23: Added back MEGA links now that I've archived them all. I also decided to just do local webpage archives for the other important things.
@@ -197,7 +198,7 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 10/16/23: Added identity story viewer link.
 10/20/23: Added all interview links.
 10/20/23: Added Lobotomy Corporation asset links, had to join the D\*scord for this. Fuck Discord niggers, I think I'm eventually going to trudge through it and gather every useful link so that others don't have to.
-10/25-26/23: Added LimCum update countdown link. Added Ara channel link.
+10/26/23: Added LimCum update countdown link. Added Ara channel link.
 10/29/23: Added Library of Ruina Dialogue Bug Fixes link.
 10/31/23: Made separate section for Q&As and interviews, added more links.
 11/5/23: Added RR2 Theoretical Sub-100 Turn Guide link. Moved Yet Another Limbus Company Tier List link to abandoned section.
@@ -212,5 +213,6 @@ Reply to the current OP with questions, critiques, or concerns. Please include t
 1/31/24: Moved RR3 guides to outdated section. Did some editing for readability and added some new links. 
 2/4/24: Added optimal grinding guide link.
 2/6/24: Added sub-100 RR3 guide link.
-2/9/24: Moved some things to, added checklist & EXP calculator and edited assets link.
-2/12/24: Three of the links in the Interview & Q&A section have been deleted from Google Docs. Luckily I archived them so I just swapped out the links with Catbox reuploads. ![lol&](https://files.catbox.moe/7dmu76.png)
+2/9/24: Moved some things around, added checklist & EXP calculator and edited assets link.
+2/12/24: Three of the links in the Interview & Q&A section have been deleted from Google Docs. Luckily I archived them so I just swapped out the links with Catbox reuploads. (I will NYOT reupload them on Google Docs do that yourself)
+2/29/24: Updated observation log link, added EGO gift recipes link. ![lol&](https://files.catbox.moe/7dmu76.png)

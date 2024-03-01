@@ -41,7 +41,7 @@ Links | Description
 [Snowbreak Gacha Pull Tracker 1.0 ](https://docs.google.com/spreadsheets/d/1eKL0sfxuDyGDY36M83oBItH51O9iXIPwk4-y7weBzws/edit#gid=1955748053) | Pull Tracker
 [Snowbreak Story Summaries](https://docs.google.com/document/d/1ViDwLI90ddcoaWaWRVIiqPxmRSJX9eFbpQxpG-BgWnA/edit#heading=h.26rwh4fqpgfu) | Story Summary 
 [TVtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SnowbreakContainmentZone) | TVtropes page
-[Catbox](https://files.catbox.moe/zjf1zj.zip) | Snowbreak Stickers
+[Gofile](https://gofile.io/d/hwSLaw) | Snowbreak Stickers + Korean ones
 [Pastebin](https://pastebin.com/LPKFApCG) | Old /snowg/ Resource Bin
 
 ***

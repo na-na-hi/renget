@@ -5,7 +5,7 @@
 1. Chaster has finally added a feature to "limit lock time" when you create a lock. This is a hard-deadline for a lock where time cannot be added that brings you over it. __Make use of it__.
 
 ##### Currently Tracked locks
-_(Updated 22-Feb-2024)_
+_(Updated 29-Feb-2024)_
 
 !!! note 
     - Locks will be tracked in thread and here until you unlock/abandon, OR until a custom time you give is reached (in date or threads)
@@ -19,14 +19,12 @@ _(Updated 22-Feb-2024)_
 | sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
 | porrov | https://chaster.app/sessions/keJi6vPWo4aZhYX0 | === |
 | smoll_lilly | https://chaster.app/sessions/prDrroyAh4E4n5Ky | === |
-| Kodikoh | https://chaster.app/sessions/cEdQz7XDHC171eFE | === |
 | robintheincubus | https://chaster.app/sessions/VsoyOSyjnkqrkvHH | === |
 | Kinky_Twikii | https://chaster.app/sessions/EPphQ2J4vsNX3Ghi | === |
 | LockedUpOwO | https://chaster.app/sessions/bc1grVJYZOYGEjqn | === |
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
-| bluethesub | https://chaster.app/sessions/3jbrVL0rRxI1Sucv | === |
 | Vulparion | https://chaster.app/sessions/kSl5VH5v7ajrhSaN | === |
 | programmingsocklover | https://chaster.app/sessions/Zkw6utoQb858qcG0 | === |
 | xoronite | https://chaster.app/sessions/oyY87eMVrRD6cyXe | === |
@@ -35,11 +33,9 @@ _(Updated 22-Feb-2024)_
 | eternaltrapwizard | https://chaster.app/sessions/AIVc0Tdr0Apem5ae | === |
 | succuboii | https://chaster.app/sessions/bsX2QVq1vvJ5dp6l | === |
 | adoratio | https://chaster.app/sessions/k6XmfgVhmstGk6oW | === |
-| yogonplesteodon | https://chaster.app/sessions/tEVV78vJnyVQMwFJ | === |
 | Bambi_snowshed917 | https://chaster.app/sessions/eBUJtSbdziM9TqbX | === |
 | bigdawg8 | https://chaster.app/sessions/PeVOQtNOZ0jjh62M | === |
 | BrittanyJane | https://chaster.app/sessions/n9y6MkLUzNRribAO | === |
-| PyritePirate | https://chaster.app/sessions/HswCHQBzm3u2MjFs | === |
-| noverca1 | https://chaster.app/sessions/I7Nl2YnQFW1dd7ZN | === |
+| DivineSight | https://chaster.app/sessions/szM7FlmiJIkwDirh | === |
 |  |  |  |
 |  |  |  |

@@ -10,6 +10,7 @@
 ###OC
 | Bot's name | Updated | CHUB Link | Card |
 |---|---|---|---|
+Chisa | 29/02/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/chisa-ae1669d5/main) | ![](https://files.catbox.moe/wnnlep.png)
 Korosuke | 21/02/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/korosuke-f112db52/main) | ![](https://files.catbox.moe/j0zbqk.png)
 Cane | 28/12/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/cane-6a7e63be/main) | ![](https://files.catbox.moe/ec4e6w.png)
 Cara | 12/11/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/cara-b43f6fbb/main) | ![](https://files.catbox.moe/cr8ww3.png)

@@ -53,7 +53,7 @@
 |
 **LLM Tools**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Fine-tuning tool for various architectures with integrated support for flash attention and rope scaling 
-[EE-Tuning](https://github.com/pan-x-c/EE-LLM)|PEFT method to tune a pretrained LLM with early-exit layers and dynamic token-wise loss weights
+[DropBP](https://github.com/WooSunghyeon/dropbp)|Randomly drops layers during backward propagation for quicker tuning with no reductions in accuracy
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
 [SPIN](https://github.com/uclaml/spin)|Self-play fine-tuning method that generates its own training data from previous iterations 
 [Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 

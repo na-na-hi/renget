@@ -34,7 +34,7 @@ Lia & Rinmama Mahjong (August 2023): https://youtu.be/_WofYqMHheg
 ⚡%deeppink%**Collabs**%%⚡
 Lia, Pippa, & Uruka YABSQUAD (July 2022): https://youtu.be/LOtZHrSLRLQ
 Lia & Pippa Fashion (April 2023): https://youtu.be/371cMkfhYc4
-Lia & Pippa FNAF/My Weird Addiction Part 1 (May 2022): https://youtu.be/b_X8X8Cm-0Q
+Lia & Pippa FNAF/My Weird Addiction Part 1 (May 2022): https://youtu.be/aTFqidH-6g8
 Lia & Pippa FNAF/My Weird Addiction Part 2 (May 2022): https://www.dailymotion.com/video/k5FZJsv8QwdsMUzuMmU
 Lia & Pippa Undertale mpreg (November 2022): https://youtu.be/n0EwaZwmhsk
 Lia & Tenma Zootopia Reading (August 2023): https://youtu.be/4dBiKFZROZM

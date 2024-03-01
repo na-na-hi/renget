@@ -2634,3 +2634,130 @@ https://files.catbox.moe/k6tslu.mp4  2/28/24
 Since 7:30 pm until this time, the Zionist artillery and smoke bombardment has not stopped on the town of #Hula and its four outskirts.
 Note that the hostile bombing also targeted the towns of #Mays_al-Jabal, #Markaba, and the “Al-Awaida” hill on the outskirts of #Taybeh
 https://nitter.esmailelbob.xyz/ME_Observer_/status/1762951563113316664#m  2/28/24
+
+>⚡️| 🌍 BIG SUMMARY of all resistance operations today, February 28 (2024), against (US)-israeli forces:
+
+— 🇵🇸 Al-Qassam Brigades:
+
+🔻Shelled, from southern Lebanon, the command headquarters of the Eastern Brigade 769 "Gibor Camp" and "the Airport Barracks in Beit Hillel" in northern occupied Palestine with 2 rocket barrages consisting of 40 Grad rockets.
+
+🔻Targeted an IOF infantry force entrenched inside a building with an anti-personnel rocket, causing casualties in the Abasan Al-Kabira area, east of Khan Yunis.
+
+🔻Engaged in clashes with IOF forces and wounded an israeli soldier near the Shafi'i Mosque, west of Khan Yunis.
+
+🔻Targeted an IOF armored personnel carrier (APC) with pre-planted "Shouaz" and another explosive device, in the Abasan Al-Kabira area, east of Khan Yunis.
+
+🔻Targeted 2 Merkava-4 tanks with Yassin 105s and Tandem rockets, on the Project Road, west of Khan Yunis, southern Gaza Strip.
+
+🔻Shelled concentrations of IOF army vehicles and soldiers behind the Al-Najm Stars Hall in Al-Zaytoun neighborhood, Gaza City, with heavy caliber mortar shells.
+
+— 🇵🇸 Al-Quds Brigades:
+
+🔻Shelled the "Kisufim" site with a salvo of 107mm rockets.
+
+🔻Targeted a Merkava tank & a D9-bulldozer with Tandem and RPGs, in the axis west of Khan Yunis.
+
+🔻Clashed with an IOF infantry force of 4 soldiers using appropriate weapons, causing all of them to be either killed or wounded in the southeast of Qaraara area, Khan Yunis.
+
+🔻Shelled, with mortar shells, a gathering of IOF forces on Street 10, south of Al-Zaytoun neighborhood, Gaza City.
+
+— 🇵🇸 Al-Aqsa Brigades:
+
+🔻Targeted 2 military vehicles with RPGs, west of Khan Yunis, southern Gaza Strip.
+
+🔻Targeted an IOF armored personnel carrier (APC) with a "Storm" explosive device in the town of Abasan Al-Kabira, east of Khan Yunis.
+
+🔻Shelled a gathering of IOF soldiers and vehicles in areas southeast of Al-Zaytoun neighborhood in Gaza City, with a barrage of 60-caliber mortars.
+
+🔻Shelled gatherings of IOF vehicles and soldiers with heavy mortars, at the axis south of Al-Zaytoun neighborhood in Gaza city.
+
+🔻Engaged in fierce clashes with IOF forces and their vehicles using automatic and appropriate weapons, east of Khan Younis, in the southern Gaza Strip. 
+
+— 🇵🇸 Martyr Omar Al-Qasim Forces:
+
+🔻Targeted a military vehicle with an RPG, in the Al-Balad area in the city of Khan Younis in the south of the Gaza Strip.
+
+🔻Engaged in fierce clashes with IOF forces at the axis in Khan Younis city with heavy and appropriate weapons. 
+
+— 🇵🇸 Mujahideen Brigades:
+
+🔻Sniped an Israeli soldier in the southern Zaytoun axis, Gaza City.
+
+🔻Shelled a gathering of IOF forces, east of Al-Zaytoun neighborhood, Gaza City, with 60mm caliber mortar shells.
+
+🔻Engaged in fierce clashes with IOF forces in the axes in Khan Younis, with appropriate weapons.
+
+— 🟡 Hezbollah:
+
+🔻Targeted the deployment of Israeli soldiers around the Birkat Risha site with rockets.
+
+🔻Targeted the Ramtha site in the occupied Shebaa Farms with rockets.
+
+🔻Targeted the Al-Samaqa site in the occupied Shebaa Farms with rockets.
+
+This list did not include rockets fired from Gaza towards settlements.
+https://nitter.esmailelbob.xyz/AryJeay/status/1763000746130210962#m  2/28/24
+
+>⚡️MUST WATCH: Al-Quds Brigades published a video showing scenes from the battles its forces fought in the Al-Zaytoun neighborhood, southeast of Gaza.
+https://nitter.esmailelbob.xyz/AryJeay/status/1763135424841519161#m  2/29/24
+https://files.catbox.moe/1l8m72.mp4  2/29/24  
+
+>🚨Sirens were activated near Haifa due to an interceptor missile being fired at a "suspicious aerial target."
+https://nitter.esmailelbob.xyz/AryJeay/status/1763149935543800261#m  2/29/24  
+
+>Scenes from Kamal Idwan Hospital following the humanitarian aid massacre at Al Rasheed Street. 
+
+Kamal Idwan Hospital was announced out of service yesterday due to the lack of fuel and medical supplies.
+https://nitter.esmailelbob.xyz/QudsNen/status/1763150553322860572#m  2/29/24  
+https://files.catbox.moe/y1dhvy.mp4  2/29/24  
+
+>BREAKING| Spokesperson for the Ministry of Health, Ashraf Al Qudra:
+
+⭕️The death toll from the massacre on Al Rashid Street has risen to 81 victims, while around 700 citizens were injured.
+
+⭕️Dozens of injuries range from serious to critical, which may increase the number of fatalities to over 100.
+https://nitter.esmailelbob.xyz/QudsNen/status/1763164323680047236#m  2/29/24  
+
+>Five Israeli settlers, protected by Israeli forces, blocked the entry of humanitarian aid to Gaza through Karem Abu Salem today.
+https://nitter.esmailelbob.xyz/QudsNen/status/1763158088071123176#m  2/29/24  
+https://files.catbox.moe/0sz6ic.mp4  2/29/24  
+
+>BREAKING| Reuters citing the Israeli ministery of defense:  Israel confiscated 652 acres near the illegal settlement of Maale Adumim in occupied Jerusalem.
+https://nitter.esmailelbob.xyz/QudsNen/status/1763178744800239676#m  2/29/24  
+
+>Activists perform a sit-in in solidarity with Palestine at Liverpool Street station.
+https://nitter.esmailelbob.xyz/QudsNen/status/1763224568502653152#m  2/29/24  
+
+>Israeli settlers are congregating near the Gaza crossing, demanding permission to construct settlement structures within Gaza and urging the Israeli government to allow them to settle in the area.
+https://t.me/QudsNen/97477  2/29/24  
+
+>Tens of thousands of #Palestinians are waiting for aid at the 17th roundabout in western #Gaza, as famine and the siege imposed by the occupation continue.
+https://t.me/me_observer_channel/158547  2/29/24  
+https://files.catbox.moe/plob89.mp4  2/29/24  
+
+>Al-Qassam Brigades (Hamas)
+
+🔻3 troop carriers (APCs) and a Merkava tank were targeted with Al-Yassin 105s and “Shawaz” explosive devices, south of Al-Zaytoun neighborhood.
+
+🔻Detonated an anti-personnel device, leaving 5 soldiers dead & wounded, south of the Zaytoun neighborhood.
+https://t.me/FotrosResistance/5689  2/29/24  
+
+>Obtaining a bag of flour in northern Gaza has turned into a fatal journey, as Israeli forces impede aid trucks from reaching the northern regions and target civilians seeking access to this aid if permitted to pass.
+https://t.me/QudsNen/97500 2/29/24 
+https://files.catbox.moe/5l2ttg.mp4  2/29/24  
+
+>Occupied Palestine: Leading sources in the #Palestinian resistance to Al-Mayadeen: No negotiations under the ceiling of starvation and unless people’s living conditions improve
+https://t.me/me_observer_channel/158654  2/29/24  
+
+>Lebanon: Al-Mayadeen correspondent in Beirut: A dispute occurred between citizens and UNIFIL members who entered with their vehicle into the Hay al-Salam area in the southern suburbs.
+https://t.me/me_observer_channel/158704  2/29/24  
+
+>After the “Rashid massacre”.. Colombia freezes arms purchase deals from “Israel” and confirms that #Gaza is being subjected to genocide
+https://t.me/me_observer_channel/158709  2/29/24  
+
+>Urgent || #European Commissioner for Foreign Policy:
+Depriving people of food aid constitutes a serious violation of international humanitarian law
+https://t.me/me_observer_channel/158736  2/29/24  
+
+>Occupied Palestine: Armed clashes broke out between the resistance and the occupation forces storming the town of Jaba in #Jenin.
+https://t.me/me_observer_channel/158740  2/29/24
