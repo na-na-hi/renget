@@ -165,10 +165,6 @@
 - Because it is so simple, all you have to do is choose an episode and begin viewing.
 - [URL Safety Results](https://www.urlvoid.com/scan/anitaku.to/)
 
-### 🐐 [AniWatch](https://aniwatch.to/) / [2](https://aniwatch.nz/) / [3](https://aniwatch.se/)
-- Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
-- [URL Safety Results](https://www.urlvoid.com/scan/aniwatch.to/)
-
 ### 🐐 [AniWave](https://aniwave.to/)
 - With a strong emphasis on anime titles in a variety of genres, you may discover practically any series you want.
 - [URL Safety Results](https://www.urlvoid.com/scan/aniwave.to/)
@@ -176,6 +172,10 @@
 ### ▶️ [Anix](https://anix.to/)
 - Draws influence from the well-known AniMixPlay platform that features a minimalist layout.
 - [URL Safety Results](https://www.urlvoid.com/scan/anix.to/)
+
+### 🐐 [HiAnime](https://hianime.to/)
+- Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
+- [URL Safety Results](https://www.urlvoid.com/scan/hianime.to/)
 
 ### ▶️ [Kaido](https://kaido.to/)
 - Dependable and quick anime streaming site. Benefit from outstanding features like HD resolution.

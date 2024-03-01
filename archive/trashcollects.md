@@ -3250,6 +3250,10 @@ Species Wildcards Collection: https://rentry.co/4sy6i33r
 
 Huge Wildcard Collection sorted by artist types, poses, media etc.: https://mega.nz/folder/UBxDgIyL#K9NJtrWTcvEQtoTl508KiA/folder/pJR0mLjb
 
+Pony Diffusion XL V6 Wildcards:
+	e621: https://files.catbox.moe/icf7ak.txt
+	Danbooru: https://files.catbox.moe/k2pgw2.txt
+
 ### OpenPose Model
 	For use in Blender; allows for posing for use in the ControlNet extension.
 

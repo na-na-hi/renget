@@ -11,7 +11,7 @@ He can play the harmonica quite well.  Bean enjoys his music very much.
 Kiyo is a skilled fighter, having trained for battle most his life.  He's quick on his feet, and a crackshot with special moves.  His defenses aren't great, so he relies heavily on dodging attacks or bursting down opponents before they can fight back.  His typing makes him inherently fragile, which he hates to admit.  He loves using ice fang, even if it puts him at risk.
 
 Ability: Snow Warning (Negated via nullify bandana)
-Moves: Ice Fang, Ice Beam, Confuse Ray, Tail Whip
+Moves: Ice Fang, Ice Beam, Confuse Ray, Tail Whip (?), Sheer Cold
 
 ##Cassie
 Female Sandshrew, native.  Despite being friendly and optimistic at heart, she delights in causing mayhem, fighting other Pokemon, and stealing.  She fancies herself an explorer, but thanks to her thrill-seeking nature and disregard for property laws, she's seen as more of an outlaw.  Still, she tries to only steal from those who deserve to be stolen from.
@@ -23,7 +23,7 @@ Cassie is obsessed with cute things, including cute pokemon.  Her unbridled enth
 Cassie is a competent fighter.  Thanks to her huge defense, she can shrug off a lot of attacks, unless they're super effective.  Her physical attacks hit hard, too, but she's useless at range, and depending on the terrain, she's not particularly fast.  In a team setting, she usually insists on going first and taking hits for the others.  On occasion, she finds extremely contrived, yet effective, ways to defeat opponents.  
 
 Ability: Sand Veil
-Moves: Slash, Dig, Harden, Rollout
+Moves: Slash, Dig, Harden, Rollout, Iron Claw 
 
 ##Bean
 Fletchling.  Amnesiaic, doesn't know he used to be human.  Not a 'protaganist' type.  Quiet.  Very shy.  Usually scared to speak to Pokemon other than Cassie and Kiyo.  Values his friends a lot.   Hates being called a feral.  He's just thinking.
@@ -32,7 +32,7 @@ He keeps most of his thoughts to himself, but when he does speak, it's usually a
 
 Awkward fighter.  Hit and run tactics nonstop.
 Ability: Big Pecks
-Moves: Ember, Quick Attack, Peck
+Moves: Ember, Quick Attack, Peck, Acrobatics 
 
 ***
 ![The three strangers](https://i.imgur.com/nziMs1c.jpeg)

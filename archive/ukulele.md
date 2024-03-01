@@ -1,5 +1,7 @@
 ⠀
-⠀
+
+->**Retheme & New URL and shapes coming soon, stay tuned!**<-
+
 -> ⠀![ac chimoart](https://media.discordapp.net/attachments/1007344137655287848/1185087590697795644/ezgif-3-7ddd31baf6.png?ex=658e55d3&is=657be0d3&hm=868487dc534aaeaacec91d6fc6071dfee68dc1e23aeb0a72cbbe7f8c30c48772&=&format=webp&quality=lossless&width=570&height=376)⠀<-
 -> ![](https://media.discordapp.net/attachments/1007344137655287848/1185088446067388456/ezgif-3-f3480b3449.png?ex=658e569f&is=657be19f&hm=16141dd3980e1ed7c0dc3e4d6e65bd15b7d4bec3286a8c767bfeb4851baf01a8&=&format=webp&quality=lossless&width=30&height=28)𓂂⠀ ⠀⠀ɜ⠀⠀⠀ **welc**⠀to⠀the⠀s̲h̲a̲ped⠀flags̲⠀site<-
 ->ma**de⠀b**y⠀![sibeliusvc](https://media.discordapp.net/attachments/1007344137655287848/1185089490398760990/b7d21bdea011ad9714ca567da1bc9b52.png?ex=658e5798&is=657be298&hm=bebc01d26d2e44a12527060efea4b9f75a9a6713e816756e876b84acd69283be&=&format=webp&quality=lossless&width=117&height=25)⠀ ⁺⠀⠀  ⠀join⠀[![](https://media.discordapp.net/attachments/1007344137655287848/1185090116335706163/7a2a4c73165bebe582ac6925be37b0a9.png?ex=658e582d&is=657be32d&hm=fd8219cf02daaaf9e1efc5c021a7342a5dd99f7e56f1933946e2f010a1217bd1&=&format=webp&quality=lossless&width=55&height=27)](https://discord.gg/kms99phd2j)⠀⠀⠀⠀ ⨾<-

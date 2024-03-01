@@ -107,6 +107,9 @@ https://archiveofourown.org/works/33976447/
 Bimbo RWBY Chapter 43: Menagerie Fluff Up (RWBY) by BGfan01 | Completed: 2022-03-13
 https://archiveofourown.org/works/37710124/
 
+The Bimbo Factory (RWBY) by WalrusWrestler | Completed: 2024-02-01
+https://archiveofourown.org/works/53437072/
+
 Horny Bunny (RWBY) by BGfan01 and Masca93 | Completed: 2022-03-08
 https://archiveofourown.org/works/37604422/
 
@@ -153,6 +156,9 @@ https://archiveofourown.org/works/9982052/chapters/22296422/
 
 The Pink Archon (Genshin Impact) by snakebit1995
 https://archiveofourown.org/works/29431686/chapters/72299412/
+
+Bimbo Effect 2 (Mass Effect 2) by annonfan224
+https://archiveofourown.org/works/28214403/chapters/69137547/
 
 My Bimbo Academia (My Hero Academia) by snakebit1995 
 https://archiveofourown.org/works/15745254/chapters/36612702/
@@ -213,9 +219,6 @@ https://rentry.org/Fallout-VegasLive
 
 Bimbo Three Houses (Fire Emblem Three Houses) by snakebit1995
 https://archiveofourown.org/works/20699402/chapters/49168553/
-
-Bimbo Effect 2 (Mass Effect 2) by annonfan224
-https://archiveofourown.org/works/28214403/chapters/69137547/
 
 Bimbo Isekai (Original Work) by snakebit1995
 https://archiveofourown.org/works/30189720/chapters/74385648/

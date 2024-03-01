@@ -426,3 +426,5 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[1]** *Holy status spam*](https://arch.b4k.co/vp/thread/55464988/)
 [**[2]** *Died early to pre Presents shitposting*](https://arch.b4k.co/vp/thread/55476295/)
 [**[3]** *AH HAHAHA HA*](https://arch.b4k.co/vp/thread/55489574/)
+[**[4]** *After an Aeon, I will reincarnate you and your life will be endless torture*](https://arch.b4k.co/vp/thread/55504344/)
+[**[5]**](https://arch.b4k.co/vp/thread/55512515/)
