@@ -178,6 +178,17 @@ https://twitter.com/yuiidere
 Unfiction Vtuber. Newscaster from an alternate history.
 https://twitter.com/QWIL_Newscast
 https://www.youtube.com/@Suraya_Archive
+>Pamu
+![Pamu](https://files.catbox.moe/hyda4u.jpg)
+menhera masochist digital guardian angel of dead imageboards.
+https://twitter.com/kuronazepamu
+https://www.twitch.tv/pamuvt
+>Axed Mokuba
+![Axed Mokuba](https://files.catbox.moe/alvc0a.png)
+a rotten wizard stuck in a log, handicraft enthusiast.
+https://twitter.com/AxDMokuba
+https://www.youtube.com/@AxDMokuba
+https://www.twitch.tv/axedmokuba
 ***
 /meat/-/asp/irants
 >Arisosei Kimoko

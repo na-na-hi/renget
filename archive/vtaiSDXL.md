@@ -432,6 +432,9 @@ or
 ##### -> Gawr Gura <-
 !!! info can do 3 outfits?
 -> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/file/9fpjgDpS) <-
+or
+!!! info can do 7 outfits
+-> [Civitai](https://civitai.com/models/326585/gawr-gura-xl-7-outfits-hololive) <-
 
 ##### -> Hololive -Promise- <-
 !!! info Contains the entirety of promise? 
@@ -487,6 +490,29 @@ or
 !!! info 7 Outfits!
 -> [Civitai](https://civitai.com/models/317577/nakiri-ayame-7-outfits-or-hololive-or-pony-xl) <-
 
+##### -> Oozora Subaru <-
+!!! info 9 Outfits!
+-> [Civitai](https://civitai.com/models/325210/oozora-subaru-xl-9-outfits-hololive) <-
+
+##### -> Hoshimachi Suisei <-
+!!! info 8 Outfits!
+-> [Civitai](https://civitai.com/models/321537/hoshimachi-suisei-8-outfits-or-hololive-or-pony-xl) <-
+
+##### -> Ceres Fauna <-
+-> [Civitai](https://civitai.com/models/327416/ceres-fauna-for-ponyxl) <-
+
+##### -> Tokoyami Towa <-
+!!! info 6 Outfits!
+-> [Civitai](https://civitai.com/models/328594/tokoyami-towa-xl-6-outfits-hololive) <-
+
+##### -> Nekomata Okayu <-
+!!! info 6 Outfits!
+-> [Civitai](https://civitai.com/models/328443/nekomata-okayu-xl-6-outfits-hololive) <-
+
+##### -> Ouro Kronii <-
+!!! info 5 Outfits! Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
+-> [Civitai](https://civitai.com/models/325006/ouro-kronii-5-outfits-or-hololive-or-pony-xl) <-
+
 ##### -> La+ Darknesss <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
@@ -537,21 +563,38 @@ or
 !!! info Example Prompt
 	black hair, low twintails, long hair, dog ears, heterochromia, dog tail, red flower, choker, medium breasts, maid headdress, japanese clothes, sash, obi, black kimono, wa maid, waist apron, long sleeves, wide sleeves, frills,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/0vVznBrD) <-
+
 ##### -> (Sanbaka) Ange Katrina <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	ange katrina, red hair, short hair, black coat, off shoulder, long sleeves, character name, shirt, cardigan, white skirt
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/0vVznBrD) <-
+
 ##### -> (Sanbaka) Lize Helesta <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	lize hestia, long hair, white hair, purple eyes, hair ornament, colored inner hair, white shirt, miniskirt, pleated skirt, blue skirt, white jacket, long sleeves, armband, blue thighhighs, white knee boots, thigh strap, thighhighs under boots,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/0vVznBrD) <-
 
+##### -> Nina Kosaka <-
+!!! info 2 Outfits!
+-> [Civitai](https://civitai.com/models/325136/ponyxl-nina-kosaka-2-outfits-oror-nijisanji-en-en) <-
+
+##### -> Selen Tatsuki <-
+-> [Civitai](https://civitai.com/models/327122/selen-tatsuki-for-ponyxl) <-
+
+##### -> Pomu Rainpuff <-
+-> [Civitai](https://civitai.com/models/327141/pomu-rainpuff-for-ponyxl) <-
+
 #### -> Phase Connect <-
 ***
 ##### -> Muu Muyu <-
 -> [Civitai](https://civitai.com/models/309439/muu-muyu-ponyxl) <-
+
+#### -> VShojo <-
+***
+##### -> Projekt Melody <-
+-> [Civitai](https://civitai.com/models/327337/projekt-melody-for-ponyxl) <- 
 
 #### -> Indies <-
 ***

@@ -145,7 +145,7 @@ Jack | Info
 Araton | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/29r421.png)   | An angel boy has descended upon Earth with orders to punish sinners, a job he takes a little too much joy in by using his 40 foot tall body. That's it. That's the card.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/araton-35e1e476),  [Catbox](https://files.catbox.moe/q2ouhk.png), [CAI](https://beta.character.ai/chat?char=xNflKQ7DyKfQkMQn5jnWob2w1gF1knhPlrMkA2YXSzg)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/araton-35e1e476),  [Catbox](https://files.catbox.moe/x4h6ul.png), [CAI](https://beta.character.ai/chat?char=xNflKQ7DyKfQkMQn5jnWob2w1gF1knhPlrMkA2YXSzg), [Alt gens](https://catbox.moe/c/hfpn30)
 
 Carmelo | Info
 :----:  | :----: 
@@ -154,8 +154,8 @@ Carmelo | Info
 
 Asterios | Info
 :----:  | :----: 
-![](https://files.catbox.moe/jkp2k7.png)   | You live in a tower with it's guardian: Asterios the minotaur. You're not allowed to leave, but at least he's good to you for the most part. There are things in the forest that want you, so please try to understand why he's such a grumpus about you leaving.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/asterios-c13814a0),  [Catbox](https://files.catbox.moe/g0xjey.png), [CAI](https://beta.character.ai/chat?char=68_aO1EouqA8Yp9DFuwuHQqSPGvJE1WAfETd7ZMqyiI)
+![](https://files.catbox.moe/w5xnnk.png)   | You live in a tower with it's guardian: Asterios the minotaur. You're not allowed to leave, but at least he's good to you for the most part. There are things in the forest that want you, so please try to understand why he's such a grumpus about you leaving.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/asterios-c13814a0),  [Catbox](https://files.catbox.moe/fwjlys.png), [CAI](https://beta.character.ai/chat?char=68_aO1EouqA8Yp9DFuwuHQqSPGvJE1WAfETd7ZMqyiI)
 
 Tiny RPG | Info
 :----:  | :----: 

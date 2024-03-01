@@ -77,6 +77,9 @@ https://rentry.org/RWGP
 EXAMPLE: %green%>Border happening, national guard deployed to eagle pass%% 
 ▶%orange%Other News:%%
 EXAMPLE %green%>Most patriotic americans agree that the border is a major concern for the republic%%
+▶%orange%Declaration of Nullification Finalized:%%
+https://imgur.com/gallery/eZsEdG2
+Introduction Letters https://pastebin.com/D6izWtQT
 ***
 ##Patriot Resources:
 
@@ -102,9 +105,7 @@ EXAMPLE %green%>Most patriotic americans agree that the border is a major concer
       >**▶/rwg/ Declaration Chans Art Collectables:**
       >>>https://catbox.moe/c/vlgli9
       >>>https://catbox.moe/c/7xa2ec *(%orange%Cute Sky Chan pics for patriotic frens%%)*
-      >==Sky Chans for those that like nice pics :==
-
-
+      >==Sky Chans for those that like nice pics :==![rwg14](https://files.catbox.moe/o2ing9.jpg)![rwg15](https://files.catbox.moe/i1m63h.jpg)![rwg16](https://files.catbox.moe/3zq0qb.jpg)![rwg17](https://files.catbox.moe/cr7me4.jpg)![rwg22](https://files.catbox.moe/4j9l7t.jpg)
 ***
 ## ![memeflaggots](https://files.catbox.moe/h46y97.png) Memeflag & Gore Filter:
 !!! warning This pasta is useful information as a PSA during shillstorms. 
@@ -174,3 +175,5 @@ This makes some shills so mad, they will take their memeflags off just to tell y
 >Make sure to remind shills that they are fat nerd virgins who work for Langley for slave wages, but never give them a (You)! You will filter them, but they NEVER filter you! Post comfy and fun images you know they hate, because they will see it every time, and you will never see their response.
 >You can also filter persistent shills by ID per thread. This takes only two clicks - whenever you see the first shill post, just filter his ID immediately, hit F5 and enjoy the rest of the thread.
 ***
+
+->![Image description](https://files.catbox.moe/8vl6ai.jpg)<-

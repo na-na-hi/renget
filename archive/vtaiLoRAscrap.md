@@ -29,7 +29,7 @@
 **Fumino Tamaki (Nijisanji)** - https://civitai.com/models/261333/fumino-tamaki-nijisanji
 **Cosmo Ruru (Indie)** - https://civitai.com/models/288020/cosmo-ruru
 **Yagoo (Hololive)** - https://files.catbox.moe/a9hbln.safetensors
-**Dokibird (indie)** - https://files.catbox.moe/0nz6d2.safetensors (check lora for tags? idk) or https://litter.catbox.moe/cn6gm6.safetensors (litter lol) or https://civitai.com/models/297993/dokibird-vtuber or https://civitai.com/models/303461/dokibird-or-vtuber
+**Dokibird (indie)** - https://files.catbox.moe/0nz6d2.safetensors (check lora for tags? idk) or ~~https://litter.catbox.moe/cn6gm6.safetensors (litter lol)~~ or https://civitai.com/models/297993/dokibird-vtuber or https://civitai.com/models/303461/dokibird-or-vtuber
 **MadDogKiss (Indie)** - https://civitai.com/models/298576/maddogkiss
 **Tama Shoko (Indie)** - https://civitai.com/models/298662
 **Ryogoku Tsukasa (Specialite)** - https://civitai.com/models/298812/ryogoku-tsukasa
@@ -42,6 +42,7 @@
 **KanoVT (Indie)** - https://civitai.com/models/322107/kanovt
 **Aoi Sakura (Indie)** - https://civitai.com/models/323057/aoi-sakura-vtuber
 **Nana Chan (Indie)** - https://civitai.com/models/323727/nana-chan-vtuber-ru
+**MegalodonVT (Indie)** - https://civitai.com/models/328660/megalodonvt-vtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -66,6 +67,8 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **Nene Amano (Production Kawaii)** - https://civitai.com/models/314926/nene-amano-1st-costume-production-kawaii
 **Shirakami Fubuki (Hololive)** - https://civitai.com/models/319673/shirakami-fubuki-hololive
 **KarmaVT (OWOzu)** - https://civitai.com/models/322576/karmavt-nsfwsfw
+**RakkunVT (OWOzu)** - https://civitai.com/models/328428/rakkunvt
+**Tenma Maemi (Phase Connect)** - https://civitai.com/models/107434/tenma-maemi
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

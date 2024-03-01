@@ -375,8 +375,7 @@ https://free-mp3-download.net - download single tracks as MP3/FLAC (max 16-bit, 
 
 #### DoubleDouble
 
-https://doubledouble.top - download complete albums from ==Spotify==, ==Soundcloud==, ==Qobuz==, ==Deezer==, ==Tidal==, ==Amazon Music==, or ==Napster==.
-Quality depends on service (at Qobuz up to 24-bit, 192 kHz).
+https://doubledouble.top - download complete albums from ==Apple Music== (including lossless ALAC), ==Spotify==, ==Soundcloud==, ==Qobuz==, ==Deezer==, ==Tidal==, ==Amazon Music==, or ==Napster==. Quality depends on service (at Qobuz up to 24-bit, 192 kHz).
 ***
 
 > ## Utilities

@@ -151,7 +151,10 @@ https://files.catbox.moe/uuk2uf.mp4  New  2/24/24
 https://files.catbox.moe/v6y4oh.mp4  New  2/27/24
 
 >WATCH: Al-Quds Brigades published a video showing the joint-operation with the Nasser Salah al-Din Brigades shelling, with mortar launches
-https://files.catbox.moe/7kyprc.mp4 New  2/28/24
+https://files.catbox.moe/7kyprc.mp4  New  2/28/24
+
+MUST WATCH: Al-Quds Brigades published a video showing scenes from the battles its forces fought in the Al-Zaytoun neighborhood
+https://files.catbox.moe/1l8m72.mp4  New  2/29/24  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 AnsarAllah Videos 
@@ -395,3 +398,11 @@ https://files.catbox.moe/t80grr.mp4 New  2/28/24
 https://files.catbox.moe/5y7034.mp4 New  2/28/24 
 >White House Press Secretary Karine Jean-Pierre says Biden's administration will not change its policies, backing Israel's genocide in Gaza "but what we can do is get to a temporary ceasefire."
 https://files.catbox.moe/k6tslu.mp4 New  2/28/24
+>Scenes from Kamal Idwan Hospital following the humanitarian aid massacre at Al Rasheed Street. Kamal Idwan Hospital was announced out of service yesterday due to the lack of fuel and medical supplies.
+https://files.catbox.moe/y1dhvy.mp4 New  2/29/24
+>Five Israeli settlers, protected by Israeli forces, blocked the entry of humanitarian aid to Gaza through Karem Abu Salem today.
+https://files.catbox.moe/0sz6ic.mp4 New  2/29/24  
+>Tens of thousands of #Palestinians are waiting for aid at the 17th roundabout in western #Gaza, as famine and the siege imposed by the occupation continue.
+https://files.catbox.moe/plob89.mp4 New  2/29/24        
+>Obtaining a bag of flour in northern Gaza has turned into a fatal journey, as Israeli forces impede aid trucks from reaching the northern regions and target civilians seeking access to this aid if permitted to pass.
+https://files.catbox.moe/5l2ttg.mp4 New  2/29/24

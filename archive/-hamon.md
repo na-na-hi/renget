@@ -16,7 +16,7 @@
 -> ![](https://massacre.crd.co/assets/images/gallery04/d7549a49.gif?v=40f90844) **Good Friends** <-
 -> [Di](https://diegobrandos.carrd.co/)ego ⋆ [Me](https://www.instagram.com/melonemoment/)l ⋆ Ghost ⋆ Nathan
 [Ad](https://itsadrian.carrd.co/)rian ⋆ [Ma](https://shhsoftnwet.carrd.co/)x ⋆ Danny ⋆ [De](https://cys.crd.co/)sy
- [Se](https://rentry.co/mogeko)ra ⋆ [Ku](https://rentry.co/-KUR0)r ⋆ [Mi](https://rentry.co/KAGEHlRA-)ko ⋆ Cal <-
+ [Se](https://rentry.co/cookiesnmilk)ra ⋆ [Ku](https://rentry.co/-KUR0)r ⋆ [Mi](https://rentry.co/KAGEHlRA-)ko ⋆ Cal <-
 
 ->![](https://massacre.crd.co/assets/images/gallery25/3f7d0469.gif?v=40f90844)<-
 

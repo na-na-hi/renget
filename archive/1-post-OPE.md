@@ -6,15 +6,14 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 267th time, what is Ope?!
+For the 268th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream ("Twilight: New Moon" watchalong with Shiori and Iofi on Shiori's channel, Thu 02/29 9PM CT)
+Next stream: Devour collab with Orihime, Zentreya and Himura Kuraudo (Fri 03/01 9PM CT)
+Last stream ("Twilight: New Moon" watchalong with Shiori and Iofi on Shiori's channel)
 https://www.youtube.com/watch?v=Bc75OYcIXFU
-Last stream (Demonologist collab with Shiori and Bijou, Wed 02/28 7PM CT)
-https://www.youtube.com/watch?v=wJYcFg2GL5Y
 Previous appearance (Kiara's Palworld stream)
 https://www.youtube.com/watch?v=3BWgFF9hO4s&t=2340s
 
@@ -37,7 +36,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>70240796
+Previous thread: >>70315645
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
@@ -69,7 +68,3 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to get your movie for the upcoming watchalong of "The Twilight Saga: New Moon" on Shiori's channel later today.
-
-Anon's MEGA link, 2GB, 1080p
-https://mega.nz/folder/k2tUyRKQ#9W80fZyLF9LPr7OKuaIq3g

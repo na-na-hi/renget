@@ -1,0 +1,1 @@
+Sorry, due to outside circumstances this writefag has been taken down. A cartel repeatedly hit me in the testicles until I relented.

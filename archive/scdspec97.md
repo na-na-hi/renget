@@ -1,83 +1,67 @@
-# SCDSPEC97 (Feb 2024 Trollpasta) 
+# SCDSPEC97 (trollpasta.)
 
+I had caught wind of a new Sonic CD leak over Twitter the other day because a bunch of people I followed were talking about it. It was a version of Sonic CD's PC port dated to September of 1997 that never saw the light of day which had leaked out and was apparently taken down by SEGA which was weird since they don't usually do that. The prototype itself seemed...uninteresting to say the least. Someone said it had no visible changes, another said it had 3D special stages, upgraded from the faux 3D Mode 7 of the original game...another was schizoposting about how one of the levels turned their life into a living nightmare, not sure why I bothered reading it. Somehow, I concluded it was worth checking out, so I scoured the internet for hours trying to find a download link without much luck at all.
 
-I woke up, got on my computer and checked the internet like any other day. A couple of people online were talking about a "new" version of Sonic CD's PC port that was leaked last night, and apparently copyright striked to hell by SEGA within hours in an unusual move, so I had to see it. A couple of them were talking about the prototype itself, and I learned details, like when it was supposed to release (1997), what it contained (mostly enhancements, apparently full 3D special stages too?), but none of them seemed to know why it was taken down, only pure speculation, since I've never seen them do that for prototypes. One of them was even schizoposting about one of the levels, I paid no attention to it. I wanted to play it. But, of course, I couldn't. No downloads. So I just sulked, since people seemed weirdly defensive around it and unwilling to share it.
+I decided to ask my friends if they knew anything about it. Most of them told me to avoid it but one of them actually had it downloaded and was willing to share it with me, and not much later I had "SPECSCD.zip" in my Downloads. I extracted it to my desktop and tried to open the executable, and.....yeah, it crashed every single time. It seems Windows 10 doesn't exactly work with this game, which was entirely expected. Unwilling to give up I popped open my Windows XP virtual machine and attempted to load the game using it. 
 
-One option came to mind, so I messaged my friend, who was super into this stuff like me, but didn't have a computer to try it himself. Luckily, he came in clutch, and actually had downloaded a copy of it to his phone, so I asked him to send it over! He seemed unsure at first, so I instructed him not to believe in the crap people were spouting online, and after some convincing, he sent it over. I downloaded "SPECSCD.zip" and extracted it to my desktop. Inside were simply the files for the game itself dated to 1997 as expected and a shortcut to launch it. I hadn't played Sonic CD in a while, and despite not being really the biggest fan of it was actually somewhat eager to give it a play, so without further ado, I double-clicked on the shortcut to play the game.
+This time, it actually worked. Found out the game is supposed to be called Sonic CD Special. Neat. Wonder what's so "special" about it.
 
-I didn't bother to set up a VM so I was actually happy when it opened without incident, showing SEGA's logo, and then the title screen. Sonic's face was different from the original port, reverting back to how it was in the original Sonic CD game albeit stretched a bit to fit the resolution of this version. I waited a bit, and the opening FMV played without issue, and it actually looked to be in a slightly higher quality than the original port. Getting back to the title screen, it told me to PRESS ENTER, and like a good consumer, I did. Unlike the original, instead of just bringing up a menu there, it faded out, bringing me to a "Main Menu" reminiscient of the Visual Mode menu. The menu was mouse-driven, so I clicked "Options" first...didn't work, so I just pressed New Game and hoped I didn't have to configure anything.
+![Title](https://files.catbox.moe/1h2zy7.png)
 
-![The main menu.](https://files.catbox.moe/qzatpa.png)
+Nothing really seemed different apart from the year changing to 1997, so I just hit space.
 
-Starting into Palmtree Panic I had to at the start guess the keybind for jump, which was Z. Moving on, I sped through the act (Fuck whoever decided to name Acts zones and Zones rounds) and made note of any changes I saw. For instance, the horrible spindash of the original is gone, it just uses the one from Sonic 2. Good change, since I don't think anyone actually likes that one. The jump sound was also changed to the one from the Genesis games, which was a weird change, I don't think anyone actually complained about that, but I didn't mind it. Making sure to grab 50 rings beforehand, I reached the goal, and jumped into the giant Ring, expecting full disappointment from the "3D" special stages, which I hadn't seen any screenshots of prior. Like I said, the game was entirely scrubbed from the Internet, so there were only people talking about it, and no actual footage.
+![Menu](https://files.catbox.moe/iuqjqa.png)
 
-At least I was pleasantly surprised to see that they were actually fully 3D, everything was fully modeled out apart from the ground. Looked something like Mania's special stages, while I was expecting some dogshit like the ones from PC 3D Blast. It still controlled pretty well, so I was able to get the Time Stone. I shot my friend a message giving him thanks for giving the file to me, and decided to continue on, beating Sonic CD for...I'm not sure what time this is, I've completed it more than a few times. While I played I continued to make note of any random changes I saw, like for example Sonic saying "Yeah!" when passing a sign post. It got annoying quick, but it was neat.
+There was an "entirely new" menu which was literally just the Visual Mode menu with different options. Nothing seemed to be implemented yet apart from the basics, which gave me an impression as to how early this was scrapped. Trying to figure out how to operate it I noticed the buttons highlighted in yellow when moused over, so I attempted to open the options menu. Didn't work. I wasn't even sure why it was there since it was in the title bar too and worked fine. In fact, nothing worked except New and Load Game. Trying to load just pops up a dialog saying "No Saved Game" so I just start a new game. The intro FMV plays, and before I know it I've begun Palmtree Panic.
 
-The playthrough was going (mostly) well, despite Collision Chaos fucking sucking, and by the time I hit Wacky Workbench I had all of the Time Stones. I failed a few special stages, which showed Sonic getting pulled under the water when you did, which was somewhat creepy. This is when I started to notice something odd happening. The collision throughout the first Act was broken, leading me to die a few times as a result, but luckily I had gotten enough extra lives to tank it, and still managed to make it to the end of the act, even somehow with 50 rings, so I managed to take down the final Time Stone.
+![its sonic cd, holy shit](https://files.catbox.moe/wgolhe.png)
 
-That was the last normal part of the game I played. Starting the second act, the launcher at the beginning was completely missing, so I just ran past where it would've been, thinking it was a bug. The act itself was also full of collision bugs, a little worse than the first, but I was more prepared and managed to get past it all. Running towards the signpost, things were going well, until...
+There's nothing much to say here. The only enhancements I noticed were either actually good ones like the Genesis spin-dash, or confusing sidegrades like the Genesis jump sound. I collected 50 rings and hopped into the giant ring at the end of the level. Since I had heard about "3D" special stages, I wanted to see what that was all about.
 
-![Image description](https://files.catbox.moe/eoooox.png)
+Disappointing but expected to say the least, they weren't really 3D. Sure, Sonic had a 3D model now, but nothing else did. I feel like they PLANNED to have everything be 3D, but this must've been scrapped so quickly they never had time. I decided to fail just to see what would happen. Sonic looked to the screen, emotionless, as he was dragged underneath the stage. Creepy, but unfinished, expected.
 
-Sonic was knocked off the stage by a miscolored clone of him coming out of nowhere on that missing launcher from before! He fell to the bottom of the screen, and his sprite was mangled into a glitchy pile before disappearing. The miscolored Sonic had touched the signpost before I did, miscoloring it in his image, before walking back in from the left of the screen and standing there wagging his finger. He continued to do that for around 5 seconds before the game closed. Not before the graphics glitched various colors and the game emitted an ear-piercing noise..
+Not much else worth noting past this outside of a couple of odd changes, like for example Sonic uses his "Yeah!" voice clip when passing a goal post, which gets annoying quicker than you think. I ended up getting all the Time Stones by Quartz Quadrant through purely dumb luck, managing to somehow not fail a single stage. I usually fail the last 3 all the time.
 
-...What the FUCK was that? I spent a solid minute just trying to comprehend what was going on before deciding to just try reopening the game, cause why not, I had to complete it! I had a rare-ass prototype scrubbed off the net in my hands, I was going to see what it contained. 
+Hitting Wacky Workbench, which is...not my favorite level. Zone 1 appears fine at first, but the collision is actually horribly broken for no reason, resulting in me dying a few times, but at least I had enough extra lives to get through it. Zone 2 just started oddly, the launcher just not being there, so I walked ahead of where it would be. Getting to the end of that and dropping down, Sonic just stopped near the edge. There wasn't anything I could do, and I also noticed by this point the HUD had mostly faded out leaving only the lives counter. I wasn't expecting what happened next.
 
-![Image](https://files.catbox.moe/0f6v4u.png)
+![the sequence](https://files.catbox.moe/hho0ng.png)
+![the sequence](https://files.catbox.moe/9gf4sp.png)
+![the sequence](https://files.catbox.moe/42m6nj.png)
+![the sequence](https://files.catbox.moe/rv2uip.png)
+![the sequence](https://files.catbox.moe/ze7h1j.png)
+![the sequence](https://files.catbox.moe/4otjze.gif)
+![the sequence](https://files.catbox.moe/znlv2o.png)
 
-Before re-opening the game, I took note of the icon for starting the game changing colors, matching that miscolored Sonic I saw.
+As the game's graphics glitched out it emitted an ear-piercing noise from my headphones before closing itself.
+I don't think I need to explain what I can only describe as a hostile takeover of the game itself by a completely miscolored Sonic, but what caused this? I'm guessing it must be an easter egg? I spent an entire minute just sitting there trying to comprehend it before I decided to just reload the game. I really wanted to see if this had any other differences within it.
 
-![Image](https://files.catbox.moe/3jt70d.png)
+Yeah.....Fuck.
 
-I reached the title screen, and once again, that miscolored Sonic appeared. He had purple fur, and completely blackened eyes, with dark purple pupils. His skin was yellow, and his gloves were a light blue. Based on what I saw, I assumed he would have yellow shoes too. At any rate, I assumed that was it, so I pressed enter to go back to the menu. 
+![Broken Title](https://files.catbox.moe/rjli5g.png)
 
-![The new main menu.](https://files.catbox.moe/cue0p6.png)
+I noticed the game was calling itself "Workbench CD" which concerned me, and the title screen Sonic was either not Sonic at all or severely miscolored. I just went ahead to the menu which had nothing left. The background was just purple and there was only one option left. Play.
 
-The background was entirely purple, and there were no options left, only one to "Play" so I clicked it.
+![Broken Menu](https://files.catbox.moe/76j5k9.png)
 
-![Image](https://files.catbox.moe/q43wwj.png)
+I oblige, what else is there to do.
 
-It took me back to Wacky Workbench, with the act number replaced with an infinity symbol, which I didn't understand. The only difference I noted so far besides that was simply that I wasn't playing as Sonic anymore. I was playing as his killer, his clone with improper colors that couldn't jump as high or run as fast. The lives gauge was gone, which I assumed just meant I could die as many times as I wanted. Great! I'm gonna need that. 
+![Uh oh!](https://files.catbox.moe/e5fiqu.png)
 
-![another shitty sprite edit for the pile](https://files.catbox.moe/r0zmhy.png)
+I guess I'm playing as "Workbench" now. The Zone number just had an infinity symbol so I simply assumed this was the only level left. No lives now. Most likely infinite. Not that I'm complaining.
 
-After 5 seconds on the in-game clock passed, "Sonic" turned to me and screamed out "You fucking suck at this game!" in a robotic voice, a lot like that of Microsoft SAM. While he did so, his eyes glowed a pulsating red color, and his pupils turned a dark green, like the alarms in the background of the level.
+Not much of note but the zone was just a lot harder for some reason, with weird Cat Mario-esque sneaky traps appearing out of nowhere and the layout itself seeming almost randomized. I still managed to get to the end, past the "GOAL" sign, nearing the goalpost and-
 
-I could tell this was going to be very very interesting and not at all annoying. In any case, I had to finish this game, so I continued. Suddenly, spikes came out of nowhere out of the ground, hurting Sonic, and not much later, a part of the level above Sonic just came down and crushed him! This isn't supposed to happen, why the hell is the game just now deciding to pull out some Cat Mario-level bullshit???? Nonetheless, I continued on, sustained by my drive to finish this prototype, despite dying many, many, many times and getting many profanities yelled at me by Sonic's killer, who I decided to name Workbench after the level, I finally managed to make it to the goal, and... there was no goal. The level looped back on itself, and despite my shock at it happening, I decided to begrudgingly continue, noting that the layout had changed. This thing wasn't just looping, it was generating new bits and pieces of Wacky Workbench just to spite me.
+I'm back at the start. Not even a transition or anything I'm just back at the start. Willing to persist I continued, with the layout seemingly further randomized, but this time I died. Then I died again. Taken back to the start, I couldn't move "Workbench" as he turned to the screen.
 
-Meanwhile, Workbench's insults got worse, as I heard things like "FAGGOT" "HANG YOURSELF LITTLE FUCKWAD" and "OHHHHHHHHHH LITTTLEEEEEEEEE (i'm not putting my name here, but it somehow knew my fucking name.) YOU SHOULLDDDDDDD KILLLLL YOURSELFFFFFFF! KEEEEK!!!!!!" and eventually I just had enough of it and closed the game. At this point I decided to start looking for ways to reverse this, managing to find the game's folder in AppData and deleting it. But it didn't work, it's still in that state, and now I'm lost. No matter what I deleted, I still couldn't fix it, even after worming deeply through my computer's registry and everything, deleting whatever I could relating to the game outside of the game itself, nothing.
+![HELLO](https://files.catbox.moe/j38tcs.png)
+"KILL YOURSELF, FAGGOT."
+I was outright shocked, I'd heard and used that kind of language before, but I would NEVER expect to hear it in a Sonic game. Then I got curious and killed "Workbench" over and over to hear if he was going to this every single time from then on, and what he would have to say. Here's the two I managed to get since he only does it every three deaths:
 
-At this point, I assumed I had seen everything I had to see in the prototype and just deleted it. However, I was still eager to play some Sonic CD, so I loaded up the 2011 version, opening it and... I stared at the title screen with a 1000-yard stare...Sonic was miscolored here, there were no menu options except "Play", the looping Wacky Workbench...it was all here...but...how? Two different versions of the game, one shouldn't affect the other, this is...inexplicable....  I decided being out of options I downloaded a copy of the original Sega CD game on the internet to just emulate it, and opened it through Gens and...Are you SHITTING ME????? IT'S HERE TOO?????? FUUUCKKKK... I was starting to feel afraid, and running out of ideas and simply, way, WAY too eager to play Sonic CD without owning a real copy of it, I backed up everything, wiped my hard disk, and re-installed Windows anew. And it didn't do jack-shit! At this point it had permeated so deep into my computer that every copy of Sonic CD I had was just entirely fucked on that PC, permanently...
+"HANG YOURSELF, LITTLE FUCKWAD."
+"OHHHHHHHHHHHHHHHHHHHHH LITTTTTTTTTLLLEEEEEEEEEEEEE (My actual name, my ACTUAL fucking name, I don't know how the game knew it.) have you ever tried jumping off a BRIDGEEEEEEEEEEE! HAAAAAAW HAAAAAAAAAAAAW HAAAAAWWWWWWWWWWW!" (God, that one took a while for me to be able to keep playing.)
 
-I tried my best to stay calm despite the fact I was on the verge of breaking down, and instead decided to just play a different Sonic game, so I loaded up Sonic Mania, opening my save file, and...
+I got bored of this quickly and closed the game. I wanted to see if I could reset the game so I roamed through the files, registry, AppData, and deleted as much of what looked like the game's savedata as I could, but nothing worked and it was still just "Workbench CD". I decided at that point that I'd seen enough and just deleted the game.
 
-![FUCK](https://files.catbox.moe/7bpsjv.png)
+!!! note look I can't be assed to rewrite the rest right now so I'm just gonna link to the original version of the rest, I'll get to it...maybe....I don't know.
 
-No. No... No no no no no no no no no. Fuck...why...how? How the fuck is this...why is this.. how is this happening to me? I screamed out, before catching myself because my family members were asleep, like I was going to be stuck playing this shitty level for as long as I lived, but then I remembered that I own one other platform, a phone with all the classic Sonic ports that were released on it, and....HAHAHAHAHAAHHAHAAHHAHAAHAA FUUUCK it's fucked here too, all of them are...that shouldn't even be possible, it's like all the 2D games are FUCKED.... just GONE.... so I decided to play Sonic Forces, because man it fucking SUCKS but at least it wouldn't be affected and...
-
-![Image description](https://files.catbox.moe/7kwbhx.png)
-
-No. Every level just says Wacky Workbench, and playing one of the Modern levels, I can confirm it. 3D versions of Wacky Workbench that shouldn't be possible, each of them unique, each of them looping infinitely. Every game...EVERY GAME....Even the ones that weren't Sonic that I had on Steam, VVVVVV, Half-Life, fucking Yume Nikki, they all just had a looping version of Wacky Workbench to play. EVEN FUCKING FNAF, EVEN FUCKING FNAF!!! THE OFFICE AND THE CAMERAS ALL JUST DISPLAYED WACKY WORKBENCH, ALL THE ANIMATRONICS WERE JUST HIM. WORKBENCH. FUCKED UP SONIC. HIM. 
-
-I can't deal with this, so I sent my friend an enraged message, and when he responded in mocking disbelief, I told him to eat shit and blocked his number. I decided to just force myself to go to sleep, desperately hoping I'd feel better in the morning.
-
-(6 hours passed.)
-
-Are my dreams... are they even worth describing? I was just running through the zone over and over, dying, and starting over. Only to repeat the cycle again. I couldn't even escape it in my dreams, I woke up over and over, and I could still see it in the corner of my eyes... I turned on my computer again, having unplugged it through the night, and it didn't even bother opening a system, it just displayed Wacky Workbench, so I unplugged the computer but it just kept going so I just worriedly walked away from it. I decided to just try to clear my head and go for a walk, but when I looked out the front door... Wacky Workbench. It was just then I remembered the schizophrenic ramblings I read online...they were true. He was living through what I am living through now. I can't...I can't fucking do this... I closed the door and ran into the living room, remembering that there was a loaded handgun there. Without any hesitation, I press it to my head, and pull the trigger.
-Nothing. It just clicks. Nothing came out. Should I feel happy about that? Lucky I'm still here? I wasn't even sure anymore as I pulled out the magazine and it was only full of pictures of Workbench in his zone. None of it makes sense and I don't know what I'm supposed to do...
-
-The walls began to fade, the floor along with it, the room vanishing, becoming Wacky Workbench.
-
-As in my ears, I started to hear the music of Wacky Workbench's present fade in, becoming all I could hear, I fell to the ground, sobbing.
-
-Even if I kill myself now, what comes after is probably at this point just like this, and that's if I don't just get brought back from the dead...
-
-"it's never been more over than it is now.."
-
-
-!!! info credits part
-
-sega/sonic team - og sprites
-spriters resource - has the sprites ripped
-
-transparent curse take drawing - https://files.catbox.moe/z6fx9d.png
+[Part 2 AKA the unrewritten sections](https://rentry.org/RemnantWorkbenchFeb)

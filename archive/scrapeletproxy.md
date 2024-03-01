@@ -12,7 +12,7 @@ So here's what's happening:
 * The main proxy, veryscrappy.moe, will be shut down and replaced with a static page.
 * [Cooders](https://cooders.veryscrappy.moe) (Filtered Azure GPT, no quota, tools enabled) will remain up.
 * [Desu redirect](https://desu.veryscrappy.moe) will remain up.
-* I'll have the server until April, and the domain until next January.
+* I'll have the server and the domain until next January, at least. I will re-evaluate things when the time comes.
 * If you want to use the domain or server for proxy-related things in that timeframe, send me an email.
 * I will not answer any emails asking for user tokens, but I will answer other emails.
  (Update: I also won't answer emails asking why you got banned.)

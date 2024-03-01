@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-02-23==
+# /aicg/ chronicles, up to ==2024-03-01==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1193,7 +1193,7 @@ When | Where | What
 2024-02-18|[99054121](https://desuarchive.org/g/thread/99051779#99054121)| Anthropic valued at more than $18 billion premoney
 2024-02-18|[99055726](https://desuarchive.org/g/thread/99055257#99055726)| anon advises... eh, here's a generated tagline "Spice up AI conversations: Experiment with token spacing and more!"
 2024-02-18|[99058400](https://desuarchive.org/g/thread/99058293#99058400)| llm performance decreases with long inputs, but Google has ideas
-2024-02-18|[99058593](https://desuarchive.org/g/thread/99058293#99058593)| anon haz crazy interesting theory about Claude's context size
+2024-02-18|[99058593](https://desuarchive.org/g/thread/99058293#99058593)| anon has crazy interesting theory about Claude's context size
 2024-02-19|[99060356](https://desuarchive.org/g/thread/99058293#99060356)| irrelevant GPT-J likes dicks
 2024-02-19|[99071052](https://desuarchive.org/g/thread/99069462#99071052)| llms become dumber when asked complex questions with scattered supporting facts
 2024-02-19|[99074109](https://desuarchive.org/g/thread/99072974#99074109)| Aesir dataset containing Mancer logs leaked
@@ -1224,6 +1224,42 @@ When | Where | What
 2024-02-22|[99124001](https://desuarchive.org/g/thread/99123616#99124001)| Gemini 1.5 Pro multimodality demoed
 2024-02-22|[SD3](https://stability.ai/news/stable-diffusion-3)| Stable Diffusion 3 early preview announced
 2024-02-22|[6:42 AM](https://www.cnbc.com/2024/02/22/google-pauses-gemini-ai-image-generator-after-inaccuracies.html)| Google pauses Gemini image generator
+2024-02-23|[unsettling](https://huggingface.co/blog/leaderboard-haizelab)| HF introduces a red-teaming resistance leaderboard
+2024-02-24|[99151320](https://desuarchive.org/g/thread/99148902#99151320)| anon gets Gemini 1.5 Pro access...
+2024-02-24|[99151545](https://desuarchive.org/g/thread/99148902#99151545)| accessible only via Google AI Studio, no API provided
+2024-02-24|[99152477](https://desuarchive.org/g/thread/99148902#99152477)| anon finds a Sora key, supposedly useless
+2024-02-24|[99156667](https://desuarchive.org/g/thread/99155748#99156667)| OAI does recommend to use XML tags
+2024-02-25|[99163434](https://desuarchive.org/g/thread/99161463#99163434)| Nvidia says programmers aren't needed anymore
+2024-02-25|[99165929](https://desuarchive.org/g/thread/99164405#99165929)| Gemini 1.5 Pro detail recall reported to be impressive
+2024-02-25|[99168671](https://desuarchive.org/g/thread/99167274#99168671)| redditor does the math and believes, info obvious from the Gemini 1.5 Pro model card
+2024-02-25|[99169067](https://desuarchive.org/g/thread/99169049#99169067)| HF TTS Arena is shilled
+2024-02-25|[99171986](https://desuarchive.org/g/thread/99170756#99171986)| anon claims Anthropic is now pozzing every single API key
+2024-02-25|[b4fdf3d](https://github.com/agnaistic/agnai/commit/b4fdf3dfe4d390bdc5fd2b4f41460c93bb3df4bc)| Agnai gets TabbyAPI and Mistral API support
+2024-02-26|[99188829](https://desuarchive.org/g/thread/99187343#99188829)| another benchmark shows how reasoning performance drops with context growth
+2024-02-26|[99188930](https://desuarchive.org/g/thread/99187343#99188930)| Google isn't ready to lose any employees to the competitors in AI sector
+2024-02-26|[99191014](https://desuarchive.org/g/thread/99187370#99191014)| Microsoft makes a deal with Mistral AI, hosting the models on Azure...
+2024-02-26|[99191026](https://desuarchive.org/g/thread/99187370#99191026)| ... while Mistral releases Mistral Large, Mistral Small, Le Chat, and removes mentions of its dedication to open source
+2024-02-26|[99189627](https://desuarchive.org/g/thread/99185753#99189627)| new lightweight TTS model MeloTTS released by myshell\.ai
+2024-02-26|[99188288](https://desuarchive.org/g/thread/99185753#99188288)| new synthetic anime-themed text dataset released
+2024-02-26|[99191657](https://desuarchive.org/g/thread/99187370#99191657)| anon uses Mixtral on anyscale\.com
+2024-02-26|[99192634](https://desuarchive.org/g/thread/99187370#99192634)| c\.ai redesign UI showed
+2024-02-27|[99205532](https://desuarchive.org/g/thread/99203735#99205532)| anon finally shares the prompt for uncensored image recognition outputted as JSON
+2024-02-27|[99209801](https://desuarchive.org/g/thread/99209665#99209801)| OAI claims to be hacked by NYT "by using deceptive prompts that blatantly violate OAI’s terms of use"
+2024-02-27|[99209860](https://desuarchive.org/g/thread/99209665#99209860)| freellamas anon is back briefly, updates the Colab guide
+2024-02-27|[99211917](https://desuarchive.org/g/thread/99209665#99211917)| email spam continues
+2024-02-28|[99214595](https://desuarchive.org/g/thread/99213303#99214595)| akuma\.ai introduces a tool to turn sketches into manga in real time
+2024-02-28|[99222796](https://desuarchive.org/g/thread/99220758#99222796)| the era of 1-bit llms: all llms are in 1.58 bits, i.e. something extremely promising for localchads
+2024-02-28|[99224221](https://desuarchive.org/g/thread/99220050#99224221)| Emote Portrait Alive - generating expressive portrait videos with audio2video
+2024-02-28|[12:35 PM UTC](https://twitter.com/arthurmensch/status/1762818733016322168)| Mistral CEO says they're still good
+2024-02-28|[99229164](https://desuarchive.org/g/thread/99227589#99229164)| a running instance of gpt4free shared
+2024-02-28|[99231944](https://desuarchive.org/g/thread/99227589#99231944)| anon scraps 22800 bots metadata from CharacterHub...
+2024-02-29|[99233346](https://desuarchive.org/g/thread/99233144#99233346)| ... and shares the stats with /lmg/
+2024-02-29|[99232752](https://desuarchive.org/g/thread/99228221#99232752)| BitNet b1.58 expected to deliver so much more for so much less
+2024-02-29|[99234485](https://desuarchive.org/g/thread/99233144#99234485)| Meta supposedly calls Llama 2 too cucked, supposedly intends to release Llama 3 in July
+
+***
+###### March 2024
+When | Where | What
 -|-|-
 
 [](you have found my secret stash of nothing!)
