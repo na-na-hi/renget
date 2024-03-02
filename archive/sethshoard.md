@@ -7,12 +7,10 @@
 Discord [@sethsrus](https://discord.com/users/663738181010849804)
 Twitter [@sethsrus](https://twitter.com/sethsrus)
 Instagram [@sethsrus](https://www.instagram.com/sethsrus/)
-%#81c6c6% *Note :: I usually decline trades, I plan to use all my urls.
+%#81c6c6% *Note :: I am more likely to decline trades, I plan to use all my urls.
 Though, if you have a url I want more than one I currently have, I'll happily accept.*%%
 
 **Sign My [Guestbook](https://risotto.123guestbook.com/)**
-%#81c6c6% *If you're going to get upset me at me over not accepting your trade, 
-please post a message on here! I love laughing at you with my friends.*%%
 ***
 ***
 

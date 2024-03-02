@@ -616,7 +616,7 @@ Pink splotches cover his entire body, and he wears a purple and yellow scarf. No
 
 “I'm one of the new guild members, and my name is Cheesecake! I'm part of Team Gumbo!”
 
-“...Oh.” He's cheerful, but... This isn't Wooper, it's just A Wooper! “I'm Chespin... Sorry, you looked like my partner at first glance.”
+“...Oh.” He's cheerful, but... This isn't Wooper, it's just *A* Wooper! “I'm Chespin... Sorry, you looked like my partner at first glance.”
 
 He seems to notice my disappointment for a split second, but moves right past it, saying, “I do?! There's another Wooper here? That's awesome!”
 

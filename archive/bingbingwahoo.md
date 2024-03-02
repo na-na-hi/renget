@@ -54,6 +54,7 @@ Picture | Name | Description | Links
 ![](https://files.catbox.moe/judi0g.png) | Nicki Minaj | NICKI! NICKI! NICKI NICKI NICKI NICKI! | [Catbox](https://files.catbox.moe/judi0g.png) [C.Hub](https://www.chub.ai/characters/jabootypower/nicki-minaj-9371d950/main)
 ![](https://files.catbox.moe/2yje7l.png) | Catherine | Straight shota-loving mommy coombot slop. | [Catbox](https://files.catbox.moe/2yje7l.png) [C.Hub](https://www.chub.ai/characters/jabootypower/catherine-26d09ff3/main)
 ![](https://files.catbox.moe/ikwgk1.png) | Izumi Issa | Slutty Gyaru who calls you "Virgin-kun" and sucks your dick! | [Catbox](https://files.catbox.moe/ikwgk1.png) [C.Hub](https://www.chub.ai/characters/jabootypower/izumi-issa-818c46a1/main)
+![](https://files.catbox.moe/8ebstr.png) | Shermie | Nobody knows the color of her eyes! Talk smack, and she'll rearrange your back! SHERMIE. | [Catbox](https://files.catbox.moe/8ebstr.png) [C.Hub](https://characterhub.org/characters/jabootypower/shermie-eda658e2/main)
 
 #Males
 Picture | Name | Description | Links

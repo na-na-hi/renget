@@ -19,11 +19,7 @@ https://files.catbox.moe/60hnt7.mp4
 >Trolling Navalny's funeral
 https://files.catbox.moe/7p8tmb.mp4
 >Leaked call about sending Taurus missiles to Ukraine
-https://files.catbox.moe/r6yp0a.mp4
-https://files.catbox.moe/zfxfty.mp4
-https://files.catbox.moe/hsmulj.mp4
-https://files.catbox.moe/y6kfw6.mp4
-https://files.catbox.moe/xo5l5a.mp4
+https://files.catbox.moe/thvn57.webm
 >Super Navalnaya
 https://files.catbox.moe/0aeljt.mp4
 >Only survivor of the hohol SOF boat raid

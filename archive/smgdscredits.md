@@ -12,7 +12,7 @@
 **[Giiv](https://m.youtube.com/channel/UCJHYXefsQLKRMhhtkii_TKw)** - [Creator of nn/Impasta](https://rentry.org/impastann)
 **[TelevisionGhost](https://televisionghost.newgrounds.com/)** - Original Impasta Form Design
 **[MagicMushroom999](https://magicmushroom999.newgrounds.com/)** - Concept Art, Character Design
-**[revie03](https://revie03.newgrounds.com/)** - Creator of EXE/Faker and Sonic Prototype 2017
+**[revie03](https://revie03.newgrounds.com/)** - Creator of EXE/Faker
 **[Simoneister](https://wiki.mfgg.net/index.php?title=Simoneister)** - [Super Mario Galaxy Beta Screenshot Rips](https://shorturl.at/rRWX0)
 **[Pablo Belmonte](https://www.youtube.com/@Pabl0Belm0nte)** - [Creator of Super Mario Galaxy DS Hoax](https://youtu.be/EfHDSrNjUA8?si=sGDOnacCfaCrjnMt)
 **[Nintendo®](https://www.nintendo.com/)** - [Super Mario™ Franchise](https://www.nintendo.com/us/store/products/super-mario-bros-wonder-switch/)

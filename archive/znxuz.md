@@ -189,7 +189,3 @@ yes! tested with the very last version of the card in chub. but it shys with NSF
 #### credits and thanks:
 - Barbariska, AmmoniaM, bfs15, Flamanon - for their variation of Spermack/Slaude
 - PandarusAnon - because I stole their code
-
--> **contact::** -> 
--> ==raremew@proton.me== ->
--> Discord: ==rarestMeow#0836== ->

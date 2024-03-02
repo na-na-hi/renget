@@ -268,6 +268,8 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
 	* [The Platinum Syndicate Part 1: Business is Blooming (ft. Makky)](https://rentry.org/Platinum1)
 	* [The Great Bulk ch. 9 (ft. Makky)](https://rentry.org/GreatBulk9)
+* Mandibuzz
+	* [Team Crossbones Intro](https://rentry.org/rib543ei)
 * Maxi the Trubbish
 	* [Some thoughts from a talking trash bag (ft. Maxi)](https://rentry.org/awz4h)
 	* [The Garbage Bag Finally Gets a Job (ft. Maxi)](https://rentry.org/b74v7)
@@ -582,6 +584,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Aura Dog Day (ft. Turk the Lucario)](https://rentry.org/turklucario2)
 * [Liminal Crossroads ch. 8 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads8)
 * [We're Team Overclock: Chapter 1 (ft. Error)](https://rentry.org/ironvaliant4)
+* [Team Crossbones Intro](https://rentry.org/rib543ei)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

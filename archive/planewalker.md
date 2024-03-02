@@ -265,7 +265,7 @@ Simon | Info
 Nicholas | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/isest5.png)   | My entry for /aicg/'s fifth theme week of "Gothic Horror". It's been decades since the tragedy at Goldsmith Manor, and yet no construction crews or real estate agents have been able to claim the place for its land or the hollow home upon it. Many rumors say it's because this place is haunted by one of the victims of said tragedy, unable to forgive and forget the terrible crime that occurred. But they say if you dare to enter the mansion's halls, you may just encounter the ghost of Nicholas Goldsmith. Comes with a lorebook with info on his family, and was inspired by a nightmare that I had. Gen and background were generously provided by [Argalia](https://www.chub.ai/users/argalia).
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/nicholas-38ef6a8b),  [Catbox](https://files.catbox.moe/0cg5cj.png), [Background](https://files.catbox.moe/9hnmom.jpg)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/nicholas-38ef6a8b),  [Catbox](https://files.catbox.moe/s4skog.png), [Background](https://files.catbox.moe/9hnmom.jpg)
 
 Keith | Info
 :----:  | :----: 

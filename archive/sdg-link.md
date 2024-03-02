@@ -156,7 +156,8 @@ https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-mid
 https://huggingface.co/diffusers/controlnet-canny-sdxl-1.0-small
 
 ###Artists recognised in base SDXL
-https://weirdwonderfulai.art/resources/stable-diffusion-xl-sdxl-artist-study/
+https://weirdwonderfulai.art/resources/stable-diffusion-xl-sdxl-artist-study
+https://rikkar69.github.io/SDXL-artist-study/tags
 
 ###Download the SDXL v0.9 leak
 These models are now outdated with the release of v1.0 above.

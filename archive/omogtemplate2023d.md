@@ -12,7 +12,7 @@ Download
 https://archive.is/FqpTS
 The console editions (Switch, PSN, XBL, PC Gamepass) have some exclusive content.
 
-\>Character Birthdays | Mari - March 1
+\>Character Birthdays | Aubrey - May 23
 https://pbs.twimg.com/media/EujUrE5UUAUyxku.jpg:orig
 
 \>Fangames, Projects, and Etc

@@ -5,7 +5,7 @@
 -> [![Art by NY⁰⁸¹⁸](https://files.catbox.moe/r14mb8.png)](https://twitter.com/NinepeachYu0818/status/1745680244638716221/) <-
 
 
--> %hotpink% **287 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 021 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
+-> %hotpink% **288 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 021 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
 
 -> I am willing to Trade / Give Away! ![](https://massacre.crd.co/assets/images/gallery12/2c9f4c04.gif?v=d2152c17)
 ![](https://massacre.crd.co/assets/images/gallery12/e06aa989.gif?v=d2152c17) Nothing is for sale, that is scummy. <-
@@ -28,7 +28,8 @@ You're free to whine to me on there, I like to laugh at them.
 
 -> ![](https://files.catbox.moe/2gjutl.png)
 Plain = Available for Trade or Give Away
-[**Bolded**]() = Decorated, Not for Trade  ->
+[**Bolded**]() = Decorated, Not for Trade  
+%#facade%Want something more in depth? Click%% [Here](/simplyballer) ->
 
 ***
 -> ![](https://massacre.crd.co/assets/images/gallery32/57afba6a.gif?v=d2152c17) ![](https://massacre.crd.co/assets/images/gallery12/6a42a6fe.gif?v=d2152c17) ![](https://massacre.crd.co/assets/images/gallery32/f035e961.gif?v=d2152c17) <-

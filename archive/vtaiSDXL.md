@@ -525,6 +525,14 @@ or
 !!! info 6 Outfits!
 -> [Civitai](https://civitai.com/models/328443/nekomata-okayu-xl-6-outfits-hololive) <-
 
+##### -> Inugami Korone <-
+!!! info 7 Outfits!
+-> [Civitai](https://civitai.com/models/329665/inugami-korone-xl-7-outfits-hololive) <-
+
+##### -> Shishiro Botan <-
+!!! info 4 Outfits!
+-> [Civitai](https://civitai.com/models/328498/shishiro-botan-4-outfits-or-hololive-or-pony-xl) <-
+
 ##### -> Ouro Kronii <-
 !!! info 5 Outfits! Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
 -> [Civitai](https://civitai.com/models/325006/ouro-kronii-5-outfits-or-hololive-or-pony-xl) <-
@@ -603,6 +611,9 @@ or
 ##### -> Pomu Rainpuff <-
 -> [Civitai](https://civitai.com/models/327141/pomu-rainpuff-for-ponyxl) <-
 
+##### -> Hyakumantenbara Salome <-
+-> [Civitai](https://civitai.com/models/330574/hyakumantenbara-salome-nijisanji-ponyxl) <-
+
 #### -> Phase Connect <-
 -> ![PHASE-CONNECT](https://files.catbox.moe/fv0h8r.png) <-
 ***
@@ -631,3 +642,6 @@ or
 
 ##### -> Saruei <-
 -> [Civitai](https://civitai.com/models/328291/saruei-for-ponyxl) <-
+
+##### -> Filian <-
+-> [Civitai](https://civitai.com/models/329887/filian-for-ponyxl) <-

@@ -2,6 +2,10 @@
 
 [TOC2]
 
+## MY IMAGE LOOKS BAD WHY
+![Missing yaml file](https://files.catbox.moe/99vl8h.png)
+If your image looks like [this example](https://files.catbox.moe/99vl8h.png), check https://rentry.org/trashfaq#how-do-i-use-vpred-models
+
 ## (Some) Artist Tags
 Furry artist tags (community spreadsheet): https://cryptpad.fr/sheet/#/2/sheet/edit/JzqLNo3G+B+YXzPeBrkje-sU/
 Real artist tags: https://docs.google.com/spreadsheets/d/1SRqJ7F_6yHVSOeCi3U82aA448TqEGrUlRrLLZ51abLg/edit#gid=2005893444

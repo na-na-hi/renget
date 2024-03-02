@@ -97,3 +97,7 @@ https://files.catbox.moe/361qqq.png or https://www.chub.ai/characters/koikoikoih
 ![The kind one.](https://files.catbox.moe/wcssv1.png)
 *Alyosha, a Karamazov unsullied by her the wretchedness of her blood. The kindest of spirits.*
 https://files.catbox.moe/j1pppf.png or https://chub.ai/characters/koikoikoihat/alyosha-f67ebc41/main
+
+![Making merry!](https://files.catbox.moe/755hg1.png)
+*Geretrudis, a wandering merrymaker.*
+https://files.catbox.moe/755hg1.png or https://www.chub.ai/characters/koikoikoihat/geretrudis-191d87e2/main

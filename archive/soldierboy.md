@@ -1,3 +1,5 @@
--> ![](https://media.discordapp.net/attachments/1096639589852123136/1211856273029464105/53BF7CFE-0FF2-4C95-82C3-09742E64FAEA.gif?ex=65efb81a&is=65dd431a&hm=2e7825601ab1f20b7689124bfdabcbbc4020654ae2788fdc8bfb6cd58095bbb5&) <-
-
--> https://rentry.co/edward <-
+view in %#717796%dark%% mode -> *"Cool, in denial.   We're the cruel regulators smoking cigaro, cigaro, cigar"* <-
+-> ![](https://files.catbox.moe/botmub.png) <-
+-> naif  ‎ ‎ ‎ ‎[%#717796%++%%](https://pronouns.cc/@naifking) ‎ ‎ ‎ ‎minor
+%#a1a1a1% ‎ 𓂃 ‎he—him, brit‎ ‎ ‎‎ ˚｡%% <-
+-> [![](https://files.catbox.moe/miekug.png)](https://open.spotify.com/user/312t3misg32tl2x4pnlihq3jwvwe?si=2b3a1729871442fb) . [![](https://files.catbox.moe/miekug.png)](https://rentry.co/xlbully) . [![](https://files.catbox.moe/miekug.png)](https://pin.it/2RUnmiayQ) <-
