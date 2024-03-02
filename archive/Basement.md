@@ -5,7 +5,7 @@
 -> [![Art by NY⁰⁸¹⁸](https://files.catbox.moe/r14mb8.png)](https://twitter.com/NinepeachYu0818/status/1745680244638716221/) <-
 
 
--> %hotpink% **308 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 020 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
+-> %hotpink% **287 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 021 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
 
 -> I am willing to Trade / Give Away! ![](https://massacre.crd.co/assets/images/gallery12/2c9f4c04.gif?v=d2152c17)
 ![](https://massacre.crd.co/assets/images/gallery12/e06aa989.gif?v=d2152c17) Nothing is for sale, that is scummy. <-
@@ -18,10 +18,13 @@ right to decline **any** trade request.*%%
 [serialmurder](https://discord.com/users/385475837715021826/) on %hotpink%**D**%%iscord
 [konodiavoloda](https://twitter.com/konodiavoloda) on %hotpink%**T**%%witter
 [diavoloification](https://www.instagram.com/diavoloification/) on %hotpink%**I**%%nstagram
+%#facade%*If you have not learned how to take no for an
+answer, I'd say it's best you don't contact me at all.*%%
 
 My Resource/Graphic [Carrd](https://massacre.crd.co/) *and* [Rntry](/graphics)
 Sign My [Guestbook](https://diavolo.123guestbook.com/)
 ^ Do %hotpink%**NOT**%% use my guestbook to ask for URLs
+You're free to whine to me on there, I like to laugh at them.
 
 -> ![](https://files.catbox.moe/2gjutl.png)
 Plain = Available for Trade or Give Away
@@ -34,7 +37,7 @@ Plain = Available for Trade or Give Away
 -> To Note: I am extremely iffy trading my JJBA urls. It heavily depends on what you're willing to trade. <-
 
 *JoJo's Bizarre Adventure* [**diavolo**](https://rentry.co/diavolo) [**abbacchio**](https://rentry.co/abbacchio) [cioccolata](https://rentry.co/cioccolata) [josuke](https://rentry.co/josuke) [dolciocioccolata](https://rentry.co/dolciocioccolata) [lisalisa](https://rentry.co/lisalisa) [urbanguerrilla](https://rentry.co/urbanguerrilla) [raimamezuku](https://rentry.co/raimamezuku) [yuyafungami](https://rentry.co/yuyafungami) [donatellauna](https://rentry.co/donatellauna) [highdio](https://rentry.co/highdio) [rudolvonstroheim](https://rentry.co/rudolvonstroheim) [leakyeyeluca](https://rentry.co/leakyeyeluca) [langrangler](https://rentry.co/langrangler) [oyecomova](https://rentry.co/oyecomova) [magentmagent](https://rentry.co/magentmagent) [satoruakefu](https://rentry.co/satoruakefu) [thestonemask](https://rentry.co/thestonemask) [themonsterofmorioh](https://rentry.co/TheMonsterofMorioh) [polpo](https://rentry.co/Polpo) [prosciuttocappano](https://rentry.co/prosciuttocappano) [thesteelballrun](https://rentry.co/thesteelballrun) [d4clovetrain](https://rentry.co/d4clovetrain) [standpower](https://rentry.co/standpower) [**-hamon**](https://rentry.co/-hamon) [roadrollerda](https://rentry.co/roadrollerda) [-steelball](https://rentry.co/-steelball) [scolippi](https://rentry.co/Scolippi) [alessi](https://rentry.co/alessi) [truemansworld](https://rentry.co/truemansworld) [presidentvalentine](https://rentry.co/presidentvalentine) [jojosbizarreencyclopedia](https://rentry.co/JoJosBizarreEncyclopedia) [dioswry](https://rentry.co/dioswry) [deadmansquestions](https://rentry.co/deadmansquestions) [toyohirokanedaichi](https://rentry.co/ToyohiroKanedaichi) [romeojisso](https://rentry.co/RomeoJisso) [AxlRO](https://rentry.co/AxlRO) [stevensteel](https://rentry.co/StevenSteel) [tamakidamo](https://rentry.co/TamakiDamo) [willzeppeli](https://rentry.co/willzeppeli) [willanthoniozeppeli](https://rentry.co/WillAnthonioZeppeli)
-[GO-GO-ZEPPELI](https://rentry.co/GO-GO-ZEPPELI) [dojyan](https://rentry.co/Dojyan) [prosciutto](https://rentry.co/prosciutto) 
+[GO-GO-ZEPPELI](https://rentry.co/GO-GO-ZEPPELI) [dojyan](https://rentry.co/Dojyan) [prosciutto](https://rentry.co/prosciutto)
 
 *Demon Slayer: Kimetsu no Yaiba*  [-gyutaro](https://rentry.co/-gyutaro) [-douma](https://rentry.co/-douma) [-tengen](https://rentry.co/-tengen) [blooddemonart](https://rentry.co/blooddemonart) [-aizetsu](https://rentry.co/-aizetsu) [-urogi](https://rentry.co/-urogi) [-zohakuten](https://rentry.co/-zohakuten) [-sekido](https://rentry.co/-sekido) [-karaku](https://rentry.co/-karaku) [-hantengu](https://rentry.co/-hantengu) [kokushibo-](https://rentry.co/kokushibo-) [loathsomemoon](https://rentry.co/LoathsomeMoon) [lonelymoon](https://rentry.co/LonelyMoon) [monstroustransformation](https://rentry.co/monstroustransformation) [-moonbreathing](https://rentry.co/-moonbreathing) [crescentmoonblades](https://rentry.co/CrescentMoonBlades) [-michikatsu](https://rentry.co/-michikatsu) [-michikatsutsugikuni](https://rentry.co/-michikatsutsugikuni) [fleshkatana](https://rentry.co/FleshKatana) [mirrorofmisfortune](https://rentry.co/mirrorofmisfortune) 
 
@@ -44,7 +47,7 @@ Plain = Available for Trade or Give Away
 ***
 -> ![](https://files.catbox.moe/8cvlc9.png) <-
 
-*Hazbin Hotel / Helluva Boss* [**valentino**](https://rentry.co/valentino) [cannibaltown](https://rentry.co/cannibaltown) [alastorhartfelt](https://rentry.co/alastorhartfelt) [**voxval**](https://rentry.co/voxval) [staticmoth](https://rentry.co/staticmoth) [**vees**](https://rentry.co/vees) [fizzarolli](https://rentry.co/fizzarolli) [-adam](https://rentry.co/-adam) [guitarspear](https://rentry.co/guitarspear) 
+*Hazbin Hotel / Helluva Boss* [**valentino**](https://rentry.co/valentino) [cannibaltown](https://rentry.co/cannibaltown) [**alastorhartfelt**](https://rentry.co/alastorhartfelt) [**voxval**](https://rentry.co/voxval) [staticmoth](https://rentry.co/staticmoth) [**vees**](https://rentry.co/vees) [fizzarolli](https://rentry.co/fizzarolli) [-adam](https://rentry.co/-adam) [guitarspear](https://rentry.co/guitarspear) [theradiodemon](https://rentry.co/theradiodemon)
 
 *Breaking Bad / Better Call Saul*  [-heisenberg](https://rentry.co/-heisenberg) [-lalo](https://rentry.co/-lalo) [heisenbones](https://rentry.co/heisenbones)
 

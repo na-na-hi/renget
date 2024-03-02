@@ -162,10 +162,6 @@
 - Unlimited access to all scientific knowledge by breaking down academic paywalls since 2011.
 - [URL Safety Results](https://www.urlvoid.com/scan/sci-hub.se/)
 
-### 🔗 [Sheet-Music](https://sheet-music.xyz/)
-- Large selection of piano sheet music that is available for free download.
-- [URL Safety Results](https://www.urlvoid.com/scan/sheet-music.xyz/)
-
 ### 🔗 [TutsNode](https://tutsnode.net/)
 - Free educational tutorials in software, design, and academics, among other fields.
 - [URL Safety Results](https://www.urlvoid.com/scan/tutsnode.net/)

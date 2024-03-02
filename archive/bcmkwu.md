@@ -1,3 +1,9 @@
+>"I guess we're fucked." the situation in the village of Krasnogorovka
+https://files.catbox.moe/6eostz.mp4
+>Hohol ammo depot hit and failed evacuation
+https://files.catbox.moe/3eig2w.mp4
+>ex-chairman of the NATO military committee, Harald Kujat
+https://files.catbox.moe/r84i4i.mp4
 >Arty strikes AFU convoy in Chasov Yar
 https://files.catbox.moe/rm4z78.mp4
 >FAB-500 w/ UMPC strikes pontoon bridge in Kupyansk
@@ -13,6 +19,7 @@ https://files.catbox.moe/60hnt7.mp4
 >Trolling Navalny's funeral
 https://files.catbox.moe/7p8tmb.mp4
 >Leaked call about sending Taurus missiles to Ukraine
+https://files.catbox.moe/r6yp0a.mp4
 https://files.catbox.moe/zfxfty.mp4
 https://files.catbox.moe/hsmulj.mp4
 https://files.catbox.moe/y6kfw6.mp4

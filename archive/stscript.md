@@ -791,9 +791,163 @@ I personally lean towards the latter interpretation. Something doesn't need to b
 What does this mean? Well, consider the following: Obviously, we can't have our scripts break down in the middle of a conversation. So okay, we add error handling. But if the error handling bombards the user with echo messages, they still won't engage with the card. It needs to be user-friendly. Easy to use. Easy to set up. We can't expect users to be able to debug STscript. And we can't expect them to know the intended way to use our scripts, or to follow specific rules and instructions just so the script won't break. We need to account for the user deleting messages, swiping, branching off from the active convo, so on and so forth. Something as simple as the user changing the model he's using can break STscript, for example trying to run `/genraw` on an API that requires you to use streaming.
 
 ######Making STscript cards easy to set up
-TODO: single command setup
-TODO: reflush all vars
-TODO: user preferences
+Taking the above listed concerns into consideration, there is still one question to discuss when it comes to defining what an "easy setup" actually is. Is it reasonable to expect someone working with AI systems to be able to import and configure QR sets, lorebooks, etc? If you think yes, as the opposite would inevitably welcome the less intellectual and therefore contribute to an overall degraded quality of cards being made, consider that not everyone is cut out to be a developer. For someone who would never, regardless of its accessibility, dabble with STscript, gatekeeping such as this isn't very important. So let's make a distiction. A developer should be able to debug cards like these. For everyone else, ease of access is the bigger issue. After all, character cards as image files largely builds on the same idea. It's very convenient to allow users a single-action setup.
+
+But! It's still important that they do so with a basic understanding of how these cards differ from others. My opinion is that there should be an initial "do you accept the risk?" check, to be done once, and then all subsequent script should be importable with a single easy to do action.
+
+My solution to the problem is this: a user should still have to manually enable the QuickReply extension. We should never take this decision away from him through automation. For anything else, we can leverage the SillyTavern source code and import our QuickReply sets directly into it.
+https://github.com/SillyTavern/SillyTavern/blob/e3ccaf70a10b862113f9bad8ae039fc7ce6570df/public/scripts/extensions/quick-reply/api/QuickReplyApi.js#L195
+https://github.com/SillyTavern/SillyTavern/blob/release/public/scripts/extensions/quick-reply/src/QuickReplySet.js#L6
+
+You may want to read ahead to the JS hacks part of the guide, to understand this part better. Although we're not hacking JS into SillyTavern, only running a script from the console.
+```
+(async () => {
+    //put your json urls here
+    const QR_JSON_URLS = [
+        "https://stscript.neocities.org/res/qr/testpresetv1.json"
+    ];
+
+    /**
+     *  DO NOT FUCK AROUND WITH THE STUFF BELOW
+     *  UNLESS YOU KNOW WHAT YOU ARE DOING
+     */
+
+
+    /**
+     * Loads SillyTavern QuickReply API instance
+     *
+     * @returns {Promise<QuickReplyApi>}
+     */
+    const loadQrApi = async () => {
+        const { quickReplyApi } = await import('./scripts/extensions/quick-reply/index.js');
+        return quickReplyApi;
+    }
+
+    /**
+     * Fetches JSON object from a given URL
+     *
+     * @param {string} url - The URL to get the JSON from
+     *
+     * @returns {Promise<object>} - The parsed Object
+     */
+    const fetchJson = async (url) => {
+        const corsProxyUrl = "https://corsproxy.io/?";
+        const response = await fetch(corsProxyUrl + url);
+
+        return await response.json();
+    }
+
+    /**
+     * Update a QuickReply withing a QuickReplySet;
+     * This will overwrite the set
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {QuickReplySet} set - The QuickReplySet in which to update the QuickReply
+     * @param {QuickReply} qr - The QuickReply data to update with
+     *
+     * @returns {Promise<void>}
+     */
+    const updateQuickReply = async (api, set, qr) => {
+        console.log("Updating existing qr", qr, "in set", set);
+        api.updateQuickReply(set.name, qr.label, { ...qr });
+    };
+
+    /**
+     * Create a QuickReply within a QuickReplySet
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {QuickReplySet} set - The QuickReplySet in which to create the QuickReply
+     * @param {QuickReply} qr - The QuickReply to create
+     *
+     * @returns {Promise<void>}
+     */
+    const createQuickReply = (api, set, qr) => {
+        console.log("Creating new qr", qr, "in set", set);
+        api.createQuickReply(set.name, qr.label, { ...qr });
+    };
+
+    /**
+     * Update an already existing QuickReplySet;
+     * This will overwrite the qr
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {QuickReplySet} set - The already existing QuickReplySet
+     * @param {object} data - The data to update the set with
+     *
+     * @returns {Promise<void>}
+     */
+    const updateQuickReplySet = async (api, set, data) => {
+        console.log("Updating set", set, data);
+
+        await api.updateSet(set.name, { ...data });
+
+        for (const qr of data.qrList) {
+            const existingQr = await api.getQrByLabel(set.name, qr.label);
+
+            if (existingQr) {
+                await updateQuickReply(api, set, qr);
+            } else {
+                await createQuickReply(api, set, qr);
+            }
+        }
+    }
+
+    /**
+     * Create a new QuickReplySet
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {object} data - The data to create the set with
+     *
+     * @returns {Promise<void>}
+     */
+    const createQuickReplySet = async (api, data) => {
+        console.log("Creating new set", data);
+
+        const set = await api.createSet(data.name);
+        return updateQuickReplySet(api, set, data);
+    }
+
+    // Main
+    const api = await loadQrApi();
+
+    for (const url of QR_JSON_URLS) {
+        console.log("Loading", url);
+
+        try {
+            const data = await fetchJson(url);
+            const set = await api.getSetByName(data.name);
+
+            if (set) {
+                await updateQuickReplySet(api, set, data);
+            } else {
+                await createQuickReplySet(api, data);
+            }
+        } catch (e) {
+            console.error("Failed to load", url, e);
+        }
+    }
+
+    console.log("Done");
+})();
+```
+This script should allow you to add and update any number of QuickReply sets in one go. You will need to reload the page to see them in the QR extension window, but they're all there. We should be able to do the same with RegEx stuff, but my stance on this already is that regex usage is superfluous and inconvenient for the user and should be avoided, when they're only there to make scripts work. And we should be able to do this sort of injection with lorebooks too, I suppose, but we can already set those up from within STscript.
+
+Now, another important part of setting up a card is its ability to not break between conversations. I would encourage you to always clear all variables at the beginning of your init function, which is why I recommended earlier to store them inside a context variable. It's possible to flush all variables through JS also, but we shouldn't have to do that.
+```
+const { variables } = await import('./script.js')
+		  .then(module => {
+		    return module.chat_metadata;
+		  })
+		  .catch(console.error);
+
+	console.log(variables);
+
+	Object.keys(variables).forEach(key => {
+		delete variables[key];
+	});
+```
+
+And there is yet another thing to consider, which is allowing the user to configure some of the scripts' behavior to their preferences. You can do this by, for example, prompting the user with some popups on init. For example, if there is an error, does he want to see an echo message? It can be annoying for some. Or does he want to get debug information? Or let say's you're doing some `/genraw` prompts. You could let the user edit the message you use in the prompt. This is all QoL stuff that can in the very least help not inconvenience the player, but also make your scripts very user friendly.
 
 ######Edge cases
 TODO: group chats

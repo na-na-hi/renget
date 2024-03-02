@@ -30,7 +30,7 @@ Everyone gets 1 extra perk. (So you have two perks)
 Only twenty points from drawbacks, (ONLY twenty points, no perks) everything else is fluff.
 Bloodline Limit gives 10 points towards Kekkai Genkai
 D Rank
-Free Jutsu Purchases/Upgrades or those gained from Perks give you the first 2 or last 2 tiers respectively on the PDF version.
+Free Jutsu Purchases/Upgrades gained from Perks give you the first 2 or last 2 tiers respectively on the PDF version.
 It's assumed that your skill level is normal for that of your rank for any of these unpurchased Basics: Unarmed Combat, Stealth, Subterfuge, Ninja Tools, Espionage, Clone, Transformation, Substitution, Utility Jutsus.
 First Purchase of a Basic/Advanced/Hidden gives you an above average skill level of your Rank in that jutsu, Second gives you a REALLY above average skill level for your Rank, and 3rd means you're REAL good at it, same difference from 1st to 2nd.
 If you don't take any drawbacks you can take the Cool perk for free.
@@ -92,6 +92,10 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Teamless:
 >Ghidorah
 >>92063192
+>Darkbone Nightblood Shadowscar
+>>92064881
+>Taihō Shiryō.
+>>92065120
 
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
@@ -466,6 +470,10 @@ New Writefags:
 https://rentry.org/6zruhinr
 >Monsters (Last Rite, Yamata)
 https://rentry.org/ph2rfaai
+
+New Art:
+>moe moe kyill yourself
+>>92064727
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

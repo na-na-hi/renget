@@ -507,13 +507,13 @@ v50:
 For added realism, try using Furtastic's negative embeddings (found [here](https://rentry.org/trashcollects#furtastic-v20)).
 
 ### Queasyfluff V2
->Copy/rename any existing yaml file (like the one above for Queasy V1) so it has the exact same filename as the .safetensors file.
 What's different about this version?
 >Fixed colors and CFG rescale issue
 >Follows directions a bit better
 >That's about it. Just does 3d and realism better than base easyfluff but still does great drawing style too
 EF10-prerelease based: https://pixeldrain.com/u/sfB3fC58
 EF11.2 based: https://pixeldrain.com/u/HLALVhng
+Yamls: https://pixeldrain.com/u/ZCg93wph
 
 ### 0.7(Bacchusv31)+0.3(5050(BB95v11+Furtastic2))-pruned.safetensors
 
@@ -2924,6 +2924,9 @@ Direct DL: https://civitai.com/api/download/models/356175?type=Model&format=Safe
 
 # Bibi the Failure Succubus (OC by o-den)
 https://pixeldrain.com/u/bd7RndpG
+
+# Nina Tucker (Full Metal Alchemist)
+https://mega.nz/folder/NxclhDpZ#oGI5Z-BoEJt8hpZYYf4BVQ
 
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.

@@ -734,6 +734,12 @@ The Daily Life of Satoru Tani 3: https://desuarchive.org/tg/post/91967769/
 Satoru Tani moments before tragedy: https://desuarchive.org/tg/post/91977984/
 Kaylee v Kaga: https://desuarchive.org/tg/post/92044140/
 Never Meet Your Heroes: https://desuarchive.org/tg/post/92044408/
+Sally (winter wear): https://desuarchive.org/tg/post/92044956/
+Desolator: https://desuarchive.org/tg/post/92050595/
+Maru Gets Excited: https://desuarchive.org/tg/post/92050892/
+Seiryu (Casual): https://desuarchive.org/tg/post/92053340/
+Height Chart Update: https://desuarchive.org/tg/post/92053985/
+A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people): https://desuarchive.org/tg/thread/92054796/#92056835
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4

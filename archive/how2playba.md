@@ -838,6 +838,9 @@ It got patched out. You used to be able to add a hexcode in ur name for it, but 
 Blue Archive festival, it's the anniversary banner where the 3\* rateup is doubled (3% -> 6%).
 The base chance to roll the gacha unit is still the same (0,7%).
 
+>When is the affection check? 
+1st of every month in the /[4chan /bag/ thread](https://boards.4chan.org/vg/catalog#s=Blue%20Archive), don't be late! 
+
 # Resources 
 In case you didn't see it already, [most stuff is inside the bagguides rentry. Use it.](https://rentry.org/bagguides)
 It also includes the [chibi extraction and posing guide](https://rentry.org/qewdu) 
