@@ -26,6 +26,8 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Flippy: Flipped Out! Dev Build Download](https://mega.nz/file/iI0UGJ7A#ljsovjiT-06zs9XC49j-Ze7rS2HoNtbDC7OsLFTA7ak)
 ## FNF x Maid Dragon
 [Dev Build](https://www.mediafire.com/file/v8kgp4u4u6n867f/maid.rar/file)
+## FNF INFINITE (Vs. Anders)
+[Leaked builds](https://pixeldrain.com/u/2CTkidt9)
 ## FNF: ZERO
 [FNF: ZERO Download](https://www.mediafire.com/file/4co7pfki8v2kgqw/FNF_ZERO.zip/file)
 ## Friday Night Madness (DJ)

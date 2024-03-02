@@ -9,6 +9,8 @@
 ***
 #->%green%==New As Of March 2024==%%<-
 ***
+##News and Information 
+***
 ##&#127807;%#adff2f%Week 3/1/24 -3/7/24%%&#127807;
 !!!note
     >⚡️WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City. https://twitter.com/AryJeay/status/1763532626722202041  3/1/24  
@@ -89,3 +91,4 @@
     >
     >Dropping aid by air has a limited effect, as the plane does not drop more than one or two truckloads
     >https://t.me/me_observer_channel/159362  3/1/24
+    ***

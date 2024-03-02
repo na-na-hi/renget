@@ -11,12 +11,12 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Devour collab with Orihime, Zentreya and Himura Kuraudo, Fri 03/01 9PM CT)
+Next stream (Mamarissa debut, Sat 03/02 7PM CT)
+https://www.youtube.com/watch?v=RAvCm-mN8X0
+Last appearance (Chatting after the Devour collab on Orihime's stream)
+https://www.youtube.com/watch?v=Q7li6Uv3Cho&t=9035s
+Last stream (Devour collab with Orihime, Zentreya and Himura Kuraudo)
 https://www.youtube.com/watch?v=25DQ1gPz1yo
-Last stream ("Twilight: New Moon" watchalong with Shiori and Iofi on Shiori's channel)
-https://www.youtube.com/watch?v=Bc75OYcIXFU
-Previous appearance (Kiara's Palworld stream)
-https://www.youtube.com/watch?v=3BWgFF9hO4s&t=2340s
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID

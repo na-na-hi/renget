@@ -2286,3 +2286,282 @@
 >that's why one evening it all was ripped away from you two
 >someone had eventually noticed the mistake 
 >paperwork came over for a recall
+
+>deep down you feared someone would notice their mistake
+>Roxy was clearly a prototype meant for somewhere else
+>the email sent to your management was very clear
+>they were coming by the next day to pick up the “product”
+>thanked the mall for purchasing the “product”
+>offered a slightly reduced price for a new “product” as a apology
+>you had to hide your anger in front of the boss
+>your mind flashed back to when Roxanne snapped at you that you weren't expendable 
+>you were expected to be there at the hand off to make it go smoothly
+>how in God's name would you handle this?
+>they'd most likely wipe his memory after poking around
+>maybe even scrap him
+>so many terrible possibilities ran through your mind
+>and you were just expected to keep a straight face during a hand off
+>you fantasized about slamming your boss’ head through that computer monitor 
+>he couldn't have known how painful this was
+>the violence would have felt great in the moment but in the end he wasn't at fault here
+>he wasn't the one you needed to pick a fight with
+>it felt like Roxanne and you finally found some sort of happy place and Fazbear was intent of destroying it
+>you hadn't considered you'd care about the guy when you started this job
+>before he was just a robot
+>then a coworker 
+>a friend
+>and how in the hell did you do the night shift tonight?
+>you could tell him and upset him
+>or hide it and betray his trust
+>well as upsetting as the news was he deserved to know
+>the rest of the day you went about your job, mentally a shell of your normal self
+>you'd see him up on stage during your rounds and it hurt when he looked to you
+>what the hell were you going to do?
+>during your lunch shift you looked up nearby Fazbear facilities 
+>a plan was brewing
+>a really really dumb one
+>a day dream that could probably get you killed
+>but you were entertaining it nonetheless 
+>Roxy would do it for you
+>he wasn't a goddamn “product”
+>not to you
+>that word left a bad taste in your mouth
+>that night you broke the news to him 
+>it wasn't the smartest idea to make the giant robot emotionally distraught but you'd feel guilty keeping such a thing a secret
+>he didn't get angry
+>there was no dramatic outburst
+>instead he immediately snatched you up and held you to his chest for the entire night shift
+>didn't even really speak
+>you two just sat there in silence 
+>before dawn came you had formulated a plan
+>it was incredibly dumb
+>but it seemed like a great idea all things considered
+>Roxy listened and you ended up enacting it in short order
+>the Fazbear staff weren't going to be there first thing so that gave you time to swing by a store when the mall opened
+>you bought a new cheap cell phone
+>you were taking off the day after the hand off
+>fired or not
+>there were other jobs
+>you really wanted to deck one of the Fazbear workers that called Roxy defective but held your composure 
+>Roxanne was shut down for the transport
+>it said a lot about his faith in you that he went quietly
+>you fully expected a rampage
+>or maybe he consigned himself to never seeing you again
+>hard to gauge 
+>regardless of your current thoughts, you'd keep the poker face up the whole conversation 
+>only when they left did you feel safe to enact the plan
+>inside Roxanne’s shell, taped to the upper back, was your cellphone
+>and you just happened to have a burner phone that could track where you'd lost your phone
+>it wouldn't be long before they started maintenance on him
+>they'd find the phone
+>so that was why this mall could suck it
+>sure enough it took you to a Fazbear facility another city over
+>you'd seen this one overhead on the maps app
+>it was too risky to go in in broad daylight
+>you watched the place from a neighboring parking lot
+>you weren't Batman so trying to sneak in was going to be a pain
+>it was best to stake out the place and wait for nightfall
+>the place looked like a ratty old warehouse, secondhand no doubt
+>you made a note of where the cameras were
+>your stake out had a small issue
+>what you would do now
+>sure the fence was ratty enough you could slip through after dark
+>but they had to have a security system for a broken window
+>Fazbear couldn't be that cheap
+>you weren't a ninja or a lockpick or a hacker
+>you were just a guy in a menial job
+>all you knew how to do was fix shit around a mall 
+>a limited skill set
+>staying in the van gave you plenty to think about
+>you didn't dare step out and get caught on camera
+>you'd have to cover your face in the dead of night when you went in
+>the irony of you getting into a secure place at night wasn't lost on you
+>you had tools from the repair work you'd do around the mall 
+>the idea of just smashing the locks was there
+>you prayed their security wasn't as high tech as their robots
+>what if they had robots as security?
+>stuck running around a place, hunted by killbots
+>well you'd have to risk it 
+>the good news was the phone was still pinging
+>most likely they just stowed Roxanne in storage for the day
+>it was Friday and they probably wanted to avoid all that shit before the weekend
+>that worked for you
+>no one wants to stay late on Fridays
+>you realized you had half a bag of potato chips in the back and made that your dinner
+>this was dangerous
+>but you'd have something in your stomach 
+>you leaned the seat back and tried to get a nap to pass the time and ease your worried mind
+>your alarm went off
+>5 hours had passed 
+>the rest had given you an opportunity for self-reflection 
+>were you really going to walk from your job and commit a felony?
+>up until now life had been cushy
+>you were tossing that all away
+>but then you thought back to Roxanne
+>if the roles were reversed he'd help you
+>and he'd done nothing wrong here
+>this was on Fazbear's shitty shipping
+>you stared at the ceiling of your van for a good long while
+>a tap on the window made you flinch
+>it looked to be a homeless guy
+>the panhandling confirmed it
+>you were initially hesitant to lower the window until an idea occurred
+>you asked about that strange fenced in building over yonder
+>just what was it?
+>you were new to the area and all
+>a 20 being brandished made him sing
+>you figured if this guy was a local there was something you could get from him
+>he didn't quite know what was inside due to security 
+>they'd shooed him away from their dumpsters 
+>which was a shame because it looked like a lot of scrap
+>so they had security guards?
+>only during the day judging by the copper he was able to pull from the dumpsters at night
+>interesting
+>they must cheap out and rely on the cameras and a system at night
+>you thought your mall was cheap
+>you thanked the guy and laid back down
+>eventually the sun would set
+>then you could sneak in
+>the stake out was getting duller and duller
+>you hoped that homeless guy would keep his mouth shut
+>it was a risk asking information like that
+>you hoped he hadn't noticed you perk up at the lack of security at night
+>so they definitely had to have electronic shit in there if they were confident leaving every night
+>it sucked having no better preview 
+>but the longer you waited the higher the chance Roxy would be dismantled or moved again
+>the urge to use the bathroom was strong 
+>you were glad it was still winter and the sun was going down soon
+>you'd cover your face before leaving and pick the least lit corner of the building
+>the chainlink was an antique and you could easily get in anywhere
+>pliers would get through that
+>you packed a hammer and a screwdriver
+>gloves so you didn't leave fingerprints 
+>an old shirt wrapped around your face was enough to hide your identity in that regard
+>you tried not to think what would happen if you were successful
+>you'd never broken the law before
+>they would immediately make you a suspect in your mind
+>it was a lot like a dog chasing a car
+>how you'd deal with things AFTER was not something you wanted to worry about
+>right now, this moment was important
+>the consequences probably wouldn't be pleasant but you kept pushing that out of your mind
+>that would be dealt with it when it happened
+>right now you had a rescue to pull off
+>that night the parking lot over by the warehouse emptied out
+>that homeless guy was right
+>not a soul
+>you gave it another half hour after the last car left
+>a glance at your phone and you saw it was still pinging
+>they really must have shoved Roxy in a storage closet or something
+>you cut the fence in a dark corner of the lot
+>snuck in
+>your eyes were darting everywhere, making sure you didn't catch movement 
+>paranoia was normal here
+>healthy
+>you prayed this would be easy
+>the place looked even more rundown upon closer 
+>maybe Fazbear was cheap
+>you hope that applied to security 
+>at the door an antique keypad sat below the door knob
+>this warehouse was clearly second-hand 
+>or even tenth-hand
+>it wasn't like the movies where you could figure out the code and be in
+>smashing the locks would make the alarm go off
+>you thought long and hard while huddled by the door
+>a thought occurred 
+>you pulled out your phone and called the one in Roxanne
+>best case scenario you could signal to him and he could get the door
+>you had turned off the sound so it would be stuck on vibrate 
+>no response 
+>well that was an easy solution off the table
+>you hoped that wasn't an ominous sign
+>smashing a window didn't sound like a bad idea
+>but was that tied to the security system too?
+>it was a risk
+>the doors most likely were the only entrances tied to the system
+>they'd count on whatever burglar tripping a door alarm
+>that was probably the best idea though
+>even if you got in through the door you'd probably have to disarm the alarm with a code you didn't know 
+>then cops would be called
+>better to trip the alarm at the end of the rescue than force a time limit
+>you weighed your options
+>the main building had low windows going into a basement
+>the hammer went through the glass and you paused
+>waiting for some siren wail
+>you inhaled
+>exhaled
+>your heart raced
+>no noise
+>you cleared out the glass
+>you didn't need to slit your belly on glass
+>when you were satisfied with the glass being clear you slid into the basement and used your phone
+>you hoped to hear the phone vibrating in Roxy
+>a silent Marco Polo
+>so far so good
+>you held the hammer tightly in your grip
+>you didn't know what you'd do if this failed so you pushed the thought from your mind and pressed on
+>the room was cramped
+>some sort of storage room now
+>parts everywhere
+>boxes and crates
+>some of it looked loosely like Fazbear attractions and the like
+>you recognized an arm here or a leg there
+>you couldn't tell much more
+>the door had a light under it
+>a soft glow
+>you approached quietly
+>just because there were no cars outside didn't mean you wouldn't be cautious 
+>you pressed your ear to the door 
+>no noise on the other side
+>looking around the door frame you saw no security system 
+>the door slowly creaked as you pushed it out
+>no noise
+>you weren't underestimating the security system but you breathed a sigh of relief 
+>this was a good sign
+>hopefully they just stored Roxy down here
+>you wanted to keep the search short and sweet
+>the halls were barren
+>despite the age they still felt sterile 
+>like an old hospital
+>you brandished the hammer as a comfort
+>you really didn't want to hurt anyone
+>you rang the phone again
+>hoping to hear the faint vibration
+>the noise would be muffled but the site was deadly quiet
+>every door through the hall seemed an option
+>you would explore the basement and then head upstairs
+>still no response
+>but you kept the phone going
+>Roxanne had to be deactivated for him to not react
+>you tried checking the tracking
+>the phone was close but you couldn't get details in a building 
+>but you could see he was close and that was a comfort
+>while it wasn't completely accurate he could see he was practically on top of Roxy
+>hopefully they were on the same floor
+>Fazbear's must really be cheap if this was the best they could get for a facility
+>it seemed like the icon was close
+>you tried ringing the phone again and pressed your ear to the door
+>success!
+>you heard a rumbling from the other side
+>that had to be your phone
+>the next obstacle came in the form of a locked door
+>you knew where he was
+>and it still felt so far
+>the steel door wouldn't budge
+>you worried about a security system and the one thing that stopped you was a damn lock
+>you'd have to figure something out
+>slumping against the door, you wracked your brain 
+>this was difficult 
+>you didn't have tools for this
+>smashing the handle? 
+>maybe
+>them turning off Roxanne sort of fucked things up
+>he could have just knocked the door down
+>it was up to you now
+>maybe there was a key somewhere
+>the homeless guy mentioned security 
+>maybe they had an office
+>you hoped they left their door unlocked as you made your way for stairs
+>security would no doubt camp on the first floor
+>you turned off your phone light
+>you'd go off night vision to avoid making people suspicious 
+>fuck it, you'd get this

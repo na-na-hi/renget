@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 13 | **Experience to Next Level:** 5/130
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 164P | **Glorious Gold:** 0 Bars
+**Pokécoin:** 414P | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -65,7 +65,7 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Stat: Speed **ɪɪɪ** | Final stage (+1 AP) | 
 Attribute: Pyromancy | Tier **ɪ** (+1) | Ishmael is learning to control his flamse
-
+Attribute: Intuition | Tier **ɪ** (+1) | the Art of reading another like a book. of finding methods to one's actions
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Currently Training for Skill: Foraging **ɪ** | Tier **0** | 1/3 | ▮▯▯

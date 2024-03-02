@@ -17,7 +17,7 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 14 | **Experience to Next Level:** 5/140
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 2170₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2270₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -91,12 +91,12 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | Vacant Worn/Held slot.
+*Worn/Held Item: N/A* | Sitrus Berry- Heals the user for 20 HP.
 *Equipped Item: N/A* | Vacant Hand slot.
 1. Iron | Boosts Training for Defense by 1 bar.
-2. Sitrus Berry | Heals the user for 20 HP.
+2. Delibird Feather | A memento of a special day spent with Lilac. Can be used for Egg Moves.
 3. Meteorite Shard | Acquired from entertaining Watched Roller (Minior) and a Clefable. Could this help cure Twilight Syndrome?
-4. Empty | Empty inventory slot.
+4. Protein | Boosts Training for Attack by 1 bar.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

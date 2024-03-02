@@ -1,6 +1,10 @@
-->![Image description](https://files.catbox.moe/wl2nau.png) %red%Revolutionary%% %silver%War%% %blue%General%% ![Image description](https://files.catbox.moe/wl2nau.png)<-
-                                                              ->![Image description](https://files.catbox.moe/sgl4pk.png)<-
-->![Image description](https://files.catbox.moe/wl2nau.png)%red%My%% %silver% Border%% %blue%My%% Choice![Image description](https://files.catbox.moe/wl2nau.png)<-
+#![Image description](https://files.catbox.moe/wl2nau.png) ->%red%Revolutionary%% %silver%War%% %blue%General%%<- ![Image description](https://files.catbox.moe/wl2nau.png)
+                                                              
+
+->![Image description](https://files.catbox.moe/sgl4pk.png)<-
+
+
+ #![Image description](https://files.catbox.moe/wl2nau.png) ->%red%My%% %silver% Border%% %blue%My%% Choice<- ![Image description](https://files.catbox.moe/wl2nau.png)  
 
 
 ![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)![Image description](https://files.catbox.moe/nj63do.png)

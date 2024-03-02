@@ -202,6 +202,9 @@ https://files.catbox.moe/th6867.safetensors tangobat
 https://files.catbox.moe/xbzs8v.safetensors honkai
 https://files.catbox.moe/5zurdz.safetensors LAxe
 https://files.catbox.moe/l4gj72.safetensors MSize
+https://files.catbox.moe/q5tsqo.safetensors pumpkinspicelatte
+https://files.catbox.moe/o1dk53.safetensors possummachine
+https://files.catbox.moe/qszfwe.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/57camv.png
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

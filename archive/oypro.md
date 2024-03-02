@@ -66,6 +66,7 @@ Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
 Attribute: Illusory | Tier **ɪɪ** (+2) | Skill with illusion manifestations
 Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 Attribute: Balancing | Tier **ɪ** (+1) | Skill with keeping your balance, whether it be on unstable ground or on energy infused air
+Battle Attribute: Zephyr Step | Tier **ɪ** (+1) | Ride the wind kicked up from Aerial Ace powered dash to get around obstacles, Easy Breezy. 
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:

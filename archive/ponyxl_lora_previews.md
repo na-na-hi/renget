@@ -452,6 +452,15 @@ https://files.catbox.moe/5zurdz.safetensors LAxe
 [![1girl no scores](https://files.catbox.moe/d9bxkn.png)](https://files.catbox.moe/pv9wow.png)[![1girl scores](https://files.catbox.moe/z8t9eb.png)](https://files.catbox.moe/30luwq.png)[![chun-li no scores](https://files.catbox.moe/ebhguo.png)](https://files.catbox.moe/aauzuo.png)[![2b score_9 only](https://files.catbox.moe/i61d0y.png)](https://files.catbox.moe/ah625c.png)[![korra scores](https://files.catbox.moe/7t9vcr.png)](https://files.catbox.moe/fuf0q7.png)
 https://files.catbox.moe/l4gj72.safetensors MSize
 
+[![1girl no scores](https://files.catbox.moe/djncsn.png)](https://files.catbox.moe/j66rve.png)[![1girl scores](https://files.catbox.moe/tvkj28.png)](https://files.catbox.moe/vjbe3p.png)[![chun-li no scores](https://files.catbox.moe/rmli87.png)](https://files.catbox.moe/kv9b7t.png)[![2b score_9 only](https://files.catbox.moe/ve6xae.png)](https://files.catbox.moe/crhih1.png)[![korra scores](https://files.catbox.moe/mi8xqw.png)](https://files.catbox.moe/8ogin2.png)
+https://files.catbox.moe/q5tsqo.safetensors pumpkinspicelatte
+
+[![1girl no scores](https://files.catbox.moe/c3i6w3.png)](https://files.catbox.moe/pqdxy2.png)[![1girl scores](https://files.catbox.moe/86freb.png)](https://files.catbox.moe/ken9y6.png)[![chun-li no scores](https://files.catbox.moe/mp24n6.png)](https://files.catbox.moe/zctl4b.png)[![2b score_9 only](https://files.catbox.moe/l6ak51.png)](https://files.catbox.moe/1dsco5.png)[![korra scores](https://files.catbox.moe/936f70.png)](https://files.catbox.moe/2ds7gu.png)
+https://files.catbox.moe/o1dk53.safetensors possummachine
+
+[![1girl no scores](https://files.catbox.moe/22udnf.png)](https://files.catbox.moe/aetnex.png)[![1girl scores](https://files.catbox.moe/vn1r10.png)](https://files.catbox.moe/xf0tle.png)[![chun-li no scores](https://files.catbox.moe/v1is22.png)](https://files.catbox.moe/7dk1uw.png)[![2b score_9 only](https://files.catbox.moe/g46d93.png)](https://files.catbox.moe/sp4ro6.png)[![korra scores](https://files.catbox.moe/8ozbj3.png)](https://files.catbox.moe/l7xxp9.png)
+https://files.catbox.moe/qszfwe.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/57camv.png
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

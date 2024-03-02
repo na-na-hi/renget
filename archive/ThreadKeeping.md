@@ -39,54 +39,59 @@ Ignore the elemental taxes.
 Living Weapons are banned, ignore the rest of the items, you have an arbitrary amount needed to be a ninja. Enchanted tools are fine, though.
 You can make a C+ Build, they just won't be participating in the exams.
 
->Konohagakure
+>Team 1
 >Natsuo Uchiha
 >>92034070
->Osamu
->>92030854
->Kiko Inuzuka
->>92046953
-Chunin Exam Participants:
->Jin Hyuga
->>92033882
->Shimabukuro Fumio
->>92034456
->Takeru Suzuki
->>92037873
->Himari Miko
->>92038530
->Nodao-Douji
->>92038842
->Itami Nanae
->>92041809
->Shinrō Kamotai, the Divine Painter
->>92042487
->Kita
->>92047196
->Remilia Orochimaru
->>92047466
->Kichōna
->>92030925
-
->Kumogakure
-Chunin Exam Participants:
 >D
 >>92035734
->Masukuda Rarime
->>92046207
+>Himari Miko
+>>92038530
+>Takeru Suzuki
+>>92037873
 
->Kirigakure
+>Team 2
+>Osamu
+>>92030854
+>Shimabukuro Fumio
+>>92034456
+>Kichōna
+>>92030925
+>Nodao-Douji
+>>92038842
+
+>Team 3
 >Kamiko Karatachi
 >>92045112
+>Masukuda Rarime
+>>92046207
+>Ichika Chinoike
+>>92064482
+>Kita
+>>92047196 + https://rentry.org/3duzgchi
 
->Minor Villages
-Chunin Exam Participants:
->Yuma Kouda
->>92039084
+>Team 4
+>Kiko Inuzuka
+>>92046953
+>Remilia Orochimaru
+>>92047466
+>Itami Nanae
+>>92041809
 >Kazen Uzumaki
 >>92045859
->Ichika Chinoike
->>92044904
+
+>Team 5
+>Ezaki Tuto
+>>92064477
+>Jin Hyuga
+>>92063323
+>Shinrō Kamotai
+>>92042487
+>Yuma Kouda
+>>92056996
+
+>Teamless:
+>Ghidorah
+>>92063192
 
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
@@ -456,17 +461,11 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Drawfags:
->Sally (winter wear)
->>92044956
->Desolator
->>92050595
->Maru Gets Excited
->>92050892
->Seiryu (Casual)
->>92053340
->Height Chart Update
->>92053985
+New Writefags:
+>A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people)
+https://rentry.org/6zruhinr
+>Monsters (Last Rite, Yamata)
+https://rentry.org/ph2rfaai
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1056,6 +1055,10 @@ https://rentry.org/DatingProspects
 https://rentry.org/u8snakxr
 >The Symbol of Death: Part 4 (Reaper, Forget-Me-Not, Feral, Drekus, Ookami Shizuka, The Prophet) 
 https://rentry.org/igwpicub
+>A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people)
+https://rentry.org/6zruhinr
+>Monsters (Last Rite, Yamata)
+https://rentry.org/ph2rfaai
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b
