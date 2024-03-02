@@ -1,5 +1,5 @@
 #N'wahman's Bag of Mods for Lazy SSE Newcomers Who Detest Wabbajack Shittery (NBMLSNWDWS)
-updated November 2023
+updated Feb 2024
 
 [TOC]
 
@@ -12,11 +12,9 @@ The alternative use is for people who want to strip down their modlist. Most of 
 
 *Note regarding the "Toddocaust", or "Analversary Edition" (Version 1.6x)*
 
-This guide is currently targeting game version 1.6.640. Almost everything works as intended. I have not tested or checked this list for GOG compatibility.
+While this guide currently targets version 1.6.640, the majority of mods have been updated for .1170 or remained compatible through use of Address Library. The main issues with post .640 game versions are that Backported Extended ESL Support is required to load new plugins if you have not updated, and some interface menus and controlmap files require updating for new versions.
 
-The author formerly recommended [Downgrading from 1.6.640.](https://www.nexusmods.com/skyrimspecialedition/mods/57618) Most mods originally included in this list have either been updated to this version or feature complete alternatives have been made since AE was released. I will be marking essential (imo) SKSE mods that have yet to be replaced with **Æ**, and SKSE mods that have been made compatible with *all* versions with **NG**. [github page for the curious.](https://github.com/CharmedBaryon/CommonLibSSE-NG) Keep in mind that many of these mods will have FOMOD installers or separate downloads for SE or AE.
-
-Regarding 1.6.1130: Unless you were somehow dead set on paying for mods, downgrade to 1.6.640.
+I will be marking known outdated SKSE mods with **Æ**, and SKSE mods that have been made compatible with *all* versions with **NG**. [github page for the curious.](https://github.com/CharmedBaryon/CommonLibSSE-NG) Keep in mind that many of these mods will have FOMOD installers or separate downloads for SE or AE.
 
 SKSE will throw an error if it detects an incompatible version of a SKSE mod and will provide the .dll name. Use this to troubleshoot any versioning issues.
 
@@ -24,15 +22,14 @@ SKSE will throw an error if it detects an incompatible version of a SKSE mod and
 These will either be required by something you go to download in the future, or are fixes for engine level bugs in Skyrim. I can't think of a good reason not to have any of these. 
 
 **Æ** .NET Script Framework - the creator has stated they will not be updating this for Analversary Edition. 
-*note: Custom Skills Framework and Improved Camera, both available on Nexus currently, no longer require NSF. The only big thing missing is grass cache for grass LODs and if you really want them you'll figure something out.*
-
+*note: The only major thing that still requires this is grass cache for grass LODs and if you really want them you'll figure something out.*
 Address Library for SKSE Plugins - version independence for SKSE mods.
-Comprehensive Attack Speed Patch - SKSE - This caps attack speed so you won't ever get the 6 million swings per minute shit when mixing and matching a dozen mods that all include their own attack speed fixes. Must-have.
-Spell Perk Item Distributor (SPID) - Note: versions after 6.40 cause NPCs to be naked. Roll back for the time being, IMO.
+Comprehensive Attack Rate Patch - SKSE - This caps attack speed so you won't ever get the 6 million swings per minute shit when mixing and matching a dozen mods that all include their own attack speed fixes. Must-have.
+Spell Perk Item Distributor (SPID) - This updates constantly and each update fixes some things and breaks other. Read changelog before picking a version IMO.
 Keyword Item Distributor (KID) - *note:* patching with these 2 distro mods is as easy as editing an .ini file. Make your own and upload them for anons
 JContainers SE
 SSE Engine Fixes (skse64 plugin)
-Mfg Fix - I don't remember why, but the other ones break shit. Make sure it's [this one.](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=description)
+Mfg Fix - I don't remember why, but the other ones break shit. Make sure it's [this one (nexus link).](https://www.nexusmods.com/skyrimspecialedition/mods/11669?tab=description)
 SSE FPS Stabilizer
 powerofthree's Papyrus Extender (Go ahead and download everything by powerofthree, while you're at it.)
 SSE Display Tweaks
@@ -58,7 +55,7 @@ Auto Input Switch - technically not Required but why wouldn't you use this?
 **NG** Whose Quest Is It Anyway.
 **NG** Mum's the Word - items below a certain value are no longer marked stolen if you're not seen taking them.
 ~~**NG** NPC AI Process Position Fix~~ - Apparently this breaks more than it fixes. No longer recommended.
-PapyrusUtil SE - Modders Scripting Utility Functions - **Note: Load this last in MO2! The version included with most mods is out of date.**
+PapyrusUtil SE - Modders Scripting Utility Functions - **Note: Load this last in MO2! The version included with most mods, like Simply Knock or Campfire, is out of date.**
 
 
 ###Notes on USSEP, aka Arthmoor's No Fun Allowed Super Essential Patch
@@ -67,7 +64,7 @@ A huge number of mods will require this patch, and its companion CRF (Cutting Ro
 ##Camera:
 
 SmoothCam - This is now on the nexus. It's *invaluable.* Make sure you get a preset, it's pretty floaty by default. If you get weird zooming with AGO, check your FOV offsets and set to 0.  Recommended presets: Octavian's or SmoothCam Vanilla Enhanced 2.
-Improved Camera - SE's skse based gopro-style 'I can see my bones from here' first person camera. Now on Nexus. 
+Improved Camera SE- skse based gopro-style 'I can see my bones from here' first person camera. Now on Nexus. 
 *note: Please check your compatibility settings in other mods like Immersive Interactions.*
 Enhanced Death Cam - watch the draugr that killed you t-bag your corpse and fuck your companions, just like real life
 Improved Alternate Conversation Camera - AIO camera solution for Dialogue. Lets you emulate Witcher/Bioware style switching to view player, or can emulate Oblivion/Starfield by forcing 1st person and zooming. *note: use Simple Version for Smoothcam compatibility!*
@@ -84,8 +81,7 @@ Photo Mode - This replaces a ton of screenarchery mods and I haven't seen a good
 Sprint Tweaks - to taste. sets sprint to hold rather than toggle, and adds BOTW style horse rape.
 Better Jumping - sprint jump, double jump, etc. [sound patch](https://www.nexusmods.com/skyrimspecialedition/mods/44041) needed if using with CGO.
 Wade in Water Redone - finally has animations thanks to EVG Conditional Idles.
-S.M.C. - Skyrim Motion Control - This one is super cool. Dynamic acceleration, deceleration, slope speed adjustments etc. 
-*note: This has been completely reworked and Skyrim Souls RE compatibility works now. If updating, just remember to delete your old configs.*
+S.M.C. - Skyrim Motion Control - This one is super cool. Dynamic acceleration, deceleration, slope speed adjustments etc. Make sure to get the newest version and the MCM.
 
 ###Miscellaneous
 Rumble - super cool mod that hooks into game events to provide controller feedback. Check .ini - rain and footsteps are way overtuned OOTB (for my gamepads at least).
@@ -175,7 +171,7 @@ Check out [this article](https://www.nexusmods.com/skyrimspecialedition/articles
 
 For aspiring penis havers: You have two main body options - Vanilla, and Schlongs of Skyrim ([AE update](https://www.loverslab.com/files/file/20136-sos-ae/) and [Original](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/) available on Loverslab). The two main skins, Tempered Skins and Skysight skins, now worth with both. I also recommend True Faces - better normal maps for either skin.
 *Note: The New Gentleman is apparently a drop-in replacement for SoS. Probably worth switching to if your setup has bugs with armor slots! It supports SoS textures.*
-*Note on HIMBO™:* - Luckily for men, there is only one male bodyslide standard, and it supports SoS textures. If you want bodyslide for men, you will use HIMBO, you will like it, and you will find armors. The same cannot always be said for female armors due to the variety of choices. It is fucking ugly though and made by some sort of homosexual, so keep that in mind.
+*Note on HIMBO™:* - Luckily for men, there is only one male bodyslide standard, and it supports SoS textures. If you want bodyslide for men, you will use HIMBO, you will like it, and you will find armors. The same cannot always be said for female armors due to the variety of choices. It is ugly though and made by some sort of homosexual, so keep that in mind.
 
 For aspiring milk producers: Besides vanilla, your main body options are BHUNP and CBBE. CBBE has more armors so it's what I use. Each has dozens of textures, find a waifu whose look you like in the general and ask what skin they're using. There are no good vanilla textures, blame the coomers.
 *Note:* 3BA is CBBE with jiggly bits. TBD is CBBE, with bigger jigglers. Textures are compatible between the three, Bodyslides less so. All three CBBE variants as well as BHUNP support Bodyslide - but comparatively few armors are retrofitted to BHUNP so search around and make sure you can find enough you like before committing to it over a CBBE variant. For whatever reason BHUNP armors are regularly like 5 gigs for no reason.
@@ -286,7 +282,7 @@ You have two 'modern' options when it comes to full-blown combat overhauls:
 I honestly just use True Armor/KYE2 and Valravn these days. Anything else is either visual flair, balance tweaks or Precision tweaks.
 
 *But nwahman I need my enemies to SHIT THEMSELVES*
-Maximum Carnage - makes your enemies shit themselves
+Maximum Carnage - used to make your enemies shit themselves. Apparently this was removed so I no longer recommend it for this purpose.
 
 ##Not Really Combat
 
@@ -305,7 +301,7 @@ Ordinator - gimmicky, bloated, mod author is a nazi, blah blah. Still the best p
 
 *Note: There are hundreds of other options and the majority are total overhauls of the core Skyrim levelling experience. Most of the old standbys (SkyRE. PerMa, etc) have been revived by Synthesis patchers or other continuations and are still viable options in Anno Toddini 11. Some new options like Master of One or Synergy allow for heavy build focus at the expense of other skills! Do your research before picking one, as you're stuck with it for your entire playthrough.*
 
-Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a smith every playthrough? Smithing sucks and is insanely boring and unimmersive. Just use this unless you really NEED to roleplay as a smith. I recommend Honed Metal Voiced and Additional Materials - all can be found in requirements section of original Honed Metal.
+Honed Metal - bubububut this isn't a perk mod! So what, you really want to be a smith every playthrough? Smithing sucks and is insanely boring and unimmersive. Just use this unless you really NEED to roleplay as a smith. Most required features besides the Settings Loader have been incorporated into the main version as of 1.24.
 
 *but nwahman I need to roleplay as a smith!!1!1*  Then you're stuck with CCOR (which also isn't a perk mod). Prepare to download 6 million patches
 
@@ -415,7 +411,7 @@ Shadow of Skyrim - A very cool all-in-one respawn mod and Immersive Dynamic Neme
 
 ##Followers:
 
-Nether's framework - back on the nexus after the Big Modder Tantrum blew over. I don't care if he's g * rman or a p * dophile or a f * rry, the mod is good so just use it. No, it's not a bootleg AFT, it's literally state of the art.
+Nether's framework - back on the nexus after the Big Modder Tantrum blew over. I don't care if he's g * rman or a f * rry or whatever, the mod is good so just use it. No, it's not a bootleg AFT, it's literally state of the art.
 Immersive Horses - less bloat than Convenient, just works, patches available for all the good horse model replacers. Lets you name horses.
 Interesting NPCs -This adds a wide range of characters to Skyrim, many of whom can be followers. The writing and quest quality is about on par with vanilla, VA work is spotty but more good than bad, and it's somehow less cringe than any similar mod released since (see: Citizens).
 Follower Death and Injury Chance - Another of Jay Serpa's clever immersion tweaks, perfect for more organic playthroughs.
@@ -481,14 +477,13 @@ NAT.ENB III - All-in-one weather and ENB with some spectacular eye candy. It's s
 *and/or* Berserkyr ENB - This is an ENB designed around the NAT weather system + Lux and also looks incredible. I find this to have better performance than just NAT, but it still takes a bite out of your frames. Looks horribly oversaturated as of 1.2, and skin gets a bit plasticky as well. Consider 1.1.
 
 Azurite Weathers - More modern take on Cathedral weathers, an old standby that focused on environmental effects and fixing vanilla weirdness (horizon seam, broken fog, etc etc etc). This one looks very good and offers vanilla performance - the colors are good enough to use it without an ENB and using Community Shaders in my opinion, although many popular ENBs (Rudy's, Pi-Cho, etc) will have profiles for it.
-*note: Azurite Weathers II, recently released on the same page, will have varying compatibility with old ENB presets designed around it. Just a heads up. It does fix the blue nights though so well worth the upgrade.*
+*note: Azurite Weathers II, recently released on the same page, is not compatible with ENBs for the original. I recommend Azurite Horizons for AW II.*
 
 *Honorable Mentions*
 
 Pi-Cho - Built off of legacy shaders from Silent Horizons, the screenarchery standby since forever, this is the gold standard for balancing characters and environment. If you don't use it, anons will complain about your skin and tell you that you should play LE instead.
 
 Silent Horizons 2 - Universal Core - Rebuilt from scratch for gameplay first. The sharpening and color space control are second to none and it can actually adapt to just about any weather. Excellent performance and visuals. I wouldn't touch anything else besides Berserkyr or 'Cho for gameplay in 2023 (if you are running hardware from 2023.)
-*or* The Enhancer - Same concept but much older and less advanced color and light control. It also has dogshit SSS out of the box, and l00 is a snowflake who keeps comments off so people don't bitch about his awful default settings. I would just run Community Shaders if you want a lightweight visual upgrade but can't run SH2.
 
 Ljoss - This has phenomenal performance while still supporting some new-ish features like Particle lights. If you need locked 60 FPS on a potato, optimize your game first then install this with .347 binaries or slightly newer.
 
@@ -510,7 +505,7 @@ Community shaders is an alternative processing pipeline to ENB that retains vani
 
 ###Models and Textures:
 
-Skyland AIO - this is finally truly all-in-one, including both DLC and all cities. The quality is high and consistent, and there is a 1k option available for toasters and microwaves.
+There are AIO packs like Skyland AIO or Skyrim 2022, but honestly I would just recommend a set of landscape textures and possibly cleaned and recompressed vanilla textures for most setups.
 
 Otherwise - anything by ElSopa, Pfuscher, Rudy, Rally, Gamwich, Mrf, Cunny, WizKid, Johnrose, johnskyrim, mindflux, wskeever, and SDLutz will probably be fine. Don't feel the need to fuck with EVERYTHING in game unless you're screenarchering or have the autisms. If you do so, you'll spend more time hunting down visual bugs than playing the game.
 

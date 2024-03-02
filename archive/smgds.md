@@ -1,5 +1,7 @@
 # Super Mario Galaxy DS Prototype
 
+[NARRATION](https://youtu.be/3-RJh5lTHMQ?si=arCcyXZB9MFG4Rqd)
+
 Recently a friend of mine suggested this forum for me to browse. It's not too bad all things considered but jeez it's slow. Getting at most a post a day, the “active” threads plastered on the front page consist primarily of mindless yet charming drivel, the few noteworthy discussions, months if not years old, only achieving responses longer than a single word due to the topic’s image being pornography of one of the game’s characters.
 
 Getting to the third quarter of topics the site considers still living and every post is now not only years old but the discussions still continue to rot my brain.

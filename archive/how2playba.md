@@ -760,6 +760,8 @@ For reference, the top rank reward for raids only grant 200 more gems (= 1,67 ro
 You don't choose her. She chooses you. 
 The best way I can describe it is that everything just 'clicks'. You might not find her for months, maybe even years, and that's okay. You'll know when it happens. Yes, I am being cringe.
 
+just b urself. 
+
 > I'm AP capped! What do I spend it on?
 You spend it on whatever event is currently running. If it's a dead week (e.g. only 2x scrimmages) it's:
 Hard missions > Normal missions > Commissions.

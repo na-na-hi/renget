@@ -35,14 +35,14 @@ https://files.catbox.moe/7723pp.safetensors doll a toy doll, activation trigger 
 ###Concepts
 https://files.catbox.moe/f6r1nl.safetensors shared_clothes keyword is SharedClothes, example gen: https://files.catbox.moe/oddiam.png
 
-These are from the below mega, a couple were resized from their original size to get them under the 200mb limit
+**These are from the below mega, a couple were resized from their original size to get them under the 200mb limit**
 https://files.catbox.moe/hfpslw.safetensors empty_eyes_drooling example gen: https://files.catbox.moe/p7aido.png
 https://files.catbox.moe/9qixqa.safetensors glowing_eyes activation trigger is glowing eyes
 https://files.catbox.moe/yz5c9g.safetensors quadruple_amputee activation trigger is quadruple amputee
 https://files.catbox.moe/tlt57h.safetensors ugly_bastard prompt stuff like ugly_male, ugly_bastard, old_male
 https://files.catbox.moe/ois9av.safetensors oral_cumshot_xray the activation triggers are cum in stomach, stomach \(organ\), cum in throat, lazy example gen: https://files.catbox.moe/h2j2dl.png
 
-Resized ones:
+**Resized ones**
 https://files.catbox.moe/z71ic0.safetensors sex_machine activation trigger is sex machine
 https://files.catbox.moe/mxbbg2.safetensors stasis_tank activation trigger is stasis tank
 
@@ -199,6 +199,9 @@ https://files.catbox.moe/kkuo6l.safetensors tanemura_arina
 https://files.catbox.moe/warwm8.safetensors buzzlyears
 https://files.catbox.moe/0nwcg0.safetensors fluffydango
 https://files.catbox.moe/th6867.safetensors tangobat
+https://files.catbox.moe/xbzs8v.safetensors honkai
+https://files.catbox.moe/5zurdz.safetensors LAxe
+https://files.catbox.moe/l4gj72.safetensors MSize
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
@@ -247,6 +250,7 @@ https://mega.nz/folder/YudnhQpC#KxYS978EU9mlyDwmLbIuwA/folder/tmtzgTxK katou_jun
 https://mega.nz/folder/k3MwHTwC#BOiRdd3uDjTeztzxuM19Hg alexi, chirumakuro, okiami, oltlo, yue
 https://mega.nz/folder/0soGXArQ#IJQJROng3TlELfCooa8RMg coro fae, danimaru, gonzrez, ishikei, kazutake hazano, letdi, nonco, oouso, rhasta, rwing, tottotenero
 https://rentry.org/shitty_loras#styles-pony-diffusion-v6-xl made_in_abyss, moshimoshibe
+https://mega.nz/folder/1yRSXQCR#Ziu9Q9Is5BCTYn53tnionw akatsuki_giken, alkemanubism, annin, aoin, chabo_fuketsudan, collagen, go_robots, ishida_umi, kafun, kaomin, kenya_suzuki, kink_(tortoiseshell), lucient, m_k, marui, miche, nezumi, nnf, pantsu_ruipper, RA, shizuoka, simzarts, testsuwan_woopie
 
 ###Characters
 

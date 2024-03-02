@@ -1,15 +1,13 @@
 **PonyDiffusionV6XL LoRAs**
 
+- Joe Randel style 
+https://files.catbox.moe/l0qd64.safetensors
 - Ashley Graves (The Coffin of Andy and Leyley)
 https://pixeldrain.com/u/NU5U86J1 v2
 https://pixeldrain.com/u/TYqFbTRu v3
 https://pixeldrain.com/u/niW2HkGP v4
 https://pixeldrain.com/u/ddhMfwoc v5
 https://pixeldrain.com/u/zutaCP8W v6
-- Jasmine, Crysta (FernGully), Tinker Bell, Wonder Woman, Harley Quinn (2009), Emma Frost & Jean Grey (Wolverine and the X-Men), Charmcaster
-https://mega.nz/folder/9vJBXI4J#M-iYaLjLbpul8ufRNWFnfQ
-- Joe Randel style 
-https://files.catbox.moe/l0qd64.safetensors
 - Jaiden Animations
 https://pixeldrain.com/u/ugYTZHxa
 https://pixeldrain.com/u/xLwiHnD9

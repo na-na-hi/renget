@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image]()
- Edition
+![suggested OP image](https://i.imgur.com/kckLJN0.jpg)
+Abom Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>467356442
+Last thread: >>467679565
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -31,10 +31,10 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Alien Friday is over; write prompts for next week's theme, Science and Laboratory Experiments Friday! >>466765039
+/>Today is still Science and Laboratory Experiments Friday; reply to the anchorpost with your experimental prompts! Last: >>467690367
  
 ▶News
-(02/27) Mistral AI bought by Microsoft, announce new proprietary models, and remove any mention of open source from their website: https://archive.is/3ypKx
+(02/27) Mistral AI announce new proprietary models, receive $16M Microsoft investment and form release partnership, are adamant nothing has changed: https://archive.is/3ypKx ; https://i.imgur.com/x1BqPwl.png
 (02/21) NAI Diffusion V3 updates with Vibe Transfer feature: https://medium.com/@novelai/vibe-transfer-7a264645d241
 (02/15) This guy appears >>465836709
 (02/07) Euroids pass AI act: https://en.wikipedia.org/wiki/Artificial_Intelligence_Act

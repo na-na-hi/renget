@@ -1,3 +1,36 @@
+>Arty strikes AFU convoy in Chasov Yar
+https://files.catbox.moe/rm4z78.mp4
+>FAB-500 w/ UMPC strikes pontoon bridge in Kupyansk
+https://files.catbox.moe/yleepp.MP4
+>Eric Prince, former SEAL and Blackwater PMC CEO, tells Ukraine to surrender
+https://files.catbox.moe/xetkm0.mp4
+>Lavrov comments on Macron
+https://files.catbox.moe/kixjcv.mp4
+>Russian Marines use anti-drone guns
+https://files.catbox.moe/i5mlfy.MP4
+>FPV records Russian MLRS cluster missile scattering submunitions
+https://files.catbox.moe/60hnt7.mp4
+>Trolling Navalny's funeral
+https://files.catbox.moe/7p8tmb.mp4
+>Leaked call about sending Taurus missiles to Ukraine
+https://files.catbox.moe/zfxfty.mp4
+https://files.catbox.moe/hsmulj.mp4
+https://files.catbox.moe/y6kfw6.mp4
+https://files.catbox.moe/xo5l5a.mp4
+>Super Navalnaya
+https://files.catbox.moe/0aeljt.mp4
+>Only survivor of the hohol SOF boat raid
+https://files.catbox.moe/qfxpj6.mp4
+>Anglo merc shits due to distant artillery
+https://files.catbox.moe/i563bz.mp4
+>ODAB-1500 on a building
+https://files.catbox.moe/wibhrd.mp4
+>Tanks in Chasov Yar hangars got rekt
+https://files.catbox.moe/4p93fn.mp4
+>La creatura spotted in Kiev
+https://files.catbox.moe/jjwhz7.mp4
+>BUK BTFO (Sumy)
+https://files.catbox.moe/1kw6di.mp4
 >How hohol kids are taught ukrainian
 https://files.catbox.moe/r6xxro.mp4
 >Avdeevka pipe report NOW SUBBED

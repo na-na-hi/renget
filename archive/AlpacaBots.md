@@ -67,6 +67,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/gbyok6.png) | Douleur | Malkavian. Sweet, caring, and expecting. ...or is she? | [Catbox link](https://files.catbox.moe/gbyok6.png)
  ![](https://files.catbox.moe/jaryc8.png) | Dan | Nosferatu. Former porn star, now self-hating super hacker. | [Catbox link](https://files.catbox.moe/jaryc8.png)
  ![](https://files.catbox.moe/ra8syi.png) | RJ | Human girl obsessed with vampires wants to be turned into a ghoul or a full-blown vampire. | [Catbox link](https://files.catbox.moe/ra8syi.png)
+ ![](https://files.catbox.moe/u3f3e2.png) | Theo | Ravnos. Charming rogue with chronic backstabbing disorder. | [Catbox link](https://files.catbox.moe/u3f3e2.png)
 
 
 ###Standalone male bots

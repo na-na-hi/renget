@@ -4,6 +4,7 @@
 
 Date | Content added
 ------ | ------
+01/03/24   | Added rarity and path for "Jade" (5\* / Erudition) + added her new kit in the "Kit" folder.
 22/02/24   | Added new files to Robin Misc. folder. / Added 2 new characters (Lingsha and Yunli) in the Possibly Scrapped, Placeholder or Characters with no Info section. / Moved "Feixiao" (5\* / Hunt / Wind) and "Moze" (5\* / Hunt or Erudition / Lightning) to the Upcoming Characters section and added rarity, path and element. / Removed "Grunt Man" from the Possibly Scrapped, Placeholder or Characters with no Info section (Was used for something else in Penacony). / Fixed all of the broken images.
 21/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Gameplay, and Story+Voicelines (Voicelines>Audio) folders.
 20/02/24   | Added new files to Acheron, Aventurine, and Gallagher Misc., Animations, and Gameplay folders.

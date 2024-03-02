@@ -1,6 +1,6 @@
 -> ![this is how i look IRL btw](https://files.catbox.moe/0l6qgp.png) <-
-# -> ![purin4evr](https://crustcrunch.neocities.org/pom.png) %#f590d5%♡%%%#f597d2%f%%%#f69fcf%u%%%#f7a6cc%n%% %#f7aeca%j%%%#f8b6c7%a%%%#f9bdc4%i%%%#fac5c2%l%%%#facdbf%b%%%#fbd4bc%r%%%#fcdcb9%e%%%#fce4b7%a%%%#fdebb4%k%%%#fef3b1%s%%%#fffbaf%♡%% ![pompompurinfan](https://crustcrunch.neocities.org/pompomfan.webp) <-
-->%#baf1ff% ₊˚⊹⋆₊˚⊹♡ *send me a mail~* **crustcrunch@proton.me** ♡⊹˚₊⋆⊹˚₊%%<-
+# -> ![purin4evr](https://crustcrunch.neocities.org/pom.png) %#f590d5%♡%%%#f597d2%f%%%#f69fcf%u%%%#f7a6cc%n%% %#f7aeca%j%%%#f8b6c7%a%%%#f9bdc4%i%%%#fac5c2%l%%%#facdbf%b%%%#fbd4bc%r%%%#fcdcb9%e%%%#fce4b7%a%%%#fdebb4%k%%%#fef3b1%s%%%#FFFBAF%♡%% ![pompompurinfan](https://crustcrunch.neocities.org/pompomfan.webp) <-
+->%#18C4F0% ₊˚⊹⋆₊˚⊹♡ *send me a mail~* **crustcrunch@proton.me** ♡⊹˚₊⋆⊹˚₊%%<-
 -> [%#f590d5%CHUB%%](https://www.chub.ai/users/crustcrunch) <-  | -> [%#f590d5%Neocities%%](https://crustcrunch.neocities.org) <- | -> [%#f590d5%Main Rentry%%](https://rentry.org/crustcrunch) <-  | -> [%#f590d5%Claude Jailbreaks%%](https://rentry.org/crustcrunchJB) <-  | -> [%#f590d5%GPT Jailbreaks%%](https://rentry.org/crustcrunchGPT)  <-
 | | | |
 
@@ -9,9 +9,9 @@
 ![arrow](https://64.media.tumblr.com/d8f3479cd531c54753be621c8df00e4c/tumblr_inline_mpedf95ujK1qz4rgp.gif) %#f590d5%**What is this?**%% A collection of prompts to slap onto the end of your jailbreak (or insert into a card) just for fun. GPT tends to be better at stat trackers but you can use these with any model.
 
 #####%#f590d5%**📜Table of Contents📜**%%
-[%#baf1ff%~♡ Affection Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#affection-stat-tracker)
-[%#baf1ff%~♡ LUST LEVEL Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#lust-level-stat-tracker)
-[%#baf1ff%~♡ Doujin Translator Notes%%](https://rentry.org/crustcrunch_fun_JBs#doujin-translator-notes)
+[%#18C4F0%~♡ Affection Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#affection-stat-tracker)
+[%#18C4F0%~♡ LUST LEVEL Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#lust-level-stat-tracker)
+[%#18C4F0%~♡ Doujin Translator Notes%%](https://rentry.org/crustcrunch_fun_JBs#doujin-translator-notes)
 
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 
@@ -76,4 +76,4 @@ Adds formatted commentary at the bottom of your responses from the translator wo
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 
 
-->%#f590d5% ପ(๑•ᴗ•๑)ଓ ♡ thank you to%% [%#baf1ff%doujins%%](https://rentry.org/doujins-gradient-generator) %#f590d5%for the gradient script!%%<-
+->%#f590d5% ପ(๑•ᴗ•๑)ଓ ♡ thank you to%% [%#18C4F0%doujins%%](https://rentry.org/doujins-gradient-generator) %#f590d5%for the gradient script!%%<-

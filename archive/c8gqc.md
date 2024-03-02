@@ -28,11 +28,9 @@
 • TRN Conch (bright V) - $35
 • Moondrop Lan (neutral) - $40
 • Simgot EW200 (Harman) - $40
-• EPZ Q5 (bright V) - $50
 • Juzear Clear (bassy V) - $50
 • TKZK Ouranos (mild V) - $55
 • Truthear x Crinacle Zero: Red (bassy neutral) - $55
-• EPZ x Tipsy Star & One (Harman) - $60
 • TRN ST5 (W-shape) - $60
 • Artti T10 (mild V) - $70
 • Floaudio Bluelover (bassy neutral) - $70 
@@ -254,9 +252,12 @@
 • FiiO KA13 - $80
 • Simgot DEW4X - $80
 • Shanling UA4 - $100
+• AFUL Snowy Night - $110
 • EPZ TP50 - $120
 • FiiO KA5 - $130
 • FiiO KA17 - $150
+• Colorfly CDA-M2 - $160
+• Aune Yuki - $170
 
 ##DAPs / PMPs
 ***

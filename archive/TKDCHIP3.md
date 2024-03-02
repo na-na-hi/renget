@@ -1,0 +1,51 @@
+->![SC01](https://files.catbox.moe/jahe0k.png) **==/chip/ – Comfy Happening in Palestine==** ![SC01](https://files.catbox.moe/jahe0k.png)<-
+->![ARSWD01](https://files.catbox.moe/4hc8by.png) **==زحف/ – عملية طوفان الأقصى/==** ![ARSWD01](https://files.catbox.moe/4hc8by.png)<-          
+                                                                        ->![chip2](https://files.catbox.moe/bg35hz.png)<-
+
+!!!danger Future bakers, please use https://y2u.be/ to shorten youtube links. Do not use the shorter version, use the longer version because the shorter version will get your bakes marked as spam. Please donate to help "Israel" die and Palestine win, God bless you: https://humanappeal.org.uk/
+
+!!!danger /chip/ Alert Bitchute links are able to track IP addresses of users. pissraeli shills have been posting them like crazy in the last week a simple google search will confirm that bitchute links track IP's Also, Google links now can have an appended tracker portion after the necessary part of the link The tracker portion links to the gmail account of the person that sent them. So, they've become a honeypot also for chan users example: https://files.catbox.moe/oeli22.jpg
+
+***
+!!!info Table Of Contents 
+       [TOC1]
+       
+##->==March 2024 Israel / Hamas War==<-
+
+##Video Archive    
+
+### Hamas
+!!!note 
+    ### Hezbollah  
+    >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
+    > https://files.catbox.moe/aufqqi.mp4  New  3/1/24
+ !!!note
+    ### Al-Quds Brigades  
+    >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
+    >https://files.catbox.moe/37e8yj.mp4  New  3/1/24
+### AnsarAllah 
+!!!note
+### Islamic Resistance Iraq
+!!!note 
+### Al-Sharqiya Battalion
+***
+#==News Clips and Videos==
+***
+##Daily News and Videos
+***
+!!!warning
+    ##Week 3/1/24 - 3/7/24
+    >WATCH: The Mujahideen Brigades published a video showing the operation together with Saraya Al-Quds, where they launched a SAM-7 at an IOF drone, in the southeastern Gaza axis.
+    >https://files.catbox.moe/qu4sl8.mp4  New  3/1/24
+    ***
+    >During an interview with Sky News, an Israeli military spokesperson addressed the Israeli massacre in northern Gaza, where 112 Palestinians were killed and hundreds wounded while awaiting food convoys. The spokesperson suggested that Israeli forces may have shot them by "mistake" 
+    >https://files.catbox.moe/9cspqm.mp4  New  3/1/24
+    ***
+    >Breaking | The EU commissioner declared it will reinstate funding to UNRWA, which was previously suspended following allegations by Israel of involvement of certain organization members in the 7th of October.
+    >https://files.catbox.moe/etozoq.mp4  New  3/1/24
+    ***
+    >Satellite imagery captured between December 1st and February 29th unveils a shocking extent of destruction in Khan Yunis, as Israeli forces have detonated hundreds of residential blocks in the city.
+    >https://files.catbox.moe/dh276m.mp4  New  3/1/24
+    ***
+    >Mujahideen Brigades: In a joint operation with the Al-Quds Brigades, we bombed with mortar shells the concentration of occupation forces in the southeast of #Gaza City.
+    >https://files.catbox.moe/gipt00.mp4  New  3/1/24

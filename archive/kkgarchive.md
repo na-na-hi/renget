@@ -1,7 +1,7 @@
 ## /kkg/ Thread Archive
 
 !!! note
-    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7848225/](https://boards.4chan.org/h/thread/7848225/)**&nbsp;&nbsp;&nbsp;&nbsp;(26.02.2024 20:11)&nbsp;#&nbsp;GET MOTIVATED Edition
+    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7858170/](https://boards.4chan.org/h/thread/7858170/)**&nbsp;&nbsp;&nbsp;&nbsp;(02.03.2024 01:13)&nbsp;#&nbsp;BE MOTIVADED Edition
 
 [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------: | :------:
@@ -9,6 +9,7 @@
 ---
 
 ##&nbsp;->2024<-
+- 683&nbsp;&nbsp;[archiveofsins.com/h/thread/7858170/](https://archiveofsins.com/h/thread/7858170/)&nbsp;&nbsp;&nbsp;&nbsp;(02.03.2024 01:13)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;BE MOTIVADED Edition
 - 682&nbsp;&nbsp;[archiveofsins.com/h/thread/7848225/](https://archiveofsins.com/h/thread/7848225/)&nbsp;&nbsp;&nbsp;&nbsp;(26.02.2024 20:11)&nbsp;&nbsp;[1]&nbsp;#&nbsp;GET MOTIVATED Edition
 - 681&nbsp;&nbsp;[archiveofsins.com/h/thread/7848229/](https://archiveofsins.com/h/thread/7848229/)&nbsp;&nbsp;&nbsp;&nbsp;(26.02.2024 20:12)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;It's Over Edition
 - 680&nbsp;&nbsp;[archiveofsins.com/h/thread/7837003/](https://archiveofsins.com/h/thread/7837003/)&nbsp;&nbsp;&nbsp;&nbsp;(21.02.2024 21:42)&nbsp;&nbsp;[1168]&nbsp;#&nbsp;Cumming All Over Chika Like a Proper Christian Edition
