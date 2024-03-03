@@ -740,6 +740,7 @@ Maru Gets Excited: https://desuarchive.org/tg/post/92050892/
 Seiryu (Casual): https://desuarchive.org/tg/post/92053340/
 Height Chart Update: https://desuarchive.org/tg/post/92053985/
 A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people): https://desuarchive.org/tg/thread/92054796/#92056835
+moe moe kyill yourself: https://desuarchive.org/tg/post/92064727/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1213,6 +1214,8 @@ Hearts Afire (Seiryu, Yamata, Blast Burn, Yamamoto): https://rentry.org/ewpc5tz3
 A Hero Student's Uncertain Dating Prospects (Beach Day, Slip-n-Slideasaurus, Cube): https://rentry.org/DatingProspects
 Frameless (Smokin' Sexy, Ryu-Kishi, Mirror Devil): https://rentry.org/u8snakxr
 The Symbol of Death: Part 4 (Reaper, Forget-Me-Not, Feral, Drekus, Ookami Shizuka, The Prophet): https://rentry.org/igwpicub
+A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people): https://rentry.org/6zruhinr
+Monsters (Last Rite, Yamata): https://rentry.org/ph2rfaai
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

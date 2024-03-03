@@ -199,6 +199,38 @@ They both run into the dusk to their future
 !!! info
 	(AN: As Carrot and Hazel get ever closer to the guild, a single event that was a mere choice for a pokemon has broken the orange dog and purple cat's destiny in ways even the lord of the world Arceus couldn't predict, creating an alternative line, one A world of Marvels, the other A world of Ruins)
 
+###Branch 1: A world of Marvels (Canon line)
+####Chapter 1: The arrival
+"... maybe we should turn back" Carrot whimpers
+".... maybe you're right" Hazel agrees as they both see an Absol with a broken horn screaming to the wind about the imminent rapture, crazy, both though
+"No, we're already here, we have to at least try, otherwise we should have not left the guild" Carrot barks decided
+Hazel nods, still unsure if this is the place she wants to stay in, but also inspired by Carrot's commitment to their adventure promise
+Entering the hall of the guild, they can see several pokemon, including some neither Carrot nor Hazel had seen before, by the tone and convos some of them had, Carrot knew
+"Psshh, Hazel?" Carrot whispers
+"Yeah?" Hazel purrs softly
+"They're humans, i can recognize the jargon"
+"How do you know it?" Hazel asks, still unsure if she should trust Carrot's knowledge in humans after some years
+"Watch" Carrot paces to a random pokemon, a yellow fox 
+"Hey, so what's a featherless biped?" Carrot barks happily, excited to meet more ex-humans
+"Sounds like a Combusken that's lost it's feathers", the yellow fox answers, somewhat bluntly considering Carrot randomly approached him
+"Oh... thanks... where's the guildmaster office?" He asks, dissapointed
+"Just up the stairs, take a right and to the left"
+"Thanks" Carrot quickly paces back to Hazel, ears down, while Hazel is giggling 
+"Don't worry, i have heard some of them and they've said stuff only you say, but that was hilarious, you didn't even said your name!" She giggles even more in a soft purr
+"Well, i don't have one, so i have an excuse" Carrot cuts the convo before directing Hazel to the guildmaster's office, easily finding it for the sign that says in plain english 'Guildmaster - Office'
+"See, Hazel? This is human speech, it says Guildmaster" Carrot barks even more excited, there truly are more humans like him
+"Huh... you weren't lying then" Hazel looks at the writting, still puzzled about suddenly there being even more humans; "But why suddenly there's a ton of you here? Didn't humans just appeared during natural disasters and cataclysms? Isn't that bad?"
+"Idunno, maybe? In any case we should stick together" Carrot brushes off Hazel's concern before headbutting the door softly as to knocking, waiting for a response
+"Yes? Come in~" a voice tells from inside, prompting Carrot to push the door with his back
+"Oh, hello, new members i see, welcome to the guild" the cat in the large chair says, changing his voice tone as they notice that Carrot and Hazel are outsiders
+"Greetings, guildmaster, my name is... and her name is Hazel, we're adventurers from another guild but we decided to look for new horizons" Carrot quickly unloads the info dump before the guildmaster 
+Hazel, sensing that he was trying to take the attention off his name, and by the Meowstic's look, he was not buying it
+"His name is Carrot, mine is Hazel" she simply purrs it out, followed by an angry look from Carrot, but the genie was out of the bottle already
+"That's just a motto, i have... some memory issues, and she's mean, so that's how everyone knows me" Carrot barks somewhat annoyed
+The cat, still thinking, finally concludes 
+"Heh, that's not an issue, several of our members have the same issue as you, it happens quite constantly with humans, so don't worry about it" he looks at both Carrot and Hazel for the last time
+"I sense you're no evil, so you're welcome to join us, heh~"
+
 ***
 ### Misc. Overviews
 ***

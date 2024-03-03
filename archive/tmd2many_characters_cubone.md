@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Butler | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
-**Level:** 10 | **Experience to Next Level:** 97/100 | **Alignment:** Lawful Good
+**Level:** 11 | **Experience to Next Level:** 27/110 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 990₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
@@ -46,7 +46,7 @@ Lightning Rod | When the User is hit by an Electric-Type Move, they are damaged 
 #### ->Stats<-
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 10 (21 HP) | 20 HP
+Health Points | 0 | Level 11 (21 HP) | 20 HP
 Attack  | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage
 Defense | 1 | Species Bonus | +1 Physical Mitigation
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
@@ -59,7 +59,7 @@ Speed | 2 | Speed Tier ɪ | 5 AP
 Move | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | -- | - | :-: | :-: | ---------
 Mud-Slap | 2 BP | 4 AP | ≥2 | ![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | The target's Accuracy is decreased by 1.
-Tail Whip | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Defense is decreased by 1. The User may select additional targets to have their Defense decreased by 1 at the cost of 2 AP each.
+Headbutt | 7 BP | 6 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | 14-20; The Opponent Flinches. Outside of battle; can shake trees... does he really have to..?
 Water Gun | 4 BP | 4 AP | ≥2 | ![Water-Type](https://archives.bulbagarden.net/media/upload/thumb/b/b0/WaterIC.png/70px-WaterIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
 Bone Club | 7 BP | 6 AP | ≥2 |  ![Ground-Type](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | 19-20; The Opponent Flinches... don't you actually need a club to use this?
 Basic Attack | 4 BP | 4 AP | ≥2 | ![???-type](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![Variable](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/vNDknMKWjUwXKAQTdTrKcYSk) | Property determined by Cubone's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -141,6 +141,6 @@ None | None | None
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Growl | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Attack is decreased by 1. The User may select additional targets to have their Attack decreased by 1 at the cost of 2 AP each.
-None | - | - | - | - | - | This Move does not exist yet.
+Tail Whip | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The target's Defense is decreased by 1. The User may select additional targets to have their Defense decreased by 1 at the cost of 2 AP each.
 
 ***

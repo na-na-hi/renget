@@ -24,6 +24,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Gorimaruko (ごりまるこ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/37597222) [[Booth]](https://gorimaruko.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/225077) [[Pixiv]](https://www.pixiv.net/en/users/5098612) [[Twitter]](https://twitter.com/pinboonaga) <-
 
+[[Fantia]](https://fantia.jp/products/592309) : Granblue Fantasy - Europe
 [[Fantia]](https://fantia.jp/products/301027) : Granblue Fantasy - Cidala
 [[Fantia]](https://fantia.jp/products/170511) : Granblue Fantasy - Mirin
 ***
@@ -53,6 +54,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
 
+[[Booth]](https://witchcraft130.booth.pm/items/5538120) - Nitroplus - Super Sonico
 [[Booth]](https://witchcraft130.booth.pm/items/5381802) : Vocaloid - Hatsune Miku
 [[Booth]](https://witchcraft130.booth.pm/items/5238626) : Vocaloid - Kagamine Rin
 [[Booth]](https://witchcraft130.booth.pm/items/5084228) : Touhou - Hakurei Reimu -Limited-
@@ -228,6 +230,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Zy0n7** <-
 -> [[ArtStation]](https://www.artstation.com/raulbapo) [[Fantia]](https://fantia.jp/Zy0n7) [[Gumroad]](https://zy0n7.gumroad.com/?sort=newest) [[Patreon]](https://www.patreon.com/Zy0n7) [[Payhip]](https://payhip.com/Zy0n7) [[Pixiv]](https://www.pixiv.net/en/users/5153789) [[Twitter]](https://twitter.com/RaulBP87) <-
 
+[[Gumroad]](https://zy0n7.gumroad.com/l/duauq) : Sousou no Frieren - Frieren
 [[Gumroad]](https://zy0n7.gumroad.com/l/oknjub) : Dragon Maid - Tohru (+VRC / Blend / SFM)
 [[Gumroad]](https://zy0n7.gumroad.com/l/gopor) : Pokemon - Meowscarada (+VRC / Blend / SFM)
 [[Gumroad]](https://zy0n7.gumroad.com/l/hpflo) : Made in Abyss - Reg (+VRC / Blend / SFM)
@@ -254,6 +257,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Yusuf Umar (ucupumar)** <-
 -> [[ArtStation]](https://www.artstation.com/ucupumar) [[Booth]](https://ucup.booth.pm/) [[Gumroad]](https://ucup.gumroad.com/?sort=newest) [[Patreon]](https://www.patreon.com/ucupumar) [[Pixiv]](https://www.pixiv.net/en/users/3608081) [[Twitter]](https://twitter.com/ucupumar) <-
 
+[[Booth]](https://ucup.booth.pm/items/5538636) [[Gumroad]](https://ucup.gumroad.com/l/zlaos) : FGO - Meltryllis
 [[Booth]](https://ucup.booth.pm/items/5466407) [[Gumroad]](https://ucup.gumroad.com/l/hvjhu) : Blue Archive - Hanako
 [[Booth]](https://ucup.booth.pm/items/5411090) : FGO - Jack The Ripper
 [[Booth]](https://ucup.booth.pm/items/5411072) : FGO - Mysterious Heroine XX

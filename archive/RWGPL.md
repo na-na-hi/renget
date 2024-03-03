@@ -2,18 +2,20 @@
   
 #&#x1F4DC; ->%#f4a460%Patriot Library%%<- &#x1F4DC;
 
-->![wrgpl2](https://files.catbox.moe/k2eciq.jpg)<-
+->![wrgpl2](https://files.catbox.moe/2ves79.jpg)<-
 ***
-!!!warning 
+!!!warning  
     >&#x1F4DC;%#f4a460%Notice%% &#x1F4DC;
     >%#f4a460%This library is to be a repository of information pertaining to the political nature regarding the invasion of illegal immigrants crossing the borders of this republic, archiving information is the sole responsibility of the bakers to maintain this libary for patriots and guests that visit /rwg/, glowniggers, shills and thread splitters will attempt to flood /rwg/ with disinformation and it's up to patriots and bakers to keep this archieve of infromation functional and maintained, do not accept information if it does not have a link%%
 ***
-!!!!~%#f4a460%Library Selection%%~!
-    [TOC2]
+!!!danger !~%#f4a460%Library Selection%%~!       
+    ![pl5](https://files.catbox.moe/k005or.jpg)
+    
+    [TOC2]  
 ***
 !!!warning
     ##Happenings 
-!!!warning
+     ![pl8](https://files.catbox.moe/jupzut.jpg)
     >Several fires erupt in Texas and surround Pantex, Abbot issued a disaster declaration
     >https://twitter.com/BGatesIsaPyscho/status/1762606715835433332
     >https://twitter.com/GovAbbott/status/1762599793031864778
@@ -42,8 +44,8 @@
     >https://twitter.com/KenPaxtonTX/status/1760102761578819738
 ***
 !!!warning 
-    ##Other News 
-!!!warning 
+    ##Other News  
+    ![pl17](https://files.catbox.moe/37qvwh.jpg)
     >Florida to send state guard to Texas
     >https://winknews.com/2024/02/22/state-guard-members-texas-border/
     >Missouri to send state troopers to Texas
@@ -70,3 +72,7 @@
     >Bill S.3589 BANS 2A Militias
     >Biden SANCTIONS TX. Bans LNG Export Permits
     >Thread theme: https://youtu.be/O_3_-UrhZH0
+***
+!!!danger
+    >##%#f4a460%Patriot Meme Stickers%%
+    >![pl4](https://files.catbox.moe/tbq6rv.jpg)

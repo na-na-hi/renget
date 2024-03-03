@@ -41,7 +41,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 
 >Team 1
 >Natsuo Uchiha
->>92034070
+>>92068886
 >D
 >>92035734
 >Himari Miko
@@ -65,7 +65,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Masukuda Rarime
 >>92046207
 >Ichika Chinoike
->>92064482
+>>92067827
 >Kita
 >>92047196 + https://rentry.org/3duzgchi
 
@@ -73,7 +73,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Kiko Inuzuka
 >>92046953
 >Remilia Orochimaru
->>92047466
+>>92067086
 >Itami Nanae
 >>92041809
 >Kazen Uzumaki
@@ -83,19 +83,23 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Ezaki Tuto
 >>92064477
 >Jin Hyuga
->>92063323
+>>92067527
 >Shinrō Kamotai
->>92042487
+>>92072994
 >Yuma Kouda
 >>92056996
 
 >Teamless:
 >Ghidorah
->>92063192
+>>92069165
 >Darkbone Nightblood Shadowscar
 >>92064881
 >Taihō Shiryō.
 >>92065120
+>Ahiratsu Ōtsutsuki
+>>92073651
+>Junki Takenaga
+>>92074519
 
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
@@ -465,15 +469,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writefags:
->A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people)
-https://rentry.org/6zruhinr
->Monsters (Last Rite, Yamata)
-https://rentry.org/ph2rfaai
 
 New Art:
->moe moe kyill yourself
->>92064727
+>Kaylee
+>>92069993
+>Crimes Against Civilization
+>>92075566
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

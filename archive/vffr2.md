@@ -5,9 +5,10 @@
 &nbsp;
 ###The Game
 ####Versions
-Pick whatever region is closest to your own for ping or active lobbies.  Simple option
-is to install off of google play or the app store; if you want to play on computer, 
-NA/EU/SEA have PC ports, there's a STEAM client, or you can download the apk directly.
+Pick whatever region is closest to your own for ping or active lobbies.  Co-op was murdered,
+so outside of the group minigames, ping means nothing.  Simple option is to install off of google 
+play or the app store; if you want to play on computer, NA/EU/SEA have PC ports, there's a STEAM
+client, or you can download the apk directly.
 &nbsp;
 !!!note PC Client
 	Supposedly, the Steam version client sucks balls.  Also, unless you have a beast of a recent
@@ -20,8 +21,8 @@ NA/EU/SEA have PC ports, there's a STEAM client, or you can download the apk dir
 
 &nbsp;
 DL Hub:  https://honkaiimpact3.mihoyo.com/global/en-us/download
-	*EU supposedly has the easiest PvE endgame due to low pop,
-    but gl finding co-op lobbies.  Also, play SEA if you want to     
+	*EU supposedly has the easiest mid-rank PvE endgame due to low pop,
+    ~~but gl finding co-op lobbies.~~  Also, play SEA if you want to     
 	uncle-bad-touch the early valks.  Unfortunately, Uncle Pooh
 	has put his fingers in the ~~cunny~~ hunny jar, and we're now seeing
 	some of the CN censorship trickle out to the other versions.*
@@ -31,10 +32,11 @@ DL Hub:  https://honkaiimpact3.mihoyo.com/global/en-us/download
 Don't.	
 
 If you're a masochist, there are guides on youtube, it involves cycling guest accounts and playing 
-the first chapter til you have 600-800 crystals.  The new beginner banner is split-rate for PE and HoHE, 
-both are meta (but both are DPS units, so you'd be better off abstaining and waiting for proper solo
-rate ups.)  Remember that the beginner banner guarantee **DOES NOT CARRY OVER** - when it 
-finishes, if you didn't get your S-rank, you're fucked.
+the first chapter til you have 600-800 crystals.  The new beginner banner is split-rate for HoRb and HoFi, 
+both are meta (while HoRb is a nigh mandatory support if you don't have HoS, HoFi is a pure DPS, and
+is already getting old - p. sure geared FoV beats her on neutral.  Since Part 2 is out, you're probably better
+off going for Astral Ring compatible valks instead.)  Remember that the beginner banner guarantee 
+**DOES NOT CARRY OVER** - when it finishes, if you didn't get your S-rank, you're fucked.
 
 &nbsp;
 ####Characters
@@ -49,8 +51,12 @@ become good.
 With the way the game is currently going full fotm with the powercreep and S-rank releases,
 if you can roll a new DPS S-rank *on release*, you're *probably* set for 6-8 months (depending
 on Mihoyo's weather choices - early  game, you can just fling shit at the wall, later, you'll need
-proper supports built,) but the era when you could get 2+ years of service out of a DPS
-seems to be long gone.
+proper supports built,) but the era when you could get 2+ years of service out of a DPS is 
+long gone.
+
+With Part 2 and the Astral Ring system, all Part 1 valks will most likely be phased out due to the
+party resonance between pt2 units.  Co-op was also completely removed from the game, so
+imo there's no reason at all to spend resources building powercrept units.
 
 !!!info
 	This section is intended more as a list of the available characters and the abbreviations
@@ -338,12 +344,13 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;Ora ora that used to solo Red Lotus abyss.  Has endgame gloves, but isn't super critical
 &nbsp;&nbsp;&nbsp;&nbsp;to have.  Nice lead skill, though.  Dead and buried thanks to Mobius' release.
 
-*Azure Empyrea* (AE)					/ Dorm
+*Azure Empyrea* (AE)					/ Dorm / Farmable (AL)
 &nbsp;&nbsp;&nbsp;&nbsp;Ink Fu Hua.  Gathers and applies elemental breach, the power-creep version of 
 &nbsp;&nbsp;&nbsp;&nbsp;Phoenix for big dick elemental damage.  No SP pack drops though, so PX still has her 
 &nbsp;&nbsp;&nbsp;&nbsp;uses.  Needs Nebs at minimum for self SP gain.  Semi-mandatory endgame due to enemy
 &nbsp;&nbsp;&nbsp;&nbsp;stat inflation needing more multipliers.  Margrave is available in foundry, but it seems like
 &nbsp;&nbsp;&nbsp;&nbsp;the new trend is using 2x elemental specific (if not valk specific,) supports going forwards.
+&nbsp;&nbsp;&nbsp;&nbsp;Was finally made farmable, but the price is too fucking high.
 
 *Herrscher of Sentience* (HoS/Shiki-chan)		/ Chuu Hua / Dorm
 &nbsp;&nbsp;&nbsp;&nbsp;Neo Night Squire (i.e. OP), on the heels of another Bio Phys - was intended to be a CH
@@ -365,7 +372,7 @@ seems to be long gone.
 &nbsp;&nbsp;&nbsp;&nbsp;needed was to be able to apply her ele breach and she would have been a good support option.
 &nbsp;&nbsp;&nbsp;&nbsp;Comparatively, everyone who got a free Gold Saint Dudu a few patches ago has SS DA, and
 &nbsp;&nbsp;&nbsp;&nbsp;S0 FoV with G4 stigs and cope PRI gloves is noticably worse.  Last valk before part 2, so she
-&nbsp;&nbsp;&nbsp;&nbsp;might turn into a complete turkey with the moon ring system coming next patch.
+&nbsp;&nbsp;&nbsp;&nbsp;might turn into a complete turkey with the Astral Ring system.
 
 &nbsp;
 #####Kallen
@@ -666,7 +673,9 @@ Ignore the P2W ELFs - the buffs are minimal (~5-10%) compared to even a single m
 This is endgame minmax autistic whale shit.  The newer ELFs with the switch cooldown reduction (Klein/Blade
 Durandal/Elf Elysia) are a little more important if you mald in Memorial.
 
-Getting completely replaced in part 2 with the supporter/moon ring system - DO NOT ROLL.
+Getting replaced in part 2 with the Astral Ring / AstralOps system - while the ELFs are functional across p1/2
+units, as time goes on and more Astral-compatible characters are released, they're going to fall off hard.
+If you're a newfag, better to focus on AstralOp over ELF, if at all.
 
 &nbsp;
 #####F2P ELFs
@@ -778,6 +787,10 @@ the absolute best choice for them - at the very least, their motif weapons are n
 can mix and match if you don't have a character's full set, but you lose out on the set-completion synergy
 bonuses.  Essentially, read the stigmata texts in the ingame encyclopedia, and look for similar effects on
 farmable gear.  Cross-link to a quick overview of the gear you can grind for: https://rentry.co/8r6bv
+
+Part 2 changed how banners work, now you only need to get the weapon - all part 2 stigs can be forged.
+They also added a whalebait, making it so you can combine two duplicates of the same weapon for added
+buffs.
 &nbsp;
 &nbsp;
 ####Crystals
@@ -842,10 +855,12 @@ the grace period.
 ####Spending
 
 !!!note Part 2
-	Part 2 is coming soon, so if you're just starting, it might be in your best interest to sit on
-	all your gems 'til Senadina and start fair.  With all the mechanical changes coming down
-	the pipe, pre-part 2 suits will probably be p. bad in comparison to the new moon ring
-	combinations.
+	Part 2 is here, and as time goes on, Astral Ring units will become more and more 
+	important.  If you're a newfag, do yourself a favor and use your early gems to
+	get the Senadina team cheap.  As long as you can get Sena, her weapon, and 
+	Helia's weapon, you can grind whatever stigs you still need from their motif sets.
+	Adding in free Coralie, you get a lighting DPS, lightning support, and fire support
+	fully geared on the cheap.
 
 Save your fucking gems starting out.  It costs 28,000 to guarantee a new S-rank,
 and while the guarantee carries over to the next banner (read the fucking small print
@@ -912,6 +927,8 @@ Try to restrain your dumber whale urges, unless you just want a reason to shit u
 	Conversely, I'm almost certain that the valkyrie gacha is more generous than they let on.  After years
 	of getting early S-ranks, I'm near certain that it's a 10% chance at the 10 pull guarantee to get the
 	S-rank on offer, unlike their other games, where you get dick-all until soft pity.
+
+	The part 2 banner odds are supposed to be fixed, will take a few patches to see.
 &nbsp;
 &nbsp;
 ####Endgame
@@ -935,9 +952,10 @@ Don't get sucked in to the idea that you need just one more piece of equipment t
 game needs a deep roster of gear for the endgame, blowing out for one piece of gear is moronic.  
 
 Remember that this is a gacha game - if you get too locked on one thing, you get right fucked for
-over focusing.  Watch the chat messages for the general state of the rng seed - if you see nothing 
-but offrates, you're probably going to get fucked.
-&nbsp;
+over focusing.  ~~Watch the chat messages for the general state of the rng seed - if you see nothing 
+but offrates, you're probably going to get fucked.~~ Fuckers removed the info stream so prng can
+fuck your ass.
+&nbsp;-
 &nbsp;
 ####Notes
 Links are in the thread header - use them.
@@ -945,7 +963,7 @@ Don't feed the schizos
 You will be thrown into the endgame unprepared, you will lose points, and you will be happy
 Shit changes fast these days, so always get multiple opinions.
 Split rate ups are the devil.
-Stop fucking rezzing with crystals.
+~~Stop fucking rezzing with crystals.~~
 60fps law, damage numbers off.
 Join an armada (play the Sim Battle, you lazy faggots.) 
 Do your fucking cadet missions.

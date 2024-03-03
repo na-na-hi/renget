@@ -49,6 +49,7 @@ Demon slayer
 Hard mode: -someone uses a breath
 
 Lycoris Recoil:
+-something gay happens
 -chisato dodges a bullet
 -takina shoots first
 -takina makes a pro gamer noscope

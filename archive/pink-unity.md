@@ -20,7 +20,7 @@ L| i |V|E|?
 [klouvette](https://twitch.tv/klouvette)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_klouvette-1242x699.jpg)|[cecihimevt](https://twitch.tv/cecihimevt)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_cecihimevt-1242x699.jpg)|[twee](https://twitch.tv/twee)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_twee-1242x699.jpg)|[yamakumauna](https://twitch.tv/yamakumauna)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_yamakumauna-1242x699.jpg)|[sushidog](https://twitch.tv/sushidog)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_sushidog-1242x699.jpg)
 [minkyewool](https://twitch.tv/minkyewool)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_minkyewool-1242x699.jpg)|[maoyugen](https://twitch.tv/maoyugen)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_maoyugen-1242x699.jpg)|[koopa_ch](https://twitch.tv/koopa_ch)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_koopa_ch-1242x699.jpg)|[baoo](https://twitch.tv/baoo)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_baoo-1242x699.jpg)|[shylily](https://twitch.tv/shylily)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_shylily-1242x699.jpg)
 [filian](https://twitch.tv/filian)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_filian-1242x699.jpg)|[LYRA](https://twitch.tv/LYRA)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_LYRA-1242x699.jpg)|[snuffy](https://twitch.tv/snuffy)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_snuffy-1242x699.jpg)|[amedoll](https://twitch.tv/amedoll)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_amedoll-1242x699.jpg)|[kisakatoriama](https://twitch.tv/kisakatoriama)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_kisakatoriama-1242x699.jpg)
-[amakipururu](https://twitch.tv/amakipururu)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_amakipururu-1242x699.jpg)|[suko](https://twitch.tv/suko)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_suko-1242x699.jpg)|[koinuko](https://twitch.tv/koinuko)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_koinuko-1242x699.jpg)|
+[amakipururu](https://twitch.tv/amakipururu)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_amakipururu-1242x699.jpg)|[suko](https://twitch.tv/suko)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_suko-1242x699.jpg)|[koinuko](https://twitch.tv/koinuko)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_koinuko-1242x699.jpg)|[andygraviti](https://twitch.tv/andygraviti)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_andygraviti-1242x699.jpg)|[leolaylavtuber](https://twitch.tv/leolaylavtuber)![](https://static-cdn.jtvnw.net/previews-ttv/live_user_leolaylavtuber-1242x699.jpg)|
 
 
 ##Pink Chuubas
@@ -220,6 +220,7 @@ Some examples include but are not limited to:
 *YFUBABY* (EN): https://www.twitch.tv/yfubaby
 *Angelic Hunnii* (EN): https://www.youtube.com/@angelichunnii
 *Sagiki Ihori* (EN): https://www.youtube.com/c/SagikiIhori
+*Rura Taurus* (EN): https://www.youtube.com/@rura_taurus
 
 ###Salmon Pink:
 *Sakura Miko* (JP): https://www.youtube.com/@SakuraMiko
@@ -291,6 +292,8 @@ Defined below.
 *Otokagi Mero* (JP): https://www.youtube.com/@otokagimero
 *Plum Pickled* (EN): https://www.youtube.com/@plumpickledch
 *Koinuko* (EN): https://www.twitch.tv/koinuko
+*Andy Graviti* (EN) : https://www.twitch.tv/andygraviti
+*Leo Layla* (EN): https://www.twitch.tv/leolaylavtuber
 
 ##Pink Definition
 /pink/ may embrace chuubas whose hair color respects the following technical definition:

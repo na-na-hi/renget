@@ -30,7 +30,7 @@ Official website:
 https://www.hazbinhotel.com/
 
 Previous threads:
-https://desuarchive.org/trash/search/text/Steve/type/posts/
+https://desuarchive.org/trash/search/text/hhg/type/op/results/thread
 
 /hhg/ discord:
 https://discord.gg/DRRDGmus9N

@@ -2,5 +2,5 @@
 ->![shizu love](https://media.discordapp.net/attachments/1084308198577668107/1211126993744298075/Untitled20_20240224203932.png?ex=65ed10e8&is=65da9be8&hm=21439019d3dc1f576f7e382ca911095dcd35e6b031c09545d34ced02dfba2135&)<-
 ->![divide](https://autism.crd.co/assets/images/gallery01/384cc855_original.gif?v=69d6a439)<-
 ->｡ᴖ ᴖ) ⠀%#7B679A% nina! / via %%⠀⠀➷ ⠀⁺⠀![1](https://i.ibb.co/r3hTVGL/5-D9-C1232-DDE2-4-C84-BE16-35-CAAAD1-B4-B8.gif) she **they**<-
--> 6TEEN⠀**lesbian, enby ** ![nbl](https://64.media.tumblr.com/b6687d04704333ba86872d143aea9982/tumblr_pm6uacoFVM1xm738to1_75sq.gifv)⠀![2](https://i.ibb.co/k5JBH0h/IMG-4240.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃  fem (%#7B679A% cis %%)<-
+-> 6TEEN⠀**lesbian⠀ demigirl ⠀** ![dmg](https://64.media.tumblr.com/eb68f43f15d9bed53717e2e21b011f0e/tumblr_inline_pje44kkPFg1w6xp13_75sq.gifv)⠀![2](https://i.ibb.co/k5JBH0h/IMG-4240.gif) ﹒ ⠀[i](https://rentry.co/kuiperbelti)⠀[ii](https://rentry.co/kuiperbeltii)⠀ ⊃ <-
 -> ʚ⠀ scorpio⠀infj⠀ ꜜ⠀![3](https://i.ibb.co/jvtJF2R/1-BEBB904-61-D0-4-F14-9185-3294-B93-DA29-B.gif)⠀anxiety⠀⠀(ᴗ ᴗ <-

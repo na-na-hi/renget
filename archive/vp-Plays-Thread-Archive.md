@@ -74,7 +74,7 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[62]** *Yet another anon solves the ""puzzle"" for Musk*](https://arch.b4k.co/vp/thread/50915516/)
 [**[63]** *Probably the only halfway interesting part of the School of Sleep*](https://arch.b4k.co/vp/thread/50924938/)
 [**[64]** *Wow, another """final boss""". What's that, 3, 4 now?*](https://arch.b4k.co/vp/thread/50926501/)
-[**[65]** *it's over*](https://arch.b4k.co/vp/thread/50933615/)
+[**[65]** *Behold, the only game Musk actually finished*](https://arch.b4k.co/vp/thread/50933615/)
 [**[66]** *Post Ending discussion thread*](https://arch.b4k.co/vp/thread/50942285/)
 [**[67]** *Sidequestshit: Reborn shilling edition*](https://arch.b4k.co/vp/thread/51054128/)
 [**[68]** *It's over, for real this time*](https://arch.b4k.co/vp/thread/51056753/)

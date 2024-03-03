@@ -153,9 +153,9 @@
 - Users may find a large range of new films and weseries on the website, most of them are in high definition quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/himovies.sx/)
 
-### ▶️ [Hurawatch](https://hurawatch.cc/)
+### ▶️ [Hurawatch](https://hurawatchz.to/)
 - One of the most popular and easily navigable websites, it provides free HD streaming of films and TV shows.
-- [URL Safety Results](https://www.urlvoid.com/scan/hurawatch.cc/)
+- [URL Safety Results](https://www.urlvoid.com/scan/hurawatchz.to/)
 
 ### ▶️ [KimCartoon](https://kimcartoon.li/)
 - This service, which streams both classic and contemporary cartoons, is a real treat for everyone who enjoys cartoons.
