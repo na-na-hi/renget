@@ -13,9 +13,12 @@
 ##->==March 2024 Israel / Hamas War==<-
 
 ##Video Archive    
-
-### Hamas
-!!!note 
+    
+!!!note
+    ### Hamas
+    >MUST WATCH: Al-Qassam (Hamas) published a video showing scenes of its forces confront IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City, east of Gaza City.
+    >https://files.catbox.moe/t11xz6.mp4  New  3/2/24  
+ !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
     > https://files.catbox.moe/aufqqi.mp4  New  3/1/24
@@ -23,6 +26,9 @@
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
     >https://files.catbox.moe/37e8yj.mp4  New  3/1/24
+    
+    >WATCH: Al-Quds Brigades published a video showing the targeting of israeli soldiers in “Qalbat 22” east of the Eastern Cemetery in Jabalia with a guided 107mm missile.
+    >https://files.catbox.moe/ucxiur.mp4  New  3/2/24
 ### AnsarAllah 
 !!!note
 ### Islamic Resistance Iraq
@@ -49,4 +55,10 @@
     ***
     >Mujahideen Brigades: In a joint operation with the Al-Quds Brigades, we bombed with mortar shells the concentration of occupation forces in the southeast of #Gaza City.
     >https://files.catbox.moe/gipt00.mp4  New  3/1/24
+    *** 
+    >Israeli settlers, with the backing of occupation forces, trespass on Palestinian lands, vandalizing Qaryut spring in south of Nablus today.
+    >https://files.catbox.moe/cfc925.mp4   New  3/2/24
+    ***
+    >Planes have dropped aid parcels over Rafah just moments ago, amidst urgent calls to open the Rafah crossing and permit hundreds of trucks to enter, addressing the essential needs of Gaza residents for food and medical supplies.  
+    >https://files.catbox.moe/sv1vbm.mp4  New  3/2/24
     ***

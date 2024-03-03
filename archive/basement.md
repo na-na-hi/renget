@@ -5,7 +5,7 @@
 -> [![Art by NY⁰⁸¹⁸](https://files.catbox.moe/r14mb8.png)](https://twitter.com/NinepeachYu0818/status/1745680244638716221/) <-
 
 
--> %hotpink% **288 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 021 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
+-> %hotpink% **289 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 021 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
 
 -> I am willing to Trade / Give Away! ![](https://massacre.crd.co/assets/images/gallery12/2c9f4c04.gif?v=d2152c17)
 ![](https://massacre.crd.co/assets/images/gallery12/e06aa989.gif?v=d2152c17) Nothing is for sale, that is scummy. <-
@@ -48,7 +48,7 @@ Plain = Available for Trade or Give Away
 ***
 -> ![](https://files.catbox.moe/8cvlc9.png) <-
 
-*Hazbin Hotel / Helluva Boss* [**valentino**](https://rentry.co/valentino) [cannibaltown](https://rentry.co/cannibaltown) [**alastorhartfelt**](https://rentry.co/alastorhartfelt) [**voxval**](https://rentry.co/voxval) [staticmoth](https://rentry.co/staticmoth) [**vees**](https://rentry.co/vees) [fizzarolli](https://rentry.co/fizzarolli) [-adam](https://rentry.co/-adam) [guitarspear](https://rentry.co/guitarspear) [theradiodemon](https://rentry.co/theradiodemon)
+*Hazbin Hotel / Helluva Boss* [**valentino**](https://rentry.co/valentino) [cannibaltown](https://rentry.co/cannibaltown) [**alastorhartfelt**](https://rentry.co/alastorhartfelt) [**voxval**](https://rentry.co/voxval) [staticmoth](https://rentry.co/staticmoth) [**vees**](https://rentry.co/vees) [fizzarolli](https://rentry.co/fizzarolli) [-adam](https://rentry.co/-adam) [guitarspear](https://rentry.co/guitarspear) [theradiodemon](https://rentry.co/theradiodemon) [alastoraltruist](https://rentry.co/AlastorAltruist)
 
 *Breaking Bad / Better Call Saul*  [-heisenberg](https://rentry.co/-heisenberg) [-lalo](https://rentry.co/-lalo) [heisenbones](https://rentry.co/heisenbones)
 

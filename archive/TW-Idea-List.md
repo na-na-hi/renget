@@ -67,6 +67,20 @@ A mechanic where you could cheat at a game, where your success would be dependen
 - Skill + Trait Integration
 
 A mechanic for participant success in games to be affected by traits and skills alongside fortune.
+## Reverse Rape Scenario Ideas
+https://gitgud.io/Legis1998/anon-tw/-/issues/132
+- Drunk Yachie wants you to “cheer her up“, and uses her powers to not give you a choice in the matter.
+- The rabbits at Eientei are frustrated, and come up with a plan to have Reisen hypnotize you so they (and she) can gangbang you. Maybe some of the other inhabitants of Eientei get in on the action.
+- Marisa tests a new drug on you, then gives in to temptation and starts raping you while she thinks you're asleep.
+- Yukari stalks and sexually harrasses you until you give in or fight her off. Freaky gap sex ensues.
+- Kasen rapes you when you talk to her with an erection, playing it off as teaching you a lesson.
+- After donating to the shrine, Sanae tempts you inside and takes advantage of you. Only for shota.
+- When sexually frustrated, Yuugi carries you back to her home to have her way with you.
+- Clownpiece makes you insane, then pulls a “prank“ on you.
+- Parsee, driven to the verge of madness by seeing you with so many other girls, drugs you, chains you up in her house, and forces you to take her virginity before she'll let you go.
+- Mating season has left Wriggle so frustrated that she pushes down the first guy she sees before she can stop herself. (Un)fortunately, that guy is you.
+- Momoyo thinks you're a mine looter, and challenges you to a Danmaku duel. If you win, she'll let you go. If you lose, she eats you. And when you lose, it turns out by "eating you" she meant "69ing until you're on the verge of passing out".
+- While studying magic with YuugenMagan, you open a book you really shouldn't have, and are struck temporarily blind. She takes that opportunity to harvest your seed.
 ## Research System
 A feature to allow the player to research recipes.
 - Mixing would be a method to achieve quick results, whereas research would take more time but produce more consistent results; i.e. expediency at the expense of time vs. consistency at the expense of time.

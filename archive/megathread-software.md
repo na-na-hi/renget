@@ -281,6 +281,10 @@
 
 # 📑 ➜ Torrents
 
+### 🧲 [AUDIOTOOLS](https://audiotools.in/) • Spanish UI
+- Audio software production tools including DAWs, VST plugins, sample libraries, and multitrack capabilities.
+- [URL Safety Results](https://www.urlvoid.com/scan/audiotools.in/)
+
 ### 🧲 [Mac Torrents](https://www.torrentmac.net/) • MacOS
 - Torrents for a variety of useful utilities, applications, games, and plugins for graphic design, video editing, and motion graphics.
 - [URL Safety Results](https://www.urlvoid.com/scan/torrentmac.net/)
@@ -288,6 +292,10 @@
 ### 🐐 [m0nkrus](https://w14.monkrus.ws/) • Russian UI
 - Repacker for different applications that comes highly rated, reliable, and is most known for its Adobe-related goods.
 - [URL Safety Results](https://www.urlvoid.com/scan/w14.monkrus.ws/)
+
+### 🧲 [Plugintorrent](https://plugintorrent.com/)
+- Providing free VST plugins, audio samples, libraries, presets, DAWs, and audio software since 2015.
+- [URL Safety Results](https://www.urlvoid.com/scan/plugintorrent.com/)
 
 ### 🧲 [Team OS](https://www.teamos.xyz) • Sign Up
 - Private tracker for several release groups. This awesome site offers both torrent and direct downloads for almost all software imaginable.

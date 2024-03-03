@@ -1,9 +1,11 @@
 # Hitogami Cards
 
-Some general thoughts on each bot below. Contact me here, I rarely check and I (probably) don't do requests: tookenboogeyman@protonmail.com
+I'm just busy, please stop being melodramatic and naming me. It hasn't even been that long since I posted something for Christ's sake. If you have a burning need to speak to me then send me an email and don't muddy up threads.
+
+Some general thoughts on each bot below. Contact me here, (quick) reply not guaranteed: tookenboogeyman@protonmail.com
 
 **Mikage** ~1.8k tokens (1.2k permanent.) An old fox with a practiced smile.
-Thanks to victrex for giving her a once over, and eventually antigonus when he replies to my goddamn email. I had all sorts of plans to add themed music tracks and possibly a UI of some kind, but the more I thought about it, the more I didn't want to gamify digging in to the saviorfag aspect too much. That's my presentable reason, it's a 40-60 split between that and the fact that I'm a complete techlet. Avoid reading the defs and the lorebook unless you want to ~~cheat~~ be armed with knowledge prior, though the AI is instructed to not play nice about sharing things with you. I'd particularly like feedback on this one, my testing didn't crop up anything egregiously outside my intentions, but these models have a tendency to spill their guts on this stuff with a little prodding, so I might need to revisit her and build a custom jailbreak. And also to add the features I was thinking about, but we'll call that a maybe.
+Thanks to victrex for giving her a once over. I had all sorts of plans to add themed music tracks and possibly a UI of some kind, but the more I thought about it, the more I didn't want to gamify digging in to the saviorfag aspect too much. That's my presentable reason, it's a 40-60 split between that and the fact that I'm a complete techlet. Avoid reading the defs and the lorebook unless you want to ~~cheat~~ be armed with knowledge prior, though the AI is instructed to not play nice about sharing things with you. I'd particularly like feedback on this one, my testing didn't crop up anything egregiously outside my intentions, but these models have a tendency to spill their guts on this stuff with a little prodding, so I might need to revisit her and build a custom jailbreak. And also to add the features I was thinking about, but we'll call that a maybe.
 ![](https://files.catbox.moe/mz8ej2.png)
 [*image source*](https://beta.sankakucomplex.com/post/show/6199682) [chub](https://chub.ai/characters/hitogami/mikage-5212ea8a) 
 

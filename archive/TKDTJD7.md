@@ -12,7 +12,7 @@
 ##News and Information 
 ***
 ##&#127807;%#adff2f%Week 3/1/24 -3/7/24%%&#127807;
-!!!note
+!!!warning
     >⚡️WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City. https://twitter.com/AryJeay/status/1763532626722202041  3/1/24  
     >https://files.catbox.moe/37e8yj.mp4  3/1/24  
     *** 
@@ -92,3 +92,159 @@
     >Dropping aid by air has a limited effect, as the plane does not drop more than one or two truckloads
     >https://t.me/me_observer_channel/159362  3/1/24
     ***
+!!!danger 
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 1 (2024), against (US)-israeli forces:
+    
+    >— 🇵🇸 Al-Quds Brigades:
+    >🔻Shelled israeli soldiers' concentrations around the Erez Crossing north of Gaza with a barrage of mortar shells. 
+    >🔻Intensively shelled Askalan and the settlements of the Gaza Envelope with rocket barrages.
+    
+    >— 🇵🇸 Mujahideen Brigades:
+    >🔻Destroyed a Merkava-4 tank by targeting it with a "Saeer" guided missile, east of Jabalia in northern Gaza.
+    >🔻Downed an israeli drone, southeast of Gaza after targeting it with a SAM 7.
+
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >🔻Shelled, in a joint-operation with the Nasser Salah Al-Din Brigades, israeli soldiers and vehicles, around the Abu Matibeq site, with 82mm mortar shells.
+    >🔻Targeted the deployment of invading IOF soldiers and their vehicles inside Khan Yunis, with a concentrated rocket barrage.
+
+    >— 🟡 Hezbollah:
+    >🔻Downed an IOF army drone in the Wadi Al-Azziya.
+    >🔻Targeted a gathering of Israeli soldiers around the Ramim Barracks with rockets.
+    >🔻Targeted the Al-Baghdadi site with rockets.
+    >🔻Targeted an IOF force in the vicinity of the Manara IOF site with rockets.
+    >🔻Targeted a group of occupation soldiers, after observing them to be preparing to deploy in the Ma'ayan Baruch" settlement, with a kamikaze drone.
+    >🔻Targeted the Ruwaysat Al-Alam site in the rockets.
+    >🔻Targeted IOF positions at the "Khirbet Ma'ar" base with 2 Falaq rockets, achieving a direct hit.
+    >https://t.me/FotrosResistance/5696  3/2/24
+***
+!!!warning 
+    >WATCH: Al-Quds Brigades published a video showing the targeting of israeli soldiers in “Qalbat 22” east of the Eastern Cemetery in Jabalia with a guided 107mm missile.
+    >https://twitter.com/AryJeay/status/1763866983525708102  3/2/24  
+    >https://files.catbox.moe/ucxiur.mp4  3/2/24  
+
+    >The British Maritime Trade Agency announced that it had received a report of an attack. The crew members of the reporting ship were evacuated.
+    >The UK-US attacks do not really deter Yemen now, do they?
+    >https://t.me/FotrosResistance/5700  3/2/24  
+
+    >the british report  
+    >https://t.me/FotrosResistance/5701  3/2/24  
+
+    >Al-Qassam Brigades (Hamas) in the last 15 mins:
+    >🔻Confirmed blowing up 2 Merkava tanks with explosive devices, southeast Al-Zaytoun.
+    >🔻Seized a Skylark reconnaissance drone during its intelligence mission, south of Al-Zaytoun.
+    >https://t.me/FotrosResistance/5705  3/2/24  
+
+    >Planes have dropped aid parcels over Rafah just moments ago, amidst urgent calls to open the Rafah crossing and permit hundreds of trucks to enter, addressing the essential needs of Gaza residents for food and medical supplies.
+    >https://t.me/QudsNen/97650  3/2/24  
+    >https://files.catbox.moe/sv1vbm.mp4  3/2/24  
+
+    >Israeli settlers, with the backing of occupation forces, trespass on Palestinian lands, vandalizing Qaryut spring in south of Nablus today.
+    >https://twitter.com/QudsNen/status/1763948732310073721  3/2/24  
+    >https://files.catbox.moe/cfc925.mp4  3/2/24  
+
+    >Protesters march through the streets of Paris, demonstrating solidarity with Gaza and demanding justice for Palestinians.
+    >https://t.me/QudsNen/97662  3/2/24  
+
+    >Yemen: Ministry of Transport in the Sana’a government: America and Britain are using hostile and illegal methods in their war on #Yemen in the service of the Zionist enemy.
+    >https://t.me/me_observer_channel/159779  3/2/24  
+
+    >Urgent| Al-Qassam Brigades: We blew up a house that had been booby-trapped with two anti-personnel devices in a foot force of 7 soldiers in the occupation army, leaving them dead and wounded in the Al-Satar area, north of Khan Yunis, south of the #Gaza Strip.
+    >https://t.me/me_observer_channel/159782  3/2/24  
+
+    >Military expert Fayez Al-Duwairi: The Al-Qassam Brigades destroyed more #Israeli vehicles than the Arab Air Force destroyed in 70 years.
+    >https://t.me/me_observer_channel/159783  3/2/24  
+
+    >Occupied Palestine: Al-Qassam Brigades: A house that was previously booby-trapped with two anti-personnel devices was blown up by a foot force of 7 soldiers of the occupation “army” north of Khan Yunis.
+    >https://t.me/me_observer_channel/159784  3/2/24  
+
+    >BREAKING:
+    >⚡ 🇾🇪 According to reports, a ship in the Red Sea was attacked and its crew evacuated.
+    >(Photo ilustrative)
+    >https://t.me/megatron_ron/2096  3/2/24  
+
+    >BREAKING:
+    > After the US armed Israel with the most advanced bombs, with which it still massacres.
+    >After they were the only ones in the UN to put a veto on the resolution to stop that massacre.  
+    >After they stopped the funding of UNRWA.  
+    >Now they are playing Mother Teresa and threw 3 sacks of rotten potato aid to the population which is currently blocked and starved by Israel.
+    >What a magical story, they should make a new movie in Hollywood about this, how they "save" Gazans.
+    >https://t.me/megatron_ron/2097  3/2/24  
+
+    >NEW:
+    >⚡ 🇬🇧 British-registered cargo ship sinks after being hit by Houthi missiles in the Red Sea.
+    >https://t.me/s/megatron_ron  3/2/24  
+
+    >MUST WATCH: Al-Qassam (Hamas) published a video showing scenes of its forces confront IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+    >https://t.me/FotrosResistance/5706  3/2/24  
+
+    >MUST WATCH: Al-Qassam (Hamas) published a video showing scenes of its forces confront IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
+    >https://twitter.com/AryJeay/status/1763968256065392895  3/2/24  
+    >https://files.catbox.moe/t11xz6.mp4  3/2/24  
+
+    >Rockets from Gaza towards Be’eri & Beershaba’s vicinity
+    >https://t.me/FotrosResistance/5708  3/2/24  
+
+    >JUST IN: The IOF admits to the deaths of 3 officers in the southern Gaza Strip on Friday:
+    >🔻Sgt. Dolev Malka, 19, of the Bislamach Brigade’s 450th Battalion.
+    >🔻Sgt. Afik Tery, 19, of the Bislamach Brigade’s 450th Battalion.
+    >🔻Sgt. Inon Yitzhak, 19, Bislamach Brigade’s 450th Battalion.
+    
+    >14 other troops were wounded in the same operation, 6 of them seriously wounded, due to a blast in a booby-trapped building in Khan Younis.
+    >The 3 dead officers, formerly of the Kfir Brigade's Nahshon Battalion, were in a squad commanders course.
+    >https://t.me/FotrosResistance/5709  3/2/24  
+
+    >Al-Quds Brigades: We bombed Hatzerim and the settlements surrounding the #Gaza Strip with a missile barrage.
+    >Al-Aqsa Flood
+    >https://t.me/me_observer_channel/159862  3/2/24  
+
+    >Urgent appeal
+    >The patient, Acid, from the city of Qalqilya, is in urgent need of a blood donation at Al-Najah Hospital in #Nablus. What type of blood is it for extreme necessity? Please circulate:
+
+    >+972 59-986-8382
+    >https://t.me/me_observer_channel/159865  3/2/24  
+
+    >Urgent| Violent clashes between armed men and #Palestinian security services after they deployed in the Al-Hadaf neighborhood in the vicinity of #Jenin camp.
+    >https://t.me/me_observer_channel/159893  3/2/24  
+
+    >Urgent | #Israeli opposition leader Yair Lapid; Commenting on the incident of killing and wounding #Israeli army soldiers in Khan Yunis: “A major disaster occurred yesterday in the #Gaza Strip.” According to his expression.
+    >https://t.me/me_observer_channel/159896  3/2/24  
+
+    >Urgent || Sounds of gunfire and explosions again around #Jenin camp at these moments.
+    >https://t.me/me_observer_channel/159899  3/2/24  
+
+    >BREAKING| Israel's military bombards a house owned by Abu Anza family in eastern Rafah, killing at least 14 civilians and wounding others most of whom are children.
+    >https://t.me/QudsNen/97692  3/2/24
+***
+!!!danger
+    > | 🌍 BIG SUMMARY of all resistance operations today, March 2 (2024), against (US)-israeli forces:
+
+    >— 🇵🇸 Al-Qassam Brigades:
+    >🔻Seized a Skylark reconnaissance drone, during its intelligence missione, south of Al-Zaytoun neighborhood in Gaza.
+    >🔻Blew up 2 Merkava tanks, southeast of Al-Zaytoun with "Shoath" explosives.
+    >🔻Detonated an anti-personnel "Ra'diya" explosive device targeting an IOF infantry force, southeast of Al-Zaytoun.
+    >🔻Targeted 2 Merkava tanks with Yassin 105 rockets, southeast of Al-Zaytoun.
+    >🔻Detonated a pre-rigged building with 2 anti-personnel devices, upon the entry of an IOF infantry force, resulting in 7 soldiers falling either dead and/or injured, in the Satar area north of Khan Yunis, southern Gaza Strip.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >🔻In a joint-operation with the Mujahideen Brigades, they targeted an IOF Hermes-900 drone with a SAM-7, in the sky of Beit Lahia, northern Gaza Strip.
+    >🔻Shelled a gathering of israeli soldiers and vehicles in the "Netzarim" axis south of Gaza with mortar shells.
+    >🔻Shelled settlements in the Gaza envelope with a rocket barrage.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >🔻 Targeted an IOF army vehicle with a "Saeer" missile, east of Jabalia, northern Gaza Strip.
+    >🔻Shelled a gathering of military vehicles and soldiers in the southern Al-Zaytoun axis in Gaza with a barrage of mortar shells.
+
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >🔻Targeted a Merkava tank and a military bulldozer with Tandem and RPG rockets, in the Al-Zaytoun battle axis.
+    >🔻Engaged in fierce clashes with IOF forces using appropriate weapons on the axis of Khan Younis, south of the Gaza Strip.
+    >🔻Engaged in fierce clashes with IOF forces using appropriate weapons on the axis of south Al-Zaytoun neighborhood in Gaza City.
+
+    >— 🟡 Hezbollah:
+    >🔻Launched a kamikaze drone attack targeting the newly-established command center in Liman.
+    >🔻Targeted a gathering of Israeli soldiers in the vicinity of Jal Al-Alam site with rockets.
+    >🔻Targeted the Zaoura military position with rockets.
+    >🔻Targeted the Raheb site with rockets.
+    >🔻Targeted the Zebdine barracks in the occupied Shebaa Farms with rockets.
+    >🔻Targeted the Hadab Yarin site with 2 Burkan IRAM rockets.
+    >https://t.me/FotrosResistance/5715  3/2/24  
+***

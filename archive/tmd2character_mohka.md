@@ -9,9 +9,9 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Aspiring pinball machine / Demolitions expert in training
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
-**Level:** 12 | **Experience to Next Level:** 27/120
+**Level:** 12 | **Experience to Next Level:** 37/120
 **Worn Item:** *Sweat Band* | **Clothing:** *N/A*
-**Pokécoin:** 2398₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 3078₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -69,7 +69,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Stat: SPECIAL DEFENSE **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
+Stat: SPECIAL DEFENSE **ɪɪ** | Tier **ɪɪ** | 4/9 | ▮▮▮▮▯▯▯▯▯
 Stat: DEFENSE **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
@@ -78,11 +78,11 @@ Stat: DEFENSE **ɪ** | Tier **ɪ** | 9/9 | ▮▮▮▮▮▮▮▮▮
 Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Sweat Band* | User is immune to *Burn.*
-*Equipped Item: Oran Berry* | Heals the user for 10HP.
-1. Big Apple | Gives +4 to any outside-combat-action.
-2. Blast Seed | Explodes on contact for 10 true damage.
-3. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
-4. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+*Equipped Item:* Eᴍᴘᴛʏ | Vacant inventory slot.
+1. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+2. Dye Bomb x2 | Explodes in a splash of bright ink. ≥4; The Opponent's Accuracy is decreased by 1. Stacks up to 4. Can be thrown. Has a Berry's AP cost.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
@@ -90,7 +90,7 @@ Item Name | Description
 Item Name | Description
 ------ | :----: 
 1. Chunk of Meteorite | A chunk of the meteorite that fell in The Shoot Stretches. Value: 125p.
-2. Sitrus Leaf | Heals the user for 5HP. Can stack to 3.
+2. Starf Berry | A mysterious, rare berry with conflicting flavors across the spectrum, described as otherworldly. (2 Sweet, 2 Sour, 2 Spicy)
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

@@ -461,6 +461,12 @@ https://files.catbox.moe/o1dk53.safetensors possummachine
 [![1girl no scores](https://files.catbox.moe/22udnf.png)](https://files.catbox.moe/aetnex.png)[![1girl scores](https://files.catbox.moe/vn1r10.png)](https://files.catbox.moe/xf0tle.png)[![chun-li no scores](https://files.catbox.moe/v1is22.png)](https://files.catbox.moe/7dk1uw.png)[![2b score_9 only](https://files.catbox.moe/g46d93.png)](https://files.catbox.moe/sp4ro6.png)[![korra scores](https://files.catbox.moe/8ozbj3.png)](https://files.catbox.moe/l7xxp9.png)
 https://files.catbox.moe/qszfwe.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/57camv.png
 
+[![1girl no scores](https://files.catbox.moe/7aqww2.png)](https://files.catbox.moe/icf9dx.png)[![1girl scores](https://files.catbox.moe/fv1jvu.png)](https://files.catbox.moe/dd70am.png)[![chun-li no scores](https://files.catbox.moe/719c0t.png)](https://files.catbox.moe/abkuj6.png)[![2b score_9 only](https://files.catbox.moe/nw8c7z.png)](https://files.catbox.moe/46n01p.png)[![korra scores](https://files.catbox.moe/dnx2c1.png)](https://files.catbox.moe/jabom8.png)
+https://files.catbox.moe/ympckt.safetensors 2bge
+
+[![1girl no scores](https://files.catbox.moe/4n8ztv.png)](https://files.catbox.moe/agqeuz.png)[![1girl scores](https://files.catbox.moe/gb257w.png)](https://files.catbox.moe/5hcquf.png)[![chun-li no scores](https://files.catbox.moe/tlzz4q.png)](https://files.catbox.moe/2j1dpr.png)[![2b score_9 only](https://files.catbox.moe/8h50dk.png)](https://files.catbox.moe/aqcicf.png)[![korra scores](https://files.catbox.moe/88okls.png)](https://files.catbox.moe/398unj.png)
+https://files.catbox.moe/dw1291.safetensors vanillaware
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

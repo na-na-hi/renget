@@ -1,3 +1,15 @@
--> [![](https://i.ibb.co/51JXnn4/6-B965200-AE96-4427-BEAB-A26-C89-F8-ACEC.gif)](https://rentry.co/toycollection) <-
--> **Work In Process!** <-
--> **Click the Duck Pool to see the rest of the museum!** <-
+-> %#BD221F%**"KACHOW!"**%% <-
+-> ![](https://i.ibb.co/sgJZ82W/3-EA50-A33-73-EC-4857-8-CC1-BBE1-AD8-AB35-B.gif) <-
+-> *Life's like a road that you travel on* <-
+-> *When there's one day here, and the next day gone* <-
+-> *Sometimes you bend, sometimes you stand* <-
+-> *Sometimes you turn your back to the wind* <-
+-> ![](https://i.ibb.co/dj2fqYZ/IMG-3921.png) <-
+-> ![](https://i.ibb.co/crLpywj/2-DA4-EFD3-E6-C9-40-C8-96-B8-795-E1-BC9358-B.png) <-
+-> %#BD221F%**2004 AUTISTIC GAY DUDE**%% <-
+-> [%#BD221F%**!~CLICK HERE FOR MY COLLECTION~!**%%](https://rentry.co/ToyCollection) <-
+-> ![](https://i.ibb.co/6tqPKQP/F12-DDBD7-0-C6-F-4-E9-A-B8-A1-AF01-E5-E2-AF0-E.png) <-
+-> *There's a world outside every darkened door* <-
+-> *Where blues won't haunt you anymore* <-
+-> *Where the brave are free and lovers soar* <-
+-> *Come ride with me to the distant shore* <-

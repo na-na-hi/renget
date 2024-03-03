@@ -1,3 +1,12 @@
--> [![](https://i.ibb.co/51JXnn4/6-B965200-AE96-4427-BEAB-A26-C89-F8-ACEC.gif)](https://rentry.co/toycollection) <-
--> **Work In Process!** <-
--> **Click the Duck Pool to see the rest of the museum!** <-
+-> ![](https://i.ibb.co/8g5fs2z/IMG-3927.gif) <-
+-> *I may not have nine lives, but this one feels brand new* <-
+-> *Yes I've lived a good one* <-
+-> *I have tried to be true* <-
+-> ![](https://i.ibb.co/j49FYsX/Untitled1094-20240302173015.png) <-
+-> ![](https://i.ibb.co/fFCBXt1/Untitled1095-20240302173727.png) <-
+-> %#FEBA39%**SUPER HERO CANINE**%% <-
+-> [%#FEBA39%**!~CLICK HERE TO CHECK OUT MY HIDEOUT~!**%%](https://rentry.co/ToyCollection) <-
+-> *There are some things I never realized, till I met you*<-
+-> *How the wind feels on my cheeks, when I'm barking at the moon* <-
+-> *There is no home like the one you've got, 'cause that home belongs to you* <-
+-> ![](https://i.ibb.co/YZfBCht/IMG-3928.gif) <-

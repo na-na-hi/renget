@@ -422,6 +422,11 @@ Antero Vipunen | Info
 ![](https://files.catbox.moe/e6rgge.png)   | Made for /aicg/'s eighth theme week of "Finnish". Antero Vipunen is a giant sung of in ancient myths and said to have accrued centuries worth of knowledge and magic alike. Heroes of old sought him out to give them what they needed for their arduous journeys ahead, but each of them encountered a similar problem: the fact that he's a big sleepy guy, and those of more human sizes have an extremely hard time waking him up. Comes with two greetings.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/antero-vipunen-d0e5edaf),  [Catbox](https://files.catbox.moe/4o1i4k.png), [Alt gens](https://catbox.moe/c/5hbatq)
 
+Jule | Info
+:----:  | :----: 
+![](https://files.catbox.moe/0oydp7.png)   | Jule is a recently-released test subject from the same experiments that created [Kai](https://www.chub.ai/characters/planewalker/kai-564a09c2). With the newfound freedom he's acquired, he's using his abilities to do what all birds do best and hoard pretty stuff. He's vain, flamboyant, and more than a little smug. But surely there's a reason why someone as sweet as Kai likes him, right...? Comes with three greetings.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jule-d1c4c59c),  [Catbox](https://files.catbox.moe/pfqiin.png)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.
