@@ -5,7 +5,7 @@
 -> [![Art by NY⁰⁸¹⁸](https://files.catbox.moe/r14mb8.png)](https://twitter.com/NinepeachYu0818/status/1745680244638716221/) <-
 
 
--> %hotpink% **289 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 021 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
+-> %hotpink% **290 URLs Total**%% ![](https://massacre.crd.co/assets/images/gallery27/3b5cf66d.gif?v=d2152c17) 021 Decorated  ![](https://massacre.crd.co/assets/images/gallery13/f124d2ca.gif?v=d2152c17) %hotpink% **031 Traded/Given**%% ![](https://massacre.crd.co/assets/images/gallery27/83b3e45d.gif?v=d2152c17) 550 in the Garbage<-
 
 -> I am willing to Trade / Give Away! ![](https://massacre.crd.co/assets/images/gallery12/2c9f4c04.gif?v=d2152c17)
 ![](https://massacre.crd.co/assets/images/gallery12/e06aa989.gif?v=d2152c17) Nothing is for sale, that is scummy. <-
@@ -60,7 +60,7 @@ Plain = Available for Trade or Give Away
 
 *Overwatch* [-reaper](https://rentry.co/-reaper) [-soldier76](https://rentry.co/-soldier76) [-junkerqueen](https://rentry.co/-junkerqueen) [illari](https://rentry.co/illari) [tankdiff](https://rentry.co/tankdiff) [dpsdiff](https://rentry.co/dpsdiff) [supportdiff](https://rentry.co/supportdiff)
 
-*Five Nights at Freddy's* [toyfreddy](https://rentry.co/toyfreddy) [freddyfazbear](https://rentry.co/freddyfazbear)
+*Five Nights at Freddy's* [toyfreddy](https://rentry.co/toyfreddy) [freddyfazbear](https://rentry.co/freddyfazbear) [glamrockfreddy](https://rentry.co/glamrockfreddy) [fredbear](https://rentry.co/fredbear)
 
 *Other* [martybanks](https://rentry.co/martybanks) [pierrepaul](https://rentry.co/pierrepaul) [homelander](https://rentry.co/homelander)  [thedragonofdojima](https://rentry.co/TheDragonOfDojima) [kingkoopa](https://rentry.co/kingkoopa) [-bowser](https://rentry.co/-bowser) [themojodojocasahouse](https://rentry.co/themojodojocasahouse) [myhorseprince](https://rentry.co/myhorseprince) [-kenergy](https://rentry.co/-kenergy) [jackskellington](https://rentry.co/jackskellington) [**ponytown**](https://rentry.co/ponytown) [thepumpkinking](https://rentry.co/thepumpkinking) [martybyrde](https://rentry.co/martybyrde) [-discord](https://rentry.co/-discord)
 ***

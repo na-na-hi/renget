@@ -1,8 +1,9 @@
+##->Prologue<-
+
 ***
 ->*"Death may be the greatest of all human blessings."*<-
 ->*- Socrates*<-
 ***
-##->Prologue<-
 
 !~**Unnamed Restaurant, Earth**~!
 

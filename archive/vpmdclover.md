@@ -226,6 +226,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [For T'nite pt. 1 (ft. Gus)](https://rentry.org/OshawottForTnite)
 * Hans the Dragonair
 	* [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
+	* [How to be (a) snake, Issue #2: Dragon Days, Feline Nights.](https://rentry.org/How2Snake2)
 * Jimmy the Gimmighoul
 	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
 * Kaiji the Alolan Meowth
@@ -585,6 +586,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Liminal Crossroads ch. 8 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads8)
 * [We're Team Overclock: Chapter 1 (ft. Error)](https://rentry.org/ironvaliant4)
 * [Team Crossbones Intro](https://rentry.org/rib543ei)
+* [How to be (a) snake, Issue #2: Dragon Days, Feline Nights.](https://rentry.org/How2Snake2)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

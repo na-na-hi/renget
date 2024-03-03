@@ -13,7 +13,7 @@
 -> **High** <-
 - Goat (usually black goats)
 - Fennec Fox
-- Domestic dog (Shiba Inu / Akita Inu /German Shepherd / Sheepdog / Husky)
+- Domestic dog (Shiba Inu / Akita Inu / German Shepherd / Sheepdog / Husky)
 
 -> **Moderate // Very Fluctuant // Medium** <-
 - Wolf (red + arctic). Cockatiel
@@ -24,8 +24,7 @@
 - Squirrel. Stoat. Hamster
 - Harpy. Tengu
 - Ferret. American Pine Marten. Rabbit
-- Swan. African Wild Dog. Raccoon Dog
-- Kitsune. Tiger
+- Raccoon Dog. Kitsune. Tiger
 
 -> **Low // Hardly // Kinsidering // Old // Questioning // Rare Kinshifts** <-
 - Deer (specifically reindeer)
@@ -42,6 +41,6 @@
 -> **Synpath // Otherhearted // Fictionhearted // Kins For Funsies // Relate // Kith // There Are More Terms** <-
 - Goldfish. Vampire Squid. Kestrel. Scorpion
 - Skunk. Coyote. Penguin
-- Koi fish. Clownfish
+- Koi fish. Clownfish. Swan. African Wild Dog.
 - Dumbo Octopus. Nudibranch
 - Glass frog. Parrot. Orchid Mantis

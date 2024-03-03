@@ -69,10 +69,10 @@ I relate more with the nonhuman label than alterhuman or anything similar
 - **Constanze**, LWA. **Pichu. Raichu (Alolan too)**. **Fizzarolli**
 - **Pumpkaboo. Glaceon. Spinda**. **The Shepherd**, ENA. **Queen Bee-zlebub**. **White Ghost Cookie.**
 - **Mordecai**, Lackadaisy. **Vulpix**(Alolan lesser). **Tanya Keys**
-- **Ninetales. African Wild Dog. Noelle**, GI. **Lyra Heartstrings. Lynx. Red Panda. Squirrel**
+- **Ninetales. Noelle**, GI. **Lyra Heartstrings. Lynx. Red Panda. Squirrel**
 - **Hamster. Harpy. Tengu. Pingu. One-One**, IT. **Rarity. Vaporeon**
 - **Konata**, Lucky Star. **Kuromi**. **Homura**, Madoka Magica. **Jeanne**, VNC
-- **Snake. Crowberry Cookie. Swan**
+- **Snake. Crowberry Cookie.**
 - **Karai**, TMNT. **Rouge the Bat**. **Maud Pie.**
 - **Noe**, VNC. **Panini. Panjan.** **Dian**, Jewelpet. Rosaria, GI. **Mapleshade**, Warriors
 - **Venti,** GI. **Strawberry Shortcake**, **Scanty**. **Tiger. Irina**, Irina: The Cosmonaut Vampire. 
@@ -111,7 +111,7 @@ I relate more with the nonhuman label than alterhuman or anything similar
 - **Mad Mew Mew**. **Missy**, Young Sheldon. **Georgie**, Young Sheldon. **Fred Figglehorn**
 - **Ivypool**, **Himuro**, Aggretsuko. **Wiki-tan. Sailor Mercury.** **Dumbo Octopus**. **Odokawa**
 - **Sailor Mars, Sailor Moon. Crymini**, HH. **Twilight Sparkle**. **Celestia**, MLP. **Penny Ling.** **Katy**, Um Jammer Lammy. **Dedenne**
-- **Zoe Trent**. **Mangle**, **Bea**. **Lisa,** GI. **Nermal**, Garfield. **Fluttershy.**
+- **Zoe Trent**. **Mangle**, **Bea**. **Lisa,** GI. **Nermal**, Garfield. **Fluttershy. African Wild Dog. Swan**
 - **Fischl**, GI. **Hello Kitty. Peridot,** SU. **Pearl**, SU. **Astolfo**, Melty Blood. **Chespin.**
 - **Wartortle**. **Niffty**, HH. **Torchic. Wooper. Butters**, SP, **Stitch**. **Nudibranch**
 - **Charlie**, HH. **Lion**, SU. **Monika, DDLC.** **Yuri, DDLC**. **Dratini**. **Scorbunny line**
@@ -166,7 +166,9 @@ I kin some shits from Okegom, Arknights, Alchemy Stars and Kemono Friends, but i
 
 -> **Aesthetics** <-
 - Cleancore. Vaporwave. Frutiger aero and eco. Cybercore. Helvetica aqua aero
-- Emo. Scene. Scenecore. Gothic. Cutecore. Kidcore
+- Emo. Scene. Scenecore. Gothic. Cutecore. Kidcore. Dirtcore. Nostalgiacore.
+- Cozycore. Old web. Old internet. Dead web and dead internet. Clowncore.
+- Victorian. Tropical. Grunge
 
 -> **Jobs** <-
 - Reaper/reaperess. Mime. Jester. Princess/prince/emperor/empress. Knight. Cleric. Monk. Librarian 

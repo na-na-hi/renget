@@ -1,3 +1,13 @@
+>FABs w/ UMPC fall on Malaya Tokmachka
+https://files.catbox.moe/mwgmqt.mp4
+>Soldier who destroyed Abrams explains how they did it
+https://files.catbox.moe/sw9t9n.mp4
+>Russian non-suicide FPV drones in action in Nevelskoye
+https://files.catbox.moe/hkm6p3.mp4
+>Arrival of a RBK-500 on AFU position
+https://files.catbox.moe/82g1yz.mp4
+>Azog getting fucked
+https://files.catbox.moe/su5upn.mp4
 >"I guess we're fucked." the situation in the village of Krasnogorovka
 https://files.catbox.moe/6eostz.mp4
 >Hohol ammo depot hit and failed evacuation

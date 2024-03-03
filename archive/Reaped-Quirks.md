@@ -6,16 +6,16 @@
 
 	Type: Emitter
 
-	Description: He can restore any damage in mere seconds by rewinding time! Grants a strength boost after the recovery is complete. 
+	Description: He can restore any damage in mere seconds by rewinding time! Grants a minor strength boost after the recovery is complete. 
 
 Healing Quirk
 -Rejuvenation
 -Stockpile
 -Self service
 -Fast  (XP)
--8 Points of Quirk Refinement
+-1 Point of Quirk Refinement
 
-17 Points
+10 Points
 
 !!!note
 	**Quirk:「Branching Grasp」**
@@ -47,9 +47,9 @@ Brainwashing Quirk
 -Detailed (XP)
 -Unlimited
 -Hivemind
--4 Points of Quirk Refinement
+-1 Point of Quirk Refinement
 
-19 Points
+16 Points
 
 !!! note
 	**Quirk:「Separate」**
@@ -64,9 +64,9 @@ Object Manipulation Quirk
 -Permanent
 -Large (XP)
 -Tactile
--4 Points of Quirk Refinement
+-1 Points of Quirk Refinement
 
-14 Points
+10 Points
 
 !!! note「Separate」 can't be applied with arms  from 「Branching Grasp」
 
@@ -202,7 +202,7 @@ Projection
 -Broad
 -Esoteric
 -Knowledge Limit
--Quirk Refinement
+-1 Point ofQuirk Refinement
 
 18 Points
 
@@ -243,10 +243,11 @@ Quirk Manipulation
 -Touch
 -Absorption (Refined to quirk enhancements rather than quirks)
 -Permanent (Refined to just extremely long periods of time)
+Consent
 
 2 Points of Quirk Refinement
 
-16 Points
+14 Points
 
 !!! note
 

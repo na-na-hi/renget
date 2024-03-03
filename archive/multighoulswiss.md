@@ -1,16 +1,14 @@
--> ![!](https://cdn.discordapp.com/attachments/1064597015503315054/1127294873444286534/Untitled2425_20230708184656.png) <-
--> ![!](https://cdn.discordapp.com/attachments/704517453178470520/1192303977468022925/Untitled723_20240103200614_1.png?ex=65a8969c&is=6596219c&hm=958c444558426ed7c9f264132632e8f2a1d0f162903fb5d992132f29746c780c&) <-
-->! ***SWISS , MULTI*** !
+-> ![!](https://64.media.tumblr.com/15e34c8d201504506efd4a3403d33a65/31ee0190296054ad-50/s400x600/3d4a1e55ed5a86806db1c0a260d1e8db196c35a3.pnj) <-
+->  ![@landddeath on tumblr](https://cdn.discordapp.com/attachments/704517453178470520/1213792146386194432/swiss_teeth_pfp.png?ex=65f6c306&is=65e44e06&hm=0496993f64810df783e3b15088c8708cce238fdc2c877544a06a2237fbf739b7&) <-
+->! ***JUTTY , SWISS*** !
  ![!](https://wilardo.crd.co/assets/images/gallery04/bfeb6cbe_original.gif?v=7d859d65)
-***JUTTY*** <-
--> ![!](https://64.media.tumblr.com/cffe488180d4ac9aa9334eb35748009d/b6ad35217c0f1a5b-e4/s1280x1920/0c4428e84407dea3018bde3ebea1fb5f9f44a2d2.pnj) <-
--> ***"JUST WANNA BE, WANNA %yellow% BEWITCH YOU IN THE MOONLIGHT%%..."*** <-
+***MULTI*** <-
+
+-> ![firefly-graphics on tumblr](https://64.media.tumblr.com/41a6268bd7717b65193cf30260e6408d/3e3ee5631cb7fc6c-02/s400x600/6bdbb4f727d9366183178d85b1c85d34abd3b115.pnj) <-
+
+-> ***"JUST WANNA BE, WANNA %#808080% BEWITCH YOU IN THE MOONLIGHT%%..."*** <-
 -> + <-
 -> ***Ghost B.C Introj[ect](https://thebandghost.fandom.com/wiki/Nameless_Ghoul_(Swiss)) ,*** *DIAGNOSED DISSOCIATIVE IDENTITY DISORDER* ***SYSHOST*** <-
 -> 42Y.O, *Bodily 17* — He / him + Bisexual greyroman[tic](https://en.pronouns.page/@MULTIGHOULSWISS) <-
--> [OTHER HOST'S RENTRY](https://rentry.co/GRIFTZONE) & [MY LOVE!!!](https://rentry.co/mountainghoul) <-
--> ![!](https://file.garden/ZTPKSmyz9k4k9wFy/resources/dividers/ezgif-4-8f1233d9e1.png)<-
-->***DNI : %yellow% Endogenic "systems" / supporters,  if you unreasonably hate on other's identities, anti-recovery irls, & basic dni%%***<-
--> Otherwise, if i don't like you, ill block you <-
-
--> ![!](https://cdn.discordapp.com/attachments/1064597015503315054/1127294873133920336/Untitled2425_20230708184658.png)<-
+-> [![MY LOVE'S RENTRY](https://cdn.discordapp.com/attachments/704517453178470520/1213798274323058698/smaller_black_heart.webp?ex=65f6c8bb&is=65e453bb&hm=e47e78fd99f0247e82f7d01be6b0dcee7c86593cd9a0b29f59598d68ce861745&)](https://rentry.co/mountainghoul) <-
+-> ![!](https://64.media.tumblr.com/911887c8f3604c454295fd1cedeee8db/02d212b6686e3430-45/s400x600/08d40d11688b8e88b972545cce6077b13c605447.pnj)<-

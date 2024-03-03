@@ -5,6 +5,9 @@
 !!! info
 	---------------------------
 ##Local Install
+###Beginner UI
+https://github.com/lllyasviel/fooocus
+https://easydiffusion.github.io
 ###Nvidia GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-NVidia-GPUs
 https://github.com/AbdBarho/stable-diffusion-webui-docker
@@ -13,10 +16,6 @@ https://rentry.org/comfyui
 ###Automatic1111 forks
 https://github.com/anapnoe/stable-diffusion-webui-ux
 https://github.com/vladmandic/automatic
-###Other UI
-https://github.com/lllyasviel/Fooocus
-https://easydiffusion.github.io
-https://github.com/invoke-ai/InvokeAI
 ###AMD GPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Install-and-Run-on-AMD-GPUs
 https://github.com/lshqqytiger/stable-diffusion-webui-directml
@@ -92,11 +91,16 @@ https://rentry.org/sdmodels
 
 !!! info
 	---------------------------
+##SD3
+###What is SD3?
+https://stability.ai/news/stable-diffusion-3
+!!! info
+	---------------------------
 ##Cascade
 ###What is Stable Cascade?
 https://stability.ai/news/introducing-stable-cascade
 
-###Quick guide to use Cascade with ComfyUI
+###Quick guide to using Cascade on ComfyUI
 https://comfyanonymous.github.io/ComfyUI_examples/stable_cascade
 !!! info
 	---------------------------
@@ -138,6 +142,10 @@ SDXL support generating images at the following dimensions:
 
 Taken from https://platform.stability.ai/docs/features/api-parameters
 
+###Use v1.5 LoRAs on SDXL
+https://github.com/showlab/X-Adapter
+https://github.com/kijai/ComfyUI-Diffusers-X-Adapter
+
 ###Control LoRA for SDXL
 https://huggingface.co/stabilityai/control-lora
 
@@ -167,11 +175,6 @@ magnet:?xt=urn:btih:b2685d9ae2026df0697e5f1193406cba16bad435&dn=sd_xl_refiner_0.
 
 Pruned v0.9 models
 https://mega.nz/folder/QSVFiBrS#Nq2BWbG-0bsdWoyd3AhdZw
-!!! info
-	---------------------------
-##SD3
-###What is SD3?
-https://stability.ai/news/stable-diffusion-3
 !!! info
 	---------------------------
 ##Guides
