@@ -1,5 +1,7 @@
 #Ribombee-anon's Homepage
 
+-> ![My OCs (art by me!)](https://files.catbox.moe/fopc97.png) <-
+
 I’m Ribombee-anon, and I’m making this page to compile the work I’ve done for the Clover Guild collaborative fiction project. Hope you enjoy checking out my stuff!
 
 To learn more about the project, see our main page at https://cloverguild.com/
@@ -11,6 +13,7 @@ To learn more about the project, see our main page at https://cloverguild.com/
 ##Characters
 
 My main characters in the Clover Guild are Team Brave (Booker the human-turned Ribombee and a native Sneasel), but I also have a secondary team, Team Buckler (Cooper the human-turned-Torchic and Testa the native Squirtle).
+
 
 ###Team Brave
 
@@ -202,6 +205,16 @@ Also note that I have a sort of anthology called “Booker’s Journal; or, My T
 - **Genre/Themes**: Slice-of-life
 - **Published**: 7-4-23
 
+###Waggle Dance
+- https://rentry.org/RibombeeDance
+- **Synopsis**: Despite the encouragement of his friends, Booker is just too shy to dance—but a conversation with his partner may be just what he needs to take a risk and try something new.
+- **Word Count**: ~3,200
+- **Featured Characters**: Booker, Sneasel, Charm, Natu, Kaiji, Kris, Linoone
+- **Timeline Placement**: Sometime after “Enter the Federation”
+- **Suggested Reading**: None
+- **Genre/Themes**: Slice-of-life
+- **Published**: 3-3-24
+
 ###Gone
 - https://rentry.org/RibombeeGone
 - **Synopsis**: Sneasel remembers the island and family she was torn away from, and she and Booker discuss what the future may hold for them. It is a difficult choice: leave each other and go back to their respective homelands, or abandon their old lives in order to stay together.
@@ -253,3 +266,6 @@ Also note that I have a sort of anthology called “Booker’s Journal; or, My T
 - **Suggested Reading**: The Echo Chamber (https://rentry.org/RibombeeEcho), Learning to Fly Ch. 1-3 (https://rentry.org/RibombeeFly1), In the Dead of Night (https://rentry.org/RibombeeJournal#in-the-dead-of-night), The Shine of a Sneasel’s Gem (https://rentry.org/RibombeeGem)
 - **Genre/Themes**: Holiday, Drama, Romance
 - **Published**: 12-15-23
+
+###A Ribombee’s Anniversary
+*Coming soon...*

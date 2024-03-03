@@ -505,6 +505,9 @@ Biography generated!
 ###Rain
 {Pending}
 
+###Mandibuzz
+{Pending}
+
 ###Kaz/Solid Linoone
 Blurb here : https://rentry.org/fzygy
 Q&A page: https://curiouscat.live/Linoone_mailmon

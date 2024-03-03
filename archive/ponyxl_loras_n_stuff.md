@@ -283,8 +283,8 @@ https://files.catbox.moe/0520b4.safetensors character_ashley_warioware activatio
 https://files.catbox.moe/0r3b9z.safetensors character_beatrice_rezero doesn't seem to have a trigger for the character
 https://files.catbox.moe/xv8o6t.safetensors character_sparkle_honkai_star_rail looks like sparkle_(honkai: star rail) is the activation trigger, example gens: https://files.catbox.moe/fz15l8.png, https://files.catbox.moe/mvxmzo.png, https://files.catbox.moe/tpwdsm.png
 https://files.catbox.moe/26s9wl.safetensors character_purah activation trigger is purah. example gen: https://files.catbox.moe/8oh179.png
-https://files.catbox.moe/mugz6g.safetensors character_elegg_nikke
-
+https://files.catbox.moe/mugz6g.safetensors character_elegg_nikke activation trigger is elegg
+https://files.catbox.moe/ydfkfj.safetensors character_seele_starchasm_nyx activation trigger is seele vollerei (starchasm nyx), example gen: https://files.catbox.moe/oki6x0.png
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
 

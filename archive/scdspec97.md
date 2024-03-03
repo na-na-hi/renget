@@ -68,9 +68,3 @@ A day later I re-opened the VM only to find that every game installed on it had 
 
 https://files.catbox.moe/sbf0qu.zip
 archive of all older versions including htms and txts
-
-
-!!! note Explaining Something Not Worth Explaining At All
-This doesn't need to be part of the shitpasta.
-https://rentry.org/ga3oqgbd
-I'll remove the link in a bit

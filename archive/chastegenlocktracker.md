@@ -17,7 +17,6 @@ _(Updated 29-Feb-2024)_
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
 | sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
-| porrov | https://chaster.app/sessions/keJi6vPWo4aZhYX0 | === |
 | smoll_lilly | https://chaster.app/sessions/prDrroyAh4E4n5Ky | === |
 | robintheincubus | https://chaster.app/sessions/VsoyOSyjnkqrkvHH | === |
 | Kinky_Twikii | https://chaster.app/sessions/EPphQ2J4vsNX3Ghi | === |
@@ -26,7 +25,6 @@ _(Updated 29-Feb-2024)_
 | AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
 | Vulparion | https://chaster.app/sessions/kSl5VH5v7ajrhSaN | === |
-| programmingsocklover | https://chaster.app/sessions/Zkw6utoQb858qcG0 | === |
 | xoronite | https://chaster.app/sessions/oyY87eMVrRD6cyXe | === |
 | Salee1443 | https://chaster.app/sessions/ZvkkffWmoj3CyGmE | === |
 | Wpegged | https://chaster.app/sessions/ZCDXzhHzEL5OwnhW | === |
@@ -37,5 +35,8 @@ _(Updated 29-Feb-2024)_
 | bigdawg8 | https://chaster.app/sessions/PeVOQtNOZ0jjh62M | === |
 | BrittanyJane | https://chaster.app/sessions/n9y6MkLUzNRribAO | === |
 | DivineSight | https://chaster.app/sessions/szM7FlmiJIkwDirh | === |
+| jhonnyexampole | https://chaster.app/sessions/qitgO1ChkNCLTidf | === |
+| Subbyboy101 | https://chaster.app/sessions/nB7SbI4O8BZw75HQ | === |
+| KennedyShotFirst | https://chaster.app/sessions/j3GyjDdj7J9D0pRJ | === |
 |  |  |  |
 |  |  |  |

@@ -1,3 +1,15 @@
+>RIP Balbes, thank you for your service (EXTREMELY UNCOMFY)
+https://litter.catbox.moe/qp40ld.MP4
+>Another Abrams rekt
+https://files.catbox.moe/s5u2vw.webm
+>Slovak Zuzana rekt by Lancet
+https://files.catbox.moe/xw9td6.mp4
+>Tornado-S takes out AFU Buk-M1
+https://files.catbox.moe/mlch2p.mp4
+>Abrams-based M1150 Assault Breacher rekt
+https://files.catbox.moe/yd2v4y.MP4
+>Lancets with AI homing used in Chasov Yar
+https://files.catbox.moe/20t4jd.mp4
 >FABs w/ UMPC fall on Malaya Tokmachka
 https://files.catbox.moe/mwgmqt.mp4
 >Soldier who destroyed Abrams explains how they did it

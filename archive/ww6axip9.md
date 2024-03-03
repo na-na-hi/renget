@@ -5,7 +5,7 @@
 ->*- Socrates*<-
 ***
 
-!~**Unnamed Restaurant, Earth**~!
+** %#58aae3% !~ Unnamed Restaurant, Earth ~! %% **
 
 "Finally a working adult huh? Maybe one day you'll treat me to a restaurant dinner instead."
 
@@ -94,8 +94,8 @@ Whatever conciousness she had just gained left her just as fast, and she returns
 ![Sleep tight, Rain](https://i.imgur.com/cwtrjnf.png)
 ***
 !!! info
-	786 words total
 	31 Jan - posted
 	1 Feb - fixed tensing and typos
 	5 Feb - changed some phrasing and formatting
 	12 Feb - aligned images left
+	4 Mar - formatting

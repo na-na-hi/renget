@@ -53,7 +53,8 @@ Jung (Pronounce as Yung) | M | Sceptile | Shinx (Sara, F, Native(?)) | Clover Gu
 Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#hansmr-giblenoodle)
 ??? | M | Wimpod | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#wimpod)
 Error | M | Iron Valiant | Rotom (M, Quirky, Native?) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#error)
-Rain | F | Eevee | Corvisquire (?,?,?) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#rain)
+Rain | F | Eevee | Corvisquire (Cory, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#rain)
+??? | F | Mandibuzz | Gliscor (??, M, Non-Native Pokemon) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#mandibuzz)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
@@ -147,6 +148,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The Shine of a Sneasel's Gem (ft. Booker)](https://rentry.org/RibombeeGem)
 	* [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
 	* [Learning to Fly ch. 4 (ft. Booker)](https://rentry.org/RibombeeFly4)
+	* [Waggle Dance (ft. Booker)](https://rentry.org/RibombeeDance)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4) **Non-Canon (Draft) Story**
@@ -215,6 +217,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Tried So Hard And Got So Far (ft. Turk the Lucario)](https://rentry.org/turklucario1)
 	* [Aura Dog Day (ft. Turk the Lucario)](https://rentry.org/turklucario2)
     * [We're Team Overclock: Chapter 1 (ft. Error)](https://rentry.org/ironvaliant4)
+	* [We're Team Overclock: Chapter 2 (ft. Error)](https://rentry.org/ironvaliant5)
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
@@ -303,6 +306,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * Rain the Eevee
 	* [Additional Drawings](https://rentry.org/veesotherstuff)
 	* [Rain Prologue](https://rentry.co/ww6axip9)
+	* [Achoos You (ft. Rain)](https://rentry.org/zx6cwsz3)
 * Rasmus the Spinarak
     * [Rasmus and the Riddle of the Coral Monument](https://rentry.org/surkn)
 * Ross the Smeargle
@@ -351,6 +355,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
 	* [Togetic's Mind-Bending Adventure](https://rentry.org/8phvs)
 	* [Dew Point (ft. Dewott)](https://rentry.org/iqr9y)
+	* [Togetic's Echoes of Adventure](https://rentry.org/3odi7xbf)
 * Tropius
 	* [The Sun Rises on a New Adventurer (ft. Tropius)](https://rentry.org/TropiusIntro)
 	* [Occam's Razor Leaf (ft. Tropius)](https://rentry.org/TropiusTwo)
@@ -587,6 +592,10 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [We're Team Overclock: Chapter 1 (ft. Error)](https://rentry.org/ironvaliant4)
 * [Team Crossbones Intro](https://rentry.org/rib543ei)
 * [How to be (a) snake, Issue #2: Dragon Days, Feline Nights.](https://rentry.org/How2Snake2)
+* [Waggle Dance (ft. Booker)](https://rentry.org/RibombeeDance)
+* [Achoos You (ft. Rain)](https://rentry.org/zx6cwsz3)
+* [We're Team Overclock: Chapter 2 (ft. Error)](https://rentry.org/ironvaliant5)
+* [Togetic's Echoes of Adventure](https://rentry.org/3odi7xbf)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

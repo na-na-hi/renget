@@ -1399,8 +1399,7 @@ Cons:
 
 ### ->Eris ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-
 **tl;dr: Roll her unless you enjoy bricking your dark comps until the next prifes, failing at arena, and generally griefing your clan. She's human rights tier.**
-Eris is on a similar level to Ameth, except dark instead of light. She has healing over time, a barrier and 200% action speed for the entire party just with her UB, which makes her especially valuable to dark comps. With her other skills, she raises defenses, heals, restores TP, buffs magic / physical attack and crit, as well as having a unique once-per-battle revive. Her loop is incredible due to a lack of auto-attacks and she's generally the saviour the dark element needed. 
-
+Eris is on a similar level to Ames, except dark instead of light. She has healing over time, a barrier and 200% action speed for the entire party just with her UB, which makes her especially valuable to dark comps. With her other skills, she raises defenses, heals, restores TP, buffs magic / physical attack and crit, as well as having a unique once-per-battle revive. Her loop is incredible due to a lack of auto-attacks and she's generally the saviour the dark element needed. 
 
 
 -> ![Eris](https://redive.estertion.win/card/full/129031.webp)<-
@@ -1418,3 +1417,37 @@ Pros:
 Cons:
 - Doesn't deal any damage by herself
 - The revive is her fifth action, potentially making it useless in arena depending on your opponent's team as it may not be used before your team is wiped out
+
+## From here, elemental thoughts will be included.
+
+### ->Winter Yuni ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<-
+**Good physical support with TP boost, action speed increase and every physical buff you could want for a party. No debuffs to enemies though. Good addition to water support cast.**
+
+Winter Yuni deals no damage, outside of a joke 5 dmg from her SP skill when she has a stack of her unique mark. Her entire purpose is for buffing physical teams with consistent output of buffs to Physical teams. In that regard, she's unmatched for pure support functionality on a single unit for water specifically. On an overall level, she's a good physical buffer with action speed and the +5 TP boost. Her competition for water are the likes of S.Kokkoro, X.Chika, S.Hiyori, S.Saren for pure physical support options. Of these, S.Kokkoro has the most value and could be used in tandem with her, as she provides the P.Def debuff that Winter Yuni is missingis missing.
+Her mark system works similar to Ruu's, where she loses a mark when she takes damage. However, she does not lose marks when she uses her skills, which is where the checks happens. The fact that she gets marks from her UB means they're not going to be on her immediately, but can be refreshed when the player wishes to do so. There are instances where an attack will have one damage calculation against the damage cap, but have multiple instances of checking damage dealt. In these cases, Winter Yuni loses multiple stacks.
+
+-> ![Yuni](https://redive.estertion.win/card/full/129331.webp)<-
+
+Pros:
+- Provides P.Atk/P.Crit/P.Crit dmg & Heal to all units on UB
+- S1 provides P.Atk & P.Crit chance buff, and Action speed
+	If she has at least 1 Mark, Action Speed goes from 150% to 200% 
+- S2 provides P.Atk, P.Crit dmg, a Healing field for 12.5s with a 750 range
+	If she has at least 1 Mark, she provides an additiona P.Atk buff and +5 TP Boost to all friendlies  
+- SP Skill provides P.Atk, 50 TP to self
+	If she has at least 1 Mark, deals 5 damage
+- No AA means she'll spam skills constantly
+	(S1 > SP > S1 > S2 > SP)
+- Sturdy defenses to not require healing outside of from self
+- Majority of buffs apply to all friendlies (S1, S2, SP)
+
+
+Cons:
+- TP restore is only to self
+- Does not deal damage outside of joke portion of SP skill (It deals 5 damage if she has a stack)
+- Loses efficacy on skills if she does not have her marks
+- Loses stacks of her Mark from taking damage (taking 0 dmg with a barrier does not remove a stack)
+- Stacks are removed per damage tick/instance of damage being dealt.
+- Has no barriers
+- Has no debuffs to enemies (Offensive of defensive)
+- Marks cap at 3

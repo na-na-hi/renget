@@ -130,6 +130,6 @@ Name | Description
 ***
 Can also view all my bots at my [Chub profile](https://www.chub.ai/users/ggr89)
 Contact me at: GGR-burn@proton.me
-I'm open to doing requests so don't hesitate to shoot me an email. Also let me know if something on the page is fucked up and I'll fix it.
+ Please use a proton.me or cock.li email if you're going to reach out to me, otherwise you're probably going to fall into the spam filter. Gmail there's a 50/50 I'll see it. I'm open to doing requests so don't hesitate to shoot me an email. Also let me know if something on the page is fucked up and I'll fix it.
 
 Big thanks to [Darkfantasy109](https://rentry.org/Darkfantasy109) for the template.

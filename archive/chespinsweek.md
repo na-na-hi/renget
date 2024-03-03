@@ -1192,3 +1192,153 @@ Back in my room, the moon shines onto me as I lay in bed. I wonder if Wooper's a
 Just one more day...
 
 ####Day 7:
+
+After waking up, I look out the window, gazing out towards the sea. Today's the day Wooper's supposed to come back, but what do I do in the meantime? Maybe I can hang out with some of the other guildmates I've gotten to know better this past week? With few other options, I grab my bag and head for the storeroom.
+
+Upon entering, I spot Toge floating in midair, slumped over. I open my mouth to speak, but stop as I take note of something unusual... He sleeps like this? The strangest part about the sight is that his wings are completely motionless, and yet he still floats. Deciding I can't just leave him like this, I look around the storeroom, spotting a spare blanket. I grab it with one vine, using the other to guide Toge down towards a nearby pile of cotton. Throwing the blanket over him, I set him down on the cotton. 
+
+“Gotta prioritize coziness, T-” I'm cut off once more by the sight of him slowly rising back up into the air. “Eh, close enough.”
+
+-----
+
+Heading for the kitchen, I spot Beast prepping for this evening's dinner, with an annoyed-looking Numel being used as the stovetop as usual. Approaching the head chef, I say, “Hey uh, I've got nothing better to do today, do you want any help?”
+
+Beast merely shakes his head. “Sorry Chespin, you know what they say about too many cooks.”
+
+“Oh... You sure?”
+
+“Positive. Fret not, you won't leave empty-handed.” Beast turns around, grabbing bread and a couple jars from a nearby cupboard as he gets to work. A minute later, he places a familiar-looking sandwich in my hands. “I'm unsure as to why most of you former humans swear by such a ludicrous combination of ingredients, but a chef must give others what they want.”
+
+I take a look at my food, giving it a small bite. Peanut butter and jelly. Huh, how come I've never thought to seek this stuff out in this world? It seems like such a no-brainer, now that I think about it. Strangely enough, the peanut butter tastes better than any I remember tasting from my old life. “This'll work, thank you!”
+
+“You're welcome. Now, I must get back to my cooking.”
+
+-----
+
+I make short work of my tasty sandwich as I head for the mission boards, looking for someone to tag along with today. But there's nobody around. Usually there's a few guildmates milling about here, or someone dropping off mail, but right now there's nothing at all. Is this one of the rare days where everybody is on a mission? Letting out a sigh, I head outside for a walk.
+
+I walk through Capim for awhile, wondering what to do with my time. Wooper would always have ideas, but without him around, I find myself merely staring at storefronts and the like. Looking up at the cloudless sky and feeling the warmth of the sun, I decide that today's a good day for a walk. I think for a moment before I quickly decide on a destination, and then head out of town.
+
+Out on the vast plains, it quickly dawns on me just how long I'll be out of town. Alone. At the mercy of whatever I might come across. I look up at the sun, trying to suppress my worries by focusing on the sunlight. Reaching into my bag, I pull out the Blast Wand I had stowed away, the weapon reassuring me. Wooper might not be around, but I'm far from helpless the way I am now. If someone comes to stir up trouble, I won't make it easy for them! Feeling more confident, I walk over a small hill, the forest coming into view.
+
+-----
+
+Entering the shade of the trees, I feel a soothing calm wash over me, the earthy smells of plant life and dirt bringing a small smile to my face. Walking down the path, I slow to a stop once a small pond comes into view. A wave of nostalgia slams into me as I sit down on the ground and take it all in.
+
+This was where I first woke up in this world. It's been... almost half a year since then, I think? Half a year... I still remember the fear and confusion I felt, which only began to fade when I met Wooper in a pond. The very same pond in front of me. I still don't know why I'm in this world in the first place, but every day I'm grateful I met Wooper. On top of that, I'm even thankful for having become what I am now. If it weren't for everything that's happened, I'm certain my life would have kept going down its old, boring, uneventful path.
+
+As I think, I get a dumb little idea. Looking up at a nearby tree, I use my vines to pull myself up into it, the climb to the top proving to be very easy. I look out over the canopy, a massive expanse of green stretching out towards the horizon. Why haven't I done this before? This view is great! Maybe someday I should get one of the other guild members that can fly to take me for a ride. I'm certain Wooper would have fun doing that, I should bring the idea up to him sometime. I sit on top of the tree for some time, soaking in the sights and sunlight as I relax.
+ 
+Deciding I've had enough reminiscing and sightseeing for today, I climb down from the treetop, taking one last look back at Wooper's old pond before making the walk back to town. With any luck, he'll be back in town by the time I get back.
+
+-----
+
+Walking through the plains once more, I hear a horrible screeching sound from above! Quickly looking up and pulling out my Blast Wand, I watch as a familiar foe of mine lands in front of me. Talonflame, this time wearing a blue ribbon with a blue and gold badge of sorts on it. With another cry, they speak. “Look who it is! Don't you know there's a toll for passage?”
+
+Unlike all the other times, Wooper isn't here to help. But I'm not afraid like the first time I met this monster. “How many times do I have to teach you this lesson, fiend?”
+
+“Haw haw! Don't make me laugh! You're all alone, and so small too. What can you possibly do to stop me from taking what I like?”
+
+I wordlessly swing my Blast Wand, the fireball exploding on contact with the bird's face! Recoiling in pain, I don't give the Talonflame a chance to recover. Wrapping my vines around it, I launch myself into them. But instead of hitting them with a headbutt, I clench my fist, letting it spark up with electricity! I throw an electrical uppercut, sending my foe reeling in pain! Their hot body sends a stinging pain shooting up my vines, and I quickly retract them as I land back on the ground. “There's going to be a toll to pay alright, and today it's going to be you paying the price for wasting my damn time!”
+
+The enemy clutches their face in pain, managing to regain their composure. “That's it! I'm not going easy on you anymore! Give up the goods now!” They open their beak, and upon seeing a red glow from within, I leap out of the way. A jet of flames shoot out, narrowly missing me. I feel my pulse quicken as I realize I have a very real chance of winning this all on my own! I gotta win this, not just because this guy keeps causing trouble, but because Wooper'll be amazed when I tell him!
+
+Taunting my foe, I say, “You suck at fighting! Wooper's knocked you out twice, and unless you go and fly away right now, I'll be your third!” Furious, Talonflame yells incoherently, spewing fire in my general direction. Trying to close the distance, they swing their wings around, trying to smack me. Realizing that this petty crook is fighting sloppily out of anger, I grab them once more with my vines, reeling myself onto their back and riding them like a horse. It feels like I'm sitting on a radiator, and it hurts... But I've got to endure if this is gonna work!
+
+Talonflame takes off into the skies, shaking and thrashing around to try and drop me to the ground. But the hold I have with my vines is too powerful, and I've got them just where I want 'em! Grabbing hold onto their back with my hands, I wrap my vines around the bird's neck, tightening my grip as hard as I can. Despite the burning sensations, I'm determined to put an end to this. As I strangle the flaming crook, I clench both my fists, electricity coursing through them. I repeatedly slam them down on their head, choked cries of pain coming from their beak. 
+
+Our flight grows wobbly as the bird grows weaker. Emboldened, I yell, “How do you like that, you stupid bird? All I wanted to do was enjoy the nice weather, but then YOU had to come along again. This is what you get for ruining my ***WALK!”*** Punctuating my words with one final, crackling punch, I feel them start pitching forward as they stop fighting against me. We're crashing! As we dive towards the ground, I brace for impact, curling up as best as I can. Slamming into the ground, I'm tossed off my enemy, tumbling across the grass. Once I finally come to a stop, I stand back up, dusting myself off as I catch my breath. Silently thanking my armored back, I walk over to the knocked out Talonflame, swiping the blue ribbon from around their neck. I'm sure someone at the guild will like it. “You sure are a master at choking, aren't you?” 
+
+A somewhat-familiar voice calls out across the plains. “Chespin! Are you alright?” Looking towards the source, I spot a yellow sheep-like creature running towards me.
+
+That's... Macom, is it? A guild member I haven't spoken to much, but he doesn't seem like a bad guy, even if something about him is different from the rest. “Yeah, I'm fine, I just... beat the hell out of this thug. I...” That's when it dawns on me. “I did it... I *DID* it!” I took down a bad guy much larger than myself, all on my own! Not only that, but aside from some slightly stung vines, I didn't even get hurt doing it! The first time I fought this thing, I was so scared, but this time, I completely destroyed them! Were they really that bad at fighting, or have I improved that much?
+
+“I heard you were out of sorts this past week, so I came looking for you. I saw that fight, good on you for keeping your cool and not panicking.” Macom's voice is gruff, yet considerate.
+
+“This guy's been a thorn in my side from my very first day. The first fight Wooper and I were ever in together was against this petty thug. But I... I still can't believe I pulled it off on my own! Think about how Wooper'll feel when I... tell him.”
+
+“Oh, yes, he is coming back today, isn't he?”
+
+I nod. “Mhmm, but what if... What if he's late?”
+
+“Has he ever been late for anything, Chespin?” Seeing me shake my head, he continues with, “Then he will be here today.” Looking over at the Talonflame on the ground, he says, “Hold on a moment, I've heard of someone with this description before. This is an outlaw. Did you come to bring them to justice all alone?”
+
+“No, this idiot came to ME! This was supposed to be a nice, relaxing walk, and it would have stayed that way had I not had to beat them up.” Taking a look at the sorry sack of feathers, I say, “We might as well bring him in then. If I'm putting in work, there's not a chance I'm passing up a reward!”
+
+-----
+
+Macom and I carry the unconscious bird back into town and into the sheriff's office. By the sound of things, Talonflame's main claim to fame was their poor skills and numerous botched mugging attempts, and had only recently become prolific enough to attract the attention of authorities. Grabbing the bag of reward money, I offer a share of it to Macom, but he simply refuses, telling me to split it between Wooper and I. Waving him goodbye, I head for the guild's garden. After all that action earlier, it'll be nice to unwind with a bit of sunbathing.
+
+Just as I walk up to my special spot in the garden, I hear an odd thunking sound coming from around the back end of the guild. Curious, I go and investigate. Rounding the side of the building, I see a makeshift lean-to, with somebody laying under it. Approaching, I spot a bored-looking Tropius laying on a bed of cotton. I've only spoken to this guy once before, but he always looks pretty down. Don't most Tropius have three bananas on their neck? “Hey uh... how are you? I heard something from over here.”
+
+Before turning to me, he unenthusiastically replies "Fine, I guess." As his gaze meets mine, he responds "Wait a minute, you're that Chespin! What brings you back here?"
+
+“Uh...” Pulling out the ribbon from earlier, I say, “I remembered you were one of the only other guild members without a scarf of some sort. Want it? It's a Heal Ribbon, it'll help you out if you're tackling jobs.” 
+
+Tropius's eyes widen slightly. “Wait, you're just giving this to me? That's...” His eyes narrow as he stares at the ribbon. “Hold on, what's the catch here?”
+
+I shake my head, holding it out. “No catch, seriously. Wooper and I already have our matching scarves, we don't need it. I swiped this thing from an outlaw I beat up earlier, figuring it was better if someone at the guild wore it instead.”
+
+“That's... wait, I have no hands to put it on.” He lowers his head, looking somewhat disappointed.
+
+“Not a problem, I can tie it on for you. Wooper's got no hands either, I do this for him all the time.”
+
+“Well, alright.”
+
+I step closer as Tropius picks his head up more. Even laying down, he towers over me. His neck is so high up that I have to tie the ribbon around his neck by using my vines. It's a bit awkward doing it this way, but before long I manage to get it fastened securely. “There you go! What do you think?”
+
+Tropius stands up, curving his neck downward to look at his new accessory. A small smile crosses his face. “Thank you, Chespin.”
+
+“Not a problem. After all, we all gotta look out for everybody else around here, right? I'll have to get you a proper guild badge later.” Looking around, I spot the sun beginning to set. The day's almost over, that can only mean one thing! “I'd stick around longer, but I gotta see if Wooper's back now. Remember to stay cozy, alright?”
+
+-----
+
+At the docks, I take a seat on a nearby bench as I watch the sun slowly set over the ocean. Snacking on a berry from my bag, I watch the town Pokemon going about their evenings as I wait. The sky grows darker and darker until the sun vanishes completely. I see others lighting torches here and there to illuminate the town. But as the minutes keep passing, I feel my anxiety grow more and more. What if something happened? What if Wooper got hurt?! What if he's gone longer? My fears only grow as drowsiness overtakes me, my eyelids growing heavy. 
+
+-----
+
+“Arthur, wake up! C'mon, wake up!”
+
+Opening my eyes, I find that I'm still at the docks, awoken by a very familiar voice. How long was I out for? Still half-asleep, I mumble “Just a few more minutes, Wooper...” I feel a jolt run through me as realization hits me. I quickly sit up, looking at the source of the voice. In front of me is the reassuring sight of my best friend, with a little bag slung around his neck. “Wait, Wooper?! You're back?”
+
+“Yeah! Our adventure went great!”
+
+I hop off the bench, grabbing Wooper with my vines as I reel him in for a hug! The stress and the worries of the past week are suddenly a distant memory. Wooper's back! Setting him down, I remember something. “You're back! But... Where are your parents?”
+
+“They just went to an inn, they were pretty tired! By the way, how'd your week go?”
+
+I rub the back of my head. “It was... eventful, but I'm just glad you're back safe. Some of this past week I wouldn't exactly want to repeat.” I shudder, remembering the day I got frozen. “But get this, remember that guy we fought the day we met? He tried to fight me earlier today.”
+
+Wooper gasps. “That Talonflame?! How'd you get away from it?”
+
+I raise my fist, letting it spark with electricity. “Like this! Also I may have used some... *other* methods of knocking that thug out.” 
+
+Wooper's smile grows. “You did that all on your own? That's amazing, you've really gotten a whole lot better at fighting!”
+
+His words make me feel even better about myself. Placing a hand on his head, I say, “C'mon, Wooper, let's go home.”
+
+-----
+
+On the way back to the guild, I tell Wooper about what I did this past week. Wooper's all too happy to tell me tales of underwater villages, sunken ruins, and underwater dungeons and caves. By the sound of things, him and his parents had little trouble with what enemies they came across. I let out a sigh of relief, my worries of his safety having been unnecessary.
+
+Entering our room, I let out a yawn, setting down my bag. Reaching into a small cabinet, I pull out the special Gummi drinks I got from yesterday's little job. Using my vines to pop the cork off both bottles, I say, “I picked these out special, drink up!”
+
+I reach a bottle over to Wooper, letting him take a long chug from it. “These are great! Way better than the plain ol' water I've had the past week.”
+
+I take a series of small sips, savoring the sweet, fruity flavors. “There's more where that came from, but we should save those for later.” Taking note of the bag around his neck, I ask “What's in that bag, by the way?”
+
+“Oh, right! It's a little gift I got! Go on, check it out!”
+
+I reach into his bag, my hand closing around something cold. Pulling it out, I instantly recognize it. It's a Frism, only this one's frozen over. Curious, I breathe on it, trying to warm it up. As it thaws, the echoing sound of waves crashing into rocks fills the room. The sound instantly relaxes me, and I sit down on my bed as I listen. “Hey, this is pretty nice!”
+
+Wooper gives me a big smile. “I knew you'd like it!”
+
+-----
+
+The two of us chat some more as we finish out drinks. But by now, it's very late, and I'm feeling very sleepy, so I climb into bed, lifting up the blanket for Wooper. He crawls under the covers and I pull him into a hug, my eyelids grow heavier. I feel a smile creep onto my face, feeling cozier than I have all week. Despite that, a thought works its way into my mind.
+
+Being around Wooper, sleeping like this, the way I worried so much about him this past week... I wasn't like this at all in my old life. I was never protective of anybody back then, but here it feels... almost instinctive. Am I overprotective of him because he's my best friend, or because of what I am now? Could it be that all Chespins have a sort of “protective” personality, and that's what makes me feel this way? I had never even thought of this possibility before now, but it'd explain why I started taking hits for him without even thinking about it. It'd even explain sleeping like this, I've got to protect him from the cold!
+
+Still, even if it's part instinct influencing my personality... it's not really a *bad* thing, I don't think. As I drift off to sleep, there's something I know for certain.
+
+I missed this...

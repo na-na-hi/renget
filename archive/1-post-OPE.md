@@ -6,12 +6,13 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 271st time, what is Ope?!
+For the 272nd time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Poppy Playtime, Chapter 3 (Sun 03/03 7PM CT)
+Next stream (Poppy Playtime, Chapter 3, Sun 03/03 7PM CT)
+https://www.youtube.com/watch?v=h9M8CDS4nUA
 Last stream (Mamarissa debut / Q & A)
 https://www.youtube.com/watch?v=RAvCm-mN8X0
 Last appearance (Chatting after the Devour collab on Orihime's stream)
@@ -36,7 +37,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>70482172
+Previous thread: >>70489808
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

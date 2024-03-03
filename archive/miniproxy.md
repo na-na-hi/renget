@@ -12,7 +12,6 @@ anthropic context size: 200000
 openai output size: 4096
 anthropic output size: 4000
 ```
-actual token count is a higher. Will purge the banned tokens later. Expect ~30 minutes of downtime. I will announce it before it happens.
 total **active** users: 122 %red% (CLOSED) %%
 ***
 
@@ -22,6 +21,7 @@ total **active** users: 122 %red% (CLOSED) %%
 - The proxy will only use organization keys.
 - Miniproxy is not logged and will never be.
 - I am not accepting monetary donations because they caused too much drama. 
+- <3 to every other proxy host for providing proxies for free.
 
 !!! info info and news (24/02/2024)
     gemini ultra/pro 1.5 is not available yet. I can't add that to the proxy...
