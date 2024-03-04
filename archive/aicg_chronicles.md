@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-03-01==
+# /aicg/ chronicles, up to ==2024-03-04==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1260,6 +1260,9 @@ When | Where | What
 ***
 ###### March 2024
 When | Where | What
+-|-|-
+-|-|-
+2024-03-04|[99311453](https://desuarchive.org/g/thread/99309163#99311453)| Claude 3 mogs GPT4, has vision, API generally available
 -|-|-
 
 [](you have found my secret stash of nothing!)

@@ -78,25 +78,24 @@ See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 File | Version
 --- | ---
-[Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Mar-4-24
+[Quick_import](https://creamsan.neocities.org/files/presets/qr-quick-import.json) | Mar-4-24
 [Regex_script](https://creamsan.neocities.org/files/presets/regexreplace.json) | Feb-10-24
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
 !!! note Updated on **Mar-4-24**
 	Quick QR preset importer implemented. Huge thanks to stscript anon for providing the code. https://rentry.org/stscript#making-stscript-cards-easy-to-set-up. **Requires JS setup first.**
-	Note that you will still need to update the utility preset by manually importing it, as it is not included in the quick import.
+	Note that you will still need to update the Quick Import preset itself by manually importing it. It is not included in the Quick Import.
 	I forgot to do this, but JS codes are now wrapped in IIFE. While there was no problem without it, this is still safer.
 	If you don't want the UI stuff, just add the regex script. Then go here: [Console copy paste](https://rentry.org/creamsan#console-copy-paste).
-	Neocities has some caching idk and will return an old version of the json file. Will add nocache thingy later.
 ***
 
-### Utility preset and regex script:
+### QR preset and regex script:
 
-1. Download the **Utility preset** above.
+1. Download the **Quick import** above.
 
-2. In SillyTavern, go to Extensions > Quick Reply. Enable Quick Replies, then import **creamsan.json**. Click on the Global Quick Reply Sets plus icon and select **creamsan**. Do the same if you want to update this preset.
-![1](https://files.catbox.moe/zgwib2.png)
+2. In SillyTavern, go to Extensions > Quick Reply. Enable Quick Replies, then import **qr-quick-import.json**. Click on the Global Quick Reply Sets plus icon and select **qr-quick-import**. Do the same if you want to update this preset.
+![1](https://files.catbox.moe/9l75tz.png)
 
 3. For the regex script, download the **Regex script** above.
 
@@ -140,25 +139,29 @@ Notice that there's a new button **Update Presets** in the message box. You can 
 You should see the following popups:
 ![1](https://files.catbox.moe/4kcsmq.png)
 .
-![1](https://files.catbox.moe/0kewcr.png)
+![1](https://files.catbox.moe/yqwha7.png)
 .
 ![1](https://files.catbox.moe/8ekwt2.png)
 
-**The ok button will appear when done, followed by the message. Reload ST after this.**
+**The ok button will eventually appear when done, followed by the message below. Reload ST after.**
 ![1](https://files.catbox.moe/y35czc.png)
 
+After reloading and if all goes well. You should see the updated/new presets.
+![1](https://files.catbox.moe/fqo3uj.png)
+
+Don't forget to add **creamsan** to the Global Quick Reply Sets.
 To hide the **Update Presets** button, simply uncheck the **Buttons** checkbox. You can check this again later to update QRs.
-![1](https://files.catbox.moe/k5k7m6.png)
+![1](https://files.catbox.moe/sz50ay.png)
 
 ### Adding your own presets:
 
-You can choose to remove/add a preset in the selection. Go to Quick Replies > Edit Quick Replies and select creamsan. Once selected, click the three dots next to **Update Presets** to edit. You will see the **presetname : URL** key-value pairs for the QRs.
-![1](https://files.catbox.moe/t5qosg.png)
-![1](https://files.catbox.moe/72sp2m.png)
+You can remove/add a preset from the selection. Go to Quick Replies > Edit Quick Replies and select **qr-quick-import**. Once selected, click the three dots next to **Update Presets** to edit. You will see the **presetname : "URL"** key/value pairs for the QRs at the top. When adding, follow the formatting pattern.
+![1](https://files.catbox.moe/zy5em5.png)
+![1](https://files.catbox.moe/y97yo6.png)
 
 ### Console copy paste:
 
-If you just want a very quick QR import without the hassle above, go to the ST tab, open console by pressing F12 and then paste and enter the code below. You can modify the QR json urls by removing/adding links. Reload ST afterwards. Note that after reloading you have to select creamsan as global QR set again.
+If you just want a very quick QR import without the hassle above, go to the ST tab, open console by pressing F12 and then paste and enter the code below. You can modify the QR json urls by removing/adding links. Reload ST afterwards. After reloading, make sure that creamsan is still in the Global Quick Reply sets.
 
 ```
 (async () => {
@@ -300,11 +303,6 @@ If you just want a very quick QR import without the hassle above, go to the ST t
     console.log("Done");
 })();
 ```
-
-###Success:
-
-After reloading and if all goes well. You should see the updated/new presets.
-![1](https://files.catbox.moe/fqo3uj.png)
 
 ###Cards:
 

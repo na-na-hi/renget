@@ -12,7 +12,7 @@
 -> ![header](https://media.discordapp.net/attachments/1126713705346904095/1208596962543144980/barinhas29.gif?ex=65e3dca2&is=65d167a2&hm=559f0cd1fa2d003fe6498091003de7298b25e68184f8a6f4cfd27061c7993f0a&) <-
 
 -> ==**ran haitani urls**== <-
--> %black% !~[ranlotte](https://rentry.co/ranlotte)~! , !~[orchidtani](https://rentry.co/orchidtani)~! , ashvalleyran , ranswife , femranhaitani , ranmai %% <-
+-> %black% !~[ranlotte](https://rentry.co/ranlotte)~! , !~[orchidtani](https://rentry.co/orchidtani)~! , ashvalleyran ,!~[ranswife](https://rentry.co/ranswife)~! , femranhaitani , ranmai %% <-
 
 -> ![header](https://media.discordapp.net/attachments/1126713705346904095/1208596962543144980/barinhas29.gif?ex=65e3dca2&is=65d167a2&hm=559f0cd1fa2d003fe6498091003de7298b25e68184f8a6f4cfd27061c7993f0a&) <-
 

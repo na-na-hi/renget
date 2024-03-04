@@ -287,6 +287,7 @@ https://files.catbox.moe/xv8o6t.safetensors character_sparkle_honkai_star_rail l
 https://files.catbox.moe/26s9wl.safetensors character_purah activation trigger is purah. example gen: https://files.catbox.moe/8oh179.png
 https://files.catbox.moe/mugz6g.safetensors character_elegg_nikke activation trigger is elegg
 https://files.catbox.moe/ydfkfj.safetensors character_seele_starchasm_nyx activation trigger is seele vollerei (starchasm nyx), example gen: https://files.catbox.moe/oki6x0.png
+https://files.catbox.moe/0escz4.safetensors character_sindel activation trigger is sindel, helps to have multicolored_hair in the prompt to get the black streak in her hair to show up
 
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen

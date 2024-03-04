@@ -1,10 +1,5 @@
-!!! note
-     %black% *** Sumo Links *** %%
-     *Updated: February 3, 2024 - License: CC BY-SA 4.0*
-     
-Index:
 [TOC]
-
+## Sumo Links
 #### Sumo basics
 
 https://en.wikipedia.org/wiki/Glossary_of_sumo_terms
@@ -81,9 +76,6 @@ https://www.dailymotion.com/holaabema123/playlists
 NHK World-Japan (in English; daily highlights deleted a few weeks after the tournament)
 https://www3.nhk.or.jp/nhkworld/en/tv/sumo
 
-NattoSumo (see also backup links in his discord)
-https://rumble.com/user/NattoSumo
-
 Sumo Jason
 https://www.youtube.com/@sumojason/videos
 
@@ -93,7 +85,9 @@ https://rumble.com/user/Kintamayama
 Tournament Highlights (available 3 days after the tournament; deleted when the new banzuke is published)
 https://sumo.or.jp/EnHonbashoTopicsKoTorikumi15/wrap
 
-Note: you can also rewatch the live streamings if they are still up.
+Notes:
+- for NattoSumo highlights see links in his discord.
+- you can also rewatch the live streamings if they are still up.
 
 
 #### News
@@ -199,7 +193,7 @@ https://discord.gg/MkrdQ3t
 Sumo Wrestlers United
 https://discord.gg/4R7whZc
 
-SUMO (Davit)
+My Sumo Family (Davit)
 https://discord.gg/tYuhEf4nck
 
 Road-To-Yokozuna
@@ -434,7 +428,7 @@ http://sumoelo.org.uk
 Sumo Stats
 https://sumostats.substack.com/archive
 
-Michael’s Substack
+Ozeki Analytics
 https://ozekianalytics.substack.com/archive
 
 Nikkan Sports rikishi popularity poll
@@ -579,6 +573,9 @@ https://www.youtube.com/@insidethedohyo/videos
 
 42 Opinions 
 https://www.youtube.com/@42opinions43/videos
+
+Kinboshi Sumo
+https://www.youtube.com/@kinboshisumo5436/videos
 
 Sumo Spiffy's Bar & Grill
 https://www.youtube.com/@sumospiffysbarandgrill/videos
@@ -909,6 +906,8 @@ https://thesumosoul.com
 https://shop.usasumo.com
 
 https://www.buysumotickets.com
+
+https://tegatastore.com
 
 Edo Sumo Goods Ryogoku Takahashi
 http://edo-sumo.d.dooo.jp

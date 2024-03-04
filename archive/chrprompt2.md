@@ -31,18 +31,49 @@ The edit code for this rentry is **anniversary**
 
 [TOC2]
 
-#**Individual Questions**
+##->**Individual Questions**<-
 
-##**Delete this once there's someone gets a question here**
+###Beast 
+Q1: What is you relationship with Ronnie?  Has your opinion of him changed since you first met?
 
-#**General Questions**
+###Sneasel 
+Q1: Booker is getting closer and closer to flying.  Is there a part of you that'll be sad once he's less dependent on you?
 
-**Former humans, if you could write a letter back home, what would you write and to whom?**
+###Jung
+Q1: How and when did you meet Sara? 
+Q2: Have you met any Clover Guild individuals besides Lliam?
 
-#**Pair Questions**
+###Rasmus
+Q1: You joined the Guild around Halloween.  How has your experience been since then?  Good?  Bad?
 
-##**Delete this once there's someone gets a question here**
+###Nick 
+Q1: Given your title as a researcher, do guild members ever ask you difficult or odd questions?
+Q2: Do you get along well with the other research-oriented guildmons?
 
-#**Lore and Misc Questions**
+###Pochi
+Q1: Is Nida still committing crimes?
 
-##**Delete this once there's someone gets a question here**
+###Makky
+Q1: It is well known that you love to eat food, but do you have any favorite foods?  Or is the more the merrier?
+
+###Tybo
+Q1: Do you accept pets?  If so, from who?  
+
+###Fern
+Q1: How do you deal with being so fluffy?
+
+###Phanpy
+Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
+
+
+##->**General Questions**<-
+
+Former humans, if you could write a letter back home, what would you write and to whom?
+
+##->**Pair Questions**<-
+
+**Delete this once there's someone gets a question here**
+
+##->**Lore and Misc Questions**<-
+
+**Delete this once there's someone gets a question here**

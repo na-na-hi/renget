@@ -91,3 +91,23 @@ Goose Neck Silver: https://rentry.org/cxi44
 ## Writefags
 Goose Neck Silver Back Story (1787 words): https://rentry.org/cinw8
 A Dragon's Dilemma (Ancalaga): https://rentry.org/ev6x8
+
+##Turns
+>DAY 1:
+https://desuarchive.org/tg/post/91045750/
+>DAY 2:
+https://desuarchive.org/tg/post/91051656/
+>DAY 3:
+https://desuarchive.org/tg/post/91059073/
+>DAY 4:
+https://desuarchive.org/tg/post/91070426/
+>DAY 5:
+https://desuarchive.org/tg/post/91082651/
+>Day 6:
+https://desuarchive.org/tg/post/91091642/
+>Day 7:
+https://desuarchive.org/tg/post/91102274/
+>Day 8:
+https://desuarchive.org/tg/post/91117368/
+>Day 9:
+https://desuarchive.org/tg/post/91134596/

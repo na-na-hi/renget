@@ -13,7 +13,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 13 | **Experience to Next Level:** 92/130
+**Level:** 13 | **Experience to Next Level:** 107/130
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 792₽ | **Glorious Gold:** 0 Bars
 
@@ -67,10 +67,12 @@ Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Attribute: Pyromancy **ɪɪɪ** | ᴍᴀx (+3) | Helps with manipulation of fire.
 Attribute: Thaumaturgy **ɪɪɪ** | ᴍᴀx (+3)  | To master the methods of magic.
+Stat: Special Attack **ɪ** | Tier **ɪ** (+1) | Refining the light within.
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Attribute: ??? | Tier **ɪ** (+1) | 0/3 | ▯▯▯
+Currently Training for Stat: Special Attack **ɪɪ** | Tier **ɪɪ** (+2) | 1/9 | ▮▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

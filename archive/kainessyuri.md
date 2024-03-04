@@ -3,6 +3,6 @@
 -> best kaiser fan ×7 <-
 -> best isagi fan ×3 <-
 -> best chiaki nanami fan <-
--> best ran haitani fan <-
+-> best ran haitani fan ×2 <-
 -> best izana kurokawa fan <-
 -> best yachiyo nanami fan <-

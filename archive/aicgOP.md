@@ -13,6 +13,7 @@ Comment:
 The Edition
 
 >News
+Anthropic released the Claude 3 family https://www.anthropic.com/news/claude-3-family
 Mistral AI released Mistral Large https://mistral.ai/news/mistral-large/
 Google released Gemini API and announced Gemini 1.5 https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/
 Google released Gemini Ultra https://gemini.google.com

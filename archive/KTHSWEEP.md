@@ -181,3 +181,6 @@ https://rentry.org/TOILING
 ### Tierlists
 >Template
 https://tiermaker.com/create/kth-multiplayer-906356
+
+### Card Template
+https://files.catbox.moe/bgwmn0.xcf

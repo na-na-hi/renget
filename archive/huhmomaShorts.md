@@ -1042,3 +1042,56 @@ Water Cooler Talk by anonymous
 >This isn’t good.
 
 ---
+Rehabilitation by anonymous
+
+>Ywn be sentenced to jail for trumped up criminal charges after the K9 unit wrongfully assigns blame to you in a hit and run case
+>You were expecting orange jumpsuits, solitary confinement and a careful dance to avoid dropping the soap, but when you arrive to the fancy new jail downtown, you're instead met with some coke-bottle-glasses wearing shrink instead of the warden
+>He's some kind of professor in criminal psychiatry, and as he explains to you, he's here to use (you) as his experimental group in a new study on rehabilitating anthro prisoners
+>"It's quite simple you see, Mr. Anonymous! I've been following your case and, frankly, I am all but entirely certain that they have the wrong human. So, if you're going to be institutionalized, I figured we could at least reach a mutually beneficial arrangement!"
+>"You see, it's long been known that humans have a sort of... psychological effect on anthropomorphic kind. Emotional stabilizing, stress neurotransmitter downregulation, psychosexual fixation..."
+>"Err... well, what a layhuman needs to know is that your presence COULD, possibly, be instrumental in rehabilitating some of the most far-gone anthro criminals back into society! Basically, we want you to fix him!"
+>"And since you're most likely not a criminal and are a normal, functioning human member of society, there's nobody better within the entire prison system to be our first subject-H!"
+>"And don't worry, there's an upside to this for you, too! Just do this for us and I can make sure that any felony charges against you will be dropped. The sort of deal that's too good to refuse, wouldn't you agree?"
+>That's how it was sold to you, anyway, and at the time it was a no-brainer to accept
+>Until you were brought to your new roommate's cell, only to be met with half maddened, bloodshot, predatory eyes and a threatening low growling emitting from his muzzle
+
+Not gay but I could pick it up
+>You can do nothing but stare, motionless as the cell door creaks shut behind you. Trapped with some sadistic fucking mutt. First legally, now physically? This is some kafkaesque shit.
+>The hairs on the nape of your neck shoot up as your "roommate" bares a full set of fangs. 
+>The tension is thick enough to cut with a knife. It seems the wolfman is steeling himself for the change in company.
+>In an instant, he lunges towards you. From sitting to sprinting in half a second.
+>You panic as he encroaches. Your skin goes white cold, while your heart tries to break out of your ribcage. Any training you had is instantly forgotten.
+>His guttural roar fills the space, and the white-hot glint of his canines make you close your eyes.
+>previously, you thought that the false accusations would be the worst thing to happen to you. But thinking again, the imminent death might just top it.
+>Wait, since when did you have the time to think?
+>The growl stops, echoing away through the prison hall. After a second, you relent and peek.
+>To your surprise, the criminal is frozen 3 feet from you, inhibited only by his chains.
+>You sigh in relief, although you aren't out of the woods yet.
+>"Now, Anon." Pipes the instructor. "For safety, don't get close to him unless he has one of these on."
+>He fiddles with a brown leather muzzle before sliding it between the bars and handing it to you. Some special-looking oven mitts too.
+>How the fuck are you even going to get this on him!? You glare at the psychologist and scream-whisper your complaints.
+>He only smiles. "Remember your leverage, subject H. You have more than you think." Doc plods off to the camera room. "Success is more likely if it's just you two, so I'll be off now. Just holler if you have any trouble."
+>Turning back to the menace ahead, you can get a better look at him. He's nearly seven feet tall and gets plenty of protein. His gray-green fur is oily, overgrown and matted. You can hardly tell where his undercoat begins. When he exhales in your direction, the smell of tartar on his molars nauseates you. Remember your debriefing. 
+>"Leverage?" The word bounces in your head. That better not have sexual implications. You'd rather die than be a sex slave. And it really is life or death. 
+>There has to be another way to assert yourself. You're the free man here... slightly freer, anyway. 
+>You stop cowering and straighten your posture. Extending your right arm, you offer the muzzle to him.
+>"Listen here, big guy. Put this thing on, I'm not going t-" 
+>A meaty paw smacks the garment out of your hands. "Don't touch me with that shit," he snarls.
+>You pull your hand away. "You don't understand; I'm not here to hurt you."
+>"AHAHAHAHA!" His face flies upward from the recoil of his gruff laughter. "You couldn't hurt me if you tried, pinky!"
+>You ignore him. "I'm here for your... emotional support." God, even YOU can't believe you've fallen so low. "Studies show that humans are uniquely suited fo-"
+>"Cut the science bullshit. I know why you're here," the wolf scoffs. "And I don't care. You're not the first 'roommate' I've had. And you're not gonna be my ticket out of here."
+>You've got no answer. Well, actually... "I know I'm the first human. And I'm your last shot before the Shepherds euthanize you." 
+>His brow lowers as his yellow eyes fixate on you, trying to call your bluff. You don't flinch.
+>You continue, stern. "If you don't trust me, you'll never see the Sun again." 
+>He glances at his dirty bunk, but retains some resolve.
+>He levels with you. "Look, I'm not going to be broken. Especially not by some scrawny fuck who knows nothing about how the other half lives."
+>You try to show heart. "Look, I can't possibly relate to your history, or the trauma that got you here. But we both know that it's not entirely your fault. I've seen how they treat people in the wolven district. And I'm sorry that you ended up here... Lupe." It feels weird to say his name. His ear twitches at its mention.
+>The wolf stares dejectedly at the muzzle on the concrete. He considers saying something before swallowing the thought.
+>You use your momentum. "I'm not here by choice either. I got fucked over by the cops and bureaucrats, just like you. And every day, I miss the warmth of my loved ones. Don't you?"
+>"You're not gonna break me." He protests, quieter this time.
+>"You're already broken, Lupe." You start, picking up the muzzle and offering it again. 
+>"And I'm gonna fix you. Okay?"
+(End for now) 
+
+---

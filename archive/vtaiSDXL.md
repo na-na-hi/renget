@@ -69,7 +69,7 @@
 -> ![PHASE-CONNECT](https://files.catbox.moe/fv0h8r.png) <-
 ***
 ##### -> Jelly Hoshiumi <-
--> [Civitai](https://civitai.com/models/95498/jelly-hoshiumi-phase-connect)
+-> [Civitai](https://civitai.com/models/95498/jelly-hoshiumi-phase-connect) <-
 ##### -> Pipkin Pippa <-
 -> [Civitai](https://civitai.com/models/317588/pipkin-pippa-phase-connect-xl) <-
 ##### -> Eimi Isami <-
@@ -394,7 +394,7 @@
 !!! info Example Prompt
 	[TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427)
 -> [Catbox](https://files.catbox.moe/7u3yvi.safetensors)  <-
-or
+-> or <-
 !!! info Example Prompt
 	In the link
 -> [Civitai](https://civitai.com/models/309995/dokibird-virtual-youtuber) <-
@@ -467,7 +467,7 @@ or
 ##### -> Gawr Gura <-
 !!! info can do 3 outfits?
 -> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/file/9fpjgDpS) <-
-or
+-> or <-
 !!! info can do 7 outfits
 -> [Civitai](https://civitai.com/models/326585/gawr-gura-xl-7-outfits-hololive) <-
 
@@ -480,6 +480,9 @@ or
 !!! info Example Prompt
 	Koseki Bijou, long hair, tiara, white dress, long dress, detached sleeves, bare shoulders, bracelet,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+-> or <-
+!!! info other lora, check tags from metadata?
+-> [Catbox](https://files.catbox.moe/etc37e.safetensors) <-
 
 ##### -> Shiori Novella <-
 !!! note Tags suggested by uploader, not me
@@ -498,7 +501,7 @@ or
 !!! info Example Prompt
 	Fuwawa Abyssgard, pink eyes, long hair, large breasts, blue hairband, hairpin, collar, white dress, cleavage, black jacket, belt, fur trim,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
-or
+-> or <-
 !!! info other lora, check tags from the uploader
 -> [Civitai](https://civitai.com/models/331762/fuwawa-abyssgard-for-ponyxl) <-
 
@@ -507,7 +510,7 @@ or
 !!! info Example Prompt
 	Mococo Abyssgard, blue eyes, medium hair, small breasts, pink hairband, hairpin, x hair ornament, collar, white crop top, black cropped jacket, white shorts, belt, fur trim
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
-or
+-> or <-
 !!! info other lora, check tags from the uploader
 -> [Civitai](https://civitai.com/models/331773/mococo-abyssgard-for-ponyxl) <-
 
@@ -661,6 +664,7 @@ or
 ***
 ##### -> Projekt Melody <-
 -> [Civitai](https://civitai.com/models/327337/projekt-melody-for-ponyxl) <- 
+
 ##### -> Nyatasha Nyanners <-
 -> [Civitai](https://civitai.com/models/332979/nyanners-vtuber) <-
 

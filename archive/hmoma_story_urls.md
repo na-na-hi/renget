@@ -304,3 +304,4 @@ https://web.archive.org/web/20200530220346/https://pastebin.com/jEcMV117 (Minota
 https://web.archive.org/web/20200530231059/https://pastebin.com/jSANQTLh (Country Club by Kaeos)
 https://web.archive.org/web/20200531001018/https://pastebin.com/rBYTMBFK (On the prowl by Kaeos)
 https://web.archive.org/web/20200530221009/https://pastebin.com/sAUUg37J (Renekton's Wreck by TypicalWriter)
+https://web.archive.org/web/20200531000822/https://pastebin.com/Y0YBkbpz (Devious Deities 2: Frisky Fecund Foxes Foment Freaky Fucking by anonymous)

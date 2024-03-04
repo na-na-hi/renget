@@ -4,7 +4,7 @@
 
 -> ==Smiley Proxy== <- | -> ==NAI Styles== <- | -> ==Cute Draws== <-
 :----: | :----: | :----:
--> [[ Click Here ]](https://rentry.org/SmileyProxy) <- | -> [[ Click Here! ]](ttps://rentry.org/SmileyNAIArtists) <- | -> [[ Click Here! ]](https://rentry.org/SmileyDraws ) <- | 
+-> [[ Click Here ]](https://rentry.org/SmileyProxy) <- | -> [[ Click Here! ]](https://rentry.org/SmileyNAIArtists) <- | -> [[ Click Here! ]](https://rentry.org/SmileyDraws ) <- | 
 
 ***
 
