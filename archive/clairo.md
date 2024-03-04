@@ -1,3 +1,6 @@
-Omfg i can't keep redecorating this
-enny 14 she/her
-https://rentry.co/edward
+-> [urls](/edward) / **[info on palestine](/lmfao)**<-
+-> ![](https://imagedelivery.net/57rIj2o4cJ62boUSs_DLpA/4c757485-3aa8-44e0-e216-bf5dcb749900/public) <- 
+-> enn*y* ₊ %aliceblue% she ៸ her  %%<-
+->nonbinary bi <-
+-> !~aliceblue;wavy; fifteen~! .. autistic  <-
+-> happy bday to me <-

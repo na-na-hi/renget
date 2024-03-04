@@ -1,11 +1,16 @@
 # ***/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)***
 
 ---
-## ***Threads: [[1-151]](https://rentry.co/iftod/) | [[151 - 258]](https://rentry.org/sfbf5/) | [258 - current] ***
+## ***Threads: [[1-151]](https://rentry.org/iftod/) | [[151 - 258]](https://rentry.org/sfbf5/) | [258 - 273] | [[274 - current]](https://rentry.co/68rex2dp/) ***
 
 ---
-##***Most recent thread scraped: #270***
 An ongoing collection of the multitude of bite-sized shorts that creative anons have posted throughout the years. Some of these works have made the rounds in the form of screencaps, but are still included for the sake of consistency. **Not exhaustive in the slightest.**
+
+%darkgreen%>Why are there multiple bins?%%
+
+Rentry has a 200k character limit.
+
+---
 >Quoted text = context
 
 !!! danger
@@ -591,6 +596,22 @@ END PART 1
 \>”The human has paid, Izen. Paid well.”
 \>The Great Izuchi, Izen, looks you over like a butcher looking over a prime piece of Aptonoth meat.
 \>”So I see.” He takes a step forward. “Paid you, Kanna. But you wouldn’t deny your dear, beloved brother his fair share, now would you?”%%
+
+---
+###*Jaggi(a)*
+
+=============================================
+
+>[I FUCKING HATE JAGGIAS
+>IM GOING TO HUNT 100 JAGGIAS RIGHT NOW](https://desu-usergeneratedcontent.xyz/trash/image/1707/08/1707085296009.png)
+>>\>[Diablos was later found unconscious, twitching, fully erect, with several parts broken, and covered in pelvic bruises and several different bodily fluids, most of which was a copious amount of his own semen
+>>\>there were no other monsters sighted in the area, apart from an otherwise unperturbed group of Jaggia lounging in the shade nearby](https://desu-usergeneratedcontent.xyz/trash/image/1702/35/1702351299592.jpg)
+>>>[2--300 JAGGIAS!!!!](https://desu-usergeneratedcontent.xyz/trash/image/1531/80/1531800972705.png)
+
+%darkgreen%\>Hunter's Log: Our hunting party arrived at the area where the incredibly rare Bloodbath Diablos had been sighted, but it seems that the normally cataclysmic threat had somehow already been dealt with. We had thought the beast sleeping when we initially approached, full bellies, dusted up, and with weapons drawn, yet once we had gotten closer, we found that the beast actually appeared to have been thrashed within an inch of it's life. We could only assume that whatever had taken the beast down must have had a hell of a time with it, because the nearly the entire surrounding area had been flattened and gouged and otherwise destroyed to the point of almost being unrecognizable.
+Upon closer inspection, we discovered that the beast was also soaked in copious amounts of monster fluid - exactly WHAT monster's fluid, we didn't know. The bowgunner has collected some and sent it back to the eggheads in Research for analysis, so if there is an even more dangerous monster in the area, we'll soon know. In the meantime, we captured the monster and had it transported back to town, but we're still uneasy about the whole thing.%%
+For now, it seems that the local wildlife has realized that the danger is over and has begun moving back into the area. We even had a few Jaggia directly approach us after we had set up camp for the night. They seemed to be strangely calm with the whole situation, but regardless, we offered them some raw meat to make up for lost hunting time that the Diablos likely caused, and got ourselves some appreciative nuzzles in repayment. Lovely creatures, when they aren't trying to bodyslam you for running through their nest on the way to another zone. 
+
 
 ---
 ###*Jagras*
@@ -1955,3 +1976,5 @@ And when they ask? Why, you had it all planned.
 \>ywn whisper, in your sultriest voice, that you won't be long and he won't risk failing his quest but that doesn't mean it won't be memorable
 \>ywn walk away bow-legged and with a newfound taste for young, inexperienced hunters
 \>ywn start posting your own low rank quests%%
+
+---

@@ -23,6 +23,10 @@ Yaara: https://i.imgur.com/6PUxrzs.png
 ####Writing Tools and Resources
 https://rentry.org/Writing-Resources-and-Other-Things
 
+https://www.novelcrafter.com/ - fancy UI like SillyTavern but has better features; you plug in an API to use it. ToS looks reasonable.
+
+https://www.together.ai/ - access to Llama base / instruct models for cheap, they said they don't log shit in the privacy policy and on their Discord, interfaces with Kobold nicely
+
 ####Anon's NovelAI Guides
 https://rentry.org/co-writing-guide
 https://rentry.org/memory-guide

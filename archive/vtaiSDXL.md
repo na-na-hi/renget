@@ -191,6 +191,14 @@
 	clara, long hair, blue hair, blue eyes, rabbit ears, multicolored hair, medium breasts, hat, bare shoulders, streaked hair, wrist cuffs, side ponytail, playboy bunny, top hat, pantyhose, fake animal ears, white leotard, see through
 -> [Catbox](https://files.catbox.moe/s95lv3.safetensors) <-
 
+##### -> (InvadersGen 1) Kaneko Lumi <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	Second Outfit: kanekolumi, blue eyes, blonde hair, white crop top, sleeveless turtleneck, long hair, large breasts, thighhighs, navel, cleavage, bare shoulders, midriff, white shorts, black thighhighs, clothing cutout, thigh strap, underboob, halos, double buns, hair ornament, black star (symbol), toeless legwear, arm strap, underboob cutout
+	Third Outfit: kanekolumi, long hair, breasts, bangs, blue eyes, blonde hair, hair ornament, gloves, dress, cleavage, bare shoulders, medium breasts, choker, black gloves, fingerless gloves, white dress, single braid, thigh strap, black choker, halo, white jacket, halterneck,
+-> [Catbox](https://files.catbox.moe/eq6rzn.safetensors) <-
+
 ##### -> (AliAS) Makina Erina <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
@@ -215,6 +223,13 @@
 !!! info Example Prompt
 	runieruse, long hair, jewelry, earrings, dress, purple eyes, black dress, pink hair, cleavage, bare shoulders, tiara, hair between eyes, black gloves
 -> [Catbox](https://files.catbox.moe/louey7.safetensors) <-
+
+##### -> (OriginS) Utatane Nasa <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	utatanenasa, short hair, bangs, red eyes, claws, blonde hair, brown hair, shirt, long sleeves, hair between eyes, jewelry, blue hair, multicolored hoodie, multicolored hair, earrings, horns, choker with lock, fang, two-tone hair, skin fang, off shoulder, bare shoulders, zipper, colored inner hair, dragon girl, orange claws,
+-> [Catbox](https://files.catbox.moe/wap0o7.safetensors) <-
 
 #### -> Idol Corp <-
 -> ![IDOL](https://files.catbox.moe/me68yc.png) <-

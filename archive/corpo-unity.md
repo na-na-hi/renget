@@ -136,10 +136,13 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/Specialite_EN)
 	- [Website](https://reality-studios.inc/en/)
 
+- StellarVersePro
+	- [Twitter](https://twitter.com/StellarVersePro)
+	- [Website](https://reality-studios.inc/en/)
+
 - V-Dere
 	- [Twitter](https://twitter.com/VirtualDere)
-	- [Website](https://v-dere.moe/)
-	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/V-Dere)
+	- [Website](https://www.stellarversepro.com/)
 
 - V&U
 	- [Twitter](https://twitter.com/VNUofficial)
@@ -150,6 +153,11 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/V4Mirai)
 	- [Website](https://v4mirai.com/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Brave_Group)
+
+- VDoki
+	- [Twitter](https://twitter.com/VDokiOfficial)
+	- [Website](https://www.vdoki.com/)
+	- [YouTube](https://www.youtube.com/@vdokiofficial)
 
 - VEE
 	- [Twitter](https://twitter.com/_vee_official_)
@@ -169,6 +177,9 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Twitter](https://twitter.com/VReverieLive)
 	- [Website](https://v-reverie.com/)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/VReverie)
+
+- Yume+
+	- [Twitter](https://twitter.com/YumePlusEN)
 
 ### List of Company Mascots
 
@@ -200,6 +211,10 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 - HighTideSha
 	- [Twitter](https://twitter.com/hightidesha)
 	- [Website](https://www.tetrapodsha.com/hightidesha)
+
+- V-Tomo Project
+	- [Twitter](https://twitter.com/VTomoPro)
+	- [Carrd](https://vtomo.carrd.co/)
 
 ### List of Defunct Corpos
 

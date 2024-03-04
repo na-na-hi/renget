@@ -61,7 +61,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ![Escape the Dungeon](https://creamsan.neocities.org/files/cards/escapethedungeon.png) | Escape the Dungeon | Escape the dungeon with a cute mage companion. | [CHUB](https://chub.ai/characters/creamsan/escape-the-dungeon-cb70d8d5) [Neocities](https://creamsan.neocities.org/#escape_the_dungeon)
 ![Team Neko](https://creamsan.neocities.org/files/cards/teamneko.png) | Team Neko | Your team got separated from the main group, now you have to rejoin them, but first you have to fend off enemy tanks. (GUP Non-canon chars)  | [CHUB](https://chub.ai/characters/creamsan/team-neko-e4f1b2f8) [Neocities](https://creamsan.neocities.org/#team_neko)
 ![Battlestripsv2](https://creamsan.neocities.org/files/cards/battlestripsv2.png) | Battlestrips v2 | Strip Battleships game. | [CHUB](https://chub.ai/characters/creamsan/battlestrips-v2-3466337a) [Neocities](https://creamsan.neocities.org/#battlestrips_v2)
-![Tessa](https://creamsan.neocities.org/files/cards/tessa.png) | Tessa | Create things together with this mysterious girl. You start with 4 elements: fire, earth, water, wind. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#tessa)
+![Tessa](https://creamsan.neocities.org/files/cards/tessa.png) | Tessa | Create things together with this mysterious girl. You start with 4 elements: fire, earth, water, and air. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#tessa)
 ![Sini](https://creamsan.neocities.org/files/cards/sini.png) | Sini | Finnish girl to interact with. She'll slowly form a persona about you as you chat. A blank persona is recommended. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/sini-2a5d066e) [Neocities](https://creamsan.neocities.org/#sini)
 
 ***
@@ -73,66 +73,37 @@ Add to your JB/prefill: `Follow the <rules> closely.` or something like that.
 Some of them use CoT. To remove those thoughts, add a regex script to SillyTavern. Download this: [Regex script](https://creamsan.neocities.org/files/presets/removecot.json). Once downloaded, go to Extensions > Regex, click on Import Script, then select the file you downloaded (**removecot.json** should be the filename).
 
 ***
-##QR PRESETS
+##JSON FILES
 See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
-Card | Link | Version | Update Notes
---- | --- | --- | ---
-Utility preset | [Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Feb-28-24 | 
-Ms. Keyes v2 | [QR preset](https://creamsan.neocities.org/files/presets/mskeyesv2.json) | Jan-20-24 | 
-Victoria | [QR preset](https://creamsan.neocities.org/files/presets/victoria.json) | Feb-9-24 | 
-Ayame | [QR preset](https://creamsan.neocities.org/files/presets/ayame.json) | Feb-29-24 | ***Updated***
-Blanche | [QR preset](https://creamsan.neocities.org/files/presets/blanche.json) | Feb-29-24 | ***Updated***
-Gacha Lolis | [QR preset](https://creamsan.neocities.org/files/presets/gachalolis.json) | Feb-9-24 | 
-Escape the Dungeon | [QR preset](https://creamsan.neocities.org/files/presets/escapethedungeon.json) | Feb-9-24 | 
-Team Neko | [QR preset](https://creamsan.neocities.org/files/presets/teamneko.json) | Feb-11-24 | 
-Battlestrips v2 | [QR preset](https://creamsan.neocities.org/files/presets/battlestripsv2.json) | Feb-9-24 | 
-Tessa | [QR preset](https://creamsan.neocities.org/files/presets/tessa.json) | Feb-28-24 | 
-Sini | [QR preset](https://creamsan.neocities.org/files/presets/sini.json) | Feb-29-24 | ***Updated***
+File | Version
+--- | ---
+[Utility_preset](https://creamsan.neocities.org/files/presets/creamsan.json) | Mar-4-24
+[Regex_script](https://creamsan.neocities.org/files/presets/regexreplace.json) | Feb-10-24
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
-Updated on **Feb-9-24**
-Regex scripts can now be imported. Requires the latest ST version. There are some fixes in there too, like the pipe symbol is now properly escaped. If you're still in older versions, regex will probably break.
-The red /abort errors are still annoying. No, nothing's broken, I think.
-Extra setup further below for Image gen and JS.
+!!! note Updated on **Mar-4-24**
+	Quick QR preset importer implemented. Huge thanks to stscript anon for providing the code. https://rentry.org/stscript#making-stscript-cards-easy-to-set-up. **Requires JS setup first.**
+	Note that you will still need to update the utility preset by manually importing it, as it is not included in the quick import.
+	I forgot to do this, but JS codes are now wrapped in IIFE. While there was no problem without it, this is still safer.
+	If you don't want the UI stuff, just add the regex script. Then go here: [Console copy paste](https://rentry.org/creamsan#console-copy-paste).
+	Neocities has some caching idk and will return an old version of the json file. Will add nocache thingy later.
 ***
 
-### Setup here:
+### Utility preset and regex script:
 
-1. Download the **card's QR preset and Utility preset** above.
+1. Download the **Utility preset** above.
 
-2. In SillyTavern, go to Extensions > Quick Reply. Enable Quick Replies, then import the files by clicking the import icon and selecting the downloaded files.
-![1](https://files.catbox.moe/srtb12.jpg) 
+2. In SillyTavern, go to Extensions > Quick Reply. Enable Quick Replies, then import **creamsan.json**. Click on the Global Quick Reply Sets plus icon and select **creamsan**. Do the same if you want to update this preset.
+![1](https://files.catbox.moe/zgwib2.png)
 
-3. After importing, click the Global Quick Reply Sets plus icon, and then select **creamsan**.
-![1](https://files.catbox.moe/zj8p7d.jpg) 
+3. For the regex script, download the **Regex script** above.
 
-4. For the regex script, download this first: [Regex script](https://creamsan.neocities.org/files/presets/regexreplace.json)
-
-5. Go to Extensions > Regex. Click Import Script, then select the downloaded file (**regexreplace.json** should be the filename).
+4. Go to Extensions > Regex. Click Import Script, then select **regexreplace.json**.
 ![1](https://files.catbox.moe/0zojv8.jpg)
 
-**And done.**
-
-You'll know it's working when you get an initialization message when you select one of my scripted cards.
-You may notice a new Send button in the input field. Use the **QR Send button (green) for scripted inputs**, and use the **normal Send button (yellow) for normal inputs**. For example, with Ms. Keyes' card, use the QR Send button when you want to automatically append your time and grade, and use the normal Send button when the test is over and you want to interact normally.
-I would recommend using QR Send all the time though.
-
-![1](https://files.catbox.moe/5oj0g7.jpg)
-![1](https://files.catbox.moe/npo2lv.jpg)
-
-***
-##JAVASCRIPT SETUP
-This is for my cards that use JS.
-Follow carefully or you'll get mustard gas (jk, worst case, the card will not work)
-Huge thanks to stscript anon for sharing how to enable JS with STScript: https://rentry.org/stscript
-Be sure to check the link as it explains more about why we do this setup. I also copied some of the codes there.
-***
-
-###Browser extension:
-
-You'll only need to do this once.
+### Browser extension:
 
 1. First, install a user script browser extension. I use ViolentMonkey. Other similar extensions should work too. Just search the Firefox Addons page or Chrome Web Store. These are all the ones I know:
 - Violentmonkey
@@ -159,13 +130,197 @@ DOMPurify.sanitize = str => str.startsWith("#STSCRIPT") ? str.replace("#STSCRIPT
 Even better, something like this:
 ![1](https://files.catbox.moe/vo1b3q.png)
 
-5. Save and close.
+5. Save and close. Reload ST if open.
 
-**Browser extension done.**
+### Quick Import:
+
+Notice that there's a new button **Update Presets** in the message box. You can click it and start updating.
+![1](https://files.catbox.moe/b0uo7e.png)
+
+You should see the following popups:
+![1](https://files.catbox.moe/4kcsmq.png)
+.
+![1](https://files.catbox.moe/0kewcr.png)
+.
+![1](https://files.catbox.moe/8ekwt2.png)
+
+**The ok button will appear when done, followed by the message. Reload ST after this.**
+![1](https://files.catbox.moe/y35czc.png)
+
+To hide the **Update Presets** button, simply uncheck the **Buttons** checkbox. You can check this again later to update QRs.
+![1](https://files.catbox.moe/k5k7m6.png)
+
+### Adding your own presets:
+
+You can choose to remove/add a preset in the selection. Go to Quick Replies > Edit Quick Replies and select creamsan. Once selected, click the three dots next to **Update Presets** to edit. You will see the **presetname : URL** key-value pairs for the QRs.
+![1](https://files.catbox.moe/t5qosg.png)
+![1](https://files.catbox.moe/72sp2m.png)
+
+### Console copy paste:
+
+If you just want a very quick QR import without the hassle above, go to the ST tab, open console by pressing F12 and then paste and enter the code below. You can modify the QR json urls by removing/adding links. Reload ST afterwards. Note that after reloading you have to select creamsan as global QR set again.
+
+```
+(async () => {
+    //put your json urls here
+    const QR_JSON_URLS = [
+		"https://creamsan.neocities.org/files/presets/creamsan.json",
+        "https://creamsan.neocities.org/files/presets/mskeyesv2.json",
+        "https://creamsan.neocities.org/files/presets/victoria.json",
+        "https://creamsan.neocities.org/files/presets/ayame.json",
+        "https://creamsan.neocities.org/files/presets/blanche.json",
+        "https://creamsan.neocities.org/files/presets/gachalolis.json",
+        "https://creamsan.neocities.org/files/presets/escapethedungeon.json",
+        "https://creamsan.neocities.org/files/presets/teamneko.json",
+        "https://creamsan.neocities.org/files/presets/battlestripsv2.json",
+        "https://creamsan.neocities.org/files/presets/tessa.json",
+        "https://creamsan.neocities.org/files/presets/sini.json"
+          ];
+
+    /**
+     *  DO NOT FUCK AROUND WITH THE STUFF BELOW
+     *  UNLESS YOU KNOW WHAT YOU ARE DOING
+     */
+
+
+    /**
+     * Loads SillyTavern QuickReply API instance
+     *
+     * @returns {Promise<QuickReplyApi>}
+     */
+    const loadQrApi = async () => {
+        const { quickReplyApi } = await import('./scripts/extensions/quick-reply/index.js');
+        return quickReplyApi;
+    }
+
+    /**
+     * Fetches JSON object from a given URL
+     *
+     * @param {string} url - The URL to get the JSON from
+     *
+     * @returns {Promise<object>} - The parsed Object
+     */
+    const fetchJson = async (url) => {
+        const corsProxyUrl = "https://corsproxy.io/?";
+        const response = await fetch(corsProxyUrl + url);
+
+        return await response.json();
+    }
+
+    /**
+     * Update a QuickReply withing a QuickReplySet;
+     * This will overwrite the set
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {QuickReplySet} set - The QuickReplySet in which to update the QuickReply
+     * @param {QuickReply} qr - The QuickReply data to update with
+     *
+     * @returns {Promise<void>}
+     */
+    const updateQuickReply = async (api, set, qr) => {
+        console.log("Updating existing qr", qr, "in set", set);
+        api.updateQuickReply(set.name, qr.label, { ...qr });
+    };
+
+    /**
+     * Create a QuickReply within a QuickReplySet
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {QuickReplySet} set - The QuickReplySet in which to create the QuickReply
+     * @param {QuickReply} qr - The QuickReply to create
+     *
+     * @returns {Promise<void>}
+     */
+    const createQuickReply = (api, set, qr) => {
+        console.log("Creating new qr", qr, "in set", set);
+        api.createQuickReply(set.name, qr.label, { ...qr });
+    };
+
+    /**
+     * Update an already existing QuickReplySet;
+     * This will overwrite the qr
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {QuickReplySet} set - The already existing QuickReplySet
+     * @param {object} data - The data to update the set with
+     *
+     * @returns {Promise<void>}
+     */
+    const updateQuickReplySet = async (api, set, data) => {
+        console.log("Updating set", set, data);
+
+        await api.updateSet(set.name, { ...data });
+
+        for (const qr of data.qrList) {
+            const existingQr = await api.getQrByLabel(set.name, qr.label);
+
+            if (existingQr) {
+                await updateQuickReply(api, set, qr);
+            } else {
+                await createQuickReply(api, set, qr);
+            }
+        }
+    }
+
+    /**
+     * Create a new QuickReplySet
+     *
+     * @param {QuickReplyApi} api - The ST QR API instance
+     * @param {object} data - The data to create the set with
+     *
+     * @returns {Promise<void>}
+     */
+    const createQuickReplySet = async (api, data) => {
+        console.log("Creating new set", data);
+
+        const set = await api.createSet(data.name);
+        return updateQuickReplySet(api, set, data);
+    }
+
+    // Main
+    const api = await loadQrApi();
+
+    for (const url of QR_JSON_URLS) {
+        console.log("Loading", url);
+
+        try {
+            const data = await fetchJson(url);
+            const set = await api.getSetByName(data.name);
+
+            if (set) {
+                await updateQuickReplySet(api, set, data);
+            } else {
+                await createQuickReplySet(api, data);
+            }
+        } catch (e) {
+            console.error("Failed to load", url, e);
+        }
+    }
+
+    console.log("Done");
+})();
+```
+
+###Success:
+
+After reloading and if all goes well. You should see the updated/new presets.
+![1](https://files.catbox.moe/fqo3uj.png)
 
 ###Cards:
 
-You only need to do this once per card.
+You'll know it's working when you get an **Initializing** message when you select one of my scripted cards.
+You may notice a new Send button in the input field. Use the **QR Send button (green) for scripted inputs**, and use the **normal Send button (yellow) for normal inputs**. For example, with Ms. Keyes' card, use the QR Send button when you want to automatically append your time and grade, and use the normal Send button when the test is over and you want to interact normally.
+I would recommend using QR Send all the time though.
+
+![1](https://files.catbox.moe/5oj0g7.jpg)
+![1](https://files.catbox.moe/npo2lv.jpg)
+
+***
+##JAVASCRIPT
+Some of my cards use JS. You only need to do this once per card.
+Be sure to complete the browser extension part above.
+Thanks again to stscript anon for sharing how to enable JS with STScript. https://rentry.org/stscript#html5-minigames-and-hacking-stscript
+***
 
 1. Go to the card description. Look for the `{{setvar::pass::PASSHERE}}` macro.
 ![1](https://files.catbox.moe/2hhwlw.png)
@@ -193,7 +348,7 @@ To turn it off, just press the toggle switch and reload.
 Please let me know how to fix this.
 
 ***
-##IMAGE GEN SETUP
+##IMAGE GEN
 This is for my cards that have image gen.
 I'm not that knowledgeable when it comes to image genning though, let me know what's the best settings for this.
 ***

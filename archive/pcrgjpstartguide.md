@@ -1,6 +1,8 @@
 # JP New player guide/recommendations
 
 - If you want something updated in this rentry, just quote the OP.
+- If you're looking for advice on units in general, please visit [the more general rentry.](https://rentry.org/pcrgGeneralizedInfo)
+- For information on units with a released 6 Star, please visit [the 6 Star rentry.](https://rentry.org/Six_Star)
 [TOC2]
 
 ##->How do I start on JP?<-
@@ -53,107 +55,46 @@ This will delete the account stored on the computer without deleting the game it
 
 
 ##->What Prifes units do I reroll for, as a new/returning player? <-
-Updated: July 8th, 2023
+Updated: March 3rd, 2024
 
 **TL;DR - If you don't get Neneka & Ames in the first spark, consider re-rolling if you have the patience. Free 3* from Tutorial is not relevant, just a nice cherry on top.**
-Prifes is a great chance to get a ton of 3* units, Prifes or not. The goal here is to get at least 2 to 3 of the 16 Prifes units. These are semi-limited units that can only be obtained from the Princess Fes banner. Newbies and returning players have their own personal Prifes banner, copying the last one ran on JP. This banner lasts 72 hours, counting down from when you started the tutorial. A spark is 200 rolls, or 30,000 gems. 
+Prifes is a great chance to get a ton of 3* units, Prifes or not. The goal here is to get at least 2 to 3 Prifes units. These are semi-limited units that can only be obtained from the Princess Fes banner. Newbies and returning players have their own personal Prifes banner, copying the last one ran on JP. This banner lasts 72 hours, counting down from when you started the tutorial. A spark is 200 rolls, or 30,000 gems. 
 The following list is for new players to target, as some units are amazing - But require a ton of investment before they're actually good. 
 
-###->SS Tier - Get these two in or before your first spark and you're gold<-
-**Neneka** - Amazing magic unit that does everything except heal your team and restore TP. Useful for any level player, from new to #1 clan. Re-roll or make her your #1 spark target. Even without Unique Equip, still a great unit but get it ASAP and max it.
+###->SS Tier - Get these in or before your first spark and you're gold<-
+**Neneka** - Amazing magic unit that does everything except heal your team and restore TP. Useful for any level player, from new to #1 clan. Re-roll or make her your #1 spark target. 
 **Ames** - Amazing support unit, makes entire party tankier with barrier, heals and a damage cut to lowest HP unit. Can help new players get further than they otherwise would without borrows. No Unique Equip.
+**Eris** - Similar to Ames, makes entire party more durable and has a unique revive mechanic that allows your units to cheat death one time per fight, after she uses her SP skill. Great support overall, not just for Dark teams. No Unique Equip.
 
 ###->S Tier - Must have targets for max level players, worth completing a spark or two if you get the other two above as a new player<-
 **Christina** - Requires 6* & Max investment. Some TLs may require X.Chris bonds as well, so be careful when reviewing TLs. But an amazing physical damage dealer
-**Muimi** - She's definitely back in action, but Muimi requires absolute max investment in order to become relevant. Still worth the S tier rating.
-**Labyrista** - Thanks to her Unique Equip, rocketed straight back to dominance in CB. Requires max investment, but well worth it.
-**Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. With UE, can frontline even better and provide permanent buffs from S1.
+**Labyrista** - Thanks to her Unique Equip, rocketed straight back to dominance in CB. Requires max investment, but well worth it. Can be considered SS tier with newer players who have mostly physical teams.
+**Princess Kokkoro** - Great utility, party wide buffs/debuffs to enemies. Can still be used in higher level content, excellent pickup on your way. With UE, can frontline even better and provide permanent buffs from S1+. Excellent wind support
+**Princess Kyaru** - Fantastic magic damage dealer that nukes a single target. Great Dark mage for magic teams. Has a Unique Equip that requires max investment. Can stomp lower level content and Arena, while maintaining consistent usage for new and max players in most content.
 
 ### ->A Tier - Good for low levels, great for for Max-high levels<-
-**Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Very useful in end game content so far. No Unique Equip
-**Princess Kyaru** - Fantastic magic damage dealer that nukes a single target. Has a Unique Equip that requires max investment. Can stomp lower level Arena and tank break hard.
 **クローチェ (Croce)** -  Good specialist in multi-target physical damage, but does have a huge drawback if she runs out of her battery resource. Needs team support and is a pure damage dealer. No Unique Equip yet.
 **Anne/Grea Duo** - A great magic DPS that can benefit from buffs give to them and convert it into bigger buffs. A great unit that has been consistently used. Requires a lot of team support.
 **ライラエル(Lyrael?)** - Unique field effect that damages all physical units every action, great magic damage alongside great buffs. Extremely helpful early on, but a squishy unit.
+**Hatsune/Shiori Duo** - Great multi-target physical AOE damage dealer that can UB fairly often. Has a UE and does need max investment for optimal efficiency, but still good with just UE30.
+**Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Consistently used against a few bosses in CB as well.
 
 ### ->B Tier - Good for low level players, growing into niche usage Max level choices<-
 **Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. Has UE. Can do well in low level Arena, with enough TP charging and against multi-target bosses.
-**Misora** - A good magic damage dealer, being very useful in Dungeons such as EX6. Consistently used against a few bosses in CB as well.
-**Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends, but her niche there makes her very useable. Due to the TP Changes, she's an Arena monster. Especially at lower level.
-**Princess Hiyori** - Physical damage dealer that gives herself TP, deals a lot of damage and debuffs targets based on that damage. Requires max UE and has been somewhat left behind in recent months. Still useful, but not as featured these days.
-**Hatsune/Shiori Duo** - Great multi-target physical AOE damage dealer that can UB fairly often. Has a UE and does need max investment for optimal efficiency, but still good with just UE30.
+**Muimi** - She's definitely back in action as a physical damage dealer, but Muimi requires absolute max investment in order to become relevant. This does knock her down a few ranks for new players.
+**Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Decently useful physical unit in end game content so far. No Unique Equip
 
 ### ->C Tier - Nice to have, but not incredibly helpful for new players or necessary for late game<-
-**Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena.
 **Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.
-**Homare** - A nice Multi-target magic damage daeler, but is outclassed outside of specific scenarios. No Unique Equip yet.
+**Homare** - A nice Multi-target magic damage dealer, but is outclassed outside of specific scenarios. No Unique Equip yet.
+**Princess Pecorine** - Fantastic for tanking things that only hit your 1st position unit, but lacks a taunt to save backline units from being targeted.  Made worse by the fact that you can borrow max level units in story from friends. Loses importance once people learn how to actually make functional team comps.
 
 ### ->D tier - Not worth rolling for at this time<-
 **Little Lyrical Trio** - Nice target damage unit, doesn't see much usage late game at the moment.
+**Princess Yui** - A machine gun style, multi-target, selfish magic damage dealer. Has a Unique Equip that requires max investment, for high level, but can smash low level Arena. Not extremely useful outside of that.
 
-### -> Overall Prifes tier list <-
-Please note, the following is written for how these units are for max level players. (From best to worst = SS > S > A > B > C > D > F)
-If you have a different option, discuss in the thread and it can be discussed.
-
-Character | CB | Arena | Dungeon | PvE | UE? | 6 Star? 
-:----: | :----: | :----: | :----: | :----: | :----: | :----: 
-Christina | SS | C  | A | SS | Yes | Yes
-Muimi | S | C | SS | SS | Yes | Yes
-Neneka | SS | D | SS | SS | Yes | No
-P.Peco | C | A | C | B | Yes | No
-P.Kokkoro | SS | C | S | S | Yes | No
-P.Yui | D | C | C | C | Yes | No
-Laby | SS | F | SS | SS | Yes | No
-P.Hiyori | A | F | A | B | Yes | No
-P.Kyaru | S | A | S | S | Yes | No
-P.Rei | A | A | SS | A | Yes | No
-Hatsu/Shio | B | D | B | A | Yes | No
-Homare | A | F | S | S | No | No
-LL Trio | C | F | B | C | No | No
-Ranpha | B | F | B | B | No | No
-Aki/Saren | S | F | S | S | No | No
-Ames | SS | SS | SS | SS | No | No
-GreAnne | S | F | SS | SS | No | No
-Misora | A | F | SS | S | No | No
-Croce | A | D | S | A | No | No
-ライラエル | S | C | S | A | No | No
-
-##->Limited targets<-
-These units are only available during their specific banners, which are typically once a year. A newly released unit will re-run around 6-7 months after their initial release. Re-runs for any other units will take place in their seasonal window, generally.
-
-###CB
-**New Years Neneka** - #1 magic buffer in the game, only comes by every New Years. Please roll for her/save a spark in your initial clearing and rolling.
-**New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year. Good in Arena, too.
-**Liberator(Sex) Nozomi**  - Similar to S.Saren where she gives a ton of TP to physical units only, so they can use UBs very early. For physical, better in the sense that she has debuffs and can give more TP outside of just the first time - But at a heavily reduce amount. Amazing in CB. 
-**Creditta** - Excellent debuffer/support physical multi-target ranged unit. She has heals, TP restoration, P.Def debuff and okay damage and generally finds her way into CB when Multi-target physical does well. 
-**Warlock Djeeta** - Proven to be a useful magic team unit since her April release, her TP restore/debuff and buffs. A colab unit as well, so may not repeat once a year like Im@s - But no confirmation on that.
-**Christmas Christina** - This is only because she gives regular Christina +3 TP Boost from bond stories, the unit herself is useless until she receives a 6 star. Not having the +3 TP Boost has varying degrees of impact on CB comps. This can range from no impact, to losing out on a decent chunk of damage, to being completely unable to run a particular timeline at all.
-
-### Arena
-**Swimsuit Saren** - Massive TP restoration to all teammates on 1st skill for instant UBs. Sees use in all game modes, but extremely useful in Arena. Grab her when possible.
-**Swimsuit Hatsune** - Integral part of the 1-tap arena teams, as her 1st action hits party wide and hurts. A typical Arena setup for her is Mifuyu/R.Rin/S.Hatsune/S.Saren/MS.Kasumi, but there are quite a few variants. Not necessary to hit 1st, but a strong unit.
-**New Years Homare** - Excellent multi-target magic damage dealer that has yet to receive a Unique Equip, so she can only get better next year. Saw some usage in CB on release month and has not shown up in a big way for a while. First action magic damage nuke similar to S.Hatsune, very good in Arena defenses and offenses.
-
-### PvE
-Nothing that is specific to PvE here.
-
-
-##->Permanent Targets<-
-While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions. For more information on 6 Star units, visit [here.](https://rentry.org/Six_Star)
-
-**School Festival Yuni** - Fantastic support for both damage types in multiple game modes. Still very good, less dominant.
-**Noire Io** - Very nice for both arena and some niche CB usage to drain and re-distribute TP to the highest M.Atk unit.
-**Stage Misaki** - Another fantastic support, but only for magic teams. S-Tier roll as far as permas go.
-**Inori** - Top tier Arena unit, good roll for those who enjoy that mode. Is also farmable at Hard Node 44-3.
-**Magical Girl Kasumi** - Top tier Arena unit for offense and defense, farmable at Hard Node 38-3
-**Oedo Yuki** - Excellent buffer and debuffer for magic comps. Not farmable.
-**Swimsuit Chika** - Very strong only with UE, but can shut down magic damage heavily with shields.
-**Christmas Jun** - Excellent tank that provides a ton of utility and can sustain herself.
-**Noire Kuuka**
-
-
-##->Permanent Sub Player level 200 Campaign<-
-Starting December 16th JST on reset, various permanent Campaigns will be apply to different level of players. See the full list below:
+##->Permanent New Player Campaign Bonuses<-
+While below a certain level, there are various catchup mechanics for starting players to take advantage of. These will be applied to your account, until you reach the threshold called out below.
 
 1. Level 50 to 100 - Players will receive x4 EXP for stamina spent on Normal, Hard & Very Hard Main Quest nodes.
 2. Level 101 to 291 - Players will receive x6 EXP for stamina spent on Normal, Hard & Very Hard Main Quest nodes.
@@ -168,84 +109,74 @@ Notes :
 https://priconne-redive.jp/news/update/20375/
 
 
-##->Tips and Suggestions for beginners<-
+##->Recommended Hard nodes to farm<-
+Here are some good targets to take advantage of your x3 Hard bonuses as a new player. Be careful not to farm some of their nodes in side stories by accident. You can if you want, but obviously they won't be getting x3 hard bonuses. These characters are not suggested in order of priority, as the meta/usage of a unit can shift from month to month.
 
+###->General usage (CB or Arena + Dungeon, Luna Tower, Dimensional Luna Tower, etc...)<-
+These units see usage in multiple modes frequently for clearing content.
 
-- Always keep Ames and Neneka leveled
-- Once reaching level 50, you can skip the story for around 12k gems and a ton of rewards including a UE growsphere. Use this on Neneka once she hits rank 7. This will allow you to level her UE at no cost, until it reaches level 240.
+- Djeeta
+- Shiori
+- Summer Kasumi
+- Noire Kuuka
+- Oedo Yuki 
+
+###->CB Specialists<-
+These units shine the most in Clan Battle.
+
+- Ruka
+- Arisa
+- Jun 
+- Angel Yori 
+- Magical Monika
+- Shefi
+- Tomo
+- Cinderella Maho
+- Noire Io 
+
+###->Arena Specialists (B.Arena, P.Arena, Battle Stadium)<-
+These units shine the most in Arena modes.
+
+- Misaki
+- Magical Girl Kasumi 
+- Ranger Rin
+- Inori
+- Rima
+- Mifuyu 
+- Saren
+- Pecorine
+- Shizuru 
+- Aoi
+- Kurumi 
+- Yuki
+- Kyouka
+- Kasumi
+- Oedo Mitsuki
+- Mahiru
+
+For a more general list on permanent or limited targets to roll on, check out [this rentry.](https://rentry.org/pcrgGeneralizedInfo)
+
+##-> Coin Shops <-
+These shops allow you to exchange your earned coins from various game modes, in order to obtain memory shards for your girls.
+
+1. Dungeon: Maho, Yukari, Nozomi
+2. B.Arena: Monika, Tamaki
+3. P.Arena:  Anna, S.Chika
+4. Clan Battle: Makoto, Io
+
+##->Tips for beginners<-
+
+- Once reaching level 50, you can skip the story for around 12k gems and a ton of rewards.
 - Complete the easy versions of the training dummy gargoyles for easy 100 gems and 1 large heart per. There are 5 in total, but do the first 3.
 - Spark at least 1 unit from the 72 hour banner, unless there's another prifes banner going on.
 - After hitting level 291, the best way to power level is through side stories. This is because the hard nodes cost 10 stamina each, but give 16, 16, 18,18, 20 EXP each. Only use this method if you absolutely have to power level as hard as possible.
-- Be patient when it comes to progression. CB is generally designed for late game/end game players, so don't kick yourself for not being able to contribute immediately. You'll get there.
-- You can borrow a max level Princess Kyaru or Christina to 1p bosses in T1/T2 to still contribute as a new player. There's no level restrictions on CB borrows, so having a max level player in your clan to provide these for you can make a huge difference.
-- Request equips as often as possible.
 - If you want to remain low level to cash in on sub 200 x3 Hard/normal nodes: Don't claim mission rewards from Dailies aside from the ones that give gems, after you hit level 50. The trade-off here is staying lower-level and not getting to clear content due to that. This is just preference and can lead to losing out on clearing current content, or growing fast enough to clear near future content.
 - To fund the early Dungeon 6 Stars, you'll want to clear the worlds up to 57-14 in order to get EX6 unlocked. The nodes scale to your level, but the rewards are based on the dungeon. This means you'll have access to a large amount of dungeon coins
-- Unlock Lvl 16 Mana/EXP exploration quests as soon as possible.
+- Unlock Lvl 17 Mana/EXP exploration quests as soon as possible.
 - Clearing side stories earlier will grant players general growspheres, allowing characters to be leveled for free.
 - If you're running low on guild house furniture coins, consider only upgrading the stamina furniture and liking as many guild houses until you hit the cap for daily coins. You can collect up to 50 per day (10 likes).
-
-
-##->Recommended Hard nodes to farm<-
-Here are some good targets to take advantage of your x3 Hard bonuses as a new player. Be careful not to farm some of their nodes in side stories by accident. You can if you want, but obviously they won't be getting x3 hard bonuses.
-
-###->Great everywhere<-
-- Djeeta (2 Nodes)
-- Monika (3 Nodes in Side Story, but also through Arena shop)
-
-###->CB Specialists<-
-- Ruka (1 Node)
-- Arisa (2 Nodes)
-- Jun (2 Nodes, 3 Nodes in Side Story)
-- Angel Yori (1 Node)
-- Eriko (8 Nodes, 2 in Side Story)
-- Magical Monika (1 Node) 
-- Shefi (1 Node)
-- Tomo (1 Node, 5 Nodes in Side Story)
-- Cinderella Maho (1 Node)
-- Oedo Yuki (1 Node)
-- Noire Kuuka (1 Node)
-- Noire Io (1 Node)
-- Shiori (9 Nodes)
-
-###->Arena Specialists<-
-- Misaki (8 Nodes, 2 Nodes in Side Story)
-- Magical Girl Kasumi (1 Node)
-- Ranger Rin (1 Node)
-- Inori (1 Node)
-- Rima (7 Nodes)
-- Mifuyu (8 Nodes, 2 in Side Story)
-- Ninon (3 Nodes)
-- Saren (3 Nodes, 5 in Side Stories)
-- Pecorine (8 Nodes)
-- Shizuru (3 Nodes, 2 Nodes in Side Story)
-- Aoi (8 Nodes, 2 in Side Story)
-- Kurumi (8 Nodes, 2 in Side Story)
-- Yuki (8 Nodes, 2 in Side Story)
-- Kyouka (1 Node, 2 in Side Story)
-- Kasumi (1 Node, 5 in side stories)
-- Oedo Mitsuki (1 Node)
-- Mahiru (9 Nodes, 2 in Side Story)
-
-##->Recommended Side Story Nodes <-
-These are some good units that are available in Side Stories. Node that all Weflares in Side Stories have 3 nodes, 5 attempts per day. Each attempt is 10 stamina and players are unable to reset Side Story nodes.  Anyone not on this list, is just a bond story stat stick.
-
-###->Great everywhere<-
-- Summer Kokkoro 
-
-###->CB Specialists<-
-- Christmas Yukari
-- Working Clothes Tamaki
-- Cinderella Rima
-- Christmas Mahiru
-
-###->Arena Specialists<-
-- New Years Muimi
-
-##-> Coin Shops <-
-
-There are various coin shops that have currency gathered
-
+- Be patient when it comes to progression. 
+- Request equips as often as possible.
 
 ##->Frequently Asked Questions<-
 
@@ -313,7 +244,7 @@ Q - **How often should I refresh with gems?**
 A - Usually 3-6 times max. That's 120-300 gems. Any higher might drive a considerable hole in your gem count if you're not careful.
 
 Q - **Where do I spend my stamina as a new player?**
-A - Usually on whatever Campaign is running. For sub 200 players, you'll want to focus on shards for key targets. [Recommended Hard Nodes](https://rentry.co/pcrgjpstartguide#recommended-hard-nodes-to-farm) for further details.
+A - Usually on whatever Campaign is running. For sub 250 players, you'll want to focus on shards for key targets. [Recommended Hard Nodes](https://rentry.co/pcrgjpstartguide#recommended-hard-nodes-to-farm) for further details.
 
 Q - **Who should my first 6 Star be?**
 A - Maho or Yukari. They are both easy to farm through the Dungeon Coin shop.
@@ -355,13 +286,6 @@ A - You can star down between 3, 4 & 5 if your unit is 5. You cannot star down a
 Q - **Why are there so many hard nodes recommended for Arena?**
 A - A lot of Arena units happen to be farmable in Hard main quests.
 
-Q - **What units shards should I buy?**
-A- Depends on your goals, but here are some decent starting points:
-1. Dungeon: Maho, Yukari, Nozomi
-2. B.Arena: Monika, Tamaki
-3. P.Arena:  Anna, S.Chika, Hatsune,
-4. Clan Battle: X.Saren, Io
-
 Q - **Who should I spend my Goddess Stones (Whale Tears, DA, etc...) on?**
 A - Realistically, you should hold on to them until you really need to spend them. If you have an itchy trigger finger, Neneka, Ames, Christina, Laby are all excellent choices. Good limiteds like NY.Neneka, NY.Homare also fall into this category.
 
@@ -369,7 +293,7 @@ Q - **Which dungeons can I do as a new player?**
 A - You can crush the first 4 dungeons with Ames/Neneka and 3 other units that don't die. For EX1 & 2, you may want to join a clan and ask in your clan chat for a borrow of a stronger damage dealer like Ranpha or Misora. Remember that Dungeons still have a 30 level cap limit.
 
 Q - **How do I sim bosses?**
-A - 3 Days before CB begins, we get access to "Training Mode". This allows you to test/save comps in-game against all 5 tiers and all 5 bosses to prep your comps ahead of time. 
+A -  Before CB begins, we get access to "Training Mode". This allows you to test/save comps in-game against all 5 tiers and all 5 bosses to prep your comps ahead of time. 
 
 Q -  **Can I test bosses after CB ends?**
 A - Yes, if you go to the menu and click on the training dummy icon, you will have access to Gargoyle training dummies that give rewards for 1st time clears, as mentioned in the tips section above. In addition, you can fight the previous month's bosses to test for fun.
@@ -381,13 +305,17 @@ Q - **I missed this important unit's banner, will it come back**
 A - A limited unit will have a re-run 6 months after its release. Afterwards, they generally come back once a year, near their original release window. Permanents do not receive re-runs.
 
 Q -  **When is the next Prifes?**
-A - Who the fuck knows. We usually get one at the end of the month in Feb (Anniversary) and August (Half Anniversary) guaranteed. Other than that, could be any time.
+A -  Typically, we will see a prifes on these dates:
+		Last day of February
+		During Golden Week 
+		Last day of August
+		Last day of December
 
 Q - **I got Neneka & Ames before needing to spark, is it worth it to finish the spark? Who would I pick?**
-A - There are currently a total of 19 Prifes units, so yes. The only wrong answer is anyone in C tier, but I would advise picking P.Rei or P.Yui for early game arena shit stomping, GreAnne, Laby or Christina for future proofing in other high level game modes like CB and Luna Tower.
+A - Yes. The only wrong answer is anyone in B tier, but it also depends on the units you've got. Asking in the thread with an image of your rolls is a great way to get advice on who to spark. 
 
 Q - **Princess Connect is crashing on Launch on my Bluestacks Emulator, what do I do?**
-A - This is due to the Unity Engine update on April 12th, forced on April 15th. You'll need to create a new instance and make sure that you have it running on Android 11 (Beta)
+A - This is due to the Unity Engine update on April 12th, forced on April 15th, 2023. You'll need to create a new instance and make sure that you have it running on Android 11 (Beta)
 
 Q - **I did the above and now I'm seeing pink textures everywhere, is there a fix?**
 A - Go into your setting and change your Graphics Rendered & Interface Renderer to "Direct X". It might be set to "OpenGL" by default.
@@ -399,7 +327,7 @@ A - Add a Max level player from the thread with a max Christina to borrow and cl
 3. Side Stories - Normal nodes (No borrows allowed)
 4. Side Stories - Hard nodes (No borrows allowed)
 5. 12k from skipping Arcs 1 & 2 story after hitting level 50
-6. Battle Arena early rewards 
+6. Arena early rewards for climbing in ranks
 
 
 ##->Helpful Links<-
@@ -412,5 +340,3 @@ https://twitter.com/priconne_redive - Official Twitter account for the Japanese 
 https://redive.estertion.win/ -   Assets database including story scripts and image rips
 https://github.com/MalitsPlus/ShizuruNotes - Unofficial tool for the Japanese version of the game. Can view character-specific stats and information not player-facing, like CB boss stats.
 https://docs.google.com/spreadsheets/d/1JjK7Ws4gfzKChRs5ueoxEZVN5SXK10nhDC1-nbm0NUs/edit#gid=303232073 - Translated character skills spreadsheet
-https://www.youtube.com/watch?v=vBF_LNNWjXI - Eruru's Prifes unit tier list (Jan 1st, 2023)
-https://www.youtube.com/watch?v=qcN0_90Uujk - Reonmaru's 6* Recommendations (March 13th, 2023,)

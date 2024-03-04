@@ -3,23 +3,23 @@
 ---
 ___
 ___
-#### !~*Last updated on:* 02/17/2024 (MM/DD/YYYY)~!
+#### !~*Last updated on:* 03/03/2024 (MM/DD/YYYY)~!
+
+- **[Story]** *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 4)](https://rentry.org/68rex2dp) %firebrick%[NSFW]%%* was added
+
+- **[Story]** *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so) %firebrick%[NSFW]%%* was updated
 
 - **[Story]** *[Wrestling with a Viper](https://rentry.org/palidachi) %limegreen%[SFW]%%* was added
+
+#### !~*Previously:*~!
 
 - **[Story]** *[Flight School](https://rentry.org/89bbpa9k) %limegreen%[SFW]%%* was added
 
 - **[Story]** *[Whispers of the Vale](https://rentry.org/8mt2peru) %limegreen%[SFW]%%* was added
 
-#### !~*Previously:*~!
-
 - **[Story]**  *[The Gifting Comet](https://rentry.org/fh7v6vcz) %limegreen%[SFW]%%* was added
 
-- **[Story]** *[/Advanced: Monster Hunter!/'s Short Greentexts (Part 3)](https://rentry.org/2f8so) %firebrick%[NSFW]%%* was updated
-
 - **[Story]** *[Ode to the Flame Emperor](https://rentry.org/fxe9i) %firebrick%[NSFW]%%* was added
-
-- **[Story]** *[Into the Wilds](https://rentry.org/32ia4) %limegreen%[SFW]%%* was added
 
 On December 17, 2020, Pastebin went full retard and nuked most explicit pastes, including [the original Monster Hunter Doujin/Smut Index](http://web.archive.org/web/20200530234448/https://pastebin.com/kHh6uSQu). Later down the line, some pastes were restored. A MEGA backup of most Pastebin stories and doujins can be found in their appropriate sections.
 
@@ -466,7 +466,7 @@ The announcement of the next installment in the series, Wilds, brings forth a ne
 ---
 
 #### ***%maroon%/Advanced: Monster Hunter!/'s Short Greentexts%%***
-##### ***Thread [[1-151]](https://rentry.org/iftod) | [[151 - 258]](https://rentry.org/sfbf5/) |  [[258 - current]](https://rentry.org/2f8so)***
+##### ***Thread [[1-151]](https://rentry.org/iftod) | [[151 - 258]](https://rentry.org/sfbf5/) |  [[258 - 273]](https://rentry.org/2f8so) | [[274 - current]](https://rentry.org/68rex2dp)***
 
 An ongoing collection of various shorts posted throughout the general's history.
 

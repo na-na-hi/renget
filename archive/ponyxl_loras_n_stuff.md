@@ -207,6 +207,8 @@ https://files.catbox.moe/o1dk53.safetensors possummachine
 https://files.catbox.moe/qszfwe.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/57camv.png
 https://files.catbox.moe/ympckt.safetensors 2bge
 https://files.catbox.moe/dw1291.safetensors vanillaware
+https://files.catbox.moe/1wplp6.safetensors kotoyoshi_yumisuke example gens: https://files.catbox.moe/tity9x.png, https://files.catbox.moe/12vv8v.png, https://files.catbox.moe/u4100s.png
+https://files.catbox.moe/4wyxpr.safetensors liveforthefunk
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
@@ -285,6 +287,7 @@ https://files.catbox.moe/xv8o6t.safetensors character_sparkle_honkai_star_rail l
 https://files.catbox.moe/26s9wl.safetensors character_purah activation trigger is purah. example gen: https://files.catbox.moe/8oh179.png
 https://files.catbox.moe/mugz6g.safetensors character_elegg_nikke activation trigger is elegg
 https://files.catbox.moe/ydfkfj.safetensors character_seele_starchasm_nyx activation trigger is seele vollerei (starchasm nyx), example gen: https://files.catbox.moe/oki6x0.png
+
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
 

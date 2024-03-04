@@ -18,8 +18,6 @@ Cons:
 - No 6* Stats
 - S2 (350 TP Gain) happens every 6th action in loop
 
--> ![PT.Inori](https://media.discordapp.net/attachments/987137760873824297/995465181180198973/PT.INori.png?width=824&height=670) <-
-
 
 ### ->Saren/Akino Duo ![Fire](https://pomf2.lain.la/f/vhkpn9gl.png)<-
 -> ![Akino/Saren](https://redive.estertion.win/card/full/180931.webp) <-
@@ -34,8 +32,6 @@ Pros:
 Cons:
 - UB damage is based on HP (Does less damage at lower HP values)
 - Position might be awkward, but not awful
-
--> ![Saren/Akino](https://cdn.discordapp.com/attachments/987137760873824297/995468464900804618/Sakino.png) <-
 
 ### ->Pirate Shinobu ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<-
 -> ![Pirate Shinobu](https://redive.estertion.win/card/full/122031.webp) <-
@@ -62,8 +58,6 @@ Cons:
 - Extremely low crit rate for an attacking unit (1315 vs 1246 for PT.Inori who gives herself guaranteed crits)
 - Only Shinobu can apply her marks
 
--> ![Pirate Shinobu](https://media.discordapp.net/attachments/987137760873824297/995484182551744512/PA_Shinobu.png?width=1421&height=898)<-
-
 
 ### ->Pirate Anna ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<-
 -> ![Pirate Shinobu](https://redive.estertion.win/card/full/121931.webp) <-
@@ -81,8 +75,6 @@ Cons:
 - Stage Misaki's buff doesn't reach her
 - Requires lots of shields to make work
 
-![Pirate Anna](https://cdn.discordapp.com/attachments/987137760873824297/995484415541129356/PA_Anna.png)
-
 ### ->Camp Yukari ![Wind](https://pomf2.lain.la/f/g6t6tuqp.png)<-
 Another Mark-based unit that is good in CB
 -> ![Camp Yukari](https://redive.estertion.win/card/full/122231.webp) <-
@@ -97,8 +89,6 @@ Pros:
 Cons:
 - Needs a bit of ramp up time to reach maximum efficiency
 
--> ![Camp Yukari](https://cdn.discordapp.com/attachments/987137760873824297/995484840965177414/Camp_Yukari.png) <-
-
 ### ->Camp Aoi ![Wind](https://pomf2.lain.la/f/g6t6tuqp.png)<-
 An Arena specialist that doesn't seem to have a good spot because no CC and meh shield.
 ![Camp Aoi](https://redive.estertion.win/card/full/122131.webp)
@@ -112,8 +102,6 @@ Cons:
 - UB is only damage
 - No good CC for Arena
 - Barrier can get cancelled as it's her first skill
-
--> ![Camp Aoi](https://cdn.discordapp.com/attachments/987137760873824297/995486210879389816/Camp_Aoi.png) <-
 
 
 ### ->Vampy ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-
@@ -131,8 +119,6 @@ Cons:
 - Squishy (Probably not fit vs most T5 bosses)
 - Positioning is very far forward 
 - Needs to tank in order to keep SP mode (Think of her as magic Muimi)
-
--> ![Vampy](https://cdn.discordapp.com/attachments/987137760873824297/995486211172995193/Vampy.png) <-
 
 ### ->Swimsuit Hiyori ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<-
 A physical frontline support. She's pretty far back in terms of positioning, but ultimately won't be used over Fes Yuni or Karin unless heals are needed instead of shields.
@@ -1421,7 +1407,7 @@ Cons:
 ### ->Winter Yuni ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<-
 **Good physical support with TP boost, action speed increase and every physical buff you could want for a party. No debuffs to enemies though. Good addition to water support cast.**
 
-Winter Yuni deals no damage, outside of a joke 5 dmg from her SP skill when she has a stack of her unique mark. Her entire purpose is for buffing physical teams with consistent output of buffs to Physical teams. In that regard, she's unmatched for pure support functionality on a single unit for water specifically. On an overall level, she's a good physical buffer with action speed and the +5 TP boost. Her competition for water are the likes of S.Kokkoro, X.Chika, S.Hiyori, S.Saren for pure physical support options. Of these, S.Kokkoro has the most value and could be used in tandem with her, as she provides the P.Def debuff that Winter Yuni is missingis missing.
+Winter Yuni deals no damage, outside of a joke 5 dmg from her SP skill when she has a stack of her unique mark. Her entire purpose is for buffing physical teams with consistent output of buffs to Physical teams. In that regard, she's unmatched for pure support functionality on a single unit for water specifically. On an overall level, she's a good physical buffer with action speed and the +5 TP boost. Her competition for water are the likes of S.Kokkoro, X.Chika, S.Hiyori, S.Saren for pure physical support options. Of these, S.Kokkoro has the most value and could be used in tandem with her, as she provides the P.Def debuff that Winter Yuni is missing.
 Her mark system works similar to Ruu's, where she loses a mark when she takes damage. However, she does not lose marks when she uses her skills, which is where the checks happens. The fact that she gets marks from her UB means they're not going to be on her immediately, but can be refreshed when the player wishes to do so. There are instances where an attack will have one damage calculation against the damage cap, but have multiple instances of checking damage dealt. In these cases, Winter Yuni loses multiple stacks.
 
 -> ![Yuni](https://redive.estertion.win/card/full/129331.webp)<-

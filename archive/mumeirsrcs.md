@@ -1,11 +1,11 @@
-->![Divider](https://files.catbox.moe/kbddn3.png)
-[![Made by Mumei, Dm @fwmc on discord for takedown (or credit) ^^](https://files.catbox.moe/ftmnju.png)](https://retrospring.net/@bipolar)
-![.co/mumeirsrcs | F2U Divs](https://files.catbox.moe/cdxoey.png)<-
+->![Divider](https://files.catbox.moe/krrjl3.png)
+![Made by Mumei, Dm @fwmc on discord for takedown (or credit) ^^](https://files.catbox.moe/53z32i.png)
+![.co/mumeirsrcs](https://files.catbox.moe/wmpzzw.png)<-
 
-%#F29FBE%All of these can be recolored through Ibispaint X.%%
-[F2u Graphics :3 ( Made by me ).](https://rentry.co/mumeisgraphics)
+%#C4CAE2%All of these can be recolored through Ibispaint X.%%
+[%#F5CAD9%Click here to contact me for credit or removal :3%%](https://retrospring.net/@hololive)
 
-![Divider](https://files.catbox.moe/qxsdxh.png)
+![Divider](https://files.catbox.moe/5dtnje.png)
 ***
 ***
 creds to [pixelprism!](https://rentry.co/prismdividers) :3

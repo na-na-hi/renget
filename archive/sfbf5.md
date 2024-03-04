@@ -1,10 +1,16 @@
 # ***/Advanced: Monster Hunter!/'s Short Greentexts (Part 2)***
 
 ---
-## ***Threads: [[1-151]](https://rentry.co/iftod/) | [151 - 258] | [[258 - current]](https://rentry.org/2f8so/) ***
+## ***Threads: [[1-151]](https://rentry.org/iftod/) | [151 - 258] | [[258 - 273]](https://rentry.org/2f8so/) | [[274 - current]](https://rentry.org/68rex2dp)***
 
 ---
 An ongoing collection of the multitude of bite-sized shorts that creative anons have posted throughout the years. Some of these works have made the rounds in the form of screencaps, but are still included for the sake of consistency. **Not exhaustive in the slightest.**
+
+%darkgreen%>Why are there multiple bins?%%
+
+Rentry has a 200k character limit.
+
+---
 >Quoted text = context
 
 !!! danger

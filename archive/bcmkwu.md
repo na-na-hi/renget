@@ -1,3 +1,7 @@
+>AFU found a hull of a massive spent cluster muniton
+https://files.catbox.moe/eh618e.mp4
+>Hohol beats babushka because she spoke Russian
+https://files.catbox.moe/sonsgc.mp4
 >RIP Balbes, thank you for your service (EXTREMELY UNCOMFY)
 https://litter.catbox.moe/qp40ld.MP4
 >Another Abrams rekt
