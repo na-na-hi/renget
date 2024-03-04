@@ -712,7 +712,7 @@ However, you'll definitely lose most contact with human civilization and conside
 \>you're not leaving until the Alpha says so%%
 
 ---
-###*Jaggi/Jaggia*
+###*Jaggi(a)*
 
 =============================================
 

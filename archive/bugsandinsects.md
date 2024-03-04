@@ -48,6 +48,8 @@ Shroomers
 https://archiveofourown.org/works/47292694
 Even More Unprofessional Conduct with an Insectile Coworker
 https://archiveofourown.org/works/48184114
+How To Spread Your (Moth) Wings 
+https://archiveofourown.org/works/54228019
 ###Taken from /GMAD/ stories
 Mothballs
 https://rentry.co/a9aan

@@ -1,3 +1,9 @@
--> [![](https://i.ibb.co/51JXnn4/6-B965200-AE96-4427-BEAB-A26-C89-F8-ACEC.gif)](https://rentry.co/toycollection) <-
--> **Work In Process!** <-
--> **Click the Duck Pool to see the rest of the museum!** <-
+-> ![](https://i.ibb.co/QbXb3dx/IMG-3983.gif) <-
+-> %#73D3FB%***"Scrub! Scrub! Scrub! In The Tub!"***%% <-
+-> %#33A7D4%**Xavier**%% <-
+-> %#33A7D4%**Gay Autistic Male**%% <-
+-> %#33A7D4%**Age Regressor & Nonhuman**%% <-
+-> %#73D3FB%***"Bathtime Is The Best Time!"***%% <-
+-> ![](https://i.ibb.co/51JXnn4/6-B965200-AE96-4427-BEAB-A26-C89-F8-ACEC.gif) <-
+-> ![](https://i.ibb.co/PjBGk8C/IMG-3984.png) <-
+-> [%#33A7D4%**Click Here To Dive Into My Collection!**%%](https://rentry.co/toycollection) <-

@@ -1,6 +1,6 @@
 !!! note
             
-    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10884812 🍎**
+    **🍎 Our temporary meeting place is: https://boards.4chan.org/d/thread/10923206 🍎**
 
     /ringo/ census: https://poal.me/3hy5hm
 
@@ -8,6 +8,7 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Suisei needs a shower!](https://docs.google.com/document/d/e/2PACX-1vSyMzJLVdQq_Yg2DakG0dUHV8viCS6x7OSMjWp3ADtxHOIQdI_txKtCw_mKwWcjFY_HtCHZaMeeqsug/pub)* | Suisei | sweat, smell |
 | *[A Friendly Competition](https://rentry.org/8o4tbevq)* | Fauna, Kronii, Mumei | brap, sweat |
 | *[HoloMess Collection](https://www.pixiv.net/novel/series/1497314) (Series)* [[AO3 mirror]](https://archiveofourown.org/works/36735109) | Various | brap, ringo, choco, diaper |
 | *[Comfort Assistants: Full Moon](https://rentry.org/cagqk)* | Moona | brap, choco |
@@ -225,16 +226,16 @@
 | [>>34283810](#34283810) | Marine | brap |
 | [>>35733450](#35733450) | Gura | choco |
 | [>>36104099](#36104099) | Lia, Airi | brap, choco, ringo |
-| [>>>/d/10424251](#d10424251) | Fauna | choco |
-| [>>37544668](#37544668) | Sana | brap |
-| [>>>/d/10452042](#d10452042) | n/a | burp, brap |
-| [>>37694534](#37694534) | Calli, Mel | sweat, brap, choco |
-| [>>37730541](#37730541) | Yuko | ringo |
-| [>>37892185](#37892185) | IRyS | burp, brap, ringo |
-| [>>>/d/10459102](#d10459102) | Ame, Gura | brap |
-| [>>>/d/10462894](#d10462894) | Pekora | brap |
-| [>>>/d/10466415](#d10466415) | Sana | choco |
-| [>>>/d/10468808](#d10468808) | Calli | choco |
+| [>>>/d/10424251](https://rentry.org/ringotext2#d10424251) | Fauna | choco |
+| [>>37544668](https://rentry.org/ringotext2#37544668) | Sana | brap |
+| [>>>/d/10452042](https://rentry.org/ringotext2#d10452042) | n/a | burp, brap |
+| [>>37694534](https://rentry.org/ringotext2#37694534) | Calli, Mel | sweat, brap, choco |
+| [>>37730541](https://rentry.org/ringotext2#37730541) | Yuko | ringo |
+| [>>37892185](https://rentry.org/ringotext2#37892185) | IRyS | burp, brap, ringo |
+| [>>>/d/10459102](https://rentry.org/ringotext2#d10459102) | Ame, Gura | brap |
+| [>>>/d/10462894](https://rentry.org/ringotext2#d10462894) | Pekora | brap |
+| [>>>/d/10466415](https://rentry.org/ringotext2#d10466415) | Sana | choco |
+| [>>>/d/10468808](https://rentry.org/ringotext2#d10468808) | Calli | choco |
 | [>>40994723](https://rentry.org/ringotext2#40994723) | Iroha | ringo |
 | [>>41169076](https://rentry.org/ringotext2#41169076) | Sora | choco |
 | [>>41352856](https://rentry.org/ringotext2#41352856) | Sora, Towa, Subaru | brap |
@@ -288,6 +289,16 @@
 | [>>68707183](https://rentry.org/ringotext2#68707183) | Runie, Ember | brap |
 | [>>68995186](https://rentry.org/ringotext2#68995186) | Shondo | choco |
 | [>>69083401](https://rentry.org/ringotext2#69083401) | Elira | choco |
+| [>>70111243](https://rentry.org/ringotext2#70111243) | Runie | choco |
+| [>>70158320](https://rentry.org/ringotext2#70158320) | Runie | choco |
+| [>>70181215](https://rentry.org/ringotext2#70181215) | n/a | sweat, smell, ringo |
+| [>>70186219](https://rentry.org/ringotext2#70186219) | Zentreya | brap |
+| [>>>/d/10920471](https://rentry.org/ringotext2#d10920471) | Reine | brap |
+| [>>70356471](https://rentry.org/ringotext2#70356471) | Various | smell |
+| [>>70359369](https://rentry.org/ringotext2#70359369) | Calli | brap |
+| [>>70392024](https://rentry.org/ringotext2#70392024) | Runie | choco |
+| [>>70477767](https://rentry.org/ringotext2#70477767) | Nerissa | brap |
+| [>>70546818](https://rentry.org/ringotext2#70546818) | Pippa, Lisa | smell, vomit, ringo |
 
 ## >>249165
 
@@ -2582,214 +2593,6 @@ The bratty zoomer sat there a moment catching her breath, "Lia are you ok, what 
 Rinmama made her way to Lia's door and opened it only to be hit by the stench of her daughter's bowel movements
 >all over my new hardwood floors, Lia!? Do I have to buy you diapers or something!? What happened!?
 >Airi quickly ran over to the computer and forcibly turned it off before helping the still gassy and sensitive Lia to the bathroom.
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10424251
-
->You want what!? That’s so gross! You’re disgusting!
->Why would you want to eat someone’s… poop…
->What!? Only mine…?
->I guess I’m flattered, in a weird way. You’re still gross though.
->If you keep asking…
->Fine. But you can’t watch or tell anyone, or I really will compost you.
-She takes off her panties and squats down over a bowl.
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>37544668
-
-For a normal human, the average speed of a fart blast is 10 feet per second. Sana is of course much larger. Her fat chocolate ass, according to this picture, is roughly the size of Earth. The Earth’s width from one side straight through to the other is about 8,000 miles. Using typical human proportions, a human is six times as tall as their waist, so (6 x 8,000) gives us 48,000 miles as Sana’s height here.
-
-Now we talk ratios. A normal human at 6 feet has a fart blast speed of 10 feet per second. (1.66x times their height). Sana is (48,000 miles = 253 million feet) tall. Multiplying that by the Speed of Fart constant, we get 404.8 million feet per second. Convert that to miles per hour, and you get Sana’s gas sweeping across the globe at an incredible 276 million miles per hour (or 76,000 miles per second).
-
-This speed is far beyond supersonic. The sound of her cheeks slapping together wouldn’t be fast enough to warn you of the impending blast. Even if Sana planted her ass on the north pole and you were vacationing in Antarctica, you would only have (8,000/76,666 = 0.104 seconds) to imagine the smell before every person and building around you vaporizes against a wall of space goddess gas.
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10452042
-
->eating Thanksgiving dinner with your oshi
->all the food she eats starts to give her a ton of gas
->she tries to stifle a burp but can't hold it in anymore and accidentally lets out a massive belch
->her face gets red with embarrassment as she apologizes, but you reassure her it’s okay
->"well, I guess I can make some room now"
->she opens up the floodgates and starts burping and farting without restraint
->later that night, while she's digesting her food, you lay in bed together, massaging her hefty food baby to push more braps out of her
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>37694534
-
->be small, petite Mel
->Mori invites herself into your flat
->the date comes, you start feeling tremors
->oh shit its's another earthquake
->the rumbling gets more intense, suddenly stops and you hear a doorbell
->open the door
->A 5′ 5″ 330 pound amazon wearing obscenely loose clothing appears outside your door
->"Yo yo Mel-senpai What's up my nigga?"
->she smells like mcdonald's, sweat, musk and natto
->she rolls into your room, lies on your couch, sweating profusely, ripping fat farts
->"yo cool place you got there Mel-senpai, got any snacks? no? that's cool" she says as she pulls out a half-finished bag of doritos "you want some? no? that's cool"
->she proceeds to eat the doritos while licking her fingers after each one and wiping them into your couch
->the entire time she throws gang sings at you and rambles about "being real and growing in the ghetto yo"
->tfw you don't even speak English and you profoundly regret your life decisions
->tfw you'd rather be molested by the manager than having to endure a minute more of this
-
->>37736563
-
->all of those farts are building up and it has to go somewhere
->The vampire can more easily smell just how dreadful her room is getting
->Already doesn't like to suck blood but the thought of sucking Mori's almost gives her diabetes from the thought alone
->suddenly one of those farts sounds a lot wetter than the others
->Mori's fat fingers pause before she grabs another Dorito as her pudgy face starts scrunching up
->A fouler odor than before floods the room as you realize Mori is no longer just farting
->finally Mori's face unscrunches in a look of massive relief as the muffled squishing continues
->hissing rises up in the air as well as Mel notices a growing glistening stain at the crotch of Mori's oversized black sweatpants that leaks onto the couch cushions below her
->tfw Mel starts to wonder if swallowing a bag of garlic or taking a stake to her heart would be better than having to deal with Mori using her couch as a toilet again
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>37730541
-
->in the same room as Yuko
->she flashes a devious smile and starts reaching for the NrG drink
->she slurps the whole thing and immediately starts tweaking
->"Hey Boo*hic*bro, open your mouth and *hic* say aaaahhhhh for me."
->you start to do as she requests
->her eyes turn red
->before you can finish and your brain can even begin to process her speed, she has already straddled your face and emptied her entire bladder of caustic ghost piss down your throat
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>37892185
-
->lying on the floor looking up to the night sky
->see something purple and shiny light up in the sky
->oh boy here she comes, you rub lube all over your nose in preparation
->Irys descends from the heavens wearing no panties under her new skirt
->she floats right down and gently lands herself on your face, your slippery nose sliding right into her butthole
->"I have descended from the heavenly department store! How do I look!?"
->you couldn't really see shit but you raise your arm to give a thumbs up
->"Aww, you're so sweet! I really like my new face! It's so cute and dainty and-"
->BBLLLLLLUUUUUUUUUUUUUUUURRRRRRRRRRPPPPP
->Irys lets out a huge rolling burp that you can smell from a distance
->Oh my, too much soda again before flying. I'm really gassy.. in both ends!!"
->Irys squeals and clamps her buttcheeks together, emptying her nephilim gas into your nose with a BBRRRRRRRRTTTTT.
->Your nose is shoved so far into her butthole you could already smell all of the shit that Cover had given her the past couple years, but now you're inhaling pure hopium from her source, the fetid shit stink filling your sinuses and lungs.
->"Oh man, thank goodness I have you here to stop this nephilim gas leaking out and poisoning someone! Good thing you're so strong, guyrys could never deal with this much!"
->Irys blasts out another stinky wave of farts straight into your nose. Even your breath stinks of Irys.
->"Oh jeez, now I gotta pee too.. You'll soak it up for me right?"
->Irys lifts up the front of her skirt and aims a stream of piss at your erect member, tinkling and splashing all over it.
->She unleashes another wave of farts during her pee, the stinkiest yet. The combination of fart stink and sensation of irys's warm pee makes you cum right there, shooting ropes all over Irys's pretty new face and costume.
->You pass out in a puddle of nephilim piss and wake up with a dry cleaning bill, your breath smells like hope gas for months
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10459102
-
->Be you, foodservice wagie
->5 colorful girls come in
->They approach you, menu in hand, with one question
->What do
-
->>10459237
->I tell them it's not gluten-free
->Ame says it's OK, she'll probably be fine
-
->>10460116
->serve her a big greasy order of burgers and fries
->she looks shocked by the portion size, but still gives you a "Thaaank you~" and brings it back to the table with the rest of her friends
->five minutes into the meal she starts looking around nervously
->her face is flushed, sweaty, and you notice she keeps leaning to the side
->the white haired girl sitting next to her is holding her nose for some reason
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10462894
-
->Pekora finally moved out of her family home a year ago
->Her new place is like 1 minute away
->She still goes home to stream because the network is better
->Also she's lazy and didn't want to move her PC setup
->Since she doesn't work from it, the new place's purpose is just for Peko to hang out and sleep
->One night she's idly scrolling her phone while lying on the new couch
->Feels a brap building up and reflexively clenches shut
->Then the realization hits her: she's alone here
->She sticks her head above the couch cushion and looks around, half expecting to see someone
->Lowers herself back down and slowly relaxes her butthole
->BRAPAPAPAP
->The immense relief from her very first bachelorette brap was intoxicating
->Now Pekora constantly lets loose all throughout the place
->After finishing streams, she eagerly dashes over and empties her pent-up gut
->She crop dusts her cats and for fun tries to scare them with especially loud ones
->Even the fucking monkey cowers in fear when the cottontail rises
->Despite being a millionaire, Pekora's new place doesn't have a clothes washing machine
->She still makes Pekomom do her laundry, and keeps telling her she'll buy one eventually
->yeahright.jpg
->Once a week or so, this hikki rabbit packs together a pile of her pungent peko panties and ashamedly walks them outside in the open air to her "laundromat"
->(You), a neighbor, pass by her in the street on one such day
->Avoid making eye contact because Japanese
->A whiff of the funky parcel causes your head to whip around in a double-take
->The back of Pekora's ears redden and she quickens her pace as she leaves your sight
->You keep walking in the opposite direction, confused at the interaction
->You walk past the building you think you've seen her leaving from before
->It's faint, but you swear that same smell is coming from the windows
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10466415
-
-Big titty /vt/ thread just made me miss Sana so much, especially how much of a big space baby she was.
->tfw we'll never get spaced-themed nappies for Sana's birthday or anniversary merch
->tfw Sana will never model them on stream to show how they're as thick as the universe
->tfw she'll need fudge her space huggies as much as she can to show how the nappies can contain the size of the Earth and heavens
->tfw Sana will never have the chance to beg the other Council member for nappy changes
->tfw Sana will never talk about how full and loaded her nappy is on stream and how she might've just pushed out a turd the size of a galaxy in there
->tfw Fauna won't be able to tease Sana about how much fertilizer her diapers are filled with
->tfw Mumei won't compare the stench of Sana's nappies to being worse than any plague she ever unleashed on civilization
->tfw Kronii will complain that even all of the time in the world isn't enough to finish cleaning up Sana's nappies with how absolutely full they are
->tfw Bae won't stop talking about how maddening just being in a room with Sana's stinky nappybutt is, especially when being used as Sana's seat
-Fellas, would it have been really so hard for Sana to release a nappy crinkling and filling ASMR before graduating?
-
--> [[top]](#ringo-greentext) <-
--> * * * <-
-
-## >>>/d/10468808
-
-Anyone else watch Idiocracy and think about how well pic related could lend itself to fetish scenarios? I
-
->Mori has this installed in place of her normal office chair to obviate the need for idol meetings
->Immediately clogs it with her enormous girthy fast food turds
->She's obviously not going to stop the stream to get up, so you have to get underneath to try and fix it with her still in place
->She feels the need to go before you've finished
->Doesn't even try to hold it and laughs as she unloads all over your face
-
-If you're into messing:
-
->Mori leaves her apartment for the first time in a few weeks to have an off-collab with IRyS
->Feels a dump coming on
->The force of habit takes over and she neglects to consider she's not in her own chair
->IRyS smells Mori's shit stench and looks over in horror to see the massive reeking load now bulging out of her black leggings
->Mori, enjoying the relief, seems to either not notice or not care
-
-IIRC in the movie it's hooked up to plumbing but imagining something stand-alone with an internal holding tank is also hot:
-
->Mori buys one of these and completely stops using her normal toilet
->There's pretty much no odor insulation to speak of
->Mori doesn't want you bothering her or interrupting the stream, so she won't let you empty it any more often than absolutely necessary
->This is supposed to be a week under normal usage
->With Mori's giga-shits it's more like a few days, but her tiny apartment still becomes permanently filled with her overpowering shit stench
 
 -> [[top]](#ringo-greentext) <-
 -> * * * <-

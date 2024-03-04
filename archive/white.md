@@ -1,1 +1,1 @@
-->[%#cad9c1%White is dead．He's no longer of this world－he's a ghost．%%](/rococo)<-
+->[%#d3d3d3% White is dead．He's no longer of this world－he's a ghost．%%](/rococo)<-

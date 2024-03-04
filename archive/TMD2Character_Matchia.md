@@ -8,7 +8,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 ---- | ----
 **Origin:** Ex-Human (Fragmented)| **Guild Role/Occupation:** Team Stardust Member
 **Species:** Mienfoo | **Affiliation:** Team Stardust
-**Level:** 13 | **Experience to Next Level:** 40/130
+**Level:** 13 | **Experience to Next Level:** 50/130
 **Worn Item:** *N/A* | **Clothing:** *Cap*
 **Pokécoin:** 1,158 ₽ | **Glorious Gold:** 0 Bars
 

@@ -1,4 +1,4 @@
--> [%#cad9c1% go back？%%](https://rentry.co/white)<-
+-> [%#d3d3d3%  go back？%%](https://rentry.co/white)<-
 
 ***
 
@@ -7,6 +7,5 @@
 %#696969% (filipino) 5w4 infj tmasc%%<-
 
 ***
-->[%#cad9c1% mui imgs%%](https://rentry.co/romancia)
-[%#cad9c1% credits%%](https://rentry.co/memoire)
-[%#cad9c1%extended info%%](https://rentry.co/marionetto)<-
+->[%#d3d3d3%  mui imgs%%](https://rentry.co/romancia)
+[%#d3d3d3%  credits%%](https://rentry.co/memoire)<-

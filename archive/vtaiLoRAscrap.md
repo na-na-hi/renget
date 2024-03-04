@@ -45,6 +45,8 @@
 **MegalodonVT (Indie)** - https://civitai.com/models/328660/megalodonvt-vtuber
 **Himemori Luna (5th outfit - Hololive)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/1e4GWIqI
 **Maliya Mirime (Indie)** - https://civitai.com/models/328979/maliya-mirime-vtuber-ru
+**Tomoe Carmine (Production Kawaii)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/JT5iHYiD
+**Yuzuki Choco (Hololive)** - https://civitai.com/models/332256/yuzuki-choco-hololive-commission
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

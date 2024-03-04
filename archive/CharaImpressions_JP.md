@@ -1,5 +1,5 @@
 # JP character impressions (We're back)
-**Since we don't know what Elements will do yet, these thoughts are not reflective of that system. Most likely after February CB.**
+**Winter Yuni and onwards will have some elemental thoughts included. Older ones will retroactively have these thoughts added.**
 
 
 [TOC2]
@@ -1417,8 +1417,6 @@ Pros:
 Cons:
 - Doesn't deal any damage by herself
 - The revive is her fifth action, potentially making it useless in arena depending on your opponent's team as it may not be used before your team is wiped out
-
-## From here, elemental thoughts will be included.
 
 ### ->Winter Yuni ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<-
 **Good physical support with TP boost, action speed increase and every physical buff you could want for a party. No debuffs to enemies though. Good addition to water support cast.**

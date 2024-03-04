@@ -1,5 +1,203 @@
 Supplemental page due to hitting character limit on [rentry.org/ringotext](/ringotext)
 
+## >>>/d/10424251
+
+>You want what!? That’s so gross! You’re disgusting!
+>Why would you want to eat someone’s… poop…
+>What!? Only mine…?
+>I guess I’m flattered, in a weird way. You’re still gross though.
+>If you keep asking…
+>Fine. But you can’t watch or tell anyone, or I really will compost you.
+She takes off her panties and squats down over a bowl.
+
+-> * * * <-
+
+## >>37544668
+
+For a normal human, the average speed of a fart blast is 10 feet per second. Sana is of course much larger. Her fat chocolate ass, according to this picture, is roughly the size of Earth. The Earth’s width from one side straight through to the other is about 8,000 miles. Using typical human proportions, a human is six times as tall as their waist, so (6 x 8,000) gives us 48,000 miles as Sana’s height here.
+
+Now we talk ratios. A normal human at 6 feet has a fart blast speed of 10 feet per second. (1.66x times their height). Sana is (48,000 miles = 253 million feet) tall. Multiplying that by the Speed of Fart constant, we get 404.8 million feet per second. Convert that to miles per hour, and you get Sana’s gas sweeping across the globe at an incredible 276 million miles per hour (or 76,000 miles per second).
+
+This speed is far beyond supersonic. The sound of her cheeks slapping together wouldn’t be fast enough to warn you of the impending blast. Even if Sana planted her ass on the north pole and you were vacationing in Antarctica, you would only have (8,000/76,666 = 0.104 seconds) to imagine the smell before every person and building around you vaporizes against a wall of space goddess gas.
+
+-> * * * <-
+
+## >>>/d/10452042
+
+>eating Thanksgiving dinner with your oshi
+>all the food she eats starts to give her a ton of gas
+>she tries to stifle a burp but can't hold it in anymore and accidentally lets out a massive belch
+>her face gets red with embarrassment as she apologizes, but you reassure her it’s okay
+>"well, I guess I can make some room now"
+>she opens up the floodgates and starts burping and farting without restraint
+>later that night, while she's digesting her food, you lay in bed together, massaging her hefty food baby to push more braps out of her
+
+-> * * * <-
+
+## >>37694534
+
+>be small, petite Mel
+>Mori invites herself into your flat
+>the date comes, you start feeling tremors
+>oh shit its's another earthquake
+>the rumbling gets more intense, suddenly stops and you hear a doorbell
+>open the door
+>A 5′ 5″ 330 pound amazon wearing obscenely loose clothing appears outside your door
+>"Yo yo Mel-senpai What's up my nigga?"
+>she smells like mcdonald's, sweat, musk and natto
+>she rolls into your room, lies on your couch, sweating profusely, ripping fat farts
+>"yo cool place you got there Mel-senpai, got any snacks? no? that's cool" she says as she pulls out a half-finished bag of doritos "you want some? no? that's cool"
+>she proceeds to eat the doritos while licking her fingers after each one and wiping them into your couch
+>the entire time she throws gang sings at you and rambles about "being real and growing in the ghetto yo"
+>tfw you don't even speak English and you profoundly regret your life decisions
+>tfw you'd rather be molested by the manager than having to endure a minute more of this
+
+>>37736563
+
+>all of those farts are building up and it has to go somewhere
+>The vampire can more easily smell just how dreadful her room is getting
+>Already doesn't like to suck blood but the thought of sucking Mori's almost gives her diabetes from the thought alone
+>suddenly one of those farts sounds a lot wetter than the others
+>Mori's fat fingers pause before she grabs another Dorito as her pudgy face starts scrunching up
+>A fouler odor than before floods the room as you realize Mori is no longer just farting
+>finally Mori's face unscrunches in a look of massive relief as the muffled squishing continues
+>hissing rises up in the air as well as Mel notices a growing glistening stain at the crotch of Mori's oversized black sweatpants that leaks onto the couch cushions below her
+>tfw Mel starts to wonder if swallowing a bag of garlic or taking a stake to her heart would be better than having to deal with Mori using her couch as a toilet again
+
+-> * * * <-
+
+## >>37730541
+
+>in the same room as Yuko
+>she flashes a devious smile and starts reaching for the NrG drink
+>she slurps the whole thing and immediately starts tweaking
+>"Hey Boo*hic*bro, open your mouth and *hic* say aaaahhhhh for me."
+>you start to do as she requests
+>her eyes turn red
+>before you can finish and your brain can even begin to process her speed, she has already straddled your face and emptied her entire bladder of caustic ghost piss down your throat
+
+-> * * * <-
+
+## >>37892185
+
+>lying on the floor looking up to the night sky
+>see something purple and shiny light up in the sky
+>oh boy here she comes, you rub lube all over your nose in preparation
+>Irys descends from the heavens wearing no panties under her new skirt
+>she floats right down and gently lands herself on your face, your slippery nose sliding right into her butthole
+>"I have descended from the heavenly department store! How do I look!?"
+>you couldn't really see shit but you raise your arm to give a thumbs up
+>"Aww, you're so sweet! I really like my new face! It's so cute and dainty and-"
+>BBLLLLLLUUUUUUUUUUUUUUUURRRRRRRRRRPPPPP
+>Irys lets out a huge rolling burp that you can smell from a distance
+>Oh my, too much soda again before flying. I'm really gassy.. in both ends!!"
+>Irys squeals and clamps her buttcheeks together, emptying her nephilim gas into your nose with a BBRRRRRRRRTTTTT.
+>Your nose is shoved so far into her butthole you could already smell all of the shit that Cover had given her the past couple years, but now you're inhaling pure hopium from her source, the fetid shit stink filling your sinuses and lungs.
+>"Oh man, thank goodness I have you here to stop this nephilim gas leaking out and poisoning someone! Good thing you're so strong, guyrys could never deal with this much!"
+>Irys blasts out another stinky wave of farts straight into your nose. Even your breath stinks of Irys.
+>"Oh jeez, now I gotta pee too.. You'll soak it up for me right?"
+>Irys lifts up the front of her skirt and aims a stream of piss at your erect member, tinkling and splashing all over it.
+>She unleashes another wave of farts during her pee, the stinkiest yet. The combination of fart stink and sensation of irys's warm pee makes you cum right there, shooting ropes all over Irys's pretty new face and costume.
+>You pass out in a puddle of nephilim piss and wake up with a dry cleaning bill, your breath smells like hope gas for months
+
+-> * * * <-
+
+## >>>/d/10459102
+
+>Be you, foodservice wagie
+>5 colorful girls come in
+>They approach you, menu in hand, with one question
+>What do
+
+>>10459237
+>I tell them it's not gluten-free
+>Ame says it's OK, she'll probably be fine
+
+>>10460116
+>serve her a big greasy order of burgers and fries
+>she looks shocked by the portion size, but still gives you a "Thaaank you~" and brings it back to the table with the rest of her friends
+>five minutes into the meal she starts looking around nervously
+>her face is flushed, sweaty, and you notice she keeps leaning to the side
+>the white haired girl sitting next to her is holding her nose for some reason
+
+-> * * * <-
+
+## >>>/d/10462894
+
+>Pekora finally moved out of her family home a year ago
+>Her new place is like 1 minute away
+>She still goes home to stream because the network is better
+>Also she's lazy and didn't want to move her PC setup
+>Since she doesn't work from it, the new place's purpose is just for Peko to hang out and sleep
+>One night she's idly scrolling her phone while lying on the new couch
+>Feels a brap building up and reflexively clenches shut
+>Then the realization hits her: she's alone here
+>She sticks her head above the couch cushion and looks around, half expecting to see someone
+>Lowers herself back down and slowly relaxes her butthole
+>BRAPAPAPAP
+>The immense relief from her very first bachelorette brap was intoxicating
+>Now Pekora constantly lets loose all throughout the place
+>After finishing streams, she eagerly dashes over and empties her pent-up gut
+>She crop dusts her cats and for fun tries to scare them with especially loud ones
+>Even the fucking monkey cowers in fear when the cottontail rises
+>Despite being a millionaire, Pekora's new place doesn't have a clothes washing machine
+>She still makes Pekomom do her laundry, and keeps telling her she'll buy one eventually
+>yeahright.jpg
+>Once a week or so, this hikki rabbit packs together a pile of her pungent peko panties and ashamedly walks them outside in the open air to her "laundromat"
+>(You), a neighbor, pass by her in the street on one such day
+>Avoid making eye contact because Japanese
+>A whiff of the funky parcel causes your head to whip around in a double-take
+>The back of Pekora's ears redden and she quickens her pace as she leaves your sight
+>You keep walking in the opposite direction, confused at the interaction
+>You walk past the building you think you've seen her leaving from before
+>It's faint, but you swear that same smell is coming from the windows
+
+-> * * * <-
+
+## >>>/d/10466415
+
+Big titty /vt/ thread just made me miss Sana so much, especially how much of a big space baby she was.
+>tfw we'll never get spaced-themed nappies for Sana's birthday or anniversary merch
+>tfw Sana will never model them on stream to show how they're as thick as the universe
+>tfw she'll need fudge her space huggies as much as she can to show how the nappies can contain the size of the Earth and heavens
+>tfw Sana will never have the chance to beg the other Council member for nappy changes
+>tfw Sana will never talk about how full and loaded her nappy is on stream and how she might've just pushed out a turd the size of a galaxy in there
+>tfw Fauna won't be able to tease Sana about how much fertilizer her diapers are filled with
+>tfw Mumei won't compare the stench of Sana's nappies to being worse than any plague she ever unleashed on civilization
+>tfw Kronii will complain that even all of the time in the world isn't enough to finish cleaning up Sana's nappies with how absolutely full they are
+>tfw Bae won't stop talking about how maddening just being in a room with Sana's stinky nappybutt is, especially when being used as Sana's seat
+Fellas, would it have been really so hard for Sana to release a nappy crinkling and filling ASMR before graduating?
+
+-> * * * <-
+
+## >>>/d/10468808
+
+Anyone else watch Idiocracy and think about how well pic related could lend itself to fetish scenarios? I
+
+>Mori has this installed in place of her normal office chair to obviate the need for idol meetings
+>Immediately clogs it with her enormous girthy fast food turds
+>She's obviously not going to stop the stream to get up, so you have to get underneath to try and fix it with her still in place
+>She feels the need to go before you've finished
+>Doesn't even try to hold it and laughs as she unloads all over your face
+
+If you're into messing:
+
+>Mori leaves her apartment for the first time in a few weeks to have an off-collab with IRyS
+>Feels a dump coming on
+>The force of habit takes over and she neglects to consider she's not in her own chair
+>IRyS smells Mori's shit stench and looks over in horror to see the massive reeking load now bulging out of her black leggings
+>Mori, enjoying the relief, seems to either not notice or not care
+
+IIRC in the movie it's hooked up to plumbing but imagining something stand-alone with an internal holding tank is also hot:
+
+>Mori buys one of these and completely stops using her normal toilet
+>There's pretty much no odor insulation to speak of
+>Mori doesn't want you bothering her or interrupting the stream, so she won't let you empty it any more often than absolutely necessary
+>This is supposed to be a week under normal usage
+>With Mori's giga-shits it's more like a few days, but her tiny apartment still becomes permanently filled with her overpowering shit stench
+
+-> * * * <-
+
 ## >>40994723
 
 >Be you
@@ -1041,5 +1239,164 @@ I'd tell her that if she wants to keep her job, to do the following:
 2.) Schedule an apology stream.
 3.) Tell her to do her best to shit her pants during the stream without drawing attention to herself or letting everyone know.
 4.) When the stream is over, make her facesit me while I get off, then I slap her soiled ass and tell her to clean her disgusting self up.
+
+-> * * * <-
+
+## >>70158320
+
+Can you imagine being Runie's toilet and having to be filled with her mess each day?
+The size of her turds have to be longer than your arm, probably wider too. There's likely next to no moisture in that thing so it's just one solid piece coiling in the bowl. I wouldn't be surprised if she talked or sang to herself while going honestly
+>Poopin'! Don't give it up Runie!
+The nightmares that porcelain throne must have every time the light turns on...it has to watch this football sized monster slowly from at the base of her sphincter as that rancid, choking smell fills the entire bathroom. It wants to shout, "light a candle! Spray febreze! Anything!" but can only sit there as her incessant singing and farting drones on for hours at a time.
+She probably can't even flush those monsters no matter how many times she goes at it with a plunger. Has to get a spatula and break it up into smaller pieces.
+
+-> * * * <-
+
+## >>70111243
+
+Can you imagine how awful Runie's turds are? Like pitch black in color, coarse and rough like charcoal, and such a fetid smell it would clear even a McDonald's bathroom. She probably struggles to push them out too, just straining for hours like she's giving birth, sweat dropping from her forehead as she belts out deep guttural roars of pain as the feces moves through her already stretched out intestines like molasses.
+
+-> * * * <-
+
+## >>70181215
+
+Not bad, but what I had in mind was
+
+>I am gonna break NDA, and say we have to wear a different pair of socks every day.
+>there will be an auction for socks by the end of the year.
+>I don't know how it will work out, but that's what stuck out in the contract for me
+>I don't care if I get terminated, but I think I won't because this is going to be good marketing
+>anyways, if one girl wears one pair every day, that's just 365 pairs by the end of the year, and [365 x # of genmates] from my entire generation
+>I know you sickos will buy more than one pair, so clearly, that won't be enough.
+>so I figured, hey SocksCEO, just give me a bunch of socks. I have a better idea
+>so I got like 1,000 pairs of socks, but i plan on using like 50 today. We'll see
+>for my debut stream I'm gonna play Ring Fit Adventure, get all sweaty and gross, and use my batch of socks to wipe off my sweat.
+>I won't wear socks on my feet to make things fair though.
+>hehe are you perhaps upset? Are you mildly inconvenienced?
+>well, don't worry. Maybe I'll use some socks to wipe myself after I pee
+>I will spit a drink or food I don't like in a sock.
+>or maybe I'll shower with socks on, so you get to know what my feet smell like freshly washed
+>it doesn't matter cuz i know it will sell
+
+All of this is said by their obligatory uohtuber btw
+
+-> * * * <-
+
+## >>70186219
+
+Cannot stop thinking about zen's fat ass crushing my face and unloading cheek clapping braps that make her cheeks slap against my head, whilst her skirt creates a hotbox that traps in her fumes around my head and amplifies the aromas
+
+-> * * * <-
+
+## >>>/d/10920471
+
+>Reine switches to a trendy egg-heavy diet
+>she feels healthier but her farts absolutely reek
+>using her wealth and influence, she hires a servant to stand near her at all times and take the blame for her gas
+>eventually Reine realizes it's easier to just keep their face belted to her ass throughout the day
+>that way the sound is pleasantly dampened and no one has to endure the stench of her braps
+>thus begins the arduous daily life of Reine's royal fart muffler
+
+-> * * * <-
+
+## >>70356471
+
+Myth:
+>Gura: STANKY sharky pussy
+>Ame: smells like yeast
+>Kiara: little to no pussy smell
+>Ina: CAUSTIC pussy stench, will singe your nostrils
+>Mori: booty stank
+
+Promise:
+>IRyS: smells like dried grool
+>Bae: little to no pussy smell
+>Fauna: pussy smells like
+>Kronii: pussy smells like day old tuna salad
+>Mumei: depending on when she last needed to socialize, pussy would either have a mild ammonia smell or be an absolute olfactory bioweapon mixture of piss, blood, saliva, girlcum, and natural bacteria that can incapacitate a fully grown man
+
+Advent:
+>Biboo: no pussy smell, tastes like rock candy
+>Nerissa: mild to no pussy smell
+>Fuwawa: smells like wet dog
+>Mococo: smells like Fuwawa's saliva and mildly poopy because she wipes back-to-front
+>Shiori: the moment she takes her panties off, everyone in the room will immediately go unconscious from the sensory shock, can cause permanent olfactory neuron damage
+
+-> * * * <-
+
+## >>70359369
+
+Mori's farts must smell amazing.
+Imagine the combined scent of her already musky butthole and her dire gas.
+I want to wear an oxygen mask and pipe her farts into it straight from her asshole.
+
+-> * * * <-
+
+## >>70392024
+
+Runie's bowels are emptied only a few times per month due to her high protein low fiber diet. She's the kind of girl to take pride in her work
+>Anon honey come here, you gotta see the size of this one! bigger than your head! Definitely a clogger!
+
+-> * * * <-
+
+## >>70477767
+
+Nerissa's pungent, delectable, indulgent, repugnantly rancid, perfectly putrid farts squelching free from her big white bubble butt directly onto my face, the thick erotic fumes snaking across my cheeks and into my nostrils.
+The serene shitgas caresses my sinuses and I am immediately sent into a state of nasal euphoria, cumming down the leg of my trousers and wailing with climactic abandon whilst she pipes my nose and mouth with so many reeking farts my breath smells like her ass for months.
+
+-> * * * <-
+
+## >>70546818
+
+>comfort pippa
+>lopsided wonky looking tits
+>one areola has a long hair on it
+>the other a large boil
+>the pippits are covered in dark pink wiry tangled hair
+>slightly alarmed by the strange stench coming from her underwear but force yourself to take them off anyway knowing this may be your only chance to get laid
+>the gates to hell open revealing mounds of pubic hair with flecks of her own fluids in it
+>the hair is so unkempt it has started climbing into knots
+>the smell is that of sour milk and fish
+>takes everything in your power just to get hard, even with her tugging at it roughly
+>which is only made worse by her trying to shove her tongue down your throat
+>you can taste her rotted teeth and empty sockets as she maintains eye contact watching you with that wall eyed stare of hers
+>the only thing that gets you hard is thinking about sleepy in her swimsuit
+>finally Pippa mounts you
+>her vag is dry and emitting a foul stench that gets worse with every thrust of her hips
+>"lie back and think of Hina..." you say to yourself
+>imagining how well kempt she is compared to the rabbit who moans like a dying animal
+>try and force your orgasm but it doesn't work the entire experience is awful and you feel something against your dick
+>Pippa lies out and let's out a bellowing moan that causes her body to convulse
+>she slowly dismounts you as pink cum trickles out of this hairy axe wound
+>"haha I think you popped that vaginal cyst I had anon"
+>you just know you're going to wake up tomorrow with some strange disease
+>"oh shit you didn't pop yet huh...hold on I can do this"
+>does her best to bob her head on your cock
+>for once all those missing teeth come in handy as it's more like a gumjob than blowjob
+>you cum in seconds with possibly the best orgasm of your life
+>but pippa can't swallow it all down despite her best efforts
+>the disgusting noises this creature makes trying to swallow it all down before choking and puking
+>a mixture of mountain dew, semen, and potato chips coat your member "sorry anon... I'll work on my swallowing"
+>she reaches up and gives you a peck on the cheek before disappearing into the bathroom to clean herself up
+>try to see the bright side in this, you're no longer a virgin
+>but there's blood, semen, and vomit on you and your bed
+>hear the shower turn on and get up to join her, maybe some shower fun will make up for this
+>then hear the toilet seat lift followed by the splashing of her pee
+>wait until she's done
+>"HNNNNNN *plop* oh that's awful hope he doesn't come in here..." you hear her say in a hushed voice
+>just wipe yourself off on the covers and go to put them in the wash
+
+>Lisa gets horny and crawls over to Pippa to eat her out
+>Is suddenly hit by the waft of a fish market on a hot summer day as Pippa spreads her legs
+>Lisa recoils in fear at the mound of pink hair and visibly yellowed skin around the vagina
+>Decides it may not be too bad if she just doesn't put her face in it
+>The layers of caked on smegma and dried piss begin filling up her hands as she struggles to open the yeast filled flaps
+>Audibly gags which Pippa takes as wanting to makeout
+>Forces her tongue down the sheep's throat who tries her damndest to keep her puke down while Pippa begins grinding herself into the still clothed Lisa
+>Shoves her down to take control as she slowly removes Lisa's black lace panties to reveal her neatly shaven pussy in prim and proper condition
+>Being the degenerate she is, the rabbit puts the panties over her face and begins making unholy noises as she breathes deep and tongues every corner of the crotch
+>Lisa watches in horror as once they have been thoroughly stretched out Pippa then shoves them deep inside her hole and gets back on top of the innocent sheep
+>Who thinks maybe Pippa will just grind into her and it won't be so bad, but is in for a rude awakening when her phase friend sits on the sheep's face then licks her hand and gives Lisa's pussy a thick SMACK! as if to say get lickin'
+>Lisa was found unconscious early the next day with pink pubes littering her face and droplets of urine running down her chin
 
 -> * * * <-

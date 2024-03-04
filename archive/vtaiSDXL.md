@@ -61,6 +61,10 @@
 ###### -> Vox Akuma <-
 -> [Civitai](https://civitai.com/models/59427/vox-akuma-nijisanji) <-
 
+##### -> Virtuareal <-
+###### -> Nana7mi <-
+-> [Civitai](https://civitai.com/models/332409/nana7mi-kohaku-xl-delta) <-
+
 #### -> Phase Connect <-
 -> ![PHASE-CONNECT](https://files.catbox.moe/fv0h8r.png) <-
 ***
@@ -479,12 +483,18 @@ or
 !!! info Example Prompt
 	Fuwawa Abyssgard, pink eyes, long hair, large breasts, blue hairband, hairpin, collar, white dress, cleavage, black jacket, belt, fur trim,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
+or
+!!! info other lora, check tags from the uploader
+-> [Civitai](https://civitai.com/models/331762/fuwawa-abyssgard-for-ponyxl) <-
 
 ##### -> Mococo Abyssgard <-
 !!! note Tags suggested by uploader, not me
 !!! info Example Prompt
 	Mococo Abyssgard, blue eyes, medium hair, small breasts, pink hairband, hairpin, x hair ornament, collar, white crop top, black cropped jacket, white shorts, belt, fur trim
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
+or
+!!! info other lora, check tags from the uploader
+-> [Civitai](https://civitai.com/models/331773/mococo-abyssgard-for-ponyxl) <-
 
 ##### -> Tsunomaki Watame <-
 !!! info 6 Outfits!
@@ -536,6 +546,14 @@ or
 ##### -> Ouro Kronii <-
 !!! info 5 Outfits! Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
 -> [Civitai](https://civitai.com/models/325006/ouro-kronii-5-outfits-or-hololive-or-pony-xl) <-
+
+##### -> Nanashi Mumei <-
+!!! info Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
+-> [Civitai](https://civitai.com/models/329898/nanashi-mumei-for-ponyxl) <-
+
+##### -> Ookami Mio <-
+!!! info 7 Outfits!
+-> [Civitai](https://civitai.com/models/331637/ookami-mio-xl-7-outfits-hololive) <-
 
 ##### -> La+ Darknesss <-
 !!! note Tags suggested by uploader, not me
@@ -601,6 +619,9 @@ or
 	lize hestia, long hair, white hair, purple eyes, hair ornament, colored inner hair, white shirt, miniskirt, pleated skirt, blue skirt, white jacket, long sleeves, armband, blue thighhighs, white knee boots, thigh strap, thighhighs under boots,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/0vVznBrD) <-
 
+##### -> Lain Paterson <-
+-> [Civitai](https://civitai.com/models/331976/lain-paterson-nijisanji-ponyxl) <-
+
 ##### -> Nina Kosaka <-
 !!! info 2 Outfits!
 -> [Civitai](https://civitai.com/models/325136/ponyxl-nina-kosaka-2-outfits-oror-nijisanji-en-en) <-
@@ -625,6 +646,8 @@ or
 ***
 ##### -> Projekt Melody <-
 -> [Civitai](https://civitai.com/models/327337/projekt-melody-for-ponyxl) <- 
+##### -> Nyatasha Nyanners <-
+-> [Civitai](https://civitai.com/models/332979/nyanners-vtuber) <-
 
 #### -> Indies <-
 ***

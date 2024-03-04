@@ -1,3 +1,9 @@
--> [![](https://i.ibb.co/51JXnn4/6-B965200-AE96-4427-BEAB-A26-C89-F8-ACEC.gif)](https://rentry.co/toycollection) <-
--> **Work In Process!** <-
--> **Click the Duck Pool to see the rest of the museum!** <-
+-> %#EC9D00%**"Adventure is out there!"**%% <-
+-> ![](https://i.ibb.co/zSyS2w2/Untitled1063-20240131073041.png) <-
+-> ![](https://i.ibb.co/2gyyDdh/IMG-3991.gif) <-
+-> ![](https://i.ibb.co/NNmZpsp/4-B44-A4-F5-D71-C-414-C-9-ED4-EEFCE8121717.png) <-
+-> %#EC9D00%**Autistic Gay Male**%% <-
+-> %#EC9D00%**Age Regressor & Alterhuman**%% <-
+-> %#EC9D00%**Looking for fellow toony friends**%% <-
+-> [%#EC9D00%!~**Check out my identity list to see if we share a source**~!%%](https://rentry.co/RedIsHeroic) <-
+ -> ![](https://i.ibb.co/3B3Xct0/IMG-3992.gif) [%#EC9D00%!~**Click Here To Meet The Cartoon**~!%%](https://rentry.co/cyadical)<-

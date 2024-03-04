@@ -18,17 +18,26 @@
     ### Hamas
     >MUST WATCH: Al-Qassam (Hamas) published a video showing scenes of its forces confront IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City, east of Gaza City.
     >https://files.catbox.moe/t11xz6.mp4  New  3/2/24  
+    ***
+    >The moment the Al-Aqsa Brigades sniped an occupation soldier in the Al-Zaytoun neighborhood in #Gaza City.
+    >https://files.catbox.moe/thz92t.mp4  New  3/3/24  
  !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
     > https://files.catbox.moe/aufqqi.mp4  New  3/1/24
+    ***
+    >WATCH: Hezbollah published a video showing the operation that targeted the Jal al-Alam and Metulla IOF army sites.
+    >https://files.catbox.moe/uxek7w.mp4  New  3/3/24
  !!!note
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
     >https://files.catbox.moe/37e8yj.mp4  New  3/1/24
-    
+    ***
     >WATCH: Al-Quds Brigades published a video showing the targeting of israeli soldiers in “Qalbat 22” east of the Eastern Cemetery in Jabalia with a guided 107mm missile.
     >https://files.catbox.moe/ucxiur.mp4  New  3/2/24
+    ***
+    >WATCH: Al-Quds Brigades published a video showing its forces target IOF soldiers and vehicles in the Abasan Al-Kabira area, east of Khan Yunis.
+    >https://files.catbox.moe/5zhwcv.mp4  New  3/3/24
 ### AnsarAllah 
 !!!note
 ### Islamic Resistance Iraq
@@ -61,4 +70,28 @@
     ***
     >Planes have dropped aid parcels over Rafah just moments ago, amidst urgent calls to open the Rafah crossing and permit hundreds of trucks to enter, addressing the essential needs of Gaza residents for food and medical supplies.  
     >https://files.catbox.moe/sv1vbm.mp4  New  3/2/24
+    ***
+    >Planes have dropped aid parcels over Rafah just moments ago, amidst urgent calls to open the Rafah crossing and permit hundreds of trucks to enter, addressing the essential needs of Gaza residents for food and medical supplies.
+    >https://files.catbox.moe/sv1vbm.mp4  New 3/2/24
+    ***
+    >NEW: Ultra orthodox Jewish settlers in Jerusalem are currently blocking Highway 4 in the Bar Ilan area in protest against the conscription law
+    >    
+    >Via @WarMonitors
+    >New  3/3/24
+    >https://files.catbox.moe/qawalw.mp4
+    ***
+    >What was ongoing for the past decades before October 7th :
+    >
+    >An Israeli settler mocks a Palestinian man who was recently expelled from his own house by offering stolen milk from his very own refrigerator in Al -Quds, Occupied Palestine.
+    >https://files.catbox.moe/0hn1fy.mp4  New  3/3/24
+    ***
+    >Al-Qassam (Hamas) published a video showing the recovery of the 2 seized “Skylark” drone in the Al-Zaytoun neighborhood in Gaza City.  
+    >https://files.catbox.moe/sq1wpu.mp4  New  3/3/24
+    ***
+    >US aid drop in gaza 
+    >source unkown
+    >https://files.catbox.moe/vpbnai.mp4  New 3/3/24
+    ***
+    >The #USA delivers aid to #Gaza
+    >https://files.catbox.moe/2ktu9p.mp4  New  3/3/24
     ***

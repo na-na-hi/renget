@@ -248,3 +248,170 @@
     >🔻Targeted the Hadab Yarin site with 2 Burkan IRAM rockets.
     >https://t.me/FotrosResistance/5715  3/2/24  
 ***
+!!!warning 
+    >🚨𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Islamic Resistance in Iraq announces:
+    > 
+    >On the evening of Friday, to have attacked the chemical materials depot/site in the port of Haifa with (a) kamikaze drone(s).
+    >https://nitter.esmailelbob.xyz/AryJeay/status/1764276582204510703#m  3/3/24  
+    ***
+    >🚨 | 🇮🇶 JUST IN: An important statement by the Islamic resistance in Iraq will be issued shortly
+    >https://nitter.esmailelbob.xyz/AryJeay/status/1764270981382558035#m  3/3/24  
+    ***
+    >⚡️WATCH: Al-Quds Brigades published a video showing its forces target IOF soldiers and vehicles in the Abasan Al-Kabira area, east of Khan Yunis.
+    >https://nitter.esmailelbob.xyz/AryJeay/status/1764275475298341115#m  3/3/24  
+    >https://files.catbox.moe/5zhwcv.mp4  3/3/24  
+    ***
+    >🔻Sgt. Maj. Dennis Yekimov, 33, of the Bislamach Brigade's 17th Battalion.
+    >He found out.
+    >https://nitter.esmailelbob.xyz/AryJeay/status/1764301453726789924#m  3/3/24  
+    ***
+    >The Palestinian Civil Defense spokesperson in Gaza state: "The aid dropped from the air onto the Strip does not equate to the load of two trucks." 
+    >(Illustrative photo)
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1764281563934589158#m  3/3/24  
+    ***
+    >The Gaza Government Media Office reports that the situation of famine is deteriorating in both Gaza and the northern areas, with 2.4 million people experiencing severe food shortages and air drops have proven to be futile.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1764291631178518677#m  3/3/24  
+    ***
+    >⚡️⚡️#Urgent | #Hezbollah: Our fighters targeted the Al-Sammaqa site in the occupied Lebanese hills of Kafr Shuba with missile weapons and hit it directly.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1764291244962775251#m  3/3/24  
+    ***
+    >⚡️⚡️#Urgent | #Iranian TV: An #Israeli Mossad agent was executed on charges of planning to bomb a Defense Ministry factory last year.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1764316644057227281#m  3/3/24  
+    ***
+    >⚡️⚡️The moment the Al-Aqsa Brigades sniped an occupation soldier in the Al-Zaytoun neighborhood in #Gaza City.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1764317228202074180#m  3/3/24  
+    >https://files.catbox.moe/thz92t.mp4  3/3/24  
+    ***
+    >Hundreds gathered in Preston city, UK, to express support for Gaza and condemn the Israeli genocide in Gaza.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1764317601902088442#m  3/3/24  
+    ***
+    >BREAKING:
+    >⚡ 🇮🇱🇵🇸 Ceasefire talks between Israel and Hamas have fully collapsed, and the Israeli cabinet decided to not send a negotiation delegation to Cairo anymore
+    >https://nitter.esmailelbob.xyz/Megatron_ron/status/1764303494947746040#m  3/3/24  
+    ***
+    >NEW:
+    >⚡️🇮🇱 Ultra orthodox Jewish settlers in Jerusalem are currently blocking Highway 4 in the Bar Ilan area in protest against the conscription law
+    >Via @WarMonitors
+    >https://nitter.esmailelbob.xyz/Megatron_ron/status/1764304770636894491#m  3/3/24  
+    >https://files.catbox.moe/qawalw.mp4  3/3/24  
+    ***
+    >⚡️What was ongoing for the past decades before October 7th :
+    >An Israeli settler mocks a Palestinian man who was recently expelled from his own house by offering stolen milk from his very own refrigerator in Al-Quds, Occupied Palestine.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1764321703981715794#m  3/3/24  
+    >https://files.catbox.moe/0hn1fy.mp4  3/3/24  
+    ***
+    >Stopping funding to UNRWA was the first step in Israel's plan to starve the population of Gaza, like during World War II
+    >Fortunately, a large number of European countries refused to participate in the Israeli holocaust in Gaza.  
+    >Now Israel has moved to plan B, and has begun blocking the trucks with aid to the Gaza fence.  
+    >Since they are the only country that has control over the United States ,so not fearing consequences they decided to release several trucks as bait and commit an unprecedented massacre, which happened the other day.  
+    >This actually spilled the beans to the Biden administration, so he decided to drop dozens of sacks of rotten potatoes from the sky to the starving Gazans.  
+    >However, Israel's plan continues to starve the population as much as possible and force them to accept asylum in European countries.
+    >https://nitter.esmailelbob.xyz/Megatron_ron/status/1764328752337613307#m  3/3/24  
+    ***
+    >🚨A short while ago, sirens were activated in the Upper Galliee, due to a "suspicious aerial target" that entered from Lebanon.
+    >
+    >An interceptor missile was fired at the target. It’s not clear whether or not it was a hit.
+    >https://nitter.esmailelbob.xyz/AryJeay/status/1764319563074732193#m  3/3/24  
+    ***
+    >⚡️Al-Qassam (Hamas) published a video showing the recovery of the 2 seized “Skylark” drone in the Al-Zaytoun neighborhood in Gaza City.  
+    >https://nitter.esmailelbob.xyz/AryJeay/status/1764337881642852619#m  3/3/24  
+    >https://files.catbox.moe/sq1wpu.mp4  3/3/24  
+    ***
+    >⚡️The #USA delivers aid to #Gaza
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1764345067949449594#m  3/3/24  
+    >https://files.catbox.moe/2ktu9p.mp4  3/3/24  
+    ***
+    >WATCH: Hezbollah published a video showing the operation that targeted the Jal al-Alam and Metulla IOF army sites.
+    >https://t.me/FotrosResistance/5730  3/3/24  
+    >https://files.catbox.moe/uxek7w.mp4  3/3/24  
+    ***
+    >| BREAKING: Hezbollah thwarted a ground attack:
+    >
+    >In response to an attempted infiltration by an IOF hostile force into Lebanese territory in the Wadi Qatamoun area, opposite to Rmeish, Hezbollah targeted them with rocket, achieving direct hits.
+    >https://t.me/FotrosResistance/5731  3/3/24  
+    ***
+    >| BREAKING: Hezbollah thwarted a 2nd ground assault:
+    ***
+    >During an attempt by an IOF hostile force from the Golan Brigade to infiltrate Lebanese territory near Khirbet Zir'it, opposite of Rameh in Lebanon, Hezbollah detonated a large explosive device against the infiltrating force & targeted it with artillery, resulting in direct hits.
+    >https://t.me/FotrosResistance/5732  3/3/24  
+    ***
+    >BREAKING:
+    >⚡ 🇮🇱 Resignation of Senior Israeli officials in the army including Daniel Hagari
+    >https://t.me/megatron_ron/2116  3/3/24  
+    ***
+    >| Hezbollah announces:
+    >
+    >Shelling the Zarit IOF barracks and its surroundings with artillery weapons.  
+    >This comes a little after 2 thwarted ground assaults by the israeli forces towards Lebanese territory.
+    >https://t.me/FotrosResistance/5733  3/3/24  
+    ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 3 (2024), against (US)-israeli forces:
+
+    
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Targeted 2 Israeli military vehicles with RPGs and detonated a pre-rigged building where an IOF force had taken shelter, resulting in casualties.
+    >
+    >🔻Shelled a gathering of IOF forces northwest of Beit Lahia with a barrage of mortar shells.
+    >
+    >🔻Shelled positions where Israeli forces and their vehicles were concentrated in the "Netzarim" axis south of Gaza City.
+    >
+    >🔻Shelled positions where Israeli forces and their vehicles were concentrated in the "Netzarim" axis south of Gaza City (2x).
+    >
+    >🔻Shelled a gathering of israeli soldiers in the Al-Zaytoun neighborhood.
+    >
+    >🔻Targeted a building in the Zaytoun neighborhood with a guided 107mm missile, where an IOF force had taken refuge, resulting in casualties.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Targeted IOF army force concentrations with heavy caliber mortar shells, south of the Al-Zaytoun neighborhood.
+    >
+    >🔻Shelled, in joint-operation with the Martyr Abu Ali Mustafa Brigades, the Be'eri settlement and the israeli military headquarters in the Ra'im settlement with rocket barrages.
+    >
+    >🔻Targeted the route and supply line of israeli forces south of the Zaytoun neighborhood with 107mm rockets.
+
+    >— 🇵🇸 Al-Aqsa Martyrs Brigades:
+    >
+    >🔻Shelled army vehicle and soldier concentrations with heavy caliber mortar shells, south of the Zaytoun neighborhood.
+    >
+    >🔻Shelled israeli soldier gatherings and their military vehicles with mortar shells in the "Netzarim" axis south of Gaza City.
+    >
+    >🔻Ambushed an Israeli force, resulting in casualties between killed and wounded, using machine guns and anti-personnel weapons in the Zaytoun neighborhood axis.
+    >
+    >🔻Sniped an Israeli soldier in the southern Zaytoun neighborhood axis.
+    >
+    >🔻Shelled a gathering of IOF soldiers positioned around the Abu Mitybaq site east of central Gaza with 82mm mortar shells.
+    >
+    >🔻Shelled Askalan with KN-103 rockets.
+
+    >— 🇵🇸 Nasser Salah al-Din Brigades:
+    >
+    >🔻Shelled the Ra'im military site and israeli military concentrations east of central Gaza with rocket salvos.
+    >
+    >— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+    >
+    >🔻Targeted IOF military concentrations with heavy caliber mortar shells, south of the Zaytoun neighborhood.
+    
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the Jal al-Alam site with Burkan IRAM rocket(s).
+    >
+    >🔻Targeted the surveillance system at the Metulla IOF site with appropriate weapons.
+    >
+    >🔻Targeted, after precise monitoring, an IOF military force near Al-Wazzani with appropriate weapons, achieving direct hits. This forced them to fire smoke shells to evacuate the dead and wounded by helicopters.
+    >
+    >🔻Targeted the Al-Samaqa site with rockets.
+    >
+    >🔻Targeted the deployment of israeli soldiers in Jabal Nather with rockets.
+    >
+    >🔻Targeted an IOF force while moving in the vicinity of the Al-Malikiyah site with artillery shells.
+    >
+    >(The thwarted ground assaults will be mentioned in tomorrow’s summary)
+    >
+
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >    
+    >🔻Attacked the chemical materials depot in the port of Haifa in the occupied territories using kamikaze (Shahed-101) drones.
+    >https://t.me/FotrosResistance/5735  3/3/24  
+    ***

@@ -54,6 +54,7 @@ Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Nativ
 ??? | M | Wimpod | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#wimpod)
 Error | M | Iron Valiant | Rotom (M, Quirky, Native?) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#error)
 Rain | F | Eevee | Corvisquire (Cory, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#rain)
+Ava Avalon | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 ??? | F | Mandibuzz | Gliscor (??, M, Non-Native Pokemon) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#mandibuzz)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
@@ -73,7 +74,6 @@ Percival | M | Corviknight | N/A | Clover Guild Explorer/Transport | [Naïve](ht
 "Carrot" | M | Dusk Lycanroc | Liepard (Hazel, F, Native) | Clover Guild Veteran Explorer | [Brave](https://rentry.org/vpmdcloverpb#carrothazel)
 Sentret | M | Sentret | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#sentret)
 Adelaid | F | Voltorb | Drowzee (Dahpi, M, Native)| Rescue Team | [???](https://rentry.org/vpmdcloverpb#adelaiddahpi)
-Avalon "Ava" | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
 Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Careful](https://rentry.org/vpmdcloverpb#sotto)
 
 
@@ -90,6 +90,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
  	- [Clover Guild (ch1) Q&A](https://rentry.org/ChrPrompt)
  	- [Clover Guild (ch1.5) Q&A](https://rentry.org/ChrPromptThreeHalf)
  	- [Clover Guild (ch1.5.2) Q&A](https://rentry.org/chrpromptfourhalfredux)
+	- [Clover Guild (ch2) Q&A](https://rentry.org/chrprompt2)
  - [Clover Guild Aggie-revealed lore, misc. questions, and errata.](https://rentry.org/omc8d)
  - [Locations Reference](https://rentry.org/CloverLocations)
 
