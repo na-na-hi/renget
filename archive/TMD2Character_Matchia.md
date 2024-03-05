@@ -10,7 +10,7 @@ An extremely irate girl who seems to take pride in said irateness. An incredibly
 **Species:** Mienfoo | **Affiliation:** Team Stardust
 **Level:** 13 | **Experience to Next Level:** 50/130
 **Worn Item:** *N/A* | **Clothing:** *Cap*
-**Pokécoin:** 1,158 ₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 738 ₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -82,7 +82,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Space Rock | 125 P
+1. Clear Gummi
 2. Persim Berry | Heals Confusion.
 3. Empty | Vacant Inventory Slot
 4. Eᴍᴘᴛʏ | Vacant inventory slot.

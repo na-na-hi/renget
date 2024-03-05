@@ -9,7 +9,7 @@
 **Species:** Zorua | **Affiliation:** Team Clover Force
 **Level:** 12 | **Experience to Next Level:** 108/120
 **Worn Item:** *N/A* | **Clothing:** *Light-blue Scarf*
-**Pokécoin:** 1135₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** ₽overty | **Glorious Gold:** 0 Bars
 
 
 Pokémon's Ability | 	Description
@@ -34,7 +34,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Aerial Ace | 6BP | 5AP | - | Flying | Physical | No secondary effect
 Sucker Punch | 7BP | 6 (-1) AP | ≥4 | Dark | Physical | Priority. Fails if the Opponent had a Defensive Focus last round.
-Hone Claws | 0BP | 4AP | - | Dark | Status | The users Attack and Accuracy are increased by 1
+Substitute | - | 4AP | - | Normal | Status | The User loses ¼ of their Max HP. The User is afflicted with Substitute.
 Fury Swipes | 1D10 | 6AP | - | Normal | Physical | Multi-Hit; Roll 1D10.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -42,7 +42,7 @@ Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by th
 Moves that cannot be used in battle, but during RP segments. You may have two of them at a time.
 Name of Move | Description
 ------ | :----: 
-Empty | Description
+Hone Claws | Reshape and sharpen claws for a variety of situations
 Eᴍᴘᴛʏ | Description
 
 **SPECIAL BONUSES**
@@ -66,7 +66,7 @@ Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
 Attribute: Illusory | Tier **ɪɪ** (+2) | Skill with illusion manifestations
 Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 Attribute: Balancing | Tier **ɪ** (+1) | Skill with keeping your balance, whether it be on unstable ground or on energy infused air
-Battle Attribute: Zephyr Step | Tier **ɪ** (+1) | Ride the wind kicked up from Aerial Ace powered dash to get around obstacles, Easy Breezy. 
+Battle Attribute: Zephyr Step | Tier **ɪ** (+1) | Ride the wind kicked up from an Aerial Ace powered dash to get around obstacles, easy breezy. 
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:

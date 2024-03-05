@@ -1,7 +1,2 @@
--> view on light mode
-![](https://files.catbox.moe/lipcpr.png) <-
 -> ![](https://files.catbox.moe/sle9fi.png) <-
--> ![](https://files.catbox.moe/jxvf4l.png) <-
--> naif [%#c4c4c4%&%%](https://pronouns.cc/@naifking) sam
-he—him, brit <-
-![](https://files.catbox.moe/lipcpr.png)
+-> hey again famalang.. so INTERESTS guys. my interests are supernatural the show, the boyx, gen v, the big bang theory.. house md. i ALSO know a lot about music. like a lot man, talk to me about rock and metal i'll loose it i love music. i also like psychology and english. feel free to ask me questions about anything i am just happy to talk to people LMAO. have a nice day cuz x <-

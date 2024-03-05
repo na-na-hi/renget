@@ -1,7 +1,7 @@
 -> ![-](https://files.catbox.moe/u6bcsq.jpg)<-
 -> ![-](https://files.catbox.moe/6keb2s.gif) [**"What was between you and I, just a comfortable lie? I'm the fool who believes when I look in your eyes..."**](https://youtu.be/1Dcero0jcTs?si=h8Eo-iWPrc1jmOt8) ![-](https://files.catbox.moe/w1rrtp.gif) <-
 -> ![-](https://files.catbox.moe/wca6ka.gif) <-
--> ![-](https://files.catbox.moe/z598b6.gif) **I love my girlfriend SO much. Like fucking endlessly. Like you'll never be able to even look at them in the way I can and do. To my wubster: Thank you so much for being with me for so long, and choosing me, most importantly! I'll always be your first, and keep my spot in your heart. Ugh. This is so gay. You're gay. How's it feel to be so gay. 10.11.19 foreves<3** ![-](https://files.catbox.moe/3r6mni.gif) <-
+-> ![-](https://files.catbox.moe/z598b6.gif) **I love my [girlfriend](https://rentry.co/dimetrodon) SO much. Like fucking endlessly. Like you'll never be able to even look at them in the way I can and do. To my wubster: Thank you so much for being with me for so long, and choosing me, most importantly! I'll always be your first, and keep my spot in your heart. Ugh. This is so gay. You're gay. How's it feel to be so gay. 10.11.19 foreves<3** ![-](https://files.catbox.moe/3r6mni.gif) <-
 -> ![-](https://files.catbox.moe/zmpy79.gifv) *Pet names most of the time, yes
 Nicknames, most of the time, yes
 Compliments, absolutely

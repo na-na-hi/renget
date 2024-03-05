@@ -1,7 +1,7 @@
 https://huggingface.co/spaces/vgdasfgadg/c
 Unclogged endpoints!
-Might let in some "fresh" blood. Only conditions are that you have sent an email before and it must be a nice email.
-mysteryman63453121@proton.me
+All the unpozzed anthropic keys I put in are all pozzed now.
+
 Grift:
 !>bc1q55t9fakmyng35qm9n3eqsf585kg4u6d60wd5r2
 # Stats

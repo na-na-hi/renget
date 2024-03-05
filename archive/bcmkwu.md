@@ -1,3 +1,22 @@
+>Russians film Abrams M1150 ABV
+https://files.catbox.moe/wipq4m.MP4
+>Lancet strikes Swedish 'Archer' Artillery system
+https://files.catbox.moe/wfzdz6.mp4
+>Strikes on AFU in Chasov Yar
+https://files.catbox.moe/0jvp4g.mp4
+>Spent ATGMs in Marinka
+https://files.catbox.moe/ou6v0h.mp4
+>Simultaneous FAB strikes
+https://files.catbox.moe/cerksn.mp4
+https://files.catbox.moe/gst0ps.mp4
+>Assad has nervous breakdown over Zelensky's sanctions
+https://files.catbox.moe/2y7928.mp4
+>FAB1500 w/ UMPC (Kherson)
+https://files.catbox.moe/171cvh.mp4
+>LMUR takes out British AS-90
+https://files.catbox.moe/5v4haj.mp4
+>Ukrainian 5th column spikes candles with bullets
+https://files.catbox.moe/18mv6u.mp4
 >AFU found a hull of a massive spent cluster muniton
 https://files.catbox.moe/eh618e.mp4
 >Hohol beats babushka because she spoke Russian

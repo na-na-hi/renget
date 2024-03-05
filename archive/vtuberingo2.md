@@ -19,7 +19,7 @@ Temako - https://www.youtube.com/watch?v=Q-CCgeRLV7E&t=10662s
 Mataame Shizuku - https://www.youtube.com/watch?v=A7QXGsd2Fa0&t=3951s
 Sumire Kuritori - https://files.catbox.moe/ybd3f9.m4a
 Momoga Koyoi - https://www.youtube.com/watch?v=RoVLAKkzr2I&t=12720s
-chromu - https://twitter.com/kuwomumu/status/1672500740151975937, https://twitter.com/kuwomumu/status/1643016287868575745, https://twitter.com/kuwomumu/status/1636235640202199041
+chromu - https://files.catbox.moe/8xzt2d.mp4, https://files.catbox.moe/qimrf5.mp4, https://files.catbox.moe/jls2rr.mp4, https://files.catbox.moe/wdsgr3.mp4, https://files.catbox.moe/jrzu6i.mp4, https://files.catbox.moe/pxob4w.mp4, https://files.catbox.moe/wq5ktl.mp4, https://files.catbox.moe/psox7r.mp4
 
 **Braps**
 Tokoyami Towa (or Usada Pekora?) - https://youtu.be/vvNHxiHFHqc?t=6582; https://files.catbox.moe/pudiif.mp4
@@ -88,6 +88,7 @@ Akai Haato - https://youtu.be/UDNpNdcruVM
 Ookami Mio - https://www.youtube.com/watch?v=HIcsNWE1Msg; https://www.youtube.com/watch?v=X037YiByj_Q
 Momosuzu Nene - https://www.youtube.com/watch?v=Bz4Y3kSo-2w; https://www.youtube.com/watch?v=Utb1hs_mPYc
 Enno Yami - https://www.youtube.com/watch?v=aog9xt21mSg; https://www.youtube.com/watch?v=lWus2FPAdtk; https://www.youtube.com/watch?v=Y0ifKxW01sk; https://www.youtube.com/watch?v=WIvgFEMV0Xw; https://www.youtube.com/watch?v=lOC2pepAFtQ
+Sakura Miko - https://twitter.com/cucul35/status/1763908023511331079
 
 **Stomach Sounds**
 Shirogane Noel - https://www.youtube.com/watch?v=UzgkXcWYyT8, https://www.youtube.com/watch?v=k0_yWY9DRDU

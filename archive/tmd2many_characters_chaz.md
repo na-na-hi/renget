@@ -13,7 +13,7 @@ He's gotta find a way back home and pick up his sister before Ma and Pa find out
 **Species:** Kubfu (To be Rapid Strike form) | **Affiliation:** Team Ruckus
 **Level:** 12 | **Experience to Next Level:** 51/120
 **Worn Item:** *N/A* | **Clothing:** *N/A*
-**Pokécoin:** 1215₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1550₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -93,8 +93,8 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Berry Bread | Heals (?) and removes status effects
-2. Shattered TM (TM Fling) | Taught the move Fling
+1. Empty | N/A
+2. Empty | N/A
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

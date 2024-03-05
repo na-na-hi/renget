@@ -1,16 +1,19 @@
 -> ![Scuffed Proxy](https://i.imgur.com/MH4QxMx.png) <-
 
-!!! danger Probably won't turn Scuffed Proxy back on for now, currently unable to get more claude 2.1. Could switch to claude instant instead but I think it would probably be too big of a downgrade. The basilisk brumates...
+!!! note Temporarily testing claude-3
+    New jailbreak, send feedback.
+    Disabled "Scuffed Tense" by default on the preset, fucks the prose up.
+    **Uptime not guaranteed.**
 
 ## current proxy url
 ```
-down
+https://translated-incident-tournament-par.trycloudflare.com/v1
 ```
 **password**
 basilisk
 
-##### [instructions](#)
-##### [ST preset](#)
+##### [instructions](https://translated-incident-tournament-par.trycloudflare.com)
+##### [ST preset](https://translated-incident-tournament-par.trycloudflare.com/preset.json)
 
 
 > why do I keep getting backend/general errors?
@@ -20,7 +23,7 @@ sometimes the account is banned and it will not work until I manually fix it. it
 - hask1911@proton.me
 - !!o8au/gO6660
 
-##### stats
+##### 2.1 stats
 - United States: 108,943
 - Singapore: 46,717
 - Brazil: 17,788

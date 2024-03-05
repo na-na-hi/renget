@@ -470,6 +470,7 @@ Map of Kyoto: https://archive.4plebs.org/tg/post/89235050
 Birthdays: https://archive.4plebs.org/tg/post/89222835
 Tournament: https://archive.4plebs.org/tg/post/89193710
 Exchange Student List: https://rentry.org/zqtk5z4f
+height chart: https://desuarchive.org/tg/post/92077634/
 
 ***
 
@@ -741,6 +742,9 @@ Seiryu (Casual): https://desuarchive.org/tg/post/92053340/
 Height Chart Update: https://desuarchive.org/tg/post/92053985/
 A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people): https://desuarchive.org/tg/thread/92054796/#92056835
 moe moe kyill yourself: https://desuarchive.org/tg/post/92064727/
+Kaylee: https://desuarchive.org/tg/post/92069993/
+Crimes Against Civilization: https://desuarchive.org/tg/post/92075566/
+
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1216,6 +1220,7 @@ Frameless (Smokin' Sexy, Ryu-Kishi, Mirror Devil): https://rentry.org/u8snakxr
 The Symbol of Death: Part 4 (Reaper, Forget-Me-Not, Feral, Drekus, Ookami Shizuka, The Prophet): https://rentry.org/igwpicub
 A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people): https://rentry.org/6zruhinr
 Monsters (Last Rite, Yamata): https://rentry.org/ph2rfaai
+The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic): https://rentry.org/pop2nnyq
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

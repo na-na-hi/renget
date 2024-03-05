@@ -60,10 +60,9 @@ If you're installing on a PC with only one drive, proceed to the next step.
 If you're installing on a system with previous installations and multiple drives, you'll want to install a free partition management tool like Minitool, and wipe the EFI partitions off all your non-OS drives. 
 https://cdn2.minitool.com/?p=pw&e=pw-free
 
-The reason for this is because a computer should only have one EFI partition and the Windows installer will scan all drives to find that EFI partition.
-If you have a drive you used for a previous installation but never fully formatted it, it will still have an EFI partition and that EFI partition will be used by the installer even if it's on a different drive than where you're trying to install Windows now.
-If your EFI partition and system partition are on different drives, you wont be able to boot if you were to remove or format the drive with the EFI partition.
-Wiping the EFI partitions off all other drives before installation will ensure that the EFI and system partitions are on the same drive.
+The reason for this is because if you have a drive you used for a previous installation but never fully formatted it, it will still have an EFI partition and that EFI partition will be used by the Windows installer even if it's on a different drive than where you're trying to install Windows now, resulting in ugly scenarios such as having Windows on your C:\ drive and the EFI partition on your D:\ drive.
+In that scenario if you were to remove or format the drive with the EFI partition, you won't be able to boot anymore.
+Wiping the EFI partitions off all other drives before installation will ensure that the EFI and system partitions are installed to the same drive.
 
 If all this sounds too complicated for you, you can also just temporarily disconnect all drives except the drive you want to install Windows on, and reconnect them after installation.
   

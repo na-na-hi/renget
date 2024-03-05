@@ -1137,7 +1137,7 @@ Cons:
 - No barriers or shields to self
 - Can only offer protecting to a single unit
 
-### ->Fallen Prescia ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<-
+### ->Fallen Prescia ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<-
 **Good perma support/damage unit with some good crit buffs and TP restoration. Lack of debuff and squishy stats, but can definitely help buff teams. Will shine when units can crit very often. Not a must spark, but will bolster your comp flexibility.**
 For CB, the idea is to have her buff the P.Crit Chance of nearby teammates by 10% while increasing the crit damage received by enemies damaged by her S1. She's got the flying effect like other Alter Maiden girls, which can protect her from various kinds of damage and CC. With the same TP restoration as X.Miyako and a way to heal, her niche will revolve around wanting more offense in your team and getting debuffs elsewhere. While she lacks a P.Def debuff, the crit buffs she pumps out are quite nice. What's a bit odd, is that her AAs deal magic damage, but her S1 and UB deal physical damage take both M.Crit & P.Crit chance into consideration for this. Not too hindering, but it does mean her AAs are significantly weaker in comps with p.def debuffs.
  For arena players, she's an okay pick. The AOE CC on S1 helps as it cannot be mitigated by a barrier/shield, or dodged. She can dodge snares with her flying state. While not spectacular, it does have its uses.
@@ -1410,7 +1410,7 @@ Cons:
 Winter Yuni deals no damage, outside of a joke 5 dmg from her SP skill when she has a stack of her unique mark. Her entire purpose is for buffing physical teams with consistent output of buffs to Physical teams. In that regard, she's unmatched for pure support functionality on a single unit for water specifically. On an overall level, she's a good physical buffer with action speed and the +5 TP boost. Her competition for water are the likes of S.Kokkoro, X.Chika, S.Hiyori, S.Saren for pure physical support options. Of these, S.Kokkoro has the most value and could be used in tandem with her, as she provides the P.Def debuff that Winter Yuni is missing.
 Her mark system works similar to Ruu's, where she loses a mark when she takes damage. However, she does not lose marks when she uses her skills, which is where the checks happens. The fact that she gets marks from her UB means they're not going to be on her immediately, but can be refreshed when the player wishes to do so. There are instances where an attack will have one damage calculation against the damage cap, but have multiple instances of checking damage dealt. In these cases, Winter Yuni loses multiple stacks.
 
--> ![Yuni](https://redive.estertion.win/card/full/129331.webp)<-
+-> ![Winter Yuni](https://redive.estertion.win/card/full/129331.webp)<-
 
 Pros:
 - Provides P.Atk/P.Crit/P.Crit dmg & Heal to all units on UB
@@ -1435,3 +1435,14 @@ Cons:
 - Has no barriers
 - Has no debuffs to enemies (Offensive of defensive)
 - Marks cap at 3
+
+### ->Winter Kuroe ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<-
+** TBD**
+TBD
+
+-> ![Winter Kuroe]()<-
+
+Pros:
+- TBD
+Cons:
+- TBD

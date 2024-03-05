@@ -415,3 +415,123 @@
     >🔻Attacked the chemical materials depot in the port of Haifa in the occupied territories using kamikaze (Shahed-101) drones.
     >https://t.me/FotrosResistance/5735  3/3/24  
     ***
+!!!warning 
+    >Preliminary reports of an attack targeting a ship, southeast of Yemen’s Aden.
+    >https://t.me/FotrosResistance/5739  3/4/24  
+    ***
+    >One rocket was launched from Gaza toward Sderot and fell in its vicinity, the Iron dome failed to intercept it. At the same time, drone alerts were activated in the Galilee Panhandle
+    >https://t.me/FotrosResistance/5740  3/4/24  
+    ***
+    >PFLP: US Vice President Kamala Harris' statements yesterday regarding Gaza and her lamentation over the catastrophic humanitarian situation reflect the hypocrisy of the American administration and its attempts to numb the American public opinion regarding the ongoing genocide in Gaza and direct American involvement in it.
+    >https://t.me/QudsNen/97826  3/4/24  
+    ***
+    >The deputy secretary general of the PIJ movement, Muhammad Al Hindi: The current negotiations are between the US administration and the Israeli government, and there are no real negotiations with the resistance.
+    >
+    >⭕️It is ironic that the US, which provides Israel with weapons to kill civilians, is the same country that throws some aid scraps through its jets.
+    >
+    >⭕️Arab regimes have proven themselves to be worthless, either by being helpless and silent or complicit, viewing resistance as a threat to their interests.
+    >
+    >⭕️What protects our people and our nation is the resistance, which still controls and dominates the field after 150 days of massacres and digging both above and 
+    >https://t.me/QudsNen/97819  3/4/24  
+    ***
+    >Humanitarian aid airdropped in Gaza today fell into the sea.
+    >https://t.me/QudsNen/97829  3/3/24  
+    >https://files.catbox.moe/u1q8pm.mp4  3/4/24  
+    ***
+    >The Ministry of Health said Israel is deliberately working to cause a humanitarian and health catastrophe, which contributed to the spread of epidemics and infectious diseases. It added that it documented nearly one million cases of infectious diseases, and the necessary medical resources are not available for them.
+    >https://t.me/QudsNen/97825  3/4/24  
+    ***
+    >BREAKING:
+    >
+    > Pakistan has officially applied to join BRICS
+    >https://t.me/megatron_ron/2124  3/4/24  
+    ***
+    >BREAKING:
+    >The Houthis hit an Israeli commercial ship in the Red Sea.
+    >
+    >An Israeli cargo ship is heavily damaged as it was hit by a Houthi Missile in the Gulf of Aden
+    >
+    >Fire has broken out on deck but no casualties have been reported so far.
+    >
+    >The Cargo Ship belongs to the ZIM shipping company operated by Israel.
+    >
+    >(Photo ilustrative)
+    >https://t.me/megatron_ron/2129  3/4/24  
+    ***
+    >Rocket alerts near occupied Golan Heights due to firing of interception missiles due to drone penetration.
+    >https://t.me/FotrosResistance/5744  3/4/24  
+    ***
+    >The Israeli occupation municipality compels a Palestinian family to demolish their own home in the Wadi Qadum neighborhood of Silwan town, south of Al-Aqsa Mosque in occupied Jerusalem.
+    >https://t.me/QudsNen/97846  3/4/24  
+    ***
+    >Yahya Sarae:
+    >The Yemeni Armed Forces targeted the Israeli “MSC SKY” ship in the Arabian Sea with a number of anti-ship missiles, achieving an accurate & direct hit.
+    >The operation came only hours after Yemen launched several ballistic missiles & drones at a number of American warships in the Red Sea.
+    >https://t.me/FotrosResistance/5745  3/4/24
+    ***
+    >Circulating...dangerous news:
+    >
+    >The American ambassador to the American Embassy in #Jerusalem was found dead in his apartment in #Jerusalem. The Embassy and the #Israeli Ministry of Foreign Affairs opened an investigation into the cause of his death.
+    >https://t.me/me_observer_TG/161289  3/4/24  
+    ***
+    >Palestine Action activists target Smiths Metal, which supplies components for Israel's F-35 aircrafts used in bombing Gaza, resulting in the deaths of thousands of Palestinian women and children.
+    >https://t.me/QudsNen/97859  3/4/24  
+    ***
+    >Yemen: Al-Mayadeen correspondent: American-British aggression targets with 3 raids the Yasnam area in the Baqim border district, northwest of Saada Governorate, in the north of the country.
+    >https://t.me/me_observer_TG/161298  3/4/24  
+    ***
+    >Lebanon: Al-Mayadeen correspondent in the south: An #Israeli military raid targeted the area between Bint Jbeil and Ainata.
+    >https://t.me/me_observer_TG/161302  3/4/24  
+    ***
+    >| Hezbollah confirms:
+    >
+    >In response to the Israeli attack on the Civil Defense Center in the Islamic Health Authority in the town of Al-Adaisa, resulting in the martyrdom of several paramedics, Hezbollah targeted the settlement of “Gesher HaZiv” near Nahariya with several barrages of Katyusha rockets.
+    >https://t.me/FotrosResistance/5750  3/4/24  
+    ***
+    >MUST WATCH: Al-Qassam Brigades (Hamas) published a video showing its forces clash with IOF forces penetrating the outskirts of the Tal Al-Hawa neighborhood, south of Gaza City.
+    >
+    >🔻Beautiful Merkava kill.
+    >Translation of the Quranic verse the Qassam fighter wrote on the wall: 
+    >“Indeed, there is more fear in their hearts for you believers than for Allah”
+    >[Quran; 59:13]
+    >https://t.me/FotrosResistance/5746  3/4/24  
+    ***
+    >⚡️MUST WATCH: Al-Qassam Brigades (Hamas) published a video showing its forces clash with IOF forces penetrating the outskirts of the Tal Al-Hawa neighborhood, south of Gaza City.
+    >
+    >🔻Beautiful Merkava kill.
+    >https://twitter.com/AryJeay/status/1764731258762842327  3/4/24  
+    >https://files.catbox.moe/ofqerq.mp4  3/4/24  
+    ***
+    >BREAKING| Al Jazeera captures the moments when Israel's military opened fire at hungry residents in Gaza City while they were heading towards Al Kuwait roundabout hoping to get some food.
+    >https://t.me/QudsNen/97872  3/4/24  
+    >https://files.catbox.moe/mi3odr.mp4  3/4/24  
+    ***
+    >BREAKING| The Government Media Office: Israel's targeting of civilians and shooting live ammunition at them as they arrive at the Kuwait roundabout on Salah al-Din Street to obtain flour and food aid is a deliberate exacerbation of famine, a reinforcement of the siege, and a lack of desire to end this humanitarian disaster.
+    >
+    >We hold the US administration, Israel, and the international community fully responsible for escalating the humanitarian crisis and worsening the humanitarian disaster in the Gaza Strip amidst the rising death toll due to hunger, malnutrition, and drought.
+    >
+    >We demand an end to the genocide war and the entry of 1000 trucks of aid into all provinces, especially the northern Gaza Strip.
+    >https://t.me/QudsNen/97873  3/4/24  
+    ***
+    >BREAKING| Australian Prime Minister Anthony Albanese referred to the International Criminal Court accused of complicity in Genocide, making him the 1st leader of a Western nation referred to the ICC under Article 15 of the Rome Statute.
+    >https://t.me/QudsNen/97870  3/4/24  
+    ***
+    >| JUST IN: Hezbollah announces:
+    >
+    >Targeting an Israeli military force that was moving near the Al-Raheb IOF site with artillery shells, achieving a direct hit.
+    >https://t.me/FotrosResistance/5752  3/4/24  
+    ***
+    >During a Knesset session, a relative of an israeli prisoner in Gaza expressed a desperate plea, threatening self-harm, and saying that he can’t eat or drink.
+    >
+    >I subtitled it.
+    >https://t.me/FotrosResistance/5753  3/4/24  
+    ***
+    >Hearing the sound of gunfire in the old city
+    >https://t.me/me_observer_TG/161549  3/4/24  
+    ***
+    >Occupied Palestine: Al-Mayadeen correspondent in #Gaza: #Israeli occupation aircraft targeted Al-Hoja Street in the Jabalia refugee camp in the northern #Gaza Strip in a raid.
+    >https://t.me/me_observer_TG/161553  3/4/24  
+    ***
+    >Occupied Palestine: Al-Mayadeen correspondent in #Gaza: 5 injured people, including a serious condition, were transferred to Kamal Adwan Hospital after the occupation bombed a house north of Beit Lahia in the northern #Gaza Strip.
+    >https://t.me/me_observer_TG/161554  3/4/24       
+    ***

@@ -93,7 +93,7 @@ Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.pn
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 04/03/2024 | https://files.catbox.moe/lubdbo.json
+Claude | 05/03/2024 | https://files.catbox.moe/jrwoq5.json
 GPT-4 | 01/03/2024 | https://files.catbox.moe/mro7at.json 
 
 ###Utility Prompts

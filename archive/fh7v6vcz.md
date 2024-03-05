@@ -1,7 +1,13 @@
-# The Gifting Comet
+#***The Gifting Comet***
+
+---
+#####**Sequel: [Star-Crossed [M Human x F Valstrax]](https://rentry.org/theargentcomet) %firebrick%[NSFW]%%**
+
+Because **this** story was originally written as an inclusive one-off, the characters here are purposefully gender-neutral.
 
 ---
 
+---
 “Hmmm…” The frigid wind racing past does little to hamper your thoughts, though it demands both your hands grasp the map, lest it be blown away into the midnight sky. Perhaps it would’ve been smarter to completely plan out your route *before* taking off…In any case, you need input from the one who’s made this possible in the first place.
 
 After folding up the parchment to be stuffed inside your pocket, you carefully shimmy up the back of your ride, keeping low to minimize your exposure to the brunt of immense pressure being applied to them at such a ridiculous speed. There’s no doubt they can feel your comparatively tiny body crawling across their neck, but their attention remains firmly ahead, likely to avoid sending you hurling into the abyss from an errant twitch.

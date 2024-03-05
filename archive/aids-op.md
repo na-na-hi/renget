@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/kckLJN0.jpg)
-Abomination Edition
+![suggested OP image](https://i.imgur.com/tNZQhtT.jpg)
+Nostalgia Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>467838839
+Last thread: >>468082707
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -30,14 +30,14 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-/>Science and Laboratory Experiments Friday is over, enjoy the experimental prompts! Last: >>467690367
+Science and Laboratory Experiments Friday is over, enjoy the experimental prompts! Last: >>467690367
  
 ▶News
-\>(03/03) kek https://www.nytimes.com/2024/03/01/technology/elon-musk-openai-sam-altman-lawsuit.html
+\>(03/04) NAI makes jap imgen, goes back to Japan next month https://twitter.com/novelaiofficial
+(03/03) kek https://www.nytimes.com/2024/03/01/technology/elon-musk-openai-sam-altman-lawsuit.html
 (02/27) Mistral AI announce new proprietary models, receive $16M Microsoft investment and form release partnership, are adamant nothing has changed: https://archive.is/3ypKx ; https://i.imgur.com/x1BqPwl.png
 (02/21) NAI Diffusion V3 updates with Vibe Transfer feature: https://medium.com/@novelai/vibe-transfer-7a264645d241
 (02/15) This guy appears >>465836709
-(02/07) Euroids pass AI act: https://en.wikipedia.org/wiki/Artificial_Intelligence_Act
 
 
 #Perma-Template

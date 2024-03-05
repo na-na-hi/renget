@@ -5,31 +5,33 @@ This rentry will be a central area to get a pulse on what the meta is for some k
 [TOC2]
  
 ## Max level Prifes Rankings
-Rankings done as best to worst. 
+Rankings done as best to worst. The list is written from oldest, to newest released unit. 
 SS > S > A > B > C > D > F
 
-Character | CB | Arena | Dungeon | PvE | UE? | 6 Star? 
+Character | CB | Arena | Dungeon | PvE | UE Date | 6 Star? 
 :----: | :----: | :----: | :----: | :----: | :----: | :----: 
-Christina | SS | B | S| SS | Yes | Yes
-Muimi | A | C | SS | SS | Yes | Yes
-Neneka | SS | D | SS | SS | Yes | No
-P.Peco | C | B | C | B | Yes | No
-P.Kokkoro | SS | C | S | S | Yes | No
-P.Yui | D | C | C | C | Yes | No
-Laby | SS | F | SS | SS | Yes | No
-P.Hiyori | A | F | A | B | Yes | No
-P.Kyaru | SS | A | SS | S | Yes | No
-P.Rei | A | A | SS | A | Yes | No
-Hatsu/Shio | S | D | A | A | Yes | No
-Homare | B | F | A | A | No | No
-LL Trio | D| F | B | D | No | No
-Ranpha | C | F | B | A | No | No
-Aki/Saren | A | F | S | S | No | No
-Ames | SS | SS | SS | SS | No | No
-GreAnne | S | F | SS | SS | No | No
-Misora | A | F | SS | S | No | No
-Croce | S | D | S | S | No | No
-ライラエル | S | C | S | A | No | No
+Christina | SS | B | S| SS | 2020/02/15 | 2023/03/06
+Muimi | A | C | SS | SS | 2020/06/30 | 2023/05/08
+Neneka | SS | D | SS | SS | 2021/08/31 | N/A
+P.Peco | C | B | C | B | 2022/03/31 | N/A
+P.Kokkoro | SS | C | S | S | 2023/11/22 | N/A
+P.Yui | D | C | C | C | 2022/03/31 | N/A
+Laby | SS | F | SS | SS | 2023/02/28 | N/A
+P.Hiyori | A | F | A | B | 2022/11/21 | N/A
+P.Kyaru | SS | A | SS | S | 2022/11/21 | N/A
+P.Rei | A | A | SS | A | 2023/05/23 | N/A
+Hatsu/Shio | S | D | A | A | 2023/12/31 | N/A
+Homare | B | F | A | A | N/A | N/A
+LL Trio | D| F | B | D | N/A | N/A
+Ranpha | C | F | B | A | N/A | N/A
+Aki/Saren | A | F | S | S | N/A | N/A
+Ames | SS | SS | SS | SS | N/A | N/A
+GreAnne | S | F | SS | SS | N/A | N/A
+Misora | A | F | SS | S | N/A | N/A
+Croce | S | D | S | S | N/A | N/A
+ライラエル | S | C | S | A | N/A | N/A
+Shizu/Rino | S | C | S | S | N/A | N/A
+Eris | ? | S | SS | SS | N/A | N/A
 
 ##->Limited targets<-
 These units are only available during their specific banners, which are typically once a year. A newly released unit will re-run around 6-7 months after their initial release. Re-runs for any other units will take place in their seasonal window, generally. 
@@ -44,6 +46,7 @@ Units listed here perform very well in Clan Battle.
 **Christmas Christina** - The unit herself is fairly awful, but the +3 TP from her bond stories have had an impact on comps in the past for her 6 Star version. It is possible that a UE2 will save her, but, the reason you roll is for the +3TP. She's a water unit.
 **Valentine's Shizuru** - Thanks to UE2, V.Shizuru has returned as a primary buffer for fire physical comps. She's a buffer/debuffer that hands out Physical buffs and TP to the team. 
 **Christmas Ayane** - Another UE2 winner, X.Ayane no longer kills herself on UB and has the stats to consistently pump out UBs, thanks to the S2+ upgrades she received. An excellent Water physical damage dealer that is all about critting for big damage.
+**Swimsuit Neneka**
 
 ### Arena
 Units listed here perform very well in Arena game modes. While you can survive without some, these do make it significantly easier to maintain a high rank. **Arena game modes do not take elements into consideration in fights.**
@@ -55,15 +58,16 @@ Units listed here perform very well in Arena game modes. While you can survive w
 ##->Permanent Targets<-
 While not re-roll targets, these units are always available to roll on any banner. They are excellent units to have in your roster. Does not include characters with 6 Star versions. For more information on 6 Star units, visit [here.](https://rentry.org/Six_Star)
 
-**School Festival Yuni** - 
-**Noire Io** - 
-**Stage Misaki** - 
-**Inori** - 
-**Magical Girl Kasumi** - 
-**Oedo Yuki** - 
-**Swimsuit Chika** - 
-**Christmas Jun** - 
-**Noir Kuuka**
+**School Festival Yuni** - Pure Wind buff/debuff support that has no damage, but fantastic buffs for both physical and magic teams. Really only missing heal/barrier. Great part of a flexible roster. Mostly for Clan Battle and PvE.
+**Noir Io** - Good arena unit to steal TP and give to highest M.Atk unit on your team. TP Drain has been target nerfed to be 0 or 50% in Clan Battle, thus squashing any niche Noir Io had for the most part, but don't be surprised if she pops back in for a boss that may have it at 50%. Mostly for Arena.
+**Stage Misaki** - Dark magic attack buffer that provides Magic buffs, TP restoration and shields. 
+**Inori** - Fast AOE stun for Arena modes as the lead in a team comp. Can deal decent damage if left unchecked, but is mostly used for the fast stun. Has a 6 Star upgrade that allows her to function in specific PvE scenarios. 
+**Magical Girl Kasumi** - An Arena terror that continues to perform well by draining over half the TP of the highest TP target, snaring the backline and 
+**Oedo Yuki** - Light mage support that restores nearly a full TP bar to 1 hit, action speed increase, healing and debuffs to enemies. 
+**Swimsuit Chika** - Fantastic Arena unit that provides a 1st action full TP bar to self, m.def and a barrier to all on 1st skill. Used to help survive against large magic damage quickly.  Needs Unique Equip to fully serve her purpose.
+**Christmas Jun** - Excellent Light tank that has a ton of physical team buffs and debuffs for the enemy, while able to restore herself to full HP. A great example of a modern tank with utility and sturdiness.
+**Noir Kuuka** - Excellent Dark Tank for mage teams. Provides lots of magic team buffs, shred enemy defenses while shielding and healing herself. Similar to Christmas Jun, but Dark Element and for mages.
+**Prescia** - 
 
 ##->Recommended Side Story Nodes <-
 These are some good units that are available in Side Stories. Node that all Weflares in Side Stories have 3 nodes, 5 attempts per day. Each attempt is 10 stamina and players are unable to refresh Side Story nodes. Anyone not on this list, is just a bond story stat stick for other versions.
@@ -83,7 +87,8 @@ These are some good units that are available in Side Stories. Node that all Wefl
 
 
 ##->Upcoming Unique Equips<-
-This section is for keeping track of the upcoming Unique Equips for the year. A unique equip is typically implemented for a unit one year after their release, excluding Prifes units.
+This section is for keeping track of the upcoming Unique Equips for the year. A unique equip is typically implemented for a unit one year after their release, excluding Prifes units. 
+Usually, Unique equips release on a monthly basis and will be released after Battle Stadium is finished.
 
 Date | Character | Gacha?
 :----: | :----: | :----: 
@@ -156,4 +161,4 @@ January 2024
 
 March 2024
 1. Shizuru 6*
-2. Rino 6
+2. Rino 6*

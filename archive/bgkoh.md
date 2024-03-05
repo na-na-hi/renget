@@ -9,7 +9,7 @@ You know what to call me!
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
 **Level:** 13 | **Experience to Next Level:** 15/130
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 414P | **Glorious Gold:** 0 Bars
+**Pokécoin:** 814P | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
 
 Pokémon's Ability | Description
@@ -80,7 +80,7 @@ Item Name | Description
 *Worn/Held Item: Defense Scarf* | Increases Defense by 1.
 *Equipped Item: N/A | Nothing here boss!
 1. Empty |Nothing here boss!
-2. Spicy Seed | Causes Burn on consumption.
+2. Empty |Nothing here boss!
 3. Magma Macaroni  | It's not actually made of magma, but it sure can feel like it! (Increases Attack by 2 stages.)
 4. Empty |Nothing here boss!
 **STORAGE (2 slots)**

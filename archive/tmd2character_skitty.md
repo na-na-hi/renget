@@ -10,7 +10,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 **Species:** Skitty | **Affiliation:** Team Stardust
 **Level:** 11 | **Experience to Next Level:** 107/110
 **Worn Item:** *Sparkly Scarf* | **Clothing:** *N/A*
-**Pokécoin:** 0₽ (520 owed to Matchia) | **Glorious Gold:** 0 Bars
+**Pokécoin:** 695₽ (520 owed to Matchia) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -82,7 +82,7 @@ Item Name | Description
 1. Sitrus Berry | Heals the user for 20HP.
 2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
 3. Combat Manual | Boosts Training for Battle Attributes by 1 bar.
-4. Empty | Empty.
+4. White Gummi | Normal Gummi.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

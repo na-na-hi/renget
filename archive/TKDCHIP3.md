@@ -21,6 +21,11 @@
     ***
     >The moment the Al-Aqsa Brigades sniped an occupation soldier in the Al-Zaytoun neighborhood in #Gaza City.
     >https://files.catbox.moe/thz92t.mp4  New  3/3/24  
+    ***
+    >MUST WATCH: Al-Qassam Brigades (Hamas) published a video showing its forces clash with IOF forces penetrating the outskirts of the Tal Al-Hawa neighborhood, south of Gaza City.
+    >
+    >🔻Beautiful Merkava kill.
+    >https://files.catbox.moe/ofqerq.mp4  New  3/4/24
  !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
@@ -94,4 +99,10 @@
     ***
     >The #USA delivers aid to #Gaza
     >https://files.catbox.moe/2ktu9p.mp4  New  3/3/24
+    ***
+    >Humanitarian aid airdropped in Gaza today fell into the sea.
+    >https://files.catbox.moe/u1q8pm.mp4  New  3/4/24 
+    ***
+    >BREAKING| Al Jazeera captures the moments when Israel's military opened fire at hungry residents in Gaza City while they were heading towards Al Kuwait roundabout hoping to get some food.
+    >https://files.catbox.moe/mi3odr.mp4  New  3/4/24    
     ***
