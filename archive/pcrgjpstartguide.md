@@ -83,6 +83,7 @@ The following list is for new players to target, as some units are amazing - But
 **Princess Rei** - Good multi-target, physical damage dealer that needs to crit for max damage. Has UE. Can do well in low level Arena, with enough TP charging and against multi-target bosses.
 **Muimi** - She's definitely back in action as a physical damage dealer, but Muimi requires absolute max investment in order to become relevant. This does knock her down a few ranks for new players.
 **Akino & Saren Duo** - Good utility with heal and self buffs, can add good damage and solo carry fights with 4 supports. Decently useful physical unit in end game content so far. No Unique Equip
+**Princess Hiyori** - Good option for physical damage, but does require max investment on her UE to be fully functional. A nice to have in the roster for fire teams.
 
 ### ->C Tier - Nice to have, but not incredibly helpful for new players or necessary for late game<-
 **Ranpha** - Good magic damage dealer, can spawn her dragon to help tank and deal even more damage. Good at higher levels, but still nice for lower levels. No Unique Equip yet.

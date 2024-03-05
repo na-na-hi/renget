@@ -100,13 +100,6 @@
 	(akumi \(yoclesh\), red skin, colored skin, demon, demon girl, oni horns, orange eyes, pointy ears, hair between eyes, white hair, long hair, scar, crop top, fishnets, gloves, short sleeves, sports bra, baggy pants, vertical-striped pants)
 -> [Civitai](https://civitai.com/models/10645/akumi-yocleshyocci) <-
 
-#### -> Alchemilla Menace <-
-!!! info Don't know how to reliably get her potion belt to appear, so I left it out.. my apologies..
-!!! note Recommended weight: 0.7
-!!! info Example Prompt
-	(Menace, purple hair, long hair, braid, purple eyes, black elbow gloves, black fur-trimmed jacket, black leotard, purple witch hat, purple skirt, see-through, long sleeves, wide sleeves, bare shoulders, black choker, slime)
--> [Catbox](https://files.catbox.moe/bdi0ms.safetensors) <-
-
 #### -> Alice Mana <-
 !!! note Recommended weight: 0.8
 !!! info Example Prompt

@@ -103,10 +103,10 @@ Thick Club | When held by any from the Cubone line, user's physical moves do not
 	Seeds cost 3AP to use.
 Name | Description | Default Price
 ------ | ------ | ------
-Apple | Gives +2 to any outside-combat-action. | 25₽
-Big Apple | Gives +4 to any outside-combat-action. | 50₽
-Huge Apple | Gives +6 to any outside-combat-action. | 100₽
-Perfect Apple | Gives +8 to any outside-combat-action. | 300₽
+Apple | Gives +3 to any outside-combat-action. | 25₽
+Big Apple | Gives +6 to any outside-combat-action. | 50₽
+Huge Apple | Gives +8 to any outside-combat-action. | 100₽
+Perfect Apple | Gives +10 to any outside-combat-action. | 300₽
 Black Gummi | Gives +10 IQ points to Dark-Types. Gives +5 to other types. Tastes like licorice. | 600₽
 Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy. | 600₽
 Brown Gummi | Gives +10 IQ points to Ground-Types. Gives +5 to other types. Tastes like sweet root vegetable. | 600₽

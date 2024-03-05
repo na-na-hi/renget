@@ -14,7 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
-3/4/24 | Added XL LoRA for [Phase Connect] Utatane Nasa and Kaneko Lumi
+3/4/24 | Added XL LoRA for [Phase Connect] Utatane Nasa and Kaneko Lumi, [Indie] Alchemilla Menace (RIP), [Indie] Shizukou (RIP)
 2/10/24 | Added XL LoRA for Dokibird, Runie Ruse, Kaminari Clara, Emi Suika, Endou Lily, Juna Unagi, Kirsche Verstahl, Lily Sin, Lottie Shinju, Matsuro Meru, Meeta Osita, Mirea Sheltz, Obake Pam
 1/26/24 | Added XL LoRA for [Phase Connect] Pipkin Pippa
 1/16/24 | Added XL LoRAs for: Aimi Hada, Amakawa Hano, Anastasia White, Amemochi Nina, Aono Nemo, Chiaki Katsumi, Eira Woolcott, Elveira, Ember Amane, FuwaMoco, Hikanari Hina, Himemiya Rie, Raki Kazuki, Rikudou Yura, Roca Rourin
@@ -500,22 +500,22 @@ https://files.catbox.moe/xdh3ro.safetensors
 ![Kujo Ringo](https://files.catbox.moe/4c3z3i.jpg)
 
 ###Phase Connect
-#####Hikanari Hina (XL Only)
+#####Hikanari Hina (Animagine XL Only)
 XL: https://files.catbox.moe/zr0jkj.safetensors
 >Strength: 0.8+
 >hina, 1girl, solo, pointy ears, blue eyes, white hair, large breasts, hair ornament, cleavage, bangs, white thighhighs, elf, navel cutout
 
-#####Himemiya Rie (XL Only)
+#####Himemiya Rie (Animagine XL Only)
 XL: https://files.catbox.moe/v10fm4.safetensors
 >Strength: 0.8+
 >hime, 1girl, solo, long hair, floating crown, bangs, black hair, hair ornament, twintails,  jacket, pink hair, multicolored hair, frills, puffy sleeves, pink eyes, sailor collar, sleeves past wrists, plaid, plaid skirt, yellow cardigan, frilled skirt, white bow, puffy long sleeves, pink skirt,  pink thighhighs, heart cutout, chest heart
 
-#####Ember Amane (XL Only)
+#####Ember Amane (Animagine XL Only)
 XL: https://files.catbox.moe/2f9t5a.safetensors
 >Strength: 0.8+
 >emberamane, long hair, white hair, purple streaked hair, ahoge, hair ornament, purple eyes, mole under eye, earrings, black choker, id card, plaid crop top, black jacket, long sleeves, black fingerless gloves, midriff, black torn shorts, thigh strap, black thighhighs, mole on thigh, black footwear,
 
-#####Pipkin Pippa (XL Only)
+#####Pipkin Pippa (Animagine XL Only)
 XL: https://files.catbox.moe/wn15lq.safetensors
 >Strength: 0.8+
 Outfit 1. Keyword: 'pippa'
@@ -530,12 +530,12 @@ XL: https://files.catbox.moe/s95lv3.safetensors
 >Strength: 0.8+
 >1girl, clara, long hair,  blue hair, blue eyes, rabbit ears, multicolored hair, medium breasts, hat, bare shoulders, streaked hair, wrist cuffs, side ponytail, playboy bunny, top hat, pantyhose, fake animal ears, white leotard, see through
 
-#####Runie Ruse (XL Only)
+#####Runie Ruse (Animagine XL Only)
 XL: https://files.catbox.moe/louey7.safetensors
 >Strength: 0.8+
 >1girl, runieruse, long hair, jewelry, earrings, dress, purple eyes, black dress, pink hair, cleavage, bare shoulders, tiara, hair between eyes, black gloves
 
-#####Kaneko Lumi (XL Only)
+#####Kaneko Lumi (Animagine XL Only)
 XL: https://files.catbox.moe/eq6rzn.safetensors
 >Strength: 0.8+
 ==No first outfit (cyberlive) because it was fucking up the other two==
@@ -545,14 +545,21 @@ Second outfit (Bodysuit crop top)
 Third outfit (Dress and braid)
 >kanekolumi, 1girl, solo, long hair, breasts, bangs, blue eyes, blonde hair, hair ornament, gloves, dress, cleavage, bare shoulders, medium breasts, choker, black gloves, fingerless gloves, white dress, single braid, thigh strap, black choker, halo, white jacket, halterneck,
 
-#####Utatane Nasa (XL Only)
+#####Utatane Nasa (Animagine XL Only)
 XL: https://files.catbox.moe/wap0o7.safetensors
 >Strength: 0.8+
 >utatanenasa, 1girl, solo, short hair, bangs, red eyes, claws, blonde hair, brown hair, shirt, long sleeves, hair between eyes, jewelry, blue hair,  multicolored hoodie, multicolored hair, earrings, horns, choker with lock, fang, two-tone hair, skin fang, off shoulder, bare shoulders, zipper, colored inner hair, orange background, dragon girl, orange claws,
 
 
 ###Indie
-#####Dokibird
+#####Alchemilla Menace (Animagine XL Only)
+XL: https://files.catbox.moe/9y8u5x.safetensors
+>Strength: 0.9+
+>alchemilla,  1girl, solo, long hair, breasts, bangs, white see-through skirt, long sleeves, hat, cleavage, hair between eyes, bare shoulders, medium breasts, very long hair, purple eyes, fur trim, collarbone, purple hair, braid, choker, belt, wide sleeves, leotard, see-through, covered navel, witch hat, barefoot, ass visible through thighs, black choker, witch, vial belt
+Alt Version (no extras): 
+>alchemilla,  1girl, solo, long hair, breasts, bangs, cleavage, hair between eyes, bare shoulders, medium breasts, very long hair, purple eyes,  collarbone, purple hair, braid, choker, leotard, covered navel, barefoot, ass visible through thighs, black choker
+
+#####Dokibird (Animagine XL Only)
 XL: https://files.catbox.moe/7u3yvi.safetensors
 >Strength: 0.9+
 >dkbrd, 1girl, long hair, blonde hair, twintails, smile, green eyes, bangs, hat, long sleeves, blue headwear, hair between eyes, ribbon, hair ribbon, choker, black gloves, fingerless gloves, blue dress, white jacket, blue skirt, blue footwear
@@ -628,11 +635,11 @@ XL: https://files.catbox.moe/brq764.safetensors
 >optional: 'coat'
 ![Eira Woolcott](https://files.catbox.moe/j6mm9o.jpg)
 
-#####Shizukou
+#####Shizukou (+ AnimagineXL)
 https://files.catbox.moe/e0iagu.safetensors
+XL: https://files.catbox.moe/14v3da.safetensors
 >Strength: 0.8+ , 1 works fine
->shizukou, 1girl, bangs, blue eyes, purple hair, hair bun, hair ornament,  ahoge, short hair, double buns,
->optional: shirt, off-shoulder
+>shizukou,  1girl, solo, short hair, bangs, blue eyes, hair ornament, dress, bow, collarbone, jacket, purple hair, ahoge, shoes, choker, white dress, socks, off shoulder, hair bun, black footwear, black jacket, sleeves past wrists, double bun, sleeves past fingers, small breasts, flat chest
 ![Shizukou](https://files.catbox.moe/q097st.jpg)
 
 #####Yuuka Bear

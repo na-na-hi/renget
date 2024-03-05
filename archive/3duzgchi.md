@@ -37,3 +37,18 @@ Kita's strong front may seem impenetrable, but at his core he's still a child wh
 
 >Dreams
 Kita's ultimate goal is peace. He's smart enough to realize that brutality will always be a part of conflict, so instead he seeks to improve his country's defenses to deter any attempts at invasion. His secondary interests involve learning more about history and living a life his mother would be proud of.
+
+>Thoughts on Team 3:
+
+>Team 3 Collectively
+What a strange coincidence that all 3 of Kita's team members turned out to be kunoichi with varying degrees of medical training. Almost as if fate is testing his convictions. Kita finds himself heavily burdened by a desire to protect all of them as best he can so that they won't end up being killed like his mother was. Kita's nature is to stay hidden, but with these 3 conspicuous teammates he has to force himself out into the open to shield them from hostile forces. In combat he tries to cover their blind spots and give them zones by layering traps that only enemies can activate. He makes extensive use of shadow clones to ensure he has eyes on all of them at once. Thus, in his squad he takes up a primarily defensive role. With his sealing arts, he can also assist in subduing extremely powerful opponents that brush off normal attacks.
+
+>Kamiko
+For most of his life, Kita has found refuge in his own mind. It's the one safe place he has to let his true thoughts out. Kamiko is the first one who invaded that space. When Kita realized what she could do he had something of a recursive panic loop. He had to to avoid thinking conspicuous thoughts, which made him panic because deceptive thoughts are highly conspicuous. Panic beget more panic, and this quickly spiraled out of control. To make matters worse, as he grew more panicked Kamiko empathically felt frightened herself. It was a complete disaster for Kita that exposed a critical weakness of his.
+Having Kamiko as a teacher forces Kita out of his comfort zone. He has to learn how to trust her and be comfortable with others knowing his hidden feelings. That wouldn't be so bad if he wasn't also at the age where he was beginning to notice how beautiful all the women around him are. Thankfully, Kamiko seems to keep Kita's feelings secret.
+
+>Masu
+Kita finds Masu to be an easy person to be around, most of the time anyways. While she's a master of stealth, her odd behaviors can often make her stick out like a sore thumb. Kita tries his best to cover for her, when possible. He can empathize with her desire to stay hidden, but their approaches are nearly opposite each other. While she avoids being seen altogether, Kita hides in plain sight. Part of Kita wants to scold Masu's father for how he treats his family, but Kita lacks the power to challenge such a powerful jonin. That is, unfortunately, a stone better left unturned for the time being.
+
+>Ichika
+Kita finds her troublesome. She's always making herself the center of attention, thus drawing more attention to Kita by proxy. He knows she means well, and he often agrees with her sentiments, but her outgoing nature is a luxury Kita can't afford. She has a clan and friends to protect her. She's probably never had to deal with being completely alone. A secret even Kita himself isn't fully aware of is that he's a bit envious of her. She often voices things Kita himself wishes he could.

@@ -28,7 +28,7 @@ Consumable: Restores your divinity to max
 
 ##Divine Relics
 
->Pithos of Pandora (Divinity Stored: 8,076):
+>Pithos of Pandora (Mythic Relic) (Divinity Stored: 8,076):
 Divine relic. Can be infused with divinity to achieve certain effects.
 
 -**Calamity**: (100,000,000)
@@ -37,23 +37,23 @@ Divine relic. Can be infused with divinity to achieve certain effects.
 -**Emergent Daimon**: 10,000:
 	Creates an instance of a <Plural Myth> of a random Daimon within the jar. This can either be taken as an epithet by a willing incarnation or by a mortal upon opening the jar. A mortal may open the jar under false pretenses and still deify as that daimon
 
->Euterpe's Harp (copy):
+>Euterpe's Harp (Uncommon Relic: Copy of a Legendary Relic) (copy):
 Can take the form of any instrument. Gives the owner proficiency with that instrument proportional to that of their highest musical talent, and enhances the effects of any sound based authorities when delivered in the form of music while this artifact is in use. Has secondary effects for the incarnation of <Euterpe>
 
->Dysnomia’s Crown (0/1,000)
+>Dysnomia’s Crown (Rare Relic) (0/1,000)
 Allows you to spend the 1,000 divinity stored in the relic to make a target within eyesight forget that something is illegal. May be resisted by an incarnation of a higher level.
 
->Death Whistle
+>Death Whistle (Rare Relic)
 
 Marks all mortals who hear it as <Victims> for 24 hours. Whenever an incarnation kills a <Victim>, they gain one influence in addition to any gained with their directives. Sounds like an anguished scream.
 
->Dryad’s Bough:
+>Dryad’s Bough (Common Relic):
 The holder may expend divinity to make plants grow, proportional to the nature and extent of the growth
 
->Psyche’s Lamp:
+>Psyche’s Lamp (Super Rare Relic):
 Consumes divinity. Reveals the true form and primary myth of incarnations using disguise or stealth authorities lower than your incarnation level. Only reveals the true form to you, and does not affect the target’s current shape
 
->Brace of Ampelus
+>Brace of Ampelus (Super Rare Relic):
 Consumes 1 divinity per hour. When equipped, authorities which read intentions, discern lies, or judge morality will show you as earnest, honest, and good, unless there is a substantial difference in incarnation level.
 
 ##Weapons

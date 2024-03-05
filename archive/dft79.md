@@ -5,23 +5,22 @@
 
 ##Headlines
 
-* 23rd Tenkaichi Budokai tournament for DBZ: Kakarot has been announced
-* New Budokai Tenkaichi game has been announced
-* Season 4 of Dragon Ball: The Breakers coming November 1st
+* End of Z DLC for DBZ: Kakarot has been announced
+* New Budokai Tenkaichi game has been announced, Dragon Ball Sparking! ZERO
+* Season 5 of Dragon Ball: The Breakers released February 29th
 * Free update 1.21.00 for Xenoverse 2 has been released
-* SDBH Meteor Mission 1 is out November 9th, is on the database
+* Dragon Ball Super Card Game Fusion World has been released
 
 ##Dragon Ball: The Breakers
 
 Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work together to defeat a more powerful raider. Features CaC from Xenoverse, and many weaker characters from Dragon Ball who have rarely if ever been playable before.
 ###News
 
-* Season 4 coming November 1st
-	* New Raider: Broly (DBS)
-	* New Survivors skins: Mr Satan (Dragon Tier reward), Cheelai, Lemo, Snowsuit Bulma (TP)
-	* New Transpheres: Goku (Super Saiyan God), Vegeta (Super Saiyan God)
-* Crossplay under development
-* Raiders can now reallocate their skill points
+* Season 5 released February 29th
+	* New Raider: Goku Black and Zamasu
+	* New Survivors skins: Jaco (Dragon Tier reward), Mai, Puar (TP)
+	* New Transpheres: Broly (Full Power Super Saiyan)
+* Crossplay has been implemented
 
 ###Useful Information
 
@@ -55,11 +54,11 @@ Asymmetric multiplayer game inspired by Dead By Daylight. 7 survivors must work 
 
 A card game featuring every character ever in every form ever made in the franchise. 
 ###News
-- Next Set: MM1
+- Next Set: MM3 for March
 - Meteor Mission announced: Ozotto is the Main Villain
 - Ozotto is looking to absorb gods and has absorbed Earth
-- Arcade missions and Campaign set based on the Buu arc
-- Blood of the Saiyan set based on Legends (Broly, SS Goku/Vegeta/Trunks, SS2 Teen Gohan, SS3 Gotenks, SSB Vegito, and SS Gogeta)
-- More Dramatic Art reprints (Switch Goku/Teen Gohan ASEC and Adult Trunks)
+- Arcade missions and Campaign set based on various DBZ movies
+- Promo Campaign UR and SEC (MM3-071 Goku and MM3-SEC4 Broly)
+- More Dramatic Art reprints (Ginyu and SS Goku)
 ###Useful Information
 - Database: https://www.carddass.com/dbh/sdbh_bm/cardlist/

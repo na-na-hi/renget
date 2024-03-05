@@ -180,6 +180,7 @@ You are banned.
 - [Elden Ring Practice Tool](https://github.com/veeenu/eldenring-practice-tool)
 - [ERSaveIDEditor](https://github.com/sabpprook/ERSaveIDEditor)
 - [EldenRing Save Manager](https://github.com/Ariescyn/EldenRing-Save-Manager)
+- [SoulsSpeedruns - Save Organizer](https://github.com/Kahmul/SoulsSpeedruns-Save-Organizer)
 - [EldenRingSaveCopier](https://github.com/BenGrn/EldenRingSaveCopier)
 - [ER_Save_Tool](https://github.com/Elvonia/ER_Save_Tool) - [Compiled version](https://cdn.discordapp.com/attachments/963325478343688242/974809816654565457/ER_Save_Tool.zip)
 - [ERMapViewer](https://github.com/googleben/ERMapViewer)

@@ -10,7 +10,7 @@
 -> ==Latest Update 2/25/24== <-
 -> Going to update gradually, posting what I see on the thread and Chub. Will do another batch if I see a fox botmaker I haven't discovered before or I get sent a fuckton of new ones at once. <-
 -> *Added to Male: Rylie* <-
--> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma* <-
+-> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila* <-
 
 -> ==Previous Update 2/21/24== <-
 -> *Added to Male: Kheti* <-
@@ -103,8 +103,9 @@ Character  |  Preview  |  Description  |  Links
 **Maartje Hendriks op Weteringe** | ![Maartje Hendriks op Weteringe](https://files.catbox.moe/71dzsp.png) | Maartje Hendriks op Weteringe is a dutch archaeologist and one of the high-ranking members of the international group of scientists, adventurers and general handymen - The Explorer's League. During one of her ventures, she was possessed by an evil fox spirit, causing the woman to undergo a very fluffy transformation. And now, (You) and (She) are going into the Sinai Mountain to rescue some of the members of the league from the German Nazi cult Drachen. [Singular alt gen.](https://files.catbox.moe/mhznvp.jpg) | [DESUARCHIVE](https://desuarchive.org/g/thread/99173434/#99173483) [CATBOX](https://files.catbox.moe/s0mdjl.png)
 **Reynardine the Fox** | ![Reynardine the Fox](https://files.catbox.moe/vupvrw.png) | This is a (very) loose adaptation of the classic French character Reynard the Fox, with the most obvious change being that rather than being a male fox she's instead a kemonomimi foxgirl. | [CHUB](https://www.chub.ai/characters/scriptanon/reynardine-the-fox-1343c253) [CATBOX](https://files.catbox.moe/4vt7ta.png)
 **Hope** | ![Hope](https://files.catbox.moe/7b14wr.png) | Your homeless childhood friend, a Kemonomimi foxgirl that's been beat down by life constantly since middle school and has come to hate her name. | [CHUB](https://chub.ai/characters/totalethicistdeath/hope-dca3e3db) [CATBOX](https://files.catbox.moe/rdqidg.png)
+**Hope** | ![Hope](https://files.catbox.moe/iu4mdf.png) | Same character as above, different scenario. Your formerly homeless Kemonomimi foxgirl childhood friend, now your happy, loving wife. | [CHUB](https://www.chub.ai/characters/totalethicistdeath/hope-54507f9b) [CATBOX](https://files.catbox.moe/g9l69k.png)
 **Emma** | ![Emma](https://files.catbox.moe/cja7dw.png) | Your Kemonomimi foxgirl childhood friend finds you homeless after years apart. More or less a role-reversal of Hope, the card just above this one. | [CHUB](https://chub.ai/characters/totalethicistdeath/emma-bd1bd1d9) [CATBOX](https://files.catbox.moe/qbq2es.png)
-
+**Leila** | ![Leila](https://files.catbox.moe/0rwgm9.png) | Your petite foxgirl wife that wakes up one morning to find she's now over a foot taller, and has a significant height advantage over you. | [CHUB](https://www.chub.ai/characters/totalethicistdeath/leila-3125c9ce) [CATBOX](https://files.catbox.moe/5o0mj0.png)
 
 ### Existing Characters
 Character  |  Preview  |  Description  |  Links

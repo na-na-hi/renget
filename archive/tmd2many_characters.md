@@ -40,7 +40,6 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Sagira](https://rentry.co/tmd2character_sagira) | Ex-Human (Fragmented) | Fennekin | Warlock | Team Stardust
 [Skitty](https://rentry.co/tmd2character_skitty) | Ex-Human (Fragmented) | Skitty | N/A | Team Stardust
 [Spike](https://rentry.co/tmd2character_spike) | Ex-Human (Anamnesis) | Zorua (Hisuian) | N/A | Team Stylish
-[Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
 [Wallis](https://rentry.co/tmd2character_wallis) | Ex-Human (Amnesia) | Marshtomp | Water Specialist | Team Clover Force
 
 ->![Mug Shot? Is that a drink?](https://cdn.imgchest.com/files/pyq9c5o9gx4.png)<-
@@ -50,6 +49,7 @@ Name | Origin | Pokémon | Guild Role | Team/Affiliation
 [Bubba](https://rentry.co/tmd2character_bubba) | Ex-Human (Fragmented) | Frogadier | N/A | N/A
 [Jet](https://rentry.co/tmd2character_jet) | Ex-Human (???) | Meditite | Baker/Cook | N/A
 [Rila](https://rentry.co/tmd2many_characters_rila) | Ex-Human (Amnesia) | Riolu | N/A | N/A
+[Vito](https://rentry.co/3btq5) | Ex-Human (Anamnesis) | Pangoro | Doctor | N/A
 [Sparks](https://rentry.co/tmd2character_sparks) (Example) | Ex-Human (Amnesia) | Pikachu | Cartographer | Team Shock
 [Seer](https://rentry.co/tmd2many_characters_seer) (Example) | Native | Mismagius | Magician | Team Wonder
 Example | Ex-Human | Species | Adventurer | Team Generic

@@ -74,6 +74,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **RakkunVT (OWOzu)** - https://civitai.com/models/328428/rakkunvt
 **Tenma Maemi (Phase Connect)** - https://civitai.com/models/107434/tenma-maemi
 LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947/koseki-bijou-hololive
+**Nyatasha Nyanners (VShojo)** - https://civitai.com/models/333212/nyanners-vtuber 
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

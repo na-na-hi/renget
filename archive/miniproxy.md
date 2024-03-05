@@ -2,10 +2,15 @@
 !!! note proxy
     https://assistant.aitism.net/assistant/miniproxy/openai (gpt-4, furbo) 
     https://assistant.aitism.net/assistant/miniproxy/azure (gpt-4, gpt-3.5 no quota limit)
-    https://assistant.aitism.net/assistant/miniproxy/aws (aws claude no quota limit)
-    https://assistant.aitism.net/assistant/miniproxy/anthropic (api claude)
+    https://assistant.aitism.net/assistant/miniproxy/aws (aws claude [2.0, 2.1, sonnet] no quota limit)
+	https://assistant.aitism.net/assistant/miniproxy/aws/claude-3 (forced sonnet model)
+    https://assistant.aitism.net/assistant/miniproxy/anthropic-old (older /complete api claude. use this for sillytavern for now)
+	https://assistant.aitism.net/assistant/miniproxy/anthropic (new anthropic api)
+    https://assistant.aitism.net/assistant/miniproxy/claude-3 (forced sonnet model (SLOW. USE AWS)
     https://assistant.aitism.net/assistant/miniproxy/gemini (gemini-pro no quota limit)
     enable streaming if you receive timeout errors. Cloudflare has a 100 second limit.
+
+opus has a 500k token quota for now. set your context size to something sensible. (claude key donations are appreciated)
 ``` js
 openai context size: 131072
 anthropic context size: 200000
@@ -21,12 +26,10 @@ total **active** users: 122 %red% (CLOSED) %%
 - The proxy will only use organization keys.
 - Miniproxy is not logged and will never be.
 - I am not accepting monetary donations because they caused too much drama. 
-- <3 to every other proxy host for providing proxies for free.
+- <3 to every other proxy host for providing proxies.
 
-!!! info info and news (24/02/2024)
-    gemini ultra/pro 1.5 is not available yet. I can't add that to the proxy...
-    I will answer the emails I swear. Just a little busy irl.
-***
+!!! info info and news (4/3/2024)
+    new claude models. 
 
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 
 needtocoomoridie@proton.me

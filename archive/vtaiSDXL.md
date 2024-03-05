@@ -342,6 +342,18 @@
 	(amahano, long hair, blonde hair, aqua hair, multicolored hair, two-tone hair, ahoge, star hair ornament, blue eyes, hairclip, white dress, bare shoulders, yellow jacket, off shoulder, long sleeves, star \(symbol\), thigh strap, pink socks, blue socks, white footwear)
 -> [Catbox](https://files.catbox.moe/67ts6m.safetensors) <-
 
+#### -> Cyberlive <-
+-> ![CYBERLIVE](https://files.catbox.moe/qao0z5.png) <-
+***
+
+##### -> (CyberAlter) Alchemilla Menace <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	alchemilla, long hair, breasts, bangs, white see-through skirt, long sleeves, hat, cleavage, hair between eyes, bare shoulders, medium breasts, very long hair, purple eyes, fur trim, collarbone, purple hair, braid, choker, belt, wide sleeves, leotard, see-through, covered navel, witch hat, barefoot, ass visible through thighs, black choker, witch, vial belt
+-> [Catbox](https://files.catbox.moe/9y8u5x.safetensors) <-
+-> [MEGA](https://mega.nz/folder/NyMAnSiK#VnTawAi_MFW-OozTCXAdqw/file/UuUwEDqJ) <-
+
 #### -> Varium <-
 -> ![VARIUM](https://files.catbox.moe/3xrii5.png) <-
 ***
@@ -569,6 +581,10 @@
 !!! info Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
 -> [Civitai](https://civitai.com/models/329898/nanashi-mumei-for-ponyxl) <-
 
+##### -> Hakos Baelz <-
+!!! info Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
+-> [Civitai](https://civitai.com/models/332834/hakos-baelz) <-
+
 ##### -> Ookami Mio <-
 !!! info 7 Outfits!
 -> [Civitai](https://civitai.com/models/331637/ookami-mio-xl-7-outfits-hololive) <-
@@ -639,6 +655,9 @@
 
 ##### -> Lain Paterson <-
 -> [Civitai](https://civitai.com/models/331976/lain-paterson-nijisanji-ponyxl) <-
+
+##### -> Yorumi Rena <-
+-> [Civitai](https://civitai.com/models/333904/yorumi-rena-nijisanji-ponyxl) <-
 
 ##### -> Nina Kosaka <-
 !!! info 2 Outfits!

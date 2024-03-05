@@ -32,7 +32,7 @@ The basic translation for both the menus and the stories should now be set up. H
 DeepL does a good enough job that you can follow the story, but the translation is fairly rough and the latency can make waiting for the translation to be displayed a bit annoying. A local installation of [Sugoi](https://github.com/Vin-meido/XUnity-AutoTranslator-SugoiOfflineTranslatorEndpoint) improves both of those.
 This guide assumes that you still went through the steps from [PriconeTL](https://rentry.org/pcrgMTLguide#priconetl)
 
-1. Grab the Sugoi Translator Toolkit from somewhere, for example [here](https://sugoitoolkit.com/) or [here](https://mega.nz/file/ezpDSBgR#wX3kgvejz4VBdwgDuOehK2XNZdmt65I4uqklRyB1emE)
+1. Grab the Sugoi Translator Toolkit from somewhere, for example [here](https://sugoitoolkit.com/) or [here](https://mega.nz/file/jiBgES5Q#TWUU2np-poLYpWjBnU0EJoo6Tf2bKEdXerXKgTCmXbQ)
 2. Extract it to the directory of your choice
 3. Open priconner\BepInEx\config\AutoTranslatorConfig.ini and change the second line to Endpoint=SugoiOfflineTranslator
 4. Scroll down to the bottom, where you find [SugoiOfflineTranslator], make the following changes:
@@ -88,7 +88,8 @@ DMM seems to always put most of the data on drive C:, around 9GB on a fresh inst
 -> ![](https://i.imgur.com/FhNe1PB.png) <-
 
 *Changelog:*
-*Last Update 2023-10-01, Added the UpdateTool Section
+*Last Update 2024-03-04, Added a download link for V7 of Sugoi
+2023-10-01, Added the UpdateTool Section
 2023-06-06, Swapped out Links for a more recent version of Sugoi
 2023-06-05, Cleaned up the info regarding Sugoi, now that some of it is included in the patch by default
 2023-05-25, Translator can no longer be changed on the fly with Alt+0

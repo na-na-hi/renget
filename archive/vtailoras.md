@@ -2123,6 +2123,13 @@
 ### -> Cyberlive <-
 -> ![CYBERLIVE](https://files.catbox.moe/qao0z5.png) <-
 ***
+#### -> (CyberAlter) Alchemilla Menace <-
+!!! info Don't know how to reliably get her potion belt to appear, so I left it out.. my apologies..
+!!! note Recommended weight: 0.7
+!!! info Example Prompt
+	(Menace, purple hair, long hair, braid, purple eyes, black elbow gloves, black fur-trimmed jacket, black leotard, purple witch hat, purple skirt, see-through, long sleeves, wide sleeves, bare shoulders, black choker, slime)
+-> [Catbox](https://files.catbox.moe/bdi0ms.safetensors) <-
+
 #### -> (CyberAlter) Inami Yoki <-
 !!! note Recommended weight: 0.65
 !!! info Example Prompt

@@ -24,7 +24,6 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 Page 1
 ***
 ```
-CHUNIN EXAM POST
 RULES
 Everyone gets 1 extra perk. (So you have two perks)
 Only twenty points from drawbacks, (ONLY twenty points, no perks) everything else is fluff.
@@ -41,7 +40,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 
 >Team 1
 >Natsuo Uchiha
->>92068886
+>>92078251
 >D
 >>92035734
 >Himari Miko
@@ -81,7 +80,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 
 >Team 5
 >Ezaki Tuto
->>92064477
+>>92084370
 >Jin Hyuga
 >>92067527
 >Shinrō Kamotai
@@ -92,7 +91,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Teamless:
 >Ghidorah
 >>92069165
->Darkbone Nightblood Shadowscar
+>Darkbone
 >>92064881
 >Taihō Shiryō.
 >>92065120
@@ -100,13 +99,32 @@ You can make a C+ Build, they just won't be participating in the exams.
 >>92073651
 >Junki Takenaga
 >>92074519
+>Sen Yamamoto
+>>92085709
+>Tsugumi
+>>92078303
 
+```
+***
+Page 2
+***
+```
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
 
 Writefags:
 Winner Winner:
 https://rentry.org/WinnerWinnerChickenDinner
+
+Relationship Charts:
+>Remilia Orochimaru
+https://rentry.org/g96kt64m
+>Ichika Chinoike
+https://rentry.org/8tsobb2p
+>Nodao Douji
+https://rentry.org/ugiokw5e
+>Himari Miko
+https://rentry.org/HimariChart
 ```
 
 #Fighting Autism Tournament
@@ -469,12 +487,13 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
+New Writefag:
+>The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic)
+https://rentry.org/pop2nnyq
 
-New Art:
->Kaylee
->>92069993
->Crimes Against Civilization
->>92075566
+New Data:
+>height chart
+>>92077634
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1068,6 +1087,8 @@ https://rentry.org/igwpicub
 https://rentry.org/6zruhinr
 >Monsters (Last Rite, Yamata)
 https://rentry.org/ph2rfaai
+>The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic)
+https://rentry.org/pop2nnyq
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

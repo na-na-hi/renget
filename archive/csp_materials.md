@@ -13,7 +13,7 @@
 [**3D**](https://rentry.org/CSP_3D) | 3D materials |
 [**Deleted**](https://rentry.org/CSP_Deleted) | For Assets removed from the store |
 [**Wishlist**](https://rentry.org/Brush_Wishlist) | Use the markdown script below to easily add items | 
-[**Userscript**](https://rentry.org/CSP_markdown_script) | Adds a button to asset store pages that copies the info in rentry markdown style 
+[**Userscripts**](https://rentry.org/CSP_markdown_script) | Contains 3 scripts. 1. Rentry markdown converter, 2. wishlist checker, 3. Download on asset page
 [**Translated Plugins**](https://rentry.org/CSP_English_Plugins) | English Translated plugins for CSP
 [**OP**](https://rentry.org/gq3wh) | Potential opening post
 

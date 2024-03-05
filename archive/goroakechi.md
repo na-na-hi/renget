@@ -5,7 +5,7 @@
 -> nana  ꒰ྀི ![heart](https://i.postimg.cc/bwKpb3ft/43.gif) ꒱ྀི she ◞ he <-
 -> 𓎟𓎟 white 17 %#FED6E4%୨୧%% fem ![p](https://pixels.crd.co/assets/images/gallery25/f69cf5bd.gif?v=1987e5e0) <-
 ->  ![](https://pixels.crd.co/assets/images/gallery01/85889547.gif?v=1987e5e0) goro %#FED6E4%superfan%% ༏། lesbian ♡ ₊ ⟢ <-
-->[nanagoro](https://nanagoro.carrd.co) ![](https://i.postimg.cc/4dRRH1Z1/Tumblr-l-779524489398462.gif) editor & artist <-
+->[nanagoro](https://nanagoro.carrd.co) ![](https://i.postimg.cc/4dRRH1Z1/Tumblr-l-779524489398462.gif) tv girl lover <-
 -> 001 ︵︵ 002 ︵︵ 003<-
 
 -> ![](https://i.postimg.cc/yxMhXHzm/Untitled1-20240227140526.png) <-

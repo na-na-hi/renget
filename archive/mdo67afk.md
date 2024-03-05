@@ -55,6 +55,17 @@ Info cost: 3 million. Bounty: N/A.
 A Wonderful Nightmare:
 Info cost: 1 million. Bounty: 10 million.
 
+The Kraken’s Tongue:
+Info cost: purchased. Bounty: 20M
+
+The Kraken’s Tongue is a high potential magic user living in Vladivostok currently working in an oil refinery. His magic is speech related, the more someone speak of him, by name, title or description, the more of a ‘hold’ he gets on them. Mentioning his name a few time creates a weak hold that dissipates after a few days, and allows him to hear anything the victim says. A medium hold triggers when a proper conversation involving him happens. A strong hold triggers when an elaborate description of the Kraken’s Tongue is done by the victim, medium to strong hold can take months if not years to dissipate by themselves.
+
+Medium to strong hold allows the Kraken’s Tongue to alter someone’s spoken sentences. The bigger the hold, the bigger the allowed change is, and the more subtle to the user the effect is. While a strong hold does not affect the victim’s mental state in any significant way, it is very good at convincing the victim that what it said was a freudian slip, which can subsequently gaslight them into believing things they did not before. However, being aware of the Kraken’s Tongue ability makes it harder to be manipulated this way.
+
+Holds only applies when VOCAL mentions of the Kraken’s tongue are done, as such, any written text or messaging about him are exempt from his influence. Thinking about him while speaking about something else or describing someone similar to him is not enough to trigger his hold, as the victim has to make a conscious effort to address the Kraken’s Tongue specifically during their speech.
+
+While the Kraken’s Tongue is not currently a threat to anyone, his ability has a global range that has no known upper limit. As such, its bounty is rather high as many fear what he would be able to do if he actively tried to win the game. Especially since his potential can increase when enough people talk about him.
+
 Demon of the Backstreets:
 Info cost: purchased. Bounty: 5 million.
 

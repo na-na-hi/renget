@@ -7,6 +7,10 @@
 	- You now have csp asset store markdown in your clipboard formatted properly, thumbnail and all.
 	- Deleted assets still need to be handled manually for now
 
+[TOC2]
+
+## Copy in Rentry Markdown button
+- Adds a clipboard button and a link box so you don't have to manually fill in all the info on renty when adding a line
 ```js
 // ==UserScript==
 // @name         CSP Markdown conversion
@@ -104,7 +108,7 @@
 
 ```
 
-## Wishlist checker
+## Wishlist checker Script
 - CSP Wishlist fulfillment checker. Just go to wishlist and if a link is in yellow its already added.
 ```js
 // ==UserScript==
@@ -155,6 +159,58 @@
 })();
 ```
 
+## On the rentry direct download button 
+- Checks if the following asset is on the paid assets page and creates a direct link next to the id  "✅ on the Rentry!"
+```
+// ==UserScript==
+// @name         On the rentry button
+// @version      0.1
+// @description  Cross-reference Clip Studio Store links with a reference page
+// @match        https://assets.clip-studio.com/*/*
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Define the URL of the reference page
+    const referenceURL = 'https://rentry.org/CSP_368476';
+
+    // Fetch the content of the reference page
+    fetch(referenceURL)
+    .then(response => response.text())
+    .then(data => {
+        // Extract the IDs and DL links from the reference page
+        const rows = data.match(/<tr>[\s\S]*?<\/tr>/g);
+        const idDLMap = {};
+        rows.forEach(row => {
+            const idMatch = row.match(/<a[^>]*>(\d+)<\/a>/);
+            if (idMatch) {
+                const id = idMatch[1];
+                const dlMatch = row.match(/<a href="([^"]+)"[^>]*>DL<\/a>/);
+                if (dlMatch) {
+                    const dlLink = dlMatch[1];
+                    idDLMap[id] = dlLink;
+                }
+            }
+        });
+
+        // Get the current URL's ID
+        const currentURL = window.location.href;
+        const currentID = currentURL.match(/detail\?id=(\d+)/)[1];
+
+        // Check if the current ID is present in the reference IDs
+        const isPresent = Object.keys(idDLMap).includes(currentID);
+
+        // Modify the page content accordingly
+        const contentIdElement = document.querySelector('.materialHeaderContentsId');
+        if (isPresent) {
+            const dlLink = idDLMap[currentID];
+            contentIdElement.innerHTML += ` <a href="${dlLink}" target="_blank">✅ on the Rentry!</a>`;
+        }
+    })
+    .catch(error => console.error('Error fetching data:', error));
+})();
+```
 
 -> [**[TOP]**]() ->
 !!! danger
