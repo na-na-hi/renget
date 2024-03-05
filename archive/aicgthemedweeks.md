@@ -18,7 +18,7 @@
 ## -> [Randomness and probability](https://rentry.co/aicgthemedweek3) <-
 ## -> [Mental illness](https://rentry.co/aicgthemedweek4) <-
 ## -> [Gothic horror](https://rentry.co/aicgthemedweek5) <-
-## -> [A world without X + Unconventional monsters](https://rentry.co/aicgthemedweek6) <-
+## -> [A world without X / Unconventional monsters](https://rentry.co/aicgthemedweek6) <-
 ## -> [Winter holidays](https://rentry.org/specialthemedweek)<-
-## -> Finnish / Self-aware <-
+## -> [Finnish / Self-aware](https://rentry.org/aicgthemedweek8) <-
 ***

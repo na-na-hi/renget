@@ -76,7 +76,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Itami Nanae
 >>92041809
 >Kazen Uzumaki
->>92045859
+>>92093797
 
 >Team 5
 >Ezaki Tuto
@@ -88,21 +88,27 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Yuma Kouda
 >>92056996
 
->Teamless:
+>Team 6
+>Tsugumi
+>>92078303
 >Ghidorah
 >>92069165
+>Junki Takenaga
+>>92074519
+>Sen Yamamoto
+>>92095664
+
+>Teamless:
 >Darkbone
 >>92064881
 >Taihō Shiryō.
 >>92065120
 >Ahiratsu Ōtsutsuki
 >>92073651
->Junki Takenaga
->>92074519
->Sen Yamamoto
->>92085709
->Tsugumi
->>92078303
+>Kuro Blackshadow
+>>92091505
+>Kijyo-Douji
+>>92092125
 
 ```
 ***
@@ -115,16 +121,29 @@ https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
 Writefags:
 Winner Winner:
 https://rentry.org/WinnerWinnerChickenDinner
+Osamu's Journal: September 3rd (Osamu)
+https://rentry.org/xvefkfsk
+Exhibition Match (Jin, D)
+https://rentry.org/iimg4p6h
 
 Relationship Charts:
+>Masu
+>>92079115
+>JIn
+>>92068277
 >Remilia Orochimaru
 https://rentry.org/g96kt64m
 >Ichika Chinoike
-https://rentry.org/8tsobb2p
+https://rentry.org/8tsobb2p + >>92070725
 >Nodao Douji
-https://rentry.org/ugiokw5e
+https://rentry.org/ugiokw5e + >>92079371
 >Himari Miko
 https://rentry.org/HimariChart
+>Kiko
+https://rentry.org/DogNotebook
+>Kazen Uzumaki
+https://rentry.org/5ve76r7v
+
 ```
 
 #Fighting Autism Tournament
@@ -487,13 +506,12 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Writefag:
->The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic)
-https://rentry.org/pop2nnyq
+New Art:
+>orochi
+>>92088248
+>Sandatsu doraemowari
+>>92089201
 
-New Data:
->height chart
->>92077634
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

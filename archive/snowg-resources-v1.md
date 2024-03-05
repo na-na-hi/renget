@@ -10,7 +10,7 @@ Links | Description
 [Fandom](https://snowbreak.fandom.com/wiki/Snowbreak_Wiki) | Fandom Wiki
 [Snowbreak.gg](https://snowbreak.gg/) | Snowbreak Database
 [Nexus Mods](https://www.nexusmods.com/snowbreakcontainmentzone) | Modding
-[Telegram](https://t.me/s/SnowbreakRU) | Leaks
+[Telegram](https://t.me/s/SnowbreakRU), [/snowg/ Leak Rentry](https://rentry.org/snobleaks) | Leaks
 
 ##Guides
 Links | Description

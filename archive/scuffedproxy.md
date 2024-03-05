@@ -1,8 +1,10 @@
 -> ![Scuffed Proxy](https://i.imgur.com/MH4QxMx.png) <-
 
 !!! note Temporarily testing claude-3
-    New jailbreak, send feedback.
-    Disabled "Scuffed Tense" by default on the preset, fucks the prose up.
+    Jailbreak 7: Used from 04/03 00:09 UTC - 05/03 16:03 UTC
+    Jailbreak 8: Used from 05/03 16:03 UTC - current
+    Send feedback.
+    Disabled "Scuffed Tense" by default on the preset, fucks the prose up. Simplified "Scuffed Extras" on the preset. Rewrote impersonation to be first-person.
     **Uptime not guaranteed.**
 
 > why do I keep getting backend/general errors?

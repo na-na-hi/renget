@@ -31,6 +31,7 @@ https://files.catbox.moe/kwo8w4.safetensors sayo_no_uta a horror game from 2003,
 https://files.catbox.moe/d9k7nf.safetensors slay_the_princess a visual novel that came out last year that has a sketchy art style, supports 5 of the game's characters: adversary, specter, nightmare, tower, and witch you have to prompt for their features to get them to show up, this file has the characters with their associated tags: https://files.catbox.moe/uprfne.txt, here's some example gens: https://files.catbox.moe/32eskz.png, https://files.catbox.moe/c87hl7.png, https://files.catbox.moe/kp5hbk.png, https://files.catbox.moe/jta8v1.png, https://files.catbox.moe/jsz1rp.png
 https://files.catbox.moe/te26ne.safetensors braces activation trigger is braces, some colors were tagged, rainbow braces, red braces, yellow braces, pink, braces, you pretty much HAVE to inpaint because the target area is typically going to be quite small in the image, could also try adetailer lips model
 https://files.catbox.moe/7723pp.safetensors doll a toy doll, activation trigger is doll, based on a set of photos so you'll have to use a style lora or some style triggers to make the image not a photo, works best with artists that have a more realistic style
+https://files.catbox.moe/tw9t1s.safetensors k-pop-stars a lora trained on kpop stars, don't think there's any activation triggers, I resized the original from pixel drain here: https://pixeldrain com/u/uku8ptP1, the anon has other ones at different step counts that might be better: https://pixeldrain com/u/5fuXqJp2 (4000 steps), https://pixeldrain com/u/wv6Vjq3v (2000 steps)
 
 ###Concepts
 https://files.catbox.moe/f6r1nl.safetensors shared_clothes keyword is SharedClothes, example gen: https://files.catbox.moe/oddiam.png
@@ -204,11 +205,15 @@ https://files.catbox.moe/5zurdz.safetensors LAxe
 https://files.catbox.moe/l4gj72.safetensors MSize
 https://files.catbox.moe/q5tsqo.safetensors pumpkinspicelatte
 https://files.catbox.moe/o1dk53.safetensors possummachine
-https://files.catbox.moe/qszfwe.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/57camv.png
+https://files.catbox.moe/55cxjx.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/u79e5f.png
 https://files.catbox.moe/ympckt.safetensors 2bge
 https://files.catbox.moe/dw1291.safetensors vanillaware
 https://files.catbox.moe/1wplp6.safetensors kotoyoshi_yumisuke example gens: https://files.catbox.moe/tity9x.png, https://files.catbox.moe/12vv8v.png, https://files.catbox.moe/u4100s.png
 https://files.catbox.moe/4wyxpr.safetensors liveforthefunk
+https://files.catbox.moe/6mq6hn.safetensors wamudraws
+https://files.catbox.moe/dkjzm3.safetensors gattles
+https://files.catbox.moe/6nnfzi.safetensors norza
+https://files.catbox.moe/4z5ngk.safetensors ter
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

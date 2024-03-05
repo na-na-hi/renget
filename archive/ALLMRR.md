@@ -21,7 +21,8 @@ Tests were done **without** Instruct Mode and. as a result, the instruct models 
 	
 	- 10.7B:
 		- [SOLAR-10.7B-Instruct-v1.0-uncensored](https://huggingface.co/w4r10ck/SOLAR-10.7B-Instruct-v1.0-uncensored)
-		- **[Fimbulvetr-10.7B-v1](https://huggingface.co/Sao10K/Fimbulvetr-10.7B-v1-GGUF) <- Currently my (Trappu) comfort model along with UNA-TheBeagle-7b-v1. It, in my opinion, outperforms many of the larger models when it comes to roleplay and is on a whole other level compared to <=13b models.**
+		- [Fimbulvetr-10.7B-v1](https://huggingface.co/Sao10K/Fimbulvetr-10.7B-v1-GGUF) <- It, in my (Trappu) opinion, outperforms many of the larger models when it comes to roleplay and is on a whole other level compared to <=13b models.
+		- **[Sao10K/Fimbulvetr-11B-v2-GGUF](https://huggingface.co/Sao10K/Fimbulvetr-11B-v2-GGUF) <- This model has no right to be this good as a 10.7b model. It's insanely good at a lot of things and I (Trappu) have yet to find an flaw worth bringing up in this model. Currently, In my (Trappu) opinion, the best model available for both RP and ERP.**
 	
 	- 13B:
 		- [LLaMA2-13B-Psyfighter2](https://huggingface.co/KoboldAI/LLaMA2-13B-Psyfighter2) <- One of the best 13B's for RP, and Adventure. Also good for general chatting. May need a *little* more care to avoid looping (settings/context). (Recommend using `Generate only one line per request`)

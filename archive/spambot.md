@@ -72,10 +72,10 @@ If you have questions, suggestions, or logs to share, send me an email. Happy to
 ### Changelog 📜
 
 ```
-03/04/24 - Medley Update v2.0.0
-02/23/24 - Medley Update v1.1.0
+03/04/24 - Medley Update  2.0.0
+02/23/24 - Medley Update  1.1.0
 02/21/24 - Added FAQ
-02/20/24 - Medley Release v1.0.0
+02/20/24 - Medley Release 1.0.0
 ```
 
 -> ![monero](https://files.catbox.moe/k3erke.png) `41mgDN9FgwbEkZGkZn22NGEX2RQMDyYFeKGSR74EJYSqfec7UGUMac68XNw9z7GEd8G9MNDrvm9hKaJEm1NMQctU4v6qQTc` <-

@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: "The Twilight Saga: Eclipse" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi on Iofi's channel (Tue 03/05 9PM CT)
+Next stream ("The Twilight Saga: Eclipse" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi on Iofi's channel, Tue 03/05 9PM CT)
+https://www.youtube.com/watch?v=1fjdVb_vRCA
 Last stream (Poppy Playtime, Chapter 3)
 https://www.youtube.com/watch?v=h9M8CDS4nUA
 Last appearance (Chatting after the Devour collab on Orihime's stream)
@@ -68,7 +69,7 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to get your movie for the upcoming watchalong of "The Twilight Saga: Eclipse" on Iofi's channel tomorrow.
+Remember to get your movie for the upcoming watchalong of "The Twilight Saga: Eclipse" on Iofi's channel later tonight.
 
 Anon's MEGA link, 2.5GB, 1080p
 https://mega.nz/folder/k2tUyRKQ#9W80fZyLF9LPr7OKuaIq3g

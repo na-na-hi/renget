@@ -458,8 +458,8 @@ https://files.catbox.moe/q5tsqo.safetensors pumpkinspicelatte
 [![1girl no scores](https://files.catbox.moe/c3i6w3.png)](https://files.catbox.moe/pqdxy2.png)[![1girl scores](https://files.catbox.moe/86freb.png)](https://files.catbox.moe/ken9y6.png)[![chun-li no scores](https://files.catbox.moe/mp24n6.png)](https://files.catbox.moe/zctl4b.png)[![2b score_9 only](https://files.catbox.moe/l6ak51.png)](https://files.catbox.moe/1dsco5.png)[![korra scores](https://files.catbox.moe/936f70.png)](https://files.catbox.moe/2ds7gu.png)
 https://files.catbox.moe/o1dk53.safetensors possummachine
 
-[![1girl no scores](https://files.catbox.moe/22udnf.png)](https://files.catbox.moe/aetnex.png)[![1girl scores](https://files.catbox.moe/vn1r10.png)](https://files.catbox.moe/xf0tle.png)[![chun-li no scores](https://files.catbox.moe/v1is22.png)](https://files.catbox.moe/7dk1uw.png)[![2b score_9 only](https://files.catbox.moe/g46d93.png)](https://files.catbox.moe/sp4ro6.png)[![korra scores](https://files.catbox.moe/8ozbj3.png)](https://files.catbox.moe/l7xxp9.png)
-https://files.catbox.moe/qszfwe.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/57camv.png
+[![1girl no scores](https://files.catbox.moe/miuuct.png)](https://files.catbox.moe/z7rjd8.png)[![1girl scores](https://files.catbox.moe/93u3oq.png)](https://files.catbox.moe/kb5y6z.png)[![chun-li no scores](https://files.catbox.moe/2ml2v7.png)](https://files.catbox.moe/07a48p.png)[![2b score_9 only](https://files.catbox.moe/m8jr27.png)](https://files.catbox.moe/5970xt.png)[![korra scores](https://files.catbox.moe/c4f6a9.png)](https://files.catbox.moe/merdgb.png)
+https://files.catbox.moe/55cxjx.safetensors grimgrim helps to put shortstack related tags in the prompt, example gen: https://files.catbox.moe/u79e5f.png
 
 [![1girl no scores](https://files.catbox.moe/7aqww2.png)](https://files.catbox.moe/icf9dx.png)[![1girl scores](https://files.catbox.moe/fv1jvu.png)](https://files.catbox.moe/dd70am.png)[![chun-li no scores](https://files.catbox.moe/719c0t.png)](https://files.catbox.moe/abkuj6.png)[![2b score_9 only](https://files.catbox.moe/nw8c7z.png)](https://files.catbox.moe/46n01p.png)[![korra scores](https://files.catbox.moe/dnx2c1.png)](https://files.catbox.moe/jabom8.png)
 https://files.catbox.moe/ympckt.safetensors 2bge
@@ -472,6 +472,21 @@ https://files.catbox.moe/1wplp6.safetensors kotoyoshi_yumisuke example gens: htt
 
 [![1girl no scores](https://files.catbox.moe/yk7tfv.png)](https://files.catbox.moe/9sh54l.png)[![1girl scores](https://files.catbox.moe/qj73vm.png)](https://files.catbox.moe/3j57xx.png)[![chun-li no scores](https://files.catbox.moe/elvd8r.png)](https://files.catbox.moe/qhqx3b.png)[![2b score_9 only](https://files.catbox.moe/9wygte.png)](https://files.catbox.moe/x7q2cv.png)[![korra scores](https://files.catbox.moe/hzgst9.png)](https://files.catbox.moe/e0yhxc.png)
 https://files.catbox.moe/4wyxpr.safetensors liveforthefunk
+
+[![1girl no scores](https://files.catbox.moe/x3a7ov.png)](https://files.catbox.moe/k229xa.png)[![1girl scores](https://files.catbox.moe/fbw71g.png)](https://files.catbox.moe/a1b55j.png)[![chun-li no scores](https://files.catbox.moe/08siwr.png)](https://files.catbox.moe/3b7f66.png)[![2b score_9 only](https://files.catbox.moe/6f8ofp.png)](https://files.catbox.moe/mofa28.png)[![korra scores](https://files.catbox.moe/3206g4.png)](https://files.catbox.moe/zhfqvp.png)
+https://files.catbox.moe/6mq6hn.safetensors wamudraws
+
+[![1girl no scores](https://files.catbox.moe/h714k3.png)](https://files.catbox.moe/2e0vtz.png)[![1girl scores](https://files.catbox.moe/dap65k.png)](https://files.catbox.moe/szr5gp.png)[![chun-li no scores](https://files.catbox.moe/pbnvms.png)](https://files.catbox.moe/1m84ji.png)[![2b score_9 only](https://files.catbox.moe/ktm8wg.png)](https://files.catbox.moe/pt2hx6.png)[![korra scores](https://files.catbox.moe/o99o30.png)](https://files.catbox.moe/a3i5eu.png)
+https://files.catbox.moe/dkjzm3.safetensors gattles
+
+[![1girl no scores](https://files.catbox.moe/90j2dg.png)](https://files.catbox.moe/2b27o4.png)[![1girl scores](https://files.catbox.moe/rl9r97.png)](https://files.catbox.moe/sao6wa.png)[![chun-li no scores](https://files.catbox.moe/y4fiwl.png)](https://files.catbox.moe/vibprk.png)[![2b score_9 only](https://files.catbox.moe/uo6smt.png)](https://files.catbox.moe/813zmi.png)[![korra scores](https://files.catbox.moe/xtayli.png)](https://files.catbox.moe/qs6fba.png)
+https://files.catbox.moe/6nnfzi.safetensors norza
+
+[![1girl no scores](https://files.catbox.moe/fs92zn.png)](https://files.catbox.moe/w22kj8.png)[![1girl scores](https://files.catbox.moe/43m6dr.png)](https://files.catbox.moe/z4zi0m.png)[![chun-li no scores](https://files.catbox.moe/r5y5bk.png)](https://files.catbox.moe/bpmv4l.png)[![2b score_9 only](https://files.catbox.moe/zq54wn.png)](https://files.catbox.moe/ouh3p9.png)[![korra scores](https://files.catbox.moe/qqi1f3.png)](https://files.catbox.moe/uphegy.png)
+https://files.catbox.moe/4z5ngk.safetensors ter
+
+[![1girl no scores](https://files.catbox.moe/dl8ge5.png)](https://files.catbox.moe/30zjac.png)[![1girl scores](https://files.catbox.moe/zxoflu.png)](https://files.catbox.moe/b8avji.png)[![chun-li no scores](https://files.catbox.moe/qvchoo.png)](https://files.catbox.moe/yq6af5.png)[![2b score_9 only](https://files.catbox.moe/hs370k.png)](https://files.catbox.moe/zbqttj.png)[![korra scores](https://files.catbox.moe/tsrfun.png)](https://files.catbox.moe/uwnadc.png)
+https://files.catbox.moe/tw9t1s.safetensors k-pop-stars a lora trained on kpop stars, don't think there's any activation triggers, I resized the original from pixel drain here: https://pixeldrain com/u/uku8ptP1, the anon has other ones at different step counts that might be better: https://pixeldrain.com/u/5fuXqJp2 (4000 steps), https://pixeldrain.com/u/wv6Vjq3v (2000 steps)
 
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

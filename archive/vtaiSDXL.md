@@ -449,6 +449,13 @@
 	Princess: (obakepam, long hair, white hair, messy hair, ahoge, side ponytail, mini crown, hair ornament, hairclip, blue eyes, obakepri, bare shoulders, neck ribbon, blue fur-trimmed cape, blue dress, short detached sleeves, blue footwear)
 -> [Catbox](https://files.catbox.moe/ydp9az.safetensors) <-
 
+##### -> Shizukou <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	shizukou, short hair, bangs, blue eyes, hair ornament, dress, bow, collarbone, jacket, purple hair, ahoge, shoes, choker, white dress, socks, off shoulder, hair bun, black footwear, black jacket, sleeves past wrists, double bun, sleeves past fingers, small breasts, flat chest
+-> [Catbox](https://files.catbox.moe/14v3da.safetensors) <-
+
 #### -> Misc <-
 ***
 ##### -> (Nerissa) Aradia Ravencroft <-
@@ -594,6 +601,9 @@
 !!! info Example Prompt
 	la+ darknesss, white hair, long hair, hair between eyes, french braid, metal collar, black dress, baggy clothes, sleeves past fingers, thighhighs, single thighhigh, pointy ears, long sleeves, tail, demon girl, yellow ascot
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
+-> or <-
+!!! info other lora, check tags from the uploader
+-> [Catbox](https://files.catbox.moe/6wxjpz.safetensors) <-
 
 ##### -> Takane Lui <-
 !!! note Tags suggested by uploader, not me
@@ -706,3 +716,6 @@
 
 ##### -> Filian <-
 -> [Civitai](https://civitai.com/models/329887/filian-for-ponyxl) <-
+
+##### -> Shizukou <-
+-> [Catbox](https://files.catbox.moe/pvf1kk.safetensors) <-

@@ -103,6 +103,9 @@ File | Version
 
 ### Browser extension:
 
+Check out the link as it explains why we do this: https://rentry.org/stscript#html5-minigames-and-hacking-stscript
+Thanks again to stscript anon for sharing how to enable JS with STScript.
+
 1. First, install a user script browser extension. I use ViolentMonkey. Other similar extensions should work too. Just search the Firefox Addons page or Chrome Web Store. These are all the ones I know:
 - Violentmonkey
 - Tampermonkey
@@ -152,9 +155,11 @@ Don't forget to add **creamsan** to the Global Quick Reply Sets.
 To hide the **Update Presets** button, simply uncheck the **Buttons** checkbox. You can check this again later to update QRs.
 ![1](https://files.catbox.moe/sz50ay.png)
 
-### Adding your own presets:
+### Adding/Removing presets:
 
-You can remove/add a preset from the selection. Go to Quick Replies > Edit Quick Replies and select **qr-quick-import**. Once selected, click the three dots next to **Update Presets** to edit. You will see the **presetname : "URL"** key/value pairs for the QRs at the top. When adding, follow the formatting pattern.
+Eventually you may need to add a new QR preset for a new card, or remove a preset from the selection. You can do this by editing the Quick import preset.
+Go to Quick Replies > Edit Quick Replies and select **qr-quick-import**. Once selected, click the three dots next to Update Presets to edit. You'll see the preset names and their corresponding links at the beginning of the script. When adding a new selection, follow this format: **presetname: "URL"**
+Don't forget the comma if it's not the last entry.
 ![1](https://files.catbox.moe/zy5em5.png)
 ![1](https://files.catbox.moe/y97yo6.png)
 
@@ -315,8 +320,7 @@ I would recommend using QR Send all the time though.
 ***
 ##JAVASCRIPT
 Some of my cards use JS. You only need to do this once per card.
-Be sure to complete the browser extension part above.
-Thanks again to stscript anon for sharing how to enable JS with STScript. https://rentry.org/stscript#html5-minigames-and-hacking-stscript
+Be sure to complete the [browser extension](https://rentry.org/creamsan#browser-extension) part above.
 ***
 
 1. Go to the card description. Look for the `{{setvar::pass::PASSHERE}}` macro.
@@ -357,10 +361,10 @@ Go to Extensions > Image Generation. Follow my settings (especially the marked o
 Negative prompt:
 `worst quality, low quality, EasyNegative, bad anatomy, bad hands, cropped, missing fingers, missing toes, too many toes, too many fingers, missing arms, long neck, Humpbacked, deformed, disfigured, poorly drawn face, distorted face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands, out of focus, long body, monochrome, symbol, text, logo, door frame, window frame, mirror frame, multiple girls, revealing clothes`
 
+**Image gen done.**
+
 **Some things to note (Gacha Lolis):**
 - I have added some anti NSFW in my prompts, like "sfw" in the prefix or "revealing clothes" in the negative prompt. This is to prevent from being censored for "CSAM". Not that I know if it works.
-
-**Image gen done.**
 
 ***
 

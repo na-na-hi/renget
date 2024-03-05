@@ -99,6 +99,7 @@
 [LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution 
 [LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
+[SUPIR](https://github.com/Fanghua-Yu/SUPIR)|Image restoration and upscale method with semantic adjustment editing ability
 [DDColor](https://github.com/piddnad/ddcolor)|Vivid and natural colorization for black and white photos (and possibly video) 
 [lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
 [nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
