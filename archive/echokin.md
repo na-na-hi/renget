@@ -44,7 +44,7 @@ I relate more with the nonhuman label than alterhuman or anything similar
 
 -> **High** <-
 - **Nyanpire**. **Dominique De Sade**. **Fink**, OK:KO. **Juno**, Beastars. **Goat** (usually black goats). 
-- **Echo, EE** (eesona, closest thing i have to it atm). **Karma, EE**. **Gir**
+- **Echo**, EE (eesona, closest thing i have to it atm). **Karma**, EE. **Gir**
 - **Teemo**. **Uni**, Sparklecare Hospital. **Cheese**, Fosters. **Rui Nikaido**
 - **Claudia**, Interview with a Vampire. **Kitty,** Puss in Boots. **Oshawott. Mamizou**, Touhou. **Hollyleaf**
 - **Komasan**, Yokai Watch. **Azula**, Avatar. **Hu Tao**, GI. 

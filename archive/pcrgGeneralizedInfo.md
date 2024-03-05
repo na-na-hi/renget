@@ -46,7 +46,7 @@ Units listed here perform very well in Clan Battle.
 **Christmas Christina** - The unit herself is fairly awful, but the +3 TP from her bond stories have had an impact on comps in the past for her 6 Star version. It is possible that a UE2 will save her, but, the reason you roll is for the +3TP. She's a water unit.
 **Valentine's Shizuru** - Thanks to UE2, V.Shizuru has returned as a primary buffer for fire physical comps. She's a buffer/debuffer that hands out Physical buffs and TP to the team. 
 **Christmas Ayane** - Another UE2 winner, X.Ayane no longer kills herself on UB and has the stats to consistently pump out UBs, thanks to the S2+ upgrades she received. An excellent Water physical damage dealer that is all about critting for big damage.
-**Swimsuit Neneka**
+**Swimsuit Neneka** - #1 water mage. Fantastic unit overall that is only missing a m.def debuff. If she gets that with a UE, she will become unstoppable in perhaps not just her element, but overall. Except in Arena.
 
 ### Arena
 Units listed here perform very well in Arena game modes. While you can survive without some, these do make it significantly easier to maintain a high rank. **Arena game modes do not take elements into consideration in fights.**
@@ -67,7 +67,7 @@ While not re-roll targets, these units are always available to roll on any banne
 **Swimsuit Chika** - Fantastic Arena unit that provides a 1st action full TP bar to self, m.def and a barrier to all on 1st skill. Used to help survive against large magic damage quickly.  Needs Unique Equip to fully serve her purpose.
 **Christmas Jun** - Excellent Light tank that has a ton of physical team buffs and debuffs for the enemy, while able to restore herself to full HP. A great example of a modern tank with utility and sturdiness.
 **Noir Kuuka** - Excellent Dark Tank for mage teams. Provides lots of magic team buffs, shred enemy defenses while shielding and healing herself. Similar to Christmas Jun, but Dark Element and for mages.
-**Prescia** - 
+**Prescia** - Has a flying ability that allows her to dodge certain CC and targetting from damage by enemies with her "flying" SP skill. Provides great buffs for physical teams and has some TP restoration with decent damage. Good Dark unit.
 
 ##->Recommended Side Story Nodes <-
 These are some good units that are available in Side Stories. Node that all Weflares in Side Stories have 3 nodes, 5 attempts per day. Each attempt is 10 stamina and players are unable to refresh Side Story nodes. Anyone not on this list, is just a bond story stat stick for other versions.

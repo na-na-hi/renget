@@ -24,6 +24,10 @@ This is a compilation of archived mods, collected for your convenience. If links
 [Derpixon Mod Download](https://files.catbox.moe/zx0cr9.rar)
 ## Flippy: Flipped Out!
 [Flippy: Flipped Out! Dev Build Download](https://mega.nz/file/iI0UGJ7A#ljsovjiT-06zs9XC49j-Ze7rS2HoNtbDC7OsLFTA7ak)
+## Fanvict
+[Leaked Assets](https://files.catbox.moe/fa61a4.rar)
+[Updated Build](https://mega.nz/file/HFd2WZaJ#DI2C0Vn_t9Wcmvdy9VkuHb4g4XrG8aPymjGp7CRvgEA)
+[Unreleased Assets](https://drive.google.com/drive/folders/1KPiam0eiRCrA5z3edTYsF8c0wp3QHHiz?usp=drive_link)
 ## FNF x Maid Dragon
 [Dev Build](https://www.mediafire.com/file/v8kgp4u4u6n867f/maid.rar/file)
 ## FNF INFINITE (Vs. Anders)

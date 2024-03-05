@@ -123,16 +123,21 @@ If you like silly and ecchi adventures, you may find them fun.
 - - -
 ##### Which Model Should You Choose for RP?
 !!! info
-	**GPT4 32K (Any version) / Claude (2.1 > 2 > 1.3(dumber)) > GPT4-Turbo > Claude 1.2 / GPT4 8K > Claude instant / GPT3.5-Turbo > Gemini 1.0**
+	**Claude 3 > GPT4 32K (Any version) / Claude (2.1 > 2 > 1.3(dumber)) > GPT4-Turbo > Claude 1.2 / GPT4 8K > Claude instant / GPT3.5-Turbo > Gemini 1.0**
 
-**%orange%I recommend using GPT 32K instead of 4urbo. 32k is better for RP. 4urbo is great for tasks but generates too much 'water'.%%**
+**%orange%Claude 3 Opus is your best choice for RP. Choose GPT 32K over 4urbo. %%**
 
-**Gregory Kamradt, ‘Pressure testing Claude-2.1 200K via Needle-in-a-Haystack’, November 2023:**\*
+![](https://files.catbox.moe/5ufu26.png)
 
-![](https://files.catbox.moe/omznk1.png)
-**(I cannot verify the veracity and accuracy of these evaluations.)*
+![](https://habrastorage.org/webt/gs/ic/xz/gsicxzvls9zmk-ubznfuchplyrm.png)
 
-**Claude:** (Engaging, but dumb. Writing is fun and creative.)
+![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F4zrzovbb%2Fwebsite%2Fd2aa12b60e9c57e7057924bd8878d754c7b3d8e7-2200x1088.png&w=3840&q=75)
+*(Source: [Claude 3 Family](https://www.anthropic.com/news/claude-3-family))*
+
+**Claude 3:**
+New Claude family is both smart and has creative and fun writing.
+
+**Claude (2.1 and lower):** (Engaging, but dumb. Writing is fun and creative.)
 Claude is a stupid but perverted bustard. It likes meta/OOC comments and knocks on doors.
 • Claude 1.3/1.1/2/2.1 are somilar. Try and see what you like the most.
 • Claude 1.2 is crazy but has a short context.

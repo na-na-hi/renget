@@ -19,7 +19,7 @@ Ships between any character x an OC of mine, ask
 Writing for my OC, yes
 Drawing your OC with mine, ask
 Touch (like in rp, saying ur hugging me), most of the time, yes* ![-](https://files.catbox.moe/pvzxkb.gif) <-
--> *If, for some reason, you are compelled to tell or ask me something anonymously, you sure can! Profess your deepest darkest secrets, confess your undying admiration or hatred for me, and ask me any silly questions you can think of here: https://curiouscat.live/echmoofy* <-
+-> *If, for some reason, you are compelled to tell or ask me something anonymously, you sure can! Profess your deepest darkest secrets, confess your undying admiration or hatred for me, and ask me any silly questions you can think of here: https://retrospring.net/@echofluffy* <-
 -> ![-](https://files.catbox.moe/umk2fe.gif) **I'm so grateful for my besties, friends, and acquaintances, anyone who's willing to chat with me! I'd love to build our friendship further, to anyone who's reading and not named, but I do adore Landen, Batt, Yip, Jcat, Cyrill and Max tons. I appreciate them every chance I can talk to them, and I'll honor our relations to be the strongest they can be.** ![-](https://files.catbox.moe/z9dxzp.gif) <-
 -> ![-](https://files.catbox.moe/9s8cb7.png) <-
 -> {[**navigation**](https://rentry.co/echofluffy)} ♌ {[**next!**](https://rentry.co/sparklypup)} <-

@@ -44,6 +44,22 @@ There are all sorts of different systems, tools and play aids available. Da Cura
  
 ###How do I DM?
 This is a primer on the different skills you'll need to DM. https://thealexandrian.net/gamemastery-101
+
+###Any other advice?
+- "There's ways to play modules and there's rules for making a more coherent improvised story.
+Perilous Intersections is really good for putting structure on your improv games, but just remember that you have control and that you can use other tools like Hex/Dungeon creation rules to supplement it. It has rules for danger levels, mystery solving, scenario length, etc.
+There's even a 'clock' so that if you can't get ahead/solve the adventure things will begin to reveal themselves to you, but in the worst way possible. So you never really get stuck.
+As for using modules, there's Mythic 2nd edition and GM Yourself, but they put rules for something that is really simple. Just be the GM and use the PCs as NPCs. Use an oracle to determine their actions/reactions to your GMing. That way you can use all the modules/published adventures very easily and don't even need rules for a one man party or things like that. But I'm a forever GM, so it feels natural to me. If you're mostly a player, idk if it would be as easy.
+Oh, and if Perilous Intersections is too complex for you at first, use The 9Qs. It's very structured but it's the most easy to follow solo tool. You just read and use it as you read it. No need to learn it beforehand. There's also a lot of written actual plays for it (for Perilous Intersections too) if you need examples."
+
+- "Some ttrpgs have their own structure, like old school D&D with dungeon turns/random encounters and the like.
+If you want more structure, there's a lot of them out there for solo and for regular ttrpgs.
+Here's an example. Look at structure p 56+. (from The Calypso Compendium)"
+
+- "As for playing as the GM, it can be real easy. Just roll to see if a PC/the party would do something. Can be a Wisdom roll, and Idea roll, whatever works with your game system. Give logical odds. You know there's a trap in the passage. Would the party look for traps? They are fleeing from the Ogre, so they can't. You don't roll , they just don't have the time to look. Use the rpg rules to determine if they trigger the trap.
+Or, you know there is a trap in the right corridor, but the left is safe. They don't have any clue. Roll luck or something similar to see which corridor they go through.
+A way to create random events is also good. Let's say they happen on a match of the dice when you roll a d100 for idea and luck. In this case it means the PCs, not the world, acts in a weird/unexpected way (but still logical). So maybe the party yells to attract monsters so they can get keys/maps from their dead bodies or something. It depends on the type of PC the party is composed of and if it makes sense. Or if a lone PC in the group do what he wants despite the party's wishes. Fuck that thief for attracting the goblins just because he didn't want to explore and wanted an easy map. He's not the one who had to fight a horde of ugly green garden gnomes. They didn't even have a map or any keys!"
+
  ***
 #Links
 ### Free RPG Books
@@ -289,6 +305,7 @@ https://github.com/AnonOfDice/DiceRoller/
 https://www.kickstarter.com/projects/category/solo-sci-fi-sidekick
 Tricube Tales: Solo Rules & Deck
 Plot Unfolding Machine (PUM) by JeansenVaars
+https://exposit.github.io/katarpgs/lite/calypsocompendium/
 
 ###Android App
 Adventuresmith

@@ -86,7 +86,6 @@ File | Version
 !!! note Updated on **Mar-4-24**
 	Quick QR preset importer implemented. Huge thanks to stscript anon for providing the code. https://rentry.org/stscript#making-stscript-cards-easy-to-set-up. **Requires JS setup first.**
 	Note that you will still need to update the Quick Import preset itself by manually importing it. It is not included in the Quick Import.
-	I forgot to do this, but JS codes are now wrapped in IIFE. While there was no problem without it, this is still safer.
 	If you don't want the UI stuff, just add the regex script. Then go here: [Console copy paste](https://rentry.org/creamsan#console-copy-paste).
 ***
 

@@ -94,6 +94,10 @@ At installation type, choose Custom Install. At the drive selection step it's im
 The reason being that the installer will create a 500MB recovery partition after the Windows partition, even if there's extra space left after it, leaving you with a difficult to move recovery partition in the middle of your drive. Letting the Windows partition use the entire drive first will ensure the recovery partition is placed at the very end of the drive, saving headaches on future resizing.
 
 ![](https://images2.imgbox.com/81/36/wKneI10p_o.png)
+
+Don't let this happen to you.
+
+![](https://images2.imgbox.com/c3/b2/GmmMQCf6_o.png)
  
 Click next and the installer will unpack and install Windows to the drive.
 After a restart, it will begin to detect hardware and install generic drivers.
@@ -118,7 +122,10 @@ If you need the MS Store, simply type "wsreset -i" into CMD and wait for a minut
 
 Without the MS Store and the default apps you may run into situations such as when starting a game you'll be prompted with **"You’ll need a new app to open this 'ms-gaming overlay'**. This is because the game is trying to start up the Xbox Game Bar overlay on startup. You can just ignore this and it will not affect anything, but if you want to get rid of the notice just install the MS Store as above, then search for the Xbox Game Bar in the store and install it.
 
- 
+If you're comfortable with CLI, you can also install it through WinGet:
+https://github.com/microsoft/winget-cli
+
+
 
 #####Step 5 (Optional): Installing Office
 Office can be downloaded directly from MS servers with zero issues:
@@ -213,7 +220,7 @@ HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\User Shell 
 
 From here you can just copy paste "D:\" or wherever your secondary partition is and paste it in the fields for the folders you want to relocate.
 
-It's also possible to relocate the AppData folder to your secondary partition here if you're wary of storing it on C:\.
+It's also possible to relocate the AppData\Roaming and AppData\Local folders to your secondary partition here if you're wary of storing it on C:\.
 
 ![](https://images2.imgbox.com/f4/38/rhvztrLb_o.png)
 
@@ -226,12 +233,14 @@ Hate losing all your browser shortcuts, tabs, bookmarks, settings, etc after a r
 Just use a portable browser and install it to your secondary partition/drive.
 The browser will be entirely self contained and can be updated in its own folder, so all your settings, tabs, bookmarks, etc will be safe from reinstalls.
 https://portableapps.com/apps/internet/firefox_portable
-https://portableapps.com/apps/internet/google_chrome_portable
+https://portapps.io/app/ungoogled-chromium-portable
+https://portapps.io/app/brave-portable
 https://vivaldi.com/download (installer allows installing in portable mode)
 Other browsers:
 https://portableapps.com/apps/internet
 Other useful portable apps:
 https://portableapps.com/apps
+https://portapps.io/app/qbittorrent-portable
  
 
 
@@ -264,7 +273,7 @@ This will ensure you can properly rename .txt files to .reg files.
 Find the highlighted section with the icon you want to remove, then copy and paste the section of white text under it and paste it into Notepad and save it as a text file, rename it to .reg, then run it. Repeat with additional icons you want to remove, then restart Explorer.
 
 You will end up with a simplified Explorer listing of just C:\ D:\ E:\ etc ala Win9x all those decades ago.
-This pairs well with Step 6 if you moved all your user folders to D:\ or another partition.
+This pairs well with moving all your user folders to D:\ or another partition.
 
 You can also use an all-in-one remover like this one:
 https://www.majorgeeks.com/content/page/how_to_add_or_remove_user_folder_in_file_explorer.html

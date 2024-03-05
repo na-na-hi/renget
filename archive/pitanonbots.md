@@ -42,13 +42,19 @@ Mimi | (04/02/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www
 Aya | (21/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Aya) | ![](https://files.catbox.moe/ok3qbv.png)
 
 ### Re:Zero Adventure Cards
-For the best experience use all the bots in a group chat and turn off auto replies for the stat bots. Keep the groupchat locked so the menu doesn't go away, and click the buttons to prompt each bot when needed
-| Bot's name | Updated | CHUB Link | Card | XML version |
+For the best experience use all the bots in a group chat and turn off auto replies for the stat bots. Keep the groupchat locked so the menu doesn't go away, and click the trigger button to prompt each bot when needed.
+
+The preset requires "Prefer Char. Prompt" and "Prefer Char. Jailbreak" to be enabled.
+| Model | Updated | Chat Completion Preset
+|---|---|---|
+Claude Opus | (05/03/2024) | https://files.catbox.moe/oihw9z.json
+
+| Bot's name | Updated | CHUB Link | Card 
 |---|---|---|---|---|
-Narrator | (11/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rezero-adventure) | ![](https://files.catbox.moe/dhidbz.png)
-User's Stat Tracker | (11/08/2023) [XML] | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rezero-stat-tracker) | https://files.catbox.moe/0p81iv.png | https://files.catbox.moe/tkwbla.png
-Party Tracker | (11/08/2023) [XML] | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/party-tracker) | https://files.catbox.moe/0dzp0p.png  | https://files.catbox.moe/h2kijg.png
-Threat Tracker | (11/08/2023) [XML] | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/threat-tracker) | https://files.catbox.moe/8qgobm.png | https://files.catbox.moe/vjifmi.png
+Narrator | (05/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rezero-adventure) | ![](https://files.catbox.moe/llhpb0.png)
+User's Stat Tracker | (11/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rezero-stat-tracker) | https://files.catbox.moe/pce0cc.png
+Party Tracker | (05/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/party-tracker) | https://files.catbox.moe/06299f.png
+Threat Tracker | (05/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/threat-tracker) | https://files.catbox.moe/yb0jsp.png
 
 ###Non OC
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
@@ -93,7 +99,7 @@ Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.pn
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 05/03/2024 | https://files.catbox.moe/jrwoq5.json
+Claude | 05/03/2024 | https://files.catbox.moe/thisxd.json
 GPT-4 | 01/03/2024 | https://files.catbox.moe/mro7at.json 
 
 ###Utility Prompts

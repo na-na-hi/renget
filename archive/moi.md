@@ -12,6 +12,7 @@ Check ![]() the ![]() ‘Key’ ![]() BYi　♪
 ![](https://i.postimg.cc/bJNJn5Ht/Untitled783-20230307010509-1.png)
 Key ： **Bold** ー Doubles ![]() DNi､
 *Italicized* ー Doubles ![]() iWC.
-![](https://i.postimg.cc/Y98Hq2Q5/ezgif-1-1a6fbba562.png)
-![](https://i.postimg.cc/YSdxRJ76/qsyk4r.png)
+![](https://i.postimg.cc/Y98Hq2Q5/ezgif-1-1a6fbba562.png)<-
+◜  **00**  ⦂  ...  ![](https://i.postimg.cc/PqpQCdQy/70-F9-A590-EDA7-4214-A963-8117-D2415-F67.gif)  ...  ⦂  
+->![](https://i.postimg.cc/YSdxRJ76/qsyk4r.png)
 ![](https://i.postimg.cc/VkMqMxSZ/rymhuq.png)<-

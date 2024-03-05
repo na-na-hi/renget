@@ -1,7 +1,4 @@
--> ![](https://cdn.discordapp.com/attachments/849738241833828352/1143384987530428508/IMG_6021.gif) <-
-
-
--> ![](https://cdn.discordapp.com/attachments/849738241833828352/1143384778133999626/New_Project_109.gif) <-
+-> ![](https://i.ibb.co/vhQ3W7s/IMG-4076.gif) <-
 -> *"thanks for noticin' me"* <-
 -> ![](https://64.media.tumblr.com/8bfd1ef50233ff80861afd417b6b95fa/e530cedacf80aa8e-f9/s75x75_c1/f49c8d92952fa8b992498e83f17d3f3377d34e63.gif) <-
 -> *"I just saw Hayley's Comet, she waved* <-
@@ -16,5 +13,4 @@
 -> *Sometimes goodbye is a second chance"* <-
 -> ![](https://64.media.tumblr.com/d0ac1eacbd6631549d0a0e38024ff7aa/6208ff062a03d309-90/s75x75_c1/787d7651bd0964164d5fb9af89f1eab94700dd85.gif) <-
 ***
--> *click the image if you want to see my rentry hoard.* <-
--> [![](https://cdn.discordapp.com/attachments/849738241833828352/1143384987148755124/IMG_6022.gif)](https://rentry.co/toycollection) <-
+-> [%gray%!~*Click here to visit the Hundred Acre Wood.*~!%%](https://rentry.co/ToyCollection) <-

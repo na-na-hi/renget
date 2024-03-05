@@ -5,6 +5,9 @@
     Disabled "Scuffed Tense" by default on the preset, fucks the prose up.
     **Uptime not guaranteed.**
 
+> why do I keep getting backend/general errors?
+sometimes the account is banned and it will not work until I manually fix it. it is worse on workdays
+
 ## current proxy url
 ```
 https://translated-incident-tournament-par.trycloudflare.com/v1
@@ -14,10 +17,6 @@ basilisk
 
 ##### [instructions](https://translated-incident-tournament-par.trycloudflare.com)
 ##### [ST preset](https://translated-incident-tournament-par.trycloudflare.com/preset.json)
-
-
-> why do I keep getting backend/general errors?
-sometimes the account is banned and it will not work until I manually fix it. it is worse on workdays
 
 ##### contact
 - hask1911@proton.me
