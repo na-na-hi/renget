@@ -231,7 +231,7 @@
 
 # 📑 ➜ Utilities
 
-### 🐐 [Online-Fix](https://online-fix.me/)
+### 🐐 [Online-Fix](https://online-fix.me/) • Spanish UI
 - Grants online solutions to play multiplayer in specific games with others.
 - [URL Safety Results](https://www.urlvoid.com/scan/online-fix.me/)
 

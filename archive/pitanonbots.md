@@ -45,12 +45,12 @@ Aya | (21/6/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.c
 For the best experience use all the bots in a group chat and turn off auto replies for the stat bots. Keep the groupchat locked so the menu doesn't go away, and click the trigger button to prompt each bot when needed.
 
 The preset requires "Prefer Char. Prompt" and "Prefer Char. Jailbreak" to be enabled.
-| Model | Updated | Chat Completion Preset
+| Model | Updated | Chat Completion Preset|
 |---|---|---|
 Claude Opus | (05/03/2024) | https://files.catbox.moe/oihw9z.json
 
-| Bot's name | Updated | CHUB Link | Card 
-|---|---|---|---|---|
+| Bot's name | Updated | CHUB Link | Card |
+|---|---|---|---|
 Narrator | (05/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rezero-adventure) | ![](https://files.catbox.moe/llhpb0.png)
 User's Stat Tracker | (11/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rezero-stat-tracker) | https://files.catbox.moe/pce0cc.png
 Party Tracker | (05/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/party-tracker) | https://files.catbox.moe/06299f.png
@@ -99,7 +99,7 @@ Osaka Phoenix cards | (20/01/2023) | [![Chub](https://files.catbox.moe/do7hvv.pn
 ### Prompt Presets
 | Model | Updated | Chat Completion Preset
 |---|---|---|
-Claude | 05/03/2024 | https://files.catbox.moe/4ow7mw.json
+Claude | 06/03/2024 | https://files.catbox.moe/ilxndl.json
 GPT-4 | 01/03/2024 | https://files.catbox.moe/mro7at.json 
 
 ###Utility Prompts

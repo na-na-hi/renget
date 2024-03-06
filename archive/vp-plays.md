@@ -31,7 +31,20 @@ If you want to access the archive of pretty much any original content made relat
 https://mega.nz/folder/YR9mUALL#z6LqTPdLLSfCvC_XylDKXg
 
 See anything missing, or want to add something to it? Use this link, it's a one way file uploading link that doesn't require an account.
-https://mega.nz/filerequest/QiKdiJPXAXw
+https://mega.nz/filerequest/qtNsS-vtn6Q
+!!! danger Due to exceptionally shitty mobile app UI design, you know, the type that lets you irreversably permanently brick important links because you accidentally selected an option that doesn't have a confirmation popup (specifically, the "create link" option), the existing file request is permanently gone.
+    Just to make sure people realize this and use the new, not as fucked link, I'll make this absolutely clear with all caps
+
+    **__DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q
+    DO NOT USE THE FILE UPLOAD LINK IN THE THREADS, IT IS BROKEN. USE THE NEW ONE INSTEAD: https://mega.nz/filerequest/qtNsS-vtn6Q__**
 
 [TOC2]
 

@@ -2,6 +2,9 @@
 
 - Joe Randel style 
 https://files.catbox.moe/l0qd64.safetensors
+-  Tinker Bell, Holli Would, Crysta, Jasmine, Jean Grey, Charmcaster, Akima, Harley Quinn (Arkham)
+https://mega.nz/folder/9vJBXI4J#M-iYaLjLbpul8ufRNWFnfQ
+
 - Ashley Graves (The Coffin of Andy and Leyley)
 https://pixeldrain.com/u/NU5U86J1 v2
 https://pixeldrain.com/u/TYqFbTRu v3

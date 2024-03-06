@@ -137,8 +137,8 @@
 - Play the majority of games while continually being updated with new features.
 - [URL Safety Results](https://www.urlvoid.com/scan/cemu.info/)
 
-### 🔗 [Citra](https://archive.org/details/citra-latest-builds-4th-march-2024) • 3DS / [Note](https://a.imagem.app/oDmwRN.webp)
-- **4th March 2024, last build**. Favorite games may be played using this open-source emulator.
+### 🔗 [Citra](https://archive.org/details/citra-latest-builds-4th-march-2024) • 3DS / [Note](https://a.imagem.app/oDf7Lm.webp)
+- **4th March 2024, last build**. Games can be played using this open-source emulator.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
 
 ### 🐐 [Dolphin](https://dolphin-emu.org/) • GameCube + Wii
@@ -185,8 +185,8 @@
 - It has several features, such as a GUI, netplay, and a automated updater.
 - [URL Safety Results](https://www.urlvoid.com/scan/simple64.github.io/)
 
-### 🔗 [yuzu](https://archive.org/details/yuzu-latest-builds-4th-march-2024) • Switch / [Note](https://a.imagem.app/oDmwRN.webp)
-- **4th March 2024, last build**. An experimental open-source emulator.
+### 🔗 [yuzu](https://archive.org/details/yuzu-latest-builds-4th-march-2024) • Switch / [Note](https://a.imagem.app/oDf7Lm.webp)
+- **4th March 2024, last build**. Games can be played using this open-source emulator.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
 
 &nbsp;

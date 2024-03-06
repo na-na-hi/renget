@@ -56,6 +56,7 @@ skylarkuamva - https://www.twitch.tv/skylarkuamva/clip/ExquisiteBlueConsoleCorgi
 Ikine Tomeru - https://www.youtube.com/watch?v=AcLWdEbPQ5k&t=80s
 Nyanners - https://files.catbox.moe/2rj5n8.mp4
 SuzuTails - https://x.com/Vtuberfartclips/status/1724312703127486911?s=20
+HannahHyrule - https://www.twitch.tv/hannahhyrule/clip/JazzyPiliablePanGivePLZ-nZHj5akueJTP3cFw?filter=clips&range=all&sort=time
 
 **Choco**
 Mori Calliope - https://youtu.be/nzukVcF4Tfw

@@ -19,9 +19,9 @@ Note: Epoch 13 and up contain the Furception VAE by default - just set VAE to `n
 
 * E21 soon
 * E20 soon
-* E19 soon
-* E18 soon
-* E17 in like 24 hours
+* E19 https://pixeldrain.com/u/vTkjukxS
+* E18 https://pixeldrain.com/u/XwsMUSNz
+* E17 https://pixeldrain.com/u/PWpi54HC
 * E16 https://pixeldrain.com/u/XhSpjzio
 * E15 https://pixeldrain.com/u/1YL6NBUn
 * E14 https://pixeldrain.com/u/s6vPdda6

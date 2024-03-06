@@ -9,7 +9,8 @@ Answers should be provided in green text (>) below the question. Please preappen
 Outlaw?
 >Character 1: We should punish them according to the law.
 >Character 2: Death
->>Character 3: :skull: 
+>>Character 3: "Insert a very long, compelling argument against the comment."
+>>>Character 2: Understandable have a nice day
 
 **Character name** (When asking a character a question, do something like this and write the new question on the bottom of the last asked question.)
 
@@ -55,6 +56,7 @@ Q1: Is Nida still committing crimes?
 
 ###Makky
 Q1: It is well known that you love to eat food, but do you have any favorite foods?  Or is the more the merrier?
+A: Don't scold me for my gluttony, I can't help it! I used to be ripped, but ever since I acquired a mysterious case of head trauma, I've had the insatiable urge to eat. Spicy food is my favorite, although anything's good, really.
 
 ###Tybo
 Q1: Do you accept pets?  If so, from who?  

@@ -1,7 +1,7 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/tNZQhtT.jpg)
-Nostalgia Edition
+![suggested OP image](https://i.imgur.com/I2uYlvn.png)
+mfw TTMOOT Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
 Last thread: >>468190562
  
@@ -33,7 +33,7 @@ Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.mirah
 Science and Laboratory Experiments Friday is over, enjoy the experimental prompts! Last: >>467690367
  
 ▶News
-\>(03/05) Saga gets Claude 3
+\>(03/05) Saga gets Claude 3, coreweave got dowies, it's ogre for NAIshills 
 (03/04) NAI makes jap imgen, goes back to Japan next month https://twitter.com/novelaiofficial
 (03/03) kek https://www.nytimes.com/2024/03/01/technology/elon-musk-openai-sam-altman-lawsuit.html
 (02/27) Mistral AI announce new proprietary models, receive $16M Microsoft investment and form release partnership, are adamant nothing has changed: https://archive.is/3ypKx ; https://i.imgur.com/x1BqPwl.png

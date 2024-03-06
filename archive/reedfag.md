@@ -81,15 +81,14 @@ Image | Name | Description | Link
 ###Experimental
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
-![Selfcard](https://files.catbox.moe/eoy2bz.png) | Reedfag (Selfcard) | Pretty much my selfcard with my living conditions and attitude and stuff. A fun little project. Also, using it with the Snoot lorebook *usually* confuses the model into thinking that I am Reed. | https://files.catbox.moe/eoy2bz.png
-![Don't ask](https://files.catbox.moe/t0p4bj.png) | Reed (Maid version) | 20$ is 20$. Don't ask. | https://files.catbox.moe/t0p4bj.png
-![NO VACANCY](https://files.catbox.moe/rdifvw.png) | 'NO VACANCY' Motel | It's the middle of the night, your car runs out of gas and the motel you've stopped at is fully occupied by anthros. Walk around, knock on doors, explore. The card will always generate someone completely random to keep you company. | https://files.catbox.moe/rdifvw.png
+![Selfcard](https://files.catbox.moe/updhf9.png) | Reedfag (Selfcard) | Pretty much my selfcard with my living conditions and attitude and stuff. A fun little project. Also, using it with the Snoot lorebook *usually* confuses the model into thinking that I am Reed. | https://files.catbox.moe/updhf9.png
 ![Hannah Montana OC](https://files.catbox.moe/kw0a45.png) | Login Screen | I don't fucking know anymore. It's a login screen? You input the username and password and see how AI interprets it into an OC? Like, I've tried out xXx_gh0stplaya_xXx and it gave me the PC of an edgy cod kid? These experimental cards always miraculously work and I don't know how to feel about sharing them. You're here for the snoot cards anyway. | https://files.catbox.moe/kw0a45.png
 ![Disco Elysium Skills](https://files.catbox.moe/j5g4yj.png) | Disco Elysium Skills | Mostly an assistant for group chats with a customizable build. Pick your skills and see them give you advice, suggestions and comments on your conversation. | https://files.catbox.moe/j5g4yj.png
 
 
 ***
 ##Lorebooks
+Thanks to the updated ST, the majority of the cards already have lorebooks embedded into them.
 Remember to "Right click > Save as..."
 ***
 Name | Description | Link

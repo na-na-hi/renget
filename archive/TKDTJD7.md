@@ -535,3 +535,100 @@
     >Occupied Palestine: Al-Mayadeen correspondent in #Gaza: 5 injured people, including a serious condition, were transferred to Kamal Adwan Hospital after the occupation bombed a house north of Beit Lahia in the northern #Gaza Strip.
     >https://t.me/me_observer_TG/161554  3/4/24       
     ***
+    >FAO Regional Director to Al Jazeera: The entire population of Gaza is classified as being in emergency mode due to the low level of food security.
+    >https://t.me/QudsNen/97911  3/5/24
+    >
+    >Abdul Hadi to Al-Mayadeen: Our approach is based on two determinants: the first is to stop aggression and massacres, and the second is for the ideas presented to meet the conditions of resistance.
+    >https://t.me/me_observer_TG/161828  3/5/24  
+    ***
+    >Rockets landed directly in Kiryat Shmona
+    >https://t.me/me_observer_TG/161832  3/5/24  
+    ***
+    >Urgent: Reports of a direct hit on a building in Kiryat Shmona in the last bombardment
+    >https://t.me/me_observer_TG/161836  3/5/24  
+    ***
+    >Yemen: Minister of Defense in #Sanaa: We warn the Americans and the British that what is coming will be more painful and exceed all expectations in the naval confrontations.  
+    >https://t.me/me_observer_TG/161841  3/5/24  
+    ***
+    >BREAKING:
+    >
+    >US Journalist Tucker Carlson:
+    >
+    >"The fate of the Roman Empire awaits the USA"
+    >https://t.me/megatron_ron/2147  3/5/24
+    ***
+    >Someone should give this Super Granny a medal
+    >https://t.me/megatron_ron/2148  3/5/24  
+    >https://files.catbox.moe/pnb3dc.mp4  3/5/24  
+    ***
+    >Preliminary reports of a resistance operation at the Yitzhar Junction in the northern West Bank.
+    >https://t.me/FotrosResistance/5756  3/5/24  
+    ***
+    >Urgent | Cairo News Channel: A high-ranking #Egyptian source:
+    >
+    >- The Cairo talks continue with the aim of reaching a truce in the #Gaza Strip, and there is no truth to the fact that an agreement has not been reached so far.
+    >
+    >There are difficulties facing the talks, but they are still continuing.
+    >https://t.me/s/me_observer_TG  3/5/24
+    ***
+    >BREAKING:
+    >The biggest warmonger in the world, US Deputy Secretary of State Victoria Nuland announces intention to resign in the coming weeks  
+    >https://t.me/megatron_ron/2149  3/5/24
+    ***
+    >Lebanon: Islamic Resistance: Targeting a gathering of enemy soldiers on Al-Tayhat Hill with missile weapons, achieving a direct hit
+    >https://t.me/me_observer_TG/161897  3/5/24  
+    ***
+    >BREAKING:
+    > 🇺🇲 A cyber attack is happening right now on all American social platforms
+    >https://t.me/megatron_ron/2151  3/5/24  
+    ***
+    >Urgent | NBC on US officials: National Security Council officials watered down parts of Harris' speech on #Gaza.
+    >- NBC, according to US officials: Harris's original draft speech was harsher towards #Israel regarding the humanitarian situation in #Gaza.  
+    >https://t.me/me_observer_TG/162010  3/5/24  
+    ***
+    >Urgent | Qatari Prime Minister and Foreign Minister: The United States is an ally of Qatar and our relationship includes many areas.
+    ***
+    >- The Qatari Prime Minister and Foreign Minister: The current situation is unprecedented and chaos is spreading everywhere in #Gaza, the Red Sea and #Syria.
+    >
+    >-The Qatari Prime Minister and Foreign Minister: We would like all the hostages in the #Gaza Strip to be liberated and aid to be delivered to civilians.
+    >https://t.me/me_observer_TG/162011  3/5/24  
+    ***
+    >Occupied Palestine: Mujahideen Brigades: We sniped a Zionist enemy soldier in the south of the Al-Zaytoun neighborhood in #Gaza City.
+    >https://t.me/me_observer_TG/162009  3/5/24  
+    ***
+    >Urgent || Global Health Organization :
+    >
+    >We estimate that 8,000 patients need to be referred outside #Gaza, 6,000 of whom are war-related and 2,000 of which are other diseases.
+    >
+    >Most of the missions that were scheduled to go to northern #Gaza in January were rejected and only 3 of them were approved.
+    >
+    >We express our disappointment that only a small number of patients have been able to exit the besieged sector to receive treatment abroad.  
+    >https://t.me/me_observer_TG/162182  3/5/24  
+    ***
+    >Lebanon: The Islamic Resistance in #Lebanon: We bombed the Kfar Blum colony with dozens of Katyusha rockets
+    >https://t.me/me_observer_TG/162195  3/5/24  
+    ***
+    >Senior Hamas official, Osama Hamdan in response to updates on ceasefire negotiation progress, state:
+    >- "In the past two days, we have presented our vision and affirmed our conditions for a ceasefire."
+    >
+    >- "We will not allow the negotiation process to remain open-ended while the aggression against our people continues."
+    >
+    >- "Any solution that does not halt the aggression and lead to the lifting of the blockade is unacceptable, and resistance will remain faithful to sacrifices and the accumulation of achievements."  
+    >https://t.me/QudsNen/97948  3/5/24 
+    ***
+    >United States of America: The Pentagon: Washington does not intend to send American forces to #Gaza to enhance aid distribution efforts.  
+    >https://t.me/me_observer_TG/162252  3/5/24  
+    ***
+    >BREAKING: Islamic Resistance in Iraq announces:
+    >
+    >The targeting of the power station at Haifa Airport with drones, this evening.
+    >https://t.me/FotrosResistance/5760  3/5/24  
+    >
+    >The Yemeni armed forces carried out a qualitative military operation in which they targeted 2 American warship destroyers in the Red Sea.
+    >
+    >The operation was carried out with a number of anti-ship missiles and drones.
+    >https://t.me/FotrosResistance/5759  3/5/24  
+    ***
+    >Breaking | Full Internet outage reported in the Central Governorate of Gaza Strip
+    >https://t.me/QudsNen/97958  3/5/24     
+    ***

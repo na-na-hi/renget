@@ -31,6 +31,7 @@ To do that, run this command on termux by copy and pasting it there.
 
 `apt update`
 `apt upgrade`
+`pkg install esbuild`
 
 If it prompts you that an update is available, simply write `y` and wait for it to finish, 
 

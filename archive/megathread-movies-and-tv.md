@@ -89,21 +89,17 @@
 
 # 📑 ➜ Streaming
 
-### ▶️ [123Chill](https://123chill.site/)
-- The best place to watch a superb assortment of movies and television shows with the most recent material continuously updated.
-- [URL Safety Results](https://www.urlvoid.com/scan/123chill.site/)
-
 ### 🐐 [Ask4Movie](https://ask4movie.li/)
 - Perfect platform to enjoy full movies and TV series online. With multilingual subtitles available.
 - [URL Safety Results](https://www.urlvoid.com/scan/ask4movie.li/)
 
-### 🐐 [Binged](https://binged.in/) / [2](https://binged.live/)
+### 🐐 [Binged](https://binged.in/) / [2](https://binged.live/) / [3](https://binge.lol/)
 - Indulge in a myriad of films and television series without any charges with all the newest releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/binged.in/)
 
-### 🐐 [Braflix](https://www.braflix.app/)
+### 🐐 [Braflix](https://www.braflix.video/)
 - Constantly updated movie database is the perfect haven for all you passionate film buffs out there.
-- [URL Safety Results](https://www.urlvoid.com/scan/braflix.app/)
+- [URL Safety Results](https://www.urlvoid.com/scan/braflix.video/)
 
 ### ▶️ [Cataz](https://cataz.to/)
 - One of the greatest websites for watching your favorite movies and TV shows providing a world-class viewing experience.

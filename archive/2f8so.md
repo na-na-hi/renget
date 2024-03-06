@@ -152,7 +152,7 @@ END PART 1
 
 =============================================
 
-[>I want to pay the troll toll to get into that Izuchi's hole...](https://desu-usergeneratedcontent.xyz/trash/image/1662/86/1662868285333.jpg)
+>[>I want to pay the troll toll to get into that Izuchi's hole...](https://desu-usergeneratedcontent.xyz/trash/image/1662/86/1662868285333.jpg)
 
 %darkgreen%\>Where is he?
 \>The wheels of your cart trundle and squeak as you pull it along over the uneven ground.
