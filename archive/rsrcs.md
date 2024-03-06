@@ -10,7 +10,6 @@
 
 -> contact %moccasin% **yatoras** %% on discord <- 
 -> for removal or credits <-
--> follow my new [pinterest](https://pin.it/7gx1F7Vw9) following ppl back<-
 -> ![](https://i.postimg.cc/25gZVh16/6217556-B-E06-B-453-F-84-B2-79-B9-EAF556-EF.gif) <-
 ***
 ***

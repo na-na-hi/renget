@@ -2,11 +2,8 @@
 !!! note proxy
     https://assistant.aitism.net/assistant/miniproxy/openai (gpt-4, furbo) 
     https://assistant.aitism.net/assistant/miniproxy/azure (gpt-4, gpt-3.5 no quota limit)
-    https://assistant.aitism.net/assistant/miniproxy/aws (aws claude [2.0, 2.1, sonnet] no quota limit)
-	https://assistant.aitism.net/assistant/miniproxy/aws/claude-3 (forced sonnet model (RECOMMENDED))
-    https://assistant.aitism.net/assistant/miniproxy/anthropic-old (older /complete api claude. use this for sillytavern for now)
-	https://assistant.aitism.net/assistant/miniproxy/anthropic (new anthropic api)
-    https://assistant.aitism.net/assistant/miniproxy/claude-3 (forced sonnet model (SLOW. USE AWS)
+    https://assistant.aitism.net/assistant/miniproxy/aws (aws claude no quota limit add /sonnet if your frontend doesn't support the new model list)
+	https://assistant.aitism.net/assistant/miniproxy/anthropic (claude api. add /sonnet or /opus if your frontend doesn't support the new model list)
     https://assistant.aitism.net/assistant/miniproxy/gemini (gemini-pro no quota limit)
     enable streaming if you receive timeout errors. Cloudflare has a 100 second limit.
 

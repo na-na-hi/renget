@@ -29,8 +29,6 @@ My newer prompts are designed to be shorter to let Claude cook.
 
 This document is subject to change / expand as I experiment with prompts.
 
-![arrow](https://64.media.tumblr.com/d8f3479cd531c54753be621c8df00e4c/tumblr_inline_mpedf95ujK1qz4rgp.gif) %#f590d5%**Note:**%% When copy/pasting the prefill, make sure there is **one space** after the colon.
-
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 
 ## %#f590d5%Claude AO3 Prompts%%

@@ -9,7 +9,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
 **Level:** 13 | **Experience to Next Level:** 85/130
 **Worn Item:** *N/A* | **Clothing:** Red Prayer Beads
-**Pokécoin:** 75₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 25₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -19,14 +19,14 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 ->*350/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
-Stat | Points: 3 (+1) | Modifiers | Combat Effect
+Stat | Points: 3 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 12 (22HP) | 22HP
 Attack | 3 | ɴᴏ ʙᴏɴᴜs | +3 Physical Damage 
-Special Attack | 1 | Species Bonus | +1 Special Damage
+Special Attack | 0 | Species Bonus | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4 AP
+Speed | 0 |  Speed **ɪɪɪ**  | 5 AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -65,7 +65,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Speed **ɪ** | Tier **ɪɪ** | 8/9 | ▮▮▮▮▮▮▮▮▯
+Currently Training for Stat: Speed **ɪɪɪ** | **COMPLETE** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 
 **INVENTORY (4 slots)**
@@ -77,7 +77,7 @@ Item Name | Description
 *Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Oran Berry | Heals the user for 10HP.
 2. Oran Berry | Heals the user for 10HP.
-3. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Oran Berry | Heals the user for 10HP.
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

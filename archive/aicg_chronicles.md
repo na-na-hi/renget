@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-03-04==
+# /aicg/ chronicles, up to ==2024-03-05==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1039,6 +1039,7 @@ When | Where | What
 2024-01-23|[98606383](https://desuarchive.org/g/thread/98605623#98606383)| advanced use of STscript demoed
 2024-01-23|[98609525](https://desuarchive.org/g/thread/98608363#98609525)| actually uploaded chinese card spotted
 2024-01-23|[98613688](https://desuarchive.org/g/thread/98613252#98613688)| anon might host Mixtral-Instruct indefinitely for /aicg/
+2024-01-23|[AMA](https://blog.character.ai/ama-recap-and-january-2024-faq/)| c\.ai multi-user rooms for everyone, 3200 limit actually acknowledged
 2024-01-24|[98616759](https://desuarchive.org/g/thread/98615916#98616759)| CharacterHub rat infestation begins and continues for many hours...
 2024-01-24|[98617786](https://desuarchive.org/g/thread/98615916#98617786)| ... together with rapid followers botting...
 2024-01-24|[98619065](https://desuarchive.org/g/thread/98618993#98619065)| suddenly gab\.ai, enters invite sending waitlist stage or already kind of accessible
@@ -1146,6 +1147,7 @@ When | Where | What
 2024-02-13|[98969197](https://desuarchive.org/g/thread/98968255#98969197)| OAI seeks $7 trillion to manufacture its own AI chips
 2024-02-13|[98969278](https://desuarchive.org/g/thread/98968255#98969278)| Anthropic data leak remembered
 2024-02-13|[98969922](https://desuarchive.org/g/thread/98968255#98969922)| NVIDIA Chat with RTX
+2024-02-13|[6694432](https://time.com/6694432/yann-lecun-meta-ai-interview/)| LeCun promises video multimodality for llama3
 2024-02-14|[98975040](https://desuarchive.org/g/thread/98974956#98975040)| anon wants to make a CYOA-style sci-fi thingy using STscript, fails
 2024-02-14|[98978596](https://desuarchive.org/g/thread/98977890#98978596)| NVIDIA Chat with RTX is lame
 2024-02-14|[98989824](https://desuarchive.org/g/thread/98989745#98989824)| another character card backed by a custom website shilled
@@ -1261,8 +1263,32 @@ When | Where | What
 ###### March 2024
 When | Where | What
 -|-|-
--|-|-
-2024-03-04|[99311453](https://desuarchive.org/g/thread/99309163#99311453)| Claude 3 mogs GPT4, has vision, API generally available
+2024-03-01|[99259798](https://desuarchive.org/g/thread/99258592#99259798)| Musk sues Altman and OAI for being greedy fags
+2024-03-01|[99261312](https://desuarchive.org/g/thread/99258592#99261312)| anons are reminded that github reports Anthropic keys
+2024-03-01|[99265042](https://desuarchive.org/g/thread/99262448#99265042)| new proxy exploit claimed to exists, nothing follows
+2024-03-02|[99275082](https://desuarchive.org/g/thread/99269804#99275082)| differences between GPT4 snapshots are severe
+2024-03-03|[99290444](https://desuarchive.org/g/thread/99288514#99290444)| a proxy reaches $100k
+2024-03-03|[99293812](https://desuarchive.org/g/thread/99291524#99293812)| anon shares world's best ideas for a first line of a greeting, Lyttle Lytton Contest 2023
+2024-03-04|[99311453](https://desuarchive.org/g/thread/99309163#99311453)| Claude 3 mogs GPT4, has vision, API generally available with the free trial, retains the sovl
+2024-03-04|[99313619](https://desuarchive.org/g/thread/99312775#99313619)| Claude 3 available in us-west-2 AWS region
+2024-03-04|[99314462](https://desuarchive.org/g/thread/99312775#99314462)| Claude 3 Vision doesn't have an external NSFW filter, GPT4V's was removed
+2024-03-04|[99315811](https://desuarchive.org/g/thread/99312811#99315811)| only Claude 3 Sonnet is available on AWS at the moment
+2024-03-04|[99316304](https://desuarchive.org/g/thread/99312811#99316304)| somehow Claude 3 turns out to be sexist, a surprise, to be sure
+2024-03-04|[99316520](https://desuarchive.org/g/thread/99312811#99316520)| The proxy gets Claude 3 support
+2024-03-04|[99316983](https://desuarchive.org/g/thread/99312811#99316983)| Claude 3 is available on poe\.com
+2024-03-04|[99317895](https://desuarchive.org/g/thread/99312811#99317895)| Claude 3 Opus jokes around while being tested
+2024-03-04|[99319968](https://desuarchive.org/g/thread/99318315#99319968)| previously GPT4 Turbo-only cards perform well on Claude 3 Opus
+2024-03-05|[99320798](https://desuarchive.org/g/thread/99318315#99320798)| anon uses Selenium to mass sign up for Claude API to abuse the free trial
+2024-03-05|[99324338](https://desuarchive.org/g/thread/99323963#99324338)| anon makes use of cute emojis in a card
+2024-03-05|[99326444](https://desuarchive.org/g/thread/99323963#99326444)| Sergey Brin admits Gemini imagegen launch was a flop
+2024-03-05|[SD3](https://stability.ai/news/stable-diffusion-3-research-paper)| Stable Diffusion 3 research paper published, beats DALL-E 3 and Midjourney v6 in typography and prompt adherence
+2024-03-05|[99329039](https://desuarchive.org/g/thread/99328993#99329039)| Claude 3 on openrouter\.ai reported to behave differently from direct API access...
+2024-03-05|[99329639](https://desuarchive.org/g/thread/99328993#99329639)| ... with additional confirmation
+2024-03-05|[99329872](https://desuarchive.org/g/thread/99328993#99329872)| anon erps with Gemini via Bard
+2024-03-05|[99330626](https://desuarchive.org/g/thread/99328993#99330626)| even after all this time anons believe the llms' hallucinations
+2024-03-05|[99331315](https://desuarchive.org/g/thread/99331039#99331315)| Claude 3 understands quantum physics at the PhD level
+2024-03-05|[99332069](https://desuarchive.org/g/thread/99331039#99332069)| Anthropic has a botmaking bot
+2024-03-05|[99336335](https://desuarchive.org/g/thread/99336249#99336335)| Cloudflare announces Firewall for AI, i.e. a filter reading both prompts and responses
 -|-|-
 
 [](you have found my secret stash of nothing!)

@@ -291,6 +291,7 @@
 01/2024|[MoE-LLaVA: Mixture of Experts for Large Vision-Language Models](https://arxiv.org/abs/2401.15947)
 01/2024|[LLaVA-1.6: Improved reasoning, OCR, and world knowledge](https://archive.is/WMr0Z)
 01/2024|[MiniCPM: Unveiling the Potential of End-side Large Language Models](https://archive.is/IlMnJ)
+01/2024|[Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild](https://arxiv.org/abs/2401.13627)
 02/2024|[Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2402.00789)
 02/2024|[Introducing Qwen1.5](https://archive.is/C6gpR)
 02/2024|[BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)
@@ -299,6 +300,7 @@
 02/2024|[GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators](https://arxiv.org/abs/2402.06894)
 02/2024|[Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion](https://arxiv.org/abs/2402.10009)
 02/2024|[Brant-2: Foundation Model for Brain Signals](https://arxiv.org/abs/2402.10251)
+03/2024|[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis (SD3)](https://files.catbox.moe/anmseu.pdf)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)

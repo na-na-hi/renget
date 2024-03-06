@@ -1,3 +1,29 @@
+>LMUR takes out AFU air-defense crew
+https://files.catbox.moe/my1u64.mp4
+>Drones that forgot to knock
+https://files.catbox.moe/wwxvbl.mp4
+https://files.catbox.moe/lwp7xm.mp4
+>Lancet with AI targeting takes out M109L Paladin
+https://files.catbox.moe/c4q2z5.mp4
+>Massive fire in Kiev
+https://files.catbox.moe/tgpvz5.mp4
+>2 additional HIMARS rekt
+https://files.catbox.moe/ls1vf5.MP4
+>Kornet hits M1A1SA Abrams in Avdeevka area
+https://files.catbox.moe/twckar.MP4
+>AFU collects bodies near Belogorovka
+https://files.catbox.moe/nlgp3i.mp4
+>Geran-2 factory
+https://files.catbox.moe/hhf1bk.mp4
+>S-300 illumination and guidance radars rekt
+https://files.catbox.moe/nv9omu.mp4
+>HIMARS hit with Tornado-S
+https://files.catbox.moe/ml9qd4.mp4
+https://files.catbox.moe/vzae07.mp4
+>Detonation of a pile of mines
+https://files.catbox.moe/87bzle.mp4
+>Lancet takes out Intelligence station Plastun
+https://files.catbox.moe/5z38cp.mp4
 >Russians film Abrams M1150 ABV
 https://files.catbox.moe/wipq4m.MP4
 >Lancet strikes Swedish 'Archer' Artillery system

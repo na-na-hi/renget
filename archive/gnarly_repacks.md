@@ -18,6 +18,10 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Hitman Absolution - Professional Edition [Gnarly Repacks] [8.19 GB] - REUPLOAD
+https://bin.0xfc.de/?4d915547565fb496#8TpYsMctQHrAxkpduwb43B6RNNjNhHFEZ7kGNWuLUJvh
+God of War: Ascension (+RPCS3) [Gnarly Repacks] [13.7 GB] - REUPLOAD
+https://bin.0xfc.de/?e0b0dc4334e35f70#G4zsjW7KrsjwjvHDvovm2PLcQ2eFeCzWgMFcD39jmdkA
 The Lamplighters League (v1.3.1) [Gnarly Repacks] [8.94 GB]
 https://bin.0xfc.de/?0452a6441ff6b133#9oVRpTv4TATEYLRKLpCFWn7B7Pan8iSVEEgZY2MN84it
 Deep Rock Galactic - Survivor (EA-b3465857) [Gnarly Repacks] [1.03 GB]
@@ -489,8 +493,6 @@ DJMax Trilogy (+100% Save) [Gnarly Repacks] [2.74 GB]
 https://bin.snopyta.org/?2fce2e0817d312bc#6fGMeQbi5AuBZjVtPVAzUCEU767xqdCncYHs3u5WzcUo
 God of War: HD Collection (+RPCS3) [Gnarly Repacks] [21.9 GB]
 https://paste.0xfc.de/?fa5d495a8bc084e8#AhzNW7oKp3dTo9rnzsP9kEr1YMMgWokawXXYAJvH96P6
-God of War: Ascension (+RPCS3) [Gnarly Repacks] [13.7 GB]<
-https://bin.snopyta.org/?ebac4d4f57735cc5#HR3C3iULhCSSoVjtrC5nzSNF7ZRJELDRUPb2vayhdMR8
 Shin Megami Tensei: Persona 3 FES (+PCSX2) (Undub) [Gnarly Repacks] [2.36 GB] [REUPLOAD]
 https://bin.snopyta.org/?82f7ea9570e02706#E4kaGUmRUduJ2BLiXcKG6Bzimrwxa7rxAyAHNpH5KeFo
 Crisis Core – Final Fantasy VII (+PPSSPP, Upscale Project Textures) [Gnarly Repacks] [3.58 GB]

@@ -65,8 +65,3 @@ Twitch Alt Channel Vods| [Twitch Alt Vods](https://archive.org/details/pinkcatba
 
 #Nyanners Karaoke Clip Archive: 
 ##->[Mega - (.mp3)](https://mega.nz/folder/CCxyTJyJ#AL1eBZK8PhxukRYQRSbI2g) - [Ms OneDrive - (.mp3 + .mp4)](https://1drv.ms/f/s!Ali7SWBfsKO6ix53k-h2_6kBRWBK?e=4Kc1PL)<-
-
----
-#Ways to contact me if needed:
-
-If you have questions or need help with anything feel free to contact me over email at: hansderhas6473(at)gmail.com or you can sproadically find me in the /vt/ IRC (https://rentry.org/IRC_Stuff) under the name "nyarchivist".

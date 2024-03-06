@@ -10,7 +10,7 @@
 
 ![miscellaneous aggie drawings](https://i.imgur.com/SVCu2d1.png)
 
-![anniv portraits](https://i.imgur.com/9wD6J5c.png)
+![anniv portraits](https://i.imgur.com/99dnKol.png)
 
 ***
 

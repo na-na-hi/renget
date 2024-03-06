@@ -642,6 +642,10 @@
 	uruha rushia, animal print, bangs, bare shoulders, blue sleeves, brooch, detached sleeves, double bun, dress, earrings, flat chest, frilled dress, green hair, green nails, hair bun, hair ornament, hair ribbon, jewelry, long sleeves, red eyes, short hair, skull hair ornament, stomach, virtual youtuber, wide sleeves
 -> [Catbox](https://files.catbox.moe/vsp30t.safetensors) <-
 
+##### -> Vestia Zeta <-
+!!! info 3 Outfits
+-> [Civitai](https://civitai.com/models/326471/xl-10-vestia-zeta-or-hololive-id) <-
+
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***

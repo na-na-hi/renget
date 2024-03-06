@@ -23,7 +23,10 @@ problem w/ telling someone that they're⠀⠀⠀⠀
 annoying me or other people, (take it personally
 if u want idrc) venting to me is totally ok, im ⠀⠀
 here to help & have fun on here so dont be shy
-to reach out to talk about literally anything w me, <-
+to reach out to talk about literally anything w me,
+another thing to note, i have a **life** outside of
+discord. do not expect immediate replies upon me
+going online, ⠀:p thnx <-
 
 -> ![](https://files.catbox.moe/chce4a.png) ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ kinda not a dni <-
 

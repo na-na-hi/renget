@@ -117,9 +117,8 @@ Body Enhancement Quirk
 -Health (Energy)
 -Continuous
 -Emotion
--Stockpile
 
-12 Points
+4 Points
 
 !!! note
 	**Quirk:「Psychokinesis」**
@@ -178,13 +177,11 @@ Speed: Fast (XP)
 -Variable
 -Organic
 -Melee
--Blunt
 -Slashing
 -Piercing
 -Mods
-1 Point of Quirk Refinement
 
-20 Points
+17 Points
 
 !!! note
 
@@ -229,7 +226,7 @@ Body Enhancement
 
 1 Point of Quirk Refinement
 
-26 Points
+25 Points
 
 !!! note
 	
