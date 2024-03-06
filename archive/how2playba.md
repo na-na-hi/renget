@@ -3,7 +3,7 @@
 Do 1 card and refresh (higher rate of eligma) or pull until you get 1 gold/purple card (higher rate of T3/T4 artifacts). That's it.
 Just b urself bro, it's not rocket science. Stop asking.
 
-Refer to [this image](https://arch-img.b4k.co/vg/1709417233488.png) for Wakamo hovercraft teams. 
+Refer to [this image](https://arch-img.b4k.co/vg/1709417233488.png) for Wakamo hovercraft teams. Read the [raid guide](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/edit#gid=616626271) or watch [the video](https://youtu.be/2Xnyl9bPajs?si=hW_2yfZURGX5_lGX) if you don't get it. 
 
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 

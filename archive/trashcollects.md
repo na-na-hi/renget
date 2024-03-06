@@ -2138,6 +2138,7 @@ V3 - YiffyMix: https://files.catbox.moe/1q1mz3.zip
 
 # Tulin (Zelda Tears of the Kingdom)
 https://mega.nz/folder/AiEQ0CJT#oVffy-tL9HzrtfRzY-TlrQ
+Vpred compatible: https://mega.nz/file/E2Vm2CwA#kCmJNZX3apcBs2WlWT2ZFycSgRaSX8snawBJ41eT2_M
 
 # Klonoa
 https://huggingface.co/nadanainone/tondelora/tree/main

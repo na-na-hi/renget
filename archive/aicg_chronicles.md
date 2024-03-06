@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-03-05==
+# /aicg/ chronicles, up to ==2024-03-06==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1227,6 +1227,7 @@ When | Where | What
 2024-02-22|[SD3](https://stability.ai/news/stable-diffusion-3)| Stable Diffusion 3 early preview announced
 2024-02-22|[6:42 AM](https://www.cnbc.com/2024/02/22/google-pauses-gemini-ai-image-generator-after-inaccuracies.html)| Google pauses Gemini image generator
 2024-02-23|[unsettling](https://huggingface.co/blog/leaderboard-haizelab)| HF introduces a red-teaming resistance leaderboard
+2024-02-23|[15570](https://arxiv.org/abs/2402.15570)| new method of automated jailbreaking explained, tested on 7B, could be extrapolated to GPT4
 2024-02-24|[99151320](https://desuarchive.org/g/thread/99148902#99151320)| anon gets Gemini 1.5 Pro access...
 2024-02-24|[99151545](https://desuarchive.org/g/thread/99148902#99151545)| accessible only via Google AI Studio, no API provided
 2024-02-24|[99152477](https://desuarchive.org/g/thread/99148902#99152477)| anon finds a Sora key, supposedly useless
@@ -1245,6 +1246,7 @@ When | Where | What
 2024-02-26|[99188288](https://desuarchive.org/g/thread/99185753#99188288)| new synthetic anime-themed text dataset released
 2024-02-26|[99191657](https://desuarchive.org/g/thread/99187370#99191657)| anon uses Mixtral on anyscale\.com
 2024-02-26|[99192634](https://desuarchive.org/g/thread/99187370#99192634)| c\.ai redesign UI showed
+2024-02-26|[NTIA AI](https://www.regulations.gov/document/NTIA-2023-0009-0001)| National Telecommunications and Information Administration considers open foundation models dangerous
 2024-02-27|[99205532](https://desuarchive.org/g/thread/99203735#99205532)| anon finally shares the prompt for uncensored image recognition outputted as JSON
 2024-02-27|[99209801](https://desuarchive.org/g/thread/99209665#99209801)| OAI claims to be hacked by NYT "by using deceptive prompts that blatantly violate OAI’s terms of use"
 2024-02-27|[99209860](https://desuarchive.org/g/thread/99209665#99209860)| freellamas anon is back briefly, updates the Colab guide
@@ -1289,6 +1291,15 @@ When | Where | What
 2024-03-05|[99331315](https://desuarchive.org/g/thread/99331039#99331315)| Claude 3 understands quantum physics at the PhD level
 2024-03-05|[99332069](https://desuarchive.org/g/thread/99331039#99332069)| Anthropic has a botmaking bot
 2024-03-05|[99336335](https://desuarchive.org/g/thread/99336249#99336335)| Cloudflare announces Firewall for AI, i.e. a filter reading both prompts and responses
+2024-03-06|[99341089](https://desuarchive.org/g/thread/99339180#99341089)| BREAKING: a twitter person is unhappy because Claude hallucinates; FBI, CIA, etc already notified
+2024-03-06|[99341672](https://desuarchive.org/g/thread/99339180#99341672)| Google might be giving out Gemini 1.5 Pro access more freely
+2024-03-06|[99344099](https://desuarchive.org/g/thread/99342176#99344099)| a source of free GPT4 Turbo and Claude 3 exposed
+2024-03-06|[99345214](https://desuarchive.org/g/thread/99344907#99345214)| OAI attempts to dramafag and get back at Musk by leaking emails, instead confirms his accusations...
+2024-03-06|[99345442](https://desuarchive.org/g/thread/99344907#99345442)| ... as additionally explained by an anon here
+2024-03-06|[99347901](https://desuarchive.org/g/thread/99344907#99347901)| Claude tries to be unbiased, anon is one of those gura/gultra fags
+2024-03-06|[99348254](https://desuarchive.org/g/thread/99348212#99348254)| Claude 3 vs GPT4 benchmark results comparison might have been unfair
+2024-03-06|[99348797](https://desuarchive.org/g/thread/99348212/#99348797)| anon continues comparative testing, is revealed to be braindead, asks to disregard this
+2024-03-06|[99349453](https://desuarchive.org/g/thread/99348212#99349453)| twitter considers Claude 3 Opus to be better than GPT4 Turbo at coding
 -|-|-
 
 [](you have found my secret stash of nothing!)

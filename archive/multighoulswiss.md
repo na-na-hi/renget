@@ -9,6 +9,6 @@
 -> ***"JUST WANNA BE, WANNA %#808080% BEWITCH YOU IN THE MOONLIGHT%%..."*** <-
 -> + <-
 -> ***Ghost B.C Introj[ect](https://thebandghost.fandom.com/wiki/Nameless_Ghoul_(Swiss)) ,*** *DIAGNOSED DISSOCIATIVE IDENTITY DISORDER* ***SYSHOST*** <-
--> 42Y.O, *Bodily 17* — He / him + Bisexual greyroman[tic](https://en.pronouns.page/@MULTIGHOULSWISS) <-
+-> 42Y.O, *Bodily 17* — He / him , Cisgender male + Bisexual greyroman[tic](https://en.pronouns.page/@MULTIGHOULSWISS) <-
 -> [![MY HUSBAND'S RENTRY](https://cdn.discordapp.com/attachments/704517453178470520/1213798274323058698/smaller_black_heart.webp?ex=65f6c8bb&is=65e453bb&hm=e47e78fd99f0247e82f7d01be6b0dcee7c86593cd9a0b29f59598d68ce861745&)](https://rentry.co/mountainghoul) <-
 -> ![!](https://64.media.tumblr.com/911887c8f3604c454295fd1cedeee8db/02d212b6686e3430-45/s400x600/08d40d11688b8e88b972545cce6077b13c605447.pnj)<-

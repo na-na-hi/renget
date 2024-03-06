@@ -428,4 +428,5 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[3]** *AH HAHAHA HA*](https://arch.b4k.co/vp/thread/55489574/)
 [**[4]** *After an Aeon, I will reincarnate you and your life will be endless torture*](https://arch.b4k.co/vp/thread/55504344/)
 [**[5]** *The nightmare is over...*](https://arch.b4k.co/vp/thread/55512515/)
-[**[6]**](https://arch.b4k.co/vp/thread/55517923/)
+[**[6]** *This is why you don't let trannies lead projects*](https://arch.b4k.co/vp/thread/55517923/)
+[**[7]** *The Eevee Expo is Real!*](https://arch.b4k.co/vp/thread/55534121/)

@@ -1,3 +1,29 @@
+>RBK-500 cluster bomb against target near Artyomovsk
+https://files.catbox.moe/asndmy.mp4
+>T-72BM kills Abrams with Invar-M ATGM
+https://files.catbox.moe/3jduzy.mp4
+>Grad takes out large AFU meat wave in Avdeevka
+https://files.catbox.moe/hs00bh.mp4
+>ODAB-1500 falls on Chasov Yar
+https://files.catbox.moe/2it0qw.mp4
+>Mobile ATGM crew
+https://files.catbox.moe/8k8d3z.mp4
+>Lancet takes out P-18 radar
+https://files.catbox.moe/vtvzzb.mp4
+>Artillery massacres retreating AFU
+https://files.catbox.moe/93g13g.MP4
+https://files.catbox.moe/tagi8w.MP4
+https://files.catbox.moe/a42nda.MP4
+>Aviation strike on hohols on the right bank of the Kherson region
+https://files.catbox.moe/wrbmgs.mp4
+>Navy defending against the naval drone attack
+https://files.catbox.moe/x7w4wq.mp4
+>Hoholinas are asked if they will fight
+https://files.catbox.moe/58sz87.mp4
+>CNN shows Chasov Yar residents waiting for Russians
+https://files.catbox.moe/p2j5cr.mp4
+>Kiev is breaking down because of corruption
+https://files.catbox.moe/q4xab3.mp4
 >LMUR takes out AFU air-defense crew
 https://files.catbox.moe/my1u64.mp4
 >Drones that forgot to knock

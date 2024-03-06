@@ -95,6 +95,7 @@
 07/2019|[Augmenting Self-attention with Persistent Memory](https://arxiv.org/abs/1907.01470)
 11/2019|[Improving Transformer Models by Reordering their Sublayers](https://arxiv.org/abs/1911.03864)
 08/2021|[Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation](https://arxiv.org/abs/2108.12409)
+03/2022|[Training Logbook for OPT-175B](https://files.catbox.moe/u1836w.pdf)
 05/2022|[OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068)
 07/2022|[Beyond neural scaling laws: beating power law scaling via data pruning](https://arxiv.org/abs/2206.14486)
 11/2022|[Galactica: A Large Language Model for Science](https://arxiv.org/abs/2211.09085)

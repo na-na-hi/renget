@@ -1,15 +1,15 @@
 #Harmonization Guide
 ##**Table of Contents**
 [TOC3]
-###Harmonization System Introduction 
+###1. Harmonization System Introduction 
 ![Harmonization System Introduction](https://i.imgur.com/IVYX2l7.png)
 **(Credit to AetherVoid)**
 
-###Harmonization Priority Tier List 
+###2. Harmonization Priority Tier List 
 ![Harmonization Priority Tier List](https://i.imgur.com/Hm4HiEf.png)
 **(Credit to AetherVoid)**
 
-###Harmonization Build Recommendations 
+###3. Harmonization Build Recommendations 
 ####Physical Team
 ![Harmonization Build Physical](https://i.imgur.com/k3pdGax.jpeg)
 ####Lightning Team

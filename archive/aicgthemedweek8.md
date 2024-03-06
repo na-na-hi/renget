@@ -6,7 +6,7 @@
 	-> This time, two leading entries got the same amount of votes <-
 #### -> Here is the collection of cards submitted for the eighth themed bot challenge, listed in no particular order <-
 ***
--> WIP <-
+-> ![](https://files.catbox.moe/hza26w.jpg) <-
 ### -> Finnish / Self-aware <-
 ***
 Card | Page | Botmaker | Description | Theme

@@ -34,7 +34,8 @@ https://files.catbox.moe/7723pp.safetensors doll a toy doll, activation trigger 
 https://files.catbox.moe/tw9t1s.safetensors k-pop-stars a lora trained on kpop stars, don't think there's any activation triggers, I resized the original from pixel drain here: https://pixeldrain com/u/uku8ptP1, the anon has other ones at different step counts that might be better: https://pixeldrain com/u/5fuXqJp2 (4000 steps), https://pixeldrain com/u/wv6Vjq3v (2000 steps)
 
 ###Concepts
-https://files.catbox.moe/f6r1nl.safetensors shared_clothes keyword is SharedClothes, example gen: https://files.catbox.moe/oddiam.png
+https://files.catbox.moe/f6r1nl.safetensors shared_clothes main trigger is SharedClothes, example gen: https://files.catbox.moe/oddiam.png
+https://files.catbox.moe/7wpbsq.safetensors rogue_cosplay main trigger is RougeCosplay, dresses characters in rogue from the sonic the hedgeheg franchise, helper triggers are leotard, bodysuit, elbow gloves, thighboots and heart bustier, ears might bleed so it helps to put ears in the negative, example gen: https://files.catbox.moe/eeckj0.png
 
 **These are from the below mega, a couple were resized from their original size to get them under the 200mb limit**
 https://files.catbox.moe/hfpslw.safetensors empty_eyes_drooling example gen: https://files.catbox.moe/p7aido.png

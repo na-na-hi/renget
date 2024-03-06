@@ -5,14 +5,14 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##24/02/29-24/03/03 (yy/mm/dd)
+##24/03/07-24/03/10 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 3UTC ()** 
-**FRI: Megaman Starforce 2 at 3UTC (Parsec)**
-**SAT: https://www.romhacking.net/hacks/8425/ at 3UTC (Telemelt)**
-**SUN: Minemelt around 19UTC* (Minecraft)** probably
+**FRI: Rockman 6 After Tournament at 3UTC (Telemelt)**
+**SAT: Kirby Super Star Ultra at 3UTC (Parsec)**
+**SUN: Megaman Ultra 19UTC* (Telemelt)**
 
 ##Cytubes
 

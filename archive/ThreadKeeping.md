@@ -25,18 +25,7 @@ Page 1
 ***
 ```
 RULES
-Everyone gets 1 extra perk. (So you have two perks)
-Only twenty points from drawbacks, (ONLY twenty points, no perks) everything else is fluff.
-Bloodline Limit gives 10 points towards Kekkai Genkai
-D Rank
-Free Jutsu Purchases/Upgrades gained from Perks give you the first 2 or last 2 tiers respectively on the PDF version.
-It's assumed that your skill level is normal for that of your rank for any of these unpurchased Basics: Unarmed Combat, Stealth, Subterfuge, Ninja Tools, Espionage, Clone, Transformation, Substitution, Utility Jutsus.
-First Purchase of a Basic/Advanced/Hidden gives you an above average skill level of your Rank in that jutsu, Second gives you a REALLY above average skill level for your Rank, and 3rd means you're REAL good at it, same difference from 1st to 2nd.
-If you don't take any drawbacks you can take the Cool perk for free.
-You can be whatever age you want.
-Ignore the elemental taxes.
-Living Weapons are banned, ignore the rest of the items, you have an arbitrary amount needed to be a ninja. Enchanted tools are fine, though.
-You can make a C+ Build, they just won't be participating in the exams.
+https://rentry.org/x5ayvpzb
 
 >Team 1
 >Natsuo Uchiha
@@ -66,7 +55,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Ichika Chinoike
 >>92067827
 >Kita
->>92047196 + https://rentry.org/3duzgchi
+>>92104750
 
 >Team 4
 >Kiko Inuzuka
@@ -80,11 +69,11 @@ You can make a C+ Build, they just won't be participating in the exams.
 
 >Team 5
 >Ezaki Tuto
->>92084370
+>>92097618
 >Jin Hyuga
 >>92067527
 >Shinrō Kamotai
->>92072994
+>>92105219
 >Yuma Kouda
 >>92056996
 
@@ -109,7 +98,16 @@ You can make a C+ Build, they just won't be participating in the exams.
 >>92091505
 >Kijyo-Douji
 >>92092125
-
+>Kamare Hozuki
+>>92097216
+>Daiki Ueno
+>>92099009
+>Barou
+>>92099661
+>Engetsu Bōfū
+>>92101140
+>Fujiwara Nobutake
+>>92104939
 ```
 ***
 Page 2
@@ -125,6 +123,8 @@ Osamu's Journal: September 3rd (Osamu)
 https://rentry.org/xvefkfsk
 Exhibition Match (Jin, D)
 https://rentry.org/iimg4p6h
+(Jin, Shinro, Yuma, Ezaki, mention of Ichika)
+https://rentry.org/KonohaFive 
 
 Relationship Charts:
 >Masu
@@ -143,7 +143,8 @@ https://rentry.org/HimariChart
 https://rentry.org/DogNotebook
 >Kazen Uzumaki
 https://rentry.org/5ve76r7v
-
+Kichōna
+https://rentry.org/mndacoyg
 ```
 
 #Fighting Autism Tournament
@@ -507,10 +508,8 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Art:
->orochi
->>92088248
->Sandatsu doraemowari
->>92089201
+>i can explain
+>>92102560
 
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)

@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: BIGFOOT collab with Bijou and Shiori (Wed 03/06 8PM CT)
+Next stream (BIGFOOT collab with Bijou and Shiori, Wed 03/06 8PM CT)
+https://www.youtube.com/watch?v=r0Qn-uf7bWY
 Last collab stream ("The Twilight Saga: Eclipse" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi)
 https://www.youtube.com/watch?v=1fjdVb_vRCA
 Last solo stream (Poppy Playtime, Chapter 3)

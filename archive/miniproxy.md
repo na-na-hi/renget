@@ -7,7 +7,7 @@
     https://assistant.aitism.net/assistant/miniproxy/gemini (gemini-pro no quota limit)
     enable streaming if you receive timeout errors. Cloudflare has a 100 second limit.
 
-opus has a 500k token quota for now. set your context size to something sensible. (claude key donations are appreciated)
+opus has a 600k token quota for now. set your context size to something sensible.
 ``` js
 openai context size: 131072
 anthropic context size: 200000
@@ -25,8 +25,8 @@ total **active** users: 122 %red% (CLOSED) %%
 - I am not accepting monetary donations because they caused too much drama. 
 - <3 to every other proxy host for providing proxies.
 
-!!! info info and news (4/3/2024)
-    new claude models. 
+!!! info info and news (6/3/2024)
+    Fixed the wait time for opus. Thank you mysteryman!!
 
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 
 needtocoomoridie@proton.me
