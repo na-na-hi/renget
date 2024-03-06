@@ -6,12 +6,12 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 275th time, what is Ope?!
+For the 276th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Bigfoot collab with Bijou and Shiori (03/06 8PM CT)
+Next stream: BIGFOOT collab with Bijou and Shiori (Wed 03/06 8PM CT)
 Last collab stream ("The Twilight Saga: Eclipse" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi)
 https://www.youtube.com/watch?v=1fjdVb_vRCA
 Last solo stream (Poppy Playtime, Chapter 3)
@@ -36,7 +36,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>70693985
+Previous thread: >>70733855
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
@@ -68,5 +68,5 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to vote on February's top streams if you haven't already.
+Remember to vote on February's top streams if you didn't already (I know some of you didn't).
 https://forms.gle/FvP3ZPvc7EhApjAV8

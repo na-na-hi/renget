@@ -4,6 +4,7 @@
 Threads 152 - Current: Post-Pastebin era.
 =====================
 
+Thread 248 - Resting Sexdoll Face Edition: https://desuarchive.org/trash/thread/63792947/
 Thread 247 - We're Only Getting Started Edition: https://desuarchive.org/trash/thread/63685027/
 Thread 246 - Correct Bimbo Posture Edition: https://desuarchive.org/trash/thread/63263014/
 Thread 245 - Look At What You've Done Edition: https://desuarchive.org/trash/thread/63186148/

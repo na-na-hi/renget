@@ -219,6 +219,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Aura Dog Day (ft. Turk the Lucario)](https://rentry.org/turklucario2)
     * [We're Team Overclock: Chapter 1 (ft. Error)](https://rentry.org/ironvaliant4)
 	* [We're Team Overclock: Chapter 2 (ft. Error)](https://rentry.org/ironvaliant5)
+	* [Black, Blue, And Red all Over (ft. Turk)](https://rentry.org/turklucario3)
 * Fern the Hisuian Zora
     * [Tails and Tales of a Diminutive Traveler (ft. Fern)](https://rentry.org/b2f4t)
 	* [Tails and Tales of a Foxes' Fellowship (ft. Fern)](https://rentry.org/n5wxd)
@@ -597,6 +598,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Achoos You (ft. Rain)](https://rentry.org/zx6cwsz3)
 * [We're Team Overclock: Chapter 2 (ft. Error)](https://rentry.org/ironvaliant5)
 * [Togetic's Echoes of Adventure](https://rentry.org/3odi7xbf)
+* [Black, Blue, And Red all Over (ft. Turk)](https://rentry.org/turklucario3)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

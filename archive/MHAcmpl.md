@@ -744,7 +744,8 @@ A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of pe
 moe moe kyill yourself: https://desuarchive.org/tg/post/92064727/
 Kaylee: https://desuarchive.org/tg/post/92069993/
 Crimes Against Civilization: https://desuarchive.org/tg/post/92075566/
-
+Orochi: https://desuarchive.org/tg/post/92088248/
+Sandatsu doraemowari: https://desuarchive.org/tg/post/92089201/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4

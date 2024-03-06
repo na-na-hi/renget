@@ -179,6 +179,7 @@
 -> - https://rentry.co/gotaclue <-
 -> - https://rentry.co/bornonthecob <-
 -> - https://rentry.org/countryroads <-
+-> - https://rentry.co/cutedogs <-
 -> - https://rentry.co/freshlycutgrass <-
 -> - https://rentry.co/sleeponit <-
 -> - https://rentry.co/simplysouthern <-

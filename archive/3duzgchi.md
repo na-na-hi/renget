@@ -6,14 +6,13 @@
 
 >Stealth
 >Subterfuge
->Ninja Tools
+>Espionage
 >Transformation++
->Utility Jutsu
+>Enclosement Technique
 >Shadow Clone+
 >Sealing Arts++
 >Concealment Arts++
 >Trap Seals++
->Self-Cursing Seal++
 
 >Backstory
 Kita was born Amegakure, and like many he was orphaned when he was just an infant. He was the lone survivor of his clan, and he would have died too had a hidden leaf ninja not took pity on him. His new mother was a medical ninja who struggled to raise him while completing her duties. Kita only has faint memories of her, but his time with her was the happiest he had ever been. Like many medical ninja she was singled out as a priority target and killed in action. That left Kita completely alone.

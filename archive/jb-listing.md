@@ -29,6 +29,8 @@ https://rentry.org/fumblebum
 
 https://rentry.org/ClaudeJB
 
+https://unconvincing.neocities.org/
+
 https://dumb.one/gpt/prompts/my-tavern-prompts-claude.md
 
 https://rentry.org/myuclyutsu

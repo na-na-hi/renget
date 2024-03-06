@@ -51,12 +51,16 @@ Q1: You joined the Guild around Halloween.  How has your experience been since t
 Q1: Given your title as a researcher, do guild members ever ask you difficult or odd questions?
 Q2: Do you get along well with the other research-oriented guildmons?
 
+###Nida
+Q1: What is the best way to prepare grime for consumption?  Do you have any favorite recipes?
+Q2: What do you and Pochi do on your time off?  Any hobbies?
+
 ###Pochi
 Q1: Is Nida still committing crimes?
 
 ###Makky
 Q1: It is well known that you love to eat food, but do you have any favorite foods?  Or is the more the merrier?
-A: Don't scold me for my gluttony, I can't help it! I used to be ripped, but ever since I acquired a mysterious case of head trauma, I've had the insatiable urge to eat. Spicy food is my favorite, although anything's good, really.
+> A: Don't scold me for my gluttony, I can't help it! I used to be ripped, but ever since I acquired a mysterious case of head trauma, I've had the insatiable urge to eat. Spicy food is my favorite, although anything's good, really.
 
 ###Tybo
 Q1: Do you accept pets?  If so, from who?  
@@ -67,6 +71,16 @@ Q1: How do you deal with being so fluffy?
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
 
+###Totodile
+Q1: What's the market like for alcohol in the Pokemon world?  Is there a good variety, or is it sometimes disappointing?
+
+###Tropius
+Q1: What are the pros and cons of being so huge?
+Q2: How well do you get along without having hands?
+
+###Linoone
+Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?
+Q2: What's more important- speed or control?
 
 ##->**General Questions**<-
 
@@ -74,7 +88,7 @@ Former humans, if you could write a letter back home, what would you write and t
 
 ##->**Pair Questions**<-
 
-**Delete this once there's someone gets a question here**
+Luka & Nine: How did you two meet?
 
 ##->**Lore and Misc Questions**<-
 

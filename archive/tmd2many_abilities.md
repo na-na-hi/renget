@@ -28,7 +28,7 @@ Name | Description
 Aerilate | The User's Normal-Type Moves become Flying-Type and have their damage increased by 2.
 Aftermath | The User deals 5 True Damage to the Opponent if KO'd by a Physical Move.
 Air Lock | The User nullifies the effect of Weather.
-**Analytic** | If the User did not use a Move last round, their next Attacking Move's damage is increased by 3. Stacks up to 9 extra damage.
+**Analytic** | If the User did not use a Move last round, their next Attacking Move's damage is increased by 2. Stacks up to 6 extra damage.
 Anger Point | The User's Attack is increased by 6 when damaged by a Critical Hit.
 Anger Shell | While below ½ HP, the User's Attack, Special Attack, and Speed are increased by 1, but their Defense and Special Defense are decreased by 1.
 Anticipation | The User is alerted if any Opponents know Super-Effective Moves.
