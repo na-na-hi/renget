@@ -11,12 +11,11 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (BIGFOOT collab with Bijou and Shiori, Wed 03/06 8PM CT)
+Next stream: Bread & Fred collab with Zeta on Zeta's channel (Thu 03/07 9PM CT)
+Last stream (BIGFOOT collab with Bijou and Shiori)
 https://www.youtube.com/watch?v=r0Qn-uf7bWY
-Last collab stream ("The Twilight Saga: Eclipse" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi)
-https://www.youtube.com/watch?v=1fjdVb_vRCA
-Last solo stream (Poppy Playtime, Chapter 3)
-https://www.youtube.com/watch?v=h9M8CDS4nUA
+Previous appearance (VC on Fauna's Minecraft World Tree anniversary stream)
+https://www.youtube.com/watch?v=iLfuHjb-zpg&t=727s
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID
@@ -69,5 +68,5 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to vote on February's top streams if you didn't already (I know some of you didn't).
+Remember to vote on February's top streams if you didn't already (a few more would be nice).
 https://forms.gle/FvP3ZPvc7EhApjAV8

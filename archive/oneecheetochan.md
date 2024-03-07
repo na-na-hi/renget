@@ -15,8 +15,7 @@
 
 ohayo~ i'm oneecheetochan or cheeto or onee chan ^^ i'm a dengerate avatarfag who likes hentai and shotas. especially dominant ones! i post whatever i want because this is the internet and i try to make cards of good quality~
 
-UPDATE: i am okay everynyan! cheeto-chan has immunodeficiency so small things like colds can be very dangers >< im putting out algizoth (demon prince) today 2/26/2024 and then requests 2/28/2024~ thank u all for the well wishes nya~ onee-chan is just sickly arigato everyone!
-
+UPDATE: SOMEONE TRIED TO FUCKING LORE me its whatever lets post shota cards (coming out slowly)
 FAQ:
 
 **Why do you type like that?**
@@ -57,6 +56,7 @@ Image| Name | Description | Link
 ![BIG DICK DOMINANT LIKES PUSSY](https://files.catbox.moe/t4bvy0.png) | Akira | the hentai male lead from Mayuchan NTR~ four intros~  | [CHUB link](https://www.chub.ai/characters/oneecheetochan/akira-4497a290) [Catbox link](https://files.catbox.moe/t4bvy0.png)
 ![evil depraved bitch](https://files.catbox.moe/9cq6l9.png) | Nemeto | the bastard who totally degraded an entire family~ three victimPOV intros two helper POV intros~  | [CHUB link](https://www.chub.ai/characters/oneecheetochan/nemeto-89a7ed8b) [Catbox link](https://files.catbox.moe/9cq6l9.png)
 ![another request filled](https://files.catbox.moe/x4g1k3.png) | Soren | your upper classmate who thinks youre just so cute~ five intros  | [CHUB link](https://www.chub.ai/characters/oneecheetochan/soren-day-a4d53366) [Catbox link](https://files.catbox.moe/x4g1k3.png)
+![she's back niggas](https://files.catbox.moe/s09fi7.png) | Soren | he wants to fuck and suck or smth  | [CHUB link](https://www.chub.ai/characters/oneecheetochan/algizoth-16ea45dc) [Catbox link](https://files.catbox.moe/s09fi7.png)
 
 ##### %#FFC0CB% lady bots%% ![](https://64.media.tumblr.com/9450cdfef1b5bd56eb13b23fa3fbe4cc/4809e0c5820895fd-e4/s75x75_c1/9ec5c1a83bf98c14a95a101273637cf9b977b9f3.gif)
 

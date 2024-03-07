@@ -10,7 +10,8 @@
 https://hololivesuperexpo2024.hololivepro.com/tickets
 https://hololivesuperexpo2024.hololivepro.com/en/tickets
 (EN/Streaming+ has a 1150 Yen Gaijin tax attached. There is relatively little differences in live experience between SPWN and Streaming+.)
-
+If you are going to the venue, use the holocart website or app to pre-order merch:
+https://cart.hololivepro.com/product/list?tag_codes=HLL-T-EXPO
 
 ###Limited merch
 **Promise Christmas merch set (Acrylic stands, Mug & Dish) Limited quantity pre-order; Ships Feb 2024**

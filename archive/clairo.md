@@ -1,4 +1,4 @@
--> [urls](/edward) / **[info on palestine](/lmfao)**<-
+-> [urls](/starling) / **[info on palestine](/lmfao)**<-
 -> ![](https://imagedelivery.net/57rIj2o4cJ62boUSs_DLpA/4c757485-3aa8-44e0-e216-bf5dcb749900/public) <- 
 -> enn*y* ₊ %aliceblue% she ៸ her  %%<-
 ->nonbinary bi <-

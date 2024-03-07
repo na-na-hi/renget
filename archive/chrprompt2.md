@@ -40,6 +40,9 @@ Q1: What is you relationship with Ronnie?  Has your opinion of him changed since
 ###Sneasel 
 Q1: Booker is getting closer and closer to flying.  Is there a part of you that'll be sad once he's less dependent on you?
 
+###Booker
+Q1: Is there anything that stinks about being a Ribombee that's really minor?
+
 ###Jung
 Q1: How and when did you meet Sara? 
 Q2: Have you met any Clover Guild individuals besides Lliam?
@@ -73,6 +76,7 @@ Q1: Are you still helping take care of the guild's paperwork?  If so, what kind 
 
 ###Totodile
 Q1: What's the market like for alcohol in the Pokemon world?  Is there a good variety, or is it sometimes disappointing?
+Q2: Favorite drink?
 
 ###Tropius
 Q1: What are the pros and cons of being so huge?
@@ -81,6 +85,13 @@ Q2: How well do you get along without having hands?
 ###Linoone
 Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?
 Q2: What's more important- speed or control?
+
+###Macom
+Q1: What's it like going from being an XCOM soldier to being a cute fluffy little electric sheep :3 ?
+
+###Gus
+Q1: r u bald?
+Q2: What would be your ideal qualities in a partner?
 
 ##->**General Questions**<-
 

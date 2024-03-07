@@ -132,11 +132,13 @@ Assistant:
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.8修改版
-- Clewd 4.8(4) added: 增加messages API接口调用，使用方法为在提示中包含<|messagesAPI|>标签；增加<|messagesLog|>标签用于在clewd控制台输出messages接口发送原始内容；修复claude-3模型的系统提示无效问题
+- Clewd 4.8(5) added: 优化messages接口处理逻辑，增加`<|messagesLog|>`标签用于在clewd控制台输出messages接口发送原始内容，增加`claude-default`模型选项用于cookie默认模型
 
-- Clewd 4.8(3) added: 增加padtxt到达硬下限后的占位符设置（placeholder_byte，原padtxt_placeholder改为placeholder_token），可以通过将该占位符设置为同token数但字节数更大的占位符来减少padtxt占用tokens数，其中padtxt第一个值代表超过上限后的tokens数，第二个代超过上限前最小补充tokens数，第三个代表padxt上限（兼容之前的设置）；增加top_k，top_p与响应上限发送（cookie需要打开passparams），允许通过降低响应上限来增加发送上下文长度（上下文长度设置为25k-padtxt第一个数，响应长度1-4096自由设置），top_k需要选择custom补全源，在Additional Parameters中按说明设置。
+- Clewd 4.8(4) added: 增加messages API接口调用，使用方法为在提示中包含`<|messagesAPI|>`标签；修复claude-3模型的系统提示无效问题
 
-- Clewd 4.8(2) added: 取消已失效的预先对话次数上限检测，增加stop_sequences发送（需passparams）
+- Clewd 4.8(3) added: 增加padtxt到达硬下限后的占位符设置（`placeholder_byte`，原`padtxt_placeholder`改为`placeholder_token`），可以通过将该占位符设置为同token数但字节数更大的占位符来减少padtxt占用tokens数，其中padtxt第一个值代表超过上限后的tokens数，第二个代超过上限前最小补充tokens数，第三个代表padxt上限（兼容之前的设置）；增加top_k，top_p与响应上限发送（cookie需要打开`PassParams`），允许通过降低响应上限来增加发送上下文长度（免费cookie上下文长度设置为`25000 - padtxt第一个数`，响应长度 1 ~ 4096 自由设置），top_k需要选择custom补全源，在`Additional Parameters`中按说明设置。
+
+- Clewd 4.8(2) added: 取消已失效的预先对话次数上限检测，增加stop_sequences发送（需`PassParams`）
 
 - Clewd 4.8(1) fixed: 取消更换cookie提示，修复429无法更换bug
 

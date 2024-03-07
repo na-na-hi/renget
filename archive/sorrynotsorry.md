@@ -1,7 +1,7 @@
 **about finn** 
 *easy read version*
 
-i'm finn or jay 
+i'm jay or finn
 
 my pronouns are he/him, pls never use she her or they them on me as it makes me very uncomfortable, i'd appreciate it if you respect that.
 
@@ -18,7 +18,9 @@ if you fit the basic dni
 
  if you're under 14 years old
 
-proshippers, lolicons / shotacon
+proshippers, lolicons / shotacons
+
+zionists
 
  if you hate near from death note 
 
