@@ -49,11 +49,6 @@ Spreadsheet with dates, runtime and content of these vods |[Speadsheet](https://
 Unlisted Playlist with these Vods|[Youtube](https://www.youtube.com/playlist?list=PLHVAyW4Atbv8ITRurVufjhJIauqqNJ0X3)|
 Archive.org Mirror|[Archive.org](https://archive.org/details/2021-06-13-resident-evil-village-part-4-final-jessie-its-time-to-kill-heisenburg)|
 
-##[Olivia Monroe](https://www.twitch.tv/oliviamonroe) 
-Content|Link|Description 
--------|-------|------- 
-Unofficial Olivia Monroe Vod Channel | [Link](https://www.youtube.com/@OliviamonroeVodArchive)| 
-
 ---
 ##[Pomu Rainpuff](https://www.youtube.com/@PomuRainpuff) 
 Content|Link|Description 

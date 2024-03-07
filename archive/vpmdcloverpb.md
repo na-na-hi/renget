@@ -538,6 +538,9 @@ TL;DR greentext below
 Q&A Page: https://forms.gle/VLm5RHZBhoadTD7u5 *Please read all released chapters before commenting.*
 >Sterling, a young and timid Clamperl thrown into the mystifying world of Pokémon, carries the weight of an traumatic past. His existence, once human, took a turn when he found himself reborn as a Clamperl following an event involving his family... Despite his timid nature, Sterling harbors an inner determination to face challenges and grow. The unfamiliar world he finds himself in demands resilience, and he grapples with his newfound identity as a Pokémon. He wishes to be more like his mother who was always kind and loving. His past is marred by a strained relationship with his family, particularly his father. Sterling also battles insecurities rooted in his past, being bullied and abused by others irl, his NEET like personality ruining his social life before transforming.
 
+###Beau/Dav/Mako
+{Pending}
+
 ###Minun/Raichu
 {Pending}
 

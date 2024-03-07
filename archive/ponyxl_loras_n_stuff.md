@@ -215,6 +215,7 @@ https://files.catbox.moe/6mq6hn.safetensors wamudraws
 https://files.catbox.moe/dkjzm3.safetensors gattles
 https://files.catbox.moe/6nnfzi.safetensors norza
 https://files.catbox.moe/4z5ngk.safetensors ter
+https://litter.catbox.moe/cburag.safetensors juno really only trained on paizuri since that's pretty much all the artist draws, has activation trigger junopai, 1girl, solo focus, 1boy, penis, paizuri, large breasts will get the typical image layout 
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
@@ -265,6 +266,7 @@ https://mega.nz/folder/0soGXArQ#IJQJROng3TlELfCooa8RMg coro fae, danimaru, gonzr
 https://rentry.org/shitty_loras#styles-pony-diffusion-v6-xl made_in_abyss, moshimoshibe
 https://mega.nz/folder/1yRSXQCR#Ziu9Q9Is5BCTYn53tnionw akatsuki_giken, alkemanubism, annin, aoin, chabo_fuketsudan, collagen, go_robots, ishida_umi, kafun, kaomin, kenya_suzuki, kink_(tortoiseshell), lucient, m_k, marui, miche, nezumi, nnf, pantsu_ruipper, RA, shizuoka, simzarts, testsuwan_woopie
 https://mega.nz/folder/NegX3DDL#NX3YguN8GSrEbOXuN918BA inhoso
+https://mega.nz/folder/fdoG2QDQ#6ZS_K55fY3g4NottW2NJng thanuki
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -295,6 +297,7 @@ https://files.catbox.moe/mugz6g.safetensors character_elegg_nikke activation tri
 https://files.catbox.moe/ydfkfj.safetensors character_seele_starchasm_nyx activation trigger is seele vollerei (starchasm nyx), example gen: https://files.catbox.moe/oki6x0.png
 https://files.catbox.moe/0escz4.safetensors character_sindel activation trigger is sindel, helps to have multicolored_hair in the prompt to get the black streak in her hair to show up
 https://files.catbox.moe/pagyj3.safetensors character_agnes_tachyon activation trigger is agnes_tachyon_\(umamusume\)
+https://files.catbox.moe/ou15oe.safetensors character_rishiah_ivyred activation trigger is rishia ivyred, seemd like you need to prompt her features as well like green hair, green eyes, twin braids, very long hair, hair bow. example gen: https://files.catbox.moe/5t64vg.png
 
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen

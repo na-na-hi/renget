@@ -1,4 +1,6 @@
--> ![](https://media.discordapp.net/attachments/1096639589852123136/1211856749103943730/8FAED217-93CB-4B1A-9A99-B34931BB38E1.gif?ex=65efb88c&is=65dd438c&hm=dc9ec627d37552215cd62f42f0b6ca62193c37ab50fc62fcf3e0cae81ec14dcf&) <-
+![1divider](https://media.discordapp.net/attachments/1112655651416588371/1215113782096035860/IMG_3213.png?ex=65fb91e5&is=65e91ce5&hm=4ca18536e78d8a2da871953ecc1672f284a2a99058cdc3fcd8fbfdb33a486c65&)
+![bow](https://media.discordapp.net/attachments/1112655651416588371/1215112879963906078/Untitled76_20240306184442.png?ex=65fb910e&is=65e91c0e&hm=ab86e62d97633eedc3616cbdd6e41f8ae8c8d78313c44f65e1cd014e4f3cb4fd&)‎ ‎ ‎‎ ‎ ‎  ‎ ‎‎‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ %#F1BCCB% .co/starling %% ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎![bow](https://media.discordapp.net/attachments/1112655651416588371/1215112879963906078/Untitled76_20240306184442.png?ex=65fb910e&is=65e91c0e&hm=ab86e62d97633eedc3616cbdd6e41f8ae8c8d78313c44f65e1cd014e4f3cb4fd&)
+-> ![main gif](https://media.discordapp.net/attachments/1112655651416588371/1215112548475736084/IMG_3210.gif?ex=65fb90bf&is=65e91bbf&hm=682b55fb4048a3fb528141c12b24f735c732e59cd0c82096a7c95dbe0debf8ea&) <-
 -> ![](https://tomomi.neocities.org/divider/div32.gif) <-
 
 -> https://rentry.co/edward <-

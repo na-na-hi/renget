@@ -72,6 +72,10 @@ https://archiveofourown.org/works/36513490/chapters/91054570
 
 ###Anonno
 
+>Fur Für Thought
+
+https://archiveofourown.org/works/54296980/chapters/137511649
+
 >Yeen Green
 - [x] Completed
 

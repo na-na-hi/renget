@@ -111,6 +111,9 @@
 >Kamare
 "You know what's WEIRD about Kamare? I STILL don't know what village she's from! W-Wait, she's a boy?"
 
+>Daiki
+"I don't talk with Daiki much. He spends all day in the graveyard! I wonder if that's fun or boring? Maybe I should try hanging out in one, all day?"
+
 >Barou
 "Why are there so many Gingereekys around? I-Is it contagious?"
 

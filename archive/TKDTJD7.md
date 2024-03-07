@@ -632,3 +632,180 @@
     >Breaking | Full Internet outage reported in the Central Governorate of Gaza Strip
     >https://t.me/QudsNen/97958  3/5/24     
     ***
+!!!danger  
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 5 (2024), against (US)-israeli forces:
+    >
+    >— 🇾🇪 Yemeni Armed Forces:
+    >🔻Targeted 2 American warships in the Red Sea with a number of anti-ship missiles and drones.
+    ***
+    >— 🇵🇸 Mujahideen Brigades:
+    >🔻Targeted a gathering of IOF forces in the south of Gaza City with short-range rockets in a joint-operation with the Al-Aqsa Martyrs Brigades.
+    >🔻Sniped an IOF soldier in the south of the Al-Zaytoun neighborhood in Gaza City.
+    ***
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >🔻Shelled IOF army positions east of the Al-Zaytoun neighborhood in Gaza City with heavy-caliber mortar shells, causing deaths and injuries.
+    >🔻Targeted an IOF army vehicle in the Al-Balad area in Khan Younis, using "B7" anti-tank shells.
+    >🔻Engaged in intense clashes with IOF forces at the Khan Younis axis, using machine guns, explosive devices, and anti-tank and personnel shells, inflicting casualties.
+    ***
+    >— 🇵🇸 Al-Aqsa Martyrs' Brigades:
+    >🔻In a joint-operation with the Mujahideen Brigades, they shelled a gathering of israeli soldiers with short-range rockets, south of Gaza City.
+    ***
+    >— 🟡 Hezbollah:
+    >🔻Targeted a military force moving near the Raheb site with artillery shells.
+    >🔻Targeted a mechanized IOF military force at Birkat Reisha site with a rocket strike, leading to a direct hit, the destruction of its equipment, and the outbreak of a fire.
+    >🔻Targeted a Merkava tank in the Netuva settlement while it was shelling Lebanese villages and civilians, with a guided missile.
+    >🔻Targeted Kiryat Shmona with appropriate weapons.
+    >🔻Targeted a gathering of israeli soldiers on the Al-Tayhat with rockets.
+    >🔻Targeted a Merkava tank at the Al-Tayhat site with appropriate weapons.
+    >🔻Targeted the Ruwaisat Al-Alam site with rockets.
+    >🔻Targeted the headquarters of the 769th Eastern Brigade in Kiryat Shmona base with appropriate weapons.
+    >🔻Targeted the deployment of israeli soldiers near the Al-Baghdadi site with appropriate weapons.
+    >🔻Shelled the Kfar Blum settlement with dozens of Katyusha rockets, as a response to the israeli attacks on civilian homes, especially the targeting of a civilian home and the martyrdom of a woman, her husband, and her son in the town of Houla.
+    >🔻Targeted a building in the Kiryat Shmona settlement, hitting it directly and causing confirmed casualties.
+    ***
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >🔻Targeted the power station at Haifa airport with kamikaze drones.
+    >https://t.me/FotrosResistance/5761  3/6/24  
+    ***
+!!!warning
+    >BREAKING (update)
+    >
+    >The vessel that was hit earlier today, southwest of Aden, has been abandoned due to suffering damage of the impact. This means the damage was significant.
+    >https://t.me/FotrosResistance/5769  3/6/24
+    ***
+    >IRGC Commander of the Quds Force, Brigadier General Ismail Qaani:
+    >
+    >“The axis of resistance has not used all its capabilities yet!”
+    >https://t.me/FotrosResistance/5770  3/6/24  
+    ***
+    >The US said today it has submitted a draft UN Security Council resolution to back an “immediate cease-fire of roughly six weeks in Gaza together with the release of all hostages.”
+    >
+    >The proposed resolution comes following 3 vetos by the US against resolutions calling for an immediate and permanent ceasefire in Gaza. It also comes a few days before the month of Ramadan, which usually sees an escalation across Palestine due to Israel's restrictions on entry to Al Aqsa mosque and violations against worshipers.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765396642214097104#m 3/6/24 
+    ***
+    >BREAKING| CBC reports citing a senior government official that Canada has decided to resume funding to UNRWA.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765400697846034873#m  3/6/24
+    ***
+    >The Ministry of Health: 
+    >
+    >⭕️The starvation in northern Gaza has reached deadly levels, especially affecting children, pregnant women, and chronically ill patients.
+    >
+    >⭕️The starvation is deepening and will claim the lives of thousands of citizens if the aggression is not halted and immediate humanitarian and medical aid is provided.
+    >
+    >⭕️Israel deliberately commits horrific and consecutive massacres against thousands of hungry people in northern Gaza.
+    >
+    >⭕️We call on the international community to use all means of pressure to ensure an immediate halt to the Israeli aggression.
+    >
+    >⭕️We call on the United Nations to take urgent measures to prevent the humanitarian and health disaster, especially in northern Gaza.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765392587421065662#m  3/6/24  
+    ***
+    >⚡️⚡️Yemen: An American defense official: Smoke was seen rising from the Barbados-flagged cargo tanker “True Confidence” off #Yemen and a lifeboat was seen near it.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1765378510963474499#m  3/6/24
+    ***
+    >⚡️⚡️Lebanon: Al-Mayadeen correspondent: Fire from #Lebanon towards #Israeli positions in the occupied Shebaa Farms  
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1765386407487340881#m  3/6/24  
+    ***
+    >⚡️#Iraq: The Islamic Resistance in Iraq: This afternoon, we targeted Kiryat Shmona Airport in occupied territories with drones.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1765386572474589287#m  3/6/24  
+    ***
+    >⚡️ A leading source in the #Palestinian resistance factions told Al-Mayadeen:
+    >
+    >- The goal of our ongoing negotiations in Cairo is to reach an agreement that achieves a permanent ceasefire, the return of the displaced, withdrawal from the #Gaza Strip, and the provision of the needs of our people.
+    >
+    >- The occupation has not yet given any positive position on stopping the war and does not want to withdraw from the #Gaza Strip.
+    >
+    >- The occupation puts the issue of the return of the displaced under negotiation and wants its details to be discussed and achieved gradually.
+    >
+    >- The occupation does not adhere to what was agreed upon regarding relief, aid, and increasing quantities, and if it agrees, it evades it with flimsy excuses, including inability.
+    >
+    >- After rounds of dialogue in Cairo with the participation of the #Egyptian and Qatari delegations, the #Hamas movement has become certain that the occupation will not give clear answers to the main issues it requested.
+    >
+    >-Hamas's main demands, which have not changed, are a ceasefire, complete withdrawal from the #Gaza Strip, and the return of the displaced.
+    >
+    >- Regarding the issue of withdrawal, #Hamas confirms that the agreement is unclear and ambiguous.
+    >
+    >- “Israel” offers that the withdrawal take place east of the #Gaza Strip without specifying the locations, and #Hamas demands that it be through clear maps.
+    >
+    >- In the first stage, #Hamas demands the complete suspension of military operations, provided that the second stage includes discussing a final ceasefire.
+    >
+    >- The obstacle in the prisoner issue is the numbers requested by #Hamas and rejected by “Israel”.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1765391574874087892#m  3/6/24  
+    ***
+    >⚡️⚡️Urgent | #Hezbollah: We targeted the Zabdin site in the occupied Lebanese Shebaa Farms with missile weapons and achieved a direct hit.
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1765404219828208011#m  3/6/24
+    ***
+    >⚡️Shipowner True Confidence: The ship was hit by a missile 50 nautical miles southwest of Aden
+    >
+    >The ship is drifting as the fire continues on board after it was targeted
+    >https://nitter.esmailelbob.xyz/ME_Observer_/status/1765404358089265591#m  New  3/6/24  
+    ***
+    >BREAKING| The Washington Post reports citing a classified briefing to Congress members by US officials, that since the start of Israel's genocide against Palestinians in Gaza, the US has quietly approved more than 100 separate military sales to Israel amounting to thousands of precision-guided munitions, small diameter bombs, bunker busters, small arms and other lethal aid.
+    >
+    >The sales were made even as top US officials and lawmakers increasingly expressed deep reservations about Israel’s military tactics targeting civilians.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765434807574532216#m  3/6/24
+    ***
+    >BREAKING: 
+    >⚡ 🇺🇲🇾🇪 The first victims fell in the Red Sea
+    >
+    >2 sailors were killed and 6 seriously injured as a result of a Houthi anti-ship ballistic missile attack earlier on the US-owned cargo ship "True Confidence" in the Gulf of Aden.  
+    >
+    >These are the first victims since the start of the Houthi blockade.
+    >https://nitter.esmailelbob.xyz/Megatron_ron/status/1765433351001776498#m  3/6/24
+    ***
+    >The IOF admits to the death of an officer killed in the southern Gaza Strip today:
+    >
+    >🔻Staff Sgt. David Sasson, 21, of the Oketz canine unit.
+    >
+    >Another 10 soldiers/officers were wounded, 5 of them seriously —three of the Commando Brigade and 2 of the Oketz unit — in the same battle.
+    >
+    >In a separate attack in southern Gaza, another soldier of Commando Brigade was seriously wounded.
+    >https://t.me/FotrosResistance/5773  3/6/24  
+    ***
+    >A statement issued by the Islamic Resistance in Iraq:
+    >
+    >The Islamic resistance in Iraq has undertaken to achieve 2 goals:
+    >
+    >- The first: liberating Iraq from the American occupation.
+    >
+    >- Second: Supporting Palestine in its sacred battle.
+    >
+    >Therefore, our operations against the Zionist entity’s colonies on the occupied Palestinian territories will continue until the truce is declared in Gaza and the usurping entity adheres to it, and the heroes of the Islamic resistance will remain fully prepared until then. If the Zionist entity returns to its crimes, we will return, and God will return with us. God is the guardian of the believers
+    >https://t.me/FotrosResistance/5776  3/6/24  
+    ***
+    >MUST WATCH: Hezbollah published a video showing the targeting of an IOF army vehicle at the Birkat Risha site using an Almas ATGM.
+    >
+    >This is yet another recorded impact.
+    >https://t.me/FotrosResistance/5777  3/7/24 
+    >https://files.catbox.moe/uda8ar.mp4   3/6/24  
+    ***
+    >BREAKING| South Africa calls on the ICJ to take additional emergency measures against Israel, including an immediate halt of hostilities and refraining from any action, especially armed actions, which might prejudice the right of the Palestinians in Gaza to be protected from acts of genocide
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765455343037923577#m  3/6/24
+    ***
+    >BREAKING| The measures also state that Israel shall immediately enable the provision of urgently needed basic services and humanitarian assistance to address starvation by suspending its military operation in Gaza, lifting its blockade of the strip, and rescinding measures that affect the access of Palestinians in Gaza to humanitarian aid.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765457933746274390#m  3/6/24
+    ***
+    >BREAKING| Israel's ambassador to the UN Gilad Erdan: If the UN Secretary-General does not activate Article 99 in favor of our abductees and bring the Security Council into a discussion on the sexual atrocities committed by Hamas, Israel should break the tools and take severe actions including closing the UN headquarters in Jerusalem, deporting Senior UN officials from Israel and evacuating UNRWA compounds from Jerusalem.
+    >
+    >(Illustrative photo)  
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765462284950802563#m  3/6/24
+    ***
+    >"I'd rather be a racist than a bore" says Israeli historian Benny Morris in a circulating video when students confronted him with some of his racist and genocidal views on the Palestinian people.
+    >https://nitter.esmailelbob.xyz/QudsNen/status/1765482533079195985#m  3/6/24  
+    >https://files.catbox.moe/22iiph.mp4  3/6/24  
+    ***
+    >BREAKING:
+    >Video has been released of dead and injured Israeli soldiers
+    >
+    >Circulating footage of an Israeli soldier filming himself inside a troop carrier that was hit by an Al-Yassin 105 anti-tank round, killing and wounding the crew, with the sound of burning being heard in the background.
+    >https://nitter.esmailelbob.xyz/Megatron_ron/status/1765491638082646465#m  3/6/24  
+    >https://files.catbox.moe/h0hxtn.mp4  3/6/24  
+    ***
+    >⚡️BREAKING 
+    >
+    >US-owned ship hit by the Houthis is about to sink 
+    >
+    >The crew of the bulk carrier True Confidence abandoned the ship
+    >
+    >This indicates that the ship is about to sink and is seriously damaged, and would be the first US ship to be sunk by the Yemenis
+    >https://twitter.com/IranObserver0/status/1765403910406058018  3/6/24
+    ***

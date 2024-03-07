@@ -12,13 +12,13 @@ sometimes the account is banned and it will not work until I manually fix it. it
 
 ## current proxy url
 ```
-https://artistic-performer-electrical-symbol.trycloudflare.com/v1
+https://brands-somewhere-clean-faced.trycloudflare.com/v1
 ```
 **password**
 basilisk
 
-##### [instructions](https://artistic-performer-electrical-symbol.trycloudflare.com)
-##### [ST preset](https://artistic-performer-electrical-symbol.trycloudflare.com/preset.json)
+##### [instructions](https://brands-somewhere-clean-faced.trycloudflare.com)
+##### [ST preset](https://brands-somewhere-clean-faced.trycloudflare.com/preset.json)
 
 ##### contact
 - hask1911@proton.me

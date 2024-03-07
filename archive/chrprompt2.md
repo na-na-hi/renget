@@ -92,4 +92,7 @@ Luka & Nine: How did you two meet?
 
 ##->**Lore and Misc Questions**<-
 
-**Delete this once there's someone gets a question here**
+Vanon, you don't use black to outline your drawings; how do you go about choosing which shade would work best?
+
+-> ![confusion](https://i.imgur.com/s6EpPOv.png) <-
+->I hope this makes sense to you :d <-

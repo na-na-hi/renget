@@ -59,6 +59,7 @@ Ava Avalon | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
+Beau | M | Espeon | Blaziken (Dav (dah-vh), M, Blaziken, ?) & Munchlax (Mako, M, Munchlax, ?) | ??? | [???](https://rentry.org/vpmdcloverpb#beaudavmako)
 N/A | F | Minun | Raichu (M, Native) | Clover Guild Gardener/Bounty Hunter | [Jolly](https://rentry.org/vpmdcloverpb#minunraichu)
 Charm/Smokey | F | Charmander | Natu (M, Native) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmnatu)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle, Native) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)
@@ -119,6 +120,8 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
 	* [The Wag of a Finger: Nobody Outpizzas the Munch (ft. Beast)](https://rentry.co/tfisz8)
 	* [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk)
+* Beau the Espeon
+	* [Within Me (ft. Beau)](https://rentry.org/dy7aab2h)
 * Bill the Growlithe
 	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
@@ -599,6 +602,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [We're Team Overclock: Chapter 2 (ft. Error)](https://rentry.org/ironvaliant5)
 * [Togetic's Echoes of Adventure](https://rentry.org/3odi7xbf)
 * [Black, Blue, And Red all Over (ft. Turk)](https://rentry.org/turklucario3)
+* [Within Me (ft. Beau)](https://rentry.org/dy7aab2h)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

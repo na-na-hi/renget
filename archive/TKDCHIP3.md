@@ -33,6 +33,11 @@
     ***
     >WATCH: Hezbollah published a video showing the operation that targeted the Jal al-Alam and Metulla IOF army sites.
     >https://files.catbox.moe/uxek7w.mp4  New  3/3/24
+    ***
+    >MUST WATCH: Hezbollah published a video showing the targeting of an IOF army vehicle at the Birkat Risha site using an Almas ATGM.
+    >
+    >This is yet another recorded impact.
+    >https://files.catbox.moe/uda8ar.mp4  New  3/6/24  
  !!!note
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
@@ -108,4 +113,10 @@
     ***
     >Someone should give this Super Granny a medal
     >https://files.catbox.moe/pnb3dc.mp4  New 3/5/24
+    ***
+    >"I'd rather be a racist than a bore" says Israeli historian Benny Morris in a circulating video when students confronted him with some of his racist and genocidal views on the Palestinian people.
+    >https://files.catbox.moe/22iiph.mp4  New  3/6/24        
+    ***
+    >BREAKING: Video has been released of dead and injured Israeli soldiers
+    >https://files.catbox.moe/h0hxtn.mp4  New  3/6/24 
     ***

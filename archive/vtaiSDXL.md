@@ -502,6 +502,9 @@
 -> or <-
 !!! info other lora, check tags from metadata?
 -> [Catbox](https://files.catbox.moe/etc37e.safetensors) <-
+-> or even <-
+!!! info third lora to test, check tags from uploader
+-> [Civitai](https://civitai.com/models/336372/koseki-bijou-for-ponyxl) <-
 
 ##### -> Shiori Novella <-
 !!! note Tags suggested by uploader, not me
@@ -723,3 +726,6 @@
 
 ##### -> Shizukou <-
 -> [Catbox](https://files.catbox.moe/pvf1kk.safetensors) <-
+
+##### -> Smug Alana <-
+-> [Civitai](https://civitai.com/models/336477/smugalana-vtuber) <-

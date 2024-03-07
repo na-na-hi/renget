@@ -1,20 +1,21 @@
 -> [cbox](https://my.cbox.ws/clairo) <-
 ![](https://media.discordapp.net/attachments/1112655651416588371/1208669654889791529/IMG_2553.gif?ex=65e42055&is=65d1ab55&hm=5cc9818cbea9ccd1695f12aaed82bd3d3a6e65b99754ce84c4332e9314f0e7ed&)
--> ˙˖ 𖥔 welcome to [luciel](https://rentry.org/edwardnashton) & [enny's](https://rentry.org/clairo) url hoard (91) <-
+-> ˙˖ 𖥔 welcome to [luciel](/edwardnashton) & [enny's](/clairo) url hoard (91) <-
 -> ke**y** — ~~nft~~ ◞ **in use** ◞ ==picky== ◞ *decorated* <-
 -> ask to use any url plzz we dont bite just ask nicely <-
+-> all rentries linked ! <-
 -> wishlist . /folklore /herobrine , /applejack <-
 ![!](https://images-ext-2.discordapp.net/external/X7ec2u4vrzGYOXr-QXJ_Lf-BTv3ej-J5sdIkLJbDc5o/%3Fv%3D26dffab5/https/gifcity.carrd.co/assets/images/gallery48/5501d663.gif)
 ---
 
 ![](https://yokai.crd.co/assets/images/gallery20/aff9a473.gif?v=b4df531c) GAMES (20)
-[johnmactavish](https://rentry.org/johnmactavish) [soapmactavish](https://rentry.org/soapmactavish) [ghostsoap](https://rentry.org/ghostsoap) [lolbit](https://rentry.org/lolbit) [p-chan](https://rentry.co/p-chan) *[sackboy](https://rentry.org/sackboy)* ==[c148](https://rentry.co/c148)== *[starling](https://rentry.org/starling)* *[plinius](https://rentry.co/plinius)* [alicedeross](https://rentry.co/alicedeross) [disciple](https://rentry.co/disciple) [skelehorse](https://rentry.org/skelehorse) [carlcupcake](https://rentry.org/carlcupcake) [timmynook](https://rentry.org/timmynook) [kirbygame](https://rentry.org/kirbygame) [dancedancerev](https://rentry.org/dancedancerev) [yamero-chan](https://rentry.org/yamero-chan) [slimecube](https://rentry.org/slimecube) [snowgo`I`em](https://rentry.org/snowgoIem) [leonscottkennedy](https://rentry.org/leonscottkennedy) [adawongs](https://rentry.org/adawongs) [GEAR-BOY](https://rentry.org/GEAR-BOY)
+[johnmactavish](/johnmactavish) [soapmactavish](/soapmactavish) [ghostsoap](/ghostsoap) [lolbit](/lolbit) [p-chan](/p-chan) *[sackboy](/sackboy)* ==[c148](/c148)== *[starling](/starling)* *[plinius](/plinius)* [alicedeross](/alicedeross) [disciple](/disciple) [skelehorse](/skelehorse) [carlcupcake](/carlcupcake) [timmynook](/timmynook) [kirbygame](/kirbygame) [dancedancerev](/dancedancerev) [yamero-chan](/yamero-chan) [slimecube](/slimecube) [snowgo`I`em](/snowgoIem) [leonscottkennedy](/leonscottkennedy) [adawongs](/adawongs) [GEAR-BOY](/GEAR-BOY)
 
 -> ![](https://yokai.crd.co/assets/images/gallery20/aff9a473.gif?v=b4df531c) TV SHOWS  (7)->
- -> **[soldierboy](https://rentry.org/soldierboy)** [queenmaeve](https://rentry.org/queenmaeve) [femlander](https://rentry.org/femlander) [homelandermilk](https://rentry.org/homelandermilk) [transhomelander](https://rentry.org/transhomelander) [gayhomelander](https://rentry.org/gayhomelander) [blueybingo](https://rentry.org/blueybingo) ->
+ -> **[soldierboy](/soldierboy)** [queenmaeve](/queenmaeve) [femlander](/femlander) [homelandermilk](/homelandermilk) [transhomelander](/transhomelander) [gayhomelander](/gayhomelander) [blueybingo](/blueybingo) [moomin](/moomin) [nichijou](/nichijou) ->
 
 ![](https://yokai.crd.co/assets/images/gallery20/aff9a473.gif?v=b4df531c) MOVIES AND COMICS (21)
-[edwardscissorhands](https://rentry.co/edwardscissorhands) **[creep](https://rentry.org/creep)** [peacemaker](/peacemaker) [heartstopper](https://rentry.org/heartstopper) *[gwenpool](https://rentry.org/gwenpool)* [edward](https://rentry.org/edward) ***[edwardnashton](https://rentry.org/edwardnashton)*** [riddlebatporn](https://rentry.org/riddlebatporn) [coraline](https://rentry.org/coraline) [puckman](https://rentry.org/puckman) [monstersincorporated](https://rentry.org/monstersincorporated) [monsters-university](https://rentry.org/monsters-university) [brucewayner34](https://rentry.org/brucewayner34) [brucewaynerule34](https://rentry.org/brucewaynerule34) [play-boys](https://rentry.org/play-boys) ~~[peniparker](https://rentry.org/peniparker)~~ ~~[peterparker](https://rentry.org/peterparker)~~ [sulley](https://rentry.org/sulley) ~~[pauldano](https://rentry.org/pauldano)~~ ==[ohara](https://rentry.org/ohara)== [superman](https://rentry.org/superman)
+[riddler](/riddler) [edwardscissorhands](/edwardscissorhands) **[creep](/creep)** [minions](/minions) [peacemaker](/peacemaker) [heartstopper](/heartstopper) *[gwenpool](/gwenpool)* **[edward](/edward)** ***[edwardnashton](/edwardnashton)*** [riddlebatporn](/riddlebatporn) [coraline](/coraline) [puckman](/puckman) [monstersincorporated](/monstersincorporated) [monsters-university](/monsters-university) [brucewayner34](/brucewayner34) [brucewaynerule34](/brucewaynerule34) [play-boys](/play-boys) ~~[peniparker](/peniparker)~~ ~~[peterparker](/peterparker)~~ [sulley](/sulley) ~~[pauldano](/pauldano)~~ ==[ohara](/ohara)== [superman](/superman)
 
 -> ![](https://yokai.crd.co/assets/images/gallery20/aff9a473.gif?v=b4df531c) MUSIC (27)->
 -> ***[clairo](https://rentry.org/clairo)*** [mook](https://rentry.org/mook) [thestupendium](https://rentry.org/thestupendium) [willypack](https://rentry.org/willypack) [iloveyouso](https://rentry.org/iloveyouso) [bettys-cardigan](https://rentry.org/bettys-cardigan) [boburnham](https://rentry.org/boburnham) ==[bettyscardigan](https://rentry.org/bettyscardigan)==[bettiescardigan](https://rentry.org/bettiescardigan) [roryinear`I`y20s](https://rentry.org/roryinearIy20s) [in`I`ovewithaghost](https://rentry.org/inIovewithaghost) [tommy-february6](https://rentry.org/tommy-february6) ==[schnuffelbunny](https://rentry.org/schnuffelbunny)== [rockmyemotions](https://rentry.org/rockmyemotions) 
@@ -22,3 +23,6 @@
 
 ![](https://yokai.crd.co/assets/images/gallery20/aff9a473.gif?v=b4df531c) MISC. (16)
 [ihascupquake](https://rentry.co/ihascupquake) [sinjindrowning](https://rentry.co/sinjindrowning) *[sockmonkey](https://rentry.org/sockmonkey)* [winkles](https://rentry.org/winkles) [amazonalexa](https://rentry.org/amazonalexa) [girlflux](https://rentry.org/girlflux) [massiveshot](https://rentry.org/massiveshot) [videostar](https://rentry.org/videostar) [bunnydj](https://rentry.org/bunnydj) ==[march4th](https://rentry.org/march4th)== ==[november2nd](https://rentry.org/november2nd)== [jibbitz](https://rentry.org/jibbitz) [jibbit](https://rentry.org/jibbit) [chamoypicklekit](https://rentry.org/chamoypicklekit) [alimelly](https://rentry.co/alimelly) [instagramreels](https://rentry.co/instagramreels) [kelcebrothers](https://rentry.org/kelcebrothers)
+
+-> traded / given away <-
+-> *n/a* <-

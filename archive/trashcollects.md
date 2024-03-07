@@ -3202,6 +3202,10 @@ Ponydiffusionv6 XL Artist Comparison
 >Nabbed an anons artist list from /h/ and put together some grids for PDXL, gonna do one for anime girls later and maybe run the EF artist list I got just to see what does and doesn't work
 https://mega.nz/folder/kvwQHLiA#fmI-1cgoCagt3vBEhHudag
 
+Autismmix Artist Comparison
+>Went ahead and put together an xyz spreadsheet for autismmix of all the artists from a txt file posted some threads ago
+https://mega.nz/folder/x25QyQhL#MWpbJfSDIBo6dpn9APpGVQ
+
 ### Different LORA sliders - what do they mean?
 ![XY-Plot LORA sliders](https://files.catbox.moe/gtddu1.png)
 
