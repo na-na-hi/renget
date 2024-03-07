@@ -70,6 +70,7 @@ Q1: Do you accept pets?  If so, from who?
 
 ###Fern
 Q1: How do you deal with being so fluffy?
+Q2: why are you so small?
 
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
@@ -81,6 +82,7 @@ Q2: Favorite drink?
 ###Tropius
 Q1: What are the pros and cons of being so huge?
 Q2: How well do you get along without having hands?
+Q3: Does the banana that's hanging on your chin ever go bad?
 
 ###Linoone
 Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?
@@ -92,6 +94,8 @@ Q1: What's it like going from being an XCOM soldier to being a cute fluffy littl
 ###Gus
 Q1: r u bald?
 Q2: What would be your ideal qualities in a partner?
+
+###Stumpy
 
 ##->**General Questions**<-
 

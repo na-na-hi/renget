@@ -48,6 +48,7 @@
 **Tomoe Carmine (Production Kawaii)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/JT5iHYiD
 **Yuzuki Choco (Hololive)** - https://civitai.com/models/332256/yuzuki-choco-hololive-commission
 **Virgil (KoMETA)** - https://mega.nz/folder/47Yj3ZIS#klaoBwVZI_u5DbjmCjkqRQ/folder/cuJg2LKa
+**Ilu Fluor (Indie)** - https://civitai.com/models/338524/ilu-fluor-vtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -75,7 +76,8 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **RakkunVT (OWOzu)** - https://civitai.com/models/328428/rakkunvt
 **Tenma Maemi (Phase Connect)** - https://civitai.com/models/107434/tenma-maemi
 LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947/koseki-bijou-hololive
-**Nyatasha Nyanners (VShojo)** - https://civitai.com/models/333212/nyanners-vtuber 
+**Nyatasha Nyanners (VShojo)** - https://civitai.com/models/333212/nyanners-vtuber
+**Amalee (Indie)** - https://civitai.com/models/338229/amalee
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

@@ -115,6 +115,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Team Moonshine: Troubled Sleep](https://rentry.org/moonshinesleep)
 	* [The Adrian and Enny Adventure](https://rentry.org/AdrianEnnyCave)
     * [Team Moonshine: The Evolution Situation](https://rentry.org/moonshinevile)
+	* [Circus Freaks (ft. Kenny)](https://rentry.org/kennyabra)
 * !~ %green%[Beast the Muchlax](https://rentry.org/twafrentry)%% ~!
 	* [The Wag of a Finger (ft. Beast)](https://rentry.org/vxugg) 
 	* [The Wag of a Finger: Second Course (ft. Beast)](https://rentry.org/he9vhy)
@@ -603,6 +604,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Togetic's Echoes of Adventure](https://rentry.org/3odi7xbf)
 * [Black, Blue, And Red all Over (ft. Turk)](https://rentry.org/turklucario3)
 * [Within Me (ft. Beau)](https://rentry.org/dy7aab2h)
+* [Circus Freaks (ft. Kenny)](https://rentry.org/kennyabra)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

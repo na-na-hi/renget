@@ -125,26 +125,32 @@ Exhibition Match (Jin, D)
 https://rentry.org/iimg4p6h
 (Jin, Shinro, Yuma, Ezaki, mention of Ichika)
 https://rentry.org/KonohaFive 
+Illusionary History (Kiko, Natsuo)
+https://rentry.org/IllusionaryHistory
+Operation Tragic Backstory (WIP)
+https://rentry.org/weizoy62
 
 Relationship Charts:
->Masu
+Masu
 >>92079115
->JIn
+JIn
 >>92068277
->Remilia Orochimaru
+Remilia Orochimaru
 https://rentry.org/g96kt64m
->Ichika Chinoike
+Ichika Chinoike
 https://rentry.org/8tsobb2p + >>92070725
->Nodao Douji
+Nodao Douji
 https://rentry.org/ugiokw5e + >>92079371
->Himari Miko
+Himari Miko
 https://rentry.org/HimariChart
->Kiko
+Kiko
 https://rentry.org/DogNotebook
->Kazen Uzumaki
+Kazen Uzumaki
 https://rentry.org/5ve76r7v
 Kichōna
 https://rentry.org/mndacoyg
+Taiho (+Background and Strategy)
+https://rentry.org/z7myt7wk
 ```
 
 #Fighting Autism Tournament
@@ -508,9 +514,10 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Art:
->i can explain
->>92102560
-
+>vodoo
+>>92111890
+>dementia girl
+>>92109545
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

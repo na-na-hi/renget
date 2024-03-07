@@ -6,12 +6,13 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 276th time, what is Ope?!
+For the 277th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: Bread & Fred collab with Zeta on Zeta's channel (Thu 03/07 9PM CT)
+Next stream (Bread & Fred collab with Zeta on Zeta's channel, Thu 03/07 9PM CT)
+https://www.youtube.com/watch?v=GbEEw5lk92M
 Last stream (BIGFOOT collab with Bijou and Shiori)
 https://www.youtube.com/watch?v=r0Qn-uf7bWY
 Previous appearance (VC on Fauna's Minecraft World Tree anniversary stream)
@@ -36,7 +37,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>70733855
+Previous thread: >>70800893
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

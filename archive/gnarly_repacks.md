@@ -18,6 +18,8 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Yakuza 3 (+RPCS3, DLC) [Gnarly Repacks] [12.9 GB] - REMADE (via request, apparently the PS3 version has stuff that the PC remaster cut)
+https://bin.0xfc.de/?7ba20e53a9b20085#6gyMaPXX7pdwJvg3ecGtSTHSdGhgpFie7ePmQ4F5qdvB
 Hitman Absolution - Professional Edition [Gnarly Repacks] [8.19 GB] - REUPLOAD
 https://bin.0xfc.de/?4d915547565fb496#8TpYsMctQHrAxkpduwb43B6RNNjNhHFEZ7kGNWuLUJvh
 God of War: Ascension (+RPCS3) [Gnarly Repacks] [13.7 GB] - REUPLOAD

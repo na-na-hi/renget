@@ -604,6 +604,7 @@
 03/2024|[Not all Layers of LLMs are Necessary during Inference](https://arxiv.org/abs/2403.02181)
 03/2024|[Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models](https://arxiv.org/abs/2403.02178)
 03/2024|[DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818)
+03/2024|[GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://arxiv.org/abs/2403.03507)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)
@@ -626,3 +627,4 @@
 12/2023|[HuggingFace - Mixture of Experts Explained](https://archive.is/8r7t9)
 01/2024|[Vgel - Representation Engineering](https://archive.is/SHV3E)
 02/2024|[Lilian Weng - Thinking about High-Quality Human Data](https://archive.is/1K0EM)
+03/2024|[rayliuca - T-Ragx Project Write Up (Translation RAG)](https://archive.is/VU9eI)
