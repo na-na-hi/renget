@@ -488,7 +488,7 @@ Thanks to **nathom** for Streamrip<-
 
 ->And a special thanks to the amazing admins that helps to keep order and help people in the support channel:<-
 
-->**Andrea, DJDoubleD, Elshara Silverheart, ovosimpatico, PanChi, S ', Scott the Woz, Shoenko, Shooter, TheKVT, Tmxkwpn, Tony Stark, and ZaidaNulled**<-
+->**Andrea, DJDoubleD, Elshara Silverheart, ovosimpatico, PanChi, r82, S ', Scott the Woz, Shooter, TheKVT, Tmxkwpn, Tony Stark, and ZaidaNulled**<-
 
 ->And thank you all the amazing people that helps spread the site and to you who just enjoy using it :heart:<-
 

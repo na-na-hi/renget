@@ -105,10 +105,12 @@ When her zone reaches true absurdity, all rules stop applying. It might last a t
 There has only ever been one recording of true absurdity, and while the death count was low, it left many people awakened and traumatized. This is believed to be the best case scenario.
 
 Infectious Personality(Leah):
-Info cost: purchased. Bounty: 5$
-A recently awakened woman capable of transferring her emotion to certain objects. Spends a lot of time online, and as such her entire life has basically been fully documented despite her attempts to stay anonymous. She has awakened after a failed suicide attempt, and has stayed unaware of that awakening for a few months. Her potential is believed to be low (possibly medium now). While her magic could evolve into a more dangerous mind control type, her lack of ambition makes her a non threat to most people. She is held by the Lady of Circuits in one of her factories, it is unknown what they are using her for.
+Info cost: purchased. Bounty: 2B Bought
+A woman of colossal magical potential capable of transferring her and other’s emotion to others, including objects. After training with her sister for a few years, she was able to use her magic to her fullest potential. While her magic is primarily emotion focused, she has infused certain objects with the desire to protect her, giving them what some may consider a soul. Her abilities are also incredibly good at bypassing soul defenses, and fighting her for an extended period of time is considered suicide in the most literal sense of the word.
 
-The bounty has been set by one of our customer who was called a slur by her online. They said that ‘a comically low bounty was more insulting than no bounty at all’.
+As most powerful magic users prefer to fight alone, it is not uncommon for them to crumble under insecurities they may have built under decades of stoicism and loneliness. If you wish to fight her, it is highly encouraged to be emotionally healthy, have things that truly matter to you beyond your own survival, and most importantly, to never lie to yourself. Lacking emotions entirely, may it be because of a mental or magical disability, does not help, as a matter of fact, it will only make you less prepared as your body has to withstand feelings it never had to deal with previously.
+
+She is currently in a casual relationship with the Infinite Reflection.
 
 Segmented Reality(Sarah):
 Info cost: purchased. Bounty: 100K.

@@ -114,11 +114,11 @@ Guard Dog | If the User is affected by Intimidate, Attack is increased by 1 inst
 **Gulp Missile** | The User's Basic Attack is replaced with Gulp Missile. When the User uses Surf or Dive, Gulp Missile will have one of 3 effects. 2-10; 4 true damage, no effect. 11-15; 4 true damage, Defense decreased by 1. 16-20; 4 true damage, Paralysis. 
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to *Burn*'s Attack decrease.
 Hadron Engine | At the start of the battle, Miraidon's Special Attack is increased by 1. Miraidon may summon Electric Terrain as a free Action once per battle.
-**Harvest** | If a Berry was used last turn, there is a 50% chance they will find a Berry Leaf, 100% chance in Harsh Sunlight. The User's Basic Attack is replaced with Harvest, which allows the User to search for Berry Leaves.
+**Harvest** | If a Berry was used last turn, there is a ≥11 chance they will find a Berry Leaf. 100% chance in Harsh Sunlight. The User's Basic Attack is replaced with Harvest, which allows the User to search for Berry Leaves.
 **Healer** | Roll 1D20. 11-20; The User can cure an Ally of all Major Status Conditions at no AP cost, provided they have a Defensive Focus.
 Heatproof | When the User is hit with a Fire-Type Move, its damage is decreased by 5.
 Heavy Metal | The User is twice as heavy as they normally would be. They also enjoy heavy metal.
-**Honey Gather** | If the User lands a finishing blow, roll 1D20. Upon rolling 20, the Opponent drops Tasty Honey. +1 roll chance every 5 Levels until Level 50.
+**Honey Gather** | When the User lands a finishing blow, they may roll 1D20. =20, the Opponent drops Tasty Honey. +1 roll chance every 5 Levels until Level 50.
 Hospitality | Once per battle, the User may heal an Ally for 2 HP at no cost.
 **Huge Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 Hunger Switch | The User switches between Full-Belly Mode and Hangry Mode every turn.

@@ -1,9 +1,9 @@
 #/aids/ — AI Dynamic Storytelling General
 
-![suggested OP image](https://i.imgur.com/I2uYlvn.png)
-mfw TTMOOT Edition
+![suggested OP image](https://i.imgur.com/b6mxMWp.jpg)
+Just Stop Edition
 AI Dynamic Storytellers are games that use text & image-generation AI to create limitless, open-ended, interactive fiction.
-Last thread: >>468190562
+Last thread: >>468328910
  
 \>READ FIRST: https://i.imgur.com/nvpBZQw.jpg
 
@@ -30,10 +30,10 @@ Prompts: https://aetherroom.club
 ▶/aids/ Events
 https://aidsrentfree.github.io/decks
 Rules & Old Themes: https://aidsrentfree.github.io/fridaids ; https://aids.miraheze.org/wiki/Theme_Fridays
-Science and Laboratory Experiments Friday is over, enjoy the experimental prompts! Last: >>467690367
+\>Theme suggestions for next week are being voted on! https://strawpoll.ai/poll/vote/TZYUd0EN2q9l
  
 ▶News
-\>(03/05) Saga gets Claude 3, coreweave got dowies, it's ogre for NAIshills 
+(03/05) Saga gets Claude 3 >>468117924, coreweave has dowies >>468319079, it's ogre for NAIshills 
 (03/04) NAI makes jap imgen, goes back to Japan next month https://twitter.com/novelaiofficial
 (03/03) kek https://www.nytimes.com/2024/03/01/technology/elon-musk-openai-sam-altman-lawsuit.html
 (02/27) Mistral AI announce new proprietary models, receive $16M Microsoft investment and form release partnership, are adamant nothing has changed: https://archive.is/3ypKx ; https://i.imgur.com/x1BqPwl.png

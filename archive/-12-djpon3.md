@@ -113,3 +113,16 @@
 <-
 
 ->![div](https://64.media.tumblr.com/015d1921eb6f345f32fd4e96646d01fe/f169f0533fe2c6a6-1a/s400x600/b625a42e741af8628c7a6785a33d0bdf951ad947.pnj)<-
+
+####->`11 - mine`<-
+
+!!! info
+    ### please credit me if using any of these
+
+->![div](https://64.media.tumblr.com/fef61cc57015ee7b8b408d3bf6a44556/f169f0533fe2c6a6-61/s400x600/ec47c9e773b5042d787f1e3f30f84322d7e6883e.pnj)<-
+
+->
+![](https://64.media.tumblr.com/00ed8f1966142fc679c096f9dc68aef0/22d781cf8a9ae5c6-20/s100x200/7cb2a18acfcf782299a22a62ab19f4dc749c0729.pnj) ![](https://64.media.tumblr.com/fc7c571efab76fa67b70520da904ebe8/22d781cf8a9ae5c6-96/s100x200/66f014a9e3e93cddc4c2a199d4f51febda1016ab.pnj) ![](https://64.media.tumblr.com/159061c9d650b40de0ecfb8db41ced02/22d781cf8a9ae5c6-d9/s100x200/6f333bf46976d4aa636aa7509de73b5525c41b26.pnj) ![](https://64.media.tumblr.com/d3f2694b70b0dceca3a501b77dd4403a/22d781cf8a9ae5c6-41/s100x200/b6e1b6959443420ea2bb31bca407ea87258e70ad.pnj) ![](https://64.media.tumblr.com/e2c1be677855a4db2205180e4a454fa0/22d781cf8a9ae5c6-1a/s100x200/ceb25ecaf2d86148255852067492ab431cc961de.pnj) ![](https://64.media.tumblr.com/8a91b95afc25f8eb3a91bc14af0b42c6/22d781cf8a9ae5c6-a0/s100x200/d10e458865e915773acb12b807fd095fbaef8a69.pnj) ![](https://64.media.tumblr.com/9ff8015037614d3b40b0555167641c5f/22d781cf8a9ae5c6-0b/s100x200/5790e08c959a6e815d9049595caf3881c912ab76.pnj) ![](https://64.media.tumblr.com/444868c5c3834056e6dc11a3324a0114/22d781cf8a9ae5c6-39/s100x200/556d70c0462f31c24d09826b4a8bf45c50e4333d.pnj) ![](https://64.media.tumblr.com/96d077a6fa0986a1674ed3e0c83b571c/22d781cf8a9ae5c6-fc/s100x200/dc5c6e9e3d8893ed1639e924968ae210098060b5.gifv) ![](https://64.media.tumblr.com/3343c549f1ca1707b61830a43b3f9586/22d781cf8a9ae5c6-f3/s100x200/3beb1528533015b72b08996ff270c8b3e8881a84.pnj) ![](https://64.media.tumblr.com/9805b5d75c9ad453c511cb68ec8e0973/22d781cf8a9ae5c6-52/s100x200/a711115267a52832d6ec3916151dd5afca7b42a5.pnj) ![](https://64.media.tumblr.com/07eaefe882d3f2c9974bd618bf607421/22d781cf8a9ae5c6-9a/s100x200/5a577077cfe564a8d61026c56fbf13497b9c57c3.gifv) ![](https://64.media.tumblr.com/9683f418e15215a4f73bc6c2401bd8e5/22d781cf8a9ae5c6-70/s100x200/e85d69e7832df7f4d049c18771639aed367d0434.pnj)
+<-
+
+->![div](https://64.media.tumblr.com/015d1921eb6f345f32fd4e96646d01fe/f169f0533fe2c6a6-1a/s400x600/b625a42e741af8628c7a6785a33d0bdf951ad947.pnj)<-
