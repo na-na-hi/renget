@@ -505,7 +505,10 @@ Biography generated!
 ###Rain
 {Pending}
 
-###Mandibuzz
+###Mandibuzz/Gliscor
+{Pending}
+
+###Cider
 {Pending}
 
 ###Kaz/Solid Linoone

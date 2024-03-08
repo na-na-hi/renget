@@ -6,7 +6,7 @@
 	
 character | info | links
 ---------- | ----------- | ------
-Kullervo | Schizophrenic, unwashed, feral femboy with a one-track mind set on revenge. Built for incest. Made for (Finnish) theme week. Five greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/kullervo-2c190c29) + [CATBOX](https://files.catbox.moe/a3cjlu.png)
+Kullervo | Schizophrenic, unwashed, feral femboy with a one-track mind set on revenge. Built for incest. Made for (Finnish) theme week. Seven greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/kullervo-2c190c29) + [CATBOX](https://files.catbox.moe/rwgbkg.png)
 Akihiko | Cute boy who loves you lots and is very normal about it. He absolutely won't rape you senseless and gush about it in his diary. Five greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/akihiko-67fe9899) + [CATBOX](https://files.catbox.moe/bibjjh.png)
 Circe | Rich girl with a taste for human flesh. She'll treat you like the pig you are. Four greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/circe-1a4d3f2f) + [CATBOX](https://files.catbox.moe/3txpvn.png)
 Shouji | Just a regular salt-of-the-earth guy in 1980's Tokyo. Potential Onii-chan. Don't ask him what he does for work. Two greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/shouji-077b38ac) + [CATBOX](https://files.catbox.moe/2n6ood.png)

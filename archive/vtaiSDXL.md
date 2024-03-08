@@ -456,6 +456,15 @@
 	shizukou, short hair, bangs, blue eyes, hair ornament, dress, bow, collarbone, jacket, purple hair, ahoge, shoes, choker, white dress, socks, off shoulder, hair bun, black footwear, black jacket, sleeves past wrists, double bun, sleeves past fingers, small breasts, flat chest
 -> [Catbox](https://files.catbox.moe/14v3da.safetensors) <-
 
+##### -> Clauvio <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	Long Hair/Base: Clauvio, long hair, grey eyes, shirt, animal ears, hair between eyes, very long hair, collarbone, tail, short sleeves, grey hair, barefoot, mouse ears, off shoulder, mouse tail, black shirt, mask, mouse girl, mask on head, sleep mask, messy hair
+	Short Hair 1: Clauvio, grey eyes, long sleeves, hat, bow, holding, animal ears, tail, grey hair, frills, capelet, beret, mouse ears, brown headwear, mouse tail, mouse girl, grey bow
+	Short Hair 2: Clauvio, short hair, shirt, thighhighs, gloves, long sleeves, animal ears, tail, white shirt, grey hair, shorts, black gloves, black thighhighs, grey eyes, mouse ears, mouse tail
+-> [Catbox](https://files.catbox.moe/rjzp54.safetensors) <-
+
 #### -> Misc <-
 ***
 ##### -> (Nerissa) Aradia Ravencroft <-

@@ -335,7 +335,7 @@ Ever wonder what a Wroggi's poison-sac feels like?
 
 ---
 #### *[Possibly the first Legiana lewd ever [M Human x F Anthro Legiana]](https://rentry.org/ghgmd)*
-A sequel to '[Spikes, spikes everywhere](https://pastebin.com/H21Y0Q8C)' from the 23rd numbered /trash/ MH thread.
+A sequel to '*[Spikes, spikes everywhere](https://pastebin.com/H21Y0Q8C)*' from the 23rd numbered /trash/ MH thread.
  
 ---
 #### *[Primal Urges [M Human x F Tzi-Tzi]](https://pastebin.com/4reXpGC5)*
@@ -352,6 +352,7 @@ Breeding season is truly underway in the new world. From the 22nd numbered Monst
 ---
 #### *[Star-Crossed [M Human x F Valstrax]](https://rentry.org/theargentcomet)*
 Every Valstrax eventually feels a calling...
+A sequel to '*[The Gifting Comet](https://rentry.org/fh7v6vcz)*'
 
 ---
 #### *[The tale of the Hungry Bagel and the Unlucky Hunter [M Human x Herm Anthro Bazelgeuse]](https://pastebin.com/RX6CnL8e)* %red%{Futa}%%

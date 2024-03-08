@@ -1092,6 +1092,128 @@ Not gay but I could pick it up
 >"You're not gonna break me." He protests, quieter this time.
 >"You're already broken, Lupe." You start, picking up the muzzle and offering it again. 
 >"And I'm gonna fix you. Okay?"
-(End for now) 
+>It's a tense moment, and both of you stand in a silent cell for five seconds.
+>It only breaks when he takes the muzzle from your hand, which is the most ginger thing you've seen him do.
+>He scrutinizes the head-cage, turning it over in his sweaty mitts. He probably fought hard to avoid exactly this situation during prior rehab attempts. You wonder if being forced into muzzles by the police has left traumatized him. It's unclear whether you should feel sympathy for what isn't his fault, or disgust for what is.
+>By the time you end your daydream, the muzzle is already fastened around his head. He turns to demonstrate that the straps and buckle have been properly tightened. He looks just as scary with it on.
+>"The mitts." he points toward the gloves by your feet. "I'm not puttin' those on. That's just fuckin' humiliating, is what that is."
+>Scooping them from the concrete to get a better look, it's hard to disagree. The white mittens are covered in bright red hearts of varying sizes.
+>"Well, you have to." you retort. "I'm not getting shredded open just because you get a twitch in your finger." 
+>Peering into the glove reveals how it works. It has a cuff on wrist that secures it to the forepaw, and the inside is made of a harder plastic that has been scratched to hell. At least it sort of bends like a mitten. Sort of.
+>"I ain't wearin' that girly shit." The wolf spits. "What're you, fuckin' gay?"
+>"...what? No." You lie. "Look, nobody else is here, and I'm not going to laugh at you. Plus you've already got the muzzle on."
+>"...whatever man," he nabs the gloves off of you and the cuffs click onto his wrists with a satisfying snap.
+>"Don't worry. If your back gets itchy, I'll scratch it for you." you muse, trying to lighten the mood. 
+>After seeing a filthy, prison-hardened wolf with girly heart mittens on, you stuggle not to laugh. He glares at you and crosses his forepaws, which only heightens the juxtaposition. You break into a giggle.
+>"Fuck you, asshole!" he snaps. "If I didn't have these on I would strangle your wimpy ass."
+>"Yeah, that's kind of the point." you start, taking a step closer. "Now that you're all covered I can finally come over to you."
+>"Stay the fuck back," he warns, cutting the slack from his chains. "You're supposed to be my emotional support? Yeah right. Ever since you came in you've been bossing me around, laughing at me and shit. You're the same as the cops that threw me in here. You tricked me, so go fuck yourself." 
+>He turns his back to you. It hurts. For a minute you don't know what to do.
+>Well, he can't kill you. Now's the time. You take a deep breath, march straight to him and embrace him from behind. Your head nestles in between his shoulder blades as you feel his warmth for the first time. 
+>"What did I just say?" He tries to pry you off, but doesn't have the hands for it. However, he makes no attempt to flee.
+>"Lupe, I'm sorry I laughed at you after I said I wouldn't. I didn't mean to trick you." Be vulnerable. "This prison stuff is stressful for me too, and I laughed because I needed to relieve that stress." 
+>Again, he says nothing, nor does he return the hug, but his tail does most of the talking, sweeping against your stomach and legsin wide arches.. You let it wag against you several times before you let him go. 
+>"Are we good?" you wonder aloud.
+>He pauses, then turns back to you, "For now? Yeah."
+>For half a second, you swear you see him grin through the muzzle. Real or imagined, that little smile is contagious. You stare at his face a while longer, to see if he'll smile again.
+>"Well?" he prods, gesturing to you with a mitten. 
+>"Right!" you blurt. Crap, how long were you staring at him? "Right, I reckon we get into the therapy."
+>"Yeah, how's this work?" He questions, scratching the fur underneath his armpit.
+>You didn't think you'd have to explain this to him, but at least he seems more willing than before. "So human therapy is based on, uh, physical contact more than anything else. I'm supposed to maximize the amount of my skin that touches you." 
+>"Jesus Christ, you really are gay." He wuffs.
+>"Yeah, you're not gonna like this next part, but... I was advised to sit in your lap." You decide that you are an idiot with no charisma, and backpedal. "BUT we don't have to start with that! Some patients like sitting back to back with their humans, or even just holding hands during therapy."
+>"You just keep listing gayer and gayer shit." He replies, nonplussed.
+>"What!? Lap sitting is like a 7 on the gay scale. Holding hands is probably a 5."
+>His ears perk up, "You would know, sissy. Did you study gay-ology in college? Or did you just pick it up from your boyfriend?"
+>Well, fuck. Cat's out of the bag. You feel your face redden. Let's just steer the conversation back, and hope he doesn't hold this over your head. 
+>"L- I gave you some options. What makes you comfortable?"
+>He chuckles with his maw shut. "The lap thing is fine. Besides, they'll let me out sooner if we make good progress, right?"
+>The chains jingle at his feet while the two of you walk over to his bed. It's pretty lackluster, but it's not like Lupe was the interior decorator. The white sheet is yellowed from sweat and smells just like him.
+>At the foot of the bed, Lupe snags the two mitts below his uniform short, hoisting it up and removing it in a single motion. You're beginning to think that the 'gay scale' is different for wolves, because no straight human would take off his shirt so nonchalantly.
+>Still, you find yourself visually exploring. His stomach is wide, toned and creamy, but the fur quickly darkens as your eyes drift upward. The tuft on his chest is even thicker than his hackles.
+>He doesn't notice you peeking, instead choosing to bask in the cool air to which his torso has been exposed.
+>The moment is short-lived, however, and the wolf turns to sit down, nearly tail-smacking you across the face in the process.
+>The old bedsprings cry for help as Lupe sets his hulking frame onto the mattress. He scoots backward, resting his back against the wall with his tail flopping out to one side.
+>He adjusts his legs into a U-shape, brushing loose chains from the pocket between them. It's not exactly the 'sitting in his lap' position, but probably a more comfortable alternative. You wonder if all wolf anthros have latent nesting instincts.
+>When he's satisfied with the little nest, he looks back at you and pats it twice.
+>On one hand, it feels dangerous to expose your back to him. Is it because he's a criminal? Is it his species that bothers you? In any case, there's a very primal fear about it that you just can't shake. 
+>On the other hand, this new position doesn't make him appear scary at all, or even intimidating. If anything, it's inviting. 
+>"Alright," you respond, not wanting to keep him waiting. The weight of your knees presses into the mattress, before you turn to present your back to him. Your throat parches as your body internalizes what is about to happen. 
+>You thank the stars that he elected to keep his pants on.
+>Before you can scoot in, two gloved paws hook under your armpits, taking you by surprise and dragging you in towards your fate. 
+>Your thoughts fracture and twist around themselves. Between the guttural fear of being mauled, the sudden lack of free will, your coercion into this job and your own sexual panic, it's impossible to know where you stand emotionally. You resolve to think less, if only for a minute.
+>It was the right call to table your feelings, because the next seconds are so overwhelming to your senses that it would have physically hurt to process everything at once.
+>Going from the chilly basement air to such immense heat is like showering in cold water, then stepping into a jacuzzi. Goosebumps spread across your whole body now that he is upon you. You are erect.
+>In no time at all, the wolf has engulfed you in an iron embrace. your head sinks inches into the fluff on his chest before reaching the bedrock of his pectorals. His arms cascade over your torso, one resting on your own chest, and the other more firmly wrapped around your midsection. It's a strong hug, but after the initial abduction, he retained little tension in his forearms.
+>Unsure of what to do with your arms, you decide to wrap them over his, gliding your fingers back and forth through the thin fur that lines his brachioradialis.
+>There is no other smell but him, and it is inescapable. You figured a few minutes around him would make you noseblind, but the canid musk is so dense at this proximity that it's palpable. You could taste it if you tried.
+>In the stillness of the cell, you faintly hear the air pass through his nasal cavity as he exhales. His breathing slows over the course of several minutes, each rise and fall of his chest lifting you with it, before lowering you again. You close your eyes, and picture him doing the same.
+>In short, it's heaven. Actually, heaven wouldn't let you in. Technially that qualifies this moment as "better than heaven," but you don't really care about semantics. The more pressing issue is the stiffness poking into your lower back.
+>Wait, is he...? You consider taking the opportunity to get back at him for mocking your homosexuality, but refrain out of fear of hurting him. It's not your job to pass judgement. Plus it's reasonable that he's straight, but hadn't felt another touch in so long that any basic intimacy got him hard.
+>You try to ignore the sensation coming from behind you, but he has you locked in place. There's nothing you can do but feel every throb, every twitch of his manhood as it bulges through the orange uniform and into your back.
+>Fuck, you can't take it anymore. Any apprehension you had quickly fades away. You have to find out if he's into guys.
+>"When was the last time you cuddled someone like this?" you prod.
+>The wolfman takes an long breath. "Psssh, that was so many years ago, man. I don't even remember." 
+>He droops a little. "It was probably back when I was clean. Back when I stayed out of trouble."
+>That was a darker response than you expected. You rub his forearms in support. "I get it, man. I've only been in prison for a month. I couldn't imagine what years of isolation would do to a person."
+>Lupe goes on. "I don't even know my old friends anymore. They've got me one step away from solitary confinement here."
+>"You can't even keep in touch with them? That's awful." you lean your head into one of his shoulders. "Thank you for telling me."
+>"Yeah," the wolf mutters, "I know he probably doesn't even remember me. I just wish I could smell him again..." he trails off.
+>"He?"
+>He freezes for a moment. "I mean 'her'."
+>Riiight. You've heard enough.
+>Pushing his arms up and getting on your knees, you turn to face him. From there, you plant your hands on his chest and lean in, almost kissing his headcage. 
+>"Listen, man. It's okay," you whisper. 
+>Before he can respond, one of your hands finds its way to his groin.
+>"What are y- unnh..." he starts, unable to finish the sentence as you caress the bulging fabric
+>"Look. I've been putting up with this for far too long," you begin, motioning to his nethers.
+>"And I'm sorry you can't go back, but you're looking at another chance to bond with someone right now."
+>"...How long will you be here?" he asks.
+>"I've got a month with you, but I can extend it indefinitely, if you show progress."
+>"...then let's bond."
+>You're starting to think that maybe being human really does give you some swaying power over anthros.
+>"Good." you give a quick kiss to the muzzle, your lips peeking past the metal to feel the wetness of his nose. 
+>Next, you turn to his crotch. Hiking up his pants and underwear, you straighten the underside of his cock beneath the fabric. The bulge almost reaches his navel.
+>"I don't have any lube, so we're gonna do this dry, okay?"
+>Your partner only nods, eager to start the 'bonding process.'
+>Without hesitation, you turn back around, this time with your knees spread wide over his.
+>Lupe also adjusts himself a few inches forward, leaning back to better present his raging erection.
+>Arching your back, you lower yourself onto him until his dick sits wedged between your cheeks. 
+>He whimpers, grabbing your hips as well as he can with the gloves, and pulling you tighter to him.
+>You've got no other option but to grind. With his help, you rock up and down, each pulse from the bulge below encouraging you to keep it up.
+>He begins to slowly pant as the two of you get into a rhythm. It starts off at a walking pace, but gradually increases as the two of you become more fervid.
+>Three or four minutes pass. Every breath you take is completely dominated by his smell. His constant sweating and panting makes sure that the air is always dense with it. Knowing that you're covered in the scent, dizzy and unable to think of anything else, only makes you harder.
+>More time elapses, the cell becoming filled with louder moans and whimpers with each passing minute. 
+>A wet spot forms around your asshole, and you pause to investigate. Turning your head, you find that the entire contour of his dick and balls is coated with precum, leaving a dark spot over the front of his pants. 
+>"Why'd you stop?" he pants between ragged breaths. "I was getting close."
+>You watch as a new droplet squeezes out from the tip of the bulge, before scooping it up with your fingers and holding it under your nose.
+>The scent of his precum is just as intoxicating as the taste, something you confirm after sticking the coated finger into your mouth. Your erection twitches from the metallic aftertaste, and you moan involuntarily.
+>Lupe, however, is done wasting time. He pushes you back into position and continues grinding against you at a faster pace than previously.
+>Another minute passes before Lupe speaks up, although neither of you slow down the pace. 
+>"I'm about to bust, man. Let me take off my pants so I can stick it in you."
+>"What?" you keep bouncing. "I don't want to deal with that mess. Just cum in your pants dude. That's a part of dry sex."
+>"Are you... kidding me?" he says between pants, "Fuck that, I'm taking these off."
+>He tries to snag the mittens under his waistband, but the drawstring is too tight. 
+>"Hold on, dude." he pleads. You bounce faster, and his heartbeat quickens.
+>He tries to back up, but you press your weight into him, pinning him between you and the wall with constant stimulation.
+>"Oh, fuck! ...that's it, you son of a bitch." the wolf growls, leaning forward and grabbing hold of you.
+>In one motion, he wraps a hand around your waist, puts the other over your mouth, and wedges his clothed erection exactly where it was against your ass.
+>He rests his snout over your shoulder, his breaths hot and heavy as he starts humping you with reckless abandon. In seconds he climaxes, with blobs of thickened semen bubbling from the tip of the contour like a volcano. 
+>Even through the orgasm, he doesn't stop grinding, making sure to ruin your pants as much as possible. His repression causes him to shoot about 20 ropes into the fabric around your asshole, painting your pants white.
+>During all of this, you're being smothered by a heart mitten. Suddenly you are reminded of your own mortality, aware that the man behind you could easily kill you even without claws or teeth.
+>The fear that this instills in you is enough to push you over the edge, with the ejaculate accumulating in your pants and underwear. 
+>However, his orgasm lasts far longer than yours, and after spending all your energy cumming your brains out, you find yourself deprived of oxygen. 
+>Your eyelids become heavy in a matter of seconds, and you lose consciousness before Lupe knows better. He calls out to you, possibly afraid, but you're unable to answer him as you drift off.
+>...
+>...
+>It smells like wolf in here. 
+>You open your crusty eyelids, and your eyes adjust to the light of a dirty prison cell.
+>In trying to rub your eyes, you realize that you arms are trapped by a large, fuzzy force behind you. 
+>This guy really stinks, you know? You resolve to ask Doc if he can make an arrangement to give this guy more frequent showers. Perhaps they'll grant it if you also tag along.
+>The fuzzy force snores quietly into your ear.
+>Yeah, you'd rather not wake him up. He seems pretty "emotionally supported" right now. 
+>That's the reason you tell yourself, anyway. Maybe you don't want to get up because of how awesome it feels to cuddle the big guy. Could be both reasons.
+>Perhaps you've got it wrong. The world is quick to mention all of the effects of humans on anthros, but you never hear about the other way around. Lupe certainly has a big effect on you. 
+>It's funny, isn't it? When both of you have a strong effect on each other, people just call that "love."
 
 ---

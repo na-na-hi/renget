@@ -36,7 +36,7 @@ https://rentry.org/webui-cpu
 https://github.com/rupeshs/fastsdcpu
 ###Apple CPU
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
-https://stable-diffusion-art.com/install-mac/
+https://stable-diffusion-art.com/install-mac
 !!! info
 	---------------------------
 ##Run Cloud Hosted Instance
@@ -344,4 +344,4 @@ https://civitai.com/user/LHV
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon and other thread bakers - February 15th - https://pastebin.com/b00eVgA0
+Cut'n'paste for PWChefAnon and other thread bakers - March 3rd - https://pastebin.com/81wkehph

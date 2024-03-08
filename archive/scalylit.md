@@ -321,6 +321,9 @@ Fantasy (xenofiction)
 **ISBN-10** 0999265822
 **ISBN-13** 978-0999265826
 
+**Scales of Fate: The Chosen Prince** (2024) by Shaidan Barnes
+Fantasy (Erotica)
+**ISBN-13** 979-8876982476
 ***
 #### Other Resources
 https://rentry.org/mediocrescalylit

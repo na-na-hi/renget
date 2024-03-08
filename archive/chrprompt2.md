@@ -97,14 +97,25 @@ Q2: What would be your ideal qualities in a partner?
 Q3: How well would you say you know the dock area at Capim Town both above and below water?
 
 ###Stumpy
+Q1: Is there any reason you havent evolved yet?
+Q2: Do you have any business affiliation with the Blue Claw Inn?
+
+###Ross
+Q1: Have you made any friends at the guild?  Any enemies?
+Q2: What moves have you sketched?  Can you sketch more than four?
+
+###Elm
+Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  Have you kicked the habit completely?  Or do you still indulge in a bit dream eating from time-to-time?
 
 ##->**General Questions**<-
 
-Former humans, if you could write a letter back home, what would you write and to whom?
+**Former humans**, if you could write a letter back home, what would you write and to whom?
+
+**Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
 
 ##->**Pair Questions**<-
 
-Luka & Nine: How did you two meet?
+**Luka & Nine**: How did you two meet?
 
 ##->**Lore and Misc Questions**<-
 

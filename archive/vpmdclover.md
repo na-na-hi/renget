@@ -54,8 +54,9 @@ Hans | M | Dragonair | Gible (Mr. Gible, M, Human) & Floragato (Noodle, F, Nativ
 ??? | M | Wimpod | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#wimpod)
 Error | M | Iron Valiant | Rotom (M, Quirky, Native?) | Clover Guild Member | [Timid](https://rentry.org/vpmdcloverpb#error)
 Rain | F | Eevee | Corvisquire (Cory, M, Native) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#rain)
-Ava Avalon | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
-??? | F | Mandibuzz | Gliscor (??, M, Non-Native Pokemon) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#mandibuzz)
+Avalon "Ava" | M | Braixen | ??? | Clover Guild Member | [Bashful](https://rentry.org/vpmdcloverpb#avalon)
+??? | F | Mandibuzz | Gliscor (??, M, Non-Native Pokemon) | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#mandibuzzgliscor)
+Apple Cider | M | Rowlet | N/A | Clover Guild Member | [???](https://rentry.org/vpmdcloverpb#cider)
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
@@ -189,6 +190,8 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Chespin and the Chillers pt. 2](https://rentry.org/6ht5i)
 	* [Chespin's Week](https://rentry.org/chespinsweek)
 	* [A Clover Halloween (ft. Chespin)](https://rentry.org/ev6i9)
+* Cider the Rowlet
+	* [One-Leaf Clover (ft. Cider)](https://rentry.org/CiderEntry001)
 * Clara the Lucario
 	* [It Comes in Pairs (ft. Clara)](https://rentry.org/cmxrvt)
 	* [More Apples (ft. Clara)](https://rentry.org/imuwu) **Non-Canon Story**
@@ -605,6 +608,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Black, Blue, And Red all Over (ft. Turk)](https://rentry.org/turklucario3)
 * [Within Me (ft. Beau)](https://rentry.org/dy7aab2h)
 * [Circus Freaks (ft. Kenny)](https://rentry.org/kennyabra)
+* [One-Leaf Clover (ft. Cider)](https://rentry.org/CiderEntry001)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

@@ -1,8 +1,9 @@
 # onaholesama's furshit
-->![everything fucking sucks](https://i.imgur.com/T1OjYHD.gif)<-
+->![everything sucks forever](https://i.imgur.com/T1OjYHD.gif)<-
 ***
-https://waa.ai/onaholesama - music playlist
-use fumble for claude3, and a simple prefill only telling claude to speak for {{char}} only
+https://waa.ai/onaholesama - music
+⛧ wanna start a band together? ⛧
+<3
 ***
 [TOC2]
 

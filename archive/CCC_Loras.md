@@ -14,6 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
+3/8/24 | Added XL Lora for [PixelLink] Nebi Nebu & Miuna Usako, [Indie] Yuuka Bear
 3/7/24 | Added XL Lora for [Indie] Clauvio, [Indie] Misogi Sosogi
 3/4/24 | Added XL LoRA for [Phase Connect] Utatane Nasa and Kaneko Lumi, [Indie] Alchemilla Menace (RIP), [Indie] Shizukou (RIP)
 2/10/24 | Added XL LoRA for Dokibird, Runie Ruse, Kaminari Clara, Emi Suika, Endou Lily, Juna Unagi, Kirsche Verstahl, Lily Sin, Lottie Shinju, Matsuro Meru, Meeta Osita, Mirea Sheltz, Obake Pam
@@ -281,11 +282,12 @@ XL: https://files.catbox.moe/sy6s7y.safetensors
 >chiakikatsumi, long hair, blue hair, hair ornament, fake animal ears, pink eyes
 ![Chiaki Katsumi](https://files.catbox.moe/9ky1l5.jpg)
 
-#####Miuna Usako
+#####Miuna Usako (+ AnimagineXL)
 https://files.catbox.moe/4d7g40.safetensors
+XL: https://files.catbox.moe/87ollo.safetensors
 >Strength: 0.9+
->miunausako, 1girl,  brown hair, brown eyes, rabbit ears, dress
-==Rabbit ears are not always guaranteed== 
+>miunausako, 1girl, solo, bangs, brown hair, dress, animal ears, bare shoulders, brown eyes, braid, hair bow, pleated skirt, sleeveless, socks, off shoulder, black footwear, rabbit ears, open jacket, sleeves past wrists, white skirt, stuffed animal, puffy long sleeves, rabbit, brown jacket, striped bow, stuffed bunny, holding stuffed toy, loose socks, bandaid on leg, brown bow, ribbed legwear
+==Rabbit ears are not always guaranteed on SD 1.5== 
 ![Miuna Usako](https://files.catbox.moe/mwfm6t.jpg)
 
 #####Raki Kazuki
@@ -296,11 +298,12 @@ XL: https://files.catbox.moe/kncnti.safetensors
 >Optional: 'sleeveless' & 'witch hat'
 ![Raki Kazuki](https://files.catbox.moe/no93r3.jpg)
 
-#####Nebi Nebu
+#####Nebi Nebu (+ AnimagineXL)
 https://files.catbox.moe/mjo4pl.safetensors
+XL: https://files.catbox.moe/w5wmkz.safetensors
 >Strength: 0.8+
->nebinebu, 1girl, pink hair, multicolored hair, hair ornament, twintails, pink eyes
->Optional: 'spacesuit' / 'jacket'
+>nebinebu, 1girl, solo, long hair, breasts, bangs, medium breasts, sleeveless shirt, black shorts, bike shorts, crop top, hair ornament, thighhighs, bare shoulders, twintails, blue hair, collarbone, pink hair, ahoge, multicolored hair, hairclip, fang, midriff, pink eyes, nail polish, two-tone hair, streaked hair, black shirt, garter straps
+>Optional: tentacles, space, alien, spacesuit
 ![Nebi Nebu](https://files.catbox.moe/kg6nw4.jpg)
 
 ###Hololive
@@ -643,10 +646,11 @@ XL: https://files.catbox.moe/14v3da.safetensors
 >shizukou,  1girl, solo, short hair, bangs, blue eyes, hair ornament, dress, bow, collarbone, jacket, purple hair, ahoge, shoes, choker, white dress, socks, off shoulder, hair bun, black footwear, black jacket, sleeves past wrists, double bun, sleeves past fingers, small breasts, flat chest
 ![Shizukou](https://files.catbox.moe/q097st.jpg)
 
-#####Yuuka Bear
+#####Yuuka Bear (+ AnimagineXL)
 https://files.catbox.moe/pn6xt0.safetensors
+XL: https://files.catbox.moe/iake84.safetensors
 >Strength: 0.8+ , 1 works fine
->yuuka, 1girl, animal ears, grey hair, hair ornament, red eyes, flower, low twintails, koala ears
+>yuuka,  1girl, solo, breasts, bangs, black dress, white shirt, hair ornament, red eyes, hat, pink bow, animal ears, pink jacket, ahoge, grey hair, pleated dress, black shoes, collared shirt, white thighhighs, animal ear fluff, low twintails, beret, white headwear, hair intakes, frilled skirt, puffy long sleeves, bear ears 
 ![Yuuka Bear](https://files.catbox.moe/n2lnp1.jpg)
 
 #####Sanagi Yuzu

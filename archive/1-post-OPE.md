@@ -6,15 +6,18 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 277th time, what is Ope?!
+For the 278th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (Bread & Fred collab with Zeta on Zeta's channel, Thu 03/07 9PM CT)
+▼ Next appearances
+Fri 03/08 7PM CT, Q & A collab with Bao on Bao's channel: https://www.twitch.tv/bao
+Sat 03/09 6PM CT, Speak of the Devil interview on Ironmouse's channel: https://www.twitch.tv/ironmouse
+Next stream ("The Twilight Saga: Breaking Dawn – Part 1" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi, Sat 03/09 9PM CT)
+https://www.youtube.com/watch?v=\_y8oEEIZRxw
+Last stream (Bread & Fred collab with Zeta on Zeta's channel)
 https://www.youtube.com/watch?v=GbEEw5lk92M
-Last stream (BIGFOOT collab with Bijou and Shiori)
-https://www.youtube.com/watch?v=r0Qn-uf7bWY
 Previous appearance (VC on Fauna's Minecraft World Tree anniversary stream)
 https://www.youtube.com/watch?v=iLfuHjb-zpg&t=727s
 
@@ -37,7 +40,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>70800893
+Previous thread: >>70872322
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
@@ -69,5 +72,7 @@ Current OP Template
 https://rentry.org/1-post-OPE
 
 !!!warning Third OP Post - Extra data, when applicable
-Remember to vote on February's top streams if you didn't already (a few more would be nice).
-https://forms.gle/FvP3ZPvc7EhApjAV8
+Remember to get your movie for the upcoming watchalong of "The Twilight Saga: Breaking Dawn – Part 1" on Saturday.
+
+Anon's MEGA link, 2.5GB, HEVC, 1080p
+https://mega.nz/file/BnkwULpZ#_NzZsnTTFuUcUMmIglmvIEaPJVTr2_1MQNcL8tD62Pg
