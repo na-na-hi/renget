@@ -809,3 +809,160 @@
     >This indicates that the ship is about to sink and is seriously damaged, and would be the first US ship to be sunk by the Yemenis
     >https://twitter.com/IranObserver0/status/1765403910406058018  3/6/24
     ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 6 (2024), against (US)-israeli forces:
+
+    >— 🇮🇷 Islamic Republic of Iran:
+    >🔻Seized an US oil shipment in the Persian Gulf. The confiscation was based on a court ruling after the Iranian patients with EB disease sued the United States.
+    ***
+    >— 🇾🇪 Yemeni Armed Forces:
+    >🔻Targeted the American "TRUE CONFIDENCE" ship in the Gulf of Aden with anti-ship missiles, resulting in precise hits and igniting a fire. The crew had to abandon the ship.
+    ***
+    >— 🇵🇸 Al-Quds Brigades:
+    >🔻Targeted an IOF "Namer" armored personnel carrier (APC) with a "Tandem" rocket, on Street 10, south of the Al-Zaytoun neighborhood in Gaza.
+    >🔻Shelled the command and control center of the IOF in the south of Gaza with a barrage of mortar shells. Simultaneously shelled gatherings of IOF soldiers and vehicles with mortar shells in the incursion areas of Khan Yunis.
+    ***
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >🔻Shelled gatherings of IOF army vehicles and soldiers with 60mm caliber-mortar shells in the southern axis of Al-Zaytoun.
+    >🔻Sniped 2 israeli soldiers taking cover in a building in the town of Al-Qarara, northeast of Khan Yunis.
+    >🔻Targeted an IOF military vehicle with RPGs, in the southern axis of Al-Zaytoun, east of Gaza City.
+    ***
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >🔻Launched a number of mortar shells targeting the gathering of IOF vehicles north of Hamad town west of Khan Younis.
+    >🔻Fired an RPG at an IOF military vehicle, south of the Al-Zaytoun neighborhood.
+    ***
+    >— 🇵🇸 Mujahideen Brigades:
+    >🔻Targeted gatherings of IOF forces in the southern Al-Zaytoun neighborhood in the Gaza Strip, with several mortars.
+    >🔻Targeted an IOF military vehicle with a "Saeer" rocket, east of Jabalia, north of the Gaza Strip.
+    ***
+    >— 🟡 Hezbollah:
+    >🔻Targeted a building in the Avivim settlement with suitable weapons.
+    >🔻Launched a kamikaze drone attack against the Metulla IOF site.
+    >🔻Targeted the Zebdine site in the occupied Shebaa Farms with rockets.
+    >🔻Targeted the Ruwaisat Al-Alam site with rockets.
+    ***
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >🔻Targeted the Kiryat Shmona Airport in the occupied Palestinian territories with a kamikaze drone.
+    >This list did not include rockets fired from Gaza towards settlements.
+    >https://t.me/FotrosResistance/5779  3/7/24  
+    ***
+!!!warning
+    >Washington Post:
+    >
+    >Washington has approved more than 100 separate military sales to Israel since its invasion of Gaza — but only two have been made public.
+    >https://t.me/FotrosResistance/5781  3/7/24  
+    ***
+    >| Hezbollah has been heavily pounding israeli bases along the border since half an hour ago, this includes:
+    >
+    >🔻Israeli soldiers at Metulla
+    >🔻Radar IOF site
+    >🔻The launch of 2 kamikaze drones at the Maale Golan IOF base
+    >🔻Ruwaisat Al-Alam IOF site
+    >https://t.me/FotrosResistance/5784  3/7/24  
+    ***
+    >Concurrently, the Deputy Head of the Media Authority of the Ansar Allah Movement in Yemen told Al-Jazeera that they have complete coordination with the resistance in Gaza regarding the detained ship crew in Yemen. He also emphasized that any decision concerning the detained ship and its crew falls exclusively within the purview of the resistance in Gaza.
+    >https://t.me/QudsNen/98085  3/7/24 
+    ***
+    >United States of America: Michael Corella: We need an international solution to many of the problems we are witnessing in the Middle East and we would like to avoid war with #Iran
+    >https://t.me/me_observer_TG/163515  3/7/24  
+    ***
+    >An Israeli soldier, speaking with a noticeable American accent, proudly displays patches symbolizing a Jewish mount that Israelis aim to construct over the ruins of the Al-Aqsa Mosque in occupied Jerusalem.
+    >https://t.me/QudsNen/98090  3/7/24 
+    >https://files.catbox.moe/j0fyep.mp4 3/7/24  
+    ***
+    >Ukrainian mercenaries join the IDF in the massacre in Gaza
+    >https://t.me/megatron_ron/2178  3/7/24  
+    >https://files.catbox.moe/fsder5.mp4  3/7/24  
+    ***
+    >Some of Al-Quds Brigades clashes in Al-Zaytoun Neighborhood..
+    >https://twitter.com/warfareanalysis/status/1765757463607890226  3/7/24
+    >https://files.catbox.moe/0jko4a.mp4  3/7/24  
+    ***
+    >⚡️Saraya al-Quds:
+    >After our fighters returned from the battle lines in the city of Hamd northwest of Khan Yunis, our mujahideen confirmed targeting 3 military vehicles with Tandem & RPG shells and detonating a previously rigged building in which an Israeli force was fortified, resulting in its members being killed or wounded.
+    >https://twitter.com/warfareanalysis/status/1765766280114536731  3/7/24  
+    ***
+    >⚡️Hezbollah: 
+    >Our forces launched an aerial attack with two assault drones on the "Ma'aleh Golani" barracks belonging to the Israeli occupying army.
+    >https://twitter.com/warfareanalysis/status/1765773360472990043  3/7/24  
+    ***
+    >Urgent || Reuters:
+    >
+    >The Netherlands will deploy a navy ship in the Red Sea
+    >https://t.me/me_observer_TG/163554  3/7/24  
+    ***
+    >The Palestinian Ministry of Health in Gaza urgently appeals to international institutions, including the World Health Organization and the Red Cross, to provide blood units and components of all types to save injured Palestinian lives amid a critical shortage.
+    >https://t.me/QudsNen/98104  3/7/24  
+    ***
+    >Hamas leader Mahmoud Mardawi told the Quds Network: “The #Israeli occupation is carrying out a misleading operation and managing by spreading lies and leaks. For example, they never asked through negotiations for the names of living prisoners.
+    >
+    >Hamas leader Mahmoud Mardawi told the Quds Network: “The Paris 2 framework did not constitute a basis for negotiations. Rather, the negotiations took place based on new papers.
+    >
+    >Hamas leader Mahmoud Mardawi told the Quds Network: “It is not true that the resistance only wants to increase aid, but there are five main conditions for any agreement: a ceasefire, withdrawal, the return of the displaced, lifting the siege, relief for citizens, and an honorable exchange deal.”          
+    >https://t.me/me_observer_TG/163621  3/7/24  
+    ***
+    >NEW:
+    >l 🇺🇲🇵🇸 Biden will build a port in Gaza in order for Israel to export the gas located on the coast of Gaza.
+    >Joe Biden will reportedly announce during his State of the Union tonight the deployment of U.S. forces into parts of the coastal Gaza Strip alongside the Israel defense force in order to conduct an "emergency mission" to construct and manage a temporary port which will be used in the transfer of humanitarian aid from Cyprus to the Palestina.
+    >
+    >This is total nonsense, and he doesn't cares about the civilian population and children in Gaza, of whom they have brutally massacred over 30,000 in the last 3 months.
+    >
+    >The purpose of that port is the gas that Israel plans to exploit, and it is located near the coast of Gaza.        
+    >https://t.me/megatron_ron/2185  3/7/24  
+    ***
+    >Barak Ravid:
+    >A US official said that the Biden administration is continuing its efforts at all times to achieve a breakthrough in the deal, but pointed out that the United States does not set a final date for the hostage release talks.  
+    >https://t.me/me_observer_TG/163648  3/7/24 
+    ***
+    >Occupied Palestine: Al-Quds Brigades: We bombed “Sderot” and the settlements surrounding #Gaza with a missile salvo
+    >https://t.me/me_observer_TG/163649  3/7/24  
+    ***
+    >Why are there no Western journalists on the ground except those accompanying the Israeli army, who are told what to publish and what not to? 
+    >
+    >Why have none of the international institutions visited the Palestinian “detainees” from Gaza? 
+    >
+    >Why was there no Red Cross ground investigation in the hospitals the Israeli army claimed were Hamas control centers?  
+    >https://twitter.com/warfareanalysis/status/1765801408236830767  3/7/24  
+    ***
+    >BREAKING:
+    >The US will ban TikTok
+    >
+    >U.S. House panel approves bill banning TikTok from U.S. app stores if ByteDance refuses to divest the company.
+    >
+    >This is the only app that is not under the control of US globalists.
+    >
+    >Thanks to this app, young people in the US watched the genocide in Gaza live.
+    >
+    >Thanks to this application, Biden lost a huge number of voters.
+    >https://t.me/megatron_ron/2186  3/7/24  
+    ***
+    >Based on the news,
+    >
+    >The United States is planning to occupy Gaza's shores and establish a military base under the pretext of a port for "Humanitarian Aid."
+    >
+    >It appears the primary objective is to monitor Gaza. This plan comes into play if the Israelis or their proxies fail to occupy Gaza.
+    >
+    >If the resistance decides to liberate the shores from the Americans, the Americans will say, "Look, people of Gaza, they want you to die of hunger."
+    >
+    >If they leave them, well, you have direct American occupation.
+    >
+    >During all of this, the US is the one that installed El-Sisi and has full control over his regime and the Israelis. This is relevant if there was a desire to open the Rafah crossing.
+    >https://twitter.com/warfareanalysis/status/1765846329169678828  3/7/24 
+    ***
+    >Israel's military, which is starving over 700,000 civilians in northern Gaza killing dozens of them, has dropped leaflets for them wishing them a happy Ramadan and a tasty Iftar and remaining them to feed the needy.    
+    >https://t.me/QudsNen/98117  3/7/24  
+    >
+    >Local sources: “Fire was fired at the occupation forces in the Al-Marj area in Qalqilya.”
+    >https://t.me/me_observer_TG/163730  3/7/24  
+    ***
+    >BREAKING: 
+    >U.S. Army intelligence analyst arrested after selling military secrets to China for $42,000.
+    >
+    >Sergeant Korbein Schultz, a U.S. army intelligence analyst was arrested by the FBI today after he is alleged to have sold State secrets, which included Information on the defense of Taiwan, war in Ukraine, Air defenses, and the U.S. Army's HIMARS, to Chinese Intelligence Agents for over $42,000.
+    >
+    >He was interviewed by DVIDS in August of 2021 for his role in operation Allies Welcome, which conducted the evacuation of 50,000 Afghan nationals during the Taliban resurgence in Afghanistan.
+    >
+    >Among other info, his contact wanted to know about U.S. plans in the event Taiwan is attacked.
+    >https://t.me/megatron_ron/2188  3/7/24
+    ***  
+##&#x1F34A;%#daa520%Week 3/8/24 -3/14/24%%&#x1F34A;

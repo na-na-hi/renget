@@ -14,6 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
+3/7/24 | Added XL Lora for [Indie] Clauvio, [Indie] Misogi Sosogi
 3/4/24 | Added XL LoRA for [Phase Connect] Utatane Nasa and Kaneko Lumi, [Indie] Alchemilla Menace (RIP), [Indie] Shizukou (RIP)
 2/10/24 | Added XL LoRA for Dokibird, Runie Ruse, Kaminari Clara, Emi Suika, Endou Lily, Juna Unagi, Kirsche Verstahl, Lily Sin, Lottie Shinju, Matsuro Meru, Meeta Osita, Mirea Sheltz, Obake Pam
 1/26/24 | Added XL LoRA for [Phase Connect] Pipkin Pippa
@@ -670,10 +671,11 @@ XL: https://files.catbox.moe/3xr25u.safetensors
 >optional: serafuku, sailor outfit
 ![Matsuro Meru (Meruru)](https://files.catbox.moe/vs01cz.jpg)
 
-#####Misogi Sosogi
+#####Misogi Sosogi (+ Animagine XL)
 https://files.catbox.moe/epl4ft.safetensors
+XL: https://files.catbox.moe/utvazr.safetensors
 >Strength: 0.8+
->misogisosogi, pink hair, bangs, hair between eyes, choker, short hair, purple eyes, hairband
+>misogisosogi,  1girl, solo, breasts, short hair, bangs, long sleeves, hat, hair between eyes, purple eyes, collarbone, pink hair, multicolored hair, hairband, boots, open clothes, choker, off shoulder, black oversized shirt, X print on shirt, coat, sleeves past wrists, torn clothes, black headwear, beret, striped thighhighs, vertical stripes, cross-laced footwear, open coat, lace-up boots, blue coat, vertical-striped thighhighs, 
 >optional: tshirt, no pants, thighhighs, coat
 ![Misogi Sosogi](https://files.catbox.moe/ye2gi3.jpg)
 
@@ -684,7 +686,7 @@ https://files.catbox.moe/b0s1tq.safetensors
 >optional: Positive: 'white dress, camisole' & Negative: 'detached collar' for second outfit
 ![Rokuri Syao](https://files.catbox.moe/cnegg2.jpg)
 
-#####Elveira
+#####Elveira (+ Animagine XL)
 https://files.catbox.moe/a2kyhs.safetensors
 XL: https://files.catbox.moe/y3r5tf.safetensors
 >Strength: 0.8+
@@ -709,10 +711,14 @@ https://files.catbox.moe/mut51q.safetensors
 >arypie, 1girl, blonde hair, smile, blue eyes,  (tail:1.1), star, alien, (colored skin, pink skin:1.1), antennae, freckles
 TL Note: using freckles will force her to be closer to the camera most of time so take care with that. Play around with the prompts anyway
 
-#####Clauvio
+#####Clauvio (+Animagine XL)
 https://files.catbox.moe/v3q9tr.safetensors
->clauvio, 1girl, grey hair, animal ears, long hair, sleep mask, mask on head, messy hair
->Strength: 0.8-1
+XL: https://files.catbox.moe/rjzp54.safetensors
+Long Hair outfit:
+>Clauvio, 1girl, solo, long hair, grey eyes, shirt, animal ears, hair between eyes, very long hair, collarbone, tail, short sleeves, grey hair, barefoot, mouse ears, off shoulder, mouse tail, black shirt, mask, mouse girl, mask on head, sleep mask, messy hair
+Short Hair outfit:
+>Clauvio, 1girl, solo, grey eyes, long sleeves, hat, bow, holding, animal ears, tail, grey hair, frills, capelet, beret, mouse ears, brown headwear, mouse tail, mouse girl, grey bow
+>Clauvio, 1girl, solo, short hair, shirt, thighhighs, gloves, long sleeves, animal ears, tail, white shirt, grey hair, shorts, black gloves, black thighhighs,  grey eyes, mouse ears, mouse tail
 Replace 'long hair' with 'short hair' for her different hairstyles.
 
 ###Future Work

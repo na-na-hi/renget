@@ -125,7 +125,9 @@ Vod Archive |[Link](https://www.youtube.com/c/LordAethelstanVODs)|
 ##[Nina Saotome](https://www.twitch.tv/ninaninin)
 Content|Link|Description 
 -------|-------|------- 
-Vod Archive | [Link](https://www.youtube.com/channel/UCjS8uiGm2-L5st3VlRAzoFg)| 
+Vod Archive #1 | [Link](https://www.youtube.com/@annalsoflevtia2846)| Vods until 2022-08-12
+Vod Archive #2 | [Link](https://www.youtube.com/channel/UCjS8uiGm2-L5st3VlRAzoFg)| Vods starting from 2022-08-18
+
 
 ---
 

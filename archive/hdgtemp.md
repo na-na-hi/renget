@@ -41,7 +41,7 @@ OP Template/Logo: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99
 >>>/aco/sdg
 >>>/g/sdg
 >>>/d/ddg
->>>/e/sdg
+>>>/e/edg
 >>>/vt/vtai
 >>>/vg/aids
 >>>/b/degen

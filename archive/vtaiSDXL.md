@@ -511,6 +511,9 @@
 !!! info Example Prompt
 	Shiori Novella, medium hair, hair ornament, two-tone hair, black jacket, black dress, bare shoulders, choker, fur trim, off shoulder, open jacket, long sleeves,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
+-> or <-
+!!! other lora, check tags from metadata?
+-> [Catbox](https://files.catbox.moe/lcjoci.safetensors) <-
 
 ##### -> Nerissa Ravencroft <-
 !!! note Tags suggested by uploader, not me
@@ -590,6 +593,8 @@
 ##### -> Nanashi Mumei <-
 !!! info Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
 -> [Civitai](https://civitai.com/models/329898/nanashi-mumei-for-ponyxl) <-
+!!! info Emo outfit! check tags from metadata?
+-> [Catbox](https://files.catbox.moe/qdyq2k.safetensors) <-
 
 ##### -> Hakos Baelz <-
 !!! info Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.

@@ -1,3 +1,5 @@
+>Russian drone destroys Ukrainian land drone
+https://files.catbox.moe/zcq4iz.mp4
 >Rural Ukraine vs. Mobilization
 https://files.catbox.moe/9ke0hw.mp4
 >RBK-500 cluster bomb in action

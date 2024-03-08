@@ -17,7 +17,7 @@ Like she said, she’ll figure something out.
 **Species:** Marshtomp | **Affiliation:** Team Clover Force
 **Level:** 14 | **Experience to Next Level:** 5/140
 **Worn Item:** *N/A* | **Clothing:** Standard Guild Armband
-**Pokécoin:** 2270₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 2295₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -41,7 +41,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Surf | 4BP | 6AP | ≥2 | ![](https://archives.bulbagarden.net/media/upload/thumb/b/b0/WaterIC.png/70px-WaterIC.png) | ![](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | The User can surf over certain distances. Room-Hitter.
 Mud Shot | 5BP | 6AP | ≥2 | ![](https://archives.bulbagarden.net/media/upload/thumb/8/87/GroundIC.png/70px-GroundIC.png) | ![](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | The next round, the Opponent's Speed is decreased by 1.
-Rock Throw | 5BP | 5AP | ≥3 | ![](https://archives.bulbagarden.net/media/upload/thumb/e/e6/RockIC.png/70px-RockIC.png) | ![](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | No secondary effect.
+Counter | - | 6AP | ≥2 | ![](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png) | ![](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | The User deals the Opponent's Physical damage increased by 10.
 Wide Guard | - | 4AP | - | ![](https://archives.bulbagarden.net/media/upload/thumb/e/e6/RockIC.png/70px-RockIC.png) | ![](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | For 1 round, the User and their Allies are immune to Moves which hit multiple targets.
 Basic Attack | 4BP | 4AP | ≥2 | ![](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -50,7 +50,7 @@ Moves that cannot be used in battle, but during RP segments. You may have two of
 Name of Move | Description
 ------ | :----: 
 Earthquake | Opponent using Dig; The Move's damage is increased by 5. Room-Hitter; Damages Allies.
-Rock Smash | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.
+Rock Throw | 10-20; No secondary effect.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 10 IP and each Skill costs a certain amount of it to equip.
@@ -77,7 +77,8 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Attribute: Repulsion | Tier **ɪɪ** (+2) | 3/3 | ▮▮▮
+Training for Move: Counter | *ᴛʀᴀɪɴᴇᴅ* | 1/3 | ▮▯▯
+Attribute: Repulsion | Tier **ɪɪ** (+2) | 3/3 | ▮▮▮
 Stat: Special Defense **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 .
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯
@@ -91,12 +92,12 @@ Stat: EXAMPLE **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
     Moves or Items can steal from this inventory. Your Worn/Held Item has its own dedicated slots.
 Item Name | Description
 ------ | :----: 
-*Worn/Held Item: N/A* | Sitrus Berry- Heals the user for 20 HP.
+*Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant Hand slot.
-1. Iron | Boosts Training for Defense by 1 bar.
-2. Delibird Feather | A memento of a special day spent with Lilac. Can be used for Egg Moves.
-3. Meteorite Shard | Acquired from entertaining Watched Roller (Minior) and a Clefable. Could this help cure Twilight Syndrome?
-4. Protein | Boosts Training for Attack by 1 bar.
+1. Sitrus Berry | Heals the user for 20 HP.
+2. Eᴍᴘᴛʏ | Vacant inventory slot.
+3. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
@@ -115,11 +116,12 @@ Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **OLD MOVES (∞ slots)**
-These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
+These are moves that your character learned already, but elected to replace. Re-learning them is cheaper. Moves used previously are italicized.
 Name of Move | Description
 ------ | :----: 
 Tackle | No secondary effect.
 Growl | The Opponent's Attack is decreased by 1. The User may select additional Opponents to have their Attack decreased by 1 at the cost of 2 AP each.
-Water Gun | No secondary effect.
+*Water Gun | No secondary effect.*
 Protect | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
 Foresight | The User's Moves never miss. The User's Normal and Fighting-Type Moves can hit Ghost-Types.
+*Rock Smash | 10-20; The Opponent's Defense is decreased by 1. The User can shatter sizable rocks.*

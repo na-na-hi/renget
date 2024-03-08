@@ -94,6 +94,7 @@ Q1: What's it like going from being an XCOM soldier to being a cute fluffy littl
 ###Gus
 Q1: r u bald?
 Q2: What would be your ideal qualities in a partner?
+Q3: How well would you say you know the dock area at Capim Town both above and below water?
 
 ###Stumpy
 

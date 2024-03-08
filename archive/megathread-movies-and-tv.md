@@ -253,10 +253,6 @@
 - Superb aggregator re-using freely available content from the internet, delivering movies, TV shows, animation, and asian dramas.
 - [URL Safety Results](https://www.urlvoid.com/scan/uniquestream.net/)
 
-### ▶️ [UpMovies](https://upmovies.to/)
-- Experience the joy of free HD streaming for lesser-known movies and TV shows online, without the hassle.
-- [URL Safety Results](https://www.urlvoid.com/scan/upmovies.to/)
-
 ### ▶️ [Vumoo](https://vumoo.to/)
 - Indulge in a treasure trove of obscure movies and TV shows. Bid farewell to all the unnecessary inconveniences.
 - [URL Safety Results](https://www.urlvoid.com/scan/vumoo.to/)

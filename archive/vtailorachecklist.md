@@ -5,8 +5,8 @@
 -> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
 -> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
 
-!!! warning Quick Update (02/27/24)
-	**Added new upcoming members and such, still haven't marked if something has a lora or not. I'll be doing that later this week**
+!!! warning Quick Update (03/07/24)
+	**Finally up to date..**
 
 !!! warning >For Loras that have been made and are in good working order
 	DO NOTE THAT THIS IS PURELY MY OPINION AND DOESN'T REFLECT THE TRUTH, SOME LORAS MIGHT NOT BE UP-TO-PAR TO YOU AND YOU CAN TRY TO UPDATE THEM IF YOU WANT TO.
@@ -32,7 +32,7 @@ Oceane Otoishi | - | - | - | -
 Yuno Hanaki | - | - | - | -
 Ran Tsukiha | - | - | - | -
 Kaya Nishikino | - | - | - | -
-Tomoe Carmine | - | - | - | -
+Tomoe Carmine | X | - | X | -
 Meimi Majokko | - | - | - | -
 Kohaku Yumekui | - | - | - | -
 Lethe Bonapuchi | - | - | - | -
@@ -41,7 +41,7 @@ Navina Nova | - | - | - | -
 
 ## -> Phase-Connect <-
 !!! info Available Loras without the need of updates and have been tested.
-	Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Makina Erina, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane
+	Utatane Nasa, Pipkin Pippa, Tenma Maemi, Hakushika Iori, Fujikura Uruka, Shisui Michiru, Kaneko Lumi, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Chisaka Airi, Makina Erina, Dizzy Dokuro, Jelly Hoshiumi, Ember Amane, Hikanari Hina
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
@@ -53,7 +53,6 @@ Komachi Panko | X | X | -
 Rinkou Ashelia | X | X | -
 Saya Sairroxs | X | - | X | -
 Runie Ruse | X | - | X | -
-Hikanari Hina | X | - | X | Too early bake according to anon, will test anyways
 Eimi Isami | X | - | X | -
 Muu Muyu | X | X | - | Obviously its a little early so ill mark it as update needed.
 Kannagi Loki | - | - | - | -
@@ -212,7 +211,7 @@ Ashizawa Saki | - | - | -
 Nagihara Suzuna | - | - | -
 Nagase Yuka | - | - | -
 
-## -> Brave Group <-
+## -> Brave Group + Globie <-
 !!! info Available Loras without the need of updates and have been tested.
 	Otodama Tamako, Yumesaki Kaede
 
@@ -240,6 +239,10 @@ Taring Hu | - | - | -
 Obari Luca | - | - | -
 Pippa Pebblesworth | - | - | -
 Sarugaku Leon Jr. | - | - | -
+Bonnie Barkswell | - | - | -
+Kiri Kilovolt | - | - | -
+Rhubarb N. Kustard | - | - | -
+Alicja Da Lontano | - | - | -
 
 ## -> Kamitsubaki Studio <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -1445,7 +1448,7 @@ Chuuba | Has Lora | Update Needed | Testing
 ------ | ------ | ------ | ------
 Elaine | - | - | -
 Miria | - | - | -
-Virgil | - | - | -
+Virgil | X | - | X
 
 ## -> Shirayuri Production (Defunct)<-
 !!! info Available Loras without the need of updates and have been tested.

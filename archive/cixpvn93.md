@@ -2,7 +2,7 @@
 -> ![KoboldAi icon](https://files.catbox.moe/5g2475.png) <-
 
 !!! info Don't want to read?
-	Get [koboldcpp](https://koboldai.org/cpp) (regular .exe), download [this](https://huggingface.co/KoboldAI/Mixtral-8x7B-Holodeck-v1-GGUF/resolve/main/Mixtral-8x7B-holodeck-v1.Q4_K_M.gguf?download=true) and plug it in.
+	Get [koboldcpp](https://koboldai.org/cpp) (regular .exe), download [this](https://huggingface.co/KoboldAI/Mixtral-8x7B-Holodeck-v1-GGUF/resolve/main/Mixtral-8x7B-holodeck-v1.Q4_K_M.gguf?download=true) and plug it in. Set your settings to [these](https://files.catbox.moe/e2veqf.png) in Kobold Lite.
 
 This is a short complication of various Kobold links — an attempt to streamline and condense all the information in a simple format. The page is intended for people who want to try local/cloud alternatives to NAI but don't have much experience with it. You have a couple of different options, and they are listed from easiest/cheapest to harder and more expensive.
 

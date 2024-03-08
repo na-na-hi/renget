@@ -48,6 +48,9 @@
     ***
     >WATCH: Al-Quds Brigades published a video showing its forces target IOF soldiers and vehicles in the Abasan Al-Kabira area, east of Khan Yunis.
     >https://files.catbox.moe/5zhwcv.mp4  New  3/3/24
+    ***
+    >Some of Al-Quds Brigades clashes in Al-Zaytoun Neighborhood..
+    >https://files.catbox.moe/0jko4a.mp4  New  3/7/24  
 ### AnsarAllah 
 !!!note
 ### Islamic Resistance Iraq
@@ -119,4 +122,10 @@
     ***
     >BREAKING: Video has been released of dead and injured Israeli soldiers
     >https://files.catbox.moe/h0hxtn.mp4  New  3/6/24 
+    ***
+    >An Israeli soldier, speaking with a noticeable American accent, proudly displays patches symbolizing a Jewish mount that Israelis aim to construct over the ruins of the Al-Aqsa Mosque in occupied Jerusalem.
+    >https://files.catbox.moe/j0fyep.mp4  New  3/7/24 
+    ***
+    >Ukrainian mercenaries join the IDF in the massacre in Gaza
+    >https://files.catbox.moe/fsder5.mp4  New  3/7/24   
     ***
