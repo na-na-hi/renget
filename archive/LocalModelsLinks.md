@@ -96,14 +96,15 @@
 [EfficientViT-SAM](https://github.com/mit-han-lab/efficientvit)|Faster and more accurate version of Segment Anything Model via EfficientViT
 [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
-[LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution 
+[LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution
+[ShareCaptioner](https://huggingface.co/Lin-Chen/ShareCaptioner)|Image captioning model with lower hallucinations than LLaVa 
 [LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
 [SUPIR](https://github.com/Fanghua-Yu/SUPIR)|Image restoration and upscale method with semantic adjustment editing ability
 [DDColor](https://github.com/piddnad/ddcolor)|Vivid and natural colorization for black and white photos (and possibly video) 
 [lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
 [nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
-[threestudio](https://github.com/threestudio-project/threestudio)|Framework for various text/image-to-3D content generation models 
+[TripoSR](https://github.com/VAST-AI-Research/TripoSR)|Image-to-3D reconstruction model built upon the LRM network infastructure 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [roop-cam](https://github.com/hacksider/roop-cam)|Real time face swap with webcam and one click video support
 [open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models

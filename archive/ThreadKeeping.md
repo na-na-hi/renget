@@ -5,7 +5,7 @@
 !!!Danger The thing you post when making a new thread:
 ```
 Archives & Other Resources: https://pastebin.com/wETipqYw
-AllSync: https://cyoaarchive.com/main
+AllSync: https://cyoa.allsync.com/s/owWor64yLTngDk3
 Multiplayer Compilations: https://pastebin.com/10QhjhCt
 In Case of Emergency, Break Glass: https://rentry.org/mcyoagCanary
 Threadslave Rentry: https://rentry.org/ThreadKeeping (Edit Code: Threadslave Notes!)

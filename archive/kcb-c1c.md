@@ -8,3 +8,4 @@
 ![Banana Blues - Page 6](https://cloverguild.com/booru/data/posts/1487_0d4ff2563a1d7ae0.png)
 ![Banana Blues - Page 7](https://cloverguild.com/booru/data/posts/1492_a72a050187da0042.png)
 ![Banana Blues - Page 8](https://cloverguild.com/booru/data/posts/1532_6e16c88605a0604e.png)
+![Banana Blues - Page 9](https://cloverguild.com/booru/data/posts/1598_74d2b9e457b0e7fa.png)

@@ -1,3 +1,5 @@
+i need to remake this hi guys
+
 ->[i](https://sorcery-fight.tumblr.com/post/704901726632886272/i-am-the-worlds-prettyist-pink-princess-and-im) am the *`WORLDS PRETTYIST PINK PRINCESS`* and [im](https://youtu.be/zrhIV8Dezjs?si=_MzT0aSiXADiebiJ) gonna *`KILL YOU WITH MY HUGE FUCKING HAMMER`*<-
 ->hover over images for descriptions and/or credits. some are links.->
 ->![Official Gothic Amy Rose render from Sonic Runners, from the Sonic News Network fandom page](https://static.wikia.nocookie.net/sonic-runners-reloaded/images/4/41/GothicAmy_CSS_Render.png/revision/latest?cb=20220228201713)

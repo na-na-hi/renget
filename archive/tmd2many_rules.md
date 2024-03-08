@@ -551,7 +551,7 @@ A special category listed underneath your character sheet, these are two move sl
 	- **Insomnia**: For 3 rounds, all nearby Pokémon are immune to the effects of *Sleep*.
 	- **Infatuated**: The Afflicted is unable to Focus on the User. Lasts 4 rounds.
 	- **Recharging**: For 1 round, the Afflicted cannot act.
-	- **Encore**: For 3 rounds, the Afflicted is forced to continue using their last-used Move as of acquiring the Status Condition.
+	- **Encore**: For 2 rounds, the Afflicted is forced to continue using their last-used Move as of acquiring the Status Condition.
 	- **Disabled**: For 3 rounds, the Afflicted is unable to continue using their last-used Move as of acquiring the Status Condition.
 	- **Powdered**: When the Afflicted is hit by a Fire-Type Move, they explode. Lasts 6 rounds.
 	- **Pursued**: If the Afflicted chooses to attack anyone other than the User, the Move's damage is increased by 4.
@@ -771,7 +771,7 @@ Requirement: 4 Training Sessions ▯▯▯▯
 
 ### Training for Battle Attributes
 
-Similar to Attributes, Battle Attributes can be Trained for. Where they diverge, however, is in the way they function past the need for Training. While Attributes are relatively mundane, Battle Attributes are skills that can be used to improve one's technique with the Moves they know, and are able to be utilized in combat scenarios. More complex and time-consuming to master when compared to their less tactical sibling, these take longer to Train than a normal Attribute.
+Similar to Attributes, Battle Attributes can be Trained for. Where they diverge, however, is in the way they function past the need for Training. While Attributes tend to be mundane life skills or talents, Battle Attributes tied intrinsically to a Move, and showcase unique mastery of a technique.
 
 As a Pokémon gets stronger and more familiar with their capabilities, they may try to push their previously-established boundaries and forge a set of tricks unique to them. Each new step in a Pokémon's experience with such tactics is not entirely clear, but everyone will come to know the difference between a novice arsonist and an expert pyromancer.
 

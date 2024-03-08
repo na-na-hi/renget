@@ -8,5 +8,5 @@
 
 ->![Divider](https://files.catbox.moe/ryuv92.png)<-
 
-->%grey%. ˚%% %#cad9c1%[𝕀](/Kindred)⠀[𝕀𝕀](/Cult)%% %grey%࿐ ۪ ⠀『%% %#cad9c1%[Easy to read](https://rentry.co/Daughter-)%% %grey% 』%%
+->%grey%. ˚%% %#cad9c1%[𝕀](/Kindred)⠀[𝕀𝕀](https://pinterest.com/EnfeebIed/)%% %grey%࿐ ۪ ⠀『%% %#cad9c1%[Easy to read](https://rentry.co/Daughter-)%% %grey% 』%%
 ͝ ࿙࿚ %#cad9c1%[𝖬𝖺𝗄𝖾 𝖺 𝗏𝗂𝗌𝗂𝗍︖](https://retrospring.net/@ill)%%𓂂⋅࿔ྀુ<-

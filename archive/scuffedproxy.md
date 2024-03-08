@@ -12,13 +12,13 @@ sometimes the account is banned and it will not work until I manually fix it. it
 
 ## current proxy url
 ```
-https://brands-somewhere-clean-faced.trycloudflare.com/v1
+https://readily-college-occupational-festivals.trycloudflare.com/v1
 ```
 **password**
 basilisk
 
-##### [instructions](https://brands-somewhere-clean-faced.trycloudflare.com)
-##### [ST preset](https://brands-somewhere-clean-faced.trycloudflare.com/preset.json)
+##### [instructions](https://readily-college-occupational-festivals.trycloudflare.com)
+##### [ST preset](https://readily-college-occupational-festivals.trycloudflare.com/preset.json)
 
 ##### contact
 - hask1911@proton.me

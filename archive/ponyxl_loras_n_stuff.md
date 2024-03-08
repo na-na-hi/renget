@@ -216,6 +216,7 @@ https://files.catbox.moe/dkjzm3.safetensors gattles
 https://files.catbox.moe/6nnfzi.safetensors norza
 https://files.catbox.moe/4z5ngk.safetensors ter
 https://litter.catbox.moe/cburag.safetensors juno really only trained on paizuri since that's pretty much all the artist draws, has activation trigger junopai, 1girl, solo focus, 1boy, penis, paizuri, large breasts will get the typical image layout 
+https://files.catbox.moe/bnh9ts.safetensors shadman might help to keep source_anime out of the prompt or just use score_9, also helps to put 3d in the negatives
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

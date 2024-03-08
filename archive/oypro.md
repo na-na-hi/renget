@@ -66,7 +66,7 @@ Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
 Attribute: Illusory | Tier **ɪɪ** (+2) | Skill with illusion manifestations
 Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 Attribute: Balancing | Tier **ɪ** (+1) | Skill with keeping your balance, whether it be on unstable ground or on energy infused air
-Battle Attribute: Zephyr Step | Tier **ɪ** (+1) | Ride the wind kicked up from an Aerial Ace powered dash to get around obstacles, easy breezy. 
+Battle Attribute: Zephyr Step | Tier **ɪ** (+1) | Move with the wind kicked up from an Aerial Ace powered dash to get around obstacles, easy breezy. 
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
@@ -87,7 +87,7 @@ Item Name | Description
 1. Empty | A vacant inventory slot
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
 3. Blast Seed | Explodes on contact for 10 true damage.
-4. Sour Slaw | Chopped berries that have a majority sour flavor, slightly creamy
+4. Sour Slaw | Chopped berries that have a majority sour flavor, slightly creamy. (Increases Defense by 1 stage.)
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

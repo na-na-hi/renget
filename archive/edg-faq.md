@@ -4,6 +4,9 @@
 >!~ Can I post gens made with non-SD-based models and generators (Midjourney, Dall-E and others)? ~!
 Yes, as long as your pic is /e/ and AI-generated, you are welcome to post it.
 
+>!~ I have so many gens, should I chain-post them all? ~!
+You shouldn't. /edg/ isn't a fast-moving general, so one-man spam can be pretty disruptive. Quality over quantity is the preferred way.
+
 >!~ What about fringe content that is in the spirit of the thread (monster girls, mild yuri, 1girls that may be a bit on a lewder side, etc.)? ~!
 We allow it, in moderation. Be reasonable, don't go too deep into fringe territory, don't spam and you'll be fine. !>Probably.
 
@@ -30,8 +33,8 @@ https://files.catbox.moe/9efrp7.txt
  ## !~green;double; Technical ~!
  
 >!~ Recommended models for /e/? ~!
-Free: AnimeConfettiTuneXL (PonyXL base), AutismMix SDXL (PonyXL base), AnimagineXL 3 (SDXL 1.0 base), Based68 (SD 1.5), Olympus v4 (SD 1.5)  - all available at https://civitai.com/ 
-Paid: NAI v3 - https://novelai.net/
+Free: AutismMix SDXL (PonyXL base), AnimeConfettiTuneXL (PonyXL base), AnimagineXL 3 (SDXL 1.0 base), Based68 (SD 1.5), Olympus v4 (SD 1.5)  - all available at https://civitai.com/ 
+Paid: NAI v3 - https://novelai.net/ (tag knowledge cutoff - November 2023, so don't expect it to recognize newer characters)
 
 >!~ Recommended WebUI extensions? ~!
 a1111-sd-webui-tagcomplete

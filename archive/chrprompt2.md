@@ -1,10 +1,17 @@
-#**Second Clover Guild Character Q&A** (Uh, actually, this is technically the 3rd one, and the Aggie editions don't count, but whatever!!)
+#**Second (Official) Clover Guild Character Q&A**
 
 !!!Warning: Please write all entries into a text editor, refresh the page, then COPY and PASTE into this rentry page to avoid overwriting others' entries. 
 
-The rules are the same as in the previous Q&A: ask a question to a character in the Clover Guild (or any of the NPCs, outsiders, etc. in that world), and then the question might be answered in character... or not, it depends. Keep that in mind if they skipped over it; please show common courtesy.
+The rules are the same as in the previous Q&A: ask a question to a character in the Clover Guild universe (guildmember, NPC, etc.), and then the anons may answer it in character... or not, it depends. Keep that in mind if they skipped over it; please show common courtesy.
 
-Answers should be provided in green text (>) below the question. Please preappend your character's name if answering a non-individual question. You can even have discussions on the answered questions. Below are examples:
+**Asking**
+When asking a question to a new character, write three pound signs followed by the character name. That way, they'll appear in the table of contents.
+Add new questions to the end of the list. Questions should have a Q1, Q2, Q3, etc. in front, based on which number the question is.
+
+**Answering**
+Answers should be provided in green text (>) below the question.
+Please put your character's name in front if answering a non-individual question.
+You can even have discussions on the answered questions. For example:
 
 Outlaw?
 >Character 1: We should punish them according to the law.
@@ -12,21 +19,14 @@ Outlaw?
 >>Character 3: "Insert a very long, compelling argument against the comment."
 >>>Character 2: Understandable have a nice day
 
-**Character name** (When asking a character a question, do something like this and write the new question on the bottom of the last asked question.)
-
--Question 1
--Question 2 
--Question 3
-
-(Think of this as questions like ooo Elm, you're afraid of ghost oooo, gets heart attack and whatever. If you still don't get it, you can use the written questions below as references for yours on how it is done... or something.)
-
+**Categories**
 "Individual Questions" means you're asking a question to a particular character... self explanatory.
 
 "General Questions" means anyone can answer that particular question, or it's a particular group of people like former humans who can answer this question only, and so on. 
 
-"Pair Questions" is something different from general questions, like it's a particular team, like you're asking a question for Team ~~Moon~~shine for example, and each of the members will answer based on what they think about the question, in character, of course. It can also be specific, like aura users, so like Lliam, KFC, Booker, and several others can answer this question (I forgor the rest, sorreh!!)
+"Pair Questions" is something different from general questions. These are aimed at a particular team, or a category of character. For example, you can ask a question to Team ~~Moon~~shine, and each of the members will answer based on what they think about the question (in character, of course). It can also apply to specific groups, like aura users (in this example, Aura-using characters like Lliam, KFC, Booker, Clara, etc. would answer).
 
-"Lore and Misc Questions" are questions about some lore about some characters, world building, and other questions about Clover Guild that aren't applicable to the things above. You may even ask questions to the authors themselves! (Write it as Chespin-anon for author and Chespin for character to not cause any confusion.)
+"Lore and Misc Questions" are questions about some lore about some characters, world building, and other questions about Clover Guild that aren't applicable to the things above. You may even ask questions to the authors themselves! (When doing this, write it as Chespin-anon to indicate it's the author, and use Chespin for character himself, to not cause any confusion.)
 
 The edit code for this rentry is **anniversary**
 
@@ -46,13 +46,16 @@ Q1: Is there anything that stinks about being a Ribombee that's really minor?
 ###Jung
 Q1: How and when did you meet Sara? 
 Q2: Have you met any Clover Guild individuals besides Lliam?
+Q3: I wanna know how you got that scar!
 
 ###Rasmus
 Q1: You joined the Guild around Halloween.  How has your experience been since then?  Good?  Bad?
+Q2: You're a roof tiler, right? What's that job like?
 
 ###Nick 
 Q1: Given your title as a researcher, do guild members ever ask you difficult or odd questions?
 Q2: Do you get along well with the other research-oriented guildmons?
+Q3: I think you've said before that your tails are prehensile. How good are you at manipulating things using your tails? Have you been practicing with it?
 
 ###Nida
 Q1: What is the best way to prepare grime for consumption?  Do you have any favorite recipes?
@@ -67,6 +70,7 @@ Q1: It is well known that you love to eat food, but do you have any favorite foo
 
 ###Tybo
 Q1: Do you accept pets?  If so, from who?  
+Q2: Tell us about a time that your thieving ways almost got you in big trouble (don't worry, we won't tell the cops).
 
 ###Fern
 Q1: How do you deal with being so fluffy?
@@ -74,6 +78,7 @@ Q2: why are you so small?
 
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
+Q2: Have you ever tried sucking a beverage into your trunk and then spraying it into your mouth to drink it, like elephants do?
 
 ###Totodile
 Q1: What's the market like for alcohol in the Pokemon world?  Is there a good variety, or is it sometimes disappointing?
@@ -101,6 +106,7 @@ Q2: What's more important- speed or control?
 
 ###Macom
 Q1: What's it like going from being an XCOM soldier to being a cute fluffy little electric sheep :3 ?
+Q2: If someone asked to hug or cuddle with you and your soft wool, would you accept?
 
 ###Gus
 Q1: r u bald?
@@ -122,7 +128,11 @@ Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  H
 
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 
+**Former humans**, what was your favorite band back in the human world?
+
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
+
+**Guildmons with a dorm**, how is your room decorated?
 
 ##->**Pair Questions**<-
 

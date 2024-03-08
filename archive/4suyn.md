@@ -147,6 +147,6 @@ Chespin and the Chillers: Still unable to get past his crippling fear of all thi
 Part 1: https://rentry.org/ytbot
 Part 2: https://rentry.org/6ht5i
 
-A Week Without Wooper (WIP): When Wooper gets called away from the guild for a week, Chespin has to cope with his absence by spending his days getting to know some of the other guild members a bit more. https://rentry.org/chespinsweek
+A Week Without Wooper: When Wooper gets called away from the guild for a week, Chespin has to cope with his absence by spending his days getting to know some of the other guild members a bit more. https://rentry.org/chespinsweek
 
 A Clover Halloween: Team Cozy gets a little festive, dressing up for the occasion, but even on Halloween, missions still need to be done. https://rentry.org/ev6i9

@@ -70,7 +70,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Stat: Special Defense **ɪɪɪ**| **ᴍᴀx** (+3) | 1/9 | ▮▯▯▯▯▯▯▯▯
-Training for Move: Dragon Pulse | *ᴛʀᴀɪɴᴇᴅ* | 3/4 |  ▮▮▮▯
+Training for Move: Dragon Pulse | *ᴛʀᴀɪɴᴇᴅ* | 4/4 |  ▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

@@ -68,6 +68,8 @@ In SillyTavern, `{{char}}` and `{{user}}` are placeholders within the frontend t
 ##### Visual Studio Code
 I recommend downloading [Visual Studio Code](https://code.visualstudio.com/download) for editing your character cards and prompts. When creating a new text file, simply select 'Markdown' as the language for optimal formatting. Visual Studio Code is a handy editor that I personally find convenient. However, feel free to choose any other text editor you're comfortable with – be it Wordpad, Microsoft Word, Obsidian, or even editing directly within SillyTavern.
 
+I use Monokai Pro theme for VS Strudio
+
 Make sure to enable `Word Wrap`:
 View > Word Wrap (or press `Alt+Z`)
 

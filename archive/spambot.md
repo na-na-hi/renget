@@ -1,4 +1,4 @@
--> [![](https://files.catbox.moe/13xyhe.gif)](https://files.catbox.moe/gacsa4.mp3) <-
+-> [![](https://files.catbox.moe/13xyhe.gif)](https://files.catbox.moe/u1p87t.mp3) <-
 
 !!! Send feedback and logs to botslop@protonmail.com ![👈](https://files.catbox.moe/qdthsu.gif)
 
@@ -47,7 +47,7 @@ There is a chance I will make cards without CoT in the future, or an alternative
 Expression uses a separate model to display expressions in Visual Novel mode. For Medley, a character note is injected every response, providing a list of expression files to choose from. Images are hosted on [Catbox](https://catbox.moe/), so it is possible to run this card on ST and Venus.
 
 >![](https://files.catbox.moe/avh2xu.gif) What are you using for your images?
-[Animagine XL](https://civitai.com/models/260267/animagine-xl-v3). I typically include prompt settings at the end of each bot. Animation is done with Photoshop and After Effects.
+[Animagine XL](https://civitai.com/models/260267/animagine-xl-v3). I typically include prompt settings in the [character repo](https://gitlab.com/giturslop/characters/). Animation is done with Photoshop and After Effects.
 
 >![](https://files.catbox.moe/l2l8rn.gif) Are your bots NSFW?
 None of the prompts are explicitly NSFW but I won't stop you if you try to seggs them.
@@ -77,6 +77,8 @@ If you have questions, suggestions, or logs to share, send me an email. Happy to
 02/21/24 - Added FAQ
 02/20/24 - Medley Release 1.0.0
 ```
+
+***
 
 -> ![monero](https://files.catbox.moe/k3erke.png) `41mgDN9FgwbEkZGkZn22NGEX2RQMDyYFeKGSR74EJYSqfec7UGUMac68XNw9z7GEd8G9MNDrvm9hKaJEm1NMQctU4v6qQTc` <-
 

@@ -709,7 +709,7 @@ Magic Powder | - | 4 AP | - | Psychic | Status | The Opponent's Type is changed 
 Magnet Rise | - | 4 AP | - | Electric | Status | The User is afflicted with [*Raised*](https://rentry.org/tmd2many_rules#status-effects).
 Magnetic Flux | - | 4 AP | - | Electric | Status | The User's Defense and Special Defense are increased by 2.
 **Mat Block** | - | 4 AP | - | Fighting | Status | For 1 round, an Ally's Defense is increased by 4. The User may select additional Allies to block at the cost of 2 AP each. Accuracy is changed to ≥11 and is halved for each consecutive use.
-**Me First** | - | - | - | Normal | Status | The User replicates a Move used by Opponent on the previous turn. STAB is applied to the Move regardless of the User's Type. Can be used immediately before fainting. Does not count as a Status Move.
+**Me First** | - | - | - | Normal | Status | The User replicates a Move used by an Opponent on the previous turn only and targets them with it. STAB is applied to the Move regardless of the User's Type. Can be used immediately before fainting. Does not count as a Status Move.
 Mean Look | - | 4 AP | - | Normal | Status | The Opponent is afflicted with *Immobile*.  
 Meditate | - | 4 AP | - | Psychic | Status | The User's Attack is increased by 1.
 Memento | - | 4 AP | - | Dark | Status | The Opponent's Attack and Special Attack are decreased by 3. The User faints.
@@ -997,6 +997,8 @@ When using Recycle in battle, it can recover an Item which was used in battle wi
 . | . | . | Perfect Apple | Big Apple | . | . | .
 . | . | . | Huge Apple | Apple | . | . | .
 . | . | . | Big Apple | Apple | . | . | .
+
+Lastly, outside of combat and while holding a Shattered TM, the User may roll 1D20. ≥10; the TM becomes Repaired. If the required roll is not met, the TM will be forever broken. +1 roll chance every 25 Levels.
 
 ***
 

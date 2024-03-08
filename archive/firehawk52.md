@@ -206,7 +206,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ### Deezer
 
 #### Deezer ARLs
-!!! info Check this site for guide on how to use ARLs: https://deemixapp.co/deezer-user-arl-token/ - ✅ **All Checked on 2024-03-07** | **Changes made on 2024-03-07 @ 17:24 UTC**
+!!! info Check this site for guide on how to use ARLs: https://deemixapp.co/deezer-user-arl-token/ - ✅ **All Checked on 2024-03-07** | **Changes made on 2024-03-08 @ 16:37 UTC**
 
 !!! info Check Deezer ARLs with this script
     [Download here](https://rentry.co/stracc). Thanks to FrankYaLatr.
@@ -278,7 +278,6 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ->![South Korea/한국](https://files.catbox.moe/v2fs9t.png)<- | Deezer Family | 2024-03-17 | `29f35bb1e5ad3bd91250a6113ce19b9b15e2895c2e863c1a86b1c17db083df4a19dca0ee43afbb3ae9ce566e7ddd64ba16c991cb8c762dd781ad0bbde41b93b1f9285ad69ee0bd55e439f1f1ae98579578cb8995d80af1e8b606aac604313926`|
 ->![Spain/España](https://files.catbox.moe/rapw3d.png)<- | Deezer Premium | 2024-03-08 | `1df7b6d5e1e28126c7270d5c155bda9dbfcffbc52729d5dff319e0e558ce26f140e757af165d35f18fbc73020af31a68445f72d491d1cce57e14063acb8882b3d32c0d9119c8d38dbb7fd9b36038dcaabe54e536930e3730fe9978d550d1e548` | ->![ATLACATL](https://files.catbox.moe/oxlb1w.png)<-
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | Deezer Premium | 2024-03-25 :repeat: | `979ea9ae3564976670ee4b1c57772723ee440845254ea821ec4199b4ec6285918af8a12182797e3f7be95113144a5659615d8f41cecc17d7ef83671fd9163e435e94ef5546a797f78dd4f3419b8a888c7501a64199a5f892b15571d4c556808e`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
-->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | Deezer Premium | 2025-02-22 | `6770092e24f0d94623a764f7e70910b4ea681e93eb72b4345487046099136f49b52c7f4518e54805b29ea18db2e3afde8ddb15db5aec845b6c512816d83ac5c50f3677a91dca07c1e4d2324a543f222f6e121512c34b575faf45fab5bc45ae78`|
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | Deezer Family | 2024-03-07 | `489f4139f78474836907985273f556564e685e760d5d8e925d8e74557a6799de86140f69a75ab4c53e2d09b65bc7c65c16ea0da437c45a0b17241ce46860c0d587a90f7052b8ff9010b9a12807e3264303c9710fd6a44e62e29b4c5553806e8e`|
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | Deezer Family | 2024-03-24 :repeat: | `a36c64a6f9d84165fa2317afd544d02968065c5d1366db20427a03859ce38082fc690973c2f4837172f3d6f0de05186d0d6d59baca70aaadaeea588ae2f82ecb3a8f760cea6726fd89b8dce469ebc3b89f5f8b288a4980cbf3277c3dfa2be7ee`|
 

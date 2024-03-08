@@ -302,6 +302,8 @@
 02/2024|[Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion](https://arxiv.org/abs/2402.10009)
 02/2024|[Brant-2: Foundation Model for Brain Signals](https://arxiv.org/abs/2402.10251)
 03/2024|[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis (SD3)](https://files.catbox.moe/anmseu.pdf)
+03/2024|[TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151)
+03/2024|[Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
@@ -628,3 +630,4 @@
 01/2024|[Vgel - Representation Engineering](https://archive.is/SHV3E)
 02/2024|[Lilian Weng - Thinking about High-Quality Human Data](https://archive.is/1K0EM)
 03/2024|[rayliuca - T-Ragx Project Write Up (Translation RAG)](https://archive.is/VU9eI)
+03/2024|[Answer.Ai - You can now train a 70b language model at home (FSDP/QLoRA)](https://archive.is/jb4n9)

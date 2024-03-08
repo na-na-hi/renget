@@ -60,9 +60,9 @@
 • Tinhifi P1 Max (warm neutral) - $130
 • Hidizs MP145 (bassy neutral) - $160
 • Letshuoer S12 Pro (V-shape) - $170
+• Myer CKLVX D41 / Pula PA02 (mild V) - $180
 • Tanchjim Hana (mild V) - $180
 • Moondrop Kato (warm neutral) - $190
-• Pula PA02 (neutral) - $190
 • Binary Acoustics x Gizaudio Chopin (Harman) - $200
 • Geek Wold GK100 (bright V) - $200
 • Hisenior T4 (neutral) - $200
@@ -165,9 +165,9 @@
 *Hall of Fame*
 • Vido (bassy neutral) - $5
 • RY4S 32Ω mmcx Plus (V-shape) - $10
+• Yincrow X6 (bassy neutral) - $10
 
 *Honorable Mentions*
-• Yincrow X6 (bassy neutral) - $5
 • VE Monk Plus (bright neutral) - $10
 • NiceHCK EB2S (bright neutral) - $15
 • Qian 39 (neutral) - $15
@@ -252,7 +252,7 @@
 • FiiO KA13 - $80
 • Simgot DEW4X - $80
 • Shanling UA4 - $100
-• AFUL Snowy Night - $110
+• Aful Snowy Night - $110
 • EPZ TP50 - $120
 • FiiO KA5 - $130
 • FiiO KA17 - $150

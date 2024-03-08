@@ -60,6 +60,8 @@ Even though mentioning a size artist is usually preferable, there are still quit
 - `kairunoburogu` (good for feet, soles, cocks, pussy, thighs, ass)
 - `arttoru` (good for feet and girls)
 - `bigxixi` (good for feet and soles, especially when covered in socks or pantyhose; young characters)
+- `nona moth` (good for feet, both males and females, traps)
+- `donburi (donburikazoku)` (good for asses, thick women)
 
 !!! note Note
 	If anyone of you stumbles upon any other size artists who appear to be recognized by NAI or knows about more artists who seem to be working well with size tags, please let me know and I'll update the list as soon as possible.

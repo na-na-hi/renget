@@ -17,13 +17,15 @@ Removals : Images that depict child pornography, real photographs of death and g
 
 Likewise, generic low-effort mspaint memes and reactions, infographics, duplicates and non related are removed, pngs are converted to jpg.  Remember, these images are humorous works of fiction and only a fool would take them otherwise.  These images are hosted purely for archival and posterity purposes.  These images are also all freely available on alternative archival sites such as 4plebs and archived moe.
 
+Archive size - 157,000 images in 34 GB
 
 # 2023
 
-- September Archive - 250 MB - 1,500 images
+- September
+- 250 MB - 1,500 images
 - https://pixeldrain.com/u/A6Kik3zt
 
-- October Archive
+- October
 - Part 1 - 3.6 GB - 20,500 images
 - https://pixeldrain.com/u/NoG59dun
 - Part 2 - 1.6 GB - 9,300 images
@@ -33,29 +35,28 @@ Likewise, generic low-effort mspaint memes and reactions, infographics, duplicat
 - Part 4 - 1.7 GB - 9,200 images
 - https://pixeldrain.com/u/P113xCT7
 
-- November Archive
+- November
 - Part 1 - 1.7 GB - 9,500 images
 - https://pixeldrain.com/u/iSM5QYTa
 - Part 2 - 1.6 GB - 7,500 images
 - https://pixeldrain.com/u/pihroCdD
 
-- December Archive
+- December
 - Part 1 - 2.1 GB - 9,100 images
 - https://pixeldrain.com/u/8nzpjwVp
 - Part 2 - 1.5 GB - 6,200 images
 - https://pixeldrain.com/u/Cqgfskcs
 
 - /POL/ memes from non-MWG threads
-- October Archive
+- October
 - Part 1 - 2.5 GB - 13,100 images
 - https://pixeldrain.com/u/BHnWQ2wK
 - Part 2 - 3.3 GB - 15,400 images
 - https://pixeldrain.com/u/zGQ86QQw
-- November Archive
-- NOTE: The original non-MWG Oct-Nov Archive containing 5,000-odd images has been incorporated into this.
+- November
 - Part 1 - 3.1 GB - 15,100 images
 - https://pixeldrain.com/u/YSU45tp7
-- All non-MWG memes from December onward are incorporated with the main Archive series.
+- All non-MWG memes are in the main Archive series now.
 
 - Additional Archive
 - /X/ meme images
@@ -67,15 +68,20 @@ Likewise, generic low-effort mspaint memes and reactions, infographics, duplicat
 
 # 2024
 
-- January Archive
+- January
 - Part 1 - 2.6 GB - 9,000 images
 - https://pixeldrain.com/u/SwPKGo8M
 - Part 2 - 2.4 GB - 8,500 images
 - https://pixeldrain.com/u/Pq12k7Mg
 
-- February Archive
+- February
 - Part 1 - 2 GB - 7,500 images
 - https://pixeldrain.com/u/BbQt5B8Y
+- Part 2 - 2 GB - 7,100 images
+- https://pixeldrain.com/u/v3S9PQoU
+
+- March
+- <coming mid-March>
 
 # PDFs
 
