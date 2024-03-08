@@ -56,7 +56,7 @@ Depth lib tutorials: https://files.catbox.moe/8r4y83.webm and https://files.catb
 Try the bad-hands-5 and negative_hand embeddings.
 To fix bad eyes, use Adetailer with face/eyes model.
 
->!~ My gens on SDXL-based models look desaturated, how can I achieve better/more vivid colors? ~!
+>!~ My gens on SDXL-based models look somewhat desaturated, how can I achieve better/more vivid colors? ~!
 Use either the built-in FreeU extension in Forge or one of these: https://github.com/thomaseding/sd-webui-color-enhance | https://github.com/city96/ComfyUI_ColorMod  Alternatively, try one of these VAEs: https://civitai.com/models/152040 (some versions may fry your gens more than others). Artist loras also affect the colors/contrast a lot. None of these solutions are perfect, cause it's a fundamental issue with either SDXL itself or the SDXL VAE (opinions differ on this).
 
 >!~ The lighting on my gens is too bright, I want to make darker gens with SDXL-based models ~!
@@ -64,7 +64,11 @@ Use this script to control the lighting and noise: https://github.com/Seshelle/d
 
 >!~ What does BREAK in a prompt field do? ~!
 The prompt you write is broken down into tokens, and normally SD comes with a hard 75 token limit. The WebUI allows going above it in steps of further 75 tokens by interpreting each 75 token set in parallel, and merging the results for the final image. Check out the top right of a prompt field to see how many tokens you have left. If it starts saying "X/150" you have gone above the 75 limit, and now filling up the second token set. Doing so causes some tokens to lose their impact, especially if a tag is being split into both the first and the second 75 token set.
-Using BREAK in your prompt enforces everything following it to be part of a new token set; the previous one will be padded with empty tokens so it reaches the 75 limit prematurely. Some anons use BREAK to make a new token set for each distinct feature of the image. BREAK is also used in Regional Prompter extension, make sure not to mix it up whenever you have it on.
+Using BREAK in your prompt enforces everything following it to be part of a new token set; the previous one will be padded with empty tokens so it reaches the 75 limit prematurely. Some anons use BREAK to make a new token set for each distinct feature of the image. 
+BREAK is also used in Regional Prompter extension in a different way, so make sure not to mix it up whenever you have it on and read the RP documentation.
+
+>!~ A certain Danbooru tag I used in my prompt didn't work at all ~!
+Try applying higher weight to the tag or readjusting the tag's position in your prompt. Look for an alternative tag one e621 and use it instead: https://e621.net/tags Also note that some tags, even the fairly common ones, simply don't work on certain models, depending on how they've been trained.
 
 >!~ How can I separate two or more characters with their own distinct features without getting all the details mixed up by the model? ~!
 Use Regional prompter extension: https://github.com/hako-mikan/sd-webui-regional-prompter | https://stable-diffusion-art.com/regional-prompter/ Prompt Cutoff extension might help too: https://github.com/hnmr293/sd-webui-cutoff Multidiffsion is also something that might be worth looking into. Don't expect great results and prepare to still have to use inpainting, cause all current models are bad at this and no extension can fully "fix" it. There is cautious optimism about the upcoming SD3 having much better prompt comprehension, though.

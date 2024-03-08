@@ -344,4 +344,4 @@ https://civitai.com/user/LHV
 !!! info
 	---------------------------
 ##Bakery
-Cut'n'paste for PWChefAnon and other thread bakers - March 3rd - https://pastebin.com/81wkehph
+Cut'n'paste for PWChefAnon and other thread bakers (^_^) March 8th - https://pastebin.com/prGJx8ed

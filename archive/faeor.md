@@ -2565,3 +2565,394 @@
 >you turned off your phone light
 >you'd go off night vision to avoid making people suspicious 
 >fuck it, you'd get this
+
+>while you weren't Batman, you snuck around well enough
+>it didn't look like anyone was outside and you were pleased with yourself
+>you allowed yourself a sliver of hope
+>the upstairs was a mess
+>Fazbear wasn't exactly impressing you
+>maybe this was just storage 
+>no frills
+>you saw more boxes
+>more parts
+>a few pieces you recognized 
+>a pale white and pink fox face topped a box
+>for how long the company has been operating they probably have mountains of scrap
+>you wondered how many of these storage facilities they had
+>you got lucky they took Roxy to the closest one 
+>nothing was labeled but nothing was seemingly locked
+>you checked every doorway for alarms before opening them
+>after a few minutes you found what looked like a desk for a guard shoved away in one room
+>most other offices were storage
+>you dug through his desk and were greeted by a bottle of whiskey and a key ring
+>jackpot
+>you rushed back downstairs with the whiskey and keyring in hand
+>you smashed the bottle into.the room you came in from
+>hopefully they'd think it was vagrant with a taste for Thunderbird before you were a suspect
+>you ran through all the keys before one finally unlocked the your way in
+>you took a deep breath and opened the door
+>your eyes went to Roxy
+>well
+>one of them…
+>the hell?
+>it seemed unwise to wake sleeping beauty up around a bunch of mass produced versions of him
+>but time was of the essence 
+>you rang your phone and were happy to see one of the five Roxannes slightly vibrate
+>that was your man
+>you knew how to turn him on, jokes aside, and his eyes flicked on instantly on the dark
+>he looked down to you and snatched you off the ground in a spine threatening embrace
+>he understood silence was important here and left it at a gesture
+>but his excitement was evident 
+>that faded when he saw the room 
+>he set you down and you rushed him out
+>it had to be strange seeing other versions of yourself
+>you would have to take Roxy out a door 
+>meaning tripping the security system
+>you tossed the keys over your shoulder and the clang meant they hit one of the Roxys
+>an idea occurred
+you guided Roxanne out of the room and went back in
+>all the robots would be left on and able to roam
+>they seemed confused but you hoped it would give you two enough cover
+>you could tell Roxanne was unsettled and you silently escorted him out
+>with any luck they'd be tracking down their “product” all night
+>giving you two a headstart 
+>a headstart to what you didn't know yet
+>you warned him to get ready
+>the exit door you'd found was an easy option but Roxanne had another idea
+>a 200 lb metal desk was put through a nearby window on into the parking lot
+>the shattering was a racket, yes
+>but the alarm wasn't tripped
+>how did he know?
+>”I saw the cables in the walls heading to that door, they didn't bother with the windows”
+>well he came to the same conclusion you did
+>but yours was more dumb luck than anything
+>he grabbed you and threw you on his shoulder
+>an impressive jump and you were in the parking lot
+>he quietly asked where your ride was and you gestured to the lot across from the building
+>he refused to set you down and silently rushed around the building
+>you hoped cameras wouldn't catch the escape now
+>he'd stop occasionally, then move again
+>no idea what that was about
+>only when you were at the van did he set you down
+>you opened the back and let him crawl in
+>”so this is your ride?”
+>he sounded honestly awestruck
+>this was the most he'd been outside the mall so it made sense
+>just sort of strange to be impressed with your van of all things
+>you closed the door and hopped into the driver's seat
+>two arms wrapped around you from behind the seat
+>”where to, hero~”
+>that actually was a very good question
+>one that you hadn't put any consideration into 
+>what next?
+>you stared into the steering wheel
+>this was… 
+>christ
+>last week you were just worrying about the paychecks 
+>now you'd be a fugitive 
+>this was all irrational and insane
+>but Fazbear couldn't have Roxy 
+>that wasn't right
+>you weren't sure he had a soul like you but you didn't feel right just leaving him
+>the cops wouldn't be dumb
+>they'd eventually start asking questions concerning the last place Roxanne was right?
+>maybe you had seen too many movies and gave them too much credit
+>you'd just probably committed a felony
+>but this was right
+>no matter what happened next
+>first thing first you'd head home
+>worst case scenario you needed to pack shit up to move
+>you were tempted to call in sick tomorrow
+>the trip back to your apartment was easy this late at night
+>Roxanne kept low at your insistence but he did peak out of the windows, absorbing any sights he could 
+>he seemed enchanted even a shitty stretch of highway
+>his life before this was sheltered so it made sense
+>you would cash in a PTO day from the mall and spend the day with him at your apartment 
+>you'd prepare a bug out bag but right now you'd pray for the best
+>home and under the cover of darkness you guided him to your dinky little apartment
+>after drawing the curtains you collapsed face first onto the bed
+>he collapsed next to you and the bed frame shattered under the weight
+>you sighed
+>you were too tired and he had already had the puppy dog eyes when you glanced to him
+>thank God you lived on the first floor
+>you stretched an arm out over him
+>tomorrow would be interesting 
+>bed frame was ruined
+>that was your first thought
+>Roxanne was out like a light next to you
+>when you tried to get up he snatched you and pulled you to him
+>”not so fast”
+>he started tongue kissing you
+>at least robots didn't have morning breath
+>he pinned you to the mattress
+>his weight made you aware of how deep your bedspring could be
+>the kiss was broken as quickly as he started
+>”you didn't have to do that for me.”
+>you pointed out he wasn't expendable either
+>your fingers ran through his hair 
+>there was some tangles and you made a note you'd have to get a brush for him
+>the robot was gentle laying on you, your legs between his splayed ones
+>he giggled and it was adorable
+>you'd eventually go back to worrying
+>but this moment was worth all the trouble
+>his tail softly wagged, the noise easy to pick up in the silence of the room
+>you hoped he didn't notice your morning wood
+>you needed a shower and coffee before you even thought about any lovemaking 
+>you checked your burner phone and saw the time
+>you called your boss and faked a cough
+>much too sick to come in
+>he seemed to buy it thank God
+>Roxanne was bored with the conversation and decided to scan your room
+>this giant was your responsibility now
+>he looked entranced by your cheap tv
+>probably remembered watching Predator on your first date 
+>you were almost off the phone when the boss dropped a new bombshell
+>your security job was no longer needed because now they'd install a better security system
+>no idea what brought that on but that was hours you couldn't recover 
+>and your boyfriend here would probably change the power bill a little
+>you frowned a little
+>but honestly, considering you wouldn't have company at night you wouldn't miss the shifts 
+>you hung up and gently tried to encourage Roxy off
+>you undid his torso plate and grabbed your phone
+>he looked a little disappointed you just slid the plate back on
+>you tossed him the remote and let him figure that out
+>you put the phone on the charger and went to start a pot of coffee
+>he finally got a hang of the buttons with his big fingers
+>while he channel surfed you excused yourself to shower
+>he looked interested but you didn't need to get his parts wet 
+>no idea how his body would react
+>his ears slumped and he looked like a disappointed child
+>your dumbass almost asked why he wanted to shower with you when your mind answered that almost after it had posed the question
+>the shower was a relief 
+>you felt comfortable walking out of the bathroom nude and Roxanne instantly turned to look at you
+>he liked what he saw
+>”come here.”
+>well at least he waited until the shower
+>since you had the day why not?
+>he patted his thigh 
+>”you didn't even hesitate to come for me.”
+>he pulled you onto him
+>”you know how amazing that is?”
+>you didn't think it was that amazing
+>”come on, you know you want to strip me.”
+>he ruffled your hair and pulled you into the nape of his neck
+>this made the felony worth it
+>by now you could unlatch his shell blindfolded
+>so being buried in his neck was no challenge 
+>you almost lost this
+>it was all dumb and crazy but Roxy was a real connection
+>the bottom plates were easy
+>the top plate required you to lift up slightly
+>he didn't have a heartbeat like you but there was an ever-present hum 
+>you noticed it ages ago, something no one else seemed to pick up on
+>it was like pressing against a running car hood
+>the slightest vibration
+>you were both aroused but didn't immediately act on it
+>just quietly cuddled
+>rain started up outside
+>the patter of drizzle on the windows mixed with the background noise of the TV
+>all you'd need was Predator on the screen and it would be a nice nostalgia trip
+>this was a rare time you had him pinned though
+>he had a smug look and you felt like you were the source of that pride
+>you'd never even stolen a pack of gum
+>and you broke the law for him
+>he understood that
+>did he think you were like a bad boy now?
+>his hands reached down and he gave your ass a squeeze
+>”well, don't just stare you dork.”
+>you went for kisses on his bare chest
+>”that's much better”
+>you realized how taboo this was
+>you claimed Roxy
+>like some sort of barbarian running off with a warbride on his arm
+>sure, he carried you
+>but you still felt like a conquering hero
+>Roxanne muttered down to you
+>deft claws ran over your bare back
+>you were hard, he was hard
+>your hands locked on his legs
+>Roxanne realized pretty quickly what you were doing and allowed it
+>the robot's legs were up in the air with little effort on your part
+>the bed was so destroyed you didn't dare risk cowgirl here
+>so he was getting bred like this
+>his hole was prelubed again
+>this was a real reversal of your first time 
+>it might be the first time you loomed over him
+>he grabbed at your dick and guided it in its proper place
+>he was smiling
+>there was a confidence there
+>you'd gone to great lengths for him and he knew that
+>he really was your favorite and that soft smile was him confident he'd won you
+>he really had
+>Roxanne pulled you down and licked at your neck and face
+>one benefit to a robot is he was pretty clean no matter what
+>the robot was overwhelmingly affectionate 
+>he was so happy
+>that recall was the best thing to happen to him
+>now he knew for sure 
+>he had you
+>the world outside looked fascinating but he was more than happy to stay like this
+>seeing those other Roxannes had unsettled him but you were there
+>you saved him at a cost to your life
+>you didn't pause 
+>just chased him
+>”come on, I know you want it~”
+>Roxy was strong enough to force the issue and growing needier
+>your cockhead was right there
+>tantalizing him
+>one hand ran back down to you ass and he shoved you in balls deep 
+>he laughed when you groaned at that
+>”good fucking boy, that's it.”
+>Roxanne thought back to last night
+>he waited until you were completely sunk in to ask the question
+>”I'm special, right?”
+>his clawed hand reached up to stroke your cheek
+>of course 
+>he was very special
+>was this about those other Roxys?
+>it had to be
+>you'd be worried if you found out there was more of you
+>your hand went for his bare chest
+>in there he was your Roxanne
+>he was unique 
+>an individual molded by his own unique experiences 
+>you wouldn't share a moment like this with anyone else
+>he was so special 
+>he'd imprinted on you as much as you hoped you did on him
+>you decided to pour on the charm a little
+>you held his chin up 
+>none of those Roxanne’s could be the rockstar he was
+>and now?
+>you two could have private shows like this all the time
+>you didn't exactly have much of a home but I was his too
+>the world was open to you both but right now there's nowhere you'd rather be
+>you went back to holding his legs up
+>no one got a show like the one he gave
+>and you wouldn't change that for anything
+>”even if I'm not a girl? they said I was faulty”
+>he was perfect the way he was
+>they could say whatever bullshit they wanted but wasn't the connection you two had proof?
+>you shifted your hips to emphasize it
+>he laughed
+>”you're right. it was just last night…”
+>yeah that was it for sure 
+>Roxy looked a little timid 
+>but you started pumping
+>you'd let your actions speak for you
+>the whole time you didn't break eye contact 
+>this was your Roxy
+>he was special
+>and you'd show him that 
+>you thrust up in an effort to find whatever amounted to a prostate 
+>he bucked after the second attempt
+>you'd have him so sticky and spent he wouldn't even be able to think, much less worry
+>you wrapped your arms around his legs, locking them against you
+>he was stronger but he submitted to you
+>that part was sweet
+>his hand ventured down to his own dick, now at full mast
+>you'd have to get better at understanding the mechanics of his body now
+>you wouldn't have help if anything went wrong
+>he softly pumped his cock in time with your thrusts
+>his ass had started working you over again, constricting and vibrating
+>he'd been jealous of you around women and his worry about the other Roxannes only made it more obvious
+>this little rockstar was nervous
+>that gave you an idea
+>Roxanne was confused and a little miffed when you stopped to reach for and look at your phone
+>understandable of course
+>that pause sort of ruined the tempo
+>it was cheesy but you had pulled up YouTube
+>the slight annoyance in his eyes was replaced by a grin when music came on
+>KISS was way before your time and this was sort of silly
+>but he appreciated you moving your hips again while “I Was Made For Loving You” played in the background
+>it just felt appropriate 
+>you don't know if it would be “your song” but it fit
+>your minds went back to the pleasure at hand, slowly enjoying yourselves
+>within the safety and privacy of your home this felt better than even the dates at the mall
+>the fear and hesitation from months before had vanished
+>hell, you didn't even consider him just a fuck buddy like originally
+>there was something deeper behind this
+>something you'd never felt with anyone 
+>and your hips were busy telling him that
+>the bond you two had started to share was more than physical
+>he was still girly 
+>for a giant robot wolf that is
+>but the weird mixture of hard and soft didn't just apply to his shell and privates
+>you never would have thought someone that towered over you could be considered cute but the way he pleaded to you with his eyes spoke louder than words
+>you kept your pace, pumping him slow and deep
+>there was no frantic need to nut in him
+>not the quick and dirty way
+>it had more meaning behind it
+>that first time was about making it official
+>this was about sightseeing 
+>occasionally you'd kiss along Roxanne’s leg
+>you were sure he didn't have nerves along his shell but he appreciated the gesture
+>he kept stroking himself while watching you
+>his own cock leaking precum as his body did what it was designed for 
+>no way in hell was someone that made you feel this good a defect in any sense of the word
+>his toes curled as you groaned your name
+>even with the slow pace he was enjoying himself
+>eventually he pulled his hand away from his cock, your efforts apparently pleasing him more than his own hand
+>he arched his back and nearly took you along for the ride
+>but you were focused on pumping him and held on through it
+>his soft ass against your hips made a wet sound
+>not like flesh on flesh but percussion unique to your lovemaking
+>you were making music now
+>one clawed hand roamed up his chest as the other gripped your bedsheet 
+ >he was grinning, watching the sweat on your brow
+>he wasn't breathing hard like a human partner might
+>but he was reacting every other way
+>he bucked a little when you'd bottom out
+>whine at the sudden vacancy inside him
+>then softly moan when you came back in, peppered with encouragement 
+>a lot of “just like that” and “you're doing great”
+>for someone who could be as insecure as he was sometimes he really pushed to make sure you felt like the best
+>but you turned it back on him
+>you saw his cock twitch when you called him the best
+>he really was the best and you'd make sure he knew it
+>you were using his legs for leverage and just moving your hips now
+>”you going to cum? I feel it throbbing”
+>you were trying to hold back a little
+>the grin on his face was eager as he looked up to you
+>”of course you're going to cum”
+>he was getting off on being desired
+>his insecurities gone for the moment when he realized he was center stage 
+>your reassurance helped bring out his confidence 
+>real confidence 
+>not just that stage face he'd fall into
+>Roxanne was pleased 
+>you really wanted him
+>he was always going to be a little nervous
+>but the way your body reacted to him made the fears feel stupid
+>it was silly worrying
+>you had stolen him back from his creators
+>you did that without a second thought
+>the thought made his cock leak
+>maybe he also liked how much a bad boy move that was
+>you'd basically claimed ownership over him 
+>he didn't know what his creators would have done to him
+>but they thought he was a defect
+>you didn't 
+>you saw value in him
+>your cock was also hitting a button inside him that felt fucking amazing
+>you had said he was the best and he was keeping that memory at the forefront of his mind
+>he wasn't letting you leave the room if he could help it
+>Roxanne needed your seed and he really, really didn't want to be cleaned out immediately 
+>that warmth was love
+>when you bottomed out he clenched, locking you in
+>you were confused 
+>the wolf didn't want to be rude and knew how sweet you were being
+>but the idea of getting your cum made him a little greedy
+>he had been enjoying you taking charge but he really needed it
+>then the massage over your cock intensified to the point you swore he was milking you
+>he'd reasserted just enough control to get what he needed
+>Roxy's hands went back down to his cock and he stroked himself frantically with them 
+>nice and slow had led to a full sprint
+>he'd thrown his head back and was lost in the passion of it while you grit your teeth
+>well if he wanted your cum he was getting it
+>KISS had started to autoplay in the background and you weren't going to look at “Nothing to Lose” without this mental picture 
+>both of you climaxed and immediately after Roxanne’s hands pulled you down to recover on his chest
+>he wasn't freeing your dick
+>you'd worry about that in a bit
+>claws gently ran over your bare back as he gingerly kissed your head
+>he'd hold onto this memory too
+>you said he was the best and the heat in his insides was proof to him

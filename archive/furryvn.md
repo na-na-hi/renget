@@ -48,7 +48,8 @@ Dawntide | WIP | gay, furry MC, romance, drama | [itch.io](https://dawntidedev.i
 
 ###Changelog
 >January 5, 2024
->- Added Burrows and Dawntide
+>- Added Burrows
+>- Added Dawntide
 
 >December 29, 2023
 >- Added Lyre

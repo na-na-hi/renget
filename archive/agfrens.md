@@ -32,6 +32,12 @@ Nice tummy JP
 https://www.youtube.com/@vtuber3484
 https://twitter.com/moegi_zmg
 
+>Cyan
+chubby eldritch catgirl that likes to draw girls with pudge
+https://www.twitch.tv/catastrothy/
+https://twitter.com/catastrothy
+https://www.youtube.com/@catastrothy
+
 >Koopa
 Green mommy with some pudge
 https://www.twitch.tv/koopa_ch

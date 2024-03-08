@@ -14,7 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
-3/8/24 | Added XL Lora for [PixelLink] Nebi Nebu & Miuna Usako, [Indie] Yuuka Bear
+3/8/24 | Added XL Lora for [PixelLink] Nebi Nebu & Miuna Usako, [Indie] Yuuka Bear, [Brave] Otodama Tamako
 3/7/24 | Added XL Lora for [Indie] Clauvio, [Indie] Misogi Sosogi
 3/4/24 | Added XL LoRA for [Phase Connect] Utatane Nasa and Kaneko Lumi, [Indie] Alchemilla Menace (RIP), [Indie] Shizukou (RIP)
 2/10/24 | Added XL LoRA for Dokibird, Runie Ruse, Kaminari Clara, Emi Suika, Endou Lily, Juna Unagi, Kirsche Verstahl, Lily Sin, Lottie Shinju, Matsuro Meru, Meeta Osita, Mirea Sheltz, Obake Pam
@@ -433,10 +433,12 @@ https://files.catbox.moe/fbbgvt.safetensors
 ![Ponto Nei](https://files.catbox.moe/sxdjm0.jpg)
 
 ###Brave Group
-#####Otodama Tamako
+#####Otodama Tamako (+ Animagine XL)
 https://files.catbox.moe/56mfvy.safetensors
+XL:  https://files.catbox.moe/4tazo9.safetensors
 >Strength: 0.8+
->tamako, 1girl, short hair, purple hair, hair over one eye, red eyes, bangs, breasts, long coat, sailor collar, hat, beret, black headwear, necklace amulet
+>SD1.5: tamako, 1girl, short hair, purple hair, hair over one eye, red eyes, bangs, breasts, long coat, sailor collar, hat, beret, black headwear, necklace amulet
+>XL: tamako,  1girl, solo, breasts, looking at viewer, blush, smile, short hair, bangs, red eyes, long sleeves, hat, dress, medium breasts, closed mouth, purple hair, sailor collar, open coat, black coat, hair over one eye, black headwear, beret, eyes visible through hair, 
 ==Hair is sometimes on the other side, but art of her with eyes uncovered exists as well so whatever==
 ![Otodama Tamako](https://files.catbox.moe/ygsgs0.jpg)
 

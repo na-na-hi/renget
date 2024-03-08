@@ -1,10 +1,10 @@
 This is a WIP. until I'm done, heres just a simple version of me & kins
 ***
-I don't care abt doubles... Just don't be weird
+I don't care abt doubles... Just don't be weird. I have many sources but they are all episodic.
 [**Murai**](https://blue-period.fandom.com/wiki/Yakumo_Murai) 
 [Kaworu](https://villains.fandom.com/wiki/Kaworu_Nagisa)
 [Chae Yul](https://villains.fandom.com/wiki/Chae_Yul) 
-there's many more but i don't see the importance of mentioning them. 
+there's many more but i don't see the importance of mentioning them, if you really care just ask.
 please do not ask me abt my memories as Yul.. thank you
 I don't encourage feeding my delusions. But don't reality check me without my consent
 -> ![](https://media.discordapp.net/attachments/1098128562625716295/1108332329975435264/125FAD97-964E-4633-B5EC-67D9A9BEE946.png) <-

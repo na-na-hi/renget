@@ -108,6 +108,8 @@ https://rentry.org/x5ayvpzb
 >>92101140
 >Fujiwara Nobutake
 >>92104939
+>Mojo Kichona
+>>92118374
 ```
 ***
 Page 2
@@ -151,6 +153,8 @@ Kichōna
 https://rentry.org/mndacoyg
 Taiho (+Background and Strategy)
 https://rentry.org/z7myt7wk
+Tsugumi
+https://rentry.org/TsuDiary
 ```
 
 #Fighting Autism Tournament
@@ -514,10 +518,14 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Art:
->vodoo
->>92111890
->dementia girl
->>92109545
+>1-F Maids
+>>92120347
+>motley maids
+>>92120355
+>max
+>>92121336
+>1D maid cafe
+>>92122707
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

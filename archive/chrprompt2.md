@@ -81,8 +81,19 @@ Q2: Favorite drink?
 
 ###Tropius
 Q1: What are the pros and cons of being so huge?
+>Well, it definitely sucks not being able to fit indoors. I can't get inside the guild except for its lobby area, so I have to sleep outside in this crummy lean-to. Honestly the stupid thing barely protects me, but I guess it's better than nothing. I also can't fit inside any of the buildings in Capim Town, so I can't go shopping anywhere but the Kecleon Shop because that's outdoors. I'd really like to go to the café and buy something nice to drink, but... oh well.
+
+>It's not just that though. Being so big makes it hard to relate to the other members in the guild. I don't live inside the guild itself, and my lean-to is in the back of the guild so it's out of the way, so I don't get to interact with the others very often. Plus, most of them got turned into small first stage Pokémon, so they can't relate to my struggles, and a lot of them are intimidated by my size. I can't blame them for that, but umm... it does get pretty lonely for me. Maybe that's for the best though. Most Pokémon that actually do talk to me just want a banana or a ride somewhere. I was a human too, you know!!! I'm not a horse or some farm animal...
+
+>Being big isn't all bad though. Even though I'm inexperienced at being a proper Pokémon, being so big means I'm still decently strong. I was able to complete missions from the board before I had even learned to use Razor Leaf or Gust. I'd also be lying if I said I didn't think big dinosaurs were cool as a kid... so being like this does make my inner child happy. Oh, and being able to intimidate others with my size can be useful... especially when it comes to dissuading certain guild members from trying to swipe one of my bananas. Stop trying to steal my bananas, they're literally a part of me!
+
 Q2: How well do you get along without having hands?
+>I get by. I can use my mouth to grip things, and my neck is very long so I can at least move my head to pretty much anywhere on my body, so I can still use items and put my Treasure Bag on without much issue. Can't really accessorize with scarves or equipment like that, though. I don't have any way to tie a knot or anything like that. I wish Tropius was a Grass-type that had vines I could use as hand substitutes, but... it is what it is. 
+
+>Really, though, what frustrates me the most about not having any hands is how I have to eat. Do you know how embarrassing it is to have to eat like a pig? Especially since I have to stick my head in through the window at the mess hall instead of sitting down at an actual table? I'm like a cow in one of those factory farms at a feeder station, I hate it! And don't even get me started on eating things like Apples! I have to eat them whole, core and all! Given my size and lack of hands, how else am I expected to eat them? At least they don't taste bad or give me a stomache ache or anything like that, but... I have to try to keep some of my human dignity, you know?
+
 Q3: Does the banana that's hanging on your chin ever go bad?
+>Surprisingly, no. I don't know if it's Pokémon magic or whatever, but they don't seem to ripen or turn brown. That's fortunate for me though, because I'd hate to be without my bananas. I get this strange comfort from them being there under my chin... I felt a bit restless after I lost one to that Venusaur. I'm not sure why I feel this way, I just do. Oh, and if this is a roundabout way of asking if you can have a banana once they start to go bad... the answer is no.
 
 ###Linoone
 Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?

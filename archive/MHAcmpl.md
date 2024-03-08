@@ -746,6 +746,9 @@ Kaylee: https://desuarchive.org/tg/post/92069993/
 Crimes Against Civilization: https://desuarchive.org/tg/post/92075566/
 Orochi: https://desuarchive.org/tg/post/92088248/
 Sandatsu doraemowari: https://desuarchive.org/tg/post/92089201/
+i can explain (Inigo, Hoge): https://desuarchive.org/tg/post/92102560/
+vodoo(Mio, Sandatsu): https://desuarchive.org/tg/post/92111890/
+dementia girl: https://desuarchive.org/tg/post/92109545/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
