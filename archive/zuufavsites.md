@@ -31,3 +31,4 @@
 [rose's resources](https://rentry.co/roses-resources) ☆
 [rentry templates](https://rentry.co/frapuccino)
 [cakebatter neocities!!](https://cakebatter.neocities.org)  ☆
+[jasminnie weebly](http://jasminnie.weebly.com/)

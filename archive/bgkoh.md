@@ -79,17 +79,17 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: Defense Scarf* | Increases Defense by 1.
 *Equipped Item: N/A | Nothing here boss!
-1. Empty |Nothing here boss!
-2. Empty |Nothing here boss!
-3. Magma Macaroni  | It's not actually made of magma, but it sure can feel like it! (Increases Attack by 2 stages.)
-4. Empty |Nothing here boss!
+1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
+3. Empty | Nothing here boss!
+4. Empty | Nothing here boss!
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
-2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
+1. Empty | Nothing here boss!
+2. Empty | Nothing here boss!
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 
     Things that are important or required for future quests to function. RP items are all the extra things that do not have any function in combat or other bonus granting ability. Normal items can be moved into RP storage, but they *cannot* be returned to being a normal item.

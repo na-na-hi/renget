@@ -1,3 +1,13 @@
+>FPV Bombarding Ukrainians
+https://files.catbox.moe/chdbvs.mp4
+>FABs destroy hangar near Prykolotne
+https://files.catbox.moe/p6tbhu.mp4
+>Su-34 drops FABs w/ UMPC on Avdeevka front
+https://files.catbox.moe/3d6kuf.mp4
+>Lancet vs Vampire MLRS
+https://files.catbox.moe/cet17j.MP4
+>Hohols trying to escape volksturm caught
+https://files.catbox.moe/8g3dmn.MP4
 >Lancet strikes moving Swedish Archer SPG
 https://files.catbox.moe/2zvbrj.mp4
 >Lancets vs Howitzers and counter-battery radars

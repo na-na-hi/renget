@@ -2933,6 +2933,11 @@ https://mega.nz/folder/NxclhDpZ#oGI5Z-BoEJt8hpZYYf4BVQ
 LoRA: https://files.catbox.moe/ng6l5v.safetensors
 Tags: https://files.catbox.moe/00lwai.txt
 
+# Mid-Transformation (Concept)
+[...] a LoRA I made like a month ago. I've redone it with new params, but here's that v3 10000 step LoRA specifically if you'd like to play with it.
+"human to feral, mid-transformation" are the triggers
+https://files.catbox.moe/n44dny.safetensors
+
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
 

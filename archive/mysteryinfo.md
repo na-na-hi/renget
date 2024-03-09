@@ -2,7 +2,8 @@ https://huggingface.co/spaces/vgdasfgadg/c
 Unclogged endpoints!
 
 Grift:
-!>bc1q55t9fakmyng35qm9n3eqsf585kg4u6d60wd5r2
+!>BTC: bc1q55t9fakmyng35qm9n3eqsf585kg4u6d60wd5r2
+!>XMR: 48NKZzN7ZGvjiD2kPeBAaEY76pUXM2JHdfoKjc8zDxntHdBfsT8eiBCRQwasAGGZ453Anpg8DuUYFgnsihaqeXJS74XweCz
 # Stats
 !!!Note 519 users | 2701127 proompts | 107527 IPs | 809.86m tokens | US$18287.96 cost
 User||Prompts|IPs|Usage

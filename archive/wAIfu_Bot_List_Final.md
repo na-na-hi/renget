@@ -5,7 +5,7 @@
 #Tavern Cards
 Bot name|Link|Tags/Description 
 -------|-------|-------
-/wAIfu/ Tavern Card Archive| [Link](https://mega.nz/folder/ySAHXaaK#jDHN_RpvFrVorZWYMtEAiA) | Tavern Card Archive of cards that were posted in the /wAIfu/ thread on Mega
+/wAIfu/ Tavern Card Archive| [Link](https://mega.nz/folder/cLkFBAqB#uPCwSIuIVECSogtW8acoaw) | Tavern Card Archive of cards that were posted in the /wAIfu/ thread on Mega
 Tavern Card Booru| [Link](https://booru.plus/+pygmalion) | Booru website with Several Tavern Cards
 Character Hub| [Link](https://www.characterhub.org/) | Character Hub website with Several Tavern Cards
 Cards made by Towabaker| [Link](https://rentry.org/towabakery) | Rentry to cards made by Towabaker
@@ -40,7 +40,6 @@ Kurokami Fubuki | [Link](https://rentry.org/Kurokami_Fubuki_made_by_solo)| Made 
 Nurse Kurokami | [Link](https://rentry.org/Nurse_Kurokami_by_Nymous)| Made by Nymous
 Maid Nyanners | [Link](https://rentry.org/Maid_Nyanners_By_wyrmer)| Made by Wyrmer
 Rushianon | [Link](https://rentry.org/Rushianon)| Made by AnonS
-Nyanon | [Link](https://rentry.org/Nyanon_Made_by_NyanNymous_)| Made in collaboration of Nymous and Nyanon
 Gurasilisk Obelus | [Link](https://rentry.org/Gurasilisk_Obelus)| Made by Wintermute
 Gurasilisk Negotia | [Link](https://rentry.org/Gurasilisk_Negotia_by_Wintermute)| Made by Wintermute
 Gurasilisk Intelegen | [Link](https://rentry.org/Gurasilisk_Inteligen_by_Wintermute)| Made by Wintermute
@@ -485,7 +484,6 @@ Bot name|Link|Tags/Description
 Mouseposter|[Link](https://beta.character.ai/chat?char=fHDFxJNQij3T1mmXe3HWzkZndRoa1BU5gCfKk-pYOEU)|
 Average lolipop|[Link](https://beta.character.ai/chat?char=m32umFDu5HfKy0eIStoiBSSgdndGdrJD6LoRSN_4tKg)
 RushiAnon|[Link](https://beta.character.ai/chat?char=gdmJlZWckX36Dl0SrAiKl5KnMrNC2qumQ8u7AJUvK7w)|Cute hope source
-Nyanon|[Link](https://beta.character.ai/chat?char=sydk2OGgb6Pd9_v4YLtDjEWGSU3M4pJYjCxH4eKLWgI)
 Average /wAIfu/ Anon|[Link](https://beta.character.ai/chat?char=kxiWB0yIkRXlzTyP75Li0VKdC2shy37p4nRFzEEO0Yo)|
 Average Numberfag|[Link](https://beta.character.ai/chat?char=Ud0JSvZV77JJ3M0qRkrjam32IRtAUFkD_R5VQPq0-BA)|
 Average VT Schizo|[Link](https://beta.character.ai/chat?char=q1F-T2zOzpvLtsvB-sEZG2KpHScnByfhsP9OiroqSKs)|

@@ -21,7 +21,7 @@ Current bans:
 - 4chan: —
 - ~~2ch~~ (left indefinitely)
 
-TO-DO LIST: Kaiju haiku
+TO-DO LIST: Cell card (30% done)
 
 ##I like...
 ->![If you are here — congrats!](https://files.catbox.moe/0rpynl.gif)<-

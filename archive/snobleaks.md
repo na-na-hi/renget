@@ -1,13 +1,23 @@
 #->%powderblue%Snoble Unofficial News Outlet%%<-
 ##->%powderblue%スノブレ非公式報道機関%%<-
-***
-***
+->%transparent%courtesy of /snowg/%%<-
+## 
+->![](https://i.ibb.co/C8qkF5Z/eatchel-jk.webp)<-
+# 
 !!! note
-	07/03/2024: Added [Version 1.7 Story Preview](https://rentry.org/snobleaks/#version-17-story-preview)
+	09/03/2024: Added [1.6 Text Changes](https://rentry.org/snobleaks/#16-text-changes)
+	07/03/2024: Added [1.7 Story Preview](https://rentry.org/snobleaks/#17-story-preview)
 	05/03/2024: Added [1.6 Paradox Labyrinth Expansion](https://rentry.org/snobleaks/#16-paradox-labyrinth-expansion)
-***
-***
-###->%powderblue%Version 1.7 Story Preview%%<-
+	05/03/2024: Moved from https://rentry.org/eatchel and https://rentry.org/katyabuff
+# 
+###%powderblue%1.6 Text Changes%%
+From patch notes 6 March 2024:
+>Optimized some dialogues in Chapter 6, 9 ,and 10 of the Main Story, and in Personal File of [Chenxing - The Observer], and [Chenxing - Ethereal Cloud]. Some details in stories have been optimized and will continue to be optimized.
+# 
+->![](https://i.ibb.co/tstcR2c/1-6-text-changes.png)<-
+
+->[To top](https://rentry.org/snobleaks/#snoble-unofficial-news-outlet)->
+###%powderblue%1.7 Story Preview%%
 Note|Speaker|en_US
 -|-|-
 Narration||Ten months ago.
@@ -77,7 +87,8 @@ Scene change|Enya (Hospital Gown)|Ah, it's snowing outside! Coming down pretty h
 |Enya (Hospital Gown)|Sure! Let's get to it~
 
 ->[To top](https://rentry.org/snobleaks/#snoble-unofficial-news-outlet)->
-###->%powderblue%1.6 Paradox Labyrinth Expansion%%<-
+# 
+###%powderblue%1.6 Paradox Labyrinth Expansion%%
 Completing level 61 to 80 requires 33,100 Exp, compared to 75,500 Exp from level 1 to 60.
 Level|Exp|Reward
 -|-|-
