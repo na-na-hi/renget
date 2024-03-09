@@ -1,6 +1,6 @@
 #Паша Техинк
-->![Jannies do it for free!](https://files.catbox.moe/chgqu1.gif)<-
-!!! danger It will take more than head games to stop me. You may have invaded my mind and my body... but there's one thing a Saiyan always keeps: his PRIDE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+->![Jannies do it for free!](https://files.catbox.moe/emxu7o.gif)<-
+!!! danger You see, I'm perfect, my botmaking is perfect, and with that I shall bring equally perfect roleplays through the rest of the universe.
 ***
 Hello, and welcome. You can just call me Pasha. Yes, the CharacterHUB nickname has a typo in it. Yes, it's also in the name of this rentry. No, my real name is not Pasha.
 Don't be afraid to email me, I will formally and politely reply to you.

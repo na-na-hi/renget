@@ -1,6 +1,6 @@
 ->![](https://64.media.tumblr.com/a7107ba00379af0529bbfbaa1fbbdfc8/b1e29dd4a23e294c-2f/s2048x3072/1bde43a931bfab2828ba04163e73e860ac66647c.pnj)<-
 ->![](https://64.media.tumblr.com/bc4b349ba2758aaf9181602000da3050/148005d13af3e47e-4a/s640x960/a40ed723a843788e7b169c9e429585330e4c9011.gifv)<-
-->![](https://media.discordapp.net/attachments/1198707406377594941/1212137185495621672/1280px-SC_S_Izumi_Mei_SSR02.jpg?ex=65f0bdb9&is=65de48b9&hm=e8f16c20195e9570d21cd098bd6cdba84585cfc1c8b1b362df7e83b0c47b05d4&)<-
+->![](https://media.discordapp.net/attachments/1198707406377594941/1212137185495621672/1280px-SC_S_Izumi_Mei_SSR02.jpg?ex=65f9f839&is=65e78339&hm=82d959b2b6e16293c47a800a3c719eb0c5338db0827c560e4346e21a4f1597b6&)<-
 ->![](https://64.media.tumblr.com/bc4b349ba2758aaf9181602000da3050/148005d13af3e47e-4a/s640x960/a40ed723a843788e7b169c9e429585330e4c9011.gifv)<-
 ->==LIST OF MY FAV CHARACTERS!!!!==<-
 ->![](https://64.media.tumblr.com/bc4b349ba2758aaf9181602000da3050/148005d13af3e47e-4a/s640x960/a40ed723a843788e7b169c9e429585330e4c9011.gifv)<-

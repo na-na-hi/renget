@@ -2,7 +2,7 @@
 
 -> [![](https://files.catbox.moe/olyuec.png)](https://boards.4channel.org/jp/catalog#s=love%20live!%20seiyuu%20thread) <-
 
--> [![](https://files.catbox.moe/5phnld.gif)]()<-
+-> [![](https://pbs.twimg.com/media/GIOiuTjbUAAuSz5?format=jpg&name=orig)]()<-
 
 ***
 **Table of Contents**
@@ -293,6 +293,9 @@ Stagecrowd WEBRip [1080p](https://nyaa.si/view/1756820)
 COUNTDOWN LoveLive! 2021→2022 ~LIVE with a smile!~
 BRRip Complete - [BDMV RAW 1080p](https://nyaa.si/view/1606588) / [1080p x265](https://nyaa.si/view/1607971)
 WEBRip - [1080p PIA WEBRip](https://nyaa.si/view/1495015) / [LQ 1080p](https://nyaa.si/view/1472852)
+
+LoveLive! Series 9th Anniversary Love Live! Fest
+BRRip - [1080p engsub](https://nyaa.si/view/1785882) / [1080 x265](https://nyaa.si/view/1786747) / [720p x265](https://nyaa.si/view/1786748) ![](https://files.catbox.moe/c95yx7.gif)
 
 ###µ's
 ####CONCERTS/LIVES/VODs

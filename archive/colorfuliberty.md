@@ -1,5 +1,5 @@
 ->![](https://64.media.tumblr.com/182b1e87d114357b9d2fd411e2d04de7/d70841293b709cf4-cc/s500x750/064438e9b198d97ad2654e1c1b04bcfee914ec38.pnj)<-
-![](https://media.discordapp.net/attachments/1198707406377594941/1210622986097401866/Untitled138_20240222191233.png?ex=65eb3b84&is=65d8c684&hm=5c7dc143476df3195609c3b9d4fc39c18e67788b11b6914590523e9d739cce22&)
+![](https://media.discordapp.net/attachments/1198707406377594941/1210622986097401866/Untitled138_20240222191233.png?ex=65fdb084&is=65eb3b84&hm=9bd9874fc1ff6369a377b996d6eac458a072ff0369c9efb0a3f0e99d92ff115f&)
 ->![](https://64.media.tumblr.com/7633e8a763d41261fd06bb1ea2f40c66/e15a0add901c6a08-83/s250x400/3d2d45ad70e91c61df66d554b4f26630c8e8f63d.gifv)<-
 ->![](https://gifs.crd.co/assets/images/gallery23/f65d8c65.gif?v=ef433a6f) **zuu.** ![](https://gifs.crd.co/assets/images/gallery23/bbba97dc.gif?v=ef433a6f)  **it**/ne[o]()s ☆ ![](https://64.media.tumblr.com/d2a12b64e50632e605be960a2136b078/fa37aa79a8e639f8-c1/s75x75_c1/65af733d4253d3af2d20993e381fbc33995806ee.gifv)<-
 ->==autistic== ![](https://gifs.crd.co/assets/images/gallery23/dc60bf03.png?v=ef433a6f) polish ![](https://files.catbox.moe/sppby0.gif) eng/pl **ok** ![](https://files.catbox.moe/xh0qem.gif)<-

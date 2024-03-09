@@ -30,6 +30,7 @@ total **active** users: 122 %red% (CLOSED) %%
 
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 
 needtocoomoridie@proton.me
+(source hints are greatly appreciated not a direct link just a few hints as that's a lot more fun)
 If it takes me more than 3 days to reply to you feel free to send another email and yell at me.
 <3 
 # Stats

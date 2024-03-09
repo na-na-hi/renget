@@ -1,6 +1,6 @@
 ->![](https://64.media.tumblr.com/31fd5135192ba83c7d3a8536dfd732c1/e745092b82fbeac5-3f/s1280x1920/35f3fe8f92be8527b686f650f16449c3178f56e8.pnj)<-
 ->![](https://64.media.tumblr.com/7325d84439f0dd8b364abf2e696f65f0/b36456aa19536e8f-42/s400x600/640b219e23be7fbcb3c74dd68f3c650f7a483fea.gifv)<-
-->![](https://media.discordapp.net/attachments/1198707406377594941/1210623075247198239/Untitled139_20240222195718.png?ex=65eb3b99&is=65d8c699&hm=98cbe1f08b6c672bc366c7800b1d9f165bf27f7305f7f4e24a297ace31340306&)<-
+->![](https://media.discordapp.net/attachments/1198707406377594941/1210623075247198239/Untitled139_20240222195718.png?ex=65fdb099&is=65eb3b99&hm=a0ddb669b1c5c9c66226fafd247b728b85cf7e7d0f508bd5c540abaf3fe790b3&)<-
 ->![](https://64.media.tumblr.com/4aee71bee6a076fb69b5d931dd3d9206/cf07a62e0d2a1ebe-e3/s400x600/c603a7b5afc8e35593fe849030db295ead48043b.gifv)<-
 ->![](https://64.media.tumblr.com/0c14bc3b0755cdffe200b619cd5db1eb/28e317415f60470e-11/s75x75_c1/a3430dc4261056238e747f04afdec768d8ebd94c.gifv) ![](https://64.media.tumblr.com/c4287d58613b15034a70eebbce9bebb9/2e220f9d268f7399-fc/s75x75_c1/6ca7f6efe579d75800c336f6d740e46637fed60e.gifv) ==SOCIALS== ![](https://wilardo.crd.co/assets/images/gallery18/392b2458_original.gif?v=b62e9456)<-
 ![](https://64.media.tumblr.com/ae903a8b30c3ff70cd7d1c0341a523cd/2e220f9d268f7399-d2/s75x75_c1/7242f3a2dce0d8caecb290d2a450224e141ea2cf.gifv) [t]()wit[t]()er :: [@nanamification](https://x.com/nanamification?t=rLzNhbu3p3HwJCtTVmIrFg&s=09)

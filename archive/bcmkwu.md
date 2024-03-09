@@ -1,3 +1,5 @@
+>Two MIM-104 Patriots go boom
+https://files.catbox.moe/bw3xb4.mp4
 >FPV Bombarding Ukrainians
 https://files.catbox.moe/chdbvs.mp4
 >FABs destroy hangar near Prykolotne

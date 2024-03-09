@@ -32,6 +32,10 @@ Magnetic Release: Rain of Shards
 
 Through the use of Magnetism, the practitioner shatters a piece of metal into a large number of thin, sharp, senbon-like shards of rough metal. After charging them with magnetic energy, they are then shot at ludicrous speeds towards the chosen target in a rapid-fire barrage not too dissimilar from an automatic weapon. As they are stripped to mere needles in order to increase their penetrative power, have the tendency to shatter upon contact, showering it's target with shrapnel. They can, alternatively, be fired all at once, creating an metallic death shower, though at a much greater cost of chakra.
 
+>磁墨: 砕け散る豪雨 (Jisumi: Sakechiru Gōu)
+Lodestone Ink:  Shattered Downpour
+
+Through the fusion of Magnetic Release and Ink Style through Lodestone Ink, tthis technique represents the evolved manifestation of Magnetic Release: Rain of Shards. Rather than having to form and launc the needles manually, the user creates a concentrated sphere of ink filled with magnetic particles, which can then be thrown and manipulated with much finer precision than the rougher form of the jutsu. At the wielder's's will, this sphere can be triggered to detonate, unleashing an explosion of sharp chakra-infused metallic shards. 
 
 >神術・裁き衝撃 (Shinjutsu: Sabaki Shōgeki)
 Divine Art: Judgement Impact

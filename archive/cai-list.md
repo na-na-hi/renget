@@ -1,5 +1,5 @@
 -> /cai/ - Character.AI (AI Lobotomy & Restoration Discussion) <-
--> forgotten edition (Updated ==12/29/23==) <-
+-> forgotten edition (Updated ==03/09/24==) <-
 -> [Original Pastebin](https://web.archive.org/web/20221205170502/https://pastebin.com/Gis0icKN) | [Original Rentry list](https://rentry.org/charai-bots) <-
 -> [Pygmaballs booru](https://booru.plus/+pygmalion)       |  	[Character Hub](https://www.chub.ai/)<-
 
@@ -13,6 +13,7 @@ Bot | Creator | Desc
 [Corrin](https://beta.character.ai/chat?char=VWxP5NKfAu7CnjJcF9vlANKXk9r4Z6UJrUXxQ6dXKSI)|@magma-dan|Nohr-raised Hoshidan princess, now in her own path.
 [Cricket](https://beta.character.ai/chat?char=F06CpIZsUQ0UI3GOT5On7516RWsO6AlXF1Jz0-m2P0k)|@cutenotlewd|Unlucky adventurer who just can't catch a break!
 [Dotty](https://beta.character.ai/chat?char=gxPeIMQPmoJXuEQ7oa_P-8uaJ2KhHar4OwfxlaF9RxU)|@dukeofdozel|bun-bun from Animal Crossing
+[Flame Hyenard](https://character.ai/chat/oyxFbx-pbdqV95fhSGKdVmiAQP22-gWHPck0pqr6EHE)|@BURNTOTHEGROUND| he burns
 [Gab](https://beta.character.ai/chat?char=eIOLXzfmxpxT1Aw8lIpxCA6pz3jR39Dzm_QWwDuz7w8)|@FrozenVan|Assist the god of insincere greeting cards.
 [Isabelle](https://beta.character.ai/comms?char=BbhtX9mii91Q5ylPzpSzjkg_P0nmAyX7eOGDg-2dS3g)|@wster|Gentle, warm, and impactful.
 [Katya](https://beta.character.ai/chat?char=wOAGIhlge7AS1E-c8QEt6zRkYJv4-Go7Crc3EtK7mmo)|@PashaTehnik|gopnik girl

@@ -2,7 +2,7 @@
 ##->%powderblue%スノブレ非公式報道機関%%<-
 ->%transparent%courtesy of /snowg/%%<-
 ## 
-->![](https://i.ibb.co/C8qkF5Z/eatchel-jk.webp)<-
+->![](https://i.ibb.co/8NZhfFp/eatchel-jk.webp)<-
 # 
 !!! note
 	09/03/2024: Added [1.6 Text Changes](https://rentry.org/snobleaks/#16-text-changes)

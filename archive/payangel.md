@@ -377,4 +377,8 @@ PGL_0073_NFLIsrael (CRF25).mp4
 
 PGL_0074_RedLightTherapyEnema (CRF25).mp4
 ```magnet:?xt=urn:btih:1cd2e5b28f6b521d9912e2c3bb1691725b2e7974&dn=PGL_0074_RedLightTherapyEnema%20(CRF25).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce```
+
+PGL_0075_Freetards (CRF25).mp4
+```magnet:?xt=urn:btih:7352e424205ad950a67e67530240fa015c4adfd8&dn=PGL_0075_Freetards%20(CRF25).mp4&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=udp%3a%2f%2ftracker.doko.moe%3a6969%2fannounce&tr=http%3a%2f%2fasnet.pw%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=http%3a%2f%2ft.nyaatracker.com%3a80%2fannounce```
+
 ###jump to latest PGL

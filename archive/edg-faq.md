@@ -10,24 +10,24 @@ You shouldn't. /edg/ isn't a fast-moving general, so one-man spam can be pretty 
 >!~ What about fringe content that is in the spirit of the thread (monster girls, mild yuri, 1girls that may be a bit on a lewder side, etc.)? ~!
 We allow it, in moderation. Be reasonable, don't go too deep into fringe territory, don't spam and you'll be fine. !>Probably.
 
->!~ Thread highlights? What's that? ~!
+>!~ Thread highlights? What are these? ~!
 It is a selection of gens from the previous thread that stood out, whether for their overall quality, or style, or pose, or composition, or exceptional eroticism, or all of the above. It was an initiative to encourage quality posting that stayed. Chosen and compiled by the thread baker the selections are obviously very subjective, so don't be sad if your gen(s) didn't make it.
 
 >!~ What is the Request Anchor for? ~!
 It is a special "anchor"-type post used for requesting specific gens or gen edits. Got a request? Reply directly to the Request Anchor with what you have in mind and some kind anon might pick it up and fulfill it. The best practice whenever your request gets fulfilled is to provide your opinion and feedback to the anon who made a gen for you.
 
 >!~ What's Catbox? ~!
-https://catbox.moe/ is a file/image hosting for imageboards. 4chan strips metadata containing prompt info, but Catbox preserves it, so anons use it to share the prompts embedded in their gens. Prompt information can be loaded from the PNG Info tab of the WebUI. Check the filename to see if it has a catbox link before asking. | 4chanx Catbox userscript: https://rentry.org/hdgcb
+https://catbox.moe/ is a file/image hosting for imageboards. 4chan strips metadata containing prompt info, but Catbox preserves it, so anons use it to share the prompts embedded in their gens. Prompt information can be loaded from the PNG Info tab of the WebUI. Check the filename to see if it has a catbox link before asking. | 4chanx Catbox + NAI prompt script: https://rentry.org/hdgcb
 Some anons may be using Stealth png info extension, which stores prompt info in the channel that doesn't get stripped by 4chan: https://github.com/neggles/sd-webui-stealth-pnginfo | For temporary storage and slightly higher size limit use https://litterbox.catbox.moe/ 
 
 >!~ Anywhere else I can share my 1girls other than /edg/?  ~!
 https://aibooru.online/ | https://www.pixiv.net/en/ (make sure to properly tag your uploads as AI art and strip all the metadata to avoid getting reported and banned for using artist styles) | https://rule34.xxx/ | Twitter | For non-/e/ posting look through the list of related generals in the OP (/b/ also has some regular AI threads with way more lax rules, if you're into that)
 
->!~ Thread logo? ~! 
+>!~ /edg/ logo? ~! 
 https://files.catbox.moe/jhf8os.png | https://files.catbox.moe/qezz6l.png
 
 >!~ OP template? ~!
-https://files.catbox.moe/9efrp7.txt
+https://rentry.org/edg-op/raw
  
  
  ## !~green;double; Technical ~!
@@ -44,7 +44,7 @@ sd-dynamic-prompts | sd-webui-ranbooru
 sd-webui-stealth-pnginfo
 sd-webui-regional-prompter
 sd-webui-depth-lib
-If you're using NAI: sdwebui-nai-api
+For NAI users: sdwebui-nai-api
 
 >!~ Noob guides? ~!
 upscaling, danbooru tags, xyz plots, prompt editing: https://youtu.be/Jya6qcokqZQ
