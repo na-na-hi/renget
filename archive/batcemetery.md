@@ -14,7 +14,7 @@ Wip. I'm changing this :-)
 ->◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠<-
 ->      =͟͟͞♡ 𓂅  **main**  ![](https://media.discordapp.net/attachments/903364339464044575/1091271792242475029/BC510E6D-3EF8-429A-9D63-FAAFEBADFE9E.gif) <-
 -> [torso](https://rentry.co/torso) & [heartstouch](https://rentry.co/heartstouch) & [finnterest](https://rentry.co/finnterest) & <-
--> [hoardurl](https://rentry.co/hoardurl) & [baefy](https://rentry.co/baefy) & [wolfidol](https://rentry.co/wolfidol) &  [dollskull](https://rentry.co/dollskull) <-
+-> [hoardurl](https://rentry.co/hoardurl) & [baefy](https://rentry.co/baefy) & [selfproclaimed](https://rentry.co/selfproclaimed) &  [dollskull](https://rentry.co/dollskull) <-
 -> & [rsrcs](https://rentry.co/rsrcs) <-
 ->◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡<-
 

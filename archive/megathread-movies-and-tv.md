@@ -129,10 +129,6 @@
 - Best place for movie enthusiasts to watch streaming movies with our regularly updated database.
 - [URL Safety Results](https://www.urlvoid.com/scan/flixtorz.to)
 
-### ▶️ [FlixWave](https://flixwave.to/)
-- Modern website for watching tens of thousands of HD movies and TV episodes, free of charge.
-- [URL Safety Results](https://www.urlvoid.com/scan/flixwave.to)
-
 ### ▶️ [FshareTV](https://fsharetv.co/)
 - Incredible platform offering a vast collection of movies and TV shows, and a delightful selection of animations.
 - [URL Safety Results](https://www.urlvoid.com/scan/fsharetv.co)

@@ -965,4 +965,108 @@
     >Among other info, his contact wanted to know about U.S. plans in the event Taiwan is attacked.
     >https://t.me/megatron_ron/2188  3/7/24
     ***  
+!!!danger  
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 7 (2024), against (US)-israeli forces:
+    >
+    >— 🇵🇸 Al-Qassam Brigades:
+    >🔻Executed a well-prepared ambush targeting an IOF force of over 20 soldiers in a strategic location, detonating several anti-personnel explosive devices in an apartment in the city of Hamad. All members were either killed or injured, yesterday.
+    ***
+    >— 🇵🇸 Al-Quds Brigades:
+    >🔻Shelled occupied settlements in the Gaza envelope with rocket salvos.
+    >🔻Launched rockets at Sderot and the settlements in the Gaza envelope.
+    >🔻Shelled a gathering of IOF soldiers on Street 10 south of Al-Zaytoun neighborhood.
+    >🔻Set up an precise ambush against a convoy of IOF military vehicles infiltrating southeast of Al-Zaytoun.
+    >🔻Targeted 3 IOF military vehicles with tandem rockets and RPGs, while also detonating a pre-rigged building in the city of Hamad, northwest of Khan Yunis, resulting in casualties.
+    ***
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >🔻Shelled a gathering of IOF soldiers and vehicles with a barrage of 60mm caliber mortar shells in the axis of Hamad, northwest of Khan Yunis.
+    >🔻Engaged in fierce clashes with IOF soldiers using appropriate weapons on the axis in Hamad, northwest of Khan Younis, achieving confirmed casualties.
+    ***
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >🔻Detonated a highly explosive device targeting a military vehicle on the Hamad axis, west of Khan Younis.
+    ***
+    >— 🟡 Hezbollah:
+    >🔻Targeted a newly established command headquarters in Liman, with artillery shells.
+    >🔻Targeted the Zaoura IOF base.
+    >🔻Shelled the settlement of Avdon with Katyusha rockets, in response to israeli attacks on Lebanese civilians.
+    >🔻Launched an aerial attack with 2 kamikaz drones, targeting the Ma'aleh Golan barracks.
+    >🔻Targeted IOF troops' positions in the settlement of Metulla , causing deaths and injuries among its members.
+    >🔻Targeted the Radar site in the occupied Shebaa Farms with rockets.
+    >🔻Targeted the Ruwaisat al-Alam site with rockets.
+    >🔻Targeted an IOF army position on the Karantina Heights with 2 kamikaze drones.
+    ***
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >🔻Targeted a military barracks in the Israeli "Rosh Pinna" airport (southeast of Safed) with a kamikaze drone strike.
+    >https://t.me/FotrosResistance/5793  3/8/24  
+    ***
 ##&#x1F34A;%#daa520%Week 3/8/24 -3/14/24%%&#x1F34A;
+!!!warning  
+    >Iran reserves right to respond Israeli threat: Envoy
+    >
+    >📌New York, IRNA – Iran’s Ambassador and Permanent Representative to the United Nations Amir Saeed Iravani has said that the Islamic Republic of Iran reserves its legitimate and inherent right to take all necessary measures to respond to any threat or attack originating from the Israeli regime against its national security and interest and its people.  
+    >https://t.me/FotrosResistance/5795  3/8/24  
+    ***
+    >Al-Qassam (Hamas)
+    >
+    >Dropped 2 anti-personnel grenades via a drone on an israeli army headquarters, east of Beit Hanoun, in the northern Gaza Strip. (Illustrative image)
+    >https://t.me/FotrosResistance/5799  3/8/24  
+    ***
+    >| BREAKING: Islamic Resistance in Iraq 🇮🇶 announces:
+    >
+    >The targeting of the oil refineries in Haifa with a kamikaze drone, this evening.
+    >https://t.me/FotrosResistance/5819  3/8/24  
+    ***
+    >Urgent || Islamic resistance in Iraq:
+    >This Friday evening, our mujahideen targeted oil refineries in Haifa, in our occupied territories, with drones.   
+    >https://t.me/me_observer_TG/164390  3/8/24  
+    ***
+    >Al-Qassam Brigades publishes scenes of an occupation army officer shooting east of Beit Hanoun in the northern #Gaza Strip  
+    >https://t.me/me_observer_TG/163971  3/8/24  
+    >https://files.catbox.moe/w2a0tj.mp4  3/8/24 
+    ***
+    >Surveillance camera documents the scene of young men stealing a “settler’s” weapon and fleeing 🇵🇸  
+    >https://twitter.com/ME_Observer_/status/1766131298127475057  3/8/24  
+    >https://files.catbox.moe/l29l1f.mp4  3/8/24  
+    ***
+    >Hezbollah announces the implementation of 3 operations, since this afternoon:
+    >
+    >- Targeting a deployment of occupation soldiers with artillery shells in the vicinity of the monk’s site.
+    >
+    >- Targeting a gathering of occupation soldiers and vehicles east of the Al-Samaqa site with missile and artillery weapons.
+    >
+    >- Targeting the Ruwaisat Al-Alam site with missile weapons and hitting it directly.  
+    >https://t.me/me_observer_TG/164050  3/8/24  
+    ***
+    >The moment the bomb exploded in Nour Shams camp a short while ago 🔥
+    >
+    >Crushing explosive device 🔥
+    >I salute your right hand...🥷
+    >https://t.me/me_observer_TG/164442  3/8/24  
+    >https://files.catbox.moe/kjl9zc.mp4  3/8/24
+    ***
+    >BREAKING:  
+    >The US is preparing 1000 troops to send to Gaza  🇺🇲🇵🇸.
+    >The Pentagon on the temporary Gaza port:
+    >"We will likely need 1,000 American soldiers"
+    >Biden also announced that Israelis will secure the "temporary" port to provide aid to Gaza
+    >The same Israelis that are blocking the aid and starving 2.2 million people in Gaza, will be commissioned to secure the transfer of aid to the Strip through the US military-built port.
+    >The purpose is already known, the extraction of the gas located on the coast of Gaza, which was also written about by The Jerusalem Post.
+    >
+    >Today, Israeli media also wrote that the invasion of Gaza has stalled and there is no progress. Hamas hold their positions firmly. Therefore, it is not excluded that these troops join the IDF.  
+    >https://t.me/megatron_ron/2198  3/8/24  
+    ***
+    >According to the latest tolls by health officials in Gaza, out of the 30,878 confirmed deaths in Israel's war, nearly 9,000 are women, and another 13,000 are children. Additionally, there are nearly 60,000 pregnant women in the enclave suffering from dehydration and malnutrition due to Israeli blockade.
+    >
+    >The UN Palestinian aid agency UNRWA noted that the death toll translates to an average of 63 women killed in Gaza per day, with 37 of them being mothers.  
+    >https://t.me/QudsNen/98184  3/8/24  
+    ***
+    >The only moment in the State of the Union Address when Republicans stood and applauded Biden was when he supported the genocide in Gaza.
+    >There is no politician left in the United States who does not support the genocide.
+    >
+    >That is the agenda of the globalists and they are following the agenda. Oil and gas in the Middle East is most important to them, and they are not going to give up just like that.
+    >
+    >Due to both groups, the population is already well brainwashed. They support wholesale genocide because their political idols tell them to.
+    >How can the situation change for the Palestinians and all other peoples in the Middle East, who have been relentlessly bombarded for decades?
+    >Bombs, drones, and missiles is your only answer. They only understand that language. And of course you have to get rid of the traitors. Otherwise, you will never have peace, never.  
+    >https://t.me/megatron_ron/2191  3/8/24         
+    ***

@@ -45,7 +45,7 @@ https://rentry.org/x5ayvpzb
 >Kichōna
 >>92030925
 >Nodao-Douji
->>92038842
+>>92130402
 
 >Team 3
 >Kamiko Karatachi
@@ -65,7 +65,7 @@ https://rentry.org/x5ayvpzb
 >Itami Nanae
 >>92041809
 >Kazen Uzumaki
->>92093797
+>>92129825
 
 >Team 5
 >Ezaki Tuto
@@ -87,29 +87,35 @@ https://rentry.org/x5ayvpzb
 >Sen Yamamoto
 >>92095664
 
->Teamless:
->Darkbone
->>92064881
->Taihō Shiryō.
->>92065120
->Ahiratsu Ōtsutsuki
->>92073651
->Kuro Blackshadow
->>92091505
->Kijyo-Douji
->>92092125
+>Team 7
+>Fujiwara Nobutake
+>>92104939
 >Kamare Hozuki
 >>92097216
 >Daiki Ueno
 >>92099009
+
+>Teamless:
+>Taihō Shiryō.
+>>92065120
+>Kuro Blackshadow
+>>92091505
 >Barou
 >>92099661
->Engetsu Bōfū
->>92101140
->Fujiwara Nobutake
->>92104939
 >Mojo Kichona
 >>92118374
+>Mojo Nakasendou
+>>92130059
+
+>Loners:
+>Ahiratsu Ōtsutsuki
+>>92073651
+>Darkbone
+>>92064881
+>Kijyo-Douji
+>>92092125
+>Engetsu Bōfū
+>>92101140
 ```
 ***
 Page 2
@@ -155,6 +161,12 @@ Taiho (+Background and Strategy)
 https://rentry.org/z7myt7wk
 Tsugumi
 https://rentry.org/TsuDiary
+
+Jutsu List:
+Kazen:
+https://rentry.org/5kp2svbp
+Shinro:
+https://rentry.org/ShinroJutsu
 ```
 
 #Fighting Autism Tournament
@@ -518,14 +530,8 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Art:
->1-F Maids
->>92120347
->motley maids
->>92120355
->max
->>92121336
->1D maid cafe
->>92122707
+>tulpa
+>>92126151
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

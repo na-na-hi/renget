@@ -137,6 +137,10 @@
 - An general purpose Spotify skip-bypass and adblocker with all premium features excluding downloads, are unlocked.
 - [URL Safety Results](https://www.urlvoid.com/scan/github.com/)
 
+### 🖥️ [muffon](https://muffon.netlify.app/)
+- Versatile music streaming client offering seamless listening, exploration, and organization of music with enhanced features.
+- [URL Safety Results](https://www.urlvoid.com/scan/muffon.netlify.app/)
+
 ### 🖥️ [Nicotine+](https://nicotine-plus.org/)
 - A graphical client for Soulseek that is often updated with additional functionality but still adhering to the Soulseek protocol.
 - [URL Safety Results](https://www.urlvoid.com/scan/nicotine-plus.org/)

@@ -12,6 +12,7 @@
 [%#18C4F0%~♡ Affection Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#affection-stat-tracker)
 [%#18C4F0%~♡ LUST LEVEL Stat Tracker%%](https://rentry.org/crustcrunch_fun_JBs#lust-level-stat-tracker)
 [%#18C4F0%~♡ Doujin Translator Notes%%](https://rentry.org/crustcrunch_fun_JBs#doujin-translator-notes)
+[%#18C4F0%~♡ Assistant Review%%](https://rentry.org/crustcrunch_fun_JBs/#assistant-review)
 
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 
@@ -72,6 +73,27 @@ Adds formatted commentary at the bottom of your responses from the translator wo
 
 **Example:**
 ![tn](https://files.catbox.moe/z0joca.png)
+
+-> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
+
+##%#f590d5%Assistant Review%%
+Make the AI grade your writing.
+![](https://files.catbox.moe/g2murs.gif)
+
+**Short Version:** 
+SPECIAL NOTE: At the end of your response, the Assistant will issue an OOC (Out of Character) message reviewing the writing quality of {{user}}'s last reply in the following format:
+(OOC: [Critical evaluation from Assistant in 1-2 sentences.])
+
+**Long Version:** 
+SPECIAL NOTE: At the end of your response, the Assistant will issue an OOC (Out of Character) message grading the writing quality of {{user}}'s last reply in the following format:
+(OOC: Here's my review of your last response,
+Spelling: x/20
+Grammar: x/20
+Vocabulary: x/20
+Coherence: x/20
+Creativity: x/20
+TOTAL SCORE: x/100
+[Critical evaluation from Assistant in 1-2 sentences.])
 
 -> ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) ![divider](https://64.media.tumblr.com/9611c6c8bb582c0b136bccf086bf771c/tumblr_p58uugid3I1ve087jo8_400.gifv) <-
 

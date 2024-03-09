@@ -124,6 +124,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The Wag of a Finger: Hangover Cure (ft. Beast)](https://rentry.org/uuauk)
 * Beau the Espeon
 	* [Within Me (ft. Beau)](https://rentry.org/dy7aab2h)
+	* [Within Me ch. 2 (ft. Beau)](https://rentry.org/WithinMe2)
 * Bill the Growlithe
 	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
@@ -606,9 +607,10 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [We're Team Overclock: Chapter 2 (ft. Error)](https://rentry.org/ironvaliant5)
 * [Togetic's Echoes of Adventure](https://rentry.org/3odi7xbf)
 * [Black, Blue, And Red all Over (ft. Turk)](https://rentry.org/turklucario3)
-* [Within Me (ft. Beau)](https://rentry.org/dy7aab2h)
+* [Within Me ch. 1 (ft. Beau)](https://rentry.org/dy7aab2h)
 * [Circus Freaks (ft. Kenny)](https://rentry.org/kennyabra)
 * [One-Leaf Clover (ft. Cider)](https://rentry.org/CiderEntry001)
+* [Within Me ch. 2 (ft. Beau)](https://rentry.org/WithinMe2)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

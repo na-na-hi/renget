@@ -1,4 +1,4 @@
-#**Second (Official) Clover Guild Character Q&A**
+#Second (Official) Clover Guild Character Q&A
 
 !!!Warning: Please write all entries into a text editor, refresh the page, then COPY and PASTE into this rentry page to avoid overwriting others' entries. 
 

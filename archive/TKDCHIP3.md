@@ -26,7 +26,10 @@
     >
     >🔻Beautiful Merkava kill.
     >https://files.catbox.moe/ofqerq.mp4  New  3/4/24
- !!!note 
+    ***
+    >Al-Qassam Brigades publishes scenes of an occupation army officer shooting east of Beit Hanoun in the northern #Gaza Strip 
+    >https://files.catbox.moe/w2a0tj.mp4  New  3/8/24                 
+!!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
     > https://files.catbox.moe/aufqqi.mp4  New  3/1/24
@@ -128,4 +131,14 @@
     ***
     >Ukrainian mercenaries join the IDF in the massacre in Gaza
     >https://files.catbox.moe/fsder5.mp4  New  3/7/24   
+    ***
+!!!warning
+    ##Week 3/8/24 - 3/14/24   
+    >The moment the bomb exploded in Nour Shams camp a short while ago 🔥
+    >Crushing explosive device 🔥
+    >I salute your right hand...🥷
+    >https://files.catbox.moe/kjl9zc.mp4  New  3/8/24
+    ***    
+    >Surveillance camera documents the scene of young men stealing a “settler’s” weapon and fleeing 🇵🇸  
+    >https://files.catbox.moe/l29l1f.mp4  New  3/8/24  
     ***

@@ -11,6 +11,15 @@ Anime model is cookin; https://pixeldrain.com/u/dFWmmFq5 bring a YAML. You can u
 Fluffusion is a 704 base resolution model with aspect ratio buckets, Clip Skip 2 and effectively unlimited token limits. Now with modern v-prediction.
 
 ### R3 (704x):
+#### Helpful Negs:
+
+`no pupils, empty eyes, derp eyes` (If eyes are present. `derp eyes` is an optional extra.)
+`black background` (Deals with dark images at low CFG rescale.)
+`blurred background` (If you want to avoid the depth of field or photo background effect.)
+`sketch` (If the style isn't sketchy/unfinished, see `by dacad` for a style that's half sketch half painting.)
+`comic` (Helps reduce panels being generated with more than one character.)
+`screentone` (Reduces noise for smooth, or cel shaded styles.)
+
 * v-prediction YAML https://gist.githubusercontent.com/Jordach/acbac81727f4c1b3520b4b35373898f9/raw/506a7b2cf95c200ae31fbd1d6abd0f422653e4d5/fluffusion_r3_eX_704x_vpred.yaml
 * csv https://gist.github.com/Jordach/acbac81727f4c1b3520b4b35373898f9/raw/506a7b2cf95c200ae31fbd1d6abd0f422653e4d5/fluffusion_r3_tags.csv
 * CFG Rescale Extension: https://github.com/Seshelle/CFG_Rescale_webui

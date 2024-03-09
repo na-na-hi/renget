@@ -3,6 +3,10 @@
 
 Heavily WIP currently, so don’t be surprised if this gives you incorrect or incomplete information. I plan on adding to this as I get more familiar with SkyTemple. The goal is to provide straightforward, easy to reference information on using SkyTemple. The creation of this is partly for my own reference and partly out of spite for aggressive Discord shilling. I’ll include links to the videos I’m using as reference material with appropriate timestamps, if you prefer video tutorials.
 
+###[SkyTemple Wiki](https://wiki.skytemple.org)
+There is now a WIP wiki made by the SkyTemple community, that will likely be more complete and thorough than whatever I can figure out.
+[List of Op Codes](https://wiki.skytemple.org/index.php/List_of_Opcodes)
+
 ###Useful Links
 [SkyTemple FAQ Google Doc (Updated 07/19/2023)](https://docs.google.com/document/d/1VdSQu-mBtbnEMEkYkXa9kEX41bzGtqtHm3bjUk7oxzE/edit)
 [ExplorerScript Language Specification](https://explorerscript.readthedocs.io/en/latest/language_spec.html)

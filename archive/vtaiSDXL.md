@@ -709,6 +709,13 @@
 ##### -> Muu Muyu <-
 -> [Civitai](https://civitai.com/models/309439/muu-muyu-ponyxl) <-
 
+#### -> 774 inc <-
+-> ![Nanashiinku](https://files.catbox.moe/cqfbty.png) <-
+***
+##### -> (Sugar Lyric) Ryugasaki Rene <-
+!!! info 3 Outfits!
+-> [Civitai](https://civitai.com/models/326532/xl-10-rene-ryugasaki-or-sugar-lyric-774-inc) <-
+
 #### -> VShojo <-
 -> ![VSHOJO](https://files.catbox.moe/35i05q.png) <-
 ***

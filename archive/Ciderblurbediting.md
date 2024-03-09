@@ -23,23 +23,20 @@ Aspiring to be an Explorer from a young age, his lack of world experience has le
 Lonely by nature, Cider found himself satisfied with the company of his own thoughts more than anything else, but this does not mean he broods or is antisocial. He's simply used to fending for himself and standing on his own two feet, and so he does. Yet despite what he tells himself - deep down there is a piece of his heart that's longing, desperate for a friend. A true friend who would stick with him through thick and thin. The type of friend he's been silently searching for all this time.
 A partner, of sorts.
 
+>Character Traits
+- Cider's plumage has been personally preened solely to resemble Chatot's in general flow and texture. Probably hard to notice unless you're a bird.
+- Cider has a tendency to hoot or 'hoo' when tired or startled. He can't do it on command, it's simply a natural response. Forcing it out just gives you some awkward pronounciation of 'who.'
+- Cider is a neat freak and a germaphobe, and absolutely hates getting his feathers wet or dirt, and will usually drop whatever he's doing to clean them. Cider's room is also spotless and organized, and if there's one thing misplaced or otherwise missing from it he'll notice right away.
+- Cider is incredibly silent with almost everything he does, and his wings being built for minimal flapping while in flight helps facilitate this. He slinks around the Guild with ease, and is hard to track down because of how silently he can up and vanish.
+- Cider is capable of clicking his beak and making a horrible hissing noise. (Look up how Barn Owls intimidate things)
+
 >Important Relationships
 - **Spinda's Cafe:** Spinda is his mom lmao. He'll never admit it up front, but he has a familial relationship with Spinda and the rest of the Spinda's Cafe owners, viewing them as his surrogate family. He often writes to them, usually complaining about the Guild and warning them not to even bother visiting. 
+- **Chatot:** Chatot is his idol, and Cider claims to be Chatot's number one superfan. A vast majority of Chatot's mail is made up of letters and various other fan mail from Cider. Cider considers Chatot to be one of the model examples of an Explorer and strives to be like him in every way possible.
 
 >Goals
 **Master Rank:** Cider desires to reach the rank of Master Explorer, which he will consider as the peak of his exploration career. He definitely won’t rest until he has that shiny black badge.
 
 **Explorer's Life:** Despite him desiring the much more prestigious Wigglytuff’s Guild, he is content enough to train at the Clover Guild to achieve his dreams, and ideally graduate before long. He intends to become a famous Explorer on the level of Chatot and Wigglytuff, one that will serve as inspiration to those that'll come after him, repeating the cycle. 
 
->Biology
-**Physical** - A plumage that varies between golden-brown and pale cream, incredibly sharp talons, and well developed legs to facilitate grasps and kicks are the hallmarks of any Rowlet. Their powerful, yet silent wings sport leaves lining the undersides of his wings. Older Rowlet sometimes even grow leaves at the tips of their bodies. Like most Grass-types, these leaves are in a symbiotic relationship with the mon, constantly performing photosynthesis and providing food and natural energy to the host. They also empower Cider’s Grass-type moves and heighten his connection to nature.
-
-These leaves are emerald green all throughout Spring and Summer, then turn a vivid scarlet in the Autumn, before falling off on the winter solstice, replaced by a fresh, stronger set of greens. The Rowlet line considers the winter solstice to be the day where their latest coat of feathers has grown in, and treat it like their birthdays. Rowlet are buoyant and sustained fliers, reaching top speeds of 20 mph. 
-
-**Blade Quills** - Each wing of a Rowlet carries a pair of 15 bristle, kunai-like feathers called ‘Blade Quills,’ or simply Quills for short. These Quills are unique in shape to each Rowlet, but all are sharp and pointed enough to pierce rock and concrete. These feathers are loosely attached to the wing and with certain muscle flexes, they can be primed and thrown with simple wing sweeps. 
-
-A Rowlet who uses up all 30 Quills in a day must wait for a day so they can regrow. Rowlets CAN bristle their other feathers and use them as additional Quills, but this begins to impact their flying and their non-Quill feathers do not grow in as quickly as Quills. Thus, most Rowlet would rather die than pull out their own feathers for combat. 
-
-**Aura** - The Rowlet line stands among others for their innate connection to Aura, manifesting even in the first stage. Aura wraps around these owls in an unusual way, and as they grow and evolve, the connection strengthens until they become a Decidueye, and gain full access to legendary techniques like the Aura Sphere. Their Blade Quills, being extensions of the body, are also very useful for channeling Aura techniques, allowing them to execute certain moves from afar.
-
-This same Aura, however, is also easily tainted by Ghost-type energies, moreso than other species. Their pure spirits lack resistance to Ghost-type powers, resulting in twisted, aberrant developments. Indeed, tales of undead Decidueye who stalk the night with soul-shackling Quills are whispered in areas where the Rowlet line is plentiful.
+**Master Mirror Move:** Cider seeks to master the Mirror Move technique, which is a Flying-type move that perfectly copies an enemy's attack, no matter what it is. He's convinced that once he learns the technique, he'll have fully mastered the art of Flying-type combat. Plus he'll be on Chatot's level.

@@ -35,7 +35,7 @@ If you don't have a GPU, either local install the NVIDIA version, or go to the g
 ---
 
 !!! Note Nvidia
-	Latest as of 12/03/23 [Version 17b gpu-cuda](https://huggingface.co/wok000/vcclient000/resolve/main/MMVCServerSIO_win_onnxgpu-cuda_v.1.5.3.17b.zip)
+	Latest as of 3/08/24 [Version 18a gpu-cuda](https://huggingface.co/wok000/vcclient000/blob/main/MMVCServerSIO_win_onnxgpu-cuda_v.1.5.3.18a.zip)
 !!! If your GPU isn't showing up on the NVIDIA version grab the [NVIDIA Cuda Toolkit drivers](https://developer.nvidia.com/cuda-downloads) 
 	117 or 11.7 / 118 or 11.8, version 120+ / 12+ afaik is unsupported currently, this is the same for RVC as well.
 
@@ -44,7 +44,7 @@ If you don't have a GPU, either local install the NVIDIA version, or go to the g
 ---
 
 !!! Note AMD & INTEL ARC 
-	Latest as of 12/03/23 [Version 17b directml](https://huggingface.co/wok000/vcclient000/resolve/main/MMVCServerSIO_win_onnxdirectML-cuda_v.1.5.3.17b.zip) 
+	Latest as of 3/08/24 [Version 18a directml](https://huggingface.co/wok000/vcclient000/blob/main/MMVCServerSIO_win_onnxdirectML-cuda_v.1.5.3.18a.zip) 
 
 !!! If you are AMD I would highly recommend this alternative which is using the official Mainline RVC and manually installing it, as you will actually get far better performance. I have made a neat script to do so first [download the DirectML file](https://github.com/Enrop/RVC-test/releases), then [read this to see what you need to install as a prereq](https://github.com/Enrop/RVC-test/blob/main/README.md), that is it.
 
@@ -53,7 +53,7 @@ If you don't have a GPU, either local install the NVIDIA version, or go to the g
 ---
 
 !!! Note MAC (intel based macs DO NOT WORK with prebuild stuff) 
-	Latest as of 12/03/23 [Version 17b Mac](https://huggingface.co/wok000/vcclient000/resolve/main/MMVCServerSIO_mac_onnxcpu-nocuda_v.1.5.3.17b.zip) 
+	Latest as of 3/08/24 [Version 17b Mac](https://huggingface.co/wok000/vcclient000/resolve/main/MMVCServerSIO_mac_onnxcpu-nocuda_v.1.5.3.17b.zip) 
 
 ---
 ## Online Hosted Alternatives
@@ -206,6 +206,8 @@ Raising IN gain, raises all the background noise in your mic, get something like
 
 !!! Note If what is listed isn't clear output wise, go to the next largest value for chunk, ex: 96 ➡️ 112 ➡️ 128 etc.
 	Reminder that if you are on AMD or INTEL ARC you have to EXPORT your VOICE MODEL to ONNX, and REUPLOAD the model.
+
+FCPE has released, use this, less resources, technically can run lower chunks, but it is slightly worse in "quality" but it's definitely worth using.
 
 ---
 ### GPU Chart for Known Working Chunk&Extra

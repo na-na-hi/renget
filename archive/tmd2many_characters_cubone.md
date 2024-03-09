@@ -112,8 +112,8 @@ Item Name | Description
 ------ | :----: 
 *Worn Item: Empty* | Empty
 *Equipped Item: None* | Empty
-1. Heal Seed | Cures all status conditions.
-2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+1. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+2. None | N/A
 3. None | N/A
 4. None | N/A
 

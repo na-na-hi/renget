@@ -57,6 +57,19 @@ Information on the characters that I specifically own goes here.
 
 **Flying-type:** The Flying type is distinguished by aerial maneuverability and speed. Flying-types typically wear their opponents down by dodging attacks and assaulting from unplanned angles, and usually the only thing that can rival a Flying-type in aerial combat is another Flying type. Most Flying-types like to mob opponents, but when working solo Flying-types opt for quick subduements from stealth. Flying types are usually very fragile and incapable of taking many hits, so they use their evasion and other crafty tricks to tip the tide in their favor. 
 
+>Biology
+**Physical** - A plumage that varies between golden-brown and pale cream, incredibly sharp talons, and well developed legs to facilitate grasps and kicks are the hallmarks of any Rowlet. Their powerful, yet silent wings sport leaves lining the undersides of his wings. Older Rowlet sometimes even grow leaves at the tips of their bodies. Like most Grass-types, these leaves are in a symbiotic relationship with the mon, constantly performing photosynthesis and providing food and natural energy to the host. They also empower Cider’s Grass-type moves and heighten his connection to nature.
+
+These leaves are emerald green all throughout Spring and Summer, then turn a vivid scarlet in the Autumn, before falling off on the winter solstice, replaced by a fresh, stronger set of greens. The Rowlet line considers the winter solstice to be the day where their latest coat of feathers has grown in, and treat it like their birthdays. Rowlet are buoyant and sustained fliers, reaching top speeds of 20 mph. 
+
+**Blade Quills** - Each wing of a Rowlet carries a pair of 15 bristle, kunai-like feathers called ‘Blade Quills,’ or simply Quills for short. These Quills are unique in shape to each Rowlet, but all are sharp and pointed enough to pierce rock and concrete. These feathers are loosely attached to the wing and with certain muscle flexes, they can be primed and thrown with simple wing sweeps. 
+
+A Rowlet who uses up all 30 Quills in a day must wait for a day so they can regrow. Rowlets CAN bristle their other feathers and use them as additional Quills, but this begins to impact their flying and their non-Quill feathers do not grow in as quickly as Quills. Thus, most Rowlet would rather die than pull out their own feathers for combat. 
+
+**Aura** - The Rowlet line stands among others for their innate connection to Aura, manifesting even in the first stage. Aura wraps around these owls in an unusual way, and as they grow and evolve, the connection strengthens until they become a Decidueye, and gain full access to legendary techniques like the Aura Sphere. Their Blade Quills, being extensions of the body, are also very useful for channeling Aura techniques, allowing them to execute certain moves from afar.
+
+This same Aura, however, is also easily tainted by Ghost-type energies, moreso than other species. Their pure spirits lack resistance to Ghost-type powers, resulting in twisted, aberrant developments. Indeed, tales of undead Decidueye who stalk the night with soul-shackling Quills are whispered in areas where the Rowlet line is plentiful.
+
 >Fighting Style
 **Ranged** - Blade Quills are the bread and butter of the Rowlet line, and Cider is no exception. In a fight, he will attempt to keep back from an opponent, or outright take to the skies, before launching the knifelike feathers at his opponents, usually aiming for weak points, or to set up entrapments for his other moves. These Quills are incredibly sharp and piercing, but are limited in supply and must be properly aimed.
 The most important part is keeping away from the enemy and avoiding attacks, since Cider is incapable of taking many hits.
