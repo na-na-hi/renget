@@ -39,7 +39,7 @@ Stories written by me, or that I otherwise had a hand in.
 - **Published**: {Coming Soon.}
 
 ## Characters
-Information on the characters that I specifically own goes here.
+Information on the characters that I created goes here. They're automatically free to use by anyone. 
 ###Cider
 >Overview
 **Personality Blurb:** https://rentry.org/Ciderblurbediting 
@@ -111,3 +111,15 @@ Inner Energy/Aura replaces the normally used Sunlight in this process, causing r
 >Moves
 Also called Martials, Artes, or referred to with the blanket term of 'Martial Artes,' these are the ‘4 moveslot’ moves you know about, that civilized Pokémon and stronger Wilds utilize in fights. These specialized techniques are taxing but varied in strength and type-coverage, and as such most Pokémon only focus on 4 moves and usually must outright forget one to learn another. This limitation can be circumvented by some truly powerful Pokémon, however. 
 Learned either from experience and personal development of a Pokémon’s body, taught by Move Tutors, or from mysterious Technical Machines that just work. They just work.
+
+###Bandit and Loot
+>Overview
+
+###Blue Kecleon
+>Overview
+
+###The Black Fog
+>Overview
+
+###The Black Fog
+>Overview

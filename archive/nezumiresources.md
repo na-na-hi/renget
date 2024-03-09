@@ -1,0 +1,23 @@
+![divider top](https://files.catbox.moe/cluxct.jpeg)
+![art by @mothsuki on instagram](https://files.catbox.moe/gc6d1z.jpeg)
+![divider](https://files.catbox.moe/dsul71.jpeg)
+-> ![](https://media.discordapp.net/attachments/860333357169508355/1055308637914026005/N0rq1bf.png)  [![pixels](https://files.catbox.moe/jw8mq0.png)](https://rentry.co/nezumipixels) ✦ [![dividers](https://files.catbox.moe/pts7dv.png)](https://rentry.co/nezumidividers) ✦ [![home](https://files.catbox.moe/qp7wl2.png)](https://rentry.co/kyodairashi) ![](https://media.discordapp.net/attachments/860333357169508355/1055308638182453248/L0XuzE4.png) 
+![divider](https://files.catbox.moe/dsul71.jpeg)
+❝those are my favourite resources, i hope
+you enjoy them as much as i do.❞ he says.
+❝and please credit the original creators if 
+needed.❞ the older brother adds. <-
+![divider bottom](https://files.catbox.moe/05j6ah.jpeg)
+->![](https://media.discordapp.net/attachments/1065781217678594148/1075643787071729724/image0.jpg) <-
+
+☆ ![](https://media.discordapp.net/attachments/860333357169508355/1090380646377082910/oie_282327Kk4ie2X8.png) . . **fonts & text**
+- %#8f130c%[cool text](https://cooltext.com) ✧  [dafont](https://www.dafont.com) ✧ [1001 fonts](https://www.1001fonts.com) ✧  [befonts](https://befonts.com) ✧  [fontspace](https://www.fontspace.com) ✧  [fontesk](https://fontesk.com) ✧  [dribbble](https://dribbble.com/tags/free_font)%%
+
+☆ ![](https://media.discordapp.net/attachments/860333357169508355/1090380646377082910/oie_282327Kk4ie2X8.png) . . **pixels**
+- %#8f130c%[mine](https://rentry.co/nezumipixels) ✧  [mikejima](https://mikejima.crd.co/#s) ✧  [xyz](https://xyz.crd.co/#tiny) ✧  [rsrcs](https://rentry.org/rsrcs) ✧  [resource pixels](https://rentry.co/resourcepixels) ✧  [barok](https://barok.crd.co/#pixels) ✧ [supplies](https://supplies.ju.mp/#tiny) ✧ [biscuit](https://biscuit.crd.co/#pixels) ✧  [wilardo](https://wilardo.crd.co/#pixel) ✧ [strategist](https://strategist.neocities.org/tinypix) ✧ [pixelcore](https://rentry.co/pixelcore) ✧ [watermelon](https://watermelon.crd.co/#graphics) ✧ [wiltedpixels](https://rentry.co/WILTEDPIXELS) ✧  [ashepixels](https://rentry.co/colorsorted) ✧ [masqueradeball](https://rentry.co/masqueradeball) ✧  [yokai](https://yokai.crd.co/#pixels) ✧  [tomomi](https://tomomi.neocities.org) ✧  [gifs](https://gifs.crd.co/#pixels) ✧ [moone](https://rentry.co/cdyuon) ✧  [noviecita](https://noviecita.crd.co/#pixels) ✧  [pixel](https://pixel.crd.co) ✧ [maguro](https://maguro.carrd.co/#pixels) ✧  [enchantments](https://enchantments.carrd.co/#pix) ✧  [namie](https://namie.uwu.ai/#pixels) ✧  [phonecharm](https://phonecharm.carrd.co/#pix) ✧ [guobeng](https://rentry.co/guobengpix) ✧ [puddings](https://rentry.co/puddings) ✧ [angie pixels](https://rentry.co/AngiesPixels) ✧ [pixel galaxy](https://rentry.co/pixelpix) ✧  [pixel playground](https://rentry.co/pixelplayground) ✧  [quietly](https://rentry.co/quietIy) ✧  [ciel](https://rentry.co/cieldecome) ✧ [vamptism](https://rentry.co/vamptism) ✧ [vermillion](https://vermillion.drr.ac/#pixels) ✧ [resourcez](https://resourcez.carrd.co/#pixel) ✧ [borderpixels](https://rentry.co/borderpixels)%%
+
+☆ ![](https://media.discordapp.net/attachments/860333357169508355/1090380646377082910/oie_282327Kk4ie2X8.png) . . **decor / symbols**
+- %#8f130c%[symbols](https://rentry.co/symbol) ✧ [symb](https://rentry.co/symb3) ✧ [cool symbol](https://coolsymbol.com) ✧ [cool symbols](https://www.coolsymbols.io) ✧ [glyphy](https://glyphy.io/cool-symbols) ✧ [made in text](https://www.madeintext.com/text-symbols/) ✧  [nuevebesitos](https://rentry.co/nuevebesitos) ✧ [zombieteef](https://zombieteef.drr.ac) ✧ [symbols](https://sntry.cc/symbols) ✧ [emojicombos](https://emojicombos.com/kaomoji)%%
+
+☆ ![](https://media.discordapp.net/attachments/860333357169508355/1090380646377082910/oie_282327Kk4ie2X8.png) . . **dividers**
+- %#8f130c%[mine](https://rentry.co/nezumidividers) ✧   [moone](https://rentry.co/ppuao) ✧  [rsrcs](https://rentry.org/finnsdividers) ✧ [wilardo](https://wilardo.crd.co/#div) ✧  [mikejima](https://mikejima.crd.co/#d) ✧  [enchantments](https://enchantments.carrd.co/#div) ✧  [namie](https://namie.uwu.ai/#dividers) ✧ [phonecharm](https://phonecharm.carrd.co/#divs) ✧  [guobeng](https://rentry.co/guobengdiv) ✧ [smiled](https://rentry.co/smiIed) ✧ [ciel](https://rentry.co/cieldividers) ✧ [borderdividers](https://rentry.co/borderdividers)%%

@@ -25,7 +25,7 @@
 ---- | ---- | 
 **Origin:** ??? | **Guild Role:** Butler | **Nature:** Quiet
 **Species:** Cubone | **Affiliation:** Marrow Tribe | **Favorite Color:** Unknown
-**Level:** 11 | **Experience to Next Level:** 27/110 | **Alignment:** Lawful Good
+**Level:** 11 | **Experience to Next Level:** 35/110 | **Alignment:** Lawful Good
 **Worn Item:** *N/A* | **Clothing:** *N/A* | **Age:** Unknown
 **Pokécoin:** 400₽ | **Glorious Gold:** 0 Bars | **Gender**: Male
 
@@ -113,7 +113,7 @@ Item Name | Description
 *Worn Item: Empty* | Empty
 *Equipped Item: None* | Empty
 1. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
-2. None | N/A
+2. Dye Bomb x2 | Explodes in a splash of bright ink. >4; the Opponent's Accuracy is decreased by 1. Stacks up to 4. Can be thrown. Has a Berry's AP cost.
 3. None | N/A
 4. None | N/A
 

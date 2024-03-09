@@ -747,8 +747,11 @@ Crimes Against Civilization: https://desuarchive.org/tg/post/92075566/
 Orochi: https://desuarchive.org/tg/post/92088248/
 Sandatsu doraemowari: https://desuarchive.org/tg/post/92089201/
 i can explain (Inigo, Hoge): https://desuarchive.org/tg/post/92102560/
-vodoo(Mio, Sandatsu): https://desuarchive.org/tg/post/92111890/
 dementia girl: https://desuarchive.org/tg/post/92109545/
+1-F Maids: https://desuarchive.org/tg/post/92120347/
+motley maids: https://desuarchive.org/tg/post/92120355/
+1D maid cafe: https://desuarchive.org/tg/post/92122707/
+tulpa: https://desuarchive.org/tg/post/92126151/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -796,6 +799,7 @@ do your best: https://archive.4plebs.org/tg/thread/91673568/#91676099
 Underground Gala Mio: https://desuarchive.org/tg/post/91759097/
 Mio: https://desuarchive.org/tg/post/91805597/
 Sandatsu Carries a Ball: https://desuarchive.org/tg/post/91829481/
+vodoo(Mio, Sandatsu): https://desuarchive.org/tg/post/92111890/
 
 >Individual Pieces by Sandatsu anon
 Last Rite: https://archive.4plebs.org/tg/post/89167804
@@ -821,6 +825,7 @@ delinquent(Yui): https://archive.4plebs.org/tg/post/91759884/
 CHIHIRO: https://archive.4plebs.org/tg/post/91767116/
 Reaper: https://desuarchive.org/tg/post/91805588/
 Sandy Fights a Troll: https://desuarchive.org/tg/post/91829392/
+max: https://desuarchive.org/tg/post/92121336/
 
 ***
 

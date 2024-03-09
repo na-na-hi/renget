@@ -853,7 +853,7 @@ http://www.miyakikankou.jp/main/97.html
 
 Oki Traditional Sumo (Oki Islands, Shimane)
 https://www.kankou-shimane.com/en/destination/1388
-(from 9:05) https://www.dailymotion.com/video/x84djeq
+(see Begin Japanology S06E32 - Remote Islands; from 9:05)
 
 Encyclopedia of Shinto: Sumo
 https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8936

@@ -7,9 +7,9 @@ Ornery Grace is a clanswoman in some backwater place of the Air Continent. Sketc
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Leader
 **Species:** Seviper | **Affiliation:** Team Gildscales
-**Level:** 12 | **Experience to Next Level:**98/120
+**Level:** 12 | **Experience to Next Level:**106/120
 **Worn Item:** *Nothing* | **Clothing:** *Hydreigon Collar, Gold Bracer, Red Gem*
-**Pokécoin:** 345₽ (3210₽ in bank) | **Glorious Gold:** 0 Bars
+**Pokécoin:** 345₽ (3288₽ in bank) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -58,7 +58,7 @@ Eᴍᴘᴛʏ | Description. | N/A
 
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Stat: Defense **ɪ**  | Tier **ɪ** | +1 Physical Mitigation
+Stat: Defense **ɪɪ**  | Tier **ɪɪ** | +2 Physical Mitigation
 Attribute: Sea Snake |  Tier **ɪ** | Orner practiced Aqua Tail to swim faster.
 Attribute: Sailing |  **ᴍᴀx** | Orner has well trained sea legs, without the legs.
 Battle Attribute: EXAMPLE  | N/A
@@ -68,8 +68,8 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Move: Aqua Tail | *Trained* | 3/3 | ▮▮▮
 Training for Attribute: Sea Snake | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Attribute: Sailing | Tier **ɪɪɪ** | 3/3 | ▮▮▮
-Training for Stat: Defense | Tier **ɪɪ** | 6/9
-▮▮▮▮▮▮▯▯▯
+Training for Stat: Defense | Tier **ɪɪɪ** | 0/9
+▯▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 Item Name | Description

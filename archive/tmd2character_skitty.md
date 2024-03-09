@@ -8,7 +8,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 11 | **Experience to Next Level:** 107/110
+**Level:** 12 | **Experience to Next Level:** 5/120
 **Worn Item:** *Sparkly Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 695₽ (520 owed to Matchia) | **Glorious Gold:** 0 Bars
 
@@ -17,17 +17,17 @@ Pokémon's Ability | Description
 Wonder Skin | The Opponent's Accuracy with Status Moves is decreased to at least ≥11 against the user.
 
 ->Rookie Rank<-
-->*395/400 points to Normal Rank*<-
+->*???/400 points to Normal Rank*<- achieved
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 9 (21 HP) | 21HP
+Health Points | 0 | Level 12 (22 HP) | 22 HP
 Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 2(+1) | Species Bonus, Training Tier ɪɪɪ | 7AP
+Speed | 3(+1) | Species Bonus, Training Tier ɪɪɪ | 7AP (6+1)
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
@@ -80,17 +80,17 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Sitrus Berry | Heals the user for 20HP.
-2. Oran Leaf x3 | Heals the User for 3HP. Can stack to 3.
+2. Oran Leaf x2 | Heals the User for 3HP. Can stack to 3.
 3. Combat Manual | Boosts Training for Battle Attributes by 1 bar.
-4. White Gummi | Normal Gummi.
+4. Dye Bomb | Explodes in a splash of bright ink. >4; the Opponent's Accuracy is decreased by 1. Stacks up to 4. Can be thrown. Has a Berry's AP cost.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Empty | Empty.
-2. Empty | Empty.
+1. White Gummi | Normal Gummi.
+2. Tasty Honey | +20IQ.
 
 **RP/QUEST STORAGE (∞ slots)**
 !!! note Inventory dedicated to extra stuff. 

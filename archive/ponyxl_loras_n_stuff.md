@@ -16,6 +16,19 @@ https://civitai.com/models/282341
 An anon also created a LoRA extract of it if you want to experiment with it on base pony at varying strengths here:
 https://civitai.com/models/312010/4th-tail-lora-extract
 
+##Reverse Engineered Hashed Tokens
+It seems like the obfuscated/hashed tokens in the model are only mapped to three letter strings. There's only about 17k possible 3 letter combinations so it might be possible to just reverse engineer the remapped tokens through brute force, here's a few that are already known, hopefully this list will be expanded
+
+###Hashed Styles
+wfk
+lbp
+
+
+###Hashed Characters
+aua - houshou_marine 
+
+
+
 ##List of Ponyxl LoRAs from /h/
 NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
 

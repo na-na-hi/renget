@@ -406,7 +406,7 @@
 !!! info Example Prompt
 	[TAG INFO?](https://warosu.org/vt/thread/S68333056#p68348427)
 -> [Catbox](https://files.catbox.moe/7u3yvi.safetensors)  <-
--> or <-
+-> **or** <-
 !!! info Example Prompt
 	In the link
 -> [Civitai](https://civitai.com/models/309995/dokibird-virtual-youtuber) <-
@@ -495,7 +495,7 @@
 ##### -> Gawr Gura <-
 !!! info can do 3 outfits?
 -> [MEGA](https://mega.nz/folder/4X53yLoI#GhCWgfCX0oP-33wng5Ia7Q/file/9fpjgDpS) <-
--> or <-
+-> **or** <-
 !!! info can do 7 outfits
 -> [Civitai](https://civitai.com/models/326585/gawr-gura-xl-7-outfits-hololive) <-
 
@@ -508,7 +508,7 @@
 !!! info Example Prompt
 	Koseki Bijou, long hair, tiara, white dress, long dress, detached sleeves, bare shoulders, bracelet,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
--> or <-
+-> **or** <-
 !!! info other lora, check tags from metadata?
 -> [Catbox](https://files.catbox.moe/etc37e.safetensors) <-
 -> or even <-
@@ -520,7 +520,7 @@
 !!! info Example Prompt
 	Shiori Novella, medium hair, hair ornament, two-tone hair, black jacket, black dress, bare shoulders, choker, fur trim, off shoulder, open jacket, long sleeves,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Ur8z0bpJ) <-
--> or <-
+-> **or** <-
 !!! other lora, check tags from metadata?
 -> [Catbox](https://files.catbox.moe/lcjoci.safetensors) <-
 
@@ -535,7 +535,7 @@
 !!! info Example Prompt
 	Fuwawa Abyssgard, pink eyes, long hair, large breasts, blue hairband, hairpin, collar, white dress, cleavage, black jacket, belt, fur trim,
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
--> or <-
+-> **or** <-
 !!! info other lora, check tags from the uploader
 -> [Civitai](https://civitai.com/models/331762/fuwawa-abyssgard-for-ponyxl) <-
 
@@ -544,7 +544,7 @@
 !!! info Example Prompt
 	Mococo Abyssgard, blue eyes, medium hair, small breasts, pink hairband, hairpin, x hair ornament, collar, white crop top, black cropped jacket, white shorts, belt, fur trim
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/sytiGRJJ) <-
--> or <-
+-> **or** <-
 !!! info other lora, check tags from the uploader
 -> [Civitai](https://civitai.com/models/331773/mococo-abyssgard-for-ponyxl) <-
 
@@ -602,7 +602,8 @@
 ##### -> Nanashi Mumei <-
 !!! info Solo LoRA, not to be confused with the Hololive -Promise- LoRA above.
 -> [Civitai](https://civitai.com/models/329898/nanashi-mumei-for-ponyxl) <-
-!!! info Emo outfit! check tags from metadata?
+-> **or** <-
+!!! info Casual + Emo outfits check tags from metadata?
 -> [Catbox](https://files.catbox.moe/qdyq2k.safetensors) <-
 
 ##### -> Hakos Baelz <-
@@ -618,7 +619,7 @@
 !!! info Example Prompt
 	la+ darknesss, white hair, long hair, hair between eyes, french braid, metal collar, black dress, baggy clothes, sleeves past fingers, thighhighs, single thighhigh, pointy ears, long sleeves, tail, demon girl, yellow ascot
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/Uv9wDJxI) <-
--> or <-
+-> **or** <-
 !!! info other lora, check tags from the uploader
 -> [Catbox](https://files.catbox.moe/6wxjpz.safetensors) <-
 
@@ -689,6 +690,9 @@
 
 ##### -> Yorumi Rena <-
 -> [Civitai](https://civitai.com/models/333904/yorumi-rena-nijisanji-ponyxl) <-
+
+##### -> Higuchi Kaede <-
+-> [Civitai](https://civitai.com/models/341612/higuchi-kaede-nijisanji-ponyxl) <-
 
 ##### -> Nina Kosaka <-
 !!! info 2 Outfits!

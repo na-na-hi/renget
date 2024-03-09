@@ -8,7 +8,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 ---- | ----
 **Origin:** Native | **Guild Role/Occupation:** Astronomer
 **Species:** Goomy | **Affiliation:** Team Gildscales
-**Level:** 14 | **Experience to Next Level:** 140/46
+**Level:** 14 | **Experience to Next Level:** 140/54
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
 **Pokécoin:** 705₽ | **Glorious Gold:** 0 Bars
 
@@ -32,7 +32,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Dragon Pulse | 9BP | 7AP | ≥2 | Dragon | Special | No secondary effect.
+Dragon Pulse | 9BP | 7AP Trained | ≥2 | Dragon | Special | No secondary effect.
 Dragon Breath | 6BP | 5AP | ≥2 | Dragon | Special | 16-20; The Opponent is afflicted with Paralysis.
 Water Gun | 4BP | 4AP | ≥2 | Water | Special | No secondary effect.
 Acid Armor | 0BP | 4AP | - | 	Poison | Status | The User's Defense is increased by 2.

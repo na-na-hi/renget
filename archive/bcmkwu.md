@@ -1,3 +1,17 @@
+>Lancet strikes moving Swedish Archer SPG
+https://files.catbox.moe/2zvbrj.mp4
+>Lancets vs Howitzers and counter-battery radars
+https://files.catbox.moe/ovibs9.mp4
+>TOS on AFU positions
+https://files.catbox.moe/shf1z6.mp4
+>Drone drop on AFU's TM-62 mine stockpile
+https://files.catbox.moe/1c7qb9.mp4
+>AFU ATGM rekt in Krasnogorovka
+https://files.catbox.moe/svnis9.mp4
+>Massive TOS strike on Rabotino
+https://files.catbox.moe/fqv2nc.mp4
+>Invading Hungary to escape the Russians
+https://files.catbox.moe/5tt0bb.mp4
 >Russian drone destroys Ukrainian land drone
 https://files.catbox.moe/zcq4iz.mp4
 >Rural Ukraine vs. Mobilization

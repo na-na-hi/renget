@@ -15,7 +15,7 @@ also sorry if some links dont work!!
  & [nepp](https://nepp.crd.co/) & [resources](https://resources.uwu.ai/) &
  [graphic](https://graphic.crd.co/) & [bloominglatanas](https://bloominglantanas.carrd.co/) & [phonecharm](https://phonecharm.carrd.co/) &
  [warabi](https://warabi.crd.co/) & [vermillion](https://vermillion.drr.ac/) & [2winkpixellove](https://2winkpixellove.carrd.co/) 
-& new; [zombieteef](https://zombieteef.drr.ac/) <-
+& [zombieteef](https://zombieteef.drr.ac/) & **new** [yoisources](https://yoisource.carrd.co/) & [ponytown (tw gore)](https://ponytown.ju.mp/) & [collection](https://collection.ju.mp/) & [tchai](https://tchai.carrd.co/) <-
 
 -> **graphics / rentry** <-
 -> [roses-resources](https://rentry.co/roses-resources) & [nasjanganlupaknas](https://rentry.co/nasjanganlupaknas) & [resources](https://rentry.co/resources) & [masqueradeball](https://rentry.co/masqueradeball) & [scrapbooks](https://rentry.co/scrapbooks) &
@@ -24,8 +24,20 @@ also sorry if some links dont work!!
 [bunnyporcelain](https://rentry.co/bunnyporcelain) & [firestars](https://rentry.co/firestars) & [lucypix (tw eyestrain)](https://rentry.co/lucypix) & [puddings (tw potential eyestrain)](https://rentry.co/puddings) &
  [onyourmind](https://rentry.co/onyourmind) & [valentinemassacre](https://rentry.co/valentinemassacre) & 
 [pixelplayground (tw potential eyestrain)](https://rentry.co/pixelplayground) & [resourcerentry](https://rentry.co/resourcerentry) & [pixelcore](https://rentry.co/pixelcore) & [lwico](https://rentry.co/lwico) & [angie](https://rentry.co/AngiesResources) & [belligerence](https://rentry.co/belligerence) & [umbrellaco](https://rentry.co/umbrellaco) &
-[mikasresources](https://rentry.co/mikasresources) & [pixelgalaxy](https://rentry.co/pixelgalaxy) & [madilynmei (tw bright colors)](https://rentry.co/madilynmei) & [**pixelprism**](https://rentry.co/pixelprism) & new; 
-[partycarronade](https://rentry.co/partycarronade) <-
+[mikasresources](https://rentry.co/mikasresources) & [pixelgalaxy](https://rentry.co/pixelgalaxy) & [madilynmei (tw bright colors)](https://rentry.co/madilynmei) & [pixelprism](https://rentry.co/pixelprism) & [partycarronade](https://rentry.co/partycarronade)
+& **new** [chisresources](https://rentry.co/chisresources) & [kyodairashi (tw 
+slight gore)](https://rentry.co/kyodairashi) & [mikopixels](https://rentry.co/mikopixels) & [ophl](https://rentry.co/oPhl) & 
+[mumeirscrs](https://rentry.co/mumeirsrcs) & [massacro](https://rentry.co/massacro) & [meta-res](https://rentry.co/meta-res) & [border](https://rentry.co/border)
+& [ulzzang](https://rentry.co/ulzzang) & [ukulele](https://rentry.co/ukulele) & [dazaisentranceexam](https://rentry.co/dazaisentranceexam) 
+& [underheroin3](https://rentry.co/underheroin3) & [markiplier](https://rentry.co/markiplier) & [cherish (tw really
+ slight gore but still)](https://rentry.co/cherish) & [crowstamps](https://rentry.co/crowstamps) &
+ [nuevebesitos](https://rentry.co/nuevebesitos) & [mother (tw gore, medical stuff)](https://rentry.co/mother)
+& [lettering](https://rentry.co/lettering) & [matching](https://rentry.co/numbering) & [matchings](https://rentry.co/matchings) &
+[pixelhub](https://sntry.cc/pixelhub) & [shinybuttons](https://rentry.co/shinybuttons) & [mimicollects (blood
+ jumpscare)](https://rentry.co/mimicollects) & [nyafile](https://rentry.co/nyafile) & [cameresources](https://rentry.co/cameresources) &
+[stashedgraphics (slight gore)](https://rentry.co/stashedgraphics) & [fansresources](https://rentry.co/fansresources)
+& [zuuresources (tw flashing graphics.. how fun)](https://rentry.co/zuuresources)
+& [lavender-resources](https://rentry.co/lavender-resources) & [candyfizz (bright colors)](https://rentry.co/candyfizz) <-
 
 -> **codes & graphics** <-
 -> [gifs(crd co)](https://gifs.crd.co/) & [pix](https://pix.crd.co/) & [lifted](https://lifted.crd.co/) & [sweetie](https://sweetie.crd.co/) & [whimsical](https://whimsical.crd.co/) & [gnome](https://web.archive.org/web/20221125021043/https://gnome.crd.co/)& [cakepop](https://cakepop.crd.co/) & [watermelon](https://watermelon.crd.co/) & [epic](https://epic.crd.co/) & [yokai](https://yokai.crd.co/)
@@ -33,7 +45,7 @@ also sorry if some links dont work!!
  [hatecrime](https://hatecrime.crd.co/) & [reason](https://reason.crd.co/) & [mikaslash](https://mikaslash.carrd.co/) &
  [blossom](https://blossom.drr.ac/) & [gifcity](https://gifcity.carrd.co/) & [jadores](https://jadores.carrd.co/) & [resource](https://resource.crd.co/) & [pixels](https://pixels.ju.mp) 
 & [gag](https://gag.ju.mp/) & [mist](https://mist.drr.ac/) & [gumamela](https://gumamela.carrd.co/) & [storage](https://storage.crd.co/) &
- [lovespace](https://lovespace.carrd.co/) & [almond](https://almond.crd.co/) <-
+ [lovespace](https://lovespace.carrd.co/) & [almond](https://almond.crd.co/) & **new** [ikeburo (tw gore)](https://ikebukuro.crd.co/) <-
 
 ->  **codes & graphics / rentry** <-
 -> [cellbit](https://rentry.co/cellbit) & [mutya](https://rentry.org/mutya) & [res](https://rentry.co/res) & [butter](https://rentry.co/butter) & [rescs](https://rentry.co/rescs) & [resc](https://rentry.co/resc) &
@@ -115,6 +127,7 @@ blinkie maker](https://blinkies.cafe/) <-
  [videogame graphics](https://shishka.neocities.org/shishka/videogames.html) & [magical girl / boy
  graphics(?)](https://magicalgirloftheday.tumblr.com/) & [pokemon pixels & graphics](https://cute-sushi-roll.tumblr.com/tagged/pokemon) &
  [rilakkuma pixels](https://engrampixel.tumblr.com/tagged/rilakkuma) & [random anime pixels](http://jasminnie.weebly.com/anime.html) & [sanrio 
-pixels](http://jasminnie.weebly.com/sanrio--san-x.html) & [animal crossing pixels](https://kelseycrossing.com/tagged/masterpost)  <-
+pixels](http://jasminnie.weebly.com/sanrio--san-x.html) & [animal crossing pixels](https://kelseycrossing.com/tagged/masterpost) & [more pokemon 
+graphics](https://rentry.co/nationaldex) <-
 -> &nbsp; <-
 -> &nbsp; <-

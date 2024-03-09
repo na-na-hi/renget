@@ -124,6 +124,28 @@ Q2: What moves have you sketched?  Can you sketch more than four?
 ###Elm
 Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  Have you kicked the habit completely?  Or do you still indulge in a bit dream eating from time-to-time?
 
+###Error
+Q1: Have you found any hobbies in the Pokemon world?  Made any friends?
+Q2: This statement is false.
+
+###Pika
+Q1: What's the most important thing to have in a relationship?
+Q2: Do you accept pets and/or hugs?  Asking for a friend.
+
+###Chespin
+Q1: Have you ever thought about hiring a craftsmon to turn cotton into a true bed?
+Q2: What's comfier for sleeping? Warm room or cold room?
+
+###Wooper
+Q1: Can you share some of your favorite human folklore?
+
+###Smith
+Q1: Furret seems pretty cute.  Does she ever do anything that scares you?
+
+###Furret 
+Q1: Smith seems like a tough guy.  Does he ever do anything nice for you?
+
+
 ##->**General Questions**<-
 
 **Former humans**, if you could write a letter back home, what would you write and to whom?

@@ -11,12 +11,11 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-▼ Next streams
-Sat 03/09 6PM CT, Speak of the Devil interview on Ironmouse's channel: https://www.twitch.tv/ironmouse
-Sat 03/09 9PM CT, "The Twilight Saga: Breaking Dawn – Part 1" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi: https://www.youtube.com/watch?v=\_y8oEEIZRxw
-▼ Last appearance (Q & A collab with Bao on Bao's channel)
+Next stream ("The Twilight Saga: Breaking Dawn – Part 1" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi, Sat 03/09 9PM CT)
+https://www.youtube.com/watch?v=\_y8oEEIZRxw
+Last appearance (Q & A collab with Bao on Bao's channel)
 https://www.twitch.tv/videos/2085058553?t=03h31m45s
-▼ Last stream (Bread & Fred collab with Zeta on Zeta's channel)
+Last stream (Bread & Fred collab with Zeta on Zeta's channel)
 https://www.youtube.com/watch?v=GbEEw5lk92M
 
 \>Songs

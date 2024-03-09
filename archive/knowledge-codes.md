@@ -10,7 +10,7 @@
  [ishimori](https://ishimori.crd.co/) & [vampy](https://vampy.ju.mp/) & [eris](https://eris.crd.co/)  & [bubblepop](https://bubblepop.carrd.co/) & [crunch](https://crunch.crd.co/) & [lin](https://web.archive.org/web/20220614080410/https://lin.crd.co/) & [breeze](https://breeze.crd.co/) & [riti](https://riti.crd.co/) & [html](https://html.crd.co/) & [himiko](https://himiko.crd.co/) & [omelet](https://omelet.crd.co/) 
 & [paper](https://web.archive.org/web/20210514232413/https://paper.crd.co/) & [limonysal](https://web.archive.org/web/20220103002935/https://limonysal.crd.co/) & [lesbiana](https://web.archive.org/web/20211231204029/https://lesbiana.crd.co/) & [tools](https://web.archive.org/web/20211201114345/https://tools.crd.co/) &
  [dot](https://dot.crd.co/) & [mojito](https://mojito.uwu.ai/) & [dotae](https://dotae.neocities.org/) & [noodles](https://noodles.crd.co/) & [swan](https://swan.uwu.ai/) & [nora](https://nora.drr.ac/) 
-& [mantis](https://mantis.crd.co/) <-
+& [mantis](https://mantis.crd.co/) & [fyodor](https://fyodor.ju.mp/)<-
 
 -> **codes & graphics** <-
 -> [gifs(crd co)](https://gifs.crd.co/) & [pix](https://pix.crd.co/) & [lifted](https://lifted.crd.co/) & [sweetie](https://sweetie.crd.co/) & [whimsical](https://whimsical.crd.co/) & [gnome](https://web.archive.org/web/20221125021043/https://gnome.crd.co/) & [watermelon](https://watermelon.crd.co/) & [epic](https://epic.crd.co/) &
