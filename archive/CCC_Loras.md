@@ -14,6 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
+3/10/24 | Added XL Lora for [Prism] Non Anon, [Idol] Nikki Rei & Neo Sparkles
 3/8/24 | Added XL Lora for [PixelLink] Nebi Nebu & Miuna Usako, [Indie] Yuuka Bear, [Brave] Otodama Tamako
 3/7/24 | Added XL Lora for [Indie] Clauvio, [Indie] Misogi Sosogi
 3/4/24 | Added XL LoRA for [Phase Connect] Utatane Nasa and Kaneko Lumi, [Indie] Alchemilla Menace (RIP), [Indie] Shizukou (RIP)
@@ -201,6 +202,11 @@ https://files.catbox.moe/4lfemo.safetensors
 >nanaasteria, 1girl, long hair, blue hair
 ![Nana Asteria](https://files.catbox.moe/cu2paz.jpg)
 
+#####Non Anon (Animagine XL)
+XL: https://files.catbox.moe/s6akv9.safetensors
+>nonanon, 1girl, solo, long hair, smile, bangs, blonde hair, detached collar, hair ornament, red eyes, dress, animal ears, low twintails, heart, multicolored hair, necktie, socks, white dress, rabbit ears, wrist cuffs, crown, rabbit girl, platform footwear, 
+
+
 ###EIEN
 #####Kiki Lockheart (V2)
 ~~https://files.catbox.moe/nx98b9.safetensors~~
@@ -257,7 +263,7 @@ https://files.catbox.moe/rsdqio.safetensors
 ![Minazuki Mana](https://files.catbox.moe/q8d9s7.jpg)
 
 ###Varium
-#####Amemochi Nina
+#####Amemochi Nina (+ AnimagineXL)
 https://files.catbox.moe/b9rwbb.safetensors
 XL: https://files.catbox.moe/idjyt8.safetensors
 >Strength: 0.8+
@@ -267,7 +273,7 @@ XL: https://files.catbox.moe/idjyt8.safetensors
 ![Amemochi Nina](https://files.catbox.moe/myy5xi.jpg)
 
 ###PixelLink
-#####Lottie Shinju
+#####Lottie Shinju (+ AnimagineXL)
 https://files.catbox.moe/v7mk47.safetensors
 XL: https://files.catbox.moe/k1rmhq.safetensors
 >Strength: 0.8+
@@ -275,7 +281,7 @@ XL: https://files.catbox.moe/k1rmhq.safetensors
 ==Tail is hard== 
 ![Lottie Shinju](https://files.catbox.moe/xhhtyv.jpg)
 
-#####Chiaki Katsumi
+#####Chiaki Katsumi (+ AnimagineXL)
 https://files.catbox.moe/wesl4t.safetensors
 XL: https://files.catbox.moe/sy6s7y.safetensors
 >Strength: 0.9+
@@ -290,7 +296,7 @@ XL: https://files.catbox.moe/87ollo.safetensors
 ==Rabbit ears are not always guaranteed on SD 1.5== 
 ![Miuna Usako](https://files.catbox.moe/mwfm6t.jpg)
 
-#####Raki Kazuki
+#####Raki Kazuki (+ AnimagineXL)
 https://files.catbox.moe/is6uqr.safetensors
 XL: https://files.catbox.moe/kncnti.safetensors
 >Strength: 0.8+
@@ -317,21 +323,21 @@ XL: https://files.catbox.moe/leq304.safetensors
 ![Fuwamoco](https://files.catbox.moe/mfiolp.jpg)
 
 ###Sedai One
-#####Aimi Hada
+#####Aimi Hada (+ AnimagineXL)
 https://files.catbox.moe/3ge7fq.safetensors
 XL: https://files.catbox.moe/8n9nlu.safetensors
 >Strength: 0.8+
 >aimihada, 1girl, long hair, pink hair, bow, bangs, two side up, braid, tiara, dress, green eyes
 ![Aimi Hada](https://files.catbox.moe/njsdsq.jpg)
 
-#####Anastasia White
+#####Anastasia White (+ AnimagineXL)
 https://files.catbox.moe/66bf3z.safetensors
 XL: https://files.catbox.moe/hs7ayf.safetensors
 >Strength: 0.8+
 >anawht, long hair, 1girl, white hair, horns, purple eyes, oni horns, large breasts, hair ornament, white vest, white skirt
 ![Anastasia White](https://files.catbox.moe/u45yh9.jpg)
 
-#####Aono Nemo
+#####Aono Nemo (+ AnimagineXL)
 https://files.catbox.moe/87x6le.safetensors
 XL: https://files.catbox.moe/0iyjx9.safetensors
 >Strength: 0.8+
@@ -339,7 +345,7 @@ XL: https://files.catbox.moe/0iyjx9.safetensors
 >optional: witch hat, short hair
 ![Aono Nemo](https://files.catbox.moe/djzuqu.jpg)
 
-#####Endou Lily
+#####Endou Lily (+ AnimagineXL)
 https://files.catbox.moe/9mja3d.safetensors
 XL: https://files.catbox.moe/vgyw6g.safetensors
 >Strength: 0.8+
@@ -348,14 +354,15 @@ XL: https://files.catbox.moe/vgyw6g.safetensors
 ![Endou Lily](https://files.catbox.moe/98ylfz.jpg)
 
 ###Idol
-#####Nikki Rei
+#####Nikki Rei (+ AnimagineXL)
 https://files.catbox.moe/tr06pd.safetensors
+XL: https://files.catbox.moe/d3h84b.safetensors
 >Strength: 0.8+
 >nikkirei, 1girl, long hair, blonde hair, red eyes,  ponytail, bandaid, ahoge
->optional: white shirt, jacket 
+>XL: nikkirei,  1girl, solo, long hair, bangs, blonde hair, hair ornament, red eyes, thighhighs, long sleeves, ribbon, jacket, hair ribbon, white shirt, ahoge, multicolored hair, open clothes, shoes, black gloves, collared shirt, fingerless gloves, black skirt, black footwear, side ponytail, streaked hair, thigh strap, white jacket, asymmetrical legwear, mismatched legwear, 
 ![Nikki Rei](https://files.catbox.moe/t7zx0b.jpg)
 
-#####Emi Suika
+#####Emi Suika (+ AnimagineXL)
 https://files.catbox.moe/iznuoz.safetensors
 XL: https://files.catbox.moe/kfg1mo.safetensors
 >Strength: 0.8+
@@ -363,14 +370,14 @@ XL: https://files.catbox.moe/kfg1mo.safetensors
 >optional: stuffed toy, stuffed animal
 ![Emi Suika](https://files.catbox.moe/wfk745.jpg)
 
-#####Juna Unagi
+#####Juna Unagi (+ AnimagineXL)
 https://files.catbox.moe/cusal6.safetensors
 XL: https://files.catbox.moe/i6kodb.safetensors
 >Strength: 0.8+
 >junaunagi, 1girl, multicolored hair, long hair, yellow eyes, black hair, blonde hair, tail 
 ![Juna Unagi](https://files.catbox.moe/rf6j33.jpg)
 
-#####Lily Sin
+#####Lily Sin (+ AnimagineXL)
 https://files.catbox.moe/m041kt.safetensors
 XL: https://files.catbox.moe/k009ku.safetensors
 >Strength: 0.8+
@@ -379,14 +386,16 @@ XL: https://files.catbox.moe/k009ku.safetensors
 ==Wings can look weird when made from the side but not sure if my model is to blame==
 ![Lily Sin](https://files.catbox.moe/xblyq1.jpg)
 
-#####Neo Sparkles
+#####Neo Sparkles (+ AnimagineXL)
 https://files.catbox.moe/q2bjf4.safetensors
+XL: https://files.catbox.moe/2vvf82.safetensors
 >Strength: 0.8+
 >neosparkles, 1girl, animal ears, long hair, green eyes, animal ear fluff, hoodie, orange hair, braid, ahoge, tail
+>XL: neosparkles,  1girl, solo, long hair, bangs, brown hair, long sleeves, animal ears, green eyes, jacket, tail, ahoge, shoes, socks,  hood, orange hair, animal ear fluff, sleeves past wrists, hoodie, drawstring, blue hoodie
 ==Hoodie/clothing colors might be hard to change so you might end up with a pastel blue nun outfit==
 ![Neo Sparkles](https://files.catbox.moe/uq75gm.jpg)
 
-#####Roca Rourin
+#####Roca Rourin (+ AnimagineXL) 
 https://files.catbox.moe/3x1pe1.safetensors
 XL: https://files.catbox.moe/1mu9bg.safetensors
 >Strength: 0.8+

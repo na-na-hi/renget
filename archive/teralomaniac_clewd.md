@@ -29,7 +29,7 @@
 >
 > 镜像站（无需代理）：设置 `VPNfree` 为 `true`（2.x版在 `clewd.js` 3.x版在 `config.js` ，不保证可用），4.3以上请在`rProxy`中自行设置
 >
-> 使用 [云Clewd](https://rentry.org/teralomaniac_clewd_render#%E4%BA%91clewd)（跳过下面一个步骤）
+> 使用 [云Clewd(部分失效)](https://rentry.org/teralomaniac_clewd_render#%E4%BA%91clewd)（跳过下面一个步骤）
 - 运行 `start.bat` 确保出现 `Logged in { name: '你的账户名', capabilities: [ 'chat', [length]:  ] }` 后，将 `http://127.0.0.1:8444/v1` 填入酒馆的 `OpenAI 反向代理`/ Risu聊天机器人Reverse Proxy的 `反向代理 URL`
 >注意：[RisuAI.xyz](https://risuai.xyz) 需要在打开localtunnel后在`反向代理 URL`填入tunnel URL而非以上地址（2.x版在 `clewd.js` 3.x版在 `config.js` ），2.x版不支持Risu流式传输，并且本地版也只能使用tunnel URL
 - 模型选择

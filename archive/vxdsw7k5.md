@@ -679,6 +679,9 @@ Guide to Adult Improvement in Chess by Adult Chess Improver
 Lessons by Anna Cramling
 - https://www.youtube.com/playlist?list=PLBiOFhaXtpVwq8CodRS2dlmSW8Aw3Ub_W
 
+Master Class by Alex Banzea
+- https://www.youtube.com/playlist?list=PLy7vABK_JsyPAZNJL6MQn86tiBdj21oXq
+
 Silicon Road by Matthew Sadler
 - https://www.youtube.com/@SiliconRoadChess/playlists
 

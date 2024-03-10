@@ -21,7 +21,7 @@ Current bans:
 - 4chan: —
 - ~~2ch~~ (left indefinitely)
 
-TO-DO LIST: Cell card (30% done)
+TO-DO LIST: Cell card (49% done)
 
 ##I like...
 ->![If you are here — congrats!](https://files.catbox.moe/0rpynl.gif)<-
@@ -31,7 +31,7 @@ TO-DO LIST: Cell card (30% done)
 - **Draven**
 - **Dr. Mundo**
 - **Perturbator**
-- **Sneed's Feed and Seed (Formerly Chuck's)**
+- **Dragon Ball Z**
 
 ##I dislike...
 ->![Garbage.](https://files.catbox.moe/rux2k0.gif)<-
@@ -40,7 +40,7 @@ TO-DO LIST: Cell card (30% done)
 - **Snoys**
 - **(You)**
 - **Trannies**
-- **Forced memes**
+- **Dragon Ball Super**
 - **VTumors**
 
 ***

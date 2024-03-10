@@ -49,6 +49,7 @@
 **Yuzuki Choco (Hololive)** - https://civitai.com/models/332256/yuzuki-choco-hololive-commission
 **Virgil (KoMETA)** - https://mega.nz/folder/47Yj3ZIS#klaoBwVZI_u5DbjmCjkqRQ/folder/cuJg2LKa
 **Ilu Fluor (Indie)** - https://civitai.com/models/338524/ilu-fluor-vtuber
+**AzKi V1 (Hololive)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/ZWx0wA5Q **V2** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/8LAwSByJ
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

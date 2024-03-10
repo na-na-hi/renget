@@ -511,7 +511,7 @@
 -> **or** <-
 !!! info other lora, check tags from metadata?
 -> [Catbox](https://files.catbox.moe/etc37e.safetensors) <-
--> or even <-
+-> **or even** <-
 !!! info third lora to test, check tags from uploader
 -> [Civitai](https://civitai.com/models/336372/koseki-bijou-for-ponyxl) <-
 
@@ -538,6 +538,9 @@
 -> **or** <-
 !!! info other lora, check tags from the uploader
 -> [Civitai](https://civitai.com/models/331762/fuwawa-abyssgard-for-ponyxl) <-
+-> **or even** <-
+!!! info third lora to test, check tags from [archive](https://warosu.org/vt/thread/S70975134#p71006758)
+-> [Catbox](https://files.catbox.moe/y85mip.safetensors) <-
 
 ##### -> Mococo Abyssgard <-
 !!! note Tags suggested by uploader, not me
@@ -547,6 +550,9 @@
 -> **or** <-
 !!! info other lora, check tags from the uploader
 -> [Civitai](https://civitai.com/models/331773/mococo-abyssgard-for-ponyxl) <-
+-> **or even** <-
+!!! info third lora to test, check tags from [archive](https://warosu.org/vt/thread/S70975134#p71006758)
+-> [Catbox](https://files.catbox.moe/y85mip.safetensors) <-
 
 ##### -> Tsunomaki Watame <-
 !!! info 6 Outfits!

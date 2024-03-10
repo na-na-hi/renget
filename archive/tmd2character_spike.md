@@ -21,7 +21,7 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 
 Stat | Points: 3 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | Level 12 (22HP) | 22HP
+Health Points | 0 | Level 13 (22HP) | 22HP
 Attack | 3 | ɴᴏ ʙᴏɴᴜs | +3 Physical Damage 
 Special Attack | 0 | Species Bonus | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
@@ -65,7 +65,9 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
+Currently Training for Attribute: Undead | Tier**ɪ** | 1/3 | ▮▯▯
 Currently Training for Stat: Speed **ɪɪɪ** | **COMPLETE** | 9/9 | ▮▮▮▮▮▮▮▮▮
+
 
 
 **INVENTORY (4 slots)**

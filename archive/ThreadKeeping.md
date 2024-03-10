@@ -27,6 +27,9 @@ Page 1
 RULES
 https://rentry.org/x5ayvpzb
 
+>Chunin Exam Stage 1 Hub Post
+>>92135567
+
 >Team 1
 >Natsuo Uchiha
 >>92078251
@@ -85,7 +88,7 @@ https://rentry.org/x5ayvpzb
 >Junki Takenaga
 >>92074519
 >Sen Yamamoto
->>92095664
+>>92132973
 
 >Team 7
 >Fujiwara Nobutake
@@ -102,10 +105,12 @@ https://rentry.org/x5ayvpzb
 >>92091505
 >Barou
 >>92099661
->Mojo Kichona
->>92118374
 >Mojo Nakasendou
 >>92130059
+>Choko Yumiya
+>>92132146
+>Eiji
+>>92132327
 
 >Loners:
 >Ahiratsu Ōtsutsuki
@@ -138,6 +143,10 @@ https://rentry.org/IllusionaryHistory
 Operation Tragic Backstory (WIP)
 https://rentry.org/weizoy62
 
+Artfags:
+Kiko's Genin Team 4
+>>92132682
+
 Relationship Charts:
 Masu
 >>92079115
@@ -161,12 +170,16 @@ Taiho (+Background and Strategy)
 https://rentry.org/z7myt7wk
 Tsugumi
 https://rentry.org/TsuDiary
+Kamiko
+https://rentry.org/KamikoRelations
 
 Jutsu List:
 Kazen:
 https://rentry.org/5kp2svbp
 Shinro:
 https://rentry.org/ShinroJutsu
+Kichōna:
+https://rentry.org/NardoKichonaJutsuList
 ```
 
 #Fighting Autism Tournament
@@ -529,9 +542,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Art:
->tulpa
->>92126151
+New Vigilante:
+Choko Yumiya, VN Eye High
+>>92132153
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -964,6 +977,8 @@ Page 6
 >>91197187
 >Kaori Kaoru
 >>91229075
+Choko Yumiya, VN Eye High
+>>92132153
 
 >Night Parade:
 >Cammy Link VN Karma

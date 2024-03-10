@@ -117,4 +117,5 @@ I've also included links to ports/reworks of a couple of my bots by other anons,
 
 ---
 **Contact Me:**
-vedstar@protonmail.com
+~~vedstar@protonmail.com~~
+VinceLavali@proton.me
