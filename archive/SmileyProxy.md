@@ -12,7 +12,7 @@
 
 **Current Slots** | 
 :----: | 
-People who entered with drawing: 0/5  | 
+People who entered with drawing: 1/5  | 
 People who entered with generation: 0/5   |
 !!! info I will be adding slots as I see fit to keep more people. This is a test for the moment.
 
@@ -62,7 +62,7 @@ These are other characters I will be accepting for proxy access, for those who d
 You can try to send other characters, but there is no guarantee to get access.
 
 # Stats
-!!!Note 14 users | 2992 proompts | 38 IPs | 31.53m tokens | US$315.68 cost
+!!!Note 16 users | 2992 proompts | 38 IPs | 31.53m tokens | US$315.68 cost
 User||Prompts|IPs|Usage
 ---|---|---|---|---
 1.  Bro Wife | ...7f4a7 | 907 proompts   | 8 IPs    | 12.03m ($120.32) tokens       
@@ -79,5 +79,7 @@ User||Prompts|IPs|Usage
 12. THE RAT TOKEN | ...e8913 | 0 proompts     | 1 IPs    | 0 ($0.00) tokens              
 13. Arfy | ...9008d | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
 14. JOJOJOJOJOJO | ...b4ff8 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+15. 1500RX | ...9eb22 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+16. ~~Anonymous~~ | ...739e0 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
 
--> *(as of 2024-03-10T03:07:54.269Z)* <-
+-> *(as of 2024-03-10T14:03:02.712Z)* <-

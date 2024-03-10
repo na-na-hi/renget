@@ -14,7 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
-3/10/24 | Added XL Lora for [Prism] Non Anon, [Idol] Nikki Rei & Neo Sparkles
+3/10/24 | Added XL Lora for [Prism] Non Anon, [Idol] Nikki Rei & Neo Sparkles. Added SD 1.5 Lora for [Indie] Reiny
 3/8/24 | Added XL Lora for [PixelLink] Nebi Nebu & Miuna Usako, [Indie] Yuuka Bear, [Brave] Otodama Tamako
 3/7/24 | Added XL Lora for [Indie] Clauvio, [Indie] Misogi Sosogi
 3/4/24 | Added XL LoRA for [Phase Connect] Utatane Nasa and Kaneko Lumi, [Indie] Alchemilla Menace (RIP), [Indie] Shizukou (RIP)
@@ -567,6 +567,12 @@ XL: https://files.catbox.moe/wap0o7.safetensors
 
 
 ###Indie
+#####Reiny
+https://files.catbox.moe/741x5d.safetensors
+>Strength: 0.9+
+>reiny, 1girl, solo, blush, bangs, pleated skirt, short hair, hair ornament, long sleeves, animal ears, school uniform, collarbone, yellow eyes, ahoge, grey hair,  open clothes, horns, shoes, serafuku, choker, socks, black skirt, sailor collar, open jacket, neckerchief, single braid, thigh strap, black socks, sneakers, side braid, orange jacket, orange footwear, mechanical cat tail
+
+
 #####Alchemilla Menace (Animagine XL Only)
 XL: https://files.catbox.moe/9y8u5x.safetensors
 >Strength: 0.9+

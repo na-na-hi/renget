@@ -59,9 +59,6 @@ https://www.reddit.com/r/Sumo/comments/nfn6ml/how_to_watch_sumo_outside_of_japan
 AQ Stream (NHK)
 https://aqstream.com/jp/nhk/NHK-G
 
-TV JAPAN (subscription required; North America only)
-https://tvjapan.net/en
-
 or search for other live streamings on YouTube:
 https://www.youtube.com/results?search_query=Sumo&sp=EgJAAQ%253D%253D
 https://www.youtube.com/results?search_query=%E7%9B%B8%E6%92%B2&sp=EgJAAQ%253D%253D
@@ -102,13 +99,13 @@ http://www.asahi.com/ajw/search/results/?keywords=sumo
 
 https://japannews.yomiuri.co.jp/sports/sumo
 
-https://twitter.com/Hakkeyoi_Sumo
-
 https://featured.japan-forward.com/sportslook/category/sumo
 
 https://soranews24.com/tag/sumo
 
-https://en.wikipedia.org/wiki/WP:SUMO#On_line_Sources
+https://twitter.com/Hakkeyoi_Sumo
+
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Sumo/Resources#Press_coverage
 
 NSK announcements (in Japanese):
 https://sumo.or.jp/IrohaKyokaiInformation/wrap
@@ -220,17 +217,14 @@ https://sumomainichi.podbean.com
 Grand Sumo Breakdown
 https://grandsumobreakdown.wordpress.com
 
-Sumo Kaboom
-https://sumokaboom.com
+Before the Salt Throw
+https://chrisbtst.podbean.com
 
 Tachiai
 https://tachiai.org/category/podcasts
 
 Sumo Drop
 https://soundcloud.com/bbgwpod/sets/sumo-drop
-
-Before the Salt Throw
-https://chrisbtst.podbean.com
 
 
 #### Games
@@ -247,11 +241,9 @@ http://99998271.com/sb/
 Sumo Game
 https://www.japan-guide.com/sumo
 
-NattoSumo (requires a Google Account)
-https://www.nattosumo.com
-
 Kachi-Koshi Bingo
 https://sumokaboom.fireside.fm/bingo
+https://sumokaboom.substack.com/archive
 https://tachiai.org/tag/bingo
 
 Fantasy Basho
@@ -267,7 +259,7 @@ http://www.sumoforum.net/forums/forum/13-sumo-games
 
 https://en.wikipedia.org/wiki/List_of_sumo_video_games
 
-https://www.metacritic.com/search/game/sumo/results
+https://www.metacritic.com/search/sumo
 
 https://steamdb.info/search/?q=sumo
 
@@ -316,6 +308,9 @@ https://www.youtube.com/playlist?list=PLGbh7k1KcL3nySYV3waSzEpwMMDxWRpOu
 sumo food
 https://www.youtube.com/@futagoyama-sumofood
 
+Sumo Senpai! How Young Sumo Wrestlers Cook Their Own Food
+https://www.youtube.com/watch?v=q1_E56g3TaQ
+
 What you can learn from a Sumo Wrestlers Diet
 https://www.youtube.com/watch?v=GUrzBKVvvDY
 
@@ -324,6 +319,9 @@ https://www.youtube.com/watch?v=D1tQ3vCdYQE
 
 The 10,000-Calorie Diet: This is What Sumo Wrestlers Eat
 https://www.youtube.com/watch?v=I1bKrrdBGTM
+
+I Lived in a Sumo House for a Day (10,000 calorie diet, fights, sleepover...)
+https://www.youtube.com/watch?v=cS_lzYjLgYA
 
 Chankonabe recipes:
 https://www.youtube.com/watch?v=XjH3Gr9-ffs
@@ -371,7 +369,6 @@ Kimarite video compilations
 https://www.youtube.com/watch?v=tAcx6BLVGWE
 https://www.youtube.com/watch?v=2cN9snHWCRA
 https://www.youtube.com/watch?v=lHVon8ZVuIs
-https://www.youtube.com/playlist?list=PLFrJrjJ4ya0VBj3DOtvEzTqyojixQeQzJ
 
 Kimarite Statistics
 http://www.sumoforum.net/forums/search/?q=Kimarite%20Statistics&search_and_or=and&search_in=titles
@@ -438,7 +435,7 @@ https://www.nikkansports.com/battle/sumo/election
 #### Other videos and documentaries
 
 Begin Japanology: Sumo (NHK)
-https://www.youtube.com/watch?v=EcUiZxVKhWA
+https://www.youtube.com/watch?v=u_788CgIb-A
 
 Grand Sumo: The Beauty of Tradition (NHK)
 https://www.youtube.com/watch?v=EQSEW1NFRwo
@@ -478,7 +475,7 @@ Mongolia | Sumo on the Steppes (Al Jazeera)
 https://www.youtube.com/watch?v=07ymiCmK0d8
 
 SUMOS - Rise of the Mongolians (by Catherine Hyland; 2018; Eng subs)
-https://vimeo.com/300330040
+https://vimeo.com/301503308
 https://www.catherinehyland.co.uk/work/rise-of-the-mongolians
 
 Ichinojo doc (Eng subs)
@@ -496,9 +493,6 @@ https://www.youtube.com/watch?v=S9Vh5JT5-Kg
 Mitaka Sumo School (2017)
 https://www.youtube.com/watch?v=I5nVtS3l14c
 
-Famous yokozuna and their dohyo-iris
-https://www.youtube.com/watch?v=-lAY7I2OiIw
-
 Yokozuna chronologies
 https://www.youtube.com/watch?v=w_rRsU6tjE4
 https://www.youtube.com/watch?v=evy6bdvotkY
@@ -514,6 +508,8 @@ https://www.youtube.com/playlist?list=PLFEzXnIQVwV9JgQkOMJZM23G8g-wBBWKf
 
 NHK World-Japan on demand videos
 https://www3.nhk.or.jp/nhkworld/en/ondemand/tag/sumo
+DOSUKOI Sumo Salon
+https://www3.nhk.or.jp/nhkworld/en/ondemand/program/video/dosukoi
 
 Arrival of the Sumo Wrestlers (2017)
 https://www.youtube.com/watch?v=0e5Jt7NYgyE
@@ -530,9 +526,7 @@ https://www.youtube.com/watch?v=vJ1wnbNIUrc
 BBC Sumo Documentary filmed in Japan - Ireland's first sumo wrestler
 https://www.youtube.com/watch?v=FstpKHTqq9A
 
-Dans le monde ultra secret des Sumos (2020; in French)
-https://www.youtube.com/watch?v=9Pbq7oBHFUY
-Japan - Inside the Closed World of Sumo
+Japan - Inside the Closed World of Sumo (2020)
 https://www.youtube.com/watch?v=p5MKA0oxMws
 
 Le Cercle du Sexisme - Sumo féminin (2018; in French)
@@ -543,9 +537,6 @@ https://www.youtube.com/watch?v=rySF09shELs
 
 Bizarre sumo wrestler training (60 Minutes Australia; 1982)
 https://www.youtube.com/watch?v=q66eq63F570
-
-Sumo Scandal (ABC Australia; 2000)
-https://www.youtube.com/watch?v=2HfDOKsQd3Q
 
 Sumo Confidential (ABC Australia; 2009)
 https://www.youtube.com/watch?v=CRgcY6RNE_Q
@@ -599,6 +590,7 @@ https://en.wikipedia.org/wiki/Category:Sumo_films
 
 Sumo Do, Sumo Don't (1992)
 https://www.youtube.com/watch?v=SjdZy7JvoSw
+https://www.youtube.com/watch?v=Aij5PTNHdvY
 trailer: https://www.youtube.com/watch?v=_S4HJWI17Y8
 TV series (2022):
 https://www.disneyplus.com/series/sumo-do-sumo-dont/35RKAHulSVtc
@@ -611,7 +603,7 @@ video searches:
 https://vimeo.com/search?q=sumo
 https://www.dailymotion.com/search/sumo/videos
 https://www.filmaffinity.com/en/search.php?stext=sumo
-https://www.imdb.com/find?q=sumo&s=tt&ref_=fn_al_tt_mr
+https://www.imdb.com/find/?q=sumo&s=tt&ref_=fn_al_tt_mr
 https://www.tiktok.com/tag/%E7%9B%B8%E6%92%B2
 https://search.bilibili.com/all?keyword=%E7%9B%B8%E6%92%B2
 https://www.nicovideo.jp/tag/%E5%A4%A7%E7%9B%B8%E6%92%B2?ref=videocate_hottag
@@ -707,7 +699,7 @@ https://www.youtube.com/watch?v=hJivzcF0TUQ
 https://www.youtube.com/watch?v=NHxP21FkcCU
 
 EDION Arena Osaka - Osaka Prefectural Gymnasium (Naniwa ward, Osaka) coord: 34.6622967926114, 135.49920756420724
-http://www.furitutaiikukaikan.jp
+https://www.furitutaiikukaikan.ne.jp
 https://www.youtube.com/watch?v=Ow8L-6Xo8wM
 
 Dolphins Arena - Aichi Prefectural Gymnasium (Naka ward, Nagoya) coord: 35.18309038441927, 136.9026200085937
@@ -743,12 +735,13 @@ https://www.kcf.or.jp/cms/files/pdf/id37_12470.pdf
 https://en.wikipedia.org/wiki/Fukagawa_Edo_Museum
 
 Ajigasawa Sumo Museum Mainoumi Furusato Sajiki (Ajigasawa, Aomori) coord: 40.77937888846039, 140.21044384244317
-http://www.tsugarunavi.jp/en/detail/06_003_ajigasawa_a.html
+https://japantravel.navitime.com/en/area/jp/spot/02301-14418776/
 http://www.ajiiku.jp/en/
 https://www.youtube.com/watch?v=_b8bHJWr7KI
 
 Memorial Museum of 53rd Yokozuna Kotozakura (Kurayoshi, Tottori) coord: 35.43177632694398, 133.82506820183067
-https://www.city.kurayoshi.lg.jp/kotozakura
+https://kotozakura-kinenkan.com
+https://www.kurayoshi-kankou.jp/kotozakura-kinenkan
 
 Sobetsu Town Sumo Museum "Kitanoumi Memorial Hall" (Sobetsu, Hokkaido) coord: 42.54780843691448, 140.87801409365804
 https://sobetsu-kanko.com/en/spot/kitanoumi
@@ -761,7 +754,7 @@ Hokomaheyasumo Museum in Iminomiya Shrine (Shimonoseki, Yamaguchi) coord: 33.999
 https://ja.wikipedia.org/wiki/%E5%BF%8C%E5%AE%AE%E7%A5%9E%E7%A4%BE#%E6%A6%82%E8%A6%81
 
 Sumo Museum at the Otoikaikan Hall (Nomura-town, Seiyo City, Ehime) coord: 33.378618748836224, 132.64466878413833
-https://seiyojikan.jp/spot/%e4%b9%99%e4%ba%a5%e4%bc%9a%e9%a4%a8%ef%bc%88%e5%a4%9a%e7%9b%ae%e7%9a%84%e3%83%9b%e3%83%bc%e3%83%ab%e3%80%81%e7%9b%b8%e6%92%b2%e8%b3%87%e6%96%99%e9%a4%a8%ef%bc%89/
+https://seiyojikan.jp/spot/%e4%b9%99%e4%ba%a5%e4%bc%9a%e9%a4%a8/
 
 Sumo Photo Museum (Sumida ward, Tokyo) coord: 35.69349795716893, 139.7937347052901
 http://visit-sumida.jp/spot/6135
@@ -968,7 +961,7 @@ https://www.youtube.com/watch?v=uUnBJX7X1GY
 
 #### Books, magazines, manga and anime
 
-https://en.wikipedia.org/wiki/WP:SUMO#Books
+https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Sumo/Resources#Bibliography
 
 https://openlibrary.org/search?q=sumo
 

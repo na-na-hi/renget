@@ -977,7 +977,7 @@ Page 6
 >>91197187
 >Kaori Kaoru
 >>91229075
-Choko Yumiya, VN Eye High
+>Choko Yumiya, VN Eye High
 >>92132153
 
 >Night Parade:
