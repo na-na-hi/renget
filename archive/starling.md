@@ -1,4 +1,4 @@
-![1divider](https://media.discordapp.net/attachments/1112655651416588371/1215113782096035860/IMG_3213.png?ex=65fb91e5&is=65e91ce5&hm=4ca18536e78d8a2da871953ecc1672f284a2a99058cdc3fcd8fbfdb33a486c65&)
+-> ![1divider](https://media.discordapp.net/attachments/1112655651416588371/1215113782096035860/IMG_3213.png?ex=65fb91e5&is=65e91ce5&hm=4ca18536e78d8a2da871953ecc1672f284a2a99058cdc3fcd8fbfdb33a486c65&) <-
 -> !~%pink%[cbox](https://my.cbox.ws/clairo) %%~! <-
 -> %pink% best viewed in light mode <3 %% <-
 ->![bow](https://media.discordapp.net/attachments/1112655651416588371/1215112879963906078/Untitled76_20240306184442.png?ex=65fb910e&is=65e91c0e&hm=ab86e62d97633eedc3616cbdd6e41f8ae8c8d78313c44f65e1cd014e4f3cb4fd&)‎ ‎ ‎‎ ‎ ‎  ‎ ‎‎‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ %#F1BCCB% .co/starling%% ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎![bow](https://media.discordapp.net/attachments/1112655651416588371/1215112879963906078/Untitled76_20240306184442.png?ex=65fb910e&is=65e91c0e&hm=ab86e62d97633eedc3616cbdd6e41f8ae8c8d78313c44f65e1cd014e4f3cb4fd&)
@@ -21,4 +21,4 @@
 
 ![misc](https://media.discordapp.net/attachments/1112655651416588371/1215121002766270544/Untitled75_20240306191658.png?ex=65fb989e&is=65e9239e&hm=d0027a137e2677808271466f704ebc3a17810f564d0b79933b775eb7e041535e&) -> %pink% [ihascupquake](/ihascupquake) [sinjindrowning](/sinjindrowning)%% %burlywood% [sockmonkey](/sockmonkey)%% %pink%[winkles](/winkles) [amazonalexa](/amazonalexa) [girlflux](/girlflux) [videostar](/videostar) [bunnydj](/bunnydj) **[march4th](""/march4th)** **[november2nd](/november2nd)** [jibbitz](/jibbitz) [jibbit](/jibbit) [chamoypicklekit](/chamoypicklekit) [instagramreels](/instagramreels) [kelcebrothers](/kelcebrothers) [riley](/riley) [shelby](/shelby) %% <-
 
-![2divider](https://media.discordapp.net/attachments/1112655651416588371/1215113782540501022/IMG_3214.png?ex=65fb91e5&is=65e91ce5&hm=418899f15ea55e7ce94fe7ad5b8a985acfee87f0b5ab51ae3fa7983eaaa4c6f7&)
+-> ![2divider](https://media.discordapp.net/attachments/1112655651416588371/1215113782540501022/IMG_3214.png?ex=65fb91e5&is=65e91ce5&hm=418899f15ea55e7ce94fe7ad5b8a985acfee87f0b5ab51ae3fa7983eaaa4c6f7&) <-

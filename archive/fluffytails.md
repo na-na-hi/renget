@@ -10,7 +10,7 @@
 -> ==Latest Update 2/25/24== <-
 -> Going to update gradually, posting what I see on the thread and Chub. Will do another batch if I see a fox botmaker I haven't discovered before or I get sent a fuckton of new ones at once. <-
 -> *Added to Male: Rylie* <-
--> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila* <-
+-> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila, Loba* <-
 
 -> ==Previous Update 2/21/24== <-
 -> *Added to Male: Kheti* <-
@@ -106,6 +106,9 @@ Character  |  Preview  |  Description  |  Links
 **Hope** | ![Hope](https://files.catbox.moe/iu4mdf.png) | Same character as above, different scenario. Your formerly homeless Kemonomimi foxgirl childhood friend, now your happy, loving wife. | [CHUB](https://www.chub.ai/characters/totalethicistdeath/hope-54507f9b) [CATBOX](https://files.catbox.moe/g9l69k.png)
 **Emma** | ![Emma](https://files.catbox.moe/cja7dw.png) | Your Kemonomimi foxgirl childhood friend finds you homeless after years apart. More or less a role-reversal of Hope, the card just above this one. | [CHUB](https://chub.ai/characters/totalethicistdeath/emma-bd1bd1d9) [CATBOX](https://files.catbox.moe/qbq2es.png)
 **Leila** | ![Leila](https://files.catbox.moe/0rwgm9.png) | Your petite foxgirl wife that wakes up one morning to find she's now over a foot taller, and has a significant height advantage over you. | [CHUB](https://www.chub.ai/characters/totalethicistdeath/leila-3125c9ce) [CATBOX](https://files.catbox.moe/5o0mj0.png)
+**Loba** | ![Loba](https://files.catbox.moe/jfvjtb.png) | **SIZEFAGGOTRY** - You got lost during an Arctic expedition to map out the relatively unknown lands of the Arctic Circle; you lost track of your caravan during a very strong blizzard; your body finally stops tumbling as something hard breaks your fall; you slowly lose consciousness as everything goes to dark; some time passes; and your senses start to return to your body; you appear to be wedged between two huge, fleshy, smooth, and warm boulders; and you quickly realize your predicament. You are lying between the massive boobs of a slumbering fox-like creature who has mistaken you for its offspring. | [CHUB](https://chub.ai/characters/Genoo/loba-2440c2c5) [CATBOX](https://files.catbox.moe/fj4yh6.png)
+
+
 
 ### Existing Characters
 Character  |  Preview  |  Description  |  Links

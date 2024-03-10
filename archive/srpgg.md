@@ -306,6 +306,9 @@ https://www.kickstarter.com/projects/category/solo-sci-fi-sidekick
 Tricube Tales: Solo Rules & Deck
 Plot Unfolding Machine (PUM) by JeansenVaars
 https://exposit.github.io/katarpgs/lite/calypsocompendium/
+Mini GM Companion by benji t
+Quest Fronts #1 from Ludic Pen
+https://xenokraft.itch.io/rpg-adventure-design-cheat-sheet
 
 ###Android App
 Adventuresmith

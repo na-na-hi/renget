@@ -59,8 +59,8 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 %#dcc6c2%Move%% | %#dcc6c2%Base Power%% | %#dcc6c2%Action Points%% | %#dcc6c2%Accuracy%% | %#dcc6c2%Type%% | %#dcc6c2%Property%% | %#dcc6c2%Description%%
 --- | -- | -- | - | :-: | :-: | ---------
 %#ff82b6%G%%%#d77bba%r%%%#76428a%av%%%#4d2f63%ity%% | - | 4 %#7c57ff%AP%% | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | All Pokémon near Espurr are afflicted with [*Grounded*](https://rentry.org/tmd2many_rules#status-effects). All Moves have their accuracy increased by 25% (5).
-Light Screen | - | 4 %#7c57ff%AP%% | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Special Moves.
-Shock Wave | 6 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
+Light Screen | - | 4 %#7c57ff%AP%% | - | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects Espurr and their Allies. Affects Special Moves.
+Recycle | - | 4 %#7c57ff%AP%% | - | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | When in battle, Espurr acquires a lesser version of a [Consumable Item](https://rentry.co/tmd2many_moves#recycle-table) they or an Ally have used recently. Outside of combat, Espurr may turn some [Items](https://rentry.co/tmd2many_moves#recycle-table) into other [Items](https://rentry.co/tmd2many_moves#recycle-table). 
 Flash | - | 4 %#7c57ff%AP%% | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Accuracy is decreased by 1. Espurr may briefly illuminate dark areas.
 Basic Attack | 4 %#ac3232%BP%% | 4 %#7c57ff%AP%% | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/zEMIRAISZUgDctRcYOnWHIXa) | Property determined by Espurr's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
 
@@ -76,7 +76,7 @@ None | N/A
 ***
 
 #### ->%#dcc6c2%Special Bonuses%%<-
-!!! note 29 IQ points to spend.
+!!! note 69 IQ points to spend.
 	2/10 | ▮▮▯▯▯▯▯▯▯▯
 %#dcc6c2%IQ Skills Active/Inactive%% | %#dcc6c2%Description of Skill%% | %#dcc6c2%IP Cost%%
 ------ | :----: | ------
@@ -100,7 +100,7 @@ Battle Attribute: ??? | - | -
 
 %#dcc6c2%Training%% | %#dcc6c2%Next Tier Bonus%% | %#dcc6c2%Progress (Numerical)%% | %#dcc6c2%Progress Bar%%
 ------ | :----: | :----: | :----:
-Training for Attribute: Artifice | Tier %#e69d31%**ɪɪɪ**%% | 1/3 | ▮▯▯
+Training for Attribute: Artifice | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▮▯
 Training for Attribute: Foraging | Tier %#e69d31%**ɪɪɪ**%% | 1/3 | ▮▯▯
 Training for Attribute: Meditation | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▮▯
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
@@ -116,7 +116,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
 1. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
-2. Sweet Honey | None
+2. Empty | None
 3. Empty | None
 4. Empty | None
 
@@ -127,7 +127,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
 1. Colbur Berry | None
-2. Red Gummi | 
+2. Empty | None
 
 ***
 
@@ -149,6 +149,7 @@ Key Item | None | None
 --- | -- | - | - | - | - | ---------
 Confusion | 5 BP | 5 AP | ≥2 | ![Psychic-Type](https://archives.bulbagarden.net/media/upload/thumb/f/f8/PsychicIC.png/70px-PsychicIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Confusion*.
 Disarming Voice | 4 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Fairy-Type](https://archives.bulbagarden.net/media/upload/thumb/3/31/FairyIC.png/70px-FairyIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Never misses.
+Shock Wave | 6 %#ac3232%BP%% | 5 %#7c57ff%AP%% | - | ![Electric-Type](https://archives.bulbagarden.net/media/upload/thumb/e/ea/ElectricIC.png/70px-ElectricIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | No secondary effect.
 None | - | - | - | - | - | This Move does not exist yet.
 
 ***

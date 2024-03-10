@@ -2938,6 +2938,9 @@ Tags: https://files.catbox.moe/00lwai.txt
 "human to feral, mid-transformation" are the triggers
 https://files.catbox.moe/n44dny.safetensors
 
+# Horsepussy - Clitoral Winking (Concept)
+https://pixeldrain.com/u/UVJokbBz
+
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
 

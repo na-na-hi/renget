@@ -10,7 +10,7 @@
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **NAMES** <-
 ***
 
-**afanasy ♡ anastasii** ♡ AzazeIs ♡ [apheIi0s](apheIi0s) ♡ `samaeIs` ♡ Vincienzo ♡ apheli ♡ xofsys ♡ xofsystem ♡ viephel ♡ viekayn ♡ helioshelios ♡ phelkayn ♡ phelsie ♡ [phelphel](phelphel) ♡ criminolly ♡ primink ♡ **seikilos** ♡ solsolanine ♡ hemlocksbane ♡ noctumsys
+**afanasy ♡ anastasii** ♡ `azazeIs` ♡ [apheIi0s](apheIi0s) ♡ `samaeIs` ♡ Vincienzo ♡ apheli ♡ xofsys ♡ xofsystem ♡ viephel ♡ viekayn ♡ helioshelios ♡ phelkayn ♡ phelsie ♡ [phelphel](phelphel) ♡ criminolly ♡ primink ♡ **seikilos** ♡ solsolanine ♡ hemlocksbane ♡ noctumsys
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **LGBT & MOGAI** <-
 ***
@@ -22,7 +22,7 @@
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **PHRASES** <-
 ***
-safeashouses ♡ leavemebe ♡ *[tookmysoul](tookmysoul)* ♡ loserepeatedthoughts ♡ howcouldinottearyouapart ♡ whoslosing ♡ [aloneatlast](aloneatlast) ♡ letitslip ♡ giveupsmoking ♡ pitchblackpaleblue ♡ variationofthetruth ♡ honestwhenitrains ♡ ==letmeleave== ♡ itsghosting ♡ singforme ♡ iminpain ♡  torage ♡ wherewereyou ♡ noplacelikehome ♡ **[alonewithyou](alonewithyou)** ♡ Ibelieveinmyself ♡ Ibelieveinyou ♡ youwillnotbemissed ♡ icantletyougo ♡ okaybabyalright ♡ quitonus ♡ *stand-by* ♡ **messengerofsin** ♡ bornasfools ♡ YouAndIBornAsFools ♡ cryflydietry ♡ [werulenow](werulenow) ♡ inner-sanctity ♡ iaminthetwilight ♡ imnotherandshesnotme ♡ *good-bye* ♡ lookinthemirror ♡ *iloveyoubunny* ♡  [evilisnear](evilisnear) ♡  [devilishere](devilishere) ♡ lifeofsin ♡ lifeissin ♡ suchastrangegirl ♡ letmeseeumove ♡ airofmystery ♡ auraofdanger ♡ **[parasocial4u](parasocial4u)** ♡ cureurills ♡ neverwill ♡ letyoudrown ♡ ihopeyousuffer ♡ [starsinheaven](starsinheaven) ♡ wiresinyourmind ♡ screwbutnevercall ♡ *bornasfoolsnow* ♡ writingthisat3am ♡ oncemoretoseeyou- ♡ notyetdone ♡ socamp ♡ find-you ♡ morethanmeetstheeyes ♡ mystrangeaddictions ♡ youhaveme ♡ isawstars ♡ ithink-thereforeiam ♡ [stalkergetstalked](stalkergetstalked) ♡ burnaheart ♡ breakaheart ♡ wonderweapon ♡ donotcopy ♡ mortaltouches ♡ worstmmoever 
+safeashouses ♡ leavemebe ♡ *[tookmysoul](tookmysoul)* ♡ loserepeatedthoughts ♡ howcouldinottearyouapart ♡ whoslosing ♡ [aloneatlast](aloneatlast) ♡ letitslip ♡ giveupsmoking ♡ pitchblackpaleblue ♡ variationofthetruth ♡ honestwhenitrains ♡ ==letmeleave== ♡ itsghosting ♡ singforme ♡ iminpain ♡  torage ♡ wherewereyou ♡ noplacelikehome ♡ **[alonewithyou](alonewithyou)** ♡ Ibelieveinmyself ♡ Ibelieveinyou ♡ youwillnotbemissed ♡ icantletyougo ♡ okaybabyalright ♡ quitonus ♡ *stand-by* ♡ **messengerofsin** ♡ bornasfools ♡ YouAndIBornAsFools ♡ cryflydietry ♡ [werulenow](werulenow) ♡ inner-sanctity ♡ iaminthetwilight ♡ imnotherandshesnotme ♡ *[good-bye](good-bye)* ♡ lookinthemirror ♡ *iloveyoubunny* ♡  [evilisnear](evilisnear) ♡  [devilishere](devilishere) ♡ lifeofsin ♡ lifeissin ♡ suchastrangegirl ♡ letmeseeumove ♡ airofmystery ♡ auraofdanger ♡ **[parasocial4u](parasocial4u)** ♡ cureurills ♡ neverwill ♡ letyoudrown ♡ ihopeyousuffer ♡ [starsinheaven](starsinheaven) ♡ wiresinyourmind ♡ screwbutnevercall ♡ *bornasfoolsnow* ♡ writingthisat3am ♡ oncemoretoseeyou- ♡ notyetdone ♡ socamp ♡ find-you ♡ morethanmeetstheeyes ♡ mystrangeaddictions ♡ youhaveme ♡ isawstars ♡ ithink-thereforeiam ♡ [stalkergetstalked](stalkergetstalked) ♡ burnaheart ♡ breakaheart ♡ wonderweapon ♡ donotcopy ♡ mortaltouches ♡ worstmmoever 
 ***
 -> ![](https://files.catbox.moe/u1c2an.gif) ; **TV TROPES** <-
 ***

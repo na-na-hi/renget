@@ -65,10 +65,6 @@
 - Collection of vintage and rare films that has been put together over many years by the website's operator and the community.
 - [URL Safety Results](https://www.urlvoid.com/scan/rarefilmm.com/)
 
-### 🔗 [StagaTV](https://ww1.stagatv.com/)
-- Indulge in the latest movies and TV series without annoying ads, just come and enjoy.
-- [URL Safety Results](https://www.urlvoid.com/scan/stagatv.com/)
-
 ### 🔗 [UHDMovies](https://uhdmovies.vip/)
 - Using some of the greatest file servers, you can download a tonne of excellent movies and TV series at dizzying speeds.
 - [URL Safety Results](https://www.urlvoid.com/scan/uhdmovies.vip/)
@@ -257,7 +253,7 @@
 - Provides an extensive range of films, spanning drama, comedy, action, sci-fi, and beyond.
 - [URL Safety Results](https://www.urlvoid.com/scan/watchug.com/)
 
-### ▶️ [WatchSeries](https://watchseries.im/) / [2](https://watchserieshd.live/)
+### ▶️ [WatchSeries](https://watchseries.im/)
 - Get free HD streaming of movies and TV shows online. There is no need to register or subscribe. Get rid of your boredom and stress.
 - [URL Safety Results](https://www.urlvoid.com/scan/watchseries.im/)
 

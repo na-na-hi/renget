@@ -84,6 +84,8 @@ aggretsuko
 kashiwankomochi
 cogimyun
 **kanade yoisaki**
+**larry johnson**
+sal fisher
 
 
 *sorry my autism took over and i decided to make a whole ass list i will be adding more constantly probably anyways hi ;3*

@@ -126,7 +126,9 @@ Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  H
 
 ###Error
 Q1: Have you found any hobbies in the Pokemon world?  Made any friends?
+>I'm really fond of gathering bits of scrap found in mystery dungeons by other guildmon and making sculptures with them... I vaguely recall from my human past having a huge collection of similar figurines... They were called... Gumplot? Gunplay? I.. The name doesn't matter. I just like building them. Gardevoir has taken an interest in my hobby and has been using it as a way to help bolster my psychic powers... As for friends, besides Rotom who's literally been stuck at the proverbial hip... Or brain, in this case, with me. I had just met a Gardevoir wanderer named Carrie who's been very understanding of my situation and shown an interest in the oddity that is our guild. Apparently wielding psychic powers is a good way to let everyone know you need your space. I've been also finding myself more welcome with the more chattier Pokemon who will carry the whole conversation by their self, like Pikachu! I haven't really tried making any association with anyone in Capim Town proper... Maybe I should...
 Q2: This statement is false.
+>I... What? I had to ask someone else about this one. I'm not a robot, damn it! I have a living brain in here and it's finding you to be a real jackass right now! Go try that shit with Magnezone at the jail or something, smartass!
 
 ###Pika
 Q1: What's the most important thing to have in a relationship?

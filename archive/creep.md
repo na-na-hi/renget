@@ -1,7 +1,10 @@
--> [back](https://rentry.co/clairo) <-
--> ![](https://autism.crd.co/assets/images/gallery01/9b7d05f3_original.gif?v=69d6a439) <-
--> byi <-
--> i have autism and some other stuff,, my favorites are [ann](https://id5.fandom.com/wiki/%22Disciple%22), herobrine, steve, juliet starling, garfield, kasumi toyama, applejack, kaito, alice deross, marinette, nd chat noir. yeaahh ure getting blocked if u try to one up me with them. i love yapping and calling with people. my discord is rockmyemotions if you wanna talk or if ur interested in a url (u can also ask to decorate/use one!!! im happy to paste anything onto it for you or i can make one for u) i use the f slur and r slur (ive been called both more than i can count idgaf if you think i cant reclaim them ;-;) my fav medias at the moment are identity v, minecraft, nd miraculous feel free to ask for other socials <-
-***
--> dni <-
--> no dni jst dont be a retard <-
+-> ![](https://media.discordapp.net/attachments/1096639589852123136/1216161381674520687/IMG_3356.jpg?ex=65ff618c&is=65ecec8c&hm=3f97456f5f6d57edb395b87a92cc8495d8be17e798ee6afaa83ad247c55fbd0f&) <-
+
+-> hi i'm enny <-
+-> she/her but dnt rlly care! <-
+-> nonbinary bisexual <-
+
+-> autistic and ...psychotic w unlisted rsn <-
+-> im slow no tonetags <-
+->  [urls](/starling) [other rentry](/clairo) <-
+-> [info on palestine](/lmfao) [discord](https://discord.gg/gBAaFC39) <-

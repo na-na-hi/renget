@@ -491,6 +491,12 @@ https://files.catbox.moe/tw9t1s.safetensors k-pop-stars a lora trained on kpop s
 [![1girl no scores](https://files.catbox.moe/3s8p23.png)](https://files.catbox.moe/tvs4wl.png)[![1girl scores](https://files.catbox.moe/pxp20v.png)](https://files.catbox.moe/z0g91n.png)[![chun-li no scores](https://files.catbox.moe/bly32d.png)](https://files.catbox.moe/num6k1.png)[![2b score_9 only](https://files.catbox.moe/gnrx26.png)](https://files.catbox.moe/xroqb2.png)[![korra scores](https://files.catbox.moe/idx2p6.png)](https://files.catbox.moe/j5zn50.png)
 https://files.catbox.moe/5oa88d.safetensors shadman
 
+[![1girl no scores](https://files.catbox.moe/fopmq9.png)](https://files.catbox.moe/41r8lo.png)[![1girl scores](https://files.catbox.moe/er888z.png)](https://files.catbox.moe/ltznol.png)[![chun-li no scores](https://files.catbox.moe/wfg0eg.png)](https://files.catbox.moe/z6ak51.png)[![2b score_9 only](https://files.catbox.moe/szm2qe.png)](https://files.catbox.moe/vqnkt9.png)[![korra scores](https://files.catbox.moe/aw49bd.png)](https://files.catbox.moe/hhp7k4.png)
+https://files.catbox.moe/tccjiu.safetensors kylin
+
+[![1girl no scores](https://files.catbox.moe/k8qzgg.png)](https://files.catbox.moe/gfpg5i.png)[![1girl scores](https://files.catbox.moe/qcslm6.png)](https://files.catbox.moe/b720x9.png)[![chun-li no scores](https://files.catbox.moe/pdeo4f.png)](https://files.catbox.moe/y0dnul.png)[![2b score_9 only](https://files.catbox.moe/z7x5sg.png)](https://files.catbox.moe/tailom.png)[![korra scores](https://files.catbox.moe/016lrw.png)](https://files.catbox.moe/14yd2t.png)
+https://files.catbox.moe/7sgo6g.safetensors uno_makoto exmaple gen: https://files.catbox.moe/yt0ip7.png
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

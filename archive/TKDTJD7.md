@@ -1070,3 +1070,128 @@
     >Bombs, drones, and missiles is your only answer. They only understand that language. And of course you have to get rid of the traitors. Otherwise, you will never have peace, never.  
     >https://t.me/megatron_ron/2191  3/8/24         
     ***
+!!!danger 
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 8 (2024), against (US)-israeli forces:
+    >
+    >— 🇵🇸 Al-Qassam Brigades:
+    >🔻Dropped two anti-personnel grenades from a drone, atop an IOF command center east of Beit Hanoun, north of the Gaza Strip.
+    >🔻Sniped an IOF officer, east of Beit Hanoun, north of the Gaza Strip.
+    >🔻Ambushed an israeli infantry force of 6 soldiers inside one of the residential apartments, clashed with it, and finished off all its members from point-blank range, in Hamad Town, north of Khan Yunis, south of the Gaza Strip.
+           
+    >— 🇵🇸 Mujahideen Brigades:
+    >🔻Engaged in fierce clashes with IOF forces and their military vehicles in Hamd City in Khan Yunis, utilizing various appropriate weapons.
+    >🔻Targeted a gathering of IOF army vehicles and the deployment of its engineering soldiers with a barrage of short-range rockets, east of Jabalia, resulting in direct hits.
+     
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >🔻Targeted an IOF military vehicle with an RPG in the axis in Hamd City, northwest of Khan Yunis.
+    >🔻Shelled an assembly of IOF soldiers and vehicles with a barrage of 60-caliber mortar shells in the axis in Hamd City, northwest of Khan Yunis.
+    >🔻Carried out multiple simultaneous shooting operations against checkpoints and Israeli occupation locations in the northern occupied West Bank.
+    >🔻Engaged in intense clashes with IOF army forces, using appropriate weapons, in the axis in Hamd City, northwest of Khan Yunis.
+       
+    >—🟡 Hezbollah:
+    >🔻Targeted the deployment of Israeli soldiers around the "Al-Rahib" site with artillery shells.
+    >🔻Targeted an assembly of israeli soldiers and vehicles east of the Al-Samaka site in the hills of Kafr Shuba, southern Lebanon, with rockets and artillery.
+    >🔻Targeted the Ruwaisat Al-Alam site in the hills of Kafr Shuba, southern Lebanon, with rockets.
+    >🔻Targeted an assembly of israeli soldiers around the Jal Al-Alam site with Falaq-1 rockets.
+    >🔻Targeted IOF artillery positions in "Dishon" with Katyusha rockets.
+    
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >🔻Targeted the intelligence Base (1) north of the occupied Golan Heights with a kamikaze drone.
+    >🔻Targeted the oil refineries in Haifa with a kamikaze drone.
+    >https://t.me/FotrosResistance/5821  3/9/24  
+    ***
+!!!warning
+    >The Government Media Office: As the Zionist-Nazi aggression is entering its sixth month, the number of victims, wounded, and missing persons has reached approximately 110,000 so far.
+    >
+    >Also, 90% of the citizens have been displaced and forcefully expelled from their homes.  
+    >https://t.me/QudsNen/98244  3/9/24  
+    ***
+    >The Open Arms ship is preparing to sail from Cyprus to #Gaza, carrying humanitarian aid, to be the first shipment sent to the Strip, through a sea corridor that the #European Commission hopes to open at the end of this week.
+    >https://t.me/me_observer_TG/164804  3/9/24  
+    ***
+    >Lebanon: UNIFIL spokesman: A Lebanese army vehicle was hit during a joint patrol in the vicinity of Aita al-Shaab as a result of gunfire from south of the Blue Line.  
+    >https://t.me/me_observer_TG/164817  3/9/24  
+    ***
+    >The last opportunity for negotiations begins tomorrow in Cairo to stop the war completely, temporarily, or to continue it during Ramadan.  
+    >https://t.me/me_observer_TG/164812  3/9/24      
+    ***
+    >Last night, resistance fighters blew up an IOF mechnized unit invading Nour Shams camp in Tulkarem (West Bank) with a highly-explosive device.    
+    >https://t.me/FotrosResistance/5825  3/9/24  
+    >https://files.catbox.moe/j6frq1.mp4  3/9/24
+    ***
+    >Statement issued by the Islamic Resistance:
+    >
+    >In the name of God, the Most Gracious, the Most Merciful
+    >“Permission is given to those who fight because they have been wronged, and indeed, God is Able to grant them victory.” Believe God Almighty
+    >
+    >In support of our steadfast #Palestinian people in the #Gaza Strip and in support of their brave and honorable resistance, on Saturday afternoon, 03/09/2024, the Mujahideen of the Islamic Resistance targeted a gathering of enemy soldiers in Mount Nazer with missile weapons and hit it directly.
+    >
+    >“And victory is only from Allah, the Mighty, the Wise.”
+    >Saturday 03/09/2024 AD
+    >28 Shaaban 1445 AH
+    >https://t.me/me_observer_TG/164858  3/9/24  
+    ***
+    >Lebanon: Islamic Resistance: Our mujahideen targeted a gathering of enemy soldiers in Mount Nader with missile weapons and hit it directly.
+    >https://t.me/me_observer_TG/164860  3/9/24  
+    ***
+    >Al-Qassam Mujahideen managed to seize two Quadcopter planes that were carrying out intelligence missions south of the Zaytoun neighborhood in #Gaza City.
+    >https://t.me/me_observer_TG/164852  3/9/24  
+    >
+    >Zionist officer has been killed in the northern Gaza Strip (announced to his family).  
+    >https://twitter.com/warfareanalysis/status/1766524075290005799  3/9/24  
+    ***
+    >This is the moment he was sniped  
+    >https://twitter.com/warfareanalysis/status/1766524686265930225  3/9/24 
+    ***
+    >Israeli soldiers in Gaza having fun.
+    >https://twitter.com/warfareanalysis/status/1766527581237510176  3/9/24
+    ***
+    >BREAKING | Dr Ashraf al-Qudra:
+    >
+    >▪️ A two-month-old girl died at Kamal Adwan Hospital in northern Gaza due to malnutrition and dehydration.
+    >
+    >▪️ A 20-year-old girl died at Shifa Medical Complex due to malnutrition and dehydration.
+    >
+    >▪️ The death toll of malnutrition and dehydration victims has risen to 25 in the Gaza Strip.
+    >
+    >▪️ The announced death toll of malnutrition and dehydration victims reflects only those who made it to hospitals.
+    >
+    >▪️ The increasing number of malnutrition and dehydration victims is extremely concerning and confirms that the famine in northern Gaza has reached lethal levels.  
+    >https://twitter.com/warfareanalysis/status/1766531876963926334  3/9/24  
+    ***
+    >Urgent || Protesters in Tel Aviv are demanding an immediate swap deal and the resignation of Netanyahu's government  
+    >https://t.me/me_observer_TG/164918  3/9/24  
+    ***
+    >Al-Qassam (Hamas) published a video showing the remains of destroyed IOF army vehicles in Khan Yunis.  
+    >https://t.me/FotrosResistance/5830  3/9/24  
+    >https://files.catbox.moe/uxegy2.mp4  3/9/24 
+    ***
+    >An Israeli rabbi calls for killing all the children and women of Gaza and annihilating the Palestinians to the last one.  
+    >https://twitter.com/warfareanalysis/status/1766560244996489377  3/9/24  
+    >https://files.catbox.moe/p6vhxf.mp4  3/9/24  
+    ***
+    >HAMAS IS NOT A TERRORIST ORGANIZATION…. 
+    >
+    >It’s a resistance AGAINST A TERRORIST PARASITE.  
+    >https://twitter.com/warfareanalysis/status/1766561033642979339  3/9/24  
+    ***
+    >BREAKING CNN, according to the Director of the United Nations Department of the International Crisis Group: The airdrop on Gaza is just a photo opportunity  
+    >https://twitter.com/warfareanalysis/status/1766563678382358655  3/9/24 
+    ***
+    >Israel's Sephardic Chief Rabbi Yitzhak Yosef threatens that his community will leave the occupied land if they are forced to join the Israeli army.
+    >
+    >The Sephardim make up about 55% of the settlers in the occupied land.  
+    >https://t.me/QudsNen/98275  3/9/24  
+    ***
+    >Urgent || Local sources:
+    >
+    >The occupation army fires lighting bombs and begins sweeping operations near the town of Azzun, east of Qalqilya, after a shooting attack carried out by resistance fighters.  
+    >https://t.me/me_observer_TG/165047  3/9/24  
+    ***
+    >Qatari and Egyptian negotiators are striving to secure a two-day ceasefire between Israel and Hamas  in Gaza at the beginning of the month of Ramadan.  
+    >https://twitter.com/warfareanalysis/status/1766572631317246119  3/9/24 
+    ***
+    >BREAKING| Biden: I'm never gonna leave Israel. The defence of Israel is still critical.
+    >https://t.me/QudsNen/98284  3/9/24  
+    >https://files.catbox.moe/cbuw3v.mp4  3/9/24  
+    ***

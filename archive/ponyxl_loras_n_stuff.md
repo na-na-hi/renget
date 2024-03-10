@@ -230,6 +230,8 @@ https://files.catbox.moe/6nnfzi.safetensors norza
 https://files.catbox.moe/4z5ngk.safetensors ter
 https://litter.catbox.moe/cburag.safetensors juno really only trained on paizuri since that's pretty much all the artist draws, has activation trigger junopai, 1girl, solo focus, 1boy, penis, paizuri, large breasts will get the typical image layout 
 https://files.catbox.moe/5oa88d.safetensors shadman
+https://files.catbox.moe/tccjiu.safetensors kylin 
+https://files.catbox.moe/7sgo6g.safetensors uno_makoto exmaple gen: https://files.catbox.moe/yt0ip7.png
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
@@ -757,6 +759,8 @@ last tried was yanyan_\(shinken_gomi\)
 
 ##Innate Characters
 An anon went through the trouble of compiling a  list of characters known to the model, these are not comprehensive it seems to know hundreds if not thousands of characters. Any popular female character from a popular franchise has a good chance of being known to the model, movies, video games, and tv shows are a good source.
+
+**I've gotten some complaints that these lists aren't accurate, I'm keeping them around for posterity but don't count on a character showing up just because it's in these lists.**
 
 Females: https://files.catbox.moe/oklpz8.txt
 Males: https://files.catbox.moe/1lptzn.txt

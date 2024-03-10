@@ -28,7 +28,10 @@
     >https://files.catbox.moe/ofqerq.mp4  New  3/4/24
     ***
     >Al-Qassam Brigades publishes scenes of an occupation army officer shooting east of Beit Hanoun in the northern #Gaza Strip 
-    >https://files.catbox.moe/w2a0tj.mp4  New  3/8/24                 
+    >https://files.catbox.moe/w2a0tj.mp4  New  3/8/24  
+    ***
+    >Al-Qassam (Hamas) published a video showing the remains of destroyed IOF army vehicles in Khan Yunis.  
+    >https://files.catbox.moe/uxegy2.mp4  New  3/9/24   
 !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
@@ -54,6 +57,9 @@
     ***
     >Some of Al-Quds Brigades clashes in Al-Zaytoun Neighborhood..
     >https://files.catbox.moe/0jko4a.mp4  New  3/7/24  
+    ***
+    >Saraya Al-Quds- Tulkarem Brigade:  New kino, big explosion
+    >https://files.catbox.moe/zq9ghd.mp4  New  3/9/24 
 ### AnsarAllah 
 !!!note
 ### Islamic Resistance Iraq
@@ -141,4 +147,13 @@
     ***    
     >Surveillance camera documents the scene of young men stealing a “settler’s” weapon and fleeing 🇵🇸  
     >https://files.catbox.moe/l29l1f.mp4  New  3/8/24  
+    ***
+    >Last night, resistance fighters blew up an IOF mechnized unit invading Nour Shams camp in Tulkarem (West Bank) with a highly-explosive device.    
+    >https://files.catbox.moe/j6frq1.mp4  New  3/9/24
+    ***
+    >An Israeli rabbi calls for killing all the children and women of Gaza and annihilating the Palestinians to the last one.  
+    >https://files.catbox.moe/p6vhxf.mp4  New  3/9/24 
+    ***
+    >BREAKING| Biden: I'm never gonna leave Israel. The defence of Israel is still critical.
+    >https://files.catbox.moe/cbuw3v.mp4  New  3/9/24     
     ***

@@ -51,3 +51,6 @@ Kita finds Masu to be an easy person to be around, most of the time anyways. Whi
 
 >Ichika
 Kita finds her troublesome. She's always making herself the center of attention, thus drawing more attention to Kita by proxy. He knows she means well, and he often agrees with her sentiments, but her outgoing nature is a luxury Kita can't afford. She has a clan and friends to protect her. She's probably never had to deal with being completely alone. A secret even Kita himself isn't fully aware of is that he's a bit envious of her. She often voices things Kita himself wishes he could.
+
+>Writings
+1st Exam: https://rentry.org/ktqmapzp

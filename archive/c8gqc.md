@@ -311,21 +311,27 @@ head-fi.org/threads/the-most-reliable-easiest-way-to-eq-headphones-properly-to-a
 *Unsure What Type of IEM and Cable Connection You Have?*
 head-fi.org/threads/the-different-types-of-iem-connectors.938264
 
+*IEM Cleaning, Maintenance, and Storage*
+playbutton.co/how-to-clean-an-iem-nozzle-complete-guide
+headphonemax.com/iems/clean
+
 *Ear Tip Guides*
 headphonesty.com/2018/04/ultimate-guide-selecting-perfect-iem-ear-buds-tips
 audioreviews.org/guide-to-iem-silicone-eartips
 
-*IEM Cleaning, Maintenance, and Storage*
-playbutton.co/how-to-clean-an-iem-nozzle-complete-guide
-headphonemax.com/iems/clean
+*Digital Audio Player (DAP) / Portable Music Player (PMP) Guide*
+twitter.com/align_centre/status/1677649129353404416
 
 *Earwax Removal and Cleaning Your Ears*
 health.clevelandclinic.org/ear-wax-removal-101-the-best-and-safest-ways-to-clear-clogged-ears
 healthline.com/health/how-to-clean-your-ears
 aarp.org/health/conditions-treatments/info-2020/safe-earwax-removal
 
-*Digital Audio Player (DAP) / Portable Music Player (PMP) Guide*
-twitter.com/align_centre/status/1677649129353404416
+*Safe Listening Levels - Understanding dBA, SPL*
+noisemeters.com/help/faq/frequency-weighting
+en.wikipedia.org/wiki/A-weighting
+audiosciencereview.com/forum/index.php?threads/safe-listening-levels-and-headphone-voltage-power-requirements.37860
+reference-audio-analyzer.pro/en/dbv-dbmw.php
 
 *Reading on Various Audio Topics*
 diyaudioheaven.wordpress.com/tutorials
