@@ -29,7 +29,7 @@ https://www.sumo-api.com/dashboard/torikumi
 #### Live streamings
 
 MidnightSumo (AbemaTV)
-https://www.twitch.tv/MidnightSumo
+https://www.youtube.com/@MidnightSumo/streams
 
 Davit (AbemaTV)
 https://www.youtube.com/@mysumofamily

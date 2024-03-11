@@ -2945,6 +2945,9 @@ https://files.catbox.moe/n44dny.safetensors
 # Horsepussy - Clitoral Winking (Concept)
 https://pixeldrain.com/u/UVJokbBz
 
+# Oogami-san (Character, Tsukareta Inu)
+https://pixeldrain.com/u/2EhSErgY
+
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
 

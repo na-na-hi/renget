@@ -36,30 +36,41 @@ The edit code for this rentry is **anniversary**
 
 ###Beast 
 Q1: What is you relationship with Ronnie?  Has your opinion of him changed since you first met?
+Q2: What was a human food request that stood out to you?
 
 ###Sneasel 
 Q1: Booker is getting closer and closer to flying.  Is there a part of you that'll be sad once he's less dependent on you?
+Q2: How does it feel getting hit with a fighting type move?
 
 ###Booker
 Q1: Is there anything that stinks about being a Ribombee that's really minor?
+Q2: Are there any small items you've found a new use for as a Ribombee?
 
 ###Jung
 Q1: How and when did you meet Sara? 
 Q2: Have you met any Clover Guild individuals besides Lliam?
 Q3: I wanna know how you got that scar!
+Q4: Do you have any hobbies besides dungeon exploration?
 
 ###Rasmus
 Q1: You joined the Guild around Halloween.  How has your experience been since then?  Good?  Bad?
 Q2: You're a roof tiler, right? What's that job like?
+Q3: Fancying anyone at the guild?
+Q4: How much silk can you make?  Do you ever give any away?  It seems useful!
 
 ###Nick 
 Q1: Given your title as a researcher, do guild members ever ask you difficult or odd questions?
 Q2: Do you get along well with the other research-oriented guildmons?
 Q3: I think you've said before that your tails are prehensile. How good are you at manipulating things using your tails? Have you been practicing with it?
+Q4: How is Pokémon language compared to English?
+>The languages are essentially completely different. Of course, that's to be expected given that the Pokémon written language was developed independent from any cultures that I know of, and as far as I know, humans in general as well. I still have no idea how the verbal language works or why I can understand *that* perfectly, but that's besides the point.
+>On the one hand, it's absolutely fascinating, and if I was still on speaking terms with (and had any way at all to contact, for that matter) my Lit 502 professor from college, I would totally show this to him. On the other hand (Er...paw? I'm not sure what the right idiom is now...), that makes it a bit of a bastard to learn. 
+>In terms of difficulty, I'd say it isn't too much harder than many other languages that don't use the Roman alphabet (just tedious - and I started to learn a couple of those), but it would've been a lot worse if some mon didn't compile a guide a while back. Shame the library we got it from only had the first volume.
 
 ###Nida
 Q1: What is the best way to prepare grime for consumption?  Do you have any favorite recipes?
 Q2: What do you and Pochi do on your time off?  Any hobbies?
+Q3: What is the dumbest thing you have ""borrowed""
 
 ###Pochi
 Q1: Is Nida still committing crimes?
@@ -142,13 +153,53 @@ Q2: What's comfier for sleeping? Warm room or cold room?
 
 ###Wooper
 Q1: Can you share some of your favorite human folklore?
+Q2: How do you get along with your fellow Wooper, Cheesecake?
 
 ###Smith
 Q1: Furret seems pretty cute.  Does she ever do anything that scares you?
+Q2: How much time do you spend with that Porygon2 you discovered?
 
 ###Furret 
 Q1: Smith seems like a tough guy.  Does he ever do anything nice for you?
+Q2: How did you get interested in fashion?
 
+###Togetic
+Q1: What would you do if you saw someone making a mess of the storeroom?
+Q2: Have you considered selling your Joy Dust?
+
+###Kiyo
+Q1: What is your body count?
+Q2: What is your body count ;)?
+Q3: Does crime pay?
+Q4: What happened to the money I lent you last Saturday? 
+
+###Cassie
+Q1: Are you a real construction company??
+Q2: Are you working to improve the fashion of the guild 👉👈
+Q3: How tough is your hide? What's the hardest hit you've withstood before?
+
+###Bean
+Q1: Are the inner machinations of your mind an enigma?
+Q2: Have you ever considered writing a memoir, to put all your deep thoughts on paper?
+
+###Adrian
+Q1: What is it like being a Flareon compared to Umbreon?
+Q2: How are you dealing with suddenly being so fluffy? No, really. Are there any additional steps of care, or anything like that, that you need to do now that you didn't as an Umbreon? Along the same lines, is there anything that you don't need to do that you did before?
+Q3: Considering your team has two grass-types on it, do you think you're going to need to be more careful to avoid friendly fire now?
+
+###KFC
+Q1 : Are you aware of any threats to Clover Guild?
+Q2 : What do you miss the most about your master?
+
+###Maxi
+Q1: What was the grossest thing you had to clean up?
+
+###Maddi
+Q1: Have you talked to other small members of the guild yet?
+Q2: What, if anything, is your relationship with Rasmus?
+
+###Apple
+Q1: Do you offer accordion lessons?
 
 ##->**General Questions**<-
 
@@ -159,13 +210,19 @@ Q1: Smith seems like a tough guy.  Does he ever do anything nice for you?
 
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
 
-**Teams of mons,** does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
+**Teams of mons**, does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
 
 **Guildmons with a dorm**, how is your room decorated?
 
 ##->**Pair Questions**<-
 
 **Luka & Nine**: How did you two meet?
+
+**Cassie & Furret**: When are you and Cassie going to compete for the best fashion designer?
+
+**Cassie & Pika**: When are you both sparking the shipping wars?
+
+
 
 ##->**Lore and Misc Questions**<-
 

@@ -57,3 +57,64 @@ His balled fist slammed into the pavement, cracks snaking out from the point of 
 He glanced around at the shattered remnants of buildings, at the memories of a life he could never reclaim. The city, indifferent to his struggles, stretched out above him like tendrils of some eldritch beast. Why was he born with this, this *curse*? A part of Taichi wished the rain could wash his imperfections away. Better yet, the rumble of distant thunder might silence the echoes of what he was, the same thing Mr. Inoue called him after he’d gotten bit.
 
 ***Freak.***
+
+***
+***
+***
+
+
+The temporary camp-taichi feels left out, 
+
+The once-bright neon sign, now flickering sporadically, emitted a feeble glow that struggled to pierce through the surrounding gloom. The sign, bearing the stylized silhouette of a grinning cartoon character holding a tangled mess of wires, hinted at the store's former vibrancy. The wires, however, now dangled precariously, a tangle of disconnected aspirations.
+
+
+breaks into Gogo Electronics by brute force after he smells food, unknowingly tripping an alarm. He frantically searches the store to find it was only a passing smell. Sees a TV-never allowed to watch it at Inoues, 
+
+***
+
+Scene of Taichi at the Inoues-comes out of his room to watch tv, smacked for it
+
+***
+
+almost breaks the remote trying to turn it on.
+
+TV scenes-
+Commercial with mom and child
+
+watches pro wrestling until he hears a police car, 
+
+Police arrive, chase out Taichi who flees into the woods 
+"Probably just a wild animal"
+Taichi can't even cry due to his condition.
+***
+
+"In a press conference just moments ago, the hero Cool Blue addressed the ongoing relief efforts in Nishinari Ward. Cool Blue, who's been at the forefront of the rescue operations, highlighted the urgent need for aid in the wake of the recent villain attack. With streets still smoldering, the hero spoke passionately about the importance of coming together as a community. He emphasized the necessity for donations, especially clean water, blankets, and non-perishable food-"
+
+"Why'd you turn it off?"
+
+The driver 
+
+
+"Aw, no, no, no, no, no, fuck!" 
+
+
+
+***
+***
+***
+
+
+***
+***
+***
+Saburo Watanabe
+Mr. Watanabe-former NCAA wrestler who sees taichi eat from his garbage, leaves a meal out.
+
+He sat up, wincing as his joints protested against the intrusion of time. Dr. Toda had said it was a side effect of his Quirk, but he knew better. There's only so many times a person can shoot for a takedown before their knees get busted up.
+
+"Take it," he muttered, more to himself than whoever was out there
+
+
+***
+BONUS ROUND
+"What a heater of a first round! But it looks like things are heating up even more as we enter Round 2

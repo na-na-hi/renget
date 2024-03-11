@@ -32,6 +32,14 @@
     ***
     >Al-Qassam (Hamas) published a video showing the remains of destroyed IOF army vehicles in Khan Yunis.  
     >https://files.catbox.moe/uxegy2.mp4  New  3/9/24   
+    ***
+    >⚡️🔥 Al Qassam releases :
+    >
+    >The operation of dropping two anti-personnel bombs via a drone on a military point belonging to the enemy army east of Beit Hanoun in the northern #Gaza Strip #Al-Aqsa Flood
+    >https://files.catbox.moe/l9tz49.mp4  3/10/24 
+    ***
+    >Watch…. Al-Qassam Ghoul sniper sniping an Israeli soldier south of the Tal Al-Hawa neighborhood in Gaza City.  
+    >https://files.catbox.moe/25u16d.mp4  New  3/10/24
 !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
@@ -44,6 +52,9 @@
     >
     >This is yet another recorded impact.
     >https://files.catbox.moe/uda8ar.mp4  New  3/6/24  
+    ***
+    >Hezbollah: Scenes from the operation targeting a "Namer" vehicle of the occupation army at the Malikia site.   
+    >https://files.catbox.moe/3mis2d.mp4  New   3/10/24 
  !!!note
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
@@ -156,4 +167,20 @@
     ***
     >BREAKING| Biden: I'm never gonna leave Israel. The defence of Israel is still critical.
     >https://files.catbox.moe/cbuw3v.mp4  New  3/9/24     
+    *** 
+    >Israeli minister Ben-Gvir defends 'spitting on Christians' in Jerusalem as old Jewish 'tradition'
+    >https://youtu.be/FT8COKNaDJE  New  3/10/24
+    ***
+    >Video from the last missile salvo launched from #Lebanon towards the occupied Golan
+    >https://files.catbox.moe/gkmumb.mp4  New  3/10/24  
+    ***
+    >Mujahideen Brigades: 
+    >From the targeting by the Mujahideen Brigades of a gathering and deployment of Zionist enemy forces east of Jabaliya with short-range rockets...
+    >https://files.catbox.moe/aw6f20.mp4  New  3/10/24  
+    ***
+    >The company's headquarters, located in London, provides parts for Israeli aircrafts used in committing genocide in Gaza. 
+    >https://files.catbox.moe/d2q8bp.mp4  New  3/10/24 
+    ***
+    >Video: A young man is prevented from entering Al-Aqsa Mosque and instructed to return. 
+    >https://files.catbox.moe/31sspy.mp4  New  3/10/24  
     ***

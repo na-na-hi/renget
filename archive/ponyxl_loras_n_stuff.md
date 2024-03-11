@@ -17,11 +17,37 @@ An anon also created a LoRA extract of it if you want to experiment with it on b
 https://civitai.com/models/312010/4th-tail-lora-extract
 
 ##Reverse Engineered Hashed Tokens
-It seems like the obfuscated/hashed tokens in the model are only mapped to three letter strings. There's only about 17k possible 3 letter combinations so it might be possible to just reverse engineer the remapped tokens through brute force, here's a few that are already known, hopefully this list will be expanded
+It seems like the obfuscated/hashed tokens in the model are only mapped to three letter strings. There's only about 17k possible 3 letter combinations so it might be possible to just reverse engineer the remapped tokens through brute force, here's a few that are already known, hopefully this list will be expanded.
+
+An anon has gone about generating each possible combination and when it seems to change the image in a meaningful way he's been keeping track of it. So far he's gone from aaa to hns, here's his results:
+
+https://files.catbox.moe/zp1pli.jpg
+https://files.catbox.moe/ybj76t.jpg
+
+Here's another pass that anon claims are "less consistent"
+
+https://files.catbox.moe/1z4efd.jpg
+https://files.catbox.moe/jnjwqi.jpg 
+
+There hasn't been any effort yet to go through and actually identify the artists/characters yet.
 
 ###Hashed Styles
+arb - superbusty
+bnp - konpeto?
+aqe - melon22
+dhg - nyantcha?
+fqx - camonome?
+grt - dikko?
+mjm
 wfk
 lbp
+zkm
+qse
+ert
+hrt
+rer
+rty
+zzg - jvteemo
 
 
 ###Hashed Characters

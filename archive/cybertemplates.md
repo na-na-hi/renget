@@ -22,6 +22,7 @@
 
 ->**cookie run**<-
 ->(FW) https://rentry.org/cybertemplates-silverbell<-
+->(FW) https://rentry.org/cybertemplates-blackpearl<-
 
 #ᶻ 𝗓 𐰁 SHIPS ｡｡｡
 ->**bungou stray dogs**<-

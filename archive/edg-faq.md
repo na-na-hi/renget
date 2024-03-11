@@ -5,7 +5,7 @@
 Yes, as long as your pic is /e/ and AI-generated, you are welcome to post it.
 
 >!~ I have so many gens, should I chain-post them all? ~!
-You shouldn't. /edg/ isn't a fast-moving general, so one-man spam can be pretty disruptive. Quality over quantity is the preferred way.
+You shouldn't. /edg/ isn't a fast-moving general, so one-man spam can be pretty disruptive. Quality over quantity is the preferred way. If you still want to post more than just a few gens at once, a good practice is to compile them into a mini-collage using your image editor of choice.
 
 >!~ What about fringe content that is in the spirit of the thread (monster girls, mild yuri, 1girls that may be a bit on a lewder side, etc.)? ~!
 We allow it, in moderation. Be reasonable, don't go too deep into fringe territory, don't spam and you'll be fine. !>Probably.
@@ -45,6 +45,9 @@ sd-webui-stealth-pnginfo
 sd-webui-regional-prompter
 sd-webui-depth-lib
 For NAI users: sdwebui-nai-api
+
+>!~ Recommended upscalers? ~!
+4xAnimeSharp  | 4xfoolhardy_Remacri | 4xNomos8kDAT. Note that depending on the image style and use case one might work better than the others, so experiment.
 
 >!~ Noob guides? ~!
 upscaling, danbooru tags, xyz plots, prompt editing: https://youtu.be/Jya6qcokqZQ

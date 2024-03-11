@@ -13,6 +13,8 @@
 - [ADHG Masterbin](https://rentry.org/ADHG)
 - ["Source Code"](https://github.com/Azuhmier/hmofa)
 - [Program that will replace the "Sourcce Code"](https://github.com/Azuhmier/ohmfa) (WIP)
+- [/HMoFA/ Updating Protocols](https://docs.google.com/document/d/18FXZAhdWJUJ6Jb2oR548oud9V7iB9hgxcPAka2-2jTI/edit?usp=sharing) (WIP)
+ 
 
 == **TABLE OF CONTENTS**
 [TOC2]

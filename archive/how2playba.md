@@ -457,6 +457,7 @@ No, you can not turn off the auto button in battle.
 ## Shop
 The place where u buy stuff and rub Sora's forehead.
 **The only items that rotate in the shop are the artifacts in the credit store.** 
+You can see when a shop refreshes on the bottom, they refresh on a daily/weekly/monthly basis.
 
 >Normal shop (or credit shop) 
 Buy out the artifacts/OOParts in the normal shop at the bottom every day, until you have a nice stack of 200 of the target item. Buy the enhancement stones *only if you need them*.

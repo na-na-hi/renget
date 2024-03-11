@@ -1400,3 +1400,37 @@ The serene shitgas caresses my sinuses and I am immediately sent into a state of
 >Lisa was found unconscious early the next day with pink pubes littering her face and droplets of urine running down her chin
 
 -> * * * <-
+
+## >>70572863
+
+I want Rissa to leglock my lower face against her asshole and unleash her rancid spluttering braps directly into my mouth onto my tongue, filling my airways as the reeking gas flows inside me, the taste and scent of her dire flatulence sending me into an immediate body-convulsing climax which drains my balls and prostate in one foul pump!!
+
+-> * * * <-
+
+## >>70615597
+
+Imagine being under the covers in a huge bed with all of the ravencroft women and inhaling the cocktail of their rancid braps in the hottest and smelliest of dutch ovens ever conceived, being repeatedly spattered with sweat flicking from their voluptuous butts due to their huge bassy braps shaking and wobbling their fat weighty cheeks!
+
+-> * * * <-
+
+## >>70609812
+
+Dark as Egypt, the consistency of charcoal, comes out as one solid piece, coils like a snake, a smell even Mel Nekomata would find disgusting, and the worst part is she announces it in discord "hey YA'LL it's Runie Poosday!" as the girls collectively groan knowing she's going to give them the play by play and a photo of the finished product.
+Several of them have asked fish to talk to her, but the last time he tried to have a discord call with her, she put her puckered butthole up to the mic and blew the loudest fart she could, "oops haha peanut butter gives me gas!" She apologized, but Sakana has already ended the call in disgust and frustration.
+
+-> * * * <-
+
+## >>>/d/10926758
+
+Rosemi is lowkey the smelliest brapper in corpo vtubing. When she knows nobody is around she lets out cheek reverberating ass clapping eruptions of reeking girlgas that could clear any room of unascended individuals that can't appreciate her erotic scent. If she farted into your mouth you would be able to taste it for a month.
+
+Personally I would like her to feed her farts into an oxygen mask strapped to my face so tightly it draws blood.
+
+-> * * * <-
+
+## >>70827664
+
+Nerissa's flatulent butthole belches bubbling and splurting into my nose and mouth
+Mamarissa sitting on my lubed nose until her asshole forms an airtight seal around my sniffer and pumping wet pungent parps of cheek clapping butt slapping rump reverberating shitstench directly into my sinuses until I ejaculate all over her spectating daughter from the erotic mature scent!!!
+
+-> * * * <-

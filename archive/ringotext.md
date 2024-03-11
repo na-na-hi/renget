@@ -8,18 +8,17 @@
 
 | Title | Chuuba(s) | Content |
 | ----- | --------- | ------- |
+| *[Laid-back Roommate](https://rentry.org/izbbvsk8)* | Ina, Bae | brap, sweat |
 | *[Suisei needs a shower!](https://docs.google.com/document/d/e/2PACX-1vSyMzJLVdQq_Yg2DakG0dUHV8viCS6x7OSMjWp3ADtxHOIQdI_txKtCw_mKwWcjFY_HtCHZaMeeqsug/pub)* | Suisei | sweat, smell |
 | *[A Friendly Competition](https://rentry.org/8o4tbevq)* | Fauna, Kronii, Mumei | brap, sweat |
 | *[HoloMess Collection](https://www.pixiv.net/novel/series/1497314) (Series)* [[AO3 mirror]](https://archiveofourown.org/works/36735109) | Various | brap, ringo, choco, diaper |
 | *[Comfort Assistants: Full Moon](https://rentry.org/cagqk)* | Moona | brap, choco |
 | *[No Time for the Toilet](https://archiveofourown.org/works/52353919)* | Kronii, Haachama | ringo, choco |
 | *[Are You Gwak'ing Your Pants?](https://archiveofourown.org/works/51912754/)* | Kronii, Fauna | choco, ringo |
-| *[Evangeline](https://docs.google.com/document/d/e/2PACX-1vTkJrqiZvWXgXsZJrzaDZbRDtiIE2LeJaoUs8mZ-iU19ks9mURRBcN2YQx0_GKrFVb-EhX3b_jFbc1Q/pub)* | Fauna | brap, smell |
 | *[Holoshorts](https://docs.google.com/document/d/e/2PACX-1vTHQNoyNK1_zHfuT4kP0bJdxTCWMilPc6L1eNFwJYbZVcyspsJFyIkCMQfXT58CGVuoA0oixd_PtCoh/pub) (Series)* | Various | wedgie, sweat, smell |
 | *[Shelter](https://docs.google.com/document/d/e/2PACX-1vQmx13QCZB8R9LeM5edXddbL_MjYi_ST1vGiwdWTWr0R47taCIhBhq8LxW7PpS450i6aB_Malv5bjcv/pub)* | Hajime, Fuwawa, Mococo | ringo, diaper |
 | *[Crappy Coexistence](https://archiveofourown.org/works/51310813/chapters/130122505)* | Haato, Haachama | choco, ringo, brap, smell, futa |
 | *[Crappy Crinkly Coexistence](https://archiveofourown.org/works/51310813)* | Haato, Haachama | choco, ringo, diaper, futa |
-| *[Mad Brapper](https://docs.google.com/document/d/e/2PACX-1vSIaBUSrbQPOYAiIaVzYEw4km1edMW7SDqjWEc_ND5EGlzkEPMgV6PhvI95ne2WRNFNVj45rRy8Y19l/pub)* | Fauna, Bae | smell, brap |
 | *[Who is the Best at the Changing the Reaper?](https://archiveofourown.org/works/51092140)* | Calli, Kiara, Fauna, Shiori | choco, ringo, diaper, futa |
 | *[The World's Pudgiest, Poopiest Idol](https://archiveofourown.org/works/50272087)* | Haato | brap, choco, diaper |
 | *[Cut from the Same Cloth: Part 5](https://rentry.org/h82ts)* | Fuwawa, Mococo | sweat, smell, brap, ringo, choco, futa |
@@ -43,7 +42,7 @@
 | *[Hag Inspection Report](https://rentry.org/vpi2n)* | Various | milk |
 | *[Fujo Chadcast Hypno Discussion](https://docs.google.com/document/d/e/2PACX-1vRTPFCKwdACg2l2hGn4buQKbAndr5kNSYBZRAGvnFO051JHOzmHvO0llt362I3_973GCykJKfOvxSUF/pub)* | Calli, Bae, IRyS | sweat, smell |
 | *[Tsuki no Usagi: Unkomonogatari](https://rentry.co/2xbug)* | Moona, Pekora | brap, choco, ringo, vomit, futa |
-| *[Miso Soup](https://docs.google.com/document/d/e/2PACX-1vSAIqRY1naltK7FxyRlF61yi_n0S7K0HXRcSEpHAugkXclQTL3CkCPL1F82T3ATSSFdRRpRTEC15flQ/pub)* | Mio | choco |
+| *[Miso Soup](https://rentry.org/65cf4uxa)* | Mio | choco |
 | *[A Detective for Every Shart](https://docs.google.com/document/d/e/2PACX-1vSPjqqrx9YC9b3fmc4M08XMbK0I1EjcPOgOUDyGHEY0GMaAfBZ1Yta__4pFhwDL_-11WXgQXh_wOz8c/pub)* | Gura, Ame | brap, choco |
 | *[First Train and Kafka: Stop 13](https://docs.google.com/document/d/e/2PACX-1vQx-CUx2ApJrMNjL92GkFTTxSR7_zgCF5LNzwRMQJpOdqjr1Em5HcWT5DAvuaI5rNy0F8gYKL8FUsfz/pub)* | Sora, Aki, Suisei | ringo |
 | *[Lemon](https://docs.google.com/document/d/e/2PACX-1vSF9ji9VqC8eRbfn9vy2hA7L2M8dmNhSCyukH4lUPJ786LX3ZqaCnVGdJGVmA5mTvUvFiopOZSoAVwW/pub)* | Kiara | ringo |
@@ -56,7 +55,7 @@
 | *[Signing Bonus](https://rentry.org/nf7bm)* | Kson | brap, choco |
 | *[Time to Mix Ringo and Change Lives](https://rentry.org/zsefh)* | Calli, Ame, Gura, Ina, Kiara | ringo |
 | *[Stall in the Mall](https://rentry.org/9oi7s)* | Kronii, Calli | ringo, choco, sweat |
-| *[Paradise Regained](https://docs.google.com/document/d/e/2PACX-1vSVSglaTYaB6KcPqLOXBRS8a48v3CPg97_RwIZiVbbOfi7wKoqberTpa2e6L3uH9ZMvQSr5IPuQDThJ/pub)* | Kurokami | choco |
+| *[Paradise Regained](https://rentry.org/qxd47fdo)* | Kurokami | choco |
 | *[【PAD CAST #02】Chaos, Hope, and, uh... Diapers?...](https://archiveofourown.org/works/39564507)* | Calli, Bae, IRyS | choco, ringo, brap, diaper, futa |
 | *[Kiara Comes to Calli('s House)](https://archiveofourown.org/works/38676099)* | Calli, Kiara | choco, ringo, brap, diaper, futa |
 | *[Cut from the Same Cloth: Part 2](https://rentry.org/fz5bm)* | Aqua, Korone | ringo, brap, sweat |
@@ -98,7 +97,7 @@
 | *[Toweling Off](https://rentry.org/mfzmu)* | Botan, Mio | ringo, sweat |
 | *[Clean White Pants](https://rentry.org/rqrkz)* | Reine | choco |
 | *[Nature's Embrace Part 2](https://rentry.org/s4faa)* | Fauna | brap, ringo, sweat |
-| *[Nature's Embrace](https://sharetext.me/ahp8ektelt)* | Fauna | brap, ringo |
+| *[Nature's Embrace](https://rentry.org/6a332vv9)* | Fauna | brap, ringo |
 | *[Slave to a Reaper Part 2](https://rentry.org/de228)* | Calli | brap, sweat |
 | *[Slave to a Reaper](https://rentry.org/ctzfp)* | Calli | brap, sweat |
 | *[Angelic Advice](https://rentry.org/5p24d)* | Calli, Suisei, Ame | brap, choco |
@@ -106,11 +105,12 @@
 | *[Day at the Fair](https://rentry.org/i72ez)* | Ame, Reine | brap, choco |
 | *[Octopus in the Oven](https://rentry.org/khckk)* | Ame, Ina | brap, ringo, choco, sweat |
 | *[Archive of Mori Smellposting](https://rentry.org/muzm8)* | Calli, Amelia | ringo, sweat |
-| *[The Call In](http://controlc.com/91bc9bab)* | Choco | brap, choco |
+| *[The Call In](https://rentry.org/vttftp4o)* | Choco | brap, choco |
 | *[Winner Winner Chocolate Dinner](https://docs.google.com/document/d/e/2PACX-1vRSbupcktRJKQIxN6bwVJRfoTFpMAsMEM7sJu9ZDbNZ_ODWUCNReVpPGAcyLOhzyMk9nqdVmc0iwYUh/pub)* | Kiara | choco |
 | *[Mercifully Short (LITERAL) Shitpost](https://docs.google.com/document/d/e/2PACX-1vSxvLz1-um_nuw_L00c2yXTGsbzW6D--ZT41rrNPD8Yez1tsFAHeTK635KRpDiorNGjzGaAqsUZ06TK/pub)* | Kiara, Pekora | choco |
 | *[Paradise Lost](https://docs.google.com/document/d/e/2PACX-1vSzPueCcfE9xWAYLSZxCMsJ7VdnEvx4NaElqEof7asl5IeDhPoc4-MkTNX5WFLqm1ghPWS_WP-mPblY/pub)* | Fubuki | choco |
 | *[Idols Don't Go](https://docs.google.com/document/d/e/2PACX-1vRMjbFoDBPugUSSwZi5WnoJlshpFFHc0H0IkiQm48nUkbUggE9fZ8Iby64TrmulzwCsLVC3G4l3U8-B/pub)* | Suisei | ringo |
+
 
 #/ringo/ greentext
 
@@ -299,6 +299,11 @@
 | [>>70392024](https://rentry.org/ringotext2#70392024) | Runie | choco |
 | [>>70477767](https://rentry.org/ringotext2#70477767) | Nerissa | brap |
 | [>>70546818](https://rentry.org/ringotext2#70546818) | Pippa, Lisa | smell, vomit, ringo |
+| [>>70572863](https://rentry.org/ringotext2#70572863) | Nerissa | brap |
+| [>>70615597](https://rentry.org/ringotext2#70615597) | Nerissa | brap |
+| [>>70609812](https://rentry.org/ringotext2#70609812) | Runie | choco |
+| [>>>/d/10926758](https://rentry.org/ringotext2#d10926758) | Rosemi | brap |
+| [>>70827664](https://rentry.org/ringotext2#70827664) | Nerissa | brap |
 
 ## >>249165
 

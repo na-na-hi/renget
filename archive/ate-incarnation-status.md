@@ -3,7 +3,7 @@
 >Synchronization Rate: 100%
 >Level: 10
 >Influence: 5,149/51,200 (+10)
->Divinity: 510/510 (+10)
+>Divinity: 510/510 (+50)
 >Directive: By Their Own Hand
 You gain Influence whenever a person touched by your influence meets disaster as a result of their own folly. Additionally, you gain influence for each bystander harmed in the process. Once you meet a certain influence threshold, you may either increase your level or the level of one of your authorities. However, the levels of your authorities may not exceed your level. Additionally, new authorities may be unlocked at higher levels
 
