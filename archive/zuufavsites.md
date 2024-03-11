@@ -15,7 +15,7 @@
 ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [adorable dollcore graphics!](https://sozai.pooftie.me/) 
 ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [dokodemo :3](https://dokode.moe/) 
 ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [tomomi](https://tomomi.neocities.org/) ☆
-![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [appledust](https://www.lejlart.com/apple.html) 
+![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [appledust](https://www.lejlart.com/apple.html) ☆
 ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [cute hamsters](http://www.chinako.net/hamster/) 
 ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [bouncy bubbles!!!](https://web.archive.org/web/20071011001230/http://bouncy-bubbles.net/) 
 ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [glitter graphics](https://www.glitter-graphics.com/)
@@ -31,4 +31,13 @@
 [rose's resources](https://rentry.co/roses-resources) ☆
 [rentry templates](https://rentry.co/frapuccino)
 [cakebatter neocities!!](https://cakebatter.neocities.org)  ☆
-[jasminnie weebly](http://jasminnie.weebly.com/)
+[nukocities](https://nukocities.neocities.org/) (pixel kitties!!!)
+[capstasher neocities](https://capstasher.neocities.org/88x31collection-page1) (buttons!!)
+[anlucas buttons](https://anlucas.neocities.org/88x31Buttons)
+[pixel safari neocities](https://pixelsafari.neocities.org/)
+[kawaii attic](https://kawaiiattic.arunyi.art/) ☆
+[asterism](https://www.asterism-m.com/)
+[caz pausedlife](http://caz.pausedlife.com/)
+[cute lollipop](https://cute.lolipop.jp/biscuit.html)
+[sleepy sprout](https://sleepysprout.neocities.org/)
+[omfg neocities](https://omfg.neocities.org/resources/)

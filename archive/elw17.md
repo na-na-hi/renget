@@ -16,7 +16,7 @@ Bot | Image | Short Description
 ###Catbox link
 Bot | Image | Link
 ------ | ------ | ------
-[Deslyah](https://files.catbox.moe/4joncw.png)  | ![Deslyah](https://files.catbox.moe/4qhrtq.webp) | *click on character name*
+[Deslyah](https://files.catbox.moe/4joncw.png)  | ![Deslyah](https://files.catbox.moe/4qhrtq.webp) | *click on character's name*
 [Welra](https://files.catbox.moe/ua07v2.png) | ![Welra](https://files.catbox.moe/hu35xz.webp) | *click on character's name*
 
 -> ![line](https://files.catbox.moe/elnx48.gif) <-

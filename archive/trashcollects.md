@@ -9,34 +9,41 @@ The author of PonyDiffusion V6 obfuscated artist names before training, which as
 /h/ has been spending some time trying out various combinations, and have been codumenting their findings in the spreadsheet above. If you try some combinations and recognize the artist behind them, feel free to contribute.
 
 Use the base PonyDiffusion V6 XL checkpoint, not DPO, autismmix or similar. They most certainly will have similar influences at the very least, but for the sake of comparison you might want to stick to the above.
-Copied DDL: https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16
-If you haven't used an SDXL model before, you will need a different VAE for those kinds: https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor
+DDL: https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16
+Mirror: https://pixeldrain.com/u/UPddM9ez
+If you haven't used an SDXL model before, you will need a different VAE for them
+VAE: https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor
+Mirror: https://pixeldrain.com/u/kzu1x1u8
 
 Also, remember to change Clip Skip to 2.
 
 >I'm just gonna link y'all furries all the compilations so far so you can have an easier time looking:
 aaa to bzm:
-https://files.catbox.moe/c0rl1r.jpg (embed)
-cad to eum:[spoiler][/spoiler]
-https://files.catbox.moe/ewr0s0.jpg (embed)
+https://files.catbox.moe/c0rl1r.jpg
+cad to eum:
+https://files.catbox.moe/ewr0s0.jpg
 evg to hns:
-https://files.catbox.moe/tda4ir.jpg (embed)
+https://files.catbox.moe/tda4ir.jpg
 hpb to jki:
-https://files.catbox.moe/44a2rc.jpg (embed)
+https://files.catbox.moe/44a2rc.jpg
 jkv to lek:
-https://files.catbox.moe/tj2aeq.jpg (embed)
+https://files.catbox.moe/tj2aeq.jpg
 lgu to mkb:
-https://files.catbox.moe/p7qqaz.jpg (embed)
+https://files.catbox.moe/p7qqaz.jpg
 Here's mkg to nyj:
-https://files.catbox.moe/365n8h.jpg (embed)
+https://files.catbox.moe/365n8h.jpg
 and nyp to pyb:
-https://files.catbox.moe/64zi6v.jpg (embed)
+https://files.catbox.moe/64zi6v.jpg
 
 Less consistent:
 aav to frw:
-https://files.catbox.moe/1z4efd.jpg (embed)
+https://files.catbox.moe/1z4efd.jpg
 fsp to klm:
-https://files.catbox.moe/jnjwqi.jpg (embed)
+https://files.catbox.moe/jnjwqi.jpg
+kmq to ojn:
+https://files.catbox.moe/6qpxyi.jpg
+oka to rrg:
+https://files.catbox.moe/hvy7re.jpg
 
 ## Models
 

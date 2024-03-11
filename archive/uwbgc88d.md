@@ -77,6 +77,9 @@ https://www.dailymotion.com/holaabema123/playlists
 NHK World-Japan (in English; daily highlights deleted a few weeks after the tournament)
 https://www3.nhk.or.jp/nhkworld/en/tv/sumo
 
+NattoSumo (see also backup links in his discord)
+https://rumble.com/user/NattoSumo2
+
 Sumo Jason
 https://www.youtube.com/@sumojason/videos
 
@@ -86,9 +89,7 @@ https://rumble.com/user/Kintamayama
 Tournament Highlights (available 3 days after the tournament; deleted when the new banzuke is published)
 https://sumo.or.jp/EnHonbashoTopicsKoTorikumi15/wrap
 
-Notes:
-- for NattoSumo highlights see links in his discord.
-- you can also rewatch the live streamings if they are still up.
+Note: you can also rewatch the live streamings if they are still up.
 
 
 #### News

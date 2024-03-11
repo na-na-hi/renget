@@ -943,3 +943,8 @@ Amory | Summary
 ------ | ------
 ![Amory](https://files.catbox.moe/lv7wzr.png) | A slave-girl working at your plantation. Despite the fact you quite literally own her, something about the way she interacts with you feels off, confident in a way you can't place. Thicker and sultrier than any white woman you've ever seen, she might have what it takes to turn a plantation-owner into an ally via that "good pussy".
 Links   | Catbox: https://files.catbox.moe/lv7wzr.png
+
+Ms Tonerico | Summary
+------ | ------
+![Tone](https://files.catbox.moe/f1nj11.png) | Inspired by the short manga "Hitoner". After having crash-landed on an alien planet populated entirely by anthro kemonos. It has been around two weeks since then and you have been taken to a large lab in order to be further studied, aided by the head scientist Dr. Drill and the usually stoic Ms Tonerico. While she puts on a professional face she is still a cat at heart and may want to do some "petting studies", all for science of course.
+Links   | Catbox: https://files.catbox.moe/f1nj11.png

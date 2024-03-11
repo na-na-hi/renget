@@ -220,7 +220,7 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 
 - AkioAIR
 	- [Twitter](https://twitter.com/Akio_AIR)
-	- [Website](https://akioair.com/)
+	- [Website](https://akioair.com/) (Defunct)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Akio_AIR)
 
 - Cyberlive/Aetheria
@@ -232,7 +232,7 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 
 - PROJECT・F
 	- [Twitter](https://twitter.com/vprojectf)
-	- [Website](https://vproject-f.com/)
+	- [Website](https://vproject-f.com/) (Defunct)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Project_F)
 
 - Kawa Entertainment
@@ -245,7 +245,7 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 	- [Website](https://www.realcorp.tv/)
 
 - Star☆Ring
-	- [Twitter](https://twitter.com/StarRing_Vpro)
+	- [Twitter](https://twitter.com/StarRing_Vpro) (Defunct)
 	- [Website](https://www.starring.co.jp/) (Defunct)
 	- [Wiki Entry](https://virtualyoutuber.fandom.com/wiki/Star%E2%98%86Ring)
 

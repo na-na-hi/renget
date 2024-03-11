@@ -821,7 +821,7 @@ Page 4
 >>92017795
 >Kazuya Ono
 >>92012443
-Alpha Ueno HN: Sylph
+>Alpha Ueno HN: Sylph
 >>92014322
 
 >SUPPORTERS:

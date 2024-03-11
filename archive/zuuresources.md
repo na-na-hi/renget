@@ -1,17 +1,19 @@
-->![](https://64.media.tumblr.com/c216c8f380e1560ed48d63955804c556/29e5cadd08ca1c89-f6/s500x750/8a620e005a6c7a5ef3cb0afe504030057a4c7595.gifv)<-
-->![](https://media.discordapp.net/attachments/1198707406377594941/1210633061209997433/Untitled66_20240223180233.png?ex=65eb44e6&is=65d8cfe6&hm=45c5efb1af9e8c0ef44f46e648afc147c86edf6478ee4974cf7d9eaebddf3cd7&)<-
-->![](https://64.media.tumblr.com/c216c8f380e1560ed48d63955804c556/29e5cadd08ca1c89-f6/s500x750/8a620e005a6c7a5ef3cb0afe504030057a4c7595.gifv)<-
+->![](https://64.media.tumblr.com/182ec2edbf47669127194829458a0a0f/28308e46a696f4bb-07/s1280x1920/83877f39a488159392b517f3758a90f5b805e654.pnj)<-
+->![](https://64.media.tumblr.com/15bc919daeb5859a6490e0845a8fe49a/b1a8cda7495126d6-11/s640x960/bb89bccf78d9a96302791ddc669a7b961c54c037.gifv)<-
+->![](https://media.discordapp.net/attachments/1198707406377594941/1216806402467561503/Untitled144_20240311185359.png?ex=6601ba45&is=65ef4545&hm=328fb91230e5859b8262a86e88f097e2c72f34c843bf8b7b1aba24c1271cd27c&)<-
+->![](https://64.media.tumblr.com/tumblr_lre86uny3j1r35xuzo1_400.png)<-
 ->![](https://mikejima.crd.co/assets/images/shadow/b2e3c8c1_original.gif?v=0ef41667) **w**elcome!! ᰔᩚ<-
-->everyone can use ![](https://64.media.tumblr.com/6a9de315b91a3f9a28e13d4783db0063/01244fd8cc4a0103-7b/s75x75_c1/9d5424a5b4a7fa53f1773000d7819a77693e02c3.gifv) made by [zuu](https://rentry.co/colorfuliberty) ![](https://64.media.tumblr.com/a2d9782c22094ebfdc51b1eec4efcf5a/3519e85928c1c815-e8/s400x600/9671aef70f936c83f7fc8203fcf04234635c6a62.gifv)<-
+->everyone can use ![](https://64.media.tumblr.com/6a9de315b91a3f9a28e13d4783db0063/01244fd8cc4a0103-7b/s75x75_c1/9d5424a5b4a7fa53f1773000d7819a77693e02c3.gifv) made by [zuu](https://rentry.co/colorfuliberty) ![](https://biscuit.crd.co/assets/images/gallery88/c67224e3.gif?v=ca0f6e9d)<-
 ->![](https://twst.ju.mp/assets/images/gallery01/6cbe1f7c.gif?v=27586142) [**p**ixels](https://rentry.co/zuupixels) ![](https://64.media.tumblr.com/tumblr_luw091WKl01qip80b.gif) [**d**ividers](https://rentry.co/zuudividers) ![](https://64.media.tumblr.com/fd3e1ba4153b2f4e67b720e61f490a9a/48ab18e98b53e06b-89/s75x75_c1/08fdb7d5c9399a85cd296b7a02750ec21519ad16.gifv) [**s**tamps](https://rentry.co/zuustamps) ![](https://wilardo.crd.co/assets/images/gallery02/18c452bb_original.gif?v=d0e71742)<-
 ->[**t**hemed pixels](https://rentry.co/zuupixs2) ![](https://64.media.tumblr.com/35dd7c73f5786e6127553ef9cc0dd168/ba5cfd5ce3fd1a60-30/s75x75_c1/13ec2ce8f96c70496f4c704c0d46e65a3d47d916.gifv) [**b**linkies](https://rentry.co/zuublinkies) ![](https://64.media.tumblr.com/94c67a716257e9a06d625ff20359ca72/67c254859d0139a2-21/s75x75_c1/26ae1399111f1c7edfc80b090e53f82fa53f5238.gifv) [**g**raphics](https://rentry.co/zuugraphics) ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815677704384652/o57.gif)<-
 ->![](https://wilardo.crd.co/assets/images/gallery23/bbd7092f_original.png?v=b62e9456) [**h**eaders](https://rentry.co/zuuheaders) ![](https://64.media.tumblr.com/66680af90309399c5bfd0020126c8008/f465945739e2a9ff-4a/s75x75_c1/91a74b38d68a4eb25ee734cf320f45e3e7aa8cd7.gifv) [**u**nsorted pixels](https://rentry.co/zuupixs3) ![](https://watermelon.crd.co/assets/images/gallery06/294f9f36.gif?v=2a41aca3) [**b**andori](https://rentry.co/zuugbpgraphics) ![](https://64.media.tumblr.com/2c49207d707bc836946da6dff5eedea3/f465945739e2a9ff-90/s75x75_c1/f1c4a22efca2299618c79d1ee5ca8bcd75fb386a.gifv)<-
-->![](https://64.media.tumblr.com/48e7ddf827da294c14d9416b2e5f72af/4b4b7e6624ff7fb1-dc/s2048x3072/50173ce31b8d1526f312138b68782ef2320f9c3b.pnj)<-
+->![](https://64.media.tumblr.com/01075ed40f45496e06d95286b0340aea/7ebd9017cfb08dfa-48/s2048x3072/5c1ff41aa3a8af280d9a8aef3a67394e0b5b32ec.pnj)<-
 ->remember i do **not** own any of those! this site collects graphics that i found across the internet on tumblr and other resources! ![](https://watermelon.crd.co/assets/images/gallery05/8d03b66e.gif?v=2a41aca3)<-
-->![](https://64.media.tumblr.com/48e7ddf827da294c14d9416b2e5f72af/4b4b7e6624ff7fb1-dc/s2048x3072/50173ce31b8d1526f312138b68782ef2320f9c3b.pnj)<-
-->dm **@nanamification** on twt for removal/ credit ![](https://64.media.tumblr.com/63e759710712581084af14cbe0d5148d/f49cbb1448e699eb-42/s75x75_c1/cfa57016c3e7a0b7181ce7d49580b0432ba731d7.gifv)<-
-->![](https://64.media.tumblr.com/28764334b3a218eb42509a4ef109a238/fcf30a7d52b1c113-64/s250x400/e90151d9b624480f2bdd26d279b4f4d3ff2162dd.gifv)<-
-->![](https://wilardo.crd.co/assets/images/gallery27/c25c94e1_original.gif?v=b62e9456) ==NOTE== : it may take a while to load in some pages, especially ones with **pixels**!<-
-->![](https://fruitbat.crd.co/assets/images/gallery01/00e872a1.gif?v=cc74e5c8)<-
+->dm **@nanamification** on twt for removal/ credit<-
+->![](https://64.media.tumblr.com/bc4b349ba2758aaf9181602000da3050/148005d13af3e47e-4a/s640x960/a40ed723a843788e7b169c9e429585330e4c9011.gifv)<-
+->![](https://64.media.tumblr.com/49ed1d14add1fdb937fe2514ef3b7fd3/5290f32f834534a6-43/s100x200/d2fe73b64f4a3d9b0fff1e0df09fa0e8b46dd11b.pnj) ![](https://pix.crd.co/assets/images/gallery13/6ece281b_original.png?v=ca70c28c) ![](https://y2k.neocities.org/stamps2/tumblr_oipux5MhkT1ugjf0to5_r1_100.gif)<-
+->![](https://files.catbox.moe/jg7upv.gif) ==NOTE== : it may take a while to load in some pages, especially ones with **pixels**!<-
+->![](https://2winkpixellove.carrd.co/assets/images/gallery03/dba6b391.gif?v=24e87d06)<-
 ->[zuu's fav sites](https://rentry.co/zuufavsites) ![](https://64.media.tumblr.com/429fd7b3da40131faf2a9f34cc135306/9db9fee72ffdb38e-ab/s75x75_c1/4b03220cbb000c3898b5261337a72e133c65e271.gifv)<-
-->![](https://64.media.tumblr.com/c216c8f380e1560ed48d63955804c556/29e5cadd08ca1c89-f6/s500x750/8a620e005a6c7a5ef3cb0afe504030057a4c7595.gifv)<-
+->![](https://64.media.tumblr.com/bc4b349ba2758aaf9181602000da3050/148005d13af3e47e-4a/s640x960/a40ed723a843788e7b169c9e429585330e4c9011.gifv)<-
+->![](https://64.media.tumblr.com/cc5e3eb9148fb32d11ca07187354bbee/28308e46a696f4bb-6d/s1280x1920/09501ef4716853cd96cacea56abe9358708be773.pnj)<-

@@ -34,12 +34,20 @@ jkv to lek:
 https://files.catbox.moe/tj2aeq.jpg
 lgu to mkb:
 https://files.catbox.moe/p7qqaz.jpg
+pyh to rwy:
+https://files.catbox.moe/ws5643.jpg
+rxb to tir:
+https://files.catbox.moe/yhg6tr.jpg
 
 Less consistent:
 aav to frw:
 https://files.catbox.moe/1z4efd.jpg
 fsp to klm:
 https://files.catbox.moe/jnjwqi.jpg
+kmq to ojn:
+https://files.catbox.moe/6qpxyi.jpg
+oka to rrg:
+https://files.catbox.moe/hvy7re.jpg
 
 There's an effort underway to identify the triggers.
 

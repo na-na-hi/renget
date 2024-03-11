@@ -18,7 +18,15 @@ https://rentry.org/SmileyTatsu#smiley-jailbreak
 https://rentry.org/CoT_Jailbreaks
 
 ***
-#####Claude
+#####Claude 3
+
+Most Claude 2 JBs work on Claude 3, as well as the typical short prefill short JB meta.
+
+https://rentry.org/pixibots#claude-3-prompt
+
+https://unconvincing.neocities.org/
+***
+#####Claude 2
 https://rentry.org/MyuuTastic
 
 https://rentry.org/KaruKaruBagOfGoodies
@@ -28,8 +36,6 @@ https://rentry.org/pitanonbots#claude-rp-prompts
 https://rentry.org/fumblebum
 
 https://rentry.org/ClaudeJB
-
-https://unconvincing.neocities.org/
 
 https://dumb.one/gpt/prompts/my-tavern-prompts-claude.md
 

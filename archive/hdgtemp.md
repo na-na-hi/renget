@@ -33,7 +33,7 @@ Wildcards: https://rentry.org/NAIwildcards
 Booru: https://aibooru.online
 4chanX Catbox/NAI prompt userscript: https://rentry.org/hdgcb
 NAI API/prompting in auto1111: https://github.com/Metachs/sdwebui-nai-api
-Thread-made loras: https://rentry.org/ponyxl_loras_n_stuff | https://rentry.org/ponyxl_lora_previews
+Pony-related: https://rentry.org/ponyxl_loras_n_stuff | https://rentry.org/ponyxl_lora_previews | https://lite.framacalc.org/4ttgzvd0rx-a6jf
 
 OP Template/Logo: https://rentry.org/hdgtemp/raw | https://files.catbox.moe/xk99gy.png | https://files.catbox.moe/35bdt5.gif
 
