@@ -12,13 +12,13 @@ sometimes the account is banned and it will not work until I manually fix it. it
 
 ## current proxy url
 ```
-https://readily-college-occupational-festivals.trycloudflare.com/v1
+https://guidelines-ties-lending-vertex.trycloudflare.com/v1
 ```
 **password**
 basilisk
 
-##### [instructions](https://readily-college-occupational-festivals.trycloudflare.com)
-##### [ST preset](https://readily-college-occupational-festivals.trycloudflare.com/preset.json)
+##### [instructions](https://guidelines-ties-lending-vertex.trycloudflare.com)
+##### [ST preset](https://guidelines-ties-lending-vertex.trycloudflare.com/preset.json)
 
 ##### contact
 - hask1911@proton.me

@@ -2052,6 +2052,10 @@ https://mega.nz/folder/d29R1CrY#kkxYjsoTqNIhhCVud4ox7g
 Remade: https://mega.nz/folder/ky0kXIIB#XBCO5QIXtdIrfdwRWfYpmg
 
 # KX' LoRAs
+MEGA Repository: https://mega.nz/folder/guhyHbTY#dWamsVF03VMuF3tS7X17kw
+
+Contains, in addition to the LoRAs below, Pony XL style LoRAs based on Dagasi, KitaKettu, Mauzymice and OoyukiBenten.
+
 Yzmuya (Artist)
 
 https://files.catbox.moe/hrfdmu.safetensors

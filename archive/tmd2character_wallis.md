@@ -77,7 +77,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Move: Counter | *ᴛʀᴀɪɴᴇᴅ* | 1/3 | ▮▯▯
+Training for Move: Counter | *ᴛʀᴀɪɴᴇᴅ* | 2/3 | ▮▮▯
 Attribute: Repulsion | Tier **ɪɪ** (+2) | 3/3 | ▮▮▮
 Stat: Special Defense **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 .

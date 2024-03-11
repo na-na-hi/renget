@@ -1,15 +1,12 @@
-->![top.png](https://i.postimg.cc/qvZ9CwWv/top.png)
-![line div](https://media.discordapp.net/attachments/914002083101945876/1170741455170576485/Untitled1059_20231105100738.png?ex=655a24f2&is=6547aff2&hm=3bced1fcbb0575f790ddf7cfea1abe2f923b820c9d7a35e417e3ffc5ccf3cc72&)
-![pix](https://autism.crd.co/assets/images/gallery02/d1c49f35_original.gif?v=69d6a439) ‎ ‎ ~ madokasteaparty . c♡m  ‎  ︵  ‎  ‎   ‎‎‎︵  wlcm  ‎  2  ‎  my ‎ url ‎ hoard ‎ ~ ‎ !
+->![top.png](https://i.postimg.cc/qvZ9CwWv/top.png)<-
+
+->![pix](https://autism.crd.co/assets/images/gallery02/d1c49f35_original.gif?v=69d6a439) ‎ ‎ ~ madokasteaparty . c♡m  ‎  ︵  ‎  ‎   ‎‎‎︵  wlcm  ‎  2  ‎  my ‎ url ‎ hoard ‎ ~ ‎ !
 ![pix](https://autism.crd.co/assets/images/gallery02/b7ce7765_original.gif?v=69d6a439)   ‎ 腕がもげても頭が潰れても  ‎ ~ ![](https://autism.crd.co/assets/images/gallery01/65337354_original.png?v=69d6a439) 
 ![IMG-0863.gif](https://i.postimg.cc/4xCfhJc0/IMG-0863.gif)<-
 
 ->%lightpink%![pix](https://wilardo.crd.co/assets/images/gallery14/9c41eca2_original.gif?v=bca827db) ♡ **bold** ~ nft  ‎  ‎ ◞  [linked]() ~ in use  ‎  ‎ ◞  *italic* ~ *iffy* ![pix](https://autism.crd.co/assets/images/gallery02/939f07ee_original.png?v=69d6a439) 
-![pix](https://tomomi.neocities.org/pixeles/66.png) . ⊹　[whiniest](https://retrospring.net/@whiniest) on retrospring　![](https://tomomi.neocities.org/pixeles/93.gif) 　໒꒰ ៸៸ ◞ ˕ ◟ ៸៸ ꒱১
- ![nurse mymelody](https://i.postimg.cc/x8xSNKdw/nrs_mldy.gif)  ‎  ‎  ₊˚⊹    ‎  ‎  ໒꒰ྀིっ˕ -｡꒱ྀི১   ‎  ‎  over   ‎  ‎  300+   ‎  ‎  urls   ‎  ‎ .ᐟ.ᐟ    ‎  ‎   ![pink headband](https://i.postimg.cc/Dyp2SKJS/hd_bnd.gif)    ‎  ‎  𓂃 ࣪ ₊˚⊹♡%%
-![lind div](https://media.discordapp.net/attachments/914002083101945876/1170741455170576485/Untitled1059_20231105100738.png?ex=655a24f2&is=6547aff2&hm=3bced1fcbb0575f790ddf7cfea1abe2f923b820c9d7a35e417e3ffc5ccf3cc72&)<-
-
--> ![heart div](https://media.discordapp.net/attachments/914002083101945876/1170741455459987587/Untitled1062_20231105100724.png?ex=655a24f2&is=6547aff2&hm=3050a6849b126532932edf23b41424d79d8ffb5fcb12e2663183b9de9cd4bb02&)<-
+![pix](https://tomomi.neocities.org/pixeles/66.png) . ⊹　[platonic](https://retrospring.net/@platonic) on retrospring　![](https://tomomi.neocities.org/pixeles/93.gif) 　໒꒰ ៸៸ ◞ ˕ ◟ ៸៸ ꒱১
+ ![nurse mymelody](https://i.postimg.cc/x8xSNKdw/nrs_mldy.gif)  ‎  ‎  ₊˚⊹    ‎  ‎  ໒꒰ྀིっ˕ -｡꒱ྀི১   ‎  ‎  over   ‎  ‎  300+   ‎  ‎  urls   ‎  ‎ .ᐟ.ᐟ    ‎  ‎   ![pink headband](https://i.postimg.cc/Dyp2SKJS/hd_bnd.gif)    ‎  ‎  𓂃 ࣪ ₊˚⊹♡%%<-
 
 %lightpink% ending with ette◞  etta◞  ina ◞  ita ~ ! ![](https://tomomi.neocities.org/pixeles/103.gif)
 pixiette ｡ leafette ｡ bowette ｡ **mousette** ｡ **clownetta** ｡ frilletta ｡ **scythetta** ｡ chompetta ｡ inuderette ｡ zombetta ｡ nymphetta ｡  pompompurette ｡ pupette  ｡  damseletta-  ｡ damselette_   ｡  strawberetta  ｡polterupette  ｡ strawberette   ｡  **succulita**  ｡  vamperina-  ｡ pupette  ｡  meowthette%%
@@ -29,10 +26,10 @@ rentabf  ｡  **fairymilk**  ｡  nursenymph  ｡  innocentnurse   ｡ zombiemai
 ->%lightpink%fandom related ~ ! ![](https://tomomi.neocities.org/pixeles/103.gif)
 **denjischainsaw**  ｡  akisqngel  ｡  **irlpompompurin**  ｡  irlkanna  ｡  imadevilbeforeanangel  ｡  ryoasukareal  ｡  **ryoasuka-  ｡  akirafudo-**  ｡  **torturedance-**  ｡  **shigarakisdrool**  ｡  **marionettesmusicbox  ｡  fazentertainment**  ｡  **sunsdaycare**  ｡  **Aslan-Callenreese-  ｡  NarcisoAnasui-**  ｡  **thenavi**  ｡  murderstreet  ｡  **enterlevel974**  ｡  parfaitcookiee  ｡  sweetveon  ｡  starlet-  ｡  starletta-  ｡  flutterpilled  ｡  **pinkiepied**  ｡  **anypony** ｡ suicidemouse- ｡ [pinkiepie](https://rentry.org/pinkiepie) ｡ Tangled%% ->
 
-%lightpink%wishlist ~ ! ![](https://tomomi.neocities.org/pixeles/103.gif)
-**pinkaholic**  ｡  pink  ｡  ~~**pinkiepie**~~  ｡  mydressupdarling  ｡  marin  ｡  pure  ｡  **ashlynx** ｡  ~~**milf**~~  ｡  **daifuku**  ｡  ~~**mochi**~~ ｡  ~~**dango**~~%% 
+%lightpink%sntry hoard ~ ! ![](https://tomomi.neocities.org/pixeles/103.gif)
+aikatsu ｡ aikastuplanet ｡ aikastustars ｡ annkurimu. ｡ theearlphantomhive ｡ onehellofabutler ｡ cielphantomhive- ｡  cielinwonderland ｡ funtomcompany ｡ meyrin ｡ finian ｡ finnian ｡ baldroy ｡ thequeensguarddog ｡ grellesutcliff. ｡  earlaloistrancy ｡  earlcielphantomhive ｡ juuzousstitches ｡ eldritchgod ｡ eldritchsquid ｡ shysquid pinkcalamari ｡ tinysquid ｡ squidine ｡ longlostprincess%%
 
-
--> ![heart div](https://media.discordapp.net/attachments/914002083101945876/1170741455459987587/Untitled1062_20231105100724.png?ex=655a24f2&is=6547aff2&hm=3050a6849b126532932edf23b41424d79d8ffb5fcb12e2663183b9de9cd4bb02&)<-
+->%lightpink%wishlist ~ ! ![](https://tomomi.neocities.org/pixeles/103.gif)
+**pinkaholic**  ｡  pink  ｡  ~~**pinkiepie**~~  ｡  mydressupdarling  ｡  marin  ｡  pure  ｡  **ashlynx** ｡  ~~**milf**~~  ｡  **daifuku**  ｡  ~~**mochi**~~ ｡  ~~**dango**~~%%->
 
 ->![bttm.png](https://i.postimg.cc/MpGCTNPL/bttm.png)<-

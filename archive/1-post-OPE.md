@@ -6,12 +6,13 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 280th time, what is Ope?!
+For the 281st time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: members-only zatsudan (Sun 03/10 presumably at 7PM CT)
+Next stream (members-only zatsudan, Sun 03/10 7:30PM CT)
+https://www.youtube.com/watch?v=f7bZQzLL5oU
 Last stream ("The Twilight Saga: Breaking Dawn – Part 1" watchalong with Shiori, Bijou, Fauna, Mumei and Iofi)
 https://www.youtube.com/watch?v=\_y8oEEIZRxw
 Last appearance (Q & A collab with Bao on Bao's channel)
@@ -36,11 +37,11 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>70942723
+Previous thread: >>71017360
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 
-!!!warning Second OP Post - Schedule: @nerissa_en-1764445960917147980
+!!!warning Second OP Post - Schedule: TBA
 \>Basic introduction to the new Jailbirds
 Debut Stream
 https://www.youtube.com/watch?v=gg3SrFzHn9M
@@ -62,7 +63,6 @@ https://rentry.org/Past_mentions_and_collabs_on_other_girls_channels01
 
 \>General Tools
 Schedule
-https://twitter.com/nerissa_en/status/1764445960917147980
 https://teamup.com/ksua2ar4zft49pdn7c
 Current OP Template
 https://rentry.org/1-post-OPE

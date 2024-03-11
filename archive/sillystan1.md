@@ -1,5 +1,5 @@
 -> **before u interact !!**: i'm short tempered & sensitive and might lash out at you if you annoy me. i breakdown/get overwhelmed frequently so pls be patient w me. my mental health effects the way i act. i get jealous vv easy. i get defensive over my loved ones, or my interests/hyperfixations ,, **(fyi i am the #1 jack harkness fan)**
-![](https://media.discordapp.net/attachments/999986008307269732/1200920525459947561/IMG_0525.png?ex=65c7ef65&is=65b57a65&hm=1360fa89da57ea32cbc0189678dd2cb8676fe14065c09d68fdce7842d7f705eb&)
+![](https://media.discordapp.net/attachments/999986008307269732/1216505598108241951/IMG_1712.png?ex=6600a220&is=65ee2d20&hm=92e783fe6160c956c365c4bfd7688fbe5bbe3730d9fb25fe5e16acb6512df325&)
 **do not interact !!**: basic dni criteria (racist, homophobic etc), comshippers/proshippers, neopronoun & xenogender antis, if u sexualise minors fictional or not, u use slurs u cant reclaim, anyone whos problematic in any way <-
 
--> [**`go back?`**](https://rentry.co/badwoIfbay) ![](https://media.discordapp.net/attachments/999986008307269732/1200913147108790372/IMG_0514.gif?ex=65c7e886&is=65b57386&hm=f89d9eaa908b806370d551993d5aa16b69bc2639447470f523396782a38f94a1&) <-
+-> [**go back?**](https://rentry.co/badwoIfbay) ![](https://media.discordapp.net/attachments/999986008307269732/1216506303288185053/IMG_1696.gif?ex=6600a2c8&is=65ee2dc8&hm=72d198db65e98ce17f32047aac7dc6a092e998ce03e00622ceb2c0da78b98ee3&) <-

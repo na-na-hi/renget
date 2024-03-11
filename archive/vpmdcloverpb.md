@@ -454,7 +454,29 @@ Biography generated!
 >Summary: Born and raised in the most barren corner of Foggy Forest, this hot tempered spider uses his webs and wits to plunder enough treasure together to reach his well earned retirement from roof tiling. Though generally affable around people he likes, some would describe him as sleazy, crass and more bark than bite. His skills as a trapper are worthwhile on any adventure, as long as you feed his ego every now and then.
 
 ###Fern/Ciel
-{Pending}
+####Fern
+
+>Finds himself lost in the situation as a whole. Without prior knowledge of the world, concepts of pokemon come off completely foreign to him.
+>Curious to a fault and only worsened by the circumstances; causing him a strong tendency to find trouble when left unattended.
+>He speaks commonly with a stutter, and is extremely easy to surprise and scare.
+>Forgetful and unusually optimistic, returning to a good mood as quickly as it had changed. Accepting of most treatment after following Ciel.
+>Clumsy and poorly adjusting to his differences; often stumbling over himself and others. Cemented by his inability to grasp move usage.
+>Notably smaller than the standard of his species: standing upright at one foot tall.
+>Often found asleep in odd places after becoming comfortable doing so anywhere during travel.
+
+####Ciel
+
+>Not a native to the grass continent, traveled there to start over.
+>Evolved very early, still struggling to "act his age" as others perceive him.
+>Grown to be reserved, ends up nervous around large groups.
+>Overly protective of those he is attached to, wishing he can be relied on.
+>Extremely uncertain in his skills or strength, quickly flustered by praise.
+>Avoidant of fighting, especially uncomfortable being watched by friends.
+>Afraid to ask for help or accept gifts, though they make him deeply happy.
+>Wears his nullify band as a scarf, wearing the same one he was given as a child.
+>Dislikes talking about himself, avoiding the topic in any way he can find.
+>Total lack of money management, spends heavily on his favorite gummis, and often has to work off an empty wallet.
+>Always carrying blast seeds.
 
 ###Taslean
 >This is Taslean, he was possessed by a ghost Pokémon during a mission. Some shit I haven't thought of yet happened and now the ghost can't leave, so both consciousnesses share the same body.

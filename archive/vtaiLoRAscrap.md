@@ -50,6 +50,20 @@
 **Virgil (KoMETA)** - https://mega.nz/folder/47Yj3ZIS#klaoBwVZI_u5DbjmCjkqRQ/folder/cuJg2LKa
 **Ilu Fluor (Indie)** - https://civitai.com/models/338524/ilu-fluor-vtuber
 **AzKi V1 (Hololive)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/ZWx0wA5Q **V2** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/8LAwSByJ
+**FuelVT (Indie)** - https://civitai.com/models/342864/fuelvt
+**Lina Vermillion (Kudalive)** - https://civitai.com/models/342870/lina-vermillion-vtuber
+**CondesaVR (Indie)** - https://civitai.com/models/342901/condesavr-vtuber
+**DevaVT (Indie)** - https://civitai.com/models/342915/deva-vt-vtuber
+**GiftschlangenVT (Indie)** - https://civitai.com/models/342917/giftschlangenvt
+**HarperStrikesVT (Indie)** - https://civitai.com/models/342923/harperstrikesvt
+**KeirameVT (Indie)** - https://civitai.com/models/342929/keiramevt
+**LilyBellVT (Indie)** - https://civitai.com/models/342932/lilybellvt
+**Mari Nanjo (Indie)** - https://civitai.com/models/342941/mari-nanjo-vtuber
+**MerchiVT (Indie)** - https://civitai.com/models/342951/merchivt
+**NeneEfthy (Indie)** - https://civitai.com/models/342954/neneefthy-vtuber
+**Yuun Kurosu (Indie)** - https://civitai.com/models/342955/yuunkurosu
+**Minai Aruma (GuildCQ)** - https://civitai.com/models/342521/minai-aruma-or-guildcq-vtuber
+**Yu Twelve (Indie)** - https://civitai.com/models/342123/ivtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -79,6 +93,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947/koseki-bijou-hololive
 **Nyatasha Nyanners (VShojo)** - https://civitai.com/models/333212/nyanners-vtuber
 **Amalee (Indie)** - https://civitai.com/models/338229/amalee
+**Reiny (Indie)** - https://files.catbox.moe/741x5d.safetensors [CatboxTagInfo](https://warosu.org/vt/thread/S70975134#p71040638)
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

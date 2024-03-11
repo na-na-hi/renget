@@ -12,6 +12,10 @@
 
 ![anniv portraits](https://i.imgur.com/99dnKol.png)
 
+![misc aggie2](https://i.imgur.com/lc62mbq.png)
+
+![gus](https://i.imgur.com/2kocYas.png)
+
 ***
 
 inspired by [kiyo!](https://rentry.org/kiyoStation)

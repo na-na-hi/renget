@@ -68,6 +68,8 @@ Q1: Is Nida still committing crimes?
 Q1: It is well known that you love to eat food, but do you have any favorite foods?  Or is the more the merrier?
 > A: Don't scold me for my gluttony, I can't help it! I used to be ripped, but ever since I acquired a mysterious case of head trauma, I've had the insatiable urge to eat. Spicy food is my favorite, although anything's good, really.
 
+Q2: Most embarassing thing you've done due to your hunger?
+
 ###Tybo
 Q1: Do you accept pets?  If so, from who?  
 Q2: Tell us about a time that your thieving ways almost got you in big trouble (don't worry, we won't tell the cops).
@@ -151,10 +153,13 @@ Q1: Smith seems like a tough guy.  Does he ever do anything nice for you?
 ##->**General Questions**<-
 
 **Former humans**, if you could write a letter back home, what would you write and to whom?
+>Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
 
 **Former humans**, what was your favorite band back in the human world?
 
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
+
+**Teams of mons,** does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
 
 **Guildmons with a dorm**, how is your room decorated?
 

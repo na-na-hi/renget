@@ -51,6 +51,9 @@ https://kick.com/dondondondon
 Salt City Sumo (AbemaTV)
 https://www.youtube.com/@SaltCitySumo/streams
 
+Sumo Family
+https://www.youtube.com/@SumoFamily01/streams
+
 NHK+
 https://plus.nhk.jp
 instructions:
@@ -121,6 +124,7 @@ http://www.sumoforum.net
 https://tachiai.org
 
 https://www.reddit.com/r/Sumo/new
+https://www.reddit.com/r/everythingsumo/new
 
 https://forums.sherdog.com/search/12398/?q=sumo&t=post&c[title_only]=1&o=date&g=1
 
@@ -176,7 +180,7 @@ Note: /wsg/ can have sumo videos in the MMA threads.
 #### Discords
 
 NattoSumo
-https://discord.gg/fFcu2h9
+https://discord.gg/nattosumo
 
 Grand Sumo
 https://discord.gg/Wg4DsMt
@@ -216,6 +220,9 @@ https://sumomainichi.podbean.com
 
 Grand Sumo Breakdown
 https://grandsumobreakdown.wordpress.com
+
+Sumo Kaboom
+https://sumokaboom.fireside.fm
 
 Before the Salt Throw
 https://chrisbtst.podbean.com
@@ -490,6 +497,9 @@ https://www.youtube.com/watch?v=GsZDKGnODM4
 Mainoumi Une saison dans la vie d'un lutteur de sumo (in French)
 https://www.youtube.com/watch?v=S9Vh5JT5-Kg
 
+Sumo (Fighting with heart)
+https://www.youtube.com/watch?v=xIi0jezaKZo
+
 Mitaka Sumo School (2017)
 https://www.youtube.com/watch?v=I5nVtS3l14c
 
@@ -573,6 +583,9 @@ https://www.youtube.com/@sumospiffysbarandgrill/videos
 
 Grand Sumo Awesome
 https://www.youtube.com/@grandsumoawesome7178/videos
+
+The Sumo Show
+https://www.youtube.com/playlist?list=PLgDiuFHIR5YmMpp-UWzHok7aivYz89bP2
 
 Araibira
 https://vimeo.com/araibirasumo
@@ -816,9 +829,9 @@ https://en.wikipedia.org/wiki/Kamigamo_Shrine
 https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8950
 
 Hakui Sumo Festival (Hakui, Ishikawa)
-https://www.city.hakui.lg.jp/kankou/gyoujiichiran/4751.html
 https://ishikawajet.fandom.com/wiki/Hakui_City#Sumo
 Karatoyama Sumo at Hakui Jinja
+https://www.city.hakui.lg.jp/rekimin/history/culturalproperties/karatoyamashinjizumo.html
 https://www.youtube.com/watch?v=nM3xKPtq-Hk
 
 Zuiki Matsuri at Mikami Shrine (Yasu, Shiga)
@@ -833,7 +846,6 @@ https://www.city.hirado.nagasaki.jp/kurashi/gyosei/hirado_movie/2016/2016-0621-1
 
 Traditional sumo dance at Suwa-taisha Shrine (Suwa, Nagano) coord: 35.9982288928597, 138.11931956619415
 https://www.youtube.com/watch?v=YpS2UMWVHX8
-https://www.city.suwa.lg.jp/kanko/info/detail.jsp?id=3221
 https://www.82bunka.or.jp/bunkazai/legend/detail/09/post-92.php
 https://en.wikipedia.org/wiki/Suwa-taisha#Kamisha_Honmiya
 
@@ -846,7 +858,7 @@ http://www.miyakikankou.jp/main/97.html
 
 Oki Traditional Sumo (Oki Islands, Shimane)
 https://www.kankou-shimane.com/en/destination/1388
-(see Begin Japanology S06E32 - Remote Islands; from 9:05)
+https://www.youtube.com/watch?v=2mecYPcbE5g&t=546s
 
 Encyclopedia of Shinto: Sumo
 https://d-museum.kokugakuin.ac.jp/eos/detail/?id=8936
@@ -856,7 +868,7 @@ http://rubens.anu.edu.au/raid1/student_projects97/sumo/religion/religion.html
 https://en.wikipedia.org/wiki/Shinto_origins_of_sumo
 
 http://www.sumoforum.net/forums/topic/30109-spirituality-and-sumo
-http://www.sumoforum.net/forums/topic/38655-setsubun-2019-edition
+http://www.sumoforum.net/forums/search/?q=%20Setsubun&type=forums_topic&sortby=relevancy&search_in=titles
 http://www.sumoforum.net/forums/topic/31982-local-sumo-customs
 
 
@@ -866,14 +878,11 @@ https://sumall.sumo.or.jp
 
 https://shop.sumo.or.jp
 
-https://shop.kokugikan.jp
+https://kokugikan.net
 
 https://sekitori.shop-pro.jp
 
 https://fanclub.sumo.or.jp/products
-
-NSK official photo prints
-https://www.photoreco.com/sumo
 
 Mainichi Shimbun official framed plaques
 https://www.mainichi-sumo.com
@@ -912,11 +921,9 @@ http://www.e-sanpuku.co.jp/sumo/ring_en.html
 
 https://7net.omni7.jp/search/?keyword=%E6%97%A5%E6%9C%AC%E7%9B%B8%E6%92%B2%E5%8D%94%E4%BC%9A
 
-https://www.toudoukan.com/@en/shop/category/$/ct1/080/
+https://www.toudoukan.com/@en/
 
 https://search.rakuten.co.jp/search/mall/%E7%9B%B8%E6%92%B2+bbm
-
-https://brandavenue.rakuten.co.jp/all-sites/item/?free_word=sumo
 
 https://www.ebay.com/sch/i.html?_nkw=banzuke
 
@@ -940,9 +947,6 @@ artworks by Kinoshita Daimon:
 http://www.daimon-e.sakura.ne.jp
 http://nishikiedaimon.cart.fc2.com
 
-artworks by Robin Redruth Bray:
-https://www.artofsumo.com
-
 more about the printed banzuke:
 https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/sumo/page3-1.html
 http://www.lemondedusumo.com/english/MDS6_banzuke.php?mag=mds&num=6
@@ -962,6 +966,7 @@ https://www.youtube.com/watch?v=uUnBJX7X1GY
 #### Books, magazines, manga and anime
 
 https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Sumo/Resources#Bibliography
+https://en.wikipedia.org/wiki/Sumo#Further_reading
 
 https://openlibrary.org/search?q=sumo
 
@@ -981,7 +986,7 @@ https://en.wikipedia.org/wiki/Library_Genesis
 instructions:
 https://www.reddit.com/r/LibGen/wiki/index
 https://librarygenesis.net
-https://libgen.onl/#How_to_Use_Libgen
+https://libgen.onl
 discussions:
 https://www.reddit.com/r/LibGen/new
 
@@ -1018,7 +1023,7 @@ Sumo Singing - Jinku (Sumo Folk Songs) at Hono Ozumo Yasukuni Shrine
 https://www.youtube.com/watch?v=vh_-63hFdEE
 
 Harumafuji - Myself
-https://www.youtube.com/watch?v=aRmtR-Q8xkg
+https://www.youtube.com/watch?v=8qkDPekWksM
 
 Ikioi - Iron
 https://www.youtube.com/watch?v=WJFYX8SRj8s
@@ -1080,8 +1085,11 @@ https://kinnikuman.fandom.com/wiki/Hero_of_the_Ring
 Dosukoi Sushi-Zumo - ending theme
 https://www.youtube.com/watch?v=g-VbiIoHfgI
 
-Hinomaru Sumo - Opening 1 | FIRE GROUND
-https://www.youtube.com/watch?v=wPcE4ZEg3vs
+Hinomaru Sumo - Opening Theme - FIRE GROUND
+https://www.youtube.com/watch?v=awGcuzC0FuM
+
+Hinomaru Sumo - Ending Theme - Hiizuru Basho
+https://www.youtube.com/watch?v=DYLWwZkaBCk
 
 http://www.sumoforum.net/forums/topic/41050-were-gonna-sing
 http://www.sumoforum.net/forums/topic/40721-sumo-musical-ryogoku-oshare-rikishi
@@ -1097,13 +1105,11 @@ https://www.flickriver.com/search/sumo/interesting
 
 https://photohito.com/search/photo/?value=%E7%9B%B8%E6%92%B2
 
-http://photozou.jp/photo/search_result?keyword=%E7%9B%B8%E6%92%B2
+https://www.google.com/search?q=site%3Ahttps%3A%2F%2Fphotozou.jp+%E7%9B%B8%E6%92%B2&tbm=isch
 
 https://ganref.jp/photo_searches/result?keyword=%E7%9B%B8%E6%92%B2
 
 https://www.picuki.com/tag/%E7%9B%B8%E6%92%B2
-
-https://gramhir.com/explore-hashtag/sumo
 
 https://imgur.com/search?q=sumo
 https://imgur.com/t/sumo
@@ -1162,6 +1168,8 @@ http://www.sumoforum.net/forums/forum/5-amasumo-discussions
 https://en.wikipedia.org/wiki/Sumo_World_Championships
 
 https://www.theworldgames.org/sports/Sumo-23
+
+https://worldnomadgames.com/en/sport/Sumo
 
 https://en.wikipedia.org/wiki/World_Combat_Games
 
@@ -1234,9 +1242,6 @@ https://www.fijlkam.it/arti-marziali/sumo/news-sumo.html
 Kazakhstan
 https://www.facebook.com/Kazakhstan-Sumo-Wrestling-Association-1576840885869223
 
-Lithuania
-http://www.sumo.lt
-
 Mongolia
 https://www.facebook.com/MongolianSumoAssociation
 
@@ -1252,9 +1257,6 @@ http://mossumo.ru
 
 Thailand
 https://www.sumothai.com
-
-Turkey
-https://www.facebook.com/sumoguresi
 
 Ukraine
 https://vk.com/sumoukr105538745
@@ -1278,7 +1280,7 @@ https://web.archive.org/web/20140209134827/http://www.scgroup.com/sumo/faq
 Index of Sumo pages on the Web
 https://web.archive.org/web/20180928004507/http://www.geocities.jp/sumo_pages/sumolinks/e.html
 
-Banzuke.com
+Banzukedotcom
 https://web.archive.org/web/20160118150814/http://www.banzuke.com/index.html
 
 Grand Sumo Highlights Archive (2014-2019)

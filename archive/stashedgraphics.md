@@ -15,4 +15,9 @@
 ->01%#EFA9BF%[。](/-blahajtemp)%% ​ ​ 02%#EFA9BF%[。](/nijiminya)%% ​ ​ 03%#EFA9BF%[。](/ba_dapple)%% ​ ​ (mine)<-
 ->01%#EFA9BF%[。](/kurse_temp)%% ​ ​ 02%#EFA9BF%[。](/aiyang_temp)%% ​ ​ 03%#EFA9BF%[¹。](/bachpach)%% ​ ​ 04%#EFA9BF%[²。](/chopinbag)%% ​ ​ (others)<-
 
+
+->![](https://files.catbox.moe/1e4ewn.gif) ​ ​ ​ %#EFA9BF%**IMPORTANT NOTE**%% ​ ​ !! ​ ​ ｡｡｡<-
+
+-> i will ***NOT*** remove graphics, whether you like it or not i don't care about shit so if you feel sad or angry that i stole your graphics get over it, it's the internet, be grateful anyone even likes your graphics to begin with.<-
+
 ->![](https://files.catbox.moe/hcebya.png)<-

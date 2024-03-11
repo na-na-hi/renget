@@ -258,6 +258,20 @@
 	(lilysin, long hair, black hair, red streaked hair, multicolored hair, twintails, orange eyes, pointy ears, halo, facial tattoo, demon girl, demon horns, demon tail, black shirt, detached sleeves, frills, wide sleeves, navel cutout, black skirt, low wings, bandaged leg, black thigh boots)
 -> [Catbox](https://files.catbox.moe/k009ku.safetensors) <-
 
+##### -> (Origin) Neo Sparkles <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	neosparkles, long hair, bangs, brown hair, long sleeves, animal ears, green eyes, jacket, tail, ahoge, shoes, socks, hood, orange hair, animal ear fluff, sleeves past wrists, hoodie, drawstring, blue hoodie
+-> [Catbox](https://files.catbox.moe/2vvf82.safetensors) <-
+
+##### -> (Origin) Nikki Rei <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	nikkirei, long hair, bangs, blonde hair, hair ornament, red eyes, thighhighs, long sleeves, ribbon, jacket, hair ribbon, white shirt, ahoge, multicolored hair, open clothes, shoes, black gloves, collared shirt, fingerless gloves, black skirt, black footwear, side ponytail, streaked hair, thigh strap, white jacket, asymmetrical legwear, mismatched legwear
+-> [Catbox](https://files.catbox.moe/d3h84b.safetensors) <-
+
 ##### -> (Endless) Roca Rourin <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -332,6 +346,13 @@
 	(rikudouyura, long hair, blue hair, ahoge, fiery hair, horns, tiara, blue eyes, (x-shaped pupils, dullahan, blue fire:1.3), blue shirt, white dress, frills, detached sleeves, purple thighhighs, blue footwear)
 -> [Catbox](https://files.catbox.moe/iuftmu.safetensors) <-
 
+##### -> (Gen4) Non Anon <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	nonanon, long hair, bangs, blonde hair, detached collar, hair ornament, red eyes, dress, animal ears, low twintails, heart, multicolored hair, necktie, socks, white dress, rabbit ears, wrist cuffs, crown, rabbit girl, platform footwear
+-> [Catbox](https://files.catbox.moe/s6akv9.safetensors) <-
+
 #### -> Re:AcT <- 
 -> ![REACT](https://files.catbox.moe/r88kil.png) <-
 ***
@@ -345,7 +366,6 @@
 #### -> Cyberlive <-
 -> ![CYBERLIVE](https://files.catbox.moe/qao0z5.png) <-
 ***
-
 ##### -> (CyberAlter) Alchemilla Menace <-
 !!! note Tags suggested by uploader, not me
 !!! note Recommended weight: 1 (according to CCC)
@@ -669,6 +689,10 @@
 ##### -> Vestia Zeta <-
 !!! info 3 Outfits
 -> [Civitai](https://civitai.com/models/326471/xl-10-vestia-zeta-or-hololive-id) <-
+
+##### -> Mori Calliope <-
+!!! info 9 Outfits!
+-> [Civitai](https://civitai.com/models/341803/mori-calliope-9-outfits-or-hololive-or-pony-xl) <-
 
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-

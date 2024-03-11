@@ -1195,3 +1195,140 @@
     >https://t.me/QudsNen/98284  3/9/24  
     >https://files.catbox.moe/cbuw3v.mp4  3/9/24  
     ***
+!!!danger  
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 9 (2024), against (US)-israeli forces:
+    >
+    >— 🇾🇪 Yemeni Armed Forces:
+    >🔻Targeted the American "PROPEL FORTUNE" ship in the Gulf of Aden with a number of anti-ship missiles.
+    >🔻Targeted several US warships in the Red Sea & the Gulf of Aden with 37 kamikaze drones.
+    
+    >— 🇵🇸 Al-Qassam Brigades:
+    >🔻Seized 2 quadcopter drones while they were conducting intelligence missions, south of the Al-Zaytoun neighborhood in Gaza City.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >🔻In a joint-operation, they shelled IOF soldiers' gatherings & military vehicles in Abu Urayban area in the Zaytoun neighborhood with 107mm rocket salvos.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >🔻Seized a quadcopter drone during its reconnaissance mission west of Tal al-Hawa neighborhood in Gaza City.
+
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >🔻Shelled IOF soldiers and their military vehicles south of Zaytoun neighborhood with mortar shells in Gaza City.
+    >🔻Targeted an IOF military vehicle with an RPG, in the axis south of Zaytoun neighborhood in Gaza City.
+
+    >— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+    >🔻Targeted IOF vehicles and soldiers' positions in the eastern areas of Jabalia with mortar shells.
+
+    >— 🟡 Hezbollah:
+    >🔻Targeted the Al-Baghdadi site with an IRAM Burkan rocket, succesfully hitting its target.
+    >🔻Targeted a gathering of israeli soldiers around Hunin Castle with rockets.
+    >🔻Targeted the Ruwaysat al-Qarn site in the occupied Shebaa Farms with rockets.
+    >🔻Targeted the Zebdine site in the occupied Shebaa Farms with rockets.
+    >🔻Confronted an Israeli drone in the border areas with occupied Palestine, preventing it from entering Lebanese airspace & forcing it to retreat into the occupied territories.
+    >🔻Targeted a gathering of israeli soldiers in the Karantina Heights with appropriate weapons.
+    >🔻Targeted a gathering of israeli soldiers in Jabal Nader with rockets.
+    >🔻Targeted an enemy patrol as it entered the Malikia IOF site, with appropriate weapons, inflicting direct hits causing casualties.
+
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >🔻Attacked the oil refineries in Haifa in the with drones, last night.
+    >https://t.me/FotrosResistance/5831  3/10/24  
+    ***
+!!!warning
+    >⚡️🔥 Al Qassam releases :
+    >
+    >The operation of dropping two anti-personnel bombs via a drone on a military point belonging to the enemy army east of Beit Hanoun in the northern #Gaza Strip #Al-Aqsa Flood
+    >https://nitter.poast.org/ME_Observer_/status/1766821278390845729#m  3/10/24  
+    >https://files.catbox.moe/l9tz49.mp4  3/10/24  
+    ***
+    >⚡️Israeli media: Sirens sounded in Majdal Shams, north of the Golan
+    >⚡️Lebanon: Al-Mayadeen correspondent in the south: More than 30 missiles were launched towards the occupation positions in Shebaa Farms.
+    >https://nitter.poast.org/ME_Observer_/status/1766838277212889556#m  3/10/24  
+    ***
+    >⚡️Video from the last missile salvo launched from #Lebanon towards the occupied Golan
+    >https://nitter.poast.org/ME_Observer_/status/1766852569287021052#m 3/10/24  
+    >https://files.catbox.moe/gkmumb.mp4  3/10/24  
+    ***
+    >⚡️ Hezbollah: 
+    >Our mujahideen launched an aerial attack with two drones on artillery positions in Arar, hitting their targets accurately.
+    >https://nitter.poast.org/warfareanalysis/status/1766754447999262728#m  3/10/24 
+    ***
+    >⚡️ Qassam Ghoul sniper successfully sniped an Israeli soldier with south of the Tal al-Hawa neighborhood in Gaza City.  
+    >https://nitter.poast.org/warfareanalysis/status/1766860181940457929#m  3/10/24  
+    ***
+    >⚡️Mujahideen Brigades: 
+    >From the targeting by the Mujahideen Brigades of a gathering and deployment of Zionist enemy forces east of Jabaliya with short-range rockets...
+    >https://nitter.poast.org/warfareanalysis/status/1766867628604244014#m  3/10/24  
+    >https://files.catbox.moe/aw6f20.mp4  3/10/24  
+    ***
+    >⚡️⚡️Venezuela: Maduro congratulates the Islamic nation on the occasion of the month of Ramadan: We express our sincere commitment and brotherhood with the Islamic peoples
+    >https://nitter.poast.org/ME_Observer_/status/1766851985809002931#m  3/10/24  
+    ***
+    >The Gaza Ministry of Health reports that the death toll of the Israeli aggression has reached 31,045, with 72,654 injuries since October 7 last year.  
+    >https://nitter.poast.org/QudsNen/status/1766854187290357844#m  3/10/24  
+    ***
+    >⚡️ Hezbollah: Scenes from the operation targeting a "Namer" vehicle of the occupation army at the Malikia site. 
+    >https://nitter.poast.org/warfareanalysis/status/1766887253454856261#m  3/10/24  
+    >https://files.catbox.moe/3mis2d.mp4  3/10/24  
+    ***
+    >Watch…. Al-Qassam Ghoul sniper sniping an Israeli soldier south of the Tal Al-Hawa neighborhood in Gaza City.  
+    >https://nitter.poast.org/warfareanalysis/status/1766896235326132565#m  3/10/24  
+    >https://files.catbox.moe/25u16d.mp4  3/10/24  
+    ***
+    >From the tents of the displaced Palestinians in Gaza,
+    >
+    >Quds News Network wishes a blessed Ramadan for all Muslims around the world.  
+    >https://nitter.poast.org/QudsNen/status/1766895137840353784#m  3/10/24  
+    ***
+    >The Sada Social Center highlighted the intensification of digital violations against Palestinian content, including increased censorship of Palestinian posts and bias favoring the Israeli occupation in targeting Palestinians.
+    >
+    >Sada's Annual digital index report titled "Internet Massacre: Digital as a Weapon in Genocide," which primarily focuses on the digital space behavior and global technology companies' stances regarding Palestinians under occupation and facing a genocidal war.  
+    >https://nitter.poast.org/QudsNen/status/1766900903070564617#m  3/10/24  
+    >
+    >Palestine Action spray-painted the entrance of Leonardo UK, one of Israel's major suppliers, in blood red. 
+    >
+    >The company's headquarters, located in London, provides parts for Israeli aircrafts used in committing genocide in Gaza. 
+    >https://nitter.poast.org/QudsNen/status/1766904481311015385#m  3/10/24  
+    >https://files.catbox.moe/d2q8bp.mp4  3/10/24  
+    ***
+    >May Allah accept
+    >Your fasting.. Your Jihad..
+    >Your patience.. And your steadfastness..
+    >
+    >Saraya al-Quds - The Military Media
+    >ResistanceRamadan
+    >https://nitter.poast.org/warfareanalysis/status/1766907445312466993#m  3/10/24  
+    ***
+    >⚡️Haniyeh: 
+    >We set five principles during the negotiations, namely: a comprehensive ceasefire, ending the war, complete withdrawal, return of the displaced, delivery of aid, and prisoner exchange.  
+    >https://nitter.poast.org/warfareanalysis/status/1766889329295581476#m  3/10/24  
+    ***
+    >A security official in Hamas states:
+    >
+    >- Accepting communication with the occupation by community leaders and tribes for work in the Gaza Strip is considered national betrayal, which we will not allow.
+    >
+    >- The occupation's attempt to create bodies to manage Gaza is a failed conspiracy that will not materialize.
+    >- We will not allow the enemy to compensate for its losses on the ground through political maneuvers within the Gaza Strip.
+    >
+    >- We will strike with an iron fist against anyone who meddles with the internal front in the Gaza Strip and will not allow the imposition of new rules.  
+    >https://nitter.poast.org/warfareanalysis/status/1766877344549990887#m  3/10/24  
+    ***
+    >⚡️ Al Jazeera: 
+    >The occupation imposes restrictions on the entry of young people to Al-Aqsa Mosque for Taraweeh prayers, allowing only women and individuals over the age of 40.
+    >  
+    >Video: A young man is prevented from entering Al-Aqsa Mosque and instructed to return.  
+    >https://nitter.poast.org/warfareanalysis/status/1766888829854568722#m  3/10/24  
+    >https://files.catbox.moe/31sspy.mp4  3/10/24  
+    ***
+    >⚡️⚡️Urgent | Netanyahu to Politico: We are about to end the last part of the war, and the fighting will not take more than two months and perhaps 6 or 4 weeks.  
+    >https://nitter.poast.org/ME_Observer_/status/1766911335709749300#m  3/10/24  
+    ***
+    >Sergeant first class Michael Gal was sniped, with the sniper's bullet entering through one ear and exiting through the other ear.  
+    >https://nitter.poast.org/warfareanalysis/status/1766921989027955091#m  3/10/24  
+    ***
+    >⚡️The Mujahideen Brigades:
+    >Our mujahideen continue to confront the Zionist Nazi aggression on Gaza for the 156th day, having carried out the following tasks in the last 24 hours:
+    >
+    >- Targeting a gathering of Zionist enemy forces with short-range rockets southeast of Gaza City.
+    >
+    >- Targeting a gathering and deployment of Zionist enemy vehicles and soldiers with several heavy mortar shells east of Beit Hanoun in the northern Gaza Strip.  
+    >https://nitter.poast.org/warfareanalysis/status/1766936676348174831#m  3/10/24  
+    ***

@@ -210,7 +210,7 @@ No.
 
 ## Levelling your roster
 !!! info
-    Post your roster on /bag/, it's faster this way. 
+    Post your roster on [/bag/]((https://boards.4chan.org/vg/catalog#s=Blue%20Archive)), it's faster this way. 
 
 
 **Level up whoever you're *using* at the moment**. It's easier to max out 3 students to 3777 (EX/basic/enhanced/sub skill) than 1 student to 5MMM (M = max lvl). It's best to keep small rosters, so keep things at a 1 team per colour scale. You use each team for **all content related to their colour**.
@@ -221,9 +221,9 @@ Once you have more resources you can branch out to a wider roster.
 
 A good start to every account is upgrading your Serina to 2\* (with ligma), she's your best friend early on.
 
-Here's a [Tier List for every unit in the game](https://kamigame.jp/bluearchive/page/142375924644479448.html) (in Japanese). 
+Here's a [Tier List for every unit in the game](https://kamigame.jp/bluearchive/page/142375924644479448.html) (in Japanese (scroll down nigga)). 
 
-[Here's a guide for skill targets](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) (e.g. how much 3444 or 5747 this girl?) 
+[Here's a guide for skill targets](https://docs.google.com/spreadsheets/d/1-lBJa3h4mXHkmuSKohoHe60WVVg1eRG9bA73jHqHzwA/edit#gid=702790264) (e.g. do I 3444 or 5747 this girl?) 
 [Here's a raid unit guide (with skill priority and unit notes)](https://docs.google.com/spreadsheets/d/1VSzm_ioCt2AdRvkfL9HKNNZSbyslayVERXxVxR6nzh4/htmlview?pru=AAABfU25_0Y\*DiMJDJXmrDW7EsUjWhKvGQ#)
 [here's a PvP tier list](https://docs.google.com/spreadsheets/u/0/d/1NiLS4DloW7A92nIh5n5wl9uYkLAuYa-7Ph-u8RXVjik/htmlview#). 
 

@@ -23,9 +23,9 @@ Rain takes a bite of the steak served in front of her, then looks up across the 
 
 "Yeah, for idiots."
 
-Rain smiles. She missed this lighthearted banter with her brother.
+Rain smiles. She missed having lighthearted banter with her brother.
 
-"Whatever. I need to go to the bathroom. Dont choke on a french fry while Im gone."
+"Whatever. I need to go to the bathroom. Don't choke on a french fry while I'm gone," she says.
 
 "That was *one* time!"
 
@@ -77,7 +77,7 @@ Rain grimaces. Blinking a few times to clear her eyesight, she takes a first loo
 
 ![Rain and ?](https://i.imgur.com/0VrtBvq.png)
 
-"Holy *SHIT*! You're a *really* big bird!" She jumps to her feet and assumes a fighting stance.
+She jumps to her feet and assumes a fighting stance. "Holy *SHIT*! You're a *really* big bird!"
 
 "Woah! I've never seen an Eevee stand on 2 legs before! Impressive!" The raven replies. "And thanks for the compliment. I work out." 
 
@@ -99,3 +99,6 @@ Whatever conciousness she had just gained left her just as fast, and she returns
 	5 Feb - changed some phrasing and formatting
 	12 Feb - aligned images left
 	4 Mar - formatting
+	11 Mar - grammar
+
+-> [Chapter 1 ->](https://rentry.co/zx6cwsz3) ->

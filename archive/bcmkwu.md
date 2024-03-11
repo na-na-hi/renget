@@ -1,3 +1,21 @@
+>Abrams getting a tan 
+https://files.catbox.moe/yy5h3r.MP4 
+>ATGM hit of 4th Abrams 
+https://files.catbox.moe/ue0sim.mp4 
+>Russian soldier takes selfies with an Abrams 
+https://files.catbox.moe/3ptwo2.mp4 
+>Biden touring Moscow 
+https://files.catbox.moe/6ytwlu.mp4 
+>AFU deployment house leveled 
+https://files.catbox.moe/76wmv9.mp4 
+>Lancet vs Vampire MLRS 
+https://files.catbox.moe/cet17j.MP4 
+>KABs fall on Ugledar 
+https://files.catbox.moe/7x93lx.mp4 
+>Lancet takes out a radar 
+https://files.catbox.moe/on0i4q.mp4 
+>Arty destroys AFU drone controller 
+https://files.catbox.moe/nnmoov.mp4
 >Two MIM-104 Patriots go boom
 https://files.catbox.moe/bw3xb4.mp4
 >FPV Bombarding Ukrainians

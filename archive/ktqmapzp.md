@@ -50,7 +50,7 @@ Kita strode into the testing hall with an aura of absolute authority. As he ente
 
 >(Impressed?)
 
-Kita allowed himself a rare moment of smug satisfaction as he waited for the patrols to get into position. When he saw his opening, he strode towards the center of the room with definite purpose. Stopping abruptly in front of Jin Hyuga, Kita slammed his hand down onto the desk creating a thud that echoed through the room leaving all inside absolutely stunned. Kita stared daggers into the young ninja eyes through the menacing slits in his mask. The terrified Genin opened his mouth as if to beg for mercy. Reacting quickly, Kita did a semi-lunge forward and intensified his already nightmarish gaze. With that, Jin went perfectly still, sweat beading down his head.
+Kita allowed himself a rare moment of smug satisfaction as he waited for the patrols to get into position. When he saw his opening, he strode towards the center of the room with definite purpose. Stopping abruptly in front of Jin Hyuga, Kita slammed his hand down onto the desk creating a thud that echoed through the room leaving all inside absolutely stunned. Kita stared daggers into the young ninja eyes through the menacing slits in his mask. The befuddled Genin opened his mouth as if to ask what was wrong. Reacting quickly, Kita did a semi-lunge forward and intensified his already nightmarish gaze. With that, Jin kept silent and averted his gaze, sweat beading down his head.
 
 >(Don't go talking just yet, Hyuga boy. I don't want you eliminated before Ichika has a chance to crush you.)
 
