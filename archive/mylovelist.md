@@ -7,7 +7,7 @@
 
 -> my gang affiliated niggas <-
 
--> TEAM 3⠀&⠀STUPID HOES GC⠀&⠀um cream team.
+-> TEAM 4⠀&⠀STUPID HOES GC⠀&⠀um cream team.
 FRUITY TRIO⠀&⠀me and ramaona
 EVERYONE IN [**WONDERLAND SRVR**](https://discord.com/invite/WjqT5Gwgvt) <-
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1100874244361027815/74CD001A-C294-4263-8CFE-B0895F08B8B6.png) <-

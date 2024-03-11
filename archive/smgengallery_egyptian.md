@@ -26,12 +26,6 @@
 
  -> ![Concept](https://files.catbox.moe/k63436.jpg) <-
 
- -> **Geb** <-
- -> = *Gye-buh* <-
- -> *{Correctly spelt Gjeb, which results in a 'Keb'-like pronunciation}* <-
-
- -> ![Splash](https://files.catbox.moe/wnhbr6.jpg) <-
-
  -> **Thoth** <-
  -> = *(d)je-hu-t(i)hh* <-
  -> *{Don't Ask}* <-
@@ -43,6 +37,24 @@
  -> ![Splash](https://files.catbox.moe/zfg0cs.jpg) <-
 
  -> ![Concept](https://files.catbox.moe/mxew7i.jpg) <-
+
+ -> **Geb** <-
+ -> = *Gye-buh* <-
+ -> *{Correctly spelt Gjeb, which results in a 'Keb'-like pronunciation}* <-
+
+ -> ![Splash](https://files.catbox.moe/wnhbr6.jpg) <-
+
+ -> **Nut** <-
+ -> = *N-W-T* <-
+ -> *{Hilarious jokes aside, it's not like the food one. Correctly spelt Nwt, and while tempting to instead say "Newt", it really is just 3 phonetic hardswaps in a row. Easiest is to just say each letter individually, then speed it up.}* <-
+
+ -> ![Splash](https://files.catbox.moe/6dj29e.jpg) <-
+
+ -> ![Concept](https://files.catbox.moe/5ott37.jpg) <-
+
+ -> ![Concept 2](https://files.catbox.moe/f20lyr.jpg) <-
+
+ -> ![Lore Lady](https://files.catbox.moe/qqsvba.png) <-
 
  -> **Osiris** <-
  -> = *Owe-Sai-Riss* <-

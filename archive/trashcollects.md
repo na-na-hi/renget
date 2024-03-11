@@ -2,6 +2,42 @@
 
 [TOC2]
 
+## PonyDiffusion6 XL artist findings
+https://lite.framacalc.org/4ttgzvd0rx-a6jf
+Putting it here for better visibility and until I figure out where else to put it.
+The author of PonyDiffusion V6 obfuscated artist names before training, which as it turns out seem to be random three letter combinations.
+/h/ has been spending some time trying out various combinations, and have been codumenting their findings in the spreadsheet above. If you try some combinations and recognize the artist behind them, feel free to contribute.
+
+Use the base PonyDiffusion V6 XL checkpoint, not DPO, autismmix or similar. They most certainly will have similar influences at the very least, but for the sake of comparison you might want to stick to the above.
+Copied DDL: https://civitai.com/api/download/models/290640?type=Model&format=SafeTensor&size=pruned&fp=fp16
+If you haven't used an SDXL model before, you will need a different VAE for those kinds: https://civitai.com/api/download/models/290640?type=VAE&format=SafeTensor
+
+Also, remember to change Clip Skip to 2.
+
+>I'm just gonna link y'all furries all the compilations so far so you can have an easier time looking:
+aaa to bzm:
+https://files.catbox.moe/c0rl1r.jpg (embed)
+cad to eum:[spoiler][/spoiler]
+https://files.catbox.moe/ewr0s0.jpg (embed)
+evg to hns:
+https://files.catbox.moe/tda4ir.jpg (embed)
+hpb to jki:
+https://files.catbox.moe/44a2rc.jpg (embed)
+jkv to lek:
+https://files.catbox.moe/tj2aeq.jpg (embed)
+lgu to mkb:
+https://files.catbox.moe/p7qqaz.jpg (embed)
+Here's mkg to nyj:
+https://files.catbox.moe/365n8h.jpg (embed)
+and nyp to pyb:
+https://files.catbox.moe/64zi6v.jpg (embed)
+
+Less consistent:
+aav to frw:
+https://files.catbox.moe/1z4efd.jpg (embed)
+fsp to klm:
+https://files.catbox.moe/jnjwqi.jpg (embed)
+
 ## Models
 
 !!! info This list of models has been added to over the course of more than a year now. Therefore, most models at the top of this list are *old*. Start at the bottom of the "Models" section, or better yet, check out the current list of recommended models over in /trash/sdg/, then check back and look them up via CTRL+F.

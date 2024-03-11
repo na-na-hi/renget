@@ -1,5 +1,5 @@
--> ![alien stage](https://files.catbox.moe/q36fpl.gif)
-polyfrag systm 
-(s)he none ask
-NH EIE-Ni 2w1
-[rsrc](https://rentry.co/reasrc) •  [hoard](https://rentry.co/gilburt) • [moka](https://open.spotify.com/track/2aN0K87tjNGCdNRUKZ4qJ9?si=45e04692ecb445af) <-
+-> ![menhera chan](https://files.catbox.moe/s17tul.gif)
+hi any/none , apagender + unlabeled 
+osdd1b traumagenic system enfj 2w1
+i dont do much linking shit noww uh
+[<3](https://rentry.co/reasrc)<-

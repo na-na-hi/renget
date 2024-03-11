@@ -52,6 +52,12 @@ Q2: Have you met any Clover Guild individuals besides Lliam?
 Q3: I wanna know how you got that scar!
 Q4: Do you have any hobbies besides dungeon exploration?
 
+###Sara
+Q1: What kind of moves have you mastered?  Do you enjoy fighting?
+
+###Mama Lax
+Q1: Do you have any funny stories from the Inn you'd like to share?
+
 ###Rasmus
 Q1: You joined the Guild around Halloween.  How has your experience been since then?  Good?  Bad?
 Q2: You're a roof tiler, right? What's that job like?
@@ -80,6 +86,11 @@ Q1: It is well known that you love to eat food, but do you have any favorite foo
 > A: Don't scold me for my gluttony, I can't help it! I used to be ripped, but ever since I acquired a mysterious case of head trauma, I've had the insatiable urge to eat. Spicy food is my favorite, although anything's good, really.
 
 Q2: Most embarassing thing you've done due to your hunger?
+Q3: What are the upsides and downsides of travelling with Asana?
+
+###Asana
+Q1: In your travels, you've been exposed to or taught a number of crafts, such as baking and pottery.  Are you interested in pursuing these arts further?
+Q2: How do you feel about bounty-hunting?  Would you ever settle down?  Or is life on the road all you crave?
 
 ###Tybo
 Q1: Do you accept pets?  If so, from who?  
@@ -172,6 +183,7 @@ Q1: What is your body count?
 Q2: What is your body count ;)?
 Q3: Does crime pay?
 Q4: What happened to the money I lent you last Saturday? 
+Q5: Do you play any instruments besides the harmonica?
 
 ###Cassie
 Q1: Are you a real construction company??
@@ -187,12 +199,26 @@ Q1: What is it like being a Flareon compared to Umbreon?
 Q2: How are you dealing with suddenly being so fluffy? No, really. Are there any additional steps of care, or anything like that, that you need to do now that you didn't as an Umbreon? Along the same lines, is there anything that you don't need to do that you did before?
 Q3: Considering your team has two grass-types on it, do you think you're going to need to be more careful to avoid friendly fire now?
 
+###Vileplume
+Q1: How long have you and Bellossom been doing guild work?  Would you consider yourselves experienced?
+Q2: How has you opinion of Adrian changed?  Has he gotten easier to work with over time?
+
+###Bellossom
+Q1: Do you have any funny stories about Vileplume from when you were young?
+
+###Enny
+Q1: Why the obsession with women's fashion?
+Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
+
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?
 Q2 : What do you miss the most about your master?
+Q3: Who would you say are the most improved guild members in terms if fighting capabilities? 
 
 ###Maxi
 Q1: What was the grossest thing you had to clean up?
+Q2: Is there any reason you don't shower?  ...If not, please take a shower...
+Q3: Being janitor at Clover Guild must be tough.  Who do you think leaves most of the messes?
 
 ###Maddi
 Q1: Have you talked to other small members of the guild yet?
@@ -200,6 +226,52 @@ Q2: What, if anything, is your relationship with Rasmus?
 
 ###Apple
 Q1: Do you offer accordion lessons?
+Q2: How did you meet Cheesecake?
+
+###Etoufee 
+Q1: What was the extent of your criminal past?  Are you happy to leave it behind, or do you miss it sometimes?
+Q2: How would you describe your fighting style?
+
+###Cheesecake
+Q1: What's your favorite thing about the Clover Guild?
+Q2: Have you met Chespin's friend, Wooper?  Do the two of you get along?
+
+###Rain
+Q1: How are you adapting to having four legs?  Do you miss having hands yet?
+Q2: Do you actually hate Cory's puns?  Or do you secretly enjoy them, even a little bit?
+Q3: Does Cory have an accent?
+
+###Cory
+Q1: What's up with that Eevee?
+Q2: If you could ask a human anything, what would you ask them?
+Q3: Do you have a dayjob?  If you do, don't quit it.
+
+###Mandibuzz
+Q1: You used to be a Pokemon trainer, right?  How does it feel to be one yourself?
+Q2: If you didn't end up as a Mandibuzz, which Pokemon would you rather be?
+Q3: Is it odd being able to speak with Gliscor directly?
+
+###Gliscor
+Q1: Your trainer turned into a Pokemon!  How have you handled the situation? 
+Q2: Are the native Pokemon in this world very different from Pokemon in your previous world?  Or are they somewhat the same?
+
+###Cider
+Q1: What's the deal with that Chatot guy?
+Q2: Not to say you need a partner, being as talented as you are, but is there any part of you that *wants* a partner?
+Q3: Are you looking forward to evolution? 
+
+###Lliam
+Q1: Do you ever need to punish guild members?  If so, how do you do it?
+Q2: Are you known around Capim town as the guild's leader? Or have you avoided that reputation?
+Q3: Your job must be a handful.  How do you relax?
+
+###Beau
+Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?
+Q2: Do you consider yourself lucky or unlucky to have been transformed into an Espeon?
+
+###Mako
+Q1: What's your opinion of Snorlax as a Pokemon?
+Q2: How are you adapting to the Pokemon world?
 
 ##->**General Questions**<-
 

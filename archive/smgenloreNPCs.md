@@ -485,24 +485,6 @@ Despite the proximity and similar origin, Saci does not have a counterpart withi
 
 ***
 
--> **Lachesis (Greek)** - The depiction of the current and longest-running Lore Lady. <-
-
-   A *very* prominent unplayable character, while her VA initially went unnamed (and just did her thing, like the girl + two guys before her), when she was finally given an in-game representation (her Announcer Pack icon) they seemed to have ran with the Moirai theme; and has since appeared in promotional material as so.
-   The three Fates / Moirai {Parcae} were the famous embodiments of Fate itself *(both the Greek and Latin names for them, directly translating into the word 'Fate' itself)* and were a dictating force throughout Greek mythological eras of Primordial / Titan / Olympian, superceding the authority of all Gods bar the first six major Primordials *(Chaos / Gaia / Tartarus / Eros / Nyx / Erebus)* and rarely being swayed otherwise (even when dealing with Zeus, their defacto boss). There were a very rare few exceptions to this - one incident with them getting drunk and agreeing to trade one life for another *(which was what ended up with Heracles beating the shit out of Thanatos to save the guy who wanted to default on that promise)*, and the other being that it was disputed if Zeus was beholdant to them, equal to them, or their leader like with the other Gods *(a common misconception he was absolutely beneath them - either way, he has some sway over them, but no direct control)*.
-	Finally, as children of Nyx {Nox} ~~(at least according to the version that seems to make most sense)~~, they worked in tandem with quite a few of their brothers and sisters, as they couldn't leave their post to actually give or take lifel - only decide destinies. The key two groups in this case were Hypnos / Thanatos *(the twin brothers, obscure during ancient times, but more popular as of modern times; the former of peaceful sleep, the latter as peaceful death)* - the others being the Keres *(Fury-like carrion-eating beings that represented violent deaths, associated with death by plagues, murder, war etc)*. Thanatos and a Ker (singular) were two sides of the same coin of death *(though you'd definitely want Thanatos over a Ker, to the point medical Euthanasia / Prescribed-Death-by-Sleep was invented and coined in it's current form in Ancient Greece specifically for it)*.
-
- - Clotho {Nona} was the one to spin the threads of fate and dictate who would be born (both mortals and Gods alike), for what reason they would be born for and what they would do within their lives. As such, she would usually be depicted by handling a spool / bobbin in one hand.
- - Lachesis {Decima} would decide how long a given life was allowed to live, and generally oversaw that the threads didn't become tangled / that everything continued uninterrupted. As such, she was depicted either as having multiple threads wrapped through her fingers or handling / measuring the thread between her two sisters.
- - Aisa (later Atropos) {Morta} was the one to cut the threads, and decided the specific cause of death for every living thing, with her signature look being cutting a thread with her shears / scissors.
-
-  I'd like to note that Lachesis is usually the least famous / depicted of the Moirai, as her sisters are usually the ones 'doing' things - so it's nice she's acknowledged in such a way.
-
--> ![Lore Lady](https://files.catbox.moe/qqsvba.png) <-
-
--> ![Lore Lady 2](https://files.catbox.moe/uehs25.png) <-
-
-***
-
 -> **Asi (Hindu)** - Included here instead of the items section, because it's an actual individual entity, not just an object. <-
 
    Asi is the sacred primordial sword that features within the Mahabharata, said to be the first sword ever crafted by Brahma so the pious could fight the Devi, and of which all other weapons are modelled after thereafter. Born from a great sacrificial ritual, the creature that manifested as a result of Brahma's offerings assumed the form of Asi, eternally wreathed in flames and from then on would guarantee the holder victory in any battle. In literal terms, it's also the God / Embodiment of Weaponry itself (not to be confused with Shiva, Master of Weaponry / the use of weapons), though it's not given any particular patronage, due to it's serviant role.

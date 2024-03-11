@@ -1,7 +1,7 @@
 ->![](https://i.postimg.cc/RZ5NmW3X/Untitled21-20240301012052.png)<-
 
 -> ![](https://i.postimg.cc/SRbjQRyv/Untitled20-20240229235900.png) <- 
- ->‿⧼ about [jay](https://rentry.co/wolfidol) ⦂ %#8B0000%extended%% ⧽‿  <-
+ ->‿⧼ about [jay](https://rentry.co/selfproclaimed) ⦂ %#8B0000%extended%% ⧽‿  <-
 -> easy to read version [here](https://rentry.co/sorrynotsorry) <-
 -> **view on mobile if you can** <-
 ***

@@ -1,0 +1,29 @@
+https://www.youtube.com/watch?v=oDba5-eFQJE
+
+>Guitar intro
+A trail of gasoline lights on fire, traveling down the center of the frame.
+
+>Drums kick in
+Fade to liquor being poured into Toru's hip flask. Scroll up as the flame reaches several Polaroid photos, suspended by twine from the ceiling. The flame burns photos of the 360 Agency logo, Satoru Tani, the loading dock of a pharmaceutical company building, Toru and his coworkers returning from a bar, Inigo and Hoge exiting Shiketsu, a promotional photo of Racer V in costume, and finally, zooming in, a grainy security photo of Kampai. Transitioning to the footage, Kampai drunkenly stumbles around a sidewalk before flipping off the camera. The fire burns away the frame to a title card.
+
+>Verse 1
+Toru walks down a busy Kyoto street in the evening, moving past lighted alcohol advertisements through a crowd in fast-motion. A person passes in front of the shot, wiping to his coworker Futaba hunched over a computer late at night, attempting to find information on just what Racer V's been up to. Splitscreen of Satoru on quirkchan shitposting as his eyes swirl intensely. Cut to Racer V exiting a box truck with a group of people in the foreground. Pan to Toru, Futaba, and Tatsuro enjoying some drinks at an izakaya with a street map of Kyoto in the background. Rotate to side profile of Toru. A reflection of him in his vigilante "costume" appears behind him as rivulets of blood begin to fill in the street map.
+
+>Bridge 1
+Wide shot from an alleyway as Kampai falls off the roof of a building, hitting his head on the fire escape before landing in a dumpster. Cut to Toru handcuffed to a table in an interrogation room, with a black eye and bandage on the bridge of his nose. Another cut to him on his motorcycle getting hit by a wrapped brick of cocaine that explodes in a puff of white powder as he tumbles off his bike. Close up of his pupils dilating.
+
+>Chorus
+Dolly shot moving past several different locations in Kyoto. In an onsen, Kampai tackles a heavily tattooed yakuza member through a wall as the camera moves on to the loading dock in the earlier photo. Workers load crates of vials into a box truck while Hoge peeks her head out from cover in the foreground. Moving forward through the door of the loading dock, we enter the 360 Agency office where a visibly overtired Toru's getting chewed out again by his supervisor. Passing through an open office window behind where Toru's standing, the camera follows a paper plane into a bar, where he (in his old rugby shirt), Futaba, and Popsy shotgun a beer in unison as the camera passes. Moving past a Coco Ichibanya where Toru and his sister Misaki sit opposite each other, the camera travels down a highway at night. Kampai chases after a box truck on his motorcycle, swerving past obstacles seemingly materializing out of nowhere. An air-conditioning unit flies towards the camera, bouncing off the pavement and cracking the lens. Different characters in the arc appear in the broken glass (Misaki, Inigo, Nissori, Futaba, Nyoro, and Satoru in that order), followed by Toru, who takes off his ski mask and goggles. He cracks open a bottle of lychee-flavored soju and chugs it.
+
+>Instrumental
+Kampai furiously drums along to the music as 360 Agency's stock ticker fluctuates in the background and the camera sways (as though it were held by a drunk). As he drums, blurry afterimages of various characters appear, accompanying him on guitar and bass. Interspersed are shots of Kampai beating on Yakuza thugs and devouring various items of convenience-store food as a clerk watches on in shock. 
+As the stock ticker rises, pan up to an over-the shoulder shot of Smokin' Sexy looking at a particle board he's set up in his room. Pictures of the aftermaths of Kampai's vigilantism are connected by red twine. Cutaway to an office copier rapidly printing out accounts. In the center of the particle board is a sticky note with a big question mark on it. Fade to a POV of someone getting assaulted by Kampai, who's smiling maliciously as he rains down blows. With each strike, blood fills up more and more of the screen.
+
+>Bridge 2
+Over-the-shoulder shot of Toru hugging his sister after being released from police custody, moving to an over-the-shoulder shot of a bleeding Kampai facing down Inigo and Hoge. Toru puts a 1000 yen bill into an almost empty jar labeled "Harley-Davidson". Kampai does the Akira slide on his motorbike. Time-lapse of Toru's trashcan filling up with empty cans and bottles.
+
+>Chorus 2
+Close up of Racer V turning on the ignition to his car. An explosion wipes the screen to Kampai offering a nervous Satoru a beer out of a 24-pack as they sit on the top floor of a parking garage. Cut to Toru in college, loaded drunk during a rugby game. After catching a pass, he charges forward, yelling as he crashes through three opposing forwards. Cutting to Toru's apartment in the present day, he's drunk again, except this time yelling at his TV as the Hanshin Tigers give up a run. Kampai holds a scrawny man in a suit by his collar off the side of a building, snarling at him as he flails. Black-and-white effect over a dolly shot that pulls away from Kampai as he attempts to chase after Racer V, only to be buried in more and more paper the closer he tries to get to his prey. Cut to Smokin' Sexy walking down an alleyway. Strands of crime scene tape begin to fill up the screen.
+
+>Outro
+Three quick stills of Kyoto at various points of the day, followed by a close-up of glasses clinking. Shot from behind of Toru vomiting in his toilet.

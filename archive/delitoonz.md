@@ -25,19 +25,19 @@ if u want idrc) venting to me is totally ok, im ⠀⠀
 here to help & have fun on here so dont be shy
 to reach out to talk about literally anything w me,
 another thing to note, i have a **life** outside of
-discord. do not expect immediate replies upon me
-going online, ⠀:p thnx <-
+discord. do not expect immediate replies upon
+me going online, ⠀:p thnx <-
 
 -> ![](https://files.catbox.moe/chce4a.png) ⠀ ⠀ 𓎟𓎟 ⠀ ⠀ kinda not a dni <-
 
 -> i dont really have a strict dni, i just urge people⠀
 that enjoy medias such as **zero day** / anything⠀⠀
-remotely similar to it or those who indulge in⠀⠀
+remotely similar, or those who indulge openly in⠀
 media that contains topics of  **incest** of any form 
 to not interact with me or just refrain from ⠀⠀⠀
 conversating abt it around me, it makes me ⠀⠀⠀
-extremely uncomfortable lol, its just for my own
-good. another thing, do  **NOT** graphic / in detail⠀⠀
-nsfw jokes or sexualize me (seriously or jokingly)
-IN ANY WAY! **especially** if i dont know you, its 
-fucking weirdo shit im 15! <-
+extremely uncomfortable lol, & its just for my own
+good, no hate! another thing, do  **NOT** graphic / **in
+detail nsfw jokes or sexualize me** (seriously or 
+jokingly) IN ANY WAY! **especially** if i dont know
+you, its fucking weirdo shit im 15! <-

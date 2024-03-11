@@ -19,17 +19,29 @@ https://civitai.com/models/312010/4th-tail-lora-extract
 ##Reverse Engineered Hashed Tokens
 It seems like the obfuscated/hashed tokens in the model are only mapped to three letter strings. There's only about 17k possible 3 letter combinations so it might be possible to just reverse engineer the remapped tokens through brute force, here's a few that are already known, hopefully this list will be expanded.
 
-An anon has gone about generating each possible combination and when it seems to change the image in a meaningful way he's been keeping track of it. So far he's gone from aaa to hns, here's his results:
+**Update 3/11/2024**
+An anon has been generating images for each 3 letter combination and noting which ones seem to change the image significantly. Here's his output: 
 
-https://files.catbox.moe/zp1pli.jpg
-https://files.catbox.moe/ybj76t.jpg
+aaa to bzm:
+https://files.catbox.moe/c0rl1r.jpg
+cad to eum:
+https://files.catbox.moe/ewr0s0.jpg
+evg to hns:
+https://files.catbox.moe/tda4ir.jpg
+hpb to jki:
+https://files.catbox.moe/44a2rc.jpg
+jkv to lek:
+https://files.catbox.moe/tj2aeq.jpg
+lgu to mkb:
+https://files.catbox.moe/p7qqaz.jpg
 
-Here's another pass that anon claims are "less consistent"
-
+Less consistent:
+aav to frw:
 https://files.catbox.moe/1z4efd.jpg
-https://files.catbox.moe/jnjwqi.jpg 
+fsp to klm:
+https://files.catbox.moe/jnjwqi.jpg
 
-There hasn't been any effort yet to go through and actually identify the artists/characters yet.
+There's an effort underway to identify the triggers.
 
 ###Hashed Styles
 arb - superbusty

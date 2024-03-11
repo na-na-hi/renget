@@ -34,7 +34,7 @@ https://desuarchive.org/trash/thread/57738223/#57795210
 >Bloonjob
 https://desuarchive.org/trash/thread/57399943/#57518173
 
->DK Island Castaway (Unfinished)
+>DK Island Castaway (Unfinished(?)
 https://archiveofourown.org/works/23881834/
 https://www.furaffinity.net/view/36113255/
 

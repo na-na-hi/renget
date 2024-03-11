@@ -86,6 +86,20 @@
 
  -> ![Trailer](https://files.catbox.moe/6garoy.jpg) <-
 
+ -> **Bake Kujira** <-
+ -> = *Ii-Sa-Na-Ga-Mi* <-
+ -> *{Yeahhhhh, there's always gotta be one that tries to throw you off, ain't there}* <-
+ -> *{Basically, they dun fucked up. Bake Kujira / Bakekujira is the species of Yokai, much like how Danzaburou is a Bake Danuki / Bakedanuki (Bake Kujira literally translating as just Monster-Whales). The name of the Lesser God in question is Isanagami, Servant and Mount of Ebisu, God of Wealth, Commerce, Luck and Fishing (and by "mount", it's depicted as both a usual riding-animal-mount, but also as a colossus / platform on which Ebisu's entire lavish palace rests on it's back). It's a really nice guy once you get to know it}* <-
+ -> *{SMITE opts for Isanagami's rarer malevolent / Aratama variety, which would exist, but given the jolly temperament of Ebisu, would have been extremely rare. Granted, it 'could' just be any old generic unnamed Bake Kujira, but then I'd expect consistency either for all monster-type Gods (such as Kuzenbo just to be called Kappa), or for Bake Kujira to be demoted to an inconsequential Jungle Mob befitting it's station. Both the species and the named deity are extraordinarily obscure names either ways, so you can't really blame them for the mistake}* <-
+ -> *{Oh, and the shoals of fish it's supposed to be accompanied by? Japanese Soldierfish / Ebisudai}* <-
+ -> *{Ba-Ke Ku-Ji-Ra}* <-
+
+ -> ![Splash](https://files.catbox.moe/on2pw2.jpg) <-
+
+ -> ![Concept](https://files.catbox.moe/bz22kf.jpg) <-
+
+ -> ![Concept 2](https://files.catbox.moe/1ueqrk.jpg) <-
+
 ***
 
    -> ~ ~ ~ <-

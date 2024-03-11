@@ -72,7 +72,7 @@ https://rentry.org/x5ayvpzb
 
 >Team 5
 >Ezaki Tuto
->>92097618
+>>92143158
 >Jin Hyuga
 >>92067527
 >Shinrō Kamotai
@@ -111,6 +111,8 @@ https://rentry.org/x5ayvpzb
 >>92132146
 >Eiji
 >>92132327
+>Sekka Hakobu
+>>92143990
 
 >Loners:
 >Ahiratsu Ōtsutsuki
@@ -142,6 +144,8 @@ Illusionary History (Kiko, Natsuo)
 https://rentry.org/IllusionaryHistory
 Operation Tragic Backstory (WIP)
 https://rentry.org/weizoy62
+Kamare's dilemma
+https://pastebin.com/JQ98X9ae
 
 Artfags:
 Kiko's Genin Team 4
@@ -542,9 +546,17 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Vigilante:
-Choko Yumiya, VN Eye High
->>92132153
+New Art:
+>bonfire dance
+>>92145990
+>teachsensei
+>>92146498
+
+New Writefags:
+>Chase (Kampai, other people)
+https://rentry.org/KampaiChase
+>Tooth and Claw, Issue 1 (Saurus):
+https://rentry.org/qsrvx8
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1142,6 +1154,10 @@ https://rentry.org/6zruhinr
 https://rentry.org/ph2rfaai
 >The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic)
 https://rentry.org/pop2nnyq
+>Chase (Kampai, other people)
+https://rentry.org/KampaiChase
+>Tooth and Claw, Issue 1 (Saurus):
+https://rentry.org/qsrvx8
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

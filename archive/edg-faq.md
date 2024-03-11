@@ -5,7 +5,7 @@
 Yes, as long as your pic is /e/ and AI-generated, you are welcome to post it.
 
 >!~ I have so many gens, should I chain-post them all? ~!
-You shouldn't. /edg/ isn't a fast-moving general, so one-man spam can be pretty disruptive. Quality over quantity is the preferred way. If you still want to post more than just a few gens at once, a good practice is to compile them into a mini-collage using your image editor of choice.
+You shouldn't. /edg/ isn't a fast-moving general, so one-man spam can be pretty disruptive. Quality over quantity is the preferred way. If you still want to post more than just a few gens at once, a good practice is to compile them into a mini-collage/set using your image editor of choice. A Catbox gallery is another option.
 
 >!~ What about fringe content that is in the spirit of the thread (monster girls, mild yuri, 1girls that may be a bit on a lewder side, etc.)? ~!
 We allow it, in moderation. Be reasonable, don't go too deep into fringe territory, don't spam and you'll be fine. !>Probably.
