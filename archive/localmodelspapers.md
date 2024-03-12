@@ -304,6 +304,7 @@
 03/2024|[Scaling Rectified Flow Transformers for High-Resolution Image Synthesis (SD3)](https://files.catbox.moe/anmseu.pdf)
 03/2024|[TripoSR: Fast 3D Object Reconstruction from a Single Image](https://arxiv.org/abs/2403.02151)
 03/2024|[Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
+03/2024|[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)

@@ -37,6 +37,7 @@
 [LLM Visualization](https://bbycroft.net/llm)|Drag and pull 3D model of various LLMs with explanation for components 
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [Principles of DL](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
+[LLM-Sampling](https://artefact2.github.io/llm-sampling/index.xhtml)|Token Probability visualizer with support for current popular samplers 
 |
 **LLM Inferencing**|
 [Text Gen WebUI](https://github.com/oobabooga/text-generation-webui)|Frontend to most GPU/CPU model backends
@@ -82,6 +83,7 @@
 [janitorai-cards](https://huggingface.co/datasets/AUTOMATIC/jaicards)|190k character cards converted to v2 format and viewable as local webpage
 [chub.ai](https://chub-archive.evulid.cc)|Archive of various character cards from chub as well as from some other sources 
 |
+**Dataset Tools**|
 [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit)|Generates multi-turn instruct-tuning data from input documents
 [dswav](https://github.com/devidw/dswav)|Audio dataset preparation tool using whisper and ffmpeg to transcribe and split inputs
 [lilac](https://github.com/lilacai/lilac)|Dataset curation tool for RAG or tuning with annotating/clustering/labeling support 
@@ -97,6 +99,7 @@
 [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
 [LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution
+[DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)|VLM (1B and 7B) trained on OCR data that outperforms local 13B models and at OCR
 [ShareCaptioner](https://huggingface.co/Lin-Chen/ShareCaptioner)|Image captioning model with lower hallucinations than LLaVa 
 [LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
@@ -104,13 +107,13 @@
 [SUPIR](https://github.com/Fanghua-Yu/SUPIR)|Image restoration and upscale method with semantic adjustment editing ability
 [DDColor](https://github.com/piddnad/ddcolor)|Vivid and natural colorization for black and white photos (and possibly video) 
 [lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
-[nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
 [TripoSR](https://github.com/VAST-AI-Research/TripoSR)|Image-to-3D reconstruction model built upon the LRM network infastructure 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [roop-cam](https://github.com/hacksider/roop-cam)|Real time face swap with webcam and one click video support
 [open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models
 |
 **Audio/Speech**|
+[Amphion](https://github.com/open-mmlab/Amphion)|Audio/Music/Speech toolset of various models with visualization capability 
 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|Few-shot voice cloning and Text-to-Speech WebUI (ENG/JPN/CHN)
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can fine-tune with custom dataset)
 [WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability

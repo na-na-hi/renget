@@ -64,6 +64,7 @@
 **Yuun Kurosu (Indie)** - https://civitai.com/models/342955/yuunkurosu
 **Minai Aruma (GuildCQ)** - https://civitai.com/models/342521/minai-aruma-or-guildcq-vtuber
 **Yu Twelve (Indie)** - https://civitai.com/models/342123/ivtuber
+**Mythia Batford (Indie)** - https://civitai.com/models/345676/batford
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

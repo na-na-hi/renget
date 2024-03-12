@@ -102,6 +102,10 @@ Q2: Tell us about a time that your thieving ways almost got you in big trouble (
 ###Fern
 Q1: How do you deal with being so fluffy?
 Q2: why are you so small?
+Q3: Are you interested in fashion advice?  Or do you prefer being naked?
+
+###Ciel
+Q1: How's life on the road?  Do you have any family waiting for you elsewhere?
 
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
@@ -156,6 +160,10 @@ Q1: Have you found any hobbies in the Pokemon world?  Made any friends?
 >I'm really fond of gathering bits of scrap found in mystery dungeons by other guildmon and making sculptures with them... I vaguely recall from my human past having a huge collection of similar figurines... They were called... Gumplot? Gunplay? I.. The name doesn't matter. I just like building them. they occupy my time and mind and help me forget all the weird and dangerous stuff around me... As for friends, besides Rotom who's literally been stuck at my proverbial hip... Or brain, in this case, with me. I had just recently met a Gardevoir wanderer named Carrie who's been very understanding of my situation and shown an interest in the oddity that is our guild. Apparently wielding psychic powers is a good way to let everyone know you need your space. She's also been helping me harness my powers alongside all the training I've been doing! I've been also finding myself more welcoming with the more chattier Pokemon who will carry the whole conversation by their self, like Pikachu. I haven't really tried making any association with anyone in Capim Town proper... Maybe I should try to...
 Q2: This statement is false.
 >I... What? I had to ask someone else about this one. I'm not some soulless robot, damn it! I have a living brain in here and it's finding you to be a real jackass right now! Go try that shit with Magnezone at the jail or something!
+
+###Turk
+Q1: I swear I'm not a cop.  Who's your dealer?  How do you get your supply?
+Q2: Besides an arm and a leg, whats missing from your life right now?  Any goals?  Aspirations? Or are you happy to life a quieter life?
 
 ###Pika
 Q1: What's the most important thing to have in a relationship?
@@ -274,9 +282,14 @@ Q2: Not to say you need a partner, being as talented as you are, but is there an
 Q3: Are you looking forward to evolution? 
 
 ###Lliam
-Q1: Do you ever need to punish guild members?  If so, how do you do it?
+Q1: Do you ever need to punish guild members? If so, how do you do it?
+>Hmm, I don't have to do that, as you guys are adults and know better... right? Well, if there is any case in which I have to resort to giving them a punishment... I guess it would last throughout the day, like giving them certain tasks to complete, having them survey a mystery dungeon that nobody has ever seen before, or partaking in tests on experimental wands and new techniques I've come up with, but the latter isn't recommended as there might be... side effects, yeah. Let's go with that, yeah.
+
 Q2: Are you known around Capim town as the guild's leader? Or have you avoided that reputation?
-Q3: Your job must be a handful.  How do you relax?
+>Admittedly, I prefer not to be known as that, but at this point, it's unavoidable as more and more people join the guild, and the sheer number of members we have must have gotten people in town talking... If I wanted to avoid attention, I would hide away the Clover Guild badge and wear a different outfit as I strolled around town. More often than not, they just assume I'm a different Meowstic coming around like a tourist of some sort.
+
+Q3: Your job must be a handful. How do you relax?
+>...Relax? I wouldn't stop until I'd delivered the promise... to him, and to the Floras... But if I were to relax, then I would be exploring through Mystery Dungeons with treasure hunting in mind instead of making an analysis and studying the fundamentals of how it works.
 
 ###Beau
 Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?

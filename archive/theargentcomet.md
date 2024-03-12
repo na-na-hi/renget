@@ -1,7 +1,7 @@
 #***Star-Crossed***
 
 ---
-#####**Prequel: [The Gifting Comet](https://rentry.org/fh7v6vcz) %limegreen%[SFW]%%**
+#####**Previous: [The Gifting Comet](https://rentry.org/fh7v6vcz) %limegreen%[SFW]%%**
 
 You don't *have* to read it but even though it was written as a humorous one-shot, it very much helps set up this story.
 

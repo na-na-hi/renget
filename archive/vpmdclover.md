@@ -156,6 +156,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [A Midwinter Feud (ft. Booker)](https://rentry.org/RibombeeMidwinter)
 	* [Learning to Fly ch. 4 (ft. Booker)](https://rentry.org/RibombeeFly4)
 	* [Waggle Dance (ft. Booker)](https://rentry.org/RibombeeDance)
+	* [A Ribombee's Anniversary](https://rentry.org/RibombeeAnniversary)
 * Bullet the Noivern
 	* [Team Variable 1: Treasure (ft. Bullet)](https://pastebin.com/5jeqWKYh)
 	* [Cold Awakening (Greentext Edition) (ft. Bullet)](https://rentry.org/o3ru4) **Non-Canon (Draft) Story**
@@ -358,8 +359,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The New Celeb of Sahara Town ch. 3 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh3) 
 	* [The New Celeb of Sahara Town ch. 4 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh4)
 	* [The New Celeb of Sahara Town ch. 5 (ft. Stumpy)](https://rentry.org/TheNewCelebOfSahraTownCh5)
-* Togetic
-	* [Togetic Backstory and Personality](https://rentry.org/w4ygz)
+* !~%green%[Togetic](https://rentry.org/ppiwikef)%%~!
 	* [Saved (Togetic's Recruitment)](https://rentry.org/tqb5q)
 	* [Togetic's Various Guild Misadventures](https://rentry.org/9sy7z)
 	* [Reunion (ft. Togetic)](https://rentry.org/72x5v)
@@ -446,7 +446,6 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Percival's Grand Entrance](https://rentry.org/5ne4g)
 * [Slingshot (ft. Booker)](https://rentry.org/RibombeeSlingshot)
 * [The Outlaw (ft. Chespin)](https://rentry.org/q7she)
-* [Togetic Backstory and Personality](https://rentry.org/w4ygz) 
 * [Branching Out](https://rentry.org/branching)
 * [Ross Goes Shopping pt. 2](https://rentry.org/gr4t7)
 * [Three Strangers Blow Into Town](https://rentry.org/kcb-0)
@@ -611,6 +610,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Circus Freaks (ft. Kenny)](https://rentry.org/kennyabra)
 * [One-Leaf Clover (ft. Cider)](https://rentry.org/CiderEntry001)
 * [Within Me ch. 2 (ft. Beau)](https://rentry.org/WithinMe2)
+* [A Ribombee's Anniversary](https://rentry.org/RibombeeAnniversary)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

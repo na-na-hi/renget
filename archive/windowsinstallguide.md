@@ -245,6 +245,8 @@ https://portapps.io/app/qbittorrent-portable
 
 
 #####Step 9 (Optional): Disable Telemetry
+https://github.com/troennes/private-secure-windows
+
 https://wpd.app
 https://www.oo-software.com/en/shutup10
 https://github.com/builtbybel/privatezilla#download

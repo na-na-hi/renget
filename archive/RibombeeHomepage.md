@@ -2,7 +2,7 @@
 
 -> ![My OCs (art by me!)](https://files.catbox.moe/fopc97.png) <-
 
-I’m Ribombee-anon, and I’m making this page to compile the work I’ve done for the Clover Guild collaborative fiction project. I’ve contributed a lot of stories and art, and they tend towards the serious/sincere side instead of being comedic or edgy, though it can vary from piece to piece. If you check out my stuff, I hope you find something to enjoy!
+I’m Ribombee-anon, and I’m making this page to compile the work I’ve done for the Clover Guild collaborative fiction project. I’ve contributed a lot of stories and art, and they tend towards the serious side instead of being comedic or edgy, though it can vary from piece to piece. If you check out my stuff, I hope you find something to enjoy!
 
 To learn more about the project, see our main page at https://cloverguild.com/
 

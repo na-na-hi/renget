@@ -18,7 +18,7 @@
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
 |
 **Papers**|
-[Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search every abstract
+[Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search via abstracts
 [Arxiv ML](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of machine learning papers 
 [PapersWithCode](https://paperswithcode.com)|Indexer that allows sorting by GitHub stars
 [Semantic Scholar](https://www.semanticscholar.org)|Scientific literature semantic search tool 
@@ -53,18 +53,18 @@
 |
 **LLM Tools**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Fine-tuning tool for various architectures with integrated support for flash attention and rope scaling 
+[LLM-Sampling](https://artefact2.github.io/llm-sampling/index.xhtml)|Token Probability visualizer with support for current popular samplers 
+[Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
+[promptfoo](https://github.com/promptfoo/promptfoo)|Tool for testing and evaluating LLM output quality also with side-by-side feature
+[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
+|
+**LLM Research**|
 [DropBP](https://github.com/WooSunghyeon/dropbp)|Randomly drops layers during backward propagation for quicker tuning with no reductions in accuracy
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
 [SPIN](https://github.com/uclaml/spin)|Self-play fine-tuning method that generates its own training data from previous iterations 
-[Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
-[promptfoo](https://github.com/promptfoo/promptfoo)|Tool for testing and evaluating LLM output quality also with side-by-side feature
-|
 [BESA](https://github.com/OpenGVLab/LLMPrune-BESA)|Differentiable weight pruning technique with blockwise parameter-efficient sparsity allocation
-[EBFT](https://github.com/sunggo/EBFT)|Fast and low memory fine-tune method for sparse models to undo some of the sparsification damage 
 [LongRoPE](https://github.com/microsoft/LongRoPE)|Uses two forms of non-uniformities in PI for better than YaRN fine-tune context extension or 8x without
-[EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
 [Temp LoRA](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRA module during text generation to preserve contextual knowledge 
-[Q-Probe](https://github.com/likenneth/q_probe)|Adapts an LLM to maximize a task-specific reward function that can work and improve fine-tunes
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
@@ -82,6 +82,7 @@
 [janitorai-cards](https://huggingface.co/datasets/AUTOMATIC/jaicards)|190k character cards converted to v2 format and viewable as local webpage
 [chub.ai](https://chub-archive.evulid.cc)|Archive of various character cards from chub as well as from some other sources 
 |
+**Dataset Tools**|
 [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit)|Generates multi-turn instruct-tuning data from input documents
 [dswav](https://github.com/devidw/dswav)|Audio dataset preparation tool using whisper and ffmpeg to transcribe and split inputs
 [lilac](https://github.com/lilacai/lilac)|Dataset curation tool for RAG or tuning with annotating/clustering/labeling support 
@@ -97,20 +98,20 @@
 [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)|Robust monocular depth estimation that works well with semantic segmentation
 [ProLab](https://github.com/lambert-x/ProLab)|Semantic segmentation via property-level label space rather than just categories 
 [LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution
+[DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)|VLM (1B and 7B) trained on OCR data that outperforms local 13B models and at OCR
 [ShareCaptioner](https://huggingface.co/Lin-Chen/ShareCaptioner)|Image captioning model with lower hallucinations than LLaVa 
-[LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
 [Spandrel](https://github.com/chaiNNer-org/spandrel)|Library for loading various upscaling models for use with chaiNNer or SD WebUI
 [SUPIR](https://github.com/Fanghua-Yu/SUPIR)|Image restoration and upscale method with semantic adjustment editing ability
 [DDColor](https://github.com/piddnad/ddcolor)|Vivid and natural colorization for black and white photos (and possibly video) 
 [lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
-[nougat](https://github.com/facebookresearch/nougat)|OCR model from Meta made to work well with LaTeX trained on academic papers
 [TripoSR](https://github.com/VAST-AI-Research/TripoSR)|Image-to-3D reconstruction model built upon the LRM network infastructure 
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [roop-cam](https://github.com/hacksider/roop-cam)|Real time face swap with webcam and one click video support
 [open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models
 |
 **Audio/Speech**|
+[Amphion](https://github.com/open-mmlab/Amphion)|Audio/Music/Speech toolset of various models with visualization capability 
 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|Few-shot voice cloning and Text-to-Speech WebUI (ENG/JPN/CHN)
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can fine-tune with custom dataset)
 [WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
@@ -127,7 +128,6 @@
 [EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
 |
 **Other**|
-[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 [T-Ragx](https://github.com/rayliuca/T-Ragx)|Translation fine-tune method that works with RAG (glossaries) and preceding text 
 [GenTranslate](https://github.com/YUCHEN005/GenTranslate)|Fine-tune of SeemlessM4T from N-best hypotheses dataset for MT and Speech-to-Text 
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM

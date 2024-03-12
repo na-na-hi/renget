@@ -694,6 +694,18 @@
 !!! info 9 Outfits!
 -> [Civitai](https://civitai.com/models/341803/mori-calliope-9-outfits-or-hololive-or-pony-xl) <-
 
+##### -> Takanashi Kiara <-
+!!! info A lot of outfits! Tag info in [TagInfo](https://warosu.org/vt/thread/S71048901#p71096820)
+-> [Catbox](https://files.catbox.moe/jsldkp.safetensors) <-
+
+##### -> Watson Amelia <-
+!!! info A lot of outfits! Tag info in [TagInfo](https://warosu.org/vt/thread/S71111862#p71138687)
+-> [Catbox](https://files.catbox.moe/v2m980.safetensors) <-
+
+##### -> AZKi <-
+!!! info 3 versions? Tag info in [TagInfo](https://warosu.org/vt/thread/S71159022#p71161797)
+-> [Catbox](https://files.catbox.moe/t1ea5a.safetensors) <-
+
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
@@ -743,6 +755,9 @@
 ##### -> Muu Muyu <-
 -> [Civitai](https://civitai.com/models/309439/muu-muyu-ponyxl) <-
 
+##### -> Kaminari Clara <-
+-> [Civitai](https://civitai.com/models/342486/kaminari-clara-ponyxl) <-
+
 #### -> 774 inc <-
 -> ![Nanashiinku](https://files.catbox.moe/cqfbty.png) <-
 ***
@@ -758,6 +773,12 @@
 
 ##### -> Nyatasha Nyanners <-
 -> [Civitai](https://civitai.com/models/332979/nyanners-vtuber) <-
+
+#### -> OWOzu <-
+-> ![OWOZU](https://files.catbox.moe/57hwxm.png) <-
+***
+##### -> Emikukis <-
+-> [Civitai](https://civitai.com/models/346250/virtual-youtuber-emikukis-ponyxl-autismmix-xl) <-
 
 #### -> Indies <-
 ***
@@ -784,3 +805,7 @@
 
 ##### -> Smug Alana <-
 -> [Civitai](https://civitai.com/models/336477/smugalana-vtuber) <-
+
+##### -> Shylily <-
+!!! info all outfits?
+-> [Civitai](https://civitai.com/models/344072/shylily-for-ponyxl-all-outfits) <-

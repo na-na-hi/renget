@@ -13,7 +13,7 @@
 **Current Slots** | 
 :----: | 
 People who entered with drawing: 3/5  | 
-People who entered with generation: 0/5   |
+People who entered with generation: 1/5   |
 !!! info I will be adding slots as I see fit to keep more people. This is a test for the moment.
 
 !!! danger You cannot share tokens, any attempt to share a token that you manage to see will end up in blacklist.
@@ -62,7 +62,7 @@ These are other characters I will be accepting for proxy access, for those who d
 You can try to send other characters, but there is no guarantee to get access.
 
 # Stats
-!!!Note 21 users | 2993 proompts | 39 IPs | 31.53m tokens | US$315.74 cost
+!!!Note 25 users | 3002 proompts | 41 IPs | 31.57m tokens | US$316.13 cost
 User||Prompts|IPs|Usage
 ---|---|---|---|---
 1.  Bro Wife | ...7f4a7 | 907 proompts   | 8 IPs    | 12.03m ($120.32) tokens       
@@ -72,19 +72,23 @@ User||Prompts|IPs|Usage
 5.  LittleLemon | ...9a625 | 140 proompts   | 2 IPs    | 631.4k ($6.87) tokens         
 6.  NoCheese | ...f1034 | 64 proompts    | 1 IPs    | 355.6k ($3.56) tokens         
 7.  Bunny (slut) | ...af0a7 | 16 proompts    | 16 IPs   | 56.3k ($0.40) tokens          
-8.  Drago | ...4934c | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-9.  Sono | ...2c540 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-10. Not Yae | ...726b6 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-11. Sei | ...fb6ab | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-12. THE RAT TOKEN | ...e8913 | 0 proompts     | 1 IPs    | 0 ($0.00) tokens              
-13. Arfy | ...9008d | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-14. JOJOJOJOJOJO | ...b4ff8 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-15. 1500RX | ...9eb22 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-16. ~~Anonymous~~ | ...739e0 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-17. Foxii | ...3ad99 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-18. Snooooooooooow | ...0570d | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-19. Robbie | ...0f53d | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-20. Chizu | ...fa3e0 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-21. Bokketo | ...91aeb | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+8.  Hunter  | ...082b0 | 5 proompts     | 1 IPs    | 38.1k ($0.38) tokens          
+9.  Robbie | ...0f53d | 4 proompts     | 1 IPs    | 1.6k ($0.01) tokens           
+10. Drago | ...4934c | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+11. Sono | ...2c540 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+12. Not Yae | ...726b6 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+13. Sei | ...fb6ab | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+14. THE RAT TOKEN | ...e8913 | 0 proompts     | 1 IPs    | 0 ($0.00) tokens              
+15. Arfy | ...9008d | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+16. JOJOJOJOJOJO | ...b4ff8 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+17. 1500RX | ...9eb22 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+18. ~~Anonymous~~ | ...739e0 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+19. Foxii | ...3ad99 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+20. Snooooooooooow | ...0570d | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+21. Chizu | ...fa3e0 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+22. Bokketo | ...91aeb | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+23. Anonymous | ...0ce6f | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+24. Cheese  | ...5b205 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+25. MichaelK | ...814a9 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
 
--> *(as of 2024-03-11T08:28:55.203Z)* <-
+-> *(as of 2024-03-12T03:43:15.279Z)* <-

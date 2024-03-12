@@ -41,10 +41,6 @@
 - A selection of video game music and some anime soundtracks that was created by volunteers to be as widely accessible as possible.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
 
-### 🐐 [Free MP3 Download](https://free-mp3-download.net/)
-- Obtains music from Deezer so you may download it in the best possible quality such as FLAC and genuine 320kbps without a membership.
-- [URL Safety Results](https://www.urlvoid.com/scan/free-mp3-download.net/)
-
 ### 🔗 [Hikari no Akari](https://hikarinoakari.com/)
 - Fantastic place to download Japanese music in both lossy and lossless quality, including vocaloids, pop, anime, and gaming.
 - [URL Safety Results](https://www.urlvoid.com/scan/hikarinoakari.com/)

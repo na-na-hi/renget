@@ -30,9 +30,7 @@ https://www.youtube.com/watch?v=2s0fTApRGTk
 \>Current Light Cone Banners: Earthly Escapade (Harmony), Before Dawn (Erudition) - https://www.hoyolab.com/article/25550638
 
 \>New Drip Marketing:
-\>Acheron (5\* Lightning Nihility) - https://www.hoyolab.com/article/24541891
-\>Aventurine (5\* Imaginary Preservation) - https://www.hoyolab.com/article/24561470
-\>Gallagher (4\* Fire Abundance) - https://www.hoyolab.com/article/24578989
+\>Robin (5\* Physical Harmony) - https://www.hoyolab.com/article/25852857
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 SB87P52BTVQ3

@@ -180,6 +180,7 @@ This page is a resource for finding links for corpos discussed in /corpo/. It is
 
 - Yume+
 	- [Twitter](https://twitter.com/YumePlusEN)
+	- [Website](https://yumeplus.org/)
 
 ### List of Company Mascots
 

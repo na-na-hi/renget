@@ -38,6 +38,16 @@ pyh to rwy:
 https://files.catbox.moe/ws5643.jpg
 rxb to tir:
 https://files.catbox.moe/yhg6tr.jpg
+tjt to ulx:
+https://files.catbox.moe/5pipmv.jpg
+ulz to viv:
+https://files.catbox.moe/pj5qsd.jpg
+vix to wgv:
+https://files.catbox.moe/niiwxt.jpg
+wha to xph:
+https://files.catbox.moe/w00hdt.jpg
+xpk to zzj
+https://files.catbox.moe/pjt03o.jpg
 
 Less consistent:
 aav to frw:
@@ -49,26 +59,19 @@ https://files.catbox.moe/6qpxyi.jpg
 oka to rrg:
 https://files.catbox.moe/hvy7re.jpg
 
+Some more repetitive ones:
+rzj to xlv:
+https://files.catbox.moe/jrk1xl.jpg
+xmj to zzr:
+https://files.catbox.moe/882h83.jpg
+
+
 There's an effort underway to identify the triggers.
 
 ###Hashed Styles
-arb - superbusty
-bnp - konpeto?
-aqe - melon22
-dhg - nyantcha?
-fqx - camonome?
-grt - dikko?
-mjm
-wfk
-lbp
-zkm
-qse
-ert
-hrt
-rer
-rty
-zzg - jvteemo
-
+**Update 3/11/2024**
+Here's a csv of the last version of a collaborative spreadsheet with some identified styles before it was sabotaged.
+https://files.catbox.moe/z5k1ge.csv
 
 ###Hashed Characters
 aua - houshou_marine 

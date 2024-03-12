@@ -26,7 +26,7 @@ Health Points | 1 |  Level 12 (22HP) | 24HP
 Attack | 0 | Attack Training Tier **ɪ** | +1 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 1 | Defense Training Tier **ɪ** | +2 Physical Mitigation
-Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
+Special Defense | 1 | Special Defense Training Tier **ɪ** | +2 Special Mitigation
 Speed | 0 (+1) |  Species Bonus | 5AP
 
 **MOVES (4 slots + Basic Attack)**
@@ -68,7 +68,7 @@ Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Attribute: ??? | N/A | 0/3 | ▯▯▯
 Training for Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | N/A | 0/5 | ▯▯▯▯▯
-Currently Training for Stat: Special Defense | 1 | 5/9 | ▮▮▮▮▮▯▯▯▯
+Currently Training for Stat: None | 1 | 0/9 | ▯▯▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
@@ -87,7 +87,7 @@ Item Name | Description
     Items in here cannot be stolen or lost during an adventure. They are kept protected in the base. However, they cannot be drawn from as they are in storage. Inventory should be updated outside an active adventure.
 Item Name | Description
 ------ | :----: 
-1. Big Apple | Gives +4 to any outside-combat-action.
+1. Empty | Nothing
 2. Meteor rocks | Purpose unknown.
 
 **RP/QUEST STORAGE (∞ slots)**
