@@ -1,5 +1,5 @@
 -> *%#dfc07b%✦%% a certain **darkness** is needed to see the %#dfc07b%**stars**%% %#59cedd%✮%%* <-
--> ![01/04/2024](https://media.discordapp.net/attachments/1185486874752589895/1193197206061203467/blur_edges_13.png?ex=65ec6ffe&is=65d9fafe&hm=74570a1eeb72a3ff27ff7fbdf0cb16ff08348eabd35f5cf154bcf15fd945fc2f&=&format=webp&quality=lossless&width=494&height=414) <-
+-> ![01/04/2024](https://media.discordapp.net/attachments/866987220048805929/1217062004141854780/blur_edges_13.png?ex=6602a851&is=65f03351&hm=fe9ba98147f6b3c246017eb615f099db75978f3b3ec3ad50fc680760864686b5&=&format=webp&quality=lossless&width=376&height=314) <-
 -> *the %#08c59f%shin tsukimi%% fan ever fr!11!!!1!* <-
 
 

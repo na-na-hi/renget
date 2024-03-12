@@ -1,3 +1,51 @@
+>Sudoplatov FPV night shots 
+https://files.catbox.moe/ozob0z.MP4 
+>American M109 “Paladin" after a Lancet strike 
+https://files.catbox.moe/l0f21e.mp4 
+>Sniper headshot 
+https://files.catbox.moe/n6axn9.mp4 
+>Russian air defense shoots down drone 
+https://files.catbox.moe/hcu2kf.mp4 
+>T-90M tank w/ dynamic protection and Volnorez EW system 
+https://files.catbox.moe/9kd5n4.mp4 
+>Ballistic missile takes out S-300 launcher in Druzhkovka 
+https://files.catbox.moe/k6xihx.mp4 
+>Massive TOS salvo on Tonenkoye 
+https://files.catbox.moe/hverw2.mp4 
+>3min of the destruction of Ukrainian boats 
+https://files.catbox.moe/6yeh33.mp4 
+>Russian advance near Nevelskoye 
+https://files.catbox.moe/it0arx.mp4 
+>Lancet destroys NASAMS control centre in Iksovodovy Kherson 
+https://files.catbox.moe/29l9r7.mp4 
+>5th Brigade (DPR) assault near Georgievka 
+https://files.catbox.moe/xaossp.mp4 
+>Russian demining vehicle takes multiple drone hits, still goes on 
+https://files.catbox.moe/a9xywm.mp4 
+>AFU's MiG-29 shot down near Pokrovsk 
+https://files.catbox.moe/br4938.mp4 
+>Ukrainian has the solution to Ukraine’s demographic problem 
+https://files.catbox.moe/m9vnxg.mp4 
+>AFU's Buk SAM in Sumy destroyed 
+https://files.catbox.moe/i2f6ek.mp4 
+>Geran-2 UAVs destroyed mercs in Kharkov hotel "Airport" 
+https://files.catbox.moe/m49xqs.mp4 
+>AFU BMP runs over his own soldier 
+https://files.catbox.moe/nbx4lr.mp4 
+>Challenger 2 stuck in mud 
+https://files.catbox.moe/mp3tqe.mp4 
+>Voldemort tried to escape from Ukraine to Moldova 
+https://files.catbox.moe/t2p6vu.mp4 
+>Su-34 drops FAB-500 w/ UMPC bombs 
+https://files.catbox.moe/a546wz.mp4 
+>LMUR destroys AFU post in Malinovka 
+https://files.catbox.moe/pppp4p.mp4 
+>RBK-500s drop on Kharkov oblast 
+https://files.catbox.moe/0zm8tx.mp4 
+>NATO red line according to Slovak Defense Minister 
+https://files.catbox.moe/g2t179.mp4 
+>Osoyed UAV net interceptor 
+https://files.catbox.moe/ef4875.mp4
 >Abrams getting a tan 
 https://files.catbox.moe/yy5h3r.MP4 
 >ATGM hit of 4th Abrams 

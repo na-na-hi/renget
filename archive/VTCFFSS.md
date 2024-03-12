@@ -633,6 +633,8 @@
 [Tower of Tattle Part VI: The Town, Episode 2: Forest Walk](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode02/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
 [Tower of Tattle Part VI: The Town, Episode 3: The Codex Sussurokawa](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode03/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
 [Tower of Tattle Part VI: The Town, Episode 4: The Vicereine](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode04/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Tower of Tattle Part VI: The Town, Episode 5: The Codex Assistant](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode05/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Tower of Tattle Part VI: The Town, Episode 6: The Creepy Peach](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode06/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
 
 ##### ->*Holoshorts*<-
 >Wedgies.

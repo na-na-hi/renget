@@ -163,7 +163,9 @@ Q2: This statement is false.
 
 ###Turk
 Q1: I swear I'm not a cop.  Who's your dealer?  How do you get your supply?
+>Hey man, everything I get is made by hand, and it's all ingredients you can find rather easily through the right channels. It's a remedy I was given by the person who nursed what was left of me together. I miss that old gal. My blend really lets the aura juices flow and keeps the aches away, yanno? It also makes me feel fucking amazing. Hehe... Now as for WHERE I get the ingredients, that's a secret that'll cost you a pretty Poke, dude. I can't let just anyone cut into that shit.
 Q2: Besides an arm and a leg, whats missing from your life right now?  Any goals?  Aspirations? Or are you happy to life a quieter life?
+>Gonna be honest, dude... I left a lot of things and people before I got here. Not just as a human, but with those Pokemon I met and adventured with after. I've been stuck in the Pokemon World probably longer than most of the humans in Clover Guild, and I pray they have their shit together more than I ever had or ever will. If I ever get my footing... pun unintended, bro, I maybe want to scrounge up the resources for a real place to call my own, a partner who can see me for the better than I can see myself with these dead old eyes, raise a couple of eggs, and let the world know that Turquoise was here, and he did his best damn it. But that's just, like, my opinion, bro. Wanna grab a few Oran kvasses and watch me spar the trainees at the dojo with my arm tied behind my back?
 
 ###Pika
 Q1: What's the most important thing to have in a relationship?

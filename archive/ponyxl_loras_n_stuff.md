@@ -17,11 +17,12 @@ An anon also created a LoRA extract of it if you want to experiment with it on b
 https://civitai.com/models/312010/4th-tail-lora-extract
 
 ##Reverse Engineered Hashed Tokens
-It seems like the obfuscated/hashed tokens in the model are only mapped to three letter strings. There's only about 17k possible 3 letter combinations so it might be possible to just reverse engineer the remapped tokens through brute force, here's a few that are already known, hopefully this list will be expanded.
+It seems like the obfuscated/hashed tokens in the model can often times be exposed through three letter strings (seems like substrings of the full hash). There's only about 17k possible 3 letter combinations so it's possible to just reverse engineer the remapped tokens through brute force, an amazing anon went through the trouble of genning every 3 letter combination and noting which combinations seemed to affect the style. Here's his latest update:
 
-**Update 3/11/2024**
-An anon has been generating images for each 3 letter combination and noting which ones seem to change the image significantly. Here's his output: 
+All tokens I found: https://files.catbox.moe/41sbn0.txt
+Zip with all images (small) and tokens: https://files.catbox.moe/tqb4go.zip
 
+Compilations:
 aaa to bzm:
 https://files.catbox.moe/c0rl1r.jpg
 cad to eum:
@@ -34,6 +35,10 @@ jkv to lek:
 https://files.catbox.moe/tj2aeq.jpg
 lgu to mkb:
 https://files.catbox.moe/p7qqaz.jpg
+mkg to nyj:
+https://files.catbox.moe/365n8h.jpg
+and nyp to pyb:
+https://files.catbox.moe/64zi6v.jpg
 pyh to rwy:
 https://files.catbox.moe/ws5643.jpg
 rxb to tir:
@@ -49,7 +54,7 @@ https://files.catbox.moe/w00hdt.jpg
 xpk to zzj
 https://files.catbox.moe/pjt03o.jpg
 
-Less consistent:
+Some more repetitive ones:
 aav to frw:
 https://files.catbox.moe/1z4efd.jpg
 fsp to klm:
@@ -58,8 +63,6 @@ kmq to ojn:
 https://files.catbox.moe/6qpxyi.jpg
 oka to rrg:
 https://files.catbox.moe/hvy7re.jpg
-
-Some more repetitive ones:
 rzj to xlv:
 https://files.catbox.moe/jrk1xl.jpg
 xmj to zzr:
@@ -70,8 +73,8 @@ There's an effort underway to identify the triggers.
 
 ###Hashed Styles
 **Update 3/11/2024**
-Here's a csv of the last version of a collaborative spreadsheet with some identified styles before it was sabotaged.
-https://files.catbox.moe/z5k1ge.csv
+Here's a csv of the lastest version of a collaborative spreadsheet with some identified styles.
+https://files.catbox.moe/0orv0f.csv
 
 ###Hashed Characters
 aua - houshou_marine 

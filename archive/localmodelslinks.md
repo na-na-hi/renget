@@ -13,9 +13,8 @@
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker)|Open Text-To-Speech models with relevant use case information 
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
-| 
-[Chat Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
+[Chat Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
 |
 **Papers**|
 [Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search via abstracts

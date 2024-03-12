@@ -1,25 +1,23 @@
 ->![The library](https://i.imgur.com/CiMf0PE.png)<-
 
-->![Funny](https://files.catbox.moe/ubahw4.png)<-
+->![Funny](https://files.catbox.moe/kwtdtb.png)<-
 
-## ->❄️[Recently added to the archive: 02/28/2024](https://youtu.be/pEg_d2f6myw)❄️<-
+## ->🌸[Recently added to the archive: 03/12/2024](https://youtu.be/Lna6x1kkSlM)🌸<-
 -> (AA is still not dead and will be back, please do not panic) <-
 #####->The next page of the archive can be found [here!](https://rentry.co/VTCFFCD2) (This page is full!)<-
 
--> (***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 2: Forest Walk](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode02/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-[Eternal Night](https://docs.google.com/document/d/e/2PACX-1vSp4zyhb5aRTwQPEC1w8YE6KAwF01_xJttxIkC6m2wdMCSPvivJyYPSTvyQmXuAJKsGvHqtEAzltAVw/pub) (Nerissa Ravencroft, SFW, Fluff)
-[Sea Salt Chocolate](https://docs.google.com/document/d/e/2PACX-1vSoH2Wd4DMDLGvL3jzoZJ9DUjIh78TJ7cv7lHZdsCHEUgrBgZMOdNL_HfyFOGoHGs6HvdbjCGbzth2w/pub) (Houshou Marine, Fluff, Comedy, Valentine's Day)
-[Shameful Desire Part 2: Regretful Desire](https://docs.google.com/document/d/e/2PACX-1vQ2S2zLiuzmQq0VfxAIPS-qmwK3ayAyllIQK6i8kgdVv4q4hIcDO5NXJyrkwiwl-E-kWQrI513ikZkV/pub) (Sakamata Chloe, NSFW, NTS+NTR, some romance)
-[The Star](https://docs.google.com/document/d/e/2PACX-1vQTDoYquVVtz8v2jclo7qfxDLekHgQ0TkNM2J3Xu1QudhHeBaT1K4eR49cTH9Wst1OruEY0yrFaNdAx/pub) (Suisei, Femanon/(you), Anemachi, age regression, mostly SFW, fluff)
-(***Series entry!***) [HoloJourneys: (Across Deserts to the Oceans Blue, A Shining Star Debuts) Chapter 42: A Lion's Homecoming](https://docs.google.com/document/d/e/2PACX-1vQT6fqDn1iBMq-52R_qyi_GhKZ5D-AOKYh36TcIlannLw9FPmn3o2XyALQ19uBZI10OjAuSNSKzT6sk/pub) (Watame, Flare, Polka, Nene, Pomu, Botan, Kiara, Marine, SFW, Action/Adventure, Fantasy, Fluff)
-[The Correction of Elira Pendora](https://rentry.org/9oykvcf9) (NSFW, Elira Pendora, Correction, Gangbang, Mindbreak, Impregnation, Big Tits)
-[Getting Papa Rat's Respect + Council parent's greentext comp](https://docs.google.com/document/d/e/2PACX-1vQRRn_zykOCyKOCTnI5PhtclrWLT0LdD7cTgkvGF1DnuyjRyFD0HQanUWoEal5cichwvlBB4UXUsnKu/pub) (Hakos Baelz, Papa Rat, Council, Greentext compilation, comedy, action)
-[Advent mating habits](https://rentry.org/gnarea87) (NSFW, ADVENT, Nerissa, Shiori, Bijou, Fuwamoco, greentext)
-(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 3: The Codex Sussurokawa](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode03/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-[Goldfeather, Ch1](https://docs.google.com/document/d/e/2PACX-1vT6YnufeirZEGpHAzweDLi58iTtUXSxH-REL2Ba0SD_LuWafVvPl3cnm71GMBRIGJRhnhWduBDb0j0a/pub) (Reine, incest, Indonesia, drama)
-[Cursed idol uniforms](https://docs.google.com/document/d/e/2PACX-1vQnLxZ5JHUa5knIgdcRQ-WJR_2NsQJRJYJgJHy2ZeHJ48oTsgoz0sUO9HWBfThDyos0cYCeFIElRuBj/pub) (Shitpost, comedy)
-(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 4: The Vicereine](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode04/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
-[Consolation Prize](https://docs.google.com/document/d/e/2PACX-1vQaiDLMu7tYwmyjE1AVwDYjalSQAKHORqx6-3TdncH5MliFClZDf1CPaz5MIJdJDrWDA1B76n0AYZKT/pub) (Eimi, NSFW, Netorase, Light Domination)<-
+-> [Always Hide Your Keys](https://docs.google.com/document/d/e/2PACX-1vTunzFPEtv_xrlj8cuk5MGlqVHttep2s0EjKbptu5csEXZVdzuvr4vWLyiO-oh9q6CdontU_wuvHCxv/pub) ((you), Matsuri, menhera, rape, impregnation, yandere, light DDLG, NSFW)
+(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 5: The Codex Assistant](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode05/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Nina greentext compilation](https://warosu.org/vt/thread/70178169#p70361067) (Nina Kousaka, greentext, romance, rivals to lovers)
+[Ame Saliva Greentext](https://warosu.org/vt/thread/70420599#p70424339) (Amelia Watson, greentext, saliva, kissing)
+[The Littlest Oni](https://docs.google.com/document/d/e/2PACX-1vS-AAcUHDNDlufbxoncfp20LP9azFptOltFcDOHVpKnD3DPYAW6QR_SN4Y2IgKZgXrnO1ChPkrm5pAh/pub) (Ayame, SFW, Childhood Trauma, Dark)
+[Suisei needs a shower!](https://docs.google.com/document/d/e/2PACX-1vSyMzJLVdQq_Yg2DakG0dUHV8viCS6x7OSMjWp3ADtxHOIQdI_txKtCw_mKwWcjFY_HtCHZaMeeqsug/pub) (Suisei, SFW, Short, Sweat, Smell Kink)
+(***Series entry!***) [Tower of Tattle Part VI: The Town, Episode 6: The Creepy Peach](https://anonymousnovelite.github.io/TowerOfTattle/PartVI/episode06/index.html) (SFW, Fantasy, Shiori, OC MC Friend, Female MC)
+[Collaring Zeta](https://rentry.org/5p8moatn) (Collar, Kemono, Vestia Zeta)
+[Red Mountain Terror, Chapter One](https://docs.google.com/document/d/e/2PACX-1vS3LV07UfknjudLjZBHtrGKB0Y-6U9lNgn6unnyqb4XpBBkcVUC80c8-PURp7WeRkaZ30hYUDaB-Cqj/pub) (horror, wilderness, Sora, Noel, Fubuki, Lui, Suisei)
+[CM Shion and Flare](https://docs.google.com/document/u/5/d/e/2PACX-1vT9PiRRS0wta57UdGmOqFWTTr17dE8bUY8YwAT49t0WlcvUgNUbaNgC1sLciIufJplPInwF4fT3Iab5/pub) (wedgie, baseball, flare, shion)
+[A Daring Odyssey - Prologue](https://docs.google.com/document/d/e/2PACX-1vTfJ42bjO-tXXIlgmu1aRNqUPRNI3tbWrJw1IAS0LyIzE2f7BHjG719Oi0jcAfjf7Sy4YbnpPfvXz5Z/pub) (Kanata, Towa, SFW, short, idk what goes in here desu)
+[Your Classmate Kanata](https://docs.google.com/document/d/e/2PACX-1vTf62Gh9WFs0VvD0hDmImG8ZfgvLzAbvAxMPEwzsGm-vpbCgvC7zk7k_DmNpFAzcF_ZdjYBn4BQ-k-u/pub) (reader POV, Kanata, bullying)<-
 
 
 ## ->Welcome to the /vt/ Chuuba Fanfiction Content Directory<-

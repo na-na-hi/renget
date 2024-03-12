@@ -3,7 +3,7 @@
 -> ![](https://i.postimg.cc/BvnTxVGc/phonto.png) <- 
 -> %#A95C68% 𖥔  ࣪ ⠀乀  ![](https://i.postimg.cc/Gp66VYKN/IMG-5527.gif) ⋆ ˚ ˖ %%
 ❝ my interests change every month 
-or so since i consume a lot of media! ♡♡ ❞<-
+or so since i consume a lot of media! ❞<-
 
 ***
 -> ![](https://i.postimg.cc/wTfH8sZV/Untitled32-20240311031531.png) <-

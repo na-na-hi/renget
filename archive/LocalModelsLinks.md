@@ -13,12 +13,11 @@
 [OpenModelDB](https://openmodeldb.info)|Specifically models for upscaling images and videos 
 [Open TTS Tracker](https://github.com/Vaibhavs10/open-tts-tracker)|Open Text-To-Speech models with relevant use case information 
 [Voice Models](https://voice-models.com)|Easily searchable list for use mainly with RVC 1/2
-| 
-[Chat Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
 [Models Info Table](https://lifearchitect.ai/models-table)|Googlesheet of models, AI labs, datasets, and various other ML info by Alan Thompson
+[Chat Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)|Closed and local models ELO rated with additional MMLU/MT-bench scores
 |
 **Papers**|
-[Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search every abstract
+[Local Models Papers](https://rentry.org/localmodelspapers)|Papers and articles I've found to be interesting with a way to search via abstracts
 [Arxiv ML](https://arxiv.org/list/cs.LG/pastweek?skip=0&show=250)|Primary source of machine learning papers 
 [PapersWithCode](https://paperswithcode.com)|Indexer that allows sorting by GitHub stars
 [Semantic Scholar](https://www.semanticscholar.org)|Scientific literature semantic search tool 
@@ -37,7 +36,6 @@
 [LLM Visualization](https://bbycroft.net/llm)|Drag and pull 3D model of various LLMs with explanation for components 
 [ML Flashcards](https://files.catbox.moe/otbc0d.zip)|By Chris Albon in PNG/ANKI/PDF formats
 [Principles of DL](https://arxiv.org/abs/2106.10165)|Textbook that introduces the math behind Deep Learning 
-[LLM-Sampling](https://artefact2.github.io/llm-sampling/index.xhtml)|Token Probability visualizer with support for current popular samplers 
 |
 **LLM Inferencing**|
 [Text Gen WebUI](https://github.com/oobabooga/text-generation-webui)|Frontend to most GPU/CPU model backends
@@ -54,18 +52,18 @@
 |
 **LLM Tools**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Fine-tuning tool for various architectures with integrated support for flash attention and rope scaling 
+[LLM-Sampling](https://artefact2.github.io/llm-sampling/index.xhtml)|Token Probability visualizer with support for current popular samplers 
+[Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
+[promptfoo](https://github.com/promptfoo/promptfoo)|Tool for testing and evaluating LLM output quality also with side-by-side feature
+[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
+|
+**LLM Research**|
 [DropBP](https://github.com/WooSunghyeon/dropbp)|Randomly drops layers during backward propagation for quicker tuning with no reductions in accuracy
 [LASER](https://github.com/pratyushasharma/laser)|Selectively remove higher-order components of LLM weight matrices for improved performance
 [SPIN](https://github.com/uclaml/spin)|Self-play fine-tuning method that generates its own training data from previous iterations 
-[Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
-[promptfoo](https://github.com/promptfoo/promptfoo)|Tool for testing and evaluating LLM output quality also with side-by-side feature
-|
 [BESA](https://github.com/OpenGVLab/LLMPrune-BESA)|Differentiable weight pruning technique with blockwise parameter-efficient sparsity allocation
-[EBFT](https://github.com/sunggo/EBFT)|Fast and low memory fine-tune method for sparse models to undo some of the sparsification damage 
 [LongRoPE](https://github.com/microsoft/LongRoPE)|Uses two forms of non-uniformities in PI for better than YaRN fine-tune context extension or 8x without
-[EAGLE](https://github.com/SafeAILab/EAGLE)|Fast decoding via second-top-layer contextual feature vectors
 [Temp LoRA](https://github.com/TemporaryLoRA/Temp-LoRA/tree/main)|Employs a temporary LoRA module during text generation to preserve contextual knowledge 
-[Q-Probe](https://github.com/likenneth/q_probe)|Adapts an LLM to maximize a task-specific reward function that can work and improve fine-tunes
 |
 **LLM Guiding**|
 [Langchain](https://github.com/hwchase17/langchain)|Set of resources to maximize LLMs Chains/tool integrations/agents/etc.
@@ -101,7 +99,6 @@
 [LLaVa](https://github.com/haotian-liu/LLaVA)|Visual language model now up to 34B and larger input image resolution
 [DeepSeek-VL](https://github.com/deepseek-ai/DeepSeek-VL)|VLM (1B and 7B) trained on OCR data that outperforms local 13B models and at OCR
 [ShareCaptioner](https://huggingface.co/Lin-Chen/ShareCaptioner)|Image captioning model with lower hallucinations than LLaVa 
-[LVM](https://github.com/ytongbai/LVM)|Large vision model using visual sentences instead of text to guide inference output
 [Upscale Hub](https://github.com/Sirosky/Upscale-Hub)|Set of resources and models for image and video upscaling (anime focused) 
 [Spandrel](https://github.com/chaiNNer-org/spandrel)|Library for loading various upscaling models for use with chaiNNer or SD WebUI
 [SUPIR](https://github.com/Fanghua-Yu/SUPIR)|Image restoration and upscale method with semantic adjustment editing ability
@@ -130,7 +127,6 @@
 [EAT](https://github.com/cwx-worst-one/EAT)|Audio and speech classification  
 |
 **Other**|
-[Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 [T-Ragx](https://github.com/rayliuca/T-Ragx)|Translation fine-tune method that works with RAG (glossaries) and preceding text 
 [GenTranslate](https://github.com/YUCHEN005/GenTranslate)|Fine-tune of SeemlessM4T from N-best hypotheses dataset for MT and Speech-to-Text 
 [Dragon+](https://github.com/facebookresearch/dpr-scale/tree/main/dragon)|Dual-encoder based dense retriever for use with the RA-DIT FT approach with paired LLM

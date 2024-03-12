@@ -12,11 +12,16 @@
 
 **Current Slots** | 
 :----: | 
-People who entered with drawing: 3/5  | 
+People who entered with drawing: 4/5  | 
 People who entered with generation: 1/5   |
 !!! info I will be adding slots as I see fit to keep more people. This is a test for the moment.
 
 !!! danger You cannot share tokens, any attempt to share a token that you manage to see will end up in blacklist.
+
+## Rules
+1. Do not share your token (in case of being discovered you will be blacklisted).
+2. Do not demand access (I have no obligation to do this for anyone. I do this because it entertains me).
+3. It's ok to let me know that I'm out of keys, it's not ok to demand that I put in more. I will add more when I have the time to do so.
 
 ## Requirements
 There are 2 different ways to have a token for my proxy...
@@ -62,11 +67,11 @@ These are other characters I will be accepting for proxy access, for those who d
 You can try to send other characters, but there is no guarantee to get access.
 
 # Stats
-!!!Note 25 users | 3002 proompts | 41 IPs | 31.57m tokens | US$316.13 cost
+!!!Note 26 users | 3007 proompts | 42 IPs | 31.61m tokens | US$316.47 cost
 User||Prompts|IPs|Usage
 ---|---|---|---|---
 1.  Bro Wife | ...7f4a7 | 907 proompts   | 8 IPs    | 12.03m ($120.32) tokens       
-2.  Japz | ...cf890 | 1051 proompts  | 1 IPs    | 11.10m ($111.00) tokens       
+2.  Japz | ...cf890 | 1056 proompts  | 1 IPs    | 11.13m ($111.34) tokens       
 3.  TomDash | ...ae476 | 746 proompts   | 9 IPs    | 6.51m ($65.15) tokens         
 4.  Clarisse | ...8abb4 | 69 proompts    | 1 IPs    | 846.8k ($8.44) tokens         
 5.  LittleLemon | ...9a625 | 140 proompts   | 2 IPs    | 631.4k ($6.87) tokens         
@@ -89,6 +94,7 @@ User||Prompts|IPs|Usage
 22. Bokketo | ...91aeb | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
 23. Anonymous | ...0ce6f | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
 24. Cheese  | ...5b205 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
-25. MichaelK | ...814a9 | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
+25. MichaelK | ...814a9 | 0 proompts     | 1 IPs    | 0 ($0.00) tokens              
+26. destrudaness | ...5064d | 0 proompts     | 0 IPs    | 0 ($0.00) tokens              
 
--> *(as of 2024-03-12T03:43:15.279Z)* <-
+-> *(as of 2024-03-12T08:11:09.689Z)* <-
