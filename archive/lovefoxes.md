@@ -3,6 +3,10 @@
 # -> [Female](#Female) - [Male](#Male)	-	[Other](#Other) <-
 ###  ->  because we love foxes <-
 
+!!! danger OUTDATED 
+    if it wasnt clear already this renty was abandoned. 
+    up-to-date one here: https://rentry.org/fluffytails
+
 -> **have a request? is a fox you like not on here?** <-
 -> contact me here: needkeysobad@proton.me <-
 ***

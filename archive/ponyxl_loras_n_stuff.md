@@ -79,8 +79,6 @@ https://files.catbox.moe/0orv0f.csv
 ###Hashed Characters
 aua - houshou_marine 
 
-
-
 ##List of Ponyxl LoRAs from /h/
 NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
 
@@ -335,6 +333,19 @@ https://rentry.org/shitty_loras#styles-pony-diffusion-v6-xl made_in_abyss, moshi
 https://mega.nz/folder/1yRSXQCR#Ziu9Q9Is5BCTYn53tnionw akatsuki_giken, alkemanubism, annin, aoin, chabo_fuketsudan, collagen, go_robots, ishida_umi, kafun, kaomin, kenya_suzuki, kink_(tortoiseshell), lucient, m_k, marui, miche, nezumi, nnf, pantsu_ruipper, RA, shizuoka, simzarts, testsuwan_woopie
 https://mega.nz/folder/NegX3DDL#NX3YguN8GSrEbOXuN918BA inhoso
 https://mega.nz/folder/fdoG2QDQ#6ZS_K55fY3g4NottW2NJng thanuki
+
+**Some popular NAI mixes made by anon into loras for pony, all too big for catbox**
+Preview pics of the below https://files.catbox.moe/8lm3ke.png
+https://pixeldrain.com/u/3onT5FsK {{artist:7010, artist:chirashi (so)}}, artist:wagashi (dagashiya), artist:asura (asurauser), artist:neisan
+https://pixeldrain.com/u/E4Ksme5a artist:j.k., artist:blushspicy, {{{artist:yd orange maru}}}, artist:cutesexyrobutts, artist:redrop
+https://pixeldrain.com/u/CAZHywwY artist:kemuri haku, artist:40hara at the very front| artist:hero neisan, zankuro at the very end
+https://pixeldrain.com/u/SypCZUFG artist:laserflip, artist:neisan, flanvia, starraisins, haruyama kazunori
+https://pixeldrain.com/u/rUFYyXeu [[[hungry clicker, nonco, optionaltypo, asura (asurauser)]]]
+https://pixeldrain.com/u/wxf9u6DK artist:kemuri haku, artist:40hara, artist:ikuchan kaoru, artist: pija
+https://pixeldrain.com/u/jSsoqXDs {{ratatatat74}}, highres, [sciamano240], [[[cutesexyrobutts]]], [hershuar]
+https://pixeldrain.com/u/Nqd7g34f artist:sciamano240, artist:cian yo
+https://pixeldrain.com/u/tf7xUX5F artist:xaxaxa, artist:iesupa, artist:fishine
+
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -366,6 +377,7 @@ https://files.catbox.moe/ydfkfj.safetensors character_seele_starchasm_nyx activa
 https://files.catbox.moe/0escz4.safetensors character_sindel activation trigger is sindel, helps to have multicolored_hair in the prompt to get the black streak in her hair to show up
 https://files.catbox.moe/pagyj3.safetensors character_agnes_tachyon activation trigger is agnes_tachyon_\(umamusume\)
 https://files.catbox.moe/ou15oe.safetensors character_rishiah_ivyred activation trigger is rishia ivyred, seemd like you need to prompt her features as well like green hair, green eyes, twin braids, very long hair, hair bow. example gen: https://files.catbox.moe/5t64vg.png
+https://files.catbox.moe/wvbk8j.safetensors character_yshtola activation trigger is yshtola
 
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen

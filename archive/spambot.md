@@ -82,4 +82,4 @@ If you have questions, suggestions, or logs to share, send me an email. Happy to
 
 -> ![monero](https://files.catbox.moe/k3erke.png) `41mgDN9FgwbEkZGkZn22NGEX2RQMDyYFeKGSR74EJYSqfec7UGUMac68XNw9z7GEd8G9MNDrvm9hKaJEm1NMQctU4v6qQTc` <-
 
--> ![](https://files.catbox.moe/0d4nau.gif) <-
+-> ![](https://files.catbox.moe/j8rq0b.gif) <-

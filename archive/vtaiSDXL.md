@@ -85,6 +85,8 @@
 -> [Civitai](https://civitai.com/models/299605/dokibird-xl) <-
 ##### -> Filian <-
 -> [Civitai](https://civitai.com/models/315110/filian-sdxl) <-
+##### -> Shanbao <-
+-> [Civitai](https://civitai.com/models/347014/shanbaosdxl) <-
 
 ***
 ### -> AnimagineXL <-
@@ -706,6 +708,10 @@
 !!! info 3 versions? Tag info in [TagInfo](https://warosu.org/vt/thread/S71159022#p71161797)
 -> [Catbox](https://files.catbox.moe/t1ea5a.safetensors) <-
 
+##### -> Yukihana Lamy <-
+!!! info other outfits, check tags from uploader
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/0BRT0bLT) <-
+
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
@@ -765,6 +771,12 @@
 !!! info 3 Outfits!
 -> [Civitai](https://civitai.com/models/326532/xl-10-rene-ryugasaki-or-sugar-lyric-774-inc) <-
 
+#### -> Prism Project <-
+-> ![PRISM PROJECT](https://files.catbox.moe/et0ocg.png) <-
+***
+##### -> (Gen 4) Nagare Sara <-
+-> [Catbox](https://files.catbox.moe/ilnqp6.safetensors) <-
+
 #### -> VShojo <-
 -> ![VSHOJO](https://files.catbox.moe/35i05q.png) <-
 ***
@@ -809,3 +821,7 @@
 ##### -> Shylily <-
 !!! info all outfits?
 -> [Civitai](https://civitai.com/models/344072/shylily-for-ponyxl-all-outfits) <-
+
+##### -> Neuro-sama V2 <-
+!!! info evil neuro and vedal included?
+-> [Civitai](https://civitai.com/models/346405/neuro-sama-for-ponyxl) <-

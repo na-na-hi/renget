@@ -13,10 +13,9 @@ Future Release Dates:
 「!」Princess Peach: Showtime! releases on March 22, 2024
 「!」Paper Mario: The Thousand-Year Door releases on May 23, 2024
 「!」Luigi’s Mansion 2 HD releases on June 27, 2024
-「!」Super Mario Bros Movie 2 releases on April 3, 2026
 
 Current News Links:
-「!」New Mario Movie in production, release dates for TTYD & LM2HD
+「!」Mario Movie 2 in production, release dates for TTYD & LM2HD
 https://www.youtube.com/watch?v=vfjmQlWRHgQ
 「!」Princess Peach: Showtime! Overview - 5th Trailer + Demo is out!
 https://www.youtube.com/watch?v=rp4CGMbKQwU

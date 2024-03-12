@@ -1,3 +1,5 @@
+Hai join my [rentry server](https://discord.gg/QJp3aJ8paw)
+
 ->![](https://files.catbox.moe/vjbufz.png)
 ![](https://files.catbox.moe/7c071t.png)<-
 ***

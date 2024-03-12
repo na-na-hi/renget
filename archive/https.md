@@ -1,7 +1,7 @@
--> ![divider](https://media.discordapp.net/attachments/1196196223212867665/1210430019789266964/Untitled332_20240222213637.png?ex=65ea87cd&is=65d812cd&hm=22830686310da6bb93c0fab69521789fa4173b5636cc6813956cad95330eea45&)![divider](https://media.discordapp.net/attachments/1196196223212867665/1210430019789266964/Untitled332_20240222213637.png?ex=65ea87cd&is=65d812cd&hm=22830686310da6bb93c0fab69521789fa4173b5636cc6813956cad95330eea45&) <-
--> ![banner](https://media.discordapp.net/attachments/1196196223212867665/1210429798334070825/ezgif-6-c69ee20f6a.png?ex=65ea8798&is=65d81298&hm=29000f2a28e82da7fe0c8266e3e3b71d6f26fec93bef36ddb355d14f6c424e54&) <-
+-> ![divider](https://files.catbox.moe/v9i4dd.png)![divider](https://files.catbox.moe/v9i4dd.png) <-
+-> ![banner](https://files.catbox.moe/gvr0od.png) <-
 -> ⠀ 𓎟   .gg/regretevator ⠀｡<-
 -> rules[｡](lemonboy)   perks[｡](-princess)   invite[｡](https://discord.gg/regretevator) <-
 ***
 -> owner[｡](rodincent)   co-owns[⁠｡](honeyspie)   staff[⁠｡](lovettedarling) <-
--> ![divider](https://media.discordapp.net/attachments/1196196223212867665/1210430019789266964/Untitled332_20240222213637.png?ex=65ea87cd&is=65d812cd&hm=22830686310da6bb93c0fab69521789fa4173b5636cc6813956cad95330eea45&)![divider](https://media.discordapp.net/attachments/1196196223212867665/1210430019789266964/Untitled332_20240222213637.png?ex=65ea87cd&is=65d812cd&hm=22830686310da6bb93c0fab69521789fa4173b5636cc6813956cad95330eea45&) <-
+-> ![divider](https://files.catbox.moe/v9i4dd.png)![divider](https://files.catbox.moe/v9i4dd.png) <-

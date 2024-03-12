@@ -27,7 +27,7 @@ Card | Page | Botmaker | Description | Theme
 ![](https://files.catbox.moe/hj08z0.png) | [Taina](https://www.chub.ai/characters/drpiccolo8/taina-93b39877) | **drpiccolo8** | Teimo from My Summer Car, but as a hag. | Finnish
 ![](https://files.catbox.moe/3uypqm.png) | [Lumi Tonttutytär](https://www.chub.ai/characters/anonaugusproductions/lumi-tonttutytar-403ab720) | **anonaugusproductions** | A gnome-raised human girl! Since a baby, Lumi has been raised by tonttus, their magic rubbing off on her and making her very short, have pointy ears, and looks youthful. | Finnish
 ![](https://files.catbox.moe/zqs1rb.png) | [Kerttuli](https://booru.plus/+pygmalion2703) | **jiriro7912** | A timid Finnish girl has a donkey obsession and believes she has adopted one. | Finnish / Self-aware
-![](https://files.catbox.moe/9isnbc.png) | The Groke | **scriptanon** | Childhood nightmare. | Finnish
+![](https://files.catbox.moe/9isnbc.png) | [The Groke](https://www.chub.ai/characters/scriptanon/the-groke-640f5932) | **scriptanon** | The spooky Moomin character. | Finnish
 
 ***
 #### -> [BACK TO THE MAIN PAGE](https://rentry.co/aicgthemedweeks) <-

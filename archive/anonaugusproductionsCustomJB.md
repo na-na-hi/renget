@@ -8,6 +8,8 @@ If you have feedback, suggestions, or just want to share how it's working for yo
 anonaugusprod@proton.me
 You can also give feedback through this anonymous form! > https://form.jotform.com/240468701446659
 
+### Claude has won: Since Claude 3, both Opus and Sonnet, has come out, I've been enjoying it greatly and don't see a point in continuing to develop my furbo JBs. I thank everyone for their feedbacks but will focus on Claude for now on. Squadalla!
+
 ## DevTok CoT Version
 Newest one. Many big changes from the Sus X, trying a different approach. This one changes the AI to act as the narrator, not role-player. Many other changes as well, including a very simple and short CoT, and incorporating the first part of Neo-furbo's JB, since it.
 (Deprecated) First version: https://files.catbox.moe/wfqhz9.json (NOT UP-TO-DATE)

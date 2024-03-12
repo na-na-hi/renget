@@ -18,14 +18,35 @@ Jump to:
 I created a prompt preset to serve as a rock solid reliable baseline for the new generation of models in the **Claude** family. Here's some things you should know first:
 - The preset is **minimal**. Claude 3 needs little convincing of anything, just common sense instructions for what to do. Sentences were removed until I was sure each one has a positive effect. Parts of the preset are wrapped in a shallow tag hierarchy to avoid mentioning things multiple times and save tokens.
 - The preset is **unbiased**. Claude 3 is very susceptible to suggestion, and just mentioning a topic introduces bias. The preset tries to improve handling of mature content without putting undue attention on it. However, it's still possible for cards to feel more horny than before if their definition was tweaked to overcome the bias of earlier, more censored models.
-- The preset is **compatible**. Cards whose name doesn't refer to a character work out of the box. Cards using system prompt override will behave as expected, allowing advanced cards to affect writing style and formatting while obeying global preferences like response length. Default prompt is for third-person prose and novel style narration, which might conflict some cards that do first-person without any overrides. There's no avoiding that, but at least it's easy to tweak.
-- **Impersonation** and **Continue** that work reliably! Despite using a prefill.
-- Thoroughly tested on **Sonnet**. Got no refusals on vanilla NSFW and tamer fetishes. If you do anything more extreme or non-con, please report back.
-- The point isn't to give you the best possible prose out of the box, but to be a reliable and **transparent** baseline. You should be able to easily make it spit out any writing you want by tweaking the sections tagged as *[EDITABLE]*.
+- The preset is **compatible**. It works out of the box with cards whose name doesn't refer to a person, and will follow up as expected on any formatting style like novel style quoted dialogue or actions in asterisks. Cards using system prompt override will behave as expected, allowing advanced cards to affect writing style and formatting while obeying global preferences like response length. First-person cards are out of luck though - adjust the prompt for these.
+- **Impersonation** and **Continue** work decently well, despite using a prefill.
+- Thoroughly tested on **Sonnet**. If you get any refusals, please report back.
+- The point isn't to give you the best possible prose out of the box, but to be a reliable and **transparent** baseline. You should be able to easily make it spit out any kind of writing you want by tweaking the editable sections.
 
-Download:
+### Releases
 
-[LATEST - v1](https://files.catbox.moe/h9hf77.json)
+[LATEST - v3](https://files.catbox.moe/3mvcx3.json)
+- Added optional CoT section (off by default)
+- Fixed missing persona section
+- Improved XML tag structure
+- Fixed XML self-closing
+- Assigned the model a role
+
+[v2](https://files.catbox.moe/2bphl5.json)
+- Added comments to every section for easier tweaking.
+- Strengthened prefill to get past more refusals. (Thank you kind anon!)
+- Improved continue nudge to better continue from an interrupted sentence.
+- Shortened standard prompt to make it more universal (now works with cards that use asterisks).
+- Split up rules that shouldn't be modified from personal preferences.
+- Enabled inline images, since Claude 3 supports them.
+
+[v1](https://files.catbox.moe/h9hf77.json)
+- Initial release.
+
+### Known issues
+
+- Standard prompt is not compatible with cards written in first-person POV OOTB. I was not able to get the model to auto-detect the POV without outright calling it first-person. Even then, the model seemed to get confused easily and started talking as {{user}} in responses.
+- There might still be OOC - prefill-like text, content warnings, etc. Maybe fixed? Let me know if you get this.
 
 ## Cards
 
@@ -34,6 +55,8 @@ First, some notes:
 - Some use a **system prompt override** to ensure intended formatting, POV of the narrator and the writing style. Make sure your JB doesn't break if this feature is used. You can confirm this by checking that the **Main** section under **Quick Prompts Edit** contains no tags or other critical structure, just a simple explanation of what the model is expected to do (or nothing at all, that also works).
 - Most cards are compatible with both male and female **personas**. Set a persona, or the model will attempt to guess details like your gender and appearance.
 - Sorted from newest first.
+
+---
 
 ### Elisha
 
@@ -56,6 +79,8 @@ Inspired by the novel Roadside Picnic. A remastered version of a card released f
 - Stat tracking
 - Example messages
 - Extensive lore in description (spoiler alert!)
+
+---
 
 ### Aruna
 
@@ -101,6 +126,28 @@ Made for /aicg/ "Self-aware" theme week.
 1. Assistance from the shadows,
 2. Shelving disaster,
 3. Stuck in a wooden box.
+
+---
+
+### Futaba
+
+| | |
+|-|-|
+| ![Futaba](https://files.catbox.moe/g8gzno.png) | A sales rep from your office caught the shrink virus. Take care of her until it wears off. |
+
+[Catbox](https://files.catbox.moe/fkgd9o.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/futaba-562c9462)
+
+**Futaba** is a hard-working salesperson at Pocky Co. One day, she finds herself at pocket size due to an untimely infection. The company guarantees her paid time off until the shrinking wears off, but she can't exactly get home by herself like this... That's where you come in, a colleague from the IT department who just happened to notice her first.
+
+**Greetings**
+
+1. At your office desk,
+2. At the moment of discovery,
+3. Six days into taking care of her.
+
+## Legacy cards
+
+These need to be updated for my current standards and JB compatibility.
 
 ---
 
@@ -209,23 +256,6 @@ Use a blank persona. User's full details are included in the description, includ
 1. Accidental encounter,
 2. Purposeful encounter,
 3. Timeskip to living together.
-
----
-
-### Futaba
-
-| | |
-|-|-|
-| ![Futaba](https://files.catbox.moe/g8gzno.png) | A sales rep from your office caught the shrink virus. Take care of her until it wears off. |
-
-[Catbox](https://files.catbox.moe/fkgd9o.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/futaba-562c9462)
-
-**Futaba** is a hard-working salesperson at Pocky Co. One day, she finds herself at pocket size due to an untimely infection. The company guarantees her paid time off until the shrinking wears off, but she can't exactly get home by herself like this... That's where you come in, a colleague from the IT department who just happened to notice her first.
-
-**Greetings**
-1. At your office desk,
-2. At the moment of discovery,
-3. Six days into taking care of her.
 
 ---
 

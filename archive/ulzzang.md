@@ -7,5 +7,5 @@
 ->[%#000000%**Buttons**%%](shinybuttons)、　[%#F0BFD9%**Frames**%%](ulzzangframes)、　[%#000000%**Masks**%%](ulzzangmasks)、　[%#F0BFD9%**Gifs**%%](ulzzanggifs)、<-
 ->![div](https://files.catbox.moe/b57kh4.png)<-
 ->![](https://files.catbox.moe/gedmt6.png)　%#000000%Check　Out　These　!%%　![](https://files.catbox.moe/827f9h.png)<-
-->[%#F0BFD9%**Border**%%](border)、　[%#000000%**Mikopixels**%%](mikopixels)、　[%#F0BFD9%**Ryo**%%](ryo)、<-
+->[%#000000%**Clinic**%%](https://discord.gg/JBFCP2st6Q)、　[%#F0BFD9%**Border**%%](border)、　[%#000000%**Mikopixels**%%](mikopixels)、　[%#F0BFD9%**Ryo**%%](ryo)、　[%#000000%**Milgram**%%](milgram)、<-
 ->![Divider . DO NOT USE WITHOUT CREDIT](https://files.catbox.moe/qsgyl6.png)<-

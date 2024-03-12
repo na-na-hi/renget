@@ -2160,6 +2160,35 @@ Calvin "Freckle" Allen McMurray (Lackadaisy)
 
 https://files.catbox.moe/bk1xqq.safetensors
 
+Zackary911 (Style - PDXL V6)
+>Zackary911 LoRA trained on Pony XL V6. No activation token needed.
+https://files.catbox.moe/5mncy0.safetensors
+
+Nomax (Style - PDXL V6)
+>Nomax LoRA trained on Pony XL V6. No activation token needed.
+https://files.catbox.moe/f4oowd.safetensors
+
+Oouyuki Benten (Style - PDXL V6)
+V1:
+>Oouyuki Benten LoRA trained on Pony XL V6. No activation token needed.
+https://files.catbox.moe/08qqo3.safetensors
+
+V1.2:
+>Oouyuki Benten XL LoRA ver 1.2, now with 100% less black_bars when multiple characters are involved.
+https://files.catbox.moe/2o67it.safetensors
+
+KitaKettu (Style - PDXL V6
+>KitaKettu LoRA trained on Pony XL V6. No activation token needed.
+https://files.catbox.moe/koh1a4.safetensors
+
+Mauzymice (Style - PDXL V6)
+>Mauzymice LoRA trained on Pony XL V6. No activation token needed.
+https://files.catbox.moe/wjotw5.safetensors
+
+Dagasi (Style - PDXL V6)
+>Dagasi LoRA trained on Pony XL V6. No activation token needed.
+https://files.catbox.moe/huw2dl.safetensors
+
 # Xenomorphs
 https://pixeldrain.com/u/3zaypdh5
 > Trained on Fluffyrock e53 offset noise e38 for 15 epochs at 10 repeats with clip skip 1.
