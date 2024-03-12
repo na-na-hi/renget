@@ -1332,3 +1332,101 @@
     >- Targeting a gathering and deployment of Zionist enemy vehicles and soldiers with several heavy mortar shells east of Beit Hanoun in the northern Gaza Strip.  
     >https://nitter.poast.org/warfareanalysis/status/1766936676348174831#m  3/10/24  
     ***
+!!!danger
+    > | 🌍 BIG SUMMARY of all resistance operations today, March 10 (2024), against (US)-israeli forces:
+    
+    >— 🇵🇸 Al-Qassam Brigades:
+    >🔻Detonated a pre-rigged house targeting an Israeli infantry force, in the Bani Suhaila area, east of Khan Yunis, southern Gaza Strip.
+    >    
+    >🔻Engaged in clashes with an Israeli force inside a tunnel, causing injuries to several of its soldiers in the Bani Suhaila area, east of Khan Yunis, southern Gaza.
+    >🔻Fatally shot an israeli soldier from a mechnized unit, in the head, in the Bani Suhaila area east of Khan Yunis, southern Gaza.
+    >
+    >🔻Sniped an Israeli soldier with a Qassam rifle, south of Tal al-Hawa in Gaza City.
+    
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shot down an israeli drone, during its reconnaissance mission, northeast of al-Bureij in central Gaza.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Targeted a gathering of IOF forces, with short-range rockets, southeast of Gaza City.
+    >
+    >🔻Targeted a gathering and deployment of IOF forces with heavy-caliber mortar shells, east of Beit Hanoun, northern Gaza.
+
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >
+    >🔻Shelled a gathering of israeli soldiers and vehicles with a barrage of heavy-caliber mortar shells, in the axis west of Khan Yunis.
+    >
+    >🔻Shelled a gathering of israeli soldiers on Street 10, south of the Zaytoun neighborhood, east of Gaza City.
+    >
+    >🔻Targeted an IOF military vehicle with RPGs, in the axis west of Khan Yunis, southern Gaza.
+    >
+    >🔻Targeted a Merkava tank with RPGs, in the axis west of Khan Yunis.
+    >
+    >🔻Shelled a gathering of israeli soldiers and vehicles with a barrage of 60mm mortar shells in the axis west of Khan Yunis.
+
+    >— 🟡 Hezbollah (12 operations)
+    >
+    >🔻Shelled the settlement of Meron with dozens of Katyusha rockets.
+    >
+    >🔻Launched an air attack with 2 kamikaze drones, targeting the artillery positions in Arar, hitting their targets accurately.
+    >
+    >🔻Targeted a gathering of israeli soldiers, east of the Birkat Risha site with rockets.
+    >
+    >🔻Targeted the Ramia site and its equipment with appropriate weapons.
+    >
+    >🔻Targeted an IOF “Namer” military vehicle at the Al-Malikiyah site.
+    >
+    >🔻Targeted spy equipment at the radar site in the occupied Shebaa Farms with appropriate weapons.
+    >
+    >🔻Targeted the Al-Rahib site and the deployment of israeli soldiers around it, with Burkan IRAM rockets.
+    >
+    >🔻Targeted the Maale Golan site with rockets.
+    >
+    >🔻Targeted the Maale Golan barracks for the 2nd time, with dozens of Katyusha rockets.
+    >
+    >🔻Targeted the Al-Samaqa site in the occupied Kfar Shuba heights with rockets, hitting it directly.
+    >
+    >🔻Targeted an IOF patrol unit while it was entering the Malikia site, with appropriate weapons.
+    >
+    >🔻Targeted the Ramtha site in the occupied Kfar Shuba heights with rockets, hitting it directly.
+    >https://t.me/FotrosResistance/5841  3/11/24  
+    ***
+!!!warning     
+    >🚨According to UKMTO, a vessel southwest of Yemen’s Saleef was targeted in an attack. The vessel reported an explosion in its vicinity.
+    >https://t.me/FotrosResistance/5845  3/11/24  
+    ***
+    >BREAKING: An israeli UH-60 Black Hawk helicopter semi-crashed at the Nevatim Airbase. 3 IOF officers were wounded and the helicopter sustained damage.
+    >https://nitter.poast.org/AryJeay/status/1767153998522409191#m  3/11/24  
+    ***
+    >⚡️Lebanon: Hezbollah :  
+    >
+    >We targeted, with 4 assault drones, the air and missile defense headquarters in the Kaila barracks, and the targets were hit accurately.
+    >https://nitter.poast.org/ME_Observer_/status/1767169825216881001#m  3/11/24  
+    ***
+    >Media coverage | According to The Guardian, numerous human rights organizations in Israel have collectively signed an open letter, accusing the country of failing to comply with the International Court of Justice's (ICJ) provisional ruling, which requires the facilitation of humanitarian aid access into Gaza.
+    >https://nitter.poast.org/QudsNen/status/1767202634081972523#m  3/11/24  
+    >
+    >In a dangerous precedent, and for the first time since 1967, the occupation army today placed barbed wire on the fence adjacent to the mosque in the Bab al-Asbat area.
+    >https://t.me/me_observer_TG/166005  3/11/24  
+    >https://files.catbox.moe/s2i52e.mp4  3/11/24  
+    ***
+    >The crescent of Ramadan as it appeared a short while ago in the sky of Palestine
+    >https://t.me/me_observer_TG/166048  3/11/24  
+    ***
+    >Despite restrictions imposed by Israeli forces, Palestinians flood to the Al-Aqsa Mosque to perform Taraweeh prayers in occupied Jerusalem.
+    >https://t.me/QudsNen/98440  3/11/24  
+    ***
+    >United States of America: The US State Department: The temporary port has emerged as another way to deliver humanitarian aid to #Gaza, given that the crossings are not yet safe.
+    >https://t.me/me_observer_TG/166088  3/11/24 
+    ***
+    >WATCH: Hezbollah published a video showing the operation targeting the Al-Rahib site
+    >https://t.me/FotrosResistance/5849  3/11/24  
+    >https://files.catbox.moe/gro63k.mp4  3/11/24  
+    ***
+    >The first day of Ramadan has passed, yet thousands of Palestinians in Gaza still haven't found any food to break their fast.
+    >https://t.me/QudsNen/98451  3/11/24  
+    ***
+    >United States of America: Annual US intelligence assessment: Netanyahu’s ability to remain a leader, as well as his ruling coalition, may be at risk.
+    >https://t.me/me_observer_TG/166242  3/11/24  
+    ***

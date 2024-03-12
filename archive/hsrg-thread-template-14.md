@@ -3,6 +3,9 @@
 ***
 Previous: >>
 
+\>Version 2.1 "Into the Yawning Chasm" Special Program will be released on March 16 at 19:30 (UTC+8)
+https://www.twitch.tv/honkaistarrail/schedule
+
 \>Download - https://hsr.hoyoverse.com/en-us/home
 
 \>2.0 Preview Page - https://act.hoyoverse.com/sr/event/e20240126version-pp3ay8/index.html
@@ -32,7 +35,7 @@ https://www.youtube.com/watch?v=2s0fTApRGTk
 \>Gallagher (4\* Fire Abundance) - https://www.hoyolab.com/article/24578989
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
-SB87P52BTVQ3 (NEW)
+SB87P52BTVQ3
 6B976L2STURF
 STARRAILGIFT
 DIVEINTODREAMS

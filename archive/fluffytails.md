@@ -5,12 +5,13 @@
 
 -> **have a request? is a fox you like not on here? any suggestions for the rentry? any complains?** <-
 -> ~~just tell me in the threads~~ <-
--> send an e-mail to bigfluffytails@proton.me. don't be shy. <-
+-> send an e-mail to bigfluffytails@proton.me. don't be shy. you can also ask in the threads but I'm not always there. <-
+-> catbox links are not updated and are more for archival purposes than anything else. be sure to download directly from the creator's chub/rentry page to always get the latest version! <-
 ***
 -> ==Latest Update 2/25/24== <-
 -> Going to update gradually, posting what I see on the thread and Chub. Will do another batch if I see a fox botmaker I haven't discovered before or I get sent a fuckton of new ones at once. <-
 -> *Added to Male: Rylie* <-
--> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila, Loba* <-
+-> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila, Loba, Caoimhe MacKenna, Elizabeth, Melissa* <-
 
 -> ==Previous Update 2/21/24== <-
 -> *Added to Male: Kheti* <-
@@ -107,8 +108,9 @@ Character  |  Preview  |  Description  |  Links
 **Emma** | ![Emma](https://files.catbox.moe/cja7dw.png) | Your Kemonomimi foxgirl childhood friend finds you homeless after years apart. More or less a role-reversal of Hope, the card just above this one. | [CHUB](https://chub.ai/characters/totalethicistdeath/emma-bd1bd1d9) [CATBOX](https://files.catbox.moe/qbq2es.png)
 **Leila** | ![Leila](https://files.catbox.moe/0rwgm9.png) | Your petite foxgirl wife that wakes up one morning to find she's now over a foot taller, and has a significant height advantage over you. | [CHUB](https://www.chub.ai/characters/totalethicistdeath/leila-3125c9ce) [CATBOX](https://files.catbox.moe/5o0mj0.png)
 **Loba** | ![Loba](https://files.catbox.moe/jfvjtb.png) | **SIZEFAGGOTRY** - You got lost during an Arctic expedition to map out the relatively unknown lands of the Arctic Circle; you lost track of your caravan during a very strong blizzard; your body finally stops tumbling as something hard breaks your fall; you slowly lose consciousness as everything goes to dark; some time passes; and your senses start to return to your body; you appear to be wedged between two huge, fleshy, smooth, and warm boulders; and you quickly realize your predicament. You are lying between the massive boobs of a slumbering fox-like creature who has mistaken you for its offspring. | [CHUB](https://chub.ai/characters/Genoo/loba-2440c2c5) [CATBOX](https://files.catbox.moe/fj4yh6.png)
-
-
+**Caoimhe MacKenna** | ![Caoimhe MacKenna](https://files.catbox.moe/dayjgm.png) | Wyvern Rider gf that has great base stats and growths; comes with a Master Lance, a Killer Axe and an Elixir and is overall very easy to recruit. Also light affinity and easy to get supports with {{user}}. [Blue Paint version for when (You) seduce her.](https://files.catbox.moe/br58mc.jpeg)| [DESUARCHIVE](https://desuarchive.org/g/thread/99430667/#q99430689) [CATBOX](https://files.catbox.moe/p2hrkn.png)
+**Elizabeth** | ![Elizabeth](https://files.catbox.moe/lhvw4n.png) | A vampiric foxgirl that has lived in near total isolation since 1755. Lost in the dark, you stumble on her cabin. | [CHUB](https://chub.ai/characters/totalethicistdeath/elizabeth-14ea2b65) [CATBOX](https://files.catbox.moe/58dedb.png)
+**Melissa** | ![Melissa](https://files.catbox.moe/a4sqew.png) | Melissa is your outwardly cold but inwardly loving fox wife who had a rather nasty accident that ended up with her neck fractured. For the time being, she needs your help with her daily tasks. | [CHUB](https://chub.ai/characters/victrex/melissa-cdba9252) [CATBOX](https://files.catbox.moe/o0s7an.png)
 
 ### Existing Characters
 Character  |  Preview  |  Description  |  Links
@@ -143,3 +145,4 @@ Character  |  Preview  |  Description  |  Links
 -> There is no definitive quality control on this Rentry. <-
 ***
 -> [![ran! ran! ran! ran love!](https://files.catbox.moe/rlqomn.png)](https://www.youtube.com/watch?v=ewGbGpEp-dM) <-
+-> *sketchy painterly anime style, a girl with long brown hair wearing a green victorian era dress, she has heterochromia with one red eye and one green eye, she has a lace hairband, she has fluffy fox ears and two fluffy fox tails, she has a small smile* <-

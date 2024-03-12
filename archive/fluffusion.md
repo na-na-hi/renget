@@ -1,7 +1,7 @@
 #Fluffusion
 
 ##NEWS:
-R3 in training, but takes five and a half days an epoch for 2.305 million files! Uses v-prediction - bring a YAML.
+R3 is done for now! Uses v-prediction - bring a YAML.
 
 1024x model looking potentially Stable Cascade based.
 
@@ -26,8 +26,8 @@ Fluffusion is a 704 base resolution model with aspect ratio buckets, Clip Skip 2
 
 Note: Epoch 13 and up contain the Furception VAE by default - just set VAE to `none` in Auto to use it, or in Comfy, drag the VAE node from the R3 epochs that contain it. This does not affect images going into the model - only latents converting into normal images. Not images being converted into latents.
 
-* E21 soon
-* E20 soon
+* E21 soon - when I get time to run it.
+* E20 https://pixeldrain.com/u/zBiQrQDz
 * E19 https://pixeldrain.com/u/vTkjukxS
 * E18 https://pixeldrain.com/u/XwsMUSNz
 * E17 https://pixeldrain.com/u/PWpi54HC

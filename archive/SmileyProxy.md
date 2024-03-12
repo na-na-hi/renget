@@ -12,7 +12,7 @@
 
 **Current Slots** | 
 :----: | 
-People who entered with drawing: 2/5  | 
+People who entered with drawing: 3/5  | 
 People who entered with generation: 0/5   |
 !!! info I will be adding slots as I see fit to keep more people. This is a test for the moment.
 

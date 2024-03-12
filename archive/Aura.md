@@ -1,6 +1,6 @@
 [Back](/rei)
 
-Hi i am Asia, nyaja, reihda or mina
+Hi i am Asia, nyaja, or mina
 
 I'm fourteen years old
 

@@ -56,11 +56,6 @@ Kazumi | Info
 ![Kaz](https://files.catbox.moe/mah6ie.png) | I try to help my *thicc* mom lose weight with yoga, ends up getting her pregnant. 
 Links   | Catbox: https://files.catbox.moe/uyxry2.png
 
-Karin | Info
------- | ------
-![Karin](https://files.catbox.moe/09icae.png) | The shotacon Karin finds a far too trusting young boy alone in the park and takes him home with her. (Incomplete)
-Links   | Catbox: https://files.catbox.moe/pcrsqd.png
-
 Mako | Info
 ------ | ------
 ![Mako](https://files.catbox.moe/7sgrei.png) | My shy girlfriend tries to use a hypnosis-app to make me rougher with her in bed. It does work...in a way. Made by Doujin.

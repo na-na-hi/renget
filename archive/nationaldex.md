@@ -1,5 +1,5 @@
 -> RENTRY . CO / **NATIONALDEX** ***!!!*** <-
--> a resource for pokemon sprites & pixels by [light](https://tumblr.com/knigato) & [crow](harmonia).<-
+-> a resource for pokemon sprites & pixels by [light](sysfaker) & [crow](smt).<-
 ---
 **update log!**
 09/20/23 : NATIONALDEX begins ! added #0001 - #0151.

@@ -18,6 +18,14 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Hunted – The Demon’s Forge [Gnarly Repacks] [5.60 GB] - REUPLOAD
+https://bin.0xfc.de/?99203aa5cbc5c445#E7sw6yHmiSgeYF2YoxRUJKyNAfv17M39CvbZKfq6Z6sh
+Clive Barker’s Jericho [Gnarly Repacks] [From 1.96 GB] - REUPLOAD
+https://bin.0xfc.de/?40904c3f366daba1#4ZSSD6mGRgKpwwJN7qqXRbAdSzRN1pH1pbQw7zm68fMd
+The Sly Collection (+RPCS3) [Gnarly Repacks] [15.2 GB] - REUPLOAD
+https://bin.0xfc.de/?84b1ccc3fbc9f2f7#DMCZRbLxGDeXc1ajcMjKJZ3qXWdCWpPzBZoycjDgiXsS
+Sly Cooper – Thieves in Time (+RPCS3) [Gnarly Repacks] [9.90 GB] - REUPLOAD
+https://bin.0xfc.de/?72f8b119454faed6#8RoXKxdmvi7cL5GupgDXfA5PAtLKWLNFMX7Uo24SSeHY
 Yakuza 3 (+RPCS3, DLC) [Gnarly Repacks] [12.9 GB] - REMADE (via request, apparently the PS3 version has stuff that the PC remaster cut)
 https://bin.0xfc.de/?7ba20e53a9b20085#6gyMaPXX7pdwJvg3ecGtSTHSdGhgpFie7ePmQ4F5qdvB
 Hitman Absolution - Professional Edition [Gnarly Repacks] [8.19 GB] - REUPLOAD
@@ -561,8 +569,6 @@ Alice: Madness Returns – The Complete Collection [Gnarly Repacks] [5.33 GB]
 https://bin.snopyta.org/?35921b9e9ce0f821#FG524ygznTCWXbxhnJLXvGC2CDNzr1KEnX5LhcNdanjV
 Void Bastards [Gnarly Repacks] [648 MB]
 https://bin.snopyta.org/?97a712ab50ecc942#4KJthBDsZYYMvf3GDnM7xVGRQL4PstpZGXqpynLkK5fK
-Hunted – The Demon’s Forge [Gnarly Repacks] [5.60 GB]
-https://bin.snopyta.org/?68b1165c4b94a0d2#7RL28tajqsC12SgAeiNLKBUh8xAsRUVqJLA5mnMWMbfQ
 Unravel Duology [Gnarly Repacks] [6.10 GB]
 https://bin.snopyta.org/?2e24a82402b4340c#Dncqx13UuNNxb2r1XVzmiJXqyL8kKsnj6AJwdPyM8W25
 Sid Meier’s Civilization V – Complete (+Multiplayer) [Gnarly Repacks] [4.93 GB]
@@ -607,8 +613,6 @@ Delta Force Anthology (1998-2009) [Gnarly Repacks] [1.94 GB]
 https://bin.snopyta.org/?80d844efbe1903cd#ENjKYKnvJJKYg9NmwtQ7K6bUpPS7NJKGgfbsJ57RxmtR
 METAL GEAR SOLID (+WS Fix) [Gnarly Repacks] [645 MB]
 https://bin.snopyta.org/?eccc7b80e0a674a7#CuBrjGhEjbaKuc67t5BDiWCwgD9XvmCfPmZDFqvh5zFZ
-Sly Cooper – Thieves in Time (+RPCS3) [Gnarly Repacks] [9.90 GB]
-https://bin.snopyta.org/?03ab759b67a1d5ba#2dvQb37riLbwYCnFpg8iQUSUoLUzYtpXvsiMTy5tNDkB
 The Elder Scrolls III – Morrowind GOTY (+OpenMW, Patch for Purists) [Gnarly Repacks] [952 MB]
 https://bin.snopyta.org/?e745722ed0866a99#H7QZtB89Dt6FedAKLiCkJfeSzvjoJ6kkgHSpVazRueA9
 Drakengard 3 (+DLC, RPCS3) [Gnarly Repacks] [From 8 GB]
@@ -623,8 +627,6 @@ Hades (v1.38177) [Gnarly Repacks] [From 3.84 GB]
 https://bin.snopyta.org/?e6afcd64939dc1c7#6myfTcBSxbVu4nPwSvSQofp4hkAGhoX36rh8UWRVjFiD
 Drakan – Order of the Flame [Gnarly Repacks] [265 MB]
 https://bin.snopyta.org/?ba3086e3bab73bb0#9CL9dNBwLo8T6MWWMLmVDdgeFKRGSVixVkFkaqTnoZKK
-Clive Barker’s Jericho [Gnarly Repacks] [From 1.96 GB]
-https://bin.snopyta.org/?606952b9bdb91e23#3QYtZkh7nntMnfcBwyCxJEJyYhUCKgzaDYr1bhdmNndP
 Wheelman [Gnarly Repacks] [3.74 GB]
 https://bin.snopyta.org/?e6e1a5e7db751edc#CPentnf1Dj6z41X2BRwFcnrNoQvSEGj3RDioiMG3K2tL
 POSTAL 2 [Gnarly Repacks] [2.43 GB]
@@ -770,8 +772,6 @@ https://paste.0xfc.de/?5c085d0e71430f66#DsnjLCJ8tCyScDG2EbJGisxP1aTDRix4LgijnPFw
 Killzone HD (+RPCS3) [Gnarly Repacks] [2.86 GB]
 https://paste.0xfc.de/?5d108599762e7725#7S6oTfujXE2AAqvu68EBouV1Q2DhGP7JGf6ERyH6riP2
 https://filecrypt.co/Container/34D2C985F2.html (Krakenfiles)
-The Sly Collection (+RPCS3) [Gnarly Repacks] [15.2 GB]
-https://paste.0xfc.de/?6e60685f7f362aff#FfmAADtQVjaJfKvsRHp2ZuoBzdnffwszjbx24SUAc79b
 Gears of War 3 (+Xenia) [Gnarly Repacks] [6.74 GB]
 https://paste.0xfc.de/?bf92d783c0b3ead6#AXkp2FFS9ZehPyiUFbxABueNsHXV9CbU75QsmUS9Pegg
 Killer is Dead – Nightmare Edition [Gnarly Repacks] [5.71 GB]

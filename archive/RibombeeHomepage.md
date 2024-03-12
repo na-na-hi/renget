@@ -2,7 +2,7 @@
 
 -> ![My OCs (art by me!)](https://files.catbox.moe/fopc97.png) <-
 
-I’m Ribombee-anon, and I’m making this page to compile the work I’ve done for the Clover Guild collaborative fiction project. Hope you enjoy checking out my stuff!
+I’m Ribombee-anon, and I’m making this page to compile the work I’ve done for the Clover Guild collaborative fiction project. I’ve contributed a lot of stories and art, and they tend towards the serious/sincere side instead of being comedic or edgy, though it can vary from piece to piece. If you check out my stuff, I hope you find something to enjoy!
 
 To learn more about the project, see our main page at https://cloverguild.com/
 
@@ -12,7 +12,7 @@ To learn more about the project, see our main page at https://cloverguild.com/
 
 ##Characters
 
-My main characters in the Clover Guild are Team Brave (Booker the human-turned Ribombee and a native Sneasel), but I also have a secondary team, Team Buckler (Cooper the human-turned-Torchic and Testa the native Squirtle).
+My main characters in the Clover Guild are Team Brave (Booker the human-turned-Ribombee and a native Sneasel), but I also have a secondary team, Team Buckler (Cooper the human-turned-Torchic and Testa the native Squirtle).
 
 
 ###Team Brave
@@ -59,7 +59,7 @@ A friendly and playful native Squirtle who lived on the Air Continent and formed
 
 ##Artwork
 
-The Clover Guild inspired me to learn how to draw digitally with a mouse, and get more serious about my art (though I’m still an amateur (for now)). My artwork can be found on our booru here: https://cloverguild.com/booru/posts/query=ribombee-anon
+The Clover Guild inspired me to learn how to draw digitally with a mouse (and later a drawing tablet), and generally get more serious about my art. I’m still an amateur, but... I’m working on it. My artwork can be found on our booru here: https://cloverguild.com/booru/posts/query=ribombee-anon
 
 
 ---
@@ -268,4 +268,11 @@ Also note that I have a sort of anthology called “Booker’s Journal; or, My T
 - **Published**: 12-15-23
 
 ###A Ribombee’s Anniversary
-*Coming soon...*
+- https://rentry.org/RibombeeAnniversary
+- **Synopsis**: It’s the first anniversary of the day Booker arrived in the new world and met Sneasel. The duo revisits a special place to celebrate, but as stress and distraction creep into their minds, the special occasion veers towards a disaster. But if they can overcome the challenge and make it through, the reward will make everything worthwhile... and change their lives.
+- **Word Count**: ~11,200
+- **Featured Characters**: Booker, Sneasel, Cooper, Testa
+- **Timeline Placement**: Exactly 1 year after “A Ribombee’s Arrival” (and therefore almost 1 year after the guild’s founding)
+- **Required Reading**: A Ribombee’s Arrival (https://rentry.org/RibombeeArrival), In the Dead of Night (https://rentry.org/RibombeeJournal#in-the-dead-of-night), The Shine of a Sneasel’s Gem (https://rentry.org/RibombeeGem), A Midwinter Feud (specifically Chapter 4) (https://rentry.org/RibombeeMidwinter)
+- **Genre/Themes**: Drama, Romance, Slice-of-life, Action
+- **Published**: 3-11-24

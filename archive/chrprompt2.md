@@ -86,11 +86,14 @@ Q1: It is well known that you love to eat food, but do you have any favorite foo
 > A: Don't scold me for my gluttony, I can't help it! I used to be ripped, but ever since I acquired a mysterious case of head trauma, I've had the insatiable urge to eat. Spicy food is my favorite, although anything's good, really.
 
 Q2: Most embarassing thing you've done due to your hunger?
+> A: "Shame" is not a word in my vocabulary.
 Q3: What are the upsides and downsides of travelling with Asana?
-
+> A: Assy's better at preparing stuff and planning than I am, and her Aura stuff practically weeds out any ambushes before they happen. As for the bad stuff about her, she's kind of nitpicky and gets onto me a lot, especially when it comes to my eating habits. I know I consume a lot, but that's the whole reason why we split the bounties we get 50/50 - I get to eat what I want, and her wallet is safe from me. 
 ###Asana
 Q1: In your travels, you've been exposed to or taught a number of crafts, such as baking and pottery.  Are you interested in pursuing these arts further?
+> A: Baking sounds nice. I liked hanging around that Mienfoo back in Redkiln, even though he was a kook. His passion for his craft was kind of infectious.
 Q2: How do you feel about bounty-hunting?  Would you ever settle down?  Or is life on the road all you crave?
+> A: I'll only consider settling down when age begins to catch up to me. As for bounty hunting, it's a good way to gain income and hone my skills, although the former might be changing soon. I heard that the Sand Continent pays more than other locales, so I'm expecting a pay cut of some sort once we dock where ever that cargo ship is taking us. I know Makuhita would definitely groan about it, since less Poke means less food. 
 
 ###Tybo
 Q1: Do you accept pets?  If so, from who?  
@@ -196,19 +199,29 @@ Q2: Have you ever considered writing a memoir, to put all your deep thoughts on 
 
 ###Adrian
 Q1: What is it like being a Flareon compared to Umbreon?
+>A pretty major downgrade in all honesty. At the very least I'm not nocturnal anymore so I can actually wake up in the mornings again. I guess I do feel extremely warm constantly now. Probably something to do with being a fire type. Also, I can't use psychic anymore so I'm back to having no hands and being unable to pick up anything.
 Q2: How are you dealing with suddenly being so fluffy? No, really. Are there any additional steps of care, or anything like that, that you need to do now that you didn't as an Umbreon? Along the same lines, is there anything that you don't need to do that you did before?
+>Firstly, don't call me fluffy. I have a mane. I don't need to brush it or anything, although it does build up heat like crazy. Occasionally I have to shake off the heat, and I can't do it around Vileplume or Bellossom unless I want to burn them.
 Q3: Considering your team has two grass-types on it, do you think you're going to need to be more careful to avoid friendly fire now?
+>We never really had issues with friendly fire before unless Enny was hitting me with his disarming voices. Even now, most of my attacks force me to rush in while Vileplume and Bellossom keep their distance and shoot off their powders.
 
 ###Vileplume
 Q1: How long have you and Bellossom been doing guild work?  Would you consider yourselves experienced?
+>We weren't really associated with the guild until we decided to sign up as recruits. I'm honestly surprised we got in at all considering neither of us were human and the whole guild is... that. I wouldn't really say we're experienced, or even that good. We just don't give up, partially because Adrian would probably flip out if we did.
 Q2: How has you opinion of Adrian changed?  Has he gotten easier to work with over time?
+>Absolutely not. On any mission we go on, he gets the final say on our plans, no matter what the situation is or how bad the plan is. It's gotten us into trouble in the past, hell it was his plan going wrong that got him turned into an eevee. At the very least, I understand where he comes from since I've had to take up the role of leader a couple times. I don't envy his position at all.
 
 ###Bellossom
 Q1: Do you have any funny stories about Vileplume from when you were young?
+>Oh, there's all kinds of stories! Him and I used to explore the woods outside Capim Town and search for treasure when we were Oddish. One time he chased a wild rattata into its burrow and got his head stuck in it. I couldn't pull him out since I didn't have hands, so we had to wait for our mom to come over and pull him out. 
+>He also used to have a big fear of heights, and we had to climb a tree once to escape a pack of poochyenas. When they left, he didn't want to come down because he was even more scared of falling! Evolving really changed him, though. He's more worried nowadays than scared like he used to be.
 
 ###Enny
 Q1: Why the obsession with women's fashion?
+>Um... because it looks nice and it's comfortable! Besides, it looks great on me! 
 Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
+>Oh, I love all kinds of animes and manga! I was really into it, which really confused my older brother. We had a pretty rocky relationship growing up, and we never really reconciled. He blamed for making our dad leave when we were young and never really reconciled. Things got a little better over High School, but we grew so distant after he moved out... 
+>Anyways! I really loved Love Live Sunshine! We Never Learn was always nice to turn on after a bad day! Fate Apocrypha was really confusing to me, but I really liked Astolfo! Honestly, I never really got into Dragonball or One Piece even though I know they're really popular. Fairy Tail was pretty good though! You know, I kind of got to live that magical guild fantasy when I joined Clover Guild. Really weird how that worked out. I could go on for ages, honestly
 
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?

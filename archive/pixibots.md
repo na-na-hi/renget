@@ -21,6 +21,7 @@ I created a prompt preset to serve as a rock solid reliable baseline for the new
 - The preset is **compatible**. Cards whose name doesn't refer to a character work out of the box. Cards using system prompt override will behave as expected, allowing advanced cards to affect writing style and formatting while obeying global preferences like response length. Default prompt is for third-person prose and novel style narration, which might conflict some cards that do first-person without any overrides. There's no avoiding that, but at least it's easy to tweak.
 - **Impersonation** and **Continue** that work reliably! Despite using a prefill.
 - Thoroughly tested on **Sonnet**. Got no refusals on vanilla NSFW and tamer fetishes. If you do anything more extreme or non-con, please report back.
+- The point isn't to give you the best possible prose out of the box, but to be a reliable and **transparent** baseline. You should be able to easily make it spit out any writing you want by tweaking the sections tagged as *[EDITABLE]*.
 
 Download:
 

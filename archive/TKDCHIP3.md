@@ -55,7 +55,10 @@
     ***
     >Hezbollah: Scenes from the operation targeting a "Namer" vehicle of the occupation army at the Malikia site.   
     >https://files.catbox.moe/3mis2d.mp4  New   3/10/24 
- !!!note
+    ***
+    >WATCH: Hezbollah published a video showing the operation targeting the Al-Rahib site
+    >https://files.catbox.moe/gro63k.mp4  New  3/11/24  
+!!!note
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
     >https://files.catbox.moe/37e8yj.mp4  New  3/1/24
@@ -183,4 +186,7 @@
     ***
     >Video: A young man is prevented from entering Al-Aqsa Mosque and instructed to return. 
     >https://files.catbox.moe/31sspy.mp4  New  3/10/24  
+    ***
+    >In a dangerous precedent, and for the first time since 1967, the occupation army today placed barbed wire on the fence adjacent to the mosque in the Bab al-Asbat area.
+    >https://files.catbox.moe/s2i52e.mp4  New  3/11/24    
     ***

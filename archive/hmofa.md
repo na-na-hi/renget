@@ -3,7 +3,7 @@
 -> Last updated at #2772 ( Fri 12/22/23 19:45:28 ETC ) <-
 
 == **LINKS**
-- [Masterbin](https://rentry.org/hmofa)
+- [STORY UPDATE LIST](https://rentry.org/ymu5zs)
 - [Tag Catalog](https://hmofa.neocities.org/) (Tags and Descriptions)
 - [Outerbin](https://rentry.org/hmofa3) (Stories From outside /HMoFA/)
 - [/HMoFA/ Games](https://docs.google.com/document/d/1HZSVPdzcNr17vmXQTdLLI2nvdg-X1ltmtW1NQvDqvgw) (Maintainer: fwappriciator@gmail.com)
