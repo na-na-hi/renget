@@ -5,20 +5,21 @@
 ->![](https://i.ibb.co/8NZhfFp/eatchel-jk.webp)<-
 # 
 !!! note
-	10/03/2024: Added [1.7 Event Menu Button Labels](https://rentry.org/snobleaks/#17-event-menu-button-labels)
+	10/03/2024: Added [1.7 Event Menu Button Labels](https://rentry.org/snobleaks/#17-event-menu-button-labels), updated 11 March
 	09/03/2024: Added [1.6 Text Changes](https://rentry.org/snobleaks/#16-text-changes)
 	07/03/2024: Added [1.7 Story Preview](https://rentry.org/snobleaks/#17-story-preview)
 	05/03/2024: Added [1.6 Paradox Labyrinth Expansion](https://rentry.org/snobleaks/#16-paradox-labyrinth-expansion)
 	05/03/2024: Moved from https://rentry.org/eatchel and https://rentry.org/katyabuff
 # 
 ###%powderblue%1.7 Event Menu Button Labels%%
+Updated text after 11 March Hotfix in %green%green%%.
 Key|Note|zh_CN|en_US
 -|-|-|-
 TxtDLC7Shop|Shop|零区夜市|Aleph Night Market
 TxtDLC7Mission|Mission|月影残片|Moonlight Fragments
-TxtDLC7.BtnStory|Main Story|素影遗痕|Echoes of Shadows
+TxtDLC7.BtnStory|Main Story|素影遗痕|~~Echoes of Shadows~~ %green%Gradient of Souls%%
 TxtDLC7.BtnDefense|Solo Wave Defense|长夜未央|Infinite Darkness
-TxtDLC7.BtnOnline|Brave Squad|空白梦魇|Void Dread
+TxtDLC7.BtnOnline|Brave Squad|空白梦魇|Void %green%of%% Dread
 TxtDLC7.BtnRefresh|Farm Stage|赐福集会|Hallowed Assembly
 TxtDLC7.EventBtnInvite|Co-Op Invite|邀请入队|Invite
 TxtDLC7.EventTimeInvite|Co-Op Invite Time Out|%s后可邀请|Can invite after %s

@@ -245,10 +245,6 @@
 - Superb aggregator re-using freely available content from the internet, delivering movies, TV shows, animation, and asian dramas.
 - [URL Safety Results](https://www.urlvoid.com/scan/uniquestream.net/)
 
-### ▶️ [Vumoo](https://vumoo.to/)
-- Indulge in a treasure trove of obscure movies and TV shows. Bid farewell to all the unnecessary inconveniences.
-- [URL Safety Results](https://www.urlvoid.com/scan/vumoo.to/)
-
 ### ▶️ [Watchug](https://watchug.com/)
 - Provides an extensive range of films, spanning drama, comedy, action, sci-fi, and beyond.
 - [URL Safety Results](https://www.urlvoid.com/scan/watchug.com/)

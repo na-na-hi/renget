@@ -825,3 +825,8 @@
 ##### -> Neuro-sama V2 <-
 !!! info evil neuro and vedal included?
 -> [Civitai](https://civitai.com/models/346405/neuro-sama-for-ponyxl) <-
+
+#### -> Misc <-
+***
+##### -> (Nerissa) Mamarissa Ravencroft <-
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/gMhGVBDB) <-

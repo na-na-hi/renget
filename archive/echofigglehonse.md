@@ -32,7 +32,7 @@
 - Dragon (Dragon is usually merged with human in some way, like being humanoid)
 - Snow Leopard. Fancy Mouse. Robot
 - Ghost. Spider. Fancy Pigeon / Dove
-- Sloth Bear. Sun Bear. Grizzly Bear
+- Sloth Bear. Sun Bear. Grizzly Bear. Possum
 - Jaguar. Puma. Lion. Gecko. Black Bear
 - Sheep, lambs. Raccoon. Serval
 - Tanuki. Chinchilla.

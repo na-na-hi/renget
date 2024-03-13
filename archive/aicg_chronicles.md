@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-03-06==
+# /aicg/ chronicles, up to ==2024-03-12==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1300,6 +1300,36 @@ When | Where | What
 2024-03-06|[99348254](https://desuarchive.org/g/thread/99348212#99348254)| Claude 3 vs GPT4 benchmark results comparison might have been unfair
 2024-03-06|[99348797](https://desuarchive.org/g/thread/99348212/#99348797)| anon continues comparative testing, is revealed to be braindead, asks to disregard this
 2024-03-06|[99349453](https://desuarchive.org/g/thread/99348212#99349453)| twitter considers Claude 3 Opus to be better than GPT4 Turbo at coding
+2024-03-06|[unredact](https://twitter.com/skirano/status/1765238754615181531)| Claude 3 used to hallucinate the redacted parts of OAI's emails
+2024-03-06|[Unsloth](https://unsloth.ai/blog/gemma-bugs)| Gemma has bugs
+2024-03-06|[99353417](https://desuarchive.org/g/thread/99350889#99353417)| Silly holds a contest for the best original general purpose AI assistant
+2024-03-06|[FSDP](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)| a 70B model can be trained on two 24GB GPUs
+2024-03-07|[trained](https://twitter.com/AnimaAnandkumar/status/1765613815146893348)| a 7B model can be trained on a single 24GB GPU
+2024-03-07|[99359970](https://desuarchive.org/g/thread/99359740#99359970)| ChatGPT memory is remembered, temporary chats won't be remembered, usage policies change noticed
+2024-03-07|[99366485](https://desuarchive.org/g/thread/99365534#99366485)| Claude 3 is claimed to have gotten worse within a few days
+2024-03-08|[99372051](https://desuarchive.org/g/thread/99370515#99372051)| anon shares CSS for Silly on mobile
+2024-03-08|[99386510](https://desuarchive.org/g/thread/99383315#99386510)| virtual number services have a dedicated Claude option
+2024-03-08|[99388740](https://desuarchive.org/g/thread/99373721#99388740)| Claude 3 Opus is the new drug that allows anons to feel happiness again
+2024-03-09|[99390814](https://desuarchive.org/g/thread/99389155#99390814)| Anthropic employs automatic review process to combat free trial abuse...
+2024-03-09|[99395941](https://desuarchive.org/g/thread/99395204#99395941)| ... and fakes the email refusal error
+2024-03-09|[99398837](https://desuarchive.org/g/thread/99397715#99398837)| Claude 3 Opus excels in weird/complex formatting/stat tracking
+2024-03-09|[468705829](https://arch.b4k.co/vg/thread/468527441#468705829)| sj\.u2b\.cx youtube raw video file proxy shared
+2024-03-10|[99409995](https://desuarchive.org/g/thread/99409495#99409995)| plans for a CharacterHub app to be released are brought to attention
+2024-03-10|[99410537](https://desuarchive.org/g/thread/99409495#99410537)| c\.ai being a vore haven remains a known fact
+2024-03-10|[99411672](https://desuarchive.org/g/thread/99409495#99411672)| yet another new frontend bait
+2024-03-10|[99412875](https://desuarchive.org/g/thread/99412237#99412875)| DALL-E 3 frontend shilled
+2024-03-10|[99418020](https://desuarchive.org/g/thread/99416822#99418020)| Claude 3 Sonnet lacks abilities, Opus is too good at imitating
+2024-03-10|[468920870](https://arch.b4k.co/vg/thread/468527441#468920870)| Claude 3 Opus recall ability praised
+2024-03-10|[99421325](https://desuarchive.org/g/thread/99419711#99421325)| h2oGPT demo exposed
+2024-03-11|[99422373](https://desuarchive.org/g/thread/99422315#99422373)| c\.ai anti-filter petition has 150k signatures
+2024-03-11|[99424042](https://desuarchive.org/g/thread/99421289#99424042)| some open source models are better than some old proprietary models
+2024-03-11|[99428007](https://desuarchive.org/g/thread/99427900/#99428007)| anon adds google search access to Silly
+2024-03-11|[99428691](https://desuarchive.org/g/thread/99427900#99428691)| CharacterHub app released
+2024-03-11|[musk](https://twitter.com/elonmusk/status/1767108624038449405)| xAI promises to open source Grok this week
+2024-03-11|[99433646](https://desuarchive.org/g/thread/99430667#99433646)| IP counter is gone
+2024-03-12|[99441695](https://desuarchive.org/g/thread/99439847#99441695)| anon explains how to keep down the costs of slowburns with Claude 3
+2024-03-12|[99445788](https://desuarchive.org/g/thread/99445345#99445788)| UCI faculty & staff get free GPT4.5 ZotGPT
+2024-03-12|[99448605](https://desuarchive.org/g/thread/99448538#99448605)| AWS Claude 3 is claimed to be quantized hence dumber
 -|-|-
 
 [](you have found my secret stash of nothing!)

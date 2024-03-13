@@ -1430,3 +1430,195 @@
     >United States of America: Annual US intelligence assessment: Netanyahu’s ability to remain a leader, as well as his ruling coalition, may be at risk.
     >https://t.me/me_observer_TG/166242  3/11/24  
     ***
+!!!danger  
+    >| 🌍 BIG SUMMARY of all resistance operations yesterday, March 11 (2024), against (US)-israeli forces:
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shelled heavily with mortar shells the headquarters and control center of the IOF, south of Gaza City.
+    >
+    >🔻In a joint-operation with the Martyr Omar Al-Qassem Forces, they shelled IOF forces surrounding the Bakrun building south of the Al-Zaytoun neighborhood in Gaza.
+    
+    >— 🇵🇸 Al-Aqsa Brigades:
+    >
+    >🔻Shelled a gathering of IOF soldiers and vehicles with a barrage of 60mm mortar shells in the Al-Zaytoun neighborhood, southeast of Gaza.
+    >
+    >🔻Engaged in fierce clashes with IOF forces and their military vehicles with machine guns and RPGs, on the axis inside the Gaza Strip.
+
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >
+    >🔻Detonated a highly-explosive device targeting an IOF army vehicle in Hamad Town, west of Khan Younis.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the Jal Al-Alam site with appropriate weapons, achieving a direct hit.
+    >
+    >🔻Launched an air attack with 4 kamikaze drones on the air and missile defense headquarters in the “Kila” barracks, hitting its targets precisely.
+    >
+    >🔻Targeted a gathering of IOF soldiers in Al-Tayhat with suitable weapons.
+    >
+    >🔻Targeted the deployment of IOF soldiers around the Al-Rahib site with artillery shells.
+    >
+    >🔻Confronted an Israeli drone in the border areas, using appropriate weapons, forcing it to retreat.
+    >
+    >🔻Targeted the IOF artillery positions in Khirbet Ma’ar and the deployment of Israeli soldiers around it with rockets.
+    >
+    >🔻Targeted the Al-Samaqa site in the hills of Kafr Shuba with rockets.
+    >
+    >🔻Targeted a group of Israeli soldiers while they were installing new espionage equipment at the Al-Marj site, with rockets.
+    >https://t.me/FotrosResistance/5863  3/12/24  
+    ***
+!!!warning  
+    >Urgent || Issued by Al-Quds Brigades:
+    >
+    >After their return from the fighting lines in Hamad Town, northwest of Khan Yunis, our mujahideen confirmed carrying out a number of tasks:
+    >
+    >- Our Mujahideen detonated a high-explosive device against a Zionist force of 6 individuals barricaded inside a residential apartment in Hamad Town.
+    >
+    >Our mujahideen targeted a Zionist military vehicle and a D9 bulldozer with RBG shells.
+    >
+    >- Our Mujahideen bombed with regular mortar shells gatherings of enemy soldiers in the center of Hamad Town, northwest of Khan Yunis.
+    >
+    >Al-Aqsa Flood
+    >https://t.me/me_observer_TG/166579  3/12/24
+    ***
+    >Occupied Palestine: Al-Quds Brigades: Our mujahideen bombed with regular mortar shells gatherings of enemy soldiers in the center of Hamad Town, northwest of Khan Yunis.
+    >https://t.me/me_observer_TG/166582  3/12/24  
+    ***
+    >Urgent || Issued by the Martyr Izz al-Din al-Qassam Brigades:
+    >
+    >Al-Qassam Brigades targeted a Zionist Merkvah tank with an Al-Yassin 105 shell in Hamad Town, north of Khan Yunis.
+    >https://t.me/me_observer_TG/166586  3/12/24  
+    ***
+    >BREAKING:
+    >The Houthis targeted the American ship  🇺🇲🇾🇪 "PINOCCHIO"
+    >
+    >The Yemeni Houthis have targeted the US-owned Container Ship "Pinocchio" in the Red Sea resulting in a direct hit.
+    >
+    >Spokesman for the Yemeni Armed Forces, Brigadier General Yahya Saree: The American ship “Pinocchio” was targeted in the Red Sea with a number of missiles.
+    >https://t.me/megatron_ron/2240  3/12/24  
+    ***
+    >The IOF admits to the death of Sgt. Itay Chen, 19, during the October 7th ambush
+    >https://t.me/FotrosResistance/5865  3/12/24  
+    ***
+    >STOP THE HOLLYWOOD AIRDROPS, 
+    >we get it ….. you want to humiliate the starved Palestinians..
+    >https://twitter.com/warfareanalysis/status/1767488776178196902  3/12/24  
+    >https://files.catbox.moe/kicy0l.mp4  3/12/24  
+    ***
+    >Yemeni Armed Forces announce successful strike on American ship in the Red Sea
+    >https://t.me/QudsNen/98494  3/12/24  
+    ***
+    >Lebanon: Al-Mayadeen correspondent: Direct fire was fired from #Lebanon towards the #Israeli site of Jal al-Alam
+    >https://t.me/me_observer_TG/166589  3/12/24  
+    ***
+    >Occupied Palestine: Al-Qassam Brigades: Our mujahideen detonated two anti-personnel devices against two Zionist forces and clashed with their members, leaving them dead and wounded in Hamad Town.
+    >https://t.me/me_observer_TG/166593  3/12/24   
+    ***
+    >The number of victims of the Kuwait Roundabout massacre against citizens who were waiting for aid rose to more than 400 martyrs and 1,300 wounded.
+    >https://t.me/me_observer_TG/166599  3/12/24  
+    ***
+    >BREAKING| Al Jazeera cites the US army as announcing that 500 of its soldiers will participate in the establishment of the temporary port off Gaza without having troops on the ground.
+    >
+    >(Illustrative photo)
+    >https://t.me/QudsNen/98498  3/12/24  
+    ***
+    >BREAKING| Al Jazeera cites the US army as announcing that 500 of its soldiers will participate in the establishment of the temporary port off Gaza without having troops on the ground.
+    >
+    >(Illustrative photo)
+    >https://t.me/QudsNen/98498  3/12/24  
+    ***
+    >U.S. military:
+    >
+    >- We will establish the sea pier in #Gaza without having any soldiers on the ground
+    >
+    >- 500 soldiers will participate in the process of building the marine pier in #Gaza
+    >
+    >- It will take 60 days to build the pier
+    >https://t.me/me_observer_TG/166606  3/12/24  
+    ***
+    >A plane lands in the vicinity of Hamad Town in Khan Yunis to evacuate wounded soldiers from #Gaza
+    >https://t.me/me_observer_TG/166605  3/12/24  
+    >https://files.catbox.moe/8l71rb.mp4  3/12/24  
+    ***
+    >Lebanon: ⭕️ Video | Scenes from the operation targeting the Islamic Resistance, the #Barkat_Risha site of the #Israeli enemy army on the Lebanese-Palestinian border.
+    >https://t.me/me_observer_TG/166624  3/12/24  
+    >https://files.catbox.moe/gtgsi2.mp4  3/12/24  
+    ***
+    >NEW:
+    >Israeli Minister of National Security, Ben Gvir wants war with 🇮🇱🇱🇧 Lebanon:
+    >
+    >"Yoav Gallant, you are in charge of the Army, and you sit here quietly while Hezbollah fires 100 missiles at us; I say to you, let us respond, and let us begin the war on Lebanon now"
+    >https://t.me/megatron_ron/2243  3/12/24  
+    ***
+    >During their visit to the Israel Museum, Eli Escosido, the Director of the Israel Antiquities Authority, accompanied by David Barry, the chairman of the Elad Association, and their team, observed antiquities looted from Dier Al Balah in Gaza by Israeli forces, which were displayed at the museum just days after being looted.
+    >https://t.me/QudsNen/98500  3/12/24  
+    ***
+    >Several human rights organizations, including the UN, have reported that Israeli forces have detained hundreds of Palestinians civilians arbitrarily since the start of the Israeli ground assault in Gaza.
+    >https://t.me/QudsNen/98506  3/12/24  
+    ***
+    >Lebanon: On the afternoon of Tuesday 03/12/2024, the Mujahideen of the Islamic Resistance targeted a number of Zionist enemy positions on the border with occupied Palestine.
+    >- Al-Jardah point with Burkan missiles
+    >- Jal al-Alam site with Burkan missiles
+    >- Hadab Yarin site with Burkan missiles
+    >- Barkat Risha site with Burkan missiles
+    >- Respond to a drone with appropriate weapons
+    >- Zarit barracks with Burkan missiles
+    >
+    >“And victory is only from Allah, the Mighty, the Wise.”
+    >https://t.me/me_observer_TG/166674  3/12/24  
+    ***
+    >As a result of numerous Western countries halting aid to UNRWA due to unverified Israeli allegations, the organization is encountering significant consequences, particularly in its operations in Gaza.  
+    >https://t.me/QudsNen/98511  3/12/24  
+    >
+    >An Israeli soldier shares a photo of himself standing beside Palestinian women and children detained inside an Israeli bulldozer blade in Gaza.  
+    >https://t.me/QudsNen/98510  3/12/24  
+    ***
+    >Venezuela decides to ban Argentine aircraft from flying in its airspace after confiscating a Venezuelan plane in  🇻🇪🇦🇷 Buenos Aires.
+    >https://t.me/megatron_ron/2245  3/12/24  
+    ***
+    >The first relief ship departed from the port of Larnaca in Cyprus, carrying two hundred tons of #UAE aid. The ship is expected to reach the #Gaza coast on Thursday night.
+    >https://t.me/me_observer_TG/166714  3/12/24  
+    ***
+    >A glimpse of what Hezb-Allah in Lebanon has done to the zionists in the north
+    >https://t.me/WM_discussion/92636  3/12/24
+    >https://files.catbox.moe/r2u83c.mp4 3/12/24 
+    ***
+    >The spokesperson for the Secretary-General replied, "There will be no official response to that message," in reference to the recent message from the Israeli Foreign Minister. The message criticized the U.N. Secretary-General, accusing him of allegedly lowering the status of the world body and allowing it to foster anti-Semitism and anti-Israel sentiment. Additionally, it attacked him for not accepting the Israeli narrative regarding the events of October 7th.
+    >https://t.me/QudsNen/98516  3/12/24  
+    ***
+    >Palestine Action activists spray-painted the ASD Group building with blood-red paint to protest its representation of Elbit Systems, Israel's largest defense firm in the UK, at an arms exhibition in Farnborough.  
+    >https://t.me/QudsNen/98519  3/12/24  
+    ***
+    >Hezbollah: 
+    >targeting an infantry unit of the occupation army at Mount Adir, inside occupied Palestine.
+    >https://files.catbox.moe/950kwq.mp4  3/12/24  
+    ***
+    >The israeli Minister of Energy, Eli Cohen, held an emergency session today and prepared for a scenario for widespread power outages, affecting about 60% of occupied Palestinian homes during the war with Hezbollah.
+    >
+    >Based on assessments, the likelihood of widespread power cuts is low, but preparation for widespread power outages, which takes 24 to 48 hours, is underway, and demand is increasing.
+    >As part of the concern, the electricity sector has purchased significant reserves of coal and alternative fuels.
+    >A maneuver was conducted with private electricity producers to test their ability to restart power plants.
+    >
+    >Senior israeli officials also spoke with their Ukrainian counterparts to learn from Russia's damage to the electricity sector during their war.
+    >https://t.me/FotrosResistance/5875  3/12/24  
+    ***
+    >Israeli Minister Itamar Ben Gvir has expressed support for an Israeli sniper who shot and killed 13-year-old Palestinian child Rami Hamdan Al-Halhuli at the Shu'fat refugee camp checkpoint an hour ago.
+    >
+    >Ben Gvir stated, "I salute the fighter who neutralized the terrorist attempting to shoot fireworks at him and the forces."
+    >https://t.me/QudsNen/98536  3/12/24  
+    >
+    >Issued by the Al-Qassam Brigades: The Al-Qassam Mujahideen were able to ensnare two Zionist forces on foot in a precise ambush and engage their members from zero distance in the “L” tower group in Hamad Town, north of the city of Khan Yunis. Enemy planes were spotted evacuating the dead and wounded.
+    >https://t.me/me_observer_TG/166903  3/12/24  
+    ***
+    >NEW:
+    >
+    >⚡ 🇮🇷🇵🇸 The Iranian leader, Ali Khamenei:
+    >
+    >"The Palestinian Resistance fighters have sent a message saying that there is no need to worry about them.
+    >
+    >They say that close to 90% of their equipment and capabilities are well-guarded and safe."
+    >
+    >"For several months now the Zionists have been fighting the Palestinian resistance relying on various weapons & the treacherous, oppressive assistance given by the US & others. But the Resistance is still powerful, & with God’s grace it will bring the Zionists to the ground." he added
+    >https://t.me/megatron_ron/2250  3/12/24  
+    ***

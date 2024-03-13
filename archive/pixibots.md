@@ -15,22 +15,25 @@ Jump to:
 
 ## Claude 3 prompt
 
-I created a prompt preset to serve as a rock solid reliable baseline for the new generation of models in the **Claude** family. Here's some things you should know first:
-- The preset is **minimal**. Claude 3 needs little convincing of anything, just common sense instructions for what to do. Sentences were removed until I was sure each one has a positive effect. Parts of the preset are wrapped in a shallow tag hierarchy to avoid mentioning things multiple times and save tokens.
-- The preset is **unbiased**. Claude 3 is very susceptible to suggestion, and just mentioning a topic introduces bias. The preset tries to improve handling of mature content without putting undue attention on it. However, it's still possible for cards to feel more horny than before if their definition was tweaked to overcome the bias of earlier, more censored models.
-- The preset is **compatible**. It works out of the box with cards whose name doesn't refer to a person, and will follow up as expected on any formatting style like novel style quoted dialogue or actions in asterisks. Cards using system prompt override will behave as expected, allowing advanced cards to affect writing style and formatting while obeying global preferences like response length. First-person cards are out of luck though - adjust the prompt for these.
-- **Impersonation** and **Continue** work decently well, despite using a prefill.
+When Claude 3 came out, it was clesr that old JBs don't work very well and a lot of approaches are now outdated. So, I decided to create a new one from scratch.
+
+This JB is minimal, compatible and tweakable. You'll see something as close to "raw" Claude as possible, but it should be easy to make it use any style you want. If you're interested, see further design notes below.
+
+- **Minimal**: A good Claude 3 jailbreak is as little jailbreak as possible. Every sentence has a purpose and observable effect. It's just plain English explanations of what the model should do, wrapped up with basic XML. Too many instructions would confuse Claude, and and a confused model is a dumber model.
+- **Compatible**: Cards can be titled after a character, a group, a place or a situation. They can use asterisks or not. Works with system prompt overrides without dropping your custom preferences.
+- **Tweakable**: Sections that can be modified or toggled are clearly marked.
+- A small **CoT** (chain of thought) is provided to improve model performance at the cost of tokens. It's optional and off by default, and stays hidden with no extra regex.
+- **Impersonation** and **Continue** are functional.
 - Thoroughly tested on **Sonnet**. If you get any refusals, please report back.
-- The point isn't to give you the best possible prose out of the box, but to be a reliable and **transparent** baseline. You should be able to easily make it spit out any kind of writing you want by tweaking the editable sections.
 
 ### Releases
 
 [LATEST - v3](https://files.catbox.moe/3mvcx3.json)
-- Added optional CoT section (off by default)
-- Fixed missing persona section
-- Improved XML tag structure
-- Fixed XML self-closing
-- Assigned the model a role
+- Added optional CoT section (off by default). Initial release, can probably be both better and more compact.
+- Fixed missing persona section.
+- Improved XML tag structure.
+- Fixed XML tag references to be self-closing as per Anthropic docs.
+- Assigned the model a role as per Anthropic docs.
 
 [v2](https://files.catbox.moe/2bphl5.json)
 - Added comments to every section for easier tweaking.
@@ -45,12 +48,13 @@ I created a prompt preset to serve as a rock solid reliable baseline for the new
 
 ### Known issues
 
-- Standard prompt is not compatible with cards written in first-person POV OOTB. I was not able to get the model to auto-detect the POV without outright calling it first-person. Even then, the model seemed to get confused easily and started talking as {{user}} in responses.
-- There might still be OOC - prefill-like text, content warnings, etc. Maybe fixed? Let me know if you get this.
+- Standard prompt is not compatible with cards written in first-person POV. I was not able to get the model to auto-detect the POV without outright calling it first-person. Even then, the model seemed to get confused easily and started talking as {{user}} in responses.
+- There might still be OOC: prefill-like text, content warnings, etc. Maybe fixed? Let me know if you ever get this.
 
 ## Cards
 
 First, some notes:
+
 - All cards **Female** and **OC**. Lots of minigirl content, but a fair bit of normal-sized girls too if you're not into that.
 - Some use a **system prompt override** to ensure intended formatting, POV of the narrator and the writing style. Make sure your JB doesn't break if this feature is used. You can confirm this by checking that the **Main** section under **Quick Prompts Edit** contains no tags or other critical structure, just a simple explanation of what the model is expected to do (or nothing at all, that also works).
 - Most cards are compatible with both male and female **personas**. Set a persona, or the model will attempt to guess details like your gender and appearance.

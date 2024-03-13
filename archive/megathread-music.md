@@ -33,10 +33,6 @@
 - An impressive and reliable collection of anime OPs and EDs themes with direct links to high quality downloadable content.
 - [URL Safety Results](https://www.urlvoid.com/scan/animethemes.moe/)
 
-### 🔗 [DoubleDouble](https://doubledouble.top/)
-- A container for free music downloads through YouTube Music, Soundcloud, Qobuz, Spotify, Deezer, and other services.
-- [URL Safety Results](https://www.urlvoid.com/scan/doubledouble.top/)
-
 ### 🔗 [Folksoundomy: Game Soundtracks](https://archive.org/details/folksoundomy_gamesoundtracks)
 - A selection of video game music and some anime soundtracks that was created by volunteers to be as widely accessible as possible.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
@@ -101,9 +97,21 @@
 - Preserve music and videos you hold dear, free from intrusive advertisements, or any other nonsense.
 - [URL Safety Results](https://www.urlvoid.com/scan/cobalt.tools/)
 
+### 🌐 [DoubleDouble](https://doubledouble.top/)
+- Container for free music downloads through YouTube Music, Soundcloud, Qobuz, Spotify, Deezer, and more.
+- [URL Safety Results](https://www.urlvoid.com/scan/doubledouble.top/)
+
 ### 🌐 [downloadsound.cloud](https://downloadsound.cloud/)
 - This web app project was built for downloading SoundCloud tracks and playlists. Paste your link and enjoy your music!
 - [URL Safety Results](https://www.urlvoid.com/scan/downloadsound.cloud/)
+
+### 🌐 [Slav Art](https://slavart.gamesdrive.net/)
+- Download music for free and revel in the opportunity at no cost, in top-tier quality!
+- [URL Safety Results](https://www.urlvoid.com/update/slavart.gamesdrive.net/)
+
+### 🌐 [SpotifyDown](https://spotifydown.com/)
+- Enables users to swiftly and effortlessly download any song, album, or playlist from Spotify free of charge, ensuring a user-friendly experience.
+- [URL Safety Results](https://www.urlvoid.com/scan/spotifydown.com/)
 
 ### 🌐 [Spotify Downloader](https://spotify-downloader.com/)
 - Straightforward web application that enables downloading music on a track, album, or playlists.
@@ -200,6 +208,10 @@
 &nbsp;
 
 # 📑 ➜ Streaming
+
+### ▶️ [MadnessBeat](https://madnessbeat.club/) • Sign Up • Spanish UI
+- Listen and download but also follow your favorite artists and craft playlists to enhance your experience.
+- [URL Safety Results](https://www.urlvoid.com/scan/madnessbeat.club/)
 
 ### ▶️ [MusicDex](https://musicdex.org/)
 - Compilation of anime soundtracks, meticulously curated to highlight both openings and endings.

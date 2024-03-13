@@ -14,7 +14,7 @@
 ***
 ***
 -> ![](https://i.postimg.cc/ZqWNbVK2/6-BA2472-F-2101-406-A-AD41-AA8-C93-DDE94-A.png) <-
--> 1 march : red section is back fully! please give me around **2 weeks** to finish the pixels section cause i am currently very busy with finals. thank you all for the support, i'm sorry for the inconvenience. <-
+-> 13 march : i've been very busy but i'll try my best to get this done by hopefully... the end of the month. i will forsure not leave the rentry hanging and fix it. thank you all for the support, i'm sorry for the inconvenience. <-
 -> if you have any amount of pixels from here hoarded on another site, please send me them on @yatoras on discord! <- 
 -> **navigation** <-
 -> [pixels](https://rentry.org/rsrcs) - [fandom pixels](https://rentry.org/themedpixel) - [dividers](https://rentry.org/finnsdividers) - kaomojis - blinkies stamps buttons - [useful links](https://rentry.co/advising) <-

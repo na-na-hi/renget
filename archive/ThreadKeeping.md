@@ -25,7 +25,7 @@ Page 1
 ***
 ```
 RULES
-https://rentry.org/x5ayvpzb
+https://rentry.org/b595h6dm
 
 >Chunin Exam Stage 1 Hub Post
 >>92135567

@@ -137,7 +137,7 @@
 - Play the majority of games while continually being updated with new features.
 - [URL Safety Results](https://www.urlvoid.com/scan/cemu.info/)
 
-### 🔗 [Citra](https://archive.org/details/citra-latest-builds-4th-march-2024) • 3DS / [Note](https://a.imagem.app/oDf7Lm.webp)
+### 🔗 [Citra](https://archive.org/details/citra-latest-builds-4th-march-2024) • 3DS ➜ [Note](https://a.imagem.app/oDf7Lm.webp)
 - **4th March 2024, last build**. Games can be played using this open-source emulator.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
 
@@ -185,7 +185,11 @@
 - It has several features, such as a GUI, netplay, and a automated updater.
 - [URL Safety Results](https://www.urlvoid.com/scan/simple64.github.io/)
 
-### 🔗 [yuzu](https://archive.org/details/yuzu-latest-builds-4th-march-2024) • Switch / [Note](https://a.imagem.app/oDf7Lm.webp)
+### 🔗 [suyu](https://suyu.dev/) • Switch
+- Open-source, free, non-profit Switch emulator built on C++ with a strong compatibility focus.
+- [URL Safety Results](https://www.urlvoid.com/scan/suyu.dev/)
+
+### 🔗 [yuzu](https://archive.org/details/yuzu-latest-builds-4th-march-2024)  / [2](https://krakenfiles.com/view/xFdCTjoGjv/file.html) • Switch ➜ [Note](https://a.imagem.app/oDf7Lm.webp)
 - **4th March 2024, last build**. Games can be played using this open-source emulator.
 - [URL Safety Results](https://www.urlvoid.com/scan/archive.org/)
 

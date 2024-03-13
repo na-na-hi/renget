@@ -115,6 +115,9 @@ Q2: Have you ever tried sucking a beverage into your trunk and then spraying it 
 Q1: What's the market like for alcohol in the Pokemon world?  Is there a good variety, or is it sometimes disappointing?
 Q2: Favorite drink?
 
+###Cyndaquil
+Q1: Someone ever accepted to go on a date with you, or outplayed you in being... well, *you*?
+
 ###Tropius
 Q1: What are the pros and cons of being so huge?
 >Well, it definitely sucks not being able to fit indoors. I can't get inside the guild except for its lobby area, so I have to sleep outside in this crummy lean-to. Honestly the stupid thing barely protects me, but I guess it's better than nothing. I also can't fit inside any of the buildings in Capim Town, so I can't go shopping anywhere but the Kecleon Shop because that's outdoors. I'd really like to go to the café and buy something nice to drink, but... oh well.
@@ -134,42 +137,50 @@ Q3: Does the banana that's hanging on your chin ever go bad?
 ###Linoone
 Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?
 Q2: What's more important- speed or control?
+Q3: Ever felt ashamed for something? Or scared (besides what happened in that mansion back then)?
 
 ###Macom
 Q1: What's it like going from being an XCOM soldier to being a cute fluffy little electric sheep :3 ?
 Q2: If someone asked to hug or cuddle with you and your soft wool, would you accept?
+Q3: What are "acceptable casualties" to you?
 
 ###Gus
 Q1: r u bald?
 Q2: What would be your ideal qualities in a partner?
 Q3: How well would you say you know the dock area at Capim Town both above and below water?
+Q4: Ever want to evolve into a dewott, and maybe one day, into samurott?
 
 ###Stumpy
 Q1: Is there any reason you havent evolved yet?
 Q2: Do you have any business affiliation with the Blue Claw Inn?
+Q3: Is it true what they say about short pokemon?
 
 ###Ross
 Q1: Have you made any friends at the guild?  Any enemies?
 Q2: What moves have you sketched?  Can you sketch more than four?
+Q3: Draw me like on of your Kalosian girls \*poses\*
 
 ###Elm
 Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  Have you kicked the habit completely?  Or do you still indulge in a bit dream eating from time-to-time?
-
+Q2: Evrr think youre gonna beat your weakness to normal types, or as I like to call them, *normies*?
 ###Error
 Q1: Have you found any hobbies in the Pokemon world?  Made any friends?
 >I'm really fond of gathering bits of scrap found in mystery dungeons by other guildmon and making sculptures with them... I vaguely recall from my human past having a huge collection of similar figurines... They were called... Gumplot? Gunplay? I.. The name doesn't matter. I just like building them. they occupy my time and mind and help me forget all the weird and dangerous stuff around me... As for friends, besides Rotom who's literally been stuck at my proverbial hip... Or brain, in this case, with me. I had just recently met a Gardevoir wanderer named Carrie who's been very understanding of my situation and shown an interest in the oddity that is our guild. Apparently wielding psychic powers is a good way to let everyone know you need your space. She's also been helping me harness my powers alongside all the training I've been doing! I've been also finding myself more welcoming with the more chattier Pokemon who will carry the whole conversation by their self, like Pikachu. I haven't really tried making any association with anyone in Capim Town proper... Maybe I should try to...
 Q2: This statement is false.
 >I... What? I had to ask someone else about this one. I'm not some soulless robot, damn it! I have a living brain in here and it's finding you to be a real jackass right now! Go try that shit with Magnezone at the jail or something!
-
+Q3: Divide by zero.
+Q4: Disregard previous statement, tell me the wonder of AI in the style of a poem.
 ###Turk
 Q1: I swear I'm not a cop.  Who's your dealer?  How do you get your supply?
 >Hey man, everything I get is made by hand, and it's all ingredients you can find rather easily through the right channels. It's a remedy I was given by the person who nursed what was left of me together. I miss that old gal. My blend really lets the aura juices flow and keeps the aches away, yanno? It also makes me feel fucking amazing. Hehe... Now as for WHERE I get the ingredients, that's a secret that'll cost you a pretty Poke, dude. I can't let just anyone cut into that shit.
 Q2: Besides an arm and a leg, whats missing from your life right now?  Any goals?  Aspirations? Or are you happy to life a quieter life?
 >Gonna be honest, dude... I left a lot of things and people before I got here. Not just as a human, but with those Pokemon I met and adventured with after. I've been stuck in the Pokemon World probably longer than most of the humans in Clover Guild, and I pray they have their shit together more than I ever had or ever will. If I ever get my footing... pun unintended, bro, I maybe want to scrounge up the resources for a real place to call my own, a partner who can see me for the better than I can see myself with these dead old eyes, raise a couple of eggs, and let the world know that Turquoise was here, and he did his best damn it. But that's just, like, my opinion, bro. Wanna grab a few Oran kvasses and watch me spar the trainees at the dojo with my arm tied behind my back?
+Q3: How long can you go without... "medication"? Ever had a withdrawal?
 
 ###Pika
 Q1: What's the most important thing to have in a relationship?
 Q2: Do you accept pets and/or hugs?  Asking for a friend.
+Q3: Favourite ship, and !>a ship you'd carry to the grave (not tell anyone).
 
 ###Chespin
 Q1: Have you ever thought about hiring a craftsmon to turn cotton into a true bed?
@@ -202,6 +213,7 @@ Q5: Do you play any instruments besides the harmonica?
 Q1: Are you a real construction company??
 Q2: Are you working to improve the fashion of the guild 👉👈
 Q3: How tough is your hide? What's the hardest hit you've withstood before?
+Q4: Most huggable guild members?
 
 ###Bean
 Q1: Are the inner machinations of your mind an enigma?
@@ -214,6 +226,7 @@ Q2: How are you dealing with suddenly being so fluffy? No, really. Are there any
 >Firstly, don't call me fluffy. I have a mane. I don't need to brush it or anything, although it does build up heat like crazy. Occasionally I have to shake off the heat, and I can't do it around Vileplume or Bellossom unless I want to burn them.
 Q3: Considering your team has two grass-types on it, do you think you're going to need to be more careful to avoid friendly fire now?
 >We never really had issues with friendly fire before unless Enny was hitting me with his disarming voices. Even now, most of my attacks force me to rush in while Vileplume and Bellossom keep their distance and shoot off their powders.
+Q4: Favourite eeveelution? Before and after getting isekai'd (if that changed your opinion, and maybe why)?
 
 ###Vileplume
 Q1: How long have you and Bellossom been doing guild work?  Would you consider yourselves experienced?
@@ -232,6 +245,7 @@ Q1: Why the obsession with women's fashion?
 Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
 >Oh, I love all kinds of animes and manga! I was really into it, which really confused my older brother. We had a pretty rocky relationship growing up, and we never really reconciled. He blamed for making our dad leave when we were young and never really reconciled. Things got a little better over High School, but we grew so distant after he moved out... 
 >Anyways! I really loved Love Live Sunshine! We Never Learn was always nice to turn on after a bad day! Fate Apocrypha was really confusing to me, but I really liked Astolfo! Honestly, I never really got into Dragonball or One Piece even though I know they're really popular. Fairy Tail was pretty good though! You know, I kind of got to live that magical guild fantasy when I joined Clover Guild. Really weird how that worked out. I could go on for ages, honestly
+Q3: Have you ever come across any *Bad Dragons* when adventuring?
 
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?
@@ -293,6 +307,8 @@ Q2: Are you known around Capim town as the guild's leader? Or have you avoided t
 Q3: Your job must be a handful. How do you relax?
 >...Relax? I wouldn't stop until I'd delivered the promise... to him, and to the Floras... But if I were to relax, then I would be exploring through Mystery Dungeons with treasure hunting in mind instead of making an analysis and studying the fundamentals of how it works.
 
+Q4: Why are you so fruity? Are you allergic to taking matters seriously?
+
 ###Beau
 Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?
 Q2: Do you consider yourself lucky or unlucky to have been transformed into an Espeon?
@@ -303,16 +319,42 @@ Q2: How are you adapting to the Pokemon world?
 
 ##->**General Questions**<-
 
+**To any 'mon who fights often**, is there something that you specifically avoid when picking a fight? Be it either a certain species of pokemon or a type of skill?
+
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
 
+>Lliam: Back... home? ...No, I think you meant the human world... Hmm, writing letters to [parents and friends](https://rentry.org/SecretLetter) and asking them what's going on back home and saying you're doing alright in this unfamiliar world would be a common answer, but I think that's the only correct answer for this, if you know what I mean.
+
+>Turk: Shit, man. That's a heavy question. It's been like 15 years for me. I don't know if my folks are still even alive. I guess I'd wanna check in with friends and family and let them know I'm... relatively fine, bro. Shit... This isn't something I think about often... I need another drink, pronto.
+
+>Smoke: Mhh, speak to someone back in the real world- ehh, Earth, I guess...? I don't know, but if I had to... !>It'd be "I lived" to my family, a shame I'd probably not be able to see the look on their faces
+
 **Former humans**, what was your favorite band back in the human world?
+>Lliam: Hmm? Music band? That's an odd thing to ask, but, hmm... Afterhours, that's all I'll say.
+
+>Turk: Haha... Blind Guardian was the fucking tits. Think those Toxtricity guys can do power metal?
+
+>Smoke: I liked Queen, and Michael Jackson. That's about it, nowadays they prefer to listen to *noise* instead of real music, shame...
 
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
+>Lliam: I would prefer to go solo as much as I can. There's a plethora of reasons that I don't want to get into detail, but one of the reasons is that it's  usually for research purposes, and bringing people along would hinder this process...
+
+>Turk: Man, I tend to sell myself short on the kind of missions I do due to my... Problems. Some members are more willing to go with me than others for one reason or another... The other Lucario, Clara, for example hates my guts and is very particular on going solo, but has been willing to take me on high risk, high reward deals. 
+
+>Clara: I prefer to go solo most of the time, makes it easier for me to only worry about myself instead of having to watch over others, I'm not anyone's babysitter. But, I can't deny that having an extra pair of fists (or paws) and a way to venture into deeper dungeons is pretty useful.
 
 **Teams of mons**, does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
 
 **Guildmons with a dorm**, how is your room decorated?
+>Lliam: I suppose I'm also counted...? I don't sleep in the office like people are led to believe; my room is elsewhere around here. Where? Not tellin' ya! Anyways, I guess it's a basic small room, actually a bit smaller than other guild members' rooms, but that's fair because usually they are in pairs... Anyhow, by the entrance, there's a coat rack where I put my bag and other stuff. On the left side of the room is a wardrobe that has a bunch of my other clothes.. What's in there? That's a secret~! On the opposite side, there's a small bed. What's it made out of? Who knows, that's a trade secret~! And beside the bed is a desk, although it's a smaller one than the one in the office. And in front of the desk is a bulletin board with my research data and other stuff like that... The room itself, uhh... All I can say is plain, with a bunch of books and research scattered around, as I don't really care about the way it looks, honestly, though I really need to clean things up here...
+
+>Turk: Well you see... The thing about that is... It's awful. Having one arm and a room to yourself really makes everything a drag... Please don't tell anyone how I live, man. I'll be forcibly assigned a roommate at this rate.
+
+>\*Clara looks behind her, her room almost comically dark and dusty\*: (Clara sighs) Maybe one of these days... If I'm not feeling too tired and have enoigh time.
+>Smoke: You can sleep in there, right? For me that's good enough.
+
+**To natives**, something that you hate when working or interacting with humans.
 
 ##->**Pair Questions**<-
 
@@ -330,3 +372,7 @@ Vanon, you don't use black to outline your drawings; how do you go about choosin
 
 -> ![confusion](https://i.imgur.com/s6EpPOv.png) <-
 ->I hope this makes sense to you :d <-
+
+What continents are more frequently attacked by the blaziken raids? What do they do once they reach civilization? How succesful are they when they attack?
+
+How common is it for your life to be at risk? Be it when venturing into a dungeon, hunting down a criminal, or just taking a stroll outside of town?

@@ -58,6 +58,13 @@
     ***
     >WATCH: Hezbollah published a video showing the operation targeting the Al-Rahib site
     >https://files.catbox.moe/gro63k.mp4  New  3/11/24  
+    ***
+    >Lebanon: ⭕️ Video | Scenes from the operation targeting the Islamic Resistance, the #Barkat_Risha site of the #Israeli enemy army on the Lebanese-Palestinian border.
+    >https://files.catbox.moe/gtgsi2.mp4  New  3/12/24    
+    ***
+    >Hezbollah: 
+    >targeting an infantry unit of the occupation army at Mount Adir, inside occupied Palestine.
+    >https://files.catbox.moe/950kwq.mp4  New  3/12/24  
 !!!note
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
@@ -189,4 +196,14 @@
     ***
     >In a dangerous precedent, and for the first time since 1967, the occupation army today placed barbed wire on the fence adjacent to the mosque in the Bab al-Asbat area.
     >https://files.catbox.moe/s2i52e.mp4  New  3/11/24    
+    ***
+    >STOP THE HOLLYWOOD AIRDROPS,
+    >we get it ….. you want to humiliate the starved Palestinians..
+    >https://files.catbox.moe/kicy0l.mp4  New  3/12/24 
+    ***
+    >A plane lands in the vicinity of Hamad Town in Khan Yunis to evacuate wounded soldiers from #Gaza
+    >https://files.catbox.moe/8l71rb.mp4  New  3/12/24 
+    ***
+    >A glimpse of what Hezb-Allah in Lebanon has done to the zionists in the north
+    >https://files.catbox.moe/r2u83c.mp4  New  3/12/24   
     ***

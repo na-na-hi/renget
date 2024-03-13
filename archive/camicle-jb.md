@@ -1,12 +1,23 @@
-# -> camicle's gpt jailbreaks <-
+# -> camicle's jailbreaks <-
+
+[TOC]
+
+# claude 3
+
+mostly tested with claude-3-opus-20240229
+very inspired by [crustcrunch](https://rentry.org/crustcrunchJB#ao3-prompts-very-schizo)!
+
+i use temp 1, top k 0, top p 1
+
+**["pure cooking"](https://files.catbox.moe/h3d467.json)**
+
+# gpt-4
 
 -> *Damn you nurbo* <-
 
 mostly tested with gpt-4-0125-preview (aka "nurbo")
 also seems to work on gpt-4-1106-preview, gpt-4-0613
 probably works on gpt-4-vision-preview
-
-[TOC2]
 
 ## v4 (actually good)
 thank you thank you thank you [neo-furbo](https://rentry.org/neo-furbo), i've shamelessly stolen your main prompt
@@ -34,7 +45,7 @@ Other Options
 - [x] Run On Edit
 - [ ] Substitute Regex
 
-##### [v4.5](https://files.catbox.moe/yzmdnt.json)
+[v4.5](https://files.catbox.moe/yzmdnt.json)
 
 ~~[v4.4](https://files.catbox.moe/w3h0iw.json)~~
 ~~[v4.3](https://files.catbox.moe/urnbc4.json) ~~[v4.2](https://files.catbox.moe/8x20pl.json)~~

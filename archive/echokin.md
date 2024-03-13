@@ -1,5 +1,5 @@
 -> Kin List (Not Official This Time) <-
--> On date as of 2.26.24. <-
+-> On date as of 3.12.24. <-
 -> Best viewed 90% zoomed <-
 
 -> Click here for an Otherkin / Creatures exclusive list: https://rentry.co/echofigglehonse <-
@@ -82,10 +82,10 @@ I relate more with the nonhuman label than alterhuman or anything similar
 - **Haida**, Aggretsuko. **Ankha**, AC. **Circuit,** Z-Toon. **Hazel,** IT. **Deer** (specifically reindeer). **Robot**
 - **Skitty**. **Spitz**, Warioware. **Joan of Arc**, Clone High. **Blake Belladonna.** **Lunala**. **Thistle**, Dungeon Meshi
 - **Fig Cookie,**. **Ryan Akagi. Finch. Scylla**, Puyo Puyo. **Mona**, GI. **Vaggie,** HH. **Catbat**, Crash Bandicoot
-- **Magpie, blackbird. Frye,** Splatoon. **Manaka**, Aggretsuko. **Sakura**, Cardcaptor Sakura. **Nutty,** HTF
+- **Magpie, blackbird. Frye,** Splatoon. **Manaka**, Aggretsuko. **Sakura**, Cardcaptor Sakura. **Nutty,** HTF. **Possum**
 - **Gecko. Mermista**, SPOP. **Amagyu**, EE. **Miia**, Monster Musume. **Tadano**, Aggretsuko. **Parakeet.**
 - **Papi**, Monster Musume. **Mudae**, EE. **Dawson**, EE. **Resasuke**, Aggretsuko. **Blitzo**, HB. 
-- **Froslass**. **Rebecca**, Cyberpunk Edgerunners. **Raccoon. Death**, Puss in Boots. **Mandy, Billy and Mandy**
+- **Froslass**. **Rebecca**, Cyberpunk Edgerunners. **Raccoon. Death**, Puss in Boots. **Mandy**, Billy and Mandy
 - **Ganyu**, GI. **Aladdin**, Magi. **The Collector**, TOH. **Glisgor**. **Neferpitou**, HXH. Fancy Pigeon / dove. 
 - **Shalltear**, Bloodfallen. **Ghost. Lana,** Pokemon. **Spider. Mami**, Madoka Magica. **Snow Leopard. Fancy Mouse**
 - **Liloette**, Dofus. **Pomegranate Cookie**. **Mienshao**. **Ruby**, Jewelpet. **Serval. Harley Quinn**, DC. 
@@ -96,7 +96,8 @@ I relate more with the nonhuman label than alterhuman or anything similar
 - **Lois Griffin**. **Stewie Griffin**. **Wynaut**. **Riolu**. **Legoshi**, Beastars. **May**, Pokemon.
 - **Mime**, HTF. **Smudge**, Warriors. **Briar**, League of Legends. **Sorbet Shark Cookie**.
 - **Samantha**, IT. **Lion. Sheep**, lambs. **Tanuki. Chinchilla. Gudetama**, Sanrio. **Cherie**, Magician's Quest.
-- **Blackberry Cookie**. **Scourge**, Warriors. **Jaguar. Puma.** **Dragon.** (Dragon is usually merged with human in some way, like being humanoid)
+- **Blackberry Cookie**. **Scourge**, Warriors. **Jaguar. Puma.** 
+- **Dragon.** (Dragon is usually merged with human in some way, like being humanoid)
 - **Dororo**, Sgt. Frog. **Serena**, AC. **Piplup**. **Boxfish. Cowfish.** **Brian Griffin**
 - **Tulip,** IT. **Tsumiki**, Place to Place. **Snowdrop**. **Rory**, Dog Knight RPG. 
 

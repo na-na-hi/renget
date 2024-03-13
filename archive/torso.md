@@ -1,5 +1,5 @@
 -> ![kaowru](https://i.postimg.cc/wxN0RLk9/Untitled10-20240307045638.png) <-
-->⡨ིܳ![jay](https://i.postimg.cc/MGpsn72C/Untitled2-20240306211318.png)𓂋  ![](https://i.postimg.cc/c4Y981Kc/IMG-5519.png) He[%#8B0000%◞%% ](https://pronouns.cc/@yatora) 𓉸 ། ₊ ⟢<-
+->⡨ིܳ![jay](https://i.postimg.cc/MGpsn72C/Untitled2-20240306211318.png)𓂋  ![](https://i.postimg.cc/c4Y981Kc/IMG-5519.png) He[%#8B0000%◞%% ](https://en.pronouns.page/@hakkai)𓉸 ། ₊ ⟢<-
 ->%#c0c0c0% ︵⏜ ཫ %% palestinian ☩ ៹ ࣪ ![pix2](https://i.postimg.cc/B61BFNhV/IMG-0713.gif) ₍₁₆₎ ![](https://i.postimg.cc/8PGmFRLZ/IMG-0195.png)<-
 ->![](https://i.postimg.cc/q7c0d32k/IMG-5659.gif) [![Ext](https://i.postimg.cc/3Jg8q0r1/Untitled9-20240307042448.png)](https://rentry.co/mutiIe)**𓂂໊𐑟** bpd !~mentally~! %#A95C68%unwell%% ✙ ꒱ <-
 

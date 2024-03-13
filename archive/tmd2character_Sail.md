@@ -10,7 +10,7 @@ A Goomy with a star piece eyepatch that is able to navigate the sea a bit more e
 **Species:** Goomy | **Affiliation:** Team Gildscales
 **Level:** 14 | **Experience to Next Level:** 140/54
 **Worn Item:** *Mystic Scarf* | **Clothing:** *Star Piece Eyepatch*
-**Pokécoin:** 705₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 710₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -69,8 +69,7 @@ Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Stat: Special Defense **ɪɪɪ**| **ᴍᴀx** (+3) | 1/9 | ▮▯▯▯▯▯▯▯▯
-Training for Move: Dragon Pulse | *ᴛʀᴀɪɴᴇᴅ* | 4/4 |  ▮▮▮▮
+Training for Stat: Special Defense **ɪɪɪ**| **ᴍᴀx** (+3) | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

@@ -2161,8 +2161,13 @@ Calvin "Freckle" Allen McMurray (Lackadaisy)
 https://files.catbox.moe/bk1xqq.safetensors
 
 Zackary911 (Style - PDXL V6)
+V1.1:
 >Zackary911 LoRA trained on Pony XL V6. No activation token needed.
 https://files.catbox.moe/5mncy0.safetensors
+
+V1.2:
+>I culled several images that didn't fit enough with the artist's style and retagged a ton of the dataset, here's v1_2
+https://files.catbox.moe/sa1vgv.safetensors
 
 Nomax (Style - PDXL V6)
 >Nomax LoRA trained on Pony XL V6. No activation token needed.

@@ -1,4 +1,4 @@
-->[![Go back to Unreleased Characters](https://cdn.discordapp.com/attachments/1137374640239542294/1168622727792431175/Solid_Light_Gray_Purple_-_Hex_8E88A3_-_Plain_Light_Gray_Purple-modified_1_1.png?ex=65e617ba&is=65d3a2ba&hm=b7e5d091cb21bdea5ba58789add8306a66cf51841a424787860918450e6a6976&)](https://rentry.co/7k3mt)<-
+->[![Go back to Unreleased Characters](https://i.imgur.com/7n0Fl6K.png)](https://rentry.co/7k3mt)<-
 
 # Changelog
 

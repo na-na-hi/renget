@@ -39,7 +39,7 @@ Stories written by me, or that I otherwise had a hand in.
 - **Published**: {Coming Soon.}
 
 ## Characters
-Information on the characters that I created goes here. They're automatically free to use by anyone. 
+Information on the characters that I created goes here. They're automatically free to use by anyone.  this section isn't done btw
 ###Cider
 >Overview
 **Personality Blurb:** https://rentry.org/Ciderblurbediting 

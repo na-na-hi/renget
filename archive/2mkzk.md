@@ -5,14 +5,14 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##24/03/07-24/03/10 (yy/mm/dd)
+##24/03/14-24/03/17 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 3UTC ()** 
-**FRI: Rockman 6 After Tournament at 3UTC (Telemelt)**
-**SAT: Kirby Super Star Ultra at 3UTC (Parsec)**
-**SUN: Megaman Ultra 19UTC* (Telemelt)**
+**FRI: Rockman Taisen at 3UTC (Parsec)**
+**SAT: Dragon Ball Z: Buu's Fury at 3UTC (Telemelt)**
+**SUN: Minemelt 19UTC* (Minecraft)**
 
 ##Cytubes
 
