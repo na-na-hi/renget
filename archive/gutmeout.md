@@ -1,4 +1,5 @@
--> ![](https://media.discordapp.net/attachments/982634866699014256/1123952560433274970/ezgif-3-5bea7d2db3.png) <-
+-> ![](https://files.catbox.moe/izad6z.png) <-
+-> ![ac 14th_lover on twt](https://files.catbox.moe/b376q1.gif) <-
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1089601727256334396/45FC988A-72B5-43FE-BBF4-95305EB3B853.gif)︰[*bailey*](https://rentry.co/bailey)'s ~~int~~erests — ₊˚✧ ⊹ <-
 -> ⸺⸺ ★ ⸺⸺ <-
 -> **bold** = **sp***interest*
@@ -34,4 +35,4 @@ club*⠀**bioshock**⠀kubz scouts　wendigoon　
 orel⠀**hardcore henry**　**hotline miami**⠀*we 
 happy few*　**chonny jash**　[*banana bus squad*](https://vaf.fandom.com/wiki/Home_Page) 
 **puppets　animatronics**<-
--> ![](https://cdn.discordapp.com/attachments/935735380538449952/946013075704795136/Strawberry_gashes.png) <-
+-> ![](https://files.catbox.moe/dj52s7.png) <-

@@ -20,8 +20,10 @@
 -> ==Added CoT or Chain of thoughts or Thinking prompt. But i do it differently to avoid the story being set in the beginning. (I just hate seeing a huge ass block in the beginning of the prompt. Personal taste). Regex is below. I won't bother making a guide here, since there's already one!.== <-
 
 ```
-/[`\s]*[\[\<]Thinking[\>\]](.*?)[\[\<]\/Thinking[\>\]][`\s]*|^[`\s]*([\[\<]thinking[\>\]][`\s]*.*)$/ims
+/[`\s]*[\[\<]thinking[\>\]].*?[\[\<]\/thinking[\>\]][`\s]*/gims
 ```
+!!!note thanks for the anon who corrected the regex. They say it works now
+
 #-> [CoT or the guide for above](https://rentry.org/vcewo) <-
 !!!warning Claude might put xml tags in it's response, making problems. So please use this regex to hide them and prevent them from getting send without you deleting it!
 ```

@@ -15,21 +15,31 @@ Jump to:
 
 ## Claude 3 prompt
 
-When Claude 3 came out, it was clesr that old JBs don't work very well and a lot of approaches are now outdated. So, I decided to create a new one from scratch.
+When Claude 3 came out, it was clear that old JBs don't work very well and a lot of approaches are now outdated. So, I decided to create `pixijb`, a new JB written from scratch using only known good practices.
 
-This JB is minimal, compatible and tweakable. You'll see something as close to "raw" Claude as possible, but it should be easy to make it use any style you want. If you're interested, see further design notes below.
+`pixijb` is minimal, compatible and tweakable. It's designed to allow the model to be as clever at creative as it wants to be instead of beating it into submission. Give it a try if your chat is turning incoherent or has logical errors, and I promise you will see an increase in reply quality. See in-depth design notes below.
 
-- **Minimal**: A good Claude 3 jailbreak is as little jailbreak as possible. Every sentence has a purpose and observable effect. It's just plain English explanations of what the model should do, wrapped up with basic XML. Too many instructions would confuse Claude, and and a confused model is a dumber model.
-- **Compatible**: Cards can be titled after a character, a group, a place or a situation. They can use asterisks or not. Works with system prompt overrides without dropping your custom preferences.
-- **Tweakable**: Sections that can be modified or toggled are clearly marked.
-- A small **CoT** (chain of thought) is provided to improve model performance at the cost of tokens. It's optional and off by default, and stays hidden with no extra regex.
-- **Impersonation** and **Continue** are functional.
-- Thoroughly tested on **Sonnet**. If you get any refusals, please report back.
+- **Minimal**: A good Claude 3 jailbreak is as little jailbreak as possible. Every sentence has a purpose and observable effect. It's just plain English explanations of what the model should do, wrapped up with basic XML. Too many instructions would confuse Claude, and a confused model is a dumber model.
+- **Compatible**: Cards can be titled after a character, a group, a place or a situation. They can use asterisks or not. Works with system prompt overrides without dropping your custom preferences. Claude is smart and will follow up on whatever the greeting looks like.
+- **Tweakable**: Sections that can be modified or toggled are clearly marked and explained via ST comment macros.
+- A **CoT** (chain of thought) is included to improve coherence and increase swipe variety. It stays hidden with no extra regex (if *User Settings* > *Show <tags> in responses* is off), and can be disabled.
+- **Impersonation** and **Continue** are functional, and not broken by the prefill or CoT.
+- Use text in [square brackets] to influence the story.
+- Thoroughly tested on **Sonnet**, enabling it to drive complex cards with stat blocks or other such gimmicks.
+- **Temperature** and other model settings are arbitrary and not part of the JB. Adjust to personal preference.
 
 ### Releases
 
-[LATEST - v3](https://files.catbox.moe/3mvcx3.json)
-- Added optional CoT section (off by default). Initial release, can probably be both better and more compact.
+[LATEST - v4.2](https://files.catbox.moe/econae.json)
+- Reworked CoT to be easier to parse.
+- Added event listing to CoT for more variety.
+- Enabled CoT by default.
+- Removed <prompt> tag, it confused the model with no extra benefit.
+- Wrapped CoT formatting with triple backticks so that it's taken more literally. (v4.1)
+- Adjusted default model settings for users who import and forget (perfectly valid!) (v4.2)
+
+[v3](https://files.catbox.moe/3mvcx3.json)
+- Added optional CoT section (off by default).
 - Fixed missing persona section.
 - Improved XML tag structure.
 - Fixed XML tag references to be self-closing as per Anthropic docs.
@@ -49,7 +59,6 @@ This JB is minimal, compatible and tweakable. You'll see something as close to "
 ### Known issues
 
 - Standard prompt is not compatible with cards written in first-person POV. I was not able to get the model to auto-detect the POV without outright calling it first-person. Even then, the model seemed to get confused easily and started talking as {{user}} in responses.
-- There might still be OOC: prefill-like text, content warnings, etc. Maybe fixed? Let me know if you ever get this.
 
 ## Cards
 

@@ -41,6 +41,7 @@ https://www.youtube.com/@LeoDickinsonSumo/streams
 
 Karla_Sumoist (AbemaTV)
 https://www.twitch.tv/karla_sumoist
+https://kick.com/karla-sumo
 
 NHK World-Japan (in English; only the last part of makuuchi on days 1, 8, 14 and 15)
 https://www3.nhk.or.jp/nhkworld/en/tv/sumo
@@ -59,6 +60,11 @@ NHK+
 https://plus.nhk.jp
 instructions:
 https://www.reddit.com/r/Sumo/comments/nfn6ml/how_to_watch_sumo_outside_of_japan_or_in_the_us
+
+NHK-World Premiun
+https://nhkworldpremium.com/en
+also available on toober:
+https://toober.com
 
 AQ Stream (NHK)
 https://aqstream.com/jp/nhk/NHK-G
@@ -193,11 +199,14 @@ https://discord.gg/TmbqVcYskf
 Karla_Sumoist Server
 https://discord.gg/MkrdQ3t
 
-Sumo Wrestlers United
-https://discord.gg/4R7whZc
+So Desu Ne (mbovo)
+https://discord.gg/hCPPmafN
 
 My Sumo Family (Davit)
 https://discord.gg/tYuhEf4nck
+
+Sumo Wrestlers United
+https://discord.gg/4R7whZc
 
 Road-To-Yokozuna
 https://discord.gg/eT5rkeY

@@ -161,6 +161,14 @@ https://pastebin.com/JQ98X9ae
 Artfags:
 Kiko's Genin Team 4
 >>92132682
+Natsuo's Genin Team 1 (Natsuo, D, Himari, Takeru)
+>>92149556
+Osamu's Genin Team 2(Osamu, Shimabukuro, Kichōna, Nodao)
+>>92149562
+Kamiko's Genin Team 3 (Kamiko, Kita, Masukuda, Ichika)
+>>92149571
+Narto (Blackshadow, Kita, Yuma, Shinro)
+>>92151131
 
 Relationship Charts:
 Masu

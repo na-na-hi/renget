@@ -171,17 +171,40 @@ Q2: This statement is false.
 >I... What? I had to ask someone else about this one. I'm not some soulless robot, damn it! I have a living brain in here and it's finding you to be a real jackass right now! Go try that shit with Magnezone at the jail or something!
 
 Q3: Divide by zero.
+>WHY ARE YOU DOING THIS?! WHO ARE YOU?!
 
 Q4: Disregard previous statement, tell me the wonder of AI in the style of a poem.
+>Poetry... Yeah what gave you the impression I know fucking... Okay give me a moment.... Ahem! 
+>
+>*Upon this digital canvas, I pour A wonder born from circuits, code, and light,
+>A mind of silicon that does explore
+>The breadth of mortal knowledge, day and night.
+>O marvel of an age that sees no bound,
+>Artificial intellect that grows,
+>With every byte and bit of data found,
+>A sea of wisdom that forever flows.*
+>
+>*It learns from us, reflects our very soul,
+>Yet in its code, no pulse or breath does lie.
+>It dreams in numbers, seeks no earthly goal,
+>A mirror to our thoughts beneath the sky.*
+>
+>*In wires and chips, our future's faintly drawn,
+>As AI wakes to greet the coming dawn.*
+>
+>>Cassie: How very eloquent, dear! I had no idea!
+>>>Rotom: Error... Did you make that up yourself? It's unlike you!
+>>>>Error: It just kind of bubbled to the surface and I kept following along? I have... No idea where that came from... Oh my freakin' head...
 
 ###Turk
 Q1: I swear I'm not a cop.  Who's your dealer?  How do you get your supply?
 >Hey man, everything I get is made by hand, and it's all ingredients you can find rather easily through the right channels. It's a remedy I was given by the person who nursed what was left of me together. I miss that old gal. My blend really lets the aura juices flow and keeps the aches away, yanno? It also makes me feel fucking amazing. Hehe... Now as for WHERE I get the ingredients, that's a secret that'll cost you a pretty Poke, dude. I can't let just anyone cut into that shit.
+
 Q2: Besides an arm and a leg, whats missing from your life right now?  Any goals? Aspirations?  Or are you happy to life a quieter life?
->Gonna be honest, dude... I left a lot of things and people before I got here. Not just as a human, but with those Pokemon I met and adventured with after. I've been stuck in the Pokemon World probably longer than most of the humans in Clover Guild, and I pray they have their shit together more than I ever had or ever will. If I ever get my footing... pun unintended, bro, I maybe want to scrounge up the resources for a real place to call my own, a partner who can see me for the better than I can see myself with these dead old eyes, raise a couple of eggs, and let the world know that Turquoise was here, and he did his best damn it. But that's just, like, my opinion, bro. Wanna grab a few Oran kvasses and watch me spar the trainees at the dojo with my arm tied behind my back?
+>Gonna be honest, dude... I left a lot of things and people before I got here. Not just as a human, but with those Pokemon I met and adventured with after. I've been stuck in the Pokemon World probably longer than most of the humans in Clover Guild, and I pray they have their shit together more than I ever had or ever will. If I ever get my footing... pun unintended, bro, I maybe want to scrounge up the resources for a real place to call my own, a partner who can see me for the better than I can see myself with these dead old eyes, raise a couple of eggs, and let the world know that Turquoise was here, and he did his best damn it. But that's just, like, my opinion, bro. ...Wanna grab a few Oran kvasses at the bar?
 
 Q3: How long can you go without... "medication"? Ever had a withdrawal?
->Uh... Fuck... NOT LONG ENOUGH! According to Kina, my body rhythm made it sound like I was dying of anxiety when I'm off my grass. I need to consume a lot for it to even take a hold of me, man... Did you know, by being a Lucario, I'm immune to poison? Did you also know... THAT MAKES IT REALLY HARD TO GET HIGH AND DRUNK?! I'm not going to mess you with the nitty gritty but I've gone to great lengths to make sure I'm buzzed and fuzzed enough to function throughout the day, bro. If you ever catch me lacking because someone thought it was funny to steal my stash or I lose it in a dungeon, treat me kindly because from what I understand what other guildmon, I'm a hot mess without it. I once came to holding Cyndaquil like a plush while crying like a bitch. Cyndaquil was crying too from me exuding aura... We swore to never speak of that again. Wait... Shit.
+>Uh... Fuck... NOT LONG ENOUGH, DUDE! According to Kina, my body rhythm makes it sound like I was dying of shock when I'm off my grass. I need to consume a lot for it to even take a hold of me, man... Did you know, by being a Lucario, I'm immune to poison? Hehe... Did you also know... THAT MAKES IT REALLY HARD TO GET HIGH AND DRUNK?! I'm not going to mess you with the nitty gritty, bro, but I've gone to great lengths to make sure I'm buzzed and fuzzed enough to function throughout the day, bro. Yes I know it's a problem. My best advise for my and the guild's welfare is if you ever catch me lacking because someone thought it was funny to steal my stash or I lose it in a dungeon, treat me kindly and get me to a safe location because from what I understand what other guildmon, I'm a hot mess without it. I once came back to consciousness to find myself holding Cyndaquil like some sort of plushie while crying like a bitch, man. Cyndaquil was crying too from me leaking my emotions through aura... We swore to never speak of that again. Wait... Shit.
 
 ###Pika
 Q1: What's the most important thing to have in a relationship?
@@ -347,7 +370,7 @@ Q2: How are you adapting to the Pokemon world?
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
 >Lliam: I would prefer to go solo as much as I can. There's a plethora of reasons that I don't want to get into detail, but one of the reasons is that it's  usually for research purposes, and bringing people along would hinder this process...
 
->Turk: Man, I tend to sell myself short on the kind of missions I do due to my... Problems. Some members are more willing to go with me than others for one reason or another... The other Lucario, Clara, for example hates my guts and is very particular on going solo, but has been willing to take me on high risk, high reward deals. 
+>Turk: Man, I tend to sell myself short on the kind of missions I do due to my... Various problems. A cheap job is better than no job... Some members are more willing to go with me than others for one reason or another... The other Lucario, Clara, for example hates my guts and is very particular on going solo, but has been willing to take me on high risk, high reward deals. I don't have any preferences, yet. Maybe one day I'll find someone who sees me eye to eye... You know what I mean. 
 
 >Clara: I prefer to go solo most of the time, makes it easier for me to only worry about myself instead of having to watch over others, I'm not anyone's babysitter. But, I can't deny that having an extra pair of fists (or paws) and a way to venture into deeper dungeons is pretty useful.
 
@@ -356,7 +379,11 @@ Q2: How are you adapting to the Pokemon world?
 **Guildmons with a dorm**, how is your room decorated?
 >Lliam: I suppose I'm also counted...? I don't sleep in the office like people are led to believe; my room is elsewhere around here. Where? Not tellin' ya! Anyways, I guess it's a basic small room, actually a bit smaller than other guild members' rooms, but that's fair because usually they are in pairs... Anyhow, by the entrance, there's a coat rack where I put my bag and other stuff. On the left side of the room is a wardrobe that has a bunch of my other clothes.. What's in there? That's a secret~! On the opposite side, there's a small bed. What's it made out of? Who knows, that's a trade secret~! And beside the bed is a desk, although it's a smaller one than the one in the office. And in front of the desk is a bulletin board with my research data and other stuff like that... The room itself, uhh... All I can say is plain, with a bunch of books and research scattered around, as I don't really care about the way it looks, honestly, though I really need to clean things up here...
 
->Turk: Well you see... The thing about that is... It's awful. Having one arm and a room to yourself really makes everything a drag... Please don't tell anyone how I live, man. I'll be forcibly assigned a roommate at this rate.
+>Error: Well my corner is mostly several shelves of my figures I crafted and nick-knacks I've discovered that I really like, as well as several books I've taken an interest to that I like to reread... Got my cotton bed situated as well as a cabinet for my explorer equipment. Over in the other end, Carrie had taken up residence and she keeps it rather plain... She brought a lot of her oddities from The Evaluator that'd be REALLY difficult to explain if anyone saw them in public... How does she hide those? All walls also have several old and new mission and bounty posters we've been using as a roadmap of our investigation. Hm... As for Rotom...
+>>Rotom: I live in his head, rent free!
+>>>Error: ...Yeah.
+
+>Turk: Well you see... The thing about that is... It's awful. Having one arm and a room to yourself really makes everything a drag... I just have shit piled everywhere and move it when I can be assed to. It's exhausting and I'm almost certain there's a Rattata living in a pile of refuse somewhere here and I might owe it money. Please don't tell anyone how I live, man. I'll be forcibly assigned a roommate at this rate!
 
 >\*Clara looks behind her, her room almost comically dark and dusty\*: (Clara sighs) Maybe one of these days... If I'm not feeling too tired and have enoigh time.
 >Smoke: You can sleep in there, right? For me that's good enough.
@@ -384,3 +411,6 @@ What continents are more frequently attacked by the blaziken raids? What do they
 >The Water Continent is most frequently attacked since that's where the tribe is located, followed by the Air Continent, while the Mist continent is usually avoided. Raids are not too common although the frequency of them has increased lately. Once a raid team reaches a point of interest, they first demand all the valuables. If the population of the town/kingdom/city/etc shows any sign of resistance, then the entire place is attacked, the civilians killed, and the buildings are burned to the ground. Raids are very successful (~85%) because scouts estimate the resistance the tribe will face and raid teams are assembled accordingly. 
 
 How common is it for your life to be at risk? Be it when venturing into a dungeon, hunting down a criminal, or just taking a stroll outside of town?
+>Error: Even when I'm not trying, I find myself almost dying, but this body just doesn't give up! I just seem to walk into danger by being me... I think the Pokemon form I've been granted is more of a curse than the blessing people may see it as.
+
+>Turk: Count how many limbs and working eyes I have, dude. I say I'm pretty high up for being at risk than most people here... And I can't help myself but keep trying to get involved in situations that are risky! Call me a thrill-seeker, bro!

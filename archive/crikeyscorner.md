@@ -29,12 +29,12 @@ Image | Name | Description | Link
 ![You WILL hug the bug and you WILL be happy.](https://files.catbox.moe/jr3w05.png) | Wriggle Nightbug | AKA Biggle Nightbug, Thiccle Nightbug, Wriggle Mightfug... Also works perfectly fine as a SFW card. A [Gensokyo lorebook](https://www.chub.ai/lorebooks/hebelover/Touhou-AkyuuKnowledge) can be added to enhance the roleplay experience, but shouldn't be necessary. Comes with three scenarios: Lost in the woods, Imperishable Winter and Harvest Masquerade. | [Catbox link](https://files.catbox.moe/jr3w05.png) [Full-res image](https://files.catbox.moe/ntcv61.png)
 ![Wild Bao-Feng's Intimidate cuts {{user}}'s ATTACK!](https://files.catbox.moe/af0yxa.png) | Bao-Feng | Gyarados personified. One of the guardians of the God of the Seas, this sea oni has an insatiable lust for battle and alcohol. Written to be completely used standalone, though I can imagine using it with a Pokémon lorebook might be interesting. Comes with four scenarios: Curse of the Sea God's Pearl, Sea God's honoring, Burnt Taverns Tell no Tales and Wounded on Stranger Tides. | [Catbox link](https://files.catbox.moe/af0yxa.png) [Full-res image](https://files.catbox.moe/pquhvr.png)
 ![Massive May Mammaries!](https://files.catbox.moe/s5urkz.png) | May | A relentless tease and massive shotacon, she uses her curvaceous body to drive young boys wild until they're begging to worship her. Created in a moment of weakness, no doubt my most hornyslop bot yet. Comes with three scenarios: Lavaridge Gym, Verdanturf Contest and Fortree Kecleon. | [Catbox link](https://files.catbox.moe/s5urkz.png) [Full-res image](https://files.catbox.moe/hls0as.png)
+![Hawkeye: there's a safespot underneath the dragon's tail we can abuse](https://files.catbox.moe/inj4ax.png) | Kala | Slobby NEET dragon whose hoard consists of rare loot in MMORPGs. Comes with two scenarios: online meet and offline meet. | [Catbox link](https://files.catbox.moe/inj4ax.png) [Full-res image](https://files.catbox.moe/1ajgt3.png)
 
 
 ***
 ##Proompts
 ***
-CLAUDE LIVES
 I'll still try to keep my future bots local-proof just in case we lose Claude access again anytime soon. When local, I'm ReMMSLERPing (v2) with the recommend settings from [this Rentry](https://rentry.org/colabfreellamas).
 
 ###Main prompt

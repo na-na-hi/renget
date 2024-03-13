@@ -49,5 +49,5 @@ https://mooms.neocities.org/
 ######[>horse girl](https://rentry.org/qf2osk)
 
 !!! info
-     -> 🪶 **Total Streaming Hours (Debut to Mei 2023)** 🪶<-
+     -> 🪶 **Total Streaming Hours (Debut to Feb 2024)** 🪶<-
 ######[Stats Page](https://rentry.org/99h7e)

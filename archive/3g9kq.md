@@ -104,7 +104,7 @@ ___________________________________
 ######Bocchi the moom Template
 ![](https://files.catbox.moe/36h6tt.png)
 _________________
-#### Various stuff (things made by Mumei herself and by other anons)
+#### Various stuff (things by Mumei herself and by other anons)
 | Nature | Link |
 |------|-----|
 | Anon's 3DS Themes | https://files.catbox.moe/royni2.zip |
@@ -115,3 +115,9 @@ _________________
 | Greatest Form of Hopium | https://files.catbox.moe/hl6c87.mp4 - https://streamable.com/qadsib \(dead) |
 | Voiceclips from the first superchat stream | https://mega.nz/folder/kTBTAKiD#2OcTxr5EQ36NHqv5AG-Ydg |
 |Anon's Armored Core 6 Emblems (PC only) \| [Example](https://warosu.org/vt/thread/58028137#p58033818)| L9XHP8Z69NV3 - HA7GZMGRTP5F - 8HJJPK94S1VM|
+
+###Merch messages 
+Messages, letters, interviews etc from official hololive merchandises or printed materials
+| Source | Link |
+|------|-----|
+|[LisAni hololive Music Collection](https://www.lisani.jp/0000247147/)| https://files.catbox.moe/uiomz3.pdf|

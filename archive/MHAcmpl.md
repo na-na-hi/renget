@@ -198,6 +198,7 @@ Helene Lysingen VN "Noctiluca": https://archive.4plebs.org/tg/post/88197005
 Takigawa Shion VN "Shapeless Blade: Aquarius": https://archive.4plebs.org/tg/post/88209069 (further information at https://controlc.com/9427985f)
 Toru Imaishi VN "Kampai": https://archive.4plebs.org/tg/post/88630353
 Yushi Taneka VN "Blazing Bright": https://archive.4plebs.org/tg/post/89012707
+Choko Yumiya, VN Eye High: https://archive.4plebs.org/tg/post/92132153/
 >The 5
 Samuel Wilson VN "Desolator": https://archive.4plebs.org/tg/post/88917340
 On Giết Năng VN "Tether": https://archive.4plebs.org/tg/post/88921198
@@ -752,6 +753,7 @@ dementia girl: https://desuarchive.org/tg/post/92109545/
 motley maids: https://desuarchive.org/tg/post/92120355/
 1D maid cafe: https://desuarchive.org/tg/post/92122707/
 tulpa: https://desuarchive.org/tg/post/92126151/
+bonfire dance: https://archive.4plebs.org/tg/post/92145990/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -826,6 +828,7 @@ CHIHIRO: https://archive.4plebs.org/tg/post/91767116/
 Reaper: https://desuarchive.org/tg/post/91805588/
 Sandy Fights a Troll: https://desuarchive.org/tg/post/91829392/
 max: https://desuarchive.org/tg/post/92121336/
+teachsensei (Rosethorn): https://archive.4plebs.org/tg/post/92146498/
 
 ***
 
@@ -1230,6 +1233,9 @@ The Symbol of Death: Part 4 (Reaper, Forget-Me-Not, Feral, Drekus, Ookami Shizuk
 A Kunoichi's Birthday (Ryu-kishi, Maru(maru), Marrow, 1-D, Hijack, a bunch of people): https://rentry.org/6zruhinr
 Monsters (Last Rite, Yamata): https://rentry.org/ph2rfaai
 The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic): https://rentry.org/pop2nnyq
+Chase (Kampai, other people): https://rentry.org/KampaiChase
+Tooth and Claw, Issue 1 (Saurus): https://rentry.org/qsrvx8
+A Friend in Need (Mirror Devil, Drone, Yamamoto, Yamata): https://rentry.org/p7zrib56
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm
