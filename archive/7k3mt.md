@@ -3,7 +3,7 @@
 Made by [u/erikahrna](https://www.reddit.com/user/erikahrna)
 [![Link to the MEGA folder](https://i.imgur.com/lNvsAWf.png)](https://mega.nz/folder/RvkmWCyA#VA_EjRU-1Mb6g9zNXKR3sg)
 
-**==LAST UPDATED:==** 12/03/24 [>[CHANGELOG]<](https://rentry.co/uvkrso)
+**==LAST UPDATED:==** 13/03/24 [>[CHANGELOG]<](https://rentry.co/uvkrso)
 **==CURRENT BETA VERSION:==** 2.1v3 BETA CHANGELOGS: - [HAKUSH.IN](https://hsr.hakush.in/) - [HONEY HUNTER](https://hsr.honeyhunterworld.com/new-in-2-0/?lang=EN) - [HOMDGCATWIKI](https://homdgcat.wiki/)
 
 !!! note
@@ -30,6 +30,8 @@ Acheron | Links
 Robin | Links
 ------ | ------
 ![Robin](https://i.imgur.com/iK5V8CC.png) ✦✦✦✦✦ - ![Physical](https://i.imgur.com/PeBJ13A.png) Physical - ![Harmony](https://i.imgur.com/Z7GSnep.png) Harmony | [FOLDER](https://mega.nz/folder/YudSFSIY#903TDRd3n3EGGLsmTDuSbw)
+**Boothill** | **Links:**
+![Boothill](https://i.imgur.com/IbqG26U.png) ✦✦✦✦✦ - ![Physical](https://i.imgur.com/PeBJ13A.png) Physical - ![Hunt](https://i.imgur.com/cAQhaDV.png) Hunt | [FOLDER](https://mega.nz/folder/pvNmjaIQ#4-SXdKUXviwVNlAwAW3fpg)
 
 
 ***
@@ -37,15 +39,14 @@ Robin | Links
 Screwllum | Sam
 ------ | ------
 ![Screwllum](https://i.imgur.com/1FvCTI5.png) ✦✦✦✦✦  - ![Imaginary](https://i.imgur.com/buCAgf5.png) Imaginary - ![Erudition](https://i.imgur.com/Rtr3L01.png) Erudition - [FOLDER](https://mega.nz/folder/Eysm2QIT#uuFRcMxB1wPXV7kgZo7C9g) |![Sam](https://i.imgur.com/SobQcSR.png) ✦✦✦✦✦ - ![Fire](https://i.imgur.com/tpLsgrd.png) Fire - ![Destruction](https://i.imgur.com/g4PgciK.png) Destruction - [FOLDER](https://mega.nz/folder/hmtgwI6I#3XBgSFQxeETzqIYRQF8l9g)
-**Boothill** | **Sunday** 
-![Boothill](https://i.imgur.com/q3CdAhA.png) ✦✦✦✦✦ - ![Physical](https://i.imgur.com/PeBJ13A.png) Physical - ![Hunt](https://i.imgur.com/cAQhaDV.png) Hunt - [FOLDER](https://mega.nz/folder/pvNmjaIQ#4-SXdKUXviwVNlAwAW3fpg) | ![Sunday](https://i.imgur.com/eEoCvmB.png) ??? - ??? - ??? - [FOLDER](https://mega.nz/folder/hzsxCShK#DZ9bXVgOfvggBiOVgKdz2Q)
+**Trailblazer** | **Sunday** 
+![Trailblazer](https://i.imgur.com/qUhLHwg.png) ✦✦✦✦✦ - ![Imaginary](https://i.imgur.com/buCAgf5.png) Imaginary - ![Harmony](https://i.imgur.com/Z7GSnep.png) Harmony - [FOLDER](https://mega.nz/folder/p7E3RIbA#bic7YTgVMDtyANL1xpAybg) | ![Sunday](https://i.imgur.com/eEoCvmB.png) ??? - ??? - ??? - [FOLDER](https://mega.nz/folder/hzsxCShK#DZ9bXVgOfvggBiOVgKdz2Q)
 **Jiaoqiu** |  **Jade**
 ![???](https://i.imgur.com/HExXDur.png) ??? - ![Fire](https://i.imgur.com/tpLsgrd.png) Fire - ![Nihility](https://i.imgur.com/tE7oard.png) Nihility - [FOLDER](https://mega.nz/folder/pqMwCR4I#SQldFnE3BFkHFUgVevllrg) | ![???](https://i.imgur.com/HExXDur.png) ✦✦✦✦✦ - ![Quantum](https://i.imgur.com/NlnMYy5.png) Quantum - ![Erudition](https://i.imgur.com/Rtr3L01.png) Erudition - [FOLDER](https://mega.nz/folder/13UjQBAA#p1ktS6BieVGvSS03tVLuFQ)
 **Stephen** | **Feixiao**
 ![???](https://i.imgur.com/hOohu15.png) ??? - ![Ice](https://i.imgur.com/D82etDH.png) Ice? - ??? | ![???](https://i.imgur.com/HExXDur.png) ✦✦✦✦✦ - ![Wind](https://i.imgur.com/Xi0ZGJe.png) Wind - ![Hunt](https://i.imgur.com/cAQhaDV.png) Hunt
-**Moze** | **Trailblazer**
-![???](https://i.imgur.com/hOohu15.png) ✦✦✦✦✦ - ![Lightning](https://i.imgur.com/yR86c5r.png) Lightning - ![Hunt](https://i.imgur.com/cAQhaDV.png)![Erudition](https://i.imgur.com/Rtr3L01.png) Hunt/Erudition? | ![Trailblazer](https://i.imgur.com/qUhLHwg.png) ✦✦✦✦✦ - ![Imaginary](https://i.imgur.com/buCAgf5.png) Imaginary - ![Harmony](https://i.imgur.com/Z7GSnep.png) Harmony - [FOLDER](https://mega.nz/folder/p7E3RIbA#bic7YTgVMDtyANL1xpAybg)
-
+**Moze** | 
+![???](https://i.imgur.com/hOohu15.png) ✦✦✦✦✦ - ![Lightning](https://i.imgur.com/yR86c5r.png) Lightning - ![Hunt](https://i.imgur.com/cAQhaDV.png)![Erudition](https://i.imgur.com/Rtr3L01.png) Hunt/Erudition? |
 
 ***
 ##Possibly Scrapped, Placeholder or Characters with no Info

@@ -12,7 +12,7 @@ Cunny Challenge Mk. II will be whenever pixelkike is ready.
 **THU: - at 3UTC ()** 
 **FRI: Rockman Taisen at 3UTC (Parsec)**
 **SAT: Dragon Ball Z: Buu's Fury at 3UTC (Telemelt)**
-**SUN: Minemelt 19UTC* (Minecraft)**
+**SUN: Minemelt at 19UTC* (Minecraft)**
 
 ##Cytubes
 

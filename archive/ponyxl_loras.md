@@ -4,7 +4,8 @@
 
 -> Name <- | ->Details <- | Hash |  Source | Samples | Download
 ------ | ------ | :----: | :----: | :----: | :----:
-Aer0 Zer0 | Works fine with a strength of `0.8` up to `1.0`; add `(realistic:1.1)` and `Smooth Anime Style` or `Concept Art Style` for extreme detail | c7028310ddb8 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40892871) | [catbox.moe](https://catbox.moe/c/zaj5t0)  | catbox\.moe [1](https://files.catbox.moe/b7uzxm.001) [2](https://files.catbox.moe/537vgi.002) [pomf.lain.la](http://pomf2.lain.la/f/53amu.safetensors)
+Aer0 Zer0 | Works fine with a strength of `0.8` up to `1.0`; add `(realistic:1.1)` and `Smooth Anime Style` or `Concept Art Style` for extreme detail | c7028310ddb8 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40892871) | [catbox.moe](https://catbox.moe/c/zaj5t0) | [pomf.lain.la](http://pomf2.lain.la/f/53amu.safetensors)
+Alcor | Model is based mostly on older works | 434a34840bde | [desuarchive.org](ttps://www.desuarchive.org/mlp/post/40904419) | [catbox.moe](https://catbox.moe/c/qh8033) | [catbox.moe](https://files.catbox.moe/cztebe.7z)
 Crade  | Activation tag is `crade` and works best with a strength of `0.8` | 226aaface760 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40861670) | [catbox.moe](https://catbox.moe/c/zwuay5)  | [catbox.moe](https://files.catbox.moe/moo0fj.7z)
 HeavyMetalBronyYeah  | - | fb15c2f9fb56 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40888867) | [catbox.moe](https://catbox.moe/c/hutk05) | [catbox.moe](https://files.catbox.moe/ywgog1.7z)
 MagnaLuna (Large) | Trained for 825 steps at dim 48 alpha 24 | 5f2140bc253c | [desuarchive.org](https://www.desuarchive.org/mlp/post/40896000) | [catbox.moe](https://catbox.moe/c/pr7a7h) | [pomf.lain.la](http://pomf2.lain.la/f/sd2b5w8.7z)
@@ -19,7 +20,7 @@ Shino | - | f9617bce33ae | [desuarchive.org](https://www.desuarchive.org/mlp/pos
 Shydale | Activation tag is `shydale` | d2adc398d793 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40874204) | [catbox.moe](https://catbox.moe/c/dnwnn8) | [catbox.moe](https://files.catbox.moe/ptyku4.7z)
 TheBatFang | - | dcccde13bd57 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40894694) | [catbox.moe](https://catbox.moe/c/2nzyr2) | [catbox.moe](https://files.catbox.moe/30qz6o.7z)
 VanillaGhosties | - | 7d137e19ad9b | [desuarchive.org](https://www.desuarchive.org/mlp/post/40901349) | [catbox.moe](https://catbox.moe/c/ajaho9) | [catbox.moe](https://files.catbox.moe/z4v4t1.safetensors)
-WeLost | Works fine with a strength of `0.8` up to `1.0`; add `(realistic:1.1)` and `Smooth Anime Style` or `Concept Art Style` for extreme detail | a187d7f8f06f | [desuarchive.org](https://www.desuarchive.org/mlp/post/40892871) | [catbox.moe](https://catbox.moe/c/cm5hen) | catbox\.moe [1](https://files.catbox.moe/wi2ox2.001) [2](https://files.catbox.moe/dq7ort.002)  [pomf.lain.la](http://pomf2.lain.la/f/ltxaxs7s.safetensors)
+WeLost | Works fine with a strength of `0.8` up to `1.0`; add `(realistic:1.1)` and `Smooth Anime Style` or `Concept Art Style` for extreme detail | a187d7f8f06f | [desuarchive.org](https://www.desuarchive.org/mlp/post/40892871) | [catbox.moe](https://catbox.moe/c/cm5hen) | [pomf.lain.la](http://pomf2.lain.la/f/ltxaxs7s.safetensors)
 
 ## Character LoRAs
 

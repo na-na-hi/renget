@@ -297,6 +297,11 @@ WEBRip - [1080p PIA WEBRip](https://nyaa.si/view/1495015) / [LQ 1080p](https://n
 LoveLive! Series 9th Anniversary Love Live! Fest
 BRRip - [1080p engsub](https://nyaa.si/view/1785882) / [1080 x265](https://nyaa.si/view/1786747) / [720p x265](https://nyaa.si/view/1786748) ![](https://files.catbox.moe/c95yx7.gif)
 
+LoveLive! Unit Koshien 2024 D1D2
+[1080p WEBRip](https://nyaa.si/view/1788731) ![](https://files.catbox.moe/c95yx7.gif)
+
+
+
 ###µ's
 ####CONCERTS/LIVES/VODs
 1st ~ 6th Lives 720p

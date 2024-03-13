@@ -3,7 +3,7 @@
 -> ![Avatar](https://avatars.charhub.io/avatars/users/avatars/plain/aiwaifuenthusiast.png) <-
 
 -> https://chub.ai/users/aiwaifuenthusiast <-
--> Logs, feedback, tokens: piixi@proton.me <-
+-> Logs, feedback, user tokens: piixi@proton.me <-
 -> Discord: `aiwaifuenthusiast` <-
 
 ---
@@ -22,15 +22,31 @@ When Claude 3 came out, it was clear that old JBs don't work very well and a lot
 - **Minimal**: A good Claude 3 jailbreak is as little jailbreak as possible. Every sentence has a purpose and observable effect. It's just plain English explanations of what the model should do, wrapped up with basic XML. Too many instructions would confuse Claude, and a confused model is a dumber model.
 - **Compatible**: Cards can be titled after a character, a group, a place or a situation. They can use asterisks or not. Works with system prompt overrides without dropping your custom preferences. Claude is smart and will follow up on whatever the greeting looks like.
 - **Tweakable**: Sections that can be modified or toggled are clearly marked and explained via ST comment macros.
-- A **CoT** (chain of thought) is included to improve coherence and increase swipe variety. It stays hidden with no extra regex (if *User Settings* > *Show <tags> in responses* is off), and can be disabled.
+- A **CoT** is included but disabled by default. Use [instructions below](#CoT) to set it up.
 - **Impersonation** and **Continue** are functional, and not broken by the prefill or CoT.
 - Use text in [square brackets] to influence the story.
 - Thoroughly tested on **Sonnet**, enabling it to drive complex cards with stat blocks or other such gimmicks.
 - **Temperature** and other model settings are arbitrary and not part of the JB. Adjust to personal preference.
 
+### CoT
+
+The JB is pretty good out of the box, but you can greatly improve coherence, creativity and swipe variety by setting up the **CoT** (Chain of Thought) block. This splits up the task of generating a response into smaller subtasks, such as retrieving relevant parts of the context, deciding how a character should act, thinking up random events, etc. Only after all that the model proceeds to write the actual prose.
+
+Here's how you can enable it:
+1. Toggle on the CoT block in the *Prompt list*. ![CoT figure 1](https://files.catbox.moe/6o4n57.jpg)
+2. Go to *Extensions* > *Regex* > *Import Script*. ![CoT figure 2](https://files.catbox.moe/msaqa3.jpg)
+3. Import [this script](https://files.catbox.moe/oxmo61.json) ([source](https://rentry.org/vcewo#regex-to-deletehide-cot)) and make sure it's enabled.
+
+This sets up your ST to delete the CoT after generation, since at that point it's served its purpose and okly bloats up the context. If you want to keep it, disable the script or check *Only Format Display*.
+
 ### Releases
 
-[LATEST - v4.2](https://files.catbox.moe/econae.json)
+[LATEST - v5](https://files.catbox.moe/b2z0xc.json)
+- Disabled CoT by default again.
+- Added setup instructions to CoT comment.
+- Removed HTML tags that hide the CoT.
+
+[v4.2](https://files.catbox.moe/econae.json)
 - Reworked CoT to be easier to parse.
 - Added event listing to CoT for more variety.
 - Enabled CoT by default.

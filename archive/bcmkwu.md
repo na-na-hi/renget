@@ -1,3 +1,5 @@
+>New Geranium-2 drone with a jet engine
+https://files.catbox.moe/72od1t.mp4
 >Sudoplatov FPV night shots 
 https://files.catbox.moe/ozob0z.MP4 
 >American M109 “Paladin" after a Lancet strike 

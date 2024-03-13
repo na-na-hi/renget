@@ -8,6 +8,11 @@ Ah, hello there. Didn't see you come in. I'm an image proompter by origin, but d
 [TOC2]
 ***
 ##Bots
+‎ | ‎ | ‎ | ‎ | ‎ | ‎
+:----: | :----: | :----: | :----: | :----: | :----:
+![Valerie](https://files.catbox.moe/h9ctmu.png) | ![Alex](https://files.catbox.moe/mmi73s.png) | ![Tyana & Lycia](https://files.catbox.moe/fgpxiy.png) | ![Tiche](https://files.catbox.moe/xws5ku.png) | ![Ashley](https://files.catbox.moe/hlhdxi.png) | ![Sabor](https://files.catbox.moe/5ymn05.png)
+![Natye](https://files.catbox.moe/careds.png) | ![Viola](https://files.catbox.moe/a47y9j.png) | ![Ysilde & Delynther](https://files.catbox.moe/hub0x2.png) | ![Bao-Feng](https://files.catbox.moe/6qce6k.png) | ![Kala](https://files.catbox.moe/ohrrml.png) | ![MYSTERY NIGGA](https://files.catbox.moe/l7q7b1.png)
+
 All my bots can also be found on my [Chub profile.](https://www.chub.ai/users/crikeymcdoodle)
 If you got any logs or feedback or ideas or big anime tiddies you wanna send me, here's my burner: alvinlamberpitch@proton.me
 Image | Name | Description | Link
@@ -118,7 +123,7 @@ Whenever {{char}} provides one of her wares to {{user}}, append a statblock betw
 ##Cards for this feel?
 ***
 I like image proompting, but I don't always have a bot idea for every image I make. Instead of letting those images go to waste, I'll dump them here and maybe someone else can make a bot out of it. If you've made a bot using one of my images, I'd love it if you could let me know through my burner mail found at the top. Also, there's no need to credit me, though it would certainly be appreciated.
-Image | Image
+‎ | ‎
 :----: | :----:
 ![Why is this smirking goblin wearing a tracksuit?](https://files.catbox.moe/h1ysek.png) | ![A buddy of mine wanted a goblin in striped socks, so here we are.](https://files.catbox.moe/kotaeu.png)
 ![A cool dragon warrior girl or something?](https://files.catbox.moe/r34mk1.png) | ![I wanted to go for a mobface single mom with a stunning body, but you can put your own spin on it.](https://files.catbox.moe/fpzm3r.png)

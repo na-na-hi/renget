@@ -189,7 +189,7 @@ Speed: Fast (XP)
 
 	Type: Emitter
 
-	Description: He can secrete drug-like substances from his body in the form of liquids or, with greater effort, gas. These substances can be customized by him to cause a variety of effects. With focus they can even reach levels of true mad science. He produces these substances from the resources in his body, like nutrients and hydration.
+	Description: : This quirk allows the user to secrete drug-like substances from their body in the form of liquids or, with greater effort, gas. These substances can be customized to cause a variety of effects. With focus they can even reach levels of true mad science. These substances are made from the resources in the body, like nutrients and hydration.
 
 Projection
 -Fluid
@@ -209,7 +209,7 @@ Projection
 
 	Type: Mutant
 
-	Description: This quirk allows the user to secrete drug-like substances from their body in the form of liquids or, with greater effort, gas. These substances can be customized to cause a variety of effects. With focus they can even reach levels of true mad science. These substances are made from the resources in the body, like nutrients and hydration.
+	Description: This quirk allows the user to adapt to their current situation by developing the appropriate animal traits as long as they are feeling bloodlust. It also increases their physical strength.
 Life Mimicry
 -Kingdom: Animals
 -Innate

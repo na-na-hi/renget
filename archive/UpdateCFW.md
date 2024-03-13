@@ -9,7 +9,7 @@ There are two methods when it comes to updating your CFW:
 ***
 ####PC Method
 ***
-!!!note Sigpatches need to be updated only on each ==firmware== update, not each ==CFW== update. This is thanks to [sys-patch](https://github.com/ITotalJustice/sys-patch).
+!!!note Sigpatches need to be updated only on each ==firmware== update, not each ==CFW== update. This is thanks to [sys-patch](https://sigmapatches.su/sys-patch.zip).
 
 !!! Info You can access your SD card contents via USB by following [this](https://rentry.org/SDCardViaUSB#hekate) guide.
 #####What you'll need:

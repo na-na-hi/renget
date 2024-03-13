@@ -1,7 +1,8 @@
 https://huggingface.co/spaces/vgdasfgadg/c
 Unclogged endpoints!
-I will let the people have some fun by enabling DALL-E.
-Stop emailing me about paying for a token. Thank you.
+Too cringe even for me desu
+No I don't expect or want anyone to buy it.
+!>https://whocars.sell.app/
 mysteryman63453121@proton.me
 Grift:
 !>BTC: bc1q55t9fakmyng35qm9n3eqsf585kg4u6d60wd5r2

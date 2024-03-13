@@ -4,7 +4,8 @@
 Previous: >>
 
 \>Version 2.1 "Into the Yawning Chasm" Special Program will be released on March 16 at 19:30 (UTC+8)
-https://www.twitch.tv/honkaistarrail/schedule
+https://www.youtube.com/watch?v=yWd6NeDxN9s
+https://www.youtube.com/watch?v=aDhaaLhcmj0
 
 \>Download - https://hsr.hoyoverse.com/en-us/home
 

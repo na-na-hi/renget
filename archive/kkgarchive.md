@@ -1,7 +1,7 @@
 ## /kkg/ Thread Archive
 
 !!! note
-    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7873001/](https://boards.4chan.org/h/thread/7873001/)**&nbsp;&nbsp;&nbsp;&nbsp;(07.03.2024 23:36)&nbsp;#&nbsp;Tick tock Edition
+    **Live&nbsp;-&nbsp;[boards.4chan.org/h/thread/7888126/](https://boards.4chan.org/h/thread/7888126/)**&nbsp;&nbsp;&nbsp;&nbsp;(13.03.2024 19:04)&nbsp;#&nbsp;An Empire of Sand Edition
 
 [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020) | [2019](#2019) | [2018](#2018)
 :------: | :------: | :------: | :------: | :------: | :------: | :------:
@@ -9,6 +9,7 @@
 ---
 
 ##&nbsp;->2024<-
+- 686&nbsp;&nbsp;[archiveofsins.com/h/thread/7888126/](https://archiveofsins.com/h/thread/7888126/)&nbsp;&nbsp;&nbsp;&nbsp;(13.03.2024 19:04)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;An Empire of Sand Edition
 - 685&nbsp;&nbsp;[archiveofsins.com/h/thread/7873001/](https://archiveofsins.com/h/thread/7873001/)&nbsp;&nbsp;&nbsp;&nbsp;(07.03.2024 23:36)&nbsp;&nbsp;[>>current]&nbsp;#&nbsp;Tick tock Edition
 - 684&nbsp;&nbsp;[archiveofsins.com/h/thread/7863651/](https://archiveofsins.com/h/thread/7863651/)&nbsp;&nbsp;&nbsp;&nbsp;(04.03.2024 04:32)&nbsp;&nbsp;[1003]&nbsp;#&nbsp;Waiting Edition
 - 683&nbsp;&nbsp;[archiveofsins.com/h/thread/7858170/](https://archiveofsins.com/h/thread/7858170/)&nbsp;&nbsp;&nbsp;&nbsp;(02.03.2024 01:13)&nbsp;&nbsp;[939]&nbsp;#&nbsp;BE MOTIVADED Edition

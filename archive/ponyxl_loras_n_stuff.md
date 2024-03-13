@@ -366,6 +366,7 @@ https://files.catbox.moe/ydfkfj.safetensors character_seele_starchasm_nyx activa
 https://files.catbox.moe/0escz4.safetensors character_sindel activation trigger is sindel, helps to have multicolored_hair in the prompt to get the black streak in her hair to show up
 https://files.catbox.moe/pagyj3.safetensors character_agnes_tachyon activation trigger is agnes_tachyon_\(umamusume\)
 https://files.catbox.moe/ou15oe.safetensors character_rishiah_ivyred activation trigger is rishia ivyred, seemd like you need to prompt her features as well like green hair, green eyes, twin braids, very long hair, hair bow. example gen: https://files.catbox.moe/5t64vg.png
+https://files.catbox.moe/62g6g1.safetensors character_uni seems like un1 is the activation trigger,  example gens: https://files.catbox.moe/3ijdtz.png, https://files.catbox.moe/rgndp3.png, https://files.catbox.moe/t306wb.png
 
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
@@ -806,6 +807,9 @@ mugi_(banban53)
 
 [![no scores](https://files.catbox.moe/mdx9j0.png)](https://files.catbox.moe/bw68p8.png)[![using 3d in neg](https://files.catbox.moe/bs2si1.png)](https://files.catbox.moe/djnrpj.png)[![using score_9](https://files.catbox.moe/kcvjsy.png)](https://files.catbox.moe/2g34ti.png)[![using all score tags](https://files.catbox.moe/6q0ggm.png)](https://files.catbox.moe/62xaa6.png)
 mana_kakkowarai
+
+[![1girl, cowboy shot, wide hips, hand on hip, contrapposto, one-piece-swimsuit, beach, sky, cloud NEG: monochrome, greyscale](https://files.catbox.moe/xlr9r6.png)](https://files.catbox.moe/aoeusb.png)[![chun-li, upper body, looking at viewer, crossed_arms, annoyed, city, sky NEG: 3d, monochrome, greyscale](https://files.catbox.moe/qevsx5.png)](https://files.catbox.moe/vd6lg0.png)[![source_anime, score_9, from behind, cowboy_shot, 2b \(nier:automata\), ass_focus, leotard, hands on hips, looking back NEG: monochrome, greyscale](https://files.catbox.moe/c3rsm6.png)](https://files.catbox.moe/sh86y8.png)[![source_anime, score_9, score_8_up, score_7_up, score_6_up, score_5_up, score_4_up, tatsumaki, sitting, on_bed, leg_up, leaning back, arm_support, smug NEG: source_pony, monochrome, greyscale, topless](https://files.catbox.moe/54ojqr.png)](https://files.catbox.moe/3ggenf.png)
+mdf_an
 
 last tried was yanyan_\(shinken_gomi\)
 

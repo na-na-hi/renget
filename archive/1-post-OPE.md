@@ -6,17 +6,18 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 284th time, what is Ope?!
+For the 285th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: TBA
-Twitter Voices in Japan (With Fuwamoco and Kiara)
-https://twitter.com/fuwamoco_en/status/1767521725766664632
-https://twitter.com/takanashikiara/status/1767452224651985249
-Last stream (zatsudan)
-https://www.youtube.com/watch?v=f7bZQzLL5oU
+▼ Next stream: TBA
+▼ Recent appearances
+03/13 Twitter space with Kiara: https://twitter.com/i/spaces/1djGXNZmmlBxZ
+03/12 Twitter voice with Kiara: https://twitter.com/takanashikiara/status/1767452224651985249
+03/12 Twitter voice with FWMC: https://twitter.com/fuwamoco_en/status/1767521725766664632
+▼ Last stream (first zatsudan from Japan)
+https://www.youtube.com/watch?v=lgnBEaH-Rh8
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID
@@ -37,7 +38,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>71191039
+Previous thread: >>71229325
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

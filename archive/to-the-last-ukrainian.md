@@ -175,7 +175,7 @@
 [ [catbox](https://files.catbox.moe/gj8xit.webm) | [ipfs](https://ipfs.io/ipfs/QmUnDefr5CSGqqiT2uaktzcw16bThWhUj2gdhXdgBKy8Vh) ] - Into the crossover
 
 !!! info
-	Help to contribute: chubconscription@cock.li
+	Help to contribute: uadraftmuseum@tuta.com
 
 !!! info
 	Full archive: [mega](https://mega.nz/folder/gzkWnZQS#yyUhQjc0C9-3sXLDd2ZwWg)

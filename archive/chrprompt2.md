@@ -341,11 +341,15 @@ Q4: Why are you so fruity? Are you allergic to taking matters seriously?
 
 ###Beau
 Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?
+>Honestly, I just got here. The selective amnesia isn’t as much of a bother as I thought. Seeing more memories come back the longer I’m around, gives me a little hope that I’ll figure everything out eventually. I’m just happy I remembered Mako and Dav when I ran into them. That makes this whole thing a lot easier to swallow. I know I can’t do anything right now, so I’m taking it one step at a time.
 Q2: Do you consider yourself lucky or unlucky to have been transformed into an Espeon?
+>That’s a tough one… My favorite Pokémon is actually Dragonite. But I guess I can’t really see myself in a Dragonite. I’ve only been an Espeon for like… a day at the time of writing this, well actually having Mako write this for me. But I know that eventually I can use psychic powers. I just have to learn, that alone makes me feel lucky.
 
 ###Mako
 Q1: What's your opinion of Snorlax as a Pokemon?
+>Snorlax is the best Pokémon to ever be conceived. My obsession for Snorlax know no bounds. He's a lazy fluffball who can't even bother to open his eyes. All he knows is sleep and eat. When he's sleepy, he's a giant soft teddy bear. You can jump on his belly like a trampoline and even join in on his nap. When he's hungry, he becomes a menace of untold destruction. He will eat and eat until there is nothing left. Often do you hear tales of a single Snorlax starving and displacing entire villages and other major population centers. Snorlax doesn't give a shit. Snorlax will take what he wants. And if you try standing up to him, he will utterly destroy you by either a giga impact, hyper beam, or simply by just sitting on you. I fucking love Snorlax.
 Q2: How are you adapting to the Pokemon world?
+>The Pokémon world is pretty chill. I get to avoid the stresses of the human world and get to explore the world with my best friends. Although, since arriving in the Pokémon world, I’ve grown to feel like I’m missing something important. This world is fun, but I kinda want to go back. Doesn't help that I'm always hungry since I'm a Munchlax. I even keep an everstone with me at all times to prevent me from evolving despite my love for Snorlax. This is because I don't want to evolve and not be able to do anything other than sleep and eat. I would not be able to have any more fun adventures with my team or perhaps even find a way out of the Pokémon world.
 
 ##->**General Questions**<-
 

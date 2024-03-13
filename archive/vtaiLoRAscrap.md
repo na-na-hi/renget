@@ -95,6 +95,7 @@ LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947/koseki-b
 **Nyatasha Nyanners (VShojo)** - https://civitai.com/models/333212/nyanners-vtuber
 **Amalee (Indie)** - https://civitai.com/models/338229/amalee
 **Reiny (Indie)** - https://files.catbox.moe/741x5d.safetensors [CatboxTagInfo](https://warosu.org/vt/thread/S70975134#p71040638)
+**Marica Bellerose (MyHoloTV)** - https://civitai.com/models/348647/marica-bellerose-myholotv
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

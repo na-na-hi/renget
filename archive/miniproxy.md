@@ -19,7 +19,7 @@ total **active** users: 122 %red% (CLOSED) %%
 
 - I don't have a tripcode 
 - I will check the emails and answer every single one of them.
-- You can donate api keys and sources for access to the proxy.
+- You can donate api keys and sources for access to the proxy. PLEASE DONT FILL YOUR PERSONAL KEYS WITH MONEY THAT'S NOT WHAT I MEAN.
 - The proxy will only use organization keys.
 - Miniproxy is not logged and will never be.
 - I am not accepting monetary donations because they caused too much drama. 

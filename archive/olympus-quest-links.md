@@ -8,6 +8,9 @@ https://rentry.org/ate-incarnation-status
 Braun:
 https://rentry.org/diomedes-incarnation-status
 
+Philotes
+https://rentry.org/philotes-incarnation-status
+
 >Inventory
 
 Ate:

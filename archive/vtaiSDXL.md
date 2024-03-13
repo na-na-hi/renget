@@ -43,6 +43,8 @@
 -> [Civitai](https://civitai.com/models/239394/houshou-marine-or-sdxl-or-every-outfit) <-
 ##### -> Ceres Fauna <-
 -> [Civitai](https://civitai.com/models/221124/ceres-fauna-sdxl) <-
+##### -> Ouro Kronii <-
+-> [Civitai](https://civitai.com/models/347653/ouro-kronii-hololive-xl-v10) <-
 
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
@@ -522,7 +524,7 @@
 -> [Civitai](https://civitai.com/models/326585/gawr-gura-xl-7-outfits-hololive) <-
 
 ##### -> Hololive -Promise- <-
-!!! info Contains the entirety of promise? 
+!!! info Contains the entirety of promise (ceres fauna, hakos baelz, irys, nanashi mumei, ouro kronii, tsukomo sana)
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/folder/0yEByBwQ) <-
 
 ##### -> Koseki Bijou <-
@@ -563,6 +565,9 @@
 -> **or even** <-
 !!! info third lora to test, check tags from [archive](https://warosu.org/vt/thread/S70975134#p71006758)
 -> [Catbox](https://files.catbox.moe/y85mip.safetensors) <-
+-> **OR EVEN THIS** <-
+!!! info fourth lora to test, jesus christ how many are there gonna be kek. check tags from the uploader
+-> [Civitai](https://civitai.com/models/348804/fuwawa-abyssgard-1st-costume) <-
 
 ##### -> Mococo Abyssgard <-
 !!! note Tags suggested by uploader, not me
@@ -741,6 +746,9 @@
 
 ##### -> Higuchi Kaede <-
 -> [Civitai](https://civitai.com/models/341612/higuchi-kaede-nijisanji-ponyxl) <-
+
+##### -> Shiina Yuika <-
+-> [Civitai](https://civitai.com/models/348560/shiina-yuika-nijisanji-ponyxl) <-
 
 ##### -> Nina Kosaka <-
 !!! info 2 Outfits!

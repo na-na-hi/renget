@@ -206,7 +206,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ### Deezer
 
 #### Deezer ARLs
-!!! info Check this site for guide on how to use ARLs: https://deemixapp.co/deezer-user-arl-token/ - ✅ **All Checked on 2024-03-07** | **Changes made on 2024-03-13 @ 13:58 UTC**
+!!! info Check this site for guide on how to use ARLs: https://deemixapp.co/deezer-user-arl-token/ - ✅ **All Checked on 2024-03-07** | **Changes made on 2024-03-13 @ 16:45 UTC**
 
 !!! info Check Deezer ARLs with this script
     [Download here](https://rentry.co/stracc). Thanks to FrankYaLatr.
@@ -222,7 +222,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 **Asia:** Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei, Cambodia, Cyprus, East Timor, Georgia, Indonesia, Iraq, Israel, Japan, Jordan, ~~Kazakhstan~~, Kuwait, Kyrgyzstan, Laos, Lebanon, Malaysia, Mongolia, Nepal, Oman, Pakistan, Qatar, Saudi Arabia, Singapore, Sri Lanka, Tajikistan, Thailand, the Maldives, the Philippines, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, or Yemen
 **Oceania:** Australia, Christmas Island, Cocos Islands, Cook Islands, Federated States of Micronesia, Fiji, Kiribati, Marshall Islands, Nauru, ~~New Zealand~~, Niue, Norfolk Island, Palau, Papua New Guinea, Pitcairn Islands, Solomon Islands, Samoa, Tokelau, Tonga, or Tuvalu
 **Europe:** Albania, Austria, Belgium, Bosnia and Herzegovina, ~~Bulgaria~~, Croatia, Czech Republic, ~~Denmark~~, Estonia, Finland, ~~France~~, ~~Germany~~, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Lithuania, Luxembourg, ~~North Macedonia (formerly Macedonia)~~, Malta, Moldova, Montenegro, Norway, ~~Netherlands~~, Poland, Portugal, Romania, ~~Serbia~~, Slovakia, ~~Slovenia~~, ~~Spain~~, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, or ~~United Kingdom~~
-**North America:** Anguilla, Antigua and Barbuda, Barbados, British Virgin Islands, Canada, Cayman Islands, Costa Rica, Dominica, El Salvador, Grenada, ~~Guatemala~~, ~~Honduras~~, Jamaica, ~~Mexico~~, Montserrat, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Turks and Caicos Islands, or ~~United States of America~~
+**North America:** Anguilla, Antigua and Barbuda, Barbados, British Virgin Islands, ~~Canada~~, Cayman Islands, Costa Rica, Dominica, El Salvador, Grenada, ~~Guatemala~~, ~~Honduras~~, Jamaica, ~~Mexico~~, Montserrat, Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Turks and Caicos Islands, or ~~United States of America~~
 **South America:** Argentina, Bolivia, ~~Brazil~~, Chile, Colombia, ~~Ecuador~~, ~~Paraguay~~, ~~Peru~~, the Falkland Islands, Uruguay, or Venezuela
 
 
@@ -235,6 +235,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ->![Brazil/Brasil](https://files.catbox.moe/uhsuqf.png)<- | Deezer Premium | 2099-12-31 | `fecc5b66fb1deaf925d3937dda737a790f6395acf60452d0883bdab47ec9599436a559f866ff6b34caa5fef5ebb76f708bde6b4da9a056860547fdd1f9447b382dff083486cbb7d93b68ff0b1f4a6cba78fa553dd568796a861488f3915d2782`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
 ->![Bulgaria/България](https://files.catbox.moe/4jq6mw.png)<- | Deezer Premium | 2099-12-31 | `b9f2c3a45299eb44d2290274ccb6070c0ca6eeb71fa3fed66a80412631036e90cb9a9538c003b2b39c0e119e0b16764791392d17faea68fc0c34085fb776d918aaa7deea6c4cd432f5e1ce5b4a01df55dd927c98a4e4352d48eae270b3e0c1b9`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Bulgaria/България](https://files.catbox.moe/4jq6mw.png)<- | Deezer Premium | 2099-12-31 | `246ff1155feee66e193dbde41e23b94f02b7d1442a7a78e6c19f998b81b110fe1c51ccb1768ca1bd3906a69cc48e15148ba77f7a857d4c1ff7e73c865f4b5efe027bf1760d004e9ba0376a0a2808011f6d2da55314ac6b2d0e9712e2204ecd0d`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
+->![Canada](https://files.catbox.moe/1u7jjt.png)<- | Deezer Premium | 2024-04-13 | `a60b92035a035adc7091afd652c37a56c1c317ac8e0687b9a62561cb8ca7fb17512fa3bff535270baee4be1a864bbf682c9fbf9430f70e47058cca967f969dbf9d5acaad90b0fe6226064ac4c4f322b23566b6e608454e7f027e792370edbc4a`| ->![Edgar](https://files.catbox.moe/oxlb1w.png)<-
 ->![Croatia/Hrvatska](https://files.catbox.moe/qtn4lz.png)<- | Deezer Premium | 2099-12-31 | `605754ea75c08c9d3eace89a889b55f09b7499dc956812e94c620717ea0ccc61ef3d1f821d0ccff80583b6a8ae77467e909f781509e3d63a12f649a9899d7d141844c22f0862719213fcd2b140b29d46fd78d8ef2a5e0a0ba81d4d235e8358de`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Croatia/Hrvatska](https://files.catbox.moe/qtn4lz.png)<- | Deezer Premium | 2099-12-31 | `9ed0ce9f11d6828148b3d08b69319cb84a8b386e4c4f97506a6d1de78f9e1f6a5c5b33aee9413c9beec3fa2a575eef5dc9707e7296fa19a1717aae1376c0f566f9aa9779d2a7609d43bc5babb13f449148cc1734d70adad176cf190169f3b00e`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![Denmark/Danmark](https://files.catbox.moe/79yf4w.png)<- | Deezer Premium | 2099-12-31 | `4b1ea6126129398f48b10c565e814ac09ca5316f397ca1ffd42ca5858b6978b4f5d5dfe0bcc3130c15bac5755eb242d77ad6442a1a33d52e762b8a260d39f6fe0b7a561b62e8198af184a847b2440fa33a73f62a52c7371bea34a3bbea866d9f`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
@@ -275,6 +276,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ->![South Korea/한국](https://files.catbox.moe/v2fs9t.png)<- | Deezer Family | 2024-03-17 | `29f35bb1e5ad3bd91250a6113ce19b9b15e2895c2e863c1a86b1c17db083df4a19dca0ee43afbb3ae9ce566e7ddd64ba16c991cb8c762dd781ad0bbde41b93b1f9285ad69ee0bd55e439f1f1ae98579578cb8995d80af1e8b606aac604313926`|
 ->![Spain/España](https://files.catbox.moe/rapw3d.png)<- | Deezer Premium | 2024-03-08 | `1df7b6d5e1e28126c7270d5c155bda9dbfcffbc52729d5dff319e0e558ce26f140e757af165d35f18fbc73020af31a68445f72d491d1cce57e14063acb8882b3d32c0d9119c8d38dbb7fd9b36038dcaabe54e536930e3730fe9978d550d1e548` | ->![ATLACATL](https://files.catbox.moe/oxlb1w.png)<-
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | Deezer Premium | 2024-03-25 :repeat: | `979ea9ae3564976670ee4b1c57772723ee440845254ea821ec4199b4ec6285918af8a12182797e3f7be95113144a5659615d8f41cecc17d7ef83671fd9163e435e94ef5546a797f78dd4f3419b8a888c7501a64199a5f892b15571d4c556808e`| ->![Copyman](https://files.catbox.moe/oxlb1w.png)<-
+->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | Deezer Premium | 2024-04-13 | `f55af28958eaf51c9de99c6b1512e6ef01b209435126aa564ee2dd589490fc22ff48183d3f59cf51b3b757d5b24f5e8a4e44d6cc86004075a72bbc89f1165d08f017845a8f74c35a3fbf3dc28aa4fc76e75ad5a45df75c90ff576e0b1c4017d8`| ->![Tmxkwpn](https://files.catbox.moe/oxlb1w.png)<-
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | Deezer Family | 2024-04-07 :repeat: | `489f4139f78474836907985273f556564e685e760d5d8e925d8e74557a6799de86140f69a75ab4c53e2d09b65bc7c65c16ea0da437c45a0b17241ce46860c0d587a90f7052b8ff9010b9a12807e3264303c9710fd6a44e62e29b4c5553806e8e`|
 
 #### Deemix
@@ -531,7 +533,7 @@ Thanks to **nathom** for Streamrip<-
 
 ->Thanks to all the other contributors in alphabetic order:<-
 
-->**ALi3naTEd0, ATLACATL, Copyman, Filosk, @Gigamusic2, Glomatico, Gostrdr1337, Guy Doom, GC22, Igor_O, kawahara, Kevin Palma, NRS MDL, MKA, @musicalstarlight, Last Stand // Cunny, losbetias 四, ptnapivoski, RinRinxll, SPYZ3R, Spyzer X Muzahid, T O N O, udreamtoosmall, SyN, TLALOC, TheKVT, and TXHQ**<-
+->**ALi3naTEd0, ATLACATL, Copyman, Edgar, Filosk, @Gigamusic2, Glomatico, Gostrdr1337, Guy Doom, GC22, Igor_O, kawahara, Kevin Palma, NRS MDL, MKA, @musicalstarlight, Last Stand // Cunny, losbetias 四, ptnapivoski, RinRinxll, SPYZ3R, Spyzer X Muzahid, T O N O, udreamtoosmall, SyN, TLALOC, TheKVT, and TXHQ**<-
 
 ->And a special thanks to the amazing admins that helps to keep order and help people in the support channel:<-
 

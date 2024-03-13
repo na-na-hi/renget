@@ -13,13 +13,13 @@ sometimes the account is banned and it will not work until I manually fix it. it
 
 ## current proxy url
 ```
-https://mf-stem-cross-anticipated.trycloudflare.com/v1
+https://memories-lime-administered-milwaukee.trycloudflare.com/v1
 ```
 **password**
 basilisk
 
-##### [instructions](https://mf-stem-cross-anticipated.trycloudflare.com)
-##### [ST preset](https://mf-stem-cross-anticipated.trycloudflare.com/preset.json)
+##### [instructions](https://memories-lime-administered-milwaukee.trycloudflare.com)
+##### [ST preset](https://memories-lime-administered-milwaukee.trycloudflare.com/preset.json)
 
 ##### contact
 - hask1911@proton.me
