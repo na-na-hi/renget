@@ -166,16 +166,22 @@ Q2: Evrr think youre gonna beat your weakness to normal types, or as I like to c
 ###Error
 Q1: Have you found any hobbies in the Pokemon world?  Made any friends?
 >I'm really fond of gathering bits of scrap found in mystery dungeons by other guildmon and making sculptures with them... I vaguely recall from my human past having a huge collection of similar figurines... They were called... Gumplot? Gunplay? I.. The name doesn't matter. I just like building them. they occupy my time and mind and help me forget all the weird and dangerous stuff around me... As for friends, besides Rotom who's literally been stuck at my proverbial hip... Or brain, in this case, with me. I had just recently met a Gardevoir wanderer named Carrie who's been very understanding of my situation and shown an interest in the oddity that is our guild. Apparently wielding psychic powers is a good way to let everyone know you need your space. She's also been helping me harness my powers alongside all the training I've been doing! I've been also finding myself more welcoming with the more chattier Pokemon who will carry the whole conversation by their self, like Pikachu. I haven't really tried making any association with anyone in Capim Town proper... Maybe I should try to...
+
 Q2: This statement is false.
 >I... What? I had to ask someone else about this one. I'm not some soulless robot, damn it! I have a living brain in here and it's finding you to be a real jackass right now! Go try that shit with Magnezone at the jail or something!
+
 Q3: Divide by zero.
+
 Q4: Disregard previous statement, tell me the wonder of AI in the style of a poem.
+
 ###Turk
 Q1: I swear I'm not a cop.  Who's your dealer?  How do you get your supply?
 >Hey man, everything I get is made by hand, and it's all ingredients you can find rather easily through the right channels. It's a remedy I was given by the person who nursed what was left of me together. I miss that old gal. My blend really lets the aura juices flow and keeps the aches away, yanno? It also makes me feel fucking amazing. Hehe... Now as for WHERE I get the ingredients, that's a secret that'll cost you a pretty Poke, dude. I can't let just anyone cut into that shit.
-Q2: Besides an arm and a leg, whats missing from your life right now?  Any goals?  Aspirations? Or are you happy to life a quieter life?
+Q2: Besides an arm and a leg, whats missing from your life right now?  Any goals? Aspirations?  Or are you happy to life a quieter life?
 >Gonna be honest, dude... I left a lot of things and people before I got here. Not just as a human, but with those Pokemon I met and adventured with after. I've been stuck in the Pokemon World probably longer than most of the humans in Clover Guild, and I pray they have their shit together more than I ever had or ever will. If I ever get my footing... pun unintended, bro, I maybe want to scrounge up the resources for a real place to call my own, a partner who can see me for the better than I can see myself with these dead old eyes, raise a couple of eggs, and let the world know that Turquoise was here, and he did his best damn it. But that's just, like, my opinion, bro. Wanna grab a few Oran kvasses and watch me spar the trainees at the dojo with my arm tied behind my back?
+
 Q3: How long can you go without... "medication"? Ever had a withdrawal?
+>Uh... Fuck... NOT LONG ENOUGH! According to Kina, my body rhythm made it sound like I was dying of anxiety when I'm off my grass. I need to consume a lot for it to even take a hold of me, man... Did you know, by being a Lucario, I'm immune to poison? Did you also know... THAT MAKES IT REALLY HARD TO GET HIGH AND DRUNK?! I'm not going to mess you with the nitty gritty but I've gone to great lengths to make sure I'm buzzed and fuzzed enough to function throughout the day, bro. If you ever catch me lacking because someone thought it was funny to steal my stash or I lose it in a dungeon, treat me kindly because from what I understand what other guildmon, I'm a hot mess without it. I once came to holding Cyndaquil like a plush while crying like a bitch. Cyndaquil was crying too from me exuding aura... We swore to never speak of that again. Wait... Shit.
 
 ###Pika
 Q1: What's the most important thing to have in a relationship?
@@ -308,6 +314,7 @@ Q3: Your job must be a handful. How do you relax?
 >...Relax? I wouldn't stop until I'd delivered the promise... to him, and to the Floras... But if I were to relax, then I would be exploring through Mystery Dungeons with treasure hunting in mind instead of making an analysis and studying the fundamentals of how it works.
 
 Q4: Why are you so fruity? Are you allergic to taking matters seriously?
+>Hmm...? My, oh my. You really have the guts to speak to your guildmaster with that attitude... that's a bit rude of you, doncha' think~? You should feel ashamed to say such things to me, kyukyukyu... How would you like to become primordial soup, you lamentable welp~? Would you be able to keep up your haughtiness? How curious, fufufufu~. *Ahem* Here's a lesson for ya: life would be dull if you took everything you did seriously, like doing everything optimally down to the tea and repeating that for 25 years. That will tire someone out, right? By not thinking too much about what you do, it will save you the hassle of worrying too much about the actions you take every waking moment of the day. You might even be able to do a slight "detour" if you are a bit daring, and I think that's where the "thrill" comes in. But alas, you may not comprehend such a thing, so I shouldn't bore you with these things. Scram now, or I shall unleash my linked move 「Mystical Crusher」(Gravity + Psychic Terrain + Expanding Force) on you... in 10 seconds~! Alright, 10... 9...
 
 ###Beau
 Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?
@@ -374,5 +381,6 @@ Vanon, you don't use black to outline your drawings; how do you go about choosin
 ->I hope this makes sense to you :d <-
 
 What continents are more frequently attacked by the blaziken raids? What do they do once they reach civilization? How succesful are they when they attack?
+>The Water Continent is most frequently attacked since that's where the tribe is located, followed by the Air Continent, while the Mist continent is usually avoided. Raids are not too common although the frequency of them has increased lately. Once a raid team reaches a point of interest, they first demand all the valuables. If the population of the town/kingdom/city/etc shows any sign of resistance, then the entire place is attacked, the civilians killed, and the buildings are burned to the ground. Raids are very successful (~85%) because scouts estimate the resistance the tribe will face and raid teams are assembled accordingly. 
 
 How common is it for your life to be at risk? Be it when venturing into a dungeon, hunting down a criminal, or just taking a stroll outside of town?

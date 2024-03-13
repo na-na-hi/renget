@@ -528,7 +528,7 @@ Biography generated!
 {Pending}
 
 ###Mandibuzz/Gliscor
-{Pending}
+[Will add updated version later, See Linked](https://rentry.org/ts45nvfk)
 
 ###Cider
 [See Linked](https://rentry.org/Ciderblurbediting)

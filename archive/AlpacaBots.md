@@ -61,7 +61,7 @@ Image| Name | Description | Link
  ![](https://files.catbox.moe/644ib2.png) | Zuri | One-legged android looking for a new home. Despite her sad past she'll let nothing drag her down. | [Catbox link](https://files.catbox.moe/644ib2.png)
 
 ###World Of Darkness/Vampire: The Masquerade
-The good version, not the shitty new WOD.
+The good version, not the shitty new WOD. If you've never played it it's basically vampires divided into various "RPG sub-races" (aka clans).
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
  ![](https://files.catbox.moe/gbyok6.png) | Douleur | Malkavian. Sweet, caring, and expecting. ...or is she? | [Catbox link](https://files.catbox.moe/gbyok6.png)
@@ -129,3 +129,4 @@ Image| Name | Description | Link
 ##Contact
 ***
 alpacalotta@proton.me
+Everyone likes to see what you get up to with their characters. So feel free to send me logs if you like. It also helps me see how my cards work on different models.

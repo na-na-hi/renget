@@ -31,6 +31,7 @@ https://www.youtube.com/watch?v=2s0fTApRGTk
 
 \>New Drip Marketing:
 \>Robin (5\* Physical Harmony) - https://www.hoyolab.com/article/25852857
+\>Boothill (5\* Physical Hunt) - https://www.hoyolab.com/article/25874939
 
 \>Redeemable Codes - https://hsr.hoyoverse.com/gift
 SB87P52BTVQ3

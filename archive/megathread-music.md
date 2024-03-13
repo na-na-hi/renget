@@ -105,6 +105,10 @@
 - This web app project was built for downloading SoundCloud tracks and playlists. Paste your link and enjoy your music!
 - [URL Safety Results](https://www.urlvoid.com/scan/downloadsound.cloud/)
 
+### 🌐 [Free MP3](https://en2.freemp3.tube/)
+- Quick MP3 downloads, with a search feature to locate desired music from its extensive database.
+- [URL Safety Results](https://www.urlvoid.com/scan/en2.freemp3.tube/)
+
 ### 🌐 [Slav Art](https://slavart.gamesdrive.net/)
 - Download music for free and revel in the opportunity at no cost, in top-tier quality!
 - [URL Safety Results](https://www.urlvoid.com/update/slavart.gamesdrive.net/)

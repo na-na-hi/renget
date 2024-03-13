@@ -88,7 +88,7 @@ https://rentry.org/b595h6dm
 >Junki Takenaga
 >>92074519
 >Sen Yamamoto
->>92132973
+>>92132973+https://rentry.org/mkyze5fa
 
 >Team 7
 >Fujiwara Nobutake
@@ -113,7 +113,16 @@ https://rentry.org/b595h6dm
 >>92132327
 >Sekka Hakobu
 >>92143990
+>Gyū
+>>92157552
+>Yōki
+>>92157657
 
+```
+***
+Page 2
+***
+```
 >Loners:
 >Ahiratsu Ōtsutsuki
 >>92073651
@@ -123,11 +132,13 @@ https://rentry.org/b595h6dm
 >>92092125
 >Engetsu Bōfū
 >>92101140
-```
-***
-Page 2
-***
-```
+>Inaba Hyuga
+>>92164218
+>Insane Wild Boar
+>>92164715
+>???
+>>92164855
+
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
 
@@ -176,6 +187,8 @@ Tsugumi
 https://rentry.org/TsuDiary
 Kamiko
 https://rentry.org/KamikoRelations
+Sen
+https://rentry.org/tneot7wz
 
 Jutsu List:
 Kazen:
@@ -546,17 +559,9 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 https://rentry.org/MHACards
 
 >New Stuff:
-New Art:
->bonfire dance
->>92145990
->teachsensei
->>92146498
-
-New Writefags:
->Chase (Kampai, other people)
-https://rentry.org/KampaiChase
->Tooth and Claw, Issue 1 (Saurus):
-https://rentry.org/qsrvx8
+New Writefag:
+>A Friend in Need (Mirror Devil, Drone, Yamamoto, Yamata):
+https://rentry.org/p7zrib56
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1158,6 +1163,8 @@ https://rentry.org/pop2nnyq
 https://rentry.org/KampaiChase
 >Tooth and Claw, Issue 1 (Saurus):
 https://rentry.org/qsrvx8
+>A Friend in Need (Mirror Devil, Drone, Yamamoto, Yamata):
+https://rentry.org/p7zrib56
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

@@ -23,7 +23,7 @@ Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 12 (22HP) | 22 HP
-Attack | 2 | Species Bonus | +2 Physical Damage 
+Attack | 2 | Species Bonus, Attack Tier **ɪ** | +3 Physical Damage 
 Special Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Damage
 Defense | 0 | Def Tier **ɪɪ** | +2 Physical Mitigation
 Special Defense | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Mitigation
@@ -72,8 +72,9 @@ Training | Completion | Progress (Numerical) | Progress Bar
 Training for Attribute:  **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Training for Battle Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/6 | ▮▯▯▯▯▯
 Training for Move: EXAMPLE | *ᴛʀᴀɪɴᴇᴅ* | 1/5 |  ▮▯▯▯▯
-Currently Training for Stat: Attack Tier  **ɪ** | Tier **ɪ** (+1 STAT) | 3/9 | ▮▮▮▯▯▯▯▯▯
+Currently Training for Stat: Attack Tier  **ɪ** | Tier **ɪ** (+1 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 Stat: Defense **ɪɪ** | Tier **ɪɪ** (+2 Def) | 9/9 | ▮▮▮▮▮▮▮▮▮
+Stat: Attack **ɪ** | Tier **ɪ** (+1 Atk) | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 
