@@ -2,8 +2,7 @@
 ->![everything sucks forever](https://i.imgur.com/T1OjYHD.gif)<-
 ***
 https://waa.ai/onaholesama - music (updated with each shill)
-⛧ fuck you and let's start a band together ⛧
-here's to all the years I've wasted
+⛧ wanna start a band together? ⛧
 ***
 [TOC2]
 

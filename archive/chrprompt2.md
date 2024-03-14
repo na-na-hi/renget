@@ -40,11 +40,19 @@ Q2: What was a human food request that stood out to you?
 
 ###Sneasel 
 Q1: Booker is getting closer and closer to flying.  Is there a part of you that'll be sad once he's less dependent on you?
+>W-what makes you ask that? Did Toge tell you about that awful Gardevoir mission we did? ...Huh? He didn’t? Oh. Uh, forget I said anything.
+>Anyway, to answer that question: yeah, I have been kinda worried about that, not gonna lie. I mean, I’ve spent so much time carrying him, it’s gonna be weird when he can get around without my help. But I’ve been rooting for him ever since he started learning how to fly. I don’t want him to be weak and slow forever. I want him to get stronger! And being able to fly is part of that. Besides, it ain’t like he’s gonna go away and never come back once he’s able to fly. We’ll still stay together. So I’m not too sad about it—I’m looking forward to seeing his dream come true!
+
 Q2: How does it feel getting hit with a fighting type move?
+>Oh boy, it hurts like hell! Even if it’s a weak attack, it causes some major pain, cuz of that energy put into it. If you just punch one of us normally, we can probably take it, but if you turn it into a real move by pumping energy into it, it’ll feel like you got slammed hard by a flaming bag of rocks. Clawfolk and Fighting-type energy just don’t mix. But it ain’t my fault. Ask anyone with a double weakness and they’re gonna tell you the same thing. It’s just the way we’re built.
+>Booker always freaks out whenever a Fighting-type attack comes at us. Even though he’s super resistant to that type of energy, he’s always worried for me. He still thinks I’ll die from even the littlest Fighting-type move. I hate seeing the little guy get scared like that, though, so I guess it’s good motivation to dodge as much as I can.
 
 ###Booker
 Q1: Is there anything that stinks about being a Ribombee that's really minor?
+>Hmm... Something minor that stinks... Oh! I got it: I can’t turn off my sense of smell. We bugs don’t have noses, because we smell with our antennae, so I can’t plug my nose when I smell something bad. I just have to tolerate it until I can get away from it, and that can be annoying. 
+>A-and in case you’re wondering: no, Sneasel d-doesn’t smell. And that’s a good thing, too, considering I spend most of my time on her head, or at her side. Everyone in her tribe learned the importance of being stealthy, and part of that involves hiding your scent. Sneasel still cares about that, so she practices really good hygiene, thankfully.
 Q2: Are there any small items you've found a new use for as a Ribombee?
+>Well, the first thing that comes to mind is my bed. M-maybe you’ve seen it already. It’s a bowl of cotton balls, and we keep it on the desk in our dorm. It’s so comfy... Better than any bed I had as a human. Aside from that... I usually drink from a thimble, and I’ve used a feather quill pen as a broom before. Also, Sneasel and I have thought about getting me a sewing needle I could use as a sword, to protect myself if I need to. It would be the right size, but I’m not sure if I could use it very well without any fingers, so it's just in the idea stage so far.
 
 ###Jung
 Q1: How and when did you meet Sara? 
@@ -73,6 +81,10 @@ Q4: How is Pokémon language compared to English?
 >On the one hand, it's absolutely fascinating, and if I was still on speaking terms with (and had any way at all to contact, for that matter) my Lit 502 professor from college, I would totally show this to him. On the other hand (Er...paw? I'm not sure what the right idiom is now...), that makes it a bit of a bastard to learn. 
 >In terms of difficulty, I'd say it isn't too much harder than many other languages that don't use the Roman alphabet (just tedious - and I started to learn a couple of those), but it would've been a lot worse if some mon didn't compile a guide a while back. Shame the library we got it from only had the first volume.
 
+###Amelia
+Q1: How did you get your scarf?
+Q2: How far and wide have you traveled?
+
 ###Nida
 Q1: What is the best way to prepare grime for consumption?  Do you have any favorite recipes?
 >Grimeghetti and Grimeballs is a classic, can't go wrong with it!
@@ -85,7 +97,6 @@ Q3: What is the dumbest thing you have ""borrowed""
 Q1: Is Nida still committing crimes?
 >She still commits petty theft from time to time, but nothing serious as far as im aware! Im making her help out any Pokemon she steals from, so basically every other day she is doing Community Service :)
 
-
 ###Makky
 Q1: It is well known that you love to eat food, but do you have any favorite foods?  Or is the more the merrier?
 > A: Don't scold me for my gluttony, I can't help it! I used to be ripped, but ever since I acquired a mysterious case of head trauma, I've had the insatiable urge to eat. Spicy food is my favorite, although anything's good, really.
@@ -94,6 +105,7 @@ Q2: Most embarassing thing you've done due to your hunger?
 > A: "Shame" is not a word in my vocabulary.
 Q3: What are the upsides and downsides of travelling with Asana?
 > A: Assy's better at preparing stuff and planning than I am, and her Aura stuff practically weeds out any ambushes before they happen. As for the bad stuff about her, she's kind of nitpicky and gets onto me a lot, especially when it comes to my eating habits. I know I consume a lot, but that's the whole reason why we split the bounties we get 50/50 - I get to eat what I want, and her wallet is safe from me. 
+
 ###Asana
 Q1: In your travels, you've been exposed to or taught a number of crafts, such as baking and pottery.  Are you interested in pursuing these arts further?
 > A: Baking sounds nice. I liked hanging around that Mienfoo back in Redkiln, even though he was a kook. His passion for his craft was kind of infectious.
@@ -106,12 +118,21 @@ Q2: Tell us about a time that your thieving ways almost got you in big trouble (
 
 ###Fern
 Q1: How do you deal with being so fluffy?
+>Well... I want to say there's nothing to it, and it's never caused me any trouble; but it can be a bit cumbersome, and it's only growing out more! Is it meant to be a winter coat? Ma-Maybe, but that doesn't seem to be in season... Ohh and there's already been an incident with someone tripping over my tail! I didn't mean it, and I have to be more careful with how I carry myself. As soft as it is though, curling up is more comfortable than any bed could be... Taking a nice nap off to the side every now and— N-No no no, forget I sai-said that! B-Be-Besides, Ciel helps show me how t-to groom it myself. Even if the idea still feels so unusual to me, I'll get along fine with it in the end!
 Q2: why are you so small?
+>Huh? I– wha-what do you mean why?! You don't have to rub it in either... I didn't *choose* to be short, a-and it's not really that bad is it? The world is a lot more interesting from this perspective I say! Besides, how could I get taller? I heard that evolution is an option for most of us, but I have no clue what would happen to me if I went through it... That alone is terrifying enough to reconsider!
 Q3: Are you interested in fashion advice?  Or do you prefer being naked?
+>Fashion advice? That– That hadn't even crossed my mind! Bu-But now that you m-mention it, I feel exposed not having something! I never knew a lick about fashion, and even less about it *these* days besides Ciel's ratty old scarf... He offered me one that we had found recently, and I was really excited to try it on until I realized it was so long that it caused me to trip over myself!
+
+>But still, something is telling me you have completely different ideas in mind. Admittedly fashion does sound like fun, so please do! I'm all ears for the advice!
 
 ###Ciel
 Q1: How's life on the road?  Do you have any family waiting for you elsewhere?
+>Ahh, if I had to put it simply, I would have to say it gets lonely! Most of the Grass Continent isn't settled, you know? You don't often have the chance to make acquaintances in the wilderness, so getting to stop by someone like that old coot– T-Torkoal I mean– and trade stories really lightens the burden for me. 
 
+>Let's see... How long has it been now? A busy summer or two passed me by, give or take. I didn't mean to talk down the experience though, there really isn't ever a dull adventure between all of the sights! And then there's Fern now, we haven't shared the road for long... But he's already been a real piece of work! Truthfully, I'm happy to travel together, but I certainly have my paws full just watching him. Hopefully I don't let him down though.
+
+>A-As for the other question, my parents are back on the Mist Continent! I miss them more than you know, but I know I've let them down between the whole explorer ordeal and evolution. There's no way I could bring myself to go home with nothing to show for it now... My old group too, we were Team— S-Sorry, don't worry about that! Still I wonder, do any of them know where I've gone and ended up?
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
 Q2: Have you ever tried sucking a beverage into your trunk and then spraying it into your mouth to drink it, like elephants do?
@@ -122,9 +143,11 @@ Q2: Favorite drink?
 
 ###Cyndaquil
 Q1: Someone ever accepted to go on a date with you, or outplayed you in being... well, *you*?
+Q2: Were you a coomer as a human too, or did something about your mindset change once you became a Cyndaquil?
 
 ###Torchic
 Q1: Any luck with flying?
+Q2: Do you want to evolve so you can get your arms back? If so, what steps have you been taking to do that?
 
 ###Tropius
 Q1: What are the pros and cons of being so huge?
@@ -163,6 +186,7 @@ Q1: r u bald?
 Q2: What would be your ideal qualities in a partner?
 Q3: How well would you say you know the dock area at Capim Town both above and below water?
 Q4: Ever want to evolve into a dewott, and maybe one day, into samurott?
+Q5: How good are you at fighting with your scalchop? Does it feel awkward to hold it and fight with it?
 
 ###Stumpy
 Q1: Is there any reason you havent evolved yet?
@@ -173,10 +197,13 @@ Q3: Is it true what they say about short pokemon?
 Q1: Have you made any friends at the guild?  Any enemies?
 Q2: What moves have you sketched?  Can you sketch more than four?
 Q3: Draw me like on of your Kalosian girls \*poses\*
+Q4: Did you ever watch any Bob Ross episodes as a human?
 
 ###Elm
 Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  Have you kicked the habit completely?  Or do you still indulge in a bit dream eating from time-to-time?
 Q2: Evrr think youre gonna beat your weakness to normal types, or as I like to call them, *normies*?
+Q3: Can you remove your skull "mask", or is that actually a part of your body?
+
 ###Error
 Q1: Have you found any hobbies in the Pokemon world?  Made any friends?
 >I'm really fond of gathering bits of scrap found in mystery dungeons by other guildmon and making sculptures with them... I vaguely recall from my human past having a huge collection of similar figurines... They were called... Gumplot? Gunplay? I.. The name doesn't matter. I just like building them. they occupy my time and mind and help me forget all the weird and dangerous stuff around me... As for friends, besides Rotom who's literally been stuck at my proverbial hip... Or brain, in this case, with me. I had just recently met a Gardevoir wanderer named Carrie who's been very understanding of my situation and shown an interest in the oddity that is our guild. Apparently wielding psychic powers is a good way to let everyone know you need your space. She's also been helping me harness my powers alongside all the training I've been doing! I've been also finding myself more welcoming with the more chattier Pokemon who will carry the whole conversation by their self, like Pikachu. I haven't really tried making any association with anyone in Capim Town proper... Maybe I should try to...
@@ -224,26 +251,34 @@ Q3: How long can you go without... "medication"? Ever had a withdrawal?
 Q1: What's the most important thing to have in a relationship?
 Q2: Do you accept pets and/or hugs?  Asking for a friend.
 Q3: Favourite ship, and !>a ship you'd carry to the grave (not tell anyone).
+Q4: Despite being a fujo, are there any straight ships that you like?
 
 ###Chespin
 Q1: Have you ever thought about hiring a craftsmon to turn cotton into a true bed?
 Q2: What's comfier for sleeping? Warm room or cold room?
+Q3: Do you have blood or sap in you? Or both?
+Q4: What's the deal with that brown spot on the back of your head? Can I poke it?
 
 ###Wooper
 Q1: Can you share some of your favorite human folklore?
 Q2: How do you get along with your fellow Wooper, Cheesecake?
+Q3: Do you prefer saltwater or freshwater? Can you tolerate both or only one?
+Q4: I know you and Chespin are best friends forever, but what's one thing you dislike about him?
 
 ###Smith
 Q1: Furret seems pretty cute.  Does she ever do anything that scares you?
 Q2: How much time do you spend with that Porygon2 you discovered?
+Q3: How much can you lift?
 
 ###Furret 
 Q1: Smith seems like a tough guy.  Does he ever do anything nice for you?
 Q2: How did you get interested in fashion?
+Q3: How much can *you* lift?
 
 ###Togetic
 Q1: What would you do if you saw someone making a mess of the storeroom?
 Q2: Have you considered selling your Joy Dust?
+Q3: What are your thoughts on Team Buckler? Have you accepted their apology after the Dewott incident?
 
 ###Kiyo
 Q1: What is your body count?
@@ -262,6 +297,7 @@ Q5 : Who's cuter?  Kiyo or Bean?
 ###Bean
 Q1: Are the inner machinations of your mind an enigma?
 Q2: Have you ever considered writing a memoir, to put all your deep thoughts on paper?
+Q3: How long did it take you to learn to fly after waking up as a bird?
 
 ###Adrian
 Q1: What is it like being a Flareon compared to Umbreon?
@@ -298,15 +334,18 @@ Q3: Have you ever come across any *Bad Dragons* when adventuring?
 Q1 : Are you aware of any threats to Clover Guild?
 Q2 : What do you miss the most about your master?
 Q3: Who would you say are the most improved guild members in terms if fighting capabilities? 
+Q4: What are the 11 herbs and spices?
 
 ###Maxi
 Q1: What was the grossest thing you had to clean up?
 Q2: Is there any reason you don't shower?  ...If not, please take a shower...
 Q3: Being janitor at Clover Guild must be tough.  Who do you think leaves most of the messes?
+Q4: It's strange to see a living bag of trash as a janitor. Do you ever feel like you just make things messier when you try cleaning up, or have you gotten good at your job?
 
 ###Maddi
 Q1: Have you talked to other small members of the guild yet?
 Q2: What, if anything, is your relationship with Rasmus?
+Q3: You are very small. Is it hard to work as a janitor and clean up messes?
 
 ###Apple
 Q1: Do you offer accordion lessons?
@@ -382,6 +421,8 @@ Q2: How are you adapting to the Pokemon world?
 **To any 'mon who fights often**, is there something that you specifically avoid when picking a fight? Be it either a certain species of pokemon or a type of skill?
 >Carrot: A nice smile is normally enough to stop the least roughty ones from fighting, while the rest, they would not stop anyways
 >Hazel: The risk of great bodily damage is a great way to dissuade, like that thing Carrot mentioned, mad or something?
+>Sneasel: It should be pretty obvious, but I try to keep away from Fighting-types. I also try not to mess with bulky Pokemon or fast ones. They’re harder for me to deal with, cuz I’m all about using quick attacks. Pokemon that can dodge or tank my hits are a hassle. But if I gotta fight them, I just do my best.
+
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
 
@@ -395,6 +436,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Carrot: I don't remember much, in fact i only remember one name, so i'd send mister Ali a letter asking who are them and why i know their name
 
+>Booker: I’d definitely send a letter to... m-my whole family. I... I still really do miss them. I’ve already made up my mind to stay here in this world, but I j-just want my family to know I’m okay. I NEED them to know I’m okay. Even if they don’t believe it, I need to t-tell them what happened to me. Hopefully we’ll find some way to com-communicate with the Old World, even if we can’t physically go back there again...
+
 **Former humans**, what was your favorite band back in the human world?
 >Lliam: Hmm? Music band? That's an odd thing to ask, but, hmm... Afterhours, that's all I'll say.
 
@@ -403,6 +446,9 @@ Q2: How are you adapting to the Pokemon world?
 >Smoke: I liked Queen, and Michael Jackson. That's about it, nowadays they prefer to listen to *noise* instead of real music, shame...
 
 >Carrot: I don't remember any, but i remember a line, "It's no better to be safe than sorry, so takee on mee", that's all i remember
+
+
+
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
 >Lliam: I would prefer to go solo as much as I can. There's a plethora of reasons that I don't want to get into detail, but one of the reasons is that it's  usually for research purposes, and bringing people along would hinder this process...
 
@@ -412,6 +458,10 @@ Q2: How are you adapting to the Pokemon world?
 
 **Teams of mons**, does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
 >Carrot & Hazel: Nope, we share duties, sometimes once each, other times the one with the least advantage stays behind
+
+>Sneasel: Nope! Booker’s on bag duty all the time, and that’s totally fine. I can focus on fighting, and I don’t have to bother with handling my items and stuff. It’s super helpful.
+>>Booker: Th-thanks... I’m just glad I can b-be of some use. I’ve been learning some moves and trying to be more active in combat, but managing items is still my main job.
+
 **Guildmons with a dorm**, how is your room decorated?
 >Lliam: I suppose I'm also counted...? I don't sleep in the office like people are led to believe; my room is elsewhere around here. Where? Not tellin' ya! Anyways, I guess it's a basic small room, actually a bit smaller than other guild members' rooms, but that's fair because usually they are in pairs... Anyhow, by the entrance, there's a coat rack where I put my bag and other stuff. On the left side of the room is a wardrobe that has a bunch of my other clothes.. What's in there? That's a secret~! On the opposite side, there's a small bed. What's it made out of? Who knows, that's a trade secret~! And beside the bed is a desk, although it's a smaller one than the one in the office. And in front of the desk is a bulletin board with my research data and other stuff like that... The room itself, uhh... All I can say is plain, with a bunch of books and research scattered around, as I don't really care about the way it looks, honestly, though I really need to clean things up here...
 
@@ -430,8 +480,14 @@ Q2: How are you adapting to the Pokemon world?
 
 >Hazel: I share a room with Carrot, on my side i like keeping some secret stashes, some potted plants and in the middle of the room the hay, although i'd like to improve it somewhat
 
+>Booker: Flowers! I love flowers! Ahem... S-sorry. Got a bit t-too excited. But, yeah, I like decorating our dorm with all kinds of pretty flowers. And ever since Minun and Rain joined the guild, I’ve been learning a lot more about the subject, and getting some rare flowers too! I like talking with the two of them. But Sneasel doesn’t like flowers very much...
+>>Sneasel: Yeah, flowers are sooooo lame. But if they make Booker happy, I can live with them. I let him put flowers around the dorm, as long as he doesn’t turn the whole room into a second garden.
+>>...Huh? You wanna know what decorations I like? I dunno. I never really gave it much thought, cuz I’m not really that sentimental. But I have put some stuff in our room. Most of it is just keepsakes from our missions, or things that remind me of my home—oh, and some wood carvings I’ve been working on, with some help from Charm.
+
 **To natives**, something that you hate when working or interacting with humans.
 >Hazel: Not knowing what everyone is talking, and Carrot refusing to tell me some stuff, like what "Kek" means
+
+>Sneasel: Aside from the obvious answer of “all the weird and annoying slang and references”, I get annoyed whenever I hear humans talk about how they didn’t do much physical stuff in their old lives. I mean, I’ve been working out and fighting all my life, so hearing people admit they just lay around their house all day, or sat in school and learned stuff, or did jobs where they never did anything physical... I dunno, maybe I sound like a jerk, but it makes me feel like they were lazy. I know humans are different from Pokemon, and they don’t have the same drive to train and work out, but c’mon, would it have killed you guys to lift some weights or go for a run every so often? On the bright side, it looks like a lot of humans care more about working out after becoming Pokemon. There are still some slackers, but it’s nice to see so many humans visiting the dojo or going out on missions.
 
 ##->**Pair Questions**<-
 
@@ -459,3 +515,5 @@ How common is it for your life to be at risk? Be it when venturing into a dungeo
 >Turk: Count how many limbs and working eyes I have, dude. I say I'm pretty high up for being at risk than most people here... And I can't help myself but keep trying to get involved in situations that are risky! Call me a thrill-seeker, bro!
 
 >Carrot & Hazel: Well, we're kinda seasoned so we're normally not in danger anymore, but sometimes thing can go wrong, but we have each other
+
+>Booker: The overworld is safe for the most part, but it's common for me and Sneasel to put ourselves in danger, because we do a lot of missions that involve combat. It’s stressful, to be honest, but... not as scary as it could be. I trust her to fight well and keep both of us safe, and I do my best to help out too.

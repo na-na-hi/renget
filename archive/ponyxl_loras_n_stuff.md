@@ -335,6 +335,8 @@ https://rentry.org/shitty_loras#styles-pony-diffusion-v6-xl made_in_abyss, moshi
 https://mega.nz/folder/1yRSXQCR#Ziu9Q9Is5BCTYn53tnionw akatsuki_giken, alkemanubism, annin, aoin, chabo_fuketsudan, collagen, go_robots, ishida_umi, kafun, kaomin, kenya_suzuki, kink_(tortoiseshell), lucient, m_k, marui, miche, nezumi, nnf, pantsu_ruipper, RA, shizuoka, simzarts, testsuwan_woopie
 https://mega.nz/folder/NegX3DDL#NX3YguN8GSrEbOXuN918BA inhoso
 https://mega.nz/folder/fdoG2QDQ#6ZS_K55fY3g4NottW2NJng thanuki
+https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ banpai_akira, cluseller, tangobat, toi8, bonnie, everyntrge, gbf splashes (I assume some sort of gran blue style?), kaptivate
+
 ###Characters
 
 https://files.catbox.moe/1wdl00.safetensors character_momoka helps to prompt features like hair, clothes
@@ -370,6 +372,7 @@ https://files.catbox.moe/62g6g1.safetensors character_uni seems like un1 is the 
 
 **Mega uploads with files too large for catbox**
 https://mega.nz/folder/uuI2DCjA#JKGPF0uYT-1Zo0dE3wCPJQ sorceress_sellen
+https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ characters from nikke, hsr, yugioh, azure lane, blue archive, gran blue
 
 ##Innate artists/styles
 List of tags innate to ponyxl that change the style significantly, usually artists but sometimes other strange behavior some of these could just be getting activated by character names in the artist name or just misfires in the AI network ¯\_(ツ)_/¯

@@ -203,7 +203,7 @@ So Desu Ne (mbovo)
 https://discord.gg/hCPPmafN
 
 My Sumo Family (Davit)
-https://discord.gg/tYuhEf4nck
+https://discord.gg/cfUTJdMNGJ
 
 Sumo Wrestlers United
 https://discord.gg/4R7whZc

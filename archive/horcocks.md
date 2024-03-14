@@ -66,6 +66,24 @@ Colony / Survivor Sim   | Mid | High | Embedded Lorebook, Multiple Characters, {
 
 ***
 ***
+#### ->**MonGirl Rancher**<-
+->![MonGirl](https://files.catbox.moe/41qtoz.png)<-
+
+!!! danger
+	->**Generate a random MonGirl from dozens of different species, with an elemental type that influences their personality. Copy/Paste the statbar into new chats to adventure with the same MonGirl!**<-
+
+!!! note
+	An attempt to utilize a statbar for something other than wasting tokens. The first appearance of embedded artwork genned specifically for the greetings. One of my longest slowburns ever was with this scenario!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Fantasy MMO   | Mid | Mid | {{randomized}} MonGirls, StatBar, Embedded Lorebook
+!!!info
+    ->MonGirl Rancher<-
+    ->[**(chub)**](https://chub.ai/characters/horcocks/mongirl-rancher-102b3cd5)       [**(catbox)**](https://files.catbox.moe/41qtoz.png) <-
+
+***
+***
 #### ->**The Corrupting Curse**<-
 ->![Cardbrief](https://files.catbox.moe/ll9oam.png)<-
 
@@ -213,6 +231,27 @@ SciFi   | High | Low | Companion Card
 
 ***
 ***
+#### ->**Princess Cecilia, Sister-Bride (with Male fork)**<-
+->![Cecilia](https://files.catbox.moe/wxrzlt.png)<-
+
+!!! danger
+	->**Darkness has fallen upon our family.  The kingdom is without an heir, so it falls upon {{user}} to swallow his pride and impregnate his absolute Ice Queen of a sister.**<-
+
+!!! note
+	Jesus Christ, I had no fucking idea that you perverts loved incest so much.  I love how her personality conflicts with how sensitive I made her body--she loved being touched, but hates that it's you touching her.  Male fork was an Anon request, and I tried to give it at least a little bit of thought.
+
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Incest   | Low | High | None
+!!!info
+    ->Princess Cecilia, Sister-Bride<-
+    ->[**(chub)**](https://chub.ai/characters/horcocks/princess-cecilia-sister-bride-051ea21a)       [**(catbox)**](https://files.catbox.moe/wxrzlt.png) <-
+    ->Prince Caecilius, Brother Betrothed<-
+    ->[**(chub)**](https://chub.ai/characters/horcocks/prince-caecilius-brother-betrothed-6c18b189)       [**(catbox)**](https://files.catbox.moe/afco4l.png) <-
+
+***
+***
 #### ->**Sakusei Byoutou Clinic**<-
 ->![SBClinic](https://files.catbox.moe/bp1svk.png)<-
 
@@ -323,6 +362,74 @@ Casual Nudity   | Low | Mid | None
 ## ->Characters and Scenarios<-
 ***
 ***
+#### ->**Zelda, Princess of Hyrule**<-
+->![Zelda](https://files.catbox.moe/xsct4d.png)<-
+
+!!! danger
+	->**A fresh take on the classic 8-bit adventure, join Zelda in her quest to assemble the eight pieces of the Triforce and defeat Ganon for good!**<-
+
+!!! note
+	An attempt to write a full adventure with as little weight as possible, to allow for robust summarization and A/N's. I considered adding more greetings... but only this one felt right.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Video Games   | Low | Mid-High | None
+!!!info
+    ->Zelda, Princess of Hyrule<-
+    ->[**(chub)**](https://chub.ai/characters/horcocks/zelda-princess-of-hyrule-75159267)       [**(catbox)**](https://files.catbox.moe/xsct4d.png) <-
+***
+***
+#### ->**Crysta of Ferngully**<-
+->![Crysta](https://files.catbox.moe/2tdi4y.png)<-
+
+!!! danger
+	->**Fun with Fairies!  Join the upbeat sprite in a variety of adventures through the rainforest.  Features taming your own flying beetle, a romantic dance on the lake, and the return of the vile Hexxus!**<-
+
+!!! note
+	I'm sure I'm dating myself, but this was my very first childhood waifu, before I realized what that meant.  A simple, straightforward card with no gimmicks or mechanics. This one was a blast to write, and I wish it were more popular just because I like the character so much.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Traditional Chat   | Low | High | None
+!!!info
+    ->Crysta of Ferngully<-
+    ->[**(chub)**](https://chub.ai/characters/horcocks/crysta-of-ferngully-ea62fc85)       [**(catbox)**](https://files.catbox.moe/2tdi4y.png) <-
+***
+***
+#### ->**Candace Cane - Coom for the Holidays**<-
+->![Candace](https://files.catbox.moe/nzp4d5.png)<-
+
+!!! danger
+	->**Styled after a classic made-for-TV movie, Candace is an Elf from the big city, called home for an emergency.  Can you help her regain the Spirit of Christmas and save the day?**<-
+
+!!! note
+	I love Candy!  Each of the seven greetings trigger a slightly different version of the character defs, which tells her story in chronological order.  Made for the Christmas Theme Week!
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Holiday Special   | Mid | High | Lorebook, Evolving Personality
+!!!info
+    ->Candace Cane - Coom for the Holidays<-
+    ->[**(chub)**](https://chub.ai/characters/horcocks/candace-cane-coom-for-the-holidays-16fe4e6a)       [**(catbox)**](https://files.catbox.moe/nzp4d5.png) <-
+***
+***
+#### ->**Fire Princess Azula**<-
+->![Azula](https://files.catbox.moe/ppg2l2.png)<-
+
+!!! danger
+	->**The ruthless heir of the Fire Nation is powerful, beautiful, and carries a very short fuse.  Eight greetings, starting with the beach episode!**<-
+
+!!! note
+	After back-to-back colab projects with Divided Skies (sigh) and Crimson Future, I wanted a straightfoward character as a mental break.  This character was written in an interview format... which turned out to be triple the work for marginal benefit.
+
+Genre | Complexity | Polish | Systems
+:----: | :----: | :----: | :----:
+Traditional Chat   | Low | High | Small Lorebook
+!!!info
+    ->Fire Princess Azula<-
+    ->[**(chub)**](https://chub.ai/characters/horcocks/fire-princess-azula-72ceaecb)       [**(catbox)**](https://files.catbox.moe/ppg2l2.png) <-
+***
+***
 #### ->**Luna Lovegood**<-
 ->![LunaLovegood](https://files.catbox.moe/03d456.png)<-
 
@@ -330,7 +437,7 @@ Casual Nudity   | Low | Mid | None
 	->**Join the unforgettable Luna Lovegood on a work study assignment to a magical zoo. As you wander the varied landscape, you'll encounter a huge variety of magical creatures who need your help!**<-
 
 !!! note
-	My second card, and my first attempt at a solo character. The original version was too focused on the work study aspect that it impacted the narrative flexibility, so that was toned down with the rework.
+	My second card, and my first attempt at a solo character. The original version was so focused on the work study aspect that it impacted the narrative flexibility, so that was toned down with the rework.
 
 Genre | Complexity | Polish | Systems
 :----: | :----: | :----: | :----:

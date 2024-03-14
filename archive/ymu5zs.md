@@ -1,4 +1,4 @@
-#**Extended List of Story Updates from edition #2462 - #2820**
+#**Extended List of Story Updates from edition #2462 - #2925**
 
 /hmofa/ Masterbin: https://rentry.org/hmofa
 Contact: azuhmier@gmail.com (Questions or Suggestions?)

@@ -823,4 +823,7 @@ International Braille Chess Association (IBCA) Rules
 World Chess Boxing Organisation (WCBO) Rules
 - https://chessboxing.global/rules
 
+World Chessboxing Association (WCBA) Rules
+- http://worldchessboxing.com/rules
+
 -> **[Top↑](#chess-websites-tools-videos-and-books)** <-

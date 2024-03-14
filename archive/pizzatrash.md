@@ -12,6 +12,10 @@ https://mega.nz/folder/HX4EkBhL#Fn-jpqkI1W1yD-5AH04ibw 🍕The Toppins That I De
 https://mega.nz/folder/ykpWhCwQ#zfKAGYJB8GccX2ZruZXJPg -8 TOPPINGS GIFS TRANSPARENT
 https://mega.nz/folder/kPFXWCYZ#4hshCDG3GMMlzIpRDEgWTg Toppin Shimejis
 
+#####Leaks
+https://archive.org/download/pizzatowerleaks2020/not%20so%20staff%20only%20anymore%20is%20it%20lads.rar
+https://mega.nz/folder/TdwW2ZwQ#46pim9QC9Z68y68lExzHnw
+
 
 #####Threads
 
@@ -85,6 +89,11 @@ https://desuarchive.org/trash/thread/62336162 /pizzatrash/ 68
 https://desuarchive.org/trash/thread/62538425 /pizzatrash/ 69
 https://desuarchive.org/trash/thread/62747999 /pizzatrash/ 70
 https://desuarchive.org/trash/thread/62955885 /pizzatrash/ 71
+https://desuarchive.org/trash/thread/63174527 /pizzatrash/ 72
+https://desuarchive.org/trash/thread/63323066 /pizzatrash/ 73
+https://desuarchive.org/trash/thread/63523090 /pizzatrash/ 74
+https://desuarchive.org/trash/thread/63737934 /pizzatrash/ 75
+https://desuarchive.org/trash/thread/63967196 /pizzatrash/ 76
 
 #####Aggie
 
@@ -150,3 +159,8 @@ https://aggie.io/gbqjlelvl_ /pizzatrash/ Aggie #48: Frutti di Mare Edition
 https://aggie.io/8hvgj7n1y5 /pizzatrash/ Aggie #49: Yabba Dabba Doo Edition
 https://aggie.io/jboxq1c017 /pizzatrash/ #50: ANNIVERSARY EDITION
 https://aggie.io/vfjfgnb9mg /pizzatrash/ #51: Prosciutto Edition
+https://aggie.io/6ljgvk_ma4 /pizzatrash/ Aggie #52: San Valentino Edition
+https://aggie.io/mskdxbmuyo /pizzatrash/ Aggie #53: Quaresima Edition
+https://aggie.io/xxx2lvck2r /pizzatrash/ Aggie #54: Noise Update Soon Edition
+https://aggie.io/w5ybfoipy_ /pizzatrash/ Aggie #55: Alla Gricia Edition
+https://aggie.io/lzux168e1w /pizzatrash/ Aggie #56: Tarragon Edition
