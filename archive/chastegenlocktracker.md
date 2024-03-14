@@ -16,13 +16,11 @@ _(Updated 07-Mar-2024)_
 | intraining99 | https://chaster.app/sessions/ma9PEazscsz39lYM | === |
 | Please_be_nice | https://chaster.app/sessions/mNUPxCItBMbMFuvO | === |
 | Undecided | https://chaster.app/sessions/C3ZDgDbIlZbmHrGi | === |
-| sbubyppupy | https://chaster.app/sessions/vNp0t3XpqLnAk5SN | === |
 | smoll_lilly | https://chaster.app/sessions/prDrroyAh4E4n5Ky | === |
 | robintheincubus | https://chaster.app/sessions/VsoyOSyjnkqrkvHH | === |
 | Kinky_Twikii | https://chaster.app/sessions/EPphQ2J4vsNX3Ghi | === |
 | LockedUpOwO | https://chaster.app/sessions/bc1grVJYZOYGEjqn | === |
 | Andrea22 | https://chaster.app/sessions/T0knRoNjEkmsZg9T | === |
-| AsahiTru | https://chaster.app/sessions/JGrELwRu61xqGInb | === |
 | Sonnenpuppy | https://chaster.app/sessions/YqoTuqGXdHig5Iux | === |
 | Vulparion | https://chaster.app/sessions/kSl5VH5v7ajrhSaN | === |
 | xoronite | https://chaster.app/sessions/oyY87eMVrRD6cyXe | === |
@@ -37,5 +35,7 @@ _(Updated 07-Mar-2024)_
 | jhonnyexampole | https://chaster.app/sessions/qitgO1ChkNCLTidf | === |
 | Subbyboy101 | https://chaster.app/sessions/nB7SbI4O8BZw75HQ | === |
 | KennedyShotFirst | https://chaster.app/sessions/j3GyjDdj7J9D0pRJ | === |
+| SaraVess | https://chaster.app/sessions/EaSbceiJjpITeiKV | === |
+| ShiShi | https://chaster.app/sessions/sFfZDNA5uuYqqKjX | === |
 |  |  |  |
 |  |  |  |

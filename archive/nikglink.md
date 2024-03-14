@@ -1,9 +1,6 @@
 >Advise Answers
 https://db.nikke.gg/advise
 
->Advise Voice Lines
-https://rentry.org/nikg-advice-voice_lines
-
 >Art
 https://rentry.org/GoddessofVictoryNikke
 
@@ -25,5 +22,8 @@ JP: https://gamewith.jp/nikke/article/show/371009
 
 >Unions
 https://rentry.org/NikkeUnion
+
+>Wiki
+https://nikke.win/en
 
 -> ![p](https://i.imgur.com/C53Mx9O.gif) <-

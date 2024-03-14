@@ -1,7 +1,7 @@
 -> ![Kiyo's corner!  Lol](https://files.catbox.moe/u68len.png) <-
 
 ##BANANA BLUES
-![Most recent comic page!](https://cloverguild.com/booru/data/posts/1492_a72a050187da0042.png)
+![Most recent comic page!](https://cloverguild.com/booru/data/posts/1612_77df3070dbc1d048.png)
 #####Read the full comic [here!](https://rentry.org/kcb-c1c)
 This is a comic I'm working on, about Tropius getting a real home!  Updates whenever lmao :]
 

@@ -1,6 +1,6 @@
 ->![dj pon3 pronoun graphic](https://64.media.tumblr.com/bac1d5dbe4be7dd27bc5c21dd163a634/269254ec6eff9829-cd/s400x600/f4098244b47d54cef67b2e679eb8e284c1267de5.pnj)<-
 !!! info
-    ####->***last updated : 10.03.24***<-
+    ####->***last updated : 14.03.24***<-
 ***
 ->[✮](https://pronouns.cc/@mirthful)<-
 ####->`01 - main`<-
@@ -39,7 +39,8 @@ drop.drops.dropself
 despair.despairs.despairself
 dash.dashes.dashself
 dj.pon3.dj pon3
-dj.djs.djself*%%<-
+dj.djs.djself
+decay.decays.decayself*%%<-
 ->![div](https://64.media.tumblr.com/015d1921eb6f345f32fd4e96646d01fe/f169f0533fe2c6a6-1a/s400x600/b625a42e741af8628c7a6785a33d0bdf951ad947.pnj)<-
 ####->`02.5 - E`<-
 ->![div](https://64.media.tumblr.com/fef61cc57015ee7b8b408d3bf6a44556/f169f0533fe2c6a6-61/s400x600/ec47c9e773b5042d787f1e3f30f84322d7e6883e.pnj)<-
@@ -190,5 +191,8 @@ wound.wounds.woundself.*%%<-
 🚬.🚬s.🚬self
 🪦.🪦s.🪦self
 ⚰.⚰s.⚰self
+🎭.🎭s.🎭self
+🃏.🃏s.🃏self
+⛧.⛧s.⛧self
 ⁉.⁉s.⁉self*%%<-
 ->![div](https://64.media.tumblr.com/015d1921eb6f345f32fd4e96646d01fe/f169f0533fe2c6a6-1a/s400x600/b625a42e741af8628c7a6785a33d0bdf951ad947.pnj)<-

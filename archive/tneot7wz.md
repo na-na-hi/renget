@@ -8,10 +8,10 @@
 "Kid's got some energy, I'll give him that. I never really cared about being the best - I used to just be happy being me. I get it, though, the fear of failing, the terror of not being able to beat everything and everyone that gets in your way. I also know how easy it is to pretend, to protect yourself from your flaws with bravado and laughter, but be careful that doesn't become arrogance, or it'll get you killed before you become the man you want to be."
 
 **Himari Miko - Hidden Leaf Genin**
-"She's funny, she's clever, she's cute and she's a fantastic liar -  keep away from this one Junki, she'll eat you alive! For real though, it took me a while to realize how uncomfortable she was in her own skin. Like a bird in a golden cage, she revels in the attention but hates being behind the bars and she's looking for something to fill the days. Tell you what, if you want to go and do something stupid, I'll tag along for a while, you're more interesting than I think you realize."
+"She's funny, she's clever, she's cute and she's a fantastic liar - keep away from this one Junki, she'll eat you alive! For real though, it took me a while to realize how uncomfortable she was in her own skin. Like a bird in a golden cage, she revels in the attention but hates being behind the bars and she's looking for something to fill the days. Tell you what, if you want to go and do something stupid, I'll tag along for a while, you're more interesting than I think you realize."
 
 **Takeru Suzuki - Hidden Leaf Genin**
-WiP
+"Why run so fast, is he running towards something he wants, or away from something he's afraid of? Turns out it might be neither - once I got to know him he's a surprisingly stable sort for someone who can't stand still. His parents weren't shinobi and he's here of his own accord - better yet, he doesn't have any ancestral guilt weighing him down and even his remarkable jutsu is a product of his own interest. He might not realize it, but he's the perfect example of what the war has taken from us, not because it's touched him, but because he's what we shinobi could have been without it."
 
 ####Team 2
 **Osamu - Hidden Leaf Jonin**
@@ -47,13 +47,14 @@ WiP
 "The Hidden Leaf has a lot of medical-nin, don't they? It makes sense, where there's warriors, there's those that enable the killing. That's unfair, this girl isn't old enough to know what her tutors did, she's too cheerful for that. From what I hear she wants to become the best medic ever even though she doesn't know what that means - I think she should be encouraged, the last thing we need is another healer giving up, maybe she can help mend this broken world when she grows up. As an aside, I always thought snakes were kind of cool, we never got them in Shimogakure, maybe I'll ask her about them sometime."
 
 **Itami Nanae - Hidden Leaf Genin**
-WiP
+"Like a lot of noble children, he's choking on the pressure of his expectations. Unlike some of the others here, he seems to be angry about it - that, I can understand, but less excusable is the narcissism. He's got a lot of time to grow up, so hopefully he'll grow out of it, until then he seems smart enough to keep his head down when something dangerous happens. I don't know much about the Nanae clan, but if it's anything like the rest of the Leaf then it's probably to blame for his less-than-conventional jutsu and obsession with being better than others."
 
 **Kazen Uzumaki - Hidden Leaf Genin**
-WiP
+"I'd heard of what happened to the Uzumaki and how few there are left. Imagine my surprise when I finally meet one of them, a young Genin, and he's still capable of laughing - it's almost enough to break the heart. Of course, he didn't get away from the war without scars and I'd be even more disturbed if he wasn't trying to hide some pain. He's piecing together the crumbling lore of his clan already - at his age, he should be thinking more about himself and less about some honour bound duty. Still, that's what the war has done to most of us, I hope it hasn't broken him beyond repair."
 
 ####Team 5
 **Ezaki Tuto - Hidden Leaf Jonin**
+"As far as Jonin go, he's not bad. Most of the other veterans of the Leaf carry the war on their back as a badge of pride in some way or another - they're obsessed with it. This one doesn't need to keep reminding himself, he's got the scars for that. I don't know much about who or what did that to him, the records on the Jonin missions are understandably hard to get, but I do know that he's trying to rebuild a new life away from it all, good. He likes Tsugumi's books - from what I can tell, he likes more than her books - I think I'll leave them alone while we're in Konoha."
 
 **Jin Hyuga - Hidden Leaf Genin**
 "These Hyuga take themselves seriously - the Leaf Village is full of clans that compete with each other to be the best, but I hear the Hyuga are the harshest on their own kids that don't make the cut. This one's no exception, they drilled some taijutsu into him that some Jonin I've known couldn't keep up with. Imagine my surprise when I actually get to talk to him and he doesn't take himself that seriously at all. If more fighters were like him, we'd be in a better place. There's something angry beneath that mask though, I don't know what it is, but with that family it has to be something back at home."
@@ -82,10 +83,10 @@ WiP
 "A samurai, here? They'd be right at home in the Hidden Leaf - half the shinobi here think they're supposed to be warriors anyway. I'll be honest, I don't like your kind, you're killers to the core, but at least your code is built for it unlike ours. If you're here to escape the violence, you came to the wrong place, after the War we're all the same. But who knows, maybe you'll do something that upsets all these Jonin and maybe I can help with that. If you ever need some advice on how things work around here, I'll gladly give."
 
 **Kamare Hozuki - Hidden Mist Genin**
-WiP
+"This one is all over the place when it comes to techniques - filling in his repertoire, or maybe easily bored? He doesn't seem particularly motivated to be a shinobi, from what I can tell this life has been forced on him by expectation. How people can remember the war and want to force children down the same path is beyond me, but here we are. He'll need to find a reason quickly, this life isn't for people who are bored or just curious - sooner or later he'll face a situation where he has to decide to sacrifice something important to him, believe me when I say he wants to be ready for that."
 
 **Daiki Ueno - Hidden Leaf Genin**
-WiP
+"The Ueno clan possesses a very dangerous heritage - so it is said - and will wither from the core at a very early age in return for a vast talent, the candle that burns twice as bright. This is wrong, someone that age shouldn't be forced to confront death, whether at the hands of an enemy's blade, poison, or the rebellion of their own body. I haven't been able to talk with them much yet, but I feel like they'd be better off searching for a cure to their condition than participating in the exams. Maybe Tsugumi knows something that can help."
 
 ####Other
 **Kiyjo-Douji - Hokage**

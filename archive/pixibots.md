@@ -75,6 +75,7 @@ This sets up your ST to delete the CoT after generation, since at that point it'
 ### Known issues
 
 - Standard prompt is not compatible with cards written in first-person POV. I was not able to get the model to auto-detect the POV without outright calling it first-person. Even then, the model seemed to get confused easily and started talking as {{user}} in responses.
+- Claude 3 is naturally horny. This is a known fact. This JB doesn't make it even worse, but it also doesn't fix what's already there. I'll keep an eye out for some anti-NSFW wording that doesn't have any negative effects, it would be a good addition to default preferences.
 
 ## Cards
 

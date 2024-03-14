@@ -1,9 +1,9 @@
 ->![](https://files.catbox.moe/85anvt.png)<-
-->**Daughter** . . .
-Also known as **Niryun**<-
+->**%green%Daughter%%** . . .
+Also known as **%green%Niryun%%**<-
 
 ->Eternally young, Asexual
-**They**/She, Impaired ( Multiple Sclerosis + Visual Snow ), Esfj<-
+**%green%They%%**/She, Impaired ( Multiple Sclerosis + Visual Snow ), Esfj<-
 
 ->%green%Wander through these Halls . .%%<-
 
@@ -17,4 +17,9 @@ Sanguine-Melancholic<-
 ->Egotistical haunting beauty
 tender humming of deep sorrow.<-
 
-->**%green%[Retrospring](https://retrospring.net/@ill)%%**<-
+->**%green%Sources: %%** __Susie Salmon__, Charlotte (CS), **Saya**,
+*Lamb (Kindred)*, Nahida, **Aida (Aisha)**, Spooky,
+Sue (Clover), Nika, Miffy, **Akeboshi Himari**,
+*Suiseiseki*, **Ahri**, Kokoa Yoshizaki.<-
+
+->**%green%[Retrospring](https://retrospring.net/@ill)%%** + **%green%[Pinterest](https://pinterest.com/EnfeebIed/)%%**<-

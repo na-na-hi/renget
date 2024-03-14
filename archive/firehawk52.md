@@ -206,7 +206,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ### Deezer
 
 #### Deezer ARLs
-!!! info Check this site for guide on how to use ARLs: https://deemixapp.co/deezer-user-arl-token/ - ✅ **All Checked on 2024-03-07** | **Changes made on 2024-03-13 @ 16:45 UTC**
+!!! info ✅ **All Checked on 2024-03-07** | **Changes made on 2024-03-13 @ 16:45 UTC**
 
 !!! info Check Deezer ARLs with this script
     [Download here](https://rentry.co/stracc). Thanks to FrankYaLatr.

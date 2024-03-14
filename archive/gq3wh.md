@@ -3,35 +3,28 @@
 ### OP
 `/dbag/ - Digital Brushes and Assets General`
 ```
->"How do I make/edit my own brushes?"
-CSP: https://www.youtube.com/watch?v=M55J0dpZddA
-Procreate: https://design.tutsplus.com/tutorials/how-to-create-and-customize-procreate-brushes--cms-31889
-Photoshop: https://astropad.com/how-to-create-custom-brushes/
+A thread for recommending and sharing brushes/digital art assets.
+
+>Publicly editable rentry for CSP assets. Feel free to contribute brushes you have purchased. Assets that have been deleted from the store are also welcome to be uploaded here.
+https://rentry.org/CSP_materials
+
+>CSP assets store wishlist
+https://rentry.org/Brush_Wishlist
 
 >"What brush does this artist use?"/"What brush looks like this?"
 1.)Search "brush (from:artisthandle)" or "assets.clip-studio.com (from:artisthandle)" on twitter if that's where they post mainly. Make sure to set it to the Latest tab to see the artist's tweets. Or use Nitter.
 2.)Search brush posts on their Pixiv Fanboxes/Booth/Patreon. Then try to see if it's on kemono or archives.
 3.)If none of the searches work, then ask here.
 
->CSP 
-Official Store: https://assets.clip-studio.com/en-us/
-Shared Asset Hub: https://rentry.org/csp_materials
-
->"My CSP is cracked how do I get this brush?"
-As long as you log in it works even on cracked copies.
-
->Procreate
-Free: https://folio.procreate.com/discussions/10
-Recommendations: https://folio.procreate.com/discussions/10/28/25109 
-
->Krita
-Free: https://krita-artists.org/c/resources/brushes-and-bundles/32
-
-Deviantart and gumroad are also good places to check for assets!
-
+>"My CSP is cracked so I can't use the asset store"
+As long as you log into the asset store it works even on cracked copies.
 
 Previous: 
+
+(Brush in the OP is in the rentry.)
 ```
+
+
 
 ### 1st Post
 - Application news if applicable at thread creation

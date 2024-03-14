@@ -11,9 +11,11 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
+▼ Next known appearance (karaoke offcollab with FWMC on FWMC's channel, Sat 03/16 8AM CT)
+https://www.youtube.com/watch?v=dnATI1YAoTU
 ▼ Next stream: TBA
 ▼ Recent appearances
-03/13 Kiara's Pick up line call-in: https://www.youtube.com/watch?v=MyDk7WdXj7U
+03/13 Kiara's Pick up line call-in: https://www.youtube.com/watch?v=MyDk7WdXj7U&t=290s
 03/13 "Can You Do the hololive?" song segment: https://www.youtube.com/watch?v=QNW7yHDYldY&t=140s
 03/13 Twitter space with Kiara: https://twitter.com/i/spaces/1djGXNZmmlBxZ
 03/12 Twitter voice with Kiara: https://twitter.com/takanashikiara/status/1767452224651985249

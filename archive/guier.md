@@ -50,8 +50,9 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 ***
 ####->What Is Star Citizen/Squadron 42?<-
 
-Star Citizen is an ambitious kickstarter videogame project  that consists of an MMO and single-player space opera built on a fork of the CryEngine, now officially dubbed StarEngine, first announced on October 10th, 2012 at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the fundraiser to their own website, where it continued to gain funds primarily through ship sales—or "pledges," if you will.
+Star Citizen is an ambitious kickstarter videogame project first announced on October 10th, 2012 at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the fundraiser to their own website, where it continued to gain funds primarily through ship sales—or "pledges," if you will.
 
+The kickstarter consists of an MMO and a single-player space opera built on a fork of the CryEngine, now officially dubbed StarEngine.
 The MMO portion of Star Citizen, the "**[Persistent Universe](https://starcitizen.tools/Persistent_Universe)**", is an immersive open world space sim  PvPvE sandbox, that is currently still in its alpha development phase. The PU consists of 100 player cap servers and one explorable star system called **Stanton** that is home to:
 >4 planets, 1 of them being a Gas giant.
 >4 handcrafted explorable cities per planet, including a floating city in the gas giant.
@@ -60,7 +61,7 @@ The MMO portion of Star Citizen, the "**[Persistent Universe](https://starcitiz
 
 Along with derelict outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, derelict settlements, [a prison](https://starcitizen.tools/Prison), and an outlaw space station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens. There are over [100 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've given a brief rundown further down below. 
 
-As it stands, **there is no solid release date** for any "official" persistent universe launch, as we are still waiting on many more features, along with [core backend networking technology](https://youtu.be/cVvp1b7thzw?t=65) to allow multiple game servers to work simultaneously in a "server mesh" ([recently unveiled a working prototype here](https://youtu.be/xKWa4WoTkV4?t=5140)) that will enable CIG to add far more content, such as additional star systems and players within the same game shard. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
+As it stands, **there is no solid release date** for any "official" persistent universe launch, as we are still waiting on many more features, along with [core backend networking technology](https://www.youtube.com/watch?v=LTopxLqh5wE) to allow multiple game servers to work simultaneously in a "server mesh" that will enable CIG to add far more content, such as additional star systems and players within the same game shard. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
 
 **[Squadron 42](https://starcitizen.tools/Squadron_42)** is a cinematic single-player campaign that takes place in the [Vega](https://starcitizen.tools/Vega_system) and [Odin](https://starcitizen.tools/Odin_system) Star Systems, set before the events of the persistent universe. Chris Roberts said himself that SQ42 will be "this generation's wing commander", and has, for the most part, been the main development focus of CIG. SQ42 boasts an impressive A-list Hollywood cast with actors such as Gary Oldman, Mark Hamill, Gillian Anderson, Mark Strong, Andy Serkis, John Rhys-Davies, and more. 
 
@@ -68,7 +69,9 @@ As of Citizencon 2023, [CIG has announced SQ42 is now "feature complete"](https:
 ***
 ***
 ###->What is there to do in-game?<-
-Here I will list out the current professions Star Citizen has to offer (in their alpha/incomplete state) with a brief summary for each, and let you decide on what sounds appealing to your preferred playstyle. Give each one a chance, and don't burn yourself out on just doing one mindless grind for money. **These can all be done solo.**
+Here I will list out the current professions Star Citizen has to offer (in their alpha/incomplete state) with a brief summary for each, and let you decide on what sounds appealing to your preferred playstyle. Give each one a chance, and don't burn yourself out on just doing one mindless grind for money. 
+
+!!! note These can all be done solo.
 
 - **[Mining](https://starcitizen.tools/Mining)**
 
@@ -78,7 +81,7 @@ You start off by going to a planet, moon, or asteroid belt (or cave if FPS minin
 
 - **[Salvage](https://starcitizen.tools/Salvage)**
 
-Salvage in Star Citizen was recently introduced earlier this year in patch 3.18. You can solo salvage with the [Vulture](https://starcitizen.tools/Vulture) or multicrew in the [Reclaimer](https://starcitizen.tools/Reclaimer). There are salvage claims (legal or illegal) in the contracts manager that require you to pay a small fee for the rights and location of the derelict ship, or you can salvage any player abandoned ships you find loitering around.
+Salvage in Star Citizen is the most recent gameloop introduced into Star Citizen. You can solo salvage with the [Vulture](https://starcitizen.tools/Vulture) or multicrew in the [Reclaimer](https://starcitizen.tools/Reclaimer). There are salvage claims (legal or illegal) in the contracts manager that require you to pay a small fee for the rights and location of the derelict ship, or you can salvage any player abandoned ships you find loitering around.
 
 The 3 current steps to this profession right now are: stripping components, weapons, and cargo from a derelict ship, then scraping off its hull with your salvage ship and being rewarded with valuable "[Recyclable Material Composite](https://starcitizen.tools/Recycled_Material_Composite)," to be sold. Afterwards, you break down the ship into multiple pieces and start disintegrating them into [Construction Material](https://starcitizen.tools/Construction_Materials).
 
@@ -132,9 +135,10 @@ There is only one ship in the game that can refuel at the moment, the [Starfarer
 ###->Should I Consider Playing the Game?<-
 !!! note **TL;DR** - Give Star Citizen a go during a freefly event if you are interested. As far as spending real money is concerned, you don't need more than the initial 45$ starter pack, and you can buy other ships you want with in-game currency. If you're still unsure, check back every 3–6 months.
 
-If you have seen Star Citizen pop up recently and wanted to give it a try, I will always recommend you do so during a freefly event. Freefly events will allow you to play the game for free within a certain period of time (usually 1-2 weeks) and will lend you some ships to try out as well, along with discounts on starter packs. These happen usually once every quarter and I have listed out some of them further below.
+You may have seen Star Citizen pop up recently and wanted to give it a try, If so, I will always recommend you do so during a freefly event.
+Freefly events will allow you to play the game for free within a certain period of time (usually 1-2 weeks) and will lend you some ships to try out as well, along with discounts on starter packs. These happen usually once every quarter and I have also provided more detail about them further down. 
 
-But is it worth your money right now? As someone who "plays" Star Citizen regularly, solo and in groups, and has walked new people through the process a few times already, I'm going to have to say that **Star Citizen isn't worth spending any real cash on until they rework the mobi-glass at the very least**. If you do decide that you want to spend money, grab a $45 game pack; you don't need more than that. Don't listen to retards who say otherwise.
+Take those opportunities to try out the game and decide if you think throwing in $45 for a starter pack is worth it or not.
 
 Star Citizen is more of a tech demo project than an actual game. It's not something you can really devote time and energy to every day and expect results, especially with the occasional database wipe. So that being said, if you are not a very patient person, don't bother playing and just occasionally check back on the project every few months or so until you think it's in a better spot to try out.
 ***

@@ -4,6 +4,8 @@
 [Prologue](https://rentry.co/ww6axip9)
 [Chapter 1](https://rentry.co/zx6cwsz3)
 
+-> ![She can read!!](https://i.imgur.com/XDEDtBT.gif) <-
+
 ***
 
 ![more WIP](https://i.imgur.com/JvBZcnp.png)

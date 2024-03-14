@@ -682,6 +682,7 @@ https://www.sumo.or.jp/EnSumoDataKyokaiMember
 https://en.wikipedia.org/wiki/Category:Sumo_people
 
 https://sumowrestling.fandom.com/wiki/Category:Sumo_People
+https://sumowrestling.fandom.com/wiki/Category:Active
 
 http://heyaaz.nagioff.com
 

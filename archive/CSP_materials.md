@@ -9,12 +9,13 @@
 ## Link Hub
  Link |  | 
  ----: | :---- 
-[**Paid**](https://rentry.org/CSP_368476) | Paid non 3D assets |
-[**3D**](https://rentry.org/CSP_3D) | 3D materials |
-[**Deleted**](https://rentry.org/CSP_Deleted) | For Assets removed from the store |
-[**Wishlist**](https://rentry.org/Brush_Wishlist) | Use the markdown script below to easily add items | 
-[**Userscripts**](https://rentry.org/CSP_markdown_script) | Contains 3 scripts. 1. Rentry markdown converter, 2. wishlist checker, 3. Download on asset page
+[**Paid**](https://rentry.org/CSP_368476) | Paid non 3D assets
+[**3D**](https://rentry.org/CSP_3D) | 3D materials
+[**Deleted**](https://rentry.org/CSP_Deleted) | For Assets removed from the store 
+[**Wishlist**](https://rentry.org/Brush_Wishlist) | To wishlist CSP assets
 [**Translated Plugins**](https://rentry.org/CSP_English_Plugins) | English Translated plugins for CSP
+ | 
+[**Userscripts**](https://rentry.org/CSP_markdown_script) | Contains 3 scripts. 1. Rentry markdown converter, 2. wishlist checker, 3. Download on asset page
 [**OP**](https://rentry.org/gq3wh) | Potential opening post
 
 ***

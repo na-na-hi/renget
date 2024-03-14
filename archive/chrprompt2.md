@@ -171,6 +171,7 @@ Q3: Does the banana that's hanging on your chin ever go bad?
 >Surprisingly, no. I don't know if it's Pokémon magic or whatever, but they don't seem to ripen or turn brown. That's fortunate for me though, because I'd hate to be without my bananas. I get this strange comfort from them being there under my chin... I felt a bit restless after I lost one to that Venusaur. I'm not sure why I feel this way, I just do. Oh, and if this is a roundabout way of asking if you can have a banana once they start to go bad... the answer is no.
 
 Q4: Have any of your human hobbies carried over to the Pokemon world?  Or are you very bored these days?
+Q5: What's your favorite fruit?
 
 ###Linoone
 Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?
@@ -194,6 +195,7 @@ Q2: What would be your ideal qualities in a partner?
 Q3: How well would you say you know the dock area at Capim Town both above and below water?
 Q4: Ever want to evolve into a dewott, and maybe one day, into samurott?
 Q5: How good are you at fighting with your scalchop? Does it feel awkward to hold it and fight with it?
+Q6: What would be your ideal partner?
 
 ###Stumpy
 Q1: Is there any reason you havent evolved yet?
@@ -208,7 +210,7 @@ Q4: Did you ever watch any Bob Ross episodes as a human?
 
 ###Elm
 Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  Have you kicked the habit completely?  Or do you still indulge in a bit dream eating from time-to-time?
-Q2: Evrr think youre gonna beat your weakness to normal types, or as I like to call them, *normies*?
+Q2: Ever think you're gonna beat your weakness to normal types, or as I like to call them, *normies*?
 Q3: Can you remove your skull "mask", or is that actually a part of your body?
 
 ###Error
@@ -252,7 +254,7 @@ Q2: Besides an arm and a leg, whats missing from your life right now?  Any goals
 >Gonna be honest, dude... I left a lot of things and people before I got here. Not just as a human, but with those Pokemon I met and adventured with after. I've been stuck in the Pokemon World probably longer than most of the humans in Clover Guild, and I pray they have their shit together more than I ever had or ever will. If I ever get my footing... pun unintended, bro, I maybe want to scrounge up the resources for a real place to call my own, a partner who can see me for the better than I can see myself with these dead old eyes, raise a couple of eggs, and let the world know that Turquoise was here, and he did his best damn it. But that's just, like, my opinion, bro. ...Wanna grab a few Oran kvasses at the bar?
 
 Q3: How long can you go without... "medication"? Ever had a withdrawal?
->Uh... Fuck... NOT LONG ENOUGH, DUDE! According to Kina, my body rhythm makes it sound like I was dying of shock when I'm off my grass. I need to consume a lot for it to even take a hold of me, man... Did you know, by being a Lucario, I'm immune to poison? Hehe... Did you also know... THAT MAKES IT REALLY HARD TO GET HIGH AND DRUNK?! I'm not going to mess you with the nitty gritty, bro, but I've gone to great lengths to make sure I'm buzzed and fuzzed enough to function throughout the day, bro. Yes I know it's a problem. My best advise for my and the guild's welfare is if you ever catch me lacking because someone thought it was funny to steal my stash or I lose it in a dungeon, treat me kindly and get me to a safe location because from what I understand what other guildmon, I'm a hot mess without it. I once came back to consciousness to find myself holding Cyndaquil like some sort of plushie while crying like a bitch, man. Cyndaquil was crying too from me leaking my emotions through aura... We swore to never speak of that again. Wait... Shit.
+>Uh... Fuck... NOT LONG ENOUGH, DUDE! According to Kina, my body rhythm makes it sound like I was dying of shock when I'm off my grass. I need to consume a lot for it to even take a hold of me, man... Did you know, by being a Lucario, I'm immune to poison? Hehe... Did you also know... THAT MAKES IT REALLY HARD TO GET HIGH AND DRUNK?! I'm not going to mess you with the nitty gritty, bro, but I've gone to great lengths to make sure I'm buzzed and fuzzed enough to function throughout the day, bro. Yes I know it's a problem. My best advice for my and the guild's welfare is if you ever catch me lacking because someone thought it was funny to steal my stash or I lose it in a dungeon, treat me kindly and get me to a safe location because from what I understand what other guildmon, I'm a hot mess without it and could become a bit of a problem... I once came back to consciousness to find myself holding Cyndaquil like some sort of plushie while crying like a bitch, man. Cyndaquil was crying too from me leaking my emotions through aura... We swore to never speak of that again. Wait... Shit.
 
 ###Pika
 Q1: What's the most important thing to have in a relationship?
@@ -262,30 +264,42 @@ Q4: Despite being a fujo, are there any straight ships that you like?
 
 ###Chespin
 Q1: Have you ever thought about hiring a craftsmon to turn cotton into a true bed?
+>That wouldn't be too bad an idea, though I'd worry about falling to the floor after waking up, since I've been sleeping like this so long now. Maybe someday I'll look into it more, there's gotta be someone in this world that knows how to properly make a bed that isn't nothing more than filthy hay. Speaking of beds, a water bed was also a thought I once had, but the fact my quills can sharpen to a point makes that a no-go as well. If that thing popped, the whole room would be ruined!
 Q2: What's comfier for sleeping? Warm room or cold room?
+>Warm rooms lead to overheating under the covers, which ain't cozy at all! I can't sleep well without being wrapped up in a soft blanket, so this is one point I gotta concede to the chillers. Warm blanket and cool pillow is objectively the optimal way to sleep, and if one of those are out of line, the whole night gets thrown off.
 Q3: Do you have blood or sap in you? Or both?
+>I'm pretty sure I have blood since I'm not cold to the touch, but sap? If I do have it, it's probably in my vines. I'm not about to go getting the vines cut to find out, what if they didn't heal? What if they didn't grow back?!
 Q4: What's the deal with that brown spot on the back of your head? Can I poke it?
+>... Wait, that's been there this whole time? Is it a soft spot? Is it just discolored? Please don't touch it.
 
 ###Wooper
 Q1: Can you share some of your favorite human folklore?
+>Chespin once told me about all the cool things humans in his world made! The stories I grew up learning about never mentioned anything about humans having portable plays, magical flying machines, or boxes that cook your food in only a minute! Think about all the other things they must have had! 
+>The other guildmates like to tell me about someone they call "the great Ted." Chespin refuses to tell me anything about him, even though the look on his face when I ask him tells me he knows. Why's he holding out on me?
 Q2: How do you get along with your fellow Wooper, Cheesecake?
+>I've never seen a Wooper that was blue AND pink at the same time! He seems pretty nice, do you think Chespin would let him come on an adventure with us? Think about how cool it could be, we could show up to an outlaw, and Chespin could hold one of us in each vine while we shoot our attacks out!
 Q3: Do you prefer saltwater or freshwater? Can you tolerate both or only one?
+>Freshwater's obviously better, but I can tolerate saltwater. It's a little uncomfortable though, kind of like sleeping with a scratchy blanket.
 Q4: I know you and Chespin are best friends forever, but what's one thing you dislike about him?
+>Chespin's everything I could ever want in a best friend! The only thing I dislike is that he didn't show up sooner! ... Oh, you say that doesn't count? Well... Chespin kinda flies off the handle at a moment's notice in a fight. One moment he's calm, but when an enemy shows up he's all "SHOOT THAT STUPID CHILLER IN THE FACE!" He's still able to deal with them, but I wish he'd retain his composure just a bit more.
 
 ###Smith
 Q1: Furret seems pretty cute.  Does she ever do anything that scares you?
 Q2: How much time do you spend with that Porygon2 you discovered?
 Q3: How much can you lift?
+Q4: What does Grimy Food actually taste like?
 
 ###Furret 
 Q1: Smith seems like a tough guy.  Does he ever do anything nice for you?
 Q2: How did you get interested in fashion?
 Q3: How much can *you* lift?
+Q4: How many ribbons and useless accessories do you have?
 
 ###Togetic
 Q1: What would you do if you saw someone making a mess of the storeroom?
 Q2: Have you considered selling your Joy Dust?
 Q3: What are your thoughts on Team Buckler? Have you accepted their apology after the Dewott incident?
+Q4: What's your favorite thing about Team Cozy? Is there something you don't like about them as well?
 
 ###Kiyo
 Q1: What is your body count?
@@ -322,6 +336,7 @@ Q1: How long have you and Bellossom been doing guild work?  Would you consider y
 Q2: How has you opinion of Adrian changed?  Has he gotten easier to work with over time?
 >Absolutely not. On any mission we go on, he gets the final say on our plans, no matter what the situation is or how bad the plan is. It's gotten us into trouble in the past, hell it was his plan going wrong that got him turned into an eevee. At the very least, I understand where he comes from since I've had to take up the role of leader a couple times. I don't envy his position at all.
 >On another note, he doesn't really like to hang out with us. Bellossom and I try to spend time around the guild or Capim Town, and Enny joins us occasionally, but Adrian never wants to. He's really antisocial and I don't know why. The only times we can get him out are when we're celebrating after finishing a particularly difficult mission, and when that's done he always returns back to our dorm.
+Q3: Your species is known for producing and scattering tons of allergenic, toxic, paralytic pollen. How do you keep this under control and avoid wiping out the entire guild?
 
 ###Bellossom
 Q1: Do you have any funny stories about Vileplume from when you were young?
@@ -337,7 +352,8 @@ Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
 >Anyways! I really loved Love Live Sunshine! We Never Learn was always nice to turn on after a bad day! Fate Apocrypha was really confusing to me, but I really liked Astolfo! Honestly, I never really got into Dragonball or One Piece even though I know they're really popular. Fairy Tail was pretty good though! You know, I kind of got to live that magical guild fantasy when I joined Clover Guild. Really weird how that worked out. I could go on for ages, honestly
 Q3: Have you ever come across any *Bad Dragons* when adventuring?
 >I don't think my answer would be very PG. I will say that when I first showed up to this world, a dragonite lady let me stay at her house. She wasn't bad though. Pretty nice actually. She told me about the guild and all the weird human roleplayers there which is how I ended up finding it.
-Q3: Does it feel weird to have four tentacles-like ribbons and four legs now, instead of two arms and two legs? How long did it take you to get used to your new limbs?
+Q3: Does it feel weird to have four tentacle-like ribbons and four legs now, instead of two arms and two legs? How long did it take you to get used to your new limbs?
+Q4: You know everybody hates your fruity act, right?
 
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?
@@ -350,11 +366,13 @@ Q1: What was the grossest thing you had to clean up?
 Q2: Is there any reason you don't shower?  ...If not, please take a shower...
 Q3: Being janitor at Clover Guild must be tough.  Who do you think leaves most of the messes?
 Q4: It's strange to see a living bag of trash as a janitor. Do you ever feel like you just make things messier when you try cleaning up, or have you gotten good at your job?
+Q5: How many Hot Pockets do you get paid in a week?
 
 ###Maddi
 Q1: Have you talked to other small members of the guild yet?
 Q2: What, if anything, is your relationship with Rasmus?
 Q3: You are very small. Is it hard to work as a janitor and clean up messes?
+Q4: Do you feel nervous around bigger Pokemon?
 
 ###Apple
 Q1: Do you offer accordion lessons?
@@ -396,6 +414,8 @@ Q1: Your trainer turned into a Pokemon!  How have you handled the situation?
 Q2: Are the native Pokemon in this world very different from Pokemon in your previous world?  Or are they somewhat the same?
 >The Pokemon back in my old world were alright, but a lot of them had strong desire to travel alongside a trainer instead of doing their own thing. The Pokemon here seem to be much smarter and independent! I could never imagine a Pokemon running a shop back where I came from, let alone a whole society of us coming together! I don't like the Pokemon we've met in the mystery dungeons though, they're feral and mean!
 
+Q3: Have you ever wished you could become a human, like how your trainer became a Pokemon? 
+
 ###Cider
 Q1: What's the deal with that Chatot guy?
 Q2: Not to say you need a partner, being as talented as you are, but is there any part of you that *wants* a partner?
@@ -430,7 +450,9 @@ Q2: How are you adapting to the Pokemon world?
 
 **To any 'mon who fights often**, is there something that you specifically avoid when picking a fight? Be it either a certain species of pokemon or a type of skill?
 >Carrot: A nice smile is normally enough to stop the least roughty ones from fighting, while the rest, they would not stop anyways
+
 >Hazel: The risk of great bodily damage is a great way to dissuade, like that thing Carrot mentioned, mad or something?
+
 >Sneasel: It should be pretty obvious, but I try to keep away from Fighting-types. I also try not to mess with bulky Pokemon or fast ones. They’re harder for me to deal with, cuz I’m all about using quick attacks. Pokemon that can dodge or tank my hits are a hassle. But if I gotta fight them, I just do my best.
 
 **Former humans**, if you could write a letter back home, what would you write and to whom?
@@ -446,7 +468,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Carrot: I don't remember much, in fact i only remember one name, so i'd send mister Ali a letter asking who are them and why i know their name
 
->Booker: I’d definitely send a letter to... m-my whole family. I... I still really do miss them. I’ve already made up my mind to stay here in this world, but I j-just want my family to know I’m okay. I NEED them to know I’m okay. Even if they don’t believe it, I need to t-tell them what happened to me. Hopefully we’ll find some way to com-communicate with the Old World, even if we can’t physically go back there again...
+>Booker: I’d definitely send a letter to... m-my whole family. I... I still really do miss them. I’ve already made up my mind to stay here in this world, but I want my family to know I’m o-okay. I NEED them to know I’m okay. Even if they don’t believe it, I need to tell them what happened to me. Hopefully we’ll find some way to com-communicate with the Old World, even if we can’t physically go back there again...
+
 
 **Former humans**, what was your favorite band back in the human world?
 >Lliam: Hmm? Music band? That's an odd thing to ask, but, hmm... Afterhours, that's all I'll say.
@@ -471,6 +494,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Sneasel: Nope! Booker’s on bag duty all the time, and that’s totally fine. I can focus on fighting, and I don’t have to bother with handling my items and stuff. It’s super helpful.
 >>Booker: Th-thanks... I’m just glad I can b-be of some use. I’ve been learning some moves and trying to be more active in combat, but managing items is still my main job.
+
+>Chespin: Considering I'm the only one here with arms, it's pretty obvious who the one holding the bag is.
 
 **Guildmons with a dorm**, how is your room decorated?
 >Lliam: I suppose I'm also counted...? I don't sleep in the office like people are led to believe; my room is elsewhere around here. Where? Not tellin' ya! Anyways, I guess it's a basic small room, actually a bit smaller than other guild members' rooms, but that's fair because usually they are in pairs... Anyhow, by the entrance, there's a coat rack where I put my bag and other stuff. On the left side of the room is a wardrobe that has a bunch of my other clothes.. What's in there? That's a secret~! On the opposite side, there's a small bed. What's it made out of? Who knows, that's a trade secret~! And beside the bed is a desk, although it's a smaller one than the one in the office. And in front of the desk is a bulletin board with my research data and other stuff like that... The room itself, uhh... All I can say is plain, with a bunch of books and research scattered around, as I don't really care about the way it looks, honestly, though I really need to clean things up here...
@@ -499,6 +524,9 @@ Q2: How are you adapting to the Pokemon world?
 
 >Sneasel: Aside from the obvious answer of “all the weird and annoying slang and references”, I get annoyed whenever I hear humans talk about how they didn’t do much physical stuff in their old lives. I mean, I’ve been working out and fighting all my life, so hearing people admit they just lay around their house all day, or sat in school and learned stuff, or did jobs where they never did anything physical... I dunno, maybe I sound like a jerk, but it makes me feel like they were lazy. I know humans are different from Pokemon, and they don’t have the same drive to train and work out, but c’mon, would it have killed you guys to lift some weights or go for a run every so often? On the bright side, it looks like a lot of humans care more about working out after becoming Pokemon. There are still some slackers, but it’s nice to see so many humans visiting the dojo or going out on missions.
 
+**Former humans**, things you wished you knew about living as a Pokemon (your species or in general) that you wish you knew beforehand?
+>Turk: There's a lot of things about aura that I wish I knew when I was a Riolu... Especially how damn badly your emotions need to be under control. It certainly caused problems in my past... Thank Arceus; I got my 'medicine' for that, dude. There's always going to be someone pestering you if you're okay when you look like you're going to keel over at any moment, especially when I'm a few pieces short of a whole Pokemon, which makes some things... difficult. I'll leave it up to you what that means, bro. I tend to learn something new every day about Pokemon healthcare and grooming due to it, though. ...Or maybe I just often forget shit from the drugs? But I don't think that's an experience most 'Mon go through, man.
+
 ##->**Pair Questions**<-
 
 **Luka & Nine**: How did you two meet?
@@ -507,6 +535,9 @@ Q2: How are you adapting to the Pokemon world?
 
 **Cassie & Pika**: When are you both sparking the shipping wars?
 
+**Linoone & Debby**: Can you two lovebirds offer any relationship advice?
+
+**Chespin & Wooper**: Have you found any material more cozy to sleep on than cotton?
 
 
 ##->**Lore and Misc Questions**<-
@@ -522,7 +553,7 @@ What continents are more frequently attacked by the blaziken raids? What do they
 How common is it for your life to be at risk? Be it when venturing into a dungeon, hunting down a criminal, or just taking a stroll outside of town?
 >Error: Even when I'm not trying, I find myself almost dying, but this body just doesn't give up! I just seem to walk into danger by being me... I think the Pokemon form I've been granted is more of a curse than the blessing people may see it as.
 
->Turk: Count how many limbs and working eyes I have, dude. I say I'm pretty high up for being at risk than most people here... And I can't help myself but keep trying to get involved in situations that are risky! Call me a thrill-seeker, bro!
+>Turk: Count how many limbs and working eyes I have, dude. I say I'm pretty high up for being at risk than most people here... And I can't help myself but keep trying to get involved in situations that are risky! Call me a thrill-seeker, bro. But seriously, Whether it's for money or helping someone out, I need to get involved in that danger sometimes. 
 
 >Carrot & Hazel: Well, we're kinda seasoned so we're normally not in danger anymore, but sometimes thing can go wrong, but we have each other
 

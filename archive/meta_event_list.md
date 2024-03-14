@@ -1,12 +1,12 @@
 # The meta list of various /aicg/ events
 
-->==(Updated 2024-03-06)==<-
+->==(Updated 2024-03-14)==<-
 
 ***
-!!! warning Upcoming event
+!!! note Upcoming event
     | | | |
     |---|:---:|:---:|
-    |No events planned yet|Nothing to link|![](https://media.tenor.com/XsBzC6e_Ra4AAAAj/2more-weeks-two-more-weeks.gif)|
+    |!~orange;default;default;7; **/AICG/ THEMED WEEK #9** ~!|https://rentry.co/aicgthemedweeks|![](https://media.tenor.com/_62bXB8gnzoAAAAj/loading.gif)|
 
 ***
 | | | |
@@ -23,7 +23,7 @@
 |!~orange;default;default;7; **Project Fulminare: Dollhouse** ~!  -> ->   -> ->  *An open group project dedicated to intelligent living dolls*| https://rentry.org/fulminarerebuild| ![](https://files.catbox.moe/iavmvb.png)|
 |!~orange;default;default;7; **/AICG/ SECRET SANTA 2023** ~! | https://rentry.org/botmakersecretsanta| ![](https://files.catbox.moe/37x08v.png)|
 |!~orange;default;default;7; **/AICG/ SECRET VALENTINES 2024** ~! | https://rentry.org/secretvalentines2024| ![](https://files.catbox.moe/z1t2n9.png)|
-    |!~orange;default;default;7; **/AICG/ THEMED WEEK #8** ~!  -> ->   -> ->  *Finnish / Self-aware*| https://rentry.org/aicgthemedweek8| ![](https://files.catbox.moe/ehd5v6.png)|
+|!~orange;default;default;7; **/AICG/ THEMED WEEK #8** ~!  -> ->   -> ->  *Finnish / Self-aware*| https://rentry.org/aicgthemedweek8| ![](https://files.catbox.moe/ehd5v6.png)|
 
 
 ***

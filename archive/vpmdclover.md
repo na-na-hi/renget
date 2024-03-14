@@ -618,6 +618,6 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 - [Clover Drawboard Request List](https://rentry.org/CloverDrawRequest)
 
 ### Other Resources
- - [Clover Guild Tier List Maker](https://tiermaker.com/create/clover-guild-15922264)
+ - [Clover Guild Tier List Maker](https://tiermaker.com/create/clover-guild-15922264) **Outdated--will be updated soon-ish**
  - [/PMDG/ Thread Questions](https://rentry.org/pmdg_questions)
  - [All Rentry Pages Archives](https://www.dropbox.com/scl/fo/3aoixf4f0yt0ic4ivkmf8/h?dl=0&rlkey=3b5n3u7fm9xto6vanj9xt4tvs)
