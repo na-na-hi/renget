@@ -3,7 +3,7 @@
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
 ***
 -> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
--> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
+-> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) l [TEMP /vtai/ thread requests](https://rentry.org/vtaiRequest) <-
 
 !!! info Welcome to the Indie side of the LoRA Rentry, here you will find all LoRA's for Indie Chuubas that have been tested so far. You can return to the main list through the Navigation Bar.
 !!! note Keep in mind + Extra info

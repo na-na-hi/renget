@@ -2,7 +2,7 @@
 
 # -> Welcome to the library! <-
 
-I make pretty much exclusively malebots that are tested in Turbo, if it runs there it basically can run anywhere. I post my bots to my [chub](https://www.chub.ai/users/planewalker) first and foremost, then I'll probably upload them to catbox and add them here. I also post exclusive CAI links here because...I don't want chub revealing my shameful spaghetti code. I may port some of my other bots to CAI later, but that'll be a process that takes a while because I don't want to put up with Noam's bullshit.
+I make pretty much exclusively malebots that are tested in Turbo, if it runs there it basically can run anywhere. I post my bots to my [chub](https://www.chub.ai/users/planewalker) first and foremost, then I'll probably upload them to catbox and add them here. I also post exclusive CAI links here because...I don't want chub revealing my shameful spaghetti code.
 
 My burner can be found here if you want to contact me: karakuriburst@proton.me
 
@@ -289,8 +289,8 @@ Frankie | Info
 
 Jonah | Info
 :----:  | :----: 
-![](https://files.catbox.moe/xboitv.png)   | Jonah is a fluffy and sweet sheepboy who lives in a small monastery in the mountain with a handful of other sheepboys and sheepgirls. He's caring, gentle, and good at most kinds of housework! He can also potentially be a cleric if you want an adventuring buddy. Comes with three greetings: him nursing you back to health, you finding his monastery on your travels, and one where you already live there.
-**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jonah-268d1f27),  [Catbox](https://files.catbox.moe/wern01.png)
+![](https://files.catbox.moe/cs71a5.png)   | Jonah is a fluffy and sweet sheepboy who lives in a small monastery in the mountain with a handful of other sheepboys and sheepgirls. He's caring, gentle, and good at most kinds of housework! He can also potentially be a cleric if you want an adventuring buddy. Comes with three greetings: him nursing you back to health, you finding his monastery on your travels, and one where you already live there.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jonah-268d1f27),  [Catbox](https://files.catbox.moe/yxh4sr.png), [Alt gens](https://catbox.moe/c/36ql90)
 
 Marshal | Info
 :----:  | :----: 

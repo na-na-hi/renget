@@ -1622,3 +1622,228 @@
     >"For several months now the Zionists have been fighting the Palestinian resistance relying on various weapons & the treacherous, oppressive assistance given by the US & others. But the Resistance is still powerful, & with God’s grace it will bring the Zionists to the ground." he added
     >https://t.me/megatron_ron/2250  3/12/24  
     ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 12 (2024), against (US)-israeli forces:
+    
+    >— 🇾🇪 Yemeni Armed Forces:
+    >
+    >🔻Targeted the American ship “Pinocchio” ship in the Red Sea with a number of anti-ship missiles.
+
+    >— 🇵🇸 Al-Qassam Brigades:
+    >
+    >🔻Ambushed & engaged with 2 IOF infantry forces, from point-blank range, near the “L Towers” in Hamad City, north of Khan Younis City.
+    >
+    >🔻Targeted a Merkava tank with a Yassin 105 rocket, in Hamad City north of Khan Younis City.
+    >
+    >🔻Successfully detonated 2 anti-personnel mines targeting 2 IOF infantry forces and engaged with their members, causing dead & injuries among them, in the K and J Towers, in Hamad City north of Khan Younis City.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Detonated a powerful explosive device targeting an IOF force consisting of 6 members, holed up inside a residential apartment in Hamad City.
+    >
+    >🔻Targeted an IOF military vehicle and a D9-bulldozer with RPGs, in Hamad City northwest of Khan Younis.
+    >
+    >🔻Shelled the gatherings of israeli soldiers in the center of Hamad City northwest of Khan Younis, with mortar shells.
+    >
+    >🔻Detonated a rigged building, east of Al-Qarara, housing a special IOF force consisting of 7 soldiers, resulting in dead & injuries.
+    >
+    >🔻Detonated a pre-rigged tunnel upon the entry of an IOF force, northeast of Al-Qarara.
+
+    >— 🇵🇸 Al-Aqsa Martyrs’ Brigades:
+    >
+    >🔻Shelled a gathering of israeli soldiers and vehicles with a barrage of heavy mortar shells, in the axis of Hamad City, northwest of Khan Younis.
+    >
+    >🔻Targeted an IOF military vehicle with RPGs, in the axis of Hamad City, west of Khan Younis.
+
+    >— 🟡 Hezbollah (13 operations)
+    >
+    >🔻Shelled the headquarters of the air and missile defense command in Kila Barracks and the missile and artillery positions in Yoa'af, as well as the surrounding artillery positions, with more than a 100 Katyusha rockets, in response to the israeli attack on Baalbek.
+    >
+    >🔻Targeted the Rahib site with Burkan IRAM rockets.
+    >
+    >🔻Targeted the spy equipment at the Birkat Risha site with appropriate weapons, directly hitting them.
+    >
+    >🔻Targeted the spy equipment at the Jal Al-Alam site with appropriate weapons, directly hitting them.
+    >
+    >🔻Targeted the Al-Jardah point with Burkan IRAM rockets.
+    >
+    >🔻Targeted the Jal Al-Alam site and the Israeli soldiers deployed behind it with Burkan IRAM rockets, causing direct hits.
+    >
+    >🔻Targeted the Hadab Yarin site with Burkan IRAM rockets, directly hitting it.
+    >
+    >🔻Targeted the Birkat Risha site with Burkan IRAM rockets, directly hitting it.
+    >
+    >🔻Confronted an Israeli drone in the border areas, with appropriate weapons, forcing it to retreat back into the occupied territories.
+    >
+    >🔻Targeted the Zarit Barracks with Burkan IRAM rockets, directly hitting it.
+    >
+    >🔻Targeted the Ruweisat Al-Alam site in the Kfar Shuba hills, with rockets.
+    >
+    >🔻Targeted the Zebdine site in the Shebaa Farms with rockets.
+    >
+    >🔻Targeted Branit Barracks with rockets.
+
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >
+    >🔻Targeted Ben Gurion Airport in Tel Aviv with a kamikaze drone.
+    >https://t.me/FotrosResistance/5878  3/13/24  
+    ***
+!!!warning 
+    >"This Ramadan is very sad because of the war."
+    >
+    >Displaced Palestinian girls speak about the arrival of Ramadan at these challenging times in the Gaza Strip.
+    >https://t.me/QudsNen/98549  3/13/24  
+    >https://files.catbox.moe/ky7hev.mp4  3/13/24  
+    ***
+    >⚡️WATCH: Al-Quds Brigades published a video showing the clashes & shelling with mortars of IOF army vehicles and gatherings on Street 10 and areas south of Gaza City.
+    >https://twitter.com/AryJeay/status/1767861410829160852  3/13/24  
+    >https://files.catbox.moe/tkeze4.mp4  3/13/24
+    ***
+    >Here's an outline of U.S. factories making bombs that Israel is using these days in the genocide of Palestinians.
+    >https://t.me/QudsNen/98563  3/13/24  
+    >https://files.catbox.moe/uxq59p.mp4  3/13/24  
+    ***
+    >Lebanon: The Islamic Resistance in #Lebanon: Targeting the Ruwaisat al-Alam site in the occupied Lebanese Kfar Shuba hills with missile weapons
+    >https://t.me/me_observer_TG/167553  3/13/24  
+    ***
+    >On the third day of Ramadan...the #Egyptian Zakat Authority, in cooperation with 80 countries, announces the entry of 100 trucks loaded with 2,000 tons of urgent relief aid to our people in the #Gaza Strip through the Rafah land crossing
+    >https://t.me/me_observer_TG/167405  3/13/24  
+    ***
+    >Haaretz reports that South Africa announced that Israeli soldiers holding South African citizenship would be arrested upon entering the country.
+    >
+    >"I have already issued a statement alerting those who are South African and who are fighting alongside or in the Israeli Defense Force", stated South African Foreign Minister Naledi Pandor.
+    >https://t.me/QudsNen/98601  3/13/24  
+    ***
+    >According to journalist @SerkanTheWriter, a zionist who has been identified as David Wise and made a bomb to use against Palestine supporters in Sydney, was brought to trial today where he chose not to apply for bail and indicated that he will plead guilty to all current charges.
+    >
+    >His lawyer claims Wise has mental health issues.
+    >https://t.me/QudsNen/98603  3/13/24  
+    ***
+    >BREAKING| A coalition of legal groups issue the Canadian government with a notice of complicity in genocide and announce that legal proceedings are expected to commence in 21 days unless appropriate actions to end Canadian complicity taken.
+    >https://t.me/QudsNen/98605  3/13/24  
+    ***    
+    >Who Is REALLY behind the TikTok ban? 
+    >
+    >
+    >TikTok has 103 million monthly active users in the US.
+    >
+    >More than 1/3 (37.36%) of mobile internet users actively engage with TikTok.
+    >
+    >Half of TikTok’s US users are between the age of 10 and 29, with teens making up the bulk of the user base.
+    >
+    >Over 50% of content creators are between 18 and 24 years old.
+    >
+    >From October 23-30, 2023, posts with the # ‘standwithPalestine’ were posted 10x more than posts with the # ‘standwithIsrael’.
+    >
+    >Posts with the # ‘standwithPalestine’ also received 5x as many views.
+    >
+    >When TikTok was accused of deliberately pushing Pro-Palestinian content, they denied the claim and made it clear that the algorithm pushes whatever people engage with.
+    >
+    >Jonathan Greenblatt, the director of the Anti-Defamation League (ADL), which is an extremely powerful Jewish-Zionist organization that has often targeted free speech, was very worried by this.
+    >
+    >Seeing Gen Z in the US overwhelmingly support Palestine in the face of Israeli aggression, TERRIFIED him.
+    >
+    >Is it such a coincidence that today the ‘TikTok Ban Bill’ passes after MONTHS of congress pushing for it so heavily?
+    >
+    >They are demanding that the Chinese company ‘ByteDance’ sell the platform if the app wants to remain in the US.
+    >
+    >With the ADL being so entangled with this decision, I would imagine they’d want to manipulate the algorithm to push Pro-Israeli content while halting Pro-Palestinian content.
+    >
+    >The Chinese lobby isn’t a lobby Americans should be worried about, it’s the Zionist one.
+    >
+    >Because the Zionist lobby has been altering US domestic and foreign policy for over half a century.
+    >https://t.me/megatron_ron/2262  3/13/24  
+    >https://files.catbox.moe/9fzyfd.mp4  3/13/24  
+    ***
+    >Megatron
+    >TikTok is the only social network in the west and in the US that is not under the control of the Zionists and the CIA.
+    >
+    >The outpouring of information from there cannot be controlled.
+    >
+    >The alarm was raised when Gaza Atrocities perpetrated by Israel came to light.
+    >
+    >Elon Musk also followed the practice until he was taken for a walk in Auschwitz. Now Musk is using AI technology and cracking down on accounts and posts that contain anti-Israel content or material from the crimes they commit in Gaza.
+    >
+    >Then the USA and its vassals in Europe will follow the order and ban TikTok.
+    >
+    >TikTok has also started to hurt Jeff Bezos and Amazon massively. Thousands of online stores have sprung up by ordinary citizens, using TikTok as a place for self-promotion.
+    >
+    >How important Amazon is to globalists and Zionists is the very fact that they never allowed Europe to have such a company.
+    >https://t.me/megatron_ron/2260  3/13/24  
+    >https://t.me/megatron_ron/2261  3/13/24  
+    ***
+    >watched| #Hezbollah: Scenes from the operation to target the Al-Rahib site of the "Israeli" occupation army on the Lebanese-Palestinian border
+    >https://files.catbox.moe/r6ko72.mp4  3/13/24  
+    ***
+    >Urgent | #Hezbollah: Our fighters targeted the Ramim barracks with missile weapons and hit it directly.
+    >https://t.me/me_observer_TG/167588  3/13/24  
+    ***
+    >UNRWA Commissioner-General Philippe Lazzarini reveals that yesterday, the Israeli army received the coordinates of all UNRWA facilities across the Gaza Strip, including of the distribution centre that was targeted today.
+    >
+    >"Since this war began, attacks against UN facilities, convoys and personnel have become commonplace in blatant disregard to international humanitarian law", he added.
+    >https://t.me/QudsNen/98609  3/13/24  
+    ***
+    >⚡️⭕️ #Lebanon, Hezbollah:
+    >
+    >Scenes from the operation of the Islamic Resistance, targeting  the Birkat Risha site of the #Israeli enemy army, on the Lebanese-Palestinian border.
+    >https://twitter.com/ME_Observer_/status/1767972073475875114  3/13/24  
+    >https://files.catbox.moe/lgh0kx.mp4  3/13/24  
+    ***
+    >BREAKING| Al Jazeera reports that tribal leaders in Gaza informed UN officials that they reject to cooperate in distributing humanitarian aid except through Gaza's security forces. Israel had contacted the leaders directly to ask them for cooperation but they turned them down.
+    >
+    >It added that UNRWA officials are expected to have a meeting with Gaza's police on Saturday to agree on a method to get aid into the besieged strip.
+    >
+    >This comes as Israel has been targeting Gaza's police and governmental bodies, which are responsible for securing and distributing aid to create a state of chaos.
+    >https://t.me/QudsNen/98628  3/13/24  
+    ***
+    >Lebanon: Sayyed Nasrallah: The Islamic resistance in Iraq and its sending of marches and missiles to the entity is an ongoing and continuing matter.
+    >https://t.me/me_observer_TG/167680  3/13/24  
+    ***
+    >Military analyst Fayez Al-Duwairi:
+    >
+    >"When the occupation army fails to confront fighters, it pours its anger and hatred onto unarmed civilians and civilian targets. This behavior from the occupation army is not surprising, as this army is an extension of the 'Haganah' and 'Stern' gangs that committed the Qibya, Deir Yassin massacres, and many more."
+    >https://twitter.com/warfareanalysis/status/1768011212405575790  3/13/24  
+    ***
+    >Deputy Secretary-General of the Islamic Jihad Movement, Mohammed Al-Hindi:
+    >
+    >- Israel wants to release its prisoners at the lowest cost and there is no discussion of a ceasefire.
+    >
+    >- The American talk about a port in Gaza is misleading and aims to buy time for Israel. 
+    >
+    >- Those who want to send aid to civilians in Gaza should open the crossings instead of proposing the establishment of a port.
+    >
+    >- The American port in Gaza might open the door to the displacement of Palestinians from the strip.
+    >
+    >- Israel wants to separate the north of Gaza from its south with American cover.
+    >
+    >- Israel is working to reduce Gaza's area through a buffer zone.
+    >- Israel is working to starve the residents of Gaza to pressure towards their relocation.
+    >
+    >- The American-Israeli differences are not real and relate only to tactics.
+    >
+    >- Biden will continue to support Israel, and his statements against Netanyahu are merely superficial.
+    >https://twitter.com/warfareanalysis/status/1768012914315735450  3/13/24  
+    ***
+    >US Secretary of State:
+    >
+    >We are intensively engaged every day and every hour to achieve a ceasefire
+    >https://t.me/me_observer_TG/167764  3/13/24  
+    ***
+    >A scene showing the moment an explosive device was detonated in an occupation jeep in #Jenin last night  
+    >https://t.me/me_observer_TG/167765  3/13/24  
+    >https://files.catbox.moe/k8kuvk.mp4  3/13/24  
+    ***
+    >🛑JUST IN: Islamic Resistance in Iraq announced:
+    >
+    >The targeting of the IOF Palmachim air base with a kamikaze drone this evening  
+    >https://t.me/FotrosResistance/5885  3/13/24  
+    ***
+    >Iraq: Islamic Resistance: We confirm the continuation and redoubling of our operations during the holy month of Ramadan in destroying enemy strongholds, in completion of the second phase of operations to resist the occupation, and to support our people in #Gaza, and in response to the Zionist massacres against defenseless #Palestinian civilians.  
+    >https://t.me/me_observer_TG/167791  3/13/24  
+    ***
+    >⚡️New flour massacre, 
+    >
+    >The Israelis opened fire on civilians waiting for aid near Kuwait roundabout in Gaza.  
+    >https://twitter.com/warfareanalysis/status/1768052962864275665  3/13/24  
+    >https://files.catbox.moe/sqt76l.mp4  3/13/24  
+    ***

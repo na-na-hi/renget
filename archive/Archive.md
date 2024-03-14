@@ -9,3 +9,5 @@
 ->%darkred%this is a forever wip btw:] school's been tough, only the section(s) above are finished%%<-
 ->[***`media`***](/mediapixarchive)　[***`pink`***](/pinkpixarchive)<-
 ->![div](https://files.catbox.moe/268vhy.png)<-
+***
+no this url isn't for trade fuck off /dir

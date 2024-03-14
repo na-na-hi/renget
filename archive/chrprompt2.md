@@ -75,11 +75,16 @@ Q4: How is Pokémon language compared to English?
 
 ###Nida
 Q1: What is the best way to prepare grime for consumption?  Do you have any favorite recipes?
+>Grimeghetti and Grimeballs is a classic, can't go wrong with it!
 Q2: What do you and Pochi do on your time off?  Any hobbies?
+>Casey is teaching me about this game called Basket Orb lately, Pochi has been hanging out with Clara and Gill a lot, they are singing a lot lately!
 Q3: What is the dumbest thing you have ""borrowed""
+>I stole a balloon once. That same day Pochi asked me to go with him to patrol the Free Balloon Festival at Capim Center >:(
 
 ###Pochi
 Q1: Is Nida still committing crimes?
+>She still commits petty theft from time to time, but nothing serious as far as im aware! Im making her help out any Pokemon she steals from, so basically every other day she is doing Community Service :)
+
 
 ###Makky
 Q1: It is well known that you love to eat food, but do you have any favorite foods?  Or is the more the merrier?
@@ -118,6 +123,9 @@ Q2: Favorite drink?
 ###Cyndaquil
 Q1: Someone ever accepted to go on a date with you, or outplayed you in being... well, *you*?
 
+###Torchic
+Q1: Any luck with flying?
+
 ###Tropius
 Q1: What are the pros and cons of being so huge?
 >Well, it definitely sucks not being able to fit indoors. I can't get inside the guild except for its lobby area, so I have to sleep outside in this crummy lean-to. Honestly the stupid thing barely protects me, but I guess it's better than nothing. I also can't fit inside any of the buildings in Capim Town, so I can't go shopping anywhere but the Kecleon Shop because that's outdoors. I'd really like to go to the café and buy something nice to drink, but... oh well.
@@ -134,10 +142,16 @@ Q2: How well do you get along without having hands?
 Q3: Does the banana that's hanging on your chin ever go bad?
 >Surprisingly, no. I don't know if it's Pokémon magic or whatever, but they don't seem to ripen or turn brown. That's fortunate for me though, because I'd hate to be without my bananas. I get this strange comfort from them being there under my chin... I felt a bit restless after I lost one to that Venusaur. I'm not sure why I feel this way, I just do. Oh, and if this is a roundabout way of asking if you can have a banana once they start to go bad... the answer is no.
 
+Q4: Have any of your human hobbies carried over to the Pokemon world?  Or are you very bored these days?
+
 ###Linoone
 Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?
-Q2: What's more important- speed or control?
-Q3: Ever felt ashamed for something? Or scared (besides what happened in that mansion back then)?
+**Q2: What's more important- speed or control?**
+>Being a Linoone, it's not like I have much control when I run... So, Speed all the way! Doesn't matter how many bones I break falling from Capim's buildings or running head first into walls. As long as the speed is there, mail is going to get delivered on time! And DD ALWAYS delivers mail on time, broken bones or not!
+**Q3: Ever felt ashamed for something? Or scared (besides what happened in that mansion back then)?**
+>I sure hope this question is private. Well... You know my secret name right? This is because of the work I do for the Clover Guild. I gather information for Lliam about various persons of interest to him. I do this to help the guild! Because it's the only way I can help... I'm not a good fighter or explorer like many of my friends are... I feel bad about it. But I make up for it by keeping an eye out for the Colonel- I mean Lliam!
+>What makes me ashamed, is that he sometimes asks me to gather information about our own members. I don't know why he needs me to spy on our friends, but as highly skilled special operations soldier, it is not my place to question. I do feel terribly ashamed about it though. I can only hope Lliam knows what's right for the Clover Guild.
+>Scared? There was that time I ran into [Beast](https://curiouscat.live/Linoone_mailmon/post/1336607126) !
 
 ###Macom
 Q1: What's it like going from being an XCOM soldier to being a cute fluffy little electric sheep :3 ?
@@ -243,6 +257,7 @@ Q1: Are you a real construction company??
 Q2: Are you working to improve the fashion of the guild 👉👈
 Q3: How tough is your hide? What's the hardest hit you've withstood before?
 Q4: Most huggable guild members?
+Q5 : Who's cuter?  Kiyo or Bean?
 
 ###Bean
 Q1: Are the inner machinations of your mind an enigma?
@@ -256,12 +271,14 @@ Q2: How are you dealing with suddenly being so fluffy? No, really. Are there any
 Q3: Considering your team has two grass-types on it, do you think you're going to need to be more careful to avoid friendly fire now?
 >We never really had issues with friendly fire before unless Enny was hitting me with his disarming voices. Even now, most of my attacks force me to rush in while Vileplume and Bellossom keep their distance and shoot off their powders.
 Q4: Favourite eeveelution? Before and after getting isekai'd (if that changed your opinion, and maybe why)?
+>Before, umbreon. I liked its design a lot. Kind of hate it now because being one ruined my sleep schedule for months. I don't really have a favorite now. Some of the jolteons in the air continent are cool I guess. I know I really hate sylveons, though.
 
 ###Vileplume
 Q1: How long have you and Bellossom been doing guild work?  Would you consider yourselves experienced?
 >We weren't really associated with the guild until we decided to sign up as recruits. I'm honestly surprised we got in at all considering neither of us were human and the whole guild is... that. I wouldn't really say we're experienced, or even that good. We just don't give up, partially because Adrian would probably flip out if we did.
 Q2: How has you opinion of Adrian changed?  Has he gotten easier to work with over time?
 >Absolutely not. On any mission we go on, he gets the final say on our plans, no matter what the situation is or how bad the plan is. It's gotten us into trouble in the past, hell it was his plan going wrong that got him turned into an eevee. At the very least, I understand where he comes from since I've had to take up the role of leader a couple times. I don't envy his position at all.
+>On another note, he doesn't really like to hang out with us. Bellossom and I try to spend time around the guild or Capim Town, and Enny joins us occasionally, but Adrian never wants to. He's really antisocial and I don't know why. The only times we can get him out are when we're celebrating after finishing a particularly difficult mission, and when that's done he always returns back to our dorm.
 
 ###Bellossom
 Q1: Do you have any funny stories about Vileplume from when you were young?
@@ -275,6 +292,7 @@ Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
 >Oh, I love all kinds of animes and manga! I was really into it, which really confused my older brother. We had a pretty rocky relationship growing up, and we never really reconciled. He blamed for making our dad leave when we were young and never really reconciled. Things got a little better over High School, but we grew so distant after he moved out... 
 >Anyways! I really loved Love Live Sunshine! We Never Learn was always nice to turn on after a bad day! Fate Apocrypha was really confusing to me, but I really liked Astolfo! Honestly, I never really got into Dragonball or One Piece even though I know they're really popular. Fairy Tail was pretty good though! You know, I kind of got to live that magical guild fantasy when I joined Clover Guild. Really weird how that worked out. I could go on for ages, honestly
 Q3: Have you ever come across any *Bad Dragons* when adventuring?
+>I don't think my answer would be very PG. I will say that when I first showed up to this world, a dragonite lady let me stay at her house. She wasn't bad though. Pretty nice actually. She told me about the guild and all the weird human roleplayers there which is how I ended up finding it.
 
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?
@@ -314,12 +332,20 @@ Q3: Do you have a dayjob?  If you do, don't quit it.
 
 ###Mandibuzz
 Q1: You used to be a Pokemon trainer, right?  How does it feel to be one yourself?
+>Well, maybe not for others, but I'd consider it to be one of the most wonderful things that's ever happened to me. Being a Pokemon is freeing, in a way. I felt so pigeonholed in my previous life. What's better than being in a new one away from humans, and your favorite Pokemon at your side?
+
 Q2: If you didn't end up as a Mandibuzz, which Pokemon would you rather be?
+>Perhaps an ancient fossil Pokemon, maybe an Archeops? I've also been partial to all of the stories in Kanto about a bird trio, too. But I know I'm not special enough to end up as a legendary Pokemon. At first I was a bit peeved at the lack of real hands, but now that I've got the wings I can only really picture being another bird Pokemon.
+
 Q3: Is it odd being able to speak with Gliscor directly?
+>Oh no, not at all! Not to brag, but I'd consider my care for Gliscor to be above and beyond what many others provide to their Pokemon. I will admit though, it is nice being able to speak to him. We've been able to work through a lot of our differences and overcome challenges I never thought possible with the communication barrier being broken. I never realized just how much I needed him.
 
 ###Gliscor
 Q1: Your trainer turned into a Pokemon!  How have you handled the situation? 
+>It's awesome! Being able to speak and fly through the air with my trainer has been nothing but a blast! It did take some getting used to, but we're the best of friends, and without her I don't know where I'd be! Scratch that, I'd probably still be minding my own business in the trees south of Blackthorn, man that was a boring life!
+
 Q2: Are the native Pokemon in this world very different from Pokemon in your previous world?  Or are they somewhat the same?
+>The Pokemon back in my old world were alright, but a lot of them had strong desire to travel alongside a trainer instead of doing their own thing. The Pokemon here seem to be much smarter and independent! I could never imagine a Pokemon running a shop back where I came from, let alone a whole society of us coming together! I don't like the Pokemon we've met in the mystery dungeons though, they're feral and mean!
 
 ###Cider
 Q1: What's the deal with that Chatot guy?
@@ -354,7 +380,8 @@ Q2: How are you adapting to the Pokemon world?
 ##->**General Questions**<-
 
 **To any 'mon who fights often**, is there something that you specifically avoid when picking a fight? Be it either a certain species of pokemon or a type of skill?
-
+>Carrot: A nice smile is normally enough to stop the least roughty ones from fighting, while the rest, they would not stop anyways
+>Hazel: The risk of great bodily damage is a great way to dissuade, like that thing Carrot mentioned, mad or something?
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
 
@@ -364,6 +391,10 @@ Q2: How are you adapting to the Pokemon world?
 
 >Smoke: Mhh, speak to someone back in the real world- ehh, Earth, I guess...? I don't know, but if I had to... !>It'd be "I lived" to my family, a shame I'd probably not be able to see the look on their faces
 
+>Adrian: To my father and my sister. I want them to know I'm alive and I miss them
+
+>Carrot: I don't remember much, in fact i only remember one name, so i'd send mister Ali a letter asking who are them and why i know their name
+
 **Former humans**, what was your favorite band back in the human world?
 >Lliam: Hmm? Music band? That's an odd thing to ask, but, hmm... Afterhours, that's all I'll say.
 
@@ -371,6 +402,7 @@ Q2: How are you adapting to the Pokemon world?
 
 >Smoke: I liked Queen, and Michael Jackson. That's about it, nowadays they prefer to listen to *noise* instead of real music, shame...
 
+>Carrot: I don't remember any, but i remember a line, "It's no better to be safe than sorry, so takee on mee", that's all i remember
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
 >Lliam: I would prefer to go solo as much as I can. There's a plethora of reasons that I don't want to get into detail, but one of the reasons is that it's  usually for research purposes, and bringing people along would hinder this process...
 
@@ -379,7 +411,7 @@ Q2: How are you adapting to the Pokemon world?
 >Clara: I prefer to go solo most of the time, makes it easier for me to only worry about myself instead of having to watch over others, I'm not anyone's babysitter. But, I can't deny that having an extra pair of fists (or paws) and a way to venture into deeper dungeons is pretty useful.
 
 **Teams of mons**, does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
-
+>Carrot & Hazel: Nope, we share duties, sometimes once each, other times the one with the least advantage stays behind
 **Guildmons with a dorm**, how is your room decorated?
 >Lliam: I suppose I'm also counted...? I don't sleep in the office like people are led to believe; my room is elsewhere around here. Where? Not tellin' ya! Anyways, I guess it's a basic small room, actually a bit smaller than other guild members' rooms, but that's fair because usually they are in pairs... Anyhow, by the entrance, there's a coat rack where I put my bag and other stuff. On the left side of the room is a wardrobe that has a bunch of my other clothes.. What's in there? That's a secret~! On the opposite side, there's a small bed. What's it made out of? Who knows, that's a trade secret~! And beside the bed is a desk, although it's a smaller one than the one in the office. And in front of the desk is a bulletin board with my research data and other stuff like that... The room itself, uhh... All I can say is plain, with a bunch of books and research scattered around, as I don't really care about the way it looks, honestly, though I really need to clean things up here...
 
@@ -392,7 +424,14 @@ Q2: How are you adapting to the Pokemon world?
 >\*Clara looks behind her, her room almost comically dark and dusty\*: (Clara sighs) Maybe one of these days... If I'm not feeling too tired and have enoigh time.
 >Smoke: You can sleep in there, right? For me that's good enough.
 
+>Bellossom: Vileplume and I sleep right next to the window so we can get as much sunlight as possible. We got a couple flowers and books thrown around, but we keep it as clean as possible. Enny's got all kinds of outfits hung up on the wall. Adrian... he just sleeps on a mess of hay pillows and blankets he found at the Kecleon store. I don't know why he didn't just use the cotton in the storeroom, and I don't know who made the pillows since Kecleon wasn't selling pillowcases at the time. Anyways, he has a lot of weird knick knacks and puzzles thrown around his bed, and... am I allowed to mention the bear here? *He hides it inside of his blue pillow*.
+
+>Carrot: I share a room with Hazel, but divide our sides, on my side i like keeping maps, notes and in the middle my side of the hay
+
+>Hazel: I share a room with Carrot, on my side i like keeping some secret stashes, some potted plants and in the middle of the room the hay, although i'd like to improve it somewhat
+
 **To natives**, something that you hate when working or interacting with humans.
+>Hazel: Not knowing what everyone is talking, and Carrot refusing to tell me some stuff, like what "Kek" means
 
 ##->**Pair Questions**<-
 
@@ -418,3 +457,5 @@ How common is it for your life to be at risk? Be it when venturing into a dungeo
 >Error: Even when I'm not trying, I find myself almost dying, but this body just doesn't give up! I just seem to walk into danger by being me... I think the Pokemon form I've been granted is more of a curse than the blessing people may see it as.
 
 >Turk: Count how many limbs and working eyes I have, dude. I say I'm pretty high up for being at risk than most people here... And I can't help myself but keep trying to get involved in situations that are risky! Call me a thrill-seeker, bro!
+
+>Carrot & Hazel: Well, we're kinda seasoned so we're normally not in danger anymore, but sometimes thing can go wrong, but we have each other

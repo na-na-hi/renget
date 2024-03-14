@@ -1,3 +1,56 @@
+>Mi-17V-5 helicopters rekt
+https://files.catbox.moe/ineaz8.mp4
+>and those from rescue team were tracked & FABed
+https://files.catbox.moe/oahwao.mp4
+>Fagot ATGM against faggots
+https://files.catbox.moe/t5nvv0.mp4
+>Arestovich says Zelensky and his crew will hang
+https://files.catbox.moe/9i0326.mp4
+>German PzH 2000 destroyed
+https://files.catbox.moe/ya64yz.mp4
+>UR-77 demining
+https://files.catbox.moe/1zof03.mp4
+>Missile destroys Kraken HQ
+https://files.catbox.moe/h54bq7.mp4
+>Navalny's terrorists
+https://files.catbox.moe/84nwll.mp4
+>Russian Tankers
+https://files.catbox.moe/octoy8.mp4
+>Lancet destroys RM-70 Vampire MLRS
+https://files.catbox.moe/vgxfcm.mp4
+>AFU T-72 tank in Novomikhailovka rekt
+https://files.catbox.moe/1q24yw.mp4
+>UN building: Russian bear tries to stop Doomsday Clock
+https://files.catbox.moe/kwmb52.mp4
+>TOS on Kurakhovsky
+https://files.catbox.moe/essnww.mp4
+>Krasnopol destroys AFU's drone crew
+https://files.catbox.moe/g3hpnn.mp4
+>Russian UMPC glide bombs in flight
+https://files.catbox.moe/0i1jmt.mp4
+>Glide bombs fall near Chasov Yar
+https://files.catbox.moe/3bs6q4.mp4
+>How RU pilots deal with stress
+https://files.catbox.moe/y66gmy.mp4
+>Lancet destroys M777 w/ multiple cope cages
+https://files.catbox.moe/a3jni7.mp4
+>Sniper "Gisar" 1.2 km kill
+https://files.catbox.moe/rlkxpq.mp4
+>Bury the summons before the summons buries you
+https://files.catbox.moe/fdom78.mp4
+>RU drones deliver water & food
+https://files.catbox.moe/50mnds.mp4
+>AFU DRG excursion into Belgorod region
+https://files.catbox.moe/tqivv7.mp4
+https://files.catbox.moe/gcpeej.mp4
+https://files.catbox.moe/l494a1.MP4
+https://files.catbox.moe/n19kvn.mp4
+https://files.catbox.moe/3rvc7v.mp4
+https://files.catbox.moe/w2efap.mp4
+https://files.catbox.moe/2kap5v.mp4
+https://files.catbox.moe/7xwjz5.mp4
+https://files.catbox.moe/whobp0.mp4
+https://files.catbox.moe/53u17h.mp4
 >New Geranium-2 drone with a jet engine
 https://files.catbox.moe/72od1t.mp4
 >Sudoplatov FPV night shots 

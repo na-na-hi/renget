@@ -5,7 +5,7 @@
 ---- | ----
 **Origin:** Ex-Human (Amnesiac) | **Guild Role/Occupation:** ==REPLACE==
 **Species:** Riolu | **Affiliation:** ==REPLACE==
-**Level:** 5 | **Experience to Next Level:** 0/50
+**Level:** 13 | **Experience to Next Level:** 0/130
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 0₽ | **Glorious Gold:** 0 Bars
 
@@ -19,17 +19,17 @@ Inner Focus | The User is immune to Intimidate and is unable to Flinch.
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | No Bonus | 20HP
-Attack | 1 | Species Bonus | +1 Physical Damage 
+Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
-Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
+Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Quick Attack | 4BP | 5(-1)AP | ≥2 | Normal | Physical | Priority. AP cost decreased by 1.
-Endure | - | 4AP | - | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.
+Force Palm | 6BP | 5AP | ≥2 | Fighting | Physical | 14-20; The Opponent is afflicted with Paralysis.
 Foresight | - | 4AP | - | Normal | Status | The User's Moves never miss. The User's Normal and Fighting-Type Moves can hit Ghost-Types.
 Metal Claw | 5BP | 5AP | ≥2 | Steel | Physical | 19-20; The User's Attack is increased by 1.
 Basic Attack | 4BP | 4AP | ≥2 | Typeless | Default | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -98,6 +98,5 @@ RP Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
------- | :----: 
-Eᴍᴘᴛʏ | Description
-Eᴍᴘᴛʏ | Description
+
+Endure | - | 4AP | - | Normal | Status | For 1 round, the User cannot be KO'd by Attacking Moves.

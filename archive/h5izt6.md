@@ -1139,7 +1139,7 @@ Envigor paused, he let Inigo fall to the ground, his eyes bulged and then he lau
 
 Inigo smiled weakly. "I knew you were a good guy... Your sister's death was wrong, but it's not a good reason for you to stand in the way of people's dreams... Everyone here is doing their best to become heroes. We all know the risk involved.. Just like your sister did. If she saw you now, she would be heartbroken of what you've become. She died saving others... She was a true hero. You using her name only stains her legacy. "
 
-Brutalos roared to his feet. "SHUT THE HELL UP!" Envigor brought his crushing fists into Inigo's torso with piledriver force. Inigo soared backward, all air punched from his lungs. He crashed upside down into the unforgiving stone floor. Agony exploded through him as bones cracked on impact. He could not rise this time, the world swimming around him. Through fading eyes, he saw the cold grin of Envigor looming over him.
+"SHUT THE HELL UP!" Envigor brought his crushing fists into Inigo's torso with piledriver force. Inigo soared backward, all air punched from his lungs. He crashed upside down into the unforgiving stone floor. Agony exploded through him as bones cracked on impact. He could not rise this time, the world swimming around him. Through fading eyes, he saw the cold grin of Envigor looming over him.
 
 "You dare talk down to me." Envigor rumbled. Inigo saw Christopher crawling towards him.
 

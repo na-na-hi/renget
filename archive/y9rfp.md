@@ -219,25 +219,25 @@ Hoge opened her mouth, caught her husband's eye, and forged on. "I'm a network a
 
 They were silent for a while. Liam glanced between Kuro and Tamtamoi. "Where's the loo?"
 
-He was washing his hands when a man came to the sink beside him and remarked, conversationally, "You know Inigo and Hoge are involved in organized crime, right?"
+%red% He was washing his hands when a man came to the sink beside him and remarked, conversationally, "You know Inigo and Hoge are involved in organized crime, right?"%%
 
-Liam met the other man's eyes in the mirror. He was fairly nondescript, this man, and dressed in a shirt and slacks. All very normal. "Yakuza," he said, voice rising at the end questioningly.
+%red% Liam met the other man's eyes in the mirror. He was fairly nondescript, this man, and dressed in a shirt and slacks. All very normal. "Yakuza," he said, voice rising at the end questioningly.%%
 
-"Oh, yes." The man shook his hands out into the sink, then turned to lean against it, gripping the sides of it with his still-wet hands. "They run the underworld here. And Inigo's a professional hero. They're playing both sides so that they always come out on top."
+%red% "Oh, yes." The man shook his hands out into the sink, then turned to lean against it, gripping the sides of it with his still-wet hands. "They run the underworld here. And Inigo's a professional hero. They're playing both sides so that they always come out on top."%%
 
-"But isn't -"
+%red% "But isn't -"%%
 
-"Hifumi's a hero, yes," the man continued smoothly, "and doing very well for himself by all accounts, even if you ignore the fact that Hailey's pockets are bottomless. But of course he knows. So does Bobby. So does Christopher. So do their wives."
+%red% "Hifumi's a hero, yes," the man continued smoothly, "and doing very well for himself by all accounts, even if you ignore the fact that Hailey's pockets are bottomless. But of course he knows. So does Bobby. So does Christopher. So do their wives."%%
 
-Liam went to the paper towel dispenser and wiped his hands down. "They do things differently in Japan," he said, voice measured.
+%red% Liam went to the paper towel dispenser and wiped his hands down. "They do things differently in Japan," he said, voice measured.%%
 
-The man barked out a short, derisive laugh and left. Liam hadn't even had time to ask him for his name. When he left the bathroom, he linked back up with Kuro and Tamtamoi and exchanged phone numbers. "Let's go out for drinks before you head back," Kuro suggested, eyes glittering. "C'mon. We'll take you back to Shiketsu. We have alumni cards. They'll let us in."
+%red% The man barked out a short, derisive laugh and left. Liam hadn't even had time to ask him for his name.%% When he left the bathroom, he linked back up with Kuro and Tamtamoi and exchanged phone numbers. "Let's go out for drinks before you head back," Kuro suggested, eyes glittering. "C'mon. We'll take you back to Shiketsu. We have alumni cards. They'll let us in."
 
 Liam liked the sound of that very much. As they ambled towards the exit, a number of droids emerged from the wings and started to lay out food on the tables. "Faith Kang made those," Tamtamoi told him. "They're autonomous. She's not controlling them." She was just next door, apparently.
 
 The neighbouring building contained several dozen children. Liam caught sight of Minnie's retreating back before the door slid shut behind her. Standing on tiptoes, he could just barely make out `CAIN` and `ABEL`. The former was busy playing with Maxine Nguyen's daughter - evidently retrieved safely from Shinkan Sen's back - while the latter was crawling around aimlessly. They were surrounded by adults, chattering merrily away. Liam followed Tamtamoi and Kuro to a gathering of unfamiliar faces and discreetly slipped away after a few minutes of small talk.
 
-He seated himself on a nearby couch and tugged at his collar. It wasn't that he was concerned about Inigo and Hoge doing something (what?) to him. As far as he was concerned, as long as whatever they were doing continued to remain within Japan and didn't intrude on his life in Canada, he didn't care. No, it was just… disorienting. 1-D had been spotless, untouchable. Things kept happening to them, but they always came out clean as a whistle. Their time at Shiketsu must have been much more eventful than his; but eventful did not always mean enjoyable. Not after what had happened to Sandatsu Owari and Son Jugo.
+He seated himself on a nearby couch and tugged at his collar. %red% It wasn't that he was concerned about Inigo and Hoge doing something (what?) to him. As far as he was concerned, as long as whatever they were doing continued to remain within Japan and didn't intrude on his life in Canada, he didn't care. No, it was just… disorienting. 1-D had been spotless, untouchable. Things kept happening to them, but they always came out clean as a whistle. Their time at Shiketsu must have been much more eventful than his; but eventful did not always mean enjoyable. Not after what had happened to Sandatsu Owari and Son Jugo.%%
 
 "Can you get me a flute of champagne?" someone asked.
 
@@ -368,11 +368,11 @@ The man rolled his eyes and tossed the cigarette. But instead of it falling to t
 
 "Well," Liam told Stephan, "it was good to see you. Really."
 
-Stephan inclined his head and said nothing. Liam hurried into the courtyard and almost collided with the man from the bathroom.
+Stephan inclined his head and said nothing. Liam hurried into the courtyard %red%and almost collided with the man from the bathroom%%.
 
-"I never got your name," he said.
+%red%"I never got your name," he said.%%
 
-The man from the bathroom shrugged, lifting his chin. A cool, disdainful smile flickered over his lips, and Liam realized that he was buckling a cloak over his shoulders. "I'm nobody," he said, dropping a hood over his head such that his face flickered into shadow, and rose into the air, ascending so rapidly that he'd disappeared into the night sky before Liam had a chance to react.
+%red%The man from the bathroom shrugged, lifting his chin. A cool, disdainful smile flickered over his lips, and Liam realized that he was buckling a cloak over his shoulders. "I'm nobody," he said, dropping a hood over his head such that his face flickered into shadow, and rose into the air, ascending so rapidly that he'd disappeared into the night sky before Liam had a chance to react.%%
 
 "Oh," Liam heard, and turned around to see Minnie and Bobby with their two sons in tow.
 

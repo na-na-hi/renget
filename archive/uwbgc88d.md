@@ -350,7 +350,7 @@ https://www.scmp.com/cooking/recipe/chanko-nabe-sumo-wrestler-stew/article/30958
 Guide to Nabe
 https://gurunavi.com/en/japanfoodie/2016/11/hot-pot-on-parade.html
 
-Restaurants in Japan that offer chankonabe:
+Restaurants in Japan that offer chankonabe or are sumo themed:
 https://tabelog.com/en/rstLst/RC1401
 Ryogoku Edo NOREN
 https://www.jrtk.jp/edonoren
@@ -358,6 +358,8 @@ Kappo Yoshiba
 https://www.kapou-yoshiba.jp/english/fun/index.html
 Yokozuna Shinsekai Honkan
 https://www.4527.jp/shop/honkan/index.html
+Sumo Hall Hirazuka Osaka
+https://hirakuza.net/sumohall
 
 
 #### Techniques (kimarite)

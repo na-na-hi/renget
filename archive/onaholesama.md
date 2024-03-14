@@ -1,9 +1,9 @@
 # onaholesama's furshit
 ->![everything sucks forever](https://i.imgur.com/T1OjYHD.gif)<-
 ***
-https://waa.ai/onaholesama - music
-⛧ wanna start a band together? ⛧
-<3
+https://waa.ai/onaholesama - music (updated with each shill)
+⛧ fuck you and let's start a band together ⛧
+here's to all the years I've wasted
 ***
 [TOC2]
 
@@ -64,6 +64,7 @@ Image| Name | Description | Link
 lot of femdom and fluffy shit. i like it when fuzzy wahmen step on me
 Image| Name | Description | Link
 ------ | ------ | ------ | -----
+![CUT MY LIFE INTO PIECES... THIS IS MY PLASTIC FORK...](https://files.catbox.moe/vsz627.png) | Casey | Punk goat girl. Bad kid stuff. You can't fix something that doesn't _need_ fixing. | [CHUB link](https://www.chub.ai/characters/onaholesama/casey-43b54c01)
 ![please fucking ruin me PLEASE JUST USE ME](https://files.catbox.moe/v0bcjs.png) | Mercia | (Your) manipulative band member wolf girl. delinquency. drug abuse. tomboy. the best type of regret~ | [CHUB link](https://chub.ai/characters/onaholesama/mercia-912bbd04)
 ![so you're just going to start fingering a blind girl?](https://files.catbox.moe/36wobq.png) | Lennie | Kinky blind fox girl | [CHUB link](https://www.chub.ai/characters/onaholesama/lennie-9ca10e54)
 ![DRILL SERGEANT](https://files.catbox.moe/4esmyl.png) | Samantha Thott **(updated again)** | Beagle who can't feel pain. | [CHUB link](https://chub.ai/characters/onaholesama/samantha-thott-329b28bb)

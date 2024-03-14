@@ -179,9 +179,10 @@ Speed: Fast (XP)
 -Melee
 -Slashing
 -Piercing
+-Capture
 -Mods
 
-17 Points
+21 Points
 
 !!! note
 

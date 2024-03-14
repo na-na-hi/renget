@@ -430,3 +430,16 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[5]** *The nightmare is over...*](https://arch.b4k.co/vp/thread/55512515/)
 [**[6]** *This is why you don't let trannies lead projects*](https://arch.b4k.co/vp/thread/55517923/)
 [**[7]** *The Eevee Expo is Real!*](https://arch.b4k.co/vp/thread/55534121/)
+
+###->Eon Guardians<-
+!!! note
+	**Status: Complete**
+[**[1]** *How do you let a bug this bad slip by*](https://arch.b4k.co/vp/thread/55547411/)
+[**[2]** *Boring as fuck*](https://arch.b4k.co/vp/thread/55561951/)
+[**[End]** *Jannies fear the cute chocolate bird*](https://arch.b4k.co/vp/thread/55580352/)
+[**[Extra]** *Oops*](https://arch.b4k.co/vp/thread/55584455/)
+
+###->Edelweiss Chronicles<-
+!!! info
+	**Status: In progress**
+[**[1]**](https://arch.b4k.co/vp/thread/55584443/)

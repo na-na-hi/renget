@@ -3,6 +3,23 @@ Development suggestions for TW include:
 ## Bridal Carrying
 Self-explanatory.
 - *Oh yeah? As the boss of /egg/, here’s MY demand: Bridal carrying. Functionally identical to using Lead Around, but it’s cuter. Because only being able to carry 2hus around in stopped time is dumb.*
+## Bug Fighting Expansion
+*Here's some of mine*
+>solo battles are boring because you can't choose the moves
+*You got no control over any of it so it ends up being another chore you want to move out of the way since there's no interaction required at all.*
+>Grotesque Strike is way too fucking OP
+*That move is a I don't fucking know % chance of instantly winning the game every time it's used.
+Even more OP in team or 1 v 1 v 1 v 1 battles like with this webm I took when I was playing earlier today.*
+>some hints on where to find bugs you don't have
+*Nobody's ever figuring out where and how to get a lot of them without checking in the game files, I tried to "fix" some of it when I was writing some insect descs by saying when they can be found but then again it's stuff you already have unlocked. Some of them got stupid conditions like "only found on days that end with a 5 on this specific region" or "only in Summer at night in this area".*
+>rewards suck
+*Like we were saying earlier, the rewards you get from that & Danmaku are kinda ass. Better relationships at the very least should be the bare minimum, I'm pretty sure it's rewarding you the exact same as giving a girl some tea once.
+And lastly maybe an easier way to know what moves do than having to go in the tutorial word and needing to go through the list of what the girl says (and she doesn't even list every move over there to my recollection).*
+*Oh and also.*
+>more bug cage slots
+*5 is just way too little to do anything interesting.*
+>being able to see the type of enemies before getting into the actualy fight
+*That'd be cool too to actually get to pick something that can counter other elements.*
 ## “Can I Sleep With You?”
 An event where characters can ask to sleep in your room.
 - *Touhous living on the same map as you should sometimes ask to sleep in your room instead of their own. Mainly for the wholesome “gf spooning” experience while keeping your own room, but it can also serve as an excuse to change something about 2hus that stupidly masturbate right next to you while you sleep. Like you know, have actual sex at the cost of waking up a bit more tired.

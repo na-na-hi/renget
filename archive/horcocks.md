@@ -532,3 +532,5 @@ SciFi / War   | Low | Mid | Lorebook, Fire Missions
 !!!info
     ->Nyota, NCWF Veteran<-
     ->[**(chub)**](https://www.chub.ai/characters/horcocks/nyota-ncwf-veteran-00e75ccf)       [**(catbox)**](https://files.catbox.moe/cy7rd7.png) <-
+
+:-)

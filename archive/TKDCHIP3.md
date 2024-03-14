@@ -64,7 +64,20 @@
     ***
     >Hezbollah: 
     >targeting an infantry unit of the occupation army at Mount Adir, inside occupied Palestine.
-    >https://files.catbox.moe/950kwq.mp4  New  3/12/24  
+    >https://files.catbox.moe/950kwq.mp4  New  3/12/24 
+    ***
+    >watched| #Hezbollah: Scenes from the operation to target the Al-Rahib site of the "Israeli" occupation army on the border.
+    >https://files.catbox.moe/r6ko72.mp4  New 3/13/24 
+    ***
+    >Lebanon, Hezbollah:
+    >
+    >Scenes from the operation of the Islamic Resistance, targeting the Birkat Risha site of the #Israeli enemy army, on the border.
+    >https://files.catbox.moe/lgh0kx.mp4  New 3/13/24
+    ***
+    >Hezbollah Kino Continued 
+    >Hezbollah:
+    >Scenes from the Islamic Resistance's operation targeting sites belonging to the "israeli" enemy army on the Lebanese-Palestinian borders.
+    >https://files.catbox.moe/384hxq.mp4  New 3/13/24  
 !!!note
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
@@ -206,4 +219,27 @@
     ***
     >A glimpse of what Hezb-Allah in Lebanon has done to the zionists in the north
     >https://files.catbox.moe/r2u83c.mp4  New  3/12/24   
+    ***
+    >A glimpse of what Hezb-Allah in Lebanon has done to the zionists in the north
+    >https://files.catbox.moe/r2u83c.mp4  New 3/12/24
+    ***
+    >Who Is REALLY behind the TikTok ban? TikTok has 103 million monthly active users in the US.
+    >Jonathan Greenblatt, the director of the Anti-Defamation League (ADL), which is an extremely powerful Jewish-Zionist organization that has often targeted free speech, was very worried by this.
+    >https://files.catbox.moe/9fzyfd.mp4  New 3/13/24
+    ***
+    >Here's an outline of U.S. factories making bombs that Israel is using these days in the genocide of Palestinians.
+    >https://files.catbox.moe/uxq59p.mp4  New 3/13/24
+    ***
+    >"This Ramadan is very sad because of the war."
+    >
+    >Displaced Palestinian girls speak about the arrival of Ramadan at these challenging times in the Gaza Strip.
+    >https://files.catbox.moe/ky7hev.mp4  New 3/13/24
+    ***
+    >A scene showing the moment an explosive device was detonated in an occupation jeep in #Jenin last night  
+    >https://files.catbox.moe/k8kuvk.mp4  New  3/13/24  
+    ***
+    >New flour massacre, 
+    >
+    >The Israelis opened fire on civilians waiting for aid near Kuwait roundabout in Gaza.  
+    >https://files.catbox.moe/sqt76l.mp4  New  3/13/24  
     ***

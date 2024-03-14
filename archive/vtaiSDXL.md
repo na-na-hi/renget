@@ -3,7 +3,7 @@
 -> [FAQ](https://rentry.org/vtaiFAQ/) | [Cookbook](https://rentry.org/vtairecipes) | [Proompts](https://rentry.org/vtaiprompts) | [Archive](https://rentry.org/vtaiarchive) <-
 ***
 -> [Corpo LoRAs](https://rentry.org/vtaiLoRAs) l [Indie LoRAs](https://rentry.org/vtaiLoRAs-indies) l [SDXL LoRAs](https://rentry.org/vtaiSDXL) l [LoRA Checklist](https://rentry.org/vtailorachecklist) l [LoRA MEGA Archive](https://mega.nz/folder/usNgSDwK#IGX16ChvVgNQYLKEDGYl9A) <-
--> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) <-
+-> [TEMP LoRA Scrap List](https://rentry.org/vtaiLoRAscrap) l [TEMP /vtai/ thread requests](https://rentry.org/vtaiRequest) <-
 
 ## -> /vtai/ SDXL <- 
 !!! info /vtai/ LoRA scrap list
@@ -717,6 +717,9 @@
 !!! info other outfits, check tags from uploader
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/0BRT0bLT) <-
 
+##### -> Kureiji Ollie <-
+-> [Catbox](https://files.catbox.moe/zdn2or.safetensors) <-
+
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
@@ -838,3 +841,9 @@
 ***
 ##### -> (Nerissa) Mamarissa Ravencroft <-
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/gMhGVBDB) <-
+
+##### -> (Nerissa) Malpha Ravencroft <-
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/hMpimR7Y) <-
+
+##### -> (Nerissa) Aradia Ravencroft <-
+-> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/kVoTVTyR) <-
