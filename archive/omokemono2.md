@@ -144,6 +144,10 @@ If an outdated page gets updated, it loses its outdated status
  	- [Fanbox](https://tayyasan.fanbox.cc/)
 	- [Kemono](https://kemono.su/fanbox/user/33530521)
 
+- AlphaHyudou
+    - [Patreon](https://patreon.com/AlphaHyoudou)
+	- [Kemono](https://kemono.su/patreon/user/69861094)
+
 
 ## Not Pee-focused Artists 
 *Those artists draw pee occasionally and/or as a "bonus"*
@@ -365,8 +369,6 @@ If an outdated page gets updated, it loses its outdated status
 *A man can dream...*
 When adding new artists, link to their Patreon/fanbox/whatever, specify to which category they belong to and don't forget to tag.
 
-- AlphaHyudou
-    - [Patreon](https://patreon.com/AlphaHyoudou) (Pee-Focused)
 
 - mumumu_gaman
 	- [Fanbox](https://mumumugaman.fanbox.cc/) (Pee-Focused)

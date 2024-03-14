@@ -1236,6 +1236,7 @@ The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic): https://rentr
 Chase (Kampai, other people): https://rentry.org/KampaiChase
 Tooth and Claw, Issue 1 (Saurus): https://rentry.org/qsrvx8
 A Friend in Need (Mirror Devil, Drone, Yamamoto, Yamata): https://rentry.org/p7zrib56
+Maru In a Fighter (Maru): https://rentry.org/maru-in-a-fighter
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

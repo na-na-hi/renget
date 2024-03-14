@@ -126,6 +126,8 @@ Q3: Are you interested in fashion advice?  Or do you prefer being naked?
 
 >But still, something is telling me you have completely different ideas in mind. Admittedly fashion does sound like fun, so please do! I'm all ears for the advice!
 
+Q4: How did it feel to kill those bandits? Did it awaken a bloodlust deep within you? Do you crave violence?
+
 ###Ciel
 Q1: How's life on the road?  Do you have any family waiting for you elsewhere?
 >Ahh, if I had to put it simply, I would have to say it gets lonely! Most of the Grass Continent isn't settled, you know? You don't often have the chance to make acquaintances in the wilderness, so getting to stop by someone like that old coot– T-Torkoal I mean– and trade stories really lightens the burden for me. 
@@ -133,6 +135,9 @@ Q1: How's life on the road?  Do you have any family waiting for you elsewhere?
 >Let's see... How long has it been now? A busy summer or two passed me by, give or take. I didn't mean to talk down the experience though, there really isn't ever a dull adventure between all of the sights! And then there's Fern now, we haven't shared the road for long... But he's already been a real piece of work! Truthfully, I'm happy to travel together, but I certainly have my paws full just watching him. Hopefully I don't let him down though.
 
 >A-As for the other question, my parents are back on the Mist Continent! I miss them more than you know, but I know I've let them down between the whole explorer ordeal and evolution. There's no way I could bring myself to go home with nothing to show for it now... My old group too, we were Team— S-Sorry, don't worry about that! Still I wonder, do any of them know where I've gone and ended up?
+
+Q2: Did you previously have any other accessories besides that old scarf?
+
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
 Q2: Have you ever tried sucking a beverage into your trunk and then spraying it into your mouth to drink it, like elephants do?
@@ -175,6 +180,8 @@ Q1: You spend a lot of time scouting around the guild.  What's something strange
 >I sure hope this question is private. Well... You know my secret name right? This is because of the work I do for the Clover Guild. I gather information for Lliam about various persons of interest to him. I do this to help the guild! Because it's the only way I can help... I'm not a good fighter or explorer like many of my friends are... I feel bad about it. But I make up for it by keeping an eye out for the Colonel- I mean Lliam!
 >What makes me ashamed, is that he sometimes asks me to gather information about our own members. I don't know why he needs me to spy on our friends, but as highly skilled special operations soldier, it is not my place to question. I do feel terribly ashamed about it though. I can only hope Lliam knows what's right for the Clover Guild.
 >Scared? There was that time I ran into [Beast](https://curiouscat.live/Linoone_mailmon/post/1336607126) !
+
+Q4: If you didn't get into mail delivery, what job would you have done instead, here in the Pokemon world?
 
 ###Macom
 Q1: What's it like going from being an XCOM soldier to being a cute fluffy little electric sheep :3 ?
@@ -320,6 +327,7 @@ Q2: How has you opinion of Adrian changed?  Has he gotten easier to work with ov
 Q1: Do you have any funny stories about Vileplume from when you were young?
 >Oh, there's all kinds of stories! Him and I used to explore the woods outside Capim Town and search for treasure when we were Oddish. One time he chased a wild rattata into its burrow and got his head stuck in it. I couldn't pull him out since I didn't have hands, so we had to wait for our mom to come over and pull him out. 
 >He also used to have a big fear of heights, and we had to climb a tree once to escape a pack of poochyenas. When they left, he didn't want to come down because he was even more scared of falling! Evolving really changed him, though. He's more worried nowadays than scared like he used to be.
+Q2: How did you learn so much about medicine?
 
 ###Enny
 Q1: Why the obsession with women's fashion?
@@ -329,6 +337,7 @@ Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
 >Anyways! I really loved Love Live Sunshine! We Never Learn was always nice to turn on after a bad day! Fate Apocrypha was really confusing to me, but I really liked Astolfo! Honestly, I never really got into Dragonball or One Piece even though I know they're really popular. Fairy Tail was pretty good though! You know, I kind of got to live that magical guild fantasy when I joined Clover Guild. Really weird how that worked out. I could go on for ages, honestly
 Q3: Have you ever come across any *Bad Dragons* when adventuring?
 >I don't think my answer would be very PG. I will say that when I first showed up to this world, a dragonite lady let me stay at her house. She wasn't bad though. Pretty nice actually. She told me about the guild and all the weird human roleplayers there which is how I ended up finding it.
+Q3: Does it feel weird to have four tentacles-like ribbons and four legs now, instead of two arms and two legs? How long did it take you to get used to your new limbs?
 
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?
@@ -363,6 +372,7 @@ Q2: Have you met Chespin's friend, Wooper?  Do the two of you get along?
 Q1: How are you adapting to having four legs?  Do you miss having hands yet?
 Q2: Do you actually hate Cory's puns?  Or do you secretly enjoy them, even a little bit?
 Q3: Does Cory have an accent?
+Q4: Have you found any cool new flowers in this world that didn't exist back in the human world?
 
 ###Cory
 Q1: What's up with that Eevee?

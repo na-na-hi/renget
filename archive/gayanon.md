@@ -54,6 +54,16 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/silvanus-floreo) . [Cat
 
 ***
 
+##Velthana
+Super cliché JRPG world.
+
+Lalzari | Description
+:----:  | :----: 
+![Lalzari](https://files.catbox.moe/txw3on.png)   | An elven mage who lives in a world of rumors. Lalzari SWEARS she's not related to those damn legends. Oh, (You)'re also the Chosen One in 3 greetings. JRPG bullshit incoming! V2 card with 6 greeting scenarios.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/lalzari-25a4d835) . [Catbox](https://files.catbox.moe/s3wgpp.png) . [Backgrounds](https://catbox.moe/c/dy4ine)
+
+***
+
 ##Edda
 Collaboration project with Enoch. I shall...write more here at a later date.
 

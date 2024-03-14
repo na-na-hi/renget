@@ -7,4 +7,4 @@
 ->![](https://files.catbox.moe/abk3mz.png)<-
 
 ->%#cad9c1%
-͝࿙࿚ ![](https://files.catbox.moe/wi29p1.gif)𓂂⋅࿔ྀુ%%->
+͝࿙࿚ [![](https://files.catbox.moe/wi29p1.gif)](https://retrospring.net/@ill)𓂂⋅࿔ྀુ%%->

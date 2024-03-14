@@ -169,6 +169,8 @@ Kamiko's Genin Team 3 (Kamiko, Kita, Masukuda, Ichika)
 >>92149571
 Narto (Blackshadow, Kita, Yuma, Shinro)
 >>92151131
+Ichika vs Junki
+>>92176363
 
 Relationship Charts:
 Masu
@@ -492,6 +494,10 @@ A Cursed Valentines Day(Yoru, Mari, Hinako, Yoji, Mention of Amaryllis)
 https://rentry.org/kswi9a4i
 Sezāru's Date (Sezāru, Akari, Makoto, Amane, Haruhi, Aki, Yoji, Hifumi, Lucifer; Mentioned Yoru, Maki)
 https://rentry.org/ndman3rs
+A response to Sezāru's Date. Happy belated VD
+https://rentry.org/679iyte9
+Our Dearest Librarian (Amane, Akari, Yoru, Haruhi)
+https://rentry.org/5b2bq44i
 
 >Relationship Charts
 Emilia Shadowsong
@@ -568,8 +574,10 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Writefag:
->A Friend in Need (Mirror Devil, Drone, Yamamoto, Yamata):
-https://rentry.org/p7zrib56
+>How lucky we are for having each other (Yamata, Mirror Devil)
+https://rentry.org/d4g5buec
+>Time Together (Mirror Devil, Drone)
+https://rentry.org/bceua7zq
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1173,6 +1181,10 @@ https://rentry.org/KampaiChase
 https://rentry.org/qsrvx8
 >A Friend in Need (Mirror Devil, Drone, Yamamoto, Yamata):
 https://rentry.org/p7zrib56
+>How lucky we are for having each other (Yamata, Mirror Devil)
+https://rentry.org/d4g5buec
+>The 4:30PM to KIX
+https://rentry.org/qfnavcko
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

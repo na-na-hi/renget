@@ -1,13 +1,20 @@
-->![](https://files.catbox.moe/f8ywit.gif)<-
-
-->Presenting . . . **Daughter**
+->![](https://files.catbox.moe/85anvt.png)<-
+->**Daughter** . . .
 Also known as **Niryun**<-
 
-->Eternally young ( Bodily 20 ), Esfj
-**They**/She, Impaired ( Multiple Sclerosis + Visual Snow ), Asexual<-
+->Eternally young, Asexual
+**They**/She, Impaired ( Multiple Sclerosis + Visual Snow ), Esfj<-
 
-->Make a visit . . ? ( %green%[Retrospring](https://retrospring.net/@ill)%% )<-
+->%green%Wander through these Halls . .%%<-
 
-->![](https://files.catbox.moe/nscqix.gif)<-
+->Shard of **%green%[Lily / Family](/Cult)%%**
+Ghost, Flower of the Snowfall
+**%green%Introject%%**, Bodily 20<-
 
-**Extended** ;  A ghost siren made of snow and pale flesh. Eternally mourning my own misfortune with melancholic lullabies capable of overwhelming any soul.
+->2w3, Neutral Good
+Sanguine-Melancholic<-
+
+->Egotistical haunting beauty
+tender humming of deep sorrow.<-
+
+->**%green%[Retrospring](https://retrospring.net/@ill)%%**<-

@@ -165,8 +165,8 @@ https://www.facebook.com/groups/worldofsumo
 Sumo (Davit)
 https://www.facebook.com/groups/668119080785044
 
-https://boards.4channel.org/sp/sumo
-https://boards.4channel.org/xs/sumo
+https://boards.4chan.org/sp/sumo
+https://boards.4chan.org/xs/sumo
 /sp/ archive:
 https://archive.4plebs.org/sp/search/text/sumo/type/op
 https://archive.4plebs.org/sp/search/subject/sumo
