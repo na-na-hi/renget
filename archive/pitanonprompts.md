@@ -5,9 +5,10 @@
 ### Anthropic Presets
 | Model | Version | Date | Chat Completion Preset | Major changes
 |---|---|---|---|---|
+Claude 3 Opus | v1.21 | 15/03/2024 | https://files.catbox.moe/28ayqi.json | Used a work around to send Assistant's Character as the Assistant role as originally intended and added a rule to (hopefully) prevent {{char}} describing {{user}}'s reaction at the end of the response.
 Claude 3 Opus | v1.2 | 15/03/2024 | https://files.catbox.moe/zvc2tq.json | Moved Assistant's Character outside of System prompt
 Claude 3 Opus | v1.1 | 14/03/2024 | https://files.catbox.moe/gn5egl.json | Moved Human's Character outside of System prompt
-Claude 3 Opus | v1.0 | 14/03/2024 | https://files.catbox.moe/e2mgzk.json |
+Claude 3 Opus | v1 | 14/03/2024 | https://files.catbox.moe/e2mgzk.json |
 
 ### OpenAI Presets
 **(I don't really recommend this, I don't use GPT models)**

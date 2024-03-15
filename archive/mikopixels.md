@@ -1,9 +1,11 @@
-->![](https://files.catbox.moe/hzlisr.png)<-
-->![](https://files.catbox.moe/tato74.png)<-
-->![art by koyha09 on twitter](https://files.catbox.moe/5v9von.png)<-
-->![](https://files.catbox.moe/rccfv7.gif)　%#E0B8EF%‿୨%%　%#FFC9E6%rentry%%   %#E0B8EF%。 %% %#FFC9E6%co%%   %#E0B8EF%ﾉ%%   %#FFC9E6%mikopixels%%   %#E0B8EF%**𓎟𓎟**%%   ![](https://files.catbox.moe/5y690c.gif)<-
-->%#E0B8EF%⁝%%⠀%#FFC9E6%[pix](https://rentry.co/pdr8x2pt)%%　%#E0B8EF%꒰♡꒱%%　%#FFC9E6%[symbols](https://rentry.co/xavpsogg)%%　%#E0B8EF%꒰♡꒱%%　%#FFC9E6%[mine](https://rentry.co/d2atfqao)%%　%#E0B8EF%꒰♡꒱%%　%#FFC9E6%[gifs](https://rentry.co/ktdkyqq7)%%⠀%#E0B8EF%⁝%%<-
-->%#E0B8EF%⁝%%⠀%#FFC9E6%[dividers](https://rentry.co/ydv78dbp)%%　%#E0B8EF%꒰♡꒱%%　%#FFC9E6%[pngs](https://rentry.co/8weuqg76)%%　%#E0B8EF%꒰♡꒱%%　%#FFC9E6%[buttons](https://rentry.co/7haib4ov)%%　%#E0B8EF%꒰♡꒱%%　⠀%#E0B8EF%⁝%%<-
-->%#FFC9E6%︶%%%#E0B8EF%︶%% %#FFC9E6%︶%%%#E0B8EF%︶%%%#FFC9E6%︶%%%#E0B8EF%︶%% %#FFC9E6%︶%% %#E0B8EF%︶%%%#FFC9E6%︶%%%#E0B8EF%︶%% %#FFC9E6%︶%%%#E0B8EF%︶%%%#FFC9E6%︶%% %#E0B8EF%︶%% %#FFC9E6%︶%%%#E0B8EF%︶%%%#FFC9E6%︶%%%#E0B8EF%︶%% %#FFC9E6%︶%%%#E0B8EF%︶%%<-
-->![](https://files.catbox.moe/0yudne.png)<-
-->![](https://files.catbox.moe/3yukz7.png)<-
+->![](https://files.catbox.moe/ka1z5h.png)<-
+->![Made by strawbunimilk, dont use unless you've subscribed to their patreon before](https://files.catbox.moe/du4uz0.png)<-
+->![](https://files.catbox.moe/l0cucz.png)<-
+->%#C6C0E1%Check%%%#E1DDF0%；**♡**%%   %#C6C0E1%[Ulzzang](https://rentry.co/ulzzang)   [Ryo](https://rentry.co/ryo)   [Clinic](https://discord.com/invite/dinkles)%%<-
+->%#FFCEDE%︶︶ ︶︶︶ ︶︶ ︶︶ ︶︶︶ ︶︶%%<-
+->![art by nerimonoyo on twt](https://files.catbox.moe/dq3c15.png)<-
+->%#C6C0E1%[pix](https://rentry.co/pdr8x2pt)%%   %#E1DDF0%꒰♡꒱%%   %#C6C0E1%[symb](https://rentry.co/xavpsogg)%%   %#E1DDF0%꒰♡꒱%%   %#C6C0E1%[mine](https://rentry.co/d2atfqao)%%   %#E1DDF0%꒰♡꒱%%   %#C6C0E1%[gifs](https://rentry.co/ktdkyqq7)%%
+%#FFCEDE%⁝%%⠀%#C6C0E1%[dividers](https://rentry.co/ydv78dbp)%%   %#E1DDF0%꒰♡꒱%%   %#C6C0E1%[pngs](https://rentry.co/8weuqg76)%%   %#E1DDF0%꒰♡꒱%%   %#C6C0E1%[buttons](https://rentry.co/7haib4ov)%%⠀%#FFCEDE%⁝%%<-
+->![](https://files.catbox.moe/z7br2i.png)<-
+->![Made by strawbunimilk, dont use unless you've subscribed to their patreon before](https://files.catbox.moe/4q2vo8.png)<-
+->![](https://files.catbox.moe/w7mnwz.png)<-

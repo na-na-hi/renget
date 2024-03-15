@@ -4,6 +4,7 @@
 Threads 186 - Current: AO3 era.
 =====================
 
+Thread 348 - What's That Sound? Edition: https://desuarchive.org/trash/thread/64055159/
 Thread 347 - Cyborg Edition: https://desuarchive.org/trash/thread/63864605/
 Thread 346 - Devil's Woman Edition: https://desuarchive.org/trash/thread/63574393/
 Thread 345 - Bad and Sexy Christmas Edition: https://desuarchive.org/trash/thread/63512468/

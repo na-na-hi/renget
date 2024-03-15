@@ -1,4 +1,4 @@
-# list of artists for SD v1.4 [A-C](https://rentry.org/artists_sd-v1-4) / [D-I](https://rentry.org/artists_sd-v1-4_ii) / ==J-N== / [O-Z](https://rentry.org/artists_sd-v1-4_iv)
+# list of artists for SD v1.4 [A-C](https://rentry.co/artists_sd-v1-4) / [D-I](https://rentry.co/artists_sd-v1-4_ii) / ==J-N== / [O-Z](https://rentry.co/artists_sd-v1-4_iv)
 
 >->"When in Rome, do as the Romans do"<-
 
@@ -647,4 +647,4 @@ Norman Foster|![0](https://i.imgur.com/sgs8xw6t.png)|![1](https://i.imgur.com/J8
 Norman Rockwell|![0](https://i.imgur.com/hochNGHt.png)|![1](https://i.imgur.com/jwfCPylt.png)|![2](https://i.imgur.com/PmxxoTmt.png)|![3](https://i.imgur.com/hOZLF2ft.png)
 Nuccio Bertone|![0](https://i.imgur.com/sByWONbt.png)|![1](https://i.imgur.com/08FFzIlt.png)|![2](https://i.imgur.com/smcWxwVt.png)|![3](https://i.imgur.com/D3jgumpt.png)
 
-## ->[A-C](https://rentry.org/artists_sd-v1-4) / [D-I](https://rentry.org/artists_sd-v1-4_ii) / ==J-N== / [O-Z](https://rentry.org/artists_sd-v1-4_iv)<-
+## ->[A-C](https://rentry.co/artists_sd-v1-4) / [D-I](https://rentry.co/artists_sd-v1-4_ii) / ==J-N== / [O-Z](https://rentry.co/artists_sd-v1-4_iv)<-

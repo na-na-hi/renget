@@ -1,6 +1,6 @@
 -> ![](https://files.catbox.moe/iyh2hm.png)
-%black%These are my favorite resources, have fun
-exploring. Credit the creators if needed.%%
+%black%These are my **favorite** resources, have fun
+exploring. **Credit** the creators if needed.%%
 %black%Ⳋ⠀Go%% [%#760000%**Back**%%](https://rentry.co/ulquiorra)⠀%black%**𓂅**%% %#760000%⟡%%
 ![](https://files.catbox.moe/jgpo7c.png) <-
 
@@ -25,7 +25,7 @@ exploring. Credit the creators if needed.%%
 -> %black%∔%% ![](https://files.catbox.moe/xxodh2.gif) %#760000%།%% ⠀%black%**Decor & Symbols**%% %#760000% ˖%% <-
 -> %#760000%[Symbols](https://rentry.co/symbol)%% ⠀ %black%[Symb](https://rentry.co/symb3)%% ⠀ %#760000%[Cool Symbol](https://coolsymbol.com) %%
 %black%[Cool Symbols](https://www.coolsymbols.io) %%⠀ %#760000%[Glyphy](https://glyphy.io/cool-symbols)%% ⠀ %black%[Made In Text](https://www.madeintext.com/text-symbols/) %% 
-%#760000%[Nuevebesitos](https://rentry.co/nuevebesitos)%% ⠀ %black%[Zombieteef](https://zombieteef.drr.ac)%% ⠀ %#760000%[**Symbols**](https://sntry.cc/symbols)%% ⠀ %black%[**Emojicombos**](https://emojicombos.com/kaomoji)%% ⠀ %#760000%[**Yaytext**](https://yaytext.com)%% <-
+%#760000%[Nuevebesitos](https://rentry.co/nuevebesitos)%% ⠀ %black%[Zombieteef](https://zombieteef.drr.ac)%% ⠀ %#760000%[**Symbols**](https://sntry.cc/symbols)%% ⠀ %black%[**Emojicombos**](https://emojicombos.com/kaomoji)%% ⠀ %#760000%[**Yaytext**](https://yaytext.com)%% ⠀ %black%[**Symbols**](https://rentry.co/bordersymbols)%% <-
 ***
 -> %black%∔%% ![](https://files.catbox.moe/xxodh2.gif) %#760000%།%% ⠀%black%**Dividers**%% %#760000% ˖%% <-
 -> %#760000%[Mine](https://rentry.co/nezumidividers)%% ⠀   %black%[Moone](https://rentry.co/ppuao)%% ⠀  %#760000%[**Rsrcs**](https://rentry.org/finnsdividers)%% ⠀ %black%[Wilardo](https://wilardo.crd.co/#div)%%

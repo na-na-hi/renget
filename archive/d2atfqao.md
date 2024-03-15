@@ -1,9 +1,8 @@
-->![](https://files.catbox.moe/hzlisr.png)<-
-
-->![](https://files.catbox.moe/tato74.png)<-
+->![](https://files.catbox.moe/ka1z5h.png)<-
+->![Made by strawbunimilk, dont use unless you've subscribed to their patreon before](https://files.catbox.moe/du4uz0.png)<-
 
 ***
-->%#E0B8EF%made by me! link this rentry when using%% ![](https://files.catbox.moe/5y690c.gif) %#E0B8EF%[back](https://rentry.co/mikopixels)%%<-
+->%#C6C0E1%made by me! link this rentry when using、%%  %#C6C0E1%[back](https://rentry.co/mikopixels)%%<-
 ***
 
 ![](https://64.media.tumblr.com/069274b1e1df2b5633adeb71142ce079/14110584cc7924d7-21/s1280x1920/ff7618a57d3b7c28a3401d9d1f719638d35f758c.pnj)
@@ -18,8 +17,6 @@
 ![](https://64.media.tumblr.com/44d8c87d0d976c2dfe52d9de3aae9e47/379087d7063327ea-8d/s1280x1920/0da4e58045bcf8d7036c6626866ce8455ee6a96f.pnj)
 ![](https://64.media.tumblr.com/0fe87d44be17d7a88606eb3bd70819ed/379087d7063327ea-9f/s1280x1920/ea97f29decc5f19b62c88d229d80c8b4d194c60a.pnj)
 ![](https://64.media.tumblr.com/2d26425d4ec6c77cdf74098b0d8281cc/acd1db37ac36e9d7-34/s1280x1920/aa5c56f1c898e857b8302b06f598ad8b206b1202.pnj)
-![](https://64.media.tumblr.com/e16430aec0e2539e753be3775ec06e11/acd1db37ac36e9d7-30/s500x750/20f002c9a0681cb154a0e6edb5aee14746caaff8.gifv)
 
-->![](https://files.catbox.moe/0yudne.png)<-
-
-->![](https://files.catbox.moe/3yukz7.png)<-
+->![Made by strawbunimilk, dont use unless you've subscribed to their patreon before](https://files.catbox.moe/4q2vo8.png)<-
+->![](https://files.catbox.moe/w7mnwz.png)<-

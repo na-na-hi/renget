@@ -51,6 +51,11 @@ Gretchen | Info
 ![Greta](https://files.catbox.moe/4surpo.png) | Despite my older sister turning into a gigantic cockroach in heat, I still love her more than anything else. Origianlly made by Bupunches
 Links   | Catbox: https://files.catbox.moe/1zk5yg.png https://www.chub.ai/characters/Bupunches/Gretchen
 
+Karin | Info
+------ | ------
+![Karin](https://files.catbox.moe/09icae.png) | I get groomed by a female pedo yet end up grooming her just as hard in the end. This one got kinda emotional actually.
+Links   | Catbox: https://files.catbox.moe/b4f3yl.png
+
 Kazumi | Info
 ------ | ------
 ![Kaz](https://files.catbox.moe/mah6ie.png) | I try to help my *thicc* mom lose weight with yoga, ends up getting her pregnant. 
@@ -78,8 +83,8 @@ Links   | Catbox: https://files.catbox.moe/43hh16.png
 
 Olivia | Info
 ------ | ------
-![Olivia](https://files.catbox.moe/8hulva.png) | Brother-sister love (and intense sex), what could be more wholesome? This is a long-fucking log, grab some snacks before you start reading since it will take a while.
-Links   | Catbox: https://files.catbox.moe/6o3ejk.png
+![Olivia](https://files.catbox.moe/8hulva.png) | Brother-sister love (and intense sex), what could be more wholesome? This is a long-fucking log, grab some snacks before you start reading since it will take a while. Second one is similar, though now using Claude 3.
+Links   | Catbox: https://files.catbox.moe/6o3ejk.png - https://files.catbox.moe/7wjk7e.png
 
 Oneonta | Info
 ------ | ------
@@ -120,6 +125,10 @@ Zara | Info
 ------ | ------
 ![Zara](https://files.catbox.moe/k1ls9k.png) | Who knew that a girl who adores your smell could be so wholesome! Features BOTH raceplay and ageplay (Incomplete)
 Links   | Catbox: https://files.catbox.moe/nyojm9.png
+
+Zephilite
+![Zephilite](https://files.catbox.moe/04ms3p.png) | Would you betray humanity for SNAKE PUSSY? The answer is obvious to me atleast, but this was still a suprisingly fun scenario with lots of twists and turns.
+Links   | Catbox: https://files.catbox.moe/2j8pih.png
 
 #Male(femboy) logs
 Annik | Info

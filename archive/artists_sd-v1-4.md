@@ -1,4 +1,4 @@
-# list of artists for SD v1.4 ==A-C== / [D-I](https://rentry.org/artists_sd-v1-4_ii) / [J-N](https://rentry.org/artists_sd-v1-4_iii) / [O-Z](https://rentry.org/artists_sd-v1-4_iv)
+# list of artists for SD v1.4 ==A-C== / [D-I](https://rentry.co/artists_sd-v1-4_ii) / [J-N](https://rentry.co/artists_sd-v1-4_iii) / [O-Z](https://rentry.co/artists_sd-v1-4_iv)
 
 >->"When in Rome, do as the Romans do"<-
 
@@ -553,4 +553,4 @@ Cyangmou|![0](https://i.imgur.com/sI32sZSt.png)|![1](https://i.imgur.com/cLPP1yG
 Cygames|![0](https://i.imgur.com/KnR02Gat.png)|![1](https://i.imgur.com/jJCWWFgt.png)|![2](https://i.imgur.com/0852AzYt.png)|![3](https://i.imgur.com/316MYkNt.png)
 Cyril Rolando|![0](https://i.imgur.com/smAquKMt.png)|![1](https://i.imgur.com/dJgLK1qt.png)|![2](https://i.imgur.com/JCacuLPt.png)|![3](https://i.imgur.com/ICcPiMNt.png)
 
-## ->==A-C== / [D-I](https://rentry.org/artists_sd-v1-4_ii) / [J-N](https://rentry.org/artists_sd-v1-4_iii) / [O-Z](https://rentry.org/artists_sd-v1-4_iv)<-
+## ->==A-C== / [D-I](https://rentry.co/artists_sd-v1-4_ii) / [J-N](https://rentry.co/artists_sd-v1-4_iii) / [O-Z](https://rentry.co/artists_sd-v1-4_iv)<-

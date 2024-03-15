@@ -1,4 +1,4 @@
-# list of artists for SD v1.4 [A-C](https://rentry.org/artists_sd-v1-4) / ==D-I== / [J-N](https://rentry.org/artists_sd-v1-4_iii) / [O-Z](https://rentry.org/artists_sd-v1-4_iv)
+# list of artists for SD v1.4 [A-C](https://rentry.co/artists_sd-v1-4) / ==D-I== / [J-N](https://rentry.co/artists_sd-v1-4_iii) / [O-Z](https://rentry.co/artists_sd-v1-4_iv)
 
 >->"When in Rome, do as the Romans do"<-
 
@@ -524,4 +524,4 @@ Ivan Chermayeff|![0](https://i.imgur.com/Sp7AcW5t.png)|![1](https://i.imgur.com/
 Ivan Reis|![0](https://i.imgur.com/wnCqfuot.png)|![1](https://i.imgur.com/WX06w7gt.png)|![2](https://i.imgur.com/sIOpiG6t.png)|![3](https://i.imgur.com/A3uWjpMt.png)
 Ivan Shishkin|![0](https://i.imgur.com/4MHLRU0t.png)|![1](https://i.imgur.com/YAUZru5t.png)|![2](https://i.imgur.com/jurDMbQt.png)|![3](https://i.imgur.com/61FT7fDt.png)
 
-## ->[A-C](https://rentry.org/artists_sd-v1-4) / ==D-I== / [J-N](https://rentry.org/artists_sd-v1-4_iii) / [O-Z](https://rentry.org/artists_sd-v1-4_iv)<-
+## ->[A-C](https://rentry.co/artists_sd-v1-4) / ==D-I== / [J-N](https://rentry.co/artists_sd-v1-4_iii) / [O-Z](https://rentry.co/artists_sd-v1-4_iv)<-

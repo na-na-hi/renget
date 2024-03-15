@@ -683,7 +683,7 @@ Ellie, Abby, and Lotte (Cobalt Snow)
 PonyXL LoRAs
 Characters:
 - Raboot (Pokemon)
-- Cinderace (Pokemon)
+- Gigantamax Cinderace (Pokemon)
 - Jirachi (Pokemon)
 - Sneasel (Pokemon)
 - Spinda (Pokemon)
@@ -2206,10 +2206,17 @@ Dagasi (Style - PDXL V6)
 https://files.catbox.moe/huw2dl.safetensors
 
 Zex (Style - PDXL V6)
+V1:
 >Zex LoRA trained on Pony XL V6. No activation token needed.
 >Sample picture here https://files.catbox.moe/5ulnhq.png (embed)
 >The activation token for the extra pulled foreskin is sulcus. Not as successful as I'd hoped, but the hit rate is somewhat decent when the skin and the glans have different colors.
 https://files.catbox.moe/dvlowm.safetensors
+
+V1.1:
+>I retrained the Zex LoRA
+>As expected the hit rate is significantly higher with pink glans on dark skin - sometimes it's way too much, but I'll take it.
+>The activation token for the extra pulled foreskin is sulcus.
+https://files.catbox.moe/f8yuth.safetensors
 
 # Xenomorphs
 https://pixeldrain.com/u/3zaypdh5
@@ -3047,6 +3054,9 @@ https://files.catbox.moe/t2t5ib.safetensors
 
 # Lotte (OC by Cobalt Snow)
 https://files.catbox.moe/y2thwl.safetensors
+
+# Kanna (Blaster Master Zero 2 - PDXL)
+https://mega.nz/file/VidwAJQS#3puUhBSTOmTsqMqImlOdMtd47zl7plSj7WdVX99cVr8
 
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.

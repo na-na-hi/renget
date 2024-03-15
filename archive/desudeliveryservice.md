@@ -10,4 +10,4 @@ The owner of `https://rentry.org/scrapeletproxy` created this URL that redirects
 
 ***
 
--> ![](https://files.catbox.moe/ghhnvo.jpg) <-
+-> ![](https://files.catbox.moe/f7sk2o.png) <-

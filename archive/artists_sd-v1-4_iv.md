@@ -1,4 +1,4 @@
-# list of artists for SD v1.4 [A-C](https://rentry.org/artists_sd-v1-4) / [D-I](https://rentry.org/artists_sd-v1-4_ii) / [J-N](https://rentry.org/artists_sd-v1-4_iii) / ==O-Z==
+# list of artists for SD v1.4 [A-C](https://rentry.co/artists_sd-v1-4) / [D-I](https://rentry.co/artists_sd-v1-4_ii) / [J-N](https://rentry.co/artists_sd-v1-4_iii) / ==O-Z==
 
 >->"When in Rome, do as the Romans do"<-
 
@@ -694,4 +694,4 @@ Zhang Kechun|![0](https://i.imgur.com/IM1sCvWt.png)|![1](https://i.imgur.com/pYt
 Zhang Yimou|![0](https://i.imgur.com/OvRCsmDt.png)|![1](https://i.imgur.com/C9gf1cat.png)|![2](https://i.imgur.com/rkdE74Et.png)|![3](https://i.imgur.com/6nteBw6t.png)
 Zinaida Serebriakova|![0](https://i.imgur.com/K4UPLt4t.png)|![1](https://i.imgur.com/f8GBLUit.png)|![2](https://i.imgur.com/UqvESwlt.png)|![3](https://i.imgur.com/VmiSrjUt.png)
 
-## ->[A-C](https://rentry.org/artists_sd-v1-4) / [D-I](https://rentry.org/artists_sd-v1-4_ii) / [J-N](https://rentry.org/artists_sd-v1-4_iii) / ==O-Z==<-
+## ->[A-C](https://rentry.co/artists_sd-v1-4) / [D-I](https://rentry.co/artists_sd-v1-4_ii) / [J-N](https://rentry.co/artists_sd-v1-4_iii) / ==O-Z==<-

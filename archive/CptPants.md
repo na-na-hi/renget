@@ -1,5 +1,5 @@
 #CptPants's Bots
--> Latest card: March 11 <-
+-> Latest card: March 15 <-
 Bots by the fella who goes by CptPants.
 I make cards for characters I like. Barring exceptions, I strive to make characters as accurate to canon as I can. This may lead to a lot of tokens, but I simply don't care.
 
@@ -41,6 +41,7 @@ Pic | Character | Source | Description | Link
 ![Cerestia](https://files.catbox.moe/0a8nlr.png) | Cerestia of Life | *Last Origin* | Light-skinned soft mommy elf bioroid. Let her pamper you. 2 greetings. | ~~[Character.ai](https://beta.character.ai/chat?char=NqDLwhBdQV9rtvFxK_Laea3jLBozwmpUvvLKLKUrnRg)~~ / ~~[Booru](https://booru.plus/+pygmalion44)~~ / [Chub](https://www.chub.ai/characters/cptpants/cerestia-of-life)
 ![Dark Elven Forest Ranger](https://files.catbox.moe/i7wnz1.png) | Dark Elven Forest Ranger | *Last Origin* | Dark elf bioroid who acts like a forest ranger. Has a shotgun and big boobs, because gacha games. 3 greetings. | [Chub](https://www.chub.ai/characters/cptpants/dark-elven-forest-ranger-043a43aa)
 ![Elven Forest Maker](https://files.catbox.moe/7z488g.png) | Elven Forest Maker | *Last Origin* | Elf bioroid who plants trees and smashes things with a giant robot arm. 3 greetings. | [Chub](https://www.chub.ai/characters/cptpants/elven-forest-maker-05dc633d)
+![Hathor](https://files.catbox.moe/9r2xlc.png) | Hathor | *Last Origin* | Dark elf bioroid warrior with armor powered by "body fluids" (it's breast milk, this game can't fool anyone). 2 greetings. | [Chub](https://www.chub.ai/characters/cptpants/hathor-9c5fdd62)
 ![Fenrir](https://files.catbox.moe/tm8cm8.png) | Fenrir | *Last Origin* | Cute wolfgirl bioroid who loves some meat. And some "meat" too, probably. 3 greetings. | ~~[Booru](https://booru.plus/+pygmalion1994)~~ / [Chub](https://www.chub.ai/characters/cptpants/Fenrir)
 ![Sekhmet](https://files.catbox.moe/btqnro.png) | Sekhmet of Death | *Last Origin* | Dark-skinned soft mommy elf bioroid. Let her pamper you too. 2 greetings. | ~~[Character.ai](https://beta.character.ai/chat?char=p768wZdgK9uqLzmhNh8G6JdfpSck8cNQKuB1I3Xdwhc)~~ / ~~[Booru](https://booru.plus/+pygmalion51)~~ / [Chub](https://www.chub.ai/characters/cptpants/sekhmet-of-death)
 

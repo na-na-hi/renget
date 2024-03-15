@@ -192,6 +192,7 @@ Notes:
 - https://wcc.fide.com
 - https://grandchesstour.org
 - https://championschesstour.com
+- https://www.freestyle-chess.com
 - https://www.chessgames.com/perl/newtournaments
 - https://www.chess.com/tournament/live/titled-tuesdays
 - https://lichess.org/tournament/history

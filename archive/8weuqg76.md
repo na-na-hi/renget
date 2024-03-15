@@ -1,9 +1,8 @@
-->![](https://files.catbox.moe/hzlisr.png)<-
-
-->![](https://files.catbox.moe/tato74.png)<-
+->![](https://files.catbox.moe/ka1z5h.png)<-
+->![Made by strawbunimilk, dont use unless you've subscribed to their patreon before](https://files.catbox.moe/du4uz0.png)<-
 
 ***
-### ->%#E0B8EF%[back](https://rentry.co/mikopixels)%%<-
+### ->%#C6C0E1%[back](https://rentry.co/mikopixels)%%<-
 ***
 
 ![](https://files.catbox.moe/jrial4.png)
@@ -35,6 +34,5 @@
 ![](https://files.catbox.moe/6vatbg.png)
 ![](https://files.catbox.moe/z6xdy0.png)
 
-->![](https://files.catbox.moe/0yudne.png)<-
-
-->![](https://files.catbox.moe/3yukz7.png)<-
+->![Made by strawbunimilk, dont use unless you've subscribed to their patreon before](https://files.catbox.moe/4q2vo8.png)<-
+->![](https://files.catbox.moe/w7mnwz.png)<-
