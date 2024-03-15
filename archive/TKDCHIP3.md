@@ -243,3 +243,9 @@
     >The Israelis opened fire on civilians waiting for aid near Kuwait roundabout in Gaza.  
     >https://files.catbox.moe/sqt76l.mp4  New  3/13/24  
     ***
+    >BREAKING| An attack against Israeli settlers in Beit Kama settlement, which was built on stolen land in Al Naqab, has reportedly resulted in three injuries, including one serious injury.   
+    >https://files.catbox.moe/y87jwb.mp4  New  3/14/24    
+    ***
+    >TikTok CEO Shou Chew's response to the TikTok ban bill
+    >https://files.catbox.moe/ysy2ba.mp4  New  3/14/24   
+    ***

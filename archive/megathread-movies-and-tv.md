@@ -145,6 +145,10 @@
 - One of the most popular and easily navigable websites, it provides free HD streaming of films and TV shows.
 - [URL Safety Results](https://www.urlvoid.com/scan/hurawatchz.to/)
 
+### 🐐 [HydraHD](https://hydrahd.com/)
+- Indulge in free movies and series without sign-up, streaming from the largest library available.
+- [URL Safety Results](https://www.urlvoid.com/scan/hydrahd.com/)
+
 ### ▶️ [KimCartoon](https://kimcartoon.li/)
 - This service, which streams both classic and contemporary cartoons, is a real treat for everyone who enjoys cartoons.
 - [URL Safety Results](https://www.urlvoid.com/scan/kimcartoon.li/)
@@ -164,6 +168,10 @@
 ### ▶️ [Movie World](https://movieworld.pl/)
 - Unlimited access to a large library of movies and TV shows with a seamlessly immersive experience.
 - [URL Safety Results](https://www.urlvoid.com/scan/movieworld.pl/)
+
+### ▶️ [MovieBeamz](https://moviebeamz.com/)
+- Vast film selection for an enhanced streaming ride as you unwind through a mesmerizing cinematic voyage.
+- [URL Safety Results](https://www.urlvoid.com/scan/moviebeamz.com/)
 
 ### 🐐 [movie-web](https://movie-web.github.io/docs/instances)
 - The wonderful site offers various instances with movies and TV shows for quick streaming.

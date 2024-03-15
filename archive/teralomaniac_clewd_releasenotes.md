@@ -132,7 +132,9 @@ Assistant:
         - 使用系统提示时，可以避免酒馆自动添加首位`\n\nHuman:`来的空Human:问题
 
 ## Clewd 4.8修改版
-- Clewd 4.8(5) added: 优化messages接口处理逻辑，增加`<|messagesLog|>`标签用于在clewd控制台输出messages接口发送原始内容，增加`claude-default`模型选项用于cookie默认模型
+- Clewd 4.8(6) fixed: 修复错误失效判断问题，优化`xmlPlot`逻辑
+
+- Clewd 4.8(5) added: 优化messages接口处理逻辑，增加`<|messagesLog|>`标签用于在clewd控制台输出messages接口发送原始内容，增加`claude-default`模型选项用于cookie默认模型；增加claude-3自动换用msg_api，无须`<|messagesAPI|>`标签，`<|completeAPI|>`用于第三方手动换回传统api
 
 - Clewd 4.8(4) added: 增加messages API接口调用，使用方法为在提示中包含`<|messagesAPI|>`标签；修复claude-3模型的系统提示无效问题
 

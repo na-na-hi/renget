@@ -700,3 +700,45 @@ https://rentry.org/5apxm5ao
 https://rentry.org/zbtaxdfz
 >The Tournament, Part Four!
 https://rentry.org/b2v9nv4u
+----------------------------------------------------------------------------------------------------------------------------
+Page 16
+----------------------------------------------------------------------------------------------------------------------------
+>The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp)
+https://rentry.org/pi72vzqf
+>#corporategirlies (Hivemind)
+https://rentry.org/o3crsn3e
+>Suki intro
+http://rentry.org/t3q5h6wk
+>Scaredy-cat (Capture Cloth, Bakeneneko)
+https://rentry.org/ia8x4kv2
+>The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, the Prophet)
+https://rentry.org/x3gaabdu
+>Shiketsu Guide to Cafeteria (Various Shiketsu students)
+https://rentry.org/ms8yk558
+>Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator)
+https://rentry.org/7yoniwe4
+>Survivor's Talk
+https://rentry.org/drqmuvar
+>Rob's First Day (featuring Velvet Worm & Dust Devil):
+https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing
++ Rentry Link https://rentry.org/2mgxeq84
+>Sins of the Father (Full Metal, 1-F):
+https://rentry.org/Sins-of-the-Father-MHA
+>Runt Breaks the Ice!! (Runt, 1-F)
+https://rentry.org/x6hogk7r
+>NOTEBOOK (Suki, 1-F)
+https://rentry.org/mxh95sov
+>Shard's Warning (Mirror Devil, Smokin' Sexy)
+https://rentry.org/9rqp48zf
+>Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper)
+https://rentry.org/wxqgu34w
+>"Writefag" (Slip-N'-Slideasaurus, Sukeban, Fly 1 Million is also kinda there)
+https://rentry.org/tgaaum4e
+>Introduction to Yeti Girl. (Kyoko)
+https://rentry.org/g9z2wh5g
+>Beach Day Intro: (Beach Day, Suki, The Doctor)
+https://rentry.org/LeavingYourLeftoversAllOverThePlace
+>Rob Write Home (Featuring Velvet Worm w/ mentions of the rest of 1-F):
+https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/edit?usp=sharing + https://rentry.org/gno9vnt6
+>Will they survive winter? (Kyoko, 1-F)
+https://desuarchive.org/tg/thread/91832769/#q91842120

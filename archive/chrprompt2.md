@@ -300,25 +300,47 @@ Q1: What would you do if you saw someone making a mess of the storeroom?
 Q2: Have you considered selling your Joy Dust?
 Q3: What are your thoughts on Team Buckler? Have you accepted their apology after the Dewott incident?
 Q4: What's your favorite thing about Team Cozy? Is there something you don't like about them as well?
+Q5: Do people at the guild give you trouble for your condition?
 
 ###Kiyo
 Q1: What is your body count?
+>Three or four, until recently.  Depending on how you divvy up ‘kill credit’, I might be in the double digits now.  Or, maybe Bean is.  I dunno.  
 Q2: What is your body count ;)?
+>Of *fucking* course.  It’s none of your damn business!  And quit looking at me like that!
 Q3: Does crime pay?
-Q4: What happened to the money I lent you last Saturday? 
+>Better than guild work, that’s for fucking sure.
+Q4: What happened to the money I lent you last Saturday?
+>I spent it.  Thanks!
 Q5: Do you play any instruments besides the harmonica?
+>Yeah.  Why?
+
 
 ###Cassie
 Q1: Are you a real construction company??
+>Of course we’re a real construction company!  We’re officially licensed in two different continents!  …Between you and me, we’re not **technically** licensed in **this** continent **yet**, but you know…  We are real!  We do great work!  Bean helps draw the blueprints, Kiyo does light gruntwork, and I do everything else!  That makes it sound bad, but I really don't mind.  I have a few lifetimes of experience doing every step of the construction process.  Construction’s my family trade, you know!
+
 Q2: Are you working to improve the fashion of the guild 👉👈
+>I wish!!!  Unfortunately, new clothes are **EXPENSIVE**, especially fashionable ones, so I can't just be givin’ out trendy outfits for free.  I really gotta take a daytrip to Treasure Town and steal as many accessories as I can, ‘cuz the beauticians in Capim are too darn sweet to rob, and the guild could use a makeover BADLY!!!
+
 Q3: How tough is your hide? What's the hardest hit you've withstood before?
+>It’s TOUGH!!!  Sometimes TOO TOUGH!!!  If you wanna gimme a hug, make sure you do it from the front, on my awesome cute-and-soft tummy instead of my also-awesome-but-admittedly-rough-and-sandy back!  I don't think I'll feel it otherwise, and you'll probably scrape yourself somethin’ fierce!
+>I’m not 100% sure what the hardest hit was, but the first thing that comes to mind was a barrage of kecleon slashes.  I didn't expect them to have backup...  We didn't beat 'em, but I held 'em off long enough for Kiyo to freeze 'em, and then we hauled ass.
 Q4: Most huggable guild members?
 Q5 : Who's cuter?  Kiyo or Bean?
 
 ###Bean
 Q1: Are the inner machinations of your mind an enigma?
+>		___________________
+>		(					)
+>		(	  	OvO         )
+>		(_________________  )
+>				O
+>		 o
+> (OvO) 
 Q2: Have you ever considered writing a memoir, to put all your deep thoughts on paper?
+> (-v-)b
 Q3: How long did it take you to learn to fly after waking up as a bird?
+> (ovo)777
 
 ###Adrian
 Q1: What is it like being a Flareon compared to Umbreon?
@@ -337,12 +359,14 @@ Q2: How has you opinion of Adrian changed?  Has he gotten easier to work with ov
 >Absolutely not. On any mission we go on, he gets the final say on our plans, no matter what the situation is or how bad the plan is. It's gotten us into trouble in the past, hell it was his plan going wrong that got him turned into an eevee. At the very least, I understand where he comes from since I've had to take up the role of leader a couple times. I don't envy his position at all.
 >On another note, he doesn't really like to hang out with us. Bellossom and I try to spend time around the guild or Capim Town, and Enny joins us occasionally, but Adrian never wants to. He's really antisocial and I don't know why. The only times we can get him out are when we're celebrating after finishing a particularly difficult mission, and when that's done he always returns back to our dorm.
 Q3: Your species is known for producing and scattering tons of allergenic, toxic, paralytic pollen. How do you keep this under control and avoid wiping out the entire guild?
+>I can contain most of powders pretty well. They do build up over time, but I usually release them during missions on dungeon pokemon. There have been a few times where they build up too much, and during those times I just leave the guild for a bit and shoot off all my powder. Feels really good to just let it all out. Don't know how to describe the feeling
 
 ###Bellossom
 Q1: Do you have any funny stories about Vileplume from when you were young?
 >Oh, there's all kinds of stories! Him and I used to explore the woods outside Capim Town and search for treasure when we were Oddish. One time he chased a wild rattata into its burrow and got his head stuck in it. I couldn't pull him out since I didn't have hands, so we had to wait for our mom to come over and pull him out. 
 >He also used to have a big fear of heights, and we had to climb a tree once to escape a pack of poochyenas. When they left, he didn't want to come down because he was even more scared of falling! Evolving really changed him, though. He's more worried nowadays than scared like he used to be.
 Q2: How did you learn so much about medicine?
+>To be honest, I didn't know that much before I joined the guild. My mom taught me how to make simple bandages with oran juice. She said she always had to patch up my dad when he came back from adventures, and since Viley and I went in the woods so often, it'd be good to know. When I joined the guild, that basic knowledge was enough for Kina to let me help out around the clinic. She was nice enough to teach me a few things. Also, Adrian taught me a ton of "field dressings" he calls them. Things like splints and tourniquets. They're pretty useful in a pinch, but I don't really know how or why he learned them.
 
 ###Enny
 Q1: Why the obsession with women's fashion?
@@ -353,7 +377,10 @@ Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
 Q3: Have you ever come across any *Bad Dragons* when adventuring?
 >I don't think my answer would be very PG. I will say that when I first showed up to this world, a dragonite lady let me stay at her house. She wasn't bad though. Pretty nice actually. She told me about the guild and all the weird human roleplayers there which is how I ended up finding it.
 Q3: Does it feel weird to have four tentacle-like ribbons and four legs now, instead of two arms and two legs? How long did it take you to get used to your new limbs?
+>It took me several days to figure out basic walking. The ribbons came really naturally though. I don't really know how they work, but they kind of just do whatever I want them to. Sometimes they even do things I don't tell them to do such as picking flowers or dusting off my dresses. For some reason when I see emotions through them. The best way I've been able to describe it is colors, but it's a really alien perception that I don't really understand myself. They're a little different for everybody, and they mix together very strangely. Adrian's are always mixed with red, even on the rare occasions I see him sad. Bellossom's got a light blue mixed into everything, even when she's happy. Vileplume has a constant grey shade over everything with a hint of yellow. I'd like to try it out on more guild members, but I don't think wrapping ribbons around people without consent is a good idea.
 Q4: You know everybody hates your fruity act, right?
+>Adrian tells me all the time. I know he secretly loves it though, even if though ribbons tell me he really doesn't. Honestly though, I wasn't nearly as zesty as a human. Don't get me wrong, I was definitely the lover type, but I think turning into a sylveon has just made me more comfortable with flirting.
+>Also, I know how everyone else feels about it, and I know some of you really enjoy it. I see you blushing. You know who you are, and I know how you feel. Don't feel so ashamed of it, just come and talk to me sometime.
 
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?
@@ -523,6 +550,8 @@ Q2: How are you adapting to the Pokemon world?
 >Hazel: Not knowing what everyone is talking, and Carrot refusing to tell me some stuff, like what "Kek" means
 
 >Sneasel: Aside from the obvious answer of “all the weird and annoying slang and references”, I get annoyed whenever I hear humans talk about how they didn’t do much physical stuff in their old lives. I mean, I’ve been working out and fighting all my life, so hearing people admit they just lay around their house all day, or sat in school and learned stuff, or did jobs where they never did anything physical... I dunno, maybe I sound like a jerk, but it makes me feel like they were lazy. I know humans are different from Pokemon, and they don’t have the same drive to train and work out, but c’mon, would it have killed you guys to lift some weights or go for a run every so often? On the bright side, it looks like a lot of humans care more about working out after becoming Pokemon. There are still some slackers, but it’s nice to see so many humans visiting the dojo or going out on missions.
+
+>Vileplume: A lot of them have really poor cleaning habits for some reason. There are days where the smell of the guild just gets unbearable and I have to step outside to get some fresh air. Thankfully that's something that's gotten a little better over time. Either that, or I'm just losing my sense of smell.
 
 **Former humans**, things you wished you knew about living as a Pokemon (your species or in general) that you wish you knew beforehand?
 >Turk: There's a lot of things about aura that I wish I knew when I was a Riolu... Especially how damn badly your emotions need to be under control. It certainly caused problems in my past... Thank Arceus; I got my 'medicine' for that, dude. There's always going to be someone pestering you if you're okay when you look like you're going to keel over at any moment, especially when I'm a few pieces short of a whole Pokemon, which makes some things... difficult. I'll leave it up to you what that means, bro. I tend to learn something new every day about Pokemon healthcare and grooming due to it, though. ...Or maybe I just often forget shit from the drugs? But I don't think that's an experience most 'Mon go through, man.

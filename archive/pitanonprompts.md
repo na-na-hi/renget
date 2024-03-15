@@ -9,6 +9,7 @@ Claude 3 Opus | v1.1 | 14/03/2024 | https://files.catbox.moe/gn5egl.json
 Claude 3 Opus | v1.0 | 14/03/2024 | https://files.catbox.moe/e2mgzk.json
 
 ### OpenAI Presets
+**(I don't really recommend this, I don't use GPT models)**
 | Model | Version | Date | Chat Completion Preset
 |---|---|---|---|
 GPT-4 | v1.0 | 01/03/2024 | https://files.catbox.moe/mro7at.json 

@@ -18,6 +18,8 @@ https://pixeldrain.com/u/CG7jNafY
 https://pixeldrain.com/u/BFB36oue 
 https://files.catbox.moe/0igtlo.png
 
+- MrPotatoParty
+https://files.catbox.moe/0enq3a.zip
 
 **SD 1.5/NAI LoRAs**
 
@@ -62,7 +64,7 @@ https://files.catbox.moe/ekwjfi.safetensors
 ~~https://filebin.net/n8k2h03ose08kqxn/PS.7z~~
 - Gobbo goblin
 https://files.catbox.moe/fm6h9c.safetensors
-
+https://files.catbox.moe/bk16hf.zip
 ---
 
 Styles

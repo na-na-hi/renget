@@ -133,11 +133,15 @@ Page 2
 >Engetsu Bōfū
 >>92101140
 >Inaba Hyuga
->>92164218
+>>92178816
 >Insane Wild Boar
 >>92164715
 >???
 >>92164855
+>Setsu Suru
+>>92181406
+>Sado Mazohisuto
+>>92181768
 
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
@@ -207,6 +211,10 @@ Shinro:
 https://rentry.org/ShinroJutsu
 Kichōna:
 https://rentry.org/NardoKichonaJutsuList
+Masukuda:
+https://rentry.org/nbd7ikrf
+Ghidorah:
+https://rentry.org/xant7fe2
 ```
 
 #Fighting Autism Tournament
@@ -498,6 +506,8 @@ A response to Sezāru's Date. Happy belated VD
 https://rentry.org/679iyte9
 Our Dearest Librarian (Amane, Akari, Yoru, Haruhi)
 https://rentry.org/5b2bq44i
+Just Dere Now (Ikari Michita, Mithran Kuro, Mari Aozaki, Mentions of Akari Ichioka)
+https://rentry.org/f74au7v2
 
 >Relationship Charts
 Emilia Shadowsong
@@ -578,6 +588,14 @@ New Writefag:
 https://rentry.org/d4g5buec
 >Time Together (Mirror Devil, Drone)
 https://rentry.org/bceua7zq
+>Everything Wrong With the Two of Them 2 (Reaper, Forget-Me-Not, Drekus, Feral and the rest of the Wild Hunt)
+https://rentry.org/bs79megt
+I Shall Not want(Archangel, Last Rite, Rosethorn)
+https://rentry.org/dr6wyh78
+>A Dragon's White Day (Ryu-kishi, Maru(maru), mention of the girls in 1-D)
+https://rentry.org/o3iji1n
+>A Multi-Dimensional Valentine's Day (Ryu-kishi, Maru(maru), Last Rite, Mirror Devil, Challenger, Sunlight Man, Android, Cool Boost, Radius, Marrow)
+https://rentry.org/399yrhts
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1050,7 +1068,7 @@ Page 7
 ***
 ```
 Writefags:
->Early writefags here (edit code: MHA Writefags) (15 Pages)
+>Early writefags here (edit code: MHA Writefags) (16 Pages)
 https://rentry.org/MHAWritingList
 >”First Test” Comp
 https://pastebin.com/66ByP2sD
@@ -1058,52 +1076,6 @@ https://pastebin.com/66ByP2sD
 https://pastebin.com/Ksn0zJ31
 Else check the rentry
 
->The Escape (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka AKA Mio's simp)
-https://rentry.org/pi72vzqf
->#corporategirlies (Hivemind)
-https://rentry.org/o3crsn3e
->Suki intro
-http://rentry.org/t3q5h6wk
->Scaredy-cat (Capture Cloth, Bakeneneko) 
-https://rentry.org/ia8x4kv2
->The Symbol of Death: Part 1 (featuring Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, the Prophet)
-https://rentry.org/x3gaabdu
->Shiketsu Guide to Cafeteria (Various Shiketsu students)
-https://rentry.org/ms8yk558
->Affirmation (Marrow, Radius, Majestic, brief mentions of Desolator)
-https://rentry.org/7yoniwe4
->Survivor's Talk
-https://rentry.org/drqmuvar
->Rob's First Day (featuring Velvet Worm & Dust Devil):
-https://docs.google.com/document/d/1abj8lOKQxBiyYFvy-poalz5mTDTCMTyo0rZh5g_LZSQ/edit?usp=sharing
-+ Rentry Link https://rentry.org/2mgxeq84
->Sins of the Father (Full Metal, 1-F):
-https://rentry.org/Sins-of-the-Father-MHA
->Runt Breaks the Ice!! (Runt, 1-F) 
-https://rentry.org/x6hogk7r
->NOTEBOOK (Suki, 1-F)
-https://rentry.org/mxh95sov
->Shard's Warning (Mirror Devil, Smokin' Sexy)
-https://rentry.org/9rqp48zf
->Girl Talk (Feral, Forget-Me-Not, Ookami, Drekus and mentions of Reaper)
-https://rentry.org/wxqgu34w
->"Writefag" (Slip-N'-Slideasaurus, Sukeban, Fly 1 Million is also kinda there)
-https://rentry.org/tgaaum4e
->Introduction to Yeti Girl. (Kyoko)
-https://rentry.org/g9z2wh5g
->Beach Day Intro: (Beach Day, Suki, The Doctor)
-https://rentry.org/LeavingYourLeftoversAllOverThePlace
->Rob Write Home (Featuring Velvet Worm w/ mentions of the rest of 1-F):
-https://docs.google.com/document/d/1sTo2PbGQBD7BJAHzBLK8Ce2sjd1pMT3wW6zp_0b6qxM/edit?usp=sharing
-+ https://rentry.org/gno9vnt6
->Will they survive winter? (Kyoko, 1-F)
->>91842120
-```
-***
-Page 8
-***
-```
->Writefags (Cont.)
 >When Something Smells, It's Usually the Nuts (Slimenuts, Karaburan, Mentions of 1-F)
 https://rentry.org/czs9nrcu
 +Mommy Link https://rentry.org/duw26qn5
@@ -1137,18 +1109,18 @@ https://rentry.org/yb9ni7xa
 https://rentry.org/detentionroulette
 >Quirk Wisdom (Desolator)
 https://rentry.org/ycx2waa6
+```
+***
+Page 8
+***
+```
+>Writefags (Cont.)
 >The Symbol of Death: Part 2 (Reaper, Forget-Me-Not, Drekus, Feral, Ookami Shizuka, The Prophet, Hijack):
  https://rentry.org/w8muhu24
 >Lunch Hour (1-F)
 https://rentry.org/LunchHour
 >Internship Gossip (Clique)
 https://rentry.org/igqhcxhy
-```
-***
-Page 9
-***
-```
->Writefags (Final)
 >The Symbol of Death: Part 3 (Reaper, Forget-Me-Not, Ookami Shizuka, Drekus, Hijack, The Boys (kind of))
 https://rentry.org/55t76vwp
 >With Open Hearts And Open Minds (Seiryu, Honoken, Hijack)
@@ -1185,6 +1157,20 @@ https://rentry.org/p7zrib56
 https://rentry.org/d4g5buec
 >The 4:30PM to KIX
 https://rentry.org/qfnavcko
+>Everything Wrong With the Two of Them 2 (Reaper, Forget-Me-Not, Drekus, Feral and the rest of the Wild Hunt)
+https://rentry.org/bs79megt
+```
+***
+Page 9
+***
+```
+>Writefags (Final)
+>I Shall Not want(Archangel, Last Rite, Rosethorn)
+https://rentry.org/dr6wyh78
+>A Dragon's White Day (Ryu-kishi, Maru(maru), mention of the girls in 1-D)
+https://rentry.org/o3iji1n
+>A Multi-Dimensional Valentine's Day (Ryu-kishi, Maru(maru), Last Rite, Mirror Devil, Challenger, Sunlight Man, Android, Cool Boost, Radius, Marrow)
+https://rentry.org/399yrhts
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

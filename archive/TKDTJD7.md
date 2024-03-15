@@ -1847,3 +1847,166 @@
     >https://twitter.com/warfareanalysis/status/1768052962864275665  3/13/24  
     >https://files.catbox.moe/sqt76l.mp4  3/13/24  
     ***
+!!!danger 
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 13 (2024), against (US)-israeli forces:
+    
+    >— 🇵🇸 Al-Aqsa Martyrs Brigades:
+    >
+    >🔻Shelled IOF army vehicles and soldiers' gatherings with 60-caliber mortar shells in the axis south of the Al-Zaytoun neighborhood in Gaza City.
+    >
+    >🔻During the past 24h, they carried out 17 missions, engaged in fierce clashes with IOF forces and targeted their army vehicles with artillery shells on the axis in the Gaza Strip, and west of Khan Younis, which led to a number of dead and wounded.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Managed to seize an IOF Evo Max 4T drone, in the north of Beit Lahia, north of the Gaza Strip.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted a gathering of Israeli soldiers east of the Hanita site with artillery shells.
+    >
+    >🔻Targeted the Zebdine barracks in the occupied Shebaa Farms with a Falaq rocket.
+    >
+    >🔻Targeted the Ruwaysat Al-Alam site in the Kfar Shuba hills with rockets.
+    >
+    >🔻Confronted an Israeli drone in the border areas, forcing it to retreat back into the occupied territories.
+    >
+    >🔻Targeted the Ramim barracks with rockets.
+    >
+    >🔻Targeted a gathering of israeli soldiers east of the Al-Abad site with appropriate weapons, hitting it directly.
+    
+    >This list did not include rockets fired from Gaza towards settlements.
+    >https://t.me/FotrosResistance/5886  3/14/24  
+    ***
+!!!warning
+    >🚨UKMTO reports an attack targeting a ship, southeast of Yemen’s Aden, followed by an explosion.  
+    >https://t.me/FotrosResistance/5890  3/14/24  
+    ***
+    >Yemen's Houthis test-fired hypersonic missile, says military source
+    >
+    >Yemen's Ansar Allah movement, also known as the Houthis, has carried out a test flight of a hypersonic missile with high destructive capability and is preparing to add these missiles to its military arsenal, a military source close to the movement has told Sputnik.  
+    >https://t.me/megatron_ron/2270  3/14/24  
+    ***
+    >Hamas: We call on the masses of our people in the West Bank, #Jerusalem and the occupied interior to mobilize and travel to Al-Aqsa Mosque and Rabat there.
+    >
+    >Hamas: We call on our revolutionary youth and the resistance brigades in the West Bank and #Jerusalem to rise up and clash with the occupation soldiers  
+    >https://t.me/me_observer_TG/168101  3/14/24  
+    ***
+    >BREAKING| An attack against Israeli settlers in Beit Kama settlement, which was built on stolen land in Al Naqab, has reportedly resulted in three injuries, including one serious injury.   
+    >https://t.me/QudsNen/98664  3/14/24 
+    >https://files.catbox.moe/y87jwb.mp4  3/14/24  
+    ***
+    >Spanish MEP Anna Miranda to Al Jazeera: "The EU Parliament's decision is weak, and relations with Israel should have been halted."  
+    >https://t.me/QudsNen/98668  3/14/24  
+    ***
+    >McDonald's Corporation loses $7 billion of its value within hours after its Chief Financial Officer announced the continued impact of boycotts in the Middle East on sales during the current year.
+    >
+    >McDonald's stock plunges by over 3%, heading towards its largest daily loss in 5 weeks.
+    >
+    >The Chief Financial Officer of McDonald's Corporation stated today, Wednesday, that international sales will continue to decline in the current quarter.
+    >https://t.me/QudsNen/98671  3/14/24  
+    ***
+    >Lebanon: The Islamic Resistance in #Lebanon: We targeted a group of occupation soldiers inside the Al-Malikiyah site with artillery shells, and we injured them.
+    >https://t.me/me_observer_TG/168179  3/14/24  
+    ***
+    >Bobby Kotick (Jewish) is ready to buy TikTok if the company divests to remain in the U.S.
+    >https://nitter.poast.org/DefundIsraelNow/status/1768137980072677727  3/14/24
+    >https://twitter.com/DefundIsraelNow/status/1768137980072677727  3/14/24  
+    ***
+    >Russia's Deputy Representative to the United Nations: Failure to stop the fighting in #Gaza threatens the region and the world with major consequences  
+    >https://t.me/me_observer_TG/168202  3/14/24  
+    ***
+    >Lebanon: The Islamic Resistance in #Lebanon announces that it targeted a gathering of occupation soldiers in the vicinity of Karantina Hill with appropriate weapons and directly hit it.  
+    >https://t.me/me_observer_TG/168208  3/14/24  
+    ***
+    >TikTok CEO Shou Chew's response to the TikTok ban bill
+    >https://t.me/megatron_ron/2279  3/14/24  
+    >https://files.catbox.moe/ysy2ba.mp4  3/14/24  
+    ***
+    >Some pictures of the 🇮🇷🇨🇳🇷🇺 IRGC Navy's participation in the joint-naval exercise in the northern Indian Ocean, alongside Russian and Chinese navies.
+    >https://t.me/FotrosResistance/5894  3/14/24  
+    ***
+    >The leader of AnsarAllah, Abdel al-Malik al-Houthi:
+    >
+    >"We’ll not only prevent Israeli ships from sailing in the Red Sea and the Arabian Sea, but also in the Indian Ocean and South Africa, towards the Cape of Good Hope. This is an important and significant step, and we have already begun operations related to this."
+    >https://t.me/FotrosResistance/5898  3/14/24  
+    ***
+    >Breaking | Fatalities among hungry Palestinian civilians awaiting aid trucks at Al-Kuwait roundabout in northern Gaza, following Israeli artillery shells and helicopter gunfire targeting their gatherings.
+    >https://t.me/QudsNen/98689  3/14/24  
+    ***
+    >BREAKING| Nearly 50 hungry civilians have been reportedly killed in the Israeli attack while they were waiting for aid at Al Kuwait roundabout.
+    >https://t.me/QudsNen/98699  3/14/24  
+    ***
+    >BREAKING| An Israeli Apache had opened fire towards thousands of hungry Palestinians at Al Kuwait roundabout in northern Gaza while they were waiting for aid, killing at least 50 of them.
+    >
+    >Medical crews find difficulty in reaching the area due to the dangerous conditions and the repeated targeting by the Israeli forces.
+    >https://t.me/QudsNen/98700  3/14/24  
+    ***
+    >Urgent || US Senator Van Hollen:
+    >
+    >The famine in #Gaza is not the result of a natural disaster, but rather because of the Netanyahu government
+    >
+    >The Biden administration must impose its conditions for delivering humanitarian aid to #Gaza
+    >
+    >The future of UNRWA is an urgent issue because Netanyahu and his extremist allies want to get rid of it
+    >
+    >UNRWA is the main means of distributing aid and cannot be dismantled
+    >
+    >Israel did not provide evidence regarding the participation of UNRWA employees in the October 7 attacks
+    >
+    >Allegations that UNRWA is a front for #Hamas are a lie and Biden must re-support itm
+    >https://t.me/me_observer_TG/168441  3/14/24  
+    ***
+    >Details of what happened at the Kuwait roundabout in #Gaza a short while ago:
+    >
+    >- Thousands of #Palestinians, more than 30 thousand citizens, arrived at the place from different areas, waiting to receive relief aid in light of the famine.
+    >- The occupation helicopter opened machine gun fire towards thousands of #Palestinians in the area.
+    >A massacre occurred, leading to the death and injury of dozens by gunfire, and ambulance crews were finding it difficult to quickly reach them. Due to the danger of the region and the repeated occupation targets..
+    >https://t.me/me_observer_TG/168465  3/14/24  
+    ***
+    >United States of America: Reuters: The draft supports ceasefire efforts within the framework of an agreement to release prisoners
+    >https://t.me/me_observer_TG/168471  3/14/24  
+    ***
+    >Urgent || The number of martyrs rose to 60 martyrs and more than 200 injuries in the Kuwait Roundabout massacre in #Gaza.
+    >https://t.me/me_observer_TG/168466  3/14/24  
+    ***
+    >BREAKING: 
+    >
+    >⚡ 🇾🇪 The Houthis announced that the operation in the Red Sea is expanding.
+    >
+    >From now on, ships linked to Israel will be attacked even across the Indian Ocean and from South Africa towards the Good Hope Road.
+    >
+    >(Photo ilustrative)
+    >https://t.me/megatron_ron/2291  3/14/24 
+    ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 14 (2024), against (US)-israeli forces:
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Targeted settlements in the Gaza Strip with a rocket barrage.
+
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >
+    >🔻Targeted an IOF military vehicle with an RPG, on the axis in Hamad Town, west of Khan Younis.
+    >
+    >🔻Targeted an IOF military vehicle with an RPG, on the axis in Hamad Town, west of Khan Younis. (2x)
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the Al-Samaqa site with rockets.
+    >
+    >🔻Targeted the Ruwaisat al-Alam site with rockets.
+    >
+    >🔻Targeted a group of Israeli soldiers inside the Malikiyah site with artillery shells, causing injuries.
+    >
+    >🔻Targeted a gathering of israeli soldiers in the vicinity of Karnitina hill with appropriate weapons.
+    >
+    >🔻Targeted a group of Israeli soldiers inside the Bayad Blida site with artillery shells, causing injuries.
+    >
+    >🔻Targeted a group of israeli soldiers in the vicinity of Rahib site with artillery shells, causing injuries.
+
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >
+    >🔻Targeted the IOF Palmachim air base with a kamikaze drone.   
+    >https://t.me/FotrosResistance/5902  3/14/24  
+    ***

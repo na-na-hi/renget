@@ -552,6 +552,9 @@ https://www.youtube.com/watch?v=FstpKHTqq9A
 Japan - Inside the Closed World of Sumo (2020)
 https://www.youtube.com/watch?v=p5MKA0oxMws
 
+Is Sumo Only For Men? Japan's Female Wrestlers Take On International Tournament (CNA Insider; 2024)
+https://www.youtube.com/watch?v=kioo7nBRF3M
+
 Le Cercle du Sexisme - Sumo féminin (2018; in French)
 https://www.canalplus.com/sport/le-cercle-du-sexisme/h/10414320_50001
 

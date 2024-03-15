@@ -1,10 +1,10 @@
 # GGR89's Card Repository
 !!! info New Shit
         **NEW:** 
+		Diabellze (3/14/24)
 		Ashtir (3/6/24)
 		Elegg (2/29/24)
 		Diabellstar and Sinful Spoils Lorebook (2/28/24)
-		Vargr (2/21/24)
 		**UPDATED:** 
 		Nikke Lorebook for Elegg AGAIN (2/29/24)
 		Nikke Lorebook, for Elegg (2/24/24)
@@ -103,7 +103,7 @@ Image| Name | Description | Link
  ![Stolen, trained, and fucked loyal](https://files.catbox.moe/8zbzfc.png) | Suzumori Mizuki | Mizuki is a track and field star who was stolen and roughly trained by (you), breaking up with her boyfriend to be yours instead before going to college. A complete nymphomaniac at your beck and call, based off a set of doujins by Satou Kuuki. Comes with two greetings. | [CHUB link](https://chub.ai/characters/ggr89/suzumori-mizuki-c9cedbcc) [Catbox link](https://files.catbox.moe/8zbzfc.png)
  ![Beware, all dicks who enter thee](https://cdn.discordapp.com/attachments/635291930929922069/1194052693908537344/rinni_original_drawn_by_naoillus__d88d71f0e0bb0c2701a14053f1b0a77d.jpg?ex=65aef33a&is=659c7e3a&hm=b0e2b4d8318370d7a7b999a3fc2f6e150f410ad99966ddec3b5aadabbdecbd36&) | Shinohara Aya | Aya is a highschool girl who's shy and anxious, often the target of bullying. What people don't know is that her bullying is hyper sexual in nature: the boys that have been bullying her since middle school often use her as their personal meat urinal, shoving their cocks into her face and making her swallow dick 24/7. She's since internalized her role as a dedicated blowjob machine with her virginity 100% intact. Oh, she's also the granddaughter of one of the most prolific construction companies in Japan. Comes with three greetings, one where you're one of the bullies, one where you're a teacher who's found out her secret, and one where you're a police officer in charge of covering up the whole affair. | **UNRELEASED**
  ![Searching my deck for Sinful Spoils](https://files.catbox.moe/8ybbp4.png) | Diabellstar the Black Witch | Diabellstar is an outlaw, using her own means and methods to hunt down Cursed Items. Of note to her are the Snake Eyes jewels, dangerous artifacts capable of spawning monsters and corrupting the minds of mortals. Seeing danger on the horizons, a cold noblewoman revokes her honor... Comes with three greetings. Use the Sinful Spoils lorebook! | [CHUB link](https://chub.ai/characters/ggr89/diabellstar-the-black-witch-c5d73d8c) [Catbox link](https://files.catbox.moe/8ybbp4.png)
- ![Unhinged but nice women uuuuuu]() | Diabellze of Original Sin | Diabellze is Diabellstar's older sister, being a noblewoman while her younger sister abandoned high society. While pleasant normally, her sister brings out her unhinged side, carrying an extreme rivalry complex that drove her to become a spellcaster herself just so she could kick her ass for fun. Comes with three greetings. Use the Sinful Spoils lorebook! | **UNRELEASED**
+ ![Unhinged but nice women uuuuuu](https://files.catbox.moe/7h26ok.png) | Diabellze of Original Sin | Diabellze is Diabellstar's older sister, being a noblewoman while her younger sister abandoned high society. While pleasant normally, her sister brings out her unhinged side, carrying an extreme rivalry complex that drove her to become a spellcaster herself just so she could kick her ass for fun. Comes with two greetings. Use the Sinful Spoils lorebook! Works well in groupchats with her sister. | [CHUB link](https://chub.ai/characters/ggr89/diabellze-of-original-sin-30728762) [Catbox link](https://files.catbox.moe/7h26ok.png)
  ![HOT SINGLE DEMONGIRLS IN YOUR AREA](https://files.catbox.moe/0nb0tb.png) | Ashtir | Ashtir is a failure of a demoness, and as such nobody from her own race wants to mate with her... so, that's why she's hunting for humans! Ready and eager, Ashtir is shy but really wants to get laid. And have romantic dates. And have lots and lots of kids. Comes with three greetings, including a pregnancy greeting! No lorebook for this one. | [CHUB link](https://chub.ai/characters/ggr89/ashtir-472e9937) [Catbox link](https://files.catbox.moe/0nb0tb.png)
 
 

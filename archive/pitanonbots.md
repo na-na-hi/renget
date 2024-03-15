@@ -23,8 +23,8 @@ Kaori | (01/7/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www
 Maki | (21/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Maki) | ![](https://files.catbox.moe/l4cyqi.png)
 Suzume | (10/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Suzume) | ![](https://files.catbox.moe/x86rgz.png)
 Suzume's chat | (10/06/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/suzumes-livestream-chat) | https://files.catbox.moe/s4zwuj.png
-Nina | (26/02/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Nina) | ![](https://files.catbox.moe/c6fnhm.png)
-Nina (15) | (16/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/nina-muku/main) | ![](https://files.catbox.moe/sxpwas.png) 
+Nina | (14/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Nina) | ![](https://files.catbox.moe/5i4m34.png)
+Nina (15) | (16/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/nina-muku/main) | ![](https://files.catbox.moe/2o45ko.png) 
  
 ###Osaka Phoenixes
 | Bot's name | Updated | CHUB Link | Card |

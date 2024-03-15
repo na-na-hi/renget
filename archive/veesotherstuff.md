@@ -19,5 +19,26 @@
 ![gus](https://i.imgur.com/2kocYas.png)
 
 ***
+Drawn/%khaki%sketched%% | WIP 
+-----|-----
+lliam | chespin/wooper
+booker/sneasel | beast
+adrian/enny | bill
+fern/ciel | debby
+smith/furret |
+kiyo/%khaki%cassie%% |
+linoone |
+%khaki%chespin/wooper%% |
+nine/luka |
+%khaki%topa/hendrix%% |
+%khaki%bullet/mimi%% |
+%khaki%tooca/lapi%% |
+%khaki%raichu%% |
+%khaki%casey%% |
+beau |
+togetic |
+gus |
+
+***
 
 inspired by [kiyo!](https://rentry.org/kiyoStation)
