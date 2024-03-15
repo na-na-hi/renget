@@ -27,4 +27,5 @@
 - [ ] Fujikura Uruka (China Dress Outfit requested but full prefered)
 - [ ] Biscotti
 - [ ] Miss Lacuna
-- [ ] Reiny (PonyXL) - DATASET: https://files.catbox.moe/leomq5.rar
+- [x] Reiny (PonyXL) - DATASET: https://files.catbox.moe/leomq5.rar
+- [ ] Fraiki

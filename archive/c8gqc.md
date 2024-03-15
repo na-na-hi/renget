@@ -115,7 +115,6 @@
 • Symphonium Meteor (bassy neutral) - $600
 • FATfreq Scarlet Mini (very bassy) - $650
 • Kinera Imperial Urd (bassy neutral) - $650
-• Moondrop S8 (Harman) - $700
 • Letshuoer EJ07 (neutral) - $750
 • Sound Rhyme DTE900 (bright V) - $750
 • 7th Acoustics Supernova (neutral) - $800

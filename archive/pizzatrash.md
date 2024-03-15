@@ -95,72 +95,12 @@ https://desuarchive.org/trash/thread/63523090 /pizzatrash/ 74
 https://desuarchive.org/trash/thread/63737934 /pizzatrash/ 75
 https://desuarchive.org/trash/thread/63967196 /pizzatrash/ 76
 
-#####Aggie
+#####Aggie (R.I.P.)
 
-https://aggie.io/x3co7c7__j PTG AGGIE # 1
-https://aggie.io/1ibkss6n8o PTG AGGIE #2
-https://aggie.io/3n9l0f_9vm /pizzatrash/ Aggie
-https://aggie.io/313wjlvbbz /pizzatrash/ Aggie #2
-https://aggie.io/zhlzhfahu4 /pizzatrash canvas no. 3
-https://aggie.io/hjrmmr6ary pizzatrash aggie 3.5
-https://aggie.io/8nyyh0l4ml pizzatrash, can't stop won't stop
-https://aggie.io/cyfict1ik1 pizzatrash 5 babyyyyy
-https://aggie.io/2d_0z3x7tm /pizzatrash/ Aggie
-https://aggie.io/xvi2waw99y pizzatrash_aggie_the_sequel
-https://aggie.io/8d6uwih4gv pizzatrash aggie 6 - return of coom
-https://aggie.io/xzgbccz1sx Weekend /pizzatrash/ Aggie
-https://aggie.io/i1mediu68v Weekend /pizzatrash/ Aggie 2: Electric Boogaloo
-https://aggie.io/crpsd0m6rw Weekend /pizzatrash/ Aggie 3: Aggie Harder
-https://aggie.io/b4r_jhnt8n /pizzatrash/ Aggie
-https://aggie.io/_siqy17ji2 /pizzatrash/ NEVER ENDS
-https://aggie.io/e3l0p03sat Weekend /pizzatrash/ Aggie
-https://aggie.io/bgw9cr1rzv New Drawing
-https://aggie.io/safe1ymtrj Stop your drama shit and draw
-https://aggie.io/gnfvescewu /pizzatrash/aggie 17 - NEW! AMERICAN STYLE
-https://aggie.io/t1vvw3_o2s Weekend /pizzatrash/ Aggie
-https://aggie.io/ckgwzepkss Another /pizzatrash/ Aggie
-https://aggie.io/6g9zlxbk7g /pizzatrash/ -BIRTHDAY EDITION
-https://aggie.io/f0g2uso4rl /pizzatrash/ DAY AFTER BIRTHDAY EDITION
-https://aggie.io/74j5yvnxye Sunday Funday /pizzatrash/
-https://aggie.io/dmghg518eb /pizzatrash/ Aggie: Happy Hour Edition
-https://aggie.io/h1tk6eg6hk /pizzatrash/ Aggie: SUNDAY SUNDAY SUNDAY Edition
-https://aggie.io/fo8w9mduzw /pizzatrash/ SUPERFUCK WEEKEND
-https://aggie.io/5pdx2jzdvu /pizzatrash/ Aggie: Daddy Day Edition
-https://aggie.io/ugr8fbu79z /pizzatrash/ Aggie: oh god not again Edition
-https://aggie.io/onx7y3eqr5 /pizzatrash/ Aggie: End of June Edition
-https://aggie.io/_ia3r16_h5 /pizzatrash/ Aggie: Meat Lover's Edition
-https://aggie.io/aodbu7wnsb The Weekly /pizzatrash/ Aggie - now with /ptg/!
-https://aggie.io/0_0q_j_7ak /pizzatrash/ aggie NUMA #24 !!
-https://aggie.io/lx8egpmuqs /pizzatrash/ Aggie #25: Supreme Edition
-https://aggie.io/_2jxv4xf3b /pizzatrash/ Aggie #26: Margherita Edition
-https://aggie.io/7xf5oo9wx1 /pizzatrash/ Aggie #27 - Boo! White canvas time.
-https://aggie.io/veul_fpsgp /pizzatrash/ Aggie #28: Neapolitan Edition
-https://aggie.io/icrltc0ro1 /pizzatrash/ Aggie #29: Sicilian Edition
-https://aggie.io/kimv_nzopz /pizzatrash/ Aggie #30: Deep Dish Edition
-https://aggie.io/l5w3rddctl /pizzatrash/ Aggie #31: New York-Style Edition
-https://aggie.io/v20xb5_kev /pizzatrash/ Aggie #32: Hawaiian Edition
-https://aggie.io/e7zfbi0sno /pizzatrash/ Aggie #33: St. Louis-Style Edition
-https://aggie.io/zxavvl7bj8 /pizzatrash/ Aggie #34: Al Taglio Edition
-https://aggie.io/mixzodcbap /pizzatrash/ Aggie #35: Detroit-Style Edition
-https://aggie.io/czifsvkubg /pizzatrash/ Aggie #36: Friday the 13th Edition
-https://aggie.io/phxxndic6q /pizzatrash/ Aggie #37: Stomboli Edition
-https://aggie.io/1rovl1i68e /pizzatrash/ Aggie #38: SCARED SHITLESS!
-https://aggie.io/dnuhnyuhij /pizzatrash/ Aggie #39: NNN Edition
-https://aggie.io/4o2z65ipfy /pizzatrash/ Aggie #40: Caprese Edition
-https://aggie.io/e3upodxwgh /pizzatrash/ Aggie #40... or is it 47?!
-https://aggie.io/o83ts72_0_ /pizzatrash/ Aggie #41: Black Friday Edition
-https://aggie.io/tekc1jfjdo /pizzatrash/ Aggie #42: Panettone Edition
-https://aggie.io/hfax8wimwn /pizzatrash/ Aggie #43: Hanukkah Edition
-https://aggie.io/s6gl3v2fzb /pizzatrash/ Aggie #44: Vin Santo Edition
-https://aggie.io/t6ew_gw23_ /pizzatrash/ Aggie #45: Bocconotto Edition
-https://aggie.io/ikhrs3z7j1 /pizzatrash/ Aggie #46: New Year's Edition
-https://aggie.io/zf3fsw6z75 /pizzatrash/ Aggie #47: Trapanese Edition
-https://aggie.io/gbqjlelvl_ /pizzatrash/ Aggie #48: Frutti di Mare Edition
-https://aggie.io/8hvgj7n1y5 /pizzatrash/ Aggie #49: Yabba Dabba Doo Edition
-https://aggie.io/jboxq1c017 /pizzatrash/ #50: ANNIVERSARY EDITION
-https://aggie.io/vfjfgnb9mg /pizzatrash/ #51: Prosciutto Edition
-https://aggie.io/6ljgvk_ma4 /pizzatrash/ Aggie #52: San Valentino Edition
-https://aggie.io/mskdxbmuyo /pizzatrash/ Aggie #53: Quaresima Edition
-https://aggie.io/xxx2lvck2r /pizzatrash/ Aggie #54: Noise Update Soon Edition
-https://aggie.io/w5ybfoipy_ /pizzatrash/ Aggie #55: Alla Gricia Edition
-https://aggie.io/lzux168e1w /pizzatrash/ Aggie #56: Tarragon Edition
+Aggie has been shut down and replaced with Magma
+This means all the canvases stored on Aggie's servers will be deleted as of today (3/15/24)
+An archive has been compiled, you can access it via the link below
+
+https://mega.nz/folder/qEsU1RBI#c3x6IvJsyAeMPZ_dENZlmQ
+
+![flowers](https://file.garden/YtLpdLutTE5LCcZv/Spr_playerN_animatronic.gif)

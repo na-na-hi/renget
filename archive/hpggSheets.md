@@ -16,6 +16,9 @@
 
 ->[Duelling Sheet](https://files.catbox.moe/9mcc9v.png)<-
 
+->[Detention Sheet (version A)](https://files.catbox.moe/eu8v46.png)<-
+->[(version B)](https://files.catbox.moe/d5sotb.jpg)<-
+
 ->[Combat Info Sheet](https://files.catbox.moe/ncejtw.jpg)<-
 
 ->[RPG Party Sheet](https://files.catbox.moe/fgxcni.jpg)<-

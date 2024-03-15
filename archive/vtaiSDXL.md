@@ -489,6 +489,9 @@
 	Short Hair 2: Clauvio, short hair, shirt, thighhighs, gloves, long sleeves, animal ears, tail, white shirt, grey hair, shorts, black gloves, black thighhighs, grey eyes, mouse ears, mouse tail
 -> [Catbox](https://files.catbox.moe/rjzp54.safetensors) <-
 
+##### -> Saruei <-
+-> [Civitai](https://civitai.com/models/351656/sdxl-lora-saruei-vtuber) <-
+
 #### -> Misc <-
 ***
 ##### -> (Nerissa) Aradia Ravencroft <-
@@ -580,6 +583,9 @@
 -> **or even** <-
 !!! info third lora to test, check tags from [archive](https://warosu.org/vt/thread/S70975134#p71006758)
 -> [Catbox](https://files.catbox.moe/y85mip.safetensors) <-
+-> **OR EVEN THIS** <-
+!!! info fourth lora to test, jesus everyone wants to make one of these two
+-> [Civitai](https://civitai.com/models/352181/mococo-abyssgard-1st-costume-ponyv6) <-
 
 ##### -> Tsunomaki Watame <-
 !!! info 6 Outfits!
@@ -608,6 +614,9 @@
 ##### -> Hoshimachi Suisei <-
 !!! info 8 Outfits!
 -> [Civitai](https://civitai.com/models/321537/hoshimachi-suisei-8-outfits-or-hololive-or-pony-xl) <-
+-> **or** <-
+!!! info no idea how many outfits
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/bvwH3RBb) <-
 
 ##### -> Ceres Fauna <-
 -> [Civitai](https://civitai.com/models/327416/ceres-fauna-for-ponyxl) <-
@@ -717,8 +726,17 @@
 !!! info other outfits, check tags from uploader
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/0BRT0bLT) <-
 
+##### -> Airani Iofifteen <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/LrJDkZSC) <-
+
 ##### -> Kureiji Ollie <-
 -> [Catbox](https://files.catbox.moe/zdn2or.safetensors) <-
+-> **or** <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/3uoFSZAA) <-
+
+##### -> IRyS <-
+!!! info 6 Outfits!
+-> [Civitai](https://civitai.com/models/347781/irys-6-outfits-or-hololive-or-pony-xl) <-
 
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
@@ -766,6 +784,9 @@
 ##### -> Hyakumantenbara Salome <-
 -> [Civitai](https://civitai.com/models/330574/hyakumantenbara-salome-nijisanji-ponyxl) <-
 
+##### -> Rosemi Lovelock <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/fyoVRJ6L) <-
+
 #### -> Phase Connect <-
 -> ![PHASE-CONNECT](https://files.catbox.moe/fv0h8r.png) <-
 ***
@@ -774,6 +795,12 @@
 
 ##### -> Kaminari Clara <-
 -> [Civitai](https://civitai.com/models/342486/kaminari-clara-ponyxl) <-
+
+##### -> (OriginS) Tenma Maemi <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/GmQVGDLB) <-
+
+##### -> (OriginS) Fujikura Uruka <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/v2BDgLIB) <-
 
 #### -> 774 inc <-
 -> ![Nanashiinku](https://files.catbox.moe/cqfbty.png) <-
@@ -788,6 +815,9 @@
 ##### -> (Gen 4) Nagare Sara <-
 -> [Catbox](https://files.catbox.moe/ilnqp6.safetensors) <-
 
+##### -> (Gen 3) Miyoshino Shiki <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/zyZWVLqB) <-
+
 #### -> VShojo <-
 -> ![VSHOJO](https://files.catbox.moe/35i05q.png) <-
 ***
@@ -796,6 +826,12 @@
 
 ##### -> Nyatasha Nyanners <-
 -> [Civitai](https://civitai.com/models/332979/nyanners-vtuber) <-
+
+##### -> Apricot/Froot <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/D6ZH1ZKJ) <-
+
+##### -> Haruka Karibu <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/XnRXDT6L) <-
 
 #### -> OWOzu <-
 -> ![OWOZU](https://files.catbox.moe/57hwxm.png) <-
@@ -836,6 +872,21 @@
 ##### -> Neuro-sama V2 <-
 !!! info evil neuro and vedal included?
 -> [Civitai](https://civitai.com/models/346405/neuro-sama-for-ponyxl) <-
+
+##### -> Buffpup <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/2zQ0XBTC) <-
+
+##### -> Sinder <-
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/yyRhjL5L) <-
+
+##### -> Reiny <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	reiny, yellow eyes, horns, short hair, grey hair, ahoge, braid, hair ornament, choker, neckerchief, serafuku, jacket, open jacket, long sleeves, pleated skirt, black skirt, thigh strap, black socks, kneehighs, orange footwear
+-> [Catbox](https://files.catbox.moe/0o3xa1.safetensors) <-
+-> **or** <-
+!!! info check tags from metadata?
+-> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/TroQCBRJ) <-
 
 #### -> Misc <-
 ***

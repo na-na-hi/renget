@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 8th March. All dates dd/mm.
+!!! Note Last updated: 15th March. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -106,13 +106,13 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
-777 | Soras5Head | Open as of 05/03
+6 | Arona#1 | Open as of 12/03
+777 | Soras5Head | Open as of 09/03
 12395 | 中出しの幸せ (cumshot happiness) | Open as of 04/03
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-6 | Arona#1 | Full as of 06/03
 90 | Bullies | Full as of 08/12
 244 | Cute&Funny | Full as of 10/11
 286 | カニ (Kani - crab for dekinais) | Full as of 24/10
@@ -164,13 +164,13 @@ Club ID | Club Name | Club Status
 ##### Open
 Club ID | Club Name | Club Status
 --: | -- | ----
+694 | ArisSoft | Open as of 10/03
 6208 | Cūnnysseurs | Open as of 12/10
 18777 | Freikorps | Open as of 22/12
 
 ##### Full
 Club ID | Club Name | Club Status
 --: | -- | ----
-694 | ArisSoft | Full as of 02/02
 1559 | Remedial_Club | Full as of 07/08
 3364 | SoraMilk | Full as of 28/11
 4696 | Shiroko's | Full as of 21/11

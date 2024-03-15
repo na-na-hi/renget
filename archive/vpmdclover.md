@@ -263,7 +263,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
 	* [A Day as a Sheep (ft. Macom)](https://rentry.org/ymnk4)
-* Makky the Makuhita
+* !~%green%[Makky the Makuhita](https://rentry.org/greatbulkhomepage)%%~!
     * [The Great Bulk ch. 1 (ft. Makky)](https://rentry.org/GreatBulk1)
     * [The Great Bulk Guide](https://rentry.org/BulkGuide)
     * [The Great Bulk Interlude 1 (ft. Makky)](https://rentry.org/GreatBulkInter1)
@@ -283,6 +283,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [The Great Bulk ch. 8.5 (ft. Makky)](https://rentry.org/GreatBulk8-5)
 	* [The Platinum Syndicate Part 1: Business is Blooming (ft. Makky)](https://rentry.org/Platinum1)
 	* [The Great Bulk ch. 9 (ft. Makky)](https://rentry.org/GreatBulk9)
+	* [The Platinum Syndicate Part 2: Cracking the Coffers (ft. Makky)](https://rentry.org/Platinum2)
 * Mandibuzz
 	* [Team Crossbones Intro](https://rentry.org/rib543ei)
 * Maxi the Trubbish
@@ -314,8 +315,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * Porygon
 	* [Hello, World! (ft. Porygon)](https://rentry.org/pmdhelloworld)
 	* [Abort, Retry, Fail (ft. Porygon)](https://rentry.org/pmdabortretryfail) **Non-Canon Story**
-* Rain the Eevee
-	* [Additional Drawings](https://rentry.org/veesotherstuff)
+* !~%green%[Rain the Eevee](https://rentry.org/veesotherstuff)%%~!
 	* [Rain Prologue](https://rentry.co/ww6axip9)
 	* [Achoos You (ft. Rain)](https://rentry.org/zx6cwsz3)
 * Rasmus the Spinarak
@@ -611,6 +611,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [One-Leaf Clover (ft. Cider)](https://rentry.org/CiderEntry001)
 * [Within Me ch. 2 (ft. Beau)](https://rentry.org/WithinMe2)
 * [A Ribombee's Anniversary](https://rentry.org/RibombeeAnniversary)
+* [The Platinum Syndicate Part 2: Cracking the Coffers (ft. Makky)](https://rentry.org/Platinum2)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

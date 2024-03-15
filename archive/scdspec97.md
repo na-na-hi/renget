@@ -1,4 +1,19 @@
 # SCDSPEC97
+Refsheet coming in 3 business days or less!
+This directory contains the most frequently downloaded Kubuntu images. Other images, including DVDs and source CDs, may be available on the cdimage server. See also the list of download mirrors.
+Select an image
+
+Kubuntu is distributed on two types of images described below.
+Desktop CD
+
+The desktop CD allows you to try Kubuntu without changing your computer at all, and at your option to install it permanently later. This type of CD is what most people will want to use. You will need at least 384MB of RAM to install from this CD.
+
+There are two images available, each for a different type of computer:
+
+PC (Intel x86) desktop CD
+    For almost all PCs. This includes most machines with Intel/AMD/etc type processors and almost all computers that run Microsoft Windows, as well as newer Apple Macintosh systems based on Intel processors. Choose this if you are at all unsure.
+64-bit PC (AMD64) desktop CD
+    Choose this to take full advantage of computers based on the AMD64 or EM64T architecture (e.g., Athlon64, Opteron, EM64T Xeon, Core 2). If you have a non-64-bit processor made by AMD, or if you need full support for 32-bit code, use the Intel x86 images instead. 
 
 I had caught wind of a new Sonic CD leak over Twitter the other day because a bunch of people I followed were talking about it. It was a version of Sonic CD's PC port dated to September of 1997 that never saw the light of day which had leaked out and was apparently taken down by SEGA which was weird since they don't usually do that. The prototype itself seemed...uninteresting to say the least. Someone said it had no visible changes, another said it had 3D special stages, upgraded from the faux 3D Mode 7 of the original game...another was schizoposting about how one of the levels turned their life into a living nightmare, not sure why I bothered reading it. Somehow, I concluded it was worth checking out, so I scoured the internet for hours trying to find a download link without much luck at all.
 
@@ -62,10 +77,9 @@ I was outright shocked, I'd heard and used that kind of language before, but I w
 
 I got bored of this quickly and closed the game. I wanted to see if I could reset the game so I roamed through the files, registry, AppData, and deleted as much of what looked like the game's savedata as I could, but nothing worked and it was still just "Workbench CD". I decided at that point that I'd seen enough and just deleted the game.
 
-A day later I re-opened the VM only to find that every game installed on it had been hooked into, replacing their contents with a looping version of Wacky Workbench's second zone, then it clicked for me just why this was taken down so fast. I can only imagine how much worse it would be if it were my actual machine running it.
+A day later I re-opened the VM only to find that every program installed on it had been essentially broken, only opening the executable for Workbench CD, and then it finally clicked for me why SEGA was so adamant about taking this build down, since it was essentially a virus, an official virus no less, but why did it exist? Did this get the planned game cancelled? At least it couldn't run on my main machine, so there's that...
 
 !!! note separator
 
 https://files.catbox.moe/sbf0qu.zip
 archive of all older versions including htms and txts
-https://litter.catbox.moe/7kxcc3.mp4

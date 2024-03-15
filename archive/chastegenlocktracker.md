@@ -37,5 +37,6 @@ _(Updated 07-Mar-2024)_
 | KennedyShotFirst | https://chaster.app/sessions/j3GyjDdj7J9D0pRJ | === |
 | SaraVess | https://chaster.app/sessions/EaSbceiJjpITeiKV | === |
 | ShiShi | https://chaster.app/sessions/sFfZDNA5uuYqqKjX | === |
-|  |  |  |
+| SissyDoll | https://chaster.app/sessions/yKHhcAYenyyIVNjs | === |
+| MissMazie | https://chaster.app/sessions/lxS592Mt6iQWBC9s | === |
 |  |  |  |

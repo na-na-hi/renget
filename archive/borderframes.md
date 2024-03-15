@@ -1,2 +1,9 @@
-->[![return home](https://files.catbox.moe/ypd5d3.png)](https://rentry.co/border)
-![](https://files.catbox.moe/krbwaa.png)<-
+[%#000000%**↺**%%](border)
+->![](https://files.catbox.moe/vjbufz.png)
+![](https://files.catbox.moe/7c071t.png)
+![](https://files.catbox.moe/q0v70j.png)
+![](https://files.catbox.moe/61fv89.png)
+![](https://files.catbox.moe/vjbufz.png)<-
+***
+***
+![](https://files.catbox.moe/fsbqhf.png)

@@ -4,6 +4,8 @@
 
 #Pending Requests
 
+1. Misfits as the YIIK protagonists fighting Minior Proto Comet with an (more?) evil Cynda's face on it, complete with game UI. Perhaps the protocomet's face could be the >What are your fetishes Cynda face
+
 1. One or both of these bizarro alternate universe ships: https://files.catbox.moe/y9tji2.png
 
 1. Error undergoing therapy with Bill.

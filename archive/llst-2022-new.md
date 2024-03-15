@@ -68,11 +68,12 @@ https://incorgnito.cc/
 https://rentry.org/llst-2021-02-bkup
 ***
 ##QoL regex filters
-**Improved** non-intrusive filter for 4chanx that massively improves thread readability. ==Last updated: 04/27/2023==
+**Improved** non-intrusive filter for 4chanx that massively improves thread readability. ==Last updated: 03/16/24==
 !!! warning Warning
 	These filters are only tested, and are only recommended to work on 4chanx 
 **Comment field**
 ``` javascript
+#LAST UPDATED: 03/16/24
 #/jp/ QoL Troll spammer filter
 /(?=.*maria)(?=.*troll).*$/i;boards:jp;subject:love live
 /(?=.*chunrun)(?=.*troll).*$/i;boards:jp;subject:love live
@@ -87,30 +88,30 @@ https://rentry.org/llst-2021-02-bkup
 /(?=.*chunrun)(?=.*troll shit).*$/i;boards:jp;subject:love live
 /(?=.*maria)(?=.*troll shit).*$/i;boards:jp;subject:love live
 /(?=.*nijigasaki)(?=.*troll shit).*$/i;boards:jp;subject:love live
-/troll piece of shit/i;boards:jp;subject:love live
-/orctaku/i;boards:jp;subject:love live
-/genturd/i;boards:jp;subject:love live
-/yudu/i;boards:jp;subject:love live
-/mippi/i;boards:jp;subject:love live
-/ibuki/i;boards:jp;subject:love live
-/so now what/i;boards:jp;subject:love live
-/florcita/i;boards:jp;subject:love live
-/miumi/i;boards:jp;subject:love live
-/karen/i;boards:jp;subject:love live
-/rinna/i;boards:jp;subject:love live
-/kaho/i;boards:jp;subject:love live
-/koha/i;boards:jp;subject:love live
-/koharu/i;boards:jp;subject:love live
-/moa/i;boards:jp;subject:love live
-/mia/i;boards:jp;subject:love live
-/rinnya/i;boards:jp;subject:love live
-/rukitty/i;boards:jp;subject:love live
-/nao/i;boards:jp;subject:love live
-/feral nao/i;boards:jp;subject:love live
-/juli/i;boards:jp;subject:love live
-/rukita/i;boards:jp;subject:love live
-/julicopter/i;boards:jp;subject:love live
-/\*off\*/i;boards:jp;subject:love live
+/^troll piece of shit$/i;boards:jp;subject:love live
+/\borctaku\b/i;boards:jp;subject:love live
+/\bgenturd\b/i;boards:jp;subject:love live
+/\byudu\b/i;boards:jp;subject:love live
+/\bmippi\b/i;boards:jp;subject:love live
+/\bibuki\b/i;boards:jp;subject:love live
+/\bflorcita\b/i;boards:jp;subject:love live
+/\bmiumi\b/i;boards:jp;subject:love live
+/\bkaren\b/i;boards:jp;subject:love live
+/\brinna\b/i;boards:jp;subject:love live
+/\bkaho\b/i;boards:jp;subject:love live
+/\bkoha\b/i;boards:jp;subject:love live
+/\bkoharu\b/i;boards:jp;subject:love live
+/\bmoa\b/i;boards:jp;subject:love live
+/\bmia\b/i;boards:jp;subject:love live
+/\brinnya\b/i;boards:jp;subject:love live
+/\brukitty\b/i;boards:jp;subject:love live
+/\bnao\b/i;boards:jp;subject:love live
+/\bferal nao\b/i;boards:jp;subject:love live
+/\bjuli\b/i;boards:jp;subject:love live
+/\bstardust\b/i;boards:jp;subject:love live
+/\brukita\b/i;boards:jp;subject:love live
+/\bjulicopter\b/i;boards:jp;subject:love live
+/\b\*off\*\b/i;boards:jp;subject:love live
 ```
 
 **Image MD5 Filter**
@@ -543,8 +544,9 @@ BluRay (Miyagi/Saitama + Making Of) - [1080p](https://lovelive-es.blogspot.com/2
 
 Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
 KALEIDOSCORE ver - [1080p](https://nyaa.si/view/1707116) /  [720p](https://nyaa.si/view/1707506)
-Catchu! ver - [1080p](https://nyaa.si/view/1709468) / [720p](https://nyaa.si/view/1709926)
+Catchu! ver - [1080p](https://nyaa.si/view/1709468) /  [720p](https://nyaa.si/view/1709926)
 5yncri5e! ver -  [1080](https://nyaa.si/view/1716100) / [720](https://nyaa.si/view/1716321)
+Commentary (Catchu and 5yncri5e only) - [1080p ](https://nyaa.si/view/1788609)
 
 Liella! 5th LoveLive!～Twinkle Triangle～
 Fukuoka D1D2 - [1080P PIA WEBRip](https://nyaa.si/view/1769448) ![](https://files.catbox.moe/c95yx7.gif)

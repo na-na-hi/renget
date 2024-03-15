@@ -30,8 +30,8 @@ sizeshifting | At least one character regularly varies their size on an imperman
 miniGTS | The size difference below 5x. This tag is used for both male and female giants
 franchise | There is at least one other relevant title sharing major elements of the entry
 furry | The work appears to be from the furry community
-animal | The size difference is due to the natural sizes of animals
-inhuman | The size difference characters are humanoid but not much more. This tag is for sapient mecha, more traditional giants, insectoid tinies, etc.
+animal | One or more of the size difference characters are animals. This tag is only for animals who are proper characters.
+inhuman | One or more of the size difference characters are humanoid, but not much more. This tag is for sapient mecha, grotesque giants, insectoid tinies, etc.
 --- | ---
 Topic | The work is on some level about size difference
 Protagonist | The protagonist is an unusual size
@@ -711,6 +711,12 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Hoppity Hooper - s02e19, s02e20
  * Hotel Transylvania: The Series - e05a
  * Hoze Houndz - s01e11b
+ * Jack and the Beanstalk (1990)
+ * Jack and the Beanstalk (1974)
+ * Jack and the Beanstalk (1999)
+ * Jack and the Beanstalk (1933)
+ * Jack and the Beanstalk (1931)
+ * FernGully 2: The Magical Rescue
 
 #### Lost
  * Gigantic | cancelled
@@ -729,7 +735,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
 --- | --- | --- | --- | --- | ---
 ![](https://thumbs2.imgbox.com/ee/89/b0KCmvRe_t.jpg) | The 30 Foot Bride of Candy Rock | Artie Pinsetter is a junk collector and amateur inventor who lives in the desert town of Candy Rock. Artie's fiancée, Emmy Lou Raven, is exposed to radiation in a cave and is thereby transformed into a thirty-foot giant. When Artie nervously explains to his betrothed's rich uncle that she has gotten "big", the uncle misunderstands "big" as "pregnant", and insists that Artie marry her immediately. | SFW, F&m, growth | Topic | 
 ![](https://thumbs2.imgbox.com/11/7b/pWmpE63q_t.jpeg) | Attack Of The 50 Foot Centerfolds |  A magazine centerfold overdoses on a beauty-enhancement drug and grows 60 feet tall. | NSFW, F&m, growth | Topic |
-![](https://thumbs2.imgbox.com/b4/30/6ALek1mM_t.jpg) | Attack Of The 50 Foot Cheerleader | Cassie works in the Biology Building of the University, where she and her friend Kyle are working on a drug that turns things beautiful. In the night, Cassie steals the drug and injects herself with it. While she does become beautiful and makes the cheer squad when one of the cheerleaders is injured, she then discovers the drug has a side effect when she starts to grow taller and taller until she is a giantess. | SFW, F&mf, growth | Topic |
+![](https://thumbs2.imgbox.com/b4/30/6ALek1mM_t.jpg) | Attack Of The 50 Foot Cheerleader | Cassie works in the Biology Building of the University, where she and her friend Kyle are working on a drug that turns things beautiful. In the night, Cassie steals the drug and injects herself with it. While she does become beautiful and makes the cheer squad when one of the cheerleaders is injured, she then discovers the drug has a side effect when she starts to grow taller and taller until she is a giantess. | SFW*, F&mf, growth | Topic |
 ![](https://thumbs2.imgbox.com/19/61/asX1QvvH_t.jpeg) | Attack of the 50 Foot Woman (1958) | When an abused socialite grows to giant size because of an alien encounter and an aborted murder attempt, she goes after her cheating husband with revenge on her mind. | SFW*, F&m, growth | Topic |
 ![](https://thumbs2.imgbox.com/1a/98/cERfNwYU_t.jpeg) | Attack of the 50 Foot Woman (1993) | When an abused heiress grows to giant size because of her encounter with aliens, she decides to get revenge on her cheating husband and those who annoyed her. | SFW*, F&m, growth | Topic | 
  ![](https://thumbs2.imgbox.com/7c/6d/hTALV9Eo_t.jpg) | The Borrowers (1973) | An eight-year-old boy discovers a family of tiny people, only a few inches tall, living beneath the floorboards of a Victorian country home. | SFW | Topic |
@@ -809,6 +815,49 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * The Indian In The Cupboard
  * The Secret Kingdom (1998) | minor 
  * Welcome to Marwen
+ * The Gnome-Mobile (1967)
+ * Gulliver's Travels (1996)
+ * Hercules: The Legendary Journeys | titans, echidna, s4e01
+ * Jim Henson's Fraggle Rock | inhuman?
+ * Jack the Giant Killer (1962) | A farmboy-turned-knight must protect a princess from the schemes of an evil wizard.
+ * Jack the Giant Slayer (2013) | The ancient war between humans and a race of giants is reignited when Jack, a young farmhand fighting for a kingdom and the love of a princess, opens a gateway between the two worlds. | sfw, inherent, inhuman | Antagonists |
+ * Jack and the Beanstalk (2009)
+ * Jack and the Beanstalk (1952) | probably no size diff, given the trailer
+ * Jack and the Beanstalk (1967) | mixed live action & animation
+ * Jack and the Beanstalk: The Real Story (2001) | The bones of a giant are discovered. This turns Jack Robinson's life upside down as he learns the truth behind the fairy tale and how he can fix his greedy ancestor's mistakes.
+ * Jack and the Beanstalk (1998)
+ * Jack and the Beanstalk (1965) | dubious 
+ * Jack and the Beanstalk (1970) | dubious
+ * Jack and the Beanstalk: After Ever After (2020)
+ * Jack and the Beanstalk (2020) | dubious, looks like miniGTS at best
+ * Jack and the Beanstalk (2014)
+ * Legend (1985) | minor
+ * The Bride of Frankenstein (1935) | doctor pretorius' homunculi, minor
+ * The 7th Voyage of Sinbad (1958)
+ * Sinbad and the Eye of the Tiger (1977) | minor
+ * The Adventures of Baron Munchausen (1988) | minor
+ * Time Bandits | minor, may be either show or movie
+ * The Fallen Ones (2005)
+ * Honey, I Shrunk the Kids: The TV Show | e01, e05, e65 - is that really it? lmao
+ * Ulysses (1954)
+ * The Odyssey (1997)
+ * The Thief of Bagdad (1940)
+ * The Hobbit: An Unexpected Journey | minor
+ * Gilligan's Island | s02e 13 or 30? beanstalk, dubious
+ * I Dream of Jeannie | bottle scenes, dubious
+ * Lexx | s01e03, s04e23
+ * Army of Darkness | minor
+ * Meet Dave
+ * Giantess Attack
+ * Giantess Battle Attack
+ * Giantess Attack vs. Mecha Fembot 
+ * Attack of the 50 Foot CamGirl
+ * A Writer's Odyssey | ending?
+ * Cosmoball | miniGTS?
+ * The Lost Saucer | s01e02
+ * Far Out Space Nuts | e14?
+ * Crank: High Voltage | minor kaiju?
+ * Amazing Stories (1985-1987) | s02e02
 
 #### Minor
  * Attack of the 50 Foot Hooker | short rampage at the end
@@ -817,6 +866,17 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Dude, Where's My Car? (2000) | short rampage at climax
  * Green Knight (2021) | [YouTube Clip](https://www.youtube.com/watch?v=7TZWG8OpPZ8)
  * Pirates of the Caribbean: At World's End | [YouTube Clip](https://www.youtube.com/watch?v=9jybCMJn3uE)
+
+#### Lost
+ * Jack and the Beanstalk (1922)
+
+## Music Videos & Advertisements
+ * Alpenliebe monkey | sfw, M&f, miniGTS, inherent, inhuman | [1 YouTube](https://www.youtube.com/watch?v=GDrB9agUdOU), [2 Youtube](https://www.youtube.com/watch?v=v3zsZ3RVMsc)
+ * Spice Girls - Viva Forever | sfw, ?&F, inherent, fairies, inhuman
+ * Lit - Miserable | SFW, F&m, inherent
+ * The Cars - You Might Think | SFW, F&m, M&f, sizeshifting
+ * Pete Townshend - A Friend Is A Friend | SFW, M&m, inherent, inhuman
+ * Michael Jackson - Leave Me Alone | SFW
 
 ## Sources
  * Anime-Planet
