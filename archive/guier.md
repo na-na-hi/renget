@@ -25,11 +25,12 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 :----: | :----: | :----: | :----: 
 **[What Is Star Citizen/Squadron42?](https://rentry.org/guier/#what-is-star-citizensquadron-42)** | **[Star Citizens Gameplay Performance](https://rentry.org/guier/#star-citizens-gameplay-performance)** | **[Which Starter Pack Should I Choose?](https://rentry.org/guier/#which-starter-pack-should-i-choose)** 
 **[What is there to do in-game?](https://rentry.org/guier/#what-is-there-to-do-in-game)** | **[Pledge Store Overview & FAQ(WIP)](https://rentry.org/guier/#pledge-store-overview-faqwip)** | **[The In-Game Tutorial](https://rentry.org/guier/#the-in-game-tutorial)** | 
-**[Should I consider playing the game?](https://rentry.org/guier/#should-i-consider-playing-the-game)** | **[The Many Different Testing Environments](https://rentry.org/guier/#the-many-different-testing-environments)** | **[Best Way To Start Making Money?(WIP)](https://rentry.org/guier/#best-way-to-start-making-moneywip)** 
-**[Freefly Events](https://rentry.org/guier/#freefly-events)**  | **[The Public Roadmap](https://rentry.org/guier/#the-public-roadmap)** | **[Upgrading Your Ship](https://rentry.org/guier/#upgrading-your-ship)** 
-| **[The Issue Council](https://rentry.org/guier/#the-issue-council)** | **[Crime & Punishment](https://rentry.org/guier/edit#crime-punishment)**
-| **[Arena Commander](https://rentry.org/guier/#arena-commander)** | **[PvA Content](https://rentry.org/guier/#pva-content)** 
-| **[The Mobi-Glass(WIP)](https://rentry.org/guier/#the-mobi-glass)** | **[Useful 3rd Party Tools](https://rentry.org/guier/#useful-3rd-party-tools)** 
+**[Should I consider playing the game?](https://rentry.org/guier/#should-i-consider-playing-the-game)** | **[The Many Different Testing Environments](https://rentry.org/guier/#the-many-different-testing-environments)** | **[The Mobi-Glass(WIP)](https://rentry.org/guier/#the-mobi-glass)**
+**[Freefly Events](https://rentry.org/guier/#freefly-events)**  | **[The Public Roadmap](https://rentry.org/guier/#the-public-roadmap)** | **[Best Way To Start Making Money?(WIP)](https://rentry.org/guier/#best-way-to-start-making-moneywip)** 
+| **[The Issue Council](https://rentry.org/guier/#the-issue-council)** | **[Upgrading Your Ship](https://rentry.org/guier/#upgrading-your-ship)** 
+| **[Arena Commander](https://rentry.org/guier/#arena-commander)** | **[Crime & Punishment](https://rentry.org/guier/#crime-punishment)**
+| |**[Dynamic Event Missions](https://rentry.org/guier/#dynamic-event-missions)**
+| | **[Useful 3rd Party Tools](https://rentry.org/guier/#useful-3rd-party-tools)** 
 
 ***
 ***
@@ -386,16 +387,14 @@ In your report, it is also recommended to have video recordings (preferably) or 
 !!! danger WIP
 ***
 ***
-###->The Mobi-Glass<-
-!!! danger WIP
-***
-***
 ## ->Getting Started<-
 **->[Which Starter Pack Should I Choose?](https://rentry.org/guier/#which-starter-pack-should-i-choose)<-
 ->[The In-Game Tutorial](https://rentry.org/guier/#the-in-game-tutorial)<-
+->[The Mobi-Glass(WIP)](https://rentry.org/guier/#the-mobi-glass)<-
 ->[Best Way To Start Making Money?(WIP)](https://rentry.org/guier/#best-way-to-start-making-moneywip)<-
-->[PvA/Dynamic Event Missions](https://rentry.org/guier/#pvadynamic-event-missions)<-
-->[Upgrading Your Ship(WIP)](https://rentry.org/guier/#upgrading-your-shipwip)<-
+->[Upgrading Your Ship](https://rentry.org/guier/#upgrading-your-ship)<-
+->[Crime & Punishment](https://rentry.org/guier/#crime-punishment)<-
+->[Dynamic Event Missions](https://rentry.org/guier/#dynamic-event-missions)<-
 ->[Useful 3rd Party Tools](https://rentry.org/guier/#useful-3rd-party-tools)<-**
 
 **[Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)**
@@ -446,7 +445,7 @@ $60+ Starter Packs: | Breakdown:
 [Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)
 !!! warning Make sure that "Show Hints", "Control Hints" and "Ship Entry Labels Enabled" are toggled to "Yes" in "ESC>Options>Game Settings" for the tutorial (is enabled by default).
 
-When you first boot up the game and make your character, it will bring up the option to take a beginner tutorial. **I recommend you do this if you are very new to Star Citizen**. It's a decent step-by-step guide that will take you through the very basics of playing inside the Persistent Universe and should take you no more than **25 minutes to complete**. 
+When you first boot up the game and make your character, you will be prompted to take a beginner tutorial. **I recommend you do this if you are very new to Star Citizen**. It's a decent step-by-step guide that will take you through the very basics of playing inside the Persistent Universe and should take you no more than **25 minutes to complete**. 
 
 ->![tutorial popup](https://files.catbox.moe/8zh74d.png)<-
 
@@ -469,6 +468,11 @@ You begin on waking up in the habitation module inside the city of [New Babbage]
 ![crop](https://files.catbox.moe/4uzg9y.png)
 
 - [x] To avoid having to hold down **`W`** all the time to fly forward, activate cruise control with **`Left Alt` + `C`**. **Any movement input during cruise control will cancel it**.
+***
+***
+###->The Mobi-Glass<-
+!!! danger WIP
+***
 ***
 ###->Best Way To Start Making Money?(WIP)<-
 ***
@@ -522,13 +526,13 @@ To change your ships components, open your Mobi-Glass (default `F1`) and head ov
 - **Missile Slot** – You can slot different types of missiles for a variety of uses. These include Cross-section (CS), Electromagnetic (EM), and Infrared (IR).
 
 
-Let’s start with guns. There are two major distinctions between ship guns – ballistic and energy. 
+Let’s start with the weapon types. There are two major distinctions between ship guns – ballistic and energy. 
 
-- **Ballistic guns** have a set amount of ammunition that needs to be refilled at any landing zone. Ballistics can partially penetrate an enemies shield and deal direct hull damage.
+- **Ballistic weapons** have a set amount of ammunition that needs to be refilled at any landing zone. Ballistics can partially penetrate an enemies shield and deal direct hull damage.
 
 - **Energy weapons** have a set amount of shots before they need to recharge – referred to as capacitors. The more energy weapons you equip, the lower the amount of shots before the need to recharge. Energy weapons do not “run out” of ammo like ballistic guns, but are completely stopped by enemy shields.
 
-**The different types of ship weapons:**
+#####**The different types of ship weapons:**
 !!! info As of right now, Cannons and Scatterguns are not recommended for PvP
 
 - **Cannons:** Cannons have a slow projectile speeds, and hard-hitting initial damage. 
@@ -558,15 +562,15 @@ As well as components and weapons, certain ships have special mounts to fulfill 
 
 ####Gimbal vs Fixed – What’s the difference?
 
-As a pilot, you can decide whether you want to have fixed weapons or gimballed weapons. 
+As a pilot, you can decide whether you want to have fixed weapons or gimballed weapons (some ships like the Ares, have fixed bespoke weapons that cannot be gimballed). 
 
 **Fixed** weapons fire at a converging point at a certain distance. They are are recommended for maneuverable and nimble ships – such as fighters. Slower and more cumbersome ships should equip **gimballed weapons**. 
 
-Gimballed weapons are one size smaller than the weapon's hardpoint. To gimbal a weapon slot, you need an appropriate-sized Varipuck Gimbal mount to occupy the weapon hardpoint slot.
+**Gimballed** weapons have a -1 weapon size penalty for the ability to automatically aim at a ship within an 8° cone in front of your ship. To gimbal a weapon slot, you need an appropriate-sized Varipuck Gimbal mount to occupy the weapon hardpoint slot, and they can also be toggled between fixed and gimballed mode with the default `G` key
 
 ![gimbald slot](https://files.catbox.moe/5fh74k.png)
 
-As an example – let’s say you have an Aegis Gladius. You can either have 3x Size 3 fixed guns on it or 3x Size 2 gimballed weapons on it. Gimballed weapons will automatically aim at a ship within an 8° cone in front of your ship. This can be toggled on and off with the default `G` key.
+As an example – let’s say you have an Aegis Gladius. You can either have 3x Size 3 fixed guns on it or 3x Size 2 gimballed weapons on it. 
 
 ####What to Upgrade First?
 !!! note The tool you and everyone else will be using to outfit your ship and determine what cooling/power requirements it needs is https://www.erkul.games/. Erkul will also list out all the components, aUEC price, and the store location(s) where to buy them.
@@ -593,26 +597,10 @@ Ships components and weapons can either be bought in shops such as Cousin Crows,
 
 ***
 ###->Crime & Punishment<-
+!!! danger WIP
 ***
-###->PvA Content<-
-[Back to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)
-
-Accessed under the **"Personal" tab**, there are a couple unique missions available to the entire server 24/7 that are fun open world PvA opportunities to make large amounts of credits. They act as bite sized versions of CIG's ["Dynamic Event Missions."](https://rentry.org/guier/#dynamic-event-missions)
-***
-- **Money From Nothing**
-
-Money from nothing could be described as a sort of "king of the hill" that prints cash indefinitely the longer you can defend. It takes place inside a Reclaimer crashsite turned pirate outpost called "[Ghost Hollow](https://starcitizen.tools/Ghost_Hollow)", located on the planet [Microtech](https://starcitizen.tools/MicroTech_(planet)).
-
-[This video](https://www.youtube.com/watch?v=Q9MwpLVGEaw) does a great job giving an overview on this mission and explaining all the steps required to start making free creds. The 2 money printing terminals inside the crashed ship can net you up to **600k aUEC/hr, 150k per terminal**. 
-
-- **In the Wake of Disaster**
-
-This mission is a salvager's dream come true. For a **150k aUEC fee**, the mission will take you very far off-grid into a ship graveyard, full of small and large ships. The real money comes from the valuable cargo/drugs that spawns inside the wrecks.
-
-The caveat with this mission is that you **can't share it with your party members like with most other missions**; they either have to pay the 150k fee or just simply hop in a multicrew ship together while you plot the course. As this can technically be solo'd, you do have to travel very far out, and it is also a hotspot for PvP as others fight for control over these wrecks, so it's best that you get a group going with a ship large enough to take the journey and the goods back.
-***
-####->Dynamic Event Missions<-
-Dynamic Event's missions encourage server wide participation, either to work together against a large enemy faction in PvE or a dedicated PvP zone (like Jumptown) for big payouts. These operate on a specific schedule that CIG will announce in a dedicated forum post. When they are active, the mission can be accessed under **"Priority"** in the contracts manager.
+###->Dynamic Event Missions<-
+Dynamic Event's missions encourage server wide participation, either to work together against a large enemy faction in PvE or a dedicated PvP zone (like Jumptown) for big payouts. These operate on a specific schedule that CIG will announce in a dedicated forum post. When they are active, the mission can be accessed under **"Priority"** in the contracts manager. Here are some of the more frequent events CIG includes with a quarterly patch.
 
 - **[XenoThreat - Assault on Stanton](https://robertsspaceindustries.com/comm-link/transmission/18510-XenoThreat-For-New-Players)**
 

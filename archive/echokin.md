@@ -89,8 +89,8 @@ I relate more with the nonhuman label than alterhuman or anything similar
 - **Ganyu**, GI. **Aladdin**, Magi. **The Collector**, TOH. **Glisgor**. **Neferpitou**, HXH. Fancy Pigeon / dove. 
 - **Shalltear**, Bloodfallen. **Ghost. Lana,** Pokemon. **Spider. Mami**, Madoka Magica. **Snow Leopard. Fancy Mouse**
 - **Liloette**, Dofus. **Pomegranate Cookie**. **Mienshao**. **Ruby**, Jewelpet. **Serval. Harley Quinn**, DC. 
-- **Lumine**, GI. **Sunkern. Treecko. Senko. Sloth Bear. Sun Bear. Starfire.**
-- **Black Bear. Fluffle Puff. Grizzly Bear. Lake**, IT. **Timekeeper Cookie**, **Lilligant**.
+- **Lumine**, GI. **Sunkern. Treecko. Senko. Sloth Bear. Starfire.**
+- **Fluffle Puff. Lake**, IT. **Timekeeper Cookie**, **Lilligant**.
 - **Adorabat,** Mao Mao. **Madoka,** Madoka Magica. **Panda,** We Bare Bears. **Custard**, Strawberry Shortcake.
 - **Sphinx**, Puyo Puyo. **Shino**, AC. **Shoebill**, Kemono Friends. **Cyan**, Show By Rock. **Isabelle**, AC. **Peck**, AJ. **Moxxie**, HB
 - **Lois Griffin**. **Stewie Griffin**. **Wynaut**. **Riolu**. **Legoshi**, Beastars. **May**, Pokemon.

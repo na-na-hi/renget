@@ -141,18 +141,22 @@ Q2: Did you previously have any other accessories besides that old scarf?
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
 Q2: Have you ever tried sucking a beverage into your trunk and then spraying it into your mouth to drink it, like elephants do?
+Q3: Just how useful is that trunk?
 
 ###Totodile
 Q1: What's the market like for alcohol in the Pokemon world?  Is there a good variety, or is it sometimes disappointing?
 Q2: Favorite drink?
+Q3: Are there any guildmates that you'd like to take out for a few rounds?
 
 ###Cyndaquil
 Q1: Someone ever accepted to go on a date with you, or outplayed you in being... well, *you*?
 Q2: Were you a coomer as a human too, or did something about your mindset change once you became a Cyndaquil?
+Q3: Someone like you has surely been attacked for your advances. What's the worst it's ever gotten?
 
 ###Torchic
 Q1: Any luck with flying?
 Q2: Do you want to evolve so you can get your arms back? If so, what steps have you been taking to do that?
+Q3: After being stuck with them for so long, how do you truly feel about the rest of your team?
 
 ###Tropius
 Q1: What are the pros and cons of being so huge?

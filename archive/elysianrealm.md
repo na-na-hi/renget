@@ -2149,7 +2149,7 @@ Cost | Effect
 
 Support 1 | Support 2 | Type
 ------ | ------ | ------
-AE  BKE Utility
+AE | BKE | Utility
 BR | RC | Damage
 
 Time | Sigil 

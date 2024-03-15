@@ -230,6 +230,7 @@ Notes:
 
 - https://www.youtube.com/results?search_query=chess&sp=EgJAAQ%253D%253D
 - https://playboard.co/search?q=chess
+- https://www.google.com/search?q=site%3Avidiq.com+chess
 
 
 #### News and photos

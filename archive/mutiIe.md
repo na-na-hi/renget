@@ -8,18 +8,17 @@
 
 -> ![](https://i.postimg.cc/Sx6rdTDY/IMG-3365.png) <-
 
--> ![](https://i.postimg.cc/3xdZYKhg/E606-FE35-EE99-428-C-BC64-2-A7-B2-FDCDC4-B.png) ![](https://i.postimg.cc/J47qYNdY/D6-F8-A865-A996-4-FEA-93-C4-EC44-B3296276.gif) ![](https://i.postimg.cc/PqDzv2PJ/38-F4-D8-D7-1-D82-405-D-933-C-EDA00-BA92927.gif) <-
 
--> ![](https://media.discordapp.net/attachments/903364339464044575/1108715614148759592/A8C74851-098D-45D9-99B1-FCB126E81F8E.gif) hello i'm ja[*y*](https://en.pronouns.page/@hakkai) ![or](https://i.postimg.cc/wj4yMLss/IMG-8209.gif) finn  ₊ ![](https://i.postimg.cc/1RJj9mfp/whitebow.gif) ⊹ my pronouns <-
--> are heﾉhim ᵎᵎ ![](https://i.postimg.cc/yYHFXVR2/1148420753780375563_(1).gif) 𓈒 𓈒 𓈒 never use she her or they <-
+-> ![](https://media.discordapp.net/attachments/903364339464044575/1108715614148759592/A8C74851-098D-45D9-99B1-FCB126E81F8E.gif) hello i'm ja[*y*](https://en.pronouns.page/@hakkai) ![or](https://i.postimg.cc/wj4yMLss/IMG-8209.gif) finn  ₊ ![](https://i.postimg.cc/1RJj9mfp/whitebow.gif) ⊹ my pronouns are <-
+-> he 、him ᵎᵎ ![](https://i.postimg.cc/yYHFXVR2/1148420753780375563_(1).gif) 𓈒 𓈒 𓈒 never use she her or they <-
 -> them on me as it makes me very uncomfortable 〜 <-
 -> i'd appreciate it if you respect that ♡♡ i'm arab，<-
 -> palestinian to be specific｡ ![](https://i.postimg.cc/MKsYCnC6/C5-C9-F9-A7-1047-436-F-8-B7-E-89-BBA6490882.gif) i'm a sixteen year <-
--> old trans guy，i turn 17 on december 26th ⟡ ![](https://i.postimg.cc/j5zfvz3Z/8-F45-B537-EEE3-475-F-AAF8-E9-FF317-D9-D4-C.png)  ˚<-
+-> old trans guy，i turn 17 on december 26th ⟡ ![](https://i.postimg.cc/MGmQPP4H/88-D18-ED3-E282-4384-9-C0-E-7-B935-D3-C10-E8.jpg)  ˚<-
 
 -> ![](https://i.postimg.cc/XvngzfzH/IMG-3366.png) <-
 
--> ![](https://i.postimg.cc/fT7sLgVH/IMG-4461.png) <-
+-> ![](https://i.postimg.cc/QCXgfHpW/IMG-7881.png) <-
 
 -> ![](https://i.postimg.cc/Sx6rdTDY/IMG-3365.png) <-
 
@@ -34,10 +33,9 @@
 
 -> ![](https://i.postimg.cc/XvngzfzH/IMG-3366.png) <-
 
--> ![](https://i.postimg.cc/fT7sLgVH/IMG-4461.png) <-
+-> ![](https://i.postimg.cc/QCXgfHpW/IMG-7881.png) <-
 
 -> ![](https://i.postimg.cc/Sx6rdTDY/IMG-3365.png) <-
--> ![](https://i.postimg.cc/QCfpZzn4/B39249-A8-C481-458-A-ADCF-AA23-FD54-E28-B.gif) ![](https://i.postimg.cc/D0vqDh54/F61-F882-B-DCEC-4-E0-B-B2-E4-CBC4-D71-C31-C3.gif) <-
 
 -> i'm interested in many things 𐏐 ![](https://i.postimg.cc/JncyjRtF/IMG-1179.gif) ꒱  you can see <-
 -> the full list [here](https://rentry.co/finnterest)⌇៹ mainly i like web / graphic <-
@@ -45,7 +43,7 @@
 -> atm are ⦂ death note ![](https://i.postimg.cc/tgBmJ8GH/IMG-8049.gif) ៸ csm ៸ +͟+ blue period ![](https://i.postimg.cc/02VcqcXZ/tumblr-0c14bc3b0755cdffe200b619cd5db1eb-a3430dc4-75.gif) <-
 -> ◟͈ i'm fixated on .. underground rap  ♪ ˖ ་།་ i also <-
 -> like ~~breaking bad~~ but bcs solos ![](https://i.postimg.cc/7P09QzTv/IMG-5110.gif) **matcha**!!! <-
--> and cats  ![](https://i.postimg.cc/XJ0KfdC8/9-BD3322-B-0142-43-CC-97-BD-044228407-CDA.png) 𓂅<-
+-> and cats  ![](https://i.postimg.cc/XJ0KfdC8/9-BD3322-B-0142-43-CC-97-BD-044228407-CDA.png) especially my cat﹐Mila 𓂅<-
 -> ![](https://i.postimg.cc/XvngzfzH/IMG-3366.png) <-
 ***
 -> ![](https://i.postimg.cc/dV2DVJrv/Untitled21-20240301012057.png) <-

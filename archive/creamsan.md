@@ -78,7 +78,7 @@ See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 File | Version
 --- | ---
-[Quick_import](https://creamsan.neocities.org/files/presets/qr-quick-import.json) | Mar-4-24
+[Quick_import](https://creamsan.neocities.org/files/presets/qr-quick-import.json) | Mar-15-24
 [Regex_script](https://creamsan.neocities.org/files/presets/regexreplace.json) | Feb-10-24
 
 ***

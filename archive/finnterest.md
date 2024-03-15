@@ -11,7 +11,7 @@ or so since i consume a lot of media! ❞<-
 -> ![](https://i.postimg.cc/T11j6xmh/Untitled34-20240311021740.png)<-
 ***
 -> ![](https://i.postimg.cc/DyZkgw0b/Untitled32-20240311031559.png) <-
--> animanga﹕banana fish﹐**blue period**﹐**bsd**﹐**chainsaw man**﹐***death note***﹐demon slayer﹐evangelion﹐great pretender﹐higurashi when they cry﹐high rise invasion﹐hurt by love﹐hunter x hunter﹐jujutsu kaisen﹐killer in love﹐mob psycho 100﹐mirai nikki﹐nana﹐nichijou﹐ouran highschool host clu﹐owari no seraph﹐pumpkin night﹐sasaki to miyano﹐~~seven deadly sins~~﹐**secret alliance**﹐sk8 the infinity﹐soul eater﹐super sonico﹐tokyo revengers﹐the promised neverland﹐19 days <-
+-> animanga﹕banana fish﹐**blue period**﹐**bsd**﹐**chainsaw man**﹐***death note***﹐demon slayer﹐evangelion﹐great pretender﹐higurashi when they cry﹐high rise invasion﹐hurt by love﹐hunter x hunter﹐jujutsu kaisen﹐killer in love﹐mob psycho 100﹐mirai nikki﹐nana﹐nichijou﹐ouran highschool host club﹐owari no seraph﹐pumpkin night﹐sasaki to miyano﹐~~seven deadly sins~~﹐**secret alliance**﹐sk8 the infinity﹐soul eater﹐super sonico﹐tokyo revengers﹐the promised neverland﹐19 days <-
 -> ![](https://i.postimg.cc/T11j6xmh/Untitled34-20240311021740.png)<-
 ***
 -> ![](https://i.postimg.cc/fRwT7NX3/Untitled40-20240311032738.png) <-
@@ -21,7 +21,7 @@ or so since i consume a lot of media! ❞<-
 -> ![](https://i.postimg.cc/rwJNVx5D/Untitled40-20240311032933.png)<-
 -> i listen to literally anything and everything. except for taylor swift. <-
     
-->music﹕alice in chains﹐alice phoebe lou﹐autumn﹐**bjork**﹐blur﹐boa﹐broadcast﹐chief keef﹐chris travis﹐cocteau twins﹐deftones﹐**destroy lonely**﹐dean blunt﹐duster﹐duwap kaine﹐**izaya tiji**﹐**ken carson**﹐loathe﹐**lucki**﹐margo guryan﹐mazzy star﹐my bloody valentine﹐osamason﹐panchiko﹐pixies﹐pj harvey﹐playboi carti﹐portishead﹐radiohead﹐slowdive﹐sonic youth﹐summrs﹐sweet trip﹐the cranberries﹐the cure﹐the smashing pumpkins﹐the smiths﹐the strokes﹐the velvet underground﹐title fight﹐**tyler the creator**﹐**xavier wulf**﹐yeat﹐yhapojj﹐yung lean <- 
+->music﹕alice in chains﹐alice phoebe lou﹐autumn﹐**bjork**﹐blur﹐boa﹐broadcast﹐chief keef﹐chris travis﹐cocteau twins﹐deftones﹐**destroy lonely**﹐dean blunt﹐duster﹐duwap kaine﹐**izaya tiji**﹐**ken carson**﹐loathe﹐**lucki**﹐margo guryan﹐mazzy star﹐my bloody valentine﹐osamason﹐panchiko﹐pixies﹐pj harvey﹐playboi carti﹐portishead﹐radiohead﹐slowdive﹐sonic youth﹐summrs﹐sweet trip﹐the cranberries﹐the cure﹐the smashing pumpkins﹐the smiths﹐the strokes﹐the velvet underground﹐title fight﹐**tyler the creator**﹐yeat﹐yhapojj﹐yung lean <- 
 -> ![](https://i.postimg.cc/T11j6xmh/Untitled34-20240311021740.png)<-
 ***
 ->![](https://i.postimg.cc/6Q7xJdPX/Untitled42-20240311033855.png) <-

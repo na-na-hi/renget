@@ -23,7 +23,7 @@ Kaori | (01/7/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www
 Maki | (21/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Maki) | ![](https://files.catbox.moe/l4cyqi.png)
 Suzume | (10/06/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Suzume) | ![](https://files.catbox.moe/x86rgz.png)
 Suzume's chat | (10/06/2023 | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/suzumes-livestream-chat) | https://files.catbox.moe/s4zwuj.png
-Nina | (14/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Nina) | ![](https://files.catbox.moe/5i4m34.png)
+Nina | (14/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/Nina) | ![](https://files.catbox.moe/b5goj8.png)
 Nina (15) | (16/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/nina-muku/main) | ![](https://files.catbox.moe/2o45ko.png) 
  
 ###Osaka Phoenixes
@@ -108,6 +108,7 @@ Bimu | https://files.catbox.moe/61qg4d.zip
 Sidney | https://files.catbox.moe/x0cthi.zip https://files.catbox.moe/s1mv4b.rar
 Erica | https://files.catbox.moe/3jdkyy.rar
 Dahlia | https://files.catbox.moe/u0rcwy.rar https://files.catbox.moe/u21kqq.rar
+Kio | https://files.catbox.moe/sph9x1.zip
 
 **Made by pitanon**
 | Character | Images

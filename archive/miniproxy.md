@@ -25,9 +25,8 @@ total **active** users: 122 %red% (CLOSED) %%
 - I am not accepting monetary donations because they caused too much drama. 
 - <3 to every other proxy host for providing proxies.
 
-!!! info info and news (11/3/2024)
-    Fixed the wait time for opus. Thank you mysteryman!!
-    ~50 unread emails. Sorry...
+!!! info info and news (15/3/2024)
+    contact me if your token has been disabled.
 
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 
 needtocoomoridie@proton.me

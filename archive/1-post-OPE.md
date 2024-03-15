@@ -11,8 +11,9 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-▼ Next known appearance (karaoke offcollab with FWMC on FWMC's channel, Sat 03/16 8AM CT)
-https://www.youtube.com/watch?v=dnATI1YAoTU
+▼ Next known appearances
+Fri 03/15 10:45PM CT & Fri 03/15 04:15AM CT, Advent "Capture the Moment" watchalong
+Sat 03/16 8AM CT, Karaoke offcollab with FWMC on FWMC's channel: https://www.youtube.com/watch?v=dnATI1YAoTU
 ▼ Next stream: TBA
 ▼ Recent appearances
 03/13 Kiara's Pick up line call-in: https://www.youtube.com/watch?v=MyDk7WdXj7U&t=290s

@@ -10,7 +10,7 @@
 #### -> FRIDAY -- Creating a rentry page <-
 ***
 -> ![](https://files.catbox.moe/63p46y.png) <-
-### -> Below you can find the list of rentries in order of creation <-
+### -> LIST OF RENTRIES <-
 ***
 ## -> [Running a cat cafe with anthro cat girls](https://rentry.co/aicgthemedweek1) <-
 ## -> [Jealous robogirl attempts to imitate humans](https://rentry.co/discardedthemedweek) <-

@@ -8,28 +8,6 @@
 ![](https://files.catbox.moe/vjbufz.png)<-
  ***
 ***
-The following dividers were made by SnowPriest on Pinterest — **CREDIT IF USING.**
- ***
-***
-![](https://files.catbox.moe/x65wuo.png)
-![](https://files.catbox.moe/4ez7qw.png)
-![](https://files.catbox.moe/z4z7nv.png)
-![](https://files.catbox.moe/956spi.png)
-![](https://files.catbox.moe/00387m.png)
-![](https://files.catbox.moe/8eayeh.png)
-![](https://files.catbox.moe/jg1twn.png)
-![](https://files.catbox.moe/f3zznx.png)
-![](https://files.catbox.moe/j2m4fb.png)
-![](https://files.catbox.moe/y90vbh.png)
-![](https://files.catbox.moe/rguuen.png)
-![](https://files.catbox.moe/k27s39.png)
-![](https://files.catbox.moe/vveb8r.png)
-![](https://files.catbox.moe/o6v88k.png)
-![](https://files.catbox.moe/r7jbag.png)
-![](https://files.catbox.moe/aot3eg.png)
-***
-***
-***
 ![](https://files.catbox.moe/lymq7p.png)![](https://files.catbox.moe/1lu656.png)![](https://files.catbox.moe/l9tw96.png)![](https://files.catbox.moe/fq44j5.png)![](https://files.catbox.moe/aqhrlf.png)![](https://files.catbox.moe/ajendj.png) ![](https://files.catbox.moe/ocft26.gif) ![](https://files.catbox.moe/esnbtg.png) ![](https://files.catbox.moe/kep9li.png) ![](https://files.catbox.moe/uq1cuz.png)![](https://files.catbox.moe/eb5yha.png)![](https://files.catbox.moe/fvk8ov.png)![](https://files.catbox.moe/wo3a13.png)![](https://files.catbox.moe/bqjw87.png)![](https://files.catbox.moe/zw4of8.png)![](https://files.catbox.moe/8aewy4.png)![](https://files.catbox.moe/hwnhn3.png)![](https://files.catbox.moe/c76cxy.png)![](https://files.catbox.moe/zq5i4f.png)![](https://files.catbox.moe/3sk4jo.png)![](https://files.catbox.moe/0dphow.png)![](https://files.catbox.moe/i414pb.png)![](https://files.catbox.moe/9blc30.png)![](https://files.catbox.moe/bata73.png)![](https://files.catbox.moe/awq5se.png)![](https://files.catbox.moe/eaw265.png)![](https://files.catbox.moe/l30t4e.png)![](https://files.catbox.moe/6bpbia.png)![](https://files.catbox.moe/h0yn21.png)![](https://files.catbox.moe/73bs3b.png)![](https://files.catbox.moe/yw4c3v.png)![](https://files.catbox.moe/uqg7f7.png)![](https://files.catbox.moe/yqr2xn.png)![](https://files.catbox.moe/oknyzt.png)![](https://files.catbox.moe/8z8ock.gif)![](https://files.catbox.moe/bs50bs.gif)![](https://files.catbox.moe/5ldvz3.gif)![](https://files.catbox.moe/593inn.gif)![](https://files.catbox.moe/to9091.gif)![](https://files.catbox.moe/k4ifyz.gif)
 ![](https://files.catbox.moe/kjfwem.gif)
 ![](https://files.catbox.moe/tky91q.gif)

@@ -1,8 +1,8 @@
--> ![](https://media.discordapp.net/attachments/1095644666071879710/1096676753461755914/CDE73E76-DEFD-4F90-9A68-44F81B9F41EE.png) <-
--> ![](https://media.discordapp.net/attachments/1095644666071879710/1096682781834219581/3942269A-A305-441E-8C51-17627DCB87DA.png) <-
--> ![](https://media.discordapp.net/attachments/903364339464044575/1086445196155310200/468A6D8A-03E6-4027-BEDB-169E23C89878.gif) ![](https://media.discordapp.net/attachments/1095644666071879710/1096678377211048006/BC691EFB-0488-4572-A0EF-0F6A338FA163.png) ![](https://media.discordapp.net/attachments/903364339464044575/1086445195719082004/47C97FE3-AE5B-45B4-B362-8C5DFD15D2F5.gif) she ୨୧ her<-
--> Ꮺ ˖ ♡ mexican ![](https://media.discordapp.net/attachments/903364339464044575/1086448055072600064/C8F5DF9C-2ABA-4460-B814-1AFC08317E1B.gif) sixteen 𓈒  ༘ <-
--> i like [rei](https://evangelion.fandom.com/wiki/Rei_Ayanami)  & cutesy animals ![](https://media.discordapp.net/attachments/903364339464044575/1086446758151852102/9205F022-9FB2-4343-9FB0-3981CE143D8E.gif) <-
--> ![](https://media.discordapp.net/attachments/903364339464044575/1092745884749533184/CD2EC8F1-D8C5-47F7-A9A9-4E52FA29F8B0.gif) dni 18+ ⑅𓂅 im not ~~kinsta~~<-
+-> ![](https://i.postimg.cc/K8syBBxW/CDE73-E76-DEFD-4-F90-9-A68-44-F81-B9-F41-EE.png) <-
+-> ![](https://i.postimg.cc/WzP7yW6H/3942269-A-A305-441-E-8-C51-17627-DCB87-DA.png) <-
+-> ![](https://i.postimg.cc/DzHnksNG/IMG-8027.gif) ![](https://i.postimg.cc/P5qjC2sZ/BC691-EFB-0488-4572-A0-EF-0-F6-A338-FA163.png) ![](https://i.postimg.cc/HxMHpnGh/IMG-8028.gif) she ୨୧ her<-
+-> Ꮺ ˖ ♡ mexican ![](https://i.postimg.cc/L5MShS26/IMG-8030.gif) sixteen 𓈒  ༘ <-
+-> i like [rei](https://evangelion.fandom.com/wiki/Rei_Ayanami)  & cutesy animals ![](https://i.postimg.cc/jdtKbRMM/64725-D4-A-AB12-47-D3-B334-D57-C9650-CB1-F.gif) <-
+-> ![](https://i.postimg.cc/Kjr2MW87/IMG-8029.gif) dni 19+ ⑅𓂅 not a ~~kinsta~~<-
 -> ◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡ <-
--> ![](https://media.discordapp.net/attachments/1095644666071879710/1096692285141430323/EFFC69EC-0E47-4CE3-970E-182A123AFF59.gif) <-
+-> ![](https://i.postimg.cc/02nv5h3P/EFFC69-EC-0-E47-4-CE3-970-E-182-A123-AFF59.gif) <-

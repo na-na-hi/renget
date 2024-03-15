@@ -163,7 +163,7 @@ Kamare's dilemma
 https://pastebin.com/JQ98X9ae
 
 Artfags:
-Kiko's Genin Team 4
+Kiko's Genin Team 4 (Kiko, Itami, Remilia, Kazen)
 >>92132682
 Natsuo's Genin Team 1 (Natsuo, D, Himari, Takeru)
 >>92149556

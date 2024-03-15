@@ -65,6 +65,8 @@ NHK-World Premiun
 https://nhkworldpremium.com/en
 also available on toober:
 https://toober.com
+and soon on Jme (North-America only):
+https://watch.jme.tv/english
 
 AQ Stream (NHK)
 https://aqstream.com/jp/nhk/NHK-G
@@ -168,8 +170,8 @@ https://www.facebook.com/groups/668119080785044
 https://boards.4chan.org/sp/sumo
 https://boards.4chan.org/xs/sumo
 /sp/ archive:
-https://archive.4plebs.org/sp/search/text/sumo/type/op
 https://archive.4plebs.org/sp/search/subject/sumo
+https://archive.4plebs.org/sp/search/text/sumo/type/op
 https://archive.4plebs.org/sp/search/filename/sumo/type/op
 /xs/ archive:
 https://eientei.xyz/xs/search?search=subject:sumo

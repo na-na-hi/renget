@@ -681,8 +681,19 @@ Ellie, Abby, and Lotte (Cobalt Snow)
 	https://files.catbox.moe/ypgbd4.7z
 
 PonyXL LoRAs
-- Raboot
+Characters:
+- Raboot (Pokemon)
+- Cinderace (Pokemon)
+- Jirachi (Pokemon)
+- Sneasel (Pokemon)
+- Spinda (Pokemon)
+- Whimsicott (Pokemon)
+- Bluey
+- Spin the Bottle Girls (Cobalt Snow)
+- Yshtola (FFXIV)
+Styles:
 - Dagasi
+- ChiguchiMiri
 
 https://www.mediafire.com/folder/30caesntlcq6u/LoRA's
 
@@ -2194,6 +2205,12 @@ Dagasi (Style - PDXL V6)
 >Dagasi LoRA trained on Pony XL V6. No activation token needed.
 https://files.catbox.moe/huw2dl.safetensors
 
+Zex (Style - PDXL V6)
+>Zex LoRA trained on Pony XL V6. No activation token needed.
+>Sample picture here https://files.catbox.moe/5ulnhq.png (embed)
+>The activation token for the extra pulled foreskin is sulcus. Not as successful as I'd hoped, but the hit rate is somewhat decent when the skin and the glans have different colors.
+https://files.catbox.moe/dvlowm.safetensors
+
 # Xenomorphs
 https://pixeldrain.com/u/3zaypdh5
 > Trained on Fluffyrock e53 offset noise e38 for 15 epochs at 10 repeats with clip skip 1.
@@ -3024,6 +3041,12 @@ https://pixeldrain.com/u/UVJokbBz
 
 # Oogami-san (Character, Tsukareta Inu)
 https://pixeldrain.com/u/2EhSErgY
+
+# Olivia (I Wani Hug That Gator)
+https://files.catbox.moe/t2t5ib.safetensors
+
+# Lotte (OC by Cobalt Snow)
+https://files.catbox.moe/y2thwl.safetensors
 
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.

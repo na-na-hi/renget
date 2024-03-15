@@ -136,6 +136,7 @@
 12/2023|[Universal Pyramid Adversarial Training for Improved ViT Performance](https://arxiv.org/abs/2312.16339)
 01/2024|[Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020)
 02/2024|[Revisiting Feature Prediction for Learning Visual Representations from Video](https://files.catbox.moe/gn25vw.pdf)
+03/2024|[Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM](https://arxiv.org/abs/2403.07816)
 |
 |**Microsoft** ->[Papers](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/?) [Blog](https://www.microsoft.com/en-us/research/blog)<-
 12/2015|[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
@@ -610,6 +611,11 @@
 03/2024|[GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection](https://arxiv.org/abs/2403.03507)
 03/2024|[Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding](https://arxiv.org/abs/2403.04797)
 03/2024|[Scattered Mixture-of-Experts Implementation](https://arxiv.org/abs/2403.08245)
+03/2024|[AutoLoRA: Automatically Tuning Matrix Ranks in Low-Rank Adaptation Based on Meta Learning](https://arxiv.org/abs/2403.09113)
+03/2024|[BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences](https://arxiv.org/abs/2403.09347)
+03/2024|[Bifurcated Attention for Single-Context Large-Batch Sampling](https://arxiv.org/abs/2403.08845)
+03/2024|[Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054)
+03/2024|[Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

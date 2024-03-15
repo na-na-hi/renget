@@ -754,6 +754,8 @@ motley maids: https://desuarchive.org/tg/post/92120355/
 1D maid cafe: https://desuarchive.org/tg/post/92122707/
 tulpa: https://desuarchive.org/tg/post/92126151/
 bonfire dance: https://archive.4plebs.org/tg/post/92145990/
+A Dragon's White Day (Inigo, Maru): https://archive.4plebs.org/tg/thread/92177040/#92182995
+the last straight man in MHA: https://archive.4plebs.org/tg/post/92174790/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
@@ -1236,7 +1238,14 @@ The Sword of Truth(Last Rite, Archangel, Nox, Localoca, Majestic): https://rentr
 Chase (Kampai, other people): https://rentry.org/KampaiChase
 Tooth and Claw, Issue 1 (Saurus): https://rentry.org/qsrvx8
 A Friend in Need (Mirror Devil, Drone, Yamamoto, Yamata): https://rentry.org/p7zrib56
-Maru In a Fighter (Maru): https://rentry.org/maru-in-a-fighter
+Maru fighting game lines (Maru): https://rentry.org/maru-in-a-fighter
+The 4:30PM to KIX: https://rentry.org/qfnavcko
+How lucky we are for having each other (Yamata, Mirror Devil): https://rentry.org/d4g5buec
+Time Together (Mirror Devil, Drone): https://rentry.org/bceua7zq
+Everything Wrong With the Two of Them 2 (Reaper, Forget-Me-Not, Drekus, Feral and the rest of the Wild Hunt): https://rentry.org/bs79megt
+I Shall Not want(Archangel, Last Rite, Rosethorn): https://rentry.org/dr6wyh78
+A Dragon's White Day (Ryu-kishi, Maru(maru), mention of the girls in 1-D): https://rentry.org/o3iji1n
+A Multi-Dimensional Valentine's Day (Ryu-kishi, Maru(maru), Last Rite, Mirror Devil, Challenger, Sunlight Man, Android, Cool Boost, Radius, Marrow): https://rentry.org/399yrhts
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm

@@ -3,10 +3,11 @@
 [TOC3]
 
 ### Anthropic Presets
-| Model | Version | Date | Chat Completion Preset
-|---|---|---|---|
-Claude 3 Opus | v1.1 | 14/03/2024 | https://files.catbox.moe/gn5egl.json
-Claude 3 Opus | v1.0 | 14/03/2024 | https://files.catbox.moe/e2mgzk.json
+| Model | Version | Date | Chat Completion Preset | Major changes
+|---|---|---|---|---|
+Claude 3 Opus | v1.2 | 15/03/2024 | https://files.catbox.moe/zvc2tq.json | Moved Assistant's Character outside of System prompt
+Claude 3 Opus | v1.1 | 14/03/2024 | https://files.catbox.moe/gn5egl.json | Moved Human's Character outside of System prompt
+Claude 3 Opus | v1.0 | 14/03/2024 | https://files.catbox.moe/e2mgzk.json |
 
 ### OpenAI Presets
 **(I don't really recommend this, I don't use GPT models)**
