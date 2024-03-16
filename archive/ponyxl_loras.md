@@ -1,6 +1,12 @@
 # List of /mlp/ LoRAs
 
-## Artist LoRAs
+!!! info Table of Contents
+
+	[TOC3]
+
+### Current LoRAs
+
+#### Artist LoRAs
 
 -> Name <- | ->Details <- | Hash |  Source | Samples | Download
 ------ | ------ | :----: | :----: | :----: | :----:
@@ -19,11 +25,19 @@ RatofDrawn  | - | 886bf923c86e | [desuarchive.org](https://www.desuarchive.org/m
 Shino | - | f9617bce33ae | [desuarchive.org](https://www.desuarchive.org/mlp/post/40867256) | [catbox.moe](https://catbox.moe/c/4rvi5a) | [catbox.moe](https://files.catbox.moe/3bheld.safetensors)
 Shydale | Activation tag is `shydale` | d2adc398d793 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40874204) | [catbox.moe](https://catbox.moe/c/dnwnn8) | [catbox.moe](https://files.catbox.moe/ptyku4.7z)
 TheBatFang | - | dcccde13bd57 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40894694) | [catbox.moe](https://catbox.moe/c/2nzyr2) | [catbox.moe](https://files.catbox.moe/30qz6o.7z)
-VanillaGhosties | - | 7d137e19ad9b | [desuarchive.org](https://www.desuarchive.org/mlp/post/40901349) | [catbox.moe](https://catbox.moe/c/ajaho9) | [catbox.moe](https://files.catbox.moe/z4v4t1.safetensors)
+VanillaGhosties | - | 7eebff6fa4cb | [desuarchive.org](https://www.desuarchive.org/mlp/post/40911134) | [catbox.moe](https://catbox.moe/c/g7b3hl) | [catbox.moe](https://files.catbox.moe/xresnk.7z)
 WeLost | Works fine with a strength of `0.8` up to `1.0`; add `(realistic:1.1)` and `Smooth Anime Style` or `Concept Art Style` for extreme detail | a187d7f8f06f | [desuarchive.org](https://www.desuarchive.org/mlp/post/40892871) | [catbox.moe](https://catbox.moe/c/cm5hen) | [pomf.lain.la](http://pomf2.lain.la/f/ltxaxs7s.safetensors)
 
-## Character LoRAs
+#### Character LoRAs
 
 -> Name <- | ->Details <- | Hash |  Source | Samples | Download
 ------ | ------ | :----: | :----: | :----: | :----:
 Lily Longsocks | Activation tag is `lily longsocks`, recommended to specify her race when prompting ponies | 44739756f368 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40897498) | [catbox.moe](https://catbox.moe/c/yx0bww) | [pomf.lain.la](http://pomf2.lain.la/f/ogfy8ejh.safetensors)
+
+***
+
+### Outdated LoRAs
+
+-> Name <- | ->Details <- | Hash |  Source | Samples | Download
+------ | ------ | :----: | :----: | :----: | :----:
+VanillaGhosties | - | 7d137e19ad9b | [desuarchive.org](https://www.desuarchive.org/mlp/post/40901349) | [catbox.moe](https://catbox.moe/c/ajaho9) | [catbox.moe](https://files.catbox.moe/z4v4t1.safetensors)

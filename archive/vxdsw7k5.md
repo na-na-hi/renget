@@ -269,6 +269,7 @@ Notes:
 - https://www.thechessdrum.net/blog
 - https://www.attackingchess.com
 - https://lookintochess.com
+- https://chessskill.blogspot.com
 
 
 #### Podcasts
@@ -400,6 +401,10 @@ e-boards:
 - https://github.com/mrdimosthenis/BlindfoldChessTraining
 - http://www.noirchess.com/blindfoldtrainer
 - https://listudy.org/en/blind-tactics
+
+coordinates training:
+- https://lichess.org/training/coordinate
+- https://www.chess.com/vision
 
 Notes:
 - on Lichess you can toggle blindfold mode in games or puzzles via the board menu hamburger or the shift-B shortcut; try also the "speech" sound and to set "input moves with your voice" in your account preferences.

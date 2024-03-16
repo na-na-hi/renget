@@ -55,16 +55,38 @@ Q2: Are there any small items you've found a new use for as a Ribombee?
 >Well, the first thing that comes to mind is my bed. M-maybe you’ve seen it already. It’s a bowl of cotton balls, and we keep it on the desk in our dorm. It’s so comfy... Better than any bed I had as a human. Aside from that... I usually drink from a thimble, and I’ve used a feather quill pen as a broom before. Also, Sneasel and I have thought about getting me a sewing needle I could use as a sword, to protect myself if I need to. It would be the right size, but I’m not sure if I could use it very well without any fingers, so it's just in the idea stage so far.
 
 ###Jung
-Q1: How and when did you meet Sara? 
+Q1: How and when did you meet Sara?
+>it was after a day of work passing by a beach i found her unconscious, i brough her to auntie since then she was in her care! And one day she was put to pair with we on my missions since she wanted to be an explorer, and of course it wouldn't have been gaston to take care of something *scoff*
 Q2: Have you met any Clover Guild individuals besides Lliam?
+>after we received our badges we made a brief passage to capim town for a formal introduction.... it was huh.... Well at least now i get the rumors that where thrown around about this place, i must say that some are quite strange but i do found myself... at peace in this chaos. Also the chespin there did not believe me that we already ditched hay beds long ago because auntie hates them too. 
 Q3: I wanna know how you got that scar!
+>heh... hem... well. an accident.... a stupid avoidable one...yeah.
 Q4: Do you have any hobbies besides dungeon exploration?
+>jung : i kinda like sewing, got to it because some of the youngins we helped wanted toys so i learned with auntie to make some, i remember making one for alvin when he was but a little aipom!
+>alvin : cut it out jung !
+>jung : what was it do you remeber *scoff*
+>alvin : *sight* pls don't 
+>ung : it was a primarina, my memory is a lil foggy remind me why you wanted one *grin*
+>alvin : DON'T !!!!
+>jung : Oh ! how could i forget prodigious singing star of the continent like that, a die hard fan since his first step.
+>alvin : I AM GONNA STRANGLE YOU UNRIPPE NANAB LOOKING
+>Jung : *laugh while avoiding alvin grasp*
 
 ###Sara
-Q1: What kind of moves have you mastered?  Do you enjoy fighting?
+Q1: What kind of moves have you mastered? Do you enjoy fighting?
+>sara : i can do Tackle Spark Bite and swagger but fighting isn't my strenght, i prefer avoiding most conflict. I let Jung do the all the muscle work and i mostly do the brain work... it's no like it would HIS strenght *giggles*
+>jung : getting better at quips i see, well don't be surprised when your bed suddenly disappeared and is out of your reach
+>sara : WHAT !??!???!
+
 
 ###Mama Lax
 Q1: Do you have any funny stories from the Inn you'd like to share?
+>hohoho since i build this inn i have seen all kinds of pokemon and behaviors but some of the most notable where
+> - a messy and unmannered garbordor that made one unforgetable impressions by messing up the room he rented, the cleaning was one i will never forget.
+> - the main delivery service used for the supply is one run by a group of effective and punctual hawlucha's, but they tend to deliver by "drop kicking" doors and the first time was a weird moment.
+> - local drowzee group are making nomadic passage some night to feed on our client dream, wich i really feel uncomfortable leaving my client privacy open to any dream meddling pokemon passing by and the fact of running an inn makes it a buffet for some.
+> - an uncooperative slaking that didn't want to give up his room pass his payed time in the inn throwing a tantrum, i rarely become enraged but this was too much.
+> - and lastly the day i welcomed 3 little lost pokemon, one of them was jung and they where an odd band *laugh*. 
 
 ###Rasmus
 Q1: You joined the Guild around Halloween.  How has your experience been since then?  Good?  Bad?
@@ -428,6 +450,7 @@ Q4: Have you found any cool new flowers in this world that didn't exist back in 
 Q1: What's up with that Eevee?
 Q2: If you could ask a human anything, what would you ask them?
 Q3: Do you have a dayjob?  If you do, don't quit it.
+Q4: Is Cory in the house?
 
 ###Mandibuzz
 Q1: You used to be a Pokemon trainer, right?  How does it feel to be one yourself?
@@ -563,6 +586,26 @@ Q2: How are you adapting to the Pokemon world?
 
 >Booker: I wish I knew more about instincts at the start. I had a p-pretty big scare early on, when I first started settling into my new body and balancing my Aura. That made my instincts start... activating, essentially. I started feeling weird desires and fears... like there was some other p-person in my head trying to take over. It kept trying to make me hate things I used to love, l-like my favorite foods or the sound of rain. It was... unsettling. But with some encouragement from Sneasel, I was able to accept those new feelings without letting them control me.
 
+**Dog, cat, and fox mons**: Do you ever get the zoomies?
+
+**Former humans**, Does your partner have a family? How would they respond to the question, "How's your relationship with your family?"
+
+**Guildmons**, If your character had to trade partners with another guild members, which other partner do you think would suit them best?
+
+**Guildmons**, You saw a job listing in the bulletin board with a huge reward, but the description is quite suspicious to say the least... would you still risk it and take the job?
+
+**Guildmons**, An outlaw you've captured recently was accepted into the guild after he said that he was reformed (turns out to be a humon); would you accept him with open arms or would you be suspicious about his change of heart?
+
+**Everyone**, It's a holiday! (is there such a thing in the PMD world?) How would like to spend your time in this ocassion? Would you still work and rescue Pokemon in Mystery Dungeon? Travel somewhere, err... lavish? Hang out in the guildhall all day long?
+
+**Former humans**, Let's say PMD is an existing video game for us humons. Would you feel a bit of dread that you're in a world that's so similar to that video game? And would you tell your partner, or any native mon? Perhaps mention about it to other humons?
+
+**Guildmons**, What's your role in the guild, if any?
+
+**Former humans**, What's the one thing you missed the most from the human world?
+
+**Guildmons**, Let's say a fellow guild member messed up on their mission, big time, and then the client confronts you about it. Would you tell them the truth or would you cover for them?
+
 ##->**Pair Questions**<-
 
 **Luka & Nine**: How did you two meet?
@@ -594,3 +637,5 @@ How common is it for your life to be at risk? Be it when venturing into a dungeo
 >Carrot & Hazel: Well, we're kinda seasoned so we're normally not in danger anymore, but sometimes thing can go wrong, but we have each other
 
 >Booker: The overworld is safe for the most part, but it's common for me and Sneasel to put ourselves in danger, because we do a lot of missions that involve combat. It’s stressful, to be honest, but... not as scary as it could be. I trust her to fight well and keep both of us safe, and I do my best to help out too.
+
+Before joining this clover guild thing, do you have a completely different pokemon in mind than the one you're currently using, if so, then why? For example, you were planning to be this Pokemon but it's kinda overrated/legendary/too strong and decided against it or some other member got to use it before you came, and etc.

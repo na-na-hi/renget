@@ -161,6 +161,10 @@
 - Site solely focused on Donghua series + original fansub, and frequently hosts material on the ever-powerful YouTube.
 - [URL Safety Results](https://www.urlvoid.com/scan/animexin.vip/)
 
+### ▶️ [AniPulse](https://anipulse.to/)
+- Haven for anime lovers, offering a nicet range of captivating content across genres.
+- [URL Safety Results](https://www.urlvoid.com/scan/anipulse.to/)
+
 ### ▶️ [Anitaku](https://anitaku.to/)
 - Because it is so simple, all you have to do is choose an episode and begin viewing.
 - [URL Safety Results](https://www.urlvoid.com/scan/anitaku.to/)

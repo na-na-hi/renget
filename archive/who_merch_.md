@@ -6,7 +6,7 @@
 	This page is primarily dedicated to merch you can buy/order online.
 
 **Hololive 5th Fes *Capture the Moment* 16-17th March 2024 (JST) Start 1300 & 1830 **
-*Mumei is only on for Day 2's hololive Stage 3 (17th March Start 0130 PDT)*
+*Mumei is only on for Day 2's hololive Stage 3 (17th March Start 0230 PDT)*
 https://hololivesuperexpo2024.hololivepro.com/tickets
 https://hololivesuperexpo2024.hololivepro.com/en/tickets
 (EN/Streaming+ has a 1150 Yen Gaijin tax attached. There is relatively little differences in live experience between SPWN and Streaming+.)

@@ -584,18 +584,12 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Writefag:
->How lucky we are for having each other (Yamata, Mirror Devil)
-https://rentry.org/d4g5buec
->Time Together (Mirror Devil, Drone)
-https://rentry.org/bceua7zq
->Everything Wrong With the Two of Them 2 (Reaper, Forget-Me-Not, Drekus, Feral and the rest of the Wild Hunt)
-https://rentry.org/bs79megt
-I Shall Not want(Archangel, Last Rite, Rosethorn)
-https://rentry.org/dr6wyh78
->A Dragon's White Day (Ryu-kishi, Maru(maru), mention of the girls in 1-D)
-https://rentry.org/o3iji1n
->A Multi-Dimensional Valentine's Day (Ryu-kishi, Maru(maru), Last Rite, Mirror Devil, Challenger, Sunlight Man, Android, Cool Boost, Radius, Marrow)
-https://rentry.org/399yrhts
+>News (Reaper, mentions of Forget-Me-Not)
+https://rentry.org/z7vhkv2s
+>Mpreg Shitpost (Slimenuts, 1-F)
+https://rentry.org/wnnwfxna
+>Spectre of Revolution (Maru(maru), Marrow)
+https://rentry.org/m7o3zsqc
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1171,6 +1165,10 @@ https://rentry.org/dr6wyh78
 https://rentry.org/o3iji1n
 >A Multi-Dimensional Valentine's Day (Ryu-kishi, Maru(maru), Last Rite, Mirror Devil, Challenger, Sunlight Man, Android, Cool Boost, Radius, Marrow)
 https://rentry.org/399yrhts
+>News (Reaper, mentions of Forget-Me-Not)
+https://rentry.org/z7vhkv2s
+>Spectre of Revolution (Maru(maru), Marrow)
+https://rentry.org/m7o3zsqc
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

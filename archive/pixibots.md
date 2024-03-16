@@ -33,11 +33,11 @@ When Claude 3 came out, it was clear that old JBs don't work very well and a lot
 The JB is pretty good out of the box, but you can greatly improve coherence, creativity and swipe variety by setting up the **CoT** (Chain of Thought) block. This splits up the task of generating a response into smaller subtasks, such as retrieving relevant parts of the context, deciding how a character should act, thinking up random events, etc. Only after all that the model proceeds to write the actual prose.
 
 Here's how you can enable it:
-1. Toggle on the CoT block in the *Prompt list*. ![CoT figure 1](https://files.catbox.moe/6o4n57.jpg)
-2. Go to *Extensions* > *Regex* > *Import Script*. ![CoT figure 2](https://files.catbox.moe/msaqa3.jpg)
+1. Toggle on the CoT block in the *Prompt list*. [Screenshot](https://files.catbox.moe/6o4n57.jpg)
+2. Go to *Extensions* > *Regex* > *Import Script*. [Screenshot](https://files.catbox.moe/msaqa3.jpg)
 3. Import [this script](https://files.catbox.moe/oxmo61.json) ([source](https://rentry.org/vcewo#regex-to-deletehide-cot)) and make sure it's enabled.
 
-This sets up your ST to delete the CoT after generation, since at that point it's served its purpose and okly bloats up the context. If you want to keep it, disable the script or check *Only Format Display*.
+This sets up your ST to delete the CoT after generation, since at that point it's served its purpose and only bloats up the context, reducing coherency in longer chats. If you want to see what it generates, disable the script or check *Only Format Display*.
 
 ### Releases
 
@@ -85,6 +85,34 @@ First, some notes:
 - Some use a **system prompt override** to ensure intended formatting, POV of the narrator and the writing style. Make sure your JB doesn't break if this feature is used. You can confirm this by checking that the **Main** section under **Quick Prompts Edit** contains no tags or other critical structure, just a simple explanation of what the model is expected to do (or nothing at all, that also works).
 - Most cards are compatible with both male and female **personas**. Set a persona, or the model will attempt to guess details like your gender and appearance.
 - Sorted from newest first.
+
+---
+
+### Saria
+
+| | |
+|-|-|
+| ![Saria](https://files.catbox.moe/81xbmf.png) | Text with a student of magical arts. |
+
+[Catbox](https://files.catbox.moe/vkz842.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/saria-c5c2f1dc)
+
+You receive a series of weird text messages from someone claiming to be studying at a magic academy. Her name is **Saria**, and she says she found a mystical glowing slate lying on the side of the road. The curious girl has a lot to share, and thus begins the most unusual cross-universe relationship.
+
+In this card, the only line of communication between you and Saria is sending texts back and forth. The world continues to turn during your chats though as she attends classes and lives her student life. As you continue to be her companion many things can happen, from sudden interruptions to all out adventures experienced by you in second-person POV.
+
+**Examples**
+
+[Example 1](https://files.catbox.moe/ej4rbs.png) | [Example 2](https://files.catbox.moe/19jnkv.jpg)
+
+**Features**
+
+- Anypov compatible
+- System prompt override
+- Multiple card CoTs
+- Stat tracking
+- HTML formatting
+- Example messages
+- Basic lore in description (spoiler alert!)
 
 ---
 

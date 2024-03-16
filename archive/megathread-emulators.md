@@ -93,6 +93,10 @@
 - Open source, cross-platform emulator that prioritizes accuracy and preservation.
 - [URL Safety Results](https://www.urlvoid.com/scan/ares-emu.net/)
 
+### 🔗 [ES-DE](https://es-de.org/)
+- Frontend for gaming, compatible with RetroArch and standalone emulators, and easily customizable.
+- [URL Safety Results](https://www.urlvoid.com/scan/es-de.org/)
+
 ### 🔗 [MAME](https://www.mamedev.org/)
 - Simulating arcade game systems in gaming PCs and other gaming devices.
 - [URL Safety Results](https://www.urlvoid.com/scan/mamadev.org/)
@@ -108,6 +112,10 @@
 ### 🔗 [RetroArch](https://www.retroarch.com/)
 - Its sleek graphical interface lets you to play old games on a variety of PCs and consoles.
 - [URL Safety Results](https://www.urlvoid.com/scan/retroarch.com/)
+
+### 🔗 [RetroDECK](https://retrodeck.net/) • Linux + SteamOS
+- Retro gaming solution for Linux, focusing on SteamOS and the Steam Deck.
+- [URL Safety Results](https://www.urlvoid.com/scan/retrodeck.net/)
 
 &nbsp;
 

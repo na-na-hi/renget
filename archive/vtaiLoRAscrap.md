@@ -14,7 +14,7 @@
 **Aiba Uiha (Nijisanji)** - https://civitai.com/models/268110/aiba-uiha-11-outfits
 **Saya Sairroxs (Phase Connect)** - https://civitai.com/models/267673/saya-sairroxs-phase-connect
 **Nakamachi Arale (Bang Dream!)** - https://civitai.com/models/265427/nakamachi-arale
-**Hanamaru Hareru (Hanayori/Indie)** - https://civitai.com/models/269445/hanamaru-hareru-hanayori-girls-dormitory-hanayori-joushiryou
+**Hanamaru Hareru (Hanayori/Indie)** - https://civitai.com/models/269445?modelVersionId=303768
 **Yukishiro Mahiro (Nijisanji)** - https://civitai.com/models/272771/yukishiro-mahiro-nijisanji
 **Natsume Eri (Indie)** - https://civitai.com/models/272778/natsume-eri-vtuber
 **Lee Roha (Nijisanji)** - https://civitai.com/models/273695/leeroha-nijisanji
@@ -65,6 +65,7 @@
 **Minai Aruma (GuildCQ)** - https://civitai.com/models/342521/minai-aruma-or-guildcq-vtuber
 **Yu Twelve (Indie)** - https://civitai.com/models/342123/ivtuber
 **Mythia Batford (Indie)** - https://civitai.com/models/345676/batford
+**Osawa Rurino (Hasunosora/LoveLive)** - https://civitai.com/models/126432/osawa-rurino-link-like-love-live
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

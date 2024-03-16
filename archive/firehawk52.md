@@ -122,7 +122,7 @@ Ethereum: `0x2e03212e147287aa2a67c7cfd5286f24779f0b42`
 
 #### Tokens
 !!! info
-    Use these credentials with the above programs to login to Qobuz. ✅ **All checked on 2024-03-07** | **Changes made on 2024-03-07 @ 17:24 UTC**
+    Use these credentials with the above programs to login to Qobuz. ✅ **All checked on 2024-03-07** | **Changes made on 2024-03-16 @ 11:51 UTC**
 :repeat: is **auto-renewal** accounts
 
 *Mouse-over country flags to see country name in English and local language*
@@ -198,6 +198,7 @@ Contact us [here](https://t.me/firehawk52official) if you have accounts from any
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | 2024-03-09 | `2954128` | `3qin5mD9buJs4lfWwCrpczTX-zljJjkg8at8kdqeVdbJly8KDjW1YQSjN5wOgtttAA53yJyL8kJCNqi89HLDzg`|
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | 2024-03-12 | `2908325` | `DsBaBFBgzCA8hY28Uw-i4h5rvLo_Hp-QLd01LF0AVjSYa4XTG24zCuDideUL13LI8qE0llObmKdRJ5BP4DPM3w`|
 ->![United Kingdom](https://files.catbox.moe/d74n21.png)<- | 2024-07-24 | `2602012` | `LFvxYzPwvq1svg8Ue07iXGK5XTeHvXccbY-RL6GpPUvf6ZtPfH1YnKgsAHDQrBy95c122DUH2JsdXP2idsRy7A`|
+->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | 2024-05-20 | `2972644` | `DRxx7-d9wFHYGYvHPP6ozYOtcgxmOobBoXChiVI_Yf3osdKGJDHPAhA45aEW90bL18WeifjVot1TPQkubZc9fw`| ->![ɪʀᴏɴ ʙʟᴀᴄᴋ](https://files.catbox.moe/oxlb1w.png)<-
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | 2024-05-09 | `2954033` | `JgglDRnyfPj1jLqZ02it1Aw4FTTn3VsbJ4wZJ2036O5J7-kMzwzMSuQa19WG3JKULP7eBRlZgYybUYB56Aa83w`|
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | 2024-04-19 | `2922832` | `u1JSx9GNf9bVYzdfEkw9xhYccH5k9r0XaDg5knh1R_R6BX24pnnOoWZOUr0S75eSAn4a-2HZ3TFpbQrjqpvFRw`|
 ->![United States of America](https://files.catbox.moe/mqtlaz.png)<- | 2024-03-12 | `2908498` | `bMLh6SlHjq2urfP2Jau63iNkYeOXxrXnL-mROJcqdESYa4XTG24zCuDideUL13LI8qE0llObmKdRJ5BP4DPM3w`|
@@ -533,7 +534,7 @@ Thanks to **nathom** for Streamrip<-
 
 ->Thanks to all the other contributors in alphabetic order:<-
 
-->**ALi3naTEd0, ATLACATL, Copyman, Edgar, Filosk, @Gigamusic2, Glomatico, Gostrdr1337, Guy Doom, GC22, Igor_O, kawahara, Kevin Palma, NRS MDL, MKA, @musicalstarlight, Last Stand // Cunny, losbetias 四, ptnapivoski, RinRinxll, SPYZ3R, Spyzer X Muzahid, T O N O, udreamtoosmall, SyN, TLALOC, TheKVT, and TXHQ**<-
+->**ALi3naTEd0, ATLACATL, Copyman, Edgar, Filosk, @Gigamusic2, Glomatico, Gostrdr1337, Guy Doom, GC22, Igor_O, ɪʀᴏɴ ʙʟᴀᴄᴋ, kawahara, Kevin Palma, NRS MDL, MKA, @musicalstarlight, Last Stand // Cunny, losbetias 四, ptnapivoski, RinRinxll, SPYZ3R, Spyzer X Muzahid, T O N O, udreamtoosmall, SyN, TLALOC, TheKVT, and TXHQ**<-
 
 ->And a special thanks to the amazing admins that helps to keep order and help people in the support channel:<-
 

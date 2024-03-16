@@ -3,7 +3,8 @@
 !!! note Temporarily testing claude-3
     [Jailbreak 5](https://rentry.org/ScuffedJB): Used from 24/12/2023 to 21/02/2024
     Jailbreak 7: Used from 04/03 00:09 UTC - 05/03 16:03 UTC
-    Jailbreak 8: Used from 05/03 16:03 UTC - current
+    Jailbreak 8: Used from 05/03 16:03 UTC - 16/03 07:12 UTC
+    Jailbreak 9: Used from 16/03 07:12 UTC - current
     Send feedback.
     Disabled "Scuffed Tense" by default on the preset, fucks the prose up. Simplified "Scuffed Extras" on the preset. Rewrote impersonation to be first-person.
     **Uptime not guaranteed.**

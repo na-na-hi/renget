@@ -57,9 +57,17 @@
 - Collection of Japanese pop music shared by passionate music lovers.
 - [URL Safety Results](https://www.urlvoid.com/scan/kojima48.blogspot.com/)
 
+### 🔗 [Kpoop](https://kpoop.ru/) • Russian UI
+- K-pop songs available for free downloads and online streaming, offering new tracks, and albums to explore.
+- [URL Safety Results](https://www.urlvoid.com/scan/kpoop.ru/)
+
 ### 🔗 [LightAudio](https://web.ligaudio.ru/) • Russian UI
 - Discover and access music from various sources to effortlessly download it in the highest quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/web.ligaudio.ru/)
+
+### 🔗 [Lmusic](https://lmusic.kz/) • Russian UI
+- Fresh Kazakh tunes, international, and Russian melodies available for download and streaming.
+- [URL Safety Results](https://www.urlvoid.com/scan/lmusic.kz/)
 
 ### 🔗 [MikuDB](https://mikudb.moe/)
 - The world of Vocaloid with an extensive collection from Hatsune Miku, Kagamine Rin, IA, GUMI etc.

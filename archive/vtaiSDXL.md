@@ -888,6 +888,10 @@
 !!! info check tags from metadata?
 -> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/TroQCBRJ) <-
 
+##### -> Hanamaru Hareru <-
+!!! info technically a part of "Hanayori Girls' Dormitory" but its more of a group than agency so she's placed in the indie section.
+-> [Civitai](https://civitai.com/models/269445?modelVersionId=394600) <-
+
 #### -> Misc <-
 ***
 ##### -> (Nerissa) Mamarissa Ravencroft <-
