@@ -8,7 +8,9 @@
 
 -> for one reason or another not all of my taken urls are in here but they still have information to find me and their 'status'<-
 
--> don't be afraid to contact me, if there's one you want just send me a message or ask (only excluding highlighted), i don't bite <-
+-> don't be afraid to contact me, if there's one you want just send me a message or ask, i don't bite <-
+
+-> note: you're 100x more likely to get a url if you're actually going to use it <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
@@ -24,15 +26,17 @@ plain text = yea you can have
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> kiwanotemple <- 
+-> `canidylidae`
+kiwanotemple  <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> **identity stealing. all inline unless you know me personally ** <-
+-> **identity stealing. all nft unless you know me personally ** <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> `leafyvegetable, goomyshroomy, meloncollielmao, meloncolliehaha, pixelpawn23, circuitcarp, kayflymayfly, shrieket, icemacaw, szymsta, szymsta, arteryblast333` <-
+-> `leafyvegetable, goomyshroomy, pixelpawn23, circuitcarp, kayflymayfly, shrieket, icemacaw, szymsta, szymsta_, arteryblast333` <-
+-> ~~meloncollielmao, meloncolliehaha~~, <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
@@ -66,11 +70,23 @@ pkobjectified <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> **medical related urls** <- 
+-> **general object show related. mostly my ocs** <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> ***medicalethics***
+-> heartstitution, oathheart
+heartstitutionyuri, oathheartyuri <-
+
+-> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
+
+-> **medical/biology related urls** <- 
+
+-> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
+
+-> ***medicalethics
+humanorgans***
+organyuri
+200milligrams
 ibeauprofen
 napruxen 
 acetominophen
@@ -87,4 +103,5 @@ fibrodysplasiaossificansprogressiva <-
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
 -> ***grrlsrituals*** 
-elvispresleyaoi <-
+elvispresleyaoi
+mysupersweetsixteen <-

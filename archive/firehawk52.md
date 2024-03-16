@@ -398,13 +398,9 @@ https://albumart.digital/ - a sleek and fast Apple music album art searching web
 
 ### Downloading Websites
 
-#### Free-Mp3-Download
-
-https://free-mp3-download.net - download single tracks as MP3/FLAC (max 16-bit, 44.1 kHz) from ==Deezer==
-
 #### DoubleDouble
 
-https://doubledouble.top - download complete albums from ==Apple Music== (including lossless ALAC), ==Spotify==, ==Soundcloud==, ==Qobuz==, ==Deezer==, ==Tidal==, ==Amazon Music==, or ==Napster==. Quality depends on service (at Qobuz up to 24-bit, 192 kHz).
+https://doubledouble.top - download complete albums from ==Apple Music== (including lossless ALAC), ==Spotify==, ==Soundcloud==, ==Qobuz==, ==Deezer==, ==Tidal==, ==Amazon Music==, ==KKBox== or ==Napster==. Quality depends on service (at Qobuz up to 24-bit, 192 kHz).
 ***
 
 > ## Utilities

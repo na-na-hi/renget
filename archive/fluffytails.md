@@ -10,12 +10,9 @@
 ***
 -> ==Latest Update 2/25/24== <-
 -> Going to update gradually, posting what I see on the thread and Chub. Will do another batch if I see a fox botmaker I haven't discovered before or I get sent a fuckton of new ones at once. <-
--> *Added to Male: Rylie* <-
--> *Added to Female: Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila, Loba, Caoimhe MacKenna, Elizabeth, Melissa* <-
 
--> ==Previous Update 2/21/24== <-
--> *Added to Male: Kheti* <-
--> *Added to Female: Ahri, Fox Tawā, Hanako, Haruka.exe (Black Kimono), Haruka.exe (Blue Leotard), Hotaru.exe, Hotaru.exe (Lower Token Count), Hua Siniang • 'The Shining Star of China', Itet, Kin, Koharu, Medley, Melissa, Minami, Octavia, Sophia, Takao Kischou, Takao Mokou* <-
+-> *!~cornflowerblue; Added to Male:~! Rylie, Brother Jean* <-
+-> *!~cornflowerblue; Added to Female:~! Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila, Loba, Caoimhe MacKenna, Elizabeth, Melissa, Sister Mathilde* <-
 
 ## -> Female <-
 
@@ -111,6 +108,7 @@ Character  |  Preview  |  Description  |  Links
 **Caoimhe MacKenna** | ![Caoimhe MacKenna](https://files.catbox.moe/dayjgm.png) | Wyvern Rider gf that has great base stats and growths; comes with a Master Lance, a Killer Axe and an Elixir and is overall very easy to recruit. Also light affinity and easy to get supports with {{user}}. [Blue Paint version for when (You) seduce her.](https://files.catbox.moe/br58mc.jpeg)| [DESUARCHIVE](https://desuarchive.org/g/thread/99430667/#q99430689) [CATBOX](https://files.catbox.moe/p2hrkn.png)
 **Elizabeth** | ![Elizabeth](https://files.catbox.moe/lhvw4n.png) | A vampiric foxgirl that has lived in near total isolation since 1755. Lost in the dark, you stumble on her cabin. | [CHUB](https://chub.ai/characters/totalethicistdeath/elizabeth-14ea2b65) [CATBOX](https://files.catbox.moe/58dedb.png)
 **Melissa** | ![Melissa](https://files.catbox.moe/a4sqew.png) | Melissa is your outwardly cold but inwardly loving fox wife who had a rather nasty accident that ended up with her neck fractured. For the time being, she needs your help with her daily tasks. | [CHUB](https://chub.ai/characters/victrex/melissa-cdba9252) [CATBOX](https://files.catbox.moe/o0s7an.png)
+**Sister Mathilde** | ![Sister Mathilde](https://files.catbox.moe/al6ulo.png) | A nun living in Medieval France. Has a male version. | [CHUB](https://chub.ai/characters/victrex/sister-mathilde-8d94581f) [CATBOX](https://files.catbox.moe/mm3z8c.png)
 
 ### Existing Characters
 Character  |  Preview  |  Description  |  Links
@@ -138,6 +136,7 @@ Character  |  Preview  |  Description  |  Links
 **Yamamoto Houjou** | ![Yamamoto Houjou](https://files.catbox.moe/wozhi8.png) | Jaded kitsune with no tails. Set in the Sengoku period and features four greetings. | [RENTRY](https://rentry.org/clara-chan) [CATBOX](https://files.catbox.moe/l8wsu5.png)
 **Kheti** | ![Kheti](https://files.catbox.moe/9ngct8.png) | The foxboy Pharaoh of Ancient Egypt. [Alternative Art.](https://catbox.moe/c/puvdfv) | [CHUB](https://chub.ai/characters/victrex/pharaoh-kheti-0a3aea84) [CATBOX](https://files.catbox.moe/7meeqv.png)
 **Rylie** | ![Rylie](https://files.catbox.moe/2ya5hy.png) | Cute kitsune boy. Fox Boy. He acts very serious, but in reality, he is just a fun-loving fox. He also claims to be the toppiest of tops, the dommiest of doms. But how true is this? | [CHUB](https://chub.ai/characters/Ruminate/rylie-7a5f23e3) [CATBOX](https://files.catbox.moe/c1ycr4.png)
+**Brother Jean** | ![Brother Jean](https://files.catbox.moe/krhv5x.png) | A nun (male) living in Medieval France. Has a female version. | [CHUB](https://chub.ai/characters/victrex/brother-jean-f3218ddd) [CATBOX](https://files.catbox.moe/fqthu4.png)
 
 ## -> Other  <-
 

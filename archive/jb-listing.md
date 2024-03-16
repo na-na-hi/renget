@@ -27,6 +27,8 @@ https://rentry.org/pixibots#claude-3-prompt
 https://rentry.org/cheeseypretzel
 
 https://unconvincing.neocities.org/
+
+https://rentry.org/bloatmaxx
 ***
 #####Claude 2
 https://rentry.org/MyuuTastic

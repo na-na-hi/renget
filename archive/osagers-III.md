@@ -8,7 +8,8 @@
 -> ┆⌞i joke about **killing people** and make **kys/die/kms jokes** sometimes!!!!! (i hold off on the kys jokes w/ most ppl tho) i also joke about **homophobia / transphobia / ableism** and make **sexual** jokes (i don't usually joke about that with strangers though!!!)⌝┆
 ┆⌞i might leave / stop talking randomly, please do not worry! i could be talking to my parents or having a panic attack etc and *it's better not to pry*⌝┆
 ┆⌞**i make romantic jokes** (about kissing ppl and stuff)⌝┆
-┆⌞always tell me if something i do makes you uncomfortable!!!! i will try my hardest to stop :3⌝┆ <-
+┆⌞always tell me if something i do makes you uncomfortable!!!! i will try my hardest to stop :3⌝┆
+┆⌞i also might age regress (???) sometimes (i'm not sure if that's the correct term for it)⌝┆ <-
 
 -> ༘⋆₊ ⊹★🔭๋࣭ ⭑⋆｡˚ <-
 

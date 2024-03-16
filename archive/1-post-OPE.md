@@ -11,18 +11,17 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-▼ Next known appearances
-Sat 03/16 04:15AM CT, Advent "Capture the Moment" watchalong
-Sat 03/16 8AM CT, Karaoke offcollab with FWMC on FWMC's channel: https://www.youtube.com/watch?v=dnATI1YAoTU
 ▼ Next stream: TBA
 ▼ Recent appearances
+03/16, karaoke offcollab with FWMC on FWMC's channel: https://www.youtube.com/watch?v=dnATI1YAoTU
+03/16, Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=w740m36qz2o
 03/15 Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=y69ee5hIW48
 03/13 Kiara's Pick up line call-in: https://www.youtube.com/watch?v=MyDk7WdXj7U&t=290s
 03/13 "Can You Do the hololive?" song segment: https://www.youtube.com/watch?v=QNW7yHDYldY&t=140s
 03/13 Twitter space with Kiara: https://twitter.com/i/spaces/1djGXNZmmlBxZ
 03/12 Twitter voice with Kiara: https://twitter.com/takanashikiara/status/1767452224651985249
 03/12 Twitter voice with FWMC: https://twitter.com/fuwamoco_en/status/1767521725766664632
-▼ Last stream (first zatsudan from Japan)
+▼ Last stream (first zatsudan from Japan, 03/12)
 https://www.youtube.com/watch?v=lgnBEaH-Rh8
 
 \>Songs

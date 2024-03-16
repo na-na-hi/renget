@@ -14,7 +14,7 @@
 
 -> **Games** ![](https://massacre.crd.co/assets/images/gallery03/6e8ce1e5.gif?v=40f90844)
 ` Overwatch` • `Genshin Impact` • ROBLOX • Minecraft • Identity V
-Cookie Run: Kingdom & Ovenbreak • Animal Jam • `Pony Town & Ashes Town` 
+Cookie Run: Kingdom & Ovenbreak • Animal Jam • `Pony Town` 
 `Ensemble Stars` • Danganronpa • Outlast • Yakuza <-
 ->***+*** *unlisted* <-
 

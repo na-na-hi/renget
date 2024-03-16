@@ -430,6 +430,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
 ![](https://thumbs2.imgbox.com/c9/8e/heRC9Faq_t.jpg) | 7" Kara | 7” Kara is a suburban fantasy comic aimed at young girls. Inspired by books such as “The Borrowers”, “The Littles”, and “Gulliver's Travels”, 7” Kara follows the adventures of the 11 year old Lilliputian Kara. Kara lives with her parents in an old doll house that's been hidden away in the back of a neglected shed. | SFW, F&mf, inherent, borrowers | Topic | [Website](https://7inchkara.com/)
 ![](https://thumbs2.imgbox.com/51/b2/aEQwyXem_t.jpg) | Albdur , Tale of the Witch queen | A young fairy is at a crossroads between her heart and her roots, how far and how fast can a feeling fly? Witness the story of Denebra, a young fairy whose life changes when she meets a young human boy, in this medieval fantasy drama created by Jesus Conde | SFW, M&f, inherent, fairies | Topic | [Webtoons](https://www.webtoons.com/en/challenge/albdur-tale-of-the-witch-queen/list?title_no=807104)
 ![](https://thumbs2.imgbox.com/bd/4f/gDwVbJXR_t.jpg) | Alice the Succubus | In a world called Felarya, were just about anything and every thing can, and probably will, happen! It is this world that Alice the Succubus has made her home! And when she meets a new “Friend” her life gets a little more interesting. Vore Based Comic | NSFW, F/mf, inherent, shrinking, growth | Topic | [The Duck](https://www.theduckwebcomics.com/Alice_the_Succubus)
+![](https://thumbs2.imgbox.com/0a/b0/3Z47a9tk_t.png) | Anrisivé | A lost one wanders the dark. Are they searching? Are they fleeing? Only time will tell. | SFW*, F&m, inherent | Topic | [ComicFury](https://anrisive.thecomicseries.com/)
 ![](https://thumbs2.imgbox.com/61/0c/b4NMVH0V_t.png) | Beth N Cherry | Beth n Cherry is a wlw giant/tiny comic! | SFW, F&f, inherent | Topic | [Website](https://bethncherry.tumblr.com/)
 ![](https://thumbs2.imgbox.com/fd/d5/E6HAiAfH_t.jpg) | Beyond the Walls | Join Ginger, Kitch and Pom...the few surviving Borrowers of their generation as they go through their busy,crazy filled adventures in the modern world! | SFW, mf, inherent | Topic | [Tapas](https://tapas.io/series/BTW/info)
 ![](https://thumbs2.imgbox.com/e5/ee/E7tCiaxM_t.jpg) | Bronze Skin Inc. |  When mysteriously a group of women become gigantic, a company arises to bring peace between peoples of different sizes and beautiful tan. | SFW*, F&mf, growth | Topic | [Webtoons](https://m.webtoons.com/en/challenge/bronze-skin-inc/list?title_no=324948), [Tapas](https://tapas.io/series/Bronze-Skin-Inc), [ComicFury](https://bronzeskin.webcomic.ws), [DeviantArt](https://www.deviantart.com/entrecoxas/gallery)
@@ -438,12 +439,18 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
 ![](https://thumbs2.imgbox.com/4f/04/PDFcPWRC_t.png) | Fairy Dust | Fairy Dust is a fantasy webcomic set in a modern time, but populated by imaginary creatures. | SFW*, MF&mf, inherent, fairies | Topic | [Wayback Machine](https://web.archive.org/web/20190910105012/http://fairydust.thecomicseries.com/)
 ![](https://thumbs2.imgbox.com/b2/15/IpR5o54o_t.jpg) | Fairy Problems | She's Silk, the protagonist of the new series "Fairy Problems. We will deal in a tragicomic way with important issues such as the pollution of cities and the problems caused to local fauna and flora. Follow us and support our project!!! | SFW, F&f, mf, inherent, fairies | Topic | [Webtoons](https://www.webtoons.com/en/challenge/fairy-problems/list?title_no=534426)
 ![](https://thumbs2.imgbox.com/fb/a2/o4LAos7Q_t.jpg) | Flame in the Night | Erika, the witch choose an unusual method for increase her magic power, but like all things, it also has a price. | SWF*, F&m, fm, inherent, shrinking, short, complete | Topic | [Archive](https://archive.org/download/smackjeeves-164857/164857/index.html)
+![](https://thumbs2.imgbox.com/d1/e2/XaGYkg1O_t.png) | FOUND | Vanished from society by a league of mad scientists, a boy is trying to be discovered in a world a thousand times his size. To his surprise, the answer to his prayers may lie in a new survivor—A girl who is simply terrified for her safety. Can the two of them settle on common ground and work together to be FOUND? | SFW, FM, fm, shrinking, complete | Topic | [Webtoons](https://www.webtoons.com/en/canvas/found/list?title_no=707187)
 ![](https://thumbs2.imgbox.com/9a/1d/MwVCkrL9_t.jpg) | Giant Monster: Gao-chan! | Uh-oh. Humanity might be doomed. Giant Monster Gao-chan is here! When she's not leveling our cities just for the fun of it, she spends her laid-back days joking around and playing with her monster friends. Sometimes strange monsters might attack them, and that keeps her busy and away from us. Hopefully if we ignore her, she'll get bored and leave us alone. | SFW, F&mf, inherent | Topic | [Webtoons](https://www.webtoons.com/en/challenge/giant-monster-gao-chan/list?title_no=679122)
+![](https://thumbs2.imgbox.com/6b/08/fqZJTQCf_t.jpg) | Grand Spirit | Wang Min is a forest fairy, proud servant of the Grand Nature and not a fan of humans. Everything tanks when he discovers that he and his fellow keepers are human-made machines! Forced to befriend Lam, a human who oversees fairies, Wang Min unravels the muddy truth behind fairy-kind...  | SFW, F&m, inherent, fairies | Topic | [Webtoons](https://www.webtoons.com/en/challenge/grand-spirit/list?title_no=6608)
 ![](https://thumbs2.imgbox.com/ff/cd/6sYQXeQm_t.jpg) | Huge Hana | Huge Hana chronicles the rise of Hana Masterson, a troubled soul mysteriously transformed into a huge being of unimaginable power. Struggling with her newfound size, forced to flee from a world who deems her a monster, Hana will soon need to confront the very same dark power that transformed her, band with an unlikely group of allies, and face her destiny as earth’s only hope against an unspeakably evil and seemingly unstoppable reign of terror. | SFW, F, growth, sizeshifting | Topic | [Webcomic](https://hugehana.tumblr.com/)
 ![](https://thumbs2.imgbox.com/cc/7d/TMrzKVNh_t.jpg) | I.F.S.U | Femdom, transformation, giantess/shrinking themed webcomic. wrapped in an action, comedy adventure, super hero plot. its like a burrito made of fetish and crazy, enjoy. | SFW*, F/fm, growth, shrinking | Topic | [ComicFury](https://ifsused.thecomicseries.com)
+![](https://thumbs2.imgbox.com/ba/4f/g4keUsI1_t.jpg) | Jaq & Jill | In a land of tall tales, Jaq meets Jill. Jaq’s family is on hard times, and Jill is happy to share. But when Jaq realizes the depths of desperation, and Jill can’t stay away, the two must stand against their worlds together and protect all who they love. A story of fairy tales, nursery rhymes, and blossoming sapphic love. | SFW, F&f, inherent | Topic | [Webtoons](https://www.webtoons.com/en/challenge/jaq-jill/list?title_no=765903)
 ![](https://thumbs2.imgbox.com/a3/f3/6zY19Du6_t.jpg) | Lost and Found | A story about a Giant who finds a human child in the middle of a blizzard. Turns out the kid brings more trouble than he ever imagined. | SFW, M&?, inherent | Topic | [Webtoons](https://www.webtoons.com/en/challenge/lost-and-found/list?title_no=160629)
 ![]() | Not Big and Not Clever | | SFW, MF&mf, furry | Topic | Archive TBU
+![](https://thumbs2.imgbox.com/3a/51/ENFpeDiv_t.png) | Salt & Pepper | He's an engineer. She's three inches tall. Together they make it work. Follow this wholesome couple as they navigate their way through life's adventures, big and small! | SFW, M&f, inherent | Topic | [Webtoons](https://www.webtoons.com/en/canvas/salt-pepper/list?title_no=896513)
 ![](https://thumbs2.imgbox.com/57/7d/HUveskDC_t.png) | Small Blessings | The nightly adventures of a tiny house-spirit in an old apartment building. | SFW, F&m, inherent | Topic | [tumblr](https://smallblessingscomic.tumblr.com/), [Webtoons](https://www.webtoons.com/en/challenge/small-blessings/list?title_no=140400)
+ ![](https://thumbs2.imgbox.com/74/b2/xNiS7Pw4_t.png) | Stone's Coast | Follow the adventures of Velverelle, the last known giant, as she attempts to find her place in a seemingly shrinking world while uncovering the mystery of what happened to her kin. | SFW, F&f, inherent | Topic | [Tapas](https://tapas.io/series/Stones-Coast/info)
+ ![](https://thumbs2.imgbox.com/9d/91/yrA61i4G_t.png) | Stone's Coast Shorts | One-off comics featuring characters from the Stone's Coast webcomic undertaking some shenanigans. | SFW, F&f, inherent | Topic | [Tapas](https://tapas.io/series/Stones-Coast-Shorts/info)
 ![](https://thumbs2.imgbox.com/e6/d4/me06jdRK_t.jpg) | TINY | What if a mysterious warrior one day appeared on your breakfast table? | SFW, M&f, ? | Topic | [Webtoons](https://www.webtoons.com/en/challenge/tiny/list?title_no=356016)
 ![](https://thumbs2.imgbox.com/9a/78/nRppzqIE_t.jpg) | Tiny Troubles | Bellalina is a tiny girl living in a giant world. Everyday is an adventure finding creative work arounds to even the biggest problems. Updates once a month. | SFW, MF&f, f, inherent | Topic | [Webtoons](https://www.webtoons.com/en/challenge/tiny-troubles/list?title_no=364033)
 ![](https://thumbs2.imgbox.com/7e/a4/X50DTjrY_t.jpg) | Traffic Jam! | A giant girl in the middle of nowhere discovers her taste for cars and develops the ability to control the flow of traffic with her eyes. | SFW, F, inherent, short, complete | Topic | [Webtoons](https://www.webtoons.com/en/challenge/traffic-jam/list?title_no=272906)
@@ -499,11 +506,8 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Fairies of the East | SFW, M&?, fm, inherent, fairies | Protagonist? | [Webtoons](https://www.webtoons.com/en/challenge/fairies-of-the-east-/list?title_no=359318)
  * The Dangers Outside | SFW, M&f, inherent, fairies | Protagonist | [tapas](https://tapas.io/series/The-Dangers-Outside-/info)
  * Kletschmore | SFW, fm, inherent | Protagonist | [tapas](https://tapas.io/series/Kletschmore/info)
- * Grand Spirit | SFW, F&m, inherent, fairies | Topic | [Webtoons](https://www.webtoons.com/en/challenge/grand-spirit/list?title_no=6608)
- * Jaq & Jill | SFW, F&f, inherent | Topic | [Webtoons](https://www.webtoons.com/en/challenge/jaq-jill/list?title_no=765903)
  * Pibgorn
  * The one with the fairy in the cage and the guy gets shot
- * Anrisive | [ComicFury](https://anrisive.thecomicseries.com/)
  * The Little Unknown
  * modest medusa 
  * Forever After
@@ -526,12 +530,28 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Buttercup and Thorn | [Webtoons](https://www.webtoons.com/en/canvas/buttercup-and-thorn/list?title_no=529728)
  * Kaiju Shenanigans | [Webtoons](https://www.webtoons.com/en/canvas/kaiju-shenanigans/list?title_no=773124)
  * Mr. Mugu's Magnificent Mind | [Webtoons](https://www.webtoons.com/en/canvas/mr-mugus-magnificent-mind/list?title_no=857792)
- * FOUND | [Webtoons](https://www.webtoons.com/en/canvas/found/list?title_no=707187)
  * Big Girl | [Webtoons](https://www.webtoons.com/en/canvas/big-girl/list?title_no=815425)
  * Astra and Dalia | [Webtoons](https://www.webtoons.com/en/canvas/astra-and-dalia/list?title_no=828619)
  * Tiny Amazing: The Hero No One Noticed | [Webtoons](https://www.webtoons.com/en/canvas/tiny-amazing-the-hero-no-one-noticed-/list?title_no=873611)
  * Collateral Dee | [Webtoons](https://www.webtoons.com/en/canvas/collateral-dee/list?title_no=892807)
  * The not so Stalwart Kharon | [Webtoons](https://www.webtoons.com/en/canvas/the-not-so-stalwart-kharon/list?title_no=898156)
+ * Field War! | [Webtoons](https://www.webtoons.com/en/canvas/field-war/list?title_no=370933)
+ * The Adventures of Stickman | [Webtoons](https://www.webtoons.com/en/canvas/the-adventures-of-stickman/list?title_no=349672)
+ * MINI MAN - The Microscopic Marvel | [Webtoons](https://www.webtoons.com/en/canvas/mini-man-the-microscopic-marvel/list?title_no=478708)
+ * Getting Small | [Webtoons](https://www.webtoons.com/en/canvas/getting-small/list?title_no=579627)
+ * Little man Big earth | [Webtoons](https://www.webtoons.com/en/canvas/little-man-big-earth/list?title_no=719332)
+ * A shrunk students life | [Webtoons](https://www.webtoons.com/en/canvas/a-shrunk-students-life/list?title_no=754572)
+ * The Life and Times of Johannes Schachmann | [Tapas](https://tapas.io/series/The-Life-and-Times-of--Johannes-Schachmann/info)
+ * Red fairy & Youngowl | [Tapas](https://tapas.io/series/Red-fairy--Youngowl/info)
+ * Maid with the Blade | [Tapas](https://tapas.io/series/Maid-with-the-Blade/info)
+ * Attack on Moe | [Tapas](https://tapas.io/series/Attack-on-Moe/info)
+ * Miles of Painted Darkness | [Tapas](https://tapas.io/series/Miles-of-Painted-Darkness/info)
+ * The Tiny Giant | [Tapas](https://tapas.io/series/The-Tiny-Giant/info)
+ * Do as You Wish | [Tapas](https://tapas.io/series/Do-as-You-Wish/info)
+ * Table for Ten | [Tapas](https://tapas.io/series/Table-for-Ten/info)
+ * The Flying Ship | [Tapas](https://tapas.io/series/The-Flying-Ship/info)
+ * False Lies | [Tapas](https://tapas.io/series/False-Lies/info)
+ * Giants, Into the Sunset | [Tapas](https://tapas.io/series/Giants-Into-the-Sunset-/info)
 
 #### Minor
  * Cloudy With a Chance of Faeries | [ComicFury](https://cloudy.thecomicseries.com), [Archive](https://archive.org/download/smackjeeves-152901/152901/index.html)
@@ -546,7 +566,6 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Knights of Samaria | [ComicFury](https://knightsofsamaria.thecomicseries.com)
  * Small | [The Duck](https://www.theduckwebcomics.com/Small)
  * Bookworm | [tapas](https://tapas.io/series/Bookworm/info)
- * Stone's Coast | [tapas](https://tapas.io/episode/2947555) (Very new comic)
 
 #### Shit
  * The Adventures of Anna Glenn and Her Pet Ethan | [Archive](https://archive.org/download/smackjeeves-44126/44126/index.html)
@@ -574,6 +593,7 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Pocket Sister | [Webtoons](https://www.webtoons.com/en/challenge/pocket-sister/list?title_no=50818 )
  * Happy Fun | [tapas](https://tapas.io/series/Happy-Fun/info)
  * A bird amongst snakes | [Webtoons](https://www.webtoons.com/en/canvas/a-bird-amongst-snakes/list?title_no=892009)
+ * Little Lily | [Webtoons](https://www.webtoons.com/en/canvas/little-lily/list?title_no=472879)
 
 #### Lost
  * Cum Fairies | [The Duck](https://www.theduckwebcomics.com/Cum_Fairies_1)
@@ -717,6 +737,11 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
  * Jack and the Beanstalk (1933)
  * Jack and the Beanstalk (1931)
  * FernGully 2: The Magical Rescue
+ * Fantastic Voyage (1968-1969) | The government employs a team of experts who are shrunken to microscopic size to infiltrate and combat otherwise impenetrable threats. | SFW, shrinking | Topic | [Cover](https://thumbs2.imgbox.com/71/5e/95iFGkCI_t.jpg)
+ * Justice League Action | Batman, Superman and Wonder Woman will lead the DC Super Heroes against their most infamous foes. | s01e20, s01e23, s01e28, s01e38 (atom episodes) | [Cover](https://thumbs2.imgbox.com/46/6d/VecltMh7_t.jpg)
+ * Boo, Zino & the Snurks | The beautiful world of Gaya is home to a community of creatures, who are much smaller than humans, but who have an uncanny resemblance to them. But the Gayans are facing imminent danger. Someone has stolen the magic stone called Dalamite without which this world is doomed. Two Gayans named Boo and Zino embark on a dangerous mission to track down and recover the stone. As they attempt to find the stone, their journey takes them into another world that is strange and frightening. | [Cover](https://thumbs2.imgbox.com/fa/d5/Nxm5AS3S_t.jpg)
+ * The Woodlies (2012-2012) | Funny, fast and furry - the Woodlies are nuttier than a squirrel's lunch, on a mission to protect their forest from the human Uglies and get their paws on the biggest stash of food they can find! | [Cover](https://thumbs2.imgbox.com/b7/62/b8eECmWj_t.jpg)
+ * The Woodlies (2013) | Close to a campsite the small, furry Woodlies SEVENPOINTS, FIREHEAD and NINEEYES live in the woods. Winter is approaching and they can't find enough food in the forest anymore. They wait until the humans have left the campsite, invade the owner's house and search it for food: most notably cookies! But a cat that has remained on the campsite starts to chase after them. They manage to escape and take the food to their burrow. All of a sudden SevenPoints is abducted by wicked WHITETAIL and the Swamp Rats, a gang of Woodlies who live in the swamps. FireHead and NineEyes manage to enter WhiteTail's hideout and free not only SevenPoints but also other Woodlies who are kept as prisoners by WhiteTail. | [Cover](https://thumbs2.imgbox.com/f0/e2/Crj0nBB9_t.jpg)
 
 #### Lost
  * Gigantic | cancelled

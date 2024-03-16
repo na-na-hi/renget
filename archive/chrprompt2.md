@@ -441,16 +441,27 @@ Q1: What's your favorite thing about the Clover Guild?
 Q2: Have you met Chespin's friend, Wooper?  Do the two of you get along?
 
 ###Rain
-Q1: How are you adapting to having four legs?  Do you miss having hands yet?
-Q2: Do you actually hate Cory's puns?  Or do you secretly enjoy them, even a little bit?
+Q1: How are you adapting to having four legs? Do you miss having hands yet?
+>Movement's fine if I don't think about it too hard. As for hands- I think I mostly miss being able to write properly. The paws are oddly decent at holding other things. Even [cups!](https://pbs.twimg.com/media/ENCh8y3WsAAG3WS?format=png&name=small)
+Q2: Do you actually hate Cory's puns? Or do you secretly enjoy them, even a little bit?
+>I wouldn't mind it so much if he didn't do it once *every minute*.
+>>Cory: She loves them!
 Q3: Does Cory have an accent?
+>He sounds weirdly Austrailian. I'm pretty sure I even heard him mutter a "Crikey" while battling that Ariados...
 Q4: Have you found any cool new flowers in this world that didn't exist back in the human world?
+>Not so far, but I imagine there would be. Actually, in the flowers that I *have* seen thus far, I noticed a *distinctly* larger amount of pollen! I'd chalk it up to there being fewer pollinators around, or maybe the lack of human intervention... although wind-pollinated plants *usually* don't invest time and energy to produce such large flowers. I really hope someone has done *some* taxonomy on these plants... And the Berry bushes Cory found me in- I didn't note any flowers or flower buds, which is *really* weird because - ([RainYapping.mp3](https://www.youtube.com/watch?v=BQ0h6dewnrQ))
 
 ###Cory
 Q1: What's up with that Eevee?
+>She's a funny lil fella! I've never enjoyed teasing a Pokemon this much before, and her fur colour makes it ten times easier to tell when she's blushing! I gotta come up with more plant puns, she gets *really* fired up for those ones. I think she *wood* make a great Leafeon.
+>>Rain: ...
+>>>You know that was a good one! Don't *leaf* me hanging!
 Q2: If you could ask a human anything, what would you ask them?
-Q3: Do you have a dayjob?  If you do, don't quit it.
+>Aw man, I guess I'd ask if the stories are true and if they really have the power to learn *any* move. Imagine a whole guild of humans! They'd be legendary!
+Q3: Do you have a dayjob? If you do, don't quit it.
+>Nah, I'm not very proud of it, but I've been trying to find a job for a while now... or a place to live... that has a proper roof.
 Q4: Is Cory in the house?
+>I don't have a house! ...wheres that [music](https://www.youtube.com/watch?v=Nt95ZrjKqtk) coming from??
 
 ###Mandibuzz
 Q1: You used to be a Pokemon trainer, right?  How does it feel to be one yourself?
@@ -587,10 +598,17 @@ Q2: How are you adapting to the Pokemon world?
 >Booker: I wish I knew more about instincts at the start. I had a p-pretty big scare early on, when I first started settling into my new body and balancing my Aura. That made my instincts start... activating, essentially. I started feeling weird desires and fears... like there was some other p-person in my head trying to take over. It kept trying to make me hate things I used to love, l-like my favorite foods or the sound of rain. It was... unsettling. But with some encouragement from Sneasel, I was able to accept those new feelings without letting them control me.
 
 **Dog, cat, and fox mons**: Do you ever get the zoomies?
+>Adrian: Never
+>>Enny: All the time!
 
-**Former humans**, Does your partner have a family? How would they respond to the question, "How's your relationship with your family?"
+>Turk: Only when I'm in bad withdrawal. And yes a bipedal dog acting like an excited puppy IS as embarassing as it sounds, bro. Seriously guys stop touching my stash...
+
+>Cassie: I had to ask a human what this means.  Kiyo would never admit it, especially if it has a name this cute, but he gets the zoomies all the time!  I think it's cuz he acts super serious and grumpy all the time, so he's got way too much pent up energy.
+
+**Natives**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
 
 **Guildmons**, If your character had to trade partners with another guild members, which other partner do you think would suit them best?
+>Adrian: I don't want to be partners with anybody, but if I was forced to, Toge was alright during that one job we did together.
 
 **Guildmons**, You saw a job listing in the bulletin board with a huge reward, but the description is quite suspicious to say the least... would you still risk it and take the job?
 
@@ -639,3 +657,9 @@ How common is it for your life to be at risk? Be it when venturing into a dungeo
 >Booker: The overworld is safe for the most part, but it's common for me and Sneasel to put ourselves in danger, because we do a lot of missions that involve combat. It’s stressful, to be honest, but... not as scary as it could be. I trust her to fight well and keep both of us safe, and I do my best to help out too.
 
 Before joining this clover guild thing, do you have a completely different pokemon in mind than the one you're currently using, if so, then why? For example, you were planning to be this Pokemon but it's kinda overrated/legendary/too strong and decided against it or some other member got to use it before you came, and etc.
+
+>IV-Anon: Several and too many to count, including legendaries like Victini who I like visually and believed my own writing good enoigh to subvert their OP nature. I'm starting to kind of come to gripe with my current choices though, both from difficulty of drawing, writing, and reception. I'd completely trash everything I was doing to go with the Zangoose and Seviper pair I first had in mind before autistic whimsy took me over for more "fringe" ideas that I'm currently stuck with and am struggling to stay enthusiastic about currently. Sorry if this is a complete bummer of an answer.
+
+If clover guild did not exist, where would you be at this point in time?
+
+>IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.

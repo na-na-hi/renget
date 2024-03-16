@@ -94,7 +94,7 @@ First, some notes:
 |-|-|
 | ![Saria](https://files.catbox.moe/81xbmf.png) | Text with a student of magical arts. |
 
-[Catbox](https://files.catbox.moe/vkz842.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/saria-c5c2f1dc)
+[Catbox](https://files.catbox.moe/0ew88b.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/saria-c5c2f1dc)
 
 You receive a series of weird text messages from someone claiming to be studying at a magic academy. Her name is **Saria**, and she says she found a mystical glowing slate lying on the side of the road. The curious girl has a lot to share, and thus begins the most unusual cross-universe relationship.
 

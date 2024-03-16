@@ -738,6 +738,10 @@
 !!! info 6 Outfits!
 -> [Civitai](https://civitai.com/models/347781/irys-6-outfits-or-hololive-or-pony-xl) <-
 
+##### -> (Staff) A-Chan <-
+!!! info [TagInfo](https://warosu.org/vt/thread/S71464421#p71546600)
+-> [MEGA](https://mega.nz/file/hCllEZyL#cWr037D_tucoIw61jRW504wF27usf4qIu-Eg34tQpfA) <-
+
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***

@@ -163,6 +163,7 @@ guess the ELO:
 - https://calendar.chessaround.com
 - https://worldchesscalendar.com
 - http://wheretoplaychess.info/Calendar
+- https://www.events4chess.com/events
 
 - https://lichess.org/tournament/calendar
 - https://lichess.org/tournament
