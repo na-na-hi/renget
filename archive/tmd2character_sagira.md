@@ -72,7 +72,7 @@ Stat: Special Attack **ɪ** | Tier **ɪ** (+1) | Refining the light within.
 Training | Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Training for Attribute: ??? | Tier **ɪ** (+1) | 0/3 | ▯▯▯
-Currently Training for Stat: Special Attack **ɪɪ** | Tier **ɪɪ** (+2) | 1/9 | ▮▯▯▯▯▯▯▯▯
+Currently Training for Stat: Special Attack **ɪɪ** | Tier **ɪɪ** (+2) | 2/9 | ▮▮▯▯▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them. 

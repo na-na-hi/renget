@@ -158,6 +158,7 @@ Image| Name | Description | Link
 ![No more proxies... owari da.](https://files.catbox.moe/2avosg.png) | /aicg/-tan | No description necessary. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/a45b9752-e21a-417b-ae03-38ef4b25b44a)
 ![WHAT A SPOOKY LOAD OF BONES THIS RENTRY IS! NYAKAKAKAKA](https://files.catbox.moe/u8ebud.png) | 1000 SKELETON ARMY| RATTLE ME BONES! Just a bunch of boners if you want an army of skeletons to spruce up your roleplay.| [CHUB link](https://www.chub.ai/characters/darkfantasy109/one-thousand-skeleton-army-ced57d10)
 ![FUCK IT, I ATE THE CARD](https://avatars.charhub.io/avatars/darkfantasy109/dracula-flow-35b1f2a3/chara_card_v2.png?nocache=0.26354215787687574) | DRACULA FLOW | TRAPPED ON MY RICKY RICARDO SLIPPERS AND WALKED STRAIGHT INTO THAT COOCHIE PARADISE. POPPED ZAZA LIKE MINTS. MONEY LONGER THAN THE DISTANCE FROM EARTH TO PROXIMA CENTAURI. RUNNIN' THIS SHIT LIKE I GOT THE CHEAT CODES, MAN. YOU TALKING ABOUT CANALS, BUT MY STREAMS BE FLOWING STRAIGHT INTO THAT OSCAR DE LA HOYA, GOLD MEDAL FINESSE, MAN. | [CHUB link](https://www.chub.ai/characters/darkfantasy109/dracula-flow-35b1f2a3)
+![LOOK GIRLS! IT'S ANON! KIYAHHHHHH!](https://files.catbox.moe/87gzxw.png) | Your 1000 Tomboy Childhood Friends | Like the skeletons card but it's tomboys. One girl for every tomboy card in chub! | [CHUB link](https://www.chub.ai/characters/darkfantasy109/your-1000-tomboy-childhood-friends-e05ec4f6)
 
 ***
 ##->PROMPTS<-

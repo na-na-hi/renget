@@ -22,8 +22,8 @@ Illusion | The User may disguise themselves as another Pokémon they've seen rec
 Stat | Points: 3 (+3) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
 Health Points | 0 | Level 13 (22HP) | 22HP
-Attack | 3 | ɴᴏ ʙᴏɴᴜs | +3 Physical Damage 
-Special Attack | 0 | Species Bonus | +1 Special Damage
+Attack | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Damage 
+Special Attack | 3 | Species Bonus | +4 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation
 Special Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Special Mitigation
 Speed | 0 |  Speed **ɪɪɪ**  | 5 AP

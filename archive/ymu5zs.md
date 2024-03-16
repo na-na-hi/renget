@@ -1,7 +1,13 @@
-#**Extended List of Story Updates from edition #2462 - #2925**
+#**Extended List of Story Updates from edition #2462 - #2927**
 
 /hmofa/ Masterbin: https://rentry.org/hmofa
 Contact: azuhmier@gmail.com (Questions or Suggestions?)
+
+---------#2926 [ Fri 15 Mar 2024 01:42:05 ]
+
+######Anonymous
+`An Egg In Trying Times `
+https://rentry.org/AnEggInTryingTimes-Prologue
 
 ---------#2920 [ Mon 11 Mar 2024 15:59:42 ]
 
@@ -840,4 +846,4 @@ https://archiveofourown.org/works/46352428
 
 ######ColonTwo
 `My Waspfu (Ch. 3)`
-https://archiveofourown.org/works/28431948
+h

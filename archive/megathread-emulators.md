@@ -185,6 +185,10 @@
 - It has several features, such as a GUI, netplay, and a automated updater.
 - [URL Safety Results](https://www.urlvoid.com/scan/simple64.github.io/)
 
+### 🔗 [Snes9X](https://www.snes9x.com/) • SNES
+- Portable emulator, letting users play SNES and Super Famicom games on their PC.
+- [URL Safety Results](https://www.urlvoid.com/scan/snes9x.com/)
+
 ### 🔗 [suyu](https://suyu.dev/) • Switch
 - Open-source, free, non-profit Switch emulator built on C++ with a strong compatibility focus.
 - [URL Safety Results](https://www.urlvoid.com/scan/suyu.dev/)

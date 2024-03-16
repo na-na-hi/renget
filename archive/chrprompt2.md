@@ -317,6 +317,7 @@ Q4: What happened to the money I lent you last Saturday?
 >I spent it.  Thanks!
 Q5: Do you play any instruments besides the harmonica?
 >Yeah.  Why?
+Q5.1: What other instruments do you play? Is harmonica your favorite out of the bunch?
 
 
 ###Cassie
@@ -484,7 +485,7 @@ Q2: How are you adapting to the Pokemon world?
 
 >Hazel: The risk of great bodily damage is a great way to dissuade, like that thing Carrot mentioned, mad or something?
 
->Sneasel: It should be pretty obvious, but I try to keep away from Fighting-types. I also try not to mess with bulky Pokemon or fast ones. They’re harder for me to deal with, cuz I’m all about using quick attacks. Pokemon that can dodge or tank my hits are a hassle. But if I gotta fight them, I just do my best.
+>Sneasel: It should be pretty obvious, but I try to keep away from Fighting-types as much as possible. I also hate having to deal with bulky Pokemon, cuz they’re annoying. Fast Pokemon that can dodge are a hassle too. But if I gotta fight those kinds of enemies, I just do my best. It can be fun to challenge myself.
 
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
@@ -511,7 +512,7 @@ Q2: How are you adapting to the Pokemon world?
 
 >Carrot: I don't remember any, but i remember a line, "It's no better to be safe than sorry, so takee on mee", that's all i remember
 
-
+>Booker: I mostly liked listening to soft rock, folk rock, and some soul. It’s hard for me to pick a favorite band or artist, but... I might go with James Taylor. Ray Charles was good too. My parents really loved his music. “Georgia on My Mind” was their special song, since our family was from Georgia. I wish I could hear that song again... S-sorry, I’m just getting a bit... sentimental...
 
 **Guildmons without partners**, do you recruit other guildmons for big missions?  If so, who?  Or would you rather go solo?
 >Lliam: I would prefer to go solo as much as I can. There's a plethora of reasons that I don't want to get into detail, but one of the reasons is that it's  usually for research purposes, and bringing people along would hinder this process...
@@ -559,6 +560,8 @@ Q2: How are you adapting to the Pokemon world?
 
 **Former humans**, things you wished you knew about living as a Pokemon (your species or in general) that you wish you knew beforehand?
 >Turk: There's a lot of things about aura that I wish I knew when I was a Riolu... Especially how damn badly your emotions need to be under control. It certainly caused problems in my past... Thank Arceus; I got my 'medicine' for that, dude. There's always going to be someone pestering you if you're okay when you look like you're going to keel over at any moment, especially when I'm a few pieces short of a whole Pokemon, which makes some things... difficult. I'll leave it up to you what that means, bro. I tend to learn something new every day about Pokemon healthcare and grooming due to it, though. ...Or maybe I just often forget shit from the drugs? But I don't think that's an experience most 'Mon go through, man.
+
+>Booker: I wish I knew more about instincts at the start. I had a p-pretty big scare early on, when I first started settling into my new body and balancing my Aura. That made my instincts start... activating, essentially. I started feeling weird desires and fears... like there was some other p-person in my head trying to take over. It kept trying to make me hate things I used to love, l-like my favorite foods or the sound of rain. It was... unsettling. But with some encouragement from Sneasel, I was able to accept those new feelings without letting them control me.
 
 ##->**Pair Questions**<-
 

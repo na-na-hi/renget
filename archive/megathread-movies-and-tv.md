@@ -85,6 +85,10 @@
 
 # 📑 ➜ Streaming
 
+### ▶️ [321movies](https://321movies.co.uk/)
+- Embark on a unique online movie-watching adventure, unparalleled compared to other platforms.
+- [URL Safety Results](https://www.urlvoid.com/scan/321movies.co.uk)
+
 ### 🐐 [Ask4Movie](https://ask4movie.li/)
 - Perfect platform to enjoy full movies and TV series online. With multilingual subtitles available.
 - [URL Safety Results](https://www.urlvoid.com/scan/ask4movie.li/)

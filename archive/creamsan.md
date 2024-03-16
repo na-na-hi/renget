@@ -63,6 +63,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 ![Battlestripsv2](https://creamsan.neocities.org/files/cards/battlestripsv2.png) | Battlestrips v2 | Strip Battleships game. | [CHUB](https://chub.ai/characters/creamsan/battlestrips-v2-3466337a) [Neocities](https://creamsan.neocities.org/#battlestrips_v2)
 ![Tessa](https://creamsan.neocities.org/files/cards/tessa.png) | Tessa | Create things together with this mysterious girl. You start with 4 elements: fire, earth, water, and air. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/tessa-c4b917f9) [Neocities](https://creamsan.neocities.org/#tessa)
 ![Sini](https://creamsan.neocities.org/files/cards/sini.png) | Sini | Finnish girl to interact with. She'll slowly form a persona about you as you chat. A blank persona is recommended. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/sini-2a5d066e) [Neocities](https://creamsan.neocities.org/#sini)
+![Yui](https://creamsan.neocities.org/files/cards/yuiv2.png) | Yui v2 | Your companion to guide you through the dangerous frozen wasteland. (JavaScript) | [CHUB](https://chub.ai/characters/creamsan/yui-v2-674ff505) [Neocities](https://creamsan.neocities.org/#yui_v2)
 
 ***
 ##PROMPTS AND SETUP
@@ -70,7 +71,7 @@ Recommended models: GPT4-0613, Claude 1.2/1.3/2
 Most of my cards contain <rules> tags, for formatting and instructions to the AI.
 Add to your JB/prefill: `Follow the <rules> closely.` or something like that.
 
-Some of them use CoT. To remove those thoughts, add a regex script to SillyTavern. Download this: [Regex script](https://creamsan.neocities.org/files/presets/removecot.json). Once downloaded, go to Extensions > Regex, click on Import Script, then select the file you downloaded (**removecot.json** should be the filename).
+Some of them use CoT. To remove those thoughts, add a regex script to SillyTavern. Download this: [Regex script](https://creamsan.neocities.org/files/presets/removecot.json). Once downloaded, go to Extensions > Regex. Click on Import Script, then select **removecot.json**.
 
 ***
 ##JSON FILES
@@ -78,15 +79,16 @@ See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
 ***
 File | Version
 --- | ---
-[Quick_import](https://creamsan.neocities.org/files/presets/qr-quick-import.json) | Mar-15-24
+[Quick_import](https://creamsan.neocities.org/files/presets/qr-quick-import.json) | Mar-16-24
 [Regex_script](https://creamsan.neocities.org/files/presets/regexreplace.json) | Feb-10-24
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
-!!! note Updated on **Mar-4-24**
-	Quick QR preset importer implemented. Huge thanks to stscript anon for providing the code. https://rentry.org/stscript#making-stscript-cards-easy-to-set-up. **Requires JS setup first.**
+!!! note Updated on **Mar-16-24**
+	Fixes and updates on Quick QR importer.
 	Note that you will still need to update the Quick Import preset itself by manually importing it. It is not included in the Quick Import.
 	If you don't want the UI stuff, just add the regex script. Then go here: [Console copy paste](https://rentry.org/creamsan#console-copy-paste).
+	Huge thanks to stscript anon for providing the code. https://rentry.org/stscript#making-stscript-cards-easy-to-set-up. **Requires JS setup first.**
 ***
 
 ### QR preset and regex script:
@@ -141,7 +143,7 @@ Notice that there's a new button **Update Presets** in the message box. You can 
 You should see the following popups:
 ![1](https://files.catbox.moe/4kcsmq.png)
 .
-![1](https://files.catbox.moe/yqwha7.png)
+![1](https://files.catbox.moe/fztp2i.png)
 .
 ![1](https://files.catbox.moe/8ekwt2.png)
 
@@ -157,15 +159,17 @@ To hide the **Update Presets** button, simply uncheck the **Buttons** checkbox. 
 
 ### Adding/Removing presets:
 
-Eventually you may need to add a new QR preset for a new card, or remove a preset from the selection. You can do this by editing the Quick import preset.
-Go to Quick Replies > Edit Quick Replies and select **qr-quick-import**. Once selected, click the three dots next to Update Presets to edit. You'll see the preset names and their corresponding links at the beginning of the script. When adding a new selection, follow this format: **presetname: "URL"**
-Don't forget the comma if it's not the last entry.
-![1](https://files.catbox.moe/zy5em5.png)
-![1](https://files.catbox.moe/y97yo6.png)
+Eventually, you may want to add a new QR preset collection from someone or yourself, or remove a collection from the selection. You can do this by editing the Quick Import preset.
+Go to Quick Replies > Edit Quick Replies and select **qr-quick-import**. Once selected, click the three dots next to Update Presets to edit. You'll see the links at the beginning of the script. When adding a new collection, just add a **"URL"**. Don't forget the comma if it's not the last entry.
+![1](https://files.catbox.moe/1qjvmd.png)
+![1](https://files.catbox.moe/g3sp8k.png)
+
+Collection json should look like this.
+![1](https://files.catbox.moe/8m3x46.png)
 
 ### Console copy paste:
 
-If you just want a very quick QR import without the hassle above, go to the ST tab, open console by pressing F12 and then paste and enter the code below. You can modify the QR json urls by removing/adding links. Reload ST afterwards. After reloading, make sure that creamsan is still in the Global Quick Reply sets.
+If you just want a very quick QR import without the hassle above, go to the ST tab, open console by pressing F12. Then paste and enter the code below. You can modify the QR json urls by removing/adding links. Reload ST afterwards. After reloading, make sure that creamsan is still in the Global Quick Reply sets.
 
 ```
 (async () => {
@@ -181,8 +185,9 @@ If you just want a very quick QR import without the hassle above, go to the ST t
         "https://creamsan.neocities.org/files/presets/teamneko.json",
         "https://creamsan.neocities.org/files/presets/battlestripsv2.json",
         "https://creamsan.neocities.org/files/presets/tessa.json",
-        "https://creamsan.neocities.org/files/presets/sini.json"
-          ];
+        "https://creamsan.neocities.org/files/presets/sini.json",
+		"https://creamsan.neocities.org/files/presets/yuiv2.json"
+    ];
 
     /**
      *  DO NOT FUCK AROUND WITH THE STUFF BELOW

@@ -284,7 +284,7 @@ Kuji Futoi: https://archive.4plebs.org/tg/post/91363451/
 
 ## RELATIONSHIP CHARTS
 Compilation: https://pastebin.com/rsnEph0b
-Flying Force: https://controlc.com/44584126
+Flying Force: https://rentry.org/bzp5fzp9
 Yamata: https://controlc.com/311a6f66 / https://rentry.org/r5xsg
 Blackout: https://rentry.co/9ev7t
 Mahoudeva: https://rentry.co/dbitv
@@ -292,7 +292,7 @@ Archangel: https://rentry.org/hgkmz
 Maru: https://controlc.com/6c88b849
 Spherethirst's Builds: https://controlc.com/843ce0cc / https://controlc.com/132d927a / https://rentry.org/b6chp
 King Billy: https://pastebin.com/6WZTEra0
-Aspara: https://controlc.com/905a656c
+Aspara: https://rentry.org/a5zie5p4
 Mirror Devil: https://rentry.org/ivm3c
 Drekus: https://rentry.org/7sx5c
 Last Rite: https://archive.4plebs.org/tg/post/88818615

@@ -171,6 +171,10 @@
 - Delight in the enduring charm of Windows 7 games on Windows 8, 10, and 11 platforms.
 - [URL Safety Results](https://www.urlvoid.com/scan/win7games.com/)
 
+### 🔗 [Worldofpcgames](https://worldof-pcgames.net/)
+- Explore free PC game downloads, ranging from vintage classics to cutting-edge titles.
+- [URL Safety Results](https://www.urlvoid.com/scan/worldof-pcgames.net/)
+
 &nbsp;
 
 ---

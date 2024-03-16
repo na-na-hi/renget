@@ -105,7 +105,6 @@
 **Steam-Repacks** | steam-repacks-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 💩 **STEAMUNLOCKED** | steamunlocked-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **WIFI4Games • Arabic UI** | wifi4games-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
-**Worldofpcgames** | worldof-pcgames-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 
 &nbsp;
 

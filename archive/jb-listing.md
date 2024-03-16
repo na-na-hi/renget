@@ -24,6 +24,8 @@ Most Claude 2 JBs work on Claude 3, as well as the typical short prefill short J
 
 https://rentry.org/pixibots#claude-3-prompt
 
+https://rentry.org/cheeseypretzel
+
 https://unconvincing.neocities.org/
 ***
 #####Claude 2

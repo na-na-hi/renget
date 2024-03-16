@@ -442,4 +442,5 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 ###->Edelweiss Chronicles<-
 !!! info
 	**Status: In progress**
-[**[1]**](https://arch.b4k.co/vp/thread/55584443/)
+[**[1]** *There is no kino here, only shitty 3d models*](https://arch.b4k.co/vp/thread/55584443/)
+[**[2]**](https://arch.b4k.co/vp/thread/55590263/)

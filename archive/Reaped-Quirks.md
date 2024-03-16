@@ -286,3 +286,19 @@ Quirk Nullification
 9 Points of Quirk Refinement
 
 15 Points
+
+!!!note
+	**Quirk:「Breach」**
+
+	Type: Emitter
+
+	Description: This quirk enables the user to tear space apart, creating portals that allow for instantaneous teleportation over vast distances.
+
+Teleportation Quirk
+-Self
+-Others
+-Portals
+-Aura
+-Long (XP)
+
+14 Points

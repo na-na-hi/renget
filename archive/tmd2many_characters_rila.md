@@ -18,7 +18,7 @@ Inner Focus | The User is immune to Intimidate and is unable to Flinch.
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 Stat | Points: 1 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
-Health Points | 0 | No Bonus | 20HP
+Health Points | 0 | No Bonus | 22HP
 Attack | 2 | Species Bonus | +2 Physical Damage 
 Special Attack | 1 | ɴᴏ ʙᴏɴᴜs | +1 Special Damage
 Defense | 0 | ɴᴏ ʙᴏɴᴜs | +0 Physical Mitigation

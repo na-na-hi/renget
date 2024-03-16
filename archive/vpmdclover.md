@@ -125,6 +125,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * Beau the Espeon
 	* [Within Me (ft. Beau)](https://rentry.org/dy7aab2h)
 	* [Within Me ch. 2 (ft. Beau)](https://rentry.org/WithinMe2)
+	* [Within Me ch. 3 (ft. Beau)](https://rentry.org/WithinMe3)
 * Bill the Growlithe
 	* [Liminal Crossroads ch. 1 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads1) 
 	* [Liminal Crossroads ch. 2 (ft. Growlithe(s))](https://rentry.org/LiminalCrossroads2) 
@@ -612,6 +613,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [Within Me ch. 2 (ft. Beau)](https://rentry.org/WithinMe2)
 * [A Ribombee's Anniversary](https://rentry.org/RibombeeAnniversary)
 * [The Platinum Syndicate Part 2: Cracking the Coffers (ft. Makky)](https://rentry.org/Platinum2)
+* [Within Me ch. 3 (ft. Beau)](https://rentry.org/WithinMe3)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

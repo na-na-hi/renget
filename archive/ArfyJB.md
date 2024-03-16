@@ -1,4 +1,5 @@
 # Modular JB for Claude and GPT4
+** Update 03/12 - Both RODES and RTF works with Claude 3.0 Opus, Sonnet, and Claude, and benefits from the new model's steerability**
 ** Update 11/26 - V2 using RODES format to utilize Claude 2.1s addition of System Prompts **
 
 [TOC]

@@ -11,7 +11,7 @@
 **Species:** Kommo-o | **Affiliation:** Team Gildscales
 **Level:** 12 | **Experience to Next Level:** 45/120
 **Worn Item:** *Sweat Band* | **Clothing:** *N/A*
-**Pokécoin:** 3078₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 1328₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
@@ -33,7 +33,7 @@ Speed | 1 |  ɴᴏ ʙᴏɴᴜs | 5AP
 **MOVES (4 slots + Basic Attack)**
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
-Scary Face | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 2. 
+Drain Punch | 7 BP | 6 AP | ≥2 | ![Fighting-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9b/FightingIC.png/70px-FightingIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | [Draining](https://rentry.co/tmd2many_rules#recoil-screens). Recoil damage is calculated for HP healed. 
 **Leer** | - | 4 AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
 Protect | - | 4 AP | - | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | Protect. For the Opponent's turn, the User is immune to all Moves. Accuracy is changed to ≥11 and is halved for each consecutive use.
 Dragon Tail | 6 BP | 5 AP | ≥3 | ![Dragon-Type](https://archives.bulbagarden.net/media/upload/thumb/c/c3/DragonIC.png/70px-DragonIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | The User throws the Opponent.
@@ -44,7 +44,7 @@ Moves that cannot be used in battle, but during RP segments. You may have two of
 Name of Move | Description
 ------ | :----: 
 Tackle | No secondary effect.
-Eᴍᴘᴛʏ | Description
+Scary Face | The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 2. The User makes a scary face.
 
 **SPECIAL BONUSES**
 !!! note You have a base of 12 IP and each Skill costs a certain amount of it to equip.

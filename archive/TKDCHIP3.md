@@ -40,6 +40,9 @@
     ***
     >Watch…. Al-Qassam Ghoul sniper sniping an Israeli soldier south of the Tal Al-Hawa neighborhood in Gaza City.  
     >https://files.catbox.moe/25u16d.mp4  New  3/10/24
+    ***
+    >Al-Qassam Brigades in Tulkarm camp: Scenes from carrying out two shooting operations towards the Taybeh and Netsani Oz checkpoints.  
+    >https://files.catbox.moe/4ts01a.mp4  New  3/15/24    
 !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
@@ -78,6 +81,11 @@
     >Hezbollah:
     >Scenes from the Islamic Resistance's operation targeting sites belonging to the "israeli" enemy army on the Lebanese-Palestinian borders.
     >https://files.catbox.moe/384hxq.mp4  New 3/13/24  
+    >⚡️WATCH: Hezbollah military published a montage video of their operations, showing a gradual elevation of intensity of attacks, starting from sniping operations to heavier rocket Burkan and Falaq rocket attacks. 
+    >
+    >Video is captioned as:
+    >“We’ll expand our scope/intensity accordingly to your expansion”
+    >https://files.catbox.moe/41mi4a.mp4  New3/15/24  
 !!!note
     ### Al-Quds Brigades  
     >WATCH: Al-Quds Brigades published a video showing mortar launches crushing IOF forces, in the Al-Zaytoun neighborhood in Gaza City.
@@ -248,4 +256,7 @@
     ***
     >TikTok CEO Shou Chew's response to the TikTok ban bill
     >https://files.catbox.moe/ysy2ba.mp4  New  3/14/24   
+    ***
+    >Snapshots from the courtyards of the blessed Al-Aqsa Mosque coinciding with the Asr call to prayer.  
+    >https://files.catbox.moe/zfqwj3.mp4  New  3/15/24  
     ***

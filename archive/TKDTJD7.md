@@ -2010,3 +2010,196 @@
     >🔻Targeted the IOF Palmachim air base with a kamikaze drone.   
     >https://t.me/FotrosResistance/5902  3/14/24  
     ***
+!!!warning 
+    >🛑 Al-Qassam (Hamas) since this morning:
+    >
+    >🔻Targeted 5 Merkava tanks in the city of Al-Zahra.
+    >
+    >🔻Targeted an IOF infantry force of 4 soldiers in the heart of residential areas in the city of Al-Zahraa, with a TBG rocket. Qassam confirms their killing and tearing them into pieces.
+    >https://t.me/FotrosResistance/5906  3/15/24  
+    ***
+    >BREAKING| The ship "Open Arms" arrives on Gaza shores from Cyprus carrying nearly 200 tons of humanitarian aid.
+    >
+    >The humanitarian aid that Gaza needs is estimated at 20,000 tons to lift the strip out of the Israeli-made starvation.
+    >https://t.me/QudsNen/98748  3/15/24  
+    ***
+    >Al-Qassam Brigades in Tulkarm camp: Scenes from carrying out two shooting operations towards the Taybeh and Netsani Oz checkpoints.  
+    >https://t.me/me_observer_TG/168933  3/15/24  
+    >https://files.catbox.moe/4ts01a.mp4  3/15/24  
+    ***
+    >Berlin police announces it has stormed and searched a 41-year old woman’s apartment and arrested her yesterday for “using anti-constitutional symbols” and "publishing content related to Hamas" as she wrote “from the river to the sea” on social media.
+    >
+    >(Illustrative photo)
+    >https://t.me/QudsNen/98747  3/15/24  
+    ***
+    >Australia reinstates funding to UN Palestine refugee agency to provide aid in Gaza  
+    >https://t.me/QudsNen/98739  3/15/24  
+    ***
+    >Snapshots from the courtyards of the blessed Al-Aqsa Mosque coinciding with the Asr call to prayer.  
+    >https://t.me/me_observer_TG/168921  3/15/24  
+    >https://files.catbox.moe/zfqwj3.mp4  3/15/24  
+    ***
+    >Urgent || A senior #Israeli official told ABC:
+    >
+    >Any delay in delivering US aid raises concerns in light of #Europe's reluctance to sell us weapons
+    >
+    >We may lose the war if ammunition and legitimacy are not available, and both are running out
+    >https://t.me/me_observer_TG/168936  3/15/24  
+    ***
+    >Lebanon: At 4:20 pm on Friday 03/15/2024, the Mujahideen of the Islamic Resistance targeted the #radar site in the occupied Lebanese #Shebaa_Farms with missile weapons and hit it directly.
+    >
+    >“And victory is only from Allah, the Mighty, the Wise.”
+    >https://t.me/me_observer_TG/168954  3/15/24  
+    ***
+    >Lebanon: Islamic Resistance: Our mujahideen targeted the “radar” site in the occupied Shebaa Farms with missile weapons and hit it directly.
+    >https://t.me/me_observer_TG/168955  3/15/24  
+    ***
+    >Russia: Putin: The enemy is trying to divert attention from the reality of the situation on the contact line by engaging in provocations  
+    >https://t.me/me_observer_TG/168957  3/15/24  
+    >
+    >Urgent | #Hezbollah: We targeted the enemy with missiles in the vicinity of Ruwaisat al-Alam in the occupied Lebanese Kfar Shuba hills, and we achieved a direct hit.  
+    >https://t.me/me_observer_TG/168963  3/15/24  
+    ***
+    >Lebanon: At 4:42 pm on Friday, March 15, 2024, the Mujahideen of the Islamic Resistance targeted a gathering of enemy soldiers in the vicinity of the Ruwaisat al-Alam site in the occupied Lebanese Kfar Shuba hills with missile weapons, and they directly hit it.
+    >
+    >“And victory is only from Allah, the Mighty, the Wise.”  
+    >https://t.me/me_observer_TG/168964  3/15/24  
+    ***
+    >the Palestinian Authority received orders from Washington to: 
+    >1-exclude Palestinian factions
+    >2-form a new government.
+    >
+    >Consequently, Abbas appointed Muhammad Mustafa to form a "government."
+    >
+    >Contrary to the PA, the only factions popular among the Palestinians, issued a joint statement condemning Abbas's decision.
+    >https://twitter.com/warfareanalysis/status/1768633377387655319  3/15/24  
+    ***
+    >BREAKING:   
+    >Attack on Rafah 🇮🇱 was approved and is coming shortly
+    >
+    >The Israeli Prime Minister Office after the war cabinet met:
+    >
+    >"Prime Minister Netanyahu approved the plans for action in Rafah. The IDF is getting ready for the operational side and for the evacuation of the population.
+    >
+    >Regarding the abductees - Hamas's demands are still unfounded. An Israeli delegation will leave for Doha after the political and security cabinet will discuss Israel's position."
+    >https://t.me/megatron_ron/2297  3/15/24  
+    ***
+    >Urgent | #Hezbollah: We targeted with missile weapons a gathering of occupation soldiers in the vicinity of the Ruwaisat al-Alam site in the occupied Lebanese hills of Kfar Shuba, and we achieved a direct hit.  
+    >https://t.me/me_observer_TG/168981  3/15/24  
+    ***
+    >Urgent| Medical sources and eyewitnesses:
+    >
+    >The number of martyrs who arrived at hospitals in #Gaza and northern #Gaza following the occupation’s massacre of those waiting for aid at the Kuwait roundabout last night reached about 78 martyrs.
+    >
+    >- There are about 20 martyrs who were taken directly by their families for burial and were not documented in health records.
+    >
+    >It is estimated that there are a small number of martyrs whose bodies have not yet been recovered from the “Kuwait Roundabout” area, where the occupation forces committed the massacre.  
+    >https://t.me/me_observer_TG/168998  3/15/24  
+    ***
+    >Al-Qassam (Hamas)
+    >
+    >Targeted an IOF troop carrier (APC) & a Merkava tank with Al-Yassin-105s and Tandum rockets, in Hamad Town, north of Khan Yunis.
+    >https://t.me/FotrosResistance/5909  3/15/24  
+    ***
+    >According to a study by the Oil Change International research organization, 151 shipments of oil have been transported from Saudi Arabia to the Israeli occupation since the beginning of the war on Gaza last October.
+    >https://t.me/QudsNen/98778  3/15/24 
+    ***
+    >⚡️WATCH: Hezbollah military published a montage video of their operations, showing a gradual elevation of intensity of attacks, starting from sniping operations to heavier rocket Burkan and Falaq rocket attacks. 
+    >
+    >Video is captioned as:
+    >“We’ll expand [our scope/intensity] accordingly [to your expansion]”
+    >https://twitter.com/AryJeay/status/1768713368154558702  3/15/24  
+    >https://files.catbox.moe/41mi4a.mp4  3/15/24  
+    ***
+    >Preliminary reports about an attack targeting a ship, west of Yemen’s Hudaydah, in the Red Sea.
+    >
+    >If I’m not mistaken, this is the deepest attack in the Red Sea so far, I’m not entirely sure though.
+    >
+    >https://web.telegram.org/k/#@FotrosResistance  3/15/24  
+    ***
+    >UPDATE:
+    >The ship reports an explosion close to the ship’s starboard beam. The ship is forced to head to the closest port.  
+    >https://t.me/FotrosResistance/5913  3/15/24  
+    ***
+    >Hamas:
+    >
+    >We applaud and highly appreciate the massive crowds that responded to the call on the first Friday of the month of Ramadan, marching, uniting, and secluding themselves in Al-Aqsa Mosque. We congratulate their unity and salute their steadfastness, sacrifices, and their oppression of the occupation’s violations, and their breaking of the siege.
+    >
+    >- These crowds reaffirm that our people, and at the heart of them are our people stationed throughout the West Bank, #Jerusalem and the occupied interior, form the first line of defense for #Jerusalem and the Blessed Al-Aqsa, and will not allow the enemy’s plans to desecrate or divide it to pass.
+    >
+    >We call on the masses of our people to continue their journey during Ramadan. In defense of Al-Aqsa Mosque, protecting it and defending it by all means, and confronting all attempts by the occupation and its herds of settlers to impose a fait accompli on its pure land, which has never been and will never be anything but purely Islamic.
+    >https://t.me/me_observer_TG/169154  3/15/24  
+    ***
+    >Sources for Al-Mayadeen revealed that a meeting brought together Hamas, the Palestinian Islamic Jihad, and the Popular Front for the Liberation of Palestine with the Yemeni Ansarallah movement in the past few days to coordinate on the next phase:
+    >—
+    >The meeting aimed to coordinate positions with Ansarallah, during which the latter reassured the Palestinian factions of its continued support operations in the Red Sea, affirming its capabilities to persist, and that the American and British airstrikes would not succeed in creating change.
+    >
+    >The meeting was attended by leading figures from the top leadership of the three factions and Ansarallah.
+    >
+    >The Palestinian resistance factions conveyed their great appreciation for the pivotal and significant role of Ansarallah, affirmed the depth of the relationship, and sent greetings to Sayyed Abdulmalik Al-Houthi, who emphasized the centrality of the Palestinian people's struggle, and the Yemeni people and Ansarallah's commitment to the Palestinian cause.
+    >
+    >The meeting between the Palestinian factions and Ansar Allah comes within the framework of enhancing the factions' role in integration and readiness for the possibilities of the expansion of the escalation in Ramadan, and readiness for the Rafah phase.
+    >
+    >During their meeting with Ansarallah, the Palestinian factions confirmed the main lines related to the occupation army's withdrawal from Gaza lands, the return of the displaced to their homes, especially the residents of the northern Strip, and reaching an honorable exchange deal.
+    >
+    >t.me/k/#@PalestineResist
+    >03/15/2024
+    ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 15 (2024), against (US)-israeli forces:
+
+    >— 🇾🇪 Yemeni Armed Forces:
+    >
+    >🔻Targeted the Israeli “Pacific 01” ship in the Red Sea with a number of anti-ship missiles.
+    >
+    >🔻Targeted an American destroyer in the Red Sea with a number of successful kamikaze drone hits.
+    >
+    >🔻Carried out 3 operations against 3 Israeli and American ships in the Indian Ocean with a number of anti-ship missiles and kamikaze drones.
+
+    >— 🇵🇸 Al-Qassam Brigades:
+    >
+    >🔻Targeted 5 Merkava tanks with Yassin-105 rockets, in the city of Al-Zahra, northwest of the central province.
+    >
+    >🔻Targeted an IOF infantry force, consisting of 4 soldiers who were transporting explosive devices into homes, with a anti-fortification rocket (TBG) in the city of Al-Zahra, northwest of the central province.
+    >
+    >🔻Targeted an IOF infantry troop carrier (APC) and a Merkava tank with Yassin-105s, and "Tandom" rockets, in the city of Hamad, north of Khan Yunis, south of Gaza Strip.
+    >
+    >🔻Targeted an IOF infantry troop carrier (APC) with a "Shoath" explosive device and its surroundings with an anti-fortification "TBG" rocket, in the city of Hamad, north of Khan Yunis, south of Gaza Strip.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shelled Sderot and settlements around Gaza with rocket barrages.
+    >
+    >🔻Shelled IOF soldier gatherings east of the central region, with a barrage of mortar shells.
+
+    >— 🇵🇸 Al-Aqsa Martyrs’ Brigades:
+    >
+    >🔻Shelled IOF soldier gatherings with heavy-caliber mortar shells, east of the central province.
+    >
+    >🔻Targeted 2 military vehicles with RPGs, in the city of Al-Zahra, northwest of the central province.
+
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >
+    >🔻Shelled a gathering of IOF army vehicles with short-range rockets, northeast of Juhr Al-Dik.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the Al-Marj site with artillery weapons.
+    >
+    >🔻Targeted the Al-Malikiyah site with rockets.
+    >
+    >🔻Targeted an Israeli soldier gathering near the Rahib site with artillery weapons.
+    >    
+    >🔻Targeted an Israeli soldier gathering near the Birkat Risha site with Burkan IRAM rockets.
+    >
+    >🔻Targeted the Radar site in the occupied Shebaa Farms with rockets.
+    >
+    >🔻Targeted an IOF soldier gathering near the Ruwaisat al-Alam site in the occupied Kfar Shuba hills with rockets.
+    >
+    >🔻Targeted an IOF force as it entered the Zar'it base with appropriate weapons.
+    >
+    >🔻Targeted an Israeli soldier gathering near the Haddab Yarin site with rockets.
+    >
+    >🔻Targeted an Israeli force near the Jal al-Alam site as it moved behind the border wall with appropriate weapons.
+    >https://t.me/FotrosResistance/5916  3/15/24  
+    ***
