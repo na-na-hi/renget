@@ -7,7 +7,7 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 13 | **Experience to Next Level:** 85/130
+**Level:** 14 | **Experience to Next Level:** 5/140
 **Worn Item:** *N/A* | **Clothing:** Red Prayer Beads
 **Pokécoin:** 25₽ | **Glorious Gold:** 0 Bars
 
@@ -81,7 +81,7 @@ Item Name | Description
 1. Oran Berry | Heals the user for 10HP.
 2. Oran Berry | Heals the user for 10HP.
 3. Oran Berry | Heals the user for 10HP.
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Oran Berry | Heals the user for 10HP.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

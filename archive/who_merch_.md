@@ -5,13 +5,25 @@
 	https://merch-matome.com/
 	This page is primarily dedicated to merch you can buy/order online.
 
-**Hololive 5th Fes *Capture the Moment* 16-17th March 2024 (JST) Start 1300 & 1830 **
+**Hololive 5th Fes *Capture the Moment* VOD will be avalible until 18th April JST **
 *Mumei is only on for Day 2's hololive Stage 3 (17th March Start 0230 PDT)*
 https://hololivesuperexpo2024.hololivepro.com/tickets
-https://hololivesuperexpo2024.hololivepro.com/en/tickets
-(EN/Streaming+ has a 1150 Yen Gaijin tax attached. There is relatively little differences in live experience between SPWN and Streaming+.)
-If you are going to the venue, use the holocart website or app to pre-order merch:
-https://cart.hololivepro.com/product/list?tag_codes=HLL-T-EXPO
+>**EXPO 2024/ 5th Fes Merch** 
+*Order period until 30th April; Ships mid-September*
+Only the ones that feature Mumei
+Fes merch (Some are gacha/randomised)
+https://shop.hololivepro.com/en/products/hololive_5thfes_capturethemoment_merch
+EXPO Jigsaw
+https://shop.hololivepro.com/en/products/hololive_superexpo2024_keyvisualjigsawpuzzle
+EXPO assorted Merch (Some are gacha/randomised)
+https://shop.hololivepro.com/en/products/hololive_superexpo2024_merch
+EXPO acrylic badge
+https://shop.hololivepro.com/en/products/hololive_superexpo2024_acrylicnamebadge
+EXPO acrylic stands
+https://shop.hololivepro.com/en/products/hololive_superexpo2024_acrylicstand
+EXPO acrylic keychains
+https://shop.hololivepro.com/en/products/hololive_superexpo2024_chibiacrylicstandwithornaments
+
 
 ###Limited merch
 **Promise Christmas merch set (Acrylic stands, Mug & Dish) Limited quantity pre-order; Ships Feb 2024**

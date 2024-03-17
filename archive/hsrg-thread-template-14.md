@@ -3,15 +3,6 @@
 ***
 Previous: >>
 
-\>Livestream Codes expire on March 17 at 23:59 (UTC+8)
-3SRN6L3AADLK - https://hsr.hoyoverse.com/gift?code=3SRN6L3AADLK
-YTRN743TSUL7 - https://hsr.hoyoverse.com/gift?code=YTRN743TSUL7
-2S8N6M3ATV6T - https://hsr.hoyoverse.com/gift?code=2S8N6M3ATV6T
-
-\>Version 2.1 "Into the Yawning Chasm" Special Program 
-https://www.youtube.com/watch?v=yWd6NeDxN9s
-https://www.youtube.com/watch?v=aDhaaLhcmj0
-
 \>Download - https://hsr.hoyoverse.com/en-us/home
 
 \>2.1 Preview Page - https://act.hoyoverse.com/sr/event/e20240316version-hyue7h/index.html

@@ -845,9 +845,8 @@ A Player Character has four options to choose from when building their moveset, 
 - **Move Tutor**: The final list of moves which can only be learned from another, who might be willing to teach you for a price or favor.
 
 As they level up, Players might also replace moves with better, stronger ones now available to them. However, they might still want access to those old Moves. These can be regained at a shop that specializes in Moves.
-- A session at a specialty shop can be expected to cost 650₽, in which case, the Player can freely select Moves in their forgotten Moves list to relearn. 
-	- **Forgotten Trained Moves**: These can be relearned for free at any time.
-	- **Moves Never Learned**: These are Moves a Character has never picked up to begin with but might have had the chance to learn (this does not include Moves that have not had their Level requirements met yet). This can include Moves that are in their species' evolutionary line that might have not been accessible if them rolled a later stage Pokémon. Learning these will cost an additional 250₽ for each move.
+
+You can find out more information here: [Shops and Services](https://rentry.co/tmd2many_places#shops-and-services).
 
 ***
 

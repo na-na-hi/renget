@@ -58,17 +58,46 @@ Location: Anywhere
 - The appearance of the hastily erected structure with nothing more than two runes to describe itself definitely does not fill you with any level of confidence. Sneasel's mysterious attitude and aura don't help, either. Yet, you do have the benefit of knowing she's legit. Although you doubt her methods are less than... well. You're not sure, actually. At least the services are on demand.
 - Sneasel offers you the ability to remember moves, even ones that you haven't learned! That one might be a little difficult, though. She can also knock some sense into you.
 
+Move Relearner:
+- A session at a specialty shop can be expected to cost 650₽, in which case, the Player can freely select Moves in their forgotten Moves list to relearn. 
+	- **Forgotten Trained Moves**: These can be relearned for free at any time.
+	- **Moves Never Learned**: These are Moves a Character has never picked up to begin with but might have had the chance to learn (this does not include Moves that have not had their Level requirements met yet). This can include Moves that are in their species' evolutionary line that might have not been accessible if them rolled a later stage Pokémon. Learning these will cost 250₽ for every point of AP the move uses. If the move has a secondary effect, it costs an additional 250₽.
+	- Status Moves have a flat cost of 1,000₽.
+
+Minor Stat Reallocation:
+- Costs 100₽ to rearrange 1 stat point.
+
 **Hawlucha's Slam School**
 Location: Major Towns
 *Move Tutor, Egg Moves, General TM Vendor*
 - Colorful and evocative, it's hard to miss the tent of Hawlucha's Slam School whenever and wherever they might be in a town. The energetic nature and rambunctious sound of hard work is definitely one way to quickly locate this particular group of vendors.
 - Representatives of Hawlucha can help guide you through learning difficult moves, unlock the secrets of your bloodline, and even offer some quick methods to a move, for a price, of course.
 
+Move Tutor:
+- Services cost 25% of the Move's listed TM Price. If not listed, consult a GM to find out a price.
+- There might exist alternative ways to gain tutelage on a move...
+
+Egg Moves:
+- Services cost 15% of the Move's listed TM Price. If not listed, consult a GM to find out a price.
+- The move also requires a part or piece (such as a scale or a feather) of the parent donor.
+
+General TM Vendor:
+- Sells the most popular TMs, however, at a steep markup of 75% of the Move's listed TM Price.
+
 **Mystics of Marshadow**
 Location: Major Towns
 *Complete Stat Reallocation, IQ refunding*
 - Identified by their dark aura and even darker appearance, the presence of these tents seem to swallow up the surrounding light. With nothing but cryptic words and confusing rituals even for the most well-read arcanist, these practicing mystics help you to forget and forgive.
 - Mystics of Marshadow can help you to move around your whole stat table and refund IQ points by removing IQ skills.
+
+Complete Stat Reallocation:
+- Paying 850₽ for a session, players can freely rearrange their entire collection of stats. 
+
+IQ refunding:
+- If you are unhappy with the IQ skills your purchased, you can also pay a fixed amount for each skill to be forgotten and returned to being IQ points. 
+	- Refunding a Tier 1 IQ skill costs 300₽.
+	- Refunding a Tier 2 IQ skill costs 600₽.
+	- Refunding a Tier 3 IQ skill costs 900₽.
 
 **Kecleon Mercantile Clan**
 Location: Anywhere

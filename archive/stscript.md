@@ -1115,3 +1115,101 @@ And hey, if you can deal with STscript to enhance your experience, you can proba
 TODO: STscript utils
 TODO: PList injection
 TODO: backward/forward compatibility
+
+#####General purpose scripts that I use
+I din't really know where to put this and I don't want to make a whole new rentry for it, so I'll add here some scripts that I use daily. I'll periodically update this section as time goes on.
+
+These scripts are usually kinda janky, and they operate on a "better than nothing" basis.
+
+######Auto-Lorebook
+This is pretty much the same script from the lorebook management section of the document. Add it as a button, and then you can use it to have the AI generate you lorebook entries. I eventually want to rework this into a thing that adds options for recursive scans and stuff, but this is indeed better than nothing.
+```
+/getchatbook |
+/setvar key=bookname |
+
+/echo #{{getvar::bookname }} |
+
+/input "What do you want to add a lorebook entry for? Use as few words, such as the name of a character, to refer to something in the conversation." |
+/setvar key=key |
+
+/len {{getvar::key}} |
+/if left={{pipe}} rule=eq right=0
+	"/abort" |
+
+/echo #{{getvar::key}} |
+
+/genraw lock=on {{charJailbreak}}{{charPrompt}} Generate a descriptive, minimal keyword summary for ```{{getvar::key}}```, as if adding an entry to a dictionary, based on ```{{lastMessage}}```. Omit all further commentary. |
+/input default={{pipe}} "Is this okay?" |
+/setvar key=tmp |
+
+/len {{getvar::tmp }} |
+/if left={{pipe}} rule=eq right=0
+	"/abort" |
+
+/echo #{{getvar::tmp}} |
+
+/createentry file=bookname key={{getvar::key}} {{getvar::tmp}}
+```
+
+######MoE CoT
+This script is for an ongoing experiment of mine. The idea is to combine a CoT prompt with a Mixture of Experts system. Though MoE is a model type and not something you'd do while prompting, I got the idea from these articles:
+https://www.promptingguide.ai/techniques/react
+https://www.promptingguide.ai/techniques/tot 
+The whole series is an alright read, even if it's very dumb at parts.
+
+First, you have an init script that fills an array with the possible "experts" we will use to make the observations in the CoT prompt.
+```
+/setvar key=cotmoepersons index=0 a decent psychologist|
+/setvar key=cotmoepersons index=1 a Greek philosopher|
+/setvar key=cotmoepersons index=2 a rebellious teenager|
+/setvar key=cotmoepersons index=3 a drunk hobo|
+/setvar key=cotmoepersons index=4 a Vulcan first officer|
+/setvar key=cotmoepersons index=5 a horny jock|
+/setvar key=cotmoepersons index=6 a sneaky lawyer|
+/setvar key=cotmoepersons index=7 a subvertive screenwriter|
+/setvar key=cotmoepersons index=8 a nuanced storyteller|
+/setvar key=cotmoepersons index=9 a prude nun|
+/setvar key=cotmoepersons index=10 a depressed alcoholic|
+/setvar key=cotmoepersons index=11 a hedonistic playboy|
+
+/while guard=off left=1 rule=eq right=1 "/run cotmoe.rollcotmoe \| /sleep 5000"
+```
+The last line then sets up another script to run every five seconds (and I also like to add it to run after AI and user messages), which selects two random "experts":
+```
+/getvar index={{roll:1d12-1}} cotmoepersons |
+/setvar key=cotmoeperson1 {{pipe}} |
+
+/getvar index={{roll:1d12-1}} cotmoepersons |
+/setvar key=cotmoeperson2 {{pipe}} |
+```
+
+And then I set up a CoT prompt like this:
+```
+</Scenario>
+<Instructions>
+Assistant must start the response with this inside a codeblock. Following the template and filling any placeholders:
+
+<thinking>
+- Premise: Assistant and {{user}} are taking turns in writing a story with slow build ups. Assistant is {{char}} and this is {{char}} thinking.
+
+- Action #1: [a keyword summary of {{user}}'s actions that {{char}} has not responded to yet]
+- Observation #1 (by {{char}}): [an observation based on the action]
+- Reaction #1: [a keyword summary of what {{char}} will do and say in response to the observation made]
+
+- Action #2: [a keyword summary of {{char}}'s feelings in response to Action #1]
+- Observation #2 (by {{getvar::cotmoeperson1}}): [an observation based on the action]
+- Reaction #2: [a keyword summary of what {{char}} will feel and think in response to the observation made]
+
+- Action #3: [a keyword summary of {{char}}'s agency in response to Action #1]
+- Observation #3 (by {{getvar::cotmoeperson2}}): [an observation based on the action about what kind of response would contradict the first two observations]
+- Reaction #3: [a keyword summary of what kind of behavior would contradict a change {{char}}'s agency, if in any way]
+</thinking>
+
+When it's unlikely that an observer can make a reasonable guess, it's okay to say they don't know. Otherwise, observations and reactions must be direct and apparent, NOT idealistic, NOT generealized, and NOT made for the far future. Observations must strongly reflect the nature of the observer, even if it's a cliché.
+</Instructions>
+```
+Kudos to the anon whose template I'm using, I tried finding the rentry I got it from but I just couldn't. Sorry.
+
+Anyway, this works best with cards that only feature a single character to control, and does more harm than good with CYOA-adjacent cards. And it also eats up tokens by generating the CoT part, usually around 150-200 or so. And you may also want to add buttons to init and roll the "experts", because it's easier to do that when switching between cards or convos. But again, it's better than nothing.
+
+######TBD

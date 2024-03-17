@@ -47,25 +47,26 @@ kiwanotemple <-
 
 ->`iboprofen, ibo-200`
 `rockyhoneydew, honeyrocks`
+`bittergreens, ancientmedicine`
 `pushobjectified`
 `carrotobjectified`
 `frozenboba`
 `frozenbobaobjectified`
 `heaterobjectified`
 `h-rde`
-==gellycupcake200==
-==sedimentarycroc==
-==pushnumber1fan==
-==bittergreens, ancientmedicine==
-==freudian-slip, bug-catching, liquid-motivation, research-and-development, do-no-harm==
-==fossilxcarrot, carrotxfossil==
+`fordoom`
+==[gellycupcake200](https://rentry.co/gellycupcake200)==
+==[sedimentarycroc](https://rentry.co/sedimentarycroc)==
+==[pushnumber1fan](https://rentry.co/pushnumber1fan)==
+==[freudian-slip](https://rentry.co/freudian-slip), [bug-catching](https://rentry.co/bug-catching), [liquid-motivation](https://rentry.co/liquid-motivation), [research-and-development](https://rentry.co/research-and-development), [do-no-harm](https://rentry.co/do-no-harm)==
+==[fossilxcarrot](https://rentry.co/fossilxcarrot), [carrotxfossil](https://rentry.co/carrotxfossil)==
 ***tsobjectified, turtleshellobjectified***
 ***fossilxpush, pushxfossil
 pkxcarrot, carrotxpk
 pkxfossil, fossilxpk, painkillerxfossil, fossilxpainkiller***
 ***onyx-marketplace, reaching-gardens***
 mrhokkaido, mshokkaido, mxhokkaido 
-researchanddevelopment, liquidmotivation
+researchanddevelopment, liquidmotivation, ~~piecesofus, egstrom~~
 wet-wilds, marshlight, dread-tides
 sea-of-lights 
 pkobjectified <-
@@ -81,7 +82,7 @@ heartstitutionyuri, oathheartyuri <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> **medical/biology related urls** <- 
+-> **science related urls** <- 
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
@@ -96,7 +97,8 @@ hippocratic
 fatalfamilialinsomia
 visualsnowsyndrome
 bovinespongiformencephalopathy
-fibrodysplasiaossificansprogressiva <-
+fibrodysplasiaossificansprogressiva
+cyprinidae, commoncarp<-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
@@ -107,4 +109,7 @@ fibrodysplasiaossificansprogressiva <-
 -> ***grrlsrituals***
 ***tockylippy***
 elvispresleyaoi
-mysupersweetsixteen <-
+mysupersweetsixteen 
+iwannahideforever, somethingworse, prayfornothing
+heylookits1111, heylookbitch1111
+meatoffthebone, meatoffourbones<-

@@ -16,7 +16,7 @@
 ### Characters
 Nickname (if known) | Sex | Species | Partner (if applicable) | Role | Personality
 :-: | :-: | :-: | :-:| :-: | :-:
-Lliam | M | Meowstic | Zorua (Larkspur, M, 	Sassy, Native, Former Partner) | Clover Guild Master/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
+Lliam | M | Meowstic | Zorua (Larkspur, M, Sassy, Native, Former Partner) | Clover Guild Master/Researcher | [Modest](https://rentry.org/vpmdcloverpb#lliam)
 Nick | M | Vulpix | Shinx (Amelia, F, Quiet, Native) | Clover Guild Explorer/Researcher | [Calm](https://rentry.org/vpmdcloverpb#nickamelia)
 Booker | M | Ribombee | Sneasel (F, Hasty, Native) | Clover Guild Writer/Researcher/Assistant Cartographer | [Timid](https://rentry.org/vpmdcloverpb#bookersneasel)
 Macom | M | Mareep | N/A | Clover Guild Cartographer/Geographer/Researcher | [Quiet](https://rentry.org/vpmdcloverpb#macom)
@@ -60,7 +60,7 @@ Apple Cider | M | Rowlet | N/A | Clover Guild Member | [???](https://rentry.org/
 Kaz/Solid Linoone | M | Linoone | N/A | Post Mailmon/Delibird Deliveries Employee/Clover Guild Affiliated Spy| [Jolly](https://rentry.org/vpmdcloverpb#kazsolid-linoone)
 Debby | F | Delibird | N/A | Native Post Mailmon/Delibird Deliveries Owner | [Jolly](https://rentry.org/vpmdcloverpb#debby)
 Sterling | M | Clamperl | N/A | Outsider | [Timid](https://rentry.org/vpmdcloverpb#sterling)
-Beau | M | Espeon | Blaziken (Dav (dah-vh), M, Blaziken, ?) & Munchlax (Mako, M, Munchlax, ?) | ??? | [???](https://rentry.org/vpmdcloverpb#beaudavmako)
+Beau | M | Espeon | Blaziken (Dav (dah-vh), M, Blaziken, Human) & Munchlax (Mako, M, Munchlax, Human) | ??? | [???](https://rentry.org/vpmdcloverpb#beaudavmako)
 N/A | F | Minun | Raichu (M, Native) | Clover Guild Gardener/Bounty Hunter | [Jolly](https://rentry.org/vpmdcloverpb#minunraichu)
 Charm/Smokey | F | Charmander | Natu (M, Native) | Clover Guild Explorer/Treasurer | [Impish](https://rentry.org/vpmdcloverpb#charmnatu)
 Tooca | F | Snivy | Axew (Lapi, M, Gentle, Native) | Clover Guild Affiliated Explorer/Rescue Team | [Timid](https://rentry.org/vpmdcloverpb#toocalapi)

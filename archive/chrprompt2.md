@@ -311,15 +311,23 @@ Q4: I know you and Chespin are best friends forever, but what's one thing you di
 
 ###Smith
 Q1: Furret seems pretty cute.  Does she ever do anything that scares you?
+>I wouldn't say Furret does anything to scare me, but she's just really stubborn. She never takes "no" for an answer. Maybe her tenacity could be considered scary? ...Probably not.
 Q2: How much time do you spend with that Porygon2 you discovered?
+>Not much. It was fascinating to discover it, but it kind of creeps me out. The way it floats idly in the corner of our bedroom in silence for hours at a time puts me off. Who knows what kind of secrets it could be holding. Is it sentient, even? I should spend more time with it and see if it reacts to anything. I'm not good with technology, though...
 Q3: How much can you lift?
+>The heaviest thing I can think of that I've lifted was that dead tree in Wither Woods. I'm not great with estimating numbers, but if I had to guess, I can probably lift many times my own body weight. Although I don't know if that's saying much for a Pokemon.
 Q4: What does Grimy Food actually taste like?
+>Not sure what that is. I've eaten food off the ground to survive before, and I thought it was horrible. I don't miss having to do that ever since moving into the guild.
 
 ###Furret 
 Q1: Smith seems like a tough guy.  Does he ever do anything nice for you?
+>Of course he does! All the time! He's such a great sport about trying on all sorts of little accessories when I need him to! Sometimes he doesn't sound very enthusiastic about it, but that's never stopped me from making it happen!
 Q2: How did you get interested in fashion?
+>That's a secret~ ♥
 Q3: How much can *you* lift?
+>Lift? Uh... well, I can carry a lot of stuff in my bag! ...I don't think that kind of exercise is really my thing, though!
 Q4: How many ribbons and useless accessories do you have?
+>Hey! They are NOT useless! I take a lot of offense to that, you know! It took a long time to build up such an amazing collection! In fact, I think I'm gonna sit you down and have you learn about just how special and unique each and every one of my prized accessories are! So for starters, let me show you all 50 of the ones I've bought from the Grass Continent so far!...
 
 ###Togetic
 Q1: What would you do if you saw someone making a mess of the storeroom?
@@ -403,9 +411,9 @@ Q2: Did you have an interest in anime and manga as a human?  If so, which ones?
 >Anyways! I really loved Love Live Sunshine! We Never Learn was always nice to turn on after a bad day! Fate Apocrypha was really confusing to me, but I really liked Astolfo! Honestly, I never really got into Dragonball or One Piece even though I know they're really popular. Fairy Tail was pretty good though! You know, I kind of got to live that magical guild fantasy when I joined Clover Guild. Really weird how that worked out. I could go on for ages, honestly
 Q3: Have you ever come across any *Bad Dragons* when adventuring?
 >I don't think my answer would be very PG. I will say that when I first showed up to this world, a dragonite lady let me stay at her house. She wasn't bad though. Pretty nice actually. She told me about the guild and all the weird human roleplayers there which is how I ended up finding it.
-Q3: Does it feel weird to have four tentacle-like ribbons and four legs now, instead of two arms and two legs? How long did it take you to get used to your new limbs?
+Q4: Does it feel weird to have four tentacle-like ribbons and four legs now, instead of two arms and two legs? How long did it take you to get used to your new limbs?
 >It took me several days to figure out basic walking. The ribbons came really naturally though. I don't really know how they work, but they kind of just do whatever I want them to. Sometimes they even do things I don't tell them to do such as picking flowers or dusting off my dresses. For some reason when I see emotions through them. The best way I've been able to describe it is colors, but it's a really alien perception that I don't really understand myself. They're a little different for everybody, and they mix together very strangely. Adrian's are always mixed with red, even on the rare occasions I see him sad. Bellossom's got a light blue mixed into everything, even when she's happy. Vileplume has a constant grey shade over everything with a hint of yellow. I'd like to try it out on more guild members, but I don't think wrapping ribbons around people without consent is a good idea.
-Q4: You know everybody hates your fruity act, right?
+Q5: You know everybody hates your fruity act, right?
 >Adrian tells me all the time. I know he secretly loves it though, even if though ribbons tell me he really doesn't. Honestly though, I wasn't nearly as zesty as a human. Don't get me wrong, I was definitely the lover type, but I think turning into a sylveon has just made me more comfortable with flirting.
 >Also, I know how everyone else feels about it, and I know some of you really enjoy it. I see you blushing. You know who you are, and I know how you feel. Don't feel so ashamed of it, just come and talk to me sometime.
 
@@ -525,6 +533,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Sneasel: It should be pretty obvious, but I try to keep away from Fighting-types as much as possible. I also hate having to deal with bulky Pokemon, cuz they’re annoying. Fast Pokemon that can dodge are a hassle too. But if I gotta fight those kinds of enemies, I just do my best. It can be fun to challenge myself.
 
+>Adrian: I don't discriminate. I'll throw myself at any pokemon, regardless of type differences.
+
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
 
@@ -603,7 +613,7 @@ Q2: How are you adapting to the Pokemon world?
 **Former humans**, things you wished you knew about living as a Pokemon (your species or in general) that you wish you knew beforehand?
 >Turk: There's a lot of things about aura that I wish I knew when I was a Riolu... Especially how damn badly your emotions need to be under control. It certainly caused problems in my past... Thank Arceus; I got my 'medicine' for that, dude. There's always going to be someone pestering you if you're okay when you look like you're going to keel over at any moment, especially when I'm a few pieces short of a whole Pokemon, which makes some things... difficult. I'll leave it up to you what that means, bro. I tend to learn something new every day about Pokemon healthcare and grooming due to it, though. ...Or maybe I just often forget shit from the drugs? But I don't think that's an experience most 'Mon go through, man.
 
->Booker: I wish I knew more about instincts at the start. I had a p-pretty big scare early on, when I first started settling into my new body and balancing my Aura. That made my instincts start... activating, essentially. I started feeling weird desires and fears... like there was some other p-person in my head trying to take over. It kept trying to make me hate things I used to love, l-like my favorite foods or the sound of rain. It was... unsettling. But with some encouragement from Sneasel, I was able to accept those new feelings without letting them control me.
+>Booker: I wish I knew more about instincts at the start. I had a p-pretty big scare early on, when I first started settling into my new body and balancing my Aura. That made my instincts start... activating, essentially. I started feeling weird desires and fears... like there was some other p-person in my head trying to take over. It kept trying to make me hate things I used to love... like my favorite foods or the sound of rain. It was... unsettling. But with some encouragement from Sneasel, I was able to accept those new feelings without letting them control me.
 
 **Dog, cat, and fox mons**: Do you ever get the zoomies?
 >Adrian: Never
@@ -613,6 +623,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Cassie: I had to ask a human what this means.  Kiyo would never admit it, especially if it has a name this cute, but he gets the zoomies all the time!  I think it's cuz he acts super serious and grumpy all the time, so he's got way too much pent up energy.
 
+>Sneasel: Uh... do I count as a cat? Booker told me I’m like part cat and part weasel, so guess I’ll answer. I don’t get hyper and bounce off the walls, but I do get excited sometimes, especially if I’m in a fun fight. Training and fighting help me release my energy, so I don’t get antsy too often.
+
 **Natives**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
 
 **Guildmons**, If your character had to trade partners with another guild members, which other partner do you think would suit them best?
@@ -621,12 +633,14 @@ Q2: How are you adapting to the Pokemon world?
 **Guildmons**, You saw a job listing in the bulletin board with a huge reward, but the description is quite suspicious to say the least... would you still risk it and take the job?
 
 **Guildmons**, An outlaw you've captured recently was accepted into the guild after he said that he was reformed (turns out to be a humon); would you accept him with open arms or would you be suspicious about his change of heart?
+>Adrian: I would kill Machamp on sight purely because he devolved me. I don't care where he's from, what he is, or what he wants to do at the guild. I hate him with every fiber of my body, more than anyone else I've ever fought. Any other outlaws, I don't really trust them. I'll leave that decision to the Guildmaster
 
 **Everyone**, It's a holiday! (is there such a thing in the PMD world?) How would like to spend your time in this ocassion? Would you still work and rescue Pokemon in Mystery Dungeon? Travel somewhere, err... lavish? Hang out in the guildhall all day long?
 
 **Former humans**, Let's say PMD is an existing video game for us humons. Would you feel a bit of dread that you're in a world that's so similar to that video game? And would you tell your partner, or any native mon? Perhaps mention about it to other humons?
 
 **Guildmons**, What's your role in the guild, if any?
+>Booker: Aside from supporting Sneasel in missions, I work as Macom’s assistant, helping out with cartography. I’ve also been working on these... notebooks and pamphlets, full of info about dungeons, to help guild members prepare for missions. Porygon2 has been really helpful. It—I mean, h-he—has a lot of data. It’s outdated, but still useful. Oh, a-and I also help other people with missions, sometimes. If Sneasel is busy, and I have no other work to do, sometimes I wait by the mission board and offer to join other teams or guild members. I can’t fight very well, but I can give them advice, manage their items, and use a couple buffing moves.
 
 **Former humans**, What's the one thing you missed the most from the human world?
 
@@ -668,6 +682,10 @@ Before joining this clover guild thing, do you have a completely different pokem
 
 >IV-Anon: Several and too many to count, including legendaries like Victini who I like visually and believed my own writing good enoigh to subvert their OP nature. I'm starting to kind of come to gripe with my current choices though, both from difficulty of drawing, writing, and reception. I'd completely trash everything I was doing to go with the Zangoose and Seviper pair I first had in mind before autistic whimsy took me over for more "fringe" ideas that I'm currently stuck with and am struggling to stay enthusiastic about currently. Sorry if this is a complete bummer of an answer.
 
+>Ribombee-anon: I planned to use Ribombee or Sneasel/Weavile from the beginning, because they’re among my favorite Pokemon. I settled on Ribombee as my main character because I thought being tiny and being able to fly were interesting traits (of course, I then decided to make Booker flightless...), and then I made Sneasel his partner. I decided against using Weavile because I was worried that a duo of fully-evolved Pokemon may be overpowered.
+
 If clover guild did not exist, where would you be at this point in time?
 
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.
+
+>Ribombee-anon: I’d definitely be living a more boring and lonely life without the guild, that’s for sure. I also would’ve never gotten into art like I did after joining this group. As for stories, I was already writing stories before the guild, but I kept them to myself (aside from a handful of exceptions). The guild gave me more confidence about sharing my writing, and I’m grateful for that.

@@ -525,9 +525,38 @@ Dim上げて容量を圧迫してしまっては、LoRAの省メモリなメリ�
 正式名称は"Weight Decomposed Low-Rank Adaptation"である。
 https://arxiv.org/abs/2402.09353
 LoRAが通常のfine-tuningほどの精度が出ない問題と安定性を改善したもの。
-directionをファインチューンする。
+magnitudeの代わりにdirectionをファインチューンする。
 
-結果は後日追加。現時点では赤みがかる現象が改善したことを確認。
+いずれも大体4000-5000ステップ学習。
+
+v7がLoRA(network_dim=16)でv8がDoRA(network_dim=8)
+![Image](https://files.catbox.moe/il1pi3.webp)
+赤みがかる現象が解消。目の描写が改善？
+
+v2がLoRA(network_dim=4)でv4がDoRA(network_dim=8)
+![Image](https://files.catbox.moe/25gpo1.webp)
+赤みがかる現象が解消。精度は変化なし
+
+v2がLoRA(network_dim=16)でv3がDoRA(network_dim=8)
+![Image](https://files.catbox.moe/n5fn68.webp)
+赤みがかる現象が解消。ヘイローとティーパーティーのバッジの精度が良くなった？目もわずかに改善？ボタンの数がおかしいのはデータセット側の問題。
+
+v4がLoRA(network_dim=16)でv5がDoRA(network_dim=8)
+![Image](https://files.catbox.moe/hhgmrg.webp)
+ヘイローの精度が改善したように見える。
+
+loraがLoRA(network_dim=8)でdoraがDoRA(network_dim=8)
+![Image](https://files.catbox.moe/4c4t1t.webp)
+赤みがかってもやがかかる現象が解消。
+線が太くなってコントラストが上がる。batch1相当で4224steps回したが過学習気味になっているかもしれない。
+
+#### LoRA/DoRAの重ね掛け
+1111のバグかどうかは不明だが、重ね掛けするとプロンプト内の最後のLoRAしか機能せずうまくいかなかったので割愛。
+最後のLoRAを強度0にしてもLoRA無しに似た結果になるだけだった…
+
+### まとめ
+精度改善は微妙だが、変色などが無くなり学習の安定性が向上した。
+収束も早くなる可能性がある。ただし、計算(it/s)が遅い。
 
 ### PonyV6のLR
 D-Adaptation系Optimizerだと発散を起こしやすい。

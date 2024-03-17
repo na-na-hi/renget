@@ -1,3 +1,4 @@
+->Still a WIP, the *Enter* page isn't done.<-
 ->![藤枝 涼](https://files.catbox.moe/yrwssj.webp)<-
 ![A resource site by](https://files.catbox.moe/yfx428.png)[![Father Freyr](https://files.catbox.moe/roohbq.png)](https://pin.it/4E7YgqE1w)
 ![All resources are](https://files.catbox.moe/p35ce2.png)[![made by me.](https://files.catbox.moe/uz40tt.png)](https://pin.it/4E7YgqE1w) ![Made by me⸻credit rentry.co/Ryo if used.](https://files.catbox.moe/dg50co.png)

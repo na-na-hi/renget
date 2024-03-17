@@ -13,11 +13,12 @@ Name|Links|Description
 Bagstard|[Youtube](https://www.youtube.com/@Bagstard) [Twitter](https://twitter.com/uglybagstard)|Babiniku. Paper bag theme.
 Sleepy Project|[Youtube](https://www.youtube.com/@SleepyProject) [Twitch Archive](https://www.youtube.com/c/SleepyProjectArchive) [Twitter](https://twitter.com/Sleepy_Proj)|Narcoleptic PMC. Friend with Pippa. Subject of Brolime's (hopefully ironic) deep infatuation.
 Maika Mallow|[Youtube](https://www.youtube.com/@MaikaMallow) [Twitter](https://twitter.com/MaikaMallow)|Tropical Island theme. Very close friends with Nyana.
+BAJIRU_EN|[Twitch](https://www.twitch.tv/bajiru_en) [Twitter](https://twitter.com/bajiru_EN)|Rabbit Goddess something, friend with Nyana.
 Neiomi Cielo|[Youtube](https://www.youtube.com/@neiomicielo) [Twitter](https://twitter.com/neiomicielo)|Shooting Star. Lucid streamer.
 Roza Coatl|[Youtube](https://www.youtube.com/@GiniMercury) [Twitter](https://www.youtube.com/@GiniMercury)|Shapeshifter theme. Former Lucid streamer turned Indie. Nyana's Friend.
 Kerimara|[Youtube](https://www.youtube.com/@kerimaravt) [Twitter](https://twitter.com/kerimaravt)|Flamingo. One of Sena's many wives.
 S.S. Isa|[Youtube](https://www.youtube.com/@isaboatvtuber) [Twitter](https://twitter.com/isaboatvtuber)|Singer. Boat theme. One of Sena's many wives.
-Mimsie|[Youtube](https://www.youtube.com/@zxtsubou) [Twitch](https://www.twitch.tv/z_etsubou) [Twitter](https://twitter.com/zetsubouism) [Website](menhera.pro)|Formerly Tomato Rat (Tommie Ch.), now bnnuy/dog thing. Occasional menhera bouts. Likes retro games. Sena's Friend.
+Tomomi Toraya|[Youtube](https://www.youtube.com/@TomomiVNU) [Twitter](https://twitter.com/tomomivnu) [Website](https://triplea.love/home)| Formerly Mimsie [Youtube](https://www.youtube.com/@zxtsubou) [Twitch](https://www.twitch.tv/z_etsubou) [Twitter](https://twitter.com/zetsubouism) [Website](https://menhera.pro) (bnnuy/dog thing), even more formerly Tomato Rat (Tommie Ch.). Very frequent menhera bouts. Tiger girl. Likes retro games. Sena's Friend as Tommie.
 Super Chirami|[Twitch](https://www.twitch.tv/superchirami) [Twitter](https://twitter.com/superchirami)|Chinchilla. Likes marine biology, soft drinks, chinchillas and flash games. Has drawn several FlaVRs. If you know, you know.
 Saltea Kichee|[Youtube](https://www.youtube.com/@Saltea_Kichee) [Twitter](https://twitter.com/SalteaKichee)|Likes baking, bread and has interacted a lot, from making drawings to chatting with Minna.
 Cublala|[Twitch](https://www.twitch.tv/cublala) [Twitter](https://twitter.com/cublala)|Cub/Bear themed, softspoken. Formerly Jubilee Jonagold/Stela Fritter of FlaVR. In a vtuber group called 2D2U with Rem.

@@ -8,7 +8,7 @@
 
 > wtf is this?
 this preset includes prompts that will generate some interactive html panels that is based on the nature of your roleplay
-includes an ST extension by Todd to support HTML button inputs from AI (for kino text adventures)
+includes an ST extension to support HTML button inputs from AI (for kino text adventures)
 >what model do i use?
 use **claude 3 opus/sonnet**
 originally made for furbo due to its release speed (30+ tk/s) but its trash and slow now. use **gpt-4-32k** if you need to
@@ -20,7 +20,7 @@ was originally for furbo, now includes both claude and mistral.
 - - -
 ### -> downloads <-
 
--> **for HTML prompts, use [with this ST extension by Todd](https://github.com/horse-armor/st-clickable-inputs)** <-
+-> **for HTML prompts, use [with this ST extension by horsearmor](https://github.com/horse-armor/st-clickable-inputs)** <-
 
 -> [latest v8 (16/03/24)](https://files.catbox.moe/qs4bcw.json) <-
 
@@ -51,7 +51,7 @@ d*scord: meat.rocket
 - - -
 
 special thanks to:
-- todd (for the [extension](https://github.com/horse-armor/st-clickable-inputs ), proxy owner) 
+- horsearmor (for the [extension](https://github.com/horse-armor/st-clickable-inputs ), proxy owner) 
 - mm (examples, [proxy owner](https://rentry.org/mysteryinfo)) 
 - branon (proxy owner, and [for making this card](https://www.chub.ai/characters/Branon/shin-megami-tensei-simulator-v2-0-d1ac08fc))
 - XMLK (followed their [guide](https://rentry.org/CharacterProvider) for ideas)
