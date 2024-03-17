@@ -29,6 +29,7 @@
 [Turing Love w/ Pekora](https://youtube.com/watch?v=jgoJuJiWtf4&t=1130s)
 [Shallys w/ Aki,Sora,AZKi,Risu](https://youtube.com/watch?v=hURqBaVxnSg&t=3489s) 
 [MooKoyo - Tokyo Shandy Rendezvous](https://youtu.be/zIkALUPiatk) 
+[HoloHoney - Kessen SUPIRITTO](https://files.catbox.moe/ifr4pw.mp4) 
 
 ==**Clips**==
 Bring me to Life - https://youtu.be/I5KTJ5TrRFQ 

@@ -63,9 +63,10 @@ Albedo | (19/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://w
 Hatsune Miku | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/miku-d1b931c6/main) | ![](https://files.catbox.moe/kxxtsu.png) | ![](https://files.catbox.moe/7lj1vp.png)
 Kagamine Rin | (04/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/rin-d5e9c7d1/main) | ![](https://files.catbox.moe/hsa4cf.png) | https://files.catbox.moe/u7jl1p.png
 
-#Re:Zero
+### Re:Zero Character Cards
 | Bot's name | Updated | CHUB Link | Card | Alternate Art
 |---|---|---|---|---|
+Reid Astrea | (17/03/2024) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/reid-astrea-36076316/main) | ![](https://files.catbox.moe/3akbi8.png)
 Natsumi | (27/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/natsumi-schwartz-7ee20981/main) | ![](https://files.catbox.moe/hmqqmj.png)
 Satella | (11/09/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://chub.ai/characters/pitanon/satella-2027be82/main) | ![](https://files.catbox.moe/7lk8hq.png)
 Louis | (8/08/2023) | [![Chub](https://files.catbox.moe/do7hvv.png)](https://www.chub.ai/characters/pitanon/louis-faa555bf/main) | ![](https://files.catbox.moe/rples4.png) | https://files.catbox.moe/thzp5f.png

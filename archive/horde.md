@@ -6,7 +6,7 @@
 
 -> some are to counteract genuine hoarders but others are currently used or are gonna be used <-
 
--> for one reason or another not all of my taken urls are in here but they still have information to find me and their 'status'<-
+-> for one reason or another not all of my taken urls are in here but they still have information to find me and their 'status'. or i just forgot idk<-
 
 -> don't be afraid to contact me, if there's one you want just send me a message or ask, i don't bite <-
 
@@ -55,6 +55,7 @@ kiwanotemple <-
 `h-rde`
 ==gellycupcake200==
 ==sedimentarycroc==
+==pushnumber1fan==
 ==bittergreens, ancientmedicine==
 ==freudian-slip, bug-catching, liquid-motivation, research-and-development, do-no-harm==
 ==fossilxcarrot, carrotxfossil==

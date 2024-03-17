@@ -1,3 +1,51 @@
+>Another Abrams near Berdychi 
+https://files.catbox.moe/orfcx6.mp4 
+>Ru soldier shoots down Baba Yaga drone 
+https://files.catbox.moe/z6qgxl.mp4 
+>Vampire MLRS rekt 
+https://files.catbox.moe/u5mnwo.mp4 
+>Mi-28NM destroys AFU's APC 
+https://files.catbox.moe/9viqn9.mp4 
+>Leopard 2A6 tank and 2 M2A2 Bradley up close 
+https://files.catbox.moe/ighck1.mp4 
+>Ru helicopter destroys AFU tank with Whirlwind ATGM 
+https://files.catbox.moe/mh1454.mp4 
+>BMPT Terminator firing at Tonenke 
+https://files.catbox.moe/bf9i56.mp4 
+>Lancet takes out Stryker 
+https://files.catbox.moe/mub13x.mp4 
+>Aftermath of Iskander attack on Odessa 
+https://files.catbox.moe/5gsio5.mp4 
+>GRAD rain 
+https://files.catbox.moe/xgzhjs.mp4 
+>Russian shot down Baba Yaga with Starlink attached 
+https://files.catbox.moe/77pe13.mp4 
+>AFU DRG excursion ends in Kozinka 
+https://files.catbox.moe/sgjasz.mp4 
+>AFU boat rekt in Krynki 
+https://files.catbox.moe/1exiz7.mp4 
+>AFU films glide bomb's impact up close 
+https://files.catbox.moe/qxa4fn.mp4 
+>Another Vampire rekt 
+https://files.catbox.moe/o47cbm.mp4 
+>RU paratroopers evade AFU arty in Zaporozhie 
+https://files.catbox.moe/fi137v.mp4 
+>Leleka-100 UAV destroyed w/ Verba MANPADS 
+https://files.catbox.moe/4sprlb.MP4 
+>Spent RBK-500 w/ UMPC up close 
+https://files.catbox.moe/yqkrcj.mp4 
+>Cluster FABs over Chasov Yar 
+https://files.catbox.moe/0omie1.mp4 
+>TOS-1A heavy flamethrower during night 
+https://files.catbox.moe/plbi7o.MP4 
+>Shoigu watches Patriot getting rekt 
+https://files.catbox.moe/0x52xp.mp4 
+>Loading gone wrong 
+https://files.catbox.moe/s64zik.MP4 
+>1st battalion of the 70th Guards assault Rabotino 
+https://files.catbox.moe/v4vrdo.mp4 
+https://files.catbox.moe/nwzf12.mp4 
+https://files.catbox.moe/suoisg.mp4
 >Mi-17V-5 helicopters rekt
 https://files.catbox.moe/ineaz8.mp4
 >and those from rescue team were tracked & FABed

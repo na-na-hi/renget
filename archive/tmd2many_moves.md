@@ -407,7 +407,7 @@ Rage Fist | 5 BP | 7 AP | ≥2 | Ghost | Physical | If the User was damaged last
 Raging Bull | 9 BP | 7 AP | ≥2 | Normal | Physical | Ignores and nullifies [Screen Moves.](https://rentry.co/tmd2many_rules#recoil-screens) Changes Type based on the User's Breed.
 **Raging Fury** | 9 BP | 7 AP | ≥2 | Fire | Physical | While used consecutively, the Move's BP is increased by 1, up to 3 times.
 **Rapid Spin** | 3 BP | 4 AP | ≥2 | Normal | Physical | The User is cured of Stuck, Constricted, Trapped, Bound, and Seeded. Field Hazards are nullified. 
-Razor Leaf | 5 BP | 5 AP | ≥11 | Grass | Physical | 18-20; Increased Crit Ratio. Spread. Effective at destroying woodland hazards.
+Razor Leaf | 5 BP | 5 AP | ≥3 | Grass | Physical | 18-20; Increased Crit Ratio. Effective at destroying woodland hazards.
 Razor Shell | 7 BP | 6 AP | ≥2 | Water | Physical | 10-20; The Opponent's Defense is decreased by 1.
 Razor Wind | 8 BP | 7 AP | ≥11 | Normal | Special | Hits 1 round after the Move is used. 18-20; Increased Crit Ratio. Spread.
 Relic Song | 8 BP | 7 AP | ≥11 | Normal | Special | 19-20; The Opponent is afflicted with *Sleep*. Spread.
@@ -698,7 +698,7 @@ Laser Focus | - | 4 AP | - | Normal | Status | The User's next Move is a Critica
 Leech Seed | - | 4 AP | - | Grass | Status | The Opponent is afflicted with *Seeded.*
 **Leer** | - | 4 AP | ≥2 | Normal | Status | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each. 
 **Life Dew** | - | 4 AP | - | Water | Status | The User is healed for 2 HP. The User may select additional Allies to heal at the cost of 2 AP each. Initial healing can be shifted to any nearby Pokémon.
-Light Screen | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Special Moves.
+Light Screen | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and up to 3 Allies.  Affects Special Moves.
 Lock-On | - | 4 AP | - | Normal | Status | The User's next Move never misses the Opponent targeted. 
 Lovely Kiss | - | 4 AP | ≥6 | Normal | Status | The Opponent is afflicted with *Sleep.*
 Lucky Chant | - | 4 AP | - | Normal | Status | For 2 round, the Opponents are unable to have Critical Hits.
@@ -755,7 +755,7 @@ Rage Powder | - | 4 AP | - | Bug | Status | For the Opponent's turn, they become
 Rain Dance | - | 4 AP | - | Water | Status | The Weather is changed to [Rain](https://rentry.co/tmd2many_rules#weather).
 Recover | - | 4 AP | - | Normal | Status | The User is healed for 4 HP.
 **Recycle** | - | 4 AP | - | Normal | Status | When in battle, the User acquires a lesser version of a [Consumable Item](https://rentry.co/tmd2many_moves#recycle-table) they or an Ally have used recently. Outside of combat, the User may turn some [Items](https://rentry.co/tmd2many_moves#recycle-table) into other [Items](https://rentry.co/tmd2many_moves#recycle-table). 
-Reflect | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and their Allies. Affects Physical Moves.  
+Reflect | - | 4 AP | - | Psychic | Status | For 3 turns, a [Screen](https://rentry.co/tmd2many_rules#recoil-screens) affects the User and up to 3 Allies. Affects Physical Moves.  
 Reflect Type | - | 4 AP | - | Normal | Status | The User's Type changes to match the Opponent's. 
 Refresh | - | 4 AP | - | Normal | Status | The User is cured of *Poison*, *Burn*, or *Paralysis*. 
 Rest | - | 4 AP | - | Psychic | Status | The User is unable to act for 2 rounds. The User heals to Max HP.

@@ -72,9 +72,9 @@ https://files.catbox.moe/882h83.jpg
 There's an effort underway to identify the triggers.
 
 ###Hashed Styles
-**Update 3/16/2024**
+**Update 3/17/2024**
 Here's a csv of the lastest version of a collaborative spreadsheet with some identified styles.
-https://files.catbox.moe/tdsz87.csv
+https://files.catbox.moe/t2ub6i.csv
 
 ###Hashed Characters
 aua - houshou_marine 
@@ -864,7 +864,6 @@ https://files.catbox.moe/m861nn.json
 ####My Current Settings
 My current settings are pretty similar to the prodigy one above, a couple times I've had a hard time getting prodigy to get that last bit of distance to really recreate the artist and have used AdamW in those cases, which takes a bit more tweaking with the learning rates. Usually I'll resize the resulting LoRA down to 16ish dims (for a style) and make sure it still looks good.
 
- --network_module = networks.lora
  --train_data_dir = "$IMAGES_PATH$"
  --output_dir = "$OUTPUT_FOLDER$"
  --output_name = "$LORA_NAME$"

@@ -181,6 +181,10 @@
 - Draws influence from the well-known AniMixPlay platform that features a minimalist layout.
 - [URL Safety Results](https://www.urlvoid.com/scan/anix.to/)
 
+### ▶️ [aniXen](https://anixen.vercel.app/)
+- Showcasing an array of anime titles spanning various genres accessible for your exploration.
+- [URL Safety Results](https://www.urlvoid.com/scan/anixen.vercel.app/)
+
 ### 🐐 [HiAnime](https://hianime.to/)
 - Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/hianime.to/)

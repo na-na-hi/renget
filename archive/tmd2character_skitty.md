@@ -8,7 +8,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 ---- | ----
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
-**Level:** 12 | **Experience to Next Level:** 5/120
+**Level:** 12 | **Experience to Next Level:** 55/120
 **Worn Item:** *Sparkly Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 695₽ (520 owed to Matchia) | **Glorious Gold:** 0 Bars
 

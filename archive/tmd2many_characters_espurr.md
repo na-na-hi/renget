@@ -25,7 +25,7 @@
 ---- | ---- | 
 **%#dcc6c2%Origin:%%** ??? | **%#dcc6c2%Guild Role:%%** Cat | **%#dcc6c2%Nature:%%** Quirky
 **%#dcc6c2%Species:%%** %#ff82b6%E%%%#d77bba%s%%%#76428a%pu%%%#4d2f63%rr%% | **%#dcc6c2%Affiliation:%%** Team Stardust | **%#dcc6c2%Favorite Color:%%** %#fff667%Yellow%%
-**%#dcc6c2%Level:%%** 13 | **%#dcc6c2%Experience to Next Level:%%** 63/130 | **%#dcc6c2%Alignment:%%** True Neutral
+**%#dcc6c2%Level:%%** 13 | **%#dcc6c2%Experience to Next Level:%%** 113/130 | **%#dcc6c2%Alignment:%%** True Neutral
 **%#dcc6c2%Worn Item:%%** *N/A* | **%#dcc6c2%Clothing:%%** *Leaf Bag* | **%#dcc6c2%Age:%%** Unknown
 **%#dcc6c2%Pokécoin:%%** 774₽ | **%#dcc6c2%Glorious Gold:%%** 0 Bars | **%#dcc6c2%Gender:%%** Unknown
 
@@ -93,7 +93,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 Attribute: Gravitational Potential | %#e69d31%**ᴍᴀx**%% (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
 Attribute: Foraging | Tier %#9595b4%**ɪɪ**%% (+2) | Skill in scavenging for useful food items and materials found in nature. 
 Attribute: Artifice | Tier %#9595b4%**ɪɪ**%% (+2) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
-Attribute: Meditation | Tier %#e69d31%**ɪɪɪ**%% (+3) | Ability to tune the world out and focus on one's mind. Shows understanding of Espurr's potential.
+Attribute: Meditation | %#e69d31%**ᴍᴀx**%%(+3) | Ability to tune the world out and focus on one's mind. Shows understanding of Espurr's potential.
 Battle Attribute: ??? | - | - 
 
 ***
@@ -116,7 +116,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 *Worn Item: Empty* | Empty
 *Equipped Item: Empty* | Empty
 1. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
-2. Empty | None
+2. Sitrus Leaf | Heals the user for 5 HP. Can stack to 3.
 3. Empty | None
 4. Empty | None
 

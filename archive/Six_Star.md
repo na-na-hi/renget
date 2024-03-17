@@ -10,7 +10,8 @@ Luxury - Collection purposes only if you have extra resources to fluff about wit
 
 PvE is defined as a general category for anything that isn't Arena or CB such as Event SP, Dungeons, Luna Tower, Special Dungeon, etc... 
 
-Last Updated: Jan 11th, UE2s have been taken into consideration, so units will be re-considered during their release.
+Last Updated: March 17th, 2024 
+UE2s have been taken into consideration, so units will be re-considered during their release.
 [TOC2]
 
 ## -> Kyaru ![Dark](https://pomf2.lain.la/f/st1ub3t9.png)<- 
@@ -914,40 +915,40 @@ New player Unit priority: High
 
 ## -> New Year's Rei ![Water](https://pomf2.lain.la/f/wbwd78dh.png)<- 
 	(JP Release Date: Year 7, March)
-TBD
-- UB+: 
-- CB: 
-- Arena: 
-- PvE: 
-- 
-Bond story priority: Luxury (Relevant units: P.Rei, S.Rei,)
-Max level Unit priority:  TBD
-New player Unit priority: TBD
+She was a decent Arena tank into mages, just more specialized into that role.
+- UB+: Increased damage. New additions are a large P.Def debuff and a magic barrier to self.
+- CB: Could compete with Ruka and Salazaria Ruka as a magic p.def & taunt tank. Without any self healing, might be a bit worse - But her debuff applies to all enemies on UB+, which could be useful with units such as S.Mimi/S.Peco.
+- Arena: A great magic tank with increased stats, but very barrier reliant. The debuff means her surviving and actually dealing damage means that she could make a difference with her increased stats, stun from UB+ and barriers. Moreso a defense unit, so keep an eye out in P.Arena, or paired with Kaiser.
+- PvE: Could help with Deep quests or other water-specific content thanks to her taunt, debuff and self shielding. A good tank option overall, but more specialized towards magic.
+- Overall, she's a farmable unit with a 5 year old kit. NY.Rei seems fine as a water tank option, especially against fights with multiple enemies. A sneaky good water tank. Maybe with a UE2 she'd become more meta.
+Bond story priority: High (Relevant units: P.Rei, S.Rei, Ast.Rei)
+Max level Unit priority:  High
+New player Unit priority: Low
 [Return to Top](https://rentry.org/Six_Star)
 
 
 ## ->New Year's Hiyori ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<- 
 	(JP Release Date: Year 7, March)
-TBD
-- UB+: 
-- CB: 
-- Arena: 
-- PvE: 
-- 
-Bond story priority: Luxury (Relevant units: Ast.Hiyori)
-Max level Unit priority:  TBD
-New player Unit priority: TBD
+Looks like a really nice light physical damage/support unit, but probably won't be able to play the front line 1st tank position in regular fights without support.
+- UB+: Increased damage, large increase to p.def debuff. New addition is a P.Def buff to all physical friendly units
+- CB: Could play a large role in physical light comps, but they do have a nice selection already. Her positioning being behind Overload Peco, but in front of Liberator Muimi mixed with her P.Def buff means that she could function as a 1st position unit. However, this is highly dependant on the type of boss, so don't assume you can just slot her in any light physical team. 
+- Arena: Maybe has some odd usage in P.Arena defense, or some niche comp where you need P.Def increase on a somewhat tanky unit. But mostly doesn't seem useful.
+- PvE: Similar to CB, she'd be a good unit in a physical light comp in places such as deep quests, where you want a higher mix of damage over healing/support. However, physical teams for light have some great damage dealers and supports that perform extremely well together.
+- Similar to NY.Rei, NY.Hiyori's UB+ and increased stats means that she'll probably be seen in some niche comps if the bosses line up for her, but has a higher chance of her doing so. I'm not sure she's worth a spark, but certainly a good 6 star to have in your roster. The P.Def debuff to enemies and P.def buff to physical units is a nice mix on a damage/support hybrid, but the lack of other critical buffs and her outdated kit means that she isn't a smash hit.
+Bond story priority: Low (Relevant units: Ast.Hiyori)
+Max level Unit priority: Med
+New player Unit priority: Luxury
 [Return to Top](https://rentry.org/Six_Star)
 
 ## -> New Year's Yui ![Light](https://pomf2.lain.la/f/zdi8bvnw.png)<- 
 	(JP Release Date: Year 7, March)
-TBD 
-- UB+: 
-- CB: 
-- Arena: 
-- PvE: 
-- 
+Could be a great light mage support with her m.def debuff and small Phys & Magic atk debuff, but will have to compete with Ames.
+- UB+: New additions are an action speed buff to all units to 200% and a Phys & Magic 5% damage cut to all friendlies.
+- CB: With a 200% Action Speed buff, large M.Def shred and small offensive debuffs to enemies, NY.Yui could certainly see herself slotting into light mage comps, as her UB+ and S1+ are effective tools in a strong element. However, she does not deal much damage while not offering any TP-related buffs. Compared directly to Ames, her strengths are the debuff vs the slew of buffs that Ames offers in comparison. If she was in front of ライラエル and could be used as a 1st position tank for mage comps, maybe she'd be more impactful since Ames can't do that.
+- Arena: Could be okay in some sort of P.Arena defense with a TP Boost down in combination with a TP booster to NY.Yui.
+- PvE: Probably just a decent option if you somehow don't have Ames, or need regen & damage cut for everyone. Seems fairly niche overall.
+- Maybe just released a few years too late, because Ames exists. NY.Yui might have an action speed buff, but her kit is 5 years old and does not have a UE2 yet. They'll probably try to give us multiple light bosses to fight in order to force her usage, but light doesn't really need much help in the support department at the moment. It's not as if she's bad, just a bit outclassed.
 Bond story priority: Luxury (Relevant units: Ast.Yui, S.Yui)
-Max level Unit priority:  TBD
-New player Unit priority: TBD
+Max level Unit priority: Low
+New player Unit priority: Luxury
 [Return to Top](https://rentry.org/Six_Star)

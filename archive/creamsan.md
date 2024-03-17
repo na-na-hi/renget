@@ -75,7 +75,7 @@ Some of them use CoT. To remove those thoughts, add a regex script to SillyTaver
 
 ***
 ##JSON FILES
-See how recent the updates are [here](https://github.com/creamsan/stqrpresets).
+Update notes [here](https://github.com/creamsan/stqrpresets).
 ***
 File | Version
 --- | ---
@@ -86,7 +86,7 @@ File | Version
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
 !!! note Updated on **Mar-16-24**
 	Fixes and updates on Quick QR importer.
-	Note that you will still need to update the Quick Import preset itself by manually importing it. It is not included in the Quick Import.
+	Note that you will still need to update the Quick Import preset itself by manually importing it. It is not included to be automatically updated.
 	If you don't want the UI stuff, just add the regex script. Then go here: [Console copy paste](https://rentry.org/creamsan#console-copy-paste).
 	Huge thanks to stscript anon for providing the code. https://rentry.org/stscript#making-stscript-cards-easy-to-set-up. **Requires JS setup first.**
 ***

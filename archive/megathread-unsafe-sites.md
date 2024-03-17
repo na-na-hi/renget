@@ -91,6 +91,7 @@
 **Crohasit** | crohasit-net | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **CroTorrents** | crotorrents-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Descarga Game** | descargagame-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
+**EMPRESS TORRENTS** | empresstorrents-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Game PC Iso** | gamepciso-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **Game3rb** | game3rb-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).
 **GameFabrique** | gamefabrique-com | **Unethical conduct**: (*Terrible regulation, and the calculated injection of insidious malware*).

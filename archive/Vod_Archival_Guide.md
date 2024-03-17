@@ -8,8 +8,6 @@ The goal of this guide used to be to help people who wanted to archive VoDs but 
 Content|Link|Description 
 -------|-------|------- 
 Vod Archival Guide | [Google Docs](https://docs.google.com/document/d/1MR48duo8FmpUIVGPvDRzBd3y5HnalrF1wmiS9fO99N4) |
-MS onedrive Mirror | [MS Onedrive](https://1drv.ms/f/s!AhS3PgDnjlw8kgaNay0EcywHlxU_?e=DsVkYN) |
-Mega Mirror | [Mega](https://mega.nz/folder/3DJg2DTZ#ON3mctUOZorlXtdwrR8rAQ) |
 
 ---
 #Ways to contact me if needed:
