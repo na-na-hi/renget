@@ -3,22 +3,22 @@
 ***
 Previous: >>
 
-\>Livestream Codes
-3SRN6L3AADLK
-YTRN743TSUL7
-2S8N6M3ATV6T
+\>Livestream Codes expire on March 17 at 23:59 (UTC+8)
+3SRN6L3AADLK - https://hsr.hoyoverse.com/gift?code=3SRN6L3AADLK
+YTRN743TSUL7 - https://hsr.hoyoverse.com/gift?code=YTRN743TSUL7
+2S8N6M3ATV6T - https://hsr.hoyoverse.com/gift?code=2S8N6M3ATV6T
 
-\>Version 2.1 "Into the Yawning Chasm" Special Program will be released on March 16 at 19:30 (UTC+8)
+\>Version 2.1 "Into the Yawning Chasm" Special Program 
 https://www.youtube.com/watch?v=yWd6NeDxN9s
 https://www.youtube.com/watch?v=aDhaaLhcmj0
 
 \>Download - https://hsr.hoyoverse.com/en-us/home
 
-\>2.0 Preview Page - https://act.hoyoverse.com/sr/event/e20240126version-pp3ay8/index.html
+\>2.1 Preview - https://www.hoyolab.com/article/25957777
 
-\>Version 2.0 Music Video — "WHITE NIGHT"
-https://www.youtube.com/watch?v=U7W8QR9fsFw
-https://www.youtube.com/watch?v=KdbnaBhJs6Y
+\>Version 2.1 Trailer - "Into the Yawning Chasm"
+https://www.youtube.com/watch?v=RSg-JRqQ8QA
+https://www.youtube.com/watch?v=3FqAcWYLirA
 
 \>Sparkle Trailer — "Monodrama"
 https://www.youtube.com/watch?v=RC6wQ-75uQU

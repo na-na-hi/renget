@@ -27,7 +27,7 @@ Absorb | 2 BP | 5 AP | ≥2 | Grass | Special | [Draining](https://rentry.co/tmd
 Accelerock | 4 BP | 5 (-1) AP | ≥2 | Rock | Physical | Priority.
 Acid | 2 BP | 4 AP | ≥2 | Poison | Special | 19-20; The Opponent's Defense is decreased by 1.
 Acid Spray | 4 BP | 6 AP | ≥2 | Poison | Special | The Opponent's Special Defense is decreased by 2.
-Acrobatics | 5 BP | 6 AP | ≥2 | Flying | Physical | If the User has no Worn Item, the Move's BP is increased by 6.
+Acrobatics | 5 BP | 6 AP | ≥2 | Flying | Physical | If the User has no Worn Item, the Move's BP is increased by 5.
 Aerial Ace | 6 BP | 5 AP | - | Flying | Physical | No secondary effect.
 Aeroblast | 10 BP | 8 AP | ≥2 | Flying | Special | 18-20; Increased Crit Ratio.
 Air Cutter | 6 BP | 5 AP | ≥2 | Flying | Special | 18-20; Increased Crit Ratio.
@@ -69,7 +69,7 @@ Bleakwind Storm | 10 BP | 8 AP | ≥8 | Flying | Special | 14-20; The Opponent i
 Blue Flare | 13 BP | 8 AP | ≥4 | Fire | Special | 16-20; The Opponent is afflicted with *Burn*.
 Body Press | 8 BP | 6 AP | ≥2 | Fighting | Physical | The User's Defense is calculated in place of Attack.
 Body Slam | 8 BP | 6 AP | ≥2 | Normal | Physical | 14-20; The Opponent is afflicted with *Paralysis*.
-**Bolt Beak** | 8 BP | 6 AP | ≥2 | Electric | Physical | If the User was damaged last round, the Move's damage is increased by 4.
+**Bolt Beak** | 8 BP | 6 AP | ≥2 | Electric | Physical | If the User was damaged last round, the Move's damage is increased by 2.
 Bolt Strike | 13 BP | 8 AP | ≥4 | Electric | Special | 16-20; The Opponent is afflicted with *Paralysis*.
 Bone Club | 7 BP | 6 AP | ≥4 | Ground | Physical | 19-20; The Opponent Flinches.
 **Bone Rush** | 1D10 | 7 AP | - | Ground | Physical | Multi-Hit; Roll 1D10.
@@ -109,7 +109,7 @@ Blazing Torque | 10 BP | 8 AP | ≥2 | Fighting | Physical | 14-20; The Opponent
 Confusion | 5 BP | 5 AP | ≥2 | Psychic | Special | 19-20; The Opponent is afflicted with *Confusion*.
 Constrict | 1 BP | 4 AP | ≥2 | Normal | Physical | 19-20; The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1.
 Core Enforcer | 10 BP | 8 AP | ≥2 | Dragon | Special | The User nullifies the Opponent's Ability.
-Counter | - | 7 AP | ≥2 | Fighting | Physical | For 1 round, the User waits to be damaged by a Physical or Special Move. After being damaged, the User Counters. BP is based on the final damage number of the Opponent's attack increased by 5. Not affected by the User's Offensive Stats.
+Counter | - | 7 AP | ≥2 | Fighting | Physical | For 1 round, the User waits to be damaged by a Physical Move. After being damaged, the User Counters. BP is based on the final damage number of the Opponent's attack increased by 5. Not affected by the User's Offensive Stats.
 Covet | 6 BP | 5 AP | ≥2 | Normal | Physical | The User steals the Opponent's Item.
 Crabhammer | 10 BP | 8 AP | ≥4 | Water | Physical | 18-20; Increased Crit Ratio.
 Cross Chop | 10 BP | 8 AP | ≥5 | Fighting | Physical | 18-20; Increased Crit Ratio.

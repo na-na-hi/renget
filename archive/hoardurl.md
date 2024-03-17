@@ -3,7 +3,7 @@
 
 ->﹫[finn's](https://rentry.co/batcemetery) urls ![](https://i.postimg.cc/0Q5DjSmh/IMG-7310.gif) ꒱꒱ <-
 ->%#8B0000% ‏‏‎ ‎***key***‏‏‎ ‎ %%⠀⦂⠀*italics* : uft or free try ur luck ◞  **bold** : iffy but u can ask ◞ ~~strikedout~~ : nft ◞ [linked]() : traded ◞ `highlighted` : decorated ◞ ! : the L is uppercase i <-
-
+-> WHOEVER OWNS .co/opium AND DOESNT MIND TRADING IT DM ME ON DISCORD <-
 
 -> [url wishlist](https://rentry.co/hoardurl/#url-wishlist-𓂋) <-
 -> theres ones that you might not listed here <-

@@ -121,47 +121,47 @@
     >WATCH: Al-Quds Brigades published a video showing the targeting of israeli soldiers in “Qalbat 22” east of the Eastern Cemetery in Jabalia with a guided 107mm missile.
     >https://twitter.com/AryJeay/status/1763866983525708102  3/2/24  
     >https://files.catbox.moe/ucxiur.mp4  3/2/24  
-
+    ***
     >The British Maritime Trade Agency announced that it had received a report of an attack. The crew members of the reporting ship were evacuated.
     >The UK-US attacks do not really deter Yemen now, do they?
     >https://t.me/FotrosResistance/5700  3/2/24  
-
+    ***
     >the british report  
     >https://t.me/FotrosResistance/5701  3/2/24  
-
+    ***
     >Al-Qassam Brigades (Hamas) in the last 15 mins:
     >🔻Confirmed blowing up 2 Merkava tanks with explosive devices, southeast Al-Zaytoun.
     >🔻Seized a Skylark reconnaissance drone during its intelligence mission, south of Al-Zaytoun.
     >https://t.me/FotrosResistance/5705  3/2/24  
-
+    ***
     >Planes have dropped aid parcels over Rafah just moments ago, amidst urgent calls to open the Rafah crossing and permit hundreds of trucks to enter, addressing the essential needs of Gaza residents for food and medical supplies.
     >https://t.me/QudsNen/97650  3/2/24  
     >https://files.catbox.moe/sv1vbm.mp4  3/2/24  
-
+    ***
     >Israeli settlers, with the backing of occupation forces, trespass on Palestinian lands, vandalizing Qaryut spring in south of Nablus today.
     >https://twitter.com/QudsNen/status/1763948732310073721  3/2/24  
     >https://files.catbox.moe/cfc925.mp4  3/2/24  
-
+    ***
     >Protesters march through the streets of Paris, demonstrating solidarity with Gaza and demanding justice for Palestinians.
     >https://t.me/QudsNen/97662  3/2/24  
-
+    ***
     >Yemen: Ministry of Transport in the Sana’a government: America and Britain are using hostile and illegal methods in their war on #Yemen in the service of the Zionist enemy.
     >https://t.me/me_observer_channel/159779  3/2/24  
-
+    ***
     >Urgent| Al-Qassam Brigades: We blew up a house that had been booby-trapped with two anti-personnel devices in a foot force of 7 soldiers in the occupation army, leaving them dead and wounded in the Al-Satar area, north of Khan Yunis, south of the #Gaza Strip.
     >https://t.me/me_observer_channel/159782  3/2/24  
-
+    ***
     >Military expert Fayez Al-Duwairi: The Al-Qassam Brigades destroyed more #Israeli vehicles than the Arab Air Force destroyed in 70 years.
     >https://t.me/me_observer_channel/159783  3/2/24  
-
+    ***
     >Occupied Palestine: Al-Qassam Brigades: A house that was previously booby-trapped with two anti-personnel devices was blown up by a foot force of 7 soldiers of the occupation “army” north of Khan Yunis.
     >https://t.me/me_observer_channel/159784  3/2/24  
-
+    ***
     >BREAKING:
     >⚡ 🇾🇪 According to reports, a ship in the Red Sea was attacked and its crew evacuated.
     >(Photo ilustrative)
     >https://t.me/megatron_ron/2096  3/2/24  
-
+    ***
     >BREAKING:
     > After the US armed Israel with the most advanced bombs, with which it still massacres.
     >After they were the only ones in the UN to put a veto on the resolution to stop that massacre.  
@@ -169,49 +169,49 @@
     >Now they are playing Mother Teresa and threw 3 sacks of rotten potato aid to the population which is currently blocked and starved by Israel.
     >What a magical story, they should make a new movie in Hollywood about this, how they "save" Gazans.
     >https://t.me/megatron_ron/2097  3/2/24  
-
+    ***
     >NEW:
     >⚡ 🇬🇧 British-registered cargo ship sinks after being hit by Houthi missiles in the Red Sea.
     >https://t.me/s/megatron_ron  3/2/24  
-
+    ***
     >MUST WATCH: Al-Qassam (Hamas) published a video showing scenes of its forces confront IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
     >https://t.me/FotrosResistance/5706  3/2/24  
-
+    ***
     >MUST WATCH: Al-Qassam (Hamas) published a video showing scenes of its forces confront IOF forces penetrating the Al-Zaytoun neighborhood, east of Gaza City.
     >https://twitter.com/AryJeay/status/1763968256065392895  3/2/24  
     >https://files.catbox.moe/t11xz6.mp4  3/2/24  
-
+    ***
     >Rockets from Gaza towards Be’eri & Beershaba’s vicinity
     >https://t.me/FotrosResistance/5708  3/2/24  
-
+    ***
     >JUST IN: The IOF admits to the deaths of 3 officers in the southern Gaza Strip on Friday:
     >🔻Sgt. Dolev Malka, 19, of the Bislamach Brigade’s 450th Battalion.
     >🔻Sgt. Afik Tery, 19, of the Bislamach Brigade’s 450th Battalion.
     >🔻Sgt. Inon Yitzhak, 19, Bislamach Brigade’s 450th Battalion.
-    
+    ***
     >14 other troops were wounded in the same operation, 6 of them seriously wounded, due to a blast in a booby-trapped building in Khan Younis.
     >The 3 dead officers, formerly of the Kfir Brigade's Nahshon Battalion, were in a squad commanders course.
     >https://t.me/FotrosResistance/5709  3/2/24  
-
+    ***
     >Al-Quds Brigades: We bombed Hatzerim and the settlements surrounding the #Gaza Strip with a missile barrage.
     >Al-Aqsa Flood
     >https://t.me/me_observer_channel/159862  3/2/24  
-
+    ***
     >Urgent appeal
     >The patient, Acid, from the city of Qalqilya, is in urgent need of a blood donation at Al-Najah Hospital in #Nablus. What type of blood is it for extreme necessity? Please circulate:
-
+    ***
     >+972 59-986-8382
     >https://t.me/me_observer_channel/159865  3/2/24  
-
+    ***
     >Urgent| Violent clashes between armed men and #Palestinian security services after they deployed in the Al-Hadaf neighborhood in the vicinity of #Jenin camp.
     >https://t.me/me_observer_channel/159893  3/2/24  
-
+    ***
     >Urgent | #Israeli opposition leader Yair Lapid; Commenting on the incident of killing and wounding #Israeli army soldiers in Khan Yunis: “A major disaster occurred yesterday in the #Gaza Strip.” According to his expression.
     >https://t.me/me_observer_channel/159896  3/2/24  
-
+    ***
     >Urgent || Sounds of gunfire and explosions again around #Jenin camp at these moments.
     >https://t.me/me_observer_channel/159899  3/2/24  
-
+    ***
     >BREAKING| Israel's military bombards a house owned by Abu Anza family in eastern Rafah, killing at least 14 civilians and wounding others most of whom are children.
     >https://t.me/QudsNen/97692  3/2/24
 ***
@@ -2010,6 +2010,7 @@
     >🔻Targeted the IOF Palmachim air base with a kamikaze drone.   
     >https://t.me/FotrosResistance/5902  3/14/24  
     ***
+##&#127817;%#bdb76b%Week 3/15/24 -3/21/24%%&#127817;
 !!!warning 
     >🛑 Al-Qassam (Hamas) since this morning:
     >
@@ -2202,4 +2203,88 @@
     >
     >🔻Targeted an Israeli force near the Jal al-Alam site as it moved behind the border wall with appropriate weapons.
     >https://t.me/FotrosResistance/5916  3/15/24  
+    ***
+!!!warning
+    >🚨 Resistance operation in Al-Khalil (Hebron)
+    >https://t.me/FotrosResistance/5918  3/16/24  
+    >
+    >Lebanon: Islamic Resistance: Our mujahideen targeted the “Ramtha” site in the occupied Lebanese hills of Kafr Shuba with missile weapons and directly hit it.
+    >https://t.me/me_observer_TG/169493  3/16/24  
+    ***
+    >Urgent || Hizb allah:
+    >
+    >Our fighters targeted the Ramtha site in the occupied Lebanese hills of Kafr Shuba with missile weapons and hit it directly.
+    >https://t.me/me_observer_TG/169495  3/16/24  
+    ***
+    >Lebanon: Islamic Resistance: Our mujahideen targeted the Al-Samaqa site in the occupied Lebanese Kfar Shuba hills with missile weapons and achieved a direct hit.
+    >https://t.me/me_observer_TG/169489  3/16/24  
+    ***
+    >Mujahideen Brigades:
+    >In response to the ongoing crimes of the Zionist enemy against civilians...
+    >Our mujahideen targeted the settlements surrounding the #Gaza Strip with a missile salvo this morning.
+    >Al-Aqsa Flood
+    >https://t.me/me_observer_TG/169486  3/16/24  
+    ***
+    >Scenes of food aid being distributed by boats from the World Central Kitchen organization in central areas of Gaza.
+    >https://t.me/QudsNen/98844  3/16/24  
+    >https://files.catbox.moe/7vl5qv.mp4  3/16/24  
+    ***
+    >Tomorrow, a round of indirect negotiations will begin in Qatar, more serious than ever before, in the presence of various delegations and mediators, and under American pressure on everyone to bridge the gaps and reach an agreement.
+    >https://t.me/me_observer_TG/169523  3/16/24  
+    ***
+    >Urgent | Senator Chris Van Hollen to NBC: Netanyahu ignoring Biden's warnings makes the United States look helpless.
+    >
+    >- Senator Chris Van Hollen: The Biden administration must use other tools to effectively translate the warnings directed to #Israel.
+    >
+    >- Senator Bernie Sanders to NBC: Global anger towards the right-wing Netanyahu government, which caused hundreds of thousands of children to starve in #Gaza.
+    >https://t.me/me_observer_TG/169528  3/16/24  
+    ***
+    >Urgent | Water Authority: 5,000 liters of fuel entered the #Gaza Strip to be used to operate a number of water wells in #Gaza City and Jabalia, north of the Strip.
+    >https://t.me/me_observer_TG/169584  3/16/24  
+    ***
+    >A little while later... via Al Jazeera News Channel, scenes of the Al-Qassam Mujahideen targeting the occupation vehicles penetrating the city of Al-Zahra, northwest of the Central Governorate. #Al-Aqsa_Flood
+    >https://t.me/me_observer_TG/169585  3/16/24  
+    ***
+    >⚡️WATCH: Al-Qassam (Hamas) published a video showing the targeting of several IOF army vehicles in the city of Al-Zahra, northwest of the Central Governorate, using Yassin-105s.
+    >https://files.catbox.moe/1f21u6.mp4  3/16/24  
+    ***
+    >Due to obstacles imposed by Israeli forces, very little flour is being distributed to northern Gaza areas. As a result, starved Palestinians resort to eating rotten bread they had to keep for days in order to break their fast during Ramadan.
+    >https://t.me/QudsNen/98869  3/16/24  
+    ***
+    >Despite being injured by Israeli strikes on Gaza, 11-year-old Palestinian girl Yosra manages a stall to sell goods and support her family amidst the dire situations during the ongoing war.
+    >https://t.me/QudsNen/98866  3/16/24  
+    >https://files.catbox.moe/kctfp9.mp4  3/16/24  
+    ***
+    >Mujahideen Brigades:
+    >In response to the Zionist enemy’s continued brutal crimes against defenseless civilians...
+    >Today, our mujahideen targeted a gathering of Zionist enemy vehicles and soldiers near Route 10, south of #Gaza City, with short-range missiles, causing direct hits at the target site.
+    >
+    >Al-Aqsa Flood
+    >https://t.me/me_observer_TG/169615  3/16/24  
+    ***
+    >Urgent || #Israel Broadcasting Corporation:
+    >
+    >Gallant holds an alternative session to discuss the exchange deal after Netanyahu refused to convene the mini-ministerial council
+    >https://t.me/me_observer_TG/169619  3/16/24  
+    ***
+    >Abdul Hadi to Al-Mayadeen: #Hamas and all the #Palestinian people offer gratitude to the resistance fighters from #Yemen to Iraq to #Lebanon
+    >https://t.me/me_observer_TG/169621  3/16/24  
+    ***
+    >NEW:  
+    >
+    >The Syrian Defence Minister has made a surprise visit to Iran 🇮🇷🇸🇾 
+    >
+    >Iran's Defense Minister says necessary and urgent measures and plans are on the agenda to counter Israel's aggression on Syria
+    >
+    >Iran is prepared to utilize its full capabilities to assist Syria in enhancing its defense and deterrent power against the US and Israel.
+    >
+    >It is only a matter of time when Syria will receive advanced ballistic missiles and air-defense systems 
+    >https://t.me/megatron_ron/2317  3/16/24  
+    ***
+    >BREAKING:
+    >
+    >Niger pointed the exit door to the US military 🇳🇪🇺🇸
+    >
+    >Niger breaks the military agreement with the United States, which allows American troops to remain on the territory of the African country, media report.
+    >https://t.me/megatron_ron/2320  3/16/24 
     ***

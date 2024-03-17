@@ -895,6 +895,16 @@ Cover    | Name | Description | Tags | Relevance | Mirrors
 #### Lost
  * Jack and the Beanstalk (1922)
 
+### Literature
+#### Todo
+ * Gulliver's Travels by J. Swift
+ * Mistress Masham's Repose by T. H. White
+ * Small World by T. King
+ * Oms en série by S. Wul
+ * Of Men and Monsters by W. Tenn | Giant, technologically superior aliens have conquered Earth, but humankind survives - even flourishes in a way. Men and women live like mice in burrows in the massive walls of the huge homes of the aliens, scurrying about under their feet, stealing from them. A complex social and religious order has evolved, with women preserving knowledge and working as healers, and men serving as warriors and thieves. For the aliens, men and women are just a nuisance, neither civilized nor intelligent, and certainly not a worthy adversary. In fact, they are regarded as vermin, to be exterminated. Which, ironically, may just be humankind's strength and point the way forward. 
+ * The Men in the Walls by W. Tenn
+ * Men Like Rats by Robert Chilson
+
 ## Music Videos & Advertisements
  * Alpenliebe monkey | sfw, M&f, miniGTS, inherent, inhuman | [1 YouTube](https://www.youtube.com/watch?v=GDrB9agUdOU), [2 Youtube](https://www.youtube.com/watch?v=v3zsZ3RVMsc)
  * Spice Girls - Viva Forever | sfw, ?&F, inherent, fairies, inhuman

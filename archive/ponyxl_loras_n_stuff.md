@@ -72,9 +72,9 @@ https://files.catbox.moe/882h83.jpg
 There's an effort underway to identify the triggers.
 
 ###Hashed Styles
-**Update 3/15/2024**
+**Update 3/16/2024**
 Here's a csv of the lastest version of a collaborative spreadsheet with some identified styles.
-https://files.catbox.moe/50n7n8.csv
+https://files.catbox.moe/tdsz87.csv
 
 ###Hashed Characters
 aua - houshou_marine 

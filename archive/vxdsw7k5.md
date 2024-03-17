@@ -453,8 +453,9 @@ how to use tablebases:
 
 chess principles:
 - http://billwall.phpwebhosting.com/articles/principles.htm
-- https://www.reddit.com/r/chess/comments/70nf74/200_principles_every_chess_player_should_know
 - https://thechessworld.com/tag/chess-principles
+- list from "The Tao Of Chess": https://rentry.org/5yxywfqi
+
 
 chess tactics:
 - https://chessfox.com/chess-tactics-list

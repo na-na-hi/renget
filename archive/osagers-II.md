@@ -7,7 +7,7 @@
 
 **┆⌞dni⌝┆** | ┆⌞*thin ice*⌝┆
 :------: | :------:
-%#666666% !~ [basic dni critera](https://dni-criteria.carrd.co) ~! %% + shedtwt/goretwt/grooming???twt?????????what the fuck + proshippers/etc | above 18 years old , under 13 years old
+%#666666% !~ [basic dni critera](https://dni-criteria.carrd.co) ~! + zoophiles %% + shedtwt/goretwt/grooming???twt?????????what the fuck + proshippers/etc | above 18 years old , under 13 years old
 xenogender/neopronoun antis, irl/fictionkin/therian/copinglink/etc antis, objectum antis | lack of tone tags
 m-spec gays / m-spec lesbians | makes jokes about personally triggering topics
 endo-sys | jokes about doxxing, makes sexual jokes about me, makes joking death threats

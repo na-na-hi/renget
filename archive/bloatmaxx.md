@@ -38,5 +38,10 @@ https://files.catbox.moe/5iesg6.json
 -> [![](https://files.catbox.moe/kqihb4.png)]() <-
 
 ---
+!!!info send me your questions
+meatyrocket@proton.me
+d*scord: meat.rocket
+- - -
+
 special thanks to:
 todd, mm, XMLK, lurker, sturdycord

@@ -6,15 +6,17 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 288th time, what is Ope?!
+For the 289th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
+▼ Next known appearances
+03/15 9:45PM, Advent -The Road to EXPO 2024-, recorded stream on the Hololive official channel
 ▼ Next stream: TBA
 ▼ Recent appearances
-03/16, karaoke offcollab with FWMC on FWMC's channel: https://www.youtube.com/watch?v=dnATI1YAoTU
-03/16, Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=w740m36qz2o
+03/16 karaoke offcollab with FWMC on FWMC's channel: https://www.youtube.com/watch?v=dnATI1YAoTU
+03/16 Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=w740m36qz2o
 03/15 Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=y69ee5hIW48
 03/13 Kiara's Pick up line call-in: https://www.youtube.com/watch?v=MyDk7WdXj7U&t=290s
 03/13 "Can You Do the hololive?" song segment: https://www.youtube.com/watch?v=QNW7yHDYldY&t=140s
@@ -43,7 +45,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>71496314
+Previous thread: >>71562416
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

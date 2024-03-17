@@ -33,7 +33,7 @@ Previous version v.3 - up to C101 (FLAC): https://nyaa.si/view/1625916 - [Magnet
 
 Lossy version v3.5 - up to RTS20 (Opus 192kbps): https://nyaa.si/view/1695257 - [Magnet](magnet:?xt=urn:btih:2a7a8db08e5cef191136b41a849391e55af36b96&dn=%5BConnor_CZ%5D%20TLMC%20v3.5%20%28Touhou%20Lossy%20Music%20Collection%29%20%5BOpus%20192kbps%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
 
-!!!info Use rsync if you have trouble downloading large (>10TB) folders.
+!!!info Use rsync if you have trouble downloading large (>10GB) folders.
 AList version: https://alist.thdisc.de/
 (TODO?)
 

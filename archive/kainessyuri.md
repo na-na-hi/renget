@@ -6,3 +6,4 @@
 -> best ran haitani fan ×2 <-
 -> best izana kurokawa fan <-
 -> best yachiyo nanami fan <-
+-> best sparkle fan <-

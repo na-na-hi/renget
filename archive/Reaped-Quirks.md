@@ -302,3 +302,22 @@ Teleportation Quirk
 -Long (XP)
 
 14 Points
+
+!!!note
+	**Quirk:「Force Projection」**
+
+	Type: Emitter
+
+	Description: This quirk allows the user to generate powerful shockwaves capable of devastating impact. Through mastery and understanding, the user can infuse these shockwaves with a variety of effects by channeling them from their source, including those of other quirks, amplifying their potency.
+
+Projection Quirk
+-Waves
+-Large (XP)
+-Fixed (Hands)
+-Consumption (Energy)
+-Basic
+-Shape (XP)
+-Esoteric
+-Knowledge Limit
+
+6 Points

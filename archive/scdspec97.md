@@ -1,19 +1,5 @@
 # SCDSPEC97
-Refsheet coming in 3 business days or less!
-This directory contains the most frequently downloaded Kubuntu images. Other images, including DVDs and source CDs, may be available on the cdimage server. See also the list of download mirrors.
-Select an image
-
-Kubuntu is distributed on two types of images described below.
-Desktop CD
-
-The desktop CD allows you to try Kubuntu without changing your computer at all, and at your option to install it permanently later. This type of CD is what most people will want to use. You will need at least 384MB of RAM to install from this CD.
-
-There are two images available, each for a different type of computer:
-
-PC (Intel x86) desktop CD
-    For almost all PCs. This includes most machines with Intel/AMD/etc type processors and almost all computers that run Microsoft Windows, as well as newer Apple Macintosh systems based on Intel processors. Choose this if you are at all unsure.
-64-bit PC (AMD64) desktop CD
-    Choose this to take full advantage of computers based on the AMD64 or EM64T architecture (e.g., Athlon64, Opteron, EM64T Xeon, Core 2). If you have a non-64-bit processor made by AMD, or if you need full support for 32-bit code, use the Intel x86 images instead. 
+![what](https://files.catbox.moe/nnh37i.png)
 
 I had caught wind of a new Sonic CD leak over Twitter the other day because a bunch of people I followed were talking about it. It was a version of Sonic CD's PC port dated to September of 1997 that never saw the light of day which had leaked out and was apparently taken down by SEGA which was weird since they don't usually do that. The prototype itself seemed...uninteresting to say the least. Someone said it had no visible changes, another said it had 3D special stages, upgraded from the faux 3D Mode 7 of the original game...another was schizoposting about how one of the levels turned their life into a living nightmare, not sure why I bothered reading it. Somehow, I concluded it was worth checking out, so I scoured the internet for hours trying to find a download link without much luck at all.
 

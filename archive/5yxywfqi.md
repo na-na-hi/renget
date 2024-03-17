@@ -1,0 +1,202 @@
+**List of chess principles from the book "The Tao Of Chess: 200 Principles to Transform Your Game and Your Life" by Peter Kurzdorfer**
+
+- 1: If you control more than half of the squares on the board, you have an advantage.
+- 2: A knight on the rim is grim.
+- 3: Place your pawns on the opposite color square as your bishop.
+- 4: The path from a1 to a8 is the same length as the path from a1 to h8.
+- 5: Leave the pawns alone, except for center pawns and passed pawns.
+- 6: In order to get the most from your knights, give them strong support points.
+- 7: To be at their best, bishops require open diagonals and attackable weaknesses.
+- 8: Rooks require open files and ranks in order to reach their full potential.
+- 9: Don’t bring the queen out too early.
+- 10: Connect your rooks as soon as you can.
+- 11: Develop a new piece with each move in the opening.
+- 12: Don’t move the same piece twice in the opening if you can help it.
+- 13: Develop knights before bishops.
+- 14: A wing attack is best met by a counterattack in the center.
+- 15: Before beginning a wing attack, make sure your center is secure.
+- 16: Centralize your pieces to make them powerful.
+- 17: When choosing between two pawn captures, it’s generally better to capture toward the center.
+- 18: Play to control the center, whether Classically or in the hypermodern style.
+- 19: Castle early and often.
+- 20: Do not move pawns in front of your castled king.
+- 21: Pay particular attention to the f2- and f7-squares.
+- 22: A queen and a rook will always checkmate a naked king.
+- 23: Do not pin your opponent’s f3- or f6-knight to his queen with your bishop until after he’s castled.
+- 24: Never a mate with a knight on f8.
+- 25: When ahead in material, trade pieces, not pawns.
+- 26: When behind in material, trade pawns, not pieces.
+- 27: In situations with three healthy pawns versus a minor piece, the piece is usually superior in the middlegame, while the pawns are usually superior in the endgame.
+- 28: An extra pawn is worth a little trouble.
+- 29: In positions with an unusual disparity in material, the initiative is often the deciding factor.
+- 30: Passed pawns must be pushed.
+- 31: Doubled pawns are a weakness in that they are immobile, but a strength in that they offer half-open files for rooks.
+- 32: Look to liquidate backward and isolated pawns.
+- 33: Fewer pawn islands means a healthier position.
+- 34: If you must accept pawn weaknesses, make sure you get compensation in one form or another.
+- 35: Location, location, location.
+- 36: Exchange pieces to free your game when cramped.
+- 37: Avoid piece exchanges when you control more squares.
+- 38: Break a bind in order to free your pieces, even if it costs a pawn.
+- 39: The move ... d7-d5 is the antidote for the poison in many gambits.
+- 40: Don’t attack unless you have the superior game.
+- 41: You must attack when you have the superior game, or you will forfeit your advantage.
+- 42: Every move is an opportunity to interfere with your opponent’s plans, or to further your own plans.
+- 43: A sustained initiative is worth some material.
+- 44: The initiative is an advantage. Take it whenever you can, and take it back when you don’t have it, if at all possible.
+- 45: A rook on the seventh rank is sufficient compensation for a pawn.
+- 46: Superior development increases in value in proportion to the openness of the game.
+- 47: Attacking two weaknesses on opposite sides of the board simultaneously will stretch out the defense.
+- 48: The bishop pair is usually superior to a bishop and a knight or two knights in an endgame with pawns on both sides of the board.
+- 49: Opposite-colored bishops will usually give the weaker player a good chance to draw a bishop-and-pawn endgame, but can often be a virtual extra piece for the attacker in a middlegame.
+- 50: Don’t grab the b-pawn with your queen—even when it’s good!
+- 51: The double attack is the principle behind almost all tactics.
+- 52: Ignore your opponent’s threats whenever you can do so with impunity.
+- 53: Doubled rooks have more than twice the power of one rook.
+- 54: Hit ’em where they ain’t.
+- 55: Relentlessly attack pinned pieces, weak pawns, exposed kings, and other immobile targets.
+- 56: The threat you do not see is the one that will defeat you.
+- 57: Always check, it might be mate!
+- 58: Never miss a check!
+- 59: Be aware of the numbers and types of attackers and defenders in a convergence.
+- 60: Sacrifice your opponent’s pieces.
+- 61: If you sacrifice material for the initiative, make sure that initiative is enduring, or at least that it can be exchanged for some gain elsewhere.
+- 62: Accept a sacrifice not with the idea of holding on to the material, but with the idea of later gaining something by giving the material back.
+- 63: The only way to refute a gambit is to accept it.
+- 64: A knight, firmly ensconced in a hole deep in the opponent’s territory, is worth a rook.
+- 65: Three minor pieces are usually much stronger than a queen.
+- 66: Maintain the tension in the position rather than dissipating it too soon.
+- 67: The threat is greater than its execution.
+- 68: Pawn majorities should be marched forward with the candidate leading.
+- 69: Attack the base of a pawn chain.
+- 70: Rooks belong behind passed pawns.
+- 71: Blockade isolated, backward, and passed pawns, using a knight if possible.
+- 72: Use a minority of pawns to attack a majority of pawns with the purpose of destroying the pawn structure of the majority.
+- 73: The best defense is a good attack.
+- 74: In Alekhine’s Defense and other hypermodern openings, White has his initiative to defend.
+- 75: Good attacking play wins games. Good defense wins championships.
+- 76: Look through the pieces’ eyes.
+- 77: Play blindfold games.
+- 78: Concentrate on forcing moves.
+- 79: Never miss a chance to attempt to solve any position you come across.
+- 80: Decide on your candidate moves and look at them each in turn.
+- 81: Place your pawns on the opposite color square as your bishop.
+- 82: Place your knight and pawns or your knight and bishop on the same-colored squares; that way they can control more squares.
+- 83: A good knight will overwhelm a bad bishop in an endgame even worse than a good bishop will.
+- 84: Possession of the bishop pair is often compensation enough for weak pawns.
+- 85: A queen and knight complement each other and are often superior to a queen and bishop.
+- 86: Trade off your bad bishops.
+- 87: Trade your passive pieces for your opponent’s active pieces.
+- 88: Trade your opponent’s attacking pieces in order to break the attack.
+- 89: Trade pieces, particularly major pieces, when your pawn structure is healthier than your opponent’s.
+- 90: Exchange your opponent’s blockading pieces in order to make room for passed pawns to march.
+- 91: Exchange your opponent’s defending pieces in order to make room for your remaining attacking pieces to infiltrate.
+- 92: A bad plan is better than no plan at all.
+- 93: A good plan incorporates many little plans.
+- 94: In isolated d-pawn positions, the plans are clearly spelled out.
+- 95: Keep your plans flexible.
+- 96: In pawn chain, opposite-side castling positions, attack where your pawn chain is pointing.
+- 97: Your only task of the opening is to get a playable middlegame.
+- 98: When caught in an opening you don’t know, play healthy, developing moves.
+- 99: In open games, get the pieces developed and the king safe, and do it quickly.
+- 100: In queen pawn games, do not obstruct the c-pawn.
+- 101: As Black, play to equalize.
+- 102: The transition to the middlegame will often require a lot of thought.
+- 103: Look to the pawn structure in order to come up with a plan.
+- 104: Make sure all your pieces are defended.
+- 105: Build up small advantages when a combination is not available.
+- 106: The king is a fighting piece—use it!
+- 107: The aim of most endgames is to promote a pawn.
+- 108: Make use of Zugzwang, triangulation, and coordinate squares in endgames.
+- 109: A crippled pawn majority will have difficulties creating a passed pawn.
+- 110: When in doubt, do anything but push a pawn.
+- 111: Style can be more important than strength.
+- 112: Strive to get into positions you are comfortable with.
+- 113: Know your limitations.
+- 114: Know your strengths.
+- 115: Choose the competitions best suited to you.
+- 116: Strive for positions that make your opponent uncomfortable.
+- 117: Don’t be intimidated by a high rating or strong reputation.
+- 118: Don’t take your opponent too lightly.
+- 119: Don’t let your opponent distract you.
+- 120: Don’t feel sorry for your opponent.
+- 121: Play blindfold chess every chance you get.
+- 122: Attempt to solve any position you come across, anytime, anywhere.
+- 123: In figuring out a tactical sequence of moves, choose the candidate moves first. Only then follow them through to their logical outcome, one at a time.
+- 124: In order to see ahead with any clarity, it is necessary to concentrate on forcing moves (those that change the material or pawn structure of a position).
+- 125: Keep every little detail straight in comparing a position in your head with the one on the board.
+- 126: Have the courage of your convictions.
+- 127: Play those positions you know, even if you think your opponent knows more about them.
+- 128: Inferior positions are actually the easiest to play
+- 129: Don’t offer a draw to a superior player when you are winning, unless a draw secures a big prize.
+- 130: Unless you stand to gain big-time, don’t offer or accept a draw early in the game or any time there are chances for both sides, regardless of how strong your opponent is or which color you have.
+- 131: There are no signposts such as “White to play and win” during a game to alert you.
+- 132: Be on the alert at all times for opportunities in any game that you play. They come up when least expected.
+- 133: Strike while the iron is hot.
+- 134: Don’t get bogged down so much in little details that you miss the bigger picture.
+- 135: Trust your intuition—it’s usually right.
+- 136: Check all of your analysis a second time.
+- 137: Check for yourself any published analysis you are relying on using.
+- 138: Combinations and complicated tactical play will usually turn out in favor of the side with the sounder position.
+- 139: Don’t be afraid of making mistakes. They are inevitable. Rather, get in the habit of learning from them.
+- 140: Mistakes tend to come in bunches.
+- 141: After you’ve made a mistake, take some extra time to calm yourself and reassess the position.
+- 142: Don’t overlook subtle mistakes, such as taking too much or too little time for a move, carelessness in researching your openings or opponent, failing to eat right or get enough sleep, and so on.
+- 143: Don’t ever expect your opponent to make a mistake.
+- 144: Transition positions (from the opening to the middlegame or directly to the endgame, from the middlegame to the endgame) are the most difficult to handle.
+- 145: React to an unexpected, strong move by reassessing the position calmly.
+- 146: React to any major change in the position by reassessing the position calmly.
+- 147: Know the difference between a strategic position and a tactical position, and react to each accordingly.
+- 148: Nobody ever won a game by resigning.
+- 149: The hardest game to win is a won game.
+- 150: Physical stamina is sometimes more important in chess than knowledge or analytical ability.
+- 151: Try to get the most you can from any position, at any time.
+- 152: Don’t give up the game until there’s nothing left to play for.
+- 153: Make your decision, then live or die with it.
+- 154: When you see a good move, wait. Don’t play it. Look for a better move.
+- 155: Spend some extra time on an important decision, when the result of the game is on the line. There’s no sense rushing now.
+- 156: Stay out of time-pressure situations unless they are your bread and butter.
+- 157: Take more time on transition positions and decisive moments.
+- 158: Don’t go into a long think over routine moves.
+- 159: Rely heavily on intuition rather than calculation in rapid games.
+- 160: When your opponent is under time pressure, do not rush your moves to minimize the time he has to think during your thinking time.
+- 161: Keep your mind on the game.
+- 162: Focus your chess thinking.
+- 163: Compare your position with similar positions you remember.
+- 164: Think along strategic lines when it is your opponent’s turn and along tactical lines when it is your turn.
+- 165: Use the question and answer format.
+- 166: If you aren’t concentrating because of some dis- traction, perhaps the fault lies with your powers of concentration rather than in the distraction.
+- 167: Find a way to proof yourself against distractions.
+- 168: Disciplining your thinking will go a long way toward improving your concentration.
+- 169: Don’t pay any attention to psychological aspects during a game.
+- 170: Sit on your hands. Think it through first, then take action.
+- 171: Be particularly patient with your pawns.
+- 172: Be patient while waiting for your opponent to move.
+- 173: (Missing)
+- 174: Be patient in your calculation.
+- 175: Be patient in reacting to times of crisis during your games.
+- 176: There are all kinds of situations where luck plays a part in chess.
+- 177: Fortune favors the brave.
+- 178: The good player makes her own luck.
+- 179: Practice makes perfect.
+- 180: Play an opening first, then look up what theory there is on it.
+- 181: There is nothing that will teach you more than a good drubbing by a strong player.
+- 182: Always play at your best.
+- 183: Practice playing endings if you want to master the intricacies of opening and middlegame positions.
+- 184: Devour the games of the masters.
+- 185: Get a teacher, colleague, or even a computer to check all your analysis and ideas.
+- 186: One of the best ways to learn is to subject your own games to intensive analysis.
+- 187: Study the game notes of top players. Learn the way they think in various positions, and imitate them.
+- 188: Supplement your study with practice. The combination of the two is indispensable to a true understanding of the game.
+- 189: Thoroughly enjoy the game.
+- 190: When you have an emotional stake in the game, you work harder, remember more, and come up with better ideas. Losses hurt more.
+- 191: Putting your all into a game will make you a dangerous opponent.
+- 192: You cannot know all there is to know about chess.
+- 193: Understanding is more important than memory.
+- 194: Understanding, supported by memory, is still better than mere understanding.
+- 195: Know the basic endgame positions.
+- 196: Know the basic tactical themes.
+- 197: Making excuses for losing will not help you win more games.
+- 198: Find the real reason things went wrong, and work to make sure it doesn’t happen again.
+- 199: Learn from your defeats, your draws, and your victories.
+- 200: You will get out of chess what you put into it.

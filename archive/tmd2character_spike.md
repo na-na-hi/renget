@@ -61,11 +61,12 @@ These may help you in segments where combat is unnecessary or just to simply sho
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
 Attribute: Phantasm  | Tier **ɪɪɪ** (+3) | The user can conjure illusions over themselves with ease or cast a frightening aura around them.
+Attribute: Undead | Tier **ɪ** (+1) | The user can take advantage of their peculiar biology and slow their metabolism to a crawl or mimic other features of a corpse.
 Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Attribute: Undead | Tier**ɪ** | 1/3 | ▮▯▯
+Currently Training for Attribute: Undead **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
 Currently Training for Stat: Speed **ɪɪɪ** | **COMPLETE** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 
