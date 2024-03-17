@@ -10,8 +10,10 @@
 !!! info List Info
 	This is a comprehensive list of each LoRA request made on the Request Anchor from a span of a year that have been forgotten and/or ignored, while I can understand LoRA makers not wanting to make every single requested chuuba thats requested in the thread, I still felt like I'd give them a chance by highlighting what was missed, if I missed something by accident, DO LET ME KNOW IN THE THREAD. Not every anon has time to archive rep. If you feel like not doing /vtai/ specific requests, you still have the LoRA checklist to shift through in the Navigation Bar. Thank you - Inanon
 
-!!! warning quick note
-	YOU AREN'T FORCED TO DO ONE MODEL OVER ANOTHER, EVEN IF THE REQUEST STATES 1.5, YOU CAN STILL MAKE XL, BE IT ANIMAGINE OR PONY!
+!!! warning QUICK NOTE
+	YOU AREN'T FORCED TO DO ONE MODEL OVER ANOTHER, IF YOU ONLY WANT TO DO 1.5, ANIMAGINE OR PONY, THEN DO WHICH ONE YOU ARE MORE COMFORTABLE WITH. I just wrote what the original request wanted if specified in the post.
+!!! info Disclaimer for requesters!
+	Please provide a dataset to speed up potential request completion, dataset collection can be a slow and annoying part of cooking up loras for other people so if you want to see your request fulfilled, doing that for our great lora makers can help a ton.
 
 ### -> List of Requests <-
 - [ ] Inukai Purin (3rd Outfit requested but full prefered)

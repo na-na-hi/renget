@@ -42,7 +42,10 @@
     >https://files.catbox.moe/25u16d.mp4  New  3/10/24
     ***
     >Al-Qassam Brigades in Tulkarm camp: Scenes from carrying out two shooting operations towards the Taybeh and Netsani Oz checkpoints.  
-    >https://files.catbox.moe/4ts01a.mp4  New  3/15/24    
+    >https://files.catbox.moe/4ts01a.mp4  New  3/15/24     
+    ***
+    >WATCH: Al-Qassam (Hamas) published a video showing the targeting of several IOF army vehicles in the city of Al-Zahra, northwest of the Central Governorate, using Yassin-105s.
+    >https://files.catbox.moe/1f21u6.mp4  New  3/16/24   
 !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
@@ -261,4 +264,10 @@
     ##Week 3/15/24 - 3/21/24 
     >Snapshots from the courtyards of the blessed Al-Aqsa Mosque coinciding with the Asr call to prayer.  
     >https://files.catbox.moe/zfqwj3.mp4  New  3/15/24  
+    ***
+    >Scenes of food aid being distributed by boats from the World Central Kitchen organization in central areas of Gaza.
+    >https://files.catbox.moe/7vl5qv.mp4  New  3/16/24    
+    ***
+    >Despite being injured by Israeli strikes on Gaza, 11-year-old Palestinian girl Yosra manages a stall to sell goods and support her family amidst the dire situations during the ongoing war.
+    >https://files.catbox.moe/kctfp9.mp4  New  3/16/24   
     ***

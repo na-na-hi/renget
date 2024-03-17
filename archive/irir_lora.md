@@ -523,10 +523,11 @@ Dim上げて容量を圧迫してしまっては、LoRAの省メモリなメリ�
 
 ### DoRA
 正式名称は"Weight Decomposed Low-Rank Adaptation"である。
-LoRAが通常のfine-tuningほどの精度が出ない問題を改善したもの。
+https://arxiv.org/abs/2402.09353
+LoRAが通常のfine-tuningほどの精度が出ない問題と安定性を改善したもの。
 directionをファインチューンする。
 
-結果は後日追加。
+結果は後日追加。現時点では赤みがかる現象が改善したことを確認。
 
 ### PonyV6のLR
 D-Adaptation系Optimizerだと発散を起こしやすい。

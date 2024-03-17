@@ -117,6 +117,10 @@
 - A trustworthy resource, scraping numerous different websites with various options.
 - [URL Safety Results](https://www.urlvoid.com/scan/allanime.co/)
 
+### ▶️ [Anime Realms](https://www.animerealms.org/)
+- Watch anime online free in HD and on mobile devices and all series and films are in very good quality.
+- [URL Safety Results](https://www.urlvoid.com/scan/animerealms.org/)
+
 ### ▶️ [Animania](https://animania.co.uk/)
 - See and follow thousands of high quality episodes of all the biggest anime series, updated constantly for free.
 - [URL Safety Results](https://www.urlvoid.com/scan/animania.co.uk/)

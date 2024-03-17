@@ -1,7 +1,3 @@
--> ![](https://media.discordapp.net/attachments/903364339464044575/1110283204864245960/5FDC0B94-462B-4997-8CE5-9FD07D7C7F3F.png?width=300&height=225) <-
+->![](https://i.postimg.cc/SKdwhhjT/IMG-8533.jpg)  <-
 
--> ⑅ ⁺ ![](https://media.discordapp.net/attachments/903364339464044575/1110279976030322698/A89DF227-BE51-4D5B-BE11-9DC64E4D8602.gif) finn or mikey ![](https://media.discordapp.net/attachments/903364339464044575/1112014577706733610/812F30D3-F805-411D-BD2B-11F36C25CEF7.gif)  he ﾉ him  ໒꒱ <-
--> ![](https://media.discordapp.net/attachments/903364339464044575/1110273840875044958/8563401B-3FD6-4A38-9CE1-8C4102303251.gif) palestinian arab ◟ ♡ fifteen ![](https://media.discordapp.net/attachments/903364339464044575/1110273840476594317/C981479B-F1ED-4FBC-A9A5-D487E536DA70.gif) <-
-->  borderline ꒦꒷ ![](https://media.discordapp.net/attachments/903364339464044575/1110280692794917124/6F276C02-6E0F-4BB2-9F9F-004919300BAA.gif) ៹ ˖ mentally unwell <-
--> unlabelled demiboy  ![](https://media.discordapp.net/attachments/903364339464044575/1108742146648981514/8F45B537-EEE3-475F-AAF8-E9FF317D9D4C.png?width=15&height=15) the [finns](https://rentry.co/wolfidol) ୧ ｡  <-
-->[001](https://rentry.co/heartstouch) ✦ [002](https://rentry.co/finnterest) ✦ [003](https://rentry.co/baefy) ![](https://media.discordapp.net/attachments/903364339464044575/1112016724263456808/C209BF01-B833-46F5-BF44-E999A6D8E071.jpg)  <-
+too lazy to fix heres a pic instead

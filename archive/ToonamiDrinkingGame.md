@@ -22,11 +22,13 @@ Ninja Kamui:
 -John Ninja uses the Forbidden Ninja Technique That's Going To Kill Him™
 -Someone uses accupuncture
 -One of the cops is a loose cannon
--John Wick Ninja reminisces about his dead wife and kids
+-redhead cop hacks
+-John Ninja reminisces about his dead wife and kids
 -Anytime someone says Oni
 -2+ people die within a couple seconds of each other
 -somebody's limb gets broken/disjointed
--you notice DeMarco's name in the credits
+-the DeMarco expy appears
+-gay ninja midget lusts for ass
 -Finish your drink if black cop who's about to retire dies
 
 Demon slayer

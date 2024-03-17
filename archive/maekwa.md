@@ -1,7 +1,3 @@
--> ![miku](https://media.discordapp.net/attachments/903364339464044575/1081904625189388338/BB3F6F43-F4BA-4233-AC20-2324D86D096E.png)<-
--> ₊˚ ⊹ ![swirl](https://media.discordapp.net/attachments/903364339464044575/1082026647273881650/34CFDFB4-233F-4AD8-B5D8-67F6B1CA6A68.gif) mikey 〜 fifteen <-
--> heノvamp . . ![swirl](https://media.discordapp.net/attachments/903364339464044575/1082259962639691786/IMG_7110.gif) demiboy [+](https://en.pronouns.page/@hakkai) <-
-->꒰ ![bow](https://media.discordapp.net/attachments/903364339464044575/1080125122779820072/E9BB0C69-2ADD-49B5-BCE3-7186C68B3492.gif) ꒱ palestinian ᡴꪫ [01](https://blue-period.fandom.com/wiki/Yakumo_Murai) [02](https://bungostraydogs.fandom.com/wiki/Edgar_Allan_Poe) <-
--> bpd .˚♩ment. unwell ![flower](https://media.discordapp.net/attachments/903364339464044575/1082025506129592551/IMG_6981.gif)  <-
-->[rules](https://rentry.co/heartstouch)  [interests](https://txti.es/mikeint) [ext](https://rentry.co/baefy) [links](https://allmylinks.com/yatora) <-
-->  ⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀୧ ‧₊˚ :tea: ⋅ <-
+-> ![](https://i.postimg.cc/MHCLDZrT/IMG-8531.jpg)<-
+
+too lazy to fix cause of discord links heres a pic instead

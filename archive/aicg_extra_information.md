@@ -164,6 +164,9 @@ https://files.catbox.moe/bg6bey.png
 https://github.com/notfiz/de3u
 - DALL·E 3 frontend with reverse proxy support ([dietpepsigirl/de3u](https://github.com/dietpepsigirl/de3u) is a fork with a more recent JB)
 
+https://gitgud.io/twinkletoes/doll-e
+- another DALL·E 3 frontend
+
 **Some guides on creating character expressions**
 https://rentry.org/EmotionalSprites
 https://rentry.org/mikugg-emotions-tutorial

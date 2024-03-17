@@ -133,7 +133,7 @@ https://files.catbox.moe/nvc1m8.safetensors ndc
 https://files.catbox.moe/kbaz4k.safetensors trogfor
 https://files.catbox.moe/4b97sc.safetensors nephlite
 https://files.catbox.moe/swjqw4.safetensors yd
-https://files.catbox.moe/qyreix.safetensors rustle
+https://files.catbox.moe/ecebk5.safetensors rustle
 https://files.catbox.moe/ojbvr4.safetensors afrobull
 https://files.catbox.moe/rqqk5m.safetensors akihiko_yoshida
 https://files.catbox.moe/cuzgnf.safetensors aoi_nagia just using stuff from Elf Mori
@@ -335,6 +335,7 @@ https://mega.nz/folder/1yRSXQCR#Ziu9Q9Is5BCTYn53tnionw akatsuki_giken, alkemanub
 https://mega.nz/folder/NegX3DDL#NX3YguN8GSrEbOXuN918BA inhoso
 https://mega.nz/folder/fdoG2QDQ#6ZS_K55fY3g4NottW2NJng thanuki
 https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ banpai_akira, cluseller, tangobat, toi8, bonnie, everyntrge, gbf splashes (I assume some sort of gran blue style?), kaptivate
+https://mega.nz/folder/TZElCCIL#OEutCsJPD0G5lXPXLGgfcQ/folder/qMUFgTrR 2b213, Aestheticc-meme, Avotoma3, Blurent, Colodraws, Dustbinrat, Healthyman, Ibuo, Inkterton-kun, Jlullaby, Kairunoburogu, Kevbot, Korotsuke, Lakilolom03, Leftlewdz, Lone, Mantis-x, Marui Maru, Mctamagomaki, Murata Renge, Namespace, Possum Machine, Randomboobguy, Roly, Sandcavern, Sano-br, Sarikyou, Sweetdynamite, Takato Kurosuke, Vammzu, Wamudraws, Woofycakes, Yume Yoroi, Akai Sashimi, Fluffydango, Jujunaught, Jun (Rojiura Jack), Kanabun, Kanden-ki, Mystical, Spring2013, Bunybunyboi, Captainjerkpants, Citrusdoodles, Cloudxmoe, Coffeelove68, Doppel, Eigaka, Forastero, Gats, Gloss, Grayimpact, Greatm8, Kabos, Kanikama, Krekkov, Lk149, Loliconder, Marthedog, Naga U, Neo Hajime, Nuclearwasabi, Oekakizuki, Peculiart, Rizdraws, Ryusei Hashida, Sokonasu, Suzuki Kenya, Tod0231, Tomu (Tomubobu), Torathi, Zako
 
 ###Characters
 

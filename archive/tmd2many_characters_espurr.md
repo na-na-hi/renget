@@ -93,7 +93,7 @@ Eᴍᴘᴛʏ | Description. | 0 IP
 Attribute: Gravitational Potential | %#e69d31%**ᴍᴀx**%% (+3) | Level of mastery over Espurr's latent Psychic potential, manifesting as gravity-shifting power. 
 Attribute: Foraging | Tier %#9595b4%**ɪɪ**%% (+2) | Skill in scavenging for useful food items and materials found in nature. 
 Attribute: Artifice | Tier %#9595b4%**ɪɪ**%% (+2) | Ingenuity of crafting different items utilizing basic materials and creative thinking.
-Attribute: Meditation | Tier %#9595b4%**ɪɪ**%% (+2) | Ability to tune the world out and focus on one's mind. Shows understanding of Espurr's potential.
+Attribute: Meditation | Tier %#e69d31%**ɪɪɪ**%% (+3) | Ability to tune the world out and focus on one's mind. Shows understanding of Espurr's potential.
 Battle Attribute: ??? | - | - 
 
 ***
@@ -101,8 +101,8 @@ Battle Attribute: ??? | - | -
 %#dcc6c2%Training%% | %#dcc6c2%Next Tier Bonus%% | %#dcc6c2%Progress (Numerical)%% | %#dcc6c2%Progress Bar%%
 ------ | :----: | :----: | :----:
 Training for Attribute: Artifice | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▮▯
-Training for Attribute: Foraging | Tier %#e69d31%**ɪɪɪ**%% | 1/3 | ▮▯▯
-Training for Attribute: Meditation | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▮▯
+Training for Attribute: Foraging | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▯▯
+Training for Attribute: Meditation | Tier %#e69d31%**ɪɪɪ**%% | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯
 Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯

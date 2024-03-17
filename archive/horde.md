@@ -17,7 +17,7 @@
 -> ==highlighted== = i'm currently using this 
 `inline` probably not . i try to keep this category small
 ***bold italics*** =  a lil attached 
-plain text = yea you can have 
+plain text = ya
 ~~strikeout~~ = traded away <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
@@ -27,7 +27,8 @@ plain text = yea you can have
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
 -> `canidylidae`
-kiwanotemple  <-
+***blindinglyyuri, deafeninglyyaoi***
+kiwanotemple <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
@@ -102,6 +103,7 @@ fibrodysplasiaossificansprogressiva <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> ***grrlsrituals*** 
+-> ***grrlsrituals***
+***tockylippy***
 elvispresleyaoi
 mysupersweetsixteen <-

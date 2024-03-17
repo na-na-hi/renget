@@ -1,12 +1,12 @@
 # The meta list of various /aicg/ events
 
-->==(Updated 2024-03-14)==<-
+->==(Updated 2024-03-17)==<-
 
 ***
-!!! note Upcoming event
+!!! info Ongoing event
     | | | |
     |---|:---:|:---:|
-    |!~orange;default;default;7; **/AICG/ THEMED WEEK #9** ~!|https://rentry.co/aicgthemedweeks|![](https://media.tenor.com/_62bXB8gnzoAAAAj/loading.gif)|
+    |!~orange;default;default;7; **/AICG/ THEMED WEEK #9** ~!   -> ->   -> ->  *Space pirates*|https://rentry.co/aicgthemedweeks|![](https://media.tenor.com/De1LAuEKgpwAAAAj/pinkstudios-pinkstudiosnet.gif)|
 
 ***
 | | | |
@@ -34,5 +34,5 @@ Main rentry:
 
 
 [](!!! note Upcoming event          https://media.tenor.com/_62bXB8gnzoAAAAj/loading.gif)
-[](!!! info Current event          https://media.tenor.com/De1LAuEKgpwAAAAj/pinkstudios-pinkstudiosnet.gif)
+[](!!! info Ongoing event          https://media.tenor.com/De1LAuEKgpwAAAAj/pinkstudios-pinkstudiosnet.gif)
 [](!!! warning Nothing          https://media.tenor.com/XsBzC6e_Ra4AAAAj/2more-weeks-two-more-weeks.gif)

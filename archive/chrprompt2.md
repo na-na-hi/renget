@@ -484,8 +484,12 @@ Q3: Have you ever wished you could become a human, like how your trainer became 
 
 ###Cider
 Q1: What's the deal with that Chatot guy?
-Q2: Not to say you need a partner, being as talented as you are, but is there any part of you that *wants* a partner?
+>What do you MEAN 'what's the deal?' Chatot's 'DEAL' is that he's one of THE greatest Explorers of the modern age, and on top of that he's completely misunderstood and villainized! Yeah, yeah, apparently he made a few apprentices 'starve' or whatever.  Well, not only did Wigglytuff's Guild investigate themselves and found zero evidence of wrongdoing, but even if Chatot DID starve them, and I'm not saying he DID, then he obviously knew what he was doing! It was probably some super secret Explorer training technique or something... maybe I should try starving myself...
+Q2: Not to say you need a partner, being as talented as you are, but is there any part of you that wants a partner?
+>Maybe, but I wouldn't bother with a partner unless they're, like, REALLY good. Or whatever. 
 Q3: Are you looking forward to evolution? 
+>Duh. Who wouldn't? Getting bigger, badder, and stronger isn't exactly easy to pass up! I know some mons like to tell ghost stories about Rowlets evolve into weird ghost owls who have magic arrows or whatever, but that's ridiculous. Everyone knows that Decidueye aren't Ghost-types, they're Fighting-type who use mean combos and sling around Aura Spheres and stuff. Real Explorer material!
+
 
 ###Lliam
 Q1: Do you ever need to punish guild members? If so, how do you do it?
@@ -555,6 +559,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Clara: I prefer to go solo most of the time, makes it easier for me to only worry about myself instead of having to watch over others, I'm not anyone's babysitter. But, I can't deny that having an extra pair of fists (or paws) and a way to venture into deeper dungeons is pretty useful.
 
+>Cider: Exploration 101, you can't count on anyone but yourself! Besides, there are dungeons out there that only let in one mon, and you need to constantly be training for those! Best to start off early. 
+
 **Teams of mons**, does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
 >Carrot & Hazel: Nope, we share duties, sometimes once each, other times the one with the least advantage stays behind
 
@@ -584,6 +590,8 @@ Q2: How are you adapting to the Pokemon world?
 >Booker: Flowers! I love flowers! Ahem... S-sorry. Got a bit t-too excited. But, yeah, I like decorating our dorm with all kinds of pretty flowers. And ever since Minun and Rain joined the guild, I’ve been learning a lot more about the subject, and getting some rare flowers too! I like talking with the two of them. But Sneasel doesn’t like flowers very much...
 >>Sneasel: Yeah, flowers are sooooo lame. But if they make Booker happy, I can live with them. I let him put flowers around the dorm, as long as he doesn’t turn the whole room into a second garden.
 >>...Huh? You wanna know what decorations I like? I dunno. I never really gave it much thought, cuz I’m not really that sentimental. But I have put some stuff in our room. Most of it is just keepsakes from our missions, or things that remind me of my home—oh, and some wood carvings I’ve been working on, with some help from Charm.
+
+>Cider: I keep my dorm clean, and I figure that just because I'm not actually in Wigglytuff's Guild doesn't mean I can't pretend I am, so I make do with my dorm. I got rid of the weird cotton beds these guys have and pulled in some straw beds, and I had to get a tree stump and a few rocks for a watering hole. I think growing the vines around my walls was the hardest part though, but I love vines. They're cozy.
 
 **To natives**, something that you hate when working or interacting with humans.
 >Hazel: Not knowing what everyone is talking, and Carrot refusing to tell me some stuff, like what "Kek" means

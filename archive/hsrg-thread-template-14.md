@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=aDhaaLhcmj0
 
 \>Download - https://hsr.hoyoverse.com/en-us/home
 
-\>2.1 Preview - https://www.hoyolab.com/article/25957777
+\>2.1 Preview Page - https://act.hoyoverse.com/sr/event/e20240316version-hyue7h/index.html
 
 \>Version 2.1 Trailer - "Into the Yawning Chasm"
 https://www.youtube.com/watch?v=RSg-JRqQ8QA

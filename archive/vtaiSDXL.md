@@ -742,6 +742,10 @@
 !!! info [TagInfo](https://warosu.org/vt/thread/S71464421#p71546600)
 -> [MEGA](https://mega.nz/file/hCllEZyL#cWr037D_tucoIw61jRW504wF27usf4qIu-Eg34tQpfA) <-
 
+##### -> Sakamata Chloe <-
+!!! info apparently all outfits?
+-> [Civitai](https://civitai.com/models/352842/sakamata-chloe-for-ponyxl-all-outfits) <-
+
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-
 ***
@@ -852,6 +856,7 @@
 -> [Civitai](https://civitai.com/models/313257/xl-10-juniper-actias-or-vtuber) <-
 
 ##### -> Nina Saotome (Smol Goth) <-
+!!! info check tags from metadata?
 -> [Catbox](https://files.catbox.moe/ayy4zv.safetensors) <-
 
 ##### -> Fallenshadow / Shondo <-
@@ -864,6 +869,7 @@
 -> [Civitai](https://civitai.com/models/329887/filian-for-ponyxl) <-
 
 ##### -> Shizukou <-
+!!! info check tags from metadata?
 -> [Catbox](https://files.catbox.moe/pvf1kk.safetensors) <-
 
 ##### -> Smug Alana <-
@@ -878,9 +884,11 @@
 -> [Civitai](https://civitai.com/models/346405/neuro-sama-for-ponyxl) <-
 
 ##### -> Buffpup <-
+!!! info check tags from metadata?
 -> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/2zQ0XBTC) <-
 
 ##### -> Sinder <-
+!!! info check tags from metadata?
 -> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/yyRhjL5L) <-
 
 ##### -> Reiny <-
@@ -895,6 +903,10 @@
 ##### -> Hanamaru Hareru <-
 !!! info technically a part of "Hanayori Girls' Dormitory" but its more of a group than agency so she's placed in the indie section.
 -> [Civitai](https://civitai.com/models/269445?modelVersionId=394600) <-
+
+##### -> AdcVR <-
+!!! info check tags from metadata?
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw) <-
 
 #### -> Misc <-
 ***

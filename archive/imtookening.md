@@ -1,8 +1,15 @@
 # Hitogami Cards
 
-I'm just busy, please stop being melodramatic and naming me. It hasn't even been that long since I posted something for Christ's sake. If you have a burning need to speak to me then send me an email and don't muddy up threads.
-
 Some general thoughts on each bot below. Contact me here, (quick) reply not guaranteed: tookenboogeyman@protonmail.com
+
+**Cagliostro** ~2k tokens (1.3k permanent.) Everyone's favorite Uncle pretending to be a little girl for kicks.
+For that Anon who requested it several weeks ago, it's finally here!!1
+There's two greetings, though the second one will probably fall a bit flat without a hefty Granblue lorebook to help keep her from saying some inane non-canon bullshit. I think I would rather suck a shotgun than try to condense that much information, so unless you're gonna do a lot of swiping and message editing, stick to the first one. 
+If you're not familiar with Granblue, Cagliostro was born a guy with an incurable terminal illness, so he made up some alchemy bullshit and made himself a body to transfer in to. Then, over the course of several hundred years, he decided to turn himself in to a cute girl, until it became his life goal to be the cutest girl. Actually, a very self important asshole who has [very childlike expressions.](https://files.catbox.moe/qsbt5x.png)
+I didn't come up with the shit man, if you're here reading this you know what I'm weak to by now. As long as there's not a dick between the legs, I can work with it. If that kind of gender fuckery is a deal breaker for you, I forked the card and removed any mention of it. Otherwise, at the bottom in the 'important' section, I emphasized not to bring in any 'le tranny' language, and it seemed solid to me. 
+Card dialogue is ripped from the game, and the defs are based on a couple of events I read. Should stay pretty well in character, but if I'm being honest, I'm not reading more Granblue lore to polish the card. Fuck that shit. I saw the poster yesterday though, so [Shalem](https://files.catbox.moe/b9yas3.png) card next.
+![](https://files.catbox.moe/346mu9.png)
+[*image source*](https://danbooru.donmai.us/posts/4334381) [Uncle](https://chub.ai/characters/hitogami/cagliostro-81664b38/main) [De-Uncle'd](https://chub.ai/characters/Anonymous/cagliostro-de-uncle-d-7c0535dd)
 
 **Mikage** ~1.8k tokens (1.2k permanent.) An old fox with a practiced smile.
 Thanks to victrex for giving her a once over. I had all sorts of plans to add themed music tracks and possibly a UI of some kind, but the more I thought about it, the more I didn't want to gamify digging in to the saviorfag aspect too much. That's my presentable reason, it's a 40-60 split between that and the fact that I'm a complete techlet. Avoid reading the defs and the lorebook unless you want to ~~cheat~~ be armed with knowledge prior, though the AI is instructed to not play nice about sharing things with you. I'd particularly like feedback on this one, my testing didn't crop up anything egregiously outside my intentions, but these models have a tendency to spill their guts on this stuff with a little prodding, so I might need to revisit her and build a custom jailbreak. And also to add the features I was thinking about, but we'll call that a maybe.

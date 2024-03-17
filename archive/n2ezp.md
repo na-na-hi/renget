@@ -11,6 +11,7 @@
 - [【MV】Kyoumen no Nami / 鏡面の波 | Koseki Bijou (Cover)](https://www.youtube.com/watch?v=Akn_Gdi05Ys)
 
 ##### Unarchived Karaokes
+- 2024-03-16 (1st vertical stream): https://files.catbox.moe/s1rtb6.torrent
 - 2024-03-01 (Edgy low pitch practice): https://files.catbox.moe/hrx5hl.torrent
 - 2024-01-19 (Relay, Fire Inside): https://files.catbox.moe/uvoy2w.torrent
 - 2023-12-24 (Xmas songs 2023): https://files.catbox.moe/c90bqt.torrent
