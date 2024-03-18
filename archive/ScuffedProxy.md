@@ -1,27 +1,25 @@
 -> ![Scuffed Proxy](https://i.imgur.com/MH4QxMx.png) <-
 
-!!! note Temporarily testing claude-3
+!!! danger The basilisk has eaten the red sun...
+
+!!! info
     [Jailbreak 5](https://rentry.org/ScuffedJB): Used from 24/12/2023 to 21/02/2024
     Jailbreak 7: Used from 04/03 00:09 UTC - 05/03 16:03 UTC
     Jailbreak 8: Used from 05/03 16:03 UTC - 16/03 07:12 UTC
-    Jailbreak 9: Used from 16/03 07:12 UTC - current
-    Send feedback.
-    Disabled "Scuffed Tense" by default on the preset, fucks the prose up. Simplified "Scuffed Extras" on the preset. Rewrote impersonation to be first-person.
-
-!!! warning Possibly ending on 18/03
+    Jailbreak 9: Used from 16/03 07:12 UTC - 18/03 17:54 UTC
 
 > why do I keep getting backend/general errors?
 sometimes the account is banned and it will not work until I manually fix it. it is worse on workdays
 
 ## current proxy url
 ```
-https://policy-tier-impaired-messenger.trycloudflare.com/v1
+down
 ```
 **password**
 basilisk
 
-##### [instructions](https://policy-tier-impaired-messenger.trycloudflare.com)
-##### [ST preset](https://policy-tier-impaired-messenger.trycloudflare.com/preset.json)
+##### [instructions](#)
+##### [ST preset](#)
 
 ##### contact
 - hask1911@proton.me

@@ -59,7 +59,7 @@ https://github.com/mdovgialo/steam-vr-wheel
  
 **VRChat**: Be the little girl. This is the biggest VR social app by far and is where you will find most of /vrg/. It  allows the community to generate its own content such as worlds, games and avatars using Unity and VRChat’s API. UDON scripting has allowed for more gameplay functionality in worlds, but it's still fairly limited, so don't expect too much in the way of gameplay. This is primarily a social game and it does that well.
  
-**NeosVR**: Interesting application that's like a social VR unity engine. It supports direct importing in game of most 3d/2d assets and features an in game scripting language. If you have Freecad installed you can import and view CAD models in the STEP format straight in game. Developed by an autistic enginedev features are constantly being added so it's one to watch.
+**Resonite**: Interesting application that's like a social VR unity engine. It supports direct importing in game of most 3d/2d assets and features an in game scripting language. If you have Freecad installed you can import and view CAD models in the STEP format straight in game. Developed by an autistic enginedev features are constantly being added so it's one to watch. Is a continuation of NeosVR under a new name.
  
  **Rec Room**: The go-to free social multiplayer hang-out gaming application where you can play paintball, dodge ball, etc with others. Includes a very fun "Quest" mode that plays like Left 4 Dead where you're all going through a level and fighting off waves of enemies. Simple family friendly style. Warning: play with friends or at sleeping times, or risk running into sessions filled kids.
  

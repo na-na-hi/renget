@@ -1,65 +1,7 @@
-#/erbsg/ - Eternal Return: Black Survival General
+# ded game
 
-\>What is this?
-Korean anime-styled battle royale with moba controls/skills. Currently 8 squads of 3 for a total of 24 players per game but they may bring back solos and duos in the future. Game has been in early access for a few years and version 1.0 has officially launched on July 20th, 2023. Ranked season 2 started November 9th, 2023.
+!!! note from /hsrg/ with love
 
-\>Steam Link
-https://store.steampowered.com/app/1049590/Eternal_Return/
-
-\>News
-https://playeternalreturn.com/posts/news/1698 (1.14 Patch Notes)
-https://playeternalreturn.com/posts/news/1599 (Season 2 Cadet Skin - Isol)
-
-\>Eternal Return 1.0 Animation Intro (Full Ver.)
-https://www.youtube.com/watch?v=KqDLrvrl_p0
-
-\>Lumiapedia -  Kenneth
-https://www.youtube.com/watch?v=tM3Np3GKJq0
-
-\>Lumiapedia - Tsubame
-https://www.youtube.com/watch?v=MGkKkqv0B30
-
-\> Sweet Valentine Tazia 
-https://www.youtube.com/watch?v=epgCrDieJqI
-
-\>Tropical Getaway Celine
-https://www.youtube.com/watch?v=ki87rZ7P-gE
-
-\>2023 Season 2: Battle Maids
-https://www.youtube.com/watch?v=Z8MUGGdmGr4
-
-\>Dr. Nadja's Beginner Guide
-https://www.youtube.com/watch?v=M3tDK2EcO80
-
-\>Match History, Character Lookups, etc.
-https://dak.gg/er
-https://er.op.gg/
-https://aya.gg/
-
-\>Interactive Map
-https://erbsmap.com/en
-
-\>Items/Tac Skills/Augments
-https://docs.google.com/spreadsheets/d/1ic5jNlJ1-mXmchfRrws2UZMto1bQI_6ToqsvejFvEjE
-
-\>Lore
-https://docs.google.com/spreadsheets/d/1McyWxKYdtUD3rC8zsLMfFOvbHI6jC_1okGU_6kKJVh8/htmlview
-
-\>Assets
-https://playeternalreturn.com/fankit
-
-\>Events
-https://playeternalreturn.com/posts/news/1679 (1/18 - 2/14)
-https://playeternalreturn.com/posts/news/1705 (2/1 - 2/14) 
-
-\>Codes
-https://gall.dcinside.com/mgallery/board/view/?id=bser&no=5044564&page=1
-
-\>/erbsg/ friends
-https://docs.google.com/spreadsheets/d/1uI9BFNFkW4qm_t9cUDe88heLs7smSydSCs55NZIn-Ww
-
-\>OP Changes
-https://rentry.org/erbsg
-
-\>Previous
-\>\>462018775
+![](https://c3.kemono.su/data/32/57/32572672e3d151b89160ec4c838683ed42c41a860ac3e99d83f0642384074e8a.png)
+![](https://c2.kemono.su/data/cd/6d/cd6d4e48d2f284d1a795a30b186c16c337da77a6b4c8b1cdb051b33c3d4b61cd.png)
+![](https://c3.kemono.su/data/10/0d/100d1959129c95734d8eac8ca85d3d1ea976e7121bf2a956f201c98c01b679f0.png)

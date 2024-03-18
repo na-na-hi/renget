@@ -458,24 +458,317 @@ Shibuya Note Road to Tokyo Dome - https://nyaa.si/view/1109827
   
 ###Nijigasaki
 ####CONCERTS/LIVES/VODs
-Nijgasaki 1st Live! ~With You~  
+1st Live! ~With You~  
 BRRip D1D2 -  [1080p](https://nyaa.si/view/1575338)  / [720p](https://nyaa.si/view/1272946)
 [1080p x265](https://nyaa.si/view/1578058) / [720p x265](https://nyaa.si/view/1578058) ==(ENGSUB)==
  
-Nijgasaki 2nd Live! Brand New Story & Back to the TOKIMEKI 
+2nd Live! Brand New Story & Back to the TOKIMEKI 
 BRRip D1D2 Tokyo w/ Specials - [1080p](https://nyaa.si/view/1374189) / [1080p x265](https://nyaa.si/view/1375171) / [1080p AV1](https://nyaa.si/view/1376884) / [720p](https://nyaa.si/view/1417141) / [480p](https://nyaa.si/view/1417139)
 WEBRip D1 - [1080p](https://nyaa.si/view/1280912)
 
-Nijgasaki 3rd Live! ～The beginning of the dream～ 
+3rd Live! ～The beginning of the dream～ 
 Saitama D1D2 - [1080p PIA WEBDL](https://nyaa.si/view/1385683) /  [1080p ePlus WEBRip](https://nyaa.si/view/1383705)
 BRRip Complete - [1080p BDMV RAW](https://nyaa.si/view/1512318) ([1080p reencode](https://nyaa.si/view/1517570)) / [1080p x265](https://nyaa.si/view/1518127)
 
-Nijgasaki 4th Live! ~Love the Life We Live~ 
+4th Live! ~Love the Life We Live~ 
 D1D2 Osaka - [1080p x265 PIA WEBRip](https://nyaa.si/view/1497255) / [1080p ePlus WEBRip](https://nyaa.si/view/1496635)
 
-Nijgasaki 5th Live! Nijigasaku Basho 
+5th Live! Nijigasaku Basho 
 Colorful Dreams! Colorful Smiles! (Tokyo A) - [1080p PIA WEBRip](https://nyaa.si/view/1577721)
 Next TOKIMEKI (Tokyo B) - [1080p PIA WEBRip](https://nyaa.si/view/1580527) 
 BRRip Complete - [1080p BDMV RAW](https://nyaa.si/view/1652249) / [1080p x265](https://nyaa.si/view/1652899)
 
-Nijgasaki
+6th Live! I love You ⇆ You love Me
+Aichi D1&D2 [1080p PIA WEBRip](https://nyaa.si/view/1760323) ![](https://files.catbox.moe/c95yx7.gif)
+
+####EVENTS/PERFORMANCES/MISC
+**Fanmeets / PPV Streaming**
+**Nijigasaki Tokimeki Fan Meeting Tour**
+[Hiroshima](https://nyaa.si/view/1672987) / [Tokyo](https://nyaa.si/view/1672987) / [Osaka](https://nyaa.si/view/1698235) / [Compilation](https://nyaa.si/view/1699629)
+
+TOKIMEKI Talk Room Pts 1&2 [1080p](https://nyaa.si/view/1551497)
+
+**Unit Live Performances**
+2023 UNIT LIVE! Collection [1080 BRRip](https://nyaa.si/view/1737599)
+
+Vol.1 DiverDiva ~Big Bang~ - https://nyaa.si/view/1478657
+Vol.2 QU4RTZ ～Sweet Cafe～ - https://nyaa.si/view/1443241
+Vol.3 A・ZU・NA ~The Night Before~ Webrip BD 1080p
+Vol.4 R3BIRTH ～First Delight～ - https://nyaa.si/view/1495017
+UNIT LIVE & FAN MEETING Vol.1 DiverDiva ~Big Bang~ (BD) - https://nyaa.si/view/1627387
+UNIT LIVE! ~R3BIRTH R3VOLUTION~ <Day.1&2> (BD) - https://nyaa.si/view/1625577
+UNIT LIVE & FAN MEETING Vol.4 R3BIRTH ~First DELIGHT~ (BD) - https://nyaa.si/view/1616797
+Love Live! Nijigasaki High School Idol Club UNIT LIVE! ~QU4RTZ Fluffy Magic~ - https://nyaa.si/view/1651131
+
+Love Live! Festival 2020 (TV Ver.)
+https://nyaa.si/view/1242913
+
+Nijigasaki Anime BD Special Program:
+https://nyaa.si/view/1417140
+
+###Liella!
+####CONCERTS/LIVES/VODs
+
+Liella! First Love Live Tour ~ Starlines! ~ *D1&D2*
+Gunma [WEBRip 1080p](https://nyaa.si/view/1453544) / Okayama [WEBRip 1080p](https://nyaa.si/view/1454983) / Osaka [WEBRip 1080p](https://nyaa.si/view/1460407) / Tokyo WebRip [A](https://nyaa.si/view/1463384) [B](https://nyaa.si/view/1481889) 1080p / Hokkaido [WEBRip 1080p](https://nyaa.si/view/1457938) / Fukuoka [WEBRip 1080p](https://nyaa.si/view/1466416) / Aichi [WEBRip 1080p](https://nyaa.si/view/1468305) / Chiba [WEBRip 1080p](https://nyaa.si/view/1471453) / Miyagi [WEBRip 1080p](https://nyaa.si/view/1478642) 
+Gunma/Miyagi/Tokyo + w/ Making of Scenes [BluRay 1080p](https://nyaa.si/view/1657599)
+
+Liella! 2nd LoveLive! ~What a Wonderful Dream!!~ *D1&D2*
+Yokohama [1080p WEBRip](https://nyaa.si/view/1502627)
+Nagoya [1080p WEBRip](https://nyaa.si/view/1511014)
+Osaka [1080p WEBRip](https://nyaa.si/view/1538442)
+
+Liella 3rd LoveLive! Tour ~WE WILL!!~ *D1&D2*
+Miyagi  [1080p WEBRip](https://nyaa.si/view/1610539)
+Tokyo  [1080p WEBRip](https://nyaa.si/view/1632065)
+Saitama  [1080p WEBRip](https://nyaa.si/view/1645740)
+Miyagi/Saitama+ Making Of [BluRay 1080p](https://lovelivees.blogspot.com/2022/12/liella-3rd-lovelive-tour-we-will.html)
+
+Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
+KALEIDOSCORE ver [1080p PIA](https://nyaa.si/view/1707116) [720p PIA](https://nyaa.si/view/1707506) 
+Catchu! ver : [1080p PIA](https://nyaa.si/view/1709468) [720p PIA](https://nyaa.si/view/1709926)
+5yncri5e! ver: [1080p PIA](https://nyaa.si/view/1716100) [720p PIA](https://nyaa.si/view/1716321)
+
+####EVENTS/PERFORMANCES/MISC
+Liella! Season 1 Opening and Ending Online Release Event [1080p WEB ENGSUB](https://nyaa.si/view/1611104)
+Liella! Venue101 (2022-10-01) [1080p WEB](https://nyaa.si/view/1585462)
+Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~ Nagoya [1080p](https://nyaa.si/view/1547572)
+AX Lite 2021 Liella! Guest Appearance [1080p](https://nyaa.si/view/1406120)
+FNS Music Fes 2021 [480 BiliBili Rip](https://nyaa.si/view/1465133)
+Liella MTV Unplugged 2022 [BluRay ENGSUB](https://nyaa.si/view/1736285) / [1080p Bilibili Webrip](https://nyaa.si/view/1565479)
+Love Live! Superstar!! Liella! Fan Meeting & Tour ~Welcome to Yuigaoka!!~ [1080p PIA WebRip](https://nyaa.si/view/1547572) 
+
+Liella no Doko Iku? (Season 1)
+1 - [576p](https://nyaa.si/view/1465161) / [720p](https://nyaa.si/view/1465162) / [1080p](https://nyaa.si/view/1467287)
+2 - [576p](https://nyaa.si/view/1529414) / [720p](https://nyaa.si/view/1529415) / [1080p](https://nyaa.si/view/1529416)
+3 - [576p](https://nyaa.si/view/1529418) / [720p](https://nyaa.si/view/1529419) / [1080p](https://nyaa.si/view/1529420)
+
+Liella no Doko Iku? (Season 2)
+TBA
+
+Liella no Doko Iku? (Season 3)
+TBA
+
+Liella! Assault Location YouTube Specials
+[YT Playlist](https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZze)
+
+###Hasunosora
+####CONCERTS/LIVES/VODs
+Fukuoka D1D2 [1080p](https://nyaa.si/view/1733097) / Tokyo D1D2 [1080p](https://nyaa.si/view/1745487) / Aichi D1D2 [1080p](https://nyaa.si/view/1749159)
+High Quality (ALL D1 only) [1080p](https://nyaa.si/view/1756970)
+
+####EVENTS/PERFORMANCES/MISC
+OPENING LIVE EVENT～Bloom the Dream～[1080p WEBRip](https://nyaa.si/view/1702233)
+SUMMER STATION 音楽LIVE [1080p WEBRip](https://nyaa.si/view/1702234)
+
+###RANDOM LINKS
+Komiya Arisa PB/Photo linkdump: https://rentry.org/llst-arishasashin
+
+**Misc Videos, Links, and Photos**
+Ucchi Photobook - https://imgur.com/a/UruilEF
+Ucchi Photobook (old version) - https://imgur.com/a/q2UyB
+Ucchi Imagedump - https://imgur.com/a/DXR0E
+Pile Photobook - https://imgur.com/a/qwxaKjL
+Pile Imagedump - https://www.dropbox.com/sh/dr1pn8fptyd4dh1/AACcZ9itdjkdB3oAG9vwWIKNa?dl=0
+Aikyan Imagedump - https://www.dropbox.com/sh/vrw58dcuub9fejs/AAD3ThDniLf9KOdH0koej_xna?dl=0
+Antongue collection - https://www.dropbox.com/sh/9hetpbl1oixi5qt/AABRSTbbm8pAXD-GG0ecDkwua?dl=0
+Arisha Gallery 1 - https://imgur.com/a/oSUrN
+Arisha Gallery 2 - https://imgur.com/a/olpb2h6
+Arisha IO PB - https://drive.google.com/drive/folders/1Eaue_cMukXf7cNRCh7NU1lp2VhGdrYFQ
+Arisha (Platinum FLASH PB Feb. 2020) - https://imgur.com/a/4GZ7OQ1
+Arisha Imagedump - https://www.dropbox.com/sh/au5pcib59l22pei/AAArmuYn7HFQYYftrJuSPp3Sa?dl=0
+T-SPOOK 2017 Compilation - https://pastebin.com/NjRYwGMj
+Rikako R.A. Photobook - https://drive.google.com/drive/folders/17MRM746hOvoindeJ6M5wQjxHSVeuHMlW
+Rikako R.A. Extras - https://drive.google.com/drive/folders/1k6gAhBaRS2VX7V95LrOaXKRPgdsjK14A
+Rikako Lying on things - https://www.dropbox.com/sh/on3fls4ge4tzmzi/AADsgxtR8V-jKd5GnS7yYCZta?dl=0
+Rikako Imagedump - https://www.dropbox.com/sh/1egykhn0mh9ndgv/AADgxnJKMTtuzGy7mOo-GmONa?dl=0
+Shuka Weekly Big Comic Spirits 38 - https://imgur.com/a/CWCEgVU
+Shuka Imagedump - https://www.dropbox.com/sh/61fbwspd723q2k1/AACJFZ9Bl6eC4tQ1sxi3OVrPa?dl=0
+Shuka 2nd PB - https://drive.google.com/drive/folders/1WKxTR6Vrb7ard5qw7L67CAl1a3JXJKxC?usp=sharing
+Aguri Imagedump - https://www.dropbox.com/sh/xbsyz7a7l8l930k/AAB9Kj2BxQtYlOukixC7EXo3a?dl=0
+Kaori Imagedump - https://www.dropbox.com/sh/az9bwt5193sws1d/AAAonLVrbGnlkIlHSB7Zj5Gra?dl=0
+Naomi Payton Photodump - https://ibb.co/album/fGFhJG/
+↳ Gravure/PB Sub-album: https://ibb.co/album/fGFhJG/sub
+Liyuu 1st PB - https://imgur.com/a/cXG3Onu
+Mayuchi PB - https://drive.google.com/drive/folders/1OFhLGNnicKZNUFAz5osrzohx9kMrX0i9
+Sayurin PB 12-2022 - https://drive.google.com/drive/folders/1lADuAGXpRfaxvCXSmSTLgIA-801RrNAf
+Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
+[Love Live! Sunshine!! Aqours magazine ～KUNIKIDA HANAMARU~](https://www.mediafire.com/file/940wakc74d11wdj/)
+~~[Aoyama Nagisa Brillante PB](https://drive.google.com/drive/folders/1tCx2bVYCabs4VLv-giLXAWvpMKMbOtqC)~~ 
+[Liyuu写真集「記憶の欠片 -the piece of memories-](https://files.catbox.moe/oz4ycj.zip)
+[(YJ) 岬なこ写真集「とろけてあまい」| Nako Misaki PB “Melting Sweet”](https://files.catbox.moe/yx58mw.zip) ![](https://files.catbox.moe/c95yx7.gif)
+[Misaki Nako 1st PB (🧲)](https://nyaa.si/view/1762141)
+[Chiemi Tanaka 1st PB (w/ exclusive DVD) (🧲)](https://nyaa.si/view/1762140)
+
+**Videos / Clips / Namas / Misc Pages**
+
+**Raw:**
+LL Radio / Nama Raw - https://www.youtube.com/channel/UCWDlvslRHBPgjDhTIFyBvwg/videos
+↳ What A Wonderful Radio (Nakonagi nama) Playlist - https://www.youtube.com/playlist?list=PLHN4pSpGXsHlvwhfOH0odINjhtLMziU40
+↳ Love Live ANN - https://youtube.com/playlist?list=PLHN4pSpGXsHl50QwwqQSTV50uRIZJ4w95
+Raw niconamas & Aqours Locks - https://www.youtube.com/channel/UCl1KZAD-LWPlVI5KH-b7ZUw
+Raw niconamas - https://www.youtube.com/channel/UCK8Hs9st7QXeuUez_QvP90Q
+Nijigasaki AbemaTV Image Girl Battle - https://www.youtube.com/channel/UC9fvLHGAiPpnKfjE5GwFi4w
+Aqours broadcasts - https://www.youtube.com/channel/UCY-n3NM-QA2mA037Lz659ng
+[Apollo Bay Sports Festival 2022 1080p](https://mega.nz/file/tzUS3IxZ#j5mJhNzaswGSYtqhq7eJoW0Q4d4mHYMXsKPNCLdL2Sg)
+
+**Engsub:**
+Anchan Radio Curtain Call engsubs - https://www.youtube.com/channel/UCvbw0CC8sx-J_AInkSd6z8w
+Nijigasaki engsubs 1 - https://www.youtube.com/channel/UC_mhrvjwYXgsm0h8oUkdU3w
+Nijigasaki engsubs 2 - https://www.youtube.com/channel/UCxwlx6pl-OO2WNhl__ylBjQ
+Nijigasaki engsubs 3 - https://www.youtube.com/channel/UCptM9o5xvxmlN7eWC1CZbxA/
+Liella engsubs 2 - https://youtube.com/c/Zenichirou
+Liella engsubs 3 - https://www.youtube.com/channel/UCjjLcEp-TiPQEXOhCTxEV6w/
+Assorted fansubs - https://youtube.com/c/yuriodesu
+Talented Love Live - https://www.youtube.com/channel/UC__H3VjEseiHqJKCYXHDYQA
+(Mainly) Liella engsubs - https://youtube.com/@skyschannelentranslator8875
+Liella engsubs - https://youtube.com/@nagioshi
+https://youtube.com/@smithsubs876
+https://youtube.com/@bbadsubs
+
+**Magazines & Blog Translations**
+Aikyan - http://aikyan.dyreatic.moe/archive
+Aikyan blog (2011~2017) - https://drive.google.com/drive/folders/0B7xk6DBWgv7CbnFQa3hocnZFSTA
+Arisha - http://arishamod.tumblr.com/archive
+AiAi & Nijigasaki 4-Koma - https://ganbaramen.tumblr.com/archive
+Anchan - https://frozenmikan.tumblr.com/archive
+Shuka - http://saitou-shuka.tumblr.com/archive
+Random translations - http://translations.dyreatic.moe/archive
+
+**Wikifeet links**
+**µ's**
+https://www.wikifeet.com/Aina_Kusuda
+https://www.wikifeet.com/Aya_Uchida
+https://www.wikifeet.com/Emi_Nitta
+https://www.wikifeet.com/Pile
+https://www.wikifeet.com/Riho_Iida
+https://www.wikifeet.com/Sora_Tokui
+https://www.wikifeet.com/Suzuko_Mimori
+https://www.wikifeet.com/Yoshino_Nanjo
+https://www.wikifeet.com/Yurika_Kubo
+
+**Aqours**
+https://www.wikifeet.com/Ai_Furihata
+https://www.wikifeet.com/Aika_Kobayashi
+https://www.wikifeet.com/Aina_Suzuki
+https://www.wikifeet.com/Arisa_Komiya
+https://www.wikifeet.com/Anju_Inami
+https://www.wikifeet.com/Kanako_Takatsuki
+https://www.wikifeet.com/Nanaka_Suwa
+https://www.wikifeet.com/Rikako_Aida
+https://www.wikifeet.com/Shuka_Saito
+
+**Saint Snow**
+https://www.wikifeet.com/Asami_Tano
+https://www.wikifeet.com/Hinata_Sato
+
+**Nijigaku Seiyuu**
+https://www.wikifeet.com/Aguri_Ohnishi
+https://www.wikifeet.com/Akari_Kito
+https://www.wikifeet.com/Kaori_Maeda(2)
+https://www.wikifeet.com/Maria_Sashide
+https://www.wikifeet.com/Mayu_Sagara
+https://www.wikifeet.com/Miyu_Kubota
+https://www.wikifeet.com/Natsumi_Murakami
+https://www.wikifeet.com/Tomori_Kusunoki
+
+**Liella**
+https://www.wikifeet.com/Nagisa_Aoyama
+https://www.wikifeet.com/Liyuu
+https://www.wikifeet.com/Sayuri_Date
+https://www.wikifeet.com/Naomi_Payton
+https://www.wikifeet.com/Nako_Misaki
+https://www.wikifeet.com/Aya_Emori
+https://www.wikifeet.com/Wakana_Ookuma
+https://www.wikifeet.com/Akane_Yabushima
+https://www.wikifeet.com/Suzuhara_Nozomi
+https://www.wikifeet.com/Yuina
+https://www.wikifeet.com/Chihaya_Yoshitake
+
+**Hasunosora Seiyuu**
+https://www.wikifeet.com/Kotoko_Sasaki
+
+***
+### 🎂🎂 Birthday Calendar 🎂🎂
+JANUARY
+January 9 - Liyuu
+January 23 - Maho Matsunaga
+January 31 - Miyu Kubota
+
+FEBRUARY
+February 1 - Aina Kusuda
+February 5 - Arisa Komiya
+February 7 - Anju Inami
+February 12 - Asami Tano
+February 19 - Ai Furihata
+February 23 - Aya Emori
+February 27 - Moeka Koizumi
+February 28 - Kokona Nonaka
+
+MARCH
+March 5 - Hinaki Yano
+March 8 - Nako Misaki
+March 28 - Chihaya Yoshitake
+
+APRIL
+April 3 - Sakakura Sakura
+April 13 - Wakana Ookuma
+April 17 - Mayu Sagara
+April 25 - Kaori Maeda
+April 28 - Ayuru Ohashi
+
+MAY
+May 2 - Pile & Aguri Onishi
+May 11 - Nozomi Nirei
+May 15 - Coco Hayashi
+May 16 - Nagisa Aoyama
+May 19 - Yurika Kubo
+May 24 - Shu Uchida
+
+JUNE
+June 9 - Yuuki Yuuna
+June 28 - Mimori Suzuko
+
+JULY
+July 1 - Naomi Payton
+July 12 - Yoshino Nanjo
+July 18 - Akane Yabushima
+July 23 - Aya Uchida, Aina Suzuki
+
+AUGUST
+August 5 - Akina Homoto
+August 8 - Rikako Aida
+August 16 - Shuka Saito
+August 28 - Kotoko Sasaki
+
+SEPTEMBER
+September 7 - Natsumi Murakami
+Sept 27 - Yuina
+September 20 - Maria Sashide
+September 25 - Kanako Takatsuki
+September 27 - Yuina
+September 30 - Sayuri Date
+
+OCTOBER
+October 6 - Chiemi Tanaka
+October 16 - Akari Kito
+October 23 - Aika Kobayashi
+October 24 - Nina Hanamiya
+October 24 - Megu Sakuragawa
+October 26 - Riho Iida
+
+NOVEMBER
+November 2 - Nanaka Suwa
+November 1 - Suzuhara Nozomi
+November 19 - Kanna Kan
+
+DECEMBER
+December 10 - Emi Nitta
+December 22 - Tomori Kusunoki
+December 23 - Hinata Sato
+December 26 - Sora Tokui
+
+-> ![](https://files.catbox.moe/j7s4vf.png) ->
+***
+**Disclaimer: all content here are hosted offsite, publicly available official information and media that qualifies under the area of fair use and does not in any way violate local or Japanese copyright laws.
+免責事項：ここにあるすべてのコンテンツは、オフサイトでホストされ、公的に利用可能な公式情報およびメディアであり、公正使用の領域で適格である。さらに、このページでは、著作権のルールに違反することがないことを保証していま**

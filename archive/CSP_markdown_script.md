@@ -3,14 +3,19 @@
 !!! danger
 !!! info
 	- Copy the code below and make a new script with tampermonkey
-	- Click [ 📋 ] when on an asset store page
-	- You now have csp asset store markdown in your clipboard formatted properly, thumbnail and all.
-	- Deleted assets still need to be handled manually for now
+
+	
 
 [TOC2]
 
 ## Copy in Rentry Markdown button
-- Adds a clipboard button and a link box so you don't have to manually fill in all the info on renty when adding a line
+![](https://files.catbox.moe/enedcl.png)
+- Paste DL link in text box and click 📋
+  - Leave textbox empty for wishlist items
+- You now have csp asset store markdown in your clipboard formatted properly, thumbnail and all.
+- Open up the Rentry edit page and `ctrl+v` on a new line
+- Deleted assets still need to be handled manually for now
+
 ```js
 // ==UserScript==
 // @name         CSP Markdown conversion
@@ -109,7 +114,9 @@
 ```
 
 ## Wishlist checker Script
-- CSP Wishlist fulfillment checker. Just go to wishlist and if a link is in yellow its already added.
+![](https://files.catbox.moe/7hbz7y.png)
+- CSP Wishlist fulfillment checker. Just go to wishlist and if a link is in yellow its already uploaded.
+
 ```js
 // ==UserScript==
 // @name         CSP Wishlist crosschecker
@@ -160,7 +167,10 @@
 ```
 
 ## On the rentry direct download button 
+![](https://files.catbox.moe/j0u4ki.png)
 - Checks if the following asset is on the paid assets page and creates a direct link next to the id  "✅ on the Rentry!"
+
+
 ```
 // ==UserScript==
 // @name         On the rentry button

@@ -21,10 +21,10 @@ https://catbox.moe/ is a file/image hosting for imageboards. 4chan strips metada
 Some anons may be using Stealth png info extension, which stores prompt info in the channel that doesn't get stripped by 4chan: https://github.com/neggles/sd-webui-stealth-pnginfo | For temporary storage and slightly higher size limit use https://litterbox.catbox.moe/ 
 
 >!~ Anywhere else I can share my 1girls other than /edg/?  ~!
-https://aibooru.online/ | https://www.pixiv.net/en/ (make sure to properly tag your uploads as AI art and strip all the metadata to avoid getting reported and banned for using artist styles) | https://rule34.xxx/ | Twitter | For non-/e/ posting look through the list of related generals in the OP (/b/ also has some regular AI threads with way more lax rules, if you're into that)
+https://aibooru.online/ | https://www.pixiv.net/en/ (make sure to properly tag your uploads as AI art and strip all the metadata to avoid getting reported and banned for using artist styles) | https://rule34.xxx/ | Twitter | For non-/e/ posting look through the list of related generals in the OP (/b/ also has some regular AI threads with way more lax rules, if you're into that).
 
 >!~ /edg/ logo? ~! 
-https://files.catbox.moe/jhf8os.png | https://files.catbox.moe/qezz6l.png
+Main: https://files.catbox.moe/uc2ntj.png | Pink/black: https://files.catbox.moe/qezz6l.png | Vaporwave: https://files.catbox.moe/jpln9l.png | b&w: https://files.catbox.moe/7h6z33.png | Retro: https://files.catbox.moe/1m9tjl.png
 
 >!~ OP template? ~!
 https://rentry.org/edg-op/raw
@@ -34,7 +34,7 @@ https://rentry.org/edg-op/raw
  
 >!~ Recommended models for /e/? ~!
 Free: AutismMix SDXL (PonyXL base), AnimeConfettiTuneXL (PonyXL base), AnimagineXL 3 (SDXL 1.0 base), Based68 (SD 1.5), Olympus v4 (SD 1.5)  - all available at https://civitai.com/ 
-Paid: NAI v3 - https://novelai.net/ (tag knowledge cutoff - November 2023, so don't expect it to recognize newer characters)
+Paid: NAI v3 - https://novelai.net/ (more about the model: https://rentry.org/hdg-nai-v3)
 
 >!~ Recommended WebUI extensions? ~!
 a1111-sd-webui-tagcomplete
@@ -54,6 +54,9 @@ upscaling, danbooru tags, xyz plots, prompt editing: https://youtu.be/Jya6qcokqZ
 img2img and inpainting basics: https://youtu.be/NJwg7HWiZQw
 hand fixing: https://youtu.be/g4Oggft64dI
 
+>!~ Best tool for simple gen retouching? ~!
+IOPaint (formerly LamaCleaner): https://huggingface.co/spaces/Sanster/iopaint-lama | https://www.iopaint.com/install
+
 >!~ How to fix bad hands/eyes? ~!
 Watch the noob guide
 Try sd-webui-depth-lib and this guide: https://rentry.org/inpainting-guide-SD
@@ -63,10 +66,10 @@ Try the bad-hands-5 and negative_hand embeddings.
 To fix bad eyes, use Adetailer with face/eyes model.
 
 >!~ My gens on SDXL-based models look somewhat desaturated, how can I achieve better/more vivid colors? ~!
-Use either the built-in FreeU extension in Forge or one of these: https://github.com/thomaseding/sd-webui-color-enhance | https://github.com/city96/ComfyUI_ColorMod  Alternatively, try one of these VAEs: https://civitai.com/models/152040 (some versions may fry your gens more than others). Artist loras also affect the colors/contrast a lot. None of these solutions are perfect, cause it's a fundamental issue with either SDXL itself or the SDXL VAE (opinions differ on this).
+There are a number of scripts and extensions that can help with that: FreeU (included by default in Forge) | https://github.com/thomaseding/sd-webui-color-enhance | https://github.com/Seshelle/diffusion-noise-alternatives-webui (note: hires fix doesn't work with it) | https://github.com/Haoming02/sd-webui-vectorscope-cc | https://github.com/city96/ComfyUI_ColorMod (for Comfy). Alternatively, try one of these VAEs: https://civitai.com/models/152040 (some versions may fry your gens more than others). Artist loras also affect the colors/contrast a lot. None of these solutions are perfect, cause it's a fundamental issue with either SDXL itself or the SDXL VAE (opinions differ on which one, or maybe it's even both?).
 
 >!~ The lighting on my gens is too bright, I want to make darker gens with SDXL-based models ~!
-Use this script to control the lighting and noise: https://github.com/Seshelle/diffusion-noise-alternatives-webui (note: hires fix doesn't work with it). Or this extension: https://github.com/Haoming02/sd-webui-vectorscope-cc  
+Just like with colors/contrast, you can use either to control the lighting/noise in your gens: diffusion-noise-alternatives-webui | sd-webui-vectorscope-cc  
 
 >!~ What does BREAK in a prompt field do? ~!
 The prompt you write is broken down into tokens, and normally SD comes with a hard 75 token limit. The WebUI allows going above it in steps of further 75 tokens by interpreting each 75 token set in parallel, and merging the results for the final image. Check out the top right of a prompt field to see how many tokens you have left. If it starts saying "X/150" you have gone above the 75 limit, and now filling up the second token set. Doing so causes some tokens to lose their impact, especially if a tag is being split into both the first and the second 75 token set.
@@ -85,6 +88,9 @@ https://civitai.com/models/136070
 >!~ I can't make large images, I'm running out of VRAM ~!
 Consider using WebUI Forge, it's more vram efficient on XL. Use --medvram or --lowvram, which saves VRAM but takes more time. Highres fix is VRAM hungry, skip it if you're running out. Ultimate Upscale and Tiled Diffusion use tiles to upscale, which reduces total VRAM usage.
 https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Troubleshooting#low-vram-video-cards
+
+>!~ What's with the three-letter prompting on Pony-based models?  ~!
+https://lite.framacalc.org/4ttgzvd0rx-a6jf All you need to know is that you can use these 3-4 letters from the left column like any other tag in your prompt to get the corresponding artist style or character (add more weight if it's too weak). It's like magic. The brony magic.
 
 >!~ How do I gen in anime style on a furry model? ~! 
 https://rentry.org/5exa3

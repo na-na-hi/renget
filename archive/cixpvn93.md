@@ -2,7 +2,7 @@
 -> ![KoboldAi icon](https://files.catbox.moe/5g2475.png) <-
 
 !!! info Don't want to read?
-	Get [koboldcpp](https://koboldai.org/cpp) (regular .exe), download [this](https://huggingface.co/KoboldAI/Mixtral-8x7B-Holodeck-v1-GGUF/resolve/main/Mixtral-8x7B-holodeck-v1.Q4_K_M.gguf?download=true) and plug it in. Set your settings to [these](https://files.catbox.moe/e2veqf.png) in Kobold Lite.
+	Get [koboldcpp](https://koboldai.org/cpp)[ᴬᴹᴰ ᵛᵉʳ⋅](https://github.com/YellowRoseCx/koboldcpp-rocm/releases) (regular .exe), download [this](https://huggingface.co/KoboldAI/Mixtral-8x7B-Holodeck-v1-GGUF/resolve/main/Mixtral-8x7B-holodeck-v1.Q4_K_M.gguf?download=true) and plug it in. Set your settings to [these](https://files.catbox.moe/e2veqf.png) in Kobold Lite.
 
 This is a short complication of various Kobold links — an attempt to streamline and condense all the information in a simple format. The page is intended for people who want to try local/cloud alternatives to NAI but don't have much experience with it. You have a couple of different options, and they are listed from easiest/cheapest to harder and more expensive.
 
@@ -14,9 +14,11 @@ Quantization allows to compress the models to smaller sizes with only small loss
 
 ## [koboldcpp](https://github.com/LostRuins/koboldcpp?tab=readme-ov-file#koboldcpp)
 
-Generation is done on the CPU, with an option of offloading the model into VRAM. The more of it you offload, the faster it will run. If you can load the entire model into VRAM, you are encouraged to use GPU-only inference options instead.
+Generation is done on the CPU, with an option of offloading the model into VRAM. The more of it you offload, the faster it will run. If you can load an entire model into VRAM, you can also try to use GPU-only inference described [below](https://rentry.org/cixpvn93#koboldai) for blazing fast prompt processing speeds, but that requires a lot more setup and is generally not recommended. Generation speed for fully offloaded GGUF model and EXL2 model are almost identical.
 
-If not, all you need to do is to download koboldcpp from its [releases page](https://koboldai.org/cpp), download a .gguf quantization of your [favorite model](https://huggingface.co/) that you can run at tolerable speeds (for (You)) and select it via the GUI or drag and drop it.
+All you need to do is to download koboldcpp from its [releases page](https://koboldai.org/cpp) (or its [AMD fork](https://github.com/YellowRoseCx/koboldcpp-rocm/releases/latest)), download a .gguf quantization of your [favorite model](https://huggingface.co/) that you can run at tolerable speeds (for (You)) and select it via the GUI or drag and drop it.
+
+The current recommended storytuned models are either [Mixtral 8x7B - Holodeck](https://huggingface.co/KoboldAI/Mixtral-8x7B-Holodeck-v1-GGUF), [BagelMIsteryTour-v2-8x7B](https://huggingface.co/ycros/BagelMIsteryTour-v2-8x7B-GGUF) or Dreamgen's [Opus](https://huggingface.co/collections/dreamgen/opus-v1-story-writing-and-role-playing-models-65d092a6f8ab7fc669111b31) family of models: [7B](https://huggingface.co/dreamgen/opus-v1.2-7b-gguf), [34B](https://huggingface.co/dreamgen/opus-v1-34b-gguf) and [70B](https://huggingface.co/dreamgen/opus-v1.2-70b-gguf). Holodeck is completion only model, use Bagel or Opus if you want instruct capabilities.
 
 The repository readme should cover the basics, but if you have any questions, koboldccp has a [Github wiki page](https://github.com/LostRuins/koboldcpp/wiki) with more detailed explanations.
 
@@ -48,6 +50,7 @@ You can also use Runpod with koboldcpp instead of KoboldAI. All details on setti
 New model provider option, supposedly the cheapest and the easiest to use. Mostly hosts chat and instruct models. Unlike Runpod and other GPU rentals, you pay for model tokens, not GPU time. Is supported by [Kobold Lite](https://lite.koboldai.net/). Simply choose it after clicking "Use Custom Endpoint" in "AI" tab.
 
 ### [Together AI](https://www.together.ai/)
+Has a $25 [trial](https://files.catbox.moe/206oyj.png).
 
 Their API is supported in [Kobold Lite](https://lite.koboldai.net/) if you use OpenAI endpoint. Simply put https://api.together.xyz/v1 instead of OpenAI URL and paste in your Together key. Uncheck "Use ChatCompletions API" so you can use it raw.
 
@@ -70,7 +73,7 @@ Use the above only at your own risk.
 GPU-focused local client, the very first one.
 Stuck in a perpetual in-development stage and is missing a lot of newest features for loading models. UI2 is still in beta and has a lot of bugs.
 
-With this client, you need to use exl2 quants you can get from [Hugging Face](httpshttps://huggingface.co/). You need to download the whole folder from the repo and put it as the subfolder in KoboldAI/models. It's very important to include "tokenizer.json" file. For example, if you have 24GB of VRAM, you might want to get 3.5 bpw quants if you want to run a [Mixtral](https://huggingface.co/intervitens/BagelMIsteryTour-v2-8x7B-3.5bpw-h6-exl2-rpcal) finetune.
+With this client, you need to use exl2 quants you can get from [Hugging Face](httpshttps://huggingface.co/). You need to download the whole folder from the repo and put it as the subfolder in KoboldAI/models. It's very important to include "tokenizer.json" file. For example, if you have 24GB of VRAM, you might want to get 3.5 bpw quants if you want to run a [Mixtral](https://huggingface.co/LoneStriker/Mixtral-8x7B-Holodeck-v1-3.5bpw-h6-exl2) finetune. Running GPU inference makes your prompt processing blazingly fast, but you won't get any significant gains on generation itself. Therefore, if you don't edit your context a lot, .gguf models and CPU inference remains the recommended option.
 
 ### [Text generation web UI](https://github.com/oobabooga/text-generation-webui)
 

@@ -42,7 +42,7 @@ https://archived.moe/e/thread/2843595#2843598
 https://rentry.org/edg-op/raw
 
 > /edg/ logo
-https://files.catbox.moe/jhf8os.png | /qezz6l.png
+https://files.catbox.moe/uc2ntj.png (more color schemes in the FAQ Rentry)
 
 > Related generals
 >>>/aco/sdg

@@ -1,4 +1,4 @@
-Link to Class 1-D Prompts 50+: https://rentry.org/mhamp2
+mLink to Class 1-D Prompts 50+: https://rentry.org/mhamp2
 Link to Everyone else's Prompts: https://rentry.org/mhamp3
 
 [TOC]

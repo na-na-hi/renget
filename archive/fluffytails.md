@@ -12,7 +12,7 @@
 -> Going to update gradually, posting what I see on the thread and Chub. Will do another batch if I see a fox botmaker I haven't discovered before or I get sent a fuckton of new ones at once. <-
 
 -> *!~cornflowerblue; Added to Male:~! Rylie, Brother Jean* <-
--> *!~cornflowerblue; Added to Female:~! Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila, Loba, Caoimhe MacKenna, Elizabeth, Melissa, Sister Mathilde* <-
+-> *!~cornflowerblue; Added to Female:~! Kramrirenud Therzita, Reynardine the Fox, Maartje Hendriks op Weteringe, Hope, Emma, Hope (Alternate Scenario), Leila, Loba, Caoimhe MacKenna, Elizabeth, Melissa, Sister Mathilde, Tsukasa Kudamaki* <-
 
 ## -> Female <-
 
@@ -119,6 +119,7 @@ Character  |  Preview  |  Description  |  Links
 **Senko** | ![Senko](https://files.catbox.moe/1p46gg.png) | From Sewayaki Kitsune no Senko-san. Let your troubles melt away as this ancient kitsune pampers you. | [CHUB](https://chub.ai/characters/hebelover/Senko) [CATBOX](https://files.catbox.moe/g7bif5.png) 
 **Tamamo** | ![Tamamo](https://files.catbox.moe/hgfef9.png) | From Monster Girl Quest. You met Tamamo at the Kitsune Temple in Yamatai Village, wanting to know her "evil plans"... But then something went wrong.  [Includes Lorebook.](https://chub.ai/lorebooks/thecentuaro/f2e98902-6cc3-4af7-8769-564fbac526ac) | [CHUB](https://chub.ai/characters/thecentuaro/Tamamo) [CATBOX](https://files.catbox.moe/2ngloa.png) 
 **Ahri** | ![Ahri](https://files.catbox.moe/b6d4wg.png) | From League of Legends. A Wandering Vastaya. | [CHUB](https://chub.ai/characters/runeterranon/ahri-84c041f5) [CATBOX](https://files.catbox.moe/m64a4d.png)
+**Tsukasa Kudamaki** | ![Tsukasa Kudamaki](https://files.catbox.moe/ewnj1c.png) | From Touhou Project. Conniving bastard and slimeball fox. | [CHUB](https://chub.ai/characters/momoura/tsukasa-kudamaki-60773c3d) [CATBOX](https://files.catbox.moe/0cy1gx.png)
 
 ## -> Male <-
 

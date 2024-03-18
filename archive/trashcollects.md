@@ -695,6 +695,7 @@ Characters:
 Styles:
 - Dagasi
 - ChiguchiMiri
+- ffjjfjci
 
 https://www.mediafire.com/folder/30caesntlcq6u/LoRA's
 

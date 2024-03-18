@@ -79,13 +79,13 @@ Update notes [here](https://github.com/creamsan/stqrpresets).
 ***
 File | Version
 --- | ---
-[Quick_import](https://creamsan.neocities.org/files/presets/qr-quick-import.json) | Mar-16-24
+[Quick_import](https://creamsan.neocities.org/files/presets/qr-quick-import.json) | Mar-18-24
 [Regex_script](https://creamsan.neocities.org/files/presets/regexreplace.json) | Feb-10-24
 
 ***
 ##SCRIPTED CARDS INITIAL SETUP - QUICK REPLIES AND REGEX SCRIPTS
-!!! note Updated on **Mar-16-24**
-	Fixes and updates on Quick QR importer.
+!!! note Updated on **Mar-18-24**
+	Update on collection format.
 	Note that you will still need to update the Quick Import preset itself by manually importing it. It is not included to be automatically updated.
 	If you don't want the UI stuff, just add the regex script. Then go here: [Console copy paste](https://rentry.org/creamsan#console-copy-paste).
 	Huge thanks to stscript anon for providing the code. https://rentry.org/stscript#making-stscript-cards-easy-to-set-up. **Requires JS setup first.**
@@ -165,7 +165,7 @@ Go to Quick Replies > Edit Quick Replies and select **qr-quick-import**. Once se
 ![1](https://files.catbox.moe/g3sp8k.png)
 
 Collection json should look like this.
-![1](https://files.catbox.moe/8m3x46.png)
+![1](https://files.catbox.moe/v1jey3.png)
 
 ### Console copy paste:
 

@@ -1,6 +1,8 @@
 https://huggingface.co/spaces/vgdasfgadg/c
 Unclogged endpoints!
-Too cringe even for me desu
+Please stop sending GPT-4 keys, I already have 370 (80 Tier 5) that nobody is going to ever use...
+Added 5 more keys out of 30 (that aren't trial or dead).
+50+ unread emails.
 No I don't expect or want anyone to buy it.
 !>https://whocars.sell.app/
 mysteryman63453121@proton.me

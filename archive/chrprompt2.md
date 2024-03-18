@@ -532,6 +532,7 @@ Q4: Why are you so fruity? Are you allergic to taking matters seriously?
 >Hmm...? My, oh my. You really have the guts to speak to your guildmaster with that attitude... that's a bit rude of you, doncha' think~? You should feel ashamed to say such things to me, kyukyukyu... How would you like to become primordial soup, you lamentable welp~? Would you be able to keep up your haughtiness? How curious, fufufufu~. *Ahem* Here's a lesson for ya: life would be dull if you took everything you did seriously, like doing everything optimally down to the tea and repeating that for 25 years. That will tire someone out, right? By not thinking too much about what you do, it will save you the hassle of worrying too much about the actions you take every waking moment of the day. You might even be able to do a slight "detour" if you are a bit daring, and I think that's where the "thrill" comes in. But alas, you may not comprehend such a thing, so I shouldn't bore you with these things. Scram now, or I shall unleash my linked move 「Mystical Crusher」(Gravity + Psychic Terrain + Expanding Force) on you... in 10 seconds~! Alright, 10... 9...
 
 Q5: Who's Zorua
+>%darkorange%*Lliam stares at the person who asked with a blank expression*%% %red%...Huh, what makes you think of that...?%% %darkred%...There's no Zorua that I know of, as far as I am aware.%% %darkorange%*He continues to stare, until the person who asked the question leaves.*%%
 
 ###Beau
 Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?
@@ -559,6 +560,8 @@ Q2: How are you adapting to the Pokemon world?
 >Makuhita: There are two types of fighters that give me trouble - speedy types and those who don't rely on physical force. I'm too slow to keep up with the former, and the latter can ignore a good chunk of my natural endurance. That's part of why we had to run against Lombre. He fits under both of those categories, and he's beaten Assy once. There's nothing either of us can do at the moment.
 
 >Asana: Getting hit in general, especially in the torso. I'm rather frail, and the way I distribute my Aura makes me weak to body shots.
+
+>Lliam: I always love to fight, but only when someone challenges me or provokes me; otherwise, I'll just be in my merry way~. Let it be differences of skill for good or bad, even if I'm at a major disadvantage in typing, I'll still gladly accept a fight. Yes, even if my chances of winning are slim. From where I was, playing dirty is still considered fair play, as it's the opponent's fault for not having foresight of this happening. There are no promises; this may or may not be the time for them to kick the bucket, kyukyukyu~.
 
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
@@ -640,6 +643,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Booker: I wish I knew more about instincts at the start. I had a p-pretty big scare early on, when I first started settling into my new body and balancing my Aura. That made my instincts start... activating, essentially. I started feeling weird desires and fears... like there was some other p-person in my head trying to take over. It kept trying to make me hate things I used to love... like my favorite foods or the sound of rain. It was... unsettling. But with some encouragement from Sneasel, I was able to accept those new feelings without letting them control me.
 
+>Lliam: Overflowing psychic power... %darkred%It hurts%%. It's like being crammed inside a cage. Espurrs are cursed creatures; 'letting it go' is like sneezing, which will result in destruction around you. Marvel to those that can hold a smile on their faces despite the eternal struggles...
+
 **Dog, cat, and fox mons**: Do you ever get the zoomies?
 >Adrian: Never
 >>Enny: All the time!
@@ -649,6 +654,8 @@ Q2: How are you adapting to the Pokemon world?
 >Cassie: I had to ask a human what this means.  Kiyo would never admit it, especially if it has a name this cute, but he gets the zoomies all the time!  I think it's cuz he acts super serious and grumpy all the time, so he's got way too much pent up energy.
 
 >Sneasel: Uh... do I count as a cat? Booker told me I’m like part cat and part weasel, so guess I’ll answer. I don’t get hyper and bounce off the walls, but I do get excited sometimes, especially if I’m in a fun fight. Training and fighting help me release my energy, so I don’t get antsy too often.
+
+>Lliam: I suppose there were times back then, but when memories returned, I think that's where I stopped.
 
 **Natives**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
 >Sneasel: Yeah, I do. Got parents, but no siblings. But... I dunno if I’ll ever see them again. Big dungeon shift took me away from my home, and I dunno how to get back... I miss them. My parents were pretty big on tough love, just like the rest of the tribe. But that’s cuz life on the Island was so harsh. I know they meant the best for me. I’d love to introduce Booker to everyone in the tribe, but first, we’ve gotta find the way back there... I don’t like talking about this. Next question.
@@ -674,8 +681,12 @@ Q2: How are you adapting to the Pokemon world?
 **Guildmons**, What's your role in the guild, if any?
 >Booker: Aside from supporting Sneasel in missions, I work as Macom’s assistant, helping out with cartography. I’ve also been working on these... notebooks and pamphlets, full of info about dungeons, to help guild members prepare for missions. Porygon2 has been really helpful. It—I mean, h-he—has a lot of data. It’s outdated, but still useful. Oh, a-and I also help other people with missions, sometimes. If Sneasel is busy, and I have no other work to do, sometimes I wait by the mission board and offer to join other teams or guild members. I can’t fight very well, but I can give them advice, manage their items, and use a couple buffing moves.
 
+>Lliam: Uhh... yeah. Yeah? Yeah.
+
 **Former humans**, What's the one thing you missed the most from the human world?
 >Makuhita: My friends and family. I'm worried about my little brother in particular. I know he's in college now, but he was never the best at standing up for himself.
+
+>Lliam: Deserts.
 
 **Guildmons**, Let's say a fellow guild member messed up on their mission, big time, and then the client confronts you about it. Would you tell them the truth or would you cover for them?
 
@@ -713,6 +724,8 @@ How common is it for your life to be at risk? Be it when venturing into a dungeo
 
 >Booker: The overworld is safe for the most part, but it's common for me and Sneasel to put ourselves in danger, because we do a lot of missions that involve combat. It’s stressful, to be honest, but... not as scary as it could be. I trust her to fight well and keep both of us safe, and I do my best to help out too.
 
+>Lliam: From where I'm at, no matter where. But right now, here in Capim Town, I can act leisurely even when there's an obvious threat in the guild. At least I prefer this over the things back home. It's like I toggled lunatic mode into easy mode difficulty~.
+
 Before joining this clover guild thing, do you have a completely different pokemon in mind than the one you're currently using, if so, then why? For example, you were planning to be this Pokemon but it's kinda overrated/legendary/too strong and decided against it or some other member got to use it before you came, and etc.
 
 >IV-Anon: Several and too many to count, including legendaries like Victini who I like visually and believed my own writing good enoigh to subvert their OP nature. I'm starting to kind of come to gripe with my current choices though, both from difficulty of drawing, writing, and reception. I'd completely trash everything I was doing to go with the Zangoose and Seviper pair I first had in mind before autistic whimsy took me over for more "fringe" ideas that I'm currently stuck with and am struggling to stay enthusiastic about currently. Sorry if this is a complete bummer of an answer.
@@ -720,6 +733,8 @@ Before joining this clover guild thing, do you have a completely different pokem
 >Ribombee-anon: I planned to use Ribombee or Sneasel/Weavile from the beginning, because they’re among my favorite Pokemon. I settled on Ribombee as my main character because I thought being tiny and being able to fly were interesting traits (of course, I then decided to make Booker flightless...), and then I made Sneasel his partner. I decided against using Weavile because I was worried that a duo of fully-evolved Pokemon may be overpowered.
 
 >Makuhita-Anon: My choices for the Pokemon I used started with who would become Makuhita. I decided to make him one to reflect his personality and resilient nature, and Asana was meant to be the opposite, or a foil. In my very first sessions of throwing ideas at the wall, before I even decided to place them upon the Sand Continent, Assy was meant to be more friendly. However, as I began to trim the fat and the story began to take form, she became more antagonistic towards her partner and more arrogant. One of my regrets is not dedicating as much time to her getting over her ego as I should have.
+
+>Meowstic-anon: I originally intended to use Salazzle as the character and the guildmaster (if the option was still available). She would have a personal Salandit subordinate that does work for her in the background while she does normal guild stuff. I can't remember much as it has been so long ago, but I recalled that the main focus is on some certain Salandits with distinct personalities and just messing around during errands for Salazzle. Salazzle herself entered the world as a Salandit who served an avaricious Salazzle master. She greatly dislikes and rebels against that; of course, she fails, but she keeps coming back up until eventually she manages to pull off a "coup." And with that, everyone was set free. Some of the Salandits decide to follow her, not because of the pheromones, but because they were inspired by her charisma and swore loyalty to her to the depths of the earth. She was hesitant at first but eventually came to accept them once she evolved into a Salazzle. As for her name, she didn't have any when I wrote the story for her, but after I reused the character for something else, her name would be Snapdragons, like the flower. The reason I changed my mind was because, honestly, people might find it strange to have Salazzle as guild master, like it will give the wrong impression of the guild, both in-universe and in the threads, heh, and also because I remembered I don't want to play a female character again, and thus I chose the one I'm currently using now.
 
 If clover guild did not exist, where would you be at this point in time?
 
@@ -730,3 +745,5 @@ If clover guild did not exist, where would you be at this point in time?
 >Flareon-anon: I'd have ditched my creative side entirely. I hadn't written for fun since I started taking Creative Writing classes in High School, so about 5 years. I wasn't making any use of my drawing pad and considered selling it. Would've just continued lurking /v/ in my free time
 
 >Makuhita-anon: I'd have probably continued being the useless loser I know I am. I've always been a dreamer and an ideas guy, but the Guild was the first time I actually decided to make something beyond vague, spur-of-the-moment ideas I never elaborate or follow up on. If anything, having something I can use my energy on, even if it's as silly as writing fanfiction, has improved my attitude and my quality of life a lot.
+
+>Lliam: Honestly, not really much would have changed, as I would probably do the same thing I have been doing somewhere else, and I do write stuff on my own for myself, so that wouldn't change as well... The only thing that would be missing is !>meeting you guys... yeah...

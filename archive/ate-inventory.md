@@ -7,7 +7,7 @@ Consumable. Has the same effect as a standard Drop of Chaos, but the deleterious
 >Lizard's Tail: 100
 Consumable. Teleports the user to a place they consider safe and heals all of their physical injuries. Activates automatically when the user is near death
 
->Breath of Serenity 200: (x6)
+>Breath of Serenity 200: (x5)
 Consumable. Clears you of mind-altering effects induced by <Authorities>. However, if the level of the <Authority> is higher than that of your incarnation level, it is possible for this item to take either partial or no effect
 
 >Idol: 300

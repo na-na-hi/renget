@@ -3,17 +3,17 @@
 ***
 ***
 ####ABOUT
-this is a **novice-to-advanced guide** on AI and chatbotting. it introduces key ideas and teaches proper communication with bots and AI thinking
+this is a **novice-to-advanced guide** on AI and chatbotting. it presents key concepts and shows how to talk with AI bots
 
 AI specializing in text is called ==**LLM (Large Language Model)**==
 
-since late 2022 LLMs experienced a boom, becoming a valuable part of our world, impacting various parts of our life such as communication and hobbies. since you are reading this guide, you are most likely interested in *using LLMs for bots, roleplay, fanfiction and creative writing*
+since late 2022, LLMs boomed, becoming a integral part of our world and significantly impacting various areas like communication and hobbies. since you are reading this, you are curious about *using LLMs for bots, roleplay, fanfiction and creative writing*
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/mf0r4u.png) <-
 
-this guide contains two parts:
-* !~ **[ESSENTIALS](#ESSENTIALS)** ~! - briefly covers the **most important aspects**. you `MUST` read this part to understand what you are doing and learn the most important terms
-* !~ **[CONCEPTS](#CONCEPTS )** ~! - delves into various **themes** in more detail; longer and optional reading but provides deeper understanding of LLMs' inner processes, clears some confusion and explains why LLMs act the way they act. here you will learn how to avoid various issues like looping, -isms, biases, and how to make your own bots
+this guide includes two parts:
+* !~ **[ESSENTIALS](#ESSENTIALS)** ~! - briefly covers the **most important aspects**. you `MUST` read this part to grasp the basics and familiarize yourself with key terms
+* !~ **[CONCEPTS](#CONCEPTS )** ~! - goes deeper into different **themes**; a longer and optional read but offers a deeper understanding of LLMs, clears ambiguities and explains why LLMs behave the way they do. you will learn how to avoid issues like looping, -isms, biases, and how to create your own bots and JBs
  
  
  
@@ -25,14 +25,14 @@ this guide contains two parts:
 !!! info
 	-> ==**Large Language Models (LLM)**== <-
 ...is AI specializing in processing text:
-- you write LLM **instructions** for what you want it to do
-- it responds with text back
+- you write LLMs **instructions** on what they need to do
+- they give back text as a response
 
 that's how LLMs operate
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/ncyuq8.png) <-
 
-there are hundreds of LLMs worldwide, with some you can chat for free**%#B000B5%*%%** :
+there are hundreds of LLMs worldwide, and you can chat with some for free**%#B000B5%*%%** :
 - by OpenAI - **GPT** (chat via [chatGPT](https://chat.openai.com))
 - by Anthropic - **Claude** (chat via [Claude.ai](https://claude.ai))
 - by Google - **Gemini**, Gemma, PaLM (chat via [Google Advanced](https://one.google.com/explore-plan/gemini-advanced))
@@ -40,7 +40,7 @@ there are hundreds of LLMs worldwide, with some you can chat for free**%#B000B5%
 - by Mistral - **Mistral**, Mixtral (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
 - by Meta - **LLaMA** 1/2 (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
 - LLaMA-based and Mistral-based LLMs (**merges**) - Mythomax, Goliath, Airoboros, Hermes, etc
--> **%#B000B5%*%%** *they may require your phone number or account creation* ->
+-> **%#B000B5%*%%** *phone number or account creation may be needed* ->
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/9fac1t.png) <-
  
