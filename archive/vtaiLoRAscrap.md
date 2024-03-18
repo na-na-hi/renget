@@ -66,6 +66,7 @@
 **Yu Twelve (Indie)** - https://civitai.com/models/342123/ivtuber
 **Mythia Batford (Indie)** - https://civitai.com/models/345676/batford
 **Osawa Rurino (Hasunosora/LoveLive)** - https://civitai.com/models/126432/osawa-rurino-link-like-love-live
+**Deme (Indie)** - https://civitai.com/models/355540/deme-vtuber
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo

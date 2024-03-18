@@ -4,6 +4,7 @@ I don't care abt doubles... Just don't be weird. I have many sources but they ar
 [**Murai**](https://blue-period.fandom.com/wiki/Yakumo_Murai) 
 [Kaworu](https://villains.fandom.com/wiki/Kaworu_Nagisa)
 [Chae Yul](https://villains.fandom.com/wiki/Chae_Yul) 
+[Marceline](https://adventuretime.fandom.com/wiki/Marceline)
 there's many more but i don't see the importance of mentioning them, if you really care just ask.
 please do not ask me abt my memories as Yul.. thank you
 I don't encourage feeding my delusions. But don't reality check me without my consent

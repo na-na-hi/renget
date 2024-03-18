@@ -1,6 +1,7 @@
 # bailey's lovelist*!*
 -> *"[BAILEY'S](https://rentry.co/bailey) FAVORITE PEOPLE FOR REaLS"* <-
--> ![](https://media.discordapp.net/attachments/982634866699014256/1117959086332465152/ezgif-1-1c5aa56889.png) <-
+-> ![cr artistrydoll on tumblr :D](https://64.media.tumblr.com/3f5cdcea10739eab02c767ec7e63fbd5/43f482e0bea27822-7e/s640x960/5d3ed9eb1e0c96c043011c5cabf5088f3bbc6567.webp) <-
+
 -> 𝄢𝜚⠀◞ ˬ ◟）[**BOYFRIEND!!!!**](https://rentry.co/zombieheathcliff) [ROLAN!!](https://rentry.co/b1tchwife), [Q!!](https://rentry.co/theelections), [ADAM!](https://rentry.co/TakeMyKnife), <-
 
 -> [HARPERR](https://rentry.co/makingpuppets), SIMON, BENDER, DANNI, KANE, SUNNY, VAN, [CESAR](https://rentry.co/cesartorres), [MAAARK](https://rentry.org/mailsystem), KIRA, BATHTUB, [SLIME](https://slvtwhatsup.carrd.co/), MY SON WREN,[CHARLIE](https://rentry.co/sillycharlie), [DANO](https://dolleye.carrd.co/), [FUNKY](https://en.pronouns.page/@funkyfox), RYKER, ZENITH, JAKE, [HAW](https://rentry.co/thescarletletters), SIMON, [BLAKE](https://rentry.co/massfledermaus), ELLE, LENORE, ZACH, LAILA, RAMAONA!!!!⠀ .. ⠀ASK 2 BE ADDED ♡ <-

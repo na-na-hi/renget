@@ -1,17 +1,16 @@
--> ![](https://i.postimg.cc/vZdXKngg/IMG-0161.jpg) <-
-
--> ![edited by me && not free to use, cr snowpriest for div](https://i.postimg.cc/Pxz8PLfc/Untitled15-20240229153958.png) <-
-![](https://i.postimg.cc/59nbYWGP/853-A30-C5-8-E71-46-E3-8612-AF88-C73224-EA.gif)‏‏‎ ‎ %#ffffff% jays rulebook%% %#AA4A44%༢ུ ⠀%% |
-:----: |
-
-
-%#800000% ꒰ %% `𓏵` %#800000% ꒱ %% do not interact/follow ⦂
-%#800000% !~ **01** ~! %% basic dni (Lgbtqphobic Racist Zionist etc)｡ %#800000% !~ **02** ~! %% under 14｡ %#800000% !~ **03** ~! %% [near](https://natefilesv2.carrd.co/#aboutnear) haters｡ %#800000% !~ **04** ~! %% won't interact with me｡ %#800000% !~ **05** ~! %% proship & loli/shotacon｡ %#800000% !~ **06** ~! %% shtwt / edtwt (there is no good side to them the good side is therapy)｡ %#800000% !~ **07** ~! %% SKZ & taylor swift fans｡ %#800000% !~ **08** ~! %% self dx aspd npd｡
-
-->%#800000% ꒰ ** `‏‏‎ ‎♡‏‏‎ ‎`** ꒱%% before you interact/follow ⦂
-%#800000% !~ **01** ~! %% i go inactive sometimes｡ %#800000% !~ **02** ~! %% i'm terrible at dms, don't take it personally｡ %#800000% !~ **03** ~! %% i sb/hb if you annoy me｡ %#800000% !~ **04**~! %% i don't like self diagnosis not sorry if that bothers you however you can still interact with me if you are｡ %#800000% !~ **05**~! %% i can be very opinionated but it's usually nothing personal so don't worry i just don't like to sugarcoat things｡->
+-> ![](https://i.postimg.cc/QxpJ9Nnt/D9-FA4148-7-CD1-4570-ACA7-78-A442-EF6-D93.jpg) <-
 ***
 ***
+-> ![](https://i.postimg.cc/8cLM6w43/8-C3-F414-C-6-BF4-45-FB-A962-49-D99-CA7-D423.png?width=400&height=295) <-
+-> ꒰ ![](https://i.postimg.cc/nh2K2Rxf/07-A30242-5-D90-427-E-8-FA2-5-CEFDE727-D0-D.gif) ⦂ most loved characters ⟢<-
+->**[Yatora](https://blue-period.fandom.com/wiki/Yatora_Yaguchi) ** ♡ ** [Jane](https://breakingbad.fandom.com/wiki/Jane_Margolis)** ♡ **[Reze](https://villains.fandom.com/wiki/Reze)**<-
+-> ![](https://i.postimg.cc/Y9BS6XGy/IMG-4305.png) ![](https://i.postimg.cc/MGQTjkTQ/IMG-4304.png) ![](https://i.postimg.cc/Kz78Jntc/IMG-4306.png) <-
 
+->![](https://i.postimg.cc/pLZTfQY2/IMG-4307.gif)<-
 
--> ![](https://i.postimg.cc/HsMB3zx1/IMG-0160.jpg)<-
+->*other* characters i like ᰔᩚ<-
+-> you can interact if you like them idc<-
+-> ~~[g](https://genshin-impact.fandom.com/wiki/Ganyu)anyu~~ ﾉ [d](https://hero.fandom.com/wiki/Derieri)erieri ﾉ [s](https://mystic-messenger.fandom.com/wiki/707)even & [z](https://mystic-messenger.fandom.com/wiki/Zen)en ﾉ [y](https://project-imas.wiki/Yui_Ohtsuki)ui ohtsuki ﾉ [y](https://yan-dere.fandom.com/wiki/Yuri_-_DDLC)uri ﾉ [n](https://villains.fandom.com/wiki/Naoko_Kirino)aoko kirino ﾉ ~~[s](https://tokyorevengers.fandom.com/wiki/Senju_Kawaragi)enju kawaragi~~ ﾉ [b](https://obey-me.fandom.com/wiki/Belphegor)elphegor & [l](https://obey-me.fandom.com/wiki/Leviathan)eviathan ﾉ [g](https://hypnosis-mic.fandom.com/wiki/Gentaro_Yumeno)entaro yumeno <-
+***
+***
+-> ![](https://i.postimg.cc/g2mqv9fK/Untitled14-20240229153229.png) <-

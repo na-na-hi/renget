@@ -706,6 +706,16 @@ You can take this simple example to lots of places, like randomly selecting the 
 
 If you want to challenge yourself, here's some homework: write three QuickReply functions. Two of them should have buttons, one should be a startup loop as we've done in the previous sections. The loop should detect changes to your character's HP stat. The buttons are attack and defend. Script a real time battle with the AI using the buttons and the loop, while you can banter with the AI through the normal conversation about your swordplay. For an added challenge, do stat tracking in the conversation, so that the AI will react to its/your HP going down.
 
+!~red; Important update here! ~!
+Although at the time of writing I didn't make the connection, but utilizing STscript to make a distinction between "programm-y" and "AI-y" mechanics is a lot like retrieval augmented generation. Here's some reading on the subject, if it sounds interesting to you:
+https://platform.openai.com/docs/guides/prompt-engineering/use-external-tools
+https://www.promptingguide.ai/techniques/rag
+https://www.promptingguide.ai/techniques/art
+https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/notebooks/pe-rag.ipynb
+
+And a quick tip: Once you've read the JS hacks section of this document, come back here for a second pass.
+!~red; update end ~!
+
 #####Dynamic Lorebooks
 To take the above idea to the extreme, let's take a quick look at lorebooks. In and of themselves, lorebooks/world info are already relatively advanced concepts, with lots of factors to consider and configure just right so it will actually enhance the RP. There is documentation on the subject that I can wholeheartedly recommend. Writing this, I will expect that you have at least skimmed over them:
 https://rentry.co/world-info-encyclopedia

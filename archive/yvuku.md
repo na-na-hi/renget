@@ -54,7 +54,7 @@ Pastel guro doujin artist. Makes chocolate with her own blood
 https://www.youtube.com/channel/UCuVcdNat7S4hydNm0U5wuJQ
 https://twitter.com/awa7_cat
 >Minori Natsume
-![Minori Natsume](https://files.catbox.moe/0n92w5.png)
+![Minori Natsume](https://files.catbox.moe/b6oo4c.png)
 Ryona AV idol married sheep. Loves guitars and watermelon
 https://www.youtube.com/@minori_72me
 https://twitter.com/minori_72me
@@ -153,7 +153,7 @@ A french carnivore rabbit that occasionally does ryona art, plenty of steak and 
 https://twitter.com/wwparasiVT
 twitch.tv/wwparasi
 >denpafish
-![denpafish](https://files.catbox.moe/vgat0s.jpg)
+![denpafish](https://files.catbox.moe/iwe74o.jpg)
 A self proclaimed menhera slime that also does ryona art, has toggles for her model for facial brusing among other things.
 https://twitter.com/denpafish
 http://twitch.tv/denpafish
@@ -173,22 +173,12 @@ https://www.youtube.com/channel/UCSmgeorzXa5ht-PKyFr8vhA
 creepy bunny imouto parasite
 https://www.twitch.tv/yuiidere
 https://twitter.com/yuiidere
->Suraya Mousouzoku
-![Suraya Mousouzoku](https://files.catbox.moe/tvkinu.png)
-Unfiction Vtuber. Newscaster from an alternate history.
-https://twitter.com/QWIL_Newscast
-https://www.youtube.com/@Suraya_Archive
->Pamu
-![Pamu](https://files.catbox.moe/hyda4u.jpg)
-menhera masochist digital guardian angel of dead imageboards.
-https://twitter.com/kuronazepamu
-https://www.twitch.tv/pamuvt
->Axed Mokuba
-![Axed Mokuba](https://files.catbox.moe/alvc0a.png)
-a rotten wizard stuck in a log, handicraft enthusiast.
-https://twitter.com/AxDMokuba
-https://www.youtube.com/@AxDMokuba
-https://www.twitch.tv/axedmokuba
+>Maime Meow
+![Maime Meow](https://files.catbox.moe/e7vbml.jpg)
+lazy denpa vampire thirsty for your blood~
+https://twitter.com/MaimeMeow
+https://www.twitch.tv/maimemeow
+https://www.youtube.com/@maimemeow2382
 ***
 /meat/-/asp/irants
 >Arisosei Kimoko
@@ -201,13 +191,29 @@ https://www.youtube.com/channel/UCRsRARyZ_E0fXyNzJgyKQ2g
 Description work in progress. Aka kyutesai
 https://www.youtube.com/@ap0lly0n83
 https://twitter.com/2give_and_4get
+>Pamu
+![Pamu](https://files.catbox.moe/hyda4u.jpg)
+menhera masochist digital guardian angel of dead imageboards.
+https://twitter.com/kuronazepamu
+https://www.twitch.tv/pamuvt
+>Axed Mokuba
+![Axed Mokuba](https://files.catbox.moe/alvc0a.png)
+a rotten wizard stuck in a log, handicraft enthusiast.
+https://twitter.com/AxDMokuba
+https://www.youtube.com/@AxDMokuba
+https://www.twitch.tv/axedmokuba
+>Suraya Mousouzoku
+![Suraya Mousouzoku](https://files.catbox.moe/tvkinu.png)
+Unfiction Vtuber. Newscaster from an alternate history.
+https://twitter.com/QWIL_Newscast
+https://www.youtube.com/@Suraya_Archive
 ***
 >Fanfic Archive
 https://docs.google.com/document/d/1pBG8xHkf8nToLH19O5KnoOB2mNi_F1a8Q34r6TeIkM8
 ***
 !!! Awaiting Description/Suggested Additions
 >Rinne and Lint
-![Rinne and Lint](https://files.catbox.moe/cth255.jpg)
+![Rinne and Lint](https://files.catbox.moe/3422az.png)
 https://www.youtube.com/channel/UCkKLnjE7UIJyTw_6ee_XMgA?app=desktop
 >Rebecca Doodles
 ![Rebecca Doodles](https://files.catbox.moe/z8ryw6.png)

@@ -664,6 +664,10 @@
 -> **or** <-
 !!! info other lora, check tags from the uploader
 -> [Catbox](https://files.catbox.moe/6wxjpz.safetensors) <-
+-> --- <-
+-> **Other LoRA Outfit** <-
+!!! info 3rd outfit
+-> [Civitai](https://civitai.com/models/355440/la-darknesss-3rd-outfit-ponyv6-version) <-
 
 ##### -> Takane Lui <-
 !!! note Tags suggested by uploader, not me

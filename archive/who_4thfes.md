@@ -1,5 +1,5 @@
 !!!note -> 🪶 **Hololive 4th Fes. - /who/ Mega Rentry**  🪶 <-
-	This rentry is made for the purpose to compile the Mumei related media/mentions during and after 4th Fes. This is her first official appearance during the concert portion of the Fes, complimented with her first Idol outfit. Also technically the debut of her 3D model. Click on the thumbnails to access links.
+	This rentry is made for the purpose to compile the Mumei related media/mentions during and after 4th Fes. This is her first official appearance during  Fes, complimented with her first Idol outfit. Also technically the debut of her 3D model. Click on the thumbnails to access links.
 	->[4th Fes Official Website](https://hololivesuperexpo2023.hololivepro.com/fes/)<-
 	->![Mumei's special message for Holo Fes](https://files.catbox.moe/70qasa.png)<-
 _______________________________

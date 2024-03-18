@@ -3061,7 +3061,10 @@ https://files.catbox.moe/flx828.safetensors
 # Lotte (OC by Cobalt Snow)
 https://files.catbox.moe/y2thwl.safetensors
 
-# Kanna (Blaster Master Zero 2 - PDXL)
+# Obscure Characters Collection
+https://mega.nz/folder/lzM0TRpY#ZL7XO04iJo5F7gEEDEqFaA
+
+	Kanna (Blaster Master Zero 2 - PDXL)
 V1:
 https://mega.nz/file/VidwAJQS#3puUhBSTOmTsqMqImlOdMtd47zl7plSj7WdVX99cVr8
 
@@ -3070,6 +3073,16 @@ V1.1:
 >Got more detailed with the tags and trained it on more steps so it should understand the character better now.
 >You can remove individual parts of clothes now too with some tag combos. 
 https://mega.nz/file/8q9RVLCR#p5VFx1CW9Sv21KnJDoBgObhDj97VTjM1BUa-cUbTby0
+
+V1.2
+>Updated the Kanna lora again. Got it to stop generating noses and ears on her for the most part.
+>Folder link this time: see topmost link
+
+	Lahla the Boo (Paper Mario TTYD)
+
+# Anatomically Correct Canine Pussy
+>the trigger tag is just "canine pussy"
+https://files.catbox.moe/0lvtbk.safetensors
 
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.

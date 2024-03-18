@@ -8,7 +8,7 @@
 ->｡ ྀི ꒰ borderline![](https://media.discordapp.net/attachments/903364339464044575/1094745374008299701/58C6046A-0035-468A-9ACA-AC87C73847FA.png) ment. unwell ![](https://media.discordapp.net/attachments/903364339464044575/1094734971962392746/D5F7D8F6-1E96-46E2-AB35-BCCE472F9DA4.gif)
 ♡[♡]() yatora's boyf ~~(~~ ![](https://media.discordapp.net/attachments/903364339464044575/1080137073547288666/D4961CFB-01C5-4214-A076-86CE5F9AB349.gif) ~~)~~ the [finns](https://rentry.co/wolfidol) <-
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1094788528128393397/4507E121-1C02-4C88-B3B4-2EBF95F09E0F.png) <-
--> [byfdni](https://rentry.co/heartstouch) ⸝⸝  [interests](https://rentry.co/finnterest) ⸝⸝  [romcc](https://rentry.co/baefy)<- 
+-> [byfdni](https://rentry.co/notfortrade) ⸝⸝  [interests](https://rentry.co/finnterest) ⸝⸝  [romcc](https://rentry.co/heartstouch)<- 
 
 
 -> ![](https://media.discordapp.net/attachments/903364339464044575/1094778201705824337/F25E82EF-78F2-46E8-A356-5771D2427EEF.png) <-

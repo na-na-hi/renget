@@ -24,8 +24,8 @@ Formatting | Description
     Abilities listed in **Bold** have been changed significantly in some way.
 Name | Description
 ------ | ------
-**Adaptability** | The User's STAB with 4, 5, 6, and 7 AP Moves is always 3, and 8 AP Moves have their STAB increased to 5.
-Aerilate | The User's Normal-Type Moves become Flying-Type and have their damage increased by 2.
+**Adaptability** | The User's STAB is increased by 1, and their Not Very Effective damage penalty with STAB Moves is decreased by 1.
+Aerilate | The User's Normal-Type Moves become Flying-Type and have their damage increased by 3.
 Aftermath | The User deals 5 True Damage to the Opponent if KO'd by a Physical Move.
 Air Lock | The User nullifies the effect of Weather.
 **Analytic** | If the User did not use a Move last round, their next Attacking Move's damage is increased by 2. Stacks up to 6 extra damage.
@@ -55,62 +55,62 @@ Clear Body | The User's Stats cannot be decreased by Opponents.
 Cloud Nine | Nullifies the effect of Weather.
 Color Change | The User's Type changes to match the Move they are hit by. 
 Comatose | The User is always Asleep. The User is immune to Sleep's negative effects. 
-Commander | The User's Basic Attack is replaced with Commander.
-Competitive | The User's Special Attack is increased by 2 for for each Stat decreased by an Opponent.
-Compound Eyes | The User's Miss Range is decreased by 3.
+**Commander** | The User's Basic Attack is replaced with Commander.
+Competitive | The User's Special Attack is increased by 2 for each Stat decreased by an Opponent.
+Compound Eyes | The User's Moves have their Accuracy increased by 3.
 Contrary | The User's Stat increases and Stat decreases are swapped.
 Corrosion | The User can inflict *Poison* to Steel and Poison-Types.
-Costar | The User copies an Ally's Stat Changes.
-Cotton Down | When the User is hit by a Move, the Opponent's Speed is decreased by 1.
-Cud Chew | When the User eats a Berry, they can eat it again at the end of the next turn.
-Curious Medicine | At the start of a battle, every Pokémon's Stat changes are reset to 0.
+Costar | Once per battle, the User may copy an Ally's Stat stage as a bonus action. 
+Cotton Down | When the User is hit by a Physical Move, the Opponent's Speed is decreased by 1.
+Cud Chew | When the User eats a Berry, they may eat it again next round at twice the AP Cost, rounded up.
+Curious Medicine | At the start of a battle, every Pokémon's Stat increases and decreases are reset to 0.
 Cursed Body | When the User is hit by a Physical Move with a roll less than or equal to 6, the Opponent is afflicted with *Disabled.*
 Cute Charm | When the User is hit by a Physical Move with a roll less than or equal to 6, the Opponent is afflicted with *Infatuated.*
 Damp | The User nullifies Explosion Moves. 
-Dancer | The User copies Dance Moves used by Opponents for free. 
+Dancer | The User may copy Dance Moves used by Opponents as a bonus action. 
 Dark Aura | The Damage of Dark-Type Moves is increased by 3 for all Pokémon.
 Dauntless Shield | At the start of the battle, the User's Defense is increased by 1.
 **Dazzling** | At no cost, the User may shine 3 Allies. Opponents' Priority Moves have their AP reduction and all secondary effects removed against them.
 **Defeatist** | The User's Attack and Special Attack Stats are increased by 1 Stat Point. While below ½ HP, the User's Attack and Special Attack are decreased by 2.
-Defiant | The User's Attack is increased by 2 for for each Stat decreased by an Opponent.
+Defiant | The User's Attack is increased by 2 for each Stat decreased by an Opponent.
 Delta Stream | The User may summon Strong Winds once per battle.
 Desolate Land | The User may summon Extremely Harsh Sunlight once per battle.
 **Disguise** | The User's Defense and Special Defense are increased by 6 until taking damage. Disguise is fixed at Max HP.
 Download | The User's Offensive Stats are increased when the Opponent's Defensive Stats are decreased.
 Dragon's Maw | Increases the damage of the User's Dragon-Type Moves by 5. 
-Drizzle | The User may summon Rain once per battle.
-Drought | The User may summon Harsh Sunlight once per battle.
-Dry Skin | The User heals 2 HP each turn while in Rain and heals 5 HP from Water-Type Moves. The opposite is true while in Harsh Sunlight.
-Early Bird | Sleep is half as effective against the User.
-Earth Eater | The User heals 2 HP from Ground-Type Moves. The User is immune to Ground-Type Moves. 
-**Effect Spore** | When the User is hit by a Physical Move with a roll of or below 6, the Opponent is Asleep, Poisoned, or Paralyzed. 1-2 Sleep, 3-4 Paralysis, 5-6 Poison.
-Electric Surge | The User may summon Electric Terrain once per battle.
-**Electromorphosis** | When the User is hit, the damage of their Electric-Type Moves is increased by 5 for the next turn.
+Drizzle | Once per battle, the User may summon Rain as a bonus action. 
+Drought | Once per battle, the User may summon Harsh Sunlight as a bonus action. 
+Dry Skin | While in Rain, the User heals 2 HP each turn and is immune to Water-Type Moves, healing 5 HP instead of their usual effect. The opposite is true while in Harsh Sunlight.
+Early Bird | Sleep is half as effective against the User, rounding up.
+Earth Eater | The User is immune to Ground-Type Moves, healing 2 HP instead of their usual effect.
+**Effect Spore** | When the User is hit by a Physical Move with a roll of or below 6, the Opponent is Asleep, Poisoned, or Paralyzed. 1-2 Sleep, 3-4 Paralysis, 5-6 Poisoned.
+Electric Surge | Once per battle, the User may summon Electric Terrain as a bonus action. 
+**Electromorphosis** | When the User is damaged by an Attacking Move, the damage of their Electric-Type Moves is increased by 5 until the next turn.
 **Embody Aspect** | When the User uses a Grass, Water, Fire, or Rock-Type Move, their Type is changed to the Move's respective Type and their Speed, Special Defense, Attack, or Defense is increased according to their new Type.
-**Emergency Exit** | While below ½ HP, Evasion is increased by 2, Defense and Special Defense are decreased by 3.
+**Emergency Exit** | While below ½ HP, Evasion is increased by 3, Defense and Special Defense are decreased by 3.
 Fairy Aura | The Damage of Fairy-Type Moves is increased by 3 for all Pokémon.
 Filter | Super-Effective Moves used against the User have their damage decreased by 2.
-Flame Body | When the User is hit by a Physical Move with a roll of or below 6, the Opponent is Burned.
-Flare Boost | While Burned, the User's Special Moves have their damage increased by 3.
-Flash Fire | When the User is hit by a Fire-Type Move, the damage of Fire-Type Moves is increased by 5. The User is immune to Fire-Type Moves.
-Flower Gift | While in Harsh Sunlight, the User and 3 Allies have their Attack and Special Defense increased by 1, and Cherrim is changed into Sunshine Form.
-**Fluffy** | The damage done to the User by Physical Moves is decreased by 3. The User is weak to Fire-Type Moves.
+Flame Body | When the User is hit by a Physical Move with a roll of or below 6, the Opponent is afflicted with *Burned*.
+Flare Boost | While the User is afflicted with *Burned*, the User's Special Moves have their damage increased by 3.
+Flash Fire | When the User is hit by a Fire-Type Move, the damage of their Fire-Type Moves is increased by 5. The User is immune to Fire-Type Moves.
+Flower Gift | While in Harsh Sunlight, the User and 2 Allies have their Attack and Special Defense increased by 1, and Cherrim is changed into Sunshine Form.
+**Fluffy** | The User's Defense Stat is increased by 2. The User is weak to Fire-Type Moves.
 Forecast | The User changes Types to adapt to different Weather Conditions.
-Forewarn | The User can sense the strongest Move an Opponent has.
-**Friend Guard** | The User is incapable of harming allies. 
-Frisk | The User can sense an Item the Opponent has.
-Full Metal Body | The User's Stats cannot be decreased by the Opponent.
-**Fur Coat** | The damage done to the User by Physical Moves is decreased by 3. The User is weak to Fire-Type Moves.
+Forewarn | Once per turn, the User can sense the strongest Move an Opponent has as a bonus action.
+**Friend Guard** | The User is incapable of harming Allies. 
+Frisk | Once per turn, the User can sense an Item the Opponent has as a bonus action.
+Full Metal Body | The User's Stats cannot be increased or decreased by an Opponent.
+**Fur Coat** | The User's Defense is increased by 2. The User is weak to Fire-Type Moves.
 **Gale Wings** | Increases the User's STAB and Super-Effective damage of 4, 5, and 6 AP Flying-Type moves. (?)
 Galvanize | The User's Normal-Type moves become Electric-Type and have their damage increased by 3.
-**Gluttony** | The User may eat a Berry with 0 AP cost once per turn.
+**Gluttony** | Once per turn, the User may eat a Berry with 0 AP cost.
 **Good as Gold** | When applicable, the User recovers from Major and Minor Status Conditions in 1 turn.
 Gooey | When the User is hit by a Physical Move, the Opponent's Speed is decreased by 1.
-Gorilla Tactics | The User's Attack is increased by 3, but only for the first selected move.
+Gorilla Tactics | The User's Attack is increased by 3, but only for the first Move they select in battle.
 Grass Pelt | While in Grassy Terrain, the User's Defense is increased by 3.
-Grassy Surge | The User may summon Grassy Terrain once per battle.
+Grassy Surge | Once per battle, the User may summon Grassy Terrain as a bonus action. 
 Grim Neigh | If the User lands a finishing blow, their Special Attack is increased by 1.
-Guard Dog | If the User is affected by Intimidate, Attack is increased by 1 instead. The User is immune to Moves and Abilities that would cause them to flee.
+Guard Dog | If the User is affected by Intimidate, their Attack is increased by 1 instead. The User is immune to Moves and Abilities that would cause them to flee.
 **Gulp Missile** | The User's Basic Attack is replaced with Gulp Missile. When the User uses Surf or Dive, Gulp Missile will have one of 3 effects. 2-10; 4 true damage, no effect. 11-15; 4 true damage, Defense decreased by 1. 16-20; 4 true damage, Paralysis. 
 Guts | While the User is afflicted with a Major Status Condition, their Attack is increased by 3. The User is immune to *Burn*'s Attack decrease.
 Hadron Engine | At the start of the battle, Miraidon's Special Attack is increased by 1. Miraidon may summon Electric Terrain as a free Action once per battle.
@@ -119,7 +119,7 @@ Hadron Engine | At the start of the battle, Miraidon's Special Attack is increas
 Heatproof | When the User is hit with a Fire-Type Move, its damage is decreased by 5.
 Heavy Metal | The User is twice as heavy as they normally would be. They also enjoy heavy metal.
 **Honey Gather** | When the User lands a finishing blow during a quest, they may roll 1D20. =20; the Opponent drops Tasty Honey. +1 roll chance every 5 Levels until Level 50.
-Hospitality | Once per battle, the User may heal an Ally for 2 HP at no cost.
+Hospitality | Once per battle, the User may heal an Ally for 2 HP as a bonus action. 
 **Huge Power** | The User's Attack Stat is increased by 3 Stat Points. The User's Special Attack Stat is decreased by 3 Stat Points.
 Hunger Switch | The User switches between Full-Belly Mode and Hangry Mode every turn.
 Hustle | The User's Attack Stat is increased by 3 Stat Points. The User's Miss Range with Physical Moves is increased by 4.
@@ -250,7 +250,7 @@ Simple | The User's Stat increases and decreases are doubled.
 Slush Rush | While in Snow, the User's Speed is increased by 1.
 Sniper | The User's Critical Hits have their damage increased by 4.
 Snow Cloak | While in Snow, the User's Evasion is increased by 1.
-Snow Warning | The User summons Snow at the start of the battle.
+Snow Warning | Once per battle, the User may summon Snow as a bonus action. 
 Solar Power | While in Harsh Sunlight, the User's Special Attack is increased by 3. While in Harsh Sunlight, the User takes 2 damage every turn.
 Solid Rock | The damage of the Opponent's Super-Effective Moves is decreased by 3 against the User.
 Soul-Heart | When a Pokémon faints, the User's Special Attack is increased by 1.

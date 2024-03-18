@@ -109,7 +109,7 @@ Blazing Torque | 10 BP | 8 AP | ≥2 | Fighting | Physical | 14-20; The Opponent
 Confusion | 5 BP | 5 AP | ≥2 | Psychic | Special | 19-20; The Opponent is afflicted with *Confusion*.
 Constrict | 1 BP | 4 AP | ≥2 | Normal | Physical | 19-20; The next round, the Opponent's [Speed](https://rentry.co/tmd2many_rules#changing-stats-in-combat) is decreased by 1.
 Core Enforcer | 10 BP | 8 AP | ≥2 | Dragon | Special | The User nullifies the Opponent's Ability.
-Counter | - | 7 AP | ≥2 | Fighting | Physical | For 1 round, the User waits to be damaged by a Physical Move. After being damaged, the User Counters. BP is based on the final damage number of the Opponent's attack increased by 5. Not affected by the User's Offensive Stats.
+Counter | - | 7 AP | ≥2 | Fighting | Physical | The User is afflicted with *Countering*. Not affected by STAB or the User's Offensive Stats.  
 Covet | 6 BP | 5 AP | ≥2 | Normal | Physical | The User steals the Opponent's Item.
 Crabhammer | 10 BP | 8 AP | ≥4 | Water | Physical | 18-20; Increased Crit Ratio.
 Cross Chop | 10 BP | 8 AP | ≥5 | Fighting | Physical | 18-20; Increased Crit Ratio.
@@ -321,14 +321,14 @@ Mega Drain | 4 BP | 6 AP | ≥2 | Grass | Special | [Draining](https://rentry.co
 Mega Kick | 10 BP | 8 AP | ≥5 | Normal | Physical | No secondary effect.
 Mega Punch | 8 BP | 6 AP | ≥4 | Normal | Physical | No secondary effect.
 Megahorn | 10 BP | 8 AP | ≥4 | Bug | Physical | No secondary effect.
-**Metal Burst** | - | 7 AP | ≥2 | Steel | Physical | For 1 round, the User waits to be damaged by a Physical or Special Move. After being damaged, the User Counters. BP is based on the final damage number of the Opponent's attack increased by 3. Not affected by the User's Offensive Stats.
+**Metal Burst** | - | 7 AP | ≥2 | Steel | Physical | The User is afflicted with *Metal Burst*. Not affected by STAB or the User's Offensive Stats.  
 Metal Claw | 5 BP | 5 AP | ≥2 | Steel | Physical | 19-20; The User's Attack is increased by 1.
 Meteor Assault | 15 BP | 8 AP | ≥2 | Fighting | Physical | The User is afflicted with *Recharging*.
 Meteor Beam | 10 BP | 7 AP | ≥3 | Rock | Special | The User's Special Attack is increased by 1. Hits 1 round after the Move is used.
 Meteor Mash | 9 BP | 7 AP | ≥3 | Steel | Physical | 16-20; The User's Attack is increased by 1.
 Mighty Cleave | 10 BP | 7 AP | ≥2 | Rock | Physical | Ignores Protect Moves.
 Mind Blown | 15 BP | 8 AP | ≥2 | Fire | Special | The User loses ½ of their Max HP.
-**Mirror Coat** | - | 7 AP | ≥2 | Psychic | Special | For 1 round, the User waits to be damaged by a Special Move. After being damaged, the User Counters. BP is based on the final damage number of the Opponent's attack increased by 3. Not affected by the User's Offensive Stats.
+**Mirror Coat** | - | 7 AP | ≥2 | Psychic | Special | The User is afflicted with *Mirroring*. Not affected by STAB or the User's Offensive Stats.  
 Mirror Shot | 7 BP | 6 AP | ≥4 | Steel | Special | 14-20; The Opponent's Accuracy is decreased by 1.
 Mist Ball | 9 BP | 7 AP | ≥2 | Psychic | Special | 10-20; The Opponent's Special Attack is decreased by 1.
 **Misty Explosion** | 10 BP | 8 AP | ≥8 | Fairy | Special | While in Misty Terrain, damage is increased by 5. Spread.
@@ -858,6 +858,7 @@ Name | Base Power | Action Points | Accuracy | Type | Property | Description
 Floaty Fall || 9 BP | 6 AP | ≥2 | Flying | Physical | 14-20; The Opponent is afflicted with *Flinch*.
 **Freezy Frost** | 9 BP | 6 AP | ≥2 | Ice | Special | All Pokémon in the battle have their Stat changes reset to 0.
 **Glitzy Glow** | 9 BP | 6 AP | ≥2 | Psychic | Special | [Screen](https://rentry.co/tmd2many_rules#recoil-screens). Affects Special Moves.
+**Harvest** | - | 4 AP | ≥11 | Grass | Status | If a Berry was used last turn, there is a ≥11 chance they will find a Berry Leaf. 100% chance in Harsh Sunlight. 
 **Nature Power** | - | - | - | - | Status | Move dependent on the [User's environment](https://rentry.org/tmd2many_moves/#nature-power). 
 **Pika Papow** | 10 BP | 6 AP | - | Electric | Special | Each round, the Move's BP is decreased by 1 until 8 BP.
 **Sappy Seed** | 9 BP | 6 AP | ≥2 | Grass | Physical | The Opponent is afflicted with *Seeded.*

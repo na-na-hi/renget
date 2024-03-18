@@ -28,7 +28,7 @@ Outlaw?
 
 "Lore and Misc Questions" are questions about some lore about some characters, world building, and other questions about Clover Guild that aren't applicable to the things above. You may even ask questions to the authors themselves! (When doing this, write it as Chespin-anon to indicate it's the author, and use Chespin for character himself, to not cause any confusion.)
 
-The edit code for this rentry is **anniversary**
+The edit code for this rentry is %red%**anniversary**%% (don't ask me what's the edit code since I made it clear, bold and colored -Lliam)
 
 [TOC2]
 
@@ -47,12 +47,16 @@ Q2: How does it feel getting hit with a fighting type move?
 >Oh boy, it hurts like hell! Even if it’s a weak attack, it causes some major pain, cuz of that energy put into it. If you just punch one of us normally, we can probably take it, but if you turn it into a real move by pumping energy into it, it’ll feel like you got slammed hard by a flaming bag of rocks. Clawfolk and Fighting-type energy just don’t mix. But it ain’t my fault. Ask anyone with a double weakness and they’re gonna tell you the same thing. It’s just the way we’re built.
 >Booker always freaks out whenever a Fighting-type attack comes at us. Even though he’s super resistant to that type of energy, he’s always worried for me. He still thinks I’ll die from even the littlest Fighting-type move. I hate seeing the little guy get scared like that, though, so I guess it’s good motivation to dodge as much as I can.
 
+Q3: Is there anything about the human world you've heard that's piqued your interest?
+
 ###Booker
 Q1: Is there anything that stinks about being a Ribombee that's really minor?
 >Hmm... Something minor that stinks... Oh! I got it: I can’t turn off my sense of smell. We bugs don’t have noses, because we smell with our antennae, so I can’t plug my nose when I smell something bad. I just have to tolerate it until I can get away from it, and that can be annoying. 
 >A-and in case you’re wondering: no, Sneasel d-doesn’t smell. And that’s a good thing, too, considering I spend most of my time on her head, or at her side. Everyone in her tribe learned the importance of being stealthy, and part of that involves hiding your scent. Sneasel still cares about that, so she practices really good hygiene, thankfully.
 Q2: Are there any small items you've found a new use for as a Ribombee?
 >Well, the first thing that comes to mind is my bed. M-maybe you’ve seen it already. It’s a bowl of cotton balls, and we keep it on the desk in our dorm. It’s so comfy... Better than any bed I had as a human. Aside from that... I usually drink from a thimble, and I’ve used a feather quill pen as a broom before. Also, Sneasel and I have thought about getting me a sewing needle I could use as a sword, to protect myself if I need to. It would be the right size, but I’m not sure if I could use it very well without any fingers, so it's just in the idea stage so far.
+
+Q3: If you learn Pollen Puff, will you share some with the other guild members? I want sweets.
 
 ###Jung
 Q1: How and when did you meet Sara?
@@ -197,7 +201,18 @@ Q3: Does the banana that's hanging on your chin ever go bad?
 >Surprisingly, no. I don't know if it's Pokémon magic or whatever, but they don't seem to ripen or turn brown. That's fortunate for me though, because I'd hate to be without my bananas. I get this strange comfort from them being there under my chin... I felt a bit restless after I lost one to that Venusaur. I'm not sure why I feel this way, I just do. Oh, and if this is a roundabout way of asking if you can have a banana once they start to go bad... the answer is no.
 
 Q4: Have any of your human hobbies carried over to the Pokemon world?  Or are you very bored these days?
+>Not really. They don't have any video games or computers here, not that I have hands anyway. It can be pretty boring, typically, but this world has plenty of new things for me to do anyway. Doing missions for the guild has been... mostly enjoyable, even if I've mostly being doing low-level tasks so far. Practicing things like using Razor Leaf and Gust has been keeping me busy as well, as have been my attempts at learning to fly (not that I've had any success yet...). Exploring this world is pretty cool too, since there was nothing really to explore back in the human world, but I can only explore on rainy or overcast days, so that limits the number of opportunites I get.
+
+>Huh? Why can I only explore on crappy days like that? Oh, uh... N-no reason... I just, uh, prefer doing missions when the weather is nice? Wouldn't want to let those days go to waste, y-you know?
+
+>If I'm not doing any of those though, I'm usually lazing around my lean-to, which is rather boring, but it is relaxing at least.
+
 Q5: What's your favorite fruit?
+>Yeah, very funny, I know what you want me to say. But I haven't actually had a banana since I've turned into a Tropius. They're surprisingly rare on the Grass Continent, and there's no way I'm eating one of my own. Even thinking about that makes me wanna hurl.
+
+>I imagine bananas would taste heavenly if I had one, given that they supposedly grow from Tropius's necks because they love them so much. I'd eat a banana almost every day when I was a human, but they weren't anything spectacular then. But it makes me wonder if eating so many bananas is why I turned into a Tropius of all things...
+
+>Out of what I've actually eaten since turning into a Tropius... I'd say my favorite would probably be Pecha Berries. I've always had a sweet tooth, but I've had a bigger one since my transformation, and Pecha Berries are both common and very sweet. I haven't tried many different fruits or berries though, so there's probably one I'd like even more that I haven't had yet. 
 
 ###Linoone
 Q1: You spend a lot of time scouting around the guild.  What's something strange/interesting you've seen?
@@ -212,8 +227,12 @@ Q4: If you didn't get into mail delivery, what job would you have done instead, 
 
 ###Macom
 Q1: What's it like going from being an XCOM soldier to being a cute fluffy little electric sheep :3 ?
+>I was more than a normal Soldier. I don’t like talking about those times though, so I’ll simply say this: I like it here. There is life here, and it is wonderful.
 Q2: If someone asked to hug or cuddle with you and your soft wool, would you accept?
+>You imply I don’t get asked this all the time. It’s getting out of hand.
 Q3: What are "acceptable casualties" to you?
+>Preferably none. I will not sacrifice anyone. Not again.
+
 
 ###Gus
 Q1: r u bald?
@@ -535,6 +554,10 @@ Q2: How are you adapting to the Pokemon world?
 
 >Adrian: I don't discriminate. I'll throw myself at any pokemon, regardless of type differences.
 
+>Makuhita: There are two types of fighters that give me trouble - speedy types and those who don't rely on physical force. I'm too slow to keep up with the former, and the latter can ignore a good chunk of my natural endurance. That's part of why we had to run against Lombre. He fits under both of those categories, and he's beaten Assy once. There's nothing either of us can do at the moment.
+
+>Asana: Getting hit in general, especially in the torso. I'm rather frail, and the way I distribute my Aura makes me weak to body shots.
+
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
 
@@ -628,6 +651,8 @@ Q2: How are you adapting to the Pokemon world?
 **Natives**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
 >Sneasel: Yeah, I do. Got parents, but no siblings. But... I dunno if I’ll ever see them again. Big dungeon shift took me away from my home, and I dunno how to get back... I miss them. My parents were pretty big on tough love, just like the rest of the tribe. But that’s cuz life on the Island was so harsh. I know they meant the best for me. I’d love to introduce Booker to everyone in the tribe, but first, we’ve gotta find the way back there... I don’t like talking about this. Next question.
 
+>Makuhita: I've got a mom and a younger brother, Drew. My dad was effectively whatever you'd consider the opposite of a role model - I learned how to be and act by trying to avoid ending up like him. He caused Drew and I to go through a lot of grief growing up and I'm glad he's out of that household, even if I'm not around to see him prosper. 
+
 **Guildmons**, If your character had to trade partners with another guild members, which other partner do you think would suit them best?
 >Adrian: I don't want to be partners with anybody, but if I was forced to, Toge was alright during that one job we did together.
 
@@ -635,6 +660,10 @@ Q2: How are you adapting to the Pokemon world?
 
 **Guildmons**, An outlaw you've captured recently was accepted into the guild after he said that he was reformed (turns out to be a humon); would you accept him with open arms or would you be suspicious about his change of heart?
 >Adrian: I would kill Machamp on sight purely because he devolved me. I don't care where he's from, what he is, or what he wants to do at the guild. I hate him with every fiber of my body, more than anyone else I've ever fought. Any other outlaws, I don't really trust them. I'll leave that decision to the Guildmaster
+
+>Makuhita: It honestly depends on a whole lot of factors - what they've done, how they acted, and so on. I'd give thm a chance, to. To put it simply, I've had a rough life, but I was lucky enough to have friends to help me through. I know everyone is not as fortunate as I was, and if I can help the guy out of whatever hole he found himself in, it'd be a win for everyone.
+
+>Asana: My answer is honestly similar to Makuhita's, although I'd keep an eye on them regardless, as a precaution. 
 
 **Everyone**, It's a holiday! (is there such a thing in the PMD world?) How would like to spend your time in this ocassion? Would you still work and rescue Pokemon in Mystery Dungeon? Travel somewhere, err... lavish? Hang out in the guildhall all day long?
 
@@ -644,7 +673,7 @@ Q2: How are you adapting to the Pokemon world?
 >Booker: Aside from supporting Sneasel in missions, I work as Macom’s assistant, helping out with cartography. I’ve also been working on these... notebooks and pamphlets, full of info about dungeons, to help guild members prepare for missions. Porygon2 has been really helpful. It—I mean, h-he—has a lot of data. It’s outdated, but still useful. Oh, a-and I also help other people with missions, sometimes. If Sneasel is busy, and I have no other work to do, sometimes I wait by the mission board and offer to join other teams or guild members. I can’t fight very well, but I can give them advice, manage their items, and use a couple buffing moves.
 
 **Former humans**, What's the one thing you missed the most from the human world?
-
+>Makuhita: My friends and family. I'm worried about my little brother in particular. I know he's in college now, but he was never the best at standing up for himself.
 **Guildmons**, Let's say a fellow guild member messed up on their mission, big time, and then the client confronts you about it. Would you tell them the truth or would you cover for them?
 
 ##->**Pair Questions**<-
@@ -685,6 +714,8 @@ Before joining this clover guild thing, do you have a completely different pokem
 
 >Ribombee-anon: I planned to use Ribombee or Sneasel/Weavile from the beginning, because they’re among my favorite Pokemon. I settled on Ribombee as my main character because I thought being tiny and being able to fly were interesting traits (of course, I then decided to make Booker flightless...), and then I made Sneasel his partner. I decided against using Weavile because I was worried that a duo of fully-evolved Pokemon may be overpowered.
 
+>Makuhita-Anon: My choices for the Pokemon I used started with who would become Makuhita. I decided to make him one to reflect his personality and resilient nature, and Asana was meant to be the opposite, or a foil. In my very first sessions of throwing ideas at the wall, before I even decided to place them upon the Sand Continent, Assy was meant to be more friendly. However, as I began to trim the fat and the story began to take form, she became more antagonistic towards her partner and more arrogant. One of my regrets is not dedicating as much time to her getting over her ego as I should have.
+
 If clover guild did not exist, where would you be at this point in time?
 
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.
@@ -692,3 +723,5 @@ If clover guild did not exist, where would you be at this point in time?
 >Ribombee-anon: I’d definitely be living a more boring and lonely life without the guild, that’s for sure. I also would’ve never gotten into art like I did after joining this group. As for stories, I was already writing stories before the guild, but I kept them to myself (aside from a handful of exceptions). The guild gave me more confidence about sharing my writing, and I’m grateful for that.
 
 >Flareon-anon: I'd have ditched my creative side entirely. I hadn't written for fun since I started taking Creative Writing classes in High School, so about 5 years. I wasn't making any use of my drawing pad and considered selling it. Would've just continued lurking /v/ in my free time
+
+>Makuhita-anon: I'd have probably continued being the useless loser I know I am. I've always been a dreamer and an ideas guy, but the Guild was the first time I actually decided to make something beyond vague, spur-of-the-moment ideas I never elaborate or follow up on. If anything, having something I can use my energy on, even if it's as silly as writing fanfiction, has improved my attitude and my quality of life a lot.
