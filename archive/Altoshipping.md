@@ -33,6 +33,15 @@ https://archiveofourown.org/works/15475062
 The Attractive Storyline [NSFW] (Part 1: Bayleaf, Part 2: Latias & Bianca)
 https://archiveofourown.org/series/2362258
 
+Plus One
+https://archiveofourown.org/works/53777086
+
+A Morning Reverie
+https://archiveofourown.org/works/53631472
+
+Would He Be Proud?
+https://archiveofourown.org/works/53554996
+
 >Fanfiction
 https://www.fanfiction.net/community/Paradise-Alto/118304/99/0/1/0/0/0/0/
 

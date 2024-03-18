@@ -41,10 +41,11 @@ This sets up your ST to delete the CoT after generation, since at that point it'
 
 ### Releases
 
-[LATEST - v6](https://files.catbox.moe/u30l71.json)
+[LATEST - v6.1](https://files.catbox.moe/k81elj.json)
 - Added more guidelines to default writing style.
 - Expanded default NSFW preferences in an attempt to keep Claude's horniness in check.
 - Added rule to prevent generation of content warning OOC.
+- Wording updates to prevent some unwanted outputs. (v6.1)
 
 [v5](https://files.catbox.moe/b2z0xc.json)
 - Disabled CoT by default again.

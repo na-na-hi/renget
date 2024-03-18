@@ -15,7 +15,7 @@ or so since i consume a lot of media! ❞<-
 -> ![](https://i.postimg.cc/T11j6xmh/Untitled34-20240311021740.png)<-
 ***
 -> ![](https://i.postimg.cc/fRwT7NX3/Untitled40-20240311032738.png) <-
-->games﹕~~batim~~﹐ddlc﹐everskies﹐~~genshin impact~~﹐hypnosis mic﹐**im@s cinderella girls**﹐mystic messenger﹐~~obey me~~﹐show by rock﹐~~yttd~~<-
+->games﹕~~batim~~﹐ddlc﹐~~genshin impact~~﹐hypnosis mic﹐**im@s cinderella girls**﹐mystic messenger﹐~~obey me~~﹐show by rock﹐~~yttd~~<-
 -> ![](https://i.postimg.cc/T11j6xmh/Untitled34-20240311021740.png)<-
 ***
 -> ![](https://i.postimg.cc/rwJNVx5D/Untitled40-20240311032933.png)<-

@@ -28,7 +28,7 @@ Outlaw?
 
 "Lore and Misc Questions" are questions about some lore about some characters, world building, and other questions about Clover Guild that aren't applicable to the things above. You may even ask questions to the authors themselves! (When doing this, write it as Chespin-anon to indicate it's the author, and use Chespin for character himself, to not cause any confusion.)
 
-The edit code for this rentry is %red%**anniversary**%% (don't ask me what's the edit code since I made it clear, bold and colored -Lliam)
+The edit code for this rentry is %red%**anniversary**%% (don't ask me what's the edit code since I made it clear, bold, and colored; there's no possible way you could ever miss this one!! -Lliam)
 
 [TOC2]
 
@@ -531,6 +531,8 @@ Q3: Your job must be a handful. How do you relax?
 Q4: Why are you so fruity? Are you allergic to taking matters seriously?
 >Hmm...? My, oh my. You really have the guts to speak to your guildmaster with that attitude... that's a bit rude of you, doncha' think~? You should feel ashamed to say such things to me, kyukyukyu... How would you like to become primordial soup, you lamentable welp~? Would you be able to keep up your haughtiness? How curious, fufufufu~. *Ahem* Here's a lesson for ya: life would be dull if you took everything you did seriously, like doing everything optimally down to the tea and repeating that for 25 years. That will tire someone out, right? By not thinking too much about what you do, it will save you the hassle of worrying too much about the actions you take every waking moment of the day. You might even be able to do a slight "detour" if you are a bit daring, and I think that's where the "thrill" comes in. But alas, you may not comprehend such a thing, so I shouldn't bore you with these things. Scram now, or I shall unleash my linked move 「Mystical Crusher」(Gravity + Psychic Terrain + Expanding Force) on you... in 10 seconds~! Alright, 10... 9...
 
+Q5: Who's Zorua
+
 ###Beau
 Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?
 >Honestly, I just got here. The selective amnesia isn’t as much of a bother as I thought. Seeing more memories come back the longer I’m around, gives me a little hope that I’ll figure everything out eventually. I’m just happy I remembered Mako and Dav when I ran into them. That makes this whole thing a lot easier to swallow. I know I can’t do anything right now, so I’m taking it one step at a time.
@@ -674,7 +676,10 @@ Q2: How are you adapting to the Pokemon world?
 
 **Former humans**, What's the one thing you missed the most from the human world?
 >Makuhita: My friends and family. I'm worried about my little brother in particular. I know he's in college now, but he was never the best at standing up for himself.
+
 **Guildmons**, Let's say a fellow guild member messed up on their mission, big time, and then the client confronts you about it. Would you tell them the truth or would you cover for them?
+
+**Everyone**, If you enter a mystery dungeon and the enemy spawned is based on your friends... Are you capable on beating them up?
 
 ##->**Pair Questions**<-
 

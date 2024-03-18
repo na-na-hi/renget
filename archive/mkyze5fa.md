@@ -23,14 +23,15 @@ Knowledge
 ==Sen is, simply put, a once in a generation genius. An incredible talent for mindfulness, evaluation and a perfect memory have allowed her to become well-read on dozens of academic topics despite her age. Though this talent does not extend to a majority of ninja arts - she holds no more affinity for taijutsu, ninjutsu or genjutsu than the average Genin - she is intimately familiar with academic theory, strategy and, perhaps most importantly, how to rapidly learn and adapt her own thinking to suit the situation.==
 
 **Drawbacks**
-Emotional Weakness (Failure)
+Emotional Weakness
+Instability
 
-==Operation Laughing Dragon, a mission where Sen lost both her mentor and fellow team members, has utterly destroyed the Genin. She remembers the event perfectly, down to the smallest detail, and is keenly aware of her failures as the team's Information Operative in retrospect. Believing her own incompetence to be the source of her companions' deaths, she has become crippled by self-doubt, self-loathing and an obsession with her own failures, leading to various coping mechanisms and an unhealthy, flagellatory mindset. Though she is capable of hiding these cracks in her psyche in most cases, those that know her most closely understand that, while insistent on helping others, she has almost completely given up on herself.==
+==Operation Laughing Dragon, a mission where Sen lost both her mentor and fellow team members, has utterly destroyed the Genin. She remembers the event perfectly, down to the smallest detail, and is keenly aware of her failures as the team's Information Operative in retrospect. Believing her own incompetence to be the source of her companions' deaths, she has become crippled by self-doubt, self-loathing and an obsession with her own failures, leading to various coping mechanisms and an unhealthy, flagellatory mindset. Though she is capable of hiding these cracks in her psyche in most cases, those that know her most closely understand that, while insistent on helping others, she has almost completely given up on herself. Her attempts at compartmentalization, coupled with her inability to forget, have begun expressing themselves through the Snowclad Watcher - an 'other self,' used as a psychological coping mechanism that exists only to intrusively remind her of the thoughts she'd rather never had, constantly pressuring her towards darker outlooks.==
 
 **Chakra Natures**
-Wind
+Yin
 
-==Though Sen does not possess a significant number of elemental jutsu, her preference towards the wind style was made evident shortly after graduating from the academy. What few D-Class ninjutsu she can utilize are invariably of this style, leaving her at a disadvantage against those who can utilize fire, but with an edge over those who focus on lightning.==
+==Sen does not possess any real affinity for elemental jutsu - her temperament is instead better suited to the manipulation of mental energy, which she possesses an abundance of from her talents and background. This lends her well to the arts of the Sensor and Communicator, but leaves her largely without any Nijutsu to speak of in combat.==
 
 **Basic Jutsu**
 Espionage 3
@@ -41,12 +42,13 @@ Utility 3
 
 ==Sen has spent much of her tenure as Genin hyperfocusing on more mundane skills rather than developing her jutsu. Believing that the role of a shinobi is one of spy, scout and messenger over assassin, warrior or mystic, she has developed an incredible skillset in navigating social environments, acquiring information from any source, exploiting her surroundings and rapidly developing both long and short term strategy. In such matters, she already thinks like a Jonin, and any conflict with her invariably becomes a mindgame as she uses every trick in the book as well as other, less conventional methods to keep her opponents unbalanced. Fake handsigns suggesting a powerful jutsu, constant deceptive performance, expert use of the environment and other seemingly chaotic levels of adaptation make her extremely frustrating to pin down - if someone does break through her façade and tricks, however, she is extremely vulnerable, without much skill or power in conventional combat to speak for.== 
 
-==What little time she gives to jutsu has been entirely devoted to learning a vast array of E-Class techniques of all types, including all five elemental releases. Each of these jutsu are extremely efficient, simple and easy to learn even without talent, but do not compare to even the most basic combat techniques in power. At most, it adds to her repertoire of tricks to keep her foes guessing, or simply makes her true calling as a spy much easier.==
+==What little time she gives to jutsu has been mostly devoted to learning a vast array of F-Class techniques of all types, including the petty manifestations of all five elemental releases. Each of these jutsu are extremely efficient, simple and easy to learn even without talent, but do not compare to even the most basic combat techniques in power. At most, it adds to her repertoire of tricks to keep her foes guessing, or simply makes her true calling as a spy much easier.==
 
 **Advanced Jutsu**
+Communication Arts 3
 Sensory Arts 3
 
-==Sen was guaranteed to become a Sensory Operative due to her talent for those arts. Stemming from her more cerebral nature and reinforced by years of focused study, she is capable of enhancing any of her six senses to an extreme degree. Though little use in combat, her presence allows her team to coordinate on a level completely impossible without her unique skillset, sharing and organizing vast amounts of information amongst her allies in seconds.==
+==Sen was guaranteed to become a Sensory Operative due to her talent for those arts. Stemming from her more cerebral nature and reinforced by years of focused study, she is capable of enhancing any of her six senses to an extreme degree. Further, her ability to communicate via chakra - both telepathically and in the various arts of hidden messages and encoded data - is far beyond what is expected of her rank. Though little use in combat directly, her presence allows her team to coordinate on a level completely impossible without her unique skillset, sharing and organizing vast amounts of information amongst her allies in seconds.==
 
 ==Her advice and general proficiency as a sensor have rapidly declined alongside her own confidence, however. Believing Junki to be far more level-headed and decisive, while also untrusting of her own abilities, she has begun to defer entirely to his judgement in team operations, simply sharing what she can to best inform his strategies.==
 
@@ -60,7 +62,7 @@ Eidetic Memory
 **Introduction**
 Sen Yamamoto arrived to Konohagakure sometime before the remainder of Team Tsumugi and has spent the past weeks acclimatizing herself to the village's layout, culture and people. She is the odd one out of her team, being older than the other Genin - Junki and Ghidorah - by quite a few years and hailing from a different village entirely. She doesn't have many stories to tell of her team, as if she barely knows them, but nevertheless speaks of them with a certain warmness that can only stem from something deeper than simple acquaintanceship.
 
-She has taken a keen interest in the other Genin participating in the exercise, and has been nothing short of curious, friendly and attentive to the other teams - freely sharing accumulated experience and advice on previous Chunin exams, particularly to younger or less experienced teams who may be more nervous about their first attempt. On her part, she strides through what might otherwise be an incredibly tense environment with a casual confidence, and seems to know everything about everything despite her age - though seemingly unbiased, she is a go-to person for the teams to get detailled information on each other.
+She has taken a keen interest in the other Genin participating in the exercise, and has been nothing short of curious, friendly and attentive to the other teams - freely sharing accumulated experience and advice on previous Chunin exams, particularly to younger or less experienced teams who may be more nervous about their first attempt. On her part, she strides through what might otherwise be an incredibly tense environment with a casual confidence, and seems to know everything about everything despite her age - though seemingly unbiased, she is a go-to person for the teams to get detailed information on each other.
 
 Of course, such a friendly attitude is not entirely without suspicion, given the nature of the Chunin exams - more perceptive or cautious Genin can note that her lax composure shows a few cracks; she is always tired, prone to sullen, distant daydreaming and more than once has been caught smoking - a bad habit she would prefer not to expose the other Genin to. Worse still, the Jonin of Konohakagure seem to be keeping a particular eye on her.
 

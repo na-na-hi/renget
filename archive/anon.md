@@ -1,7 +1,7 @@
--> ![picture of ena](https://cdn.discordapp.com/attachments/498280609257619456/1100896249709854760/Untitled694_20230426172829.png) <-
+-> ![picture of ena](https://media.discordapp.net/attachments/1205618333848707082/1219283082428027003/Untitled731_20240318095531.png?ex=660abcdc&is=65f847dc&hm=905ef0cef3c3962c39785e723109923367b1b6dc08c6b8a624de76e2baadc73d&)<-
 ->![](https://maguro.carrd.co/assets/images/gallery07/864b6934_original.png?v=2d4a5de9)<-
-->![](https://enchantments.carrd.co/assets/images/gallery04/442d9177.gif?v=6ea7b2b4) ***j*****oong** ![](https://enchantments.carrd.co/assets/images/gallery04/442d9177.gif?v=6ea7b2b4) <-
--> 16 she/her ![](https://enchantments.carrd.co/assets/images/gallery05/4c701e1e.gif?v=6ea7b2b4) chinese hispanic wlw ![](https://maguro.carrd.co/assets/images/gallery04/1f27b711.gif?v=2d4a5de9)<-
--> `boygirlthing` ![](https://maguro.carrd.co/assets/images/gallery10/b63b19f6_original.gif?v=2d4a5de9) audhd ![](https://maguro.carrd.co/assets/images/gallery12/794e4a50.gif?v=2d4a5de9)<-
+->![](https://enchantments.carrd.co/assets/images/gallery04/442d9177.gif?v=6ea7b2b4) %#F693BC%**JOONG** ***!!***%%<-
+-> any prns ୨୧ hispanic wasian `♫`<-
+-> 16 ♡ girlboything aroace wlw ![wlw flag](https://i.postimg.cc/k5mc1r63/sapphic-3-stripes-20-px.png)<-
 *** 
 -> [extra!](https://rentry.co/natsuki) ![](https://biscuit.crd.co/assets/images/gallery02/50d00f04.gif?v=f1c71efd) <-

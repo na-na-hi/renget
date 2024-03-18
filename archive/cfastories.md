@@ -1,6 +1,6 @@
 #**Stories and Content posted in /Chic-Fil-A/**
 ->FRIDAYS AT 17:00 HOURS UTC<-
-->Last updated on thread #58 (Monday, 18 March 2024, 03:15 UTC)<-
+->Last updated on thread #58 (Monday, 18 March 2024, 07:45 UTC)<-
 ->She's cute.<-
 
 == **LINKS**
@@ -15,7 +15,7 @@
 - [Team Fortress 2 Spray](https://files.catbox.moe/4n8abj.zip) (Fukkireta Averi in Source's spray format.)
 - [Team Fortress 2 Level](https://steamcommunity.com/sharedfiles/filedetails/?id=3088346402) (Team Fortress 2 /cfa/ level.)
 
-- [Krita](https://krita.org/en/download/krita-desktop/) (Free drawing program by the KDE Community.)
+- [Krita](https://krita.org/en/download/) (Free drawing program by the KDE Community.)
 - [Kdenlive](https://kdenlive.org/en/download/) (Free video editor by the KDE Community.)
 - [OBS Studio](https://obsproject.com/download) (Free screen recording software.)
 - [Drawabox](https://drawabox.com/) (Free exercise-based drawing lessons.)
@@ -1447,9 +1447,8 @@ Please post green texts and stories as well. /hmofa/ stories that feature vixens
 
 ---STORIES---
 By Anonymous
-\>An Egg In Trying Times - Prologue
+\>An Egg In Trying Times
 https://rentry.org/AnEggInTryingTimes-Prologue
-
 \>MILF fox smut story
 https://rentry.org/dk52w
 

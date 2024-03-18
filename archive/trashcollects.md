@@ -3063,22 +3063,9 @@ https://files.catbox.moe/y2thwl.safetensors
 
 # Obscure Characters Collection
 https://mega.nz/folder/lzM0TRpY#ZL7XO04iJo5F7gEEDEqFaA
-
-	Kanna (Blaster Master Zero 2 - PDXL)
-V1:
-https://mega.nz/file/VidwAJQS#3puUhBSTOmTsqMqImlOdMtd47zl7plSj7WdVX99cVr8
-
-V1.1:
->Updated the Kanna lora.
->Got more detailed with the tags and trained it on more steps so it should understand the character better now.
->You can remove individual parts of clothes now too with some tag combos. 
-https://mega.nz/file/8q9RVLCR#p5VFx1CW9Sv21KnJDoBgObhDj97VTjM1BUa-cUbTby0
-
-V1.2
->Updated the Kanna lora again. Got it to stop generating noses and ears on her for the most part.
->Folder link this time: see topmost link
-
-	Lahla the Boo (Paper Mario TTYD)
+Characters:
+- Kanna (Blaster Master Zero 2 - PDXL)
+- Lahla the Boo (Paper Mario TTYD)
 
 # Anatomically Correct Canine Pussy
 >the trigger tag is just "canine pussy"

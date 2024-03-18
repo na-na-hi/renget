@@ -1,12 +1,12 @@
 Here's the most optimal guide to farming and grinding the most effectively at Limbus Company.
 
->Spending Lunacy
+## %green% Spending Lunacy %%
 
 If your max Enkephalin is above 100+, 3 refills per day is your maximum goal. Otherwise, stick to only 2 refills. That way, you'll make the most of your Lunacy. You will save up as much Lunacy for Walpurgis Night, which has exclusive IDs/EGO that are overpowered as fuck. Walpurgis Night only comes once every 3 months, and the only way to get those IDs are through pulls.
 
 With 750 Lunacy from the weekly Mirror Dungeon bosses, 300 Lunacy from the weekly updates, you'll still have a net loss of 42 Lunacy, or around 500 Lunacy per season, assuming the season lasts 3 months. However, don't let that discourage you. As a new player, you have so many different ways to gain free Lunacy. If you uptie any ID to tier 3, you'll get 40 Lunacy. If you finish any story node, battle or just cutscenes, that's another 40 Lunacy. The Battlepass also has a lot of Lunacy, same with the Battlepass of the side Cantos (the X.5 chapters). Not to mention, with every new content, the game is bound to break, not always, but most of the times. Be it a new ID release, a new Mirror Dungeon, a new Railway Refraction, or even a new Canto. Depending on how severe it is, emergency updates will commence, rewarding you with Lunacy once the update is completed.
 
->Pulls
+## %green% Pulls %%
 
 Never, and I mean NEVER, do pulls. It's a scam, even if Limbus Company has the most generous rates in the sea of predatory Gacha games.
 
@@ -14,7 +14,7 @@ But if you do any pulls, the only time you should ever do pulls, is when a new b
 
 And I’ll sound like a broken record, but NEVER do EGO banner pulls. It’s less than a 2% chance, and you’re better off saving your Lunacy.
 
->Runs
+## %green% Runs %%
 
 You need to do ONE Thread Luxcavation and ONE Ticket Luxcavation. You’ll do the run and never skip it. Do one run of each tier, since it'll give you 40 Lunacy the first time you complete it. The rest of your Modules will go toward Mirror Dungeon runs. The Luxcavation runs will progress your daily checkmarks, which will give you 3 shard boxes, each containing 1-3 shards/thread.
 
@@ -24,7 +24,7 @@ Every week, you’ll get Mirror Dungeon bonuses, which will get you a total of 6
 
 Note: Opening more boxes is always better than opening them one at a time in to get the most shards.
 
->IDs
+## %green%  IDs %%
 
 Let’s talk about the bread and butter of Limbus, the characters. Here are the best IDs for each of the sinners. That way, you’ll have one for each of the sinners. I'll also give a brief description in case you're looking for something specific
 
@@ -93,13 +93,13 @@ Don't bother
 
 Note: A lot of these IDs stink at Uptie 1. At the very least, you should always Uptie them to Tier 3. Uptying your IDs is more important than leveling them up. At Uptie 3, you unlock their skill 3 and passives, while Uptie 4 gives them more stuff to do. In Mirror Dungeon Normal, where you'll be spending most of your time, your IDs will always be at max level. But their Uptie Tier carries over. So even if they're at level 1 outside Mirror Dungeon, they'll be max level in the dungeon. But if they're at Uptie 1, they'll remain at Uptie 1.
 
->EGOs
+## %green% EGOs %%
 
 EGOs aren’t really necessary for 99% of the time. If you finished Canto 3, your base EGOs are more than enough. You mainly use EGOs to apply debuffs, win big clash numbers, and do AoE damage; they aren’t meant for pure high damage. There are 1.5 EGOs that are worth sharding however.
 
 Fluid Sac Heals both HP and SP for all IDs. It's your go to for team heals and a must pick if you're really, REALLY, struggling with maintaining your health and sanity. Rime Shank is powerful, but only at Threadspin 4; otherwise, it’s mediocre. Investing into Rime Shank early will eat up all of your resources, and it’s not worth it if you have nothing.
 
->Mirror Dungeon Startlight
+## %green% Mirror Dungeon Starlights %%
 
 To gain the most starlight in the fastest way possible, you need to run individual IDs every run, for six straight runs. I have managed to narrow it down and optimize the best team to farm Starlights. These IDs MOSTLY benefit from each other, including support IDs as well. Sinking, at the moment, isn’t complete due to the lack of IDs, but you’re free to add them if you lack IDs for the most optimal Starlight grind. You don't need to Uptie the support IDs to Uptie 4, you just want to Uptie them to Uptie 3 to unlock their passive skills.
 
@@ -109,17 +109,19 @@ Note: Bleed Team is going to be your MDH team thanks to Bloody Mist, so it might
 
  ![Starlight Generator](https://i.imgur.com/dv8n9tQ.png)
 
->Spending real money
+## %green% Spending Real Money %%
+
+# %green% Due to the new changes the upcoming Battle Pass, this section may not apply correctly to Season 4. It'll be updated accordingly once further information pops up %%
 
 If you’re a casual player, and don’t really care about the side content, Refracted Railway, or emptying the dispenser, then you can ignore the next section. But if you don’t mind spending money, these are what you should aim for. Listed from the most beneficial, to the least.
 
 Note: Except for the Limbus Pass, none of the packs are required for the grind guide. It's only if you don't mind spending money or if you need more resources. I'm not encouraging you, or advocating for you, to spend real money on the game.
 
->Limbus Pass
+## %green%  Limbus Pass %%
 
 The pass will make your grind much easier and will give you more unlocks as you progress. This is the bare minimum when it comes to spending money and you're more than fine grinding with the Limbus Pass alone.
 
->Paid Lunacy
+## %green% Paid Lunacy %%
 
 There are so many Lunacy packs, but don’t even bother looking at them. They’re all a scam. If you want more Lunacy, there are only two packs you should look at. ‘Monthly Lunacy Supply’ and ‘Monthly Lunacy Batch’. For $10, you get around 4k Lunacy, 800 of them being Paid Lunacy over the course of a month.
 
@@ -127,7 +129,7 @@ With Paid Lunacy, you can spend 13 of them on a cheap single pull per day. You w
 
 Standard Extractions don’t have [Ideality] so there’s no point in even looking at it.
 
->Misc.
+## %green% Misc %%
 
 Those two are your two best choices when it comes to spending real money on the game. Don’t go beyond that. BUT, if you still want to spend money (not sure why, but to each their own), ‘Weekly Enkephalin Pack’ and ‘Monthly Extraction Pack’ are the only two packs that are worth taking. The Enkephalin is the best one if you still want to grind. Going beyond 4 refills per day is not worth it, since you’ll end up in the red really fast. The extraction pack gives you 650 Paid Lunacy, for your single pulls, and a 10 pull ticket, which I don’t need to tell you, but you’ll save it only for new banners or Walpurgis Night
 

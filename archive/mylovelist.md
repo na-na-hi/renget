@@ -1,6 +1,6 @@
 # bailey's lovelist*!*
 -> *"[BAILEY'S](https://rentry.co/bailey) FAVORITE PEOPLE FOR REaLS"* <-
--> ![cr artistrydoll on tumblr :D](https://64.media.tumblr.com/3f5cdcea10739eab02c767ec7e63fbd5/43f482e0bea27822-7e/s640x960/5d3ed9eb1e0c96c043011c5cabf5088f3bbc6567.webp) <-
+-> ![cr artistrydoll on tumblr :D](https://files.catbox.moe/olszud.jpg) <-
 
 -> 𝄢𝜚⠀◞ ˬ ◟）[**BOYFRIEND!!!!**](https://rentry.co/zombieheathcliff) [ROLAN!!](https://rentry.co/b1tchwife), [Q!!](https://rentry.co/theelections), [ADAM!](https://rentry.co/TakeMyKnife), <-
 

@@ -1247,6 +1247,11 @@ Everything Wrong With the Two of Them 2 (Reaper, Forget-Me-Not, Drekus, Feral an
 I Shall Not want(Archangel, Last Rite, Rosethorn): https://rentry.org/dr6wyh78
 A Dragon's White Day (Ryu-kishi, Maru(maru), mention of the girls in 1-D): https://rentry.org/o3iji1n
 A Multi-Dimensional Valentine's Day (Ryu-kishi, Maru(maru), Last Rite, Mirror Devil, Challenger, Sunlight Man, Android, Cool Boost, Radius, Marrow): https://rentry.org/399yrhts
+News (Reaper, mentions of Forget-Me-Not): https://rentry.org/z7vhkv2s
+Mpreg Shitpost (Slimenuts, 1-F): https://rentry.org/wnnwfxna
+Spectre of Revolution (Maru(maru), Marrow): https://rentry.org/m7o3zsqc
+Vigilante Hunt, part 1 (Ryu-kishi, Last Rite, Marrow, Maru(maru), 1-D, 1-E, 1-F, Satoru Tani, Rosethorn, Karaburan): https://rentry.org/7qodqeyc
+Rehab (Overdose, Yamata, Ryu-kishi and a cameo from Goldorado): https://rentry.org/rydady6a
 
 ### The Tournament
 The Tournament Arc Prologue! (Karaburan, Rosethorn, Class 1-D): https://rentry.org/czmcm
