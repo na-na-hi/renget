@@ -9,7 +9,9 @@ very inspired by [crustcrunch](https://rentry.org/crustcrunchJB#ao3-prompts-very
 
 i use temp 1, top k 0, top p 1
 
-**["pure cooking"](https://files.catbox.moe/h3d467.json)**
+**[slightly updated](https://files.catbox.moe/3gn0ll.json)**
+
+~~[old](https://files.catbox.moe/h3d467.json)~~
 
 # gpt-4
 
@@ -45,6 +47,7 @@ Other Options
 - [x] Run On Edit
 - [ ] Substitute Regex
 
+[experimental prose jb (v5?)](https://files.catbox.moe/nhllcn.json)
 [v4.5](https://files.catbox.moe/yzmdnt.json)
 
 ~~[v4.4](https://files.catbox.moe/w3h0iw.json)~~

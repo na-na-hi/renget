@@ -118,5 +118,7 @@ Any recordings or images taken of you while this authority is active, as well as
 Allows you to create a Divine Relic. Works better for items made by the incarnation using this authority. If an authority crystal is used, a specific effect may be imparted. The item is severely damaged in the case of failure.
 
 >Grotesque Horns (1)
-
 Grows horns from your head that emit an unpleasant aura, causing nausea, vertigo, and nausea
+
+>Pride Before the Feeble (1)
+When activated, increases the strength and effectiveness of your authorities against a weaker incarnation for the duration of the battle. However, if this authority is invoked against an incarnation of greater or equal strength, a penalty is imposed upon the user instead.

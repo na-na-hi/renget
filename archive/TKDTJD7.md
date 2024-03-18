@@ -2288,3 +2288,141 @@
     >Niger breaks the military agreement with the United States, which allows American troops to remain on the territory of the African country, media report.
     >https://t.me/megatron_ron/2320  3/16/24 
     ***
+!!!danger 
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 16 (2024), against (US)-israeli forces:
+
+    >— 🇵🇸 Al-Aqsa Martyrs Brigades:
+    >🔻Targeted an Israeli military troop carrier (APC) with an explosive device, then hit it with an RPG, northwest of Hamad, near Khan Yunis.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Targeted the occupied settlements in the Gaza Strip with a rocket barrage.
+    >
+    >🔻Targeted a gathering of IOF army vehicles and soldiers near Street 10 in the south of Gaza City with short-range rockets.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the Al-Baghdadi site with rockets and directly hit it.
+    >
+    >🔻Targeted the Rameem barracks with IRAM burkan rockets and directly hit it.
+    >
+    >🔻Targeted the Al-Malkiyah site with mortar shells and directly hit it.
+    >
+    >🔻Targeted the Al-Samaqa site with rockets.
+    >
+    >🔻Targeted the Ramtha site with rockets.
+    >
+    >🔻Targeted an IOF infantry force gathering on the Karantina hill with rockets.
+    
+    >— 🇸🇾 Group in Syria (unofficial)
+    >
+    >🔻Launched a batch of rockets towards the occupied Golan Heights, without sounding sirens.
+    >https://t.me/FotrosResistance/5935  3/17/24       
+    ***
+!!!warning 
+    >🚨 According to the UKMTO, last night, a LPG-tanker vessel “MADO” was targeted by a missile, southeast of Yemen’s Aden.
+    >https://t.me/FotrosResistance/5939  3/17/24  
+    ***
+    >Palestinians are striving to make the best of aid that became lodged between buildings after being dropped onto Gaza.
+    >
+    >This situation is described as a form of humiliation by the starving residents of Gaza, considering that a significant portion of the aid dropped by air arrives in faulty or disintegrated condition.
+    >https://t.me/QudsNen/98909  3/17/24  
+    >https://files.catbox.moe/0s1orj.mp4  3/17/24  
+    ***
+    >Urgent | Al-Quds Brigades: Our mujahideen managed to snipe a Zionist soldier southwest of #Gaza City.
+    >https://t.me/me_observer_TG/170139  3/17/24  
+    ***
+    >Urgent | The resistance is engaged in violent clashes with the occupation forces, which have made limited incursions into the areas of Al-Satar Al-Gharbi and Al-Katiba in Khan Yunis.
+    >https://t.me/me_observer_TG/170140  3/17/24  
+    ***
+    >Egypt: President Abdel Fattah El-Sisi: #Egypt and #European Union leaders agree to reject any #Israeli military operation in Rafah
+    >https://t.me/me_observer_TG/170157  3/17/24  
+    ***
+    >UNRWA: "The destruction inflicted on the Gaza Strip has resulted in the formation of approximately 23 million tons of rubble. It will take years to remove the debris and dispose of unexploded ordnance."  
+    >https://t.me/QudsNen/98902  3/17/24  
+    ***
+    >Video: Scenes from the joint operation carried out by Al-Aqsa Brigades fighters and the forces of the martyr Omar Al-Qasim, targeting a gathering of Zionist enemy soldiers in the south of #Gaza City with short-range missiles.
+    >
+    >Al-Aqsa Flood
+    >
+    >Al-Aqsa Brigades - Military Media
+    >https://t.me/me_observer_TG/170189  3/17/24
+    >https://files.catbox.moe/f5dlyw.mp4  3/17/24  
+    ***
+    >The IOF admits to the death of an officer during the October 7 ambush. His corpse is held in Gaza:
+    >
+    >🔻Lieutenant Daniel Peretz, 22, platoon commander at the Nahal Oz outpost, from the 77th Battalion
+    >https://t.me/FotrosResistance/5943  3/17/24  
+    ***
+    >Urgent || UNRWA media advisor for Al Jazeera:
+    >
+    >Arrangements were agreed to protect the aid trucks until they reach those entitled to them
+    >
+    >What #Israel announced regarding the actions of some UNRWA employees remain mere allegations
+    >
+    >Only UNRWA can carry out large-scale relief operations in #Gaza  
+    >https://t.me/me_observer_TG/170310  3/17/24  
+    ***
+    >compilation of previous snipes and a new 1 km kill
+    >https://files.catbox.moe/1iymnd.mp4  3/17/24
+    ***
+    >🚨| 🇮🇶 JUST IN: Islamic Resistance in Iraq announces:
+    >
+    >At dawn today, the targeting of an air base for IOF army drones in the occupied Golan Heights, with a kamikaze drone.
+    >
+    >Iraqi resistance states it will continue and double its operations during the holy month of Ramadan.
+    >https://t.me/FotrosResistance/5950  3/17/24 
+    ***
+    > Iraq: Islamic Resistance: We targeted, using drones, an air base for the Zionist occupation drones in the occupied Golan.  3/17/24  
+    >https://t.me/me_observer_TG/170361  3/17/24
+    ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 17 (2024), against (US)-israeli forces:
+    >
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shot down an IOF "Sky Lark" drone belonging to infantry forces while conducting intelligence missions, east of Gaza City.
+    >
+    >🔻Shelled the positions of IOF soldiers, east of the central province, with a barrage of mortar shells.
+    >
+    >🔻Successfully sniped an IOF soldier, southwest of Gaza City.
+
+    >— 🇵🇸 Al-Aqsa Martyrs’ Brigades:
+    >
+    >🔻During the past 48h, carried out 14 missions, including engaging in fierce clashes and targeting gatherings of IOF army vehicles with mortar shells on the axes in the Gaza Strip, which led to many casualties.
+    >
+    >🔻Shelled, in a joint-operation with the forces of martyr Omar al-Qassim, gatherings of IOF forces in the south of Gaza City with short-range rockets.
+    >
+    >🔻Shelled a gathering of invading IOF soldiers and army vehicles, east of Deir al-Balah in central Gaza, with mortar shells.
+    >
+    >🔻Shelled the positions of the IOF soldiers with heavy caliber mortar shells on the axis east of the Central Governorate.
+    >
+    >🔻Engaged in fierce clashes IOF forces, using appropriate weapons, on the axis of Khan Younis in the south of the Gaza Strip.
+
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >
+    >🔻Shelled the "Netzarim" IOF army site with a number of mortar shells.
+    >
+    >🔻Shelled IOF army positions, northeast of Juhr al-Dik, using short-range rockets, hitting their targets and causing heavy damage.
+    >
+    >🔻In a joint-operation with the Mujahideen Brigades, Saraya Al-Quds, and Al-Husseini Groups, they targeted IOF army positions, south of Al-Zaytoun neighborhood, with barrages of B-107 caliber rockets, causing heavy losses.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted a gathering of IOF soldiers, opposite of the town of Wazani, with appropriate weapons.
+    >
+    >🔻Targeted spy equipment at the Al-Aassi site with (14.5) machine guns.
+    >
+    >🔻Targeted the Metulla site with appropriate weapons.
+    >
+    >🔻Targeted the Al-Marj site with artillery shells.
+    >
+    >🔻Targeted a gathering of Israeli soldiers in the vicinity of the Mitat barracks with rockets.
+    >
+    >🔻Targeted the Al-Samaqa site in the occupied Kfar Shuba hills with rockets.
+    >
+    >🔻Targeted a gathering of israeli soldiers in the vicinity of the Hanita site with rockets.
+    >
+    >🔻Targeted IOF army vehicles, while they entered the Al-Malikiyah site, with artillery shells.
+    >https://t.me/FotrosResistance/5948  3/17/24 
+    ***

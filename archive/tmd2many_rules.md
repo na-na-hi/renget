@@ -577,6 +577,7 @@ A special category listed underneath your character sheet, these are two move sl
     - **Pain Split**: For 4 rounds, the Afflicted stores the damage they take. At the start of the 4th round, the User may use Pain Split to inflict the stored damage on an Opponent. Effect ends early when the Afflicted faints or they don't use Pain Split, losing the stored damage.
 	- **Splintered**: For 3 rounds, the Afflicted takes *Burn* DoT.
 	- **Commanding**: The User cannot attack, but in-turn, using a Move before Allies causes subsequent Ally Attacking Moves of the same Property to deal +1 damage, increasing every successive use until +6. If the User's Move was a Status Move, subsequent Ally Status Moves cause a +1 to either Defense of Special Defense, whichever is lesser. If both Defense and Special Defense are equal, both are increased. All increases are doubled for Dondozo. If an Ally does not use the correct Property, their increases are nullified. 
+	- **!~#ce416b; Countering~!/!~#fa7179; Mirroring~!/!~#5a8ea2; Metal Burst~!**: For until the User is damaged by a !~#ce416b; Physical~!/!~#fa7179; Special~!/!~#5a8ea2; Physical or Special Move~!, damage from said Move is stored and released upon the User's next attack, with its damage added onto the attack and increased by !~#ce416b; 3~!/!~#fa7179; 3~!/!~#5a8ea2; 0~!. The damage increase specifically from !~#ce416b; Counter~!/!~#fa7179; Mirror Coat~!/!~#5a8ea2; Metal Burst~! is not affected by STAB or the User's Offensive Stats.
 
 ##### Awakening & Berserk
 

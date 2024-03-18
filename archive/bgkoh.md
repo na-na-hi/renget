@@ -7,7 +7,7 @@ You know what to call me!
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Guild Role/Occupation:** Scout/Fire specialist
 **Species:** Scorbunny | **Affiliation:** The %#40ff80%Clo%%%#e0e060%ver%% %#e060ff%For%%%#a0c0ff%ce%%
-**Level:** 13 | **Experience to Next Level:** 15/130
+**Level:** 13 | **Experience to Next Level:** 65/130
 **Worn Item:** *Defense Scarf* | **Clothing:** *N/A*
 **Pokécoin:** 814P | **Glorious Gold:** 0 Bars
 **Favourite colour:** %#40ff80%Green%% | Nature: ?
@@ -81,7 +81,7 @@ Item Name | Description
 *Equipped Item: N/A | Nothing here boss!
 1. Fire-Type Gem | Holding this feels incredibly hot. Boosts a Fire-Type move's damage by 3. Changes Rotom form if consumed.
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
-3. Empty | Nothing here boss!
+3. Oran Leaf | Heals the user for 3HP. Can stack to 3.  Stacked to 2
 4. Empty | Nothing here boss!
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

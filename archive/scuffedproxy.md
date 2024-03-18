@@ -7,7 +7,8 @@
     Jailbreak 9: Used from 16/03 07:12 UTC - current
     Send feedback.
     Disabled "Scuffed Tense" by default on the preset, fucks the prose up. Simplified "Scuffed Extras" on the preset. Rewrote impersonation to be first-person.
-    **Uptime not guaranteed.**
+
+!!! warning Possibly ending on 18/03
 
 > why do I keep getting backend/general errors?
 sometimes the account is banned and it will not work until I manually fix it. it is worse on workdays

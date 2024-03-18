@@ -497,7 +497,7 @@ Q2: Not to say you need a partner, being as talented as you are, but is there an
 >Maybe, but I wouldn't bother with a partner unless they're, like, REALLY good. Or whatever. 
 Q3: Are you looking forward to evolution? 
 >Duh. Who wouldn't? Getting bigger, badder, and stronger isn't exactly easy to pass up! I know some mons like to tell ghost stories about Rowlets evolve into weird ghost owls who have magic arrows or whatever, but that's ridiculous. Everyone knows that Decidueye aren't Ghost-types, they're Fighting-type who use mean combos and sling around Aura Spheres and stuff. Real Explorer material!
-
+Q4: I hope your first impression of the guild wasn't too traumatizing. Are there any guild members you've met so far that you can tolerate?
 
 ###Lliam
 Q1: Do you ever need to punish guild members? If so, how do you do it?
@@ -626,6 +626,7 @@ Q2: How are you adapting to the Pokemon world?
 >Sneasel: Uh... do I count as a cat? Booker told me I’m like part cat and part weasel, so guess I’ll answer. I don’t get hyper and bounce off the walls, but I do get excited sometimes, especially if I’m in a fun fight. Training and fighting help me release my energy, so I don’t get antsy too often.
 
 **Natives**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
+>Sneasel: Yeah, I do. Got parents, but no siblings. But... I dunno if I’ll ever see them again. Big dungeon shift took me away from my home, and I dunno how to get back... I miss them. My parents were pretty big on tough love, just like the rest of the tribe. But that’s cuz life on the Island was so harsh. I know they meant the best for me. I’d love to introduce Booker to everyone in the tribe, but first, we’ve gotta find the way back there... I don’t like talking about this. Next question.
 
 **Guildmons**, If your character had to trade partners with another guild members, which other partner do you think would suit them best?
 >Adrian: I don't want to be partners with anybody, but if I was forced to, Toge was alright during that one job we did together.
@@ -689,3 +690,5 @@ If clover guild did not exist, where would you be at this point in time?
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.
 
 >Ribombee-anon: I’d definitely be living a more boring and lonely life without the guild, that’s for sure. I also would’ve never gotten into art like I did after joining this group. As for stories, I was already writing stories before the guild, but I kept them to myself (aside from a handful of exceptions). The guild gave me more confidence about sharing my writing, and I’m grateful for that.
+
+>Flareon-anon: I'd have ditched my creative side entirely. I hadn't written for fun since I started taking Creative Writing classes in High School, so about 5 years. I wasn't making any use of my drawing pad and considered selling it. Would've just continued lurking /v/ in my free time

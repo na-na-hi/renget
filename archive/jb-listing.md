@@ -11,6 +11,8 @@ https://rentry.co/CharacterProvider
 
 https://rentry.co/crustcrunch
 
+https://rentry.org/camicle-jb
+
 https://rentry.org/ArfyJB
 
 https://rentry.org/SmileyTatsu#smiley-jailbreak
@@ -26,6 +28,8 @@ https://rentry.org/pixibots#claude-3-prompt
 
 https://rentry.org/cheeseypretzel
 
+https://rentry.org/pitanonprompts
+
 https://unconvincing.neocities.org/
 
 https://rentry.org/bloatmaxx
@@ -34,8 +38,6 @@ https://rentry.org/bloatmaxx
 https://rentry.org/MyuuTastic
 
 https://rentry.org/KaruKaruBagOfGoodies
-
-https://rentry.org/pitanonbots#claude-rp-prompts
 
 https://rentry.org/fumblebum
 
@@ -68,8 +70,6 @@ https://dumb.one/gpt/prompts/my-tavern-prompts.md
 ***
 #####GPT-4-0125-preview (nurbo)
 https://rentry.org/neo-furbo
-
-https://rentry.org/camicle-jb
 
 ***
 #####GPT-3Turbo

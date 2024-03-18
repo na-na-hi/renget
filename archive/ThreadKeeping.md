@@ -36,7 +36,7 @@ https://rentry.org/b595h6dm
 >D
 >>92035734
 >Himari Miko
->>92038530
+>>92038530 + Jutsus: https://rentry.org/HimariJutsu
 >Takeru Suzuki
 >>92037873
 
@@ -46,7 +46,7 @@ https://rentry.org/b595h6dm
 >Shimabukuro Fumio
 >>92034456
 >Kichōna
->>92030925
+>>92030925 + Jutsus: https://rentry.org/NardoKichonaJutsuList
 >Nodao-Douji
 >>92130402
 
@@ -54,7 +54,7 @@ https://rentry.org/b595h6dm
 >Kamiko Karatachi
 >>92045112
 >Masukuda Rarime
->>92046207
+>>92046207 + Jutsus: https://rentry.org/nbd7ikrf
 >Ichika Chinoike
 >>92067827
 >Kita
@@ -68,7 +68,7 @@ https://rentry.org/b595h6dm
 >Itami Nanae
 >>92041809
 >Kazen Uzumaki
->>92129825
+>>92129825 + Jutsus: https://rentry.org/5kp2svbp
 
 >Team 5
 >Ezaki Tuto
@@ -76,7 +76,7 @@ https://rentry.org/b595h6dm
 >Jin Hyuga
 >>92067527
 >Shinrō Kamotai
->>92105219
+>>92105219 + Jutsus: https://rentry.org/ShinroJutsu
 >Yuma Kouda
 >>92056996
 
@@ -84,7 +84,7 @@ https://rentry.org/b595h6dm
 >Tsugumi
 >>92078303
 >Ghidorah
->>92069165
+>>92069165 + Jutsus: https://rentry.org/xant7fe2
 >Junki Takenaga
 >>92074519
 >Sen Yamamoto
@@ -142,6 +142,9 @@ Page 2
 >>92181406
 >Sado Mazohisuto
 >>92181768
+>Kanami-Douji
+>>92194017
+
 
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
@@ -161,6 +164,8 @@ Operation Tragic Backstory (WIP)
 https://rentry.org/weizoy62
 Kamare's dilemma
 https://pastebin.com/JQ98X9ae
+New Things (Ichika)
+https://rentry.org/x586zu28
 
 Artfags:
 Kiko's Genin Team 4 (Kiko, Itami, Remilia, Kazen)
@@ -175,6 +180,12 @@ Narto (Blackshadow, Kita, Yuma, Shinro)
 >>92151131
 Ichika vs Junki
 >>92176363
+Ezaki's genin team 5 (Ezaki, Shinrō, Yuma, Jin)
+>>92194798
+Tsugumi's Team 6 (Tsugumi, Ghidorah, Junki, Sen)
+>>92194804
+Team 7(Fujiwara, Kamare, Daiki)
+>>92194812
 
 Relationship Charts:
 Masu
@@ -203,18 +214,6 @@ Kamiko
 https://rentry.org/KamikoRelations
 Sen
 https://rentry.org/tneot7wz
-
-Jutsu List:
-Kazen:
-https://rentry.org/5kp2svbp
-Shinro:
-https://rentry.org/ShinroJutsu
-Kichōna:
-https://rentry.org/NardoKichonaJutsuList
-Masukuda:
-https://rentry.org/nbd7ikrf
-Ghidorah:
-https://rentry.org/xant7fe2
 ```
 
 #Fighting Autism Tournament
@@ -584,12 +583,10 @@ https://rentry.org/MHACards
 
 >New Stuff:
 New Writefag:
->News (Reaper, mentions of Forget-Me-Not)
-https://rentry.org/z7vhkv2s
->Mpreg Shitpost (Slimenuts, 1-F)
-https://rentry.org/wnnwfxna
->Spectre of Revolution (Maru(maru), Marrow)
-https://rentry.org/m7o3zsqc
+>Vigilante Hunt, part 1 (Ryu-kishi, Last Rite, Marrow, Maru(maru), 1-D, 1-E, 1-F, Satoru Tani, Rosethorn, Karaburan)
+https://rentry.org/7qodqeyc
+>Rehab (Overdose, Yamata, Ryu-kishi and a cameo from Goldorado)
+https://rentry.org/rydady6a
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768
@@ -1169,6 +1166,10 @@ https://rentry.org/399yrhts
 https://rentry.org/z7vhkv2s
 >Spectre of Revolution (Maru(maru), Marrow)
 https://rentry.org/m7o3zsqc
+>Vigilante Hunt, part 1 (Ryu-kishi, Last Rite, Marrow, Maru(maru), 1-D, 1-E, 1-F, Satoru Tani, Rosethorn, Karaburan)
+https://rentry.org/7qodqeyc
+>Rehab (Overdose, Yamata, Ryu-kishi and a cameo from Goldorado)
+https://rentry.org/rydady6a
 
 >RELATIONSHIP CHARTS IN HERE
 https://pastebin.com/rsnEph0b

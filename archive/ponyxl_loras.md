@@ -34,6 +34,7 @@ WeLost | Works fine with a strength of `0.8` up to `1.0`; add `(realistic:1.1)` 
 -> Name <- | ->Details <- | Hash |  Source | Samples | Download
 ------ | ------ | :----: | :----: | :----: | :----:
 Lily Longsocks | Activation tag is `lily longsocks`, recommended to specify her race when prompting ponies | 44739756f368 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40897498) | [catbox.moe](https://catbox.moe/c/yx0bww) | [pomf.lain.la](http://pomf2.lain.la/f/ogfy8ejh.safetensors)
+Wind Sprint | Activation tag is `wind sprint` | 1151cda3b612 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40914981) | [catbox.moe](https://catbox.moe/c/qpw5jv) | [pomf.lain.la](http://pomf2.lain.la/f/4dmr48jd.safetensors)
 
 ***
 

@@ -1,7 +1,7 @@
 !!! info Please do not [hotlink](https://dictionary.cambridge.org/us/dictionary/english/hotlink#google_vignette), aka, using the gif url from this rentry. Save the gifs and upload them to [Catbox](https://catbox.moe)! Credit isn't required, but helpful to those who need to find this rentry!
 
 ->![div](https://files.catbox.moe/e0icee.png)
-![Hello, please do not steal my graphic. Light/Heavy inspo is not allowed, a couple of you have ruined that from me. Contact me @4PMVOID on discord or retrospring if needed. Do not contact any of my other socials. Thanks.](https://files.catbox.moe/uszf2u.png) <-
+![Contact me @4PMVOID on discord or retrospring if needed. Do not contact any of my other socials. Thanks.](https://files.catbox.moe/uszf2u.png) <-
 -> ![sista](https://files.catbox.moe/yyphbj.gif) ![teen](https://files.catbox.moe/brwh26.gif) ![special](https://files.catbox.moe/ip3ly6.gif) ![sassy](https://files.catbox.moe/x1wgjf.gif) ![love me](https://files.catbox.moe/8lt86s.gif) ![special](https://files.catbox.moe/ip3ly6.gif) <-
 -> ![bunny](https://files.catbox.moe/xeca50.gif) ![doll](https://files.catbox.moe/2rguo1.gif) ![angry](https://files.catbox.moe/tr98ev.gif) ![adorable](https://files.catbox.moe/cjrsa9.gif) ![kiss me](https://wilardo.crd.co/assets/images/gallery18/16fe8a22.gif?v=a363c8e1) ![hug me](https://files.catbox.moe/neyq12.gif) <-
 -> ![naughty](https://files.catbox.moe/lqp4xt.gif) ![lovely](https://files.catbox.moe/lijz4i.gif) ![beautiful](https://files.catbox.moe/h0vtu2.gif) ![punky](https://files.catbox.moe/tsdnbu.gif) ![sweetheart](https://files.catbox.moe/zz41vx.gif) <-

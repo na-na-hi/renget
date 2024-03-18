@@ -6,15 +6,14 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 289th time, what is Ope?!
+For the 290th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-▼ Next known appearances
-03/15 9:45PM, Advent -The Road to EXPO 2024-, recorded stream on the Hololive official channel
 ▼ Next stream: TBA
 ▼ Recent appearances
+03/16 Advent -The Road to EXPO 2024- collab: https://www.youtube.com/watch?v=8QoPUb7BA0Y&t=5719s
 03/16 karaoke offcollab with FWMC on FWMC's channel: https://www.youtube.com/watch?v=dnATI1YAoTU
 03/16 Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=w740m36qz2o
 03/15 Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=y69ee5hIW48
@@ -23,7 +22,7 @@ Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololi
 03/13 Twitter space with Kiara: https://twitter.com/i/spaces/1djGXNZmmlBxZ
 03/12 Twitter voice with Kiara: https://twitter.com/takanashikiara/status/1767452224651985249
 03/12 Twitter voice with FWMC: https://twitter.com/fuwamoco_en/status/1767521725766664632
-▼ Last stream (first zatsudan from Japan, 03/12)
+▼ Last stream (zatsudan in Japan, 03/12)
 https://www.youtube.com/watch?v=lgnBEaH-Rh8
 
 \>Songs
@@ -45,7 +44,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>71562416
+Previous thread: >>71686001
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

@@ -101,10 +101,8 @@ Wraps divinity around your body like armor, protecting you from physical harm an
 >Around Every Corner (1):
 Allows you to observe any individual who has succumb to your divinity within ten miles, multiplied by the level of this authority
 
-
->Pride Before the Feeble (1)
-
-When activated, increases the strength and effectiveness of your authorities against a weaker incarnation for the duration of the battle. However, if this authority is invoked against an incarnation of greater or equal strength, a penalty is imposed upon the user instead.
+>Weapon Training (Claws) (3):
+Does not consume divinity. Gives proficiency with a chosen weapon. Can be taken multiple times. The focus of this skill can be changed by expending the influence required to level it up. You may also infuse divinity into the weapon of choice, increasing its destructive power (max of 30 per minute)
 
 ##Miracles (1/5):
 
@@ -142,8 +140,6 @@ Synchronization Rate: 10%
 Synchronization rate: 1%
 >Dysnomia, Goddess of Lawlessness: 
 Synchronization rate: 79.83%
->Philotes, Spirit of Friendship and Intercourse: 
-Synchronization Rate: 3.3%
 >Opaline Offering, Cretan Bull: 
 Synchronization Rate: 82.5%
 >Tisiphone, Avenger of Murder: 

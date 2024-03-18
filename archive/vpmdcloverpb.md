@@ -246,8 +246,9 @@ Ross (M), Smeargle
 ###Tybo
 >Tybo is a male Skitty, native to the pokemon world. Prior to his entry into the Clover Guild, he was an isolationist living alone in a cabin in an arctic area. He’s pretty greedy, and tends to loot “abandoned” places he finds and sells them. He never steals anything where there are people around and doesn’t like stealing from someone unless he sees them as a shitty person or if the place is abandoned, or just in a general state of chaos where someone stealing another’s belongings is of least concern. He tends to not think too much ahead and acts in the moment, he’s also really lucky when it comes to staying out of trouble, he most goes with the flow and silently observes whatever drama is going down at the moment, although he never gossips about it and keeps all his knowledge to himself. Tybo isn’t very malicious, but he’s far from being an angel.
 
-###Togetic
-[Togetic personality in full (Read This)](https://rentry.org/gh4q9mif)
+###Togetic/Dewott
+[Full Personality Blurb)](https://rentry.org/gh4q9mif)
+TL;DR below
 >Extremely shy and tends to keep to himself. Can get easily flustered if pulled into a conversation or is in a crowded area with a lot of noise. However will always lend a helping hand when asked, unless the request is joining an adventuring team, in which case he needs some convincing to join. Can be seen as cold by other guild members due to how he avoids interacting with people, but he does care about keeping his fellow guild members safe and healthy. Worried about being on adventuring teams due to his incompetence, low self-esteem, and clumsiness in fights, and also because of his bad luck with using metronome.
 
 ###Elm
@@ -319,11 +320,17 @@ Ross (M), Smeargle
 
 >Bill is cautious and more methodical, always looking towards the heuristics and processes behind a situation. He has a powerful drive once he's decided on something. Even though he is shy to most and sardonic to Gill because of the ridiculous circumstances, he is ultimately a caring individual. Psychology student.
 
-###Pikachu
+###Pikachu/Ampharos
 >Pikachu (name pending) is a bashful-natured human-turned-Pokémon who comes off as a bit of a dense airhead. She's someone with incredibly good intentions, but her naivete, gullibleness and tendency to catastrophise and panic over the most minor of problems means her efforts often come off as clumsy at best and flat-out dangerous at its worst. Despite her naturally spacey, silly, and sometimes stupid demeanour, she's surprisingly perceptive at times and tends to be one of the more worrisome types out of the Clover Guild. She's a crybaby at times, too. She's got a lot of knowledge about Pokémon, but it's less of the useful combat stuff and more like tons of extremely obscure trivia which she's more than happy to ramble to you about, but gets incredibly embarrassed when you point out that she's rambling
 >Because of the fact she isolated herself so hard in her human life, she's more than enthusiastic about going on adventures into dungeons and trying to befriend the other guildmembers. She's a bit of a scaredy-cat though and doesn't like exploring alone. While she's overjoyed to be able to experience a world she adores, she's the most likely 'mon to experience bouts of homesickness and worries for her family back in the human world.
 >The most likely to be the only person in a room who uglysnorts and break out into uncontrollable laughter when an anonmon makes a stupid meme reference. Or any bad joke at all, really.
 >Also the most likely to start obsessively fawning over cute things/pokémon (not in that way, you degenerates)
+
+>Ampharos
+>A renowned explorer veteran who stopped exploring officially after the death of his partner in a brutal accident that occurred during a dangerous mission. While he's generally calm and jovial on the outside, there's a certain emptiness behind his eyes and a jaded edge to anything he says. Absolutely uncharacteristically terrifying when you get him angry.
+>While he doesn't classify himself as an explorer anymore, he still occasionally takes on tasks that he finds during his travels simply out of the goodness in his heart. On one occasion, this was how he found Pikachu by saving her from an Outlaw. Following this, she begs to be his student - and while he denies her, he still visits Capim Town and the Guild every so often to help train her in the art of exploring and controlling her own electric attacks.
+>Pikachu reminds him of his dead partner.
+>Generally a mysterious guy who's hiding a whole bunch of things.
 
 ###Clara/Smoke
 [See Linked](https://rentry.org/imwuw)

@@ -100,8 +100,8 @@ the list of prominent frontends for chat-botting:
 |frontend		 |type				|phone support 		|LLM/API support	|proxy support	|number of settings	|interface simplicity	|extra
 |--|--|--|--|--|--|--|--|
 |!~ **[SillyTavern](https://github.com/SillyTavern/SillyTavern)** ~! |node.JS software	|Android via Termux	|all majors			|`high`			|`very high`		|low					|docs/readme is fragmented and incomplete; in-built programming language for scripts; extensions|
-|!~ **[Risu](https://risuai.xyz)** ~!		 |web-app 			|full				|all majors			|mid			|`high`				|`high`					|can't do Prefill on Claude!|
-|!~ **[Agnai](https://agnai.chat)** ~!		 |web-app 			|full				|all majors			|low			|mid				|mid					|in-built LLM: Mythomax 13b|
+|!~ **[Risu](https://risuai.xyz)** ~!		 |web-app 			|full				|all majors			|mid			|`high`				|`high`					|Read [there for details](https://desuarchive.org/mlp/thread/40879028/#q40883279) how to do Prefill on Claude|
+|!~ **[Agnai](https://agnai.chat)** ~!		 |web-app 			|full				|all majors			|mid			|mid				|mid					|in-built LLM: Mythomax 13b|
 |!~ **[JanitorAI](https://www.janitorai.com)** ~!	 |bot-centered site	|full				|GPT, Kobold AI		|mid			|low				|`high`					|in-built LLM: JanitorLLM|
 |!~ **[Venus](https://venus.chub.ai)** ~!		 |bot-centered site	|full				|all majors			|mid 			|mid				|`high`					|in-built LLM: Mythomax 13b|
 

@@ -1,5 +1,11 @@
->Another Abrams near Berdychi 
-https://files.catbox.moe/orfcx6.mp4 
+>The very undemocratic voters of Russia
+https://files.catbox.moe/61bupi.webm
+>Syrskyi's son wants to become a Russian citizen
+https://files.catbox.moe/ibb47t.mp4
+>the 'successful' protest of the 2024 election
+https://files.catbox.moe/vhtuzi.mp4
+>Different angle on Abrams near Berdychi
+https://files.catbox.moe/orfcx6.mp4
 >Ru soldier shoots down Baba Yaga drone 
 https://files.catbox.moe/z6qgxl.mp4 
 >Vampire MLRS rekt 

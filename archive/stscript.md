@@ -1212,4 +1212,13 @@ Kudos to the anon whose template I'm using, I tried finding the rentry I got it 
 
 Anyway, this works best with cards that only feature a single character to control, and does more harm than good with CYOA-adjacent cards. And it also eats up tokens by generating the CoT part, usually around 150-200 or so. And you may also want to add buttons to init and roll the "experts", because it's easier to do that when switching between cards or convos. But again, it's better than nothing.
 
+###### Variation Selector
+This isn't as much a STscript trick than a prompt trick, and also something I'm stealing from someone in the threads. But it does involve macroes, so I feel like it fits in this document.
+
+To help the AI be less same-y with its responses, put something like this into your prompt structure (I would recommend putting it at the very end):
+```
+Assistant will make the length of its next response `{{random: very short, short, average, long, very long}}`.
+The dialogue-to-narration ratio (not counting thinking) will be `{{random: vastly more dialogue, more dialogue, equal parts dialogue and narration, more narration, vastly more narration}}`.
+```
+
 ######TBD

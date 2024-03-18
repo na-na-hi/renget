@@ -271,3 +271,16 @@
     >Despite being injured by Israeli strikes on Gaza, 11-year-old Palestinian girl Yosra manages a stall to sell goods and support her family amidst the dire situations during the ongoing war.
     >https://files.catbox.moe/kctfp9.mp4  New  3/16/24   
     ***
+    >This situation is described as a form of humiliation by the starving residents of Gaza, considering that a significant portion of the aid dropped by air arrives in faulty or disintegrated condition.
+    >https://files.catbox.moe/0s1orj.mp4  New 3/17/24
+    ***
+    >Video: Scenes from the joint operation carried out by Al-Aqsa Brigades fighters and the forces of the martyr Omar Al-Qasim, targeting a gathering of Zionist enemy soldiers in the south of #Gaza City with short-range missiles.
+    >
+    >Al-Aqsa Flood
+    >
+    >Al-Aqsa Brigades - Military Media
+    >https://files.catbox.moe/f5dlyw.mp4  New 3/17/24  
+    ***
+    >compilation of previous snipes and a new 1 km kill
+    >https://files.catbox.moe/1iymnd.mp4  New 3/17/24  
+    ***

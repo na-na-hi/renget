@@ -10,7 +10,7 @@ exploring. **Credit** the creators if needed.%%
 %#760000%[Dribbble](https://dribbble.com/tags/free_font)%% <-
 ***
 -> %black%∔%% ![](https://files.catbox.moe/xxodh2.gif) %#760000%།%% ⠀%black%**Pixels & Graphics**%% %#760000% ˖%% <-
--> %#760000%[Mine](https://rentry.co/nezumipixels)%% ⠀  %black%[Mikejima](https://mikejima.crd.co/#s)%% ⠀  %#760000%[Xyz](https://xyz.crd.co/#tiny)%% ⠀  %black%[**Rsrcs**](https://rentry.org/rsrcs)%% ⠀  
+-> %#760000%[Mine](https://rentry.co/4pixels)%% ⠀  %black%[Mikejima](https://mikejima.crd.co/#s)%% ⠀  %#760000%[Xyz](https://xyz.crd.co/#tiny)%% ⠀  %black%[**Rsrcs**](https://rentry.org/rsrcs)%% ⠀  
 %#760000%[Resource](https://rentry.co/resourcepixels)%% ⠀ %black%[Barok](https://barok.crd.co/#pixels)%% ⠀ %#760000%[Supplies](https://supplies.ju.mp/#tiny)%% ⠀ %black%[Biscuit](https://biscuit.crd.co/#pixels)%% 
 %#760000%[Wilardo](https://wilardo.crd.co/#pixel)%% ⠀ %black%[Strategist](https://strategist.neocities.org/tinypix)%% ⠀ %#760000%[Pixelcore](https://rentry.co/pixelcore)%%
 %black%[Watermelon](https://watermelon.crd.co/#graphics)%% ⠀ %#760000%[Wilted](https://rentry.co/WILTEDPIXELS)%% ⠀ %black%[Miko Pixels](https://rentry.co/mikopixels)%% 
@@ -28,7 +28,7 @@ exploring. **Credit** the creators if needed.%%
 %#760000%[Nuevebesitos](https://rentry.co/nuevebesitos)%% ⠀ %black%[Zombieteef](https://zombieteef.drr.ac)%% ⠀ %#760000%[**Symbols**](https://sntry.cc/symbols)%% ⠀ %black%[**Emojicombos**](https://emojicombos.com/kaomoji)%% ⠀ %#760000%[**Yaytext**](https://yaytext.com)%% ⠀ %black%[**Symbols**](https://rentry.co/bordersymbols)%% <-
 ***
 -> %black%∔%% ![](https://files.catbox.moe/xxodh2.gif) %#760000%།%% ⠀%black%**Dividers**%% %#760000% ˖%% <-
--> %#760000%[Mine](https://rentry.co/nezumidividers)%% ⠀   %black%[Moone](https://rentry.co/ppuao)%% ⠀  %#760000%[**Rsrcs**](https://rentry.org/finnsdividers)%% ⠀ %black%[Wilardo](https://wilardo.crd.co/#div)%%
+-> %#760000%[Mine](https://rentry.co/4dividers)%% ⠀   %black%[Moone](https://rentry.co/ppuao)%% ⠀  %#760000%[**Rsrcs**](https://rentry.org/finnsdividers)%% ⠀ %black%[Wilardo](https://wilardo.crd.co/#div)%%
 %#760000%[Mikejima](https://mikejima.crd.co/#d)%% ⠀%black%  [Enchantments](https://enchantments.carrd.co/#div) %%⠀  %#760000%[Namie](https://namie.uwu.ai/#dividers) %%
 %black%[Phonecharm](https://phonecharm.carrd.co/#divs) %%⠀ %#760000% [Guobeng](https://rentry.co/guobengdiv) %%⠀%black% [Smiled](https://rentry.co/smiIed)%%
 %#760000% [Ciel](https://rentry.co/cieldividers) %%⠀ %black%[**Border Dividers**](https://rentry.co/borderdividers)%% <-

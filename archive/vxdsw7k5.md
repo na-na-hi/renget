@@ -50,6 +50,7 @@
 - https://www.chessercise.xyz
 - https://chesshub.com/puzzles/new
 - https://www.chess.com/puzzles/learning
+- https://chesstraining.app
 - https://chessneurons.com
 - https://www.ozproblems.com/weekly-problems
 - https://www.yacpdb.org

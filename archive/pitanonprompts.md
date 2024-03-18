@@ -1,11 +1,11 @@
-# Pitanon's Prompts
-#Bots: rentry.org/pitanonbots
+# [Pitanon's](https://rentry.org/pitanonbots) Prompts
 -> **Send feedback, ideas, or problems to pitanon03@proton.me** <-
 [TOC3]
 
 ### Anthropic Presets
 | Model | Version | Date | Chat Completion Preset | Major changes
 |---|---|---|---|---|
+Claude 3 Opus | v1.32 | 18/03/2024 | https://files.catbox.moe/jdkbna.json | Modified the "Anti-whore" prompt and added a small prompt before the {{personality}} macro in <assistants_character>.
 Claude 3 Opus | v1.31 | 16/03/2024 | https://files.catbox.moe/ytyu9x.json | Changed "Jailbreak" prompt name to be "Confirmation". Also changed the wording of a few things towards the end of the preset and moved example dialogue outside of the System prompt.
 Claude 3 Opus | v1.3 | 16/03/2024 | https://files.catbox.moe/a7wtx4.json | Moved Assistant's character back to the Human role and reworded some of the prompts to make responses more based on what {{user}} is perceiving {{char}} doing, meaning that responses are mostly action, dialogue, or descriptions.
 Claude 3 Opus | v1.21 | 15/03/2024 | https://files.catbox.moe/28ayqi.json | Used a work around to send Assistant's Character as the Assistant role as originally intended and added a rule to (hopefully) prevent {{char}} describing {{user}}'s reaction at the end of the response [failed].

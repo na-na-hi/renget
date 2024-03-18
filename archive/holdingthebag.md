@@ -1,5 +1,5 @@
 !!! Info Blue Archive General Clubs/Circles/Friend Database
-!!! Note Last updated: 15th March. All dates dd/mm.
+!!! Note Last updated: 17th March. All dates dd/mm.
 If you need a club added or have an update for your club, please post in the general with the words "club" or "rentry" in your post or quote the OP, I check daily and pick up any changes.
 
 Servers/clubs are region specific.
@@ -108,6 +108,7 @@ Club ID | Club Name | Club Status
 --: | -- | ----
 6 | Arona#1 | Open as of 12/03
 777 | Soras5Head | Open as of 09/03
+8192 | Mesugaki | Full as of 17/03
 12395 | 中出しの幸せ (cumshot happiness) | Open as of 04/03
 
 ##### Full
@@ -127,7 +128,6 @@ Club ID | Club Name | Club Status
 6488 | Kanimochi | Full as of 15/01
 6665 | F2Poor | Full as of 15/01
 6786 | Enuji | Full as of 30/09
-8192 | Mesugaki | Full as of 01/12
 8785 | Frogs | Full as of 21/11
 8851 | RedArchive | Full as of 06/03
 9425 | Squishables | Full as of 03/04

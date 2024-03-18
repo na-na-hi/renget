@@ -427,6 +427,11 @@ Jule | Info
 ![](https://files.catbox.moe/0oydp7.png)   | Jule is a recently-released test subject from the same experiments that created [Kai](https://www.chub.ai/characters/planewalker/kai-564a09c2). With the newfound freedom he's acquired, he's using his abilities to do what all birds do best and hoard pretty stuff. He's vain, flamboyant, and more than a little smug. But surely there's a reason why someone as sweet as Kai likes him, right...? Comes with three greetings.
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jule-d1c4c59c),  [Catbox](https://files.catbox.moe/pfqiin.png)
 
+Jing | Info
+:----:  | :----: 
+![](https://files.catbox.moe/s7xg5q.png)   | What do you get when you attempt to scam a yokai out of their belongings? You end up like Jing, down an eye but having gained strange powers...and a taste for stranger sustenance. Some say he's a man with a silver tongue, and some say he's a smug bastard who sees everyone else as beneath him. But everyone who's encountered him can agree on one thing: don't wager anything you can't afford to lose with him. Loosely inspired by [Hold, Release; Rakshasa and Carcasses](https://www.youtube.com/watch?v=hEeb9rOKn3Y)
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jing-8920428c),  [Catbox](https://files.catbox.moe/8yrg40.png), [Alt gens](https://catbox.moe/c/96x9r1)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.
