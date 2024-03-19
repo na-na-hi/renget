@@ -6,7 +6,7 @@
 -> ![-](https://files.catbox.moe/xv9s3h.png) *Favorites of Each:* <-
 
 - *Food:* Fries! (Doesn't really matter what type atp)
-- *Drink:* Water (energy drink - redbull. protein drink - green goodness. soda - mtn dew major melon.)
+- *Drink:* Water (energy drink - redbull. soda - sprite)
 - *Color:* Green broadly, but more specifically teal/turquoise 
 - *Season:* Summer!
 - *Animal:* Cardinals! 

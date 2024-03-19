@@ -9,10 +9,6 @@ i'm arab, palestinian to be specific.
 
 i'm sixteen years old, i turn seventeen on december 26th.
 
-i'm a trans boy and my sexuality is unlabelled.
-
-i have bpd 
-
 **do not interact** 
 if you fit the basic dni 
 

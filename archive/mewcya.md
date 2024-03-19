@@ -1,0 +1,9 @@
+->![](https://files.catbox.moe/hvdlz7.png)<-
+->![](https://files.catbox.moe/7hfzmi.gif)<-
+->***the persona series*** is my main special interest *!* ![](https://files.catbox.moe/usnpck.gif)<-
+->**Persona 3** is my favorite~<-
+->*my favs ever are **kotone shiomi (femc)** and **mew (pokemon)**. I DO NOT play abt them. ask to see my merch of them too <3*<-
+ ->**media -** *persona, pokémon, chainsaw man, ff7, pjsk, mh gen1, mlp gen4, south park, gloomy bear, super sonico, sailor moon, madoka magica, more.*<-
+->**music -** *too much to name here but I really like MCR and Grimes. also all persona soundtracks ofc. (including 1/2)*<-
+->**other -** *cats, cheetahs, menhera subculture, video games*<-
+->![](https://files.catbox.moe/u1a3mv.gif) ![](https://files.catbox.moe/aj0cqr.gif)<-

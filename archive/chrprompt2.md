@@ -255,8 +255,19 @@ Q4: Did you ever watch any Bob Ross episodes as a human?
 
 ###Elm
 Q1: We've seen you eat the dreams of a few guildmons, with dire consequences.  Have you kicked the habit completely?  Or do you still indulge in a bit dream eating from time-to-time?
+>After that fiasco I've decided to only use it on dungeon Pokémon since they have no dreams, meaning they won't cause me to go berserk again. But that is not set in stone, so I might use it again if someone needs my help getting rid of nightmares or something like that.
+>I will admit that messing with peoples' dreams for shits n' giggles again is tempting, but last time I did that Gus ended up finding out what I did and...
+>(*Flashbacks of getting an ass whooping*)
+
 Q2: Ever think you're gonna beat your weakness to normal types, or as I like to call them, *normies*?
+>Oh, I actually solved that quite a while ago. Turns out that all I had to do was %red%REDACTED%%
+>(The answer will be in Overelming Week day 6, coming ~~soon~~ ~~one day~~ before the end of the year :) )
+>But I still like calling them normies, haha!
+
 Q3: Can you remove your skull "mask", or is that actually a part of your body?
+>To be honest, I don't know. I once wondered about that myself, so I tried tugging on it lightly and it didn't come off.
+>It *might* have come off if I pulled harder, but then I started considering the possibility of me managing to pull it off, followed by me not being able to attach it again.
+>Also, if I pull my mask off I might die or it could be extremely painful. So the risks are not worth whatever benefit I would get from being able to remove it.
 
 ###Error
 Q1: Have you found any hobbies in the Pokemon world?  Made any friends?
@@ -550,6 +561,9 @@ Q1: What's your opinion of Snorlax as a Pokemon?
 Q2: How are you adapting to the Pokemon world?
 >The Pokémon world is pretty chill. I get to avoid the stresses of the human world and get to explore the world with my best friends. Although, since arriving in the Pokémon world, I’ve grown to feel like I’m missing something important. This world is fun, but I kinda want to go back. Doesn't help that I'm always hungry since I'm a Munchlax. I even keep an everstone with me at all times to prevent me from evolving despite my love for Snorlax. This is because I don't want to evolve and not be able to do anything other than sleep and eat. I would not be able to have any more fun adventures with my team or perhaps even find a way out of the Pokémon world.
 
+###Fynn
+Q1: If you decided to style your fur, what Furfrou trim would you choose?
+
 ##->**General Questions**<-
 
 **To any 'mon who fights often**, is there something that you specifically avoid when picking a fight? Be it either a certain species of pokemon or a type of skill?
@@ -651,6 +665,8 @@ Q2: How are you adapting to the Pokemon world?
 
 >Lliam: Overflowing psychic power... %darkred%It hurts%%. It's like being crammed inside a cage. Espurrs are cursed creatures; 'letting it go' is like sneezing, which will result in destruction around you. Marvel to those that can hold a smile on their faces despite the eternal struggles...
 
+>Elm: It sure would have been nice to know about the drawbacks of phasing through walls before I started playing around inside them and the next thing I know I'm starving to the point of feeling like I could eat a whole Tauros!
+ 
 **Dog, cat, and fox mons**: Do you ever get the zoomies?
 >Adrian: Never
 >>Enny: All the time!
@@ -689,6 +705,7 @@ Q2: How are you adapting to the Pokemon world?
 >Cider: Obviously suspicious, but hey, them tracking me down and offing me in my own dorm would at least be a mercy kill. I'd respect the commitment!
 
 **Everyone**, It's a holiday! (is there such a thing in the PMD world?) How would like to spend your time in this ocassion? Would you still work and rescue Pokemon in Mystery Dungeon? Travel somewhere, err... lavish? Hang out in the guildhall all day long?
+>Elm: Holidays usually mean seasonal food and customs, meaning it's time to walk around downtown!
 
 **Former humans**, Let's say PMD is an existing video game for us humons. Would you feel a bit of dread that you're in a world that's so similar to that video game? And would you tell your partner, or any native mon? Perhaps mention about it to other humons?
 
@@ -701,6 +718,10 @@ Q2: How are you adapting to the Pokemon world?
 >Makuhita: My friends and family. I'm worried about my little brother in particular. I know he's in college now, but he was never the best at standing up for himself.
 
 >Lliam: Deserts.
+
+>Elm: Rice! 
+>...
+>Just kidding! My actual answer is MEAT!!! Slowpoke tails are nice and all, but they still don't compare to juicy steaks or crispy karaage.
 
 **Guildmons**, Let's say a fellow guild member messed up on their mission, big time, and then the client confronts you about it. Would you tell them the truth or would you cover for them?
 
@@ -750,6 +771,8 @@ Before joining this clover guild thing, do you have a completely different pokem
 
 >Meowstic-anon: I originally intended to use Salazzle as the character and the guildmaster (if the option was still available). She would have a personal Salandit subordinate that does work for her in the background while she does normal guild stuff. I can't remember much as it has been so long ago, but I recalled that the main focus is on some certain Salandits with distinct personalities and just messing around during errands for Salazzle. Salazzle herself entered the world as a Salandit who served an avaricious Salazzle master. She greatly dislikes and rebels against that; of course, she fails, but she keeps coming back up until eventually she manages to pull off a "coup." And with that, everyone was set free. Some of the Salandits decide to follow her, not because of the pheromones, but because they were inspired by her charisma and swore loyalty to her to the depths of the earth. She was hesitant at first but eventually came to accept them once she evolved into a Salazzle. As for her name, she didn't have any when I wrote the story for her, but after I reused the character for something else, her name would be Snapdragons, like the flower. The reason I changed my mind was because, honestly, people might find it strange to have Salazzle as guild master, like it will give the wrong impression of the guild, both in-universe and in the threads, heh, and also because I remembered I don't want to play a female character again, and thus I chose the one I'm currently using now.
 
+>Elm-anon: My first consideration was the Gengar line, but having the character start pre-evolved didn't sit right with me at the time, so Haunter and Gengar were out of the question. On the other hand, I never wrote anything before all this so I wasn't confident in being able to write stories featuring a limbless ball (Ghastly), so I discarded the idea too. The next pick was Duskull and I'm glad I choose it, because the mon grew on me even more and during the character's conception I had some fun ideas (including one that I still haven't properly introduced). 
+
 If clover guild did not exist, where would you be at this point in time?
 
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.
@@ -761,3 +784,8 @@ If clover guild did not exist, where would you be at this point in time?
 >Makuhita-anon: I'd have probably continued being the useless loser I know I am. I've always been a dreamer and an ideas guy, but the Guild was the first time I actually decided to make something beyond vague, spur-of-the-moment ideas I never elaborate or follow up on. If anything, having something I can use my energy on, even if it's as silly as writing fanfiction, has improved my attitude and my quality of life a lot.
 
 >Lliam: Honestly, not really much would have changed, as I would probably do the same thing I have been doing somewhere else, and I do write stuff on my own for myself, so that wouldn't change as well... The only thing that would be missing is !>meeting you guys... yeah...
+
+>Elm-anon: Probably would still be hanging in a certain Discord server that has pretty much been on life-support for years, meaning much less interactions wiht others. I also don't think I would ever have tried serious drawing or writing without this fateful occurence. It's just too bad that I have been busy with college to interact more.
+
+How many of the doors around the guild have handles or doorknobs, if any?
+>Kiyo-Anon: I know there are doors in the basement that have handles because they're kept locked.  Most other doors, I'd imagine, just swing open either way.

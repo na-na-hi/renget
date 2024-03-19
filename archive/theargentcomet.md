@@ -373,7 +373,7 @@ Val’s mind-reading, thankfully, is limited. Talk has been scarce, mostly relat
 
 You fall back into rhythm. Grab material, place material, look at Val. She’s patting the outer wall with her claws, a fairly apathetic, yet focused expression adorning her beak. Your chest tightens. She won’t be gone forever. Grab material, place material, look at Val. She’s nibbling on a claw. She’ll return. Grab material, place material, look at Val. She’s staring at a tattered blanket. *Why can’t you just be happy*?
 
-You don’t know how long you spend tolling away, both under the sun and your incessant thoughts, occasionally pausing for water and rest. All you know is that eventually, when you go to pick up more material, there’s a distinct lack of supplies in the place where Val’s been leaving them for you. A quick check of the roost shows the original pile has disappeared, save for remnants of dirt.
+You don’t know how long you spend toiling away, both under the sun and your incessant thoughts, occasionally pausing for water and rest. All you know is that eventually, when you go to pick up more material, there’s a distinct lack of supplies in the place where Val’s been leaving them for you. A quick check of the roost shows the original pile has disappeared, save for remnants of dirt.
 
 You glance over to Val, who’s closely eying the nest’s exterior some distance away. “Val,” you holler, “ya think we need more stuff or is this sufficient?”
 

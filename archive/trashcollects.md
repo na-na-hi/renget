@@ -3067,6 +3067,7 @@ https://mega.nz/folder/lzM0TRpY#ZL7XO04iJo5F7gEEDEqFaA
 Characters:
 - Kanna (Blaster Master Zero 2 - PDXL)
 - Lahla the Boo (Paper Mario TTYD)
+- Princess Shroob (Mario & Luigi Partners in Time)
 
 # Anatomically Correct Canine Pussy
 >the trigger tag is just "canine pussy"

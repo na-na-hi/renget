@@ -411,7 +411,7 @@ Hakodate - https://nyaa.si/view/1046487
 2019 - https://nyaa.si/view/1179494
 2017 - https://nyaa.si/view/1058771
  
-**Aqours Fanmeetings** ==⚠deadlink==
+**Aqours Fanmeetings** ==⚠deadlink warning==
 Compliation - [#1 x265 1080p](https://nyaa.si/view/1708403) / [#2  (mixed formats)](https://nyaa.si/view/1612786)
 2017-12-10 Sapporo - https://nyaa.si/view/1058803
 2017-12-16 Numazu - https://nyaa.si/view/1051971
@@ -528,6 +528,7 @@ Liella! 4th LoveLive! Tour ~brand new Sparkle~ *D1&D2*
 KALEIDOSCORE ver [1080p PIA](https://nyaa.si/view/1707116) [720p PIA](https://nyaa.si/view/1707506) 
 Catchu! ver : [1080p PIA](https://nyaa.si/view/1709468) [720p PIA](https://nyaa.si/view/1709926)
 5yncri5e! ver: [1080p PIA](https://nyaa.si/view/1716100) [720p PIA](https://nyaa.si/view/1716321)
+Commentary (CatChu and 5yncri5e ver only) [1080p](https://nyaa.si/view/1788609)
 
 ####EVENTS/PERFORMANCES/MISC
 Liella! Season 1 Opening and Ending Online Release Event [1080p WEB ENGSUB](https://nyaa.si/view/1611104)
