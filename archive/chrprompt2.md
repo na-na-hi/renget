@@ -517,6 +517,10 @@ Q2: Not to say you need a partner, being as talented as you are, but is there an
 Q3: Are you looking forward to evolution? 
 >Duh. Who wouldn't? Getting bigger, badder, and stronger isn't exactly easy to pass up! I know some mons like to tell ghost stories about Rowlets evolve into weird ghost owls who have magic arrows or whatever, but that's ridiculous. Everyone knows that Decidueye aren't Ghost-types, they're Fighting-type who use mean combos and sling around Aura Spheres and stuff. Real Explorer material!
 Q4: I hope your first impression of the guild wasn't too traumatizing. Are there any guild members you've met so far that you can tolerate?
+>Yeah, well, traumatizing isn't even the half of it. This Guild isn't even CLOSE to being up to Wigglytuff's standards - Alpha's sake, I don't even think it's up to Dragonite's Guild standards! Most of my guild"mates," and I use "mates" VERY loosely, are a few apples short of an orchard. But I can't lie, there's still at least some good guys. 
+> Beast is pretty nice, and he totally gets how I feel about everything here. We can't talk a lot since he's always busy trying to cook for these guys, but sometimes he passes me a few crackers at night since I absolutely REFUSE to eat with these loons. ...Most of the time they're stale, but I appreciate it, at least. 
+> Vileplume and Bellossom are also, y'know, normal. Those poor guys are always stuck dealing with their team, though, so we barely talk. Not that I'm crying about that fact - if it's a choice between being anti-social or risking dealing with Adrian or Enny, I'm taking option A.   
+> Guildmaster Lliam is okay too. A bit quiet and jittery though, like he's hiding something, but I guess I can't blame him. I'd be jittery too if I was stuck trying to manage this circus act.  
 
 ###Lliam
 Q1: Do you ever need to punish guild members? If so, how do you do it?
@@ -562,6 +566,8 @@ Q2: How are you adapting to the Pokemon world?
 >Asana: Getting hit in general, especially in the torso. I'm rather frail, and the way I distribute my Aura makes me weak to body shots.
 
 >Lliam: I always love to fight, but only when someone challenges me or provokes me; otherwise, I'll just be in my merry way~. Let it be differences of skill for good or bad, even if I'm at a major disadvantage in typing, I'll still gladly accept a fight. Yes, even if my chances of winning are slim. From where I was, playing dirty is still considered fair play, as it's the opponent's fault for not having foresight of this happening. There are no promises; this may or may not be the time for them to kick the bucket, kyukyukyu~.
+
+>Cider: I hate Ice-types and Ice Shard is the worst move in existence. 
 
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
@@ -662,10 +668,16 @@ Q2: How are you adapting to the Pokemon world?
 
 >Makuhita: I've got a mom and a younger brother, Drew. My dad was effectively whatever you'd consider the opposite of a role model - I learned how to be and act by trying to avoid ending up like him. He caused Drew and I to go through a lot of grief growing up and I'm glad he's out of that household, even if I'm not around to see him prosper. 
 
+>Cider: My family? They live in Treasure Town. I'm Spinda's-yeah, THAT Spinda. And before you ask; YES, I'm adopted. Don't start laughing! Spinda is amazing and nice and sweet and I think she totally should get with Beast or whatever because the chemistry between those two is literally so obvious but that's just me. Oh, that's not what you're asking about? OHHH yeah my feelings and relationship and stuff.
+>Well, Spinda's my, uh, err... mom. I guess. Don't laugh. She's nice and for her sake I do NOT want her coming around this Guild. I made sure to get all my stuff from the cafe so she didn't have an excuse to drop by - It's not even because I'm worried she's embarrass me, it's because my guildmates might make her... I dunno, die or something. 
+>Wynaut's kinda like my uncle I guess, so I guess that makes Wobbuffet my aunt. Wynaut's funny, but he has a weird taste in women, because Wobbuffet communicates entirely in her own native language. You won't believe how many different meanings 'THAT'S RIGHT!' has. I also don't know why Wynaut refuses to evolve, but whatever. They're pretty cool.
+>And I HATE Ludicolo. I don't even know if he actually EXISTS, because he literally only shows up whenever there's a big win, and then vanishes from town entirely! And everytime he DOES show up, I'M the one stuck cleaning his mess up! I do NOT miss working at the cafe, lemme tell ya.
+
 **Guildmons**, If your character had to trade partners with another guild members, which other partner do you think would suit them best?
 >Adrian: I don't want to be partners with anybody, but if I was forced to, Toge was alright during that one job we did together.
 
 **Guildmons**, You saw a job listing in the bulletin board with a huge reward, but the description is quite suspicious to say the least... would you still risk it and take the job?
+>Cider: Who would be dumb enough to take a suspicious job? Y'know, this reminds me - one time I heard that someone at Wigglytuff's Guild went off to Amp Plains because of a ransom note and almost got mauled to death by a tribe of Electrike! Or... was it a tribe of Luxio? Eh, doesn't matter, point is that they were total morons for taking that mission on!
 
 **Guildmons**, An outlaw you've captured recently was accepted into the guild after he said that he was reformed (turns out to be a humon); would you accept him with open arms or would you be suspicious about his change of heart?
 >Adrian: I would kill Machamp on sight purely because he devolved me. I don't care where he's from, what he is, or what he wants to do at the guild. I hate him with every fiber of my body, more than anyone else I've ever fought. Any other outlaws, I don't really trust them. I'll leave that decision to the Guildmaster
@@ -673,6 +685,8 @@ Q2: How are you adapting to the Pokemon world?
 >Makuhita: It honestly depends on a whole lot of factors - what they've done, how they acted, and so on. I'd give thm a chance, to. To put it simply, I've had a rough life, but I was lucky enough to have friends to help me through. I know everyone is not as fortunate as I was, and if I can help the guy out of whatever hole he found himself in, it'd be a win for everyone.
 
 >Asana: My answer is honestly similar to Makuhita's, although I'd keep an eye on them regardless, as a precaution. 
+
+>Cider: Obviously suspicious, but hey, them tracking me down and offing me in my own dorm would at least be a mercy kill. I'd respect the commitment!
 
 **Everyone**, It's a holiday! (is there such a thing in the PMD world?) How would like to spend your time in this ocassion? Would you still work and rescue Pokemon in Mystery Dungeon? Travel somewhere, err... lavish? Hang out in the guildhall all day long?
 

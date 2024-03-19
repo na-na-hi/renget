@@ -37,7 +37,7 @@ Name: | Links:
 **Issue council:** | https://issue-council.robertsspaceindustries.com/
 **Ship Loaner Matrix:** | https://support.robertsspaceindustries.com/hc/en-us/articles/360003093114-Loaner-Ship-Matrix
 **Roadmap:** | https://robertsspaceindustries.com/roadmap
-**Latest Star Citizen/SQ42 ->->Monthly Report:** | https://robertsspaceindustries.com/comm-link/transmission/19779-Star-Citizen-Monthly-Report-January-2024 -> ->https://robertsspaceindustries.com/comm-link/transmission/19747-Squadron-42-Monthly-Report-January-2024
+**Latest Star Citizen/SQ42 ->->Monthly Report:** |https://robertsspaceindustries.com/comm-link/transmission/19831-Star-Citizen-Monthly-Report-February-2024 -> ->https://robertsspaceindustries.com/comm-link/transmission/19836-Squadron-42-Monthly-Report-February-2024
 **Latest Letter from the Chairman:** | https://robertsspaceindustries.com/comm-link/transmission/19848-Letter-From-The-Chairman
 
 ***
@@ -51,7 +51,7 @@ Description: | Links:
 **Overview of the Stanton System, Including Multiple Navigation Methods to every POI:** | https://verseguide.com/ (Very Detailed)  ->-> https://www.odysseyinterstellar.org/odyssey/planets 
 **Comprehensive List of Every Ship, Ground Vehicle, Components, FPS Weapons and Their Stats:** | https://tanx0r.org/
 **Armory Builder (Armor Locations, Price and Drop Rates):** | https://armory.thespacecoder.space
-**Extensive FPS Weapon Data Spreadsheet (Calculating Tool Locked Behind a 2€ Paywall):** |https://docs.google.com/spreadsheets/d/1geR2tkbnyxxiF2d_1ufaTY_Sot2ghVYPeBHCPyjxhGU/
+**Extensive FPS Weapon Data Spreadsheet (Calculating Tool Locked Behind a 2€ Paywall):** | https://docs.google.com/spreadsheets/d/1--vlH5SgDDQ172UGB0GYSJUSC9UULjBuVYtKPJGiifE/edit#gid=2128480749
 ***The SCodex:*** | https://scodex.garga.net/scodex/LIVE
 **CCU Game/Funding Visualizer:** | https://ccugame.app/
 **Detailed Progress Tracker:** | https://shinytracker.app/

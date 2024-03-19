@@ -33,7 +33,7 @@ https://rentry.org/edg-op/raw
  ## !~green;double; Technical ~!
  
 >!~ Recommended models for /e/? ~!
-Free: AutismMix SDXL (PonyXL base), AnimeConfettiTuneXL (PonyXL base), AnimagineXL 3 (SDXL 1.0 base), Based68 (SD 1.5), Olympus v4 (SD 1.5)  - all available at https://civitai.com/ 
+Free: AutismMix SDXL (PonyXL base), AnimeConfettiTuneXL (PonyXL base), AnimagineXL 3.1 (SDXL 1.0 base), Based68 (SD 1.5), Olympus v4 (SD 1.5)  - all available at https://civitai.com/ 
 Paid: NAI v3 - https://novelai.net/ (more about the model: https://rentry.org/hdg-nai-v3)
 
 >!~ Recommended WebUI extensions? ~!

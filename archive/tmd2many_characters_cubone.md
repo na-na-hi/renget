@@ -114,7 +114,7 @@ Item Name | Description
 *Equipped Item: None* | Empty
 1. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 2. Dye Bomb x2 | Explodes in a splash of bright ink. >4; the Opponent's Accuracy is decreased by 1. Stacks up to 4. Can be thrown. Has a Berry's AP cost.
-3. None | N/A
+3. Blue Gummi | Gives +10 IQ points to Water-Types. Gives +5 to other types. Tastes like saltwater taffy.
 4. None | N/A
 
 ***

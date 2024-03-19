@@ -1,7 +1,7 @@
 # MINIPROXY
 !!! note proxy
-    https://assistant.aitism.net/assistant/miniproxy/openai (gpt-4, furbo, turbo) 
-    https://assistant.aitism.net/assistant/miniproxy/azure (gpt-4, gpt-4-32k, furbo no quota limit unfiltered)
+    https://assistant.aitism.net/assistant/miniproxy/openai (gpt-4, gpt4-32k, furbo, turbo) 
+    https://assistant.aitism.net/assistant/miniproxy/azure (gpt-4, furbo no quota limit unfiltered)
     https://assistant.aitism.net/assistant/miniproxy/aws (aws claude no quota limit add /sonnet if your frontend doesn't support the new model list)
 	https://assistant.aitism.net/assistant/miniproxy/anthropic (claude api. add /sonnet or /opus if your frontend doesn't support the new model list)
     https://assistant.aitism.net/assistant/miniproxy/gemini (gemini-pro no quota limit)
@@ -25,12 +25,12 @@ total **active** users: 122 %red% (CLOSED) %%
 - I am not accepting monetary donations because they caused too much drama. 
 - <3 to every other proxy host for providing proxies.
 
-!!! info info and news (15/3/2024)
-    contact me if your token has been disabled.
+!!! info info and news (18/3/2024)
+    updated the proxy.
 
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 
 needtocoomoridie@proton.me
-(source hints are greatly appreciated not a direct link just a few hints as that's a lot more fun)
+(source hints are greatly appreciated)
 If it takes me more than 3 days to reply to you feel free to send another email and yell at me.
 <3 
 # Stats

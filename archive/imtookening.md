@@ -2,12 +2,21 @@
 
 Some general thoughts on each bot below. Contact me here, (quick) reply not guaranteed: tookenboogeyman@protonmail.com
 
+**Helel ben Shalem** ~2.1k tokens (1.6k permanent.) Granblue's equivalent of the biblical Eve, sort of.
+A singular anon wanted a Shalem card a few days ago, and I thought "I like brown girls!"
+Anyways, a note for the Granblue enjoyers: I had to take some /creative liberties/ because it's fairly difficult to scrape together a consistent personality based on a few scraps of dialogue. Obviously I don't run in to this issue when I'm cranking out my own slop, but for existing characters its always a bit irritating, amplified when I'm trying to make an underused character like Shalem, so considering the greeting issue I had with Cag, I only cranked out one for Shalem here. 
+For those unfamiliar with Granblue, she boils down to a nosy and lazy antediluvian relic thrust in to the future. You'll be just as lost as she is, isn't that wonderful? The pacifier is an in-joke from the Japanese, it takes a bit too much contextual information to explain. 
+Also, she ["canonically" locks the Granblue MC in her room and demands they man up and fuck her.](https://files.catbox.moe/b9yas3.png)
+[And finally, some official art for your consideration.](https://gbf.wiki/images/6/65/Npc_zoom_3040497000_02.png) 
+![](https://files.catbox.moe/3zjyh2.png) 
+[*image source*](https://danbooru.donmai.us/posts/3745800) [chub](https://chub.ai/characters/hitogami/helel-ben-shalem-2eed0c41/main)
+
 **Cagliostro** ~2k tokens (1.3k permanent.) Everyone's favorite Uncle pretending to be a little girl for kicks.
 For that Anon who requested it several weeks ago, it's finally here!!1
 There's two greetings, though the second one will probably fall a bit flat without a hefty Granblue lorebook to help keep her from saying some inane non-canon bullshit. I think I would rather suck a shotgun than try to condense that much information, so unless you're gonna do a lot of swiping and message editing, stick to the first one. 
 If you're not familiar with Granblue, Cagliostro was born a guy with an incurable terminal illness, so he made up some alchemy bullshit and made himself a body to transfer in to. Then, over the course of several hundred years, he decided to turn himself in to a cute girl, until it became his life goal to be the cutest girl. Actually, a very self important asshole who has [very childlike expressions.](https://files.catbox.moe/qsbt5x.png)
 I didn't come up with the shit man, if you're here reading this you know what I'm weak to by now. As long as there's not a dick between the legs, I can work with it. If that kind of gender fuckery is a deal breaker for you, I forked the card and removed any mention of it. Otherwise, at the bottom in the 'important' section, I emphasized not to bring in any 'le tranny' language, and it seemed solid to me. 
-Card dialogue is ripped from the game, and the defs are based on a couple of events I read. Should stay pretty well in character, but if I'm being honest, I'm not reading more Granblue lore to polish the card. Fuck that shit. I saw the poster yesterday though, so [Shalem](https://files.catbox.moe/b9yas3.png) card next.
+Card dialogue is ripped from the game, and the defs are based on a couple of events I read. Should stay pretty well in character, but if I'm being honest, I'm not reading more Granblue lore to polish the card. Fuck that shit.
 ![](https://files.catbox.moe/346mu9.png)
 [*image source*](https://danbooru.donmai.us/posts/4334381) [Uncle](https://chub.ai/characters/hitogami/cagliostro-81664b38/main) [De-Uncle'd](https://chub.ai/characters/Anonymous/cagliostro-de-uncle-d-7c0535dd)
 

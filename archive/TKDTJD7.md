@@ -2426,3 +2426,82 @@
     >🔻Targeted IOF army vehicles, while they entered the Al-Malikiyah site, with artillery shells.
     >https://t.me/FotrosResistance/5948  3/17/24 
     ***
+!!!warning  
+    >⚡️WATCH: Al-Quds Brigades published a video showing the targeting of IOF soldiers, east of the Central Governorate, with a guided (Malotka) missile and mortar shells.
+    >https://twitter.com/AryJeay/status/1769659302006907042  3/18/24  
+    >https://files.catbox.moe/w84zv9.mp4  3/18/24  
+    ***
+    >The IOF, overnight, launched an attack at Al-Shifa Hospital because it claims that senior Hamas officials were in the area, just like the lie they were propagating when they said Hamas had military headquarters in Shifa hospital.
+    >https://t.me/FotrosResistance/5953  3/18/24  
+    ***
+    >Urgent|| Issued by Al-Qassam Brigades:
+    >
+    >Since dawn on Monday, the Al-Qassam Brigades have been engaged in fierce clashes with the enemy forces invading near Al-Shifa Hospital in #Gaza City, targeting a number of Zionist vehicles, causing deaths and injuries among their ranks.
+    >https://t.me/me_observer_TG/171024  3/18/24  
+    ***
+    >A girl sells raisins to support her family in light of the harsh conditions they are experiencing as a result of the ongoing Israeli aggression in Gaza.  
+    >https://t.me/QudsNen/98950  3/18/24 
+    >https://files.catbox.moe/if5nb2.mp4  3/18/24  
+    ***
+    >New York: United Nations Secretary-General António Guterres issues an urgent appeal to bring aid into all parts of the #Gaza Strip immediately.
+    >https://t.me/me_observer_TG/171047  3/18/24  
+    ***
+    >The IOF admits to death of an officer in the area of Al-Shifa Hospital early this morning:
+    >
+    >🔻Staff Sgt. Matan Vinogradov, 20, of the Nahal Brigade's 932nd Battalion.
+    >https://t.me/FotrosResistance/5959  3/18/24  
+    ***
+    >BREAKING: Brigadier General Fayek Al-Mabhouh, the Commander of the Police Service in the Gaza Strip, has been killed by Israeli troops in Gaza City, according to local sources. 
+    >https://t.me/QudsNen/98986  3/18/24  
+    ***
+    >Germany won’t congratulate Putin and refuses to recognise the Russian elections
+    >https://t.me/megatron_ron/2334  3/18/24
+    ***
+    >Occupied Palestine: Islamic Jihad: We hold Washington, the Western governments that support the entity, and the silence of the Arab regimes responsible for the enemy’s continued war to exterminate our people.
+    >https://t.me/me_observer_TG/171078  3/18/24  
+    ***
+    >Since the beginning of the Israeli war on Gaza, 134 Palestinian journalists have been killed by Israeli airstrikes and forces, marking the deadliest year for journalists in decades.
+    >https://t.me/QudsNen/99015  3/18/24  
+    ***
+    >Yemen: Al-Mayadeen correspondent: The number of raids by the American-British aggression on the Al-Jabbana and Al-Fazza areas in the coastal governorate of Hodeidah on the Red Sea in the west of the country has risen to 10 raids.  
+    >https://t.me/me_observer_TG/171146  3/18/24  
+    ***
+    >The Washington Post, according to 🇮🇱🇺🇲 US officials:
+    >
+    >"The Biden administration is extremely frustrated and uncertain about how the war in Gaza will end"
+    >
+    >Biden’s strategy from the outset rested on a central trade-off: that if he showed Israel unequivocal, even defiant, support early on, he could ultimately influence its conduct of the war. Some administration officials now concede the strategy is heading toward failure, and in private talks, they voice a striking frustration and uncertainty about how the war will end.
+    >https://t.me/megatron_ron/2341  3/18/24
+    ***
+    >Haredi settlers demonstrate against their forced conscription into the occupation army:
+    >
+    >- Occupation Police: “We used force against the rioting demonstrators in #Jerusalem.”
+    >
+    >- Occupation Police: “The demonstrators accused our members of being Nazis, and told them to go to die in #Gaza.”
+    >https://t.me/me_observer_TG/171189  3/18/24  
+    ***
+    >In spite of the rain and the heavy presence of Israeli occupation forces, Palestinians manage to reach Al-Aqsa Mosque and perform evening and Taraweeh prayers.
+    >https://t.me/QudsNen/99023  3/18/24  
+    ***
+    >Spain: Foreign Minister: #European Union foreign ministers unanimously approve sanctions on settlers who attack #Palestinians in the West Bank  
+    >https://t.me/me_observer_TG/171191  3/18/24  
+    ***
+    >Urgent| Press sources: The occupation forces exhumed the bodies of martyrs buried in Al-Shifa Medical Hospital in #Gaza  
+    >https://t.me/me_observer_TG/171190  3/18/24  
+    ***
+    >United States of America: White House National Security Advisor Jake Sullivan: Conducting a major ground operation in Rafah would be a mistake and would increase #Israel’s international isolation.
+    >https://t.me/me_observer_TG/171224  3/18/24  
+    ***
+    >WATCH: Footage shows moment when a drone launched from the direction of the Red Sea, succesfully impacted inside Eilat, last night  
+    >https://t.me/FotrosResistance/5963  3/18/24  
+    >https://files.catbox.moe/5ho97q.mp4  3/18/24  
+    ***
+    >Atlantic magazine: After more than 5 months, #Israel no longer has a military strategy to eliminate #Hamas
+    >https://t.me/me_observer_TG/171312  3/18/24  
+    ***
+    >Urgent | Al-Nasser Salah al-Din Brigades: We bombed a gathering of occupation soldiers and vehicles east of the Central Governorate, with a Type 107 rocket salvo.  
+    >https://t.me/me_observer_TG/171317  3/18/24  
+    ***
+    >A picture of attempts to overturn and drag an #Israeli military vehicle that was damaged by resistance strikes in the #Gaza Strip  
+    >https://t.me/me_observer_TG/171370  3/18/24
+    ***

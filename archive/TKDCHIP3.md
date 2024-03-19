@@ -105,6 +105,9 @@
     ***
     >Saraya Al-Quds- Tulkarem Brigade:  New kino, big explosion
     >https://files.catbox.moe/zq9ghd.mp4  New  3/9/24 
+    ***
+    >WATCH: Al-Quds Brigades published a video showing the targeting of IOF soldiers, east of the Central Governorate, with a guided (Malotka) missile and mortar shells.
+    >https://files.catbox.moe/w84zv9.mp4  New  3/18/24
 ### AnsarAllah 
 !!!note
 ### Islamic Resistance Iraq
@@ -283,4 +286,10 @@
     ***
     >compilation of previous snipes and a new 1 km kill
     >https://files.catbox.moe/1iymnd.mp4  New 3/17/24  
+    ***
+    >A girl sells raisins to support her family in light of the harsh conditions they are experiencing as a result of the ongoing Israeli aggression in Gaza.  
+    >https://files.catbox.moe/if5nb2.mp4  New  3/18/24   
+    ***
+    >WATCH: Footage shows moment when a drone launched from the direction of the Red Sea, succesfully impacted inside Eilat, last night  
+    >https://files.catbox.moe/5ho97q.mp4  New  3/18/24    
     ***
