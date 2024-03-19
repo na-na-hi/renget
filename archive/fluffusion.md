@@ -20,6 +20,12 @@ Fluffusion is a 704 base resolution model with aspect ratio buckets, Clip Skip 2
 `comic` (Helps reduce panels being generated with more than one character.)
 `screentone` (Reduces noise for smooth, or cel shaded styles.)
 
+#### Helpful Settings:
+
+CFG 11 seems to be better than CFG 7 - and use at least 0.1 CFG Rescale values.
+
+#### Models and Utils:
+
 * v-prediction YAML https://gist.githubusercontent.com/Jordach/acbac81727f4c1b3520b4b35373898f9/raw/506a7b2cf95c200ae31fbd1d6abd0f422653e4d5/fluffusion_r3_eX_704x_vpred.yaml
 * csv https://gist.github.com/Jordach/acbac81727f4c1b3520b4b35373898f9/raw/506a7b2cf95c200ae31fbd1d6abd0f422653e4d5/fluffusion_r3_tags.csv
 * CFG Rescale Extension: https://github.com/Seshelle/CFG_Rescale_webui

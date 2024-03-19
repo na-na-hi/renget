@@ -361,10 +361,19 @@ Q4: How many ribbons and useless accessories do you have?
 
 ###Togetic
 Q1: What would you do if you saw someone making a mess of the storeroom?
+>"A-Ask th-them to p-please st-stop." *(Then put Reviser Seeds into their bag.)*
+
 Q2: Have you considered selling your Joy Dust?
+>"N-No..." *(... I don't really need the money... But maybe...)*
+
 Q3: What are your thoughts on Team Buckler? Have you accepted their apology after the Dewott incident?
+>"I-I th-think o-of them a-as g-good friends... A-And y-yes, I h-have..." *(I wish I wasn't so paranoid around them though.)*
+
 Q4: What's your favorite thing about Team Cozy? Is there something you don't like about them as well?
+>"W-Well... Wait, are you DARING to imply there is ANYTHING to dislike about Team Cozy!? YOU WILL APOLOGIZE RIGHT NOW AND WRITE ME A 500,000 PAGE ESSAY ON THE GREATNESS OF TEAM COZY-SINGLE SPACED! THE FACT YOU EVEN THINK FOR A MOMENT THAT THERE COULD BE A SINGLE FLAW ABOUT TEAM COZY SHOWS YOUR IGNORANCE AND SHIT TASTE, A LESSER MAN MIGHT MENTIONS CHESPIN'S HATRED OF ICE TYPES AS A FLAW, BUT THOSE DAMN DIRTY CHILLERS GET EXACTLY WHAT THEY FUCKING DESERVE! ONLY TRUE PATRICIANS LIKE ME CAN SEE HOW EVERY SINGLE TRAIT OF TEAM COZY IS A PERFECT AND POSITIVE ONE! NEVER MENTION TEAM COZY'S NAME AGAIN YOU DEGENERATE!"
+
 Q5: Do people at the guild give you trouble for your condition?
+>"A-Apart f-from some j-jokes, n-not r-really." *(I'm willing to bet I'm not the only guildmember here on the spectrum.)*
 
 ###Kiyo
 Q1: What is your body count?
@@ -619,6 +628,8 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 
 >Cider: Exploration 101, you can't count on anyone but yourself! Besides, there are dungeons out there that only let in one mon, and you need to constantly be training for those! Best to start off early. 
 
+>Elm: I prefer going solo since I feel like that allows me to better train covering the drawbacks of my "condition". That being said, if I feel like a mission is out of my league or too risky I would seek someone to help. And I wouldn't refuse invitations from others to help in missions!
+
 **Teams of mons**, does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
 >Carrot & Hazel: Nope, we share duties, sometimes once each, other times the one with the least advantage stays behind
 
@@ -695,6 +706,8 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 **Guildmons**, You saw a job listing in the bulletin board with a huge reward, but the description is quite suspicious to say the least... would you still risk it and take the job?
 >Cider: Who would be dumb enough to take a suspicious job? Y'know, this reminds me - one time I heard that someone at Wigglytuff's Guild went off to Amp Plains because of a ransom note and almost got mauled to death by a tribe of Electrike! Or... was it a tribe of Luxio? Eh, doesn't matter, point is that they were total morons for taking that mission on!
 
+>Elm: Hey, something like that should make up for a fun story to tell others later! I would at least meet the client and ask for more details. 
+
 **Guildmons**, An outlaw you've captured recently was accepted into the guild after he said that he was reformed (turns out to be a humon); would you accept him with open arms or would you be suspicious about his change of heart?
 >Adrian: I would kill Machamp on sight purely because he devolved me. I don't care where he's from, what he is, or what he wants to do at the guild. I hate him with every fiber of my body, more than anyone else I've ever fought. Any other outlaws, I don't really trust them. I'll leave that decision to the Guildmaster
 
@@ -705,9 +718,14 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 >Cider: Obviously suspicious, but hey, them tracking me down and offing me in my own dorm would at least be a mercy kill. I'd respect the commitment!
 
 **Everyone**, It's a holiday! (is there such a thing in the PMD world?) How would like to spend your time in this ocassion? Would you still work and rescue Pokemon in Mystery Dungeon? Travel somewhere, err... lavish? Hang out in the guildhall all day long?
->Elm: Holidays usually mean seasonal food and customs, meaning it's time to walk around downtown!
+>Elm: Holidays usually mean seasonal food, customs and goods, meaning it's time to walk around downtown and have a look at the shops!
 
 **Former humans**, Let's say PMD is an existing video game for us humons. Would you feel a bit of dread that you're in a world that's so similar to that video game? And would you tell your partner, or any native mon? Perhaps mention about it to other humons?
+>Elm: I sure am not going to mention *that* to a native. Imagine approaching people and saying that their whole world is based on a piece of fictional entertainment. I probably would be thrown into some mental institution for that.
+>And I don't like thinking about it either as it brings existencial dread thoughts like "What if this is all just a dream and I'll wake up soon?"
+>But what do you mean with "mention about it to other humons"? There are humons who don't know about the connection to the games?!
+>Oh man. Then I better keep that in mind and just avoid the subject entirely.
+>And maybe it's the opposite: PMD is based on this world! Yeah, let's go with that tinfoil hat theory for now.
 
 **Guildmons**, What's your role in the guild, if any?
 >Booker: Aside from supporting Sneasel in missions, I work as Macom’s assistant, helping out with cartography. I’ve also been working on these... notebooks and pamphlets, full of info about dungeons, to help guild members prepare for missions. Porygon2 has been really helpful. It—I mean, h-he—has a lot of data. It’s outdated, but still useful. Oh, a-and I also help other people with missions, sometimes. If Sneasel is busy, and I have no other work to do, sometimes I wait by the mission board and offer to join other teams or guild members. I can’t fight very well, but I can give them advice, manage their items, and use a couple buffing moves.

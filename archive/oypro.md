@@ -76,6 +76,8 @@ Currently Training for Attribute: Illusory **ɪɪɪ** | Tier **ɪɪɪ** | 0/3 | 
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
 Currently Training for Attribute: Foraging **ɪ** | Tier **ɪ**  | 1/3 | ▮▯▯
 Currently Training for Attribute: Balance **ɪɪ** | Tier **ɪ**  | 0/3 | ▯▯▯
+Currently Training for Attribute: Decoy **ɪ** | Tier **ɪ**  | 0/3 | ▮▯▯
+Currently Training for Battle Attribute: Zephyr Step **ɪɪ** | Tier **ɪ**  | 3/4 | ▮▮▮▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.
@@ -84,7 +86,7 @@ Item Name | Description
 ------ | :----:
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Empty | A vacant inventory slot
+1. Gray Gummi | Gives +10 IQ points to Rock-Types. Gives +5 to other types. Tastes like minerals.
 2. Tiny Reviver Seed | Revives fainted Pokémon to half HP
 3. Blast Seed | Explodes on contact for 10 true damage.
 4. Sour Slaw | Chopped berries that have a majority sour flavor, slightly creamy. (Increases Defense by 1 stage.)

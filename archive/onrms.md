@@ -7,7 +7,8 @@ this is a **novice-to-advanced guide** on AI and chatbotting. it presents key co
 
 AI specializing in text is called ==**LLM (Large Language Model)**==
 
-since late 2022, LLMs boomed, becoming a integral part of our world and significantly impacting various areas like communication and hobbies. since you are reading this, you are curious about *using LLMs for bots, roleplay, fanfiction and creative writing*
+since late 2022, LLMs boomed, becoming a integral part of our world and significantly impacting various areas like communication and hobbies
+you are reading this and it mean you are curious about *using LLMs for bots, roleplay, fanfiction and creative writing*
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/mf0r4u.png) <-
 
@@ -28,21 +29,31 @@ this guide includes two parts:
 - you write LLMs **instructions** on what they need to do
 - they give back text as a response
 
-that's how LLMs operate
-
 -> ![image failed to load: reload the page](https://files.catbox.moe/ncyuq8.png) <-
 
-there are hundreds of LLMs worldwide, and you can chat with some for free**%#B000B5%*%%** :
-- by OpenAI - **GPT** (chat via [chatGPT](https://chat.openai.com))
-- by Anthropic - **Claude** (chat via [Claude.ai](https://claude.ai))
-- by Google - **Gemini**, Gemma, PaLM (chat via [Google Advanced](https://one.google.com/explore-plan/gemini-advanced))
-- by Anlatan - **Kayra** (chat via [NAI](https://novelai.net/stories))
-- by Mistral - **Mistral**, Mixtral (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
-- by Meta - **LLaMA** 1/2 (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
-- LLaMA-based and Mistral-based LLMs (**merges**) - Mythomax, Goliath, Airoboros, Hermes, etc
--> **%#B000B5%*%%** *phone number or account creation may be needed* ->
+you may assign the various **traits** to LLM, or tell it to **portray a character**. this way LLM will assume the role of ==**a bot**==, with whom you may roleplay, chat, or play creative scenario
 
--> ![image failed to load: reload the page](https://files.catbox.moe/9fac1t.png) <-
+LLMs may imitate:
+- famous character from franchise, fandom, anime, movie
+- completely original character (OC)
+- an assistant providing IRL help
+- a scenario or simulator
+- DnD / RPG game
+- etc
+
+the instructions to portray a character are commonly called  ==**definitions (defs)**== (of specific character)
+on example below character's definition is `grumpy NEET zoomer girl with ADHD`:
+
+-> ![image failed to load: reload the page](https://files.catbox.moe/13zn1x.png) <-
+
+if a character is well-known then the definition could be as short as stating the character's name, for example `Pinkie Pie`:
+
+-> ![image failed to load: reload the page](https://files.catbox.moe/jv1v1e.png) <-
+
+keep in mind, when you chat with a bot you are chatting with LLM *mimicking character definitions*
+it is similar to modding in videogames - the underlying mechanics (engine) remain, only the visuals change. 
+
+different LLMs portray the same characters in various way, aka **Rainbow Dash by one LLM will vary from Rainbow Dash by another LLM**
  
  
  
@@ -50,31 +61,55 @@ there are hundreds of LLMs worldwide, and you can chat with some for free**%#B00
 ***
 ***
 !!! info
-	-> ==**chat-botting**== <-
-...using LLM as chat bot, forcing it to roleplay a certain scenario, or provide creative in-character responses.
+	-> ==**current LLMs**== <-
+there are hundreds of LLMs worldwide, and you can chat with some for free **%#B000B5%*%%** :
+- by Anthropic - **Claude** (chat via [Claude.ai](https://claude.ai))
+- by OpenAI - **GPT-4** (chat via [chatGPT](https://chat.openai.com))
+- by Google - **Gemini**, Gemma, PaLM (chat via [Google Advanced](https://one.google.com/explore-plan/gemini-advanced))
+- by Anlatan - **Kayra** (chat via [NAI](https://novelai.net/stories))
+- by Mistral - **Mistral**, Mixtral (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
+- by Meta - **LLaMA** (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
+- LLaMA-based and Mistral-based LLMs (**merges**) - Mythomax, Goliath, Airoboros, Hermes, etc
+-> **%#B000B5%*%%** *phone number or account creation may be needed* ->
 
-since you are using instructions to communicate with LLM, you may assign specific **traits** to it, or instruct to **portray a character**. this way LLM will take role of **a bot**:
-- it can be a famous character from some franchise, fandom, anime, movie
-- or completely original character (OC)
-- or a scenario
-- or simulator
-- or DnD / RPG game
-- or assistant providing IRL help
-- or anything else
+-> ![image failed to load: reload the page](https://files.catbox.moe/9fac1t.png) <-
 
-instructions to portray a character are commonly called  ==**definitions (defs)**== (of that character)
+> too many LLMs, which shall I use to talk with bot?
+* best quality (in general) - **GPT-4**
+* best creative writing - **Claude**
 
-on example below character's definition is "*grumpy NEET zoomer girl with ADHD*":
+* best MLP knowledge - both **Claude** and **GPT-4**
 
--> ![image failed to load: reload the page](https://files.catbox.moe/13zn1x.png) <-
+* best NSFW - **Claude** (out-of-box), **GPT-4** (if you can wrangle/program it)
+* least censored among them two - **Claude**
+	* in addition check [this meta table](https://rentry.org/aicg_meta) from /g/aicg/
 
-if a character is well-known then the definition could be as short as stating the character's name, for example "*Pinkie Pie*":
+* if you want full control over LLM, zero-censorship, tinker your experience and don't mind low brain - **Kayra** (extra plus if you are into *image-gen*)
+* if you want to run LLM on your own hardware - **[LLaMA](https://huggingface.co/models?other=llama)** or **[Mistral](https://huggingface.co/models?other=Mistral)** merges
+	- start with [this guide](https://rentry.org/lmg-spoonfeed-guide) from /g/lmg/
 
--> ![image failed to load: reload the page](https://files.catbox.moe/jv1v1e.png) <-
+> what about Google Gemini?
+no redeeming qualities compare to GPT-4 and Claude. it just exists
+can provide a good variety if you sick of other LLMs
 
-keep in mind, when you chat with a bot you are chatting with LLM *mimicking character definitions*. it's similar to modding in videogames - the underlying mechanics (engine) remain, only the visuals change. different LLMs have different "engine" and portray the same characters differently
-(aka *Pinkie Pie by GPT can be different from Pinkie Pie by Claude*)
-
+> how to get LLMs?
+!!!warning  %red% **don't buy** %%  [Claude Pro](https://claude.ai), [chatGPT](https://chat.openai.com) or [Google Advanced](https://one.google.com/explore-plan/gemini-advanced) subscriptions 
+	they are for normalfags, and pozzed with forced censorship
+* paypig directly:
+	- Claude - buy [API key](https://www.anthropic.com/api#pricing) from official site, or buy access on [Amazon Bedrock](https://aws.amazon.com/bedrock/claude/) Cloud
+	- GPT-4 - buy [API key](https://openai.com/pricing#language-models) from official site **%#B000B5%*%%**
+	- Kayra - buy [subscription](https://novelai.net/). 25$ sub is worthwhile only for image-gen, otherwise go for 15$ sub
+-> **%#B000B5%*%%** (*Microsoft Azure Cloud is very censored, hence not listed*)  ->
+***
+* from [OpenRouter](https://openrouter.ai/docs#models), legit paid proxy:
+	- Claude - no additional moderation
+	- GPT-4 - **forced** additional moderation
+***
+* from the free proxies:
+	- lurk more
+ 
+ 
+ 
 ***
 ***
 ***

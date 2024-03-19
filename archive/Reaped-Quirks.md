@@ -237,14 +237,22 @@ Body Enhancement
 
 	Description: Empowering effects from other quirks are lengthened and improved when used on him. He can fire off excess energy into a blast by shortening his enhancements' durations.
 
-Quirk Manipulation
+Versatile Quirk : Quirk Manipulation + Projection
 -Touch
--Absorption (Refined to quirk enhancements rather than quirks)
--Permanent (Refined to just extremely long periods of time)
-Consent
+-Boost
+-Long (XP)
+-Consent
+-Type Limit
+-Boost Increase x2 (XP)
 
-2 Points of Quirk Refinement
+Quirk Definement x2
+Quitk Refinement
 
+-Waves
+-Gargantuan (XP)
+-Full Body
+-Consumption (Enhancement)
+-Basic
 14 Points
 
 !!! note
@@ -320,5 +328,6 @@ Projection Quirk
 -Shape (XP)
 -Esoteric
 -Knowledge Limit
+Quirk Refinement 
 
-6 Points
+7 Points

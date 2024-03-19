@@ -16,12 +16,13 @@
 -> *Brand evolution, Showtime Theater, Angry Beavers, School for Little Vampires, Hells Angels, The Powerpuff Girls, virtual worlds* <-
 -> *Milky Way and The Galaxy Girls, other MLP generations, Ed Edd n' Eddy, The Grim Adventures of Billy and Mandy, SPOP* <-
 -> *TAWOG, Z-T00N media, DreamWorks, Looney Tunes, Chikn Nuggit, Shinbone Alley, Sublo and Tangy Mustard, Sherlock Hound* <-
--> *Calico Critters, DDLC, Lilo and Stitch, We Bare Bears, Sailor Moon, Monotone Blue, Mime Bomb, NITW, Bojack Horseman, Tuca & Berdie* <-
+-> *Calico Critters, DDLC, Lilo and Stitch, We Bare Bears, Sailor Moon, Monotone Blue, Mime Bomb, NITW, Bojack Horseman, Tuca & Bertie* <-
 -> *Bee and Puppycat, Nyanpire, Robot Jones, Harvey Beaks, Miss Kobayashi's Dragon Maid, Date a Live, Lucky Star, Maple Town* <-
 -> *Interview with a Vampire, Kipo and the Wonderbeasts, Dust: An Elysian Tail, Solatorobo, Zombieland Saga, Ukagaka, Touhou* <-
 -> *Alchemy Stars, Kemono Friends, Witch's Heart, Lonely Wolf Treat, Precure, Ratafak, Freedom Planet, Yokai Watch, Boobah, Oobi* <-
 -> *Back at the Barnyard, Veggietales, Oswald the Octopus, Miffy and Friends, Sprout, Noggin, Fanboy and Chumchum, Boyfriends,* <-
 -> *Wayside School, Duckman,  Princess Connect Re:Dive, Panjan, Dilbert, Wild Grinders, The Nutshack, ATLA, Dog Knight RPG, Preeny...* <-
+-> *Klonoa, Kill La Kill, virtual assistants, wildlife, toys, dolls, stuffed animals, Hey Arnold, The Cleveland Show, Clarence, viruses, interstates* <-
 -> *I have most definitely at least seen more cartoons, like Franny's Feet, but I don't know squat nor think I will know squat about them soon, so.* <-
 
--> *I DO like The Amazing Digital Circus, SU, Clone High, Regular Show, Monster Prom, HXH, Breadwinners, Chainsaw Man, FNAF, Joobalogs, Harlock, D.C., Trolls, Octonauts, Nimona, PJSK, Transformers, Teen Titans, Adventure Time, Monster High, Undertale, Lackadaisy and Cookie Run, I can just be quite critical of them too.* <-
+-> *I DO like The Amazing Digital Circus, Peanuts, Gravity Falls, SU, Clone High, Regular Show, Monster Prom, HXH, Breadwinners, Chainsaw Man, FNAF, Joobalogs, Harlock, D.C., Trolls, Octonauts, Nimona, PJSK, Transformers, Teen Titans, Adventure Time, Monster High, Undertale, Lackadaisy and Cookie Run, I can just be quite critical of them too.* <-

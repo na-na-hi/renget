@@ -4,7 +4,8 @@
 
 #Pending Requests
 
-1. Misfits as the YIIK protagonists fighting Minior Proto Comet with an (more?) evil Cynda's face on it, complete with game UI. Perhaps the protocomet's face could be the >What are your fetishes Cynda face
+1. An edit of [this](https://files.catbox.moe/hnb0ee.jpg) with Chespin ranting at Cider while he builds a nest.
+
 
 1. One or both of these bizarro alternate universe ships: https://files.catbox.moe/y9tji2.png
 
@@ -235,6 +236,8 @@
 1. Carrot and Hazel arriving to the guild
 
 #Finished Requests (Some links pending gallery uploads)
+
+[Misfits as the YIIK protagonists fighting Minior Proto Comet with an (more?) evil Cynda's face on it, complete with game UI. Perhaps the protocomet's face could be the >What are your fetishes Cynda face](https://cloverguild.com/booru/post/1628)
 
 [Smith and Furret sleeping on hay beds in Wigglytuff's Guild dorm](https://cloverguild.com/booru/post/800)
 

@@ -101,7 +101,7 @@ Battle Attribute: ??? | - | -
 %#dcc6c2%Training%% | %#dcc6c2%Next Tier Bonus%% | %#dcc6c2%Progress (Numerical)%% | %#dcc6c2%Progress Bar%%
 ------ | :----: | :----: | :----:
 Training for Attribute: Artifice | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▮▯
-Training for Attribute: Foraging | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▯▯
+Training for Attribute: Foraging | Tier %#e69d31%**ɪɪɪ**%% | 2/3 | ▮▮▯
 Training for Attribute: Meditation | Tier %#e69d31%**ɪɪɪ**%% | 3/3 | ▮▮▮
 Training for Battle Attribute: ???  | N/A | 0/6 | ▯▯▯▯▯▯
 Training for Move: None | *N/A* | 0/5 |  ▯▯▯▯▯

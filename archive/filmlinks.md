@@ -35,12 +35,13 @@
     - rarelust.com
     - hawkmenblues.net 
     - rarefilmm.com
-    - uloz.to
+    - uloz.to (rip)
     - scalisto.blogspot.com (rip)
     - archive.org/details/moviesandfilms
     - ubu.com/film/
     - openculture.com/freemoviesonline
     - lightcone.org/en/new-online-videos
+    - thecinemattoo.blogspot.com
 
 #But anon, I only speak English
 - opensubtitles.com

@@ -1,6 +1,7 @@
 -> ![1divider](https://media.discordapp.net/attachments/1112655651416588371/1215113782096035860/IMG_3213.png?ex=65fb91e5&is=65e91ce5&hm=4ca18536e78d8a2da871953ecc1672f284a2a99058cdc3fcd8fbfdb33a486c65&) <-
 -> !~%pink%[cbox](https://my.cbox.ws/clairo) %%~! <-
 -> %pink% best viewed in light mode <3 %% <-
+-> !~%pink% [contacts](/jibbitz) %%~! <-
 ->![bow](https://media.discordapp.net/attachments/1112655651416588371/1215112879963906078/Untitled76_20240306184442.png?ex=65fb910e&is=65e91c0e&hm=ab86e62d97633eedc3616cbdd6e41f8ae8c8d78313c44f65e1cd014e4f3cb4fd&)‎ ‎ ‎‎ ‎ ‎  ‎ ‎‎‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ %#F1BCCB% .co/starling%% ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎![bow](https://media.discordapp.net/attachments/1112655651416588371/1215112879963906078/Untitled76_20240306184442.png?ex=65fb910e&is=65e91c0e&hm=ab86e62d97633eedc3616cbdd6e41f8ae8c8d78313c44f65e1cd014e4f3cb4fd&)
  ![](https://media.discordapp.net/attachments/1112655651416588371/1215140635615699004/Untitled75_20240306203452.png?ex=65fbaae7&is=65e935e7&hm=0b79914a13880129e498a57ab8c64ee9055d95bad976ec2d695db44930b3cdab&)<-
 -> ![main gif](https://media.discordapp.net/attachments/1112655651416588371/1215112548475736084/IMG_3210.gif?ex=65fb90bf&is=65e91bbf&hm=682b55fb4048a3fb528141c12b24f735c732e59cd0c82096a7c95dbe0debf8ea&) <-

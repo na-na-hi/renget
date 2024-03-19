@@ -1,3 +1,7 @@
+Questions? Friend & DM: enrop
+This is only for those who can't get help in whatever server this guide remains in, as all info still gets updated. 
+
+
 ---
 # Guide for [W-Okada's RealTimeVoiceChangerClient](https://github.com/w-okada/voice-changer/blob/master/README_en.md)
 ---

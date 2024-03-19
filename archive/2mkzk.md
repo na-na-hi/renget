@@ -5,18 +5,18 @@
 
 Cunny Challenge Mk. II will be whenever pixelkike is ready.
 
-##24/03/14-24/03/17 (yy/mm/dd)
+##24/03/21-24/03/24 (yy/mm/dd)
 
 ##Melts
 
 **THU: - at 3UTC ()** 
-**FRI: Rockman Taisen at 3UTC (Parsec)**
+**FRI: Rush Marine at 3UTC (Parsec)**
 **SAT: Dragon Ball Z: Buu's Fury at 3UTC (Telemelt)**
-**SUN: Minemelt at 19UTC* (Minecraft)**
+**SUN: Assault Suit Valken at 19UTC* (Telemelt)**
 
 ##Cytubes
 
-**SAT: Ryuusei no Rockman Tribe at 19UTC** 
+**SAT: Ruby-Spears Megaman at 19UTC** 
 **SUN: - at 17UTC**
 
 >-

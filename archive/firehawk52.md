@@ -309,7 +309,6 @@ Download ZSpotifyGUI [here](https://github.com/PacketSurf/ZSpotifyGUI). Thanks t
 #### Multi-downloaders
 https://t.me/mymusics12bot (Spotify, Deezer, and Qobuz - and receive individual files or as a zip-file)
 https://t.me/deezertogdrivebot (Spotify and Deezer)
-https://t.me/music_ripper_bot (Qobuz, Tidal, and Soundcloud) & Chat: https://t.me/+aCvHlP9g1jpjNjU1
 #### Amazon Music
 https://t.me/GlomaticoAmazonMusicBot (thanks to Glomatico)
 #### Apple Music
@@ -321,8 +320,6 @@ https://t.me/beatport_downloader_bot (thanks to Filosk)
 https://t.me/deezload2bot - ==ARLs== [see above](#deezer-arls)
 #### Napster
 https://t.me/napsterdl_bot (thanks to TheKVT)
-#### Tidal
-https://t.me/flacboxbot (thanks to udreamtoosmall)
 ***
 > ## Websites
 
