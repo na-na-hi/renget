@@ -1,13 +1,9 @@
-[%#000000%**↺**%%](border)
- ->![](https://files.catbox.moe/vjbufz.png)
-![](https://files.catbox.moe/7c071t.png)<-
+[%#000000%**Home**%%](border)
+***
+***
  
-->![](https://files.catbox.moe/17naum.gif)<-
+->![](https://files.catbox.moe/kt4kdl.png)<-
 
+->[%#C59D84%**Red**%%](red_pixels) ✧ [%#C59D84%**Orange, Yellow & Brown**%%](orange_pixels) ✧ [%#C59D84%**Green**%%](green_pixels) ✧ [%#C59D84%**Blue**%%](blue_pixels) ✧ [%#C59D84%**Purple**%%](purple_pixels) ✧ [%#C59D84%**Pink**%%](pink_pixels) ✧ [%#C59D84%**Black & White**%%](bw_pixels) ✧ [%#C59D84%**Fandom**%%](fandom_pixels) ✧ [%#C59D84%**Multicolour**%%](multi_pixels)<-
 ***
 ***
-
-->[%#ffb5d4%**Red**%%](red_pixels) ✧ [%#ffb5d4%**Orange, Yellow & Brown**%%](orange_pixels) ✧ [%#ffb5d4%**Green**%%](green_pixels) ✧ [%#ffb5d4%**Blue**%%](blue_pixels) ✧ [%#ffb5d4%**Purple**%%](purple_pixels) ✧ [%#ffb5d4%**Pink**%%](pink_pixels) ✧ [%#ffb5d4%**Black & White**%%](bw_pixels) ✧ [%#ffb5d4%**Fandom**%%](fandom_pixels) ✧ [%#ffb5d4%**Multicolour**%%](multi_pixels)<-
-
-->![](https://files.catbox.moe/61fv89.png)
-![](https://files.catbox.moe/vjbufz.png)<-

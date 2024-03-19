@@ -1,6 +1,4 @@
-the guy who brainwashed us into shipping kaeluc broke up with me okay ! stop bashing chiffon it wasnt even him who shipped it lmao !! ( hes also a groomer lol @dilucumslut on twt ☺ )
-
-***
+.co/ragnvindr 4 contact :smile:
 
 -> ୧~~‿‿‿‿‿‿~~﹒‿୨ ![](https://files.catbox.moe/xtsta9.png) ୧‿﹒~~‿‿‿‿‿‿~~୨ <-
 

@@ -25,7 +25,7 @@ Wip. I'm changing this :-)
 
 ->◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠<-
 ->      =͟͟͞♡ 𓂅 **other rentries**  ![](https://media.discordapp.net/attachments/903364339464044575/1091271792242475029/BC510E6D-3EF8-429A-9D63-FAAFEBADFE9E.gif) <-
--> [heroineidol](https://rentry.co/heroineidol) & [illangel](https://rentry.co/illangel) & [vampaku](https://rentry.co/vampaku) & [thefirstangel](https://rentry.co/thefirstangel) & [nears](https://rentry.co/nears) & [mireihayasakas](https://rentry.co/mireihayasakas) & [vamplet](https://rentry.co/vamplet) & [apologygirl](https://rentry.co/apoiogygirl) & [shybat](https://rentry.co/shybat) & [yundere](https://rentry.co/yundere) & [mitsukinanokas](https://rentry.co/mitsukinanokas) & [torso](https://rentry.co/torso) <-
+-> [heroineidol](https://rentry.co/heroineidol) & [illangel](https://rentry.co/illangel) & [vampaku](https://rentry.co/vampaku) & [thefirstangel](https://rentry.co/thefirstangel) & [nears](https://rentry.co/nears) & [mireihayasakas](https://rentry.co/mireihayasakas) & [vamplet](https://rentry.co/vamplet) & [apologygirl](https://rentry.co/apoiogygirl) & [shybat](https://rentry.co/shybat) & [yundere](https://rentry.co/yundere) & [mitsukinanokas](https://rentry.co/mitsukinanokas) & [torso](https://rentry.co/torso) & [remorse](https://rentry.co/remorse) & [murai](https://rentry.co/murai)<-
 ->◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡<-
 
 ->◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠<-

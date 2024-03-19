@@ -19,11 +19,11 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
 ->![](https://files.catbox.moe/h3habt.png)<-
 !!! info
 	Recent Updates:
+	19.04.24: Added new card 'Evelyn' under Unreleased Cards
 	27.01.24: Added new card 'Luna' under Unreleased Cards
 	26.01.24: Added new card 'Yumiko'
 	17.12.23: Added new card 'Merry'
 	06.11.23: Added new card 'Yumi' under Unreleased Cards
-	17.09.23: Made significant update to 'Elia' - v0.2 available under Unreleased Cards
 
 
 ***
@@ -105,6 +105,8 @@ I'm open to bot requests, though I do not make femdom, netorare, or male/futa ca
     Stuff not found on Chub. Pre-releases, prototypes, scraped cards, etc.
 |  |  | 
 | ------ | ------ |
+| **Evelyn** | https://files.catbox.moe/c4gje1.png |
+| ![Evelyn](https://files.catbox.moe/c4gje1.png) | **[Nuggest's Eldritch Adventures Vol.2] In this incarnation, you travel to earth. However, you are mistaken for a schizophrenic and hospitalized in a psychiatric ward...** [v0.1, Claude 2 04.03.24] *`No char description, only basic info`*|
 | **Luna** | https://files.catbox.moe/whnt2n.png |
 | ![Luna](https://files.catbox.moe/whnt2n.png) | **[Nuggest's Eldritch Adventures Vol.1] In this incarnation, you saved a kingdom from the invading demon horde. As reward for your assistance, the king offered his daughter's hand to you. She expected a grotesque monster, but you do not quite fit the image...** [v0.2, Claude 2 23.12.23] |
 | **Yumi** | https://files.catbox.moe/w16jzt.png |

@@ -161,6 +161,7 @@ guess the ELO:
 - https://www.chess.com/calendar
 - https://www.chessmix.com/chess-tournaments
 - https://chess-calendar.eu
+- https://chess-results.com/Kalender.aspx?lan=1
 - https://calendar.chessaround.com
 - https://worldchesscalendar.com
 - http://wheretoplaychess.info/Calendar
@@ -571,6 +572,7 @@ animated GIF from PGN, puzzle editor, etc.:
 
 convert GIF to WebM:
 - https://ezgif.com/gif-to-webm
+- https://cloudconvert.com/gif-to-webm
 
 create GIF, MP4, WebM:
 - https://sharechess.github.io

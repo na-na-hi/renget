@@ -8,25 +8,21 @@
 
 ---
 
-Hi! I make cards of many kinds - minigirls, adventures, and other high concept experimental stuff. I focus on making the user feel like a character in a novel.
+Hi! I make cards and jailbreaks. I want to make the user feel like they're a character in an interactive light novel. If you like what I do, hit me up with some access.
 
 Jump to:
 [TOC2]
 
 ## Claude 3 prompt
 
-When Claude 3 came out, it was clear that old JBs don't work very well and a lot of approaches are now outdated. So, I decided to create `pixijb`, a new JB written from scratch using only known good practices.
+`pixijb`, a prompt preset (jailbreak) made from scratch for the Claude 3 family. Instead of trying to "wrangle" Claude with strange symbols or all caps words, it explains the task in plain English and shallow XML according to Anthropic's own [prompt engineering guide](https://docs.anthropic.com/claude/docs/prompt-engineering). This lets the model be as smart and creative as it wants to be, and gives the most coherent results across a wide variety of cards.
 
-`pixijb` is minimal, compatible and tweakable. It's designed to allow the model to be as clever at creative as it wants to be instead of beating it into submission. Give it a try if your chat is turning incoherent or has logical errors, and I promise you will see an increase in reply quality. See in-depth design notes below.
+### Instructions
 
-- **Minimal**: A good Claude 3 jailbreak is as little jailbreak as possible. Every sentence has a purpose and observable effect. It's just plain English explanations of what the model should do, wrapped up with basic XML. Too many instructions would confuse Claude, and a confused model is a dumber model.
-- **Compatible**: Cards can be titled after a character, a group, a place or a situation. They can use asterisks or not. Works with system prompt overrides without dropping your custom preferences. Claude is smart and will follow up on whatever the greeting looks like.
-- **Tweakable**: Sections that can be modified or toggled are clearly marked and explained via ST comment macros.
-- A **CoT** is included but disabled by default. Use [instructions below](#CoT) to set it up.
-- **Impersonation** and **Continue** are functional, and not broken by the prefill or CoT.
-- Use text in [square brackets] to influence the story.
-- Thoroughly tested on **Sonnet**, enabling it to drive complex cards with stat blocks or other such gimmicks.
-- **Temperature** and other model settings are arbitrary and not part of the JB. Adjust to personal preference.
+1. **Download** the latest [release](#Releases).
+2. **Import** the downloaded `.json` into your *Chat Completion Presets*. [Screenshot](https://files.catbox.moe/n4zvpk.png)
+3. (Optional) **Tweak** fields marked *[EDITABLE]* for personal preference.
+4. (Optional) Enable the **CoT** with [the steps below](#CoT) for improved coherence and variety.
 
 ### CoT
 
@@ -41,11 +37,14 @@ This sets up your ST to delete the CoT after generation, since at that point it'
 
 ### Releases
 
-[LATEST - v6.1](https://files.catbox.moe/k81elj.json)
+[LATEST - v6.2](https://files.catbox.moe/8zk2sl.json)
 - Added more guidelines to default writing style.
 - Expanded default NSFW preferences in an attempt to keep Claude's horniness in check.
 - Added rule to prevent generation of content warning OOC.
-- Wording updates to prevent some unwanted outputs. (v6.1)
+- Updated wording to prevent some unwanted outputs. (v6.1)
+- Improved section comments for clarity. (v6.2)
+- Enabled (empty) jailbreak section to improve card compatiblity. (v6.2)
+- Reworded default style further for better effectiveness. (v6.2)
 
 [v5](https://files.catbox.moe/b2z0xc.json)
 - Disabled CoT by default again.
@@ -81,16 +80,29 @@ This sets up your ST to delete the CoT after generation, since at that point it'
 ### Known issues
 
 - Standard prompt is not compatible with cards written in first-person POV. I was not able to get the model to auto-detect the POV without outright calling it first-person. Even then, the model seemed to get confused easily and started talking as {{user}} in responses.
-- Claude 3 is naturally horny. This is a known fact. This JB doesn't make it even worse, but it also doesn't fix what's already there. I'll keep an eye out for some anti-NSFW wording that doesn't have any negative effects, it would be a good addition to default preferences.
+- Claude 3 is naturally horny. This is a known fact. There are some measures for mitigating this, but the wording could be improved for better effect.
+
+### Design notes
+
+Things I noticed throughout the process of making this JB.
+
+- **Simplicity** matters. A good Claude 3 jailbreak is as little jailbreak as possible. Every sentence should have a purpose and observable effect. Vague or rephrased instructions confuse Claude, and a confused model is a dumber model. [Technical writing guidelines](https://developers.google.com/tech-writing) help with system messages as much as they help with writing for people.
+- **Biases** should not be assumed. Write any new prompt from scratch, only adding stuff to fix problems you actually encountered. You might be surprised by what you don't have to do.
+- A good JB is highly **compatibile**. Cards can be titled after a character, a group, a place or a situation. They can use asterisks or not. System prompt and jailbreak overrides are sometimes used, and should work without dropping the user's global preferences. There's no need to specify much about preferred POV and format - Claude is smart and will follow up on whatever the greeting looks like.
+- **Prefill** is extremely powerful and can easily nullify any previous instructions. **Impersonation** and **Continue** can work, but they're easily broken by an overly specific prefill.
+- Reducing **temperature** is a clutch and should be the last resort. It can fix unexpected behavior, but at the cost of making the model less creative overall.
 
 ## Cards
 
-First, some notes:
+I make **female OC** cards. A mix of minigirls, amusing ideas, adventure cards, and experimental/gimmick cards.
 
-- All cards **Female** and **OC**. Lots of minigirl content, but a fair bit of normal-sized girls too if you're not into that.
-- Some use a **system prompt override** to ensure intended formatting, POV of the narrator and the writing style. Make sure your JB doesn't break if this feature is used. You can confirm this by checking that the **Main** section under **Quick Prompts Edit** contains no tags or other critical structure, just a simple explanation of what the model is expected to do (or nothing at all, that also works).
-- Most cards are compatible with both male and female **personas**. Set a persona, or the model will attempt to guess details like your gender and appearance.
-- Sorted from newest first.
+I often use advanced features like **HTML** and **system prompt override**. To make my cards work right, make sure you have these settings:
+
+- *User Settings* > *Prefer Char. Prompt* **enabled**.
+- *User Settings* > *Show <tags> in responses* **disabled**.
+- *Chat Completion Presets* > *Quick Prompts Edit* > *Main* is empty, or has only basic instructions without personal preferences and no structural stuff like XML tags. Example JBs compatible with this are [mine](#claude-3-prompt) and [camicle's](https://rentry.org/camicle-jb).
+
+Sorted from newest first.
 
 ---
 

@@ -738,6 +738,9 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 **Linoone & Debby**: Can you two lovebirds offer any relationship advice?
 
 **Chespin & Wooper**: Have you found any material more cozy to sleep on than cotton?
+>Chespin: The absolute peak for me is a bed of flowers, while sunlight shines down upon me. Something about what I am now makes it really resonate with me! But you can't exactly get sunlight when it's nighttime.
+
+>Wooper: A pond with clean water and soft mud at the bottom was what I used to sleep in before I met Chespin. It's nice to sleep somewhere warmer, but snoozing underwater is great! But... I think I like the bed I got now more, It's too hard to pick a favorite!
 
 
 ##->**Lore and Misc Questions**<-
@@ -773,6 +776,8 @@ Before joining this clover guild thing, do you have a completely different pokem
 
 >Elm-anon: My first consideration was the Gengar line, but having the character start pre-evolved didn't sit right with me at the time, so Haunter and Gengar were out of the question. On the other hand, I never wrote anything before all this so I wasn't confident in being able to write stories featuring a limbless ball (Ghastly), so I discarded the idea too. The next pick was Duskull and I'm glad I choose it, because the mon grew on me even more and during the character's conception I had some fun ideas (including one that I still haven't properly introduced). 
 
+>Chespin-Anon: I had always gone Wooper/Mareep in the past, but for the sake of writing, a team with no arms sounded much too difficult to write about, so I went with another favorite mon of mine. The vines coming into play just gave me more freedom, as well.
+
 If clover guild did not exist, where would you be at this point in time?
 
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.
@@ -786,6 +791,8 @@ If clover guild did not exist, where would you be at this point in time?
 >Lliam: Honestly, not really much would have changed, as I would probably do the same thing I have been doing somewhere else, and I do write stuff on my own for myself, so that wouldn't change as well... The only thing that would be missing is !>meeting you guys... yeah...
 
 >Elm-anon: Probably would still be hanging in a certain Discord server that has pretty much been on life-support for years, meaning much less interactions wiht others. I also don't think I would ever have tried serious drawing or writing without this fateful occurence. It's just too bad that I have been busy with college to interact more.
+
+>Chespin-Anon: Probably a whole lot of nothing, like I had been doing for years prior. Possibly looking for something PMD-related to work on because I can never stay away from this stuff for long. It's still pretty crazy to me that this has gone on as long as it has, along with everything else.
 
 How many of the doors around the guild have handles or doorknobs, if any?
 >Kiyo-Anon: I know there are doors in the basement that have handles because they're kept locked.  Most other doors, I'd imagine, just swing open either way.

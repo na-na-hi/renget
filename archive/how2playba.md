@@ -1,6 +1,6 @@
 # /bag/ Newfag guide
 You get the youtube gems for free, regardless of any action you take. If you want to fill in the poll go [here and scroll down](https://www.youtube.com/@bluearchive_Global/community)
-
+[Shirokuro Grand Raid teams](https://arch-img.b4k.co/vg/1710848873294.png)
 
 No, it is not too late to play the game. The best time to start is now. 
 Not just a reroll guide. 

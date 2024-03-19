@@ -489,6 +489,20 @@ Unet onlyはプロンプトの応答性と品質がやや低下するように�
  ------ | ------
 ![Image](https://files.catbox.moe/tyq8pf.jpg) | 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
+### TEの有無(画風)
+Text Encoderの有無でどう変化するか比較。結果はいずれもモデルにマージしたもの。
+学習設定:`教師画像数:333*2,Batch size:2,Epochs:6,Optimizer:Lion,LR:0.0001,Dim:16,Alpha:6,Conv dim:8, Conv Alpha:2,Checkpoint:animagine-xl-3.1`
+weight_tmixがTE込み(text_encoder_lr=9e-06)でTurquoise-XL-2.0_rc1がunetオンリー。
+![Image](https://files.catbox.moe/63745z.webp)
+unetのみでは背景が赤レンガになっている。
+![Image](https://files.catbox.moe/u8dw0o.webp)
+unetのみでは背景の変化が大きいように見える。
+![Image](https://files.catbox.moe/dhr0ou.webp)
+unetのみでは背景の変化が大きいように見える上seed:3333は不自然になっている。
+
+#### まとめ
+画風の学習でもText Encoder込みで学習したほうがいいと思われる。TEのLRはunetの半分未満で良いかも？
+
 ### SDXLのDim(rank)
 本スレでdim1でいいという人もいれば16じゃないと微妙っていう人もいる。
 気になったのでdim1～16で比較してみる。

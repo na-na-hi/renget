@@ -23,6 +23,10 @@ https://www.youtube.com/watch?v=dQFw_-55pZ4
 https://www.youtube.com/watch?v=cRcAoPrw1R0
 https://www.youtube.com/watch?v=2s0fTApRGTk
 
+\>Animated Short: Rondo Across Countless Kalpas 
+https://www.youtube.com/watch?v=e5xueJq4Lwc
+https://www.youtube.com/watch?v=v9qTBUZtgQk
+
 \>Current Character Banners: (Sparkle, Jing Yuan + Hanya, Qingque, Sampo) - https://www.hoyolab.com/article/25550561
 \>Current Light Cone Banners: Earthly Escapade (Harmony), Before Dawn (Erudition) - https://www.hoyolab.com/article/25550638
 

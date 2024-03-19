@@ -38,7 +38,26 @@ The panel is unplanned, [as per Kiara](https://twitter.com/takanashikiara/status
 Source: https://twitter.com/sakito0510/status/1768913374803571193
 
 ##Fes stage 3 Watchalongs
+|Member|Title+Link|Timestamps|
+|----------|----------|----------|
+|Ao|[【 #hololivefesEXPO24_DAY2 】hololive 5th fes. Capture the Moment hololive stage3 DAY2同時視聴](https://www.youtube.com/watch?v=YT93SzK1XBc)|[mumei](https://youtu.be/YT93SzK1XBc?t=3888); [MC with Ollie](https://youtu.be/YT93SzK1XBc?t=4635); [Sorairo Days](https://youtu.be/YT93SzK1XBc?t=5561)|
+|FuwaMoco & Bijou|[【HOLOLIVE 5TH FES STAGE 3 WATCHALONG】an amazing moment in hololive history 🐾](https://www.youtube.com/watch?v=Fj1fDnwYU9Y)|[mumei](https://youtu.be/Fj1fDnwYU9Y?t=2924); [MC](https://youtu.be/Fj1fDnwYU9Y?t=3647); [Sorairo Days](https://youtu.be/Fj1fDnwYU9Y?t=4579)|
+
+
 
 ##Post Fes talk mentions
+|Member|Title+Timestamp|Descr. + Secondary timestamps|
+|----------|----------|----------|
+|IRyS|[【hololive EXPO & 5th Fes】OTSU FES & EXPO! Aftertalk! ](https://youtu.be/fsCnzrMBysI?t=1646) |Talked about Mumei's mumei and sang a of bit Sorairo Days.|
+|Haato| [【感想会＆お知らせ】hololive 5th fes. Capture the Moment](https://www.youtube.com/watch?v=FxNbCAr5qGU&t=2090s)|[2nd Timestamp](https://youtu.be/FxNbCAr5qGU?t=2384); Showing off her Taranchaama doodles in the EXPO venue.|
+|Subaru| [【#生スバル】5th Fes応援＆感想枠しゅばあああああああああ！！](https://youtu.be/TprwtnyzUVw?t=5124)|Endorsing Mumei's mumei. And how she begged her to sing it a number of times.|
+|Miko| [【振り返り裏話】hololive 5th fes. Capture the Moment](https://youtu.be/tvFxEAHSV38?t=1876)|Talked about playing Cards with Mumei and others JPs plus mane-chan before the show during day 2. [Bae joined in later to play Babanuki/Old maid](https://www.youtube.com/watch?v=tvFxEAHSV38&t=1876s) |
+|Kanade| [【雑談】EXPOとFesを振り返りつつのんびり雑談【音乃瀬奏】](https://youtu.be/PGvqTO_IzWk?t=1339)|Endorsing Mumei's mumei. A track she likes (in her Spotify playlist) even before the Fes.|
+
 
 ##Japan deets & mentions
+|Member|Title+Timestamp|Descr. + Secondary timestamps|
+|----------|----------|----------|
+|Kaela| [【OTSUFEST】JDON THE FEST](https://youtu.be/4Sj2adSMFyE?t=3111)|Meet Mumei before the fest, talked with her and Zeta for hours. [Couldn't find her on day 2.](https://youtu.be/4Sj2adSMFyE?t=5142); Also a bit on [how holomems are introduced to each other when they meet.](https://youtu.be/4Sj2adSMFyE?t=4429)|
+|FuwaMoco| [ 【HOLOLIVE EXPO & 5th FES 2024 CHATTING】recapturing the moment 🐾 ](https://www.youtube.com/watch?v=8ue76vb__Rs&t=2373)|MoomHug|
+|Towa|[【 応援会場&感想お礼枠！ 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾](https://youtu.be/-VoWj59GQl0?t=3149)|Talked with Bae and Mumei; Communicating is hard and [requires passion English](https://youtu.be/-VoWj59GQl0?t=6114).

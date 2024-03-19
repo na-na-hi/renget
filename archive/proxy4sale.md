@@ -8,6 +8,8 @@
 	- you will be given a user token with access to GPT-4 and Claude once the transaction is visible on chain
 
 !!! info **changelog** 
+	- im back
+	- refilled aws
 	- **128k** openai context
     - 3925086 proompts | 30.950b tokens | US$359298.12 cost 
     - tripcode for my 4chan posts: !!QgDb+BoQa9L

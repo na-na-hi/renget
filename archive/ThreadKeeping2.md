@@ -6,7 +6,7 @@
 ```
 Archives & Other Resources: https://pastebin.com/wETipqYw
 AllSync: https://cyoa.allsync.com/s/owWor64yLTngDk3
-Multiplayer Compilations: Temporarily under construction
+Multiplayer Compilations: https://rentry.org/MCYOA_Comp_Comp (was I supposed to do this?)
 In Case of Emergency, Break Glass: https://rentry.org/mcyoagCanary
 Threadslave Rentry: https://rentry.org/ThreadKeeping2
 [INSERT EDITION] Edition
@@ -2058,7 +2058,7 @@ Page 1
 >Ignore the mandatory drawback requirements listed on some Perks (Enhanced Bodyfags better watch their backs)
 >You must throw tomatoes at soulless powergaming builds
 
-Rentry: N/A
+Rentry: https://rentry.org/oaou4a3t
 
 Build List:
 >S-Rank:

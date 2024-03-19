@@ -3,7 +3,7 @@
 !!! warning Page still in WIP
 ***
 !!! note You can play Star Citizen on Linux. Check out the [lug-helper](https://github.com/starcitizen-lug/lug-helper), made by the [LUG](https://robertsspaceindustries.com/orgs/LUG) community. CIG has also expressed multiple times their intent to further support the game on Linux, starting with the [Vulkan API](https://youtu.be/SV9_chUpDgc?t=825).
-!!! danger I want to set your expectations going forward here; this game is by no means anywhere near complete. CIG and their database vendor have been struggling since the introduction of the [Persistent Entity Streaming](https://starcitizen.tools/Persistent_Entity_Streaming) core technology in patch 3.18, making server performance much worse along with many inventory issues. Take this into account while reading through the document.
+!!! danger I want to set your expectations going forward here; this game is by no means anywhere near complete, and many, many features are still incomplete and missing, along with plenty of tech debt and core technologies still in heavy development. It's an alpha project after all, regardless of the lengthy development time, there is no other way to put it. Despite that, it's not slowing down and, in fact, speeding up thanks to recent developments.
 
 # About
 ->[Jump straight to the Table of Contents](https://rentry.org/guier/#comprehensive-table-of-contents)<-
@@ -53,24 +53,25 @@ The downside to these YouTube tutorials for an alpha project like Star Citizen i
 
 Star Citizen is an ambitious kickstarter videogame project first announced on October 10th, 2012 at GDC by Chris Roberts, creator of the Wing Commander game series. Later that month, on October 18th, the [Star Citizen Kickstarter page](https://www.kickstarter.com/projects/cig/star-citizen) was officially launched, and quickly met its initial funding goal of $2 million. After the Kickstarter campaign reached its goal and beyond, CIG transferred the fundraiser to their own website, where it continued to gain funds primarily through ship sales—or "pledges," if you will.
 
-The kickstarter consists of an MMO and a single-player space opera built on a fork of the CryEngine, now officially dubbed StarEngine.
+The kickstarter consists of an MMO and a single-player space opera, and was built on a fork of the CryEngine, now heavily modified into becoming whats is now dubbed as, StarEngine.
+
 The MMO portion of Star Citizen, the "**[Persistent Universe](https://starcitizen.tools/Persistent_Universe)**", is an immersive open world space sim  PvPvE sandbox, that is currently still in its alpha development phase. The PU consists of 100 player cap servers and one explorable star system called **Stanton** that is home to:
 >4 planets, 1 of them being a Gas giant.
 >4 handcrafted explorable cities per planet, including a floating city in the gas giant.
 >12 moons, 3 in orbit per planet.
 >4 orbital stations, and 16 more within [Lagrange points](https://starcitizen.tools/Lagrangian_point).
 
-Along with derelict outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, derelict settlements, [a prison](https://starcitizen.tools/Prison), and an outlaw space station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens. There are over [100 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've given a brief rundown further down below. 
+Along with derelict outposts of various types, [caves](https://starcitizen.tools/Caves_and_caverns), small underground facilities, derelict settlements, [a prison](https://starcitizen.tools/Prison), and an outlaw space station called [Grim Hex](https://starcitizen.tools/Grim_HEX). You can visit all these seamlessly without any loading screens. There are over [200 flyable ships/variants](https://starcitizen.tools/Purchasing_ships), that can be bought for [in-game currency](https://starcitizen.tools/Alpha_UEC). The game currently offers a few different professions, with various levels of polish and depth that I've given a brief rundown further down below. 
 
-As it stands, **there is no solid release date** for any "official" persistent universe launch, as we are still waiting on many more features, along with [core backend networking technology](https://www.youtube.com/watch?v=LTopxLqh5wE) to allow multiple game servers to work simultaneously in a "server mesh" that will enable CIG to add far more content, such as additional star systems and players within the same game shard. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
+As it stands, **there is no date** for any "official" persistent universe release, as we are still waiting on many more features, along with [core backend networking technology](https://www.youtube.com/watch?v=LTopxLqh5wE) to allow multiple game servers to work simultaneously in a "server mesh" that will enable CIG to add far more content, such as additional star systems and players within the same game shard. [This recent video shows off what StarEngine can currently do](https://www.youtube.com/watch?v=nWm_OhIKms8), but it's far from finished.
 
-**[Squadron 42](https://starcitizen.tools/Squadron_42)** is a cinematic single-player campaign that takes place in the [Vega](https://starcitizen.tools/Vega_system) and [Odin](https://starcitizen.tools/Odin_system) Star Systems, set before the events of the persistent universe. Chris Roberts said himself that SQ42 will be "this generation's wing commander", and has, for the most part, been the main development focus of CIG. SQ42 boasts an impressive A-list Hollywood cast with actors such as Gary Oldman, Mark Hamill, Gillian Anderson, Mark Strong, Andy Serkis, John Rhys-Davies, and more. 
+**[Squadron 42](https://starcitizen.tools/Squadron_42)** is a cinematic single-player campaign that takes place in the [Vega](https://starcitizen.tools/Vega_system) and [Odin](https://starcitizen.tools/Odin_system) star systems, set before the events of the persistent universe. Chris Roberts said himself that SQ42 will be "this generation's wing commander", and has for the most part, been the main development focus of CIG. SQ42 boasts an impressive A-list Hollywood cast with actors such as Gary Oldman, Mark Hamill, Gillian Anderson, Mark Strong, Andy Serkis, John Rhys-Davies, and more. 
 
 As of Citizencon 2023, [CIG has announced SQ42 is now "feature complete"](https://www.youtube.com/watch?v=IDtjzLzs7V8) and has entered its polish phase, **but has yet to provide a solid release date**.
 ***
 ***
 ###->What is there to do in-game?<-
-Here I will list out the current professions Star Citizen has to offer (in their alpha/incomplete state) with a brief summary for each, and let you decide on what sounds appealing to your preferred playstyle. Give each one a chance, and don't burn yourself out on just doing one mindless grind for money. 
+Here I will list out the current professions Star Citizen has to offer (in their alpha and incomplete state) with a brief summary for each, and let you decide on what sounds appealing. Give each one a chance, and don't burn yourself out on just doing one mindless grind for money. 
 
 !!! note These can all be done solo.
 
@@ -180,7 +181,7 @@ Note that the servers themselves are always under constant strain 24/7, so lag, 
 ***
 ####System Recommendations
 !!! danger INSTALLING STAR CITIZEN ON A SSD IS MANDATORY. NO EXCEPTIONS.
-!!! warning Despite 16GB of RAM being the minimum required, **it's heavily recommended** to either upgrade to 32GB of RAM, or set up a pagefile to allocate a certain portion of your SSD to act as system memory for **a much better experience**. Read more about pagefiles [here](https://support.robertsspaceindustries.com/hc/en-us/articles/360000083387-Out-of-memory-errors-set-your-pagefile)
+!!! warning Despite 16GB of RAM being the minimum required, **it's heavily recommended** to either upgrade to 32GB of RAM for **a much better experience**. 
 !!! note [Here](https://www.youtube.com/watch?v=H9zUwbXApbE) is a video on building a PC around Star Citizen.
 
 Official Resources: | Links:
@@ -198,7 +199,7 @@ Official Resources: | Links:
 
 2. The game does not currently have graphical texture presets; it all looks the same on Low > Very High. 
 
-3. If you are using an Intel CPU 12th or 13th gen, there is reported stuttering issues while having E-Cores enabled, so it might be worth disabling them.
+3. If you are using an Intel CPU 12th or 13th gen, there is reported stuttering issues while having E-Cores enabled, so I recommend disabling them.
 
 4. If you have a Nvidia GPU, this method may work for some to get a decent fps boost (no guarantees):
 

@@ -52,6 +52,7 @@
 01/2024|[A Minimaximalist Approach to Reinforcement Learning from Human Feedback (SPO)](https://arxiv.org/abs/2401.04056)
 02/2024|[Time-, Memory- and Parameter-Efficient Visual Adaptation (LoSA)](https://arxiv.org/abs/2402.02887)
 02/2024|[Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://files.catbox.moe/0tugft.pdf)
+03/2024|[PERL: Parameter Efficient Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2403.10704)
 |
 |**Deepmind (Google Deepmind as of 4/2023)** ->[Papers](https://www.deepmind.com/research) [Blog](https://www.deepmind.com/blog)<-
 10/2019|[Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -617,6 +618,7 @@
 03/2024|[Bifurcated Attention for Single-Context Large-Batch Sampling](https://arxiv.org/abs/2403.08845)
 03/2024|[Keyformer: KV Cache Reduction through Key Tokens Selection for Efficient Generative Inference](https://arxiv.org/abs/2403.09054)
 03/2024|[Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622)
+03/2024|[Recurrent Drafter for Fast Speculative Decoding in Large Language Models](https://arxiv.org/abs/2403.09919)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

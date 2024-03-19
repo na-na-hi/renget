@@ -1,1 +1,1 @@
-.co/hoardurl
+the content here has been moved to https://rentry.co/lnterested

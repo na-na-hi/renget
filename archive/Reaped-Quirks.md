@@ -297,11 +297,12 @@ Quirk Nullification
 Teleportation Quirk
 -Self
 -Others
+-Objects
 -Portals
 -Aura
--Long (XP)
+-Domestic(XP)
 
-14 Points
+15 Points
 
 !!!note
 	**Quirk:「Force Projection」**

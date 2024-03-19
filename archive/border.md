@@ -1,12 +1,5 @@
-->![](https://files.catbox.moe/vjbufz.png)
-![](https://files.catbox.moe/7c071t.png)<-
-***
-***
- ->【 ⠀[**%#F99AC2%Discord%%**](https://discord.gg/Dinkles)⠀◞⠀[**%#F99AC2%Pinterest%%**](https://pinterest.com/romarriche)⠀◞⠀[**%#F99AC2%Retrospring%%**](https://retrospring.net/@punpun)⠀ 】<-
-->![Free to use rentry resources](https://files.catbox.moe/zhpp26.png)<-
-->[%#ffb5d4%**Pixels**%%](https://rentry.co/borderpixels) ✦ [%#ffb5d4%**Dividers**%%](https://rentry.co/borderdividers) ✦ [%#ffb5d4%**Gifs**%%](https://rentry.co/bordergraphics) ✦ [%#ffb5d4%**Blinkies**%%](https://rentry.co/borderblinkies) ✦ [%#ffb5d4%**Buttons**%%](https://rentry.co/borderbuttons) ✦ [%#ffb5d4%**HTML Borders**%%](htmlborders) ✦ [%#ffb5d4%**Symbols**%%](https://rentry.co/bordersymbols) ✦ [%#ffb5d4%**Frames**%%](https://rentry.co/borderframes) ✦ [%#ffb5d4%**More**%%](bordermore)<-
- 
- ***
-***
-->![](https://files.catbox.moe/61fv89.png)
-![](https://files.catbox.moe/vjbufz.png)<-
+->%#41312F%【 %%⠀[**%#66959D%Discord%%**](https://discord.gg/Dinkles)⠀%#41312F%◞%%⠀[**%#66959D%Pinterest%%**](https://pinterest.com/romarriche)⠀%#41312F%◞%%⠀[**%#66959D%Retrospring%%**](https://retrospring.net/@punpun)⠀ %#41312F%】%%<-
+->![](https://files.catbox.moe/bcqfhw.png)<-
+->![DNS．Lilico's rentry resources](https://files.catbox.moe/0i0gn0.png)<-
+->[%#A7D0D4%**Pixels**%%](https://rentry.co/borderpixels) %#41312F%✦%% [%#A7D0D4%**Dividers**%%](https://rentry.co/borderdividers) %#41312F%✦%% [%#A7D0D4%**Gifs**%%](https://rentry.co/bordergraphics) %#41312F%✦%% [%#A7D0D4%**Blinkies**%%](https://rentry.co/borderblinkies) %#41312F%✦%% [%#A7D0D4%**Buttons**%%](https://rentry.co/borderbuttons) %#41312F%✦%% [%#A7D0D4%**HTML Borders**%%](htmlborders) %#41312F%✦%% [%#A7D0D4%**Symbols**%%](https://rentry.co/bordersymbols) %#41312F%✦%% [%#A7D0D4%**Frames**%%](https://rentry.co/borderframes) %#41312F%✦%% [%#A7D0D4%**More**%%](bordermore)<-
+->![](https://files.catbox.moe/mljan6.png)<-
