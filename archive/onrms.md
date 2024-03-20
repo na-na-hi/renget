@@ -7,8 +7,8 @@ this is a **novice-to-advanced guide** on AI and chatbotting. it presents key co
 
 AI specializing in text is called ==**LLM (Large Language Model)**==
 
-since late 2022, LLMs boomed, becoming a integral part of our world and significantly impacting various areas like communication and hobbies
-you are reading this and it mean you are curious about *using LLMs for bots, roleplay, fanfiction and creative writing*
+since late 2022, LLMs boomed, becoming an integral part of our world and significantly impacting various areas like communication and hobbies
+if you are reading this, it means you are curious about *using LLMs for bots, roleplay, fanfiction and creative writing*
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/mf0r4u.png) <-
 
@@ -53,7 +53,7 @@ if a character is well-known the definition could be as short as stating the cha
 remember, when you are chatting with a bot you are interacting with LLM *imitating character definitions*
 it's akin to modding in videogames - the underlying mechanics (engine) remain, only the visuals change
 
-different LLMs portray the same characters differently, i.e., **Rainbow Dash by one LLM will differ from Rainbow Dash by another LLM**
+different LLMs portray the same characters differently, e.g., **Rainbow Dash by one LLM will differ from Rainbow Dash by another LLM**
  
  
  
@@ -74,7 +74,7 @@ there are hundreds of LLMs worldwide, and you can chat with some for free **%#B0
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/9fac1t.png) <-
 
-> too many LLMs, which shall I use to talk with bot?
+> too many LLMs, which shall I use to talk with the bots?
 * best quality (generally) - **GPT-4**
 * best creative writing - **Claude**
 
@@ -88,7 +88,7 @@ there are hundreds of LLMs worldwide, and you can chat with some for free **%#B0
 * if you want to run LLM on personal hardware - **[LLaMA](https://huggingface.co/models?other=llama)** or **[Mistral](https://huggingface.co/models?other=Mistral)** merges
     - start with [this guide](https://rentry.org/lmg-spoonfeed-guide) from /g/lmg/
 
-> thoughts Google Gemini?
+> thoughts on Google Gemini?
 no redeeming qualities compared to GPT-4 and Claude. it just exists
 can provide a good variety if you are sick of other LLMs
 

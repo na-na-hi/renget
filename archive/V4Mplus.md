@@ -3,8 +3,8 @@ Below is a collection of links related to Brave Group's Western activities.
 [TOC]
 
 ##V4Mirai
-https://twitter.com/V4Mirai
 https://www.v4mirai.com
+https://twitter.com/V4Mirai
 https://holodex.net/?org=V4Mirai
 Sensei's Twitter: https://twitter.com/VeeSensei
 
@@ -36,9 +36,24 @@ V4Mirai YT playlist: https://youtube.com/playlist?list=PL38BbaZiGZTcgsOzPnYCvoBb
 V4Mirai on Spotify: https://open.spotify.com/artist/0akvMfrgHAwBTMXh5RxE3H?si=wGxtDIdwQdCMv2Fr7zFX1Q
 https://shop.bravegroup-us.com/collections/v4mirai
 
+###Recommended Streams
+Not sure where to start? Here are a few suggestions:
+Mariya:
+[The 3D Showcase](https://youtu.be/bKV0ZOe7CoU)
+A good chance to hear her sing and bounce off her genmates.
+[The possessive ASMR](https://youtu.be/klWij7A1XRw)
+The vampire does a lot of ASMR and a lot of roleplay, this one should give you a good sense if you'll enjoy her style.
+[Happy Hour Stream #1](https://youtu.be/0HQFVa16YH0)
+Part of Mari's charm is how playful and dorky she can get, that really comes out in this stream.
+
+Collabs:
+[The Uno Collab](https://youtu.be/LSyjrUCA5FA)
+[The Roblox Collab](https://youtu.be/E1qphYsanKI)
+The full Petalight collabs are always fun! 
+
 ##Globie
-https://twitter.com/globiesocial
 https://globie.net/
+https://twitter.com/globiesocial
 
 Gen 1 Teamup:
 https://teamup.com/ks39mtgw8rouen6d6y

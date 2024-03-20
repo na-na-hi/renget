@@ -69,9 +69,10 @@
 | HF038 | ![Image description](https://imgur.com/FPC3XCp.png) | N/A | https://imgur.com/tuwiblA | Anonymous | None | 
 | HF039 | ![Image description](https://imgur.com/CCTpW0h.jpg) | N/A | https://files.catbox.moe/j9pam5.webm | Anonymous | None | 
 | HF040 | ![Image description](https://imgur.com/x9XmTfU.jpeg) | N/A | https://imgur.com/NCwvHg6 | Anonymous | None | 
-| HF041 %red% **New!!** %% | ![Image description](https://imgur.com/P12neqv.jpeg) | N/A | https://imgur.com/a/pA5uZmJ | Anonymous | None | 
-| HF042 %red% **New!!** %% | ![Image description](https://imgur.com/iSrcHAc.jpeg) | Millicent [Elden Ring [🖼️](https://i.imgur.com/q9UrSCP.jpeg)] | https://imgur.com/WpXtUca | Anonymous | Missing Sliders? | 
-| HF043 %red% **New!!** %% | ![Image description](https://files.catbox.moe/f06hbg.jpg) | N/A | https://files.catbox.moe/v505w6.jpg | XULLuxolid | None | 
+| HF041 | ![Image description](https://imgur.com/P12neqv.jpeg) | N/A | https://imgur.com/a/pA5uZmJ | Anonymous | None | 
+| HF042 | ![Image description](https://imgur.com/iSrcHAc.jpeg) | Millicent [Elden Ring [🖼️](https://i.imgur.com/q9UrSCP.jpeg)] | https://imgur.com/WpXtUca | Anonymous | Missing Sliders? | 
+| HF043 | ![Image description](https://files.catbox.moe/f06hbg.jpg) | N/A | https://files.catbox.moe/v505w6.jpg | XULLuxolid | None | 
+| HF044 %red% **New!!** %% | ![Image description](https://files.catbox.moe/tdytui.png) | Cake | https://streamable.com/qkicum | Hag Champion | Feel free to improve on my bullshit anytime  | 
 
 ---
 
@@ -126,9 +127,11 @@
 | HM020 | ![Discworld book series](https://i.imgur.com/VqhSYAC.png) | Nobby Nobbs [Discworld book series [🖼️](https://i.imgur.com/Qngab9S.png)] | https://files.catbox.moe/bqdibv.webm | Anonymous | Fabricati diem, pvnc. | 
 | HM021 | ![Image Description](https://imgur.com/IYTdFbm.jpg) | Conan [Conan The Barbarian] | https://imgur.com/hIplNwx | Anonymous | None | 
 | HM022 | ![Image Description](https://imgur.com/vIEv1az.jpg) | Native Boy | https://streamable.com/4bg230 | Anonymous | from a /cm/ Anon | 
-| HM023 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/tpat27.png) | Uncle Ruckus [The Boondocks [🖼️](https://imgur.com/KeUJRWM.jpg)] | https://files.catbox.moe/ft8s68.jpg | Anonymous | Don't trust them new Arisens over there! | 
-| HM024 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/zawsxn.png) | Leon Redfield [Resident Evil [🖼️](https://i.imgur.com/erblTlp.jpeg)] | https://files.catbox.moe/7ewyie.png | Anonymous | Didn't do body, should change head size if you don't make him a manlet. | 
-| HM025 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/vxgsho.jpg) | N/A | https://files.catbox.moe/ayqybo.jpg | XULLuxolid | None | 
+| HM023 | ![Image Description](https://files.catbox.moe/tpat27.png) | Uncle Ruckus [The Boondocks [🖼️](https://imgur.com/KeUJRWM.jpg)] | https://files.catbox.moe/ft8s68.jpg | Anonymous | Don't trust them new Arisens over there! | 
+| HM024 | ![Image Description](https://files.catbox.moe/zawsxn.png) | Leon Redfield [Resident Evil [🖼️](https://i.imgur.com/erblTlp.jpeg)] | https://files.catbox.moe/7ewyie.png | Anonymous | Didn't do body, should change head size if you don't make him a manlet. | 
+| HM025 | ![Image Description](https://files.catbox.moe/vxgsho.jpg) | N/A | https://files.catbox.moe/ayqybo.jpg | XULLuxolid | None | 
+| HM026 | ![Image Description](https://imgur.com/baZBZxl.jpg) | N/A | https://files.catbox.moe/arjorl.jpg | Anonymous | None | 
+| HM027 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/sm1eln.jpg) | N/A | https://files.catbox.moe/r3khhn.png | Anonymous | None | 
 
 
 ---
@@ -148,7 +151,7 @@
 | BM005 | ![Image description](https://files.catbox.moe/pyxe9s.jpg) | Ajani G.Mane [MTG [🖼️](https://i.imgur.com/7QB2uQk.jpeg)] | [Page 1](https://files.catbox.moe/7y3de5.jpg) , [Page 2](https://files.catbox.moe/6vijtb.jpg) , [Page 3](https://files.catbox.moe/jxlysb.jpg) , [Page 4](https://files.catbox.moe/mvho48.jpg) | Silibus | None |
 | BM006 | ![Image description](https://i.imgur.com/tjALE5C.jpeg) | Rathian | https://imgur.com/FsLNq0u | Anonymous | None | 
 | BM007 | ![Image description](https://imgur.com/oJOLARi.jpeg) | N/A | https://files.catbox.moe/buq82g.mp4 | Anonymous | from a /cm/ Anon | 
-| BM008 %red% **New!!** %% | ![Image description](https://i.imgur.com/boTLKy1.png) | Sigmund | https://imgur.com/a/5oY3l2D | Anonymous | None | 
+| BM008 | ![Image description](https://i.imgur.com/boTLKy1.png) | Sigmund | https://imgur.com/a/5oY3l2D | Anonymous | None | 
 
 
 ---

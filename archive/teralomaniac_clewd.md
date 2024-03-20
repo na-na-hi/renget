@@ -1,4 +1,4 @@
-# 官网Claude2食用方法（搭配Clewd使用）
+# 官网Claude3食用方法（搭配Clewd使用）
 !!! danger 本教程及 [Clewd修改版](https://github.com/teralomaniac/clewd) 禁止转发任何收费群组/论坛或用于收费项目，警惕任何高风险cookie购买服务，以及破坏中文AI开源共享环境倒卖免费资源抹去署名的群组（黑名单：AI新服务、浅睡(鲑鱼)、赛博女友制作人）
 
 !!! 本教程所有内容采用 CC BY-NC 4.0 许可协议进行许可 [协议内容](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
@@ -88,7 +88,7 @@
 > **使用说明：**先上传图片到[catbox](https://catbox.moe)，然后将说明+后缀填入`<illustration_list>`，说明请使用汉字等非数字字母，以下为示例
 > 
 > ==正则(regex)== （从上到下依次排列）`/<(illustration|img)>.*[^0-9A-Za-z\.\s</>]+/gm`替换为`<center><img src=https://files.catbox.moe/`；`/<\/(illustration|img)>/g`替换为`? width=50% /></center>`（50%可以修改为你需要的图片宽度）所有正则同时勾选用于AI output 和 Only Format Display
-> ==酒馆≥1.11.5正则== [1.11.5专用正则下载](https://files.catbox.moe/t8o9ix.json)
+> ==酒馆≥1.11.5正则== [1.11.5专用正则下载](https://files.catbox.moe/rwjbvq.json)
 ``` html
 ## The “<illustration>” is the rule for inserting illustrations.
 <illustration>

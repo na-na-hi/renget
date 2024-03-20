@@ -604,7 +604,7 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 
 >Adrian: To my father and my sister. I want them to know I'm alive and I miss them
 
->Carrot: I don't remember much, in fact i only remember one name, so i'd send mister Ali a letter asking who are them and why i know their name
+>Carrot: I don't remember much, in fact i only remember one name, so i'd send mister Arsene a letter asking who's he and why i remember his name
 
 >Booker: I’d definitely send a letter to... m-my whole family. I... I still really do miss them. I’ve already made up my mind to stay here in this world, but I want my family to know I’m o-okay. I NEED them to know I’m okay. Even if they don’t believe it, I need to tell them what happened to me. Hopefully we’ll find some way to com-communicate with the Old World, even if we can’t physically go back there again...
 
@@ -678,6 +678,8 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 >Lliam: Overflowing psychic power... %darkred%It hurts%%. It's like being crammed inside a cage. Espurrs are cursed creatures; 'letting it go' is like sneezing, which will result in destruction around you. Marvel to those that can hold a smile on their faces despite the eternal struggles...
 
 >Elm: It sure would have been nice to know about the drawbacks of phasing through walls before I started playing around inside them and the next thing I know I'm starving to the point of feeling like I could eat a whole Tauros!
+
+>Carrot: How to live without hands and walking on fours
  
 **Dog, cat, and fox mons**: Do you ever get the zoomies?
 >Adrian: Never
@@ -690,6 +692,9 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 >Sneasel: Uh... do I count as a cat? Booker told me I’m like part cat and part weasel, so guess I’ll answer. I don’t get hyper and bounce off the walls, but I do get excited sometimes, especially if I’m in a fun fight. Training and fighting help me release my energy, so I don’t get antsy too often.
 
 >Lliam: I suppose there were times back then, but when memories returned, I think that's where I stopped.
+
+>Carrot: ... never... !>*His tail wags vigorously*
+>Hazel: He's lying, i've catched him gnarling at his own tail while he- (Carrot pounces on Hazel, dragging her out of the room)
 
 **Everyone**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
 >Sneasel: Yeah, I do. Got parents, but no siblings. But... I dunno if I’ll ever see them again. Big dungeon shift took me away from my home, and I dunno how to get back... I miss them. My parents were pretty big on tough love, just like the rest of the tribe. But that’s cuz life on the Island was so harsh. I know they meant the best for me. I’d love to introduce Booker to everyone in the tribe, but first, we’ve gotta find the way back there... I don’t like talking about this. Next question.
@@ -704,10 +709,15 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 **Guildmons**, If your character had to trade partners with another guild members, which other partner do you think would suit them best?
 >Adrian: I don't want to be partners with anybody, but if I was forced to, Toge was alright during that one job we did together.
 
+>Carrot: Well, i don't know, i'm new here so i'm not sure
+>Hazel: Same answer
+
 **Guildmons**, You saw a job listing in the bulletin board with a huge reward, but the description is quite suspicious to say the least... would you still risk it and take the job?
 >Cider: Who would be dumb enough to take a suspicious job? Y'know, this reminds me - one time I heard that someone at Wigglytuff's Guild went off to Amp Plains because of a ransom note and almost got mauled to death by a tribe of Electrike! Or... was it a tribe of Luxio? Eh, doesn't matter, point is that they were total morons for taking that mission on!
 
 >Elm: Hey, something like that could make up for a fun story to tell others later! I would at least meet the client and ask for more details. 
+
+>Carrot & Hazel: Eh, we've taken worse jobs, worst case scenario we miss the reward but catch whoever requested the job
 
 **Guildmons**, An outlaw you've captured recently was accepted into the guild after he said that he was reformed (turns out to be a humon); would you accept him with open arms or would you be suspicious about his change of heart?
 >Adrian: I would kill Machamp on sight purely because he devolved me. I don't care where he's from, what he is, or what he wants to do at the guild. I hate him with every fiber of my body, more than anyone else I've ever fought. Any other outlaws, I don't really trust them. I'll leave that decision to the Guildmaster
@@ -718,8 +728,13 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 
 >Cider: Obviously suspicious, but hey, them tracking me down and offing me in my own dorm would at least be a mercy kill. I'd respect the commitment!
 
+>Carrot: People can reform, but i'd be wary
+>Hazel: Same answer, again
+
 **Everyone**, It's a holiday! (is there such a thing in the PMD world?) How would like to spend your time in this ocassion? Would you still work and rescue Pokemon in Mystery Dungeon? Travel somewhere, err... lavish? Hang out in the guildhall all day long?
 >Elm: Holidays usually mean seasonal food, customs and goods, meaning it's time to walk around downtown and have a look at the shops!
+
+>Carrot & Hazel: Shopping, maybe keep a watch on dungeons to avoid anyone going in, or travel around
 
 **Former humans**, Let's say PMD is an existing video game for us humons. Would you feel a bit of dread that you're in a world that's so similar to that video game? And would you tell your partner, or any native mon? Perhaps mention about it to other humons?
 >Elm: I sure am not going to mention *that* to a native. Imagine approaching people and saying that their whole world is based on a piece of fictional entertainment. I probably would be thrown into some mental institution for that.
@@ -728,10 +743,14 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 >Oh man. Then I better keep that in mind and just avoid the subject entirely.
 >And maybe it's the opposite: PMD is based on this world! Yeah, let's go with that tinfoil hat theory for now.
 
+>Carrot: I've discussed this plenty with Hazel, she was at first dubious but now uses some of that innate knowledge about the world i have for our advantage, but being quite fair i remember at best snippets
+
 **Guildmons**, What's your role in the guild, if any?
 >Booker: Aside from supporting Sneasel in missions, I work as Macom’s assistant, helping out with cartography. I’ve also been working on these... notebooks and pamphlets, full of info about dungeons, to help guild members prepare for missions. Porygon2 has been really helpful. It—I mean, h-he—has a lot of data. It’s outdated, but still useful. Oh, a-and I also help other people with missions, sometimes. If Sneasel is busy, and I have no other work to do, sometimes I wait by the mission board and offer to join other teams or guild members. I can’t fight very well, but I can give them advice, manage their items, and use a couple buffing moves.
 
 >Lliam: Uhh... yeah. Yeah? Yeah.
+
+>Carrot & Hazel: We're kinda seasoned so i guess training the new members and go into more complex dungeons like Zero Isle?
 
 **Former humans**, What's the one thing you missed the most from the human world?
 >Makuhita: My friends and family. I'm worried about my little brother in particular. I know he's in college now, but he was never the best at standing up for himself.
@@ -742,9 +761,16 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 >...
 >Just kidding! My actual answer is MEAT!!! Slowpoke tails are nice and all, but they still don't compare to juicy steaks or crispy karaage.
 
+>Carrot: Actual meat too
+
 **Guildmons**, Let's say a fellow guild member messed up on their mission, big time, and then the client confronts you about it. Would you tell them the truth or would you cover for them?
 
 **Everyone**, If you enter a mystery dungeon and the enemy spawned is based on your friends... Are you capable on beating them up?
+
+>Carrot: Maybe a bit, i've seen more Liepards so i've come to get used to it but still, sometimes i have to check if they're not Hazel
+>Hazel: Absol-utely without a doubt, i can recognize Carrot even if there were a thousand Lycanrocs there
+
+**Everyone**, Your character's music theme?
 
 ##->**Pair Questions**<-
 
@@ -797,6 +823,8 @@ Before joining this clover guild thing, do you have a completely different pokem
 
 >Chespin-Anon: I had always gone Wooper/Mareep in the past, but for the sake of writing, a team with no arms sounded much too difficult to write about, so I went with another favorite mon of mine. The vines coming into play just gave me more freedom, as well.
 
+>Carrot-Anon: Maybe? I already had the basic outline of Carrot and Hazel from another project but i ported them to the Clover world, at the same time there's a tidbit of Carrot lore i will probablh never mention or do due to it being a bit fucked up, it's still canon but idk if i should make it an important part of the non-canon story
+
 If clover guild did not exist, where would you be at this point in time?
 
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.
@@ -812,6 +840,8 @@ If clover guild did not exist, where would you be at this point in time?
 >Elm-anon: Probably would still be hanging in a certain Discord server that has pretty much been on life-support for years, meaning much less interactions with others. I also don't think I would ever have tried serious drawing or writing without this fateful occurence. It's just too bad that I have been busy with college to interact more.
 
 >Chespin-Anon: Probably a whole lot of nothing, like I had been doing for years prior. Possibly looking for something PMD-related to work on because I can never stay away from this stuff for long. It's still pretty crazy to me that this has gone on as long as it has, along with everything else.
+
+>Carrot-Anon: I already am in another project, to be honest Clover was a side project that suddenly became my main focus from time to time but yeah, i'd be focusing more in the other project i have 
 
 How many of the doors around the guild have handles or doorknobs, if any?
 >Kiyo-Anon: I know there are doors in the basement that have handles because they're kept locked.  Most other doors, I'd imagine, just swing open either way.

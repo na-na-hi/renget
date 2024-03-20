@@ -549,7 +549,7 @@ She feels pathetic, watching Kiyo’s head sink beneath the waves again.  She be
 
 Her voice disappears into the night, and there is no answer.  She looks back down, and watches Kiyo desperately breathe, eyes closed, moments before the wave topples over him again, and splashes Cassie in the face.  It’s completely unsustainable.  
 
-Cassie is about to give up hope, when she spots a hint of something aquatic swimming underneath Kiyo. She gasps, a glimmer of hope.  She gasps.
+Cassie is about to give up hope, when she spots a hint of something aquatic swimming underneath Kiyo. She gasps, a glimmer of hope.  
 
 The dark creature gets larger and larger.  Kiyo feels a current underneath him, and suddenly, he's standing on something.  It feels as though the weight of the world is lifted off, and finally he can rest.  His legs go limp, instantly, and he breathes in.  
 

@@ -831,6 +831,7 @@ Sandy Fights a Troll: https://desuarchive.org/tg/post/91829392/
 max: https://desuarchive.org/tg/post/92121336/
 teachsensei (Rosethorn): https://desuarchive.org/tg/post/92146498/
 Impakt: https://desuarchive.org/tg/post/92217693/
+Impakt (Casual Clothes): https://desuarchive.org/tg/thread/92217225/#92218623
 
 
 ***

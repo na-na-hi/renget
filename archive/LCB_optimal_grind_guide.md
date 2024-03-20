@@ -49,7 +49,7 @@ Blade Lineage (Great Poise ID) / Lantern (Great for Rupture teams)
 %gold%  000 %%
 W Crop (Your Nuke) / Chef (Good alternative, but he skill 3 requires setup to be a nuke and it can't clash)
 %gold%  00 %%
-Seven (Well balanced with great clash numbers)
+Seven (Well balanced with great clash numbers) / Liu (If you have a lot of Burn IDs, she's a great addition, otherwise, it's a skip)
 %#293b95%  Meursault: %%
 %gold%  000 %%
 Kim (A powerful Poise ID, and a great support for the other Poise IDs) / Rhino (Good alternative, tanky and can apply a lot of bleed)
@@ -72,7 +72,7 @@ All of her 000 IDs are great, it's just about the flavor. Liu (Burn) / Boatworks
 Don't bother
 %#820000% Rodion: %%
 %gold%  000 %%
-Dieci (Has Discard and shit ton of damage)
+Dieci (Has Discard and shit ton of damage) / Lu (As strong as Liu Ishmael, if not stronger, but she'd also prefer to be in a Burn team)
 %gold%  00 %%
 Don't bother
 %#8b9c15% Sinclair: %%

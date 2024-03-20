@@ -1,7 +1,5 @@
 ->**Things [/exeg/arbage](https://cytu.be/r/exegarbage) has managed to finish so far:**<-
 ->**(Yell if I forgot something kthx)**<-
-->**%red%Minecraft Gaming Night - Sunday, March 17th @ 8PM PDT (UTC -8)%%**<-
-->%red%check thread for details on Sunday%%<-
 ***
 **Slender shit**
 [EverymanHYBRID](https://www.youtube.com/playlist?list=PLeAwjcSvEr-wdeBNMQY9I-GnFJpTXNx2b): finished (good watch tbdesu)

@@ -3068,10 +3068,16 @@ Characters:
 - Kanna (Blaster Master Zero 2 - PDXL)
 - Lahla the Boo (Paper Mario TTYD)
 - Princess Shroob (Mario & Luigi Partners in Time)
+- Chain Chomp (Mario Bros.)
 
 # Anatomically Correct Canine Pussy
 >the trigger tag is just "canine pussy"
 https://files.catbox.moe/0lvtbk.safetensors
+
+# Feirune (Kumo Desu Ga)
+>Activation tag is "feirune" but refer to the catbox for an example prompt as well
+https://files.catbox.moe/x29ohc.png
+https://files.catbox.moe/9efvda.safetensors
 
 ## PonyXL LoRAs made by /h/
 >Basically just made a python script to download all the LoRAs in this rentry: https://rentry.org/ponyxl_loras_n_stuff . There's a powershell script in there that also downloads everything, but I'm on Linux which doesn't run that natively. Python is just more accessible in my opinion.
