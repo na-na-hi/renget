@@ -328,6 +328,5 @@ Projection Quirk
 -Shape (XP)
 -Esoteric
 -Knowledge Limit
-Quirk Refinement 
 
-7 Points
+6 Points

@@ -15,7 +15,7 @@ Jump to:
 
 ## Claude 3 prompt
 
-`pixijb`, a prompt preset (jailbreak) made from scratch for the Claude 3 family. Instead of trying to "wrangle" Claude with strange symbols or all caps words, it explains the task in plain English and shallow XML according to Anthropic's own [prompt engineering guide](https://docs.anthropic.com/claude/docs/prompt-engineering). This lets the model be as smart and creative as it wants to be, and gives the most coherent results across a wide variety of cards.
+`pixijb`, a prompt preset (jailbreak) made from scratch for **Claude 3 Sonnet** (Opus is a whole other beast and it doesn't work very well there. A version for it will come later once I have access.) Instead of trying to "wrangle" Claude with strange symbols or all caps words, it explains the task in plain English and shallow XML according to Anthropic's own [prompt engineering guide](https://docs.anthropic.com/claude/docs/prompt-engineering). This lets the model be as smart and creative as it wants to be, and gives the most coherent results across a wide variety of cards.
 
 ### Instructions
 

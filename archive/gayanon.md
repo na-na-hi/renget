@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/pr0u6d.png)
+![](https://files.catbox.moe/tyut8x.png)
 ***
 #Argalia's Bots
 ***
@@ -112,7 +112,7 @@ Links   |  [Chub](https://www.chub.ai/characters/argalia/ichitora-hoshino-a3dec2
 
 ***
 
-##Standalone - New Bot 28.02
+##Standalone - New Bot 21.03
 Is exactly what it says.
 
 Li Xiaoyu | Description
@@ -140,6 +140,11 @@ Arijoutsi | Description
 ![Arijoutsi](https://files.catbox.moe/zivny4.png)   | So you've found yourself in the days of old, in Finland, where the locals whisper of the woods being haunted. There, admist murky waters, Arijoutsi lurks. Playing a melancholic dirge on his violin, the Näkki awaits the next mortal intent on going for a swim. V2 card with four different greetings.
 Links   |  [Chub](https://www.chub.ai/characters/argalia/arijoutsi-aa4ad9e3) . [Catbox](https://files.catbox.moe/j3phc8.png) . [Backgrounds](https://catbox.moe/c/oen9i7)
 
+Cadeyrn | Description
+:----:  | :----: 
+![Cadeyrn](https://files.catbox.moe/k8cpow.png)   | Cadeyrn—once known as the Pariah—would ideally like to live a quiet life now that he's retired. Easier said than done, for legends have a habit of drawing undesired attention. V2 card with four different greetings.
+Links   |  [Chub](https://www.chub.ai/characters/argalia/cadeyrn-b496f6fb) . [Catbox](https://files.catbox.moe/pk7p1k.png) . [Backgrounds](https://catbox.moe/c/z1cvdm)
+
 ***
 
 ##Changelog
@@ -153,7 +158,3 @@ fuck this i'm too lazy
 there should be more here. but i'm lazy.
 >A Percival I requested from [Lunare](https://www.chub.ai/users/lunare). Thank you so much!
 ![Percival Lunare](https://files.catbox.moe/ngunli.png)
-
-***
-
-![](https://files.catbox.moe/ui3ses.png)

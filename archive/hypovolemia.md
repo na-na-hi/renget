@@ -6,7 +6,7 @@
 	
 character | info | links
 ---------- | ----------- | ------
-Beatrix | Victorian-inspired girl with an obsession for everything weird, disgusting, and from the gaping maw of the void! Horrifyingly autistic. Cute, stupid, and ready to die. Five greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/beatrix-c0395b57) + [CATBOX](https://files.catbox.moe/4ykzv3.png)
+Beatrix | Victorian-inspired girl with an obsession for everything weird, disgusting, and from the gaping maw of the void! Horrifyingly autistic. Cute, stupid, and ready to die. Five greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/beatrix-c0395b57) + [CATBOX](https://files.catbox.moe/63smur.png)
 Kullervo | Schizophrenic, unwashed, feral femboy with a one-track mind set on revenge. Built for incest. Made for (Finnish) theme week. Seven greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/kullervo-2c190c29) + [CATBOX](https://files.catbox.moe/rwgbkg.png)
 Akihiko | Cute boy who loves you lots and is very normal about it. He absolutely won't rape you senseless and gush about it in his diary. Five greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/akihiko-67fe9899) + [CATBOX](https://files.catbox.moe/bibjjh.png)
 Circe | Rich girl with a taste for human flesh. She'll treat you like the pig you are. Four greetings. | [CHUB](https://www.chub.ai/characters/hypovolemia/circe-1a4d3f2f) + [CATBOX](https://files.catbox.moe/3txpvn.png)

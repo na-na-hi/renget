@@ -35,6 +35,8 @@ WeLost | Works fine with a strength of `0.8` up to `1.0`; add `(realistic:1.1)` 
 ------ | ------ | :----: | :----: | :----: | :----:
 Lily Longsocks | Activation tag is `lily longsocks`, recommended to specify her race when prompting ponies | 44739756f368 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40897498) | [catbox.moe](https://catbox.moe/c/yx0bww) | [pomf.lain.la](http://pomf2.lain.la/f/ogfy8ejh.safetensors)
 Wind Sprint | Activation tag is `wind sprint` | 1151cda3b612 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40914981) | [catbox.moe](https://catbox.moe/c/qpw5jv) | [pomf.lain.la](http://pomf2.lain.la/f/4dmr48jd.safetensors)
+Dinky Hooves | Activation tag is `dinky` | 7c7e2f541368 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40922399) | [catbox.moe](https://catbox.moe/c/jxm1q2) | [pomf.lain.la](https://pomf2.lain.la/f/v210hm9.safetensors)
+Dyx | Activation tag is `dyx` | c482b245ef27 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40921255) | [mega.nz](https://mega.nz/folder/hGxkFBSL#JT6M1XvpJgV7abt_Y78JgQ) | [mega.nz](https://mega.nz/folder/hGxkFBSL#JT6M1XvpJgV7abt_Y78JgQ)
 
 ***
 

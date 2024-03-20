@@ -1,6 +1,6 @@
 ⠀
 
-->**Retheme & New URL and shapes coming soon, stay tuned!**<-
+->**Retheme & New URL and shapes coming soon, stay tuned!** [Check out my new resource](shostakovich)<-
 
 -> ⠀![ac chimoart](https://media.discordapp.net/attachments/1007344137655287848/1185087590697795644/ezgif-3-7ddd31baf6.png?ex=658e55d3&is=657be0d3&hm=868487dc534aaeaacec91d6fc6071dfee68dc1e23aeb0a72cbbe7f8c30c48772&=&format=webp&quality=lossless&width=570&height=376)⠀<-
 -> ![](https://media.discordapp.net/attachments/1007344137655287848/1185088446067388456/ezgif-3-f3480b3449.png?ex=658e569f&is=657be19f&hm=16141dd3980e1ed7c0dc3e4d6e65bd15b7d4bec3286a8c767bfeb4851baf01a8&=&format=webp&quality=lossless&width=30&height=28)𓂂⠀ ⠀⠀ɜ⠀⠀⠀ **welc**⠀to⠀the⠀s̲h̲a̲ped⠀flags̲⠀site<-

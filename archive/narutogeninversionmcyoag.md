@@ -16,18 +16,17 @@ Ignore the elemental taxes.
 Living Weapons are banned, ignore the rest of the items, you have an arbitrary amount needed to be a ninja. Enchanted tools are fine, though.
 You can make a C+ Build, they just won't be participating in the exams.
 
-#Chunin Exam Stage 1 Hub Post
+>Chunin Exam Stage 1 Hub Post
 >>92135567 →
-https://archive.4plebs.org/tg/thread/92130865/#92135567
 
 #Builds
 >Team 1
 >Natsuo Uchiha
->>92078251 →
+>>92078251
 >D
 >>92035734
 >Himari Miko
->>92038530
+>>92227101 → + Jutsus: https://rentry.org/HimariJutsu
 >Takeru Suzuki
 >>92037873
 
@@ -37,7 +36,7 @@ https://archive.4plebs.org/tg/thread/92130865/#92135567
 >Shimabukuro Fumio
 >>92034456
 >Kichōna
->>92030925
+>>92030925 + Jutsus: https://rentry.org/NardoKichonaJutsuList
 >Nodao-Douji
 >>92130402 →
 
@@ -45,81 +44,77 @@ https://archive.4plebs.org/tg/thread/92130865/#92135567
 >Kamiko Karatachi
 >>92045112
 >Masukuda Rarime
->>92046207
+>>92226219 → + Jutsus: https://rentry.org/nbd7ikrf
 >Ichika Chinoike
->>92067827 →
+>>92224854 →
 >Kita
->>92104750 →
+>>92104750
 
 >Team 4
 >Kiko Inuzuka
 >>92046953
 >Remilia Orochimaru
->>92067086 →
+>>92067086
 >Itami Nanae
 >>92041809
->Kazen Uzumaki
->>92129825 →
+>Kazen Uzumaki (No Yin Chakra Affinity)
+>>92129825 → + Jutsus: https://rentry.org/5kp2svbp
 
 >Team 5
 >Ezaki Tuto
 >>92143158 →
 >Jin Hyuga
->>92067527 →
+>>92067527
 >Shinrō Kamotai
->>92105219 →
+>>92225522 → + Jutsus: https://rentry.org/ShinroJutsu
 >Yuma Kouda
->>92056996 →
+>>92056996
 
 >Team 6
 >Tsugumi
->>92078303 →
+>>92078303
 >Ghidorah
->>92069165 →
+>>92069165 + Jutsus: https://rentry.org/xant7fe2
 >Junki Takenaga
->>92074519 →
+>>92074519
 >Sen Yamamoto
 >>92132973 →+https://rentry.org/mkyze5fa
 
 >Team 7
+>Hijiri Ishii
+>>92210236 →
 >Fujiwara Nobutake
->>92104939 →
+>>92104939
 >Kamare Hozuki
->>92097216 →
+>>92097216
 >Daiki Ueno
->>92099009 →
+>>92099009
 
 >Teamless:
 >Taihō Shiryō.
->>92065120 →
+>>92065120
 >Kuro Blackshadow
->>92091505 →
->Barou
->>92099661 →
+>>92091505
 >Mojo Nakasendou
 >>92130059 →
 >Choko Yumiya
 >>92132146 →
 >Eiji
 >>92132327 →
->Sekka Hakobu
->>92143990 →
->Gyū
->>92157552 →
->Yōki
->>92157657 →
+>Rook
+>>92209072 →
 
 >Loners:
 >Ahiratsu Ōtsutsuki
->>92073651 →
+>>92073651
 >Darkbone
->>92064881 →
+>>92064881
 >Kijyo-Douji
->>92092125 →
+>>92092125
 >Engetsu Bōfū
->>92101140 →
+>>92101140
 >Inaba Hyuga
->>92164218 →
+>>92178816 →
 >Insane Wild Boar
 >>92164715 →
 >???
@@ -130,6 +125,15 @@ https://archive.4plebs.org/tg/thread/92130865/#92135567
 >>92181768 →
 Kanami-Douji
 https://archive.4plebs.org/tg/thread/92193663/#92194017
+>Barou
+>>92099661
+>Sekka Hakobu
+>>92143990 →
+>Gyū
+>>92157552 →
+>Yōki
+>>92157657 →
+
 
 #Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
@@ -236,6 +240,8 @@ The Final Battle
 https://archive.4plebs.org/tg/thread/92193663/#92203983
 Hygiene Ranking
 https://archive.4plebs.org/tg/thread/92206249/#92208173
+Anon Tierlist
+https://archive.4plebs.org/tg/thread/92217225/#92227669
 
 #Data
 How old is everyone
@@ -256,7 +262,7 @@ https://rentry.org/5kp2svbp
 Shinro:
 https://rentry.org/ShinroJutsu
 Kichōna:
-https://rentry.org/NardoKichonaJuts
+https://rentry.org/NardoKichonaJutsuList
 Masukuda:
 https://rentry.org/nbd7ikrf
 Ghidorah:

@@ -23,6 +23,7 @@ endo-sys | jokes about doxxing, makes sexual jokes about me, makes joking death 
 -> - real life mentions of murder, violence, especially when in an insensitive sense <-
 -> - heavy description of gore <-
 -> - vhs horror / bloody horror / generally creepy imagry <-
+-> - helluva boss, hazbin hotel, or any other works associated with vivziepop <-
 
 -> ┆⌞==triggers==⌝┆ <-
 -> - unwanted critisism <-

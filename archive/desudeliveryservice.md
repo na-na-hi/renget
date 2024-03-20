@@ -11,3 +11,6 @@ The owner of `https://rentry.org/scrapeletproxy` created this URL that redirects
 ***
 
 -> ![](https://files.catbox.moe/f7sk2o.png) <-
+
+>start taking money
+i would rather kill myself
