@@ -18,6 +18,16 @@ For re-sending repack requests that you originally posted on the site, or any qu
 itsgnarlybitch@proton.me
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+Anarchy Reigns (+Xenia, DLC) [Gnarly Repacks] [5.77 GB]
+https://bin.0xfc.de/?441c74f63bdfb3fe#AJSZ9TvqQbwfYcLmHFfqJQXJDML6rWwyqKpcfD9AeArZ
+MadWorld (+Dolphin) [Gnarly Repacks] [610 MB]
+https://bin.0xfc.de/?618e4cc60da76780#7vv6iLtf98aRDJCcP9BvnZTQv8CyPKuNS9zdDFwcz1QF
+Impossible Creatures [Gnarly Repacks] [791 MB]
+https://bin.0xfc.de/?f2a400f5422b4ab0#54hkESiMa1FYF6JPAD1Qn1Fs6nDMki48yLzM6hgyqcbw
+Rise of the Argonauts [Gnarly Repacks] [2.34 GB]
+https://bin.0xfc.de/?7473c1dffae988ef#Admo6VPVMrtnwxJuBtGPaAQ8j1M49XAZ8CH7YSFophB5
+Stubbs the Zombie - Rebel Without a Pulse (Retail v1.02) [Gnarly Repacks] [745 MB]
+https://bin.0xfc.de/?5fd52fcb7bd0fed3#7Aq2vqVpp1t98wUgFPR6WZMQbsn7rnEArMERcu34TAEV
 Viva Piñata [Gnarly Repacks] [From 2.63 GB] - REUPLOAD
 https://bin.0xfc.de/?f781065bec7f75f5#4r6S67mLyTQCsfF93FcCtVz4UVoGYnPs7PnwijE1g8BV
 Hunted – The Demon’s Forge [Gnarly Repacks] [5.60 GB] - REUPLOAD
@@ -901,8 +911,6 @@ Dead To Rights Duology [Gnarly Repacks] [1.08 GB / 852 MB]
 https://paste.0xfc.de/?eb6500e9f40f3fbc#2Lod96RDzYYQb77s6cSrm5eeB5gprcP9G6bu13qpJ7Q5
 Daytona Championship USA [Gnarly Repacks] [2.64 GB]
 https://paste.0xfc.de/?faf9f82242c643fa#C5aBb8FGguHe4CnzVqVMeSu2pnpWZWCckL7QMWkHdmVE
-Stubbs the Zombie in Rebel Without a Pulse [Gnarly Repacks] [771 MB]
-https://paste.0xfc.de/?7b0a5aca55c49db9#BUSo9F4ubBttT7hg36yANuMStQLdrr1Tf9qAdEV5bAdC
 Windlands [Gnarly Repacks] [765 MB]
 https://paste.0xfc.de/?9a77fe08c36f1ea2#5HTyULi2aETz9bRSoM9bgQdaqBwzQhpV1wqu1g71TG5s
 Cloudbuilt.v.1.55 incl.DLC [Gnarly Repacks] [724 MB]

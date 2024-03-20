@@ -15,7 +15,9 @@ See all my stuff on [the official Clover Guild booru!](https://cloverguild.com/b
 [**Three Strangers Sweep the Grounds-**](https://rentry.org/kcb-1) In order to search for their treasure,  Cassie explores the Guild's basement while Bean and Kiyo clean the common rooms, meeting a number of guildmons during the process.
 *Genre:* Slice of life, slight mystery 
 
-**Three Strangers Rock the Boat-**  After swapping a priceless treasure map with a fake, Kiyo, Cassie, and Bean attempt to escape from the dreadful Captain Ironjaw's ship amidst massive celebrations. (Coming soon!)
+[**Three Strangers Rock the Boat-**](https://rentry.org/kcb-2)  After swapping a priceless treasure map with a fake, Kiyo, Cassie, and Bean attempt to escape from the dreadful Captain Ironjaw's ship amidst massive celebrations. 
+*Genre:* Action, drama
+*10k words!*
 
 [**The Three Strangers in: Sweets and Silk - Featuring Rasmus**](https://rentry.org/kqkw98) Kiyo, Cassie, and Bean meet a new thief in town named Rasmus, who recruits them to help steal Capim Town's entire incoming shipment of candy right before Halloween.  A collaboration between me and Spinarak-Anon!
 *Genre:* Short heist story, comfy ending :)

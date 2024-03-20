@@ -16,7 +16,7 @@
 -> *Brand evolution, Showtime Theater, Angry Beavers, School for Little Vampires, Hells Angels, The Powerpuff Girls, virtual worlds* <-
 -> *Milky Way and The Galaxy Girls, other MLP generations, Ed Edd n' Eddy, The Grim Adventures of Billy and Mandy, SPOP* <-
 -> *TAWOG, Z-T00N media, DreamWorks, Looney Tunes, Chikn Nuggit, Shinbone Alley, Sublo and Tangy Mustard, Sherlock Hound* <-
--> *Calico Critters, DDLC, Lilo and Stitch, We Bare Bears, Sailor Moon, Monotone Blue, Mime Bomb, NITW, Bojack Horseman, Tuca & Bertie* <-
+-> *Calico Critters, DDLC, We Bare Bears, Sailor Moon, Monotone Blue, Mime Bomb, NITW, Bojack Horseman, Tuca & Bertie* <-
 -> *Bee and Puppycat, Nyanpire, Robot Jones, Harvey Beaks, Miss Kobayashi's Dragon Maid, Date a Live, Lucky Star, Maple Town* <-
 -> *Interview with a Vampire, Kipo and the Wonderbeasts, Dust: An Elysian Tail, Solatorobo, Zombieland Saga, Ukagaka, Touhou* <-
 -> *Alchemy Stars, Kemono Friends, Witch's Heart, Lonely Wolf Treat, Precure, Ratafak, Freedom Planet, Yokai Watch, Boobah, Oobi* <-

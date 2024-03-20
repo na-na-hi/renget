@@ -6,14 +6,15 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 293rd time, what is Ope?!
+For the 294th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-▼ Next stream (Final Fantasy VII Rebirth, Tue 03/19 4PM CT)
+▼ Next stream: Twilight Breaking Dawn Pt. 2 watchalong with Iofi, Shiori, Bijou, Fauna and Mumei on Fauna's channel (Wed 03/20 9PM CT)
+▼ Last stream (Final Fantasy VII Rebirth)
 https://www.youtube.com/watch?v=Itp2TxEg-zk
-▼ Recent appearances
+▼ Japan appearances
 03/16 Advent -The Road to EXPO 2024- collab: https://www.youtube.com/watch?v=8QoPUb7BA0Y&t=5719s
 03/16 karaoke offcollab with FWMC on FWMC's channel: https://www.youtube.com/watch?v=dnATI1YAoTU
 03/16 Advent "Capture the Moment" watchalong: https://www.youtube.com/watch?v=w740m36qz2o
@@ -23,8 +24,6 @@ https://www.youtube.com/watch?v=Itp2TxEg-zk
 03/13 Twitter space with Kiara: https://twitter.com/i/spaces/1djGXNZmmlBxZ
 03/12 Twitter voice with Kiara: https://twitter.com/takanashikiara/status/1767452224651985249
 03/12 Twitter voice with FWMC: https://twitter.com/fuwamoco_en/status/1767521725766664632
-▼ Last stream (zatsudan in Japan, 03/12)
-https://www.youtube.com/watch?v=lgnBEaH-Rh8
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID
@@ -45,7 +44,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>71792618
+Previous thread: >>71835615
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

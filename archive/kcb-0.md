@@ -1,4 +1,5 @@
 # Three Strangers Blow Into Town
+####[->By Kiyo-Anon<-](https://rentry.org/kiyoStation)
 "Clover guild?  Sure, I know ‘em.  Sometimes they’re a bit odd, but if you need a job done there’s no one more… passable… to do it.”
 
 “Oh, yes!  They’re among my best customers!  Don’t be taken aback by their strange mannerisms, I’m sure you’ll find them perfectly reliable!”

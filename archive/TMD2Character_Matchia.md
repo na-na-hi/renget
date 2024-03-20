@@ -85,7 +85,7 @@ Item Name | Description
 *Equipped Item: N/A* | Vacant hand slot.
 1. Clear Gummi
 2. Persim Berry | Heals Confusion.
-3. Empty | Vacant Inventory Slot
+3. Green Gummi | 
 4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**

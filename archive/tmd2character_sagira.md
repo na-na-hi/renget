@@ -13,7 +13,7 @@
 ---- | ----
 **Origin:** Ex-Human (Fragmented) | **Occupation:** Warlock
 **Species:** Fennekin | **Affiliation:** Fireteam Stardust
-**Level:** 13 | **Experience to Next Level:** 107/130
+**Level:** 14 | **Experience to Next Level:** 17/140
 **Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 792₽ | **Glorious Gold:** 0 Bars
 
@@ -38,7 +38,7 @@ Speed | 0 |  ɴᴏ ʙᴏɴᴜs | 4AP
 Name | Base Power | Action Points | Accuracy | Type | Property | Description
 --- | -- | - | - | - | - | ---------
 Scratch | 4BP | 4AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | No secondary effect.
-Tail Whip | - | 4AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
+Flame Charge | 4BP | 5 (-1) AP | ≥2 | ![Fire-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9f/FireIC.png/70px-FireIC.png) | ![Physical](https://archives.bulbagarden.net/media/upload/5/54/PhysicalIC.png) | Priority.
 Ember | 4BP | 5AP | ≥2 | ![Fire-Type](https://archives.bulbagarden.net/media/upload/thumb/9/9f/FireIC.png/70px-FireIC.png) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | 19-20; The Opponent is afflicted with *Burn*.
 Howl | - | 4 AP | - | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The User's Attack is increased by 1. The User may select additional Allies to have their Attack increased by 1 at the cost of 2 AP each.
 Basic Attack | 4BP | 4AP | ≥2 | ![???](https://matrix-client.matrix.org/_matrix/media/v3/download/matrix.org/lEJwOJYaImHblFXorVbnVvOs) | ![Special](https://archives.bulbagarden.net/media/upload/6/6b/SpecialIC.png) | Property determined by the User's highest Offensive Stat. Changes Type according to the use of a Type Gem. The simplest Move a Pokémon can use.
@@ -107,5 +107,5 @@ RP Item | Chargestone Shavings | Energy used to course through this.
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.
 Name of Move | Description
 ------ | :----: 
-Eᴍᴘᴛʏ | Description
+Tail Whip | - | 4AP | ≥2 | ![Normal-Type](https://archives.bulbagarden.net/media/upload/thumb/0/0f/NormalIC.png/70px-NormalIC.png) | ![Status](https://archives.bulbagarden.net/media/upload/a/a7/StatusIC.png) | The Opponent's Defense is decreased by 1. The User may select additional Opponents to have their Defense decreased by 1 at the cost of 2 AP each.
 Eᴍᴘᴛʏ | Description

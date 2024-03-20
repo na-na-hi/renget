@@ -243,7 +243,9 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 	* [How to be (a) snake, Issue #1: Moving](https://rentry.org/How2Snake1)
 	* [How to be (a) snake, Issue #2: Dragon Days, Feline Nights.](https://rentry.org/How2Snake2)
 * Jimmy the Gimmighoul
-	* [Jimmy Your Ghoul](https://rentry.org/7cwwk) 
+	* [Jimmy Your Ghoul](https://rentry.org/7cwwk)
+* Jung the Sceptile
+    * [EmeraldSpark (ft. Jung)](https://rentry.co/EmeraldSpark)
 * Kaiji the Alolan Meowth
 	* [Kaiji and Kris in Taliban Mystery Dungeon](https://rentry.org/xt6xx) 
 	* [Currently Unnamed McNumel Story (ft. Kaiji)](https://rentry.org/7pagq)
@@ -260,6 +262,7 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * !~ %green%[Kiyo the Alolan Vulpix](https://rentry.org/kiyoStation)%% ~!
     * [Three Strangers Blow Into Town (ft. Kiyo)](https://rentry.org/kcb-0)
 	* [Three Strangers Sweep the Grounds (ft. Kiyo)](https://rentry.org/kcb-1)
+	* [Three Strangers Rock the Boat (ft. Kiyo)](https://rentry.org/kcb-2)
 * Macom the Mareep
 	* [Illuminating the Way (ft. Macom)](https://rentry.org/5y6sb)
 	* [A Man in Mareep's Clothing (ft. Macom)](https://rentry.org/okk4qw)
@@ -614,6 +617,8 @@ Sotto | M | Mawile | ??? | Clover Guild Native Member/Veteran Explorer | [Carefu
 * [A Ribombee's Anniversary](https://rentry.org/RibombeeAnniversary)
 * [The Platinum Syndicate Part 2: Cracking the Coffers (ft. Makky)](https://rentry.org/Platinum2)
 * [Within Me ch. 3 (ft. Beau)](https://rentry.org/WithinMe3)
+* [EmeraldSpark (ft. Jung)](https://rentry.co/EmeraldSpark)
+* [Three Strangers Rock the Boat (ft. Kiyo)](https://rentry.org/kcb-2)
 
 ### Art and Art Resources
 - [Clover Guild Art Booru](https://cloverguild.com/booru)

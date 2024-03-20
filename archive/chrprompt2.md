@@ -37,8 +37,9 @@ The edit code for this rentry is %red%**anniversary**%% (don't ask me what's the
 ###Beast 
 Q1: What is you relationship with Ronnie?  Has your opinion of him changed since you first met?
 Q2: What was a human food request that stood out to you?
+Q3: What was your best dish when you had a restaurant?
 
-###Sneasel 
+###Sneasel
 Q1: Booker is getting closer and closer to flying.  Is there a part of you that'll be sad once he's less dependent on you?
 >W-what makes you ask that? Did Toge tell you about that awful Gardevoir mission we did? ...Huh? He didn’t? Oh. Uh, forget I said anything.
 >Anyway, to answer that question: yeah, I have been kinda worried about that, not gonna lie. I mean, I’ve spent so much time carrying him, it’s gonna be weird when he can get around without my help. But I’ve been rooting for him ever since he started learning how to fly. I don’t want him to be weak and slow forever. I want him to get stronger! And being able to fly is part of that. Besides, it ain’t like he’s gonna go away and never come back once he’s able to fly. We’ll still stay together. So I’m not too sad about it—I’m looking forward to seeing his dream come true!
@@ -690,7 +691,7 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 
 >Lliam: I suppose there were times back then, but when memories returned, I think that's where I stopped.
 
-**Natives**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
+**Everyone**, Do you have a family? How's your relationship with them? Would you introduce your friends to them?
 >Sneasel: Yeah, I do. Got parents, but no siblings. But... I dunno if I’ll ever see them again. Big dungeon shift took me away from my home, and I dunno how to get back... I miss them. My parents were pretty big on tough love, just like the rest of the tribe. But that’s cuz life on the Island was so harsh. I know they meant the best for me. I’d love to introduce Booker to everyone in the tribe, but first, we’ve gotta find the way back there... I don’t like talking about this. Next question.
 
 >Makuhita: I've got a mom and a younger brother, Drew. My dad was effectively whatever you'd consider the opposite of a role model - I learned how to be and act by trying to avoid ending up like him. He caused Drew and I to go through a lot of grief growing up and I'm glad he's out of that household, even if I'm not around to see him prosper. 
@@ -706,7 +707,7 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 **Guildmons**, You saw a job listing in the bulletin board with a huge reward, but the description is quite suspicious to say the least... would you still risk it and take the job?
 >Cider: Who would be dumb enough to take a suspicious job? Y'know, this reminds me - one time I heard that someone at Wigglytuff's Guild went off to Amp Plains because of a ransom note and almost got mauled to death by a tribe of Electrike! Or... was it a tribe of Luxio? Eh, doesn't matter, point is that they were total morons for taking that mission on!
 
->Elm: Hey, something like that should make up for a fun story to tell others later! I would at least meet the client and ask for more details. 
+>Elm: Hey, something like that could make up for a fun story to tell others later! I would at least meet the client and ask for more details. 
 
 **Guildmons**, An outlaw you've captured recently was accepted into the guild after he said that he was reformed (turns out to be a humon); would you accept him with open arms or would you be suspicious about his change of heart?
 >Adrian: I would kill Machamp on sight purely because he devolved me. I don't care where he's from, what he is, or what he wants to do at the guild. I hate him with every fiber of my body, more than anyone else I've ever fought. Any other outlaws, I don't really trust them. I'll leave that decision to the Guildmaster
@@ -780,7 +781,7 @@ How common is it for your life to be at risk? Be it when venturing into a dungeo
 
 >Booker: The overworld is safe for the most part, but it's common for me and Sneasel to put ourselves in danger, because we do a lot of missions that involve combat. It’s stressful, to be honest, but... not as scary as it could be. I trust her to fight well and keep both of us safe, and I do my best to help out too.
 
->Lliam: From where I'm at, no matter where. But right now, here in Capim Town, I can act leisurely even when there's an obvious threat in the guild. At least I prefer this over the things back home. It's like I toggled lunatic mode into easy mode difficulty~.
+>Lliam: From where I'm at, I can die at any second, no matter where. But right now, here in Capim Town, I can act leisurely even when there's an obvious threat in the guild. At least I prefer this over the things back home. It's like I toggled lunatic mode into easy mode difficulty~.
 
 Before joining this clover guild thing, do you have a completely different pokemon in mind than the one you're currently using, if so, then why? For example, you were planning to be this Pokemon but it's kinda overrated/legendary/too strong and decided against it or some other member got to use it before you came, and etc.
 
@@ -806,9 +807,9 @@ If clover guild did not exist, where would you be at this point in time?
 
 >Makuhita-anon: I'd have probably continued being the useless loser I know I am. I've always been a dreamer and an ideas guy, but the Guild was the first time I actually decided to make something beyond vague, spur-of-the-moment ideas I never elaborate or follow up on. If anything, having something I can use my energy on, even if it's as silly as writing fanfiction, has improved my attitude and my quality of life a lot.
 
->Lliam: Honestly, not really much would have changed, as I would probably do the same thing I have been doing somewhere else, and I do write stuff on my own for myself, so that wouldn't change as well... The only thing that would be missing is !>meeting you guys... yeah...
+>Meowstic-anon: Honestly, not really much would have changed, as I would probably do the same thing I have been doing somewhere else, and I do write stuff on my own for myself, so that wouldn't change as well... The only thing that would be missing is !>meeting you guys... yeah...
 
->Elm-anon: Probably would still be hanging in a certain Discord server that has pretty much been on life-support for years, meaning much less interactions wiht others. I also don't think I would ever have tried serious drawing or writing without this fateful occurence. It's just too bad that I have been busy with college to interact more.
+>Elm-anon: Probably would still be hanging in a certain Discord server that has pretty much been on life-support for years, meaning much less interactions with others. I also don't think I would ever have tried serious drawing or writing without this fateful occurence. It's just too bad that I have been busy with college to interact more.
 
 >Chespin-Anon: Probably a whole lot of nothing, like I had been doing for years prior. Possibly looking for something PMD-related to work on because I can never stay away from this stuff for long. It's still pretty crazy to me that this has gone on as long as it has, along with everything else.
 

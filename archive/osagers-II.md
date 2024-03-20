@@ -12,6 +12,9 @@ xenogender/neopronoun antis, irl/fictionkin/therian/copinglink/etc antis, object
 m-spec gays / m-spec lesbians | makes jokes about personally triggering topics
 endo-sys | jokes about doxxing, makes sexual jokes about me, makes joking death threats
 
+-> /// <-
+-> - accounts who creature 18+/mature content can *interact with my posts*, but please dont follow me !!! i am a minor (also by interacting with me please dont be weird abt it) - <-
+
 -> ┆⌞==discomforts==⌝┆ <-
 -> - negitive content of: **fan (ii)** / akito shinonome (pjsk) / interests/comforts (listed later in rentry) <-
 -> - being infantilized or people being condesending to me <-

@@ -58,6 +58,7 @@ Fansub / VOD / Video sites:
 [LL community Blog (ES)](https://lovelive-es.blogspot.com/p/home.html)
 [onibe.moe](https://onibe.moe/)
 https://incorgnito.cc/
+[AP Project](https://www.apofficial2020.my.id/)
 
 **Ideal Websites**
 [Picuki | Insta Viewer](https://picuki.com)
@@ -545,10 +546,10 @@ Liella no Doko Iku? (Season 1)
 3 - [576p](https://nyaa.si/view/1529418) / [720p](https://nyaa.si/view/1529419) / [1080p](https://nyaa.si/view/1529420)
 
 Liella no Doko Iku? (Season 2)
-TBA
-
-Liella no Doko Iku? (Season 3)
-TBA
+1 - [1080p GD](https://drive.google.com/file/d/1XqXb6k87hYbWQOqdVoz7_W95RqX627fv/)
+2 - [1080p GD](https://drive.google.com/file/d/1_lwslOWVxHPqvnKaO6W3lSVcy2FpavYF/)
+3 - [1080p GD](https://drive.google.com/file/d/1bYVc-41zeWRg58pTjGPG8mEpnB1tJBEU/)
+4 - [1080p GD](https://drive.google.com/file/d/1Zhr2PY_ocb9We3wnaXDBrWkQDml-dCDO/)
 
 Liella! Assault Location YouTube Specials
 [YT Playlist](https://www.youtube.com/playlist?list=PLYpy4kJmEo76FB2VGICtfgVI0eecZze)
@@ -604,14 +605,15 @@ Young Jump 2023 No.15 - Liella! & Yuina - https://imgur.com/a/ncPomoJ
 **Videos / Clips / Namas / Misc Pages**
 
 **Raw:**
+[Apollo Bay Sports Festival 2022 (1080p) MEGA](https://mega.nz/file/tzUS3IxZ#j5mJhNzaswGSYtqhq7eJoW0Q4d4mHYMXsKPNCLdL2Sg)
 LL Radio / Nama Raw - https://www.youtube.com/channel/UCWDlvslRHBPgjDhTIFyBvwg/videos
 ↳ What A Wonderful Radio (Nakonagi nama) Playlist - https://www.youtube.com/playlist?list=PLHN4pSpGXsHlvwhfOH0odINjhtLMziU40
 ↳ Love Live ANN - https://youtube.com/playlist?list=PLHN4pSpGXsHl50QwwqQSTV50uRIZJ4w95
+Alternative - https://www.youtube.com/@wwr1284/videos
 Raw niconamas & Aqours Locks - https://www.youtube.com/channel/UCl1KZAD-LWPlVI5KH-b7ZUw
 Raw niconamas - https://www.youtube.com/channel/UCK8Hs9st7QXeuUez_QvP90Q
 Nijigasaki AbemaTV Image Girl Battle - https://www.youtube.com/channel/UC9fvLHGAiPpnKfjE5GwFi4w
 Aqours broadcasts - https://www.youtube.com/channel/UCY-n3NM-QA2mA037Lz659ng
-[Apollo Bay Sports Festival 2022 1080p](https://mega.nz/file/tzUS3IxZ#j5mJhNzaswGSYtqhq7eJoW0Q4d4mHYMXsKPNCLdL2Sg)
 
 **Engsub:**
 Anchan Radio Curtain Call engsubs - https://www.youtube.com/channel/UCvbw0CC8sx-J_AInkSd6z8w

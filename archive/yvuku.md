@@ -151,7 +151,7 @@ https://twitter.com/tetsu_no_kusari
 ![Wwparasi](https://files.catbox.moe/dxseny.png)
 A french carnivore rabbit that occasionally does ryona art, plenty of steak and blood.
 https://twitter.com/wwparasiVT
-twitch.tv/wwparasi
+https://www.twitch.tv/parasi
 >denpafish
 ![denpafish](https://files.catbox.moe/iwe74o.jpg)
 A self proclaimed menhera slime that also does ryona art, has toggles for her model for facial brusing among other things.

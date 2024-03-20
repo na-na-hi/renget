@@ -2505,3 +2505,214 @@
     >A picture of attempts to overturn and drag an #Israeli military vehicle that was damaged by resistance strikes in the #Gaza Strip  
     >https://t.me/me_observer_TG/171370  3/18/24
     ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 18 (2024), against (US)-israeli forces:
+    
+    >— 🇵🇸 Al-Qassam Brigades:
+    >
+    >🔻Engaged in fierce clashes with invading IOF forces near Al-Shifa Hospital in Gaza City, and targeted a number of their military vehicles, resulting in casualties and injuries among them.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shelled gatherings of IOF soldiers, east of the central province with 107mm rockets.
+
+    >— 🇵🇸 Al-Aqsa Martyrs Brigades:
+    >
+    >🔻Since the early hours of dawn, engaged in fierce clashes using machine guns and appropriate weapons against the occupation forces in the vicinity of Al-Shifa Hospital, west of Gaza City.
+    >
+    >🔻Targeted a concentration of occupation soldiers and their military vehicles with regular 60mm caliber mortar shells, east of the central province.
+    >
+    >🔻Targeted a number of invading IOF military vehicles near Al-Shifa Hospital in Gaza City.
+    >
+    >🔻Engaged in armed clashes with the IOF forces invading the western areas of Gaza City.
+
+    >— 🇵🇸 Al-Nasser Salah al-Din Brigades:
+    >
+    >🔻Shelled a gathering of IOF soldiers and their military vehicles, east of the central province with a 107mm rocket barrage.
+
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >
+    >🔻Since the early hours of dawn, engaged in fierce clashes, in the vicinity of Al-Shifa Hospital, against the invading IOF forces. It has been confirmed that a military vehicle, a troop carrier, was targeted with a guided explosive near the Ministry of Transport and Communications building, and was directly hit.
+    >
+    >🔻Shelled with a number of standard 60-caliber mortar shells, a gathering of IOF soldiers, southeast of Gaza.
+    >
+    >🔻Engaged in fierce clashes with the invading occupation forces near Al-Shifa Hospital in Gaza City.
+    >
+    >🔻Carried out a joint operation with the Martyr Omar Al-Qasim Forces and Al-Aqsa Brigades, they targeted a gathering of the IOF soldiers in the south of Gaza City with short-range rockets.
+    
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Engaged in fierce clashes against the IOF forces, using appropriate and diverse weapons, west of Gaza City.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the Ruwaisat al-Qarn site in the occupied Shebaa Farms with rockets.
+    >
+    >🔻Targeted a gathering of Israeli soldiers at Talat al-Tayhat with rockets.
+    >
+    >🔻Targeted the Zebdine site in the occupied Shebaa Farms with rockets.
+    >
+    >🔻Targeted the Bayad Blida site with artillery shells.
+    >
+    >🔻Targeted the Birkat Risha site with rockets.
+    >
+    >🔻Targeted the Hadab Yarin site with rockets.
+
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >
+    >🔻Targeted a military airbase for IOF drones in the occupied Golan Height, with (a) kamikaze drone(s).
+    >https://t.me/FotrosResistance/5967  3/19/24  
+    ***
+!!!warning  
+    >🛑 Al-Qassam (Hamas) since an hour ago, announced:
+    >
+    >The targeting of 7 IOF military vehicles with Al-Yassin-105 tandem heat rockets, in the vicinity of Al-Shifa Hospital in Gaza City.
+    >https://t.me/FotrosResistance/5973  3/19/24  
+    ***
+    >The IOF admits to the death of an officer in the northern Gaza Strip earlier today:
+    >
+    >🔻Warrant Officer (res.) Sebastian Haion, 51, a commander in the 401st Armored Brigade chief’s forward command team.
+    >https://t.me/FotrosResistance/5970  3/19/24  
+    ***
+    >Occupied Palestine: Al-Qassam Brigades: Our mujahideen targeted a group of occupation soldiers with a “TBG” shell, leaving them dead and wounded in the vicinity of Al-Shifa Hospital in #Gaza City.
+    >https://t.me/me_observer_TG/172009  3/19/24  
+    ***
+    >⚡️| 🇾🇪 Yahya Sarae:
+    >
+    >The Yemeni Armed Forces targeted:
+    >
+    >🔻The American “Mado” ship, in the Red Sea with a number of anti-ship missiles.
+    >
+    >🔻Eilat with a number of cruise missiles missiles.
+    >https://twitter.com/AryJeay/status/1770066112056553770  3/19/24  
+    ***
+    >The Integrated Food Security Phase Classification (IPC): "100% of people in Gaza are acutely food insecure; while in the North, 70% are facing famine.
+    >https://t.me/QudsNen/99070  3/19/24  
+    ***
+    >Circulating video footage shows former CIA Director and former United States Secretary of State Mike Pompeo dancing with Israeli soldiers during his recent visit to Israeli settlements near Gaza.
+    >https://t.me/QudsNen/99093  3/19/24  
+    ***
+    >BDS activists protest outside the International Olympic Committee headquarters in Lausanne, Switzerland, calling for the ban of Israel from the upcoming Olympics in Paris due to war crimes committed in Gaza.
+    >https://t.me/QudsNen/99088  3/19/24  
+    ***
+    >Irish Prime Minister to Biden: "We see our history in the eyes of the Palestinians, a story of displacement, deprivation, a denied national identity, forced migration, discrimination, and now hunger."
+    >https://t.me/QudsNen/99071  3/19/24  
+    >https://files.catbox.moe/padgiz.mp4  3/19/24  
+    ***
+    >Head of the Hamas Political Bureau, Ismail Haniyeh, sends a message of congratulations to 🇷🇺🇵🇸 Russian President Vladimir Putin on his re-election:
+    >
+    >"We praise the Russian position in support of our cause in light of the battle to defend our people against the Israeli occupation, one of the most important arms of American hegemony.
+    >
+    >The Hamas movement looks forward to consolidating the bonds of friendship and enhancing ways of joint cooperation with the Federal Republic of Russia.
+    >
+    >We wish you success in building a multipolar global system that does justice to oppressed peoples."
+    >https://t.me/megatron_ron/2346  3/19/24  
+    ***
+    >Urgent | US State Department: An #Israeli delegation will visit Washington next week to build on what was discussed in Biden and Netanyahu’s call.
+    >
+    >- US State Department: We are concerned about the UN report warning that famine is imminent in #Gaza.
+    >
+    >US State Department: We have not yet seen conclusive evidence indicating that #Israel is using starvation as a weapon in the #Gaza war.
+    >https://t.me/me_observer_TG/172073  3/19/24  
+    ***
+    >Syria: #Syrian Presidency: Grossi stressed the importance of building an effective and continuous dialogue between the International Agency and #Syria  
+    >https://t.me/me_observer_TG/172113  3/19/24  
+    ***
+    >🛑 Al-Quds Brigades since an hour ago:
+    >
+    >🔻Clashed with an IOF force in the vicinity of the Al-Shifa hospital, leaving them killed or wounded.
+    >
+    >🔻Targeted 2 military vehicles in the vicinity of Al-Shifa.
+    >https://t.me/FotrosResistance/5974  3/19/24  
+    ***
+    >Several Palestinian Resistance factions are engaged in fierce clashes around the Al-Shifa Medical Complex with confirmed casualties among the israeli forces 🔥
+    >https://t.me/FotrosResistance/5975  3/18/24  
+    ***
+    >JUST IN: Islamic Resistance in Iraq 🇮🇶 delivers a Nowrooz gift to israel:
+    >
+    >They targeted Ben Gurion Airport in Tel Aviv with a kamikaze drone.
+    >https://t.me/FotrosResistance/5978  3/18/24  
+    ***
+    >Urgent | #Israeli Foreign Minister #Israel Katz: It is regrettable that the Canadian government has taken a step that undermines #Israel's right to self-defense. According to his expression.
+    >https://t.me/me_observer_TG/172259  3/19/24  
+    ***
+    >❗️Prominent English-language spokesman for Israel, Eylon Levy, has been suspended from his post after complaints from the UK government over his response to British Foreign Secretary David Cameron's tweet about increasing aid capacity to Gaza.
+    >
+    >It is possible that he will not return to this post.
+    >
+    >Levy reportedly responded to the post by claiming that there were no issues with the number of aid trucks entering Gaza.
+    >
+    >Following his tweet, the British Foreign Office asked if the tweet, interpreted as an attack against Cameron, was Israel’s official position, according to Hebrew Channel 12.
+    >https://t.me/FotrosResistance/5979  3/18/24  
+    ***
+    >Scoop: White House will propose alternative Rafah options to Israel
+    >https://archive.is/vYADE  3/19/24
+    ***
+!!!danger
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 19 (2024), against (US)-israeli forces:
+    
+    >— 🇾🇪 Yemeni Armed Forces:
+    >
+    >🔻Targeted the American “Mado” ship in the Red Sea with a number of anti-ship missiles.
+    >
+    >🔻Launched a number of cruise missiles at Israeli targets in the Umm al-Rashrash area (Eilat) in southern occupied Palestine.
+
+    >— 🇵🇸 Al-Qassam Brigades:
+    >
+    >🔻Targeted 7 military vehicles with Yassin 105 rockets, in the vicinity of Al-Shifa Hospital in Gaza City.
+    >
+    >🔻Targeted a group of occupation soldiers with a TBGs, resulting in casualties in the vicinity of Al-Shifa Hospital in Gaza City.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shelled gatherings of IOF soldiers, west of Netzarim in the northern central region with 107mm rockets.
+    >
+    >🔻Targeted 2 military vehicles with Tandem & RBG shells, in the vicinity of Al-Shifa Medical Complex.
+    >
+    >🔻Engaged in fierce clashes with an IOF force using machine guns, in the vicinity of Al-Shifa Medical Complex, confirming conflicting casualties.
+
+    >— 🇵🇸 Al-Aqsa Martyrs Brigades:
+    >
+    >🔻Engaged in fierce clashes with IOF forces & their military vehicles using machine guns and RPGs, in the axis near Al-Shifa Hospital, west of Gaza City.
+    >
+    >🔻Shelled gatherings of IOF soldiers and their military vehicles with mortar shells in the Netzarim axis in the northern central region.
+    >
+    >🔻Shelled gatherings of IOF army vehicles with mortar shells on the axis west of Gaza City.
+    >
+    >🔻Engaged in fierce clashes with occupation forces and their military vehicles with machine guns and RPGs, in the axis in Al-Nasr neighborhood, west of Gaza City.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Engaged in fierce clashes with IOF forces and their military vehicles with various weapons in the vicinity of Al-Shifa Hospital, west of Gaza City.
+    >
+    >🔻Targeted 2 Merkava tanks, causing direct hits, in the vicinity of Al-Shifa Hospital, west of Gaza City.
+
+    >— 🇵🇸 Al-Asifah Forces:
+    >
+    >🔻Engaged in fierce clashes with the occupation soldiers on the axis in Khan Younis.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the deployment of IOF soldiers at Birkat Risha site and its surroundings with rockets.
+    >
+    >🔻Targeted the movement of israeli soldiers inside the Al-Malikiyah site with rockets.
+    >
+    >🔻Targeted an IOF military force in the vicinity of Tayhat Hill with rockets and artillery shells.
+    >
+    >🔻Targeted an Israeli logistical military vehicle and a group of soldiers inside and around it in Tayhat Hill with a guided missile, resulting in direct hits and casualties.
+    >
+    >🔻Targeted an IOF military force, south of the Branit site, with rockets.
+    >
+    >🔻Targeted the Zarit settlement with Falaq-1 rockets.
+    >
+    >🔻Targeted the Ruwaysat Al-Alam site with rockets.
+    >
+    >🔻Targeted a gathering of Israeli soldiers in the vicinity of the Ruwaysat Al-Alam site with rockets.
+    >
+    >🔻Targeted the Al-Marj site with artillery shells while an enemy logistics team was reinforcing & fortifying it after it had been destroyed by the resistance (Hezbollah) earlier.
+
+    >— 🇮🇶 Islamic Resistance in Iraq:
+    >
+    >🔻Targeted Ben Guiron airport in Tel Aviv with kamikaze drones.
+    >https://t.me/FotrosResistance/5981  3/19/24  
+    ***

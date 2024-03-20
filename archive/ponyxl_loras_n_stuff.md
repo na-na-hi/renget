@@ -815,7 +815,7 @@ last tried was yanyan_\(shinken_gomi\)
 ##Innate Characters
 I spent some time generating images of the characters on danbooru in descending order by post count, here's about 500 of the ones I saw that pony recognized.
 
-https://files.catbox.moe/fpqbbl.txt
+https://files.catbox.moe/xew4ja.txt
 
 ##Tricks with the model for more anime style
 There's some evidence that the model has a bit of a bias towards western style art, particularly when using the score tags (it is made by furries after all). It might be beneficial to tag your image sets with the score tags, the laziest way would be to tag every image with score_9, source_anime, this may affect the overall "quality" of images the lora generates since some of the knowledge in the model about "high quality" might be overwritten but it will look more like the artist's style. 

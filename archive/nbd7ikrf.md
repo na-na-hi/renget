@@ -2,15 +2,20 @@
 
 (Light Release is made by forming the lightning release handsign with both hands joined together in the manner of the bird handsign).
 
-###Light’s Anathema
-Masu causes light to slide off of her rendering her effectively invisible. The opening handsign for this and the jutsu directly below is an inverted light release seal.
+###Light’s Anathema: Cloak of Night
+Masu causes light to slide off of her rendering her effectively invisible. The opening handsign for this and the two jutsu directly below is an inverted light release seal.
 >handsign
 Rat
 
-###Congress of Night
+###Light’s Anathema: Congress of Night
 As above but Masu extends the range of her jutsu to cover her allies. This causes a more obvious distortion than just covering herself.
 >handsign
 Rat, Hare, Snake, Bird
+
+###Light’s Anathema: Sun Eater
+The pinnacle of her Light’s Anathema techniques, Masu devours the light around her to plunge her immediate area in complete darkness. 
+>handsign
+Rat, Hare, Snake, Bird, Boar, Light
 
 ###Light Release: Radiant Arrow
 What it sounds like, this is a blast of light.
@@ -27,9 +32,19 @@ Masu materializes a blade of solid light. She is not very good with it yet, but 
 >handsign
 Snake, Monkey, Tiger, Snake, Horse, Dragon, Snake, Dog, Ox, Snake, Bird, Rat, Snake
 
+###Moon’s Mirage
+A simple illusory art designed to be used with only half a handsign. The illusion is usually of Masu making a fake strike, used to open the target for a killing blow.
+>handsign
+One-handed Monkey
+
 ###Light Refraction Dance
-Masu is somewhat proficient with visual genjutsu. She eventually intends to mix that with light-based constructs to confuse her opponents. 
+Masu’s full-strength visual genjutsu. She eventually intends to mix that with light-based constructs to confuse her opponents. 
 >handsign
 Monkey, Rat, Dog, Bird
 >What constructs?
 She’s working on it okay?!
+
+###Warning Bells
+Masu constructs a simple barrier to alert her when its area is breached. The cost of maintaining this barrier is negligible. Masu constructed this jutsu to guard her while she slept.
+>handsign
+Boar

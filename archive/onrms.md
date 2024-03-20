@@ -24,36 +24,36 @@ this guide includes two parts:
 ####ESSENTIALS 
 #####BASIC TERMS
 !!! info
-	-> ==**Large Language Models (LLM)**== <-
-...is AI specializing in processing text:
-- you write LLMs **instructions** on what they need to do
-- they give back text as a response
+    -> ==**Large Language Models (LLMs)**== <-
+...are AI specializing in processing text:
+- you give LLMs **instructions** on what to do
+- they give back text in response
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/ncyuq8.png) <-
 
-you may assign the various **traits** to LLM, or tell it to **portray a character**. this way LLM will assume the role of ==**a bot**==, with whom you may roleplay, chat, or play creative scenario
+you may assign various **traits** to LLM or instruct it to **portray a character**. this way LLM assumes the role of ==**a bot**==, which you can roleplay with, chat, or engage in creative scenarios
 
-LLMs may imitate:
-- famous character from franchise, fandom, anime, movie
-- completely original character (OC)
+LLMs can imitate:
+- popular characters from franchises, fandoms, animes, movies
+- completely original characters (OC)
 - an assistant providing IRL help
 - a scenario or simulator
 - DnD / RPG game
 - etc
 
-the instructions to portray a character are commonly called  ==**definitions (defs)**== (of specific character)
-on example below character's definition is `grumpy NEET zoomer girl with ADHD`:
+the instructions to portray a character are commonly known as  ==**definitions (defs)**== (of a specific character)
+on example below the character's definition is `grumpy NEET zoomer girl with ADHD`:
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/13zn1x.png) <-
 
-if a character is well-known then the definition could be as short as stating the character's name, for example `Pinkie Pie`:
+if a character is well-known the definition could be as short as stating the character's name, like `Pinkie Pie`:
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/jv1v1e.png) <-
 
-keep in mind, when you chat with a bot you are chatting with LLM *mimicking character definitions*
-it is similar to modding in videogames - the underlying mechanics (engine) remain, only the visuals change. 
+remember, when you are chatting with a bot you are interacting with LLM *imitating character definitions*
+it's akin to modding in videogames - the underlying mechanics (engine) remain, only the visuals change
 
-different LLMs portray the same characters in various way, aka **Rainbow Dash by one LLM will vary from Rainbow Dash by another LLM**
+different LLMs portray the same characters differently, i.e., **Rainbow Dash by one LLM will differ from Rainbow Dash by another LLM**
  
  
  
@@ -61,7 +61,7 @@ different LLMs portray the same characters in various way, aka **Rainbow Dash by
 ***
 ***
 !!! info
-	-> ==**current LLMs**== <-
+    -> ==**current LLMs**== <-
 there are hundreds of LLMs worldwide, and you can chat with some for free **%#B000B5%*%%** :
 - by Anthropic - **Claude** (chat via [Claude.ai](https://claude.ai))
 - by OpenAI - **GPT-4** (chat via [chatGPT](https://chat.openai.com))
@@ -70,43 +70,47 @@ there are hundreds of LLMs worldwide, and you can chat with some for free **%#B0
 - by Mistral - **Mistral**, Mixtral (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
 - by Meta - **LLaMA** (chat via [Perplexity](https://labs.perplexity.ai/) or [Groq](https://groq.com))
 - LLaMA-based and Mistral-based LLMs (**merges**) - Mythomax, Goliath, Airoboros, Hermes, etc
--> **%#B000B5%*%%** *phone number or account creation may be needed* ->
+-> **%#B000B5%*%%** *phone number or account creation might be necessary* ->
 
 -> ![image failed to load: reload the page](https://files.catbox.moe/9fac1t.png) <-
 
 > too many LLMs, which shall I use to talk with bot?
-* best quality (in general) - **GPT-4**
+* best quality (generally) - **GPT-4**
 * best creative writing - **Claude**
 
 * best MLP knowledge - both **Claude** and **GPT-4**
 
 * best NSFW - **Claude** (out-of-box), **GPT-4** (if you can wrangle/program it)
-* least censored among them two - **Claude**
-	* in addition check [this meta table](https://rentry.org/aicg_meta) from /g/aicg/
+* less censored between the two - **Claude**
+    * also, see [this meta table](https://rentry.org/aicg_meta) from /g/aicg/
 
-* if you want full control over LLM, zero-censorship, tinker your experience and don't mind low brain - **Kayra** (extra plus if you are into *image-gen*)
-* if you want to run LLM on your own hardware - **[LLaMA](https://huggingface.co/models?other=llama)** or **[Mistral](https://huggingface.co/models?other=Mistral)** merges
-	- start with [this guide](https://rentry.org/lmg-spoonfeed-guide) from /g/lmg/
+* if you want full control over LLM, zero-censorship, tinker your experience and don't mind low brain - **Kayra** (bonus if you are into *image-gen*)
+* if you want to run LLM on personal hardware - **[LLaMA](https://huggingface.co/models?other=llama)** or **[Mistral](https://huggingface.co/models?other=Mistral)** merges
+    - start with [this guide](https://rentry.org/lmg-spoonfeed-guide) from /g/lmg/
 
-> what about Google Gemini?
-no redeeming qualities compare to GPT-4 and Claude. it just exists
-can provide a good variety if you sick of other LLMs
+> thoughts Google Gemini?
+no redeeming qualities compared to GPT-4 and Claude. it just exists
+can provide a good variety if you are sick of other LLMs
 
-> how to get LLMs?
+> how do I get LLMs?
 !!!warning  %red% **don't buy** %%  [Claude Pro](https://claude.ai), [chatGPT](https://chat.openai.com) or [Google Advanced](https://one.google.com/explore-plan/gemini-advanced) subscriptions 
-	they are for normalfags, and pozzed with forced censorship
+    they are for normalfags, and have enforced censorship
 * paypig directly:
-	- Claude - buy [API key](https://www.anthropic.com/api#pricing) from official site, or buy access on [Amazon Bedrock](https://aws.amazon.com/bedrock/claude/) Cloud
-	- GPT-4 - buy [API key](https://openai.com/pricing#language-models) from official site **%#B000B5%*%%**
-	- Kayra - buy [subscription](https://novelai.net/). 25$ sub is worthwhile only for image-gen, otherwise go for 15$ sub
+    - Claude - buy [API key](https://www.anthropic.com/api#pricing) from official site, or get access on [Amazon Bedrock](https://aws.amazon.com/bedrock/claude/) Cloud
+    - GPT-4 - buy [API key](https://openai.com/pricing#language-models) from official site **%#B000B5%*%%**
+    - Kayra - buy [subscription](https://novelai.net/). 25$ sub is worthwhile only for image-gen, else opt for $15 sub
 -> **%#B000B5%*%%** (*Microsoft Azure Cloud is very censored, hence not listed*)  ->
+
 ***
-* from [OpenRouter](https://openrouter.ai/docs#models), legit paid proxy:
-	- Claude - no additional moderation
-	- GPT-4 - **forced** additional moderation
+ 
+* thry [OpenRouter](https://openrouter.ai/docs#models), legit paid proxy:
+    - Claude - no additional moderation
+    - GPT-4 - **forced** additional moderation
+
 ***
-* from the free proxies:
-	- lurk more
+ 
+* thry free proxies:
+    - lurk thread
  
  
  

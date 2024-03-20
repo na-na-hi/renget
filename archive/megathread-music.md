@@ -33,7 +33,7 @@
 - An impressive and reliable collection of anime OPs and EDs themes with direct links to high quality downloadable content.
 - [URL Safety Results](https://www.urlvoid.com/scan/animethemes.moe/)
 
-### 🔗 [CannaPower!](https://canna-power.to/) / [2](https://www.cannapower.be/) • German UI
+### 🔗 [CannaPower!](https://canna-power.to/) • German UI
 - MP3 collection offers diverse music genres, with upbeat tracks and melodic ballads.
 - [URL Safety Results](https://www.urlvoid.com/scan/canna-power.to/)
 

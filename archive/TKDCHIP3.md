@@ -293,3 +293,6 @@
     >WATCH: Footage shows moment when a drone launched from the direction of the Red Sea, succesfully impacted inside Eilat, last night  
     >https://files.catbox.moe/5ho97q.mp4  New  3/18/24    
     ***
+    >Irish Prime Minister to Biden: "We see our history in the eyes of the Palestinians, a story of displacement, deprivation, a denied national identity, forced migration, discrimination, and now hunger."
+    >https://files.catbox.moe/padgiz.mp4  New  3/19/24    
+    ***

@@ -1,8 +1,8 @@
 #Three Strangers Sweep the Grounds
+####[->By Kiyo-Anon<-](https://rentry.org/kiyoStation)
 
 
-
-[Lliam nods, saying, "Yes, humans!  I'm sure you've heard the rumors."](https://rentry.org/kcb-0)
+Lliam nods, saying, "Yes, humans!  I'm sure you've heard the rumors."
 
 Cassie squints at Kiyo contemptuously, "Why, of course we did.  We all did.  Didn't we, Kiyo?"
 
