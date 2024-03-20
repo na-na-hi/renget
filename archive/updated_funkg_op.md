@@ -9,6 +9,9 @@ Discuss the game, fan-made creations, & series that have crossed over with Frida
 Week #XXXX - ??? Edition
 
 >NEWS:
+>Erect Mode song teasers
+https://youtu.be/bkBjhkpOcUM
+https://kawaisprite.bandcamp.com/album/erect-sampler
 >Funkin Crew's most recent blog post
 https://funkin.me/blog/2024-03-12/
 >Funkin Crew's 2024-02-23 chart editor blog post

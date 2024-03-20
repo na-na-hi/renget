@@ -2956,3 +2956,274 @@ you guided Roxanne out of the room and went back in
 >claws gently ran over your bare back as he gingerly kissed your head
 >he'd hold onto this memory too
 >you said he was the best and the heat in his insides was proof to him
+
+>the next couple of days felt amazing
+>it was easy to smuggle Roxy to your van
+>usually you left him at home
+>you wondered what allowing him access to your TV would do 
+>trying to use a DVD was a challenge for him sometimes
+>you'd show him your phone too occasionally
+>occasionally it got dirty
+>he liked learning a lot of things
+>a lot
+>you had to explain the Amazon position
+>you might be a tad squishy for that
+>leaving him at home at least allowed him to occupy his mind
+>you felt guilty having him sit in the van for 8 hours doing nothing 
+>you were dreading the next power bill
+>maybe you'd give him that spare phone eventually
+>maybe 
+>all around, it was a relief being completely open with him now
+>no one to fear when you explained things to him
+>you were an open book and he was fascinated by any bit of news
+>work had become very dull with no real company
+>if you got lucky smuggling Roxanne to work you'd spend your time with him in the van
+>after about a week management came to you 
+>you feared a firing
+>possibly a cop interview 
+>you had a bugout bag in the van just in case constantly 
+>just in case you two had to bolt
+>instead you were told Fazbear was sending out a new Roxanne model
+>sort of an apology
+>that the mall still had to pay to get delivered
+>one without defects that had resulted in the recall
+>well this was going to feel weird
+>it was a relief the news was so mundane but you might keep Roxanne in the dark about this news a little
+>but so far so good
+
+>you thought about how you'd eventually tell Roxanne
+>would it be prudent to just get a different job?
+>you could stand to have a bigger apartment 
+>a giant robot is good at showing you how cramped your little room is
+>but you would have to think about this
+>Roxanne didn't like being around other Roxys
+>no telling how he'd react knowing you were stuck as a mechanic on another one
+>one quick trip home and you were happy to see Roxy flicking through channels
+>you didn't have cable, but internet allowed you watch stuff on the tiny TV
+>unsurprisingly he took a liking to music videos
+>especially hair metal
+>not shocking
+>he did once ask if you wanted him to dress like one of those girls in that Motley Crue video
+>just unprompted 
+>you'd appreciate it but the wardrobe wasn't easy to find of him
+>but you definitely considered it
+>today you came in and he was watching some sort of cooking show thing
+>strange for him to take an interest in that
+>he didn't need to eat
+>hell he didn't have taste buds best you could guess
+>he wagged his tail and looked to you when you opened the door
+>while you would like letting him out to experience the world, you were deathly afraid of the consequences and giving him even a small window was best you could do
+>yeah, as stressful as these past few days could be, you were happy to come home to someone
+>and he was happy to have some small measure of freedom and to be with you
+>you went to get a shower and nowadays felt really no shame in undressing around Roxanne
+>the TV was briefly an afterthought for him
+>after that news from the boss you felt a little guilty hiding the information at the moment
+>it felt like a lie by omission 
+>the shower gave you time to think about it
+>maybe you would tell him
+>better to pull the bandaid off now
+>but how to put it?
+
+>you took your time in the shower
+>this was a tough one
+>fine, fuck it
+>he was owed the honesty
+>you just had to emphasize he was important
+>you toweled off and prepared yourself
+>you started by saying you had news about work, piqued his interest 
+>his ears even perked up
+>so you would be stuck fixing up an animatronic 
+>you distanced the new mall Roxy from your own 
+>by bringing up the work aspect
+>it was just a job
+>your Roxanne on the other hand was special
+>you eventually brought up the robot was a Roxy
+>he looked a little crushed
+>no doubt worried he'd been replaced
+>you sat down next to him on the bed
+>slipping an arm around his waist, you leaned against him
+>you could try to offer a bunch of excuses 
+>but instead you kissed his cheek
+>work was work
+>you could quit tomorrow 
+>but you'd still be his
+>you praised him, ran your hand over his side, intensifying your kisses
+>they were simple things but it did raise his spirits
+>you turned his head to meet yours and promised him
+>that no one
+>absolutely no one
+>could compete in your heart
+>”even if I'm not the real Roxy?”
+>you were taken aback
+>he was worried about that
+>it made sense
+>if you found out there were other yous you'd be worried if you were real
+>what mattered was he was him
+>you didn't have the deep answers for him
+>but you replied that he was the product of his experiences
+>you hand rested on his
+>he was real to you
+>no one else was special like him
+>that seemed to finally relax him
+>”I don't want you quitting work because of me…”
+>he looked down to his feet
+>you were honestly thinking about it though
+>maybe cutting ties with town
+>the possibility had been floating around in your mind
+>you kissed him again 
+>he was always going to be part of you future 
+>no matter how much things changed
+>you wanted him
+>you actually quoted KISS and said you were “made for loving him”
+>cheesy?
+>yes
+>but he loved it judging by how he leaned into you
+
+>you sat like that and lost track of time
+>just silently leaning into each other while rubbing his hand 
+>you appreciated the contrast in size between your hands 
+>he was a delicate thing despite it all
+>it didn't matter what else happened
+>he was special 
+>you did have a proposal and allowed the suggestion to hang in the air a moment 
+>just to gauge his interest
+>finally curiosity got the better of him
+>you remembered he remarked about those girls in the music videos
+>maybe it didn't have to be as slutty…
+>”well that parts fine”
+>you laughed
+>well anyways
+>you suggested a little wardrobe change
+>he liked the Mrs. Claus outfit
+>clothes would be something none of these Roxanne’s would have
+>he really would be special on the outside as much as he was on the inside
+>you knew what was behind that shell of his
+>you had to clarify that wasn't just a dick joke
+>as much as you'd initially ran from the idea when you two first met you were with him
+>you weren't running scared
+>he did that
+>he might be a Roxanne but he was his own man
+>he was the only one that could have gotten the reaction out of you he did
+>you brought up how special it was to work with him
+>that he wasn't just some “product” like Fazbear said or even just a coworker 
+>you'd grown to love him
+>that was something no one could claim
+>not even someone built identical to him
+>and that love you had for him was reflected in his love for you
+>that made him special and no one could replace that bond
+>you did make a mental note to take up sewing because goddamn if any girl's clothes you could pick up off the rack would fit him
+
+>you kept tabs on current news 
+>as a way to get a warning about any legal trouble
+>in the heat of the moment you hadn't considered it but maybe Fazbear being shady had worked to your benefit
+>the rumors about all the weird shit involving with the company, would they really care about a missing Roxanne
+>they might want to keep the case hush hush
+>every day you checked and feared the worst
+>every day you were paranoid cops would show at the mall or your place
+>constant vigilance was taking a toll on your mind
+>for all the stress, Roxanne was a comfort 
+>he was there for you
+>he was very aware of the risk you took for him
+>while he occasionally would slip into a depressive episode about his existence, he would try not to bring you down with him
+>sometimes it resulted in him being a little needy 
+>but that was ok
+>you cared about him and he cared about you
+>he would thank you for how much you had risked rescuing him
+>the idea that his creators might have shut him down or wiped him had scared him
+>when he had gotten taken away the only thing that stopped him from panicking before they powered him down was you
+>he had trusted you 
+>that helped cheer him up
+>you were trustworthy then
+>so you'd be trustworthy whenever
+>some hussy Roxanne could come along
+>he was the one you saved
+>neither of you two really let the other wallow in negative emotions too much
+>neither of you let each other dwell on your respective paranoia thoughts for long
+>your neighbors must have come to hate you after more than a few times one of you decided getting your rocks off for some stress relief was the answer
+>Roxy was all out of that artificial cum so every orgasm for the time being was a dry one
+>the lube was easier to acquire and you restocked him
+>all the sex shop in town had was apple flavor
+>but it was the right brand
+>one of the newer things you tried was using that fleshlight and frotting into him like you were fucking him mating press style
+>attempts to bring up the Amazon position were countered with not being sure your pelvis could survive the experience 
+>life had returned to normal
+>occasional scares aside
+>in the long run the only thing that ended up changing was you looked forward to home more
+>Roxanne wanted to contribute more for you
+>he surprised you one day when you came home with dinner
+>he wasn't watching cooking shows because he was bored
+>it was… a first attempt 
+>thank God you were fine with rare hamburger
+>but the care was there
+>he also wanted to get better at it
+>after a few months, neither the cops or Fazbear came knocking
+>you'd checked his inner workings up and down multiple times for any kind of tracker but maybe they were just that dumb
+>he was a bit more expensive than a cellphone 
+>well, their loss
+>the bugout bag sort gathered dust in your van
+
+>the was a certain poetry in the fact that Roxanne was slowly becoming a housewife 
+>his first move was in the Mrs. Claus outfit
+>it wasn't intentional
+>at least you didn't think so
+>he just sort to took to taking care of you
+>it was sometimes bordering on smothering
+>but given you were a young bachelor who'd never had a roommate, it was sort of welcome
+>he started having you go to bed earlier
+>and his cooking improved quickly
+>while he lacked the taste to know when something was good, he could easily stick to a recipe and respond to your feedback
+>he actually started looking up healthier stuff for you
+>you'd never had a relationship go this far
+>weird to have someone making sure you drank more water
+>maybe he was good with kids so the nurturing thing came natural
+>it was funny the mechanic was getting taken care of by his work
+>nowadays, he busied himself at home 
+>the whole place was spotless
+>you wanted to clean the bathroom yourself but the rest of your tiny apartment was clean as could be
+>again, this was a first
+>you decided he needed a little something to help his boredom
+>something more than TV 
+>you'd gone down to the pawn shop and we'll, acoustic was the best you could do for your price range
+>the mall had seized his guitar
+>he picked you up and nearly crushed the guitar in his excitement 
+>paying half a week's pay for it was worth it
+>you wanted him to express himself a little and that was the first thing that came to mind
+>eventually, the mall's Roxanne came in
+>she was definitely not your Roxy
+>work carried on in a professional manner
+>your Roxanne did make you at least treat this robot as a person first
+>he'd made you aware these Fazbear robots weren't some simple ride attraction
+>plus you had the chance to work on a model that would help troubleshoot any problems for Roxy
+>he wouldn't be the only one to look out for his partner
+>eventually, your paranoia slowly faded
+>you had worried that you'd be punished 
+>that the worst would happen
+>sketchy wouldn't begin to describe Fazbear
+>and that company being the way it was really might have been the best cover you could ask for
+>hey, at least this incident involved less dead kids
+>if the rumors were to be believed 
+
+>you unclenched your ass after what felt like decades of fearing the police
+>things might just be working out
+>months turned into a year
+>a year of freedom
+>the mall had become the same old same old
+>nothing to write home about but you did get a 25 cents raise
+>no further news from Fazbear other than the usual advertising 
+>they did briefly pick up in business
+>you had no idea what these new “Funtime” models were
+>well, ok, you had sort of an idea
+>but the advertising was subtle
+>entertainment 
+>sure
+>the models were even slimmed down like your Roxy
+>no doubt equipped like yours too
+>you'd progressed along with sewing
+>eventually you were able to pick up stuff for him through thrift stores
+>that's where you got your clothes so no shame there
+>fitting him for a skirt was easier than you thought
+>the second you made one that fit he demanded the bottom plates be removed 
+>so he just freeballed around your apartment
+>fitting him for a top was met with the same demand
+>it did make sense though
+>the shell was redundant if he was wearing clothes

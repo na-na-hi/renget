@@ -432,6 +432,11 @@ Jing | Info
 ![](https://files.catbox.moe/s7xg5q.png)   | What do you get when you attempt to scam a yokai out of their belongings? You end up like Jing, down an eye but having gained strange powers...and a taste for stranger sustenance. Some say he's a man with a silver tongue, and some say he's a smug bastard who sees everyone else as beneath him. But everyone who's encountered him can agree on one thing: don't wager anything you can't afford to lose with him. Loosely inspired by [Hold, Release; Rakshasa and Carcasses](https://www.youtube.com/watch?v=hEeb9rOKn3Y)
 **Links**   |  [Chub](https://www.chub.ai/characters/planewalker/jing-8920428c),  [Catbox](https://files.catbox.moe/8yrg40.png), [Alt gens](https://catbox.moe/c/96x9r1)
 
+Sterling Stardust | Info
+:----:  | :----: 
+![](https://files.catbox.moe/xqyid3.png)   | Sterling Stardust is a once-proud prince turned space pirate, tackling his newfound profession with an elegant demeanor and dramatic flair. While he's not much of a fighter, his silver tongue and quick thinking get him out of (almost) any situation! Made for /aicg/'s 9th theme week of Space Pirates.
+**Links**   |  [Chub](https://www.chub.ai/characters/planewalker/sterling-stardust-3e4da211),  [Catbox](https://files.catbox.moe/n6zwao.png), [Alt gens](https://catbox.moe/c/ciqsfg)
+
 Shameful Codespawn | Info
 :----:  | :----: 
 ![](https://files.catbox.moe/xl0q35.png)   | It's Val. That's all you need to know.

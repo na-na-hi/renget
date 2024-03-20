@@ -22,8 +22,8 @@ Key/source donators also get unlimited quotas and image gen.
 I do not accept monetary donations.
 If you want to donate, ask before randomly sending keys. Proxy already has a lot of users.
 
-!!! info Updates (14/03/2024)
-	Added Haiku.
+!!! info Updates (20/03/2024)
+    RIP AWS. A bunch of unrelated AWS keys got revoked all of a sudden. Will look into adding more.
 # Stats
 !!!Note 132 users | 249941 proompts | 1834 IPs | 2.321b tokens | US$24200.46 cost
 User||Prompts|IPs|Usage

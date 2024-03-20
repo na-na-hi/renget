@@ -5,7 +5,8 @@ please don't use them for commissions.%%
 ![](https://files.catbox.moe/jgpo7c.png) <-
 
 -> %#760000%།%% ![](https://files.catbox.moe/2zyfnm.gif) %black%∔ ⠀**Made by Me**%% %#760000%˖%%
-%#760000%**Credits**%% %black%Are Appreciated !%% <-
+%#760000%**Credits**%% %black%Are Appreciated !%%
+%black%You can **recolor** or edit them using IbisPaint.%%<-
 -> ![](https://files.catbox.moe/p3bvd1.png)
 ![](https://files.catbox.moe/sfh0vk.png)
 ![](https://files.catbox.moe/eh1wq6.png)
@@ -27,9 +28,22 @@ please don't use them for commissions.%%
 ![](https://files.catbox.moe/yjg2ad.png)
 ![](https://files.catbox.moe/47x348.png)
 ![](https://files.catbox.moe/n2xflp.png)
-![](https://files.catbox.moe/05xmz0.png) <-
+![](https://files.catbox.moe/05xmz0.png) 
+![](https://files.catbox.moe/fgejhn.png) 
+![](https://files.catbox.moe/2lclum.png)
+![](https://files.catbox.moe/kv6qv5.png)
+![](https://files.catbox.moe/pwb2cs.png)
+![](https://files.catbox.moe/6x09y3.png)
+![](https://files.catbox.moe/04gjgf.png)
+![](https://files.catbox.moe/rgaplp.png) <-
+
+
+
 
 ***
+
+
+
 -> %#760000%།%% ![](https://files.catbox.moe/2zyfnm.gif) %black%∔ ⠀**Not Mine**%% %#760000%˖%% <-
 -> ![](https://cdn.discordapp.com/attachments/1064597015503315054/1127294873133920336/Untitled2425_20230708184658.png)
 ![](https://cdn.discordapp.com/attachments/1064597015503315054/1127296025325998112/Untitled2380_20230708185128.png)

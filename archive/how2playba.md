@@ -743,7 +743,7 @@ If you're playing the game for a specific girl, I'd still suggest playing now ev
 
 >How grindy is BA? 
 It follows every gacha formula of having a lot of stuff to do in the first week/month, but after that you just do your dailies and log off. Dailies can take 5-20 minutes. 
-From my very limited experience playing other gachas (Arknights, limbus, some old mobile phone games), I'd say it's definitely on the very low side for daily maintenance. The sweep mechanic helps a lot in this regard.
+From my very limited experience playing other gachas (Arknights, Limbuuuuuuus, some old mobile phone games), I'd say it's definitely on the very low side for daily maintenance. The sweep mechanic helps a lot in this regard.
 
 You can 'grind' a bit more trying to get to the latest cafe upgrade, or by trying a raid difficulty that's above (or at) your level. The reward for doing so is nice, but not significant enough to feel bad about skipping it. 
 

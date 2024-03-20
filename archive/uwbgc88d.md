@@ -71,7 +71,7 @@ https://watch.jme.tv/english
 AQ Stream (NHK)
 https://aqstream.com/jp/nhk/NHK-G
 
-or search for other live streamings on YouTube:
+or search for other live streams on YouTube:
 https://www.youtube.com/results?search_query=Sumo&sp=EgJAAQ%253D%253D
 https://www.youtube.com/results?search_query=%E7%9B%B8%E6%92%B2&sp=EgJAAQ%253D%253D
 
@@ -85,9 +85,6 @@ https://www.dailymotion.com/holaabema123/playlists
 NHK World-Japan (in English; daily highlights deleted a few weeks after the tournament)
 https://www3.nhk.or.jp/nhkworld/en/tv/sumo
 
-NattoSumo (see also backup links in his discord)
-https://rumble.com/user/NattoSumo2
-
 Sumo Jason
 https://www.youtube.com/@sumojason/videos
 
@@ -97,7 +94,9 @@ https://rumble.com/user/Kintamayama
 Tournament Highlights (available 3 days after the tournament; deleted when the new banzuke is published)
 https://sumo.or.jp/EnHonbashoTopicsKoTorikumi15/wrap
 
-Note: you can also rewatch the live streamings if they are still up.
+Notes: 
+- you can also rewatch the live streams if they are still up.
+- for NattoSumo highlights see links in his discord.
 
 
 #### News

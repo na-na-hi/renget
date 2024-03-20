@@ -2,7 +2,7 @@
 ->%red% welcome to my psychic energy prison%%<-
 
 -> **SANTANA** <-
-->lesbo<-
+->she/her<-
 
 ---
 ->tumblr - [@livinglegend](https://livinglegend.tumblr.com/tagged/x)

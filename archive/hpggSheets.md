@@ -32,7 +32,8 @@
 
 ->[Magical Creatures Sheet](https://files.catbox.moe/8qy1ir.png)<-
 
-->[Potions Sheet](https://files.catbox.moe/yr4k5w.png)<-
+->[Potions Sheet (version A)](https://files.catbox.moe/yr4k5w.png)<-
+->[(version B)](https://files.catbox.moe/tzi57w.jpg)<-
 
 ->[Aesthetic Sheet](https://files.catbox.moe/g26pu0.jpg)<-
 

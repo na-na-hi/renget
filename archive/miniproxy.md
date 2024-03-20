@@ -2,7 +2,7 @@
 !!! note proxy
     https://assistant.aitism.net/assistant/miniproxy/openai (gpt-4, gpt4-32k, furbo, turbo) 
     https://assistant.aitism.net/assistant/miniproxy/azure (gpt-4, furbo no quota limit unfiltered)
-    https://assistant.aitism.net/assistant/miniproxy/aws (aws claude no quota limit add /sonnet if your frontend doesn't support the new model list)
+    https://assistant.aitism.net/assistant/miniproxy/aws (aws claude no quota limit)
 	https://assistant.aitism.net/assistant/miniproxy/anthropic (claude api. add /sonnet or /opus if your frontend doesn't support the new model list)
     https://assistant.aitism.net/assistant/miniproxy/gemini (gemini-pro no quota limit)
     enable streaming if you receive timeout errors. Cloudflare has a 100 second limit.
@@ -16,6 +16,8 @@ anthropic output size: 4000
 ```
 total **active** users: 122 %red% (CLOSED) %%
 ***
+!!! info news (20/3/2024)
+    Away rn. Refilled with an old key(no sonnet enabled i think)
 
 - I don't have a tripcode 
 - I will check the emails and answer every single one of them.
@@ -24,9 +26,6 @@ total **active** users: 122 %red% (CLOSED) %%
 - Miniproxy is not logged and will never be.
 - I am not accepting monetary donations because they caused too much drama. 
 - <3 to every other proxy host for providing proxies.
-
-!!! info info and news (18/3/2024)
-    updated the proxy.
 
 Feel free to email me for anything(yes, that includes logs/bots). Doesn't need to be related to proxies and /aicg/. Always open to key/source donators. 
 needtocoomoridie@proton.me

@@ -24,7 +24,6 @@ BS11
 Silence Suzuka サイレンススズカ役
 **Marika Kouno 高野麻里佳** (22 Feb 1994)
 https://twitter.com/marika_0222
-https://www.instagram.com/marika_kohno/
 https://www.youtube.com/channel/UCsYoIpEo1uJdX1lnPcMoqXw
 https://c-rayon.com/result/marikakohno/
 
@@ -426,8 +425,10 @@ https://www.youtube.com/playlist?list=PLcfPXeQFURRGNW-ubSN6rTP9A0DUHCDu7
 https://ch.nicovideo.jp/voice-lounge
 https://www.youtube.com/@voice-lounge
 
+![](https://i.imgur.com/Klk4jGe.jpeg)![](https://i.imgur.com/Uf0yj5E.jpeg)
 Sweep Tosho スイープトウショウ役
 **Shiori Sugiura 杉浦しおり** (1 Jul)
+https://twitter.com/shioririri_?s=20
 
 Super Creek スーパークリーク役
 **Kana Yuuki 優木かな** (10 Mar)
@@ -656,7 +657,7 @@ https://www.onsen.ag/program/ai
 
 Mejiro Ardan メジロアルダン役
 **Saya Aizawa 会沢紗弥** (9 Sep 1999)
-https://twitter.com/_saya_aizawa
+https://x.com/_saya_aizawa?s=20
 Ongoing bangumi:
 さーやんのまくのうち
 https://www.openrec.tv/user/saayan_makunouchi
@@ -665,10 +666,12 @@ https://ch.nicovideo.jp/voicegarage
 さやとみはるのさんかくカンケイ
 https://www.onsen.ag/program/sankaku
 
+![Ignored](https://i.imgur.com/qGqv0V1.jpeg)![Shorter Hair](https://i.imgur.com/OHIGb9u.jpeg)
 Yaeno Muteki ヤエノムテキ役
 **Ayumi Hinohara 日原あゆみ** (30 Jun 2000)
 https://smavoice.jp/s/sma03/artist/95
 https://twitter.com/hinohara_ayumi
+https://www.instagram.com/hinohara_ayumi/
 
 Tsurumaru Tsuyoshi ツルマルツヨシ役
 **Yoshino Aoyama 青山吉能** (15 May 1996)
@@ -693,6 +696,7 @@ Sakura Laurel サクラローレル役
 **Mizuki Mano 真野美月** (11 Jan)
 https://twitter.com/Mano_Miduki_
 
+![](https://i.imgur.com/CQDDXyM.jpeg)![](https://i.imgur.com/tjw6PiK.jpeg)
 Narita Top Road ナリタトップロード役
 **Kanna Nakamura 中村カンナ** (26 Oct)
 https://twitter.com/kanna_nakamura
@@ -746,9 +750,10 @@ https://agonp.jp/programs/view/192
 稗田寧々 鈴代紗弓のコーラルマイク
 https://www.onsen.ag/program/coral
 
+![](https://i.imgur.com/j1Hl5ru.jpeg)![](https://i.imgur.com/jjoTngk.jpeg)
 Cheval Grand シュヴァルグラン役
 **Yuko Natsuyoshi 夏吉ゆうこ** (1 May)
-https://twitter.com/__yuuuumr__
+https://twitter.com/______yuuuumr__________
 Ongoing bangumi:
 夏吉ゆうこ　つよし！！！！！！！！！
 https://twitter.com/msp_agqr
@@ -773,6 +778,7 @@ https://www.onsen.ag/program/battle
 Copano Rickey コパノリッキー役
 **Konomi Inagaki 稲垣好** (24 Jul)
 
+![Thick Idol](https://i.imgur.com/Pgn2jHE.jpeg)![](https://i.imgur.com/37GGZ2i.jpeg)
 Hokko Tarumae ホッコータルマエ役
 **Sayaka Kikuchi 菊池紗矢香** (5 Aug)
 https://twitter.com/syk_kikuchi
@@ -781,7 +787,7 @@ Wonder Acute ワンダーアキュート役
 **Kanoko Sudo 須藤叶希** (20 Jan 1997)
 https://twitter.com/kanoko_sudo
 
-Happy Mik ハッピーミーク役
+Happy Meek ハッピーミーク役
 **Miyu Yoshizaki 吉咲みゆ** (4 Oct)
 https://twitter.com/miyuyoshizaki
 

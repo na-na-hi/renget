@@ -1,3 +1,11 @@
+>Putin: the Russian people can't be intimidated
+https://files.catbox.moe/f2zyeq.mp4
+>Abrams interior, Russian soldier pov
+https://files.catbox.moe/4wssfq.mp4
+>"democracy is optional as long as were not Russian"
+https://files.catbox.moe/6kab2q.mp4
+>Berlin Russian embassy employee vibin
+https://files.catbox.moe/h78n3y.mp4
 >The very undemocratic voters of Russia
 https://files.catbox.moe/61bupi.webm
 >Syrskyi's son wants to become a Russian citizen

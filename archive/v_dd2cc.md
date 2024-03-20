@@ -32,7 +32,7 @@
 | ID | Character's Pic⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ | Character's Name | Sliders | Creator | Note | 
 |----------|----------|----------|----------|----------|----------|
 | HF001 | ![😭](https://i.imgur.com/7mfXTS0.jpg) | Young Girl  | [rentry](https://rentry.org/HF001) / [imgur](https://imgur.com/a/mduPRDo) | Falconhoof | 😭 | 
-| HF002 %Purple% **Updated!** %% | ![Image description](https://imgur.com/P12neqv.jpeg) | Mage Pawn | [Version 2](https://imgur.com/a/pA5uZmJ) , [Version 1](https://imgur.com/a/PQyDgbk) | Anonymous | None | 
+| HF002 | ![Image description](https://imgur.com/P12neqv.jpeg) | Mage Pawn | [Version 2](https://imgur.com/a/pA5uZmJ) , [Version 1](https://imgur.com/a/PQyDgbk) | Anonymous | None | 
 | HF003 | ![Image description](https://i.imgur.com/700EDRx.jpeg) | Asian Arisen | https://imgur.com/a/9r6qspC | Anonymous | None | 
 | HF004 | ![Image description](https://i.imgur.com/5nD7eoD.jpeg) | N/A | https://imgur.com/IxzD8Ur | Anonymous | None | 
 | HF005 | ![Image description](https://i.imgur.com/fXjuVyX.jpeg) | N/A | https://imgur.com/a/nQXjU12, https://imgur.com/a/adKWa8J | Anonymous | None | 
@@ -71,17 +71,17 @@
 | HF038 | ![Image description](https://imgur.com/FPC3XCp.png) | N/A | https://imgur.com/tuwiblA | Anonymous | None | 
 | HF039 | ![Image description](https://imgur.com/CCTpW0h.jpg) | N/A | https://files.catbox.moe/j9pam5.webm | Anonymous | None | 
 | HF040 | ![Image description](https://imgur.com/x9XmTfU.jpeg) | N/A | https://imgur.com/NCwvHg6 | Anonymous | None | 
-| HF041 | ![Image description](-) | N/A | Empty | Anonymous |  Empty slot, waiting for new character | 
+| HF041 %red% **New!!** %% | ![Image description](https://files.catbox.moe/yruev3.jpg) | N/A | https://files.catbox.moe/8py0b9.jpg | Anonymous | None | 
 | HF042 | ![Image description](https://imgur.com/iSrcHAc.jpeg) | Millicent [Elden Ring [🖼️](https://i.imgur.com/q9UrSCP.jpeg)] | https://imgur.com/WpXtUca | Anonymous | Missing Sliders? | 
 | HF043 | ![Image description](https://files.catbox.moe/f06hbg.jpg) | N/A | https://files.catbox.moe/v505w6.jpg | XULLuxolid | None | 
 | HF044 | ![Image description](https://files.catbox.moe/tdytui.png) | Cake | https://streamable.com/qkicum | Hag Champion | Feel free to improve on my bullshit anytime | 
-| HF045 %red% **New!!** %% | ![Image description](https://files.catbox.moe/wss07n.jpg) | dunmer | https://files.catbox.moe/iae8rq.mp4 | Anonymous | None | 
-| HF046 %red% **New!!** %% | ![Image description](https://files.catbox.moe/naqr5z.jpg) | archer | https://files.catbox.moe/p2q0tz.webm | Anonymous | None | 
-| HF047 %red% **New!!** %% | ![Image description](https://files.catbox.moe/9hd867.jpeg) | Ithronel | https://files.catbox.moe/6m90v2.png | Anonymous | [story](https://imgur.com/NiytKHC) | 
-| HF048 %red% **New!!** %% | ![Image description](https://files.catbox.moe/0z663h.jpeg) | Siona | https://files.catbox.moe/2v50mj.png | Anonymous | [story](https://imgur.com/JFm9OGU) | 
-| HF049 %red% **New!!** %% | ![Image description](https://files.catbox.moe/3x6hrg.jpeg) | N/A [🖼️](https://files.catbox.moe/19028v.png) |  https://files.catbox.moe/xmj8cs.webm | Anonymous |  None | 
-| HF050 %red% **New!!** %% | ![Image description](https://files.catbox.moe/awqub2.jpg) | N/A | https://files.catbox.moe/jzmcm6.webm | Anonymous | "CHINK EROTIC CHINK EYES AND LIPS EROTIC" | 
-| HF051 %red% **New!!** %% | ![Image description](https://files.catbox.moe/gi6wi3.jpeg) | N/A | https://files.catbox.moe/skqk1f.webm | Anonymous | based it off of a pic of joan of arc from google |
+| HF045 | ![Image description](https://files.catbox.moe/wss07n.jpg) | dunmer | https://files.catbox.moe/iae8rq.mp4 | Anonymous | None | 
+| HF046 | ![Image description](https://files.catbox.moe/naqr5z.jpg) | archer | https://files.catbox.moe/p2q0tz.webm | Anonymous | None | 
+| HF047 | ![Image description](https://files.catbox.moe/9hd867.jpeg) | Ithronel | https://files.catbox.moe/6m90v2.png | Anonymous | [story](https://imgur.com/NiytKHC) | 
+| HF048 | ![Image description](https://files.catbox.moe/0z663h.jpeg) | Siona | https://files.catbox.moe/2v50mj.png | Anonymous | [story](https://imgur.com/JFm9OGU) | 
+| HF049 | ![Image description](https://files.catbox.moe/3x6hrg.jpeg) | N/A [🖼️](https://files.catbox.moe/19028v.png) |  https://files.catbox.moe/xmj8cs.webm | Anonymous |  None | 
+| HF050 | ![Image description](https://files.catbox.moe/awqub2.jpg) | N/A | https://files.catbox.moe/jzmcm6.webm | Anonymous | "CHINK EROTIC CHINK EYES AND LIPS EROTIC" | 
+| HF051 | ![Image description](https://files.catbox.moe/gi6wi3.jpeg) | N/A | https://files.catbox.moe/skqk1f.webm | Anonymous | based it off of a pic of joan of arc from google |
 
 ---
 
@@ -101,9 +101,10 @@
 | BF006 | ![Image description](https://i.imgur.com/y6Z15v3.jpeg) | N/A | https://imgur.com/JSDIbMx | Anonymous | Here are your cat sliders, faggots. | 
 | BF007 | ![Image description](https://files.catbox.moe/gpb2fw.jpg) | N/A | https://files.catbox.moe/uz6pxv.jpg | Anonymous | None | 
 | BF008 | ![Image description](https://files.catbox.moe/o5ogyw.jpg) | N/A | https://files.catbox.moe/rwugf7.webm | Anonymous | cat | 
-| BF009 %red% **New!!** %% | ![Image description](https://files.catbox.moe/hmmqgu.jpg) | kot | https://files.catbox.moe/k93lqf.mp4 | Anonymous | None | 
-| BF010 %red% **New!!** %% | ![Image description](https://files.catbox.moe/ilzv80.jpeg) | The Beast | https://files.catbox.moe/2sh7yb.png | Anonymous | [story](https://imgur.com/eus5u01) | 
-| BF011 %red% **New!!** %% | ![Image description](https://files.catbox.moe/snhv08.jpg) | Dorobouneko | https://files.catbox.moe/hh0o3n.jpg | Anonymous | None | 
+| BF009 | ![Image description](https://files.catbox.moe/hmmqgu.jpg) | kot | https://files.catbox.moe/k93lqf.mp4 | Anonymous | None | 
+| BF010 | ![Image description](https://files.catbox.moe/ilzv80.jpeg) | The Beast | https://files.catbox.moe/2sh7yb.png | Anonymous | [story](https://imgur.com/eus5u01) | 
+| BF011 | ![Image description](https://files.catbox.moe/snhv08.jpg) | Dorobouneko | https://files.catbox.moe/hh0o3n.jpg | Anonymous | None | 
+| BF012 %red% **New!!** %% | ![Image description](https://files.catbox.moe/n0srjc.jpg) | N/A | https://files.catbox.moe/tl6dwp.png | Anonymous | None | 
 
 ---
 
@@ -143,13 +144,14 @@
 | HM024 | ![Image Description](https://files.catbox.moe/zawsxn.png) | Leon Redfield [Resident Evil [🖼️](https://i.imgur.com/erblTlp.jpeg)] | https://files.catbox.moe/7ewyie.png | Anonymous | Didn't do body, should change head size if you don't make him a manlet. | 
 | HM025 | ![Image Description](https://files.catbox.moe/vxgsho.jpg) | N/A | https://files.catbox.moe/ayqybo.jpg | XULLuxolid | None | 
 | HM026 | ![Image Description](https://imgur.com/baZBZxl.jpg) | N/A | https://files.catbox.moe/arjorl.jpg | Anonymous | None | 
-| HM027 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/sm1eln.jpg) | N/A | https://files.catbox.moe/r3khhn.png | Anonymous | None | 
-| HM028 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/ml7qq0.jpg) | Yeshue | https://files.catbox.moe/uuze9a.png | Anonymous | [story](https://imgur.com/F4JfoVg) | 
-| HM029 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/4edodx.jpg) | Glem | https://files.catbox.moe/h2zjf2.png | Anonymous | [story](https://imgur.com/F4JfoVg) | 
-| HM030 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/6qvmck.jpeg) | Robert | https://files.catbox.moe/qwkyd0.png | Anonymous | [story](https://imgur.com/l0ZZ5Wr) | 
-| HM031 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/uav001.jpeg) | Aetheling | https://files.catbox.moe/pjk3sh.png | Anonymous | [story](https://imgur.com/l0ZZ5Wr) | 
-| HM032 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/p8b5am.jpeg) | The Shaman | https://files.catbox.moe/vinhfe.png | Anonymous | [story](https://imgur.com/eus5u01) | 
-| HM033 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/v279id.jpeg) | Ailmar | https://files.catbox.moe/0hmgy0.png | Anonymous | [story](https://imgur.com/JFm9OGU) | 
+| HM027 | ![Image Description](https://files.catbox.moe/sm1eln.jpg) | N/A | https://files.catbox.moe/r3khhn.png | Anonymous | None | 
+| HM028 | ![Image Description](https://files.catbox.moe/ml7qq0.jpg) | Yeshue | https://files.catbox.moe/uuze9a.png | Anonymous | [story](https://imgur.com/F4JfoVg) | 
+| HM029 | ![Image Description](https://files.catbox.moe/4edodx.jpg) | Glem | https://files.catbox.moe/h2zjf2.png | Anonymous | [story](https://imgur.com/F4JfoVg) | 
+| HM030 | ![Image Description](https://files.catbox.moe/6qvmck.jpeg) | Robert | https://files.catbox.moe/qwkyd0.png | Anonymous | [story](https://imgur.com/l0ZZ5Wr) | 
+| HM031 | ![Image Description](https://files.catbox.moe/uav001.jpeg) | Aetheling | https://files.catbox.moe/pjk3sh.png | Anonymous | [story](https://imgur.com/l0ZZ5Wr) | 
+| HM032 | ![Image Description](https://files.catbox.moe/p8b5am.jpeg) | The Shaman | https://files.catbox.moe/vinhfe.png | Anonymous | [story](https://imgur.com/eus5u01) | 
+| HM033 | ![Image Description](https://files.catbox.moe/v279id.jpeg) | Ailmar | https://files.catbox.moe/0hmgy0.png | Anonymous | [story](https://imgur.com/JFm9OGU) | 
+| HM034 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/9kizll.jpg) | N/A | https://files.catbox.moe/xcbp75.png | Anonymous | "The only character I have sliders for is this unintentionally girly shota." | 
 
 
 ---
@@ -167,7 +169,7 @@
 | BM003 | ![Image description](https://files.catbox.moe/5ak4nx.jpg) | Buff Male Beastren | https://imgur.com/a/6yZnKeq | Nay | Thundercats hoooo! |
 | BM004 | ![Image description](https://i.imgur.com/51qgNc5.jpeg) | Tired lion getting his balls bitten. [🖼️](https://i.imgur.com/3ygr91i.jpeg) | https://rentry.org/zawm5py3 | Beastren Safari Incorporated | "When you've naught left to give, yet the Arisen keeps biting your balls." |
 | BM005 | ![Image description](https://files.catbox.moe/pyxe9s.jpg) | Ajani G.Mane [MTG [🖼️](https://i.imgur.com/7QB2uQk.jpeg)] | [Page 1](https://files.catbox.moe/7y3de5.jpg) , [Page 2](https://files.catbox.moe/6vijtb.jpg) , [Page 3](https://files.catbox.moe/jxlysb.jpg) , [Page 4](https://files.catbox.moe/mvho48.jpg) | Silibus | None |
-| BM006 %Purple% **Updated!** %% | ![Image description](https://i.imgur.com/tjALE5C.jpeg) | Rathian | https://files.catbox.moe/i0c828.png | Anonymous | [story](https://imgur.com/NiytKHC)  | 
+| BM006 | ![Image description](https://i.imgur.com/tjALE5C.jpeg) | Rathian | https://files.catbox.moe/i0c828.png | Anonymous | [story](https://imgur.com/NiytKHC)  | 
 | BM007 | ![Image description](https://imgur.com/oJOLARi.jpeg) | N/A | https://files.catbox.moe/buq82g.mp4 | Anonymous | from a /cm/ Anon | 
 | BM008 | ![Image description](https://i.imgur.com/boTLKy1.png) | Sigmund | https://imgur.com/a/5oY3l2D | Anonymous | None | 
 

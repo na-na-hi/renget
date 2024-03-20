@@ -65,10 +65,32 @@ WIP
 >Yuma Kouda
 "Is this whole team full of jerks!? She talks a lot about how strong she is, but at least she doesn't rap. I feel a little bad for her teammates."
 
-!!! danger Misc.
+!!! danger Team 6
+
+>Tsugumi
+"Ugh, I'm a little dizzy. She just kept talking and talking, and I tried to listen but I just couldn't keep up! She seemed nice, so I hope she doesn't think I was being rude on purpose!"
 
 >Ghidorah
 "That mask can't help with making friends. I guess that all that poison can't either. Or the bugs. Uh, well the crocodile is pretty cool! And if he ever needs a friend who doesn't mind all that stuff, I'm happy to help!"
+
+>Junki Takenaga
+"I've always loved playing in the forest! I think he should try doing it with some friends, though. I mean, birds are nice! I love birds! But they usually fly away if get too close... Maybe he could show me how to not scare them away?"
+
+>Sen Yamamoto
+"She seems pretty smart and *super* good at sensing, but isn't she a little sensitive? I don't really think it's bad — Sensei is like that too. I guess I'm just a bit worried because she doesn't seem that strong either. Oh, I'm gonna feel awful if I have to fight her!"
+
+!!! danger Team 7
+
+>Fujiwara Nobutake
+"Is he supposed to be here? I mean, it's great that he is! I just thought samurai didn't like getting involved with shinobi business... Actually, do they have an exam in the Land of Iron? Would they let me take it?"
+
+>Kamare Hozuki
+"I don't know anyone couldn't be pumped about the exam! Even if he doesn't care, his team is counting on him! How can he be okay with not giving his all for them? I'd feel AWFUL if I let Masu and Kita down! I might not even be able to eat any Granny's manju for a week!."
+
+>Daiki Ueno
+"He seems really smart, but also really sad. I guess dealing with bodies is probably rougher than dealing with sick people... Oh, I think I heard something about him having a condition, so that can't help. If it was me, don't think I'd care about the exam, but it's good he hasn't given up!"
+
+!!! danger Misc.
 
 >Darkbone
 WIP
@@ -78,12 +100,3 @@ WIP
 
 >Ahiratsu Ōtsutsuki
 WIP
-
->Junki Takenaga
-"I've always loved playing in the forest! I think he should try doing it with some friends, though. I mean, birds are nice! I love birds! But they usually fly away if get too close... Maybe he could show me how to not scare them away?"
-
->Sen Yamamoto
-"She seems pretty smart and *super* good at sensing, but isn't she a little sensitive? I don't really think it's bad — Sensei is like that too. I guess I'm just a bit worried because she doesn't seem that strong either. Oh, I'm gonna feel awful if I have to fight her!"
-
->Tsurugi
-"Ugh, I'm a little dizzy. She just kept talking and talking, and I tried to listen but I just couldn't keep up! She seemed nice, so I hope she doesn't think I was being rude on purpose!"
