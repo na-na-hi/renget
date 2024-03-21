@@ -440,7 +440,16 @@ This is so that we don't have to deal with Musk's Rentry being wiped again.
 [**[Extra]** *Oops*](https://arch.b4k.co/vp/thread/55584455/)
 
 ###->Edelweiss Chronicles<-
+!!! note
+	**Status: Complete**
+[**[1]** *There is no kino here, only shitty 3d models and a multitude of furries*](https://arch.b4k.co/vp/thread/55584443/)
+[**[2]** *Dad went out for milk and made a furry cult*](https://arch.b4k.co/vp/thread/55590263/)
+[**[3]** *Holy shit, the dev remembered TMs exist*](https://arch.b4k.co/vp/thread/55601135/)
+
+###->Vanguard<-
 !!! info
 	**Status: In progress**
-[**[1]** *There is no kino here, only shitty 3d models and a multitude of furries*](https://arch.b4k.co/vp/thread/55584443/)
-[**[2]**](https://arch.b4k.co/vp/thread/55590263/)
+[**[1]** *Oh boy, this is gonna suck*](https://arch.b4k.co/vp/thread/55611901/)
+[**[2]** *There's been some shitty MCs, but holy fuck*](https://arch.b4k.co/vp/thread/55615228/)
+[**[3]** *Where's the midway healing points for these shitty routes*](https://arch.b4k.co/vp/thread/55618213/)
+[**[4]** *Only 30% of the game is made btw*](https://arch.b4k.co/vp/thread/55619828/)

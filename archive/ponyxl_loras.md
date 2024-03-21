@@ -16,7 +16,7 @@ Crade  | Activation tag is `crade` and works best with a strength of `0.8` | 226
 Dstears | | 98004dfb8ba2 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40907533) | | [pomf.lain.la](http://pomf2.lain.la/f/9z706mci.7z)
 HeavyMetalBronyYeah | | fb15c2f9fb56 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40888867) | [catbox.moe](https://catbox.moe/c/hutk05) | [catbox.moe](https://files.catbox.moe/ywgog1.7z)
 MagnaLuna | | cb6c9df4b435 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40905488) | | [pomf.lain.la](http://pomf2.lain.la/f/6d3sgigj.7z)
-Pestil  | Activation tag is `pestil` and works best with a strength of `0.8` | 5ceb008f9fb8 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40861655) | [catbox.moe](https://catbox.moe/c/4auxaf) | [catbox.moe](https://files.catbox.moe/8z4fu0.7z)
+Pestil  | Activation tag is `pestil` and works best with a strength of `0.8` | b4b55a90b26d | [desuarchive.org](https://www.desuarchive.org/mlp/post/40861655) | [catbox.moe](https://catbox.moe/c/4auxaf) | [catbox.moe](https://files.catbox.moe/8z4fu0.7z)
 Ponypeon | | 1fda21c8bb48 | [desuarchive.org](https://www.desuarchive.org/mlp/post/40896250) | [catbox.moe](https://catbox.moe/c/x4q2b5) | [catbox.moe](https://files.catbox.moe/czj7c9.7z)
 Pusspuss | | 02ac12fc74bd | [desuarchive.org](https://www.desuarchive.org/mlp/post/40897704) | [catbox.moe](https://catbox.moe/c/eoccg9) | [catbox.moe](https://files.catbox.moe/0odxp4.7z)
 PyroPk | | 15c6efcd04ba | [desuarchive.org](https://www.desuarchive.org/mlp/post/40886091) | [catbox.moe](https://catbox.moe/c/87e8na)  | [catbox.moe](https://files.catbox.moe/9asbg3.7z)

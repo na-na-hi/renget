@@ -807,6 +807,9 @@
 
 ##### -> Kaminari Clara <-
 -> [Civitai](https://civitai.com/models/342486/kaminari-clara-ponyxl) <-
+-> **or** <-
+!!! info check tags from metadata?
+-> [Catbox](https://files.catbox.moe/vop9nc.safetensors) <-
 
 ##### -> (OriginS) Tenma Maemi <-
 -> [MEGA](https://mega.nz/folder/L7Q3XaQC#jg7_M_gCun-aQenQmLISIQ/file/GmQVGDLB) <-
@@ -820,6 +823,12 @@
 ##### -> (Sugar Lyric) Ryugasaki Rene <-
 !!! info 3 Outfits!
 -> [Civitai](https://civitai.com/models/326532/xl-10-rene-ryugasaki-or-sugar-lyric-774-inc) <-
+
+#### -> Production Kawaii <-
+-> ![PRODUCTION KAWAII](https://files.catbox.moe/cxdsmq.png) <-
+***
+##### -> Majokko Meimi <-
+-> [Catbox](https://files.catbox.moe/wgeak8.safetensors) <-
 
 #### -> Prism Project <-
 -> ![PRISM PROJECT](https://files.catbox.moe/et0ocg.png) <-
@@ -912,6 +921,18 @@
 !!! info check tags from metadata?
 -> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw) <-
 
+##### -> Stalkeralker <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	 stalkeralker, long hair, purple hair, blunt bangs, blunt ends, yellow eyes
+-> [Catbox](https://files.catbox.moe/cpym0q.safetensors) <-
+
+##### -> Tomoe Umari <-
+-> [MEGA](https://mega.nz/folder/Qk9CUQwS#ZjQCr6G4G7ndjBYKf98SoQ/file/Es82iTQa) <-
+
+##### -> Nekomiya Hinata <-
+-> [Civitai](https://civitai.com/models/356978/nekomiya-hinata-ponydiffusion-xl-v6lora) <-
+
 #### -> Misc <-
 ***
 ##### -> (Nerissa) Mamarissa Ravencroft <-
@@ -922,3 +943,6 @@
 
 ##### -> (Nerissa) Aradia Ravencroft <-
 -> [MEGA](https://mega.nz/folder/EJIAkQgL#rS6zYdgmberPrl16-SQJaQ/file/kVoTVTyR) <-
+
+##### -> (Ashelia) Rinmama <-
+-> [MEGA](https://mega.nz/folder/hiVFkTxD#Ow2YhONHAnl1Jod-eIYZUw/file/prFCWDoI) <-

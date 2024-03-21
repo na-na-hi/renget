@@ -134,6 +134,7 @@
 ### ==Over 100 gold==
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
+**Chibi Chara Big Head Take4** **|[2013471](https://assets.clip-studio.com/en-us/detail?id=2013471)
 **Basketball with an impossible depth **|[1959276](https://assets.clip-studio.com/en-us/detail?id=1959276)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/76/92/1959276/thumbnail)
 **Black piece pen with impossible terrible **|[1981738](https://assets.clip-studio.com/en-us/detail?id=1981738)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/38/17/1981738/thumbnail)
 **A Cacegrade with an improbable terrible **|[1993726](https://assets.clip-studio.com/en-us/detail?id=1993726)|500|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/26/37/1993726/thumbnail)

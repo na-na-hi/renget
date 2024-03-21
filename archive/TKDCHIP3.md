@@ -46,6 +46,14 @@
     ***
     >WATCH: Al-Qassam (Hamas) published a video showing the targeting of several IOF army vehicles in the city of Al-Zahra, northwest of the Central Governorate, using Yassin-105s.
     >https://files.catbox.moe/1f21u6.mp4  New  3/16/24   
+    ***
+    >WATCH: Al-Qassam (Hamas) published a video showing its fighters confront IOF forces who are attacking the vicinity of Al-Shifa Medical Complex in Gaza City.
+    >https://files.catbox.moe/d3uo8n.mp4  New  3/20/24  
+    ***
+    >Hamas 
+    >
+    >WATCH: Al-Qassam (Hamas) published a video showing its forces target an IOF troop carrier (APC) in the Al-Zahra city, northwest of the Central Governorate.
+    >https://files.catbox.moe/cjczkw.mp4  New  3/20/24    
 !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
@@ -295,4 +303,21 @@
     ***
     >Irish Prime Minister to Biden: "We see our history in the eyes of the Palestinians, a story of displacement, deprivation, a denied national identity, forced migration, discrimination, and now hunger."
     >https://files.catbox.moe/padgiz.mp4  New  3/19/24    
+    ***
+    >Settlers are protesting in front of the israeli Ministry of Health for re-granting a work permit to a Zionist gynecologist who sexually harassed his patient which got his medical license revoked.
+    >https://files.catbox.moe/aatxpy.mp4  New  3/20/24      
+    ***
+    >Anti-Netanyahu protesters try to storm the Knesset building in occupied Jerusalem.
+    >https://files.catbox.moe/cr3bbf.mp4  New  3/20/24 
+    ***
+    >Palestinian Authority (PA) security forces open fire on mourners taking part in the funeral procession of three Palestinians killed in an Israeli airstrike earlier today in Jenin.
+    >https://files.catbox.moe/44g5jr.mp4  New  3/20/24  
+    ***
+    >BREAKING: 
+    >
+    >Yemeni Army might at one point start targeting Cyprus commercial Ships in the Red Sea.
+    >
+    >As Cyprus government allows British Military bases on the island to be used by UK to launch Airstrikes on Yemen.
+    >
+    >https://files.catbox.moe/nfpr9n.mp4  New  3/20/24 
     ***

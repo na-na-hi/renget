@@ -2716,3 +2716,60 @@
     >🔻Targeted Ben Guiron airport in Tel Aviv with kamikaze drones.
     >https://t.me/FotrosResistance/5981  3/19/24  
     ***
+!!!warning 
+    >⚡️WATCH: Al-Qassam (Hamas) published a video showing its fighters confront IOF forces who are attacking the vicinity of Al-Shifa Medical Complex in Gaza City.
+    >https://twitter.com/AryJeay/status/1770474845014311074  3/20/24  
+    >https://files.catbox.moe/d3uo8n.mp4  3/20/24
+    ***
+    >Settlers are protesting in front of the israeli Ministry of Health for re-granting a work permit to a Zionist gynecologist who sexually harassed his patient which got his medical license revoked.
+    >https://t.me/FotrosResistance/5984  3/20/24
+    >https://files.catbox.moe/aatxpy.mp4  3/20/24  
+    ***
+    >Young volunteers launch the initiative "Sons of Al-Nusseirat" to provide meals to residents of central Gaza amid the Israeli policy of siege, starvation, and the continued aggression on the Gaza Strip.
+    >https://t.me/QudsNen/99190  3/20/24  
+    ***
+    >Anti-Netanyahu protesters try to storm the Knesset building in occupied Jerusalem.
+    >https://t.me/QudsNen/99189  3/20/24  
+    >https://files.catbox.moe/cr3bbf.mp4  3/20/24  
+    ***
+    >Media coverage | According to Reuters report quoting various sources, a deal has been reached between U.S. congressional leaders and the White House regarding a significant bill funding military, State Department, and various other government programs.
+    ***
+    >This agreement extends the ban on U.S. funding for UNRWA, the primary U.N. agency for Palestinians, until March 2025.
+    >https://t.me/QudsNen/99147  3/20/24  
+    ***
+    >Urgent | Forces of the martyr Omar Al-Qasim: We fired an RPG shell at an occupation army vehicle in the vicinity of Al-Shifa Hospital, west of #Gaza City.
+    >https://t.me/me_observer_TG/172733  3/20/24  
+    ***
+    >Urgent | Netanyahu: I want you to know that I have already approved the operational plan of the #Israeli army, and we will soon also approve the plan for the evacuation of the civilian population from combat zones - President Biden, whose support I appreciate, has sought to present to us his people’s proposals on humanitarian and other issues - and as I said There were times when we agreed with our friends, and there were times when we disagreed with them. In the end, we always did what was necessary for our safety, and we will do that this time; According to him.
+    >https://t.me/me_observer_TG/172728  3/20/24  
+    ***
+    >Occupied Palestine: Al-Aqsa Martyrs Brigades announces the bombing of a position of occupation soldiers and their military vehicles in the Al-Qarara area in Khan Yunis
+    >https://t.me/me_observer_TG/172721  3/20/24  
+    ***
+    >BREAKING: 
+    >
+    >After the Irish Prime Minister 🇮🇪 told Biden to his face that he would always support Palestine, he announced his resignation as Prime Minister of Ireland.
+    >https://t.me/megatron_ron/2358  3/20/24
+    ***
+    >⚡️WATCH: Al-Qassam (Hamas) published a video showing its forces target an IOF troop carrier (APC) in the Al-Zahra city, northwest of the Central Governorate.
+    >https://twitter.com/AryJeay/status/1770509442280308824  3/20/24  
+    >https://files.catbox.moe/cjczkw.mp4  3/20/24  
+    ***
+    >BREAKING: 
+    >
+    >Yemeni Army might at one point start targeting Cyprus 🇾🇪🇨🇾 commercial Ships in the Red Sea.
+    >
+    >As Cyprus government allows British Military bases on the island to be used by UK to launch Airstrikes on Yemen.
+    >https://t.me/megatron_ron/2367  3/20/24  
+    >https://files.catbox.moe/nfpr9n.mp4  3/20/24
+    ***
+    >Palestinian Authority (PA) security forces open fire on mourners taking part in the funeral procession of three Palestinians killed in an Israeli airstrike earlier today in Jenin.
+    >https://t.me/QudsNen/99209  3/20/24  
+    >https://files.catbox.moe/44g5jr.mp4  3/20/24  
+    ***
+    >New York: Al-Mayadeen correspondent: The United States submits an amended draft resolution to the Security Council requesting an immediate ceasefire in #Gaza
+    >https://t.me/me_observer_TG/173050  3/20/24  
+    ***
+    >New York: Al-Mayadeen correspondent: The draft resolution includes an emphasis on the necessity of an immediate and sustainable ceasefire to “protect civilians from all parties.”
+    >https://t.me/me_observer_TG/173051  3/20/24   
+    ***

@@ -8,7 +8,7 @@
 #######This filter only affects the /trash/ board.
 #######Remember to hide and ignore.
 #######Would be preferable if comments/suggestions/critiques on the filter to **only** be posted only if the thread is at bump-limit and at page 8 or more. If I fail to respond, please ask again in the next thread when it reaches bump-limit too.
-#######Last word filter update: */hmofa/ thread #2854* | Last image filter update: */hmofa/ thread #2917*
+#######Last word filter update: */hmofa/ thread #2934* | Last image filter update: */hmofa/ thread #2917*
 
 
 /fifth force/i;boards:trash;op:no;file:no
@@ -180,6 +180,7 @@
 /fucks furbois/i;boards:trash;op:no
 /(?=.\*(why you))(?=.\*(never post my art))/ims;boards:trash;op:no
 /(?=.\*artists)(?=.\*not your friend)/ims;boards:trash;op:no
+/(?=.\*socks)(?=.\*discord)/ims;boards:trash;op:no
 /skitzy/i;boards:trash;op:no
 /((?:>>\d(?:(?!\>>\d)[^])\*){6})(?=.\*^\\>$)/is;boards:trash;op:no;file:yes
 /she fucks shotas/i;boards:trash;op:no

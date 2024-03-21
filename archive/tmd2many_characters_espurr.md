@@ -27,7 +27,7 @@
 **%#dcc6c2%Species:%%** %#ff82b6%E%%%#d77bba%s%%%#76428a%pu%%%#4d2f63%rr%% | **%#dcc6c2%Affiliation:%%** Team Stardust | **%#dcc6c2%Favorite Color:%%** %#fff667%Yellow%%
 **%#dcc6c2%Level:%%** 13 | **%#dcc6c2%Experience to Next Level:%%** 113/130 | **%#dcc6c2%Alignment:%%** True Neutral
 **%#dcc6c2%Worn Item:%%** *N/A* | **%#dcc6c2%Clothing:%%** *Leaf Bag* | **%#dcc6c2%Age:%%** Unknown
-**%#dcc6c2%Pokécoin:%%** 774₽ | **%#dcc6c2%Glorious Gold:%%** 0 Bars | **%#dcc6c2%Gender:%%** Unknown
+**%#dcc6c2%Pokécoin:%%** 834₽ | **%#dcc6c2%Glorious Gold:%%** 0 Bars | **%#dcc6c2%Gender:%%** Unknown
 
 ***
 
@@ -37,8 +37,8 @@ Own Tempo | Espurr is immune to Intimidate and being Confused. Their mind works 
 
 ***
 
-->Rookie Rank<-
-->*495/400 points to Normal Rank*<-
+->Normal Rank<-
+->*95/400 points to Normal Rank*<-
 ->![Peculiar.](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 ***
@@ -114,11 +114,11 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
 *Worn Item: Empty* | Empty
-*Equipped Item: Empty* | Empty
+*Equipped Item: Oran Berry | Heals the user for 10HP.
 1. Chargestone Dust | Grains of a shattered Chargestone which sparkle faintly even in shadow. 
-2. Sitrus Leaf | Heals the user for 5 HP. Can stack to 3.
-3. Empty | None
-4. Empty | None
+2. Oran Berry | Heals the user for 10HP.
+3. Blast Seed | Explodes on contact for 10 true damage.
+4. Blast Seed | Explodes on contact for 10 true damage.
 
 ***
 
@@ -126,8 +126,8 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 *Extra inventory slots separate from Espurr's normal inventory.*
 %#dcc6c2%Item Name%% | %#dcc6c2%Description%%
 ------ | :----: 
-1. Colbur Berry | None
-2. Empty | None
+1. Sour Slaw | The User's Defense is increased by 1.
+2. Tiny Reviver Seed
 
 ***
 
@@ -136,6 +136,7 @@ Currently Training for Stat: *N/A* | **0** | 0/9 | ▯▯▯▯▯▯▯▯▯
 ------ | ------ | :----: 
 Accessory | %#99e550%L%%%#7ab049%e%%%#37663a%a%%%#264c37%f%% %#99e550%B%%%#7ab049%a%%%#37663a%g%% | A satchel woven with grass tufts and reeds, covered in leaves to protect the Items kept inside.
 Accessory | %#99e550%L%%%#7ab049%e%%%#37663a%a%%%#264c37%f%% %#99e550%Po%%%#7ab049%u%%%#37663a%c%%%#264c37%h%% | A small pouch weaved with grass tufts and leaves, made to contain small objects and grains.
+Accessory | Normal-Rank Badge | An official adventurer's badge.
 Tool | Crystal Blade | A small, sharp shard of crystal fashioned into a blade with a leafy grip, glued with tree sap. An ineffective weapon, but an effective tool.
 Material | Rope | Three feet of rope, thick enough to be a useful material.
 Material | Bamboo Shoot | A piece of bamboo torn from the ground.

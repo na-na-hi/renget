@@ -43,7 +43,7 @@ Date of Event | Time Elapsed | Quest or Event | Short Description
 11/23/550 | 3 days | #09 Old Stories | You gaze into the past, finding a glimpse of an old tale.
 12/2/550 | 2 weeks | #EV05 To Bar None | While it may be destroyed, the spirit still persists! Let's fix up the Chateau!
 12/2/550 | >>> | #EV06 Missing the Mark | It's the perfect time for some snooping. How is it ink is thicker than blood?
-12/17/550 | 2 days | #10 The Shoot Stretches | 
+12/17/550 | 2 days | #10 The Shoot Stretches | Treading carefully in a priceless bamboo forest for a fallen piece of starlight.
 
 ## Narrative Summarization
 !!! (8/22/23 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #01 No Stranger to Disaster - Date ▮▮▮
@@ -119,9 +119,10 @@ Pushing aside the crumbling debris and minding the smoke, Katherine, Dustin, Cre
 As the red sun settles into the late noon, the fires simmer and the skeleton of the Subsumed Château is left standing, charred, but triumphant. Everyone gets to live.
 
 !!! (1/20/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #09 Old Stories - Date: Sol 23, 2nd Moon of Tornadus, 550 Full Seasons
-Recovering from the ordeal of the Twilight Syndrome attack, the Guild League shows up to take a first-hand account of the situation.
+Recovering from the ordeal of the Twilight Syndrome attack, the Guild League shows up to take a first-hand account of the situation. Sneasel appears to take advantage of the situation, seemingly for her own benefits. Greasing the wheels with nothing more than vague promises, she sends your group off on an errand to investigate an old ruin. After some light travel, you all stumble upon the cave containing the preserved structures. With as much care as a tornado in a shop, the place is raided for anything useful. And so you return triumphantly with the artifacts in tow, Sneasel departs pleased.
 
 !!! note (1/23/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV05 To Bar None - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons
+It begins... the re-construction of the devastated inn, building it up to be better than ever before! Except, well, on the exterior it's still going to be the exact same Subsumed Château, honoring the idea that no matter the carnage, it will always return. Together, your group sets out to gather and assess the materials, either new or reclaimed from the fires. Days and nights planning on how to handle this, assisted by the grateful villagers of Baram Town... it's all coming together smoothly. Soon, you'll have a proper place to rest your heads again.
 
 !!! note (2/4/24 ᴇᴀʀᴛʜ ᴛɪᴍᴇ) - #EV06 Missing the Mark - Date: Sol 2, 3rd Moon of Tornadus, 550 Full Seasons
 Ishmael is putting together a team. You've found a way to infiltrate the mysterious Bright Bandit base. Expecting something rugged and raggedy, you're instead met with a crude paradise for the delinquents and problem children of the Air Continent. Happening across interesting characters the likes of a naive Torchic and artistic Chespin, the three of you—Ishmael, and a disguised Spike and Brook—wander the ravine at your leisure, but the pretty sights and (mostly) kind Pokémon made most of you a little too comfortable. So you take a risk, heading to where you believe the main operation to be, and get a thorough reminder that you're out of your element. Freedom, creativity, chaos, all come together to create one big, annoying picture painted in neon. Come back soon...

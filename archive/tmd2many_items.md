@@ -130,18 +130,18 @@ Wonder Gummi | Gives +100 IQ points to any type upon consumption. Alternatively,
 Rainbow Gummi | Gives a permanent +1 IP to your maximum value. Can be used twice for a total of +2 IP to the maximum value. | 4,000₽
 Grimy Food | Upon consumption, gives the user an equal 25% chance to be hit with either *Paralysis* (Rolls 1-5), *Confusion* (Rolls 6-10), *Burn* (Rolls 11-15), or *Poison* (16-20). Poison-Types might enjoy this. | 5₽
 Star Fuel | If the user's ability is reliant on active weather or terrain, activates it regardless of conditions. | 1,000₽
-Cheri Berry | Returns control. Heals *Paralysis.* | 25₽
-Chesto Berry | Breaks *Sleep* and prevents any further *Sleep* attempts. | 25₽
-Pecha Berry | Cures the user. Heals *Poison.* | 25₽
-Rawst Berry | Soothes the user. Heals *Burn.* | 25₽
-Aspear Berry | Thaws the user. Heals Freeze. | 25₽
-Persim Berry | Gives clarity of mind. Heals *Confusion.* | 25₽
-Enigma Berry | Incoming Super-Effective damage is decreased by -15. Must be consumed before taking damage or Held at time of attack. | 600₽
+Cheri Berry | Returns control. Heals *Paralysis.* Blooms with a pretty, delicate flower, and has a provocative spicy taste. (1 Spicy) | 25₽
+Chesto Berry | Breaks *Sleep* and prevents any further *Sleep* attempts. Has a thick skin and tough, dry fruit. (1 Dry) | 25₽
+Pecha Berry | Cures the user. Heals *Poison.* A tender berry with a hollow pocket inside, though it is very sweet. (1 Sweet) | 25₽
+Rawst Berry | Soothes the user. Heals *Burn.* If its' leaves grow long and curly, it means the Berry will be very bitter. (1 Bitter) | 25₽
+Aspear Berry | Thaws the user. Heals Freeze. This berry is dense with a rich juice, characterized by bracing sourness. (1 Sour) | 25₽
+Persim Berry | Gives clarity of mind. Heals *Confusion.* (1 Sweet, 1 Sour, 1 Dry) | 25₽
+Enigma Berry | Incoming Super-Effective damage is decreased by -15. Must be consumed before taking damage or Held at time of attack. An enigmatic berry you won't know the flavor of until you try it. (3 Random (1d5)) | 600₽
 Oran Leaf | Heals the user for 3HP. Can stack to 3. | 20₽
 Sitrus Leaf | Heals the user for 5HP. Can stack to 3. | 80₽
-Oran Berry | Heals the user for 10HP. | 50₽
-Sitrus Berry | Heals the user for 20HP. | 150₽
-Razz Berry | Heals the user for 50HP. | 650₽
+Oran Berry | Heals the user for 10HP. Has a wondrous mix of flavors. (1 Random (1d5)) | 50₽
+Sitrus Berry | Heals the user for 20HP. A larger, smoother relative of the Oran Berry. (2 Random (1d5)) | 150₽
+Razz Berry | Heals the user for 50HP. The granules are dry with a lingering spiciness. (1 Dry, 1 Spicy) | 650₽
 Vitality Seed | Heals the user for 100HP. | 1000₽
 Reviver Seed | Revives fainted Pokémon to full HP. Becomes a Plain Seed upon consumption. | 600₽
 Tiny Reviver Seed | Revives fainted Pokémon to half HP. | 250₽
@@ -369,15 +369,15 @@ Magost Berry | Sweet and a hint of bitter aftertaste. (2 Sweet, 1 Bitter) | 25�
 Rabuta Berry | A strong bitter flavor, with a small sour tang. Eaten whole, it is said to help with digestion and quell upset stomachs. (2 Bitter, 1 Sour) | 25₽
 Nomel Berry | A very strong sour flavor, particularly intensely concentrated at the pointed ends. (1 Spicy, 2 Sour) | 25₽
 Pamtre Berry | A soft, faintly sweet flavor. Is a good source of natural oils. (3 Dry, 1 Sweet) | 25₽
-Watmel Berry | A very large, watery berry with an exceedingly sweet flavour. (3 Sweet, 1 Bitter) | 25₽
+Watmel Berry | A very large, watery berry with an exceedingly sweet flavor. (3 Sweet, 1 Bitter) | 25₽
 Durin Berry | A highly bitter, widely disliked berry that is often used as a hiccup remedy. (3 Bitter, 1 Sour) | 25₽
 Belue Berry | A berry with an enticing aroma and juicy flesh that is extremely sour. (3 Sour, 1 Spicy) | 25₽
 Occa Berry | Very spicy with hard flesh, but becomes sweet if cooked. Used in dishes with strong flavors. (1 Spicy, 1 Sweet) | 25₽
 Passho Berry | Dotted with bubbles, this dry berry will float if placed in water. Easily breaks down and melds with liquids if cooked. (1 Dry, 1 Bitter) | 25₽
 Wacan Berry | Draws energy from lightning strikes to produce a large, rich sweet-and-sour berry. Popular in jams and sweets. (1 Sweet, 1 Sour) | 25₽
 Rindo Berry | A bitter flavor and slightly spicy. Popular as a health food in vegetable-heavy dishes. (1 Bitter, 1 Spicy) | 25₽
-Yache Berry | A dry, slightly sour berry. Flavour is enhanced if chilled, and is said to cool down the body. (1 Dry, 1 Sour) | 25₽
-Chople Berry | A spicy, bitter flavour, said to heat up the body. (1 Spicy, 1 Bitter) | 25₽
+Yache Berry | A dry, slightly sour berry. Flavor is enhanced if chilled, and is said to cool down the body. (1 Dry, 1 Sour) | 25₽
+Chople Berry | A spicy, bitter flavor, said to heat up the body. (1 Spicy, 1 Bitter) | 25₽
 Kebia Berry | A very sour green berry with a dry, mild black core. (1 Dry, 1 Sour) | 25₽
 Shuca Berry | A sweet flavor with a spicy kick. (1 Spicy, 1 Sweet) | 25₽
 Coba Berry | A bitter berry with a hard exterior. Noted to cause blue stains. (1 Dry, 1 Bitter) | 25₽
@@ -412,6 +412,7 @@ Kenchic Berry | A fainter, savory flavor of berry, with sinewy fibers. Darkens w
 	Be sure that the Primary Ingredient has the strongest flavor or else the outcome might be unexpected. Make sure the flavors add up to meet the item's requirements.
 	For example: Spicy 2 + Sour 3 combination will result in a Sour Slaw.
 	In order to achieve mixed food combinations, the flavors must equal each other in intensity.
+	Random flavors are rolled with a 1d5, based on result: 1. Spicy 2. Dry 3. Sweet 4. Bitter 5. Sour 
 Name | Description | Effects | Requirements: (Primary Item + Secondary Item)
 ------ | ------ | ------ | ------ 
 Spiced Soup | Spicy and aromatic purée that will wake you up, for sure. | Increases Attack by 1 stage. | Spicy 2
@@ -762,12 +763,14 @@ TM286 | Upper Hand | 1,750₽
 
 **Changelog**
 
+- v.2.02: Use of the word 'flavour' replaced with 'flavor' for better consistency with the ruleset's use of American English, visual fixes, Oran and Sitrus berry flavors no longer erroneously applied to Oran and Sitrus leaves.
+- v.2.01: Added flavors to Oran, Sitrus, Razz, Enigma, Cheri, Chesto, Pecha, Rawst, Aspear, and Persim berries. Introduced random flavors rolled via 1d5, categorized in the Prepared and Cooked Foods section
 - v.2.00: Added TM prices!! and also renamed the TM wands
 - v.1.84: Added TM for Flamethrower
 - v1.83: Added the IP stuff 
 - v1.82: Added unique held items
-- v1.81: Spelon Berry now has a flavour rating, as well as a unique flavor value of 4 to reflect its status as a barter and evolutionary item
-- v1.80: Berry flavours, swapped the stats of Bread and Plain Porridge with Sour Slaw and Tart Toffee
+- v1.81: Spelon Berry now has a flavor rating, as well as a unique flavor value of 4 to reflect its status as a barter and evolutionary item
+- v1.80: Berry flavors, swapped the stats of Bread and Plain Porridge with Sour Slaw and Tart Toffee
 - v1.70: Added food recipes
 - v1.60: Added default prices to all items
 - v1.52: Added some more stuff and fixed some wording

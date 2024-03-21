@@ -16,9 +16,9 @@ Pokémon's Ability | Description
 ---- | ----
 Regenerator | When the User Takes a Break, they heal 3 HP. They are also healed at the end of a battle.
 
-->Rookie Rank<-
-->*495/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->Normal Rank<-
+->*95/1200 points to Bronze Rank*<-
+->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
@@ -84,9 +84,9 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
 1. Clear Gummi
-2. Persim Berry | Heals Confusion.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
 3. Green Gummi | 
-4. Eᴍᴘᴛʏ | Vacant inventory slot.
+4. Oran Berry | Heals 10 HP.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.

@@ -5,4 +5,4 @@ This is the public version of the [Draw Request](https://rentry.org/CloverDrawRe
 
 [TOC]
 
-1. (Write here)
+1. That one MGS4 scene where Ocelot kisses Snake but with Solid and Liquid Linoone instead.

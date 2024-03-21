@@ -83,7 +83,7 @@
 **Brush Penmodoki (筆ペンモドキ)**|[1709699](https://assets.clip-studio.com/en-us/detail?id=1709699)|[DL](https://pixeldrain.com/u/UGRUJU52)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/96/1709699/thumbnail)
 **반무테 러프 채색 공용펜**|[2062275](https://assets.clip-studio.com/en-us/detail?id=2062275)|[DL](https://pixeldrain.com/u/28rFAH3n)|![](https://pbs.twimg.com/media/GFTcc-HbwAAoSAL)
 **髪ベタペン 改**|[2029672](https://assets.clip-studio.com/en-us/detail?id=2029672)|[DL](https://files.catbox.moe/x1q0rp.rar)|![](https://i.4cdn.org/ic/1708351057053223.png)
-****|[]()|[DL]()|![]()
+****|[2008806](https://assets.clip-studio.com/en-us/detail?id=2029672)|[DL](https://files.catbox.moe/6dlb49.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/06/88/2008806/thumbnail)
 ****|[]()|[DL]()|![]()
 ****|[]()|[DL]()|![]()
 -> [**[TOP]**]() ->

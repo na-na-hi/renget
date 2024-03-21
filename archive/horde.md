@@ -69,7 +69,8 @@ mrhokkaido, mshokkaido, mxhokkaido
 researchanddevelopment, liquidmotivation, ~~piecesofus, egstrom~~
 wet-wilds, marshlight, dread-tides
 sea-of-lights 
-pkobjectified <-
+pkobjectified
+pushpins <-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
@@ -106,7 +107,7 @@ cyprinidae, commoncarp<-
 
 -> ![egg slime with grubs hitting a window that is cracked and tinted green.](https://64.media.tumblr.com/ab83aa0084c61f7e3019326682076808/8b9b0663a8e6b00d-c9/s1280x1920/e120431b462e843886e70b90749734d64e42415e.pnj) <-
 
--> ***grrlsrituals***
+-> ***grrlsrituals, devisparklez***
 ***tockylippy***
 elvispresleyaoi
 mysupersweetsixteen 
@@ -115,4 +116,5 @@ heylookits1111, heylookbitch1111
 meatoffthebone, meatoffourbones
 whenthedovescry, poopin
 mrmcgrottom
-zebatinsky<-
+zebatinsky
+justadyingfad <-

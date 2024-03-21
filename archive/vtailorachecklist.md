@@ -678,32 +678,6 @@ Athelia Hiroyuki | - | - | -
 Virion Kisei | - | - | -
 HORI 07 | - | - | -
 
-## -> Amber Glow <-
-!!! info Available Loras without the need of updates and have been tested.
-	Xiulan Long
-
-Chuuba | Has Lora | Update Needed | Testing
------- | ------ | ------ | ------
-Chelsea Whitmore | - | - | -
-Mumu Guru | - | - | -
-Valkyia Starfyre | - | - | -
-Pura Kiyomizu | - | - | -
-Misaki Nobunaga | - | - | -
-Malcom Bell | - | - | -
-Shura | - | - | -
-Terumi Koizumi | - | - | -
-Ash Ekrixi | - | - | -
-Nunki | - | - | -
-Abigail Marina | - | - | -
-Vallini Laudo | - | - | -
-Danica Allune | - | - | -
-Himeko Kumi | - | - | -
-Pudizu | - | - | -
-RabbitSenseiVT | - | - | -
-Soleil La Kaye | - | - | -
-Astarte Claret | - | - | -
-Carnelia Asahi | - | - | -
-
 ## -> NoriPRO <-
 !!! info Available Loras without the need of updates and have been tested.
 	Inuyama Tamaki
@@ -1541,3 +1515,29 @@ Teyra Fenthera | - | - | - | Might be Impossible
 Vix E. Grey | - | - | - | Might be Impossible
 Chiyorii Kogara | - | - | - | Might be Impossible
 Hoshikuzu Orion | - | - | - | Might be Impossible
+
+## -> Amber Glow (Defunct) <-
+!!! info Available Loras without the need of updates and have been tested.
+	Xiulan Long
+
+Chuuba | Has Lora | Update Needed | Testing
+------ | ------ | ------ | ------
+Chelsea Whitmore | - | - | -
+Mumu Guru | - | - | -
+Valkyia Starfyre | - | - | -
+Pura Kiyomizu | - | - | -
+Misaki Nobunaga | - | - | -
+Malcom Bell | - | - | -
+Shura | - | - | -
+Terumi Koizumi | - | - | -
+Ash Ekrixi | - | - | -
+Nunki | - | - | -
+Abigail Marina | - | - | -
+Vallini Laudo | - | - | -
+Danica Allune | - | - | -
+Himeko Kumi | - | - | -
+Pudizu | - | - | -
+RabbitSenseiVT | - | - | -
+Soleil La Kaye | - | - | -
+Astarte Claret | - | - | -
+Carnelia Asahi | - | - | -

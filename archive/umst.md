@@ -1117,7 +1117,27 @@ Abema Multi Angle: https://nyaa.si/view/1529863
 ######4th Event "Special Dreamers!!" Extra Stage
 Date: 5-6 November 2022
 Venue: Seibu Belluna Dome, Saitama
-Abema rip: https://nyaa.si/view/1602622
+Abema: https://nyaa.si/view/1602622
+
+#####5th Event Arena Tour "Go Beyond" 
+######Wish
+Date: 15-16 July 2023
+Venue: Pia Arena MM, Yokohama
+Abema Multi Angle: https://nyaa.si/view/1696076
+
+######Gaze
+Date: 16-17 September 2023
+Venue: Port Messe, Nagoya
+Abema Main Angle: https://nyaa.si/view/1718458
+
+######Yell
+Date: 3-4 February 2024
+Venue: Ariake Arena, Tokyo
+1080p Rip: https://nyaa.si/view/1774768
+
+######New Gate
+Date: 22-23 March 2024
+Venue: Osaka-jō Hall, Osaka
 
 ##Misc
 

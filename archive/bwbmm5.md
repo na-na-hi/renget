@@ -167,6 +167,7 @@
 /fucks furbois/i;boards:trash;op:no
 /(?=.*(why you))(?=.*(never post my art))/ims;boards:trash;op:no
 /(?=.*artists)(?=.*not your friend)/ims;boards:trash;op:no
+/(?=.*socks)(?=.*discord)/ims;boards:trash;op:no
 /skitzy/i;boards:trash;op:no
 /((?:>>\d(?:(?!>>\d)[^])*){4})(?=.*^\>$)/is;boards:trash;op:no;file:yes
 /she fucks shotas/i;boards:trash;op:no

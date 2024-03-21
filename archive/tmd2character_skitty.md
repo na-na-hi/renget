@@ -9,7 +9,7 @@ A determined-looking Skitty, with no name to speak of, apparently. For now.
 **Origin:** Ex-Human (Fragmented) |  **Guild Role/Occupation:** ?
 **Species:** Skitty | **Affiliation:** Team Stardust
 **Level:** 12 | **Experience to Next Level:** 55/120
-**Worn Item:** *Sparkly Scarf* | **Clothing:** *N/A*
+**Worn Item:** *N/A* | **Clothing:** *N/A*
 **Pokécoin:** 695₽ (520 owed to Matchia) | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
@@ -79,7 +79,7 @@ Item Name | Description
 ------ | :----: 
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: N/A* | Vacant hand slot.
-1. Sitrus Berry | Heals the user for 20HP.
+1. Blast Seed | boomf
 2. Oran Leaf x2 | Heals the User for 3HP. Can stack to 3.
 3. Combat Manual | Boosts Training for Battle Attributes by 1 bar.
 4. Dye Bomb | Explodes in a splash of bright ink. >4; the Opponent's Accuracy is decreased by 1. Stacks up to 4. Can be thrown. Has a Berry's AP cost.

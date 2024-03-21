@@ -21,9 +21,9 @@ Pokémon's Ability | Description
 ---- | ----
 Magician | When using Attacking Moves, the User steals an Item from their Opponent.
 
-->Rookie Rank<-
-->*365/400 points to Normal Rank*<-
-->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
+->Normal Rank<-
+->*95/1200 points to Bronze Rank*<-
+->![Normal Rank](https://archives.bulbagarden.net/media/upload/f/fb/Normal_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+1) | Modifiers | Combat Effect
 ------ | :----: | :----: | :----: 
@@ -82,8 +82,8 @@ Item Name | Description
 *Worn/Held Item: N/A* | Vacant Worn/Held slot.
 *Equipped Item: Oran Berry* | Heals the user for 10HP.
 1. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy. Also liquid, contained in a cup.
-2. 1x Wooden Stick | Does 3 true damage to a target, is thrown directly.
-3. 1x Oran Leaf | Heals the user for 3HP. Can stack to 3.
+2. Tiny Reviver Seed | Revives fainted Pokémon to half HP.
+3. Blast Seed | Explodes on contact for 10 true damage.
 4. Red Gummi | Gives +10 IQ points to Fire-Types. Gives +5 to other types. This is spicy.
 
 **STORAGE (2 slots)**

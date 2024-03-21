@@ -36,7 +36,7 @@ https://rentry.org/b595h6dm
 >D
 >>92035734
 >Himari Miko
->>92038530 + Jutsus: https://rentry.org/HimariJutsu
+>>92227101 + Jutsus: https://rentry.org/HimariJutsu
 >Takeru Suzuki
 >>92037873
 
@@ -108,7 +108,7 @@ https://rentry.org/b595h6dm
 >Mojo Nakasendou
 >>92130059
 >Choko Yumiya
->>92132146
+>>92229037
 >Eiji
 >>92132327
 >Rook
@@ -149,6 +149,8 @@ Loners (Cont).
 >>92157552
 >Yōki
 >>92157657
+>Koroko Kokoroko
+>>92235539
 
 
 Tiermaker:
@@ -193,6 +195,8 @@ Tsugumi's Team 6 (Tsugumi, Ghidorah, Junki, Sen)
 >>92194804
 Team 7(Fujiwara, Kamare, Daiki)
 >>92194812
+>genjutsu inception
+>>92232592
 
 Relationship Charts:
 Masu
@@ -589,9 +593,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 >New Stuff:
 New Art:
 >impakt
->>92217298
->that smile
->>92218623
+>>92217693
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

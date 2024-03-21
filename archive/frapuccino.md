@@ -17,6 +17,7 @@ keeping artist cred is **required.**
 -> ritsu namine (utau) ― rentry.co/ritsu-temp <-
 -> kokichi (danganronpa) ― rentry.co/kokichi-temp <-
 -> haruka (milgram) ― rentry.co/haruka-temp <-
+-> yuno (milgram) ― rentry.co/yuno-temp <-
 -> fuuta (milgram) ― rentry.co/fuuta-temp <-
 -> amane (milgram) ― rentry.co/purgemarch-temp <-
 -> mizuki (project sekai) ― rentry.co/mizuki-temp <-
@@ -45,4 +46,5 @@ keeping artist cred is **required.**
 -> bridget (guilty gear) ― rentry.co/bridget-temp <-
 -> sal fisher (sally face)  ― rentry.co/sal-temp <-
 -> hatsune miku (vocaloid)  ― rentry.co/miku-temp <-
+-> rabbit hole (vocaloid)  ― rentry.co/rabbithole-temp <-
 -> professor layton  ― rentry.co/proflayton-temp <-

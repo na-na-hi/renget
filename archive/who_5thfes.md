@@ -12,6 +12,7 @@ _______________________________
 _______________________________
 
 ##Clips/Setlist
+Clip links are currently expired. Will update when the official VOD is ready
 |Song|Performing Members| Clip/Timestamp|
 |----------|----------|----|
 |キラメキライダー☆ / Kirameki Rider| Stage 3 full cast| [![](https://files.catbox.moe/6rhp6c.jpg)](https://www.youtube.com/watch?v=CVYbI-1IJnM&t=3768)|
