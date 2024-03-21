@@ -205,9 +205,9 @@ What couldn't be stemmed were the echoes of isolation, failure and fear that had
 
 %purple% "I do not know the details, only that Natsuo asked for you directly. We will take you to him now." %% He wasn't lying, that much she could tell.
 
-The rest of the walk was taken in silence. As they entered deeper into the complex, Kaiko couldn't help but count the number of prisoners through the walls of their cells. Seventeen, give-or-take, a surprisingly low number given what she had grown used to during the war. That there was anyone here at all was a lesser evil, but she was glad that there were comparatively so few. Their signatures - what she could tell of them through the seals anyhow - seemed to be in decent enough health as well, it seemed as if the Leaf Village wasn't starving or torturing anyone at the moment, another good sign.
+The rest of the walk was taken in silence. As they entered deeper into the complex, Kamiko couldn't help but count the number of prisoners through the walls of their cells. Seventeen, give-or-take, a surprisingly low number given what she had grown used to during the war. That there was anyone here at all was a lesser evil, but she was glad that there were comparatively so few. Their signatures - what she could tell of them through the seals anyhow - seemed to be in decent enough health as well, it seemed as if the Leaf Village wasn't starving or torturing anyone at the moment, another good sign.
 
-%red% "Kimoko." %% Natsuo's tired voice cut her away from her trance, bringing her back to her own body as her eyes glanced around the dimly lit room. It was an office of sorts, with various pieces of surveillance equipment, documentation, layers of scrolls containing the signatures of sealed jutsu and less welcoming tools. Towards the end a one-way mirror looked out into an even more drab room in which sat a young woman she didn't recognize. The steel door closed behind her with a feint metallic shriek as Natsuo nodded the Chūnin out of the room.
+%red% "Kamiko." %% Natsuo's tired voice cut her away from her trance, bringing her back to her own body as her eyes glanced around the dimly lit room. It was an office of sorts, with various pieces of surveillance equipment, documentation, layers of scrolls containing the signatures of sealed jutsu and less welcoming tools. Towards the end a one-way mirror looked out into an even more drab room in which sat a young woman she didn't recognize. The steel door closed behind her with a feint metallic shriek as Natsuo nodded the Chūnin out of the room.
 
 %green% "Natsuo. You're hurt," %% her assessment of his chakra was immediate as it was thorough. He was tired, low on sleep and a little hungry - that much was obvious - though there wasn't really much worry in his mind as usual. A small bit of pain was radiating from his left, below the ribcage, nothing to be worried about but it was unlike him to take a bad fall. Her prying ceased there, both out of courtesy for the Jonin's privacy and to avoid interacting with the other, more sinister energy he carried beneath his own. She didn't know what it was - she'd never dared to ask - but she and Saiken both had their suspicions.
 
@@ -307,4 +307,46 @@ Not wanting to make any provocations in case the worst of her theories were true
 
 %pink% "It's too complicated for most Genin or Chūnin to do anything more with it, but you're right. Some of the masters back home - shinobi or otherwise - use it to speed up their thinking or to do two things at once. I even hear some people before the war could split themselves half a dozen times. It's not handy for fighting, so most villages aren't interested in picking it up, but if you come from somewhere where 80% is the bottom grade on a written test..." %%
 
-%green% "So how does your partner help you? They seem..." %% somewhat calmed after realizing that the girl wasn't likely possessed, the Jonin adopts a more curious and friendly stance again, though her eyes still dance to try and unravel the tangled mess about the girl - whatever this is, it can't be healthy. %pink% "Intense." %%
+%green% "So how does your partner help you? They seem..." %% somewhat calmed after realizing that the girl wasn't likely possessed, the Jonin adopts a more curious and friendly stance again, though her eyes still dance to try and unravel the tangled mess about the girl - whatever this is, it can't be healthy. %green% "Intense." %%
+
+%pink% "They're there to keep a hold of my less savoury thoughts." %%
+
+An eyebrow raised, the Jonin leans forward, starting to piece things together.
+
+%pink% "I've been having a bad time, I don't want to talk about that, but, well," %% a nervous delay painted Sen's discomfort to her 'interrogator,' though this time without any false bravado or humour, %pink% "I don't like where my head is going sometimes. So I started offloading some of that onto a debate partner of sorts. To resolve at a later time when I had the strength to face down something I was less proud of. The problem is..." %%
+
+A few seconds pass, the tension climbs and falls as the young girl's façade begins to melt away into shame, worry and more than a little self-loathing.
+
+%pink% "I never got the time to resolve those thoughts, and they just kept coming, so I kept handing them over to her. The more thoughts I discarded, the more I gave to her, the further we became *different*. I... Can't forget, ever, I could tell you what I ate every day of my life, I could recite to you any conversation I've ever had or what questions were on every test - it's one of my 'special talents,' so everything I give to her she keeps, for good." %%
+
+Eidetic memory, a relatively common gift in Shimogakure, maybe one in a thousand people had it. She was building a picture of what was happening now, but needed to be sure. %green% "Forgive me for asking, but you seem to know a great deal about this condition, what's stopping you from dropping the technique? I can see it's taking a rather consistent and sizeable amount of mental energy to keep it up." %%
+
+%pink% "At first I was worried that it'd hurt me - crashing too many thoughts together at once - nobody is really supposed to keep it up for this long. Days, maybe weeks at most. It's efficient enough that once you get good at it, you don't really need to concentrate on it, just supply the energy, but still." %%
+
+%green% "And how long have you had this partner?" %%
+
+%pink% "Sixteen months." %%
+
+%green% "I see..." %%
+
+%pink% "Eventually I decided to get rid of her, release the technique. But I couldn't." %%
+
+%green% "You couldn't?" %%
+
+%pink% "She won't let me." %%
+
+Kamiko's heart dropped in her chest like a stone. As a doctor and a sensor, she'd had to be therapist for plenty of war veterans. Some of them came back crooked, others broken, most of the time they didn't even realize how bad it was. It didn't matter how many times she'd done it, watching someone tearing themselves apart never got any easier. In an instant, she'd grown worried for this girl's safety to distraught at her condition. It took her a little strength to prevent water from clouding her eyes as she finished the puzzle. A hoarse cough, followed by a slow recovery.
+
+%green% "I'm sorry." %%
+
+%pink% "I know." %%
+
+---
+
+Over the course of another hour, the subject gradually turned away from The Watcher - that's what Sen called her, or rather, what it called itself. She was still in deep trouble, and the least the Jonin could do was help her out of it. Now that she understood the Genin's condition, he should pierce through the unrecognizable haze of chakra enough to get a reasonably accurate reading and confirm she wasn't being lied to. She was, of course - Sen had been lying to her from the start, in little bits and pieces to protect herself, but more omission than deception - it wasn't enough to disprove her confessions.
+
+It appeared that Sen was a member of Team Tsugumi, another foreign team joining the Chūnin Exams this year. Sen was collecting information on the other Genin to better give her own team a chance in the competitions involved, as well as satiating her own curiosity. This, in itself, was not illegal or foul play - it was even encouraged - to spy on other shinobi was a fundamental part of the career they were pursuing and it was unfortunately common practice for the Genin to commit espionage and subterfuge on one another long before even the first stage - only combat was forbidden.
+
+However, her actions were not beyond reproach, and she had violated much security that the Hidden Leaf would consider beyond the bounds of acceptable examination practice. It took a while but, with Kamiko's help, Natsuo made sure that Sen hadn't taken any single truly compromising piece of information. With that, the Genin was given an ultimatum - any further attempts at breaking Hidden Leaf protocols would result not only in her actual trial as a spy, but in the exclusion of her team mates from the exams, she would also be watched more closely during her stay in Konoha. Deeply thankful for the opportunity, Sen would accept and would be allowed back into the village proper.
+
+Intending to give the kid a chance, Natsuo would keep the evidence of the investigation under wraps and remain quiet enough on the scene to prevent a panic or raised tensions. The Jonin and, by extension, the Anbu would know, as well as the Hokage - but such a small incident was one of hundreds unlikely to warrant any attention. Still, Konoha is a city of ninja, it would be impossible to prevent at least some rumors slipping.

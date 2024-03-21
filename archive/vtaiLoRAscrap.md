@@ -62,7 +62,7 @@
 **MerchiVT (Indie)** - https://civitai.com/models/342951/merchivt
 **NeneEfthy (Indie)** - https://civitai.com/models/342954/neneefthy-vtuber
 **Yuun Kurosu (Indie)** - https://civitai.com/models/342955/yuunkurosu
-**Minai Aruma (GuildCQ)** - https://civitai.com/models/342521/minai-aruma-or-guildcq-vtuber
+LYCORIS **Minai Aruma (GuildCQ)** - https://civitai.com/models/342521/minai-aruma-or-guildcq-vtuber
 **Yu Twelve (Indie)** - https://civitai.com/models/342123/ivtuber
 **Mythia Batford (Indie)** - https://civitai.com/models/345676/batford
 **Osawa Rurino (Hasunosora/LoveLive)** - https://civitai.com/models/126432/osawa-rurino-link-like-love-live
@@ -94,7 +94,7 @@ LYCORIS **Projekt Melody (VShojo)** - https://civitai.com/models/277327/projekt-
 **KarmaVT (OWOzu)** - https://civitai.com/models/322576/karmavt-nsfwsfw
 **RakkunVT (OWOzu)** - https://civitai.com/models/328428/rakkunvt
 **Tenma Maemi (Phase Connect)** - https://civitai.com/models/107434/tenma-maemi
-LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947/koseki-bijou-hololive
+LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947?modelVersionId=368618
 **Nyatasha Nyanners (VShojo)** - https://civitai.com/models/333212/nyanners-vtuber
 **Amalee (Indie)** - https://civitai.com/models/338229/amalee
 **Reiny (Indie)** - https://files.catbox.moe/741x5d.safetensors [CatboxTagInfo](https://warosu.org/vt/thread/S70975134#p71040638)

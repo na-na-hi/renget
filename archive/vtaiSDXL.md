@@ -170,6 +170,10 @@
 	eimi isami, short hair, hair ornament, orange bow, navel, animal ears, pleated skirt, hairclip, midriff, black skirt, shorts sleeves, shirt, loose socks, bandaid on knee, lab coat, id card
 -> [Catbox](https://files.catbox.moe/1znwn0.safetensors) <-
 
+##### -> (OriginS) Hakushika Iori <-
+!!! info I'm not 100% if this is animagine or pony, anon didnt specify but it was towards a post about animagine.. will fix if wrong!
+-> [Catbox](https://files.catbox.moe/7bcr00.safetensors) <-
+
 ##### -> (Euphoria) Hikanari Hina <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
@@ -228,6 +232,12 @@
 	runieruse, long hair, jewelry, earrings, dress, purple eyes, black dress, pink hair, cleavage, bare shoulders, tiara, hair between eyes, black gloves
 -> [Catbox](https://files.catbox.moe/louey7.safetensors) <-
 
+##### -> (OriginS) Shisui Michiru <-
+!!! note Tags suggested by uploader, not me
+!!! info Example Prompt
+	shisuimichiru, blue eyes, multicolored hair, blue hair, pink hair, purple jacket, cleavage, white dress, witch hat, torn pantyhose, black boots
+-> [Catbox](https://files.catbox.moe/ow4nbo.safetensors) <-
+
 ##### -> (OriginS) Utatane Nasa <-
 !!! note Tags suggested by uploader, not me
 !!! note Recommended weight: 1 (according to CCC)
@@ -281,6 +291,16 @@
 !!! info Example Prompt
 	[Check LoRA's tags - Untested CCC's version so i don't know the best tags]
 -> [Catbox](https://files.catbox.moe/1mu9bg.safetensors) <-
+
+#### -> 774 inc <-
+-> ![Nanashiinku](https://files.catbox.moe/cqfbty.png) <-
+***
+##### -> (AniMare) Tsukinoki Tirol <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	tirol, long hair, blonde hair, thighhighs, gloves, long sleeves, animal ears, green eyes, multicolored hair, boots, parted lips, green hair, black gloves, thigh strap, brown capelet, wavy hair, pale skin, bloomers, antlers, deer ears
+-> [Catbox](https://files.catbox.moe/sa62wz.safetensors) <-
 
 #### -> V&U <-
 -> ![V&U](https://files.catbox.moe/fegddt.png) <-
@@ -418,11 +438,34 @@
 	(lottie, long hair, pink hair, axolotl girl, hair ornament, pink eyes, neck ribbon, bare shoulders, white dress, detached sleeves, black ribbon, tail, white footwear)
 -> [Catbox](https://files.catbox.moe/k1rmhq.safetensors) <-
 
+##### -> (PixelPlus) Miuna Usako <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(miunausako, short hair, orange hair, hair bow, brown eyes, rabbit ears, rabbit girl, rabbit tail, bare shoulders, orange dress, orange jacket, long sleeves, off shoulders, bandaid on knee, leg warmers, beige legwear, black footwear)
+-> [Catbox](https://files.catbox.moe/87ollo.safetensors) <-
+
+##### -> (PixelPlus) Nebi Nebu <-
+!!! info If you want her helmet, add (space helmet, spacesuit) and I don't fully know how to tag her weird tentacle looking things, i tried (tentacles) but it just added normal tentacles to the image kek
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(nebinebu, long hair, twintails, pink hair, multicolored hair, messy hair, ahoge, headpiece, hair ornament, pink eyes, white jacket, long sleeves, white gloves, zipper, black shorts, garter straps, white thighhighs, black leg armor)
+	Jacketless: (nebinebu, long hair, twintails, pink hair, multicolored hair, messy hair, ahoge, headpiece, hair ornament, pink eyes, black crop top, midriff, black shorts, garter straps, white thighhighs, barefoot)
+-> [Catbox](https://files.catbox.moe/w5wmkz.safetensors) <-
+
 ##### -> (PixelPlus) Raki Kazuki <-
 !!! note Recommended weight: 1 (according to CCC)
 !!! info Example Prompt
 	[Check LoRA's tags - Untested CCC's version so i don't know the best tags]
 -> [Catbox](https://files.catbox.moe/kncnti.safetensors) <-
+
+#### -> Brave Group <-
+-> ![BRAVE GROUP](https://files.catbox.moe/a3xr4w.png) <-
+***
+##### -> (Aogiri) Otodama Tamako <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(tamako, short hair, purple hair, hair over one eye, red eyes, black headwear, beret, white sailor collar, necklace amulet, (purple sailor dress:1.3), white coat, black coat, long coat, long sleeves, white legwear, black footwear)
+-> [Catbox](https://files.catbox.moe/4tazo9.safetensors) <-
 
 #### -> Indies <-
 ***
@@ -461,6 +504,13 @@
 	mireasheltz, long hair, white hair, side ponytail, hair ornament, hair flower, blue eyes, halterneck, blue dress, sleeveless dress, blue bow, blue bracelet, frills, bridal garter, blue footwear, medium breasts
 -> [Catbox](https://files.catbox.moe/jy41wq.safetensors) <-
 
+##### -> Misogi Sosogi <-
+!!! info Her X shaped hairband is very selective when it wants to work, sometimes it doesn't even show up and I'm unsure on why. also her (no pants) tag can randomly make her panties peek out, but she legit only wears an oversized shirt
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(misogisosogi, short hair, pink hair, hair between eyes, (hairband:1.3), black headwear, purple eyes, choker, necklace, blue coat, long sleeves, black shirt, print shirt, no pants, brown thighhighs, striped thighhighs, brown boots)
+-> [Catbox](https://files.catbox.moe/utvazr.safetensors) <-
+
 ##### -> Neuro-sama V2 + Evil Neuro + Vedal <-
 !!! info 2 Outfits for both neuro and evil neuro?
 -> [Civitai](https://civitai.com/models/276788/neuro-sama-and-evil-neuro-2-outfits-turtle) <-
@@ -491,6 +541,12 @@
 
 ##### -> Saruei <-
 -> [Civitai](https://civitai.com/models/351656/sdxl-lora-saruei-vtuber) <-
+
+##### -> Yuuka Bear <-
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	(yuuka, medium hair, grey hair, ahoge, low twintails, green ribbon, hair ornament, red eyes, white headwear, flower, koala girl, koala ears, pink cardigan, long sleeves, open cardigan, white shirt, frills, pink bow, black dress, white thighhighs, black footwear)
+-> [Catbox](https://files.catbox.moe/iake84.safetensors) <-
 
 #### -> Misc <-
 ***
@@ -541,6 +597,9 @@
 -> **or even** <-
 !!! info third lora to test, check tags from uploader
 -> [Civitai](https://civitai.com/models/336372/koseki-bijou-for-ponyxl) <-
+-> **OR EVEN THIS** <-
+!!! info fourth lora to test.
+-> [Civitai](https://civitai.com/models/328947?modelVersionId=403468) <-
 
 ##### -> Shiori Novella <-
 !!! note Tags suggested by uploader, not me
@@ -749,6 +808,9 @@
 ##### -> Sakamata Chloe <-
 !!! info apparently all outfits?
 -> [Civitai](https://civitai.com/models/352842/sakamata-chloe-for-ponyxl-all-outfits) <-
+
+##### -> Usada Pekora <-
+-> [Civitai](https://civitai.com/models/360908/usada-pekora-vtuber) <-
 
 #### -> Nijisanji <-
 -> ![NIJISANJI](https://files.catbox.moe/lytt83.png) <-

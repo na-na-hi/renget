@@ -1,6 +1,6 @@
 # Dragon's Dogma 2 Character Creator & Storage Compendium
 
-!!! info Pawn starting vocation poll results! -> https://strawpoll.com/PbZqRDqabyN
+!!! info Pawn starting vocation poll results! -> https://strawpoll.com/PbZqRDqabyN/results
 
 ---
 
@@ -82,9 +82,9 @@
 | HF049 | ![Image description](https://files.catbox.moe/3x6hrg.jpeg) | N/A [🖼️](https://files.catbox.moe/19028v.png) |  https://files.catbox.moe/xmj8cs.webm | Anonymous |  None | 
 | HF050 | ![Image description](https://files.catbox.moe/awqub2.jpg) | N/A | https://files.catbox.moe/jzmcm6.webm | Anonymous | "CHINK EROTIC CHINK EYES AND LIPS EROTIC" | 
 | HF051 | ![Image description](https://files.catbox.moe/gi6wi3.jpeg) | N/A | https://files.catbox.moe/skqk1f.webm | Anonymous | based it off of a pic of joan of arc from google |
-| HF052 %red% **New!!** %% | ![Image description](https://files.catbox.moe/is5wsd.jpeg) | Leora [🖼️](https://files.catbox.moe/dqhqzq.png) | https://files.catbox.moe/wbi2hq.webm | Anonymous | Leora, a goblin with big goth tiddy |
-| HF053 %red% **New!!** %% | ![Image description](https://files.catbox.moe/olfd12.jpeg) | Gaia [FFXIV] | https://i.imgur.com/j2pk25J.png | Anonymous | None |
-| HF054 %red% **New!!** %% | ![Image description](https://files.catbox.moe/51tsw8.jpeg) | Ryne [FFXIV] | https://i.imgur.com/VKVUwev.png | Anonymous | None |
+| HF052 | ![Image description](https://files.catbox.moe/is5wsd.jpeg) | Leora [🖼️](https://files.catbox.moe/dqhqzq.png) | https://files.catbox.moe/wbi2hq.webm | Anonymous | Leora, a goblin with big goth tiddy |
+| HF053 | ![Image description](https://files.catbox.moe/olfd12.jpeg) | Gaia [FFXIV] | https://i.imgur.com/j2pk25J.png | Anonymous | None |
+| HF054 | ![Image description](https://files.catbox.moe/51tsw8.jpeg) | Ryne [FFXIV] | https://i.imgur.com/VKVUwev.png | Anonymous | None |
 
 ---
 
@@ -155,8 +155,8 @@
 | HM032 | ![Image Description](https://files.catbox.moe/p8b5am.jpeg) | The Shaman | https://files.catbox.moe/vinhfe.png | Anonymous | [story](https://imgur.com/eus5u01) | 
 | HM033 | ![Image Description](https://files.catbox.moe/v279id.jpeg) | Ailmar | https://files.catbox.moe/0hmgy0.png | Anonymous | [story](https://imgur.com/JFm9OGU) | 
 | HM034 | ![Image Description](https://files.catbox.moe/9kizll.jpg) | N/A | https://files.catbox.moe/xcbp75.png | Anonymous | "The only character I have sliders for is this unintentionally girly shota." | 
-| HM035 %red% **New!!** %% | ![Image Description](https://i.imgur.com/eyb025I.jpeg) | Franky [One Piece [🖼️](https://files.catbox.moe/imh0lw.jpg)] | https://rentry.org/t8hcdmtt | Weeb Pirates Incorporated | SUUUPER! | 
-| HM036 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/luopey.jpeg) | Feminine Chins | https://streamable.com/9rblhh | Anonymous | Fear my chin | 
+| HM035 | ![Image Description](https://i.imgur.com/eyb025I.jpeg) | Franky [One Piece [🖼️](https://files.catbox.moe/imh0lw.jpg)] | https://rentry.org/t8hcdmtt | Weeb Pirates Incorporated | SUUUPER! | 
+| HM036 | ![Image Description](https://files.catbox.moe/luopey.jpeg) | Feminine Chins | https://streamable.com/9rblhh | Anonymous | Fear my chin | 
 
 
 ---

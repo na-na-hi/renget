@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream: post Japan zatsudan (Tue 03/21 7PM CT)
+Next stream (post Japan zatsudan, Tue 03/21 8:30PM CT)
+https://www.youtube.com/watch?v=O6NcRHNDuZ0
 Previous appearance (Twilight Breaking Dawn Pt. 2 watchalong with Iofi, Shiori, Bijou, Fauna and Mumei)
 https://www.youtube.com/watch?v=I5STCRWuZJY
 Last stream (Final Fantasy VII Rebirth)

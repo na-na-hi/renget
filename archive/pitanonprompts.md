@@ -4,7 +4,8 @@
 
 ### Anthropic Presets
 | Model | Version | Date | Chat Completion Preset | Major changes
-|---|---|---|---|---|
+|---|---|---|---|---| 
+Claude 3 Opus | v1.41 | 21/03/2024 | https://files.catbox.moe/lqcp9f.json | Added a rule about character likes/dislikes to the <rules>, changed the "world" prompt to "Public/Pedestrians" and edited the contents, also changed the "Anti-Whore" prompt.
 Claude 3 Opus | v1.4 | 18/03/2024 | https://files.catbox.moe/7o0n5z.json | Took the Lorebook/World Info stuff out of the system prompt and merged the <scenario> prompt with the <rules>.
 Claude 3 Opus | v1.32 | 18/03/2024 | https://files.catbox.moe/jdkbna.json | Modified the "Anti-whore" prompt and added a small prompt before the {{personality}} macro in <assistants_character>.
 Claude 3 Opus | v1.31 | 16/03/2024 | https://files.catbox.moe/ytyu9x.json | Changed "Jailbreak" prompt name to be "Confirmation". Also changed the wording of a few things towards the end of the preset and moved example dialogue outside of the System prompt.

@@ -15,7 +15,7 @@ Jump to:
 
 ## Claude 3 prompt
 
-`pixijb`, a prompt preset (jailbreak) made from scratch for **Claude 3 Sonnet** (Opus is a whole other beast and it doesn't work very well there. A version for it will come later once I have access.) Instead of trying to "wrangle" Claude with strange symbols or all caps words, it explains the task in plain English and shallow XML according to Anthropic's own [prompt engineering guide](https://docs.anthropic.com/claude/docs/prompt-engineering). This lets the model be as smart and creative as it wants to be, and gives the most coherent results across a wide variety of cards.
+`pixijb`, a prompt preset (jailbreak) made from scratch for **Claude 3 Sonnet**. (Opus is a whole other beast and I can't guarantee anything there. A version for it will come later once I have access.) Instead of trying to "wrangle" Claude with strange symbols or all caps words, it explains the task in plain English and shallow XML according to Anthropic's own [prompt engineering guide](https://docs.anthropic.com/claude/docs/prompt-engineering). This lets the model be as smart and creative as it wants to be, and gives the most coherent results across a wide variety of cards.
 
 ### Instructions
 
@@ -37,7 +37,13 @@ This sets up your ST to delete the CoT after generation, since at that point it'
 
 ### Releases
 
-[LATEST - v6.2](https://files.catbox.moe/8zk2sl.json)
+[LATEST - v7](https://files.catbox.moe/vnzwlz.json)
+- Compacted almost all sections.
+- Removed more reiteration from prefill.
+- Removed the more outlandish default style rules.
+- Split basic definitions into a list.
+
+[v6.2](https://files.catbox.moe/8zk2sl.json)
 - Added more guidelines to default writing style.
 - Expanded default NSFW preferences in an attempt to keep Claude's horniness in check.
 - Added rule to prevent generation of content warning OOC.
@@ -79,8 +85,7 @@ This sets up your ST to delete the CoT after generation, since at that point it'
 
 ### Known issues
 
-- Standard prompt is not compatible with cards written in first-person POV. I was not able to get the model to auto-detect the POV without outright calling it first-person. Even then, the model seemed to get confused easily and started talking as {{user}} in responses.
-- Claude 3 is naturally horny. This is a known fact. There are some measures for mitigating this, but the wording could be improved for better effect.
+- Claude 3 is naturally horny. This is a known fact. There are some measures for mitigating this, but the wording could be improved for better effect. Hopefully.
 
 ### Design notes
 

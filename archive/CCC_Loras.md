@@ -14,6 +14,7 @@
 Change notes:
 Date | Change
 :------: | :------:
+3/21/24 | Added XL Lora for [774] Tsukinoki Tirol & [Indie] Xiulan Long & [Indie] Rokuri Syao
 3/10/24 | Added XL Lora for [Prism] Non Anon, [Idol] Nikki Rei & Neo Sparkles. Added SD 1.5 Lora for [Indie] Reiny
 3/8/24 | Added XL Lora for [PixelLink] Nebi Nebu & Miuna Usako, [Indie] Yuuka Bear, [Brave] Otodama Tamako
 3/7/24 | Added XL Lora for [Indie] Clauvio, [Indie] Misogi Sosogi
@@ -42,7 +43,7 @@ Date | Change
 
 
 ###V&U
-#####Meeta Osita
+#####Meeta Osita (+ AnimagineXL)
 https://files.catbox.moe/obsqf7.safetensors
 XL: https://files.catbox.moe/4ohs7d.safetensors
 >Strength 0.8+
@@ -50,7 +51,7 @@ XL: https://files.catbox.moe/4ohs7d.safetensors
 >Optional: witch hat
 ![Meeta Osita](https://files.catbox.moe/dudmto.jpg)
 
-#####Suri Solari
+#####Suri Solari (+ AnimagineXL)
 https://files.catbox.moe/v5tvpn.safetensors
 XL: https://files.catbox.moe/w82tx0.safetensors
 >Strength 0.7+
@@ -167,7 +168,7 @@ https://files.catbox.moe/hjo37z.safetensors
 >penginpina, 1girl, solo, long hair, breasts, bangs, blue eyes, blonde hair, shirt, long sleeves, hat, bow, white shirt, detached sleeves, teeth, sleeveless, white headwear, one side up, shako cap
 ![Pengin Pina](https://files.catbox.moe/p22coz.jpg)
 
-#####Rikudou Yura
+#####Rikudou Yura (+ AnimagineXL)
 https://files.catbox.moe/h8snif.safetensors
 XL: https://files.catbox.moe/iuftmu.safetensors
 >Strength 0.8+
@@ -404,7 +405,7 @@ XL: https://files.catbox.moe/1mu9bg.safetensors
 ![Roca Rourin](https://files.catbox.moe/wlvtsb.jpg)
 
 ###PlayAsia(?)
-#####Obake Pam
+#####Obake Pam (+ AnimagineXL)
 https://files.catbox.moe/nthf7w.safetensors
 XL: https://files.catbox.moe/ydp9az.safetensors
 >Strength: 0.8+
@@ -427,10 +428,11 @@ https://files.catbox.moe/ol60re.safetensors
 >anduge, 1girl, solo, long hair, blush, bangs, blue eyes, skirt,  shirt, hair ornament, gloves, long sleeves,  bow, white shirt,  grey hair, parted lips, black gloves, puffy sleeves,  blunt bangs, black skirt, black footwear,  see-through, hands up,  blue bow, puffy long sleeves, high-waist skirt, short eyebrows, see-through sleeves
 ![And Uge](https://files.catbox.moe/d6mvz2.jpg)
 
-#####Tsukinoki Tirol
+#####Tsukinoki Tirol (+ Animagine XL)
 https://files.catbox.moe/9a6amh.safetensors
+XL: https://files.catbox.moe/sa62wz.safetensors
 >Strength: 0.8+
->tirol, 1girl, long hair, animal ears, blonde hair, antlers, deer ears, green eyes, ribbon, brown capelet, multicolored hair, white shirt
+>tirol, 1girl, solo, long hair, looking at viewer, blonde hair, thighhighs, gloves, long sleeves,  animal ears, green eyes, multicolored hair, boots, parted lips, green hair, black gloves, thigh strap, brown capelet, wavy hair, pale skin, bloomers, antlers, deer ears
 ![Tsukinoki Tirol](https://files.catbox.moe/qfvs7a.jpg)
 
 ###Nijisanji
@@ -460,7 +462,7 @@ https://files.catbox.moe/4bosnu.safetensors
 ![Yumeno Akari](https://files.catbox.moe/kfezew.jpg)
 
 ###ReAct
-#####Amakawa Hano
+#####Amakawa Hano (+ AnimagineXL)
 https://files.catbox.moe/5fz0zf.safetensors
 XL: https://files.catbox.moe/67ts6m.safetensors
 >Strength: 0.8+
@@ -626,21 +628,24 @@ https://files.catbox.moe/1lpb7v.safetensors
 ==Typical dragon issues. Lower part of the shirt/scale corset is black instead of green.==
 ![Taya Rex](https://files.catbox.moe/sr3z8z.jpg)
 
-#####Xiulan Long
+#####Xiulan Long (+ AnimagineXL)
 https://files.catbox.moe/xn7vye.safetensors
+XL: https://files.catbox.moe/1bkq76.safetensors
 >Strength: 0.8+
->xiulanlong, 1girl, horns, blue hair, long hair, pointy ears, dress, orange eyes, hair ornament, braid crown, dragon girl, dragon tail, dragon horns
+>xiulanlong,  1girl, solo, long hair, short hair, low twintails, medium breasts, hair ornament, black thighhighs, black gloves, elbow gloves, blue dress, hair between eyes, bare shoulders, blue hair, orange eyes, horns, choker, pointy ears, high heels,  halterneck, demon girl, demon horns, blue footwear
+>from behind, back tattoo, dragon tattoo
 ==Back Tattoo doesn't work==
+==XL Back Tattoo Works!(but it's not always a dragon)==
 ![Xiulan Long](https://files.catbox.moe/rhiljh.jpg)
 
-#####Mirea Sheltz
+#####Mirea Sheltz (+ AnimagineXL)
 https://files.catbox.moe/i7i2s3.safetensors
 XL: https://files.catbox.moe/jy41wq.safetensors
 >Strength: 0.8+
 >mireasheltz, 1girl, long hair, blue eyes, flower, hair ornament, side ponytail, white hair, bow, blue dress
 ![Mirea Sheltz](https://files.catbox.moe/na77pn.jpg)
 
-#####Kirsche Verstahl
+#####Kirsche Verstahl (+ AnimagineXL)
 https://files.catbox.moe/lsh6ng.safetensors
 XL: https://files.catbox.moe/wn8ixk.safetensors
 >Strength: 0.8+
@@ -648,7 +653,7 @@ XL: https://files.catbox.moe/wn8ixk.safetensors
 ==Cheries are hit or miss. Not too many good pics.== 
 ![Kirsche Verstahl](https://files.catbox.moe/mc30qe.jpg)
 
-#####Eira Woolcott
+#####Eira Woolcott (+ AnimagineXL)
 https://files.catbox.moe/bzppdi.safetensors
 XL: https://files.catbox.moe/brq764.safetensors
 >Strength: 0.8+ 
@@ -684,7 +689,7 @@ https://files.catbox.moe/1vrfpi.safetensors
 >optional: -
 ![Huntress Spectre](https://files.catbox.moe/q6qyji.jpg)
 
-#####Matsuro Meru (Meruru)
+#####Matsuro Meru (Meruru) (+ AnimagineXL)
 https://files.catbox.moe/ld2rqf.safetensors
 XL: https://files.catbox.moe/3xr25u.safetensors
 >Strength: 0.8+
@@ -700,11 +705,12 @@ XL: https://files.catbox.moe/utvazr.safetensors
 >optional: tshirt, no pants, thighhighs, coat
 ![Misogi Sosogi](https://files.catbox.moe/ye2gi3.jpg)
 
-#####Rokuri Syao
+#####Rokuri Syao (+ Animagine XL)
 https://files.catbox.moe/b0s1tq.safetensors
+XL: https://files.catbox.moe/e2m1hp.safetensors
 >Strength: 0.8+
->rokurisyao, green hair, flower, hair ornament, green eyes, horns, ahoge, wings
->optional: Positive: 'white dress, camisole' & Negative: 'detached collar' for second outfit
+>rokurisyao,  1girl, solo, breasts, blush, hair ornament, single thighhigh, medium breasts, white jacket, green fur trim, green eyes, ahoge, green hair, neon yellow wings, horns, black gloves, hair flower, fingerless gloves, fangs, dragon horns, dragon girl, dragon tail, dragon wings
+>optional: Positive: Replace outfit with 'white dress, camisole, round frame eyewear' & Negative: 'detached collar' for second outfit
 ![Rokuri Syao](https://files.catbox.moe/cnegg2.jpg)
 
 #####Elveira (+ Animagine XL)

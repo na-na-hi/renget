@@ -38,18 +38,34 @@ https://shop.bravegroup-us.com/collections/v4mirai
 
 ###Recommended Streams
 Not sure where to start? Here are a few suggestions:
+
 Mariya:
 [The 3D Showcase](https://youtu.be/bKV0ZOe7CoU)
-A good chance to hear her sing and bounce off her genmates.
-[The possessive ASMR](https://youtu.be/klWij7A1XRw)
-The vampire does a lot of ASMR and a lot of roleplay, this one should give you a good sense if you'll enjoy her style.
+A good chance to hear her sing and bounce off her gen-mates.
+[The Possessive ASMR](https://youtu.be/klWij7A1XRw)
+The vampire does a lot of ASMR and a lot of role play, this one should give you a good sense if you'll enjoy her style.
 [Happy Hour Stream #1](https://youtu.be/0HQFVa16YH0)
 Part of Mari's charm is how playful and dorky she can get, that really comes out in this stream.
 
+Mono:
+[Onsen Stream #1](https://youtu.be/YiuQWVD6O1A)
+This stream in particular had Mono opening up in a way that a lot fans found endearing, some going so far as to oshi(hen).
+[Welcome to MonoBurger](https://youtu.be/CsREQkdeg78)
+Another one of Mono's charms is the work she puts into stream assets. This stream in particular has her manning the drive-thru, complete with drawn restaurant and uniform. Pull up to the window, and Mono will have your order ready for you... Probably.
+
+Biscotti:
+[The Confessional](https://www.youtube.com/watch?v=NQIf1fSxm0M)
+Bisco has been described as FFE: Fujo Friend Experience. Regularly references Twitter memes (in this stream, the "multiplayer onahole") and generally has shit-poster energy.
+[Valentine's Day Relay: Bisco's Section](https://youtu.be/2EK2D2YatmU)
+In addition to the aforementioned shit-poster energy, she also is a solid singer! This karaoke is an excellent showcase of both in ~20 minutes.
+
 Collabs:
 [The Uno Collab](https://youtu.be/LSyjrUCA5FA)
+The full Petalight collabs are always fun! This collab in particular (like many an Uno collab) is on the salty side. Try this one for a bit of playful banter.
 [The Roblox Collab](https://youtu.be/E1qphYsanKI)
-The full Petalight collabs are always fun! 
+A bunch of hags get into a kid's game. This one is more on the silly side.
+[First VR Collab](https://youtu.be/wI_LnBK13SA)
+Whenever the girls get into VR, things get sensual. 
 
 ##Globie
 https://globie.net/

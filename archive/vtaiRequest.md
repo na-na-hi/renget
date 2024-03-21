@@ -31,3 +31,4 @@
 - [ ] Miss Lacuna
 - [x] Reiny (PonyXL) - DATASET: https://files.catbox.moe/leomq5.rar
 - [ ] Fraiki
+- [ ] Rosuuri

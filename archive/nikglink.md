@@ -13,6 +13,9 @@ https://nikke-db.pages.dev/
 >Lost Relics
 https://nikke.gg/lost-relics/
 
+>Polls (beta/ diveass team roster related)
+https://poal.me/sohzf2
+
 >Progression Calculator
 https://docs.google.com/spreadsheets/d/1k7WPnTRu1XsIwDnYd8fBuZFV8otYA1tQckKOCJAzrPY/edit
 

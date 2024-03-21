@@ -14,7 +14,7 @@ anthropic context size: 200000
 openai output size: 4096
 anthropic output size: 4000
 ```
-total **active** users: 122 %red% (CLOSED) %%
+total **active** users: 123 %red% (CLOSED) %%
 ***
 !!! info news (20/3/2024)
     Sonnet is back on aws(+haiku if anyone cares)
