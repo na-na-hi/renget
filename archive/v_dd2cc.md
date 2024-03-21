@@ -9,7 +9,7 @@
 ---
 !!! info Submit characters via Google Form [!~orange;default;default;3; **HERE** ~!](https://docs.google.com/forms/d/e/1FAIpQLSdW97qnkWyCcrg7y-7q8Ux-7N7U4rC_ghuNybLijdSbn4gG1Q/viewform?usp=sf_link) or send me an email to !~orange;default;default;3; **dd2cc2024@skiff.com** ~! if you hate Jewgle!
 
-!!! info Wanna share your sliders? Wrong Image? Wrong Name? Wrong Sliders? Anything you want to add? Tell me about it -> dd2cc2024@skiff.com
+!!! info Did you find some sliders that haven't been added yet? Wanna share your own sliders? Wrong Image? Wrong Name? Wrong Sliders? Anything you want to add? Tell me about it -> dd2cc2024@skiff.com
 
 ---
 ##Table of Contents
@@ -71,7 +71,7 @@
 | HF038 | ![Image description](https://imgur.com/FPC3XCp.png) | N/A | https://imgur.com/tuwiblA | Anonymous | None | 
 | HF039 | ![Image description](https://imgur.com/CCTpW0h.jpg) | N/A | https://files.catbox.moe/j9pam5.webm | Anonymous | None | 
 | HF040 | ![Image description](https://imgur.com/x9XmTfU.jpeg) | N/A | https://imgur.com/NCwvHg6 | Anonymous | None | 
-| HF041 %red% **New!!** %% | ![Image description](https://files.catbox.moe/yruev3.jpg) | N/A | https://files.catbox.moe/8py0b9.jpg | Anonymous | None | 
+| HF041 | ![Image description](https://files.catbox.moe/yruev3.jpg) | N/A | https://files.catbox.moe/8py0b9.jpg | Anonymous | None | 
 | HF042 | ![Image description](https://imgur.com/iSrcHAc.jpeg) | Millicent [Elden Ring [🖼️](https://i.imgur.com/q9UrSCP.jpeg)] | https://imgur.com/WpXtUca | Anonymous | Missing Sliders? | 
 | HF043 | ![Image description](https://files.catbox.moe/f06hbg.jpg) | N/A | https://files.catbox.moe/v505w6.jpg | XULLuxolid | None | 
 | HF044 | ![Image description](https://files.catbox.moe/tdytui.png) | Cake | https://streamable.com/qkicum | Hag Champion | Feel free to improve on my bullshit anytime | 
@@ -83,8 +83,8 @@
 | HF050 | ![Image description](https://files.catbox.moe/awqub2.jpg) | N/A | https://files.catbox.moe/jzmcm6.webm | Anonymous | "CHINK EROTIC CHINK EYES AND LIPS EROTIC" | 
 | HF051 | ![Image description](https://files.catbox.moe/gi6wi3.jpeg) | N/A | https://files.catbox.moe/skqk1f.webm | Anonymous | based it off of a pic of joan of arc from google |
 | HF052 %red% **New!!** %% | ![Image description](https://files.catbox.moe/is5wsd.jpeg) | Leora [🖼️](https://files.catbox.moe/dqhqzq.png) | https://files.catbox.moe/wbi2hq.webm | Anonymous | Leora, a goblin with big goth tiddy |
-| HF053 %red% **New!!** %% | ![Image description](https://files.catbox.moe/olfd12.jpeg) | Gaia | https://i.imgur.com/j2pk25J.png | Anonymous | None |
-| HF054 %red% **New!!** %% | ![Image description](https://files.catbox.moe/51tsw8.jpeg) | Ryne | https://i.imgur.com/VKVUwev.png | Anonymous | None |
+| HF053 %red% **New!!** %% | ![Image description](https://files.catbox.moe/olfd12.jpeg) | Gaia [FFXIV] | https://i.imgur.com/j2pk25J.png | Anonymous | None |
+| HF054 %red% **New!!** %% | ![Image description](https://files.catbox.moe/51tsw8.jpeg) | Ryne [FFXIV] | https://i.imgur.com/VKVUwev.png | Anonymous | None |
 
 ---
 
@@ -156,6 +156,7 @@
 | HM033 | ![Image Description](https://files.catbox.moe/v279id.jpeg) | Ailmar | https://files.catbox.moe/0hmgy0.png | Anonymous | [story](https://imgur.com/JFm9OGU) | 
 | HM034 | ![Image Description](https://files.catbox.moe/9kizll.jpg) | N/A | https://files.catbox.moe/xcbp75.png | Anonymous | "The only character I have sliders for is this unintentionally girly shota." | 
 | HM035 %red% **New!!** %% | ![Image Description](https://i.imgur.com/eyb025I.jpeg) | Franky [One Piece [🖼️](https://files.catbox.moe/imh0lw.jpg)] | https://rentry.org/t8hcdmtt | Weeb Pirates Incorporated | SUUUPER! | 
+| HM036 %red% **New!!** %% | ![Image Description](https://files.catbox.moe/luopey.jpeg) | Feminine Chins | https://streamable.com/9rblhh | Anonymous | Fear my chin | 
 
 
 ---

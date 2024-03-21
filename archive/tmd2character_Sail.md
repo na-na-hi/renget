@@ -79,7 +79,7 @@ Item Name | Description
 *Worn/Held Item: Mystic Scarf* | Increases BP for Water-Type moves by 2. Changes Rotom form if held.
 *Equipped Item: N/A* | 
 1. Blast Seed | Explodes on contact for 10 true damage.
-2. Warp Seed | Causes random teleportation. Perhaps the chaos can be harnessed...
+2. N/A | N/A
 3. Heal Seed | 	Cures all status conditions.
 4.  Obsidian Dagger | A crude blade that cut. Make with obsidian and other materials that awash ashore.
 

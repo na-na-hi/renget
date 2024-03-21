@@ -1,11 +1,5 @@
-->![Divider](https://files.catbox.moe/krrjl3.png)
-![Made by Mumei, Dm @fwmc on discord for takedown (or credit) ^^](https://files.catbox.moe/53z32i.png)
-![.co/mumeirsrcs](https://files.catbox.moe/wmpzzw.png)<-
-
-%#C4CAE2%All of these can be recolored through Ibispaint X.%%
-[%#F5CAD9%Click here to contact me for credit or removal :3%%](https://retrospring.net/@hololive)
-
-![Divider](https://files.catbox.moe/5dtnje.png)
+Currently being redone
+[F2u graphics](mumeisgraphics)
 ***
 ***
 creds to [pixelprism!](https://rentry.co/prismdividers) :3

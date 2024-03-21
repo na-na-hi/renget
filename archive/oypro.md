@@ -66,18 +66,16 @@ Stat: Defense | Tier **ɪ** (+1) | Physical mitigation + 1
 Attribute: Illusory | Tier **ɪɪ** (+2) | Skill with illusion manifestations
 Attribute: Chopping | Tier **ɪ** (+1) | Skill in slicing and dicing
 Attribute: Balancing | Tier **ɪ** (+1) | Skill with keeping your balance, whether it be on unstable ground or on energy infused air
-Battle Attribute: Zephyr Step | Tier **ɪ** (+1) | Move with the wind kicked up from an Aerial Ace powered dash to get around obstacles, easy breezy. 
+Battle Attribute: Zephyr Step | Tier **ɪɪ** (+2) | Move with an even stronger gust kicked up from an Aerial Ace powered dash, to get around obstacles and trip up opponents!
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Stat: Attack **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
-Currently Training for Stat: Defense **ɪɪ** | Tier **ɪɪ** | 0/9 | ▯▯▯▯▯▯▯▯▯
 Currently Training for Attribute: Illusory **ɪɪɪ** | Tier **ɪɪɪ** | 0/3 | ▯▯▯
 Currently Training for Attribute: Chopping **ɪɪ** | Tier **ɪɪ**  | 0/3 | ▯▯▯
 Currently Training for Attribute: Foraging **ɪ** | Tier **ɪ**  | 1/3 | ▮▯▯
 Currently Training for Attribute: Balance **ɪɪ** | Tier **ɪ**  | 0/3 | ▯▯▯
-Currently Training for Attribute: Decoy **ɪ** | Tier **ɪ**  | 0/3 | ▮▯▯
-Currently Training for Battle Attribute: Zephyr Step **ɪɪ** | Tier **ɪ**  | 3/4 | ▮▮▮▯
+Currently Training for Attribute: Decoy **ɪ** | Tier **ɪ**  | 1/3 | ▮▯▯
+Currently Training for Battle Attribute: Zephyr Step **ɪɪɪ** | Tier **ɪɪ**  | 0/5 | ▯▯▯▯▯
 
 **INVENTORY (4 slots)**
 !!! note Items your character is carrying with them.

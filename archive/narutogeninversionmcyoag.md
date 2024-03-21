@@ -16,7 +16,7 @@ Ignore the elemental taxes.
 Living Weapons are banned, ignore the rest of the items, you have an arbitrary amount needed to be a ninja. Enchanted tools are fine, though.
 You can make a C+ Build, they just won't be participating in the exams.
 
->Chunin Exam Stage 1 Hub Post
+#Chunin Exam Stage 1 Hub Post
 >>92135567 →
 
 #Builds
@@ -98,7 +98,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Mojo Nakasendou
 >>92130059 →
 >Choko Yumiya
->>92132146 →
+>>92229037 →
 >Eiji
 >>92132327 →
 >Rook
@@ -133,7 +133,8 @@ https://archive.4plebs.org/tg/thread/92193663/#92194017
 >>92157552 →
 >Yōki
 >>92157657 →
-
+>Koroko Kokoroko
+>>92235539 →
 
 #Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
@@ -177,6 +178,8 @@ Tsugumi's Team 6 (Tsugumi, Ghidorah, Junki, Sen)
 https://archive.4plebs.org/tg/thread/92193663/#92194804
 Team 7(Fujiwara, Kamare, Daiki)
 https://archive.4plebs.org/tg/thread/92193663/#92194812
+genjutsu inception
+https://archive.4plebs.org/tg/post/92232592/
 
 #memes
 beholdthegoldenbyakugan
@@ -242,6 +245,16 @@ Hygiene Ranking
 https://archive.4plebs.org/tg/thread/92206249/#92208173
 Anon Tierlist
 https://archive.4plebs.org/tg/thread/92217225/#92227669
+objective listing of who who will pass on their genes
+https://archive.4plebs.org/tg/thread/92227819/#92234387
+Physical Strength Tierlist
+https://archive.4plebs.org/tg/thread/92227819/#92235102
+Ranged Ability Tierlist
+https://archive.4plebs.org/tg/thread/92227819/#92235220
+OBJECTIVE SOVL TIERLIST
+https://archive.4plebs.org/tg/thread/92227819/#92235259
+Tournament 1v1
+https://archive.4plebs.org/tg/thread/92227819/#92236803
 
 #Data
 How old is everyone

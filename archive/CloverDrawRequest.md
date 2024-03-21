@@ -1,11 +1,12 @@
-!!! danger Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)
+/!!! danger Please put newer scene ideas to draw at the top of the list (completed requests linked at the bottom of the rentry)
 
 [TOC]
 
 #Pending Requests
 
-1. An edit of [this](https://files.catbox.moe/hnb0ee.jpg) with Chespin ranting at Cider while he builds a nest.
+1. Booker asking Sneasel if she likes jazz.
 
+1. An edit of [this](https://files.catbox.moe/hnb0ee.jpg) with Chespin ranting at Cider while he builds a nest.
 
 1. One or both of these bizarro alternate universe ships: https://files.catbox.moe/y9tji2.png
 

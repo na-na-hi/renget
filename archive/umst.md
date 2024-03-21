@@ -765,6 +765,7 @@ https://www.youtube.com/playlist?list=PLST16oTAUGLeuntjeWfwfSueTREy6KYOM
 まいことゆうこの　ラジオK-production！
 https://www.onsen.ag/program/k-pro
 
+![](https://i.imgur.com/9jfW72r.jpeg)![](https://i.imgur.com/yduAoop.jpeg)
 K.S. Miracle ケイエスミラクル役
 **Hinata Sato 佐藤日向** (23 Dec 1998)
 https://twitter.com/satohina1223
@@ -778,7 +779,7 @@ https://www.onsen.ag/program/battle
 Copano Rickey コパノリッキー役
 **Konomi Inagaki 稲垣好** (24 Jul)
 
-![Thick Idol](https://i.imgur.com/Pgn2jHE.jpeg)![](https://i.imgur.com/37GGZ2i.jpeg)
+![Hokkaido Mountains](https://i.imgur.com/Pgn2jHE.jpeg)![](https://i.imgur.com/37GGZ2i.jpeg)
 Hokko Tarumae ホッコータルマエ役
 **Sayaka Kikuchi 菊池紗矢香** (5 Aug)
 https://twitter.com/syk_kikuchi

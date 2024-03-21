@@ -481,6 +481,7 @@ BRRip Complete - [1080p BDMV RAW](https://nyaa.si/view/1652249) / [1080p x265](h
 
 6th Live! I love You ⇆ You love Me
 Aichi D1&D2 [1080p PIA WEBRip](https://nyaa.si/view/1760323) ![](https://files.catbox.moe/c95yx7.gif)
+Kanagawa D1&D2 [1080p PIA WEBRip](https://nyaa.si/view/1766658) ![](https://files.catbox.moe/c95yx7.gif)
 
 ####EVENTS/PERFORMANCES/MISC
 **Fanmeets / PPV Streaming**

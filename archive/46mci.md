@@ -37,6 +37,7 @@ https://mooms.neocities.org/
 #####[Weekly Owls & Hooters](https://rentry.org/kpbge)
 #####[Hololive 4th Fes](https://rentry.org/who_4thfes)
 #####[Summer 2023 (Connect & HoloSummer)](https://rentry.org/who_summer23)
+#####[Hololive 5th Fes](https://rentry.org/who_5thfes)
 
 !!! info
      -> 🪶  **Tools**  🪶 <-

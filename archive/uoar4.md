@@ -143,6 +143,7 @@ _______
 ####HoloFes & Concerts
 - [4th Fes rentry](https://rentry.org/who_4thfes)
 - [Connect the World & HoloSummer Splash Party](https://rentry.org/who_summer23)
+- [5th Fes rentry](https://rentry.org/who_5thfes)
 
 - - -
 
