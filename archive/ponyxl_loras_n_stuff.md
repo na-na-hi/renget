@@ -1,4 +1,7 @@
 #PonyXL Notes
+
+[TOC2]
+
 ##Get PonyXL here
 https://civitai.com/models/257749?modelVersionId=290640
 
@@ -17,7 +20,7 @@ An anon also created a LoRA extract of it if you want to experiment with it on b
 https://civitai.com/models/312010/4th-tail-lora-extract
 
 ##Reverse Engineered Hashed Tokens
-It seems like the obfuscated/hashed tokens in the model can often times be exposed through three letter strings (seems like substrings of the full hash). There's only about 17k possible 3 letter combinations so it's possible to just reverse engineer the remapped tokens through brute force, an amazing anon went through the trouble of genning every 3 letter combination and noting which combinations seemed to affect the style. Here's his latest update:
+It seems like the obfuscated/hashed tokens in the model can often times be exposed through three letter strings (probably substrings of the full hash). There's only about 17k possible 3 letter combinations so it's possible to just reverse engineer the remapped tokens through brute force, an amazing anon went through the trouble of genning every 3 letter combination and noting which combinations seemed to affect the style. Here's his latest update:
 
 All tokens I found: https://files.catbox.moe/41sbn0.txt
 Zip with all images (small) and tokens: https://files.catbox.moe/tqb4go.zip
@@ -73,9 +76,9 @@ There's an effort underway to identify the triggers.
 
 ###Hashed Styles/Characters
 
-**Update 3/20/2024**
+**Update 3/21/2024**
 Here's a csv of the latest version of a collaborative spreadsheet with some identified styles.
-https://files.catbox.moe/gpi5j5.csv
+https://files.catbox.moe/j7g22l.csv
 
 ##List of Ponyxl LoRAs from /h/
 NEW NOTE 1/24/2024: I've noticed that some LoRA bakers are using different negatives when testing their LoRAs, which can lead to discrepancies when using them. I've mostly noticed that some LoRAs have a significantly reduced effect if you don't have source_pony or some combination of the source_* tags other than source anime in the negatives. This is unfortunate but a byproduct of not having a standardized process for creating the LoRAs. There's another section down below that has more info about similar issues with PonyXL that's worth reading.
@@ -279,6 +282,7 @@ https://files.catbox.moe/4z5ngk.safetensors ter
 https://files.catbox.moe/5oa88d.safetensors shadman
 https://files.catbox.moe/tccjiu.safetensors kylin 
 https://files.catbox.moe/7sgo6g.safetensors uno_makoto exmaple gen: https://files.catbox.moe/yt0ip7.png
+https://files.catbox.moe/vlmuy2.safetensors pixzapix 
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

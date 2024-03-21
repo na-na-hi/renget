@@ -1,5 +1,5 @@
 ->[BACK ![](https://wilardo.crd.co/assets/images/gallery28/d275f877_original.gif?v=b62e9456)](https://rentry.co/zuuresources)<-
-->![](https://64.media.tumblr.com/c216c8f380e1560ed48d63955804c556/29e5cadd08ca1c89-f6/s500x750/8a620e005a6c7a5ef3cb0afe504030057a4c7595.gifv)<-
+->![](https://64.media.tumblr.com/d2686b537da6e540ea81697087c92308/9daddf923761f6ec-14/s500x750/da5535c09aa2b17e89e908ec92f0e1eb179da958.gifv)<-
 
 ->==my favorite sites/resources that i use for my rentries or carrds!!!! ^__^==<-
 ![](https://cdn.discordapp.com/attachments/1135445777284599828/1140815085711917066/o29.gif) [emojibank (THOUSANDS of favicons)](http://emojibank.com/) 

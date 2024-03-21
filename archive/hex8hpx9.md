@@ -103,7 +103,7 @@ Too late, too distracted, the thing's arm was bound behind its back and a kunai 
 
 %red% "You know, I don't often catch spies talking to themselves. I also don't usually find them raiding scrolls for children. Are you sure you're in the right place?" %%
 
-Silence. Tension. Fear. The creature trembles a little in the Uchiha's hands as he scans the room with the Sharingan. No traps or seals - at least that shouldn't be there. The chakra level of the ninja he'd pinned wasn't very high, but she could be hiding it, his eyes were good but he wasn't a Hyūga or an Uzumaki, he was an Uchiha - and like any Uchiha his first thought was weapons and other immediate threats. She had a kunai, now dropped to the floor, that was one thing at least.
+Silence. Tension. Fear. The creature trembles a little in the Uchiha's hands as he scans the room with the Sharingan. No traps or seals - at least that shouldn't be there. The chakra level of the ninja he'd pinned wasn't very high, but she could be hiding it - his thoughts were more towards immediate threats like active jutsu, traps and weapons. She had a kunai, now dropped to the floor with a careful but forceful shove, that was one thing at least.
 
 %white% "P-please help me-" %% a young girl's voice, trembling with terror came from the creature - far too young for the ninja he was holding. She was shorter than him, but she wasn't a child. He held his grip as his crimson orbs continued to dance, if this was a trick he wasn't going to fall for something so simple.
 
@@ -191,6 +191,120 @@ Silence reigns for half a minute. The Genin sits meekly - tired and afraid. Conf
 
 %white% "I want it to end!" %%
 
-The kunoichi grasps her hair as she slams her head on the table, helpless tears staining the wood. It feels like it'll last forever until it suddenly stops. The voice disappears as the door steel door groans open. Through the portal a concerned-looking woman emerges. Kamiko Karatachi, Jonin of Kirigakure.
+The kunoichi grasps her hair as she slams her head on the table, helpless tears staining the wood. It feels like it'll last forever until it suddenly stops. The voice disappears as the door steel door groans open. Through the portal a concerned-looking woman emerges. "Hello? My name is Kamiko Karatachi, I'm here to help." %%
 
 ---
+
+%green% "Why did you call for me?" %% Kamiko could sense the tension emanating from the Konohagakure Chūnin that now escorted her through the prison complex. She didn't need to be told where she was and could tell by the presence - or more accurately, absence - of the energies permeating the building. She was intimately familiar with the feeling of areas sealed against sensory jutsu, it wasn't enough to rob her of her own miraculous powers but everything here felt duller, greyer and hazy. The great slug inside of her was uncomfortable in places like this - though it had the wisdom to conserve its energy rather than complain, knowing that its host would sense its displeasure regardless.
+
+What couldn't be stemmed were the echoes of isolation, failure and fear that had bled into the very stone itself - feint and distant through time but suffusing the area through the constant influx, internment and interrogation of prisoners for decades. Despite being as old as the village - certainly older than herself - it wasn't ancient, as attested to by its brutalist concrete construction and the dozens of pipes and wires stitched across the ceiling. She'd certainly been to nicer places.
+
+%purple% "Natsuo Uchiha requests your presence for an interrogation." %% The young man's voice was cold, matter-of-fact and professional. Beneath his stoicism Kamiko could see that he was a little confused, even a untrusting of her being in this place, she understood and mirrored his confusion. As a foreign ninja, it didn't matter how much of a reputation she had, being allowed in such a place without warning was certainly unorthodox.
+
+%green% "I am certain your own village can supply the expertise for such things. Besides, I am no interrogator." %% Her voice was reserved but telling - as a doctor she wasn't comfortable with her skillset being used to inflict harm. She'd been used as a truth-sensor many times before, but the thought remained unsettling.
+
+%purple% "I do not know the details, only that Natsuo asked for you directly. We will take you to him now." %% He wasn't lying, that much she could tell.
+
+The rest of the walk was taken in silence. As they entered deeper into the complex, Kaiko couldn't help but count the number of prisoners through the walls of their cells. Seventeen, give-or-take, a surprisingly low number given what she had grown used to during the war. That there was anyone here at all was a lesser evil, but she was glad that there were comparatively so few. Their signatures - what she could tell of them through the seals anyhow - seemed to be in decent enough health as well, it seemed as if the Leaf Village wasn't starving or torturing anyone at the moment, another good sign.
+
+%red% "Kimoko." %% Natsuo's tired voice cut her away from her trance, bringing her back to her own body as her eyes glanced around the dimly lit room. It was an office of sorts, with various pieces of surveillance equipment, documentation, layers of scrolls containing the signatures of sealed jutsu and less welcoming tools. Towards the end a one-way mirror looked out into an even more drab room in which sat a young woman she didn't recognize. The steel door closed behind her with a feint metallic shriek as Natsuo nodded the Chūnin out of the room.
+
+%green% "Natsuo. You're hurt," %% her assessment of his chakra was immediate as it was thorough. He was tired, low on sleep and a little hungry - that much was obvious - though there wasn't really much worry in his mind as usual. A small bit of pain was radiating from his left, below the ribcage, nothing to be worried about but it was unlike him to take a bad fall. Her prying ceased there, both out of courtesy for the Jonin's privacy and to avoid interacting with the other, more sinister energy he carried beneath his own. She didn't know what it was - she'd never dared to ask - but she and Saiken both had their suspicions.
+
+%red% "Just a little, nothing much," %% nonchalant as ever, Natsuo betrayed very little of his concern to others. Kamiko had found in their few interactions that, despite being more serious than he was willing to let on, his lax perspective wasn't exactly a lie - at least, not usually. This time he was a little worried, but remained unshaken.
+
+%green% "Hurt is hurt, that'll get sore if you don't do something about it now." %%
+
+%red% "Thanks mom but I'm a big ninja now. I can handle a little bruise," %% he smiled at his own joke, but the woman was too busy staring through the hazy glass to care for it.
+
+%green% "You called me here to... Interrogate this girl? She's very young." %%
+
+%red% "I've known girls half her age that killed for coin," %% his scoff was half-formed, he didn't mean anything by it, %red% "but you're right, she is a bit young to be in here, seventeen if her papers are accurate." %%
+
+%green% "If?" %%
+
+%red% "She has three IDs, three different names, three different countries of origin. The only thing that's the same on these is the age but the birthdays are different too. She's also a kunoichi, a seamstress and..." %% he reaches towards a piece of paper on the table to remind himself, %red% "a flower merchant." %%
+
+%green% "So you think she's a spy." %%
+
+%red% "I know she is, caught her red handed myself, she's very good at it too, the thing is..." %% taking a moment to find where he put the evidence, he draws two scrolls - different only by the nonsensical signs etched onto their ribbons, %red% "she's been looking into things that aren't exactly super secret. Breaking into places she shouldn't and making out with stuff I wouldn't normally care about. The problem is where she's been - I need to make sure she hasn't seen anything *really* important. I need to know what's in these scrolls." %%
+
+%green% "I still don't understand why I'm here." %%
+
+%red% "She called for you. Said she'd admit everything to you, that she trusted you." %%
+
+%green% "I don't know this girl." %%
+
+%red% "I'd presumed as much, but she knows about you. The thing is - I'm not really an investigator, so if I can't be sure she's not a danger to the Leaf, I'll have to ask Anbu. If she is bad news, that was the right call, if she isn't..." %%
+
+%green% "Anbu would destroy her just to make sure." %%
+
+%red% "Exactly. Will you do it?" %%
+
+Kamiko contemplates in silence about the girl, wondering what kind of situation she was prying into. A sigh confirmed her choice. %green% "I have to." %%
+
+---
+
+The girl was radiating fear as she sat in the chair, hands over her head, tears staining the wooden table. The sheer turmoil she was in forced Kamiko to take a second as she entered - a long, deep breath to centre herself as she meekly entered the room. She wasn't afraid of this girl, but she was afraid *for* her and hoped that adopting a nonthreatening stance would help to calm the kunoichi. %green% "Hello? My name is Kamiko Karatachi, I'm here to help." %%
+
+Something changed in that moment. In a few uncanny seconds the girl in the chair wiped away her tears, coughed away the hoarseness in her voice and returned a smile that almost seemed too genuine - the red drained form her face and her entire posture changed into something far less pathetic and far more casual and welcoming. It was a lie, of course, Kamiko could see the cracks even without her other senses - in those she could see the girl's chakra network shudder as she scrambled to put herself together. She was well-read on the kinds of techniques shinobi would use to hide their emotions, intentions and refocus their minds but regardless, the speed was a little offputting.
+
+%pink% "Hello Kamiko-san. I'm Sen Yamamoto. I could use that help right now," %% she laughed a light, soulless, hollow chuckle that seemed completely at-odds with moments earlier. Spy or not, she was good at this.
+
+%green% "Alright, Sen, that's good. I was told you wanted me to be here - may I ask why?" %% Something was off - Sen's chakra network was clearly visible, if a little diminished by exhaustion, but the signals she was putting off were conflicted, complicated, paradoxical.
+
+%pink% "You're a very good sensor, so good they say you can tell when someone's lying," %% that'd normally be the case, but something was off, like a static haze around her, %pink% "where I come from you also have a reputation of solving things peacefully. I figured - with your reputation - Natsuo would trust you just as much as I do and we could sort this all out." %%
+
+%green% "Oh? And just where do you come from?" %% progress in reading the girl's aura was slow - some kind of jutsu? She hadn't ran into anything technique that had disrupted emotional energy like this before. Still, the more she knew the girl, the easier it'd be to break through. Besides, everything else seemed to be going well so far, if a little *too* well.
+
+%pink% "Shimogakure. Or, well, I was trained in the academy there as a kunoichi - before that I lived in the village around the Grand Library." %%
+
+%green% "Ah, that explains it." %%
+
+%pink% "Explains what?" %%
+
+%green% "It's cold in here and you're barely shivering. I was starting to think it was just me." %%
+
+An uncomfortable chuckle resounded from them both.
+
+%green% "So, you've gotten yourself into a little bit of trouble. As far as I can tell I can maybe help with that. But I'm going to need you to tell me the truth - I can tell when you're lying but that doesn't mean I know what the truth is from that." %%
+
+%pink% "Sure. Can do." %% Sen's response seemed candid, but it didn't do anything to quell the disruption about her aura.
+
+%green% "Can I ask you to drop that technique? It's making it a little harder to tell." %%
+
+Over the next few moments, Sen's expression changes - first from nervous laughter to nonchalant comfort, then to quiet contemplation and finally into a languid stare at the table, like the crossroads between depression and tension. Her chakra network registers all this beneath the noise, but it doesn't quieten it down at all - Kamiko feels like she's beginning to see through it just a little.
+
+%pink% "It's..." %% her confidence almost gone, the girl retreats into her chair out of discomfort, %pink% "it's not a jutsu. Not anymore." %%
+
+Sensing the inner turmoil, Kamiko gave Sen a moment moment to collect herself. As the moments turned to a minute and it was clear that the younger girl had lost her direction of thought, she decided to carefully probe. %green% "Then what is it? I'm a healer as well you know, if there's something wrong..." %%
+
+%pink% "It's complicated." %%
+
+%green% "I can handle complicated." %%
+
+%pink% "It's my partner." %%
+
+The words stirred something inside the Jonin - the great slug thing nestled within the seal perked up if only a little, goading its host with a primordial curiosity - for her part, Kamiko had come to a similar conclusion. There was no confirmation yet, but an invisible chill of fear ran up her spine. It made sense now, the way Sen's emotions were paradoxical and the way her mental energy was in flux - it wasn't random, it was being pulled in two different directions, it simply seemed chaotic when overlaid atop itself.
+
+Not wanting to make any provocations in case the worst of her theories were true, the Jonin played the part of the unwary. If this child was a Jinchūriki, she could be in danger if pressed too far - if she wasn't, then it'd do no good to raise such an alarm. She considered her next words before following up on the inquiry.
+
+%green% "Your partner? Could you tell me about them?" %%
+
+%pink% "Debate partner, technically," %% her cadence becomes a little more confident as she starts explaining, like her ability to rationalize helps her forget her situation. The Jonin does not interrupt her, only respond with a confused expression.
+
+%pink% "In Shimogakure we don't have academy students learn the Clone technique. Not as harshly as they do here. Instead we learn a jutsu that lets us think from multiple different perspectives at once. It's a lot like a Shadow Clone - or so I understand - but instead of putting a copy of our own minds into a construct we keep it inside our heads, it's a lot simpler so even kids can do it to a degree." %%
+
+%green% "Interesting, I've heard of something similar. Please, go on." %%
+
+%pink% "It's mostly used to debate with yourself." %%
+
+%green% "Debate with yourself?" %%
+
+%pink% "Sometimes it's hard to make a decision on your own and you need to argue with yourself, right? Well, sometimes that's not enough, because in the end it's just a monologue, the argument isn't genuine. The technique allows you to temporarily split your thinking into two, each with a different belief. Both streams of consciousness think like you do and remember everything you do - exactly the same, except they've both made a different decision. That way you can *literally* debate with yourself and figure out which side has more merit." %%
+
+%green% "That sounds like it has a lot of uses." %%
+
+%pink% "It's too complicated for most Genin or Chūnin to do anything more with it, but you're right. Some of the masters back home - shinobi or otherwise - use it to speed up their thinking or to do two things at once. I even hear some people before the war could split themselves half a dozen times. It's not handy for fighting, so most villages aren't interested in picking it up, but if you come from somewhere where 80% is the bottom grade on a written test..." %%
+
+%green% "So how does your partner help you? They seem..." %% somewhat calmed after realizing that the girl wasn't likely possessed, the Jonin adopts a more curious and friendly stance again, though her eyes still dance to try and unravel the tangled mess about the girl - whatever this is, it can't be healthy. %pink% "Intense." %%

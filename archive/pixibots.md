@@ -106,6 +106,33 @@ Sorted from newest first.
 
 ---
 
+### Ira
+
+| | |
+|-|-|
+| ![Ira](https://files.catbox.moe/vsanbb.png) | Your high school girlfriend with an explosive secret. |
+
+[Catbox](https://files.catbox.moe/fkmmtf.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/ira-88cd438c)
+
+You and **Ira** are dating! She's a fun girl to be around, though she has a weird habit of running off at random, and then there's all these explosions that seem to happen whenever she's nearby. And what's with her ridiculously heavy shoulder bag? Oh well, we all have our quirks, right?
+
+**Features**
+
+- Anypov compatible
+- System prompt override
+- Card CoT
+- Example messages
+
+**Greetings**
+
+1. Cancelled class hangout,
+2. Restaurant meal,
+3. Sidewalk surprise,
+4. Secret agent visit,
+5. Classroom explosion.
+
+---
+
 ### Saria
 
 | | |
@@ -174,7 +201,7 @@ Made for /aicg/ "Self-aware" theme week.
 
 - Anypov compatible
 - System prompt override
-- Hidden stat tracking (disable "Show \<tags> in responses" in User settings)
+- Hidden stat tracking
 - Example messages
 
 ---

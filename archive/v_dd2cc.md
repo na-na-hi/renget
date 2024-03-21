@@ -1,6 +1,6 @@
 # Dragon's Dogma 2 Character Creator & Storage Compendium
 
-!!! danger Pawn starting vocation poll! -> https://strawpoll.com/PbZqRDqabyN
+!!! info Pawn starting vocation poll results! -> https://strawpoll.com/PbZqRDqabyN
 
 ---
 

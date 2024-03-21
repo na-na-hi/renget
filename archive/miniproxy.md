@@ -17,7 +17,7 @@ anthropic output size: 4000
 total **active** users: 122 %red% (CLOSED) %%
 ***
 !!! info news (20/3/2024)
-    Away rn. Refilled with an old key(no sonnet enabled i think)
+    Sonnet is back on aws(+haiku if anyone cares)
 
 - I don't have a tripcode 
 - I will check the emails and answer every single one of them.

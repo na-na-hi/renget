@@ -825,6 +825,8 @@ Before joining this clover guild thing, do you have a completely different pokem
 
 >Carrot-Anon: Maybe? I already had the basic outline of Carrot and Hazel from another project but i ported them to the Clover world, at the same time there's a tidbit of Carrot lore i will probablh never mention or do due to it being a bit fucked up, it's still canon but idk if i should make it an important part of the non-canon story
 
+>Rowlet-anon: Cider was originally going to be a Piplup, since most of his character emulates the way the human Piplup acted in the Explorers anime specials, but I decided against that since there were too many Water-types, and I think Rowlet was the ultimately better choice looking back on it. Both species are birds and have the same general body shape anyway, so it's not too big of a change art-wise. 
+
 If clover guild did not exist, where would you be at this point in time?
 
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.

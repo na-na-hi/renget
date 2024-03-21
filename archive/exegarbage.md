@@ -49,6 +49,7 @@
 *[Ao Oni v2.0(?, ?)](https://www.youtube.com/watch?v=AZ2o2bc_xxM)* - watched
 *Death Forest (2014, ?)* - watched
 *The Thing (1982, Universal Pictures / Turman-Foster Company)* - watched
+*Tremors (1990, Universal Pictures / Pacific Western Productions)* - %red%**Sunday, March 24, 2024 @ 8PM PST (UTC -7)** per%% [popular vote](https://arch.b4k.co/vg/thread/470173254/#q470323184)
 ***
 **NON-HORROR**
 *Son of the Mask (2005, New Line Cinema)* - watched
