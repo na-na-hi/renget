@@ -117,7 +117,7 @@ Sorted from newest first.
 |-|-|
 | ![Ira](https://files.catbox.moe/vsanbb.png) | Your high school girlfriend with an explosive secret. |
 
-[Catbox](https://files.catbox.moe/fkmmtf.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/ira-88cd438c)
+[Catbox](https://files.catbox.moe/nnzbzf.png) | [Chub](https://chub.ai/characters/aiwaifuenthusiast/ira-88cd438c)
 
 You and **Ira** are dating! She's a fun girl to be around, though she has a weird habit of running off at random, and then there's all these explosions that seem to happen whenever she's nearby. And what's with her ridiculously heavy shoulder bag? Oh well, we all have our quirks, right?
 

@@ -1,7 +1,7 @@
 ->
 ![](https://64.media.tumblr.com/8962da80d6642df483f45264c459ad25/9ee969430bca8bda-b9/s540x810/a122afb6f1d17462e9bc525825b39c173387c5ce.gifv) <-
 -> %#ffe3ea% ₊˚ଘ  **peachgirl** [♡](https://phonecharm.carrd.co)  %%
-**updated** 3/21/24 ˚୨୧⋆｡˚ ⋆
+**updated** 3/22/24 ˚୨୧⋆｡˚ ⋆
 ✿ ۪ ♫    ⁀   ˳ ⊹ *italic* = %#ffcfd3% **favorite**%% ![](https://64.media.tumblr.com/8a54e7700b23553a3080da35ee86d485/20e87ebbd82b19f5-c0/s75x75_c1/65320bdbd2e84dd5c2f6fda2c8cd85325bc42b7e.gifv) <-
 
 ![](https://64.media.tumblr.com/75df21f8ddf93d368874d052cd8dcd58/5bb64775a402e7c2-f5/s640x960/09a53ffc302f41cdd1d030d3bbe704b93fc59911.gifv) 
@@ -16,7 +16,7 @@
 [cutediscovery](https://tumblr.com/cutediscovery) [wanwanparty](https://tumblr.com/wanwanparty) [melonet](https://tumblr.com/melonet) [kinoshitafuyou](https://tumblr.com/kinoshitafuyou) [cloverparty](https://tumblr.com/cloverparty) [fruchtgummi](https://tumblr.com/fruchtgummi) [girlschannel](https://tumblr.com/girlschannel) [kawaiipixelcollection](https://tumblr.com/kawaiipixelcollection) 
 
 -> ⓘ **%#ffcfd3% r%%entry co ʚɞ** <-
-[grime](grime) [resc](resc) [resources](resources) [rescs](rescs) [stuff](stuff) [luvrs](luvrs) [ruimizuki](ruimizuki) [res](res) [puddings](puddings) [sozai](sozai) [valentinemassacre](valentinemassacre) [resources_](resources_) [rose](roses-resources) [cielpixels](cielpixels) [pixelcore](pixelcore) [sanrio](sanriopixels) [knowledge](knowledge) [stamps](stamps) [codesies](codesies) [butter](butter) 
+[grime](grime) [resc](resc) [resources](resources) [rescs](rescs) [stuff](stuff) [luvrs](luvrs) [ruimizuki](ruimizuki) [res](res) [puddings](puddings) [sozai](sozai) [valentinemassacre](valentinemassacre) [resources_](resources_) [rose](roses-resources) [cielpixels](cielpixels) [pixelcore](pixelcore) [sanrio](sanriopixels) [knowledge](knowledge) [stamps](stamps) [codesies](codesies) [butter](butter) [mikopixels](mikopixels) 
 
 -> ⓘ **%#ffcfd3% m%%iscellaneous ʚɞ** <-
 adding soon ໒꒰՞ ܸ. .ܸ՞꒱ა

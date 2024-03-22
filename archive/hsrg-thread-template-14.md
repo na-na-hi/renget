@@ -11,17 +11,9 @@ Previous: >>
 https://www.youtube.com/watch?v=RSg-JRqQ8QA
 https://www.youtube.com/watch?v=3FqAcWYLirA
 
-\>Sparkle Trailer — "Monodrama"
-https://www.youtube.com/watch?v=RC6wQ-75uQU
-https://www.youtube.com/watch?v=-FrbSYzlqdU
-
-\>Myriad Celestia Trailer — "Sparkle: Behind the Curtain" 
-https://www.youtube.com/watch?v=IpuQvbTwCWU
-https://www.youtube.com/watch?v=dQFw_-55pZ4
-
-\>A Moment Among the Stars — "Sparkling Tricks" 
-https://www.youtube.com/watch?v=cRcAoPrw1R0
-https://www.youtube.com/watch?v=2s0fTApRGTk
+\>Myriad Celestia Trailer — "Kyoden: A Cleave Across the Transient World" 
+https://www.youtube.com/watch?v=Z3aWHMg92_U
+https://www.youtube.com/watch?v=XbWbOIxbFMA
 
 \>Animated Short: Rondo Across Countless Kalpas 
 https://www.youtube.com/watch?v=e5xueJq4Lwc

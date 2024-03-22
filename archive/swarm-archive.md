@@ -566,8 +566,8 @@ The links are in chronological order, from January 5, 2023 to February 19, 2024 
 | https://files.catbox.moe/n9iopg.jpg | (AI Art) Neuro exploring a cave (without panties) |
 | https://files.catbox.moe/e4t0by.jpg | (AI Art) Neuro in bed only with socks on |
 | https://files.catbox.moe/qs0sw2.png | (AI Art) Nude bottom Neuro |
-| https://files.catbox.moe/kv8byk.png | (Fanart) Neuro Koikatsu 3D model |
-| https://files.catbox.moe/t1ljds.png | (Fanart) Evil Koikatsu 3D model |
+| https://files.catbox.moe/kv8byk.png | (Fanart) Neuro Koikatsu Sunshine card |
+| https://files.catbox.moe/t1ljds.png | (Fanart) Evil Koikatsu Sunshine card |
 | https://files.catbox.moe/22d5e3.png | (AI Art) Neuro nakadashi |
 | https://files.catbox.moe/4hrwcj.jpg | (Fanart) Cryptid Neuro |
 | https://files.catbox.moe/w88jhw.jpg | (Fanart) Cryptid Neuro in the woods |

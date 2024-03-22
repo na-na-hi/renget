@@ -11,6 +11,96 @@ Elysian Realm: https://rentry.co/ely74
 
 
 ---
+####->%#00FFFF% NEW CONTENT (Beta v3)%%<-
+
+!!! info
+	THELEMA V3
+- Fixed camera issue when using Moment of Indulgence
+- Basic ATK subskill 1: Against BIO enemies, gain additional Total DMG +20% > 25%
+- Combo ATK subskill 2: Added Elemental Breach +5%.
+- Ultimate: 300% x 4 + 1000% -> 5x250% +1000% ATK of Ice DMG
+- Ultimate subskill 1: Added During Stellar Outburst, Ult Ice DMG +35%.
+- Evasion subskill 1: Evasion restore 60 > 100 HP.
+
+- Passive subskill 2: **Gain initial 35 sp.** During battle, after you stop attacking for 0.5s, moving, jumping or evasion will enable next attack to deal additional Ice DMG, DMG value will increase over time, reach max value after 2s, dealing an additional 400% > 350% ATK of Ice DMG at max. When using an attack to gain [Feast], if the attack type is different from the previous one, 
+	- V2: gain Ice DMG +40%, last for 5s (can be refreshed).
+	- V3: deal additional 200% ATK of Ice DMG.
+
+- Passive subskill 4: When Astral Ring is not active, Thelema gain Ice DMG +40% > 25% (S), and gain **NEW: [Total DMG +16% against BIO enemies]**,  enemies take +25%(S) > 27% (S) more Ice DMG from Thelema (independent multiplier).
+
+- Passive subskill 5 is moved to AR subskill 5
+
+- New Astral Ring subskill 5: After SO ends, gain Stellar Drain. **NEW: [Outside SO, enemies take 20% more Ice DMG from Thelema.]** On hit, [Moment of Indulgence] will consume Stellar Drain, restoring 10 points of Astral Ring intensity.  When Astral Ring [World Star] or [Wheels of Fortune] is active, restore an additional 10 points of Astral Ring intensity. Upon entering battle, Thelema gains initial Stellar Drain, this effect can only be triggered once every 10 mins in part 2 map.
+
+- AR subskill 2: 
+	- V2: For every team member with AR [World Star], enemies take 4% more Total DMG, and all characters gain Total DMG +4% when not in Stellar Outburst, increase the effect by 4% when in Stellar Outburst.
+	- V3: For every team member with AR [World Star],  all characters gain Total DMG +5% when not in Stellar Outburst, increase the effect by 3% when in Stellar Outburst.
+
+- AR subskill 4:
+Outside of Stellar Outburst, characters with AR [Wheel of Fortune] gain Physical and Elemental DMG +22.5% > 25% (S)
+
+- AR subskill 5:
+	- V2: When Astral Ring [World Star] is active, all team members will be buffed upon casting [A Moment of Indulgence]: Team Total DMG +4% and enemies on the field take 4% more Total DMG for 30s, can be refreshed. This effect is also activated during Stellar Outburst. For every team member with AR: World Star, gain additional Total DMG +4% and the Total DMG debuff +4%.
+	- V3: When Astral Ring [World Star] is active, all team members will be buffed upon casting [A Moment of Indulgence]: Team Total DMG +6% and enemies on the field take 10% more Total DMG for 30s, can be refreshed. 
+
+---
+!!! info
+	THELEMA STIGMA
+**NOTE: RIGHT NOW, PATCH NOTE AND IN-GAME EFFECTS DO NOT MATCH.**
+
+PATCH NOTE:
+- Thelema M: Changed the [Ice DMG bonus] to [Elemental DMG and Crit DMG bonus]
+- Litost B: Removed the Drink for Two trigger effect.
+- 3PC: Added Drink for Two trigger effect.
+- 3PC: Changed [Total DMG buff] to [Enemy TDM Taken]
+
+---
+
+IN GAME
+
+MID: Thelema equip bonus: Enemies take +20% > 25% more Ice DMG from host. 
+
+BOT: Removed Drink for Two trigger (currently still present in beta)
+
+
+2PC: 
+- V2: Total DMG +25%. Thelema equip bonus: When Astral Ring [World Star] is active, for every team member with Astral Ring [World Star], all enemies on the field take +6% more Lightning and Total DMG.
+- V3: Total DMG +20%. Thelema equip bonus: Team Shield DMG +20%. When Astral Ring [Wheel of Fortune] is active, the effect is increased by 20%. When Astral Ring [World Star] is active, for every team member with Astral Ring [World Star], all enemies on the field take +6% more Lightning and Total DMG.
+
+3PC:
+
+v2:
+Host Total DMG resistance +20%. Ice DMG +20%.
+Thelema equip bonus: Enemies receive +5% more Ice DMG from host (independent multiplier) (cannot be stacked).
+If Astral Ring [World Star] is active, when Thelema is on the field, all enemies take +30% more Total DMG from [Resonance ATK].
+If Astral Ring [Wheels of Fortune] is active, attacks from characters with Astral Ring [Wheels of Fortune] will be able to trigger [Drink for Two] as well, additionally, [Drink for Two] will also grant all team members with [Shadows of Drifting Stars] tag Total DMG +35% when in Stellar Outburst.
+
+v3:
+Host Total DMG resistance +20%. Ice DMG +20%.
+Thelema equip bonus: Enemies receive +5% more Ice DMG from host (independent multiplier) (cannot be stacked), and attack will apply [Drink for Two] to the team, enemies take 35% more Total DMG from characters with AR Wheel of Fortune, and another 10% during Stellar Outburst.
+If Astral Ring [World Star] is active, enemies take 10% more Total DMG. When Thelema is on the field, all enemies take +30% more Total DMG from [Resonance ATK]. If Astral Ring [Wheels of Fortune] is active, attacks from characters with Astral Ring [Wheels of Fortune] will be able to trigger [Drink for Two] as well, additionally, [Drink for Two] will also grant all team members with [Shadows of Drifting Stars] tag Total DMG +35% when in Stellar Outburst.
+
+
+---
+
+FOV
+- Fixed an issue where QTE sometimes doesnt trigger time fracture
+
+Deepspace Anchor
+- Increased vertical attack range (wow nice mihoyo)
+
+
+
+
+
+
+
+
+ENEMIES
+- Adjusted stats, and mechanics of new Abyss and MA bosses
+
+- Adjusted Battle UI on PC
+
 
 
 ####->%#00FFFF% NEW CONTENT (Beta v2)%%<-

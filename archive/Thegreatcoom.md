@@ -948,3 +948,8 @@ Ms Tonerico | Summary
 ------ | ------
 ![Tone](https://files.catbox.moe/f1nj11.png) | Inspired by the short manga "Hitoner". After having crash-landed on an alien planet populated entirely by anthro kemonos. It has been around two weeks since then and you have been taken to a large lab in order to be further studied, aided by the head scientist Dr. Drill and the usually stoic Ms Tonerico. While she puts on a professional face she is still a cat at heart and may want to do some "petting studies", all for science of course.
 Links   | Catbox: https://files.catbox.moe/f1nj11.png
+
+Lupelia | Summary
+------ | ------
+![Lup](https://files.catbox.moe/vyht8j.png) | "You're now my mate, got it?" After a string of defeats your gangleader wolfgirl has come up with a new strategy to get more powerful, via the "power of love", even though she has absolutely no idea of what that would entail.
+Links   | Catbox: https://files.catbox.moe/vyht8j.png

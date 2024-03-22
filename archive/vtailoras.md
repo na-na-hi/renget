@@ -1545,7 +1545,7 @@
 	(KaiSaikota, ponytail, navel, long hair, purple eyes, pointy ears, thighhighs, black gloves, black boots, black shorts, purple jacket, off shoulder, crop top, dragon girl, dragon horns, open clothes, fishnets, red hair, blue streaked hair, multicolored hair, tail)
 -> [Civitai](https://civitai.com/models/104529/kai-saikota-idol-corp-or-vtuber) <-
 
-#### -> (Origin) Kattarina Qutie <-
+#### -> (Origin) Kattarina Qutie (V1) <-
 !!! note Recommended weight: 0.55
 !!! info Example Prompt
 	(long hair, white hair, blue streaked hair, blue eyes, hairband, hair ornament, white sleeveless shirt, off shoulder, blue jacket, open jacket, yellow necktie, long sleeves, black skirt, black fingerless gloves, black thighhighs, thigh strap, black footwear)
@@ -1570,7 +1570,7 @@
 	(neosparkles, long hair, orange hair, multicolored hair, braid, ahoge, green eyes, fox girl, fox ears, fox tail, white shirt, blue hoodie, long sleeves, sleeves past wrists, yellow ribbon, white legwear, white footwear)
 -> [Catbox](https://files.catbox.moe/q2bjf4.safetensors) <-
 
-#### -> (Origin) Nikki Rei <-
+#### -> (Origin) Nikki Rei (V1) <-
 !!! note Recommended weight: 0.7
 !!! info Example Prompt
 	(nikkirei, long hair, blonde hair, ponytail, ahoge, hair ornament, hair ribbon, red eyes, bandaid on nose, necklace, grey jacket, long sleeves, fingerless gloves, white shirt, belt, black skirt, thigh strap, thighhighs, black footwear)

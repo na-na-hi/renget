@@ -5,7 +5,7 @@
 ![IMG-0863.gif](https://i.postimg.cc/4xCfhJc0/IMG-0863.gif)<-
 
 ->%lightpink%![pix](https://wilardo.crd.co/assets/images/gallery14/9c41eca2_original.gif?v=bca827db) ♡ **bold** ~ nft  ‎  ‎ ◞  [linked]() ~ in use  ‎  ‎ ◞  *italic* ~ *iffy* ![pix](https://autism.crd.co/assets/images/gallery02/939f07ee_original.png?v=69d6a439) 
-![pix](https://tomomi.neocities.org/pixeles/66.png) . ⊹　[platonic](https://retrospring.net/@platonic) on retrospring　![](https://tomomi.neocities.org/pixeles/93.gif) 　໒꒰ ៸៸ ◞ ˕ ◟ ៸៸ ꒱১
+![pix](https://tomomi.neocities.org/pixeles/66.png) . ⊹　[kissing](https://retrospring.net/@kissing) on retrospring　![](https://tomomi.neocities.org/pixeles/93.gif) 　໒꒰ ៸៸ ◞ ˕ ◟ ៸៸ ꒱১
  ![nurse mymelody](https://i.postimg.cc/x8xSNKdw/nrs_mldy.gif)  ‎  ‎  ₊˚⊹    ‎  ‎  ໒꒰ྀིっ˕ -｡꒱ྀི১   ‎  ‎  over   ‎  ‎  300+   ‎  ‎  urls   ‎  ‎ .ᐟ.ᐟ    ‎  ‎   ![pink headband](https://i.postimg.cc/Dyp2SKJS/hd_bnd.gif)    ‎  ‎  𓂃 ࣪ ₊˚⊹♡%%<-
 
 %lightpink% ending with ette◞  etta◞  ina ◞  ita ~ ! ![](https://tomomi.neocities.org/pixeles/103.gif)

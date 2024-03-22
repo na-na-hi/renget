@@ -53,7 +53,8 @@
 **LLM Tools**|
 [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)|Fine-tuning tool for various architectures with integrated support for flash attention and rope scaling 
 [LLM-Sampling](https://artefact2.github.io/llm-sampling/index.xhtml)|Token Probability visualizer with support for current popular samplers 
-[Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers 
+[Mergekit](https://github.com/cg123/mergekit)|Toolkit for merging LLMs including piecewise assembly of layers
+[Evo Model Merge](https://github.com/SakanaAI/evolutionary-model-merge)|Uses evolutionary algorithms to automatically discover effective merge ratios
 [promptfoo](https://github.com/promptfoo/promptfoo)|Tool for testing and evaluating LLM output quality also with side-by-side feature
 [Floneum](https://github.com/floneum/floneum)|Graph/node editor for AI workflows with a focus on community made plugins
 |
@@ -104,7 +105,8 @@
 [SUPIR](https://github.com/Fanghua-Yu/SUPIR)|Image restoration and upscale method with semantic adjustment editing ability
 [DDColor](https://github.com/piddnad/ddcolor)|Vivid and natural colorization for black and white photos (and possibly video) 
 [lama-cleaner](https://github.com/Sanster/lama-cleaner)|Local inpainting tool (remove or erase and replace) 
-[TripoSR](https://github.com/VAST-AI-Research/TripoSR)|Image-to-3D reconstruction model built upon the LRM network infastructure 
+[TripoSR](https://github.com/VAST-AI-Research/TripoSR)|Image-to-3D reconstruction model built upon the LRM network infrastructure 
+[DreamReward](https://github.com/liuff19/DreamReward)|Text-to-3D model fine-tuned with human preference data for superior generations
 [Ground-A-Video](https://github.com/Ground-A-Video/Ground-A-Video)|Video Editing via Text-To-Image diffusion models with groundings/motion/depth data
 [roop-cam](https://github.com/hacksider/roop-cam)|Real time face swap with webcam and one click video support
 [open_clip](https://github.com/mlfoundations/open_clip)|Recreation of the CLIP model as well as a method to run ViT/SigLIP/CLIPA models
@@ -112,8 +114,8 @@
 **Audio/Speech**|
 [Amphion](https://github.com/open-mmlab/Amphion)|Audio/Music/Speech toolset of various models with visualization capability 
 [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)|Few-shot voice cloning and Text-to-Speech WebUI (ENG/JPN/CHN)
+[VoiceCraft](https://github.com/jasonppy/VoiceCraft)|Zero shot Text-to-Speech and speech editing model with voice cloning capability
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can fine-tune with custom dataset)
-[WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
 [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
 [whisper.cpp](https://github.com/ggerganov/whisper.cpp)|Speech-to-Text inference library with CPU/GPU support for various whisper based models
 [AudioEditing](https://github.com/hilamanor/AudioEditing)|Zero-shot unsupervised and text-based audio editing using DPPM inversion 

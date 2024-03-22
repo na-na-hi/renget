@@ -20,7 +20,7 @@ You need to do ONE Thread Luxcavation and ONE Ticket Luxcavation. You’ll do th
 
 Every week, you’ll get Mirror Dungeon bonuses, which will get you a total of 66 boxes and 750 Lunacy. The most optimal way to get everything, at the least Module cost, is to do a single Mirror Dungeon Hard run. That way, you can collect all the rewards without needing to do three Normal runs. Mirror Dungeon Hard is much more difficult than the Normal version, so you might not be able to complete it when you’re in the early stages of the game
 
-3 refills per day, plus the 240 naturally generated Enkephalin, will give you about 5–6 (assuming you level up your account), which is around 45 shard boxes. By the end of the day, you’ll have 48 boxes, which should give you ~100 shards/thread. Assuming you follow the guide, that’ll give you enough boxes to shard 2.5 000 IDs from the dispenser, without doing any pulls.
+3 refills per day, plus the 240 naturally generated Enkephalin, will give you about 5–6 (assuming you level up your account), which is around 45 shard boxes. By the end of the day, you’ll have 48 boxes, which should give you ~100 shards/thread. Assuming you follow the guide, that’ll give you enough boxes to shard 2.5 000 IDs from the dispenser every week, without doing any pulls.
 
 Note: Opening more boxes is always better than opening them one at a time in to get the most shards.
 

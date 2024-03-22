@@ -85,11 +85,13 @@ Mako Sameshima V1 | - | - | -
 
 ## -> Idol Corp <-
 !!! info Available Loras without the need of updates and have been tested.
-	Yuko Yurei, Rin Penrose, Pochi Wanmaru (Old), Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako, Kattarina Qutie, Nikki Rei, Lily Sin, Emi Suika, Neo Sparkles, Juna Unagi, Roca Rourin,
+	Yuko Yurei, Rin Penrose, Pochi Wanmaru (Old), Fyuo Cloverfield, Riro Ron, Poko Rakun, Kai Saikota, Coni Confetti, Momo Otako, Kattarina Qutie V1, Nikki Rei V1, Lily Sin, Emi Suika, Neo Sparkles, Juna Unagi, Roca Rourin,
 
 Chuuba | Has Lora | Update Needed | Testing | Comment
 ------ | ------ | ------ | ------ | ------
-Pochi Wanmaru (New) | - | X | - | Redebut with new look happen so a new V2 updated lora will be necessary whenever more art/streams happen
+Pochi Wanmaru (V2) | - | - | - | Redebut with new look happen so a new V2 updated lora will be necessary whenever more art/streams happen
+Kattarina Qutie (V2)  | - | - | - | Genesis Redebut
+Nikki Rei (V2)  | - | - | - | Genesis Redebut
 
 ## -> VOMS <-
 !!! info Available Loras without the need of updates and have been tested.
@@ -148,10 +150,13 @@ Blaise Shinryu | X | X | -
 Amora Lumina | - | - | -
 Nanimo Navi | - | - | -
 
-## -> VSPO (x) <-
+## -> VSPO <-
 !!! info Available Loras without the need of updates and have been tested.
 	Kaga Sumire, Ichinose Uruha, Kurumi Noah, Tachibana Hinano, Kisaragi Ren, Tosaki Mimi, Asumi Sena, Hanabusa Lisa, Kaminari Qpi, Yakumo Beni, Aizawa Ema, Shinomiya Runa, Nekota Tsuna, Komori Met, Kaga Nazuna, Kogara Toto, Shiranami Ramune, Yumeno Akari, Yano Kuromu
-!!! note 100%! PERFECT (for now)
+
+Chuuba | Has Lora | Update Needed | Testing | Comment
+------ | ------ | ------ | ------ | ------
+Tsumugi Kokage | - | - | -
 
 
 ## -> Wactor <-
@@ -1321,6 +1326,14 @@ Tsukigami Len | - | - | -
 Akemi Haine | - | - | -
 Kurosaki Taiga | - | - | -
 Perfect Bomber | - | - | -
+Endoluphy☆ミ | - | - | -
+Zashikino Waraku | - | - | -
+Soda Cosmo | - | - | -
+BIG GUILTY AKUMA GUILTY CHAN | - | - | -
+Amanosakura Tsumugihime | - | - | -
+Saphir The Phantom Thief | - | - | -
+Akezaku Machi | - | - | -
+Edgar Fleming | - | - | -
 Gale Galleon | - | - | -
 Cassian Floros | - | - | -
 Lucien Lunaris | - | - | -

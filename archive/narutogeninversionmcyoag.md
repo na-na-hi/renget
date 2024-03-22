@@ -48,7 +48,7 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Ichika Chinoike
 >>92224854 →
 >Kita
->>92104750
+>>92247657 →
 
 >Team 4
 >Kiko Inuzuka
@@ -90,15 +90,21 @@ You can make a C+ Build, they just won't be participating in the exams.
 >Daiki Ueno
 >>92099009
 
+>Team 8
+>Rio Konoki
+>>92240837 →
+>Mitsuteru Chihoshi
+>>92243134 →
+>Kuro Blackshadow
+>>92091505
+>Choko Yumiya
+>>92229037 →
+
 >Teamless:
 >Taihō Shiryō.
 >>92065120
->Kuro Blackshadow
->>92091505
 >Mojo Nakasendou
 >>92130059 →
->Choko Yumiya
->>92229037 →
 >Eiji
 >>92132327 →
 >Rook
@@ -135,9 +141,10 @@ https://archive.4plebs.org/tg/thread/92193663/#92194017
 >>92157657 →
 >Koroko Kokoroko
 >>92235539 →
-
-#Tiermaker:
-https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
+>Mr. Hopo
+>>92249183 →
+>Lizard
+>>92249477 →
 
 #Writefags:
 Winner Winner:
@@ -158,6 +165,8 @@ New Things (Ichika, Kamiko, Kita)
 https://rentry.org/x586zu28
 The Snowclad Watcher (Sen, Natsuo, Kamiko, Heavy Mentions of Himari, Light Mentions of Takeru)
 https://rentry.org/hex8hpx9
+Shimabukuro Backstory
+https://rentry.org/ShimabukuroBackstory
 
 #Artfags
 Kiko's Genin Team 4 (Kiko, Itami, Remilia, Kazen)
@@ -213,6 +222,9 @@ https://rentry.org/KamikoRelations
 Sen
 https://rentry.org/tneot7wz
 
+
+#Tiermaker:
+https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
 
 #Tierlist
 Ship tierlist

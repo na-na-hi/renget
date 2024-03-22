@@ -331,6 +331,7 @@ https://twitter.com/hitomi_s_1030
 Inari One イナリワン役
 **Haruno Inoue 井上遥乃** (16 Sep)
 https://twitter.com/haruno_inoue
+https://www.instagram.com/haruno_sukeee
 
 Winning Ticket ウイニングチケット役
 **Yui Watanabe 渡部優衣** (4 Dec 1988)
@@ -445,6 +446,8 @@ https://www.youtube.com/playlist?list=PLL-75j-CMM6qJE0t-_7KoroP0ctrAjW6y
 Smart Falcon スマートファルコン役
 **Hitomi Oowada 大和田仁美** (23 Mar)
 https://twitter.com/owada_hitomi
+https://www.instagram.com/owada_hitomi
+
 Ongoing bangumi:
 大空直美・大和田仁美の「トリセカ」
 https://ch.nicovideo.jp/bigsw
@@ -524,6 +527,7 @@ https://www.youtube.com/playlist?list=PLb3hbfzpOZ2qYScrUtRQXP3Mv0oYXyupL
 Mr. C.B. ミスターシービー役
 **Yurina Amami 天海由梨奈** (7 Jul 1996)
 https://twitter.com/amamiyurina
+https://www.instagram.com/7amami7
 Ongoing bangumi:
 天海由梨奈のラジふぁぼ〜月曜日〜
 https://ch.nicovideo.jp/phonon/blomaga/ar2050215
@@ -692,6 +696,14 @@ Mejiro Bright メジロブライト役
 **Ayaka Oonishi 大西綺華** (19 Aug)
 https://twitter.com/ohnishid2
 
+![](https://i.imgur.com/LaM43s3.jpeg)![](https://i.imgur.com/UhaZIkC.jpeg)
+Daring Tact デアリングタクト役
+**Hina Youmiya 羊宮妃那** (26 Mar 2000)
+https://twitter.com/Hina_Youmiya
+Ongoing bangumi:
+A&G NEXT STEP 羊宮妃那のHOOOOPE!
+https://youtube.com/playlist?list=PLlP-aKKe1ZXMU0In2cQoeCvmqI2gq0GiW&si=AlEwwVbOOh5MtzU1
+
 Sakura Laurel サクラローレル役
 **Mizuki Mano 真野美月** (11 Jan)
 https://twitter.com/Mano_Miduki_
@@ -707,6 +719,31 @@ https://ch.nicovideo.jp/kannagake
 Yamanin Zephyr ヤマニンゼファー役
 **Riona Imaizumi 今泉りおな** (26 Jan)
 https://twitter.com/Imaizumiriona
+
+Furioso フリオーソ役
+**Aki Sairenji 西連寺亜希** (12 Jan)
+https://twitter.com/renren_aki
+
+Transcend トランセンド役
+**Yui Tsukada 塚田悠衣** (5 Jun)
+
+Espoir City エスポワールシチー役
+**Asaka 亜咲花** (7 Oct)
+https://twitter.com/AsakaOfficial
+https://twitter.com/asaka_info
+https://www.instagram.com/asaka_official/
+www.youtube.com/@asaka1007
+Ongoing bangumi:
+亜咲花の捜査FILE
+https://nicochannel.jp/a-sousakufile/
+
+North Flight ノースフライト役
+**Maria Sashide 指出毬亜** (20 Sep 1998)
+https://twitter.com/sashide_m
+https://www.instagram.com/mariasashide_/
+Ongoing bangumi:
+指出とサシで
+https://youtube.com/playlist?list=PLp53u9OWgRZQBzMblgRGD9MHQB86z6wrw&si=DTiTZ1I5cDp6sBW5
 
 Symboli Kris S シンボリクリスエス役
 **Meiku Harukawa 春川芽生** (11 Aug 1996)
@@ -733,6 +770,16 @@ https://ch.nicovideo.jp/Carin
 https://stand.fm/channels/6243f3047cd2c74328e0a4aa
 友梨・花凜・李央のらじおぽんぽこぽん
 https://www.onsen.ag/program/pon
+
+![](https://i.imgur.com/grpTGHa.jpeg)![](https://i.imgur.com/cQN9G81.jpeg)
+Mejiro Ramonu メジロラモーヌ役
+**Nao Toyama 東山奈央** (11 Mar 1992)
+https://toyamanao.com/
+https://twitter.com/naobou_official
+https://www.instagram.com/naobou_official/
+https://www.tiktok.com/@official_naotoyama
+https://youtube.com/@toyamanao
+https://ameblo.jp/naobouofficial/
 
 Aston Machan アストンマーチャン役
 **Honoka Inoue 井上ほの花** (9 Feb 1998)
@@ -765,6 +812,17 @@ https://www.youtube.com/playlist?list=PLST16oTAUGLeuntjeWfwfSueTREy6KYOM
 まいことゆうこの　ラジオK-production！
 https://www.onsen.ag/program/k-pro
 
+Verxina ヴィルシーナ役
+**Kaya Okuno 奥野香耶** (1 Mar)
+https://twitter.com/kaayaataaaan
+
+Vivlos ヴィブロス役
+**Ayasa Ito 伊藤彩沙** (17 Aug)
+https://twitter.com/ayasa_ito
+https://www.instagram.com/ayasacream
+https://www.threads.net/@ayasacream
+https://youtube.com/@teamy_official
+
 ![](https://i.imgur.com/9jfW72r.jpeg)![](https://i.imgur.com/yduAoop.jpeg)
 K.S. Miracle ケイエスミラクル役
 **Hinata Sato 佐藤日向** (23 Dec 1998)
@@ -778,6 +836,7 @@ https://www.onsen.ag/program/battle
 
 Copano Rickey コパノリッキー役
 **Konomi Inagaki 稲垣好** (24 Jul)
+https://x.com/konomi_inagaki
 
 ![Hokkaido Mountains](https://i.imgur.com/Pgn2jHE.jpeg)![](https://i.imgur.com/37GGZ2i.jpeg)
 Hokko Tarumae ホッコータルマエ役
@@ -787,6 +846,79 @@ https://twitter.com/syk_kikuchi
 Wonder Acute ワンダーアキュート役
 **Kanoko Sudo 須藤叶希** (20 Jan 1997)
 https://twitter.com/kanoko_sudo
+
+Sounds of Earth サウンズオブアース役
+**Makiko** (12 Dec)
+https://twitter.com/MAKIKO54654420
+
+Royce and Royce ロイスアンドロイス役
+**Rui Tanabe 田辺留依** (23 May)
+https://twitter.com/rui_kanimiso
+https://www.instagram.com/rui.kani_miso
+https://ameblo.jp/tanaberui
+
+Katsuragi Ace カツラギエース役
+**Natsumi Fujiwara 藤原夏海** (2 Jun)
+
+Neo Universe ネオユニヴァース役
+**Haruka Shiraishi 白石晴香** (8 Apr 1995)
+https://twitter.com/shiraharu48
+Ongoing bangumi:
+
+Hishi Miracle ヒシミラクル役
+**Sakura Kasuga 春日さくら** (12 Dec)
+https://twitter.com/sakura__1212__
+
+Tap Dance City タップダンスシチー役
+**Minami Shinoda 篠田みなみ** (3 Jun 1994)
+https://twitter.com/minami_shinoda
+https://www.instagram.com/da_mina63
+
+Duramentė ドゥラメンテ役
+**Akina 秋奈** (2 Nov 1995)
+https://twitter.com/Akina_1102
+
+Rhein Kraft ラインクラフト役
+**Nanae Kojima 小島菜々恵** (21 Apr 1998)
+https://twitter.com/KJnanae
+
+Cersario シーザリオ役
+**Haruka Sato 佐藤榛夏** (13 Aug)
+
+Air Messiah エアメサイア役
+**Yuna Nemoto 根本優奈** (26 Nov)
+https://twitter.com/n_yuna2031
+
+Daring Heart デアリングハート役
+**Shio Kisui 希水しお** (28 Mar)
+https://twitter.com/kisui_shio
+https://www.instagram.com/kisui_shio
+
+Orfevre オルフェーヴル役
+**Youko Hikasa 日笠陽子** (16 Jul)
+https://www.instagram.com/hikasayoko_official
+https://ameblo.jp/hikasayoko-official
+
+Gentildonna ジェンティルドンナ役
+**Yu Serizawa 芹澤優** (1994 3 Dec)
+https://twitter.com/iRis_s_yu
+https://www.instagram.com/seriko_is_no.1
+https://www.tiktok.com/@iris_s_yu
+
+Win Variation ウインバリアシオン役
+**Hika Tsukishiro 月城日花** (17 Mar)
+
+No Reason ノーリーズン役
+**Hiyori Kono 河野ひより** (21 Jun)
+https://twitter.com/konohiyori
+https://www.instagram.com/kono_hiyori
+
+Still in Love スティルインラブ役
+**Saki Miyashita 宮下早紀** (4 Dec)
+
+Dantsu Flame ダンツフレーム役
+**Haruna Fukushima 福嶋晴菜** (22 Apr)
+https://twitter.com/haruna_fukushim
 
 Happy Meek ハッピーミーク役
 **Miyu Yoshizaki 吉咲みゆ** (4 Oct)

@@ -25,7 +25,7 @@ Nyaa torrent (v.19, FLAC): https://nyaa.si/view/1359948 - [Magnet](magnet:?xt=ur
 "Timeout" version (FLAC/TrueAudio+cue): https://files.catbox.moe/amxubt.torrent - [Magnet](magnet:?xt=urn:btih:334a33bddf5dd15db4bcd5da2cbb1e0c514e86e5)
 
 #### Fork version (Up-to-date)
-!!!note Latest torrent version: v.5 (2024.03.21, up to C103). Albums are now in archived. Stalled...
+!!!note Latest torrent version: v.5 (2024.03.21, up to C103). Use archived albums. Stalled...
 
 Nyaa torrent (FLAC): https://nyaa.si/view/1792784 - [Magnet](magnet:?xt=urn:btih:4c260a728d2a0bdee75acdeff46fb7b9b21d5cf9&dn=%5BConnor_CZ%5D%20TLMC%20v5%20%28Touhou%20Lossless%20Music%20Collection%29%20-%20major%20format%20change&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce)
 

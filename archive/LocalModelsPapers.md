@@ -624,6 +624,10 @@
 03/2024|[Arcee's MergeKit: A Toolkit for Merging Large Language Models](https://arxiv.org/abs/2403.13257)
 03/2024|[Rotary Position Embedding for Vision Transformer](https://arxiv.org/abs/2403.13298)
 03/2024|[BiLoRA: A Bi-level Optimization Framework for Overfitting-Resilient Low-Rank Adaptation of Large Pre-trained Models](https://arxiv.org/abs/2403.13037)
+03/2024|[Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition](https://arxiv.org/abs/2403.14148)
+03/2024|[DreamReward: Text-to-3D Generation with Human Preference](https://arxiv.org/abs/2403.14613)
+03/2024|[Evolutionary Optimization of Model Merging Recipes](https://arxiv.org/abs/2403.13187)
+03/2024|[When Do We Not Need Larger Vision Models?](https://arxiv.org/abs/2403.13043)
 |
 |**Articles**
 03/2019|[Rich Sutton - The Bitter Lesson](https://archive.is/QqKWF)

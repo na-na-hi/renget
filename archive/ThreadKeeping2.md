@@ -62,7 +62,7 @@ RULES: https://rentry.org/b595h6dm
 >Tsugumi: >>92078303
 >Ghidorah: >>92069165 + Jutsus: https://rentry.org/xant7fe2
 >Junki Takenaga: >>92074519
->Sen Yamamoto: >>92132973+https://rentry.org/mkyze5fa
+>Sen Yamamoto: >>92132973 +https://rentry.org/mkyze5fa
 
 >Team 7
 >Hijiri Ishii: >>92210236
