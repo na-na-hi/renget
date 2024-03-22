@@ -189,6 +189,10 @@
 - Blazing fast streaming website where you can also download subtitled or dubbed anime in super HD quality.
 - [URL Safety Results](https://www.urlvoid.com/scan/hianime.to/)
 
+### ▶️ [HolyMix](https://holymix.netlify.app/)
+- High-quality anime, where viewers can enjoy ad-free streaming.
+- [URL Safety Results](https://www.urlvoid.com/scan/holymix.netlify.app/)
+
 ### ▶️ [Kaido](https://kaido.to/)
 - Dependable and quick anime streaming site. Benefit from outstanding features like HD resolution.
 - [URL Safety Results](https://www.urlvoid.com/scan/kaido.to/)

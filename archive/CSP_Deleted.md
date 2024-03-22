@@ -84,7 +84,7 @@
 **반무테 러프 채색 공용펜**|[2062275](https://assets.clip-studio.com/en-us/detail?id=2062275)|[DL](https://pixeldrain.com/u/28rFAH3n)|![](https://pbs.twimg.com/media/GFTcc-HbwAAoSAL)
 **髪ベタペン 改**|[2029672](https://assets.clip-studio.com/en-us/detail?id=2029672)|[DL](https://files.catbox.moe/x1q0rp.rar)|![](https://i.4cdn.org/ic/1708351057053223.png)
 ****|[2008806](https://assets.clip-studio.com/en-us/detail?id=2029672)|[DL](https://files.catbox.moe/6dlb49.rar)|![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/06/88/2008806/thumbnail)
-****|[]()|[DL]()|![]()
+**Webtoon work line drawing pen (웹툰작업선화펜)**|[2006182](https://assets.clip-studio.com/en-us/detail?id=2006182)|[DL](https://files.catbox.moe/laq3wz.sut)|![](https://web.archive.org/web/20230604201055im_/https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/82/61/2006182/thumbnail?1685779390)
 ****|[]()|[DL]()|![]()
 -> [**[TOP]**]() ->
 !!! danger

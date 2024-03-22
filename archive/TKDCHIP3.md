@@ -53,7 +53,11 @@
     >Hamas 
     >
     >WATCH: Al-Qassam (Hamas) published a video showing its forces target an IOF troop carrier (APC) in the Al-Zahra city, northwest of the Central Governorate.
-    >https://files.catbox.moe/cjczkw.mp4  New  3/20/24    
+    >https://files.catbox.moe/cjczkw.mp4  New  3/20/24   
+    ***
+    >Watch.. An enemy sniper shot with a 12.7-caliber bullet against fortifications in the vicinity of the Shifa complex in #Gaza City #Al-Aqsa_Flood
+    >https://files.catbox.moe/oo6ii4.mp4  New  3/21/24
+    ***
 !!!note 
     ### Hezbollah  
     >WATCH: Hezbollah published a video showing the operation that targeted the settlements of Gorn and Elon and the Ramta IOF site.
@@ -116,6 +120,10 @@
     ***
     >WATCH: Al-Quds Brigades published a video showing the targeting of IOF soldiers, east of the Central Governorate, with a guided (Malotka) missile and mortar shells.
     >https://files.catbox.moe/w84zv9.mp4  New  3/18/24
+    ***
+    >Al-Quds Brigades: 
+    >Scenes from within the military bases of the Al-Quds Brigades elite units in the Northern Gaza Brigade during the blessed month of Ramadan, "the month of jihad and resistance.
+    >https://files.catbox.moe/3o0mvs.mp4  New  3/21/24    
 ### AnsarAllah 
 !!!note
 ### Islamic Resistance Iraq
@@ -320,4 +328,7 @@
     >As Cyprus government allows British Military bases on the island to be used by UK to launch Airstrikes on Yemen.
     >
     >https://files.catbox.moe/nfpr9n.mp4  New  3/20/24 
+    ***
+    >Cooking oil is being used as an alternative to fuel in Gaza due to its shortage as a result of the stifling Israeli blockade.
+    >https://files.catbox.moe/g3isfd.mp4  New  3/21/24    
     ***

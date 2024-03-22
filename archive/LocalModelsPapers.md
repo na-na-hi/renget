@@ -309,6 +309,7 @@
 03/2024|[Yi: Open Foundation Models by 01.AI](https://arxiv.org/abs/2403.04652)
 03/2024|[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)
 03/2024|[VideoMamba: State Space Model for Efficient Video Understanding](https://arxiv.org/abs/2403.06977)
+03/2024|[VOICECRAFT: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://files.catbox.moe/sh7zvt.pdf)
 |
 |**Various**
 09/2014|[Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)

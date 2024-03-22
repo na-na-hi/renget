@@ -86,7 +86,7 @@ There is also older KoboldAI colab [GPU](https://koboldai.org/colab) version tha
 
 ### [Other cloud providers](https://files.catbox.moe/8nx0lh.jpg)
 
-There are other cloud hosts you can use with Kobold Lite. That includes everything under "Custom AI Endpoint". You can [pay](https://openai.com/) for [them](https://claude.ai) or get them for [free](https://rentry.org/desudeliveryservice). Or you can do [both](https://rentry.org/proxy4sale). A python script to add Claude support to Kobold Lite is [also available](https://rentry.org/storyproxy).
+There are other cloud hosts you can use with Kobold Lite. That includes everything under "Custom AI Endpoint". You can [pay](https://openai.com/) for [them](https://claude.ai) or get them for [free](https://rentry.org/desudeliveryservice). Or you can do [both](https://rentry.org/proxy4sale). A python script that provides OpenAI and KoboldAI compatible endpoints for Claude (both the legit API and proxies) is [also available](https://rentry.org/storyproxy).
 
 Use the above only at your own risk.
 

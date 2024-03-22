@@ -2773,3 +2773,102 @@
     >New York: Al-Mayadeen correspondent: The draft resolution includes an emphasis on the necessity of an immediate and sustainable ceasefire to “protect civilians from all parties.”
     >https://t.me/me_observer_TG/173051  3/20/24   
     ***
+!!!danger
+    >⚡️| 🌍 BIG SUMMARY of all resistance operations yesterday, March 20 (2024), against (US)-israeli forces:
+
+    >— 🇵🇸 Al-Qassam Brigades:
+    >
+    >🔻Targeted an IOF armored vehicle with Yassin 105s, in the Qarara area north of Khan Yunis.
+    >
+    >🔻Blew up a tunnel opening , upon the entry of an IOF force, causing casualties among its members in the Qarara area north of Khan Yunis.
+    >
+    >🔻Targeted 2 Merkava tanks with Yassin 105s, in the vicinity of Al-Shifa Hospital in Gaza City.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shelled a gathering of IOF soldiers and vehicles in the Qarara area, northeast of Khan Yunis, with regular 60mm caliber mortar shells.
+
+    >— 🇵🇸 Al-Aqsa Martyrs’ Brigades:
+    >
+    >🔻Targeted 2 IOF military vehicles with RPGs, in the vicinity of Al-Shifa Hospital in Gaza City.
+    >
+    >🔻Shelled gatherings of IOF soldiers and their military vehicles with mortar shells and 107mm rockets in the Netzarim axis, north of the central governorate.
+    >
+    >🔻Shelled a concentration of IOF soldiers and their military vehicles with regular 60mm caliber mortar shells, in the Qarara area, northeast of Khan Yunis.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Targeted an IOF military vehicle with an anti-tank rocket in the vicinity of Al-Shifa Hospital, in western Gaza City.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the Hunin Castle with rockets, causing direct hits.
+    >
+    >🔻Targeted the Ruwaisat Al-Alam site in the occupied Kfarshuba hills with rockets.
+    >
+    >🔻Targeted the Zebdine site in the occupied Shebaa Farms with rockets.
+    >
+    >🔻Targeted the Al-Marj site with artillery shells.
+    >
+    >🔻Targeted a building where Israeli soldiers were holed up, in the Metulla settlement, inflicting direct hits.
+    >https://twitter.com/AryJeay/status/1770724972668850260  3/21/24  
+    ***
+!!!warning
+    >Occupied Palestine: Resistance fighters target the occupation forces with bullets and explosive devices in Nour Shams camp in Tulkarm
+    >https://t.me/me_observer_TG/173191  3/21/24  
+    ***
+    >Cooking oil is being used as an alternative to fuel in Gaza due to its shortage as a result of the stifling Israeli blockade.
+    >https://t.me/QudsNen/99237  3/21/24  
+    >https://files.catbox.moe/g3isfd.mp4  3/21/24  
+    ***
+    >Renewed very violent armed clashes in Nour Shams camp..
+    >https://t.me/me_observer_TG/173192  3/21/24  
+    ***
+    >Pro-Palestinian activists besiege arms factories in Britain in protest of their complicity in the ongoing Israeli genocide in the Gaza Strip.
+    >https://t.me/QudsNen/99232  3/21/24  
+    ***
+    >How did Russia, China and Iran checkmate the West once again?
+    >
+    >NATO once again fell into the economic trap when it decided to go and defend Israeli ships and Israel itself from the Houthi blockade in the Red Sea.
+    >
+    >What is the score now?
+    >
+    >Another blow to the economy of Europe. Four times more expensive transport for their shipping companies, and far cheaper transport for the Chinese and Russian ones, which are not covered by the blockade.
+    >
+    >This will be a new financial blow for all Western shipping companies that will lose competitiveness in relation to Chinese and Russian ones.
+    >
+    >China and Russia will gradually increase their fleet, and the United States and especially Europe will park them one by one at the ports.
+    >
+    >Europe is run by very stupid people at the moment and that is a fact.
+    >https://t.me/megatron_ron/2376  3/21/24  
+    ***
+    >Urgent| Al-Quds Brigades: In conjunction with the Abu Ali Mustafa Brigades, we bombed the “Be’eri” settlement with a missile barrage.
+    >https://t.me/me_observer_TG/173299  3/21/24  
+    ***
+    >Urgent | #Hezbollah: We targeted the Al-Malikiyah site with artillery shells, and achieved a direct hit.
+    >https://t.me/me_observer_TG/173274  3/21/24  
+    ***
+    >A Palestinian doctor shared an image of a little girl observing Israeli tanks besieging al-Shifa Hospital, where hundreds of displaced Palestinians, most of whom are women and children, are taking shelter inside.
+    >https://t.me/QudsNen/99264  3/21/24  
+    ***
+    >Watch.. An enemy sniper shot with a 12.7-caliber bullet against fortifications in the vicinity of the Shifa complex in #Gaza City #Al-Aqsa_Flood
+    >https://t.me/me_observer_TG/173319  3/21/24  
+    >https://files.catbox.moe/oo6ii4.mp4  3/21/24  
+    ***
+    >Al-Quds Brigades: After our mujahideen returned from the clash areas east of Khan Yunis and in the Al-Qarara area north of Khan Yunis, they confirmed that they had carried out a number of tasks:
+    >
+    >- Our Mujahideen blew up a tunnel mouth with a Zionist force that tried to enter the tunnel, confirming that members of the force were killed and wounded in the Al-Qarara area, north of Khan Yunis.
+    >
+    >- Our Mujahideen clashed with a Zionist force with machine guns from a distance of zero east of Khan Yunis.
+    >
+    >Al-Aqsa Flood
+    >https://t.me/me_observer_TG/173335  3/21/24  
+    ***
+    >⚡️Al-Quds Brigades: 
+    >Scenes from within the military bases of the Al-Quds Brigades elite units in the Northern Gaza Brigade during the blessed month of Ramadan, "the month of jihad and resistance.
+    >https://twitter.com/warfareanalysis/status/1770840771932881260  3/21/24  
+    >https://files.catbox.moe/3o0mvs.mp4  3/21/24  
+    ***
+    >⚡️Al-Qassam Brigades targeted 3 Zionist tanks and an APC with "Al-Yasin 105" shells in the vicinity of Shifa Hospital in Gaza City.
+    >https://twitter.com/warfareanalysis/status/1770874169900531948  3/21/24  
+    ***

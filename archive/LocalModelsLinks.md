@@ -115,7 +115,7 @@
 [StyleTTS2](https://github.com/yl4579/StyleTTS2)|English Text-to-Speech via style diffusion (can fine-tune with custom dataset)
 [WhisperSpeech](https://github.com/collabora/WhisperSpeech)|Text-to-Speech made from inverting Whisper with voice clone capability
 [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)|Audio (speech and music) instruction tuned multimodal LLM 
-[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|Speech-to-Text model CPU inferenced with GPU offload and full GGUF quantization support
+[whisper.cpp](https://github.com/ggerganov/whisper.cpp)|Speech-to-Text inference library with CPU/GPU support for various whisper based models
 [AudioEditing](https://github.com/hilamanor/AudioEditing)|Zero-shot unsupervised and text-based audio editing using DPPM inversion 
 [RVC](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)|Retrieval based Voice Conversation model 
 [Urhythmic](https://github.com/bshall/urhythmic)|Unsupervised rhythm modeling for voice conversion

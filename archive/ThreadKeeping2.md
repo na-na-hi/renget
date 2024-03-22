@@ -24,135 +24,86 @@ Previous Thread: [INSERT LINK TO PREVIOUS THREAD]
 Page 1
 ***
 ```
-RULES
-https://rentry.org/b595h6dm
+RULES: https://rentry.org/b595h6dm
 
->Chunin Exam Stage 1 Hub Post
->>92135567
+>Chunin Exam Stage 1 Hub Post: >>92135567
 
 >Team 1
->Natsuo Uchiha
->>92078251
->D
->>92035734
->Himari Miko
->>92227101 + Jutsus: https://rentry.org/HimariJutsu
->Takeru Suzuki
->>92037873
+>Natsuo Uchiha: >>92078251
+>D: >>92035734
+>Himari Miko: >>92227101 + Jutsus: https://rentry.org/HimariJutsu
+>Takeru Suzuki: >>92037873
 
 >Team 2
->Osamu
->>92030854
->Shimabukuro Fumio
->>92034456
->Kichōna
->>92030925 + Jutsus: https://rentry.org/NardoKichonaJutsuList
->Nodao-Douji
->>92130402
+>Osamu: >>92030854
+>Shimabukuro Fumio: >>92034456
+>Kichōna: >>92030925 + Jutsus: https://rentry.org/NardoKichonaJutsuList
+>Nodao-Douji: >>92130402
 
 >Team 3
->Kamiko Karatachi
->>92045112
->Masukuda Rarime
->>92226219 + Jutsus: https://rentry.org/nbd7ikrf
->Ichika Chinoike
->>92224854
->Kita
->>92104750
+>Kamiko Karatachi: >>92045112
+>Masukuda Rarime: >>92226219 + Jutsus: https://rentry.org/nbd7ikrf
+>Ichika Chinoike: >>92224854
+>Kita: >>92247657
 
 >Team 4
->Kiko Inuzuka
->>92046953
->Remilia Orochimaru
->>92067086
->Itami Nanae
->>92041809
->Kazen Uzumaki (No Yin Chakra Affinity)
->>92129825 + Jutsus: https://rentry.org/5kp2svbp
+>Kiko Inuzuka: >>92046953
+>Remilia Orochimaru: >>92067086
+>Itami Nanae: >>92041809
+>Kazen Uzumaki (No Yin Chakra Affinity): >>92129825 + Jutsus: https://rentry.org/5kp2svbp
 
 >Team 5
->Ezaki Tuto
->>92143158
->Jin Hyuga
->>92067527
->Shinrō Kamotai
->>92225522 + Jutsus: https://rentry.org/ShinroJutsu
->Yuma Kouda
->>92056996
+>Ezaki Tuto: >>92143158
+>Jin Hyuga: >>92067527
+>Shinrō Kamotai: >>92225522 + Jutsus: https://rentry.org/ShinroJutsu
+>Yuma Kouda: >>92056996
 
 >Team 6
->Tsugumi
->>92078303
->Ghidorah
->>92069165 + Jutsus: https://rentry.org/xant7fe2
->Junki Takenaga
->>92074519
->Sen Yamamoto
->>92132973+https://rentry.org/mkyze5fa
+>Tsugumi: >>92078303
+>Ghidorah: >>92069165 + Jutsus: https://rentry.org/xant7fe2
+>Junki Takenaga: >>92074519
+>Sen Yamamoto: >>92132973+https://rentry.org/mkyze5fa
 
 >Team 7
->Hijiri Ishii
->>92210236
->Fujiwara Nobutake
->>92104939
->Kamare Hozuki
->>92097216
->Daiki Ueno
->>92099009
+>Hijiri Ishii: >>92210236
+>Fujiwara Nobutake: >>92104939
+>Kamare Hozuki: >>92097216
+>Daiki Ueno: >>92099009
+
+>Team 8
+>Rio Konoki: >>92240837
+>Mitsuteru Chihoshi: >>92243134
+>Kuro Blackshadow: >>92091505
+>Choko Yumiya: >>92229037
 
 >Teamless:
->Taihō Shiryō.
->>92065120
->Kuro Blackshadow
->>92091505
->Mojo Nakasendou
->>92130059
->Choko Yumiya
->>92229037
->Eiji
->>92132327
->Rook
->>92209072
+>Taihō Shiryō.: >>92065120
+>Mojo Nakasendou: >>92130059
+>Eiji: >>92132327
+>Rook: >>92209072
 
 >Loners:
->Ahiratsu Ōtsutsuki
->>92073651
->Darkbone
->>92064881
->Kijyo-Douji
->>92092125
->Engetsu Bōfū
->>92101140
+>Ahiratsu Ōtsutsuki: >>92073651
+>Darkbone: >>92064881
+>Kijyo-Douji: >>92092125
+>Engetsu Bōfū: >>92101140
+>Inaba Hyuga: >>92178816
+>Insane Wild Boar: >>92164715
+>???: >>92164855
+>Setsu Suru: >>92181406
+>Sado Mazohisuto: >>92181768
+>Kanami-Douji: >>92194017
+>Barou: >>92099661
+>Sekka Hakobu: >>92143990
+>Gyū: >>92157552
+>Yōki: >>92157657
+>Koroko Kokoroko: >>92235539
+>Mr. Hopo: >>92249183
 ```
 ***
 Page 2
 ***
 ```
-Loners (Cont).
->Inaba Hyuga
->>92178816
->Insane Wild Boar
->>92164715
->???
->>92164855
->Setsu Suru
->>92181406
->Sado Mazohisuto
->>92181768
->Kanami-Douji
->>92194017
->Barou
->>92099661
->Sekka Hakobu
->>92143990
->Gyū
->>92157552
->Yōki
->>92157657
->Koroko Kokoroko
->>92235539
-
-
 Tiermaker:
 https://tiermaker.com/create/naruto-chunin-mcyoag-template-16244798
 
@@ -173,7 +124,9 @@ Kamare's dilemma
 https://pastebin.com/JQ98X9ae
 New Things (Ichika)
 https://rentry.org/x586zu28
-The Snowclad Watcher (Sen, Natsuo, Kamiko, Heavy Mentions of Himari, Light Mentions of Takeru)
+About 80 Years ago
+https://rentry.org/ShimabukuroBackstory
+The Snowclad Watcher (Sen, Natsuo, Kamiko, Many Mentions)
 https://rentry.org/hex8hpx9
 
 Artfags:
@@ -518,7 +471,13 @@ Our Dearest Librarian (Amane, Akari, Yoru, Haruhi)
 https://rentry.org/5b2bq44i
 Just Dere Now (Ikari Michita, Mithran Kuro, Mari Aozaki, Mentions of Akari Ichioka)
 https://rentry.org/f74au7v2
-
+White Day Blues (Makoto, Haruhi, Yoru)
+https://rentry.org/4pbm29u4
+```
+***
+Page 3
+***
+```
 >Relationship Charts
 Emilia Shadowsong
 https://rentry.org/itwvp
@@ -532,11 +491,7 @@ Makoto's Super Special Sugar Selection (Updated!)
 https://rentry.org/t7quhk
 Mari's relationship chart.
 https://rentry.org/uvq7iaar
-```
-***
-Page 3
-***
-```
+
 >Artfags
 Sloth and Gluttony Meetup
 https://archive.4plebs.org/tg/post/91495387/
@@ -592,8 +547,7 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 
 >New Stuff:
 New Art:
->impakt
->>92217693
+The great beast rests and gathers its strength
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

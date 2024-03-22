@@ -398,6 +398,17 @@
 -> [Catbox](https://files.catbox.moe/9y8u5x.safetensors) <-
 -> [MEGA](https://mega.nz/folder/NyMAnSiK#VnTawAi_MFW-OozTCXAdqw/file/UuUwEDqJ) <-
 
+#### -> Amber Glow <-
+-> ![AMBER GLOW](https://files.catbox.moe/cxyj9r.png) <-
+***
+##### -> Xiulan Long <-
+!!! info When prompting her from behind, be sure to add (back tattoo, dragon tattoo) into the tags, this adds her back tattoo into the output. Tail color might be RNG but its supposed to be the same as her hair color.
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	xiulanlong, long hair, short hair, low twintails, medium breasts, hair ornament, black thighhighs, black gloves, elbow gloves, blue dress, hair between eyes, bare shoulders, blue hair, orange eyes, horns, choker, pointy ears, high heels, halterneck, demon girl, demon horns, blue footwear, dragon tail
+-> [Catbox](https://files.catbox.moe/1bkq76.safetensors) <-
+
 #### -> Varium <-
 -> ![VARIUM](https://files.catbox.moe/3xrii5.png) <-
 ***
@@ -547,6 +558,14 @@
 !!! info Example Prompt
 	(yuuka, medium hair, grey hair, ahoge, low twintails, green ribbon, hair ornament, red eyes, white headwear, flower, koala girl, koala ears, pink cardigan, long sleeves, open cardigan, white shirt, frills, pink bow, black dress, white thighhighs, black footwear)
 -> [Catbox](https://files.catbox.moe/iake84.safetensors) <-
+
+##### -> Rokuri Syao <-
+!!! note Tags suggested by uploader, not me
+!!! note Recommended weight: 1 (according to CCC)
+!!! info Example Prompt
+	Base: rokurisyao, breasts, blush, hair ornament, single thighhigh, medium breasts, white jacket, green fur trim, green eyes, ahoge, green hair, neon yellow wings, horns, black gloves, hair flower, fingerless gloves, fangs, dragon horns, dragon girl, dragon tail, dragon wings
+	Second outfit: rokurisyao, breasts, blush, hair ornament, medium breasts, green eyes, ahoge, green hair, neon yellow wings, horns, hair flower, fangs, dragon horns, dragon girl, dragon tail, dragon wings, white dress, camisole, round framed eyewear
+-> [Catbox](https://files.catbox.moe/e2m1hp.safetensors) <-
 
 #### -> Misc <-
 ***
@@ -994,6 +1013,10 @@
 
 ##### -> Nekomiya Hinata <-
 -> [Civitai](https://civitai.com/models/356978/nekomiya-hinata-ponydiffusion-xl-v6lora) <-
+
+##### -> Lucy Pyre [V2] <-
+!!! info 2 Outfits (V2 main + Swimsuit), looks pretty awful so if anyone can, please make a better one?
+-> [Civitai](https://civitai.com/models/361939/lucy-pyre-vtuber-ponyxl) <-
 
 #### -> Misc <-
 ***

@@ -6,17 +6,18 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 296th time, what is Ope?!
+For the 297th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
-Next stream (post Japan zatsudan, Tue 03/21 8:30PM CT)
+Next appearance (Speak of the Devil Ironmouse collab on Ironmouse's channel, Fri 03/22 3PM CT)
+https://www.twitch.tv/ironmouse
+Next confirmed stream: Final Fantasy VII Rebirth (Sat 03/23 7PM CT)
+Last stream (post Japan zatsudan)
 https://www.youtube.com/watch?v=O6NcRHNDuZ0
-Previous appearance (Twilight Breaking Dawn Pt. 2 watchalong with Iofi, Shiori, Bijou, Fauna and Mumei)
-https://www.youtube.com/watch?v=I5STCRWuZJY
-Last stream (Final Fantasy VII Rebirth)
-https://www.youtube.com/watch?v=Itp2TxEg-zk
+Previous appearance (Fauna's birthday stream game)
+https://www.youtube.com/watch?v=vLWmHwX4eKQ&t=4367s
 
 \>Songs
 Jewelbird cover of VIVINOS - OTOMEROID
@@ -37,7 +38,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>71935919
+Previous thread: >>71997860
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

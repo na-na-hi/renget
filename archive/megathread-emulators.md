@@ -289,11 +289,15 @@
 - Structured and accessible 200TB video game collection.
 - [URL Safety Results](https://www.urlvoid.com/scan/myrient.erista.me/)
 
+### 🔗 [NswRom](https://nswrom.com/)
+- Download all Nintendo Switch NSZ, NSP, and XCI game ROMs for free.
+- [URL Safety Results](https://www.urlvoid.com/scan/nswrom.com/)
+
 ### 🔗 [nsw2u](https://nsw2u.com/)
 - Number of Switch ROMs that you can effortlessly and securely download.
 - [URL Safety Results](https://www.urlvoid.com/scan/nsw2u.com/)
 
-### 🔗 [NXBrew](https://nxbrew.com/)
+### 🐐 [NXBrew](https://nxbrew.com/)
 - Most recent NSPs, XCIs, and NSZs for the Nintendo Switch with only one click.
 - [URL Safety Results](https://www.urlvoid.com/scan/nxbrew.com/)
 
@@ -313,9 +317,13 @@
 - Most comprehensive range of excellent ROMs available for free download.
 - [URL Safety Results](https://www.urlvoid.com/scan/romhustler.org/)
 
-### 🔗 [Roms Lover](https://romslover.com/)
-- Decent selection of roms from vintage Nintendo classics.
-- [URL Safety Results](https://www.urlvoid.com/scan/romslover.com/)
+### 🔗 [ROMSIM](https://romsim.com/)
+- Games for handheld consoles, ROMs, and Emulators for PC, aiming to simplify the gaming experience.
+- [URL Safety Results](https://www.urlvoid.com/scan/romsim.com/)
+
+### 🔗 [Romslab](https://romslab.com/)
+- Massive collection of free Switch ROMs, including emulators, DLCs, and much more.
+- [URL Safety Results](https://www.urlvoid.com/scan/romslab.com/)
 
 ### 🔗 [Romspedia](https://www.romspedia.com/)
 - Encyclopedia for ROMs and ISOs, where you may download heaps of games.
@@ -328,6 +336,10 @@
 ### 🐐 [RomUlation](https://www.romulation.org/)
 - Retro console games on your PC. Relive your childhood right now.
 - [URL Safety Results](https://www.urlvoid.com/scan/romulation.org/)
+
+### 🔗 [TAODUNG](https://taodung.com/)
+- Access and download free Switch ROMs NSP, XCI, and NSZ directly.
+- [URL Safety Results](https://www.urlvoid.com/scan/taodung.com/)
 
 ### 🐐 [Vimm's Lair](https://vimm.net/)
 - Devoted to fond memories of several of the best systems and thousands of games.
