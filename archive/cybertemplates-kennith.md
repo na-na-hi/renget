@@ -1,5 +1,5 @@
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/kennith%20dotted%20border%20top.png)<-
-->![graphic made by luvlyvillainess on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/ghost%20and%20pals/kennith%20simmons/kennith%20graphic%20png%201-3%20gif.gif)<-
+->![graphic made by nwrsie on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/ghost%20and%20pals/kennith%20simmons/kennith%20graphic%20png%201-3%20gif.gif)<-
 ***
 ->❝ %#feb6af%soon we'll televise our%% ❞<-
 ->╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮<-
@@ -12,4 +12,4 @@
 ***
 ->![ds](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/tech/IMG_6394.gif) %#feb6af%[link](https://rentry.org/cybertemplates-kennith)%% ⇆ %#feb6af%[link](https://rentry.org/cybertemplates-kennith)%% ⇆ %#feb6af%[link](https://rentry.org/cybertemplates-kennith)%% ![ds](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/tech/IMG_6394.gif)<-
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/kennith%20dotted%20border%20bottom.png)<-
-%#feb6af%[©](https://www.tumblr.com/luvlyvillainess)%%
+%#feb6af%[©](https://www.tumblr.com/nwrsie)%%

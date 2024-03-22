@@ -1,5 +1,5 @@
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/anya%20dotted%20border%20top.png)<-
-->![graphic by luvlyvillainess on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/spy%20x%20family/anya%20forger/IMG_9260.gif)<-
+->![graphic by nwrsie on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/spy%20x%20family/anya%20forger/IMG_9260.gif)<-
 ***
 ->❝ %#f9929b% i can use my power ... %% ❞<-
 ->╔══ஓ๑♡๑ஓ══╗<-
@@ -12,4 +12,4 @@
 ***
 ->![ballet slippers](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_6201_2_1.gif) %#f9929b% [link](https://rentry.org/cybertemplates-anya)%% ♡ %#f9929b% [link](https://rentry.org/cybertemplates-anya)%% ♡ %#f9929b% [link](https://rentry.org/cybertemplates-anya)%% ![ballet slippers](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_6201_2_1.gif)<-
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/anya%20dotted%20border%20bottom.png)<-
-%#f9929b% [©](https://www.tumblr.com/luvlyvillainess)%%
+%#f9929b% [©](https://www.tumblr.com/nwrsie)%%

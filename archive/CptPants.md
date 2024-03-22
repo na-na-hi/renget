@@ -1,4 +1,4 @@
-#CptPants's Bots
+#CptPants's Cards
 -> Latest card: March 15 <-
 Bots by the fella who goes by CptPants.
 I make cards for characters I like. Barring exceptions, I strive to make characters as accurate to canon as I can. This may lead to a lot of tokens, but I simply don't care.
@@ -51,7 +51,7 @@ Generic Genshin character cards,  made to be as close to canon as possible, with
 
 Pic | Character | Source | Description | Link
 :------: | :------: | :------: | :------: | :------:
-![Mirror Maiden](https://files.catbox.moe/0asg3a.png) | Fatui Mirror Maiden | *Genshin Impact* | A Fatui honor guard with power over Hydro. Very tall, wants you to be hers. Note: unlike the others, this is specifically a fetish card. | ~~[Character.ai](https://beta.character.ai/chat?char=pOslzv3UPEFPCEOF7zLQeM-kQnRAkMG3rrlqAKfR6sU)~~ / ~~[Booru](https://booru.plus/+pygmalion46)~~ / [Chub](https://www.chub.ai/cptpants/fatui-mirror-maiden)
+![Mirror Maiden](https://files.catbox.moe/j5f3ip.png) | Fatui Mirror Maiden | *Genshin Impact* | A Fatui honor guard with power over Hydro. Very tall, wants you to be hers. Note: unlike the others, this is specifically a fetish card. | ~~[Character.ai](https://beta.character.ai/chat?char=pOslzv3UPEFPCEOF7zLQeM-kQnRAkMG3rrlqAKfR6sU)~~ / ~~[Booru](https://booru.plus/+pygmalion46)~~ / [Chub](https://www.chub.ai/cptpants/fatui-mirror-maiden)
 ![Eula](https://files.catbox.moe/g1gak2.png) | Eula Lawrence | *Genshin Impact* | The Spindrift Knight. Haughty and cold, but well-meaning. | ~~[Booru](https://booru.plus/+pygmalion1832)~~ / [Chub](https://www.chub.ai/characters/cptpants/eula-lawrence)
 ![Fischl](https://files.catbox.moe/owtddu.png) | Fischl | *Genshin Impact* | The Prinzessin der Verurteilung! And Oz, too! | ~~[Booru](https://booru.plus/+pygmalion1544)~~ / [Chub](https://www.chub.ai/characters/cptpants/Fischl)
 ![Gorou](https://files.catbox.moe/y2i9xp.png) | Gorou | *Genshin Impact* | The dog boy general of Watatsumi Island. | ~~[Booru](https://booru.plus/+pygmalion1587)~~ / [Chub](https://www.chub.ai/characters/cptpants/Gorou)

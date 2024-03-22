@@ -1,9 +1,10 @@
 #PonyXL Notes
+Pony Diffusion is an SDXL finetune that despite what it's name might imply has very good knowledge of NSFW concepts across many different art styles, including anime. The base style is a bit rough but once you pair it with a known artist or style LORA you'll find that it has unmatched control compared to other local models.
 
 [TOC2]
 
 ##Get PonyXL here
-https://civitai.com/models/257749?modelVersionId=290640
+ https://civitai.com/models/257749?modelVersionId=290640
 
 Anons have been experimenting with merging PonyXL with other checkpoints/loras, the following autism mixes have been popular, the DPO one has a much better default style out of the box, PonyXL LoRAs do still work on them but they may have a reduced strength. It seems these mixes generally have better hand anatomy although some complain that it gives it more of a 2.5D "aomslop" look.
 
@@ -283,6 +284,7 @@ https://files.catbox.moe/5oa88d.safetensors shadman
 https://files.catbox.moe/tccjiu.safetensors kylin 
 https://files.catbox.moe/7sgo6g.safetensors uno_makoto exmaple gen: https://files.catbox.moe/yt0ip7.png
 https://files.catbox.moe/vlmuy2.safetensors pixzapix 
+https://files.catbox.moe/yhyyqu.safetensors cinela
 
 **These are from the megas below, unmodified, if you want good example gens you can check in their respective megas.**
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo

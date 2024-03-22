@@ -49,10 +49,11 @@ For NAI users: sdwebui-nai-api
 >!~ Recommended upscalers? ~!
 4xAnimeSharp  | 4xfoolhardy_Remacri | 4xNomos8kDAT. Note that depending on the image style and use case one might work better than the others, so experiment.
 
->!~ Noob guides? ~!
-upscaling, danbooru tags, xyz plots, prompt editing: https://youtu.be/Jya6qcokqZQ
-img2img and inpainting basics: https://youtu.be/NJwg7HWiZQw
-hand fixing: https://youtu.be/g4Oggft64dI
+>!~ Guides/tutorials? ~!
+https://stable-diffusion-art.com/tutorials/
+Upscaling, danbooru tags, xyz plots, prompt editing: https://youtu.be/Jya6qcokqZQ
+Img2img and inpainting basics: https://youtu.be/NJwg7HWiZQw
+Hand fixing: https://youtu.be/g4Oggft64dI
 
 >!~ Best tool for simple gen retouching? ~!
 IOPaint (formerly LamaCleaner): https://huggingface.co/spaces/Sanster/iopaint-lama | https://www.iopaint.com/install

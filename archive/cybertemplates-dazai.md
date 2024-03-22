@@ -1,5 +1,5 @@
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/dazai%20dotted%20border%20top.png)<-
-->![graphic by luvlyvillainess on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/bungou%20stray%20dogs/dazai%20osamu/IMG_0481.gif)<-
+->![graphic by nwrsie on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/bungou%20stray%20dogs/dazai%20osamu/IMG_0481.gif)<-
 ***
 ->❝ %#bb9c80%there's nothing worth pursuing%% ❞<-
 ->╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮<-
@@ -12,4 +12,4 @@
 ***
 ->![bookshelf](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1006_1.gif) %#bb9c80%[link](https://rentry.org/cybertemplates-dazai)%% ʬʬ %#bb9c80%[link](https://rentry.org/cybertemplates-dazai)%% ʬʬ %#bb9c80%[link](https://rentry.org/cybertemplates-dazai)%% ![bookshelf](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1006_1.gif)<-
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/dazai%20dotted%20border%20bottom.png)<-
-%#bb9c80%[©](https://www.tumblr.com/luvlyvillainess)%%
+%#bb9c80%[©](https://www.tumblr.com/nwrsie)%%

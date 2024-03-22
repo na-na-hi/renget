@@ -41,3 +41,6 @@ https://hhg.booru.org/index.php?page=post&s=list
 /hhg/ fics:
 {PasteBro} https://www.dropbox.com/sh/yt9eyw09rgvo2zw/AAARltoYS1-aW-FYF8aQx4Pja?dl=0
 https://pastebin.com/u/mrkillwolf666/1
+
+/hhg/ AO3 fics:
+https://archiveofourown.org/collections/hhg_fics

@@ -32,7 +32,7 @@ Name|Description|Download|Instructions
 **ovlSysmodule**|A Tesla overlay that allows you to toggle sysmodules on the fly|[Download](https://github.com/WerWolv/ovl-sysmodules/releases/latest) | Copy **ovlSysmodules.ovl** to `/switch/.overlays`.
 **QuickNTP**|Syncs the Nintendo Switch time with a list of NTP Servers.|[Download](https://github.com/nedex/QuickNTP/releases/latest)| Copy **QuickNTP.ovl** to `/switch/.overlays/`.
 **Status Monitor Overlay**|Monitor Your hardware in real time!|[Download](https://github.com/masagrator/Status-Monitor-Overlay/releases/latest) | Copy **Status-Monitor-Overlay.ovl** to `/switch/.overlays/`.
-**sys-clk**|Switch sysmodule allowing you to set cpu/gpu/mem clocks according to the running application and docked state.|[Download](https://github.com/retronx-team/sys-clk/releases/latest) | Extract **sys-clk-x.x.x.zip** to root of SD card.
+**sys-clk**|Switch sysmodule allowing you to set cpu/gpu/mem clocks according to the running application and docked state.|[Download](https://github.com/retronx-team/sys-clk/releases) | Extract **sys-clk-x.x.x.zip** to root of SD card.
 **sys-ftpd-ovl**|Displays your internal IP address for FTP purposes.|[Download](https://github.com/SegFault42/sys-ftpd-ovl/releases/latest) | Copy **sys-ftpd-ovl.ovl** to `/switch/.overlays/`.
 
 #####Other Tools
@@ -41,7 +41,6 @@ Name|Description|Download| Instructions
 **emuiibo**|Use emulated Amiibo from overlay.|[Download](https://github.com/XorTroll/emuiibo/releases/latest)| Extract **emuiibo-vx.x.x.zip** and from `/SdOut/` copy the `/atmosphere/` and `switch` folders to your SD card.
 **ReverseNX-RT**|Alternative version of **ReverseNX** that can switch between handheld and docked mode in Real Time.|[Download](https://github.com/masagrator/ReverseNX-RT/releases/latest) | Extract **ReverseNX-RT_x.x.x.zip** to the root of your SD card.
 ShareNX Overlay|Share your last screenshot while ingame.|[Download](https://github.com/HookedBehemoth/ShareNX-Overlay/releases/latest)| Copy **ovlShareNX.ovl** to `/switch/.overlays/`.
-**SimpleModManager**|SimpleModManager is an homebrew app for the Nintendo Switch CFW : Atmosphere. It allows to manage your mods (via LayeredFS).|[Download](https://github.com/nadrino/SimpleModManager/releases/latest) | Copy **SimpleModManagerOverlay.ovl** to `/switch/.overlays/`.
 **sys-tune**|A simple background audio player|[Download](https://github.com/HookedBehemoth/sys-tune/releases/latest)| Extract **sys-tune-x.x.x-xxxxxxx.zip** to the root of your SD card.
 **TextReaderOverlay-NX**|Lets you view text (.txt) files on top of any foreground application|[Download](https://github.com/diwo/TextReaderOverlay-NX/releases/latest) | Extract **TextReaderOverlay-x.x.zip** to the root of your SD card.
 **EdiZon Overlay**|EdiZon Overlay functionality|[Download](https://github.com/proferabg/EdiZon-Overlay/releases/latest/) | Extract **EdiZonOverlay.zip** to the root of your SD card.

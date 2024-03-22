@@ -4,6 +4,7 @@
 Threads 152 - Current: Post-Pastebin era.
 =====================
 
+Thread 249 - Caked Up Edition: https://desuarchive.org/trash/thread/64247648/
 Thread 248 - Resting Sexdoll Face Edition: https://desuarchive.org/trash/thread/63792947/
 Thread 247 - We're Only Getting Started Edition: https://desuarchive.org/trash/thread/63685027/
 Thread 246 - Correct Bimbo Posture Edition: https://desuarchive.org/trash/thread/63263014/

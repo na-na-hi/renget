@@ -1,3 +1,27 @@
+>Missiles impact Zaporozhye
+https://files.catbox.moe/ecsfyi.mp4
+>X-101 impacts Zaporozhye HPP
+https://files.catbox.moe/6ofmp2.mp4
+>Missile impacts Kharkov CHPP-5
+https://files.catbox.moe/1bj3io.mp4
+>Kharkov CHPP-5 still burning
+https://files.catbox.moe/4lvv5k.mp4
+>Lancet vs MLRS that was aiming at Belgorod
+https://files.catbox.moe/hb8e0x.mp4
+>Hohol returns to his position after rotation and the forest is gone
+https://files.catbox.moe/gr7kuq.mp4
+>Dnepr HEPP in Zaporozhye destroyed
+https://files.catbox.moe/uxhnxb.mp4
+>Missile impacts HEPP in Zaporozhye
+https://files.catbox.moe/hjgxg1.mp4
+>Geran-2 drone over Krivoy Rog during missile strikes
+https://files.catbox.moe/xjrhhv.mp4
+>X-101 over Dnepropetrovsk
+https://files.catbox.moe/696ioh.mp4
+>Today's Kiev missile strike filmed by Western journos
+https://files.catbox.moe/5l7p18.mp4
+>Ukrainians near Rabotino receive rude wake up call
+https://files.catbox.moe/l0tdec.MP4
 >Putin: the Russian people can't be intimidated
 https://files.catbox.moe/f2zyeq.mp4
 >Abrams interior, Russian soldier pov

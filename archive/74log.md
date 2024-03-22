@@ -4,7 +4,7 @@ Info compiled by [Marisa Honkai](https://www.youtube.com/channel/UC0S7OwBRuCYyeZ
 ---
 
 V7.4 Patch Notes: https://rentry.co/74log
-Thelema Skill: https://rentry.co/selim74
+Thelema Skill: https://rentry.co/thelemav3 (v3) | https://rentry.co/selim74 (v2)
 Thelema Gear: https://rentry.co/thelemagear
 Senadina, Dreamseeker and Songque Changes: https://rentry.co/buff74/
 Elysian Realm: https://rentry.co/ely74
@@ -45,6 +45,12 @@ Outside of Stellar Outburst, characters with AR [Wheel of Fortune] gain Physical
 
 ---
 !!! info
+	THELEMA PRI-ARM CHAIN BLADE
+
+Enemies take +3.5%/7.0%/10.5% (V2) > +3/6/9%(V3) Total DMG from characters on the field (independent multiplier) (cannot be stacked).
+
+---
+!!! info
 	THELEMA STIGMA
 **NOTE: RIGHT NOW, PATCH NOTE AND IN-GAME EFFECTS DO NOT MATCH.**
 
@@ -54,32 +60,7 @@ PATCH NOTE:
 - 3PC: Added Drink for Two trigger effect.
 - 3PC: Changed [Total DMG buff] to [Enemy TDM Taken]
 
----
-
-IN GAME
-
-MID: Thelema equip bonus: Enemies take +20% > 25% more Ice DMG from host. 
-
-BOT: Removed Drink for Two trigger (currently still present in beta)
-
-
-2PC: 
-- V2: Total DMG +25%. Thelema equip bonus: When Astral Ring [World Star] is active, for every team member with Astral Ring [World Star], all enemies on the field take +6% more Lightning and Total DMG.
-- V3: Total DMG +20%. Thelema equip bonus: Team Shield DMG +20%. When Astral Ring [Wheel of Fortune] is active, the effect is increased by 20%. When Astral Ring [World Star] is active, for every team member with Astral Ring [World Star], all enemies on the field take +6% more Lightning and Total DMG.
-
-3PC:
-
-v2:
-Host Total DMG resistance +20%. Ice DMG +20%.
-Thelema equip bonus: Enemies receive +5% more Ice DMG from host (independent multiplier) (cannot be stacked).
-If Astral Ring [World Star] is active, when Thelema is on the field, all enemies take +30% more Total DMG from [Resonance ATK].
-If Astral Ring [Wheels of Fortune] is active, attacks from characters with Astral Ring [Wheels of Fortune] will be able to trigger [Drink for Two] as well, additionally, [Drink for Two] will also grant all team members with [Shadows of Drifting Stars] tag Total DMG +35% when in Stellar Outburst.
-
-v3:
-Host Total DMG resistance +20%. Ice DMG +20%.
-Thelema equip bonus: Enemies receive +5% more Ice DMG from host (independent multiplier) (cannot be stacked), and attack will apply [Drink for Two] to the team, enemies take 35% more Total DMG from characters with AR Wheel of Fortune, and another 10% during Stellar Outburst.
-If Astral Ring [World Star] is active, enemies take 10% more Total DMG. When Thelema is on the field, all enemies take +30% more Total DMG from [Resonance ATK]. If Astral Ring [Wheels of Fortune] is active, attacks from characters with Astral Ring [Wheels of Fortune] will be able to trigger [Drink for Two] as well, additionally, [Drink for Two] will also grant all team members with [Shadows of Drifting Stars] tag Total DMG +35% when in Stellar Outburst.
-
+Full changes are so long, just go read here https://rentry.co/thelemagear
 
 ---
 
@@ -90,17 +71,10 @@ Deepspace Anchor
 - Increased vertical attack range (wow nice mihoyo)
 
 
-
-
-
-
-
-
 ENEMIES
 - Adjusted stats, and mechanics of new Abyss and MA bosses
 
 - Adjusted Battle UI on PC
-
 
 
 ####->%#00FFFF% NEW CONTENT (Beta v2)%%<-

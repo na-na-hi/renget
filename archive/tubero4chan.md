@@ -14,6 +14,7 @@ Just don't be annoying about it. Otherwise, we'll be okay. labyu
 Sometimes it just can't be helped. But don't do it too much, okay? Or else the Jannies will purge us
 
  >List of Filipino Vtubers (hala madami-dami din pala sila)
+https://vtuber.asia/philippines/ (pinaka-mahabang list so far; click the '200 Vtuber Philippines' picture, may Google Sheet sa loob)
 https://virtualyoutuber.fandom.com/wiki/Category:Filipino
 https://hololist.net/language/filipino/
 

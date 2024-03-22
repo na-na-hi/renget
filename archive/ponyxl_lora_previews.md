@@ -500,6 +500,9 @@ https://files.catbox.moe/7sgo6g.safetensors uno_makoto exmaple gen: https://file
 [![1girl no scores](https://files.catbox.moe/goyl4x.png)](https://files.catbox.moe/tn5dkz.png)[![1girl scores](https://files.catbox.moe/md79t7.png)](https://files.catbox.moe/l72z0y.png)[![chun-li no scores](https://files.catbox.moe/jkdvuv.png)](https://files.catbox.moe/38hkqz.png)[![2b score_9 only](https://files.catbox.moe/lgcyab.png)](https://files.catbox.moe/dosqgh.png)[![korra scores](https://files.catbox.moe/c4d1n6.png)](https://files.catbox.moe/e8o3kv.png)
 https://files.catbox.moe/vlmuy2.safetensors pixzapix
 
+[![1girl no scores](https://files.catbox.moe/dq26k0.png)](https://files.catbox.moe/jkyiaz.png)[![1girl scores](https://files.catbox.moe/zdpkqb.png)](https://files.catbox.moe/x90nfe.png)[![chun-li no scores](https://files.catbox.moe/8u8njr.png)](https://files.catbox.moe/o7rlp5.png)[![2b score_9 only](https://files.catbox.moe/gmhvp9.png)](https://files.catbox.moe/mkzan5.png)[![korra scores](https://files.catbox.moe/zpv920.png)](https://files.catbox.moe/aj02ri.png)
+https://files.catbox.moe/yhyyqu.safetensors cinela
+
 [![1girl no scores](https://files.catbox.moe/gl31pm.png)](https://files.catbox.moe/h7z5cf.png)[![1girl scores](https://files.catbox.moe/eci3yv.png)](https://files.catbox.moe/bsu2sl.png)[![chun-li no scores](https://files.catbox.moe/3yjm69.png)](https://files.catbox.moe/3n9x1x.png)[![2b score_9 only](https://files.catbox.moe/dn8eb8.png)](https://files.catbox.moe/631zyu.png)[![korra scores](https://files.catbox.moe/weqcc0.png)](https://files.catbox.moe/thb6j7.png)
 https://files.catbox.moe/9qqq1s.safetensors suga_hideo
 

@@ -1,5 +1,5 @@
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/silverbell%20cookie%20dotted%20border%20top.png)<-
-->![graphic made by luvlyvillainess on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/cookie%20run/silverbell%20cookie/silverbell%20cookie%20graphic%20png%203-4%20gif.gif)<-
+->![graphic made by nwrsie on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/cookie%20run/silverbell%20cookie/silverbell%20cookie%20graphic%20png%203-4%20gif.gif)<-
 ***
 ->❝ %#8a97d3%my bell sings%% ❞<-
 ->╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮<-
@@ -12,4 +12,4 @@
 ***
 ->![key](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/angel/IMG_0664.gif) %#8a97d3%[link](https://rentry.org/cybertemplates-silverbell)%% ⌕ %#8a97d3%[link](https://rentry.org/cybertemplates-silverbell)%% ⌕ %#8a97d3%[link](https://rentry.org/cybertemplates-silverbell)%% ![key](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/angel/IMG_0664.gif)<-
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/silverbell%20cookie%20dotted%20border%20bottom.png)<-
-%#8a97d3%[©](https://www.tumblr.com/luvlyvillainess)%%
+%#8a97d3%[©](https://www.tumblr.com/nwrsie)%%

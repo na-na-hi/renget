@@ -1,5 +1,5 @@
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/atsushi%20dotted%20border%20top.png)<-
-->![graphic made by luvlyvillainess on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/bungou%20stray%20dogs/atsushi%20nakajima/atsushi%20nakajima%20graphic%20png%201-2%20gif.gif)<-
+->![graphic made by nwrsie on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/bungou%20stray%20dogs/atsushi%20nakajima/atsushi%20nakajima%20graphic%20png%201-2%20gif.gif)<-
 ***
 ->❝ %#8999a0%this time it's my turn%% ❞<-
 ->╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮<-
@@ -12,4 +12,4 @@
 ***
 ->![book](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1007_2.gif) %#8999a0%[link](https://rentry.org/cybertemplates-atsushi)%% ⌕ %#8999a0%[link](https://rentry.org/cybertemplates-atsushi)%% ⌕ %#8999a0%[link](https://rentry.org/cybertemplates-atsushi)%% ![book](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_1007_2.gif)<-
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/atsushi%20dotted%20border%20bottom.png)<-
-%#8999a0%[©](https://www.tumblr.com/luvlyvillainess)%%
+%#8999a0%[©](https://www.tumblr.com/nwrsie)%%

@@ -1,5 +1,5 @@
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/chuuya%20dotted%20border%20top.png)<-
-->![graphic by luvlyvillainess on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/bungou%20stray%20dogs/chuuya%20nakahara/IMG_9206.gif)<-
+->![graphic by nwrsie on tumblr](https://file.garden/ZRa40spOlUzNliEM/graphics/pngs/templates/bungou%20stray%20dogs/chuuya%20nakahara/IMG_9206.gif)<-
 ***
 ->❝ %#ba595b% i'm here to save your asses,%% ❞<-
 ->╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮<-
@@ -12,4 +12,4 @@
 ***
 ->![angry speech bubble](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_9405_1.gif) %#ba595b% [link](https://rentry.org/cybertemplates-chuuya)%% ┊ %#ba595b% [link](https://rentry.org/cybertemplates-chuuya)%% ┊ %#ba595b% [link](https://rentry.org/cybertemplates-chuuya)%% ![angry speech bubble](https://file.garden/ZRa40spOlUzNliEM/graphics/pixels/filtered/IMG_9405_1.gif)<-
 ->![divider from pixelprism](https://file.garden/ZRa40spOlUzNliEM/graphics/dividers/filtered/chuuya%20dotted%20border%20bottom.png)<-
-%#ba595b% [©](https://www.tumblr.com/luvlyvillainess)%%
+%#ba595b% [©](https://www.tumblr.com/nwrsie)%%

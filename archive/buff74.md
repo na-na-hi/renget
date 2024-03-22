@@ -2,7 +2,7 @@
 Translation by Aki and [Marisa Honkai](https://www.youtube.com/channel/UC0S7OwBRuCYyeZrM6dq9Ykg)
 
 V7.4 Patch Notes: https://rentry.co/74log
-Thelema Skill: https://rentry.co/selim74
+Thelema Skill: https://rentry.co/thelemav3 (v3) | https://rentry.co/selim74 (v2)
 Thelema Gear: https://rentry.co/thelemagear
 Senadina, Dreamseeker and Songque Changes: https://rentry.co/buff74/
 Elysian Realm: https://rentry.co/ely74
