@@ -68,8 +68,6 @@
 ##自用预设 V4.x：
 !!! info [版本说明与历史破限](https://rentry.org/teralomaniac_jb_history)
 > 最新测试/正式版预设：[V4.x](https://discord.com/channels/1134557553011998840/1185059580552675378) （[类脑Discord频道](https://discord.com/invite/B7Wr25Z7BZ)）
-> 
-> [Risu预设4.0beta1](https://files.catbox.moe/mb1dro.json) Risu可以不用最新的clewd，但由于NSFW和越狱只有一个开关，所以NSFW没有写入，如需要推荐自行写在你的personal里面
 
 ##可选插件DLC：
 !!! info 以下文字版更新较慢，如需最新版下载自用预设中的全局世界书

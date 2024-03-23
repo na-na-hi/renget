@@ -91,12 +91,13 @@ https://www.youtube.com/@sumojason/videos
 Kintamayama
 https://rumble.com/user/Kintamayama
 
-Tournament Highlights (available 3 days after the tournament; deleted when the new banzuke is published)
+NSK Tournament Highlights (available 3 days after the tournament; deleted when the new banzuke is published)
 https://sumo.or.jp/EnHonbashoTopicsKoTorikumi15/wrap
 
-Notes: 
-- you can also rewatch the live streams if they are still up.
+Notes:
 - for NattoSumo highlights see links in his discord.
+- the NSK uploads on the official YouTube channel a few bouts every day during the tournament.
+- you can also rewatch the live streams if they are still up.
 
 
 #### News

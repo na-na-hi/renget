@@ -123,7 +123,7 @@
 - Highly trusted name in the gaming community when it comes to game repacks.
 - [URL Safety Results](https://www.urlvoid.com/scan/rentry.org/)
 
-### 🐐 [GOG Games](https://gog-games.to/)
+### 🐐 [GOG Games](https://gog-games.to/) / [2](https://github.com/ezerear/gog-games.to_backup)
 - Every game in the GOG library is free to download from a vast compendium of releases.
 - [URL Safety Results](https://www.urlvoid.com/scan/gog-games.to/)
 

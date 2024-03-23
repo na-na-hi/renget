@@ -618,6 +618,8 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 
 >Cider: I hate Ice-types and Ice Shard is the worst move in existence. 
 
+>KFC: I don't like fighting weak Pokémon, since there is no thrill in it. However, if I'm training a weak Pokémon who wants to improve, I'll suck it up and help. Someday the Pokémon I train may even give me a good fight, only time will tell.
+
 **Former humans**, if you could write a letter back home, what would you write and to whom?
 >Makuhita: I'd write to my brother and my friends to let them know I'm still alive, and inquire as to whether dad died of liver failure yet. I've been waiting quite a while for that to happen.
 
@@ -656,6 +658,8 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 
 >Elm: I prefer going solo since I feel like that allows me to better train covering the drawbacks of my "condition". That being said, if I feel like a mission is out of my league or too risky I would seek someone to help. And I wouldn't refuse invitations from others to help in missions!
 
+>KFC: Solo is much easier. I often go on missions and into dungeons that most, if not all, the guildmembers cannot handle and I don't want them to get hurt. 
+
 **Teams of mons**, does your team fight over who's doing bag duty, or does one of your teammates just stick with it every mission?
 >Carrot & Hazel: Nope, we share duties, sometimes once each, other times the one with the least advantage stays behind
 
@@ -688,12 +692,16 @@ Q1: If you decided to style your fur, what Furfrou trim would you choose?
 
 >Cider: I keep my dorm clean, and I figure that just because I'm not actually in Wigglytuff's Guild doesn't mean I can't pretend I am, so I make do with my dorm. I got rid of the weird cotton beds these guys have and pulled in some straw beds, and I had to get a tree stump and a few rocks for a watering hole. I think growing the vines around my walls was the hardest part though, but I love vines. They're cozy.
 
+>KFC: Decoration? Seems kind of unnecessary to me.
+
 **To natives**, something that you hate when working or interacting with humans.
 >Hazel: Not knowing what everyone is talking, and Carrot refusing to tell me some stuff, like what "Kek" means
 
 >Sneasel: Aside from the obvious answer of “all the weird and annoying slang and references”, I get annoyed whenever I hear humans talk about how they didn’t do much physical stuff in their old lives. I mean, I’ve been working out and fighting all my life, so hearing people admit they just lay around their house all day, or sat in school and learned stuff, or did jobs where they never did anything physical... I dunno, maybe I sound like a jerk, but it makes me feel like they were lazy. I know humans are different from Pokemon, and they don’t have the same drive to train and work out, but c’mon, would it have killed you guys to lift some weights or go for a run every so often? On the bright side, it looks like a lot of humans care more about working out after becoming Pokemon. There are still some slackers, but it’s nice to see so many humans visiting the dojo or going out on missions.
 
 >Vileplume: A lot of them have really poor cleaning habits for some reason. There are days where the smell of the guild just gets unbearable and I have to step outside to get some fresh air. Thankfully that's something that's gotten a little better over time. Either that, or I'm just losing my sense of smell.
+
+>KFC: They use an interesting vocabulary to say the least. Sometimes, it makes it quite hard to discern what they want. And the worst part is that I end up picking the stupid made up words up, no cap.
 
 **Former humans**, things you wished you knew about living as a Pokemon (your species or in general) that you wish you knew beforehand?
 >Turk: There's a lot of things about aura that I wish I knew when I was a Riolu... Especially how damn badly your emotions need to be under control. It certainly caused problems in my past... Thank Arceus; I got my 'medicine' for that, dude. There's always going to be someone pestering you if you're okay when you look like you're going to keel over at any moment, especially when I'm a few pieces short of a whole Pokemon, which makes some things... difficult. I'll leave it up to you what that means, bro. I tend to learn something new every day about Pokemon healthcare and grooming due to it, though. ...Or maybe I just often forget shit from the drugs? But I don't think that's an experience most 'Mon go through, man.
@@ -876,3 +884,7 @@ If clover guild did not exist, where would you be at this point in time?
 
 How many of the doors around the guild have handles or doorknobs, if any?
 >Kiyo-Anon: I know there are doors in the basement that have handles because they're kept locked.  Most other doors, I'd imagine, just swing open either way.
+
+Do you see yourself in the characters you write? (Are they self-inserts, inspired by people you've met, or a completely made up personality?)
+
+>IV-Anon: Gross exaggerations of different parts of my personality with a unique individual born out of them based on people I've known, seen in comics, cartoons, and video games. For example, Error is based on horribly negative self-portrayals of my past mental health, and I try to avoid it getting too real with the surreal nature of him being a robotic Pokemon. Turk is a self-parody of a cringey OC I made when I was younger that I've based on early 2000's era deviant art nonsense. He's just an expy of that whole teenage Invader Zim/Hot Topic young internet I still have a soft spot for. As of writing this I'm couching those characters to write something less self-deprecating and more passion driven, which is what the Zangoose character's going to aim toward.
