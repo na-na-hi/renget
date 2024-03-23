@@ -49,6 +49,8 @@ Q2: How does it feel getting hit with a fighting type move?
 >Booker always freaks out whenever a Fighting-type attack comes at us. Even though he’s super resistant to that type of energy, he’s always worried for me. He still thinks I’ll die from even the littlest Fighting-type move. I hate seeing the little guy get scared like that, though, so I guess it’s good motivation to dodge as much as I can.
 
 Q3: Is there anything about the human world you've heard that's piqued your interest?
+>Totally! Too many things to list. I don’t go nuts over the human world like Wooper does, but there’s some really cool stuff about it. I think someone asked me that question before, and if I remember right, I said I liked human martial arts. I still do! Hopefully someday we can set up some kinda tournament where the humans can show off their karate and kung fu and pro wrestling—especially pro wrestling. That sounds awesome, based on what the humans told me about it. 
+>But other stuff’s got me interested, too. There’s a lotta sports in the human world that we don’t have here, and some of them sound fun, like baseball or basketball. And cars are cool too! I still dunno how cars work, but I know you can ride inside them, and they move fast. I bet it’d be super fun to hop in one and race around.
 
 ###Booker
 Q1: Is there anything that stinks about being a Ribombee that's really minor?
@@ -58,6 +60,8 @@ Q2: Are there any small items you've found a new use for as a Ribombee?
 >Well, the first thing that comes to mind is my bed. M-maybe you’ve seen it already. It’s a bowl of cotton balls, and we keep it on the desk in our dorm. It’s so comfy... Better than any bed I had as a human. Aside from that... I usually drink from a thimble, and I’ve used a feather quill pen as a broom before. Also, Sneasel and I have thought about getting me a sewing needle I could use as a sword, to protect myself if I need to. It would be the right size, but I’m not sure if I could use it very well without any fingers, so it's just in the idea stage so far.
 
 Q3: If you learn Pollen Puff, will you share some with the other guild members? I want sweets.
+>Definitely! That would be a nice thing to do. That is, j-just as long as people don’t pester me about it... I don’t want to end up like Tropius. I feel bad for him, with the way people are always asking to eat his bananas. But if people are polite about it, and don’t bother me too much, I’d be happy to make Pollen Puffs for them.
+>Although... I’m not sure if o-or when I’ll learn how to do it. I know it’s supposed to be an instinctive thing for a Ribombee, and I do want to learn the move because it would be useful in missions... but I h-haven’t had any luck with it. I just haven’t spent much time experimenting with pollen, and I’m the only Ribombee in the Capim area, so I can’t ask any other Ribombee to give me pointers. I have been learning other moves, though, so I’m hopeful that I can learn Pollen Puff someday. It might take time, but it’ll be worth it.
 
 ###Jung
 Q1: How and when did you meet Sara?
@@ -133,12 +137,14 @@ Q2: Most embarassing thing you've done due to your hunger?
 > A: "Shame" is not a word in my vocabulary.
 Q3: What are the upsides and downsides of travelling with Asana?
 > A: Assy's better at preparing stuff and planning than I am, and her Aura stuff practically weeds out any ambushes before they happen. As for the bad stuff about her, she's kind of nitpicky and gets onto me a lot, especially when it comes to my eating habits. I know I consume a lot, but that's the whole reason why we split the bounties we get 50/50 - I get to eat what I want, and her wallet is safe from me. 
+Q4: Is there any food you refuse to eat?
 
 ###Asana
 Q1: In your travels, you've been exposed to or taught a number of crafts, such as baking and pottery.  Are you interested in pursuing these arts further?
 > A: Baking sounds nice. I liked hanging around that Mienfoo back in Redkiln, even though he was a kook. His passion for his craft was kind of infectious.
 Q2: How do you feel about bounty-hunting?  Would you ever settle down?  Or is life on the road all you crave?
 > A: I'll only consider settling down when age begins to catch up to me. As for bounty hunting, it's a good way to gain income and hone my skills, although the former might be changing soon. I heard that the Sand Continent pays more than other locales, so I'm expecting a pay cut of some sort once we dock where ever that cargo ship is taking us. I know Makuhita would definitely groan about it, since less Poke means less food. 
+Q3: Is it true that you only eat 1 berry a day? How do you survive like that? Can all Meditite fast as much as you do?
 
 ###Tybo
 Q1: Do you accept pets?  If so, from who?  
@@ -383,6 +389,9 @@ Q4: What's your favorite thing about Team Cozy? Is there something you don't lik
 Q5: Do people at the guild give you trouble for your condition?
 >"A-Apart f-from some j-jokes, n-not r-really." *(I'm willing to bet I'm not the only guildmember here on the spectrum.)*
 
+Q6: Aren't you Dewott's accomplice in the eyes of the law? Or are they not aware of your existence?
+If the former, have you ever seen wanted posters with you in it? Do you worry about people finding out about that?
+
 ###Kiyo
 Q1: What is your body count?
 >Three or four, until recently.  Depending on how you divvy up ‘kill credit’, I might be in the double digits now.  Or, maybe Bean is.  I dunno.  
@@ -466,9 +475,13 @@ Q5: You know everybody hates your fruity act, right?
 
 ###KFC
 Q1 : Are you aware of any threats to Clover Guild?
+ >Yes, even if I disregard Alakazam’s hatred of humans, there are several other competent Pokemon who hold a deep distain of humans. It would only take a few of them to group up and raid the Glover Guild. 
 Q2 : What do you miss the most about your master?
+>His attitude and voice. It was always positive and even a little soothing.
 Q3: Who would you say are the most improved guild members in terms if fighting capabilities? 
+>It’s hard to say… I only regularly train with Booker. Everyone else usually only needs a few pointers before they move on. However, during Booker’s rest periods, I spar a little with Sneasel. She has been improving quite a bit. I mean she was already a competent fighter when I met her, but since then the way she moves and the time she chooses to unleash an attack is far better than what it was. She seems to be more thoughtful and more patient.
 Q4: What are the 11 herbs and spices?
+>What are you talking about? 
 
 ###Maxi
 Q1: What was the grossest thing you had to clean up?
@@ -505,6 +518,7 @@ Q3: Does Cory have an accent?
 >He sounds weirdly Austrailian. I'm pretty sure I even heard him mutter a "Crikey" while battling that Ariados...
 Q4: Have you found any cool new flowers in this world that didn't exist back in the human world?
 >Not so far, but I imagine there would be. Actually, in the flowers that I *have* seen thus far, I noticed a *distinctly* larger amount of pollen! I'd chalk it up to there being fewer pollinators around, or maybe the lack of human intervention... although wind-pollinated plants *usually* don't invest time and energy to produce such large flowers. I really hope someone has done *some* taxonomy on these plants... And the Berry bushes Cory found me in- I didn't note any flowers or flower buds, which is *really* weird because - ([RainYapping.mp3](https://www.youtube.com/watch?v=BQ0h6dewnrQ))
+Q5: How right are you?
 
 ###Cory
 Q1: What's up with that Eevee?
@@ -838,6 +852,8 @@ Before joining this clover guild thing, do you have a completely different pokem
 
 >Rowlet-anon: Cider was originally going to be a Piplup, since most of his character emulates the way the human Piplup acted in the Explorers anime specials, but I decided against that since there were too many Water-types, and I think Rowlet was the ultimately better choice looking back on it. Both species are birds and have the same general body shape anyway, so it's not too big of a change art-wise. 
 
+>KFC-anon: I was gonna do a Flaafy or Ampharos, but Macom beat me to the punch on the Mareep line. I would have proven Electric types are the strongest using a shit ton of Physics and Math Proofs.
+
 If clover guild did not exist, where would you be at this point in time?
 
 >IV-Anon: Minor possibility I'd have joined some PMD rp group to see if it filled that niche of creativity i wanted, run into some really skeevy shit with it, and return to swearing off doing that kind of shit again. So realistically I'd be probably fucking around in other video games and never have picked back up doing creative art or writing.
@@ -855,6 +871,8 @@ If clover guild did not exist, where would you be at this point in time?
 >Chespin-Anon: Probably a whole lot of nothing, like I had been doing for years prior. Possibly looking for something PMD-related to work on because I can never stay away from this stuff for long. It's still pretty crazy to me that this has gone on as long as it has, along with everything else.
 
 >Carrot-Anon: I already am in another project, to be honest Clover was a side project that suddenly became my main focus from time to time but yeah, i'd be focusing more in the other project i have 
+
+>KFC-anon: Probably the same shit I always do, just alone.
 
 How many of the doors around the guild have handles or doorknobs, if any?
 >Kiyo-Anon: I know there are doors in the basement that have handles because they're kept locked.  Most other doors, I'd imagine, just swing open either way.

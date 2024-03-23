@@ -12,7 +12,7 @@
 ->◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠◠<-
 ->%#A95C68%꒰‿୨◜ main ◝୧‿꒱ %%<-
 ->%#B9B9B9%[!~t~!orso](https://rentry.co/torso) & [!~h~!eartstouch](https://rentry.co/heartstouch) & [!~f~!innterest](https://rentry.co/finnterest) & %%<-
-->%#B9B9B9%[!~h~!oardurl](https://rentry.co/hoardurl) & [!~I~!nterested](https://rentry.co/Interested) & [!~s~!elfproclaimed](https://rentry.co/selfproclaimed)  %%<-
+->%#B9B9B9%[!~h~!oardurl](https://rentry.co/hoardurl) & [!~I~!nterested](https://rentry.co/lnterested) & [!~s~!elfproclaimed](https://rentry.co/selfproclaimed)  %%<-
 ->%#B9B9B9% & [!~m~!uti**l**e](https://rentry.co/mutiie) & [!~r~!srcs](https://rentry.co/rsrcs) %%<-
 ->◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡◡<-
 

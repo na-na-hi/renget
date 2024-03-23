@@ -1,7 +1,6 @@
--> *%#dfc07b%✦%% a certain **darkness** is needed to see the %#dfc07b%**stars**%% %#59cedd%✮%%* <-
--> ![01/04/2024](https://media.discordapp.net/attachments/866987220048805929/1217062004141854780/blur_edges_13.png?ex=6602a851&is=65f03351&hm=fe9ba98147f6b3c246017eb615f099db75978f3b3ec3ad50fc680760864686b5&=&format=webp&quality=lossless&width=376&height=314) <-
--> *the %#08c59f%shin tsukimi%% fan ever fr!11!!!1!* <-
-
+###### *struck with the cruel curse of %#9840ab%eternal%% life,*
+-> ![urzuk](https://media.discordapp.net/attachments/866987220048805929/1220976352102977576/blur_edges_1.png?ex=6610e5d6&is=65fe70d6&hm=c445d6f038c8b4f44845058f483cc258589c7a0d86ae9c1b0921a8cb5036e6fc&=&format=webp&quality=lossless&width=486&height=314) <-
+###### -> *as they can never truly perish even after they've fallen apart.* ->
 
 -> **༉‧₊˚. %#8fc0ff%gyara%% / %#924fe2%vin%% / %#b91425%yuu%% %#ff8fbd%𓆩♡𓆪%%** <-
 -> *15* ![](https://cdn.discordapp.com/emojis/990360265956671558.gif?size=28&quality=lossless) *`genderfluid`* <-

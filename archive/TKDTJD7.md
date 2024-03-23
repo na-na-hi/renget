@@ -2872,3 +2872,233 @@
     >⚡️Al-Qassam Brigades targeted 3 Zionist tanks and an APC with "Al-Yasin 105" shells in the vicinity of Shifa Hospital in Gaza City.
     >https://twitter.com/warfareanalysis/status/1770874169900531948  3/21/24  
     ***
+!!!danger  
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 21 (2024), against (US)-israeli forces:
+
+    >— 🇵🇸 Al-Qassam Brigades:
+    >
+    >🔻Targeted an IOF armored vehicle with a "Yassin 105 rocket, in the Qarara area, north of Khan Yunis.
+    >
+    >🔻Blew up a tunnel opening, upon the entry of an IOF force, causing casualties among its members in the Qarara area north of Khan Yunis.
+    >
+    >🔻Targeted 2 Merkava tanks with Yassin 105 rockets, in the vicinity of Al-Shifa Hospital in Gaza City.
+    >
+    >🔻Successfully eliminated an israeli sniper with a 12.7 caliber anti-fortification shell, east of Al-Shifa Medical Complex in Gaza City.
+    >
+    >🔻Targeted 3 IOF (Merkava) tanks and an armored personnel carrier (APC) with Yassin 105 rockets, in the vicinity of Al-Shifa Hospital in Gaza City.
+    >
+    >🔻Shelled IOF forces who were advancing in the vicinity of Al-Shifa Hospital in Gaza City, with mortar shells.
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Shelled a gathering of IOF army vehicles and soldiers in the vicinity of Al-Shifa Hospital in Gaza City with a barrage of 60mm caliber mortar shells.
+    >
+    >🔻Engaged in a clash with entrenched IOF forces in a residential apartment near "City Edge Restaurant" west of Gaza City, resulting in the evacuation of several of their soldiers' bodies via an israeli armored vehicle (APC) that was stationed on site.
+    >
+    >🔻Targeted an IOF military vehicle with an RBG shell in the vicinity of Al-Shifa Hospital in western Gaza City.
+    >
+    >🔻Shelled IOF soldier gatherings in the vicinity of Al-Turki Hospital, north of the central area with a barrage of regular 60 caliber mortar shells.
+    >
+    >🔻Shelled "Be'eri" in a joint-operation with the Abu Ali Mustafa Brigades.
+    >
+    >🔻Detonated a tunnel shaft, upon the entry of an IOF force who were attempting to enter the tunnel, resulting in casualties among its force, in the Qarara area north of Khan Yunis.
+    >
+    >🔻Engaged in clashes with an IOF force using machine guns at point-blank range, east of Khan Yunis.
+
+    >— 🇵🇸 Al-Aqsa Martyrs Brigades:
+    >
+    >🔻Targeted an IOF armored vehicle (APC) with RPGs, in the vicinity of Al-Shifa Hospital, in western Gaza City.
+    >
+    >🔻Shelled a gathering of IOF soldiers and their military vehicles with a barrage of 60mm caliber mortar shells, in the vicinity of Al-Shifa Hospital in western Gaza City.
+    >
+    >🔻Engaged in clashes with entrenched IOF forces in a residential apartment in the vicinity of Al-Shifa Hospital, in western Gaza City, resulting in casualties among their force.
+
+    >— 🇵🇸 Martyr Omar Al-Qasim Forces:
+    >
+    >🔻Launched a number of mortar shells at the Abu Mutibaq site, east of the Central Governorate.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted an israeli force as it entered the Zarit barracks, with artillery shells.
+    >
+    >🔻Targeted the positionin of a military intelligence force in the Metulla settlement, causing casualties.
+    >
+    >🔻Shelled the Al-Malikiyah site with artillery.
+    >
+    >🔻Targeted a building used by IOF soldiers in the Al-Malikiyah settlement with appropriate weapons.
+    >
+    >🔻Targeted 2 buildings that were housing israeli soldiers in the Avivim settlement, with appropriate weapons.
+    >
+    >🔻Targeted a building used by israeli soldiers in the Netua settlement with appropriate weapons.
+    >
+    >🔻Targeted the Shlomi settlement with rockets.
+    >
+    >🔻Targeted a building used by israeli soldiers in the Zarit settlement with appropriate weapons.
+    >
+    >🔻Targeted 2 buildings used by israeli soldiers in the Ramot Naftali settlement with rockets.
+    >https://t.me/FotrosResistance/5993  3/22/24  
+    ***
+## 🍏%#228b22%Week 3/22/24 - 3/29/24%%🍏
+!!!warning 
+    >🛑 Al-Quds Brigades:
+    >
+    >Our forces managed to snipe an IOF soldier in the vicinity of Al-Shifa Hospital, west of Gaza City.
+    >https://t.me/FotrosResistance/6000  3/22/24  
+    ***
+    >2 hours ago, there were fierce clashes between the resistance forces and the IOF terrorists in the west of Ramallah.
+    >
+    >In the early hours of the morning, Palestinian fighters shot at the Zionist vehicles that were passing through that area. This forced even israeli helicopters to enter in action
+    >https://t.me/FotrosResistance/5995  3/22/24  
+    ***
+    >Media coverage | The Integrated Phase Classification (IPC) system, established 20 years ago, provides authoritative assessments of humanitarian crises. In Gaza, it reports that 32% of residents are in "catastrophic" conditions, with an additional 41% facing "emergency" situations.
+    >https://t.me/QudsNen/99320  3/22/24  
+    ***
+    >Shockingly, it predicts that over 1 million Gazans will soon experience "catastrophe" or "famine." The Famine Early Warning System Network of the US Agency for International Development expresses similar alarm, marking it as their most serious warning in 40 years.
+    >https://t.me/QudsNen/99321  3/22/24  
+    ***
+    >Russia's Ambassador to the UN:
+    >
+    >⭕ Gaza has been getting destroyed for 6 months and now the American representative acknowledges the need for a ceasefire
+    >
+    >⭕ The US resolution on Gaza does not call for a ceasefire
+    >
+    >⭕ The negotiations involving Americans regarding Gaza were only focused and directed towards procrastination
+    >
+    >⭕ If this resolution is adopted, it will close the discussion on the situation in Gaza and give "Israel" a free hand there
+    >https://t.me/QudsNen/99328  3/22/24  
+    ***
+    >Israeli occupation soldiers arrest the wife and brother of a Palestinian resistance fighter who earlier today shot and injured seven Israeli soldiers in a 4-hour gunfight west of Ramallah.
+    >
+    >The fighter, identified as Mujahed Karaja, was shot dead by the Israeli army in the aftermath of the encounter, and his body was taken away.
+    >https://t.me/QudsNen/99326  3/22/24  
+    >https://files.catbox.moe/vcqshh.mp4  3/22/24  
+    ***
+    >It's ONLY ONE FIGHTER, AND THEY SENT HUNDREDS OF SOLDIERS, A HELICOPTER, AND MILITARY VEHICLES TO CONFRONT HIM!!!
+    >
+    >FOR 4 HOURS, THE CLASHES ARE STILL ONGOING.
+    >
+    >The Hebrew media reports that 4 settlers were injured in the bus attack, 2 of them severely. 
+    >
+    >This footage displays the resistance fighter before initiating the attack, hiding in the bushes by the road.
+    >https://twitter.com/warfareanalysis/status/1771078145581474240  3/22/24  
+    >https://files.catbox.moe/7qvvlq.mp4  3/22/24  
+    ***
+    >AFP, citing diplomatic sources: The Security Council will vote tomorrow on a draft resolution that clearly calls for an immediate ceasefire in #Gaza.
+    >https://t.me/me_observer_TG/174080  3/22/24  
+    ***
+    >AFP, citing diplomatic sources: The draft resolution that will be voted on tomorrow was prepared by a number of non-permanent members of the Security Council.
+    >https://t.me/me_observer_TG/174081  3/22/24  
+    ***
+    >BREAKING | Al Jazeera: Doctors, patients, and displaced persons trapped in Al-Shifa Medical Complex in Gaza launch a distress call to provide them with food and medicine, as the Israeli army continues its tight siege of the hospital for the fifth day.
+    >https://t.me/QudsNen/99345  3/22/24  
+    ***
+    >Russia: Foreign Ministry spokeswoman Maria Zakharova: The entire international community must condemn the tragic events that occurred in Moscow
+    >https://t.me/me_observer_TG/174124  3/22/24  
+    ***
+    >Russia: Local media: Special forces succeeded in storming the mall near Moscow and are working to pursue 4 gunmen
+    >https://t.me/me_observer_TG/174126  3/22/24  
+    ***
+    >United States of America: The White House: There is currently no indication of Ukrainian involvement in the shooting in Moscow
+    >https://t.me/me_observer_TG/174120  3/22/24  
+    ***
+    >Russia: Zakharova in response to the announcement by the Office of the United Nations Secretary-General of its “sorrow” over the “Crocus” attack: The attack is a bloody, brutal terrorist attack
+    >https://t.me/me_observer_TG/174154  3/22/24  
+    ***
+    >Russia: Zakharova in response to the Office of the UN Secretary-General: The attack does not provoke “sadness”, but horror, shock, unconditional condemnation and anger
+    >https://t.me/me_observer_TG/174158  3/22/24  
+    ***
+    >Russia: Dmitry Medvedev: Terrorists only understand revenge and no trials or investigations will help if force is not met with force
+    >https://t.me/me_observer_TG/174159  3/22/24  
+    ***
+    >One of the people who has recently threatened Russia with terrorist attacks..... 
+    >https://t.me/megatron_ron/2405  3/22/24  
+    >https://files.catbox.moe/mio2ul.mp4  3/22/24  
+    ***
+    >BREAKING:
+    >
+    >Dmitry Medvedev Deputy Chairman of the Security Council of the 🇷🇺 Russian Federation:
+    >
+    >"If it is proven that Ukraine is behind the attack, the Ukrainian officials of the state will be eliminated as terrorists."
+    >
+    >"If it is established that these are terrorists of the Kyiv regime, it is impossible to deal with them and their ideological inspirers differently.
+    >
+    >All of them must be found and mercilessly destroyed as terrorists. Including officials of the state that committed such atrocity. Death for death."
+    >https://t.me/megatron_ron/2410  3/22/24  
+    ***
+    >Lebanon: In response to the Zionist attacks on the steadfast southern villages and civilian homes, the Mujahideen of the Islamic Resistance targeted at 21:50 pm on Friday 03/22/2024 a #building where enemy soldiers were positioned in the #Zarait colony with appropriate weapons .
+    >
+    >“And victory is only from Allah, the Mighty, the Wise.”
+    >https://t.me/me_observer_TG/174196  3/22/24  
+    ***
+    >Yemen: Al-Mayadeen field sources: The American-British raids targeted Jabal al-Nahdain in central #Sanaa
+    >https://t.me/me_observer_TG/174198  3/22/24  
+    ***
+    >Urgent | #Hezbollah: The Mujahideen of the Islamic Resistance targeted a building where enemy soldiers were stationed in the Zarit colony with appropriate weapons.
+    >https://t.me/me_observer_TG/174214  3/22/24  
+    ***
+    >President of Serbia, 🇺🇸🇬🇧🇷🇸 Vucic:  
+    >
+    >"Calls from the US and British embassies for their citizens not to visit the shopping center in Moscow indicate that their intelligence services had information about possible terrorist attacks"
+    >
+    >“On March 7, the American embassy called on its citizens not to visit the shopping center. Then the British and someone else did the same.
+    >
+    >This means that their intelligence services intercepted certain negotiations, received information and knew that something would happen,” said Aleksandar Vucic in broadcast on Prva TV channel.
+    >
+    >On March 7, the US Embassy in Moscow and the British Foreign Office issued a warning about the possible threat of terrorist attacks in Russia.
+    >https://t.me/megatron_ron/2412  3/22/24  
+    ***
+    >Reports are comming now that this information is FAKE.
+    >
+    >These people have been liquidated during a police operation in Ingushetia three weeks ago. Many "information resources" aligned with Ukrainian PsyOp units, as well as grifters who are trying to generate hype and gain followers, are spreading fakes right now.
+    >https://t.me/megatron_ron/2414  3/22/24 
+    ***
+    >Occupied Palestine: #Hamas: We condemn in the strongest terms the terrorist attack that targeted civilians in the #Russian capital, Moscow
+    >https://t.me/me_observer_TG/174260  3/22/24  
+    ***
+    >Reuters: The death toll from the attack on the Crocus complex near the #Russian capital, Moscow, has risen to 62 people.
+    >https://t.me/me_observer_TG/174274  3/22/24  
+    ***
+!!!danger 
+    >| 🌍 BIG SUMMARY of all resistance operations today, March 22 (2024), against (US)-israeli forces:
+
+    >— 🇵🇸 Al-Quds Brigades:
+    >
+    >🔻Sniped an IOF soldier in the vicinity of Al-Shifa Hospital in western Gaza City.
+    >
+    >🔻Shelled a gathering of IOF forces with a barrage of mortar shells in the vicinity of Al-Shifa Hospital in Gaza City.
+
+    >— 🇵🇸 Al-Aqsa Martyrs Brigades:
+    >
+    >🔻Shelled a concentration of IOF soldiers and their military vehicles with regular 60mm-caliber mortar shells in the vicinity of Al-Shifa Hospital in western Gaza City.
+
+    >— 🇵🇸 Mujahideen Brigades:
+    >
+    >🔻Targeted an IOF military vehicle with RPGs, in the vicinity of Al-Shifa Hospital in western Gaza City.
+
+    >— 🇵🇸 Martyr Abu Ali Mustafa Brigades:
+    >
+    >🔻Targeted an IOF military vehicle with RPGs, in the vicinity of Al-Shifa Hospital in western Gaza City.
+    >
+    >🔻In a joint-operation with the Al-Quds Brigades, they shelled the "Be'eri" settlement with rockets.
+    >
+    >🔻Monitored and neutralized one of the israeli snipers while entrenched in a house in the Al-Zaytoun neighborhood.
+
+    >— 🇵🇸 Al-Nasser Salah al-Din Brigades:
+    >
+    >🔻Shelled a gathering of IOF army vehicles and its soldiers, west of Gaza City, with several heavy caliber mortar shells.
+
+    >— 🟡 Hezbollah:
+    >
+    >🔻Targeted the deployment of israeli soldiers around the Zarit barracks with artillery shells.
+    >
+    >🔻Targeted the Metulla site and directly hit a tank inside.
+    >
+    >🔻Targeted the deployment of israeli soldiers around the Jal Al-Alam site with artillery.
+    >
+    >🔻Targeted the Ruwaysat Al-Alam site with appropriate weapons.
+    >
+    >🔻Targeted a building housing israeli soldiers Dovev settlement with appropriate weapons.
+    >
+    >🔻Targeted a building housing israeli soldiers in the Zarit settlement, with appropriate weapons.
+    >https://t.me/FotrosResistance/6005  3/22/24  
+    ***

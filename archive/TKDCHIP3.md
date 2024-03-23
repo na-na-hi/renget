@@ -332,3 +332,18 @@
     >Cooking oil is being used as an alternative to fuel in Gaza due to its shortage as a result of the stifling Israeli blockade.
     >https://files.catbox.moe/g3isfd.mp4  New  3/21/24    
     ***
+!!!warning
+    ## Week 3/22/24 - 3/29/24 
+    >The fighter, identified as Mujahed Karaja, was shot dead by the Israeli army in the aftermath of the encounter, and his body was taken away.
+    >https://files.catbox.moe/vcqshh.mp4  New  3/22/24    
+    ***
+    >One of the people who has recently threatened Russia with terrorist attacks..... 
+    >https://files.catbox.moe/mio2ul.mp4  New  3/22/24    
+    ***
+    >It's ONLY ONE FIGHTER, AND THEY SENT HUNDREDS OF SOLDIERS, A HELICOPTER, AND MILITARY VEHICLES TO CONFRONT HIM!!! FOR 4 HOURS, THE CLASHES ARE STILL ONGOING.
+    >
+    >The Hebrew media reports that 4 settlers were injured in the bus attack, 2 of them severely. 
+    >
+    >This footage displays the resistance fighter before initiating the attack, hiding in the bushes by the road.
+    >https://files.catbox.moe/7qvvlq.mp4  New  3/22/24    
+    ***

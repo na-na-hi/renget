@@ -16,7 +16,7 @@
 26 https://rentry.org/diuf8     Day 11: Beasts (Includes: My, Rout)
 27 https://rentry.org/95fri	  Day 12: Encounters (Includes: Zaila, Euphemia, My)
 28 https://rentry.org/5y429   Day 13: The Scriptorium (Includes: My)
-
+34 https://rentry.org/oxm7dz8x Day 14: Strange Occurrence
 ##MA Story:
 30 https://rentry.org/utpgo/ Day 0: The Sorting Ceremony
 31 https://rentry.org/3k3z5   Day 1: Herbology (Includes: Elizabeth)

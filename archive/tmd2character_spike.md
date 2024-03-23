@@ -7,16 +7,16 @@ Subdued and secretive, Spike doesn't care much to speak about himself, but rathe
 ---- | ----
 **Origin:** Ex-Human (Anamnesis) | **Guild Role/Occupation:** Interpol Field Agent
 **Species:** Zorua (Hisuian) | **Affiliation:** Team Stylish
-**Level:** 14 | **Experience to Next Level:** 5/140
+**Level:** 14 | **Experience to Next Level:** 15/140
 **Worn Item:** *N/A* | **Clothing:** Red Prayer Beads
-**Pokécoin:** 25₽ | **Glorious Gold:** 0 Bars
+**Pokécoin:** 300₽ | **Glorious Gold:** 0 Bars
 
 Pokémon's Ability | Description
 ---- | ----
 Illusion | The User may disguise themselves as another Pokémon they've seen recently.
 
 ->Rookie Rank<-
-->*350/400 points to Normal Rank*<-
+->*370/400 points to Normal Rank*<-
 ->![Rookie Rank](https://archives.bulbagarden.net/media/upload/d/d7/Rookie_Rank_RTDX.png)<-
 
 Stat | Points: 3 (+3) | Modifiers | Combat Effect
@@ -66,7 +66,7 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Currently Training for Attribute: Undead **ɪ** | Tier **ɪɪ** | 0/3 | ▯▯▯
+Currently Training for Attribute: Undead **ɪ** | Tier **ɪɪ** | 1/3 | ▮▯▯
 Currently Training for Stat: Speed **ɪɪɪ** | **COMPLETE** | 9/9 | ▮▮▮▮▮▮▮▮▮
 
 
@@ -81,7 +81,7 @@ Item Name | Description
 1. Oran Berry | Heals the user for 10HP.
 2. Oran Berry | Heals the user for 10HP.
 3. Oran Berry | Heals the user for 10HP.
-4. Oran Berry | Heals the user for 10HP.
+4. Eᴍᴘᴛʏ | Vacant inventory slot.
 
 **STORAGE (2 slots)**
 !!! note Extra slots separate from your normal inventory.
@@ -98,6 +98,7 @@ Type | Item Name | Description
 ------ | ------ | :----: 
 Key Item | Eᴍᴘᴛʏ | Vacant inventory slot.
 RP Item | Red Prayer Beads | A loop of 27 prayer beads fashioned from inert fire gems and white hair worn around the tail. It's incomplete, but it's spiritual signifigance is present.
+RP Item | Shattered Disc | The shards of a shattered TM Disc. The information that use to be contained is lost forever.
 
 **OLD MOVES (∞ slots)**
 These are moves that your character learned already, but elected to replace. Re-learning them is cheaper.

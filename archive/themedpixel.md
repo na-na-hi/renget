@@ -7,7 +7,7 @@
 
 -> %cadetblue% ♡♡ %% ![welcome](https://i.postimg.cc/K8qLhdFt/CA673-F61-E1-A0-4-C93-AA7-E-6-E42797792-CA.png) to !~black;simple; [my](https://rentry.co/batcemetery) ~! resource rentry, ive got basically everything on here. i hope this can be useful to whoever is in need %cadetblue% ♡♡ %% <-
 
--> contact %moccasin% **yatoras** %% on discord <- 
+-> contact me %moccasin% **[here](https://txto.eu.org/credits)** %%  <- 
 -> for removal or credits <-
 
 -> ![](https://i.postimg.cc/25gZVh16/6217556-B-E06-B-453-F-84-B2-79-B9-EAF556-EF.gif) <-

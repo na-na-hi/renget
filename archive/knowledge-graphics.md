@@ -128,6 +128,6 @@ blinkie maker](https://blinkies.cafe/) <-
  graphics(?)](https://magicalgirloftheday.tumblr.com/) & [pokemon pixels & graphics](https://cute-sushi-roll.tumblr.com/tagged/pokemon) &
  [rilakkuma pixels](https://engrampixel.tumblr.com/tagged/rilakkuma) & [random anime pixels](http://jasminnie.weebly.com/anime.html) & [sanrio 
 pixels](http://jasminnie.weebly.com/sanrio--san-x.html) & [animal crossing pixels](https://kelseycrossing.com/tagged/masterpost) & [more pokemon 
-graphics](https://rentry.co/nationaldex) <-
+graphics](https://rentry.co/nationaldex) & [TONS of genshin pixels](https://text.is/genshinmoji) <-
 -> &nbsp; <-
 -> &nbsp; <-
