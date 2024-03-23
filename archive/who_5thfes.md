@@ -12,14 +12,14 @@ _______________________________
 _______________________________
 
 ##Clips/Setlist
-Clip links are currently expired. Will update when the official VOD is ready
 |Song|Performing Members| Clip/Timestamp|
 |----------|----------|----|
-|キラメキライダー☆ / Kirameki Rider| Stage 3 full cast| [![](https://files.catbox.moe/6rhp6c.jpg)](https://www.youtube.com/watch?v=CVYbI-1IJnM&t=3768)|
-|mumei|Mumei|  [![](https://files.catbox.moe/f0ulg6.jpg)](https://litter.catbox.moe/pjadcm.mp4)|
-|Shiny Smily Story| Stage 3 full cast| [![](https://files.catbox.moe/balc3v.jpg)](https://litter.catbox.moe/321608.mp4)|
-|空色デイズ / Sorairo Days| Mumei, Shion, Ame|  [![Link](https://files.catbox.moe/nqnb7b.jpg)](https://litter.catbox.moe/yratfs.mp4)|
-|Capture the Moment|Stage 3 full cast| [![Link](https://files.catbox.moe/i4mnit.jpg)](https://litter.catbox.moe/1nvtd2.mp4)|
+|キラメキライダー☆ / Kirameki Rider (YT link)| Stage 3 full cast| [![](https://files.catbox.moe/6rhp6c.jpg)](https://www.youtube.com/watch?v=CVYbI-1IJnM&t=3768)|
+|mumei|Mumei|  [![](https://files.catbox.moe/f0ulg6.jpg)](https://files.catbox.moe/30oj8l.mp4)|
+|Shiny Smily Story| Stage 3 full cast| [![](https://files.catbox.moe/balc3v.jpg)](https://files.catbox.moe/5z4h87.mp4)|
+|空色デイズ / Sorairo Days| Mumei, Shion, Ame|  [![Link](https://files.catbox.moe/nqnb7b.jpg)](https://files.catbox.moe/ord5vr.mp4)|
+|Capture the Moment|Stage 3 full cast| [![Link](https://files.catbox.moe/i4mnit.jpg)](https://files.catbox.moe/0s4j6a.mp4)|
+|MC with Ollie| Mumei, Ollie|[![Link](https://files.catbox.moe/hp6j86.png)](https://files.catbox.moe/7u96vc.mp4)
 
 ##EXPO venue Album
 https://catbox.moe/c/ublq0t
@@ -54,6 +54,11 @@ Source: https://twitter.com/sakito0510/status/1768913374803571193
 |Subaru| [【#生スバル】5th Fes応援＆感想枠しゅばあああああああああ！！](https://youtu.be/TprwtnyzUVw?t=5124)|Endorsing Mumei's mumei. And how she begged her to sing it a number of times.|
 |Miko| [【振り返り裏話】hololive 5th fes. Capture the Moment](https://youtu.be/tvFxEAHSV38?t=1876)|Talked about playing Cards with Mumei and others JPs plus mane-chan before the show during day 2. [Bae joined in later to play Babanuki/Old maid](https://www.youtube.com/watch?v=tvFxEAHSV38&t=1876s) |
 |Kanade| [【雑談】EXPOとFesを振り返りつつのんびり雑談【音乃瀬奏】](https://youtu.be/PGvqTO_IzWk?t=1339)|Endorsing Mumei's mumei. A track she likes (in her Spotify playlist) even before the Fes.|
+|Fuwamoco|[ 【HOLOLIVE EXPO & 5th FES 2024 CHATTING】recapturing the moment 🐾 ](https://www.youtube.com/watch?v=8ue76vb__Rs&t=4511s)|Talking about mumei.|
+|Roboco|[【LIVE振り返り】#hololivefesEXPO24 ＆5th fes. おつかれさま～～！！！✨](https://www.youtube.com/watch?v=_THPfDyhFk4&t=1537s)|Meeting Mumei & the cool manager with her; [People got the penlight colors wrong](https://youtu.be/_THPfDyhFk4?t=2332)|
+|Ollie|[【5th FES AFTERTALK】OTSUCRAZY!! CRAVING FOR THEM STORIES I ASSUME~??](https://www.youtube.com/watch?v=PV0nCWycKuo&t=4799s)|Talking about the MC. [Cont.](https://youtu.be/PV0nCWycKuo?t=5966)|
+|Marine|[【酔っぱらい】ラム酒飲みつつ近況を語る会！！！！！！！！](https://www.youtube.com/watch?v=GrIH9Wgr1UU&t=1275s)|Playing cards with her. Same as Miko's.|
+|Korone|[【振り返り雑談】EXPO&Fesおつかれさまでした！！（今更）](https://www.youtube.com/watch?v=GiFSuvqkp1Y&t=3579s)|Playing cards with her. Same as Miko's.|
 
 
 ##Japan deets & mentions
@@ -61,4 +66,9 @@ Source: https://twitter.com/sakito0510/status/1768913374803571193
 |----------|----------|----------|
 |Kaela| [【OTSUFEST】JDON THE FEST](https://youtu.be/4Sj2adSMFyE?t=3111)|Meet Mumei before the fest, talked with her and Zeta for hours. [Couldn't find her on day 2.](https://youtu.be/4Sj2adSMFyE?t=5142); Also a bit on [how holomems are introduced to each other when they meet.](https://youtu.be/4Sj2adSMFyE?t=4429)|
 |FuwaMoco| [ 【HOLOLIVE EXPO & 5th FES 2024 CHATTING】recapturing the moment 🐾 ](https://www.youtube.com/watch?v=8ue76vb__Rs&t=2373)|MoomHug|
-|Towa|[【 応援会場&感想お礼枠！ 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾](https://youtu.be/-VoWj59GQl0?t=3149)|Talked with Bae and Mumei; Communicating is hard and [requires passion English](https://youtu.be/-VoWj59GQl0?t=6114).
+|Towa|[【 応援会場&感想お礼枠！ 】👾 Honey Works stage & hololive 5th fes. Capture the Moment 👾](https://youtu.be/-VoWj59GQl0?t=3149)|Talked with Bae and Mumei; Communicating is hard and [requires passion English](https://youtu.be/-VoWj59GQl0?t=6114).|
+|Kiara|[【chatting&雑談】serving you BTS of the weekend!!! #hololivefesexpo24](https://youtu.be/G55NJoDRARc?t=9711)|Talking about how she gave Mumei one of her nails. [Same topic Cont.](https://youtu.be/G55NJoDRARc?t=10070);[About performing Suki-chan with Ina, Ame and Mumei in 4th Fes](https://youtu.be/G55NJoDRARc?t=8761)|
+|Zeta|[【Post-Talk 5th FES】A A A MISSION CAPTURED?!?!](https://youtu.be/as9TTVWPqg4?t=2510)|Talking about chatting with Mumei in the hotel. [Reaction to what Mumei said about her and Kaela's interactions](https://youtu.be/as9TTVWPqg4?t=3261); [Went for dinner with a bunch of ENs and IDs](https://youtu.be/as9TTVWPqg4?t=2845)|
+|Anya|[【AFTER-TALK】Successfully Captured the Precious Moments!](https://youtu.be/Xq5YUzKSWpk?t=3366)|Talking about getting Miko's collab Taiyaki with Mumei. [Cont.](https://youtu.be/Xq5YUzKSWpk?t=9308) Pics were posted on [X (formerly known as Twitter)](https://twitter.com/anyamelfissa/status/1770347755762057585).|
+|Kobo|[【hololive EXPO & 5th Fes】HIIIIIIIIIIIII!! I'LL TRY SPEAK IN ENGLISH DESUWA!](https://youtu.be/haig0k9utmU?t=6385)|Talking about meeting Mumei in the hotel.  ;[Mumei was sitting with Gura on the Cover shuttle bus](https://youtu.be/haig0k9utmU?t=2994)|
+|Bae|[[YouTube] ≪5TH FES & holoEXPO AFTER TALK ≫ rat is alive... somewhat ](https://youtu.be/feoTxSowrAk?t=2740)|[Cont.](https://youtu.be/feoTxSowrAk?t=2897); Her perspective on Mumei crashing at her's.|

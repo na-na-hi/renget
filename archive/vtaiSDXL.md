@@ -823,6 +823,9 @@
 ##### -> (Staff) A-Chan <-
 !!! info [TagInfo](https://warosu.org/vt/thread/S71464421#p71546600)
 -> [MEGA](https://mega.nz/file/hCllEZyL#cWr037D_tucoIw61jRW504wF27usf4qIu-Eg34tQpfA) <-
+-> **or** <-
+!!! info Second lora to test
+-> [Civitai](https://civitai.com/models/362476/a-chan-for-ponyxl) <-
 
 ##### -> Sakamata Chloe <-
 !!! info apparently all outfits?
@@ -1017,6 +1020,10 @@
 ##### -> Lucy Pyre [V2] <-
 !!! info 2 Outfits (V2 main + Swimsuit), looks pretty awful so if anyone can, please make a better one?
 -> [Civitai](https://civitai.com/models/361939/lucy-pyre-vtuber-ponyxl) <-
+
+##### -> Shigure Ui <-
+!!! info Smol Ui version, sadly no base Ui yet
+-> [Civitai](https://civitai.com/models/169515?modelVersionId=406214) <-
 
 #### -> Misc <-
 ***

@@ -68,6 +68,8 @@ LYCORIS **Minai Aruma (GuildCQ)** - https://civitai.com/models/342521/minai-arum
 **Osawa Rurino (Hasunosora/LoveLive)** - https://civitai.com/models/126432/osawa-rurino-link-like-love-live
 **Deme (Indie)** - https://civitai.com/models/355540/deme-vtuber
 **Azuma Lim (Indie)** - https://civitai.com/models/357973/azuma-lim
+**Shiki Miyoshino (Summer Outfit - Prism Project)** - https://mega.nz/folder/dfBQDDBJ#3RLMrU3gZmO6uj167o-YZg/file/lXwUkLwC
+**Nana frufru? (Indie?)** - https://civitai.com/models/363286/nana-frufru
 
 ### -> Untested Potential Updates <-
 **Matara Kan (VShojo)** - https://civitai.com/models/265539/matara-kan **or** https://civitai.com/models/278774/matara-kan-mattarakan-oror-vshojo
@@ -100,6 +102,7 @@ LYCORIS **Koseki Bijou (Hololive)** - https://civitai.com/models/328947?modelVer
 **Reiny (Indie)** - https://files.catbox.moe/741x5d.safetensors [CatboxTagInfo](https://warosu.org/vt/thread/S70975134#p71040638)
 **Marica Bellerose (MyHoloTV)** - https://civitai.com/models/348647/marica-bellerose-myholotv
 **Honma Himawari (Nijisanji)** - https://civitai.com/models/352042/honma-himawari-nijisanji
+**Shigure Ui (Smol Ui - Indie)** - https://civitai.com/models/178641/shigure-ui-vtuber
 
 ### -> SDXL (will not test, unless..?) <-
 EVERY SDXL MOVED TO THE SDXL LIST BECAUSE NO POINT TO ADD THEM HERE SINCE THEM BEING HERE OR IN THE SDXL LIST IS THE SAME (no info of tags and such, just links)

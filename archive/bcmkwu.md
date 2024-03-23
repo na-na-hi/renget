@@ -1,3 +1,16 @@
+>Terrorist gets what he deserves (COMFY)
+https://files.catbox.moe/9y132z.MP4
+>One of the captured terrorists being interrogated (translated)
+https://files.catbox.moe/crzslk.mp4
+>Terrorists reportedly detained
+https://files.catbox.moe/3xyvgg.mp4
+>Mass shooting at Moscow's Crocus City Hall (NOT COMFY)
+https://files.catbox.moe/mgrmk9.mp4
+https://files.catbox.moe/41yhm0.mp4
+https://files.catbox.moe/qu9tge.mp4
+https://files.catbox.moe/0hdzps.mp4
+https://files.catbox.moe/af0nvm.mp4
+https://files.catbox.moe/7x0aoi.mp4
 >Missiles impact Zaporozhye
 https://files.catbox.moe/ecsfyi.mp4
 >X-101 impacts Zaporozhye HPP

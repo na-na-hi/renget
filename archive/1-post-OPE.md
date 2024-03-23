@@ -6,16 +6,16 @@
 
 **/ope/ - Nerissa Ravencroft General**
 ***
-For the 299th time, what is Ope?!
+For the 300th time, what is Ope?!
 https://www.youtube.com/watch?v=qb_-taYLRfY
 Also ENTER the Demon of Sound and Lover of Idols, Nerissa Ravencroft from Hololive EN Advent.
 
 \>Streams
 ▼ Next stream
-Final Fantasy VII Rebirth (Sat 03/23 7PM CT)
+Sat 03/23 7PM CT, Final Fantasy VII Rebirth: https://www.youtube.com/watch?v=vkUfalfx4GY
 ▼ Previous appearances
-Speak of the Devil Ironmouse collab: https://www.twitch.tv/videos/2098342761
-Fauna's birthday stream game: https://www.youtube.com/watch?v=vLWmHwX4eKQ&t=4367s
+Speak of the Devil Ironmouse interview: https://www.twitch.tv/videos/2098342761?t=00h14m25s
+Fauna's birthday stream RPG: https://www.youtube.com/watch?v=vLWmHwX4eKQ&t=4367s
 ▼ Last stream (post Japan zatsudan)
 https://www.youtube.com/watch?v=O6NcRHNDuZ0
 
@@ -39,7 +39,7 @@ YouTube: https://www.youtube.com/@NerissaRavencroft
 Twitter: https://twitter.com/nerissa_en
 Art tags: #RavenCrafts on Twitter (Lewds: #depravencrafts on Twitter); RavenCrafts, Nerissa Ravencroft or ネリッサ・レイヴンクロフト on pixiv
 Merch: https://rentry.org/nerissa_ravencroft_merch01
-Previous thread: >>72056496
+Previous thread: >>72111958
 A word of advice: as per >>1, be smart and don't reply or engage in off-topic or blatant bad faith arguments. To keep peace, hide and report.
 
 

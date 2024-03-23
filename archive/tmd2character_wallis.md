@@ -68,7 +68,7 @@ Eᴍᴘᴛʏ | Description. | N/A
     These may help you in segments where combat is unnecessary or just to simply show your prowess.
 Attributes | Tier Bonus | Description
 ------ | :----: | :----: 
-Attribute: Repulsion  | Tier **ɪɪ** (+2) | For pushing away, both with moves and in general. Pushing can also be used to launch Wallis, such as with a move. This does not apply to the other defintion- apparently Wallis is considered attractive in this new world's form.
+Attribute: Repulsion  | Tier **ɪɪɪ** (+3) | For pushing away, both with moves and in general. Pushing can also be used to launch Wallis, such as with a move. This does not apply to the other defintion- apparently Wallis is considered attractive in this new world's form.
 .
 Attribute: EXAMPLE  | Tier **ɪɪ** (+2) | A skill to help you.
 Attribute: EXAMPLE  |  ᴍᴀx (+3) | A skill to help you.
@@ -77,8 +77,8 @@ Battle Attribute: EXAMPLE  |  ᴍᴀx (+3) | This move is mastered.
 
 Training | Completion | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
-Training for Move: Counter | *ᴛʀᴀɪɴᴇᴅ* | 2/3 | ▮▮▯
-Attribute: Repulsion | Tier **ɪɪ** (+2) | 3/3 | ▮▮▮
+Training for Move: Counter | *ᴛʀᴀɪɴᴇᴅ* | 3-4/? (TBD) | ▮▮▮
+Attribute: Repulsion | Tier **ɪɪɪ** (+3) | 3/3 | ▮▮▮
 Stat: Special Defense **ɪɪɪ** | ᴍᴀx (+3 STAT) | 9/9 | ▮▮▮▮▮▮▮▮▮
 .
 Training for Attribute: EXAMPLE **ɪ** | Tier **ɪɪ** (+2) | 1/3 | ▮▯▯

@@ -1,2 +1,2 @@
-THX RENTRY WIP!!!!
-![!](https://media.discordapp.net/attachments/1089617212677030019/1192290403295174656/IMG_1435.jpg?ex=65a889f7&is=659614f7&hm=fa85bb8944a4e82f01fcaa79f75aecf1f778fb87cac84e3e0711ae61f28fe17d&)
+luciel 15 cod enjoyer,,(only ghostsoap fan evr..!)
+i cant put cool photos rn bc discord is suckin dick

@@ -1280,7 +1280,7 @@
 ##### -> Base <-
 -> [Civitai](https://civitai.com/models/48185/shigure-ui-vtuber) <-
 ##### -> Smol Ui <-
--> [Civitai](https://civitai.com/models/169515/shigure-ui) <-
+-> [Civitai](https://civitai.com/models/169515?modelVersionId=190501) <-
 
 #### -> Shinonome Megu <-
 !!! note Recommended weight: 0.6

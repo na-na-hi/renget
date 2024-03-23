@@ -888,3 +888,5 @@ How many of the doors around the guild have handles or doorknobs, if any?
 Do you see yourself in the characters you write? (Are they self-inserts, inspired by people you've met, or a completely made up personality?)
 
 >IV-Anon: Gross exaggerations of different parts of my personality with a unique individual born out of them based on people I've known, seen in comics, cartoons, and video games. For example, Error is based on horribly negative self-portrayals of my past mental health, and I try to avoid it getting too real with the surreal nature of him being a robotic Pokemon. Turk is a self-parody of a cringey OC I made when I was younger that I've based on early 2000's era deviant art nonsense. He's just an expy of that whole teenage Invader Zim/Hot Topic young internet I still have a soft spot for. As of writing this I'm couching those characters to write something less self-deprecating and more passion driven, which is what the Zangoose character's going to aim toward.
+
+>vee: Rain is loosely based off a friend I have (her room has like 100 plants!!) and Cory is inspired by sitcoms I watch!

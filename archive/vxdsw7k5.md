@@ -247,6 +247,7 @@ Notes:
 - https://www.espn.com/chess
 - https://edition.cnn.com/search?q=chess&sort=relevance
 - https://chesswatch.com/news
+- https://twitter.com/OnTheQueenside
 - https://www.chesstech.org
 
 - https://www.flickr.com/photos/fide

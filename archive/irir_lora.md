@@ -512,12 +512,12 @@ TE込みで回したLoRAをベースモデルにマージしたモデルのTEを
 Turquoise-XL-2.0がTE込みのLoRAをマージしただけ、
 Turquoise-XL-2.0-swapteがTE込みのLoRAをマージしてからAnimagine-XL-3.1のTEに差し替えたもの、
 Turquoise-XL-2.0-failがunetのみで学習してマージしたもの。
-![Image](https://files.catbox.moe/03imy8.webp)
-構図がベースモデルに近づいた。
-![Image](https://files.catbox.moe/3arte0.webp)
-画風がベースモデルに近づいてしまった。
-TE込みで回してマージしてから元のモデルのTEに差し替えることで構図の変化を抑えられるうえunetオンリーのような悪影響もない。
-TE込みで回してマージしてから元のモデルのTEに差し替えもいいかも。ただし画風が元のモデルに近づくことがある。
+![Image](https://files.catbox.moe/b9ta86.webp)
+目立った変化なし
+![Image](https://files.catbox.moe/0ps35i.webp)
+色味が変化した。ヘイローは消えない。
+
+TEを差し替えるとわずかに元モデルに近い色味になった。~~この程度の変化で検証する意味あったかな…？~~
 
 ### SDXLのDim(rank)
 本スレでdim1でいいという人もいれば16じゃないと微妙っていう人もいる。

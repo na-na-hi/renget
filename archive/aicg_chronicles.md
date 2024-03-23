@@ -1,4 +1,4 @@
-# /aicg/ chronicles, up to ==2024-03-12==
+# /aicg/ chronicles, up to ==2024-03-15==
 [](-> *the edit date has to be in the header* <-)
 [](-> dates fucked tho due to DST<-)
 
@@ -1305,6 +1305,7 @@ When | Where | What
 2024-03-06|[99353417](https://desuarchive.org/g/thread/99350889#99353417)| Silly holds a contest for the best original general purpose AI assistant
 2024-03-06|[FSDP](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)| a 70B model can be trained on two 24GB GPUs
 2024-03-07|[trained](https://twitter.com/AnimaAnandkumar/status/1765613815146893348)| a 7B model can be trained on a single 24GB GPU
+2024-03-07|[99358229](https://desuarchive.org/g/thread/99356408/#99358229)| anon predicts "full release" of Claude 3 on AWS on the 14th
 2024-03-07|[99359970](https://desuarchive.org/g/thread/99359740#99359970)| ChatGPT memory is remembered, temporary chats won't be remembered, usage policies change noticed
 2024-03-07|[99366485](https://desuarchive.org/g/thread/99365534#99366485)| Claude 3 is claimed to have gotten worse within a few days
 2024-03-08|[99372051](https://desuarchive.org/g/thread/99370515#99372051)| anon shares CSS for Silly on mobile
@@ -1330,6 +1331,32 @@ When | Where | What
 2024-03-12|[99441695](https://desuarchive.org/g/thread/99439847#99441695)| anon explains how to keep down the costs of slowburns with Claude 3
 2024-03-12|[99445788](https://desuarchive.org/g/thread/99445345#99445788)| UCI faculty & staff get free GPT4.5 ZotGPT
 2024-03-12|[99448605](https://desuarchive.org/g/thread/99448538#99448605)| AWS Claude 3 is claimed to be quantized hence dumber
+2024-03-12|[Truffle-1](https://twitter.com/iamgingertrash/status/1767593902251421763)| Truffle-1, a $1299 inference engine designed to run OSS models using just 60 watts, released
+2024-03-13|[99460210](https://desuarchive.org/g/thread/99458491#99460210)| CharacterHub disallows filtering by unsavory tags without an account
+2024-03-13|[99460383](https://desuarchive.org/g/thread/99458491#99460383)| "The model gpt-4 does not exist" scare
+2024-03-13|[99460743](https://desuarchive.org/g/thread/99458491#99460743)| Devin the programming llm agent presented
+2024-03-13|[99461665](https://desuarchive.org/g/thread/99461344#99461665)| yodayo\.com has to implement a filter
+2024-03-13|[99464336](https://desuarchive.org/g/thread/99461344#99464336)| anon unlocks unlimited Opus due to "amount: Input should be a valid integer" error
+2024-03-13|[99467051](https://desuarchive.org/g/thread/99464359#99467051)| Google technical writing courses recommended to learn how to write better
+2024-03-13|[99467507](https://desuarchive.org/g/thread/99467411#99467507)| c\.ai is bad but offers new TTS voices
+2024-03-13|[99466699](https://desuarchive.org/g/thread/99464359/#99466699)| Distill Web Monitor recommended to monitor web for changes
+2024-03-13|[99470549](https://desuarchive.org/g/thread/99469794#99470549)| securing the "AI" is such a serious business
+2024-03-14|[99478371](https://desuarchive.org/g/thread/99477555#99478371)| Claude 3 Haiku released
+2024-03-14|[99478576](https://desuarchive.org/g/thread/99477555#99478576)| figure\.ai's robot can talk and use hands
+2024-03-14|[99478847](https://desuarchive.org/g/thread/99477555#99478847)| Haiku is claimed to be the most harmless option by Anthropic
+2024-03-14|[99479038](https://desuarchive.org/g/thread/99477555#99479038)| anon's prediction comes true, Claude 3 Haiku available on AWS
+2024-03-14|[99485348](https://desuarchive.org/g/thread/99483217#99485348)| anon promises more AWS insights
+2024-03-14|[99485161](https://desuarchive.org/g/thread/99483217#99485161)| Anthropic API free trial issues brought to attention
+2024-03-15|[99493631](https://desuarchive.org/g/thread/99491415#99493631)| streaming bug of The proxy exposed
+2024-03-15|[99498201](https://desuarchive.org/g/thread/99495024/#99498201)| Anthropic fucks around with Claude 3 API prefill...
+2024-03-15|[99498506](https://desuarchive.org/g/thread/99498229#99498506)| ... additional examples provided...
+2024-03-15|[99498666](https://desuarchive.org/g/thread/99498229#99498666)| Claude API output filtering system observed
+2024-03-15|[99499154](https://desuarchive.org/g/thread/99498229#99499154)| ... with different behavior across Claude 3 models
+2024-03-15|[99499274](https://desuarchive.org/g/thread/99498229#99499274)| anon uses Haiku for a home voice chatbot, explains the way
+2024-03-15|[99502932](https://desuarchive.org/g/thread/99501534#99502932)| another Claude Hackathon is held, no API access granted
+2024-03-15|[99507013](https://desuarchive.org/g/thread/99504523/#99507013)| Clickable Inputs Silly extension shilled
+2024-03-15|[99508369](https://desuarchive.org/g/thread/99507289#99508369)| Silly allows greeting-specific defs/character-notes/scenarios
+2024-03-15|[99508436](https://desuarchive.org/g/thread/99507289#99508436)| hackers can read private AI-assistant chats, "All non-Google chat GPTs" phrasing proves journos are braindead
 -|-|-
 
 [](you have found my secret stash of nothing!)

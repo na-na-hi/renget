@@ -62,6 +62,7 @@ These may help you in segments where combat is unnecessary or just to simply sho
 Attributes/Training | Next Tier Bonus | Progress (Numerical) | Progress Bar
 ------ | :----: | :----: | :----:
 Attribute: Foraging | Tier 1 (+1) | 1/3 | ▮▯▯
+Attribute: High Socialite | Tier 1 (+1) | 1/3 | ▮▯▯
 Attribute: ??? | Tier 0 (+0) | 0/3 | ▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯
 Battle Attribute: ??? | N/A | 0/6 | ▯▯▯▯▯▯

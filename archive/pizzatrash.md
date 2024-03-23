@@ -11,10 +11,6 @@ https://mega.nz/folder/HX4EkBhL#Fn-jpqkI1W1yD-5AH04ibw 🍕The Toppins That I De
 https://mega.nz/folder/ykpWhCwQ#zfKAGYJB8GccX2ZruZXJPg -8 TOPPINGS GIFS TRANSPARENT
 https://mega.nz/folder/kPFXWCYZ#4hshCDG3GMMlzIpRDEgWTg Toppin Shimejis
 
-#####Leaks
-https://archive.org/download/pizzatowerleaks2020/not%20so%20staff%20only%20anymore%20is%20it%20lads.rar
-https://mega.nz/folder/TdwW2ZwQ#46pim9QC9Z68y68lExzHnw
-
 
 #####Threads
 

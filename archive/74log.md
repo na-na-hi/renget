@@ -73,6 +73,8 @@ Deepspace Anchor
 
 ENEMIES
 - Adjusted stats, and mechanics of new Abyss and MA bosses
+	- Bloodlust Mobs: Defeat 40 > 36 enemies
+	- Symphony Hellmaru: Removed the extra stage effect where you get dmg buff the longer you stay on the field.
 
 - Adjusted Battle UI on PC
 

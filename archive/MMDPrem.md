@@ -24,7 +24,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Gorimaruko (ごりまるこ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/37597222) [[Booth]](https://gorimaruko.booth.pm/) [[Fantia]](https://fantia.jp/fanclubs/225077) [[Pixiv]](https://www.pixiv.net/en/users/5098612) [[Twitter]](https://twitter.com/pinboonaga) <-
 
-[[Fantia]](https://fantia.jp/products/592309) : Granblue Fantasy - Europe
+[[Fantia]](https://fantia.jp/products/592309) : Granblue Fantasy - Europa
 [[Fantia]](https://fantia.jp/products/301027) : Granblue Fantasy - Cidala
 [[Fantia]](https://fantia.jp/products/170511) : Granblue Fantasy - Mirin
 ***
@@ -54,7 +54,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **ISAO (WITCH☆CRAFT)** <-
 ->[[Booth]](https://witchcraft130.booth.pm/) [[DLSite]](https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG44023.html) [[Fanbox]](https://witchcraft.fanbox.cc/) [[Melonbooks]](https://www.melonbooks.co.jp/circle/index.php?circle_id=99004041) [[Twitter]](https://twitter.com/isao_1031) [[Website]](http://witchcraft-jp.sakura.ne.jp/) <-
 
-[[Booth]](https://witchcraft130.booth.pm/items/5538120) - Nitroplus - Super Sonico
+[[Booth]](https://witchcraft130.booth.pm/items/5538120) : Nitroplus - Super Sonico
 [[Booth]](https://witchcraft130.booth.pm/items/5381802) : Vocaloid - Hatsune Miku
 [[Booth]](https://witchcraft130.booth.pm/items/5238626) : Vocaloid - Kagamine Rin
 [[Booth]](https://witchcraft130.booth.pm/items/5084228) : Touhou - Hakurei Reimu -Limited-
@@ -169,6 +169,7 @@ Usually the sites listed below are the most commonly used by MMD model creators 
 -> **Tsukasa (つかさ)** <-
 -> [[3d.nicovideo]](https://3d.nicovideo.jp/users/838833) [[Fantia]](https://fantia.jp/fanclubs/31095) [[Twitter]](https://twitter.com/Tukasa365) <-
 
+[[Fantia]](https://fantia.jp/products/597924) : Kantai Collection - Heywood L. Edwards + Kitsune version
 [[Fantia]](https://fantia.jp/products/593500) : Kantai Collection - Johnston -Bikini-
 [[Fantia]](https://fantia.jp/products/580485) : Kantai Collection - Johnston
 [[Fantia]](https://fantia.jp/products/566239) : Kantai Collection - Heywood L. Edwards

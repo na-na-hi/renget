@@ -755,6 +755,7 @@ tulpa: https://desuarchive.org/tg/post/92126151/
 bonfire dance: https://archive.4plebs.org/tg/post/92145990/
 A Dragon's White Day (Inigo, Maru): https://archive.4plebs.org/tg/thread/92177040/#92182995
 the last straight man in MHA: https://archive.4plebs.org/tg/post/92174790/
+he's so affable after taking his meds: https://archive.4plebs.org/tg/post/92252081/
 
 ###Shiketsu MHA season 1 ED v0.5
 https://files.catbox.moe/xnsmie.mp4
