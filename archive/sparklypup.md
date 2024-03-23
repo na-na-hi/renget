@@ -164,6 +164,7 @@
 -> - https://rentry.co/showinglove <-
 -> - https://rentry.co/yeecaw <-
 -> - https://rentry.co/indeepshit <-
+-> - https://rentry.co/radiomaid <-
 -> - https://rentry.co/howthehell <-
 -> - https://rentry.co/reptars <-
 -> - https://rentry.co/deepshit <-
@@ -171,6 +172,7 @@
 -> - https://rentry.co/bloomingun <-
 -> - https://rentry.co/robotidol <-
 -> - https://rentry.co/werthers <-
+-> - https://rentry.co/royalhalo <-
 -> - https://rentry.co/carolinagirl <-
 -> - https://rentry.co/bloominggun <-
 -> - https://rentry.co/frybread <- 
@@ -183,6 +185,7 @@
 -> - https://rentry.co/cutedogs <-
 -> - https://rentry.co/freshlycutgrass <-
 -> - https://rentry.co/sleeponit <-
+-> - https://rentry.co/zestmilla <-
 -> - https://rentry.co/simplysouthern <-
 
 -> ![-](https://files.catbox.moe/dpf5uq.png) <-

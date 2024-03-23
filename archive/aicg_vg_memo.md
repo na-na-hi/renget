@@ -11,15 +11,16 @@
 ######CYOA
 - [ ] A generic CYOA prompt addon can be used with almost any scenario or character [can't find any to be linked here]()
 - [ ] Some cards have it integrated by design: [RP Taimanin Asagi and Sakura](https://www.characterhub.org/characters/saturnia/rp-taimanin-asagi-and-sakura-9a7e4d74)
-- [ ] ~~Agnai adventure mode~~ appears broken
+- [ ] ~~Agnai adventure mode~~ currently disabled
 
 ######VNs
-- [ ] There's a dedicated frontend for the VN-like experience: https://miku.gg [![https://miku.gg](https://files.catbox.moe/c2ezt0.png)](https://docs.miku.gg/assets/overview.png)
+- [ ] There's a dedicated frontend for the VN-like experience: https://miku.gg [![https://miku.gg](https://files.catbox.moe/c2ezt0.png)](https://youtu.be/j56Koka68mY)
 - [ ] Or it can be achieved with special prompting, and enhanced with some coding: [(NSFW) Tomoyo card](https://rentry.org/tomoyocard) [![(NSFW) Tomoyo card](https://files.catbox.moe/oc6n30.jpg)](https://arch-img.b4k.co/vg/1710106280350.png)
 
 ######Text adventures
 - [ ] You can create open-ended sandbox games with a set of instructions, like [Dungeon Core Simulator](https://www.characterhub.org/characters/styxcity/dungeon-core-simulator-d8ba890f) [![Dungeon Core Simulator](https://files.catbox.moe/txo3y6.png)](https://arch-img.b4k.co/vg/1709929748383.png)
 - [ ] Or you can provide a more guided, story-driven experience with a small "database" of background info, like [The Rite of Belwick](https://www.characterhub.org/characters/asterisms/the-rite-of-belwick-f402d86c/) [![The Rite of Belwick](https://files.catbox.moe/anb643.png)](https://knickknack.neocities.org/chats.html?name=belwick)
+- [ ] With the best llms you can add gfx, stats, and buttons by telling the model to include them [![Pokemon Adventure](https://files.catbox.moe/lbblsh.jpg)](https://desuarchive.org/g/thread/99596120/#99598770)
 
 ######NPCs
 - [ ] The best models even know obscure characters like [Mario](https://c.ai/c/zQjOee8sdK0SM3lYE9QMFY5A0KxOrbObyWhQGQYLNhk)  [![Super Mario](https://files.catbox.moe/zq2imd.png)](https://desu-usergeneratedcontent.xyz/g/image/1673/90/1673900300318.png)

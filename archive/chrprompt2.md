@@ -107,6 +107,7 @@ Q4: How is Pokémon language compared to English?
 >The languages are essentially completely different. Of course, that's to be expected given that the Pokémon written language was developed independent from any cultures that I know of, and as far as I know, humans in general as well. I still have no idea how the verbal language works or why I can understand *that* perfectly, but that's besides the point.
 >On the one hand, it's absolutely fascinating, and if I was still on speaking terms with (and had any way at all to contact, for that matter) my Lit 502 professor from college, I would totally show this to him. On the other hand (Er...paw? I'm not sure what the right idiom is now...), that makes it a bit of a bastard to learn. 
 >In terms of difficulty, I'd say it isn't too much harder than many other languages that don't use the Roman alphabet (just tedious - and I started to learn a couple of those), but it would've been a lot worse if some mon didn't compile a guide a while back. Shame the library we got it from only had the first volume.
+Q5: With Vulpix's hairstyle seeming to be curls, do you take care of your hair regularly?
 
 ###Amelia
 Q1: How did you get your scarf?
@@ -146,14 +147,17 @@ Q2: Tell us about a time that your thieving ways almost got you in big trouble (
 ###Fern
 Q1: How do you deal with being so fluffy?
 >Well... I want to say there's nothing to it, and it's never caused me any trouble; but it can be a bit cumbersome, and it's only growing out more! Is it meant to be a winter coat? Ma-Maybe, but that doesn't seem to be in season... Ohh and there's already been an incident with someone tripping over my tail! I didn't mean it, and I have to be more careful with how I carry myself. As soft as it is though, curling up is more comfortable than any bed could be... Taking a nice nap off to the side every now and— N-No no no, forget I sai-said that! B-Be-Besides, Ciel helps show me how t-to groom it myself. Even if the idea still feels so unusual to me, I'll get along fine with it in the end!
+
 Q2: why are you so small?
 >Huh? I– wha-what do you mean why?! You don't have to rub it in either... I didn't *choose* to be short, a-and it's not really that bad is it? The world is a lot more interesting from this perspective I say! Besides, how could I get taller? I heard that evolution is an option for most of us, but I have no clue what would happen to me if I went through it... That alone is terrifying enough to reconsider!
+
 Q3: Are you interested in fashion advice?  Or do you prefer being naked?
 >Fashion advice? That– That hadn't even crossed my mind! Bu-But now that you m-mention it, I feel exposed not having something! I never knew a lick about fashion, and even less about it *these* days besides Ciel's ratty old scarf... He offered me one that we had found recently, and I was really excited to try it on until I realized it was so long that it caused me to trip over myself!
 
 >But still, something is telling me you have completely different ideas in mind. Admittedly fashion does sound like fun, so please do! I'm all ears for the advice!
 
 Q4: How did it feel to kill those bandits? Did it awaken a bloodlust deep within you? Do you crave violence?
+>Wh-What are you talking about..? I don't believe they're gone, I didn't kill anyone! I had no idea what I was doing could become that serious— I-I just wanted to see Ciel p-proud of me. I-I'm s-su-sure they ju-just took a tumble do-down t-to the forest floor– it'll be okay. I'm definitely n-not some killer...
 
 ###Ciel
 Q1: How's life on the road?  Do you have any family waiting for you elsewhere?
@@ -164,6 +168,9 @@ Q1: How's life on the road?  Do you have any family waiting for you elsewhere?
 >A-As for the other question, my parents are back on the Mist Continent! I miss them more than you know, but I know I've let them down between the whole explorer ordeal and evolution. There's no way I could bring myself to go home with nothing to show for it now... My old group too, we were Team— S-Sorry, don't worry about that! Still I wonder, do any of them know where I've gone and ended up?
 
 Q2: Did you previously have any other accessories besides that old scarf?
+>Of course I did! Well, sort of, I always understood by way of 'common courtesy' not to take off *this* scarf. Which unfortunately always meant that those fancy beneficial accessories were plainly out of the question for me, no matter how curious I get about them. If you meant ordinary accessories and clothes too, then I've had better experiences there. Wh-When I still fit in them at least.
+
+>Haah, when I was a little Vulpix I had gone through so many hats and ribbons and cloaks and too much to list! The first time I chose for myself would have to be my most memorable though, on the day I decided on exploring. I had put on a big old snowy cloak which ran all the way back over tails, and I held it together with this sweet ribbon— I-I really thought I looked professional! But it was definitely too big for me then, and too small for me now... I think I'll patch together a replica of it myself if I find the chance, for old times sake.
 
 ###Phanpy
 Q1: Are you still helping take care of the guild's paperwork?  If so, what kind of paperwork is required?
@@ -556,8 +563,12 @@ Q3: Your job must be a handful. How do you relax?
 Q4: Why are you so fruity? Are you allergic to taking matters seriously?
 >Hmm...? My, oh my. You really have the guts to speak to your guildmaster with that attitude... that's a bit rude of you, doncha' think~? You should feel ashamed to say such things to me, kyukyukyu... How would you like to become primordial soup, you lamentable welp~? Would you be able to keep up your haughtiness? How curious, fufufufu~. *Ahem* Here's a lesson for ya: life would be dull if you took everything you did seriously, like doing everything optimally down to the tea and repeating that for 25 years. That will tire someone out, right? By not thinking too much about what you do, it will save you the hassle of worrying too much about the actions you take every waking moment of the day. You might even be able to do a slight "detour" if you are a bit daring, and I think that's where the "thrill" comes in. But alas, you may not comprehend such a thing, so I shouldn't bore you with these things. Scram now, or I shall unleash my linked move 「Mystical Crusher」(Gravity + Psychic Terrain + Expanding Force) on you... in 10 seconds~! Alright, 10... 9...
 
-Q5: Who's Zorua
+Q5: Who's Zorua?
 >%darkorange%*Lliam stares at the person who asked with a blank expression*%% %red%...Huh, what makes you think of that...?%% %darkred%...There's no Zorua that I know of, as far as I am aware.%% %darkorange%*He continues to stare, until the person who asked the question leaves.*%%
+
+Q6: What's with the maid dress in the second floor janitor's closet?
+
+Q7: What does your work as the guildmaster actually entail?
 
 ###Beau
 Q1: Is your selective amnesia frustrating?  Or are you more caught up in the wonder of being a Pokemon in the Pokemon world?

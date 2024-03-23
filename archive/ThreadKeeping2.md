@@ -99,6 +99,8 @@ RULES: https://rentry.org/b595h6dm
 >Yōki: >>92157657
 >Koroko Kokoroko: >>92235539
 >Mr. Hopo: >>92249183
+>Lizard >>92249477
+>Aika Yuki >>92251220
 ```
 ***
 Page 2
@@ -148,7 +150,7 @@ Tsugumi's Team 6 (Tsugumi, Ghidorah, Junki, Sen)
 >>92194804
 Team 7(Fujiwara, Kamare, Daiki)
 >>92194812
->genjutsu inception
+genjutsu inception
 >>92232592
 
 Relationship Charts:
@@ -178,6 +180,10 @@ Kamiko
 https://rentry.org/KamikoRelations
 Sen
 https://rentry.org/tneot7wz
+>Sen's Dossier
+https://rentry.org/3d4wo4fo
+>Hopo
+>https://pastebin.com/096cBPzm
 ```
 
 #Fighting Autism Tournament
@@ -381,7 +387,7 @@ Kenji Yamada, Chuunimaxxer Supreme
 >Greed
 Naoki Arai, Impossibility Tinker
 >>91483248
->Hayao Yamamoto
+Hayao Yamamoto
 >>91623423
 
 >Gluttony
@@ -523,7 +529,10 @@ blind rage
 https://archive.4plebs.org/tg/post/91890223
 tall girlfriend problems
 https://archive.4plebs.org/tg/post/91928738
-
+>hes_late_as_usual-1
+https://archive.4plebs.org/tg/post/92242556
+>man knows bad vibes when he sees em.jpg
+https://archive.4plebs.org/tg/post/92251384
 
 >Tiermaker
 https://tiermaker.com/create/demon-eyes-2-16639737
@@ -547,7 +556,8 @@ Instructions + Template for Making Cards: https://pastebin.com/NQ6JNH8r
 
 >New Stuff:
 New Art:
-The great beast rests and gathers its strength
+>hes so affable after taking his meds
+>>92252081
 
 >The Archive Link so you can keep using the funny numbers for builds (use this before complaining about dead links)
 https://archive.4plebs.org/tg/thread/91673568/#91673768

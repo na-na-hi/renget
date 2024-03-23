@@ -65,7 +65,7 @@ NHK-World Premiun
 https://nhkworldpremium.com/en
 also available on toober:
 https://toober.com
-and soon on Jme (North-America only):
+and on Jme (North-America only):
 https://watch.jme.tv/english
 
 AQ Stream (NHK)

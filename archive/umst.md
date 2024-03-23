@@ -915,6 +915,7 @@ https://www.instagram.com/kono_hiyori
 
 Still in Love スティルインラブ役
 **Saki Miyashita 宮下早紀** (4 Dec)
+https://twitter.com/SAKI_MIYASHITA
 
 Dantsu Flame ダンツフレーム役
 **Haruna Fukushima 福嶋晴菜** (22 Apr)

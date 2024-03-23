@@ -85,6 +85,7 @@
 | HF052 | ![Image description](https://files.catbox.moe/is5wsd.jpeg) | Leora [🖼️](https://files.catbox.moe/dqhqzq.png) | https://files.catbox.moe/wbi2hq.webm | Anonymous | Leora, a goblin with big goth tiddy |
 | HF053 | ![Image description](https://files.catbox.moe/olfd12.jpeg) | Gaia [FFXIV] | https://i.imgur.com/j2pk25J.png | Anonymous | None |
 | HF054 | ![Image description](https://files.catbox.moe/51tsw8.jpeg) | Ryne [FFXIV] | https://i.imgur.com/VKVUwev.png | Anonymous | None |
+| HF055 %red% **New!!** %% | ![Image description](https://files.catbox.moe/oqypei.png) | Zizi | https://files.catbox.moe/hgfuii.jpg | Anonymous | Her code is %pink% HYRCWHZ7TAYW %% if you want to hire her! |
 
 ---
 

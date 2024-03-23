@@ -13,11 +13,11 @@ From the Youtube description:
 Follow Blitzo, a classic demon Imp who sets out to run his own small assassin business with his weapons specialist Moxxie, his bruiser Millie, and his receptionist hellhound Loona. Together they attempt to survive each other while running a startup in Hell.
 
 Hazbin Hotel Pilot/Pilot Download:
-https://www.youtube.com/watch?v=Zlmswo0S0e0 [Embed]
+https://www.youtube.com/watch?v=Zlmswo0S0e0 
 https://mega.nz/#!R5tGmQ6C!3hdmqy8EFsz563vmFFQThPfOw8RqBBMTHG_qpOyeoWI
 
 Helluva Boss Pilot/Pilot Download:
-https://www.youtube.com/watch?v=OlahNrlcgS4 [Embed]
+https://www.youtube.com/watch?v=OlahNrlcgS4 
 https://mega.nz/#!B4cjCQbQ!E3dEJgIvz2CQcVt__uBRH_6-PfXS27fcqbEbMv2sQSM
 
 Helluva Boss Episode playlist:

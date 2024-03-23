@@ -1,7 +1,7 @@
--> ![divider](https://files.catbox.moe/v9i4dd.png)![divider](https://files.catbox.moe/v9i4dd.png) <-
--> ![banner](https://files.catbox.moe/gvr0od.png) <-
--> ⠀ 𓎟   .gg/regretevator ⠀｡<-
--> rules[｡](lemonboy)   perks[｡](-princess)   invite[｡](https://discord.gg/regretevator) <-
+-> ![divider](https://files.catbox.moe/6jcemb.png) <-
+-> ![unpleasantly pleasant](https://files.catbox.moe/t7qhqh.png) <-
+-> ⠀ 𓎟   .gg/re!~gret~!evat!~or~! ⠀｡ <-
+-> rules%#32c637%[｡](lemonboy)%%   perks%#fa2ff0%[｡](-princess)%%   invite%#a24f09%[｡](https://discord.gg/regretevator)%% <-
 ***
--> owner[｡](rodincent)   co-owns[⁠｡](honeyspie)   staff[⁠｡](lovettedarling) <-
--> ![divider](https://files.catbox.moe/v9i4dd.png)![divider](https://files.catbox.moe/v9i4dd.png) <-
+-> owner%#32c637%[｡](pianoists)%%   co-owns%#fa2ff0%[⁠｡](honeyspie)%%   staff%#a24f09%[⁠｡](lovettedarling)%% <-
+-> ![divider](https://files.catbox.moe/zqkxc0.png) <-

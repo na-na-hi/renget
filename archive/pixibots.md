@@ -8,7 +8,9 @@
 
 ---
 
-Hi! I make cards and jailbreaks. I want to make the user feel like they're a character in an interactive light novel. If you like what I do, hit me up with some access.
+Hi! I make cards and jailbreaks. I want to make the user feel like they're a character in an interactive light novel.
+
+**If you have any issue with the JB or any of the cards, just email me. If they're shit or something about them is ridiculously stupid or you get awful gens, for fuck's sake tell me. Don't just post on the thread. I'm not a snowflake, I won't get offended. I just want to make them better.**
 
 Jump to:
 [TOC2]

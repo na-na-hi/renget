@@ -34,7 +34,6 @@
 **It is a watercolor brush though it is not watercolor. (水彩じゃないけど水彩ブラシです)**|[1956074](https://assets.clip-studio.com/en-us/detail?id=1956074)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/74/60/1956074/thumbnail)
 **csp No.19 (csp No.19)**|[1958073](https://assets.clip-studio.com/en-us/detail?id=1958073)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/73/80/1958073/thumbnail)
 **Honey Pen (みつこまペン)**|[1840719](https://assets.clip-studio.com/en-us/detail?id=1840719)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/19/07/1840719/thumbnail)
-**S-I pencil-like pen (S●I鉛筆風ペン)** |[1771305](https://assets.clip-studio.com/en-us/detail?id=1771305)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/05/13/1771305/thumbnail)
 **JS pen (JS펜)** |[1982241](https://assets.clip-studio.com/en-us/detail?id=1982241)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/41/22/1982241/thumbnail)
 **Hair Highlight Patterns (ヘアハイライトパターン)** |[1891207](https://assets.clip-studio.com/en-us/detail?id=1891207)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/07/12/1891207/thumbnail)
 **fuz and noise brush** |[1942854](https://assets.clip-studio.com/en-us/detail?id=1942854)| 10 |![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/28/1942854/thumbnail)
@@ -70,9 +69,6 @@
  ----: | :----: | :----: | :----:
 **Sex Appeal pen Set (お色気ペンセット)** | [1763831](https://assets.clip-studio.com/en-us/detail?id=1763831) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/31/38/1763831/thumbnail?1605319999)
 **Knit Brush (ニットブラシ)** | [1733427](https://assets.clip-studio.com/en-us/detail?id=1733427) | **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/27/34/1733427/thumbnail?1547815893)
-**Bubble** | [1918420](https://assets.clip-studio.com/en-us/detail?id=1918420) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/20/84/1918420/thumbnail?1665862733)
-**Bubble #2** | [1940454](https://assets.clip-studio.com/en-us/detail?id=1940454) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/54/04/1940454/thumbnail?1665862796)
-**Bubble #3** | [1940713](https://assets.clip-studio.com/en-us/detail?id=1940713) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/13/07/1940713/thumbnail?1665862812)
 **Or did you brush (やたかブラシ)** | [1952649](https://assets.clip-studio.com/en-us/detail?id=1952649) | **50 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/49/26/1952649/thumbnail?1682591668)
 **Zaku Brushes (ザクザクブラシ)** | [1930959](https://assets.clip-studio.com/en-us/detail?id=1930959) | **==30 GOLD==**, **30 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/59/09/1930959/thumbnail?1656895099)
 
@@ -103,7 +99,6 @@
  Name | Store Link | Price | Thumbnail
  ----: | :----: | :----: | :----:
 **Parallel line 12 species set (平行線12種セット)** | [1702691](https://assets.clip-studio.com/en-us/detail?id=1702691) | **600 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/91/26/1702691/thumbnail?1610601718)
-**Rain Brush (雨ブラシ)** | [1702272](https://assets.clip-studio.com/en-us/detail?id=1702272) | **==120 GOLD==**, **600 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/72/22/1702272/thumbnail?1509002720)
 **Rust brushes (錆ブラシ)** | [1701296](https://assets.clip-studio.com/en-us/detail?id=1701296) | **==150 GOLD==**, **750 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/96/12/1701296/thumbnail?1507487586)
 **Dirty Piece Wire Set (汚しカケ線セット)** | [1731899](https://assets.clip-studio.com/en-us/detail?id=1731899) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/99/18/1731899/thumbnail?1546835464)
 **Smoke Flow Set (煙流れセット)** | [1718809](https://assets.clip-studio.com/en-us/detail?id=1718809) | **850 CLIPPY** | ![](https://celclipmaterialprod.s3-ap-northeast-1.amazonaws.com/09/88/1718809/thumbnail?1562117923)

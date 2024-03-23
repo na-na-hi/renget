@@ -3,7 +3,7 @@ Unclogged endpoints!
 !~Please stop sending GPT-4 keys.~!
 
 mysteryman63453121@proton.me
-I will read my emails one day.
+I will begin reading emails.
 Grift:
 !>BTC: bc1q55t9fakmyng35qm9n3eqsf585kg4u6d60wd5r2
 !>XMR: 48NKZzN7ZGvjiD2kPeBAaEY76pUXM2JHdfoKjc8zDxntHdBfsT8eiBCRQwasAGGZ453Anpg8DuUYFgnsihaqeXJS74XweCz

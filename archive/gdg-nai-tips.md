@@ -30,17 +30,20 @@
 ## Artist tags
 Artist tags play a pivotal role in NAI, mainly for two reasons:
 1. they improve the general look of the whole pic;
-2. they make the overall aspect of more pics much more consistent across different scenarios and characters.
+2. they make the overall aspect of more pics much more consistent across different scenarios and characters;
+3. by not putting an artist tag into your prompt, you're basically preventing yourself from benefitting of one of (if not the) most important advantage NAI_ grants over a local Stable Diffusion installation.
 !!! info Advanced tip
 	It's possible to blend the artstyle of two or more artists by placing their tags close to each other. Try to experiment with this and see what may come out!
 
 In order to maximize the effect of artist tags, though, you're recommended to keep these things in mind.
 1. Artist tags work best when they're placed **right at the beginning** of the prompt, just in front of the general tags which we've shown in the former paragraph.
 2. Make sure to mention artist tags of artists who are tagged in **no less than 100-150 posts** on NAI: you can refer to [this list on Danbooru](https://danbooru.donmai.us/artists?commit=Search&search%5Border%5D=post_count) which sorts all available artists *by post counts*. The obvious consequence is that the more posts an artist is tagged in, the more accurately your pic will resemble the original artist's artstyle.
-3.  When picking a specific artist, you should check that the scenario or characters or aesthetical features you have in mind either appear in the artworks of that artist or, at least, aren't too niché or too far from the artist's scenarios. Example: asking the NAI to draw a foot sole by mentioning an artist who has seldomly drawn feet or who's tagged in very few posts on NAI which feature feet will seldomly yield good results, as the feet will probably look extremely hideous or, in the best case, the NAI will draw the foot from a different artist, making the things look out of place. In other words, if you want to pick a specific artist for your pic, try to think about a scenario where that artist is particularly good at.
+!!! note A brief note about artist tags and their posts' count on Danbooru
+	It appears that NAI can recognize even the style of those artists who only have 90-80 posts on Danbooru (`nona moth` is the first exception coming to my mind right now), so the best way to find out if an artists style works is to experiment with many of them.
+3.  When picking a specific artist, you should check that the scenario or characters or aesthetical features you have in mind either appear in the artworks of that artist or, at least, aren't too niché or too far from the artist's scenarios. Example: asking the NAI to draw a foot sole by mentioning an artist who has seldomly drawn feet or who's tagged in very few posts on NAI which feature feet will seldomly yield good results, as the feet will probably look extremely hideous or, in the best case, the NAI will draw the foot from a different artist, making the things look out of place. In other words, if you want to pick a specific artist for your pic, you should try to think about a scenario where that artist is particularly good at.
 
 ### Size-artists' tags
-The last point we've written in the previous paragraph should make it clear why selecting a specific size artist for generating size-based pics is usually the best choice. Some size artists, like Karbo, for example, who excel at drawing landscape and at emphasizing the size difference between a character and their surroundings will cause tags such as `size difference`, `miniboy`, `giantess`, `landscape` etc.etc. to work more efficiently. Do not take this last assertion as a golden rule, though: NAI will still struggle to draw a good size scenario with uncommon size tags, even if you mention a size artist. The best you can do is to experiment and see which artist tags combine better with specific tags. 
+The last point we've written in the previous paragraph should make it clear why selecting a specific size artist for generating size-based pics is usually the best choice. Some size artists, like Karbo, for example, who excel at drawing landscape and at emphasizing the size difference between a character and their surroundings will cause tags such as `size difference`, `miniboy`, `giantess`, `landscape` etc.etc. to work more efficiently. Do not take this last assertion as a golden rule, though: NAI will still struggle to draw a good size scenario with uncommon size tags, even if you mention a size artist; on the other hand, NAI might be able to generate good size pics for non-size artists who have a high count on Danbooru. The best you can do is to experiment and see how well a certain artist tag might combine with specific tags. 
 As for the specific size-artists whom NAI can recognize quite easily, I've singled out these few ones, so far: 
 - `karbo`
 - `kuro oolong`
@@ -50,19 +53,23 @@ As for the specific size-artists whom NAI can recognize quite easily, I've singl
 - `terada ochiko`
 
 ### Non-size-artists' tags
-Even though mentioning a size artist is usually preferable, there are still quite a few artists who, as far as I know according to my attempts, can work quite well with size scenarios. Here are their tags:
-- `sciamano240` (good for everything, basically: pussy, cock, both male and female characters)
-- `ilya kuvshinov` (good for stylish/beautiful characters and face/body close-ups, pussy, dark/gloomy pics; cocks can look decent too, although they're less reliable than pussy)
-- `riz` (good for cock, pussy, thick characters, furry/animals, feet too)
-- `lewdamone`  (good for thick characters, cocks, pussies)
-- `asura (asurauser)` (good for sex scenes, cocks and pussy)
-- `synecdoche` (good for thick women, ass, thighs, breasts and elves)
-- `kairunoburogu` (good for feet, soles, cocks, pussy, thighs, ass)
-- `arttoru` (good for feet and girls)
-- `bigxixi` (good for feet and soles, especially when covered in socks or pantyhose; young characters)
-- `nona moth` (good for feet, both males and females, traps)
-- `donburi (donburikazoku)` (good for asses, thick women)
-
+Even though mentioning a size artist is usually preferable, there are still quite a few artists who can work quite well with size scenarios, at least according to my experience, . Here are their tags and the things they're good for in round parenthesis:
+- `sciamano240` (both female and male characters, NSFW, phantasy characters, feet, almost all body types: basically anything works with this artist!)
+- `ilya kuvshinov` (both female and male characters, NSFW, stylish/pretty characters, thin/medium body type, pics genned with this artist tag can look gloomy/dark)
+- `riz` (both female and male characters, NSFW, phantasy characters, thick body type)
+- `lewdamone`  (female characters, thick body type)
+- `asura (asurauser)` (both female and male characters, NSFW)
+- `synecdoche` (female characters, thick/plump body types, elves)
+- `kairunoburogu` (both female and male characters, NSFW)
+- `arttoru` (female characters, thick body type, feet)
+- `bigxixi` (female characters, young look, feet / feet in pantyhose or socks)
+- `nona moth` (both female and male characters, NSFW, feet)
+- `donburi (donburikazoku)` (female characters, thick body type)
+- `shexyo` (female characters, thick body type)
+- `abubu` (similar to sciamano240, even though it's usually better at thick body types)
+- `agawa ryou` (female characters, NSFW, thick body type)
+!!! warning NSFW ?
+	When "NSFW" is written in the parenthesis next to an artist tag, it means that NAI can draw sexual organs in that artist's syle quite well, based on my observations. 
 !!! note Note
 	If anyone of you stumbles upon any other size artists who appear to be recognized by NAI or knows about more artists who seem to be working well with size tags, please let me know and I'll update the list as soon as possible.
 
